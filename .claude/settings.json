@@ -1,0 +1,36 @@
+{
+  "enabledPlugins": {
+    "agency@agency": true,
+    "bitwize-music@bitwize-music": true,
+    "sc@superclaude": true,
+    "superpowers@superpowers-marketplace": true,
+    "episodic-memory@superpowers-marketplace": true,
+    "superpowers-developing-for-claude-code@superpowers-marketplace": true
+  },
+  "extraKnownMarketplaces": {
+    "agency": {
+      "source": {
+        "source": "github",
+        "repo": "netzkontrast/agency"
+      }
+    },
+    "bitwize-music": {
+      "source": {
+        "source": "github",
+        "repo": "bitwize-music-studio/claude-ai-music-skills"
+      }
+    },
+    "superclaude": {
+      "source": {
+        "source": "github",
+        "repo": "SuperClaude-Org/SuperClaude_Plugin"
+      }
+    },
+    "superpowers-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers-marketplace"
+      }
+    }
+  }
+}
