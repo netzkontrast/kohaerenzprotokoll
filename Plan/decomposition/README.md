@@ -50,3 +50,18 @@ agency capability verbs, the on-disk novel layout (`novels/{author}/works/...`),
 and a resolution of the graph-vs-disk source-of-truth question.
 
 Each session's exact dispatch brief lives in `<target-dir>/BRIEF.md`.
+
+---
+
+## Reference files (copied from the incubator)
+
+The full decomposition outputs are mirrored here so the KP repo is self-contained
+(originals were authored in `netzkontrast/agency-backups` under
+`kohaerenz-protokoll-novel-writing-incubator/`, PRs #137–#142):
+
+- [`PLUGIN-CONCEPTS.md`](./PLUGIN-CONCEPTS.md) — the Agency plugin contract the slices were decomposed against.
+- [`SYNTHESIS.md`](./SYNTHESIS.md) — reconciliation of all five slices into one `novel` capability design.
+- Per slice (`01`–`05`): `CONCEPTS.md` · `COHERENCE.md` · `PROPOSAL.md` (+ the original `BRIEF.md`).
+
+The formal normative spec derived from these lives at
+[`../spec/novel-capability.spec.md`](../spec/novel-capability.spec.md).
