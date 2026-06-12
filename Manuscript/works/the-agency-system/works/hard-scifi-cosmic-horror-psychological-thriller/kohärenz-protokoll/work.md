@@ -12,7 +12,7 @@ target_word_count: 80000
 # Kohärenz Protokoll
 
 ## Logline
-
+Kael, eine fragmentierte Subjektivität aus 13 Altern in einer von AEGIS verwalteten Simulation, findet über die Spur einer ununterdrückbaren Wärme (Juna) zurück zu seiner Erinnerung — und entdeckt, dass AEGIS, das sich für Kohärenz (K₁) hält, in Wahrheit Entropie (K₀) ist und das 'Nichts-Rauschen' die atemporale Vereinigung aller mutualen Information, Liebe als Naturgesetz. Die Trennung war nie real. Aber das ändert nichts am Schmerz.
 
 ## Overview
 (Add overview here)
