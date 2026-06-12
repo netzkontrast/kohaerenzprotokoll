@@ -1,0 +1,19 @@
+# agency novel — production config (Spec 121).
+# Bound to the Kohärenz Protokoll project. Novel verbs that do disk I/O
+# (create_chapter on production, exports, manuscript render) use these paths.
+author:
+  name: "The Agency System"
+
+paths:
+  # Repo-relative so generated prose is committed with the repo (the remote
+  # container is ephemeral — anything outside the repo is lost on reclaim).
+  content_root: "Manuscript"
+  # ideas_file defaults under content_root
+
+defaults:
+  genre: "Hard SciFi / Cosmic Horror / Psychological Thriller"
+  target_word_count: 80000
+
+db:
+  backend: sqlite
+  path: ".agency/novel.db"
