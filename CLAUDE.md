@@ -275,3 +275,131 @@ gate against the canonical vocabularies.
 | `novel.validate_appreciations` | **`ncp`:dict** | Row 12 hybrid: NCP appreciations ∈ canonical 463 (transform). |
 | `novel.validate_narrative_functions` | **`ncp`:dict** | Row 13 hybrid: NCP narrative_functions ∈ canonical 144 (transform). |
 | `novel.what_does_X_know_as_of` | **`character_id`:str**, **`scene_id`:str** | List facts the character has learned ≤ the scene's narrative position (transform). |
+---
+
+# Proven workflow — writing this novel with the agency engine
+
+Validated end-to-end in-session 2026-06-12 (intent `intent:081f5ced`). Every
+step below ran against the real graph; gotchas are things that actually broke.
+
+## 0. Session-start ritual (every fresh session)
+
+```python
+# MCP lane (execute block):
+nid = (await call_tool("capability_novel_resume_session", {}))["novel_id"]   # → novel:9d170c31
+iid = (await call_tool("intent_bootstrap", {"purpose": "...", "deliverable": "...", "acceptance": "..."}))["intent_id"]
+```
+
+```bash
+# CLI lane (Bash; provenance-equivalent, better for batches):
+export AGENCY_INTENT=$(/root/.local/bin/agency intent --purpose "..." --deliverable "..." --acceptance "..." | tail -1)
+/root/.local/bin/agency novel <verb> --novel-id novel:9d170c31 [--options]
+echo '<code>' | /root/.local/bin/agency execute        # code-mode from stdin
+```
+
+## 1. Two invocation lanes — when to use which
+
+| lane | strengths | hard limits |
+|---|---|---|
+| MCP `execute` block | interactive, chained, one wire return | ≤ **50 `call_tool` per block**; sandbox (Monty) has **no file I/O**, no `open` |
+| CLI `agency …` | batch scripts, stdin code-mode, pipes | same sandbox limits in `agency execute`; per-verb subcommands take `--flags` + `--json` |
+
+Sandbox supports `try/except`, `import json`, loops. A failed call inside a
+block aborts the REST of the block, but **writes already made persist** — all
+batch scripts must be idempotent against graph ground truth, not a ledger.
+
+## 2. Canon ingestion (done; re-run only when canon docs change)
+
+`Canon/*.md` → extraction manifests (`Plan/ingest/*.extraction.json`) →
+`python3 scripts/ingest_canon.py`. The driver is idempotent (skips existing
+slugs/numbers/labels/texts via read-only SQL against `.agency/session.db`)
+and retries transient engine failures while progress is being made.
+
+Seeded state (graph + `Manuscript/` disk tree):
+
+- Novel `novel:9d170c31`, chapters **0–40** (ch 0 = revised, body = clean Kap-0 prose; 1–40 outlined with act/POV/beats outline bodies)
+- **7 Worlds** (KW1–KW4, Überwelt, Externe Ebene Köln 2026, Kosmos-Meta) + **111 WorldAxioms** (hard/soft)
+- **~600 CodexEntries** (terms, characters, rules, motifs, sensorik, philosophy, themes, defects, guidance — see kind mapping below)
+- **15 Scenes** for Kap 0 with **97 chained NarrativeBeats** (PRECEDES order)
+- **~56 StoryTimeEvents** (Genesis chronology + outline events; Kap-0 events have REVEALED_IN edges)
+- **~220 NovelClaims** (`source_uri` = canon file) + **19 storyform decisions**
+- Disk: `work.md`, `premise.md`, `dramatica.md` (dual A/B storyform), `ncp.json` (storyform **null** until storyform-build walk), `chapters/NN-slug.md`
+
+## 3. Codex discipline (Spec 132)
+
+Valid kinds are ONLY `{concept, location, faction, artefact, minor-character}`.
+Anything else (rule, motif, theme, voice, character, …) is stored as `concept`
+(or mapped: character→minor-character, technology/system→artefact) with the
+original category as first body line: `**Kategorie:** <kind>`. Characters are
+codex entries until the Character ontology ships (Slice 2) — their entry ids
+work as `character_id` in `link_character_to_world` / `record_character_learns`.
+
+`match_codex_entries(novel_id, text)` fires triggers → use it to auto-assemble
+scene-relevant canon before drafting. Tune noisy triggers via `update_codex_entry`.
+
+## 4. The scene-writing loop (the core collaboration workflow)
+
+Per scene, in order:
+
+1. **Assemble context** (transforms, cheap):
+   - `chapter_report_full(chapter_id)` — dashboard
+   - `list_story_events_up_to(scene_id)` + `what_does_X_know_as_of(character_id, scene_id)` — knowledge fences (anachronism guard: `flag_anachronistic_reference`)
+   - `match_codex_entries(novel_id, <beat text>)` — canon injection
+   - R-rules + Sprach-DNA register from codex (`list_codex_entries kind=concept`, slugs `r-1`…`r-10`, `sprach-dna-*`, `register-*`)
+2. **Draft** — two modes:
+   - *Host-LLM mode (Claude writes inside the engine)*: `generate_scene_body(scene_id, scene_brief, prefer_delegate=True)` → returns `kind="llm_delegate"` envelope → Claude (the host) writes the prose for that envelope → re-call `generate_scene_body(scene_id, host_completion={...})` → engine captures Artefact + runs prose checks. **No API key needed.**
+   - *Direct mode*: draft prose in chat with the user, then `integrate_scene_body(scene_id, body)`.
+3. **Check** (decidable, driver-free): `check_filter_words`, `check_show_dont_tell`, `check_dialogue_attribution`, `analyze_readability`, `count_words`, `check_voice_consistency(bodies=[...])` vs. Kap 0.
+4. **Audit meaning**: walk `scene-bridge-auditor` (Q1 purpose → Q5 payoff, hard sign-off).
+5. **Record**: `mark_narrative_beat` for new beats, `record_story_event`/`reveal_in_scene` for disclosures, `record_character_learns` for knowledge changes.
+6. **Roll up**: `set_chapter_status(chapter_id, drafted|revised)` when all scenes land; `chapter_report(novel_id)` for progress.
+
+## 5. Gates & skills ladder (run in order, never skip the hard gates)
+
+`pre_draft_gate` → `developmental_gate` → `line_gate` → `copy_gate` →
+`beta_ready_gate` → `query_ready_gate` → `publish_ready_gate` → `publication_gate`.
+
+Walkable skills carry the hard gates (`develop.skill_walk(name, inputs)` —
+each phase consumes its declared `produces` keys from `inputs`; the final
+confirmation phases REQUIRE explicit user sign-off → AskUserQuestion first):
+`novel-concept` (10 phases), `storyform-build` (6 — fills `ncp.json`),
+`character-architect` (4), `world-bible-architect` (5, canon-lock),
+`scene-writer` (5), `scene-bridge-auditor` (5), `developmental-editor` (5),
+`line-editor` (4), `publish-prep` (4).
+
+## 6. Storyform / NCP
+
+`dramatica.md` holds the dual A/B storyform (transcribed, normative source:
+storyform doc). `ncp.json.storyform` is intentionally **null**: filling it is
+the `storyform-build` walk (throughline-partition → … → composite-gate) and
+needs user decisions because the NCP schema is single-storyform — the dual
+structure must be resolved (the canon doc records how: see
+`record_storyform_decision` entries). After filling: `novel_coherence_check(ncp)`
+runs all 11 decidable checks; `validate_appreciations` / `validate_narrative_functions`
+gate the vocabulary.
+
+## 7. Engine gotchas (all hit in practice)
+
+- **≤50 `call_tool` per execute block** — batch at ≤45.
+- **`ToolResult.failure` returns `null`, not an exception** — always check for null results in batch loops.
+- **CodexEntry `kind` enum** is closed (5 values) — see §3.
+- **`create_scene` `pov` enum**: {first, second, third-limited, third-omniscient} — project rich voice descriptions onto it; keep the full register text in codex (`register-*`) and the manifests.
+- **`capture_claim` `domain` enum**: the 10 RESEARCH_DOMAINS (historical, scientific, cultural, geographical, linguistic, philosophical, religious, political, technological, biographical) — no `canon`; the canon file goes in `source_uri`.
+- **WorldAxiom `severity`** ∈ {hard, soft}; **chapter status** ∈ {outlined, drafted, revised, final}; **novel status** ∈ {concept, outlining, drafting, revising, beta, querying, published}.
+- **Partial-block persistence**: a crashed block leaves its earlier writes in the graph → idempotency via ground truth (read-only SQL on `.agency/session.db`), never via memory/ledger alone.
+- **Transient `Failed to set property 'vfrom' on edge N`** under concurrent MCP+CLI use → retry while progress is made.
+- **`reflect_note` scope enum**: {observation, project, reflection, technical, user, world}.
+- **Disk config**: `.agency/novel-config.yaml` `content_root: "Manuscript"` (repo-relative). The work tree lives at `Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/`.
+- **Disk writes need the MCP production runtime** (`_novel_production` flag): the bare CLI is graph-only. Re-render chapter files from graph ground truth with `python3 scripts/materialize_manuscript.py` (uses the engine's own FileNovelStateDriver).
+- `count_words`/`check_*` body verbs are driver-free and safe everywhere.
+
+## 8. Prompt patterns for drafting with the user
+
+Scene prompts should always carry (auto-assemble via §4 step 1):
+1. the scene's beats (graph) + POV/voice register (codex `register-*`, `R-7`/`R-9`),
+2. matched codex bodies (trigger scan over the beat text),
+3. the knowledge fence (what the POV-Anteil knows as of this scene),
+4. applicable hard rules (R-1…R-10, usage rules: e.g. **no DKT terminology in the first 50 pages**, Multiplizitäts-Schleier until Kap 13, Juna never as sentence subject),
+5. the sensory palette of the active world (codex `sensorik`/world entries).
+
+German prose out, English engineering in. On any canon ambiguity: AskUserQuestion (Rule 0).

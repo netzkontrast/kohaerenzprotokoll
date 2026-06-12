@@ -236,6 +236,22 @@ def build_codex_entries(m: dict[str, dict]) -> list[dict]:
     return list(entries.values())
 
 
+def scene_pov(pov_text: str) -> str:
+    """Project the canon voice description onto the SCENE_POV enum.
+
+    Lossy on purpose — the full German register description stays in the
+    kap0 manifest + the codex `register-*` entries. Mapping: Funken-Ich /
+    Kael (1. Person) → first; AEGIS-System-Stimme → third-limited;
+    Erzähler/Vermittler → third-omniscient.
+    """
+    t = pov_text.lower()
+    if "funken-ich" in t or "1. person" in t or "kael" in t:
+        return "first"
+    if "aegis" in t:
+        return "third-limited"
+    return "third-omniscient"
+
+
 def chapter_body(ch: dict) -> str:
     parts = ["## Outline\n"]
     if ch.get("act"):
@@ -371,7 +387,7 @@ def main() -> int:
         if todo:
             res, errs = run_ops([
                 op("capability_novel_create_scene", chapter_id=ch0,
-                   slug=s["slug"], pov=s["pov"]) for s in todo])
+                   slug=s["slug"], pov=scene_pov(s["pov"])) for s in todo])
             for s, r in zip(todo, res):
                 if r and r.get("scene_id"):
                     ids[f"scene:{s['slug']}"] = r["scene_id"]
@@ -382,6 +398,8 @@ def main() -> int:
         beat_ops, beat_keys = [], []
         for s in scenes:
             sid = ids.get(f"scene:{s['slug']}")
+            if not sid:
+                continue  # scene missing — never call beats with a null id
             for j, b in enumerate(s.get("beats", []), 1):
                 if b in have_beats:
                     ids[f"beat:{s['slug']}:{j}"] = have_beats[b]
@@ -451,17 +469,22 @@ def main() -> int:
             ledger_save(led)
         mark("events", errs_all)
 
-    # P7 — canon claims from every manifest
+    # P7 — canon claims from every manifest. `domain` is enum-bound to the
+    # 10 RESEARCH_DOMAINS — project per source doc; source_uri keeps the file.
+    dom_map = {"begriffe": "scientific", "philosophie": "philosophical",
+               "kernwelten": "geographical", "characters": "biographical",
+               "sensorik": "cultural", "storyform": "cultural",
+               "kap0": "cultural"}
     if not phase_done("claims"):
         have_claims = existing("NovelClaim", "text")
         ops = []
-        for doc in m.values():
+        for name, doc in m.items():
             src = doc.get("source", "")
             for c in doc.get("claims", []):
                 if c["text"] in have_claims:
                     continue
                 ops.append(op("capability_novel_capture_claim", text=c["text"],
-                              source_uri=src, domain=c.get("domain", "canon")))
+                              source_uri=src, domain=dom_map.get(name, "cultural")))
         errs_all = []
         for batch in batched(ops):
             _, errs = run_ops(batch)
@@ -509,9 +532,14 @@ def main() -> int:
 
 
 def _graph_size() -> int:
+    """Real-progress metric: payload nodes only. Invocation nodes also grow
+    on FAILED calls, so raw node count would mask a hard failure loop."""
     import sqlite3
     c = sqlite3.connect(f"file:{ROOT}/.agency/session.db?mode=ro", uri=True)
-    n = c.execute("SELECT COUNT(*) FROM nodes").fetchone()[0]
+    n = c.execute(
+        "SELECT COUNT(*) FROM node_labels WHERE label IN "
+        "('World','WorldAxiom','CodexEntry','Chapter','Scene',"
+        "'NarrativeBeat','StoryTimeEvent','NovelClaim')").fetchone()[0]
     c.close()
     return n
 
