@@ -367,16 +367,17 @@ confirmation phases REQUIRE explicit user sign-off → AskUserQuestion first):
 `scene-writer` (5), `scene-bridge-auditor` (5), `developmental-editor` (5),
 `line-editor` (4), `publish-prep` (4).
 
-## 6. Storyform / NCP
+## 6. Storyform / NCP (BUILT 2026-06-12 — user signed off)
 
-`dramatica.md` holds the dual A/B storyform (transcribed, normative source:
-storyform doc). `ncp.json.storyform` is intentionally **null**: filling it is
-the `storyform-build` walk (throughline-partition → … → composite-gate) and
-needs user decisions because the NCP schema is single-storyform — the dual
-structure must be resolved (the canon doc records how: see
-`record_storyform_decision` entries). After filling: `novel_coherence_check(ncp)`
-runs all 11 decidable checks; `validate_appreciations` / `validate_narrative_functions`
-gate the vocabulary.
+Dual structure resolved per user decision: **`ncp.json` = Storyform A**
+(engine-canonical, ALL 11 checks + both vocabulary gates PASS, report
+`artefact:d15bc35f`); **`ncp-b.json` = Storyform B** canon-faithful incl. its
+2 documented heterodox rows (linear-progressive signposts — Canon-Lock, never
+"fix" them). All 7 enum projections (crucial element el.avoid, MC/OS/IC
+signpost mappings, dynamic antipodes) are `record_storyform_decision` entries.
+`storyform-build` walk completed (skill provenance recorded); **pre_draft_gate
+PASSES**. Graph Storyform node: `storyform:307d5d60` (see gotcha below).
+Novel status: `outlining`.
 
 ## 7. Engine gotchas (all hit in practice)
 
@@ -392,6 +393,9 @@ gate the vocabulary.
 - **Disk config**: `.agency/novel-config.yaml` `content_root: "Manuscript"` (repo-relative). The work tree lives at `Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/`.
 - **Disk writes need the MCP production runtime** (`_novel_production` flag): the bare CLI is graph-only. Re-render chapter files from graph ground truth with `python3 scripts/materialize_manuscript.py` (uses the engine's own FileNovelStateDriver).
 - `count_words`/`check_*` body verbs are driver-free and safe everywhere.
+- **Hard-gate resume**: `skill_walk` pauses `input-required` + `blocked_on: gate:<id>` → resume with `resume_from=<PHASE NAME>` (not the gate id) + full inputs.
+- **ENGINE GAP — Storyform node**: no verb mints it (gates require it; the walker doesn't create it). `storyform:307d5d60` was inserted surgically in exact `ctx.record` shape (id/novel/body + vfrom/vto + SERVES). Replace with the real verb when the engine ships one.
+- **Coherence checks read `ncp["storyform"]["throughlines"]` directly** with `t.*`/`class.*`/`el.*` ids; signposts must be EXACTLY the canonical order per class; `(resolve,outcome,judgment)` ∈ 4 legal triples; `mental_sex` holistic⇒{mind,psychology}, linear⇒{universe,physics}.
 
 ## 8. Prompt patterns for drafting with the user
 
