@@ -98,6 +98,18 @@ assumption baked into canon prose is expensive to unwind; a question is cheap.
   normative (`Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`).
 - Prefer agency **capability verbs** over raw file edits so provenance is recorded.
 
+## Registered novel
+
+The Novel node is live: **`novel:9d170c31`** — "Kohärenz Protokoll", author
+*The Agency System*, genre *Hard SciFi / Cosmic Horror / Psychological Thriller*,
+status `concept`. Use `novel.resume_session` to recover the id in a fresh session.
+
+## Gotchas (save a round-trip)
+
+- `reflect_note` `scope` enum is **`{observation, project, reflection, technical, user, world}`** — `decision` is rejected by the ontology.
+- Every verb needs a live `intent_id`; mint one with `intent_bootstrap` at session start (a stale/empty id errors).
+- A failed `call_tool` inside an `execute` block aborts the rest of the block, but graph writes already made in that block **persist** (not rolled back) — re-query before re-running.
+
 ---
 
 # Novel capability — full reference (Spec 101 master)
