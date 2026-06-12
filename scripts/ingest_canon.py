@@ -508,5 +508,29 @@ def main() -> int:
     return 0
 
 
+def _graph_size() -> int:
+    import sqlite3
+    c = sqlite3.connect(f"file:{ROOT}/.agency/session.db?mode=ro", uri=True)
+    n = c.execute("SELECT COUNT(*) FROM nodes").fetchone()[0]
+    c.close()
+    return n
+
+
 if __name__ == "__main__":
-    sys.exit(main())
+    # The graph engine occasionally fails an edge-property write when the
+    # MCP server process touches the DB concurrently. The driver is
+    # idempotent against ground truth, so: retry while progress is made.
+    import time
+    last = -1
+    for attempt in range(1, 40):
+        try:
+            sys.exit(main())
+        except RuntimeError as e:
+            size = _graph_size()
+            print(f"[retry {attempt}] transient failure at graph size {size}: "
+                  f"{str(e)[:160]}", flush=True)
+            if size == last:
+                print("no progress between retries — giving up", flush=True)
+                raise
+            last = size
+            time.sleep(2)

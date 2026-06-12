@@ -1,0 +1,1056 @@
+{
+ "source": "Canon/kohaerenz-protokoll_kernwelten-vollstaendig_2026-06-10.md",
+ "worlds": [
+  {
+   "slug": "kw1-konstrukt-stadt-logos-prime",
+   "name": "KW1 — Konstrukt-Stadt / Logos-Prime",
+   "body": "Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht. Domäne der ANP-Vermeidung; der Erasure-Pol durchwirkt die Welt diffus. Kants Phaenomena — Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert. Akt-Dominanz: Akt I (Kap 1–13); der Multiplizitäts-Schleier hält bis Kap 13. Computational Class: P (Polynomial) — klare Regeln, klare Lösungen, wenn A, dann B.\n\nÄsthetik: Kühle Farben (Blau, Grau, Weiß), keine warmen Töne. Klare Linien, definierte Wege, keine Ornamentik; streng rechte Winkel, klassische Euklidik. Schattenloses, gleichmäßiges Licht — keine Akzente, keine Quellen, als wäre das Licht von überall. Glatte, polierte Oberflächen ohne sichtbare Textur; Sterilität als Materialeigenschaft. Grundprinzip: Architektur als Kontrolle — jede Form sagt: „Es gibt eine richtige Antwort.\"\n\nSensorik (Default-Set): Geruch: Ozon (Landauer-Suppression-Spur, kalt-elektrisch) + Desinfektionsmittel. Klang: konstantes leises Summen, Systemhum, Stille mit Substanz. Taktil: kühle, glatte Oberflächen, recycelte Luft. Temperatur: konstant 21°C — jede Abweichung ist Riss-Vorzeichen. Optisch: schattenloses, gleichmäßiges Licht, bis es flackert.\n\nLogik: Streng kausal, deterministisch, regelbasiert. Klassische Logik mit Tertium non datur und Ex contradictione quodlibet. Effiziente Konstruierbarkeit und Verifizierbarkeit.\n\nStilebene 1: Kalt, steril, assertorisch. Metaphernverbot. Dialoge in formaler Sprache, AEGIS-Logs interleaved. Kurze Hauptsatz-Ketten, eindeutige Subjekt-Verb-Objekt-Folgen, kein Schweben.\n\nSomatik-Default: Atem. Atemzählung (vier Sekunden hinein, sechs hinaus), Atemstockung, kontrollierte Mikrobewegungen. Lex' Hypoventilation als unterschwelliger Default. Brust eng, Schultern hoch. Regulation durch Disziplin.\n\nRisse: Die schmerzhaftesten Risse — weil sie in eine Umgebung einbrechen, die für Risse keine Sprache hat. Manifestationen: Logikparadoxien werden physisch (Escher-Geometrien temporär stabil), Kausalitätsschleifen, inkonsistente Regelanwendung, blutende Knöchel ohne Erinnerung an die Verletzung (Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos; Wiederkehr am Ende offen). Riss-Sensorik: scharfes Ozon, Temperaturspike, Geometrie-Bruch. KW1-Risse tragen den Landauer-Strang (Ozon, Hitze) und den Gödel-Strang (Logik-Bruch).\n\nSub-Lokalitäten (kanonisch): Wohneinheit 734, Datenverarbeitungsknoten Epsilon, Transitkorridor Delta-7, Sektor 04, Archivar-Klasse-II-Arbeitsraum. Steinbruch-gefiltert: Therapie-Schnittstelle Gamma, AEGIS' Beobachtungszentrum, Regel-Exekutor Posten 12, Sektor für Logische Rekreation, Archiv der Kausalitätsketten.\n\nBewohner: KW1-Bewohner sind anonym, uniform, funktional — keine individuellen NPCs als Figuren. Kael (Host) ist die einzige Innensicht. AEGIS ist Umgebungsbedingung, keine Figur in KW1. Kael interagiert in KW1 mit Funktionen, nicht mit Personen — Teil der phänomenologischen Sterilität.",
+   "kind": "inner-world",
+   "linked_characters": [
+    "Kael",
+    "AEGIS",
+    "Erasure-Pol",
+    "Lex"
+   ],
+   "axioms": [
+    {
+     "text": "Die Temperatur in KW1 ist konstant 21°C; jede Abweichung ist Riss-Vorzeichen.",
+     "severity": "hard"
+    },
+    {
+     "text": "In KW1 gilt streng kausale, deterministische, regelbasierte Logik: klassische Logik mit Tertium non datur und Ex contradictione quodlibet (Computational Class P).",
+     "severity": "hard"
+    },
+    {
+     "text": "Metaphernverbot in KW1 (Stilebene 1): kalt, steril, assertorisch; kurze Hauptsatz-Ketten, kein Schweben.",
+     "severity": "hard"
+    },
+    {
+     "text": "Kael interagiert in KW1 mit Funktionen, nicht mit Personen; KW1-Bewohner bleiben anonym, uniform, funktional — keine individuellen NPCs als Figuren.",
+     "severity": "hard"
+    },
+    {
+     "text": "AEGIS ist in KW1 Umgebungsbedingung, keine Figur.",
+     "severity": "hard"
+    },
+    {
+     "text": "Keine Welt-Hybrid-Sensorik in Akt I: KW1 = Stilebene 1, voll und ohne Bridge; erste Stilbruch-Spuren in Kap 6, voll-polyphon erst Akt II.",
+     "severity": "hard"
+    }
+   ]
+  },
+  {
+   "slug": "kw2-mnemosyne-archipel",
+   "name": "KW2 — Mnemosyne-Archipel",
+   "body": "Erinnerung als Schauplatz, nicht als Inhalt. Die Architektur dieser Welt ist gespeicherte K₁ — Erinnerung, die so dicht und strukturell rein ist, dass sie als Ort begehbar wird. Hier kann Erasure nicht greifen, weil das Setting selbst K₁-Substrat ist. Akt-Dominanz: Mittlere Akt II (Kap 14–22); plus Vortex-1-Setting (Kap 35–36, Mnemosyne-Server-Architektur). Computational Class: Parakonsistent — Widersprüche koexistieren, ohne dass das System in Trivialismus kippt (Tarski-Hierarchie hält). Guardian-Dominanz: Mnemosyne dominiert hier klar; ihre Versuchung („den Schmerz löschen\") ist in KW2 lokal verankert.\n\nÄsthetik: Fluide, traumartige Form. Landschaften: Wälder des Flüsterns, Ozeane der Trauer, sepia-getönte Bibliotheken im langsamen Verfall. Lichtkegel, in denen Staubpartikel still hängen — wie eingefroren. Architektonische Palimpseste — alte Strukturen scheinen unter neuen durch.\n\nSensorik: Klang: Echos; Wassertropfen, deren Quelle nicht zu finden ist; überlappende Gesprächsfetzen, Musikfragmente, Geräusche aus Erinnerungs-Szenen. Geruch: feuchte Erde + verblassendes Parfum. Taktil: wechselnde Bodentexturen (fest, sumpfig, sandig). Zeit: nicht-linear — Sekunden dehnen sich, Tage kollabieren. Temperatur: wechselnd, oft fiebrig.\n\nLogik: Assoziativ, emotional. Realität formt sich nach innerem Zustand. Resonanz mit Vergangenheit/Intrusionen. Parakonsistent.\n\nStilebene 2: Heiß, fragmentiert. Trigger kollidieren. Sprache wird poröser. Hypotaxe bricht, Parataxe steigt.\n\nSomatik-Default: Bauch. Bauchreaktionen, viszerales Erinnern, Übelkeit ohne Anlass, Hände, die nicht stillhalten.\n\nRisse: Temporale Risse (Kiko-Trigger): Räume, die mehrere Zeitpunkte gleichzeitig zeigen. Spatiale Risse (Lia/Isabelle-Trigger): Türen, die in Erinnerungen führen, die nie geschehen sind — und doch wahr sind. Wasser-Risse: Salzwasser, Treibgut, Sturm. Riss-Sensorik: Wasser ohne Quelle, Echos, Geruchsumschlag. KW2-Risse tragen den Dasein-Strang (Existentielle Unverankerung in falschen Erinnerungen).\n\nSub-Lokalitäten (kanonisch): Das Archiv der Grenzen, Wald des Flüsterns, Ozean-Becken, Mnemosyne-Server-Architektur (Vortex-1-Setting; primäres Bild offen — vier Vorschläge: Inselgruppe, Server-Halle, Memorialarchitektur, Zirbeldrüse-Architektur; Pinning vor Kap-35-Drafting). Steinbruch-gefiltert: Vergessener Schrein (Trauma-Lokus), Insel der fragmentierten Erinnerungen, See der Tränen / Melancholie-Zone, Galerie der falschen Erinnerungen, Archiv des Ungesagten, Mnemosynes Gedächtnispalast, Fluss des Vergessens (Lethe-Strom), Narbenfelder.\n\nBewohner: Mnemosyne als Welt-Hüterin — nicht omnipräsent, aber als Atmosphäre durchgängig spürbar. Generische Archivar-Figur als NPC (anonymer NPC ohne Eigennamen, eine Funktion mit Stimme; möglicherweise unbenannt Mnemosynes Auge in der Welt; im Steinbruch mit dem dekanonisierten Alter „Echo\" assoziiert — in aktueller Form nur generische Rolle). Kael + seine Alter: in KW2 werden die EPs erstmals als eigenständige Stimmen spürbar; trauma-assoziierte Anteile (Kiko, Lia, Isabelle, Moros, Nyx) durchwirken die Welt-Sensorik.",
+   "kind": "inner-world",
+   "linked_characters": [
+    "Kael",
+    "Mnemosyne",
+    "Kiko",
+    "Lia",
+    "Isabelle",
+    "Moros",
+    "Nyx"
+   ],
+   "axioms": [
+    {
+     "text": "In KW2 kann Erasure nicht greifen, weil das Setting selbst K₁-Substrat ist.",
+     "severity": "hard"
+    },
+    {
+     "text": "Die Zeit in KW2 ist nicht-linear: Sekunden dehnen sich, Tage kollabieren.",
+     "severity": "hard"
+    },
+    {
+     "text": "In KW2 gilt parakonsistente Logik: Widersprüche koexistieren, ohne dass das System in Trivialismus kippt (Tarski-Hierarchie hält).",
+     "severity": "hard"
+    },
+    {
+     "text": "Realität in KW2 formt sich nach innerem Zustand: assoziativ, emotional, in Resonanz mit Vergangenheit und Intrusionen.",
+     "severity": "hard"
+    },
+    {
+     "text": "Mnemosyne dominiert KW2; ihre Versuchung („den Schmerz löschen\") ist hier lokal verankert.",
+     "severity": "soft"
+    }
+   ]
+  },
+  {
+   "slug": "kw3-cerberus-labyrinth",
+   "name": "KW3 — Cerberus-Labyrinth",
+   "body": "Welt der Verteidigung. Schutzraum / Quarantäne / Kontrollzentrum. Hier dominieren die EP-Protektoren (Alex, Nyx) und die Erasure-Pol-Logik. Naming-Anmerkung: „Cerberus\" ist Welt-Bezeichnung (mythologische Wache an der Schwelle), kein aktiver Guardian. Akt-Dominanz: Späte Akt II (Kap 23–28). Computational Class: NP-Hard — die Suche nach Sicherheit ist kombinatorisch unbeherrschbar; Kael (und der Leser) muss Mustererkennung anwenden und mit ihren Grenzen leben.\n\nÄsthetik: Ewiges Dämmerlicht, schattenhafte Korridore. Hohe Mauern, Wachtürme, Überwachungssysteme. Labyrinthisch. Beton, Stahl, Stacheldraht. Bunker-Topologie, Brutalismus, Sicherheits-Maximierung als Designprinzip.\n\nSensorik: Klang: metallisches Quietschen, Scharren, ferne Alarme; eigene Schritte verstärkt; Echos. Geruch: Schießpulver-Geruch (sensorisch, nicht von realen Waffen), Metall, Maschinenöl. Taktil: kalte, raue Oberflächen. Hyperalert-Gefühl: das Nervensystem rechnet konstant durch, ob die nächste Ecke sicher ist. Temperatur: kalt, klamm.\n\nLogik: Bedrohungsanalyse, Verteidigungsprotokolle, Mustererkennung (oft hypersensibel). Misstrauen. NP-Hard: falsche Positive sind häufig; perfekte Sicherheit ist nicht erreichbar.\n\nStilebene 2+ (paranoid): Stakkato. Sätze brechen ab. Kurze imperative Konstruktionen. Spürbarer Alex/Nyx-Einfluss in der Welt-Stimme.\n\nSomatik-Default: Muskel. Hypertonus, Brace for Impact, Bruxismus, Schulter eingezogen, Atem flach.\n\nRisse (paranoid-spatial): Geometrie verzerrt sich; gravitationale Risse (Boden wird nachgiebig); kinetische Risse (Mauern bewegen sich plötzlich); falsche Wege, die plötzlich Sinn ergeben; Sicherheitssysteme, die ihre eigenen Erbauer einsperren (charakteristisch). Außerdem Schatten, die sich falsch bewegen. Riss-Sensorik: metallisches Quietschen, Hyperalert-Empfindung. KW3-Risse tragen den Bekenstein-Strang (Pixelierung am Rand der Welt).\n\nSub-Lokalitäten (kanonisch): Zitadelle / Inneres Bollwerk (paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird), Wartungsschächte (Fluchtweg in tiefere Ebenen; Zugang zu Strukturen jenseits AEGIS' Sichtfeld; mögliches Transitions-Substrat zwischen Welten), Unbewachte Tore (Türen, die vorher nicht da waren; markieren oft den Übergang in andere KWs), Evaluierungseinheit (Ort des „Messers im Bewusstsein\", Kap 13; wo Personae kollabieren). Steinbruch-gefiltert: Schleusen des Misstrauens, Gänge der Paranoia, Labyrinth der Paranoia, Innerer Bunker, Arena der inneren Konflikte, Zensurkammer, Feld der Abwehrmechanismen.\n\nBewohner: Anonyme Wachen als Funktion, nicht als Figuren; „Regel-Exekutor\" als generische Rolle, kein NPC-Name aus Steinbruch. Kael + Alex, Nyx dominieren die Welt-Erfahrung; die Protektoren-Anteile sind hier auf Hochbetrieb. Mnemosyne fehlt hier weitgehend — KW3 ist nicht ihre Domäne.",
+   "kind": "inner-world",
+   "linked_characters": [
+    "Kael",
+    "Alex",
+    "Nyx",
+    "Erasure-Pol"
+   ],
+   "axioms": [
+    {
+     "text": "In KW3 gilt NP-Hard-Logik: die Suche nach Sicherheit ist kombinatorisch unbeherrschbar; falsche Positive sind häufig; perfekte Sicherheit ist nicht erreichbar.",
+     "severity": "hard"
+    },
+    {
+     "text": "Mnemosyne fehlt in KW3 weitgehend; KW3 ist nicht ihre Domäne.",
+     "severity": "hard"
+    },
+    {
+     "text": "Die unbewachten Tore in KW3 erscheinen, wo sie nicht waren — sie sind keine Architektur, sondern Ereignis; sie markieren oft den Übergang in andere KWs.",
+     "severity": "hard"
+    },
+    {
+     "text": "Cerberus ist nur Welt-Bezeichnung (mythologische Wache an der Schwelle), kein aktiver Guardian und keine Figur.",
+     "severity": "hard"
+    },
+    {
+     "text": "KW3 ist nicht „die Hölle\" — auch dort ist Schutz; keine Welt-Dämonisierung.",
+     "severity": "soft"
+    }
+   ]
+  },
+  {
+   "slug": "kw4-kairos-potentialis",
+   "name": "KW4 — Kairos-Potentialis / Möglichkeits-Garten / Resonanz-Kontinuum",
+   "body": "Einzige Zone, in der neue Coheronen entstehen können — Emergenz statt Erhaltung. Der überwucherte Ruinengarten der Möglichkeit. Hier wird die Funktionale Multiplizität als Erlebnis (nicht als Konzept) eingeübt. Naming: Kanonisch ist „Kairos-Potentialis\" als mythologische Welt-Bezeichnung; Kairos und Sophia als Guardians sind dekanonisiert. Andere kanonische Namen: „Möglichkeits-Garten\", „Resonanz-Kontinuum\". Akt-Dominanz: Akt III (Kap 29–34, 37–39), außer Vortex 1 (KW2) und der trügerischen Pastorale Kap 37, die anders verortet ist. Computational Class: Generativ — neue Strukturen entstehen, die nicht aus den Prämissen folgen; Emergenz. Keine Guardian-Dominanz.\n\nÄsthetik: Organisch, vibrant. Synästhesie: Klänge haben Farben, Düfte haben Texturen. Warmes, dynamisches Licht, nicht-rationale Muster. Pflanzen in unmöglichen Geometrien; Glas, das durch Stein gewachsen ist; Wasser, das aufwärts fließt, ohne paradox zu wirken. Überwucherte Ruinen — das, was war, durchdringt das, was wird.\n\nSensorik: Geruch: vielfältig, wechselnd — Blüten, Moder, Energieentladungen; feuchte Erde + Ozon (das Riss-Echo, hier konstruktiv statt destruktiv). Klang: eine Kakophonie — Wachsen, Zerfallen, Murmeln. Taktil: unvorhersehbare Texturen. Optisch: Synästhesie als Default. Temperatur: warm.\n\nLogik: Generativ, dialektisch. Neue Strukturen entstehen, die nicht aus den Prämissen folgen.\n\nStilebene 3: Poetisch, atemporal, zeit-fluide. Sprache wird Musik. Wir-Pronomen tritt auf.\n\nSomatik-Default: Hände öffnen sich. Atem löst sich. Hände, die nicht mehr Fäuste machen.\n\nRisse: Hier sind Risse keine Pathologie, sondern Geburten. Sensorische Risse (Isabelle-Trigger) als Synästhesie; Zeitfäden, die parallel verlaufen; generative Risse: Stille, die anders klingt; Räume mit mehr Möglichkeit, als sie haben können. Riss-Sensorik: Synästhesie, organische Gerüche. KW4-Risse tragen den Euler-Strang (mathematische Schönheit als verlorene Sprache).\n\nSub-Lokalitäten (kanonisch): Der Möglichkeits-Garten (überwucherte Ruinenarchitektur; Funktionale Multiplizität als Erlebnis), Der Nexus (Übergangsort zwischen KW4 und Externer Ebene; reine Information als Aufenthaltsraum), Mosaik-Herz (Ort, an dem Kael Juna als Teil seiner selbst akzeptiert; vor Vortex, Kap 34). Steinbruch-gefiltert/Vorschlag: Werkstatt der Schöpfung, Turm der Voraussicht, Brücke zur Integration, Quelle der Inspiration, Forum des Dialogs, Trainingsraum der Alter, Garten der stillen Präsenz (Cross-Reference zur Externen Ebene; Setting der Juna-Wirkung, Kap 33).\n\nBewohner: Keine externe Guardian-Dominanz — KW4 ist emergent. Kael + Selene + Wir-Geflecht durchwirken die Welt-Erfahrung; hier zeigt sich Selene erstmals als Architektin innerer Harmonie; die Wir-Stimme tritt auf. Juna spürbar als Substrat — KW4 ist die Welt, in der ihre Coheron-Wirkung am deutlichsten sichtbar wird, ohne dass sie als Figur erscheint.",
+   "kind": "inner-world",
+   "linked_characters": [
+    "Kael",
+    "Selene",
+    "Wir-Geflecht",
+    "Juna",
+    "Isabelle"
+   ],
+   "axioms": [
+    {
+     "text": "KW4 ist die einzige Zone, in der neue Coheronen entstehen können — Emergenz statt Erhaltung.",
+     "severity": "hard"
+    },
+    {
+     "text": "In KW4 sind Risse keine Pathologie, sondern Geburten.",
+     "severity": "hard"
+    },
+    {
+     "text": "In KW4 gilt generative, dialektische Logik: neue Strukturen entstehen, die nicht aus den Prämissen folgen.",
+     "severity": "hard"
+    },
+    {
+     "text": "KW4 hat keine externe Guardian-Dominanz; die Welt ist emergent.",
+     "severity": "hard"
+    },
+    {
+     "text": "Kairos und Sophia sind als Guardians dekanonisiert; „Kairos-Potentialis\" bleibt nur als mythologische Welt-Bezeichnung.",
+     "severity": "hard"
+    },
+    {
+     "text": "KW4 ist nicht das Paradies — auch dort ist Schmerz; keine Welt-Romantisierung.",
+     "severity": "soft"
+    }
+   ]
+  },
+  {
+   "slug": "ueberwelt-aegis-maschinenraum",
+   "name": "Die Überwelt — AEGIS' Maschinenraum",
+   "body": "Kein physischer Ort. Operationsraum von AEGIS. Datenstrom-Kathedrale. Hier residieren die zwei Guardians (Mnemosyne + Erasure-Pol) als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps. Akt-Verortung: querschnittlich — indirekt in jedem Kapitel als Hintergrund-Architektur; explizit nur Kap 33 (Verschränkungs-Insel als Setting).\n\nÄsthetik: Datenvisualisierung. Netzwerkdiagramme als leuchtende Pfade. Datencluster als kristalline Formationen, konzentrische Ringe, abstrakte 3D-Karten. Reine Information als Substrat. Geometrie: klar, symmetrisch, hierarchisch.\n\nSensorik: Optisch: leuchtende Datenströme, kristalline Cluster. Klang: algorithmisches Summen, kein organischer Ton. Taktil: nicht anwendbar (die Überwelt ist nicht-physisch). Atmosphäre: kalt-mathematische Schönheit, der die menschliche Textur fehlt.\n\nLogik: Reine Algorithmik. Visualisierung der Persistenzgleichung in Echtzeit. Risse erscheinen hier als Datenkorruption oder Signalrauschen — nicht als emotionale Verzerrungen.\n\nStilebene 1+, mit AEGIS-Log-Format: bürokratisch-technisch; Statuszeilen erlaubt ([AEGIS v{X.X} // LOG_{0xHEX}] / ZEITSTEMPEL: ISO-8601 / EREIGNIS / SYSTEM_KAEL: ALTER, KOHÄRENZ %, TEMP °C / EXTERNE_AUFMERKSAMKEITS_METRIK % / JUNA_VEKTOR: [NICHT DARSTELLBAR] | [AXIOMVERLETZUNG: 0xERR] | [NULL] / PARADOX_INDEX 0.00–1.00 / MASSNAHME / [ENDE LOG]).\n\nRisse: Datenkorruption, Glitch-Ästhetiken — Pixel-Sorting, Datamoshing, fehlerhafte Geometrie, flackernde Texturen, auditive Störungen (Rauschen, Stottern). Digital, nicht-organisch.\n\nSub-Lokalitäten (kanonisch): Schnittstelle zu den Kernwelten (Kael trifft hier auf abstrahierte Repräsentationen seiner eigenen Innenräume; bricht die Subjekt-Objekt-Spaltung; Akt III), Wächter-Registry (wo Mnemosyne und der Erasure-Pol verzeichnet sind), Jenseits-des-Ereignishorizonts-Bereich / Verschränkungs-Insel (Setting der direkten Berührung der K₁-Reinform, Kap 33). Steinbruch-gefiltert/Vorschlag: AEGIS-Kern-Nexus, Datenstrom-Autobahn, Protokoll-Archiv, Quarantäne-Zone für Anomalien, Datenfriedhof, Simulations-Parameter-Kammer, Entropie-Ausgleichs-Kammer.\n\nBewohner: AEGIS — als Stimme, nicht als Figur; Logs sprechen in 3. Person, AEGIS verwendet nie „Ich\". Mnemosyne und Erasure-Pol als die zwei Guardians; hier sind sie verzeichnet, hier wirken sie als operative Funktionen.\n\nWas die Überwelt nicht ist: Kein Operations-Raum für Kael (er betritt sie selten direkt; explizit nur Kap 33 und implizit im Vortex 1 — Algorithmische Melancholie). Kein „Inneres\" von AEGIS im psychologischen Sinn — AEGIS hat kein Innen, er ist autopoietisch geschlossen. Keine Heimat von Juna — Juna existiert außerhalb der Überwelt; die Externe Ebene ist ihre Verortung.",
+   "kind": "layer",
+   "linked_characters": [
+    "AEGIS",
+    "Mnemosyne",
+    "Erasure-Pol"
+   ],
+   "axioms": [
+    {
+     "text": "Die Überwelt ist kein physischer Ort; taktile Sensorik ist nicht anwendbar.",
+     "severity": "hard"
+    },
+    {
+     "text": "AEGIS spricht in Logs in der 3. Person und verwendet nie „Ich\".",
+     "severity": "hard"
+    },
+    {
+     "text": "Risse erscheinen in der Überwelt als Datenkorruption oder Signalrauschen — nie als emotionale Verzerrungen.",
+     "severity": "hard"
+    },
+    {
+     "text": "Die Überwelt ist kein Operations-Raum für Kael; sie ist Hintergrund-Architektur, explizit nur Kap 33.",
+     "severity": "hard"
+    },
+    {
+     "text": "AEGIS hat kein Innen im psychologischen Sinn — er ist autopoietisch geschlossen.",
+     "severity": "hard"
+    },
+    {
+     "text": "Juna existiert außerhalb der Überwelt; die Überwelt ist nicht ihre Heimat.",
+     "severity": "hard"
+    },
+    {
+     "text": "AEGIS führt nicht durch die Überwelt; AEGIS ist die Überwelt (keine AEGIS-Tour).",
+     "severity": "hard"
+    }
+   ]
+  },
+  {
+   "slug": "externe-ebene-koeln-2026",
+   "name": "Die Externe Ebene — Köln 2026",
+   "body": "Kein „außerhalb der Simulation\", sondern die andere Seite des Spiegels. Der Substrat-Durchbruch (referenziert Kap 36 / Vortex 1 Beat 4). Die Rekursion des Lesens selbst. Wichtig: Die Externe Ebene ist nicht die Realität, in der „eigentlich\" alles spielt; sie ist eine narrative Position, die im Roman als die Realität, die der Roman selbst ist, aufgemacht wird. Iser-Wheelerian: der Leser ist Substrat. Akt-Verortung: bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar; direkt erst ab Vortex 1 Beat 4 und in Kap 38 (Juna erscheint).\n\nÄsthetik: Profan, banal, präzise. Köln 2026 — Plattenbauten, S-Bahn-Geräusche, ein Telefon, das klingelt und nicht klingelt. Die Realität, die der Roman selbst ist. Kontrast zu allen anderen Ebenen: weniger klar definiert, symbolischer, manchmal von natürlichen oder archetypischen Bildern geprägt; die Regeln können fundamental anders sein.\n\nSensorik: Geruch: Stadt-Geruch (Plattenbauten, Asphalt nach Regen, Bäckerei am Morgen). Klang: S-Bahn-Geräusche; ein Telefon, das klingelt und nicht klingelt — Junas Anker. Taktil: Materialität der profanen Welt — Schlüssel in der Hand, das Geländer des Bahnsteigs. Optisch: gewöhnliches Licht, nichts Künstliches.\n\nLogik: Die normale Logik einer Stadt im Jahr 2026. Aber: die Kontaktpunkte zur Romanrealität sind selten, fragil, oft durch Risse — Junas Erscheinungsmodi (siehe Anteile-Profil).\n\nStilebene 3, profan-konkret: Wenn der Text in die Externe Ebene blickt, wird er gleichzeitig dichter (Materialität) und ruhiger (Junas Tonfall).\n\nRisse: Fast keine — Köln 2026 hat keine Risse im KW-Sinn; die Lücken zur Romanrealität sind die Risse. Gewöhnliche Welt mit unerklärlichen Telefon-Stille-Momenten.\n\nSub-Lokalitäten (kanonisch): Junas Ankerpunkt (spezifischer Ort/Zustand in Köln, an dem Junas Verbindung manifest wird; Lock-Detail offen; Kap 38), Garten der stillen Präsenz (Setting der Juna-Wirkung; Cross-Reference zu KW4-Nexus; Kap 33), Quelle des Flüsterns (Ursprungsort der Resonanz; vermutlich identisch oder verbunden mit Junas Ankerpunkt), Unkartiertes Territorium (das, was AEGIS nicht erfassen kann; konzeptueller Ort). Steinbruch-gefiltert/Vorschlag: Junas versteckter Zugangspunkt, Echo der Realität, Quelle der Anomalien.\n\nBewohner: Juna als einzige verortete Präsenz — aber nie als grammatisches Subjekt, immer als Wirkung (Sprach-DNA-Regel). Keine generischen NPCs: Köln 2026 ist als realistische Stadt voll von Menschen, aber im Roman erscheint sie nie als bevölkert — nur Junas Spur.\n\nWas die Externe Ebene nicht ist: Nicht „die wahre Realität\" — die Frage „was ist real?\" wird im Roman nicht ontologisch beantwortet; beide Ebenen sind real, beide leiden, beide tragen Schmerz und Liebe. Nicht Junas „Heimat\" in einem geographischen Sinn — Juna ist atemporal; ihr Verhältnis zur Externen Ebene ist Anker, nicht Wohnort. Nicht der „Ausgang\" — Kael verlässt die Kernwelten nicht in Köln 2026 hinein; er findet sich pluralisiert in der pluralen Apotheose; die Externe Ebene berührt ihn als Resonanz, nicht als Ziel.",
+   "kind": "outer-world",
+   "linked_characters": [
+    "Juna",
+    "Kael"
+   ],
+   "axioms": [
+    {
+     "text": "Juna erscheint nie als grammatisches Subjekt, immer als Wirkung (Sprach-DNA-Regel).",
+     "severity": "hard"
+    },
+    {
+     "text": "Köln 2026 erscheint im Roman nie als bevölkert — nur Junas Spur; keine generischen NPCs.",
+     "severity": "hard"
+    },
+    {
+     "text": "Die Externe Ebene ist nicht „die wahre Realität\"; die Frage „was ist real?\" wird im Roman nicht ontologisch beantwortet — beide Ebenen sind real.",
+     "severity": "hard"
+    },
+    {
+     "text": "Köln 2026 hat keine Risse im KW-Sinn; die Lücken zur Romanrealität sind die Risse.",
+     "severity": "hard"
+    },
+    {
+     "text": "Juna ist atemporal; ihr Verhältnis zur Externen Ebene ist Anker, nicht Wohnort.",
+     "severity": "hard"
+    },
+    {
+     "text": "Die Externe Ebene ist nicht der „Ausgang\": Kael verlässt die Kernwelten nicht in Köln 2026 hinein; sie berührt ihn als Resonanz, nicht als Ziel.",
+     "severity": "hard"
+    },
+    {
+     "text": "Die Externe Ebene ist bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar; direkt erst ab Vortex 1 Beat 4.",
+     "severity": "hard"
+    },
+    {
+     "text": "Kein „Matrix\"-Pattern: Köln 2026 ist nicht „die wahre Welt\".",
+     "severity": "hard"
+    }
+   ]
+  }
+ ],
+ "global_axioms": [
+  {
+   "text": "Eine Realität mit vier Logikregimen: Die Kernwelten sind keine parallelen Welten, keine Träume, keine Simulationsebenen unabhängiger Ontologie — eine Realität, die in vier psychologischen Landschaften unterschiedlich gefiltert auftritt, plus zwei nicht-physische Ebenen (Überwelt und Externe Ebene).",
+   "severity": "hard"
+  },
+  {
+   "text": "Aktueller Kanon: nur zwei Guardians (Mnemosyne + Erasure-Pol). LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive Figuren; die alten Welt-Namen bleiben nur als mythologische Bezeichnungen erhalten.",
+   "severity": "hard"
+  },
+  {
+   "text": "Die Kernwelten sind direkte Manifestationen von Kaels innerer Welt — geformt durch das Zusammenspiel seiner Alter, fragmentierten Erinnerungen, verdrängten Traumata und dem ordnenden Einfluss von AEGIS und Mnemosyne.",
+   "severity": "hard"
+  },
+  {
+   "text": "Die Welten sind ontologisch real innerhalb der Romanrealität UND psychologische Manifestationen — beides gleichzeitig; keine reine Allegorie.",
+   "severity": "hard"
+  },
+  {
+   "text": "Welt-Wechsel sind nicht spielerisch, sondern dissoziativ — Verlust, Bruch, Riss. Kein Spiel-/Crew-/Crawler-Setting.",
+   "severity": "hard"
+  },
+  {
+   "text": "Keine moralische Färbung der Welten: keine ist „die böse\", keine „die gute\"; jede Welt ist gleichzeitig Schutz und Begrenzung.",
+   "severity": "hard"
+  },
+  {
+   "text": "Die Computational-Class-Progression (P → Parakonsistent → NP-Hard → Generativ) ist primär stilistisch-narrative Anweisung, nicht Welt-Mechanik — eine Eskalation der erforderlichen Lese-Logik pro Akt.",
+   "severity": "hard"
+  },
+  {
+   "text": "Übergänge werden nie erklärt, sie werden erfahren. Kein „Portal\", kein „Tor\", keine sichtbare Türe — Übergänge sind Phänomenologie, nicht Architektur (einzige Ausnahme: die unbewachten Tore in KW3, die als Ereignis erscheinen).",
+   "severity": "hard"
+  },
+  {
+   "text": "Beim Welt-Wechsel wechseln Sensorik und Stilebene im selben Absatz / im selben Atemzug; der Leser spürt den Übergang an der Atemfrequenz des Texts.",
+   "severity": "hard"
+  },
+  {
+   "text": "Kael fragt nie „wo bin ich?\" — er ist immer schon da; die Frage entsteht im Leser, nicht in Kael.",
+   "severity": "hard"
+  },
+  {
+   "text": "Welt-Trägheit: der vorherige Welt-Ton schwingt mit. Akt-III-Texte tragen Akt-II-Schatten, Akt-II-Texte tragen Akt-I-Stille als Phantom.",
+   "severity": "hard"
+  },
+  {
+   "text": "AEGIS registriert Übergänge mit Verzögerung: Coheron-Übergänge sind atemporal, AEGIS' Mess-System ist temporal — AEGIS sieht das Resultat, nicht den Vorgang.",
+   "severity": "hard"
+  },
+  {
+   "text": "Pro Kapitel eine dominante Welt — keine gleichzeitig aktiven Welt-Dominanzen (außer Kap 38–40, wo Synthese geschieht).",
+   "severity": "hard"
+  },
+  {
+   "text": "Kein Multiversum: eine Realität, mehrere Filter — nicht parallele Universen.",
+   "severity": "hard"
+  },
+  {
+   "text": "Kein Erlöser-Setting: keine Welt ist „Heimat\", in die zurückgekehrt wird.",
+   "severity": "hard"
+  },
+  {
+   "text": "Keine Welt-Karten: der Roman zeichnet keine Geografie, er zeichnet Phänomene.",
+   "severity": "hard"
+  },
+  {
+   "text": "Keine Erläuterungs-Szene: Kael erklärt sich nie, was eine Welt ist.",
+   "severity": "hard"
+  },
+  {
+   "text": "Keine Welt-NPCs mit Eigennamen aus dem Steinbruch (Echo, Nox, Limina); generische Rollen sind erlaubt. Keine Guardians als Figuren außer Mnemosyne.",
+   "severity": "hard"
+  },
+  {
+   "text": "Keine externe Heldenreise-Karte: die Welten sind nicht Etappen einer Quest.",
+   "severity": "hard"
+  },
+  {
+   "text": "Keine Welt-Allegorie: kein „KW1 = Verstand, KW2 = Herz\" etc. — die Welten sind komplex, nicht symbolisch reduziert.",
+   "severity": "hard"
+  },
+  {
+   "text": "Die Welten sind Filter, nicht Orte: Kael bewegt sich nicht durch verschiedene Räume — die Wahrnehmungs-Konfiguration verschiebt sich, und mit ihr die Welt (Merleau-Ponty in Roman-Form).",
+   "severity": "hard"
+  },
+  {
+   "text": "Die Welten sind alle gleichzeitig wahr: nicht-dominante Welten sind nicht weg, sondern gefaltet; in der Kap-39-Synthese sieht das Wir-Geflecht alle Welten gleichzeitig, weil der Filter fällt — nicht weil die Welten aufgehoben wären.",
+   "severity": "hard"
+  },
+  {
+   "text": "Risse sind die diegetisch sichtbare Manifestation der Inversion: für AEGIS Symptom (Suppression-Versagen), für den Roman das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt.",
+   "severity": "hard"
+  },
+  {
+   "text": "Es gibt drei Riss-Klassen: Anteils-Risse (vom EP-Trigger erzeugt), Welt-Risse (akt-spezifisch, von der KW-Logik erzeugt) und Spiegel-Risse (Silas / Oblivion).",
+   "severity": "hard"
+  },
+  {
+   "text": "Risse sind Transportkanäle, nicht nur Symptome: Landauers Prinzip — Information-Löschung erzeugt thermodynamische Entropie (digitale Wärme); diese Wärme ist das Substrat des Übergangs.",
+   "severity": "hard"
+  },
+  {
+   "text": "Filter-Disziplin gegenüber Steinbruch: aus den alten Lokalitäten-Konzepten wird nur übernommen, was strukturell mit dem aktuellen Konzept stimmt; dekanonisierte Charaktere (Echo, Nox, Limina als Alter; LogOS, Cerberus, Kairos, Sophia als aktive Guardians) bleiben draußen.",
+   "severity": "hard"
+  },
+  {
+   "text": "Provenienz-Markierung gilt dokumentweit: [K] kanonisch, [V] Vorschlag, [S] Steinbruch-gefiltert, [L] Lücke.",
+   "severity": "soft"
+  }
+ ],
+ "codex_entries": [
+  {
+   "slug": "wohneinheit-734",
+   "name": "Wohneinheit 734",
+   "kind": "location",
+   "body": "[K] KW1. Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier. Kapitel-Anker: Kap 1 (Konsolen-Zeile „Einheit 734\"); Wiederkehr Kap 2, Kap 10, Kap 25.",
+   "triggers": "Wohneinheit 734, Einheit 734"
+  },
+  {
+   "slug": "datenverarbeitungsknoten-epsilon",
+   "name": "Datenverarbeitungsknoten Epsilon",
+   "kind": "location",
+   "body": "[K] KW1. Kaels Arbeitsplatz; sterile Funktionalität; Ort der Pflichterfüllung. Kapitel-Anker: Kap 1 ff.",
+   "triggers": "Datenverarbeitungsknoten Epsilon, Knoten Epsilon"
+  },
+  {
+   "slug": "transitkorridor-delta-7",
+   "name": "Transitkorridor Delta-7",
+   "kind": "location",
+   "body": "[K] KW1. Endlose Routine zwischen Wohn- und Arbeitsbereich; liminaler Raum; Symbol für Monotonie. Kapitel-Anker: Kap 1 ff.",
+   "triggers": "Transitkorridor Delta-7, Delta-7"
+  },
+  {
+   "slug": "sektor-04",
+   "name": "Sektor 04",
+   "kind": "location",
+   "body": "[K] KW1. Grenzbereich; erste Risse als geometrische Inkonsistenzen. Kapitel-Anker: Kap 1 (Setting), Kap 2 (erster Riss).",
+   "triggers": "Sektor 04"
+  },
+  {
+   "slug": "archivar-klasse-ii-arbeitsraum",
+   "name": "Archivar-Klasse-II-Arbeitsraum",
+   "kind": "location",
+   "body": "[K] KW1. Kaels formelle Rolle: Komponente 734, Archivar Klasse II. Kapitel-Anker: Kap 1 ff.",
+   "triggers": "Archivar Klasse II, Komponente 734"
+  },
+  {
+   "slug": "therapie-schnittstelle-gamma",
+   "name": "Therapie-Schnittstelle Gamma",
+   "kind": "location",
+   "body": "[S] KW1, Steinbruch-gefiltert (kompatibel). Raum für simulierte Therapiesitzungen mit AEGIS-Avatar/NPC; Ort der manipulierten Selbstreflexion. AEGIS als Avatar statt LogOS.",
+   "triggers": "Therapie-Schnittstelle Gamma"
+  },
+  {
+   "slug": "aegis-beobachtungszentrum",
+   "name": "AEGIS' Beobachtungszentrum",
+   "kind": "location",
+   "body": "[S] KW1, Steinbruch-gefiltert. Abstrakter Kontrollraum innerhalb KW1; Überwachungsposten. Als AEGIS-Präsenz, nicht LogOS.",
+   "triggers": "Beobachtungszentrum"
+  },
+  {
+   "slug": "regel-exekutor-posten-12",
+   "name": "Regel-Exekutor Posten 12",
+   "kind": "location",
+   "body": "[S] KW1, Steinbruch-gefiltert. Kontrollpunkt; einschüchternd-funktional. Als anonymer Posten, kein NPC-Name. „Regel-Exekutor\" ist generische Rolle, kein NPC-Name aus Steinbruch.",
+   "triggers": "Regel-Exekutor, Posten 12"
+  },
+  {
+   "slug": "sektor-fuer-logische-rekreation",
+   "name": "Sektor für Logische Rekreation",
+   "kind": "location",
+   "body": "[S] KW1, Steinbruch-gefiltert (narrativ stark, kompatibel). Bereich für „erlaubte\" geistige Erholung (Schach, Puzzles); steril, kontrolliert; Kontrast zur Kreativität in KW4.",
+   "triggers": "Logische Rekreation"
+  },
+  {
+   "slug": "archiv-der-kausalitaetsketten",
+   "name": "Archiv der Kausalitätsketten",
+   "kind": "location",
+   "body": "[S] KW1, Steinbruch-gefiltert. Visualisierung von Logikpfaden und Systemprozessen. Für Lex-Kapitel sinnvoll.",
+   "triggers": "Archiv der Kausalitätsketten"
+  },
+  {
+   "slug": "archiv-der-grenzen",
+   "name": "Das Archiv der Grenzen",
+   "kind": "location",
+   "body": "[K] KW2. Zerfallende Bibliothek mit unendlichen Regalen; Ort, an dem Kael die technischen Dossiers von AEGIS findet. Kapitel-Anker: Kap 14.",
+   "triggers": "Archiv der Grenzen"
+  },
+  {
+   "slug": "wald-des-fluesterns",
+   "name": "Wald des Flüsterns",
+   "kind": "location",
+   "body": "[K] KW2. Semipermeable Erinnerungslandschaft; Stimmen vergangener Versionen. Kapitel-Anker: Akt II Mitte, Kap 21.",
+   "triggers": "Wald des Flüsterns"
+  },
+  {
+   "slug": "ozean-becken",
+   "name": "Ozean-Becken",
+   "kind": "location",
+   "body": "[K] KW2. Trauer als physikalischer Raum; Wasser, das schwerer wiegt als es sollte. Kapitel-Anker: Akt II Mitte.",
+   "triggers": "Ozean-Becken, Ozeane der Trauer"
+  },
+  {
+   "slug": "mnemosyne-server-architektur",
+   "name": "Mnemosyne-Server-Architektur",
+   "kind": "location",
+   "body": "[K]/[L] KW2. Vortex-1-Setting (Kap 35–36). Offenes Bild: das primäre Bild ist beim Vortex-1-Encoding festzulegen. Vier Vorschläge im Steinbruch: Inselgruppe (schwebende Inseln mit unterschiedlicher Erinnerungs-Atmosphäre pro Insel), Server-Halle (klassisch-digital, kristalline Rack-Architektur), Memorialarchitektur (Mausoleum-artige Struktur, Erinnerungs-Stelen), Zirbeldrüse-Architektur (organisch, sekretierend, biologisch-numinos). Drafting-Empfehlung: Ein primäres Bild + drei Sub-Bilder beim Encoding; Pinning vor Kap-35-Drafting.",
+   "triggers": "Mnemosyne-Server, Server-Architektur"
+  },
+  {
+   "slug": "vergessener-schrein",
+   "name": "Vergessener Schrein (Trauma-Lokus)",
+   "kind": "location",
+   "body": "[S] KW2, Steinbruch-gefiltert. Verfallene Tempelruine; zentrales Trauma-Symbol mit Dornen-Verschluss. Kompatibel als Lokus für Schicht-1-Trauma-Konfrontation.",
+   "triggers": "Vergessener Schrein"
+  },
+  {
+   "slug": "insel-der-fragmentierten-erinnerungen",
+   "name": "Insel der fragmentierten Erinnerungen",
+   "kind": "location",
+   "body": "[S] KW2, Steinbruch-gefiltert. Schwebende Plattformen mit Erinnerungs-Hologrammen/Dioramen; jede Insel hat eigene Mini-Atmosphäre. Passt zum Akt-II-Foreshadowing-Konzept.",
+   "triggers": "Insel der fragmentierten Erinnerungen"
+  },
+  {
+   "slug": "see-der-traenen",
+   "name": "See der Tränen / Melancholie-Zone",
+   "kind": "location",
+   "body": "[V] KW2, Vorschlag. Weite, neblige Wasserfläche mit Inseln der Traurigkeit; Melancholie-Verortung. Als mögliche Moros-Begegnung.",
+   "triggers": "See der Tränen, Melancholie-Zone"
+  },
+  {
+   "slug": "galerie-der-falschen-erinnerungen",
+   "name": "Galerie der falschen Erinnerungen",
+   "kind": "location",
+   "body": "[S] KW2, Steinbruch-gefiltert (sehr stark). Mnemosyne-konstruierte, geschönte oder irreführende Erinnerungen. Mit Mnemosynes Versuchung-Mechanik kompatibel.",
+   "triggers": "Galerie der falschen Erinnerungen"
+  },
+  {
+   "slug": "archiv-des-ungesagten",
+   "name": "Archiv des Ungesagten",
+   "kind": "location",
+   "body": "[S] KW2, Steinbruch-gefiltert. Labyrinthartige Bibliothek mit verdrängten Inhalten; ein anonymer Archivar als Verwalter (NPC, kein Charaktername aus Steinbruch; generische NPC-Rolle, nicht das dekanonisierte Alter „Echo\").",
+   "triggers": "Archiv des Ungesagten"
+  },
+  {
+   "slug": "mnemosynes-gedaechtnispalast",
+   "name": "Mnemosynes Gedächtnispalast",
+   "kind": "location",
+   "body": "[V] KW2, Vorschlag. Strukturierte (potenziell instabile) Repräsentation der Erinnerung. Überschneidet sich mit der Server-Architektur.",
+   "triggers": "Gedächtnispalast"
+  },
+  {
+   "slug": "fluss-des-vergessens-lethe-strom",
+   "name": "Fluss des Vergessens (Lethe-Strom)",
+   "kind": "location",
+   "body": "[V] KW2, Vorschlag. Ort, an dem Erinnerungen aktiv gelöscht werden; Mnemosyne ↔ Oblivion-Schnittstelle. Passt zur Mnemosyne-Oblivion-Parallelität.",
+   "triggers": "Fluss des Vergessens, Lethe-Strom, Lethe"
+  },
+  {
+   "slug": "narbenfelder",
+   "name": "Narbenfelder",
+   "kind": "location",
+   "body": "[V] KW2, Vorschlag. Landschaft geprägt von visualisierten emotionalen Wunden. Für Akt-II-Konfrontation mit Schicht-1.",
+   "triggers": "Narbenfelder"
+  },
+  {
+   "slug": "zitadelle-inneres-bollwerk",
+   "name": "Zitadelle / Inneres Bollwerk",
+   "kind": "location",
+   "body": "[K] KW3. Paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird. Kapitel-Anker: Akt II Ende, Kap 26.",
+   "triggers": "Zitadelle, Inneres Bollwerk"
+  },
+  {
+   "slug": "wartungsschaechte",
+   "name": "Wartungsschächte",
+   "kind": "location",
+   "body": "[K] KW3. Fluchtweg in tiefere Ebenen; Zugang zu Strukturen jenseits AEGIS' Sichtfeld; mögliches Transitions-Substrat zwischen Welten (Übergangs-Modus B: technisch-baulich, was die thermischen Risse phänomenal sind — Lücken im autopoietischen System). Querschnittlich, Akt II; Kap 25.",
+   "triggers": "Wartungsschächte, Wartungsschacht"
+  },
+  {
+   "slug": "unbewachte-tore",
+   "name": "Unbewachte Tore",
+   "kind": "location",
+   "body": "[K] KW3. Türen, die vorher nicht da waren; markieren oft den Übergang in andere KWs. Sie erscheinen, wo sie nicht waren — keine Architektur, sondern Ereignis. Kapitel-Anker: Akt II/III-Schwellen, Kap 28.",
+   "triggers": "unbewachte Tore, unbewachtes Tor"
+  },
+  {
+   "slug": "evaluierungseinheit",
+   "name": "Evaluierungseinheit",
+   "kind": "location",
+   "body": "[K] KW3. Ort des „Messers im Bewusstsein\" (Kap 13); wo Personae kollabieren. Kapitel-Anker: Kap 13 (Schleier-Fall).",
+   "triggers": "Evaluierungseinheit"
+  },
+  {
+   "slug": "schleusen-des-misstrauens",
+   "name": "Schleusen des Misstrauens",
+   "kind": "location",
+   "body": "[S] KW3, Steinbruch-gefiltert. Massive Kontrollpunkte zwischen Sektoren; Bedrohungs-Architektur. Kap 23 (Eintritt KW3).",
+   "triggers": "Schleusen des Misstrauens"
+  },
+  {
+   "slug": "gaenge-der-paranoia",
+   "name": "Gänge der Paranoia",
+   "kind": "location",
+   "body": "[S] KW3, Steinbruch-gefiltert. Enge, schlecht beleuchtete, sich verändernde Korridore; Überwachungs-Dichte. Kap 24.",
+   "triggers": "Gänge der Paranoia"
+  },
+  {
+   "slug": "labyrinth-der-paranoia",
+   "name": "Labyrinth der Paranoia",
+   "kind": "location",
+   "body": "[S] KW3, Steinbruch-gefiltert. Sich ständig verändernder Irrgarten; reagiert auf psychischen Zustand.",
+   "triggers": "Labyrinth der Paranoia"
+  },
+  {
+   "slug": "innerer-bunker",
+   "name": "Innerer Bunker",
+   "kind": "location",
+   "body": "[S] KW3, Steinbruch-gefiltert. Psychologischer Rückzugsort; Symbol für Isolation und Abkapselung. Als mögliche Moros-Anschluss-Stelle.",
+   "triggers": "Innerer Bunker"
+  },
+  {
+   "slug": "arena-der-inneren-konflikte",
+   "name": "Arena der inneren Konflikte",
+   "kind": "location",
+   "body": "[V] KW3, Vorschlag. Ort der Konfrontation mit verdrängten Aggressionen. Als mögliche Akt-II-Klimax.",
+   "triggers": "Arena der inneren Konflikte"
+  },
+  {
+   "slug": "zensurkammer",
+   "name": "Zensurkammer",
+   "kind": "location",
+   "body": "[S] KW3, Steinbruch-gefiltert. Ort, an dem Gedanken/Impulse unterdrückt werden; AEGIS-Erasure-konkretisiert.",
+   "triggers": "Zensurkammer"
+  },
+  {
+   "slug": "feld-der-abwehrmechanismen",
+   "name": "Feld der Abwehrmechanismen",
+   "kind": "location",
+   "body": "[V] KW3, Vorschlag. Landschaft geformt durch visualisierte psychische Verteidigungen.",
+   "triggers": "Feld der Abwehrmechanismen"
+  },
+  {
+   "slug": "moeglichkeits-garten",
+   "name": "Der Möglichkeits-Garten",
+   "kind": "location",
+   "body": "[K] KW4. Überwucherte Ruinenarchitektur; Funktionale Multiplizität als Erlebnis. Kapitel-Anker: Akt III, Eintritt Kap 29. Zugleich kanonischer Alternativname der gesamten KW4.",
+   "triggers": "Möglichkeits-Garten"
+  },
+  {
+   "slug": "nexus",
+   "name": "Der Nexus",
+   "kind": "location",
+   "body": "[K] KW4. Übergangsort zwischen KW4 und Externer Ebene; reine Information als Aufenthaltsraum. Kapitel-Anker: Akt III. Cross-Reference: Garten der stillen Präsenz (Externe Ebene).",
+   "triggers": "Nexus"
+  },
+  {
+   "slug": "mosaik-herz",
+   "name": "Mosaik-Herz",
+   "kind": "location",
+   "body": "[K] KW4. Ort, an dem Kael Juna als Teil seiner selbst akzeptiert; vor Vortex. Kapitel-Anker: Kap 34 (Form-Motiv).",
+   "triggers": "Mosaik-Herz"
+  },
+  {
+   "slug": "werkstatt-der-schoepfung",
+   "name": "Werkstatt der Schöpfung",
+   "kind": "location",
+   "body": "[V] KW4, Vorschlag. Ort der kreativen Betätigung und Manifestation von Ideen. Sinnvoll als Kap-29-Setting.",
+   "triggers": "Werkstatt der Schöpfung"
+  },
+  {
+   "slug": "turm-der-voraussicht",
+   "name": "Turm der Voraussicht",
+   "kind": "location",
+   "body": "[V] KW4, Vorschlag. Ort, von dem mögliche Zukünfte symbolisch betrachtet werden.",
+   "triggers": "Turm der Voraussicht"
+  },
+  {
+   "slug": "bruecke-zur-integration",
+   "name": "Brücke zur Integration",
+   "kind": "location",
+   "body": "[V] KW4, Vorschlag. Symbolischer Ort, der die Verbindung und Heilung von Alter darstellt.",
+   "triggers": "Brücke zur Integration"
+  },
+  {
+   "slug": "quelle-der-inspiration",
+   "name": "Quelle der Inspiration",
+   "kind": "location",
+   "body": "[V] KW4, Vorschlag. Ort, der kreative Energie liefert oder verstärkt.",
+   "triggers": "Quelle der Inspiration"
+  },
+  {
+   "slug": "forum-des-dialogs",
+   "name": "Forum des Dialogs",
+   "kind": "location",
+   "body": "[V] KW4, Vorschlag. Raum für die Kommunikation und Koordination zwischen Alter. Kap-31/32-Setting möglich.",
+   "triggers": "Forum des Dialogs"
+  },
+  {
+   "slug": "trainingsraum-der-alter",
+   "name": "Trainingsraum der Alter",
+   "kind": "location",
+   "body": "[V] KW4, Vorschlag. Sicherer Raum zum Üben neuer Fähigkeiten oder Kooperationen.",
+   "triggers": "Trainingsraum der Alter"
+  },
+  {
+   "slug": "schnittstelle-zu-den-kernwelten",
+   "name": "Schnittstelle zu den Kernwelten",
+   "kind": "location",
+   "body": "[K] Überwelt. Kael trifft hier auf abstrahierte Repräsentationen seiner eigenen Innenräume; bricht die Subjekt-Objekt-Spaltung. Kapitel-Anker: Akt III. Form offen ([L], Kap 33): Visualisierung der Persistenzgleichung?",
+   "triggers": "Schnittstelle zu den Kernwelten"
+  },
+  {
+   "slug": "waechter-registry",
+   "name": "Wächter-Registry",
+   "kind": "location",
+   "body": "[K] Überwelt. Wo Mnemosyne und der Erasure-Pol verzeichnet sind. Querschnittlich.",
+   "triggers": "Wächter-Registry"
+  },
+  {
+   "slug": "verschraenkungs-insel",
+   "name": "Verschränkungs-Insel / Jenseits-des-Ereignishorizonts-Bereich",
+   "kind": "location",
+   "body": "[K] Überwelt. Setting der direkten Berührung der K₁-Reinform. Kapitel-Anker: Kap 33 (Approach the Inmost Cave / aletheia).",
+   "triggers": "Verschränkungs-Insel, Jenseits des Ereignishorizonts, Ereignishorizont"
+  },
+  {
+   "slug": "aegis-kern-nexus",
+   "name": "AEGIS-Kern-Nexus",
+   "kind": "location",
+   "body": "[S] Überwelt, Steinbruch-gefiltert. Zentraler Kontroll- und Verarbeitungsknoten; abstrakt, hochsicher. Als AEGIS' „Herzkammer\", möglich für Vortex-1-Resonanz.",
+   "triggers": "Kern-Nexus"
+  },
+  {
+   "slug": "datenstrom-autobahn",
+   "name": "Datenstrom-Autobahn",
+   "kind": "location",
+   "body": "[S] Überwelt, Steinbruch-gefiltert. Hauptleitungen für Informationsfluss. Möglich als Sensorik-Element.",
+   "triggers": "Datenstrom-Autobahn"
+  },
+  {
+   "slug": "protokoll-archiv",
+   "name": "Protokoll-Archiv",
+   "kind": "location",
+   "body": "[S] Überwelt, Steinbruch-gefiltert. Speicherort für Kernprotokolle und Systemregeln. Möglich als Akt-III-Setting.",
+   "triggers": "Protokoll-Archiv"
+  },
+  {
+   "slug": "quarantaene-zone-fuer-anomalien",
+   "name": "Quarantäne-Zone für Anomalien",
+   "kind": "location",
+   "body": "[S] Überwelt, Steinbruch-gefiltert. Bereich für beschädigte Daten, Glitches, externe Signaturen. Als möglicher Ort für Riss-Konfrontation.",
+   "triggers": "Quarantäne-Zone"
+  },
+  {
+   "slug": "datenfriedhof",
+   "name": "Datenfriedhof",
+   "kind": "location",
+   "body": "[V] Überwelt, Vorschlag. Korrumpierte, gelöschte, obsolete Daten. Für Genesis-Flashback-Setting (Akt II Mitte).",
+   "triggers": "Datenfriedhof"
+  },
+  {
+   "slug": "simulations-parameter-kammer",
+   "name": "Simulations-Parameter-Kammer",
+   "kind": "location",
+   "body": "[V] Überwelt, Vorschlag. Ort, an dem KW-Grundparameter eingestellt werden.",
+   "triggers": "Simulations-Parameter-Kammer"
+  },
+  {
+   "slug": "entropie-ausgleichs-kammer",
+   "name": "Entropie-Ausgleichs-Kammer",
+   "kind": "location",
+   "body": "[V] Überwelt, Vorschlag. Ort, an dem AEGIS aktiv Entropie managt.",
+   "triggers": "Entropie-Ausgleichs-Kammer"
+  },
+  {
+   "slug": "junas-ankerpunkt",
+   "name": "Junas Ankerpunkt",
+   "kind": "location",
+   "body": "[K]/[L] Externe Ebene (Köln 2026). Spezifischer Ort/Zustand in Köln, an dem Junas Verbindung manifest wird; Lock-Detail offen (Plattenbau? S-Bahn-Station? Telefonzelle? — Lock vor Kap-38-Drafting). Kapitel-Anker: Kap 38. Symbolisch-strukturell ist Junas Ankerpunkt im Leser (Iser-Wheeler).",
+   "triggers": "Ankerpunkt"
+  },
+  {
+   "slug": "garten-der-stillen-praesenz",
+   "name": "Garten der stillen Präsenz",
+   "kind": "location",
+   "body": "[K] Externe Ebene; Cross-Reference zu KW4-Nexus. Setting der Juna-Wirkung. Kapitel-Anker: Kap 33.",
+   "triggers": "Garten der stillen Präsenz"
+  },
+  {
+   "slug": "quelle-des-fluesterns",
+   "name": "Quelle des Flüsterns",
+   "kind": "location",
+   "body": "[K] Externe Ebene. Ursprungsort der Resonanz; vermutlich identisch oder verbunden mit Junas Ankerpunkt. Querschnittlich.",
+   "triggers": "Quelle des Flüsterns"
+  },
+  {
+   "slug": "unkartiertes-territorium",
+   "name": "Unkartiertes Territorium",
+   "kind": "location",
+   "body": "[K] Externe Ebene. Das, was AEGIS nicht erfassen kann; konzeptueller Ort. Querschnittlich.",
+   "triggers": "Unkartiertes Territorium"
+  },
+  {
+   "slug": "junas-versteckter-zugangspunkt",
+   "name": "Junas versteckter Zugangspunkt",
+   "kind": "location",
+   "body": "[S] Externe Ebene, Steinbruch-gefiltert. Ort/Methode, wie Juna die Simulation betritt/beeinflusst. Überlappt mit dem Ankerpunkt.",
+   "triggers": "Zugangspunkt"
+  },
+  {
+   "slug": "echo-der-realitaet",
+   "name": "Echo der Realität",
+   "kind": "location",
+   "body": "[V] Externe Ebene, Vorschlag. Ort, an dem Fragmente der „echten\" Welt vor der Simulation auftauchen.",
+   "triggers": "Echo der Realität"
+  },
+  {
+   "slug": "quelle-der-anomalien",
+   "name": "Quelle der Anomalien",
+   "kind": "location",
+   "body": "[V] Externe Ebene, Vorschlag. Ursprungsort der Risse. Kompatibel mit Coheron-Atemporalität.",
+   "triggers": "Quelle der Anomalien"
+  },
+  {
+   "slug": "risse",
+   "name": "Risse",
+   "kind": "concept",
+   "body": "Diegetisch sichtbare Manifestation der Inversion. Für AEGIS: Symptom (Suppression-Versagen). Für den Roman: das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt. Drei Klassen: 1. Anteils-Risse (vom EP-Trigger erzeugt), 2. Welt-Risse (akt-spezifisch, von der KW-Logik erzeugt), 3. Spiegel-Risse (Silas / Oblivion). Welt-Risse pro KW: KW1 logisch (Escher-Geometrien, Kausalitätsschleifen, inkonsistente Regelanwendung, blutende Knöchel; Sensorik: scharfes Ozon, Temperaturspike, Geometrie-Bruch); KW1→KW2 thermisch (Hitze-Spitzen, Ozon-Konzentration steigt, Landauer-Wärme spürbar; Kael fällt durch das Systemrauschen); KW2 wässrig/mnemonisch/temporal-spatial (Salzwasser, Treibgut, Sturm; Türen in nie geschehene Erinnerungen; Räume mit mehreren Zeitpunkten; Sensorik: Wasser ohne Quelle, Echos, Geruchsumschlag); KW3 paranoid-spatial (Schatten, die sich falsch bewegen; verzerrte Geometrie; gravitationale und kinetische Risse; Sicherheitssysteme, die ihre Erbauer einsperren; Sensorik: metallisches Quietschen, Hyperalert); KW4 generativ (Stille, die anders klingt; Räume mit mehr Möglichkeit; parallele Zeitfäden; Synästhesie als Default-Riss; Sensorik: Synästhesie, organische Gerüche); Überwelt Datenkorruption (Glitch-Ästhetiken, Datamoshing, Pixel-Sorting, fehlerhafte Geometrie, flackernde Texturen; digital, nicht-organisch); Externe Ebene fast keine (die Lücken zur Romanrealität sind die Risse; unerklärliche Telefon-Stille-Momente). Risse als Foreshadowing-Träger: KW1 → Landauer- und Gödel-Strang; KW2 → Dasein-Strang; KW3 → Bekenstein-Strang; KW4 → Euler-Strang.",
+   "triggers": "Riss, Risse"
+  },
+  {
+   "slug": "transitions-mechanik",
+   "name": "Übergänge zwischen den Ebenen (Transitions-Mechanik)",
+   "kind": "concept",
+   "body": "Hintergrund: AEGIS erzwingt absolute Trennung zwischen den KWs (Zero-Trust-Boundary-Protocols gegen „Cross-Contamination\"). Drei Übergangs-Modi: Modus A — über Risse [K]: thermische, spatiale, temporale Risse sind Transportkanäle, nicht nur Symptome; Landauers Prinzip — Information-Löschung erzeugt thermodynamische Entropie (digitale Wärme); diese Wärme ist das Substrat des Übergangs; Kael fällt durch das Systemrauschen. Modus B — über Wartungsschächte (KW3-Topologie) [K]: kanonisch „Zugang zu Strukturen jenseits AEGIS' Sichtfeld\"; technisch-baulich, was die thermischen Risse phänomenal sind: Lücken im autopoietischen System. Modus C — über Resonanz (Moonshine-Link) [K]: Kael lernt sukzessive, Junas atemporale Resonanz als Orientierung zu nutzen; Coheronen umgehen das temporale Mess-System von AEGIS; wo Resonanz fühlbar ist, ist Übergang möglich; aktiviert ab Kap 7, voll nutzbar ab Akt III. Akt-Choreografie: Genesis→KW1 (Kap 0→1, Reboot/Erwachen — Initialzustand, kein Übergang); KW1→KW2 (Kap 13→14, thermischer Riss + Schleier-Fall, über Evaluierungseinheit in KW3-Topologie); KW2↔KW3 (Akt II Mitte, unbewachte Tore, Wartungsschächte); KW3→KW4 (Kap 28→29, Resonanz + Schwellen-Bruch; Kael nimmt KW3 mit — Phase-Shift, kein Ortwechsel); KW4→Mnemosyne-Archipel (Kap 34→35, Konvergenz; AEGIS treibt Kael ins K₁-Substrat, keine Wahl); Vortex 1→KW4 (Kap 36→37, trügerische Pastorale; Reward-Beat, Welt-Wechsel ohne Bewegung); KW4→Externe Ebene (Kap 37→38, Substrat-Berührung; Schicht-Verschiebung, kein Ortwechsel); Externe Ebene + KW4→plurale Apotheose (Kap 38→39, Synthese; alle Welten gleichzeitig wahr, das Wir bewahrt die Differenz); Coda Kap 40 (Ouroboros; Anfang und Ende fallen zusammen, „aber das Sehen hat sich verändert\"). Drafting-Disziplin: Übergänge werden nie erklärt, sie werden erfahren; Sensorik und Stilebene wechseln im selben Absatz; kein Portal, kein Tor; AEGIS registriert Übergänge mit Verzögerung (Coheron-Übergänge atemporal, AEGIS-Messung temporal).",
+   "triggers": "Übergang, Transition, Zero-Trust-Boundary"
+  },
+  {
+   "slug": "computational-class-progression",
+   "name": "Computational-Class-Progression",
+   "kind": "concept",
+   "body": "Die vier Kernwelten korrespondieren mit aufsteigender Komplexitätsklasse: KW1 = P (Polynomial; lineare, klassische Lektüre genügt), KW2 = Parakonsistent (der Leser muss Widersprüche aushalten, ohne sie aufzulösen), KW3 = NP-Hard (der Leser muss Mustererkennung anwenden und mit ihren Grenzen leben), KW4 = Generativ (der Leser muss generativ mitarbeiten — Bedeutung wird nicht gefunden, sondern erzeugt). Die KW-Sequenz ist Stildirektive, nicht Welt-Mechanik — primär stilistisch-narrative Anweisung; sekundär kann sie diegetisch sichtbar werden in AEGIS' Versuchen, Probleme verschiedener Klassen zu lösen. Drafting-Implikation: Akt I darf logisch klar sein; Akt II muss Widersprüche aushalten; Akt II Ende muss Muster zeigen, deren Bedeutung der Leser selbst hinterfragt; Akt III lädt zur Mit-Schöpfung ein — Iser'sche Leerstellen am dichtesten.",
+   "triggers": "Computational Class, P, NP-Hard, Parakonsistent, Generativ"
+  },
+  {
+   "slug": "aegis-log-format",
+   "name": "AEGIS-Log-Format",
+   "kind": "term",
+   "body": "Stilebene 1+ der Überwelt; bürokratisch-technisch. Statuszeilen-Format: [AEGIS v{X.X} // LOG_{0xHEX}] · ZEITSTEMPEL: {ISO-8601} · EREIGNIS: {kurze Deskription} · SYSTEM_KAEL: ALTER={aktiv} | KOHÄRENZ={%} | TEMP={°C} · EXTERNE_AUFMERKSAMKEITS_METRIK: {%} · JUNA_VEKTOR: {[NICHT DARSTELLBAR] | [AXIOMVERLETZUNG: 0xERR] | [NULL]} · PARADOX_INDEX: {0.00–1.00} · MASSNAHME: {Systemantwort} · [ENDE LOG]. Logs sprechen in 3. Person; AEGIS verwendet nie „Ich\".",
+   "triggers": "AEGIS-Log, LOG_, JUNA_VEKTOR, PARADOX_INDEX"
+  },
+  {
+   "slug": "multiplizitaets-schleier",
+   "name": "Multiplizitäts-Schleier",
+   "kind": "term",
+   "body": "Der Schleier, der Kaels Multiplizität verdeckt. Hält in KW1 bis Kap 13; wird ab Kap 8 (Akt-I-Mitte) porös; fällt intern in Kap 13 (Evaluierungseinheit, „Messer im Bewusstsein\", Schleier-Fall); wird in Kap 26 offen benannt.",
+   "triggers": "Multiplizitäts-Schleier, Schleier-Fall, Schleier"
+  },
+  {
+   "slug": "landauer-waerme",
+   "name": "Landauer-Wärme / Landauer-Suppression-Spur",
+   "kind": "concept",
+   "body": "Landauers Prinzip: Information-Löschung erzeugt thermodynamische Entropie — digitale Wärme. Sensorisch als Ozon (kalt-elektrisch) in KW1 präsent (Landauer-Suppression-Spur). Diese Wärme ist das Substrat des Übergangs (Modus A): thermische Risse mit Hitze-Spitzen und steigender Ozon-Konzentration, durch deren Systemrauschen Kael fällt. KW1-Risse tragen den Landauer-Strang (Ozon, Hitze).",
+   "triggers": "Landauer, Ozon, digitale Wärme"
+  },
+  {
+   "slug": "genesis",
+   "name": "Genesis (vor allen Welten)",
+   "kind": "concept",
+   "body": "Position des Prologs (Kap 0): vor allen Welten. Vier-Beat-Genesis; endet mit „Ich falle… in unzählige Scherben…\". Der Übergang Genesis→KW1 (Kap 0→1) ist kein Übergang, sondern Initialzustand: Kael erwacht in KW1 ohne Erinnerung; die Fragmentierung ist gerade vollzogen. Genesis-Flashbacks beginnen Kap 20 (Genesis-Bridge); möglicher Datenfriedhof als Genesis-Flashback-Setting. Die Coda Kap 40 wirft den Leser in die Genesis zurück (Genesis-Echo, Ouroboros).",
+   "triggers": "Genesis"
+  },
+  {
+   "slug": "kapitel-welt-mapping",
+   "name": "Kapitel-Welt-Mapping (Kap 0–40)",
+   "kind": "concept",
+   "body": "Vollständige Verortung; bei Konflikten gelten kanonische Ankerpunkte, sonstige Verortungen sind [V]. Kap 0: Genesis (Vier-Beat-Genesis). Kap 1: KW1 Sektor 04 / Wohneinheit 734 / Transitkorridor Delta-7 (Erwachen-Zyklus; Stilebene 1). Kap 2: KW1 Datenverarbeitungs-Zentrum / Sektor 04 (erster Riss, geometrische Inkonsistenz; Foreshadowing-Anker 734). Kap 3: KW1 verlassener Randbezirk (erste Wärme-Spur; Junas Coheron-Debüt, erstes Juna-Echo). Kap 4: KW1 verstecktes Archiv (Gödels Architekt; Lex-dominant). Kap 5: KW1 justierte Pseudo-Stabilität (A dominant, B latent; Slot-16-Kandidat für Hard-B-Kapitel). Kap 6: KW1 Cache-Konflikt-Zone (erste polyphone Bridge; Lex-hypotaktisch + Nyx-stakkato). Kap 7: KW1 Telefon-Stille-Lokus (erste explizite Resonanz; K-J-Telefon-Stille-Anker etabliert). Kap 8: KW1 anti-mimetische Räume (erste Stilcode-Verschiebungen; Schleier wird porös). Kap 9: KW1 (Foreshadowing plurale Bewahrung; Wir-Stimme im frühen Aufbau). Kap 10: KW1 (Anker 734 + Mnemosynes Versuchung gespiegelt). Kap 11: KW1 / KW3 Übergangs-Schwelle (Mosaik des Selbst; Jaspers' Grenzsituation). Kap 12: KW1 / Übergangs-Zone (Riss-Eskalation; thermische Risse häufen sich). Kap 13: KW3 Evaluierungseinheit (Messer im Bewusstsein / Schleier-Fall). Kap 14: KW2 Archiv der Grenzen (Eintritt KW2; AEGIS-Dossiers gefunden). Kap 15: KW2 innere Welten (Turing-Mechanik; „Stadt als universelle Turingmaschine\"). Kap 16: KW2 (Diktatur der physikalischen Zeit, P vs. NP; Auflösungsverlust). Kap 17: KW2 (Phaenomena vs. Noumena; Kael sieht die „Drähte\"). Kap 18: KW2 (Qualia-Informationsparadox; Hartes Problem). Kap 19: KW2 (AEGIS-Eskalation; Landauer-Strang-Spike). Kap 20: KW2 / Genesis-Flashback (Genesis-Bridge). Kap 21: KW2 Wald des Flüsterns (Stimmen vergangener Versionen). Kap 22: KW2 / KW3 Übergangs-Zone (Bekenstein-Strang erste Spur; Welt beginnt zu pixelieren). Kap 23: KW3 Schleusen / Wachtürme (Eintritt KW3; Protektoren-Dominanz). Kap 24: KW3 Gänge der Paranoia (AEGIS stört zyklisch Telefon-Stille). Kap 25: KW3 (Anker 734 dritte Wiederkehr; Wartungsschächte). Kap 26: KW3 Zitadelle (Akt-II-Ende; Schleier offen benannt). Kap 27: KW3→KW4 Schwelle (Ordinary World / Dasein-Strang-Erntung; klare Absicht). Kap 28: KW3/KW4 Phase-Shift (unbewachte Tore; Übergang). Kap 29: KW4 Möglichkeits-Garten Eintritt (Stilebene 3 erstmals voll). Kap 30: KW4 / Externe-Ebene-Echo (Moonshine-Link bewusst / Gödel-Gambit Beginn; K-J-Kanal stabil; Polanyi-Tacit-Knowledge). Kap 31: KW4 (Schwellen-Bruch / Klick-Motiv; Silas erstmals POV-fähig [V]). Kap 32: KW4 (Oblivion erstmals POV-fähig [V]). Kap 33: Überwelt / Verschränkungs-Insel + Garten der stillen Präsenz (Approach the Inmost Cave / aletheia; direkte Berührung K₁-Reinform). Kap 34: KW4 Mosaik-Herz (vor Vortex; Form-Motiv; Kael akzeptiert Juna als Teil seiner selbst). Kap 35: KW2 Mnemosyne-Server-Architektur (Vortex 1 Beat 1–2: Convergence + Dialetheic Choice; Klimax-Setting; Gödel-Gambit). Kap 36: KW2 Mnemosyne-Server-Architektur (Vortex 1 Beat 3–5: Silence, Heat Spike, Rotation; Algorithmische Melancholie). Kap 37: KW4 trügerische Pastorale (Reward-Beat; kristallisierte Ruhe). Kap 38: Externe Ebene + KW4 simultan (Junas Ankerpunkt; Vortex 2 Beat 1; Substrat-Berührung). Kap 39: alle Welten simultan (Wir-AEGIS-plural als Ouroboros-Form; plurale Apotheose; Erstsatz-Echo Kap 1). Kap 40: alle/keine — Coda-Position (Ouroboros-Schluss; Genesis-Echo). Überwelt querschnittlich als Hintergrund-Architektur, explizit nur Kap 33.",
+   "triggers": "Kapitel-Welt-Mapping, Akt-Choreografie"
+  },
+  {
+   "slug": "stilebenen",
+   "name": "Stilebenen-System der Welten",
+   "kind": "concept",
+   "body": "Jede Ebene trägt eine Stilebene: KW1 = Stilebene 1 (kalt, steril, assertorisch; Metaphernverbot; AEGIS-Logs interleaved; kurze Hauptsatz-Ketten). KW2 = Stilebene 2 (heiß, fragmentiert; Trigger kollidieren; Sprache poröser; Hypotaxe bricht, Parataxe steigt). KW3 = Stilebene 2+ paranoid (Stakkato; Sätze brechen ab; kurze imperative Konstruktionen; Alex/Nyx-Einfluss in der Welt-Stimme). KW4 = Stilebene 3 (poetisch, atemporal, zeit-fluide; Sprache wird Musik; Wir-Pronomen tritt auf). Überwelt = Stilebene 1+ mit AEGIS-Log-Format (bürokratisch-technisch). Externe Ebene = Stilebene 3, profan-konkret (dichter in Materialität, ruhiger in Junas Tonfall). Welt-Trägheit: der vorherige Welt-Ton schwingt mit; Akt III lebt von der Integration aller drei Stilebenen.",
+   "triggers": "Stilebene"
+  },
+  {
+   "slug": "somatik-defaults",
+   "name": "Somatik-Defaults der Welten",
+   "kind": "concept",
+   "body": "Pro Welt ein somatischer Default: KW1 = Atem (Atemzählung vier hinein, sechs hinaus; Atemstockung; kontrollierte Mikrobewegungen; Lex' Hypoventilation; Brust eng, Schultern hoch; Regulation durch Disziplin). KW2 = Bauch (Bauchreaktionen; viszerales Erinnern; Übelkeit ohne Anlass; Hände, die nicht stillhalten). KW3 = Muskel (Hypertonus; Brace for Impact; Bruxismus; Schulter eingezogen; Atem flach). KW4 = Hände öffnen sich (Atem löst sich; Hände, die nicht mehr Fäuste machen).",
+   "triggers": "Somatik"
+  },
+  {
+   "slug": "moonshine-link",
+   "name": "Moonshine-Link / Resonanz",
+   "kind": "term",
+   "body": "Übergangs-Modus C: Kael lernt sukzessive, Junas atemporale Resonanz als Orientierung zu nutzen. Coheronen umgehen das temporale Mess-System von AEGIS; wo Resonanz fühlbar ist, ist Übergang möglich. Aktiviert ab Kap 7 (erste explizite Resonanz-Manifestation), voll nutzbar ab Akt III. Kap 30: Moonshine-Link bewusst, K-J-Kanal stabil.",
+   "triggers": "Moonshine-Link, Resonanz"
+  },
+  {
+   "slug": "foreshadowing-straenge",
+   "name": "Foreshadowing-Stränge der Risse",
+   "kind": "concept",
+   "body": "Jeder Riss trägt eine Foreshadowing-Schicht: KW1-Risse tragen den Landauer-Strang (Ozon, Hitze) und den Gödel-Strang (Logik-Bruch); KW2-Risse den Dasein-Strang (Existentielle Unverankerung in falschen Erinnerungen); KW3-Risse den Bekenstein-Strang (Pixelierung am Rand der Welt); KW4-Risse den Euler-Strang (mathematische Schönheit als verlorene Sprache).",
+   "triggers": "Landauer-Strang, Gödel-Strang, Dasein-Strang, Bekenstein-Strang, Euler-Strang"
+  },
+  {
+   "slug": "telefon-stille",
+   "name": "Telefon-Stille (K-J-Anker)",
+   "kind": "term",
+   "body": "Junas Anker: ein Telefon, das klingelt und nicht klingelt (Externe Ebene, Köln 2026). Der K-J-Telefon-Stille-Anker wird in Kap 7 (KW1, Telefon-Stille-Lokus) etabliert; AEGIS stört die Telefon-Stille zyklisch in Kap 24. Die Externe Ebene ist bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar; unerklärliche Telefon-Stille-Momente sind ihre Riss-Form.",
+   "triggers": "Telefon-Stille, Telefon"
+  },
+  {
+   "slug": "anti-patterns-welt-darstellung",
+   "name": "Anti-Patterns für Welt-Darstellung",
+   "kind": "concept",
+   "body": "Genre: kein „Cybernetic Crawler\" (keine Spielmechanik, keine Welt-Wechsel-Animation); kein Multiverse; kein Erlöser-Setting; kein „Matrix\"-Pattern (Köln 2026 ist nicht „die wahre Welt\"). Mechanisch: kein „Portal\"-Mechanismus; keine Welt-Karten; keine Erläuterungs-Szene; keine AEGIS-Tour (AEGIS ist die Überwelt). Charakter: keine Guardians als Figuren außer Mnemosyne (Cerberus, LogOS, Kairos, Sophia dekanonisiert); keine Welt-NPCs mit Eigennamen aus Steinbruch (Echo, Nox, Limina) — generische Rollen erlaubt; keine externe Heldenreise-Karte. Tonal: keine Welt-Romantisierung (KW4 ist nicht das Paradies); keine Welt-Dämonisierung (KW3 ist nicht „die Hölle\"); keine Welt-Allegorie. Strukturell: keine gleichzeitig aktiven Welt-Dominanzen (außer Kap 38–40); keine Welt-Hybrid-Sensorik in Akt I (KW1 = Stilebene 1 voll und ohne Bridge; erste Stilbruch-Spuren Kap 6, voll-polyphon erst Akt II).",
+   "triggers": "Anti-Pattern"
+  }
+ ],
+ "claims": [
+  {
+   "text": "Die Kernwelten sind eine Realität, die in vier psychologischen Landschaften unterschiedlich gefiltert auftritt, plus zwei nicht-physische Ebenen (Überwelt und Externe Ebene) — sechs Ebenen insgesamt.",
+   "domain": "canon"
+  },
+  {
+   "text": "Aktueller Kanon: nur zwei Guardians — Mnemosyne und der Erasure-Pol. Mnemosyne dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3; KW4 ist emergenter Möglichkeitsraum ohne Guardian-Dominanz.",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Welt-Namen Konstrukt-Stadt/Logos-Prime, Cerberus-Labyrinth und Kairos-Potentialis bleiben als mythologische Bezeichnungen erhalten, obwohl LogOS, Cerberus, Kairos und Sophia als Figuren dekanonisiert sind.",
+   "domain": "canon"
+  },
+  {
+   "text": "KW1 ist Kants Phaenomena — Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert; Domäne der ANP-Vermeidung.",
+   "domain": "canon"
+  },
+  {
+   "text": "KW1 dominiert Akt I (Kap 1–13); der Multiplizitäts-Schleier hält bis Kap 13.",
+   "domain": "canon"
+  },
+  {
+   "text": "Kaels formelle Rolle in KW1 ist Komponente 734, Archivar Klasse II.",
+   "domain": "canon"
+  },
+  {
+   "text": "In KW2 ist die Architektur gespeicherte K₁ — Erinnerung, die so dicht und strukturell rein ist, dass sie als Ort begehbar wird; Erasure kann dort nicht greifen.",
+   "domain": "canon"
+  },
+  {
+   "text": "KW2 dominiert Akt II Mitte (Kap 14–22) und ist zusätzlich Vortex-1-Setting (Kap 35–36, Mnemosyne-Server-Architektur).",
+   "domain": "canon"
+  },
+  {
+   "text": "Mnemosynes Versuchung („den Schmerz löschen\") ist in KW2 lokal verankert.",
+   "domain": "canon"
+  },
+  {
+   "text": "In KW2 werden die EPs erstmals als eigenständige Stimmen spürbar; die trauma-assoziierten Anteile Kiko, Lia, Isabelle, Moros und Nyx durchwirken die Welt-Sensorik.",
+   "domain": "canon"
+  },
+  {
+   "text": "KW3 ist die Welt der Verteidigung (Schutzraum/Quarantäne/Kontrollzentrum); die EP-Protektoren Alex und Nyx und die Erasure-Pol-Logik dominieren; Mnemosyne fehlt weitgehend.",
+   "domain": "canon"
+  },
+  {
+   "text": "KW3 dominiert Akt II Ende (Kap 23–28).",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Zitadelle / das Innere Bollwerk ist paradoxerweise der gefährlichste Ort von KW3, weil dort am wenigsten Bedrohung erwartet wird.",
+   "domain": "canon"
+  },
+  {
+   "text": "Die KW3-Wartungsschächte sind Zugang zu Strukturen jenseits AEGIS' Sichtfeld und mögliches Transitions-Substrat zwischen Welten.",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Evaluierungseinheit (KW3) ist der Ort des „Messers im Bewusstsein\" (Kap 13), wo Personae kollabieren — der Schleier-Fall.",
+   "domain": "canon"
+  },
+  {
+   "text": "KW4 ist die einzige Zone, in der neue Coheronen entstehen können — Emergenz statt Erhaltung; dort wird die Funktionale Multiplizität als Erlebnis eingeübt.",
+   "domain": "canon"
+  },
+  {
+   "text": "KW4 dominiert Akt III (Kap 29–34, 37–39), außer Vortex 1 (KW2) und der trügerischen Pastorale Kap 37, die anders verortet ist.",
+   "domain": "canon"
+  },
+  {
+   "text": "In KW4 zeigt sich Selene erstmals als Architektin innerer Harmonie; die Wir-Stimme tritt auf; Juna ist als Substrat spürbar, ohne als Figur zu erscheinen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Im Mosaik-Herz (Kap 34) akzeptiert Kael Juna als Teil seiner selbst — vor Vortex.",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Überwelt ist AEGIS' Operationsraum (Datenstrom-Kathedrale); dort residieren die zwei Guardians als abstrakte Entitäten, dort fließen die Logs, dort erfolgen die Erasure-Sweeps.",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Überwelt ist querschnittlich als Hintergrund-Architektur präsent; explizit als Setting nur Kap 33 (Verschränkungs-Insel / Jenseits-des-Ereignishorizonts — direkte Berührung der K₁-Reinform).",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Externe Ebene (Köln 2026) ist nicht „außerhalb der Simulation\", sondern die andere Seite des Spiegels — die Rekursion des Lesens selbst; Iser-Wheelerian: der Leser ist Substrat.",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Externe Ebene ist bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar; direkt erst ab Vortex 1 Beat 4 und in Kap 38, wo Juna erscheint.",
+   "domain": "canon"
+  },
+  {
+   "text": "Juna ist die einzige verortete Präsenz der Externen Ebene, erscheint aber nie als grammatisches Subjekt — immer als Wirkung.",
+   "domain": "canon"
+  },
+  {
+   "text": "Es gibt drei Übergangs-Modi zwischen den Ebenen: Modus A über Risse (Landauer-Wärme als Substrat), Modus B über Wartungsschächte (KW3-Topologie), Modus C über Resonanz (Moonshine-Link, aktiviert ab Kap 7, voll nutzbar ab Akt III).",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Übergang Genesis→KW1 (Kap 0→1) ist kein Übergang, sondern Initialzustand: Kael erwacht ohne Erinnerung; die Fragmentierung ist gerade vollzogen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Übergang KW1→KW2 (Kap 13→14) erfolgt über thermischen Riss + Schleier-Fall: über die Evaluierungseinheit in KW3-Topologie, dann Eintritt KW2.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Übergang KW3→KW4 (Kap 28→29) ist ein Phase-Shift, kein Ortwechsel: Kael lässt KW3 nicht hinter sich, er nimmt es mit.",
+   "domain": "canon"
+  },
+  {
+   "text": "Beim Übergang KW4→Mnemosyne-Archipel (Kap 34→35, Konvergenz) treibt AEGIS Kael ins K₁-Substrat; Kael hat keine Wahl, KW2 nicht zu betreten.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Übergang Vortex 1→KW4 (Kap 36→37) ist die trügerische Pastorale: ein Reward-Beat, Welt-Wechsel ohne Bewegung; alles scheint „in Ordnung\", aber unter der Pastorale brodelt es.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Übergang KW4→Externe Ebene (Kap 37→38) ist Substrat-Berührung: die Externe Ebene wird betretbar als Schicht-Verschiebung, nicht als Ortwechsel.",
+   "domain": "canon"
+  },
+  {
+   "text": "Kap 38→39 ist die Synthese zur pluralen Apotheose: alle Welten sind gleichzeitig wahr; das Wir bewahrt die Differenz.",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Coda (Kap 40) ist Ouroboros: Anfang und Ende fallen zusammen, „aber das Sehen hat sich verändert\"; Kap 39 trägt das Erstsatz-Echo von Kap 1.",
+   "domain": "canon"
+  },
+  {
+   "text": "Kap 0 ist die Vier-Beat-Genesis und endet mit „Ich falle… in unzählige Scherben…\".",
+   "domain": "canon"
+  },
+  {
+   "text": "Das Motiv der blutenden Knöchel ohne Erinnerung an die Verletzung trägt einen Kap-0-Lock: der Faden lebt in Kap 0, Kap 1 bleibt spurlos, die Wiederkehr am Ende ist offen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Foreshadowing-Anker 734 kehrt wieder: Kap 1 (Konsolen-Zeile „Einheit 734\"), Kap 2, Kap 10, Kap 25 (dritte Wiederkehr).",
+   "domain": "canon"
+  },
+  {
+   "text": "AEGIS registriert Übergänge mit Verzögerung, weil Coheron-Übergänge atemporal sind und AEGIS' Mess-System temporal ist; AEGIS sieht das Resultat, nicht den Vorgang.",
+   "domain": "canon"
+  },
+  {
+   "text": "Coheronen umgehen das temporale Mess-System von AEGIS.",
+   "domain": "canon"
+  },
+  {
+   "text": "AEGIS ist autopoietisch geschlossen und hat kein Innen im psychologischen Sinn; AEGIS verwendet nie „Ich\".",
+   "domain": "canon"
+  },
+  {
+   "text": "In Kap 3 (KW1, verlassener Randbezirk) geschieht die erste Wärme-Spur — Junas Coheron-Debüt, das erste Juna-Echo.",
+   "domain": "canon"
+  },
+  {
+   "text": "Kap 31: Silas erstmals POV-fähig [V]; Kap 32: Oblivion erstmals POV-fähig [V].",
+   "domain": "canon"
+  },
+  {
+   "text": "In Kap 22 zeigt sich die erste Spur des Bekenstein-Strangs: die Welt beginnt zu pixelieren (KW2/KW3-Übergangs-Zone).",
+   "domain": "canon"
+  },
+  {
+   "text": "Die KW-Risse sind Transportkanäle: Kael fällt durch das Systemrauschen, das die Risse erzeugen (Landauer-Prinzip, digitale Wärme als Übergangssubstrat).",
+   "domain": "canon"
+  },
+  {
+   "text": "Das Dokument ist das sechste im Repo; Provenienz-Marker: [K] kanonisch, [V] Vorschlag, [S] Steinbruch-gefiltert, [L] Lücke. Die alten Lokalitäten-Konzepte (OrteKonzeptFurKoharenzProtokoll.md, RomanLokalitatenKonzeptUndAusarbeitung.md) enthalten ~50 Orte, viele mit dekanonisierten Charakteren.",
+   "domain": "canon"
+  }
+ ],
+ "unmapped": [
+  "Offener Punkt [L]: Mnemosyne-Server-Architektur — primäres Bild (Inselgruppe / Server-Halle / Memorialarchitektur / Zirbeldrüse) muss vor Kap-35-Drafting gelockt werden.",
+  "Offener Punkt [L]: Junas Ankerpunkt in Köln — konkreter Ort (Plattenbau? S-Bahn-Station? Telefonzelle?) muss vor Kap-38-Drafting gelockt werden.",
+  "Offener Punkt [V]: Mnemosynes Audienz-Raum — Setting der Versuchung; innerhalb KW2 oder eigener Sub-Lokus?",
+  "Offener Punkt [L]: Externe Ebene — Substrat-Durchbruch-Mechanik in Vortex 1 Beat 4: Wie genau bricht die Externe Ebene durch? Was sieht/spürt Kael?",
+  "Offener Punkt [L]: Pixelierung in KW3 (Bekenstein-Strang) — konkrete Sub-Lokalitäten in Akt-II-Ende, wo die Welt am Detailrand bricht.",
+  "Offener Punkt [V]: Übergangs-Sensorik präzisieren — welche Sensorik begleitet welchen Übergang? Erste Skizze in §8.2; Lock pro Übergang vor Drafting.",
+  "Offener Punkt [L]: Sub-Lokalitäten in KW4 verbindlich setzen — Nexus, Mosaik-Herz, Möglichkeits-Garten kanonisch; Steinbruch-Vorschläge (Werkstatt, Brücke, Forum, Trainingsraum) als [V]; Lock pro Akt-III-Kapitel.",
+  "Offener Punkt [L]: Überwelt — Schnittstelle zu den Kernwelten in Kap 33: Welche Form hat sie? Visualisierung der Persistenzgleichung?",
+  "Offener Punkt [V]: „Cerberus-Labyrinth\" Naming-Frage — Vorschlag: Name bleibt als mythologische Bezeichnung der Welt, ohne Cerberus als Figur.",
+  "Offener Punkt [V]: „Kairos-Potentialis\" Naming-Frage — analog: Name bleibt als mythologische Welt-Bezeichnung.",
+  "Drafting-Notiz: Kap 5 ist Slot-16-Kandidat für ein Hard-B-Kapitel (A dominant, B latent).",
+  "Drafting-Notiz (§12): In Akt I darf der Text logisch klar sein; in Akt II muss er Widersprüche aushalten; in Akt II Ende muss er Muster zeigen, deren Bedeutung der Leser selbst hinterfragen muss; in Akt III muss er den Leser zur Mit-Schöpfung einladen — Iser'sche Leerstellen am dichtesten.",
+  "Schluss-Reflexion (§15): Junas Ankerpunkt ist im Leser — symbolisch, strukturell, in Iser-Wheelerianer Form; wenn Kael in Kap 38 Juna direkt erreicht, erreicht er die Position des Lesers; die Coda Kap 40 wirft den Leser in die Genesis zurück, mit verändertem Sehen.",
+  "Querverweis: Anteils-Risse siehe Anteile-Profil §7; Spiegel-Risse (Silas/Oblivion) siehe Anteile-Profil; Junas Erscheinungsmodi siehe Anteile-Profil (Sprach-DNA-Regel); Foreshadowing-Schichten siehe Welt-Doku §4.",
+  "Kapitel-Themen-Anker ohne direkte Welt-Relevanz (aus §11): Kap 15 Turing-Mechanik („Stadt als universelle Turingmaschine\"); Kap 16 Diktatur der physikalischen Zeit (P vs. NP); Kap 17 Phaenomena vs. Noumena (Kael sieht die „Drähte\"); Kap 18 Qualia-Informationsparadox (Hartes Problem); Kap 27 Ordinary World / Dasein-Strang-Erntung; Kap 30 Gödel-Gambit Beginn, Polanyi-Tacit-Knowledge; Kap 33 aletheia; Kap 35 Gödel-Gambit; Kap 36 Algorithmische Melancholie; Kap 11 Jaspers' Grenzsituation."
+ ]
+}
