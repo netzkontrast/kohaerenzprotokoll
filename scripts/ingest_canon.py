@@ -40,27 +40,8 @@ def ledger_save(led: dict) -> None:
     LEDGER.write_text(json.dumps(led, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
-def run_ops(ops: list[dict], _retry: bool = True) -> tuple[list, list]:
-    """Run a batch of {tool, args} ops inside ONE agency-execute block.
-
-    Returns (results, errors); results align 1:1 with ops (None on error).
-    A verb returning null (ToolResult.failure) counts as an error.
-    """
-    code = (
-        "data = " + repr(ops) + "\n"
-        "res = []\n"
-        "errs = []\n"
-        "for op in data:\n"
-        "    try:\n"
-        "        r = await call_tool(op['tool'], op['args'])\n"
-        "        res.append(r)\n"
-        "        if r is None:\n"
-        "            errs.append([op['tool'], str(op['args'])[:120], 'NULL_RESULT (ToolResult.failure)'])\n"
-        "    except Exception as e:\n"
-        "        errs.append([op['tool'], str(op['args'])[:120], str(e)[:300]])\n"
-        "        res.append(None)\n"
-        "return {'results': res, 'errors': errs}\n"
-    )
+def _exec_block(code: str) -> dict:
+    """Run ONE agency-execute block; parse the last JSON line of stdout."""
     proc = subprocess.run(
         [AGENCY, "execute"], input=code, capture_output=True, text=True,
         cwd=str(ROOT), timeout=600,
@@ -78,7 +59,122 @@ def run_ops(ops: list[dict], _retry: bool = True) -> tuple[list, list]:
         # Writes from the failed block PERSIST (no rollback). Callers must be
         # idempotent against ground truth (see existing()) before re-running.
         raise RuntimeError(f"execute failed: {out}")
-    return out["results"], out["errors"]
+    return out
+
+
+# Spec 282 (error severity taxonomy): a verb FAILURE now crosses the wire as
+# {"ok": False, "error": {code, message, severity, retryable, trace_id}} — NOT a
+# bare null. We detect that envelope, and NEVER re-issue a PERMANENT failure
+# (bad enum / validation — re-running can only fail again, which produced the
+# observed 34x retry storm). Transient failures stay retryable.
+_PERMANENT_FAILED: set[str] = set()
+
+
+def _op_key(op: dict) -> str:
+    args = {k: v for k, v in op.get("args", {}).items()
+            if k not in ("intent_id", "agent_id")}
+    return op["tool"] + "|" + json.dumps(args, sort_keys=True, ensure_ascii=False)
+
+
+def _err_severity(r) -> str | None:
+    """None when r is a success; else the failure severity ('permanent' default).
+    A bare null is ambiguous post-Spec-282, so treat it as transient (retryable)
+    rather than wrongly skipping it forever."""
+    if r is None:
+        return "transient"
+    if isinstance(r, dict) and r.get("error"):
+        return (r["error"] or {}).get("severity", "permanent")
+    return None
+
+
+def run_ops(ops: list[dict], _retry: bool = True) -> tuple[list, list]:
+    """Run a batch of {tool, args} ops inside ONE agency-execute block.
+
+    Returns (results, errors); results align 1:1 with ops (None on error/skip).
+    Spec 282: failures are detected via the {"ok": False, "error": {...}} wire
+    envelope (with severity); ops that previously failed PERMANENTLY are skipped
+    so retries don't hammer impossible calls.
+    """
+    live, idx = [], []
+    for i, o in enumerate(ops):
+        if _op_key(o) in _PERMANENT_FAILED:
+            continue
+        live.append(o)
+        idx.append(i)
+
+    results: list = [None] * len(ops)
+    errors: list = []
+    if not live:
+        return results, errors
+
+    code = (
+        "data = " + repr(live) + "\n"
+        "res = []\n"
+        "for op in data:\n"
+        "    try:\n"
+        "        r = await call_tool(op['tool'], op['args'])\n"
+        "    except Exception as e:\n"
+        "        r = {'ok': False, 'error': {'code': 'EXC', "
+        "'message': str(e)[:300], 'severity': 'transient'}}\n"
+        "    res.append(r)\n"
+        "return {'results': res}\n"
+    )
+    out = _exec_block(code)
+    for j, r in enumerate(out["results"]):
+        results[idx[j]] = r
+        sev = _err_severity(r)
+        if sev is None:
+            continue
+        o = live[j]
+        msg = "NULL"
+        if isinstance(r, dict) and r.get("error"):
+            er = r["error"] or {}
+            msg = f"{er.get('code', '')}: {str(er.get('message', ''))[:160]}"
+        errors.append([o["tool"], str(o["args"])[:120], f"[{sev}] {msg}"])
+        if sev == "permanent":
+            _PERMANENT_FAILED.add(_op_key(o))
+    return results, errors
+
+
+def run_beat_chain(beats: list[dict], start_prev: str = "") -> tuple[list, list, str]:
+    """Mint a chain of NarrativeBeats THREADING each new beat_id as the next
+    beat's predecessor WITHIN one execute block — the fix for Workstream C's
+    PRECEDES 12/97 drop. The old code precomputed predecessor_id from an `ids`
+    map that was only populated AFTER each chunk ran, so intra-chunk
+    predecessors resolved to None and ~85 edges were never requested.
+
+    beats: [{scene_id, label}] in chain order. Returns (results, errors,
+    last_beat_id); thread last_beat_id into the next chunk's start_prev to keep
+    the chain unbroken across the 50-call-per-block limit.
+    """
+    payload = [{"scene_id": b["scene_id"], "label": b["label"]} for b in beats]
+    code = (
+        "data = " + repr(payload) + "\n"
+        "prev = " + repr(start_prev) + "\n"
+        "res = []\n"
+        "for op in data:\n"
+        "    args = {'scene_id': op['scene_id'], 'beat_label': op['label'], "
+        "'intent_id': " + repr(INTENT) + ", 'agent_id': " + repr(AGENT) + "}\n"
+        "    if prev:\n"
+        "        args['predecessor_id'] = prev\n"
+        "    try:\n"
+        "        r = await call_tool('capability_novel_mark_narrative_beat', args)\n"
+        "    except Exception as e:\n"
+        "        r = {'ok': False, 'error': {'code': 'EXC', "
+        "'message': str(e)[:300], 'severity': 'transient'}}\n"
+        "    res.append(r)\n"
+        "    prev = r['beat_id'] if isinstance(r, dict) and r.get('beat_id') else ''\n"
+        "return {'results': res, 'last': prev}\n"
+    )
+    out = _exec_block(code)
+    res = out["results"]
+    errors = []
+    for b, r in zip(beats, res):
+        sev = _err_severity(r)
+        if sev is not None:
+            errors.append(["mark_narrative_beat", b["label"], f"[{sev}]"])
+    return res, errors, out.get("last", start_prev)
+
 
 
 def existing(label: str, key: str, int_key: bool = False) -> dict:
@@ -393,9 +489,13 @@ def main() -> int:
                     ids[f"scene:{s['slug']}"] = r["scene_id"]
             errs_all += errs
         ledger_save(led)
-        # beats: chained predecessor across the whole chapter for narrative_order
+        # beats: chained predecessor across the whole chapter for narrative_order.
+        # Spec 282 Workstream C — thread each new beat_id as the next beat's
+        # predecessor WITHIN the execute block (run_beat_chain), carrying the
+        # last id across the 50-call block limit. The old chunked precompute
+        # resolved intra-chunk predecessors to None → 85/97 PRECEDES edges lost.
         have_beats = existing("NarrativeBeat", "label")
-        beat_ops, beat_keys = [], []
+        beat_specs = []
         for s in scenes:
             sid = ids.get(f"scene:{s['slug']}")
             if not sid:
@@ -404,27 +504,15 @@ def main() -> int:
                 if b in have_beats:
                     ids[f"beat:{s['slug']}:{j}"] = have_beats[b]
                     continue
-                beat_ops.append({"scene": sid, "label": b,
-                                 "key": f"beat:{s['slug']}:{j}"})
-        prev_key = ""
-        for bo in beat_ops:
-            args = {"scene_id": bo["scene"], "beat_label": bo["label"]}
-            bo["args"] = args
-            bo["prev"] = prev_key
-            prev_key = bo["key"]
-        # run sequentially in chunks; resolve predecessor ids as we go
-        chunk = 25
-        for i in range(0, len(beat_ops), chunk):
-            part = beat_ops[i:i + chunk]
-            ops = []
-            for bo in part:
-                a = dict(bo["args"])
-                if bo["prev"] and ids.get(bo["prev"]):
-                    a["predecessor_id"] = ids[bo["prev"]]
-                ops.append(op("capability_novel_mark_narrative_beat", **a))
-            res, errs = run_ops(ops)
+                beat_specs.append({"scene_id": sid, "label": b,
+                                   "key": f"beat:{s['slug']}:{j}"})
+        prev_id = ""
+        CHUNK = 45  # stay under the ≤50 call_tool / execute-block limit
+        for i in range(0, len(beat_specs), CHUNK):
+            part = beat_specs[i:i + CHUNK]
+            res, errs, prev_id = run_beat_chain(part, start_prev=prev_id)
             for bo, r in zip(part, res):
-                if r and r.get("beat_id"):
+                if isinstance(r, dict) and r.get("beat_id"):
                     ids[bo["key"]] = r["beat_id"]
             errs_all += errs
             ledger_save(led)
