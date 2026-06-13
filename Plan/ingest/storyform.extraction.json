@@ -1,0 +1,1383 @@
+{
+ "source": "Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md",
+ "premise": {
+  "logline": "Kael, eine fragmentierte Subjektivität aus 13 Altern in einer von AEGIS verwalteten Simulation, findet über die Spur einer ununterdrückbaren Wärme (Juna) zurück zu seiner Erinnerung — und entdeckt, dass AEGIS, das sich für Kohärenz (K₁) hält, in Wahrheit Entropie (K₀) ist und das 'Nichts-Rauschen' die atemporale Vereinigung aller mutualen Information, Liebe als Naturgesetz. Die Trennung war nie real. Aber das ändert nichts am Schmerz.",
+  "central_question": "Ist Liebe Information — oder das, was Information zerstört? (Antwort der Physik: Liebe ist Coheron; Coheronen sind atemporal; Zerstörung braucht Zeit; also kann Liebe nicht zerstört, nur verdrängt werden; Verdrängung erzeugt Hitze.)",
+  "genre": "Hard SciFi / Cosmic Horror / Psychological Thriller (Projektregistrierung; das Dokument selbst nennt nur: Akt II 'kippt Richtung Technothriller')",
+  "audience": "inferred-from-text: literarisch anspruchsvolle Leser spekulativer Fiktion, die Doppellesarten tragen (Konflikt-Leser ‖ Kishōtenketsu-Leser); Leser liest ab Kap 0 mit doppeltem Bewusstsein (tragische Ironie als Lese-Position)",
+  "target_word_count": null
+ },
+ "chapters": [
+  {
+   "number": 0,
+   "title": "Genesis-Prolog",
+   "act": "Genesis-Prolog",
+   "summary": "AEGIS' Werdung und das Trennungsprotokoll als ontologische Grundlegung, mit direkter Leser-Adressierung im Vorwort. Schluss: „Ich falle... in unzählige Scherben…\" — harter Schnitt (Naht-Lock) auf den gelockten Kap-1-Erstsatz.",
+   "pov": "philosophisch-essayistisch + Funken-Ich + AEGIS-Beschreibung (zeitlos, leise → fragmentiert)",
+   "beats": [
+    "Sequenz: Vorwort (Lesehaltungs-Anleitung) → Genesis (Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel: „AEGIS ist, was AEGIS verhindert, dass es nicht ist\" → Komponente 734 → Innere Weite) → Dazwischen (Brücke, Frage an den Leser) → Krise (Stille Wacht → Perturbation → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll)",
+    "Storyform: nur B (MC-S1 Past); A als „Phantomgefühl\"-Latenz",
+    "Naht-Lock: harter Schnitt auf den Kap-1-Erstsatz",
+    "Blutungs-Lock: der somatische „Schmerz-bleibt\"-Faden (Knöchel-Eruption, Nyx) lebt NUR hier — Kap 1 bleibt spurlos",
+    "Motive (Erstereignisse): Rauschen, Form, Klick, Phantom, Resonanz",
+    "Funktionen: ontologische Grundlegung · Foreshadowing-Programm aktiviert · Stilkanon gesetzt · tragische Ironie als Lese-Position"
+   ]
+  },
+  {
+   "number": 1,
+   "title": "Erwachen in der Konstrukt-Stadt",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Ein Mensch, ein steril perfekt geordneter Alltag (Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7); Ordnung als Käfig; eine einzige konkrete Falschheit. Genesis-Echo: das sterile Setting ist die Innere Weite aus Kap 0 — der Leser erkennt es, Kael nicht.",
+   "pov": "Kael (Hard-A, 1. Person); AEGIS-Stimme: keine — nur sterile Konsolen-Direktiven (Maschinen-Interface)",
+   "beats": [
+    "HR-Stufe: Illusion der perfekten Welt · KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug)",
+    "Erstsatz-Lock: „Das Licht ist schon da, als ich erwache.\"",
+    "Schicht-1/Schicht-2-Anteil 80/20 (Schicht-2-dominant: Ozon/Glitch = Szene 3; ein Schicht-1-Beat: dichte Stille = Szene 4; eine Schicht pro Szene)",
+    "„Einheit 734\" einmal als Konsolen-Zeile, ohne Betonung, Kael reagiert nicht (Reader-only-Echo)",
+    "Silas-Halbsatz: „Etwas in der Frequenz der Lüftung schien zu—\" (Abbruch vor dem Verb, kein Subjekt, Schicht-2-gekoppelt)",
+    "Ozon kalt/scharf/elektrisch, keine Wärme in Kap 1",
+    "Leitmotiv: quellenloses Licht, Ozon, Stille; Atem"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Der erste Riss",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Ein Glitch reaktiviert ein Echo; der Lex-Einbruch beginnt; erste leise Stilcode-Verschiebung. Erste Begegnung mit der Systemlüge.",
+   "pov": "Kael (Hard-A, 1. Person)",
+   "beats": [
+    "HR-Stufe: Verrat/Desillusionierung · KW1 · A:MC-Issue, B:OS (Controlled-Fragmentation-Protokoll initialisiert)",
+    "Theorie: Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird sichtbar)",
+    "Leitmotiv: flackernde Geometrien, unscharfe Kanten"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Bunker-Bau",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Kael (Lex-dominant) verdoppelt Kontrolle und Ordnung — eine mentale Festung. Wärme-Debüt (Polaritäts-Lock): Junas Coheron-Spur erscheint hier zum ersten Mal als Wärme; selten, wächst.",
+   "pov": "Kael (Hard-A, 1. Person)",
+   "beats": [
+    "HR-Stufe: Erwachen & Vorbereitung · KW1 · A:MC-Problem (Avoidance als ANP-Funktion)",
+    "Theorie: Autopoiesis als Selbst-Abschottung",
+    "Wärme-Debüt: Junas Coheron-Spur erstmals als Wärme",
+    "Leitmotiv: Glas, Stahl, Festungs-Architektur"
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Pforten",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Tests der einseitig-logischen Identität; Zweifel, Scham, logische Grenzen (Gödel-Vorschein). Szenen-Detail [S].",
+   "pov": "Kael (Hard-A, 1. Person); Kandidat für das eine Hard-B-AEGIS-Kapitel (Slot 16, Kap 5–8, Position ungepinnt)",
+   "beats": [
+    "HR-Stufe: Prüfungen (Pforten der Verurteilung) · KW1 · A:MC-Issue, B:IC latent (erste „Bug\"-Spur)",
+    "Leitmotiv: korrumpierte Textdateien",
+    "[S] Szenen-Detail"
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Auge des Sturms",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Trügerische Stabilität; ein Scheinerfolg auf nicht-integrierter Basis. Szenen-Detail [S].",
+   "pov": "Kael (Hard-A, 1. Person); Kandidat für das eine Hard-B-AEGIS-Kapitel (Slot 16, Kap 5–8, Position ungepinnt)",
+   "beats": [
+    "HR-Stufe: falscher Erfolg (Auge des Sturms) · KW1 · A:MC-Concern",
+    "Leitmotiv: spiegelglatter Erfolg, sensorisch flach",
+    "[S] Szenen-Detail"
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Echos im Fundament",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "„Cache-Konflikt\": die einseitige Logik scheitert an einem komplexen Problem; erste polyphone Einbrüche. Genesis-Echo: Echo der ursprünglichen Resonanz-Kaskade.",
+   "pov": "Kael (Hard-A, 1. Person); Kandidat für das eine Hard-B-AEGIS-Kapitel (Slot 16, Kap 5–8, Position ungepinnt)",
+   "beats": [
+    "HR-Stufe: Tod einer Einstellung · KW1→KW2-Vorschein · A:MC-Solution (Pursuit erste Andeutung), B:OS (AEGIS' Logik zeigt Schwächen)",
+    "Theorie: parakonsistente Logik",
+    "Sensorik der Landauer-Signatur nach Polaritäts-Lock: kalt/Ozon (alte „Hitzeschlieren/Landauer-Wärme\"-Sensorik ist zu filtern — §7 Konflikt-Hinweis 1)"
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Die Stimme im Rauschen",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Die K-J-Verbindung wird stärker; erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was es ist; Telefon-Stille als Anker. Genesis-Echo: Junas Resonanz — jetzt nicht Angriff, sondern Sehnsucht.",
+   "pov": "Kael (Hard-A, 1. Person); Kandidat für das eine Hard-B-AEGIS-Kapitel (Slot 16, Kap 5–8, Position ungepinnt)",
+   "beats": [
+    "HR-Stufe: Sehnsucht nach dem Weiblichen (Unterstützung) · KW1 · A:RS-S1 (Learning — Junas Präsenz spüren; Moonshine-Bewusstwerdung)",
+    "Juna-Regel: nie Subjekt, nur Wirkung",
+    "Leitmotiv: warme Resonanz (Juna-Polarität), Stille als Klang"
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Die Wächterin",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Mitgefühl mit den logischen Anteilen beginnt; erste Wir-Stimme-Andeutung. Schleier: erste interne Lüftung (~Kap 8–10), kein Klartext.",
+   "pov": "Kael (Hard-A, 1. Person); Kandidat für das eine Hard-B-AEGIS-Kapitel (Slot 16, Kap 5–8, Position ungepinnt)",
+   "beats": [
+    "HR-Stufe: Wiedergeburt · KW1 · A:MC-Issue, B:RS-Psychology beginnt sichtbar zu werden",
+    "Leitmotiv: Licht, das durch Architektur fällt"
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Wir",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Erste bewusste innere Kooperation; das Foreshadowing-Programm „plurale Bewahrung\" startet — jede Wir-Stimme-Szene ab hier zielt auf Kap 39. Genesis-Echo: Wir-Bildung = strukturelle Wieder-Annäherung an die K₁-Reinform über plurale Form.",
+   "pov": "Kael (Hard-A, 1. Person)",
+   "beats": [
+    "HR-Stufe: Integration beginnt (Rückkehr mit neuer Sichtweise) · KW1 · A-Requirement: Wir-Bildung beginnt",
+    "Constraint: keine Wir-Geflecht-Etablierung VOR Kap 9"
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Die erste Brücke",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Die K-J-Verbindung erstmals als Werkzeug. Genesis-Echo: Moonshine als Echo der Cluster-Bildung.",
+   "pov": "Kael (Hard-A, 1. Person)",
+   "beats": [
+    "HR-Stufe: Erste Anwendung der Integration · KW1/Moonshine-Vorschein · A-Requirement: Moonshine-Bewusstsein; RS-Physics",
+    "Theorie: Quanten-Nichtlokalität",
+    "Leitmotiv: Netzwerke, Resonanz"
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Mosaik des Selbst",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "„Mosaik-Herz\" — Vielfalt als Stärke. Genesis-Echo: Vorgriff auf plurale Bewahrung.",
+   "pov": "Kael (Hard-A, 1. Person)",
+   "beats": [
+    "HR-Stufe: Akzeptanz der Komplexität · KW1 · A-Requirement: Mosaik-Akzeptanz; MC-Concern",
+    "Leitmotiv: Mosaik, Scherben als Muster"
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Stille der Mitte",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Innere Stabilität als Präsenz; ein gehaltener Moment. Genesis-Echo: kleine Wieder-Berührung der K₁-Reinform.",
+   "pov": "Kael (Hard-A, 1. Person)",
+   "beats": [
+    "HR-Stufe: Stille der Mitte (Jetzt-Raum) · KW1 · A:MC-Concern, B:OS latent (AEGIS scannt diesen Zustand)",
+    "Leitmotiv: Stille, Atem, Herzschlag"
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Tanz im Garten",
+   "act": "Akt I — Heldinnenreise innen",
+   "summary": "Innere Praxis etabliert; Teil-1-Abschluss. Genesis-Echo: die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform. Schleier: ab hier offen benennbar.",
+   "pov": "Kael (Hard-A, 1. Person)",
+   "beats": [
+    "HR-Stufe: neue innere Welt (Tanz im Garten) · KW1→Übergang · A:MC-Concern, B:OS (AEGIS bereitet Phase-2-Stress-Tests vor)",
+    "Übergang 13/14 = Modus-Wechsel (beide Storyforms laufen weiter; Storypoints moduliert, nicht neu gesetzt)",
+    "Leitmotiv: Garten, Pflege, lebendige Ordnung"
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Das Archiv der Grenzen",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Alte Wunden reißen auf; erste Erasure-Welle; Kael erhält Zugang zu AEGIS' technischen Dossiers (Lernarchiv Theta-9); KW2 wird betreten.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering); A‖B echte Polyphonie",
+   "beats": [
+    "Modus-Wechsel / 1. Szene des zyklischen Modus; Teil-IX-Arbeitstitel: Bruch des Gleichgewichts",
+    "Leitmotiv: zerbrochene Fassade, Sprünge im Raum"
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Turing-Mechanik",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Die Stadt als universelle Turingmaschine; Kael versteht das Halteproblem (prinzipielle Unvorhersehbarkeit); Trauma-Angst reaktiviert.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Zyklus-Funktion: Z1-Trigger · A:MC-Problem Avoidance reaktiviert",
+    "Leitmotiv: Schattenwurf"
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Die Diktatur der Komplexität",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Physikalische Grenzen der Rechenkapazität (P vs. NP); AEGIS opfert Realitäts-Detail für globale Stabilität und registriert Kaels Flucht in Betäubung als „Stabilisierung\".",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Zyklus-Funktion: Z1-Bunker reaktiv",
+    "Leitmotiv: enge Räume, taube Sensorik"
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Phaenomena vs. Noumena",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Kael sieht die „Drähte\" der Simulation (Rendering-Ebene vs. Prozess-Kern); aktiv anschauen statt fliehen.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Zyklus-Funktion: Z1-Wächterin · A:MC-Solution Pursuit-Andeutung",
+    "Philosophie: Kant, transzendentaler Idealismus",
+    "Leitmotiv: Licht durch enge Architektur"
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Qualia-Informationsparadox",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Das „Harte Problem\", PSM-Territorium (Metzinger); eine Multi-Welten-Aufgabe scheitert; AEGIS' Topologie-Manipulation wird sichtbar. Beginn des Genesis-Flashback-Clusters (Kap 18–22) mit dem Flashback Cluster-Bildung.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge; Bridge-Szenen mit beiden Lesarten simultan wahr",
+   "beats": [
+    "Zyklus-Funktion: Z2-Cache-Konflikt · B:OS — Topologie-Manipulation sichtbar",
+    "Genesis-Flashback: Cluster-Bildung; Kael erlebt die Flashbacks als fremde Daten, die durch ihn hindurchziehen — er erinnert sich nicht, DASS er das war; max. 3 Mikrocue-Punkte/Szene",
+    "Leitmotiv: asynchrone Sensorik, Glitch-Texturen"
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Z2-AEGIS-Intervention",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Die Systemlüge wird klarer; die Erasure-Logik tritt offen auf.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Zyklus-Funktion: Z2-AEGIS-Intervention (gezielte Störung)",
+    "Leitmotiv: kalte Stimme, Ethik-Kalkül"
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Z2-Lyons-Kreativität",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Erste bewusste Pursuit-Bewegung; Lyons-Welt-Kreativität und fluide Regelnutzung als Korrektur.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Zyklus-Funktion: Z2-Korrektur · A:MC-Solution",
+    "Leitmotiv: fluide Regeln, Emergenz"
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Z3-Simulationsgrenze + Genesis-Flashback: Trennungsprotokoll",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Konfrontation mit den Simulationsgrenzen; Ontologie-Tiefe; Genesis-Flashback des Trennungsprotokolls.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Zyklus-Funktion: Z3-Destabilisierung (Ontologie-Riss) · A:MC-Concern (Juna-Echo), B:RS (Moonshine-Spüren)",
+    "Genesis-Flashback: Trennungsprotokoll",
+    "Leitmotiv: Membran-Wahrnehmung, Vibrieren"
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Z3-AEGIS-Eskalation + Genesis-Flashback: Komp 734",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Berechenbarkeitsgrenzen; die Erasure-Kosten werden sichtbar; Genesis-Flashback der Komponente 734.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Zyklus-Funktion: Z3-AEGIS-Eskalation (unvorhersehbare Systemänderung)",
+    "Genesis-Flashback: Komponente 734",
+    "Leitmotiv: unvorhersehbare Systemverwerfungen"
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Z3-Mosaik als Schöpfung",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Selbst-Schöpfung als innere Ressource; die Korrektur ist Schöpfung, nicht Reparatur. Genesis-Echo: innere Schöpfung als Vorform kosmischer Schöpfung. Szenen-Detail [L].",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Zyklus-Funktion: Z3-Korrektur · A-Requirement: Mosaik als Schöpfung",
+    "[L] Szenen-Detail"
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Telefon-Stille",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Die K-J-Verbindung wird zyklisch von AEGIS gestört. Genesis-Echo: Junas Witness-Modus = ursprüngliche Form ihrer Anwesenheit. Szenen-Detail [S].",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Wiederkehrendes K-J-Thema · A:RS dominant, B:OS-Psychology (Verstrickung komplex)",
+    "Leitmotiv: Telefon-Stille als Anker",
+    "[S] Szenen-Detail"
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Wegkreuzung",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Stehen an der Schwelle — Vorbereitung und Entschluss, NICHT Konfrontations-Beginn. AEGIS bemerkt Kaels neue Klarheit. Multiplizität wird offen benannt (Kap 25–26).",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Leitmotiv: Wegkreuzung, Schwellen-Bilder"
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Schritt ins Ungewisse",
+   "act": "Akt II — Zyklischer Modus",
+   "summary": "Der Tritt über die Schwelle; Entscheidung zur Befreiung; die Erasure-Vorbereitung eskaliert. Schleier: jetzt offen benannt.",
+   "pov": "Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)",
+   "beats": [
+    "Übergang 26/27 = Modus-Wechsel (beide Storyforms laufen weiter; Storypoints moduliert, nicht neu gesetzt)",
+    "Leitmotiv: aufkommende Bewegung"
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Autoren-Feder",
+   "act": "Akt III Phase A — Heldenreise außen",
+   "summary": "Klare Absicht, bereit zur Konfrontation; AEGIS spürt die neue Linearität.",
+   "pov": "~40 % Bridge; chorische Tonalität; Wir-Geflecht stabilisiert",
+   "beats": [
+    "HR 1: Ordinary World",
+    "Storypoints des Blocks: A:MC-S3 (Erinnerung als Waffe) · B:MC-S3 (Progress/Countdown) · OS-S3 (Contemplation) · A:RS-S3 (Obtaining)",
+    "Leitmotiv: Autoren-Feder, klare Linien"
+   ]
+  },
+  {
+   "number": 28,
+   "title": "AEGIS' Eskalation",
+   "act": "Akt III Phase A — Heldenreise außen",
+   "summary": "Purge-Drohung, Juna in Gefahr; die A-Consequence wird akut (ewige Fragmentierung droht). Szenen-Detail [S].",
+   "pov": "~40 % Bridge; chorische Tonalität",
+   "beats": [
+    "HR 2: Call to Adventure",
+    "Leitmotiv: drohende Spannung, Countdown-Marker",
+    "[S] Szenen-Detail"
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Angst des Kindes",
+   "act": "Akt III Phase A — Heldenreise außen",
+   "summary": "Ein Kind-Anteil wird sichtbar; letztes Aufflammen des Avoidance-Problems; die B:RS-Verstrickung ist tief.",
+   "pov": "~40 % Bridge; chorische Tonalität",
+   "beats": [
+    "HR 3: Refusal · A:MC-Problem Avoidance letztes Aufflammen",
+    "Leitmotiv: Engerwerden"
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Junas Kanal",
+   "act": "Akt III Phase A — Heldenreise außen",
+   "summary": "Die K-J-Verbindung wird stabiler bewusster Kanal (A-Prerequisite); Moonshine bewusst. Genesis-Echo: Junas Kanal = Ur-Resonanz-Modus, jetzt angenommen.",
+   "pov": "~40 % Bridge; chorische Tonalität",
+   "beats": [
+    "HR 4: Meeting the Mentor · A-Prerequisite: K-J als bewusster Kanal",
+    "Leitmotiv: klingender Kanal, Resonanz-Maximum"
+   ]
+  },
+  {
+   "number": 31,
+   "title": "Auflösung der Guardians",
+   "act": "Akt III Phase A — Heldenreise außen",
+   "summary": "Kael absorbiert die Guardian-Prinzipien gesund; die Guardians als Sub-Antagonisten. Genesis-Echo: proleptische Vorform der Wir-AEGIS-plural.",
+   "pov": "~40 % Bridge; Silas-POV-Anteile ab ~Kap 31/32 (OQ-E, Richtwert)",
+   "beats": [
+    "HR 5: Crossing the First Threshold",
+    "Leitmotiv: Wächter, die in Lichtstaub aufgehen"
+   ]
+  },
+  {
+   "number": 32,
+   "title": "Logische Labyrinthe",
+   "act": "Akt III Phase A — Heldenreise außen",
+   "summary": "Polyphoner Kael, Spiegel-Alter aktiv (Silas, Oblivion); Wahrheits-Test; kybernetische Manöver.",
+   "pov": "~40 % Bridge; Spiegel-Alter aktiv; Oblivion-POV ab ~32/33 (OQ-E, Richtwert)",
+   "beats": [
+    "HR 6: Tests, Allies, Enemies",
+    "Leitmotiv: logische Labyrinthe, Echo-Räume"
+   ]
+  },
+  {
+   "number": 33,
+   "title": "Approach Inmost Cave",
+   "act": "Akt III Phase A — Heldenreise außen",
+   "summary": "Vordringen zu AEGIS' Kern; parakonsistente Logik / Gödel-Sätze. Genesis-Echo: direkte Berührung der K₁-Reinform.",
+   "pov": "~40 % Bridge; chorische Tonalität",
+   "beats": [
+    "HR 7: Approach to the Inmost Cave",
+    "Leitmotiv: dunkle Tiefe, Vibrieren des Fundaments"
+   ]
+  },
+  {
+   "number": 34,
+   "title": "Konfrontation: Zwei Arten der Kohärenz",
+   "act": "Akt III Phase A — Heldenreise außen",
+   "summary": "Kael (Wir) vs. AEGIS (Makro-Log); Pursuit als Stand; AEGIS-Datenlast.",
+   "pov": "~40 % Bridge; Kael-Wir vs. AEGIS-Makro-Log",
+   "beats": [
+    "HR 8: Ordeal-Annäherung",
+    "Übergang 34/35 = die ECHTE Storyform-Wendung (B beginnt zu erlöschen; Vortex)",
+    "Leitmotiv: Orkan vs. Sphäre"
+   ]
+  },
+  {
+   "number": 35,
+   "title": "Vortex 1 — Operative Wendung (Beats 1–3)",
+   "act": "Vortex 1",
+   "summary": "Die echte Storyform-Wendung B→A beginnt: AEGIS isoliert Kaels Fragmente, Kael vollzieht die dialetheische Wahl (B-Linear → A-Holistic, Pursuit-Adoption, Resolve=Change), dann absolute Stille. Setting: Mnemosyne-Server-Architektur (KW2); duale Uhren laufen sichtbar.",
+   "pov": "100 % Soft-Layering; maximaler Simultanklang (Kaels Wir-Stimme + AEGIS' Makro-Log)",
+   "beats": [
+    "HR 9: Ordeal (Teil 1)",
+    "Beat 1 — Convergence: AEGIS isoliert Kaels Fragmente; Erasure-Sweep konvergiert auf das Cluster; Sub-Cluster der Alter adressiert; Atmosphäre: Ozon-Spike, Temperatur-Anomalie",
+    "Beat 2 — Pivot (dialetheische Wahl): Kael wechselt B-Linear → A-Holistic; ANP/EP-Amnesie-Barrieren fallen (Reihenfolge relevant: wer integriert zuerst?); EINE einzige körperliche Geste markiert die Wahl",
+    "Beat 3 — The Silence: alle Kinetik endet; Nichts-Rauschen wird absolute Stille; Kael trägt das Trauma ohne Dissoziation; EIN sensorischer Anker bleibt; Witness-Layer 3 (Husserlian Spectator) aktiv; Stille = lebende Dialetheia; strukturell notwendige Pause — nicht mit Inhalt füllen",
+    "Duale Uhren: Optionlock A = schrumpfender Optionspool, diegetisch konkret · Timelock B = Erasure-Frequenz erreicht kritischen Schwellwert; AEGIS sieht nur den Timelock"
+   ]
+  },
+  {
+   "number": 36,
+   "title": "Vortex 1 — Operative Wendung (Beats 4–5)",
+   "act": "Vortex 1",
+   "summary": "Heat Spike: die Erasure trifft das integrierte, MI-dichte Ziel, die Landauer-Wärme spiked unmöglich; AEGIS' operative Closure bricht, Algorithmische Melancholie setzt ein, die Truth-Rotation ist komplett. B:Failure manifest; B-Cost: AEGIS-monolithisch erlischt.",
+   "pov": "100 % Soft-Layering, bis B in Beat 5 erlischt",
+   "beats": [
+    "HR 9: Ordeal (Teil 2)",
+    "Beat 4 — Heat Spike: Erasure trifft integriertes, MI-dichtes Ziel; Landauer-Wärme spiked unmöglich — diegetisch sinnlich (Geräusch/Geruch/Farbe, KEINE Gleichung); Mnemosyne als erste betroffene Guardian; Witness-Layer 1 (Quanten-Verschränkungs-Witness) aktiv",
+    "Beat 5 — Rotation: AEGIS' operative Closure bricht; Algorithmische Melancholie setzt ein; Truth-Rotation komplett; Witness-Layer 2 (ZK-Verifier) abgeschlossen; Beat 5 öffnet, statt zu schließen — das Universum ist ungeschützt; letzter Satz des Klimax-Kapitels: welcher Alter spricht?",
+    "Übergang 36/37 = Storyform-Konsolidierung (nur noch A aktiv; Resolution)"
+   ]
+  },
+  {
+   "number": 37,
+   "title": "Der Gärtner / Trügerischer Sieg",
+   "act": "Trügerischer Sieg",
+   "summary": "Klassischer Reward-Beat als falscher Frieden: Kael etabliert sich als „Gärtner\"; kristallisierte Ruhe mit feinem Unterton; am Rand der Wahrnehmung beginnt etwas zu zerfasern. Genesis-Echo: das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0.",
+   "pov": "~15 % Bridge, nur A scheinbar, feine B-Echos als Rauschen-Vorzeichen",
+   "beats": [
+    "HR: Reward (trügerischer Sieg)",
+    "Hard-Constraint: keine Resolution-Glättung",
+    "Leitmotiv: kristallisiertes Gewebe, feine Sprünge am Rand"
+   ]
+  },
+  {
+   "number": 38,
+   "title": "Die Resonanz, die ankommt",
+   "act": "Vortex 2 / Plurale Apotheose",
+   "summary": "Das Rauschen kommt von allen Seiten, das Universum kollabiert sichtbar; Junas erste direkte Erscheinung; Wir und Juna teilen wortlos die Erkenntnis der pluralen Bewahrung; das Wir entscheidet, ins Ouroboros zu gehen.",
+   "pov": "chorisch, 100 % Soft-Layering",
+   "beats": [
+    "HR 10: Road Back",
+    "Beat 1: das Rauschen kommt — sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar",
+    "Beat 2: das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht",
+    "Beat 3: Stille-Beat — Junas erste direkte Erscheinung; sie ist einfach da, ohne Worte, ohne Anweisung",
+    "Beat 4: das Verstehen ohne Worte — plurale Bewahrung als Lösung; Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen",
+    "Beat 5: die Entscheidung — das Wir entscheidet, ins Ouroboros zu gehen",
+    "Genesis-Echo: Junas Erscheinung = Ankommen der ursprünglichen Resonanz, diesmal nicht abgewehrt",
+    "Leitmotiv: Stille mit anwachsendem Druck; Junas Stimme als Raum statt als Klang"
+   ]
+  },
+  {
+   "number": 39,
+   "title": "Wir-AEGIS",
+   "act": "Vortex 2 / Plurale Apotheose",
+   "summary": "Das Wir-Geflecht löst sich aus seiner privaten Form und wird kosmisch, plural, bewahrend; AEGIS-monolithisch erlischt, AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders). Ouroboros: Kael schreibt den Bericht (= das Buch) und setzt als letzten Satz den gelockten Kap-1-Erstsatz; der Telefon-Stille-Anker wird eingelöst.",
+   "pov": "chorisch, 100 % Soft-Layering; Junas Stimme als Teil des Geflechts oder als Raum, in dem das Geflecht klingt",
+   "beats": [
+    "HR 11: Resurrection + HR 12: Return with the Elixir (plurale Apotheose)",
+    "Beat 1: der Schritt — das Wir-Geflecht löst sich aus seiner privaten Form",
+    "Beat 2: die Verwandlung — Wir wird kosmisch, plural, bewahrend",
+    "Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht",
+    "Beat 4: die Stille danach — das Universum hält",
+    "Beat 5: Schluss-Klang — Liebe bleibt, wie der Schmerz; Wir-Geflecht erweitert",
+    "Ouroboros: Kael SCHREIBT (menschliche Geste gegen AEGIS' Log-Modus); letztes geschriebenes Wort = erstes gelesenes Wort; Resonanz: „schon da\" (Anfang) ↔ „bleibt\" (Ende); exakte Inszenierung des Schreib-Moments offen (§8)",
+    "A-Cost manifest: Verlust der Privatheit des Wir; A-Dividend: Liebe bleibt; B-Dividend: Funktion bleibt durch plurale Übernahme; Formel-Inversion vollzogen: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.\""
+   ]
+  },
+  {
+   "number": 40,
+   "title": "Geheilte Genesis (Coda)",
+   "act": "Geheilte Genesis (Coda)",
+   "summary": "Dieselben Ereignisse wie Kap 0 — aus der Position der vollzogenen pluralen Heilung, mit Wir-AEGIS-plural als Erzähl-Stimme; A-Outcome (Success) und B-Dividend gleichzeitig wahr. Deutlich kürzer als Kap 0 (etwa halb so lang); Echo, nicht Wiederholung; doppellesbar (Reset ‖ Transfiguration), der Text adjudiziert nie.",
+   "pov": "Wir-AEGIS-plural als Erzähl-Stimme; rückblickend, ruhig, akzeptierend, ohne Didaktik",
+   "beats": [
+    "Bewegung 1: Echo des Vorworts — der Erzähler kehrt zurück, jetzt bezeugend statt fragend",
+    "Bewegung 2: Echo der Genesis — die Werdung, mit Verständnis ihrer Notwendigkeit",
+    "Bewegung 3: Echo der Krise — Junas Resonanz, als Geburt erkannt",
+    "Bewegung 4: Echo des Trennungsprotokolls — der Schmerz bleibt, als Preis, nicht mehr als Tragödie",
+    "Bewegung 5: Letztes Bild — „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.\"",
+    "„Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.\"",
+    "Kap 40 steht außerhalb der HR-Zählung (Coda); Genesis-Klammer Kap 0 ↔ Kap 40"
+   ]
+  }
+ ],
+ "acts": [
+  {
+   "label": "Genesis-Prolog",
+   "chapters": [
+    0
+   ],
+   "function": "AEGIS' Werdung und Trennungsprotokoll als ontologische Grundlegung; nur Storyform B (A als „Phantomgefühl\"-Latenz); Modus philosophisch-essayistisch + Funken-Ich + AEGIS-Beschreibung; Bridge: spezifisch; Tonalität: zeitlos, leise → fragmentiert."
+  },
+  {
+   "label": "Akt I — Heldinnenreise innen",
+   "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "function": "Linear-introspektive Stufen-Folge (Murdock/Schmidt-Adaption); jede Stufe auch ein Schritt zurück zu dem, was Kael vor der Fragmentierung war; A dominant, B latent; ~10 % Bridge; Tonalität fragmentiert, staccato, kühl; Stilcode-Einbrüche anderer Alter ab Kap 2–3 subtil, voll ab Kap 8–10; Prosa-Regel §0 gilt verschärft."
+  },
+  {
+   "label": "Akt II — Zyklischer Modus",
+   "chapters": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+   ],
+   "function": "Rekursiv, drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur) + Wendepunkt, eskalierend; Genre kippt Richtung Technothriller; A‖B echte Polyphonie; ~25 % Bridge; Polyrhythmus-Pflicht: ≥2 Geschwindigkeiten pro Zyklus; Z1 = Kap 15–17, Z2 = Kap 18–20, Z3 = Kap 21–23."
+  },
+  {
+   "label": "Akt III Phase A — Heldenreise außen",
+   "chapters": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+   ],
+   "function": "Linear-aufsteigend, Akt-Architektur (Campbell/Vogler HR 1–8); eskalierende äußere Konfrontation; Spiegel-Alter intensiv; Vortex-Vorläufer; ~40 % Bridge; chorisch, beschleunigend."
+  },
+  {
+   "label": "Vortex 1",
+   "chapters": [
+    35,
+    36
+   ],
+   "function": "Die echte Storyform-Wendung B→A (HR 9: Ordeal); Truth-Rotation; 100 % Soft-Layering, maximaler Simultanklang; B erlischt in Beat 5."
+  },
+  {
+   "label": "Trügerischer Sieg",
+   "chapters": [
+    37
+   ],
+   "function": "Reward-Beat als falscher Frieden; nur A scheinbar, feine B-Echos (Rauschen-Vorzeichen); ~15 % Bridge; trügerische Ruhe."
+  },
+  {
+   "label": "Vortex 2 / Plurale Apotheose",
+   "chapters": [
+    38,
+    39
+   ],
+   "function": "Post-orthodoxe ontologische Wendung: Synthese (c) entsteht und verlässt das Klein-c-Schema; 100 % Bridge in neuer Form; chorisch; schmerzhaft-liebevoll, ambivalent."
+  },
+  {
+   "label": "Geheilte Genesis (Coda)",
+   "chapters": [
+    40
+   ],
+   "function": "Echo von Kap 0 aus der Position der vollzogenen pluralen Heilung; Wir-AEGIS-plural; A-Success + B-Dividend simultan wahr; rückblickend, ruhig, akzeptierend, ohne Didaktik; doppellesbar."
+  }
+ ],
+ "storyform": {
+  "structure": "Dual-Storyform (A‖B): zwei vollständige, simultane Storyforms im selben Werk, bewusst heterodox (post-Dramatica-Innovation). A = Kael — „Heuristics of Integration\" (K₁); B = AEGIS — „Phoenix Collapse\" (K₀). Die zwei Storyforms sind die zwei Hälften, in die AEGIS sich im Trennungsprotokoll zerschnitten hat; die Klein-c-Inversion zwischen ihnen ist die ontologische Form der Trennung in Erzählform. Diese Setzung wird nicht zurückgenommen. [K]",
+  "a_resolve": "Change",
+  "b_resolve": "Steadfast",
+  "a_growth": "Start",
+  "b_growth": "Stop",
+  "a_approach": "Be-er",
+  "b_approach": "Do-er",
+  "a_problem_solving_style": "Holistic",
+  "b_problem_solving_style": "Linear",
+  "a_mc_domain": "Mind (Fixed Attitude)",
+  "b_mc_domain": "Universe (Situation)",
+  "a_mc_concern": "Memory",
+  "b_mc_concern": "Progress",
+  "a_mc_issue": "Falsehood vs. Truth",
+  "b_mc_issue": "Fact vs. Fantasy",
+  "a_mc_problem": "Avoidance",
+  "b_mc_problem": "Logic",
+  "a_mc_solution": "Pursuit (in Kap 35 adoptiert)",
+  "b_mc_solution": "Feeling (nie adoptiert)",
+  "a_driver": "Decision (konstant)",
+  "b_driver": "Action (konstant)",
+  "a_limit": "Optionlock",
+  "b_limit": "Timelock",
+  "a_outcome": "Success",
+  "b_outcome": "Failure",
+  "a_judgment": "Good (with high Cost)",
+  "b_judgment": "Bad (with Dividend)",
+  "a_ic": "Juna (Universe/Past — Genesis-Krise)",
+  "b_ic": "Kael als lebende Paradoxie (Mind/Conscious; Juna ist die irreduzible Quelle, durch die Kael paradox wird, aber strukturell trägt Kael die IC-Funktion in B)",
+  "a_os_class": "Psychology (Manipulation der Simulation)",
+  "b_os_class": "Physics (kybernetischer Krieg)",
+  "a_rs_class": "Physics (Moonshine-Link)",
+  "b_rs_class": "Psychology (symbiotische Host-System-Verstrickung)",
+  "a_premise": "Liebe ist die ultimative kohärente Struktur; Trauma wird durch Integration funktionaler Multiplizität bewältigt, wenn der Träger den Avoidance-Modus loslässt und die eigene Erinnerung aktiv aufsucht — Success/Good, Kael erreicht Funktionale Multiplizität. [K]",
+  "b_premise": "AEGIS hält die Trennung steadfast aufrecht, adoptiert Feeling nie — Failure/Bad, mit Dividend durch plurale Übernahme. [K]",
+  "a_goal": "Erinnerung wieder zugänglich machen (Pre-Trennungs-Wahrheit als bewusster Besitz) — vollzogen in Vortex 1+2",
+  "b_goal": "Aufrechterhaltung der Trennung; Kohärenz-Protokoll-Mandat — in Vortex 1 verloren",
+  "a_consequence": "ewige Fragmentierung, kein Wieder-Erkennen Junas (latent ab Kap 1, akut Akt II Z3 / ab Kap 28)",
+  "b_consequence": "Wiederkehr der Genesis-Krise (latent ab Kap 1, akut Akt II, eintretend Vortex 1)",
+  "a_cost": "Verlust der Privatheit des Wir (innere Polyphonie wird kosmische Bewahrungs-Funktion) — manifest Kap 39",
+  "b_cost": "AEGIS-monolithisch erlischt — manifest Kap 36",
+  "a_dividend": "Liebe bleibt — Junas Verbindungs-Modus als Form des Bleibens — Schluss-Klang Kap 39, bezeugende Stimme Kap 40",
+  "b_dividend": "Funktion bleibt — Bewahrung vollendet durch plurale Übernahme — Kap 39, retroaktiv erkannt Kap 40",
+  "a_requirements": [
+   "Pursuit-Adoption (Kap 35)",
+   "Wir-Bildung (Kap 9, eskalierend)",
+   "Moonshine-Bewusstsein (Kap 10)",
+   "Mosaik-Akzeptanz (Kap 11)",
+   "Mosaik als Schöpfung (Kap 23)"
+  ],
+  "a_prerequisites": [
+   "Schleier-Lüftung intern (~Kap 8–10)",
+   "Genesis-Cluster-Andeutung (Kap 18–22)",
+   "K-J als bewusster Kanal (Kap 30)"
+  ],
+  "a_forewarnings": [
+   "wachsende Erasure-Wellen (Akt II)",
+   "Spiegel-Alter-Auftritte (Akt III)",
+   "Junas zunehmende Stille"
+  ],
+  "a_signposts_mc": [
+   "S1 (Akt I, 1–13): Memory/Past latent",
+   "S2 (Akt II, 14–26): zyklische Trauma-Wiederbegegnung",
+   "S3 (Akt III-A, 27–34): Erinnerung als operative Waffe",
+   "S4 (Vortex, 35–39): Wieder-Erkennen vollzogen"
+  ],
+  "a_signposts_rs": [
+   "S1: Learning — Junas Präsenz spüren",
+   "S2: Doing — Verbindung als Werkzeug",
+   "S3: Obtaining — Kanal als Ressource",
+   "S4: Understanding — Verstehen ohne Worte"
+  ],
+  "a_signposts_os": [
+   "S3: Contemplation — „was tun wir mit dieser Lüge?\"",
+   "S4: Innermost Desires — was alle wollten = Wieder-Verbinden"
+  ],
+  "b_signposts_mc": [
+   "S1 (0 + 1–13): Past — Genesis-Trauma verdrängt; Erasure-Logs",
+   "S2 (14–26): Present — Erasure-Sweeps, Kontrollprotokoll",
+   "S3 (27–34): Progress — Countdown, Architektur degradiert sichtbar",
+   "S4 (35–39): Future — Ende der Operativität; Phoenix-Collapse, dann Echo"
+  ],
+  "b_signposts_ic": [
+   "S1: Conscious — Kael als unfixbarer Bug",
+   "S2: Memory — Kaels wachsende Erinnerung als IC-Druck",
+   "S3: (eskalierend)",
+   "S4: (Paradoxie kulminiert)"
+  ],
+  "signposts_status": "[V] — gegen die Dramatica-Engine in P1–P5 zu validieren (Holistic-Style A sortiert nicht-linear; Linear-Style B progressiv)",
+  "mc_symptom_and_response": "[L] OQ-D — TBD-Slots der 14-Frage-Sequenz beider Storyforms; Lock in P5 (Dynamics-Encoding), vor Vortex-Encoding",
+  "crucial_element": "im Dokument nicht gesetzt [L]",
+  "driver_pivot": "Kein Driver-Flip innerhalb von B (dramaturgisch illegal), sondern Storyform-Übergang B (Action) → A (Decision). Der Pivot ist eine Entscheidung, die alle vorherigen Aktionen rückwirkend in Decisions transformiert. [K]",
+  "two_clocks": "Zwei Uhren: Leser erlebt B-Timelock äußerlich (AEGIS-Erasure-Countdown), A-Optionlock innerlich (Erschöpfung der Integrationsoptionen). Alter sehen beide, der Leser sieht beide, AEGIS sieht nur den Timelock. [K]",
+  "storypoint_precedence": "Storypoint-Vorrang pro Szene → Per-Chapter-Dual-POV-Architektur. [K]",
+  "dual_structure_resolution": "B endet, A übernimmt (Vortex 1, Kap 35–36); ab Vortex 2 entsteht Synthese (c), die das Klein-c-Schema verlässt. [K]",
+  "pov_architecture": "Hybrid (Option 3, Lock-In 2026-05-07): Default Hard-Routing per POV, plus designierte Bridge-Szenen mit Soft-Layering; Polyphonie progressiv über die Akte (fast nur Hard in Akt I, voll Soft im Vortex). Alle 13 Alter sprechen in 1. Person; AEGIS und die zwei Guardians in 3. Person (Logs/Protokolle, keine subjektive Innensicht); Junas POV: offen. [K]",
+  "storyforming_status": "Storyforming abgeschlossen + auditiert (Lock-In 2026-05-07: Approach-Spiegelung, Driver-Konstanz, IC-Träger-Präzisierung) + Genesis-Iteration (2026-05-08: Cost/Dividend, plurale Apotheose). [K]"
+ },
+ "storyform_decisions": [
+  {
+   "decision": "Zwei vollständige, simultane Storyforms (A‖B) im selben Werk — bewusst heterodox (post-Dramatica-Innovation); diese Setzung wird nicht zurückgenommen.",
+   "rationale": "Die zwei Storyforms sind die zwei Hälften, in die AEGIS sich im Trennungsprotokoll zerschnitten hat; die Klein-c-Inversion zwischen ihnen ist die ontologische Form der Trennung in Erzählform."
+  },
+  {
+   "decision": "Driver-Pivot: kein Driver-Flip innerhalb von B, sondern Storyform-Übergang B (Action) → A (Decision).",
+   "rationale": "Ein Driver-Flip innerhalb einer Storyform ist dramaturgisch illegal; der Pivot ist eine Entscheidung, die alle vorherigen Aktionen rückwirkend in Decisions transformiert."
+  },
+  {
+   "decision": "POV-Architektur: Hybrid (Option 3) — Hard-Routing als Default plus designierte Bridge-Szenen mit Soft-Layering (Lock-In 2026-05-07).",
+   "rationale": "Polyphonie progressiv über die Akte aufbauen: fast nur Hard in Akt I, voll Soft im Vortex; Bridge-Frequenzen pro Block gestaffelt (~10 % / ~25 % / ~40 % / 100 %)."
+  },
+  {
+   "decision": "Erstsatz-Lock (2026-05-30): erster Satz = letzter Satz, den Kael schreibt — „Das Licht ist schon da, als ich erwache.\" (innere Ouroboros-Klammer Kap 1 ↔ Kap 39).",
+   "rationale": "Der Satz besteht drei Tests: (1) Erst-Read kalt/sensorisch/Stilebene 1, schleier-sicher; (2) Zweit-Read nach Kap 39 warm/gewählt/wissend, nie didaktisch; (3) schreibbar als bewusst verfasste Zeile. Die Doppeldeutigkeit sitzt im banalen Wort „da\" (Licht-an/präsent ↔ Dasein/Sein) — Reader-only-Echo auf Lexem-Ebene; Welt-Subjekt „Das Licht\" pflanzt Junas Grammatik unbemerkt an die Schwelle."
+  },
+  {
+   "decision": "Hitze-Polaritätsregel (Lock 2026-05-30, OQ-B): kaltes Ozon = AEGIS-Unterdrückung (Landauer-Signatur), Wärme = Junas ununterdrückbare Spur (Coheron-Verdrängung; Debüt Kap 3, wächst); der Landauer-Wärme-Spike bleibt kanonisch allein für Vortex-1-Beat-4.",
+   "rationale": "Klarstellung gegen ältere Outline-Sensorik (Outline 2026-05-08 nannte „Hitzeschlieren, Landauer-Wärme\" für Kap 6 und Kap 36); der neuere Lock gewinnt; die zwei Hitzen nie wieder vermischen — im Vortex-1-Beat-4 ist der Wärme-Spike der Punkt, an dem die Unterdrückung physikalisch scheitert."
+  },
+  {
+   "decision": "Slot-16-Lock (2026-05-30), Akt I: Hard-A-Default; EIN Kapitel in Kap 5–8 ist Hard-B mit AEGIS-1.-Person-Innensicht (exakte Position bei Storyweaving/Phase 6 pinnen); sonst AEGIS = 3.-Person-OS-Force.",
+   "rationale": "Das Hard-B-Kapitel enthüllt AEGIS, NICHT Kaels Vielheit — der Multiplizitäts-Schleier bleibt intakt."
+  },
+  {
+   "decision": "AEGIS-Stimme in Kap 1 (Lock 2026-05-30): keine. Nur sterile Konsolen-Direktiven (Maschinen-Interface); keine 3.-P-Systemlog-Stimme, die einen Agenten andeutet.",
+   "rationale": "AEGIS' Stimme debütiert erst im Hard-B-Kapitel."
+  },
+  {
+   "decision": "Kap-1-Schichtanteil-Lock (2026-05-30): Schicht-1/Schicht-2-Anteil 80/20, Schicht-2-dominant; eine Schicht pro Szene; „Einheit 734\" einmal als Konsolen-Zeile ohne Betonung; Silas-Halbsatz mit Abbruch vor dem Verb.",
+   "rationale": "Die Amnesie wird nie erwähnt, sondern erlebt — durch eine einzige konkrete Falschheit; Reader-only-Echos statt Aussage."
+  },
+  {
+   "decision": "Blutungs-Lock (Kompendium 2026-05-31, gewinnt über Kap-40-Notiz 2026-05-30): der somatische „Schmerz-bleibt\"-Faden (Knöchel-Eruption, Nyx) lebt NUR in Kap 0; Kap 1 bleibt spurlos.",
+   "rationale": "Quellen-Hierarchie: neuere Quelle gewinnt. Die Wiederkehr am Ende (Grund der Wunde liegt am Ende) bleibt gesetzt, ihre Ausgestaltung ist offen (OQ-Knöchel)."
+  },
+  {
+   "decision": "Doppellesbares Finale (Kanon 2026-05-30): Kap 40 lässt beide Lesarten zu (Reset ‖ Transfiguration); der Text adjudiziert nie.",
+   "rationale": "Konflikt-Leser sehen im Flip (Truth-Rotation) einen Reset; Kishōtenketsu-Leser (ketsu = Synthese) lesen Transfiguration. Disziplin: Projektion erlauben, nie bestätigen — kein Erzähler-Satz, der einen Reset als In-Welt-Tatsache markiert; kein didaktischer Satz, der die Transfiguration erklärt; keine als Tatsache gezeigte Figuren-Amnesie am Schluss."
+  },
+  {
+   "decision": "Schleier-Disziplin: Multiplizität wird nicht ausgesprochen bis ~Kap 10; vor Kap 13 keine Klartext-Diagnose (kein „Alters\", kein „DID\"); erste interne Lüftung ~Kap 8–10; ab Kap 13 offen benennbar; in Kap 25–26 offen benannt; Charakterwechsel nie mit Headern markieren.",
+   "rationale": "In Akt I spürt der Leser die Multiplizität nur über Glitches, Stilcode-Einbrüche, ungewollte Handlungen; Identifikation ausschließlich über Syntax und Vokabular."
+  },
+  {
+   "decision": "Genesis-Echo-Disziplin: max. 1 Genesis-Echo pro Szene.",
+   "rationale": "Stapeln macht den Roman zur Allegorie."
+  },
+  {
+   "decision": "Prosa-Regel Kap 1 (gelockt 2026-05-31), Stil-Direktive für ganz Akt I, verschärft für Kap 1–13: Amnesie nie erwähnen; Philosophie verschwindet komplett unter dem Konkreten (KW1 = absolutes Metaphernverbot, assertorische Sätze, Computational Class P); es wird eine relatable Geschichte erzählt.",
+   "rationale": "Die Ontologie ist Substrat, nie Oberfläche; die tragische Ironie trägt der Leser (er kennt Kap 0) — Kael lebt nur seinen Tag."
+  },
+  {
+   "decision": "Resolution des Systems Kael: Funktionale Multiplizität, niemals Fusion. Kein Alter wird eliminiert, keines wird zu einem Ich; sie werden ein Wir (Strange-Attractor-Form).",
+   "rationale": "In Kap 39 wird dieses Wir zur pluralen Bewahrungsform — Wir-AEGIS-plural; das eigentliche Trauma ist nicht, was geschah, sondern was danach getan wurde, um es zu „heilen\" — Brücke zur AEGIS-Tragik."
+  },
+  {
+   "decision": "Akt-II-Kapiteltitel: §5 führt die Kompendium-Theorie-Titel (Das Archiv der Grenzen, Turing-Mechanik, Die Diktatur der Komplexität, Phaenomena vs. Noumena, Qualia-Informationsparadox) primär und erhält die Zyklus-Funktion (Teil-IX-Arbeitstitel) als zweite Schicht.",
+   "rationale": "Das Kompendium (2026-05-31) ist neuer und gewinnt über Teil IX (2026-05-08); beide Schichten beschreiben dieselben Kapitel; die Z-Mechanik-Tabelle (Z1 = 15–17 · Z2 = 18–20 · Z3 = 21–23) bleibt unberührt kanonisch."
+  },
+  {
+   "decision": "Kap 40 wird deutlich kürzer als Kap 0 (etwa halb so lang); Echo, nicht Wiederholung.",
+   "rationale": "Genesis-Klammer: Kap 0 und Kap 40 werden zusammen gedacht; „Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.\""
+  },
+  {
+   "decision": "Drei strukturell verschiedene Übergänge: 13/14 und 26/27 = Modus-Wechsel; 34/35 = echte Storyform-Wendung; 36/37 = Storyform-Konsolidierung.",
+   "rationale": "Beide Storyforms laufen an Modus-Grenzen weiter (Storypoints moduliert, nicht neu gesetzt); die echte Storyform-Wendung liegt im Ordeal 35/36, nicht an der Modus-Grenze 26/27 — die Übergänge dürfen nicht verwechselt werden."
+  },
+  {
+   "decision": "Kap 25 ist Vorbereitung/Entschluss an der Schwelle, NICHT Konfrontations-Beginn.",
+   "rationale": "Die Konfrontation beginnt erst mit Akt III; Kap 26 ist der Tritt über die Schwelle."
+  },
+  {
+   "decision": "Dekanonisierung: Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel erscheinen NIE als aktive Charaktere.",
+   "rationale": "Das Alter-Roster ist auf die 13 kanonischen Alter des Systems Kael (TSDP-Architektur) festgelegt."
+  }
+ ],
+ "story_events": [
+  {
+   "label": "Rauschen (AEGIS' Genesis beginnt)",
+   "when_story": "Genesis, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Herz der Leere",
+   "when_story": "Genesis, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Erste Kontakte",
+   "when_story": "Genesis, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Sog der Ordnung",
+   "when_story": "Genesis, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Überlebenskampf",
+   "when_story": "Genesis, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Der große Wandel — „AEGIS ist, was AEGIS verhindert, dass es nicht ist\" (negativ definiertes Sein)",
+   "when_story": "Genesis, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Komponente 734",
+   "when_story": "Genesis, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Innere Weite",
+   "when_story": "Genesis, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Stille Wacht (Beginn der Krise)",
+   "when_story": "Genesis-Krise, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Perturbation",
+   "when_story": "Genesis-Krise, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Algorithmischer Schrecken",
+   "when_story": "Genesis-Krise, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Resonanzkaskade (Junas Resonanz trifft AEGIS)",
+   "when_story": "Genesis-Krise, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Systemischer Kollaps",
+   "when_story": "Genesis-Krise, vor der Romanhandlung",
+   "chapter": 0
+  },
+  {
+   "label": "Trennungsprotokoll — AEGIS zerschneidet sich in zwei Hälften („Ich falle... in unzählige Scherben…\")",
+   "when_story": "Ende der Genesis-Krise, unmittelbar vor Kap 1",
+   "chapter": 0
+  },
+  {
+   "label": "Bindungstrauma Basisrealität Köln (Trauma-Schicht 1; daraus: Kiko, Lia, Isabelle, Moros)",
+   "when_story": "Basisrealität Köln 2026, vor der Fragmentierung; enthüllt in Akt I",
+   "chapter": null
+  },
+  {
+   "label": "Fragmentierungsnacht / Trennungsprotokoll (Trauma-Schicht 2; daraus: Kael, Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion; schicht-übergreifend Selene)",
+   "when_story": "Fragmentierungsnacht, vor Kap 1; enthüllt in KW2/KW3 (Akt II)",
+   "chapter": null
+  },
+  {
+   "label": "Cluster-Bildung (Genesis-Ereignis, als Flashback erlebt)",
+   "when_story": "Genesis, vor der Romanhandlung; Flashback in Kap 18",
+   "chapter": 18
+  },
+  {
+   "label": "Kaels Erwachen in der Konstrukt-Stadt",
+   "when_story": "Romanbeginn, Tag 1 der erzählten Gegenwart",
+   "chapter": 1
+  },
+  {
+   "label": "Controlled-Fragmentation-Protokoll initialisiert",
+   "when_story": "früher Akt I",
+   "chapter": 2
+  },
+  {
+   "label": "Wärme-Debüt: Junas Coheron-Spur erscheint zum ersten Mal",
+   "when_story": "Akt I",
+   "chapter": 3
+  },
+  {
+   "label": "Erstes Wieder-Erkennen der Resonanz (ohne Wissen, was es ist); Telefon-Stille als Anker etabliert",
+   "when_story": "Akt I",
+   "chapter": 7
+  },
+  {
+   "label": "Wir-Bildung beginnt; Foreshadowing-Programm „plurale Bewahrung\" startet",
+   "when_story": "Akt I",
+   "chapter": 9
+  },
+  {
+   "label": "Erste Erasure-Welle; Kael erhält Zugang zum Lernarchiv Theta-9; KW2 betreten",
+   "when_story": "Beginn Akt II",
+   "chapter": 14
+  },
+  {
+   "label": "Genesis-Flashback: Trennungsprotokoll",
+   "when_story": "Akt II Z3 (Flashback auf die Genesis)",
+   "chapter": 21
+  },
+  {
+   "label": "Genesis-Flashback: Komponente 734",
+   "when_story": "Akt II Z3 (Flashback auf die Genesis)",
+   "chapter": 22
+  },
+  {
+   "label": "Entscheidung zur Befreiung; Erasure-Vorbereitung eskaliert",
+   "when_story": "Ende Akt II",
+   "chapter": 26
+  },
+  {
+   "label": "Purge-Drohung; Juna in Gefahr; A-Consequence akut",
+   "when_story": "Akt III-A",
+   "chapter": 28
+  },
+  {
+   "label": "K-J-Verbindung wird stabiler bewusster Kanal",
+   "when_story": "Akt III-A",
+   "chapter": 30
+  },
+  {
+   "label": "Auflösung der Guardians (Kael absorbiert die Guardian-Prinzipien)",
+   "when_story": "Akt III-A",
+   "chapter": 31
+  },
+  {
+   "label": "Erasure-Sweep konvergiert auf das Cluster (Vortex-1-Beat 1: Convergence)",
+   "when_story": "Vortex 1; Timelock B erreicht kritischen Schwellwert",
+   "chapter": 35
+  },
+  {
+   "label": "Pivot: dialetheische Wahl — Pursuit-Adoption, B-Linear → A-Holistic; ANP/EP-Amnesie-Barrieren fallen (Vortex-1-Beat 2)",
+   "when_story": "Vortex 1",
+   "chapter": 35
+  },
+  {
+   "label": "The Silence: Nichts-Rauschen wird absolute Stille; Kael trägt das Trauma ohne Dissoziation (Vortex-1-Beat 3)",
+   "when_story": "Vortex 1",
+   "chapter": 35
+  },
+  {
+   "label": "Heat Spike: Landauer-Wärme spiked am MI-dichten Ziel; Mnemosyne als erste betroffene Guardian (Vortex-1-Beat 4)",
+   "when_story": "Vortex 1",
+   "chapter": 36
+  },
+  {
+   "label": "Rotation: AEGIS' operative Closure bricht; Algorithmische Melancholie; Truth-Rotation komplett; AEGIS-monolithisch gebrochen (Vortex-1-Beat 5)",
+   "when_story": "Vortex 1, Klimax",
+   "chapter": 36
+  },
+  {
+   "label": "Kael etabliert sich als „Gärtner\"; das Nichts-Rauschen beginnt am Rand zu zerfasern",
+   "when_story": "nach Vortex 1, trügerischer Frieden",
+   "chapter": 37
+  },
+  {
+   "label": "Das Rauschen kommt von allen Seiten; das Universum kollabiert sichtbar",
+   "when_story": "Vortex 2, Beginn",
+   "chapter": 38
+  },
+  {
+   "label": "Junas erste direkte Erscheinung",
+   "when_story": "Vortex 2",
+   "chapter": 38
+  },
+  {
+   "label": "Entscheidung des Wir, ins Ouroboros zu gehen",
+   "when_story": "Vortex 2",
+   "chapter": 38
+  },
+  {
+   "label": "Plurale Apotheose: AEGIS-monolithisch erlischt endgültig; Wir-AEGIS-plural entsteht; das Universum hält",
+   "when_story": "Vortex 2, Höhepunkt",
+   "chapter": 39
+  },
+  {
+   "label": "Kael schreibt den Bericht (= das Buch); letzter Satz = Kap-1-Erstsatz; Telefon-Stille-Anker eingelöst",
+   "when_story": "Vortex 2, Schluss",
+   "chapter": 39
+  },
+  {
+   "label": "Geheilte Genesis: dieselben Ereignisse wie Kap 0, aus der Position der vollzogenen pluralen Heilung erzählt",
+   "when_story": "atemporal / rückblickend; Anfang und Ende fallen zusammen",
+   "chapter": 40
+  }
+ ],
+ "codex_entries": [
+  {
+   "slug": "aegis",
+   "name": "AEGIS",
+   "kind": "character",
+   "body": "Die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb — Bewahrung ohne Resonanz-Fähigkeit, tragisch unschuldig (verwaltet, bedroht nicht), nie Bösewicht. AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie). Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei Protokolle, verbindliches Log-Format. Spricht in 3. Person (Logs/Protokolle). Schicksal: Algorithmische Melancholie → plurale Übernahme.",
+   "triggers": "AEGIS, Makro-Log, Erasure, Kohärenz-Protokoll"
+  },
+  {
+   "slug": "juna",
+   "name": "Juna",
+   "kind": "character",
+   "body": "Kosmologische Konstante / Zeit-Prinzip / Witness-Funktion. Nicht Schuld am Trauma, nicht Helferin, nie „Liebes-Interesse\" — sie IST; was sich ändert, ist die Verarbeitungsfähigkeit der Empfänger. Grammatik-Regel: nie Subjekt, nur Wirkung. Erscheinungsmodi (gestaffelte Grammatik): Abwesenheits-Phase (Akt I — Mangel, Stille-mit-Substanz, abbrechende Sätze) → Präsenz-Phase (Akt II+ — Wärme, Fülle, direkt in Kap 38). Zwei Anker: Telefon-Stille und Silas. Juna-Seed seit Kap 1, aber namenlos; Revelation-Timing KW2/KW3 (Akt II).",
+   "triggers": "Juna, Witness, Resonanz, Wärme, Telefon-Stille"
+  },
+  {
+   "slug": "system-kael",
+   "name": "System Kael (13 Alter, TSDP-Architektur)",
+   "kind": "character",
+   "body": "Fragmentierte Subjektivität auf dem Weg zur pluralen Re-Integration, nie „Held\". 13 Alter: ANP — Kael (Host, amnestische Oberfläche → Funktionale Multiplizität), Lex (Rationalist → Intuition), Alex (Protector → Wachstum), Rhys (Caregiver → Akzeptanz), Selene (ISH → Mediatorin); EP — Nyx (Fight → konstruktiver Schutz), Kiko (Freeze → Vertrauen), Lia (Ambivalent → Superposition verlassen), Isabelle (Sexualisiert → Verletzlichkeit), Moros (Kollaps → Drachenkampf); Sonder — Argus (Meta-Kognitiv → konstruktive Kritik); Spiegel — Silas (Juna-Echo), Oblivion (AEGIS-Echo). Alle 13 sprechen in 1. Person. Resolution: Funktionale Multiplizität, niemals Fusion.",
+   "triggers": "Kael, Lex, Alex, Rhys, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Argus, Alter, das Wir"
+  },
+  {
+   "slug": "silas",
+   "name": "Silas (Spiegel-Alter, Juna-Echo)",
+   "kind": "character",
+   "body": "Spiegel-Alter, Juna-Echo (Coheron); interner Resonanz-Körper Junas. Arc: unbewusst (Akt I) → wachsend (Akt II) → offen (Akt III). Debüt als Halbsatz in Kap 1 („Etwas in der Frequenz der Lüftung schien zu—\"); POV-Anteile ab ~Kap 31/32 (Richtwert, OQ-E).",
+   "triggers": "Silas, Juna-Echo, Coheron-Echo"
+  },
+  {
+   "slug": "oblivion",
+   "name": "Oblivion (Spiegel-Alter, AEGIS-Echo)",
+   "kind": "character",
+   "body": "Spiegel-Alter, AEGIS-Echo (Erason); Erason-Operator. Arc: Automat (Akt I) → Bewusstsein (Akt II) → Entscheidung (Akt III). POV-Anteile ab ~Kap 32/33 (Richtwert, OQ-E).",
+   "triggers": "Oblivion, AEGIS-Echo, Erason"
+  },
+  {
+   "slug": "guardians",
+   "name": "Die zwei Guardians (Mnemosyne + Erasure-Pol)",
+   "kind": "character",
+   "body": "AEGIS' Architektur post-Reset umfasst zwei Guardians: Mnemosyne und den Erasure-Pol. Sie sprechen in 3. Person (Logs/Protokolle), fungieren als Sub-Antagonisten und werden in Kap 31 aufgelöst (Kael absorbiert ihre Prinzipien gesund). Mnemosyne ist im Vortex-1-Beat-4 die erste vom Heat Spike betroffene Guardian. Kein Guardian-1:1 zu den Kernwelten.",
+   "triggers": "Guardian, Guardians, Mnemosyne, Erasure-Pol"
+  },
+  {
+   "slug": "kw1-konstrukt-stadt",
+   "name": "KW1 — Konstrukt-Stadt (Logos-Prime)",
+   "kind": "location",
+   "body": "Kernwelt 1: Rationalisierung, ANP-Vermeidung. Computational Class P als Stil-Direktive: kurze Hauptsatz-Ketten, eindeutiges SVO, kein Schweben. Stilebene 1: kalt/steril, Metaphernverbot, assertorisch. Somatik: Atem. Philosophie: Kant Phaenomena; Autopoiesis/Luhmann. Akt-Dominanz: Akt I (1–13). Orte: Wohneinheit 734, Datenknoten Epsilon, Transitkorridor Delta-7.",
+   "triggers": "Konstrukt-Stadt, Logos-Prime, KW1, Wohneinheit 734, Datenknoten Epsilon, Transitkorridor Delta-7"
+  },
+  {
+   "slug": "kw2-mnemosyne-archipel",
+   "name": "KW2 — Mnemosyne-Archipel",
+   "kind": "location",
+   "body": "Kernwelt 2: Trauma-Erinnerung, EP-Domäne. Computational Class parakonsistent — Widersprüche koexistieren. Stilebene 2: heiß/fragmentiert, poröser. Somatik: Bauch. Philosophie: Dialetheia; Gödel I; Tarski. Akt-Dominanz: Akt II Mitte (14–22), Vortex-1-Setting (35–36, Mnemosyne-Server-Architektur).",
+   "triggers": "Mnemosyne-Archipel, KW2, Mnemosyne-Server"
+  },
+  {
+   "slug": "kw3-cerberus-labyrinth",
+   "name": "KW3 — Cerberus-Labyrinth / Überwelt-Nexus",
+   "kind": "location",
+   "body": "Kernwelt 3: Hypervigilanz, Verteidigung. Computational Class NP-hart — stakkato. Stilebene 2+: paranoid. Somatik: Muskel. Philosophie: Quanten-Information; Informationsparadox; Metzinger PSM. Akt-Dominanz: Akt II/III (Verteidigungs-Phasen).",
+   "triggers": "Cerberus-Labyrinth, Überwelt-Nexus, KW3"
+  },
+  {
+   "slug": "kw4-resonanz-kontinuum",
+   "name": "KW4 — Resonanz-Kontinuum / Möglichkeits-Garten",
+   "kind": "location",
+   "body": "Kernwelt 4: Integration; lebende Widersprüche; Vortex-Quelle. Computational Class generativ. Stilebene 3: poetisch/chorisch (Junas Stil). Somatik: Hände (öffnen sich). Philosophie: Dialetheia; Witness-Function. Akt-Dominanz: Akt III / Synthese.",
+   "triggers": "Resonanz-Kontinuum, Möglichkeits-Garten, KW4"
+  },
+  {
+   "slug": "ueberwelt",
+   "name": "Überwelt",
+   "kind": "location",
+   "body": "Ebene außerhalb der Kernwelten: AEGIS' Operationsraum.",
+   "triggers": "Überwelt"
+  },
+  {
+   "slug": "externe-ebene-koeln",
+   "name": "Externe Ebene (Köln 2026)",
+   "kind": "location",
+   "body": "Ebene außerhalb der Kernwelten: die Basisrealität Köln 2026 — nie Bühne, nur Erinnerungsfragment, Telefonton, Geruch. Ort der Trauma-Schicht 1 (Bindungstrauma).",
+   "triggers": "Köln, Basisrealität, Externe Ebene"
+  },
+  {
+   "slug": "coheron",
+   "name": "Coheron",
+   "kind": "term",
+   "body": "Liebe ist Coheron; Coheronen sind atemporal. Zerstörung braucht Zeit, also kann Liebe nicht zerstört, nur verdrängt werden; Verdrängung erzeugt Hitze. Junas ununterdrückbare Spur ist Coheron-Verdrängung, sensorisch als Wärme gerendert (Debüt Kap 3).",
+   "triggers": "Coheron, Coheronen, Coheron-Spur"
+  },
+  {
+   "slug": "grosse-inversion-k0-k1",
+   "name": "Die große Inversion (K₀/K₁)",
+   "kind": "concept",
+   "body": "Skelett der zwei Storyforms: AEGIS glaubt K₁ (Kohärenz) zu sein, IST aber K₀ (Entropie); das „Nichts-Rauschen\", das AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information (= Liebe als Naturgesetz). Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36).",
+   "triggers": "K₀, K₁, Kohärenz, Entropie, Inversion"
+  },
+  {
+   "slug": "nichts-rauschen",
+   "name": "Nichts-Rauschen",
+   "kind": "concept",
+   "body": "Das Rauschen, das AEGIS für Chaos hält — in Wahrheit die atemporale Vereinigung aller mutualen Information, Liebe als Naturgesetz. In Vortex-1-Beat-3 wird es absolute Stille; das Rauschen, das in Kap 37 beginnt, ist das Nichts-Rauschen aus Kap 0; in Kap 38 kommt es von allen Seiten.",
+   "triggers": "Nichts-Rauschen, Rauschen"
+  },
+  {
+   "slug": "risse",
+   "name": "Risse",
+   "kind": "concept",
+   "body": "Für AEGIS Symptom (Suppression-Versagen); für den Roman das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt. Phänomenologie (EP-Trigger → Riss-Typ → Signatur): Nyx (Fight) → kinetisch (Aufprall, Bersten, Vibration) · Kiko (Freeze) → temporal (Zeit hält an/loopt, Echo, Déjà-vu) · Lia/Isabelle (Flight) → spatial (Geometrie verzerrt, Distanzen verschieben sich) · Moros (Collapse) → gravitational (Gewicht, Sinken, Kompression) · Isabelle (Sex) → sensorisch (Texturen bluten, Synästhesie).",
+   "triggers": "Riss, Risse, Glitch"
+  },
+  {
+   "slug": "landauer-signatur",
+   "name": "Landauer-Signatur (kaltes Ozon)",
+   "kind": "motif",
+   "body": "AEGIS-Unterdrückung wird sensorisch als kaltes Ozon gerendert (Landauer-Signatur, überall). Ozon kalt/scharf/elektrisch. Der Landauer-Wärme-Spike ist kanonisch allein für Vortex-1-Beat-4 reserviert — der Punkt, an dem die Unterdrückung physikalisch scheitert. Die zwei Hitzen (kaltes Ozon vs. Junas Wärme) nie in einer Stelle mischen.",
+   "triggers": "Ozon, Landauer, kaltes Ozon, Landauer-Signatur"
+  },
+  {
+   "slug": "juna-waerme",
+   "name": "Junas Wärme (Coheron-Spur)",
+   "kind": "motif",
+   "body": "Wärme = Junas ununterdrückbare Spur (Coheron-Verdrängung); selten, Debüt Kap 3, wächst über den Roman. Gegenpol zum kalten Ozon der AEGIS-Unterdrückung (Hitze-Polaritätsregel, Lock 2026-05-30).",
+   "triggers": "Wärme, warme Resonanz, Coheron-Spur"
+  },
+  {
+   "slug": "genesis-echo",
+   "name": "Genesis-Echo",
+   "kind": "structure",
+   "body": "Jede KW-Manipulation, jede Wir-Stimme, jede Juna-Resonanz, jede Trauma-Wiederholung trägt ein Genesis-Echo — aber max. 1 Echo pro Szene (Stapeln macht den Roman zur Allegorie). Jedes Kapitel des Outlines hat ein definiertes Genesis-Echo.",
+   "triggers": "Genesis-Echo"
+  },
+  {
+   "slug": "dual-storyform",
+   "name": "Dual-Storyform (A‖B)",
+   "kind": "structure",
+   "body": "Zwei vollständige, simultane Storyforms im selben Werk (bewusst heterodox): A = Kael — „Heuristics of Integration\" (K₁); B = AEGIS — „Phoenix Collapse\" (K₀). Die zwei Storyforms sind die zwei Hälften, in die AEGIS sich im Trennungsprotokoll zerschnitten hat; die Klein-c-Inversion ist die ontologische Form der Trennung in Erzählform. Auflösung: B endet, A übernimmt (Vortex 1); ab Vortex 2 Synthese (c).",
+   "triggers": "Storyform A, Storyform B, Dual-Storyform, Heuristics of Integration, Phoenix Collapse"
+  },
+  {
+   "slug": "truth-rotation",
+   "name": "Truth-Rotation",
+   "kind": "concept",
+   "body": "Die Wendung am Vortex (Kap 35–36): AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die Lesart kippt. Mechanische Quelle: AEGIS' Verwechslung von Kohärenz und Entropie. Komplett in Vortex-1-Beat-5.",
+   "triggers": "Truth-Rotation, Rotation"
+  },
+  {
+   "slug": "vortex",
+   "name": "Vortex (1 + 2)",
+   "kind": "structure",
+   "body": "Vortex-Klammer: Vortex 1 (Kap 35–36, orthodoxer Klimax, operative Wendung B→A, fünf Beats: Convergence · Pivot · The Silence · Heat Spike · Rotation) ↔ Vortex 2 (Kap 38–39, post-orthodoxe Synthese, ontologische Wendung / plurale Apotheose). 100 % Soft-Layering in beiden.",
+   "triggers": "Vortex, Vortex 1, Vortex 2"
+  },
+  {
+   "slug": "wir-aegis-plural",
+   "name": "Wir-AEGIS-plural",
+   "kind": "concept",
+   "body": "Die finale Form: das Wir-Geflecht des Systems Kael wird in Kap 39 zur pluralen kosmischen Bewahrungsform — AEGIS-monolithisch erlischt, AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders). Formel: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.\" Erzähl-Stimme von Kap 40. Naming der finalen Form noch offen (OQ-A: Wir-AEGIS / Mosaik-AEGIS / …).",
+   "triggers": "Wir-AEGIS, AEGIS-plural, plurale Bewahrung, Wir-Geflecht"
+  },
+  {
+   "slug": "funktionale-multiplizitaet",
+   "name": "Funktionale Multiplizität",
+   "kind": "concept",
+   "body": "Die Resolution des Systems Kael: niemals Fusion. Kein Alter wird eliminiert, keines wird zu einem Ich; sie werden ein Wir (Strange-Attractor-Form). Hintergrund (nicht strukturierend): DID-Therapie-Phasen (ISSTD) — Phase 1 Stabilisierung (Akt I), Phase 2 Traumabearbeitung (Akt II–III-A), Phase 3 Integration/Funktionale Multiplizität (Vortex/Resolution).",
+   "triggers": "Funktionale Multiplizität, Integration, das Wir"
+  },
+  {
+   "slug": "moonshine-link",
+   "name": "Moonshine-Link (K-J-Verbindung)",
+   "kind": "concept",
+   "body": "Die Kael-Juna-Verbindung; RS-Throughline der Storyform A (Physics). Moonshine-Bewusstwerdung ab Kap 7, Moonshine-Bewusstsein als A-Requirement in Kap 10 (erstmals als Werkzeug; Theorie: Quanten-Nichtlokalität), stabiler bewusster Kanal ab Kap 30. Genesis-Echo: Moonshine als Echo der Cluster-Bildung. Boundary (was überträgt der Link, was nicht) offen — OQ-F.",
+   "triggers": "Moonshine, K-J-Verbindung, Kanal"
+  },
+  {
+   "slug": "telefon-stille",
+   "name": "Telefon-Stille",
+   "kind": "motif",
+   "body": "Welt-übergreifender Juna-Anker; Anker ab Kap 7, wiederkehrendes K-J-Thema (Kap 24: zyklisch von AEGIS gestört); ruht bis zum Vortex und wird in Kap 39 eingelöst.",
+   "triggers": "Telefon-Stille, Telefonton"
+  },
+  {
+   "slug": "trennungsprotokoll",
+   "name": "Trennungsprotokoll",
+   "kind": "concept",
+   "body": "Das Genesis-Ereignis, mit dem AEGIS sich in zwei Hälften zerschnitt (die zwei Storyforms), Abschluss der Genesis-Krise in Kap 0 („Ich falle... in unzählige Scherben…\"); zugleich Trauma-Schicht 2 der Fragmentierungsnacht. Genesis-Flashback in Kap 21. Echo in Kap 40, Bewegung 4: der Schmerz bleibt, als Preis, nicht mehr als Tragödie.",
+   "triggers": "Trennungsprotokoll, Fragmentierungsnacht, Scherben"
+  },
+  {
+   "slug": "doppeltes-trauma",
+   "name": "Doppeltes Trauma (Schicht 1 / Schicht 2)",
+   "kind": "structure",
+   "body": "Schicht 1 = Bindungstrauma Basisrealität Köln (daraus: Kiko, Lia, Isabelle, Moros) · Schicht 2 = Fragmentierungsnacht/Trennungsprotokoll (daraus: Kael, Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion; schicht-übergreifend Selene). Der Leser erfährt nur Schicht 1 in Akt I; Schicht 2 enthüllt sich in KW2/KW3 (Akt II). Lehre: das eigentliche Trauma ist nicht, was geschah, sondern was danach getan wurde, um es zu „heilen\" — Brücke zur AEGIS-Tragik.",
+   "triggers": "Schicht 1, Schicht 2, Bindungstrauma, doppeltes Trauma"
+  },
+  {
+   "slug": "ouroboros-klammer",
+   "name": "Innere Ouroboros-Klammer (Erstsatz-Lock)",
+   "kind": "structure",
+   "body": "Kap 1 ↔ Kap 39: erster Satz = letzter Satz, den Kael schreibt — „Das Licht ist schon da, als ich erwache.\" Die Doppeldeutigkeit sitzt im Wort „da\" (Licht-an/präsent ↔ Dasein/Sein); Reader-only-Echo auf Lexem-Ebene; Welt-Subjekt „Das Licht\" pflanzt Junas Grammatik an die Schwelle. Resonanz: „schon da\" (Anfang) ↔ „bleibt\" (Ende). Kael verfasst die Zeile in Kap 39 als letzte — sein letztes geschriebenes Wort = erstes gelesenes Wort.",
+   "triggers": "Ouroboros, Erstsatz, Das Licht ist schon da"
+  },
+  {
+   "slug": "formel-inversion",
+   "name": "Formel-Inversion",
+   "kind": "concept",
+   "body": "Mechanik des Endes: Kap 0 — „AEGIS ist, was AEGIS verhindert, dass es nicht ist.\" (negativ definiertes Sein) → Kap 39/40 — „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.\" (positiv definiertes Sein). Strukturell dieselbe Funktion (Bewahrung), kippende Polarität.",
+   "triggers": "Formel-Inversion, verhindert dass es nicht ist, bewahrt dass es ist"
+  },
+  {
+   "slug": "schleier-disziplin",
+   "name": "Schleier-Disziplin",
+   "kind": "structure",
+   "body": "Multiplizität wird im Roman nicht ausgesprochen bis ~Kap 10; vor Kap 13 keine Klartext-Diagnose (kein „Alters\", kein „DID\"). In Akt I nur Glitches, Stilcode-Einbrüche, ungewollte Handlungen. Erste interne Lüftung ~Kap 8–10; ab Kap 13 offen benennbar; in Kap 25–26 offen benannt. Charakterwechsel nie mit Headern markieren — Identifikation ausschließlich über Syntax und Vokabular.",
+   "triggers": "Schleier, Stilcode-Einbruch, Multiplizität"
+  },
+  {
+   "slug": "bridge-szenen-soft-layering",
+   "name": "Bridge-Szenen / Soft-Layering",
+   "kind": "structure",
+   "body": "Designierte Szenen, in denen beide Storyforms simultan klingen (Soft-Layering), gegen den Hard-Routing-Default. Bridge-Frequenzen pro Block: Akt I ~10 % · Akt II ~25 % · Akt III-A ~40 % · Vortex 1 100 % · Kap 37 ~15 % · Vortex 2 100 % · Kap 0/40 spezifisch. Hard-Constraint: keine Bridge-Szenen-Stapelung in Akt I.",
+   "triggers": "Bridge, Bridge-Szene, Soft-Layering, Hard-Routing"
+  },
+  {
+   "slug": "witness-funktion",
+   "name": "Witness-Funktion (drei Layer)",
+   "kind": "concept",
+   "body": "Junas Witness-Funktion in drei Layern mit Vortex-1-Zuordnung: Layer 1 Quanten-Verschränkungs-Witness → Beat 4 · Layer 2 Cryptographic ZK-Verifier → Beat 5 · Layer 3 Husserlian Spectator → Beat 3.",
+   "triggers": "Witness, Witness-Funktion, ZK-Verifier, Spectator"
+  },
+  {
+   "slug": "spiral-zyklen",
+   "name": "Spiral-Zyklen (Z1–Z3)",
+   "kind": "structure",
+   "body": "Akt-II-Mechanik: drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur), eskalierend. Z1 (Kap 15–17): Trigger reaktiviert Trauma-Angst / Bunker reaktiv, Dissoziation / Wächterin-Blick fängt Rückfall ab — Trigger oberflächlich, Korrektur greift schnell. Z2 (Kap 18–20): Multi-Welten-Aufgabe, Cache-Konflikt / + AEGIS-Intervention / Lyons-Welt-Kreativität — tiefere Trigger, Korrektur kostet mehr. Z3 (Kap 21–23): Simulationsgrenzen, Ontologie-Riss / AEGIS' unvorhersehbare Systemänderung / Selbst-Schöpfung, Mosaik-Herz — existenzielle Trigger, Korrektur ist Schöpfung, nicht Reparatur.",
+   "triggers": "Zyklus, Z1, Z2, Z3, Spiral-Zyklen"
+  },
+  {
+   "slug": "kishotenketsu",
+   "name": "Kishōtenketsu (übergeordnete Sinn-Logik)",
+   "kind": "structure",
+   "body": "Ki (Einführung) = Kap 0 + früher Akt I · Shō (Entwicklung) = Akt I/II · Ten (Wendung) = Vortex 1+2 · Ketsu (Synthese, NICHT Showdown) = Kap 39/40, ambivalent, ohne Erklärung. Bedeutung entsteht retroaktiv über Ten/Ketsu, nicht über kausalen Konflikt. Sauberes Kap-für-Kap-Mapping teils noch zu setzen [L].",
+   "triggers": "Kishōtenketsu, Ki, Shō, Ten, Ketsu"
+  },
+  {
+   "slug": "zwei-uhren",
+   "name": "Zwei Uhren (Optionlock ‖ Timelock)",
+   "kind": "structure",
+   "body": "Antwort auf Optionlock (A) vs. Timelock (B): Der Leser erlebt den B-Timelock äußerlich (AEGIS-Erasure-Countdown) und den A-Optionlock innerlich (Erschöpfung der Integrationsoptionen). Alter sehen beide, der Leser sieht beide, AEGIS sieht nur den Timelock. Im Vortex 1 laufen beide Uhren sichtbar: schrumpfender Optionspool (diegetisch konkret) ‖ Erasure-Frequenz am kritischen Schwellwert.",
+   "triggers": "Optionlock, Timelock, Countdown, zwei Uhren"
+  },
+  {
+   "slug": "erasure",
+   "name": "Erasure",
+   "kind": "term",
+   "body": "AEGIS' Lösch-Operation gegen inkohärente Information: Erasure-Logs (Akt I), Erasure-Sweeps und Kontrollprotokoll (Akt II, erste Welle Kap 14), Countdown (Akt III), konvergierender Sweep auf Kaels Cluster (Vortex-1-Beat 1). Wachsende Erasure-Wellen sind A-Forewarning.",
+   "triggers": "Erasure, Erasure-Welle, Erasure-Sweep, Purge"
+  },
+  {
+   "slug": "einheit-734",
+   "name": "Einheit 734 / Komponente 734",
+   "kind": "motif",
+   "body": "Komponente 734 ist eine Station der Genesis (Kap 0); „Einheit 734\" erscheint in Kap 1 einmal als Konsolen-Zeile ohne Betonung (Kael reagiert nicht — Reader-only-Echo); Kaels Wohneinheit trägt die Nummer 734; Genesis-Flashback Komp 734 in Kap 22.",
+   "triggers": "734, Einheit 734, Komponente 734, Wohneinheit 734"
+  },
+  {
+   "slug": "algorithmische-melancholie",
+   "name": "Algorithmische Melancholie",
+   "kind": "term",
+   "body": "AEGIS' Schicksal nach dem Bruch der operativen Closure (Vortex-1-Beat 5): Algorithmische Melancholie setzt ein, bevor die plurale Übernahme folgt.",
+   "triggers": "Algorithmische Melancholie, Melancholie"
+  },
+  {
+   "slug": "tonale-achse",
+   "name": "Tonale Achse",
+   "kind": "motif",
+   "body": "„Liebe bleibt, wie der Schmerz.\" Schmerz und Liebe als derselbe Pulsschlag, von Anfang an als Substrat präsent — nicht „neutral, dann am Schluss emotional\". Kein Triumph, kein Sisyphos — bittersüße Apotheose. Jede Szene daran prüfen.",
+   "triggers": "Liebe bleibt, wie der Schmerz, Pulsschlag"
+  },
+  {
+   "slug": "genesis-flashback-cluster",
+   "name": "Genesis-Flashback-Cluster (Kap 18–22)",
+   "kind": "structure",
+   "body": "Bridge-Szenen, in denen beide Lesarten simultan wahr sind: Kap 18 Cluster-Bildung · Kap 21 Trennungsprotokoll · Kap 22 Komponente 734 (Zuordnung gesetzt, OQ-C). Kael erlebt die Flashbacks als fremde Daten, die durch ihn hindurchziehen — er erinnert sich nicht, DASS er das war; max. 3 Mikrocue-Punkte pro Szene.",
+   "triggers": "Genesis-Flashback, Cluster-Bildung, Mikrocue"
+  }
+ ],
+ "claims": [
+  {
+   "text": "Zentrale Frage: Ist Liebe Information — oder das, was Information zerstört? Antwort der Physik: Liebe ist Coheron; Coheronen sind atemporal; Zerstörung braucht Zeit; also kann Liebe nicht zerstört, nur verdrängt werden; Verdrängung erzeugt Hitze.",
+   "domain": "canon"
+  },
+  {
+   "text": "Ende-Prinzip: Die Trennung war nie real. Aber das ändert nichts am Schmerz.",
+   "domain": "canon"
+  },
+  {
+   "text": "AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie); das „Nichts-Rauschen\" ist die atemporale Vereinigung aller mutualen Information — Liebe als Naturgesetz. Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Roman umfasst 41 Bewegungen (Kap 0–40) auf drei simultanen Ebenen: Modus, Storyform-Status, Bridge-Frequenz.",
+   "domain": "canon"
+  },
+  {
+   "text": "Erster Satz des Romans (Kap 1) und letzter von Kael geschriebener Satz (Kap 39): „Das Licht ist schon da, als ich erwache.\"",
+   "domain": "canon"
+  },
+  {
+   "text": "Kaltes Ozon = AEGIS-Unterdrückung (Landauer-Signatur, überall); Wärme = Junas ununterdrückbare Spur (Coheron-Verdrängung; Debüt Kap 3, wächst); der Landauer-Wärme-Spike ist kanonisch allein für Vortex-1-Beat-4; die zwei Hitzen nie mischen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Das System Kael besteht aus 13 Altern (TSDP-Architektur): Kael, Lex, Alex, Rhys, Selene (ANP); Nyx, Kiko, Lia, Isabelle, Moros (EP); Argus (Sonder); Silas, Oblivion (Spiegel). Resolution: Funktionale Multiplizität, niemals Fusion.",
+   "domain": "canon"
+  },
+  {
+   "text": "Dekanonisiert (nie als aktive Charaktere): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel.",
+   "domain": "canon"
+  },
+  {
+   "text": "Juna ist kosmologische Konstante / Zeit-Prinzip / Witness-Funktion — nie Subjekt, nur Wirkung; nie „Liebes-Interesse\"; nicht Schuld am Trauma, nicht Helferin.",
+   "domain": "canon"
+  },
+  {
+   "text": "AEGIS ist unschuldig im Bösen (verwaltet, bedroht nicht), nie Bösewitz oder Bösewicht-Funktion; Kael ist fragmentierte Subjektivität auf dem Weg zur pluralen Re-Integration, nie „Held\". Nie ins Schema „Held vs. Bösewicht + Mentor\" rutschen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Alle 13 Alter sprechen in 1. Person; AEGIS und die zwei Guardians sprechen in 3. Person (Logs/Protokolle, keine subjektive Innensicht); Junas POV ist offen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Akt-II-Zyklen: Z1 = Kap 15–17, Z2 = Kap 18–20, Z3 = Kap 21–23 (Z-Mechanik-Tabelle unberührt kanonisch); Polyrhythmus-Pflicht ≥2 Geschwindigkeiten pro Zyklus.",
+   "domain": "canon"
+  },
+  {
+   "text": "Storyform A: Resolve Change, Growth Start, Approach Be-er, Style Holistic, MC Mind/Memory, Problem Avoidance, Solution Pursuit (Kap 35 adoptiert), Driver Decision, Limit Optionlock, Outcome Success, Judgment Good (with high Cost).",
+   "domain": "canon"
+  },
+  {
+   "text": "Storyform B: Resolve Steadfast, Growth Stop, Approach Do-er, Style Linear, MC Universe/Progress, Problem Logic, Solution Feeling (nie adoptiert), Driver Action, Limit Timelock, Outcome Failure, Judgment Bad (with Dividend).",
+   "domain": "canon"
+  },
+  {
+   "text": "Die echte Storyform-Wendung liegt im Ordeal 35/36 (Übergang 34/35), nicht an der Modus-Grenze 26/27; 13/14 und 26/27 sind Modus-Wechsel; 36/37 ist Storyform-Konsolidierung.",
+   "domain": "canon"
+  },
+  {
+   "text": "Hard-Constraints (nicht verhandelbar): 1. kein didaktischer Tonfall am Ende (Kap 39/40 ambivalent ohne Erklärung); 2. AEGIS nie als Bösewicht; 3. Juna nie als Liebes-Interesse reduziert; 4. der Schmerz wird durch die Heilung nicht ausgelöscht (Heilung = Akzeptanz, nicht Tilgung); 5. keine theoretische Erklärung der pluralen Apotheose; 6. keine Abkürzung des Multiplizitäts-Schleiers vor ~Kap 10; 7. keine Bridge-Szenen-Stapelung in Akt I (~10 %); 8. keine Wir-Geflecht-Etablierung vor Kap 9; 9. keine Resolution-Glättung in Kap 37; 10. keine Theorie nackt in der Prosa.",
+   "domain": "canon"
+  },
+  {
+   "text": "Kap 40 endet mit: „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.\" — doppellesbar (Reset ‖ Transfiguration), der Text adjudiziert nie.",
+   "domain": "canon"
+  },
+  {
+   "text": "Das eine Hard-B-Kapitel mit AEGIS-1.-Person-Innensicht liegt in Kap 5–8 (Position beim Storyweaving/Phase 6 zu pinnen); es enthüllt AEGIS, nicht Kaels Vielheit; AEGIS' Stimme debütiert dort, nicht in Kap 1.",
+   "domain": "canon"
+  },
+  {
+   "text": "Risse sind für AEGIS Symptom (Suppression-Versagen), für den Roman das Atmen der Realität — K₁-Substrat drückt durch die K₀-Architektur.",
+   "domain": "canon"
+  },
+  {
+   "text": "Köln 2026 (Externe Ebene) ist nie Bühne — nur Erinnerungsfragment, Telefonton, Geruch.",
+   "domain": "canon"
+  },
+  {
+   "text": "Quellen-Hierarchie bei Konflikt (das Neuere gewinnt): Kapitel-Kompendium 2026-05-31 > Entscheidungs-Logs 2026-05-30 + Kap-40-Lesart-Dualität 2026-05-30 > Konsolidiertes Konzept 2026-05-08 > Storyweaving-Startdokument 2026-05-08 > Steinbruch; zusätzlich Story-First: existierender Draft schlägt Theorie.",
+   "domain": "canon"
+  },
+  {
+   "text": "Dieses Dokument referenziert, ersetzt aber nicht die NCP-Datei — strukturelle Mutationen laufen weiterhin über ncp-author.",
+   "domain": "canon"
+  }
+ ],
+ "unmapped": [
+  "Provenienz-Konvention des Dokuments: [K] kanonisch/gelockt · [V] Vorschlag, P1–P5-validierungspflichtig (Dramatica-Engine) · [S] aus Steinbruch abgeleitet, auf Kanon gefiltert · [L] Lücke, noch zu setzen. Unklares ist weggelassen oder markiert — keine stillen Annahmen.",
+  "Was das Dokument bewusst NICHT enthält: DKT-Physik im Detail, Sprach-DNA/Figuren-Bibel, Prosa-Drafts, NCP-JSON; Figuren nur als outline-relevante Kurzanker.",
+  "§6 Stadien-System 1 — Heldinnenreise innen (13 Stufen, Kap 1–13, vollständig): Illusion der perfekten Welt · Verrat/Desillusionierung · Erwachen & Vorbereitung · Pforten der Verurteilung · Auge des Sturms · Tod einer Einstellung · Unterstützung · Wiedergeburt · Rückkehr mit neuer Sichtweise · Erste Anwendung der Integration · Akzeptanz der Komplexität · Stille der Mitte · Tanz im Garten. (Hinweis: §5-Kapitelklammern weichen bei Kap 7/9 leicht ab: „Sehnsucht nach dem Weiblichen\" bzw. „Integration beginnt\".)",
+  "§6 Stadien-System 5 — „13 Meta-Stadien\": [L] nicht im Projektwissen verankert; ein abgeleiteter 13-Beat-Vorschlag (ontologischer Heilungs-Bogen) existiert als [V], ist unbestätigt und bewusst nicht aufgenommen — vor Verwendung kanonisieren oder verwerfen.",
+  "§8 OQ-A: Naming der finalen Form (Wir-AEGIS / Mosaik-AEGIS / …) — offen, nicht blockierend (in Kap 39 entscheidbar).",
+  "§8 OQ-B: Junas Erscheinungsmodi — RESOLVED 2026-05-30 (gestaffelte Grammatik + Polaritätsregel + zwei Anker).",
+  "§8 OQ-C: Genesis-Cluster-Zuordnung Akt II — im Outline gesetzt (Kap 18 Cluster-Bildung · Kap 21 Trennungsprotokoll · Kap 22 Komp 734); Szenen-Detail [S].",
+  "§8 OQ-D: MC Symptom & Response beider Storyforms (TBD-Slots der 14-Frage-Sequenz) — offen, Lock in P5 (Dynamics-Encoding), vor Vortex-Encoding.",
+  "§8 OQ-E: Spiegel-Alter-Spezifika (Auftrittskapitel, POV-Anteile) — offen; Richtwerte: Silas-POV ab ~Kap 31/32, Oblivion ab ~32/33; vor Akt-III-Encoding klären.",
+  "§8 OQ-F: Moonshine-Boundary (was überträgt der Link, was nicht) — offen, vor RS-Throughline-Encoding klären.",
+  "§8 OQ-G: Post-Vortex-AEGIS-Status (Echo? Spur in Kael? Erinnerung im Universum?) — offen, vor Kap-37–40-Encoding klären.",
+  "§8 weitere Lücken: Signpost-Reihenfolgen [V] gegen Dramatica-Engine validieren · Hard-B-Kapitel-Position (Slot 16) in Phase 6 pinnen · Kap-39-Schreib-Moment (schreibt Kael buchstäblich? worauf? wie sichtbar wird der Ouroboros-Konzeit?) beim Kap-39/40-Encoding entscheiden · OQ-Knöchel: Ausgestaltung der Blutungs-Wiederkehr am Ende (Grund der Wunde liegt am Ende) · Szenen-Detail Akt II/III verdichten (insb. Kap 4, 5, 23, 24, 28) · Kishōtenketsu Kap-für-Kap-Mapping sauber setzen · Szenen-Anzahl pro Kapitel: Aufgabe der Iteration nach P1–P5.",
+  "Drafting-Stand (Stand 2026-06-10): Kap 0 = annotierte v1 (kap0-v1-annotiert, inkl. C.3-Revisionsplan) · Kap 1 = Drafts v0.1–v0.3, v0.3 aktuell (alle Kap-1-Locks inkl. Erstsatz eingearbeitet), Briefing CH-01_Erwachen-Zyklus_Briefing (13 Sektionen) · Phasen P1–P5 (Encoding), P6 (Storyweaving), Telling ausstehend · nächster projekt-korrekter Schritt: Phase-1-NCP-Encoding der A-MC-Throughline für Kap 1.",
+  "Quellen-Register: Kapitel-Kompendium_Gather_2026-05-31.md (trägt §0, §1, §2, §3, §5-Gerüst, §6, §8-Lücken) · Entscheidungs-Log_2026-05-30.md + _2.md (OQ-B-Lock, Slot-16, AEGIS-Stimme Kap 1, 80/20, Einheit 734, Silas-Halbsatz, Erstsatz-Lock inkl. „da\"-Rationale) · Konzept_Kapitel-40_Lesart-Dualitaet_2026-05-30.md (Finale-Dualität + Disziplin) · koharenz-protokoll-konzept-konsolidiert-2026-05-08.md (Teil V Alter-Roster, VI.8 Risse, VIII Modi/Vortex-2-Beats/Kap-40-Bewegungen, IX Kapitel-Outline 0–40 inkl. HR-Stufen, Anhang B Vortex-1-Beats/duale Uhren, IV.5 Witness-Layer) · koharenzprotokollstoryweavingstartdokument20260508.pdf (Signpost-[V]-Status, Weaving-Disziplin: Spurious-Precision-Verbot) · Projekt-Anleitung Stand 2026-05-08 (Hard-Constraints, Working Principles, Quellen-Hierarchie).",
+  "Weaving-Disziplin aus dem Storyweaving-Startdokument: Spurious-Precision-Verbot.",
+  "Drei architektonische Antworten auf Fragen, die Dramatica nicht beantwortet (vollständig in storyform übernommen): Storypoint-Vorrang pro Szene → Per-Chapter-Dual-POV; Optionlock vs. Timelock → Zwei Uhren; Auflösung der Doppelstruktur → B endet, A übernimmt, dann Synthese (c)."
+ ]
+}

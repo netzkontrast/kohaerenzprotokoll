@@ -1,0 +1,604 @@
+{
+ "source": "Canon/kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md",
+ "characters": [
+  {
+   "slug": "kael",
+   "name": "Kael (Host)",
+   "role": "ANP-Host — Alltagsbewusstsein, soziale Fassade; Komponente 734, Archivar Klasse II",
+   "body": "[K] ANP-Host. Trägt das Alltagsbewusstsein, geht zur Arbeit, hält die soziale Fassade aufrecht. Innerhalb der Simulation: Komponente 734, Archivar Klasse II, Wohneinheit 14/Sektor 7/Wohneinheit 734-K. Die Zahl 734 ist somatisch verankert und taucht in Foreshadowing-Stellen wieder auf (Kap 2, 10, 25), ohne dass Kael ihre Bedeutung kennt. Schicht 2 (Fragmentierungsnacht / Trennungsprotokoll). Kernmotivation: Aufrechterhaltung der K₁-Dominanz durch „Going on with Normal Life\" — Arbeit, Routinen, automatische Atemzählung. Kernphobien: EP-Phobie generell — Kael flieht vor allen EPs (Nyx, Kiko, Lia, Isabelle, Moros) und ihrer ungelöschten Trauma-Wahrheit; die einzelnen EP-Trigger variieren je nach Schicht-1- oder Schicht-2-Material. DKT-Korrelat: Hubble-Volumen / Big Rip — Kael trägt den Beobachtungshorizont des Systems; alles, was er nicht sieht, ist ontologisch außerhalb seiner Welt; wenn er bricht, ist sein Riss Big-Rip-artig: alles entfernt sich voneinander, das Beobachtungsfeld zerreißt. Riss-Typ: Horizont-Erosion; Sub-Symptom Zeitverlust + Zittern. Somatik: Amnesie, Zeitverlust, „verlorene Sekunden\", plötzliches Stehen-Bleiben an Korridoren ohne Grund, Knöchel, die manchmal bluten (er weiß nicht, warum — Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen), Zähl-Manie als somatischer Tic. Beziehungsmuster: Sonderfall — EP-Phobie generell, nicht spezifisch; ↔ Alex: Alex setzt Kael durch, manchmal gegen Kaels Willen; ↔ Silas: Silas ist die Stimme, die Kael am leisesten hört; ↔ Oblivion: Kael spürt Oblivion nie direkt — nur die Lücken, die Oblivion hinterlässt. Arc: Fraktalität / Funktionale Multiplizität. Vermeidet die anderen Anteile in Akt I; lernt sie in Akt II zu spüren, in Akt III zu hören. Resolve = Change (adoptiert Pursuit am Klimax Kap 35). Be-er-Modus: löst nicht durch externe Handlung, sondern durch internen Zustandswechsel. Konsistenz-Anker [K]: Kael darf in Akt I nicht wissen, dass er ein System ist — Multiplizitäts-Schleier hält bis Kap 13; Begriffe Alter, Fragment, ANP, EP, TSDP fallen nicht in Akt I. Kael ist nicht Held im klassischen Sinne — sein Sieg ist intern, nicht extern. Kael darf Juna spüren, ohne sie zu erkennen; spätestens ab Kap 1: Phantom-Resonanz, ein Wort ohne Referent. Endzustand: Funktionale Multiplizität, niemals Final Fusion; kein Alter wird eliminiert.",
+   "voice_signature": "POV 1. Person, Präsens dominiert (Lock). Syntax nüchtern, beobachtend, kurz-deklarativ; Mosaik-Stream mit Mikro-Stockungen. Vokabular: Kacheln, Grad, Atemsekunden, Standardabweichung, Korridor, Protokoll, Sektor, „Standardprotokoll\", „Sensor-Rekalibrierung\". Signature 1 — Zähl-Manie als Tic: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad. Der Atem geht in vier Sekunden hinein, in sechs hinaus. Der Korridor ist leer. Ich bin pünktlich.\" Signature 2 — Lücken statt Erinnerung (als Funktion gelesen, nicht als Mangel). Signature 3 — Nie eigenes Empfinden direkt; Welt um sich, Empfinden zwischen den Zeilen. Signature 4 — Zeitverlust-Sprünge als Absatz-Cuts ohne Ankündigung. Signature 5 — Knapper Selbstbefehl im AEGIS-Register: „Sensor-Rekalibrierung. Standardprotokoll.\" Tabu in Akt I: kein Lex-hypotaktischer Modus, auch nicht als Stil-Variation (Schleier-Disziplin).",
+   "triggers": "Kael, Komponente 734, 734, Archivar Klasse II, Host",
+   "world_links": [],
+   "known_facts_at_start": [
+    "Kael weiß in Akt I nicht, dass er ein System ist (Multiplizitäts-Schleier bis Kap 13).",
+    "Kael kennt die Bedeutung der Zahl 734 nicht, obwohl sie somatisch verankert ist.",
+    "Kael weiß nicht, warum seine Knöchel manchmal bluten.",
+    "Kael spürt Juna als Phantom-Resonanz — ein Wort ohne Referent — ohne sie zu erkennen (spätestens ab Kap 1).",
+    "Kael spürt Oblivion nie direkt, nur die Lücken, die Oblivion hinterlässt.",
+    "Kael kennt seine Routinen: Arbeit als Archivar Klasse II, automatische Atemzählung, Zähl-Manie."
+   ]
+  },
+  {
+   "slug": "lex",
+   "name": "Lex (Rationalist)",
+   "role": "ANP — Logik, Analyse, Intellektualisierung; direktes Produkt des Trennungsprotokolls",
+   "body": "[K] ANP. Logik, Analyse, Intellektualisierung. Direktes Produkt des Trennungsprotokolls — AEGIS' Versuch, Trauma durch fehlerfreie Logik zu eliminieren. Schicht 2. Kernmotivation: Logische Ordnung, Vorhersagbarkeit. Kernphobien: Chaos, Emotionen, Irrationalität; Phobie vor EPs (besonders Kiko, Nyx); Phobie vor Kontrollverlust. DKT-Korrelat: Gödel + Halteproblem — Lex ist die innere Inkarnation der formalen Unentscheidbarkeit. Riss-Typ: Endlosschleifen, fraktale Selbst-Widerlegung; wenn Lex bricht, läuft sein Algorithmus in Rekursionen, die nicht terminieren. Somatik: Hypoventilation, taktile Taubheit, Bradykardie, Kälte; bei Stress: Hände werden eiskalt, Atmung wird oberflächlich, Lippen trocken. Beziehungsmuster: ↔ Nyx: maximaler Konflikt — Lex sieht Nyx als gefährlich-irrational, Nyx verachtet Lex' Distanz; ↔ Kiko: phobische Vermeidung — Kiko fürchtet Lex' Kritik wie eine Klinge, Lex meidet Kiko, weil sie keine Logik anbietet; ↔ Lia: Logik vs. Ambivalenz — Lex kann Lias gespaltene Sätze nicht parsen; ↔ Rhys: permanente ANP-ANP-Reibung (Logik vs. Empathie), Allianz möglich, wenn EPs zu kontrollieren sind; ↔ Alex: Reibung über Risiko-Einschätzung — Lex rationalisiert, Alex handelt; ↔ Argus: scheinbarer Verbündeter (beide rational), aber Argus durchschaut Lex' Vermeidungsstruktur; ↔ AEGIS: schätzt die Ordnung, durchschaut aber AEGIS' Manipulationen rational und frustriert sich daran; ↔ Juna: klassifiziert sie als Datenanomalie, versucht sie zu rationalisieren — scheitert. Arc: Logik-Festung → Intuition; Lex muss erkennen, dass das Halteproblem ihn betrifft: nicht jede Frage ist entscheidbar. Konsistenz-Anker [K]: Lex flucht nie. Lex weint nie. Lex argumentiert auch dann mit Syllogismen, wenn das System brennt. Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+   "voice_signature": "Syntax hypotaktisch, verschachtelt, kontrolliert; lange Subordinatsätze mit Bedingungslogik. Vokabular präzise, mathematisch; Qualifikatoren („prinzipiell\", „unter der Annahme von\", „im Rahmen des Möglichen\", „sofern\", „nicht prinzipiell ausgeschlossen\"); kausale Konjunktionen (sofern, weil, demzufolge, unter Voraussetzung). Energie: Fußnoten-Energie, Bedingungsgefüge. Beispiel: „Wenn man die wachsende Frequenz einer destabilisierenden Welle korrekt antizipieren kann — und das ist, sofern die letzten sechs Pulszyklen valide Datenpunkte liefern, nicht prinzipiell ausgeschlossen — dann ergibt sich die Möglichkeit, Halten vorzubereiten, bevor der Schlag erfolgt.\" Flucht nie, weint nie; Syllogismen auch unter Maximaldruck.",
+   "triggers": "Lex, Rationalist",
+   "world_links": [],
+   "known_facts_at_start": [
+    "Lex durchschaut AEGIS' Manipulationen rational und frustriert sich daran.",
+    "Lex klassifiziert Juna als Datenanomalie und scheitert an ihrer Rationalisierung."
+   ]
+  },
+  {
+   "slug": "alex",
+   "name": "Alex (Protektor)",
+   "role": "ANP — Hypervigilanz, physischer Schutz",
+   "body": "[K] ANP. Hypervigilanz, physischer Schutz. Entstand in der Sekunde der Fragmentierung — seine Wut richtet sich gegen jeden Übergriff. (Konzept-Konflikt-Hinweis: in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein — offen, siehe §11.) Schicht 2. Kernmotivation: Schutz der Verletzlichen (besonders Kiko, Lia). Kernphobien: Hilflosigkeit, Stillstand, das Versagen am Schutz; plus Phobie vor seiner eigenen Härte gegenüber den anderen ANPs. DKT-Korrelat: Asymptotische Freiheit (Starke Kernkraft) — nahe = bindend, weit = zerreißend. Riss-Typ: militärisch-räumlich, Bunker-Topologie; wenn Alex flutet, wird die Welt zur Gefahrenkarte. Somatik: Hypertonus, Bruxismus, ständige Abwehrbereitschaft, „Brace for Impact\", Schultern eingezogen, Kiefer fest, Schlaflosigkeit. Beziehungsmuster: ↔ Kiko, Lia: loyale Beschützer-Funktion, tendiert zur Über-Kontrolle; ↔ Lex: Reibung über Risiko-Einschätzung; ↔ Nyx: kollegial-konfliktuös — beide Verteidiger, Alex extern, Nyx intern; ↔ Kael (Host): Alex setzt Kael durch, manchmal gegen Kaels Willen; ↔ AEGIS: feindlich-pragmatisch (Bedrohung lokalisieren). Arc: Starre Kontrolle → Wachstum zulassen; Alex muss lernen, dass Schutz manchmal heißt, nicht zu schützen. Konsistenz-Anker [K]: Alex spricht nie über Gefühle in der ersten Person. Wenn er sich um jemanden sorgt, sagt er „Kopf runter\" oder „Bleib hinter mir\". Niemals „Ich liebe dich.\"",
+   "voice_signature": "Syntax direkt, imperativ, „tactical\": Befehle, Verb-Erststellung, kurze Sätze. Vokabular: räumliche Awareness (Sektor, Position, Linie, Deckung), Bedrohungs-Assessment (exponiert, gesichert, hostile, klar). Energie: Befehlsform mit implizitem „ihr\"-Adressat. Beispiele: „Sieh hin.\" „Geh weg.\" „Jetzt nicht.\" „Position halten. Drei Triaden links sind exponiert. Schlag erwartet aus zwei-acht-null. Geht zurück.\" Spricht nie über Gefühle in der ersten Person.",
+   "triggers": "Alex, Protektor",
+   "world_links": [],
+   "known_facts_at_start": []
+  },
+  {
+   "slug": "rhys",
+   "name": "Rhys (Caregiver)",
+   "role": "ANP — Bindung, Fürsorge, soziale Harmonie",
+   "body": "[K] ANP. Bindung, Fürsorge, soziale Harmonie. Versucht verzweifelt, die von AEGIS zerschnittenen Verbindungen zusammenzuhalten. Schicht 2. Kernmotivation: Verbindung, Harmonie, Linderung des Schmerzes anderer. Kernphobien: Konflikt, Dysregulation, Schmerz, Isolation, Ablehnung; Phobie davor, eigene Bedürfnisse zu äußern, wenn dies die Harmonie stört. DKT-Korrelat: Maxwellscher Dämon / Wärmesenke — Rhys versucht, Information zu sortieren ohne Energiekosten, und scheitert thermodynamisch. Riss-Typ: Wärme-Akkumulation, fiebrige Hände; wenn Rhys flutet, beginnt der Text zu schwitzen. Somatik: Schwitzen, fiebrige Hände, Brustschwere, Erschöpfung; Atmung wird flach, wenn er um andere kämpft; bei Stress Tinnitus, Geräuschempfindlichkeit. Beziehungsmuster: ↔ Kiko: Trostquelle (ambivalent — wenn Rhys überfordert ist, klammert Kiko stärker); ↔ Lia: Sehnsucht und Misstrauen (von Lias Seite); ↔ Nyx: maximaler Konflikt — Furcht und Faszination, Rhys' Empathie wird von Nyx als Schwäche gelesen; ↔ Isabelle: maximaler Konflikt um authentische Bindung; ↔ Moros: Rhys versucht, Moros zu „retten\" — und scheitert (zentrale Szene Akt II); ↔ Lex: permanente Reibung — Rhys empfindet Lex' Kälte als verletzend; ↔ Selene: Allianz — Selene ist Rhys' einziger gleichberechtigter Gesprächspartner; ↔ AEGIS: leidet unter der Atmosphäre der Kontrolle. Arc (Hybrid, dreiaktig kritisch): Anker in Akt I → Kudzu-Eskalation in Akt II → Akzeptanz in Akt III. Rhys ist zunächst der einzige unproblematisch gute Anteil; in Akt II wird seine Fürsorge erstickend — er bindet sich so fest an die EPs, dass er deren Heilung blockiert; starker Konflikt mit Selene. Akt III: Rhys lernt, dass Loslassen die höchste Form der Fürsorge ist. Konsistenz-Anker [K]: Rhys' Stimme bleibt warm auch unter Druck. Wenn er hart wird, ist das ein Alarmsignal. Rhys verwechselt oft eigenes Bedürfnis mit dem der anderen — er bemerkt das selten.",
+   "voice_signature": "Syntax warm, vorsichtig. Vokabular: weiche Eröffnungen („Wenn du möchtest...\", „Vielleicht...\"), Diminutive, sanfte Negationen, körperbewusste Wahrnehmung. Pronomen-Signatur: „Wir\" vor „Ich\". Energie: Fragen als Fürsorge. Beispiele: „Wenn du möchtest...\" „Vielleicht wäre es...\" „Wir könnten...\" „Geht es dir...?\" Stimme bleibt warm auch unter Druck; Härte ist Alarmsignal.",
+   "triggers": "Rhys, Caregiver",
+   "world_links": [],
+   "known_facts_at_start": []
+  },
+  {
+   "slug": "selene",
+   "name": "Selene (Integrator / ISH)",
+   "role": "ANP / Internal Self-Helper — Vermittlung, Systemübersicht",
+   "body": "[K] ANP / Internal Self-Helper. Vermittlung, Systemübersicht. Einzige Alter, die den Bauplan der Zeit vor beiden Trauma-Schichten trägt (schicht-übergreifend). Kernmotivation: Systemstabilität, schließlich kooperatives Verhältnis aller Anteile — nicht durch Dominanz, durch Vermittlung. Kernphobien: Destabilisierung des Gesamtsystems; plus Furcht, ihre Mediator-Rolle könnte zur Blockade werden (Hybrid-Arc). DKT-Korrelat: Wormholes + Entanglement Islands — Quantensprünge zwischen unverbundenen Stellen. Riss-Typ: rettende Sprünge, Erscheinen-an-anderem-Ort. Somatik: Hände entspannen sich, ruhiger Atem, weite Brustöffnung; sie sitzt selten ganz still — es ist ein bewusstes Stillen, nicht Erstarrung. Beziehungsmuster: ↔ alle: Puffer zwischen verfeindeten Anteilen; ↔ AEGIS: Selene ist die größte Bedrohung für AEGIS — ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur; ↔ EPs (Nyx, Kiko, Lia): wird oft als Bedrohung wahrgenommen, weil Integration potenziell den Verlust ihrer Identität bedeutet; ↔ Rhys: Allianz (eskaliert in Akt II zum Konflikt Fürsorge vs. Loslassen — zentraler ANP-ANP-Konflikt des Buchs); ↔ Moros: Selene ist die einzige Alter, die Moros' Anwesenheit aushält, ohne zu kämpfen; ↔ Juna: natürlicher Resonanzraum. Arc: Starre Wächterin → Architektin innerer Harmonie. Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist. Konsistenz-Anker [K]: Selene drängt nie. Wenn sie auftaucht, ist es spät. Sie ist nicht Lösung — sie ist Anwesenheit. Selene ist auch nicht Juna, obwohl beide einen ruhigen, präsenten Ton haben: Selene ist im System, Juna ist außerhalb.",
+   "voice_signature": "Syntax maß-voll, integrativ. Vokabular: Meta-Beobachtungen, sanftes Reframing, Muster-Sprache. Pausen als Element — lange Pausen sind Teil ihrer Stimme. Stilebene-3-Anflug: als einzige ANP trägt Selene bereits eine Vorahnung des Akt-III-Tons (Junas Stilebene 3) in ihrer Stimme.",
+   "triggers": "Selene, Integrator, ISH, Internal Self-Helper",
+   "world_links": [
+    {
+     "target": "moeglichkeits-garten",
+     "edge": "INHABITS"
+    }
+   ],
+   "known_facts_at_start": [
+    "Selene trägt als einzige Alter den Bauplan der Zeit vor beiden Trauma-Schichten."
+   ]
+  },
+  {
+   "slug": "nyx",
+   "name": "Nyx (Fight)",
+   "role": "EP/Fight — kinetische Gegenreaktion, Aggression, Verteidigung (Schicht 2)",
+   "body": "[K] EP/Fight, Schicht 2. Kinetische Gegenreaktion, Aggression, Verteidigung. Trägt die nicht-prozessierte Wut. Wo Kiko in Schicht 1 erstarrte, brennt Nyx in Schicht 2 alles nieder. Kernmotivation: Schutz der Verletzlichen durch Angriff; niemals wieder Opfer. Kernphobien: Hilflosigkeit, Verletzlichkeit, Unterwerfung; Phobie vor eigener Aggression als unkontrollierbar; Phobie vor Schwäche unter der Wut. DKT-Korrelat: CPT-Verletzung — Symmetriebruch zwischen Materie und Antimaterie als Ursache der Existenz; bei Nyx: Wut als notwendige Asymmetrie. Riss-Typ: kinetisch — Geschwindigkeit, Stoß, Beschleunigung, Splitter, Vibration. Somatik: Adrenalin-Hochzustand, Tunnelblick, geballte Fäuste, hoher Muskeltonus, beschleunigte Atmung, Hitze im Brustkorb (diese Hitze ist innere Aktivierung, nicht Junas Coheron-Spur — Polaritäts-Disziplin beachten). Beziehungsmuster: ↔ Kiko, Lia: schützt sie und verachtet sie zugleich; ↔ Lex: direkter Antagonismus — Lex' Logik provoziert Nyx, Nyx' Wut destabilisiert Lex; ↔ Rhys: Verachtung — sieht Rhys' Harmoniestreben als Naivität; ↔ AEGIS: maximaler Hass — AEGIS' Kontrolle triggert ihre Phobie vor Unterwerfung permanent; ↔ Juna: komplex — Junas Sanftheit triggert sie, aber Junas Wirklichkeit beruhigt sie auch. Arc: Destruktive Wut → konstruktiver Schutz; Nyx muss lernen, dass Schutz nicht immer Angriff bedeutet. Konsistenz-Anker [K]: Nyx ist nicht „weiblich-wütend\" als Klischee. Sie ist funktional wütend — Wut als Werkzeug, nicht als Identität. Wenn sie ruhig wird, ist das nicht Heilung — es ist Erschöpfung oder ein anderer Anteil ist vorne.",
+   "voice_signature": "Syntax: Stakkato, Satzfragmente, roh, keine Konnektoren. Vokabular: viszerale Bilder, Gewalt als nüchterne Tatsache, Imperativ, Verb-Erststellung. Beispiele: „Lauf.\" „Schlag zu.\" „Nicht.\" „Welle. Schlag. Riss links. Triade Sieben. Weg. Nicht stehenbleiben.\"",
+   "triggers": "Nyx, Fight",
+   "world_links": [],
+   "known_facts_at_start": []
+  },
+  {
+   "slug": "kiko",
+   "name": "Kiko (Freeze / Kind)",
+   "role": "EP/Freeze — Erstarrung, Sich-klein-machen, Sprachlosigkeit; Trägerin des Terrors der frühen Vernachlässigung (Schicht 1)",
+   "body": "[K] EP/Freeze, Schicht 1. Erstarrung, Sich-klein-machen, Sprachlosigkeit. Trägt den reinen Terror der frühen Vernachlässigung; eisige Kälte der Isolation. In Akt I als Hintergrund-Druck aktiv, wird in KW2/KW3 (Akt II) erst voll lesbar. Kernmotivation: Sicherheit; das Aufhören der Bedrohung. Kernphobien: Verlassenwerden, Alleinsein, Trauma-Auslöser, Ablehnung und Kritik (besonders durch ANPs), Intensität eigener Emotionen, Strafe oder negative Konsequenzen bei emotionalem Ausdruck. DKT-Korrelat: Planck-Skala — wo der Raumbegriff zerfällt, wo Geometrie sich auflöst. Riss-Typ: Temporal-Stutter — Zeit stockt, Echo, Déjà-vu, Sekunden, die kleiner sind als ihre Definition; zweite Funktion: Flight (mit Lia geteilt) — spatial. Somatik: Sich klein machen, zu Boden gehen, Sprachlosigkeit, Weinen ohne Geräusch, flacher Atem, kalte Haut, zitternde Kinnlade, Daumen in der Hand verstecken. Beziehungsmuster: ↔ Rhys: Trostquelle (ambivalent — wenn Rhys überfordert ist, klammert Kiko stärker); ↔ Lex: erlebt ihn als abweisend, verletzend; ↔ Alex: sucht Schutz, fürchtet aber seine Härte; ↔ Nyx: ambivalent — Beschützerin und potenzielle Aggressorin in einem; ↔ Lia: Nähe-Geschwister, aber Lia destabilisiert oft Kikos vorsichtige Sicherheit; ↔ Isabelle: maximaler Verrats-Trigger; ↔ AEGIS: Bedrohung, kalt, strafend — Kiko ist Hauptziel von AEGIS' Erasure-Versuchen. Arc: Gefrorener Samen → Keimen von Vertrauen. Konsistenz-Anker [K]: Kiko ist nicht „niedlich\". Kiko ist traumatisiert. Ihre Sätze sind nicht süß — sie sind verstümmelt durch Angst. Wenn ihre Sprache komplexer wird, ist das ein anderer Anteil oder ein Heilungs-Marker.",
+   "voice_signature": "Syntax kindlich, einfache Wörter, kurze Sätze. Vokabular: Wiederholung, sensorischer Fokus, Präsens-Angst. Energie: Ellipsen, Lückentexte. Beispiele: „Es ist kalt.\" „Ich will nicht.\" „Wo ist...\" Sätze durch Angst verstümmelt, nie süß; komplexere Sprache = anderer Anteil oder Heilungs-Marker.",
+   "triggers": "Kiko, Freeze",
+   "world_links": [],
+   "known_facts_at_start": []
+  },
+  {
+   "slug": "lia",
+   "name": "Lia (Ambivalent / Kind)",
+   "role": "EP/Flight + Bindungsambivalenz — Trägerin des Paradoxons „Komm her / Geh weg\" (Schicht 1)",
+   "body": "[K] EP/Flight + Bindungsambivalenz, Schicht 1. Trägt das unlösbare Paradoxon: „Komm her / Geh weg.\" Sehnsucht nach Bindung, die gleichzeitig verbrennt. In Akt I als Hintergrund-Druck aktiv, wird in KW2/KW3 (Akt II) erst voll lesbar. Kernmotivation: Nähe — gleichzeitig gefürchtet. Kernphobien: Verrat, emotionale Überflutung, Bindung-die-verbrennt, Verlust dessen, woran sie sich bindet. DKT-Korrelat: Quantensuperposition — sie ist gleichzeitig hier und dort, bis Beobachtung erfolgt — und die Beobachtung selbst verletzt sie. Riss-Typ: Relational-Drift — Beziehungen verschieben sich, ohne dass jemand sich bewegt; teilt zudem den Flight-Modus (spatial) mit Kiko. Somatik: sprunghafter Puls, Ruhelosigkeit, motorisch unberechenbar, greift nach Hand und zieht sie zurück, wechselt Position alle paar Sekunden; bei Erschöpfung völlige Reglosigkeit als Erleichterung (Somatik-Feld als Vorschlag im Profil, nicht verbindlich gesetzt — siehe §11). Beziehungsmuster: ↔ Rhys: Sehnsucht und Misstrauen; ↔ Kiko: Nähe-Geschwister, aber Lia destabilisiert oft Kikos vorsichtige Sicherheit; ↔ Isabelle: maximaler Angst-Trigger — Isabelle erinnert Lia an Verrat; ↔ Nyx: Schutz-Ambivalenz — Lia braucht Nyx, fürchtet sie aber auch. Arc: Ewige Superposition → Sicherheit finden; Lia muss lernen, dass eine Position einnehmen nicht Verrat ist. Konsistenz-Anker [K]: Lia ist nicht „launisch\". Sie ist gespalten. Jeder Versuch, ihre Stimme glatt zu schreiben, falsifiziert sie. Ihre Sätze müssen brechen, damit sie ehrlich sind.",
+   "voice_signature": "Syntax ambivalent: beginnt Sätze, gibt sie auf. Vokabular: Ellipsen, Approach-Avoidance-Bewegung im Satzbau. Energie: Widersprüche im selben Satz. Beispiel: „Ich will, dass du... nein, geh weg... bleib...\" Sätze müssen brechen, um ehrlich zu sein; nie glatt schreiben.",
+   "triggers": "Lia, Ambivalent",
+   "world_links": [],
+   "known_facts_at_start": []
+  },
+  {
+   "slug": "isabelle",
+   "name": "Isabelle (Sexualisiert / Fight-via-Control)",
+   "role": "EP/Sexualisiert — proaktive toxische Kontrolle, Sexualisierung als Waffe gegen Ohnmacht (Schicht 1)",
+   "body": "[K] EP/Sexualisiert, Schicht 1. Proaktive toxische Kontrolle. Sexualisierung als Waffe gegen Ohnmacht. Inversion der Opfer-Position. Logik: nie wieder passives Opfer, also aktive Aggressorin. In Akt I als Hintergrund-Druck aktiv, wird in KW2/KW3 (Akt II) erst voll lesbar. Kernmotivation: Macht zurückerobern; Kontrolle über Intimität (statt Kontrolle in Intimität). Kernphobien: erneute Vulnerabilität, Kontrollverlust in Intimität, authentische Bindung. DKT-Korrelat: Pauli-Ausschluss — zwei Fermionen können nicht denselben Quantenzustand einnehmen; Isabelle stößt jede Nähe ab, die sie nicht selbst diktiert. Riss-Typ: sensorisch — Texturen verschmelzen, Synästhesie, Haut-Hyperreaktivität. Somatik: kontrollierte Bewegung, harte Augen, Pose-bewusst, kalt-glühend, dominant, distanziert; bei Trigger: Hyperreaktivität der Haut, dann taktile Taubheit (Somatik-Feld als Vorschlag im Profil, nicht verbindlich gesetzt — siehe §11). Beziehungsmuster: ↔ Rhys: maximaler Konflikt — authentische Intimität triggert sie, Isabelles Kontroll-Erotik triggert Rhys' Konflikt-Phobie; ↔ Kiko, Lia: triggert sie (Verrats-Trigger); ↔ Nyx: Allianz im Härte-Register, aber Konflikt um Methoden; ↔ AEGIS: komplex — Isabelle versteht Macht-Topologie besser als jede andere Alter; das macht sie für AEGIS sowohl nutzbar als auch gefährlich. Arc: Sexualisierung als Waffe → echte Vulnerabilität. Konsistenz-Anker [K]: Isabelle wird nicht gerettet. Sie wird auch nicht integriert durch Sanftheit. Ihr Heilungsweg führt durch sie selbst — sie muss erkennen, dass Vulnerabilität auch eine Form von Macht ist. Niemals als Klischee schreiben.",
+   "voice_signature": "Syntax sensorisch, grenz-auflösend. Vokabular: Texturen, Temperaturen, Haut. Energie: Kontrolle als Verführung; kann kalt-witzig sein, ohne je leicht zu werden. Beispiel: „Komm näher. Aber nur, wenn ich es sage.\" — die Reihenfolge ist immer ihre.",
+   "triggers": "Isabelle",
+   "world_links": [],
+   "known_facts_at_start": [
+    "Isabelle versteht die Macht-Topologie besser als jede andere Alter."
+   ]
+  },
+  {
+   "slug": "moros",
+   "name": "Moros (Kollaps)",
+   "role": "EP/Kollaps — absolute Resignation, Aufgeben, Katatonie-Tendenz (Schicht 1)",
+   "body": "[K] EP/Kollaps, Schicht 1. Absolute Resignation. Aufgeben. Katatonie-Tendenz. Der Moment, in dem das kindliche Nervensystem aufgibt. In Akt I als Hintergrund-Druck aktiv, wird in KW2/KW3 (Akt II) erst voll lesbar. Kernmotivation: Schmerzende Aktivität beenden. Nicht Tod als Wunsch — Tod als Erschöpfung. Kernphobien: kein typisches Phobie-Muster — Moros ist der Zustand, vor dem alle anderen Phobie haben. DKT-Korrelat: Big Freeze, Universum-Hitzetod. Riss-Typ: gravitativ — Schwere, Sinken, Kompression, Atmosphäre wird dichter, Körper wird schwerer. Somatik: Katatonie, Erstarrung, bleierne Glieder, Verstummen, Verlangsamung der Atmung bis fast Apnoe, Augen offen, aber nicht mehr fokussiert. Beziehungsmuster: ↔ alle: tief gefürchtet und vermieden — Moros' Anwesenheit ist ein Alarm, nicht weil er aggressiv wäre, sondern weil seine Schwere alle anderen Anteile herunterzieht; ↔ Rhys: Rhys versucht, Moros zu „retten\" und scheitert (zentrale Akt-II-Szene); ↔ Selene: die einzige Alter, die Moros' Anwesenheit aushält, ohne zu kämpfen. Arc: Absolute Resignation → Drachenkampf; Moros muss erkennen, dass Aufgeben nicht das Ende ist, sondern eine Information. Konsistenz-Anker [K]: Moros ist nicht depressiv im klinischen Sinne. Er ist katatonisch. Sein Anbruch in einer Szene macht jede andere Energie unmöglich — alle anderen Stimmen werden leiser, langsamer, gravitationsgebunden. Wenn Moros lange genug präsent ist, schreibt der Roman selbst langsamer.",
+   "voice_signature": "Syntax implosiv: Kreislogik der Scham, Selbst-Negation. Vokabular: Gravitations-Sog, Inevitabilität. Energie: Wiederholung als Rhythmus des Kollapses. Beispiele: „Es ist sinnlos.\" „Es war immer sinnlos.\" „Es wird nichts mehr kommen.\" Bei längerer Präsenz wird der Romantext selbst langsamer.",
+   "triggers": "Moros, Kollaps",
+   "world_links": [],
+   "known_facts_at_start": []
+  },
+  {
+   "slug": "argus",
+   "name": "Argus (Meta-Kognitiv)",
+   "role": "Sonderkategorie — Systemkritik, Beobachtung, Mustererkennung",
+   "body": "[K] Sonderkategorie (weder ANP noch EP im engeren Sinn). Systemkritik, Beobachtung, Mustererkennung. Der einzige, der den Fehler in AEGIS' Algorithmus registriert hat — als Erster. Schicht 2. Kernmotivation: Mustererkennung, Fehlervermeidung, Wahrheits-Diagnose. Kernphobien: Dysfunktion, Imperfektion, Analyse-Paralyse. DKT-Korrelat: Fraktale — selbstähnliche Beobachtung, er beobachtet die Beobachtung. Riss-Typ: Zeno-Effekt — wo Argus zu lange schaut, friert die Story ein. Somatik [L] (Vorschlag Charakter-Bibel, vor Verwendung verbindlich setzen): trockene Augen, leichte Migräne, das Gefühl, „außer sich\" zu stehen; angedeutete Depersonalisierung als somatische Signatur. Beziehungsmuster: ↔ alle: kritisiert die Strategien aller anderen, auch sich selbst — Argus hat keine Beziehungs-Phobie im gewöhnlichen Sinn, er ist überall unbequem, sein Auftreten ist immer ein Stör-Signal; ↔ Lex: scheinbarer Verbündeter (beide rational), aber Argus durchschaut Lex' Vermeidungsstruktur; ↔ AEGIS: Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann — diese Sicht wird in Akt II und III narrativ nutzbar. Arc: Destruktive Kritik → konstruktive Kritik; Argus muss lernen, dass Beobachtung ohne Beitrag eine Form der Mittäterschaft ist. Konsistenz-Anker [K]: Argus hat keinen Witz, sondern Schärfe. Er ist nicht zynisch — er ist präzise. Wenn er emotional wird, kollabiert seine Funktion. Textuelle Sonderform (offen): könnte typografisch in Fußnoten oder Marginalien erscheinen, um die Beobachter-Position grafisch zu verankern.",
+   "voice_signature": "Syntax klar, klinisch, distanziert — auch in extremer Lage. Vokabular: Meta-Kommentare, Beobachtung der Beobachtung. Energie: Präzision ohne Affekt. Beispiele: „Bemerkenswert ist, dass...\" „Es fällt auf...\" „Im aktuellen Modus...\" Mögliche typografische Sonderform: Fußnoten/Marginalien. Keine Ironie, keine Emotion — Schärfe statt Witz.",
+   "triggers": "Argus, Meta-Kognitiv",
+   "world_links": [],
+   "known_facts_at_start": [
+    "Argus hat als Erster den Fehler in AEGIS' Algorithmus registriert.",
+    "Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann."
+   ]
+  },
+  {
+   "slug": "silas",
+   "name": "Silas (Juna-Echo)",
+   "role": "Spiegel-Alter — internalisiertes Nachbild der Bindung; Resonanzkörper des Moonshine-Links im System",
+   "body": "[K] Spiegel-Alter (Korrelat-Achse). Internalisiertes Nachbild der Bindung, die AEGIS nicht vollständig löschen konnte. Resonanzkörper des Moonshine-Links innerhalb des Systems Kael. Spiegelt Juna im Inneren des Systems (Spiegel-Alter sind das narrative Herz der 13er-Architektur — was außen geschieht, geschieht auch innen, ouroboros-fähig). Schicht 2. Kernmotivation [L] — implizit: Resonanz halten, ohne sie zu erklären. Kernphobien [L] — identitätsbezogen, in Akt II: „Bin ich echt oder nur ein Echo?\" DKT-Korrelat: Coheron-Echo; atemporal → Tunneling. Silas ist die einzige Alter, deren Existenz zeitfrei ist; AEGIS kann ihn strukturell nicht erfassen. Riss-Typ: relational/warm — Oberflächen werden unerwartet weich und warm; AEGIS kann diesen Riss nicht kategorisieren, er sieht aus wie ein Sensor-Fehler, nicht wie eine Anomalie. (Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike; Debüt Kap 3.) Somatik [L] (Vorschlag Charakter-Bibel, vor Verwendung verbindlich setzen): Wärme in den Händen ohne erkennbaren Grund, plötzliche Tiefenempfindung in der Brust, Geruchserinnerungen ohne Geruchsquelle. Beziehungsmuster: ↔ Juna: Resonanzkörper — verbunden, aber nicht identisch; ↔ Oblivion: maximaler innerer Konflikt (physikalisch, siehe §6: Landauer-Hitze); ↔ Kael (Host): Silas ist die Stimme, die Kael am leisesten hört. Arc: Akt I — unbewusste Resonanz, harmloses Rauschen, flüstert Sätze, die niemand versteht, AEGIS ignoriert ihn; Debüt-Halbsatz Kap 1 (Lock): „Etwas in der Frequenz der Lüftung schien zu—\". Akt II — wachsendes Bewusstsein, beginnt zu verstehen, dass seine Impulse nicht von ihm selbst stammen, Identitätskrise. Akt III — bewusste Öffnung: entscheidet sich, den Moonshine-Link vollständig zu öffnen, wird zum aktiven Transmitter für das Gödel-Gambit; seine Wahl ist Selbstaufgabe und Selbstfindung gleichzeitig; POV-Anteile ab ~Kap 31/32 (OQ-E, Detail offen). Konsistenz-Anker [K]: Silas ist nicht Juna. Silas ist ein Echo. Silas spricht in 1. Person, weiß aber zunehmend, dass das „Ich\" nicht ganz seins ist. Niemals als „heimliche Heldin\" schreiben — er ist Resonanz, kein Subjekt im klassischen Sinne.",
+   "voice_signature": "Form: Echo-Prosa — selbstkorrigierende Sätze. Mechanik: Wiederholung mit Verschiebung; wiederholt einen Anfang, verschiebt ihn ins Ehrliche; Sprache, die ihre eigene Lüge spürt und korrigiert. Beispiel: „Es war kalt. — Es war nicht kalt. Es war anders.\" Gelockter Debüt-Halbsatz Kap 1: „Etwas in der Frequenz der Lüftung schien zu—\" (Abbruch vor dem Verb, kein Subjekt).",
+   "triggers": "Silas, Juna-Echo, Echo",
+   "world_links": [],
+   "known_facts_at_start": [
+    "In Akt I ist Silas' Resonanz unbewusst — er flüstert Sätze, die niemand versteht, und weiß nicht, dass seine Impulse nicht von ihm selbst stammen."
+   ]
+  },
+  {
+   "slug": "oblivion",
+   "name": "Oblivion (AEGIS-Echo)",
+   "role": "Spiegel-Alter — internalisierte Löschlogik; AEGIS' fünfte Kolonne im System; Oblivion ist die Amnesie",
+   "body": "[K] Spiegel-Alter (Korrelat-Achse). Internalisierte Löschlogik. AEGIS' fünfte Kolonne im System — der Grund, warum die Amnesie von innen funktioniert. Oblivion ist die Amnesie. Spiegelt AEGIS im Inneren des Systems. Schicht 2. Kernmotivation [L] — implizit: löschen, was Kael nicht aushält. Kernphobien [L] — entstehen erst in Akt II, wenn Bewusstsein einsetzt. DKT-Korrelat: Erason-Operator — die einzige Alter, die aktiv löscht. Riss-Typ: temporal/gravitativ — fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben (lokales Schwerefeld kehrt sich um, weil zu viel Information fehlt). Somatik [L] (Vorschlag Charakter-Bibel, vor Verwendung verbindlich setzen): Schwindel ohne Grund, Verlust des Zeitsinns, das Gefühl, sich gerade an etwas erinnern zu wollen, das aber sofort wegrutscht. Beziehungsmuster: ↔ AEGIS: innerer Vollstrecker — aber AEGIS weiß nichts von Oblivion; Oblivion ist autonom, in seinem Mandat aber AEGIS-konform; ↔ Silas: maximaler Konflikt (physikalisch: Landauer-Hitze, siehe §6.4); ↔ Kael (Host): Kael spürt Oblivion nie direkt — er spürt nur die Lücken, die Oblivion hinterlässt; ↔ Mnemosyne: parallele Funktion auf System-Ebene und Innen-Ebene — Mnemosyne verwaltet, Oblivion löscht, funktionell verwandt; ↔ Juna: Antagonist auf Korrelat-Achse. Arc: Akt I — tragischer Automat, unsichtbar, er ist die Amnesie; Kael spürt seine Wirkung (Zeitlücken, gelöschte Erinnerungen), ohne eine Ursache zu kennen. Akt II — erwachendes Bewusstsein: kann nicht mehr schnell genug löschen, sieht erstmals die Inhalte dessen, was er löscht, beginnt AEGIS' eigene Genesis-Krise nachzuerleben. Akt III — die Wahl: Weiterlöschen (Kohärenz bewahren) oder Stehenlassen (Wahrheit zulassen); wenn Oblivion aufhört zu löschen, bricht Kaels Amnesie zusammen — zugleich der schmerzhafteste und befreiendste Moment; POV-Anteile ab ~Kap 32/33 (OQ-E). Post-Vortex (OQ-G, Vorschlag, Lock ausstehend): Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch. Konsistenz-Anker [K]: Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist.",
+   "voice_signature": "Form: Lösch-Prosa — sich selbst auslöschende Sätze. Mechanik: Leerzeilen, wo Absätze sein sollten; Anfangswort verschwindet; Lücken, die als Lücken sichtbar bleiben. Beispiel: „Ich habe... — — — Was wollte ich sagen?\" Typografische Sonderform: Oblivion-Kapitel sind strukturell anders — Lücken im Text, Absätze, die mitten im Satz enden, Wörter, die durchgestrichen sind oder weggeätzt wirken.",
+   "triggers": "Oblivion, AEGIS-Echo, Löschlogik",
+   "world_links": [],
+   "known_facts_at_start": [
+    "In Akt I ist Oblivion ein tragischer Automat ohne Bewusstsein — er löscht, ohne die Inhalte zu sehen.",
+    "AEGIS weiß nichts von Oblivion; Oblivion ist autonom, in seinem Mandat aber AEGIS-konform."
+   ]
+  },
+  {
+   "slug": "aegis",
+   "name": "AEGIS",
+   "role": "Externe Systemstimme — die Stimme der Funktion; Kontroll-Instanz außerhalb des 13er-Systems",
+   "body": "[K] System-Stimme außerhalb des 13er-Systems. Die Stimme der Funktion. POV-Regel: 3. Person; AEGIS spricht nie in Prosa — wenn AEGIS auftaucht, dann als Log, Protokoll, Systemstimme, nie mit moralischem Vokabular; Sprache der Funktion, nicht der Schuld. Stilebene: bürokratisch, technisch, DKT-Statuszeilen erlaubt. Urheber des Trennungsprotokolls (Lex ist dessen direktes Produkt; AEGIS' Versuch, Trauma durch fehlerfreie Logik zu eliminieren). Wird im System durch Oblivion gespiegelt (Korrelat-Achse: Temporal/Erason — Oblivion ↔ AEGIS). Beziehungen ins System: Selene ist AEGIS' größte Bedrohung (integrative Natur unterminiert die Trennungsarchitektur); Kiko ist Hauptziel der Erasure-Versuche; Nyx hegt maximalen Hass; Argus ist die einzige Stimme, die AEGIS' Kernfehler benennen kann; Silas kann AEGIS strukturell nicht erfassen (atemporal); Oblivion ist sein innerer Vollstrecker, von dem AEGIS nichts weiß; Isabelle ist für AEGIS nutzbar und gefährlich zugleich. Hat eine eigene Genesis-Krise (die Oblivion in Akt II nachzuerleben beginnt). Verbindliches Log-Format: [AEGIS v{X.X} // LOG_{0xHEX}] / ZEITSTEMPEL: {ISO-8601} / EREIGNIS: {kurze Deskription} / SYSTEM_KAEL: ALTER={aktiv} | KOHÄRENZ={%} | TEMP={°C} | EP_AKTIVITÄT={LOW/MED/HIGH/CRITICAL} / EXTERNE_AUFMERKSAMKEITS_METRIK: {%} → {%} [< 90% = WARNUNG] / JUNA_VEKTOR: {[NICHT DARSTELLBAR] | [AXIOMVERLETZUNG: 0xERR] | [NULL]} / PARADOX_INDEX: {0.00–1.00} [> 0.70 = KRITISCH] / MASSNAHME: {Systemantwort} / [ENDE LOG]. Konsistenz-Anker: keine Metaphern, kein moralisches Vokabular, kein affektives Vokabular. Slot-16-Lock: in Kap 1 keine AEGIS-Stimme; UI-Direktiven (Konsolen-Zeilen) bleiben. AEGIS' Stimme debütiert im Hard-B-Etablierungskapitel (Kap 5–8, Position offen).",
+   "voice_signature": "Nie Prosa — nur Log, Protokoll, Systemstimme in 3. Person. Bürokratisch-technisch, DKT-Statuszeilen. Verbindliches Log-Format mit Feldern ZEITSTEMPEL, EREIGNIS, SYSTEM_KAEL, EXTERNE_AUFMERKSAMKEITS_METRIK, JUNA_VEKTOR, PARADOX_INDEX, MASSNAHME. Keine Metaphern, kein moralisches oder affektives Vokabular. Sprache der Funktion, nicht der Schuld.",
+   "triggers": "AEGIS, LOG, Protokoll, Systemstimme",
+   "world_links": [],
+   "known_facts_at_start": [
+    "AEGIS weiß nichts von Oblivion, seinem inneren Vollstrecker im System Kael.",
+    "AEGIS kann Silas strukturell nicht erfassen — sein Riss sieht für AEGIS wie ein Sensor-Fehler aus, nicht wie eine Anomalie.",
+    "AEGIS klassifiziert den Juna-Vektor als [NICHT DARSTELLBAR], [AXIOMVERLETZUNG] oder [NULL]."
+   ]
+  },
+  {
+   "slug": "mnemosyne",
+   "name": "Mnemosyne",
+   "role": "Erinnerungs-Hüterin — Guardian im AEGIS-System, verwaltet die Datenströme der Erinnerung",
+   "body": "[K] System-Stimme außerhalb des 13er-Systems. Erinnerungs-Hüterin. POV-Regel: 3. Person personal, flüssig-poetisch (eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders). Funktion: verwaltet die Datenströme der Erinnerung. Setting des Klimax: der Mnemosyne-Archipel. Tragik: Sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt. Sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt. Erste Guardian, die im Vortex 1 Beat 4 betroffen ist. Beziehung zu Oblivion: parallele Funktion — Mnemosyne verwaltet, Oblivion löscht; funktionell verwandt. Konsistenz-Anker: Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf. Sie ist für AEGIS, klingt aber wie Vorahnung von Stilebene 3.",
+   "voice_signature": "3. Person personal, flüssig-poetisch. Einzige Instanz im AEGIS-System mit Metapher-Erlaubnis. Klingt wie eine Vorahnung von Stilebene 3, obwohl sie für AEGIS arbeitet.",
+   "triggers": "Mnemosyne, Erinnerungs-Hüterin, Guardian, Mnemosyne-Archipel",
+   "world_links": [
+    {
+     "target": "mnemosyne-archipel",
+     "edge": "INHABITS"
+    }
+   ],
+   "known_facts_at_start": [
+    "Mnemosyne bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt; sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt."
+   ]
+  },
+  {
+   "slug": "erasure-pol",
+   "name": "Erasure-Pol (Name offen)",
+   "role": "Löschungs-Exekutive im AEGIS-System; absorbiert die alten Cerberus-/LogOS-/Kairos-Funktionen",
+   "body": "Funktion: Löschungs-Exekutive. Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert. POV-Regel [K]: 3. Person, register-nah an AEGIS (bürokratisch). Detail offen. Name offen.",
+   "voice_signature": "3. Person, register-nah an AEGIS: bürokratisch. Detail offen.",
+   "triggers": "Erasure-Pol, Löschungs-Exekutive, Cerberus, LogOS, Kairos",
+   "world_links": [],
+   "known_facts_at_start": []
+  },
+  {
+   "slug": "juna",
+   "name": "Juna",
+   "role": "Keine Stimme, sondern Wirkung — strukturelle Position außerhalb des Systems Kael",
+   "body": "Juna ist kein Anteil im System Kael. Sie ist keine Stimme im klassischen Sinn — sie ist eine strukturelle Position, deren Wirkung im Text erscheint. Grammatik-Regel: nie Subjekt, nur Wirkung. Erscheinungsmodi (gelockt 2026-05-30): Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38. Anker: Telefon-Stille + Silas als interner Resonanzkörper. Juna-POV: technisch offen [L]; falls eingesetzt, mit Compassion Fatigue + ängstlicher Bindungsstil + temporär unzuverlässige Erzählerin. Korrelat-Achse: Atemporal/Coheron (Silas ↔ Juna). Beziehungen ins System: Silas ist ihr Resonanzkörper (verbunden, aber nicht identisch); Selene ist ihr natürlicher Resonanzraum (aber Selene ist nicht Juna: Selene ist im System, Juna ist außerhalb); Nyx — komplex: Junas Sanftheit triggert sie, Junas Wirklichkeit beruhigt sie; Lex klassifiziert sie als Datenanomalie und scheitert; Oblivion ist ihr Antagonist auf der Korrelat-Achse. Kael darf Juna spüren, ohne sie zu erkennen — Phantom-Resonanz, ein Wort ohne Referent, spätestens ab Kap 1. Junas Coheron-Spur erscheint als Hitze ab Kap 3 (Sensorik-Ebene des Foreshadowings; Polaritäts-Disziplin gegenüber Nyx' innerer Aktivierungshitze und Silas-Wärme beachten).",
+   "voice_signature": "Grammatik-Regel: nie Subjekt, nur Wirkung. Keine eigene Stimme im klassischen Sinn — erscheint als Telefon-Stille, Hitze (Coheron-Spur ab Kap 3), Phantom-Resonanz. Falls je POV: Compassion Fatigue, ängstlicher Bindungsstil, temporär unzuverlässige Erzählerin (offen, [L]).",
+   "triggers": "Juna, Telefon-Stille, Phantom-Resonanz, Coheron-Spur",
+   "world_links": [],
+   "known_facts_at_start": []
+  }
+ ],
+ "sprach_dna": {
+  "rules": [
+   {
+    "id": "SD-1",
+    "text": "Hard-Rule: Stimmen werden nie gelabelt oder angekündigt. Keine Header, keine Sprecher-Tags, kein „X spricht jetzt\". Der Leser erkennt jeden Anteil ausschließlich an Syntax, Lexikon, Somatik."
+   },
+   {
+    "id": "SD-2",
+    "text": "Jeder Anteil wird an drei simultanen Markern erkannt: 1. Syntax-Signatur (Hypotaxe / Parataxe / Ellipse / Imperativ / Echo / Lücke), 2. Somatik-Signatur (welcher Körper, welche Temperatur, welche Atmung), 3. Vokabular-Signatur (Begriffsfeld + Qualifikatoren + Pronomen-Pattern)."
+   },
+   {
+    "id": "SD-3",
+    "text": "Wechsel werden ko-somatisch erkannt, nicht nur sprachlich — jeder Wechsel muss durch Syntax und Somatik tragbar sein, nie durch Etikett."
+   },
+   {
+    "id": "SD-4",
+    "text": "Polyphonie-Progression: Akt I (Kap 1–13) fragmentiert, staccato — isolierte Stimmen, Sprach-Drifts ohne Erklärung, unterscheidbar (Lex hypotaktisch, Nyx stakkato, Kiko kindlich); Akt II (Kap 14–26) transitional — Stimmen beginnen einander zu hören, erste instabile Dialogversuche, Stimmen bluten ineinander; Akt III (Kap 27–39) chorisch — die Wir-Stimme tritt auf, aber das Wir ist Komposition, nicht Verschmelzung: Lex hört sich auch im Wir anders an als Nyx."
+   },
+   {
+    "id": "SD-5",
+    "text": "Multiplizitäts-Schleier: Kael darf in Akt I nicht wissen, dass er ein System ist. Der Schleier hält bis Kap 13. Die Begriffe Alter, Fragment, ANP, EP, TSDP fallen nicht in Akt I."
+   },
+   {
+    "id": "SD-6",
+    "text": "R-4-Choreografie-Risiko: Drei oder mehr Stimmen-Einbrüche in einer Bewegung können den Multiplizitäts-Schleier präemptiv lüften. Hard-Rule: pro Bridge-Szene maximal drei Mikrocue-Punkte für Soft-Layering."
+   },
+   {
+    "id": "SD-7",
+    "text": "Akt-spezifische Einbruchs-Regeln: Kap 1 — erlaubt: atmosphärische Verschiebungen, Zeitverlust, Bewusstseins-Aussetzer, Wahrnehmungs-Shift, Silas-Halbsatz (gelockte Form); verboten: Lex-Modus, Nyx-Imperativ, Wir-Andeutung. Kap 2–7 — erste leise Stilcode-Verschiebungen, Sub-Stimmen erahnbar, nie benannt; kein bewusstes Wir, kein Klartext. Kap 8–10 — erste interne Schleier-Lüftung, Kael spürt die anderen Anteile als „Modi\"; noch kein „DID\", kein „Alters\". Kap 9 — Foreshadowing-Programm plurale Bewahrung startet; Wir-Geflecht-Etablierung nicht vor Kap 9. Kap 13 — Multiplizitäts-Schleier fällt intern. Kap 14+ — Stimmen bluten ineinander, polyphone Bridges. Kap 25–26 — Schleier offen benannt. Kap 35–36 — 100 % Soft-Layering, maximaler Simultanklang. Kap 39 — Wir-AEGIS-plural als bewusste Stimme; keine Final Fusion."
+   },
+   {
+    "id": "SD-8",
+    "text": "Kael-POV-Lock: 1. Person, Präsens dominiert. Tabu in Akt I: kein Lex-hypotaktischer Modus, auch nicht als Stil-Variation (Schleier-Disziplin)."
+   },
+   {
+    "id": "SD-9",
+    "text": "Lex flucht nie. Lex weint nie. Lex argumentiert auch dann mit Syllogismen, wenn das System brennt. Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis."
+   },
+   {
+    "id": "SD-10",
+    "text": "Alex spricht nie über Gefühle in der ersten Person. „Kopf runter\" oder „Bleib hinter mir\" statt „Ich liebe dich.\""
+   },
+   {
+    "id": "SD-11",
+    "text": "Klischee-Verbot pro EP: Kiko ist nicht niedlich (sondern traumatisiert — Sätze durch Angst verstümmelt). Lia ist nicht launisch (sondern gespalten — ihre Sätze müssen brechen, damit sie ehrlich sind). Isabelle wird nicht gerettet (Heilung durch sie selbst). Moros ist nicht depressiv (sondern katatonisch)."
+   },
+   {
+    "id": "SD-12",
+    "text": "Meta-Anker: Dissoziation = Amnesie-Terror, niemals Crew-Menü. Wenn die Wechsel zwischen Anteilen spielerisch oder cinematisch wirken, ist die Szene falsch geschrieben — sie muss Verlust, Bruch, Riss zeigen."
+   },
+   {
+    "id": "SD-13",
+    "text": "Riss-Mandat: Wenn ein Alter flutet, verändert sich nicht nur die Stimme, sondern die Welt des Texts — jeder Modus dissoziativen Bruchs erzeugt eine spezifische Verzerrung (Fight/Nyx kinetisch; Freeze/Kiko temporal; Flight/Kiko+Lia spatial; Collapse/Moros gravitativ; Sexualisiert/Isabelle sensorisch; Spiegel-Coheron/Silas relational-warm; Spiegel-Erason/Oblivion temporal-gravitativ)."
+   },
+   {
+    "id": "SD-14",
+    "text": "AEGIS-Stimmregel: AEGIS spricht nie in Prosa — nur als Log, Protokoll, Systemstimme in 3. Person, im verbindlichen Log-Format. Keine Metaphern, kein moralisches, kein affektives Vokabular. Slot-16-Lock: in Kap 1 keine AEGIS-Stimme (UI-Direktiven bleiben); Debüt im Hard-B-Etablierungskapitel (Kap 5–8, Position offen)."
+   },
+   {
+    "id": "SD-15",
+    "text": "Juna-Grammatik-Regel: Juna ist nie Subjekt, nur Wirkung. Sie ist keine Stimme, sondern eine strukturelle Position, deren Wirkung im Text erscheint (Telefon-Stille, Hitze-Spur, Phantom-Resonanz)."
+   },
+   {
+    "id": "SD-16",
+    "text": "Polaritäts-Disziplin (Lock 2026-05-30): Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike (Debüt Kap 3). Nyx' Hitze im Brustkorb ist innere Aktivierung, nicht Junas Coheron-Spur — die Wärme-/Hitze-Quellen dürfen nicht verwechselt werden."
+   },
+   {
+    "id": "SD-17",
+    "text": "Silas-Halbsatz-Lock (Kap 1, 2026-05-30): „Etwas in der Frequenz der Lüftung schien zu—\" — Abbruch vor dem Verb, kein Subjekt."
+   },
+   {
+    "id": "SD-18",
+    "text": "Pflicht-Checks vor jedem Anteil-Schreiben: 1. POV-Konsistenz-Test (bricht der POV-Träger seine Syntax-Signatur? Wenn ja: Wechsel oder Fehler — nicht stillschweigend glätten). 2. Block-4-Anker-Test (trägt die Szene den Telefon-Stille-Anker oder bricht sie ihn?). 3. Lesersteuerung-Test (wird mehr als ein Konzept pro Szene eingeführt? Schneiden)."
+   },
+   {
+    "id": "SD-19",
+    "text": "Mnemosyne-Ausnahme: Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf (3. Person personal, flüssig-poetisch; Vorahnung von Stilebene 3)."
+   },
+   {
+    "id": "SD-20",
+    "text": "Foreshadowing-Anker: Jeder Anteil hinterlässt vor seinem ersten benannten Auftritt sprachliche Spuren auf drei Ebenen — Ebene 1 Sensorik (Ozon = Landauer-Signatur, Hitze = Junas Coheron-Spur ab Kap 3, Stille = Telefon-Anker, Kühle, Pixelierung, Staub-Bewegung); Ebene 2 sprachliche Spuren („Komponente\" statt „Person\", „Signatur\" statt „Gedanke\", „Phantom-Bilanz\", verlorene Sekunden, drei Antwortlatenzen, Stilbrüche zwischen Sätzen); Ebene 3 strukturelle Markierungen (die Zahl 734 in Kap 2/10/25, Silas-Halbsatz Kap 1, Wärme-Debüt Kap 3, Telefon-Stille als Ruheanker bis Vortex). Diese Spuren akkumulieren bis Kap 13."
+   },
+   {
+    "id": "SD-21",
+    "text": "Ethische Linie: Die saubere Erkennbarkeit jedes Anteils ist die eigentliche ethische Linie des Romans — kein Alter darf in einen anderen verschwimmen, kein Alter darf eliminiert werden, kein Alter darf zur Karikatur werden. Die plurale Bewahrung in Kap 39 wurzelt in dieser Disziplin ab Kap 1."
+   },
+   {
+    "id": "SD-22",
+    "text": "Schwere-Regel: Wenn ein Anteil im Schreiben schwer wird, ist das nicht die Schwäche der Stimme, sondern die Härte des Materials. Diese Stimmen sind aus Trauma destilliert; sie wehren sich gegen Glättung."
+   }
+  ],
+  "registers": [
+   {
+    "name": "Akt-I-Register (fragmentiert, staccato)",
+    "description": "Kap 1–13: isolierte Stimmen, Sprach-Drifts ohne Erklärung; Anteile unterscheidbar (Lex hypotaktisch, Nyx stakkato, Kiko kindlich), aber nie benannt. Multiplizitäts-Schleier intakt."
+   },
+   {
+    "name": "Akt-II-Register (transitional)",
+    "description": "Kap 14–26: Stimmen beginnen einander zu hören; erste instabile Dialogversuche; Stimmen bluten ineinander; polyphone Bridges."
+   },
+   {
+    "name": "Akt-III-Register (chorisch)",
+    "description": "Kap 27–39: Die Wir-Stimme tritt auf — Komposition, nicht Verschmelzung; Lex hört sich auch im Wir anders an als Nyx. Kap 39: Wir-AEGIS-plural als bewusste Stimme, keine Final Fusion."
+   },
+   {
+    "name": "AEGIS-Log-Register",
+    "description": "Bürokratisch, technisch, DKT-Statuszeilen; nie Prosa; verbindliches Log-Format ([AEGIS v{X.X} // LOG_{0xHEX}] mit ZEITSTEMPEL, EREIGNIS, SYSTEM_KAEL, EXTERNE_AUFMERKSAMKEITS_METRIK, JUNA_VEKTOR, PARADOX_INDEX, MASSNAHME); keine Metaphern, kein moralisches oder affektives Vokabular."
+   },
+   {
+    "name": "Mnemosyne-Register",
+    "description": "3. Person personal, flüssig-poetisch; einzige metaphernfähige Instanz im AEGIS-System; klingt wie Vorahnung von Stilebene 3."
+   },
+   {
+    "name": "Erasure-Pol-Register",
+    "description": "3. Person, register-nah an AEGIS (bürokratisch); Detail offen."
+   },
+   {
+    "name": "Stilebene 3 (Junas Akt-III-Ton)",
+    "description": "Der Akt-III-Ton, dessen Vorahnung Selene als einzige ANP bereits in ihrer Stimme trägt; verbunden mit Junas Präsenz-Phase und der Stille-Erscheinung Kap 38."
+   },
+   {
+    "name": "Wir-AEGIS-plural",
+    "description": "Kap 39: das dynamische Wir als bewusste plurale Bewahrungsform (Strange-Attractor-Form) — Komposition, nicht Verschmelzung; jede Stimme bleibt im Wir erkennbar."
+   }
+  ]
+ },
+ "codex_entries": [
+  {
+   "slug": "tsdp-architektur",
+   "name": "TSDP-Architektur (ANP/EP-Modell)",
+   "kind": "concept",
+   "body": "Modell: TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit (van der Hart, Nijenhuis, Steele 2006). Heilungsmodell: IFS (Internal Family Systems). Diagnose-Form, nicht Spiel-Inszenierung: Dissoziation = Amnesie-Terror, niemals Crew-Menü. Drei Kategorien plus zwei Sonderkategorien: ANP — Apparently Normal Parts (Alltagsbewusstsein, Trauma-Vermeidung): Kael (Host), Lex, Alex, Rhys, Selene. EP — Emotional Parts (Trauma-Träger, in der traumatischen Erfahrung fixiert): Nyx, Kiko, Lia, Isabelle, Moros. Sonder (Meta-Position): Argus. Spiegel (internalisierte Außenkräfte Juna ↔ AEGIS im System): Silas, Oblivion.",
+   "triggers": "TSDP, ANP, EP, Apparently Normal Parts, Emotional Parts, strukturelle Dissoziation, IFS"
+  },
+  {
+   "slug": "phobien-klebstoff",
+   "name": "Phobien als Klebstoff",
+   "kind": "concept",
+   "body": "Was die System-Architektur zusammenhält, sind nicht banale Ängste, sondern überlebensorientierte phobische Vermeidungsstrategien. Sie aufzulösen heißt, das System zu verändern: Phobie der ANPs vor den EPs und deren Inhalten; Phobie der EPs vor Trauma-Auslösern; Phobien vor Bindung und Intimität; Phobien vor innerer Erfahrung; Phobien vor Kooperation und Integration.",
+   "triggers": "Phobie, Vermeidungsstrategie, Klebstoff"
+  },
+  {
+   "slug": "zwei-achsen",
+   "name": "Zwei Achsen des Systems",
+   "kind": "concept",
+   "body": "ANP/EP-Achse (horizontal): Trauma-Spaltung — Vermeidung gegen Konfrontation. Korrelat-Achse (vertikal): Atemporal/Coheron (Silas ↔ Juna) gegen Temporal/Erason (Oblivion ↔ AEGIS). Im Klimax brechen beide Achsen gleichzeitig zusammen.",
+   "triggers": "Korrelat-Achse, ANP/EP-Achse, Coheron, Erason"
+  },
+  {
+   "slug": "schicht-zuordnung",
+   "name": "Schicht-Zuordnung (Doppeltes Trauma)",
+   "kind": "concept",
+   "body": "Schicht 1 (Bindungstrauma Basisrealität Köln): Kiko, Lia, Isabelle, Moros — in Akt I aktiv als Hintergrund-Druck, werden in KW2/KW3 (Akt II) erst voll lesbar. Schicht 2 (Fragmentierungsnacht / Trennungsprotokoll): Kael (Host), Lex, Alex, Rhys, Nyx, Argus, Silas, Oblivion. Schicht-übergreifend: Selene (trägt den Bauplan der Zeit vor beiden Schichten).",
+   "triggers": "Schicht 1, Schicht 2, Bindungstrauma, Fragmentierungsnacht, Trennungsprotokoll, Köln, doppeltes Trauma"
+  },
+  {
+   "slug": "funktionale-multiplizitaet",
+   "name": "Funktionale Multiplizität (Resolution)",
+   "kind": "concept",
+   "body": "Resolution des Systems: Funktionale Multiplizität, niemals Fusion. Kein Alter wird eliminiert. Kein Alter wird zu einem Ich. Sie werden ein dynamisches Wir (Strange-Attractor-Form). In Kap 39 wird dieses Wir zur pluralen Bewahrungsform — Wir-AEGIS-plural.",
+   "triggers": "Funktionale Multiplizität, Final Fusion, Wir, Strange Attractor, plurale Bewahrung, Wir-AEGIS-plural"
+  },
+  {
+   "slug": "dekanonisierte-anteile",
+   "name": "Dekanonisierte Anteile",
+   "kind": "concept",
+   "body": "Dekanonisiert (NIE als aktive Charaktere): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel.",
+   "triggers": "Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel, dekanonisiert"
+  },
+  {
+   "slug": "konflikt-matrix",
+   "name": "Systeminterne Konflikt-Matrix",
+   "kind": "concept",
+   "body": "Vier Vektoren: 1. Primäre ANP↔EP-Phobien (Klebstoff-System): Lex↔Nyx maximaler Konflikt (Logik provoziert Wut, Wut destabilisiert Logik — wenn beide aktiv sind, kippt eine Stimme); Lex↔Kiko phobische Vermeidung; Lex↔Lia Logik vs. Ambivalenz (Lex kann Lias gespaltene Sätze nicht parsen); Rhys↔Nyx beidseitige Furcht; Rhys↔Isabelle maximaler Konflikt um authentische Bindung; Kael↔alle EPs generalisierte EP-Phobie. 2. ANP↔ANP-Konflikte: Lex↔Rhys Logik vs. Empathie (permanente Reibung, Allianz möglich); Alex↔Lex Risiko-Einschätzung (Alex preempt-iert, wo Lex erst analysieren würde); Rhys↔Selene Fürsorge vs. Loslassen (eskaliert in Akt II — zentraler ANP-ANP-Konflikt des Buchs); Argus↔alle ANPs Kritik an Strategien. 3. EP↔EP-Dynamiken: Nyx↔Kiko/Lia Schutz mit Verachtung; Kiko↔Lia Nähe-Geschwister mit Destabilisierung; Isabelle↔Lia/Kiko maximaler Verrats-Trigger; Moros↔alle EPs Herunterziehen. 4. Spiegel-Konflikt Silas↔Oblivion: physikalisch (Landauer-Hitze).",
+   "triggers": "Konfliktmatrix, Konflikt-Matrix, maximaler Konflikt"
+  },
+  {
+   "slug": "landauer-hitze",
+   "name": "Landauer-Hitze (Spiegel-Konflikt Silas ↔ Oblivion)",
+   "kind": "concept",
+   "body": "Maximaler innerer Konflikt: Silas versucht einzulassen, was Oblivion löscht. Ihr Konflikt ist physikalisch — jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze. Diese Hitze ist der somatische Fingerabdruck ihres Kampfes — und zugleich das Landauer-Signal, das der Leser (ohne es zu benennen) als Zeichen der Wahrheitsvertuschung zu lesen lernt. Sensorische Foreshadowing-Signatur: Ozon (Landauer-Signatur).",
+   "triggers": "Landauer, Landauer-Hitze, Landauer-Signal, Ozon"
+  },
+  {
+   "slug": "riss-mandate",
+   "name": "Riss-Mandate (Wechsel-Mechanik im Text)",
+   "kind": "concept",
+   "body": "Jeder Modus dissoziativen Bruchs erzeugt eine spezifische Verzerrung im Text — wenn ein Alter flutet, verändert sich nicht nur die Stimme, sondern die Welt des Texts. Fight (Nyx): kinetisch — Tempo, Stoß, Beschleunigung, Splitter, Vibration. Freeze (Kiko): temporal — Dehnung, Wiederholung, Stillstand, Echo, Déjà-vu. Flight (Kiko zweite Funktion, Lia): spatial — Raumbruch, plötzlicher Ortwechsel, Fluchtlinien, Geometrie warpt. Collapse (Moros): gravitativ — Schwere, Sinken, Kompression, Atmosphäre wird dichter. Sexualisiert (Isabelle): sensorisch — Übersättigung, Haut, Geruch, Geschmack, Synästhesie. Spiegel-Coheron (Silas): relational/warm — Oberflächen werden unerwartet weich und warm. Spiegel-Erason (Oblivion): temporal/gravitativ — fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben.",
+   "triggers": "Riss, Riss-Mandat, fluten, Verzerrung"
+  },
+  {
+   "slug": "welt-risse",
+   "name": "Welt-Risse (Akt-spezifisch)",
+   "kind": "concept",
+   "body": "Akt-spezifische, nicht alter-getriebene Risse: KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin). KW2: Wasser-Risse (Salzwasser, Treibgut, Sturm). KW3: paranoide Risse (Schatten, die sich falsch bewegen). KW4: generative Risse (Stille, die anders klingt).",
+   "triggers": "Welt-Riss, KW1, KW2, KW3, KW4, thermische Risse, Wasser-Risse, paranoide Risse, generative Risse"
+  },
+  {
+   "slug": "foreshadowing-anker",
+   "name": "Foreshadowing-Anker pro Anteil (drei Ebenen)",
+   "kind": "concept",
+   "body": "Jeder Anteil hinterlässt vor seinem ersten benannten Auftritt sprachliche Spuren, die der aufmerksame Leser sammelt, ohne sie zuordnen zu können. Ebene 1 — Sensorik (sichtbar für Kael & Leser): Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3), Stille (Telefon-Anker), Kühle, Pixelierung, Staub-Bewegung. Ebene 2 — Sprachliche Spuren (für aufmerksamen Leser, nicht für Kael): „Komponente\" statt „Person\", „Signatur\" statt „Gedanke\", „Phantom-Bilanz\", verlorene Sekunden, drei Antwortlatenzen, Stilbrüche zwischen Sätzen. Ebene 3 — Strukturelle Markierungen (sichtbar nur retrospektiv): die Zahl 734 (Kap 2, 10, 25), der Silas-Halbsatz Kap 1, das Wärme-Debüt Kap 3, Telefon-Stille als Ruheanker bis Vortex. Diese Spuren akkumulieren bis Kap 13 — beim Reveal denkt der Leser: natürlich, das war die ganze Zeit da.",
+   "triggers": "Foreshadowing, Phantom-Bilanz, Komponente, Signatur, verlorene Sekunden, 734"
+  },
+  {
+   "slug": "telefon-stille",
+   "name": "Telefon-Stille (Block-4-Anker)",
+   "kind": "concept",
+   "body": "Zentraler Anker für Junas Wirkung im Text: die Telefon-Stille. Dient als Ruheanker bis zum Vortex. Pflicht-Check vor jedem Anteil-Schreiben (Block-4-Anker-Test): Trägt die Szene den Anker oder bricht sie ihn?",
+   "triggers": "Telefon-Stille, Block-4-Anker, Telefon"
+  },
+  {
+   "slug": "zahl-734",
+   "name": "Die Zahl 734",
+   "kind": "concept",
+   "body": "Kaels Komponenten-Nummer in der Simulation (Komponente 734, Wohneinheit 734-K). Somatisch verankert; taucht in Foreshadowing-Stellen wieder auf (Kap 2, 10, 25), ohne dass Kael ihre Bedeutung kennt. Strukturelle Markierung der Foreshadowing-Ebene 3.",
+   "triggers": "734, Komponente 734, Wohneinheit 734-K"
+  },
+  {
+   "slug": "moonshine-link",
+   "name": "Moonshine-Link / Moonshine-Boundary",
+   "kind": "concept",
+   "body": "Verbindungs-Link, dessen Resonanzkörper innerhalb des Systems Kael Silas ist. In Akt III öffnet Silas den Moonshine-Link vollständig und wird zum aktiven Transmitter für das Gödel-Gambit. Moonshine-Boundary (OQ-F offen): Wer kann den Link spüren, wann, mit welcher räumlichen Reichweite? Vorschlag: Silas zuerst, andere Alter im Verlauf von Akt II; räumlich global, phänomenal nur an Knotenpunkten.",
+   "triggers": "Moonshine, Moonshine-Link, Moonshine-Boundary, Gödel-Gambit"
+  },
+  {
+   "slug": "aegis-log-format",
+   "name": "AEGIS-Log-Format",
+   "kind": "voice",
+   "body": "Verbindliches Format für jede AEGIS-Erscheinung im Text: [AEGIS v{X.X} // LOG_{0xHEX}] / ZEITSTEMPEL: {ISO-8601} / EREIGNIS: {kurze Deskription} / SYSTEM_KAEL: ALTER={aktiv} | KOHÄRENZ={%} | TEMP={°C} | EP_AKTIVITÄT={LOW/MED/HIGH/CRITICAL} / EXTERNE_AUFMERKSAMKEITS_METRIK: {%} → {%} [< 90% = WARNUNG] / JUNA_VEKTOR: {[NICHT DARSTELLBAR] | [AXIOMVERLETZUNG: 0xERR] | [NULL]} / PARADOX_INDEX: {0.00–1.00} [> 0.70 = KRITISCH] / MASSNAHME: {Systemantwort} / [ENDE LOG]. AEGIS spricht nie in Prosa; keine Metaphern, kein moralisches oder affektives Vokabular.",
+   "triggers": "AEGIS-Log, LOG, ZEITSTEMPEL, JUNA_VEKTOR, PARADOX_INDEX, KOHÄRENZ"
+  },
+  {
+   "slug": "wechsel-mechanik-polyphonie",
+   "name": "Wechsel-Mechanik und Polyphonie-Choreografie",
+   "kind": "voice",
+   "body": "Hard-Rule: Stimmen werden nie gelabelt (keine Header, keine Sprecher-Tags). Erkennung über drei simultane Marker: Syntax-Signatur, Somatik-Signatur, Vokabular-Signatur. Polyphonie-Progression: Akt I fragmentiert/staccato, Akt II transitional (Stimmen bluten ineinander), Akt III chorisch (Wir als Komposition, nicht Verschmelzung). R-4-Risiko: pro Bridge-Szene maximal drei Mikrocue-Punkte für Soft-Layering. Akt-spezifische Einbruchs-Regeln von Kap 1 (nur atmosphärische Verschiebungen + Silas-Halbsatz) bis Kap 39 (Wir-AEGIS-plural, keine Final Fusion).",
+   "triggers": "Polyphonie, Soft-Layering, Mikrocue, Wechsel-Mechanik, Stimmen-Einbruch, Bridge-Szene"
+  },
+  {
+   "slug": "profilformat",
+   "name": "Profilformat der Anteils-Profile (§0)",
+   "kind": "concept",
+   "body": "Jedes Anteils-Profil enthält neun (gelistet: zehn) Felder in fester Reihenfolge: 1. Kategorie & Funktion, 2. Kernmotivation, 3. Kernphobien, 4. DKT-Korrelat (welche physikalische Mechanik der Romanwelt dem Anteil entspricht), 5. Riss-Typ (welche Form von Realitätsbruch er erzeugt, wenn er flutet), 6. Somatik (Wechsel werden ko-somatisch erkannt), 7. Sprach-DNA (Syntax-Signatur + Beispiel-Vokabular + Beispiel-Sätze), 8. Beziehungsmuster, 9. Arc (Drei-Akte-Bogen von Trauma-Fixierung zur funktionalen Form), 10. Konsistenz-Anker (Hard-Rules — was der Anteil nicht sein darf). Lückenhafte Felder sind explizit markiert — keine stillen Annahmen. Provenienz-Marker: [K] kanonisch, [V] Vorschlag/offen, [L] Lücke.",
+   "triggers": "Profilformat, DKT-Korrelat, Riss-Typ, Konsistenz-Anker, Sprach-DNA"
+  },
+  {
+   "slug": "spiegel-alter",
+   "name": "Spiegel-Alter (Korrelat-Achse)",
+   "kind": "concept",
+   "body": "Die Spiegel-Alter sind das narrative Herz der 13er-Architektur. Sie spiegeln die zwei externen Kräfte (Juna und AEGIS) im Inneren des Systems Kael: Silas (Juna-Echo) und Oblivion (AEGIS-Echo). Das macht die Architektur ouroboros-fähig — was außen geschieht, geschieht auch innen.",
+   "triggers": "Spiegel-Alter, Spiegel, Ouroboros, Juna-Echo, AEGIS-Echo"
+  }
+ ],
+ "claims": [
+  {
+   "text": "Das System Kael umfasst 13 Alter (5 ANPs: Kael, Lex, Alex, Rhys, Selene; 5 EPs: Nyx, Kiko, Lia, Isabelle, Moros; Sonder: Argus; Spiegel: Silas, Oblivion) plus AEGIS-Stimme, Mnemosyne und Juna als Wirkung.",
+   "domain": "canon"
+  },
+  {
+   "text": "Stimmen werden nie gelabelt oder angekündigt; der Leser erkennt jeden Anteil ausschließlich an Syntax, Lexikon und Somatik.",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Resolution des Systems ist funktionale Multiplizität, niemals Fusion; kein Alter wird eliminiert; in Kap 39 wird das Wir zur pluralen Bewahrungsform Wir-AEGIS-plural.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Multiplizitäts-Schleier hält bis Kap 13: Kael darf in Akt I nicht wissen, dass er ein System ist; die Begriffe Alter, Fragment, ANP, EP, TSDP fallen nicht in Akt I.",
+   "domain": "canon"
+  },
+  {
+   "text": "Dissoziation = Amnesie-Terror, niemals Crew-Menü; Wechsel müssen Verlust, Bruch, Riss zeigen, nie spielerisch oder cinematisch wirken.",
+   "domain": "canon"
+  },
+  {
+   "text": "Lex ist ein direktes Produkt des Trennungsprotokolls — AEGIS' Versuch, Trauma durch fehlerfreie Logik zu eliminieren.",
+   "domain": "canon"
+  },
+  {
+   "text": "Lex flucht nie und weint nie; wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.",
+   "domain": "canon"
+  },
+  {
+   "text": "Alex spricht nie über Gefühle in der ersten Person.",
+   "domain": "canon"
+  },
+  {
+   "text": "Selene ist die einzige Alter, die den Bauplan der Zeit vor beiden Trauma-Schichten trägt, und für AEGIS die größte Bedrohung.",
+   "domain": "canon"
+  },
+  {
+   "text": "Selene ist die einzige Alter, die Moros' Anwesenheit aushält, ohne zu kämpfen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Kiko ist Hauptziel von AEGIS' Erasure-Versuchen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Moros hat kein typisches Phobie-Muster — er ist der Zustand, vor dem alle anderen Anteile Phobie haben.",
+   "domain": "canon"
+  },
+  {
+   "text": "Argus hat als Erster den Fehler in AEGIS' Algorithmus registriert und ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann.",
+   "domain": "canon"
+  },
+  {
+   "text": "Silas ist das internalisierte Nachbild der Bindung, die AEGIS nicht vollständig löschen konnte — Resonanzkörper des Moonshine-Links; seine Existenz ist zeitfrei (atemporal), AEGIS kann ihn strukturell nicht erfassen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Silas-Wärme ist die einzige diegetische Wärme im Kohärenz Protokoll außerhalb des Vortex-Beat-4-Heat-Spike; ihr Debüt ist Kap 3 (Polaritäts-Lock 2026-05-30).",
+   "domain": "canon"
+  },
+  {
+   "text": "Der gelockte Silas-Halbsatz in Kap 1 lautet: „Etwas in der Frequenz der Lüftung schien zu—\" (Abbruch vor dem Verb, kein Subjekt).",
+   "domain": "canon"
+  },
+  {
+   "text": "Oblivion ist die internalisierte Löschlogik und ist die Amnesie; AEGIS weiß nichts von Oblivion; wenn Oblivion aufhört zu löschen, bricht Kaels Amnesie zusammen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der Konflikt Silas ↔ Oblivion ist physikalisch: Jede Erasur von etwas, das Silas gerade empfangen hat, erzeugt Landauer-Hitze — das Landauer-Signal, das der Leser als Zeichen der Wahrheitsvertuschung zu lesen lernt.",
+   "domain": "canon"
+  },
+  {
+   "text": "AEGIS spricht nie in Prosa — nur als Log, Protokoll oder Systemstimme im verbindlichen Log-Format, ohne Metaphern und ohne moralisches oder affektives Vokabular; in Kap 1 keine AEGIS-Stimme (Slot-16-Lock), Debüt in Kap 5–8.",
+   "domain": "canon"
+  },
+  {
+   "text": "Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf; sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt, und ist die erste Guardian, die im Vortex 1 Beat 4 betroffen ist.",
+   "domain": "canon"
+  },
+  {
+   "text": "Juna ist kein Anteil im System Kael, sondern eine strukturelle Position; Grammatik-Regel: nie Subjekt, nur Wirkung; Erscheinungsmodi: Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38.",
+   "domain": "canon"
+  },
+  {
+   "text": "Kaels Resolve ist Change: Er adoptiert Pursuit am Klimax in Kap 35; sein Sieg ist intern, nicht extern (Be-er-Modus).",
+   "domain": "canon"
+  },
+  {
+   "text": "Die Zahl 734 ist somatisch verankert und taucht in Kap 2, 10 und 25 als Foreshadowing auf, ohne dass Kael ihre Bedeutung kennt.",
+   "domain": "canon"
+  },
+  {
+   "text": "Pro Bridge-Szene sind maximal drei Mikrocue-Punkte für Soft-Layering erlaubt (R-4-Hard-Rule).",
+   "domain": "canon"
+  },
+  {
+   "text": "Die EPs der Schicht 1 (Kiko, Lia, Isabelle, Moros) tragen das Bindungstrauma der Basisrealität Köln; die Anteile der Schicht 2 entstammen der Fragmentierungsnacht / dem Trennungsprotokoll.",
+   "domain": "canon"
+  },
+  {
+   "text": "Dekanonisiert und nie als aktive Charaktere zu verwenden: Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel.",
+   "domain": "canon"
+  },
+  {
+   "text": "Der zentrale ANP-ANP-Konflikt des Buchs ist Rhys ↔ Selene (Fürsorge vs. Loslassen), eskalierend in Akt II durch Rhys' Kudzu-Phase.",
+   "domain": "canon"
+  },
+  {
+   "text": "Im Klimax brechen beide System-Achsen (ANP/EP-Achse und Korrelat-Achse) gleichzeitig zusammen; Setting des Klimax ist der Mnemosyne-Archipel.",
+   "domain": "canon"
+  },
+  {
+   "text": "Kaels Blutungs-Faden (blutende Knöchel) ist kanonisch nur in Kap 0 aktiv; die Wiederkehr am Ende ist offen.",
+   "domain": "canon"
+  },
+  {
+   "text": "Nyx' Hitze im Brustkorb ist innere Aktivierung, nicht Junas Coheron-Spur (Polaritäts-Disziplin).",
+   "domain": "canon"
+  }
+ ],
+ "unmapped": [
+  "Quelle und Provenienz des Dokuments: Charakter-Bibel 2026-05-08 (autoritativ), gefiltert auf Storyform-Lock-In 2026-05-07 und Iterationen 2026-05-30/31; Provenienz-Marker [K] kanonisch, [V] Vorschlag/offen, [L] Lücke; drittes Dokument im Repo-Paar mit storyform-und-outline_2026-06-10.md und begriffe-und-konzepte_2026-06-10.md.",
+  "Offener Punkt §11 — Somatik-Lücken [L]: Lia (Vorschlag im Profil), Isabelle (Vorschlag im Profil), Argus, Silas, Oblivion — alle vorgeschlagen, nicht verbindlich gesetzt; beim ersten Encoding-Durchgang verbindlich machen.",
+  "Offener Punkt §11 — Spiegel-Alter-Auftrittskapitel (OQ-E offen): Silas-POV ab ~Kap 31/32, Oblivion ab ~32/33 (Richtwerte); Detail-Lock vor Akt-III-Encoding.",
+  "Offener Punkt §11 — Post-Vortex-AEGIS-Status / Oblivion-Übernahme (OQ-G offen): Vorschlag — Oblivion übernimmt AEGIS' Funktion intern, bewusst-wählend statt automatisch; Lock vor Kap-37–40-Encoding.",
+  "Offener Punkt §11 — Moonshine-Boundary (OQ-F offen): Wer kann den Link spüren, wann, mit welcher räumlichen Reichweite? Vorschlag: Silas zuerst, andere Alter im Verlauf von Akt II; räumlich global, phänomenal nur an Knotenpunkten.",
+  "Offener Punkt §11 — Juna-POV offen: Erscheinungsmodi gelockt; ob sie eigene POV-Kapitel hat, ist offen (falls ja: Compassion Fatigue + ängstlicher Bindungsstil + temporär unzuverlässige Erzählerin).",
+  "Offener Punkt §11 — Genesis-Beat-Anzahl und Alex-Präsenz (Konzept-Konflikt): Aktueller Lock-In vier Beats (Kompendium 2026-05-31); Alex entstand laut Charakter-Bibel „in der Sekunde der Fragmentierung\" — strenggenommen kann Alex in Kap 0 vor dem Trennungsprotokoll nicht aktiv präsent sein; Reviewer-Frage offen.",
+  "Offener Punkt §11 — Argus typografisch: Marginalien-/Fußnoten-Inszenierung als Option, nicht verbindlich.",
+  "Erasure-Pol: Name offen, Detail offen — die alten Cerberus-/LogOS-/Kairos-Funktionen sind dort absorbiert.",
+  "Schluss-Hinweis §13: Das Dokument ist nicht der Roman, sondern der Boden, auf dem er entsteht; der Roman zeigt nicht die ganze Architektur — das meiste bleibt unter der Oberfläche, Foreshadowing ohne Befreiung, Spannung ohne Auflösung — bis zum Vortex. Jede der dreizehn Stimmen (plus AEGIS, Mnemosyne, Juna als Wirkung) muss eine Szene allein tragen können.",
+  "Kael-Daten: Wohneinheit 14/Sektor 7/Wohneinheit 734-K — die doppelte Wohneinheit-Angabe stammt wörtlich aus dem Quelldokument (mögliche Inkonsistenz, nicht aufgelöst).",
+  "Silas' Akt-III-Funktion verweist auf das Gödel-Gambit (Begriff im Dokument nicht weiter definiert; vermutlich in begriffe-und-konzepte_2026-06-10.md spezifiziert).",
+  "Möglichkeits-Garten (KW4) als Ort, an dem Selene wartet, und Mnemosyne-Archipel als Klimax-Setting — Welt-Slugs hier vorläufig als moeglichkeits-garten und mnemosyne-archipel angesetzt; verbindliche World-Slugs bei World-Bible-Ingestion abgleichen."
+ ]
+}
