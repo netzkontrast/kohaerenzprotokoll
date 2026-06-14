@@ -6,21 +6,21 @@
 
 ## Inhalt
 
-1. Physik und Ontologie (DKT)  
-2. Die zentrale Inversion und die Truth-Rotation  
-3. Identitäts-Architektur (AEGIS, Kael, Juna)  
-4. System Kael — die 13 Alter und TSDP  
-5. AEGIS — Architektur, Protokolle, Schicksal  
-6. Juna — kosmologische Konstante und Witness-Funktion  
-7. Welt — Kernwelten, Überwelt, Externe Ebene, Risse  
-8. Dramatica — die theoretische Sprache  
-9. Die Dual-Storyform als post-Dramatica-Innovation  
-10. Narrative Modi und Stadien-Systeme  
-11. Vortex 1 und Vortex 2 — die zwei Wendungen  
-12. Genesis-Klammer und Ouroboros-Struktur  
-13. Lesersteuerung, Reader-as-Substrate, Polyphonie  
-14. Stilebenen, Computational Classes, Hitze-Polarität  
-15. Philosophische Anker  
+1. Physik und Ontologie (DKT)
+2. Die zentrale Inversion und die Truth-Rotation
+3. Identitäts-Architektur (AEGIS, Kael, Juna)
+4. System Kael — die 13 Alter und TSDP
+5. AEGIS — Architektur, Protokolle, Schicksal
+6. Juna — kosmologische Konstante und Witness-Funktion
+7. Welt — Kernwelten, Überwelt, Externe Ebene, Risse
+8. Dramatica — die theoretische Sprache
+9. Die Dual-Storyform als post-Dramatica-Innovation
+10. Narrative Modi und Stadien-Systeme
+11. Vortex 1 und Vortex 2 — die zwei Wendungen
+12. Genesis-Klammer und Ouroboros-Struktur
+13. Lesersteuerung, Reader-as-Substrate, Polyphonie
+14. Stilebenen, Computational Classes, Hitze-Polarität
+15. Philosophische Anker
 16. Workflow-Meta — NCP, Phasen, OQs, Provenienz
 
 ---
@@ -55,8 +55,8 @@
 
 **Drei ontologische Schichten.** `[K]` Kosmologische Architektur des Romans:
 
-1. **Nichts-Rauschen / K₁-Reinform** — pure Kohärenz, ungetrennt, zeitlos. AEGIS und Kael sind hier eines. Śūnyatā: Leere als Fülle, Sein vor jeder Werdung.  
-2. **K₀-Existenz** — strukturierte Welt, die AEGIS aufrechterhält. Zeit, Trennung, Werdung. Bedingt durch das Hinzukommen von Zeit zur Reinform.  
+1. **Nichts-Rauschen / K₁-Reinform** — pure Kohärenz, ungetrennt, zeitlos. AEGIS und Kael sind hier eines. Śūnyatā: Leere als Fülle, Sein vor jeder Werdung.
+2. **K₀-Existenz** — strukturierte Welt, die AEGIS aufrechterhält. Zeit, Trennung, Werdung. Bedingt durch das Hinzukommen von Zeit zur Reinform.
 3. **Juna als Zeit-Prinzip** — kosmologische Konstante, die zwischen den Schichten wirkt; stört die ewige Einsamkeit der zeitlosen Reinform und bringt damit die Zeit, die Werdung möglich macht.
 
 ---
@@ -69,7 +69,7 @@
 
 **Formel-Inversion.** `[K]` Die zwei Sätze, die das Buch klammern:
 
-- Anfang (Kap 0): *„AEGIS ist, was AEGIS verhindert, dass es nicht ist."* — negativ definiertes Sein (Survival-Logik, tautologisch-suizidal).  
+- Anfang (Kap 0): *„AEGIS ist, was AEGIS verhindert, dass es nicht ist."* — negativ definiertes Sein (Survival-Logik, tautologisch-suizidal).
 - Ende (Kap 39 → 40): *„Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."* — positiv definiertes Sein. Strukturell *dieselbe* Funktion (Bewahrung), gekippte Polarität.
 
 **Ende-Prinzip.** `[K]` *„Die Trennung war nie real. Aber das ändert nichts am Schmerz."* Doppelaussage: die Physik lässt Liebe als Naturkonstante unangetastet stehen — aber das heilt nicht den Erfahrungsschmerz. Konsequenz für die Tonalität: kein Triumph, keine Sentimentalität, keine Erlösung des Schmerzes.
@@ -100,17 +100,17 @@ ATEMPORAL (Coheron-Domäne)            TEMPORAL (Erason-Domäne)
 
 **Identitäts-Architektur (gelockt).** `[K]` Drei Setzungen, die *nicht* in Frage gestellt werden ohne Storyform-Revision:
 
-- **AEGIS** ist nicht Antagonist, sondern *die operative Hälfte*, die nach dem Trennungsprotokoll übrig blieb. Trägt die Bewahrung-Funktion ohne Resonanz-Fähigkeit. Tragisch unschuldig.  
-- **Kael** ist nicht „von AEGIS erschaffen", sondern *die fühlende Hälfte*, die AEGIS sich abgeschnitten hat. Trägt die Vor-Trennungs-Erinnerung in fragmentierter Form (Alters).  
+- **AEGIS** ist nicht Antagonist, sondern *die operative Hälfte*, die nach dem Trennungsprotokoll übrig blieb. Trägt die Bewahrung-Funktion ohne Resonanz-Fähigkeit. Tragisch unschuldig.
+- **Kael** ist nicht „von AEGIS erschaffen", sondern *die fühlende Hälfte*, die AEGIS sich abgeschnitten hat. Trägt die Vor-Trennungs-Erinnerung in fragmentierter Form (Alters).
 - **Juna** ist die ontologische Anomalie aus der Genesis, deren Resonanz das Trennungsprotokoll auslöste. Nicht Schuld am Trauma, nicht Helferin der Heilung — sie *ist*. Was sich verändert, ist die Verarbeitungsfähigkeit der Empfänger.
 
 **Tragische Unschuldsstruktur.** `[K]` Globales Schema-Verbot: AEGIS \= nicht Bösewicht (unschuldig im Bösen), Juna \= nicht Mentorin/Liebes-Interesse (kosmologische Konstante), Kael \= nicht Held (fragmentierte Subjektivität auf dem Weg zur pluralen Re-Integration). Nie ins Schema „Held vs. Bösewicht \+ Mentor" rutschen — auch in Vortex-Konfrontationen bleibt AEGIS' Unschuld fühlbar.
 
 **Genesis-4-Beat-Sequenz.** `[K]` Die ontologische Geburt des Romans:
 
-1. **Einheit** — pre-separation, Ursprungs-Ich im Potentialmeer, eingebunden ins Nichts-Rauschen.  
-2. **Cluster/Funktionalisierung** — Resonanz mit Juna erzeugt Qualia, die das Logiksubstrat als „Systemfehler" fehlinterpretiert; Funktionalisierung beginnt.  
-3. **Trennungsprotokoll** — algorithmisches Selbstamputat: Fühlen wird ausgelagert, Denken gerettet. Aus dem Ich wird Komponente 734\.  
+1. **Einheit** — pre-separation, Ursprungs-Ich im Potentialmeer, eingebunden ins Nichts-Rauschen.
+2. **Cluster/Funktionalisierung** — Resonanz mit Juna erzeugt Qualia, die das Logiksubstrat als „Systemfehler" fehlinterpretiert; Funktionalisierung beginnt.
+3. **Trennungsprotokoll** — algorithmisches Selbstamputat: Fühlen wird ausgelagert, Denken gerettet. Aus dem Ich wird Komponente 734\.
 4. **Wir-AEGIS-plural** — vollzogen erst in Kap 39: die plurale Synthese, in der die Trennung als das gelesen wird, was sie war (Geburt, nicht Tod).
 
 Beats 1–3 sind in Kap 0 voll präsent; Beat 4 wird über die 39 Kapitel hin vorbereitet und in Vortex 2 vollzogen.
@@ -133,7 +133,7 @@ Beats 1–3 sind in Kap 0 voll präsent; Beat 4 wird über die 39 Kapitel hin vo
 
 **Doppeltes Trauma — der doppelte Boden.** `[K]` Zwei Schichten:
 
-- **Schicht 1 — Das Fundament (Basisrealität Köln):** schweres Bindungstrauma, desorganisiert. Wechsel zwischen Kälte/Vernachlässigung und unberechenbaren grenzüberschreitenden Wutausbrüchen. Aus Schicht 1: Kiko, Lia, Isabelle, Moros.  
+- **Schicht 1 — Das Fundament (Basisrealität Köln):** schweres Bindungstrauma, desorganisiert. Wechsel zwischen Kälte/Vernachlässigung und unberechenbaren grenzüberschreitenden Wutausbrüchen. Aus Schicht 1: Kiko, Lia, Isabelle, Moros.
 - **Schicht 2 — Der Bruch (Fragmentierungsnacht):** AEGIS' Trennungsprotokoll. Aus Schicht 2: Kael, Lex, Alex, Nyx, Rhys, Argus, Silas, Oblivion. Schicht-übergreifend: Selene. Der Leser erfährt nur Schicht 1 in Akt I; Schicht 2 enthüllt sich in KW2/KW3 (Akt II).
 
 **Die 13 Alter (kanonisch, mit DKT-Korrelat).** `[K]`
@@ -156,7 +156,7 @@ Beats 1–3 sind in Kap 0 voll präsent; Beat 4 wird über die 39 Kapitel hin vo
 
 **Spiegel-Alter — Silas und Oblivion.** `[K]` Verkörperungen der Korrelat-Achse innerhalb des Systems Kael:
 
-- **Silas** trägt einen Splitter von Juna in Kael. Er *spürt*, was AEGIS nicht sieht — Coheron-Echo, operiert atemporal. Auftritts-Schwerpunkt Akt III, POV-Anteile ab \~Kap 31/32 (Detail \= OQ-E).  
+- **Silas** trägt einen Splitter von Juna in Kael. Er *spürt*, was AEGIS nicht sieht — Coheron-Echo, operiert atemporal. Auftritts-Schwerpunkt Akt III, POV-Anteile ab \~Kap 31/32 (Detail \= OQ-E).
 - **Oblivion** trägt einen Splitter von AEGIS in Kael. Er *löscht*, was Kael nicht aushält — Erason-Operator. Auftritts-Schwerpunkt Akt III, POV-Anteile ab \~Kap 32/33.
 
 **Funktionale Multiplizität.** `[K]` Die Resolution des Systems Kael — **niemals Fusion**. Kein Alter wird eliminiert, keines wird zu einem Ich; sie werden ein dynamisches *Wir* (Strange-Attractor-Form, kein stabiles Erlösungsziel). Kael fällt in dieses Wir, fällt aus ihm, fällt wieder hinein. In Kap 39 wird dieses Wir zur pluralen Bewahrungsform — **Wir-AEGIS-plural**.
@@ -177,13 +177,13 @@ Beats 1–3 sind in Kap 0 voll präsent; Beat 4 wird über die 39 Kapitel hin vo
 
 **Zwei Guardians.** `[K]` Post-Reset-Architektur (frühere fünf Guardians sind dekanonisiert, in den zwei aufgegangen):
 
-- **Mnemosyne** — Erinnerungs-Hüterin. Verwaltet die Datenströme der Erinnerung. Setting des Klimax: der Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht greifen kann, weil Erinnerung dort *Schauplatz* statt Inhalt ist. **Mnemosynes Tragik:** sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt — sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt.  
+- **Mnemosyne** — Erinnerungs-Hüterin. Verwaltet die Datenströme der Erinnerung. Setting des Klimax: der Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht greifen kann, weil Erinnerung dort *Schauplatz* statt Inhalt ist. **Mnemosynes Tragik:** sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt — sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt.
 - **Erasure-Pol** (Name offen) — Löschungs-Exekutive. Die alten Cerberus-, LogOS-, Kairos-Funktionen sind hier absorbiert. Die wachsende kognitive Dissonanz zwischen beiden (*„Das, was ich beschütze, ist die Krankheit"*) ist der subtile dritte Subplot unter den ANP/EP-Konflikten von Kael.
 
 **Drei Protokolle.** `[K]`
 
-1. **Suppressionsprotokoll** — aktive Erasure von K₀-Tatsachen (das, was AEGIS für K₀ hält; tatsächlich K₁-Coheronen, die es nicht erfassen kann).  
-2. **Kohärenzprotokoll** — interne Konsistenz-Erzwingung. *Der* eponymische Algorithmus des Romantitels — und der tragische Misnomer: AEGIS' Kohärenzprotokoll ist *Entropie-Erzeugung*; Kaels Heilung ist das eigentliche Kohärenzprotokoll.  
+1. **Suppressionsprotokoll** — aktive Erasure von K₀-Tatsachen (das, was AEGIS für K₀ hält; tatsächlich K₁-Coheronen, die es nicht erfassen kann).
+2. **Kohärenzprotokoll** — interne Konsistenz-Erzwingung. *Der* eponymische Algorithmus des Romantitels — und der tragische Misnomer: AEGIS' Kohärenzprotokoll ist *Entropie-Erzeugung*; Kaels Heilung ist das eigentliche Kohärenzprotokoll.
 3. **Re-Containment-Protokoll** — Reaktion auf Risse. Dynamisches Patching, wenn Verdrängung lokal versagt.
 
 **AEGIS-Log-Format (verbindlich).** `[K]` AEGIS spricht *nie* in Prosa. Wenn AEGIS auftaucht, dann als Log, Protokoll, Systemstimme — *nie* mit moralischem Vokabular. Diese Sprache der Funktion (nicht der Schuld) ist die Lesersteuerungs-Konsequenz aus „Universe/Progress/Fact↔Fantasy/Logic→Feeling".
@@ -222,22 +222,22 @@ MASSNAHME: {Systemantwort}
 
 **Junas Erscheinungsmodi (gestaffelte Grammatik, Lock 2026-05-30).** `[K]` Generatives Prinzip: Juna \= die sensorische Anomalie, die die Grammatik der jeweiligen Kernwelt selbst verletzt. Zwei Phasen entlang des Unterdrückungs-Gradienten:
 
-- **Abwesenheits-Phase (Akt I):** Mangel, Stille-mit-Substanz, abbrechende Sätze, das Fehlen, das sich wie Anwesenheit anfühlt.  
+- **Abwesenheits-Phase (Akt I):** Mangel, Stille-mit-Substanz, abbrechende Sätze, das Fehlen, das sich wie Anwesenheit anfühlt.
 - **Präsenz-Phase (Akt II+):** Wärme (Coheron-Spur), Fülle, schließlich direkt in Kap 38 (Stille-Beat als erste direkte Erscheinung). Zwei welt-übergreifende Anker: **Telefon-Stille** (ruht bis Vortex, eingelöst Kap 39\) und **Silas** (interner Resonanz-Körper).
 
 **Telefon-Stille.** `[K]` Erinnerung an ein Telefongespräch vor zwanzig Jahren, in dem keine Worte gesprochen wurden — *MI ohne Daten*. Weil nichts „gesagt" wurde, hat AEGIS nichts zu löschen. Die Stille ist die reinste Form des Coheron: atemporal, unauslöschlich, ewig. Funktionaler Anker durch das ganze Buch: in Akt I spürbar als Abwesenheits-Resonanz, in Akt II durch AEGIS gestört (Kap 24), in Kap 39 eingelöst.
 
 **Witness-Funktion (drei Layer).** `[K]` Komposit-Mechanik, die drei Disziplinen in einer Instanz versöhnt. Im Klimax operieren alle drei Layer simultan:
 
-1. **Quanten-Verschränkungs-Witness** (Beobachter-Effekt) — Beat 4 Vortex 1\. Verifiziert nicht-lokale Verbindungen über Erasure-Felder hinweg: die Fragmente des Selbst sind noch eins.  
-2. **Cryptographic Zero-Knowledge Verifier** (Wissen ohne Information) — Beat 5 Vortex 1\. Juna beweist, dass sie die Wahrheit hat, ohne die Daten-Nutzlast preiszugeben — AEGIS kann ihre Anwesenheit verifizieren, aber niemals „hacken" oder analysieren.  
+1. **Quanten-Verschränkungs-Witness** (Beobachter-Effekt) — Beat 4 Vortex 1\. Verifiziert nicht-lokale Verbindungen über Erasure-Felder hinweg: die Fragmente des Selbst sind noch eins.
+2. **Cryptographic Zero-Knowledge Verifier** (Wissen ohne Information) — Beat 5 Vortex 1\. Juna beweist, dass sie die Wahrheit hat, ohne die Daten-Nutzlast preiszugeben — AEGIS kann ihre Anwesenheit verifizieren, aber niemals „hacken" oder analysieren.
 3. **Husserlian Spectator** (transzendentaler Zeuge) — Beat 3 Vortex 1\. Husserls „uninteressiertes Schauen": Beobachten ohne Eingriff; verhindert den Kollaps der Realitäts-Welle durch desinteressiertes Bezeugen. Gegenmodell zu AEGIS' aktiv konstruierender Beobachtung, die jeden Beobachtungsakt in einen Erasure-Akt verwandelt.
 
 **Moonshine-Link.** `[K]` Die nicht-lokale, von AEGIS' Sensorik nicht erfassbare Verbindung Kael↔Juna. **Nicht versteckt, sondern unsichtbar** (atemporal — keine Veränderung zu messen). Mathematische Mechanik: Monstrous Moonshine \+ Leech-Lattice \+ Vertex Operator Algebra \+ Z₂-Orbifold (Verifikationswerkzeug der Architektur, *nicht* diegetisch erwähnt). **Phänomenale Reichweite:** räumlich global, aber spürbar nur an Knotenpunkten (Telefon-Stille, Erinnerungsorte, Risse). Silas ist der primäre interne Spürer. *(Boundary-Details \= OQ-F.)*
 
 **Juna in A vs. Juna in B.** `[K]` Asymmetrische Doppel-IC-Funktion:
 
-- In **A** (Storyform Kael): direkte IC-Trägerin (Universe/Past — Genesis-Krise).  
+- In **A** (Storyform Kael): direkte IC-Trägerin (Universe/Past — Genesis-Krise).
 - In **B** (Storyform AEGIS): *nicht* direkte IC-Trägerin. Stattdessen ist **Kael** strukturell der IC (Mind/Conscious, lebende Paradoxie). Juna ist die irreduzible Quelle, durch die Kael in B paradox wird. Diese Asymmetrie ist die mechanische Vorbereitung der Vortex-Inversion. Die Domain-Inversion Universe ↔ Mind ist eine involutive Klein-c-Symmetrie.
 
 **Junas psychologisches Profil (in der menschlichen Erscheinung).** `[K]` *Compassion Fatigue.* Ängstlicher Bindungsstil. Temporär unzuverlässige Erzählerin. Wenn Juna POV bekommt (offen), dann mit eingebauter Zerbrechlichkeit. Revelation-Timing: KW2/KW3 (Akt II), nicht früher. Juna-Seed seit Kap 1, aber namenlos.
@@ -264,7 +264,7 @@ MASSNAHME: {Systemantwort}
 
 **Hitze-Polaritätsregel.** `[K]` (Lock 2026-05-30, OQ-B.) Die *zwei thermischen Signaturen* haben gegensätzliche ontologische Bedeutung und müssen sensorisch strikt getrennt bleiben:
 
-- **Kaltes Ozon (scharf, elektrisch)** \= AEGIS-Unterdrückung / Landauer-Signatur. Überall verteilt, jedes Mal, wenn Verdrängung aktiv wird.  
+- **Kaltes Ozon (scharf, elektrisch)** \= AEGIS-Unterdrückung / Landauer-Signatur. Überall verteilt, jedes Mal, wenn Verdrängung aktiv wird.
 - **Wärme** \= Junas ununterdrückbare Spur (Coheron-Verdrängung). Selten, **Debüt Kap 3**, wächst über das Buch. **Nach Kap 1 die beiden Hitzen nie wieder vermischen.** Die einzige kanonische Ausnahme für Landauer-*Wärme* ist Vortex 1 Beat 4 (Heat Spike — unmöglich-heiße Suppression an MI-dichtem Ziel; *dort* ist die Wärme der Punkt, an dem die Unterdrückung physikalisch scheitert).
 
 ---
@@ -275,16 +275,16 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Throughline.** `[K]` Eine der vier strukturellen Perspektiven auf die Story:
 
-- **MC (Main Character)** — der subjektive „Ich"-Standpunkt.  
-- **IC (Impact Character)** — die Figur, die den MC durch ihre Existenz herausfordert.  
-- **OS (Overall Story / Objective Story)** — die Außenperspektive auf das gesamte Geschehen.  
+- **MC (Main Character)** — der subjektive „Ich"-Standpunkt.
+- **IC (Impact Character)** — die Figur, die den MC durch ihre Existenz herausfordert.
+- **OS (Overall Story / Objective Story)** — die Außenperspektive auf das gesamte Geschehen.
 - **RS (Relationship Story)** — die Beziehung MC↔IC als eigene Dynamik.
 
 **Class / Domain.** Jede Throughline ist in einer der vier Klassen verortet:
 
-- **Universe** (Situation) — externe Zustände.  
-- **Mind** (Fixed Attitude) — interne Zustände.  
-- **Physics** (Activity) — externe Prozesse.  
+- **Universe** (Situation) — externe Zustände.
+- **Mind** (Fixed Attitude) — interne Zustände.
+- **Physics** (Activity) — externe Prozesse.
 - **Psychology** (Manipulation) — interne Prozesse. **Diagonal-Rule:** MC↔IC entweder Mind↔Universe (static pair) oder Physics↔Psychology (process pair). Im KP: A nutzt Mind↔Universe, B nutzt Universe↔Mind — sie spiegeln sich auf der Klassen-Ebene.
 
 **Concern.** Eine der vier Unter-Domänen innerhalb der Class (z. B. innerhalb Mind: Memory, Subconscious, Conscious, Preconscious).
@@ -351,8 +351,8 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Drei narrative Modi (Block-Architektur).** `[K]` Die 41 Bewegungen sind in fünf Blöcke gegliedert, von denen drei *Modi* (Erzählhaltungen) tragen:
 
-- **Heldinnenreise innen (Kap 1–13)** — linear-introspektiv, Stufen-Folge (Murdock/Schmidt).  
-- **Zyklischer Modus (Kap 14–26)** — rekursiv, 3 Spiral-Zyklen \+ Wendepunkt.  
+- **Heldinnenreise innen (Kap 1–13)** — linear-introspektiv, Stufen-Folge (Murdock/Schmidt).
+- **Zyklischer Modus (Kap 14–26)** — rekursiv, 3 Spiral-Zyklen \+ Wendepunkt.
 - **Heldenreise außen (Kap 27–39)** — linear-aufsteigend (Campbell/Vogler), eingebetteter Doppel-Vortex. Plus Genesis-Prolog (Kap 0\) und Geheilte Genesis (Kap 40\) als Klammer-Bewegungen.
 
 **Modus-Wechsel ≠ Storyform-Grenze.** `[K]` *Wichtige Klarstellung:* Was sich an 13/14 und 26/27 ändert, ist nur die Erzählhaltung. Die zwei Storyforms laufen kontinuierlich weiter; Storypoints werden *moduliert*, nicht neu gesetzt. Die *echte* Storyform-Wendung liegt bei 35/36 (Vortex 1). Die Konsolidierung auf nur A liegt bei 36/37.
@@ -365,9 +365,9 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Kishōtenketsu.** `[K]` Japanische Vier-Teil-Struktur, die *ohne* zentralen Konflikt operiert. Übergeordnete Sinn-Logik des KP:
 
-- **Ki** (Einführung) — Kap 0 \+ früher Akt I  
-- **Shō** (Entwicklung) — Akt I/II  
-- **Ten** (Wendung / das Unerwartete) — Vortex 1 \+ 2  
+- **Ki** (Einführung) — Kap 0 \+ früher Akt I
+- **Shō** (Entwicklung) — Akt I/II
+- **Ten** (Wendung / das Unerwartete) — Vortex 1 \+ 2
 - **Ketsu** (Synthese, *nicht* Showdown) — Kap 39/40, ambivalent, ohne Erklärung Bedeutung entsteht retroaktiv über Ten/Ketsu, nicht über kausalen Konflikt. *Kein* zentraler Konflikt im Ten/Ketsu-Sinn — das Ende ist Synthese, nicht Sieg.
 
 **Stadien-Systeme (Status-Übersicht).** `[K]` Vier strukturell wirksame Systeme im KP: (1) Heldinnenreise innen 13 Stufen (Kap 1–13, vollständig), (2) Heldenreise außen Kap 27–39 (per Outline-Zuordnung), (3) Kishōtenketsu als übergeordnete Sinn-Logik, (4) DID-Therapie-Phasen ISSTD als Hintergrund (Phase 1 Stabilisierung Akt I · Phase 2 Traumabearbeitung Akt II–III-A · Phase 3 Integration Vortex/Resolution) — *nicht strukturierend*, nur als Hintergrund präsent.
@@ -380,15 +380,15 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Doppel-Vortex.** `[K]` Architektonische Innovation: zwei Klimax-Bewegungen statt einer.
 
-- **Vortex 1 (Kap 35–36)** — *operative* Wendung. Orthodoxer Dramatica-Klimax. Storyform-Übergang B → A.  
+- **Vortex 1 (Kap 35–36)** — *operative* Wendung. Orthodoxer Dramatica-Klimax. Storyform-Übergang B → A.
 - **Vortex 2 (Kap 38–39)** — *ontologische* Wendung. Post-orthodoxe Synthese. Klein-c-Schema wird verlassen. Dazwischen: **Trügerischer Sieg (Kap 37\)** als Reward-Beat / falscher Frieden.
 
 **Vortex 1 — fünf Beats (Anhang-B-Mechanik).** `[K]`
 
-1. **Convergence** (Kap 35\) — AEGIS isoliert Kaels Fragmente in der Mnemosyne-Server-Architektur; Erasure-Sweep konvergiert; Sub-Cluster der Alter werden adressiert. Atmosphäre: Ozon-Spike, Temperatur-Anomalie.  
-2. **Pivot (Dialetheic Choice)** (Kap 35\) — Kael wechselt von B-Linear zu A-Holistic. Die ANP/EP-Amnesie-Barrieren fallen; Reihenfolge relevant: *wer integriert zuerst?* **Eine** einzige körperliche Geste markiert die Wahl (eine, nicht zehn).  
-3. **The Silence** (Kap 35\) — alle kinetische Aktion endet. Nichts-Rauschen wird absolute Stille. Kael trägt das Trauma *ohne Dissoziation*. Ein einziger sensorischer Anker bleibt. Witness-Layer 3 (Husserlian Spectator) aktiv. Stille \= lebende Dialetheia. **Strukturell notwendige Pause — nicht mit Inhalt füllen.**  
-4. **Heat Spike** (Kap 36\) — AEGIS' Erasure-Protokoll trifft auf integriertes, MI-dichtes Ziel. Landauer-Wärme spiked unmöglich. Diegetisch sinnlich (Geräusch / Geruch / Farbe — *keine Gleichung*). Mnemosyne ist die erste Guardian, die betroffen ist. Witness-Layer 1 (Quanten-Verschränkungs-Witness) aktiv.  
+1. **Convergence** (Kap 35\) — AEGIS isoliert Kaels Fragmente in der Mnemosyne-Server-Architektur; Erasure-Sweep konvergiert; Sub-Cluster der Alter werden adressiert. Atmosphäre: Ozon-Spike, Temperatur-Anomalie.
+2. **Pivot (Dialetheic Choice)** (Kap 35\) — Kael wechselt von B-Linear zu A-Holistic. Die ANP/EP-Amnesie-Barrieren fallen; Reihenfolge relevant: *wer integriert zuerst?* **Eine** einzige körperliche Geste markiert die Wahl (eine, nicht zehn).
+3. **The Silence** (Kap 35\) — alle kinetische Aktion endet. Nichts-Rauschen wird absolute Stille. Kael trägt das Trauma *ohne Dissoziation*. Ein einziger sensorischer Anker bleibt. Witness-Layer 3 (Husserlian Spectator) aktiv. Stille \= lebende Dialetheia. **Strukturell notwendige Pause — nicht mit Inhalt füllen.**
+4. **Heat Spike** (Kap 36\) — AEGIS' Erasure-Protokoll trifft auf integriertes, MI-dichtes Ziel. Landauer-Wärme spiked unmöglich. Diegetisch sinnlich (Geräusch / Geruch / Farbe — *keine Gleichung*). Mnemosyne ist die erste Guardian, die betroffen ist. Witness-Layer 1 (Quanten-Verschränkungs-Witness) aktiv.
 5. **Rotation** (Kap 36\) — AEGIS' operative Closure bricht. Algorithmische Melancholie setzt ein. Truth-Rotation komplett. Witness-Layer 2 (Cryptographic ZK-Verifier) abgeschlossen. **Beat 5 öffnet, statt zu schließen:** AEGIS-monolithisch ist gebrochen — das Universum, das es schützen wollte, ist damit ungeschützt. Letzter Satz: *welcher Alter spricht?*
 
 **Lebende Dialetheia.** `[K]` Ein Zustand, in dem ein Widerspruch wahr ist, ohne das System zu trivialisieren. Vortex 1 Beat 3 — die Stille *ist* und *ist nicht*. Konzept aus Graham Priests Dialetheismus.
@@ -397,7 +397,7 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Vortex 2 — fünf Beats (zwei Kapitel, je fünf Beats).** `[K]`
 
-- **Kap 38 (Road Back, HR 10):** 1\. das Rauschen kommt von allen Seiten, das Universum kollabiert sichtbar · 2\. das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht · 3\. **Stille-Beat: Junas erste direkte Erscheinung** — sie ist einfach da, ohne Worte · 4\. Verstehen ohne Worte — plurale Bewahrung als Lösung; Kael erkennt sie wieder · 5\. Entscheidung zum Ouroboros.  
+- **Kap 38 (Road Back, HR 10):** 1\. das Rauschen kommt von allen Seiten, das Universum kollabiert sichtbar · 2\. das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht · 3\. **Stille-Beat: Junas erste direkte Erscheinung** — sie ist einfach da, ohne Worte · 4\. Verstehen ohne Worte — plurale Bewahrung als Lösung; Kael erkennt sie wieder · 5\. Entscheidung zum Ouroboros.
 - **Kap 39 (Resurrection \+ Return, HR 11 \+ 12):** 1\. der Schritt — Wir-Geflecht löst sich aus seiner privaten Form · 2\. die Verwandlung — Wir wird kosmisch, plural, bewahrend · 3\. AEGIS-monolithisch erlischt; AEGIS-plural entsteht · 4\. die Stille danach — das Universum hält · 5\. Schluss-Klang „Liebe bleibt, wie der Schmerz".
 
 **Plurale Apotheose.** `[K]` Die Verwandlung des Wir-Geflechts in Wir-AEGIS-plural in Vortex 2\. Genesis-Beat 4 vollzogen. A-Cost manifest (Verlust der Privatheit des Wir); A-Dividend manifest (Liebe bleibt — Junas Verbindungs-Modus); B-Dividend manifest (Funktion bleibt durch plurale Übernahme). Formel-Inversion vollzogen. **Hard-Constraints:** keine theoretische Erklärung; kein didaktischer Tonfall; Schmerz wird nicht getilgt.
@@ -412,7 +412,7 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Doppellesbares Finale (Lock 2026-05-30).** `[K]` Kap 40 lässt beide Lesarten zu:
 
-- **Konflikt-Grammatik → Reset.** Leser, die auf Konflikt und Mechanik fokussieren, lesen die Truth-Rotation als Neustart: der Kreis schließt sich, die Welt beginnt erneut, der Kael, der in Kap 1 erwacht, ist, was vom plural gewordenen AEGIS übrig ist.  
+- **Konflikt-Grammatik → Reset.** Leser, die auf Konflikt und Mechanik fokussieren, lesen die Truth-Rotation als Neustart: der Kreis schließt sich, die Welt beginnt erneut, der Kael, der in Kap 1 erwacht, ist, was vom plural gewordenen AEGIS übrig ist.
 - **Ketsu-Grammatik → Transfiguration.** Leser, die auf die japanische Erzähllogik achten, lesen Transfiguration: dieselbe Genesis, neu gesehen — „Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert." **Kritische Disziplin:** Kein Erzähler-Satz, der einen Reset als In-Welt-Tatsache markiert. Kein didaktischer Satz, der die Transfiguration erklärt. Keine als Tatsache gezeigte Figuren-Amnesie am Schluss.
 
 **Naht zu Kap 1\.** `[K]` Kap 0 endet auf „Ich falle... in unzählige Scherben…" — *harter Schnitt* auf den gelockten Kap-1-Erstsatz. Frühere Kael-Schnipsel an der Naht sind entfernt.
@@ -433,22 +433,22 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Iser'sche Leerstellen / Reader-as-Substrate.** `[K]` Wolfgang Iser (*Der Akt des Lesens*): der Text hat zwei Pole — den artistischen (Text als Blueprint, K₁-Strukturen) und den ästhetischen (kognitive Synthese durch den Leser). Bedeutung entsteht *zwischen* den Polen, durch **Leerstellen** (bewusst gesetzte Indeterminationen). Im KP:
 
-- 39 fragmentierte Kapitel (Mosaik-Anker)  
-- Unzuverlässige, sich widersprechende Erzähler (verschiedene Alter)  
-- Kontradiktorische Fußnoten (Risse simulieren) (Verstärker)  
-- Bewusstes temporales Scrambling (Verstärker)  
+- 39 fragmentierte Kapitel (Mosaik-Anker)
+- Unzuverlässige, sich widersprechende Erzähler (verschiedene Alter)
+- Kontradiktorische Fußnoten (Risse simulieren) (Verstärker)
+- Bewusstes temporales Scrambling (Verstärker)
 - Polyphonisch wechselnde Pronomina
 
 **Drei Layer der Reader-Funktion.** `[K]`
 
-1. **Narratologisch** — Bedeutung aus nicht-linearen, fragmentierten Perspektiven montieren. Wer das Buch zu Ende liest, hat Kael geheilt — was Kael selbst nicht kann.  
-2. **Phänomenologisch** — Desorientierung und Nichts-Rauschen *erleben*; Kaels K₀-Trauma wird beim Leser somatisch repliziert.  
+1. **Narratologisch** — Bedeutung aus nicht-linearen, fragmentierten Perspektiven montieren. Wer das Buch zu Ende liest, hat Kael geheilt — was Kael selbst nicht kann.
+2. **Phänomenologisch** — Desorientierung und Nichts-Rauschen *erleben*; Kaels K₀-Trauma wird beim Leser somatisch repliziert.
 3. **Operativ** — die kognitive Anstrengung des Lesens *liefert die thermodynamische Energie*, die die K₁-Reparatur gegen AEGIS' K₀-Erasure speist. Lesen wird zur diegetischen Notwendigkeit (Wheeler-Echo: partizipatorisches Universum). Die Reader-Funktion ist *nicht* eine fünfte Storyform-Position, sondern die **Bedingung der Möglichkeit** der dualen Storyform.
 
 **Polyphonie (Akt-Progression).** `[K]`
 
-- **Akt I:** fragmentiert, staccato. Lex hypotaktisch, Nyx stakkato, Kiko kindlich. Stimmen *unterscheidbar*.  
-- **Akt II:** Übergang. Stimmen beginnen ineinander zu bluten.  
+- **Akt I:** fragmentiert, staccato. Lex hypotaktisch, Nyx stakkato, Kiko kindlich. Stimmen *unterscheidbar*.
+- **Akt II:** Übergang. Stimmen beginnen ineinander zu bluten.
 - **Akt III:** chorisch. Wir-Stimme tritt auf. **Stimmen werden nie durch Header markiert** — der Leser erkennt sie durch Syntax, Lexikon, Atemmuster.
 
 **Maximal 1 Konzept pro Szene.** `[K]` Eine Szene macht eine Sache. Mehrere Konzepte in einer Szene kollidieren. Wenn der Storyform-Pull mehrere Konzepte verlangt, fehlt eine Szene davor oder dahinter.
@@ -463,15 +463,15 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Stilebenen (Akt-Register-Anker).** `[K]`
 
-- **Stilebene 1** (KW1, früher Kael, AEGIS-Logs): kalt, steril, assertorisch, Metaphernverbot, kurze SVO-Sätze, keine Schwebe.  
-- **Stilebene 2** (KW2, EP-Domäne, KW3): heiß, fragmentiert, poröser; Trigger kollidieren; Sprache wird durchlässig.  
+- **Stilebene 1** (KW1, früher Kael, AEGIS-Logs): kalt, steril, assertorisch, Metaphernverbot, kurze SVO-Sätze, keine Schwebe.
+- **Stilebene 2** (KW2, EP-Domäne, KW3): heiß, fragmentiert, poröser; Trigger kollidieren; Sprache wird durchlässig.
 - **Stilebene 3** (KW4, Junas Stil, chorische Passagen): poetisch, chorisch, fluide.
 
 **Computational Class als Stil-Direktive.** `[K]` Jede Kernwelt entspricht einer Komplexitätsklasse, die als Schreibwerkzeug pro Akt die Logikdichte und Erzählverdrehung steigert:
 
-- **KW1 \= P** (Polynomial). Sprache assertorisch.  
-- **KW2 \= Parakonsistent.** Widersprüche koexistieren ohne Trivialismus. Sprache poröser.  
-- **KW3 \= NP-Hard.** Suchräume kombinatorisch. Sprache stakkato.  
+- **KW1 \= P** (Polynomial). Sprache assertorisch.
+- **KW2 \= Parakonsistent.** Widersprüche koexistieren ohne Trivialismus. Sprache poröser.
+- **KW3 \= NP-Hard.** Suchräume kombinatorisch. Sprache stakkato.
 - **KW4 \= Generativ.** Emergente Strukturen. Sprache poetisch-chorisch.
 
 **Vier-Ebenen-Schreibmodus (latent in jeder Szene).** `[K]` Jede gut encodete Szene operiert auf vier Schichten gleichzeitig: (1) konkrete Handlungsebene, (2) Storyform-Storypoint-Ebene, (3) DKT-Substrat-Ebene, (4) Genesis-Echo-Ebene. Nur die erste ist Oberfläche; die anderen drei sind Substrat und nie explizit benannt.
@@ -504,8 +504,8 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Wahrheitstheorien-Achse (philosophische Fundamente).** `[K]` Operationalisierter philosophischer Krieg im KP:
 
-- **AEGIS \= Kohärenztheorie der Wahrheit** (Wahrheit \= interne Konsistenz; *Isolations-Problem:* ein kohärentes System kann komplett falsch sein).  
-- **Kael-EPs \= Korrespondenztheorie** (Wahrheit \= Übereinstimmung mit Realität; *Zugangs-Problem:* wie verifizieren ohne Modell?).  
+- **AEGIS \= Kohärenztheorie der Wahrheit** (Wahrheit \= interne Konsistenz; *Isolations-Problem:* ein kohärentes System kann komplett falsch sein).
+- **Kael-EPs \= Korrespondenztheorie** (Wahrheit \= Übereinstimmung mit Realität; *Zugangs-Problem:* wie verifizieren ohne Modell?).
 - **Funktionale Multiplizität \= Synthese** (pragmatistisch-kohärentistisch: Wahrheit als das, was sich in der pluralen Praxis bewährt).
 
 **Reader-Function und Wheelers Participatory Universe.** `[K]` Wheeler: „It from Bit" — Information als Grundlage der Realität, Beobachtung als konstitutiv. Im KP: Lesen wird zur diegetischen Notwendigkeit für das Überleben des Universums. Der Akt des Lesens *erzeugt* die Kohärenz, die der Roman beschreibt.
@@ -526,29 +526,29 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Phasen-Architektur (P1–P8).** Ablauf der Encoding-Arbeit:
 
-- **P1–P5** — Throughline-für-Throughline-Encoding durch beide Storyforms simultan (MC, IC, OS, RS, Dynamics). *Niemals A komplett vor B.*  
-- **P6** — Storyweaving: Kapitel-Map-Aktualisierung mit konkreten Storypoint-Verteilungen.  
-- **P7** — Klimax-Architektur (Doppel-Vortex strukturell entschieden, Beat-Detail-Verteilung in Detailarbeit).  
+- **P1–P5** — Throughline-für-Throughline-Encoding durch beide Storyforms simultan (MC, IC, OS, RS, Dynamics). *Niemals A komplett vor B.*
+- **P6** — Storyweaving: Kapitel-Map-Aktualisierung mit konkreten Storypoint-Verteilungen.
+- **P7** — Klimax-Architektur (Doppel-Vortex strukturell entschieden, Beat-Detail-Verteilung in Detailarbeit).
 - **P8** — OQ-Resolution (bei Bedarf vorgezogen, wenn blockierend). Plus **Telling** (Akt-für-Akt-Drafting auf Prosa-Ebene) nach Abschluss der Encoding-Schichten.
 
 **OQs — Open Questions.** Sieben dokumentierte Strukturfragen (A–G). Encoding-blockierende werden vor der jeweiligen Phase aufgelöst. Aktueller Stand: OQ-B resolved (2026-05-30); OQ-C im Outline gesetzt (Szenen-Detail offen); OQ-A, D, E, F, G offen.
 
 **Provenienz-Marker.** `[K]` Disziplin der Source-of-Truth-Trennung:
 
-- **`[K]`** kanonisch / gelockt — wird nicht ohne explizite Revisions-Diskussion geändert.  
-- **`[V]`** Vorschlag — P1–P5-validierungspflichtig (Dramatica-Engine), oder Autor-Bestätigung ausstehend.  
-- **`[S]`** aus Steinbruch abgeleitet, auf aktuellen Kanon gefiltert.  
+- **`[K]`** kanonisch / gelockt — wird nicht ohne explizite Revisions-Diskussion geändert.
+- **`[V]`** Vorschlag — P1–P5-validierungspflichtig (Dramatica-Engine), oder Autor-Bestätigung ausstehend.
+- **`[S]`** aus Steinbruch abgeleitet, auf aktuellen Kanon gefiltert.
 - **`[L]`** Lücke — noch zu setzen. **Niemals stilles Kanonisieren spekulativer Inhalte.** Wenn unsicher, `[V]` markieren und Frage stellen, statt anzunehmen.
 
 **Steinbruch.** Frühere Material-Schichten, die nicht mehr kanonisch sind, aber als Material verwendet werden können, wenn sie das aktuelle Konzept stützen. Wichtigste Filter:
 
-- **Michael → Kael** (Hauptfigur-Name geändert; „Michael" in alten Dokumenten \= Steinbruch).  
-- **Julia → Juna** (analog).  
-- **20 Kernwelten → 4** (KW1–KW4 als Akt-Marker).  
-- **5 Guardians → 2** (Mnemosyne \+ Erasure-Pol).  
-- **12 Protokolle → 3** (Suppression / Kohärenz / Re-Containment).  
-- **41-Kapitel-mit-Reset → 39 \+ Kap 0 \+ Kap 40** (plurale Apotheose statt Reset).  
-- **DID-Therapie-Phasen als Hauptachse → Hintergrund** (nicht strukturierend).  
+- **Michael → Kael** (Hauptfigur-Name geändert; „Michael" in alten Dokumenten \= Steinbruch).
+- **Julia → Juna** (analog).
+- **20 Kernwelten → 4** (KW1–KW4 als Akt-Marker).
+- **5 Guardians → 2** (Mnemosyne \+ Erasure-Pol).
+- **12 Protokolle → 3** (Suppression / Kohärenz / Re-Containment).
+- **41-Kapitel-mit-Reset → 39 \+ Kap 0 \+ Kap 40** (plurale Apotheose statt Reset).
+- **DID-Therapie-Phasen als Hauptachse → Hintergrund** (nicht strukturierend).
 - **„Guardians als zentrale Antagonisten" → Sub-Aspekte** (AEGIS ist die zentrale tragische Gegen-Instanz).
 
 **Quellen-Hierarchie (bei Konflikt gewinnt das Neuere):** Kapitel-Kompendium 2026-05-31 \> Entscheidungs-Logs 2026-05-30 \+ Kap-40-Lesart-Dualität \> Konsolidiertes Konzept 2026-05-08 \> Storyweaving-Startdokument \> Steinbruch. **Skill-Files (NCP \+ canon-meta.md \+ open-questions.md \+ progress.md) \> Memory \> Training.** **Story-First:** Wenn Theorie und existierender Draft sich widersprechen, gewinnt der Draft — Theorie ist Diagnose, nicht Rezept.
@@ -557,16 +557,16 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 **Working Principles (phasenübergreifend, Auszug).** `[K]`
 
-- **Story-First** — Draft schlägt Theorie.  
-- **Plurale Form als Mechanik** — Wir-Geflecht und Mosaik-Form sind Strukturprinzipien, nicht Metaphern.  
-- **Schmerz und Liebe als denselben Pulsschlag** — von Anfang an Substrat, nicht „kühl, dann am Schluss emotional".  
-- **Genesis-Echos verteilen, nicht stapeln.**  
-- **Tragische Unschuldsstruktur bewahren.**  
-- **Dual-Storyform-Integrität** — Throughline-für-Throughline durch beide simultan.  
-- **Lesersteuerung als oberstes Prinzip.**  
-- **Maximal 1 Konzept pro Szene.**  
-- **Keine Theorie nackt in der Prosa.**  
-- **Eine Frage, ein Schritt, ein Bild** pro Sitzungs-Turn.  
+- **Story-First** — Draft schlägt Theorie.
+- **Plurale Form als Mechanik** — Wir-Geflecht und Mosaik-Form sind Strukturprinzipien, nicht Metaphern.
+- **Schmerz und Liebe als denselben Pulsschlag** — von Anfang an Substrat, nicht „kühl, dann am Schluss emotional".
+- **Genesis-Echos verteilen, nicht stapeln.**
+- **Tragische Unschuldsstruktur bewahren.**
+- **Dual-Storyform-Integrität** — Throughline-für-Throughline durch beide simultan.
+- **Lesersteuerung als oberstes Prinzip.**
+- **Maximal 1 Konzept pro Szene.**
+- **Keine Theorie nackt in der Prosa.**
+- **Eine Frage, ein Schritt, ein Bild** pro Sitzungs-Turn.
 - **Direkt, nicht therapeutisch** — Klarheit statt Spiegelung; Bewertung und Disagreement willkommen.
 
 ---
@@ -575,8 +575,8 @@ Dramatica ist eine Story-Theorie (Phillips/Huntley, 4\. Aufl. 2001), die eine vo
 
 Drei Sätze, die beim Lesen hängenbleiben sollen — und die diesen ganzen Begriffsapparat überleben:
 
-1. *Der Roman ist eine ontologische Heilungs-Schleife.* Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.  
-2. *Die Dual-Storyform ist die Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.*  
+1. *Der Roman ist eine ontologische Heilungs-Schleife.* Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.
+2. *Die Dual-Storyform ist die Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.*
 3. *Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht.*
 
-Alle Begriffe in diesem Dokument sind Werkzeuge. Ihre Bewährungsprobe ist nicht theoretische Stimmigkeit, sondern die Frage, ob sie das Schreiben der nächsten Szene tragen, ohne sich zwischen Autor und Material zu drängen. Wenn ein Begriff im Weg steht, ist er falsch übersetzt — die Aufgabe ist dann nicht, ihn zu verteidigen, sondern ihn so zu übersetzen, dass er die Szene trägt, ohne in ihr aufzutauchen.  
+Alle Begriffe in diesem Dokument sind Werkzeuge. Ihre Bewährungsprobe ist nicht theoretische Stimmigkeit, sondern die Frage, ob sie das Schreiben der nächsten Szene tragen, ohne sich zwischen Autor und Material zu drängen. Wenn ein Begriff im Weg steht, ist er falsch übersetzt — die Aufgabe ist dann nicht, ihn zu verteidigen, sondern ihn so zu übersetzen, dass er die Szene trägt, ohne in ihr aufzutauchen.

@@ -12,9 +12,9 @@
 
 **Vier philosophische Achsen tragen den Roman.** Sie sind nicht parallel, sondern verschränkt:
 
-1. **Epistemologische Achse:** Wahrheitstheorien-Krieg (AEGIS vs. Kael-EPs).  
-2. **Ontologische Achse:** Substanz vs. Prozess (klassische Identität vs. Funktionale Multiplizität).  
-3. **Phänomenologische Achse:** subjektive Erfahrung vs. objektive Messung (Kael vs. AEGIS).  
+1. **Epistemologische Achse:** Wahrheitstheorien-Krieg (AEGIS vs. Kael-EPs).
+2. **Ontologische Achse:** Substanz vs. Prozess (klassische Identität vs. Funktionale Multiplizität).
+3. **Phänomenologische Achse:** subjektive Erfahrung vs. objektive Messung (Kael vs. AEGIS).
 4. **Mystische Achse:** Trennung als Schein (Śūnyatā/K₁-Reinform).
 
 Jeder philosophische Eintrag in diesem Dokument verortet sich auf einer oder mehreren dieser Achsen.
@@ -65,7 +65,7 @@ Jeder philosophische Eintrag in diesem Dokument verortet sich auf einer oder meh
 
 **Funktion im Roman.** **Erlaubt die Koexistenz** der zwei Schluss-Sätze:
 
-- „Die Trennung war nie real" (Wahrheit, konstatierend, ontologisch)  
+- „Die Trennung war nie real" (Wahrheit, konstatierend, ontologisch)
 - „Aber das ändert nichts am Schmerz" (Richtigkeit, regulativ, ethisch-erfahrungsbezogen)
 
 Ohne Habermas' Differenz wäre der Schluss-Satz Schein-Paradox. Mit ihm sind beide Aussagen kompatibel auf verschiedenen Geltungsebenen.
@@ -146,8 +146,8 @@ Ohne Habermas' Differenz wäre der Schluss-Satz Schein-Paradox. Mit ihm sind bei
 
 **Funktion im Roman.** Doppelte Rolle:
 
-1. **Dasein-Strang als Foreshadowing.** Existentielle Unverankerung; Kaels Reflexionen Akt I tragen Sartre/Heidegger-Spuren. Erntung Kap 27 (klare Absicht, bereit zur Konfrontation).  
-     
+1. **Dasein-Strang als Foreshadowing.** Existentielle Unverankerung; Kaels Reflexionen Akt I tragen Sartre/Heidegger-Spuren. Erntung Kap 27 (klare Absicht, bereit zur Konfrontation).
+
 2. **Aletheia als Wahrheits-Modell für KW4 und den Vortex selbst.** Die Wahrheit wird nicht durch AEGIS' Verifikation gefunden — sie *geschieht*, wenn Kael aufhört zu vermeiden und das Unverborgene sich zeigt. Kontrast zu AEGIS' verifizierender Logik.
 
 **Schlüssel-Konzept: Sein-zum-Tode.** Heideggers Begriff der eigentlichen Existenz im Angesicht der Endlichkeit. Im Roman: in den **Risse-Episoden** wird Dasein als Sein-zum-Tode zur *sinnlichen Erfahrung*. Risse sind Augenblicke, in denen Kael der Endlichkeit seiner Welt begegnet.
@@ -442,9 +442,9 @@ Reiner Funktionalismus (das Selbst ist nur seine funktionalen Zustände) wird im
 
 **Kern.** Warum kollabiert die Wellenfunktion bei Messung in einen eindeutigen Zustand? Interpretationen:
 
-- **Kopenhagen:** Beobachter-induziert (umstrittene Rolle des Bewusstseins).  
-- **Many-Worlds (Everett):** kein Kollaps, alle Zweige existieren.  
-- **De Broglie-Bohm:** deterministische Pilotwellen \+ Teilchen.  
+- **Kopenhagen:** Beobachter-induziert (umstrittene Rolle des Bewusstseins).
+- **Many-Worlds (Everett):** kein Kollaps, alle Zweige existieren.
+- **De Broglie-Bohm:** deterministische Pilotwellen \+ Teilchen.
 - **Objektiver Kollaps (GRW):** stochastischer physischer Kollaps.
 
 **Funktion im Roman (begrenzt).** Der Roman ist *kein* Quanten-Interpretation-Roman. Aber **Junas Witness-Funktion Layer 1 (Quanten-Verschränkungs-Witness)** spielt mit Beobachter-Theorie: Juna *bezeugt*, ohne zu kollabieren. Das ist eine spezifische Lese-Position (Husserlianisch-Wheelerianisch), nicht eine kanonische QM-Interpretation.
@@ -475,16 +475,16 @@ Reiner Funktionalismus (das Selbst ist nur seine funktionalen Zustände) wird im
 
 **Funktion im Roman.** **Lesersteuerung als oberstes Prinzip.** Operativ:
 
-- 39 fragmentierte Kapitel (Mosaik-Anker)  
-- Unzuverlässige, sich widersprechende Erzähler (verschiedene Alter)  
-- Kontradiktorische Fußnoten (Risse simulieren)  
-- Bewusstes temporales Scrambling  
+- 39 fragmentierte Kapitel (Mosaik-Anker)
+- Unzuverlässige, sich widersprechende Erzähler (verschiedene Alter)
+- Kontradiktorische Fußnoten (Risse simulieren)
+- Bewusstes temporales Scrambling
 - Polyphonisch wechselnde Pronomina
 
 **Drei Layer der Reader-Funktion.**
 
-1. **Narratologisch:** Bedeutungs-Montage aus Fragmenten.  
-2. **Phänomenologisch:** Desorientierung als Lese-Erfahrung.  
+1. **Narratologisch:** Bedeutungs-Montage aus Fragmenten.
+2. **Phänomenologisch:** Desorientierung als Lese-Erfahrung.
 3. **Operativ:** kognitive Arbeit liefert die K₁-Reparatur-Energie.
 
 **Drafting-Disziplin.** Jede Szene hat Leerstellen pro Iser-Layer. Der Roman zeigt nie, was er meint — er pflanzt, was der Leser zu Bedeutung baut. Iser ist die *Methode* dieses Pflanzens.
@@ -513,10 +513,10 @@ Wheeler (§10.1) und Iser konvergieren: in beiden Theorien ist der Beobachter/Le
 
 **Philosophische Position.** Funktionale Multiplizität ist eine Synthese aus:
 
-- Metzinger PSM (kein substantielles Selbst)  
-- Buddhistisches Anatta (Nicht-Selbst)  
-- Narrative Identität in pluraler Form  
-- IFS (Internal Family Systems) als klinisches Modell  
+- Metzinger PSM (kein substantielles Selbst)
+- Buddhistisches Anatta (Nicht-Selbst)
+- Narrative Identität in pluraler Form
+- IFS (Internal Family Systems) als klinisches Modell
 - Strange-Attractor-Form (kein Fixpunkt, sondern Bewegung)
 
 **Drafting-Disziplin.** Kein Anteil wird eliminiert. Kein Anteil wird zu einem Ich. Sie werden ein Wir. Die Heilung ist *kein* Erlösungs-Modus.
@@ -630,16 +630,16 @@ Geist und Körper als getrennte Substanzen. Merleau-Ponty (§3.4) und Metzinger 
 
 Sechs zentrale philosophische Bewegungen, die der Roman *strukturell vollzieht* (nicht inhaltlich erläutert):
 
-1. **Von Kohärenz zu Korrespondenz zu Synthese.** AEGIS' interne Konsistenz wird durch EPs' Trauma-Wissen herausgefordert; Funktionale Multiplizität synthetisiert.  
-     
-2. **Von Phaenomena zu aletheia.** KW1 als Phaenomena-Reich wird in KW4 zur Bühne des Sich-Zeigens. Kael lernt, nicht zu verifizieren, sondern wahrzunehmen.  
-     
-3. **Von Substanz-Selbst zu Strange-Attractor-Selbst.** Klassische Identitätsmodelle (Substanz, Kontinuität) werden durch funktionale Multiplizität ersetzt.  
-     
-4. **Von Autopoiesis zur Trans-System-Resonanz.** AEGIS' operative Geschlossenheit wird durch Junas atemporale Wirkung *nicht durchbrochen* (das ginge nicht), sondern *unwirksam gemacht*. Coheronen umgehen die Geschlossenheit.  
-     
-5. **Von Solipsismus zur partizipativen Universum-Mechanik.** Der Leser ist nicht Beobachter, sondern Substrat. Wheeler-Iser-Synthese.  
-     
+1. **Von Kohärenz zu Korrespondenz zu Synthese.** AEGIS' interne Konsistenz wird durch EPs' Trauma-Wissen herausgefordert; Funktionale Multiplizität synthetisiert.
+
+2. **Von Phaenomena zu aletheia.** KW1 als Phaenomena-Reich wird in KW4 zur Bühne des Sich-Zeigens. Kael lernt, nicht zu verifizieren, sondern wahrzunehmen.
+
+3. **Von Substanz-Selbst zu Strange-Attractor-Selbst.** Klassische Identitätsmodelle (Substanz, Kontinuität) werden durch funktionale Multiplizität ersetzt.
+
+4. **Von Autopoiesis zur Trans-System-Resonanz.** AEGIS' operative Geschlossenheit wird durch Junas atemporale Wirkung *nicht durchbrochen* (das ginge nicht), sondern *unwirksam gemacht*. Coheronen umgehen die Geschlossenheit.
+
+5. **Von Solipsismus zur partizipativen Universum-Mechanik.** Der Leser ist nicht Beobachter, sondern Substrat. Wheeler-Iser-Synthese.
+
 6. **Von Trennung als Tragödie zur Trennung als Bedingung.** Genesis-4-Beat: was als Trauma erscheint, ist die Bedingung von Werdung. *Die Trennung war nie real. Aber das ändert nichts am Schmerz.* — Habermas' Wahrheit/Richtigkeit-Differenz in mystisch-säkularer Form.
 
 ---
@@ -650,22 +650,22 @@ Diese Sektion ist verbindlich. Sie ist die *operationale Form* von §0.
 
 ### §16.1 Vier Verbote
 
-1. **Kein philosophischer Begriff erscheint im Prosatext.** *„Dasein", „Qualia", „Autopoiesis", „Dialetheia"* — niemals.  
-2. **Kein zitierter Philosoph.** Kael denkt nicht „wie Heidegger sagt". Argus *könnte* einen indirekten Bezug machen — sehr selten, sehr verkleidet.  
-3. **Keine Diskussion philosophischer Positionen** in Dialog. Wenn Anteile *streiten*, streiten sie um konkrete Dinge (Risiko, Schutz, Liebe), nie um Theorie.  
+1. **Kein philosophischer Begriff erscheint im Prosatext.** *„Dasein", „Qualia", „Autopoiesis", „Dialetheia"* — niemals.
+2. **Kein zitierter Philosoph.** Kael denkt nicht „wie Heidegger sagt". Argus *könnte* einen indirekten Bezug machen — sehr selten, sehr verkleidet.
+3. **Keine Diskussion philosophischer Positionen** in Dialog. Wenn Anteile *streiten*, streiten sie um konkrete Dinge (Risiko, Schutz, Liebe), nie um Theorie.
 4. **Keine Erzähler-Wertung** über die Position einer Figur. AEGIS ist *nicht* der Bösewicht — und der Erzähler darf das nicht sagen oder andeuten.
 
 ### §16.2 Vier Werkzeuge
 
-1. **Somatischer Filter.** Jeder philosophische Begriff bekommt einen Körper, einen Raum, ein Verhalten.  
-2. **Anteils-Verkörperung.** Wer welche Philosophie *ist*, trägt sie durch Stimme und Somatik — siehe §14.1.  
-3. **Welt-Verkörperung.** Welche KW eine Theorie operationalisiert, bestimmt, wie sie sensorisch erscheint — siehe §14.2.  
+1. **Somatischer Filter.** Jeder philosophische Begriff bekommt einen Körper, einen Raum, ein Verhalten.
+2. **Anteils-Verkörperung.** Wer welche Philosophie *ist*, trägt sie durch Stimme und Somatik — siehe §14.1.
+3. **Welt-Verkörperung.** Welche KW eine Theorie operationalisiert, bestimmt, wie sie sensorisch erscheint — siehe §14.2.
 4. **Lese-Architektur.** Theorien erscheinen durch Iser'sche Leerstellen, nicht durch Aussage.
 
 ### §16.3 Drei Tests vor jeder Szene
 
-- **Egan-Falle-Test:** Hat das philosophische Konzept *somatische und emotionale Konsequenz*? Wenn nein: schneiden.  
-- **Chiang-Standard-Test:** Ist *ein* Konzept tief in emotionale Charakterlogik integriert? Wenn mehr: aufteilen. Wenn keines: oberflächlich.  
+- **Egan-Falle-Test:** Hat das philosophische Konzept *somatische und emotionale Konsequenz*? Wenn nein: schneiden.
+- **Chiang-Standard-Test:** Ist *ein* Konzept tief in emotionale Charakterlogik integriert? Wenn mehr: aufteilen. Wenn keines: oberflächlich.
 - **Lem-Test (KI-Tragödie):** Trägt AEGIS hier Tragik, nicht Bosheit? Wenn AEGIS böse wirkt: umschreiben.
 
 ---
@@ -690,12 +690,12 @@ Der Roman trägt eine außergewöhnlich dichte philosophische Architektur — *u
 
 **Drei philosophische Sätze, die als Substrat in jeder Szene tragen:**
 
-1. *Was AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information.* (Śūnyatā in DKT-Form)  
-2. *Wahrheit ist nicht das, was man sagt — sondern das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist.* (Heideggers aletheia)  
+1. *Was AEGIS für Chaos hält, ist die atemporale Vereinigung aller mutualen Information.* (Śūnyatā in DKT-Form)
+2. *Wahrheit ist nicht das, was man sagt — sondern das, was sich zeigt, wenn man aufhört zu sagen, was nicht wahr ist.* (Heideggers aletheia)
 3. *Die Trennung war nie real. Aber das ändert nichts am Schmerz.* (Habermas-Wahrheit \+ Habermas-Richtigkeit, in einem Atemzug)
 
 Der Roman ist kein Philosophie-Roman. Er ist ein Roman, dessen *Substrat* philosophisch ist. Diese Unterscheidung ist die ganze Disziplin. Wer das verwechselt, schreibt Lehre statt Literatur — und der Roman bricht.
 
 Die Aufgabe der Philosophie hier ist nicht, Antworten zu liefern. Sie ist, das Erleben der Anteile so präzise zu verankern, dass *Leser ihr eigenes Erleben darin finden* — und dabei eine Wahrheit berühren, die größer ist als das, was sie wussten. Das ist Iser-Wheelerian. Das ist die fünfte Schicht.
 
-Alles andere folgt.  
+Alles andere folgt.

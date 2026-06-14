@@ -6,20 +6,20 @@
 
 ## Inhalt
 
-1. Grundsatz: was die Kernwelten sind und nicht sind  
-2. Architektur-Übersicht (Eine Realität, sechs Ebenen, vier KW \+ Überwelt \+ Externe Ebene)  
-3. KW1 — Konstrukt-Stadt / Logos-Prime  
-4. KW2 — Mnemosyne-Archipel  
-5. KW3 — Cerberus-Labyrinth  
-6. KW4 — Kairos-Potentialis / Möglichkeits-Garten / Resonanz-Kontinuum  
-7. Die Überwelt — AEGIS' Maschinenraum  
-8. Die Externe Ebene — Köln 2026  
-9. Übergänge zwischen den Ebenen (Transitions-Mechanik)  
-10. Risse-Phänomenologie pro Welt (vollständig)  
-11. Akt-Choreografie der Welt-Wechsel  
-12. Kapitel-Welt-Mapping (Kap 0 bis 40\)  
-13. Computational-Class-Progression als Leser-Steigerung  
-14. Anti-Patterns für Welt-Darstellung  
+1. Grundsatz: was die Kernwelten sind und nicht sind
+2. Architektur-Übersicht (Eine Realität, sechs Ebenen, vier KW \+ Überwelt \+ Externe Ebene)
+3. KW1 — Konstrukt-Stadt / Logos-Prime
+4. KW2 — Mnemosyne-Archipel
+5. KW3 — Cerberus-Labyrinth
+6. KW4 — Kairos-Potentialis / Möglichkeits-Garten / Resonanz-Kontinuum
+7. Die Überwelt — AEGIS' Maschinenraum
+8. Die Externe Ebene — Köln 2026
+9. Übergänge zwischen den Ebenen (Transitions-Mechanik)
+10. Risse-Phänomenologie pro Welt (vollständig)
+11. Akt-Choreografie der Welt-Wechsel
+12. Kapitel-Welt-Mapping (Kap 0 bis 40\)
+13. Computational-Class-Progression als Leser-Steigerung
+14. Anti-Patterns für Welt-Darstellung
 15. Offene Punkte
 
 ---
@@ -38,10 +38,10 @@
 
 ### §1.2 Was sie *nicht* sind
 
-- **Keine fünf-Guardian-Architektur.** LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive Figuren. Die alten Welten-Namen (Konstrukt-Stadt / Logos-Prime, Cerberus-Labyrinth, Kairos-Potentialis) bleiben als *Bezeichnungen* erhalten — mythologisch-strukturell, nicht personell.  
-- **Kein Multi-Universum / keine Parallel-Realitäten.** Es gibt eine Realität.  
-- **Kein Spiel-/Crew-/Crawler-Setting.** Welt-Wechsel sind nicht spielerisch. Sie sind dissoziativ — Verlust, Bruch, Riss.  
-- **Keine moralische Färbung der Welten.** Keine ist „die böse", keine „die gute". KW1 ist nicht der Käfig und KW4 nicht das Paradies. Jede Welt ist gleichzeitig Schutz und Begrenzung.  
+- **Keine fünf-Guardian-Architektur.** LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive Figuren. Die alten Welten-Namen (Konstrukt-Stadt / Logos-Prime, Cerberus-Labyrinth, Kairos-Potentialis) bleiben als *Bezeichnungen* erhalten — mythologisch-strukturell, nicht personell.
+- **Kein Multi-Universum / keine Parallel-Realitäten.** Es gibt eine Realität.
+- **Kein Spiel-/Crew-/Crawler-Setting.** Welt-Wechsel sind nicht spielerisch. Sie sind dissoziativ — Verlust, Bruch, Riss.
+- **Keine moralische Färbung der Welten.** Keine ist „die böse", keine „die gute". KW1 ist nicht der Käfig und KW4 nicht das Paradies. Jede Welt ist gleichzeitig Schutz und Begrenzung.
 - **Keine reine Allegorie.** Die Welten sind ontologisch real innerhalb der Romanrealität, *und* psychologische Manifestationen — beides gleichzeitig.
 
 ### §1.3 Sechs Ebenen
@@ -69,19 +69,19 @@ Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren vers
 
 ### §2.2 Ästhetik
 
-- **Farben.** Kühle: Blau, Grau, Weiß. Keine warmen Töne.  
-- **Geometrie.** Klare Linien, definierte Wege, keine Ornamentik. Streng rechte Winkel, klassische Euklidik.  
-- **Licht.** Schattenloses, gleichmäßiges Licht. Keine Akzente, keine Quellen — als wäre das Licht von überall.  
+- **Farben.** Kühle: Blau, Grau, Weiß. Keine warmen Töne.
+- **Geometrie.** Klare Linien, definierte Wege, keine Ornamentik. Streng rechte Winkel, klassische Euklidik.
+- **Licht.** Schattenloses, gleichmäßiges Licht. Keine Akzente, keine Quellen — als wäre das Licht von überall.
 - **Materialien.** Glatte, polierte Oberflächen. Keine sichtbare Textur. Sterilität als Materialeigenschaft.
 
 **Grundprinzip:** Architektur als Kontrolle. Jede Form sagt: *„Es gibt eine richtige Antwort."*
 
 ### §2.3 Sensorik (Default-Set)
 
-- **Geruch.** Ozon (Landauer-Suppression-Spur, *kalt-elektrisch*) \+ Desinfektionsmittel.  
-- **Klang.** Konstantes leises Summen. Systemhum. Stille mit Substanz.  
-- **Taktil.** Kühle, glatte Oberflächen. Recycelte Luft.  
-- **Temperatur.** **Konstant 21°C.** Jede Abweichung ist Riss-Vorzeichen.  
+- **Geruch.** Ozon (Landauer-Suppression-Spur, *kalt-elektrisch*) \+ Desinfektionsmittel.
+- **Klang.** Konstantes leises Summen. Systemhum. Stille mit Substanz.
+- **Taktil.** Kühle, glatte Oberflächen. Recycelte Luft.
+- **Temperatur.** **Konstant 21°C.** Jede Abweichung ist Riss-Vorzeichen.
 - **Optisch.** Schattenloses, gleichmäßiges Licht — bis es flackert.
 
 ### §2.4 Logik
@@ -102,9 +102,9 @@ Streng kausal, deterministisch, regelbasiert. Wenn A, dann B. Klassische Logik m
 
 Manifestationen:
 
-- Logikparadoxien werden physisch (Escher-Geometrien temporär stabil)  
-- Kausalitätsschleifen  
-- Inkonsistente Regelanwendung  
+- Logikparadoxien werden physisch (Escher-Geometrien temporär stabil)
+- Kausalitätsschleifen
+- Inkonsistente Regelanwendung
 - **Blutende Knöchel ohne Erinnerung an die Verletzung** *(Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos. Wiederkehr am Ende offen.)*
 
 ### §2.8 Sub-Lokalitäten
@@ -153,17 +153,17 @@ Manifestationen:
 
 ### §3.2 Ästhetik
 
-- **Form.** Fluide, traumartig.  
-- **Landschaften.** Wälder des Flüsterns, Ozeane der Trauer, sepia-getönte Bibliotheken im langsamen Verfall.  
-- **Licht.** Lichtkegel, in denen Staubpartikel still hängen — wie eingefroren.  
+- **Form.** Fluide, traumartig.
+- **Landschaften.** Wälder des Flüsterns, Ozeane der Trauer, sepia-getönte Bibliotheken im langsamen Verfall.
+- **Licht.** Lichtkegel, in denen Staubpartikel still hängen — wie eingefroren.
 - **Architektur.** **Architektonische Palimpseste** — alte Strukturen scheinen unter neuen durch.
 
 ### §3.3 Sensorik
 
-- **Klang.** **Echos.** Wassertropfen, deren Quelle nicht zu finden ist. Überlappende Gesprächsfetzen, Musikfragmente, Geräusche aus Erinnerungs-Szenen.  
-- **Geruch.** Feuchte Erde \+ verblassendes Parfum.  
-- **Taktil.** Wechselnde Bodentexturen (fest, sumpfig, sandig).  
-- **Zeit.** **Nicht-linear.** Sekunden dehnen sich, Tage kollabieren.  
+- **Klang.** **Echos.** Wassertropfen, deren Quelle nicht zu finden ist. Überlappende Gesprächsfetzen, Musikfragmente, Geräusche aus Erinnerungs-Szenen.
+- **Geruch.** Feuchte Erde \+ verblassendes Parfum.
+- **Taktil.** Wechselnde Bodentexturen (fest, sumpfig, sandig).
+- **Zeit.** **Nicht-linear.** Sekunden dehnen sich, Tage kollabieren.
 - **Temperatur.** Wechselnd, oft fiebrig.
 
 ### §3.4 Logik
@@ -195,9 +195,9 @@ Assoziativ, emotional. Realität formt sich nach innerem Zustand. Resonanz mit V
 
 **Mnemosyne-Server-Architektur — offenes Bild.** `[L]` Das primäre Bild ist beim Vortex-1-Encoding festzulegen. Vier Vorschläge im Steinbruch:
 
-- **Inselgruppe.** Schwebende Inseln mit unterschiedlicher Erinnerungs-Atmosphäre pro Insel.  
-- **Server-Halle.** Klassisch-digital, kristalline Rack-Architektur.  
-- **Memorialarchitektur.** Mausoleum-artige Struktur; Erinnerungs-Stelen.  
+- **Inselgruppe.** Schwebende Inseln mit unterschiedlicher Erinnerungs-Atmosphäre pro Insel.
+- **Server-Halle.** Klassisch-digital, kristalline Rack-Architektur.
+- **Memorialarchitektur.** Mausoleum-artige Struktur; Erinnerungs-Stelen.
 - **Zirbeldrüse-Architektur.** Organisch, sekretierend, biologisch-numinos. **Drafting-Empfehlung:** Ein primäres Bild \+ drei Sub-Bilder beim Encoding. Pinning vor Kap-35-Drafting.
 
 **Steinbruch-gefiltert:**
@@ -235,16 +235,16 @@ Assoziativ, emotional. Realität formt sich nach innerem Zustand. Resonanz mit V
 
 ### §4.2 Ästhetik
 
-- **Licht.** Ewiges Dämmerlicht. Schattenhafte Korridore.  
-- **Architektur.** Hohe Mauern, Wachtürme, Überwachungssysteme. Labyrinthisch. Beton, Stahl, Stacheldraht.  
+- **Licht.** Ewiges Dämmerlicht. Schattenhafte Korridore.
+- **Architektur.** Hohe Mauern, Wachtürme, Überwachungssysteme. Labyrinthisch. Beton, Stahl, Stacheldraht.
 - **Form.** Bunker-Topologie. Brutalismus. Sicherheits-Maximierung als Designprinzip.
 
 ### §4.3 Sensorik
 
-- **Klang.** Metallisches Quietschen, Scharren, ferne Alarme. Eigene Schritte verstärkt. Echos.  
-- **Geruch.** Schießpulver-Geruch (sensorisch, nicht von realen Waffen). Metall, Maschinenöl.  
-- **Taktil.** Kalte, raue Oberflächen.  
-- **Hyperalert-Gefühl.** Das Nervensystem rechnet konstant durch, ob die nächste Ecke sicher ist.  
+- **Klang.** Metallisches Quietschen, Scharren, ferne Alarme. Eigene Schritte verstärkt. Echos.
+- **Geruch.** Schießpulver-Geruch (sensorisch, nicht von realen Waffen). Metall, Maschinenöl.
+- **Taktil.** Kalte, raue Oberflächen.
+- **Hyperalert-Gefühl.** Das Nervensystem rechnet konstant durch, ob die nächste Ecke sicher ist.
 - **Temperatur.** Kalt, klamm.
 
 ### §4.4 Logik
@@ -263,10 +263,10 @@ Bedrohungsanalyse, Verteidigungsprotokolle, Mustererkennung (oft hypersensibel).
 
 **Paranoid-spatial:**
 
-- Geometrie verzerrt sich.  
-- Gravitationale Risse: Boden wird nachgiebig.  
-- Kinetische Risse: Mauern bewegen sich plötzlich.  
-- Falsche Wege, die plötzlich Sinn ergeben.  
+- Geometrie verzerrt sich.
+- Gravitationale Risse: Boden wird nachgiebig.
+- Kinetische Risse: Mauern bewegen sich plötzlich.
+- Falsche Wege, die plötzlich Sinn ergeben.
 - **Sicherheitssysteme, die ihre eigenen Erbauer einsperren** (charakteristisch).
 
 ### §4.8 Sub-Lokalitäten
@@ -316,18 +316,18 @@ Bedrohungsanalyse, Verteidigungsprotokolle, Mustererkennung (oft hypersensibel).
 
 ### §5.2 Ästhetik
 
-- **Form.** Organisch, vibrant.  
-- **Synästhesie.** Klänge haben Farben, Düfte haben Texturen.  
-- **Licht.** Warmes, dynamisches Licht. Nicht-rationale Muster.  
-- **Architektur.** Pflanzen in unmöglichen Geometrien. Glas, das durch Stein gewachsen ist. Wasser, das aufwärts fließt, ohne paradox zu wirken.  
+- **Form.** Organisch, vibrant.
+- **Synästhesie.** Klänge haben Farben, Düfte haben Texturen.
+- **Licht.** Warmes, dynamisches Licht. Nicht-rationale Muster.
+- **Architektur.** Pflanzen in unmöglichen Geometrien. Glas, das durch Stein gewachsen ist. Wasser, das aufwärts fließt, ohne paradox zu wirken.
 - **Ruinen.** Überwuchert. Das, was war, durchdringt das, was wird.
 
 ### §5.3 Sensorik
 
-- **Geruch.** Vielfältig, wechselnd: Blüten, Moder, Energieentladungen. **Feuchte Erde \+ Ozon** (das Riss-Echo, hier *konstruktiv* statt destruktiv).  
-- **Klang.** Eine Kakophonie: Wachsen, Zerfallen, Murmeln.  
-- **Taktil.** Unvorhersehbare Texturen.  
-- **Optisch.** Synästhesie als Default.  
+- **Geruch.** Vielfältig, wechselnd: Blüten, Moder, Energieentladungen. **Feuchte Erde \+ Ozon** (das Riss-Echo, hier *konstruktiv* statt destruktiv).
+- **Klang.** Eine Kakophonie: Wachsen, Zerfallen, Murmeln.
+- **Taktil.** Unvorhersehbare Texturen.
+- **Optisch.** Synästhesie als Default.
 - **Temperatur.** Warm.
 
 ### §5.4 Logik
@@ -346,8 +346,8 @@ Generativ, dialektisch. Neue Strukturen entstehen, die nicht aus den Prämissen 
 
 **Hier sind Risse keine Pathologie, sondern Geburten.**
 
-- **Sensorische Risse** (Isabelle-Trigger) als **Synästhesie**.  
-- Zeitfäden, die parallel verlaufen.  
+- **Sensorische Risse** (Isabelle-Trigger) als **Synästhesie**.
+- Zeitfäden, die parallel verlaufen.
 - **Generative Risse:** Stille, die anders klingt; Räume mit mehr Möglichkeit, als sie haben können.
 
 ### §5.8 Sub-Lokalitäten
@@ -392,16 +392,16 @@ Generativ, dialektisch. Neue Strukturen entstehen, die nicht aus den Prämissen 
 
 ### §6.2 Ästhetik
 
-- **Form.** Datenvisualisierung. Netzwerkdiagramme als leuchtende Pfade.  
-- **Strukturen.** Datencluster als kristalline Formationen. Konzentrische Ringe, abstrakte 3D-Karten.  
-- **Material.** Reine Information als Substrat.  
+- **Form.** Datenvisualisierung. Netzwerkdiagramme als leuchtende Pfade.
+- **Strukturen.** Datencluster als kristalline Formationen. Konzentrische Ringe, abstrakte 3D-Karten.
+- **Material.** Reine Information als Substrat.
 - **Geometrie.** Klar, symmetrisch, hierarchisch.
 
 ### §6.3 Sensorik
 
-- **Optisch.** Leuchtende Datenströme, kristalline Cluster.  
-- **Klang.** Algorithmisches Summen, kein organischer Ton.  
-- **Taktil.** Nicht anwendbar (Überwelt ist nicht-physisch).  
+- **Optisch.** Leuchtende Datenströme, kristalline Cluster.
+- **Klang.** Algorithmisches Summen, kein organischer Ton.
+- **Taktil.** Nicht anwendbar (Überwelt ist nicht-physisch).
 - **Atmosphäre.** Kalt-mathematische Schönheit, der die menschliche Textur fehlt.
 
 ### §6.4 Logik
@@ -462,8 +462,8 @@ MASSNAHME: {Systemantwort}
 
 ### §6.8 Wichtig: Was die Überwelt *nicht* ist
 
-- **Kein Operations-Raum für Kael.** Kael betritt die Überwelt selten direkt; sie ist Hintergrund-Architektur. Explizit nur Kap 33 (Jenseits-des-Ereignishorizonts) und implizit im Vortex 1 (Algorithmische Melancholie).  
-- **Kein „Inneres" von AEGIS** im psychologischen Sinn. AEGIS hat kein Innen — er ist autopoietisch geschlossen.  
+- **Kein Operations-Raum für Kael.** Kael betritt die Überwelt selten direkt; sie ist Hintergrund-Architektur. Explizit nur Kap 33 (Jenseits-des-Ereignishorizonts) und implizit im Vortex 1 (Algorithmische Melancholie).
+- **Kein „Inneres" von AEGIS** im psychologischen Sinn. AEGIS hat kein Innen — er ist autopoietisch geschlossen.
 - **Keine Heimat von Juna.** Juna existiert *außerhalb* der Überwelt — die Externe Ebene ist ihre Verortung.
 
 ---
@@ -486,9 +486,9 @@ MASSNAHME: {Systemantwort}
 
 ### §7.3 Sensorik
 
-- **Geruch.** Stadt-Geruch (Plattenbauten, Asphalt nach Regen, Bäckerei am Morgen).  
-- **Klang.** **S-Bahn-Geräusche.** **Ein Telefon, das klingelt und nicht klingelt.** Junas Anker.  
-- **Taktil.** Materialität der profanen Welt — Schlüssel in der Hand, das Geländer des Bahnsteigs.  
+- **Geruch.** Stadt-Geruch (Plattenbauten, Asphalt nach Regen, Bäckerei am Morgen).
+- **Klang.** **S-Bahn-Geräusche.** **Ein Telefon, das klingelt und nicht klingelt.** Junas Anker.
+- **Taktil.** Materialität der profanen Welt — Schlüssel in der Hand, das Geländer des Bahnsteigs.
 - **Optisch.** Gewöhnliches Licht, nichts Künstliches.
 
 ### §7.4 Logik
@@ -526,8 +526,8 @@ Die *normale* Logik einer Stadt im Jahr 2026\. Aber: die Kontaktpunkte zur Roman
 
 ### §7.8 Wichtig: Was die Externe Ebene *nicht* ist
 
-- **Nicht „die wahre Realität".** Die Frage „was ist real?" wird im Roman nicht ontologisch beantwortet. Beide Ebenen sind real — beide leiden, beide tragen Schmerz und Liebe.  
-- **Nicht Junas „Heimat" in einem geographischen Sinn.** Juna ist atemporal; ihr Verhältnis zur Externen Ebene ist Anker, nicht Wohnort.  
+- **Nicht „die wahre Realität".** Die Frage „was ist real?" wird im Roman nicht ontologisch beantwortet. Beide Ebenen sind real — beide leiden, beide tragen Schmerz und Liebe.
+- **Nicht Junas „Heimat" in einem geographischen Sinn.** Juna ist atemporal; ihr Verhältnis zur Externen Ebene ist Anker, nicht Wohnort.
 - **Nicht der „Ausgang".** Kael verlässt die Kernwelten nicht in Köln 2026 hinein. Er findet sich pluralisiert in der pluralen Apotheose; die Externe Ebene berührt ihn als Resonanz, nicht als Ziel.
 
 ---
@@ -560,9 +560,9 @@ Die *normale* Logik einer Stadt im Jahr 2026\. Aber: die Kontaktpunkte zur Roman
 
 ### §8.3 Disziplin beim Drafting von Übergängen
 
-- **Übergänge werden nie *erklärt*.** Sie werden *erfahren*. Kael fällt, gleitet, taumelt, erwacht in einer anderen Welt — *nie* lautet die Frage „wie kam ich hierher?".  
-- **Sensorik wechselt im selben Absatz.** Stilebene wechselt im selben Atemzug. Der Leser spürt den Übergang an der Atemfrequenz des Texts.  
-- **Kein „Portal".** Kein „Tor". Keine sichtbare Türe. Übergänge sind *Phänomenologie*, nicht Architektur. (Ausnahme: kanonische *unbewachten Tore* in KW3 — aber sie *erscheinen*, wo sie nicht waren; sie sind keine Architektur, sondern Ereignis.)  
+- **Übergänge werden nie *erklärt*.** Sie werden *erfahren*. Kael fällt, gleitet, taumelt, erwacht in einer anderen Welt — *nie* lautet die Frage „wie kam ich hierher?".
+- **Sensorik wechselt im selben Absatz.** Stilebene wechselt im selben Atemzug. Der Leser spürt den Übergang an der Atemfrequenz des Texts.
+- **Kein „Portal".** Kein „Tor". Keine sichtbare Türe. Übergänge sind *Phänomenologie*, nicht Architektur. (Ausnahme: kanonische *unbewachten Tore* in KW3 — aber sie *erscheinen*, wo sie nicht waren; sie sind keine Architektur, sondern Ereignis.)
 - **AEGIS registriert Übergänge mit Verzögerung.** Das ist mechanisch: Coheron-Übergänge sind atemporal, AEGIS' Mess-System ist temporal. AEGIS sieht das Resultat, nicht den Vorgang.
 
 ---
@@ -575,8 +575,8 @@ Die *normale* Logik einer Stadt im Jahr 2026\. Aber: die Kontaktpunkte zur Roman
 
 **Drei Klassen:**
 
-1. **Anteils-Risse** (vom EP-Trigger erzeugt; siehe Anteile-Profil §7)  
-2. **Welt-Risse** (akt-spezifisch, von der KW-Logik erzeugt)  
+1. **Anteils-Risse** (vom EP-Trigger erzeugt; siehe Anteile-Profil §7)
+2. **Welt-Risse** (akt-spezifisch, von der KW-Logik erzeugt)
 3. **Spiegel-Risse** (Silas / Oblivion; siehe Anteile-Profil)
 
 ### §9.2 Welt-Risse pro KW
@@ -595,9 +595,9 @@ Die *normale* Logik einer Stadt im Jahr 2026\. Aber: die Kontaktpunkte zur Roman
 
 Jeder Riss trägt eine Foreshadowing-Schicht (siehe Welt-Doku §4). Beispiele:
 
-- **KW1-Risse** tragen Landauer-Strang (Ozon, Hitze) und Gödel-Strang (Logik-Bruch).  
-- **KW2-Risse** tragen Dasein-Strang (Existentielle Unverankerung in falschen Erinnerungen).  
-- **KW3-Risse** tragen Bekenstein-Strang (Pixelierung am Rand der Welt).  
+- **KW1-Risse** tragen Landauer-Strang (Ozon, Hitze) und Gödel-Strang (Logik-Bruch).
+- **KW2-Risse** tragen Dasein-Strang (Existentielle Unverankerung in falschen Erinnerungen).
+- **KW3-Risse** tragen Bekenstein-Strang (Pixelierung am Rand der Welt).
 - **KW4-Risse** tragen Euler-Strang (mathematische Schönheit als verlorene Sprache).
 
 ---
@@ -622,8 +622,8 @@ Jeder Riss trägt eine Foreshadowing-Schicht (siehe Welt-Doku §4). Beispiele:
 
 ### §10.2 Drei Welt-Wechsel-Mandate
 
-1. **Sensorik-Wechsel mid-paragraph.** Wenn Kael die Welt wechselt, wechselt der Text seine Sensorik im selben Absatz. Stilebene-Wechsel ist hörbar.  
-2. **Keine Erklärung.** Kael fragt nie „wo bin ich?". Er ist *immer schon da*. Die Frage entsteht im Leser, nicht in Kael.  
+1. **Sensorik-Wechsel mid-paragraph.** Wenn Kael die Welt wechselt, wechselt der Text seine Sensorik im selben Absatz. Stilebene-Wechsel ist hörbar.
+2. **Keine Erklärung.** Kael fragt nie „wo bin ich?". Er ist *immer schon da*. Die Frage entsteht im Leser, nicht in Kael.
 3. **Welt-Trägheit.** Der vorherige Welt-Ton schwingt mit. Akt-III-Texte tragen Akt-II-Schatten. Akt-II tragen Akt-I-Stille als Phantom. Das ist die Integration aller drei Stilebenen, von der Akt III leben muss.
 
 ---
@@ -699,33 +699,33 @@ Was die Welten *nicht* sein dürfen.
 
 ### §13.1 Genre-Anti-Patterns
 
-- **Kein „Cybernetic Crawler".** Keine Spielmechanik. Keine Welt-Wechsel-Animation.  
-- **Kein Multiverse.** Eine Realität, mehrere Filter — nicht parallele Universen.  
-- **Kein Erlöser-Setting.** Keine Welt ist „Heimat", in die zurückgekehrt wird.  
+- **Kein „Cybernetic Crawler".** Keine Spielmechanik. Keine Welt-Wechsel-Animation.
+- **Kein Multiverse.** Eine Realität, mehrere Filter — nicht parallele Universen.
+- **Kein Erlöser-Setting.** Keine Welt ist „Heimat", in die zurückgekehrt wird.
 - **Kein „Matrix"-Pattern.** Köln 2026 ist nicht „die wahre Welt".
 
 ### §13.2 Mechanische Anti-Patterns
 
-- **Kein „Portal"-Mechanismus.** Übergänge sind Phänomenologie, nicht Architektur.  
-- **Keine Welt-Karten.** Der Roman zeichnet keine Geografie; er zeichnet Phänomene.  
-- **Keine Erläuterungs-Szene.** Kael erklärt sich nie, was eine Welt ist.  
+- **Kein „Portal"-Mechanismus.** Übergänge sind Phänomenologie, nicht Architektur.
+- **Keine Welt-Karten.** Der Roman zeichnet keine Geografie; er zeichnet Phänomene.
+- **Keine Erläuterungs-Szene.** Kael erklärt sich nie, was eine Welt ist.
 - **Keine AEGIS-Tour.** AEGIS führt nicht durch die Überwelt. AEGIS *ist* die Überwelt.
 
 ### §13.3 Charakter-Anti-Patterns
 
-- **Keine Guardians als Figuren** außer Mnemosyne. *Cerberus, LogOS, Kairos, Sophia* sind dekanonisiert.  
-- **Keine Welt-NPCs mit Eigennamen** aus Steinbruch (Echo, Nox, Limina). Generische Rollen sind erlaubt.  
+- **Keine Guardians als Figuren** außer Mnemosyne. *Cerberus, LogOS, Kairos, Sophia* sind dekanonisiert.
+- **Keine Welt-NPCs mit Eigennamen** aus Steinbruch (Echo, Nox, Limina). Generische Rollen sind erlaubt.
 - **Keine externe Heldenreise-Karte.** Welten sind nicht Etappen einer Quest.
 
 ### §13.4 Tonale Anti-Patterns
 
-- **Keine Welt-Romantisierung.** KW4 ist nicht das Paradies. Auch dort ist Schmerz.  
-- **Keine Welt-Dämonisierung.** KW3 ist nicht „die Hölle". Auch dort ist Schutz.  
+- **Keine Welt-Romantisierung.** KW4 ist nicht das Paradies. Auch dort ist Schmerz.
+- **Keine Welt-Dämonisierung.** KW3 ist nicht „die Hölle". Auch dort ist Schutz.
 - **Keine Welt-Allegorie.** Kein „KW1 \= Verstand, KW2 \= Herz" etc. Die Welten sind komplex, nicht symbolisch reduziert.
 
 ### §13.5 Strukturelle Anti-Patterns
 
-- **Keine *gleichzeitig* aktiven Welt-Dominanzen.** Pro Kapitel eine dominante Welt (außer Kap 38–40, wo Synthese geschieht).  
+- **Keine *gleichzeitig* aktiven Welt-Dominanzen.** Pro Kapitel eine dominante Welt (außer Kap 38–40, wo Synthese geschieht).
 - **Keine Welt-Hybrid-Sensorik in Akt I.** KW1 \= Stilebene 1, voll und ohne Bridge. Erste Stilbruch-Spuren in Kap 6, voll-polyphon erst Akt II.
 
 ---
@@ -755,4 +755,4 @@ Was die Welten *nicht* sein dürfen.
 
 **Die Externe Ebene ist die Roman-Position des Lesers in Welt-Form.** Köln 2026 ist nicht „die wahre Welt", die der Roman beschreibt. Köln 2026 ist die Welt-Form der *Position*, von der aus der Roman gelesen wird. Junas Ankerpunkt ist *im Leser* — symbolisch, strukturell, in Iser-Wheelerianer Form. Wenn Kael in Kap 38 Juna direkt erreicht, erreicht er die Position des Lesers; und die Coda Kap 40 schließt den Kreis, indem sie den Leser in die Genesis zurückwirft, mit verändertem Sehen.
 
-Damit ist das Kernwelten-Substrat vollständig konsolidiert. Sechs Ebenen, alle Sub-Lokalitäten, alle Risse, alle Übergänge, alle Akt-Mappings. Was offen bleibt, ist klar markiert (`[L]`). Was Steinbruch ist, ist klar markiert (`[S]`). Was kanonisch ist (`[K]`), trägt.  
+Damit ist das Kernwelten-Substrat vollständig konsolidiert. Sechs Ebenen, alle Sub-Lokalitäten, alle Risse, alle Übergänge, alle Akt-Mappings. Was offen bleibt, ist klar markiert (`[L]`). Was Steinbruch ist, ist klar markiert (`[S]`). Was kanonisch ist (`[K]`), trägt.

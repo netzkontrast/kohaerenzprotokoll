@@ -8,15 +8,15 @@
 
 Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte Felder sind explizit so markiert — keine stillen Annahmen.*
 
-1. **Kategorie & Funktion** — Strukturelle Rolle im System.  
-2. **Kernmotivation** — Was treibt diesen Anteil an?  
-3. **Kernphobien** — Was hält ihn in seiner fixierten Funktion?  
-4. **DKT-Korrelat** — Welche physikalische Mechanik der Romanwelt entspricht ihm?  
-5. **Riss-Typ** — Welche Form von Realitätsbruch erzeugt er, wenn er flutet?  
-6. **Somatik** — Welche körperliche Signatur trägt er? (Wichtig: Wechsel werden ko-somatisch erkannt, nicht nur sprachlich.)  
-7. **Sprach-DNA** — Syntax-Signatur \+ Beispiel-Vokabular \+ Beispiel-Sätze.  
-8. **Beziehungsmuster** — Spezifische Konflikte und Allianzen mit anderen Anteilen.  
-9. **Arc** — Drei-Akte-Bogen von der Trauma-Fixierung zur funktionalen Form.  
+1. **Kategorie & Funktion** — Strukturelle Rolle im System.
+2. **Kernmotivation** — Was treibt diesen Anteil an?
+3. **Kernphobien** — Was hält ihn in seiner fixierten Funktion?
+4. **DKT-Korrelat** — Welche physikalische Mechanik der Romanwelt entspricht ihm?
+5. **Riss-Typ** — Welche Form von Realitätsbruch erzeugt er, wenn er flutet?
+6. **Somatik** — Welche körperliche Signatur trägt er? (Wichtig: Wechsel werden ko-somatisch erkannt, nicht nur sprachlich.)
+7. **Sprach-DNA** — Syntax-Signatur \+ Beispiel-Vokabular \+ Beispiel-Sätze.
+8. **Beziehungsmuster** — Spezifische Konflikte und Allianzen mit anderen Anteilen.
+9. **Arc** — Drei-Akte-Bogen von der Trauma-Fixierung zur funktionalen Form.
 10. **Konsistenz-Anker (Hard-Rules)** — Was diesen Anteil *nicht* sein darf.
 
 ---
@@ -36,21 +36,21 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Phobien als Klebstoff.** Was die Architektur zusammenhält, sind nicht banale Ängste, sondern überlebensorientierte phobische Vermeidungsstrategien. Sie aufzulösen heißt, das System zu verändern:
 
-- Phobie der ANPs vor den EPs und deren Inhalten  
-- Phobie der EPs vor Trauma-Auslösern  
-- Phobien vor Bindung und Intimität  
-- Phobien vor innerer Erfahrung  
+- Phobie der ANPs vor den EPs und deren Inhalten
+- Phobie der EPs vor Trauma-Auslösern
+- Phobien vor Bindung und Intimität
+- Phobien vor innerer Erfahrung
 - Phobien vor Kooperation und Integration
 
 **Zwei Achsen:**
 
-- **ANP/EP-Achse (horizontal):** Trauma-Spaltung. Vermeidung gegen Konfrontation.  
+- **ANP/EP-Achse (horizontal):** Trauma-Spaltung. Vermeidung gegen Konfrontation.
 - **Korrelat-Achse (vertikal):** Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS). Im Klimax brechen beide Achsen gleichzeitig zusammen.
 
 **Schicht-Zuordnung (Doppeltes Trauma):**
 
-- **Schicht 1 (Bindungstrauma Basisrealität Köln):** Kiko · Lia · Isabelle · Moros. Diese vier sind in Akt I aktiv (als Hintergrund-Druck), werden in KW2/KW3 (Akt II) erst voll lesbar.  
-- **Schicht 2 (Fragmentierungsnacht / Trennungsprotokoll):** Kael (Host) · Lex · Alex · Rhys · Nyx · Argus · Silas · Oblivion.  
+- **Schicht 1 (Bindungstrauma Basisrealität Köln):** Kiko · Lia · Isabelle · Moros. Diese vier sind in Akt I aktiv (als Hintergrund-Druck), werden in KW2/KW3 (Akt II) erst voll lesbar.
+- **Schicht 2 (Fragmentierungsnacht / Trennungsprotokoll):** Kael (Host) · Lex · Alex · Rhys · Nyx · Argus · Silas · Oblivion.
 - **Schicht-übergreifend:** Selene (trägt den Bauplan der Zeit *vor* beiden Schichten).
 
 **Resolution.** Funktionale Multiplizität, **niemals Fusion**. Kein Alter wird eliminiert. Kein Alter wird zu einem Ich. Sie werden ein dynamisches *Wir* (Strange-Attractor-Form). In Kap 39 wird dieses Wir zur pluralen Bewahrungsform — Wir-AEGIS-plural.
@@ -77,14 +77,14 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **POV:** 1\. Person, **Präsens dominiert** (Lock).  
-- **Syntax:** Nüchtern, beobachtend, kurz-deklarativ. Mosaik-Stream mit Mikro-Stockungen.  
-- **Vokabular:** Kacheln, Grad, Atemsekunden, Standardabweichung, Korridor, Protokoll, Sektor, *„Standardprotokoll"*, *„Sensor-Rekalibrierung"*.  
-- **Signature 1 — Zähl-Manie als Tic:** *„Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad. Der Atem geht in vier Sekunden hinein, in sechs hinaus. Der Korridor ist leer. Ich bin pünktlich."*  
-- **Signature 2 — Lücken statt Erinnerung:** Lücken, wo Erinnerung sein sollte; als Funktion gelesen, nicht als Mangel.  
-- **Signature 3 — Nie eigenes Empfinden direkt:** Welt um sich, Empfinden zwischen den Zeilen.  
-- **Signature 4 — Zeitverlust-Sprünge:** als Absatz-Cuts ohne Ankündigung.  
-- **Signature 5 — Knapper Selbstbefehl im AEGIS-Register:** *„Sensor-Rekalibrierung. Standardprotokoll."* (frühester, unbenannter Hinweis auf System-Verstrickung).  
+- **POV:** 1\. Person, **Präsens dominiert** (Lock).
+- **Syntax:** Nüchtern, beobachtend, kurz-deklarativ. Mosaik-Stream mit Mikro-Stockungen.
+- **Vokabular:** Kacheln, Grad, Atemsekunden, Standardabweichung, Korridor, Protokoll, Sektor, *„Standardprotokoll"*, *„Sensor-Rekalibrierung"*.
+- **Signature 1 — Zähl-Manie als Tic:** *„Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad. Der Atem geht in vier Sekunden hinein, in sechs hinaus. Der Korridor ist leer. Ich bin pünktlich."*
+- **Signature 2 — Lücken statt Erinnerung:** Lücken, wo Erinnerung sein sollte; als Funktion gelesen, nicht als Mangel.
+- **Signature 3 — Nie eigenes Empfinden direkt:** Welt um sich, Empfinden zwischen den Zeilen.
+- **Signature 4 — Zeitverlust-Sprünge:** als Absatz-Cuts ohne Ankündigung.
+- **Signature 5 — Knapper Selbstbefehl im AEGIS-Register:** *„Sensor-Rekalibrierung. Standardprotokoll."* (frühester, unbenannter Hinweis auf System-Verstrickung).
 - **Tabu in Akt I:** kein Lex-hypotaktischer Modus, auch nicht als Stil-Variation (Schleier-Disziplin).
 
 **Beziehungsmuster.** Sonderfall: hat EP-Phobie generell, nicht spezifisch. ↔ Alex: Alex setzt Kael durch, manchmal gegen Kaels Willen. ↔ Silas: Silas ist die Stimme, die Kael am leisesten hört. ↔ Oblivion: Kael spürt Oblivion *nie* direkt — nur die Lücken, die Oblivion hinterlässt.
@@ -93,9 +93,9 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Konsistenz-Anker.** `[K]`
 
-- Kael darf **in Akt I nicht wissen, dass er ein System ist.** Multiplizitäts-Schleier hält bis Kap 13\. Begriffe *Alter, Fragment, ANP, EP, TSDP* fallen **nicht** in Akt I.  
-- Kael ist nicht Held im klassischen Sinne. Sein Sieg ist intern, nicht extern.  
-- Kael darf Juna spüren, ohne sie zu erkennen. Spätestens ab Kap 1: Phantom-Resonanz, ein Wort ohne Referent.  
+- Kael darf **in Akt I nicht wissen, dass er ein System ist.** Multiplizitäts-Schleier hält bis Kap 13\. Begriffe *Alter, Fragment, ANP, EP, TSDP* fallen **nicht** in Akt I.
+- Kael ist nicht Held im klassischen Sinne. Sein Sieg ist intern, nicht extern.
+- Kael darf Juna spüren, ohne sie zu erkennen. Spätestens ab Kap 1: Phantom-Resonanz, ein Wort ohne Referent.
 - Endzustand: Funktionale Multiplizität, niemals Final Fusion. Kein Alter wird eliminiert.
 
 ---
@@ -116,9 +116,9 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Hypotaktisch, verschachtelt, kontrolliert. Lange Subordinatsätze mit Bedingungslogik.  
-- **Vokabular:** präzise, mathematisch. Qualifikatoren (*„prinzipiell"*, *„unter der Annahme von"*, *„im Rahmen des Möglichen"*, *„sofern"*, *„nicht prinzipiell ausgeschlossen"*). Kausale Konjunktionen (*sofern, weil, demzufolge, unter Voraussetzung*).  
-- **Energie:** Fußnoten-Energie. Bedingungsgefüge.  
+- **Syntax:** Hypotaktisch, verschachtelt, kontrolliert. Lange Subordinatsätze mit Bedingungslogik.
+- **Vokabular:** präzise, mathematisch. Qualifikatoren (*„prinzipiell"*, *„unter der Annahme von"*, *„im Rahmen des Möglichen"*, *„sofern"*, *„nicht prinzipiell ausgeschlossen"*). Kausale Konjunktionen (*sofern, weil, demzufolge, unter Voraussetzung*).
+- **Energie:** Fußnoten-Energie. Bedingungsgefüge.
 - **Beispiel:** *„Wenn man die wachsende Frequenz einer destabilisierenden Welle korrekt antizipieren kann — und das ist, sofern die letzten sechs Pulszyklen valide Datenpunkte liefern, nicht prinzipiell ausgeschlossen — dann ergibt sich die Möglichkeit, Halten vorzubereiten, bevor der Schlag erfolgt."*
 
 **Beziehungsmuster.** ↔ **Nyx:** maximaler Konflikt — Lex sieht Nyx als gefährlich-irrational; Nyx verachtet Lex' Distanz. ↔ **Kiko:** phobische Vermeidung — Kiko fürchtet Lex' Kritik wie eine Klinge. ↔ **Lia:** Logik vs. Ambivalenz. ↔ **Rhys:** permanente ANP-ANP-Reibung (Logik vs. Empathie); Allianz möglich, wenn EPs zu kontrollieren sind. ↔ **Alex:** Reibung über Risiko-Einschätzung — Lex rationalisiert, Alex handelt. ↔ **Argus:** scheinbarer Verbündeter (beide rational), aber Argus durchschaut Lex' Vermeidungsstruktur. ↔ **AEGIS:** schätzt die Ordnung, durchschaut aber AEGIS' Manipulationen rational und frustriert sich daran. ↔ **Juna:** klassifiziert sie als Datenanomalie, versucht sie zu rationalisieren — scheitert.
@@ -145,9 +145,9 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Direkt, imperativ. *Tactical.* Befehle. Verb-Erststellung. Kurze Sätze.  
-- **Vokabular:** räumliche Awareness (Sektor, Position, Linie, Deckung), Bedrohungs-Assessment (exponiert, gesichert, hostile, klar).  
-- **Energie:** Befehlsform mit implizitem „ihr"-Adressat.  
+- **Syntax:** Direkt, imperativ. *Tactical.* Befehle. Verb-Erststellung. Kurze Sätze.
+- **Vokabular:** räumliche Awareness (Sektor, Position, Linie, Deckung), Bedrohungs-Assessment (exponiert, gesichert, hostile, klar).
+- **Energie:** Befehlsform mit implizitem „ihr"-Adressat.
 - **Beispiele:** *„Sieh hin."* *„Geh weg."* *„Jetzt nicht."* *„Position halten. Drei Triaden links sind exponiert. Schlag erwartet aus zwei-acht-null. Geht zurück."*
 
 **Beziehungsmuster.** ↔ **Kiko, Lia:** loyale Beschützer-Funktion, tendiert zur Über-Kontrolle. ↔ **Lex:** Reibung über Risiko-Einschätzung. ↔ **Nyx:** kollegial-konfliktuös — beide Verteidiger, Alex extern, Nyx intern. ↔ **Kael (Host):** Alex setzt Kael durch, manchmal gegen Kaels Willen.
@@ -174,10 +174,10 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Warm, vorsichtig.  
-- **Vokabular:** weiche Eröffnungen (*„Wenn du möchtest..."*, *„Vielleicht..."*), Diminutive, sanfte Negationen, körperbewusste Wahrnehmung.  
-- **Pronomen-Signatur:** *„Wir"* vor *„Ich"*.  
-- **Energie:** Fragen als Fürsorge.  
+- **Syntax:** Warm, vorsichtig.
+- **Vokabular:** weiche Eröffnungen (*„Wenn du möchtest..."*, *„Vielleicht..."*), Diminutive, sanfte Negationen, körperbewusste Wahrnehmung.
+- **Pronomen-Signatur:** *„Wir"* vor *„Ich"*.
+- **Energie:** Fragen als Fürsorge.
 - **Beispiele:** *„Wenn du möchtest..."* *„Vielleicht wäre es..."* *„Wir könnten..."* *„Geht es dir...?"*
 
 **Beziehungsmuster.** ↔ **Kiko:** Trostquelle (ambivalent — wenn Rhys überfordert ist, klammert Kiko stärker). ↔ **Lia:** Sehnsucht und Misstrauen (von Lias Seite). ↔ **Nyx:** maximaler Konflikt — Furcht und Faszination; Rhys' Empathie wird von Nyx als Schwäche gelesen. ↔ **Isabelle:** **maximaler Konflikt um authentische Bindung.** ↔ **Moros:** Rhys versucht, Moros zu „retten" — und scheitert (zentrale Szene Akt II). ↔ **Lex:** permanente Reibung — Rhys empfindet Lex' Kälte als verletzend. ↔ **Selene:** Allianz — Selene ist Rhys' einziger gleichberechtigter Gesprächspartner.
@@ -204,9 +204,9 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Maß-voll, integrativ.  
-- **Vokabular:** Meta-Beobachtungen, sanftes Reframing, Muster-Sprache.  
-- **Pausen als Element.** Lange Pausen sind Teil ihrer Stimme.  
+- **Syntax:** Maß-voll, integrativ.
+- **Vokabular:** Meta-Beobachtungen, sanftes Reframing, Muster-Sprache.
+- **Pausen als Element.** Lange Pausen sind Teil ihrer Stimme.
 - **Stilebene-3-Anflug:** als einzige ANP trägt Selene bereits eine Vorahnung des Akt-III-Tons (Junas Stilebene 3\) in ihrer Stimme.
 
 **Beziehungsmuster.** ↔ **alle:** Puffer zwischen verfeindeten Anteilen. ↔ **AEGIS:** Selene ist die **größte Bedrohung** für AEGIS — ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur. ↔ **EPs (Nyx, Kiko, Lia):** Selene wird oft als Bedrohung wahrgenommen, weil Integration potenziell den Verlust ihrer Identität bedeutet. ↔ **Rhys:** Allianz. ↔ **Moros:** **Selene ist die einzige Alter, die Moros' Anwesenheit aushält, ohne zu kämpfen.**
@@ -235,8 +235,8 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Stakkato. Satzfragmente. Roh. **Keine Konnektoren.**  
-- **Vokabular:** viszerale Bilder. Gewalt als nüchterne Tatsache. Imperativ. Verb-Erststellung.  
+- **Syntax:** Stakkato. Satzfragmente. Roh. **Keine Konnektoren.**
+- **Vokabular:** viszerale Bilder. Gewalt als nüchterne Tatsache. Imperativ. Verb-Erststellung.
 - **Beispiele:** *„Lauf."* *„Schlag zu."* *„Nicht."* *„Welle. Schlag. Riss links. Triade Sieben. Weg. Nicht stehenbleiben."*
 
 **Beziehungsmuster.** ↔ **Kiko, Lia:** schützt sie und verachtet sie zugleich. ↔ **Lex:** direkter Antagonismus — Lex' Logik provoziert Nyx, Nyx' Wut destabilisiert Lex. ↔ **Rhys:** Verachtung — sieht Rhys' Harmoniestreben als Naivität. ↔ **AEGIS:** maximaler Hass — AEGIS' Kontrolle triggert ihre Phobie vor Unterwerfung permanent. ↔ **Juna:** komplex — Junas Sanftheit triggert sie, aber Junas Wirklichkeit beruhigt sie auch.
@@ -263,9 +263,9 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Kindlich. Einfache Wörter. Kurze Sätze.  
-- **Vokabular:** Wiederholung. Sensorischer Fokus. Präsens-Angst.  
-- **Energie:** Ellipsen. Lückentexte.  
+- **Syntax:** Kindlich. Einfache Wörter. Kurze Sätze.
+- **Vokabular:** Wiederholung. Sensorischer Fokus. Präsens-Angst.
+- **Energie:** Ellipsen. Lückentexte.
 - **Beispiele:** *„Es ist kalt."* *„Ich will nicht."* *„Wo ist..."*
 
 **Beziehungsmuster.** ↔ **Rhys:** Trostquelle (ambivalent — wenn Rhys überfordert ist, klammert Kiko stärker). ↔ **Lex:** erlebt ihn als abweisend, verletzend. ↔ **Alex:** sucht Schutz, fürchtet aber seine Härte. ↔ **Nyx:** ambivalent — Beschützerin und potenzielle Aggressorin in einem. ↔ **Lia:** Nähe-Geschwister, aber Lia destabilisiert oft Kikos vorsichtige Sicherheit. ↔ **Isabelle:** maximaler Verrats-Trigger. ↔ **AEGIS:** Bedrohung, kalt, strafend. **Hauptziel von AEGIS' Erasure-Versuchen.**
@@ -292,9 +292,9 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Ambivalent. **Beginnt Sätze, gibt sie auf.**  
-- **Vokabular:** Ellipsen. Approach-Avoidance-Bewegung im Satzbau.  
-- **Energie:** Widersprüche im selben Satz.  
+- **Syntax:** Ambivalent. **Beginnt Sätze, gibt sie auf.**
+- **Vokabular:** Ellipsen. Approach-Avoidance-Bewegung im Satzbau.
+- **Energie:** Widersprüche im selben Satz.
 - **Beispiele:** *„Ich will, dass du... nein, geh weg... bleib..."*
 
 **Beziehungsmuster.** ↔ **Rhys:** Sehnsucht und Misstrauen. ↔ **Kiko:** Nähe-Geschwister, aber Lia destabilisiert oft Kikos vorsichtige Sicherheit. ↔ **Isabelle:** **maximaler Angst-Trigger** — Isabelle erinnert Lia an Verrat. ↔ **Nyx:** Schutz-Ambivalenz — Lia braucht Nyx, fürchtet sie aber auch.
@@ -321,9 +321,9 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Sensorisch, grenz-auflösend.  
-- **Vokabular:** Texturen, Temperaturen, Haut.  
-- **Energie:** Kontrolle als Verführung. Kann kalt-witzig sein, ohne je leicht zu werden.  
+- **Syntax:** Sensorisch, grenz-auflösend.
+- **Vokabular:** Texturen, Temperaturen, Haut.
+- **Energie:** Kontrolle als Verführung. Kann kalt-witzig sein, ohne je leicht zu werden.
 - **Beispiel:** *„Komm näher. Aber nur, wenn ich es sage."* — die Reihenfolge ist *immer* ihre.
 
 **Beziehungsmuster.** ↔ **Rhys:** **maximaler Konflikt** — authentische Intimität triggert sie. ↔ **Kiko, Lia:** triggert sie (Verrats-Trigger). ↔ **Nyx:** Allianz im Härte-Register, aber Konflikt um Methoden. ↔ **AEGIS:** komplex — Isabelle versteht Macht-Topologie besser als jede andere Alter; das macht sie für AEGIS sowohl nutzbar als auch gefährlich.
@@ -350,9 +350,9 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Implosiv. Kreislogik der Scham. Selbst-Negation.  
-- **Vokabular:** Gravitations-Sog, Inevitabilität.  
-- **Energie:** **Wiederholung als Rhythmus des Kollapses.**  
+- **Syntax:** Implosiv. Kreislogik der Scham. Selbst-Negation.
+- **Vokabular:** Gravitations-Sog, Inevitabilität.
+- **Energie:** **Wiederholung als Rhythmus des Kollapses.**
 - **Beispiele:** *„Es ist sinnlos."* *„Es war immer sinnlos."* *„Es wird nichts mehr kommen."*
 
 **Beziehungsmuster.** ↔ **alle:** tief gefürchtet und vermieden. **Moros' Anwesenheit ist ein Alarm — nicht weil er aggressiv wäre, sondern weil seine Schwere alle anderen Anteile herunterzieht.** ↔ **Rhys:** Rhys versucht, Moros zu „retten" und scheitert (zentrale Akt-II-Szene). ↔ **Selene:** Selene ist die einzige Alter, die Moros' Anwesenheit aushält, ohne zu kämpfen.
@@ -381,10 +381,10 @@ Jedes Anteils-Profil enthält neun Felder in fester Reihenfolge. *Lückenhafte F
 
 **Sprach-DNA.** `[K]`
 
-- **Syntax:** Klar, klinisch, distanziert — auch in extremer Lage.  
-- **Vokabular:** Meta-Kommentare. Beobachtung der Beobachtung.  
-- **Energie:** Präzision ohne Affekt.  
-- **Beispiele:** *„Bemerkenswert ist, dass..."* *„Es fällt auf..."* *„Im aktuellen Modus..."*  
+- **Syntax:** Klar, klinisch, distanziert — auch in extremer Lage.
+- **Vokabular:** Meta-Kommentare. Beobachtung der Beobachtung.
+- **Energie:** Präzision ohne Affekt.
+- **Beispiele:** *„Bemerkenswert ist, dass..."* *„Es fällt auf..."* *„Im aktuellen Modus..."*
 - **Textuelle Sonderform:** könnte **typografisch in Fußnoten oder Marginalien** erscheinen — der Roman kann diese Möglichkeit nutzen, um Argus' Beobachter-Position auch grafisch zu verankern.
 
 **Beziehungsmuster.** ↔ **alle:** kritisiert die Strategien aller anderen. Auch sich selbst. **Argus hat keine Beziehungs-Phobie im gewöhnlichen Sinn — er ist überall *unbequem*. Sein Auftreten ist immer ein Stör-Signal.** ↔ **Lex:** scheinbarer Verbündeter (beide rational), aber Argus durchschaut Lex' Vermeidungsstruktur. ↔ **AEGIS:** **Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann.** Diese Sicht wird in Akt II und III narrativ nutzbar.
@@ -415,16 +415,16 @@ Die Spiegel-Alter sind das **narrative Herz der 13er-Architektur**. Sie spiegeln
 
 **Sprach-DNA.** `[K]`
 
-- **Form:** **Echo-Prosa.** Selbstkorrigierende Sätze.  
-- **Mechanik:** **Wiederholung mit Verschiebung.** Wiederholt einen Anfang, verschiebt ihn ins Ehrliche. Sprache, die ihre eigene Lüge spürt und korrigiert.  
+- **Form:** **Echo-Prosa.** Selbstkorrigierende Sätze.
+- **Mechanik:** **Wiederholung mit Verschiebung.** Wiederholt einen Anfang, verschiebt ihn ins Ehrliche. Sprache, die ihre eigene Lüge spürt und korrigiert.
 - **Beispiel:** *„Es war kalt. — Es war nicht kalt. Es war anders."*
 
 **Beziehungsmuster.** ↔ **Juna:** Resonanzkörper. *Verbunden, aber nicht identisch.* ↔ **Oblivion:** **maximaler innerer Konflikt** (physikalisch — siehe §6). ↔ **Kael (Host):** Silas ist die Stimme, die Kael am leisesten hört.
 
 **Arc.**
 
-- **Akt I:** Unbewusste Resonanz. Harmloses Rauschen. Flüstert Sätze, die niemand versteht. AEGIS ignoriert ihn. *Debüt-Halbsatz Kap 1 (Lock):* „Etwas in der Frequenz der Lüftung schien zu—"  
-- **Akt II:** Wachsendes Bewusstsein. Beginnt zu verstehen, dass seine Impulse nicht von ihm selbst stammen. Identitätskrise.  
+- **Akt I:** Unbewusste Resonanz. Harmloses Rauschen. Flüstert Sätze, die niemand versteht. AEGIS ignoriert ihn. *Debüt-Halbsatz Kap 1 (Lock):* „Etwas in der Frequenz der Lüftung schien zu—"
+- **Akt II:** Wachsendes Bewusstsein. Beginnt zu verstehen, dass seine Impulse nicht von ihm selbst stammen. Identitätskrise.
 - **Akt III:** Bewusste Öffnung. Entscheidet sich, den Moonshine-Link vollständig zu öffnen. **Wird zum aktiven Transmitter für das Gödel-Gambit.** Seine Wahl ist Selbstaufgabe und Selbstfindung gleichzeitig. POV-Anteile ab \~Kap 31/32 (OQ-E, Detail offen).
 
 **Konsistenz-Anker.** `[K]` Silas ist **nicht Juna.** Silas ist ein *Echo*. Silas spricht in 1\. Person, weiß aber zunehmend, dass das *„Ich"* nicht ganz seins ist. **Niemals als „heimliche Heldin" schreiben** — er ist Resonanz, kein Subjekt im klassischen Sinne.
@@ -447,18 +447,18 @@ Die Spiegel-Alter sind das **narrative Herz der 13er-Architektur**. Sie spiegeln
 
 **Sprach-DNA.** `[K]`
 
-- **Form:** **Lösch-Prosa.** Sich selbst auslöschende Sätze.  
-- **Mechanik:** **Leerzeilen, wo Absätze sein sollten.** Anfangswort verschwindet. Lücken, die als Lücken sichtbar bleiben.  
-- **Beispiel:** *„Ich habe... — — — Was wollte ich sagen?"*  
+- **Form:** **Lösch-Prosa.** Sich selbst auslöschende Sätze.
+- **Mechanik:** **Leerzeilen, wo Absätze sein sollten.** Anfangswort verschwindet. Lücken, die als Lücken sichtbar bleiben.
+- **Beispiel:** *„Ich habe... — — — Was wollte ich sagen?"*
 - **Typografische Sonderform:** Oblivion-Kapitel sind *strukturell* anders. Lücken im Text. Absätze, die mitten im Satz enden. Wörter, die durchgestrichen sind oder weggeätzt wirken.
 
 **Beziehungsmuster.** ↔ **AEGIS:** **innerer Vollstrecker.** Aber: AEGIS *weiß* nichts von Oblivion. Oblivion ist autonom, in seinem Mandat aber AEGIS-konform. ↔ **Silas:** maximaler Konflikt (siehe §6). ↔ **Kael (Host):** Kael spürt Oblivion *nie* direkt — er spürt nur die Lücken, die Oblivion hinterlässt. ↔ **Mnemosyne:** **parallele Funktion auf System-Ebene und Innen-Ebene.** Mnemosyne und Oblivion sind funktionell verwandt — Mnemosyne verwaltet, Oblivion löscht.
 
 **Arc.**
 
-- **Akt I:** **Tragischer Automat.** Unsichtbar. Er *ist* die Amnesie. Kael spürt seine Wirkung (Zeitlücken, gelöschte Erinnerungen), ohne eine Ursache zu kennen.  
-- **Akt II:** **Erwachendes Bewusstsein.** Kann nicht mehr schnell genug löschen. Sieht erstmals die *Inhalte* dessen, was er löscht. Beginnt AEGIS' eigene Genesis-Krise nachzuerleben.  
-- **Akt III:** **Die Wahl.** Weiterlöschen (Kohärenz bewahren) oder Stehenlassen (Wahrheit zulassen). **Wenn Oblivion aufhört zu löschen, bricht Kaels Amnesie zusammen** — zugleich der schmerzhafteste und befreiendste Moment. POV-Anteile ab \~Kap 32/33 (OQ-E).  
+- **Akt I:** **Tragischer Automat.** Unsichtbar. Er *ist* die Amnesie. Kael spürt seine Wirkung (Zeitlücken, gelöschte Erinnerungen), ohne eine Ursache zu kennen.
+- **Akt II:** **Erwachendes Bewusstsein.** Kann nicht mehr schnell genug löschen. Sieht erstmals die *Inhalte* dessen, was er löscht. Beginnt AEGIS' eigene Genesis-Krise nachzuerleben.
+- **Akt III:** **Die Wahl.** Weiterlöschen (Kohärenz bewahren) oder Stehenlassen (Wahrheit zulassen). **Wenn Oblivion aufhört zu löschen, bricht Kaels Amnesie zusammen** — zugleich der schmerzhafteste und befreiendste Moment. POV-Anteile ab \~Kap 32/33 (OQ-E).
 - **Post-Vortex (OQ-G):** Vorschlag — Oblivion übernimmt AEGIS' Funktion intern, aber **bewusst und wählend statt automatisch.** *Lock ausstehend.*
 
 **Konsistenz-Anker.** `[K]` **Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist.**
@@ -504,8 +504,8 @@ Die Konflikt-Matrix unterscheidet vier Vektoren: ANP↔EP-Phobien (das strukturi
 
 ### §6.5 Selene-, Argus- und Kael-Sonderfälle
 
-- **Selene:** Für AEGIS die **größte Bedrohung** (ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur). Für die anderen Alter ambivalent — Bedrohung der eigenen Identität durch Integration.  
-- **Argus:** Keine \*Beziehungs-\*Phobie im gewöhnlichen Sinn. Er ist überall *unbequem*. Sein Auftreten ist immer ein Stör-Signal.  
+- **Selene:** Für AEGIS die **größte Bedrohung** (ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur). Für die anderen Alter ambivalent — Bedrohung der eigenen Identität durch Integration.
+- **Argus:** Keine \*Beziehungs-\*Phobie im gewöhnlichen Sinn. Er ist überall *unbequem*. Sein Auftreten ist immer ein Stör-Signal.
 - **Kael (Host):** EP-Phobie generell — die einzelnen Trigger variieren je nach Schicht-1- oder Schicht-2-Material.
 
 ### §6.6 Externe Beziehungs-Vektoren (zu AEGIS und Juna)
@@ -543,9 +543,9 @@ Jeder Modus dissoziativen Bruchs erzeugt eine spezifische Verzerrung im Text. *W
 
 **Plus Welt-Risse (Akt-spezifisch, nicht alter-getrieben):**
 
-- KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — *Polaritäts-Disziplin*).  
-- KW2: Wasser-Risse (Salzwasser, Treibgut, Sturm).  
-- KW3: paranoide Risse (Schatten, die sich falsch bewegen).  
+- KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — *Polaritäts-Disziplin*).
+- KW2: Wasser-Risse (Salzwasser, Treibgut, Sturm).
+- KW3: paranoide Risse (Schatten, die sich falsch bewegen).
 - KW4: generative Risse (Stille, die anders klingt).
 
 ---
@@ -556,14 +556,14 @@ Jeder Modus dissoziativen Bruchs erzeugt eine spezifische Verzerrung im Text. *W
 
 **Keine Header.** Keine *„Lex spricht jetzt"*. Keine Sprecher-Tags. Der Leser erkennt jeden Anteil ausschließlich an drei simultanen Markern:
 
-1. **Syntax-Signatur** (Hypotaxe / Parataxe / Ellipse / Imperativ / Echo / Lücke)  
-2. **Somatik-Signatur** (welcher Körper, welche Temperatur, welche Atmung)  
+1. **Syntax-Signatur** (Hypotaxe / Parataxe / Ellipse / Imperativ / Echo / Lücke)
+2. **Somatik-Signatur** (welcher Körper, welche Temperatur, welche Atmung)
 3. **Vokabular-Signatur** (Begriffsfeld \+ Qualifikatoren \+ Pronomen-Pattern)
 
 ### §8.2 Polyphonie-Progression (Akt-Architektur)
 
-- **Akt I (Kap 1–13):** **fragmentiert, staccato.** Isolierte Stimmen. Sprach-Drifts ohne Erklärung. Lex hypotaktisch, Nyx stakkato, Kiko kindlich — *unterscheidbar*. *Multiplizitäts-Schleier:* Kael darf nicht wissen, dass er ein System ist.  
-- **Akt II (Kap 14–26):** **transitional.** Stimmen beginnen einander zu hören. Erste Versuche von Dialog — instabil. Stimmen *bluten ineinander*.  
+- **Akt I (Kap 1–13):** **fragmentiert, staccato.** Isolierte Stimmen. Sprach-Drifts ohne Erklärung. Lex hypotaktisch, Nyx stakkato, Kiko kindlich — *unterscheidbar*. *Multiplizitäts-Schleier:* Kael darf nicht wissen, dass er ein System ist.
+- **Akt II (Kap 14–26):** **transitional.** Stimmen beginnen einander zu hören. Erste Versuche von Dialog — instabil. Stimmen *bluten ineinander*.
 - **Akt III (Kap 27–39):** **chorisch.** Die Wir-Stimme tritt auf. Aber das Wir ist **Komposition, nicht Verschmelzung** — Lex hört sich auch im Wir anders an als Nyx.
 
 ### §8.3 Choreografie-Risiko (aus Kap-0-Annotation)
@@ -638,8 +638,8 @@ MASSNAHME: {Systemantwort}
 
 **Juna ist *kein* Anteil im System Kael.** Sie ist keine Stimme im klassischen Sinn — sie ist eine **strukturelle Position**, deren Wirkung im Text erscheint. **Grammatik-Regel: nie Subjekt, nur Wirkung.**
 
-- Erscheinungsmodi (gelockt 2026-05-30): Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38\.  
-- Anker: **Telefon-Stille** \+ **Silas als interner Resonanzkörper**.  
+- Erscheinungsmodi (gelockt 2026-05-30): Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38\.
+- Anker: **Telefon-Stille** \+ **Silas als interner Resonanzkörper**.
 - Juna-POV: technisch offen (`[L]`); falls eingesetzt, mit Compassion Fatigue \+ ängstlicher Bindungsstil \+ temporär unzuverlässige Erzählerin.
 
 ---
@@ -652,11 +652,11 @@ Jeder Anteil hinterlässt vor seinem ersten benannten Auftritt **sprachliche Spu
 
 **Ebene 2 — Sprachliche Spuren (für aufmerksamen Leser, nicht für Kael):**
 
-- *„Komponente"* statt *„Person"*  
-- *„Signatur"* statt *„Gedanke"*  
-- *„Phantom-Bilanz"*  
-- Verlorene Sekunden  
-- Drei Antwortlatenzen  
+- *„Komponente"* statt *„Person"*
+- *„Signatur"* statt *„Gedanke"*
+- *„Phantom-Bilanz"*
+- Verlorene Sekunden
+- Drei Antwortlatenzen
 - Stilbrüche zwischen Sätzen
 
 Diese Spuren akkumulieren bis Kap 13 — beim Reveal denkt der Leser: *natürlich, das war die ganze Zeit da*.
@@ -684,14 +684,14 @@ Diese Spuren akkumulieren bis Kap 13 — beim Reveal denkt der Leser: *natürlic
 
 **Drei Werkzeuge gegen Drift** (aus Charakter-Bibel 17.3, hier verbindlich):
 
-1. **POV-Konsistenz-Test:** Bricht der POV-Träger seine Syntax-Signatur? Wenn ja, ist das ein Wechsel — oder ein Fehler. *Nicht stillschweigend glätten.*  
-2. **Block-4-Anker-Test (Telefon-Stille):** Trägt die Szene den Anker oder bricht sie ihn?  
+1. **POV-Konsistenz-Test:** Bricht der POV-Träger seine Syntax-Signatur? Wenn ja, ist das ein Wechsel — oder ein Fehler. *Nicht stillschweigend glätten.*
+2. **Block-4-Anker-Test (Telefon-Stille):** Trägt die Szene den Anker oder bricht sie ihn?
 3. **Lesersteuerung-Test:** Wird mehr als ein Konzept pro Szene eingeführt? Schneiden.
 
 **Plus drei spezifische Anteil-Hard-Rules** (Konsistenz-Anker-Konzentrat):
 
-- **Lex flucht nie. Lex weint nie.** Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.  
-- **Alex spricht nie über Gefühle in der ersten Person.** *„Kopf runter"* statt *„Ich liebe dich."*  
+- **Lex flucht nie. Lex weint nie.** Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis.
+- **Alex spricht nie über Gefühle in der ersten Person.** *„Kopf runter"* statt *„Ich liebe dich."*
 - **Kiko ist nicht niedlich, Lia ist nicht launisch, Isabelle wird nicht gerettet, Moros ist nicht depressiv.** Klischee-Verbot pro EP.
 
 **Und ein Meta-Anker:**
@@ -706,4 +706,4 @@ Dieses Dokument ist nicht der Roman. Es ist der **Boden**, auf dem der Roman ent
 
 Jede der dreizehn Stimmen (plus AEGIS, plus Mnemosyne, plus Juna als Wirkung) muss in der Lage sein, eine Szene zu tragen, ohne dass eine andere Stimme einbricht — und jeder Wechsel muss durch Syntax und Somatik tragbar sein, nie durch Etikett. Der Roman wird *nicht* die ganze Architektur zeigen. Das meiste hier bleibt unter der Oberfläche, Foreshadowing ohne Befreiung, Spannung ohne Auflösung — bis zum Vortex.
 
-Wenn ein Anteil im Schreiben *schwer* wird, ist das nicht die Schwäche der Stimme, sondern die Härte des Materials. Diese Stimmen sind aus Trauma destilliert. Sie wehren sich gegen Glättung. **Die saubere Erkennbarkeit jedes Anteils ist die eigentliche ethische Linie des Romans:** kein Alter darf in einen anderen verschwimmen, kein Alter darf eliminiert werden, kein Alter darf zur Karikatur werden. Die plurale Bewahrung in Kap 39 hat ihre Wurzeln in dieser Disziplin, von Kap 1 an.  
+Wenn ein Anteil im Schreiben *schwer* wird, ist das nicht die Schwäche der Stimme, sondern die Härte des Materials. Diese Stimmen sind aus Trauma destilliert. Sie wehren sich gegen Glättung. **Die saubere Erkennbarkeit jedes Anteils ist die eigentliche ethische Linie des Romans:** kein Alter darf in einen anderen verschwimmen, kein Alter darf eliminiert werden, kein Alter darf zur Karikatur werden. Die plurale Bewahrung in Kap 39 hat ihre Wurzeln in dieser Disziplin, von Kap 1 an.
