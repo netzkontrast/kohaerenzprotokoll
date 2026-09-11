@@ -169,11 +169,11 @@ Als wir auf gleicher Höhe sind, heben wir beide das Kinn.
 
 Mein Körper will stehenbleiben. Ich merke es an den Waden, an dem Zug, der nach hinten geht, während der Rest nach vorn geht. Und dann ist der Zug weg, so wie vorhin die Spannung aus den Fingern weg war, und die Schritte laufen weiter in ihrem Abstand.
 
-„Wir gehen jetzt."
+„Wir gehen jetzt.“
 
 Ich habe es gesagt. Nicht laut. Aber die Lippen haben sich bewegt, und der Gang ist leer, und in einem leeren Gang trägt auch das.
 
-„Ich", sage ich. „Ich gehe jetzt."
+„Ich“, sage ich. „Ich gehe jetzt.“
 
 An der Abzweigung ist eine Wandfläche für Wegauskünfte. Sie leuchtet auf, wenn jemand nahe genug kommt, und sie zeigt an, wohin die Gänge führen.
 

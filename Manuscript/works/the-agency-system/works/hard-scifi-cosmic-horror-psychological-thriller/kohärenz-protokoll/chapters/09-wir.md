@@ -88,7 +88,7 @@ Ich prüfe zuerst das Blatt. Es ist dasselbe Blatt. Ich prüfe die Tür. Sie ist
 
 Dann lese ich den Namen laut.
 
-„Kael."
+„Kael.“
 
 Es ist ein Wort wie jedes. Es hat zwei Silben, und die zweite ist kürzer, und es kommt ohne Widerstand aus dem Mund. Es ist nicht so, dass ich etwas wiedererkenne. Es ist so, dass nichts dagegen steht.
 

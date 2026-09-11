@@ -52,9 +52,9 @@ Er setzt sich in einem Zug.
 
 Ich bleibe zwei Schritte vor meiner Station stehen. Schultern, Arme, Rest — so war die Reihenfolge, jeden Morgen, die einzige Bewegung im Knoten, die aus drei Teilen bestand. Jetzt besteht sie aus einem. Ein Mann setzt sich hin, so wie sich hier alle hinsetzen, und es geht schneller.
 
-„Bereit", sagt er.
+„Bereit“, sagt er.
 
-„Bereit", sage ich.
+„Bereit“, sage ich.
 
 Ich warte.
 
@@ -72,7 +72,7 @@ Vielleicht hat er schlecht geschlafen. Das kommt vor. Es steht nichts im Weg, da
 
 Ich ordne die offenen Vorgänge nach Alter. Bei Stufe 2 ist das so vorgesehen.
 
-Es ist nichts geschehen. Er sitzt an Station 12, wo er immer sitzt. Er hat „Bereit" gesagt, und das hat er immer gesagt. Die Ration ist ausgegeben, das Licht liegt gleichmäßig auf allen Flächen, die Umluft ist geruchlos, es sind einundzwanzig Grad.
+Es ist nichts geschehen. Er sitzt an Station 12, wo er immer sitzt. Er hat „Bereit“ gesagt, und das hat er immer gesagt. Die Ration ist ausgegeben, das Licht liegt gleichmäßig auf allen Flächen, die Umluft ist geruchlos, es sind einundzwanzig Grad.
 
 Ich lege die Hand auf meine Fläche.
 

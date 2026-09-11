@@ -47,9 +47,9 @@ Kapitel 6 führte Pursuit als Spurensuche ein. Kapitel 7 verändert den Grund da
 
 Doran setzt sich in einem Zug.
 
-„Bereit."
+„Bereit.“
 
-„Bereit."
+„Bereit.“
 
 Ich sage die Zahl nicht mehr vor. Ich habe sie gestern noch im Mund gehabt; heute ist sie nicht mehr da. Das ist praktisch. Man kann eine Antwort nicht monatelang bereithalten für eine Frage, die nicht kommt.
 
@@ -183,7 +183,7 @@ Beim dritten Atemzug stimmt der Takt nicht mehr. Er ist nicht falsch. Er ist lan
 
 Ich sitze da, und die Stille liegt an meinem Ohr, und irgendwann sage ich:
 
-„Da."
+„Da.“
 
 Ich sage es leise und nicht als Frage. Es ist kein Wort, das etwas verlangt. Es ist das Wort, das übrig bleibt, wenn man alle Wörter wegnimmt, die eine Antwort brauchen.
 
