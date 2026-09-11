@@ -5,7 +5,8 @@
     "work_slug": "kohärenz-protokoll",
     "genre_slug": "hard-scifi-cosmic-horror-psychological-thriller",
     "created": "2026-06-12",
-    "note": "Storyform B (canon-treu, inkl. dokumentierter Heterodoxie: MC-Concern Progress ≠ Signpost[0]; Signpost-Reihenfolge linear-progressiv statt kanonisch). Engine-Gates laufen gegen A."
+    "updated": "2026-09-11",
+    "note": "Storyform B (canon-treu, inkl. dokumentierter Heterodoxie: MC-Concern Progress ≠ Signpost[0]; Signpost-Reihenfolge linear-progressiv statt kanonisch). Engine-Gates laufen gegen A. Gelockte Storyform-Slots gegen den normativen Canon vom 2026-06-10 synchronisiert."
   },
   "players": [],
   "scenes": [],
@@ -78,6 +79,9 @@
       "judgment": "bad"
     },
     "goal": "Aufrechterhaltung der Trennung; Kohärenz-Protokoll-Mandat",
+    "consequence": "Wiederkehr der Genesis-Krise (latent ab Kap 1, akut Akt II, eintretend Vortex 1)",
+    "cost": "AEGIS-monolithisch erlischt (manifest Kap 36)",
+    "dividend": "Funktion bleibt: Bewahrung wird durch plurale Übernahme vollendet (Kap 39; retroaktiv erkannt Kap 40)",
     "premise": "AEGIS hält die Trennung steadfast aufrecht, adoptiert Feeling nie — Failure/Bad, mit Dividend durch plurale Übernahme."
   }
 }
