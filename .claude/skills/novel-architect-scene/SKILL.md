@@ -39,8 +39,8 @@ For Kap. 1–5 also read [the coherence pass](../../../Plan/drafting/coherence-p
 - Kap. 1 = primary Kael voice anchor.
 - Kap. 2 = system contradiction / geometry / foreign artefact syntax.
 - Kap. 3 = counter-register + measurable latency + first warmth.
-- Kap. 4 = planned audit / found object / lost interval; currently next prose gap in the opening block.
-- Kap. 5 = planned Hard-B anchor, but the current prose is not yet a valid voice/log reference: revise it to the nameless subjectless view and minimal anonymous log format before reuse.
+- Kap. 4 = audit / found object / lost interval; drafted and continuity-checked against Kap. 3/5.
+- Kap. 5 = valid Hard-B anchor in nameless, subjectless functional prose with minimal anonymous log format.
 
 ## Hard prohibitions
 

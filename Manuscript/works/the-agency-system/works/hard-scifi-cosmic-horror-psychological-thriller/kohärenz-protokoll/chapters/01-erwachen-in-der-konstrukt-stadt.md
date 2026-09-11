@@ -13,13 +13,35 @@ scene_refs: []
 # Chapter 1
 
 ## Summary
-(Chapter summary)
+Ein exakt geregelter Tag trägt Kael zuverlässig durch Wohneinheit 734, Transitkorridor Delta-Sieben und Datenknoten Epsilon. Seine Kompetenz ist real: Er kennt jeden Weg, schließt 306 Sequenzen ab und korrigiert die minimale Abweichung in Sequenz 114. Auch die Beziehung zu Doran besteht aus verlässlichen, freiwilligen Wiederholungen.
+
+Erst auf dem Rückweg entsteht eine einzelne objektive Falschheit. Kaltes Ozon, eine unmögliche Wandkante und ein fernes Klick entziehen sich jedem bearbeitbaren Verfahren; ein Satz in der Lüftungsfrequenz bricht vor dem Verb ab. Kael schließt den Tag formal, doch die Stille in seiner Wohneinheit bleibt als körperlicher Rest bestehen. Kapitel 2 greift die scheinbar erledigte Sequenz 114 wieder auf.
 
 <!-- AGENT: Render this chapter.md template per chapter via `novel.create_chapter`; the prose-drafter skill fills body sections. -->
 
-## Outline **Akt:** Akt I — Heldinnenreise innen **POV:** Kael (Hard-A, 1. Person); AEGIS-Stimme: keine — nur sterile Konsolen-Direktiven (Maschinen-Interface)  Ein Mensch, ein steril perfekt geordneter Alltag (Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7); Ordnung als Käfig; eine einzige konkrete Falschheit. Genesis-Echo: das sterile Setting ist die Innere Weite aus Kap 0 — der Leser erkennt es, Kael nicht.  ### Beats - HR-Stufe: Illusion der perfekten Welt · KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug) - Erstsatz-Lock: „Das Licht ist schon da, als ich erwache." - Schicht-1/Schicht-2-Anteil 80/20 (Schicht-2-dominant: Ozon/Glitch = Szene 3; ein Schicht-1-Beat: dichte Stille = Szene 4; eine Schicht pro Szene) - „Einheit 734" einmal als Konsolen-Zeile, ohne Betonung, Kael reagiert nicht (Reader-only-Echo) - Silas-Halbsatz: „Etwas in der Frequenz der Lüftung schien zu—" (Abbruch vor dem Verb, kein Subjekt, Schicht-2-gekoppelt) - Ozon kalt/scharf/elektrisch, keine Wärme in Kap 1 - Leitmotiv: quellenloses Licht, Ozon, Stille; Atem
+## Outline
+**Akt:** Akt I — Heldinnenreise innen
 
-<!-- Draft v1.0-fresh (2026-09-11). Neufassung auf Auftrag; Welt-Fakten und Locks aus Draft v0.5 (Drive, 2026-07-31) übernommen, Text neu. v0.5 zum Vergleich: Plan/drafting/sources/CH-01_Erwachen-Zyklus_Draft-v0_5.md. Entscheidung D-16. -->
+**POV:** Kael (Hard-A, 1. Person); Ordnungsstimme nur als sterile Konsolen-Direktive
+
+**HR-/Storyform-Stufe:** Illusion der perfekten Welt · KW1 · A: MC-S1 (Memory latent) · B: IC-S1
+
+**Kapitelauftrag:** Ordnung zuerst als begehrenswerte Kompetenz etablieren und danach genau einmal objektiv brechen.
+
+### Beats
+1. **Erwachen:** quellenloses Licht, 21 °C, Atem 4/6 und sieben Zählschritte etablieren die glaubwürdige Routine.
+2. **Transit:** 204 Platten und das freiwillige Langsamerwerden am dritten Fenster zeigen positive Bindung an KW1.
+3. **Arbeit:** Doran-Ritual, 306 Sequenzen und die Korrektur von Sequenz 114 schließen den äußeren Tag.
+4. **Rückweg:** kaltes Ozon, unmögliche Kante, Klick und der gelockte Halbsatz bilden die einzige objektive Falschheit.
+5. **Abend:** Die Zahlenbilanz schließt; dichte Stille und Scherbenbild bleiben offen.
+
+### Locks
+- Erstsatz: „Das Licht ist schon da, als ich erwache."
+- `EINHEIT 734` einmalig und unbetont; keine Wärme.
+- Silas-Halbsatz: „Etwas in der Frequenz der Lüftung schien zu—"
+- Leitmotive: quellenloses Licht, Ozon, Stille, Atem; Genesis-Echo ohne Erklärung.
+
+<!-- Draft v1.1 (2026-09-11). Spiegelversatz gemäß D-19 entfernt; übrige Stimm- und Ereignisstruktur aus v1.0 erhalten. v0.5 zum Vergleich: Plan/drafting/sources/CH-01_Erwachen-Zyklus_Draft-v0_5.md. -->
 
 ---
 
@@ -35,11 +57,7 @@ Es sind einundzwanzig Grad.
 
 Ich bleibe liegen und zähle. Eins. Zwei. Drei. Bei sieben stehe ich auf. Ich höre immer bei sieben auf. Sieben ist eine Zahl, bei der man gut aufhört: Man hat lange genug gelegen, um es zu merken, und nicht so lange, dass der Tag schon angefangen hat.
 
-Die Ablage ist ausgefahren. Darauf steht ein Glas Wasser, bis knapp unter den Rand gefüllt. Ich nehme es und trinke, und über dem Glas sehe ich mich in der spiegelnden Wandfläche, einen Mann auf der Kante eines Bettmoduls, der ein Glas hält. Ich setze das Glas ab. Der Mann in der Wand setzt es ab.
-
-Einen Lidschlag später.
-
-Meine Hand liegt schon auf der Ablage, leer, und seine Hand hält das Glas noch eine Spur über der Fläche. Dann liegt auch seine Hand leer. Wir sitzen wieder gleich.
+Die Ablage ist ausgefahren. Darauf steht ein Glas Wasser, bis knapp unter den Rand gefüllt. Ich nehme es und trinke, und über dem Glas sehe ich mich in der spiegelnden Wandfläche, einen Mann auf der Kante eines Bettmoduls, der ein Glas hält. Ich setze das Glas ab. Der Mann in der Wand setzt es ab. Die Bewegungen liegen vollständig übereinander.
 
 *Sensor-Rekalibrierung. Standardprotokoll.*
 

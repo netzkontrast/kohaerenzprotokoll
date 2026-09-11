@@ -19,7 +19,7 @@ This file is the shared data map for all repo-local skills. **Do not use histori
 - [dramatica.md](../../Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/dramatica.md) — dual-storyform transcription/working reference.
 - [ncp.json](../../Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/ncp.json) — Storyform A encoded state.
 - [ncp-b.json](../../Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/ncp-b.json) — Storyform B encoded state.
-- [chapters/](../../Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/chapters/) — current chapter files. Written prose currently includes Kap. 0, 1, 2, 3 and 5; chapter 4 is the next planned prose gap in the opening block.
+- [chapters/](../../Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/chapters/) — current chapter files. Written and continuity-checked prose now covers Kap. 0–5; chapter 6 is the next planned prose gap.
 
 ## Current arc planning
 

@@ -192,7 +192,7 @@ Die Wissensagenten-PDF ist Methodenquelle, kein Diegese-Canon: MOC, Graph, Refle
 
 1. Geschlossene Entscheidungen G-01 bis G-05 sowie D-01 bis D-03, D-16 bis D-19 und D-21 bis D-24 bei jeder Revision prüfen.
 2. Fokussiertes Packet 1–5 als Evidenz- und Übergabevertrag verwenden.
-3. Kapitel 1 punktuell und Kapitel 5 strukturell revidieren; Kapitel 4 aus dem vollständigen Packet draften.
+3. **Abgeschlossen:** Kapitel 0/1/5 revidiert, Kapitel 2/3 erweitert und Kapitel 4 aus dem vollständigen Packet gedraftet.
 4. Kapitel 6–13 vorbereiten, wobei jedes Packet die konkrete Auswirkung aus Kapitel 5 importiert.
 5. Für Akt II zuerst die zehn unterschiedlichen Szenenformen festschreiben.
 6. Für Akt III die Verlustmatrix und Skalierungsleiter vervollständigen.

@@ -38,7 +38,7 @@ Zu Beginn glaubt Kael, eine Abweichung werde durch Markierung beendet. Am Ende h
 - Die Geometrie-Anomalie muss stärker als Kapitel 1 sein, aber noch lokal und überprüfbar wirken.
 - Kapitel 2 endet nicht auf Rebellion, sondern auf der unbehaglichen Entscheidung, die Widersprüche zunächst zu verwalten.
 
-<!-- Draft v0.1 (2026-09-11). Plan: Plan/drafting/akt1-arc-optimized_2026-09-11.md · Anschlussprüfung gegen Kap 1 und Kap 5. -->
+<!-- Draft v0.2 (2026-09-11). Plan: Plan/drafting/enrichment-packets_01-05_2026-09-11.md · Mess- und Verfahrenshandlung vertieft; gelockte Daten unverändert. -->
 
 ---
 
@@ -75,6 +75,16 @@ Doran setzt sich, zuerst die Schultern, dann die Arme, dann der Rest.
 „Dreihundertsechs.“
 
 Er zieht die Mundwinkel nach unten. „Stabil.“
+
+Er richtet die Ärmel an beiden Handgelenken aus. Links, rechts. Dann legt er die Hände neben die Fläche, bis seine Station erwacht. Ich kenne die Abstände seiner Bewegungen. Zwischen dem rechten Ärmel und der Hand auf der Fläche liegt ein Atemzug; zwischen meiner Zuweisung und seiner ein halber. Heute stimmen beide.
+
+„Umleitung“, sagt er, als die zweite Zeile auch bei ihm erscheint.
+
+„Sektor 04.“
+
+„Siebenhundertundeins bis siebenhundertfünfzig.“
+
+Er liest die Zahlen nicht zur Kontrolle vor. Er liest sie vor, weil sie uns beide betreffen. Danach beginnen wir.
 
 Ich lege die Hand auf die Fläche.
 
@@ -116,6 +126,16 @@ Die Bilanz stimmt.
 
 Ich bestätige.
 
+Der Bestätigungston ist derselbe wie gestern. Kurz, trocken, ohne Nachklang. Die Markierung verschwindet aus dem Strom und bleibt in der Liste. Ich öffne den Eintrag, bevor die nächste Sequenz die Fläche füllt.
+
+POSITION: 114-U/R-03.
+
+Altwert und Neuwert stehen nebeneinander. Der Altwert ist derselbe wie gestern. Der Neuwert auch. Unter Herkunft steht automatische Prüfung. Unter vorheriger Vorgang steht keiner.
+
+Ich tippe auf die leere Stelle. Sie bleibt leer.
+
+Die nächste Sequenz wartet drei Sekunden. Ich schließe den Eintrag und beginne sie.
+
 Die nächste Sequenz erscheint.
 
 Ich prüfe sie.
@@ -153,6 +173,8 @@ Ein Pfeil auf der Wandfläche weist nach links.
 **SEKTOR 04. TRANSIT FREIGEGEBEN.**
 
 Der Korridor dahinter ist heller als Delta-Sieben. Nicht viel. Die Platten sind dieselben quadratischen Platten, die Fugen gleich schmal, die Wände glatt. Es gibt keine Fenster.
+
+An der Decke stehen in gleichen Abständen schmale Lichtfelder. Nach jedem zehnten Feld folgt eine Wartungsfuge. Ich nehme beides in die Zählung auf, damit eine einzelne fehlende Bodenfuge die Zahl nicht verschieben kann: Platte, Licht, Platte, Platte, Wartungsfuge. Die Reihen stimmen bis zum Ende der ersten Hundert.
 
 Ich zähle.
 
@@ -236,6 +258,12 @@ Ich trete nach links.
 
 Sie passen nicht.
 
+Ich stelle die Ferse auf die Fuge und bewege nur den Kopf. Links endet die Wand vor der nächsten Lichtkante. Rechts reicht sie darüber hinaus. Die Wartungsfuge an der Decke bleibt an derselben Stelle. Boden und Decke stimmen miteinander überein. Die Wand stimmt nacheinander mit beiden überein.
+
+Ich gehe zurück zur Markierung 04-C und zähle die Lichtfelder. Zwanzig volle Gruppen und vier einzelne. Zweihundertvier. Dann zähle ich die Bodenplatten bis zur Abzweigung. Zweihundertelf.
+
+Beide Zahlen lassen sich wiederholen.
+
 Etwas Scharfes liegt in der Luft.
 
 Metallisch. Elektrisch. Kalt hinten in der Nase.
@@ -267,6 +295,10 @@ Dann:
 Ich lese die Zeile noch einmal.
 
 Die Konsole hat den Plan. Sie hat die Wegmarken. Sie hat die Plattenzählung aus dem Transit. Ich habe meine Schritte.
+
+Ich öffne die Meldung erneut. Eingabe: 204 angezeigt, 211 beobachtet. Der Text steht noch da. Darunter liegt die Antwort. Die Fläche hat meine beiden Zahlen nicht verwechselt.
+
+Ich könnte eine zweite Meldung senden. Eine zweite Meldung mit denselben Werten wäre keine zweite Beobachtung. Sie würde nur beweisen, dass ich zweimal dieselbe Meldung senden kann.
 
 Ich kann mich verzählt haben.
 
@@ -333,6 +365,18 @@ Er blinkt.
 Ich lösche nichts.
 
 Ich ergänze nichts.
+
+Stattdessen öffne ich den Tagesbericht neben dem Entwurf. Sequenz 114 ist dort einmal geführt, Status ausgeglichen. Ich ziehe die beiden Fenster so weit zusammen, dass der offizielle Eintrag links und der Entwurf rechts stehen.
+
+Links: abgeschlossen.
+
+Rechts: erneut auftritt.
+
+Die Wörter widersprechen einander nicht. Das eine bezeichnet den Vorgang von heute. Das andere stellt eine Bedingung für morgen. Beides kann richtig sein, wenn abgeschlossen nicht beendet bedeutet.
+
+Ich suche in den Verfahrenshinweisen nach abgeschlossen. Das Wort erscheint vierundachtzigmal. Es bezeichnet eine Eingabe, eine Schicht, eine Prüfung, einen Transport, einen Wartungsschritt. In keinem Eintrag steht, ob etwas Abgeschlossenes wiederkehren kann.
+
+Die Suche beantwortet die Frage nicht. Sie zeigt nur, dass die Frage in den Hinweisen nicht gestellt wird.
 
 Ich schließe den Entwurfsordner.
 

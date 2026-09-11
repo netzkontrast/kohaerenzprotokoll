@@ -1,6 +1,6 @@
 # Kohärenzpass — Kapitel 1–5
 
-> Stand 2026-09-11. Prüfung nach dem Draft von Kap 2/3 gegen die vorhandene Kap-1-/Kap-5-Prosa sowie den Kap-4-Plan. Nachprüfung ergänzt die `[K]`-Locks zum alleinigen Erstbruch in Kap. 1 und zur namenlosen Hard-B-Sicht in Kap. 5; NCP unverändert. Operative Details: `enrichment-packets_01-05_2026-09-11.md`.
+> Stand 2026-09-11. Abschlussprüfung nach der Revision von Kap. 0/1/5, der Erweiterung von Kap. 2/3 und dem Draft von Kap. 4. Die `[K]`-Locks zum alleinigen Erstbruch in Kap. 1 und zur namenlosen Hard-B-Sicht in Kap. 5 sind umgesetzt; NCP unverändert. Operative Details: `enrichment-packets_01-05_2026-09-11.md`.
 
 ## Kausalkette
 
@@ -44,12 +44,12 @@
 
 ## Änderungen aus diesem Pass
 
-1. Kap 2 auf `drafted`, vollständige Prosa.
-2. Kap 3 auf `drafted`, vollständige Prosa; Register/Latenz/Wärme auf einen Arbeitstag verdichtet.
-3. Kap 4 Plan: Türschloss-Kontinuität präzisiert (3 + 2 = 5).
-4. Kap 5: Summary/Outline ergänzt; Chronologie der Latenz und Eingänge korrigiert; K-F-Regelzahl auf 6 gesetzt.
-5. Nachprüfung: Kap 1 braucht die Entfernung des Spiegelversatzes; Kap 5 braucht Namens-, Stimm- und Logrevision. Die Prosa wurde in diesem Planungspass bewusst nicht verändert.
+1. Kap. 0 semantisch verdichtet; erklärende Metaphern und die alte Nach-Coda entfernt; Scherben-Zäsur zu Kap. 1 wiederhergestellt.
+2. Kap. 1 punktuell revidiert; Spiegelversatz entfernt, sodass der Korridorriss der einzige objektive Erstbruch bleibt.
+3. Kap. 2/3 erweitert und kohärenzgeprüft; Register, Latenz und Wärme bleiben kausal und sensorisch getrennt.
+4. Kap. 4 vollständig gedraftet; Audit, Haarspange, Intervall und Schlosszählung (3 + 2 = 5) umgesetzt.
+5. Kap. 5 strukturell revidiert; namenlose subjektlose Stimme, anonyme Minimal-Logs und belegte Evidenzkette umgesetzt.
 
 ## Nächster Prosaschritt
 
-Kapitel 4 ist die einzige noch ungeschriebene Lücke im Block **1–5**. Seine Fakten sind durch Kap 3, das fokussierte Enrichment Packet und den revidierten Kap-5-Zielzustand von beiden Seiten festgelegt; es kann ohne weitere Architekturentscheidung gedraftet werden. Kapitel 1 und 5 bleiben getrennte, klar begrenzte Revisionsaufträge.
+Der Opening-Block **0–5** ist vollständig gedraftet und kohärenzgeprüft. Der nächste Prosaschritt ist Kapitel 6; es übernimmt Dorans sichtbar fehlenden Rhythmus aus Kapitel 5, bevor der Doppelauftrag `ERHALTEN` / `KONSOLIDIEREN` erscheint.
