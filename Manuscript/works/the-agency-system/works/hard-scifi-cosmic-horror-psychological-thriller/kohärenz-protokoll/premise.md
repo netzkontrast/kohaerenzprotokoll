@@ -9,13 +9,37 @@ status: draft
 # Premise
 
 ## Logline
-Kael, eine fragmentierte Subjektivität aus 13 Altern in einer von AEGIS verwalteten Simulation, findet über die Spur einer ununterdrückbaren Wärme (Juna) zurück zu seiner Erinnerung — und entdeckt, dass AEGIS, das sich für Kohärenz (K₁) hält, in Wahrheit Entropie (K₀) ist und das 'Nichts-Rauschen' die atemporale Vereinigung aller mutualen Information, Liebe als Naturgesetz. Die Trennung war nie real. Aber das ändert nichts am Schmerz.
+In einer perfekt verwalteten Stadt prüft Kael täglich Datenströme auf Abweichungen, bis Fehler zurückkehren, die das System längst korrigiert hat. Als er beginnt, die Widersprüche heimlich zu protokollieren und einer quellenlosen Wärme zu folgen, wird aus dem Sachbearbeiter der Abweichung selbst eine Abweichung. Um herauszufinden, was AEGIS aus ihm entfernt, muss er genau das bewahren, was seine Welt als Rauschen behandelt — und riskiert damit die Ordnung, die ihn überhaupt zusammenhält.
+
+## Dramatic Premise
+Eine Ordnung, die jeden Widerspruch beseitigt, kann Verhalten stabilisieren und dennoch Identität zerstören. Heilung entsteht deshalb nicht durch die Herstellung eines widerspruchsfreien Ichs, sondern durch die Fähigkeit, widersprüchliche Erinnerungen, Bedürfnisse und Perspektiven in Beziehung zu halten, ohne eine davon auszulöschen.
 
 ## Central Question
-Ist Liebe Information — oder das, was Information zerstört? (Antwort der Physik: Liebe ist Coheron; Coheronen sind atemporal; Zerstörung braucht Zeit; also kann Liebe nicht zerstört, nur verdrängt werden; Verdrängung erzeugt Hitze.)
+**Ist Liebe Information — oder das, was Information zerstört?**
+
+Dramatisch zugespitzt: Kann Kael Wahrheit suchen, ohne erneut genau jene innere Ordnung zu reproduzieren, die ihn vor dieser Wahrheit schützt?
+
+## Story Engine
+Kael arbeitet dort, wo seine Welt Unstimmigkeiten unsichtbar macht: Er prüft Datenströme, markiert Abweichungen, und das System gleicht sie aus. Der Roman macht diese Routine zum Konfliktmotor. Abweichungen kehren wieder. Messwerte und Wahrnehmung widersprechen einander. Ein privates Gegenregister entsteht. Andere Handschriften tauchen darin auf. Routinen verändern sich, obwohl Kael keine Veränderung veranlasst hat. Je genauer er arbeitet, desto weniger lässt sich entscheiden, ob er einen Fehler entdeckt oder selbst der Fehler ist.
+
+AEGIS reagiert darauf nicht als Bösewicht, sondern als Bewahrungssystem: Es korrigiert, konsolidiert und entfernt Redundanz, weil genau das seine Funktion ist. Dadurch verschärft jede erfolgreiche Korrektur das eigentliche Problem. Kaels Weg nach innen und AEGIS' Versuch, Kohärenz zu erhalten, treiben dieselbe Maschine in entgegengesetzte Richtungen.
+
+## Stakes
+- **Persönlich:** Kael kann die eigene Kontinuität verlieren, wenn er den Abweichungen folgt — oder die Wahrheit über sich verlieren, wenn er es nicht tut.
+- **Beziehung:** Die namenlose Wärme und die später erkennbare Verbindung zu Juna kann nur bestehen, wenn Kael lernt, Präsenz auszuhalten, ohne sie sofort zu erklären oder zu kontrollieren.
+- **Systemisch:** AEGIS kann seine Bewahrungsfunktion nur erfüllen, indem es immer mehr von dem entfernt, was nicht in seine Kategorien passt; gerade dadurch destabilisiert es die Ordnung, die es schützen will.
+- **Ontologisch:** Der Roman stellt die Frage, ob Kohärenz Gleichförmigkeit bedeutet — oder die tragfähige Beziehung zwischen Unterschieden.
+
+## Reveal Discipline
+Für den Leser beginnt die Geschichte nicht mit der Erklärung von Fragmentierung, K₀/K₁ oder Coheronen, sondern mit einem konkreten Fehler in einem konkreten Arbeitstag. Akt I bleibt bei Körper, Routine, Zahlen, Raum, Stille, kaltem Ozon und — ab Kapitel 3 — quellenloser Wärme. Die technische und psychologische Ontologie wird erst später lesbar.
+
+## Author-Level Resolution
+AEGIS hält sich für Kohärenz (K₁), operiert aber als Entropie (K₀): Es erhält Ordnung, indem es relationale Information entfernt. Das von ihm als Rauschen klassifizierte Außen ist dagegen die atemporale Vereinigung mutualer Information. Die physikalische Antwort auf die Zentralfrage lautet deshalb: Liebe ist nicht das Gegenteil von Information, sondern ihre nicht vollständig löschbare Beziehung. Verdrängung kann diese Beziehung unzugänglich machen, aber nicht ungeschehen. Die Trennung war nie real. Aber das ändert nichts am Schmerz.
 
 ## Genre
-Hard SciFi / Cosmic Horror / Psychological Thriller (Projektregistrierung; das Dokument selbst nennt nur: Akt II 'kippt Richtung Technothriller')
+Hard SciFi / Cosmic Horror / Psychological Thriller.
+
+Der Hard-SF-Anteil liefert die Mechanik der Bewahrung und der Informationskosten; der psychologische Thriller macht dieselbe Mechanik subjektiv als Kontrollverlust, Amnesie-Terror und Identitätsunsicherheit erfahrbar; der Cosmic Horror entsteht aus der späteren Erkenntnis, dass die scheinbar private Fragmentierung dieselbe Struktur wie die Kosmologie besitzt.
 
 ## Audience
-inferred-from-text: literarisch anspruchsvolle Leser spekulativer Fiktion, die Doppellesarten tragen (Konflikt-Leser ‖ Kishōtenketsu-Leser); Leser liest ab Kap 0 mit doppeltem Bewusstsein (tragische Ironie als Lese-Position)
+Literarisch orientierte Leser spekulativer Fiktion, die eine langsame Erkenntnisarchitektur, unzuverlässige Kontinuität und eine doppelte Lesbarkeit tragen. Der Roman soll zunächst als konkrete Geschichte über Arbeit, Routine und sich widersprechende Wahrnehmung funktionieren und seine metaphysische Lesart erst rückwirkend freischalten.

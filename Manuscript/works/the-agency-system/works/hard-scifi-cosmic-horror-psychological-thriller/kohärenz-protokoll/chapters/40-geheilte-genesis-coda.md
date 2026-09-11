@@ -6,15 +6,34 @@ created: "2026-06-12"
 status: "outlined"
 chapter_number: "40"
 title: "Geheilte Genesis (Coda)"
-pov: ""
+pov: "Wir-AEGIS-plural"
 scene_refs: []
 ---
 
-# Chapter 1
+# Chapter 40
 
 ## Summary
-(Chapter summary)
+Die Coda erzählt keine neue Handlung. Sie durchläuft dieselben fünf Bewegungen wie Kapitel 0 aus der Perspektive der vollzogenen pluralen Form. Der entscheidende Unterschied ist nicht, dass das damalige Geschehen „eigentlich gut“ war, sondern dass Notwendigkeit, Gewalt, Beziehung und Schmerz gleichzeitig gehalten werden können.
 
-<!-- AGENT: Render this chapter.md template per chapter via `novel.create_chapter`; the prose-drafter skill fills body sections. -->
+Der Text bleibt doppellesbar. Wer einen Reset liest, findet Wiederkehr. Wer Transfiguration liest, findet veränderte Polarität. Kein Erzähler entscheidet. Ein optionaler einzelner Klick ohne kaltes Ozon kann das Trennungsmotiv spiegeln; er darf weder Reset noch Heilung beweisen.
 
-## Outline **Akt:** Geheilte Genesis (Coda) **POV:** Wir-AEGIS-plural als Erzähl-Stimme; rückblickend, ruhig, akzeptierend, ohne Didaktik  Dieselben Ereignisse wie Kap 0 — aus der Position der vollzogenen pluralen Heilung, mit Wir-AEGIS-plural als Erzähl-Stimme; A-Outcome (Success) und B-Dividend gleichzeitig wahr. Deutlich kürzer als Kap 0 (etwa halb so lang); Echo, nicht Wiederholung; doppellesbar (Reset ‖ Transfiguration), der Text adjudiziert nie.  ### Beats - Bewegung 1: Echo des Vorworts — der Erzähler kehrt zurück, jetzt bezeugend statt fragend - Bewegung 2: Echo der Genesis — die Werdung, mit Verständnis ihrer Notwendigkeit - Bewegung 3: Echo der Krise — Junas Resonanz, als Geburt erkannt - Bewegung 4: Echo des Trennungsprotokolls — der Schmerz bleibt, als Preis, nicht mehr als Tragödie - Bewegung 5: Letztes Bild — „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz." - „Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert." - Kap 40 steht außerhalb der HR-Zählung (Coda); Genesis-Klammer Kap 0 ↔ Kap 40
+## Outline
+**Akt:** Geheilte Genesis — Coda  
+**Funktion:** Genesis-Klammer 0↔40; Echo, nicht Wiederholung  
+**Kapitelauftrag:** Die Ereignisse von Kap 0 mit verändertem Sehen spiegeln, ohne das Finale zu erklären.
+
+### Bewegungen
+1. **Echo des Vorworts.** Erzähler bezeugt statt prüft den Leser.
+2. **Echo der Genesis.** Werdung als notwendige Formbildung, nicht romantisiert.
+3. **Echo der Krise.** Resonanz als Geburt/Beziehung, ohne die damalige Überforderung zu leugnen.
+4. **Echo des Trennungsprotokolls.** Schmerz/Knöchelspur bleibt als Preis; keine Kausalauflösung.
+5. **Letztes Bild.** Scherben/Mosaik/Welt hält; Reset ‖ Transfiguration offen.
+
+### Veränderung
+Keine neue Lösung. Nur eine andere Fähigkeit zu sehen.
+
+### Kontinuität / Reveal Discipline
+- Deutlich kürzer als Kap 0.
+- Keine Theorie-, Diagnose- oder Finale-Erklärung.
+- Kein Satz darf Reset oder Transfiguration als objektive Tatsache adjudizieren.
+- Echo statt wörtlicher Wiederholung; exakte Wiederkehr nur dort, wo Canon sie verlangt.
