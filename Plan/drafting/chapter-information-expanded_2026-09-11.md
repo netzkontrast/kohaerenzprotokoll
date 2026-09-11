@@ -1,6 +1,6 @@
 # Erweiterte Kapitelinformationen — Kapitel 0–40
 
-> Stand: 2026-09-11 · Status: `[V]` operative Drafting-Schicht. Ergänzt die optimierten Aktpläne und den Chapter Enrichment Masterplan. Canon und NCP bleiben unverändert. Bei Konflikt gilt die Hierarchie aus `.claude/skills/PROJECT_REFERENCES.md`.
+> Stand: 2026-09-11 · Status: `[V]` operative Drafting-Schicht. Ergänzt die optimierten Aktpläne und den Chapter Enrichment Masterplan. Die `[K]`-Entscheidungen D-01 bis D-03, D-16 bis D-19 und D-21 bis D-24 sind in Canon und den fokussierten Packets 1–5 gespiegelt. Bei Konflikt gilt die Hierarchie aus `.claude/skills/PROJECT_REFERENCES.md`.
 
 ## Verwendung
 
@@ -23,11 +23,11 @@ Vor jedem Draft sind das Zielkapitel, Vor- und Nachkapitel sowie der vollständi
 
 ## Kapitel 1 — Erwachen in der Konstrukt-Stadt
 
-- **Status:** Draft/Stimm-Canon; Prosa vor allem erhalten.
+- **Status:** Draft/Stimm-Canon mit gezieltem Revisionsbedarf: Spiegelversatz entfernen; übrige Prosa vor allem erhalten.
 - **Auftrag:** Beweisen, warum Kael Ordnung liebt, bevor ihre Beweiskraft zerfällt.
 - **Eintritt:** Routine, Arbeit und Doran tragen Kaels Alltag zuverlässig.
 - **Ziel/Gegenkraft:** 306 Sequenzen korrekt abschließen; die erste nicht bearbeitbare Falschheit erscheint außerhalb der Arbeit.
-- **Information:** Kael erklärt Ozon, Kante und Klick als Rekalibrierungsbedarf. Leser:innen erkennen erstmals eine Lücke zwischen Messbarkeit und Wirklichkeit.
+- **Information:** Vor dem Rückweg bleibt alles physikalisch plausibel. Kael erklärt erst Ozon, Kante und Klick als Rekalibrierungsbedarf. Leser:innen erkennen dort erstmals eine Lücke zwischen Messbarkeit und Wirklichkeit.
 - **Körper/Beziehung:** Doran antizipiert Kael in Satz und Zwei-Finger-Zeichen; am Abend hat die Stille erstmals Gewicht.
 - **Welt/Motiv:** KW1; Lichtflächen, 204 Platten, 21 Grad, drittes Fenster. Einzahlungen: `114`, `306/307`, `Ozon`, `Klick`, `Scherben`.
 - **Exit/Hook:** Die korrigierte Sequenz 114 muss als identischer Rücklauf wiederkehren.
@@ -67,13 +67,13 @@ Vor jedem Draft sind das Zielkapitel, Vor- und Nachkapitel sowie der vollständi
 
 ## Kapitel 5 — Auge des Sturms
 
-- **Status:** Draft/Hard-B-Ausnahme.
+- **Status:** Draft/Hard-B-Ausnahme mit bindendem Revisionsbedarf: Name, Imperativkette und überzählige Logfelder entfernen.
 - **Auftrag:** Den Zerfall aus Kap. 2–4 als korrekt funktionierende Pflege lesen und dadurch tragische Ironie erzeugen.
-- **Eintritt:** Alle Rohdaten aus 2–4 liegen der Ordnungslogik vor.
+- **Eintritt:** Alle Rohdaten aus 2–4 sowie Dorans in Kapitel 1 sichtbare Rituale liegen der Ordnungslogik vor.
 - **Ziel/Gegenkraft:** Abweichung weiter senken; relationale Information erzeugt nach vollständiger Konsolidierung eine nicht verrechenbare Eins.
-- **Information:** Leser:innen erfahren die Ursache von Dorans kommender Veränderung. Kael weiß davon nichts. A-0001 bleibt auch für die Ordnung untypisiert.
+- **Information:** Leser:innen erfahren die Ursache von Dorans kommender Veränderung, aber weder Name noch Architektur der Instanz. Kael weiß davon nichts. A-0001 bleibt auch für die Ordnung untypisiert.
 - **Körper/Beziehung:** Doran verliert Morgensatz, Zeichen und dreiphasiges Setzen; gerade seine leichtere Arbeit ist der Beziehungsschaden.
-- **Welt/Motiv:** KW1 als Messblick; Logs, Station 11/12, Restwert. Metriken nur fortführen, wenn sie später handeln.
+- **Welt/Motiv:** KW1 als Messblick; anonyme Logs, Station 11/12, Restwert. Erlaubt sind `KOHÄRENZ`, `TEMP`, `AKTIVITÄT`, `MASSNAHME` sowie genau einmal `RESTWERT: 1` und `AUSNAHME: A-0001`.
 - **Exit/Hook:** Doran setzt sich in einem Zug; Kapitel 6 muss den fehlenden Rhythmus vor jeder Erklärung spürbar machen.
 
 ## Kapitel 6 — Echos im Fundament

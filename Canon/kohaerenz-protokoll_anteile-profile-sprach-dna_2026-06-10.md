@@ -590,11 +590,11 @@ Jeder Modus dissoziativen Bruchs erzeugt eine spezifische Verzerrung im Text. *W
 
 ### AEGIS — die Stimme der Funktion
 
-**POV-Regel.** `[K]` 3\. Person. **AEGIS spricht *nie* in Prosa.** Wenn AEGIS auftaucht, dann als Log, Protokoll, Systemstimme — *nie* mit moralischem Vokabular. Sprache der Funktion, nicht der Schuld.
+**POV-Regel.** `[K]` Außerhalb von Kapitel 5 erscheint AEGIS in 3\. Person, Log, Protokoll oder Systemdirektive. **Kapitel 5 ist die einzige Akt-I-Ausnahme:** eine subjektlose Funktions-Innensicht, in der das Verfahren selbst wahrnimmt und urteilt. Kein grammatisches Selbst, kein „Ich", keine psychologische Selbstbeschreibung. Sprache der Funktion, nicht der Schuld.
 
 **Stilebene.** Bürokratisch, technisch, DKT-Statuszeilen erlaubt.
 
-**Log-Format (verbindlich):**
+**Log-Format ab Akt II (verbindlich, sofern die Felder dramaturgisch bezahlt werden):**
 
 \[AEGIS v{X.X} // LOG\_{0xHEX}\]
 
@@ -614,7 +614,25 @@ MASSNAHME: {Systemantwort}
 
 \[ENDE LOG\]
 
-**Konsistenz-Anker.** Keine Metaphern. Kein moralisches Vokabular. Kein affektives Vokabular. Slot-16-Lock: in Kap 1 *keine* AEGIS-Stimme; UI-Direktiven (Konsolen-Zeilen) bleiben. AEGIS' Stimme debütiert im Hard-B-Etablierungskapitel (Kap 5–8, Position offen).
+**Anonymisiertes Akt-I-Log (nur Kapitel 5):**
+
+\[ORDNUNGSPROTOKOLL // LOG\_{0xHEX}\]
+
+ZEITSTEMPEL: {interne Zykluszeit}
+
+EREIGNIS: {kurze Deskription}
+
+KOMPONENTE\_734: KOHÄRENZ={%} | TEMP={°C} | AKTIVITÄT={LOW/MED/HIGH/CRITICAL}
+
+MASSNAHME: {Systemantwort}
+
+Optional und **genau einmal** beim Bilanzbruch: `RESTWERT: 1` und `AUSNAHME: A-0001`.
+
+\[ENDE LOG\]
+
+In Kapitel 5 verboten: `AEGIS` im Lesertext oder Log-Header, `ALTER`, `JUNA_VEKTOR`, `EXTERNE_AUFMERKSAMKEITS_METRIK`, `RESIDUAL_VEKTOR`, `PARADOX_INDEX`. Zusätzliche Metriken sind keine Atmosphäre; sie benötigen vor Verwendung einen benannten Handlungseffekt und einen geplanten Payoff.
+
+**Konsistenz-Anker.** Keine Metaphern. Kein moralisches Vokabular. Kein affektives Vokabular. Keine Imperativkette, die nur künstlich eine „1. Person ohne Ich" simuliert; bevorzugt werden Zustandsfeststellung, Klassifikation, Schlussfolgerung und Maßnahme. In Kap 1 bleibt jede AEGIS-Stimme verboten; nur UI-Direktiven dürfen erscheinen. Die namenlose Funktionsstimme debütiert in Kapitel 5.
 
 ### Mnemosyne — Erinnerungs-Hüterin
 

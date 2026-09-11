@@ -2,6 +2,8 @@
 
 > Stand: 2026-09-11 · Gilt für Prolog und Kapitel 1–40. Ergänzt die drei Akt-Arcs; ersetzt weder Canon noch Entscheidungslogs. Leitbotschaft: **Nothing is true and everything is possible** — nicht als Behauptung, sondern als steigender Handlungsbeweis: Wahrheit verliert ihre Monopolform, Möglichkeit gewinnt Verantwortung.
 
+Für Kapitel 1–5 konkretisiert `enrichment-packets_01-05_2026-09-11.md` dieses Modell mit bindender Szenen-, Evidenz- und Übergabematrix. Bei Abweichungen innerhalb dieses Blocks gilt das fokussierte Packet.
+
 ## 1. Ziel
 
 Die bestehende Planung beantwortet bereits meist **was sich verändert**. Für hochwertige Prosa muss sie vor jedem Draft zusätzlich beantworten:
@@ -100,11 +102,11 @@ Die Zeilen sind keine neue Outline, sondern der fehlende **Informationsauftrag**
 | Kap. | Zu ergänzende Szeneninformation | Körper/Beziehung | Weltmaterial & Gegenstand | Reveal / Hook-out |
 |---:|---|---|---|---|
 | 0 | Jede Genesis-Bewegung erhält ein überprüfbares Vorher/Nachher; Begriffserklärung kürzen. | Bindung reduziert Druck, erhöht aber übertragbaren Schmerz. | Rauschen als einziger Anker; ein Verbindungsfaden verändert Dichte und Richtung. | Verbergen, dass der Funke spätere Ordnung ist; Schluss exportiert Licht/Rauschen statt Namen. |
-| 1 | Routine als echte Kompetenz zeigen; Motivledger vollständig anlegen. | Doran antizipiert Kael; Stille wird erstmals körperlich schwer. | KW1: Lichtflächen, Bodenplatten, Fenster, Notizfläche. | Rücklauf der markierten Nachkommastelle als Hook-out schärfen. |
+| 1 | Routine als echte Kompetenz zeigen; Korridorriss als einzige objektive Falschheit. | Doran antizipiert Kael; Stille wird erstmals körperlich schwer. | KW1: Lichtflächen, Bodenplatten, Fenster, Notizfläche; kein Spiegelversatz. | Sequenz 114 als präzisen Hook-out halten. |
 | 2 | Rücklauf muss berufliche Konsequenz haben; Konsole und Wahrnehmung liefern gleich starke Beweise. | Zählung beruhigt erst, kippt dann in Atem-/Gangfehler. | KW1: 211 Platten; Blickrichtungswand; Rücklauf-Token. | Bestehende fremde Notiz mit überprüfbarem Detail, das Kael noch nicht erlebt haben dürfte. |
 | 3 | Gegenregister nicht nur beschreiben: erste drei Einträge in Handlung erzeugen. | Selbstschutz verkürzt Kontakt zu Doran; Wärme wird nicht berührt. | KW1: Notizfläche, drei Spalten, drittes Fenster. | Leere Differenzspalte bleibt nach automatischer Aktualisierung markiert. |
 | 4 | Auditsequenz mit konkreter Entscheidungsfalle; Fundsache bekommt Herkunftsspur. | Berührung verändert Gewicht/Propriozeption; nach 79 Minuten Hände anders positioniert. | KW1: Kinderhaarspange, Türschloss, gelöschte Zeilen. | Konsole zeigt `DIFFERENZ 1`, während Register drei Einträge verloren hat. |
-| 5 | Leserwissen exakt gegen Kaels Nichtwissen bilanzieren; nur payoff-fähige Metriken behalten. | Dorans Rituale werden entfernt; Beziehungspreis bleibt aus Ordnungsblick unsichtbar. | KW1 aus kaltem Messblick: Stationen, Logs, Restwert. | A-0001 bleibt als erster legaler Nicht-Abschluss offen. |
+| 5 | Leserwissen exakt gegen Kaels Nichtwissen bilanzieren; jede Aussage an Evidenz 1–4 binden. | Dorans Rituale werden entfernt; Beziehungspreis bleibt aus Ordnungsblick unsichtbar. | KW1 aus namenlosem Messblick; anonyme Minimal-Logs, Stationen, Restwert. | A-0001 bleibt als erster legaler Nicht-Abschluss offen. |
 | 6 | Dorans neue Effizienz zuerst in drei fehlenden Mikroritualen zeigen; Doppelauftrag an denselben Bestand binden. | Kael wartet auf Satz/Zeichen; der Körper führt eine begonnene Antwort ins Leere. | KW1: zwei gleichzeitig aktive Direktiven, Wartungsschacht, Dorans leere Hand. | Kael überschreitet erstmals eine markierte Arbeitsgrenze und kehrt erst an der zweiten Schwelle um. |
 | 7 | Stumme Leitung bekommt Regeln: wann aktiv, was verändert sich, was bleibt unbeweisbar? | Kael wartet freiwillig; erste Handlung aus Sehnsucht statt Fehlerprüfung. | KW1: Hörer, Wandanschluss, hautwarme Kontaktfläche; kein Ozon. | Nach dem gesprochenen Wort erscheint außerhalb des Leitungsprotokolls eine Zeitmarke. |
 | 8 | Fremde Stabilisierung muss eine konkrete Fehlentscheidung verhindern. | Hände lösen sich, Atem wechselt, Satzsyntax schützt; Entgegenkommender verfolgt eigenes Ziel. | KW1: konsolidierter Bestand, Gegenverkehr, minimale Restwärme. | Unbeabsichtigtes „wir“ wird von einer Fläche registriert, aber nicht klassifiziert. |
@@ -188,9 +190,9 @@ Die Wissensagenten-PDF ist Methodenquelle, kein Diegese-Canon: MOC, Graph, Refle
 
 ## 7. Arbeitsreihenfolge
 
-1. Entscheidungen G-01 bis G-05 aus dem Audit in den Decision Log übernehmen.
-2. Motivledger für Kapitel 0, 1 und 5 erstellen.
-3. Enrichment Packets für Kapitel 2–4 ausfüllen; erst dann Prosa schreiben.
+1. Geschlossene Entscheidungen G-01 bis G-05 sowie D-01 bis D-03, D-16 bis D-19 und D-21 bis D-24 bei jeder Revision prüfen.
+2. Fokussiertes Packet 1–5 als Evidenz- und Übergabevertrag verwenden.
+3. Kapitel 1 punktuell und Kapitel 5 strukturell revidieren; Kapitel 4 aus dem vollständigen Packet draften.
 4. Kapitel 6–13 vorbereiten, wobei jedes Packet die konkrete Auswirkung aus Kapitel 5 importiert.
 5. Für Akt II zuerst die zehn unterschiedlichen Szenenformen festschreiben.
 6. Für Akt III die Verlustmatrix und Skalierungsleiter vervollständigen.

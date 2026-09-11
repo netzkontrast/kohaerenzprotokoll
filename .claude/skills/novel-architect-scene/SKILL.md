@@ -21,7 +21,7 @@ Use this skill for scene planning, chapter drafting, scene revision, reveal disc
 - [Character Sprach-DNA](../../../Canon/kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md)
 - [Current chapters](../../../Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/chapters/)
 
-For Kap. 1–5 also read [the coherence pass](../../../Plan/drafting/coherence-pass_01-05_2026-09-11.md).
+For Kap. 1–5 also read [the coherence pass](../../../Plan/drafting/coherence-pass_01-05_2026-09-11.md) and the [focused enrichment packets](../../../Plan/drafting/enrichment-packets_01-05_2026-09-11.md). The focused packets are normative over the general 0–40 packet for scene evidence, reveal limits and handoffs.
 
 ## Scene protocol
 
@@ -40,7 +40,7 @@ For Kap. 1–5 also read [the coherence pass](../../../Plan/drafting/coherence-p
 - Kap. 2 = system contradiction / geometry / foreign artefact syntax.
 - Kap. 3 = counter-register + measurable latency + first warmth.
 - Kap. 4 = planned audit / found object / lost interval; currently next prose gap in the opening block.
-- Kap. 5 = primary AEGIS/Hard-B voice and log-format anchor.
+- Kap. 5 = planned Hard-B anchor, but the current prose is not yet a valid voice/log reference: revise it to the nameless subjectless view and minimal anonymous log format before reuse.
 
 ## Hard prohibitions
 

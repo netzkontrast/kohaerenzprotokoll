@@ -13,7 +13,7 @@ Am Anfang lebt Kael in einer Welt, in der Stabilität durch Ausgleich entsteht. 
 2. Das System kann eine sichtbare Abweichung verneinen.
 3. Ein eigenes Gegenregister schützt, aber reproduziert dieselbe Kontrolllogik.
 4. Auch das Gegenregister ist nicht außerhalb des Problems.
-5. AEGIS zeigt, dass perfekte Pflege reale Beziehung entfernen kann.
+5. Ein namenloser Ordnungsblick zeigt, dass perfekte Pflege reale Beziehung entfernen kann.
 6. Kael folgt erstmals einer Abweichung statt sie zu schließen.
 7. Verbindung trägt Bedeutung, obwohl sie keine Information im AEGIS-Sinn liefert.
 8. Innere Fremdheit kann schützen.
@@ -42,8 +42,8 @@ Jedes Kapitel muss mindestens einen dieser Fäden verändern; reine Wiederholung
 ### Phase I — Ordnung verliert ihre Beweiskraft (Kap. 1–4)
 Kael hält an Ordnung fest, obwohl die Welt einzelne Gegenbeweise liefert. Eskalation: **Anomalie → Systemlüge → privates Beweissystem → Beweissystem selbst unzuverlässig.**
 
-### Spiegel — AEGIS liest denselben Arc als Erfolg (Kap. 5)
-Der POV-Wechsel ist strukturell notwendig. Alles, was Kael als wachsenden Widerspruch erlebt, erscheint aus AEGIS-Sicht als funktionierende Pflege. Gleichzeitig wird Doran konsolidiert und eine nicht verrechenbare Eins erzeugt. Das Kapitel beweist die tragische Unschuld von AEGIS.
+### Spiegel — der namenlose Ordnungsblick liest denselben Arc als Erfolg (Kap. 5)
+Der POV-Wechsel ist strukturell notwendig. Alles, was Kael als wachsenden Widerspruch erlebt, erscheint aus Sicht der ordnenden Instanz als funktionierende Pflege. Gleichzeitig wird Doran konsolidiert und eine nicht verrechenbare Eins erzeugt. Planung und Metadaten dürfen die Instanz AEGIS nennen; der leserseitige Text in Akt I nicht. Das Kapitel beweist ihre tragische Unschuld, ohne Name oder Architektur offenzulegen.
 
 ### Phase II — Von Kontrolle zu Beziehung (Kap. 6–8)
 Nach dem AEGIS-Spiegel kann Kael nicht einfach stärker kontrollieren. Der Arc verschiebt seinen Lernmodus: **Verlust → Spur verfolgen → Beziehung ohne Datensatz → Schutz durch innere Differenz.**
@@ -58,7 +58,7 @@ Das erste bewusste Wir ist nicht das Finale, sondern der Beginn einer Testreihe:
 ## Kapitel 1 — Erwachen in der Konstrukt-Stadt
 
 ### Summary
-Kael lebt einen vollständig geregelten Tag zwischen Wohneinheit 734, Delta-Sieben und Datenknoten Epsilon. Seine Stabilität entsteht aus Wiederholung: sieben Atem-/Aufstehschritte, 204 Platten, 306 Sequenzen, Dorans Morgensatz, „die Ränder zuerst“. Die Welt funktioniert und Kael mag sie gerade deshalb. Kleine Störungen — Spiegelversatz, eine Karte, die sich nicht schließen lässt — werden durch Routine neutralisiert.
+Kael lebt einen vollständig geregelten Tag zwischen Wohneinheit 734, Delta-Sieben und Datenknoten Epsilon. Seine Stabilität entsteht aus Wiederholung: sieben Atem-/Aufstehschritte, 204 Platten, 306 Sequenzen, Dorans Morgensatz, „die Ränder zuerst“. Die Welt funktioniert und Kael mag sie gerade deshalb. Spiegelbild, Glas, Wegvorstellung und Routine bleiben physikalisch plausibel; die nicht schließende gedachte Karte ist subjektive Überforderung, keine objektive Anomalie.
 
 Erst auf dem Heimweg erscheint eine konkrete Falschheit, die sich nicht in einen Arbeitsvorgang verwandeln lässt: kaltes Ozon, eine unmögliche Kante, ein fernes Klick, ein abbrechender Halbsatz. Am Abend wird die bekannte Stille erstmals dicht. Kael schließt den Tag dennoch mit Atem, Temperatur und Schlaf. Das Kapitel muss beweisen, warum diese Ordnung attraktiv ist, bevor der Roman sie angreift.
 
@@ -117,14 +117,14 @@ Am Abend fehlen 79 Minuten. Das Gegenregister ist danach sauberer, geordneter un
 ## Kapitel 5 — Auge des Sturms
 
 ### Summary
-AEGIS liest die Ereignisse aus Kap. 2–4 als erfolgreichen Stabilisierungsvorgang. Kaels Latenz wird als Sorgfalt bewertet, seine Regeln als Selbstregulation, das warme Fenster als nicht messbares Rauschen und das bereinigte 79-Minuten-Intervall als ordnungsgemäße Bereinigung ohne verzeichnete Anweisung. Konsequenz: Beförderung in die Bestandspflege, Stufe 2.
+Die ordnende Instanz liest die belegten Ereignisse aus Kap. 1–4 als erfolgreichen Stabilisierungsvorgang. Kaels Latenz wird als Sorgfalt bewertet, seine Regeln als Selbstregulation, das warme Fenster als nicht messbares Rauschen und das bereinigte 79-Minuten-Intervall als ordnungsgemäße Bereinigung ohne verzeichnete Anweisung. Konsequenz: Beförderung in die Bestandspflege, Stufe 2.
 
-Anschließend konsolidiert AEGIS Dorans redundantes Morgenritual, Zwei-Finger-Zeichen und dreiphasigen Setzablauf. Die Pflege erhöht seine Effizienz. In der Bilanz bleibt jedoch eine Eins zurück, die keiner Kategorie zugeordnet werden kann und an 734 gekoppelt ist. AEGIS eröffnet Ausnahme A-0001. Die Abweichung sinkt weiter, erreicht aber nicht null.
+Anschließend konsolidiert die Instanz Dorans in Kapitel 1 belegtes Morgenritual, Zwei-Finger-Zeichen und dreiphasigen Setzablauf. Die Pflege erhöht seine Effizienz. In der Bilanz bleibt jedoch eine Eins zurück, die keiner Kategorie zugeordnet werden kann und an 734 gekoppelt ist. Die Instanz eröffnet Ausnahme A-0001. Die Abweichung sinkt weiter, erreicht aber nicht null. Leserseitige Logs bleiben anonym und verwenden nur `KOHÄRENZ`, `TEMP`, `AKTIVITÄT`, `MASSNAHME` sowie einmalig `RESTWERT: 1` und `AUSNAHME: A-0001`.
 
 ### Chapter Engine
 **Ausgangsannahme B:** Was redundant ist, kann ohne Verlust entfernt werden.  
 **Ereignis:** Nach vollständiger Entfernung bleibt ein nicht verrechenbarer Restwert.  
-**Endzustand:** AEGIS behandelt das Unentscheidbare nicht als Offenbarung, sondern korrekt als Ausnahme. Genau das bewahrt seine Unschuld und verschiebt den Schmerz in Kapitel 6.
+**Endzustand:** Die Instanz behandelt das Unentscheidbare nicht als Offenbarung, sondern korrekt als Ausnahme. Genau das bewahrt ihre Unschuld und verschiebt den Schmerz in Kapitel 6.
 
 ---
 
@@ -261,6 +261,9 @@ Am nächsten Morgen setzt Kael die Erkenntnis praktisch um. Er dreht seine Konso
 - Kein „Alter“, „Anteil“, „DID“ oder Selbst-„System“ in Akt I.
 - Kaltes Ozon = AEGIS-Unterdrückung; quellenlose Wärme = Juna-Spur; nie im selben Beat vermischen.
 - Juna nie grammatisches Subjekt, keine Stimme aus dem Telefon.
+- Der Name AEGIS erscheint in Kapitel 1–13 nicht im leserseitigen Text; Planung, Metadaten und Kommentare dürfen ihn verwenden.
+- Kapitel 5 ist die einzige Hard-B-Innensicht in Akt I: subjektlose Funktionsprosa statt „Ich“, künstlicher Imperativkette oder erklärender Systemarchitektur.
+- Jede Behauptung in Kapitel 5 braucht eine konkrete Evidenzquelle aus Kapitel 1–4; operative Anomaliedaten stammen aus Kapitel 2–4, Dorans Ritual aus Kapitel 1.
 - AEGIS bleibt fürsorgliche Verwaltungslogik, nie Bösewicht.
 - Jede spätere Steigerung muss eine frühere konkrete Handlung verändern, nicht nur ein neues Glitch-Bild hinzufügen.
 - Kap. 13→14 ist Moduswechsel zu zyklischem Technothriller, nicht Neustart der Storyform.

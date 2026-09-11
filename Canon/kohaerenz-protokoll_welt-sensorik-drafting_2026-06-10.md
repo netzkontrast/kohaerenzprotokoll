@@ -386,7 +386,7 @@ Jedes Motiv hat ein Wiederkehrmuster. Die folgenden Anker sind aus dem Material 
 
 | Schicht | Bewusst | Spürt | Blind |
 | :---- | :---- | :---- | :---- |
-| **Leser** | ab Kap 0: AEGIS' Existenz, Trennungsprotokoll, dass Kael Komp 734 ist, dass Juna Resonanz-Quelle ist | sukzessive: Schleier-Lüftung, Spiegel-Konflikt, Korrelat-Achse | bleibt offen: ob Kap 40 Reset oder Transfiguration ist (Lesart-Dualität) |
+| **Leser** | Kap 0 zeigt eine außerzeitliche Ordnungsinstanz; die Zuordnung zur Konstrukt-Stadt bleibt in Akt I inferentiell | sukzessive: Schleier-Lüftung, Spiegel-Konflikt, Korrelat-Achse | bleibt offen: ob Kap 40 Reset oder Transfiguration ist (Lesart-Dualität) |
 | **Kael** | bis Kap 13: nichts strukturell; nur Symptome | Atmosphären-Drift, Stilcode-Einbrüche, Lücken, Phantom-Resonanz | Multiplizität, AEGIS, Junas Identität (alles bis \~Kap 10/13) |
 | **AEGIS** | seine eigene Funktion, sein Mandat, η-Werte, Erasure-Bilanzen | Risse als Symptom (Suppression-Versagen) | **Juna strukturell** (atemporal, nicht messbar), **K₁-Reinform** (klassifiziert als „uncorrelated noise"), **die eigene Genesis** (verdrängt) |
 
@@ -394,9 +394,9 @@ Jedes Motiv hat ein Wiederkehrmuster. Die folgenden Anker sind aus dem Material 
 
 | Kapitel-Range | Leser | Kael | AEGIS |
 | :---- | :---- | :---- | :---- |
-| **Kap 0** | Genesis vollständig | n/a (existiert als Komp 734\) | rekonstruiert sich erinnerungslos |
+| **Kap 0** | Genesis als außerzeitlicher Rahmen; keine sichere Zuordnung zur Konstrukt-Stadt | n/a (existiert als Komp 734\) | rekonstruiert sich erinnerungslos |
 | **Kap 1–7** | tragische Ironie aktiv | spürt Atmosphäre, registriert nichts strukturell | misst die Stadt, registriert „uncorrelated noise" um Kael |
-| **Kap 5–8** (Slot-16-Lock) | sieht AEGIS in 1\. Person | nichts | erste 1.-Person-Innensicht — enthüllt sich, *nicht* Kaels Vielheit |
+| **Kap 5** (Slot-16-Lock) | erlebt eine namenlose, subjektlose Ordnungs-Innensicht; darf die Verbindung zu Kap 0 vermuten, erhält aber weder Namen noch Architektur | nichts | Funktionslogik wird sichtbar, Kaels Vielheit bleibt verborgen |
 | **Kap 8–10** | erste interne Schleier-Lüftung in Kaels Erleben | spürt „Modi", „Stimmungs-Drifts" als andere Anteile | scant Kaels Stabilität, interpretiert als „kontrolliert" |
 | **Kap 13** | Schleier fällt intern | weiß: ich bin nicht allein in mir | bemerkt Phase-Wechsel, interpretiert als „Eskalation" |
 | **Kap 14** | Erasure-Welle | bekommt Zugang zu AEGIS-Dossiers (Lernarchiv Theta-9) | initiiert Erasure-Phase 2 |
@@ -778,8 +778,11 @@ Alle bisher gesetzten Locks, chronologisch und mit Quelle. Vor jedem strittigen 
 | :---- | :---- | :---- |
 | **OQ-B resolved (Juna-Modi)** | gestaffelte Grammatik; Abwesenheits-Phase Akt I → Präsenz-Phase Akt II+; zwei Anker (Telefon-Stille, Silas) | Log 2026-05-30 |
 | **Hitze-Polaritätsregel** | kaltes Ozon \= AEGIS; Wärme \= Juna; nach Kap 1 nie mischen; Wärme-Debüt Kap 3 | dito |
-| **Slot-16** | Akt I Hard-A-Default; ein Hard-B-Kapitel in Kap 5–8 (Position offen) | dito |
+| **Slot-16** | Akt I Hard-A-Default; Kapitel 5 ist das einzige Hard-B-Kapitel: subjektlose Funktions-Innensicht, im Lesertext namenlos | Autor-Lock 2026-09-11 |
 | **AEGIS-Stimme Kap 1: keine** | UI-Direktiven bleiben; keine 3.-P-Systemlog-Stimme | dito |
+| **Kap-1-Falschheit** | Nur der Korridor-Riss ist objektiv unmöglich; kein Spiegelversatz als zweite Falschheit | Autor-Lock 2026-09-11 |
+| **Akt-I-Benennung** | „AEGIS" nur in Planung/Metadaten; Lesertext Kap 1–13 bleibt bei Direktive, Ordnung, Pflege, Konsolidierung | Autor-Lock 2026-09-11 |
+| **Kap-5-Metriken** | `KOHÄRENZ`, `TEMP`, `AKTIVITÄT`; einmalig `RESTWERT: 1` → `A-0001`; keine weiteren Metrikfelder | Autor-Lock 2026-09-11 |
 | **80/20 Schicht-1/Schicht-2 in Kap 1** | Schicht-2-dominant; eine Schicht pro Szene | dito |
 | **„Einheit 734" Kap 1** | einmal als Konsolen-Zeile, Kael reagiert nicht (Reader-only-Echo) | dito |
 | **Silas-Halbsatz Kap 1** | *„Etwas in der Frequenz der Lüftung schien zu—"* (Abbruch vor Verb, kein Subjekt) | dito |
@@ -934,7 +937,7 @@ Diese Punkte schließt auch dieses Dokument nicht. Sie sind nach wie vor zu ents
 | **OQ-E (Spiegel-Alter-POV-Anteile):** exakte Auftrittskapitel von Silas und Oblivion in Akt III | offen — Richtwerte \~Kap 31/32 und 32/33 |
 | **OQ-F (Moonshine-Boundary):** wer kann den Link spüren, mit welcher Reichweite | offen — Vorschlag im Glossar |
 | **OQ-G (Post-Vortex-AEGIS-Status):** lebende Reliquie \+ Oblivion-Übernahme intern | offen — Vorschlag liegt vor |
-| **Hard-B-Kapitel-Position (Slot 16):** Kap 5, 6, 7 oder 8? | beim Storyweaving zu pinnen |
+| **Hard-B-Kapitel-Position (Slot 16)** | **geschlossen: Kapitel 5**; subjektlose Funktions-Innensicht, namenlos im Akt-I-Lesertext |
 | **MC Symptom & Response beider Storyforms:** TBD-Slots der 14-Frage-Sequenz | OQ-D, Lock in P5 |
 
 ### §14.2 Tonal / Drafting
@@ -989,4 +992,3 @@ Drei Sätze, die beim Lesen hängenbleiben sollen:
 1. *Der Roman ist eine ontologische Heilungs-Schleife.* Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.
 2. *Die Dual-Storyform ist die Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.*
 3. *Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht.*
-
