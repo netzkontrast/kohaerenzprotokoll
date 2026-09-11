@@ -1,3 +1,14 @@
+---
+name: novel-architect-scene
+description: Project-specific scene and chapter drafting skill for Kohärenz Protokoll; handles prose, local causality, reveal discipline, sensorics and continuity.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # Novel Architect — Scene
 
 Use this skill for scene planning, chapter drafting, scene revision, reveal discipline, local continuity, and prose-level causality.

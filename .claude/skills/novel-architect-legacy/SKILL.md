@@ -1,3 +1,14 @@
+---
+name: novel-architect-legacy
+description: Historical evidence and migration skill for Kohärenz Protokoll; compares removed Legacy snapshots against current repo state without treating history as authority.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # Novel Architect — Legacy Evidence
 
 Use this skill only when older drafts, historical skills, prior plans or repository history are needed to recover intent, compare variants or explain provenance.

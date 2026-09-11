@@ -1,3 +1,14 @@
+---
+name: novel-architect
+description: Project-specific orchestrator for Kohärenz Protokoll whole-novel architecture, premise, arcs, chapter roles, continuity and planning before prose.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # Novel Architect — Kohärenz Protokoll
 
 Use this skill for whole-novel architecture, premise, arc sequencing, chapter-role design, cross-arc continuity, and deciding what should be planned before prose.

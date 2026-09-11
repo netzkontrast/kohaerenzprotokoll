@@ -1,3 +1,14 @@
+---
+name: novel-architect-character
+description: Character-system skill for Kohärenz Protokoll: parts, arcs, Sprach-DNA, somatics, relationship dynamics and reveal timing.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # Novel Architect — Character
 
 Use this skill for Kael's plural system, character arcs, Sprach-DNA, somatic signatures, relationship dynamics, reveal timing, and continuity of internal functions.
