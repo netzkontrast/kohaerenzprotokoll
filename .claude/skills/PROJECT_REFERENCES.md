@@ -29,6 +29,7 @@ This file is the shared data map for all repo-local skills. **Do not use histori
 - [Akt I drafting decisions](../../Plan/drafting/decision-log_2026-09-11.md)
 - [Akt II/III drafting decisions](../../Plan/drafting/decision-log_akt2-3_2026-09-11.md)
 - [Kap. 1–5 coherence pass](../../Plan/drafting/coherence-pass_01-05_2026-09-11.md)
+- [Expanded chapter information, Kap. 0–40](../../Plan/drafting/chapter-information-expanded_2026-09-11.md) — operative Chapter Packets: Auftrag, Informationsverschiebung, Körper/Beziehung, Weltanker, Motive, Exit-State und Hook.
 - [Shared drafting brief](../../Plan/drafting/drafting-brief.md)
 
 ## Canon data
