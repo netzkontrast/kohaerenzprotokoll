@@ -1,3 +1,14 @@
+---
+name: ncp-author
+description: Controlled NCP/storyform state skill for Kohärenz Protokoll; validates and updates ncp.json/ncp-b.json without silently rewriting canon.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # NCP Author — Kohärenz Protokoll
 
 Use this skill for reading, validating, comparing or intentionally updating the project's Narrative Context Protocol files.

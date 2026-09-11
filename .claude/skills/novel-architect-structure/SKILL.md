@@ -1,3 +1,14 @@
+---
+name: novel-architect-structure
+description: Structural skill for Kohärenz Protokoll: sequencing, dual-storyform weaving, mode transitions, Vortices, setup/payoff and option/timelock progression.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # Novel Architect — Structure
 
 Use this skill for chapter sequencing, arc mechanics, dual-storyform weaving, Heroine/Hero journey mapping, Kishōtenketsu function, Vortex placement, setup/payoff and option/timelock progression.

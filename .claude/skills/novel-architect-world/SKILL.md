@@ -1,3 +1,14 @@
+---
+name: novel-architect-world
+description: Worldbuilding and sensorics skill for Kohärenz Protokoll: KW1-KW4, levels, axioms, anomaly design and diegetic constraints.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # Novel Architect — World
 
 Use this skill for KW1–KW4, Überwelt, Externe Ebene, sensorics, world axioms, locations, diegetic technology, and world-consistent anomaly design.

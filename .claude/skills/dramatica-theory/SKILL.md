@@ -1,3 +1,14 @@
+---
+name: dramatica-theory
+description: Project-specific Dramatica reasoning for the deliberate dual Storyform of Kohärenz Protokoll, including throughlines, dynamics, signposts and story-point expression.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # Dramatica Theory — Kohärenz Protokoll
 
 Use this skill to reason about the project's dual Storyform, story points, dynamics, throughlines, signposts, Crucial Element, Symptom/Response, outcome/judgment, and structural legality.

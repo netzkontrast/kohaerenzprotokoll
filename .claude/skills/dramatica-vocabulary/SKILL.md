@@ -1,3 +1,14 @@
+---
+name: dramatica-vocabulary
+description: Exact Dramatica vocabulary and slot-mapping skill for Kohärenz Protokoll; separates structural terms from surface story expression.
+metadata:
+  category: creative-writing
+  source: repo
+  version: "2.0.0"
+  status: active
+  date_updated: "2026-09-11"
+---
+
 # Dramatica Vocabulary — Kohärenz Protokoll
 
 Use this skill when terminology must be exact: Domains, Concerns, Issues, Problems/Solutions, Symptom/Response, Dynamics, Story Drivers, Limits, Outcomes, Judgments, Signposts and Throughlines.
