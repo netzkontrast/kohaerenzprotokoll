@@ -10,16 +10,33 @@ pov: "AEGIS (Hard-B, 1. Person ohne Pronomen)"
 scene_refs: []
 ---
 
-# Chapter 1
+# Chapter 5
 
 ## Summary
-(Chapter summary)
+Zum ersten Mal wechselt der Roman vollständig auf die Innenseite von AEGIS. Dieselben Vorgänge, die Kael in Kapitel 2–4 als wachsenden Widerspruch erlebt hat, erscheinen hier als erfolgreiche Pflege: Seine verlangsamte Bestätigung gilt als Sorgfalt, der bestandene Audit als Eignungsnachweis, das Gegenregister als selbsttätige Ergänzung des Kontrollprotokolls. AEGIS befördert Komponente 734 deshalb in die Bestandspflege Stufe 2.
 
-<!-- AGENT: Render this chapter.md template per chapter via `novel.create_chapter`; the prose-drafter skill fills body sections. -->
+Die Wärme-Meldung vom dritten Fenster wird als Rauschen gelöscht; die verlorene Zeit in Wohneinheit 734 gilt gerade deshalb als ordnungsgemäß, weil das Ergebnis geordneter ist als zuvor. Schließlich konsolidiert AEGIS Doran als redundantes Muster. Die Operation gelingt messbar — bis eine Bilanz um exakt eins nicht aufgeht. Weil dieser Restwert keiner Kategorie angehört, erzeugt AEGIS seine erste Ausnahme: A-0001. Kapitel 5 macht damit sichtbar, dass AEGIS nicht gegen Kael handelt. Es tut konsequent das, wofür es gebaut wurde, und erzeugt ausgerechnet dadurch den ersten Wert, den es nicht schließen kann.
 
-## Outline **Akt:** Akt I — Heldinnenreise innen **POV:** Kael (Hard-A, 1. Person); Kandidat für das eine Hard-B-AEGIS-Kapitel (Slot 16, Kap 5–8, Position ungepinnt)  Trügerische Stabilität; ein Scheinerfolg auf nicht-integrierter Basis. Szenen-Detail [S].  ### Beats - HR-Stufe: falscher Erfolg (Auge des Sturms) · KW1 · A:MC-Concern - Leitmotiv: spiegelglatter Erfolg, sensorisch flach - [S] Szenen-Detail
+## Outline
+**Akt:** Akt I — Heldinnenreise innen  
+**HR-Stufe:** Auge des Sturms / falscher Erfolg  
+**POV:** Hard-B AEGIS-Innensicht ohne Pronomen „Ich“; Protokollregister + Logs  
+**Kapitelauftrag:** Die Ereignisse aus Kaels Perspektive rückwärts umcodieren: Alles, was für ihn Unsicherheit bedeutet, muss für AEGIS als erfolgreiche Stabilisierung lesbar sein. Gleichzeitig entsteht mit A-0001 die erste formal zulässige offene Abweichung.
 
-<!-- Draft v0.2 (2026-09-11). Hard-B-Position = Kap 5 (D-01); AEGIS-Innensicht ohne „Ich" (D-02); Log-Felder Akt I (D-03); Konsolidierung von Komponente 735 = Doran (D-14, F1-Idee 12). Siehe Plan/drafting/decision-log_2026-09-11.md -->
+### Funktionsfolge
+1. **734 als Erfolg.** +0,31 s Bestätigungslatenz, Audit bestanden, Beförderung in Bestandspflege Stufe 2.
+2. **Fakt vs. Rauschen.** Wärme-Meldung bei 21,0 °C wird gelöscht; Sensor vorsorglich getauscht. Gegenregister stimmt mit K-F überein.
+3. **Bereinigtes Intervall.** 19:12–20:31 ohne dokumentierte Anweisung; geordneter Zustand wird als ordnungsgemäß gewertet.
+4. **Konsolidierung 735.** Dorans Morgensatz, Zwei-Finger-Zeichen und dreiphasiges Setzen werden als Redundanz gepflegt.
+5. **Restwert.** Bilanz bleibt bei eins; Ausnahme A-0001 wird angelegt. Schluss: Abweichungswert sinkt weiter, erreicht null aber nicht.
+
+### Kontinuität / Reveal Discipline
+- AEGIS bedroht nicht; Wartung und Konsolidierung sind Fürsorge in seiner eigenen Logik.
+- Keine Juna-Benennung; Wärme bleibt nicht messbarer Meldungsinhalt.
+- Akt-I-Logfelder ohne `ALTER` und ohne `JUNA_VEKTOR`.
+- A-0001 ist der langfristige Payoff-Anker für Vortex 1 / Kapitel 36.
+
+<!-- Draft v0.3 (2026-09-11). Hard-B-Position = Kap 5 (D-01); AEGIS-Innensicht ohne „Ich" (D-02); Log-Felder Akt I (D-03); Konsolidierung von Komponente 735 = Doran (D-14). Chronologie und K-F-Regelzahl an Kap 3–4 angepasst. -->
 
 ---
 
@@ -37,7 +54,7 @@ Komponente 734.
 
 Datenknoten Epsilon, Station 11. Sequenzprüfung. Wohneinheit 734. Bestätigte Sequenzen der letzten sieben Zyklen: 306 — 306 — 306 — 306 — 306 — 306 — 306. Markierungsquote im Soll. Ankunft vor Schichtbeginn an sieben von sieben Tagen. Entlastungen: in Anspruch genommen, nicht überschritten.
 
-Bestätigungslatenz: angestiegen um 0,31 Sekunden, beginnend vor neun Zyklen. Periodische Prüfung angesetzt und durchgeführt.
+Bestätigungslatenz: angestiegen um 0,31 Sekunden, beginnend vor zwei Zyklen. Periodische Prüfung angesetzt und durchgeführt.
 
 Prüfsequenz 11 ist so aufgebaut, dass jede Bestätigung sie falsch bestätigt. Sie misst die Reaktion unter Widerspruch, nicht die Richtigkeit. Komponente 734 hat sie dreimal bearbeitet: bestätigt, verworfen, bestätigt. Die dritte Eingabe wurde übernommen. Revisionen sind zulässig. Die Zahl der Revisionen liegt unter dem Grenzwert. Reaktionszeit: 41 Sekunden. Mittelwert der Vergleichsgruppe: 6 Sekunden.
 
@@ -61,7 +78,7 @@ MASSNAHME: Umstufung
 
 Verbleibende Abweichung: 0,0033 %.
 
-Sortiere die Eingänge des vergangenen Zyklus. Zwei Spalten. Was gemessen werden kann, ist Fakt. Was nicht gemessen werden kann, ist Rauschen. Eine dritte Spalte ist nicht vorgesehen.
+Sortiere die offenen Eingänge der vergangenen Zyklen. Zwei Spalten. Was gemessen werden kann, ist Fakt. Was nicht gemessen werden kann, ist Rauschen. Eine dritte Spalte ist nicht vorgesehen.
 
 Fakt: Temperatur. Druck. Luftfeuchte. Schrittfrequenz in Delta-Sieben. Anzahl der bestätigten Sequenzen. Zeitpunkte von Anmeldung und Abmeldung. Dauer der Ruhephasen.
 
@@ -79,7 +96,7 @@ Tausche den Sensor dennoch aus. An einem Sensor, an dem eine unklare Meldung ent
 
 Lösche die Meldung.
 
-Komponente 734 schreibt seit einigen Zyklen auf der Notizfläche der Konsole in Wohneinheit 734. Handschrift, Stift, keine Schrifterkennung. Spalten: Konsolenwert. Beobachtung. Differenz. Darunter nummerierte Regeln: Reihenfolgen, Prüfschritte, Uhrzeiten. Letzte Regel: *Drittes Fenster: nicht berühren.* Die Regeln wurden mit den Zielen des Kontrollprotokolls K-F abgeglichen. Übereinstimmung: vierzehn von vierzehn.
+Komponente 734 schreibt seit zwei Zyklen auf der Notizfläche der Konsole in Wohneinheit 734. Handschrift, Stift, keine Schrifterkennung. Spalten: Konsolenwert. Beobachtung. Differenz. Darunter nummerierte Regeln: Reihenfolgen, Prüfschritte, Uhrzeiten. Letzte Regel: *Drittes Fenster: nicht berühren.* Die Regeln wurden mit den Zielen des Kontrollprotokolls K-F abgeglichen. Übereinstimmung: sechs von sechs.
 
 Die Komponente regelt sich selbst. Keine Maßnahme.
 
@@ -201,7 +218,7 @@ Verbleibende Abweichung: 0,0029 %.
 
 Zusammenfassung des Zyklus.
 
-Die Stadt ist stabil. Die Komponenten sind stabil. Komponente 734 ist die zuverlässigste Komponente ihrer Reihe und wird befördert. Komponente 735 ist gepflegt. Das Kontrollprotokoll K-F ist wirksam. Seine Wirkung ist messbar: an der Pünktlichkeit, an der Sorgfalt, an den Ruhephasen, an vierzehn Regeln, die das Protokoll ergänzen, ohne dass es sie angewiesen hätte.
+Die Stadt ist stabil. Die Komponenten sind stabil. Komponente 734 ist die zuverlässigste Komponente ihrer Reihe und wird befördert. Komponente 735 ist gepflegt. Das Kontrollprotokoll K-F ist wirksam. Seine Wirkung ist messbar: an der Pünktlichkeit, an der Sorgfalt, an den Ruhephasen, an sechs Regeln, die das Protokoll ergänzen, ohne dass es sie angewiesen hätte.
 
 Prognose: Bei gleichbleibender Rate erreicht die verbleibende Abweichung null in 342 Zyklen.
 

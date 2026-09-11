@@ -26,7 +26,7 @@ Danach dringt die Abweichung vom Raum in seine persönliche Kontinuität vor. Un
 ### Szenenplan
 1. **Das Audit.** Direktive: **EINHEIT 734: BESTÄTIGUNGSLATENZ +0,31 s. PRÜFUNG ANGESETZT.** Fragen richten sich an seine Funktion, nicht an seine Person. Kernsequenz: **DIESE SEQUENZ WIRD NICHT ALS STIMMIG BESTÄTIGT.** Kael entscheidet, revidiert und entscheidet erneut. Einzelne Zuweisungen zerfallen beim Öffnen in Zeichen oder enden mitten im Wort. Ergebnis: **PRÜFUNG BESTANDEN.** Das Ergebnis entlastet ihn nicht.
 2. **Fundsache.** Unter Station 11 liegt eine kleine Haarspange mit abgesplitterter Ecke. Kein Bestandszeichen, unbekanntes Material. Beim Aufheben: Boden schwer, Luft dichter, Glieder bleiern; höchstens eine Minute. Keine Erklärung, keine Erinnerungsszene. Kael steckt sie ein und meldet sie nicht — seine erste konkrete Unterlassung gegenüber der Ordnung.
-3. **Die verlorene Stunde.** 19:12: Kael öffnet das Register. Harter Absatzschnitt. 20:31: Die Einträge sind neu geordnet, gleichmäßig geschrieben; drei fehlen. Das warme Fenster ist gelöscht. Kein innerer Kommentar, der die Lücke erklärt. Er prüft das Türschloss fünfmal. Beim Abmelden: **EINHEIT 734: DIFFERENZ 1.** Er quittiert.
+3. **Die verlorene Stunde.** Nach dem Heimkommen prüft Kael das Türschloss dreimal. 19:12: Er öffnet das Register. Harter Absatzschnitt. 20:31: Die Einträge sind neu geordnet, gleichmäßig geschrieben; drei fehlen. Das warme Fenster ist gelöscht. Kein innerer Kommentar, der die Lücke erklärt. Danach prüft er das Schloss noch zweimal — fünf Prüfungen an diesem Abend insgesamt. Beim Abmelden: **EINHEIT 734: DIFFERENZ 1.** Er quittiert.
 
 ### Veränderung
 Kapitel 2 zeigte, dass Welt und System einander widersprechen. Kapitel 3 zeigte, dass Kael deshalb ein zweites Register braucht. Kapitel 4 zeigt, dass auch dieses zweite Register nicht außerhalb des Problems steht. Kael kann nicht mehr sicher zwischen äußerer Korrektur und eigener Handlung unterscheiden. Damit ist der Boden für Kapitel 5 bereitet: AEGIS wird dieselben Ereignisse als erfolgreiche Pflege lesen.
@@ -36,4 +36,5 @@ Kapitel 2 zeigte, dass Welt und System einander widersprechen. Kapitel 3 zeigte,
 - Die Haarspange ist Schicht-1-Spur, keine erklärende Rückblende.
 - Der Zeitsprung wird **nicht** als Amnesie bezeichnet.
 - Oblivion bleibt ausschließlich als Tat-Signatur sichtbar: Perfektion, Sortierung, Entfernung.
+- Türschloss-Kontinuität für Kap 5: drei Prüfungen vor 19:12, zwei nach 20:31, fünf gesamt.
 - **DIFFERENZ 1** ist der konkrete Übergang zum Restwert aus Kapitel 5.

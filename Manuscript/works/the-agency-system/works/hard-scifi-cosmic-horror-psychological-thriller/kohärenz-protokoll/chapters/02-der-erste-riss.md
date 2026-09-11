@@ -3,7 +3,7 @@ type: novel.chapter
 author_slug: "the-agency-system"
 work_slug: "kohärenz-protokoll"
 created: "2026-06-12"
-status: "outlined"
+status: "drafted"
 chapter_number: "2"
 title: "Der erste Riss"
 pov: "Kael (Hard-A, 1. Person)"
@@ -37,3 +37,331 @@ Zu Beginn glaubt Kael, eine Abweichung werde durch Markierung beendet. Am Ende h
 - Kael sagt weder „Riss“ noch „Amnesie“ noch „System“ über sich selbst.
 - Die Geometrie-Anomalie muss stärker als Kapitel 1 sein, aber noch lokal und überprüfbar wirken.
 - Kapitel 2 endet nicht auf Rebellion, sondern auf der unbehaglichen Entscheidung, die Widersprüche zunächst zu verwalten.
+
+<!-- Draft v0.1 (2026-09-11). Plan: Plan/drafting/akt1-arc-optimized_2026-09-11.md · Anschlussprüfung gegen Kap 1 und Kap 5. -->
+
+---
+
+# Kapitel 2 — Der erste Riss
+
+Das Licht ist da, bevor ich die Augen öffne.
+
+Ich liege bis sieben.
+
+Eins. Zwei. Drei. Vier. Fünf. Sechs. Sieben.
+
+Dann stehe ich auf.
+
+Das Glas steht auf der Ablage, bis knapp unter den Rand gefüllt. Die spiegelnde Fläche bewegt sich mit mir. Ich sehe nicht länger hin, als ich brauche. Hände. Gesicht. Hände. Overall. Schultern, Handgelenke, Knöchel. Alles sitzt.
+
+Einundzwanzig Grad.
+
+Vier Sekunden hinein. Sechs hinaus.
+
+Die Tür öffnet sich.
+
+Delta-Sieben hat zweihundertvier Platten bis zur ersten Abzweigung. Ich zähle sie. Die Zahl kommt ohne Mühe. Beim dritten Fenster werde ich langsamer, dann gehe ich weiter. Die Stadt steht hinter dem Glas in ihren geraden Linien. Die Türme sind da. Die Wege sind da. Das Wasser steigt und fällt.
+
+Bei einhundertdreißig bin ich im Datenknoten.
+
+Doran setzt sich, zuerst die Schultern, dann die Arme, dann der Rest.
+
+„Bereit.“
+
+„Bereit.“
+
+„Wie viele gestern?“
+
+„Dreihundertsechs.“
+
+Er zieht die Mundwinkel nach unten. „Stabil.“
+
+Ich lege die Hand auf die Fläche.
+
+**EINHEIT BEREIT. SEQUENZ ZUGEWIESEN.**
+
+Darunter erscheint eine zweite Zeile.
+
+**UMLEITUNG DELTA-SIEBEN ÜBER SEKTOR 04. BETROFFEN: EINHEITEN 701–750. PROTOKOLL K-F AKTIV.**
+
+Ich lese sie einmal. Sektor 04 verlängert den Rückweg. Mehr steht dort nicht.
+
+Die erste Umlaufbilanz kommt.
+
+Ich prüfe die Ränder zuerst.
+
+---
+
+Bei einhundertvierzehn halte ich an.
+
+Nicht lange. Weniger als einen Atemzug.
+
+Der Strom liegt vollständig auf der Fläche: Zufluss, Umlauf, Rücklauf. Die Werte sind sauber angeordnet. Eine Stelle hinter dem Komma stimmt nicht.
+
+Ich sehe auf den Rand. Dann in die Mitte. Dann wieder auf den Rand.
+
+Gestern lag die Abweichung an derselben Stelle.
+
+Nicht an einer ähnlichen. An dieser.
+
+Der Wert steht dort, wo er gestern stand, bevor ich ihn markiert habe. Dieselbe Zeile der Umlaufbilanz. Derselbe Versatz um eine Stelle hinter dem Komma. Ich kenne die Form, weil ich sie einmal geprüft habe. Eine korrigierte Sequenz ist leichter zu behalten als eine, die von Anfang an stimmt.
+
+Ich lege zwei Finger an den Rand der Fläche und ziehe die Markierung auf den Wert.
+
+Die Fläche nimmt sie.
+
+Der Wert wechselt.
+
+Die Bilanz stimmt.
+
+Ich bestätige.
+
+Die nächste Sequenz erscheint.
+
+Ich prüfe sie.
+
+Bei einhundertfünfzehn stimmt alles. Bei einhundertsechzehn auch. Lastverteilung. Lüftungstakt. Umlauf. Die Ströme kommen und gehen. Ich arbeite weiter.
+
+Kurz vor der Entlastung sehe ich zurück auf die Liste der Markierungen. Der Eintrag ist dort: Sequenz 114, Umlaufbilanz, ausgeglichen. Status abgeschlossen.
+
+Abgeschlossen ist abgeschlossen.
+
+Ich schließe die Liste.
+
+Doran hebt zwei Finger, als eine Doppelzuweisung erscheint. Bei dir.
+
+Ich übernehme sie.
+
+Zur Tagesmitte essen wir sechs Minuten lang. Danach kommen die Ströme wieder in voller Breite. Ich prüfe die Ränder. Wenn eine Stelle falsch ist, markiere ich sie. Wenn sie stimmt, bestätige ich.
+
+Dreihundertsechs.
+
+**SEQUENZ ABGESCHLOSSEN. EINHEIT 734 ENTLASTET.**
+
+Doran hebt zwei Finger.
+
+Ich hebe zwei Finger zurück.
+
+Dann gehe ich über Sektor 04 nach Hause.
+
+---
+
+Die Umleitung beginnt dort, wo Delta-Sieben sonst gerade bleibt.
+
+Ein Pfeil auf der Wandfläche weist nach links.
+
+**SEKTOR 04. TRANSIT FREIGEGEBEN.**
+
+Der Korridor dahinter ist heller als Delta-Sieben. Nicht viel. Die Platten sind dieselben quadratischen Platten, die Fugen gleich schmal, die Wände glatt. Es gibt keine Fenster.
+
+Ich zähle.
+
+Eins. Zwei. Drei.
+
+Der Weg ist länger, aber die erste Abzweigung ist auf der Transitfläche mit zweihundertvier Platten angegeben. Ich habe die Anzeige vor dem Betreten gesehen. Zweihundertvier ist eine Zahl, die ich kenne.
+
+Einhundertachtzig.
+
+Einhundertneunzig.
+
+Zweihundert.
+
+Zweihunderteins.
+
+Zweihundertzwei.
+
+Zweihundertdrei.
+
+Zweihundertvier.
+
+Die Wand geht weiter.
+
+Ich mache noch einen Schritt.
+
+Die nächste Fuge liegt vor meiner Schuhspitze.
+
+Zweihundertfünf.
+
+Ich bleibe stehen.
+
+Hinter mir ist der Korridor gerade. Vor mir auch. Die Abzweigung ist nicht zu sehen.
+
+Ich drehe mich zur letzten Markierung an der Wand um. SEKTOR 04 / 04-C. Sie liegt dort, wo sie liegen soll. Ich gehe zurück bis zu ihr und beginne neu.
+
+Eins.
+
+Diesmal zähle ich langsamer.
+
+Bei hundert lege ich die Hand kurz an die Wand, damit der Punkt bleibt. Bei zweihundert sehe ich nur noch auf die Fugen.
+
+Zweihundertvier.
+
+Wand.
+
+Zweihundertfünf.
+
+Zweihundertsechs.
+
+Zweihundertsieben.
+
+Zweihundertacht.
+
+Zweihundertneun.
+
+Zweihundertzehn.
+
+Zweihundertelf.
+
+Die Abzweigung ist da.
+
+Ich sehe zurück.
+
+Der Gang von der Markierung bis hierher ist gerade. Zweihundertelf Platten passen hinein. Das ist eine Feststellung. Ich sehe auf die Transitfläche neben der Abzweigung.
+
+**DISTANZ 04-C → 04-D: 204 EINHEITEN.**
+
+Ich gehe sieben Platten zurück.
+
+Von dort sehe ich die Abzweigung noch immer.
+
+Ich gehe eine weitere zurück.
+
+Die Wandkante rückt.
+
+Nicht schnell. Es gibt keine Bewegung. Die Kante steht nur an einer anderen Stelle, sobald ich den Kopf drehe. Von links gesehen endet die Wand an der Fuge vor mir. Von rechts gesehen läuft sie bis zur nächsten Fuge weiter. Ich trete zur Mitte zurück.
+
+Die beiden Linien passen zusammen.
+
+Ich trete nach links.
+
+Sie passen nicht.
+
+Etwas Scharfes liegt in der Luft.
+
+Metallisch. Elektrisch. Kalt hinten in der Nase.
+
+Ozon.
+
+Der Geruch verschwindet nicht sofort. Er bleibt über mehrere Atemzüge. Ich atme vier hinein, sechs hinaus, und beim nächsten Atemzug ist er noch da.
+
+An der Abzweigung sitzt eine Wandkonsole. Ich lege die Hand auf die Fläche.
+
+**MELDUNG.**
+
+Ich wähle TRANSIT. DISTANZ. Ich gebe 04-C bis 04-D ein. Angezeigt: 204. Beobachtet: 211.
+
+Ich prüfe die Eingabe.
+
+204.
+
+211.
+
+Ich bestätige die Meldung.
+
+Die Fläche bleibt einen Moment leer.
+
+Dann:
+
+**EINHEIT 734: KEINE ABWEICHUNG REGISTRIERT.**
+
+Ich lese die Zeile noch einmal.
+
+Die Konsole hat den Plan. Sie hat die Wegmarken. Sie hat die Plattenzählung aus dem Transit. Ich habe meine Schritte.
+
+Ich kann mich verzählt haben.
+
+Ich habe zweimal gezählt.
+
+Ich kann mich zweimal verzählt haben.
+
+Die Wand ist gerade, wenn ich mittig davorstehe.
+
+*Sensor-Rekalibrierung. Standardprotokoll.*
+
+Ich atme aus.
+
+Der Ozongeruch wird schwächer.
+
+Die Konsole zeigt den freigegebenen Weg nach rechts. Ich gehe nach rechts.
+
+Ich zähle nicht weiter.
+
+---
+
+In der Wohneinheit steht das Glas auf der Ablage.
+
+Voll.
+
+Ich trinke die Hälfte und stelle es zurück. Der Kreis ist nicht da, aber ich stelle das Glas dorthin, wo er wäre.
+
+Die Abendration kommt aus der Ausgabe. Riegel. Gel. Wasser.
+
+Ich esse im Stehen.
+
+Danach öffne ich die Konsole.
+
+Der Tagesbericht zeigt dreihundertsechs bestätigte Sequenzen und eine markierte Abweichung. Sequenz 114. Status: ausgeglichen.
+
+Ich sehe auf das Wort, bis es nur noch das Wort ist.
+
+Ausgeglichen.
+
+Ich schließe den Tagesbericht.
+
+Darunter ist der Entwurfsordner offen.
+
+Ich benutze ihn selten. Für unvollständige Meldungen, bevor sie gesendet werden. Heute steht eine darin.
+
+Keine Überschrift.
+
+Eine Zeile mit Sequenz 114, dem Feld der Umlaufbilanz und der Nachkommastelle. Darunter ein Satz.
+
+*Sofern der korrigierte Wert im folgenden Durchlauf an derselben Position erneut auftritt und unter der Annahme, dass die beiden Vorkommen nicht als voneinander unabhängige Abweichungen zu behandeln sind, ist zunächst die Bedingung zu prüfen, unter der „ausgeglichen“ einen abgeschlossenen Zustand bezeichnet.*
+
+Ich lese bis zum Punkt.
+
+Dann noch einmal.
+
+Der Satz ist länger als meine Meldungen. Er enthält drei Bedingungen, bevor er sagt, was zu tun ist. Die Zahlen stimmen. Sequenz 114. Dieselbe Position.
+
+Unter dem Satz steht nichts.
+
+Ich setze den Cursor an das Ende.
+
+Er blinkt.
+
+Ich lösche nichts.
+
+Ich ergänze nichts.
+
+Ich schließe den Entwurfsordner.
+
+Die Fläche zeigt wieder den Abend.
+
+Einundzwanzig Grad.
+
+Das Glas ist halb voll. Das ist richtig; ich habe die Hälfte getrunken.
+
+Ich stelle es einen Fingerbreit nach links, bis es genau dort steht, wo ich es morgens abgestellt hätte.
+
+Vier Sekunden hinein.
+
+Sechs hinaus.
+
+Morgen kann ich Sequenz 114 prüfen, wenn sie wiederkommt.
+
+Wenn sie nicht wiederkommt, ist sie abgeschlossen.
+
+Wenn sie wiederkommt, kann ich sie markieren.
+
+Beides ist ein Verfahren.
+
+Ich lege mich hin.
+
+Das Licht wird zur vorgesehenen Zeit schwächer.
+
+Die Decke ist drei Meter zwanzig über mir.
+
+Ich zähle nicht bis sieben.
+
+Ich schlafe.
