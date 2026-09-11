@@ -6,15 +6,31 @@ created: "2026-06-12"
 status: "outlined"
 chapter_number: "17"
 title: "Phaenomena vs. Noumena"
-pov: ""
+pov: "Kael / A‖B Bridge (~25 %)"
 scene_refs: []
 ---
 
-# Chapter 1
+# Chapter 17
 
 ## Summary
-(Chapter summary)
+Z1 korrigiert sich nicht durch eine bessere Theorie, sondern durch eine neue Handlung. Im dritten Dossier entdeckt Kael die Trennung zwischen dem, was die Stadt darstellt, und dem Prozess, der darunter weiterläuft. Ein bestätigter Bestand verschwindet nicht; seine sichtbare Oberfläche verschwindet. Der Prozesskern behält Spuren, Verweise und Kosten.
 
-<!-- AGENT: Render this chapter.md template per chapter via `novel.create_chapter`; the prose-drafter skill fills body sections. -->
+Kael folgt erstmals einem solchen Bestand nach unten, statt sich mit dem bereinigten Ergebnis zufriedenzugeben. Im Pflichtbericht schreibt er einen vollständigen erzählenden Satz statt einer Klassifikation. Der Validator zögert und akzeptiert ihn. Die kleine Abweichung ist Z1s Korrektur: aktives Anschauen erzeugt eine Form, die der Apparat noch nicht ausfiltert.
 
-## Outline **Akt:** Akt II — Zyklischer Modus **POV:** Per-Chapter-Dual-POV, ~25 % Bridge (Soft-Layering)  Kael sieht die „Drähte" der Simulation (Rendering-Ebene vs. Prozess-Kern); aktiv anschauen statt fliehen.  ### Beats - Zyklus-Funktion: Z1-Wächterin · A:MC-Solution Pursuit-Andeutung - Philosophie: Kant, transzendentaler Idealismus - Leitmotiv: Licht durch enge Architektur
+## Outline
+**Akt:** Akt II — Z1 Korrektur  
+**Storyform:** Pursuit-Vorform · Rendering vs. Prozesskern  
+**Kapitelauftrag:** Den ersten Zyklus durch aktives Hinschauen schließen; Theorie muss in einen verfolgten Datensatz und eine veränderte Schreibhandlung münden.
+
+### Szenenplan
+1. **Rendering-Dossier.** Oberfläche und Prozess anhand eines realen Bestands.
+2. **Nach unten folgen.** Kael verfolgt einen bestätigten Datensatz über die sichtbare Ebene hinaus.
+3. **Der Satz.** Pflichtbericht enthält Beobachtung als Prosa; kurze Validator-Latenz, dann Annahme.
+
+### Veränderung
+Von „Grenzen kennen“ zu „hinter die Darstellung schauen“. Der nächste Zyklus kann Kael nun selbst zum Datensatz machen.
+
+### Kontinuität / Reveal Discipline
+- KW2 darf sich sensorisch stärker überlagern, bleibt aber an den Datenpfad gekoppelt.
+- Der Satz ist klein und konkret, kein Manifest.
+- Keine Kant-Erklärung; das Kapitel darf funktionieren, ohne den Namen zu nennen.
