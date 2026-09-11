@@ -6,15 +6,31 @@ created: "2026-06-12"
 status: "outlined"
 chapter_number: "35"
 title: "Vortex 1 — Operative Wendung (Beats 1–3)"
-pov: ""
+pov: "Wir-Kael + AEGIS Makro-Log (100 % Soft-Layering)"
 scene_refs: []
 ---
 
-# Chapter 1
+# Chapter 35
 
 ## Summary
-(Chapter summary)
+Die zwei Uhren konvergieren. Die Zuweisungsschlange enthält fast nur noch Selbst-Bestände; der Optionspool zählt rückwärts. Gleichzeitig erreichen die Wartungsintervalle den kritischen Takt. AEGIS isoliert die verteilten Träger und bereitet die letzte Direkt-Konsolidierung vor.
 
-<!-- AGENT: Render this chapter.md template per chapter via `novel.create_chapter`; the prose-drafter skill fills body sections. -->
+Der Pivot ist eine einzige körperliche Geste: Kael nimmt die Hand von der Konsole. Er bestätigt nicht, verwirft nicht und versucht auch nicht mehr, einen dritten Button zu erfinden. Die Wahl besteht darin, die dialetheische Lage **zu tragen**, statt sie operativ zu schließen. Danach endet die Kinetik. Beat 3 braucht echte Leere: kein Erklärdialog, kein Vision-Montage-Stapel. Ein sensorischer Anker bleibt — das Fehlen des Klicks.
 
-## Outline **Akt:** Vortex 1 **POV:** 100 % Soft-Layering; maximaler Simultanklang (Kaels Wir-Stimme + AEGIS' Makro-Log)  Die echte Storyform-Wendung B→A beginnt: AEGIS isoliert Kaels Fragmente, Kael vollzieht die dialetheische Wahl (B-Linear → A-Holistic, Pursuit-Adoption, Resolve=Change), dann absolute Stille. Setting: Mnemosyne-Server-Architektur (KW2); duale Uhren laufen sichtbar.  ### Beats - HR 9: Ordeal (Teil 1) - Beat 1 — Convergence: AEGIS isoliert Kaels Fragmente; Erasure-Sweep konvergiert auf das Cluster; Sub-Cluster der Alter adressiert; Atmosphäre: Ozon-Spike, Temperatur-Anomalie - Beat 2 — Pivot (dialetheische Wahl): Kael wechselt B-Linear → A-Holistic; ANP/EP-Amnesie-Barrieren fallen (Reihenfolge relevant: wer integriert zuerst?); EINE einzige körperliche Geste markiert die Wahl - Beat 3 — The Silence: alle Kinetik endet; Nichts-Rauschen wird absolute Stille; Kael trägt das Trauma ohne Dissoziation; EIN sensorischer Anker bleibt; Witness-Layer 3 (Husserlian Spectator) aktiv; Stille = lebende Dialetheia; strukturell notwendige Pause — nicht mit Inhalt füllen - Duale Uhren: Optionlock A = schrumpfender Optionspool, diegetisch konkret · Timelock B = Erasure-Frequenz erreicht kritischen Schwellwert; AEGIS sieht nur den Timelock
+## Outline
+**Akt:** Vortex 1 — Ordeal, Teil 1  
+**Storyform:** echte B→A-Wendung beginnt · Pursuit-Adoption · Resolve=Change  
+**Kapitelauftrag:** Die operative Wahl körperlich und minimal machen; Theorie darf erst rückwirkend lesbar werden.
+
+### Beats
+1. **Convergence.** Selbst-Bestände, schrumpfender Optionspool, kritischer Sweep-Takt.
+2. **Pivot.** Kael nimmt die Hand von der Konsole; weder Confirm noch Reject.
+3. **The Silence.** Alle Kinetik endet; Trauma/Pluralität bleibt präsent ohne Dissoziation; nur der fehlende Klick als Anker.
+
+### Veränderung
+Kael versucht nicht mehr, Sicherheit durch die richtige Operation zu erzeugen. Er trägt die offene Lage aktiv.
+
+### Kontinuität / Reveal Discipline
+- Beat 2 genau eine körperliche Geste.
+- Beat 3 nicht mit Erklärungen füllen.
+- AEGIS sieht den Timelock, nicht den A-Optionlock als solchen.
