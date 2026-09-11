@@ -1,6 +1,6 @@
 # Kohärenzpass — Kapitel 1–5
 
-> Stand 2026-09-11. Prüfung nach dem Draft von Kap 2/3 gegen die vorhandene Kap-1-/Kap-5-Prosa sowie den Kap-4-Plan. Canon/NCP unverändert.
+> Stand 2026-09-11. Prüfung nach dem Draft von Kap 2/3 gegen die vorhandene Kap-1-/Kap-5-Prosa sowie den Kap-4-Plan. Nachprüfung ergänzt die `[K]`-Locks zum alleinigen Erstbruch in Kap. 1 und zur namenlosen Hard-B-Sicht in Kap. 5; NCP unverändert. Operative Details: `enrichment-packets_01-05_2026-09-11.md`.
 
 ## Kausalkette
 
@@ -23,12 +23,13 @@
 - Abendkontinuität wurde exakt an Kap 5 angepasst: **drei Türschloss-Prüfungen vor 19:12, zwei nach 20:31, fünf gesamt**.
 - Drei Registereinträge fehlen nach dem Intervall, darunter das warme Fenster; Abschluss `DIFFERENZ 1`.
 
-### 4 → 5: AEGIS liest denselben Zerfall als Erfolg
+### 4 → 5: Die namenlose Ordnungsinstanz liest denselben Zerfall als Erfolg
 - Bestätigungslatenz beginnt nun konsistent **vor zwei Zyklen**, nicht mehr vor neun.
-- AEGIS sortiert offene Eingänge aus **vergangenen Zyklen**, sodass Wärme-Meldung aus Kap 3 und Haarspange aus Kap 4 in demselben Review vorkommen können.
+- Die Instanz sortiert offene Eingänge aus **vergangenen Zyklen**, sodass Wärme-Meldung aus Kap 3 und Haarspange aus Kap 4 in demselben Review vorkommen können.
 - K-F-Abgleich wurde von **14/14 auf 6/6 Regeln** korrigiert; das entspricht dem in Kap 3 tatsächlich etablierten Register.
 - Verlorenes Intervall und Türschloss-Zählung stimmen exakt mit dem Kap-4-Plan überein.
-- AEGIS' falscher Erfolg bleibt intakt: Audit bestanden → Beförderung Stufe 2; Wärme = Rauschen; Bereinigung ohne Anweisung = ordnungsgemäß; Doran = Pflege; Restwert 1 = Ausnahme A-0001.
+- Der falsche Erfolg bleibt intakt: Audit bestanden → Beförderung Stufe 2; Wärme = Rauschen; Bereinigung ohne Anweisung = ordnungsgemäß; Doran = Pflege; Restwert 1 = Ausnahme A-0001.
+- Lesertext nennt die Instanz nicht. Logs sind `ORDNUNGSPROTOKOLL` und verwenden nur die in D-03 gelockten Felder.
 
 ## Stil-/Reveal-Prüfung Kap 2/3
 
@@ -47,7 +48,8 @@
 2. Kap 3 auf `drafted`, vollständige Prosa; Register/Latenz/Wärme auf einen Arbeitstag verdichtet.
 3. Kap 4 Plan: Türschloss-Kontinuität präzisiert (3 + 2 = 5).
 4. Kap 5: Summary/Outline ergänzt; Chronologie der Latenz und Eingänge korrigiert; K-F-Regelzahl auf 6 gesetzt.
+5. Nachprüfung: Kap 1 braucht die Entfernung des Spiegelversatzes; Kap 5 braucht Namens-, Stimm- und Logrevision. Die Prosa wurde in diesem Planungspass bewusst nicht verändert.
 
 ## Nächster Prosaschritt
 
-Kapitel 4 ist jetzt die einzige noch ungeschriebene Lücke im Block **1–5**. Seine Fakten sind durch Kap 3 und Kap 5 von beiden Seiten festgelegt; dadurch kann es als nächstes ohne weitere Architekturentscheidung gedraftet werden.
+Kapitel 4 ist die einzige noch ungeschriebene Lücke im Block **1–5**. Seine Fakten sind durch Kap 3, das fokussierte Enrichment Packet und den revidierten Kap-5-Zielzustand von beiden Seiten festgelegt; es kann ohne weitere Architekturentscheidung gedraftet werden. Kapitel 1 und 5 bleiben getrennte, klar begrenzte Revisionsaufträge.

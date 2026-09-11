@@ -1,19 +1,21 @@
 # Audit der geschriebenen Kapitel und aller Kapitelkarten
 
-> Stand: 2026-09-11 · Geprüft: Prolog/Kapitel 0, Kapitel 1, Kapitel 5 vollständig; Kapitel 2–4 und 6–40 als Outline-Dateien; Aktpläne, Drafting-Brief, Premise, Work, Dramatica, Canon und 16 beigefügte Recherche-PDFs.
+> Stand: 2026-09-11 · Geprüft: Prolog/Kapitel 0 sowie Kapitel 1, 2, 3 und 5 als Prosa; Kapitel 4 und 6–40 als Outline-Dateien; Aktpläne, Drafting-Brief, Premise, Work, Dramatica, Canon und 16 beigefügte Recherche-PDFs. Offene Grundsatzfragen G-01 bis G-05 sind inzwischen als `[K]` geschlossen.
 
 ## Ergebnis in einem Satz
 
-Die Romanarchitektur ist tragfähig, aber die fertigen Kapitel setzen drei unterschiedliche Poetiken nebeneinander (essayistische Genesis, enge Körperprosa, kaltes Protokoll), während die Outline-Dateien noch zu oft **Idee und Veränderung**, aber nicht **dramatisierbare Information, Szene und Übergabestatus** definieren.
+Die Romanarchitektur ist tragfähig. Der Opening-Block besitzt mit Kapitel 2/3 inzwischen eine belastbare Beweiskette; vor der nächsten Prosa brauchen Kapitel 1 eine punktuelle Erstbruch-Korrektur, Kapitel 5 eine konsequente Reveal-/Stimmrevision und Kapitel 4 das ausgefüllte Szenenpacket.
 
 ## Statusinventur
 
 | Bereich | Befund | Konsequenz |
 |---|---|---|
 | Kapitel 0 | lange, ausgearbeitete Genesis; philosophisch stark, aber erklärend | als eigenständige Rahmenpoetik deklarieren oder radikal verdichten |
-| Kapitel 1 | stärkster Maßstab für Teil I; konkrete Routine, Körper, Zählmotiv, gute Anomalie-Eskalation | als verbindliche Hard-A-Stimmreferenz behalten |
-| Kapitel 5 | wirksame tragische Maschinenlogik; sehr klarer kausaler Payoff | Reveal-/Benennungsregeln mit Teil-I-Hygiene entscheiden |
-| Kapitel 2–4, 6–40 | `status: outlined`; kurze Kapitelkarten, keine geschriebene Prosa | nicht als „geschrieben“ bewerten; vor Drafting Enrichment Packet erstellen |
+| Kapitel 1 | stärkster Maßstab für Teil I; konkrete Routine, Körper, Zählmotiv, gute Anomalie-Eskalation; früher Spiegelversatz verletzt jedoch den Ein-Falschheits-Lock | Spiegelversatz entfernen, Korridorriss als einzigen objektiven Erstbruch erhalten |
+| Kapitel 2–3 | vollständige Prosa; Rücklauf → Gegenregister funktioniert kausal und ist gegen Kapitel 1/4/5 geprüft | als Anschlussanker erhalten; bei Revision Datenwerte nicht verschieben |
+| Kapitel 4 | `status: outlined`; einzige Prosaluecke im Block 1–5 | erst nach fokussiertem Szenenpacket draften |
+| Kapitel 5 | wirksame tragische Maschinenlogik; sehr klarer kausaler Payoff; aktuelle Fassung verrät Name/Architektur und führt dekorative Metriken | namenlose subjektlose Hard-B-Sicht; Logs auf bindendes Minimalformat kürzen |
+| Kapitel 6–40 | `status: outlined`; kurze Kapitelkarten, keine geschriebene Prosa | nicht als „geschrieben“ bewerten; vor Drafting jeweiliges Enrichment Packet prüfen |
 | Aktpläne | gute Ursache-Wirkung-Kette und Reveal Discipline | um Leserwissen, Körperbogen, Weltanker, Nebenfiguren-Agency und Hook-Register erweitern |
 
 ## Kapitel 0 — Genesis-Prolog
@@ -51,14 +53,16 @@ Die Romanarchitektur ist tragfähig, aber die fertigen Kapitel setzen drei unter
 
 ### Risiken
 
-1. **Technischer Dateikopf.** `# Chapter 1`, Platzhalter-Summary und Agent-Kommentar stehen vor dem Romantext. Für Manuskript-Export müssen Metadaten und Lesertext getrennt werden.
-2. **Einzelne Deutungssätze.** „Eine Sequenz, die falsch war und dann richtig ist, zählt für mich doppelt“ ist stark, liegt aber nahe an einer erklärten These. Spätere Kapitel dürfen diese Funktion nicht erneut aussprechen.
-3. **Traumgrenze.** Das Schlussbild mit Scherben ist atmosphärisch wirksam, importiert aber bereits ein zentrales Gesamtmotiv. Im Hook-Register als erste Einzahlung markieren, damit es später nicht beliebig wiederholt wird.
-4. **Weltanker-Granularität.** Der Text bleibt in KW1, wechselt aber zwischen Wohneinheit, Transit und Knoten. Künftige Beatplanung muss definieren, ob „eine Welt“ räumliche Unterorte erlaubt; derzeit ist die Regel nicht operationalisiert.
+1. **Doppelter Erstbruch.** Der um einen Lidschlag verspätete Spiegel ist bereits eine objektive physikalische Unmöglichkeit und nimmt dem späteren Korridorriss seine kanonische Alleinstellung.
+2. **Technischer Dateikopf.** `# Chapter 1`, Platzhalter-Summary und Agent-Kommentar stehen vor dem Romantext. Für Manuskript-Export müssen Metadaten und Lesertext getrennt werden.
+3. **Einzelne Deutungssätze.** „Eine Sequenz, die falsch war und dann richtig ist, zählt für mich doppelt“ ist stark, liegt aber nahe an einer erklärten These. Spätere Kapitel dürfen diese Funktion nicht erneut aussprechen.
+4. **Traumgrenze.** Das Schlussbild mit Scherben ist atmosphärisch wirksam, importiert aber bereits ein zentrales Gesamtmotiv. Im Hook-Register als erste Einzahlung markieren, damit es später nicht beliebig wiederholt wird.
 
 ### Revisionsauftrag
 
-- Prosa weitgehend erhalten; nur Exportkopf bereinigen.
+- Prosa weitgehend erhalten; den Spiegel synchron reagieren lassen und alle drei Sätze des Zeitversatzes entfernen. Gedachte Wegkarte als subjektiv plausible Überforderung belassen, nicht als bestätigte Geometrie-Anomalie markieren.
+- Den Korridorriss als einzige konkrete Falschheit halten: kaltes Ozon → unmögliche Kante → Klick → abgebrochener Halbsatz.
+- Exportkopf erst im separaten Manuskript-/Exportpass bereinigen.
 - Alle Motive als Ledger-Einzahlungen erfassen: Licht-vor-Erwachen, 21 Grad, sieben Schritte, 204 Platten, 306 Sequenzen, zwei Finger, 307-Scherz, drittes Fenster, Ozon, Klick, abgebrochener Halbsatz, Scherben.
 - Kapitel 2 muss mindestens drei konkrete Auszahlungen leisten: Rücklauf der markierten Sequenz, Zählversagen, explizite Verneinung der Konsole.
 
@@ -74,16 +78,17 @@ Die Romanarchitektur ist tragfähig, aber die fertigen Kapitel setzen drei unter
 
 ### Risiken
 
-1. **Harter Regelkonflikt.** „AEGIS“ wird in Teil I im Titel, POV, Text und Log benannt. Die aktuelle Projektregel verlangt in Teil I Chiffren und keine benannte Entität. Das ist keine Stilfrage, sondern eine Canon-Entscheidung.
-2. **Exakte Systemkenntnis zu früh.** Leser:innen erfahren Architektur, Metriken, Bereinigung und Intentionalität wesentlich früher als Kael. Die dramatische Ironie gewinnt, der subjektive Horror verliert.
-3. **Log-Metriken ohne spätere Funktion.** `KOHÄRENZ`, `AKTIVITÄT`, `EXTERNE_AUFMERKSAMKEITS_METRIK`, `RESIDUAL_VEKTOR`, `PARADOX_INDEX` erzeugen Erwartung auf Payoffs. Werden sie nicht später kausal genutzt, sind sie dekorative Techniksprache.
+1. **Benennungskonflikt — geschlossen.** „AEGIS“ steht derzeit in POV, Text und Log. D-21 bindet: Im leserseitigen Text von Kapitel 1–13 bleibt die Instanz namenlos; Titel, Frontmatter und Kommentare sind Metadaten und dürfen intern benennen.
+2. **Stimmkonflikt — geschlossen.** Die aktuelle Imperativkette (`Beginne`, `Prüfe`, `Sortiere`, `Lösche`) wirkt wie eine Folge ausgegebener Kommandos. D-02 verlangt subjektlose Funktions-Innensicht aus Feststellung, Klassifikation, Schlussfolgerung und Maßnahme.
+3. **Log-Metriken — geschlossen.** `EXTERNE_AUFMERKSAMKEITS_METRIK`, `RESIDUAL_VEKTOR` und `PARADOX_INDEX` haben im Opening keinen Handlungseffekt und sind zu streichen. D-03 definiert das vollständige Akt-I-Minimalformat.
 4. **Übergabeproblem.** Kapitel 6 muss Dorans Veränderung erleben, ohne das Wissen des Lesers bloß nachzuerzählen.
 5. **Benennung als Aktenstück.** „Komponente 734/735“ ist stark, aber häufig. Kürzung einzelner Wiederholungen würde die Kälte erhöhen.
 
 ### Revisionsauftrag
 
-- Entscheidung G-02: Kapitel 5 als **zulässige Teil-I-Ausnahme** dokumentieren oder vollständig chiffrieren (z. B. namenloses Ordnungsprotokoll; Titel/Metadaten nicht leserseitig).
-- Jede Metrik mit erstem Auftreten, Veränderung und Payoff versehen; sonst streichen.
+- Den Fließtext als namenlose subjektlose Innenansicht neu fassen; keine Ersetzung durch eine künstliche Imperativkette.
+- `[AEGIS v6.0 // …]` durch `[ORDNUNGSPROTOKOLL // …]` ersetzen. Nur `ZEITSTEMPEL`, `EREIGNIS`, `KOMPONENTE_734: KOHÄRENZ | TEMP | AKTIVITÄT`, `MASSNAHME`; genau im Bilanzlog zusätzlich `RESTWERT: 1` und `AUSNAHME: A-0001`.
+- Jede Aussage über 734/735 an die Evidenzmatrix des fokussierten Packets binden; keine neue Architektur, Ursache oder Figurenkenntnis.
 - Kapitel 6 aus Kaels Verlust starten, nicht aus einer Erklärung der Konsolidierung.
 - A-0001 in Kapitel 10/18/34/36 konkret erneut wirksam machen, nicht nur erwähnen.
 
@@ -110,19 +115,21 @@ Die Romanarchitektur ist tragfähig, aber die fertigen Kapitel setzen drei unter
 9. **Kapitel 27–34 wiederholen Prüfungsstruktur.** Jede Prüfung braucht eine andere Verlustart, Beziehungskonstellation und operative Konsequenz.
 10. **Finale Skalierung.** Der Übergang von privater Innenarbeit zu kosmischer Bewahrungsfunktion braucht früher sichtbare Zwischenstufen, sonst wirkt Kapitel 39 wie Kategorienwechsel.
 
-## Verbindliche offene Entscheidungen
+## Geschlossene Grundsatzentscheidungen
 
-| ID | Entscheidung | Empfehlung |
+| ID | Entscheidung | Bindender Beschluss |
 |---|---|---|
-| G-01 | Gilt Teil-I-Hygiene für Kapitel 0? | Nein: als außerzeitlichen Rahmen kennzeichnen; dennoch kürzen und Spoiler reduzieren. |
-| G-02 | Darf Kapitel 5 AEGIS benennen? | Nur als explizit dokumentierte einmalige Hard-B-Ausnahme; sonst kollabiert der bestehende Kapitelzweck. |
-| G-03 | Was bedeutet „eine Welt pro Beat“ bei Unterorten? | Eine Kernwelt, beliebig viele kausal verbundene Unterorte; kein Sensorikimport aus anderer Welt. |
-| G-04 | Welche Metriken sind payoff-pflichtig? | A-0001, Restwert, externe Aufmerksamkeit und Paradox-Index behalten; übrige nur bei Handlungseffekt. |
-| G-05 | Was ist die materielle Brücke zur kosmischen Finalfunktion? | Ab Kapitel 14 wiederholt zeigen, dass lokale Bestände nur durch Beziehungen zwischen Trägern stabil bleiben. |
+| G-01 | Gilt Teil-I-Hygiene für Kapitel 0? | Kapitel 0 ist außerzeitlicher Rahmen außerhalb des subjektiven Teil-I-Vertrags; dennoch straffen und Identitäts-/Architekturspoiler reduzieren. |
+| G-02 | Darf Kapitel 5 AEGIS benennen? | Nein im leserseitigen Text. Kapitel 5 bleibt einmalige Hard-B-Ausnahme, zeigt aber eine namenlose ordnende Instanz. |
+| G-03 | Was bedeutet „eine Welt pro Beat“ bei Unterorten? | Eine Kernwelt pro Beat; kausal verbundene Unterorte sind zulässig, Sensorikimport aus anderer Kernwelt nicht. |
+| G-04 | Welche Metriken sind payoff-pflichtig? | Akt I: `KOHÄRENZ`, `TEMP`, `AKTIVITÄT`, `MASSNAHME`; einmalig `RESTWERT: 1`, `AUSNAHME: A-0001`. Externe Aufmerksamkeit, Residual-Vektor und Paradox-Index entfallen. |
+| G-05 | Was ist die materielle Brücke zur kosmischen Finalfunktion? | Ab Kapitel 14 wiederholt beweisen, dass lokale Bestände nur durch Beziehungen zwischen Trägern stabil bleiben; Skalierungsleiter aus dem Masterplan nutzen. |
 
 ## Freigabestatus
 
-- Kapitel 1: **revisionsarm draftfähig / Stimm-Canon**.
-- Kapitel 5: **inhaltlich stark, aber bis G-02 nicht canon-sauber**.
+- Kapitel 1: **Stimm-Canon, vor Freigabe Spiegelversatz entfernen**.
+- Kapitel 2–3: **gedraftet und anschlussgeprüft; Datenwerte gelockt**.
+- Kapitel 4: **draftbereit auf Architektur-Ebene**, sobald das fokussierte Packet beim Schreiben vollständig abgearbeitet wird.
+- Kapitel 5: **inhaltlich stark, vor Freigabe bindende Namens-/Stimm-/Logrevision nötig**.
 - Kapitel 0: **starkes Material, vor Endfassung strukturell zu entscheiden**.
-- Kapitel 2–4 und 6–40: **nicht direkt draften**; zuerst das jeweilige Enrichment Packet des Masterplans ausfüllen.
+- Kapitel 6–40: **nicht direkt draften**; zuerst das jeweilige Enrichment Packet des Masterplans ausfüllen.

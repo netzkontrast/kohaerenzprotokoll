@@ -5,16 +5,17 @@
 ## 1. Pflichtlektüre vor dem Schreiben (vollständig lesen, nicht überfliegen)
 
 1. `Plan\drafting\akt1-beatcards_04-13_2026-09-11.md` — für Kap 4–13 die BeatCard des Zielkapitels sowie die Exit-/Entry-Kette der Nachbarkapitel lesen.
-2. `Plan\drafting\chapter-information-expanded_2026-09-11.md` — operatives Chapter Packet; Zielkapitel sowie Vor- und Nachkapitel vollständig lesen.
-3. `Plan\drafting\chapter-enrichment-masterplan_2026-09-11.md` — verbindliches Vorbereitungs- und Informationsmodell.
-4. `Plan\drafting\akt1-plan_2026-09-11.md` bzw. der passende Akt-Arc — der Szenenplan (für dein Kapitel UND die Nachbarkapitel, damit Anschlüsse stimmen).
-5. `Plan\drafting\decision-log_2026-09-11.md` und für Akt II/III `decision-log_akt2-3_2026-09-11.md` — Draft-Entscheidungen.
-6. `chapters\01-erwachen-in-der-konstrukt-stadt.md` — **Stimm-Referenz für Kael** (Neufassung). Zusätzlich `Plan\drafting\sources\CH-01_Erwachen-Zyklus_Draft-v0_5.md` (Autorfassung v0.5) als zweite Stimm-Referenz.
-7. `chapters\05-auge-des-sturms.md` — Stimm-Referenz für den kalten Ordnungsblick und Log-Format; wegen der in `written-chapters-audit_2026-09-11.md` markierten Reveal-/Teil-I-Konflikte nicht ungeprüft als Canon übernehmen.
-8. `Canon\kohaerenz-protokoll_storyform-und-outline_2026-06-10.md` — §0 (Querschnitt-Kanon, Hard-Constraints) und §5 (dein Kapitel). **Normativ bei Konflikt.**
-9. `Canon\kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md` — Sprach-DNA jeder Stimme, die in deinem Kapitel einbricht; §7–§8, §12.
-10. `Canon\kohaerenz-protokoll_welt-sensorik-drafting_2026-06-10.md` — Weltanker, Sensorik, Hitze-Polarität, Drafting-Regeln und Self-Review.
-11. `Plan\drafting\sources\KP_Plot-Konkretisierung_13-Ideen_F1-Faden_2026-06-10.md` — Plot-Fäden und Kapitel-Beats.
+2. Für Kap. 1–5: `Plan\drafting\enrichment-packets_01-05_2026-09-11.md` — verbindliche Szenen-, Evidenz- und Übergabematrix; Zielkapitel sowie Vor- und Nachkapitel vollständig lesen.
+3. `Plan\drafting\chapter-information-expanded_2026-09-11.md` — operative Kapitelinformationen für 0–40.
+4. `Plan\drafting\chapter-enrichment-masterplan_2026-09-11.md` — verbindliches Vorbereitungs- und Informationsmodell.
+5. `Plan\drafting\akt1-plan_2026-09-11.md` bzw. der passende Akt-Arc — der Szenenplan (für dein Kapitel UND die Nachbarkapitel, damit Anschlüsse stimmen).
+6. `Plan\drafting\decision-log_2026-09-11.md` und für Akt II/III `decision-log_akt2-3_2026-09-11.md` — Draft-Entscheidungen.
+7. `chapters\01-erwachen-in-der-konstrukt-stadt.md` — **Stimm-Referenz für Kael**, nach Entfernung des Spiegelversatzes. Zusätzlich `Plan\drafting\sources\CH-01_Erwachen-Zyklus_Draft-v0_5.md` (Autorfassung v0.5) als historische Stimm-Referenz.
+8. `chapters\05-auge-des-sturms.md` — Material- und Rhythmusreferenz für den kalten Ordnungsblick, **keine unveränderte Stimm- oder Logreferenz**: Name, Imperativkette und überzählige Metriken müssen gemäß D-02/D-03/D-21 revidiert werden.
+9. `Canon\kohaerenz-protokoll_storyform-und-outline_2026-06-10.md` — §0 (Querschnitt-Kanon, Hard-Constraints) und §5 (dein Kapitel). **Normativ bei Konflikt.**
+10. `Canon\kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md` — Sprach-DNA jeder Stimme, die in deinem Kapitel einbricht; §7–§8, §12.
+11. `Canon\kohaerenz-protokoll_welt-sensorik-drafting_2026-06-10.md` — Weltanker, Sensorik, Hitze-Polarität, Drafting-Regeln und Self-Review.
+12. `Plan\drafting\sources\KP_Plot-Konkretisierung_13-Ideen_F1-Faden_2026-06-10.md` — Plot-Fäden und Kapitel-Beats.
 
 ## 2. Stimme Kael (Akt I)
 
@@ -24,7 +25,7 @@
 
 - R-1 Tragische Ironie nie erklären. R-2 Nie sagen, was der Leser denken soll. R-3 Kein „Alter/Anteil/Fragment/DID/System (für Kael)" in Akt I; Stimmenwechsel nur über Syntax + Somatik + Vokabular, **nie Header, nie Sprecher-Tags**. R-4 max. 3 Stimmen-Mikrocues pro Bridge-Szene (Akt I sonst max. 2 pro Szene, Kap 2–5 max. 1 und nur als Artefakt/Somatik). R-5 Kaltes Ozon (AEGIS, scharf, elektrisch) und Wärme (Juna, hautwarm, quellenlos, ab Kap 3) **nie in derselben Szene**. R-6 max. 1 Konzept pro Szene. R-7 max. 1 Genesis-Echo pro Szene. R-8 AEGIS/Direktiven ohne Metapher, Moral, Affekt. R-9 Keine wörtlichen Zitate aus Kap 0. R-10 Juna nie grammatisches Subjekt, nie Name, nie Stimme, nie Körper.
 - Keine DKT-Fachbegriffe (Coheron, Erason, Landauer, Kohärenzfeld …) in Akt I. Diegetisches Vokabular: Konsolidierung, Ausgleich, Abweichung, Wartungsfenster, Bestand, Bestandspflege, Restwert, Ausnahme.
-- AEGIS erscheint in Akt I nur als VERSALIEN-Direktive auf Flächen/Konsolen; als 3.-Person-Log nur, wo der Plan es vorsieht (Log-Format wie Kap 5, Felder gemäß D-03, **ohne** das Wort „Ich").
+- Der Name `AEGIS` erscheint in Akt I **nie im leserseitigen Text**. Die Ordnungsinstanz zeigt sich als VERSALIEN-Direktive, anonymes `ORDNUNGSPROTOKOLL` oder — ausschließlich in Kap. 5 — subjektlose Funktions-Innensicht. Kein „Ich", keine künstliche Imperativkette, keine Systemarchitektur-Erklärung. Logs verwenden nur die Felder aus D-03.
 - Keine Personen mit Namen außer Doran. Andere Bewohner sind „Einheiten".
 - Kein bewusstes Wir vor Kap 9. Kaels Name „Kael" erscheint erstmals in Kap 9 (D-05).
 - Tonale Achse: Schmerz und Liebe als derselbe Pulsschlag — in Akt I heißt das: die Liebe ist als Fehlstelle da, der Schmerz als Reibungslosigkeit. Kein Trost, kein Triumph.
@@ -58,4 +59,4 @@ Zielwert steht im Plan pro Kapitel (±15 %). Nicht auffüllen; lieber eine Szene
 
 Self-Review-Checkliste (Welt-Sensorik §10.3) für jede Szene durchgehen und korrigieren. Wörter zählen (nur Prosa). Keine anderen Dateien ändern, nicht committen. Im Abschlussbericht: Wortzahl je Kapitel; jede Stelle, an der du vom Plan abgewichen bist oder etwas neu entscheiden musstest (als Vorschlag für das Entscheidungs-Log); jeder Konflikt zwischen Plan und Canon, den du bemerkt hast.
 
-Zusätzlich muss der Draft gegen den **Chapter Readiness Gate** des Masterplans geprüft werden: Hook-in eingelöst, Kapitelversprechen verändert, genau ein sensorischer Weltanker pro Beat, Informationsfreigabe eingehalten, körperlicher Preis sichtbar, Nebenfigur mit eigener Handlung, Konsequenz in das Nachkapitel exportiert und Hook-out konkret gesetzt. Ein Kapitel ohne ausgefülltes Enrichment Packet ist nicht draftbereit.
+Zusätzlich muss der Draft gegen den **Chapter Readiness Gate** des Masterplans geprüft werden: Hook-in eingelöst, Kapitelversprechen verändert, genau ein sensorischer Kernweltanker pro Beat, Informationsfreigabe eingehalten, körperlicher Preis sichtbar, Nebenfigur mit eigener Handlung, Konsequenz in das Nachkapitel exportiert und Hook-out konkret gesetzt. Ein Kapitel ohne ausgefülltes Enrichment Packet ist nicht draftbereit. Für Kap. 1–5 ist das fokussierte Packet normativ gegenüber der allgemeinen 0–40-Karte.

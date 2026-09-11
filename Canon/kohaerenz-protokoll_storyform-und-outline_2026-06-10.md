@@ -25,9 +25,11 @@
 
 **Prosa-Regel Kap 1 (gelockt 2026-05-31) — Stil-Direktive für ganz Akt I, verschärft für Kap 1–13:**
 
-- **Die Amnesie wird nie erwähnt.** Kein „ich erinnere mich nicht". Sie wird *erlebt* — durch **eine einzige konkrete Falschheit**, nicht durch Aussage.
+- **Die Amnesie wird nie erwähnt.** Kein „ich erinnere mich nicht". Sie wird *erlebt* — durch **eine einzige konkrete Falschheit**, nicht durch Aussage. Diese Falschheit ist in Kap 1 ausschließlich der Korridor-Riss auf dem Rückweg (kaltes Ozon → unmögliche Kante → Klick). Spiegel, Glas, Karte, Zählung und Routine dürfen davor irritieren, aber keine zweite objektiv unmögliche Abweichung bilden.
 - **Die Philosophie verschwindet komplett unter dem Konkreten.** KW1 \= absolutes Metaphernverbot, assertorische Sätze, Computational Class P. Die Ontologie ist Substrat, nie Oberfläche.
 - **Es wird eine relatable Geschichte erzählt.** Ein Mensch, ein konkreter Tag, kleine Reibungen, ein Körper, eine Routine. Die tragische Ironie trägt der Leser (er kennt Kap 0\) — Kael lebt nur seinen Tag.
+
+**Akt-I-Benennungslock (Autor-Lock 2026-09-11).** In leserseitiger Prosa von Kap 1–13 wird die ordnende Instanz nicht „AEGIS" genannt. Sie erscheint als Direktive, Logik, Pflegevorgang, Konsolidierung oder namenloser Ordnungsblick. Planungsdateien, Metadaten und interne Kommentare dürfen den Architekturbegriff verwenden. Der Name wird erst nach dem subjektiven Horror-Vertrag von Akt I leserseitig freigegeben.
 
 **Hitze-Polaritätsregel (Lock 2026-05-30, OQ-B).** **Kaltes Ozon \= AEGIS-Unterdrückung** (Landauer-Signatur, überall) · **Wärme \= Junas ununterdrückbare Spur** (Coheron-Verdrängung; selten, Debüt **Kap 3**, wächst). Nach Kap 1 die beiden Hitzen nie wieder vermischen. *(Klarstellung gegen ältere Outline-Sensorik: siehe §7, Konflikt-Hinweis 1.)*
 
@@ -134,8 +136,9 @@ Jedes Kapitel trägt drei Werte gleichzeitig: **Modus** (Erzählhaltung) · **St
 ### §2.4 POV-Architektur (Per-Chapter-Dual-POV) `[K]`
 
 - **Grundentscheidung (Lock-In 2026-05-07): Hybrid (Option 3\)** — Default Hard-Routing per POV, plus designierte Bridge-Szenen mit Soft-Layering. Polyphonie progressiv über die Akte (fast nur Hard in Akt I, voll Soft im Vortex; Bridge-Frequenzen siehe §1).
-- **POV-Regel:** Alle 13 Alter sprechen in 1\. Person. AEGIS und die zwei Guardians sprechen in 3\. Person (Logs/Protokolle, keine subjektive Innensicht). Junas POV: offen.
-- **Slot-16-Lock (2026-05-30), Akt I:** Hard-A-Default; **ein** Kapitel **Kap 5–8** ist Hard-B mit AEGIS-1.-Person-Innensicht (exakte Position bei Storyweaving/Phase 6 pinnen). Sonst AEGIS \= 3.-Person-OS-Force (Umweltbedingung). Das Hard-B-Kapitel enthüllt AEGIS, **nicht** Kaels Vielheit.
+- **POV-Regel:** Alle 13 Alter sprechen in 1\. Person. AEGIS und die zwei Guardians erscheinen außerhalb des designierten Hard-B-Kapitels in 3\. Person, Logs oder Protokollen; Junas POV bleibt offen.
+- **Slot-16-Lock (Autor-Lock 2026-09-11):** **Kapitel 5 „Auge des Sturms"** ist das einzige Hard-B-Kapitel in Akt I. Es verwendet eine **subjektlose Funktions-Innensicht**: knappe Feststellungen, Kausalurteile und anonymisierte Logs, aber kein grammatisches Selbst, kein „Ich", keine Affekt- oder Moralsprache. Das Verfahren ist der Wahrnehmungsträger. Kapitel 5 enthüllt die Existenz und Logik einer ordnenden Instanz, **nicht ihren Namen, ihre vollständige Architektur oder Kaels Vielheit**.
+- **Benennungsgrenze:** „AEGIS" darf in Akt I nur in nicht-leserseitigen Metadaten, Planungsdateien und Kommentaren stehen. Lesertext und Log-Header bleiben anonymisiert. Ab Akt II darf die Instanz gemäß Reveal-Plan benannt werden.
 - **AEGIS-Stimme in Kap 1 (Lock 2026-05-30): keine.** Sterile Konsolen-Direktiven (Maschinen-Interface) bleiben; keine 3.-P-Systemlog-Stimme, die einen Agenten andeutet. AEGIS' Stimme debütiert im Hard-B-Kapitel.
 
 ---
@@ -347,7 +350,7 @@ Dieselben Ereignisse wie Kap 0 — aus der Position der vollzogenen pluralen Hei
 **Weitere offene Punkte / Lücken:**
 
 - **Signpost-Reihenfolgen** (§2.3) sind `[V]` — gegen die Dramatica-Engine in P1–P5 validieren.
-- **Hard-B-Kapitel-Position** (Slot 16): innerhalb Kap 5–8 beim Storyweaving (Phase 6\) pinnen.
+- **Hard-B-Kapitel-Position** (Slot 16): **gelockt auf Kapitel 5**; subjektlose Funktions-Innensicht, in Akt I ohne leserseitige AEGIS-Benennung (Autor-Lock 2026-09-11).
 - **Kap-39-Schreib-Moment:** exakte Inszenierung (schreibt Kael buchstäblich? worauf? wie sichtbar wird der Ouroboros-Konzeit?) — beim Kap-39/40-Encoding entscheiden.
 - **OQ-Knöchel:** Ausgestaltung der Blutungs-Wiederkehr am Ende (Grund der Wunde liegt am Ende).
 - **Szenen-Detail Akt II/III:** `[S]`/`[L]`\-Felder in §5 verdichten (insb. Kap 4, 5, 23, 24, 28).

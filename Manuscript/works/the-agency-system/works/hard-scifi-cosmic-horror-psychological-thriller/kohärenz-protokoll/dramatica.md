@@ -251,7 +251,7 @@ Storypoint-Vorrang pro Szene → Per-Chapter-Dual-POV-Architektur. [K]
 B endet, A übernimmt (Vortex 1, Kap 35–36); ab Vortex 2 entsteht Synthese (c), die das Klein-c-Schema verlässt. [K]
 
 ### pov_architecture
-Hybrid (Option 3, Lock-In 2026-05-07): Default Hard-Routing per POV, plus designierte Bridge-Szenen mit Soft-Layering; Polyphonie progressiv über die Akte (fast nur Hard in Akt I, voll Soft im Vortex). Alle 13 Alter sprechen in 1. Person; AEGIS und die zwei Guardians in 3. Person (Logs/Protokolle, keine subjektive Innensicht); Junas POV: offen. [K]
+Hybrid (Option 3, Lock-In 2026-05-07; Akt-I-Präzisierung 2026-09-11): Default Hard-Routing per POV, plus designierte Bridge-Szenen mit Soft-Layering; Polyphonie progressiv über die Akte (fast nur Hard in Akt I, voll Soft im Vortex). Alle 13 Alter sprechen in 1. Person. AEGIS und die zwei Guardians erscheinen grundsätzlich in 3. Person, Logs oder Protokollen. Einzige Akt-I-Ausnahme ist Kapitel 5 als Hard-B-Innensicht in subjektloser Funktionsprosa: kein „Ich", kein Affekt, keine Metapher. Der Name AEGIS bleibt im leserseitigen Text von Kapitel 1–13 verborgen; Junas POV: offen. [K]
 
 ### storyforming_status
 Storyforming abgeschlossen + auditiert (Lock-In 2026-05-07: Approach-Spiegelung, Driver-Konstanz, IC-Träger-Präzisierung) + Genesis-Iteration (2026-05-08: Cost/Dividend, plurale Apotheose). [K]
