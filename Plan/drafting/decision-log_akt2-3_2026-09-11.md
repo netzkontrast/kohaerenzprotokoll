@@ -23,7 +23,7 @@
 
 - D23-06: exakte letzte Zeile/Oblivion-Zuordnung in Kap 36.
 - D23-08: visuelle Ausgestaltung der Mnemosyne-Architektur.
-- D23-10: genaue Körperstelle der Blutspur.
-- D23-14: ob der einzelne Klick in der Coda überhaupt nötig ist.
+- ~~D23-10: genaue Körperstelle der Blutspur.~~ **Autorentscheidung 2026-09-11: Knöchel** (wie Kap 0, Bewegung 12). In Kap 40, Bewegung 4 als Echo umgesetzt, ohne Kausalauflösung.
+- ~~D23-14: ob der einzelne Klick in der Coda überhaupt nötig ist.~~ **Autorentscheidung 2026-09-11: ja, genau einmal, ohne kaltes Ozon.** In Kap 40, Bewegung 2 am Ort des ersten Kontakts gesetzt, damit er die Bindung spiegelt und keine Schlusslesart beweist.
 
 Diese Punkte blockieren die Kapitelplanung nicht und sind deshalb als Draft-Entscheidungen explizit statt implizit gesetzt.
