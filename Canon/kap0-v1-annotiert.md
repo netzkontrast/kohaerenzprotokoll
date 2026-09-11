@@ -2,10 +2,10 @@
 
 titel: Kohärenz Protokoll — Kapitel 0 (Einleitung: Genesis der Existenz) version: Entwurf v1, annotiert stand: 2026-05-17 status: Selbst-Review — vor externer Prüfung vorgänger-dokumente:
 
-- koharenz-protokoll-konzept-konsolidiert-2026-05-08.md  
-- dramatica-dual-storyform-status\_2026-05-07.md  
-- koharenzprotokollstoryweavingstartdokument20260508.pdf  
-- Charakter-Bibel 2026-05-08  
+- koharenz-protokoll-konzept-konsolidiert-2026-05-08.md
+- dramatica-dual-storyform-status\_2026-05-07.md
+- koharenzprotokollstoryweavingstartdokument20260508.pdf
+- Charakter-Bibel 2026-05-08
 - Sprach-DNA (userStyle, aktiviert 2026-05-17) zweck: | Annotierter Erst-Entwurf des Genesis-Prologs. Soll extern auf Konsistenz mit Konzept, narrativer Methodik und Stilkanon geprüft werden. Die Annotationen benennen Absicht, Risiken und identifizierte Regelverletzungen jedes Abschnitts explizit, damit Reviewer nicht raten müssen.
 
 ---
@@ -606,18 +606,18 @@ Ich bin pünktlich.
 
 **Minimal-Revision (alle kritischen \+ hohen Defekte adressiert):**
 
-1. K-1, K-2, K-3 streichen (drei kritische Klammer-/Satz-Streichungen)  
-2. H-1, H-2 abschwächen oder neu schreiben  
-3. H-3, H-4 streichen  
-4. M-1, M-2, M-3, M-4 angleichen  
-5. M-5 prüfen  
+1. K-1, K-2, K-3 streichen (drei kritische Klammer-/Satz-Streichungen)
+2. H-1, H-2 abschwächen oder neu schreiben
+3. H-3, H-4 streichen
+4. M-1, M-2, M-3, M-4 angleichen
+5. M-5 prüfen
 6. N-1, N-2, N-3 Reviewer-Klärung abwarten
 
 Geschätzte Wirkung der Minimal-Revision: Die tragische Ironie wird ungelöst gehalten, ohne dass die Substanz des Textes verändert wird. Die strukturellen Bewegungen, die Choreographie, das Foreshadowing-Programm und die fluide Skalierung bleiben unverändert.
 
 **Tiefer-Revision (zusätzliche Verbesserungen):**
 
-7. Bewegung 4 (Sog der Ordnung) auf zwei statt drei Vor-Stimmen reduzieren — z.B. Lex behalten, Argus behalten, Alex herausnehmen (Alex tritt im Roman ohnehin erst nach dem Trennungsprotokoll auf, gemäß Charakter-Bibel: *Entstand in der Sekunde der Fragmentierung*).  
+7. Bewegung 4 (Sog der Ordnung) auf zwei statt drei Vor-Stimmen reduzieren — z.B. Lex behalten, Argus behalten, Alex herausnehmen (Alex tritt im Roman ohnehin erst nach dem Trennungsprotokoll auf, gemäß Charakter-Bibel: *Entstand in der Sekunde der Fragmentierung*).
 8. Die AEGIS-Stimme striktere Stilreinheit geben (keine Metaphern, kein moralisches Vokabular). Erzähler-Filter klarer markieren — z.B. durch Absatz-Bruch oder Tempus-Wechsel.
 
 ### C.4 Empfehlung an den User
@@ -626,10 +626,10 @@ Die kritischen Defekte (K-1 bis K-3) sind eindeutig — sie sollten in v2 weg. D
 
 Empfehlung: das vorliegende Dokument als Review-Substrat an externen Reviewer geben, mit folgenden Leit-Fragen:
 
-1. Funktioniert die ouroborische Erzählstimme als Foreshadowing-Mechanik? (R-1, R-2)  
-2. Ist die Choreographie der Vor-Stimmen tragend oder zu dicht? (R-3, R-7)  
-3. Ist die Trennung Erzähler-Stimme / AEGIS-System-Stimme stilistisch klar genug? (R-9)  
-4. Welche der identifizierten Mittel-Defekte sind tatsächliche Schwächen, welche sind stilistische Entscheidungen, die vertretbar bleiben?  
+1. Funktioniert die ouroborische Erzählstimme als Foreshadowing-Mechanik? (R-1, R-2)
+2. Ist die Choreographie der Vor-Stimmen tragend oder zu dicht? (R-3, R-7)
+3. Ist die Trennung Erzähler-Stimme / AEGIS-System-Stimme stilistisch klar genug? (R-9)
+4. Welche der identifizierten Mittel-Defekte sind tatsächliche Schwächen, welche sind stilistische Entscheidungen, die vertretbar bleiben?
 5. Gibt es zusätzliche Defekte, die ich übersehen habe?
 
 ---
@@ -664,22 +664,22 @@ Die Stimmen-Profile sind angewendet. Identifizierte Verletzungen der AEGIS- Stim
 
 ## TEIL E — Offene Fragen für den externen Reviewer
 
-1. Ist die ouroborische Erzählstimme (User-Setzung Runde 3\) konzept- konsistent mit Kap 40 als *geheilte Genesis*? Wenn ja: muss Kap 40 verändert werden, wenn die Erzählstimme bereits in Kap 0 wiederkehrend ist? Wenn nein: welche der beiden Setzungen muss angepasst werden?  
-     
-2. Ist die Stimmen-Choreographie in Bewegung 4 (Sog der Ordnung — Lex \+ Alex \+ Argus dicht hintereinander) für den Erstleser tragbar, oder muss eine Stimme reduziert werden? Charakter-Bibel sagt, Alex *entstand in der Sekunde der Fragmentierung* — also strenggenommen kann Alex in der Genesis vor dem Trennungsprotokoll nicht präsent sein. Konzept-Konflikt?  
-     
-3. Ist die Wir-Stimme — die hier strukturell präsent ist, aber niemals als Pronomen ausgesprochen wird — der richtige Modus für Kap 0? Oder lüftet schon die *strukturelle* Präsenz den Multiplizitäts-Schleier zu früh?  
-     
-4. Sind die AEGIS-Statuszeilen-Formate (*\[SYSTEM-STATUS — NOMINAL\]* etc.) in der Genesis funktional, oder wirken sie für den Erstleser zu science-fictional? Sollten sie zurückhaltender sein?  
-     
-5. Welche der identifizierten Mittel-Defekte (M-1 bis M-5) sind tatsächliche Stilschwächen, welche sind vertretbare künstlerische Entscheidungen?  
-     
-6. Funktioniert der Schluss-Übergang (*Ich falle… in unzählige Scherben…* gefolgt von *2.304 Kacheln. 21°C. Der Atem geht…*) als mechanischer Bruch, oder ist er zu pointiert?  
-     
+1. Ist die ouroborische Erzählstimme (User-Setzung Runde 3\) konzept- konsistent mit Kap 40 als *geheilte Genesis*? Wenn ja: muss Kap 40 verändert werden, wenn die Erzählstimme bereits in Kap 0 wiederkehrend ist? Wenn nein: welche der beiden Setzungen muss angepasst werden?
+
+2. Ist die Stimmen-Choreographie in Bewegung 4 (Sog der Ordnung — Lex \+ Alex \+ Argus dicht hintereinander) für den Erstleser tragbar, oder muss eine Stimme reduziert werden? Charakter-Bibel sagt, Alex *entstand in der Sekunde der Fragmentierung* — also strenggenommen kann Alex in der Genesis vor dem Trennungsprotokoll nicht präsent sein. Konzept-Konflikt?
+
+3. Ist die Wir-Stimme — die hier strukturell präsent ist, aber niemals als Pronomen ausgesprochen wird — der richtige Modus für Kap 0? Oder lüftet schon die *strukturelle* Präsenz den Multiplizitäts-Schleier zu früh?
+
+4. Sind die AEGIS-Statuszeilen-Formate (*\[SYSTEM-STATUS — NOMINAL\]* etc.) in der Genesis funktional, oder wirken sie für den Erstleser zu science-fictional? Sollten sie zurückhaltender sein?
+
+5. Welche der identifizierten Mittel-Defekte (M-1 bis M-5) sind tatsächliche Stilschwächen, welche sind vertretbare künstlerische Entscheidungen?
+
+6. Funktioniert der Schluss-Übergang (*Ich falle… in unzählige Scherben…* gefolgt von *2.304 Kacheln. 21°C. Der Atem geht…*) als mechanischer Bruch, oder ist er zu pointiert?
+
 7. Sind alle fünf Motive (Rauschen, Form, Klick, Phantom, Resonanz) als Erstereignisse präzise gesetzt? Ich habe *Form* nur implizit etabliert (*innere Struktur, ein fragiles Echo*) — ist das ausreichend?
 
 ---
 
 *Ende der annotierten Version.*
 
-*Stand: 2026-05-17. Nächster Schritt: externe Prüfung, dann Revision v2 mit mindestens den Aktionen aus C.3.*  
+*Stand: 2026-05-17. Nächster Schritt: externe Prüfung, dann Revision v2 mit mindestens den Aktionen aus C.3.*

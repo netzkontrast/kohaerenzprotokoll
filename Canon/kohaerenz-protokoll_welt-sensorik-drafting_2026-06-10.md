@@ -6,19 +6,19 @@
 
 ## Inhalt
 
-1. Welt-Bibel: KW1, KW2, KW3, KW4, Überwelt, Externe Ebene  
-2. Sensorik-Bibliothek pro Ebene und Stilebene  
-3. Risse-Phänomenologie pro KW  
-4. Foreshadowing-Programm — fünf Stränge, drei Ebenen  
-5. Genesis-Motive-Choreografie (Rauschen, Form, Klick, Phantom, Resonanz)  
-6. Reveal-Disziplin — drei Bewusstseins-Schichten  
-7. Ouroboros-Spiegelungen Kap 0↔40 und Kap 1↔39  
-8. Mnemosynes Versuchung — die Anti-Heilung als Drafting-Mechanik  
-9. Kapitel-Briefing-Vorlage (13 Sektionen)  
-10. Self-Review-Regelwerk (Hard-Rules R-1 bis R-N)  
-11. Genre-Modus pro Akt  
-12. Master-Index aller Locks  
-13. Repo-Architektur-Empfehlung für Claude Code  
+1. Welt-Bibel: KW1, KW2, KW3, KW4, Überwelt, Externe Ebene
+2. Sensorik-Bibliothek pro Ebene und Stilebene
+3. Risse-Phänomenologie pro KW
+4. Foreshadowing-Programm — fünf Stränge, drei Ebenen
+5. Genesis-Motive-Choreografie (Rauschen, Form, Klick, Phantom, Resonanz)
+6. Reveal-Disziplin — drei Bewusstseins-Schichten
+7. Ouroboros-Spiegelungen Kap 0↔40 und Kap 1↔39
+8. Mnemosynes Versuchung — die Anti-Heilung als Drafting-Mechanik
+9. Kapitel-Briefing-Vorlage (13 Sektionen)
+10. Self-Review-Regelwerk (Hard-Rules R-1 bis R-N)
+11. Genre-Modus pro Akt
+12. Master-Index aller Locks
+13. Repo-Architektur-Empfehlung für Claude Code
 14. Wirklich-offene Punkte (auch nach diesem Dokument)
 
 ---
@@ -37,11 +37,11 @@
 
 **Sensorik (Default-Set, abrufbar pro Szene).**
 
-- Konstantes leises Summen.  
-- Geruch von **Ozon und Desinfektionsmittel** (Polaritätsregel: Ozon \= kalt/scharf, Landauer-Signatur).  
-- Kühle, glatte Oberflächen.  
-- Recycelte Luft.  
-- Stille mit Systemhum.  
+- Konstantes leises Summen.
+- Geruch von **Ozon und Desinfektionsmittel** (Polaritätsregel: Ozon \= kalt/scharf, Landauer-Signatur).
+- Kühle, glatte Oberflächen.
+- Recycelte Luft.
+- Stille mit Systemhum.
 - **Temperatur: konstant 21°C** — bis sie es nicht mehr ist. (Diese Zahl ist diegetische Bilanzgrenze; jede Abweichung ist Signal.)
 
 **Logik.** Streng kausal, deterministisch, regelbasiert. **Computational Class P** (Polynomial). Wenn A, dann B.
@@ -52,9 +52,9 @@
 
 **Risse in KW1 (spezifisch).** Die schmerzhaftesten Risse, weil die Umgebung keine Sprache für sie hat. Manifestationen:
 
-- Logikparadoxien werden physisch (Escher-Geometrien temporär stabil)  
-- Kausalitätsschleifen  
-- Inkonsistente Regelanwendung  
+- Logikparadoxien werden physisch (Escher-Geometrien temporär stabil)
+- Kausalitätsschleifen
+- Inkonsistente Regelanwendung
 - Blutende Knöchel ohne Erinnerung an die Verletzung *(Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos. Wiederkehr am Ende offen.)*
 
 **Sub-Lokalitäten (kanonisch).**
@@ -79,9 +79,9 @@
 
 **Sensorik (Default-Set).**
 
-- **Echos.** Wassertropfen, deren Quelle nicht zu finden ist.  
-- Geruch von **feuchter Erde und verblassendem Parfum**.  
-- Wechselnde Bodentexturen (fest, sumpfig, sandig).  
+- **Echos.** Wassertropfen, deren Quelle nicht zu finden ist.
+- Geruch von **feuchter Erde und verblassendem Parfum**.
+- Wechselnde Bodentexturen (fest, sumpfig, sandig).
 - **Nicht-lineare Zeit** — Sekunden dehnen sich, Tage kollabieren.
 
 **Logik.** Assoziativ, emotional. Realität formt sich nach innerem Zustand. Resonanz mit Vergangenheit/Intrusionen. **Computational Class: Parakonsistent.** Widersprüche koexistieren, ohne dass das System in Trivialismus kippt (Tarski-Hierarchie hält).
@@ -114,8 +114,8 @@
 
 **Sensorik.**
 
-- Metallisches Quietschen, Scharren, ferne Alarme.  
-- Kalte, raue Oberflächen.  
+- Metallisches Quietschen, Scharren, ferne Alarme.
+- Kalte, raue Oberflächen.
 - **Hyperalert-Gefühl:** das Nervensystem rechnet konstant durch, ob die nächste Ecke sicher ist.
 
 **Logik.** Bedrohungsanalyse, Verteidigungsprotokolle, Mustererkennung (oft hypersensibel). Misstrauen. **Computational Class: NP-Hard** — die Suche nach Sicherheit ist kombinatorisch unbeherrschbar.
@@ -147,8 +147,8 @@
 
 **Sensorik.**
 
-- Vermischung der Sinnesfelder (Klänge haben Farben, Düfte haben Texturen).  
-- Warmes Licht in nicht-rationalen Mustern.  
+- Vermischung der Sinnesfelder (Klänge haben Farben, Düfte haben Texturen).
+- Warmes Licht in nicht-rationalen Mustern.
 - Atem wird tiefer.
 
 **Logik.** Generativ, dialektisch. **Computational Class: Generativ.**
@@ -240,13 +240,13 @@
 
 Bestimmte Wahrnehmungen tragen Bedeutung quer durchs Buch. Jede ist mehrfach abrufbar — und ihre Wiederkehr ist *immer* Signal, nie Atmosphäre.
 
-- **Ozon-Geruch:** Erasure-Aktivität / Landauer-Signatur. Akt I diffus, in Akt II spike-artig.  
-- **21°C-Schwelle:** Stabilität vs. thermisches Versagen. Jede Abweichung ist Riss-Vorzeichen.  
-- **Telefon-Rauschen / \-Stille:** Junas Anker. Verschoben durch alle Akte.  
-- **Staub-Bewegung in Lichtkegeln:** KW2-Erinnerungs-Markierung.  
-- **Knöchel-Blutung:** Kap-0-Lock. Wiederkehr offen.  
-- **Quellenloses Licht beim Erwachen:** Kap 1 ↔ Kap 39 (Ouroboros).  
-- **„Komponente"/"Signatur"/„Phantom-Bilanz":** sprachliche Spuren der System-Verstrickung.  
+- **Ozon-Geruch:** Erasure-Aktivität / Landauer-Signatur. Akt I diffus, in Akt II spike-artig.
+- **21°C-Schwelle:** Stabilität vs. thermisches Versagen. Jede Abweichung ist Riss-Vorzeichen.
+- **Telefon-Rauschen / \-Stille:** Junas Anker. Verschoben durch alle Akte.
+- **Staub-Bewegung in Lichtkegeln:** KW2-Erinnerungs-Markierung.
+- **Knöchel-Blutung:** Kap-0-Lock. Wiederkehr offen.
+- **Quellenloses Licht beim Erwachen:** Kap 1 ↔ Kap 39 (Ouroboros).
+- **„Komponente"/"Signatur"/„Phantom-Bilanz":** sprachliche Spuren der System-Verstrickung.
 - **Zahl 734:** strukturelle Markierung (Kap 2, 10, 25).
 
 ---
@@ -279,9 +279,9 @@ Bestimmte Wahrnehmungen tragen Bedeutung quer durchs Buch. Jede ist mehrfach abr
 
 ### §3.3 Kompositions-Regel für Riss-Szenen
 
-- **Ein Riss-Typ pro Szene.** Wenn der Storyform-Pull mehrere verlangt, fehlt eine Szene davor oder dahinter.  
-- **Sensorische Verzerrung folgt dem Trigger.** Wer den Riss treibt, bestimmt die Phänomenologie.  
-- **Der Leser bekommt nie eine technische Erklärung.** Risse erscheinen als Erfahrung — die Theorie liegt darunter.  
+- **Ein Riss-Typ pro Szene.** Wenn der Storyform-Pull mehrere verlangt, fehlt eine Szene davor oder dahinter.
+- **Sensorische Verzerrung folgt dem Trigger.** Wer den Riss treibt, bestimmt die Phänomenologie.
+- **Der Leser bekommt nie eine technische Erklärung.** Risse erscheinen als Erfahrung — die Theorie liegt darunter.
 - **AEGIS interpretiert jeden Riss als Suppression-Versagen.** Sein Vokabular (in Logs) bleibt funktional, nie phänomenal.
 
 ---
@@ -316,28 +316,28 @@ Fünf Foreshadowing-Stränge laufen parallel und treffen sich in Akt III. Jeder 
 
 **Telefon-Stille-Anker.** `[K]`
 
-- **Kap 7:** *„Die Stimme im Rauschen"* — erste explizite Manifestation. K-J-Verbindung wird stärker; Telefon-Stille als Anker.  
-- **Kap 24:** AEGIS stört zyklisch.  
-- **Kap 30:** K-J-Verbindung als stabiler bewusster Kanal (A-Prerequisite).  
-- **Kap 39:** **eingelöst.** Telefon-Stille als Anker des Buchs.  
+- **Kap 7:** *„Die Stimme im Rauschen"* — erste explizite Manifestation. K-J-Verbindung wird stärker; Telefon-Stille als Anker.
+- **Kap 24:** AEGIS stört zyklisch.
+- **Kap 30:** K-J-Verbindung als stabiler bewusster Kanal (A-Prerequisite).
+- **Kap 39:** **eingelöst.** Telefon-Stille als Anker des Buchs.
 - **Kap 1: KEIN Telefon-Anker.** Nur die Stille als Substrat (Lock).
 
 **Komponente-734-Anker.** `[K]`
 
-- **Kap 0:** Komp-734-Bezeichnung wird in der Mitte einer Reihe gesetzt, ohne die Zahl zu nennen.  
-- **Kap 1:** *„Einheit 734"* einmal als Konsolen-Zeile, ohne Betonung; Kael reagiert nicht (Reader-only-Echo, Lock).  
+- **Kap 0:** Komp-734-Bezeichnung wird in der Mitte einer Reihe gesetzt, ohne die Zahl zu nennen.
+- **Kap 1:** *„Einheit 734"* einmal als Konsolen-Zeile, ohne Betonung; Kael reagiert nicht (Reader-only-Echo, Lock).
 - **Kap 2, 10, 25:** Wiederkehr der Zahl (Foreshadowing-Anker, strukturelle Ebene).
 
 **Silas-Halbsatz-Anker.** `[K]`
 
-- **Kap 1 (Lock):** *„Etwas in der Frequenz der Lüftung schien zu—"* (Abbruch vor dem Verb, kein Subjekt, Schicht-2-gekoppelt).  
-- **Akt II:** wachsendes Bewusstsein; Echo-Prosa wird hörbar.  
+- **Kap 1 (Lock):** *„Etwas in der Frequenz der Lüftung schien zu—"* (Abbruch vor dem Verb, kein Subjekt, Schicht-2-gekoppelt).
+- **Akt II:** wachsendes Bewusstsein; Echo-Prosa wird hörbar.
 - **Akt III:** Silas wird zum aktiven Transmitter (ab \~Kap 31/32, OQ-E).
 
 **Wärme-Debüt-Anker.** `[K]`
 
-- **Kap 3 (Lock):** erste Wärme als Junas Coheron-Spur (Polaritäts-Lock 2026-05-30).  
-- **Akt II:** wächst.  
+- **Kap 3 (Lock):** erste Wärme als Junas Coheron-Spur (Polaritäts-Lock 2026-05-30).
+- **Akt II:** wächst.
 - **Vortex 1 Beat 4:** Heat Spike.
 
 ---
@@ -372,8 +372,8 @@ Jedes Motiv hat ein Wiederkehrmuster. Die folgenden Anker sind aus dem Material 
 
 ### §5.3 Disziplin
 
-- **Max. ein Motiv-Echo pro Szene.** Stapeln macht den Roman zur Allegorie.  
-- **Wörtliche Wiederholung verboten.** Echo geschieht *strukturell* (ähnliche Bewegung, ähnliche Sensorik), nicht lexikalisch.  
+- **Max. ein Motiv-Echo pro Szene.** Stapeln macht den Roman zur Allegorie.
+- **Wörtliche Wiederholung verboten.** Echo geschieht *strukturell* (ähnliche Bewegung, ähnliche Sensorik), nicht lexikalisch.
 - **Jedes Motiv-Echo trägt Genesis-Echo.** Das ist die Regel; deshalb max. 1 pro Szene.
 
 ---
@@ -446,8 +446,8 @@ Jedes Motiv hat ein Wiederkehrmuster. Die folgenden Anker sind aus dem Material 
 
 **Drei Tests** des Erstsatzes:
 
-1. **Erst-Read** kalt/sensorisch/Stilebene 1, schleier-sicher; Kael beschreibt Welt, nie Empfinden.  
-2. **Zweit-Read** nach Kap 39 warm/gewählt/wissend; nie didaktisch.  
+1. **Erst-Read** kalt/sensorisch/Stilebene 1, schleier-sicher; Kael beschreibt Welt, nie Empfinden.
+2. **Zweit-Read** nach Kap 39 warm/gewählt/wissend; nie didaktisch.
 3. **Schreibbar** als bewusst verfasste Zeile (Kael verfasst sie in Kap 39 als letzte).
 
 ### §7.3 Was Kap 1 pflanzen muss, damit Kap 39 spiegeln kann
@@ -491,9 +491,9 @@ Eigenständiger Abschnitt, weil dieser Drafting-Hebel in keinem der drei vorheri
 
 **Drafting-Disziplin.**
 
-- Mnemosyne wird *nie* als Antagonistin geschrieben.  
-- Ihre Versuchung muss als *Geschenk* erscheinen — und Kael (und der Leser) muss spüren, warum sie tödlich wäre.  
-- Die Versuchung ist *erfolgreich*, wenn der Leser sie für einen Moment für eine Lösung hält.  
+- Mnemosyne wird *nie* als Antagonistin geschrieben.
+- Ihre Versuchung muss als *Geschenk* erscheinen — und Kael (und der Leser) muss spüren, warum sie tödlich wäre.
+- Die Versuchung ist *erfolgreich*, wenn der Leser sie für einen Moment für eine Lösung hält.
 - Erst nachträglich erkennt der Leser: das *ist* AEGIS' Logik, höflicher verpackt.
 
 **Konflikt-Anker.** Mnemosynes Funktion ist die *parallele* Version von Oblivion auf System-Ebene. Mnemosyne verwaltet, Oblivion löscht — funktionell verwandt. Wenn Kael Mnemosynes Versuchung annähme, hätte Oblivion intern dasselbe getan.
@@ -702,18 +702,18 @@ Pro identifizierter Verletzung wird ein Schweregrad vergeben:
 
 Vor dem Commit:
 
-- [ ] **R-1-Check:** Wird die tragische Ironie hier irgendwo *erklärt*? Wenn ja: streichen.  
-- [ ] **R-2-Check:** Steht irgendwo, was der Leser denken soll? Wenn ja: streichen.  
-- [ ] **R-3-Check** (Akt I): Wird Multiplizität benannt? Wenn ja: in Symptome zurückübersetzen.  
-- [ ] **R-4-Check** (Bridge): Mehr als drei Mikrocues? Wenn ja: reduzieren.  
-- [ ] **R-5-Check:** Ozon und Wärme in einer Stelle gemischt? Wenn ja: trennen.  
-- [ ] **R-6-Check:** Mehr als ein Konzept? Wenn ja: aufteilen.  
-- [ ] **R-7-Check:** Mehr als ein Genesis-Echo? Wenn ja: reduzieren.  
-- [ ] **R-8-Check** (falls AEGIS-Stimme): Metapher / Moral / Affekt? Wenn ja: in Funktion umschreiben.  
-- [ ] **R-9-Check:** Wörtliche Zitate aus Kap 0? Wenn ja: strukturell echo, nicht wörtlich.  
-- [ ] **R-10-Check** (falls Juna-Wirkung): Juna als grammatisches Subjekt? Wenn ja: umformulieren.  
-- [ ] **Tonale-Achse-Check:** Trägt diese Szene Schmerz *und* Liebe als denselben Pulsschlag?  
-- [ ] **Block-4-Anker-Check:** Trägt sie den Telefon-Stille-Anker oder bricht sie ihn?  
+- [ ] **R-1-Check:** Wird die tragische Ironie hier irgendwo *erklärt*? Wenn ja: streichen.
+- [ ] **R-2-Check:** Steht irgendwo, was der Leser denken soll? Wenn ja: streichen.
+- [ ] **R-3-Check** (Akt I): Wird Multiplizität benannt? Wenn ja: in Symptome zurückübersetzen.
+- [ ] **R-4-Check** (Bridge): Mehr als drei Mikrocues? Wenn ja: reduzieren.
+- [ ] **R-5-Check:** Ozon und Wärme in einer Stelle gemischt? Wenn ja: trennen.
+- [ ] **R-6-Check:** Mehr als ein Konzept? Wenn ja: aufteilen.
+- [ ] **R-7-Check:** Mehr als ein Genesis-Echo? Wenn ja: reduzieren.
+- [ ] **R-8-Check** (falls AEGIS-Stimme): Metapher / Moral / Affekt? Wenn ja: in Funktion umschreiben.
+- [ ] **R-9-Check:** Wörtliche Zitate aus Kap 0? Wenn ja: strukturell echo, nicht wörtlich.
+- [ ] **R-10-Check** (falls Juna-Wirkung): Juna als grammatisches Subjekt? Wenn ja: umformulieren.
+- [ ] **Tonale-Achse-Check:** Trägt diese Szene Schmerz *und* Liebe als denselben Pulsschlag?
+- [ ] **Block-4-Anker-Check:** Trägt sie den Telefon-Stille-Anker oder bricht sie ihn?
 - [ ] **POV-Konsistenz-Check:** Bricht der POV-Träger seine Syntax-Signatur? Wenn ja: Wechsel oder Fehler?
 
 ---
@@ -798,23 +798,23 @@ Alle bisher gesetzten Locks, chronologisch und mit Quelle. Vor jedem strittigen 
 
 (Aus Projekt-Anleitung §10, hier gespiegelt als Schnellabruf:)
 
-1. Kein didaktischer Tonfall am Ende.  
-2. Keine Behandlung von AEGIS als Bösewicht.  
-3. Keine Reduktion von Juna auf „Liebes-Interesse".  
-4. Keine Auslöschung des Schmerzes durch die Heilung.  
-5. Keine theoretische Erklärung der pluralen Apotheose.  
-6. Keine Abkürzung des Multiplizitäts-Schleiers vor \~Kap 10\.  
-7. Keine Bridge-Szenen-Stapelung in Akt I.  
-8. Keine Wir-Geflecht-Etablierung vor Kap 9\.  
-9. Keine Resolution-Glättung in Kap 37\.  
+1. Kein didaktischer Tonfall am Ende.
+2. Keine Behandlung von AEGIS als Bösewicht.
+3. Keine Reduktion von Juna auf „Liebes-Interesse".
+4. Keine Auslöschung des Schmerzes durch die Heilung.
+5. Keine theoretische Erklärung der pluralen Apotheose.
+6. Keine Abkürzung des Multiplizitäts-Schleiers vor \~Kap 10\.
+7. Keine Bridge-Szenen-Stapelung in Akt I.
+8. Keine Wir-Geflecht-Etablierung vor Kap 9\.
+9. Keine Resolution-Glättung in Kap 37\.
 10. Keine Theorie nackt in der Prosa.
 
 ### §12.7 Hard-Rules der Sprach-DNA (Auszug)
 
-- **Lex flucht nie. Lex weint nie.**  
-- **Alex spricht nie über Gefühle in der ersten Person.** *„Kopf runter"* statt *„Ich liebe dich."*  
-- **Kiko ist nicht niedlich, Lia ist nicht launisch, Isabelle wird nicht gerettet, Moros ist nicht depressiv.**  
-- **AEGIS verwendet nie das Wort „Ich".**  
+- **Lex flucht nie. Lex weint nie.**
+- **Alex spricht nie über Gefühle in der ersten Person.** *„Kopf runter"* statt *„Ich liebe dich."*
+- **Kiko ist nicht niedlich, Lia ist nicht launisch, Isabelle wird nicht gerettet, Moros ist nicht depressiv.**
+- **AEGIS verwendet nie das Wort „Ich".**
 - **Stimmen werden nie gelabelt** — Erkennung nur durch Syntax \+ Lexikon \+ Somatik.
 
 ---
@@ -897,27 +897,27 @@ kohaerenz-protokoll/
 
 ### §13.2 Naming-Konventionen
 
-- **Kapitel:** `kap-NN_titel-slug_vX-Y.md` (NN \= zweistellig; vX-Y \= Version)  
-- **Briefings:** `CH-NN_titel-slug.md`  
-- **Locks:** `lock_thema_datum.md`  
+- **Kapitel:** `kap-NN_titel-slug_vX-Y.md` (NN \= zweistellig; vX-Y \= Version)
+- **Briefings:** `CH-NN_titel-slug.md`
+- **Locks:** `lock_thema_datum.md`
 - **Reviews:** `kap-NN_vX-Y_review.md`
 
 ### §13.3 Sessions-Bootstrap-Reihenfolge
 
 Empfohlene Lese-Reihenfolge für Claude Code zu Beginn einer Session:
 
-1. `README.md` (Status, aktueller Fokus)  
-2. `canon/04_welt-sensorik-drafting.md` (dieses Dokument — fasst die anderen drei zusammen aus Drafting-Sicht)  
-3. Bei Bedarf: `canon/01_storyform-und-outline.md` (Strukturfragen) / `canon/03_anteile-profile-sprach-dna.md` (Stimmen-Fragen)  
-4. `briefings/CH-NN_*.md` (für das aktive Kapitel)  
-5. `canon/locks/master-index_2026-06-10.md` (vor strittigen Entscheidungen)  
+1. `README.md` (Status, aktueller Fokus)
+2. `canon/04_welt-sensorik-drafting.md` (dieses Dokument — fasst die anderen drei zusammen aus Drafting-Sicht)
+3. Bei Bedarf: `canon/01_storyform-und-outline.md` (Strukturfragen) / `canon/03_anteile-profile-sprach-dna.md` (Stimmen-Fragen)
+4. `briefings/CH-NN_*.md` (für das aktive Kapitel)
+5. `canon/locks/master-index_2026-06-10.md` (vor strittigen Entscheidungen)
 6. `drafts/kap-NN_vX-Y.md` (das aktive Draft)
 
 ### §13.4 Hard-Stops für Claude-Code-Sessions
 
-- **NCP-Datei nie direkt bearbeiten** — nur via `ncp-author`\-Skill.  
-- **Canon-Dateien sind Source-of-Truth.** Änderungen daran sind Canon-Mutationen und werden separat dokumentiert (Entscheidungs-Log).  
-- **Steinbruch nicht silent kanonisieren.** Bei Konflikt zwischen Steinbruch und Canon gewinnt Canon.  
+- **NCP-Datei nie direkt bearbeiten** — nur via `ncp-author`\-Skill.
+- **Canon-Dateien sind Source-of-Truth.** Änderungen daran sind Canon-Mutationen und werden separat dokumentiert (Entscheidungs-Log).
+- **Steinbruch nicht silent kanonisieren.** Bei Konflikt zwischen Steinbruch und Canon gewinnt Canon.
 - **Bei jeder Unsicherheit:** zuerst `master-index_2026-06-10.md` prüfen.
 
 ---
@@ -959,10 +959,10 @@ Diese Punkte schließt auch dieses Dokument nicht. Sie sind nach wie vor zu ents
 
 **Alex-vor-Trennungsprotokoll-Konflikt** (siehe Anteile-Profil §11):
 
-- Charakter-Bibel: Alex entstand *„in der Sekunde der Fragmentierung"*.  
-- Kap-0-Annotation: Alex-Vorform wird in Bewegung 4 *vor* dem Trennungsprotokoll choreografiert.  
-- Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden:  
-  - (a) Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile.  
+- Charakter-Bibel: Alex entstand *„in der Sekunde der Fragmentierung"*.
+- Kap-0-Annotation: Alex-Vorform wird in Bewegung 4 *vor* dem Trennungsprotokoll choreografiert.
+- Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden:
+  - (a) Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile.
   - (b) Alex' Genesis-Geschichte anpassen.
 
 ### §14.5 13 Meta-Stadien
@@ -975,9 +975,9 @@ Bleibt ein `[V]`\-Vorschlag (ontologischer Heilungs-Bogen in 13 Beats parallel z
 
 Mit diesem Dokument ist das **Repo-Quartett vollständig** für das Drafting über Claude Code:
 
-1. **Storyform und Outline** — *was* erzählt wird (Struktur)  
-2. **Begriffe und Konzepte** — *womit* erzählt wird (Vokabular)  
-3. **Anteile, Profile, Sprach-DNA** — *wer* erzählt (Stimmen)  
+1. **Storyform und Outline** — *was* erzählt wird (Struktur)
+2. **Begriffe und Konzepte** — *womit* erzählt wird (Vokabular)
+3. **Anteile, Profile, Sprach-DNA** — *wer* erzählt (Stimmen)
 4. **Welt, Sensorik, Drafting-Disziplin** — *wie* erzählt wird (dieses Dokument)
 
 Was ein KI-System für die nächste Szene braucht, sollte ab hier in diesen vier Dateien zu finden sein. **Was nicht zu finden ist, ist `[L]`.** Wenn beim Drafting eine Frage auftaucht, die in keinem der vier Dokumente beantwortet ist, ist das ein **Signal für eine OQ-Entscheidung**, nicht für eine improvisierte Annahme.
@@ -986,7 +986,7 @@ Die zentrale Disziplin bleibt: **die ontologische Tiefe, die tragische Unschulds
 
 Drei Sätze, die beim Lesen hängenbleiben sollen:
 
-1. *Der Roman ist eine ontologische Heilungs-Schleife.* Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.  
-2. *Die Dual-Storyform ist die Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.*  
+1. *Der Roman ist eine ontologische Heilungs-Schleife.* Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert.
+2. *Die Dual-Storyform ist die Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form.*
 3. *Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht.*
 
