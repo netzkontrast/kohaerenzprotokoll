@@ -4,14 +4,15 @@
 
 ## 1. Pflichtlektüre vor dem Schreiben (vollständig lesen, nicht überfliegen)
 
-1. `Plan\drafting\akt1-plan_2026-09-11.md` — der Szenenplan (für dein Kapitel UND die Nachbarkapitel, damit Anschlüsse stimmen).
-2. `Plan\drafting\decision-log_2026-09-11.md` — Draft-Entscheidungen D-01 ff.
-3. `chapters\01-erwachen-in-der-konstrukt-stadt.md` — **Stimm-Referenz für Kael** (Neufassung). Zusätzlich `Plan\drafting\sources\CH-01_Erwachen-Zyklus_Draft-v0_5.md` (Autorfassung v0.5) als zweite Stimm-Referenz.
-4. `chapters\05-auge-des-sturms.md` — Stimm-Referenz für AEGIS/Log-Format und Fakten, auf die Kap 2–4 zulaufen und aus denen Kap 6 ff. folgen.
-5. `Canon\kohaerenz-protokoll_storyform-und-outline_2026-06-10.md` — §0 (Querschnitt-Kanon, Hard-Constraints) und §5 (dein Kapitel). **Normativ bei Konflikt.**
-6. `Canon\kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md` — Sprach-DNA jeder Stimme, die in deinem Kapitel einbricht; §7–§8, §12.
-7. `Canon\kohaerenz-protokoll_welt-sensorik-drafting_2026-06-10.md` — §1.1 (KW1), §2 (Sensorik, Hitze-Polarität), §3.3, §5.3, §10 (R-1 bis R-10 + Self-Review-Checkliste).
-8. `Plan\drafting\sources\KP_Plot-Konkretisierung_13-Ideen_F1-Faden_2026-06-10.md` — Teil III (F1-Faden, §0 Vokabular, §5 Kapitel-Beats).
+1. `Plan\drafting\chapter-enrichment-masterplan_2026-09-11.md` — verbindliches Vorbereitungs- und Informationsmodell; Kapitelzeile sowie Vor- und Nachkapitel lesen.
+2. `Plan\drafting\akt1-plan_2026-09-11.md` bzw. der passende Akt-Arc — der Szenenplan (für dein Kapitel UND die Nachbarkapitel, damit Anschlüsse stimmen).
+3. `Plan\drafting\decision-log_2026-09-11.md` und für Akt II/III `decision-log_akt2-3_2026-09-11.md` — Draft-Entscheidungen.
+4. `chapters\01-erwachen-in-der-konstrukt-stadt.md` — **Stimm-Referenz für Kael** (Neufassung). Zusätzlich `Plan\drafting\sources\CH-01_Erwachen-Zyklus_Draft-v0_5.md` (Autorfassung v0.5) als zweite Stimm-Referenz.
+5. `chapters\05-auge-des-sturms.md` — Stimm-Referenz für den kalten Ordnungsblick und Log-Format; wegen der in `written-chapters-audit_2026-09-11.md` markierten Reveal-/Teil-I-Konflikte nicht ungeprüft als Canon übernehmen.
+6. `Canon\kohaerenz-protokoll_storyform-und-outline_2026-06-10.md` — §0 (Querschnitt-Kanon, Hard-Constraints) und §5 (dein Kapitel). **Normativ bei Konflikt.**
+7. `Canon\kohaerenz-protokoll_anteile-profile-sprach-dna_2026-06-10.md` — Sprach-DNA jeder Stimme, die in deinem Kapitel einbricht; §7–§8, §12.
+8. `Canon\kohaerenz-protokoll_welt-sensorik-drafting_2026-06-10.md` — Weltanker, Sensorik, Hitze-Polarität, Drafting-Regeln und Self-Review.
+9. `Plan\drafting\sources\KP_Plot-Konkretisierung_13-Ideen_F1-Faden_2026-06-10.md` — Plot-Fäden und Kapitel-Beats.
 
 ## 2. Stimme Kael (Akt I)
 
@@ -54,3 +55,5 @@ Zielwert steht im Plan pro Kapitel (±15 %). Nicht auffüllen; lieber eine Szene
 ## 6. Nach dem Schreiben
 
 Self-Review-Checkliste (Welt-Sensorik §10.3) für jede Szene durchgehen und korrigieren. Wörter zählen (nur Prosa). Keine anderen Dateien ändern, nicht committen. Im Abschlussbericht: Wortzahl je Kapitel; jede Stelle, an der du vom Plan abgewichen bist oder etwas neu entscheiden musstest (als Vorschlag für das Entscheidungs-Log); jeder Konflikt zwischen Plan und Canon, den du bemerkt hast.
+
+Zusätzlich muss der Draft gegen den **Chapter Readiness Gate** des Masterplans geprüft werden: Hook-in eingelöst, Kapitelversprechen verändert, genau ein sensorischer Weltanker pro Beat, Informationsfreigabe eingehalten, körperlicher Preis sichtbar, Nebenfigur mit eigener Handlung, Konsequenz in das Nachkapitel exportiert und Hook-out konkret gesetzt. Ein Kapitel ohne ausgefülltes Enrichment Packet ist nicht draftbereit.
