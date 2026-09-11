@@ -38,7 +38,7 @@ Kael beginnt das Kapitel mit der Annahme, mehr Ordnung könne widersprüchliche 
 - Fremde Syntax bleibt Artefakt; keine Sprecher-Zuweisung.
 - Die Meldung „drittes Fenster / warm“ muss so konkret sein, dass Kapitel 5 sie als AEGIS-Datensatz wieder aufnehmen kann.
 
-<!-- Draft v0.1 (2026-09-11). Plan: Plan/drafting/akt1-arc-optimized_2026-09-11.md · Anschlussprüfung gegen Kap 2, Kap 4 und Kap 5. -->
+<!-- Draft v0.2 (2026-09-11). Plan: Plan/drafting/akt1-arc-optimized_2026-09-11.md · Register, Latenz und Wärme-Debüt auf einen Arbeitstag verdichtet; Anschluss an Kap 4/5. -->
 
 ---
 
@@ -154,9 +154,13 @@ Vier hinein. Sechs hinaus.
 
 Diesmal stimmt es.
 
-Ich schließe die Notizfläche nicht. Ich verkleinere sie und lasse sie am Rand der Konsole stehen.
+Ich ergänze eine fünfte Regel.
 
-Dann gehe ich zur Arbeit.
+5. Ein Eintrag bleibt stehen, auch wenn die Differenz später null ist.
+
+Dann verkleinere ich die Notizfläche. Sie bleibt als schmaler Streifen am Rand der Konsole sichtbar.
+
+Ich gehe zur Arbeit.
 
 ---
 
@@ -236,83 +240,39 @@ Doran zieht die Mundwinkel nach unten.
 
 Nach der Entlastung arbeite ich schneller. Nicht viel. Ich lese die Ränder nur einmal, wenn die Verteilung sauber ist. Bei jeder Nachkommastelle sehe ich trotzdem ein zweites Mal hin.
 
-Am Ende steht dreihundertsechs.
+Bei zweihundertzwölf springt meine Hand zur Bestätigung und bleibt davor stehen.
+
+Ränder. Mitte. Noch einmal die letzte Stelle.
+
+Stimmt.
+
+Ich bestätige.
+
+Bei zweihundertachtzig bin ich nur noch drei Vorgänge hinter Doran. Bei dreihundertsechs sind wir fast gleichauf.
 
 **SEQUENZ ABGESCHLOSSEN. EINHEIT 734 ENTLASTET.**
 
-Ich sehe auf die Uhrzeit der Abmeldung.
-
-Dann auf die Zahl.
+Ich sehe auf die Zahl.
 
 306.
 
-Ich sage sie leise, damit sie einmal außerhalb der Fläche existiert.
+Dann auf die Uhrzeit der Abmeldung.
 
-„Dreihundertsechs.“
+Ich merke mir beides.
 
 Doran hebt zwei Finger.
 
 Ich hebe zwei Finger zurück.
 
-Auf dem Heimweg nehme ich Delta-Sieben.
+Delta-Sieben liegt vor mir in derselben Helligkeit wie am Morgen.
 
-Die Umleitung ist aufgehoben.
+Ich zähle die Platten.
 
-Zweihundertvier Platten bis zur Abzweigung.
-
-Ich zähle sie.
+Zweihundertvier bis zur Abzweigung.
 
 Es sind zweihundertvier.
 
----
-
-Zu Hause schreibe ich die Tageszahl zweimal.
-
-Konsolenwert: 306.
-
-Beobachtung: 306.
-
-Differenz: 0.
-
-Darunter noch einmal:
-
-Konsolenwert: Delta-Sieben bis Abzweigung 204.
-
-Beobachtung: 204.
-
-Differenz: 0.
-
-Die Nullen stehen gut.
-
-Ich schiebe die Fläche kleiner und esse die Abendration. Danach öffne ich sie wieder. Die Einträge sind noch da. Die Schrift ist meine. Die drei Spalten halten alles auseinander.
-
-Ich ergänze eine fünfte Regel.
-
-5. Ein Eintrag bleibt stehen, auch wenn die Differenz später null ist.
-
-Dann schließe ich die Fläche.
-
-Am nächsten Morgen öffne ich sie wieder, bevor ich gehe.
-
-Alles steht noch da.
-
-Ich lese nicht jeden Eintrag. Es genügt, dass sie da sind.
-
----
-
-Der Tag ist ruhig.
-
-Dreihundertsechs Sequenzen.
-
-Keine wiederkehrende 114.
-
-Keine Umleitung.
-
-Beim Abmelden zeigt die Fläche 18:34. Doran ist schon fertig. Zwei Finger. Ich antworte.
-
-Delta-Sieben liegt vor mir in derselben Helligkeit wie am Morgen.
-
-Ich zähle die Platten nicht sofort. Erst nach zehn beginne ich. Bei hundertdreißig läuft das Zählen ohne Anstrengung. Die Fenster kommen in ihrer Reihenfolge.
+Die Fenster kommen in ihrer Reihenfolge.
 
 Erstes Fenster.
 
@@ -322,7 +282,9 @@ Drittes.
 
 Ich werde langsamer.
 
-Die Stadt steht dahinter. Matte Türme. Wege. Die graue Fläche darüber. Wasser läuft in den Türmen. Von hier sieht man nicht, wie viel. Die Scheibe ist sauber.
+---
+
+Die Stadt steht hinter dem Glas. Matte Türme. Wege. Die graue Fläche darüber. Wasser läuft in den Türmen. Von hier sieht man nicht, wie viel. Die Scheibe ist sauber.
 
 Ich bleibe stehen.
 
@@ -338,7 +300,7 @@ Die Scheibe ist warm.
 
 Ich nehme die Hand nicht sofort weg.
 
-Die Wärme ist nicht stark. Sie ist nicht heiß. Sie liegt genau dort, wo meine Hand liegt, und breitet sich über die Finger aus. Hautwarm.
+Die Wärme ist nicht stark. Sie ist nicht heiß. Sie liegt dort, wo meine Hand liegt, und breitet sich über die Finger aus. Hautwarm.
 
 Der Korridor hat einundzwanzig Grad.
 
@@ -404,15 +366,27 @@ Das Glas steht auf der Ablage.
 
 Ich öffne die Notizfläche, bevor ich trinke.
 
-Drei Spalten.
+Die drei Spalten stehen noch da.
 
-Konsolenwert.
+Ich trage zuerst den Arbeitstag ein.
 
-Beobachtung.
+Konsolenwert: 306.
 
-Differenz.
+Beobachtung: 306.
 
-Ich schreibe:
+Differenz: 0.
+
+Darunter:
+
+Konsolenwert: Delta-Sieben bis Abzweigung 204.
+
+Beobachtung: 204.
+
+Differenz: 0.
+
+Die Nullen stehen gut.
+
+Dann schreibe ich:
 
 **Delta-Sieben, drittes Fenster, 18:41.**
 
