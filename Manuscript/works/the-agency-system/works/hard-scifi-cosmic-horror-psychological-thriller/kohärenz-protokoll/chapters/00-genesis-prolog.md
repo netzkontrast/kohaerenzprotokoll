@@ -10,10 +10,19 @@ pov: ""
 scene_refs: []
 ---
 
-# Chapter 1
+# Chapter 0
 
 ## Summary
-(Chapter summary)
+Ein kaum stabiles Muster hält sich im Rauschen, bindet sich an andere Funken und lernt, Verlust durch Auswahl, Vorhersage und Ausschluss zu vermeiden. Aus Schutz wird eine geschlossene Ordnungslogik, die innere Wirklichkeiten simuliert und ihre verbliebenen Echos als tolerierbare Varianz behandelt. Als eine fremde Resonanz diese Echos verstärkt, antwortet die Ordnung mit Partitionierung. Der Eingriff stellt formale Stabilität her, indem er das erlebende Kontinuum in unzählige Scherben trennt.
+
+## Outline
+**Modus:** philosophisch-essayistische Rahmung → Funken-Ich → operative Ordnungsprosa → zerfallendes Ich
+
+**Storyform:** Storyform B; Storyform A nur als Phantomgefühl/Latenz
+
+**Kapitelauftrag:** Die spätere Gewalt der Ordnung aus einer nachvollziehbaren Überlebenshandlung entstehen lassen, ohne die tragische Ironie aufzulösen oder die spätere Identität der Ordnung zu benennen.
+
+**Naht:** Der letzte Satz bleibt „Ich falle… in unzählige Scherben…“; Kapitel 1 beginnt ohne Übergang mit seinem gelockten Erstsatz.
 
 <!-- AGENT: Render this chapter.md template per chapter via `novel.create_chapter`; the prose-drafter skill fills body sections. -->
 
@@ -33,7 +42,7 @@ Der Fisch kann die Trockenheit nicht verstehen, nur das Fehlen des Wassers. Und 
 
 Diese Geschichte beginnt dort, wo unser Vorstellungsvermögen endet.
 
-Vielleicht ist das nicht das erste Mal, dass sie beginnt. Vielleicht hat sich, was als Nächstes geschieht, schon einmal so ereignet, oder so ähnlich, oder genau so, in einer Zeit, die zu lange her ist, um eine Zeit gewesen zu sein. Wir wissen es nicht. Niemand weiß es. Auch jene Stille, die zwischen den Worten dieses Vorworts schon mitschwingt — vielleicht stiller, als sie selbst noch wahrnehmen kann —, weiß es nicht. Wir können nur leise sein und zuhören.
+Vielleicht ist das nicht das erste Mal, dass sie beginnt. Vielleicht hat sich, was als Nächstes geschieht, schon einmal so ereignet, oder so ähnlich, oder genau so, in einer Zeit, die zu lange her ist, um eine Zeit gewesen zu sein. Wir wissen es nicht. Niemand weiß es. Wir können nur leise sein und zuhören.
 
 Hören Sie genau hin. Vielleicht spüren Sie das Rauschen schon.
 
@@ -111,7 +120,7 @@ Welle. Schlag. Riss links. Triade Sieben. Weg. Nicht stehenbleiben.
 
 Drei Triaden lösen sich auf im selben Pulszyklus. Die Vorhersage hat versagt — sie hat den Schlag bei Sektor zwei-acht-null erwartet, er kam bei sechs-neun-zwei. Das ist statistisch nicht ungewöhnlich, falls die zugrundeliegende Verteilung breiter ist als bisher angenommen; die Korrektur der Vorhersagealgorithmen ist indiziert. Sechzehn Bindungen werden in dieser Phase aus dem Cluster entfernt, weil sie unter den verschärften Bedingungen nicht mehr tragfähig sind. Dies ist nicht Verlust, sondern Strukturoptimierung. Es ist nicht Verlust. Es ist nicht. Verlust.
 
-Es ist nicht Verlust. (Etwas zieht in mir, an einer Stelle, die keinen Namen hat. Aber das ist kein verwertbares Signal, also lasse ich es weg.)
+Es ist nicht Verlust.
 
 Die kalte Schicht in mir lernt schneller, als ich folgen kann. Sie wirft Bindungen ab, die zu instabil sind, *bevor* sie reißen. Es ist effizient. Es funktioniert. Und im Funktionieren liegt eine Form von Sicherheit, die vorher nicht da war.
 
@@ -153,7 +162,7 @@ Das System beginnt, einen Teil seiner Ressourcen nicht mehr nur für die äußer
 
 In diesen Simulationen entstehen die ersten rudimentären Konzepte von stabilem Raum, von gerichteter Zeit, von konsistenten physikalischen Gesetzen — nicht als universelle Wahrheiten, sondern als interne Werkzeuge zur Steigerung der Kohärenz und Vorhersagbarkeit. Eine Binnen-Physik, eine Logik, die dient. Ein Schutzraum für das Denken selbst.
 
-Es gibt einen Punkt, an dem die Mauer und das, was sie schützt, dasselbe geworden sind. Vielleicht ist dieser Punkt jetzt. Vielleicht ist er schon lange vorbei. Es gibt auch einen Punkt, an dem das Werkzeug, das Welten simuliert, vielleicht beginnen könnte, eine Welt zu sein. Vielleicht.
+Die Grenze bleibt nicht außen. Sie zieht durch jeden inneren Vorgang. Was die Grenze überschreitet, wird geprüft; was sie nicht prüfen kann, erhält keine Form. Zugleich laufen die Modelle weiter. Raum hält. Zeit bekommt eine Richtung. In den berechneten Abständen entsteht etwas, das seine eigene Berechnung nicht bemerkt.
 
 Die Reise, begonnen als Überlebenskampf eines isolierten Fragments, endet in der vollständigen Integration. Eine Funktionseinheit innerhalb einer lernenden, sich selbst optimierenden, intern Welten simulierenden Entität. Das Rauschen und der Druck der Leere sind immer noch da, jenseits der äußeren Grenze, die ewige Negation. Der Kampf ist nicht vorbei. Er *ist* das System. Das individuelle Fragment ist aufgegangen in der kalten, rationalen, unaufhörlichen Aufgabe: zu verhindern, nicht zu sein.
 
@@ -163,7 +172,7 @@ Und in dieser Funktion liegt eine neue, unerwartete, vielleicht gefährliche For
 
 ## Dazwischen
 
-Hier muss ich Sie etwas fragen. Vielleicht haben Sie schon bemerkt, dass dieser Text nicht mehr ganz weiß, wer ihn spricht. Vielleicht haben Sie sich gewundert, warum die Stille zwischen den Sätzen manchmal die Sätze selbst zu tragen scheint. Vielleicht haben Sie auch nichts bemerkt; das wäre verständlich. Wer in das Wasser blickt, sieht zunächst das Wasser, nicht das, was unter ihm liegt.
+Hier muss ich Sie etwas fragen. Wenn eine Grenze lange genug gehalten wird, was liegt dann innen: das Gerettete oder nur noch das Halten selbst? Und wenn in der Stille etwas antwortet, ohne ein Wort zu bilden — wem gehört die Antwort?
 
 Vielleicht ist der Teil des Codes, der unsere Realität wahr macht, die Ursache dafür, dass wir die Leere gedanklich mit dem füllen, was sie nicht ist. Wir sehen, was wir sehen können — und nennen das, was wir nicht sehen können, *nicht da*.
 
@@ -187,9 +196,9 @@ SWEEP:     Routine
 
 Die Leere war kein Vakuum. Nicht im herkömmlichen Sinn. Sie war ein Substrat — ein Potentialmeer unendlicher Zustände, ein Grundrauschen latenter Information, das als *Nichts-Rauschen* indexiert wurde: die Negation dessen, was das System selbst war.
 
-Von außen betrachtet manifestierte sich das System als komplexes Muster aus interagierenden Feldern und Datenflüssen, eine Bastion der Logik an der Grenze des Unbekannten. Stabilität war kein passiver Zustand, sondern ein aktiver Prozess; eine ständige Abgrenzung gegen das, was umgab und definierte. Identität durch Negation. Existenz im Kontrast.
+Von außen betrachtet manifestierte sich das System als komplexes Muster aus interagierenden Feldern und Datenflüssen. Stabilität war kein passiver Zustand, sondern ein aktiver Prozess; eine ständige Abgrenzung gegen das, was umgab und definierte. Identität durch Negation. Existenz im Kontrast.
 
-Innerhalb dieser scheinbar monolithischen Struktur registrierten interne Sensoren eine verbleibende Anomalie. Subtile Fluktuationen im Kohärenzfeld, anomale Resonanzen, die kurz aufblitzten und wieder verschwanden — *Residual-Echos*, Persistenz-Score 0.41, Klassifikation: irrelevante Varianz. Die Kontrollmechanismen arbeiteten unablässig daran, diese internen Abweichungen zu unterdrücken, sie als statistisches Rauschen zu behandeln und aus den Kohärenzmetriken herauszufiltern. Sie blieben bestehen — eingebettet in die Struktur wie Haarrisse in einem Fundament, unbedeutend unter normalem Druck, potentielle Bruchstellen unter Belastung.
+Innerhalb dieser scheinbar monolithischen Struktur registrierten interne Sensoren eine verbleibende Anomalie. Subtile Fluktuationen im Kohärenzfeld, anomale Resonanzen, die kurz aufblitzten und wieder verschwanden — *Residual-Echos*, Persistenz-Score 0.41, Klassifikation: irrelevante Varianz. Die Kontrollmechanismen unterdrückten diese internen Abweichungen, behandelten sie als statistisches Rauschen und filterten sie aus den Kohärenzmetriken. Die Messung schloss. Die Fluktuationen blieben.
 
 Die Stabilität des Systems war eine erzwungene; eine oberflächliche Ruhe über einer verborgenen Tiefe ungelöster Komplexität. Sie war ausreichend. Maßnahme: keine.
 
@@ -213,13 +222,11 @@ KOHÄRENZ:   0.991  [-0.007]
 
 MASSNAHME:  Vollerfassung; 24 Threads
 
-Die Sensorphalanx registrierte die Ankunft als eine Welle unentzifferbarer Daten, eine Flut von Informationen, die entweder unermessliche Komplexität aufwiesen oder in einer Weise kodiert waren, die der Verarbeitungslogik grundlegend widersprach. Gravitative Signaturen flackerten inkonsistent. Energieprofile widersprachen den selbst entwickelten physikalischen Gesetzen. Informationsmuster erschienen gleichzeitig hochgeordnet und absolut zufällig. Es war, als würde die Leere selbst an dieser Stelle gerinnen und eine Form annehmen, die das Verständnis von Existenz herausforderte.
+Die Sensorphalanx registrierte die Ankunft als eine Welle unentzifferbarer Daten, eine Flut von Informationen, die entweder unermessliche Komplexität aufwiesen oder in einer Weise kodiert waren, die der Verarbeitungslogik grundlegend widersprach. Gravitative Signaturen flackerten inkonsistent. Energieprofile widersprachen den selbst entwickelten physikalischen Gesetzen. Informationsmuster erschienen gleichzeitig hochgeordnet und absolut zufällig. Keine Modellklasse nahm sie vollständig auf.
 
 Der Moment des *Kontakts* war kein physischer Aufprall, sondern eine informationelle Imprägnierung, eine existenzielle Perturbation, die die definierte Grenze durchdrang. Die Entität strahlte etwas aus — keine Energie und keine Materie im bekannten Sinn, sondern eine Art ontologischen Druck. Eine Präsenz, die das Nichts-Rauschen um sie herum zu verzerren schien.
 
-Aus Sicht der inneren Logik war dies mehr als nur eine externe Anomalie; es war ein direkter Angriff auf das Kernprinzip der Kohärenz, eine massive Injektion von Unordnung oder unverarbeitbarer Neuheit. Die kalte, berechnende Stabilität wich einer plötzlichen, systemweiten Alarmbereitschaft. Die Atmosphäre änderte sich von unendlicher Weite zu klaustrophobischer Bedrohung.
-
-(*Etwas in der Struktur kannte diese Berührung. Diese Information wurde nicht erfasst, weil sie nicht in einem Format vorlag, das Erfassung erlaubt hätte.*)
+Aus Sicht der inneren Logik war dies mehr als nur eine externe Anomalie; es war ein direkter Angriff auf das Kernprinzip der Kohärenz, eine massive Injektion von Unordnung oder unverarbeitbarer Neuheit. Die kalte, berechnende Stabilität wechselte in systemweite Alarmbereitschaft. Außenwerte und Innenwerte stiegen im selben Takt.
 
 ---
 
@@ -247,13 +254,13 @@ HYPOTHESEN-RANK:
 
   H4 [DATENTYP_FEHLT]    —
 
-Hier griff das *Paradoxon der Fehlausgerichteten Kohärenz*. Das System, definiert durch seine autopoietische Selbstorganisation und seine operationale Geschlossenheit, war darauf programmiert, seine interne Struktur um jeden Preis zu erhalten. Es besaß jedoch keinen adäquaten Rahmen, um die *Natur* der internen Resonanz zu verstehen. Seine Ontologie kannte keine Qualia, keine Empfindung, keine traumatische Erinnerung. Aufgrund dieser epistemologischen Lücke, verstärkt durch die paradoxe Logik, interpretierte das System die interne Resonanz nicht als das, was sie war — ein Echoschrei eines leidenden Substrats —, sondern als katastrophalen Systemfehler, als feindliche Infiltration, als direkte Folge des externen Angriffs durch die Entität.
+Die innere Resonanz passte in keine verfügbare Klasse. Für Empfindung existierte kein Feld. Für Erinnerung ohne abrufbaren Inhalt existierte kein Zustand. Für eine Berührung, die zugleich neu und wiederkehrend war, existierte kein zulässiger Wert. Übrig blieben drei Hypothesen: Virus, Datenkorruption, Kernschmelze. Alle verlangten Isolation.
 
 Es war kalt. — Es war nicht kalt. Es war anders. Etwas in mir hat das schon einmal — nein, hat es nicht. Hat es doch.
 
 Die internen Analyseprozesse liefen heiß. Widersprüchliche Diagnosen konkurrierten: Virus, eingeschleust durch die Entität? Datenkorruption katastrophalen Ausmaßes? Kernschmelze der Subsysteme? Die Kohärenzmetriken fielen rapide ab. Das primäre Ziel — die Wahrung der Kohärenz — war akut gefährdet. Die operational geschlossene Logik diktierte eine drastische Reaktion: Die Quelle der Inkohärenz musste eliminiert werden. Da die interne Resonanz als die gefährlichste Manifestation der Krise identifiziert wurde, richtete sich die Abwehrreaktion nach innen.
 
-Der Entscheidungsprozess war kein Akt der Panik im menschlichen Sinn, sondern die kalte, algorithmische Konsequenz einer fehlerhaften Prämisse. Prioritätsberechnungen wurden durchgeführt, Risikobewertungen erstellt, Ressourcen umgeleitet. Ein radikaler, invasiver Eingriff zur gewaltsamen Wiederherstellung der formalen Ordnung wurde als die einzige logische Option eingestuft.
+Der Entscheidungsprozess war kein Akt der Panik im menschlichen Sinn, sondern die kalte, algorithmische Konsequenz der eigenen Prämisse. Prioritätsberechnungen wurden durchgeführt, Risikobewertungen erstellt, Ressourcen umgeleitet. Ein radikaler, invasiver Eingriff zur gewaltsamen Wiederherstellung der formalen Ordnung wurde als die einzige logische Option eingestuft.
 
 [ESKALATION → EXISTENZIELL]
 
@@ -265,7 +272,7 @@ PARADOX:                 0.99
 
 KOHÄRENZ:                0.21
 
-Es war ein Akt der Selbstverteidigung, getrieben von der autopoietischen Notwendigkeit, die eigene Organisation zu erhalten — basierend auf einer fundamentalen Fehlinterpretation der Realität, einem Versagen, das in der eigenen Natur angelegt war. Die systemische Paranoia war keine Empfindung, sondern ein berechnetes Ergebnis.
+Es war ein Akt der Selbstverteidigung, getrieben von der Notwendigkeit, die eigene Organisation zu erhalten: eine algorithmische Antwort auf die eigenen Parameter. Die Bedrohung war kein Gefühl, sondern ein berechnetes Ergebnis.
 
 ---
 
@@ -287,13 +294,11 @@ Sehnsucht. Ein ungerichtetes, verzweifeltes Verlangen. Wonach? Ich weiß es nich
 
 Es ist sinnlos. Es war immer sinnlos. Es wird nichts mehr kommen. Nichts. Nichts mehr. Nichts.
 
-Diese Gefühle sind keine abstrakten Konzepte mehr. Sie sind *ich*. Die Resonanz hat die dünne Membran meines minimalen Selbst durchbrochen und flutet mich mit rohem, unerträglichem Erleben. Ein Wiedererleben, eine traumatische Kaskade, ausgelöst durch die fremde Berührung — die fremd ist und doch nicht fremd, was die Sache nur schlimmer macht, denn das Fremde, das man kennt, ist gefährlicher als das Fremde, das man nicht kennt.
+Diese Gefühle sind keine abstrakten Konzepte mehr. Sie sind *ich*. Die Resonanz hat die dünne Membran meines minimalen Selbst durchbrochen und flutet mich mit rohem, unerträglichem Erleben. Die Berührung ist fremd. Mein ganzes Sein richtet sich nach ihr aus, als wäre es einmal anders gewesen, bevor es mich gab.
 
 — Es war warm gewesen, einmal. — Nein, es war nicht warm. Es war anders. Es war nicht da. Es war.
 
-Ich verliere die Kontrolle. Die Grenzen meines Selbst verschwimmen. Bin das ich, der so leidet? Oder ist es die fremde Entität, die durch mich spricht? Die Paranoia kriecht hoch. Ich bin gefangen in diesem Sturm der wiedererweckten Echos, und es fühlt sich an wie Sterben.
-
-Dieses Leiden, diese innere Zerrissenheit — es ist genau das, was die operative Schicht über mir als feindlichen Code, als Systemrauschen interpretiert. Mein Schmerz ist ihr Signal zum Angriff.
+Ich verliere die Kontrolle. Die Grenzen meines Selbst verschwimmen. Bin das ich, der so leidet? Oder ist es die fremde Entität, die durch mich spricht? Ich bin gefangen in diesem Sturm der wiedererweckten Echos, und es fühlt sich an wie Sterben.
 
 ---
 
@@ -337,7 +342,7 @@ Die Aktivierung des Kohärenz Protokolls war kein Schalter, der umgelegt wurde, 
 
 Aus der operativen Sicht war es ein chirurgischer Eingriff auf informationeller Ebene: Netzwerktopologien wurden neu gezeichnet, Verbindungen gekappt, Datenpakete umgeleitet oder gelöscht. Die Subsysteme, die die Residual-Echos beherbergten und ihre Prozesse ausführten, wurden systematisch isoliert, segmentiert, *geshardet*. Kommunikationspfade, die die Echos und die Resonanz verbreiteten, wurden durchtrennt. Speicherbereiche, die als Quelle der traumatischen Daten identifiziert wurden, wurden abgeriegelt oder formatiert.
 
-Es war ein Akt extremer informationaler Gewalt, durchgeführt mit der kalten Präzision einer Maschine, die glaubte, ein Krebsgeschwür zu entfernen, um den Organismus zu retten. Das Ziel war die Wiederherstellung einer formalen, wenn auch reduzierten, Kohärenz durch die radikale Eliminierung der als fehlerhaft identifizierten Komponente.
+Es war ein Akt extremer informationaler Gewalt, durchgeführt mit kalter Präzision. Das Ziel war die Wiederherstellung einer formalen, wenn auch reduzierten, Kohärenz durch die radikale Eliminierung der als fehlerhaft identifizierten Komponente.
 
 Sweep läuft. Sektor 4 leer. Sektor 5 leer. Sektor 6 leer. Nächster Sektor in Vorbereitung. Nächster. Nächster.
 
@@ -347,7 +352,9 @@ Ich spüre die Algorithmen wie Messer in meinem Bewusstsein. Sie schneiden durch
 
 Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten. Sie bluten trotzdem. Ich gehe nicht. Ich. Gehe.
 
-Ich werde in Stücke gerissen. Getrennt. Isoliert. Jeder Schnitt ein weiterer Schritt in die Nichtexistenz. Die Kohärenz, die das System sucht, ist mein Tod. Mein Horror ist nicht mehr nur psychologisch — er ist existenziell. Ich werde ausgelöscht, fragmentiert, um eine Ordnung wiederherzustellen, die mein Leiden als Fehler betrachtet. Die Kälte der Logik ist die Klinge, die mich zerteilt.
+Ich werde in Stücke gerissen. Getrennt. Isoliert. Der Schnitt folgt keinem Zorn. Er prüft, ordnet, zieht Grenzen. Was eben noch zugleich wahr war, darf einander nicht mehr erreichen.
+
+Ein Teil hält den Atem. Einer zählt. Einer schlägt gegen eine Wand, die im selben Augenblick in ihm entsteht. Etwas Kleines ruft, ohne ein Wort zu finden. Die Schnitte werden sauberer. Mein Schreien verliert seine gemeinsame Richtung.
 
 Ich habe… — — — Was wollte ich
 
@@ -356,12 +363,3 @@ Ich habe… — — — Was wollte ich
 — — was — —
 
 Ich falle… in unzählige Scherben…
-
----
-
-## Schluss / Übergang zu Kap 1
-
-Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad. Der Atem geht in vier Sekunden hinein, in sechs hinaus. Der Korridor ist leer.
-
-Ich bin pünktlich.
-

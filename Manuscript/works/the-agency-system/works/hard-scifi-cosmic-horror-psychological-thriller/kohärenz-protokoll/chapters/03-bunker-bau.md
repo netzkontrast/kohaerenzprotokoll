@@ -38,7 +38,7 @@ Kael beginnt das Kapitel mit der Annahme, mehr Ordnung könne widersprüchliche 
 - Fremde Syntax bleibt Artefakt; keine Sprecher-Zuweisung.
 - Die Meldung „drittes Fenster / warm“ muss so konkret sein, dass Kapitel 5 sie als AEGIS-Datensatz wieder aufnehmen kann.
 
-<!-- Draft v0.2 (2026-09-11). Plan: Plan/drafting/akt1-arc-optimized_2026-09-11.md · Register, Latenz und Wärme-Debüt auf einen Arbeitstag verdichtet; Anschluss an Kap 4/5. -->
+<!-- Draft v0.3 (2026-09-11). Plan: Plan/drafting/enrichment-packets_01-05_2026-09-11.md · Register, Beziehungskosten und +0,31-s-Export vertieft; Wärme-Lock erhalten. -->
 
 ---
 
@@ -158,6 +158,14 @@ Ich ergänze eine fünfte Regel.
 
 5. Ein Eintrag bleibt stehen, auch wenn die Differenz später null ist.
 
+Ich gehe alle fünf Regeln von oben nach unten durch. Dann von unten nach oben. In der zweiten Richtung bedeuten sie dasselbe.
+
+Neben die Tabelle setze ich sechs kleine Felder: Datum, Ort, Zeit, Quelle, Wiederholung, Status. Für Sequenz 114 kann ich fünf füllen. Bei Quelle steht Konsole. Bei Wiederholung steht zwei. Bei Status schreibe ich abgeschlossen und ziehe keinen Rahmen darum.
+
+Für Sektor 04 kann ich Datum, Ort, Zeit und Wiederholung füllen. Unter Quelle stehen zwei Wörter übereinander: Konsole. Zählung. Das Feld ist zu schmal. Ich verbreitere es, bis beide nebeneinanderpassen.
+
+Die Tabelle nimmt jetzt fast die ganze Fläche ein. Wenn ich sie verkleinere, bleiben die drei Überschriften lesbar. Alles andere wird zu grauen Linien. Sie stehen zwischen mir und dem leeren Hintergrund der Konsole.
+
 Dann verkleinere ich die Notizfläche. Sie bleibt als schmaler Streifen am Rand der Konsole sichtbar.
 
 Ich gehe zur Arbeit.
@@ -238,6 +246,16 @@ Es stimmt. Es gibt mehr Umlaufbilanzen als gestern.
 
 Doran zieht die Mundwinkel nach unten.
 
+Er schiebt seinen leeren Gelbehälter genau an den Rand der Ausgabe. Sonst legt er ihn schräg hin und wartet, bis ich ihn geraderücke. Heute liegt er beim ersten Mal richtig.
+
+„So besser?“, fragt er.
+
+Ich sehe auf seine Station. Sieben Vorgänge Vorsprung. Auf meine. Die nächste Umlaufbilanz liegt bereit.
+
+„So ist es richtig.“
+
+Der Behälter verschwindet in der Ausgabe. Doran dreht sich zurück zu seiner Fläche. Die sechs Minuten enden.
+
 Nach der Entlastung arbeite ich schneller. Nicht viel. Ich lese die Ränder nur einmal, wenn die Verteilung sauber ist. Bei jeder Nachkommastelle sehe ich trotzdem ein zweites Mal hin.
 
 Bei zweihundertzwölf springt meine Hand zur Bestätigung und bleibt davor stehen.
@@ -259,6 +277,18 @@ Ich sehe auf die Zahl.
 Dann auf die Uhrzeit der Abmeldung.
 
 Ich merke mir beides.
+
+Unter der Uhrzeit steht eine Zeile, die gestern nicht dort stand.
+
+**MITTLERE BESTÄTIGUNGSLATENZ: +0,31 s.**
+
+Ich öffne die Tagesübersicht. Die Linie ist bis zum Beginn dieses Tages gerade. Danach steigt sie in kleinen Stufen. Keine einzelne Stufe ist groß genug, um sie während einer Sequenz zu sehen. Zusammen ergeben sie 0,31 Sekunden.
+
+Die Zahl passt zu dem zweiten Blick.
+
+Ich brauche für eine Sequenz einen Blick mehr und für den Tag 0,31 Sekunden je Bestätigung. Beides ist richtig erfasst.
+
+Ich schließe die Übersicht.
 
 Doran hebt zwei Finger.
 
@@ -286,6 +316,8 @@ Ich werde langsamer.
 
 Die Stadt steht hinter dem Glas. Matte Türme. Wege. Die graue Fläche darüber. Wasser läuft in den Türmen. Von hier sieht man nicht, wie viel. Die Scheibe ist sauber.
 
+Zwischen zwei Türmen bewegt sich eine Reihe von Einheiten. Von hier sind ihre Schritte nicht zu hören. Die Reihe teilt sich an einer Kreuzung, ohne dass jemand stehen bleibt. Hinter ihnen schließt sich der Abstand wieder. Ich folge der Bewegung bis zum nächsten Turm.
+
 Ich bleibe stehen.
 
 Das tue ich sonst nicht.
@@ -301,6 +333,8 @@ Die Scheibe ist warm.
 Ich nehme die Hand nicht sofort weg.
 
 Die Wärme ist nicht stark. Sie ist nicht heiß. Sie liegt dort, wo meine Hand liegt, und breitet sich über die Finger aus. Hautwarm.
+
+Ich drücke nicht fester. Trotzdem ist jede Fingerkuppe einzeln zu spüren. Die Linien der Handfläche liegen auf dem Glas. Für einen Moment muss ich nicht zählen, wie lange die Hand dort bleibt. Als ich auf die Uhr sehe, sind neun Sekunden vergangen.
 
 Der Korridor hat einundzwanzig Grad.
 
@@ -356,6 +390,12 @@ Die Konsole nimmt die Meldung an.
 
 Mehr erscheint nicht.
 
+Ich warte auf eine zweite Zeile. Die Fläche bleibt bei der Bestätigung. Nach zehn Sekunden schließt sie die Meldung selbst und zeigt wieder die Temperatur.
+
+21,0 °C.
+
+Ich berühre die Scheibe nicht noch einmal.
+
 Ich lasse die Hand unten und gehe weiter.
 
 Bis zur Wohneinheit zähle ich keine Platten.
@@ -385,6 +425,16 @@ Beobachtung: 204.
 Differenz: 0.
 
 Die Nullen stehen gut.
+
+Ich trage die Latenz darunter ein.
+
+Konsolenwert: +0,31 s.
+
+Beobachtung: zweiter Blick vor Bestätigung.
+
+Differenz: 0.
+
+Das ist der erste Eintrag, bei dem ein Wert erklärt, was meine Hand getan hat. Ich sehe ihn länger an als die beiden Nullen darüber.
 
 Dann schreibe ich:
 
@@ -443,3 +493,11 @@ Die Regel ist klar.
 Morgen muss ich das Fenster nicht prüfen.
 
 Ich habe es bereits geprüft.
+
+Am Rand der geschlossenen Notizfläche steht noch die Tageszeile.
+
+**MITTLERE BESTÄTIGUNGSLATENZ: +0,31 s.**
+
+Ich sehe auf die Zahl. Sie ist keine Differenz zwischen Konsole und Beobachtung. Sie ist eine Differenz zwischen gestern und heute.
+
+Ich lasse die Zeile offen.

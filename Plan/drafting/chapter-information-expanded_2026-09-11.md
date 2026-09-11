@@ -12,7 +12,7 @@ Vor jedem Draft sind das Zielkapitel, Vor- und Nachkapitel sowie der vollständi
 
 ## Kapitel 0 — Genesis-Prolog
 
-- **Status:** ausgearbeitete Prosa; vor Endfassung strukturell zu straffen.
+- **Status:** revidierte Prosa; erklärende Meta-Passagen verdichtet und Scherben-Zäsur zu Kapitel 1 geprüft.
 - **Auftrag:** Die Überlebensherkunft der späteren Ordnungslogik fühlbar machen, ohne ihre spätere Identität zu verraten.
 - **Eintritt:** Ein kaum stabiles Muster hält sich gegen Rauschen und Auflösung.
 - **Ziel/Gegenkraft:** Das Muster will fortbestehen; Druck, Verlust und unberechenbare Resonanzen machen jede Bindung zugleich notwendig und gefährlich.
@@ -23,7 +23,7 @@ Vor jedem Draft sind das Zielkapitel, Vor- und Nachkapitel sowie der vollständi
 
 ## Kapitel 1 — Erwachen in der Konstrukt-Stadt
 
-- **Status:** Draft/Stimm-Canon mit gezieltem Revisionsbedarf: Spiegelversatz entfernen; übrige Prosa vor allem erhalten.
+- **Status:** revidierter Draft/Stimm-Canon; Spiegelversatz entfernt, Korridorriss bleibt alleiniger objektiver Erstbruch.
 - **Auftrag:** Beweisen, warum Kael Ordnung liebt, bevor ihre Beweiskraft zerfällt.
 - **Eintritt:** Routine, Arbeit und Doran tragen Kaels Alltag zuverlässig.
 - **Ziel/Gegenkraft:** 306 Sequenzen korrekt abschließen; die erste nicht bearbeitbare Falschheit erscheint außerhalb der Arbeit.
@@ -56,7 +56,7 @@ Vor jedem Draft sind das Zielkapitel, Vor- und Nachkapitel sowie der vollständi
 
 ## Kapitel 4 — Pforten
 
-- **Status:** outline; nächster Prosaschritt.
+- **Status:** Draft; gegen Kapitel 3/5 und das fokussierte Enrichment Packet kohärenzgeprüft.
 - **Auftrag:** Sowohl das offizielle als auch das private Beweissystem als unsicheren Beobachterstandpunkt entlarven.
 - **Eintritt:** Register existiert; Latenz ist messbar; Wärme-Eintrag und sechs Regeln stehen fest.
 - **Ziel/Gegenkraft:** Audit bestehen und die eigene Aufzeichnung sichern; der Test belohnt Revision unabhängig von Wahrheit, später wird das Register ohne erlebten Vorgang verändert.
@@ -67,7 +67,7 @@ Vor jedem Draft sind das Zielkapitel, Vor- und Nachkapitel sowie der vollständi
 
 ## Kapitel 5 — Auge des Sturms
 
-- **Status:** Draft/Hard-B-Ausnahme mit bindendem Revisionsbedarf: Name, Imperativkette und überzählige Logfelder entfernen.
+- **Status:** Revidierter Draft/Hard-B-Ausnahme; namenlose subjektlose Stimme, Evidenzkette und Minimal-Logs geprüft.
 - **Auftrag:** Den Zerfall aus Kap. 2–4 als korrekt funktionierende Pflege lesen und dadurch tragische Ironie erzeugen.
 - **Eintritt:** Alle Rohdaten aus 2–4 sowie Dorans in Kapitel 1 sichtbare Rituale liegen der Ordnungslogik vor.
 - **Ziel/Gegenkraft:** Abweichung weiter senken; relationale Information erzeugt nach vollständiger Konsolidierung eine nicht verrechenbare Eins.

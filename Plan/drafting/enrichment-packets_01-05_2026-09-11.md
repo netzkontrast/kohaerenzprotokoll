@@ -118,7 +118,7 @@ Bindend:
 - Ordnung kennt die Daten, nicht notwendig den subjektiven Verlust.
 - Zurückhalten: Wer bereinigte, warum, wo die Einträge sind, was die Haarspange erinnert.
 
-**Gate:** Architektur draftbereit. D-24 schließt die Objektposition. Keine Wärme in Audit/Fundsache/Verlustsequenz, kein Wort „Amnesie“, keine Rückblende, keine Erklärung von Oblivion.
+**Gate:** gedraftet und anschlussgeprüft. D-24 schließt die Objektposition. Keine Wärme in Audit/Fundsache/Verlustsequenz, kein Wort „Amnesie“, keine Rückblende, keine Erklärung von Oblivion.
 
 ## 7. Kapitel 5 — Auge des Sturms
 
@@ -163,7 +163,7 @@ AUSNAHME: A-0001
 - **Pflicht:** drei verbotene Metriken aus allen Logs entfernen; Restwert/Ausnahme nur im Bilanzlog.
 - **Pflicht:** keine Behauptung ohne Quelle in der Evidenzmatrix; keine neue Systemarchitektur.
 - **Erhalten:** falscher Erfolg, Beförderung, Fakt/Rauschen-Logik, bereinigtes Intervall, Dorans Konsolidierung, nicht schließbare Eins, Lichtschluss.
-- **Status:** noch nicht canon-sauber; nach diesen vier Revisionen Hard-B-Anker.
+- **Status:** revidiert und canon-sauber; gültiger Hard-B-Anker.
 
 ## 8. Übergabe 5 → 6
 
@@ -196,8 +196,8 @@ Damit bleibt die Leser-Asymmetrie produktiv: Leser:innen kennen die Operation, K
 
 | Kapitel | Hook-in | Szene/Körper/Welt | Evidenz/Reveal | Hook-out | Status |
 |---|---|---|---|---|---|
-| 1 | erfüllt | erfüllt | Spiegel verletzt Erstbruch | erfüllt | Revision: 1 gezielter Eingriff |
+| 1 | erfüllt | erfüllt | erfüllt | erfüllt | revidiert, Erstbruch gelockt |
 | 2 | erfüllt | erfüllt | erfüllt | erfüllt | gedraftet, Daten gelockt |
 | 3 | erfüllt | erfüllt | erfüllt | erfüllt | gedraftet, Daten gelockt |
-| 4 | erfüllt | Packet vollständig | erfüllt | erfüllt | prose-draftbereit |
-| 5 | erfüllt | Stoff erfüllt, Stimme offen | Name/Logs verletzen Lock | erfüllt | Revision: Name, Stimme, Logs, Evidenz |
+| 4 | erfüllt | erfüllt | erfüllt | erfüllt | gedraftet, Daten gelockt |
+| 5 | erfüllt | erfüllt | erfüllt | erfüllt | revidiert, Hard-B gelockt |
