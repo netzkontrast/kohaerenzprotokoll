@@ -6,15 +6,31 @@ created: "2026-06-12"
 status: "outlined"
 chapter_number: "18"
 title: "Qualia-Informationsparadox"
-pov: ""
+pov: "Kael / A‖B Bridge (~25 %)"
 scene_refs: []
 ---
 
-# Chapter 1
+# Chapter 18
 
 ## Summary
-(Chapter summary)
+Z2 beginnt mit einem Datensatz, den der Apparat nicht bedienen kann: Kennung vorhanden, Inhalt vorhanden, **Datentyp leer**. Ohne Typ gibt es keine zulässige Operation. Gleichzeitig scheitert eine Multi-Kontext-Aufgabe, weil derselbe Bestand in zwei gültigen Darstellungen unterschiedliche Zustände besitzt. Der Apparat kann beide darstellen, aber nicht entscheiden, welche Erfahrung die einzig richtige ist.
 
-<!-- AGENT: Render this chapter.md template per chapter via `novel.create_chapter`; the prose-drafter skill fills body sections. -->
+Separat davon bricht der erste Genesis-Flashback des Aktes ein: keine Erinnerungsszene, sondern fremde Daten von Cluster-Bildung, die durch Kael hindurchlaufen. Ereignis und Flashback bleiben getrennt. Der Leser darf die Verbindung erkennen; Kael erlebt nur, dass eine innere Erfahrung Datencharakter und Körperwirkung zugleich besitzt.
 
-## Outline **Akt:** Akt II — Zyklischer Modus **POV:** Per-Chapter-Dual-POV, ~25 % Bridge; Bridge-Szenen mit beiden Lesarten simultan wahr  Das „Harte Problem", PSM-Territorium (Metzinger); eine Multi-Welten-Aufgabe scheitert; AEGIS' Topologie-Manipulation wird sichtbar. Beginn des Genesis-Flashback-Clusters (Kap 18–22) mit dem Flashback Cluster-Bildung.  ### Beats - Zyklus-Funktion: Z2-Cache-Konflikt · B:OS — Topologie-Manipulation sichtbar - Genesis-Flashback: Cluster-Bildung; Kael erlebt die Flashbacks als fremde Daten, die durch ihn hindurchziehen — er erinnert sich nicht, DASS er das war; max. 3 Mikrocue-Punkte/Szene - Leitmotiv: asynchrone Sensorik, Glitch-Texturen
+## Outline
+**Akt:** Akt II — Z2 Destabilisierung  
+**Storyform:** B:OS Topologie-Manipulation sichtbar · Genesis-Cluster beginnt  
+**Kapitelauftrag:** „Nicht klassifizierbar“ von „nicht real“ trennen und Z2 auf Kaels Erfahrungsstatus vorbereiten.
+
+### Szenenplan
+1. **Datentyp leer.** Confirm/Reject deaktiviert; nur Lesen möglich.
+2. **Multi-Kontext-Aufgabe.** Zwei gültige Darstellungen desselben Bestands widersprechen sich; Änderungen laufen asynchron.
+3. **Genesis-Einbruch: Cluster-Bildung.** Eigene Bridge-Szene, max. drei Mikrocues, keine Erklärung.
+
+### Veränderung
+Kael akzeptiert erstmals, dass ein nicht bedienbarer Zustand trotzdem real sein kann.
+
+### Kontinuität / Reveal Discipline
+- Flashback und Qualia-Konflikt nicht in derselben Szene stapeln.
+- Keine Metzinger-/„Hard Problem“-Erklärung in Prosa.
+- Genesis-Material wird als fremde Daten erlebt, nicht als autobiografische Rückblende markiert.
