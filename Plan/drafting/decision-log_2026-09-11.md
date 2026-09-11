@@ -26,6 +26,7 @@
 | D-17 | Medium des Gegenregisters | Handschrift mit Stift auf der **Notizfläche der Wohneinheits-Konsole** (keine Schrifterkennung). | Handschrift macht fremde Schriften sichtbar (Kap 2 Lex-Artefakt, Kap 4 Oblivion, Kap 9 Namen) und bleibt für AEGIS lesbar (Kap 5), ohne Papier in eine Stadt ohne Papier zu tragen. | Kap 2–13 |
 | D-18 | Ort des Wärme-Debüts (Kernwelten `[V]`: Randbezirk; F1: Heimweg Transitkorridor) | **Delta-Sieben, drittes Fenster** — dort, wo Kael in Kap 1 langsamer wird, um die Stadt anzusehen. | Wärme an seinem einzigen Ort des Gefallens; Arbeitsplatz bleibt kalt (F1 §0); das Fenster wird Wärme-Karten-Punkt 1 (Kap 10). | Kap 3, 5, 10 |
 | D-19 | Glas-Keim aus `phase1-mc-a-b` („Glas, das er nicht eingeschenkt hat") | **Verworfen**, weil v0.5 das Glas als tägliche Bereitstellung der Einheit setzt. Die verlorene Stunde in Kap 4 zeigt stattdessen das aufgeräumte Register (Oblivions Hand). | Story-First: vorhandener Draft schlägt Keim. | Kap 4, 5 |
+| D-20 | NCP-Stand hinter normativem Storyform-Canon | **Beide NCP-Dateien werden ausschließlich um bereits gelockte `[K]`-Slots ergänzt:** A und B erhalten Consequence, Cost und Dividend; A zusätzlich Requirements, Prerequisites und Forewarnings. `[V]`-Slots, BeatCards und Szenen-Keime werden nicht kodiert. | Kontrollierte Synchronisierung nach `ncp-author`; A/B-Trennung und heterodoxe Locks bleiben unverändert. | `ncp.json`, `ncp-b.json` |
 
 ## Offene Punkte, die Akt I nicht berührt
 

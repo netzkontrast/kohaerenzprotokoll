@@ -5,7 +5,8 @@
     "work_slug": "kohärenz-protokoll",
     "genre_slug": "hard-scifi-cosmic-horror-psychological-thriller",
     "created": "2026-06-12",
-    "note": "Storyform A (kanonisch für Engine-Gates). Duale Struktur: B endet, A übernimmt (Vortex 1). Canon-Labels je Signpost in 'annotation'."
+    "updated": "2026-09-11",
+    "note": "Storyform A (kanonisch für Engine-Gates). Duale Struktur: B endet, A übernimmt (Vortex 1). Canon-Labels je Signpost in 'annotation'. Gelockte Storyform-Slots gegen den normativen Canon vom 2026-06-10 synchronisiert."
   },
   "players": [],
   "scenes": [],
@@ -101,6 +102,26 @@
       "judgment": "good"
     },
     "goal": "Erinnerung wieder zugänglich machen (Pre-Trennungs-Wahrheit als bewusster Besitz)",
+    "consequence": "Ewige Fragmentierung; kein Wieder-Erkennen Junas (latent ab Kap 1, akut Akt II Z3 / ab Kap 28)",
+    "cost": "Verlust der Privatheit des Wir: Die innere Polyphonie wird zur kosmischen Bewahrungs-Funktion (manifest Kap 39)",
+    "dividend": "Liebe bleibt: Junas Verbindungs-Modus als Form des Bleibens (Schluss-Klang Kap 39; bezeugende Stimme Kap 40)",
+    "requirements": [
+      "Pursuit-Adoption (Kap 35)",
+      "Wir-Bildung (Kap 9, eskalierend)",
+      "Moonshine-Bewusstsein (Kap 10)",
+      "Mosaik-Akzeptanz (Kap 11)",
+      "Mosaik als Schöpfung (Kap 23)"
+    ],
+    "prerequisites": [
+      "Schleier-Lüftung intern (~Kap 8–10)",
+      "Genesis-Cluster-Andeutung (Kap 18–22)",
+      "K-J als bewusster Kanal (Kap 30)"
+    ],
+    "forewarnings": [
+      "Wachsende Erasure-Wellen (Akt II)",
+      "Spiegel-Alter-Auftritte (Akt III)",
+      "Junas zunehmende Stille"
+    ],
     "premise": "Liebe ist die ultimative kohärente Struktur; Trauma wird durch Integration funktionaler Multiplizität bewältigt, wenn der Träger den Avoidance-Modus loslässt und die eigene Erinnerung aktiv aufsucht."
   }
 }
