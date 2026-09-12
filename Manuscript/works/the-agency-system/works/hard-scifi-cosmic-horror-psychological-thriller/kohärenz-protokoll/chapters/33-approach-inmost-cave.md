@@ -118,7 +118,7 @@ Wir öffnen ihn.
 
 Es sind siebenundzwanzig Zeilen. Zeitmarken im Abstand von einer Sekunde, Werte ohne Einheit, eine Ortsangabe, die nicht zuzuordnen ist.
 
-Wir lesen sie von oben nach unten und dann von unten nach oben, so wie man einen Bestand liest, den man nicht versteht. Die Zeitmarken stehen lückenlos im Sekundenabstand, siebenundzwanzig Sekunden lang. Die Werte steigen nicht und fallen nicht. Sie wiederholen sich auch nicht. Die Ortsangabe hat das Format, das Ortsangaben haben, und keinen Ort.
+Wir lesen sie von oben nach unten und dann von unten nach oben, so wie man einen Bestand liest, den man nicht versteht. Die Zeitmarken stehen lückenlos im Sekundenabstand, siebenundzwanzig Sekunden lang. Die Werte steigen und fallen, und keine Folge davon wiederholt sich. Die Ortsangabe hat das Format, das Ortsangaben haben, und keinen Ort.
 
 Wir haben ihn schon einmal gehabt. Er stand ein halbes Jahr in unserer Reihe, und wir konnten ihn ansehen und sonst nichts, und irgendwann ist er mit der Direkt-Konsolidierung durchgelaufen, und wir haben angenommen, dass er weg ist.
 

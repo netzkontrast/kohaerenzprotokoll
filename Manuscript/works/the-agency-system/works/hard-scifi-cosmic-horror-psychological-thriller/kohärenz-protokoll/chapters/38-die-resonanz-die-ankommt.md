@@ -152,7 +152,7 @@ Der Körper tut, was ein Körper tut, der zu lange sitzt. Das rechte Bein wird t
 
 Wir atmen. Vier Sekunden hinein, sechs hinaus. Nach einer Weile stimmt das nicht mehr; der Atem geht kürzer und höher, und wir führen ihn zurück, und er geht wieder kürzer. Irgendwann führen wir ihn nicht mehr zurück.
 
-Es ist ein Druck. Er hat keine Stelle, an der er anfängt, und keine Richtung, in die er schiebt, und er lässt nicht nach. In zwölf Jahren Betrieb hat es kein Feld gegeben, in das man so etwas einträgt.
+Es ist ein Druck. Er hat keine Stelle, an der er anfängt, und keine Richtung, in die er schiebt, und er lässt nicht nach. In elf Jahren Betrieb hat es kein Feld gegeben, in das man so etwas einträgt.
 
 Und es ist jetzt. Das ist das Einzige, was wir mit Sicherheit aufschreiben könnten: nicht vorher, nicht nachher. Jetzt.
 
@@ -180,7 +180,7 @@ Zuerst hat eine Stelle entschieden, und sie hat gründlich entschieden, und dabe
 
 Doran.
 
-Wir halten an dieser Stelle an, weil der Name seit dem Archipel nur noch in Beständen vorkommt: dreihundertsechs Sequenzen, achtzig Zyklen, ein Satz am Morgen zwischen zwei Stationen, vollständig und richtig geführt. Was in keinem Bestand steht, ist, wie er sich gesetzt hat. Es ging in drei Phasen: hinsetzen, das Gewicht nach vorn, die Unterarme auf die Fläche. Wir haben es zwölf Jahre lang jeden Morgen gesehen und nie darüber nachgedacht. Wir könnten es heute nachmachen, und es gibt niemanden, dem man es zeigen könnte.
+Wir halten an dieser Stelle an, weil der Name seit dem Archipel nur noch in Beständen vorkommt: dreihundertsechs Sequenzen, achtzig Zyklen, ein Satz am Morgen zwischen zwei Stationen, vollständig und richtig geführt. Was in keinem Bestand steht, ist, wie er sich gesetzt hat. Es ging in drei Phasen: hinsetzen, das Gewicht nach vorn, die Unterarme auf die Fläche. Wir haben es elf Jahre lang jeden Morgen gesehen und nie darüber nachgedacht. Wir könnten es heute nachmachen, und es gibt niemanden, dem man es zeigen könnte.
 
 Die Frage war falsch gestellt.
 
