@@ -113,7 +113,7 @@ Es gibt Felder für Zuordnung, Auslastung, Zustand, Standort, Zuständigkeit und
 
 Die Hände liegen flach auf der Platte. Der Atem geht auf vier und auf sechs, und ich zähle ihn, bis er von allein geht.
 
-Bei Zeile einundsechzig hört der Teilbestand A auf.
+Bei Zeile achtzig hört der Teilbestand A auf.
 
 Darunter steht: *Fortsetzung in Teilbestand B.*
 
