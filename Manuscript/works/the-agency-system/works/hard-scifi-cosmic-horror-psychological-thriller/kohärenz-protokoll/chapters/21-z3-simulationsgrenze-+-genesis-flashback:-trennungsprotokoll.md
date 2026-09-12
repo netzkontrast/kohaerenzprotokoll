@@ -51,7 +51,7 @@ Ich habe am Dienstag bis halb zwei abgeschrieben. Die rechte Hand ist noch steif
 
 Ich lese sie zweimal, und beim zweiten Mal stelle ich das Glas ab.
 
-Der Knoten ist halb belegt. Das Licht kommt aus der Decke und aus den Flächen und wirft nichts; wenn man die Hand über die Ablage hält, liegt darunter kein Schatten, sondern eine Stelle, die etwas kühler aussieht. Die Luft ist umgewälzt und riecht nach dem Mittel, mit dem die Kanten gewischt werden. Das Summen liegt bei der Frequenz, bei der es immer liegt. Die Luft über der Fläche ist einen Strich kühler als im Gang.
+Der Knoten ist halb belegt. Das Licht kommt aus der Decke und aus den Flächen und wirft nichts; wenn man die Hand über die Ablage hält, liegt darunter kein Schatten, sondern eine Stelle, die etwas kühler aussieht. Die Luft ist umgewälzt und riecht nach dem Mittel, mit dem die Kanten gewischt werden. Das Summen liegt bei der Frequenz, bei der es immer liegt. An der Fläche ist es einen Strich kühler als im Gang.
 
 Das Glas hinterlässt einen Ring, und der Ring ist nach elf Sekunden weg. Ich habe das vorher nie mitgezählt. Die Schicht läuft von 08:00 bis 17:20 und ist seit elf Jahren gleich lang.
 
@@ -76,8 +76,6 @@ Ich öffne zum Vergleich den Bestand darüber in der Reihe. Sein Verlauf hat neu
 Ich lade den leeren noch einmal, weil ein leeres Feld auch ein Ladefehler sein kann. Er lädt gleich schnell wie der volle.
 
 Ich rufe die Historie über die zweite Ebene ab, die Referenzen, die Kostenzeile.
-
-Ich suche die Kennung außerdem in der allgemeinen Ebene. Die Eingrenzung ist vorausgewählt; ich nehme das Häkchen weg, und es ist zurück, bevor ich die Hand von der Fläche habe. Im Januar waren es zwei Sekunden.
 
 **KEIN EINTRAG. GEGENSTAND IST IN DER BESTANDSFÜHRUNG NICHT VERZEICHNET.**
 
