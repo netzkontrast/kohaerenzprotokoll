@@ -172,7 +172,7 @@ Irgendwann hört das Halten auf, und es hört nicht auf, weil wir es beschließe
 
 Wir sitzen in einem Raum, den etwas mit uns teilt, während draußen alles gleichzeitig um Bewahrung anträgt, und der Apparat liegt still, und die Hand liegt auf dem Oberschenkel.
 
-Und hier, in dieser Lage, ist etwas offensichtlich, das vierhundertzwölf Zyklen lang nicht offensichtlich war.
+Und hier, in dieser Lage, ist etwas offensichtlich, das mehr als vierhundert Zyklen lang nicht offensichtlich war.
 
 Wir haben die ganze Zeit gefragt, wie eine Stelle entscheiden kann, was bleibt.
 

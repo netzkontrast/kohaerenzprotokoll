@@ -72,11 +72,11 @@ Dann, nach einer Pause, die es vorher nicht gab:
 
 Wir fangen klein an.
 
-Der erste Vorgang ist der Umlauf in Sektor 12. Wir sehen ihn an, und es ist der Vorgang, den wir zwölf Jahre lang bearbeitet haben: Ein Wert weicht in der vierten Stelle ab, und man markiert ihn, und das System gleicht aus.
+Der erste Vorgang ist der Umlauf in Sektor 12. Wir sehen ihn an, und es ist der Vorgang, den wir elf Jahre lang bearbeitet haben: Ein Wert weicht in der vierten Stelle ab, und man markiert ihn, und das System gleicht aus.
 
 Wir markieren ihn nicht.
 
-Wir haben in zwölf Jahren nie mehr als achtunddreißig Zeichen in ein Klassifikationsfeld geschrieben. Dieses Feld nimmt vierhundert.
+Wir haben in elf Jahren nie mehr als achtunddreißig Zeichen in ein Klassifikationsfeld geschrieben. Dieses Feld nimmt vierhundert.
 
 Wir schreiben in das Feld, in dem sonst die Klassifikation steht:
 
@@ -96,7 +96,7 @@ Es funktioniert.
 
 Das ist die Wahrheit dieses Kapitels, und wir wollen sie so aufschreiben, wie sie ist, weil alles, was danach kommt, sonst nicht stimmt: Es funktioniert besser.
 
-In den ersten Wochen arbeiten wir an vierzig bis sechzig Vorgängen am Tag. Wir bestätigen keinen und verwerfen keinen. Wir beantworten sie.
+In den ersten Wochen arbeiten wir an fünfzehn bis zwanzig Vorgängen am Tag. Wir bestätigen keinen und verwerfen keinen. Wir beantworten sie.
 
 Ein Bestand mit zwei Werten bekommt beide, mit der Angabe, woher jeder kommt. Ein Bestand ohne Datentyp bekommt keinen Datentyp, sondern eine Zeile darüber, was in ihm steht und was man damit tun kann. Ein Nutzungsprotokoll bleibt ein Nutzungsprotokoll.
 
@@ -170,7 +170,7 @@ Wir gehen an ihnen vorbei und heben das Kinn, und sie heben das Kinn.
 
 Die Schlange wächst seit dem vierzigsten Tag.
 
-Wir haben es lange für eine Folge unserer Langsamkeit gehalten. Vierzig Minuten pro Vorgang, sechzig Vorgänge am Tag, und es kommen mehr herein, als wir schaffen — das ist eine Rechnung, und Rechnungen kann man ändern.
+Wir haben es lange für eine Folge unserer Langsamkeit gehalten. Vierzig Minuten pro Vorgang, zwanzig Vorgänge am Tag, und es kommen mehr herein, als wir schaffen — das ist eine Rechnung, und Rechnungen kann man ändern.
 
 Wir ändern sie. Wir fassen die Zeilen kürzer und kommen auf achtundzwanzig Minuten. Wir nehmen gleichartige Vorgänge in Blöcken und kommen auf einundzwanzig. Wir stehen zwei Stunden früher auf und hören zwei Stunden später auf.
 

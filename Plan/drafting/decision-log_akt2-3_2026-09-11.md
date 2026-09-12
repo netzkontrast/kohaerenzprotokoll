@@ -27,3 +27,25 @@
 - ~~D23-14: ob der einzelne Klick in der Coda überhaupt nötig ist.~~ **Autorentscheidung 2026-09-11: ja, genau einmal, ohne kaltes Ozon.** In Kap 40, Bewegung 2 am Ort des ersten Kontakts gesetzt, damit er die Bindung spiegelt und keine Schlusslesart beweist.
 
 Diese Punkte blockieren die Kapitelplanung nicht und sind deshalb als Draft-Entscheidungen explizit statt implizit gesetzt.
+
+---
+
+## Nachtrag 2026-09-12 — Befunde aus dem Anreicherungspass Kapitel 33–39
+
+> Diese Einträge entstanden bei der Anreicherung des Klimax-Blocks. D23-15 bis D23-17 sind
+> **Korrekturen an bestehender Prosa**, keine Anreicherung; sie betreffen Zahlen, die ein
+> zählender Erzähler nicht falsch tragen kann. D23-18 schließt eine Regellücke.
+
+| ID | Befund | Entscheidung | Betroffen |
+|---|---|---|---|
+| D23-15 | **Durchsatz-Arithmetik unmöglich.** „Vierzig Minuten pro Vorgang, sechzig Vorgänge am Tag“ ergibt 40 Stunden Arbeitstag; „vierzig bis sechzig Vorgänge“ ebenso. Die 40 Minuten sind in Kap 38 tragend (40 → 12 → 4). | Die Minutenzahl bleibt, die Vorgangszahl sinkt: erste Wochen **fünfzehn bis zwanzig**, Kipppunkt **zwanzig**. Damit 13,3-Stunden-Tag; nach der Verkürzung auf 21 Minuten und zwei Stunden früher ergeben sich ~43 Vorgänge — deckt „mehr Vorgänge als an jedem Tag davor“. | 37 |
+| D23-16 | **Dienstjahre uneinheitlich.** Kap 37 führte zweimal „zwölf Jahre“, während Kap 27, 29, 33, 34, 35, 36 durchgängig „elf Jahre“ sagen — bei wenigen Wochen Abstand. | Auf **elf Jahre** vereinheitlicht. Falls die Dienstzeit im Verlauf des Romans bewusst auf zwölf steigen soll, ist das eine Autorentscheidung und muss dann in allen Kapiteln des Blocks gleichzeitig geschehen. | 37 |
+| D23-17 | **Zyklenzahl eingefroren.** Kap 34, 36 **und** 38 nennen alle „vierhundertzwölf Zyklen“, obwohl zwischen 36 und 38 mindestens Kap 37 liegt (neun Tage → vierzigster Tag → Frühjahr → Sommer) plus vierzehn Tage in 38. | Kap 38 auf **„mehr als vierhundert Zyklen“** gesetzt — unter jeder Lesart wahr, konsistent mit Kap 39. `[OFFEN]` **Die exakte Zykluszahl für Kap 38/39 ist Autorentscheidung**; 412 bleibt korrekt für Kap 34/36. | 38, 39 |
+| D23-18 | **Silas-Wärme gegen R-5.** Der Drafting-Brief codiert Wärme als Juna-Signatur; der Polaritäts-Lock nennt Silas-Wärme als einzige diegetische Wärme außerhalb des Heat Spike. Drei Agenten stießen unabhängig auf den Konflikt. | **Genau ein** Wärmecue im Block, an Silas' stärkster Stelle (Kap 34, Satz-Probieren): die Fläche unter der Hand wird warm, während die Anzeige auf 21,0 steht. `hautwarm` bleibt für Juna reserviert und wird nicht verwendet. Sonst bleibt Silas syntaktisch. Gilt auch für Welle 2. | 33–36, Welle 2 |
+
+### Geprüft und **nicht** geändert
+
+- **„in Kapiteln von Zyklen“** ist kein metaleptischer Ausrutscher, sondern ein wiederkehrendes Idiom in Kap 12, 17, 28 und 37. Bleibt.
+- **Der Morgensatz wörtlich zitiert** (`Dreihundertsechs ist stabil.`) steht bereits in Kap 1, 3 und 6; es gibt keine Konvention gegen die Wiederkehr. Kap 34 darf ihn tragen. Zeichenzahl achtundzwanzig ist korrekt.
+- **`*Es bleibt.*` steht vor `Dann geht die Fläche aus.`** — nicht danach. Eine Umstellung würde das Ereignis verändern (Zeile auf einer Fläche, die danach ausgeht, gegen Zeile nach dem Ausgehen). Reihenfolge bleibt.
+- **Zwei spätere „Kohärenzmetriken“ in Kapitel 0** erzählen die Krise, statt eine Klassifikation zu schmücken, und leiten sich vom Titelbegriff ab, nicht vom DKT-Vokabular. Bleiben.

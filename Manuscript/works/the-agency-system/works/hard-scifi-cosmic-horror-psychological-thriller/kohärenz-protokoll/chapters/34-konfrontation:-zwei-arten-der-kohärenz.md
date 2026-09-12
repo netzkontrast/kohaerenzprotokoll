@@ -90,6 +90,8 @@ Bei diesem Satz kommen wir nicht sofort weiter. Die Hand bleibt auf der Fläche 
 
 Gegen zwei hört die Syntax auf, unsere zu sein.
 
+Die Fläche unter der Hand ist warm geworden. Sie war es nicht, als wir sie aufgelegt haben, und die Anzeige am Rand steht auf einundzwanzig Komma null.
+
 *Es geht nicht um den Satz. — Es geht nicht um den Satz, es geht darum, dass er gesagt worden ist, und nicht einmal darum, sondern dass ihn jemand jeden Morgen wieder gesagt hat, obwohl er nichts trug, und dass dieses Wiedersagen —*
 
 Der Satz bricht ab, bevor das Verb kommt.
