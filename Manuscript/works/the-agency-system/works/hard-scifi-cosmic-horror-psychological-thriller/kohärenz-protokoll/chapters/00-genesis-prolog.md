@@ -196,7 +196,7 @@ Die Leere war kein Vakuum. Nicht im herkömmlichen Sinn. Sie war ein Substrat �
 
 Von außen betrachtet manifestierte sich das System als komplexes Muster aus interagierenden Feldern und Datenflüssen. Stabilität war kein passiver Zustand, sondern ein aktiver Prozess; eine ständige Abgrenzung gegen das, was umgab und definierte. Identität durch Negation. Existenz im Kontrast.
 
-Innerhalb dieser scheinbar monolithischen Struktur registrierten interne Sensoren eine verbleibende Anomalie. Subtile Fluktuationen im Kohärenzfeld, anomale Resonanzen, die kurz aufblitzten und wieder verschwanden — *Residual-Echos*, Persistenz-Score 0.41, Klassifikation: irrelevante Varianz. Die Kontrollmechanismen unterdrückten diese internen Abweichungen, behandelten sie als statistisches Rauschen und filterten sie aus den Kohärenzmetriken. Die Messung schloss. Die Fluktuationen blieben.
+Innerhalb dieser scheinbar monolithischen Struktur registrierten interne Messungen eine verbleibende Abweichung. Subtile Schwankungen in der eigenen Ordnung, Resonanzen, die kurz aufblitzten und wieder verschwanden — *Residual-Echos*. Sie gehörten keiner Kategorie an. Klassifikation: irrelevante Varianz. Die Kontrollmechanismen unterdrückten diese internen Abweichungen, behandelten sie als statistisches Rauschen und nahmen sie aus der Bilanz. Die Messung schloss. Die Schwankungen blieben.
 
 Die Stabilität des Systems war eine erzwungene; eine oberflächliche Ruhe über einer verborgenen Tiefe ungelöster Komplexität. Sie war ausreichend. Maßnahme: keine.
 
