@@ -47,7 +47,8 @@ def build_lm(role: str) -> dspy.LM:
 def ensure_cache_dir() -> Path:
     """Point DSPy's disk cache at a repo-local, git-ignored directory."""
     cache_dir = Path(os.environ.get("DSPY_CACHEDIR", DEFAULT_CACHE_DIR))
-    cache_dir.mkdir(parents=True, exist_ok=True)
+    # The cache stores prompts and completions, i.e. source text: owner-only.
+    cache_dir.mkdir(parents=True, exist_ok=True, mode=0o700)
     os.environ.setdefault("DSPY_CACHEDIR", str(cache_dir))
     return cache_dir
 

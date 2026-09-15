@@ -15,6 +15,7 @@ Axes for ``ingest_metric``:
 from __future__ import annotations
 
 import dspy
+from pydantic import ValidationError
 
 from .schema import Claim
 
@@ -50,16 +51,28 @@ def grounded(claim: Claim, source_lines: list[str]) -> bool:
     return any(fragment in span for fragment in fragments)
 
 
-def looks_german(text: str) -> bool:
+def _marker_counts(text: str) -> tuple[int, int]:
     padded = f" {text.lower()} "
-    return sum(padded.count(m) for m in GERMAN_MARKERS) >= sum(padded.count(m) for m in ENGLISH_MARKERS)
+    return (sum(padded.count(m) for m in GERMAN_MARKERS),
+            sum(padded.count(m) for m in ENGLISH_MARKERS))
+
+
+def looks_german(text: str) -> bool:
+    """True only with at least one German marker and no English majority."""
+    german, english = _marker_counts(text)
+    return german > 0 and german >= english
+
+
+def language_unknown(text: str) -> bool:
+    """No marker of either language (names, numbers, formulas): never penalised."""
+    return _marker_counts(text) == (0, 0)
 
 
 def language_kept(claims: list[Claim], source_is_german: bool) -> float:
-    """Share of claims still in German when the source is German (1.0 if not applicable)."""
+    """Share of claims still German (or language-neutral) when the source is German."""
     if not source_is_german or not claims:
         return 1.0
-    return sum(looks_german(c.text) for c in claims) / len(claims)
+    return sum(looks_german(c.text) or language_unknown(c.text) for c in claims) / len(claims)
 
 
 def coverage(claims: list[Claim], gold_fragments: list[str]) -> float:
@@ -71,14 +84,29 @@ def coverage(claims: list[Claim], gold_fragments: list[str]) -> float:
     return hits / len(gold_fragments)
 
 
-def _axis_scores(gold: dspy.Example, claims: list[Claim]) -> dict[str, float]:
+def coerce_claims(raw: list) -> tuple[list[Claim], int]:
+    """Keep well-formed claims; count the malformed ones instead of raising."""
+    claims, malformed = [], 0
+    for item in raw:
+        if isinstance(item, Claim):
+            claims.append(item)
+            continue
+        try:
+            claims.append(Claim.model_validate(item))
+        except (ValidationError, TypeError, ValueError):
+            malformed += 1
+    return claims, malformed
+
+
+def _axis_scores(gold: dspy.Example, claims: list[Claim], malformed: int) -> dict[str, float]:
     source_lines = gold.body.splitlines()
     n = len(claims)
+    total = n + malformed
     valid = [c for c in claims if citation_ok(c, source_lines, gold.source_file)]
     return {
         "citation_validity": len(valid) / n if n else 0.0,
         "quote_grounding": sum(grounded(c, source_lines) for c in valid) / n if n else 0.0,
-        "schema_validity": 1.0 if all(isinstance(c, Claim) for c in claims) else 0.0,
+        "schema_validity": n / total if total else 0.0,
         "language_kept": language_kept(claims, looks_german(gold.body)),
         "coverage": coverage(claims, list(getattr(gold, "gold_fragments", []) or [])),
     }
@@ -88,6 +116,8 @@ def _feedback(scores: dict[str, float], n_claims: int) -> str:
     parts = []
     if n_claims == 0:
         parts.append("No claims were extracted; the source has citable statements.")
+    if scores["schema_validity"] < 1.0:
+        parts.append("Some claims did not fit the Claim schema (kind enum, citation fields); emit only well-formed claims.")
     if scores["citation_validity"] < 1.0:
         parts.append("Some citations point outside the numbered body or to another file; cite only 'NNN|' lines of this source.")
     if scores["quote_grounding"] < 1.0:
@@ -102,7 +132,7 @@ def _feedback(scores: dict[str, float], n_claims: int) -> str:
 def ingest_metric(gold: dspy.Example, pred: dspy.Prediction, trace=None,
                   pred_name=None, pred_trace=None) -> dspy.Prediction:
     """Rich-feedback metric for SourceIngest (GEPA-ready)."""
-    claims = list(getattr(pred, "claims", []) or [])
-    scores = _axis_scores(gold, claims)
+    claims, malformed = coerce_claims(list(getattr(pred, "claims", []) or []))
+    scores = _axis_scores(gold, claims, malformed)
     score = sum(WEIGHTS[k] * v for k, v in scores.items())
-    return dspy.Prediction(score=score, feedback=_feedback(scores, len(claims)))
+    return dspy.Prediction(score=score, feedback=_feedback(scores, len(claims) + malformed))

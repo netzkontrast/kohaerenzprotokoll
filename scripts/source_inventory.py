@@ -108,13 +108,23 @@ def make_record(entry: re.Match, section: str, category: str, tier: str) -> dict
 
 
 def disambiguate_slugs(records: list[dict]) -> None:
-    """Identical titles get a numeric suffix so export paths never collide."""
-    seen: dict[str, int] = {}
+    """Make slugs unique in index order; a suffix is only used if no record owns it.
+
+    Checked against the full set of base slugs too, so a title whose own slug
+    is ``foo-2`` never collides with the second ``foo``.
+    """
+    taken: set[str] = {rec["slug"] for rec in records}
+    assigned: set[str] = set()
     for rec in records:
         base = rec["slug"]
-        seen[base] = seen.get(base, 0) + 1
-        if seen[base] > 1:
-            rec["slug"] = f"{base}-{seen[base]}"
+        if base not in assigned:
+            assigned.add(base)
+            continue
+        n = 2
+        while f"{base}-{n}" in taken or f"{base}-{n}" in assigned:
+            n += 1
+        rec["slug"] = f"{base}-{n}"
+        assigned.add(rec["slug"])
 
 
 def render(records: list[dict]) -> str:

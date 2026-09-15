@@ -6,7 +6,7 @@ import pytest
 dspy = pytest.importorskip("dspy")
 
 from tools.kpwiki import lm, smoke  # noqa: E402
-from tools.kpwiki.metrics import ingest_metric  # noqa: E402
+from tools.kpwiki.metrics import ingest_metric, language_kept, looks_german  # noqa: E402
 from tools.kpwiki.programs import SourceIngest, number_lines  # noqa: E402
 from tools.kpwiki.schema import Citation, Claim  # noqa: E402
 
@@ -52,3 +52,28 @@ def test_metric_returns_prediction_not_dict():
 def test_dry_run_passes(capsys):
     assert smoke.main(["--dry-run"]) == 0
     assert "OK: kpwiki dry run passed" in capsys.readouterr().out
+
+
+def test_metric_scores_malformed_claims_instead_of_raising():
+    good = smoke.handmade_prediction().claims[0]
+    pred = dspy.Prediction(claims=[good, {"text": "kaputt"}, "not a claim"])
+    result = ingest_metric(smoke.fixture_example(), pred)
+    assert 0.0 < result.score < 1.0
+    assert "did not fit the Claim schema" in result.feedback
+
+
+def test_language_detection_needs_a_german_marker():
+    assert not looks_german("KW1 KW4 AEGIS")            # no markers: unknown, not German
+    assert not looks_german("Kael is the system")       # English majority
+    assert looks_german("Das System ist Kael")
+    neutral = Claim(text="KW1 → KW4", kind="world",
+                    citation=Citation(file=smoke.FIXTURE_FILE, start_line=3, end_line=3))
+    assert language_kept([neutral], source_is_german=True) == 1.0
+
+
+def test_slugs_never_collide_with_suffixed_titles():
+    from scripts.source_inventory import disambiguate_slugs
+    records = [{"slug": "foo"}, {"slug": "foo"}, {"slug": "foo-2"}, {"slug": "foo"}]
+    disambiguate_slugs(records)
+    slugs = [r["slug"] for r in records]
+    assert len(set(slugs)) == 4 and slugs[0] == "foo" and "foo-2" in slugs
