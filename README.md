@@ -18,8 +18,9 @@ Deutschsprachiges Romanprojekt im Genre **Hard SciFi / Cosmic Horror / Psycholog
 | [Plan/encoding](Plan/encoding/) | Planung zur Storyform-Kodierung |
 | [Plan/ingest](Plan/ingest/) | Extraktionen und Importprotokolle |
 | [Plan/sessions](Plan/sessions/) | Festgehaltene Erkenntnisse aus Arbeitssitzungen |
+| [Codex](Codex/) | Generierte Glossar-, Timeline- und Axiom-Ansichten aus dem Graphen |
 | [Plan/quality](Plan/quality/) | Berichte der Qualitäts-Gates, u. a. [lit-critic](Plan/quality/lit-critic/) |
-| [scripts](scripts/) | Werkzeuge für Canon-Import, Manuskript-Materialisierung und Qualitäts-Gates |
+| [scripts](scripts/) | Werkzeuge für Canon-Import, Manuskript-Materialisierung, Kapitel-Lint, Codex-Rendering, Recherche und Qualitäts-Gates |
 | [tools/lit-critic](tools/lit-critic/) | CANON.md und STYLE.md — die Regeln, gegen die lit-critic prüft |
 | [tests](tests/) | Tests der Repo-Werkzeuge (`pytest tests/`) |
 | [CLAUDE.md](CLAUDE.md) | Arbeitsvereinbarung und technische Referenz für den Agency-Workflow |
@@ -37,17 +38,27 @@ Vor Änderungen an Kapitelprosa den [Drafting-Brief](Plan/drafting/drafting-brie
 
 Bevor ein Kapitel den Status wechselt (`drafted` → `revised` → `final`), laufen der Reihe nach:
 
-1. `python3 scripts/check_enrichment.py` — eine Anreicherung darf Prosa nur einfügen, nie umschreiben.
-2. Readiness Gate, [Enrichment-Masterplan](Plan/drafting/chapter-enrichment-masterplan_2026-09-11.md) §F.
-3. `python3 scripts/lit_critic_gate.py --chapter N` — [lit-critic](https://github.com/lit-pack/lit-critic)
+1. `python3 scripts/lint_chapter.py` — entscheidbare harte Regeln (Akt-I-Sperren, Stimmen-Labels,
+   Hitze-Polarität, Frontmatter); läuft nach jedem Schreibzugriff auch als Hook.
+2. `python3 scripts/check_enrichment.py` — eine Anreicherung darf Prosa nur einfügen, nie umschreiben.
+3. Readiness Gate, [Enrichment-Masterplan](Plan/drafting/chapter-enrichment-masterplan_2026-09-11.md) §F.
+4. `python3 scripts/lit_critic_gate.py --chapter N` — [lit-critic](https://github.com/lit-pack/lit-critic)
    liest die Prosa durch sieben redaktionelle Linsen gegen [tools/lit-critic/CANON.md](tools/lit-critic/CANON.md)
    und [STYLE.md](tools/lit-critic/STYLE.md). Einmalig einrichten mit `scripts/setup_lit_critic.sh`;
    benötigt `ANTHROPIC_API_KEY`. Nur `critical`-Findings blockieren.
    Berichte: [Plan/quality/lit-critic/](Plan/quality/lit-critic/).
-4. Die Agency-Gate-Leiter (`line_gate`, `copy_gate`, …).
+5. Die Agency-Gate-Leiter (`line_gate`, `copy_gate`, …).
 
 Findings sind Vorschläge, keine Urteile — die Triage-Regeln stehen in der
 [lit-critic-Skill](.claude/skills/lit-critic/SKILL.md).
+
+## Codex-Werkzeuge (Worldbuilding Codex)
+
+Die Repo trägt die aus [alainator/worldcodex](https://github.com/alainator/worldcodex) übernommene und auf dieses Projekt angepasste Claude-Code-Suite (19 Skills, 5 Befehle, 3 Agenten, 6 Hooks). Details und Zuordnung: [docs/worldcodex-integration.md](docs/worldcodex-integration.md).
+
+- [Codex/](Codex/) — **generierte** Ansichten des Provenienz-Graphen: Glossar (602 Einträge), Master-Timeline, Welt-Axiome. Nicht von Hand bearbeiten; `python3 scripts/render_codex_views.py` rendert neu.
+- [WRITING.md](WRITING.md) — maschinenlesbare Stil-Tokens (Sperrlisten pro Akt, R-Regeln, Sprach-DNA-Regeln, gelockte Schreibweisen), abgeleitet aus Drafting-Brief und Canon.
+- Befehle `/ingest`, `/query`, `/lint-wiki`, `/full-audit-canon`, `/civilization-build` (Kernwelt-Ableitungskette) und die Agenten `@worldbuilder-editor`, `@worldbuilder-physicist`, `@worldbuilder-researcher`.
 
 ## Lizenz
 

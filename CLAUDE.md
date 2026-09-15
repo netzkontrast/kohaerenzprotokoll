@@ -451,3 +451,46 @@ Scene prompts should always carry (auto-assemble via §4 step 1):
 5. the sensory palette of the active world (codex `sensorik`/world entries).
 
 German prose out, English engineering in. On any canon ambiguity: AskUserQuestion (Rule 0).
+
+---
+
+# Worldbuilding-Codex layer (vendored from alainator/worldcodex, adapted)
+
+Full map and rationale: `docs/worldcodex-integration.md`. Prose tokens: `WRITING.md`.
+
+## What runs automatically (hooks in `.claude/settings.json`, all warn-only)
+
+- **SessionStart** — `bootstrap.md` (skill/command roster) + `CURRENT_TASK.md` restore +
+  stale-`Codex/` check. **PreCompact** — save session state to `.claude/CURRENT_TASK.md`.
+- **UserPromptSubmit** — skill routing (project skills win over codex skills).
+- **PreToolUse Write/Edit** — anti-deferral scan (EN + DE patterns; `[L]` is a legitimate gap).
+- **PostToolUse Write/Edit** — chapter files run `scripts/lint_chapter.py --hook`;
+  `Codex/`, `Canon/`, `ncp*.json` edits get discipline warnings.
+
+## Deterministic tools (run before declaring anything done)
+
+```bash
+python3 scripts/lint_chapter.py [chapter.md]      # R-rules + Act-I fences; exit 1 on VIOLATION
+python3 scripts/render_codex_views.py [--check]   # Codex/ GLOSSARY · MASTER-TIMELINE · WORLD-AXIOMS from graph
+python3 scripts/check_enrichment.py --base <rev>  # enrichment inserted, never altered
+python3 scripts/research-tool.py search "…"       # open-access papers → Plan/research/
+```
+
+## Commands and agents
+
+`/ingest` (source → manifest → graph → Codex) · `/query` (cited answer, filed to
+`Plan/queries/`) · `/lint-wiki` (contradictions, stale claims, orphans, ghosts) ·
+`/full-audit-canon physics|canon|continuity|storyform|full` · `/civilization-build`
+(Kernwelt derivation chain with hard checkpoints).
+Agents: `@worldbuilder-editor` (R-rules, Sprach-DNA), `@worldbuilder-physicist` (DKT),
+`@worldbuilder-researcher` (read-only). Their memory lives in `.claude/agent-memory/`.
+
+## Rules this layer adds
+
+- `Codex/*.md` are generated — never hand-edit; change the graph, re-render, commit both.
+- Every new term gets a codex entry (`kind` enum + `**Kategorie:**`), every dated fact a
+  StoryTimeEvent, every world rule a WorldAxiom — then re-render.
+- Deferral language is a defect: write it, or mark it `[L]` / D-xx with an owner and ask.
+- The upstream `.claude/**` write-deny was not adopted; skills and `PROJECT_REFERENCES.md`
+  are meant to be maintained by sessions. Only the three generated Codex views are denied.
+- Rule 0 still governs: on any canon, plot, wording or scope ambiguity, AskUserQuestion.

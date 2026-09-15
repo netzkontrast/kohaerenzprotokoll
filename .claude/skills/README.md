@@ -28,6 +28,18 @@ Start with [PROJECT_REFERENCES.md](./PROJECT_REFERENCES.md). It defines current 
 - Vortex 1 = Kap. 35/36; Vortex 2 = Kap. 38/39; Kap. 40 is an ambiguous coda.
 - Canon/NCP are not silently mutated by drafting work.
 
+## Vendored Worldbuilding-Codex skills (generic, project-annotated)
+
+From [alainator/worldcodex](https://github.com/alainator/worldcodex); each carries a "Kohärenz Protokoll adaptation" note after its frontmatter and reads `WRITING.md` + [PROJECT_REFERENCES.md](./PROJECT_REFERENCES.md). The project skills above win when both apply. Map and sync procedure: [docs/worldcodex-integration.md](../../docs/worldcodex-integration.md).
+
+- Audit: [auditing-canon](./auditing-canon/SKILL.md), [auditing-physics](./auditing-physics/SKILL.md), [cross-checking](./cross-checking/SKILL.md), [auditing-human-assumptions](./auditing-human-assumptions/SKILL.md)
+- Write: [writing-worldbuilding](./writing-worldbuilding/SKILL.md) (codex entries via verbs), [writing-science](./writing-science/SKILL.md) (DKT substrate), [writing-style](./writing-style/SKILL.md) (WRITING.md)
+- Design: [designing-worlds](./designing-worlds/SKILL.md), [designing-lore](./designing-lore/SKILL.md), [deriving-social-systems](./deriving-social-systems/SKILL.md)
+- Read/extract: [deep-reading](./deep-reading/SKILL.md), [extracting-entities](./extracting-entities/SKILL.md), [compiling-entities](./compiling-entities/SKILL.md)
+- Research: [researching-papers](./researching-papers/SKILL.md), [integrating-research](./integrating-research/SKILL.md)
+- Plan/verify: [interrogating-design](./interrogating-design/SKILL.md), [planning-worldbuilding](./planning-worldbuilding/SKILL.md), [verifying-completion](./verifying-completion/SKILL.md)
+- Reference: [canon-rules](./canon-rules/SKILL.md) (epistemology, metascience filters, adversarial protocols)
+
 ## Maintenance rule
 
 When work-level canon or planning changes materially, update **PROJECT_REFERENCES.md first**, then only the skills whose workflow assumptions changed. Do not fork a new static canon snapshot into the skill itself.

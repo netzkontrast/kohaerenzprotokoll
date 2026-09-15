@@ -32,5 +32,97 @@
         "repo": "obra/superpowers-marketplace"
       }
     }
+  },
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Bash(cat *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(grep *)",
+      "Bash(rg *)",
+      "Bash(find *)",
+      "Bash(wc *)",
+      "Bash(ls *)",
+      "Bash(git status*)",
+      "Bash(git log*)",
+      "Bash(git diff*)",
+      "Bash(git show*)",
+      "Bash(python3 scripts/lint_chapter.py*)",
+      "Bash(python3 scripts/render_codex_views.py*)",
+      "Bash(python3 scripts/check_enrichment.py*)",
+      "Bash(python3 scripts/research-tool.py search*)",
+      "Bash(python3 scripts/research-tool.py list*)"
+    ],
+    "deny": [
+      "Bash(rm -rf /*)",
+      "Write(Codex/GLOSSARY.md)",
+      "Write(Codex/MASTER-TIMELINE.md)",
+      "Write(Codex/WORLD-AXIOMS.md)",
+      "Edit(Codex/GLOSSARY.md)",
+      "Edit(Codex/MASTER-TIMELINE.md)",
+      "Edit(Codex/WORLD-AXIOMS.md)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat .claude/hooks/bootstrap.md"
+          },
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/post-compact-restore.sh"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat .claude/hooks/skill-eval.md"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/anti-deferral.sh"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/post-tool-use.sh"
+          }
+        ]
+      }
+    ],
+    "PreCompact": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat .claude/hooks/pre-compact.md"
+          }
+        ]
+      }
+    ]
   }
 }
