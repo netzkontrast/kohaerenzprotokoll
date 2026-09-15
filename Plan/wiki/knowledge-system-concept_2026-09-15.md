@@ -187,6 +187,21 @@ valid bindings, well-formed questions, language kept) must score ≥ 0.9. The
 same gate runs on vague task statements before decomposition
 (`dspy-rlm-workflow`) and on queries before `dspy-deep-refine` changes the base.
 
+**E1 — Assess (before a contested decision).** When a question has two
+camps, when a `/wiki-understand` merge would supersede or delete a concept
+page, when a promotion carries a `contradicts` edge, or when a storyform /
+axiom change is on the table, `TetraFrame` (`tools/kpwiki/tetraframe.py`,
+skill `dspy-tetraframe`, command `/tetraframe`) runs first: the seed is
+distilled to one predicate, four corners are generated in isolation (P,
+not-P, both under a typed split, neither with a replacement predicate),
+their contradictions and evidence discriminators are mapped, and a
+non-averaging P* is produced. The run passes only if the seven checks
+(branch independence 0.90, rigor of both/neither 0.78, contradiction honesty
+0.75, transformation quality 0.82, fake novelty 0.70, slop 0.70) hold. The
+run file under `Plan/decisions/tetraframe/` is what the D-xx cites; the
+question page lists the four corners as candidate answers. The run never
+decides — the author does (Rule 0).
+
 **E — Decide.** Three outcomes per question: *answered from Canon* (cite it,
 close), *parked* (status `parked`, revisit date), *escalated* (a D-xx entry in
 the decision log; if Canon changes, the author edits Canon, `/ingest` seeds the
@@ -222,6 +237,7 @@ worldcodex conventions already in the repo:
 | `/wiki-understand` | Phase C over promoted-but-unmerged sources; updates concepts, concept-table, overview as candidates | overwrites a `reviewed` concept page |
 | `/interrogate-canon <concept|category|all>` | Phase D; questions as drafts; dry-run list first | answers its own questions; writes to Canon |
 | `/clarify <page or statement>` | Phase E0: runs `ClarifyGate` (dry-run, nothing written), files `needs-author` questions, records verdict + score in `log.md` | resolves an ambiguity the source does not resolve; rewrites from Canon |
+| `/tetraframe <seed>` | Phase E1: runs `TetraFrame` on a clarified seed, writes the run to `Plan/decisions/tetraframe/`, shows corners + contradiction map + P* + verification table, then `AskUserQuestion` | picks a corner or P* itself; edits a corner to pass verification; runs on a vague seed (clarify first) |
 | `/promote-to-canon <page>` | Phase E helper: requires a `clear` clarify verdict (score ≥ 0.9), a D-xx id and an `AskUserQuestion` sign-off; produces the Canon patch **proposal** + `Plan/ingest` manifest for `/ingest` | applies the patch itself; accepts a page without a clarify verdict |
 | `/wiki-health` | free lint + coverage report | LLM calls |
 | `/query` (existing) | adds BM25 step; files to `Wiki/syntheses/` | — |
@@ -253,11 +269,12 @@ reference docs, no code inside skills — they call `scripts/` and `tools/kpwiki
 | `MergeConcept` | `MergeConcept` (claims[] + canon excerpt → concept page fields) | every sentence in "what sources say" has ≥1 citation; disagreements list ≥2 sources; canon quote is verbatim (substring of Canon file); no `[K]` emitted; LLM judge (worker) for faithfulness | 20 concepts |
 | `RaiseQuestions` (signature built) | `RaiseQuestions` | evidence citations resolve; axis ∈ enum; question is not answerable verbatim from Canon (judge); ≤ 7 per concept | 15 concepts with known gaps |
 | `ClarifyGate` (built) | `ClarifyClaim` | meaning kept (no smuggled glossary terms, no dropped entities, no new quantifiers), scope grounded, hedges resolved or declared, bindings valid, questions well-formed + verdict consistent, language kept | 30 claims incl. hand-picked `needs-author` cases |
+| `TetraFrame` (built) | `DistillSeed`, `SelectPredicate`, `CornerP/NotP/Both/Neither`, `MapCorners`, `TransformFrame` (BestOfN) | the seven verification heuristics (isolation guard + near-duplicate check in code); gold: expected predicate phrase, allowed `both` bases, expected `neither` failure modes, banned P* phrases | 10–20 seeds from real D-xx candidates, incl. seeds whose right answer is `neither` |
 | `CanonConflictJudge` | `CheckCanonConflict` in isolation | precision/recall on a labelled conflict set (incl. the two Storyform A/B non-conflicts) | 40 claim/passage pairs |
 
 Workflow per program (skill `dspy-advanced-workflow`): spec → signature →
 gold split (train/val, never evaluated on train) → metric → **baseline** →
-GEPA `auto="light"` (then medium) with the reflection model → save
+GEPA `auto="light"` (then medium) with the reflection model (on the `claude-cli` backend when no API key is present — `docs/dspy-base.md` "Local runtime") → save
 `tools/kpwiki/artifacts/<program>.json` → regression test with cached LM in
 `tests/`. Cost control: cache dir, `worker` model for judges, `max_metric_calls`
 explicit. RLM (`dspy.RLM`, needs Deno) for the 100k+-token documents instead of truncation.
@@ -284,7 +301,7 @@ grounding is the promote step (human), and canon relation is only ever a flag
 
 | phase | deliverable | done when |
 |---|---|---|
-| 0 (this PR) | DSPy base (`tools/kpwiki`, `requirements-dspy.txt`, `scripts/setup_dspy.sh`, `docs/dspy-base.md`), `Sources/manifest.jsonl` + `scripts/source_inventory.py`, the clarify gate (`ClarifyGate`, `clarify_metric`, `/clarify`), this concept, the survey | smoke + tests pass ✔ |
+| 0 (this PR) | DSPy base (`tools/kpwiki`, `requirements-dspy.txt`, `scripts/setup_dspy.sh`, `docs/dspy-base.md`), `Sources/manifest.jsonl` + `scripts/source_inventory.py`, the clarify gate (`ClarifyGate`, `clarify_metric`, `/clarify`), the decision assessor (`TetraFrame`, `tetraframe_metric`, `/tetraframe`), the Claude-CLI LM backend (`local_lm.py`, no API key needed), this concept, the survey | smoke + tests pass ✔ |
 | 1 | `Wiki/` skeleton: `SCHEMA.md`, `schema/*.yaml`, `index/log/overview/concept-table`, `scripts/wiki_lint.py` (+tests), `scripts/wiki_fts.py`, hooks + deny rules, `Sources/README` fetch procedure, `scripts/source_dedup.py` | lint passes on an empty wiki; one source exported end-to-end by hand |
 | 2 | Export of all 680 documents (Drive MCP batch), dedup/supersede pass, coverage report | manifest complete; T0/T1 assigned; health green |
 | 3 | `/research-ingest` + `/wiki-promote`; gold set of 30 sources; `SourceIngest` baseline recorded (`tools/kpwiki/eval_runs/`) | first 50 T3 sources reviewed and promoted |
