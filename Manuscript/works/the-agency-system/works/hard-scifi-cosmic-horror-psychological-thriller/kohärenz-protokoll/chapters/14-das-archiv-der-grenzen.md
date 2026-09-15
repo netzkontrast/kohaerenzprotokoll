@@ -37,7 +37,7 @@ Aus privater Abweichungsverwaltung wird absichtliches Behalten eines nicht vorge
 - KW2 nur als schmale Überlagerung am Archivrand; kein voller Weltenwechsel.
 - Theorie noch nicht erklären — nur Dokumenttitel, Fälle und Bedienlogik zeigen.
 
-<!-- Draft v0.1 (2026-09-11). Plan: Plan/drafting/akt2-arc-optimized_2026-09-11.md (Kap 14) · Canon: Kernwelten §3 (KW2 Archiv der Grenzen). Erstes leserseitiges Auftreten des Namens AEGIS — D-21 gilt nur für Kap 1–13; der Name kommt aus den Dossiers, nicht vom Erzähler. KW2 nur als schmale Überlagerung am Archivrand. -->
+<!-- Draft v0.2 (2026-09-12). Anreicherung nach Plan/drafting/enrichment-packets_14-32_2026-09-12.md §6 (Kap 14): Wartungsfenster als Stadtereignis, Körperkosten der verschwundenen Abkürzung, Theta-9 als nüchternes Archiv (Regalordnung, Zugriffslatenz, Verzeichnisstruktur). Nur Einfügungen; jeder Satz aus v0.1 wortgleich und in derselben Reihenfolge erhalten. Plan: Plan/drafting/akt2-arc-optimized_2026-09-11.md (Kap 14) · Canon: Kernwelten §3 (KW2 Archiv der Grenzen). Erstes leserseitiges Auftreten des Namens AEGIS — D-21 gilt nur für Kap 1–13; der Name kommt aus den Dossiers, nicht vom Erzähler. KW2 nur als schmale Überlagerung am Archivrand. -->
 
 ---
 
@@ -48,6 +48,10 @@ Die Schlange fällt nicht auf null.
 Um 17:10 stehen noch vier Zuweisungen offen. Ich arbeite bis 17:20, dann sind es drei, und um 17:20 ist Schichtende.
 
 Ich sitze und sehe die drei an.
+
+Die Konsole steht drei Grad schief. Ich habe sie nicht zurückgedreht.
+
+Ich öffne die erste der drei noch einmal. Sie ist vollständig bis auf einen Vergleichswert aus einem anderen Knoten; das Feld bleibt offen, solange der Wert nicht kommt. Die zweite ist derselbe Fall, die dritte auch.
 
 In elf Jahren ist die Schlange jeden Abend leer geworden. Nicht, weil ich schnell wäre — weil sie so bemessen ist. Man bekommt, was in einen Zyklus passt, und am Ende passt es. Das ist keine Leistung, das ist Planung.
 
@@ -81,9 +85,17 @@ Ich lese die Kennung dreimal.
 
 Siebendreivieroins. Meine ist siebendreivier. Irgendwo läuft eine Einheit mit einer vierstelligen Kennung, deren erste drei Stellen meine sind, und der Verteiler hat die letzte Stelle verloren oder nie gehabt.
 
+Ich suche die Kennung im Verteiler. Er gibt drei Felder aus: Einheit vorhanden, Ebene technisch, Standort nicht in diesem Knoten. Das vierte Feld, in dem stünde, was dieser Einheit heute zugewiesen ist, ist grau. Es ist nicht leer; es ist für meine Stufe nicht lesbar.
+
 Es gibt ein Feld dafür. **FEHLZUSTELLUNG MELDEN.** Es steht rechts unten, wo es immer steht, und man braucht eine Eingabe.
 
 Ich sehe es an.
+
+Ich lege den Finger darauf. Das Feld nimmt die Farbe an, die es annimmt, wenn es wartet. Es fragt nichts und zählt nichts mit; es wartet, solange der Finger liegt.
+
+Ich nehme den Finger weg. Das Feld geht in den Grundwert zurück.
+
+Es ist 08:14. Bis 08:20 sitze ich und arbeite nicht.
 
 Dann arbeite ich die Reihe ab, und das Ticket bleibt offen in der zweiten Ebene, und um 11:00 ist es noch da, und um 15:00 ist es noch da.
 
@@ -99,9 +111,17 @@ Im Knoten heben vierzehn Einheiten den Kopf.
 
 **WARTUNGSFENSTER. ABSCHNITT EPSILON-DELTA. DAUER: 3 MINUTEN.**
 
+Durch den Zugang des Knotens sieht man ein Stück des Gangs. Dort stehen sie. Wer einen Karren führt, stellt ihn ab und bleibt daneben; wer keinen führt, geht noch zwei Schritte und bleibt dann. Einer lässt den Karren los, und der rollt allein weiter und läuft gegen die Scheuerleiste, und das ist in diesen drei Minuten das einzige Geräusch aus dem Gang.
+
 Drei Minuten sind lang. Niemand steht auf. Man sitzt, und das Licht steht, und das Licht ist das Einzige, was weitergeht, weil es von überall kommt und nichts tut.
 
+Ich zähle achtzehn Atemzüge. Vier hinein und sechs hinaus sind zehn Sekunden, achtzehn davon sind hundertachtzig, und hundertachtzig sind drei Minuten. Die Rechnung geht auf.
+
 Nach drei Minuten kommt die Umluft zurück. Die Fläche nimmt an. Die Reihe läuft weiter.
+
+Die Einheit an Station 7 hat die Hand die ganze Zeit auf der Fläche gelassen und den Finger weitergeführt, Zeile um Zeile, über eine Anzeige, die nichts annahm. Jetzt steht er dort, wo er stehen müsste. Bis zum Schichtende schließt sie zwei Vorgänge mehr als ich.
+
+Im Gang ist die Luft schärfer als sonst. So riecht es, wenn die Filter gewechselt worden sind; es hält sich zwei Stunden und ist am nächsten Tag weg.
 
 Auf dem Rückweg fehlt die Abkürzung.
 
@@ -113,13 +133,19 @@ Die Wand läuft durch. Sie ist nicht neu; sie hat dieselben Platten wie der Rest
 
 Ich gehe außen herum. Es sind zwei Ecken mehr.
 
+Außen ist der Gang breiter, und die Einheiten kommen in ihren Abständen entgegen; man geht dort nicht in der Mitte. Ich gehe rechts, wie man rechts geht, und bleibe zweimal stehen, um Karren vorbeizulassen.
+
 Und dann stimmt die Zählung nicht mehr. Nicht die zweihundertvier — die sind vorher. Es ist der Abschnitt danach, der nun einunddreißig Platten hat statt sechsundzwanzig, und einunddreißig ist richtig für den Weg außen herum.
+
+Fünf Platten mehr. Ich gehe den Abschnitt ein zweites Mal und zähle ihn ein zweites Mal; es sind wieder einunddreißig. Die Zahl für den Rückweg habe ich in elf Jahren nicht nachrechnen müssen. Heute rechne ich sie nach, und danach gehe ich schneller als sonst und bin trotzdem später in der Einheit.
 
 Vor mir gehen Einheiten. Hinter mir gehen Einheiten. Keine bleibt stehen. Keine sieht zur Wand. Sie gehen außen herum, in ihren Abständen, als wäre das der Weg.
 
 Ich bleibe an der Wand stehen und lege die Hand darauf. Sie ist einundzwanzig Grad. Sie ist so glatt wie jede Wand hier, und an der Scheuerleiste hat sie die feinen Striche, die eine Leiste bekommt, wenn elf Jahre lang Karren daran entlanggeführt werden.
 
 Wenn die Wand neu wäre, wäre die Leiste neu.
+
+Ich fahre die Fuge mit dem Daumen ab, von der Scheuerleiste bis über Kopfhöhe. Sie läuft durch. Der Daumen bleibt an keiner Stelle hängen, und danach ist er kühl bis zum Gelenk.
 
 Ich gehe drei Schritte zurück und sehe den Abschnitt als Ganzes an. Es ist eine Wand. Sie ist vollständig. Es ist nichts daran zugemauert, überklebt, ergänzt; es gibt keine Naht, keinen Absatz, keine Stelle, an der zwei Zeiten aneinanderstoßen.
 
@@ -141,11 +167,17 @@ Ich benutze es nicht im Knoten. Ich benutze es in der Einheit, an der Konsole, n
 
 **LERNARCHIV THETA-9. ZUGANG: LESEN.**
 
+Zwischen meiner Eingabe und dieser Zeile liegen elf Sekunden. In der Bestandspflege liegt zwischen Eingabe und Antwort nie mehr als eine. Ich sitze elf Sekunden vor einer Fläche, auf der nichts steht, und zähle sie mit.
+
 Ich hatte etwas anderes erwartet. Nicht Gold und keine Kammer — ich weiß nicht, was. Etwas Verschlossenes.
 
 Es ist eine Verzeichnisliste.
 
-Sie ist grau, sie ist alphabetisch, und sie ist sehr lang. Die Einträge haben Nummern und Titel, und die Titel sind so geschrieben, wie in der Bestandspflege alles geschrieben ist: ohne Adjektiv.
+Sie ist grau, sie ist alphabetisch, und sie ist sehr lang.
+
+Sie baut sich in Abschnitten auf, dreißig Zeilen auf einmal, dann eine Pause, dann die nächsten dreißig. Unten steht die Gesamtzahl; sie ist vierstellig. Die Einträge haben Nummern und Titel, und die Titel sind so geschrieben, wie in der Bestandspflege alles geschrieben ist: ohne Adjektiv.
+
+Hinter jedem Titel steht ein zweites Feld, drei Zahlen mit Punkten dazwischen. Es ist aufgebaut wie eine Standortangabe: Reihe, Fach, Lage. Die Zahlen laufen nicht mit den Titelnummern mit. Zwei Titel nacheinander stehen in derselben Reihe oder in Reihen, zwischen denen zweihundert liegen.
 
 *01 — Terminierung und Budget bei nicht abschließenden Prüfvorgängen*
 *02 — Detailallokation unter Komplexitätsobergrenze*
@@ -165,7 +197,11 @@ An einer Stelle steht ein Satz, den ich zweimal lese.
 
 Das ist kein Geheimnis. Das ist eine Arbeitsanweisung, und ich habe sie mein ganzes Berufsleben befolgt, ohne sie gelesen zu haben.
 
+Ich lese den Satz ein drittes Mal, dann lege ich die Hände flach auf die Fläche und lasse sie liegen. Es ist 23:40. Der Rücken ist steif von der Haltung, und die Anzeige steht so ruhig, wie eine Anzeige in der Bestandspflege steht.
+
 Ich öffne das erste Verzeichnis.
+
+Es öffnet nicht sofort. Die Fläche steht vier Sekunden lang so, wie sie heute Nachmittag gestanden hat, und dann ist das Dokument da.
 
 Der Kopf des Dokuments hat drei Zeilen. Kennung, Fassung, Herausgeber.
 
@@ -201,8 +237,12 @@ Ich höre ihn deutlich. Er fällt in Wasser, nicht auf eine Fläche; man hört d
 
 Der Boden vor der Konsole gibt unter dem Fuß eine Spur nach. Nur an dieser einen Stelle. Ich trete zweimal auf, und beim zweiten Mal ist er fest.
 
+Ich messe die Stelle mit der Hand aus, Handbreit für Handbreit, von der Konsole bis zur Wand. Es sind fünf Handbreit, und alle fünf sind fest.
+
 Ich sehe auf die Anzeige. Das Verzeichnis steht offen, grau, alphabetisch, sehr lang.
 
 Ich lese bis 02:40 und schließe es dann, und der Geruch ist weg, bevor ich das Licht ausmache.
+
+Im Gegenregister steht danach eine Zeile mehr. *Ticket 9-1188, Leserechte Theta-9, Empfänger 7341. Fehlzustellung nicht gemeldet. Eintrag 01 für morgen vorgemerkt.*
 
 Der Tropfen kommt nicht wieder.

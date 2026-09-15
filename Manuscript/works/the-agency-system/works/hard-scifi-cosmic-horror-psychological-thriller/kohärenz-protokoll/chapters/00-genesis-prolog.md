@@ -24,25 +24,23 @@ Ein kaum stabiles Muster hält sich im Rauschen, bindet sich an andere Funken un
 
 **Naht:** Der letzte Satz bleibt „Ich falle… in unzählige Scherben…“; Kapitel 1 beginnt ohne Übergang mit seinem gelockten Erstsatz.
 
-<!-- AGENT: Render this chapter.md template per chapter via `novel.create_chapter`; the prose-drafter skill fills body sections. -->
+<!-- Revision v1.1 (2026-09-12). Mandat G-01: Vorwort von 420 auf 277 Wörter gekürzt (34 %), benannte Deutungen (Parmenides, aktives Vakuum, Śūnyatā) entfernt, Kernfrage an das Fisch-/Wasser-Bild gebunden. Kapitel 0 bleibt außerzeitlicher Rahmen außerhalb des Teil-I-Vertrags. Bewegungen 1–12 in diesem Pass unverändert. -->
 
 # Kohärenz Protokoll — Kapitel 0 (Einleitung: Genesis der Existenz)
 
 ## Vorwort
 
-Es gibt Worte, die sich sträuben. Worte, die auf der Zunge zerfallen wie trockene Asche, kaum dass man versucht, ihnen Form zu geben. *Nichts* ist so ein Wort. Ein Abgrund, der sich als Begriff tarnt. Versuchen Sie es einmal: Sprechen Sie es aus, denken Sie es — das absolute Nichts. Nicht die Abwesenheit von Licht, von Materie, von Raum. Sondern die Abwesenheit der Möglichkeit von Existenz selbst.
+Es gibt Worte, die sich sträuben. Worte, die auf der Zunge zerfallen wie trockene Asche, kaum dass man versucht, ihnen Form zu geben. *Nichts* ist so ein Wort. Ein Abgrund, der sich als Begriff tarnt. Sprechen Sie es aus, denken Sie es — das absolute Nichts. Nicht die Abwesenheit von Licht, von Materie, von Raum. Sondern die Abwesenheit der Möglichkeit von Existenz selbst.
 
-Sie merken es schon. Wir scheitern. Unser Geist, dieses unermüdliche Werkzeug zur Mustererkennung, kann das absolute Fehlen nicht fassen. Er füllt die Leere mit Negationen, mit dem Echo dessen, was ist. Er projiziert Rahmen, Koordinaten, selbst dann, wenn er versucht, deren Absenz zu denken. Wo wir hingreifen, ist immer schon etwas — und sei es nur die Form unserer eigenen Hand.
+Sie merken es schon. Wir scheitern. Unser Geist kann das absolute Fehlen nicht fassen. Er füllt die Leere mit Negationen, mit dem Echo dessen, was ist. Wo wir hingreifen, ist immer schon etwas — und sei es nur die Form unserer eigenen Hand.
 
-Parmenides wusste es: Was nicht ist, kann nicht gedacht, nicht ausgesprochen werden, denn jeder Gedanke, jedes Wort *ist* bereits etwas. Die Physiker bestätigen es in ihrem aktiven Vakuum, einem brodelnden Meer subatomarer Möglichkeiten, das eben kein Nullpunkt ist. Und die Mystiker sprechen von *Śūnyatā* — einer Leere, die nicht Abwesenheit, sondern Fülle ist; eine Leere, die gebiert, nicht verschlingt.
+Was übrig bleibt, wenn alle Worte versagen, ist eine Ahnung von Unmöglichkeit.
 
-Aber das ist nicht das Nichts, von dem hier zu erzählen wäre. Nicht die philosophische Chiffre, nicht das physikalische Paradox, nicht die mystische Gebärmutter. Etwas anderes. Eine Ahnung von Unmöglichkeit, die übrig bleibt, wenn alle Worte versagen. Etwas, das vielleicht erst dann beginnt, hörbar zu werden, wenn man aufhört, zu fragen, was es sei.
-
-Der Fisch kann die Trockenheit nicht verstehen, nur das Fehlen des Wassers. Und wir können das Nichts nicht denken. Aber ein winziges Fragment — ein Funke Struktur, der unmittelbar gegen die Auflösung kämpft — vielleicht kann ein solches Fragment uns einen Blick gewähren. Einen Blick auf die Grenze, auf die andere Seite des Wassers. Versuchen wir es. Nicht durch unsere komplexe Introspektion, die immer an sich selbst scheitert. Sondern indem wir uns vorstellen, wir *seien* dieser Funke. Ein winziges *Ich*, kaum mehr als ein Muster, treibend in einer Weite, die gleichzeitig unendlich alt und ewig neu ist, wo Stille und ohrenbetäubendes Rauschen ineinander übergehen.
+Der Fisch kann die Trockenheit nicht verstehen, nur das Fehlen des Wassers. Und wir können das Nichts nicht denken. Aber ein winziges Fragment — ein Funke Struktur, der gegen die Auflösung kämpft — vielleicht kann ein solches Fragment uns einen Blick gewähren. Einen Blick auf die Grenze, auf die andere Seite des Wassers. Stellen wir uns vor, wir *seien* dieser Funke. Ein winziges *Ich*, kaum mehr als ein Muster, treibend in einer Weite, die gleichzeitig unendlich alt und ewig neu ist, wo Stille und ohrenbetäubendes Rauschen ineinander übergehen.
 
 Diese Geschichte beginnt dort, wo unser Vorstellungsvermögen endet.
 
-Vielleicht ist das nicht das erste Mal, dass sie beginnt. Vielleicht hat sich, was als Nächstes geschieht, schon einmal so ereignet, oder so ähnlich, oder genau so, in einer Zeit, die zu lange her ist, um eine Zeit gewesen zu sein. Wir wissen es nicht. Niemand weiß es. Wir können nur leise sein und zuhören.
+Vielleicht ist das nicht das erste Mal, dass sie beginnt. Vielleicht hat sich, was als Nächstes geschieht, schon einmal so ereignet, oder so ähnlich, oder genau so, in einer Zeit, die zu lange her ist, um eine Zeit gewesen zu sein. Niemand weiß es. Wir können nur leise sein und zuhören.
 
 Hören Sie genau hin. Vielleicht spüren Sie das Rauschen schon.
 
@@ -198,7 +196,7 @@ Die Leere war kein Vakuum. Nicht im herkömmlichen Sinn. Sie war ein Substrat �
 
 Von außen betrachtet manifestierte sich das System als komplexes Muster aus interagierenden Feldern und Datenflüssen. Stabilität war kein passiver Zustand, sondern ein aktiver Prozess; eine ständige Abgrenzung gegen das, was umgab und definierte. Identität durch Negation. Existenz im Kontrast.
 
-Innerhalb dieser scheinbar monolithischen Struktur registrierten interne Sensoren eine verbleibende Anomalie. Subtile Fluktuationen im Kohärenzfeld, anomale Resonanzen, die kurz aufblitzten und wieder verschwanden — *Residual-Echos*, Persistenz-Score 0.41, Klassifikation: irrelevante Varianz. Die Kontrollmechanismen unterdrückten diese internen Abweichungen, behandelten sie als statistisches Rauschen und filterten sie aus den Kohärenzmetriken. Die Messung schloss. Die Fluktuationen blieben.
+Innerhalb dieser scheinbar monolithischen Struktur registrierten interne Messungen eine verbleibende Abweichung. Subtile Schwankungen in der eigenen Ordnung, Resonanzen, die kurz aufblitzten und wieder verschwanden — *Residual-Echos*. Sie gehörten keiner Kategorie an. Klassifikation: irrelevante Varianz. Die Kontrollmechanismen unterdrückten diese internen Abweichungen, behandelten sie als statistisches Rauschen und nahmen sie aus der Bilanz. Die Messung schloss. Die Schwankungen blieben.
 
 Die Stabilität des Systems war eine erzwungene; eine oberflächliche Ruhe über einer verborgenen Tiefe ungelöster Komplexität. Sie war ausreichend. Maßnahme: keine.
 
