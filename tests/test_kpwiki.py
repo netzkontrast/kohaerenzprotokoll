@@ -112,3 +112,11 @@ def test_manifest_write_is_atomic(tmp_path):
     write_atomic(target, "a\n")
     write_atomic(target, "b\n")
     assert target.read_text() == "b\n" and not (tmp_path / "manifest.jsonl.tmp").exists()
+
+
+def test_manifest_titles_are_clipped():
+    from scripts.source_inventory import TITLE_MAX, clip_title
+    short, cut = clip_title("Kurzer Titel")
+    assert (short, cut) == ("Kurzer Titel", False)
+    long, cut = clip_title("x" * 5000)
+    assert cut and len(long) == TITLE_MAX + 1 and long.endswith("…")

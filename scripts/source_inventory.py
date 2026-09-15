@@ -50,6 +50,9 @@ CATEGORIES = {
     "Anhang": ("unzugeordnet", "T4-out-of-scope"),
 }
 SLUG_MAX = 60
+# Some Drive documents carry their first paragraph as title; the index copied
+# them verbatim (up to ~9.5k chars). The manifest keeps a title, not a body.
+TITLE_MAX = 160
 
 
 def slugify(title: str) -> str:
@@ -89,11 +92,19 @@ def parse_index(text: str) -> list[dict]:
     return records
 
 
+def clip_title(title: str) -> tuple[str, bool]:
+    """Return (title, truncated); long first-paragraph titles are cut at TITLE_MAX."""
+    if len(title) <= TITLE_MAX:
+        return title, False
+    return title[:TITLE_MAX].rstrip() + "…", True
+
+
 def make_record(entry: re.Match, section: str, category: str, tier: str) -> dict:
-    title = entry.group("title")
+    title, truncated = clip_title(entry.group("title"))
     return {
         "drive_id": entry.group("id"),
         "title": title,
+        "title_truncated": truncated,
         "slug": slugify(title),
         "index_section": section,
         "category": category,
