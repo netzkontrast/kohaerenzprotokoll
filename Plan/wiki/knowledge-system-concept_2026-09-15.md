@@ -175,6 +175,18 @@ evidence citations and an evidence grade (HIGH: exact quote in both;
 MEDIUM: inferred across pages; LOW: ambiguous naming). Written to
 `Wiki/questions/` as `draft`; the session presents them; the author triages.
 
+**E0 — Clarify (gate before any authority change).** Before a claim may be
+proposed for promotion, `ClarifyGate` (`tools/kpwiki/clarify.py`, skill
+`dspy-clarify`, command `/clarify`) rewrites it so scope (Kernwelt, Akt,
+Anteil), glossary bindings and assumptions are explicit — only where the
+source states them — and turns every remaining ambiguity into a question for
+the author. Verdicts: `clear` (may be proposed), `needs-author` (questions to
+`Wiki/questions/`), `not-promotable`. The deterministic `clarify_metric`
+(no smuggled terms, no new quantifiers, grounded scope, resolved hedges,
+valid bindings, well-formed questions, language kept) must score ≥ 0.9. The
+same gate runs on vague task statements before decomposition
+(`dspy-rlm-workflow`) and on queries before `dspy-deep-refine` changes the base.
+
 **E — Decide.** Three outcomes per question: *answered from Canon* (cite it,
 close), *parked* (status `parked`, revisit date), *escalated* (a D-xx entry in
 the decision log; if Canon changes, the author edits Canon, `/ingest` seeds the
@@ -209,7 +221,8 @@ worldcodex conventions already in the repo:
 | `/wiki-promote [slug…]` | shows candidate diff, runs lint, moves to `Wiki/`; records reviewer + content hash in `log.md` | promotes a candidate that fails lint or whose hash changed since review |
 | `/wiki-understand` | Phase C over promoted-but-unmerged sources; updates concepts, concept-table, overview as candidates | overwrites a `reviewed` concept page |
 | `/interrogate-canon <concept|category|all>` | Phase D; questions as drafts; dry-run list first | answers its own questions; writes to Canon |
-| `/promote-to-canon <page>` | Phase E helper: requires a D-xx id and an `AskUserQuestion` sign-off; produces the Canon patch **proposal** + `Plan/ingest` manifest for `/ingest` | applies the patch itself |
+| `/clarify <page or statement>` | Phase E0: runs `ClarifyGate` (dry-run, nothing written), files `needs-author` questions, records verdict + score in `log.md` | resolves an ambiguity the source does not resolve; rewrites from Canon |
+| `/promote-to-canon <page>` | Phase E helper: requires a `clear` clarify verdict (score ≥ 0.9), a D-xx id and an `AskUserQuestion` sign-off; produces the Canon patch **proposal** + `Plan/ingest` manifest for `/ingest` | applies the patch itself; accepts a page without a clarify verdict |
 | `/wiki-health` | free lint + coverage report | LLM calls |
 | `/query` (existing) | adds BM25 step; files to `Wiki/syntheses/` | — |
 | `/lint-wiki` (existing) | gains `Wiki/` scope: stale concept vs newer source, questions without evidence | auto-fixes |
@@ -239,6 +252,7 @@ reference docs, no code inside skills — they call `scripts/` and `tools/kpwiki
 | `SourceIngest` (built) | `TriageSource`, `ExtractClaims`, `CheckCanonConflict` | citation validity, quote grounding, schema validity, language kept, coverage vs gold fragments | 30 hand-checked sources across categories |
 | `MergeConcept` | `MergeConcept` (claims[] + canon excerpt → concept page fields) | every sentence in "what sources say" has ≥1 citation; disagreements list ≥2 sources; canon quote is verbatim (substring of Canon file); no `[K]` emitted; LLM judge (worker) for faithfulness | 20 concepts |
 | `RaiseQuestions` (signature built) | `RaiseQuestions` | evidence citations resolve; axis ∈ enum; question is not answerable verbatim from Canon (judge); ≤ 7 per concept | 15 concepts with known gaps |
+| `ClarifyGate` (built) | `ClarifyClaim` | meaning kept (no smuggled glossary terms, no dropped entities, no new quantifiers), scope grounded, hedges resolved or declared, bindings valid, questions well-formed + verdict consistent, language kept | 30 claims incl. hand-picked `needs-author` cases |
 | `CanonConflictJudge` | `CheckCanonConflict` in isolation | precision/recall on a labelled conflict set (incl. the two Storyform A/B non-conflicts) | 40 claim/passage pairs |
 
 Workflow per program (skill `dspy-advanced-workflow`): spec → signature →
@@ -270,12 +284,12 @@ grounding is the promote step (human), and canon relation is only ever a flag
 
 | phase | deliverable | done when |
 |---|---|---|
-| 0 (this PR) | DSPy base (`tools/kpwiki`, `requirements-dspy.txt`, `scripts/setup_dspy.sh`, `docs/dspy-base.md`), `Sources/manifest.jsonl` + `scripts/source_inventory.py`, this concept, the survey | smoke + tests pass ✔ |
+| 0 (this PR) | DSPy base (`tools/kpwiki`, `requirements-dspy.txt`, `scripts/setup_dspy.sh`, `docs/dspy-base.md`), `Sources/manifest.jsonl` + `scripts/source_inventory.py`, the clarify gate (`ClarifyGate`, `clarify_metric`, `/clarify`), this concept, the survey | smoke + tests pass ✔ |
 | 1 | `Wiki/` skeleton: `SCHEMA.md`, `schema/*.yaml`, `index/log/overview/concept-table`, `scripts/wiki_lint.py` (+tests), `scripts/wiki_fts.py`, hooks + deny rules, `Sources/README` fetch procedure, `scripts/source_dedup.py` | lint passes on an empty wiki; one source exported end-to-end by hand |
 | 2 | Export of all 680 documents (Drive MCP batch), dedup/supersede pass, coverage report | manifest complete; T0/T1 assigned; health green |
 | 3 | `/research-ingest` + `/wiki-promote`; gold set of 30 sources; `SourceIngest` baseline recorded (`tools/kpwiki/eval_runs/`) | first 50 T3 sources reviewed and promoted |
 | 4 | `/wiki-understand` (`MergeConcept`), concept-table, overview v1 | kernkonzept + audit slices merged; knowledge diff reviewed |
-| 5 | `/interrogate-canon` (`RaiseQuestions` + evidence grading), question triage ritual, `/promote-to-canon` with D-xx gate | first question batch triaged; first D-W decision executed end-to-end into Canon → graph → Codex |
+| 5 | `/interrogate-canon` (`RaiseQuestions` + evidence grading), question triage ritual, `/clarify` gold set + baseline, `/promote-to-canon` with clarify + D-xx gates | first question batch triaged; first D-W decision executed end-to-end into Canon → graph → Codex |
 | 6 | GEPA optimization of `SourceIngest` / `MergeConcept`, regression tests, adversarial review pass, `/lint-wiki` extended | optimized artifacts saved; scores ≥ baseline on held-out val |
 | 7 | remaining categories ingested (plot, theory); overview v2; NovelClaims for verified T2 theory into the graph | coverage 680/680; open-question backlog owned |
 
