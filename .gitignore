@@ -1,5 +1,6 @@
 scripts/__pycache__/
 __pycache__/
+.pytest_cache/
 
 # Worldbuilding-Codex session state (per-session, never committed)
 .claude/CURRENT_TASK.md
@@ -11,6 +12,10 @@ Plan/research/papers/
 Plan/research/markdown/
 Plan/research/sep-entries/
 Plan/research/last-search-results.json
+
+# lit-critic — pinned upstream clone + generated project projection (scripts/setup_lit_critic.sh)
+.lit-critic-src/
+.lit-critic/
 
 # OS files
 .DS_Store

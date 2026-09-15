@@ -187,8 +187,15 @@ Skipping the conceptualizer's hard gate is a red flag → walk the `novel-concep
 
 ## Editorial gate ladder (composite gates, run in order)
 
-`pre_draft_gate` → `developmental_gate` → `line_gate` → `copy_gate` →
+`pre_draft_gate` → `developmental_gate` → **lit-critic gate** → `line_gate` → `copy_gate` →
 `beta_ready_gate` → `query_ready_gate` → `publish_ready_gate` → `publication_gate` (terminal)
+
+The lit-critic gate is repo-local, not an agency verb: `python3
+scripts/lit_critic_gate.py --chapter N` (exit 0 pass · 1 blocking · 2 could not
+run). It reads the chapter prose through seven editorial lenses against
+`tools/lit-critic/CANON.md` + `STYLE.md` and writes
+`Plan/quality/lit-critic/kap-NN.md`. Only `critical` findings block; the
+`horizon` lens never does. Walk the `lit-critic` skill before triaging findings.
 
 ## Storyform coherence (Spec 120)
 
@@ -378,15 +385,23 @@ Per scene, in order:
 2. **Draft** — two modes:
    - *Host-LLM mode (Claude writes inside the engine)*: `generate_scene_body(scene_id, scene_brief, prefer_delegate=True)` → returns `kind="llm_delegate"` envelope → Claude (the host) writes the prose for that envelope → re-call `generate_scene_body(scene_id, host_completion={...})` → engine captures Artefact + runs prose checks. **No API key needed.**
    - *Direct mode*: draft prose in chat with the user, then `integrate_scene_body(scene_id, body)`.
-3. **Check** (decidable, driver-free): `check_filter_words`, `check_show_dont_tell`, `check_dialogue_attribution`, `analyze_readability`, `count_words`, `check_voice_consistency(bodies=[...])` vs. Kap 0.
+3. **Check** (decidable, driver-free): `check_filter_words`, `check_show_dont_tell`, `check_dialogue_attribution`, `analyze_readability`, `count_words`, `check_voice_consistency(bodies=[...])` vs. Kap 0. Then the LLM pass: `python3 scripts/lit_critic_gate.py --chapter N` (skill: `lit-critic`).
 4. **Audit meaning**: walk `scene-bridge-auditor` (Q1 purpose → Q5 payoff, hard sign-off).
 5. **Record**: `mark_narrative_beat` for new beats, `record_story_event`/`reveal_in_scene` for disclosures, `record_character_learns` for knowledge changes.
 6. **Roll up**: `set_chapter_status(chapter_id, drafted|revised)` when all scenes land; `chapter_report(novel_id)` for progress.
 
 ## 5. Gates & skills ladder (run in order, never skip the hard gates)
 
-`pre_draft_gate` → `developmental_gate` → `line_gate` → `copy_gate` →
-`beta_ready_gate` → `query_ready_gate` → `publish_ready_gate` → `publication_gate`.
+`pre_draft_gate` → `developmental_gate` → **`scripts/lit_critic_gate.py`** →
+`line_gate` → `copy_gate` → `beta_ready_gate` → `query_ready_gate` →
+`publish_ready_gate` → `publication_gate`.
+
+Before the ladder, two deterministic repo gates: `scripts/check_enrichment.py`
+(an enrichment pass may only insert prose) and the Readiness Gate in
+`Plan/drafting/chapter-enrichment-masterplan_2026-09-11.md` §F. The lit-critic
+gate needs `scripts/setup_lit_critic.sh` plus an `ANTHROPIC_API_KEY`; without a
+key it exits 2 (**never** a pass). Tests: `.lit-critic-src/.venv/bin/python -m
+pytest tests/`.
 
 Walkable skills carry the hard gates (`develop.skill_walk(name, inputs)` —
 each phase consumes its declared `produces` keys from `inputs`; the final
