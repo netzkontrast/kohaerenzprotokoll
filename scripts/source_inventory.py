@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -163,10 +164,17 @@ def main(argv: list[str] | None = None) -> int:
         current = MANIFEST.read_text(encoding="utf-8") if MANIFEST.is_file() else ""
         print("manifest up to date" if current == rendered else "manifest STALE — run scripts/source_inventory.py")
         return 0 if current == rendered else 1
-    MANIFEST.parent.mkdir(parents=True, exist_ok=True)
-    MANIFEST.write_text(rendered, encoding="utf-8")
+    write_atomic(MANIFEST, rendered)
     print(f"wrote {MANIFEST.relative_to(ROOT)}\n{stats(records)}")
     return 0
+
+
+def write_atomic(target: Path, text: str) -> None:
+    """Write via a sibling temp file + rename so readers never see a partial manifest."""
+    target.parent.mkdir(parents=True, exist_ok=True)
+    tmp = target.with_name(target.name + ".tmp")
+    tmp.write_text(text, encoding="utf-8")
+    os.replace(tmp, target)
 
 
 if __name__ == "__main__":

@@ -84,8 +84,17 @@ def coverage(claims: list[Claim], gold_fragments: list[str]) -> float:
     return hits / len(gold_fragments)
 
 
-def coerce_claims(raw: list) -> tuple[list[Claim], int]:
-    """Keep well-formed claims; count the malformed ones instead of raising."""
+def coerce_claims(raw) -> tuple[list[Claim], int]:
+    """Keep well-formed claims; count the malformed ones instead of raising.
+
+    ``raw`` is whatever the program put in ``pred.claims``: a list, ``None``,
+    or, on a bad parse, a scalar such as a string — a scalar counts as one
+    malformed item rather than being iterated character by character.
+    """
+    if raw is None:
+        raw = []
+    elif not isinstance(raw, (list, tuple)):
+        raw = [raw]
     claims, malformed = [], 0
     for item in raw:
         if isinstance(item, Claim):
@@ -132,7 +141,7 @@ def _feedback(scores: dict[str, float], n_claims: int) -> str:
 def ingest_metric(gold: dspy.Example, pred: dspy.Prediction, trace=None,
                   pred_name=None, pred_trace=None) -> dspy.Prediction:
     """Rich-feedback metric for SourceIngest (GEPA-ready)."""
-    claims, malformed = coerce_claims(list(getattr(pred, "claims", []) or []))
+    claims, malformed = coerce_claims(getattr(pred, "claims", None))
     scores = _axis_scores(gold, claims, malformed)
     score = sum(WEIGHTS[k] * v for k, v in scores.items())
     return dspy.Prediction(score=score, feedback=_feedback(scores, len(claims) + malformed))

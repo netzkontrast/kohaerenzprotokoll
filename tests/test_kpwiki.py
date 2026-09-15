@@ -98,3 +98,17 @@ def test_lm_context_is_scoped(monkeypatch):
     monkeypatch.setenv("KP_LM_WORKER", "anthropic/claude-haiku-4-5")
     with lm.lm_context("worker"):
         assert dspy.settings.lm.model == "anthropic/claude-haiku-4-5"
+
+
+def test_metric_tolerates_scalar_claims_output():
+    for bad in ("not a list", 5, {"text": "x"}):
+        result = ingest_metric(smoke.fixture_example(), dspy.Prediction(claims=bad))
+        assert result.score < 0.5 and "did not fit the Claim schema" in result.feedback
+
+
+def test_manifest_write_is_atomic(tmp_path):
+    from scripts.source_inventory import write_atomic
+    target = tmp_path / "manifest.jsonl"
+    write_atomic(target, "a\n")
+    write_atomic(target, "b\n")
+    assert target.read_text() == "b\n" and not (tmp_path / "manifest.jsonl.tmp").exists()
