@@ -8,7 +8,7 @@ from __future__ import annotations
 
 from typing import Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, model_validator
 
 # Where a source sits relative to the novel. T0/T1/T4 are set deterministically
 # by the inventory (duplicates, superseded drafts, out of scope); the LLM only
@@ -36,6 +36,12 @@ class Citation(BaseModel):
     file: str = Field(description="repo-relative path of the source export")
     start_line: int = Field(ge=1)
     end_line: int = Field(ge=1)
+
+    @model_validator(mode="after")
+    def _ordered(self) -> "Citation":
+        if self.end_line < self.start_line:
+            raise ValueError(f"inverted line range {self.start_line}-{self.end_line}")
+        return self
 
     def marker(self) -> str:
         return f"^[{self.file}:{self.start_line}-{self.end_line}]"

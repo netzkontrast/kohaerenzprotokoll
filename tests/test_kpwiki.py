@@ -9,6 +9,7 @@ from tools.kpwiki import lm, smoke  # noqa: E402
 from tools.kpwiki.metrics import ingest_metric, language_kept, looks_german  # noqa: E402
 from tools.kpwiki.programs import SourceIngest, number_lines  # noqa: E402
 from tools.kpwiki.schema import Citation, Claim  # noqa: E402
+from pydantic import ValidationError  # noqa: E402
 
 
 def test_model_roles_come_from_env(monkeypatch):
@@ -77,3 +78,23 @@ def test_slugs_never_collide_with_suffixed_titles():
     disambiguate_slugs(records)
     slugs = [r["slug"] for r in records]
     assert len(set(slugs)) == 4 and slugs[0] == "foo" and "foo-2" in slugs
+
+
+def test_citation_rejects_inverted_range():
+    with pytest.raises(ValidationError):
+        Citation(file=smoke.FIXTURE_FILE, start_line=5, end_line=3)
+    assert Citation(file=smoke.FIXTURE_FILE, start_line=3, end_line=3).marker().endswith(":3-3]")
+
+
+def test_suffixed_slugs_respect_the_length_limit():
+    from scripts.source_inventory import SLUG_MAX, disambiguate_slugs, slugify
+    long_title = "x" * 80
+    records = [{"slug": slugify(long_title)}, {"slug": slugify(long_title)}]
+    disambiguate_slugs(records)
+    assert all(len(r["slug"]) <= SLUG_MAX for r in records) and records[1]["slug"].endswith("-2")
+
+
+def test_lm_context_is_scoped(monkeypatch):
+    monkeypatch.setenv("KP_LM_WORKER", "anthropic/claude-haiku-4-5")
+    with lm.lm_context("worker"):
+        assert dspy.settings.lm.model == "anthropic/claude-haiku-4-5"

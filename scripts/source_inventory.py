@@ -121,10 +121,16 @@ def disambiguate_slugs(records: list[dict]) -> None:
             assigned.add(base)
             continue
         n = 2
-        while f"{base}-{n}" in taken or f"{base}-{n}" in assigned:
+        while _suffixed(base, n) in taken or _suffixed(base, n) in assigned:
             n += 1
-        rec["slug"] = f"{base}-{n}"
+        rec["slug"] = _suffixed(base, n)
         assigned.add(rec["slug"])
+
+
+def _suffixed(base: str, n: int) -> str:
+    """``base-n`` trimmed so the result never exceeds SLUG_MAX."""
+    suffix = f"-{n}"
+    return base[: SLUG_MAX - len(suffix)].rstrip("-") + suffix
 
 
 def render(records: list[dict]) -> str:

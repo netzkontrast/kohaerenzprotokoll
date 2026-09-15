@@ -6,6 +6,9 @@ hard-coded in a program:
     KP_LM_TASK        the model that runs the programs        (default: anthropic/claude-opus-5)
     KP_LM_WORKER      cheap model for bulk sub-steps / judges (default: anthropic/claude-haiku-4-5)
     KP_LM_REFLECTION  GEPA's reflection model, temperature 1  (default: anthropic/claude-opus-5)
+
+``configure(role)`` is process-global (call once at startup); ``lm_context(role)``
+scopes a different model to a ``with`` block and is safe under threads.
     DSPY_CACHEDIR     on-disk LM cache (default: .cache/dspy, git-ignored)
 
 Model strings follow DSPy/LiteLLM ``provider/model`` form; the Anthropic
@@ -47,15 +50,27 @@ def build_lm(role: str) -> dspy.LM:
 def ensure_cache_dir() -> Path:
     """Point DSPy's disk cache at a repo-local, git-ignored directory."""
     cache_dir = Path(os.environ.get("DSPY_CACHEDIR", DEFAULT_CACHE_DIR))
-    # The cache stores prompts and completions, i.e. source text: owner-only.
-    cache_dir.mkdir(parents=True, exist_ok=True, mode=0o700)
+    # The cache stores prompts and completions, i.e. source text: owner-only,
+    # also when the directory already existed with wider permissions.
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    os.chmod(cache_dir, 0o700)
     os.environ.setdefault("DSPY_CACHEDIR", str(cache_dir))
     return cache_dir
 
 
 def configure(role: str = "task") -> dspy.LM:
-    """Configure DSPy globally with the LM for ``role`` and return it."""
+    """Configure DSPy process-wide with the LM for ``role`` and return it.
+
+    ``dspy.configure`` sets global state: call it once at process start, from
+    the main thread. Inside a running program (workers, judges, threads) use
+    :func:`lm_context` instead, which scopes the override to a ``with`` block.
+    """
     ensure_cache_dir()
     lm = build_lm(role)
     dspy.configure(lm=lm, track_usage=True)
     return lm
+
+
+def lm_context(role: str):
+    """Thread-safe, scoped LM override: ``with lm_context("worker"): ...``."""
+    return dspy.context(lm=build_lm(role))
