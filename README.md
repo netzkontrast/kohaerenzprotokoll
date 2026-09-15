@@ -18,7 +18,8 @@ Deutschsprachiges Romanprojekt im Genre **Hard SciFi / Cosmic Horror / Psycholog
 | [Plan/encoding](Plan/encoding/) | Planung zur Storyform-Kodierung |
 | [Plan/ingest](Plan/ingest/) | Extraktionen und Importprotokolle |
 | [Plan/sessions](Plan/sessions/) | Festgehaltene Erkenntnisse aus Arbeitssitzungen |
-| [scripts](scripts/) | Werkzeuge für Canon-Import und Manuskript-Materialisierung |
+| [Codex](Codex/) | Generierte Glossar-, Timeline- und Axiom-Ansichten aus dem Graphen |
+| [scripts](scripts/) | Werkzeuge für Canon-Import, Manuskript-Materialisierung, Kapitel-Lint, Codex-Rendering, Recherche |
 | [CLAUDE.md](CLAUDE.md) | Arbeitsvereinbarung und technische Referenz für den Agency-Workflow |
 
 ## Am Manuskript arbeiten
@@ -29,6 +30,15 @@ Vor Änderungen an Kapitelprosa den [Drafting-Brief](Plan/drafting/drafting-brie
 - Bei Widersprüchen ist [Storyform und Outline](Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md) normativ.
 - Kanonische Prosa bleibt deutsch. Offene Kanon-, Figuren- und Handlungsentscheidungen vor Änderungen klären.
 - Die Agency-Arbeitsweise und Voraussetzungen der Skripte sind in [CLAUDE.md](CLAUDE.md) beschrieben.
+
+## Codex-Werkzeuge (Worldbuilding Codex)
+
+Die Repo trägt die aus [alainator/worldcodex](https://github.com/alainator/worldcodex) übernommene und auf dieses Projekt angepasste Claude-Code-Suite (19 Skills, 5 Befehle, 3 Agenten, 6 Hooks). Details und Zuordnung: [docs/worldcodex-integration.md](docs/worldcodex-integration.md).
+
+- [Codex/](Codex/) — **generierte** Ansichten des Provenienz-Graphen: Glossar (602 Einträge), Master-Timeline, Welt-Axiome. Nicht von Hand bearbeiten; `python3 scripts/render_codex_views.py` rendert neu.
+- [WRITING.md](WRITING.md) — maschinenlesbare Stil-Tokens (Sperrlisten pro Akt, R-Regeln, Sprach-DNA-Regeln, gelockte Schreibweisen), abgeleitet aus Drafting-Brief und Canon.
+- `python3 scripts/lint_chapter.py` — prüft Kapiteldateien auf die entscheidbaren harten Regeln (Akt-I-Sperren, Stimmen-Labels, Hitze-Polarität, Frontmatter); läuft nach jedem Schreibzugriff auch als Hook.
+- Befehle `/ingest`, `/query`, `/lint-wiki`, `/full-audit-canon`, `/civilization-build` (Kernwelt-Ableitungskette) und die Agenten `@worldbuilder-editor`, `@worldbuilder-physicist`, `@worldbuilder-researcher`.
 
 ## Lizenz
 
