@@ -195,9 +195,10 @@ skill `dspy-tetraframe`, command `/tetraframe`) runs first: the seed is
 distilled to one predicate, four corners are generated in isolation (P,
 not-P, both under a typed split, neither with a replacement predicate),
 their contradictions and evidence discriminators are mapped, and a
-non-averaging P* is produced. The run passes only if the seven checks
-(branch independence 0.90, rigor of both/neither 0.78, contradiction honesty
-0.75, transformation quality 0.82, fake novelty 0.70, slop 0.70) hold. The
+non-averaging P* is produced. The run passes only if all seven checks
+hold: branch independence ≥ 0.90, rigor of *both* ≥ 0.78, rigor of *neither*
+≥ 0.78, contradiction honesty ≥ 0.75, transformation quality ≥ 0.82,
+fake-novelty risk ≥ 0.70, slop risk ≥ 0.70. The
 run file under `Plan/decisions/tetraframe/` is what the D-xx cites; the
 question page lists the four corners as candidate answers. The run never
 decides — the author does (Rule 0).

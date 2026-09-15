@@ -34,6 +34,7 @@ from __future__ import annotations
 
 import os
 import shutil
+import warnings
 from pathlib import Path
 
 import dspy
@@ -77,8 +78,20 @@ def model_id(role: str) -> str:
     """Return the configured model string for ``task``, ``worker`` or ``reflection``."""
     _check_role(role)
     if backend() == "claude-cli":
+        _warn_ignored_api_overrides()
         return os.environ.get(f"KP_LM_CLI_{role.upper()}", DEFAULT_CLI_MODELS[role])
     return os.environ.get(f"KP_LM_{role.upper()}", DEFAULT_MODELS[role])
+
+
+def _warn_ignored_api_overrides() -> None:
+    """KP_LM_* names API models; say so once when the CLI backend is the one running."""
+    ignored = [f"KP_LM_{r.upper()}" for r in DEFAULT_MODELS if os.environ.get(f"KP_LM_{r.upper()}")]
+    if ignored:
+        warnings.warn(
+            f"{ignored} are API-backend overrides and are ignored while KP_LM_BACKEND resolves to "
+            "'claude-cli'; set KP_LM_CLI_TASK / KP_LM_CLI_WORKER / KP_LM_CLI_REFLECTION (claude/<alias>) "
+            "or export ANTHROPIC_API_KEY to use the API backend.",
+            RuntimeWarning, stacklevel=3)
 
 
 def _build_api_lm(role: str) -> dspy.LM:
