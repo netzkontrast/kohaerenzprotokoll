@@ -19,10 +19,13 @@ Deutschsprachiges Romanprojekt im Genre **Hard SciFi / Cosmic Horror / Psycholog
 | [Plan/ingest](Plan/ingest/) | Extraktionen und Importprotokolle |
 | [Plan/sessions](Plan/sessions/) | Festgehaltene Erkenntnisse aus Arbeitssitzungen |
 | [Codex](Codex/) | Generierte Glossar-, Timeline- und Axiom-Ansichten aus dem Graphen |
+| [Sources](Sources/) | Roh-Ebene: Manifest und Markdown-Exporte der Google-Drive-Quellen (nicht Canon, unveränderlich) |
+| [Plan/wiki](Plan/wiki/) | Konzept des Wissenssystems (Research-Wiki, Prozess, Skills), Repo-Survey, DSPy-Basis |
 | [Plan/quality](Plan/quality/) | Berichte der Qualitäts-Gates, u. a. [lit-critic](Plan/quality/lit-critic/) |
 | [scripts](scripts/) | Werkzeuge für Canon-Import, Manuskript-Materialisierung, Kapitel-Lint, Codex-Rendering, Recherche und Qualitäts-Gates |
 | [tools/lit-critic](tools/lit-critic/) | CANON.md und STYLE.md — die Regeln, gegen die lit-critic prüft |
 | [tests](tests/) | Tests der Repo-Werkzeuge (`pytest tests/`) |
+| [docs/dspy-base.md](docs/dspy-base.md) | DSPy als Basis der LLM-Werkzeuge (`tools/kpwiki`, `scripts/setup_dspy.sh`) |
 | [CLAUDE.md](CLAUDE.md) | Arbeitsvereinbarung und technische Referenz für den Agency-Workflow |
 
 ## Am Manuskript arbeiten

@@ -1,0 +1,6 @@
+# DSPy base for the Kohärenz Protokoll LLM tooling (tools/kpwiki).
+# Pinned to the DSPy release the dspy-agent-skills pack is validated against.
+dspy==3.2.1
+pydantic>=2.7
+pyyaml>=6.0
+pytest>=8.0
