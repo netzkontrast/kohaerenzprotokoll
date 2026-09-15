@@ -56,7 +56,7 @@ Run in this order before a chapter advances (`drafted` → `revised` → `final`
 
 1. [scripts/check_enrichment.py](../../scripts/check_enrichment.py) — an enrichment pass may only insert prose, never rewrite it.
 2. Readiness Gate — [chapter-enrichment-masterplan](../../Plan/drafting/chapter-enrichment-masterplan_2026-09-11.md) §F.
-3. [scripts/lit_critic_gate.py](../../scripts/lit_critic_gate.py) — lit-critic's seven editorial lenses against [tools/lit-critic/CANON.md](../../tools/lit-critic/CANON.md) and [STYLE.md](../../tools/lit-critic/STYLE.md). Reports land in [Plan/quality/lit-critic/](../../Plan/quality/lit-critic/). Only `critical` findings block; the `horizon` lens never does. See the [lit-critic skill](./lit-critic/SKILL.md).
+3. [scripts/lit_critic_gate.py](../../scripts/lit_critic_gate.py) — kapitelgenaue Canon-Locks ([lit_critic_locks.py](../../scripts/lit_critic_locks.py), lexikalisch, kostenlos, `--locks-only`) und lit-critic's seven editorial lenses against [tools/lit-critic/CANON.md](../../tools/lit-critic/CANON.md) and [STYLE.md](../../tools/lit-critic/STYLE.md). Reports land in [Plan/quality/lit-critic/](../../Plan/quality/lit-critic/). Only `critical` findings block; the `horizon` lens never does. See the [lit-critic skill](./lit-critic/SKILL.md).
 4. Agency editorial ladder (`novel.line_gate`, `novel.copy_gate`, …) for graph-recorded provenance.
 
 lit-critic's inputs are **compilations** of `Canon/` and the drafting brief, not a

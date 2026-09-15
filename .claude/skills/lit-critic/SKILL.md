@@ -46,6 +46,50 @@ The pin lives in `setup_lit_critic.sh`. Bump it deliberately, then re-run
 `pytest tests/` — the gate reads lit-critic's internals, so an upstream refactor
 shows up there first.
 
+## Two stages: canon locks, then lenses
+
+The gate runs in two passes, and they answer different questions.
+
+**1. Canon locks** (`scripts/lit_critic_locks.py`) — lexical, free, instant, no
+API key. Seven chapter-scoped patterns that prove a forbidden word is *absent*:
+DKT terminology, the Multiplizitäts-Schleier vocabulary, the name `AEGIS`,
+Kael's name before Kap 9, Juna's name in Akt I, and the sentence „ich erinnere
+mich nicht". Every lock cites the canon source it encodes and carries its own
+chapter range — `AEGIS` is forbidden in Akt I and required from Kap 14, so a
+global rule would be wrong. A hit is `critical` and blocks.
+
+**2. The seven lenses** — LLM, costs money, needs a key. Everything the locks
+cannot reach.
+
+The split matters when you read a result: **a lock can only prove absence.** No
+lock can tell you the ozone signature is missing from a scene, that R-2 was
+broken, or that a Genesis echo was stacked — those need context, and that is
+what the lenses are for. A clean locks run is not a clean chapter.
+
+Run the locks alone with `--locks-only`; the verdict says `LOCKS PASS` and the
+report states that the lenses did not run, precisely so it is never mistaken for
+a full gate result.
+
+### Changing a lock
+
+The lock table is `LOCKS` in `scripts/lit_critic_locks.py`. Each entry carries
+its chapter range and the canon file it comes from. To change one:
+
+1. change the canon source first — the lock encodes it, never the reverse;
+2. edit the `Lock` entry and its `source` citation;
+3. add a synthetic positive and a scope-boundary case to
+   `tests/test_lit_critic_locks.py`.
+
+The tests are not optional here. Five of the seven locks never fire anywhere in
+the manuscript, so scanning real chapters proves nothing about their patterns —
+a broken regex and a clean manuscript look identical.
+
+**Do not add a lock that needs context to judge.** Anteil, Fragment and System
+are everyday German; they are only flagged in person-referring collocation
+(„ein Anteil von mir"), never bare („ein Anteil der Sequenzen", „Systemhum").
+Rules like „max. 1 Konzept pro Szene" or „keine Namen außer Doran" are not
+lexically decidable at all and belong to the lenses.
+
 ## Running the gate
 
 ```bash
@@ -54,6 +98,8 @@ python3 scripts/lit_critic_gate.py --chapter 1-5        # a range
 python3 scripts/lit_critic_gate.py --changed            # every chapter changed vs origin/main
 python3 scripts/lit_critic_gate.py --chapter 4 --mode quick     # cheaper checker tier
 python3 scripts/lit_critic_gate.py --chapter 4 --report-only    # re-render, no API call
+python3 scripts/lit_critic_gate.py --chapter 1-13 --locks-only  # canon locks only, free
+python3 scripts/lit_critic_locks.py --chapter 1-13              # locks, no report written
 ```
 
 Exit codes: **0** pass · **1** blocking findings · **2** the gate could not run.
@@ -147,6 +193,7 @@ book. They are **compilations** of `Canon/` and
 | Task | File |
 |---|---|
 | bump the upstream pin | `scripts/setup_lit_critic.sh` |
+| add or rescope a canon lock | `scripts/lit_critic_locks.py` + its tests |
 | change how chapters split into scenes | `scripts/lit_critic_project.py` |
 | change the blocking policy or the report | `scripts/lit_critic_gate.py` |
 | the rules lit-critic checks | `tools/lit-critic/CANON.md`, `STYLE.md` |
@@ -168,3 +215,8 @@ they must stay green.
 - lit-critic's own auto-extracted knowledge (characters, terms, threads) lives
   in `.lit-critic/project/.lit-critic.db` and is disposable — delete the file to
   force a clean re-extraction.
+- lit-critic's built-in deterministic stage reads `never use "X"` rules out of
+  STYLE.md, but those rules are **global**, which is why our chapter-scoped
+  locks live in `lit_critic_locks.py` instead. Our STYLE.md deliberately carries
+  no rules in that format; the built-in stage therefore only checks `@@META`
+  validity and whitespace.
