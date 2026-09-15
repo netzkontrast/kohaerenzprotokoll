@@ -271,6 +271,8 @@ reference docs, no code inside skills — they call `scripts/` and `tools/kpwiki
 | `RaiseQuestions` (signature built) | `RaiseQuestions` | evidence citations resolve; axis ∈ enum; question is not answerable verbatim from Canon (judge); ≤ 7 per concept | 15 concepts with known gaps |
 | `ClarifyGate` (built) | `ClarifyClaim` | meaning kept (no smuggled glossary terms, no dropped entities, no new quantifiers), scope grounded, hedges resolved or declared, bindings valid, questions well-formed + verdict consistent, language kept | 30 claims incl. hand-picked `needs-author` cases |
 | `TetraFrame` (built) | `DistillSeed`, `SelectPredicate`, `CornerP/NotP/Both/Neither`, `MapCorners`, `TransformFrame` (BestOfN) | the seven verification heuristics (isolation guard + near-duplicate check in code); gold: expected predicate phrase, allowed `both` bases, expected `neither` failure modes, banned P* phrases | 10–20 seeds from real D-xx candidates, incl. seeds whose right answer is `neither` |
+| `BatchCompile` (`DecideIngest`, `KnowledgeDiff`, `AnswerQuery`; skill `dspy-wiki-compile`) | `DecideIngest` (flag \| update \| create), `KnowledgeDiff` (reinforced/challenged/new/gaps), `AnswerQuery` | decision legal vs page status (`update` on a reviewed page with conflicts scores 0), diff consistent with the conflicts, gaps named when retrieval is thin, citations resolve | 20 source/page pairs incl. 5 that must `flag` |
+| `AdversarialReview` (`ReviewArtifact`, `CitationSupport`; skill `dspy-adversarial-review`) | `ReviewArtifact` (score, overstated, unsupported), `CitationSupport` (supported \| partial \| unsupported) | reviewer LM ≠ writer LM (asserted); precision/recall of `overstated` + `unsupported` on a labelled set; demotion is a status change | 40 claims, half overstated by construction |
 | `CanonConflictJudge` | `CheckCanonConflict` in isolation | precision/recall on a labelled conflict set (incl. the two Storyform A/B non-conflicts) | 40 claim/passage pairs |
 
 Workflow per program (skill `dspy-advanced-workflow`): spec → signature →
@@ -312,7 +314,9 @@ grounding is the promote step (human), and canon relation is only ever a flag
 | 7 | remaining categories ingested (plot, theory); overview v2; NovelClaims for verified T2 theory into the graph | coverage 680/680; open-question backlog owned |
 
 Each phase ends with `python3 scripts/wiki_lint.py`, `/verifying-completion`
-and a `Plan/sessions/<date>-learnings.md` entry.
+and a `Plan/sessions/<date>-learnings.md` entry. Which surveyed repo each
+deliverable follows, and which pack skill teaches its LLM part, is in
+[integration-plan_2026-09-15.md](integration-plan_2026-09-15.md) (adds D-W10, D-W11).
 
 ## 9. Open risks
 
