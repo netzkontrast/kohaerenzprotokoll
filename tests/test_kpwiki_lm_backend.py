@@ -47,9 +47,10 @@ def test_cli_roles_map_to_claude_aliases(monkeypatch):
     assert lm.model_id("worker") == "claude/haiku"
     monkeypatch.setenv("KP_LM_CLI_WORKER", "claude/sonnet")
     assert lm.model_id("worker") == "claude/sonnet"
-    # API-side overrides never leak into the CLI backend.
+    # API-side overrides never leak into the CLI backend, and the user is told so.
     monkeypatch.setenv("KP_LM_TASK", "anthropic/claude-sonnet-5")
-    assert lm.model_id("task") == "claude/opus"
+    with pytest.warns(RuntimeWarning, match="KP_LM_TASK.*ignored"):
+        assert lm.model_id("task") == "claude/opus"
 
 
 def test_cli_lm_is_built_without_spawning_and_strips_sampling_kwargs(monkeypatch):
@@ -61,6 +62,16 @@ def test_cli_lm_is_built_without_spawning_and_strips_sampling_kwargs(monkeypatch
     copied = built.copy(rollout_id=3, temperature=0.9)
     assert isinstance(copied, ClaudeLM)
     assert "rollout_id" not in copied.kwargs and "temperature" not in copied.kwargs
+
+
+def test_cli_lm_falls_back_to_default_timeout(monkeypatch):
+    monkeypatch.setenv("KP_LM_BACKEND", "claude-cli")
+    built = lm.build_lm("worker")
+    assert built._prepare_call(prompt="x", messages=None, kwargs={}).timeout_seconds == lm.CLI_TIMEOUT_SECONDS
+    stripped = built.copy(timeout_seconds=None)
+    assert "timeout_seconds" not in stripped.kwargs
+    from tools.kpwiki.local_lm import DEFAULT_TIMEOUT_SECONDS
+    assert stripped._prepare_call(prompt="x", messages=None, kwargs={}).timeout_seconds == DEFAULT_TIMEOUT_SECONDS
 
 
 def test_cli_lm_refuses_cache(monkeypatch):

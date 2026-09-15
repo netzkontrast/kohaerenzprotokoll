@@ -2,7 +2,9 @@
 
 Vendored from Hmbown/dspy-local ``dspy/clients/claude.py`` (MIT,
 docs/dspy-local-LICENSE.txt), adapted to import DSPy 3.2.1's ``BaseLM``
-instead of the fork's package layout. Everything else is unchanged: prompts
+instead of the fork's package layout. Apart from one robustness fix (``_prepare_call`` falls back to
+``DEFAULT_TIMEOUT_SECONDS`` when the kwarg was removed via ``copy(timeout_seconds=None)``),
+everything else is unchanged: prompts
 go to ``claude -p --output-format json`` with the system prompt passed via
 ``--system-prompt``, auth files are copied into an isolated HOME, and
 unsupported features (temperature, max_tokens, rollout_id, cache, tools,
@@ -29,6 +31,7 @@ from dspy.clients.base_lm import BaseLM
 from dspy.dsp.utils.settings import settings as dspy_settings
 
 DEFAULT_CLAUDE_MODEL = "claude/default"
+DEFAULT_TIMEOUT_SECONDS = 120
 DEFAULT_PROBE_PROMPT = "Reply with exactly one word: ready"
 DEFAULT_USAGE = {
     "prompt_tokens": 0,
@@ -644,7 +647,8 @@ class ClaudeLM(BaseLM):
         isolate_home = bool(call_kwargs.pop("isolate_home", self.isolate_home))
         merged_kwargs = {**self.kwargs, **call_kwargs}
         self._validate_runtime_kwargs(dict(merged_kwargs), cache=bool(cache_value))
-        timeout_seconds = int(merged_kwargs.pop("timeout_seconds"))
+        timeout = merged_kwargs.pop("timeout_seconds", None)
+        timeout_seconds = int(DEFAULT_TIMEOUT_SECONDS if timeout is None else timeout)
         parts = build_prompt(prompt=prompt, messages=messages)
         return ClaudeCallOptions(
             prompt=parts.prompt,

@@ -25,11 +25,23 @@ from .clarify_metric import clarify_metric
 ROOT = Path(__file__).resolve().parents[2]
 
 
+def resolve_source(path: str) -> Path:
+    """Repo-relative path → absolute path inside the repo; absolute or escaping paths are refused."""
+    candidate = (ROOT / path).resolve()
+    try:
+        inside = not Path(path).is_absolute() and candidate.relative_to(ROOT) is not None
+    except ValueError:
+        inside = False
+    if not inside:
+        raise SystemExit(f"--source must be a repo-relative path inside the repository: {path!r}")
+    return candidate
+
+
 def read_excerpt(spec: str) -> str:
     """``path:start-end`` → the cited lines (1-based, inclusive)."""
     path, _, span = spec.rpartition(":")
     start, _, end = span.partition("-")
-    lines = (ROOT / path).read_text(encoding="utf-8").splitlines()
+    lines = resolve_source(path).read_text(encoding="utf-8").splitlines()
     first, last = int(start), int(end or start)
     if not 1 <= first <= last <= len(lines):
         raise SystemExit(f"citation {spec} is outside the file ({len(lines)} lines)")

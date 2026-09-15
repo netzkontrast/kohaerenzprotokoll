@@ -9,6 +9,8 @@ lacks scores below the vague original.
 """
 from __future__ import annotations
 
+import re
+
 import dspy
 
 from .clarify import UNSPECIFIED, Clarification
@@ -22,6 +24,20 @@ WEIGHTS = {"meaning": 0.30, "scope": 0.15, "hedges": 0.15, "bindings": 0.15, "qu
 ENGLISH_FUNCTION_WORDS = (" the ", " and ", " is ", " not ")
 
 
+INFLECTION_SUFFIXES = ("en", "es", "er", "e", "n", "s")
+
+
+def mentions(text: str, term: str) -> bool:
+    """Whole-word, case-insensitive match that tolerates a German inflection suffix.
+
+    ``Juna`` is found in ``Junas``, ``Kernwelt`` in ``Kernwelten``; ``Kern`` is
+    NOT found in ``Kernwelt`` and ``KW2`` is NOT found in ``KW20``.
+    """
+    suffix = "|".join(INFLECTION_SUFFIXES)
+    pattern = rf"(?<!\w){re.escape(term)}(?:{suffix})?(?!\w)"
+    return re.search(pattern, text, flags=re.IGNORECASE) is not None
+
+
 def _present(text: str, markers: tuple[str, ...]) -> set[str]:
     padded = f" {text.lower()} "
     return {m for m in markers if f" {m} " in padded}
@@ -33,10 +49,10 @@ def _count(text: str, markers: tuple[str, ...]) -> int:
 
 
 def _meaning(c: Clarification, gold, context: str, glossary: list[str]) -> tuple[float, list[str]]:
-    out = c.clarified_text.lower()
-    new_terms = [g for g in glossary if g.lower() in out and g.lower() not in context.lower()]
+    out = c.clarified_text
+    new_terms = [g for g in glossary if mentions(out, g) and not mentions(context, g)]
     bound = {b.mention.lower() for b in c.bindings}
-    dropped = [e for e in gold.entities if e.lower() not in out and e.lower() not in bound]
+    dropped = [e for e in gold.entities if not mentions(out, e) and e.lower() not in bound]
     new_quant = sorted(_present(c.clarified_text, QUANTIFIERS) - _present(context, QUANTIFIERS))
     score = 1.0 - min(1.0, 0.5 * (len(new_terms) + len(dropped) + len(new_quant)))
     parts = []
@@ -51,7 +67,7 @@ def _meaning(c: Clarification, gold, context: str, glossary: list[str]) -> tuple
 
 def _scope(c: Clarification, context: str) -> tuple[float, list[str]]:
     values = (c.scope.world, c.scope.act, c.scope.part)
-    ungrounded = [v for v in values if v != UNSPECIFIED and v.lower() not in context.lower()]
+    ungrounded = [v for v in values if v != UNSPECIFIED and not mentions(context, v)]
     return (0.0 if ungrounded else 1.0,
             [f"Scope values not found in the source: {ungrounded}; use 'unspecified'."] if ungrounded else [])
 

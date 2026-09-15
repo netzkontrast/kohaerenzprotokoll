@@ -59,3 +59,26 @@ def test_missing_clarification_scores_zero():
 
 def test_gate_has_one_named_predictor():
     assert [n for n, _ in ClarifyGate().named_predictors()] == ["clarify.predict"]
+
+
+def test_entity_check_matches_whole_words_only():
+    from tools.kpwiki.clarify_metric import mentions
+
+    assert mentions("Junas Haus in KW2.", "Juna")            # German inflection suffix
+    assert mentions("die Kernwelten", "Kernwelt")
+    assert not mentions("die Kernwelt", "Kern")               # substring is not a mention
+    assert not mentions("Sektor KW20", "KW2")
+    gold = dspy.Example(claim_text="Der Kern bleibt.", source_excerpt="Der Kern der Kernwelt bleibt.",
+                        entities=["Kern"], glossary_terms="", canon_context="").with_inputs("claim_text")
+    pred = dspy.Prediction(clarification=Clarification(clarified_text="Die Kernwelt bleibt.", verdict="clear"))
+    result = clarify_metric(gold, pred)
+    assert result.score < 1.0 and "Dropped entities: ['Kern']" in result.feedback
+
+
+def test_cli_refuses_sources_outside_the_repo():
+    from tools.kpwiki.clarify_cli import ROOT, resolve_source
+
+    assert resolve_source("CLAUDE.md") == ROOT / "CLAUDE.md"
+    for bad in ("/etc/hostname", "../CLAUDE.md", str(ROOT.parent / "x.md")):
+        with pytest.raises(SystemExit):
+            resolve_source(bad)
