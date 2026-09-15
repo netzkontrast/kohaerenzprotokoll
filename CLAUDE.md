@@ -141,6 +141,21 @@ status `concept`. Use `novel.resume_session` to recover the id in a fresh sessio
 
 ---
 
+# Knowledge system (research wiki) and DSPy base
+
+The 680 Google-Drive documents in `Plan/research/…quellenindex…` are **research,
+not canon**. They enter the repo through the three-layer knowledge system in
+`Plan/wiki/knowledge-system-concept_2026-09-15.md`: `Sources/` (raw, immutable;
+manifest via `python3 scripts/source_inventory.py`) → `Wiki/` (LLM-maintained,
+human-promoted) → `Canon/` + graph (author-locked, only via a D-xx decision and
+`/ingest`). Every new LLM step is a DSPy program in `tools/kpwiki/`
+(`docs/dspy-base.md`; skills `dspy-fundamentals`, `dspy-evaluation-harness`,
+`dspy-gepa-optimizer`, `dspy-rlm-module`, `dspy-advanced-workflow`) — typed
+Signatures, closed enums, rich-feedback metrics; no prompt strings.
+`scripts/setup_dspy.sh` builds `.venv-dspy` and runs the offline smoke test.
+
+---
+
 # Novel capability — full reference (Spec 101 master)
 
 The `novel` capability is the engine for authoring this book. **91 verbs**
