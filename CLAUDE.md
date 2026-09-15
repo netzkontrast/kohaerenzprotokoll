@@ -192,10 +192,15 @@ Skipping the conceptualizer's hard gate is a red flag → walk the `novel-concep
 
 The lit-critic gate is repo-local, not an agency verb: `python3
 scripts/lit_critic_gate.py --chapter N` (exit 0 pass · 1 blocking · 2 could not
-run). It reads the chapter prose through seven editorial lenses against
-`tools/lit-critic/CANON.md` + `STYLE.md` and writes
+run). Two stages: the decidable **chapter lints** from `scripts/lint_chapter.py`
+(lexical, free, no key — `--locks-only` runs them alone; VIOLATION blocks, WARN
+is advisory) and the **seven editorial lenses** against
+`tools/lit-critic/CANON.md` + `STYLE.md`. Writes
 `Plan/quality/lit-critic/kap-NN.md`. Only `critical` findings block; the
-`horizon` lens never does. Walk the `lit-critic` skill before triaging findings.
+`horizon` lens never does. A lint proves a forbidden word is absent — it can
+never show that something required is missing. `lint_chapter.py` is the single
+encoding of those rules (the post-tool-use hook runs it too); never restate them
+elsewhere. Walk the `lit-critic` skill before triaging findings.
 
 ## Storyform coherence (Spec 120)
 
@@ -400,7 +405,8 @@ Before the ladder, two deterministic repo gates: `scripts/check_enrichment.py`
 (an enrichment pass may only insert prose) and the Readiness Gate in
 `Plan/drafting/chapter-enrichment-masterplan_2026-09-11.md` §F. The lit-critic
 gate needs `scripts/setup_lit_critic.sh` plus an `ANTHROPIC_API_KEY`; without a
-key it exits 2 (**never** a pass). Tests: `.lit-critic-src/.venv/bin/python -m
+key it exits 2 (**never** a pass), though `--locks-only` runs the chapter lints
+free of charge and reports `LINT PASS` so it is not mistaken for a full run. Tests: `.lit-critic-src/.venv/bin/python -m
 pytest tests/`.
 
 Walkable skills carry the hard gates (`develop.skill_walk(name, inputs)` —

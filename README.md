@@ -43,9 +43,11 @@ Bevor ein Kapitel den Status wechselt (`drafted` → `revised` → `final`), lau
 2. `python3 scripts/check_enrichment.py` — eine Anreicherung darf Prosa nur einfügen, nie umschreiben.
 3. Readiness Gate, [Enrichment-Masterplan](Plan/drafting/chapter-enrichment-masterplan_2026-09-11.md) §F.
 4. `python3 scripts/lit_critic_gate.py --chapter N` — [lit-critic](https://github.com/lit-pack/lit-critic)
-   liest die Prosa durch sieben redaktionelle Linsen gegen [tools/lit-critic/CANON.md](tools/lit-critic/CANON.md)
-   und [STYLE.md](tools/lit-critic/STYLE.md). Einmalig einrichten mit `scripts/setup_lit_critic.sh`;
-   benötigt `ANTHROPIC_API_KEY`. Nur `critical`-Findings blockieren.
+   prüft zuerst die dekidierbaren Kapitel-Lints ([scripts/lint_chapter.py](scripts/lint_chapter.py),
+   lexikalisch und kostenlos) und liest die Prosa dann durch sieben redaktionelle Linsen gegen
+   [tools/lit-critic/CANON.md](tools/lit-critic/CANON.md) und [STYLE.md](tools/lit-critic/STYLE.md).
+   Einmalig einrichten mit `scripts/setup_lit_critic.sh`; die Linsen benötigen `ANTHROPIC_API_KEY`,
+   die Lints laufen mit `--locks-only` auch ohne. Nur `critical`-Findings blockieren.
    Berichte: [Plan/quality/lit-critic/](Plan/quality/lit-critic/).
 5. Die Agency-Gate-Leiter (`line_gate`, `copy_gate`, …).
 

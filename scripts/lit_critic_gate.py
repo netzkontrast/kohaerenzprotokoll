@@ -7,13 +7,20 @@
     python3 scripts/lit_critic_gate.py --chapter 4 --report-only
 
 The gate projects the chapters into lit-critic scenes (see
-``lit_critic_project.py``), runs the seven editorial lenses over them, maps every
-finding back to the chapter file and line the author edits, writes a report under
-``Plan/quality/lit-critic/`` and exits:
+``lit_critic_project.py``), folds in the decidable chapter lints from
+``lint_chapter.py``, runs the seven editorial lenses over them, maps
+every finding back to the chapter file and line the author edits, writes a report
+under ``Plan/quality/lit-critic/`` and exits:
 
     0  no blocking findings — the chapter may move on in the gate ladder
     1  at least one blocking finding
     2  the gate could not run (no API key, missing install, projection error)
+
+The chapter lints are the repo's own decidable rules — the R-rules, the Act-I
+fences, the chapter file format. They live in ``lint_chapter.py``, which the
+post-tool-use hook also runs, so there is exactly ONE encoding of those rules;
+this gate consumes it rather than restating it. They need no API key, so
+``--locks-only`` gives a real (if partial) gate result on any machine.
 
 **Blocking policy:** only ``critical`` findings block. ``major`` and ``minor`` are
 reported as advisory. The ``horizon`` lens never blocks at any severity — it
@@ -44,11 +51,14 @@ REPORT_DIR = ROOT / "Plan/quality/lit-critic"
 BLOCKING_SEVERITIES = {"critical"}
 NON_BLOCKING_LENSES = {"horizon"}
 SEVERITY_ORDER = {"critical": 0, "major": 1, "minor": 2}
+LOCKS_ONLY_MODE = "locks-only"
+LINT_LENS = "chapter-lint"
 
 EXIT_PASS, EXIT_BLOCKED, EXIT_UNAVAILABLE = 0, 1, 2
 
 sys.path.insert(0, str(ROOT / "scripts"))
 import lit_critic_project as proj  # noqa: E402
+import lint_chapter  # noqa: E402
 
 
 def reexec_in_venv() -> None:
@@ -211,6 +221,44 @@ def collect_findings(SnapshotStore, get_connection, project_dir: Path,
     return findings, analysed, run_models
 
 
+def chapter_lint_findings(chapters: list[int]) -> list[dict]:
+    """Run lint_chapter over the selected chapters, in the gate's finding shape.
+
+    lint_chapter already reports chapter files and chapter line numbers, so
+    these findings arrive pre-located and skip the scene mapping entirely.
+    VIOLATION blocks the gate; WARN is advisory.
+    """
+    by_number = {proj.chapter_number(path): path for path in proj.chapter_files()}
+    findings: list[dict] = []
+    for chapter in chapters:
+        path = by_number.get(chapter)
+        if path is None:
+            continue
+        for lint in lint_chapter.lint_file(path):
+            findings.append({
+                "number": 0,
+                "severity": "critical" if lint.level == "VIOLATION" else "major",
+                "lens": LINT_LENS,
+                "location": f"{Path(lint.file).name}:{lint.line}",
+                "line_start": None,
+                "line_end": None,
+                "scene_file": "",
+                "scene_heading": f"Kapitel {chapter} — {lint.code}",
+                "evidence": f"{lint.message}" + (f" — {lint.excerpt}" if lint.excerpt else ""),
+                "impact": f"Dekidierbare Regel {lint.code} (scripts/lint_chapter.py).",
+                "options": ["Die Stelle gegen die zitierte Kanonquelle prüfen und korrigieren."],
+                "flagged_by": [LINT_LENS, lint.code],
+                "state": "active",
+                "chapter_file": lint.file,
+                "chapter_number": chapter,
+                "chapter_line": lint.line,
+                "chapter_line_end": lint.line,
+            })
+    for number, finding in enumerate(findings, start=1):
+        finding["number"] = number
+    return findings
+
+
 def is_blocking(finding: dict) -> bool:
     return (
         finding["state"] == "active"
@@ -222,6 +270,8 @@ def is_blocking(finding: dict) -> bool:
 def attach_locations(findings: list[dict], scenes_by_file: dict[str, dict]) -> None:
     """Point every finding at the chapter file and line the author edits."""
     for finding in findings:
+        if finding.get("chapter_file"):
+            continue                       # already located (chapter lints)
         scene = scenes_by_file.get(finding["scene_file"])
         if scene is None:
             finding["chapter_file"] = ""
@@ -244,6 +294,8 @@ def sort_key(finding: dict) -> tuple:
 
 
 def render_report(chapter: int, findings: list[dict], mode: str, resolved: dict) -> str:
+    """Render one chapter's report. A locks-only run says so: it is not a full gate."""
+    partial = mode == LOCKS_ONLY_MODE
     blocking = [f for f in findings if is_blocking(f)]
     counts: dict[str, int] = {}
     for finding in findings:
@@ -259,8 +311,11 @@ def render_report(chapter: int, findings: list[dict], mode: str, resolved: dict)
         + (f", frontier `{resolved['frontier_model']}`" if resolved.get("frontier_model") else "")
         + ")",
         f"- Findings: {tally}",
-        f"- Gate: **{'BLOCKED' if blocking else 'PASS'}**"
-        + (f" — {len(blocking)} blockierend" if blocking else " — keine kritischen Findings"),
+        f"- Gate: **{'BLOCKED' if blocking else ('LINT PASS' if partial else 'PASS')}**"
+        + (f" — {len(blocking)} blockierend" if blocking
+           else (" — Kapitel-Lints sauber; die sieben Linsen sind NICHT gelaufen, "
+                 "das ist kein vollständiges Gate-Ergebnis" if partial
+                 else " — keine kritischen Findings")),
         "",
         "Findings sind Vorschläge, keine Urteile. Prüfe jedes gegen `Canon/` und den",
         "Kapitelplan, bevor du Prosa änderst; ein Finding, das Kanon falsch liest, wird",
@@ -296,6 +351,9 @@ def render_report(chapter: int, findings: list[dict], mode: str, resolved: dict)
 
 
 def run(args: argparse.Namespace) -> int:
+    if args.locks_only:
+        return run_locks_only(args)
+
     (AnalysisEngine, get_connection, SnapshotStore,
      env_vars, resolve_model, resolve_models_for_mode) = load_lit_critic()
 
@@ -344,6 +402,7 @@ def run(args: argparse.Namespace) -> int:
         except Exception as exc:  # the run is worthless if the engine failed
             fail_unavailable(f"analysis failed: {exc}")
 
+    lock_findings = chapter_lint_findings(args.chapters)
     findings, analysed, run_models = collect_findings(
         SnapshotStore, get_connection, PROJECT_DIR, scene_paths
     )
@@ -354,21 +413,53 @@ def run(args: argparse.Namespace) -> int:
             if args.report_only else
             "the engine returned without persisting a snapshot; re-run and check its output",
         )
+    findings = lock_findings + findings
     attach_locations(findings, scenes_by_file)
     # Report the run that produced these findings, not the configuration that
     # happens to be active now.
     resolved = {**resolved, **{k: v for k, v in run_models.items() if v}}
     mode = run_models.get("mode") or args.mode
 
+    exit_code = write_reports(args.chapters, findings, mode, resolved)
+
+    orphans = [f for f in findings if f.get("chapter_number") not in args.chapters]
+    if orphans:
+        print(f"  note: {len(orphans)} findings could not be mapped to a requested chapter")
+
+    return exit_code
+
+
+def run_locks_only(args: argparse.Namespace) -> int:
+    """Run only the chapter-scoped canon locks — no API key, no cost."""
+    if not args.no_projection:
+        proj.build_project(PROJECT_DIR)
+    manifest = proj.load_manifest(PROJECT_DIR)
+    scenes = proj.scenes_for_chapters(manifest, args.chapters)
+    if not scenes:
+        fail_unavailable(
+            f"no projected scenes for chapter(s) {', '.join(map(str, args.chapters))}",
+            "run: python3 scripts/lit_critic_project.py --check",
+        )
+
+    findings = chapter_lint_findings(args.chapters)
+    print(f"chapter lints over {len(scenes)} scenes in chapter(s) "
+          f"{', '.join(map(str, args.chapters))} — lenses skipped")
+    return write_reports(args.chapters, findings, LOCKS_ONLY_MODE, {"checker_model": "—"})
+
+
+def write_reports(chapters: list[int], findings: list[dict], mode: str,
+                  resolved: dict) -> int:
+    """Write one report per chapter and return the gate's exit code."""
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
     blocking_total = 0
-    for chapter in args.chapters:
+    for chapter in chapters:
         chapter_findings = [f for f in findings if f.get("chapter_number") == chapter]
         blocking = [f for f in chapter_findings if is_blocking(f)]
         blocking_total += len(blocking)
 
         report = REPORT_DIR / f"kap-{chapter:02d}.md"
-        report.write_text(render_report(chapter, chapter_findings, mode, resolved), encoding="utf-8")
+        report.write_text(render_report(chapter, chapter_findings, mode, resolved),
+                          encoding="utf-8")
         (REPORT_DIR / f"kap-{chapter:02d}.json").write_text(
             json.dumps({
                 "chapter": chapter,
@@ -380,19 +471,18 @@ def run(args: argparse.Namespace) -> int:
             }, indent=2, ensure_ascii=False) + "\n",
             encoding="utf-8",
         )
-
         status = f"BLOCKED ({len(blocking)} critical)" if blocking else "pass"
-        print(f"  Kap {chapter:>2}: {len(chapter_findings):>3} findings — {status} → {report.relative_to(ROOT)}")
-
-    orphans = [f for f in findings if f.get("chapter_number") not in args.chapters]
-    if orphans:
-        print(f"  note: {len(orphans)} findings could not be mapped to a requested chapter")
+        print(f"  Kap {chapter:>2}: {len(chapter_findings):>3} findings — {status} "
+              f"→ {report.relative_to(ROOT)}")
 
     if blocking_total:
         print(f"\nlit-critic gate BLOCKED — {blocking_total} critical finding(s). "
               f"Read the report, then fix or reject each one.")
         return EXIT_BLOCKED
-
+    if mode == LOCKS_ONLY_MODE:
+        print("\nchapter lints PASS — no decidable-rule violations. The seven lenses "
+              "did NOT run, so this is not a full gate result.")
+        return EXIT_PASS
     print("\nlit-critic gate PASS — no critical findings.")
     return EXIT_PASS
 
@@ -417,6 +507,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--report-only", action="store_true",
                         help="re-render reports from the last stored analysis "
                              "without running the lenses (no API key needed)")
+    parser.add_argument("--locks-only", action="store_true",
+                        help="run only the decidable chapter lints "
+                             "(lint_chapter.py; free, no API key needed)")
     args = parser.parse_args(argv)
 
     args.chapters = changed_chapters(args.base) if args.changed else parse_chapters(args.chapter)

@@ -37,7 +37,8 @@ CHAPTERS = ROOT / (
 )
 
 STATUS_ENUM = ("outlined", "drafted", "revised", "final")
-ACT_I = range(1, 14)          # Kap 1–13 — Multiplizitäts-Schleier intact
+ACT_I = range(1, 14)          # Kap 1–13 — Akt I
+VEIL = range(1, 13)           # Kap 1–12 — the veil falls inside Kap 13 itself
 BEFORE_NAME = range(1, 9)     # D-05: "Kael" first appears in Kap 9
 VORTEX_1 = (35, 36)           # R-5 canonical exception: Vortex 1 Beat 4
 
@@ -50,7 +51,20 @@ FENCE = re.compile(r"^```.*?^```", re.M | re.S)
 # --- rule tables --------------------------------------------------------
 # (code, level, chapters, regex, message). `None` for chapters = all.
 DKT_TERMS = r"\b(Coheron\w*|Erason\w*|Landauer\w*|Kohärenzfeld\w*|Dual-Kernel\w*|DKT)\b"
-R3_TERMS = r"\b(Fragment\w*|ANPs?|EPs?|TSDP|DID|Anteile?|Multiplizität\w*|Dissoziation\w*)\b"
+# Unambiguous clinical vocabulary — a hit is always a veil breach.
+R3_CLINICAL = r"\b(ANPs?|EPs?|TSDP|DID|Multiplizität\w*|Dissoziation\w*|dissoziativ\w*|Alter-Ego)\b"
+# Anteil / Fragment / System are everyday German. Only person-referring uses
+# name the plurality: "ein Anteil von mir" does, "ein Anteil der Sequenzen" and
+# "Systemhum" do not. The bare words stay a WARN below as a safety net.
+R3_COLLOCATION = (
+    r"\b(?:Anteile?n?|Fragmente?n?|Systeme?)\s+(?:in|von)\s+(?:mir|ihm|ihr|uns)\b"
+    r"|\b(?:Anteil|Fragment|System)\s+"
+    r"(?:spricht|sprach|sagt|sagte|antwortet|antwortete|denkt|dachte|will|wollte|"
+    r"übernimmt|übernahm|meldet|meldete)\b"
+    r"|\b[Ii]ch\s+bin\s+(?:ein|eins?\s+der)\s+(?:Anteil|Fragment)\w*\b"
+    r"|\b(?:[Ee]iner|[Ee]ins)\s+(?:meiner|der)\s+(?:Anteile|Fragmente)\b"
+)
+R3_BARE = r"\b(Fragment\w*|Anteile?n?)\b"
 VOICE_NAMES = (
     "Kael|Lex|Alex|Rhys|Selene|Nyx|Kiko|Lia|Isabelle|Moros|Argus|Silas|Oblivion|"
     "AEGIS|Mnemosyne|Juna"
@@ -61,8 +75,12 @@ BODY_RULES = [
      "Drafting-Brief §3: der Name AEGIS erscheint in Akt I nie im leserseitigen Text"),
     ("ACT1-DKT", "VIOLATION", ACT_I, DKT_TERMS,
      "Drafting-Brief §3 / Begriffe §14: keine DKT-Fachbegriffe in Akt I"),
-    ("ACT1-R3", "WARN", ACT_I, R3_TERMS,
-     "R-3: Multiplizitäts-Schleier — Alter/Fragment/ANP/EP/TSDP/DID/Anteil fallen nicht in Akt I"),
+    ("ACT1-R3", "VIOLATION", VEIL, R3_CLINICAL,
+     "R-3: klinische Multiplizitäts-Terminologie fällt vor Kap 13 nicht"),
+    ("ACT1-R3-PERSON", "VIOLATION", VEIL, R3_COLLOCATION,
+     "R-3: Anteil/Fragment/System nicht in personenbezogener Verwendung vor Kap 13"),
+    ("ACT1-R3-BARE", "WARN", VEIL, R3_BARE,
+     "R-3: Anteil/Fragment im Alltagssinn — prüfen, ob die Stelle den Schleier lüftet"),
     ("ACT1-JUNA", "VIOLATION", ACT_I, r"\bJunas?\b",
      "R-10 / Drafting-Brief §3: Juna nie als Name in Akt I"),
     ("NAME-KAEL", "VIOLATION", BEFORE_NAME, r"\bKaels?\b",

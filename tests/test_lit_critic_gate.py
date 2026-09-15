@@ -129,6 +129,55 @@ def test_report_says_pass_when_nothing_blocks():
 
 
 # --------------------------------------------------------------------------
+# The chapter-lint adapter: lint_chapter is the single rule encoding, and the
+# gate consumes it rather than restating it.
+# --------------------------------------------------------------------------
+
+def test_chapter_lint_findings_arrive_pre_located():
+    """lint_chapter reports chapter files and lines, so these skip scene mapping."""
+    found = gate.chapter_lint_findings([1, 2])
+    assert all(f["chapter_file"] for f in found)
+    assert all(f["chapter_line"] for f in found)
+    assert all(f["lens"] == gate.LINT_LENS for f in found)
+    assert {f["chapter_number"] for f in found} <= {1, 2}
+
+
+def test_attach_locations_leaves_pre_located_findings_alone():
+    pre_located = {
+        "scene_file": "", "line_start": None, "line_end": None,
+        "chapter_file": "chapters/07-x.md", "chapter_number": 7, "chapter_line": 91,
+    }
+    gate.attach_locations([pre_located], {})
+    assert pre_located["chapter_line"] == 91, "a chapter lint must not be re-mapped"
+    assert pre_located["chapter_file"] == "chapters/07-x.md"
+
+
+def test_lint_levels_map_onto_the_blocking_policy(monkeypatch):
+    """VIOLATION blocks the gate; WARN is advisory."""
+    import lint_chapter
+
+    fake = [
+        lint_chapter.Finding("chapters/04-x.md", 10, "VIOLATION", "ACT1-AEGIS", "m", "e"),
+        lint_chapter.Finding("chapters/04-x.md", 12, "WARN", "R5-HEAT", "m", "e"),
+    ]
+    monkeypatch.setattr(lint_chapter, "lint_file", lambda path: fake)
+    found = gate.chapter_lint_findings([4])
+    by_code = {f["flagged_by"][1]: f for f in found}
+    assert by_code["ACT1-AEGIS"]["severity"] == "critical"
+    assert gate.is_blocking(by_code["ACT1-AEGIS"]) is True
+    assert by_code["R5-HEAT"]["severity"] == "major"
+    assert gate.is_blocking(by_code["R5-HEAT"]) is False
+    assert [f["number"] for f in found] == [1, 2]
+
+
+def test_act_one_is_lint_clean_through_the_gate():
+    """Regression: Akt I carries no blocking chapter lint today."""
+    found = gate.chapter_lint_findings(list(range(1, 14)))
+    blocking = [f for f in found if gate.is_blocking(f)]
+    assert blocking == [], "\n".join(f"{f['location']}: {f['evidence']}" for f in blocking)
+
+
+# --------------------------------------------------------------------------
 # End-to-end read-back through a real lit-critic database
 # --------------------------------------------------------------------------
 

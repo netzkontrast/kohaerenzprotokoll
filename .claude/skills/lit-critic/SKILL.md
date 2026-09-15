@@ -46,6 +46,53 @@ The pin lives in `setup_lit_critic.sh`. Bump it deliberately, then re-run
 `pytest tests/` — the gate reads lit-critic's internals, so an upstream refactor
 shows up there first.
 
+## Two stages: chapter lints, then lenses
+
+The gate runs in two passes, and they answer different questions.
+
+**1. Chapter lints** — `scripts/lint_chapter.py`, the repo's single encoding of
+its decidable prose rules: the Act-I fences (`AEGIS`, DKT terminology, Juna's
+name), D-05 (Kael nameless before Kap 9), the R-3 veil vocabulary through
+Kap 12, R-5 heat polarity, R-8, R-9, voice labels and the chapter file format.
+Lexical, free, instant, no API key. The post-tool-use hook runs the same script,
+so there is exactly **one** rule table — the gate consumes it rather than
+restating it. A `VIOLATION` becomes a `critical` gate finding and blocks; a
+`WARN` becomes `major` and is advisory.
+
+**2. The seven lenses** — LLM, costs money, needs a key. Everything the lints
+cannot reach.
+
+The split matters when you read a result: **a lint can only prove a forbidden
+word is absent.** No lint can tell you the ozone signature is missing from a
+scene, that R-2 was broken, or that a Genesis echo was stacked — those need
+context, and that is what the lenses are for. A clean lint run is not a clean
+chapter.
+
+Run the lints alone with `--locks-only`; the verdict says `LINT PASS` and the
+report states that the lenses did not run, precisely so it is never mistaken for
+a full gate result.
+
+### Changing a rule
+
+The rule table is `BODY_RULES` in `scripts/lint_chapter.py`. Each entry carries
+its chapter range and the canon source it encodes. To change one:
+
+1. change the canon source first — the rule encodes it, never the reverse;
+2. edit the `BODY_RULES` entry and its message;
+3. add a synthetic positive and a scope-boundary case to
+   `tests/test_lint_chapter_rules.py`.
+
+The tests are not optional here. Most of these rules fire nowhere in the current
+manuscript, so scanning real chapters proves nothing about their patterns — a
+broken regex and a clean manuscript look identical. The case-sensitivity bug in
+the R-3 collocation rule was caught exactly this way.
+
+**Do not add a rule that needs context to judge.** Anteil, Fragment and System
+are everyday German; they only block in person-referring collocation („ein
+Anteil von mir"), and stay a `WARN` when bare („ein Anteil der Sequenzen",
+„Systemhum"). Rules like „max. 1 Konzept pro Szene" or „keine Namen außer
+Doran" are not lexically decidable at all and belong to the lenses.
+
 ## Running the gate
 
 ```bash
@@ -54,6 +101,8 @@ python3 scripts/lit_critic_gate.py --chapter 1-5        # a range
 python3 scripts/lit_critic_gate.py --changed            # every chapter changed vs origin/main
 python3 scripts/lit_critic_gate.py --chapter 4 --mode quick     # cheaper checker tier
 python3 scripts/lit_critic_gate.py --chapter 4 --report-only    # re-render, no API call
+python3 scripts/lit_critic_gate.py --chapter 1-13 --locks-only  # chapter lints only, free
+python3 scripts/lint_chapter.py                                 # the lints alone, all chapters
 ```
 
 Exit codes: **0** pass · **1** blocking findings · **2** the gate could not run.
@@ -147,6 +196,7 @@ book. They are **compilations** of `Canon/` and
 | Task | File |
 |---|---|
 | bump the upstream pin | `scripts/setup_lit_critic.sh` |
+| add or rescope a decidable rule | `scripts/lint_chapter.py` + `tests/test_lint_chapter_rules.py` |
 | change how chapters split into scenes | `scripts/lit_critic_project.py` |
 | change the blocking policy or the report | `scripts/lit_critic_gate.py` |
 | the rules lit-critic checks | `tools/lit-critic/CANON.md`, `STYLE.md` |
@@ -168,3 +218,9 @@ they must stay green.
 - lit-critic's own auto-extracted knowledge (characters, terms, threads) lives
   in `.lit-critic/project/.lit-critic.db` and is disposable — delete the file to
   force a clean re-extraction.
+- lit-critic's built-in deterministic stage reads `never use "X"` rules out of
+  STYLE.md, but those rules are **global**, and ours are chapter-scoped —
+  `AEGIS` is forbidden in Akt I and required from Kap 14. That is why the
+  scoping lives in `lint_chapter.py`. Our STYLE.md deliberately carries no rules
+  in that format; the built-in stage therefore only checks `@@META` validity and
+  whitespace.
