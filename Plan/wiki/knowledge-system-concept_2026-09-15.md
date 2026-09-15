@@ -264,6 +264,7 @@ grounding is the promote step (human), and canon relation is only ever a flag
 | D-W6 | Superseded drafts (T1): ingest as sources anyway (for the "timeline of an idea") or only link them? | ingest claims, but mark `superseded_by`; they never raise questions alone |
 | D-W7 | Which categories are out of scope for questioning canon (e.g. AEGIS docs pre-dating the Act-I naming decision)? | none excluded; the decision log answers them |
 | D-W8 | Register the DSPy marketplace in `.claude/settings.json` (blocked for the agent this session)? | yes — snippet in `docs/dspy-base.md` |
+| D-W9 | May Google-Drive document ids and titles live in this public CC0 repo (`Sources/manifest.jsonl`, the source index)? | ids are not credentials, but drop the 13 appendix (`T4`) rows and review titles of personal documents before Phase 2 |
 
 ## 8. Setup plan for this repo
 
