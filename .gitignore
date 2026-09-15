@@ -1,1 +1,5 @@
-scripts/__pycache__/
+__pycache__/
+.pytest_cache/
+# lit-critic — pinned upstream clone + generated project projection (scripts/setup_lit_critic.sh)
+.lit-critic-src/
+.lit-critic/

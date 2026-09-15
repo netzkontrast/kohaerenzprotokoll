@@ -17,6 +17,7 @@ Start with [PROJECT_REFERENCES.md](./PROJECT_REFERENCES.md). It defines current 
 - [dramatica-vocabulary](./dramatica-vocabulary/SKILL.md) — exact structural terminology and story-expression mapping.
 - [ncp-author](./ncp-author/SKILL.md) — encoded Storyform/NCP validation and controlled mutations.
 - [novel-architect-legacy](./novel-architect-legacy/SKILL.md) — historical evidence only; current-first comparison workflow.
+- [lit-critic](./lit-critic/SKILL.md) — editorial prose gate: run lit-critic over a chapter, read its report, triage findings against canon.
 
 ## Current project state encoded in these skills
 
