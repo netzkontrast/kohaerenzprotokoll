@@ -40,6 +40,7 @@ DETERMINISTIC TOOLS:
   python3 scripts/lint_chapter.py [file]      — R-rule / Act-I fence lint (also runs as hook)
   python3 scripts/render_codex_views.py       — Codex/GLOSSARY, MASTER-TIMELINE, WORLD-AXIOMS from graph
   python3 scripts/check_enrichment.py         — prose was only inserted, never altered
+  python3 scripts/lit_critic_gate.py --chapter N — LLM editorial gate (skill: lit-critic; needs ANTHROPIC_API_KEY)
   python3 scripts/research-tool.py search …   — open-access paper search/download
 
 ENGINE: agency graph verbs (novel.*) record provenance; prefer them over raw edits.

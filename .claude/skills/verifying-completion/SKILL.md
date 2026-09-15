@@ -36,6 +36,9 @@ For EVERY file created or modified:
    entry (D-xx) or `record_storyform_decision`; lesson captured via `reflect_note`
 8. **Self-review checklist** — Canon welt-sensorik §10.3 walked per scene; Chapter
    Readiness Gate (enrichment masterplan) for drafted chapters
+9. **Status flips** — before `drafted → revised → final`, the lit-critic gate has run
+   (`python3 scripts/lit_critic_gate.py --chapter N`, skill `lit-critic`) and no
+   `critical` finding is open
 
 ## Red Flags — DO NOT Declare Complete If:
 

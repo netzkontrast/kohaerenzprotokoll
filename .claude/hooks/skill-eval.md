@@ -4,6 +4,7 @@ If a skill matches: follow its workflow. Skills are mandatory workflows, not sug
 
 Routing for Kohärenz Protokoll (project skills win over generic codex skills):
 - Chapter prose, scenes, beats, continuity → novel-architect-scene (then /verifying-completion).
+- Flipping a chapter status, reading or triaging a lit-critic report → lit-critic skill.
 - Arcs, sequencing, Vortex, dual storyform → novel-architect-structure / dramatica-theory.
 - Anteile, Sprach-DNA, voice register → novel-architect-character.
 - Kernwelten, sensorics, axioms, anomalies → novel-architect-world, then /designing-worlds or /civilization-build only for genuinely new levels.

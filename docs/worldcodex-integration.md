@@ -123,4 +123,6 @@ not merged.
    decision-log entries).
 5. New source material: `/ingest` → manifest → `scripts/ingest_canon.py` → re-render `Codex/`.
 6. Milestones: `/lint-wiki all`, `/full-audit-canon <scope>`, then the composite gates
-   (`developmental_gate`, `line_gate`, …).
+   (`developmental_gate`, `line_gate`, …). Status flips additionally pass the repo's
+   lit-critic gate (`scripts/lit_critic_gate.py`, skill `lit-critic`) — the codex lint is
+   the deterministic pre-check, lit-critic the editorial LLM pass.
