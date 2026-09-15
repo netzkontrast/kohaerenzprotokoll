@@ -23,10 +23,10 @@ serves: [Plan/wiki/knowledge-system-concept_2026-09-15.md](../Plan/wiki/knowledg
 ## Skills (agent-side)
 
 The skill pack [netzkontrast/dspy-agent-skills](https://github.com/netzkontrast/dspy-agent-skills)
-(fork of intertwine/dspy-agent-skills v0.2.3, validated against DSPy 3.2.1;
-114 pack tests and all six `--dry-run` examples pass in this environment) provides
-`dspy-fundamentals`, `dspy-evaluation-harness`, `dspy-gepa-optimizer`,
-`dspy-rlm-module`, `dspy-advanced-workflow`.
+(fork of intertwine/dspy-agent-skills, v0.4.0, validated against DSPy 3.2.1)
+provides `dspy-fundamentals`, `dspy-evaluation-harness`, `dspy-gepa-optimizer`,
+`dspy-rlm-module`, `dspy-rlm-workflow`, `dspy-deep-refine`, `dspy-reflect-loop`,
+`dspy-clarify`, `dspy-advanced-workflow`.
 
 Install for the project by adding the marketplace to `.claude/settings.json`
 (same pattern as the `agency` marketplace already there):
@@ -74,6 +74,9 @@ Anthropic provider reads `ANTHROPIC_API_KEY` (the same key `scripts/lit_critic_g
 | `tools/kpwiki/signatures.py` | `TriageSource`, `ExtractClaims`, `CheckCanonConflict`, `RaiseQuestions` |
 | `tools/kpwiki/programs.py` | `SourceIngest` (triage → cited claims → canon conflicts); retrieval injected as a callable |
 | `tools/kpwiki/metrics.py` | `ingest_metric` — weighted axes + teachable feedback |
+| `tools/kpwiki/clarify.py` | `ClarifyGate` — the precision gate before promotion (skill `dspy-clarify`, command `/clarify`) |
+| `tools/kpwiki/clarify_metric.py` | `clarify_metric` — lexical "never change meaning" rule |
+| `tools/kpwiki/clarify_cli.py` | `python -m tools.kpwiki.clarify_cli --claim … --source path:L-L [--dry-run]` |
 | `tools/kpwiki/smoke.py` | `--dry-run` / `--live` |
 
 ## Conventions for new programs
