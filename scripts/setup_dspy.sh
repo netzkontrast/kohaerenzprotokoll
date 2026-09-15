@@ -5,7 +5,8 @@
 #   scripts/setup_dspy.sh --check    # only run the smoke test + kpwiki tests
 #
 # Needs `uv` (preferred) or python3 -m venv. No API key is needed for the
-# smoke test; live runs read ANTHROPIC_API_KEY (see docs/dspy-base.md).
+# smoke test; live runs read ANTHROPIC_API_KEY or, without it, run through the
+# `claude` CLI (KP_LM_BACKEND=auto; see docs/dspy-base.md "Local runtime").
 set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 VENV="$ROOT/.venv-dspy"
@@ -25,4 +26,4 @@ fi
 cd "$ROOT"
 "$PY" -c 'import dspy; print("dspy", dspy.__version__)'
 "$PY" -m tools.kpwiki.smoke --dry-run
-"$PY" -m pytest tests/test_kpwiki.py -q
+"$PY" -m pytest tests/test_kpwiki.py tests/test_kpwiki_lm_backend.py tests/test_kpwiki_clarify.py tests/test_kpwiki_tetraframe.py -q

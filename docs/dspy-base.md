@@ -23,10 +23,10 @@ serves: [Plan/wiki/knowledge-system-concept_2026-09-15.md](../Plan/wiki/knowledg
 ## Skills (agent-side)
 
 The skill pack [netzkontrast/dspy-agent-skills](https://github.com/netzkontrast/dspy-agent-skills)
-(fork of intertwine/dspy-agent-skills v0.2.3, validated against DSPy 3.2.1;
-114 pack tests and all six `--dry-run` examples pass in this environment) provides
-`dspy-fundamentals`, `dspy-evaluation-harness`, `dspy-gepa-optimizer`,
-`dspy-rlm-module`, `dspy-advanced-workflow`.
+(fork of intertwine/dspy-agent-skills, v0.5.0, validated against DSPy 3.2.1)
+provides `dspy-fundamentals`, `dspy-evaluation-harness`, `dspy-gepa-optimizer`,
+`dspy-rlm-module`, `dspy-rlm-workflow`, `dspy-deep-refine`, `dspy-reflect-loop`,
+`dspy-clarify`, `dspy-tetraframe`, `dspy-advanced-workflow`.
 
 Install for the project by adding the marketplace to `.claude/settings.json`
 (same pattern as the `agency` marketplace already there):
@@ -65,15 +65,63 @@ existing `pytest tests/` run of the repo is unaffected.
 the same source are free. Model strings are DSPy/LiteLLM `provider/model`; the
 Anthropic provider reads `ANTHROPIC_API_KEY` (the same key `scripts/lit_critic_gate.py` uses).
 
+### Backends (`KP_LM_BACKEND`)
+
+| value | LM class | needs | role models |
+|---|---|---|---|
+| `api` | `dspy.LM` (LiteLLM) | `ANTHROPIC_API_KEY` | `KP_LM_TASK` / `KP_LM_WORKER` / `KP_LM_REFLECTION` |
+| `claude-cli` | `ClaudeLM` (`tools/kpwiki/local_lm.py`) | the `claude` CLI logged in to a Claude Code subscription | `KP_LM_CLI_TASK` / `KP_LM_CLI_WORKER` / `KP_LM_CLI_REFLECTION` (defaults `claude/opus`, `claude/haiku`, `claude/opus`) |
+| `auto` (default) | the first of the two that is available | — | `api` if the key is set, else `claude-cli` if `claude` is on PATH, else `api` (fails loudly at first call) |
+
+`python -c 'from tools.kpwiki import lm; print(lm.backend())'` shows which one a
+shell resolves to.
+
+### Local runtime — Claude CLI as the DSPy LM (dspy-local)
+
+`tools/kpwiki/local_lm.py` is the `ClaudeLM` from
+[Hmbown/dspy-local](https://github.com/Hmbown/dspy-local) (MIT,
+`docs/dspy-local-LICENSE.txt`), vendored unchanged except for the imports, so
+the repo stays on DSPy 3.2.1 instead of the fork's 3.1.3. Every DSPy call
+becomes one `claude -p --output-format json --permission-mode plan
+--no-session-persistence [--model …] [--system-prompt …]` process in an
+isolated `HOME` (only the credentials are copied in, the session does not
+touch the working tree). Verified in the remote session of 2026-09-15: a
+`dspy.Predict` with a Pydantic output round-trips through `claude/haiku` in
+~9 s without an API key.
+
+What the CLI backend cannot do, and what that means for the programs:
+
+| limitation | consequence |
+|---|---|
+| no `temperature`, `max_tokens`, `rollout_id` (stripped in `copy()`, rejected in the constructor) | `TetraFrame` corner diversity comes from the four contract docstrings only — read `branch_independence` strictly; GEPA's `reflection_lm` runs at the CLI's default temperature |
+| `cache=False` is mandatory | no `DSPY_CACHEDIR` hits; re-runs cost a call each; keep gold sets small and use `dspy.Evaluate(num_threads=1)` |
+| one completion per call (`n=1`) | `dspy.BestOfN` / `dspy.Refine` still work (they loop), just slower |
+| ~5–10 s latency per call, sequential | budget: a `SourceIngest` run ≈ 3 calls; a `TetraFrame` run ≈ 8 + BestOfN retries; GEPA `auto="light"` on 20 examples ≈ a few hundred calls → run it in the background and set `max_metric_calls` |
+| the CLI's `plan` permission mode | the model cannot execute tools; pure text in, text out — exactly what DSPy needs |
+
+GEPA through the CLI: `configure("task")` for the program,
+`build_lm("reflection")` as `reflection_lm`, `worker` for LM judges via
+`lm_context("worker")`. Start every optimization with `--dry-run`, then a
+baseline on the val split, then `auto="light"`; save
+`tools/kpwiki/artifacts/<program>.json` as with the API backend — artifacts
+are backend-independent (they are instructions + demos).
+
 ### Package map
 
 | file | role |
 |---|---|
-| `tools/kpwiki/lm.py` | `configure(role)`; building an LM never hits the network |
+| `tools/kpwiki/lm.py` | `backend()`, `configure(role)`, `lm_context(role)`; building an LM never hits the network |
+| `tools/kpwiki/local_lm.py` | `ClaudeLM` — DSPy `BaseLM` over the `claude` CLI (vendored from Hmbown/dspy-local) |
 | `tools/kpwiki/schema.py` | Pydantic contract: `Citation`, `Claim`, `Triage`, `CanonConflict`, `OpenQuestion`; closed enums for tier, category, kind, canon relation |
 | `tools/kpwiki/signatures.py` | `TriageSource`, `ExtractClaims`, `CheckCanonConflict`, `RaiseQuestions` |
 | `tools/kpwiki/programs.py` | `SourceIngest` (triage → cited claims → canon conflicts); retrieval injected as a callable |
 | `tools/kpwiki/metrics.py` | `ingest_metric` — weighted axes + teachable feedback |
+| `tools/kpwiki/clarify.py` | `ClarifyGate` — the precision gate before promotion (skill `dspy-clarify`, command `/clarify`) |
+| `tools/kpwiki/clarify_metric.py` | `clarify_metric` — lexical "never change meaning" rule |
+| `tools/kpwiki/clarify_cli.py` | `python -m tools.kpwiki.clarify_cli --claim … --source path:L-L [--dry-run]` |
+| `tools/kpwiki/tetraframe.py` | `TetraFrame` — four isolated corners → cartography → `BestOfN` P* (skill `dspy-tetraframe`, command `/tetraframe`) |
+| `tools/kpwiki/tetraframe_metric.py` | `verify_run`, `transform_reward`, `tetraframe_metric` — the seven upstream checks with their thresholds |
+| `tools/kpwiki/tetraframe_cli.py` | `python -m tools.kpwiki.tetraframe_cli --seed … [--context-file …] --out Plan/decisions/tetraframe/<slug>.json [--dry-run]` |
 | `tools/kpwiki/smoke.py` | `--dry-run` / `--live` |
 
 ## Conventions for new programs
