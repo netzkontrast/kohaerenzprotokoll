@@ -13,6 +13,7 @@ from pydantic import ValidationError  # noqa: E402
 
 
 def test_model_roles_come_from_env(monkeypatch):
+    monkeypatch.setenv("KP_LM_BACKEND", "api")
     monkeypatch.setenv("KP_LM_TASK", "anthropic/claude-sonnet-5")
     assert lm.model_id("task") == "anthropic/claude-sonnet-5"
     assert lm.model_id("worker") == lm.DEFAULT_MODELS["worker"]
@@ -95,6 +96,7 @@ def test_suffixed_slugs_respect_the_length_limit():
 
 
 def test_lm_context_is_scoped(monkeypatch):
+    monkeypatch.setenv("KP_LM_BACKEND", "api")
     monkeypatch.setenv("KP_LM_WORKER", "anthropic/claude-haiku-4-5")
     with lm.lm_context("worker"):
         assert dspy.settings.lm.model == "anthropic/claude-haiku-4-5"

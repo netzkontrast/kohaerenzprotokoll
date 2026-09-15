@@ -151,12 +151,18 @@ human-promoted) → `Canon/` + graph (author-locked, only via a D-xx decision an
 `/ingest`). Every new LLM step is a DSPy program in `tools/kpwiki/`
 (`docs/dspy-base.md`; skills `dspy-fundamentals`, `dspy-evaluation-harness`,
 `dspy-gepa-optimizer`, `dspy-rlm-module`, `dspy-rlm-workflow`, `dspy-deep-refine`,
-`dspy-reflect-loop`, `dspy-clarify`, `dspy-advanced-workflow`) — typed
+`dspy-reflect-loop`, `dspy-clarify`, `dspy-tetraframe`, `dspy-advanced-workflow`) — typed
 Signatures, closed enums, rich-feedback metrics; no prompt strings.
 **`/clarify` is mandatory before `/promote-to-canon`** and recommended wherever
 precision matters: it makes scope, terms and assumptions explicit and turns
 what the source does not settle into questions for the author (Rule 0 as code).
+**`/tetraframe` is mandatory before a contested decision is recorded** — a
+D-xx with two camps, a wiki merge/supersede/delete, a promotion that
+contradicts Canon, a storyform or axiom change: four isolated corners, a
+contradiction map and a verified P* go to the author; the run never decides.
 `scripts/setup_dspy.sh` builds `.venv-dspy` and runs the offline smoke test.
+Without `ANTHROPIC_API_KEY` the DSPy programs run through the `claude` CLI
+(`KP_LM_BACKEND=auto`, `tools/kpwiki/local_lm.py`); GEPA works there too.
 
 ---
 
