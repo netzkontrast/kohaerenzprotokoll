@@ -286,3 +286,29 @@ def test_dry_run_writes_nothing_and_an_empty_selection_exits_one(repo: Path, cap
     assert "dry run: no LM call" in capsys.readouterr().out
     assert sorted(p.name for p in (repo / "Wiki/candidates").iterdir()) == before
     assert cli.main(["--root", str(repo), "--category", "audit"]) == 1
+
+
+def test_the_write_path_reaches_batchcompile_with_the_chosen_merge_role(repo: Path, monkeypatch):
+    """--write is never exercised offline, so its wiring needs its own test.
+
+    A NameError between parsing the flags and the first LM call would survive
+    every other test in this file: they all stop at the dry-run branch.
+    """
+    (repo / "Sources").mkdir(exist_ok=True)
+    (repo / cli.MANIFEST_REL).write_text(
+        "".join(json.dumps(r) + "\n" for r in MANIFEST.values()), encoding="utf-8")
+    seen = {}
+
+    class Recorder:
+        def __init__(self, merge_role: str = "task"):
+            seen["merge_role"] = merge_role
+
+        def __call__(self, **kwargs):
+            raise SystemExit(0)                      # stop before any LM call
+
+    monkeypatch.setattr(cli, "BatchCompile", Recorder)
+    monkeypatch.setattr(cli.lm, "configure", lambda role="task": None)
+    with pytest.raises(SystemExit):
+        cli.main(["--root", str(repo), "--category", "kernkonzept",
+                  "--write", "--merge-role", "worker"])
+    assert seen["merge_role"] == "worker"

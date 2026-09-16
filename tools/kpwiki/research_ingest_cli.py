@@ -244,7 +244,7 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     lm.configure("task")
-    run = BatchCompile(merge_role=args.merge_role)(
+    run = BatchCompile(merge_role=ns.merge_role)(
         sources=inputs, pages=pages, known_entities=terms).compiled
     print("\nknowledge diff")
     for line in candidates.knowledge_diff_report(run, manifest):
