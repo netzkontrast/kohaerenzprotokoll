@@ -91,9 +91,14 @@ def list_files(root: Path) -> list[tuple[str, str]]:
         if not base.is_dir():
             continue
         for path in sorted(base.glob(pattern)):
-            if path.is_file():
+            if path.is_file() and not (scope == "codex" and is_codex_navigation(path, base)):
                 found.append((path.relative_to(root).as_posix(), scope))
     return found
+
+
+def is_codex_navigation(path: Path, codex_root: Path) -> bool:
+    """Root compatibility files and README indexes route; they are not retrieval content."""
+    return path.name == "README.md" or path.parent == codex_root
 
 
 def chunk_lines(lines: list[str]) -> list[dict]:

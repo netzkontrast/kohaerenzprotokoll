@@ -58,7 +58,8 @@ phase as a navigational view, but the phase is explicitly non-normative because
    absence of a spoiler boundary is never permission to load it early.
 
 Root compatibility files exist for old links and human orientation. They must
-not grow back into omnibus content.
+not grow back into omnibus content; Codex-scoped FTS deliberately excludes
+those navigation files.
 
 ## Entity boundaries
 
@@ -68,6 +69,9 @@ not grow back into omnibus content.
 - `WorldAxiom`: rendered beneath its related `World`; orphan axioms remain
   visibly unassigned.
 - `World`: one page containing its current axioms.
+
+The renderer rejects a CodexEntry body above 600 words. Split the graph entity
+at a stable semantic boundary before it can become an omnibus context page.
 
 The current graph has no reliable chapter/spoiler properties on CodexEntry or
 WorldAxiom. The renderer records this limitation rather than inferring values

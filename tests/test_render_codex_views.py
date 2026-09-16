@@ -68,3 +68,13 @@ def test_every_generated_detail_page_is_linked_from_an_index():
     assert "concept/README.md" in rendered["glossary/README.md"]
     assert "romanbeginn-akt-i.md" in rendered["timeline/README.md"]
     assert "kw1.md" in rendered["worlds/README.md"]
+
+
+def test_renderer_rejects_oversized_entity_page():
+    entry = {"slug": "too-large", "body": " ".join(["Wort"] * 601)}
+    try:
+        renderer.render_glossary_entry(entry)
+    except ValueError as exc:
+        assert "too-large" in str(exc) and "maximum 600" in str(exc)
+    else:
+        raise AssertionError("oversized CodexEntry was rendered")

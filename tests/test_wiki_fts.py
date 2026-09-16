@@ -44,6 +44,8 @@ def tree(tmp_path: Path) -> Path:
     (tmp_path / "Canon/kernwelt.md").write_text(CANON_PAGE, encoding="utf-8")
     (tmp_path / "Sources/drive/argus.md").write_text(SOURCE_PAGE, encoding="utf-8")
     (tmp_path / "Codex/glossary/concept/argus.md").write_text(CODEX_PAGE, encoding="utf-8")
+    (tmp_path / "Codex/README.md").write_text("# Codex index\n\nArgus\n", encoding="utf-8")
+    (tmp_path / "Codex/glossary/README.md").write_text("# Glossar index\n\nArgus\n", encoding="utf-8")
     return tmp_path
 
 
@@ -94,6 +96,12 @@ def test_codex_scope_finds_small_entity_page(tree, capsys):
     assert run(tree, "search", "Argus Kohärenz", "--scope", "codex", "--json") == 0
     hits = json.loads(capsys.readouterr().out)
     assert [hit["path"] for hit in hits] == ["Codex/glossary/concept/argus.md"]
+
+
+def test_codex_navigation_indexes_are_not_indexed(tree):
+    files = dict(wiki_fts.list_files(tree))
+    assert "Codex/glossary/concept/argus.md" in files
+    assert "Codex/README.md" not in files and "Codex/glossary/README.md" not in files
 
 
 def test_search_limit_and_or_fallback(tree):
