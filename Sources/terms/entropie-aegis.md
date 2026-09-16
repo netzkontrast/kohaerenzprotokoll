@@ -30,6 +30,7 @@ candidates: 46
   invisible characters none
   math symbol lines    0
   glued ref numbers    0
+  repeated labels      none
   longest line         777 chars
 ```
 
@@ -37,14 +38,22 @@ candidates: 46
 document only as bold text, so nothing here can be cited by section — only by
 line.
 
-## What kind of document this is
+## Stance — this document marks none
 
-A **research brief**. Lines 23–83 are a commission: numbered research areas,
-detailed questions, and a requested output format. The document states what the
-project already believes so that a researcher can build on it.
+`grep` finds no stance label anywhere: no „Beschreibung", „Bewertung",
+`[User Query]` or equivalent. Whatever is said below about how to read it is
+**inference from the text**, not something the document declares.
 
-**Its terms are premises, not findings.** Nothing below is something this
-document established.
+What the text shows: lines 23–83 are a commission — numbered research areas,
+detailed questions, and a requested output format — and the document states what
+the project already believes so that a researcher can build on it.
+
+Read that way, **its terms are premises, not findings.** Nothing below is
+something this document established.
+
+*Format is measured above and is a separate question (decision 004). This
+document has zero headings; that is a fact about the export and the author, not
+a consequence of it being a commission.*
 
 ## Candidates — the project's own vocabulary
 

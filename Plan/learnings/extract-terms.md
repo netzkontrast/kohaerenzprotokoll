@@ -141,6 +141,39 @@ not a disagreement at all.
 
 That is the first support `gather-term.md` prediction 2 has ever had.
 
+## Format is measured, stance is read, and the probe only catches one convention
+
+Decision 004 removed the document-kind enum. What replaced it changed this step:
+
+- **Format** is `scripts/profile.py` — the same probes, every document, in the
+  same order.
+- **Stance** is read per passage. *Whether* a document labels its own passages is
+  format and is now counted; what those labels mean is not.
+
+The `repeated labels` probe finds document 2's convention exactly — six labels,
+38 occurrences, `Beschreibung x8` through `Probleme x4`.
+
+**And it reports `none` for document 3, which marks 25 passages.** Document 3's
+markers are `\[User Query\]` inline in running prose, not bold headings, so a
+probe built on one document's convention is blind to the other's.
+
+That is the honest state: **one marking convention is detected, at least two
+exist, and a `none` means "no convention this probe knows about" rather than
+"unmarked".** The probe is left narrow rather than widened to guess, because a
+detector that half-recognises a convention is worse than one that admits it does
+not.
+
+Format does not follow from purpose, measured across the three read:
+
+| | doc 1 | doc 2 | doc 3 |
+|---|--:|--:|--:|
+| headings | 0 | 34 | 24 |
+| table rows | 0 | 19 | 9 |
+| math symbol lines | 0 | 36 | 0 |
+| zero-width spaces | 0 | 100 | 0 |
+| repeated labels | none | 6 | none |
+| question marks | 22 | 25 | 23 |
+
 ## How this was actually done — the procedure, step by step
 
 Recorded so the tool is derived from what the work *was*, not from a description

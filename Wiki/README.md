@@ -18,20 +18,29 @@ source says what, and when.
 `terms/` does not exist yet. Nothing is promoted until enough candidates exist to
 show what promotion should check.
 
-## Why a reading carries its kind
-
-The source documents come in three kinds and reading one as another inverts its
-meaning:
-
-| kind | its statements are |
-|---|---|
-| `brief` | **premises** — what the project already believed when it asked |
-| `critique` | **verdicts** — judgements about the thing described, often rejections |
-| `result` | **findings** — except where marked `[User Query]`, which are premises quoted back |
+## Why a reading carries its stance
 
 A page that recorded only "what this source says about X" would present a
-refutation as a definition. So every reading names its kind, and `[User Query]`
-passages are marked where they appear.
+refutation as a definition, or a document's own premise as its conclusion. So
+every reading says what kind of statement it is.
+
+**Stance belongs to a passage, not to a document** (decision 004). The documents
+themselves say so: one of the three read labels its passages 38 times, with six
+different labels — eight of them *describing* the thing it goes on to reject.
+Another marks 25 passages as premises quoted back from its commission. A single
+label per file could only ever record the loudest one.
+
+| a reading is | when |
+|---|---|
+| a **premise** | the source is stating what was already believed — often marked, e.g. `[User Query]` |
+| a **verdict** | the source is judging the term, not defining it |
+| a **finding** | the source concluded it |
+| a **restatement** | the source is reproducing someone else's claim, not making one |
+| **asked** | it appears only inside a question, and is no reading at all |
+
+There is **no fixed list of document types.** How a document came to be says
+nothing about how it is built — three documents in one category, five days apart,
+had 0, 34 and 24 headings.
 
 ## Dates are load-bearing
 

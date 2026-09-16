@@ -30,6 +30,8 @@ candidates: 94
   invisible characters U+200Bx100
   math symbol lines    36
   glued ref numbers    116
+  repeated labels      Beschreibung x8, Kritik des Formalismus x8, Vergleich x8,
+                       Bewertung x6, Plausibilität x4, Probleme x4
   longest line         1412 chars
 ```
 
@@ -38,18 +40,30 @@ line. **19 table rows** and **36 lines carrying mathematical symbols** — the
 document's vocabulary is partly formal, and a census that looks only for words
 finds none of it.
 
-## What kind of document this is
+## Stance — this document labels its own, 38 times
 
-An **adversarial critique**. It analyses an „AEGIS-Postulat" that it does not
-author, and largely rejects it. The structure is fixed and repeated per protocol:
-*Beschreibung · Kritik des Formalismus · Vergleich · Bewertung*.
+| label | n | what the passage is |
+|---|--:|---|
+| Beschreibung | 8 | the AEGIS-Postulat restated — **not this document's claims** |
+| Kritik des Formalismus | 8 | what is wrong with the formalisation |
+| Vergleich | 8 | the established concept it is measured against |
+| Bewertung | 6 | the verdict |
+| Plausibilität | 4 | whether the assumption holds |
+| Probleme | 4 | what remains broken |
 
-**Its verdicts are claims about the terms**, not commentary on them. „ECR scheint
-im Widerspruch zu etablierten Prinzipien der Thermodynamik […] zu stehen" ^[L61]
-is a statement about ECR.
+**So the document is not one thing, and the boundary runs inside it.** Its
+*Bewertung* passages are claims about the terms they judge — „ECR scheint im
+Widerspruch zu etablierten Prinzipien der Thermodynamik […] zu stehen" ^[L61] is
+a statement about ECR. Its *Beschreibung* passages are the postulate's content,
+restated, and asserting them of this document would attribute to it the thing it
+goes on to reject.
 
-**And it quotes the thing it criticises.** Terms in quotation marks here are
-taken *from* the postulate under analysis.
+**It quotes what it criticises.** Terms in quotation marks here are taken *from*
+the postulate under analysis.
+
+*Format is measured above and is a separate question (decision 004). The 34
+headings and 19 table rows are facts about this file, not consequences of it
+being critical.*
 
 ## Candidates — the postulate's own vocabulary
 

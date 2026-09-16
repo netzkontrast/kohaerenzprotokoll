@@ -8,8 +8,9 @@
 all within two days of each other in the source chronology. Notes in
 `Sources/notes/`.
 
-The three turned out to be one of each kind — `brief`, `critique`, `result` —
-which was luck, not design, and is the reason the format held.
+The three read very differently — a commission, an adversarial analysis, an
+answer — which was luck, not design, and is the reason the note format was
+tested at all. They are **not** three types: see the correction under (a).
 
 The predictions below were written before either was opened. Results are
 recorded under each, and the section after them holds what no prediction
@@ -77,23 +78,31 @@ A note harvests. It does not decide, merge or interpret.
 
 ## What no prediction anticipated
 
-**a. Document kind is the single most important field, and it was not in the
-format.** The corpus contains at least three kinds, and reading one as another
-inverts its meaning:
-
-| kind | what it is | how it must be read |
-|---|---|---|
-| `brief` | a research commission — states premises, asks questions | its terms are *premises*, not findings |
-| `critique` | an adversarial analysis of a proposal | its **verdicts** are claims about terms |
-| `result` | a research answer | not yet encountered in these two |
-
-`entropie-aegis` is a brief: it defines AEGIS and then asks 20 questions it does
-not answer. `aegis-emergenz-aus-der-leere` is a critique that largely *rejects*
+**a. What kind of statement a passage is turned out to be the missing field.**
+`entropie-aegis` reads as a commission: it defines AEGIS and then asks 20
+questions it does not answer. `aegis-emergenz-aus-der-leere` largely *rejects*
 what it describes. A note that recorded only "what this source says about X"
 would present a refutation as a definition.
 
-**So `kind` goes in the frontmatter, and the note opens by saying what reading
-the document requires.**
+> **Corrected 2026-09-16 — decision 004.** This was written up as a
+> document-level field, `kind: brief | critique | result`, and that was wrong two
+> ways.
+>
+> **Stance belongs to a passage.** Document 2 labels its own passages **38
+> times** with six different labels, eight of them *describing* the postulate it
+> goes on to reject; document 3 marks **25** passages `[User Query]` as premises
+> quoted back from its commission. A single value per file records the loudest
+> stance and discards the rest — including the case that matters most, where a
+> document restates someone else's claim without asserting it.
+>
+> **And the enum invited explaining format by purpose.** It does not follow:
+> three documents in one category, five days apart, have 0, 34 and 24 headings,
+> and 0, 36 and 0 lines carrying mathematical symbols. Question marks are 22, 25
+> and 23. Nothing about why a document exists predicts how it is built.
+>
+> What survives is the finding itself: **reading a verdict as a definition
+> inverts its meaning.** Only the boundary moved — inside the document, not
+> around it.
 
 **b. A critique's verdicts are content.** „ECR scheint im Widerspruch zu
 etablierten Prinzipien der Thermodynamik zu stehen" is a claim about ECR and
@@ -128,8 +137,9 @@ theory documents define the roots, story documents use them.
 
 ## The third document, and what it corrected
 
-`kohaerenzprotokoll-aegis-und-systementropie` is a `result` — the kind the table
-above listed as "not yet encountered". Reading it changed four things.
+`kohaerenzprotokoll-aegis-und-systementropie` is the answer to a commission, and
+the first document read that states conclusions rather than asking for them.
+Reading it changed four things.
 
 **f. `[User Query]` is an inline provenance marker, and it is the highest-value
 field found so far.** The document marks 26 passages with it, and every one is a
@@ -174,8 +184,8 @@ is later slippage, not a second rename, and only counting the corpus could tell
 the two apart.
 
 **What did not change:** the note format needed no new field for the third
-document, across a third genre. `kind` absorbed it, which is the strongest
-evidence so far that `kind` was the right field to add.
+document. The stance distinction absorbed it — though the *shape* that
+distinction should take took one more correction to get right (decision 004).
 
 ## What we will watch for
 

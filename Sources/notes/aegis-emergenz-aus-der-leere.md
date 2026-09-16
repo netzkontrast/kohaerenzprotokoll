@@ -6,18 +6,27 @@ category: theorie-physik
 tier: T2-theory
 index_date: "2025-04-19"
 read: "2026-09-16"
-kind: critique
+stance_markers: ["Beschreibung", "Kritik des Formalismus", "Vergleich", "Bewertung", "Plausibilität", "Probleme"]
+stance_marker_count: 38
+reads_as: an adversarial analysis of a postulate it does not author
 ---
 
 # Notes — AEGIS: Emergenz aus der Leere
 
-**Document kind: an adversarial critique.** It analyses an "AEGIS-Postulat" and
-largely rejects it. So its verdicts are content, not commentary: „ECR scheint im
-Widerspruch zu etablierten Prinzipien der Thermodynamik […] zu stehen" ^[L61] is
-a claim *about* a term and belongs on that term's page.
+**This document labels its own stance, 38 times.** Eight passages
+*beschreiben* the AEGIS-Postulat it did not write, eight *kritisieren den
+Formalismus*, eight *vergleichen*, six *bewerten*, and four each carry
+„Plausibilität" and „Probleme".
 
-Reading a critique as if it were a definition would invert its meaning. This
-matters for the note format: the kind has to be on the page.
+So it is not one thing. Its **Bewertung** passages are verdicts and belong on the
+terms they judge — „ECR scheint im Widerspruch zu etablierten Prinzipien der
+Thermodynamik […] zu stehen" ^[L61] is a claim *about* ECR. Its **Beschreibung**
+passages are the postulate's own content, restated, and are not this document's
+claims at all.
+
+**Reading a verdict as a definition inverts its meaning, and the boundary runs
+inside the document, not around it.** Which is why the stance is recorded per
+passage rather than as one value on the file (decision 004).
 
 ## The finding — AEGIS is expanded three different ways
 

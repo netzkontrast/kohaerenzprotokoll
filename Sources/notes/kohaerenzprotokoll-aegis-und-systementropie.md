@@ -6,18 +6,23 @@ category: theorie-physik
 tier: T2-theory
 index_date: "2025-04-19"
 read: "2026-09-16"
-kind: result
+stance_markers: ["[User Query]"]
+stance_marker_count: 25
+reads_as: an answer to a commission; the marked passages are its premises, the rest its findings
 answers: unknown-brief
 ---
 
 # Notes — Kohärenzprotokoll: AEGIS und Systementropie
 
-**Document kind: a research result — the third kind, and the first one seen.**
-It is the answer to a commission, and it says so in its own headings: thirteen
-sections each labelled *(Adressiert Nutzerfrage N)* ^[L21, L39, L51, …, L201].
+**This document marks its own premises, 25 times.** It is the answer to a
+commission — thirteen sections each labelled *(Adressiert Nutzerfrage N)*
+^[L21, L39, L51, …, L201] — and inside it, every `[User Query]` marker flags a
+passage quoted back from that commission rather than concluded by the research.
 
-So its terms are **findings**, not premises and not verdicts. This is the first
-document in the set whose statements can be read as the project's answers.
+So it holds **both** stances and says which is which, line by line. Its unmarked
+statements can be read as the project's answers; its marked ones are the
+project's own assumptions returning. A single label on the file would have to
+pick one and lose the other.
 
 **The brief it answers is not `entropie-aegis.md`.** That one asks a different
 set of questions and specifies a four-part output on entropy concepts ^[entropie-aegis.md:L73–80];

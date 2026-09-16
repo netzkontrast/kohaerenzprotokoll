@@ -83,9 +83,16 @@ comparison finds is a result rather than an assumption carried in.
 
 `Plan/learnings/extract-terms.md` has the fourteen special cases the first two
 censuses found, and why the first comparison inverted the premise the step was
-built on. A term page collects every source's reading of one term,
-**attributed and unmerged** — where sources disagree the page says so and stops.
-Which reading is right is the author's call, never the page's.
+built on.
+
+**Format is measured; stance is read, per passage; neither is a document type.**
+There is no enum of document kinds — how a document came to be says nothing about
+how it is built, and a single document holds several stances and usually marks
+them itself (decision 004).
+
+A term page collects every source's reading of one term, **attributed and
+unmerged** — where sources disagree the page says so and stops. Which reading is
+right is the author's call, never the page's.
 
 ## Fetching
 
