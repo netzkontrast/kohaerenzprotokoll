@@ -38,7 +38,8 @@ Anything derived traces back to a `drive_id`.
 have no route. Every category the wiki needs is complete.
 
 **3 of the 409 landed documents have been read**, and their notes are in
-`Sources/notes/`. **1 has a full term census**, in `Sources/terms/`. `Wiki/candidates/` holds **1 term page**, written by hand. The
+`Sources/notes/`. **2 have a full term census**, in `Sources/terms/`, and the one
+comparison between them is in `Wiki/compare/`. `Wiki/candidates/` holds **1 term page**, written by hand. The
 schema follows the pages rather than preceding them, so neither `Wiki/terms/`
 nor a page format exists yet.
 
@@ -51,12 +52,14 @@ python3 scripts/sources.py check      # manifest against disk
 
 ## The process
 
-Six steps. Three of them are a person.
+Seven steps. Three of them are a person.
 
 ```
 Drive ──fetch──→ Sources/drive/*.md ──┬──extract──→ Sources/terms/*.md
                                       │                    │
                                       └──read─────→ Sources/notes/*.md
+                                                           │
+                                                       compare ──→ Wiki/compare/*.md
                                                            │
                                                         gather
                                                            ▼
@@ -68,13 +71,19 @@ Drive ──fetch──→ Sources/drive/*.md ──┬──extract──→ So
 ```
 
 Written out in full in `Plan/concept/wiki-process_2026-09-16.md`. The short
-version: **a census lists every candidate term in one document, exhaustively,
-with why each row might be handled differently in the next one.** A note then
-harvests what that document says about the terms that matter, quoting with line
-numbers. The census exists because the note is selective, and a term dropped
-quietly in document 2 is exactly where document 1's conflict hides —
-`Plan/learnings/extract-terms.md` has the eight special cases the first one
-found. A term page collects every source's reading of one term,
+version: **a census lists every candidate term in one document, exhaustively.**
+A note harvests what that document says about the terms that matter, quoting with
+line numbers.
+
+**A census describes one document and nothing else** — no count, comparison or
+expectation from another source. `scripts/profile.py` makes that identical
+treatment mechanical rather than a promise: every census opens with the same
+probes in the same order. Documents meet only in the `compare` step, so what the
+comparison finds is a result rather than an assumption carried in.
+
+`Plan/learnings/extract-terms.md` has the fourteen special cases the first two
+censuses found, and why the first comparison inverted the premise the step was
+built on. A term page collects every source's reading of one term,
 **attributed and unmerged** — where sources disagree the page says so and stops.
 Which reading is right is the author's call, never the page's.
 

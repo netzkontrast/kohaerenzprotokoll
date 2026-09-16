@@ -20,9 +20,20 @@ about the wiki reveals that anything was lost, because a missing term leaves no
 hole.
 
 The census is exhaustive on purpose. Judgement about whether a candidate really
-is a term is **recorded per row rather than applied as a filter**, so that the
-next document can be checked against what the last one found, including the rows
-that looked like nothing.
+is a term is **recorded per row rather than applied as a filter**.
+
+> **Rule, added after document 2 and applied retroactively to document 1: a
+> census describes one document and nothing else.** No count, comparison or
+> expectation from another source appears in it. The first version of document
+> 1's census broke this — it carried forward-looking notes about later documents
+> and a checklist to apply to the next one — and that is precisely the
+> contamination that makes a term look unimportant in the document where it
+> conflicts. Comparison is a separate step, in `Wiki/compare/`, and only by
+> keeping the two apart is what the comparison finds a result rather than an
+> assumption carried in.
+>
+> `scripts/profile.py` exists so that *identical treatment* is mechanical rather
+> than a promise: every census opens with the same probes in the same order.
 
 ## What the step is
 
@@ -77,6 +88,58 @@ zero content. `SIS` is not even expanded — so if a later document expands it,
 **8. Names change independently, not as a set.** This document says Michael and
 Julia. Document 3 says Kael and Julia. Canon says Kael and Juna. Already
 recorded in `read-source.md`, and the census is where it becomes checkable.
+
+## What document 2 added, extracted independently
+
+94 candidates from 311 lines, with no reference to document 1 while reading.
+Six special cases document 1 could not have shown:
+
+**9. One hundred zero-width spaces sit inside the formulas.** `A₀` is stored as
+`A0` + `U+200B`; the export flattened every subscript that way. A formal term
+cannot be matched, quoted or cited reliably without normalising it — and a quote
+typed by hand will never equal the same quote read from the file. **This is a
+different failure from the typographic-quote one, and it defeats the same check.**
+
+**10. 116 reference numbers are glued to the words they annotate.**
+„Fixpunkttheoremen 6", „Autopoiesis 43". Superscript formatting was dropped, so a
+bare integer follows the term. A quoted fragment either includes the number and
+does not read as the term, or excludes it and does not match the file.
+
+**11. Formal symbols are terms, and a word-based census finds none of them.**
+`⊕` is the term the entire RSA critique turns on — „bleibt undefiniert" — and it
+is one character. So are `θ`, `α`, `Σ`, `Δ`, `Π`.
+
+**12. One symbol can carry three meanings in one document.** `E` is the coherence
+function ^[L58], the edge set of the agent graph ^[L92] and entropy ^[L126].
+Nothing marks the switch.
+
+**13. A document's own summary table renames its own terms.** Five of eight
+protocols are abbreviated differently in Table 1 than in the body —
+„Rekursive semantische Autogenese" against „Rekursive Sem. Autogenese". One
+document, two surfaces per term.
+
+**14. Quotation marks mark citation here and invention in document 1.** Same
+punctuation, inverted meaning, nothing marking which convention is in force. The
+full consequence is in `Wiki/compare/001`.
+
+## What the first comparison measured
+
+**Of 27 terms document 1 carries, 21 do not occur in document 2 at all.** Of 25
+terms document 2 carries, 24 do not occur in document 1. The overlap is six
+strings.
+
+**This inverts the premise this step was built on.** Nothing was overlooked in
+document 2 — the terms are simply absent, and document 2 never mentions the novel
+at all. Meanwhile every real conflict sits on a string the two documents *share*.
+
+**String identity is anti-correlated with semantic identity in this pair.** Where
+the words differ, the documents are about different things; where they match,
+they mean incompatible things. A conflict detector built on shared strings finds
+three candidates here and is wrong about one — `Zero-Trust`, which is an AEGIS
+sub-function in one document and the external ZTA architecture in the other, and
+not a disagreement at all.
+
+That is the first support `gather-term.md` prediction 2 has ever had.
 
 ## How this was actually done — the procedure, step by step
 
