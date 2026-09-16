@@ -39,10 +39,21 @@ ziehen.
   Regel-Nummerierungen (R-Serie vs. DR-Serie), in `docs/worldcodex-integration.md`
   bereits korrigiert. Stichprobe, kein vollständiges Audit — siehe Datei
   §Method.
-- [ ] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
+- [x] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
   angelegt werden.
-- [ ] Wissensdimensionen sauber trennen: objektive Wahrheit, Figurenwissen,
+  → [Plan/codex-architecture/entity-model-proposal_2026-09-16.md](Plan/codex-architecture/entity-model-proposal_2026-09-16.md)
+  (2026-09-16). 7 neue `entity_type`-Werte + 4 unveränderte `kind`-Werte;
+  zweiphasig (Body-Feld jetzt, echte Engine-`kind`-Erweiterung später nur
+  wenn `agency_doctor`/`get_schema` das bestätigen — in dieser Session
+  nicht prüfbar). Alle 3 Weichenstellungen gingen an den Autor; die
+  `R-N`/`DR-N`-Frage bleibt bewusst offen für Punkt 9.
+- [x] Wissensdimensionen sauber trennen: objektive Wahrheit, Figurenwissen,
   Leserwissen, erzählerische Enthüllung und zeitliche Gültigkeit.
+  → [Plan/codex-architecture/knowledge-dimensions_2026-09-16.md](Plan/codex-architecture/knowledge-dimensions_2026-09-16.md)
+  (2026-09-16). 4 von 5 Dimensionen bereits durch Punkt 4 abgedeckt; eine
+  echte Lücke gefunden (keine aggregierte "Leserwissen bis Szene N"-Abfrage)
+  und offen für Punkt 10 oder eine künftige Engine-Fähigkeit dokumentiert,
+  nicht hier behoben.
 - [ ] Zielstruktur ausschließlich aus stabilen Entitäts- und Graphfeldern
   ableiten; keine frei erfundenen Themenordner.
 - [ ] Link- und Promotionvertrag zwischen Wiki, Codex und Canon definieren.
