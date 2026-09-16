@@ -17,6 +17,14 @@ Plan/research/last-search-results.json
 .lit-critic-src/
 .lit-critic/
 
+# API keys. The LM layer reads ANTHROPIC_API_KEY / OPENROUTER_API_KEY from the
+# environment (tools/kpwiki/lm.py → PROVIDER_KEY_ENV); nothing here loads a
+# dotenv file, so a local one exists only for `source`-ing by hand and must
+# never be committed.
+.env
+.env.*
+!.env.example
+
 # OS files
 .DS_Store
 Thumbs.db
