@@ -223,6 +223,14 @@ needs no key and no virtualenv: `python3` plus PyYAML.
 | `python3 scripts/source_inventory.py [--check]` | Drive index → `Sources/manifest.jsonl` (T4 rows excluded, D-W9) |
 | `python3 scripts/source_dedup.py [--check]` | byte-equal and near-duplicate clusters → `T0-duplicate`, `T1-superseded` |
 | `python3 scripts/audit_graph_claims.py` | read-only D-W2 audit of `NovelClaim.source_uri` in `.agency/session.db` |
+| `python3 scripts/source_export_mark.py --slug … --from-json …` | steps 3+4 of the fetch procedure: write one export, hash it, mark its manifest record |
+
+One command in this layer does call an LM, so it needs the virtualenv:
+
+| command | does |
+|---|---|
+| `.venv-dspy/bin/python -m tools.kpwiki.research_ingest_cli [--slug/--category/--tier/--batch]` | `/research-ingest`: selects a batch from the manifest and prints it; the default is a dry run with no LM call |
+| the same with `--write` | runs `BatchCompile`, prints the knowledge diff and the metric score, writes `Wiki/candidates/**`, `Wiki/graph/edges.jsonl`, `Wiki/log.md`, then lints what it wrote. `--write` is user-owned: a session never sets it |
 
 `.claude/settings.json` is the author's file. The lines below complete the
 ownership zones of `Wiki/schema/conventions.yaml`; apply them by hand:
@@ -235,7 +243,8 @@ ownership zones of `Wiki/schema/conventions.yaml`; apply them by hand:
     "Bash(python3 scripts/wiki_fts.py*)",
     "Bash(python3 scripts/source_inventory.py*)",
     "Bash(python3 scripts/source_dedup.py*)",
-    "Bash(python3 scripts/audit_graph_claims.py*)"
+    "Bash(python3 scripts/audit_graph_claims.py*)",
+    "Bash(python3 scripts/source_export_mark.py*)"
   ],
   "deny": [
     "Write(Sources/drive/**)", "Edit(Sources/drive/**)",

@@ -153,7 +153,11 @@ manifest via `python3 scripts/source_inventory.py`) → `Wiki/` (LLM-maintained,
 human-promoted; contract in `Wiki/SCHEMA.md` + `Wiki/schema/*.yaml`, loaded by
 `tools/kpwiki/wiki_schema.py`; free checks `python3 scripts/wiki_lint.py --health`
 and `python3 scripts/render_wiki_views.py --check`, candidate finder
-`python3 scripts/wiki_fts.py search "…"`) → `Canon/` + graph (author-locked, only
+`python3 scripts/wiki_fts.py search "…"`; a batch of exported sources becomes
+candidate pages through `/research-ingest`
+(`tools.kpwiki.research_ingest_cli`, program `BatchCompile`), and only
+`/wiki-promote` moves a reviewed candidate into `Wiki/sources/` or
+`Wiki/concepts/`) → `Canon/` + graph (author-locked, only
 via a D-xx decision and `/ingest`). "The graph" always means the provenance graph
 `.agency/session.db`; it never receives wiki page bodies (D-W2). Every new LLM step is a DSPy program in `tools/kpwiki/`
 (`docs/dspy-base.md`; skills `dspy-fundamentals`, `dspy-evaluation-harness`,
