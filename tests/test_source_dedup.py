@@ -153,6 +153,7 @@ def test_normalise_title_ignores_case_spacing_and_punctuation():
     assert dedup.normalise_title("Kohärenz  Protokoll: Plan!") == dedup.normalise_title("kohärenz protokoll plan")
 
 
-def test_real_repo_has_no_exports_and_check_passes(capsys):
+def test_real_repo_manifest_is_dedup_stable(capsys):
+    """Whatever has been exported so far, the committed manifest never needs a dedup change."""
     assert dedup.main(["--check"]) == 0
-    assert "0 exported files hashed" in capsys.readouterr().out
+    assert "0 record(s) would change" in capsys.readouterr().out
