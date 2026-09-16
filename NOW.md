@@ -23,24 +23,29 @@ them.
 
 ## Next
 
-Four moves, in order, each cheap and each producing evidence for the one after.
-Reasoning and the measurements behind it:
-`Plan/concept/next-step_2026-09-16.md`.
+**Document by document, in order, each one finished completely before the next.**
+The point is not speed — it is that a term obviously important in document 1 and
+mentioned once in document 2 is exactly where a conflict hides, and only doing
+them in order with a carry-forward list catches it.
 
-1. **Nineteen more pages by hand.** `Entropie` (three senses) and `Emergenz`
-   next — `Emergenz` is the one that forces the conflict record to exist, since
-   its conflict already sits on two pages. Twenty pages before any schema, per
-   P3.
-2. **Then the citation checker, and nothing else.** `scripts/wiki.py check`:
-   citations resolve, quotes are in the lines they cite, `MISSING` computed.
-   **Run against the twenty hand-written pages first** — if it reports errors on
-   careful work, the checker is wrong, and that calibration is free here and
-   expensive later.
-3. **Then measure one model on the read-source step** against the three
-   hand-written notes as a gold set. Cheap models first, OpenRouter where no
-   DSPy is needed. Unreachable models report as `NEVER REACHED`, never as 0%.
-4. **Then the budget is the author's call**, priced from real numbers rather
-   than from the retired system's $2.79 per document.
+1. **Term census per document.** `entropie-aegis` done — 46 candidates, eight
+   special cases, in `Sources/terms/`. Next:
+   `aegis-emergenz-aus-der-leere`, **against document 1's carry-forward list**,
+   which is the thing that has to prove itself.
+2. **Then the term pages**, built from censuses rather than from memory.
+   `Emergenz` forces the conflict record of decision 003 to exist.
+3. **Then the counter** — not an extractor. The first document showed the tool
+   the work actually wants: *given a list of candidates, report occurrences,
+   lines, substring collisions and frontmatter contamination.* Proposing and
+   judging stay with the reader. `Plan/learnings/extract-terms.md` has the
+   derivation, step by step.
+4. **Then the citation checker**, calibrated against the hand-written pages
+   first — if it reports errors on careful work, the checker is wrong.
+5. **Then measure one model** against the hand-written censuses and notes as a
+   gold set, and **then** the budget is yours to decide, priced from real
+   numbers rather than from the retired system's $2.79 per document.
+
+Reasoning and the measurements behind 4–5: `Plan/concept/next-step_2026-09-16.md`.
 
 ## Worth acting on soon
 
