@@ -41,11 +41,14 @@ and its `slug`; both come from the index and are never re-derived.
 1. **Locate the file in Drive** (Drive MCP): `get_file_metadata` with the
    record's `drive_id` confirms the title and mime type; `search_files` by
    title is the fallback when an id has moved.
-2. **Read the content**: `read_file_content` for Google Docs and plain text
-   (returns markdown/text directly); `download_file_content` for `docx`,
-   `pdf` and other binaries, then convert to markdown with the
-   `drive-markdown-converter` skill. Binaries go to `originals/` (git-ignored),
-   never into `drive/`.
+2. **Read the content**: `read_file_content` for Google Docs (returns the
+   markdown rendering); `download_file_content` for `.md` and `.txt` files
+   (the raw bytes, base64 — `read_file_content` would escape their markdown)
+   and for `docx`, `pdf` and other binaries, which are converted to markdown
+   with the `drive-markdown-converter` skill. Binaries go to `originals/`
+   (git-ignored), never into `drive/`. A result above the harness limit is
+   saved as a JSON file (`{fileContent: …}` or `{content: <base64>, …}`);
+   the helper in step 4 reads either shape.
 3. **Write `Sources/drive/<slug>.md`** as the pure markdown body: UTF-8, LF,
    no frontmatter and no header line — every piece of metadata lives in the
    manifest, so a citation `^[Sources/drive/<slug>.md:L-L]` points at source
@@ -57,6 +60,18 @@ and its `slug`; both come from the index and are never re-derived.
    - `truncated`: `true` when the read tool cut the content (a size cap, a
      "content truncated" notice, a body that ends mid-sentence against the
      Drive metadata size) or when the file is under 200 bytes; otherwise `false`
+
+   Steps 3 and 4 are one command: `python3 scripts/source_export_mark.py
+   --slug <slug> --from-json <saved result>` (or `--from-text <file>`)
+   normalises the body (UTF-8, LF, trailing whitespace stripped, one final
+   newline), writes the file, hashes it and rewrites only that manifest
+   record; `--truncated` records an incomplete export and the helper refuses
+   a body under 200 bytes or with a truncation notice unless the flag is
+   given. The markdown rendering of a Google Doc can stop a few characters
+   before the end of its last line: `download_file_content` with
+   `exportMimeType: text/plain` returns the complete line, and `--tail-from
+   <plain.txt>` appends exactly the verified remainder (exit 4 when the last
+   line is not a prefix of one plain-text line).
 5. **Run the dedup pass**: `python3 scripts/source_dedup.py` hashes every
    non-truncated export, marks byte-equal copies `T0-duplicate`
    (`duplicate_of`) and older drafts `T1-superseded` (`superseded_by`).
