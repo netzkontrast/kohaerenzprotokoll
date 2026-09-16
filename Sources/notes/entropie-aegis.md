@@ -6,15 +6,21 @@ category: theorie-physik
 tier: T2-theory
 index_date: "2025-04-17"
 read: "2026-09-16"
-kind: brief
+stance_markers: none — this document labels no passage
+reads_as: a commission; it states premises and asks questions it does not answer
 ---
 
 # Notes — Entropie aegis
 
-**Document kind: a research brief, not a research result.** It commissions work on
-entropy and states what the project already believes so the researcher can build
-on it. Its answers are elsewhere. So its terms are *premises*, not findings, and
-that is the strongest thing to know about every claim below.
+**This document labels nothing.** No passage carries a stance marker, so the
+reading below is inference from the text rather than something the document
+declares — and that is worth saying, because the next document does declare it.
+
+It reads as a commission: lines 23–83 are numbered research areas, detailed
+questions and a requested output format. It states what the project already
+believes so a researcher can build on it, and its answers are elsewhere. So its
+terms are *premises*, not findings, and that is the strongest thing to know about
+every claim below.
 
 ## Terms it defines
 

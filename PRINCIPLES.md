@@ -233,6 +233,7 @@ rather than a re-derivation.
 |---|---|---|
 | **`FOUND` / `INFERRED` / `CONFLICTING` / `MISSING`** | tool (3 of 4) + skill | Already promoted to P10. This is where it came from. |
 | **Anti-summary rule as a failure condition** | skill | *"If the output only says what each source said, it has failed."* A quality bar stated as a failure is enforceable by a reviewer; stated as an aspiration it is not. |
+| **A provisional guess at what a document is for** | schema field, marked `provisional` | Commission, answer, or analysis of something else. **May not explain format or decide how a passage is read** — that was measured and refuted (decision 004). Its use is sequencing and routing: which document answers which, which commissions are still open. Removed once, and the removal is why `CLAUDE.md` now says a construct is demoted rather than deleted. |
 | **`foundationality`, `whatThisChanges`, `limitations`** | schema fields | foundational / important / derivative / unclear; what this source changes about the reader's understanding; what it did **not** answer. The last feeds `MISSING` automatically. |
 | **No empty placeholders** | tool | A directory or page exists only if it has members (P4). |
 | **Stable ids that never renumber** | schema | Provenance that survives re-runs. The Graph's derived node ids already worked this way and it was the right call. |
@@ -248,6 +249,21 @@ generators; it needs derivation chains with an author checkpoint at each layer.
 Anything that would invent rather than derive stays out.
 
 ---
+
+## Claims and constructs are corrected differently
+
+**Be quick to measure a claim and slow to remove a construct.** The full rule,
+with the evidence on both sides, is under `Changing your mind` in `CLAUDE.md` —
+it governs working method rather than what gets built, which is why it lives
+there and is pointed at from here.
+
+The short form: a claim about the repository or the corpus is measured or marked
+unmeasured, and a measurement that contradicts it simply wins. A construct — a
+field, a category, a folder — is not true or false, so an objection demotes it
+(`provisional`, plus what it **may not** do, plus what would retire it) rather
+than deleting it. Both failure modes are in this repository's history: a claim
+that survived three learnings because nobody counted, and a construct deleted on
+first objection.
 
 ## Changing this file
 

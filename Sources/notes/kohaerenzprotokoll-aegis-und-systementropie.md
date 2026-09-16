@@ -6,18 +6,23 @@ category: theorie-physik
 tier: T2-theory
 index_date: "2025-04-19"
 read: "2026-09-16"
-kind: result
+stance_markers: ["[User Query]"]
+stance_marker_count: 25
+reads_as: an answer to a commission; the marked passages are its premises, the rest its findings
 answers: unknown-brief
 ---
 
 # Notes — Kohärenzprotokoll: AEGIS und Systementropie
 
-**Document kind: a research result — the third kind, and the first one seen.**
-It is the answer to a commission, and it says so in its own headings: thirteen
-sections each labelled *(Adressiert Nutzerfrage N)* ^[L21, L39, L51, …, L201].
+**This document marks its own premises, 25 times.** It is the answer to a
+commission — thirteen sections each labelled *(Adressiert Nutzerfrage N)*
+^[L21, L39, L51, …, L201] — and inside it, every `[User Query]` marker flags a
+passage quoted back from that commission rather than concluded by the research.
 
-So its terms are **findings**, not premises and not verdicts. This is the first
-document in the set whose statements can be read as the project's answers.
+So it holds **both** stances and says which is which, line by line. Its unmarked
+statements can be read as the project's answers; its marked ones are the
+project's own assumptions returning. A single label on the file would have to
+pick one and lose the other.
 
 **The brief it answers is not `entropie-aegis.md`.** That one asks a different
 set of questions and specifies a four-part output on entropy concepts ^[entropie-aegis.md:L73–80];
@@ -157,14 +162,24 @@ The one it does **not** close is the alters' „Entropie-Signatur"
 ^[entropie-aegis.md:L69]: Table 1 gives system-level metrics, never a per-alter
 score. That question is still open in the corpus.
 
-## Naming — split, not superseded as a set
+## Naming — mixed, and the reason is not what it looked like
 
-It says **Kael** and **Julia**. Document 1, two days earlier, said Michael and
-Julia. Current canon says Kael and Juna.
+It says **Kael** 45 times and **Julia** 34 times, in one document. Document 1,
+two days earlier, said Michael and Julia.
 
-**So the two names changed at different times.** A note that treated "old names"
-as one state would place this document on the wrong side of the change. Each
-name carries its own date.
+**The first reading of this — that the two names changed at different times — was
+wrong**, and counting the corpus showed it. Both changed on the same day:
+2025-04-17 is six documents with Michael/Julia and zero Kael/Juna; 2025-04-18 is
+seven documents with Kael/Juna and zero Michael/Julia. No mixed document on
+either side of the cut.
+
+What this document shows is not a second rename but **incomplete enforcement**:
+it is one of 20 landed documents that mix the new name with the old, and `Julia`
+in particular goes on being used heavily for months. Three documents looked like
+a timeline; a count over 409 showed a cliff.
+
+Full measurement and what it does not settle: `Wiki/candidates/kael.md` and
+`Wiki/candidates/juna.md`.
 
 ## For the term pages
 
