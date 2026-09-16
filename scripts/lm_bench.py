@@ -18,9 +18,12 @@ the scoring rules: a model that scores here scores on the real workload.
 
 Four numbers per model:
 
-    structure   share of attempts that returned a schema-valid prediction at all.
-                An exception, a refusal or a parse failure counts against this and
-                is the number that disqualifies a model regardless of the rest.
+    structure   schema-valid share of the attempts that actually reached the
+                model. A parse failure or a refusal counts against it and is the
+                number that disqualifies a model regardless of the rest. A model
+                the provider never served is reported separately as NEVER REACHED
+                rather than as 0%: "would not answer" and "answered badly" are
+                different findings, and only the second is about the model.
     score       mean ``ingest_metric`` score over the attempts that survived, so
                 it is quality *given* valid structure — read it together with
                 ``structure``, never alone.
@@ -67,11 +70,28 @@ from tools.kpwiki.smoke import fixture_example  # noqa: E402
 TASK_MAX_TOKENS = lm.TASK_MAX_TOKENS
 
 
+# A model that was never reached has not been measured. Conflating "the provider
+# would not serve it" with "it cannot hold the schema" is the one way this tool
+# can actively mislead, so transport failures are classified and reported apart.
+UNAVAILABLE_MARKERS = (
+    "LMUnsupportedModelError", "LMAuthError", "NotFoundError", "AuthenticationError",
+    "RateLimitError", "Timeout", "APIConnectionError", "ServiceUnavailable",
+    "only available on", "Provider returned error", "No endpoints found",
+)
+
+
+def classify(exc: Exception) -> str:
+    """`unavailable` when the model was never reached, else `schema`."""
+    text = f"{type(exc).__name__}: {exc}"
+    return "unavailable" if any(m in text for m in UNAVAILABLE_MARKERS) else "schema"
+
+
 @dataclass
 class Attempt:
     """One run of the program against one model."""
 
     ok: bool
+    kind: str = "ok"  # ok | schema | unavailable
     score: float = 0.0
     seconds: float = 0.0
     prompt_tokens: int = 0
@@ -92,8 +112,14 @@ class ModelResult:
         return [a for a in self.attempts if a.ok]
 
     @property
-    def structure_rate(self) -> float:
-        return len(self.valid) / len(self.attempts) if self.attempts else 0.0
+    def reached(self) -> list[Attempt]:
+        """Attempts that actually got a response out of the model."""
+        return [a for a in self.attempts if a.kind != "unavailable"]
+
+    @property
+    def structure_rate(self) -> float | None:
+        """Schema-valid share of the attempts that reached the model, or None if none did."""
+        return len(self.valid) / len(self.reached) if self.reached else None
 
     @property
     def mean_score(self) -> float:
@@ -149,7 +175,7 @@ def run_attempt(model: str, example: dspy.Example) -> Attempt:
             prompt_tokens=prompt_tokens, completion_tokens=completion_tokens,
             cost=_price(model, prompt_tokens, completion_tokens))
     except Exception as exc:  # a model that cannot hold the schema is a result, not a crash
-        return Attempt(ok=False, seconds=time.monotonic() - started,
+        return Attempt(ok=False, kind=classify(exc), seconds=time.monotonic() - started,
                        error=f"{type(exc).__name__}: {exc}"[:200])
 
 
@@ -175,18 +201,27 @@ def _cost_cell(result: ModelResult) -> str:
 
 
 def print_table(results: list[ModelResult], repeats: int) -> None:
-    ranked = sorted(results, key=lambda r: (r.structure_rate, r.mean_score), reverse=True)
+    measured = [r for r in results if r.structure_rate is not None]
+    unreachable = [r for r in results if r.structure_rate is None]
+    ranked = sorted(measured, key=lambda r: (r.structure_rate, r.mean_score), reverse=True)
+
     print(f"\n{'model':52s} {'structure':>9s} {'score':>6s} {'median s':>9s} {'cost':>9s}")
     print("-" * 90)
     for result in ranked:
         print(f"{result.model:52s} {result.structure_rate:8.0%} {result.mean_score:6.2f} "
               f"{result.median_seconds:9.1f} {_cost_cell(result)}")
     print("-" * 90)
-    print(f"{repeats} attempt(s) per model · structure = share returning a schema-valid "
-          f"prediction · score = mean ingest_metric over those")
+    print(f"{repeats} attempt(s) per model · structure = schema-valid share of the attempts "
+          f"that reached the model · score = mean ingest_metric over those")
     for result in ranked:
         if result.first_error:
             print(f"  ! {result.model}: {result.first_error}")
+
+    if unreachable:
+        print("\nNEVER REACHED — not measured, and not a verdict on the model:")
+        for result in unreachable:
+            print(f"  · {result.model}\n      {result.first_error}")
+
     print("\nThis ranks; it does not choose. Assign roles with KP_LM_TASK / "
           "KP_LM_WORKER / KP_LM_REFLECTION.")
 
