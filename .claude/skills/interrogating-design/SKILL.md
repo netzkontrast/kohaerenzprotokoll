@@ -32,7 +32,7 @@ Run the interrogation as an iterative cycle:
 
 Check implications in layer order (Kohärenz Protokoll hierarchy):
 1. DKT foundation — contradicts K₀/K₁, atemporality, the Große Inversion?
-   (`Codex/WORLD-AXIOMS.md`, Canon begriffe §1–§2)
+   (relevant `Codex/worlds/<world>.md`, Canon begriffe §1–§2)
 2. Storyform — breaks a locked slot of Storyform A or B, a signpost order,
    the Vortex mechanics? (Canon storyform-und-outline, ncp-author drift checks)
 3. Kernwelt regime & sensorics — violates the level's logic regime, the heat

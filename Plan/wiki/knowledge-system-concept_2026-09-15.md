@@ -164,7 +164,7 @@ exported / total, duplicates, unresolved formats.
 and audits first (they carry the most self-understanding), then storyform,
 characters, worldbuilding, plot; T2 theory last. Per source: `TriageSource`
 (confirms tier/category, summary), `ExtractClaims` (atomic claims with line
-citations, entities matched against `Codex/GLOSSARY.md` triggers),
+citations, entities matched against generated `Codex/glossary/**` slugs/triggers),
 `CheckCanonConflict` (BM25-retrieved Canon passages → conflicts with severity).
 Output is a `source` page in `Wiki/candidates/` plus a printed **knowledge diff**
 (new claims · reinforce existing concept · challenge Canon · gaps). The

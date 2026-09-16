@@ -36,7 +36,7 @@ at every checkpoint — Rule 0). No forward references.
 
 1. Read CLAUDE.md, `.claude/skills/PROJECT_REFERENCES.md`, `novel-architect-world/SKILL.md`
 2. Read `Canon/…kernwelten-vollstaendig…` (§1 Grundsatz + the target level's §),
-   `Canon/…welt-sensorik…` §1–§3 (Welt-Bibel, Sensorik-Lookup, Risse), `Codex/WORLD-AXIOMS.md`
+   `Canon/…welt-sensorik…` §1–§3 (Welt-Bibel, Sensorik-Lookup, Risse), the relevant `Codex/worlds/<world>.md`
 3. Check existing sub-localities and Bewohner of the level to differentiate against
    (`list_world(world_id)`); check the dekanonisierte list — nothing revived
 4. Determine build type: new sub-locality inside an existing Kernwelt, a new

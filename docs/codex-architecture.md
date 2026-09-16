@@ -50,9 +50,10 @@ phase as a navigational view, but the phase is explicitly non-normative because
 ## Retrieval contract
 
 1. Build the shared heading index with `python3 scripts/wiki_fts.py build`.
-2. Search with `--scope codex --limit 5`.
-3. Open only returned files and line ranges.
-4. For chapter work, route through `Wiki/context-map.md` first.
+2. For chapter work, route through `Wiki/context-map.md`, then run
+   `python3 scripts/codex_context.py "<terms>" --chapter N`.
+3. For explicit whole-novel work, use `--whole-novel`.
+4. Open only returned files and line ranges.
 5. Treat a Codex entry without explicit safety metadata as whole-novel context;
    absence of a spoiler boundary is never permission to load it early.
 

@@ -55,7 +55,8 @@ provenance graph.
 3. Make the smallest compatible renderer change. Keep Root indexes compact.
 4. Regenerate with `python3 scripts/render_codex_views.py`.
 5. Build and check retrieval with `python3 scripts/wiki_fts.py build` and
-   `doctor`; test a narrow `--scope codex` query.
+   `doctor`; test a narrow `--scope codex` query and a chapter-gated
+   `scripts/codex_context.py` query.
 6. Run `python3 scripts/render_codex_views.py --check`, relevant tests,
    compilation, link checks and `git diff --check`.
 7. Report generated/moved/removed views, consumer changes, retrieval evidence,

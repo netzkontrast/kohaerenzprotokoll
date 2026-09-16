@@ -44,7 +44,7 @@ types:
 
 targets:
   wiki: "[[slug]] — resolves to Wiki/**/<slug>.md; reverse link written per xref.yaml"
-  codex: "codex:<slug> — a Codex/GLOSSARY.md entry; terminal: never a reverse link, never auto-created"
+  codex: "codex:<slug> — a generated Codex/glossary/<kind>/<slug>.md entry; terminal: never a reverse link, never auto-created"
   canon: "canon:<file>#<heading> — a Canon/ passage; terminal: never a reverse link, never auto-created"
 
 cascade_risk:

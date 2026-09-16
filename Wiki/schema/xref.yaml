@@ -29,5 +29,5 @@ rules:
     reverse: none          # filed answers are leaves; nothing points back at them
 
 terminal:
-  - {prefix: "codex:", meaning: Codex/GLOSSARY.md entry, reverse: none, auto_create: never}
+  - {prefix: "codex:", meaning: generated Codex/glossary/<kind>/<slug>.md entry, reverse: none, auto_create: never}
   - {prefix: "canon:", meaning: Canon/ passage, reverse: none, auto_create: never}

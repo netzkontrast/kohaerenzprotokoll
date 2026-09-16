@@ -15,7 +15,8 @@ Der Codex ist eine kompakte, vollständig generierte Projektion aus `.agency/ses
 ## Kontext-effizient arbeiten
 
 1. `python3 scripts/wiki_fts.py build`
-2. `python3 scripts/wiki_fts.py search "<begriffe>" --scope codex --limit 5`
+2. Für Kapitelarbeit: `python3 scripts/codex_context.py "<begriffe>" --chapter N`
+   Für ausdrücklich whole-novel Arbeit: `python3 scripts/codex_context.py "<begriffe>" --whole-novel`.
 3. Nur die zurückgegebenen Dateien und Zeilenbereiche öffnen.
 4. Für kapitelbegrenzte Arbeit zuerst `Wiki/context-map.md` anwenden; CodexEntries besitzen derzeit noch keine verlässliche Spoilergrenze.
 

@@ -40,8 +40,9 @@ For moves, splits, index repair, or schema evolution, use
 - Root Codex files are compact compatibility indexes. Content lives in
   `glossary/<kind>/<slug>.md`, `timeline/<phase>.md`, and
   `worlds/<world>.md`.
-- Search with `python3 scripts/wiki_fts.py search "<terms>" --scope codex
-  --limit 5` and open only returned line ranges.
+- For chapter work use `python3 scripts/codex_context.py "<terms>" --chapter
+  N`; for explicit whole-novel work use `--whole-novel`. Open only returned
+  line ranges.
 - Missing chapter/spoiler metadata is unsafe, not globally available.
 - Use `.claude/skills/codex-maintenance/SKILL.md` for renderer changes,
   migrations, drift repair, or Codex consumer updates.

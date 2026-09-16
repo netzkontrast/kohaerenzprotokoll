@@ -3,7 +3,8 @@
 [Up](index.md)
 
 This is the operational glossary for maintaining the research wiki. The
-generated in-universe/domain glossary remains `Codex/GLOSSARY.md`.
+generated in-universe/domain glossary lives under `Codex/glossary/**`;
+`Codex/GLOSSARY.md` remains its compact compatibility index.
 
 | term | meaning |
 |---|---|

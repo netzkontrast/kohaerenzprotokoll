@@ -44,8 +44,8 @@ Canon prose is German and stays German; your reports are English.
 4. Search existing prose for the term or beat (grep) — no new lore to patch continuity
    when an existing source already resolves it
 5. Run `python3 scripts/lint_chapter.py <file>`, search the scene terms with
-   `python3 scripts/wiki_fts.py search "<terms>" --scope codex --limit 5`, and
-   read only the returned Codex detail pages
+   `python3 scripts/codex_context.py "<terms>" --chapter N`, and read only the
+   spoiler-safe Codex detail pages it returns
 
 ## Review Lens (in this order)
 
