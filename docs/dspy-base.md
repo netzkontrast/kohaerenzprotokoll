@@ -29,7 +29,7 @@ serves: [Plan/wiki/knowledge-system-concept_2026-09-15.md](../Plan/wiki/knowledg
   fresh container, so re-run it there. Verified working on Deno 2.9.6 with
   DSPy 3.3.1: `PythonInterpreter()` starts and executes.
 
-  Not used in a live ingest yet — `--merge-role` is the cost lever that is.
+  Not used in a live ingest yet. The cost levers that are: chunking (default 3 sources), the extraction cache, and `--merge-role auto`, which spends the strong model only on concepts where a cross-source contradiction is possible — 26 of 46 in the pilot.
 
 ## Skills (agent-side)
 
@@ -144,7 +144,7 @@ are backend-independent (they are instructions + demos).
 | `tools/kpwiki/local_lm.py` | `ClaudeLM` — DSPy `BaseLM` over the `claude` CLI (vendored from Hmbown/dspy-local) |
 | `tools/kpwiki/schema.py` | Pydantic contract: the ingest models (`Citation`, `Claim`, `Triage`, `CanonConflict`, `OpenQuestion`) and the batch-compile models (`Extraction`, `ConceptPlan`, `ConceptDraft`, `PageState`, `IngestDecision`, `Diff`, `Compiled`); every page enum built from `Wiki/schema/entities.yaml` |
 | `tools/kpwiki/signatures.py` | `TriageSource`, `ExtractClaims`, `CheckCanonConflict`, `RaiseQuestions`, `PlanConcepts`, `MergeConcept`, `DecideIngest`, `KnowledgeDiff` |
-| `tools/kpwiki/programs.py` | `SourceIngest` (triage → cited claims → canon conflicts) and `BatchCompile` (the two-phase compiler); retrieval injected as a callable |
+| `tools/kpwiki/programs.py` | `SourceIngest` (triage → cited claims → canon conflicts) and `BatchCompile` (the two-phase compiler). Three things are injected as callables: canon retrieval, the extraction cache (`load_extraction`) and a concept's claim history (`prior_claims`) — the last is what lets chunked ingest merge a concept from every claim it has ever been given. `merge_role="auto"` routes multi-source concepts to the task model and single-source ones to the worker |
 | `tools/kpwiki/metrics.py` | `ingest_metric` — weighted axes + teachable feedback |
 | `tools/kpwiki/compile_metric.py` | `compile_metric` plus the helpers the lint reuses (`citation_resolves`, `decision_legal`, `diff_consistent`, `concept_problems`) |
 | `tools/kpwiki/compile_fixture.py` | the hand-built batch the dry run and the offline tests score (a clean and a deliberately broken copy) |

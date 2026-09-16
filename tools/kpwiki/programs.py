@@ -46,6 +46,16 @@ def number_lines(body: str) -> str:
     return "\n".join(f"{i:04d}| {line}" for i, line in enumerate(body.splitlines(), start=1))
 
 
+def no_prior_claims(_slug: str) -> list["ClaimRef"]:
+    """No history: a concept is merged from this batch's claims alone."""
+    return []
+
+
+def no_extraction_cache(_slug: str) -> Extraction | None:
+    """No cache: every source is read again."""
+    return None
+
+
 def no_canon_retrieval(_claims: list[Claim]) -> str:
     """Retriever used in dry runs: nothing retrieved, so nothing can conflict."""
     return ""
@@ -55,16 +65,28 @@ class SourceIngest(dspy.Module):
     """Turn one source export into triage, cited claims and canon conflicts."""
 
     def __init__(self, retrieve_canon: CanonRetriever = no_canon_retrieval,
-                 merge_role: str = "task"):
-        """`merge_role` picks the LM the per-concept merge runs on.
+                 merge_role: str = "auto", prior_claims: PriorClaims = no_prior_claims,
+                 load_extraction: ExtractionCache = no_extraction_cache):
+        """`merge_role` picks the LM each per-concept merge runs on.
 
-        Merge dominates a batch — 46 of 53 calls in the 2026-09-16 pilot — so
-        running it on the cheap `worker` model is the largest single cost lever.
-        It is also where contradiction detection lives, which is why it is a
-        parameter to be measured rather than a default to be assumed.
+        Merge dominates a batch — 46 of 53 calls in the 2026-09-16 pilot — so it
+        is the cost lever, and it is also where contradiction detection lives.
+        Those pull in opposite directions, so `"auto"` routes instead of
+        choosing: a concept drawing on more than one source can hold a
+        cross-source disagreement and gets the `task` model; one drawing on a
+        single source cannot, by construction, and gets `worker`. In the pilot
+        that was 26 against 20 — 43% of merges spent where no contradiction was
+        possible. `"task"` or `"worker"` force one model for every merge.
+
+        `prior_claims(slug)` returns the claims an earlier chunk already
+        assigned to that concept. Without it, chunked ingest would merge each
+        concept from the current chunk alone and never see that a document in
+        chunk 5 contradicts one from chunk 1.
         """
         super().__init__()
         self.merge_role = merge_role
+        self.prior_claims = prior_claims
+        self.load_extraction = load_extraction
         self.triage = dspy.ChainOfThought(TriageSource)
         self.extract = dspy.Predict(ExtractClaims)
         self.conflicts = dspy.ChainOfThought(CheckCanonConflict)
@@ -94,6 +116,10 @@ class SourceInput(BaseModel):
     source_file: str = Field(description="repo-relative export path, 'Sources/drive/<slug>.md'")
     body: str = ""
     truncated: bool = False
+
+
+PriorClaims = Callable[[str], list["ClaimRef"]]
+ExtractionCache = Callable[[str], Extraction | None]
 
 
 class ClaimRef(NamedTuple):
@@ -142,6 +168,28 @@ def merge_plans(plans: list[ConceptPlan]) -> list[ConceptPlan]:
     return list(merged.values())
 
 
+def with_prior(chosen: list[ClaimRef], prior: list[ClaimRef]) -> list[ClaimRef]:
+    """This chunk's claims for a concept plus the ones earlier chunks gave it.
+
+    Deduplicated on (source, index) rather than `global_id`, which is only
+    unique within one batch: the same claim re-read in a later chunk carries a
+    different id but is the same sentence in the same document.
+    """
+    seen = {(r.source, r.index) for r in chosen}
+    return chosen + [r for r in prior if (r.source, r.index) not in seen]
+
+
+def merge_role_for(chosen: list[ClaimRef], configured: str) -> str:
+    """Which LM merges this concept — routed unless one was forced.
+
+    A concept whose claims all come from one document cannot hold a
+    cross-source disagreement, so the strong model buys nothing there.
+    """
+    if configured in ("task", "worker"):
+        return configured
+    return "task" if len({r.source for r in chosen}) > 1 else "worker"
+
+
 def _cited_files(draft: ConceptDraft) -> list[str]:
     citations = [c for s in draft.definition for c in s.citations]
     citations += [c for a in draft.agreements for c in a.citations]
@@ -153,16 +201,28 @@ class BatchCompile(dspy.Module):
     """Extract every source, cluster the batch's claims into concepts, merge, decide, diff."""
 
     def __init__(self, retrieve_canon: CanonRetriever = no_canon_retrieval,
-                 merge_role: str = "task"):
-        """`merge_role` picks the LM the per-concept merge runs on.
+                 merge_role: str = "auto", prior_claims: PriorClaims = no_prior_claims,
+                 load_extraction: ExtractionCache = no_extraction_cache):
+        """`merge_role` picks the LM each per-concept merge runs on.
 
-        Merge dominates a batch — 46 of 53 calls in the 2026-09-16 pilot — so
-        running it on the cheap `worker` model is the largest single cost lever.
-        It is also where contradiction detection lives, which is why it is a
-        parameter to be measured rather than a default to be assumed.
+        Merge dominates a batch — 46 of 53 calls in the 2026-09-16 pilot — so it
+        is the cost lever, and it is also where contradiction detection lives.
+        Those pull in opposite directions, so `"auto"` routes instead of
+        choosing: a concept drawing on more than one source can hold a
+        cross-source disagreement and gets the `task` model; one drawing on a
+        single source cannot, by construction, and gets `worker`. In the pilot
+        that was 26 against 20 — 43% of merges spent where no contradiction was
+        possible. `"task"` or `"worker"` force one model for every merge.
+
+        `prior_claims(slug)` returns the claims an earlier chunk already
+        assigned to that concept. Without it, chunked ingest would merge each
+        concept from the current chunk alone and never see that a document in
+        chunk 5 contradicts one from chunk 1.
         """
         super().__init__()
         self.merge_role = merge_role
+        self.prior_claims = prior_claims
+        self.load_extraction = load_extraction
         self.triage = dspy.ChainOfThought(TriageSource)
         self.extract = dspy.Predict(ExtractClaims)
         self.plan = dspy.ChainOfThought(PlanConcepts)
@@ -190,6 +250,10 @@ class BatchCompile(dspy.Module):
             if src.truncated or not src.body.strip():
                 skipped.append(src.slug)
                 continue
+            cached = self.load_extraction(src.slug)
+            if cached is not None:                      # a source is read once, ever
+                extractions.append(cached)
+                continue
             triage = self.triage(title=src.title, category_hint=src.category_hint,
                                  body=src.body[:BODY_PREVIEW_CHARS]).triage
             claims = self.extract(source_file=src.source_file, numbered_body=number_lines(src.body),
@@ -215,7 +279,9 @@ class BatchCompile(dspy.Module):
             if not chosen:
                 continue
             used.update(r.global_id for r in chosen)
-            concepts.append(self._merge_one(plan, chosen, file_to_source, pages, known_entities))
+            slug = plan.existing_slug if plan.existing_slug in pages else plan.slug
+            merged = with_prior(chosen, self.prior_claims(slug))
+            concepts.append(self._merge_one(plan, merged, file_to_source, pages, known_entities))
         return concepts, used
 
     def _merge_one(self, plan: ConceptPlan, chosen: list[ClaimRef], file_to_source: dict[str, SourceInput],
@@ -223,7 +289,7 @@ class BatchCompile(dspy.Module):
         files = list(dict.fromkeys(r.claim.citation.file for r in chosen))
         lines = [f"{f} → {file_to_source[f].slug} ({file_to_source[f].index_date})" if f in file_to_source else f"{f} → ?"
                  for f in files]
-        with lm.lm_context(self.merge_role):
+        with lm.lm_context(merge_role_for(chosen, self.merge_role)):
             draft = self.merge(title=plan.title, kind_detail=plan.kind_detail,
                                claims=[r.claim for r in chosen],
                                claim_sources="\n".join(lines),

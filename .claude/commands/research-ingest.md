@@ -3,10 +3,11 @@ description: >-
   Compile a batch of exported Drive sources into candidate wiki pages with
   BatchCompile: triage, cited claims, concepts merged across the whole batch, a
   knowledge diff, and drafts in Wiki/candidates/ that a human promotes later.
-  --extract-only runs the cheap half alone: source pages and cached claims,
-  no concept layer.
-  Usage: /research-ingest [--slug … | --category … | --tier … | --batch N]
-argument-hint: "[--slug <slug> | --category audit | --tier T3-work] [--batch N] [--extract-only] [--merge-role task|worker]"
+  Ingests in chunks by default, carrying each concept's claim history across
+  them so contradictions are found whether or not two documents arrived in the
+  same chunk. --extract-only runs the cheap half alone.
+  Usage: /research-ingest [--slug … | --category … | --tier … | --chunk N]
+argument-hint: "[--slug <slug> | --category audit | --tier T3-work] [--chunk N] [--extract-only] [--merge-role auto|task|worker]"
 ---
 
 # Research ingest — sources become candidates, never pages
@@ -45,6 +46,46 @@ then storyform, characters, worldbuilding, plot; T2 theory last.
 **Never set `--write` on your own** — user-facing flags are user-owned
 (`writers.yaml → user_flags`). Ask first, with the dry-run output in hand.
 
+### Chunked is the default
+
+A run is split into chunks of `chunk_size` sources (`Wiki/schema/conventions.yaml`,
+currently **3**). Each chunk plans, merges, writes its pages and updates the
+concept index on its own, so an interrupted run resumes at a chunk boundary
+instead of restarting, and you can read real pages after the first chunk
+rather than after the last.
+
+**What makes chunking safe.** Naive chunking would merge each concept from the
+claims in the chunk at hand, so a document in chunk 5 contradicting one in
+chunk 1 would produce two agreeable pages and no disagreement — a wiki that
+looks clean because it stopped checking. Two artifacts prevent that:
+
+| artifact | holds |
+|---|---|
+| `Wiki/candidates/_extractions/<slug>.json` | every claim a source yielded, so a source is read once ever |
+| `Wiki/candidates/_extractions/_concepts.json` | `{concept slug: [source:index, …]}` — every claim a concept has ever been given |
+
+Before merging, a concept's claims from this chunk are joined with everything
+earlier chunks assigned to it, deduplicated on `(source, index)`. A concept is
+therefore always merged from its full history, and `--chunk` changes cost and
+resumability, never what gets found.
+
+Chunk 2 also reads chunk 1's candidate drafts when planning, so a concept keeps
+one slug across chunks instead of spawning a parallel page.
+
+### Merge routing, and why it is the real lever
+
+`--merge-role auto` (the default) picks the model per concept:
+
+- claims from **more than one source** → the `task` model. A cross-source
+  disagreement is possible here, and this is the step that finds it.
+- claims from **exactly one source** → the `worker` model. Such a concept
+  cannot hold a cross-source contradiction by construction, so the strong model
+  buys nothing.
+
+In the pilot that split was 26 against 20: **43% of merge calls were spent
+where no contradiction was possible.** `--merge-role task` or `worker` forces
+one model everywhere, which is what to use when comparing quality.
+
 ### The two halves, and why the split exists
 
 A batch is a cheap per-source half and an expensive batch-wide half:
@@ -77,9 +118,9 @@ entirely in the merge step. Source pages carry each document's own claims, so
 two documents that disagree sit side by side without anything saying so. That
 is the point of the concept layer, and deferring it defers that.
 
-`--merge-role worker` runs the merge on the cheap model — the largest cost
-lever, and also the step that finds contradictions, so compare before trusting
-it on a full slice.
+A basic ingest fills `Wiki/candidates/sources/` and leaves the concept index
+empty; the chunked concept run later picks those cached claims up without
+re-reading a body.
 
 Without `ANTHROPIC_API_KEY` the run goes through the `claude` CLI
 (`KP_LM_BACKEND=auto`); `KP_LM_CLI_LOG` shows one line per call so a long

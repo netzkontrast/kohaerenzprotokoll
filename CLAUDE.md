@@ -65,7 +65,7 @@ Canon/ ──/kp-canon──┐                                              a D
 
 | command | does |
 |---|---|
-| `/research-ingest` | a batch of exported sources → candidate pages, a knowledge diff, a metric score |
+| `/research-ingest` | exported sources → candidate pages, a knowledge diff, a metric score; chunked by default (3 sources), each concept merged from its whole claim history |
 | `/kp-promote` | a reviewed candidate → `Wiki/sources/` or `Wiki/concepts/` |
 | `/kp-canon` | `Canon/` → `Graph/`, then re-render the Codex views |
 | `/kp-world` | derive a Kernwelt, level or population through the chain, then land it in `Graph/` |

@@ -21,7 +21,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 import wiki_lint  # noqa: E402
 
-from tools.kpwiki import candidates, wiki_pages, wiki_schema  # noqa: E402
+from tools.kpwiki import candidates, programs, wiki_pages, wiki_schema  # noqa: E402
 from tools.kpwiki import compile_fixture as fx  # noqa: E402
 from tools.kpwiki import research_ingest_cli as cli  # noqa: E402
 from tools.kpwiki.wiki_lint_rules import build_context  # noqa: E402
@@ -300,8 +300,9 @@ def test_the_write_path_reaches_batchcompile_with_the_chosen_merge_role(repo: Pa
     seen = {}
 
     class Recorder:
-        def __init__(self, merge_role: str = "task"):
+        def __init__(self, merge_role: str = "auto", **rest):
             seen["merge_role"] = merge_role
+            seen.update(rest)
 
         def __call__(self, **kwargs):
             raise SystemExit(0)                      # stop before any LM call
@@ -312,6 +313,8 @@ def test_the_write_path_reaches_batchcompile_with_the_chosen_merge_role(repo: Pa
         cli.main(["--root", str(repo), "--category", "kernkonzept",
                   "--write", "--merge-role", "worker"])
     assert seen["merge_role"] == "worker"
+    # The chunk loop must hand BatchCompile both carriers, or chunking loses history.
+    assert callable(seen["prior_claims"]) and callable(seen["load_extraction"])
 
 
 # --- basic ingest: sources only, no concept layer --------------------------------------
@@ -374,3 +377,56 @@ def test_a_second_basic_ingest_extracts_nothing_again(repo: Path, monkeypatch, c
     assert basic_ingest(repo, monkeypatch, again) == 0
     assert again == [], "a cached source was extracted a second time"
     assert "cached" in capsys.readouterr().out
+
+
+# --- chunked ingest: the default, and the invariant that makes it safe ------------------
+
+
+def test_chunking_splits_sources_and_defaults_to_the_schema_value():
+    ns = cli.build_parser().parse_args([])
+    assert ns.chunk == wiki_schema.conventions()["batches"]["chunk_size"]
+    assert ns.merge_role == "auto"
+    sizes = [len(g) for g in cli.chunks_of(list(range(7)), 3)]
+    assert sizes == [3, 3, 1]
+
+
+def test_merge_is_routed_by_whether_a_contradiction_is_possible():
+    """43% of the pilot's merges were on concepts that cannot disagree."""
+    one = [programs.ClaimRef(1, "src-a", 0, "x")]
+    two = one + [programs.ClaimRef(2, "src-b", 0, "y")]
+    assert programs.merge_role_for(two, "auto") == "task"
+    assert programs.merge_role_for(one, "auto") == "worker"
+    assert programs.merge_role_for(one, "task") == "task"      # an explicit choice still wins
+    assert programs.merge_role_for(two, "worker") == "worker"
+
+
+def test_prior_claims_join_this_chunk_without_duplicating_a_claim():
+    here = [programs.ClaimRef(1, "src-a", 0, "x")]
+    prior = [programs.ClaimRef(7, "src-a", 0, "x"), programs.ClaimRef(8, "src-b", 2, "z")]
+    joined = programs.with_prior(here, prior)
+    assert [(r.source, r.index) for r in joined] == [("src-a", 0), ("src-b", 2)]
+
+
+def test_the_concept_index_round_trips_and_feeds_the_next_chunk(repo: Path):
+    """The invariant chunking depends on: a concept keeps every claim it was given."""
+    extraction = fx.extractions()[0]
+    cli.cache_extraction(repo, extraction)
+    index = {"system-kael": [f"{extraction.source}:0"]}
+    cli.save_concept_index(repo, index)
+    assert cli.load_concept_index(repo) == index
+    resolved = cli.prior_claims_resolver(repo, index)("system-kael")
+    assert [(r.source, r.index) for r in resolved] == [(extraction.source, 0)]
+    assert cli.prior_claims_resolver(repo, index)("never-seen") == []
+
+
+def test_a_later_chunk_inherits_the_claims_an_earlier_one_assigned(repo: Path):
+    """Chunk 2 must merge chunk 1's claims too, or a cross-chunk clash is invisible."""
+    for extraction in fx.extractions():
+        cli.cache_extraction(repo, extraction)
+    run = fx.handmade_compiled()
+    index = cli.record_concept_claims({}, run, {})
+    assert index, "no concept claimed anything"
+    carried = cli.record_concept_claims(index, run, {})
+    assert carried == index, "re-recording the same chunk duplicated claims"
+    slug = next(iter(index))
+    assert cli.prior_claims_resolver(repo, index)(slug), f"{slug} resolved to no prior claims"
