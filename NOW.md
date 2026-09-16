@@ -31,19 +31,29 @@ them in order with a carry-forward list catches it.
 1. ~~**Term census per document.**~~ **Four documents have one**, each written
    from its own document only — 46, 94, 71 and 58 candidates, twenty-one special
    cases. Three comparisons in `Wiki/compare/`, **each superseded by the next**.
-   Next: term pages from document 4, which closes three `readings: 0` pages —
-   `guardians`, `kern-welten`, `risse` — from a document dated the same day as
-   the one that left them empty.
-2. **Then the term pages**, built from censuses rather than from memory.
-   `Emergenz` forces the conflict record of decision 003 to exist.
-3. **Then the counter** — not an extractor. The first document showed the tool
+   Next: **write the 13 new pages and 3 new readings** that
+   `Wiki/compare/004` names.
+
+2. **`reconcile` replaced `compare`.** One frozen census against the current
+   pages, not against every earlier document — per document, append-only. The
+   first three comparisons each superseded the last, which was the step saying it
+   did not scale. `Plan/concept/what-is-being-tested_2026-09-16.md` has the
+   design and what it makes measurable.
+
+3. **Start timing a census.** The retired pipeline cost $2.79 and 18 minutes per
+   document; the hand process has **no equivalent number at all**, so the
+   comparison the whole plan turns on cannot be made. Four documents done, none
+   timed.
+4. **Then the conflict records.** `blinder-fleck` is the first with two bearers
+   and no document that knows both — decision 003's case, arrived at for real.
+5. **Then the counter** — not an extractor. The first document showed the tool
    the work actually wants: *given a list of candidates, report occurrences,
    lines, substring collisions and frontmatter contamination.* Proposing and
    judging stay with the reader. `Plan/learnings/extract-terms.md` has the
    derivation, step by step.
-4. **Then the citation checker**, calibrated against the hand-written pages
+6. **Then the citation checker**, calibrated against the hand-written pages
    first — if it reports errors on careful work, the checker is wrong.
-5. **Then measure one model** against the hand-written censuses and notes as a
+7. **Then measure one model** against the hand-written censuses and notes as a
    gold set, and **then** the budget is yours to decide, priced from real
    numbers rather than from the retired system's $2.79 per document.
 

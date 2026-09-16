@@ -59,7 +59,7 @@ Drive ──fetch──→ Sources/drive/*.md ──┬──extract──→ So
                                       │                    │
                                       └──read─────→ Sources/notes/*.md
                                                            │
-                                                       compare ──→ Wiki/compare/*.md
+                                                      reconcile ──→ Wiki/compare/*.md
                                                            │
                                                         gather
                                                            ▼
@@ -77,9 +77,19 @@ line numbers.
 
 **A census describes one document and nothing else** — no count, comparison or
 expectation from another source. `scripts/profile.py` makes that identical
-treatment mechanical rather than a promise: every census opens with the same
-probes in the same order. Documents meet only in the `compare` step, so what the
-comparison finds is a result rather than an assumption carried in.
+treatment mechanical rather than a promise, and `Plan/briefings/extract.md` is
+read before the document: it carries **procedural** knowledge (what German Drive
+exports do) and never **document** knowledge (what some other file said).
+
+Documents meet in `reconcile`, which compares one frozen census against the
+**current pages** rather than against every earlier document. Its record is
+per document and append-only. The first three comparisons were full
+re-comparisons and each superseded the last — that was the step telling us it did
+not scale.
+
+**Extraction's independence is what makes reconciliation safe.** The census is
+frozen before the wiki is consulted, so the accumulated state cannot decide in
+advance what a new document is allowed to say.
 
 `Plan/learnings/extract-terms.md` has the fourteen special cases the first two
 censuses found, and why the first comparison inverted the premise the step was
