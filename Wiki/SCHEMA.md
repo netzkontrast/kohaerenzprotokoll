@@ -32,7 +32,7 @@ Wiki/
   sources/<slug>.md    one page per ingested Drive document (tier T1, T2, T3)
   concepts/<slug>.md   one page per merged concept, entity, rule, theory, motif
   questions/<slug>.md  one page per open question about our understanding
-  syntheses/<slug>.md  filed /query answers (leaves)
+  syntheses/<slug>.md  filed /kp-ask answers (leaves)
   candidates/          everything a program wrote and no human has reviewed
   graph/edges.jsonl    the wiki's relation index (tools-only)
   graph/coverage.json  RENDERED coverage numbers — never edit
@@ -63,11 +63,11 @@ date.
 
 ## Two axes, one graph (D-W2)
 
-"The graph" in every document of this repo means the provenance graph
-`.agency/session.db`. It receives **no page content**: pages are files and
-`graph/edges.jsonl` is only the wiki's relation index. Atomic cited claims
-enter the graph through `capture_claim` with a `source_uri` under `Sources/`
-or `Canon/`, never `Wiki/`. The lint rules `no-page-body-in-graph` and
+"The graph" in every document of this repo means the provenance graph in
+`Graph/` — one JSONL file per node label, documented in `Graph/README.md`. It
+receives **no page content**: pages are files and `graph/edges.jsonl` is only
+the wiki's relation index. Atomic cited claims enter the graph as `NovelClaim`
+records with a `source_uri` under `Sources/` or `Canon/`, never `Wiki/`. The lint rules `no-page-body-in-graph` and
 `no-reverse-into-canon` enforce both directions.
 
 ## Canon inside the loop (D-W12)
@@ -110,11 +110,11 @@ lines with `op=claim`.
 |---|---|---|
 | `/source-inventory`, `scripts/source_dedup.py` | `Sources/manifest.jsonl` | an LLM call |
 | `/research-ingest` (`BatchCompile`) | `candidates/`, `graph/edges.jsonl`, `log.md` | `sources/`, `concepts/`, `Canon/` |
-| `/wiki-promote` | `sources/`, `concepts/`, `questions/`, `syntheses/`, `log.md` | a candidate that fails lint or whose hash changed |
+| `/kp-promote` | `sources/`, `concepts/`, `questions/`, `syntheses/`, `log.md` | a candidate that fails lint or whose hash changed |
 | `/wiki-understand` (`MergeConcepts`) | `candidates/`, `concept-table.md` (rendered), `overview.md` (candidate) | a reviewed concept page |
 | `/interrogate-canon`, `/clarify` | `questions/` (draft), `log.md` | `Canon/` |
 | `/tetraframe` | `Plan/decisions/tetraframe/`, `log.md` | a decision |
-| `/promote-to-canon` | `Plan/ingest/` proposal | `Canon/` (the author applies the patch) |
+| `/kp-canon` | `Graph/` | `Canon/` (the author writes canon prose) |
 | `scripts/render_wiki_views.py` | `index.md`, `concept-table.md`, `graph/coverage.json` | anything else |
 | `scripts/wiki_lint.py --fix` | reverse links, default fields, `graph/coverage.json` | page content |
 
@@ -131,7 +131,7 @@ python3 scripts/wiki_fts.py search "…"       # candidate finder; open the page
 ```
 
 The lint runs as a warn-only PostToolUse hook on `Wiki/**` and as a hard
-gate before `/wiki-promote`. `/lint-wiki` (LLM) and the adversarial review
+gate before `/kp-promote`. The adversarial review
 (`dspy-adversarial-review`, reviewer ≠ writer) run per milestone. Rule 0
 still governs: on any canon, plot, wording or scope ambiguity the session
 asks the author instead of assuming.

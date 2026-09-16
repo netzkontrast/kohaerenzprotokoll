@@ -1,17 +1,23 @@
 ---
 name: novel-architect
-description: Project-specific orchestrator for Kohärenz Protokoll whole-novel architecture, premise, arcs, chapter roles, continuity and planning before prose.
-metadata:
-  category: creative-writing
-  source: repo
-  version: "2.0.0"
-  status: active
-  date_updated: "2026-09-11"
+description: The whole authoring surface for Kohärenz Protokoll — arc architecture and chapter roles, the plural character system and Sprach-DNA, scene drafting and reveal discipline, structural sequencing and the Vortices, worldbuilding and sensorics. Use for any planning, drafting or revision of the novel itself; it routes to the reference file for the layer you are working in.
 ---
 
 # Novel Architect — Kohärenz Protokoll
 
-Use this skill for whole-novel architecture, premise, arc sequencing, chapter-role design, cross-arc continuity, and deciding what should be planned before prose.
+One skill for the whole novel. Start here, then open the reference file for the
+layer the request actually touches. The locks below hold across every layer.
+
+| the request is about | open |
+|---|---|
+| Kael's parts, arcs, Sprach-DNA, somatics, reveal timing | [reference/character.md](reference/character.md) |
+| drafting or revising a scene, local causality, sensorics | [reference/scene.md](reference/scene.md) |
+| sequencing, dual-storyform weaving, Vortices, setup/payoff | [reference/structure.md](reference/structure.md) |
+| KW1–KW4, levels, axioms, anomaly design | [reference/world.md](reference/world.md) |
+| older drafts, removed snapshots, recovering intent | [reference/legacy.md](reference/legacy.md) |
+
+Exact Dramatica vocabulary and storyform slots are the `dramatica` skill.
+NCP A/B alignment is `ncp-author`. Prose review is `lit-critic`.
 
 ## Read first
 
@@ -19,9 +25,9 @@ Use this skill for whole-novel architecture, premise, arc sequencing, chapter-ro
 - [Current work overview](../../../Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/work.md)
 - [Current premise](../../../Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/premise.md)
 - [Normative storyform/outline canon](../../../Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md)
-- [Akt I plan](../../../Plan/drafting/akt1-arc-optimized_2026-09-11.md)
-- [Akt II plan](../../../Plan/drafting/akt2-arc-optimized_2026-09-11.md)
-- [Akt III plan](../../../Plan/drafting/akt3-arc-optimized_2026-09-11.md)
+- [Akt I plan](../../../Plan/drafting/akt1-arc-optimized_2026-09-11.md) ·
+  [Akt II plan](../../../Plan/drafting/akt2-arc-optimized_2026-09-11.md) ·
+  [Akt III plan](../../../Plan/drafting/akt3-arc-optimized_2026-09-11.md)
 
 ## Current architecture
 
@@ -40,11 +46,29 @@ Use this skill for whole-novel architecture, premise, arc sequencing, chapter-ro
 7. Preserve the distinction between Vortex 1 (truth rotation) and Vortex 2 (synthesis).
 8. Log any new non-canonical choice as `[V]`; do not silently promote it to canon.
 
-## Do not
+## Locks that hold everywhere
 
-- Re-plan already solved arcs without identifying a concrete defect.
-- Turn AEGIS into a villain.
-- Make theory the visible plot.
-- Let Kap. 27–34 consume the climax reserved for 35/36.
-- Let Kap. 37 solve the whole novel.
-- Let Kap. 40 adjudicate Reset vs. Transfiguration.
+- AEGIS is tragically innocent, not malicious — never a villain.
+- Resolution is **functional multiplicity, never fusion**; no eliminated parts.
+- Juna is a cosmological constant/witness function, not merely a love interest.
+- Theory stays submerged: the reader meets mechanisms through work, objects,
+  timing, space, body, logs and omission, never through exposition.
+- Kap. 27–34 do not consume the climax reserved for 35/36; Kap. 37 does not
+  solve the novel; Kap. 40 does not adjudicate Reset vs. Transfiguration.
+- German prose out, English engineering in. On any canon ambiguity, ask
+  (Rule 0) rather than deciding.
+
+## Before declaring a piece of work finished
+
+Run the deterministic checks — they are free and they are the repo's memory:
+
+```bash
+python3 scripts/lint_chapter.py <chapter.md>   # R-rules + Act-I fences
+python3 scripts/kp_check.py                    # every free gate at once
+```
+
+Then confirm, by reading rather than by assertion: frontmatter is complete,
+every cross-reference resolves, every new term has a codex entry in
+`Graph/nodes/codex_entry.jsonl`, and no sentence defers work instead of doing
+it. A lint proves a forbidden word is absent; it can never show that something
+required is missing, so the reading still has to happen.

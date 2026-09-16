@@ -13,10 +13,10 @@ if [ -f "$root/.claude/CURRENT_TASK.md" ]; then
     echo "Continue from the 'Next concrete step' above."
 fi
 
-if [ -f "$root/scripts/render_codex_views.py" ] && [ -f "$root/.agency/session.db" ]; then
+if [ -f "$root/scripts/render_codex_views.py" ] && [ -d "$root/Graph" ]; then
     if ! python3 "$root/scripts/render_codex_views.py" --check >/dev/null 2>&1; then
         echo ""
-        echo "⚠  Codex/ views are stale vs .agency/session.db — run: python3 scripts/render_codex_views.py"
+        echo "⚠  Codex/ views are stale vs Graph/ — run: python3 scripts/render_codex_views.py"
     fi
 fi
 exit 0

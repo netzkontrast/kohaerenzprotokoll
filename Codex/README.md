@@ -1,6 +1,6 @@
 # Codex/ — generated views of the provenance graph
 
-These files are **rendered** from `.agency/session.db` by
+These files are **rendered** from `Graph/` by
 `python3 scripts/render_codex_views.py` and are write-protected in
 `.claude/settings.json`. Do not edit them by hand: change the graph through
 capability verbs (`create_codex_entry`, `update_codex_entry`,

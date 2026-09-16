@@ -58,7 +58,7 @@ case "$filepath" in
     */Codex/GLOSSARY.md|*/Codex/MASTER-TIMELINE.md|*/Codex/WORLD-AXIOMS.md|Codex/*.md)
         echo ""
         echo "⚠  GENERATED VIEW EDITED: $filepath"
-        echo "  Codex/ is rendered from .agency/session.db. Hand edits are overwritten."
+        echo "  Codex/ is rendered from Graph/. Hand edits are overwritten."
         echo "  Change the graph (create/update_codex_entry, record_story_event,"
         echo "  create_world_axiom) and run: python3 scripts/render_codex_views.py"
         echo ""

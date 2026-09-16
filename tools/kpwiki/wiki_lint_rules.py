@@ -20,7 +20,6 @@ import datetime as dt
 import hashlib
 import json
 import re
-import sqlite3
 import subprocess
 from collections import Counter, defaultdict
 from dataclasses import dataclass, field
@@ -30,6 +29,7 @@ from typing import Any, Callable, Iterator
 import yaml
 
 from . import wiki_pages, wiki_schema
+from .. import kpgraph
 from .wiki_pages import LogLine, Page
 
 SEVERITIES = ("error", "warn", "info")
@@ -926,11 +926,13 @@ def rule_candidate_age(ctx: LintContext) -> list[Finding]:
 
 # --- rule 20: no-page-body-in-graph -------------------------------------------------
 
-def graph_values(db: Path) -> Iterator[tuple[Any, str]]:
-    uri = db.resolve().as_uri() + "?mode=ro"
-    with contextlib.closing(sqlite3.connect(uri, uri=True)) as con:
-        query = "SELECT node_id, value FROM node_props_text WHERE length(value) >= ?"
-        yield from con.execute(query, (GRAPH_VALUE_MIN_CHARS,))
+def graph_values(graph_dir: Path) -> Iterator[tuple[Any, str]]:
+    """``(node id, text)`` for every long string a Graph/ record carries."""
+    for path in sorted((graph_dir / "nodes").glob("*.jsonl")):
+        for record in kpgraph.read_jsonl(path):
+            for key, value in record.items():
+                if isinstance(value, str) and len(value) >= GRAPH_VALUE_MIN_CHARS:
+                    yield record.get("_nid", record.get("id", key)), value
 
 
 def rule_no_page_body_in_graph(ctx: LintContext) -> list[Finding]:
@@ -939,7 +941,7 @@ def rule_no_page_body_in_graph(ctx: LintContext) -> list[Finding]:
     if not page_shingles:
         return []
     db = ctx.repo_root / wiki_schema.conventions()["graph"]["provenance"]
-    if not db.is_file():
+    if not db.is_dir():
         return [Finding("no-page-body-in-graph", "info", ctx.display(db), None,
                         "provenance graph not present; rule skipped")]
     out: list[Finding] = []
@@ -955,7 +957,7 @@ def rule_no_page_body_in_graph(ctx: LintContext) -> list[Finding]:
                                        f"body overlaps node {node_id} of {ctx.display(db)} "
                                        f"({overlap:.0%} shared {SHINGLE_WORDS}-word shingles); "
                                        f"page bodies never enter the provenance graph (D-W2)"))
-    except sqlite3.Error as exc:
+    except (OSError, ValueError) as exc:
         return [Finding("no-page-body-in-graph", "info", ctx.display(db), None,
                         f"could not read the provenance graph ({exc}); rule skipped")]
     return out

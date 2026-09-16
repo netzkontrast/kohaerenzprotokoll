@@ -28,7 +28,6 @@ from tools.kpgraph.writer import GraphWriter          # noqa: E402
 
 ING = ROOT / "Plan" / "ingest"
 LEDGER = ING / "ledger.json"
-VERB_PREFIX = "capability_novel_"
 INTENT = "intent:081f5ced"
 AGENT = "agent:claude"
 NOVEL = "novel:9d170c31"
@@ -60,10 +59,6 @@ def writer() -> GraphWriter:
     return _WRITER
 
 
-def _verb(tool: str) -> str:
-    return tool[len(VERB_PREFIX):] if tool.startswith(VERB_PREFIX) else tool
-
-
 def run_ops(ops: list[dict], _retry: bool = True) -> tuple[list, list]:
     """Apply a batch of {tool, args} ops; return (results, errors) aligned 1:1.
 
@@ -75,7 +70,7 @@ def run_ops(ops: list[dict], _retry: bool = True) -> tuple[list, list]:
     errors: list = []
     for operation in ops:
         try:
-            results.append(writer().apply(_verb(operation["tool"]), operation["args"]))
+            results.append(writer().apply(operation["tool"], operation["args"]))
         except (KeyError, TypeError, ValueError) as exc:
             results.append(None)
             errors.append([operation["tool"], str(operation["args"])[:120], f"[permanent] {exc}"])
@@ -305,9 +300,9 @@ def main() -> int:
 
     # P1 — worlds (6 from kernwelten + 1 meta layer for cross-world axioms)
     if not phase_done("worlds"):
-        ops = [op("capability_novel_create_world", slug=w["slug"], name=w["name"])
+        ops = [op("create_world", slug=w["slug"], name=w["name"])
                for w in m["kernwelten"]["worlds"]]
-        ops.append(op("capability_novel_create_world", slug="kosmos-meta",
+        ops.append(op("create_world", slug="kosmos-meta",
                       name="Kosmos (Meta-Ebene) — übergreifende Invarianten"))
         errs_all = []
         slugs = [w["slug"] for w in m["kernwelten"]["worlds"]] + ["kosmos-meta"]
@@ -325,19 +320,19 @@ def main() -> int:
         for w in m["kernwelten"]["worlds"]:
             wid = ids.get(f"world:{w['slug']}")
             for a in w.get("axioms", []):
-                ops.append(op("capability_novel_create_world_axiom", world_id=wid,
+                ops.append(op("create_world_axiom", world_id=wid,
                               text=a["text"], severity=a.get("severity", "hard")))
         ueber = ids.get("world:ueberwelt-aegis-maschinenraum")
         for a in m["kernwelten"].get("global_axioms", []):
-            ops.append(op("capability_novel_create_world_axiom", world_id=ueber,
+            ops.append(op("create_world_axiom", world_id=ueber,
                           text=a["text"], severity=a.get("severity", "hard")))
         ext = ids.get("world:externe-ebene-koeln-2026")
         for a in m["begriffe"].get("axioms", []):
-            ops.append(op("capability_novel_create_world_axiom", world_id=ext,
+            ops.append(op("create_world_axiom", world_id=ext,
                           text=a["text"], severity=a.get("severity", "hard")))
         kosmos = ids.get("world:kosmos-meta")
         for a in m["philosophie"].get("axioms", []):
-            ops.append(op("capability_novel_create_world_axiom", world_id=kosmos,
+            ops.append(op("create_world_axiom", world_id=kosmos,
                           text=a["text"], severity=a.get("severity", "hard")))
         errs_all = []
         for batch in batched(ops):
@@ -356,7 +351,7 @@ def main() -> int:
               flush=True)
         errs_all = []
         for batch in batched([
-            op("capability_novel_create_codex_entry", novel_id=NOVEL,
+            op("create_codex_entry", novel_id=NOVEL,
                slug=e["slug"], name=e["name"], kind=e["kind"], body=e["body"],
                triggers=e["triggers"]) for e in entries
         ]):
@@ -379,7 +374,7 @@ def main() -> int:
             if ch["number"] in have:
                 continue
             body = clean if ch["number"] == 0 else chapter_body(ch)
-            ops.append(op("capability_novel_create_chapter", novel_id=NOVEL,
+            ops.append(op("create_chapter", novel_id=NOVEL,
                           number=ch["number"], title=ch["title"], body=body))
         errs_all = []
         for batch in batched(ops):
@@ -390,7 +385,7 @@ def main() -> int:
             errs_all += errs
             ledger_save(led)
         if ids.get("chapter:0"):
-            _, errs = run_ops([op("capability_novel_set_chapter_status",
+            _, errs = run_ops([op("set_chapter_status",
                                   chapter_id=ids["chapter:0"], status="revised")])
             errs_all += errs
         mark("chapters", errs_all)
@@ -406,7 +401,7 @@ def main() -> int:
         todo = [s for s in scenes if s["slug"] not in have]
         if todo:
             res, errs = run_ops([
-                op("capability_novel_create_scene", chapter_id=ch0,
+                op("create_scene", chapter_id=ch0,
                    slug=s["slug"], pov=scene_pov(s["pov"])) for s in todo])
             for s, r in zip(todo, res):
                 if r and r.get("scene_id"):
@@ -450,7 +445,7 @@ def main() -> int:
         for i, ev in enumerate(m["storyform"].get("story_events", [])):
             if ev["label"] in have_ev:
                 continue
-            ops.append(op("capability_novel_record_story_event", novel_id=NOVEL,
+            ops.append(op("record_story_event", novel_id=NOVEL,
                           label=ev["label"], when_story=ev.get("when_story", "")))
             keys.append((f"event:sf:{i}", None))
         for i, ev in enumerate(m["kap0"].get("story_events", [])):
@@ -461,7 +456,7 @@ def main() -> int:
                  "when_story": ev.get("when_story", "")}
             if sid:
                 a["scene_id"] = sid
-            ops.append(op("capability_novel_record_story_event", **a))
+            ops.append(op("record_story_event", **a))
             keys.append((f"event:k0:{i}", sid))
         for batch_keys, batch in zip(
                 [keys[i:i + 30] for i in range(0, len(keys), 30)],
@@ -472,7 +467,7 @@ def main() -> int:
                 if r and r.get("event_id"):
                     ids[key] = r["event_id"]
                     if sid:
-                        reveal_ops.append(op("capability_novel_reveal_in_scene",
+                        reveal_ops.append(op("reveal_in_scene",
                                              event_id=r["event_id"], scene_id=sid))
             if reveal_ops:
                 _, errs2 = run_ops(reveal_ops)
@@ -495,7 +490,7 @@ def main() -> int:
             for c in doc.get("claims", []):
                 if c["text"] in have_claims:
                     continue
-                ops.append(op("capability_novel_capture_claim", text=c["text"],
+                ops.append(op("capture_claim", text=c["text"],
                               source_uri=src, domain=dom_map.get(name, "cultural")))
         errs_all = []
         for batch in batched(ops):
@@ -505,7 +500,7 @@ def main() -> int:
 
     # P8 — contested storyform decisions
     if not phase_done("decisions"):
-        ops = [op("capability_novel_record_storyform_decision", novel_id=NOVEL,
+        ops = [op("record_storyform_decision", novel_id=NOVEL,
                   decision=d["decision"], rationale=d.get("rationale", ""))
                for d in m["storyform"].get("storyform_decisions", [])]
         errs_all = []
@@ -523,7 +518,7 @@ def main() -> int:
             for ln in c.get("world_links", []):
                 target = ids.get(f"world:{slug_ascii(ln.get('target', ''))}")
                 if cid and target:
-                    ops.append(op("capability_novel_link_character_to_world",
+                    ops.append(op("link_character_to_world",
                                   character_id=cid, target_id=target,
                                   edge_kind=ln.get("edge", "BELONGS_TO")))
         errs_all = []

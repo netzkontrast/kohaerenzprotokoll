@@ -1,38 +1,4 @@
 {
-  "enabledPlugins": {
-    "agency@agency": true,
-    "bitwize-music@bitwize-music": true,
-    "sc@superclaude": true,
-    "superpowers@superpowers-marketplace": true,
-    "episodic-memory@superpowers-marketplace": true,
-    "superpowers-developing-for-claude-code@superpowers-marketplace": true
-  },
-  "extraKnownMarketplaces": {
-    "agency": {
-      "source": {
-        "source": "github",
-        "repo": "netzkontrast/agency"
-      }
-    },
-    "bitwize-music": {
-      "source": {
-        "source": "github",
-        "repo": "bitwize-music-studio/claude-ai-music-skills"
-      }
-    },
-    "superclaude": {
-      "source": {
-        "source": "github",
-        "repo": "SuperClaude-Org/SuperClaude_Plugin"
-      }
-    },
-    "superpowers-marketplace": {
-      "source": {
-        "source": "github",
-        "repo": "obra/superpowers-marketplace"
-      }
-    }
-  },
   "permissions": {
     "allow": [
       "Read(*)",
@@ -52,7 +18,15 @@
       "Bash(python3 scripts/render_codex_views.py*)",
       "Bash(python3 scripts/check_enrichment.py*)",
       "Bash(python3 scripts/research-tool.py search*)",
-      "Bash(python3 scripts/research-tool.py list*)"
+      "Bash(python3 scripts/research-tool.py list*)",
+      "Bash(python3 scripts/kp_check.py*)",
+      "Bash(python3 scripts/storyform_check.py*)",
+      "Bash(python3 scripts/chapter_drift.py*)",
+      "Bash(python3 scripts/wiki_lint.py*)",
+      "Bash(python3 scripts/render_wiki_views.py*)",
+      "Bash(python3 scripts/audit_graph_claims.py*)",
+      "Bash(python3 scripts/source_inventory.py*)",
+      "Bash(python3 scripts/wiki_fts.py*)"
     ],
     "deny": [
       "Bash(rm -rf /*)",

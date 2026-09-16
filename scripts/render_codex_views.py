@@ -6,7 +6,8 @@ repo's checks and commands read. Those facts already live in `Graph/` as
 CodexEntry, StoryTimeEvent, WorldAxiom and World records (seeded from Canon/
 by `scripts/ingest_canon.py`). Rather than keeping a second, hand-edited copy
 that drifts, this script renders derived Markdown views from graph ground
-truth — the same relationship `materialize_manuscript.py` has to chapters.
+truth. The manuscript runs the other way: `Manuscript/` owns chapter prose,
+and `scripts/chapter_drift.py` reports where it and the graph diverge.
 
     python3 scripts/render_codex_views.py            # write Codex/*.md
     python3 scripts/render_codex_views.py --check    # exit 1 if views are stale
