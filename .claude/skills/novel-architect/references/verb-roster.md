@@ -3,18 +3,10 @@
 Moved out of `CLAUDE.md` 2026-09-16 (workflow-simplification pass): this is a
 lookup table, not working agreement, and it duplicates what `search` /
 `get_schema` already expose live from the engine — load it on demand instead
-of every session. See `CLAUDE.md` §"Novel capability" for the parts that
-stayed (how to invoke, the 5-verb spine, lifecycle enums, the gate ladder).
-
-The `novel` capability is the engine for authoring this book. **91 verbs**
-across 3 roles drive premise → manuscript with graph-recorded provenance.
-
-## Storyform coherence (Spec 120)
-
-`novel_coherence_check(ncp)` runs all 11 decidable storyform checks. The NCP
-schema (v1.3.0, 463 appreciations + 144 narrative_functions) and the Dramatica
-ontology ship with the capability; `validate_appreciations` / `validate_narrative_functions`
-gate against the canonical vocabularies.
+of every session. See `CLAUDE.md` §"Novel capability" for everything that
+stayed there — the "91 verbs, 3 roles" framing, how to invoke, the 5-verb
+spine, lifecycle enums, the gate ladder, and storyform coherence (Spec 120)
+— rather than restating it here.
 
 ## Verb roster — params in **bold** are required (`intent_id`/`agent_id` always optional)
 

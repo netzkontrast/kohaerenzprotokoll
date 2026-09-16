@@ -243,10 +243,14 @@ Skipping the conceptualizer's hard gate is a red flag → walk the `novel-concep
 
 ## Walkable skills (drive via `develop.skill_walk`, one phase at a time)
 
-`novel-concept` (conceptualizer) · `character-architect` · `world-bible-architect` ·
-`storyform-build` (builder) · `scene-bridge-auditor` (auditor) ·
-`developmental-editor` · `line-editor` (editors) · `scene-writer` (writer) ·
-`publish-prep` (publisher)
+Each carries the hard gates (`develop.skill_walk(name, inputs)` — each phase
+consumes its declared `produces` keys from `inputs`; the final confirmation
+phases REQUIRE explicit user sign-off → AskUserQuestion first):
+`novel-concept` (conceptualizer, 10 phases) · `character-architect` (4) ·
+`world-bible-architect` (5, canon-lock) · `storyform-build` (builder, 6 —
+fills `ncp.json`) · `scene-bridge-auditor` (auditor, 5) ·
+`developmental-editor` (editor, 5) · `line-editor` (editor, 4) ·
+`scene-writer` (writer, 5) · `publish-prep` (publisher, 4)
 
 ## Editorial gate ladder — 3 tiers over the same 9 checks (never skip a hard gate)
 
@@ -293,13 +297,8 @@ r_dev = await call_tool("capability_novel_developmental_gate", {"novel_id": nid}
 return {"tier": "draft-ready", "checks": {"pre_draft_gate": r_pre, "developmental_gate": r_dev}}
 ```
 
-Walkable skills carry the hard gates (`develop.skill_walk(name, inputs)` —
-each phase consumes its declared `produces` keys from `inputs`; the final
-confirmation phases REQUIRE explicit user sign-off → AskUserQuestion first):
-`novel-concept` (10 phases), `storyform-build` (6 — fills `ncp.json`),
-`character-architect` (4), `world-bible-architect` (5, canon-lock),
-`scene-writer` (5), `scene-bridge-auditor` (5), `developmental-editor` (5),
-`line-editor` (4), `publish-prep` (4).
+The hard gates inside each tier's walkable skills are listed under
+§"Walkable skills" above — not restated here.
 
 ## Storyform coherence (Spec 120)
 

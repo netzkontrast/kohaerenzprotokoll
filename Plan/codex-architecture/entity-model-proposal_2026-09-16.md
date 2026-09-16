@@ -1,6 +1,6 @@
 ---
 title: "Stable entity types + required fields"
-status: settled 2026-09-16 (author sign-off on all 3 forks) — fork 3 explicitly deferred to item 9
+status: final — author sign-off 2026-09-16 on all 3 forks; fork 3 explicitly deferred to item 9
 date: 2026-09-16
 scope: "todo.md item 4 of 10 — 'Stabile Codex-Entitäten und Pflichtfelder definieren'"
 ---
@@ -95,7 +95,7 @@ full 292 KB glossary" problem item 1 measured.
 
 ## Decisions taken (2026-09-16, author sign-off)
 
-1. **Entity-type list**: accepted as proposed (the 7 new `entity_type`
+1. **Entity-type list**: accepted as proposed (the 8 new `entity_type`
    values + 4 unchanged `kind` values above). This is now the target
    structure for items 6–10.
 2. **The 89 `concept`-kind entries with no `Kategorie:` marker**: given the

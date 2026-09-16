@@ -1,6 +1,6 @@
 ---
 title: "Knowledge dimensions — objective truth, character/reader knowledge, reveal, temporal validity"
-status: settled — 4 of 5 dimensions already covered by item 4; 1 real gap found, not fixed
+status: final — 4 of 5 dimensions already covered by item 4; 1 real gap found, not fixed
 date: 2026-09-16
 scope: "todo.md item 5 of 10 — 'Wissensdimensionen sauber trennen'"
 ---

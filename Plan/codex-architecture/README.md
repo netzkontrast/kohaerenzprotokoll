@@ -25,7 +25,7 @@ Engineering language is English; canon prose stays German.
   ruled out (NCP does not need to encode the Slot-16 POV lock). Targeted
   sample, not an exhaustive audit — see its §Method.
 - [entity-model-proposal_2026-09-16.md](entity-model-proposal_2026-09-16.md)
-  — item 4: 7 new `entity_type` values (`narrative-constraint`, `motif`,
+  — item 4: 8 new `entity_type` values (`narrative-constraint`, `motif`,
   `philosophy-entry`, `technique`, `note`, `sensorik`, `structural-note`,
   `unclassified`) plus the 4 unchanged `kind` values, and the required-field
   set answering `todo.md`'s knowledge-dimension question (`introduced_in`,

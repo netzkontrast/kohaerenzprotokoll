@@ -53,12 +53,14 @@ Wiki currently looks like before writing into it.
    ```
    Empty taxonomy (0 pages everywhere) is a valid, expected state early in
    the research-ingest pipeline — report it as such, not as a failure.
-4. **Candidates awaiting promotion**: `find Wiki/candidates -name "*.md" | wc -l`
-   — drafts from `/research-ingest` that only `/wiki-promote` (human-gated)
-   moves into `sources/` or `concepts/`. Report the count; promote nothing.
+4. **Candidates awaiting promotion**: step 2's `--health` output already
+   printed `candidates: N` — that's the count. Candidates are drafts from
+   `/research-ingest` that only `/wiki-promote` (human-gated) moves into
+   `sources/` or `concepts/`; promote nothing here.
 
 Report format: contract summary, health output, partition inventory,
-pending-candidates count, then the single most useful next action (e.g.
+pending-candidates count (from step 2), then the single most useful next
+action (e.g.
 "views stale → render_wiki_views", "12 candidates, 0 promoted → run
 /wiki-promote", "0 pages → run /research-ingest first"). Stop here — do not
 continue to Check 0 below unless the user asks for the full health check.

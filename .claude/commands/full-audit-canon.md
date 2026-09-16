@@ -80,7 +80,8 @@ git log --since="30 days ago" --name-only --pretty=format: | grep "\.md$" | sort
 
 List the files to be scanned. Wait for author approval before starting.
 
-Deterministic first — they are free and never wrong on what they check:
+Deterministic first — they are free and never wrong on what they check;
+same 3 commands as Quick mode's steps 1/2/4 above, which explain each one:
 ```bash
 python3 scripts/lint_chapter.py                      # canon scope
 python3 scripts/render_codex_views.py --check        # all scopes

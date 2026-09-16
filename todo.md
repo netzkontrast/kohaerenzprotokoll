@@ -42,7 +42,7 @@ ziehen.
 - [x] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
   angelegt werden.
   → [Plan/codex-architecture/entity-model-proposal_2026-09-16.md](Plan/codex-architecture/entity-model-proposal_2026-09-16.md)
-  (2026-09-16). 7 neue `entity_type`-Werte + 4 unveränderte `kind`-Werte;
+  (2026-09-16). 8 neue `entity_type`-Werte + 4 unveränderte `kind`-Werte;
   zweiphasig (Body-Feld jetzt, echte Engine-`kind`-Erweiterung später nur
   wenn `agency_doctor`/`get_schema` das bestätigen — in dieser Session
   nicht prüfbar). Alle 3 Weichenstellungen gingen an den Autor; die
@@ -108,6 +108,24 @@ eigentlichen Zweck.
 ---
 
 # Weitere Aufgaben (niedrigere Priorität)
+
+## Offene Punkte aus Item 1–4 (brauchen Agency-MCP/CLI-Zugriff)
+
+**Priorität:** mittel — beide sind bereits diagnostiziert, nur die Ausführung
+fehlt.
+
+- [ ] `slot-16-hard-b-etablierungskapitel`-CodexEntry (`codexentry:6e51dc32`)
+  aktualisieren: Body spiegelt noch den Vor-Lock-Zustand ("Kap 5–8, Position
+  offen"), obwohl der Canon-Lock vom 2026-09-11 auf Kapitel 5 fixiert ist
+  ([overlaps-drift_2026-09-16.md](Plan/codex-architecture/overlaps-drift_2026-09-16.md)
+  Finding 1). `update_codex_entry(entry_id="codexentry:6e51dc32", body=<Autor-Lock-2026-09-11-Wortlaut>)`,
+  dann `render_codex_views.py`.
+- [ ] Prüfen, ob der `CodexEntry.kind`-Enum (Spec 132) über `agency_doctor`/
+  `get_schema` erweiterbar ist ("Phase B" in
+  [entity-model-proposal_2026-09-16.md](Plan/codex-architecture/entity-model-proposal_2026-09-16.md)).
+  Wenn ja: `entity_type`-Werte schrittweise in echte `kind`-Werte migrieren.
+  Wenn nein: Phase A (Body-Feld) bleibt die dauerhafte Struktur, dokumentiert
+  als solche.
 
 ## Vendorte generische worldcodex-Skills gegen novel-architect-* prüfen
 

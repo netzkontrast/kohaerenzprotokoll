@@ -231,7 +231,7 @@ glossary):
 
 ```bash
 grep -rl "Codex/" .claude scripts tools/kpwiki CLAUDE.md docs
-grep -rl "Wiki/"  .claude scripts tools/kpwiki CLAUDE.md docs
+grep -rl "Wiki/"  .claude scripts tools/kpwiki CLAUDE.md docs | grep -v __pycache__
 grep -rl "Canon/" .claude scripts tools/kpwiki CLAUDE.md docs
 grep -rl "ncp\.json\|ncp-b\.json\|ncp\*\.json" .claude scripts tools/kpwiki CLAUDE.md docs
 ```

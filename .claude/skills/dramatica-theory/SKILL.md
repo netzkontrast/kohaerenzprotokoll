@@ -38,7 +38,8 @@ This novel intentionally uses **two simultaneous Storyforms**. Do not 'repair' t
 
 1. Name the Storyform (A or B) and throughline being analyzed.
 2. Pull the exact canonical slots from the storyform document/NCP.
-3. Separate structural term from surface story expression.
+3. Separate structural term from surface story expression (see "Exact
+   vocabulary discipline" below for the concrete distinction and example).
 4. Check whether the proposed chapter event expresses the point through action/behavior rather than terminology.
 5. Check cross-storyform interference: the same event may read differently in A and B without being contradictory.
 6. Preserve B's steadfast/action/timelock logic until its failure at 35/36; preserve A's change/decision/optionlock logic through the same event.
@@ -61,8 +62,8 @@ Outcomes, Judgments, Signposts and Throughlines.
   Example: a character may seek more order in prose without that
   automatically meaning the Dramatica element `Control`.
 - Do not invent or translate element names ad hoc.
-- If legality or parent/quad membership matters, query the live
-  engine/ontology rather than relying on remembered theory.
+- Legality/parent/quad membership: same rule as "Authority and validation"
+  above — query the live engine/ontology, don't infer from memory.
 - Preserve project labels A (Kael/K₁) and B (AEGIS/K₀) in analytical notes
   to prevent cross-storyform contamination.
 

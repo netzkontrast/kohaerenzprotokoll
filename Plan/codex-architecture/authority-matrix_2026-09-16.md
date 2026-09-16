@@ -1,6 +1,6 @@
 ---
 title: "Authority matrix — Canon/Codex/Wiki/NCP/graph"
-status: settled — all 13 rows decided (2 by author sign-off 2026-09-16)
+status: final — all 13 rows decided (2 by author sign-off 2026-09-16)
 date: 2026-09-16
 scope: "todo.md item 2 of 10 — 'Autoritätsmatrix beschließen'"
 ---
