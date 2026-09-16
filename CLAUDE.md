@@ -107,6 +107,10 @@ The prose gate costs tokens and is separate:
 2 could not run; `--locks-only` runs the free lints alone). `lint_chapter.py`
 is the single encoding of the R-rules — never restate them elsewhere.
 
+One more free gate, for revision rather than drafting:
+`python3 scripts/check_enrichment.py` holds an enrichment pass to inserts only.
+Enrichment adds; it never rewrites existing prose.
+
 ## Graph/ — the novel's facts
 
 `Graph/README.md` is the contract. One JSONL file per node label plus

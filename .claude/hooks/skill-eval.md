@@ -15,7 +15,10 @@ Commands, when the request is a stage of the pipeline rather than a question:
 - A Canon/ document changed → /kp-canon.
 - A new Kernwelt, level, sub-locality, population or world axiom → /kp-world.
 - Drafting or revising a scene → /kp-write.
-- "Is this consistent / healthy / done?" → /kp-check.
+- "Is this consistent / healthy / done?" → /kp-check for the free deterministic
+  gates; /full-audit-canon when the question needs the worldbuilder agents
+  (DKT consistency, R-rules, Sprach-DNA), or /full-audit-canon --quick for a
+  read-only freshness snapshot before paying for the full cycle.
 - A question the repository can answer → /kp-ask.
 - A claim whose scope or terms need pinning down → /clarify.
 - A contested decision, a supersession, a merge, a canon conflict → /tetraframe.

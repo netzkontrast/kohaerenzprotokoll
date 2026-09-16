@@ -3,8 +3,9 @@ description: >-
   Health-check the Kohärenz Protokoll corpus: contradictions between Canon /
   Plan / prose, stale claims superseded by decision logs, orphan documents,
   ghost entities (named in prose but absent from the codex), stale Codex views.
-  Usage: /lint-wiki [scope: all | Canon | Plan/drafting | chapters | entity-name]
-argument-hint: "[all | directory path | entity name]"
+  --quick runs only a read-only Wiki/** structure snapshot instead.
+  Usage: /lint-wiki [--quick | scope: all | Canon | Plan/drafting | chapters | entity-name]
+argument-hint: "[--quick | all | directory path | entity name]"
 ---
 
 # Lint Wiki — Corpus Health Check
@@ -14,6 +15,55 @@ For Wiki structure, navigation, page moves, or splits, load the
 `duplicate-slug`, `navigation-link`, `context-window`, and rendered-index
 checks belong to `scripts/wiki_lint.py`; this command adds semantic corpus
 review and never hand-edits an index.
+
+## Quick mode (--quick)
+
+Read-only structure/health snapshot of `Wiki/**` — no contradiction scan, no
+ghost-entity scan, no fixes. Use before deciding whether the full corpus
+review below is warranted, or whenever a session needs to know what the
+Wiki currently looks like before writing into it.
+
+1. **The contract**: read `Wiki/SCHEMA.md` §"Directory contract" and
+   summarise in one line each — the four page kinds and their canonical
+   path pattern (`sources/<category>/`, `concepts/<kind_detail>/`,
+   `questions/<axis>/`, `syntheses/<YYYY>/`); which files are rendered
+   (never hand-edited: `index.md`, `concept-table.md`, `context-map.md`,
+   `graph/coverage.json`, every partition `README.md`); page budgets from
+   `Wiki/schema/conventions.yaml`.
+2. **Deterministic health** (free, no LLM):
+   ```bash
+   python3 scripts/wiki_lint.py --health
+   python3 scripts/render_wiki_views.py --check
+   ```
+   Report verbatim: errors/warnings/info counts, pages by kind, pages by
+   status, candidate count, open questions by axis, contested pages, sources
+   ingested vs. manifest total, edge count, and whether views are stale.
+3. **Partition inventory** — for each occupied kind directory (`sources/`,
+   `concepts/`, `questions/`, `syntheses/`), list its partitions and page
+   counts:
+   ```bash
+   for d in Wiki/sources Wiki/concepts Wiki/questions Wiki/syntheses; do
+     [ -d "$d" ] || continue
+     echo "== $d =="
+     find "$d" -mindepth 1 -maxdepth 1 -type d | while read -r p; do
+       n=$(find "$p" -maxdepth 1 -name "*.md" ! -name "README.md" | wc -l)
+       echo "  $(basename "$p"): $n page(s)"
+     done
+   done
+   ```
+   Empty taxonomy (0 pages everywhere) is a valid, expected state early in
+   the research-ingest pipeline — report it as such, not as a failure.
+4. **Candidates awaiting promotion**: step 2's `--health` output already
+   printed `candidates: N` — that's the count. Candidates are drafts from
+   `/research-ingest` that only `/wiki-promote` (human-gated) moves into
+   `sources/` or `concepts/`; promote nothing here.
+
+Report format: contract summary, health output, partition inventory,
+pending-candidates count (from step 2), then the single most useful next
+action (e.g.
+"views stale → render_wiki_views", "12 candidates, 0 promoted → run
+/wiki-promote", "0 pages → run /research-ingest first"). Stop here — do not
+continue to Check 0 below unless the user asks for the full health check.
 
 You are running a systematic health check on the project corpus. This is NOT
 a DKT/physics audit (ask `@worldbuilder-physicist`), not a prose-rule audit
