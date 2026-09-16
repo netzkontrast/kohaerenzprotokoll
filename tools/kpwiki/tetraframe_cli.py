@@ -21,6 +21,26 @@ from .tetraframe import TetraFrame
 ROOT = Path(__file__).resolve().parents[2]
 
 
+def resolve_out(path: str) -> Path:
+    """``--out`` must be repo-relative and inside the repository; decision artefacts live under Plan/."""
+    candidate = (ROOT / path).resolve()
+    try:
+        inside = not Path(path).is_absolute() and candidate.relative_to(ROOT) is not None
+    except ValueError:
+        inside = False
+    if not inside:
+        raise SystemExit(f"--out must be a repo-relative path inside the repository: {path!r}")
+    return candidate
+
+
+def write_atomic(path: Path, text: str) -> None:
+    """Write via a sibling temp file and rename, so a reader never sees a half-written checkpoint."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(path.name + ".tmp")
+    tmp.write_text(text, encoding="utf-8")
+    tmp.replace(path)
+
+
 def _dump(payload):
     """Pydantic objects, dicts and lists of them → JSON-ready structures."""
     if hasattr(payload, "model_dump"):
@@ -62,23 +82,21 @@ def main(argv: list[str] | None = None) -> int:
         print(json.dumps({"seed": args.seed, "context_chars": len(context), "context_files": args.context_file},
                          ensure_ascii=False, indent=2))
         return 0
+    out = resolve_out(args.out) if args.out else None
     lm.configure("task")
-    partial_path = (ROOT / (args.out + ".partial.json")) if args.out else None
+    partial_path = out.with_name(out.name + ".partial.json") if out else None
     stages: dict = {"seed": args.seed, "complete": False, "stages": {}}
 
     def checkpoint(name, payload):
         if partial_path is None:
             return
         stages["stages"][name] = _dump(payload)
-        partial_path.parent.mkdir(parents=True, exist_ok=True)
-        partial_path.write_text(json.dumps(stages, ensure_ascii=False, indent=2), encoding="utf-8")
+        write_atomic(partial_path, json.dumps(stages, ensure_ascii=False, indent=2))
         print(f"checkpoint: {name} -> {partial_path.relative_to(ROOT)}", flush=True)
 
     run = TetraFrame()(seed=args.seed, context=context, on_stage=checkpoint).run
-    if args.out:
-        out = ROOT / args.out
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(run.model_dump_json(indent=2), encoding="utf-8")
+    if out:
+        write_atomic(out, run.model_dump_json(indent=2))
         if partial_path and partial_path.exists():
             partial_path.unlink()
         print(f"wrote {args.out}")

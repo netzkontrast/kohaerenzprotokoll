@@ -111,3 +111,15 @@ def test_forward_accepts_stage_checkpoints_and_cli_dumps_them():
     dumped = cli._dump({"corners": run.corners, "pairwise": [run.cartography.pairwise[0]] if run.cartography.pairwise else [], "n": 1})
     assert isinstance(dumped["corners"]["P"], dict) and dumped["corners"]["P"]["core_claim"] == run.corners["P"].core_claim
     assert dumped["n"] == 1
+
+
+def test_cli_out_must_be_inside_repo_and_checkpoints_are_atomic(tmp_path):
+    from tools.kpwiki import tetraframe_cli as cli
+
+    assert cli.resolve_out("Plan/decisions/tetraframe/x.json") == cli.ROOT / "Plan/decisions/tetraframe/x.json"
+    for bad in ("/tmp/x.json", "../x.json", str(cli.ROOT.parent / "x.json")):
+        with pytest.raises(SystemExit):
+            cli.resolve_out(bad)
+    target = tmp_path / "run.json"
+    cli.write_atomic(target, "{}")
+    assert target.read_text() == "{}" and not (tmp_path / "run.json.tmp").exists()
