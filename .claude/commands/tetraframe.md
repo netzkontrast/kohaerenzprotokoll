@@ -42,6 +42,12 @@ passages, the claims with citations, the relevant D-xx history. Run
 ```bash
 .venv-dspy/bin/python -m tools.kpwiki.tetraframe_cli --seed "<seed>" \
     [--context-file Canon/<file>.md ...] [--out Plan/decisions/tetraframe/<slug>.json] [--dry-run]
+
+`--out` must be repo-relative. The run writes `<out>.partial.json` after every
+stage (git-ignored) and the full artefact at the end; a failed stage loses only
+itself. One CLI call is bounded by `KP_LM_CLI_TIMEOUT` (default 1800 s). The
+first live run (D-W2, 2026-09-16) took 20 min on `claude/sonnet`; `claude/opus`
+needs the full timeout on the cartography stage.
 ```
 
 `--dry-run` prints the assembled seed and context. The live run writes the

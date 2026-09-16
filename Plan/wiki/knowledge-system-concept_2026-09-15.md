@@ -44,8 +44,19 @@ Drive document either becomes canon (via `/ingest` → graph) or nothing.
    (LLM-maintained research understanding) → `Canon/` + graph (author-locked).
    Knowledge only moves *up* through an explicit promotion; nothing flows down
    except references. (Karpathy; AutoSci ownership zones.)
-2. **Canon is terminal for the wiki.** Wiki pages link to Canon; Canon never
-   links back, is never auto-created, never auto-edited. (AutoSci `foundations`.)
+2. **Canon is terminal for the wiki, and unverified until the wiki has checked it (D-W12).**
+   Wiki pages link to Canon; Canon never links back, is never auto-created, never
+   auto-edited. Inside the wiki loop every Canon claim starts as `unverified`; a
+   conflict between Canon and research is an open question with no default
+   winner until a verification pass against the populated wiki. Manuscript work
+   keeps Canon normative meanwhile. (AutoSci `foundations`; D-W12.)
+2a. **Pages stay files, claims keep their door (D-W2).** Wiki *pages* live only
+   under `Wiki/**/*.md`; no script copies a page body, or a paraphrase of one,
+   into a field of the provenance graph (`.agency/session.db`), and no graph
+   node or edge type mirrors a page. Atomic cited *claims* keep the existing
+   `capture_claim` channel, sourced from `Sources/` or `Canon/`, never from a
+   `Wiki/` path. `Wiki/graph/edges.jsonl` is the wiki's own relation index and
+   is not "the graph". (TetraFrame run `Plan/decisions/tetraframe/d-w2-wiki-markdown-vs-graph.json`.)
 3. **Every claim has a line.** A research claim without a `^[Sources/…:L-L]`
    citation that a script can verify does not exist. (synthadoc, llm-wiki-compiler.)
 4. **The schema is data and the lint is free.** Page kinds, enums, transitions
@@ -110,7 +121,7 @@ Shared enums (mirrored in `tools/kpwiki/schema.py`):
   Transitions are listed in the YAML; the lint rejects others. Cascade: archiving
   a page rewrites `[[links]]` to it into plain text with a note.
 - `confidence`: `high | medium | low` — always with `evidence`.
-- `canon_status` (concepts): `locked` (present in Canon with `[K]`) · `proposal` (Canon `[V]`) · `absent` · `contradicted` · `promoted` (moved into Canon by a D-xx).
+- `canon_status` (concepts): `unverified` (present in Canon, not yet checked against the wiki — the initial value for every Canon claim, D-W12) · `locked` (present in Canon with `[K]` and verified) · `proposal` (Canon `[V]`) · `absent` · `contradicted` · `promoted` (moved into Canon by a D-xx).
 - `tier` (sources): `T0-duplicate · T1-superseded · T2-theory · T3-work · T4-out-of-scope`.
 - Markers: research pages may cite `[K]/[V]` text from Canon but **never emit `[K]`** themselves (lint rule `no-k-marker-outside-canon`).
 
@@ -120,7 +131,9 @@ Shared enums (mirrored in `tools/kpwiki/schema.py`):
   `canon:<file>#<heading>` for Canon passages. Forward link ⇒ the reverse
   `sources[]` / `concepts[]` entry is written in the same operation
   (`Wiki/schema/edges.yaml`, AutoSci xref).
-- Typed edges live in `Wiki/graph/edges.jsonl`:
+- Typed edges live in `Wiki/graph/edges.jsonl`, the wiki's own relation index;
+  "the graph" in this document always means the provenance graph
+  `.agency/session.db` (D-W2):
   `supports | extends | contradicts | supersedes | same_as | mentions`,
   each with `confidence` and `evidence` (a citation). `contradicts` is symmetric.
 - Retrieval: `scripts/wiki_fts.py` (SQLite FTS5 BM25 over `Wiki/`, `Canon/`,
@@ -207,7 +220,11 @@ decides — the author does (Rule 0).
 close), *parked* (status `parked`, revisit date), *escalated* (a D-xx entry in
 the decision log; if Canon changes, the author edits Canon, `/ingest` seeds the
 graph, `Codex/` re-renders, the concept page flips to `promoted`). This is the
-only path research → canon. The wiki never writes into `Canon/`, `ncp*.json` or
+only path research → canon. The wiki never writes into `Canon/`, `ncp*.json`, and
+never writes page content into the provenance graph; atomic cited claims use
+`capture_claim` with a `Sources/` or `Canon/` `source_uri` (D-W2). The lint rule
+`no-page-body-in-graph` checks every graph-write payload for page-body overlap.
+The wiki never writes into
 the graph.
 
 **F — Verify.** `scripts/wiki_lint.py` (free): frontmatter enums, required
@@ -290,15 +307,18 @@ grounding is the promote step (human), and canon relation is only ever a flag
 
 | id | question | recommendation |
 |---|---|---|
-| D-W1 | Commit the 680 markdown exports under `Sources/drive/` (est. 20–40 MB text) so citations resolve on any clone? | yes; binaries stay out |
-| D-W2 | The research wiki lives in Markdown (`Wiki/`), the graph stays canon-only? | yes (avoids the drift noted 2026-09-11) |
+| D-W1 | Commit the 680 markdown exports under `Sources/drive/` (est. 20–40 MB text) so citations resolve on any clone? | **decided 2026-09-16: yes, all text exports**; binaries stay out |
+| D-W2 | The research wiki lives in Markdown (`Wiki/`), the graph stays canon-only? | **decided 2026-09-16: the two-axis rule** (§2 2a) after the TetraFrame run `Plan/decisions/tetraframe/d-w2-wiki-markdown-vs-graph.json`: pages file-only, claims keep `capture_claim` from `Sources/`/`Canon/` only |
 | D-W3 | Ingest order: kernkonzept + audits → storyform → characters → worldbuilding → plot → theory? | yes; plot (247 docs) last among T3 because it is the most superseded |
 | D-W4 | Fold `Plan/queries/` into `Wiki/syntheses/`? | yes, with a pointer README |
 | D-W5 | Wiki page language: summaries English, quotes German? | yes (engineering English rule) |
-| D-W6 | Superseded drafts (T1): ingest as sources anyway (for the "timeline of an idea") or only link them? | ingest claims, but mark `superseded_by`; they never raise questions alone |
+| D-W6 | Superseded drafts (T1): ingest as sources anyway (for the "timeline of an idea") or only link them? | **decided 2026-09-16: ingest everything** — all documents of tiers T1–T3 with claims extracted, superseded drafts marked `superseded_by`; only the 13 `T4` rows are dropped (D-W9) |
 | D-W7 | Which categories are out of scope for questioning canon (e.g. AEGIS docs pre-dating the Act-I naming decision)? | none excluded; the decision log answers them |
 | D-W8 | Register the DSPy marketplace in `.claude/settings.json` (blocked for the agent this session)? | yes — snippet in `docs/dspy-base.md` |
-| D-W9 | May Google-Drive document ids and titles live in this public CC0 repo (`Sources/manifest.jsonl`, the source index)? | ids are not credentials, but drop the 13 appendix (`T4`) rows and review titles of personal documents before Phase 2 |
+| D-W9 | May Google-Drive document ids and titles live in this public CC0 repo (`Sources/manifest.jsonl`, the source index)? | **decided 2026-09-16: keep ids, drop the 13 appendix (`T4`) rows, review titles of personal documents before Phase 2** |
+| D-W10 | Add `dspy-wiki-compile`, `dspy-adversarial-review`, `dspy-local-runtime` to the pack? | **decided 2026-09-16: yes** — [dspy-agent-skills#4](https://github.com/netzkontrast/dspy-agent-skills/pull/4), v0.7.0 |
+| D-W11 | Which model is the independent reviewer? | **decided 2026-09-16: `claude/haiku` for wiki pages, `claude/sonnet` for the promotion gate**, both via the CLI; reviewer ≠ writer asserted |
+| D-W12 | Is Canon normative while the wiki is being populated? | **decided 2026-09-16: no, for the wiki loop** — every Canon claim starts `unverified`, conflicts are open questions with no default winner until a verification pass against the populated wiki; manuscript work keeps Canon normative (§2 2) |
 
 ## 8. Setup plan for this repo
 
