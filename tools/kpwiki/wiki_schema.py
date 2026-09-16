@@ -145,7 +145,8 @@ def mirror_report() -> list[str]:
     from . import schema as py
 
     pairs = {"tier": py.SourceTier, "category": py.SourceCategory,
-             "confidence": py.Confidence, "canon_relation": py.CanonRelation}
+             "confidence": py.Confidence, "canon_relation": py.CanonRelation,
+             "kind_detail": py.KindDetail, "concept_table_status": py.ConceptTableStatus}
     problems = []
     for name, literal in pairs.items():
         yaml_values, py_values = set(enum_values(name)), set(get_args(literal))

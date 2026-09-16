@@ -129,10 +129,12 @@ are backend-independent (they are instructions + demos).
 |---|---|
 | `tools/kpwiki/lm.py` | `backend()`, `configure(role)`, `lm_context(role)`; building an LM never hits the network |
 | `tools/kpwiki/local_lm.py` | `ClaudeLM` — DSPy `BaseLM` over the `claude` CLI (vendored from Hmbown/dspy-local) |
-| `tools/kpwiki/schema.py` | Pydantic contract: `Citation`, `Claim`, `Triage`, `CanonConflict`, `OpenQuestion`; closed enums for tier, category, kind, canon relation |
-| `tools/kpwiki/signatures.py` | `TriageSource`, `ExtractClaims`, `CheckCanonConflict`, `RaiseQuestions` |
-| `tools/kpwiki/programs.py` | `SourceIngest` (triage → cited claims → canon conflicts); retrieval injected as a callable |
+| `tools/kpwiki/schema.py` | Pydantic contract: the ingest models (`Citation`, `Claim`, `Triage`, `CanonConflict`, `OpenQuestion`) and the batch-compile models (`Extraction`, `ConceptPlan`, `ConceptDraft`, `PageState`, `IngestDecision`, `Diff`, `Compiled`); every page enum built from `Wiki/schema/entities.yaml` |
+| `tools/kpwiki/signatures.py` | `TriageSource`, `ExtractClaims`, `CheckCanonConflict`, `RaiseQuestions`, `PlanConcepts`, `MergeConcept`, `DecideIngest`, `KnowledgeDiff` |
+| `tools/kpwiki/programs.py` | `SourceIngest` (triage → cited claims → canon conflicts) and `BatchCompile` (the two-phase compiler); retrieval injected as a callable |
 | `tools/kpwiki/metrics.py` | `ingest_metric` — weighted axes + teachable feedback |
+| `tools/kpwiki/compile_metric.py` | `compile_metric` plus the helpers the lint reuses (`citation_resolves`, `decision_legal`, `diff_consistent`, `concept_problems`) |
+| `tools/kpwiki/compile_fixture.py` | the hand-built batch the dry run and the offline tests score (a clean and a deliberately broken copy) |
 | `tools/kpwiki/clarify.py` | `ClarifyGate` — the precision gate before promotion (skill `dspy-clarify`, command `/clarify`) |
 | `tools/kpwiki/clarify_metric.py` | `clarify_metric` — lexical "never change meaning" rule |
 | `tools/kpwiki/clarify_cli.py` | `python -m tools.kpwiki.clarify_cli --claim … --source path:L-L [--dry-run]` |
@@ -140,6 +142,46 @@ are backend-independent (they are instructions + demos).
 | `tools/kpwiki/tetraframe_metric.py` | `verify_run`, `transform_reward`, `tetraframe_metric` — the seven upstream checks with their thresholds |
 | `tools/kpwiki/tetraframe_cli.py` | `python -m tools.kpwiki.tetraframe_cli --seed … [--context-file …] --out Plan/decisions/tetraframe/<slug>.json [--dry-run]` |
 | `tools/kpwiki/smoke.py` | `--dry-run` / `--live` |
+
+## BatchCompile (an instance of `dspy-wiki-compile`)
+
+`BatchCompile` is Phase C of the wiki loop: a batch of exported sources in,
+concept drafts plus a knowledge diff out. It writes nothing — `/research-ingest`
+renders the drafts into `Wiki/candidates/` and the author promotes them.
+
+| stage | predictor | what is decided in code |
+|---|---|---|
+| triage | `TriageSource` | a `truncated` or empty source is skipped, never extracted |
+| extract | `ExtractClaims` | line-numbered body in, citation with a verbatim quote out |
+| plan | `PlanConcepts` | global 1-based claim ids; an id the plan invents is dropped and scored |
+| merge | `MergeConcept` | one call per concept, seeing only that concept's claims; an existing page's slug wins over the planned one |
+| decide | `DecideIngest` | `create` when no page exists — that is a lookup, not a judgement |
+| diff | `KnowledgeDiff` | runs only for a concept that has a page |
+
+Two design points, both about bounded prompts and honest merging:
+
+- **Plan before merge.** The clustering step sees one digest line per claim
+  (`N. [source-slug] text — entities: …`), not the claims themselves, so the
+  same idea under different names becomes one concept across the whole batch
+  instead of one page per source. A digest longer than `MAX_DIGEST_CLAIMS`
+  (1200) is planned in consecutive slices and the slice plans are merged by
+  slug (union of claim ids).
+- **Extract everything before merging anything.** Phase 1 finishes for every
+  source before the first concept is written; a concept that appears in three
+  sources is one draft with three sources.
+
+`compile_metric` weights citations 0.30, decisions 0.25, merge 0.20, diffs
+0.15, links and language 0.10. Every axis is decidable without an LM — a
+citation resolves to its lines and its quote or it does not, an `update` on a
+`reviewed` page with conflicts is illegal, a disagreement needs two distinct
+sources, a `new` diff item must be absent from the page, a definition sentence
+is English and never emits `[K]` — so GEPA cannot optimize the compiler into
+confident prose. Each failure names its blame in the feedback.
+
+```bash
+.venv-dspy/bin/python -m tools.kpwiki.smoke --dry-run     # both programs, both metrics, no LM call
+.venv-dspy/bin/python -m pytest tests/test_kpwiki_compile.py -q
+```
 
 ## Conventions for new programs
 
