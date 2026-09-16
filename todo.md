@@ -29,8 +29,16 @@ ziehen.
   `kind=concept`-Bucket, Aufnahme von Figurenwissen-Tracking) waren echte
   neue Weichenstellungen und gingen per Rückfrage an den Autor, bevor sie
   als entschieden markiert wurden.
-- [ ] Überschneidungen und Drift zwischen Canon, Codex, Wiki, NCP und
+- [x] Überschneidungen und Drift zwischen Canon, Codex, Wiki, NCP und
   Manuskript erfassen.
+  → [Plan/codex-architecture/overlaps-drift_2026-09-16.md](Plan/codex-architecture/overlaps-drift_2026-09-16.md)
+  (2026-09-16). Zwei konkrete, verifizierte Funde: eine veraltete
+  `CodexEntry` (Slot-16-Lock vom 2026-09-11 nie ins Graph übernommen —
+  Fix braucht Agency-MCP-Zugriff, in dieser Session nicht verfügbar) und
+  eine Fehlzitierung zwischen zwei nicht deckungsgleichen
+  Regel-Nummerierungen (R-Serie vs. DR-Serie), in `docs/worldcodex-integration.md`
+  bereits korrigiert. Stichprobe, kein vollständiges Audit — siehe Datei
+  §Method.
 - [ ] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
   angelegt werden.
 - [ ] Wissensdimensionen sauber trennen: objektive Wahrheit, Figurenwissen,

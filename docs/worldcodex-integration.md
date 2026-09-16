@@ -86,8 +86,12 @@ write-denied (edit the graph and re-render instead).
    still read the glossary; regenerate after any graph write.
 3. Ghost-entity detection in `/lint-wiki` is LLM-driven, not scripted: German capitalises every
    noun, so the upstream capitalised-word heuristic is useless here.
-4. `Kael`/`Juna`/`AEGIS` fences are scoped to chapters 1–13 (drafting brief §3); R-10's
-   "never a name" is applied as a lint only in Act I because Kap 30/38 name Juna by design.
+4. `Kael`/`Juna`/`AEGIS` fences are scoped to chapters 1–13 (drafting brief §3); "Juna is
+   never grammatical subject" (**`drafting-rule-dr-10`** in the graph — not the distinct
+   `r-10` CodexEntry, which is the Ouroboros-foreshadowing rule; the two numbering series,
+   `R-1…R-10` and `drafting-rule-dr-1…dr-43`, are independent and this line previously
+   conflated them, per `Plan/codex-architecture/overlaps-drift_2026-09-16.md` finding 2) is
+   applied as a lint only in Act I because Kap 30/38 name Juna by design.
 5. The `civilization-build` command keeps its upstream name (slash command stability) but
    builds Kernwelten.
 

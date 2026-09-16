@@ -18,5 +18,14 @@ Engineering language is English; canon prose stays German.
   tracking) were new calls the inventory surfaced and went to the author
   before being marked settled.
 
-Next: item 3, overlaps/drift between Canon, Codex, Wiki, NCP and Manuscript
-— check the corpus against the authority matrix's rulings.
+- [overlaps-drift_2026-09-16.md](overlaps-drift_2026-09-16.md) — item 3:
+  overlaps/drift between Canon, Codex, Wiki, NCP and Manuscript, checked
+  against the authority matrix. Two concrete verified findings (a stale
+  `CodexEntry` the 2026-09-11 Canon lock never reached; a mis-citation
+  between two non-corresponding rule-numbering series) and one hypothesis
+  ruled out (NCP does not need to encode the Slot-16 POV lock). Targeted
+  sample, not an exhaustive audit — see its §Method.
+
+Next: item 4, stable Codex entities and required fields — has direction
+from item 2 (retire `kind=concept`) and two open sub-questions from item 3
+(the stale entry, the `R-N`/`DR-N` naming collision) to carry forward.
