@@ -27,6 +27,8 @@ Pull distinct entities from a source document into individual files.
 - One entity per file
 - Never write files until extraction plan is approved
 - Preserve source content faithfully — do not summarize
+- For Wiki output, each extracted entity gets its own stable slug and canonical
+  partition; use `wiki-maintenance` for moves, splits, and rendered indexes.
 
 ## Out of Scope
 

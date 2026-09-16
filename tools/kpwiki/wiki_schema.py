@@ -76,12 +76,25 @@ def kind(name: str) -> dict[str, Any]:
 
 
 def kind_for_path(path: Path | str) -> str | None:
-    """Page kind by directory (``Wiki/sources/x.md`` → ``source``); candidates use their ``kind`` field."""
+    """Page kind by root directory (``Wiki/sources/category/x.md`` → ``source``)."""
     rel = Path(path).as_posix()
     for name, spec in entities()["kinds"].items():
         if rel.startswith(spec["dir"].rstrip("/") + "/"):
             return name
     return None
+
+
+def partition_for(kind_name: str, front: dict[str, Any]) -> str:
+    """Canonical first-level partition for a page of ``kind_name``."""
+    key = kind(kind_name).get("partition_by")
+    if key == "filed_year":
+        return str(front.get("filed", ""))[:4]
+    return str(front.get(str(key), ""))
+
+
+def page_budget(kind_name: str) -> dict[str, int]:
+    """Word-count guidance and hard maximum for one semantic page."""
+    return {k: int(v) for k, v in kind(kind_name).get("page_budget", {}).items()}
 
 
 def required_fields(kind_name: str) -> list[str]:

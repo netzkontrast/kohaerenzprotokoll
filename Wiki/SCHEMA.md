@@ -25,15 +25,17 @@ Wiki/
   SCHEMA.md            this file
   schema/              the contract (five YAML files)
   templates/           one .md.tmpl per page kind; {{token}} fields are filled by the writing program
-  index.md             RENDERED catalogue by kind — never edit
+  index.md             RENDERED compact global hub — never edit
+  GLOSSARY.md          short operational vocabulary (domain glossary is Codex/GLOSSARY.md)
   concept-table.md     RENDERED compressed map — never edit
   overview.md          what we currently understand the novel to be (versioned synthesis)
   log.md               APPEND-ONLY record of every operation
-  sources/<slug>.md    one page per ingested Drive document (tier T1, T2, T3)
-  concepts/<slug>.md   one page per merged concept, entity, rule, theory, motif
-  questions/<slug>.md  one page per open question about our understanding
-  syntheses/<slug>.md  filed /query answers (leaves)
-  candidates/          everything a program wrote and no human has reviewed
+  sources/<category>/<slug>.md       one page per ingested Drive document
+  concepts/<kind_detail>/<slug>.md   one page per merged semantic entity
+  questions/<axis>/<slug>.md         one page per focused open question
+  syntheses/<YYYY>/<slug>.md         filed /query answers (leaves)
+  candidates/<kind-dir>/<partition>/ everything a program wrote and no human has reviewed
+  <content-dir>/README.md             RENDERED local navigation — never edit
   graph/edges.jsonl    the wiki's relation index (tools-only)
   graph/coverage.json  RENDERED coverage numbers — never edit
 ```
@@ -42,6 +44,27 @@ Slugs match `conventions.yaml → slug.pattern`; source slugs come from
 `Sources/manifest.jsonl` and are never re-derived. Page titles stay as in
 the source. Summaries and explanations are English; quotes and Canon-facing
 prose stay German and are never translated.
+
+## Navigation and page boundaries
+
+`index.md` is deliberately short. It links to the `README.md` of each page
+kind; an occupied partition has another rendered `README.md` listing its
+pages. Pages sit exactly one partition below their kind directory. The
+partition comes from frontmatter and is never an improvised topic folder:
+
+| kind | canonical path | partition source |
+|---|---|---|
+| source | `sources/<category>/<slug>.md` | `category` |
+| concept | `concepts/<kind_detail>/<slug>.md` | `kind_detail` |
+| question | `questions/<axis>/<slug>.md` | `axis` |
+| synthesis | `syntheses/<YYYY>/<slug>.md` | year of `filed` |
+
+One page holds one semantic entity or one focused question. Word budgets are
+defined per kind in `entities.yaml → kinds.*.page_budget`: the ideal is a
+target, `warn_words` requests review, and exceeding `max_words` is a lint
+error. Split at a stable semantic boundary, preserve citations and state, and
+connect the resulting pages with explicit `[[slug]]` links. Never split only
+to satisfy a number when the fragments would not stand on their own.
 
 ## Page kinds and lifecycle
 

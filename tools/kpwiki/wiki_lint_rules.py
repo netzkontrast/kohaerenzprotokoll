@@ -569,6 +569,40 @@ def rule_sparse_page(ctx: LintContext) -> list[Finding]:
     return out
 
 
+def rule_page_size(ctx: LintContext) -> list[Finding]:
+    """Keep pages focused; a hard maximum requires a semantic split."""
+    out: list[Finding] = []
+    for page in ctx.pages:
+        if not known_kind(page):
+            continue
+        budget = wiki_schema.page_budget(page.kind)
+        words = len(WORD_RE.findall(wiki_pages.strip_code(page.body)))
+        if budget.get("max_words") and words > budget["max_words"]:
+            out.append(Finding("page-size", "error", ctx.page_path(page), None,
+                               f"body has {words} words; maximum is {budget['max_words']}; split by semantic entity"))
+        elif budget.get("warn_words") and words > budget["warn_words"]:
+            out.append(Finding("page-size", "warn", ctx.page_path(page), None,
+                               f"body has {words} words; split is recommended above {budget['warn_words']}"))
+    return out
+
+
+def rule_page_location(ctx: LintContext) -> list[Finding]:
+    """Every page lives exactly one partition below its kind directory."""
+    out: list[Finding] = []
+    for page in ctx.pages:
+        if not known_kind(page):
+            continue
+        parts = Path(page.rel).parts
+        expected = wiki_schema.partition_for(page.kind, page.front)
+        root = Path(wiki_schema.kind(page.kind)["dir"]).name
+        target = (f"candidates/{root}/{expected}/{page.slug}.md" if page.is_candidate
+                  else f"{root}/{expected}/{page.slug}.md")
+        if page.rel != target:
+            out.append(Finding("page-location", "error", ctx.page_path(page), None,
+                               f"must live at {target} (one canonical partition)"))
+    return out
+
+
 # --- rule 9: citation-resolves ----------------------------------------------------
 
 def cited_text(ctx: LintContext, cit: wiki_pages.Citation) -> tuple[str | None, str | None]:
@@ -858,9 +892,6 @@ def rule_no_auto_canon_page(ctx: LintContext) -> list[Finding]:
 
 # --- rule 17: index-sync ----------------------------------------------------------------
 
-RENDERERS = {"index.md": "render_index", "concept-table.md": "render_concept_table"}
-
-
 def rule_index_sync(ctx: LintContext) -> list[Finding]:
     try:
         from . import wiki_views
@@ -868,20 +899,17 @@ def rule_index_sync(ctx: LintContext) -> list[Finding]:
         return [Finding("index-sync", "info", ctx.display(ctx.wiki_root), None,
                         f"tools/kpwiki/wiki_views unavailable ({exc}); rule skipped")]
     out: list[Finding] = []
-    # The renderers count candidates, so they see every page — as render_wiki_views.py does.
-    pages = ctx.pages
-    for name in wiki_pages.RENDERED_FILES:
+    try:
+        expected_views = wiki_views.views(ctx.wiki_root, ctx.repo_root)
+    except Exception as exc:
+        return [Finding("index-sync", "warn", ctx.display(ctx.wiki_root), None,
+                        f"could not render views: {exc}")]
+    for name, expected in expected_views.items():
         target = ctx.wiki_root / name
         path = ctx.display(target)
         if not target.exists():
-            if pages:
-                out.append(Finding("index-sync", "error", path, None,
-                                   "rendered view is missing; run scripts/render_wiki_views.py"))
-            continue
-        try:
-            expected = getattr(wiki_views, RENDERERS[name])(pages)
-        except Exception as exc:  # the renderer is another tool; its failure is reported, not raised
-            out.append(Finding("index-sync", "warn", path, None, f"could not render: {exc}"))
+            out.append(Finding("index-sync", "error", path, None,
+                               "rendered navigation is missing; run scripts/render_wiki_views.py"))
             continue
         if target.read_text(encoding="utf-8").rstrip() != str(expected).rstrip():
             out.append(Finding("index-sync", "error", path, None,
@@ -1045,6 +1073,8 @@ RULES: dict[str, Callable[[LintContext], list[Finding]]] = {
     "orphan": rule_orphan,
     "missing-entity": rule_missing_entity,
     "sparse-page": rule_sparse_page,
+    "page-size": rule_page_size,
+    "page-location": rule_page_location,
     "citation-resolves": rule_citation_resolves,
     "stale-source": rule_stale_source,
     "xref-symmetry": rule_xref_symmetry,

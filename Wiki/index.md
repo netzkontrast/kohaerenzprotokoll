@@ -5,23 +5,24 @@
 - [Overview](overview.md) · what we currently understand the novel to be
 - [Concept table](concept-table.md) · concept · definition · sources · status · open questions
 - [Log](log.md) · append-only record of every operation
+- [Glossary](GLOSSARY.md) · page kinds, status and navigation terms
 - [Schema](SCHEMA.md) · the operating contract
 
 ## Sources (0)
 
-_none yet_
+- [Sources navigation](sources/README.md)
 
 ## Concepts (0)
 
-_none yet_
+- [Concepts navigation](concepts/README.md)
 
 ## Questions (0)
 
-_none yet_
+- [Questions navigation](questions/README.md)
 
 ## Syntheses (0)
 
-_none yet_
+- [Syntheses navigation](syntheses/README.md)
 
 ## Candidates (0)
 

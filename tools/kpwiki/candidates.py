@@ -7,7 +7,7 @@ contract change moves the pages with it instead of leaving this module behind.
 
 What is written where (``Wiki/schema/writers.yaml`` → ``/research-ingest``):
 
-* ``Wiki/candidates/<slug>.md`` — one page per extracted source (kind
+* ``Wiki/candidates/<kind>/<partition>/<slug>.md`` — one page per extracted source (kind
   ``source``) and one per merged concept (kind ``concept``), both with
   ``status: draft``; a candidate declares its kind in the frontmatter.
 * ``Wiki/graph/edges.jsonl`` — one ``supports`` edge per (source, concept)
@@ -82,8 +82,9 @@ def page_text(front: dict[str, Any], sections: list[str]) -> str:
     return f"---\n{dumped}---\n\n" + "\n".join(sections)
 
 
-def candidate_path(slug: str) -> str:
-    return f"{wiki_pages.CANDIDATES_DIR}/{slug}.md"
+def candidate_path(kind: str, slug: str, front: dict[str, Any]) -> str:
+    partition = wiki_schema.partition_for(kind, front)
+    return f"{wiki_pages.CANDIDATES_DIR}/{kind}s/{partition}/{slug}.md"
 
 
 def _sections_of(kind: str) -> list[str]:
@@ -215,10 +216,10 @@ def render_pages(run: Compiled, manifest: dict[str, dict[str, Any]], ingested: s
         record = manifest.get(extraction.source, {})
         front = source_front(extraction, record, stamp)
         body = source_body(extraction, sorted(feeds.get(extraction.source, [])), stamp)
-        pages[candidate_path(extraction.source)] = page_text(front, [body])
+        pages[candidate_path("source", extraction.source, front)] = page_text(front, [body])
     for draft in run.concepts:
         front = concept_front(draft, stamp, codex_slugs)
-        pages[candidate_path(draft.slug)] = page_text(front, [concept_body(draft, stamp)])
+        pages[candidate_path("concept", draft.slug, front)] = page_text(front, [concept_body(draft, stamp)])
     return pages
 
 

@@ -24,6 +24,11 @@ Assemble all information about a named entity from across the entire repo.
 4. Flag contradictions between sources
 5. Present for author review — do NOT write without approval
 
+When the approved target is a research-wiki concept, hand structural writing
+to `wiki-maintenance`: use the canonical `concepts/<kind_detail>/<slug>.md`
+path, respect the concept page budget, and split distinct entities instead of
+building an omnibus page.
+
 ## Out of Scope
 
 Does NOT extract multiple entities from one source (use /extracting-entities).
