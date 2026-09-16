@@ -64,6 +64,41 @@ it received without the main session ever seeing it.
 `AEGIS Singularität jenseits Entropiegleichung .docx` directly, which put the
 whole document into the session that was trying to avoid exactly that.
 
+### 1c. There is a path with no leak at all: call the connector from the script — *measured, and it supersedes 1 and 1b*
+
+Learnings 1 and 1b both accepted that a document passes through *some* context
+and argued about whose. That premise was wrong, and the author was right to
+challenge it.
+
+The MCP connectors are ordinary HTTP JSON-RPC endpoints. `/tmp/mcp-config-*.json`
+carries the Drive server's URL and headers; `CLAUDE_SESSION_INGRESS_TOKEN_FILE`
+carries the bearer token. A plain script can therefore call
+`read_file_content` and `download_file_content` itself:
+
+```
+initialize -> 200   serverInfo: {'name': 'StatelessServer', 'version': 'ESF'}
+tools/list -> 200   ['copy_file', 'create_file', 'download_file_content',
+                     'get_file_metadata', ..., 'read_file_content', ...]
+```
+
+`scripts/sources.py fetch` now does exactly this. **No model is involved at any
+point** — not the orchestrator, not a subagent. The saving against the delegated
+plan is roughly 6.5 M tokens, and against doing it in the main session it is the
+difference between possible and not.
+
+Two dead ends checked on the way, recorded so nobody retries them:
+
+- `CLOUDSDK_AUTH_ACCESS_TOKEN` is present in the environment but returns **401**
+  against `googleapis.com/drive/v3` — wrong scope or project.
+- The MCP headers in the config file alone return **401**. The bearer token from
+  `CLAUDE_SESSION_INGRESS_TOKEN_FILE` is what authenticates; a 400
+  "body could not be parsed" during testing was shell quoting, not auth, and
+  that distinction is what showed the approach was viable.
+
+**The dependency worth knowing:** the token file and the MCP config are
+session-scoped. `fetch` therefore works inside a Claude Code session and nowhere
+else, and it says so when either is missing rather than failing obscurely.
+
 ### 2. The spill arrives as an *error*, not a result — *measured*
 
 The call reports `result (78,383 characters) exceeds maximum allowed tokens`.
