@@ -6,6 +6,14 @@ These skills are the **current project-facing replacements** for the historical 
 
 Start with [PROJECT_REFERENCES.md](./PROJECT_REFERENCES.md). It defines current source hierarchy, work root, arc plans, canon sources, NCP files, graph-state warnings and drafting rules.
 
+## Cluster map (skills + tools + commands, grouped by job)
+
+[../CLUSTERS.md](../CLUSTERS.md) groups everything below — plus the `scripts/`
+and `tools/` CLIs and the three agents — by what you're actually doing:
+Codex, Prose, Wiki, Research, Design/planning. It also documents two new
+read-only snapshot commands, `/codex-status` and `/wiki-structure`, that sit
+in front of the heavier audit/ingest commands.
+
 ## Skills
 
 - [novel-architect](./novel-architect/SKILL.md) — whole-novel premise, arc architecture, chapter roles, cross-arc causality.

@@ -113,6 +113,34 @@ the top of this file. Files that were rewritten rather than patched (hooks, comm
 `auditing-canon`, `writing-worldbuilding`, `verifying-completion`) are compared for ideas,
 not merged.
 
+## Cluster map + simplified status commands (2026-09-16)
+
+Re-verified against upstream `alainator/worldcodex` (still at the pinned
+commit above — no upstream changes since): every vendored hook, command,
+agent, skill and the `tools/research-tool.py` CLI already exists here
+file-for-file (as `scripts/research-tool.py`), so no new port work was
+needed. What was missing was a single grouped view across the vendored
+Codex-facing suite, the project's own Prose skills, and the repo-native Wiki
+research layer (`Wiki/**`, `tools/kpwiki/`) — the upstream suite has no
+concept of the Wiki layer at all, since this repo's three-layer knowledge
+system (`Sources/` → `Wiki/` → `Canon/` + graph) was built repo-side.
+
+Added:
+
+- [.claude/CLUSTERS.md](../.claude/CLUSTERS.md) — skills, tools, commands and
+  agents grouped by job (Codex / Prose / Wiki / Research / Design-planning),
+  not by directory.
+- `/codex-status` — read-only freshness snapshot for the Codex layer (view
+  staleness, chapter-lint sweep, graph progress + pending claims). Sits in
+  front of `/full-audit-canon` for a cheap look before paying for a full
+  cycle.
+- `/wiki-structure` — read-only structure snapshot for the Wiki layer
+  (schema contract summary, `wiki_lint --health`, view freshness, partition
+  inventory, candidate count). Sits in front of `/lint-wiki` and
+  `/research-ingest` the same way.
+
+Neither command writes, fixes, or promotes anything.
+
 ## Daily loop (where the suite plugs into the existing workflow)
 
 1. Session start: bootstrap + `CURRENT_TASK.md` restore + stale-Codex check (automatic).
