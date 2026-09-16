@@ -54,11 +54,14 @@ Both checksums are recorded: `sha256_raw` proves what Drive returned, and
 from __future__ import annotations
 
 import argparse
+import base64
 import collections
 import hashlib
 import json
 import re
+import subprocess
 import sys
+import tempfile
 from datetime import date
 from pathlib import Path
 
@@ -67,6 +70,12 @@ MANIFEST = ROOT / "Sources" / "manifest.jsonl"
 DRIVE_DIR = ROOT / "Sources" / "drive"
 SPILL_GLOB = "mcp-Google_Drive-read_file_content-*.txt"
 SPILL_ROOT = Path("/root/.claude/projects")
+
+# markitdown needs its own dependency tree and conflicts with the system
+# packages, so it lives in a venv and is called out to rather than imported.
+# Everything else in this file is standard library.
+TOOLS_PYTHON = ROOT / ".venv-tools" / "bin" / "python"
+FORMAT_SUFFIX = {"docx": ".docx", "pdf": ".pdf", "pptx": ".pptx", "xlsx": ".xlsx"}
 
 
 # --------------------------------------------------------------------------- manifest
@@ -133,6 +142,38 @@ def frontmatter(row: dict, today: str) -> str:
 
 
 # --------------------------------------------------------------------------- spill
+
+def convert_binary(data: bytes, suffix: str) -> str:
+    """Convert an original document to markdown with markitdown, in its own venv.
+
+    Drive's own text extraction flattens structure — the first document landed
+    that way had one real heading against 21 lines of bold standing in for
+    headings, which makes section-level retrieval impossible. Converting the
+    original file instead preserves what the author actually marked up, so
+    `.docx` and `.pdf` take this path rather than the text one.
+    """
+    if not TOOLS_PYTHON.exists():
+        raise SystemExit(
+            f"{TOOLS_PYTHON.relative_to(ROOT)} is missing — create it with:\n"
+            "  python3 -m venv .venv-tools && "
+            ".venv-tools/bin/pip install 'markitdown[docx,pdf,pptx,xlsx]'")
+
+    with tempfile.NamedTemporaryFile(suffix=suffix, delete=False) as handle:
+        handle.write(data)
+        temp = Path(handle.name)
+    try:
+        result = subprocess.run(
+            [str(TOOLS_PYTHON), "-c",
+             "import sys; from markitdown import MarkItDown; "
+             "sys.stdout.write(MarkItDown().convert(sys.argv[1]).text_content)",
+             str(temp)],
+            capture_output=True, text=True, timeout=300)
+        if result.returncode != 0:
+            raise SystemExit(f"markitdown failed on a {suffix} file:\n{result.stderr[:500]}")
+        return result.stdout
+    finally:
+        temp.unlink(missing_ok=True)
+
 
 def newest_spill() -> Path:
     """The most recently written Drive spill file across all sessions."""
@@ -254,7 +295,14 @@ def cmd_land(args: argparse.Namespace) -> int:
     row = find_row(rows, args.drive_id)
 
     spill: Path | None = None
-    if args.stdin:
+    if args.base64_file:
+        suffix = FORMAT_SUFFIX.get(row.get("format", ""), "")
+        if not suffix:
+            raise SystemExit(
+                f"format {row.get('format')!r} has no markitdown converter; "
+                f"fetch this one as text instead")
+        raw = convert_binary(base64.b64decode(Path(args.base64_file).read_text()), suffix)
+    elif args.stdin:
         raw = sys.stdin.read()
         if not raw.strip():
             raise SystemExit("--stdin given but nothing arrived on stdin")
@@ -306,6 +354,9 @@ def main(argv: list[str] | None = None) -> int:
     land.add_argument("--spill", help="defaults to the newest spill file")
     land.add_argument("--stdin", action="store_true",
                       help="read the document from stdin, for results that came back inline")
+    land.add_argument("--base64-file",
+                      help="a file of base64 from download_file_content; converted with "
+                           "markitdown, which keeps the structure Drive's text export loses")
     land.add_argument("--force", action="store_true", help="overwrite an existing file")
     land.add_argument("--consume", action="store_true", help="delete the spill after landing")
     land.add_argument("--today", help="override the fetch date (for reproducible runs)")

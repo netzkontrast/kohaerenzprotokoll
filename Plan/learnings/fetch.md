@@ -128,6 +128,44 @@ This is the most consequential open question in this file. It is recorded and
 not acted on, because promoting bold to headings is a guess about the author's
 intent and the fix is cheap to apply later against stored `sha256_raw`.
 
+### 7b. Converting the original instead of Drive's text export fixes it — *measured*
+
+Learning 7 said section-level retrieval is impossible on a corpus with one
+heading per document, and recorded it as unresolved. It is resolved for every
+format that has an original file.
+
+`mcp__Google_Drive__download_file_content` returns the original bytes as base64.
+Running **markitdown** over the `.docx` rather than taking Drive's text export
+produces real markdown:
+
+```
+# Teil I: Konzeptionelle Ouvertüre      ← a real ATX heading, not **bold**
+## A. Unterabschnitt
+| Begriff | Bedeutung |                 ← a real table with its separator row
+```
+
+So the two paths are not equivalent and the choice is per format:
+
+| format | rows | path | why |
+|---|---:|---|---|
+| `docx` | 45 | `download_file_content` → markitdown | keeps headings and tables |
+| `pdf` | 1 | same | same |
+| `gdoc` | 590 | `read_file_content` | no original file to convert |
+| `md` | 43 | neither is listed as supported | undecided |
+| `mp3` | 1 | neither | undecided |
+
+The flat-heading problem therefore stands only for the 590 Google Docs, where
+there is no original to go back to — the document *is* the Google Doc. That is a
+much smaller problem than learning 7 first suggested, and it is now a property of
+one format rather than of the whole corpus.
+
+**Install discipline, learned the hard way:** `pip install
+--break-system-packages markitdown` broke `cryptography` for the entire
+container and took the system interpreter with it. Everything goes in a venv —
+recorded in `CLAUDE.md` because it is a rule, not a preference. `sources.py`
+stays standard-library and shells out to `.venv-tools/bin/python`, so it still
+runs when the venv is absent and prints the command that creates it.
+
 ### 8. What survives cleanly — *measured*
 
 Tables came through as well-formed pipe tables (two of them, 6 and 16 rows,
