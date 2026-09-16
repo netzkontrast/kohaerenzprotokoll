@@ -79,11 +79,11 @@ def unverifiable_quotes(text: str, citations: list[Citation], sources: dict[str,
     ``citation-resolves``); checking it here too means the program is told
     about it while it can still learn, not only after the page exists.
     """
-    span = " ".join(cited_span(c, sources) for c in citations)
-    if not span:
+    spans = [span for span in (cited_span(c, sources) for c in citations) if span]
+    if not spans:
         return []
     return [fragment for fragment in wiki_pages.quoted_fragments(text)
-            if normalise(fragment) not in span]
+            if not any(normalise(fragment) in span for span in spans)]
 
 
 def citation_resolves(citation: Citation, sources: dict[str, str]) -> bool:
@@ -141,8 +141,8 @@ def _concept_checks(draft: ConceptDraft, batch: set[str], plan: ConceptPlan | No
     uncited = [s.text for s in draft.definition if not s.citations]
     two_sourced = all(len(set(d.sources)) >= 2 for d in draft.disagreements)
     thin = [d.topic for d in draft.disagreements if len(d.positions) < len(set(d.sources))]
-    pending = any(d.resolution == "pending" for d in draft.disagreements)
-    status_ok = (draft.status == "contradicted") == pending
+    resolved = [d.topic for d in draft.disagreements if d.resolution != "pending"]
+    status_ok = (draft.status == "contradicted") == bool(draft.disagreements)
     slug_ok = bool(wiki_schema.slug_pattern().match(slug)) and len(slug) <= wiki_schema.conventions()["slug"]["max_length"]
     unknown_ids = [i for i in plan.claim_ids if not 1 <= i <= n_claims] if plan is not None else []
     return [
@@ -151,7 +151,11 @@ def _concept_checks(draft: ConceptDraft, batch: set[str], plan: ConceptPlan | No
         (two_sourced, [f"{slug}: a disagreement needs two distinct sources"]),
         (not thin, [f"{slug}: a disagreement needs one position per source: {t[:SENTENCE_PREVIEW_CHARS]!r}"
                     for t in thin]),
-        (status_ok, [f"{slug}: status {draft.status} does not match its pending disagreements"]),
+        (status_ok, [f"{slug}: status {draft.status} does not match its {len(draft.disagreements)} "
+                     f"disagreement(s); a page with one open disagreement is contradicted"]),
+        (not resolved, [f"{slug}: an ingest proposes, it never resolves — disagreement "
+                        f"{t[:SENTENCE_PREVIEW_CHARS]!r} must stay pending for the author"
+                        for t in resolved]),
         (slug_ok, [f"{slug}: slug does not match {wiki_schema.conventions()['slug']['pattern']}"]),
         (not unknown_ids, [f"{slug}: plan references unknown claim ids {unknown_ids}"]),
     ]
@@ -196,8 +200,8 @@ def _citation_axis(run: Compiled, sources: dict[str, str], deficits: list[str]) 
         loose = unverifiable_quotes(text, cites, sources)
         if loose:
             bad += 1
-            deficits.append(f"{where}: quoted term not in the cited lines: "
-                            f"{loose[0][:QUOTE_PREVIEW_CHARS]!r}")
+            deficits += [f"{where}: quoted term not in the cited lines: "
+                         f"{quote[:QUOTE_PREVIEW_CHARS]!r}" for quote in loose]
     total = len(citations) + len(texts)
     return 1.0 - bad / total if total else 0.0
 

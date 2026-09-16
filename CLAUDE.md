@@ -1,118 +1,63 @@
-<!-- agency:onboarding:start -->
-## Agency plugin — onboarding (auto-generated, do not edit between markers)
+# Kohärenz Protokoll — working agreement
 
-This repo carries an `.agency/session.db` provenance graph (Spec 020 —
-committed to git so team learnings travel with the repo).
+A German hard-SF novel (Hard SciFi / Cosmic Horror / Psychological Thriller),
+its research corpus, and the deterministic tooling that keeps the two honest.
 
-### Wire contract — 3 tools (CORE.md)
+**Canon prose is German and is never translated. Engineering and work language
+is English.**
 
-The agency MCP server exposes ONE lean contract:
+## Rule 0 — never assume; ask
 
-| tool | purpose |
+**Whenever a decision would otherwise rest on an assumption, stop and use the
+`AskUserQuestion` tool instead of guessing.** Canon facts, character and plot
+choices, German wording, which document wins on a conflict, scope, a name —
+a wrong assumption baked into canon prose is expensive to unwind, and a
+question is cheap. This is a hard rule, not a preference.
+
+Two decisions that are never a session's to make:
+
+- **User-facing flags are user-owned.** `--write`, `--promote`, `--apply` and
+  anything else a skill lists in its `argument-hint`
+  (`Wiki/schema/writers.yaml → user_flags`). Never set one on your own; ask,
+  with the dry-run output in hand.
+- **Promotion and canon.** Research becomes a wiki page, and a wiki page
+  becomes canon, only when the author says so.
+
+## Rule 1 — if it can be programmatic, it is
+
+**Anything decidable by a program is written as a program.** A rule that lives
+only in prose is a rule nobody can run, nobody can test, and everybody
+paraphrases slightly differently the next time they write it down.
+
+That makes the division of labour sharp:
+
+| lives in | what belongs there |
 |---|---|
-| `search` | discover capabilities + verbs by keyword |
-| `get_schema` | fetch parameter schemas for a found verb |
-| `execute` | run a Python block; chain `await call_tool(...)` calls inside |
+| the tool (`scripts/`, `tools/`) | every decidable rule, as the one executable encoding |
+| a schema (`Wiki/schema/*.yaml`, `Graph/schema.yaml`) | the values and thresholds the tool reads, so changing a rule is a data change |
+| the skill or command | when to reach for the tool, how to read its output, and what judgement is left over |
+| a reference file beside the tool | the ideas — why the rule exists, what it rejects, what it deliberately cannot see |
 
-Plus four engine-substrate onboarding tools:
+A skill that restates what a tool enforces has created a second encoding, and
+two encodings of one rule drift apart on the first edit. So a skill says *run
+this, here is what its output means*; it does not re-list the rules. This is
+why `lint_chapter.py` is the single encoding of the R-rules, why the wiki's
+Python enums are derived from `Wiki/schema/*.yaml` at import time rather than
+typed out again, and why `Codex/` is rendered from `Graph/` instead of
+maintained.
 
-- `agency_welcome` — one-shot first call; returns the wire contract +
-  a chained code-mode example + the live capability tier + the discipline-
-  skills roster + the resolved DB path. **Start here.** No intent_id.
-- `agency_install` — scaffold `.agency/` + refresh this snippet. Idempotent.
-- `agency_doctor` — health check (Spec 030): python version, deps, DB
-  reachability, env-var presence. Call when something silently fails.
-- `intent_bootstrap` — mint AND confirm the Intent every verb SERVES
-  against. The only tool that does NOT require an existing `intent_id`.
+**The test:** if a rule can be broken without a check failing, it is prose, not
+a rule. Either give it a check or mark it as judgement — those are the only two
+honest options.
 
-### Code-mode chaining — one block, one return
+**What stays judgement**, and is not worth faking into a script: whether a
+contradiction matters, whether a derivation is sound, whether prose lands,
+which of two sources is right, and every Rule 0 decision. A tool can surface
+these and must never settle them.
 
-`execute` runs ONE Python block in a sandbox; every `await call_tool(...)`
-inside crosses NO extra wire hops; ONE value crosses back. Chain instead
-of per-call — it's the headline win of the substrate.
-
-**Sandbox constraints (Spec 282 G — know them before batching):**
-- **≤ 50 `call_tool` per `execute` block** — batch at ≤ 45; split larger
-  work across blocks or use the CLI lane (`python -m agency.cli execute`).
-- **No file I/O** — the sandbox has no `open()`; persist via capability
-  verbs, never the filesystem. `try/except`, `import json`, loops are fine.
-- A failed `call_tool` aborts the REST of the block, but writes already
-  made **persist** (not rolled back) — make batch scripts idempotent.
-
-```python
-await call_tool('execute', {'code': '''
-    # 1. mint the intent every cap verb will SERVE
-    iid = (await call_tool("intent_bootstrap", {
-        "purpose": "<why>", "deliverable": "<what>", "acceptance": "<verify>",
-    }))["intent_id"]
-    # 2. chain N verb calls — only the final return crosses the wire
-    r = await call_tool("capability_<cap>_<verb>", {
-        "intent_id": iid, "agent_id": "agent:me",
-    })
-    # 3. record the lesson so the graph carries it (provenance moat)
-    await call_tool("capability_reflect_note", {
-        "intent_id": iid, "agent_id": "agent:me",
-        "scope": "observation", "text": "<lesson>",
-    })
-    return r
-'''})
-```
-
-### Session mode — walk discipline skills, don't improvise
-
-Every walkable skill IS a Lifecycle template (Spec 114). Walk them via
-`develop.skill_walk` so the engine bounds context one phase at a time:
-
-- `develop.brainstorm` — explore intent before code
-- `develop.write_spec` — harden a draft into a spec
-- `develop.implement` — RED → GREEN → commit → push (TDD walker)
-- `develop.skill_walk` — walk any cap's walkable skill
-- `develop.session_init` — open + resume a session
-
-### Provenance is the moat — verb-first beats raw tools
-
-Capability verbs auto-record Invocations + SERVES edges + Artefacts.
-Raw `Bash`/`Edit` actions don't. Prefer:
-
-| action | verb | raw fallback |
-|---|---|---|
-| run tests | `develop.test` | Bash `pytest` |
-| commit | `branch.commit_smart` | Bash `git commit` |
-| push + open PR | `branch.finish_branch` | Bash + `gh` |
-| dispatch subagent | `subagent.dispatch` | Agent tool |
-| search code | `search` + `analyze.*` | Grep / Glob |
-| critical thinking | `intent.<method>` (8 methods, Spec 091) | chat |
-
-When in doubt, call `agency_welcome` first — sub-1KB, pure introspection,
-state-aware (fresh-graph → bootstrap; populated → discovery + provenance).
-
-### Rule 0 — never assume; ask
-
-Whenever a decision would otherwise rest on an **assumption** — a domain
-fact, an enum value, which source wins on conflict, scope, a name, or any
-ambiguous requirement — **STOP and ask the user** with the `AskUserQuestion`
-tool instead of guessing. A wrong assumption baked into work is expensive to
-unwind; a question is cheap. This is a hard rule, not a soft preference.
-
-The engine reinforces it so the discipline survives a forgetful session:
-
-- **Hard skill-gates pause for explicit sign-off.** A `develop.skill_walk`
-  phase marked `gate: hard` returns `input-required` and blocks until you
-  confirm — resume with `resume_from=<PHASE>`. Do not self-approve; surface
-  the gate to the user.
-- **Verbs fail LOUD, never invent.** A verb that cannot resolve a required
-  value returns a PERMANENT typed error (Spec 282) listing the legal options
-  rather than picking one. Read the error; ask if the choice is the user's.
-- **Discover, don't guess, the surface.** `search` / `get_schema` return the
-  real verbs + their enum members (Spec 284 surfaces closed-enum values up
-  front) — consult them before assuming a parameter or value exists.
-<!-- agency:onboarding:end -->
-
-<!-- The block above is auto-generated by `agency_install`. Everything below is hand-authored and safe from regeneration. -->
-
----
-
-# Project working agreement — Kohärenz Protokoll
+**When a rule cannot be automated yet**, say so where it is stated, so the gap
+is visible rather than implied. `Graph/schema.yaml` records the per-entry
+spoiler ceiling that way: `status: not-implemented`, with what it depends on.
 
 ## Session startup
 
@@ -122,359 +67,240 @@ boundaries, sequencing, and acceptance criteria as active project context.
 Do not silently start a deferred migration: follow the task's stated mode and
 ask the author when it requires an architectural decision.
 
+## The five layers
+
+| layer | what it is | who writes it |
+|---|---|---|
+| `Sources/` | raw exported research, immutable | the documented fetch procedure and the inventory scripts, nothing else |
+| `Wiki/` | drafted knowledge pages, promoted by a human | `/research-ingest` drafts, `/kp-promote` promotes |
+| `Graph/` | the novel's facts as plain JSONL | `/kp-canon`, and the author by hand |
+| `Canon/` | normative prose | the author |
+| `Manuscript/` | the book — **the source of truth for prose** | the author, through `/kp-write` |
+
+Research is not canon. The 680 Drive documents in
+`Plan/research/…quellenindex…` enter through the three-layer knowledge system
+(`Plan/wiki/knowledge-system-concept_2026-09-15.md`) and reach `Canon/` only
+through a D-xx decision.
+
+**On conflict**, for manuscript work, the storyform/outline document is
+normative: `Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`.
+Inside the research-wiki loop Canon is `unverified` until checked against the
+populated wiki, and a Canon/research conflict is an open question with no
+default winner (D-W12).
+
+## The workflow — nine commands
+
+```
+Drive → Sources/ ──/research-ingest──→ Wiki/candidates/ ──/kp-promote──→ Wiki/
+                                                                            │
+Canon/ ──/kp-canon──┐                                              a D-xx decision
+                    ├──→ Graph/ ──renders──→ Codex/                         │
+        /kp-world ──┘        │                                              ↓
+                             └──/kp-write──→ Manuscript/                 Canon/
+```
+
+| command | does |
+|---|---|
+| `/research-ingest` | exported sources → candidate pages, a knowledge diff, a metric score; chunked by default (3 sources), each concept merged from its whole claim history |
+| `/kp-promote` | a reviewed candidate → `Wiki/sources/` or `Wiki/concepts/` |
+| `/kp-canon` | `Canon/` → `Graph/`, then re-render the Codex views |
+| `/kp-world` | derive a Kernwelt, level or population through the chain, then land it in `Graph/` |
+| `/kp-write` | draft or revise a scene, with its knowledge fences and checks |
+| `/kp-check` | every free gate at once |
+| `/kp-ask` | a cited answer from the repository, never from memory |
+| `/clarify` | make scope, terms and assumptions explicit — **mandatory before promotion to canon** |
+| `/tetraframe` | four isolated positions on a contested decision — **mandatory before a D-xx**, a merge, a supersession, or anything contradicting Canon |
+
+Four skills carry the craft: **novel-architect** (the whole novel, routing to
+`reference/{character,scene,structure,world,legacy}.md`), **dramatica**
+(storyform reasoning and exact vocabulary), **ncp-author** (NCP A/B alignment),
+**lit-critic** (prose review).
+
+## Before declaring anything done
+
+```bash
+python3 scripts/kp_check.py [--chapters]
+```
+
+One command, every deterministic gate: wiki health, rendered wiki and Codex
+views, the source manifest, claim provenance (D-W2), both storyforms, the world
+axioms, chapter drift, and optionally every chapter lint. Free — no API key, no
+network — so there is no reason to skip it.
+
+Two results are expected and are not defects: Storyform B fails rows 2 and 10
+(its documented heterodox signposts, Canon-Lock), and chapter drift reports
+`ahead` for most chapters because `Manuscript/` holds the prose while `Graph/`
+holds outline stubs.
+
+**A lint proves a forbidden word is absent; it can never show that something
+required is missing.** After the gates pass, read the work: frontmatter
+complete, cross-references resolving, every new term carrying a codex entry, no
+sentence that defers work instead of doing it. Deferral language is a defect —
+write it, or mark it `[L]` / a D-xx with an owner, and ask.
+
+The prose gate costs tokens and is separate:
+`python3 scripts/lit_critic_gate.py --chapter N` (exit 0 pass · 1 blocking ·
+2 could not run; `--locks-only` runs the free lints alone). `lint_chapter.py`
+is the single encoding of the R-rules — never restate them elsewhere.
+
+One more free gate, for revision rather than drafting:
+`python3 scripts/check_enrichment.py` holds an enrichment pass to inserts only.
+Enrichment adds; it never rewrites existing prose.
+
+## Graph/ — the novel's facts
+
+`Graph/README.md` is the contract. One JSONL file per node label plus
+`edges.jsonl`; `_nid` is the integer edges point at. Read it with
+`tools/kpgraph`, write it with `tools/kpgraph/writer.py`, both standard library
+only. Node ids are derived from label plus natural key, so re-ingesting is
+idempotent by construction.
+
+1,180 records: 602 codex entries, 223 claims, 111 world axioms, 97 beats,
+56 story-time events, 41 chapters, 26 decisions, 15 scenes, 7 worlds, the
+Novel and the Storyform. Everything under `Codex/` is a **generated view** —
+never hand-edit it; change the record and re-render.
+
+`Graph/schema.yaml` is the second half of the contract: it declares how those
+records partition into a navigable Codex. One convention, three views:
+
+```
+Codex/<VIEW>.md          navigation only — counts and links, never a body
+Codex/<view>/README.md   the rendered index of that view
+Codex/<view>/<slug>.md   one retrievable unit
+```
+
+`GLOSSARY.md` → `entries/<category>/<slug>.md` (one entry), `WORLD-AXIOMS.md` →
+`axioms/<world-slug>.md` (one world's whole rule set), `MASTER-TIMELINE.md` →
+`timeline/<phase-slug>.md` (one story phase). Entries partition by the
+`**Kategorie:**` each record already carries; an undeclared category lands in
+`entries/_misfiled/` so drift is visible rather than silent.
+
+**Retrieval is a command, not a habit:**
+
+```bash
+python3 scripts/context_packet.py --chapter N   # ~21,700 tokens, not ~84,400
+```
+
+Three tiers — the always-on categories, every entry whose `triggers` occur in
+that chapter, and all world axioms. The chapter window is computed on each run
+rather than stored, so it cannot go stale, and membership implies the entry was
+already in play at or before that chapter, which is what makes it spoiler-safe.
+A per-entry spoiler ceiling depends on the story encoding and worldbuilding and
+is recorded in `Graph/schema.yaml` as `not-implemented`, so read a body before
+using it when the chapter is early and the entry is central.
+
+Closed enums, all of them enforced:
+
+- **CodexEntry `kind`**: `concept`, `location`, `faction`, `artefact`,
+  `minor-character`. Anything else is stored as `concept` with its original
+  category as the first body line, `**Kategorie:** <kind>`.
+- **Scene `pov`**: `first`, `second`, `third-limited`, `third-omniscient`.
+- **WorldAxiom `severity`**: `hard`, `soft`.
+- **Chapter status**: `outlined` → `drafted` → `revised` → `final`.
+- **Novel status**: `concept` → `outlining` → `drafting` → `revising` →
+  `beta` → `querying` → `published`. Currently `outlining`.
+- **NovelClaim `domain`**: the ten research domains (historical, scientific,
+  cultural, geographical, linguistic, philosophical, religious, political,
+  technological, biographical). The canon file goes in `source_uri`.
+
+**D-W2**: "the graph" means `Graph/`, and it never receives wiki page bodies.
+A claim's `source_uri` points at `Sources/` or `Canon/`, never `Wiki/`;
+`scripts/audit_graph_claims.py` enforces it.
+
+Beat ordering is thin: 3 of the 97 beats carry a `PRECEDES` edge. The rest are
+grouped by their `scene` property and ordered by insertion. Scene grouping is
+the reliable signal; a topological sort over `PRECEDES` is not.
+
+## The novel
+
+**Registered**: `novel:9d170c31` — "Kohärenz Protokoll", author *The Agency
+System*.
+
+**Architecture.** Arc I (Kap. 1–13): anomaly → system contradiction →
+counter-register → loss of evidentiary certainty → loss/relationship →
+conscious plurality → internal practice. Arc II (14–26): access → knowledge →
+intervention. Arc III (27–40): intent → confrontation capacity → truth
+rotation → insufficient replacement order → plural preservation. 35/36 are the
+operative storyform turn; 37 is a real but non-scalable false victory; 38/39
+are synthesis; 40 is coda, not explanation.
+
+**Worlds.** 7 levels carrying 111 axioms. A new Kernwelt, level, sub-locality
+or population is derived through `/kp-world` — Ebene → Logik-Regime →
+DKT-Ausdruck → Sensorik → Bewohner/Kognition → Ordnung → Sprachregister →
+Geschichte, an author checkpoint at every layer — and lands in `Graph/`.
+`scripts/world_check.py` reports axiom pairs that share rare motifs where
+exactly one side is negated; a flagged pair is a question for the author, and
+resolving one goes through `/tetraframe`.
+
+**Storyform.** Deliberately two, simultaneously. `ncp.json` is A (Kael/K₁) and
+passes all 13 decidable rows. `ncp-b.json` is B (AEGIS/K₀) and carries two
+documented heterodox rows — linear-progressive signposts, Canon-Lock, never
+"fixed". `python3 scripts/storyform_check.py` runs both; `tools/kpstoryform`
+holds the checks, the vendored NCP v1.3.0 vocabularies (463 appreciations,
+144 narrative functions) and the Dramatica ontology.
+
+**Locks that hold everywhere.** AEGIS is tragically innocent, never a villain.
+Resolution is functional multiplicity, never fusion; no eliminated parts. Juna
+is a cosmological constant and witness function, not a love interest. Theory
+stays submerged — mechanisms reach the reader through work, objects, timing,
+space, body, logs and omission. No DKT terminology in the first 50 pages; the
+Multiplizitäts-Schleier holds until Kap 13.
+
 ## Wiki compass (read before `Wiki/**` work)
 
 The concise cross-agent rules live in `AGENTS.md`; the full contract lives in
-`Wiki/SCHEMA.md` and `Wiki/schema/*.yaml`. The four page entities are `source`,
-`concept`, `question`, and `synthesis`. Store one semantic entity per page at
+`Wiki/SCHEMA.md` and `Wiki/schema/*.yaml`. The five page entities are `source`,
+`concept`, `contradiction`, `question`, and `synthesis`. Store one semantic entity per page at
 `sources/<category>/`, `concepts/<kind_detail>/`, `questions/<axis>/`, or
 `syntheses/<YYYY>/`; candidates mirror that layout. Start at `Wiki/index.md`
 and descend through rendered local `README.md` indexes. Page budgets are
 enforced by `scripts/wiki_lint.py`; split before the hard maximum. Never edit
 rendered indexes by hand. Use the repo-local `wiki-maintenance` skill for
 moves, splits, navigation repair, and schema evolution. Operational terms are
-defined in `Wiki/GLOSSARY.md`; the domain glossary remains generated at
-`Codex/GLOSSARY.md`. Duplicate slugs, broken navigation links, mispartitioned
+defined in `Wiki/GLOSSARY.md`; the domain glossary is generated under
+`Codex/entries/`, routed from `Codex/GLOSSARY.md`. Duplicate slugs, broken navigation links, mispartitioned
 pages, oversized pages, and stale local indexes are structural blockers.
-For manuscript retrieval, start with `Wiki/context-map.md`, enforce its
-chapter/spoiler window, load matching headings next, and inspect raw source
-lines only when evidence is required.
+For manuscript retrieval, start with `python3 scripts/context_packet.py
+--chapter N` for the novel's own facts, and `Wiki/context-map.md` for the
+research layer — enforce its chapter/spoiler window, load matching headings
+next, and inspect raw source lines only when evidence is required. The
+retrieval ladder is `wiki-maintenance` →
+`references/context-loading.md`.
 
-## Rule 0 — project-specific additions
+## Every LLM step is a DSPy program
 
-The general rule is above (agency onboarding block, "Rule 0 — never assume;
-ask"). This project extends its scope to canon facts, character/plot
-choices, German prose wording, file/title/author values, and which
-document wins on conflict.
-
-- Canon prose is **German** — never translate it. Engineering/work language is English.
-- On conflict between source documents, the **storyform/outline** document is
-  normative (`Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`).
-  This holds for manuscript work. Inside the research-wiki loop Canon is
-  `unverified` until checked against the populated wiki and a Canon/research
-  conflict is an open question with no default winner (D-W12, 2026-09-16).
-- Prefer agency **capability verbs** over raw file edits so provenance is recorded.
-
-## Registered novel
-
-The Novel node is live: **`novel:9d170c31`** — "Kohärenz Protokoll", author
-*The Agency System*, genre *Hard SciFi / Cosmic Horror / Psychological Thriller*,
-status `concept`. Use `novel.resume_session` to recover the id in a fresh session.
-
-## Gotchas (save a round-trip)
-
-- `reflect_note` `scope` enum is **`{observation, project, reflection, technical, user, world}`** — `decision` is rejected by the ontology.
-- Every verb needs a live `intent_id`; mint one with `intent_bootstrap` at session start (a stale/empty id errors).
-- A failed `call_tool` inside an `execute` block aborts the rest of the block, but graph writes already made in that block **persist** (not rolled back) — re-query before re-running.
-
----
-
-# Knowledge system (research wiki) and DSPy base
-
-The 680 Google-Drive documents in `Plan/research/…quellenindex…` are **research,
-not canon**. They enter the repo through the three-layer knowledge system in
-`Plan/wiki/knowledge-system-concept_2026-09-15.md`: `Sources/` (raw, immutable;
-manifest via `python3 scripts/source_inventory.py`) → `Wiki/` (LLM-maintained,
-human-promoted; contract in `Wiki/SCHEMA.md` + `Wiki/schema/*.yaml`, loaded by
-`tools/kpwiki/wiki_schema.py`; free checks `python3 scripts/wiki_lint.py --health`
-and `python3 scripts/render_wiki_views.py --check`, candidate finder
-`python3 scripts/wiki_fts.py search "…"`; a batch of exported sources becomes
-candidate pages through `/research-ingest`
-(`tools.kpwiki.research_ingest_cli`, program `BatchCompile`), and only
-`/wiki-promote` moves a reviewed candidate into `Wiki/sources/` or
-`Wiki/concepts/`) → `Canon/` + graph (author-locked, only
-via a D-xx decision and `/ingest`). "The graph" always means the provenance graph
-`.agency/session.db`; it never receives wiki page bodies (D-W2). Every new LLM step is a DSPy program in `tools/kpwiki/`
-(`docs/dspy-base.md`; skills `dspy-fundamentals`, `dspy-evaluation-harness`,
-`dspy-gepa-optimizer`, `dspy-rlm-module`, `dspy-rlm-workflow`, `dspy-deep-refine`,
-`dspy-reflect-loop`, `dspy-clarify`, `dspy-tetraframe`, `dspy-autodialectics`,
-`dspy-wiki-compile`, `dspy-adversarial-review`, `dspy-local-runtime`,
-`dspy-advanced-workflow`) — typed
-Signatures, closed enums, rich-feedback metrics; no prompt strings.
-**`/clarify` is mandatory before `/promote-to-canon`** and recommended wherever
-precision matters: it makes scope, terms and assumptions explicit and turns
-what the source does not settle into questions for the author (Rule 0 as code).
-**`/tetraframe` is mandatory before a contested decision is recorded** — a
-D-xx with two camps, a wiki merge/supersede/delete, a promotion that
-contradicts Canon, a storyform or axiom change: four isolated corners, a
-contradiction map and a verified P* go to the author; the run never decides.
+Typed Signatures, closed enums, rich-feedback metrics — no prompt strings. They
+live in `tools/kpwiki/` and are documented in `docs/dspy-base.md`.
 `scripts/setup_dspy.sh` builds `.venv-dspy` and runs the offline smoke test.
-Without `ANTHROPIC_API_KEY` the DSPy programs run through the `claude` CLI
+Without `ANTHROPIC_API_KEY` they run through the `claude` CLI
 (`KP_LM_BACKEND=auto`, `tools/kpwiki/local_lm.py`); GEPA works there too.
 
----
+The wiki contract is `Wiki/SCHEMA.md` plus `Wiki/schema/*.yaml`, loaded by
+`tools/kpwiki/wiki_schema.py` — the YAML is the single source of truth and the
+Python enums are derived from it at import time.
 
-# Novel capability — full reference (Spec 101 master)
+The first live `BatchCompile` run is recorded in
+`Plan/wiki/pilot-run_2026-09-16.md`: what it cost, what it found, and the
+defect classes it exposed. Read it before the next run.
 
-The `novel` capability is the engine for authoring this book. **91 verbs**
-across 3 roles drive premise → manuscript with graph-recorded provenance.
+## What runs automatically
 
-## How to invoke
+Hooks in `.claude/settings.json`, all warn-only:
 
-Every verb is an MCP tool named **`capability_novel_<verb>`** and is called
-inside an `execute` code-mode block. The engine auto-records an Invocation +
-SERVES edge to the active Intent. `intent_id` and `agent_id` are accepted by
-every verb (omit and the engine resolves the current session intent).
+- **SessionStart** — the roster in `.claude/hooks/bootstrap.md`, plus a
+  `CURRENT_TASK.md` restore and a stale-`Codex/` check.
+- **UserPromptSubmit** — skill routing.
+- **PreToolUse Write/Edit** — the anti-deferral scan (English and German
+  patterns; `[L]` is a legitimate marked gap).
+- **PostToolUse Write/Edit** — chapter files run `lint_chapter.py --hook`;
+  `Codex/`, `Canon/` and `ncp*.json` edits get discipline warnings.
+- **PreCompact** — save session state to `.claude/CURRENT_TASK.md`.
 
-```python
-await call_tool('execute', {'code': '''
-    iid = (await call_tool("intent_bootstrap", {
-        "purpose": "draft Kohärenz Protokoll", "deliverable": "manuscript",
-        "acceptance": "publication_gate passes",
-    }))["intent_id"]
-    nid = (await call_tool("capability_novel_create_novel", {
-        "intent_id": iid, "agent_id": "agent:me",
-        "title": "Kohärenz Protokoll", "author": "<ASK USER>", "genre": "novel",
-    }))["novel_id"]
-    return nid
-'''})
-```
+No plugins are enabled. Everything the repository needs lives in `scripts/`,
+`tools/` and `.claude/`, and runs on the standard library unless it calls an
+LLM. Agents with persistent memory: `@worldbuilder-editor`,
+`@worldbuilder-physicist`, `@worldbuilder-researcher`
+(`.claude/agent-memory/`).
 
-## Minimum-viable-novel path (the 5-verb spine)
-
-`conceptualize` → `create_novel` → `create_chapter` → `chapter_report` → `render_manuscript`
-
-Skipping the conceptualizer's hard gate is a red flag → walk the `novel-concept` skill first.
-
-## Lifecycle status enums (enforced by `set_*_status`)
-
-- **Novel:** `concept` → `outlining` → `drafting` → `revising` → `beta` → `querying` → `published`
-- **Chapter:** `outlined` → `drafted` → `revised` → `final`
-
-## Walkable skills (drive via `develop.skill_walk`, one phase at a time)
-
-Each carries the hard gates (`develop.skill_walk(name, inputs)` — each phase
-consumes its declared `produces` keys from `inputs`; the final confirmation
-phases REQUIRE explicit user sign-off → AskUserQuestion first):
-`novel-concept` (conceptualizer, 10 phases) · `character-architect` (4) ·
-`world-bible-architect` (5, canon-lock) · `storyform-build` (builder, 6 —
-fills `ncp.json`) · `scene-bridge-auditor` (auditor, 5) ·
-`developmental-editor` (editor, 5) · `line-editor` (editor, 4) ·
-`scene-writer` (writer, 5) · `publish-prep` (publisher, 4)
-
-## Editorial gate ladder — 3 tiers over the same 9 checks (never skip a hard gate)
-
-Grouped by what each tier is readiness *for*, not a reduction of what runs:
-a tier name is shorthand for a fixed sub-sequence, and reporting a tier
-always means reporting every one of its checks individually — never collapse
-9 checks' worth of status into one pass/fail bit.
-
-**Tier 1 — draft-ready** (chapter/novel structure is sound). Two
-deterministic repo gates first: `scripts/check_enrichment.py` (an
-enrichment pass may only insert prose) and the Readiness Gate in
-`Plan/drafting/chapter-enrichment-masterplan_2026-09-11.md` §F. Then:
-`pre_draft_gate` → `developmental_gate`.
-
-**Tier 2 — edit-ready** (prose quality; chapter status `drafted` →
-`revised` → `final`): **lit-critic gate** → `line_gate` → `copy_gate`.
-
-The lit-critic gate is repo-local, not an agency verb: `python3
-scripts/lit_critic_gate.py --chapter N` (exit 0 pass · 1 blocking · 2 could not
-run). It needs `scripts/setup_lit_critic.sh` plus an `ANTHROPIC_API_KEY`;
-without a key it exits 2 (**never** a pass). Two stages: the decidable
-**chapter lints** from `scripts/lint_chapter.py` (lexical, free, no key —
-`--locks-only` runs them alone and reports `LINT PASS` so it's not mistaken
-for a full run; VIOLATION blocks, WARN is advisory) and the **seven
-editorial lenses** against `tools/lit-critic/CANON.md` + `STYLE.md`. Writes
-`Plan/quality/lit-critic/kap-NN.md`. Only `critical` findings block; the
-`horizon` lens never does. A lint proves a forbidden word is absent — it can
-never show that something required is missing. `lint_chapter.py` is the single
-encoding of those rules (the post-tool-use hook runs it too); never restate them
-elsewhere. Tests: `.lit-critic-src/.venv/bin/python -m pytest tests/`. Walk
-the `lit-critic` skill before triaging findings.
-
-**Tier 3 — publish-ready** (novel status → `querying` → `published`):
-`beta_ready_gate` → `query_ready_gate` → `publish_ready_gate` →
-`publication_gate` (terminal).
-
-Run a tier's agency verbs in one `execute` block and return every sub-gate's
-own result, not just an aggregate — `get_schema` for each verb's exact
-result shape before assuming a field name:
-
-```python
-r_pre = await call_tool("capability_novel_pre_draft_gate", {"novel_id": nid})
-r_dev = await call_tool("capability_novel_developmental_gate", {"novel_id": nid})
-return {"tier": "draft-ready", "checks": {"pre_draft_gate": r_pre, "developmental_gate": r_dev}}
-```
-
-The hard gates inside each tier's walkable skills are listed under
-§"Walkable skills" above — not restated here.
-
-## Storyform coherence (Spec 120)
-
-`novel_coherence_check(ncp)` runs all 11 decidable storyform checks. The NCP
-schema (v1.3.0, 463 appreciations + 144 narrative_functions) and the Dramatica
-ontology ship with the capability; `validate_appreciations` / `validate_narrative_functions`
-gate against the canonical vocabularies.
-
-## Verb roster (91 verbs, 3 roles)
-
-Full table (params, purpose, act/effect/transform split):
-`.claude/skills/novel-architect/references/verb-roster.md`. Or discover it
-live: `search` + `get_schema` return the real verbs and their enum members.
----
-
-# Proven workflow — writing this novel with the agency engine
-
-Validated end-to-end in-session 2026-06-12 (intent `intent:081f5ced`). Every
-step below ran against the real graph; gotchas are things that actually broke.
-
-## 0. Session-start ritual (every fresh session)
-
-```python
-# MCP lane (execute block):
-nid = (await call_tool("capability_novel_resume_session", {}))["novel_id"]   # → novel:9d170c31
-iid = (await call_tool("intent_bootstrap", {"purpose": "...", "deliverable": "...", "acceptance": "..."}))["intent_id"]
-```
-
-```bash
-# CLI lane (Bash; provenance-equivalent, better for batches):
-export AGENCY_INTENT=$(/root/.local/bin/agency intent --purpose "..." --deliverable "..." --acceptance "..." | tail -1)
-/root/.local/bin/agency novel <verb> --novel-id novel:9d170c31 [--options]
-echo '<code>' | /root/.local/bin/agency execute        # code-mode from stdin
-```
-
-## 1. Two invocation lanes — when to use which
-
-| lane | strengths | hard limits |
-|---|---|---|
-| MCP `execute` block | interactive, chained, one wire return | ≤ **50 `call_tool` per block**; sandbox (Monty) has **no file I/O**, no `open` |
-| CLI `agency …` | batch scripts, stdin code-mode, pipes | same sandbox limits in `agency execute`; per-verb subcommands take `--flags` + `--json` |
-
-Sandbox supports `try/except`, `import json`, loops. A failed call inside a
-block aborts the REST of the block, but **writes already made persist** — all
-batch scripts must be idempotent against graph ground truth, not a ledger.
-
-## 2. Canon ingestion (done; re-run only when canon docs change)
-
-`Canon/*.md` → extraction manifests (`Plan/ingest/*.extraction.json`) →
-`python3 scripts/ingest_canon.py`. The driver is idempotent (skips existing
-slugs/numbers/labels/texts via read-only SQL against `.agency/session.db`)
-and retries transient engine failures while progress is being made.
-
-Seeded state (graph + `Manuscript/` disk tree):
-
-- Novel `novel:9d170c31`, chapters **0–40** (ch 0 = revised, body = clean Kap-0 prose; 1–40 outlined with act/POV/beats outline bodies)
-- **7 Worlds** (KW1–KW4, Überwelt, Externe Ebene Köln 2026, Kosmos-Meta) + **111 WorldAxioms** (hard/soft)
-- **~600 CodexEntries** (terms, characters, rules, motifs, sensorik, philosophy, themes, defects, guidance — see kind mapping below)
-- **15 Scenes** for Kap 0 with **97 chained NarrativeBeats** (PRECEDES order)
-- **~56 StoryTimeEvents** (Genesis chronology + outline events; Kap-0 events have REVEALED_IN edges)
-- **~220 NovelClaims** (`source_uri` = canon file) + **19 storyform decisions**
-- Disk: `work.md`, `premise.md`, `dramatica.md` (dual A/B storyform), `ncp.json` (storyform **null** until storyform-build walk), `chapters/NN-slug.md`
-
-## 3. Codex discipline (Spec 132)
-
-Valid kinds are ONLY `{concept, location, faction, artefact, minor-character}`.
-Anything else (rule, motif, theme, voice, character, …) is stored as `concept`
-(or mapped: character→minor-character, technology/system→artefact) with the
-original category as first body line: `**Kategorie:** <kind>`. Characters are
-codex entries until the Character ontology ships (Slice 2) — their entry ids
-work as `character_id` in `link_character_to_world` / `record_character_learns`.
-
-`match_codex_entries(novel_id, text)` fires triggers → use it to auto-assemble
-scene-relevant canon before drafting. Tune noisy triggers via `update_codex_entry`.
-
-## 4. The scene-writing loop (the core collaboration workflow)
-
-Per scene, in order:
-
-1. **Assemble context** (transforms, cheap):
-   - `chapter_report_full(chapter_id)` — dashboard
-   - `list_story_events_up_to(scene_id)` + `what_does_X_know_as_of(character_id, scene_id)` — knowledge fences (anachronism guard: `flag_anachronistic_reference`)
-   - `match_codex_entries(novel_id, <beat text>)` — canon injection
-   - R-rules + Sprach-DNA register from codex (`list_codex_entries kind=concept`, slugs `r-1`…`r-10`, `sprach-dna-*`, `register-*`)
-2. **Draft** — two modes:
-   - *Host-LLM mode (Claude writes inside the engine)*: `generate_scene_body(scene_id, scene_brief, prefer_delegate=True)` → returns `kind="llm_delegate"` envelope → Claude (the host) writes the prose for that envelope → re-call `generate_scene_body(scene_id, host_completion={...})` → engine captures Artefact + runs prose checks. **No API key needed.**
-   - *Direct mode*: draft prose in chat with the user, then `integrate_scene_body(scene_id, body)`.
-3. **Check** (decidable, driver-free): `check_filter_words`, `check_show_dont_tell`, `check_dialogue_attribution`, `analyze_readability`, `count_words`, `check_voice_consistency(bodies=[...])` vs. Kap 0. Then the LLM pass: `python3 scripts/lit_critic_gate.py --chapter N` (skill: `lit-critic`).
-4. **Audit meaning**: walk `scene-bridge-auditor` (Q1 purpose → Q5 payoff, hard sign-off).
-5. **Record**: `mark_narrative_beat` for new beats, `record_story_event`/`reveal_in_scene` for disclosures, `record_character_learns` for knowledge changes.
-6. **Roll up**: `set_chapter_status(chapter_id, drafted|revised)` when all scenes land; `chapter_report(novel_id)` for progress.
-
-## 5. Gates & skills ladder
-
-See "Editorial gate ladder" under §"Novel capability" above — same sequence,
-same walkable-skills list; this section used to be a second copy of it.
-
-## 6. Storyform / NCP (BUILT 2026-06-12 — user signed off)
-
-Dual structure resolved per user decision: **`ncp.json` = Storyform A**
-(engine-canonical, ALL 11 checks + both vocabulary gates PASS, report
-`artefact:d15bc35f`); **`ncp-b.json` = Storyform B** canon-faithful incl. its
-2 documented heterodox rows (linear-progressive signposts — Canon-Lock, never
-"fix" them). All 7 enum projections (crucial element el.avoid, MC/OS/IC
-signpost mappings, dynamic antipodes) are `record_storyform_decision` entries.
-`storyform-build` walk completed (skill provenance recorded); **pre_draft_gate
-PASSES**. Graph Storyform node: `storyform:307d5d60` (see gotcha below).
-Novel status: `outlining`.
-
-## 7. Engine gotchas (all hit in practice)
-
-- **`ToolResult.failure` returns `null`, not an exception** — always check for null results in batch loops.
-- **CodexEntry `kind` enum** is closed (5 values) — see §3.
-- **`create_scene` `pov` enum**: {first, second, third-limited, third-omniscient} — project rich voice descriptions onto it; keep the full register text in codex (`register-*`) and the manifests.
-- **`capture_claim` `domain` enum**: the 10 RESEARCH_DOMAINS (historical, scientific, cultural, geographical, linguistic, philosophical, religious, political, technological, biographical) — no `canon`; the canon file goes in `source_uri`.
-- **WorldAxiom `severity`** ∈ {hard, soft}; chapter/novel status enums are under "Lifecycle status enums" above.
-- **Partial-block persistence**: a crashed block leaves its earlier writes in the graph → idempotency via ground truth (read-only SQL on `.agency/session.db`), never via memory/ledger alone.
-- **Transient `Failed to set property 'vfrom' on edge N`** under concurrent MCP+CLI use → retry while progress is made.
-- **`reflect_note` scope enum**: {observation, project, reflection, technical, user, world}.
-- **Disk config**: `.agency/novel-config.yaml` `content_root: "Manuscript"` (repo-relative). The work tree lives at `Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/`.
-- **Disk writes need the MCP production runtime** (`_novel_production` flag): the bare CLI is graph-only. Re-render chapter files from graph ground truth with `python3 scripts/materialize_manuscript.py` (uses the engine's own FileNovelStateDriver).
-- `count_words`/`check_*` body verbs are driver-free and safe everywhere.
-- **Hard-gate resume**: `skill_walk` pauses `input-required` + `blocked_on: gate:<id>` → resume with `resume_from=<PHASE NAME>` (not the gate id) + full inputs.
-- **ENGINE GAP — Storyform node**: no verb mints it (gates require it; the walker doesn't create it). `storyform:307d5d60` was inserted surgically in exact `ctx.record` shape (id/novel/body + vfrom/vto + SERVES). Replace with the real verb when the engine ships one.
-- **Coherence checks read `ncp["storyform"]["throughlines"]` directly** with `t.*`/`class.*`/`el.*` ids; signposts must be EXACTLY the canonical order per class; `(resolve,outcome,judgment)` ∈ 4 legal triples; `mental_sex` holistic⇒{mind,psychology}, linear⇒{universe,physics}.
-
-## 8. Prompt patterns for drafting with the user
-
-Scene prompts should always carry (auto-assemble via §4 step 1):
-1. the scene's beats (graph) + POV/voice register (codex `register-*`, `R-7`/`R-9`),
-2. matched codex bodies (trigger scan over the beat text),
-3. the knowledge fence (what the POV-Anteil knows as of this scene),
-4. applicable hard rules (R-1…R-10, usage rules: e.g. **no DKT terminology in the first 50 pages**, Multiplizitäts-Schleier until Kap 13, Juna never as sentence subject),
-5. the sensory palette of the active world (codex `sensorik`/world entries).
-
-German prose out, English engineering in. On any canon ambiguity: AskUserQuestion (Rule 0).
-
----
-
-# Worldbuilding-Codex layer (vendored from alainator/worldcodex, adapted)
-
-Full map and rationale: `docs/worldcodex-integration.md`. Prose tokens: `WRITING.md`.
-
-## What runs automatically (hooks in `.claude/settings.json`, all warn-only)
-
-- **SessionStart** — `bootstrap.md` (skill/command roster) + `CURRENT_TASK.md` restore +
-  stale-`Codex/` check. **PreCompact** — save session state to `.claude/CURRENT_TASK.md`.
-- **UserPromptSubmit** — skill routing (project skills win over codex skills).
-- **PreToolUse Write/Edit** — anti-deferral scan (EN + DE patterns; `[L]` is a legitimate gap).
-- **PostToolUse Write/Edit** — chapter files run `scripts/lint_chapter.py --hook`;
-  `Codex/`, `Canon/`, `ncp*.json` edits get discipline warnings.
-
-## Deterministic tools (run before declaring anything done)
-
-```bash
-python3 scripts/lint_chapter.py [chapter.md]      # R-rules + Act-I fences; exit 1 on VIOLATION
-python3 scripts/render_codex_views.py [--check]   # Codex/ GLOSSARY · MASTER-TIMELINE · WORLD-AXIOMS from graph
-python3 scripts/check_enrichment.py --base <rev>  # enrichment inserted, never altered
-python3 scripts/research-tool.py search "…"       # open-access papers → Plan/research/
-```
-
-## Commands and agents
-
-`/ingest` (source → manifest → graph → Codex) · `/query` (cited answer, filed to
-`Plan/queries/`) · `/lint-wiki` (contradictions, stale claims, orphans, ghosts) ·
-`/full-audit-canon physics|canon|continuity|storyform|full` · `/civilization-build`
-(Kernwelt derivation chain with hard checkpoints).
-Agents: `@worldbuilder-editor` (R-rules, Sprach-DNA), `@worldbuilder-physicist` (DKT),
-`@worldbuilder-researcher` (read-only). Their memory lives in `.claude/agent-memory/`.
-
-## Rules this layer adds
-
-- `Codex/*.md` are generated — never hand-edit; change the graph, re-render, commit both.
-- Every new term gets a codex entry (`kind` enum + `**Kategorie:**`), every dated fact a
-  StoryTimeEvent, every world rule a WorldAxiom — then re-render.
-- Deferral language is a defect: write it, or mark it `[L]` / D-xx with an owner and ask.
-- The upstream `.claude/**` write-deny was not adopted; skills and `PROJECT_REFERENCES.md`
-  are meant to be maintained by sessions. Only the three generated Codex views are denied.
-- Rule 0 still governs: on any canon, plot, wording or scope ambiguity, AskUserQuestion.
+Reasoning reference for hard cases — epistemology, adversarial protocols,
+anti-patterns: `docs/canon-rules/README.md`.

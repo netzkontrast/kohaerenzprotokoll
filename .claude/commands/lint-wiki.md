@@ -66,16 +66,21 @@ action (e.g.
 continue to Check 0 below unless the user asks for the full health check.
 
 You are running a systematic health check on the project corpus. This is NOT
-a DKT/physics audit (use /auditing-physics), not a prose-rule audit (use
-/auditing-canon or `scripts/lint_chapter.py`) and not a storyform check (use
-ncp-author / `novel_coherence_check`). This checks structural integrity.
+a DKT/physics audit (ask `@worldbuilder-physicist`), not a prose-rule audit
+(`scripts/lint_chapter.py`) and not a storyform check (use
+ncp-author / `scripts/storyform_check.py`). This checks structural integrity.
 
 ## Check 0: Generated views are fresh (deterministic)
 
 ```bash
+python3 scripts/kp_check.py            # every deterministic gate, including the two below
 python3 scripts/render_codex_views.py --check
+python3 scripts/world_check.py         # axiom pairs worth reading together
 ```
 Stale → re-render before anything else; a lint over an outdated glossary is noise.
+Everything `kp_check.py` reports is decidable and free: fix those first, because
+the semantic checks below cost tokens and should not be spent on drift a script
+already found.
 
 ## Check 1: Contradiction Detection
 
@@ -86,7 +91,8 @@ entity, event, rule or timeline fact.
 2. Flag pairs where two files disagree on the same fact
 3. Decide which wins under the hierarchy (PROJECT_REFERENCES.md): Manuscript
    prose on telling details > Plan/drafting decisions > Canon (storyform-und-outline
-   normative) > NCP > Legacy. Both Storyforms A and B being different is by design.
+   normative) > NCP > repository history. Both Storyforms A and B being
+   different is by design.
 4. Different Kernwelten having different logic regimes is NOT a contradiction;
    different Anteile perceiving differently is NOT a contradiction.
 
@@ -100,7 +106,10 @@ Find claims superseded by newer decisions.
    (D-xx entries) and `Canon/…welt-sensorik…` §12 (lock index)
 2. grep Plan/ and chapter outline headers for terminology or facts those decisions changed
    (e.g. AEGIS naming in Act I, D-05 name reveal, dekanonisierte Alter list)
-3. Check `Codex/WORLD-AXIOMS.md` against `find_axiom_contradictions(world_id)`
+3. Run `python3 scripts/world_check.py`; it reports axiom pairs from one world
+   that share rare motifs where exactly one side is negated. A flagged pair is
+   a question, not a verdict — resolving one changes canon and goes through
+   `/tetraframe`.
 
 Output: `| File | Stale Claim | Current Decision | Action |`
 
@@ -123,25 +132,54 @@ Orphans are candidates for linking from `README.md`, `Canon/README.md`,
 Named things in chapter prose with no codex entry. German capitalises every
 noun, so do NOT grep for capitalised words. Instead:
 
-1. Collect candidate names: `scan_proper_nouns(body)` per chapter, then keep
-   only tokens that are names in context (Einheiten, Stationen, Orte, Direktiven,
-   Anteile, Guardians, Objekte with a fixed designation such as "Station 11")
-2. Cross-reference against `Codex/GLOSSARY.md` slugs/names/triggers
-   (or `match_codex_entries(novel_id, text)` per chapter)
+1. Collect candidate names per chapter: Title-Case tokens that are names in
+   context (Einheiten, Stationen, Orte, Direktiven, Anteile, Guardians, objects
+   with a fixed designation such as "Station 11"). Sentence-initial nouns are
+   not evidence on their own.
+2. Cross-reference against the codex the way the graph already allows — every
+   entry carries `triggers`, so a name already covered will match one:
+
+```python
+from tools import kpgraph
+from pathlib import Path
+g = kpgraph.load()
+text = Path("Manuscript/.../chapters/NN-….md").read_text(encoding="utf-8").lower()
+covered = {t.strip().lower() for e in g.nodes("CodexEntry")
+           for t in e.get("triggers", "").split(",") if len(t.strip()) >= 4
+           and t.strip().lower() in text}
+# a candidate name that matches nothing in `covered` is a ghost candidate
+```
+
 3. Flag names appearing in 2+ chapters with no entry as GHOST
 
 Output: `| Entity | Chapters | Mentions | Action (create entry / rename / ignore) |`
 
-## Check 5: Knowledge-fence violations (graph)
+## Check 5: Reveal-order violations (graph)
 
-For chapters with Scene nodes, run `flag_anachronistic_reference` for facts
-named in the prose that the POV-Anteil has not yet learned (`what_does_X_know_as_of`).
+What the graph supports today: `StoryTimeEvent` records linked by
+`REVEALED_IN` to a `Scene`, and `SCENE_OF` from that scene to its chapter. So
+for the 15 Kap-0 scenes you can ask whether prose names an event before the
+chapter that reveals it.
+
+```python
+from tools import kpgraph
+g = kpgraph.load()
+for event in g.nodes("StoryTimeEvent"):
+    for scene in g.targets_of(event["_nid"], "REVEALED_IN"):
+        chapter = g.targets_of(scene["_nid"], "SCENE_OF")
+        print(event["label"], "revealed in", scene.get("slug"), chapter)
+```
+
+Per-character knowledge is **not** checkable: it needed `KnownFact` nodes and
+the graph holds none. Treat a suspected anachronism as a question for the
+author rather than a finding, and say which of the two it is.
 
 ## Scope Options
 
 - `all` — full corpus (slow; use before a milestone or monthly)
 - `Canon` / `Plan/drafting` / `chapters` — one directory
-- `[entity-name]` — everything about one entity (`/compiling-entities` first)
+- `[entity-name]` — everything about one entity; gather it first with
+  `python3 scripts/wiki_fts.py search "…"` plus a trigger scan of the codex
 
 ## Output Format
 
@@ -153,12 +191,12 @@ named in the prose that the POV-Anteil has not yet learned (`what_does_X_know_as
 ## After the Report
 
 Do NOT fix anything automatically. Present the report for author review.
-Approved fixes: `/ingest` for missing entries, `update_codex_entry` for drift,
+Approved fixes: `/kp-canon` for missing entries, a `Graph/` record edit for drift,
 a decision-log entry for canon resolutions, then re-render `Codex/`.
 Append the outcome to `Plan/sessions/<YYYY-MM-DD>-learnings.md`.
 
 ## Recommended Cadence
 
-- After every `/ingest` (new content creates new ghosts)
+- After every `/kp-canon` (new content creates new ghosts)
 - Before promoting a chapter from `drafted` to `revised`
-- Before any composite gate (`developmental_gate`, `line_gate`, …)
+- Before the editorial gate `python3 scripts/lit_critic_gate.py --chapter N`

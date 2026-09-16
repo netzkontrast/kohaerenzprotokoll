@@ -47,7 +47,7 @@ This file is the shared data map for all repo-local skills. **Do not use histori
 ## Agency / graph state
 
 - [.agency/novel-config.yaml](../../.agency/novel-config.yaml) — materialization/configuration.
-- [.agency/session.db](../../.agency/session.db) — provenance graph. **Graph state may lag disk prose.** Never run materialization over newer chapter prose unless the graph has first been synchronized.
+- [Graph/](../../Graph/) — the novel's facts as plain JSONL (`Graph/README.md` documents the layout). **Graph state lags disk prose:** `Manuscript/` is the source of truth for chapter prose, and `python3 scripts/chapter_drift.py` reports where the two diverge.
 - [CLAUDE.md](../../CLAUDE.md) — current agency/novel capability workflow and engine constraints.
 
 ## Quality gates

@@ -33,7 +33,7 @@ except Exception:
 [ -z "$content" ] && exit 0
 # Graph, generated views and JSON manifests are not prose.
 case "$filepath" in
-    *.agency/*|*Codex/*|*.json|*.db) exit 0 ;;
+    *Graph/*|*Codex/*|*.json|*.jsonl) exit 0 ;;
 esac
 
 patterns=(

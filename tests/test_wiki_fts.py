@@ -35,7 +35,8 @@ SOURCE_PAGE = "Ein Drive-Export über Argus und die Monstergruppe.\n"
 
 @pytest.fixture
 def tree(tmp_path: Path) -> Path:
-    (tmp_path / "Wiki/concepts").mkdir(parents=True)
+    # concepts partition by kind_detail (Wiki/schema/conventions.yaml → partitions).
+    (tmp_path / "Wiki/concepts/concept").mkdir(parents=True)
     (tmp_path / "Canon").mkdir()
     (tmp_path / "Sources/drive").mkdir(parents=True)
     (tmp_path / "Wiki/concepts/concept/schleier.md").write_text(WIKI_PAGE, encoding="utf-8")

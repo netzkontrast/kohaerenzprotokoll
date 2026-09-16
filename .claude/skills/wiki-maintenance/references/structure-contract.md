@@ -50,7 +50,25 @@ valid partition.
 ## Codex boundary
 
 `Codex/**` is a generated projection from the provenance graph. Routine Wiki
-maintenance may link to it or report defects, but must not reorganize it. An
-explicit future Codex migration starts with an inventory of generators,
-consumers, graph entities, compatibility paths, and rollback strategy; it is
-committed separately from Wiki maintenance.
+maintenance may link to it or report defects, but must not reorganize it —
+every file there is written by `scripts/render_codex_views.py`.
+
+The Codex has its own contract, parallel to this one and stated in
+`Graph/schema.yaml`:
+
+| layer | holds |
+|---|---|
+| `Graph/nodes/*.jsonl` | the records — the source of truth |
+| `Graph/schema.yaml` | the categories, the partition path, the always-on set, the window rule |
+| `tools/kpcodex` | the implementation of those rules |
+| `Codex/**` | the rendering, disposable and reproducible |
+
+The partition dimension is `**Kategorie:**`, a value the records already carry;
+the chapter window is computed from `triggers` on every run and never stored.
+Nothing in the Codex is a hand-maintained topical folder, and a category that
+is not declared in the schema renders into `Codex/entries/_misfiled/` so the
+drift is visible.
+
+Changing that structure means changing the schema, the tool and the tests
+together, then re-rendering — the same atomic-contract discipline this document
+requires of the Wiki. It is committed separately from Wiki maintenance.

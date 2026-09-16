@@ -92,16 +92,19 @@ class PlanConcepts(dspy.Signature):
 
 class MergeConcept(dspy.Signature):
     """Write one concept draft from the claims planned for it. Definition sentences are
-    engineering English, each backed by at least one citation whose quote is verbatim from
-    the source; quotes are never translated. Where they disagree lists at least two
-    distinct sources per disagreement, resolution pending unless one source explicitly
-    supersedes the other. Quotation marks promise the source here too: a term a
-    definition or agreement sentence puts in quotation marks must stand verbatim in
-    the lines that sentence cites. codex_ref is a slug from known_entities and empty
-    when none of them is the concept. Status is contradicted iff a disagreement is pending,
-    single-source when only one source backs the concept, high-confidence when three or
-    more sources agree, tentative otherwise. The timeline runs oldest to newest by
-    index_date. Never emit the marker [K]; never invent story facts the claims lack."""
+    engineering English, each backed by at least one citation whose quote is verbatim
+    from the source; quotes are never translated. Where they disagree lists at least
+    two distinct sources per disagreement. Resolution is always pending: an ingest
+    proposes, it never resolves. When a source claims to supersede the others, that
+    claim belongs in its position text and the page stays contradicted for the author
+    to decide. Quotation marks promise the source here too: a term a definition or
+    agreement sentence puts in quotation marks must stand verbatim in the lines that
+    sentence cites. codex_ref is a slug from known_entities and empty when none of
+    them is the concept. Status is contradicted iff the draft carries any
+    disagreement, single-source when only one source backs the concept,
+    high-confidence when three or more sources agree, tentative otherwise. The
+    timeline runs oldest to newest by index_date. Never emit the marker [K]; never
+    invent story facts the claims lack."""
 
     title: str = dspy.InputField()
     kind_detail: str = dspy.InputField()

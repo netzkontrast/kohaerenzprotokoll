@@ -197,7 +197,7 @@ def build_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--wiki-root", type=Path, help="wiki directory (default: <repo-root>/Wiki)")
     ap.add_argument("--repo-root", type=Path, default=ROOT,
-                    help="where Sources/, Canon/, Codex/ and .agency/session.db live")
+                    help="where Sources/, Canon/, Codex/ and Graph/ live")
     ap.add_argument("--health", action="store_true", help="summary plus coverage numbers")
     ap.add_argument("--json", action="store_true", help="findings and summary as JSON")
     ap.add_argument("--fix", action="store_true", help="complete reverse links, defaults, coverage.json")

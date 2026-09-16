@@ -48,9 +48,27 @@ stale rendered index, invalid context window, and overlong context summary.
 If a meaningful structural defect can still pass, improve the machine rule or
 state explicitly why it requires human review.
 
-## 5. Verification and report
+## 5. Retrieval cost
 
-Run compile checks, focused tests, `wiki_lint.py --health`, renderer write then
-`--check`, and `git diff --check`. Report exact results, unavailable test
+An audit that never measures a packet cannot say whether the structure works.
+Build the packet for one early chapter and one late chapter and report what
+each loaded and what it cost:
+
+```bash
+python3 scripts/context_packet.py --chapter 3 --json
+python3 scripts/context_packet.py --chapter 35 --json
+```
+
+The baseline is the whole corpus — every codex body, ~84,400 tokens. A
+chapter-3 packet is ~21,700. A retrieval path that ends in "and then read the
+glossary" is a finding, not a pass; so is a packet that has grown toward the
+corpus, which usually means `always_on_categories` in `Graph/schema.yaml` has
+widened past the categories that genuinely constrain every chapter.
+
+## 6. Verification and report
+
+Run compile checks, focused tests, `python3 scripts/kp_check.py` (wiki health,
+both renderers, manifest, claim provenance, storyforms, world axioms, chapter
+drift), renderer write then `--check`, and `git diff --check`. Report exact results, unavailable test
 dependencies, every page inspected, and unresolved author decisions. Never
 claim a full audit from a sample.

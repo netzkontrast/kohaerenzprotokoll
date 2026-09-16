@@ -20,7 +20,6 @@ import datetime as dt
 import hashlib
 import json
 import re
-import sqlite3
 import subprocess
 from collections import Counter, defaultdict
 from dataclasses import dataclass, field
@@ -30,6 +29,7 @@ from typing import Any, Callable, Iterator
 import yaml
 
 from . import wiki_pages, wiki_schema
+from .. import kpgraph
 from .wiki_pages import LogLine, Page
 
 SEVERITIES = ("error", "warn", "info")
@@ -310,6 +310,38 @@ def as_date(value: Any) -> dt.date | None:
 
 def normalise_ws(text: str) -> str:
     return " ".join(text.split())
+
+
+# A quote is verbatim whether the exporter wrote „…“ and the model wrote "…",
+# so the glyphs are unified before comparison. This does not weaken the check:
+# the body of the fragment must still match the cited lines character for
+# character, and no fabricated wording can survive the mapping.
+TYPOGRAPHIC = {ord(c): '"' for c in "\u201e\u201c\u201d\u00ab\u00bb\u2033"}
+TYPOGRAPHIC.update({ord(c): "'" for c in "\u2018\u2019\u201a\u2032"})
+TYPOGRAPHIC.update({ord(c): "-" for c in "\u2013\u2014\u2212"})
+
+# Punctuation a quotation carries from the sentence around it rather than from
+# the source — "Moonshine-Link," quotes a source that reads "Moonshine-Link".
+FRAGMENT_EDGES = " \t,.;:!?\"'-"
+
+
+def comparable(text: str) -> str:
+    """Whitespace- and punctuation-normalised text, for quote matching."""
+    return normalise_ws(text).translate(TYPOGRAPHIC)
+
+
+def quote_is_cited(fragment: str, texts: list[str]) -> bool:
+    """Whether a quoted fragment appears in any of the cited passages.
+
+    Both sides are normalised here rather than by the caller: an empty or
+    punctuation-only fragment is a substring of everything, so letting one
+    through would silently pass every quote on the line.
+    """
+    candidate = comparable(fragment).strip(FRAGMENT_EDGES)
+    if not candidate:
+        return False
+    passages = [comparable(text) for text in texts]
+    return any(candidate in passage for passage in passages)
 
 
 def code_free_lines(body: str) -> list[str]:
@@ -697,7 +729,7 @@ def rule_citation_resolves(ctx: LintContext) -> list[Finding]:
                 else:
                     texts.append(text)
             for fragment in wiki_pages.quoted_fragments(line):
-                if texts and not any(normalise_ws(fragment) in t for t in texts):
+                if texts and not quote_is_cited(fragment, texts):
                     out.append(Finding("citation-resolves", "error", path, lineno,
                                        f"quoted fragment „{fragment}“ is not inside the cited lines"))
     return out
@@ -922,26 +954,45 @@ def rule_no_reverse_into_canon(ctx: LintContext) -> list[Finding]:
 
 # --- rule 16: no-auto-canon-page --------------------------------------------------
 
-def canon_identities(ctx: LintContext) -> tuple[dict[str, str], dict[str, str]]:
-    """File stems and first ``# `` headings of the terminal directories."""
+def identities_under(ctx: LintContext, folder: str) -> tuple[dict[str, str], dict[str, str]]:
+    """File stems and first ``# `` headings under one terminal directory."""
     stems: dict[str, str] = {}
     headings: dict[str, str] = {}
-    for folder in wiki_schema.conventions()["ownership"]["terminal"]:
-        root = ctx.repo_root / folder
-        if not root.is_dir():
-            continue
-        for path in sorted(root.rglob("*.md")):
-            stems.setdefault(path.stem, ctx.display(path))
-            for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
-                if line.startswith("# "):
-                    headings.setdefault(line[2:].strip(), ctx.display(path))
-                    break
+    root = ctx.repo_root / folder
+    if not root.is_dir():
+        return stems, headings
+    for path in sorted(root.rglob("*.md")):
+        stems.setdefault(path.stem, ctx.display(path))
+        for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
+            if line.startswith("# "):
+                headings.setdefault(line[2:].strip(), ctx.display(path))
+                break
     return stems, headings
+
+
+def canon_identities(ctx: LintContext) -> tuple[dict[str, str], dict[str, str]]:
+    """Stems and headings of `Canon/` alone — the layer a wiki page must not mirror."""
+    return identities_under(ctx, "Canon/")
+
+
+def codex_identities(ctx: LintContext) -> dict[str, str]:
+    """Stems of the rendered codex, which a wiki page may share if it links there.
+
+    `Codex/` is also a terminal directory, but sharing a name with a codex entry
+    is not duplication: the codex is the novel's own fact layer and the wiki is
+    the research understanding of the same subject. The two are meant to coexist
+    and to be joined by `codex_ref`. This was invisible while the codex rendered
+    as three files named GLOSSARY, MASTER-TIMELINE and WORLD-AXIOMS; once it
+    became one file per entry, every entry slug became a name a concept page
+    legitimately takes.
+    """
+    return identities_under(ctx, "Codex/")[0]
 
 
 def rule_no_auto_canon_page(ctx: LintContext) -> list[Finding]:
     out: list[Finding] = []
     stems, headings = canon_identities(ctx)
+    codex = codex_identities(ctx)
     for page in ctx.pages:
         path = ctx.page_path(page)
         if page.slug in stems:
@@ -953,12 +1004,20 @@ def rule_no_auto_canon_page(ctx: LintContext) -> list[Finding]:
             out.append(Finding("no-auto-canon-page", "error", path, 1,
                                f"title {title!r} equals the heading of {headings[title]}; "
                                f"pages about Canon are concept pages with canon_ref"))
+        if page.slug in codex and not str(page.front.get("codex_ref") or "").strip():
+            out.append(Finding("no-auto-canon-page", "warn", path, 1,
+                               f"slug {page.slug!r} names {codex[page.slug]}; set "
+                               f"codex_ref: codex:{page.slug} so the two layers are joined"))
     return out
 
 
 # --- rule 17: index-sync ----------------------------------------------------------------
 
 def rule_index_sync(ctx: LintContext) -> list[Finding]:
+    # A wiki that does not exist has nothing to render: demanding its indexes
+    # would make --health on an absent Wiki/ report errors for every view.
+    if not ctx.wiki_root.is_dir():
+        return []
     try:
         from . import wiki_views
     except ImportError as exc:
@@ -1032,11 +1091,13 @@ def rule_candidate_age(ctx: LintContext) -> list[Finding]:
 
 # --- rule 20: no-page-body-in-graph -------------------------------------------------
 
-def graph_values(db: Path) -> Iterator[tuple[Any, str]]:
-    uri = db.resolve().as_uri() + "?mode=ro"
-    with contextlib.closing(sqlite3.connect(uri, uri=True)) as con:
-        query = "SELECT node_id, value FROM node_props_text WHERE length(value) >= ?"
-        yield from con.execute(query, (GRAPH_VALUE_MIN_CHARS,))
+def graph_values(graph_dir: Path) -> Iterator[tuple[Any, str]]:
+    """``(node id, text)`` for every long string a Graph/ record carries."""
+    for path in sorted((graph_dir / "nodes").glob("*.jsonl")):
+        for record in kpgraph.read_jsonl(path):
+            for key, value in record.items():
+                if isinstance(value, str) and len(value) >= GRAPH_VALUE_MIN_CHARS:
+                    yield record.get("_nid", record.get("id", key)), value
 
 
 def rule_no_page_body_in_graph(ctx: LintContext) -> list[Finding]:
@@ -1045,7 +1106,7 @@ def rule_no_page_body_in_graph(ctx: LintContext) -> list[Finding]:
     if not page_shingles:
         return []
     db = ctx.repo_root / wiki_schema.conventions()["graph"]["provenance"]
-    if not db.is_file():
+    if not db.is_dir():
         return [Finding("no-page-body-in-graph", "info", ctx.display(db), None,
                         "provenance graph not present; rule skipped")]
     out: list[Finding] = []
@@ -1061,7 +1122,7 @@ def rule_no_page_body_in_graph(ctx: LintContext) -> list[Finding]:
                                        f"body overlaps node {node_id} of {ctx.display(db)} "
                                        f"({overlap:.0%} shared {SHINGLE_WORDS}-word shingles); "
                                        f"page bodies never enter the provenance graph (D-W2)"))
-    except sqlite3.Error as exc:
+    except (OSError, ValueError) as exc:
         return [Finding("no-page-body-in-graph", "info", ctx.display(db), None,
                         f"could not read the provenance graph ({exc}); rule skipped")]
     return out

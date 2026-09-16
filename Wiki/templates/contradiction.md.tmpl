@@ -1,0 +1,62 @@
+---
+title: "{{title}}"
+kind: contradiction
+slug: {{slug}}
+subject_kind: {{subject_kind}}
+subject: "{{subject}}"
+status: open
+first_seen: {{first_seen}}
+last_seen: {{last_seen}}
+open_count: {{open_count}}
+total_count: {{total_count}}
+concepts: [{{concept_slugs}}]
+entities: [{{entity_names}}]
+question_refs: [{{question_slugs}}]
+tags: []
+---
+<!-- The contradiction ledger for one subject, at contradictions/<subject_kind>/<slug>.md
+     (Wiki/schema/entities.yaml → kinds.contradiction). Two trees: subject_kind concept is
+     keyed by concept slug, subject_kind entity by a named entity, so one clash is reachable
+     from both sides.
+
+     Append-only. A recorded contradiction is never deleted or rewritten; when it is settled
+     it moves from Open to Resolved with the resolution that settled it and stays there. That
+     permanence is the point: a document arriving next year is checked against clashes found
+     long before it, which a list of currently-open questions could not do.
+
+     This file is evidence, never a verdict. It records that sources disagree; deciding which
+     is right is /tetraframe and a D-xx, and the author's call. The concept page itself states
+     only what the sources agree on and links here through contradiction_ref. -->
+
+## Subject
+
+{{subject}} — {{what_this_subject_is}}
+
+## Open contradictions
+
+<!-- One entry per unsettled disagreement. Every position carries its source and a citation;
+     quotes are verbatim and German stays German. Each open entry names the question page
+     tracking it, so it is on a worklist and not only in memory. -->
+### {{topic}}
+
+- first seen {{first_seen}} · question [[{{question_slug}}]]
+- [[{{source_a}}]] — {{position_a}} ^[Sources/drive/{{source_a}}.md:{{start_a}}-{{end_a}}]
+- [[{{source_b}}]] — {{position_b}} ^[Sources/drive/{{source_b}}.md:{{start_b}}-{{end_b}}]
+
+## Resolved contradictions
+
+<!-- Moved here, never deleted: the topic, the positions as they stood, and what settled it
+     (supersedes · both-valid · answered from Canon, citing it · D-xx). A later document
+     repeating a settled position is matched against this and does not reopen the argument
+     from nothing. -->
+### {{resolved_topic}}
+
+- settled {{resolved_on}} — {{resolution}} {{decision_ref}}
+- [[{{source_a}}]] — {{position_a}}
+- [[{{source_b}}]] — {{position_b}}
+
+## How this ledger is used
+
+<!-- Written by /research-ingest when a concept cluster is reconciled. Read at the next
+     reconcile: the claims of a subject are checked against what is recorded here before a
+     merge runs, so a known clash is recognised rather than rediscovered. -->

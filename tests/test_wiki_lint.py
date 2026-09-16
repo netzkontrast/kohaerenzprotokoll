@@ -12,7 +12,6 @@ from __future__ import annotations
 import hashlib
 import importlib.util
 import json
-import sqlite3
 import subprocess
 import sys
 from pathlib import Path
@@ -512,21 +511,17 @@ def test_candidate_age(tmp_path):
 
 def test_no_page_body_in_graph(tmp_path):
     repo = make_wiki(tmp_path)
-    db = repo / ".agency/session.db"
-    db.parent.mkdir()
-    con = sqlite3.connect(db)
-    con.executescript("CREATE TABLE nodes(id INTEGER PRIMARY KEY);"
-                      "CREATE TABLE node_props_text(node_id INTEGER, key_id INTEGER, value TEXT);")
-    con.execute("INSERT INTO nodes(id) VALUES (7)")
-    con.execute("INSERT INTO node_props_text VALUES (7, 1, ?)", (CONCEPT_BODY,))
-    con.commit()
-    con.close()
+    nodes = repo / "Graph" / "nodes"
+    nodes.mkdir(parents=True)
+    (nodes / "codex_entry.jsonl").write_text(
+        json.dumps({"_nid": 7, "id": "codexentry:7", "body": CONCEPT_BODY},
+                   ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
     found = hits(lint(repo, ["no-page-body-in-graph"]), "no-page-body-in-graph")
     assert [(f.severity, f.path) for f in found] == [("error", "Wiki/concepts/concept/kohaerenz.md")]
     assert "node 7" in found[0].message
 
 
-def test_no_page_body_in_graph_without_db_is_info(tmp_path):
+def test_no_page_body_in_graph_without_the_graph_is_info(tmp_path):
     found = hits(lint(make_wiki(tmp_path), ["no-page-body-in-graph"]), "no-page-body-in-graph")
     assert [f.severity for f in found] == ["info"]
 

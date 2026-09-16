@@ -6,6 +6,7 @@ the mirror between the YAML enums and ``tools/kpwiki/schema.py``.
 """
 from __future__ import annotations
 
+import re
 import sys
 from pathlib import Path
 
@@ -39,7 +40,7 @@ def test_every_schema_file_loads_as_mapping():
 
 
 def test_kinds_and_required_fields():
-    assert wiki_schema.kinds() == ["source", "concept", "question", "synthesis"]
+    assert wiki_schema.kinds() == ["source", "concept", "contradiction", "question", "synthesis"]
     for name in wiki_schema.kinds():
         required = wiki_schema.required_fields(name)
         assert {"title", "kind", "slug"} <= set(required), name
@@ -178,3 +179,32 @@ def test_read_edges_reports_bad_line(tmp_path):
     with pytest.raises(ValueError, match="edges.jsonl:3"):
         wiki_pages.read_edges(path)
     assert wiki_pages.read_edges(tmp_path / "missing.jsonl") == []
+
+
+KIND_SENTENCE = re.compile(r"(?:kinds|page entities) are ([^.]*)\.|kinds: ([^.]*)\.", re.IGNORECASE)
+
+
+def documented_kinds(path: Path) -> list[str]:
+    """The page kinds a prose document lists, in order.
+
+    Whitespace is flattened first: these lists wrap across lines in every one
+    of the documents, so reading line by line finds only the first name.
+    """
+    text = " ".join(path.read_text(encoding="utf-8").split())
+    found = KIND_SENTENCE.search(text)
+    if not found:
+        return []
+    return re.findall(r"`([a-z]+)`", found.group(1) or found.group(2) or "")
+
+
+@pytest.mark.parametrize("doc", ["Wiki/SCHEMA.md", "AGENTS.md", "CLAUDE.md"])
+def test_prose_kind_lists_match_the_schema(doc: str):
+    """Rule 1: a list restated in prose needs a check, or it drifts.
+
+    Three documents named four kinds while `entities.yaml` had five, which is
+    exactly how a paraphrased rule goes stale. The YAML is the authority; this
+    test is what makes the prose copies safe to keep.
+    """
+    listed = documented_kinds(ROOT / doc)
+    assert listed, f"{doc} no longer states the page kinds in a form this test can read"
+    assert listed == wiki_schema.kinds(), f"{doc} lists {listed}, schema has {wiki_schema.kinds()}"

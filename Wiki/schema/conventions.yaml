@@ -60,13 +60,13 @@ ownership:
     - Canon/
     - Codex/
 
-# "the graph" in every document of this repo means the provenance graph
-# .agency/session.db. Wiki/graph/edges.jsonl is the wiki's relation index (D-W2).
+# "the graph" in every document of this repo means the provenance graph in
+# Graph/. Wiki/graph/edges.jsonl is the wiki's relation index (D-W2).
 graph:
-  provenance: .agency/session.db
+  provenance: Graph/
   wiki_relation_index: Wiki/graph/edges.jsonl
   page_bodies_in_provenance_graph: never       # lint rule no-page-body-in-graph
-  claims_in_provenance_graph: via capture_claim with source_uri under Sources/ or Canon/, never Wiki/
+  claims_in_provenance_graph: a NovelClaim record with source_uri under Sources/ or Canon/, never Wiki/
 
 log:
   file: Wiki/log.md
@@ -76,6 +76,10 @@ log:
 
 batches:
   ingest_size: 25                 # merge and lint run once per batch, not per source (llm-tldr)
+  chunk_size: 1                   # one document at a time. Contradiction detection does not
+                                  # ride on chunk size: a concept is reconciled from every
+                                  # claim it has ever been given (_concepts.json), so what is
+                                  # found never depends on which documents arrived together
   candidate_max_age_days: 30      # lint rule candidate-age warns beyond this
 
 promotion:

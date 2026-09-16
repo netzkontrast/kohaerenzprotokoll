@@ -1,5 +1,15 @@
 # Kohärenz Protokoll — agent rules
 
+## Two rules above everything
+
+- **Never assume; ask.** Use `AskUserQuestion` rather than guessing a canon
+  fact, a name, a scope or which document wins. `--write`, `--promote` and
+  `--apply` are the author's, never a session's.
+- **If it can be programmatic, it is.** Decidable rules live in `scripts/` and
+  `tools/`, their values in the schema YAML, and a skill explains the tool
+  rather than restating what it enforces — two encodings of one rule drift.
+  If a rule can be broken without a check failing, it is prose, not a rule.
+
 ## Wiki compass
 
 Read `Wiki/SCHEMA.md` before changing `Wiki/**`; the YAML under `Wiki/schema/`
@@ -7,10 +17,13 @@ is the machine-readable authority.
 
 - Start navigation at `Wiki/index.md`; every content root and occupied
   partition has a rendered `README.md`.
-- Page entities are `source`, `concept`, `question`, and `synthesis`. Keep one
-  semantic entity or one focused question per page.
+- Page entities are `source`, `concept`, `contradiction`, `question`, and
+  `synthesis`. Keep one semantic entity or one focused question per page; a
+  `contradiction` page is one subject's whole ledger and is exempt from that.
+  `wiki_schema.kinds()` is the authority — this list is a convenience.
 - Store pages at exactly one canonical partition:
-  `sources/<category>/`, `concepts/<kind_detail>/`, `questions/<axis>/`, and
+  `sources/<category>/`, `concepts/<kind_detail>/`,
+  `contradictions/<subject_kind>/`, `questions/<axis>/`, and
   `syntheses/<YYYY>/`. Candidates mirror this below `candidates/<kind-dir>/`.
 - Prefer a small linked page over a large mixed page. Budgets live in
   `Wiki/schema/entities.yaml`; exceeding `max_words` fails the wiki lint.

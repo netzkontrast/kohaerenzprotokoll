@@ -25,7 +25,7 @@
 
 - [Syntheses navigation](syntheses/README.md)
 
-## Candidates (0)
+## Candidates (45)
 
 - [Candidate navigation](candidates/README.md) · machine drafts awaiting human review
 

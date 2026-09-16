@@ -20,7 +20,7 @@ no fixes, no triage. Use before deciding whether the full cycle below is
 worth the cost, or at session start to see if the Codex layer is current.
 
 1. **View freshness**: `python3 scripts/render_codex_views.py --check` —
-   `Codex/GLOSSARY.md` / `MASTER-TIMELINE.md` / `WORLD-AXIOMS.md` are
+   every file under `Codex/` is
    rendered from the graph, never hand-edited; stale means a graph write
    happened since the last render.
 2. **Chapter lint sweep**: `python3 scripts/lint_chapter.py` — with no file
@@ -63,7 +63,7 @@ git log --since="30 days ago" --name-only --pretty=format: | grep "\.md$" | sort
 
 ## Step 2: Load Audit References
 
-- **physics:** `Canon/…begriffe-und-konzepte…` §1–§2 and §14, `Codex/WORLD-AXIOMS.md`,
+- **physics:** `Canon/…begriffe-und-konzepte…` §1–§2 and §14, the world axioms at `Codex/axioms/<world-slug>.md`,
   `auditing-physics/references/`
 - **canon:** `WRITING.md`, `Plan/drafting/drafting-brief.md` §2–§4,
   `Canon/…welt-sensorik…` §10 + §12, `auditing-canon/references/`

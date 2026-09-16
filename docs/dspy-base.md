@@ -17,8 +17,19 @@ serves: [Plan/wiki/knowledge-system-concept_2026-09-15.md](../Plan/wiki/knowledg
 - **Optimization is a later, budgeted step.** Baseline first, `auto="light"`
   first, separate valset, saved artifacts + a regression test — the seven-step
   loop of the `dspy-advanced-workflow` skill.
-- **RLM for long documents.** `dspy.RLM` (needs Deno) is the tool for the
-  100k+-token concept papers in the Drive corpus; not used yet.
+- **RLM for long documents.** `dspy.RLM` is the tool for the long concept
+  papers in the Drive corpus — the `kernkonzept` slice is 8 documents and
+  471,211 characters, and the pilot's slowest call was a single 257 s
+  extraction over one whole body. It runs its sandbox on Pyodide under Deno,
+  so it raises at construction without `deno` on PATH.
+
+  `scripts/setup_dspy.sh --deno` installs it into `$HOME/.deno` and the script
+  reports the version on every run; without it the script warns and continues,
+  because every other program here works fine. The install does not survive a
+  fresh container, so re-run it there. Verified working on Deno 2.9.6 with
+  DSPy 3.3.1: `PythonInterpreter()` starts and executes.
+
+  Not used in a live ingest yet. The cost levers that are: chunking (default 3 sources), the extraction cache, and `--merge-role auto`, which spends the strong model only on concepts where a cross-source contradiction is possible — 26 of 46 in the pilot.
 
 ## Skills (agent-side)
 
@@ -133,7 +144,7 @@ are backend-independent (they are instructions + demos).
 | `tools/kpwiki/local_lm.py` | `ClaudeLM` — DSPy `BaseLM` over the `claude` CLI (vendored from Hmbown/dspy-local) |
 | `tools/kpwiki/schema.py` | Pydantic contract: the ingest models (`Citation`, `Claim`, `Triage`, `CanonConflict`, `OpenQuestion`) and the batch-compile models (`Extraction`, `ConceptPlan`, `ConceptDraft`, `PageState`, `IngestDecision`, `Diff`, `Compiled`); every page enum built from `Wiki/schema/entities.yaml` |
 | `tools/kpwiki/signatures.py` | `TriageSource`, `ExtractClaims`, `CheckCanonConflict`, `RaiseQuestions`, `PlanConcepts`, `MergeConcept`, `DecideIngest`, `KnowledgeDiff` |
-| `tools/kpwiki/programs.py` | `SourceIngest` (triage → cited claims → canon conflicts) and `BatchCompile` (the two-phase compiler); retrieval injected as a callable |
+| `tools/kpwiki/programs.py` | `SourceIngest` (triage → cited claims → canon conflicts) and `BatchCompile` (the two-phase compiler). Three things are injected as callables: canon retrieval, the extraction cache (`load_extraction`) and a concept's claim history (`prior_claims`) — the last is what lets chunked ingest merge a concept from every claim it has ever been given. `merge_role="auto"` routes multi-source concepts to the task model and single-source ones to the worker |
 | `tools/kpwiki/metrics.py` | `ingest_metric` — weighted axes + teachable feedback |
 | `tools/kpwiki/compile_metric.py` | `compile_metric` plus the helpers the lint reuses (`citation_resolves`, `decision_legal`, `diff_consistent`, `concept_problems`) |
 | `tools/kpwiki/compile_fixture.py` | the hand-built batch the dry run and the offline tests score (a clean and a deliberately broken copy) |
@@ -224,7 +235,7 @@ needs no key and no virtualenv: `python3` plus PyYAML.
 | `python3 scripts/wiki_fts.py build \| search \| stats \| doctor` | FTS5/BM25 candidate finder over `Wiki/`, `Canon/`, `Sources/drive/` (index in `.cache/wiki-fts/`) |
 | `python3 scripts/source_inventory.py [--check]` | Drive index → `Sources/manifest.jsonl` (T4 rows excluded, D-W9) |
 | `python3 scripts/source_dedup.py [--check]` | byte-equal and near-duplicate clusters → `T0-duplicate`, `T1-superseded` |
-| `python3 scripts/audit_graph_claims.py` | read-only D-W2 audit of `NovelClaim.source_uri` in `.agency/session.db` |
+| `python3 scripts/audit_graph_claims.py` | read-only D-W2 audit of `NovelClaim.source_uri` in `Graph/` |
 | `python3 scripts/source_export_mark.py --slug … --from-json …` | steps 3+4 of the fetch procedure: write one export, hash it, mark its manifest record |
 
 One command in this layer does call an LM, so it needs the virtualenv:

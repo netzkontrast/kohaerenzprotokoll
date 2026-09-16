@@ -10,6 +10,7 @@ canon_status: unverified
 aliases: []
 codex_ref:
 canon_ref:
+contradiction_ref:
 tags: []
 context_summary: "{{context_summary}}"
 context_scope: {{context_scope}}
@@ -23,6 +24,10 @@ spoiler_until: {{spoiler_until}}
      Written by /wiki-understand into Wiki/candidates/; a reviewed page is never overwritten — new
      material is appended under "Since <date>" and the page flips to contested when a contradicts edge
      appears. canon_status starts unverified for every Canon claim (D-W12). -->
+<!-- This page states what the sources agree on and never a contradictory claim. Where they disagree,
+     the clash is recorded in the ledger at contradictions/concept/<slug>.md — set contradiction_ref
+     to it, set status to contested, and list the contested topics in disagreements. The ledger keeps
+     the positions and their citations; a question page tracks the open argument. -->
 <!-- Context fields are a routing card, not content: summary ≤40 words; chapter window says where the
      page is relevant; spoiler_until is the latest reveal contained. Unknown candidates use 40. -->
 
@@ -42,13 +47,6 @@ spoiler_until: {{spoiler_until}}
 ## Where sources agree
 
 - {{agreement}} ^[Sources/drive/{{source_slug}}.md:{{start}}-{{end}}]
-
-## Where they disagree
-
-<!-- At least two sources per disagreement, each cited, and a resolution:
-     pending · supersedes (which one) · both-valid (why). While any resolution is pending the page
-     status is contested. -->
-- {{disagreement}} — [[{{source_a}}]] vs [[{{source_b}}]] — resolution: pending
 
 ## Timeline of the idea
 

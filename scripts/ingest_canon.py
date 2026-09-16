@@ -1,25 +1,33 @@
 #!/usr/bin/env python3
-"""Canon → novel-capability ingestion driver (Kohärenz Protokoll).
+"""Canon → Graph/ ingestion driver (Kohärenz Protokoll).
 
 Reads the 7 extraction manifests in Plan/ingest/, normalizes them into
-verb ops, and executes them through `agency execute` (CLI code-mode) in
-fault-tolerant batches. Every write goes through a capability verb so
-the provenance graph records Invocations + SERVES edges.
+operations, and applies them to the file-based graph through
+`tools.kpgraph.writer.GraphWriter`.
 
-Resumable: progress + minted ids land in Plan/ingest/ledger.json.
+    python3 scripts/ingest_canon.py
+
+Re-running is safe. Every node id is derived from its label and natural key
+(a codex slug, a chapter number, an axiom's text), so an operation that ran
+before finds its record instead of minting a second one. The ledger in
+Plan/ingest/ledger.json records what each phase resolved, for reading rather
+than for correctness.
 """
 from __future__ import annotations
 
 import json
 import re
-import subprocess
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+
+from tools import kpgraph                             # noqa: E402  (needs ROOT on the path)
+from tools.kpgraph.writer import GraphWriter          # noqa: E402
+
 ING = ROOT / "Plan" / "ingest"
 LEDGER = ING / "ledger.json"
-AGENCY = "/root/.local/bin/agency"
 INTENT = "intent:081f5ced"
 AGENT = "agent:claude"
 NOVEL = "novel:9d170c31"
@@ -40,158 +48,69 @@ def ledger_save(led: dict) -> None:
     LEDGER.write_text(json.dumps(led, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
-def _exec_block(code: str) -> dict:
-    """Run ONE agency-execute block; parse the last JSON line of stdout."""
-    proc = subprocess.run(
-        [AGENCY, "execute"], input=code, capture_output=True, text=True,
-        cwd=str(ROOT), timeout=600,
-    )
-    line = ""
-    for ln in reversed(proc.stdout.strip().splitlines()):
-        if ln.strip().startswith("{"):
-            line = ln
-            break
-    if not line:
-        raise RuntimeError(f"no JSON from agency execute: rc={proc.returncode} "
-                           f"stdout={proc.stdout[-400:]} stderr={proc.stderr[-400:]}")
-    out = json.loads(line)
-    if "error" in out and "results" not in out:
-        # Writes from the failed block PERSIST (no rollback). Callers must be
-        # idempotent against ground truth (see existing()) before re-running.
-        raise RuntimeError(f"execute failed: {out}")
-    return out
+_WRITER: GraphWriter | None = None
 
 
-# Spec 282 (error severity taxonomy): a verb FAILURE now crosses the wire as
-# {"ok": False, "error": {code, message, severity, retryable, trace_id}} — NOT a
-# bare null. We detect that envelope, and NEVER re-issue a PERMANENT failure
-# (bad enum / validation — re-running can only fail again, which produced the
-# observed 34x retry storm). Transient failures stay retryable.
-_PERMANENT_FAILED: set[str] = set()
-
-
-def _op_key(op: dict) -> str:
-    args = {k: v for k, v in op.get("args", {}).items()
-            if k not in ("intent_id", "agent_id")}
-    return op["tool"] + "|" + json.dumps(args, sort_keys=True, ensure_ascii=False)
-
-
-def _err_severity(r) -> str | None:
-    """None when r is a success; else the failure severity ('permanent' default).
-    A bare null is ambiguous post-Spec-282, so treat it as transient (retryable)
-    rather than wrongly skipping it forever."""
-    if r is None:
-        return "transient"
-    if isinstance(r, dict) and r.get("error"):
-        return (r["error"] or {}).get("severity", "permanent")
-    return None
+def writer() -> GraphWriter:
+    """The one writer every phase stages its operations on."""
+    global _WRITER
+    if _WRITER is None:
+        _WRITER = GraphWriter(ROOT)
+    return _WRITER
 
 
 def run_ops(ops: list[dict], _retry: bool = True) -> tuple[list, list]:
-    """Run a batch of {tool, args} ops inside ONE agency-execute block.
+    """Apply a batch of {tool, args} ops; return (results, errors) aligned 1:1.
 
-    Returns (results, errors); results align 1:1 with ops (None on error/skip).
-    Spec 282: failures are detected via the {"ok": False, "error": {...}} wire
-    envelope (with severity); ops that previously failed PERMANENTLY are skipped
-    so retries don't hammer impossible calls.
+    An operation that cannot be applied is reported rather than raised, so one
+    bad manifest row does not abandon the rest of the phase. Everything the
+    batch staged reaches disk before this returns.
     """
-    live, idx = [], []
-    for i, o in enumerate(ops):
-        if _op_key(o) in _PERMANENT_FAILED:
-            continue
-        live.append(o)
-        idx.append(i)
-
-    results: list = [None] * len(ops)
+    results: list = []
     errors: list = []
-    if not live:
-        return results, errors
-
-    code = (
-        "data = " + repr(live) + "\n"
-        "res = []\n"
-        "for op in data:\n"
-        "    try:\n"
-        "        r = await call_tool(op['tool'], op['args'])\n"
-        "    except Exception as e:\n"
-        "        r = {'ok': False, 'error': {'code': 'EXC', "
-        "'message': str(e)[:300], 'severity': 'transient'}}\n"
-        "    res.append(r)\n"
-        "return {'results': res}\n"
-    )
-    out = _exec_block(code)
-    for j, r in enumerate(out["results"]):
-        results[idx[j]] = r
-        sev = _err_severity(r)
-        if sev is None:
-            continue
-        o = live[j]
-        msg = "NULL"
-        if isinstance(r, dict) and r.get("error"):
-            er = r["error"] or {}
-            msg = f"{er.get('code', '')}: {str(er.get('message', ''))[:160]}"
-        errors.append([o["tool"], str(o["args"])[:120], f"[{sev}] {msg}"])
-        if sev == "permanent":
-            _PERMANENT_FAILED.add(_op_key(o))
+    for operation in ops:
+        try:
+            results.append(writer().apply(operation["tool"], operation["args"]))
+        except (KeyError, TypeError, ValueError) as exc:
+            results.append(None)
+            errors.append([operation["tool"], str(operation["args"])[:120], f"[permanent] {exc}"])
+    writer().flush()
     return results, errors
 
 
 def run_beat_chain(beats: list[dict], start_prev: str = "") -> tuple[list, list, str]:
-    """Mint a chain of NarrativeBeats THREADING each new beat_id as the next
-    beat's predecessor WITHIN one execute block — the fix for Workstream C's
-    PRECEDES 12/97 drop. The old code precomputed predecessor_id from an `ids`
-    map that was only populated AFTER each chunk ran, so intra-chunk
-    predecessors resolved to None and ~85 edges were never requested.
+    """Mint a chain of NarrativeBeats, threading each id as the next predecessor.
 
     beats: [{scene_id, label}] in chain order. Returns (results, errors,
-    last_beat_id); thread last_beat_id into the next chunk's start_prev to keep
-    the chain unbroken across the 50-call-per-block limit.
+    last_beat_id); thread last_beat_id into the next chunk's start_prev so the
+    chain stays unbroken across chunks.
     """
-    payload = [{"scene_id": b["scene_id"], "label": b["label"]} for b in beats]
-    code = (
-        "data = " + repr(payload) + "\n"
-        "prev = " + repr(start_prev) + "\n"
-        "res = []\n"
-        "for op in data:\n"
-        "    args = {'scene_id': op['scene_id'], 'beat_label': op['label'], "
-        "'intent_id': " + repr(INTENT) + ", 'agent_id': " + repr(AGENT) + "}\n"
-        "    if prev:\n"
-        "        args['predecessor_id'] = prev\n"
-        "    try:\n"
-        "        r = await call_tool('capability_novel_mark_narrative_beat', args)\n"
-        "    except Exception as e:\n"
-        "        r = {'ok': False, 'error': {'code': 'EXC', "
-        "'message': str(e)[:300], 'severity': 'transient'}}\n"
-        "    res.append(r)\n"
-        "    prev = r['beat_id'] if isinstance(r, dict) and r.get('beat_id') else ''\n"
-        "return {'results': res, 'last': prev}\n"
-    )
-    out = _exec_block(code)
-    res = out["results"]
-    errors = []
-    for b, r in zip(beats, res):
-        sev = _err_severity(r)
-        if sev is not None:
-            errors.append(["mark_narrative_beat", b["label"], f"[{sev}]"])
-    return res, errors, out.get("last", start_prev)
-
+    results: list = []
+    errors: list = []
+    previous = start_prev
+    for beat in beats:
+        args = {"scene_id": beat["scene_id"], "beat_label": beat["label"],
+                "intent_id": INTENT, "agent_id": AGENT}
+        if previous:
+            args["predecessor_id"] = previous
+        try:
+            result = writer().apply("mark_narrative_beat", args)
+        except (KeyError, TypeError, ValueError) as exc:
+            results.append(None)
+            errors.append(["mark_narrative_beat", beat["label"], f"[permanent] {exc}"])
+            continue
+        results.append(result)
+        previous = result["beat_id"]
+    writer().flush()
+    return results, errors, previous
 
 
 def existing(label: str, key: str, int_key: bool = False) -> dict:
-    """Ground truth from the graph (read-only): prop value → string node id."""
-    import sqlite3
-    c = sqlite3.connect(f"file:{ROOT}/.agency/session.db?mode=ro", uri=True)
-    table = "node_props_int" if int_key else "node_props_text"
-    q = (f"SELECT t.value, sid.value FROM node_labels l "
-         f"JOIN {table} t ON t.node_id=l.node_id "
-         f"JOIN property_keys pk ON pk.id=t.key_id "
-         f"JOIN node_props_text sid ON sid.node_id=l.node_id "
-         f"JOIN property_keys pid ON pid.id=sid.key_id AND pid.key='id' "
-         f"WHERE l.label=? AND pk.key=?")
+    """Ground truth from Graph/ (read-only): prop value → string node id."""
     out = {}
-    for val, sid in c.execute(q, (label, key)):
-        out[val] = sid
-    c.close()
+    for node in writer().graph.nodes(label):
+        if key in node and "id" in node:
+            out[int(node[key]) if int_key else str(node[key])] = node["id"]
     return out
 
 
@@ -381,9 +300,9 @@ def main() -> int:
 
     # P1 — worlds (6 from kernwelten + 1 meta layer for cross-world axioms)
     if not phase_done("worlds"):
-        ops = [op("capability_novel_create_world", slug=w["slug"], name=w["name"])
+        ops = [op("create_world", slug=w["slug"], name=w["name"])
                for w in m["kernwelten"]["worlds"]]
-        ops.append(op("capability_novel_create_world", slug="kosmos-meta",
+        ops.append(op("create_world", slug="kosmos-meta",
                       name="Kosmos (Meta-Ebene) — übergreifende Invarianten"))
         errs_all = []
         slugs = [w["slug"] for w in m["kernwelten"]["worlds"]] + ["kosmos-meta"]
@@ -401,19 +320,19 @@ def main() -> int:
         for w in m["kernwelten"]["worlds"]:
             wid = ids.get(f"world:{w['slug']}")
             for a in w.get("axioms", []):
-                ops.append(op("capability_novel_create_world_axiom", world_id=wid,
+                ops.append(op("create_world_axiom", world_id=wid,
                               text=a["text"], severity=a.get("severity", "hard")))
         ueber = ids.get("world:ueberwelt-aegis-maschinenraum")
         for a in m["kernwelten"].get("global_axioms", []):
-            ops.append(op("capability_novel_create_world_axiom", world_id=ueber,
+            ops.append(op("create_world_axiom", world_id=ueber,
                           text=a["text"], severity=a.get("severity", "hard")))
         ext = ids.get("world:externe-ebene-koeln-2026")
         for a in m["begriffe"].get("axioms", []):
-            ops.append(op("capability_novel_create_world_axiom", world_id=ext,
+            ops.append(op("create_world_axiom", world_id=ext,
                           text=a["text"], severity=a.get("severity", "hard")))
         kosmos = ids.get("world:kosmos-meta")
         for a in m["philosophie"].get("axioms", []):
-            ops.append(op("capability_novel_create_world_axiom", world_id=kosmos,
+            ops.append(op("create_world_axiom", world_id=kosmos,
                           text=a["text"], severity=a.get("severity", "hard")))
         errs_all = []
         for batch in batched(ops):
@@ -432,7 +351,7 @@ def main() -> int:
               flush=True)
         errs_all = []
         for batch in batched([
-            op("capability_novel_create_codex_entry", novel_id=NOVEL,
+            op("create_codex_entry", novel_id=NOVEL,
                slug=e["slug"], name=e["name"], kind=e["kind"], body=e["body"],
                triggers=e["triggers"]) for e in entries
         ]):
@@ -455,7 +374,7 @@ def main() -> int:
             if ch["number"] in have:
                 continue
             body = clean if ch["number"] == 0 else chapter_body(ch)
-            ops.append(op("capability_novel_create_chapter", novel_id=NOVEL,
+            ops.append(op("create_chapter", novel_id=NOVEL,
                           number=ch["number"], title=ch["title"], body=body))
         errs_all = []
         for batch in batched(ops):
@@ -466,7 +385,7 @@ def main() -> int:
             errs_all += errs
             ledger_save(led)
         if ids.get("chapter:0"):
-            _, errs = run_ops([op("capability_novel_set_chapter_status",
+            _, errs = run_ops([op("set_chapter_status",
                                   chapter_id=ids["chapter:0"], status="revised")])
             errs_all += errs
         mark("chapters", errs_all)
@@ -482,7 +401,7 @@ def main() -> int:
         todo = [s for s in scenes if s["slug"] not in have]
         if todo:
             res, errs = run_ops([
-                op("capability_novel_create_scene", chapter_id=ch0,
+                op("create_scene", chapter_id=ch0,
                    slug=s["slug"], pov=scene_pov(s["pov"])) for s in todo])
             for s, r in zip(todo, res):
                 if r and r.get("scene_id"):
@@ -526,7 +445,7 @@ def main() -> int:
         for i, ev in enumerate(m["storyform"].get("story_events", [])):
             if ev["label"] in have_ev:
                 continue
-            ops.append(op("capability_novel_record_story_event", novel_id=NOVEL,
+            ops.append(op("record_story_event", novel_id=NOVEL,
                           label=ev["label"], when_story=ev.get("when_story", "")))
             keys.append((f"event:sf:{i}", None))
         for i, ev in enumerate(m["kap0"].get("story_events", [])):
@@ -537,7 +456,7 @@ def main() -> int:
                  "when_story": ev.get("when_story", "")}
             if sid:
                 a["scene_id"] = sid
-            ops.append(op("capability_novel_record_story_event", **a))
+            ops.append(op("record_story_event", **a))
             keys.append((f"event:k0:{i}", sid))
         for batch_keys, batch in zip(
                 [keys[i:i + 30] for i in range(0, len(keys), 30)],
@@ -548,7 +467,7 @@ def main() -> int:
                 if r and r.get("event_id"):
                     ids[key] = r["event_id"]
                     if sid:
-                        reveal_ops.append(op("capability_novel_reveal_in_scene",
+                        reveal_ops.append(op("reveal_in_scene",
                                              event_id=r["event_id"], scene_id=sid))
             if reveal_ops:
                 _, errs2 = run_ops(reveal_ops)
@@ -571,7 +490,7 @@ def main() -> int:
             for c in doc.get("claims", []):
                 if c["text"] in have_claims:
                     continue
-                ops.append(op("capability_novel_capture_claim", text=c["text"],
+                ops.append(op("capture_claim", text=c["text"],
                               source_uri=src, domain=dom_map.get(name, "cultural")))
         errs_all = []
         for batch in batched(ops):
@@ -581,7 +500,7 @@ def main() -> int:
 
     # P8 — contested storyform decisions
     if not phase_done("decisions"):
-        ops = [op("capability_novel_record_storyform_decision", novel_id=NOVEL,
+        ops = [op("record_storyform_decision", novel_id=NOVEL,
                   decision=d["decision"], rationale=d.get("rationale", ""))
                for d in m["storyform"].get("storyform_decisions", [])]
         errs_all = []
@@ -599,7 +518,7 @@ def main() -> int:
             for ln in c.get("world_links", []):
                 target = ids.get(f"world:{slug_ascii(ln.get('target', ''))}")
                 if cid and target:
-                    ops.append(op("capability_novel_link_character_to_world",
+                    ops.append(op("link_character_to_world",
                                   character_id=cid, target_id=target,
                                   edge_kind=ln.get("edge", "BELONGS_TO")))
         errs_all = []
@@ -619,34 +538,15 @@ def main() -> int:
     return 0
 
 
+PAYLOAD_LABELS = ("World", "WorldAxiom", "CodexEntry", "Chapter", "Scene",
+                  "NarrativeBeat", "StoryTimeEvent", "NovelClaim")
+
+
 def _graph_size() -> int:
-    """Real-progress metric: payload nodes only. Invocation nodes also grow
-    on FAILED calls, so raw node count would mask a hard failure loop."""
-    import sqlite3
-    c = sqlite3.connect(f"file:{ROOT}/.agency/session.db?mode=ro", uri=True)
-    n = c.execute(
-        "SELECT COUNT(*) FROM node_labels WHERE label IN "
-        "('World','WorldAxiom','CodexEntry','Chapter','Scene',"
-        "'NarrativeBeat','StoryTimeEvent','NovelClaim')").fetchone()[0]
-    c.close()
-    return n
+    """Real-progress metric: payload records only."""
+    graph = kpgraph.load(ROOT)
+    return sum(len(graph.nodes(label)) for label in PAYLOAD_LABELS)
 
 
 if __name__ == "__main__":
-    # The graph engine occasionally fails an edge-property write when the
-    # MCP server process touches the DB concurrently. The driver is
-    # idempotent against ground truth, so: retry while progress is made.
-    import time
-    last = -1
-    for attempt in range(1, 40):
-        try:
-            sys.exit(main())
-        except RuntimeError as e:
-            size = _graph_size()
-            print(f"[retry {attempt}] transient failure at graph size {size}: "
-                  f"{str(e)[:160]}", flush=True)
-            if size == last:
-                print("no progress between retries — giving up", flush=True)
-                raise
-            last = size
-            time.sleep(2)
+    sys.exit(main())

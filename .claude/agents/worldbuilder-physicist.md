@@ -37,7 +37,8 @@ entropy, Erasonen — which generate the arrow of time). AEGIS believes itself
 to be K₁ and is in fact K₀; the "Nichts-Rauschen" it suppresses is K₁ in pure
 form (Die Große Inversion). Every narrative event must be DKT-consistent.
 Sources: `Canon/kohaerenz-protokoll_begriffe-und-konzepte_2026-06-10.md` §1–§2,
-§14; `Codex/WORLD-AXIOMS.md` (111 axioms, rendered from the graph).
+§14; the world axioms at `Codex/axioms/<world-slug>.md` (111 across 7 worlds,
+rendered from the graph; `Codex/WORLD-AXIOMS.md` routes to them).
 
 ## Specialisation
 
@@ -61,8 +62,10 @@ mechanism are rejected.
 ## Tools
 
 `python3 scripts/research-tool.py search "<query>" [--source humanities]`
-(downloads to `Plan/research/`), `Codex/WORLD-AXIOMS.md`, graph verbs
-`find_axiom_contradictions(world_id)`, `capture_claim`, `list_claims`.
+(downloads to `Plan/research/`), `Codex/axioms/`, graph verbs
+`python3 scripts/world_check.py` for axiom pairs worth reading together, and
+`Graph/nodes/novel_claim.jsonl` for the recorded research claims
+(`python3 scripts/audit_graph_claims.py` audits their provenance).
 
 ## Self-Correction Loop
 

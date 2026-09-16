@@ -5,9 +5,9 @@ description: >-
   boundaries, indexes, links, and schema alignment. Use for wiki cleanup,
   moving or splitting pages, fixing navigation, evolving page kinds or
   partitions, full wiki audits, context-loading improvements, or repairing
-  wiki lint drift. It may plan a Codex migration, but never restructures the
-  generated Codex as part of routine Wiki maintenance. Does not decide Canon
-  or rewrite research claims.
+  wiki lint drift. Never hand-edits the generated Codex: its structure is
+  declared in Graph/schema.yaml and written by the renderer. Does not decide
+  Canon or rewrite research claims.
 ---
 
 # Wiki Maintenance
@@ -21,6 +21,8 @@ authority.
 2. `Wiki/SCHEMA.md` and the relevant files in `Wiki/schema/` — authoritative
    structure and policy.
 3. `Wiki/GLOSSARY.md` — operational terminology.
+   To find a page rather than guess its path: `python3 scripts/wiki_fts.py
+   search "…"` searches Wiki, Canon and Sources at heading level.
 4. For a full audit, read `references/audit-runbook.md`; for any move, split,
    new partition, or migration, also read `references/structure-contract.md`.
 
@@ -49,9 +51,15 @@ authority.
 - Directory names encode only schema-defined partitions, never ad-hoc topics.
   A topic is a page, tag, or link unless `Wiki/schema/*.yaml` defines it as a
   partition dimension.
-- `Codex/**` is renderer-owned and outside routine Wiki maintenance. Record
-  Codex defects and migration proposals, but do not move or split those files
-  unless the user explicitly starts a separate Codex migration.
+- `Codex/**` is renderer-owned. It is partitioned and navigable — root files
+  route, `entries/`, `axioms/` and `timeline/` hold one retrievable unit per
+  file — but every one of those files is written by
+  `scripts/render_codex_views.py` from `Graph/`. Never move, split or edit one.
+  To change the structure, change the rules in `Graph/schema.yaml` and
+  `tools/kpcodex`, then re-render; to change content, change the record. A file
+  under `Codex/entries/_misfiled/` is a record whose `**Kategorie:**` is not in
+  the schema — report it, and fix the record rather than the rendering.
+  Background and measurements: `Plan/wiki/codex-context-inventory_2026-09-16.md`.
 
 ## Choose the operation
 
@@ -66,14 +74,16 @@ authority.
   one atomic contract change.
 - **Navigation repair** — change source pages or the renderer; never patch a
   generated index directly.
-- **Codex migration** — separate, explicitly requested project. First produce
-  an inventory and migration plan; do not combine it with Wiki cleanup.
+- **Codex structure change** — a change to `Graph/schema.yaml` plus
+  `tools/kpcodex`, never to the rendered files. Add the category or the rule,
+  re-render, and prove it with `scripts/render_codex_views.py --check` and
+  `tests/test_kpcodex.py`. Do not combine it with Wiki cleanup.
 
 ## Workflow
 
-1. Run `python3 scripts/wiki_lint.py --health`; inspect `index.md`, every
-   affected local index, and the root system pages (`overview.md`,
-   `GLOSSARY.md`, `SCHEMA.md`, `log.md`, `concept-table.md`).
+1. Run `python3 scripts/wiki_lint.py --health` for the tight loop; inspect
+   `index.md`, every affected local index, and the root system pages
+   (`overview.md`, `GLOSSARY.md`, `SCHEMA.md`, `log.md`, `concept-table.md`).
 2. Classify each affected file by kind and derive its partition from
    frontmatter. Do not invent topical folders.
 3. If a page exceeds its hard budget, split it at a stable semantic boundary;
@@ -85,8 +95,11 @@ authority.
 6. Confirm there are no duplicate slugs, dead navigation links, stale local
    indexes, mispartitioned pages, invalid context windows, or pages above
    their hard budget.
-7. Finish with `python3 scripts/wiki_lint.py --health`,
-   `python3 scripts/render_wiki_views.py --check`, and the wiki test suite.
+7. Finish with `python3 scripts/kp_check.py`, which runs wiki health, both
+   view renderers, the source manifest, claim provenance, both storyforms,
+   the world axioms and chapter drift in one command. Then the tests that
+   cover what you touched:
+   `pytest tests/test_wiki_lint.py tests/test_wiki_views.py tests/test_wiki_schema.py tests/test_wiki_fts.py tests/test_research_ingest.py -q`.
 
 For manuscript-context work, follow the retrieval ladder in
 `references/context-loading.md`. Stop if the target chapter is unknown and a

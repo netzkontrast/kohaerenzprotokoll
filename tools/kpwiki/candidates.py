@@ -26,14 +26,27 @@ into ``Wiki/sources/`` or ``Wiki/concepts/``.
 from __future__ import annotations
 
 import datetime as dt
+import re
 from typing import Any, Iterable
 
 import yaml
 
 from . import wiki_pages, wiki_schema
-from .schema import Citation, Compiled, ConceptDraft, Extraction
+from .schema import Citation, Compiled, ConceptDraft, Disagreement, Extraction
 
 WRITER = "/research-ingest"
+PENDING = "pending"
+QUESTION_ANSWERS = (
+    "The positions above are what the sources say, not candidate answers. Four corners "
+    "come from `/tetraframe`, which this ingest never runs and never decides; the author "
+    "does, and a supersession needs a D-xx."
+)
+LEDGER_USE = (
+    "Read at the next reconcile: a subject's claims are checked against what is "
+    "recorded here before a merge runs, so a known clash is recognised rather than "
+    "rediscovered. Evidence, never a verdict — deciding which side is right is "
+    "`/tetraframe` and a D-xx, and the author's call."
+)
 INGEST_OP = "ingest"
 CLAIM_OP = "claim"
 EDGE_TYPE = "supports"
@@ -132,15 +145,22 @@ def source_body(extraction: Extraction, concept_slugs: list[str], ingested: str)
 # --- concept candidate -------------------------------------------------------------
 
 
-def codex_ref(value: str, known: frozenset[str]) -> str:
-    """``codex:<slug>`` when the glossary has that entry, else nothing.
+def codex_ref(value: str, known: frozenset[str], page_slug: str = "") -> str:
+    """``codex:<slug>`` when the codex has that entry, else nothing.
 
     A model that answers with the bare slug means the right thing, so the
-    prefix is added; a slug the glossary does not carry is a guess, and
+    prefix is added; a slug the codex does not carry is a guess, and
     ``codex:`` targets are terminal and never auto-created (``xref.yaml``).
+
+    When the model gives nothing but the page's own slug names a codex entry,
+    the two are the same subject by identity and the link is filled in. That is
+    a lookup, not a judgement: the wiki's research understanding of a subject
+    and the novel's codex entry for it are different layers meant to be joined.
     """
     slug = value.strip().removeprefix(CODEX_PREFIX)
-    return f"{CODEX_PREFIX}{slug}" if slug and slug in known else ""
+    if slug and slug in known:
+        return f"{CODEX_PREFIX}{slug}"
+    return f"{CODEX_PREFIX}{page_slug}" if page_slug and page_slug in known else ""
 
 
 def concept_front(draft: ConceptDraft, ingested: str, codex_slugs: frozenset[str] = frozenset()) -> dict[str, Any]:
@@ -168,22 +188,32 @@ def concept_front(draft: ConceptDraft, ingested: str, codex_slugs: frozenset[str
         "chapter_end": 40,
         "spoiler_until": 40,
     }
-    reference = codex_ref(draft.codex_ref, codex_slugs)
+    reference = codex_ref(draft.codex_ref, codex_slugs, draft.slug)
     if reference:
         front["codex_ref"] = reference
     return front
 
 
-def _disagreement_lines(draft: ConceptDraft) -> list[str]:
-    """One line per disagreement; a part the draft left empty is left out, not hinted at."""
-    lines = []
-    for item in draft.disagreements:
-        parts = [item.topic, " vs ".join(f"[[{slug}]]" for slug in item.sources),
-                 " · ".join(p for p in item.positions if p.strip()),
-                 f"resolution: {item.resolution}"]
-        line = " — ".join(part for part in parts if part.strip())
-        lines.append(f"- {line} {markers(item.citations)}".rstrip())
-    return lines
+def disagreement_entry(draft: ConceptDraft, item: Disagreement, seen: str,
+                       question_slug: str = "") -> list[str]:
+    """One ledger entry: the topic, then every position with its source and citation.
+
+    Positions are kept beside their sources rather than flattened into one line,
+    because the ledger's whole job is to say who claimed what. A part the draft
+    left empty is left out rather than hinted at.
+    """
+    lines = [f"### {item.topic}\n"]
+    trail = f"- first seen {seen} · concept [[{draft.slug}]]"
+    if question_slug:
+        trail += f" · question [[{question_slug}]]"
+    if item.resolution and item.resolution != PENDING:
+        trail += f" · resolution: {item.resolution}"
+    lines.append(trail)
+    for index, source in enumerate(item.sources):
+        position = item.positions[index] if index < len(item.positions) else ""
+        cited = [c for c in item.citations if c.file.endswith(f"{source}.md")]
+        lines.append(f"- [[{source}]] — {position} {markers(cited)}".rstrip())
+    return lines + [""]
 
 
 def concept_body(draft: ConceptDraft, ingested: str) -> str:
@@ -195,7 +225,6 @@ def concept_body(draft: ConceptDraft, ingested: str) -> str:
         "Definition": ["\n".join(definition)] if definition else [],
         "What Canon says": [CANON_UNCHECKED],
         "Where sources agree": agreements,
-        "Where they disagree": _disagreement_lines(draft),
         "Timeline of the idea": timeline,
         "Open questions": [],
     }
@@ -306,3 +335,147 @@ def knowledge_diff_report(run: Compiled, manifest: dict[str, dict[str, Any]]) ->
         lines.append(f"contradicted (a disagreement is pending): {', '.join(contradicted)}")
     lines.extend(f"triage vs manifest — {note}" for note in triage_disagreements(run, manifest))
     return lines
+
+
+# --- the contradiction ledger --------------------------------------------------------
+#
+# The wiki states what the sources agree on. What they have ever disputed lives
+# here, one file per subject, append-only, in two trees: keyed by concept and
+# keyed by named entity, so a clash about Kael is reachable from the concept it
+# surfaced in and from Kael. Permanence is the point — a document arriving next
+# year is checked against clashes found long before it, which a list of
+# currently-open questions could not do.
+
+
+def entity_slug(name: str) -> str:
+    """`AEGIS' Maschinenraum` -> `aegis-maschinenraum`."""
+    lowered = (name.strip().lower().replace("ä", "ae").replace("ö", "oe")
+               .replace("ü", "ue").replace("ß", "ss"))
+    return re.sub(r"[^a-z0-9]+", "-", lowered).strip("-")
+
+
+def ledger_subjects(draft: ConceptDraft) -> list[tuple[str, str, str]]:
+    """`(subject_kind, slug, subject)` for every ledger a draft's clashes belong in."""
+    subjects = [("concept", draft.slug, draft.slug)]
+    for name in draft.entities:
+        slug = entity_slug(name)
+        if slug:
+            subjects.append(("entity", slug, name))
+    return subjects
+
+
+def contradiction_record(draft: ConceptDraft, item: Disagreement, seen: str,
+                         question_slug: str = "") -> dict[str, Any]:
+    """One disagreement as a stored record — the unit the ledger never forgets."""
+    return {
+        "topic": item.topic, "concept": draft.slug,
+        "sources": list(item.sources), "positions": list(item.positions),
+        "citations": [c.model_dump() for c in item.citations],
+        "resolution": item.resolution, "first_seen": seen, "question": question_slug,
+    }
+
+
+def record_entry(record: dict[str, Any]) -> list[str]:
+    """A stored record rendered back into ledger prose."""
+    lines = [f"### {record['topic']}\n"]
+    trail = f"- first seen {record['first_seen']} · concept [[{record['concept']}]]"
+    if record.get("question"):
+        trail += f" · question [[{record['question']}]]"
+    if record.get("resolution") and record["resolution"] != PENDING:
+        trail += f" · resolution: {record['resolution']}"
+    lines.append(trail)
+    citations = [Citation(**c) for c in record.get("citations", [])]
+    for index, source in enumerate(record["sources"]):
+        position = record["positions"][index] if index < len(record["positions"]) else ""
+        cited = [c for c in citations if c.file.endswith(f"{source}.md")]
+        lines.append(f"- [[{source}]] — {position} {markers(cited)}".rstrip())
+    return lines + [""]
+
+
+def ledger_front(subject_kind: str, slug: str, subject: str,
+                 records: list[dict[str, Any]], seen: str) -> dict[str, Any]:
+    open_items = [r for r in records if r.get("resolution", PENDING) == PENDING]
+    dates = sorted(r["first_seen"] for r in records) or [seen]
+    return {
+        "title": f"Contradictions — {subject}",
+        "kind": "contradiction", "slug": slug,
+        "subject_kind": subject_kind, "subject": subject,
+        "status": "open" if open_items else "all-resolved",
+        "first_seen": dates[0], "last_seen": seen,
+        "open_count": len(open_items), "total_count": len(records),
+        "concepts": sorted({r["concept"] for r in records}),
+        "entities": [],
+        "question_refs": sorted({r["question"] for r in records if r.get("question")}),
+        "tags": [],
+    }
+
+
+def ledger_body(subject: str, records: list[dict[str, Any]], seen: str) -> str:
+    open_lines, settled_lines = [], []
+    for record in sorted(records, key=lambda r: (r["first_seen"], r["topic"])):
+        entry = record_entry(record)
+        pending = record.get("resolution", PENDING) == PENDING
+        (open_lines if pending else settled_lines).extend(entry)
+    rendered = {
+        "Subject": [f"`{subject}` — every disagreement the ingest has ever recorded for it."],
+        "Open contradictions": open_lines,
+        "Resolved contradictions": settled_lines,
+        "How this ledger is used": [LEDGER_USE],
+    }
+    names = _sections_of("contradiction")
+    text = "\n".join(section(name, rendered.get(name, [])) for name in names)
+    return text + f"\n<!-- recorded {seen} by {WRITER}; append-only, never a verdict -->\n"
+
+
+def ledger_pages(store: dict[str, list[dict[str, Any]]], seen: str) -> dict[str, str]:
+    """Render every ledger in the store as `{repo-relative path: text}`.
+
+    The store is the record and this is its view, the same way `Graph/` is the
+    record and `Codex/` its rendering. Regenerating a page can therefore never
+    drop a contradiction: nothing is read back out of the Markdown.
+    """
+    pages = {}
+    for key, records in store.items():
+        subject_kind, _, slug = key.partition("/")
+        if not records:
+            continue
+        subject = records[0].get("subject", slug)
+        front = ledger_front(subject_kind, slug, subject, records, seen)
+        pages[candidate_path("contradiction", slug, front)] = page_text(
+            front, [ledger_body(subject, records, seen)])
+    return pages
+
+
+def question_for_disagreement(draft: ConceptDraft, item: Disagreement, slug: str,
+                              seen: str) -> tuple[dict[str, Any], str]:
+    """The worklist half of a contradiction: one question page, status open.
+
+    The ledger remembers; this asks. `axis` is `incorrectness` because two
+    sources disagreeing is exactly what that axis names. Owner is the author:
+    an ingest records a clash and never settles one.
+    """
+    front = {
+        "title": f"Widerspruch: {item.topic}",
+        "kind": "question", "slug": slug, "axis": "incorrectness", "status": "open",
+        "concepts": [draft.slug],
+        "evidence": [{"citation": marker(c), "grade": "HIGH"} for c in item.citations] or
+                    [{"citation": f"^[Sources/drive/{s}.md:1-1]", "grade": "LOW"}
+                     for s in item.sources],
+        "owner": "author", "tags": [],
+        "context_summary": f"{item.topic}: {' vs '.join(item.positions)}"[:200],
+        "context_scope": "global", "context_priority": "core",
+        "chapter_start": 0, "chapter_end": 40, "spoiler_until": 40,
+    }
+    positions = [f"- [[{s}]] — {item.positions[i] if i < len(item.positions) else ''}".rstrip()
+                 for i, s in enumerate(item.sources)]
+    rendered = {
+        "Question": [f"Die Quellen widersprechen sich zu **{item.topic}** "
+                     f"(Konzept [[{draft.slug}]]). Welche Position gilt?"],
+        "Evidence": positions,
+        "What Canon says": [CANON_UNCHECKED],
+        "Candidate answers": [QUESTION_ANSWERS],
+        "Resolution": [],
+    }
+    names = _sections_of("question")
+    body = "\n".join(section(name, rendered.get(name, [])) for name in names)
+    return front, body + f"\n<!-- raised {seen} by {WRITER} from the contradiction ledger -->\n"

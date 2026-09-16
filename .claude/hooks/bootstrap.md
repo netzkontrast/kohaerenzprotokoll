@@ -1,55 +1,58 @@
-You have the Worldbuilding-Codex suite loaded, adapted to Kohärenz Protokoll
-(German hard-SF novel; canon prose is German, engineering language is English).
+Kohärenz Protokoll — German hard-SF novel. Canon prose is German and is never
+translated; engineering and work language is English.
 
 SOURCE HIERARCHY (never invert it):
   Manuscript prose > Plan/drafting arcs + decision logs > Canon/ (storyform-und-outline
-  wins on conflict) > NCP files > Codex/ generated views > Legacy/history.
+  wins on conflict) > NCP files > Codex/ generated views > repository history.
   Provenance markers: [K] kanonisch · [V] Vorschlag · [S] Steinbruch · [L] Lücke.
 
-PROJECT SKILLS (read first for any novel work — .claude/skills/README.md):
-  novel-architect, novel-architect-structure/-scene/-character/-world,
-  dramatica-theory (incl. exact-vocabulary discipline), ncp-author, novel-architect-legacy.
+THE FOUR LAYERS:
+  Sources/    raw exported research, immutable, manifest-tracked
+  Wiki/       LLM-drafted, human-promoted knowledge pages
+  Graph/      the novel's facts as plain JSONL — codex, axioms, chapters, claims
+  Canon/      author-locked normative prose
+  Manuscript/ the book itself, and the source of truth for prose
+
+SKILLS (4 — .claude/skills/):
+  novel-architect   whole novel: arcs, characters, scenes, structure, worlds
+                    (routes to reference/{character,scene,structure,world,legacy}.md)
+  dramatica         storyform reasoning and exact Dramatica vocabulary
+  ncp-author        keeps manuscript, storyform and the NCP A/B files aligned
+  lit-critic        editorial review of chapter prose
   Shared data map: .claude/skills/PROJECT_REFERENCES.md
 
-CODEX COMMANDS (orchestrated workflows — user types /command):
-  /ingest — new source → Plan/ingest manifest → graph CodexEntries → re-rendered Codex/
-  /query — answer from Canon/Plan/Manuscript/graph; file syntheses to Plan/queries/
-  /lint-wiki — contradictions, stale claims, orphan docs, ghost entities
-  /full-audit-canon — scope → scan → triage → fix → verify (canon | storyform | continuity | full)
-  /civilization-build — Kernwelt derivation chain (Ebene → Logik-Regime → DKT → Sensorik →
-                         Bewohner → Ordnung → Register → Geschichte) with hard checkpoints
-
-CODEX SKILLS (progressive disclosure):
-  AUDIT: /auditing-canon (locked spellings, frontmatter, R-rules) · /auditing-physics (DKT
-         consistency) · /cross-checking (one term everywhere) · /auditing-human-assumptions
-         (imported assumptions in Einheiten/Guardians/Kernwelten)
-  WRITE: /writing-worldbuilding (codex entries, locations, factions — German) ·
-         /writing-science (DKT substrate docs) · /writing-style (WRITING.md tokens)
-  DESIGN: /designing-worlds · /designing-lore · /deriving-social-systems
-  READ/EXTRACT: /deep-reading · /extracting-entities · /compiling-entities
-  RESEARCH: /researching-papers (scripts/research-tool.py → Plan/research/) · /integrating-research
-  PLAN/VERIFY: /interrogating-design · /planning-worldbuilding · /verifying-completion
-  REFERENCE: /canon-rules (epistemology, metascience filters, adversarial protocols)
+COMMANDS (9 — one per stage of the pipeline):
+  /research-ingest  Sources/ → Wiki/candidates/ via BatchCompile
+  /kp-promote       a reviewed candidate → Wiki/sources/ or Wiki/concepts/
+  /kp-canon         Canon/ → Graph/, then re-render the Codex views
+  /kp-world         derive a Kernwelt/level/population, land it in Graph/ → Codex/
+  /kp-write         draft or revise a scene; the knowledge fences and the checks
+  /kp-check         every free gate at once
+  /kp-ask           a cited answer from the repository, never from memory
+  /clarify          make scope, terms and assumptions explicit (before promotion)
+  /tetraframe       four positions on a contested decision (before a D-xx)
 
 AGENTS (persistent memory in .claude/agent-memory/):
   @worldbuilder-physicist (DKT / Landauer / Coheron-Erason consistency)
   @worldbuilder-editor (Sprach-DNA, R-rules, drafting-brief compliance)
-  @worldbuilder-researcher (read-only lookup across Canon/Plan/Manuscript/graph)
+  @worldbuilder-researcher (read-only lookup across Canon/Plan/Manuscript/Graph)
 
-DETERMINISTIC TOOLS:
-  python3 scripts/lint_chapter.py [file]      — R-rule / Act-I fence lint (also runs as hook)
-  python3 scripts/render_codex_views.py       — Codex/GLOSSARY, MASTER-TIMELINE, WORLD-AXIOMS from graph
-  python3 scripts/check_enrichment.py         — prose was only inserted, never altered
-  python3 scripts/lit_critic_gate.py --chapter N — LLM editorial gate (skill: lit-critic; needs ANTHROPIC_API_KEY)
-  python3 scripts/research-tool.py search …   — open-access paper search/download
-
-ENGINE: agency graph verbs (novel.*) record provenance; prefer them over raw edits.
-  Session ritual: novel.resume_session → intent_bootstrap (see CLAUDE.md §0).
-  Sandbox: ≤50 call_tool per execute block, no file I/O, partial writes persist.
+DETERMINISTIC TOOLS (free, no API key, no network — run before declaring done):
+  python3 scripts/kp_check.py [--chapters]     — every gate below, at once
+  python3 scripts/lint_chapter.py [file]       — R-rule / Act-I fence lint (also a hook)
+  python3 scripts/storyform_check.py           — the decidable Dramatica rows on both NCPs
+  python3 scripts/world_check.py               — world-axiom pairs worth reading together
+  python3 scripts/render_codex_views.py        — Codex views from Graph/
+  python3 scripts/chapter_drift.py             — where Graph/ and Manuscript/ diverge
+  python3 scripts/check_enrichment.py          — prose was inserted, never altered
+  python3 scripts/wiki_fts.py search "…"       — find a wiki page
+  python3 scripts/research-tool.py search …    — open-access paper search
+  python3 scripts/lit_critic_gate.py --chapter N — LLM editorial gate (needs ANTHROPIC_API_KEY)
 
 REASONING PRINCIPLES (every task):
   Mechanism over association · first principles over tropes · evidence hierarchy ·
-  anti-reductionism (trace through every connected Kernwelt/Anteil) · adversarial self-validation.
+  anti-reductionism (trace through every connected Kernwelt/Anteil) · adversarial
+  self-validation. Reference: docs/canon-rules/README.md.
 
 RULE 0: never assume — on canon facts, plot, German wording, scope: AskUserQuestion.
 LONG SESSIONS: keep .claude/CURRENT_TASK.md updated (pre-compact saves, post-compact restores).
