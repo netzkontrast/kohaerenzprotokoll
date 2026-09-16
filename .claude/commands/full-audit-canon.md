@@ -2,15 +2,46 @@
 description: >-
   Run a full canon audit cycle for Kohärenz Protokoll — scope → scan → triage →
   fix → verify. Orchestrates the worldbuilder-physicist (DKT consistency) and
-  worldbuilder-editor (R-rules, Sprach-DNA, locked spellings) agents.
-  Usage: /full-audit-canon [scope: physics | canon | continuity | storyform | full]
-argument-hint: "[physics | canon | continuity | storyform | full]"
+  worldbuilder-editor (R-rules, Sprach-DNA, locked spellings) agents. --quick
+  runs only a read-only freshness/health snapshot instead.
+  Usage: /full-audit-canon [--quick | physics | canon | continuity | storyform | full]
+argument-hint: "[--quick | physics | canon | continuity | storyform | full]"
 ---
 
 # Full Audit Canon — Complete Audit Cycle
 
 You are orchestrating a full canon audit. Follow this sequence exactly.
 Do not skip steps or combine phases.
+
+## Quick mode (--quick)
+
+Read-only freshness/health snapshot — no scope selection, no agent dispatch,
+no fixes, no triage. Use before deciding whether the full cycle below is
+worth the cost, or at session start to see if the Codex layer is current.
+
+1. **View freshness**: `python3 scripts/render_codex_views.py --check` —
+   `Codex/GLOSSARY.md` / `MASTER-TIMELINE.md` / `WORLD-AXIOMS.md` are
+   rendered from the graph, never hand-edited; stale means a graph write
+   happened since the last render.
+2. **Chapter lint sweep**: `python3 scripts/lint_chapter.py` — with no file
+   arguments this already lints every chapter in one process; don't loop
+   per-file. Report the VIOLATION vs. clean count.
+3. **Graph snapshot** (agency verbs, read-only, one `execute` block):
+   ```python
+   r1 = await call_tool("capability_novel_novel_progress", {"novel_id": "novel:9d170c31"})
+   r2 = await call_tool("capability_novel_pending_verifications", {})
+   r3 = await call_tool("capability_novel_chapter_report", {"novel_id": "novel:9d170c31"})
+   return {"progress": r1, "pending_claims": r2, "chapters": r3}
+   ```
+   Report: word count, chapters by status, pending claim count by domain.
+4. If a base revision is named, also run `python3 scripts/check_enrichment.py --base <rev>`
+   (an enrichment pass may only insert prose); otherwise skip and say why.
+
+Report format: freshness line, lint counts, graph snapshot, then the single
+most useful next action (e.g. "views stale → re-render", "3 chapters
+VIOLATION → fix before a full audit", "12 pending claims in `scientific` →
+run `/full-audit-canon physics`"). Stop here — do not continue to Step 1
+below unless the user asks for the full cycle.
 
 ## Step 1: Scope Selection
 
@@ -38,7 +69,7 @@ git log --since="30 days ago" --name-only --pretty=format: | grep "\.md$" | sort
   `Canon/…welt-sensorik…` §10 + §12, `auditing-canon/references/`
 - **continuity:** `Plan/drafting/enrichment-packets_*.md`, `chapter-information-expanded`,
   `coherence-pass_01-05`
-- **storyform:** `.claude/skills/ncp-author/SKILL.md`, `dramatica-vocabulary`
+- **storyform:** `.claude/skills/ncp-author/SKILL.md`, `dramatica-theory` (exact-vocabulary section)
 - **Chain of Draft mode:** compress each reasoning step to ≤5 words, mark
   conclusions with ####:
   ```

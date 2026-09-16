@@ -1,6 +1,6 @@
 ---
 name: dramatica-theory
-description: Project-specific Dramatica reasoning for the deliberate dual Storyform of Kohärenz Protokoll, including throughlines, dynamics, signposts and story-point expression.
+description: Project-specific Dramatica reasoning for the deliberate dual Storyform of Kohärenz Protokoll, including throughlines, dynamics, signposts, story-point expression, and exact vocabulary/slot-mapping discipline (merged from the former dramatica-vocabulary skill 2026-09-16).
 metadata:
   category: creative-writing
   source: repo
@@ -49,3 +49,26 @@ This novel intentionally uses **two simultaneous Storyforms**. Do not 'repair' t
 - Treat AEGIS's B-Failure as proof that AEGIS was evil.
 - Conflate mode boundaries 13/14 or 26/27 with the actual B→A Storyform turn.
 - Convert abstract Dramatica vocabulary directly into expositional prose.
+
+## Exact vocabulary discipline
+
+Use when terminology must be exact: Domains, Concerns, Issues,
+Problems/Solutions, Symptom/Response, Dynamics, Story Drivers, Limits,
+Outcomes, Judgments, Signposts and Throughlines.
+
+- Use the exact project term when discussing structure.
+- Distinguish **structural element** from **surface-language synonym**.
+  Example: a character may seek more order in prose without that
+  automatically meaning the Dramatica element `Control`.
+- Do not invent or translate element names ad hoc.
+- If legality or parent/quad membership matters, query the live
+  engine/ontology rather than relying on remembered theory.
+- Preserve project labels A (Kael/K₁) and B (AEGIS/K₀) in analytical notes
+  to prevent cross-storyform contamination.
+
+Output pattern when resolving a terminology question:
+
+`Storyform → Throughline → level/slot → exact term → story expression → source path/status [K|V]`.
+
+Never use Dramatica vocabulary as dialogue or naked exposition merely
+because it appears in planning documents.

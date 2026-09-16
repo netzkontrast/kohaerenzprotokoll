@@ -7,18 +7,18 @@ where the files live. Full vendoring rationale and file-by-file mapping:
 [docs/worldcodex-integration.md](../docs/worldcodex-integration.md). Skill
 list with routing notes: [.claude/skills/README.md](skills/README.md).
 
-Two simplified entry points sit on top of the heavier commands below —
-reach for these first when you just need a snapshot, not a full audit:
+Two of the commands below have a `--quick` mode — reach for it first when
+you just need a snapshot, not a full audit:
 
-- **`/codex-status`** — one-screen freshness/health check for the Codex
-  layer (graph → `Codex/*.md`, chapter lints, pending claims).
-- **`/wiki-structure`** — one-screen structure report for the research
+- **`/full-audit-canon --quick`** — one-screen freshness/health check for
+  the Codex layer (graph → `Codex/*.md`, chapter lints, pending claims).
+- **`/lint-wiki --quick`** — one-screen structure report for the research
   Wiki (`Wiki/**`): page counts by kind/partition, schema contract summary,
   lint health, view freshness.
 
-Neither writes anything; both are read-only snapshots you run before
-deciding whether a full workflow (`/lint-wiki`, `/full-audit-canon`,
-`/research-ingest`, …) is worth the cost.
+Quick mode writes nothing — it's a read-only snapshot you run before
+deciding whether the full cycle (scope/triage/fix for `/full-audit-canon`,
+the semantic corpus review for `/lint-wiki`) is worth the cost.
 
 ## Codex (graph-backed worldbuilding entries)
 
@@ -29,8 +29,7 @@ audits CodexEntries, WorldAxioms, StoryTimeEvents.
 | kind | name | purpose |
 |---|---|---|
 | command | `/ingest` | source → extraction manifest → graph verbs → re-render `Codex/` |
-| command | `/codex-status` | quick freshness + pending-claims snapshot (new, simplified) |
-| command | `/full-audit-canon` | scope → scan → triage → fix → verify, orchestrates the two agents below |
+| command | `/full-audit-canon` | scope → scan → triage → fix → verify, orchestrates the two agents below; `--quick` for a freshness + pending-claims snapshot only |
 | skill | `writing-worldbuilding` | new codex entries (civilizations, locations, factions) via verbs |
 | skill | `auditing-canon` | locked spellings, frontmatter, R-rules |
 | skill | `auditing-physics` | DKT / axiom cross-layer consistency |
@@ -52,7 +51,7 @@ audits CodexEntries, WorldAxioms, StoryTimeEvents.
 | skill | `novel-architect-character` | Anteile, Sprach-DNA, somatics, reveal timing |
 | skill | `novel-architect-structure` | sequencing, dual-storyform weaving, Vortices |
 | skill | `novel-architect-world` | KW1–4, sensorics, anomaly design |
-| skill | `dramatica-theory` / `dramatica-vocabulary` | dual-storyform reasoning, exact vocabulary |
+| skill | `dramatica-theory` | dual-storyform reasoning + exact vocabulary/slot-mapping discipline |
 | skill | `ncp-author` | encoded Storyform/NCP validation and controlled mutation |
 | skill | `lit-critic` | editorial prose gate (chapter lints + seven editorial lenses) |
 | skill | `writing-style` | `WRITING.md` prose tokens |
@@ -71,9 +70,8 @@ research layer the same discipline the Codex cluster gives canon.
 
 | kind | name | purpose |
 |---|---|---|
-| command | `/wiki-structure` | quick structure/health snapshot (new, simplified) |
 | command | `/research-ingest` | batch of exported sources → candidate wiki pages (`BatchCompile`) |
-| command | `/lint-wiki` | contradictions, stale claims, orphans, ghost entities across the whole corpus |
+| command | `/lint-wiki` | contradictions, stale claims, orphans, ghost entities across the whole corpus; `--quick` for a structure/health snapshot only |
 | skill | `wiki-maintenance` | moves, splits, navigation repair, schema evolution for `Wiki/**` |
 | command | `/clarify` | precision gate — makes scope/terms/assumptions explicit before a promotion |
 | command | `/tetraframe` | mandatory before a contested decision (D-xx, merge/supersede/delete) |

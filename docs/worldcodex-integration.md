@@ -130,16 +130,17 @@ Added:
 - [.claude/CLUSTERS.md](../.claude/CLUSTERS.md) — skills, tools, commands and
   agents grouped by job (Codex / Prose / Wiki / Research / Design-planning),
   not by directory.
-- `/codex-status` — read-only freshness snapshot for the Codex layer (view
-  staleness, chapter-lint sweep, graph progress + pending claims). Sits in
-  front of `/full-audit-canon` for a cheap look before paying for a full
-  cycle.
-- `/wiki-structure` — read-only structure snapshot for the Wiki layer
+- `/full-audit-canon --quick` — read-only freshness snapshot for the Codex
+  layer (view staleness, chapter-lint sweep, graph progress + pending
+  claims), added as a mode on the existing command rather than a new one
+  after a follow-up altitude review judged two standalone snapshot
+  commands (`/codex-status`, `/wiki-structure`) an avoidable addition to
+  the command surface.
+- `/lint-wiki --quick` — read-only structure snapshot for the Wiki layer
   (schema contract summary, `wiki_lint --health`, view freshness, partition
-  inventory, candidate count). Sits in front of `/lint-wiki` and
-  `/research-ingest` the same way.
+  inventory, candidate count), same rationale.
 
-Neither command writes, fixes, or promotes anything.
+Neither mode writes, fixes, or promotes anything.
 
 ## Daily loop (where the suite plugs into the existing workflow)
 
