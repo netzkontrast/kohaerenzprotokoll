@@ -312,3 +312,65 @@ def test_the_write_path_reaches_batchcompile_with_the_chosen_merge_role(repo: Pa
         cli.main(["--root", str(repo), "--category", "kernkonzept",
                   "--write", "--merge-role", "worker"])
     assert seen["merge_role"] == "worker"
+
+
+# --- basic ingest: sources only, no concept layer --------------------------------------
+
+
+def stub_source_ingest(monkeypatch, calls: list[str]):
+    """Replace SourceIngest with a recorder, so the path runs without an LM."""
+    class Recorder:
+        def __call__(self, *, source_file, title, category_hint, body, glossary_terms):
+            calls.append(source_file)
+            return dspy.Prediction(triage=fx.extractions()[0].triage,
+                                   claims=list(fx.extractions()[0].claims))
+
+    monkeypatch.setattr(cli, "SourceIngest", Recorder)
+    monkeypatch.setattr(cli.lm, "configure", lambda role="task": None)
+
+
+def basic_ingest(repo: Path, monkeypatch, calls: list[str]) -> int:
+    (repo / cli.MANIFEST_REL).write_text(
+        "".join(json.dumps(r) + "\n" for r in MANIFEST.values()), encoding="utf-8")
+    stub_source_ingest(monkeypatch, calls)
+    return cli.main(["--root", str(repo), "--category", "kernkonzept",
+                     "--extract-only", "--write"])
+
+
+def candidate_state(repo: Path) -> dict[str, str]:
+    """Every candidate page and its text — the fixture pre-writes some, so diff."""
+    root = repo / "Wiki/candidates"
+    return {path.relative_to(root).as_posix(): path.read_text(encoding="utf-8")
+            for path in root.rglob("*.md")}
+
+
+def test_basic_ingest_writes_source_pages_and_touches_no_concept_page(repo: Path, monkeypatch,
+                                                                      capsys):
+    before = candidate_state(repo)
+    calls: list[str] = []
+    assert basic_ingest(repo, monkeypatch, calls) == 0
+    capsys.readouterr()
+    after = candidate_state(repo)
+    changed = {path for path in after if before.get(path) != after[path]}
+    assert changed, "the basic ingest wrote nothing"
+    assert all(path.startswith("sources/") for path in changed), sorted(changed)
+    assert len(calls) == 2                                   # one per source, nothing batch-wide
+
+
+def test_basic_ingest_caches_claims_for_the_deferred_concept_layer(repo: Path, monkeypatch, capsys):
+    basic_ingest(repo, monkeypatch, [])
+    capsys.readouterr()
+    cached = sorted((repo / cli.EXTRACTIONS_REL).glob("*.json"))
+    assert [p.stem for p in cached] == sorted(MANIFEST)
+    restored = cli.cached_extraction(repo, cached[0].stem)
+    assert restored is not None and restored.claims
+
+
+def test_a_second_basic_ingest_extracts_nothing_again(repo: Path, monkeypatch, capsys):
+    """Extraction depends on the document alone, so it is paid once."""
+    basic_ingest(repo, monkeypatch, [])
+    capsys.readouterr()
+    again: list[str] = []
+    assert basic_ingest(repo, monkeypatch, again) == 0
+    assert again == [], "a cached source was extracted a second time"
+    assert "cached" in capsys.readouterr().out

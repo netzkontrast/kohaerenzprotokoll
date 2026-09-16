@@ -3,8 +3,10 @@ description: >-
   Compile a batch of exported Drive sources into candidate wiki pages with
   BatchCompile: triage, cited claims, concepts merged across the whole batch, a
   knowledge diff, and drafts in Wiki/candidates/ that a human promotes later.
+  --extract-only runs the cheap half alone: source pages and cached claims,
+  no concept layer.
   Usage: /research-ingest [--slug … | --category … | --tier … | --batch N]
-argument-hint: "[--slug <slug> | --category audit | --tier T3-work] [--batch N]"
+argument-hint: "[--slug <slug> | --category audit | --tier T3-work] [--batch N] [--extract-only] [--merge-role task|worker]"
 ---
 
 # Research ingest — sources become candidates, never pages
@@ -42,6 +44,42 @@ then storyform, characters, worldbuilding, plot; T2 theory last.
 
 **Never set `--write` on your own** — user-facing flags are user-owned
 (`writers.yaml → user_flags`). Ask first, with the dry-run output in hand.
+
+### The two halves, and why the split exists
+
+A batch is a cheap per-source half and an expensive batch-wide half:
+
+| half | calls | produces |
+|---|---|---|
+| triage + extract, **per source** | 2 per source (6 of the pilot's 53) | cited claims, one source page each |
+| plan + merge + decide + diff, **batch-wide** | 47 of the pilot's 53 | concepts, agreements, disagreements |
+
+By call count the first half is a tenth; by output tokens closer to a quarter,
+because extraction calls are individually the largest (the pilot's three
+slowest calls were all extractions). Either way the concept layer is where the
+money goes.
+
+`--extract-only` runs the first half alone:
+
+```bash
+.venv-dspy/bin/python -m tools.kpwiki.research_ingest_cli --tier T3-work \
+    --extract-only --write
+```
+
+It writes each source's candidate page and caches its claims as
+`Wiki/candidates/_extractions/<slug>.json`. Extraction depends on the document
+alone, never on the batch it arrives in, so a cached source is never extracted
+twice: re-running resumes rather than restarts, and the concept layer can run
+later over the cache without re-reading a single body.
+
+**What a basic ingest does not give you.** Contradiction detection lives
+entirely in the merge step. Source pages carry each document's own claims, so
+two documents that disagree sit side by side without anything saying so. That
+is the point of the concept layer, and deferring it defers that.
+
+`--merge-role worker` runs the merge on the cheap model — the largest cost
+lever, and also the step that finds contradictions, so compare before trusting
+it on a full slice.
 
 Without `ANTHROPIC_API_KEY` the run goes through the `claude` CLI
 (`KP_LM_BACKEND=auto`); `KP_LM_CLI_LOG` shows one line per call so a long

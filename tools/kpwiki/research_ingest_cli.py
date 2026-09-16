@@ -33,12 +33,13 @@ from typing import Any
 
 from . import candidates, lm, wiki_pages, wiki_schema
 from .compile_metric import compile_metric
-from .programs import BatchCompile, SourceInput
-from .schema import Compiled, PageState
+from .programs import BatchCompile, SourceIngest, SourceInput
+from .schema import Compiled, Extraction, PageState
 
 ROOT = Path(__file__).resolve().parents[2]
 MANIFEST_REL = "Sources/manifest.jsonl"
 CODEX_REL = "Graph/nodes/codex_entry.jsonl"
+EXTRACTIONS_REL = "Wiki/candidates/_extractions"
 EDGES_REL = "Wiki/graph/edges.jsonl"
 LOG_REL = "Wiki/log.md"
 MAX_GLOSSARY_TERMS = 400
@@ -203,6 +204,64 @@ def score(run: Compiled, inputs: list[SourceInput], pages: dict[str, PageState],
     return compile_metric(gold, dspy.Prediction(compiled=run))
 
 
+def extraction_path(root: Path, slug: str) -> Path:
+    """Where one source's claims are cached, beside the pages of the same run."""
+    return root / EXTRACTIONS_REL / f"{slug}.json"
+
+
+def cached_extraction(root: Path, slug: str) -> Extraction | None:
+    """A previous run's claims for this source, or None.
+
+    Extraction is the expensive half of a source — the pilot's three slowest
+    calls were all extractions — and it depends on the document alone, never on
+    the batch it arrives in. So it is paid once and reused, which is what makes
+    the concept layer re-runnable without re-reading every body.
+    """
+    path = extraction_path(root, slug)
+    if not path.is_file():
+        return None
+    return Extraction.model_validate_json(path.read_text(encoding="utf-8"))
+
+
+def cache_extraction(root: Path, extraction: Extraction) -> Path:
+    path = extraction_path(root, extraction.source)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(extraction.model_dump_json(indent=1), encoding="utf-8")
+    return path
+
+
+def extract_sources(root: Path, inputs: list[SourceInput],
+                    terms: list[str]) -> tuple[list[Extraction], list[str], int]:
+    """Triage and extract each source, reusing whatever is already cached.
+
+    Per source and independent of every other, so an interrupted run resumes
+    where it stopped instead of starting over.
+    """
+    program = SourceIngest()
+    glossary = ", ".join(terms)
+    extractions, skipped, fresh = [], [], 0
+    for source in inputs:
+        if source.truncated or not source.body.strip():
+            skipped.append(source.slug)
+            print(f"  skip {source.slug}: truncated or empty")
+            continue
+        found = cached_extraction(root, source.slug)
+        if found is not None:
+            print(f"  cached {source.slug}: {len(found.claims)} claim(s)")
+            extractions.append(found)
+            continue
+        result = program(source_file=source.source_file, title=source.title,
+                         category_hint=source.category_hint, body=source.body,
+                         glossary_terms=glossary)
+        found = Extraction(source=source.slug, title=source.title,
+                           triage=result.triage, claims=list(result.claims or []))
+        cache_extraction(root, found)
+        fresh += 1
+        print(f"  extracted {source.slug}: {len(found.claims)} claim(s)")
+        extractions.append(found)
+    return extractions, skipped, fresh
+
+
 def build_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--slug", action="append", default=[], help="manifest slug; repeatable")
@@ -213,6 +272,9 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--write", action="store_true",
                     help="call the LM and write candidates, edges and log lines (user-owned flag)")
     ap.add_argument("--dry-run", action="store_true", help="assemble and print the batch, call no LM (default)")
+    ap.add_argument("--extract-only", action="store_true",
+                    help="basic ingest: triage and extract each source, write its source page "
+                         "and cache its claims; skip the concept layer entirely")
     ap.add_argument("--merge-role", choices=["task", "worker"], default="task",
                     help="LM role for the per-concept merge; 'worker' is the cheap model "
                          "and the largest cost lever (merge was 46 of 53 calls in the pilot)")
@@ -244,19 +306,29 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     lm.configure("task")
-    run = BatchCompile(merge_role=ns.merge_role)(
-        sources=inputs, pages=pages, known_entities=terms).compiled
-    print("\nknowledge diff")
-    for line in candidates.knowledge_diff_report(run, manifest):
-        print(f"  {line}")
-    verdict = score(run, inputs, pages, terms)
-    print(f"\ncompile_metric: score={verdict.score:.3f}\n  {verdict.feedback}")
+    if ns.extract_only:
+        print("\nbasic ingest — sources only, no concept layer")
+        extractions, skipped, fresh = extract_sources(root, inputs, terms)
+        run = Compiled(extractions=extractions, skipped=skipped)
+        print(f"  {len(extractions)} source(s), {fresh} newly extracted, "
+              f"{sum(len(e.claims) for e in extractions)} claim(s) total")
+    else:
+        run = BatchCompile(merge_role=ns.merge_role)(
+            sources=inputs, pages=pages, known_entities=terms).compiled
+        print("\nknowledge diff")
+        for line in candidates.knowledge_diff_report(run, manifest):
+            print(f"  {line}")
+        verdict = score(run, inputs, pages, terms)
+        print(f"\ncompile_metric: score={verdict.score:.3f}\n  {verdict.feedback}")
 
     rendered = candidates.render_pages(run, manifest, codex_slugs=frozenset(terms))
     written = write_pages(root, rendered)
     edges = append_edges(root, candidates.edge_records(run))
     logged = append_log(root, candidates.log_entries(run, rendered))
     print(f"\nwrote {len(written)} candidate page(s), {edges} edge(s), {logged} log line(s)")
+    if ns.extract_only:
+        print(f"claims cached under {EXTRACTIONS_REL}/ — the concept layer can run later "
+              "over these without re-reading a single body")
     if ns.out:
         ns.out.parent.mkdir(parents=True, exist_ok=True)
         ns.out.write_text(run.model_dump_json(indent=1), encoding="utf-8")
