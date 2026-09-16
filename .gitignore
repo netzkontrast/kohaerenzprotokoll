@@ -11,6 +11,15 @@ CLAUDE.local.md
 .env.*
 !.env.example
 
+# Build and tool caches, and vendored clones (Legacy tooling)
+.cache/
+.venv-dspy/
+.lit-critic-src/
+.lit-critic/
+
+# Raw source layer: markdown exports are committed, binary originals are not
+Sources/originals/
+
 # OS files
 .DS_Store
 Thumbs.db
