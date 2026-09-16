@@ -17,8 +17,11 @@ ziehen.
 
 ### Reihenfolge für die nächste Session
 
-- [ ] Vollständige Codex-Inventur erstellen: Dateien, Größen, Generatoren,
+- [x] Vollständige Codex-Inventur erstellen: Dateien, Größen, Generatoren,
   Graph-Entitäten, manuelle Inhalte und alle Verbraucher/Verweise.
+  → [Plan/codex-architecture/codex-inventory_2026-09-16.md](Plan/codex-architecture/codex-inventory_2026-09-16.md)
+  (2026-09-16). Reine Bestandsaufnahme, keine Entscheidung — die
+  Autoritätsmatrix (nächster Punkt) ist noch offen.
 - [ ] Autoritätsmatrix beschließen: Welche Schicht ist für welche Information
   die einzige Quelle der Wahrheit?
 - [ ] Überschneidungen und Drift zwischen Canon, Codex, Wiki, NCP und
@@ -77,3 +80,23 @@ ziehen.
 
 Wenn dieser Test reproduzierbar besteht, erfüllt die neue Struktur ihren
 eigentlichen Zweck.
+
+---
+
+# Weitere Aufgaben (niedrigere Priorität)
+
+## Vendorte generische worldcodex-Skills gegen novel-architect-* prüfen
+
+**Priorität:** niedrig  
+**Status:** zurückgestellt (2026-09-16, aus dem Workflow-Simplify-Pass)  
+**Herkunft:** Altitude-Review der Skill-Landschaft (PR #42) schlug vor, die
+vendorten generischen worldcodex-Skills (`auditing-canon`, `designing-worlds`
+usw.) zu entfernen, wo sie von projekteigenen `novel-architect-*`-Skills
+bereits abgedeckt sind. Auf Nachfrage bewusst zurückgestellt: braucht ein
+eigenes Paar-für-Paar-Audit, kein Schnelldurchlauf, da manche vendorten
+Skills (`canon-rules`, `deep-reading`, `cross-checking`) echte
+Querschnitts-Utilities sind und nicht pauschal entfernt werden dürfen.
+
+Wenn aufgegriffen: pro Skill-Paar prüfen, ob der projekteigene Skill den
+vendorten wirklich vollständig ersetzt (nicht nur überlappt), erst dann
+Retirement vorschlagen — Rule 0, kein automatisches Löschen.
