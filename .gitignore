@@ -25,6 +25,7 @@ Thumbs.db
 .venv-dspy/
 .cache/dspy/
 .cache/kpwiki/
+.cache/wiki-fts/
 tools/kpwiki/gepa_logs/
 tools/kpwiki/eval_runs/
 

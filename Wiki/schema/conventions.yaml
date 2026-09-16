@@ -1,0 +1,61 @@
+# Naming, ownership, log grammar and process constants of the research wiki.
+version: 1
+
+slug:
+  pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+  max_length: 60
+  source_slugs: from Sources/manifest.jsonl (scripts/source_inventory.py), never re-derived
+
+language:
+  quotes_and_canon_facing_prose: de      # never translated
+  summaries_explanations_engineering: en
+  page_titles: as in the source
+
+ownership:
+  user_owned:                     # write-denied for the agent; only the author changes them
+    - Sources/**
+    - Canon/**
+    - ncp.json
+    - ncp-b.json
+  tools_only:                     # rendered or written by scripts, never by hand
+    - Wiki/graph/**
+    - Wiki/index.md
+    - Wiki/concept-table.md
+    - Codex/GLOSSARY.md
+    - Codex/MASTER-TIMELINE.md
+    - Codex/WORLD-AXIOMS.md
+  append_only:
+    - Wiki/log.md
+  candidates: Wiki/candidates     # LLM output waits here for /wiki-promote
+  terminal:                       # receive links, write no reverse, are never auto-created
+    - Canon/
+    - Codex/
+
+# "the graph" in every document of this repo means the provenance graph
+# .agency/session.db. Wiki/graph/edges.jsonl is the wiki's relation index (D-W2).
+graph:
+  provenance: .agency/session.db
+  wiki_relation_index: Wiki/graph/edges.jsonl
+  page_bodies_in_provenance_graph: never       # lint rule no-page-body-in-graph
+  claims_in_provenance_graph: via capture_claim with source_uri under Sources/ or Canon/, never Wiki/
+
+log:
+  file: Wiki/log.md
+  grammar: "## [YYYY-MM-DD] <op> | <title> | skill=<command or program> | sha256=<content hash when a page was written>"
+  ops: [ingest, promote, understand, question, clarify, tetraframe, query, lint, health, claim]
+  claim_events: [created, reinforced, challenged, superseded, resolved]   # quicky-wiki epistemic events, one line each
+
+batches:
+  ingest_size: 25                 # merge and lint run once per batch, not per source (llm-tldr)
+  candidate_max_age_days: 30      # lint rule candidate-age warns beyond this
+
+promotion:
+  command: /wiki-promote
+  pin: sha256 of the reviewed body, recorded in the log line; a changed hash refuses promotion
+  requires_clear_clarify_verdict_for: [/promote-to-canon]
+  requires_tetraframe_for: [merge, supersede, delete, contradicts-canon, storyform, axiom]
+
+canon_verification:               # D-W12
+  initial_canon_status: unverified
+  conflict_default_winner: none   # a Canon/research conflict is an open question
+  manuscript_work: Canon stays normative

@@ -1,0 +1,60 @@
+# Which command or program may write what (AutoSci policy/writers.yaml).
+# scripts/wiki_lint.py rule writer-policy checks the `skill=` field of each log
+# line against this table. Flags listed under user_flags are user-owned: a
+# session never invents, flips or drops them from repo state.
+version: 1
+
+writers:
+  /source-inventory:
+    writes: [Sources/manifest.jsonl]
+    calls_llm: false
+    user_flags: [--check]
+  /research-ingest:
+    writes: [Wiki/candidates/**, Wiki/graph/edges.jsonl, Wiki/log.md]
+    never: [Wiki/sources/**, Wiki/concepts/**, Canon/**]
+    program: tools/kpwiki BatchCompile (skill dspy-wiki-compile)
+    user_flags: [--slug, --category, --tier, --batch, --promote]
+  /wiki-promote:
+    writes: [Wiki/sources/**, Wiki/concepts/**, Wiki/questions/**, Wiki/syntheses/**, Wiki/log.md]
+    from: Wiki/candidates/**
+    requires: [lint clean, content hash unchanged since review]
+    user_flags: [--review]
+  /wiki-understand:
+    writes: [Wiki/candidates/**, Wiki/concept-table.md (rendered), Wiki/overview.md (candidate), Wiki/log.md]
+    never: [reviewed concept pages]
+    program: tools/kpwiki MergeConcepts
+    user_flags: [--refine]
+  /interrogate-canon:
+    writes: [Wiki/questions/** (status draft), Wiki/log.md]
+    never: [Canon/**]
+    program: tools/kpwiki RaiseQuestions (skill dspy-deep-refine)
+    user_flags: [--concept, --category, --all]
+  /clarify:
+    writes: [Wiki/questions/** (needs-author questions), Wiki/log.md]
+    program: tools/kpwiki ClarifyGate
+    user_flags: [--dry-run]
+  /tetraframe:
+    writes: [Plan/decisions/tetraframe/**, Wiki/log.md]
+    program: tools/kpwiki TetraFrame
+    user_flags: [--out, --workers]
+  /promote-to-canon:
+    writes: [Plan/ingest/** (proposal manifest), Wiki/log.md]
+    never: [Canon/**]           # the author applies the patch
+    requires: [clear clarify verdict, D-xx id, AskUserQuestion sign-off]
+  /query:
+    writes: [Wiki/syntheses/**, Wiki/log.md]
+    user_flags: [--file]
+  /lint-wiki:
+    writes: [Wiki/lint-report.md]
+    calls_llm: true
+  scripts/wiki_lint.py:
+    writes: ["Wiki/graph/coverage.json", "with --fix also reverse links and default fields"]
+    calls_llm: false
+  scripts/render_wiki_views.py:
+    writes: [Wiki/index.md, Wiki/concept-table.md, Wiki/graph/coverage.json]
+    calls_llm: false
+  scripts/wiki_fts.py:
+    writes: [.cache/wiki-fts/**]
+    calls_llm: false
+
+log_field: skill

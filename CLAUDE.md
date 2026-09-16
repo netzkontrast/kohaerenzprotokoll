@@ -150,8 +150,12 @@ The 680 Google-Drive documents in `Plan/research/…quellenindex…` are **resea
 not canon**. They enter the repo through the three-layer knowledge system in
 `Plan/wiki/knowledge-system-concept_2026-09-15.md`: `Sources/` (raw, immutable;
 manifest via `python3 scripts/source_inventory.py`) → `Wiki/` (LLM-maintained,
-human-promoted) → `Canon/` + graph (author-locked, only via a D-xx decision and
-`/ingest`). Every new LLM step is a DSPy program in `tools/kpwiki/`
+human-promoted; contract in `Wiki/SCHEMA.md` + `Wiki/schema/*.yaml`, loaded by
+`tools/kpwiki/wiki_schema.py`; free checks `python3 scripts/wiki_lint.py --health`
+and `python3 scripts/render_wiki_views.py --check`, candidate finder
+`python3 scripts/wiki_fts.py search "…"`) → `Canon/` + graph (author-locked, only
+via a D-xx decision and `/ingest`). "The graph" always means the provenance graph
+`.agency/session.db`; it never receives wiki page bodies (D-W2). Every new LLM step is a DSPy program in `tools/kpwiki/`
 (`docs/dspy-base.md`; skills `dspy-fundamentals`, `dspy-evaluation-harness`,
 `dspy-gepa-optimizer`, `dspy-rlm-module`, `dspy-rlm-workflow`, `dspy-deep-refine`,
 `dspy-reflect-loop`, `dspy-clarify`, `dspy-tetraframe`, `dspy-autodialectics`,

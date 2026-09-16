@@ -1,0 +1,30 @@
+---
+title: "{{title}}"
+kind: synthesis
+slug: {{slug}}
+query: "{{query}}"
+sources: [{{page_slugs}}]
+status: draft
+filed: {{filed}}
+tags: []
+---
+<!-- A filed /query answer that drew on three or more wiki pages (Wiki/schema/entities.yaml → kinds.synthesis).
+     Leaf page: nothing links back to it. Every claim in Answer cites a wiki page as [[slug]]. -->
+
+## Question
+
+{{query}}
+
+## Answer
+
+{{answer}} ([[{{page_slug}}]])
+
+## Sources
+
+- [[{{page_slug}}]] — what it contributed
+
+## Gaps
+
+<!-- What the wiki could not answer and which source or question would close it.
+     May be empty only when the answer draws on five or more pages. -->
+- {{gap}}

@@ -1,0 +1,52 @@
+---
+title: "{{title}}"
+kind: concept
+slug: {{slug}}
+kind_detail: {{kind_detail}}
+status: draft
+confidence: {{confidence}}
+sources: [{{source_slugs}}]
+canon_status: unverified
+aliases: []
+codex_ref:
+canon_ref:
+tags: []
+---
+<!-- One page per merged idea, entity, rule, theory or motif (Wiki/schema/entities.yaml → kinds.concept).
+     Written by /wiki-understand into Wiki/candidates/; a reviewed page is never overwritten — new
+     material is appended under "Since <date>" and the page flips to contested when a contradicts edge
+     appears. canon_status starts unverified for every Canon claim (D-W12). -->
+
+## Definition
+
+<!-- What the research understands the concept to be. Every sentence carries at least one citation
+     ^[Sources/drive/<slug>.md:L-L] or ^[Canon/<file>.md:L-L]. -->
+{{definition}} ^[Sources/drive/{{source_slug}}.md:{{start}}-{{end}}]
+
+## What Canon says
+
+<!-- Verbatim German quotes from Canon/ with canon:<file>#<heading>; never emit [K] here. -->
+> {{canon_quote}}
+
+— canon:{{canon_file}}#{{canon_heading}}
+
+## Where sources agree
+
+- {{agreement}} ^[Sources/drive/{{source_slug}}.md:{{start}}-{{end}}]
+
+## Where they disagree
+
+<!-- At least two sources per disagreement, each cited, and a resolution:
+     pending · supersedes (which one) · both-valid (why). While any resolution is pending the page
+     status is contested. -->
+- {{disagreement}} — [[{{source_a}}]] vs [[{{source_b}}]] — resolution: pending
+
+## Timeline of the idea
+
+<!-- Oldest to newest source: how the understanding moved. One line per source, dated by index_date. -->
+- {{date}} — [[{{source_slug}}]] — {{what_changed}}
+
+## Open questions
+
+<!-- [[question-slug]] links; written by /interrogate-canon and /clarify in the same operation
+     as the question page. -->

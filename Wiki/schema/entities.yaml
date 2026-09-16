@@ -1,0 +1,133 @@
+# Page kinds of the research wiki — the single contract for tools/kpwiki,
+# scripts/wiki_lint.py and scripts/render_wiki_views.py. Change here, never in
+# code (concept §3.2; AutoSci schema-as-contract). tools/kpwiki/schema.py builds
+# its Pydantic Literals from these enums at import time; tests/test_wiki_schema.py
+# guards the derivation.
+version: 1
+
+lifecycle:
+  field: status
+  initial: draft
+  states: [draft, reviewed, contested, superseded, archived]
+  transitions:
+    draft: [reviewed, archived]
+    reviewed: [contested, superseded, archived]
+    contested: [reviewed, superseded, archived]
+    superseded: [archived]
+    archived: []
+  # A reviewed page is authoritative: a new source never overwrites it, it flags it (synthadoc RULE 1b).
+  protected: [reviewed]
+  # Everything an LLM wrote and no human has reviewed lives here until /wiki-promote moves it.
+  candidates_dir: Wiki/candidates
+  archive_cascade: rewrite every [[slug]] link to an archived page as plain text with a note
+
+enums:
+  tier: [T0-duplicate, T1-superseded, T2-theory, T3-work, T4-out-of-scope]
+  category: [kernkonzept, plot-outline, charaktere, worldbuilding, storyform, audit,
+             theorie-mathematik, theorie-logik, theorie-physik, theorie-psychologie,
+             theorie-philosophie, theorie-genre, aegis, unzugeordnet]
+  language: [de, en, mixed]
+  confidence: [high, medium, low]
+  canon_relation: [consistent, extends, contradicts, unrelated, unknown]
+  # unverified is the initial value of every Canon claim inside the wiki loop (D-W12);
+  # locked means present in Canon with [K] AND checked against the populated wiki.
+  canon_status: [unverified, locked, proposal, absent, contradicted, promoted]
+  kind_detail: [concept, character, world, rule, theory, motif, storyform]
+  axis: [incompleteness, incorrectness, redundancy]
+  question_status: [open, answered, escalated, parked]
+  concept_table_status: [high-confidence, single-source, tentative, contradicted]
+  evidence_grade: [HIGH, MEDIUM, LOW]
+
+kinds:
+  source:
+    dir: Wiki/sources
+    one_per: Drive document of tier T1, T2 or T3 (T4 is never ingested, D-W9)
+    template: Wiki/templates/source.md.tmpl
+    required: [title, kind, slug, drive_id, tier, category, language, status, sha256, ingested]
+    optional: [supersedes, superseded_by, truncated, aliases, tags, title_truncated]
+    fields:
+      kind: {const: source}
+      tier: {enum: tier}
+      category: {enum: category}
+      language: {enum: language}
+      status: {lifecycle: true}
+      sha256: {pattern: "^[0-9a-f]{64}$", of: Sources/drive/<slug>.md at ingest time}
+      ingested: {format: date}
+      truncated: {type: bool, default: false}
+      supersedes: {ref: source}
+      superseded_by: {ref: source}
+    sections: [Summary, Key claims, Entities, Canon relation, Open questions, Log]
+    rules:
+      - every item under Key claims carries a ^[Sources/drive/<slug>.md:L-L] citation whose quote is in those lines
+      - a T1-superseded source never raises a question alone (D-W6)
+      - never emits the [K] marker
+
+  concept:
+    dir: Wiki/concepts
+    one_per: merged idea, entity, rule, theory or motif across sources
+    template: Wiki/templates/concept.md.tmpl
+    required: [title, kind, slug, kind_detail, status, confidence, sources, canon_status]
+    optional: [aliases, codex_ref, canon_ref, tags, disagreements]
+    fields:
+      kind: {const: concept}
+      kind_detail: {enum: kind_detail}
+      status: {lifecycle: true}
+      confidence: {enum: confidence, requires: evidence}
+      sources: {list_of_ref: source, min: 1}
+      canon_status: {enum: canon_status, initial: unverified}
+      codex_ref: {pattern: "^codex:[a-z0-9-]+$", terminal: true}
+      canon_ref: {pattern: "^canon:[^#]+#.+$", terminal: true}
+    sections: [Definition, What Canon says, Where sources agree, Where they disagree, Timeline of the idea, Open questions]
+    rules:
+      - every sentence under Definition carries at least one citation
+      - the section Where they disagree lists at least two sources per disagreement, each with a resolution (pending, supersedes or both-valid)
+      - the section What Canon says quotes Canon verbatim in German and never emits [K]
+      - status contested is required while any disagreement is pending
+
+  question:
+    dir: Wiki/questions
+    one_per: open question about our understanding of the novel
+    template: Wiki/templates/question.md.tmpl
+    required: [title, kind, slug, axis, status, concepts, evidence, owner]
+    optional: [decision_ref, tetraframe_run, revisit, tags]
+    fields:
+      kind: {const: question}
+      axis: {enum: axis}
+      status: {enum: question_status}
+      concepts: {list_of_ref: concept, min: 1}
+      evidence: {list_of: citation, min: 1, graded: evidence_grade}
+      owner: {enum: [author, session, graph]}
+      decision_ref: {pattern: "^D-[A-Z]?[0-9]+$"}
+      tetraframe_run: {pattern: "^Plan/decisions/tetraframe/.+\\.json$"}
+      revisit: {format: date}
+    sections: [Question, Evidence, What Canon says, Candidate answers, Resolution]
+    rules:
+      - status escalated requires decision_ref
+      - status parked requires revisit
+      - a question that would supersede, merge or contradict a reviewed page cites a tetraframe_run before it is escalated
+
+  synthesis:
+    dir: Wiki/syntheses
+    one_per: filed /query answer that drew on three or more pages
+    template: Wiki/templates/synthesis.md.tmpl
+    required: [title, kind, slug, query, sources, status, filed]
+    optional: [tags]
+    fields:
+      kind: {const: synthesis}
+      query: {type: str}
+      sources: {list_of_ref: [source, concept, question], min: 3}
+      status: {lifecycle: true}
+      filed: {format: date}
+    sections: [Question, Answer, Sources, Gaps]
+    rules:
+      - every claim in the section Answer cites a wiki page as [[slug]]
+      - the section Gaps is present and may be empty only when the answer draws on five or more pages
+
+markers:
+  # Research pages may quote [K]/[V] text from Canon but never emit [K] themselves.
+  forbidden_outside_canon: ["[K]"]
+  allowed_quoted: ["[K]", "[V]", "[L]"]
+
+citation:
+  pattern: "\\^\\[(?P<file>Sources/drive/[a-z0-9-]+\\.md|Canon/[^:\\]]+):(?P<start>\\d+)(?:-(?P<end>\\d+))?\\]"
+  rule: the file exists, 1 <= start <= end <= number of lines, and the quoted fragment is in those lines

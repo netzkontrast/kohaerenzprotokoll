@@ -165,3 +165,48 @@ are backend-independent (they are instructions + demos).
 | agency `novel.*` verbs (`generate_scene_body`, `storyform_critical_pass`) | unchanged; graph/provenance engine |
 | `/query`, `/lint-wiki`, `/ingest` commands (Claude in the session) | keep for interactive work; batch equivalents become kpwiki programs |
 | `scripts/research-tool.py` | deterministic, no LLM |
+
+## Research wiki layer — what runs, and the settings the author applies
+
+The deterministic Phase-1 tooling of the knowledge system (`Wiki/SCHEMA.md`)
+needs no key and no virtualenv: `python3` plus PyYAML.
+
+| command | does |
+|---|---|
+| `python3 scripts/wiki_lint.py --health` | every lint rule over `Wiki/`, coverage summary, exit 1 on errors |
+| `python3 scripts/wiki_lint.py --hook FILE` | one file, warn-only (the PostToolUse hook in `.claude/hooks/post-tool-use.sh` runs this on `Wiki/**/*.md`) |
+| `python3 scripts/wiki_lint.py --fix [--dry-run]` | completes reverse cross-references and default fields |
+| `python3 scripts/render_wiki_views.py [--check]` | renders `Wiki/index.md`, `Wiki/concept-table.md`, `Wiki/graph/coverage.json` |
+| `python3 scripts/wiki_fts.py build \| search \| stats \| doctor` | FTS5/BM25 candidate finder over `Wiki/`, `Canon/`, `Sources/drive/` (index in `.cache/wiki-fts/`) |
+| `python3 scripts/source_inventory.py [--check]` | Drive index → `Sources/manifest.jsonl` (T4 rows excluded, D-W9) |
+| `python3 scripts/source_dedup.py [--check]` | byte-equal and near-duplicate clusters → `T0-duplicate`, `T1-superseded` |
+| `python3 scripts/audit_graph_claims.py` | read-only D-W2 audit of `NovelClaim.source_uri` in `.agency/session.db` |
+
+`.claude/settings.json` is the author's file. The lines below complete the
+ownership zones of `Wiki/schema/conventions.yaml`; apply them by hand:
+
+```json
+"permissions": {
+  "allow": [
+    "Bash(python3 scripts/wiki_lint.py*)",
+    "Bash(python3 scripts/render_wiki_views.py*)",
+    "Bash(python3 scripts/wiki_fts.py*)",
+    "Bash(python3 scripts/source_inventory.py*)",
+    "Bash(python3 scripts/source_dedup.py*)",
+    "Bash(python3 scripts/audit_graph_claims.py*)"
+  ],
+  "deny": [
+    "Write(Sources/drive/**)", "Edit(Sources/drive/**)",
+    "Write(Wiki/index.md)", "Edit(Wiki/index.md)",
+    "Write(Wiki/concept-table.md)", "Edit(Wiki/concept-table.md)",
+    "Write(Wiki/graph/**)", "Edit(Wiki/graph/**)"
+  ]
+}
+```
+
+SessionStart: add `python3 scripts/wiki_lint.py --health` next to the stale-Codex
+check so every session opens with the free health report. `Sources/manifest.jsonl`
+stays writable for the two inventory scripts; `Sources/README.md` is documentation.
+Canon keeps its warn-only PreToolUse treatment (the repo decided against a
+write-deny on Canon); the wiki never writes there by construction
+(`Wiki/schema/writers.yaml`).
