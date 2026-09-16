@@ -1,13 +1,18 @@
 {
-  "candidates": {},
+  "candidates": {
+    "concept": 41,
+    "source": 4
+  },
   "concepts": {
     "by_canon_status": {},
     "by_confidence": {}
   },
   "contested": [],
   "edges": {
-    "by_type": {},
-    "total": 0
+    "by_type": {
+      "supports": 84
+    },
+    "total": 84
   },
   "pages": {
     "concept": {},

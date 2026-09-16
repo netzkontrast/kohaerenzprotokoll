@@ -39,6 +39,11 @@ enums:
   evidence_grade: [HIGH, MEDIUM, LOW]
   context_scope: [global, act-1, act-2, act-3, chapter]
   context_priority: [core, supporting, evidence]
+  # The contradiction ledger. `subject_kind` gives it two trees: one keyed by
+  # concept, one by named entity, so a clash about Kael is findable both through
+  # the concept it surfaced in and through Kael himself.
+  subject_kind: [concept, entity]
+  ledger_status: [open, all-resolved]
 
 kinds:
   source:
@@ -74,7 +79,8 @@ kinds:
     template: Wiki/templates/concept.md.tmpl
     required: [title, kind, slug, kind_detail, status, confidence, sources, canon_status,
                context_summary, context_scope, context_priority, chapter_start, chapter_end, spoiler_until]
-    optional: [aliases, codex_ref, canon_ref, tags, disagreements, table_status, ingested]
+    optional: [aliases, codex_ref, canon_ref, tags, disagreements, table_status, ingested,
+               contradiction_ref]
     fields:
       kind: {const: concept}
       kind_detail: {enum: kind_detail}
@@ -92,17 +98,54 @@ kinds:
       # contradicted while any disagreement is pending. The lifecycle field above
       # stays draft/reviewed/… — this is the evidence state, not the review state.
       table_status: {enum: concept_table_status}
+      # Topics only — the contested statements themselves are never on this page.
+      # A reader follows contradiction_ref to the ledger for positions and sources.
       disagreements: {list_of: str}
+      contradiction_ref: {pattern: "^Wiki/(candidates/)?contradictions/concept/[a-z0-9-]+\\.md$"}
       # When /research-ingest drafted the candidate; the lint dates candidate-age by it.
       ingested: {format: date}
       codex_ref: {pattern: "^codex:[a-z0-9-]+$", terminal: true}
       canon_ref: {pattern: "^canon:[^#]+#.+$", terminal: true}
-    sections: [Definition, What Canon says, Where sources agree, Where they disagree, Timeline of the idea, Open questions]
+    sections: [Definition, What Canon says, Where sources agree, Timeline of the idea, Open questions]
     rules:
       - every sentence under Definition carries at least one citation
-      - the section Where they disagree lists at least two sources per disagreement, each with a resolution (pending, supersedes or both-valid)
+      - "every disagreement is recorded in the ledger at Wiki/**/contradictions/concept/<slug>.md with at least two sources and a resolution (pending, supersedes or both-valid), never on this page"
       - the section What Canon says quotes Canon verbatim in German and never emits [K]
-      - status contested is required while any disagreement is pending
+      - "status contested is required while any disagreement is pending, and the page then carries contradiction_ref"
+      - "the body asserts only what the sources agree on: no contradictory statement is ever rendered onto a concept page"
+
+  # The contradiction ledger: what the wiki knows has ever been disputed.
+  # One file per subject, append-only, and deliberately not a page anyone reads
+  # for the answer — it is the memory that lets a later document be checked
+  # against a clash found long before it arrived.
+  contradiction:
+    dir: Wiki/contradictions
+    partition_by: subject_kind
+    page_budget: {ideal_words: 400, warn_words: 1200, max_words: 2500}
+    one_per: concept or entity that has ever carried a contradiction
+    template: Wiki/templates/contradiction.md.tmpl
+    required: [title, kind, slug, subject_kind, subject, status, first_seen, last_seen,
+               open_count, total_count]
+    optional: [concepts, entities, question_refs, tags]
+    fields:
+      kind: {const: contradiction}
+      subject_kind: {enum: subject_kind}
+      subject: {type: str, of: the concept slug or the entity name this ledger belongs to}
+      status: {enum: ledger_status}
+      first_seen: {format: date}
+      last_seen: {format: date}
+      open_count: {type: int, min: 0, of: disagreements whose resolution is still pending}
+      total_count: {type: int, min: 1, of: disagreements ever recorded here}
+      concepts: {list_of_ref: concept}
+      question_refs: {list_of_ref: question}
+      entities: {list_of: str}
+    sections: [Subject, Open contradictions, Resolved contradictions, How this ledger is used]
+    rules:
+      - "append-only: a recorded contradiction is never deleted or rewritten, only moved from Open to Resolved with the resolution that settled it"
+      - every contradiction names at least two sources and one position per source, each cited
+      - "a ledger is evidence, not a verdict: it records that sources disagree and never decides which is right"
+      - an open contradiction carries a question_ref, so it sits on a worklist and not only in memory
+      - "page budget is generous by design: a ledger grows with the corpus and is never split for length"
 
   question:
     dir: Wiki/questions

@@ -922,26 +922,45 @@ def rule_no_reverse_into_canon(ctx: LintContext) -> list[Finding]:
 
 # --- rule 16: no-auto-canon-page --------------------------------------------------
 
-def canon_identities(ctx: LintContext) -> tuple[dict[str, str], dict[str, str]]:
-    """File stems and first ``# `` headings of the terminal directories."""
+def identities_under(ctx: LintContext, folder: str) -> tuple[dict[str, str], dict[str, str]]:
+    """File stems and first ``# `` headings under one terminal directory."""
     stems: dict[str, str] = {}
     headings: dict[str, str] = {}
-    for folder in wiki_schema.conventions()["ownership"]["terminal"]:
-        root = ctx.repo_root / folder
-        if not root.is_dir():
-            continue
-        for path in sorted(root.rglob("*.md")):
-            stems.setdefault(path.stem, ctx.display(path))
-            for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
-                if line.startswith("# "):
-                    headings.setdefault(line[2:].strip(), ctx.display(path))
-                    break
+    root = ctx.repo_root / folder
+    if not root.is_dir():
+        return stems, headings
+    for path in sorted(root.rglob("*.md")):
+        stems.setdefault(path.stem, ctx.display(path))
+        for line in path.read_text(encoding="utf-8", errors="replace").splitlines():
+            if line.startswith("# "):
+                headings.setdefault(line[2:].strip(), ctx.display(path))
+                break
     return stems, headings
+
+
+def canon_identities(ctx: LintContext) -> tuple[dict[str, str], dict[str, str]]:
+    """Stems and headings of `Canon/` alone — the layer a wiki page must not mirror."""
+    return identities_under(ctx, "Canon/")
+
+
+def codex_identities(ctx: LintContext) -> dict[str, str]:
+    """Stems of the rendered codex, which a wiki page may share if it links there.
+
+    `Codex/` is also a terminal directory, but sharing a name with a codex entry
+    is not duplication: the codex is the novel's own fact layer and the wiki is
+    the research understanding of the same subject. The two are meant to coexist
+    and to be joined by `codex_ref`. This was invisible while the codex rendered
+    as three files named GLOSSARY, MASTER-TIMELINE and WORLD-AXIOMS; once it
+    became one file per entry, every entry slug became a name a concept page
+    legitimately takes.
+    """
+    return identities_under(ctx, "Codex/")[0]
 
 
 def rule_no_auto_canon_page(ctx: LintContext) -> list[Finding]:
     out: list[Finding] = []
     stems, headings = canon_identities(ctx)
+    codex = codex_identities(ctx)
     for page in ctx.pages:
         path = ctx.page_path(page)
         if page.slug in stems:
@@ -953,6 +972,10 @@ def rule_no_auto_canon_page(ctx: LintContext) -> list[Finding]:
             out.append(Finding("no-auto-canon-page", "error", path, 1,
                                f"title {title!r} equals the heading of {headings[title]}; "
                                f"pages about Canon are concept pages with canon_ref"))
+        if page.slug in codex and not str(page.front.get("codex_ref") or "").strip():
+            out.append(Finding("no-auto-canon-page", "warn", path, 1,
+                               f"slug {page.slug!r} names {codex[page.slug]}; set "
+                               f"codex_ref: codex:{page.slug} so the two layers are joined"))
     return out
 
 

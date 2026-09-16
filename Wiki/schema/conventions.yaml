@@ -76,8 +76,10 @@ log:
 
 batches:
   ingest_size: 25                 # merge and lint run once per batch, not per source (llm-tldr)
-  chunk_size: 3                   # sources per ingest chunk; a chunk is one merge cycle and
-                                  # one write, so a run resumes at chunk boundaries
+  chunk_size: 1                   # one document at a time. Contradiction detection does not
+                                  # ride on chunk size: a concept is reconciled from every
+                                  # claim it has ever been given (_concepts.json), so what is
+                                  # found never depends on which documents arrived together
   candidate_max_age_days: 30      # lint rule candidate-age warns beyond this
 
 promotion:

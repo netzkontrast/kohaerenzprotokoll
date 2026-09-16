@@ -39,7 +39,7 @@ def test_every_schema_file_loads_as_mapping():
 
 
 def test_kinds_and_required_fields():
-    assert wiki_schema.kinds() == ["source", "concept", "question", "synthesis"]
+    assert wiki_schema.kinds() == ["source", "concept", "contradiction", "question", "synthesis"]
     for name in wiki_schema.kinds():
         required = wiki_schema.required_fields(name)
         assert {"title", "kind", "slug"} <= set(required), name

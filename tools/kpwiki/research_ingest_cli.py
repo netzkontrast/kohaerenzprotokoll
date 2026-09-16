@@ -41,6 +41,7 @@ MANIFEST_REL = "Sources/manifest.jsonl"
 CODEX_REL = "Graph/nodes/codex_entry.jsonl"
 EXTRACTIONS_REL = "Wiki/candidates/_extractions"
 CONCEPT_INDEX_REL = "Wiki/candidates/_extractions/_concepts.json"
+LEDGER_REL = "Wiki/candidates/_extractions/_contradictions.json"
 EDGES_REL = "Wiki/graph/edges.jsonl"
 LOG_REL = "Wiki/log.md"
 MAX_GLOSSARY_TERMS = 400
@@ -319,6 +320,74 @@ def record_concept_claims(index: dict[str, list[str]], run: Compiled,
     return updated
 
 
+def load_ledger(root: Path) -> dict[str, list[dict[str, Any]]]:
+    """Every contradiction ever recorded, keyed `"<subject_kind>/<slug>"`.
+
+    Append-only and the source of truth; the Markdown ledgers under
+    `Wiki/candidates/contradictions/` are its rendering, so regenerating a page
+    can never drop a clash. That permanence is the point: a document arriving
+    much later is checked against disagreements found long before it, which a
+    list of currently-open questions could not do.
+    """
+    path = root / LEDGER_REL
+    if not path.is_file():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def save_ledger(root: Path, store: dict[str, list[dict[str, Any]]]) -> None:
+    path = root / LEDGER_REL
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(store, indent=1, sort_keys=True, ensure_ascii=False),
+                    encoding="utf-8")
+
+
+def record_contradictions(store: dict[str, list[dict[str, Any]]], run: Compiled, seen: str,
+                          questions: dict[str, str]) -> tuple[dict, int, int]:
+    """Fold this run's disagreements in. Nothing is ever removed or rewritten.
+
+    A clash already recorded for a subject updates only its resolution, so a
+    settled argument moves from Open to Resolved and stays on the page rather
+    than disappearing from it.
+    """
+    updated = {key: list(records) for key, records in store.items()}
+    added = resolved = 0
+    for draft in run.concepts:
+        for item in draft.disagreements:
+            record = candidates.contradiction_record(draft, item, seen,
+                                                     questions.get(item.topic, ""))
+            for subject_kind, slug, subject in candidates.ledger_subjects(draft):
+                bucket = updated.setdefault(f"{subject_kind}/{slug}", [])
+                known = next((r for r in bucket if r["topic"] == record["topic"]
+                              and r["concept"] == record["concept"]), None)
+                if known is None:
+                    bucket.append({**record, "subject": subject})
+                    added += 1
+                elif known.get("resolution") != record["resolution"]:
+                    known["resolution"] = record["resolution"]
+                    resolved += 1
+    return updated, added, resolved
+
+
+def open_questions_for(run: Compiled, seen: str) -> tuple[dict[str, str], dict[str, str]]:
+    """A question page per pending disagreement: `({topic: slug}, {path: text})`.
+
+    The ledger is memory; a question is the worklist. An unresolved clash needs
+    both, or it is remembered and never acted on.
+    """
+    slugs, pages = {}, {}
+    for draft in run.concepts:
+        for item in draft.disagreements:
+            if item.resolution != candidates.PENDING:
+                continue
+            slug = f"widerspruch-{draft.slug}-{candidates.entity_slug(item.topic)}"[:60].rstrip("-")
+            slugs[item.topic] = slug
+            front, body = candidates.question_for_disagreement(draft, item, slug, seen)
+            pages[candidates.candidate_path("question", slug, front)] = candidates.page_text(
+                front, [body])
+    return slugs, pages
+
+
 def chunks_of(inputs: list[SourceInput], size: int) -> list[list[SourceInput]]:
     return [inputs[at:at + size] for at in range(0, len(inputs), max(size, 1))]
 
@@ -399,9 +468,10 @@ def write_artifact(path: Path, run: Compiled) -> None:
 
 
 def write_run(root: Path, run: Compiled, manifest: dict[str, dict[str, Any]],
-              terms: list[str]) -> list[str]:
+              terms: list[str], extra: dict[str, str] | None = None) -> list[str]:
     """Render, write and log one chunk's output. Each chunk lands on its own."""
     rendered = candidates.render_pages(run, manifest, codex_slugs=frozenset(terms))
+    rendered.update(extra or {})
     written = write_pages(root, rendered)
     edges = append_edges(root, candidates.edge_records(run))
     logged = append_log(root, candidates.log_entries(run, rendered))
@@ -422,6 +492,7 @@ def ingest_chunks(root: Path, ns: argparse.Namespace, inputs: list[SourceInput],
     """
     groups = chunks_of(inputs, ns.chunk)
     concept_index = load_concept_index(root)
+    ledger = load_ledger(root)
     written: list[str] = []
     last: Compiled | None = None
     for number, group in enumerate(groups, start=1):
@@ -439,12 +510,23 @@ def ingest_chunks(root: Path, ns: argparse.Namespace, inputs: list[SourceInput],
             print(f"    {line}")
         verdict = score(run, group, pages, terms)
         print(f"  compile_metric: score={verdict.score:.3f}")
-        written += write_run(root, run, manifest, terms)
+
+        stamp = candidates.today()
+        question_slugs, question_pages = open_questions_for(run, stamp)
+        ledger, added, settled = record_contradictions(ledger, run, stamp, question_slugs)
+        save_ledger(root, ledger)
+        extra = {**question_pages, **candidates.ledger_pages(ledger, stamp)}
+        if added or settled:
+            print(f"  contradictions: {added} newly recorded, {settled} resolution(s) updated, "
+                  f"{len(question_pages)} question(s) raised")
+        written += write_run(root, run, manifest, terms, extra)
         concept_index = record_concept_claims(concept_index, run, pages)
         save_concept_index(root, concept_index)
         last = run
-    print(f"\n{len(groups)} chunk(s), {len(concept_index)} concept(s) in "
-          f"{CONCEPT_INDEX_REL}")
+    open_now = sum(1 for records in ledger.values()
+                   for r in records if r.get("resolution", candidates.PENDING) == candidates.PENDING)
+    print(f"\n{len(groups)} chunk(s), {len(concept_index)} concept(s) in {CONCEPT_INDEX_REL}")
+    print(f"ledger: {len(ledger)} subject(s), {open_now} open contradiction(s) in {LEDGER_REL}")
     return written, last
 
 

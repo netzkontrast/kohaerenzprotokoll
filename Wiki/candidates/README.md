@@ -6,4 +6,5 @@
 
 Draft pages awaiting human review and `/wiki-promote`.
 
-_No candidates yet._
+- [concept](concepts/README.md) · 41 page(s)
+- [source](sources/README.md) · 4 page(s)

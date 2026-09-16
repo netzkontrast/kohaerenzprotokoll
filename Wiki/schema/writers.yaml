@@ -18,9 +18,11 @@ writers:
     writes: [Wiki/candidates/**, Wiki/graph/edges.jsonl, Wiki/log.md]
     never: [Wiki/sources/**, Wiki/concepts/**, Canon/**]
     program: tools/kpwiki BatchCompile (skill dspy-wiki-compile)
-    user_flags: [--slug, --category, --tier, --batch, --promote]
+    user_flags: [--slug, --category, --tier, --batch, --chunk, --merge-role,
+                 --extract-only, --promote]
   /wiki-promote:
-    writes: [Wiki/sources/**, Wiki/concepts/**, Wiki/questions/**, Wiki/syntheses/**, Wiki/log.md]
+    writes: [Wiki/sources/**, Wiki/concepts/**, Wiki/questions/**, Wiki/syntheses/**,
+             Wiki/contradictions/**, Wiki/log.md]
     from: Wiki/candidates/**
     requires: [lint clean, content hash unchanged since review]
     user_flags: [--review]

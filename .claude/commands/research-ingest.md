@@ -46,13 +46,45 @@ then storyform, characters, worldbuilding, plot; T2 theory last.
 **Never set `--write` on your own** — user-facing flags are user-owned
 (`writers.yaml → user_flags`). Ask first, with the dry-run output in hand.
 
-### Chunked is the default
+### One document at a time, by default
 
-A run is split into chunks of `chunk_size` sources (`Wiki/schema/conventions.yaml`,
-currently **3**). Each chunk plans, merges, writes its pages and updates the
-concept index on its own, so an interrupted run resumes at a chunk boundary
-instead of restarting, and you can read real pages after the first chunk
-rather than after the last.
+`chunk_size` is **1** (`Wiki/schema/conventions.yaml`). Each document plans,
+merges, writes its pages and updates the indexes on its own, so a run resumes
+at a document boundary and you read real pages after the first one rather than
+the last.
+
+Ingesting one at a time does **not** narrow what gets found. Detection is driven
+by concept clusters, not by which documents happened to arrive together: a
+concept is reconciled from every claim it has ever been given, so document 40
+contradicting document 1 is caught when document 40 lands.
+
+### The wiki is contradiction-free; the ledger remembers
+
+A concept page states what the sources agree on. No contradictory statement is
+ever rendered onto it — `Where they disagree` is not a section any more. Where
+sources clash, three things happen:
+
+| artifact | role |
+|---|---|
+| the concept page | keeps the agreed content, flips to `contested`, points at the ledger through `contradiction_ref` |
+| `contradictions/concept/<slug>.md` and `contradictions/entity/<slug>.md` | the ledger: every clash ever recorded for that subject, with each position, its source and its citation |
+| `questions/incorrectness/<slug>.md` | the worklist: one open question per unresolved clash, routing to `/tetraframe` and a D-xx |
+
+The ledger has two trees because one argument is usually reachable from several
+sides: the probe found the alter count disputed under both `die-13-alter` and
+`tsdp`, and the Kael–Juna bond under both `juna` and `moonshine-link`. Keyed by
+entity as well as concept, those are one subject's history rather than four
+unrelated notes.
+
+**Append-only.** `_extractions/_contradictions.json` is the store and the
+Markdown ledgers are its rendering, the same way `Graph/` is the record and
+`Codex/` its view. A settled clash moves from Open to Resolved with what settled
+it; nothing is deleted. That permanence is the point — a document arriving much
+later is checked against clashes found long before it, which a list of
+currently-open questions could not do.
+
+A ledger is evidence, never a verdict. It records that sources disagree;
+deciding which is right is `/tetraframe`, a D-xx, and the author.
 
 **What makes chunking safe.** Naive chunking would merge each concept from the
 claims in the chunk at hand, so a document in chunk 5 contradicting one in
