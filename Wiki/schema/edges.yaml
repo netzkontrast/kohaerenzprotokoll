@@ -1,0 +1,54 @@
+# Typed relations between wiki pages. They live in Wiki/graph/edges.jsonl, the
+# wiki's own relation index. That file is NOT "the graph": the provenance graph is
+# .agency/session.db and receives no wiki page content (D-W2, concept §2 2a).
+version: 1
+
+store: Wiki/graph/edges.jsonl
+written_by: tools only (scripts/wiki_lint.py --fix, tools/kpwiki programs via /research-ingest, /wiki-understand)
+
+record:
+  from: wiki slug
+  to: wiki slug | codex:<slug> | canon:<file>#<heading>
+  type: one of the types below
+  confidence: enum confidence (entities.yaml)
+  evidence: one citation ^[file:L-L] or a [[slug]] the claim comes from
+  written_by: the command or program (writers.yaml)
+  at: date
+
+types:
+  supports:
+    symmetric: false
+    requires: [confidence, evidence]
+    meaning: from-page's claim gives evidence for to-page's claim
+  extends:
+    symmetric: false
+    requires: [confidence, evidence]
+    meaning: from-page adds to to-page without disputing it
+  contradicts:
+    symmetric: true
+    requires: [confidence, evidence]
+    effect: both wiki pages carry status contested until a question resolves it
+  supersedes:
+    symmetric: false
+    requires: [evidence]
+    effect: to-page gets superseded_by = from-page; the older page never raises a question alone
+  same_as:
+    symmetric: true
+    requires: [confidence, evidence]
+    effect: a merge proposal; requires /tetraframe before the pages are merged
+  mentions:
+    symmetric: false
+    requires: []
+    confidence_default: low
+    meaning: from-page names to-page without a claim about it
+
+targets:
+  wiki: "[[slug]] — resolves to Wiki/**/<slug>.md; reverse link written per xref.yaml"
+  codex: "codex:<slug> — a Codex/GLOSSARY.md entry; terminal: never a reverse link, never auto-created"
+  canon: "canon:<file>#<heading> — a Canon/ passage; terminal: never a reverse link, never auto-created"
+
+cascade_risk:
+  # quicky-wiki: a claim many pages depend on deserves a look when its page is contested.
+  min_dependents: 5
+  over: [supports, extends]
+  report_only: true

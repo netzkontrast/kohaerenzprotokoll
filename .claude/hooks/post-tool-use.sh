@@ -27,6 +27,24 @@ except Exception:
 [ ! -f "$filepath" ] && exit 0
 
 case "$filepath" in
+    */Wiki/index.md|*/Wiki/concept-table.md|*/Wiki/graph/*|Wiki/index.md|Wiki/concept-table.md|Wiki/graph/*)
+        echo ""
+        echo "⚠  RENDERED WIKI VIEW EDITED: $filepath"
+        echo "  index.md, concept-table.md and graph/ are tools-only (Wiki/schema/conventions.yaml)."
+        echo "  Edit the pages, then run: python3 scripts/render_wiki_views.py"
+        echo ""
+        ;;
+    */Wiki/*.md|Wiki/*.md)
+        if [ -f "$root/scripts/wiki_lint.py" ]; then
+            out=$(python3 "$root/scripts/wiki_lint.py" --hook "$filepath" 2>&1)
+            if [ -n "$out" ]; then
+                echo ""
+                echo "⚠  WIKI LINT (scripts/wiki_lint.py, warn-only; the gate before /wiki-promote is strict):"
+                echo "$out"
+                echo ""
+            fi
+        fi
+        ;;
     */chapters/[0-9][0-9]-*.md)
         out=$(python3 "$root/scripts/lint_chapter.py" --hook "$filepath" 2>&1)
         if [ -n "$out" ]; then

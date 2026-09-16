@@ -1,0 +1,48 @@
+---
+title: "{{title}}"
+kind: question
+slug: {{slug}}
+axis: {{axis}}
+status: open
+concepts: [{{concept_slugs}}]
+evidence:
+  - citation: "^[Sources/drive/{{source_slug}}.md:{{start}}-{{end}}]"
+    grade: {{evidence_grade}}
+owner: author
+decision_ref:
+tetraframe_run:
+revisit:
+tags: []
+---
+<!-- One open question about our understanding of the novel (Wiki/schema/entities.yaml → kinds.question).
+     Axes: incompleteness (research assumes what Canon does not say) · incorrectness (research and Canon,
+     or two work documents, disagree) · redundancy (two concepts that are one, or one that is two).
+     Written as draft by /interrogate-canon or /clarify; the author triages (Rule 0).
+     escalated requires decision_ref (D-xx); parked requires revisit; a question that would supersede,
+     merge or contradict a reviewed page cites a tetraframe_run before it is escalated. -->
+
+## Question
+
+{{question}}
+
+## Evidence
+
+<!-- Every item cited and graded: HIGH exact quote in both · MEDIUM inferred across pages · LOW ambiguous naming. -->
+- {{evidence_grade}} — „{{quote}}“ ^[Sources/drive/{{source_slug}}.md:{{start}}-{{end}}]
+
+## What Canon says
+
+> {{canon_quote}}
+
+— canon:{{canon_file}}#{{canon_heading}}
+
+## Candidate answers
+
+<!-- After /tetraframe: the four corners (P · not-P · both · neither) as candidates, P* marked.
+     The run never decides; the author does. -->
+1. {{candidate}}
+
+## Resolution
+
+<!-- answered from Canon (cite it) · parked (revisit date) · escalated (D-xx, then Canon edit → /ingest → Codex).
+     Empty while status is open. -->

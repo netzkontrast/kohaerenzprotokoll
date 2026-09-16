@@ -1,0 +1,34 @@
+{
+  "candidates": {},
+  "concepts": {
+    "by_canon_status": {},
+    "by_confidence": {}
+  },
+  "contested": [],
+  "edges": {
+    "by_type": {},
+    "total": 0
+  },
+  "pages": {
+    "concept": {},
+    "question": {},
+    "source": {},
+    "synthesis": {}
+  },
+  "questions": {
+    "by_axis": {},
+    "by_status": {}
+  },
+  "sources": {
+    "by_tier": {},
+    "ingested": 0,
+    "manifest": {
+      "by_tier": {
+        "T2-theory": 172,
+        "T3-work": 508
+      },
+      "exported": 1,
+      "total": 680
+    }
+  }
+}

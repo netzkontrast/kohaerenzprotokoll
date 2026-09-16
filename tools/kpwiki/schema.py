@@ -1,8 +1,11 @@
 """Pydantic models shared by the kpwiki signatures, metrics and wiki lint.
 
-These mirror the page contract in Wiki/SCHEMA.md (Plan/wiki concept §3). The
-enums are closed on purpose: a program that cannot fit a value must fail
-loudly (Rule 0) rather than invent a new category.
+The page-level enums are built from ``Wiki/schema/entities.yaml`` at import
+time (Wiki/SCHEMA.md, Plan/wiki concept §3.2), so the YAML stays the single
+source of truth and nothing here can drift from it. ``ClaimKind`` is a
+claim-level enum of the extraction step and has no page field. The enums are
+closed on purpose: a program that cannot fit a value must fail loudly
+(Rule 0) rather than invent a new category.
 """
 from __future__ import annotations
 
@@ -10,24 +13,22 @@ from typing import Literal
 
 from pydantic import BaseModel, Field, model_validator
 
+from . import wiki_schema
+
 # Where a source sits relative to the novel. T0/T1/T4 are set deterministically
 # by the inventory (duplicates, superseded drafts, out of scope); the LLM only
 # decides between T2 (external theory) and T3 (work-related).
-SourceTier = Literal["T0-duplicate", "T1-superseded", "T2-theory", "T3-work", "T4-out-of-scope"]
+SourceTier = Literal[tuple(wiki_schema.enum_values("tier"))]
 
 # The Drive index sections, collapsed to a stable enum.
-SourceCategory = Literal[
-    "kernkonzept", "plot-outline", "charaktere", "worldbuilding", "storyform",
-    "audit", "theorie-mathematik", "theorie-logik", "theorie-physik",
-    "theorie-psychologie", "theorie-philosophie", "theorie-genre", "aegis", "unzugeordnet",
-]
+SourceCategory = Literal[tuple(wiki_schema.enum_values("category"))]
 
 ClaimKind = Literal["fact", "rule", "definition", "plot", "character", "world", "theory", "decision", "question"]
 
 # How a research claim relates to Canon/ (never a judgement about Canon itself).
-CanonRelation = Literal["consistent", "extends", "contradicts", "unrelated", "unknown"]
+CanonRelation = Literal[tuple(wiki_schema.enum_values("canon_relation"))]
 
-Confidence = Literal["high", "medium", "low"]
+Confidence = Literal[tuple(wiki_schema.enum_values("confidence"))]
 
 
 class Citation(BaseModel):

@@ -1,0 +1,33 @@
+# Forward link ⇒ reverse link, written in the same operation (AutoSci xref).
+# scripts/wiki_lint.py reports asymmetry (rule xref-symmetry) and completes the
+# reverse with --fix. Terminal targets (Codex/, Canon/) never get a reverse.
+version: 1
+
+rules:
+  - id: source-mentions-concept
+    forward: {kind: source, where: body, form: "[[<concept-slug>]]"}
+    reverse: {kind: concept, where: frontmatter.sources, action: append_slug}
+
+  - id: concept-lists-source
+    forward: {kind: concept, where: frontmatter.sources, form: "<source-slug>"}
+    reverse: {kind: source, where: section "Entities", form: "[[<concept-slug>]]", action: append_link}
+
+  - id: question-about-concept
+    forward: {kind: question, where: frontmatter.concepts, form: "<concept-slug>"}
+    reverse: {kind: concept, where: section "Open questions", form: "[[<question-slug>]]", action: append_link}
+
+  - id: concept-supersedes-concept
+    forward: {kind: concept, where: edges.supersedes, form: "<concept-slug>"}
+    reverse: {kind: concept, where: frontmatter.superseded_by, action: set_slug}
+
+  - id: source-supersedes-source
+    forward: {kind: source, where: frontmatter.supersedes, form: "<source-slug>"}
+    reverse: {kind: source, where: frontmatter.superseded_by, action: set_slug}
+
+  - id: synthesis-uses-page
+    forward: {kind: synthesis, where: frontmatter.sources, form: "<slug>"}
+    reverse: none          # filed answers are leaves; nothing points back at them
+
+terminal:
+  - {prefix: "codex:", meaning: Codex/GLOSSARY.md entry, reverse: none, auto_create: never}
+  - {prefix: "canon:", meaning: Canon/ passage, reverse: none, auto_create: never}

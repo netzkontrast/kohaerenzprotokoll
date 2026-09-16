@@ -1,0 +1,54 @@
+---
+title: "{{title}}"
+kind: source
+slug: {{slug}}
+drive_id: {{drive_id}}
+tier: {{tier}}
+category: {{category}}
+language: {{language}}
+status: draft
+sha256: {{sha256}}
+ingested: {{ingested}}
+truncated: false
+supersedes:
+superseded_by:
+aliases: []
+tags: []
+---
+<!-- One page per Drive document of tier T1, T2 or T3 (Wiki/schema/entities.yaml → kinds.source).
+     Written by /research-ingest into Wiki/candidates/, moved here by /wiki-promote.
+     Summaries in English; quotes stay in the source language and are never translated. -->
+
+## Summary
+
+{{summary}}
+
+## Key claims
+
+<!-- One atomic claim per item, each with a citation whose quoted fragment is in the cited lines.
+     A T1-superseded source never raises a question on its own (D-W6). -->
+- „{{quote}}“ — {{claim}} ^[Sources/drive/{{slug}}.md:{{start}}-{{end}}]
+
+## Entities
+
+<!-- [[concept-slug]] for every concept, character, world, rule or motif the source is about;
+     codex:<slug> for glossary entries. The reverse (concept → sources) is written in the same operation. -->
+- [[{{concept_slug}}]]
+
+## Canon relation
+
+<!-- consistent · extends · contradicts · unrelated · unknown — with the Canon file, heading and a
+     German excerpt. Canon is `unverified` inside this loop (D-W12): a conflict is an open question,
+     never a verdict. Quote [K]/[V] text; never write [K] yourself. -->
+{{canon_relation}} — canon:{{canon_file}}#{{canon_heading}}
+
+> {{canon_excerpt}}
+
+## Open questions
+
+<!-- [[question-slug]] links only; the question pages carry the evidence. -->
+
+## Log
+
+<!-- Mirror of this page's lines in Wiki/log.md, newest last. -->
+- {{ingested}} ingest by {{skill}}
