@@ -101,7 +101,7 @@ What the CLI backend cannot do, and what that means for the programs:
 | no `temperature`, `max_tokens`, `rollout_id` (stripped in `copy()`, rejected in the constructor) | `TetraFrame` corner diversity comes from the four contract docstrings only — read `branch_independence` strictly; GEPA's `reflection_lm` runs at the CLI's default temperature |
 | `cache=False` is mandatory | no `DSPY_CACHEDIR` hits; re-runs cost a call each; keep gold sets small and use `dspy.Evaluate(num_threads=1)` |
 | one completion per call (`n=1`) | `dspy.BestOfN` / `dspy.Refine` still work (they loop), just slower |
-| ~5–10 s latency per call, sequential | budget: a `SourceIngest` run ≈ 3 calls; a `TetraFrame` run ≈ 8 + BestOfN retries; GEPA `auto="light"` on 20 examples ≈ a few hundred calls → run it in the background and set `max_metric_calls` |
+| ~5–10 s latency per short call, minutes for a large typed output; one call is bounded by `KP_LM_CLI_TIMEOUT` (default 1800 s) | budget: a `SourceIngest` run ≈ 3 calls; a `TetraFrame` run ≈ 8 + BestOfN retries; GEPA `auto="light"` on 20 examples ≈ a few hundred calls → run it in the background and set `max_metric_calls` |
 | the CLI's `plan` permission mode | the model cannot execute tools; pure text in, text out — exactly what DSPy needs |
 
 GEPA through the CLI: `configure("task")` for the program,

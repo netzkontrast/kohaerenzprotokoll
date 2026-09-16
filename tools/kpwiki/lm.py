@@ -18,8 +18,9 @@ Two backends (``KP_LM_BACKEND``):
                  ``claude-cli`` when a ``claude`` binary is on PATH, else ``api``
                  (so a missing key fails at first call, loudly, not at import).
 
-``KP_LM_CLI_TIMEOUT`` (seconds, default 300) bounds one CLI call; a stage that
-returns a large typed object on ``claude/opus`` can need 900.
+``KP_LM_CLI_TIMEOUT`` (seconds, default 1800) bounds one CLI call; a stage that
+returns a large typed object on ``claude/opus`` was measured above 300 s, so the
+default is generous and a run is bounded by its caller, not by this value.
 The CLI backend strips ``temperature``, ``max_tokens`` and ``rollout_id`` (the
 CLI does not expose them) and must run with ``cache=False``; programs that
 rely on ``lm.copy(rollout_id=…)`` for diversity (TetraFrame corners) get it
@@ -56,7 +57,7 @@ ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_CACHE_DIR = ROOT / ".cache" / "dspy"
 REFLECTION_MAX_TOKENS = 32000
 TASK_MAX_TOKENS = 16000
-CLI_TIMEOUT_SECONDS = 300          # default; KP_LM_CLI_TIMEOUT overrides (large structured outputs on opus need ~900)
+CLI_TIMEOUT_SECONDS = 1800         # 30 min per CLI call by default; KP_LM_CLI_TIMEOUT overrides
 
 
 def _check_role(role: str) -> None:
