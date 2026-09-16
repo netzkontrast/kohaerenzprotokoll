@@ -1,6 +1,9 @@
 # DSPy base for the Kohärenz Protokoll LLM tooling (tools/kpwiki).
 # Pinned to the DSPy release the dspy-agent-skills pack is validated against.
-dspy==3.2.1
+# The pack moved to 3.3.1 in its v0.11.0; DSPy 3.3.0 renamed dspy.RLM's
+# max_iterations to max_iters and swapped interpreter= for interpreter_factory=.
+# tools/kpwiki uses none of the renamed APIs, so this bump needs no code change.
+dspy==3.3.1
 pydantic>=2.7
 pyyaml>=6.0
 pytest>=8.0

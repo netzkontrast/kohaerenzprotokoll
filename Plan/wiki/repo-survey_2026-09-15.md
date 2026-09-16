@@ -20,6 +20,16 @@ The synthesis that uses these findings is
 | `quicky-wiki` | TypeScript claim graph: confidence, epistemic events, cascade propagation, knowledge diff on ingest, metabolism/redteam | MIT | **knowledge diff, epistemic event log, cascade idea**; skip decay |
 | `llm-tldr` | code-structure extractor (AST→PDG), daemon, FAISS; content-hash dedup, dirty-flag batching, durability partitioning | AGPL-3.0 | **operational patterns only**: dedup, batching thresholds, durable vs volatile |
 
+> **Update 2026-09-16 — the `dspy-agent-skills` row has moved on.** The table
+> above is the snapshot as surveyed and is left as written. Since then the pack
+> has grown from 5 skills to **32** (v0.11.0) and from 114 tests to **633**, and
+> it retargeted from DSPy 3.2.x to **3.3.1**. This repo's pin followed in
+> `requirements-dspy.txt`; `tools/kpwiki/` needed no code change, because the
+> two breaking renames in DSPy 3.3.0 (`dspy.RLM`'s `max_iterations` → `max_iters`,
+> and `interpreter=` → `interpreter_factory=` on `RLM`/`ProgramOfThought`/`CodeAct`)
+> land on APIs this repo does not call. Current state:
+> [docs/dspy-base.md](../../docs/dspy-base.md). The adoption verdict is unchanged.
+
 ## The concept catalogue (what we take, from where)
 
 ### Layers and ownership
