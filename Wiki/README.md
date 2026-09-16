@@ -27,7 +27,7 @@ every reading says what kind of statement it is.
 **Stance belongs to a passage, not to a document** (decision 004). The documents
 themselves say so: one of the three read labels its passages 38 times, with six
 different labels — eight of them *describing* the thing it goes on to reject.
-Another marks 25 passages as premises quoted back from its commission. A single
+Another marks 26 passages as premises quoted back from its commission. A single
 label per file could only ever record the loudest one.
 
 | a reading is | when |

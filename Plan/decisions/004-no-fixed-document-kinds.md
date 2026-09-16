@@ -50,7 +50,7 @@ Document 2 labels its own passages **38 times**, with six distinct labels:
 Calling that document `critique` throws away 38 explicit markers, including the
 eight passages where it neutrally *describes* the thing it later rejects.
 
-Document 3 marks **25 passages** with `[User Query]` — premises quoted back from
+Document 3 marks **26 passages** with `[User Query]` — premises quoted back from
 its commission, sitting inside what a single enum value would call a finding.
 
 **So stance is a property of a passage, and the documents already say so.** The

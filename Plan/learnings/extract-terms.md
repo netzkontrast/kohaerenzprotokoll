@@ -153,7 +153,7 @@ Decision 004 removed the document-kind enum. What replaced it changed this step:
 The `repeated labels` probe finds document 2's convention exactly — six labels,
 38 occurrences, `Beschreibung x8` through `Probleme x4`.
 
-**And it reports `none` for document 3, which marks 25 passages.** Document 3's
+**And it reports `none` for document 3, which marks 26 passages.** Document 3's
 markers are `\[User Query\]` inline in running prose, not bold headings, so a
 probe built on one document's convention is blind to the other's.
 
@@ -173,6 +173,55 @@ Format does not follow from purpose, measured across the three read:
 | zero-width spaces | 0 | 100 | 0 |
 | repeated labels | none | 6 | none |
 | question marks | 22 | 25 | 23 |
+
+## What document 3 added, extracted independently
+
+71 candidates from 331 lines. Two special cases, and the first one is the worst
+found so far.
+
+**15. German inflection defeats exact matching, and it is not a corner case.**
+`Thermodynamik` as a noun occurs **zero times** in a document that argues about
+thermodynamics five times — as `thermodynamischen` (4) and `thermodynamischer`
+(1). A string-keyed census records the term as absent.
+
+Worse on a term that carries a conflict: **`emergent` appears in seven distinct
+surface forms** — Emergente, Emergentes, emergente, emergentem, emergenten,
+emergenter, emergentes — 13 occurrences, beside 13 of the noun `Emergenz`. A
+string-keyed index sees eight terms where there is one. Document 2 has the same
+split in different proportions (20 nouns, 8 adjectives across four forms).
+
+This is the case for stemming, and it is also the case *against* doing it
+blindly: `Negentropie` contains `entropie` and means its opposite, so a stemmer
+that is merely aggressive merges a term with its negation.
+
+**16. A document abbreviates its own central term halfway through.**
+`Kael-Julia-Bindung` 16 times, then `K-J-Bindung` 5 times from ^[L151]. Nothing
+announces the switch. Document 2 did the same thing by a different route — its
+summary table renaming five of eight protocols — so **two of three documents
+rename their own terms internally.**
+
+## The three-way comparison changed the pair's rule
+
+`Wiki/compare/002` supersedes `001`, which is itself a finding: **a comparison
+written at n=2 should expect to be superseded.**
+
+Five terms appear in all three documents; sixteen of 33 appear in exactly one.
+
+001 said string identity is anti-correlated with semantic identity. With three
+documents a sharper statement holds: **of the five terms in all three, the three
+the project owns each carry a conflict and the two it borrowed carry none.**
+
+A borrowed term is stable because its meaning is anchored outside the corpus. A
+project term drifts because nothing anchors it. So the test for where conflicts
+live costs no reading at all — *does this word mean something outside this
+project?* — and is made once per term.
+
+**`Kohärenz` is the proof.** One occurrence in document 1, 48 in document 2, 25
+in document 3, and two incompatible senses that only emerged at n=3: system
+stability measured by redundancy, and truth-by-self-consistency, which document 2
+criticises as risking solipsism. **A reading of document 1 would have dropped it
+entirely** — it carries nothing there on its own, and it is in the census only
+because the census is exhaustive.
 
 ## How this was actually done — the procedure, step by step
 
