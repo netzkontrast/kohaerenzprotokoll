@@ -38,6 +38,32 @@ through a context would have cost millions of tokens to move bytes between two
 disks. Instead the agent makes one call, sees a path, and a console tool does
 the rest.
 
+### 1b. Only *large* results spill. Small ones land in the caller's context — *measured, and it cost me*
+
+Learning 1 is true above a size threshold and false below it. A `.docx` whose
+`fileContent` was ~30,000 characters came back **inline**, straight into the
+calling context — roughly 10k tokens for one document.
+
+This is the sharpest operational constraint in the whole fetch, and it inverts
+the naive plan:
+
+> **The main session must never fetch.** Every document below the spill
+> threshold enters its context in full. At 654 documents this is millions of
+> tokens spent moving bytes, which is precisely what learning 1 appeared to
+> have solved.
+
+Fetching is therefore always delegated to a subagent, whose context absorbs the
+inline case and is discarded afterwards. The subagent reports counts, never
+content.
+
+Consequence for the tool: `land` cannot assume a spill file exists. It needs a
+path for content that arrived inline — `--stdin` — so a subagent can pipe what
+it received without the main session ever seeing it.
+
+*Discovered by doing it wrong:* fetching
+`AEGIS Singularität jenseits Entropiegleichung .docx` directly, which put the
+whole document into the session that was trying to avoid exactly that.
+
 ### 2. The spill arrives as an *error*, not a result — *measured*
 
 The call reports `result (78,383 characters) exceeds maximum allowed tokens`.

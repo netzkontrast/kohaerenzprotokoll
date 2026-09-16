@@ -244,12 +244,23 @@ def cmd_next(args: argparse.Namespace) -> int:
 
 
 def cmd_land(args: argparse.Namespace) -> int:
-    """Take a spilled Drive result and land it as a source document."""
+    """Land a Drive result as a source document, however it arrived.
+
+    Large results spill to a file and are read from there. Small ones come back
+    inline in the caller's context, so `--stdin` lets a subagent pipe what it
+    received without the content passing through the main session.
+    """
     rows = load_manifest()
     row = find_row(rows, args.drive_id)
 
-    spill = Path(args.spill) if args.spill else newest_spill()
-    raw = read_spill(spill)
+    spill: Path | None = None
+    if args.stdin:
+        raw = sys.stdin.read()
+        if not raw.strip():
+            raise SystemExit("--stdin given but nothing arrived on stdin")
+    else:
+        spill = Path(args.spill) if args.spill else newest_spill()
+        raw = read_spill(spill)
     body = normalize(raw)
 
     slug = row.get("slug") or re.sub(r"[^a-z0-9]+", "-", row.get("title", "").lower()).strip("-")
@@ -270,7 +281,7 @@ def cmd_land(args: argparse.Namespace) -> int:
     words = len(body.split())
     print(f"landed {target.relative_to(ROOT)}  "
           f"{target.stat().st_size:,} bytes · {words:,} words · sha {row['sha256'][:12]}")
-    if args.consume:
+    if args.consume and spill is not None:
         spill.unlink()
         print(f"  removed spill {spill.name}")
     return 0
@@ -290,9 +301,11 @@ def main(argv: list[str] | None = None) -> int:
     nxt.add_argument("--tier")
     nxt.set_defaults(fn=cmd_next)
 
-    land = sub.add_parser("land", help="land the spilled Drive result for one document")
+    land = sub.add_parser("land", help="land a Drive result for one document")
     land.add_argument("--drive-id", required=True)
     land.add_argument("--spill", help="defaults to the newest spill file")
+    land.add_argument("--stdin", action="store_true",
+                      help="read the document from stdin, for results that came back inline")
     land.add_argument("--force", action="store_true", help="overwrite an existing file")
     land.add_argument("--consume", action="store_true", help="delete the spill after landing")
     land.add_argument("--today", help="override the fetch date (for reproducible runs)")
