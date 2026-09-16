@@ -35,6 +35,7 @@ GATES: list[tuple[str, list[str], str]] = [
     ("source manifest", ["scripts/source_inventory.py", "--check"], "re-run source_inventory.py"),
     ("claim provenance", ["scripts/audit_graph_claims.py"], "a claim points into Wiki/ (D-W2)"),
     ("storyform", ["scripts/storyform_check.py"], "a storyform row could not be read"),
+    ("world axioms", ["scripts/world_check.py"], "the worlds or axioms are unreadable"),
     ("chapter drift", ["scripts/chapter_drift.py"], "the graph or the manuscript is unreadable"),
 ]
 

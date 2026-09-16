@@ -142,9 +142,9 @@ class Graph:
         return dict(out)
 
 
-def load(root: Path | None = None) -> Graph:
+def load(root: Path | str | None = None) -> Graph:
     """Load ``Graph/`` under ``root`` (the repository root by default)."""
-    base = (root or ROOT) / GRAPH_DIR
+    base = Path(root or ROOT) / GRAPH_DIR
     by_label = {label: read_jsonl(base / NODES_DIR / f"{stem}.jsonl")
                 for stem, label in LABELS.items()}
     return Graph(by_label, read_jsonl(base / EDGES_FILE))

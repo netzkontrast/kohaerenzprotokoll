@@ -2,9 +2,11 @@
 
 These files are **rendered** from `Graph/` by
 `python3 scripts/render_codex_views.py` and are write-protected in
-`.claude/settings.json`. Do not edit them by hand: change the graph through
-capability verbs (`create_codex_entry`, `update_codex_entry`,
-`record_story_event`, `create_world_axiom`, …) and re-render.
+`.claude/settings.json`. Do not edit them by hand: change the record in
+`Graph/nodes/*.jsonl` — by hand, or through `tools/kpgraph/writer.py`
+(`create_codex_entry`, `create_world_axiom`, `record_story_event`, …) — and
+re-render. A new level or population is derived through `/kp-world`, which
+ends by writing those records.
 
 | File | Source nodes | Purpose |
 |---|---|---|
@@ -13,6 +15,9 @@ capability verbs (`create_codex_entry`, `update_codex_entry`,
 | `WORLD-AXIOMS.md` | WorldAxiom (111) + World (7) | hard/soft rules per Kernwelt / Ebene |
 
 `python3 scripts/render_codex_views.py --check` exits 1 when the views lag
-the graph (the session-start hook reports this). Normative on conflict is
-always `Canon/`, specifically `kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`.
-Background: `docs/worldcodex-integration.md`.
+the graph (the session-start hook reports this), and
+`python3 scripts/world_check.py` reports axiom pairs worth reading together.
+Both run inside `python3 scripts/kp_check.py`. Normative on conflict is always
+`Canon/`, specifically `kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`.
+Layout of the source records: `Graph/README.md`. Provenance of this layer:
+`docs/worldcodex-integration.md`.

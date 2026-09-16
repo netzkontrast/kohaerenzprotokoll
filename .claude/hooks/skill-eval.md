@@ -13,6 +13,7 @@ Routing for Kohärenz Protokoll:
 Commands, when the request is a stage of the pipeline rather than a question:
 - New research documents to fold in → /research-ingest, then /kp-promote.
 - A Canon/ document changed → /kp-canon.
+- A new Kernwelt, level, sub-locality, population or world axiom → /kp-world.
 - Drafting or revising a scene → /kp-write.
 - "Is this consistent / healthy / done?" → /kp-check.
 - A question the repository can answer → /kp-ask.

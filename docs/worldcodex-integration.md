@@ -4,6 +4,34 @@ Vendored from <https://github.com/alainator/worldcodex> (MIT — see
 `docs/worldcodex-LICENSE.txt`), upstream commit `4f58f2b42fb6bdb5efbfd24839f91298670c0e39`
 (2026-05-02, "feat: 7 learnings from regional derivation …"), integrated 2026-09-15.
 
+## Status — consolidated 2026-09-16
+
+**This document is the provenance record of the vendored layer, not a
+description of the current surface.** On 2026-09-16 the Agency plugin was
+removed and the suite was consolidated: 19 vendored skills plus 9 project
+skills became **4 skills**, 5 commands became **9**, and the provenance graph
+moved out of `.agency/session.db` into `Graph/` as plain JSONL. What the
+vendored suite contributed survives, but rarely under its original name:
+
+| vendored | where it lives now |
+|---|---|
+| `writing-worldbuilding`, `designing-worlds`, `designing-lore`, `deriving-social-systems`, `auditing-human-assumptions`, `/civilization-build` | `/kp-world` (the derivation chain, with hard checkpoints) and `novel-architect/reference/world.md` |
+| `auditing-canon`, `cross-checking`, `verifying-completion`, `/lint-wiki`, `/full-audit-canon` | `scripts/kp_check.py` (eight deterministic gates) and the reading discipline it names |
+| `canon-rules` | `docs/canon-rules/` — reference material, not a workflow |
+| `researching-papers`, `integrating-research` | `/kp-ask` and `scripts/research-tool.py` |
+| `interrogating-design`, `planning-worldbuilding` | `/tetraframe` and `/clarify` |
+| `/ingest` | `/kp-canon` (`Canon/` → `Graph/`) |
+| `/query` | `/kp-ask` (a cited answer from the repository) |
+| `deep-reading`, `extracting-entities`, `compiling-entities`, `writing-science`, `writing-style`, `code-clarifier` | removed; the capability was generic and the repo's own tools cover it |
+| the graph | `Graph/` — one JSONL file per node label, read by `tools/kpgraph` |
+| `find_axiom_contradictions` (engine verb) | `scripts/world_check.py`, re-derived for German text |
+
+The hooks and the three agents survive unchanged in purpose. The sections
+below describe the 2026-09-15 integration as it was performed, and are kept
+because they explain why the mapping is what it is.
+
+## How the suite was adapted (2026-09-15)
+
 The suite is not a drop-in copy. Its generic wiki model (GLOSSARY.md, MASTER-TIMELINE.md,
 `_index.md`, `meta/LOG.md`, `physics/` directories) was mapped onto what this repo already
 has: a normative `Canon/` corpus, a provenance graph with ~600 codex entries, Plan/ documents,
@@ -16,19 +44,19 @@ and agent at the real files. Engineering language is English; canon prose stays 
 | Upstream concept | Here | Why |
 |---|---|---|
 | Raw sources (read-only) | `Canon/` (storyform-und-outline normative), `Plan/drafting/sources/` | already the immutable reference layer |
-| The wiki (LLM-maintained) | `.agency/session.db` (CodexEntry, StoryTimeEvent, WorldAxiom, World, NovelClaim) | graph verbs record provenance; a Markdown copy would drift (Plan/sessions learnings §2) |
+| The wiki (LLM-maintained) | `Graph/` (CodexEntry, StoryTimeEvent, WorldAxiom, World, NovelClaim) — was `.agency/session.db` until 2026-09-16 | one record per line, greppable and diffable; a second hand-maintained Markdown copy would drift (Plan/sessions learnings §2) |
 | `GLOSSARY.md` | `Codex/GLOSSARY.md` — **generated** by `scripts/render_codex_views.py` | 602 entries, grouped by codex `kind` + `**Kategorie:**` |
 | `MASTER-TIMELINE.md` | `Codex/MASTER-TIMELINE.md` — generated | 56 StoryTimeEvents bucketed by story phase, with HAPPENS_AT / REVEALED_IN scene links |
 | physics backend / foundational axiom | DKT (Canon begriffe §1–§2, §14) + `Codex/WORLD-AXIOMS.md` — generated | 111 axioms in 7 Worlds |
 | `_index.md` | `Canon/README.md`, `chapters/README.md`, `.claude/skills/PROJECT_REFERENCES.md` | existing indexes |
-| `meta/LOG.md` | `Plan/sessions/<date>-learnings.md` + `reflect_note` (graph) | existing session-log convention |
+| `meta/LOG.md` | `Plan/sessions/<date>-learnings.md` | existing session-log convention |
 | `meta/plans/` | `Plan/worldbuilding/` (world builds), `Plan/drafting/` (chapters) | existing plan tree |
-| `meta/design-decisions/` | `Plan/drafting/decision-log*.md` (D-xx), `record_storyform_decision`, `Plan/worldbuilding/decisions/` | decisions already live there |
+| `meta/design-decisions/` | `Plan/drafting/decision-log*.md` (D-xx), `Graph/nodes/decision_record.jsonl`, `Plan/worldbuilding/decisions/` | decisions already live there |
 | `_source/research/` | `Plan/research/` (downloads git-ignored, INDEX.md committed) | keeps the repo tree |
 | `WRITING.md` | `WRITING.md` (root) — generated from drafting brief + Canon §10/§12 + Sprach-DNA | tokens the hooks and lints read |
 | `CURRENT_TASK.md` | `.claude/CURRENT_TASK.md` (git-ignored) | unchanged |
 | `tools/research-tool.py` | `scripts/research-tool.py` | repo keeps tools in `scripts/` |
-| civilization derivation chain | Kernwelt derivation chain (`/civilization-build`) | planet→biology becomes Ebene→Logik-Regime→DKT→Sensorik→Bewohner→Ordnung→Register→Geschichte |
+| civilization derivation chain | Kernwelt derivation chain (`/kp-world`) | planet→biology becomes Ebene→Logik-Regime→DKT→Sensorik→Bewohner→Ordnung→Register→Geschichte |
 
 ## What was vendored and how it was adapted
 

@@ -21,10 +21,11 @@ SKILLS (4 — .claude/skills/):
   lit-critic        editorial review of chapter prose
   Shared data map: .claude/skills/PROJECT_REFERENCES.md
 
-COMMANDS (8 — one per stage of the pipeline):
+COMMANDS (9 — one per stage of the pipeline):
   /research-ingest  Sources/ → Wiki/candidates/ via BatchCompile
   /kp-promote       a reviewed candidate → Wiki/sources/ or Wiki/concepts/
   /kp-canon         Canon/ → Graph/, then re-render the Codex views
+  /kp-world         derive a Kernwelt/level/population, land it in Graph/ → Codex/
   /kp-write         draft or revise a scene; the knowledge fences and the checks
   /kp-check         every free gate at once
   /kp-ask           a cited answer from the repository, never from memory
@@ -40,6 +41,7 @@ DETERMINISTIC TOOLS (free, no API key, no network — run before declaring done)
   python3 scripts/kp_check.py [--chapters]     — every gate below, at once
   python3 scripts/lint_chapter.py [file]       — R-rule / Act-I fence lint (also a hook)
   python3 scripts/storyform_check.py           — the decidable Dramatica rows on both NCPs
+  python3 scripts/world_check.py               — world-axiom pairs worth reading together
   python3 scripts/render_codex_views.py        — Codex views from Graph/
   python3 scripts/chapter_drift.py             — where Graph/ and Manuscript/ diverge
   python3 scripts/check_enrichment.py          — prose was inserted, never altered

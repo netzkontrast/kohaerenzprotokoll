@@ -44,14 +44,15 @@ Inside the research-wiki loop Canon is `unverified` until checked against the
 populated wiki, and a Canon/research conflict is an open question with no
 default winner (D-W12).
 
-## The workflow — eight commands
+## The workflow — nine commands
 
 ```
 Drive → Sources/ ──/research-ingest──→ Wiki/candidates/ ──/kp-promote──→ Wiki/
-                                                                          │
-Canon/ ──/kp-canon──→ Graph/ ──renders──→ Codex/                 a D-xx decision
-                        │                                                 ↓
-                        └──/kp-write──→ Manuscript/                    Canon/
+                                                                            │
+Canon/ ──/kp-canon──┐                                              a D-xx decision
+                    ├──→ Graph/ ──renders──→ Codex/                         │
+        /kp-world ──┘        │                                              ↓
+                             └──/kp-write──→ Manuscript/                 Canon/
 ```
 
 | command | does |
@@ -59,6 +60,7 @@ Canon/ ──/kp-canon──→ Graph/ ──renders──→ Codex/            
 | `/research-ingest` | a batch of exported sources → candidate pages, a knowledge diff, a metric score |
 | `/kp-promote` | a reviewed candidate → `Wiki/sources/` or `Wiki/concepts/` |
 | `/kp-canon` | `Canon/` → `Graph/`, then re-render the Codex views |
+| `/kp-world` | derive a Kernwelt, level or population through the chain, then land it in `Graph/` |
 | `/kp-write` | draft or revise a scene, with its knowledge fences and checks |
 | `/kp-check` | every free gate at once |
 | `/kp-ask` | a cited answer from the repository, never from memory |
@@ -77,9 +79,9 @@ python3 scripts/kp_check.py [--chapters]
 ```
 
 One command, every deterministic gate: wiki health, rendered wiki and Codex
-views, the source manifest, claim provenance (D-W2), both storyforms, chapter
-drift, and optionally every chapter lint. Free — no API key, no network — so
-there is no reason to skip it.
+views, the source manifest, claim provenance (D-W2), both storyforms, the world
+axioms, chapter drift, and optionally every chapter lint. Free — no API key, no
+network — so there is no reason to skip it.
 
 Two results are expected and are not defects: Storyform B fails rows 2 and 10
 (its documented heterodox signposts, Canon-Lock), and chapter drift reports
@@ -144,6 +146,14 @@ intervention. Arc III (27–40): intent → confrontation capacity → truth
 rotation → insufficient replacement order → plural preservation. 35/36 are the
 operative storyform turn; 37 is a real but non-scalable false victory; 38/39
 are synthesis; 40 is coda, not explanation.
+
+**Worlds.** 7 levels carrying 111 axioms. A new Kernwelt, level, sub-locality
+or population is derived through `/kp-world` — Ebene → Logik-Regime →
+DKT-Ausdruck → Sensorik → Bewohner/Kognition → Ordnung → Sprachregister →
+Geschichte, an author checkpoint at every layer — and lands in `Graph/`.
+`scripts/world_check.py` reports axiom pairs that share rare motifs where
+exactly one side is negated; a flagged pair is a question for the author, and
+resolving one goes through `/tetraframe`.
 
 **Storyform.** Deliberately two, simultaneously. `ncp.json` is A (Kael/K₁) and
 passes all 13 decidable rows. `ncp-b.json` is B (AEGIS/K₀) and carries two
