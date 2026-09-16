@@ -80,19 +80,53 @@ existing `pytest tests/` run of the repo is unaffected.
 | reflection | `KP_LM_REFLECTION` | `anthropic/claude-opus-5` (temperature 1) | GEPA proposals |
 
 `DSPY_CACHEDIR` defaults to `.cache/dspy/` (git-ignored) so repeated runs over
-the same source are free. Model strings are DSPy/LiteLLM `provider/model`; the
-Anthropic provider reads `ANTHROPIC_API_KEY` (the same key `scripts/lit_critic_gate.py` uses).
+the same source are free. Model strings are DSPy/LiteLLM `provider/model`, so
+any LiteLLM provider works and the three roles resolve independently — a strong
+`task` with a cheap `worker` is a supported, and the cheapest, configuration.
+`tools/kpwiki/lm.py → PROVIDER_KEY_ENV` maps each provider prefix to the key it
+reads: `anthropic/…` → `ANTHROPIC_API_KEY` (the same key
+`scripts/lit_critic_gate.py` uses), `openrouter/…` → `OPENROUTER_API_KEY`.
+A role whose provider has no key warns by name when the LM is built, rather than
+failing later inside a paid run.
 
 ### Backends (`KP_LM_BACKEND`)
 
 | value | LM class | needs | role models |
 |---|---|---|---|
-| `api` | `dspy.LM` (LiteLLM) | `ANTHROPIC_API_KEY` | `KP_LM_TASK` / `KP_LM_WORKER` / `KP_LM_REFLECTION` |
+| `api` | `dspy.LM` (LiteLLM) | a key from `PROVIDER_KEY_ENV` | `KP_LM_TASK` / `KP_LM_WORKER` / `KP_LM_REFLECTION` |
 | `claude-cli` | `ClaudeLM` (`tools/kpwiki/local_lm.py`) | the `claude` CLI logged in to a Claude Code subscription | `KP_LM_CLI_TASK` / `KP_LM_CLI_WORKER` / `KP_LM_CLI_REFLECTION` (defaults `claude/opus`, `claude/haiku`, `claude/opus`) |
-| `auto` (default) | the first of the two that is available | — | `api` if the key is set, else `claude-cli` if `claude` is on PATH, else `api` (fails loudly at first call) |
+| `auto` (default) | the first of the two that is available | — | `api` if any provider key is set, else `claude-cli` if `claude` is on PATH, else `api` (fails loudly at first call) |
 
 `python -c 'from tools.kpwiki import lm; print(lm.backend())'` shows which one a
 shell resolves to.
+
+### Running on OpenRouter
+
+```bash
+export OPENROUTER_API_KEY=sk-or-…
+export KP_LM_TASK=openrouter/qwen/qwen3.7-flash
+export KP_LM_WORKER=openrouter/nvidia/nemotron-3.5-lightning:free
+```
+
+`auto` then resolves to `api` on its own. Note the doubled vendor segment —
+LiteLLM needs `openrouter/<vendor>/<model>`, and a bare `<vendor>/<model>` routes
+to that vendor's own API instead, where the OpenRouter key is not valid.
+
+Which model belongs in which role is a measurement, not a preference. The way a
+weak model fails here is not a wrong answer but prose where a closed enum
+belongs, and one attempt cannot tell a model that always emits a schema from one
+that does so half the time:
+
+```bash
+.venv-dspy/bin/python scripts/lm_bench.py \
+    --models-file Plan/quality/lm-candidates.txt --repeats 3
+```
+
+It runs `SourceIngest` on the `tools/kpwiki/smoke.py` fixture, scores it with
+`ingest_metric` — the same program and the same metric a real run is judged by,
+so there is no benchmark-only task to keep in sync — and reports schema-validity
+rate, mean score, median latency and cost per model. It ranks; the author
+assigns the roles.
 
 ### Local runtime — Claude CLI as the DSPy LM (dspy-local)
 

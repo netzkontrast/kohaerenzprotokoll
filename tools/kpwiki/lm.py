@@ -9,14 +9,20 @@ hard-coded in a program:
 
 Two backends (``KP_LM_BACKEND``):
 
-    api          ``dspy.LM`` over LiteLLM; the Anthropic provider reads ANTHROPIC_API_KEY
+    api          ``dspy.LM`` over LiteLLM. Model strings are ``provider/model``,
+                 so any LiteLLM provider works: ``anthropic/…`` reads
+                 ANTHROPIC_API_KEY, ``openrouter/…`` reads OPENROUTER_API_KEY.
     claude-cli   ``ClaudeLM`` (tools/kpwiki/local_lm.py, from Hmbown/dspy-local):
                  every call runs ``claude -p`` on the Claude Code subscription,
                  no API key. Role models are ``claude/<alias>`` (KP_LM_CLI_TASK,
                  KP_LM_CLI_WORKER, KP_LM_CLI_REFLECTION).
-    auto         (default) ``api`` when ANTHROPIC_API_KEY is set, else
+    auto         (default) ``api`` when any key in ``API_KEY_ENV`` is set, else
                  ``claude-cli`` when a ``claude`` binary is on PATH, else ``api``
                  (so a missing key fails at first call, loudly, not at import).
+
+Mixing providers across roles is supported and is the cheap configuration: a
+strong ``task``/``reflection`` model with a cheap ``worker`` costs less than one
+model everywhere, and the three roles are resolved independently.
 
 ``KP_LM_CLI_LOG`` (default ``.cache/kpwiki/cli.log``) receives one line per call
 start, progress (every 5 s) and end, with elapsed time and tokens; ``KP_LM_CLI_CWD``
@@ -58,6 +64,13 @@ DEFAULT_CLI_MODELS = {
     "reflection": "claude/opus",
 }
 BACKENDS = ("api", "claude-cli", "auto")
+# The key each LiteLLM provider prefix reads. A provider absent here is still
+# usable — it is simply not a signal for `auto` and gets no missing-key warning.
+PROVIDER_KEY_ENV = {
+    "anthropic": "ANTHROPIC_API_KEY",
+    "openrouter": "OPENROUTER_API_KEY",
+}
+API_KEY_ENV = tuple(PROVIDER_KEY_ENV.values())
 ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_CACHE_DIR = ROOT / ".cache" / "dspy"
 REFLECTION_MAX_TOKENS = 32000
@@ -77,7 +90,7 @@ def backend() -> str:
         raise ValueError(f"unknown KP_LM_BACKEND {chosen!r}; expected one of {BACKENDS}")
     if chosen != "auto":
         return chosen
-    if os.environ.get("ANTHROPIC_API_KEY"):
+    if any(os.environ.get(name) for name in API_KEY_ENV):
         return "api"
     return "claude-cli" if shutil.which("claude") else "api"
 
@@ -102,10 +115,22 @@ def _warn_ignored_api_overrides() -> None:
             RuntimeWarning, stacklevel=3)
 
 
+def _warn_missing_provider_key(role: str, model: str) -> None:
+    """Name the key a role's provider needs while the role is still changeable."""
+    key = PROVIDER_KEY_ENV.get(model.split("/", 1)[0])
+    if key and not os.environ.get(key):
+        warnings.warn(
+            f"LM role {role!r} resolves to {model!r}, whose provider reads {key} — and {key} is "
+            f"not set. Export it, or point KP_LM_{role.upper()} at a provider you hold a key for.",
+            RuntimeWarning, stacklevel=4)
+
+
 def _build_api_lm(role: str) -> dspy.LM:
+    model = model_id(role)
+    _warn_missing_provider_key(role, model)
     if role == "reflection":
-        return dspy.LM(model_id(role), temperature=1.0, max_tokens=REFLECTION_MAX_TOKENS)
-    return dspy.LM(model_id(role), temperature=0.0, max_tokens=TASK_MAX_TOKENS)
+        return dspy.LM(model, temperature=1.0, max_tokens=REFLECTION_MAX_TOKENS)
+    return dspy.LM(model, temperature=0.0, max_tokens=TASK_MAX_TOKENS)
 
 
 def _build_cli_lm(role: str) -> dspy.LM:
