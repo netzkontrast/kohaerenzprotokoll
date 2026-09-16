@@ -11,7 +11,12 @@ Engineering language is English; canon prose stays German.
   the provenance graph (`.agency/session.db`) — files, sizes, generators,
   real graph node/edge census, and every consumer/reference. Read-only;
   decides nothing.
+- [authority-matrix_2026-09-16.md](authority-matrix_2026-09-16.md) — item 2:
+  which layer is the single source of truth for each of 13 information
+  kinds. 11 rows formalize an already-enforced rule; 2 rows (the flattened
+  `kind=concept` CodexEntry bucket, and adopting character-knowledge
+  tracking) were new calls the inventory surfaced and went to the author
+  before being marked settled.
 
-Next: item 2, the authority matrix (which layer is the single source of
-truth for which kind of information), built on this inventory's §7
-cross-cutting observations.
+Next: item 3, overlaps/drift between Canon, Codex, Wiki, NCP and Manuscript
+— check the corpus against the authority matrix's rulings.

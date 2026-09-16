@@ -22,8 +22,13 @@ ziehen.
   → [Plan/codex-architecture/codex-inventory_2026-09-16.md](Plan/codex-architecture/codex-inventory_2026-09-16.md)
   (2026-09-16). Reine Bestandsaufnahme, keine Entscheidung — die
   Autoritätsmatrix (nächster Punkt) ist noch offen.
-- [ ] Autoritätsmatrix beschließen: Welche Schicht ist für welche Information
+- [x] Autoritätsmatrix beschließen: Welche Schicht ist für welche Information
   die einzige Quelle der Wahrheit?
+  → [Plan/codex-architecture/authority-matrix_2026-09-16.md](Plan/codex-architecture/authority-matrix_2026-09-16.md)
+  (2026-09-16). 13 Informationsarten entschieden; 2 davon (aufgeteilter
+  `kind=concept`-Bucket, Aufnahme von Figurenwissen-Tracking) waren echte
+  neue Weichenstellungen und gingen per Rückfrage an den Autor, bevor sie
+  als entschieden markiert wurden.
 - [ ] Überschneidungen und Drift zwischen Canon, Codex, Wiki, NCP und
   Manuskript erfassen.
 - [ ] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
