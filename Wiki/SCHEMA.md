@@ -1,5 +1,7 @@
 # Wiki — operating contract
 
+[Up](index.md)
+
 This directory is the research layer of the three-layer knowledge system
 (`Plan/wiki/knowledge-system-concept_2026-09-15.md`): `Sources/` (raw,
 immutable) → `Wiki/` (LLM-maintained, human-promoted) → `Canon/` + the
@@ -25,15 +27,18 @@ Wiki/
   SCHEMA.md            this file
   schema/              the contract (five YAML files)
   templates/           one .md.tmpl per page kind; {{token}} fields are filled by the writing program
-  index.md             RENDERED catalogue by kind — never edit
+  index.md             RENDERED compact global hub — never edit
+  GLOSSARY.md          short operational vocabulary (domain glossary is Codex/GLOSSARY.md)
   concept-table.md     RENDERED compressed map — never edit
+  context-map.md       RENDERED spoiler-aware retrieval router — never edit
   overview.md          what we currently understand the novel to be (versioned synthesis)
   log.md               APPEND-ONLY record of every operation
-  sources/<slug>.md    one page per ingested Drive document (tier T1, T2, T3)
-  concepts/<slug>.md   one page per merged concept, entity, rule, theory, motif
-  questions/<slug>.md  one page per open question about our understanding
-  syntheses/<slug>.md  filed /query answers (leaves)
-  candidates/          everything a program wrote and no human has reviewed
+  sources/<category>/<slug>.md       one page per ingested Drive document
+  concepts/<kind_detail>/<slug>.md   one page per merged semantic entity
+  questions/<axis>/<slug>.md         one page per focused open question
+  syntheses/<YYYY>/<slug>.md         filed /query answers (leaves)
+  candidates/<kind-dir>/<partition>/ everything a program wrote and no human has reviewed
+  <content-dir>/README.md             RENDERED local navigation — never edit
   graph/edges.jsonl    the wiki's relation index (tools-only)
   graph/coverage.json  RENDERED coverage numbers — never edit
 ```
@@ -43,12 +48,63 @@ Slugs match `conventions.yaml → slug.pattern`; source slugs come from
 the source. Summaries and explanations are English; quotes and Canon-facing
 prose stay German and are never translated.
 
+## Navigation and page boundaries
+
+`index.md` is deliberately short. It links to the `README.md` of each page
+kind; an occupied partition has another rendered `README.md` listing its
+pages. The root index also lists every allowed named partition, including
+empty ones, so the taxonomy remains visible before content exists. Pages sit
+exactly one partition below their kind directory. The
+partition comes from frontmatter and is never an improvised topic folder:
+
+| kind | canonical path | partition source |
+|---|---|---|
+| source | `sources/<category>/<slug>.md` | `category` |
+| concept | `concepts/<kind_detail>/<slug>.md` | `kind_detail` |
+| question | `questions/<axis>/<slug>.md` | `axis` |
+| synthesis | `syntheses/<YYYY>/<slug>.md` | year of `filed` |
+
+One page holds one semantic entity or one focused question. Word budgets are
+defined per kind in `entities.yaml → kinds.*.page_budget`: the ideal is a
+target, `warn_words` requests review, and exceeding `max_words` is a lint
+error. Split at a stable semantic boundary, preserve citations and state, and
+connect the resulting pages with explicit `[[slug]]` links. Never split only
+to satisfy a number when the fragments would not stand on their own.
+Slugs are globally unique within the promoted wiki and within candidates.
+The lint also rejects broken internal navigation links and stale rendered
+partition indexes.
+
+## Context-efficient loading
+
+Concepts, questions, and syntheses carry a compact routing card in frontmatter:
+`context_summary` (at most 40 words), `context_scope`, `context_priority`,
+`chapter_start`, `chapter_end`, and `spoiler_until`. The renderer collects
+these cards in `context-map.md`; it never copies page bodies into the map.
+
+For work on chapter N, load context in this order:
+
+1. Read `context-map.md` and select rows relevant to N.
+2. Reject rows with `spoiler_until > N` unless the author explicitly requests
+   whole-novel planning.
+3. Open only the matching headings of the smallest relevant concept,
+   question, or synthesis pages. `scripts/wiki_fts.py` returns heading-level
+   line ranges.
+4. Open exact cited lines under `Sources/` only when evidence or wording must
+   be checked. Do not load a full raw source by default.
+
+New machine-drafted concepts use conservative routing defaults: global scope,
+chapters 0–40, supporting priority, and `spoiler_until: 40`. Human review
+narrows those values before promotion. This prevents an uncertain candidate
+from leaking late-book knowledge into early-chapter work.
+
 ## Page kinds and lifecycle
 
 Four kinds: `source`, `concept`, `question`, `synthesis`. Required fields,
 enums and body sections per kind are in `entities.yaml → kinds`; the
 templates carry the sections in the exact order the lint expects
 (`sparse-page` checks the level-2 headings by name).
+The routing card is required on the three derived kinds used directly during
+manuscript work; source pages remain evidence and are loaded through citations.
 
 Lifecycle of `status` (`entities.yaml → lifecycle`): `draft` → `reviewed` →
 `contested` | `superseded` → `archived`. Transitions not listed there are
@@ -115,7 +171,7 @@ lines with `op=claim`.
 | `/interrogate-canon`, `/clarify` | `questions/` (draft), `log.md` | `Canon/` |
 | `/tetraframe` | `Plan/decisions/tetraframe/`, `log.md` | a decision |
 | `/promote-to-canon` | `Plan/ingest/` proposal | `Canon/` (the author applies the patch) |
-| `scripts/render_wiki_views.py` | `index.md`, `concept-table.md`, `graph/coverage.json` | anything else |
+| `scripts/render_wiki_views.py` | `index.md`, local `README.md` indexes, `concept-table.md`, `context-map.md`, `graph/coverage.json` | anything else |
 | `scripts/wiki_lint.py --fix` | reverse links, default fields, `graph/coverage.json` | page content |
 
 User-facing flags (`writers.yaml → user_flags`) are user-owned: a session
@@ -135,3 +191,8 @@ gate before `/wiki-promote`. `/lint-wiki` (LLM) and the adversarial review
 (`dspy-adversarial-review`, reviewer ≠ writer) run per milestone. Rule 0
 still governs: on any canon, plot, wording or scope ambiguity the session
 asks the author instead of assuming.
+
+Structural rules include `page-location`, `page-size`, `duplicate-slug`,
+`navigation-link`, `context-window`, and `index-sync`. Together they enforce
+the partition, page boundary, unique identity, resolvable navigation,
+retrieval window, and rendered-view contracts described above.

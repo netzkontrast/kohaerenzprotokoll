@@ -3,26 +3,30 @@
 <!-- rendered by scripts/render_wiki_views.py from page frontmatter; edit the pages, not this file -->
 
 - [Overview](overview.md) · what we currently understand the novel to be
+- [Context map](context-map.md) · compact, spoiler-aware router for manuscript work
 - [Concept table](concept-table.md) · concept · definition · sources · status · open questions
 - [Log](log.md) · append-only record of every operation
+- [Glossary](GLOSSARY.md) · page kinds, status and navigation terms
 - [Schema](SCHEMA.md) · the operating contract
 
 ## Sources (0)
 
-_none yet_
+- [Sources navigation](sources/README.md)
 
 ## Concepts (0)
 
-_none yet_
+- [Concepts navigation](concepts/README.md)
 
 ## Questions (0)
 
-_none yet_
+- [Questions navigation](questions/README.md)
 
 ## Syntheses (0)
 
-_none yet_
+- [Syntheses navigation](syntheses/README.md)
 
 ## Candidates (0)
 
-_written by a program, awaiting `/wiki-promote`; not part of the wiki until promoted_
+- [Candidate navigation](candidates/README.md) · machine drafts awaiting human review
+
+_Candidates are not part of the promoted wiki until `/wiki-promote`._

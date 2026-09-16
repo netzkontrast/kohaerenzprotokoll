@@ -5,6 +5,11 @@
 version: 1
 
 writers:
+  wiki-maintenance:
+    writes: [Wiki/** (structure only), .claude/skills/wiki-maintenance/**, AGENTS.md, CLAUDE.md]
+    never: [Canon/**, NCP/**, Manuscript/**, claim authority]
+    requires: [schema-aligned path, preserved citations, lint clean, rendered views current]
+    calls_llm: true
   /source-inventory:
     writes: [Sources/manifest.jsonl]
     calls_llm: false
@@ -51,7 +56,7 @@ writers:
     writes: ["Wiki/graph/coverage.json", "with --fix also reverse links and default fields"]
     calls_llm: false
   scripts/render_wiki_views.py:
-    writes: [Wiki/index.md, Wiki/concept-table.md, Wiki/graph/coverage.json]
+    writes: [Wiki/index.md, Wiki/**/README.md, Wiki/concept-table.md, Wiki/context-map.md, Wiki/graph/coverage.json]
     calls_llm: false
   scripts/wiki_fts.py:
     writes: [.cache/wiki-fts/**]

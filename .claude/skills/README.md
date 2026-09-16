@@ -18,6 +18,7 @@ Start with [PROJECT_REFERENCES.md](./PROJECT_REFERENCES.md). It defines current 
 - [ncp-author](./ncp-author/SKILL.md) — encoded Storyform/NCP validation and controlled mutations.
 - [novel-architect-legacy](./novel-architect-legacy/SKILL.md) — historical evidence only; current-first comparison workflow.
 - [lit-critic](./lit-critic/SKILL.md) — editorial prose gate: run lit-critic over a chapter, read its report, triage findings against canon.
+- [wiki-maintenance](./wiki-maintenance/SKILL.md) — maintain wiki partitions, small-page boundaries, local indexes, links and schema/tool alignment without changing Canon.
 
 ## Current project state encoded in these skills
 

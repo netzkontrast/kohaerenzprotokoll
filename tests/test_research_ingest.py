@@ -63,12 +63,17 @@ def front_of(text: str) -> dict:
 
 def test_every_extraction_and_concept_becomes_a_candidate():
     paths = set(rendered())
-    assert paths == {f"candidates/{slug}.md" for slug in
-                     (fx.SLUG_A, fx.SLUG_B, "system-kael", "juna", "schleier")}
+    assert paths == {
+        f"candidates/sources/kernkonzept/{fx.SLUG_A}.md",
+        f"candidates/sources/kernkonzept/{fx.SLUG_B}.md",
+        "candidates/concepts/concept/system-kael.md",
+        "candidates/concepts/character/juna.md",
+        "candidates/concepts/rule/schleier.md",
+    }
 
 
 def test_source_frontmatter_takes_the_deterministic_fields_from_the_manifest():
-    front = front_of(rendered()[f"candidates/{fx.SLUG_A}.md"])
+    front = front_of(rendered()[f"candidates/sources/kernkonzept/{fx.SLUG_A}.md"])
     assert front["kind"] == "source" and front["status"] == "draft"
     assert front["drive_id"] == "1aaa" and front["sha256"] == "a" * 64
     assert front["tier"] == "T3-work" and front["category"] == "kernkonzept"
@@ -78,7 +83,7 @@ def test_source_frontmatter_takes_the_deterministic_fields_from_the_manifest():
 
 
 def test_concept_frontmatter_carries_the_contract_fields():
-    front = front_of(rendered()["candidates/juna.md"])
+    front = front_of(rendered()["candidates/concepts/character/juna.md"])
     assert front["kind"] == "concept" and front["status"] == "draft"
     assert front["canon_status"] == "unverified" and front["table_status"] == "contradicted"
     assert front["sources"] == [fx.SLUG_A, fx.SLUG_B]
@@ -89,27 +94,27 @@ def test_concept_frontmatter_carries_the_contract_fields():
 
 def test_pages_carry_every_section_the_schema_declares():
     pages = rendered()
-    source_sections = wiki_pages.sections(wiki_pages.split_frontmatter(pages[f"candidates/{fx.SLUG_A}.md"])[1])
-    concept_sections = wiki_pages.sections(wiki_pages.split_frontmatter(pages["candidates/juna.md"])[1])
+    source_sections = wiki_pages.sections(wiki_pages.split_frontmatter(pages[f"candidates/sources/kernkonzept/{fx.SLUG_A}.md"])[1])
+    concept_sections = wiki_pages.sections(wiki_pages.split_frontmatter(pages["candidates/concepts/character/juna.md"])[1])
     assert list(source_sections) == wiki_schema.kind("source")["sections"]
     assert list(concept_sections) == wiki_schema.kind("concept")["sections"]
 
 
 def test_a_source_links_the_concepts_that_list_it():
-    body = wiki_pages.split_frontmatter(rendered()[f"candidates/{fx.SLUG_A}.md"])[1]
+    body = wiki_pages.split_frontmatter(rendered()[f"candidates/sources/kernkonzept/{fx.SLUG_A}.md"])[1]
     entities = wiki_pages.sections(body)["Entities"]
     assert sorted(wiki_pages.wikilinks(entities)) == ["juna", "schleier", "system-kael"]
 
 
 def test_key_claims_quote_the_cited_lines():
-    body = wiki_pages.split_frontmatter(rendered()[f"candidates/{fx.SLUG_A}.md"])[1]
+    body = wiki_pages.split_frontmatter(rendered()[f"candidates/sources/kernkonzept/{fx.SLUG_A}.md"])[1]
     claims = wiki_pages.sections(body)["Key claims"]
     assert "„Juna lebt in KW2.“" in claims
     assert f"^[{fx.FILE_A}:3-3]" in claims
 
 
 def test_a_pending_disagreement_names_both_sources_and_its_resolution():
-    body = wiki_pages.split_frontmatter(rendered()["candidates/juna.md"])[1]
+    body = wiki_pages.split_frontmatter(rendered()["candidates/concepts/character/juna.md"])[1]
     disagree = wiki_pages.sections(body)["Where they disagree"]
     assert f"[[{fx.SLUG_A}]] vs [[{fx.SLUG_B}]]" in disagree and "resolution: pending" in disagree
 
@@ -118,7 +123,7 @@ def test_a_disagreement_line_leaves_out_what_the_draft_left_empty():
     run = fx.handmade_compiled()
     run.concepts[1].disagreements[0].positions = []
     body = wiki_pages.split_frontmatter(
-        candidates.render_pages(run, MANIFEST, INGESTED)["candidates/juna.md"])[1]
+        candidates.render_pages(run, MANIFEST, INGESTED)["candidates/concepts/character/juna.md"])[1]
     line = wiki_pages.sections(body)["Where they disagree"].strip()
     assert " —  — " not in line and line.count("—") == 2
     assert line.endswith("^[Sources/drive/notiz-kael-b.md:3-3]")
@@ -137,8 +142,8 @@ def test_the_rendered_concept_carries_only_a_known_codex_reference():
     run.concepts[1].codex_ref = "juna"
     run.concepts[2].codex_ref = "kein-eintrag"
     pages = candidates.render_pages(run, MANIFEST, INGESTED, codex_slugs=frozenset({"juna"}))
-    assert front_of(pages["candidates/juna.md"])["codex_ref"] == "codex:juna"
-    assert "codex_ref" not in front_of(pages["candidates/schleier.md"])
+    assert front_of(pages["candidates/concepts/character/juna.md"])["codex_ref"] == "codex:juna"
+    assert "codex_ref" not in front_of(pages["candidates/concepts/rule/schleier.md"])
 
 
 def test_no_candidate_emits_the_canon_marker():
@@ -217,7 +222,7 @@ def test_a_triage_that_disagrees_with_the_manifest_is_reported_not_applied():
     run.extractions[0].triage = run.extractions[0].triage.model_copy(update={"tier": "T2-theory"})
     notes = candidates.triage_disagreements(run, MANIFEST)
     assert notes == [f"{fx.SLUG_A}: triage says tier=T2-theory, manifest says T3-work"]
-    front = front_of(candidates.render_pages(run, MANIFEST, INGESTED)[f"candidates/{fx.SLUG_A}.md"])
+    front = front_of(candidates.render_pages(run, MANIFEST, INGESTED)[f"candidates/sources/kernkonzept/{fx.SLUG_A}.md"])
     assert front["tier"] == "T3-work"
 
 

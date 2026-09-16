@@ -28,6 +28,10 @@ Map real scientific findings onto fictional universe formalism.
 4. Draft the integration as status: draft
 5. Present for author review
 
+Research-wiki drafts stay focused: one concept per page, filed under
+`concepts/<kind_detail>/`, with page budgets and navigation maintained through
+`wiki-maintenance`. Integration never hand-edits rendered indexes.
+
 ## Out of Scope
 
 Does NOT search for papers (use /researching-papers).
