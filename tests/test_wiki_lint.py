@@ -137,13 +137,19 @@ def source_front(sha: str) -> dict:
 
 CONCEPT_FRONT = {"title": "Kohärenz", "kind": "concept", "slug": "kohaerenz", "kind_detail": "concept",
                  "status": "reviewed", "confidence": "medium", "sources": ["quelle-eins"],
-                 "canon_status": "unverified", "codex_ref": "codex:kohaerenz"}
+                 "canon_status": "unverified", "codex_ref": "codex:kohaerenz",
+                 "context_summary": "A slow drift across the Kernwelten.", "context_scope": "global",
+                 "context_priority": "core", "chapter_start": 0, "chapter_end": 40, "spoiler_until": 0}
 QUESTION_FRONT = {"title": "Frage Eins", "kind": "question", "slug": "frage-eins", "axis": "incompleteness",
                   "status": "open", "concepts": ["kohaerenz"],
-                  "evidence": ["^[Sources/drive/quelle-eins.md:3-4] HIGH"], "owner": "author"}
+                  "evidence": ["^[Sources/drive/quelle-eins.md:3-4] HIGH"], "owner": "author",
+                  "context_summary": "Whether drift holds in every Kernwelt.", "context_scope": "global",
+                  "context_priority": "supporting", "chapter_start": 0, "chapter_end": 40, "spoiler_until": 0}
 SYNTHESIS_FRONT = {"title": "Synthese Eins", "kind": "synthesis", "slug": "synthese-eins",
                    "query": "what is the drift?", "sources": ["quelle-eins", "kohaerenz", "frage-eins"],
-                   "status": "reviewed", "filed": "2026-09-10"}
+                   "status": "reviewed", "filed": "2026-09-10",
+                   "context_summary": "Current answer about the cross-world drift.", "context_scope": "global",
+                   "context_priority": "supporting", "chapter_start": 0, "chapter_end": 40, "spoiler_until": 0}
 
 
 def write_page(repo: Path, rel: str, front: dict, body: str) -> Path:
@@ -240,8 +246,8 @@ def test_clean_fixture_has_no_errors_or_warnings(tmp_path):
     assert {f.rule for f in findings} <= {"no-page-body-in-graph"}
 
 
-def test_all_25_rules_are_registered():
-    assert len(rules.RULES) == 25
+def test_all_26_rules_are_registered():
+    assert len(rules.RULES) == 26
 
 
 # --- one test per rule -------------------------------------------------------------------
@@ -367,6 +373,31 @@ def test_navigation_link_rejects_missing_internal_target(tmp_path):
     glossary.write_text("# Glossary\n\n[Broken](missing.md)\n", encoding="utf-8")
     found = hits(lint(repo, ["navigation-link"]), "navigation-link")
     assert [(f.severity, f.path) for f in found] == [("error", "Wiki/GLOSSARY.md")]
+
+
+def test_context_window_rejects_reversed_chapters(tmp_path):
+    repo = make_wiki(tmp_path)
+    set_front(repo, "Wiki/concepts/concept/kohaerenz.md", chapter_start=20, chapter_end=10)
+    found = hits(lint(repo, ["context-window"]), "context-window")
+    assert [(f.severity, f.path) for f in found] == [("error", "Wiki/concepts/concept/kohaerenz.md")]
+
+
+def test_context_summary_is_limited_to_40_words(tmp_path):
+    repo = make_wiki(tmp_path)
+    set_front(repo, "Wiki/concepts/concept/kohaerenz.md", context_summary="word " * 41)
+    found = hits(lint(repo, ["enum"]), "enum")
+    assert any(f.path == "Wiki/concepts/concept/kohaerenz.md" and
+               "context_summary" in f.message and "40 words" in f.message for f in found)
+
+
+def test_context_map_routes_derived_pages_not_raw_sources(tmp_path):
+    repo = make_wiki(tmp_path)
+    rendered = wiki_views.views(repo / "Wiki", repo)["context-map.md"]
+    assert "[Kohärenz](concepts/concept/kohaerenz.md)" in rendered
+    assert "[Frage Eins](questions/incompleteness/frage-eins.md)" in rendered
+    assert "[Synthese Eins](syntheses/2026/synthese-eins.md)" in rendered
+    assert "Quelle Eins" not in rendered
+    assert "A slow drift across the Kernwelten." in rendered
 
 
 def test_citation_resolves(tmp_path):

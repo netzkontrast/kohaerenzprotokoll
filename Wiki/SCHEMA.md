@@ -30,6 +30,7 @@ Wiki/
   index.md             RENDERED compact global hub — never edit
   GLOSSARY.md          short operational vocabulary (domain glossary is Codex/GLOSSARY.md)
   concept-table.md     RENDERED compressed map — never edit
+  context-map.md       RENDERED spoiler-aware retrieval router — never edit
   overview.md          what we currently understand the novel to be (versioned synthesis)
   log.md               APPEND-ONLY record of every operation
   sources/<category>/<slug>.md       one page per ingested Drive document
@@ -73,12 +74,37 @@ Slugs are globally unique within the promoted wiki and within candidates.
 The lint also rejects broken internal navigation links and stale rendered
 partition indexes.
 
+## Context-efficient loading
+
+Concepts, questions, and syntheses carry a compact routing card in frontmatter:
+`context_summary` (at most 40 words), `context_scope`, `context_priority`,
+`chapter_start`, `chapter_end`, and `spoiler_until`. The renderer collects
+these cards in `context-map.md`; it never copies page bodies into the map.
+
+For work on chapter N, load context in this order:
+
+1. Read `context-map.md` and select rows relevant to N.
+2. Reject rows with `spoiler_until > N` unless the author explicitly requests
+   whole-novel planning.
+3. Open only the matching headings of the smallest relevant concept,
+   question, or synthesis pages. `scripts/wiki_fts.py` returns heading-level
+   line ranges.
+4. Open exact cited lines under `Sources/` only when evidence or wording must
+   be checked. Do not load a full raw source by default.
+
+New machine-drafted concepts use conservative routing defaults: global scope,
+chapters 0–40, supporting priority, and `spoiler_until: 40`. Human review
+narrows those values before promotion. This prevents an uncertain candidate
+from leaking late-book knowledge into early-chapter work.
+
 ## Page kinds and lifecycle
 
 Four kinds: `source`, `concept`, `question`, `synthesis`. Required fields,
 enums and body sections per kind are in `entities.yaml → kinds`; the
 templates carry the sections in the exact order the lint expects
 (`sparse-page` checks the level-2 headings by name).
+The routing card is required on the three derived kinds used directly during
+manuscript work; source pages remain evidence and are loaded through citations.
 
 Lifecycle of `status` (`entities.yaml → lifecycle`): `draft` → `reviewed` →
 `contested` | `superseded` → `archived`. Transitions not listed there are
@@ -145,7 +171,7 @@ lines with `op=claim`.
 | `/interrogate-canon`, `/clarify` | `questions/` (draft), `log.md` | `Canon/` |
 | `/tetraframe` | `Plan/decisions/tetraframe/`, `log.md` | a decision |
 | `/promote-to-canon` | `Plan/ingest/` proposal | `Canon/` (the author applies the patch) |
-| `scripts/render_wiki_views.py` | `index.md`, local `README.md` indexes, `concept-table.md`, `graph/coverage.json` | anything else |
+| `scripts/render_wiki_views.py` | `index.md`, local `README.md` indexes, `concept-table.md`, `context-map.md`, `graph/coverage.json` | anything else |
 | `scripts/wiki_lint.py --fix` | reverse links, default fields, `graph/coverage.json` | page content |
 
 User-facing flags (`writers.yaml → user_flags`) are user-owned: a session
@@ -167,6 +193,6 @@ still governs: on any canon, plot, wording or scope ambiguity the session
 asks the author instead of assuming.
 
 Structural rules include `page-location`, `page-size`, `duplicate-slug`,
-`navigation-link`, and `index-sync`. Together they enforce the partition,
-page boundary, unique identity, resolvable navigation, and rendered-view
-contracts described above.
+`navigation-link`, `context-window`, and `index-sync`. Together they enforce
+the partition, page boundary, unique identity, resolvable navigation,
+retrieval window, and rendered-view contracts described above.

@@ -40,4 +40,6 @@ disagreements between sources, the disagreements with Canon, and the
 questions raised on the three axes (incompleteness, incorrectness,
 redundancy). Numbers come from `graph/coverage.json`; the rendered
 `concept-table.md` is the compressed map; `index.md` is the compact navigation
-hub, with detailed lists in each area's `README.md`.
+hub, with detailed lists in each area's `README.md`. For manuscript work,
+`context-map.md` is the first loading step; it routes by scope, chapter window,
+spoiler ceiling, and priority before any full page or source is opened.

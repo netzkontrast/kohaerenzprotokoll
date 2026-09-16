@@ -11,12 +11,20 @@ aliases: []
 codex_ref:
 canon_ref:
 tags: []
+context_summary: "{{context_summary}}"
+context_scope: {{context_scope}}
+context_priority: {{context_priority}}
+chapter_start: {{chapter_start}}
+chapter_end: {{chapter_end}}
+spoiler_until: {{spoiler_until}}
 ---
 <!-- One focused semantic entity per page, stored at concepts/<kind_detail>/<slug>.md
      (Wiki/schema/entities.yaml → kinds.concept). Split independent entities before max_words.
      Written by /wiki-understand into Wiki/candidates/; a reviewed page is never overwritten — new
      material is appended under "Since <date>" and the page flips to contested when a contradicts edge
      appears. canon_status starts unverified for every Canon claim (D-W12). -->
+<!-- Context fields are a routing card, not content: summary ≤40 words; chapter window says where the
+     page is relevant; spoiler_until is the latest reveal contained. Unknown candidates use 40. -->
 
 ## Definition
 

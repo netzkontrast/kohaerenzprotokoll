@@ -51,7 +51,8 @@ GERMAN_QUOTE_RE = re.compile(r"„[^“]*“")
 WORD_RE = re.compile(r"\w+")
 WHERE_RE = re.compile(r'^(?:(body)|frontmatter\.(\S+)|section "([^"]+)"|edges\.(\S+))$')
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
-NAV_DOCS = ("index.md", "overview.md", "concept-table.md", "GLOSSARY.md", "SCHEMA.md", "log.md")
+NAV_DOCS = ("index.md", "overview.md", "concept-table.md", "context-map.md",
+            "GLOSSARY.md", "SCHEMA.md", "log.md")
 
 
 @dataclass
@@ -390,6 +391,20 @@ def field_problem(kind: str, name: str, spec: dict[str, Any], value: Any) -> str
         return None if is_iso_date(value) else f"{value!r} is not an ISO date (YYYY-MM-DD)"
     if spec.get("type") == "bool":
         return None if isinstance(value, bool) else f"{value!r} is not a boolean"
+    if spec.get("type") == "int":
+        if isinstance(value, bool) or not isinstance(value, int):
+            return f"{value!r} is not an integer"
+        if "min" in spec and value < int(spec["min"]):
+            return f"{value!r} is below {spec['min']}"
+        if "max" in spec and value > int(spec["max"]):
+            return f"{value!r} is above {spec['max']}"
+        return None
+    if spec.get("type") == "str":
+        if not isinstance(value, str):
+            return f"{value!r} is not a string"
+        if "max_words" in spec and len(WORD_RE.findall(value)) > int(spec["max_words"]):
+            return f"has more than {spec['max_words']} words"
+        return None
     if "list_of" in spec:
         if not isinstance(value, list) or len(value) < int(spec.get("min", 0)):
             return f"must be a list with at least {spec.get('min', 0)} entries"
@@ -638,6 +653,19 @@ def rule_navigation_link(ctx: LintContext) -> list[Finding]:
                 if not resolved.exists():
                     out.append(Finding("navigation-link", "error", ctx.display(path), lineno,
                                        f"internal link target does not exist: {raw}"))
+    return out
+
+
+def rule_context_window(ctx: LintContext) -> list[Finding]:
+    """Retrieval metadata must describe a coherent chapter window."""
+    out: list[Finding] = []
+    for page in ctx.pages:
+        if not known_kind(page) or "context_summary" not in kind_fields(page.kind):
+            continue
+        start, end = page.front.get("chapter_start"), page.front.get("chapter_end")
+        if isinstance(start, int) and isinstance(end, int) and start > end:
+            out.append(Finding("context-window", "error", ctx.page_path(page), 1,
+                               f"chapter_start {start} is after chapter_end {end}"))
     return out
 
 
@@ -1127,6 +1155,7 @@ RULES: dict[str, Callable[[LintContext], list[Finding]]] = {
     "page-location": rule_page_location,
     "duplicate-slug": rule_duplicate_slug,
     "navigation-link": rule_navigation_link,
+    "context-window": rule_context_window,
     "citation-resolves": rule_citation_resolves,
     "stale-source": rule_stale_source,
     "xref-symmetry": rule_xref_symmetry,

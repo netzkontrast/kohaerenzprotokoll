@@ -33,7 +33,7 @@ TOKEN_RE = re.compile(r"\{\{(\w+)\}\}")
 
 PAGE_DIRS = ("sources", "concepts", "questions", "syntheses")
 CANDIDATES_DIR = "candidates"
-RENDERED_FILES = ("index.md", "concept-table.md")
+RENDERED_FILES = ("index.md", "concept-table.md", "context-map.md")
 FIXED_FILES = ("SCHEMA.md", "log.md", "overview.md")
 
 

@@ -39,6 +39,9 @@ authority.
   page, or change Canon/NCP/manuscript facts.
 - Every Markdown link in the navigation surface resolves, and no rendered
   partition `README.md` remains after its partition disappears.
+- Pages used for manuscript work expose a ≤40-word context summary, scope,
+  priority, chapter window, and spoiler ceiling. The context map contains
+  routing metadata only, never page bodies.
 
 ## Workflow
 
@@ -54,7 +57,8 @@ authority.
    YAML first, then parsers/renderers/tests and concise human documentation.
 5. Run `python3 scripts/render_wiki_views.py`; do not edit rendered output.
 6. Confirm there are no duplicate slugs, dead navigation links, stale local
-   indexes, mispartitioned pages, or pages above their hard budget.
+   indexes, mispartitioned pages, invalid context windows, or pages above
+   their hard budget.
 7. Finish with `python3 scripts/wiki_lint.py --health`,
    `python3 scripts/render_wiki_views.py --check`, and the wiki test suite.
 

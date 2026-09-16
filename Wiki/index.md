@@ -3,6 +3,7 @@
 <!-- rendered by scripts/render_wiki_views.py from page frontmatter; edit the pages, not this file -->
 
 - [Overview](overview.md) · what we currently understand the novel to be
+- [Context map](context-map.md) · compact, spoiler-aware router for manuscript work
 - [Concept table](concept-table.md) · concept · definition · sources · status · open questions
 - [Log](log.md) · append-only record of every operation
 - [Glossary](GLOSSARY.md) · page kinds, status and navigation terms

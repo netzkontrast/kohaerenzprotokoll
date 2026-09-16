@@ -11,9 +11,9 @@ argument-hint: "[all | directory path | entity name]"
 
 For Wiki structure, navigation, page moves, or splits, load the
 `wiki-maintenance` skill first. Deterministic `page-location`, `page-size`,
-`duplicate-slug`, `navigation-link`, and rendered-index checks belong to
-`scripts/wiki_lint.py`; this command adds semantic corpus review and never
-hand-edits an index.
+`duplicate-slug`, `navigation-link`, `context-window`, and rendered-index
+checks belong to `scripts/wiki_lint.py`; this command adds semantic corpus
+review and never hand-edits an index.
 
 You are running a systematic health check on the project corpus. This is NOT
 a DKT/physics audit (use /auditing-physics), not a prose-rule audit (use

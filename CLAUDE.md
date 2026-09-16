@@ -128,6 +128,9 @@ moves, splits, navigation repair, and schema evolution. Operational terms are
 defined in `Wiki/GLOSSARY.md`; the domain glossary remains generated at
 `Codex/GLOSSARY.md`. Duplicate slugs, broken navigation links, mispartitioned
 pages, oversized pages, and stale local indexes are structural blockers.
+For manuscript retrieval, start with `Wiki/context-map.md`, enforce its
+chapter/spoiler window, load matching headings next, and inspect raw source
+lines only when evidence is required.
 
 ## Rule 0 — Never assume. Ask.
 

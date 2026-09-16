@@ -37,6 +37,8 @@ enums:
   question_status: [open, answered, escalated, parked]
   concept_table_status: [high-confidence, single-source, tentative, contradicted]
   evidence_grade: [HIGH, MEDIUM, LOW]
+  context_scope: [global, act-1, act-2, act-3, chapter]
+  context_priority: [core, supporting, evidence]
 
 kinds:
   source:
@@ -70,7 +72,8 @@ kinds:
     page_budget: {ideal_words: 500, warn_words: 900, max_words: 1300}
     one_per: merged idea, entity, rule, theory or motif across sources
     template: Wiki/templates/concept.md.tmpl
-    required: [title, kind, slug, kind_detail, status, confidence, sources, canon_status]
+    required: [title, kind, slug, kind_detail, status, confidence, sources, canon_status,
+               context_summary, context_scope, context_priority, chapter_start, chapter_end, spoiler_until]
     optional: [aliases, codex_ref, canon_ref, tags, disagreements, table_status, ingested]
     fields:
       kind: {const: concept}
@@ -79,6 +82,12 @@ kinds:
       confidence: {enum: confidence, requires: evidence}
       sources: {list_of_ref: source, min: 1}
       canon_status: {enum: canon_status, initial: unverified}
+      context_summary: {type: str, max_words: 40}
+      context_scope: {enum: context_scope}
+      context_priority: {enum: context_priority}
+      chapter_start: {type: int, min: 0, max: 40}
+      chapter_end: {type: int, min: 0, max: 40}
+      spoiler_until: {type: int, min: 0, max: 40}
       # What the merged sources currently support, as the concept table reads it;
       # contradicted while any disagreement is pending. The lifecycle field above
       # stays draft/reviewed/… — this is the evidence state, not the review state.
@@ -101,7 +110,8 @@ kinds:
     page_budget: {ideal_words: 250, warn_words: 500, max_words: 750}
     one_per: open question about our understanding of the novel
     template: Wiki/templates/question.md.tmpl
-    required: [title, kind, slug, axis, status, concepts, evidence, owner]
+    required: [title, kind, slug, axis, status, concepts, evidence, owner,
+               context_summary, context_scope, context_priority, chapter_start, chapter_end, spoiler_until]
     optional: [decision_ref, tetraframe_run, revisit, tags]
     fields:
       kind: {const: question}
@@ -110,6 +120,12 @@ kinds:
       concepts: {list_of_ref: concept, min: 1}
       evidence: {list_of: citation, min: 1, graded: evidence_grade}
       owner: {enum: [author, session, graph]}
+      context_summary: {type: str, max_words: 40}
+      context_scope: {enum: context_scope}
+      context_priority: {enum: context_priority}
+      chapter_start: {type: int, min: 0, max: 40}
+      chapter_end: {type: int, min: 0, max: 40}
+      spoiler_until: {type: int, min: 0, max: 40}
       decision_ref: {pattern: "^D-[A-Z]?[0-9]+$"}
       tetraframe_run: {pattern: "^Plan/decisions/tetraframe/.+\\.json$"}
       revisit: {format: date}
@@ -125,7 +141,8 @@ kinds:
     page_budget: {ideal_words: 700, warn_words: 1200, max_words: 1800}
     one_per: filed /query answer that drew on three or more pages
     template: Wiki/templates/synthesis.md.tmpl
-    required: [title, kind, slug, query, sources, status, filed]
+    required: [title, kind, slug, query, sources, status, filed,
+               context_summary, context_scope, context_priority, chapter_start, chapter_end, spoiler_until]
     optional: [tags]
     fields:
       kind: {const: synthesis}
@@ -133,6 +150,12 @@ kinds:
       sources: {list_of_ref: [source, concept, question], min: 3}
       status: {lifecycle: true}
       filed: {format: date}
+      context_summary: {type: str, max_words: 40}
+      context_scope: {enum: context_scope}
+      context_priority: {enum: context_priority}
+      chapter_start: {type: int, min: 0, max: 40}
+      chapter_end: {type: int, min: 0, max: 40}
+      spoiler_until: {type: int, min: 0, max: 40}
     sections: [Question, Answer, Sources, Gaps]
     rules:
       - every claim in the section Answer cites a wiki page as [[slug]]

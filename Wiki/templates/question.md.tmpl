@@ -13,6 +13,12 @@ decision_ref:
 tetraframe_run:
 revisit:
 tags: []
+context_summary: "{{context_summary}}"
+context_scope: {{context_scope}}
+context_priority: {{context_priority}}
+chapter_start: {{chapter_start}}
+chapter_end: {{chapter_end}}
+spoiler_until: {{spoiler_until}}
 ---
 <!-- One focused open question, stored at questions/<axis>/<slug>.md
      (Wiki/schema/entities.yaml → kinds.question). Split compound questions.
@@ -21,6 +27,7 @@ tags: []
      Written as draft by /interrogate-canon or /clarify; the author triages (Rule 0).
      escalated requires decision_ref (D-xx); parked requires revisit; a question that would supersede,
      merge or contradict a reviewed page cites a tetraframe_run before it is escalated. -->
+<!-- Keep routing metadata conservative; an unresolved spoiler boundary defaults to chapter 40. -->
 
 ## Question
 

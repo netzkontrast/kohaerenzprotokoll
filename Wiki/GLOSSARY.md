@@ -23,3 +23,8 @@ generated in-universe/domain glossary remains `Codex/GLOSSARY.md`.
 | page budget | Ideal, warning, and hard maximum word counts defined per page kind in `schema/entities.yaml`. |
 | split | Replacing an oversized mixed page with focused pages connected by explicit wiki links and preserved citations. |
 | stale index | A rendered `README.md` that no longer corresponds to an occupied partition; `index-sync` rejects it. |
+| context card | Six short frontmatter fields that route a page without loading its body. |
+| context map | `context-map.md`, the rendered first retrieval hop for manuscript work. |
+| context scope | Whether a page applies globally, to one act, or to a chapter-specific window. |
+| load priority | `core`, `supporting`, or `evidence`; lower-value material is loaded later. |
+| spoiler until | Latest chapter reveal contained in a page; for chapter N, load only values ≤ N unless whole-novel context was requested. |

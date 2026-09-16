@@ -144,6 +144,8 @@ def codex_ref(value: str, known: frozenset[str]) -> str:
 
 
 def concept_front(draft: ConceptDraft, ingested: str, codex_slugs: frozenset[str] = frozenset()) -> dict[str, Any]:
+    summary = " ".join((draft.definition[0].text if draft.definition else draft.title).split())
+    summary = " ".join(summary.split()[:40])
     front = {
         "title": draft.title,
         "kind": "concept",
@@ -158,6 +160,13 @@ def concept_front(draft: ConceptDraft, ingested: str, codex_slugs: frozenset[str
         "aliases": [],
         "tags": [],
         "ingested": ingested,
+        # Conservative routing defaults: a reviewer narrows these before promotion.
+        "context_summary": summary,
+        "context_scope": "global",
+        "context_priority": "supporting",
+        "chapter_start": 0,
+        "chapter_end": 40,
+        "spoiler_until": 40,
     }
     reference = codex_ref(draft.codex_ref, codex_slugs)
     if reference:

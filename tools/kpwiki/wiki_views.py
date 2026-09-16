@@ -23,7 +23,7 @@ RENDER_NOTE = ("<!-- rendered by scripts/render_wiki_views.py from page frontmat
                "edit the pages, not this file -->")
 KINDS = (("source", "Sources"), ("concept", "Concepts"),
          ("question", "Questions"), ("synthesis", "Syntheses"))
-VIEW_FILES = ("index.md", "concept-table.md", "graph/coverage.json")
+VIEW_FILES = ("index.md", "concept-table.md", "context-map.md", "graph/coverage.json")
 DEFINITION_MAX_CHARS = 160
 EMPTY = "—"
 CITATION_RE = re.compile(r"\s*\^\[[^\]]*\]")
@@ -61,6 +61,7 @@ def render_index(pages: list[Page]) -> str:
     candidates = [p for p in pages if p.is_candidate]
     lines = ["# Wiki index", "", RENDER_NOTE, "",
              "- [Overview](overview.md) · what we currently understand the novel to be",
+             "- [Context map](context-map.md) · compact, spoiler-aware router for manuscript work",
              "- [Concept table](concept-table.md) · concept · definition · sources · status · open questions",
              "- [Log](log.md) · append-only record of every operation",
              "- [Glossary](GLOSSARY.md) · page kinds, status and navigation terms",
@@ -202,6 +203,41 @@ def render_concept_table(pages: list[Page]) -> str:
     return "\n".join(lines) + "\n"
 
 
+def _table_text(value: Any) -> str:
+    return " ".join(str(value or EMPTY).split()).replace("|", "\\|")
+
+
+def render_context_map(pages: list[Page]) -> str:
+    """Compact router: choose pages before loading their bodies or raw evidence."""
+    routable = [p for p in _promoted(pages)
+                if p.kind in {"concept", "question", "synthesis"}
+                and p.status not in {"archived", "superseded"}]
+    priority = {"core": 0, "supporting": 1, "evidence": 2}
+    routable.sort(key=lambda p: (priority.get(str(p.front.get("context_priority")), 9),
+                                 int(p.front.get("chapter_start", 99)), p.slug))
+    lines = [
+        "# Context map", "", RENDER_NOTE, "", "[Up](index.md)", "",
+        "Use this page as the first retrieval hop for manuscript work:", "",
+        "1. Filter by the target chapter and keep only rows whose `spoiler until` is not after it.",
+        "2. Load the smallest matching page sections; use heading-level FTS hits instead of whole pages.",
+        "3. Open cited source lines only when evidence or exact wording is needed.", "",
+        "| page | kind | priority | scope | relevant chapters | spoiler until | context summary |",
+        "|---|---|---|---|---:|---:|---|",
+    ]
+    for page in routable:
+        start, end = page.front.get("chapter_start"), page.front.get("chapter_end")
+        chapters = str(start) if start == end else f"{start}–{end}"
+        lines.append("| " + " | ".join([
+            f"[{_table_text(page.title)}]({page.rel})", _table_text(page.kind),
+            _table_text(page.front.get("context_priority")), _table_text(page.front.get("context_scope")),
+            chapters, _table_text(page.front.get("spoiler_until")),
+            _table_text(page.front.get("context_summary")),
+        ]) + " |")
+    if not routable:
+        lines.append("| _no routable pages yet_ | | | | | | |")
+    return "\n".join(lines) + "\n"
+
+
 def _manifest_summary(manifest_path: Path | None) -> dict[str, Any]:
     if manifest_path is None or not manifest_path.exists():
         return {"total": 0, "exported": 0, "by_tier": {}}
@@ -252,6 +288,7 @@ def views(wiki_root: Path, repo_root: Path) -> dict[str, str]:
     rendered = {
         "index.md": render_index(pages),
         "concept-table.md": render_concept_table(pages),
+        "context-map.md": render_context_map(pages),
         "graph/coverage.json": render_coverage(coverage(pages, edges, manifest)),
     }
     rendered.update(render_local_indexes(pages))

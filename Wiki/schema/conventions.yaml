@@ -16,6 +16,14 @@ navigation:
     syntheses: filed year (YYYY)
     candidates: kind, then the same partition used by the promoted page
 
+context_loading:
+  router: Wiki/context-map.md
+  order: [context map, matching page sections, cited source lines]
+  default_source_loading: never load a full raw source when a cited range answers the question
+  safe_for_chapter: spoiler_until must be less than or equal to the target chapter
+  unknown_spoiler_default: 40
+  summary_max_words: 40
+
 slug:
   pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
   max_length: 60
@@ -36,6 +44,7 @@ ownership:
     - Wiki/graph/**
     - Wiki/index.md
     - Wiki/concept-table.md
+    - Wiki/context-map.md
     - Wiki/sources/**/README.md
     - Wiki/concepts/**/README.md
     - Wiki/questions/**/README.md

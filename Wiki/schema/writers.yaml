@@ -51,7 +51,7 @@ writers:
     writes: ["Wiki/graph/coverage.json", "with --fix also reverse links and default fields"]
     calls_llm: false
   scripts/render_wiki_views.py:
-    writes: [Wiki/index.md, Wiki/**/README.md, Wiki/concept-table.md, Wiki/graph/coverage.json]
+    writes: [Wiki/index.md, Wiki/**/README.md, Wiki/concept-table.md, Wiki/context-map.md, Wiki/graph/coverage.json]
     calls_llm: false
   scripts/wiki_fts.py:
     writes: [.cache/wiki-fts/**]
