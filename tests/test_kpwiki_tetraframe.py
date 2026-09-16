@@ -122,4 +122,5 @@ def test_cli_out_must_be_inside_repo_and_checkpoints_are_atomic(tmp_path):
             cli.resolve_out(bad)
     target = tmp_path / "run.json"
     cli.write_atomic(target, "{}")
-    assert target.read_text() == "{}" and not (tmp_path / "run.json.tmp").exists()
+    cli.write_atomic(target, "{\"n\": 2}")
+    assert target.read_text() == "{\"n\": 2}" and list(tmp_path.iterdir()) == [target]   # no temp files left behind

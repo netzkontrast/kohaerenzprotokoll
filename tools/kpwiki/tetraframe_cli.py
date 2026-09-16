@@ -12,7 +12,9 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
+import tempfile
 from pathlib import Path
 
 from . import lm
@@ -34,11 +36,17 @@ def resolve_out(path: str) -> Path:
 
 
 def write_atomic(path: Path, text: str) -> None:
-    """Write via a sibling temp file and rename, so a reader never sees a half-written checkpoint."""
+    """Write via a uniquely named sibling temp file and rename, so a reader never sees a
+    half-written checkpoint and two writers of the same path never share a temp file."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    tmp = path.with_name(path.name + ".tmp")
-    tmp.write_text(text, encoding="utf-8")
-    tmp.replace(path)
+    fd, tmp_name = tempfile.mkstemp(dir=path.parent, prefix=path.name + ".", suffix=".tmp")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as fh:
+            fh.write(text)
+        os.replace(tmp_name, path)
+    except BaseException:
+        Path(tmp_name).unlink(missing_ok=True)
+        raise
 
 
 def _dump(payload):
