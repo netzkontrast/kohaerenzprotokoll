@@ -106,6 +106,22 @@ substrate that reality emerges from.
 - **An origin**: AEGIS is emergent *within* the simulation, and the argument is
   that a designer would have given it the missing sense ^[…:L193–197]
 
+## Surfaces — the role travels without the acronym
+
+| surface | source | n |
+|---|---|--:|
+| `AEGIS` | all three | 19 · — · many |
+| **`Entropic Gatekeeper`** | `entropie-aegis` ^[L13, L59, L94, L97] | **7, four of them with no `AEGIS` in the sentence** |
+| **„Wächter der systemischen Stabilität"** | `kohaerenzprotokoll-aegis-und-systementropie` ^[L15] | 1 |
+| „nicht-anthropomorphe Kontrollinstanz" | `entropie-aegis` ^[L17] | 3 |
+| „blinder Hausmeister" | `kohaerenzprotokoll-aegis-und-systementropie` ^[L207] | 1 |
+
+**Rows 2 and 3 are the same role and share no characters.** One is English and
+built from the acronym's own words; the other is German and built from none of
+them. Nothing mechanical connects them, in either direction — this is the first
+special case document 1's census found, and it is on the corpus's most important
+term.
+
 ## The second conflict, underneath the first
 
 Two sources derive AEGIS by **emergence** and mean incompatible things:

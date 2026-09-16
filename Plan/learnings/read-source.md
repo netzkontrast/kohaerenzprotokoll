@@ -101,10 +101,20 @@ belongs on ECR's term page. The note format needs a section for judgements, not
 only for definitions.
 
 **c. Names are superseded across the corpus.** The 2025-04-17 document calls the
-protagonist **Michael** and the external connection **Julia**; current canon uses
+protagonist **Michael** and the external connection **Julia**; later sources use
 Kael and Juna. This is not an error to fix — it is a fact about the source, and
 without the date a reading under the old name looks like a different claim about
 a different figure.
+
+> **Corrected 2026-09-16, and the correction is the lesson.** This finding was
+> extended, from three documents, into „the two names changed at different
+> times". Counting all 409 landed documents refuted it: **both changed on one
+> day.** 2025-04-17 is six documents with Michael/Julia and zero Kael/Juna;
+> 2025-04-18 is seven with Kael/Juna and zero Michael/Julia; no document on
+> either day mixes them. The mixing that suggested two dates is **incomplete
+> enforcement afterwards** — 16 documents still say Michael, nine of them exactly
+> once, the last in 2026-06. Three documents looked like a timeline and a count
+> showed a cliff. This is P18 again, on the third occasion in this file.
 
 **d. A real conflict appeared in the first two documents.** AEGIS is expanded
 three ways — twice inside one document. `gather-term.md` predicted apparent
@@ -157,10 +167,11 @@ Kern-Welten throughout. **Category does not predict whether a document touches
 the novel; the document does.** Two samples were not enough to generalise from —
 which is P18 landing on our own note-taking rather than on a model benchmark.
 
-Finding (c) needed the same correction, more narrowly: this document says *Kael*
-and *Julia*, mixing the new name with the old. The names did not change as a
-set, so "old naming" is not a state a document can be in — each name carries its
-own date.
+Finding (c) looked like it needed the same correction and got the wrong one:
+this document says *Kael* and *Julia*, which was read as the two names changing
+at different times. **They did not.** See the correction under (c) — the mixing
+is later slippage, not a second rename, and only counting the corpus could tell
+the two apart.
 
 **What did not change:** the note format needed no new field for the third
 document, across a third genre. `kind` absorbed it, which is the strongest

@@ -157,14 +157,24 @@ The one it does **not** close is the alters' „Entropie-Signatur"
 ^[entropie-aegis.md:L69]: Table 1 gives system-level metrics, never a per-alter
 score. That question is still open in the corpus.
 
-## Naming — split, not superseded as a set
+## Naming — mixed, and the reason is not what it looked like
 
-It says **Kael** and **Julia**. Document 1, two days earlier, said Michael and
-Julia. Current canon says Kael and Juna.
+It says **Kael** 45 times and **Julia** 34 times, in one document. Document 1,
+two days earlier, said Michael and Julia.
 
-**So the two names changed at different times.** A note that treated "old names"
-as one state would place this document on the wrong side of the change. Each
-name carries its own date.
+**The first reading of this — that the two names changed at different times — was
+wrong**, and counting the corpus showed it. Both changed on the same day:
+2025-04-17 is six documents with Michael/Julia and zero Kael/Juna; 2025-04-18 is
+seven documents with Kael/Juna and zero Michael/Julia. No mixed document on
+either side of the cut.
+
+What this document shows is not a second rename but **incomplete enforcement**:
+it is one of 20 landed documents that mix the new name with the old, and `Julia`
+in particular goes on being used heavily for months. Three documents looked like
+a timeline; a count over 409 showed a cliff.
+
+Full measurement and what it does not settle: `Wiki/candidates/kael.md` and
+`Wiki/candidates/juna.md`.
 
 ## For the term pages
 
