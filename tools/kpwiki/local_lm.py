@@ -1,8 +1,9 @@
 """ClaudeLM — run DSPy programs through the local Claude Code CLI.
 
 Vendored from Hmbown/dspy-local ``dspy/clients/claude.py`` (MIT,
-docs/dspy-local-LICENSE.txt), adapted to import DSPy 3.2.1's ``BaseLM``
-instead of the fork's package layout. Apart from one robustness fix (``_prepare_call`` falls back to
+docs/dspy-local-LICENSE.txt), adapted to import ``BaseLM`` from the DSPy release
+this repo pins (see requirements-dspy.txt) instead of the fork's package layout.
+Apart from one robustness fix (``_prepare_call`` falls back to
 ``DEFAULT_TIMEOUT_SECONDS`` when the kwarg was removed via ``copy(timeout_seconds=None)``)
 and one local extension (``stream=True`` routes calls through ``run_claude_cli_streaming``:
 ``--output-format stream-json`` with a per-call progress log at ``log_path``),
