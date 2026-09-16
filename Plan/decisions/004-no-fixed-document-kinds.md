@@ -85,9 +85,50 @@ one line was cheap because it was lossy.
 `Wiki/README.md` explained how to read a source by its kind. It now explains it
 by stance, which is where the documents put it.
 
+## What this cost, and what should have happened
+
+**The objection was „don't commit to fixed document types". This decision
+deleted the field instead, in the same turn.** That is two steps past what was
+asked, and it is the failure the `Changing your mind` rule in `CLAUDE.md` now
+exists to prevent: *a construct is demoted, not deleted.*
+
+What a demotion would have looked like:
+
+```yaml
+kind: brief          # provisional — a first-pass guess, not established
+                     # may not: explain format, decide how a passage is read
+                     # retire when: 20 documents show it predicts nothing
+```
+
+The `may not` line carries the whole objection. Everything this decision argues —
+that format does not follow from purpose, that stance belongs to a passage —
+stays true and stays enforced, and the guess survives to be useful elsewhere.
+
+**Because it was useful elsewhere.** The sharpest cross-document finding in the
+corpus so far is *a result closes a question an earlier brief asked* — three of
+`entropie-aegis`'s 2025-04-17 questions answered on 2025-04-19. That finding
+needs the commission/answer distinction to be **sayable at all**, and
+`answers: unknown-brief` in one note still depends on it.
+
+**The decision stands, at the author's direction.** It is recorded this way
+rather than reversed, because the rule it produced is worth more than the field
+it removed — and because reverting a reversal would be the same reflex again.
+
+### Shelved, not discarded
+
+> **A first-pass guess at what a document is for** — a commission, an answer, an
+> analysis of something else. **Provisional, never load-bearing.** It may not
+> explain format and may not decide how a passage is read. Its use is
+> *sequencing and routing*: finding which document answers which, which
+> commissions are still open, which documents are worth reading in what order.
+> `PRINCIPLES.md` carries it in the catalogue.
+
 ## What would change our mind
 
 **Twenty documents in which stance never varies within a document, and the
 document-level label predicts its format.** Then the enum was right and three
 documents were a bad sample. Nothing so far points that way — the variation
 showed up in the second document read and the third marked it explicitly.
+
+**Or: one question that can only be asked with a document-level guess.** There is
+already a candidate above.

@@ -137,6 +137,76 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
+## Changing your mind
+
+Two different things get corrected here, and treating them the same way is how
+this project has gone wrong in both directions at once.
+
+### A claim is measured, or marked unmeasured
+
+A claim says something is true of the repository or the corpus. „Google Docs lose
+their headings." „Both names changed on the same day." **A claim is either backed
+by a count or explicitly marked as not yet counted.** When a measurement
+contradicts it, it is simply wrong: change it, and leave the correction beside it
+with how it went wrong.
+
+The failure mode here is **too slow**. The heading claim was generalised from one
+document and survived three successive learnings that built on it before anything
+counted the other 359. Three documents looked like a timeline for the renaming,
+and a count over 409 showed a cliff.
+
+### A construct is demoted, not deleted
+
+A construct is a field, a category, a name, a folder, a template — `kind`,
+`status: asked`, `Wiki/compare/`. **It is not true or false. It is useful or it
+is not, and its test is use, not argument.**
+
+The failure mode here is **too fast**, and it is the newer one. When `kind: brief
+| critique | result` drew the objection *don't commit to fixed document types*,
+the right response was to stop it carrying weight. Instead it was removed
+outright, in the same turn, with a decision file arguing the removal. „Don't
+commit to it" is not „delete it", and the deletion cost something concrete: the
+finding that *a result closes a question an earlier brief asked* needs that
+distinction to even be sayable.
+
+**So: a construct is never deleted on first objection.** It is demoted, in place:
+
+```yaml
+kind: brief          # provisional — a first-pass guess, not established
+                     # may not: explain format, decide how a passage is read
+                     # retire when: 20 documents show it predicts nothing
+```
+
+Three lines, and they do the work an argument was doing:
+
+- **`provisional`** says out loud that it is a guess, so nothing downstream may
+  lean on it without saying so.
+- **`may not`** is the objection, kept — usually the objection is not that the
+  thing should not exist but that it was reaching too far. Write down the reach
+  it loses.
+- **`retire when`** names the evidence that would end it, so the next argument is
+  a measurement instead of a preference.
+
+A construct that has carried a `may not` for twenty documents without once being
+useful can go, and then it goes quietly — no decision file is needed to stop
+using something nobody used.
+
+### When a construct really does have to go
+
+Delete it when it is **actively wrong**, not merely unproven: when keeping it
+would make someone assert something false. Then it leaves with a decision file
+and its idea is written down where it can be picked up again — `PRINCIPLES.md`
+has a catalogue for exactly that, and a shelved idea with its use case attached
+costs nothing to keep.
+
+### The asymmetry, stated plainly
+
+**Be quick to measure a claim and slow to remove a construct.** The two feel like
+the same virtue — being responsive to evidence — and they are opposites. A claim
+that survives because nobody counted is a lie the repository tells itself. A
+construct that dies on first objection takes with it every question it was the
+only way to ask.
+
 ## Learnings
 
 `Plan/learnings/` holds one file per step: what was learned, what the tool must
