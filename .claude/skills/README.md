@@ -1,6 +1,6 @@
 # Repo-local skills — Kohärenz Protokoll
 
-Four skills carry the craft of writing this novel. They point at live repo
+Five skills carry the craft of writing this novel and keeping its wiki usable. They point at live repo
 data and are meant to be read before novel architecture, chapter planning,
 prose drafting, Dramatica analysis or NCP changes.
 
@@ -32,6 +32,9 @@ NCP files, the graph-state warnings and the drafting rules.
   controlled mutations.
 - [lit-critic](./lit-critic/SKILL.md) — the editorial prose gate: run
   lit-critic over a chapter, read its report, triage findings against canon.
+- [wiki-maintenance](./wiki-maintenance/SKILL.md) — the research wiki's
+  structure: partitions, page boundaries, local indexes, links and
+  schema/tool alignment. It never decides Canon or rewrites research claims.
 
 Reasoning reference for hard cases — epistemology, metascience filters,
 adversarial protocols, anti-patterns — is

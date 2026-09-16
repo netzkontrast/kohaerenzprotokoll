@@ -17,7 +17,8 @@ never sets it on its own (``writers.yaml → user_flags``). With it the run
 calls the LM, prints the knowledge diff, writes ``Wiki/candidates/**``,
 appends to ``Wiki/graph/edges.jsonl`` and ``Wiki/log.md``, and finishes by
 linting every page it wrote. Nothing is promoted: ``/wiki-promote`` moves a
-reviewed candidate into ``Wiki/sources/`` or ``Wiki/concepts/``.
+reviewed candidate into the canonical partition below ``Wiki/sources/`` or
+``Wiki/concepts/``.
 
 Exit status: 0 when the run finished (lint findings are reported, not fatal),
 1 when the selection is empty, 2 when a selected export is missing from disk.

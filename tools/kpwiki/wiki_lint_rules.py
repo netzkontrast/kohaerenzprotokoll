@@ -50,6 +50,9 @@ SHA256_HEX_RE = re.compile(r"^[0-9a-f]{64}$")
 GERMAN_QUOTE_RE = re.compile(r"„[^“]*“")
 WORD_RE = re.compile(r"\w+")
 WHERE_RE = re.compile(r'^(?:(body)|frontmatter\.(\S+)|section "([^"]+)"|edges\.(\S+))$')
+MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
+NAV_DOCS = ("index.md", "overview.md", "concept-table.md", "context-map.md",
+            "GLOSSARY.md", "SCHEMA.md", "log.md")
 
 
 @dataclass
@@ -388,6 +391,20 @@ def field_problem(kind: str, name: str, spec: dict[str, Any], value: Any) -> str
         return None if is_iso_date(value) else f"{value!r} is not an ISO date (YYYY-MM-DD)"
     if spec.get("type") == "bool":
         return None if isinstance(value, bool) else f"{value!r} is not a boolean"
+    if spec.get("type") == "int":
+        if isinstance(value, bool) or not isinstance(value, int):
+            return f"{value!r} is not an integer"
+        if "min" in spec and value < int(spec["min"]):
+            return f"{value!r} is below {spec['min']}"
+        if "max" in spec and value > int(spec["max"]):
+            return f"{value!r} is above {spec['max']}"
+        return None
+    if spec.get("type") == "str":
+        if not isinstance(value, str):
+            return f"{value!r} is not a string"
+        if "max_words" in spec and len(WORD_RE.findall(value)) > int(spec["max_words"]):
+            return f"has more than {spec['max_words']} words"
+        return None
     if "list_of" in spec:
         if not isinstance(value, list) or len(value) < int(spec.get("min", 0)):
             return f"must be a list with at least {spec.get('min', 0)} entries"
@@ -566,6 +583,89 @@ def rule_sparse_page(ctx: LintContext) -> list[Finding]:
         if words < SPARSE_MIN_WORDS:
             out.append(Finding("sparse-page", "warn", path, None,
                                f"body has {words} words (fewer than {SPARSE_MIN_WORDS})"))
+    return out
+
+
+def rule_page_size(ctx: LintContext) -> list[Finding]:
+    """Keep pages focused; a hard maximum requires a semantic split."""
+    out: list[Finding] = []
+    for page in ctx.pages:
+        if not known_kind(page):
+            continue
+        budget = wiki_schema.page_budget(page.kind)
+        words = len(WORD_RE.findall(wiki_pages.strip_code(page.body)))
+        if budget.get("max_words") and words > budget["max_words"]:
+            out.append(Finding("page-size", "error", ctx.page_path(page), None,
+                               f"body has {words} words; maximum is {budget['max_words']}; split by semantic entity"))
+        elif budget.get("warn_words") and words > budget["warn_words"]:
+            out.append(Finding("page-size", "warn", ctx.page_path(page), None,
+                               f"body has {words} words; split is recommended above {budget['warn_words']}"))
+    return out
+
+
+def rule_page_location(ctx: LintContext) -> list[Finding]:
+    """Every page lives exactly one partition below its kind directory."""
+    out: list[Finding] = []
+    for page in ctx.pages:
+        if not known_kind(page):
+            continue
+        parts = Path(page.rel).parts
+        expected = wiki_schema.partition_for(page.kind, page.front)
+        root = Path(wiki_schema.kind(page.kind)["dir"]).name
+        target = (f"candidates/{root}/{expected}/{page.slug}.md" if page.is_candidate
+                  else f"{root}/{expected}/{page.slug}.md")
+        if page.rel != target:
+            out.append(Finding("page-location", "error", ctx.page_path(page), None,
+                               f"must live at {target} (one canonical partition)"))
+    return out
+
+
+def rule_duplicate_slug(ctx: LintContext) -> list[Finding]:
+    """Slugs are unique within promoted pages and within candidate pages."""
+    out: list[Finding] = []
+    for label, pages in (("promoted wiki", ctx.main_pages), ("candidates", ctx.candidates)):
+        grouped: dict[str, list[Page]] = defaultdict(list)
+        for page in pages:
+            grouped[page.slug].append(page)
+        for slug, matches in sorted(grouped.items()):
+            if len(matches) < 2:
+                continue
+            paths = ", ".join(ctx.page_path(page) for page in matches)
+            out.append(Finding("duplicate-slug", "error", ctx.page_path(matches[0]), None,
+                               f"slug {slug!r} occurs {len(matches)} times in {label}: {paths}"))
+    return out
+
+
+def rule_navigation_link(ctx: LintContext) -> list[Finding]:
+    """Internal links in the navigation surface must resolve on disk."""
+    out: list[Finding] = []
+    docs = [ctx.wiki_root / name for name in NAV_DOCS]
+    docs.extend(sorted(ctx.wiki_root.glob("**/README.md")))
+    for path in docs:
+        if not path.is_file():
+            continue
+        for lineno, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+            for raw in MARKDOWN_LINK_RE.findall(line):
+                target = raw.strip().split("#", 1)[0]
+                if not target or "://" in target or target.startswith(("mailto:", "#")):
+                    continue
+                resolved = (path.parent / target).resolve()
+                if not resolved.exists():
+                    out.append(Finding("navigation-link", "error", ctx.display(path), lineno,
+                                       f"internal link target does not exist: {raw}"))
+    return out
+
+
+def rule_context_window(ctx: LintContext) -> list[Finding]:
+    """Retrieval metadata must describe a coherent chapter window."""
+    out: list[Finding] = []
+    for page in ctx.pages:
+        if not known_kind(page) or "context_summary" not in kind_fields(page.kind):
+            continue
+        start, end = page.front.get("chapter_start"), page.front.get("chapter_end")
+        if isinstance(start, int) and isinstance(end, int) and start > end:
+            out.append(Finding("context-window", "error", ctx.page_path(page), 1,
+                               f"chapter_start {start} is after chapter_end {end}"))
     return out
 
 
@@ -858,34 +958,44 @@ def rule_no_auto_canon_page(ctx: LintContext) -> list[Finding]:
 
 # --- rule 17: index-sync ----------------------------------------------------------------
 
-RENDERERS = {"index.md": "render_index", "concept-table.md": "render_concept_table"}
-
-
 def rule_index_sync(ctx: LintContext) -> list[Finding]:
+    # A wiki that does not exist has nothing to render: demanding its indexes
+    # would make --health on an absent Wiki/ report errors for every view.
+    if not ctx.wiki_root.is_dir():
+        return []
     try:
         from . import wiki_views
     except ImportError as exc:
         return [Finding("index-sync", "info", ctx.display(ctx.wiki_root), None,
                         f"tools/kpwiki/wiki_views unavailable ({exc}); rule skipped")]
     out: list[Finding] = []
-    # The renderers count candidates, so they see every page — as render_wiki_views.py does.
-    pages = ctx.pages
-    for name in wiki_pages.RENDERED_FILES:
+    try:
+        expected_views = wiki_views.views(ctx.wiki_root, ctx.repo_root)
+    except Exception as exc:
+        return [Finding("index-sync", "warn", ctx.display(ctx.wiki_root), None,
+                        f"could not render views: {exc}")]
+    for name, expected in expected_views.items():
         target = ctx.wiki_root / name
         path = ctx.display(target)
         if not target.exists():
-            if pages:
-                out.append(Finding("index-sync", "error", path, None,
-                                   "rendered view is missing; run scripts/render_wiki_views.py"))
-            continue
-        try:
-            expected = getattr(wiki_views, RENDERERS[name])(pages)
-        except Exception as exc:  # the renderer is another tool; its failure is reported, not raised
-            out.append(Finding("index-sync", "warn", path, None, f"could not render: {exc}"))
+            out.append(Finding("index-sync", "error", path, None,
+                               "rendered navigation is missing; run scripts/render_wiki_views.py"))
             continue
         if target.read_text(encoding="utf-8").rstrip() != str(expected).rstrip():
             out.append(Finding("index-sync", "error", path, None,
                                "differs from the rendered view; run scripts/render_wiki_views.py"))
+    expected_readmes = {name for name in expected_views if name.endswith("/README.md")}
+    managed_roots = [Path(wiki_schema.kind(kind)["dir"]).name for kind in wiki_schema.kinds()]
+    managed_roots.append(wiki_pages.CANDIDATES_DIR)
+    for root in managed_roots:
+        folder = ctx.wiki_root / root
+        if not folder.is_dir():
+            continue
+        for readme in folder.rglob("README.md"):
+            rel = readme.relative_to(ctx.wiki_root).as_posix()
+            if rel not in expected_readmes:
+                out.append(Finding("index-sync", "error", ctx.display(readme), None,
+                                   "stale rendered navigation; remove it and re-render"))
     return out
 
 
@@ -1047,6 +1157,11 @@ RULES: dict[str, Callable[[LintContext], list[Finding]]] = {
     "orphan": rule_orphan,
     "missing-entity": rule_missing_entity,
     "sparse-page": rule_sparse_page,
+    "page-size": rule_page_size,
+    "page-location": rule_page_location,
+    "duplicate-slug": rule_duplicate_slug,
+    "navigation-link": rule_navigation_link,
+    "context-window": rule_context_window,
     "citation-resolves": rule_citation_resolves,
     "stale-source": rule_stale_source,
     "xref-symmetry": rule_xref_symmetry,

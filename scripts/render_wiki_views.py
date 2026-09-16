@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Render the tools-only views of the research wiki from page frontmatter.
 
-    python3 scripts/render_wiki_views.py            # write index.md, concept-table.md, graph/coverage.json
+    python3 scripts/render_wiki_views.py            # write global views and local README indexes
     python3 scripts/render_wiki_views.py --check    # exit 1 when any view is stale or missing
 
-The three files are derived (``Wiki/schema/conventions.yaml`` → ``tools_only``)
+These files are derived (``Wiki/schema/conventions.yaml`` → ``tools_only``)
 and never edited by hand; ``scripts/wiki_lint.py`` rule ``index-sync`` fails
 until this script has been re-run. Rendering is deterministic (no timestamps),
 so ``--check`` is stable. Standard library plus PyYAML only.

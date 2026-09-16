@@ -12,7 +12,7 @@ argument-hint: "[--slug <slug> | --category audit | --tier T3-work] [--batch N]"
 Phase B+C of the knowledge system (`Plan/wiki/knowledge-system-concept_2026-09-15.md`
 §4). The program is `tools/kpwiki` `BatchCompile` (skill `dspy-wiki-compile`);
 this command runs it and files what it drafted. It writes
-`Wiki/candidates/**`, `Wiki/graph/edges.jsonl` and `Wiki/log.md` and nothing
+`Wiki/candidates/<kind-dir>/<partition>/**`, `Wiki/graph/edges.jsonl` and `Wiki/log.md` and nothing
 else — `Wiki/sources/`, `Wiki/concepts/` and `Canon/` belong to
 `/wiki-promote` and to the author (`Wiki/schema/writers.yaml`).
 

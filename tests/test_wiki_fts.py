@@ -35,10 +35,11 @@ SOURCE_PAGE = "Ein Drive-Export über Argus und die Monstergruppe.\n"
 
 @pytest.fixture
 def tree(tmp_path: Path) -> Path:
-    (tmp_path / "Wiki/concepts").mkdir(parents=True)
+    # concepts partition by kind_detail (Wiki/schema/conventions.yaml → partitions).
+    (tmp_path / "Wiki/concepts/concept").mkdir(parents=True)
     (tmp_path / "Canon").mkdir()
     (tmp_path / "Sources/drive").mkdir(parents=True)
-    (tmp_path / "Wiki/concepts/schleier.md").write_text(WIKI_PAGE, encoding="utf-8")
+    (tmp_path / "Wiki/concepts/concept/schleier.md").write_text(WIKI_PAGE, encoding="utf-8")
     (tmp_path / "Canon/kernwelt.md").write_text(CANON_PAGE, encoding="utf-8")
     (tmp_path / "Sources/drive/argus.md").write_text(SOURCE_PAGE, encoding="utf-8")
     return tmp_path
@@ -73,7 +74,7 @@ def test_search_prints_path_line_range_and_heading(tree, capsys):
     run(tree, "build")
     assert run(tree, "search", "Multiplizität Kapitel") == 0
     out = capsys.readouterr().out
-    assert "Wiki/concepts/schleier.md:L8-L13" in out and "Schleier > Definition" in out
+    assert "Wiki/concepts/concept/schleier.md:L8-L13" in out and "Schleier > Definition" in out
 
 
 def test_search_json_and_scope_filter(tree, capsys):

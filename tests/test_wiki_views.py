@@ -64,13 +64,21 @@ def make_wiki(tmp_path: Path) -> Path:
     return wiki
 
 
-def test_index_lists_promoted_pages_and_counts_candidates(tmp_path):
+def test_index_counts_each_kind_and_routes_to_its_local_navigation(tmp_path):
+    """The root index is a router: counts per kind plus one link per content root.
+
+    Individual pages are deliberately absent — they live in the rendered local
+    README indexes, so loading the root index stays cheap however large the
+    wiki grows (Wiki/schema/conventions.yaml -> root_index_policy).
+    """
     wiki = make_wiki(tmp_path)
     text = wiki_views.render_index(wiki_pages.iter_pages(wiki))
-    assert "## Sources (1)" in text and "## Concepts (1)" in text and "## Candidates (1)" in text
-    assert "- [Konzeptentwicklung](sources/konzeptentwicklung.md) · T3-work · kernkonzept · reviewed" in text
-    assert "- [Kohärenz](concepts/kohaerenz.md) · rule · high · unverified · contested" in text
-    assert "q1" not in text and "## Questions (0)\n\n_none yet_" in text
+    assert "## Sources (1)" in text and "## Concepts (1)" in text
+    assert "## Candidates (1)" in text and "## Questions (0)" in text
+    for root in ("sources", "concepts", "questions", "syntheses", "candidates"):
+        assert f"({root}/README.md)" in text, root
+    # The router never inlines page titles or their metadata.
+    assert "Konzeptentwicklung" not in text and "q1" not in text
 
 
 def test_concept_table_strips_citations_and_links(tmp_path):
@@ -110,8 +118,13 @@ def test_cli_writes_views_then_check_is_clean_and_detects_drift(tmp_path):
 
 def test_cli_check_reports_missing_views_and_missing_wiki(tmp_path):
     wiki = make_wiki(tmp_path)
-    assert sorted(wiki_views.check(wiki, tmp_path)) == [
-        "concept-table.md: missing", "graph/coverage.json: missing", "index.md: missing"]
+    missing = sorted(wiki_views.check(wiki, tmp_path))
+    # The root views, plus one rendered navigation index per content root.
+    for name in ("index.md", "concept-table.md", "context-map.md", "graph/coverage.json"):
+        assert f"{name}: missing" in missing, name
+    for root in ("sources", "concepts", "questions", "syntheses", "candidates"):
+        assert f"{root}/README.md: missing" in missing, root
+    assert all(entry.endswith(": missing") for entry in missing)
     assert _load_cli().main(["--wiki-root", str(tmp_path / "nowhere")]) == 2
 
 

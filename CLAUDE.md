@@ -23,6 +23,14 @@ Two decisions that are never a session's to make:
 - **Promotion and canon.** Research becomes a wiki page, and a wiki page
   becomes canon, only when the author says so.
 
+## Session startup
+
+Read the root `todo.md` at the beginning of every session, before planning or
+changing repository content. Treat its highest-priority open task, scope
+boundaries, sequencing, and acceptance criteria as active project context.
+Do not silently start a deferred migration: follow the task's stated mode and
+ask the author when it requires an architectural decision.
+
 ## The five layers
 
 | layer | what it is | who writes it |
@@ -168,6 +176,24 @@ is a cosmological constant and witness function, not a love interest. Theory
 stays submerged — mechanisms reach the reader through work, objects, timing,
 space, body, logs and omission. No DKT terminology in the first 50 pages; the
 Multiplizitäts-Schleier holds until Kap 13.
+
+## Wiki compass (read before `Wiki/**` work)
+
+The concise cross-agent rules live in `AGENTS.md`; the full contract lives in
+`Wiki/SCHEMA.md` and `Wiki/schema/*.yaml`. The four page entities are `source`,
+`concept`, `question`, and `synthesis`. Store one semantic entity per page at
+`sources/<category>/`, `concepts/<kind_detail>/`, `questions/<axis>/`, or
+`syntheses/<YYYY>/`; candidates mirror that layout. Start at `Wiki/index.md`
+and descend through rendered local `README.md` indexes. Page budgets are
+enforced by `scripts/wiki_lint.py`; split before the hard maximum. Never edit
+rendered indexes by hand. Use the repo-local `wiki-maintenance` skill for
+moves, splits, navigation repair, and schema evolution. Operational terms are
+defined in `Wiki/GLOSSARY.md`; the domain glossary remains generated at
+`Codex/GLOSSARY.md`. Duplicate slugs, broken navigation links, mispartitioned
+pages, oversized pages, and stale local indexes are structural blockers.
+For manuscript retrieval, start with `Wiki/context-map.md`, enforce its
+chapter/spoiler window, load matching headings next, and inspect raw source
+lines only when evidence is required.
 
 ## Every LLM step is a DSPy program
 

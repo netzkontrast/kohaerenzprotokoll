@@ -19,6 +19,7 @@ Deutschsprachiges Romanprojekt im Genre **Hard SciFi / Cosmic Horror / Psycholog
 | [Plan/ingest](Plan/ingest/) | Extraktionen und Importprotokolle |
 | [Plan/sessions](Plan/sessions/) | Festgehaltene Erkenntnisse aus Arbeitssitzungen |
 | [Codex](Codex/) | Generierte Glossar-, Timeline- und Axiom-Ansichten aus dem Graphen |
+| [Wiki](Wiki/index.md) | Research-Wiki mit kurzen Entitätsseiten, lokalen Indizes und spoilerbewusster [Context Map](Wiki/context-map.md) |
 | [Sources](Sources/) | Roh-Ebene: Manifest und Markdown-Exporte der Google-Drive-Quellen (nicht Canon, unveränderlich) |
 | [Plan/wiki](Plan/wiki/) | Konzept des Wissenssystems (Research-Wiki, Prozess, Skills), Repo-Survey, DSPy-Basis |
 | [Plan/quality](Plan/quality/) | Berichte der Qualitäts-Gates, u. a. [lit-critic](Plan/quality/lit-critic/) |

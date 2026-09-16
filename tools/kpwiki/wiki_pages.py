@@ -33,7 +33,7 @@ TOKEN_RE = re.compile(r"\{\{(\w+)\}\}")
 
 PAGE_DIRS = ("sources", "concepts", "questions", "syntheses")
 CANDIDATES_DIR = "candidates"
-RENDERED_FILES = ("index.md", "concept-table.md")
+RENDERED_FILES = ("index.md", "concept-table.md", "context-map.md")
 FIXED_FILES = ("SCHEMA.md", "log.md", "overview.md")
 
 
@@ -130,6 +130,8 @@ def iter_pages(wiki_root: Path, include_candidates: bool = True) -> list[Page]:
         if not folder.is_dir():
             continue
         for path in sorted(folder.rglob("*.md")):
+            if path.name == "README.md":
+                continue
             pages.append(load_page(path, wiki_root))
     return pages
 

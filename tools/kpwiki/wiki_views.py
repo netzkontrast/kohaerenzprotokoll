@@ -1,7 +1,8 @@
 """Rendered views of the research wiki.
 
-``Wiki/index.md``, ``Wiki/concept-table.md`` and ``Wiki/graph/coverage.json``
-are derived from page frontmatter and never edited by hand
+``Wiki/index.md``, local navigation ``README.md`` files,
+``Wiki/concept-table.md`` and ``Wiki/graph/coverage.json`` are derived from
+page frontmatter and never edited by hand
 (``conventions.yaml`` → ``ownership.tools_only``). ``scripts/render_wiki_views.py``
 writes them; ``scripts/wiki_lint.py`` (rule ``index-sync``) compares the files
 on disk with what these functions return. Everything here is deterministic —
@@ -15,14 +16,14 @@ from collections import Counter
 from pathlib import Path
 from typing import Any
 
-from . import wiki_pages
+from . import wiki_pages, wiki_schema
 from .wiki_pages import Page
 
 RENDER_NOTE = ("<!-- rendered by scripts/render_wiki_views.py from page frontmatter; "
                "edit the pages, not this file -->")
 KINDS = (("source", "Sources"), ("concept", "Concepts"),
          ("question", "Questions"), ("synthesis", "Syntheses"))
-VIEW_FILES = ("index.md", "concept-table.md", "graph/coverage.json")
+VIEW_FILES = ("index.md", "concept-table.md", "context-map.md", "graph/coverage.json")
 DEFINITION_MAX_CHARS = 160
 EMPTY = "—"
 CITATION_RE = re.compile(r"\s*\^\[[^\]]*\]")
@@ -55,21 +56,116 @@ def _index_row(page: Page) -> str:
 
 
 def render_index(pages: list[Page]) -> str:
-    """The catalogue by kind; candidates are counted, never listed."""
+    """Compact global hub; detailed page lists live in local README indexes."""
     promoted = _promoted(pages)
     candidates = [p for p in pages if p.is_candidate]
     lines = ["# Wiki index", "", RENDER_NOTE, "",
              "- [Overview](overview.md) · what we currently understand the novel to be",
+             "- [Context map](context-map.md) · compact, spoiler-aware router for manuscript work",
              "- [Concept table](concept-table.md) · concept · definition · sources · status · open questions",
              "- [Log](log.md) · append-only record of every operation",
+             "- [Glossary](GLOSSARY.md) · page kinds, status and navigation terms",
              "- [Schema](SCHEMA.md) · the operating contract"]
     for kind, heading in KINDS:
         rows = [p for p in promoted if p.kind == kind]
+        root = Path(wiki_schema.kind(kind)["dir"]).name
         lines += ["", f"## {heading} ({len(rows)})", ""]
-        lines += [_index_row(p) for p in rows] or ["_none yet_"]
+        lines += [f"- [{heading} navigation]({root}/README.md)"]
     lines += ["", f"## Candidates ({len(candidates)})", "",
-              "_written by a program, awaiting `/wiki-promote`; not part of the wiki until promoted_"]
+              "- [Candidate navigation](candidates/README.md) · machine drafts awaiting human review",
+              "", "_Candidates are not part of the promoted wiki until `/wiki-promote`._"]
     return "\n".join(lines) + "\n"
+
+
+def _local_header(title: str, up: str) -> list[str]:
+    return [f"# {title}", "", RENDER_NOTE, "", f"[Up]({up})", ""]
+
+
+def _partition_values(kind: str) -> list[str]:
+    key = wiki_schema.kind(kind).get("partition_by")
+    if key == "filed_year":
+        return []
+    field = wiki_schema.kind(kind).get("fields", {}).get(key, {})
+    enum = field.get("enum")
+    if isinstance(enum, str):
+        return wiki_schema.enum_values(enum)
+    if isinstance(enum, list):
+        return list(enum)
+    return []
+
+
+def _kind_intro(kind: str) -> list[str]:
+    spec = wiki_schema.kind(kind)
+    root = Path(spec["dir"]).name
+    key = spec["partition_by"]
+    budget = spec.get("page_budget", {})
+    path = f"{root}/<YYYY>/<slug>.md" if key == "filed_year" else f"{root}/<{key}>/<slug>.md"
+    return [
+        f"One `{kind}` per page. Canonical path: `{path}`.",
+        "",
+        (f"Page budget: ideal ≤ {budget.get('ideal_words')} words · review above "
+         f"{budget.get('warn_words')} · hard maximum {budget.get('max_words')} words."),
+        "",
+        "## Partitions",
+        "",
+    ]
+
+
+def render_local_indexes(pages: list[Page]) -> dict[str, str]:
+    """One deterministic README for each kind root and occupied partition."""
+    rendered: dict[str, str] = {}
+    promoted = _promoted(pages)
+    for kind, heading in KINDS:
+        root = Path(wiki_schema.kind(kind)["dir"]).name
+        rows = [p for p in promoted if p.kind == kind]
+        grouped: dict[str, list[Page]] = {}
+        for page in rows:
+            parts = Path(page.rel).parts
+            partition = parts[1] if len(parts) == 3 else "_misfiled"
+            grouped.setdefault(partition, []).append(page)
+        root_lines = _local_header(heading, "../index.md") + _kind_intro(kind)
+        partitions = sorted(set(_partition_values(kind)) | set(grouped))
+        if partitions:
+            for partition in partitions:
+                count = len(grouped.get(partition, []))
+                if count:
+                    root_lines.append(f"- [{partition}]({partition}/README.md) · {count} page(s)")
+                else:
+                    root_lines.append(f"- `{partition}` · 0 pages")
+        else:
+            root_lines.append("_No year partition exists until the first synthesis is filed._")
+        rendered[f"{root}/README.md"] = "\n".join(root_lines) + "\n"
+        for partition, items in sorted(grouped.items()):
+            lines = _local_header(f"{heading} · {partition}", "../README.md")
+            lines.extend(_index_row(page).replace(f"]({root}/{partition}/", "](") for page in items)
+            rendered[f"{root}/{partition}/README.md"] = "\n".join(lines) + "\n"
+    candidates = [p for p in pages if p.is_candidate]
+    lines = _local_header("Candidates", "../index.md")
+    lines.append("Draft pages awaiting human review and `/wiki-promote`.")
+    lines.append("")
+    by_kind: dict[str, list[Page]] = {}
+    for page in candidates:
+        by_kind.setdefault(page.kind or "unknown", []).append(page)
+    for kind, items in sorted(by_kind.items()):
+        root = Path(wiki_schema.kind(kind)["dir"]).name if kind in wiki_schema.kinds() else kind
+        lines.append(f"- [{kind}]({root}/README.md) · {len(items)} page(s)")
+        partitions: dict[str, list[Page]] = {}
+        for page in items:
+            parts = Path(page.rel).parts
+            partition = parts[2] if len(parts) == 4 else "_misfiled"
+            partitions.setdefault(partition, []).append(page)
+        kind_lines = _local_header(f"Candidates · {kind}", "../README.md")
+        for partition, partition_items in sorted(partitions.items()):
+            kind_lines.append(f"- [{partition}]({partition}/README.md) · {len(partition_items)} page(s)")
+            item_lines = _local_header(f"Candidates · {kind} · {partition}", "../README.md")
+            prefix = f"candidates/{root}/{partition}/"
+            item_lines.extend(_index_row(page).replace(f"]({prefix}", "](") for page in partition_items)
+            rendered[f"candidates/{root}/{partition}/README.md"] = "\n".join(item_lines) + "\n"
+        rendered[f"candidates/{root}/README.md"] = "\n".join(kind_lines) + "\n"
+    if not by_kind:
+        lines.append("_No candidates yet._")
+    rendered["candidates/README.md"] = "\n".join(lines) + "\n"
+    return rendered
 
 
 def _definition(page: Page) -> str:
@@ -92,7 +188,7 @@ def _open_question_count(page: Page) -> int:
 def render_concept_table(pages: list[Page]) -> str:
     """The compressed map: one row per promoted concept page."""
     concepts = [p for p in _promoted(pages) if p.kind == "concept"]
-    lines = ["# Concept table", "", RENDER_NOTE, "",
+    lines = ["# Concept table", "", RENDER_NOTE, "", "[Up](index.md)", "",
              "| concept | kind | definition | sources | confidence | canon | status | open questions |",
              "|---|---|---|---|---|---|---|---|"]
     for page in concepts:
@@ -104,6 +200,41 @@ def render_concept_table(pages: list[Page]) -> str:
         ]) + " |")
     if not concepts:
         lines.append("| _no concept pages yet_ | | | | | | | |")
+    return "\n".join(lines) + "\n"
+
+
+def _table_text(value: Any) -> str:
+    return " ".join(str(value or EMPTY).split()).replace("|", "\\|")
+
+
+def render_context_map(pages: list[Page]) -> str:
+    """Compact router: choose pages before loading their bodies or raw evidence."""
+    routable = [p for p in _promoted(pages)
+                if p.kind in {"concept", "question", "synthesis"}
+                and p.status not in {"archived", "superseded"}]
+    priority = {"core": 0, "supporting": 1, "evidence": 2}
+    routable.sort(key=lambda p: (priority.get(str(p.front.get("context_priority")), 9),
+                                 int(p.front.get("chapter_start", 99)), p.slug))
+    lines = [
+        "# Context map", "", RENDER_NOTE, "", "[Up](index.md)", "",
+        "Use this page as the first retrieval hop for manuscript work:", "",
+        "1. Filter by the target chapter and keep only rows whose `spoiler until` is not after it.",
+        "2. Load the smallest matching page sections; use heading-level FTS hits instead of whole pages.",
+        "3. Open cited source lines only when evidence or exact wording is needed.", "",
+        "| page | kind | priority | scope | relevant chapters | spoiler until | context summary |",
+        "|---|---|---|---|---:|---:|---|",
+    ]
+    for page in routable:
+        start, end = page.front.get("chapter_start"), page.front.get("chapter_end")
+        chapters = str(start) if start == end else f"{start}–{end}"
+        lines.append("| " + " | ".join([
+            f"[{_table_text(page.title)}]({page.rel})", _table_text(page.kind),
+            _table_text(page.front.get("context_priority")), _table_text(page.front.get("context_scope")),
+            chapters, _table_text(page.front.get("spoiler_until")),
+            _table_text(page.front.get("context_summary")),
+        ]) + " |")
+    if not routable:
+        lines.append("| _no routable pages yet_ | | | | | | |")
     return "\n".join(lines) + "\n"
 
 
@@ -154,11 +285,14 @@ def views(wiki_root: Path, repo_root: Path) -> dict[str, str]:
     pages = wiki_pages.iter_pages(wiki_root, include_candidates=True)
     edges = wiki_pages.read_edges(wiki_root / "graph" / "edges.jsonl")
     manifest = repo_root / "Sources" / "manifest.jsonl"
-    return {
+    rendered = {
         "index.md": render_index(pages),
         "concept-table.md": render_concept_table(pages),
+        "context-map.md": render_context_map(pages),
         "graph/coverage.json": render_coverage(coverage(pages, edges, manifest)),
     }
+    rendered.update(render_local_indexes(pages))
+    return rendered
 
 
 def check(wiki_root: Path, repo_root: Path) -> list[str]:
