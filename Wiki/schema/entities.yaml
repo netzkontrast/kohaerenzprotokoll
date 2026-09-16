@@ -67,7 +67,7 @@ kinds:
     one_per: merged idea, entity, rule, theory or motif across sources
     template: Wiki/templates/concept.md.tmpl
     required: [title, kind, slug, kind_detail, status, confidence, sources, canon_status]
-    optional: [aliases, codex_ref, canon_ref, tags, disagreements]
+    optional: [aliases, codex_ref, canon_ref, tags, disagreements, table_status, ingested]
     fields:
       kind: {const: concept}
       kind_detail: {enum: kind_detail}
@@ -75,6 +75,13 @@ kinds:
       confidence: {enum: confidence, requires: evidence}
       sources: {list_of_ref: source, min: 1}
       canon_status: {enum: canon_status, initial: unverified}
+      # What the merged sources currently support, as the concept table reads it;
+      # contradicted while any disagreement is pending. The lifecycle field above
+      # stays draft/reviewed/… — this is the evidence state, not the review state.
+      table_status: {enum: concept_table_status}
+      disagreements: {list_of: str}
+      # When /research-ingest drafted the candidate; the lint dates candidate-age by it.
+      ingested: {format: date}
       codex_ref: {pattern: "^codex:[a-z0-9-]+$", terminal: true}
       canon_ref: {pattern: "^canon:[^#]+#.+$", terminal: true}
     sections: [Definition, What Canon says, Where sources agree, Where they disagree, Timeline of the idea, Open questions]
