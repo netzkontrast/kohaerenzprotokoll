@@ -1,88 +1,135 @@
-# Sources — raw, immutable evidence layer
+# Sources — the only layer that is true
 
-The index
-[Plan/research/koharenz-protokoll_google-drive-quellenindex_2026-09-15.md](../Plan/research/koharenz-protokoll_google-drive-quellenindex_2026-09-15.md)
-lists 693 Google-Drive documents. The 13 appendix rows are `T4-out-of-scope`
-and excluded from the manifest by default (D-W9), so `manifest.jsonl` carries
-**680 records**. Each of them lands here as a **markdown export**, one file per
-document, and is never edited afterwards (the Karpathy rule: the LLM reads raw
-sources, it does not write them). None of them is canon — `Canon/` stays the
-normative corpus; everything here is research the wiki (`Wiki/`, see
-`Plan/wiki/`) derives from.
+680 research documents exported from Google Drive, plus the manifest that
+indexes them. Everything else in this repository is derived from here; nothing
+here is derived from anything else.
+
+**Documents are immutable once landed.** They are written by
+`scripts/sources.py` and by nothing else — `.claude/settings.json` denies the
+Write and Edit tools on `Sources/drive/**` so that a hand cannot edit a source
+while a checksum claims it is untouched.
+
+None of it is canon. A source says what someone wrote on a particular day; what
+that *means* is decided in `Wiki/`, by a person.
+
+## Layout
 
 | path | what | committed |
 |---|---|---|
-| `manifest.jsonl` | one line per document: `drive_id`, `title`, `slug`, `category`, `tier`, `format`, `index_date`, `byte_equal_copies`, plus the export fields (`export_path`, `sha256`, `exported_at`, `truncated`) filled by the fetch step and the dedup fields (`duplicate_of`, `superseded_by`) set by `scripts/source_dedup.py` | yes |
-| `drive/<slug>.md` | markdown export (Drive MCP / `drive-markdown-converter`), UTF-8, LF | yes (D-W1) |
-| `originals/` | binary originals (docx/pdf/mp3) | no (git-ignored) |
+| `manifest.jsonl` | one row per document — the spine | yes |
+| `drive/<slug>.md` | the landed document, UTF-8, LF | yes |
 
-Rebuild the manifest from the index: `python3 scripts/source_inventory.py`
-(`--check` exits 1 when stale; `--stats` prints tier/category/format counts;
-`--include-out-of-scope` keeps the 13 appendix rows). Slugs are disambiguated
-over all 693 rows before the appendix is dropped, so the 680 surviving slugs
-never change. A rebuild carries the export and dedup fields of the existing
-manifest over by `drive_id`, so `--check` keeps passing after exports.
+A manifest row carries `drive_id`, `title`, `slug`, `category`, `tier`,
+`format`, `index_date` from the Drive index, and once landed: `export_path`,
+`sha256`, `sha256_raw`, `exported_at`.
 
-Tiers: `T0-duplicate` (byte-equal copy of another export), `T1-superseded`
-(older version of a newer document), `T2-theory` (external science),
-`T3-work` (work-related), `T4-out-of-scope`. T0/T1 are assigned after export
-by hash and near-duplicate clustering (`scripts/source_dedup.py`); T2/T3/T4
-come from the index sections.
+`drive_id` and `slug` come from the index and are never re-derived, so a
+citation written today still resolves after a re-fetch.
 
-Write access to this directory is meant to be denied for the agent
-(`.claude/settings.json` → `permissions.deny`: `Write(Sources/**)`, `Edit(Sources/**)`);
-only the fetch procedure below, the inventory script and the dedup script write here.
+## Working with it
 
-## Fetch procedure
+```bash
+python3 scripts/sources.py status                       # by category and tier
+python3 scripts/sources.py check                        # manifest against disk
+python3 scripts/sources.py fetch --category theorie-physik
+```
 
-One document, end to end. The manifest record is identified by its `drive_id`
-and its `slug`; both come from the index and are never re-derived.
+`check` is the one to run habitually. It reports rows never fetched, rows whose
+file has gone, checksums that no longer match, and files no row claims. Nothing
+compared the manifest against the disk before, which is how an export that
+covered 26 of 680 documents went unnoticed long enough to become the shape of
+the project.
 
-1. **Locate the file in Drive** (Drive MCP): `get_file_metadata` with the
-   record's `drive_id` confirms the title and mime type; `search_files` by
-   title is the fallback when an id has moved.
-2. **Read the content**: `read_file_content` for Google Docs (returns the
-   markdown rendering); `download_file_content` for `.md` and `.txt` files
-   (the raw bytes, base64 — `read_file_content` would escape their markdown)
-   and for `docx`, `pdf` and other binaries, which are converted to markdown
-   with the `drive-markdown-converter` skill. Binaries go to `originals/`
-   (git-ignored), never into `drive/`. A result above the harness limit is
-   saved as a JSON file (`{fileContent: …}` or `{content: <base64>, …}`);
-   the helper in step 4 reads either shape.
-3. **Write `Sources/drive/<slug>.md`** as the pure markdown body: UTF-8, LF,
-   no frontmatter and no header line — every piece of metadata lives in the
-   manifest, so a citation `^[Sources/drive/<slug>.md:L-L]` points at source
-   text only.
-4. **Fill the export fields** of the manifest record:
-   - `export_path`: `Sources/drive/<slug>.md`
-   - `sha256`: of the file bytes (`sha256sum Sources/drive/<slug>.md`)
-   - `exported_at`: the UTC date of the export, `YYYY-MM-DD`
-   - `truncated`: `true` when the read tool cut the content (a size cap, a
-     "content truncated" notice, a body that ends mid-sentence against the
-     Drive metadata size) or when the file is under 200 bytes; otherwise `false`
+`fetch` talks to the Drive connector directly over HTTP JSON-RPC. **No model
+reads a document at any point** — not the session that runs it, not a subagent.
+It needs a live Claude Code session, because the connector config and the
+session token are session-scoped, and it says so when either is missing.
 
-   Steps 3 and 4 are one command: `python3 scripts/source_export_mark.py
-   --slug <slug> --from-json <saved result>` (or `--from-text <file>`)
-   normalises the body (UTF-8, LF, trailing whitespace stripped, one final
-   newline), writes the file, hashes it and rewrites only that manifest
-   record; `--truncated` records an incomplete export and the helper refuses
-   a body under 200 bytes or with a truncation notice unless the flag is
-   given. The markdown rendering of a Google Doc can stop a few characters
-   before the end of its last line: `download_file_content` with
-   `exportMimeType: text/plain` returns the complete line, and `--tail-from
-   <plain.txt>` appends exactly the verified remainder (exit 4 when the last
-   line is not a prefix of one plain-text line).
-5. **Run the dedup pass**: `python3 scripts/source_dedup.py` hashes every
-   non-truncated export, marks byte-equal copies `T0-duplicate`
-   (`duplicate_of`) and older drafts `T1-superseded` (`superseded_by`).
-   `--dry-run` previews, `--check` exits 1 when the manifest would change.
-6. **Verify the manifest**: `python3 scripts/source_inventory.py --check`
-   prints `manifest up to date` (the export and dedup fields are carried over;
-   only index-derived fields can make it stale).
-7. **Index the text**: `python3 scripts/wiki_fts.py build` adds the new export
-   to the BM25 candidate finder.
+## Two routes, chosen by format
 
-A truncated export (`truncated: true`) is **never ingested** into `Wiki/`: the
-dedup pass skips it, the ingest refuses it, and it is re-fetched — in heading
-chunks when the document is larger than one read — until the file is complete
-and `truncated` is set back to `false` with a fresh `sha256`.
+| format | rows | route |
+|---|---:|---|
+| `gdoc` | 590 | `read_file_content` — the text export |
+| `docx` | 45 | `download_file_content` → markitdown |
+| `pdf` | 1 | same |
+| `md` | 39 | **none yet** — deferred, see below |
+| `mp3` | 1 | **none yet** |
+
+The split is not cosmetic. A Google Doc has no original file, so the text export
+is all there is — and it flattens structure: the first one landed had **one**
+real heading against 21 lines of bold standing in for headings. Anything with an
+original is downloaded as bytes and converted instead, which preserves what the
+author marked up. Measured across the 45 `.docx` in `theorie-physik`: **931 real
+headings, median 23 per document.**
+
+So section-level retrieval works on the converted formats and does not work on
+Google Docs. That is a property of those 590 documents, not a bug to fix.
+
+`md` and `mp3` have no route: the connector lists neither `text/markdown` nor
+audio among its supported types. By decision (2026-09-16) they stay unfetched
+for now. `fetch` skips them and prints that it did, so they cannot be mistaken
+for landed.
+
+## What is normalized, and what is not
+
+On write, mechanically only:
+
+- CRLF and CR become LF
+- trailing whitespace stripped from every line — 673 of 852 lines in the first
+  document had it
+- exactly one final newline
+
+Deliberately untouched, because it is interpretation rather than cleanup:
+backslash over-escaping (`\[1\]`, 333 of them in one document), bold used where
+headings belong, and bibliographies collapsed onto a single line.
+
+Normalizing happens on write rather than at read time because citations are line
+ranges — a file has to be stable or every citation into it is fragile — and
+because normalizing later would change every checksum already recorded.
+
+Both checksums are kept: `sha256_raw` is what the connector returned, `sha256`
+is the file on disk. Anything left untouched above can therefore be revisited
+without re-fetching.
+
+## Frontmatter, and what it costs
+
+Every landed document opens with eight lines of provenance drawn from the
+manifest:
+
+```yaml
+---
+drive_id: "1lIkki…"
+title: "Argus: Chronist der Wandlung"
+slug: "argus-chronist-der-wandlung"
+category: "charaktere"
+tier: "T3-work"
+index_date: "2025-05-13"
+fetched: "2026-09-16"
+---
+```
+
+This reverses an earlier decision, and the earlier reasoning was sound: with no
+frontmatter, a citation's line numbers point at source text only. It is recorded
+here rather than silently dropped.
+
+The trade was made the other way because a file that cannot say what it is
+becomes unusable the moment someone opens it without the manifest in hand — and
+an agent reading one document in isolation is the normal case, not the
+exception.
+
+**The consequence, stated so it is unambiguous:** a citation
+`^[Sources/drive/<slug>.md:120-134]` counts lines from line 1 of the file **as
+it sits on disk**, frontmatter included. There is no offset to remember and no
+second convention.
+
+## Tiers
+
+`T2-theory` is external science and theory. `T3-work` is project work.
+`T0-duplicate` marks a byte-equal copy of another export and is skipped by
+`fetch`.
+
+The manifest has **55 duplicate titles** but only **2** rows marked
+`T0-duplicate`, so deduplication is incomplete. Slugs are unique, so nothing
+overwrites anything — but the same content can land twice under different
+slugs. `sha256_raw` makes that detectable after the fact: two rows with the same
+raw hash are the same document.

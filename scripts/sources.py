@@ -516,4 +516,12 @@ def main(argv: list[str] | None = None) -> int:
 
 
 if __name__ == "__main__":
+    # `sources.py status | head` closes the pipe early, which otherwise ends in a
+    # BrokenPipeError traceback over perfectly good output. Restoring the default
+    # SIGPIPE makes the process exit the way every other command-line tool does.
+    try:
+        import signal
+        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
+    except (ImportError, AttributeError, ValueError):
+        pass                                    # not POSIX, or not the main thread
     sys.exit(main())
