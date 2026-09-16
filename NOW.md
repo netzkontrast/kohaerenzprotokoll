@@ -30,12 +30,15 @@ python3 scripts/sources.py check
    twenty pages by hand before any schema is written down.
 3. **Then** look at what the pages actually needed, and automate that.
 
-## Blocked, and on what
+## Deliberately deferred
 
-**44 source rows have no fetch path.** 43 are `md` and one is `mp3`; the Drive
-connector's supported types cover neither. Needs a decision: skip them, fetch
-them another way, or drop them from the manifest. Everything else can proceed
-without this.
+**39 `md` rows and 1 `mp3` have no fetch path**, and by the author's decision
+(2026-09-16) they stay that way for now. The Drive connector lists neither
+`text/markdown` nor audio among its supported types. `sources.py fetch` skips
+them and says so rather than failing, so they cannot be mistaken for fetched.
+
+Nothing depends on them. Revisit when the wiki has enough material to show
+whether anything is actually missing.
 
 ## Waiting on the author
 
