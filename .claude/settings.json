@@ -10,57 +10,25 @@
       "Bash(find *)",
       "Bash(wc *)",
       "Bash(ls *)",
+      "Bash(du *)",
       "Bash(git status*)",
       "Bash(git log*)",
       "Bash(git diff*)",
       "Bash(git show*)",
-      "Bash(python3 scripts/lint_chapter.py*)",
-      "Bash(python3 scripts/render_codex_views.py*)",
-      "Bash(python3 scripts/check_enrichment.py*)",
-      "Bash(python3 scripts/research-tool.py search*)",
-      "Bash(python3 scripts/research-tool.py list*)",
-      "Bash(python3 scripts/kp_check.py*)",
-      "Bash(python3 scripts/storyform_check.py*)",
-      "Bash(python3 scripts/chapter_drift.py*)",
-      "Bash(python3 scripts/wiki_lint.py*)",
-      "Bash(python3 scripts/render_wiki_views.py*)",
-      "Bash(python3 scripts/audit_graph_claims.py*)",
-      "Bash(python3 scripts/source_inventory.py*)",
-      "Bash(python3 scripts/wiki_fts.py*)"
+      "Bash(python3 scripts/sources.py status*)",
+      "Bash(python3 scripts/sources.py check*)",
+      "Bash(python3 scripts/sources.py next*)",
+      "Bash(python3 scripts/sources.py land*)"
     ],
     "deny": [
       "Bash(rm -rf /*)",
-      "Write(Codex/**)",
-      "Edit(Codex/**)"
+      "Write(Legacy/**)",
+      "Edit(Legacy/**)",
+      "Write(Sources/drive/**)",
+      "Edit(Sources/drive/**)"
     ]
   },
   "hooks": {
-    "SessionStart": [
-      {
-        "matcher": "",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "cat .claude/hooks/bootstrap.md"
-          },
-          {
-            "type": "command",
-            "command": "bash .claude/hooks/post-compact-restore.sh"
-          }
-        ]
-      }
-    ],
-    "UserPromptSubmit": [
-      {
-        "matcher": "",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "cat .claude/hooks/skill-eval.md"
-          }
-        ]
-      }
-    ],
     "PreToolUse": [
       {
         "matcher": "Write|Edit|MultiEdit",
@@ -68,28 +36,6 @@
           {
             "type": "command",
             "command": "bash .claude/hooks/anti-deferral.sh"
-          }
-        ]
-      }
-    ],
-    "PostToolUse": [
-      {
-        "matcher": "Write|Edit|MultiEdit",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "bash .claude/hooks/post-tool-use.sh"
-          }
-        ]
-      }
-    ],
-    "PreCompact": [
-      {
-        "matcher": "",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "cat .claude/hooks/pre-compact.md"
           }
         ]
       }
