@@ -48,9 +48,18 @@ stale rendered index, invalid context window, and overlong context summary.
 If a meaningful structural defect can still pass, improve the machine rule or
 state explicitly why it requires human review.
 
-## 5. Verification and report
+## 5. Retrieval cost
 
-Run compile checks, focused tests, `wiki_lint.py --health`, renderer write then
-`--check`, and `git diff --check`. Report exact results, unavailable test
+An audit that never measures a packet cannot say whether the structure works.
+Build the packet for one early chapter and one late chapter, and report what
+each loaded and roughly what it cost in tokens against the whole-corpus
+baseline (`Codex/GLOSSARY.md` is ~71,700). A retrieval path that ends in
+"and then read the glossary" is a finding, not a pass.
+
+## 6. Verification and report
+
+Run compile checks, focused tests, `python3 scripts/kp_check.py` (wiki health,
+both renderers, manifest, claim provenance, storyforms, world axioms, chapter
+drift), renderer write then `--check`, and `git diff --check`. Report exact results, unavailable test
 dependencies, every page inspected, and unresolved author decisions. Never
 claim a full audit from a sample.

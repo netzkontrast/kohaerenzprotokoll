@@ -62,7 +62,9 @@ mechanism are rejected.
 
 `python3 scripts/research-tool.py search "<query>" [--source humanities]`
 (downloads to `Plan/research/`), `Codex/WORLD-AXIOMS.md`, graph verbs
-`find_axiom_contradictions(world_id)`, `capture_claim`, `list_claims`.
+`python3 scripts/world_check.py` for axiom pairs worth reading together, and
+`Graph/nodes/novel_claim.jsonl` for the recorded research claims
+(`python3 scripts/audit_graph_claims.py` audits their provenance).
 
 ## Self-Correction Loop
 

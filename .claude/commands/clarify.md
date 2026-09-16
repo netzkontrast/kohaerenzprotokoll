@@ -23,7 +23,7 @@ becomes a question, never an assumption.
   (`^[file:L-L]`); widen to the paragraph when the claim spans lines
 - `entities` — the claim's entity list from the source page
 - `glossary_terms` — codex slugs from `Codex/GLOSSARY.md` (or
-  `match_codex_entries(novel_id, claim_text)` when the engine is up)
+  a trigger scan of `Graph/nodes/codex_entry.jsonl` against the claim text)
 - `canon_context` — matching Canon passages via `scripts/wiki_fts.py search`
   (binding and conflict awareness only; the gate never rewrites from canon)
 

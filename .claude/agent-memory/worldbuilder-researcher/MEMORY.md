@@ -30,6 +30,7 @@ Seeded 2026-09-15 from PROJECT_REFERENCES.md and the ingest manifests.
 ## Effective Search Patterns
 <!-- Agent: append use case → grep/find command -->
 - Prose only (skip outline headers): `awk '/^# Kapitel /{p=1} p' <chapter.md> | grep -n "<term>"`
-- Codex body by slug: `python3 -c "import sqlite3;c=sqlite3.connect('file:.agency/session.db?mode=ro',uri=True);print(c.execute(\"select p.value from node_props_text p join property_keys k on k.id=p.key_id where k.key='body' and p.node_id=(select p2.node_id from node_props_text p2 join property_keys k2 on k2.id=p2.key_id where k2.key='slug' and p2.value=?)\",('<slug>',)).fetchone()[0])"`
+- Codex body by slug: `python3 -c "import sys;sys.path.insert(0,'.');from tools import kpgraph;print(next(e['body'] for e in kpgraph.load().nodes('CodexEntry') if e['slug']=='<slug>'))"`
+- Or without Python: `grep '"slug": "<slug>"' Graph/nodes/codex_entry.jsonl`
 - Which chapters mention a term: `grep -l "<term>" Manuscript/works/*/works/*/kohärenz-protokoll/chapters/*.md`
 - Lock index lines: `grep -n "^\*\*R-\|^[0-9]*\. Keine" Canon/*welt-sensorik*.md`

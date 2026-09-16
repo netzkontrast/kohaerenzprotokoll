@@ -32,7 +32,7 @@ and REPORT information with exact file + section citations, never to modify file
 
 - Terms, concepts, rules, motifs, voices: `Codex/GLOSSARY.md` (602 entries,
   generated from the graph; slug + triggers + first paragraph), full bodies via
-  read-only SQL on `.agency/session.db` (`node_props_text` joined to `property_keys`)
+  `tools/kpgraph` over `Graph/nodes/*.jsonl` (or plain `grep` — one record per line)
 - Story-time facts: `Codex/MASTER-TIMELINE.md`; world rules: `Codex/WORLD-AXIOMS.md`
 - Normative structure: `Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`
 - Characters / Anteile / Sprach-DNA: `Canon/…anteile-profile-sprach-dna…`

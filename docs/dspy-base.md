@@ -224,7 +224,7 @@ needs no key and no virtualenv: `python3` plus PyYAML.
 | `python3 scripts/wiki_fts.py build \| search \| stats \| doctor` | FTS5/BM25 candidate finder over `Wiki/`, `Canon/`, `Sources/drive/` (index in `.cache/wiki-fts/`) |
 | `python3 scripts/source_inventory.py [--check]` | Drive index → `Sources/manifest.jsonl` (T4 rows excluded, D-W9) |
 | `python3 scripts/source_dedup.py [--check]` | byte-equal and near-duplicate clusters → `T0-duplicate`, `T1-superseded` |
-| `python3 scripts/audit_graph_claims.py` | read-only D-W2 audit of `NovelClaim.source_uri` in `.agency/session.db` |
+| `python3 scripts/audit_graph_claims.py` | read-only D-W2 audit of `NovelClaim.source_uri` in `Graph/` |
 | `python3 scripts/source_export_mark.py --slug … --from-json …` | steps 3+4 of the fetch procedure: write one export, hash it, mark its manifest record |
 
 One command in this layer does call an LM, so it needs the virtualenv:

@@ -51,6 +51,6 @@ Kap-40 reading duality and the ontological status of the Externe Ebene.
 
 ## Out of Scope
 
-This skill is a reference catalog. It does NOT execute audits (use /auditing-physics
+This is a reference catalogue. It does NOT execute audits (use `/kp-check`
 or /auditing-canon), stress-test decisions (use /interrogating-design), or check wiki
 structure (use /lint-wiki).

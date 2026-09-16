@@ -21,6 +21,8 @@ authority.
 2. `Wiki/SCHEMA.md` and the relevant files in `Wiki/schema/` — authoritative
    structure and policy.
 3. `Wiki/GLOSSARY.md` — operational terminology.
+   To find a page rather than guess its path: `python3 scripts/wiki_fts.py
+   search "…"` searches Wiki, Canon and Sources at heading level.
 4. For a full audit, read `references/audit-runbook.md`; for any move, split,
    new partition, or migration, also read `references/structure-contract.md`.
 
@@ -51,7 +53,11 @@ authority.
   partition dimension.
 - `Codex/**` is renderer-owned and outside routine Wiki maintenance. Record
   Codex defects and migration proposals, but do not move or split those files
-  unless the user explicitly starts a separate Codex migration.
+  unless the user explicitly starts a separate Codex migration. The inventory
+  and the measured proposal are in
+  `Plan/wiki/codex-context-inventory_2026-09-16.md`; the task, its mode and
+  the questions still open are at the top of `todo.md`. Neither is permission
+  to begin.
 
 ## Choose the operation
 
@@ -71,9 +77,9 @@ authority.
 
 ## Workflow
 
-1. Run `python3 scripts/wiki_lint.py --health`; inspect `index.md`, every
-   affected local index, and the root system pages (`overview.md`,
-   `GLOSSARY.md`, `SCHEMA.md`, `log.md`, `concept-table.md`).
+1. Run `python3 scripts/wiki_lint.py --health` for the tight loop; inspect
+   `index.md`, every affected local index, and the root system pages
+   (`overview.md`, `GLOSSARY.md`, `SCHEMA.md`, `log.md`, `concept-table.md`).
 2. Classify each affected file by kind and derive its partition from
    frontmatter. Do not invent topical folders.
 3. If a page exceeds its hard budget, split it at a stable semantic boundary;
@@ -85,8 +91,11 @@ authority.
 6. Confirm there are no duplicate slugs, dead navigation links, stale local
    indexes, mispartitioned pages, invalid context windows, or pages above
    their hard budget.
-7. Finish with `python3 scripts/wiki_lint.py --health`,
-   `python3 scripts/render_wiki_views.py --check`, and the wiki test suite.
+7. Finish with `python3 scripts/kp_check.py`, which runs wiki health, both
+   view renderers, the source manifest, claim provenance, both storyforms,
+   the world axioms and chapter drift in one command. Then the tests that
+   cover what you touched:
+   `pytest tests/test_wiki_lint.py tests/test_wiki_views.py tests/test_wiki_schema.py tests/test_wiki_fts.py tests/test_research_ingest.py -q`.
 
 For manuscript-context work, follow the retrieval ladder in
 `references/context-loading.md`. Stop if the target chapter is unknown and a
