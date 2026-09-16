@@ -4,8 +4,10 @@ description: >-
   Maintains the Kohärenz Protokoll research wiki structure, navigation, page
   boundaries, indexes, links, and schema alignment. Use for wiki cleanup,
   moving or splitting pages, fixing navigation, evolving page kinds or
-  partitions, or repairing wiki lint drift. Does not decide Canon or rewrite
-  research claims.
+  partitions, full wiki audits, context-loading improvements, or repairing
+  wiki lint drift. It may plan a Codex migration, but never restructures the
+  generated Codex as part of routine Wiki maintenance. Does not decide Canon
+  or rewrite research claims.
 ---
 
 # Wiki Maintenance
@@ -19,6 +21,8 @@ authority.
 2. `Wiki/SCHEMA.md` and the relevant files in `Wiki/schema/` — authoritative
    structure and policy.
 3. `Wiki/GLOSSARY.md` — operational terminology.
+4. For a full audit, read `references/audit-runbook.md`; for any move, split,
+   new partition, or migration, also read `references/structure-contract.md`.
 
 ## Invariants
 
@@ -42,6 +46,28 @@ authority.
 - Pages used for manuscript work expose a ≤40-word context summary, scope,
   priority, chapter window, and spoiler ceiling. The context map contains
   routing metadata only, never page bodies.
+- Directory names encode only schema-defined partitions, never ad-hoc topics.
+  A topic is a page, tag, or link unless `Wiki/schema/*.yaml` defines it as a
+  partition dimension.
+- `Codex/**` is renderer-owned and outside routine Wiki maintenance. Record
+  Codex defects and migration proposals, but do not move or split those files
+  unless the user explicitly starts a separate Codex migration.
+
+## Choose the operation
+
+- **Audit** — inspect every Wiki Markdown page, rendered view, schema file,
+  template, and structural rule; use the full audit runbook.
+- **Move** — use only when kind/partition and path disagree. Preserve the slug
+  and repair all inbound links in the same change.
+- **Split** — use when a page crosses its hard budget or contains independently
+  addressable entities. Keep one semantic entity per result page.
+- **Schema change** — use when no existing kind or partition can represent the
+  content. Update YAML, implementation, templates, documentation, and tests as
+  one atomic contract change.
+- **Navigation repair** — change source pages or the renderer; never patch a
+  generated index directly.
+- **Codex migration** — separate, explicitly requested project. First produce
+  an inventory and migration plan; do not combine it with Wiki cleanup.
 
 ## Workflow
 
@@ -62,7 +88,19 @@ authority.
 7. Finish with `python3 scripts/wiki_lint.py --health`,
    `python3 scripts/render_wiki_views.py --check`, and the wiki test suite.
 
+For manuscript-context work, follow the retrieval ladder in
+`references/context-loading.md`. Stop if the target chapter is unknown and a
+spoiler boundary would change what may safely be loaded.
+
+## Stop and ask
+
+Ask the author before continuing when a structural choice would change a
+claim's authority, a split cannot preserve claim-to-citation provenance, two
+pages appear to represent the same entity but disagree, or a new partition
+would be based on editorial taste rather than stable metadata.
+
 ## Output
 
-Report moved/split pages, navigation changes, lint/test results, and any
-authority question left untouched for the author.
+Report the operation mode, files inspected, moved/split pages, navigation and
+contract changes, exact validation commands/results, and every authority or
+migration question deliberately left untouched.

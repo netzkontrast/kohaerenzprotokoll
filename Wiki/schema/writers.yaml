@@ -5,6 +5,11 @@
 version: 1
 
 writers:
+  wiki-maintenance:
+    writes: [Wiki/** (structure only), .claude/skills/wiki-maintenance/**, AGENTS.md, CLAUDE.md]
+    never: [Canon/**, NCP/**, Manuscript/**, claim authority]
+    requires: [schema-aligned path, preserved citations, lint clean, rendered views current]
+    calls_llm: true
   /source-inventory:
     writes: [Sources/manifest.jsonl]
     calls_llm: false
