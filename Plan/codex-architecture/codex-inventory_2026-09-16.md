@@ -1,6 +1,6 @@
 ---
 title: "Codex/Wiki/Canon/NCP/graph inventory"
-status: draft
+status: final — item 1 complete; numbers re-verified 2026-09-16 (see changelog at bottom)
 date: 2026-09-16
 scope: "todo.md item 1 of 10 — 'Vollständige Codex-Inventur erstellen'"
 ---
@@ -39,7 +39,7 @@ MASTER-TIMELINE.md), `WorldAxiom` (→ WORLD-AXIOMS.md, grouped by `World` via
 `PART_OF_WORLD`).
 
 **GLOSSARY.md is the single largest hand-loadable file in the whole
-inventory** (292 KB, ≈602 entries) — this is the concrete cost the `todo.md`
+inventory** (292 KB, 602 entries) — this is the concrete cost the `todo.md`
 practice test ("Kapitel 3 bearbeiten, ohne das vollständige Glossar zu
 laden") is about.
 
@@ -186,11 +186,12 @@ matching `edge_props_*`. Read-only query on 2026-09-16:
 | | | `Storyform` | 1 |
 
 `Invocation` + `Event` + `PERFORMED_BY` edges are agency-engine provenance
-bookkeeping (every verb call), not novel content — 2739 of roughly 4045
-nodes (68%) are process metadata, not story data. Novel-content node types
-total ≈1266. Note `Storyform` = 1: this is the surgically-inserted node
-from the documented engine gap (`CLAUDE.md` §7 — "no verb mints it"), not a
-verb-created node like the rest.
+bookkeeping (every verb call), not novel content — 2739 of **3953 total
+nodes** (`SELECT COUNT(*) FROM nodes`; 69%) are process metadata, not story
+data. Novel-content node types total **1214** (3953 − 2739). Note
+`Storyform` = 1: this is the surgically-inserted node from the documented
+engine gap (`CLAUDE.md` §7 — "no verb mints it"), not a verb-created node
+like the rest.
 
 ### Edge types (12 in use)
 
@@ -218,18 +219,21 @@ an authority matrix should either commit to or explicitly defer.
 | layer | files referencing it | concentration |
 |---|---|---|
 | `Canon/` | 46 | `.claude/commands/` (7), `scripts/` (6), `tools/kpwiki/` (4), one skill each across 14 skills |
-| `Codex/` | 31 | `.claude/skills/` (11), `.claude/commands/` (5), `.claude/hooks/` (5), `.claude/agents/` (3) |
-| `Wiki/` | 27 (+4 `__pycache__` artefacts, not source) | `tools/kpwiki/` (7 source files), `scripts/` (5), `.claude/commands/` (4) |
-| `ncp*.json` | 11 | `.claude/skills/` (4), `.claude/hooks/`+`.claude/commands/` (3) |
+| `Codex/` | 33 | `.claude/skills/` (11, one file each), `.claude/commands/` (6), `.claude/hooks/` (5), `.claude/agents/` (3) |
+| `Wiki/` | 26 (+4 `__pycache__` artefacts, not source — 30 total if those are counted) | `tools/kpwiki/` (7 source files), `scripts/` (6), `.claude/commands/` (4) |
+| `ncp*.json` (specific filenames **or** the `ncp*.json` wildcard shorthand) | 11 | 6 cite the filenames directly (`ncp-author`, `dramatica-theory` skills; `PROJECT_REFERENCES.md`; `CLAUDE.md`; `post-tool-use.sh`; the chapter-enrichment design spec); 5 more use only the wildcard shorthand (`worldbuilder-editor`, `tetraframe`, `skill-eval`, `verifying-completion`, `worldcodex-integration.md`) |
 
-Full file-level lists are reproducible with (not re-pasted here to keep
-this document from becoming another oversized glossary):
+Every count above is `grep -rl <pattern> .claude scripts tools/kpwiki
+CLAUDE.md docs | grep -v __pycache__ | wc -l`, re-run and verified
+2026-09-16 (see changelog). Full file-level lists are reproducible with
+(not re-pasted here to keep this document from becoming another oversized
+glossary):
 
 ```bash
 grep -rl "Codex/" .claude scripts tools/kpwiki CLAUDE.md docs
 grep -rl "Wiki/"  .claude scripts tools/kpwiki CLAUDE.md docs
 grep -rl "Canon/" .claude scripts tools/kpwiki CLAUDE.md docs
-grep -rl "ncp\.json\|ncp-b\.json" .claude scripts tools/kpwiki CLAUDE.md docs
+grep -rl "ncp\.json\|ncp-b\.json\|ncp\*\.json" .claude scripts tools/kpwiki CLAUDE.md docs
 ```
 
 ## 7. Cross-cutting observations for the next step (authority matrix)
@@ -261,11 +265,10 @@ aufzulösen?") nothing below is resolved here:
    at completely different lifecycle stages today — the authority matrix
    needs to account for Wiki's emptiness as a real current state, not
    design around a populated Wiki that doesn't exist yet.
-5. **Process metadata dominates the graph** (`Invocation`/`Event`/
-   `PERFORMED_BY` = 68% of nodes). Any future graph-size/context-cost
-   concern should distinguish "graph is big" (true, 5.2 MB) from "novel
-   content is big" (≈1266 nodes, much smaller) — they are not the same
-   number.
+5. **Process metadata dominates the graph** (`Invocation`/`Event` = 69% of
+   3953 total nodes). Any future graph-size/context-cost concern should
+   distinguish "graph is big" (true, 5.2 MB) from "novel content is big"
+   (1214 nodes, much smaller) — they are not the same number.
 6. **Five documented edge-creating verbs have zero instances** (§5) —
    worth an explicit decision (use them, or note them as not-yet-adopted)
    rather than silent absence.
@@ -289,3 +292,18 @@ kind (domain vocabulary, world rules, dated facts, structural/storyform
 state, process/operational vocabulary, research claims), name the single
 source of truth among Canon / Codex / Wiki / NCP / graph, using §7's
 observations as the concrete conflict points to resolve.
+
+## Changelog
+
+- **2026-09-16, accuracy pass** (after items 2–5 shipped): re-ran every
+  count in this document against live sources rather than trusting the
+  original arithmetic. Found and fixed two real errors: §5's node-total
+  math (originally "roughly 4045 nodes … 68% … ≈1266" — the correct
+  numbers, from `SELECT COUNT(*) FROM nodes`, are 3953 total / 69% / 1214)
+  and §6's `Codex/`/`Wiki/` consumer counts (originally 31/27, undercounted
+  by 2/1 respectively — verified exact via `wc -l` on the reproducible grep
+  commands). `Canon/` (46) and `ncp*.json` (11) were already correct; the
+  latter's reproducible command block was missing the `ncp\*\.json`
+  wildcard-shorthand pattern that produced its own stated count, now added.
+  No downstream document (items 2–5) cited any of the corrected numbers, so
+  nothing else needed to change.

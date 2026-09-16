@@ -1,6 +1,6 @@
 ---
 title: "Overlaps and drift — Canon/Codex/Wiki/NCP/Manuscript"
-status: draft — targeted sample, not an exhaustive audit (see §Method)
+status: final — targeted sample, not an exhaustive audit (see §Method); not revisited by later items
 date: 2026-09-16
 scope: "todo.md item 3 of 10 — 'Überschneidungen und Drift... erfassen'"
 ---
@@ -124,8 +124,12 @@ session doesn't re-check the same hypothesis.
 
 ## Next step
 
-`todo.md` item 4: **Stabile Codex-Entitäten und Pflichtfelder definieren**
-— now has two concrete open sub-questions from this pass to carry forward:
-the `kind=concept` split direction (already decided, item 2) and whether
-the `R-N`/`DR-N` shorthand collision (finding 2) should resolve into a
-single naming convention as part of the new entity design.
+`todo.md` item 4, **Stabile Codex-Entitäten und Pflichtfelder definieren**,
+picked up both open threads from this pass:
+[entity-model-proposal_2026-09-16.md](entity-model-proposal_2026-09-16.md)
+turned finding 2's `R-N`/`DR-N` collision into an explicit fork, resolved by
+deferring it to item 9 rather than deciding it speculatively here. Finding
+1 (the stale `slot-16-hard-b-etablierungskapitel` entry) is still open —
+item 4 didn't touch existing graph content, only future field/type design —
+and remains the action item stated above: fix with `update_codex_entry`
+once agency MCP/CLI access is available.

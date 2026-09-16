@@ -17,7 +17,6 @@ Engineering language is English; canon prose stays German.
   `kind=concept` CodexEntry bucket, and adopting character-knowledge
   tracking) were new calls the inventory surfaced and went to the author
   before being marked settled.
-
 - [overlaps-drift_2026-09-16.md](overlaps-drift_2026-09-16.md) — item 3:
   overlaps/drift between Canon, Codex, Wiki, NCP and Manuscript, checked
   against the authority matrix. Two concrete verified findings (a stale
@@ -25,7 +24,6 @@ Engineering language is English; canon prose stays German.
   between two non-corresponding rule-numbering series) and one hypothesis
   ruled out (NCP does not need to encode the Slot-16 POV lock). Targeted
   sample, not an exhaustive audit — see its §Method.
-
 - [entity-model-proposal_2026-09-16.md](entity-model-proposal_2026-09-16.md)
   — item 4: 7 new `entity_type` values (`narrative-constraint`, `motif`,
   `philosophy-entry`, `technique`, `note`, `sensorik`, `structural-note`,

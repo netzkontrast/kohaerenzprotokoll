@@ -58,5 +58,10 @@ settled above.
 
 This matrix answers "which layer is authoritative," not "what the target
 folder/entity structure looks like" (`todo.md` items 4–7) or "how existing
-overlaps/drift get resolved" (item 3, not yet run). Item 3 should treat
-this matrix as the ruling and check the corpus against it.
+overlaps/drift get resolved" (item 3). Item 3 checked the corpus against
+this matrix's rulings, item 4 named the concrete entity types row 6 only
+pointed at a direction for, and item 5 mapped the knowledge dimensions row
+7's adoption enables — see
+[overlaps-drift_2026-09-16.md](overlaps-drift_2026-09-16.md),
+[entity-model-proposal_2026-09-16.md](entity-model-proposal_2026-09-16.md),
+and [knowledge-dimensions_2026-09-16.md](knowledge-dimensions_2026-09-16.md).
