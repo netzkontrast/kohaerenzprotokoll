@@ -126,7 +126,8 @@ enforced by `scripts/wiki_lint.py`; split before the hard maximum. Never edit
 rendered indexes by hand. Use the repo-local `wiki-maintenance` skill for
 moves, splits, navigation repair, and schema evolution. Operational terms are
 defined in `Wiki/GLOSSARY.md`; the domain glossary remains generated at
-`Codex/GLOSSARY.md`.
+`Codex/GLOSSARY.md`. Duplicate slugs, broken navigation links, mispartitioned
+pages, oversized pages, and stale local indexes are structural blockers.
 
 ## Rule 0 — Never assume. Ask.
 

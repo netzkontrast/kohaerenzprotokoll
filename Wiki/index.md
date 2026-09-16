@@ -26,4 +26,6 @@
 
 ## Candidates (0)
 
-_written by a program, awaiting `/wiki-promote`; not part of the wiki until promoted_
+- [Candidate navigation](candidates/README.md) · machine drafts awaiting human review
+
+_Candidates are not part of the promoted wiki until `/wiki-promote`._

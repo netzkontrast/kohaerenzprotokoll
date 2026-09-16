@@ -4,4 +4,10 @@
 
 [Up](../index.md)
 
-_No pages yet._
+One `synthesis` per page. Canonical path: `syntheses/<YYYY>/<slug>.md`.
+
+Page budget: ideal ≤ 700 words · review above 1200 · hard maximum 1800 words.
+
+## Partitions
+
+_No year partition exists until the first synthesis is filed._

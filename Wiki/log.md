@@ -1,5 +1,7 @@
 # Wiki log
 
+[Up](index.md)
+
 Append-only record of every operation on the research wiki. One line per
 operation, grammar from `schema/conventions.yaml`:
 
@@ -13,3 +15,5 @@ Ops: `ingest`, `promote`, `understand`, `question`, `clarify`, `tetraframe`,
 new line.
 
 ## [2026-09-16] health | wiki skeleton rendered, zero pages | skill=scripts/render_wiki_views.py
+
+## [2026-09-16] health | navigation and page-boundary contract audited | skill=scripts/render_wiki_views.py

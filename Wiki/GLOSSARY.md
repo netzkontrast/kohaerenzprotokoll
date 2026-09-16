@@ -1,5 +1,7 @@
 # Wiki glossary
 
+[Up](index.md)
+
 This is the operational glossary for maintaining the research wiki. The
 generated in-universe/domain glossary remains `Codex/GLOSSARY.md`.
 
@@ -20,4 +22,4 @@ generated in-universe/domain glossary remains `Codex/GLOSSARY.md`.
 | terminal reference | `codex:<slug>` or `canon:<file>#<heading>`; it receives no reverse wiki link. |
 | page budget | Ideal, warning, and hard maximum word counts defined per page kind in `schema/entities.yaml`. |
 | split | Replacing an oversized mixed page with focused pages connected by explicit wiki links and preserved citations. |
-
+| stale index | A rendered `README.md` that no longer corresponds to an occupied partition; `index-sync` rejects it. |

@@ -50,6 +50,8 @@ SHA256_HEX_RE = re.compile(r"^[0-9a-f]{64}$")
 GERMAN_QUOTE_RE = re.compile(r"„[^“]*“")
 WORD_RE = re.compile(r"\w+")
 WHERE_RE = re.compile(r'^(?:(body)|frontmatter\.(\S+)|section "([^"]+)"|edges\.(\S+))$')
+MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
+NAV_DOCS = ("index.md", "overview.md", "concept-table.md", "GLOSSARY.md", "SCHEMA.md", "log.md")
 
 
 @dataclass
@@ -603,6 +605,42 @@ def rule_page_location(ctx: LintContext) -> list[Finding]:
     return out
 
 
+def rule_duplicate_slug(ctx: LintContext) -> list[Finding]:
+    """Slugs are unique within promoted pages and within candidate pages."""
+    out: list[Finding] = []
+    for label, pages in (("promoted wiki", ctx.main_pages), ("candidates", ctx.candidates)):
+        grouped: dict[str, list[Page]] = defaultdict(list)
+        for page in pages:
+            grouped[page.slug].append(page)
+        for slug, matches in sorted(grouped.items()):
+            if len(matches) < 2:
+                continue
+            paths = ", ".join(ctx.page_path(page) for page in matches)
+            out.append(Finding("duplicate-slug", "error", ctx.page_path(matches[0]), None,
+                               f"slug {slug!r} occurs {len(matches)} times in {label}: {paths}"))
+    return out
+
+
+def rule_navigation_link(ctx: LintContext) -> list[Finding]:
+    """Internal links in the navigation surface must resolve on disk."""
+    out: list[Finding] = []
+    docs = [ctx.wiki_root / name for name in NAV_DOCS]
+    docs.extend(sorted(ctx.wiki_root.glob("**/README.md")))
+    for path in docs:
+        if not path.is_file():
+            continue
+        for lineno, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+            for raw in MARKDOWN_LINK_RE.findall(line):
+                target = raw.strip().split("#", 1)[0]
+                if not target or "://" in target or target.startswith(("mailto:", "#")):
+                    continue
+                resolved = (path.parent / target).resolve()
+                if not resolved.exists():
+                    out.append(Finding("navigation-link", "error", ctx.display(path), lineno,
+                                       f"internal link target does not exist: {raw}"))
+    return out
+
+
 # --- rule 9: citation-resolves ----------------------------------------------------
 
 def cited_text(ctx: LintContext, cit: wiki_pages.Citation) -> tuple[str | None, str | None]:
@@ -914,6 +952,18 @@ def rule_index_sync(ctx: LintContext) -> list[Finding]:
         if target.read_text(encoding="utf-8").rstrip() != str(expected).rstrip():
             out.append(Finding("index-sync", "error", path, None,
                                "differs from the rendered view; run scripts/render_wiki_views.py"))
+    expected_readmes = {name for name in expected_views if name.endswith("/README.md")}
+    managed_roots = [Path(wiki_schema.kind(kind)["dir"]).name for kind in wiki_schema.kinds()]
+    managed_roots.append(wiki_pages.CANDIDATES_DIR)
+    for root in managed_roots:
+        folder = ctx.wiki_root / root
+        if not folder.is_dir():
+            continue
+        for readme in folder.rglob("README.md"):
+            rel = readme.relative_to(ctx.wiki_root).as_posix()
+            if rel not in expected_readmes:
+                out.append(Finding("index-sync", "error", ctx.display(readme), None,
+                                   "stale rendered navigation; remove it and re-render"))
     return out
 
 
@@ -1075,6 +1125,8 @@ RULES: dict[str, Callable[[LintContext], list[Finding]]] = {
     "sparse-page": rule_sparse_page,
     "page-size": rule_page_size,
     "page-location": rule_page_location,
+    "duplicate-slug": rule_duplicate_slug,
+    "navigation-link": rule_navigation_link,
     "citation-resolves": rule_citation_resolves,
     "stale-source": rule_stale_source,
     "xref-symmetry": rule_xref_symmetry,

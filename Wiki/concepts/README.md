@@ -4,4 +4,16 @@
 
 [Up](../index.md)
 
-_No pages yet._
+One `concept` per page. Canonical path: `concepts/<kind_detail>/<slug>.md`.
+
+Page budget: ideal ≤ 500 words · review above 900 · hard maximum 1300 words.
+
+## Partitions
+
+- `character` · 0 pages
+- `concept` · 0 pages
+- `motif` · 0 pages
+- `rule` · 0 pages
+- `storyform` · 0 pages
+- `theory` · 0 pages
+- `world` · 0 pages

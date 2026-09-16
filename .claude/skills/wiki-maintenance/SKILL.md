@@ -37,11 +37,14 @@ authority.
   introduces explicit links between the resulting pages.
 - Never use maintenance as permission to resolve contradictions, promote a
   page, or change Canon/NCP/manuscript facts.
+- Every Markdown link in the navigation surface resolves, and no rendered
+  partition `README.md` remains after its partition disappears.
 
 ## Workflow
 
-1. Run `python3 scripts/wiki_lint.py --health` and inspect the relevant local
-   index before editing.
+1. Run `python3 scripts/wiki_lint.py --health`; inspect `index.md`, every
+   affected local index, and the root system pages (`overview.md`,
+   `GLOSSARY.md`, `SCHEMA.md`, `log.md`, `concept-table.md`).
 2. Classify each affected file by kind and derive its partition from
    frontmatter. Do not invent topical folders.
 3. If a page exceeds its hard budget, split it at a stable semantic boundary;
@@ -50,7 +53,9 @@ authority.
 4. Make page/schema/tool changes together. When the contract changes, update
    YAML first, then parsers/renderers/tests and concise human documentation.
 5. Run `python3 scripts/render_wiki_views.py`; do not edit rendered output.
-6. Finish with `python3 scripts/wiki_lint.py --health`,
+6. Confirm there are no duplicate slugs, dead navigation links, stale local
+   indexes, mispartitioned pages, or pages above their hard budget.
+7. Finish with `python3 scripts/wiki_lint.py --health`,
    `python3 scripts/render_wiki_views.py --check`, and the wiki test suite.
 
 ## Output

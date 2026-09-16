@@ -4,4 +4,12 @@
 
 [Up](../index.md)
 
-_No pages yet._
+One `question` per page. Canonical path: `questions/<axis>/<slug>.md`.
+
+Page budget: ideal ≤ 250 words · review above 500 · hard maximum 750 words.
+
+## Partitions
+
+- `incompleteness` · 0 pages
+- `incorrectness` · 0 pages
+- `redundancy` · 0 pages

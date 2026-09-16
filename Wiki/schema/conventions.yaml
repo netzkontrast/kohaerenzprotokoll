@@ -5,6 +5,7 @@ navigation:
   entrypoint: Wiki/index.md
   local_index: README.md
   local_index_policy: every content root and every occupied partition has a rendered README.md
+  root_index_policy: list every allowed named partition, including empty partitions, with page counts
   page_rule: one semantic entity or one focused question per page
   split_rule: split at a stable semantic boundary before max_words; connect the pages with wiki links
   directory_depth: exactly one partition below the page-kind directory

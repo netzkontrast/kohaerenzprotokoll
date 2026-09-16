@@ -181,6 +181,9 @@ def make_wiki(tmp_path: Path) -> Path:
     (repo / "Codex/GLOSSARY.md").write_text("# Glossar\n", encoding="utf-8")
     (repo / "Wiki/graph/edges.jsonl").write_text("", encoding="utf-8")
     (repo / "Wiki/log.md").write_text("# Log\n\n", encoding="utf-8")
+    (repo / "Wiki/overview.md").write_text("# Overview\n\n[Up](index.md)\n", encoding="utf-8")
+    (repo / "Wiki/GLOSSARY.md").write_text("# Glossary\n\n[Up](index.md)\n", encoding="utf-8")
+    (repo / "Wiki/SCHEMA.md").write_text("# Schema\n\n[Up](index.md)\n", encoding="utf-8")
     write_page(repo, "Wiki/sources/kernkonzept/quelle-eins.md", source_front(sha), SOURCE_BODY)
     write_page(repo, "Wiki/concepts/concept/kohaerenz.md", CONCEPT_FRONT, CONCEPT_BODY)
     write_page(repo, "Wiki/questions/incompleteness/frage-eins.md", QUESTION_FRONT, QUESTION_BODY)
@@ -237,8 +240,8 @@ def test_clean_fixture_has_no_errors_or_warnings(tmp_path):
     assert {f.rule for f in findings} <= {"no-page-body-in-graph"}
 
 
-def test_all_23_rules_are_registered():
-    assert len(rules.RULES) == 23
+def test_all_25_rules_are_registered():
+    assert len(rules.RULES) == 25
 
 
 # --- one test per rule -------------------------------------------------------------------
@@ -349,6 +352,23 @@ def test_page_location_requires_schema_partition(tmp_path):
     assert [(f.severity, f.path) for f in found] == [("error", "Wiki/concepts/theory/kohaerenz.md")]
 
 
+def test_duplicate_slug_is_rejected_within_promoted_wiki(tmp_path):
+    repo = make_wiki(tmp_path)
+    write_page(repo, "Wiki/concepts/character/kohaerenz.md",
+               {**CONCEPT_FRONT, "kind_detail": "character"}, CONCEPT_BODY)
+    found = hits(lint(repo, ["duplicate-slug"]), "duplicate-slug")
+    assert len(found) == 1 and found[0].severity == "error"
+    assert "occurs 2 times" in found[0].message
+
+
+def test_navigation_link_rejects_missing_internal_target(tmp_path):
+    repo = make_wiki(tmp_path)
+    glossary = repo / "Wiki/GLOSSARY.md"
+    glossary.write_text("# Glossary\n\n[Broken](missing.md)\n", encoding="utf-8")
+    found = hits(lint(repo, ["navigation-link"]), "navigation-link")
+    assert [(f.severity, f.path) for f in found] == [("error", "Wiki/GLOSSARY.md")]
+
+
 def test_citation_resolves(tmp_path):
     repo = make_wiki(tmp_path)
     append_body(repo, "Wiki/sources/kernkonzept/quelle-eins.md",
@@ -432,6 +452,15 @@ def test_index_sync(tmp_path):
     found = hits(lint(repo, ["index-sync"]), "index-sync")
     assert [(f.severity, f.path) for f in found] == [("error", "Wiki/index.md")]
     assert "render_wiki_views.py" in found[0].message
+
+
+def test_index_sync_rejects_stale_partition_readme(tmp_path):
+    repo = make_wiki(tmp_path)
+    stale = repo / "Wiki/concepts/rule/README.md"
+    stale.parent.mkdir(parents=True)
+    stale.write_text("stale\n", encoding="utf-8")
+    found = hits(lint(repo, ["index-sync"]), "index-sync")
+    assert any(f.path == "Wiki/concepts/rule/README.md" and "stale" in f.message for f in found)
 
 
 def test_log_coverage(tmp_path):

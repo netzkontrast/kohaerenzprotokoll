@@ -1,7 +1,8 @@
 """Rendered views of the research wiki.
 
-``Wiki/index.md``, ``Wiki/concept-table.md`` and ``Wiki/graph/coverage.json``
-are derived from page frontmatter and never edited by hand
+``Wiki/index.md``, local navigation ``README.md`` files,
+``Wiki/concept-table.md`` and ``Wiki/graph/coverage.json`` are derived from
+page frontmatter and never edited by hand
 (``conventions.yaml`` → ``ownership.tools_only``). ``scripts/render_wiki_views.py``
 writes them; ``scripts/wiki_lint.py`` (rule ``index-sync``) compares the files
 on disk with what these functions return. Everything here is deterministic —
@@ -70,12 +71,43 @@ def render_index(pages: list[Page]) -> str:
         lines += ["", f"## {heading} ({len(rows)})", ""]
         lines += [f"- [{heading} navigation]({root}/README.md)"]
     lines += ["", f"## Candidates ({len(candidates)})", "",
-              "_written by a program, awaiting `/wiki-promote`; not part of the wiki until promoted_"]
+              "- [Candidate navigation](candidates/README.md) · machine drafts awaiting human review",
+              "", "_Candidates are not part of the promoted wiki until `/wiki-promote`._"]
     return "\n".join(lines) + "\n"
 
 
 def _local_header(title: str, up: str) -> list[str]:
     return [f"# {title}", "", RENDER_NOTE, "", f"[Up]({up})", ""]
+
+
+def _partition_values(kind: str) -> list[str]:
+    key = wiki_schema.kind(kind).get("partition_by")
+    if key == "filed_year":
+        return []
+    field = wiki_schema.kind(kind).get("fields", {}).get(key, {})
+    enum = field.get("enum")
+    if isinstance(enum, str):
+        return wiki_schema.enum_values(enum)
+    if isinstance(enum, list):
+        return list(enum)
+    return []
+
+
+def _kind_intro(kind: str) -> list[str]:
+    spec = wiki_schema.kind(kind)
+    root = Path(spec["dir"]).name
+    key = spec["partition_by"]
+    budget = spec.get("page_budget", {})
+    path = f"{root}/<YYYY>/<slug>.md" if key == "filed_year" else f"{root}/<{key}>/<slug>.md"
+    return [
+        f"One `{kind}` per page. Canonical path: `{path}`.",
+        "",
+        (f"Page budget: ideal ≤ {budget.get('ideal_words')} words · review above "
+         f"{budget.get('warn_words')} · hard maximum {budget.get('max_words')} words."),
+        "",
+        "## Partitions",
+        "",
+    ]
 
 
 def render_local_indexes(pages: list[Page]) -> dict[str, str]:
@@ -90,12 +122,17 @@ def render_local_indexes(pages: list[Page]) -> dict[str, str]:
             parts = Path(page.rel).parts
             partition = parts[1] if len(parts) == 3 else "_misfiled"
             grouped.setdefault(partition, []).append(page)
-        root_lines = _local_header(heading, "../index.md")
-        if grouped:
-            for partition in sorted(grouped):
-                root_lines.append(f"- [{partition}]({partition}/README.md) · {len(grouped[partition])} page(s)")
+        root_lines = _local_header(heading, "../index.md") + _kind_intro(kind)
+        partitions = sorted(set(_partition_values(kind)) | set(grouped))
+        if partitions:
+            for partition in partitions:
+                count = len(grouped.get(partition, []))
+                if count:
+                    root_lines.append(f"- [{partition}]({partition}/README.md) · {count} page(s)")
+                else:
+                    root_lines.append(f"- `{partition}` · 0 pages")
         else:
-            root_lines.append("_No pages yet._")
+            root_lines.append("_No year partition exists until the first synthesis is filed._")
         rendered[f"{root}/README.md"] = "\n".join(root_lines) + "\n"
         for partition, items in sorted(grouped.items()):
             lines = _local_header(f"{heading} · {partition}", "../README.md")
@@ -150,7 +187,7 @@ def _open_question_count(page: Page) -> int:
 def render_concept_table(pages: list[Page]) -> str:
     """The compressed map: one row per promoted concept page."""
     concepts = [p for p in _promoted(pages) if p.kind == "concept"]
-    lines = ["# Concept table", "", RENDER_NOTE, "",
+    lines = ["# Concept table", "", RENDER_NOTE, "", "[Up](index.md)", "",
              "| concept | kind | definition | sources | confidence | canon | status | open questions |",
              "|---|---|---|---|---|---|---|---|"]
     for page in concepts:

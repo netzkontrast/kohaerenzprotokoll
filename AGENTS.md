@@ -23,7 +23,8 @@ is the machine-readable authority.
   silently change `Canon/`, NCP files, or manuscript facts.
 - Finish with `python3 scripts/wiki_lint.py --health`,
   `python3 scripts/render_wiki_views.py --check`, and relevant tests.
+- Treat `duplicate-slug`, `navigation-link`, `page-location`, `page-size`, and
+  `index-sync` findings as structural blockers.
 
 For moves, splits, index repair, or schema evolution, use
 `.claude/skills/wiki-maintenance/SKILL.md`.
-

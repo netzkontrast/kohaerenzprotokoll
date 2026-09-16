@@ -1,5 +1,7 @@
 # Wiki — operating contract
 
+[Up](index.md)
+
 This directory is the research layer of the three-layer knowledge system
 (`Plan/wiki/knowledge-system-concept_2026-09-15.md`): `Sources/` (raw,
 immutable) → `Wiki/` (LLM-maintained, human-promoted) → `Canon/` + the
@@ -49,7 +51,9 @@ prose stay German and are never translated.
 
 `index.md` is deliberately short. It links to the `README.md` of each page
 kind; an occupied partition has another rendered `README.md` listing its
-pages. Pages sit exactly one partition below their kind directory. The
+pages. The root index also lists every allowed named partition, including
+empty ones, so the taxonomy remains visible before content exists. Pages sit
+exactly one partition below their kind directory. The
 partition comes from frontmatter and is never an improvised topic folder:
 
 | kind | canonical path | partition source |
@@ -65,6 +69,9 @@ target, `warn_words` requests review, and exceeding `max_words` is a lint
 error. Split at a stable semantic boundary, preserve citations and state, and
 connect the resulting pages with explicit `[[slug]]` links. Never split only
 to satisfy a number when the fragments would not stand on their own.
+Slugs are globally unique within the promoted wiki and within candidates.
+The lint also rejects broken internal navigation links and stale rendered
+partition indexes.
 
 ## Page kinds and lifecycle
 
@@ -138,7 +145,7 @@ lines with `op=claim`.
 | `/interrogate-canon`, `/clarify` | `questions/` (draft), `log.md` | `Canon/` |
 | `/tetraframe` | `Plan/decisions/tetraframe/`, `log.md` | a decision |
 | `/promote-to-canon` | `Plan/ingest/` proposal | `Canon/` (the author applies the patch) |
-| `scripts/render_wiki_views.py` | `index.md`, `concept-table.md`, `graph/coverage.json` | anything else |
+| `scripts/render_wiki_views.py` | `index.md`, local `README.md` indexes, `concept-table.md`, `graph/coverage.json` | anything else |
 | `scripts/wiki_lint.py --fix` | reverse links, default fields, `graph/coverage.json` | page content |
 
 User-facing flags (`writers.yaml → user_flags`) are user-owned: a session
@@ -158,3 +165,8 @@ gate before `/wiki-promote`. `/lint-wiki` (LLM) and the adversarial review
 (`dspy-adversarial-review`, reviewer ≠ writer) run per milestone. Rule 0
 still governs: on any canon, plot, wording or scope ambiguity the session
 asks the author instead of assuming.
+
+Structural rules include `page-location`, `page-size`, `duplicate-slug`,
+`navigation-link`, and `index-sync`. Together they enforce the partition,
+page boundary, unique identity, resolvable navigation, and rendered-view
+contracts described above.
