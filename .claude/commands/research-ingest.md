@@ -67,9 +67,14 @@ The run lints every page it wrote (required fields, enums, citations resolve,
 no `[K]`) and prints the findings. Then, free:
 
 ```bash
+python3 scripts/render_wiki_views.py          # the views count candidates, so re-render
 python3 scripts/wiki_lint.py --health
 python3 scripts/render_wiki_views.py --check
 ```
+
+The rendered views are a different writer (`writers.yaml`), which is why the
+ingest does not touch them: run the renderer yourself after a batch, or
+`--check` reports `index.md` and `coverage.json` stale.
 
 A candidate with findings is never promoted — fix the draft or re-run that
 slug. Candidates older than the age limit in `conventions.yaml` are reported
