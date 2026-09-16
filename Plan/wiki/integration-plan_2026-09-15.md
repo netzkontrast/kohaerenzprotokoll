@@ -29,11 +29,11 @@ Two homes, one rule:
 | `claude-reflect-system` | MIT | `dspy-reflect-loop` v0.3.0 ✔ | corrections during pilot review → gold: Phase 3 | Phase 3 |
 | `clarify` | Apache 2.0 | `dspy-clarify` v0.4.0 ✔ | `ClarifyGate`, `clarify_metric`, `/clarify` ✔ | gold set: Phase 5 |
 | `tetraframe-dspy` | MIT | `dspy-tetraframe` v0.5.0 ✔ | `TetraFrame`, metric, `/tetraframe` ✔ | first live run on D-W2 |
-| `dspy-local` | MIT | **`dspy-local-runtime` (new, §3.3)** | `local_lm.py`, `KP_LM_BACKEND` ✔ | pack skill |
-| `Llm-Wiki-` (Karpathy) | — | **`dspy-wiki-compile` (new, §3.1)** | `SourceIngest` ✔; concept table, fts, filed queries: Phase 1 | pack skill, Phase 1 |
+| `dspy-local` | MIT | **`dspy-local-runtime` (new, §2.3)** | `local_lm.py`, `KP_LM_BACKEND` ✔ | pack skill |
+| `Llm-Wiki-` (Karpathy) | — | **`dspy-wiki-compile` (new, §2.1)** | `SourceIngest` ✔; concept table, fts, filed queries: Phase 1 | pack skill, Phase 1 |
 | `llm-wiki-agent` | MIT | `dspy-wiki-compile` | health/lint split, post-ingest validation: Phase 1/3 | Phase 1 |
 | `llm-wiki-compiler` | npm | `dspy-wiki-compile` | two-phase merge, freshness, hash-pinned candidates: Phase 1/4 | Phase 1 |
-| `synthadoc` | AGPL core | `dspy-wiki-compile`, **`dspy-adversarial-review` (new, §3.2)** | lifecycle, decision rules, truncation, adversarial gate: Phase 1/3/4 | patterns only, own code |
+| `synthadoc` | AGPL core | `dspy-wiki-compile`, **`dspy-adversarial-review` (new, §2.2)** | lifecycle, decision rules, truncation, adversarial gate: Phase 1/3/4 | patterns only, own code |
 | `AutoSci` | MIT | `dspy-adversarial-review` | schema contract, xref, foundations, writers policy, `/check` tiers: Phase 1 | Phase 1 |
 | `quicky-wiki` | MIT | `dspy-wiki-compile` | knowledge diff, epistemic events: Phase 3/5 | Phase 3 |
 | `llm-tldr` | AGPL | — (operational, no LLM step) | dedup, dirty-count batching, durable/volatile: Phase 1/3 | own code |
@@ -145,7 +145,7 @@ repo; a dash means the concept has no LLM part.
 | config precedence | — | `Wiki/schema/conventions.yaml` < env | 1 |
 | AST layers, daemon, FAISS | not adopted (code tool) | — | — |
 
-## 2. What the pack gains: three skills (v0.6.0)
+## 2. What the pack gains: three skills (v0.7.0, [dspy-agent-skills#4](https://github.com/netzkontrast/dspy-agent-skills/pull/4))
 
 ### 2.1 `dspy-wiki-compile` — compile immutable sources into a maintained wiki
 
@@ -221,7 +221,7 @@ makes one real call.
 
 Pack changes: three skill directories, routing and loop rows in
 `dspy-advanced-workflow`, README, `docs/usage.md`, `docs/installation.md`,
-`docs/CHANGELOG.md`, manifests → 0.6.0; the validators and all fourteen dry
+`docs/CHANGELOG.md`, manifests → 0.7.0; the validators and all fifteen dry
 runs must pass.
 
 ## 3. What this repo gains: the Phase-1 PR, attributed
@@ -264,7 +264,7 @@ This plan adds two:
 
 | id | question | recommendation |
 |---|---|---|
-| D-W10 | Add `dspy-wiki-compile`, `dspy-adversarial-review`, `dspy-local-runtime` to the pack as v0.6.0 before the Phase-1 PR? | yes; the Phase-3 program `BatchCompile` is an instance of the first, and the pack stays the single place where a pattern is taught |
+| D-W10 | Add `dspy-wiki-compile`, `dspy-adversarial-review`, `dspy-local-runtime` to the pack as v0.7.0 before the Phase-1 PR? | yes; the Phase-3 program `BatchCompile` is an instance of the first, and the pack stays the single place where a pattern is taught |
 | D-W11 | Who is the independent reviewer? `claude/haiku` via the CLI (same vendor, different model, free on the subscription), `claude/sonnet`, or an external OpenAI-compatible model (AutoSci pattern, needs a key)? | `claude/haiku` as reviewer for wiki pages, `claude/sonnet` for the promotion gate; switch to a second vendor when a key exists. The skill asserts reviewer ≠ writer either way |
 
 Epistemic events stay in `log.md` as lines plus a rendered per-concept
@@ -273,7 +273,7 @@ id.
 
 ## 6. Order of work
 
-1. Pack v0.6.0 (D-W10): the three skills, one PR, validators and dry runs green.
+1. Pack v0.7.0 (D-W10): the three skills, one PR, validators and dry runs green — opened as dspy-agent-skills#4 (v0.6.0 had been taken by `dspy-autodialectics`, merged from another session; `dspy-adversarial-review` is positioned against it as artifact review by a second model).
 2. `/tetraframe` on D-W2, first live run, result to the author.
 3. Phase-1 PR here (§3), lint green on an empty wiki, one source by hand.
 4. After D-W1 and D-W9: pilot export of the audit slice plus part of kernkonzept (about 25 documents), `BatchCompile` live on the CLI backend, review together; the corrections start the reflect loop and the 30-source gold set.

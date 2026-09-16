@@ -151,7 +151,9 @@ human-promoted) → `Canon/` + graph (author-locked, only via a D-xx decision an
 `/ingest`). Every new LLM step is a DSPy program in `tools/kpwiki/`
 (`docs/dspy-base.md`; skills `dspy-fundamentals`, `dspy-evaluation-harness`,
 `dspy-gepa-optimizer`, `dspy-rlm-module`, `dspy-rlm-workflow`, `dspy-deep-refine`,
-`dspy-reflect-loop`, `dspy-clarify`, `dspy-tetraframe`, `dspy-advanced-workflow`) — typed
+`dspy-reflect-loop`, `dspy-clarify`, `dspy-tetraframe`, `dspy-autodialectics`,
+`dspy-wiki-compile`, `dspy-adversarial-review`, `dspy-local-runtime`,
+`dspy-advanced-workflow`) — typed
 Signatures, closed enums, rich-feedback metrics; no prompt strings.
 **`/clarify` is mandatory before `/promote-to-canon`** and recommended wherever
 precision matters: it makes scope, terms and assumptions explicit and turns

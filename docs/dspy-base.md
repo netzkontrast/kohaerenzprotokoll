@@ -23,10 +23,15 @@ serves: [Plan/wiki/knowledge-system-concept_2026-09-15.md](../Plan/wiki/knowledg
 ## Skills (agent-side)
 
 The skill pack [netzkontrast/dspy-agent-skills](https://github.com/netzkontrast/dspy-agent-skills)
-(fork of intertwine/dspy-agent-skills, v0.5.0, validated against DSPy 3.2.1)
+(fork of intertwine/dspy-agent-skills, v0.7.0, validated against DSPy 3.2.1)
 provides `dspy-fundamentals`, `dspy-evaluation-harness`, `dspy-gepa-optimizer`,
 `dspy-rlm-module`, `dspy-rlm-workflow`, `dspy-deep-refine`, `dspy-reflect-loop`,
-`dspy-clarify`, `dspy-tetraframe`, `dspy-advanced-workflow`.
+`dspy-clarify`, `dspy-tetraframe`, `dspy-autodialectics`, `dspy-wiki-compile`,
+`dspy-adversarial-review`, `dspy-local-runtime`, `dspy-advanced-workflow`.
+The wiki programs in this repo instantiate `dspy-wiki-compile` (`SourceIngest`,
+`BatchCompile`), `dspy-clarify` (`ClarifyGate`), `dspy-tetraframe` (`TetraFrame`)
+and `dspy-adversarial-review` (`AdversarialReview`, Phase 4); the Claude-CLI
+backend below is the `dspy-local-runtime` pattern.
 
 Install for the project by adding the marketplace to `.claude/settings.json`
 (same pattern as the `agency` marketplace already there):
