@@ -45,9 +45,9 @@ and agent at the real files. Engineering language is English; canon prose stays 
 |---|---|---|
 | Raw sources (read-only) | `Canon/` (storyform-und-outline normative), `Plan/drafting/sources/` | already the immutable reference layer |
 | The wiki (LLM-maintained) | `Graph/` (CodexEntry, StoryTimeEvent, WorldAxiom, World, NovelClaim) — was `.agency/session.db` until 2026-09-16 | one record per line, greppable and diffable; a second hand-maintained Markdown copy would drift (Plan/sessions learnings §2) |
-| `GLOSSARY.md` | `Codex/GLOSSARY.md` — **generated** by `scripts/render_codex_views.py` | 602 entries, grouped by codex `kind` + `**Kategorie:**` |
-| `MASTER-TIMELINE.md` | `Codex/MASTER-TIMELINE.md` — generated | 56 StoryTimeEvents bucketed by story phase, with HAPPENS_AT / REVEALED_IN scene links |
-| physics backend / foundational axiom | DKT (Canon begriffe §1–§2, §14) + `Codex/WORLD-AXIOMS.md` — generated | 111 axioms in 7 Worlds |
+| `GLOSSARY.md` | `Codex/GLOSSARY.md` routes to `Codex/entries/<category>/<slug>.md` — **generated** by `scripts/render_codex_views.py` | 602 entries, one file each, partitioned by `**Kategorie:**` per `Graph/schema.yaml` |
+| `MASTER-TIMELINE.md` | `Codex/MASTER-TIMELINE.md` routes to `Codex/timeline/<phase-slug>.md` — generated | 56 StoryTimeEvents, one file per story phase, with HAPPENS_AT / REVEALED_IN scene links |
+| physics backend / foundational axiom | DKT (Canon begriffe §1–§2, §14) + `Codex/axioms/<world-slug>.md` — generated | 111 axioms, one file per World, routed from `Codex/WORLD-AXIOMS.md` |
 | `_index.md` | `Canon/README.md`, `chapters/README.md`, `.claude/skills/PROJECT_REFERENCES.md` | existing indexes |
 | `meta/LOG.md` | `Plan/sessions/<date>-learnings.md` | existing session-log convention |
 | `meta/plans/` | `Plan/worldbuilding/` (world builds), `Plan/drafting/` (chapters) | existing plan tree |
@@ -95,8 +95,12 @@ The shared `references/writing-standards.md` copies point at `WRITING.md`.
   for AEGIS/DKT/Juna/Kael, R-3 vocabulary as WARN, voice labels, R-5 heat polarity per scene,
   R-9 literal Kap-0 quote, "ich erinnere mich nicht", AEGIS "Ich" in logs, deferral markers).
   Calibrated against chapters 0–40: clean. Exit 1 on VIOLATION; `--hook` always exits 0.
-- `scripts/render_codex_views.py` — renders `Codex/*.md` from the graph read-only;
-  `--check` exits 1 when stale (used by the session-start hook).
+- `scripts/render_codex_views.py` — renders every file under `Codex/` from the
+  graph read-only; `--check` exits 1 when one is stale or when an orphan survives
+  a renamed slug (used by the session-start hook).
+- `scripts/context_packet.py` — the per-chapter retrieval packet: always-on
+  categories, trigger-matched entries, world axioms. `Graph/schema.yaml` holds
+  the rules, `tools/kpcodex` the implementation.
 - `scripts/research-tool.py` — upstream tool; default dir `Plan/research/`
   (`RESEARCH_TOOL_DIR` overrides), contact via `RESEARCH_TOOL_EMAIL`.
 

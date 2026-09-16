@@ -81,10 +81,30 @@ little about narrative order; the scene grouping is the reliable signal.
 These files are the author's, at the same level as `Canon/`. Scripts render
 *views* from them and never the other way round:
 
-- `scripts/render_codex_views.py` → `Codex/GLOSSARY.md`, `MASTER-TIMELINE.md`, `WORLD-AXIOMS.md`
+- `scripts/render_codex_views.py` → all 643 files under `Codex/`
+- `scripts/context_packet.py` → the per-chapter retrieval packet
 - `scripts/materialize_manuscript.py` → the chapter files under `Manuscript/`
 - `scripts/audit_graph_claims.py` → the claim audit
 
-The generated `Codex/*.md` views are never hand-edited: change the fact here
-and re-render. `scripts/export_graph.py` regenerated this directory from the
-retired database and is kept so the derivation stays checkable.
+Nothing under `Codex/` is hand-edited: change the fact here and re-render.
+`scripts/export_graph.py` regenerated this directory from the retired database
+and is kept so the derivation stays checkable.
+
+## `schema.yaml` — how these records become a navigable Codex
+
+`Graph/schema.yaml` sits beside the records and declares the rendering rules,
+so retrieval is programmatic rather than "load the glossary and hope":
+
+| key | decides |
+|---|---|
+| `kinds` | the five enforced `CodexEntry.kind` values |
+| `categories` | the 22 real categories read from `**Kategorie:**` — the partition dimension |
+| `always_on_categories` | which categories a writer needs regardless of chapter |
+| `partition` | where an entry file lands, and that an undeclared category goes to `_misfiled` |
+| `retrieval` | the packet tool, the three tiers, and how the chapter window is computed |
+| `planned.spoiler_until` | the per-entry spoiler ceiling, recorded as `not-implemented` with what it depends on |
+
+Every partition dimension there is a value the records already carry; the
+schema adds no field. `tools/kpcodex` implements it, `tests/test_kpcodex.py`
+holds it, and `scripts/render_codex_views.py --check` proves the rendering
+matches.

@@ -23,7 +23,7 @@ never a reason to skip it.
 |---|---|
 | wiki health | `Wiki/**` satisfies the contract in `Wiki/SCHEMA.md` — required fields, enums, citations that resolve |
 | wiki views | `Wiki/index.md` and `coverage.json` match the pages on disk |
-| codex views | `Codex/GLOSSARY.md`, `MASTER-TIMELINE.md`, `WORLD-AXIOMS.md` match `Graph/` |
+| codex views | every rendered file under `Codex/` matches `Graph/` — the three navigation routers, the `entries/`, `axioms/` and `timeline/` trees, and no orphan left behind by a renamed slug |
 | source manifest | `Sources/manifest.jsonl` matches the files in `Sources/` |
 | claim provenance | no `NovelClaim` points into `Wiki/` (D-W2) |
 | storyform | both NCP files still satisfy the decidable Dramatica rows |

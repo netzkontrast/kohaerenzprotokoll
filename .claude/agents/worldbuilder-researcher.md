@@ -30,10 +30,16 @@ and REPORT information with exact file + section citations, never to modify file
 
 ## Where things live
 
-- Terms, concepts, rules, motifs, voices: `Codex/GLOSSARY.md` (602 entries,
-  generated from the graph; slug + triggers + first paragraph), full bodies via
-  `tools/kpgraph` over `Graph/nodes/*.jsonl` (or plain `grep` — one record per line)
-- Story-time facts: `Codex/MASTER-TIMELINE.md`; world rules: `Codex/WORLD-AXIOMS.md`
+- Terms, concepts, rules, motifs, voices: 602 entries under
+  `Codex/entries/<category>/<slug>.md`, one file each. `Codex/GLOSSARY.md` is
+  navigation only — it routes to the partition index
+  `Codex/entries/<category>/README.md`, which lists every entry with a 40-word
+  summary. Open the one file you need; for a whole-corpus scan use `tools/kpgraph`
+  over `Graph/nodes/*.jsonl` (or plain `grep` — one record per line)
+- Everything a given chapter puts in play, in one command:
+  `python3 scripts/context_packet.py --chapter N --paths`
+- Story-time facts: `Codex/timeline/<phase>.md`; world rules:
+  `Codex/axioms/<world-slug>.md` — read the one world, not all 111 axioms
 - Normative structure: `Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`
 - Characters / Anteile / Sprach-DNA: `Canon/…anteile-profile-sprach-dna…`
 - Worlds / sensorics / locks: `Canon/…kernwelten-vollstaendig…`, `Canon/…welt-sensorik-drafting…`

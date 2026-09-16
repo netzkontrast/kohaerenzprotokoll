@@ -41,8 +41,9 @@ never canon: they enter the repository through `/research-ingest`.
 2. Inside the research-wiki loop, Canon is `unverified` until checked against
    the populated wiki, and a Canon/research conflict is an open question with
    no default winner (D-W12).
-3. `Codex/*.md` are generated views of `Graph/`; cite the graph record, not the
-   view.
+3. `Codex/**` is a generated view of `Graph/`; cite the graph record, not the
+   view. To find the record, route through `Codex/GLOSSARY.md` to the partition
+   index and open the one entry, rather than reading a whole category.
 
 ## Answer shape
 

@@ -117,8 +117,37 @@ idempotent by construction.
 
 1,180 records: 602 codex entries, 223 claims, 111 world axioms, 97 beats,
 56 story-time events, 41 chapters, 26 decisions, 15 scenes, 7 worlds, the
-Novel and the Storyform. `Codex/*.md` are **generated views** — never
-hand-edit them; change the record and re-render.
+Novel and the Storyform. Everything under `Codex/` is a **generated view** —
+never hand-edit it; change the record and re-render.
+
+`Graph/schema.yaml` is the second half of the contract: it declares how those
+records partition into a navigable Codex. One convention, three views:
+
+```
+Codex/<VIEW>.md          navigation only — counts and links, never a body
+Codex/<view>/README.md   the rendered index of that view
+Codex/<view>/<slug>.md   one retrievable unit
+```
+
+`GLOSSARY.md` → `entries/<category>/<slug>.md` (one entry), `WORLD-AXIOMS.md` →
+`axioms/<world-slug>.md` (one world's whole rule set), `MASTER-TIMELINE.md` →
+`timeline/<phase-slug>.md` (one story phase). Entries partition by the
+`**Kategorie:**` each record already carries; an undeclared category lands in
+`entries/_misfiled/` so drift is visible rather than silent.
+
+**Retrieval is a command, not a habit:**
+
+```bash
+python3 scripts/context_packet.py --chapter N   # ~21,700 tokens, not ~84,400
+```
+
+Three tiers — the always-on categories, every entry whose `triggers` occur in
+that chapter, and all world axioms. The chapter window is computed on each run
+rather than stored, so it cannot go stale, and membership implies the entry was
+already in play at or before that chapter, which is what makes it spoiler-safe.
+A per-entry spoiler ceiling depends on the story encoding and worldbuilding and
+is recorded in `Graph/schema.yaml` as `not-implemented`, so read a body before
+using it when the chapter is early and the entry is central.
 
 Closed enums, all of them enforced:
 
@@ -188,12 +217,15 @@ and descend through rendered local `README.md` indexes. Page budgets are
 enforced by `scripts/wiki_lint.py`; split before the hard maximum. Never edit
 rendered indexes by hand. Use the repo-local `wiki-maintenance` skill for
 moves, splits, navigation repair, and schema evolution. Operational terms are
-defined in `Wiki/GLOSSARY.md`; the domain glossary remains generated at
-`Codex/GLOSSARY.md`. Duplicate slugs, broken navigation links, mispartitioned
+defined in `Wiki/GLOSSARY.md`; the domain glossary is generated under
+`Codex/entries/`, routed from `Codex/GLOSSARY.md`. Duplicate slugs, broken navigation links, mispartitioned
 pages, oversized pages, and stale local indexes are structural blockers.
-For manuscript retrieval, start with `Wiki/context-map.md`, enforce its
-chapter/spoiler window, load matching headings next, and inspect raw source
-lines only when evidence is required.
+For manuscript retrieval, start with `python3 scripts/context_packet.py
+--chapter N` for the novel's own facts, and `Wiki/context-map.md` for the
+research layer — enforce its chapter/spoiler window, load matching headings
+next, and inspect raw source lines only when evidence is required. The
+retrieval ladder is `wiki-maintenance` →
+`references/context-loading.md`.
 
 ## Every LLM step is a DSPy program
 

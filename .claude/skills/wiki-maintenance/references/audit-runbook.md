@@ -51,10 +51,19 @@ state explicitly why it requires human review.
 ## 5. Retrieval cost
 
 An audit that never measures a packet cannot say whether the structure works.
-Build the packet for one early chapter and one late chapter, and report what
-each loaded and roughly what it cost in tokens against the whole-corpus
-baseline (`Codex/GLOSSARY.md` is ~71,700). A retrieval path that ends in
-"and then read the glossary" is a finding, not a pass.
+Build the packet for one early chapter and one late chapter and report what
+each loaded and what it cost:
+
+```bash
+python3 scripts/context_packet.py --chapter 3 --json
+python3 scripts/context_packet.py --chapter 35 --json
+```
+
+The baseline is the whole corpus — every codex body, ~84,400 tokens. A
+chapter-3 packet is ~21,700. A retrieval path that ends in "and then read the
+glossary" is a finding, not a pass; so is a packet that has grown toward the
+corpus, which usually means `always_on_categories` in `Graph/schema.yaml` has
+widened past the categories that genuinely constrain every chapter.
 
 ## 6. Verification and report
 

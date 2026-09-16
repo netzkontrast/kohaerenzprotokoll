@@ -19,7 +19,29 @@ you need, and `reference/scene.md` carries the scene protocol.
 ```bash
 python3 scripts/chapter_drift.py | sed -n '1,5p'          # where this chapter stands
 sed -n '1,80p' Manuscript/**/chapters/NN-*.md             # the target, in full
+python3 scripts/context_packet.py --chapter NN            # the codex this chapter needs
 ```
+
+The packet is the entry point, not the glossary. It returns three tiers,
+assembled from `Graph/` through the rules in `Graph/schema.yaml`:
+
+- **always-on** — the categories that constrain prose without appearing in it
+  (rule, guidance, voice, defect, theme, philosophy), as 40-word cards;
+- **chapter-anchored** — every entry whose `triggers` occur in this chapter's
+  prose, in full;
+- **world axioms** — all of them, since none is chapter-local.
+
+Roughly 22k tokens for a mid-Arc-I chapter against 84k for every body. Add
+`--paths` for just the files to open, `--full` for complete always-on bodies.
+The window is computed on each run, never stored, so it sharpens as chapters
+are written and cannot go stale.
+
+Membership is spoiler-safe by construction: a chapter is in an entry's window
+only if a trigger occurs *in that chapter*, so an entry introduced later never
+enters an earlier packet. What it cannot see is an entry introduced early whose
+own body explains a late reveal — `Graph/schema.yaml` records that ceiling as
+planned, pending the story encoding and worldbuilding. Read a body before using
+it when the chapter is early and the entry is central.
 
 Then the fences, from `Graph/`:
 
@@ -33,9 +55,11 @@ events  = g.nodes("StoryTimeEvent")                # what has happened by now
 axioms  = g.axioms_of(world_nid)                   # the world's hard and soft rules
 ```
 
-Codex triggers: a codex entry's `triggers` field lists the words that should
-pull it into a draft. Scan the beat text against them before writing —
-`Graph/nodes/codex_entry.jsonl`, or `Codex/GLOSSARY.md` to read by eye.
+Codex triggers: a codex entry's `triggers` field lists the words that pull it
+into a draft, and the packet above already scans the chapter against them. To
+widen a beat by hand, open the partition that holds the kind of entry you want
+— `Codex/entries/<category>/README.md`, routed from `Codex/GLOSSARY.md` — or
+search the records directly in `Graph/nodes/codex_entry.jsonl`.
 
 Carry into the draft: the beats, the POV register (`register-*`, `sprach-dna-*`
 codex entries), the knowledge fence (what this part knows *as of* this scene),

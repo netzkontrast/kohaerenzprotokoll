@@ -5,9 +5,9 @@ description: >-
   boundaries, indexes, links, and schema alignment. Use for wiki cleanup,
   moving or splitting pages, fixing navigation, evolving page kinds or
   partitions, full wiki audits, context-loading improvements, or repairing
-  wiki lint drift. It may plan a Codex migration, but never restructures the
-  generated Codex as part of routine Wiki maintenance. Does not decide Canon
-  or rewrite research claims.
+  wiki lint drift. Never hand-edits the generated Codex: its structure is
+  declared in Graph/schema.yaml and written by the renderer. Does not decide
+  Canon or rewrite research claims.
 ---
 
 # Wiki Maintenance
@@ -51,13 +51,15 @@ authority.
 - Directory names encode only schema-defined partitions, never ad-hoc topics.
   A topic is a page, tag, or link unless `Wiki/schema/*.yaml` defines it as a
   partition dimension.
-- `Codex/**` is renderer-owned and outside routine Wiki maintenance. Record
-  Codex defects and migration proposals, but do not move or split those files
-  unless the user explicitly starts a separate Codex migration. The inventory
-  and the measured proposal are in
-  `Plan/wiki/codex-context-inventory_2026-09-16.md`; the task, its mode and
-  the questions still open are at the top of `todo.md`. Neither is permission
-  to begin.
+- `Codex/**` is renderer-owned. It is partitioned and navigable — root files
+  route, `entries/`, `axioms/` and `timeline/` hold one retrievable unit per
+  file — but every one of those files is written by
+  `scripts/render_codex_views.py` from `Graph/`. Never move, split or edit one.
+  To change the structure, change the rules in `Graph/schema.yaml` and
+  `tools/kpcodex`, then re-render; to change content, change the record. A file
+  under `Codex/entries/_misfiled/` is a record whose `**Kategorie:**` is not in
+  the schema — report it, and fix the record rather than the rendering.
+  Background and measurements: `Plan/wiki/codex-context-inventory_2026-09-16.md`.
 
 ## Choose the operation
 
@@ -72,8 +74,10 @@ authority.
   one atomic contract change.
 - **Navigation repair** — change source pages or the renderer; never patch a
   generated index directly.
-- **Codex migration** — separate, explicitly requested project. First produce
-  an inventory and migration plan; do not combine it with Wiki cleanup.
+- **Codex structure change** — a change to `Graph/schema.yaml` plus
+  `tools/kpcodex`, never to the rendered files. Add the category or the rule,
+  re-render, and prove it with `scripts/render_codex_views.py --check` and
+  `tests/test_kpcodex.py`. Do not combine it with Wiki cleanup.
 
 ## Workflow
 

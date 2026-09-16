@@ -14,7 +14,7 @@ seeded from `Canon/` through the extraction manifests in `Plan/ingest/`.
 
 ```bash
 python3 scripts/ingest_canon.py        # manifests -> Graph/nodes/*.jsonl
-python3 scripts/render_codex_views.py  # Graph/ -> Codex/*.md
+python3 scripts/render_codex_views.py  # Graph/ -> every file under Codex/
 python3 scripts/kp_check.py            # confirm nothing broke
 ```
 
@@ -51,6 +51,6 @@ views afterwards and commit both.
 
 - It never promotes research into Canon. That path is
   `/research-ingest` → `/kp-promote` → an author decision.
-- It never edits `Codex/*.md` by hand. Those are generated; change the graph
+- It never edits anything under `Codex/` by hand. All of it is generated; change the graph
   record and re-render.
 - It never resolves a contradiction it finds. That is `/kp-decide`.

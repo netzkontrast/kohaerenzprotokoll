@@ -46,7 +46,9 @@ for w in g.nodes("World"):
 
 Read `novel-architect` → [reference/world.md](../skills/novel-architect/reference/world.md),
 `Canon/…kernwelten-vollstaendig…` (§1 plus the target level's §),
-`Canon/…welt-sensorik…` §1–§3, and `Codex/WORLD-AXIOMS.md`.
+`Canon/…welt-sensorik…` §1–§3, and the target world's axioms at
+`Codex/axioms/<world-slug>.md` (`Codex/WORLD-AXIOMS.md` routes to them; read the
+one world you are deriving, not all 111 axioms).
 
 Decide the build type: a new sub-locality inside an existing Kernwelt, a new
 population, or a re-derivation audit of a level that feels imported. Open the

@@ -24,7 +24,9 @@ Seeded 2026-09-15 from PROJECT_REFERENCES.md and the ingest manifests.
 - Doran → only named person besides Kael in Act I (drafting brief §3)
 - Dekanonisiert (never active): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris,
   Mina, Lyra, Soren, Tariq, Nova, Sentinel; Guardians LogOS, Cerberus, Kairos, Sophia are names only
-- Codex entries (602): Codex/GLOSSARY.md; slugs for the KW worlds: kw1-konstrukt-stadt,
+- Codex entries (602): one file at Codex/entries/<category>/<slug>.md, routed from
+  Codex/GLOSSARY.md; per-chapter set via scripts/context_packet.py --chapter N --paths.
+  Slugs for the KW worlds: kw1-konstrukt-stadt,
   kw2-mnemosyne-archipel, kw3-cerberus-labyrinth, kw4-resonanz-kontinuum, ueberwelt, externe-ebene-koeln
 
 ## Effective Search Patterns

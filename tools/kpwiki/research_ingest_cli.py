@@ -38,10 +38,9 @@ from .schema import Compiled, PageState
 
 ROOT = Path(__file__).resolve().parents[2]
 MANIFEST_REL = "Sources/manifest.jsonl"
-GLOSSARY_REL = "Codex/GLOSSARY.md"
+CODEX_REL = "Graph/nodes/codex_entry.jsonl"
 EDGES_REL = "Wiki/graph/edges.jsonl"
 LOG_REL = "Wiki/log.md"
-CODEX_SLUG_RE = "`([a-z0-9-]+)`"
 MAX_GLOSSARY_TERMS = 400
 
 
@@ -122,14 +121,23 @@ def existing_pages(root: Path) -> dict[str, PageState]:
 
 
 def glossary_terms(root: Path) -> list[str]:
-    """Codex slugs the extraction and the clustering step should recognise."""
-    import re
+    """Codex slugs the extraction and the clustering step should recognise.
 
-    path = root / GLOSSARY_REL
+    Read from the record rather than scraped out of a rendered view: `Codex/`
+    is a navigation tree whose root files deliberately carry no entries, and a
+    matcher that depends on the shape of a rendering breaks whenever the
+    rendering changes.
+    """
+    path = root / CODEX_REL
     if not path.is_file():
         return []
-    slugs = dict.fromkeys(re.findall(CODEX_SLUG_RE, path.read_text(encoding="utf-8")))
-    return list(slugs)[:MAX_GLOSSARY_TERMS]
+    slugs = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.strip():
+            slug = json.loads(line).get("slug")
+            if slug:
+                slugs.append(slug)
+    return list(dict.fromkeys(slugs))[:MAX_GLOSSARY_TERMS]
 
 
 # --- writing ------------------------------------------------------------------------

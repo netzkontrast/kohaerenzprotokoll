@@ -3,64 +3,101 @@
 The goal is the smallest sufficient, spoiler-safe context packet for a
 specific writing decision.
 
-## Where the knowledge actually is right now
+## Where the knowledge actually is
 
 Read this before following the ladder, because it decides which rung you start
-on. The wiki holds the *research understanding* and is currently empty of
-promoted pages, so `Wiki/context-map.md` has no rows. The knowledge a chapter
-needs — 602 codex entries, 111 world axioms, 56 story-time events — lives in
-`Graph/` and renders into `Codex/`, and those carry no chapter window or
-spoiler ceiling yet.
+on. Two layers hold two different things, and they are not interchangeable:
 
-So today: **the wiki ladder is correct and will route nothing; the Codex is
-where the answers are and has to be narrowed by hand.** The measurements and
-the proposed fix are in
-`Plan/wiki/codex-context-inventory_2026-09-16.md`; the migration is the open
-task at the top of `todo.md` and is the author's to start.
+| layer | holds | routes by |
+|---|---|---|
+| `Wiki/` | the *research understanding*, promoted by the author | `Wiki/context-map.md` — chapter window, spoiler ceiling, tier |
+| `Codex/` | the *novel's own facts* — 602 entries, 111 axioms, 56 events | `Graph/schema.yaml` — category partition, computed chapter window |
 
-Until then, narrow the Codex with the signal it already carries:
+`Wiki/context-map.md` is the right instrument and currently has no rows,
+because no page has been promoted yet. The knowledge a chapter needs is in
+`Codex/`, which is a rendered view of `Graph/` and is partitioned so it can be
+retrieved programmatically rather than read whole.
+
+## Start with the packet
 
 ```bash
-python3 scripts/wiki_fts.py search "…"        # wiki + Canon + Sources, heading-level
-grep -o '"slug": "[^"]*"' Graph/nodes/codex_entry.jsonl | head
+python3 scripts/context_packet.py --chapter 3           # the packet itself
+python3 scripts/context_packet.py --chapter 3 --paths   # just the files to open
+python3 scripts/context_packet.py --chapter 3 --json    # tiers and cost, machine-readable
 ```
 
-```python
-# Which codex entries does this chapter actually put in play? Every entry
-# carries `triggers`; scan the chapter text for them instead of loading the
-# whole glossary. Roughly 40 entries fire per chapter, against 602 in total.
-from tools import kpgraph
-from pathlib import Path
-g = kpgraph.load()
-text = Path("Manuscript/.../chapters/03-….md").read_text(encoding="utf-8").lower()
-for entry in g.nodes("CodexEntry"):
-    triggers = [t.strip().lower() for t in entry.get("triggers", "").split(",") if len(t.strip()) >= 4]
-    if any(t in text for t in triggers):
-        print(entry["slug"], "—", entry["name"])
+Three tiers, all of them derived from fields the records already carry — no
+curated list, nothing to maintain by hand:
+
+- **always-on** — the categories that constrain prose without ever appearing in
+  it: `rule`, `guidance`, `voice`, `defect`, `theme`, `philosophy`. A trigger
+  scan can never surface these, so they are selected by category. Rendered as
+  40-word cards; `--full` gives the bodies.
+- **chapter-anchored** — every entry whose `triggers` occur in that chapter's
+  prose, in full, because this is what the chapter is about.
+- **world axioms** — all of them. They are short and none is chapter-local.
+
+Everything else is on-demand: reached by name through the tree below, or by
+`python3 scripts/wiki_fts.py search "…"`.
+
+## Navigating by hand
+
+Each root file in `Codex/` is navigation only — counts and links, no bodies.
+One convention throughout:
+
+```
+Codex/GLOSSARY.md              →  Codex/entries/<category>/<slug>.md
+Codex/WORLD-AXIOMS.md          →  Codex/axioms/<world-slug>.md
+Codex/MASTER-TIMELINE.md       →  Codex/timeline/<phase-slug>.md
 ```
 
-A trigger hit is spoiler-safe by construction: if the chapter is in an entry's
-hit-set, the entry was already in play at or before that chapter. It does
-**not** protect against a body that explains a later reveal, so an entry whose
-body reaches forward still has to be read before it is used.
+Every directory carries a rendered `README.md` listing what is in it with a
+40-word summary per row, so you can choose an entry without opening one. A file
+is one retrievable unit: an entry for the codex, a whole world's rule set for
+the axioms, a story phase for the timeline. Opening
+`Codex/entries/rule/README.md` costs a fraction of the corpus and tells you
+which of the 99 rules you actually need.
 
-Always-on constraints do not appear as vocabulary and will never trigger:
-the R-rules, the Sprach-DNA registers, voice and drafting guidance. Load those
-from `Codex/GLOSSARY.md` by their `**Kategorie:**` (`rule`, `guidance`,
-`voice`, `defect`, `theme`, `philosophy`), not by searching the chapter.
+An entry whose `**Kategorie:**` is not in `Graph/schema.yaml` renders into
+`Codex/entries/_misfiled/`. That directory existing is a defect report, not a
+category — fix the record and re-render.
+
+## What the window does and does not prove
+
+A chapter is in an entry's window when one of the entry's triggers occurs in
+that chapter's prose. Membership, never a first-to-last span: an entry that
+fires in chapters 3 and 30 has a window of exactly `{3, 30}`, and chapter 12
+does not silently inherit it.
+
+This is spoiler-safe by construction. If chapter N is in the window, a trigger
+occurs in chapter N, so the entry was already in play at or before N — an entry
+introduced in chapter 30 cannot enter the chapter-3 packet.
+
+What it cannot see is an entry introduced early whose *own body* explains a
+late reveal. A real per-entry spoiler ceiling depends on the story encoding and
+weaving and on worldbuilding, so it is not guessed; `Graph/schema.yaml` records
+it under `planned.spoiler_until` with `status: not-implemented` and
+`default_when_unknown: 40`. Until it lands, read a body before using it when
+the chapter is early and the entry is central.
+
+The window is computed on every run rather than stored, so nothing can go stale
+and it sharpens as chapters are written.
 
 ## Retrieval ladder
 
 1. Establish task, target chapter, scene, and whether future spoilers are
    allowed. If the answer affects selection and is unknown, ask.
-2. Read `Wiki/context-map.md`, not the entire Wiki. When it has no row for the
-   target — which is the case for every chapter today — drop to the Codex
-   narrowing above rather than loading `Codex/GLOSSARY.md` whole.
-3. Filter by chapter window and require `spoiler_until <= target chapter` for
-   spoiler-safe work.
-4. Load `core` rows before `supporting`; load `evidence` only when the task
-   needs substantiation.
-5. Open the smallest matching page and only the relevant heading range.
+2. Run `scripts/context_packet.py --chapter N`. That is the Codex rung, and it
+   is where every chapter starts today.
+3. Read `Wiki/context-map.md` for the research layer. When it has no row for
+   the target — the case for every chapter until pages are promoted — the
+   packet from step 2 is the whole answer from this layer.
+4. Where the map does have rows: filter by chapter window, require
+   `spoiler_until <= target chapter` for spoiler-safe work, and load `core`
+   before `supporting`. Load `evidence` only when the task needs substantiation.
+5. Open the smallest matching page and only the relevant heading range. In the
+   Codex that means one file under `entries/`, `axioms/` or `timeline/`, never
+   a partition index as a reading list.
 6. Follow citations to exact source lines only when wording, evidence, or a
    conflict must be verified. Never load a complete raw source by default.
 7. Stop when the writing decision is supported; more context is not
@@ -82,11 +119,15 @@ large source bodies in active context.
 
 ## Know what a packet costs
 
-A packet nobody measured is a packet nobody trusts. The whole
-`Codex/GLOSSARY.md` is ~71,700 tokens; a trigger-narrowed chapter packet plus
-the rule cards and the axioms is ~23,600. Before reporting that a retrieval
-path works, say what it loaded and roughly what it cost — a ladder that ends
-in "and then read the glossary" has not done its job.
+A packet nobody measured is a packet nobody trusts. Every codex body together
+is ~84,400 tokens — what "load the glossary" used to mean. A chapter-3 packet
+is ~21,700 across 232 files: 8,900 always-on, 8,800 chapter-anchored, 4,000
+axioms. `--json` prints that breakdown for any chapter.
+
+Before reporting that a retrieval path works, say what it loaded and roughly
+what it cost. A ladder that ends in "and then read the glossary" has not done
+its job — and since `Codex/GLOSSARY.md` is now navigation only, that sentence
+no longer even reaches the content.
 
 ## Safety defaults
 

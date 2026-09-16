@@ -1,0 +1,115 @@
+# Graph/ contract — the novel's facts, and how they render into Codex/.
+#
+# Graph/nodes/*.jsonl is the source of truth (Graph/README.md documents the
+# record shape). This file is the machine-readable rule set that decides how
+# those records partition into a navigable Codex, so retrieval can be
+# programmatic instead of "load the glossary and hope".
+#
+# Read by tools/kpcodex; enforced by scripts/render_codex_views.py --check and
+# scripts/wiki_lint.py. Nothing here invents a field: every partition
+# dimension below is a value the records already carry.
+
+version: 1
+
+# The five CodexEntry kinds the graph enforces (Spec 132). Anything that is
+# not one of these is stored as `concept` and keeps its real category in the
+# first body line as `**Kategorie:** <category>`.
+kinds: [concept, location, faction, artefact, minor-character]
+
+# The real categories, read from `**Kategorie:**`. This is the partition
+# dimension: one directory per category, exactly one level deep. A record
+# whose category is not listed here renders into `_misfiled/` so the drift is
+# visible rather than silent — it is never invented into a new directory.
+categories:
+  - concept
+  - rule
+  - note
+  - location
+  - term
+  - philosophy
+  - guidance
+  - motif
+  - character
+  - defect
+  - theme
+  - structure
+  - physics
+  - voice
+  - technique
+  - question
+  - system
+  - sensorik
+  - technology
+  # The kind values that can stand in when a record carries no
+  # `**Kategorie:**` line of its own.
+  - faction
+  - artefact
+  - minor-character
+
+# Which categories a writer needs regardless of chapter. These constrain prose
+# without appearing in it, so a trigger scan never surfaces them and they are
+# selected by category instead. Narrowing this list is the single biggest
+# lever on packet size; see Plan/wiki/codex-context-inventory_2026-09-16.md.
+always_on_categories: [rule, guidance, voice, defect, theme, philosophy]
+
+partition:
+  codex_root: Codex/entries
+  path: "Codex/entries/<category>/<slug>.md"
+  misfiled: _misfiled
+  directory_depth: exactly one partition below the codex root
+  local_index_policy: every occupied partition carries a rendered README.md
+  root_index_policy: list every declared category, including empty ones, with counts
+
+# Rendered, never hand-edited. One convention: a root file routes and carries no
+# body, a folder holds one retrievable unit per file plus a rendered README.md.
+# scripts/render_codex_views.py writes exactly this set and deletes anything
+# else it finds under the content folders, so a renamed slug leaves no orphan.
+rendered:
+  routers:
+    - Codex/GLOSSARY.md        # -> Codex/entries/<category>/<slug>.md
+    - Codex/WORLD-AXIOMS.md    # -> Codex/axioms/<world-slug>.md
+    - Codex/MASTER-TIMELINE.md # -> Codex/timeline/<phase-slug>.md
+  content:
+    - Codex/entries/**
+    - Codex/axioms/**
+    - Codex/timeline/**
+  unit:
+    entries: one CodexEntry
+    axioms: one World's complete axiom set, because nobody fetches a single axiom
+    timeline: one story phase
+
+# How a chapter packet is assembled. Computed on demand — no derived field is
+# stored, so nothing can go stale and the window sharpens as chapters are
+# written (author decision, 2026-09-16).
+retrieval:
+  tool: scripts/context_packet.py
+  window:
+    source: CodexEntry.triggers scanned against the chapter text
+    min_trigger_length: 4
+    rule: >-
+      a chapter is in an entry's window when any of its triggers occurs in that
+      chapter's prose; membership, never first-to-last span
+    spoiler_property: >-
+      membership implies the entry was already in play at or before that
+      chapter, so an entry introduced later cannot enter an earlier packet
+  tiers:
+    - name: always-on
+      select: category in always_on_categories
+      form: name plus the first paragraph, bodies fetched on demand
+    - name: chapter-anchored
+      select: the chapter is in the entry's computed window
+      form: full body
+    - name: on-demand
+      select: everything else, reached by name or by scripts/wiki_fts.py
+      form: nothing until asked
+
+# Known gap, deliberately unfilled. A derived window cannot tell that an entry
+# introduced in an early chapter explains a late reveal inside its own body.
+# A real per-entry spoiler ceiling depends on the story encoding and weaving
+# (the `dramatica` skill) and on worldbuilding, so it is not invented here.
+# When it lands it belongs beside `triggers` on the CodexEntry record.
+planned:
+  spoiler_until:
+    status: not-implemented
+    depends_on: [story encoding and weaving, worldbuilding]
+    default_when_unknown: 40
