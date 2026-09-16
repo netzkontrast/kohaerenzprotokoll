@@ -33,9 +33,14 @@ Anything derived traces back to a `drive_id`.
 
 ## State, as of 2026-09-16
 
-**27 of 680 source documents are landed.** The rest have never been exported.
-`Wiki/` does not exist yet — the first term pages are written by hand, and the
-schema follows them rather than preceding them.
+**409 of 680 source documents are landed.** The 271 that are not are the 247
+`plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
+have no route. Every category the wiki needs is complete.
+
+**3 of the 409 landed documents have been read**, and their notes are in
+`Sources/notes/`. **1 has a full term census**, in `Sources/terms/`. `Wiki/candidates/` holds **1 term page**, written by hand. The
+schema follows the pages rather than preceding them, so neither `Wiki/terms/`
+nor a page format exists yet.
 
 Check it yourself rather than trusting this paragraph:
 
@@ -46,23 +51,30 @@ python3 scripts/sources.py check      # manifest against disk
 
 ## The process
 
-Five steps. Two of them are a person.
+Six steps. Three of them are a person.
 
 ```
-Drive ──fetch──→ Sources/drive/*.md ──read──→ Sources/notes/*.md
-                                                      │
-                                                   gather
-                                                      ▼
-                                           Wiki/candidates/*.md
-                                                      │
-                                              review (a person)
-                                                      ▼
-                                              Wiki/terms/*.md ──→ ask
+Drive ──fetch──→ Sources/drive/*.md ──┬──extract──→ Sources/terms/*.md
+                                      │                    │
+                                      └──read─────→ Sources/notes/*.md
+                                                           │
+                                                        gather
+                                                           ▼
+                                                Wiki/candidates/*.md
+                                                           │
+                                                   review (a person)
+                                                           ▼
+                                                   Wiki/terms/*.md ──→ ask
 ```
 
 Written out in full in `Plan/concept/wiki-process_2026-09-16.md`. The short
-version: a note harvests what one document says about which terms, quoting with
-line numbers. A term page collects every source's reading of one term,
+version: **a census lists every candidate term in one document, exhaustively,
+with why each row might be handled differently in the next one.** A note then
+harvests what that document says about the terms that matter, quoting with line
+numbers. The census exists because the note is selective, and a term dropped
+quietly in document 2 is exactly where document 1's conflict hides —
+`Plan/learnings/extract-terms.md` has the eight special cases the first one
+found. A term page collects every source's reading of one term,
 **attributed and unmerged** — where sources disagree the page says so and stops.
 Which reading is right is the author's call, never the page's.
 
@@ -87,8 +99,9 @@ which parses the spill, normalizes, writes `Sources/drive/<slug>.md`, records
 both checksums into the manifest and verifies. Never open the spill yourself.
 
 44 of the 680 rows are markdown or audio, which the connector does not list as
-supported. They need a decision, and none has been tried —
-`Plan/learnings/fetch.md` has the format census.
+supported — though 4 of the 43 `md` rows landed anyway, so the list is not the
+whole truth. The remaining 39 and the one `mp3` stay deferred by decision.
+`Plan/learnings/fetch.md` has the format census and the heading measurement.
 
 ## Installing anything
 
@@ -128,8 +141,15 @@ everything that happened. There is no board, no status field and no backlog.
 ## `Legacy/`
 
 The novel, the graph, the codex, the old planning record and the retired
-commands are parked there. Nothing links to it, no script reads it, and it is
-not part of any workflow. `README.md` says in one sentence what it holds.
+commands are parked there. No script reads it, nothing in `Wiki/` or `Sources/`
+mentions it, and it is not part of any workflow. `README.md` says in one
+sentence what it holds.
 
 It is a shelf, not a layer. If it starts being referenced, it has become a layer
 again — and that is the thing being removed.
+
+**One exception, and it is deliberate:** `Plan/` cites it where a measurement
+came from there — the two live pilot runs of the retired pipeline are the only
+data on what this work costs at scale, and evidence without its provenance is
+just a number someone asserted. Citing where a fact came from is not the same as
+depending on the file. Nothing is read from `Legacy/` at run time.

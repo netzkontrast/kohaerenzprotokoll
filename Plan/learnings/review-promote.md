@@ -31,6 +31,15 @@ happens automatically.
    something a check could have caught, and the review is where that principle
    pays or fails visibly.
 
+   **Sharpened by the retired system's measurement:** of 46 citation errors its
+   checker reported, **40 were the checker's own fault** — typographic quotes
+   against ASCII ones, and punctuation enclosing the fragment. A check that is
+   wrong seven times in eight is worse than no check, because it trains the
+   reviewer to skip it and the 6 real errors ship with the rest. So the
+   prediction has a corollary: *a check must be calibrated against work known to
+   be good before it is allowed to gate work that is not.* The twenty
+   hand-written pages are that calibration set.
+
 4. **Sending back will be rarer than expected.** Predicted: most rejections are
    "this term is not worth a page" rather than "this page is wrong" — which
    means the interesting signal is about term *selection*, and feeds back into
@@ -57,9 +66,19 @@ happens automatically.
   reason is the more valuable artefact, and it is the kind of thing nobody can
   reconstruct later — the argument for keeping it is the same one that justifies
   `Plan/decisions/`.
-- **Does a promoted page ever go back?** New sources will arrive with readings
-  that contradict a promoted page. Untested, and it is the case that will
-  matter most in six months.
+- ~~**Does a promoted page ever go back?**~~ **The retired system answered this
+  better than either option listed here.** Its lifecycle marked reviewed pages
+  `protected`, and the rule was: *a new source never overwrites a reviewed page,
+  it flags it.* The page moves `reviewed → contested` and the author decides.
+  Neither "it goes back" nor "it doesn't" — it acquires a flag. Adopt when a
+  page is first promoted.
+
+- **Does a candidate's lint error gate the whole repository, or only its own
+  promotion?** The retired system left this open and it bit: 45 unreviewed
+  candidates with findings turned the repository health check red, so no draft
+  could be in flight without the gate being red. **Settle it as: lint gates
+  promotion, not the repository.** Untested here — no candidate has been linted,
+  because no checker exists.
 
 ## What stays judgement
 

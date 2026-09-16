@@ -47,28 +47,42 @@ session token are session-scoped, and it says so when either is missing.
 
 ## Two routes, chosen by format
 
-| format | rows | route |
-|---|---:|---|
-| `gdoc` | 590 | `read_file_content` — the text export |
-| `docx` | 45 | `download_file_content` → markitdown |
-| `pdf` | 1 | same |
-| `md` | 39 | **none yet** — deferred, see below |
-| `mp3` | 1 | **none yet** |
+| format | rows | landed | route |
+|---|---:|---:|---|
+| `gdoc` | 590 | 360 | `read_file_content` — the text export |
+| `docx` | 45 | 45 | `download_file_content` → markitdown |
+| `md` | 43 | 4 | same — see below |
+| `pdf` | 1 | 0 | same |
+| `mp3` | 1 | 0 | **none** |
 
-The split is not cosmetic. A Google Doc has no original file, so the text export
-is all there is — and it flattens structure: the first one landed had **one**
-real heading against 21 lines of bold standing in for headings. Anything with an
-original is downloaded as bytes and converted instead, which preserves what the
-author marked up. Measured across the 45 `.docx` in `theorie-physik`: **931 real
-headings, median 23 per document.**
+A Google Doc has no original file, so the text export is all there is. Anything
+with an original is downloaded as bytes and converted instead, which preserves
+what the author marked up.
 
-So section-level retrieval works on the converted formats and does not work on
-Google Docs. That is a property of those 590 documents, not a bug to fix.
+**What the split does *not* cost is headings, and an earlier version of this
+page said otherwise.** It claimed the text export flattens structure and that
+"section-level retrieval works on the converted formats and does not work on
+Google Docs" — generalised from the first document landed, which had one real
+heading against 26 lines of bold. Counted across everything on disk:
 
-`md` and `mp3` have no route: the connector lists neither `text/markdown` nor
-audio among its supported types. By decision (2026-09-16) they stay unfetched
-for now. `fetch` skips them and prints that it did, so they cannot be mistaken
-for landed.
+| format | landed | median headings | with ≥5 | with none |
+|---|---:|---:|---:|---:|
+| `gdoc` | 360 | 17 | 270 | 18 |
+| `docx` | 45 | 17 | — | — |
+
+**The medians are identical.** `argus-chronist-der-wandlung` is an outlier, not a
+representative, and one sample was used to describe 590 documents. Section-level
+retrieval works on both routes. The 18 gdocs with no headings are a small,
+listable set rather than a property of the format.
+
+The claim is left here rather than quietly deleted, because the mistake is the
+useful part: it is P18 — one attempt measures nothing — applied to our own
+documentation instead of to a model.
+
+`md` was listed as having no route, and 4 of the 43 rows are landed, so the
+connector serves at least some of them. The remaining 39 and the one `mp3` stay
+deferred by decision (2026-09-16). `fetch` skips what it cannot route and prints
+that it did, so nothing can be mistaken for landed.
 
 ## What is normalized, and what is not
 

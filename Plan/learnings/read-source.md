@@ -2,12 +2,18 @@
 
 ## Status
 
-**Not run yet.** This file is a pre-registration: what we expect, what we will
-watch for, and what would count as a surprise. Written before the first run on
-purpose — comparing a prediction to an outcome sharpens a learning far more than
-writing the outcome alone.
+**3 documents read by hand, 2026-09-16** — `entropie-aegis` (1,331 w),
+`aegis-emergenz-aus-der-leere` (6,568 w) and
+`kohaerenzprotokoll-aegis-und-systementropie` (6,730 w), all `theorie-physik`,
+all within two days of each other in the source chronology. Notes in
+`Sources/notes/`.
 
-Nothing below is evidence. Everything below is a claim to be checked.
+The three turned out to be one of each kind — `brief`, `critique`, `result` —
+which was luck, not design, and is the reason the format held.
+
+The predictions below were written before either was opened. Results are
+recorded under each, and the section after them holds what no prediction
+anticipated — which turned out to be the more valuable half.
 
 ## What the step is
 
@@ -45,6 +51,121 @@ A note harvests. It does not decide, merge or interpret.
    different categories will look like different genres, and a single note
    template will strain.
 
+## Results against those predictions
+
+1. **Context — confirmed.** 6,568 words read in two passes with room to spare.
+   No chunking needed, no document has forced a split.
+
+2. **Quoting — confirmed, and cheap.** Quoting with line numbers took no more
+   effort than paraphrasing and made every claim checkable. Untested against a
+   *weak* model, which is where the prediction actually bites.
+
+3. **Line numbers — falsified for a human reader.** The prediction was that
+   citing lines would be the hard part. Reading a file whose lines are numbered
+   makes it trivial. The prediction may still hold for a model at scale, so it
+   stays open rather than closed — but it is not the difficulty it looked like.
+
+4. **Flat headings — falsified in the good direction.** Both documents came
+   through the markitdown route and carry real headings, so notes cite section
+   context freely. The problem is confined to Google Docs, as `fetch.md` §7b
+   records.
+
+5. **Uneven across categories — confirmed, and stronger than expected.** The two
+   documents are different *genres*, not just different topics. And yet the same
+   note fields fitted both, which is the useful half of the finding: the shape
+   held, the content varied.
+
+## What no prediction anticipated
+
+**a. Document kind is the single most important field, and it was not in the
+format.** The corpus contains at least three kinds, and reading one as another
+inverts its meaning:
+
+| kind | what it is | how it must be read |
+|---|---|---|
+| `brief` | a research commission — states premises, asks questions | its terms are *premises*, not findings |
+| `critique` | an adversarial analysis of a proposal | its **verdicts** are claims about terms |
+| `result` | a research answer | not yet encountered in these two |
+
+`entropie-aegis` is a brief: it defines AEGIS and then asks 20 questions it does
+not answer. `aegis-emergenz-aus-der-leere` is a critique that largely *rejects*
+what it describes. A note that recorded only "what this source says about X"
+would present a refutation as a definition.
+
+**So `kind` goes in the frontmatter, and the note opens by saying what reading
+the document requires.**
+
+**b. A critique's verdicts are content.** „ECR scheint im Widerspruch zu
+etablierten Prinzipien der Thermodynamik zu stehen" is a claim about ECR and
+belongs on ECR's term page. The note format needs a section for judgements, not
+only for definitions.
+
+**c. Names are superseded across the corpus.** The 2025-04-17 document calls the
+protagonist **Michael** and the external connection **Julia**; current canon uses
+Kael and Juna. This is not an error to fix — it is a fact about the source, and
+without the date a reading under the old name looks like a different claim about
+a different figure.
+
+**d. A real conflict appeared in the first two documents.** AEGIS is expanded
+three ways — twice inside one document. `gather-term.md` predicted apparent
+conflicts would vastly outnumber real ones; the first real one arrived
+immediately, and it is not resolvable by rewording.
+
+**e. `theorie-physik` is upstream of the story.** The critique never uses
+Guardians, Überwelt, Risse or Kern-Welten. The theory tier argues about
+mechanisms; the novel's own vocabulary lives elsewhere. Useful for sequencing:
+theory documents define the roots, story documents use them.
+
+## The third document, and what it corrected
+
+`kohaerenzprotokoll-aegis-und-systementropie` is a `result` — the kind the table
+above listed as "not yet encountered". Reading it changed four things.
+
+**f. `[User Query]` is an inline provenance marker, and it is the highest-value
+field found so far.** The document marks 26 passages with it, and every one is a
+premise the brief supplied rather than a finding the research produced. **24 of
+the 409 landed documents use the marker**, so it is a corpus convention.
+
+This makes a distinction decidable that looked like judgement: for each reading,
+*did the project assert this, or did the research conclude it?* A term page that
+recorded a `[User Query]` passage as a finding would be citing the project as
+evidence for its own premise. It is mechanical to extract and it changes what a
+reading means — the best combination available.
+
+**g. The corpus answers its own questions across documents.** Three of the
+questions `entropie-aegis.md` posed on 2025-04-17 are answered here on
+2025-04-19, and one — the alters' „Entropie-Signatur" — is not. So `MISSING` is
+not a property of a term; it is a property of a term *at a date*, and it can be
+closed by a later document. A note should record which earlier open question a
+result closes, because nothing else in the corpus links them.
+
+The brief this document answers, though, is **not in the three read**: it cites
+thirteen questions and `entropie-aegis.md` asks a different set. A result whose
+brief is missing cannot be checked for completeness, so `answers:` went into the
+frontmatter with the value `unknown-brief`.
+
+**h. Absence of a definition is itself a reading.** This document never expands
+AEGIS — not once in 330 lines — after two documents expanded it three ways. That
+is not missing data. A document that uses a contested acronym as a bare proper
+name while taking a side in substance is making a choice, and the term page
+should show it beside the three expansions rather than omit it.
+
+**i. Finding (e) was too fast, and this document falsifies it.** "`theorie-physik`
+is upstream of the story" was drawn from two documents. This one is
+`theorie-physik`, is about Kael and Julia by name, and uses Überwelt and
+Kern-Welten throughout. **Category does not predict whether a document touches
+the novel; the document does.** Two samples were not enough to generalise from —
+which is P18 landing on our own note-taking rather than on a model benchmark.
+
+Finding (c) needed the same correction, more narrowly: this document says *Kael*
+and *Julia*, mixing the new name with the old. The names did not change as a
+set, so "old naming" is not a state a document can be in — each name carries its
+own date.
+
+**What did not change:** the note format needed no new field for the third
+document, across a third genre. `kind` absorbed it, which is the strongest
+evidence so far that `kind` was the right field to add.
+
 ## What we will watch for
 
 - How many terms a typical document yields, and the spread.
@@ -52,9 +173,10 @@ A note harvests. It does not decide, merge or interpret.
   distinction collapses in practice.
 - Whether German terms with English surroundings (or the reverse) confuse the
   extraction. The corpus is German; some source documents are English.
-- Whether the note format survives three documents from three categories without
-  needing a field added. If it needs one on the first document, the format was
-  guessed too early.
+- ~~Whether the note format survives three documents from three categories
+  without needing a field added.~~ **Survived three documents from three
+  *genres*, same category.** Still untested across categories — an `audit` and a
+  `charaktere` document are the next real test.
 - Token cost and wall clock per document, for the 654-document projection.
 
 ## Open questions

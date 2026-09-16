@@ -209,7 +209,9 @@ rather than a re-derivation.
 | **The five "by design, not a contradiction" cases** | schema value — a list a tool reads | Without it, any conflict detector reports known-good classes forever (P14). Highest single value on this list. |
 | **`MISSING` computation** | tool | Terms in notes without pages, pages without readings, sources nothing cites. The one check the old system could not express (P10). |
 | **Manifest-against-disk comparison** | tool | Ten lines. It is the check whose absence defined the project's state (P8). |
-| **Citation resolution** | tool | File exists, lines exist, quoted text is inside them (P12). |
+| **Citation resolution** | tool | File exists, lines exist, quoted text is inside them (P12). **Normalise typographic quotes, apostrophes and dashes to ASCII and strip punctuation enclosing the fragment before comparing — measured: 40 of 46 reported errors were the checker's fault, not the writer's.** After that it must stay strict: character for character, empty fragments rejected, `Nichts-Rauschens` still fails against `Nichts-Rauschen`. |
+| **A conflict record, keyed by subject and append-only** | tool + schema | One disagreement, one home, pointed at from every term page it touches. Measured: 2 of 7 conflicts in one live run were the same argument reached from two different concepts. Decision 003. |
+| **A gather step proposes; it never resolves** | rule, then metric | A source that claims authority over other sources must not be granted it. Measured: one pipeline believed such a claim and silently dropped the concept out of its own contested count. Contested follows from a disagreement existing, never from its resolution. |
 
 ### Method, when the work reaches it
 
