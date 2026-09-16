@@ -96,6 +96,41 @@ primary output of the gather step.
 wrong.** Prediction: it stops being readable somewhere past six readings. The
 structure that held was *one section per reading*, not one section per aspect.
 
+## What the retired system already measured
+
+Not our evidence — two live runs of the pipeline that was thrown out, read back
+from `Legacy/Plan/wiki/` on 2026-09-16. Recorded here because it is the only
+measurement of this step at scale that exists, and re-deriving it costs money.
+
+| | pilot (3 docs) | probe (4 docs, cheap merge model) |
+|---|---|---|
+| claims | 141 | 150 |
+| concepts | 46 | 41 |
+| unassigned claims | 0 | 0 |
+| cost | **$8.38** — $2.79/doc, 18 min/doc | — |
+| conflicts found | 2 (one concept) | 8 (seven concepts) |
+
+**Prediction 1 gets a first answer from someone else's data:** 141 claims
+clustered into 46 concepts, and the concepts read like the project's own
+vocabulary. Not the flat distribution that would have made the term the wrong
+unit.
+
+**Prediction 2 gets its first real test, and loses again.** Eight disagreements
+across seven concepts in the probe, every one of them genuine enough to survive
+an audit. Combined with our two-from-one-page, the "apparent conflicts vastly
+outnumber real ones" prediction now has no supporting evidence at all and two
+runs against it. It stays recorded rather than deleted, because the corpus is
+still mostly unread.
+
+**Two of the seven were the same argument from different concepts.** This is
+the evidence behind decision 003.
+
+**The dominant defect is quoting.** 16–19 of 141 claims put a term in quotation
+marks that does not appear in the lines cited — typically a German paraphrase of
+an English source with a German term in quotes. P12 already forbids it; this is
+the rate at which it happens anyway, and it is the thing the gather step must be
+scored on before anything else.
+
 ## What we will watch for
 
 - The real distribution of readings per term.

@@ -134,8 +134,15 @@ everything that happened. There is no board, no status field and no backlog.
 ## `Legacy/`
 
 The novel, the graph, the codex, the old planning record and the retired
-commands are parked there. Nothing links to it, no script reads it, and it is
-not part of any workflow. `README.md` says in one sentence what it holds.
+commands are parked there. No script reads it, nothing in `Wiki/` or `Sources/`
+mentions it, and it is not part of any workflow. `README.md` says in one
+sentence what it holds.
 
 It is a shelf, not a layer. If it starts being referenced, it has become a layer
 again — and that is the thing being removed.
+
+**One exception, and it is deliberate:** `Plan/` cites it where a measurement
+came from there — the two live pilot runs of the retired pipeline are the only
+data on what this work costs at scale, and evidence without its provenance is
+just a number someone asserted. Citing where a fact came from is not the same as
+depending on the file. Nothing is read from `Legacy/` at run time.
