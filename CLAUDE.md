@@ -33,9 +33,13 @@ Anything derived traces back to a `drive_id`.
 
 ## State, as of 2026-09-16
 
-**27 of 680 source documents are landed.** The rest have never been exported.
+**409 of 680 source documents are landed.** The 271 that are not are the 247
+`plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
+have no route. Every category the wiki needs is complete.
+
 `Wiki/` does not exist yet — the first term pages are written by hand, and the
-schema follows them rather than preceding them.
+schema follows them rather than preceding them. **2 of the 409 landed documents
+have been read**, and their notes are in `Sources/notes/`.
 
 Check it yourself rather than trusting this paragraph:
 
@@ -87,8 +91,9 @@ which parses the spill, normalizes, writes `Sources/drive/<slug>.md`, records
 both checksums into the manifest and verifies. Never open the spill yourself.
 
 44 of the 680 rows are markdown or audio, which the connector does not list as
-supported. They need a decision, and none has been tried —
-`Plan/learnings/fetch.md` has the format census.
+supported — though 4 of the 43 `md` rows landed anyway, so the list is not the
+whole truth. The remaining 39 and the one `mp3` stay deferred by decision.
+`Plan/learnings/fetch.md` has the format census and the heading measurement.
 
 ## Installing anything
 

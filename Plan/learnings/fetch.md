@@ -163,6 +163,10 @@ This is the most consequential open question in this file. It is recorded and
 not acted on, because promoting bold to headings is a guess about the author's
 intent and the fix is cheap to apply later against stored `sha256_raw`.
 
+> **Superseded by 7b and then by 7c.** The premise — "a document with one real
+> heading" — was true of the one document measured and false of the corpus.
+> Left standing because how it went wrong is the useful part.
+
 ### 7b. Converting the original instead of Drive's text export fixes it — *measured*
 
 Learning 7 said section-level retrieval is impossible on a corpus with one
@@ -193,6 +197,33 @@ The flat-heading problem therefore stands only for the 590 Google Docs, where
 there is no original to go back to — the document *is* the Google Doc. That is a
 much smaller problem than learning 7 first suggested, and it is now a property of
 one format rather than of the whole corpus.
+
+### 7c. The Google Doc problem does not exist either — *measured, 360 documents*
+
+Learnings 7 and 7b both rested on one document. Counted across everything landed:
+
+| format | landed | median ATX headings | with ≥5 | with none |
+|---|---:|---:|---:|---:|
+| `gdoc` | 360 | **17** | 270 | 18 |
+| `docx` | 45 | **17** | — | — |
+
+**Identical medians.** Google Docs carry real headings through the text export
+just as well as markitdown carries them out of `.docx`. Section-level retrieval
+works on the whole corpus.
+
+`argus-chronist-der-wandlung` — the single document learning 6 measured — has 1
+heading and 26 bold lines. It is the outlier, and it happened to be the first one
+fetched. **18 of 360 gdocs have no headings at all**, which is a listable set of
+documents rather than a property of a format.
+
+Learning 7b is still correct about tables and about what markitdown preserves;
+only its heading claim was wrong, and only because it inherited learning 7's
+sample of one. Three learnings in a row were built on that one document before
+anything counted the rest — which is exactly what P18 says and is much easier to
+see in someone else's benchmark than in your own notes.
+
+**What the tool should do:** `check` could report the documents with no headings,
+since that is now a short list and the thing that actually varies.
 
 **Install discipline, learned the hard way:** `pip install
 --break-system-packages markitdown` broke `cryptography` for the entire
