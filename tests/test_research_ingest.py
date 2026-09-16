@@ -21,7 +21,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 import wiki_lint  # noqa: E402
 
-from tools.kpwiki import candidates, programs, wiki_pages, wiki_schema  # noqa: E402
+from tools.kpwiki import candidates, programs, wiki_lint_rules, wiki_pages, wiki_schema  # noqa: E402
 from tools.kpwiki import compile_fixture as fx  # noqa: E402
 from tools.kpwiki import research_ingest_cli as cli  # noqa: E402
 from tools.kpwiki.wiki_lint_rules import build_context  # noqa: E402
@@ -506,3 +506,45 @@ def test_the_ledger_store_round_trips_through_disk(repo: Path):
     store, _, _ = cli.record_contradictions({}, fx.handmade_compiled(), INGESTED, {})
     cli.save_ledger(repo, store)
     assert cli.load_ledger(repo) == store
+
+
+# --- what the first live probe exposed -------------------------------------------------
+
+
+def test_a_verbatim_quote_survives_a_typographic_quotation_mark():
+    """The export writes „…“ and the model writes "…"; the quote is the same.
+
+    This was the largest defect class in the 2026-09-16 probe: 40 of its 46
+    citation failures were the lint refusing a quote over its glyphs.
+    """
+    cited = ['Er nennt es (dem „Nichts-Rauschen“) und meint es so.']
+    assert wiki_lint_rules.quote_is_cited('(dem „Nichts-Rauschen") und meint es so.', cited)
+    assert wiki_lint_rules.quote_is_cited('(dem "Nichts-Rauschen") und meint es so.', cited)
+    # A curly apostrophe is the same character as a straight one.
+    assert wiki_lint_rules.quote_is_cited("Kael’s Kernwelt", ["about Kael's Kernwelt here"])
+    # Enclosing marks are stripped before comparison, so the term matches
+    # however it was quoted — what must still match is the wording itself.
+    assert wiki_lint_rules.quote_is_cited("'Nichts-Rauschen'", cited)
+    assert not wiki_lint_rules.quote_is_cited("Nichts-Rauschens", cited)
+
+
+def test_a_quote_may_carry_the_sentence_s_own_punctuation():
+    """A page writing "Moonshine-Link," quotes a source reading "Moonshine-Link"."""
+    cited = ['her connection via the "Moonshine-Link" is positioned as a catalyst']
+    assert wiki_lint_rules.quote_is_cited("Moonshine-Link,", cited)
+    assert wiki_lint_rules.quote_is_cited("Moonshine-Link", cited)
+
+
+def test_relaxing_the_quote_check_still_rejects_a_fabrication():
+    """The point of the rule survives: invented wording never passes."""
+    cited = ['her connection via the "Moonshine-Link" is positioned as a catalyst']
+    assert not wiki_lint_rules.quote_is_cited("Moonshine-Bridge", cited)
+    assert not wiki_lint_rules.quote_is_cited("positioned as a saviour", cited)
+    assert not wiki_lint_rules.quote_is_cited("", cited)
+
+
+def test_a_concept_whose_slug_is_a_codex_entry_links_to_it():
+    """kiko, lex and nyx shared a codex slug and carried no codex_ref."""
+    assert candidates.codex_ref("", frozenset({"kiko"}), "kiko") == "codex:kiko"
+    assert candidates.codex_ref("juna", frozenset({"juna", "kiko"}), "kiko") == "codex:juna"
+    assert candidates.codex_ref("", frozenset({"kiko"}), "unknown-slug") == ""

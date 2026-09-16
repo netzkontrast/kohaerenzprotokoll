@@ -312,6 +312,38 @@ def normalise_ws(text: str) -> str:
     return " ".join(text.split())
 
 
+# A quote is verbatim whether the exporter wrote „…“ and the model wrote "…",
+# so the glyphs are unified before comparison. This does not weaken the check:
+# the body of the fragment must still match the cited lines character for
+# character, and no fabricated wording can survive the mapping.
+TYPOGRAPHIC = {ord(c): '"' for c in "\u201e\u201c\u201d\u00ab\u00bb\u2033"}
+TYPOGRAPHIC.update({ord(c): "'" for c in "\u2018\u2019\u201a\u2032"})
+TYPOGRAPHIC.update({ord(c): "-" for c in "\u2013\u2014\u2212"})
+
+# Punctuation a quotation carries from the sentence around it rather than from
+# the source — "Moonshine-Link," quotes a source that reads "Moonshine-Link".
+FRAGMENT_EDGES = " \t,.;:!?\"'-"
+
+
+def comparable(text: str) -> str:
+    """Whitespace- and punctuation-normalised text, for quote matching."""
+    return normalise_ws(text).translate(TYPOGRAPHIC)
+
+
+def quote_is_cited(fragment: str, texts: list[str]) -> bool:
+    """Whether a quoted fragment appears in any of the cited passages.
+
+    Both sides are normalised here rather than by the caller: an empty or
+    punctuation-only fragment is a substring of everything, so letting one
+    through would silently pass every quote on the line.
+    """
+    candidate = comparable(fragment).strip(FRAGMENT_EDGES)
+    if not candidate:
+        return False
+    passages = [comparable(text) for text in texts]
+    return any(candidate in passage for passage in passages)
+
+
 def code_free_lines(body: str) -> list[str]:
     """Body lines with code removed and the line count preserved."""
     blanked = wiki_pages.FENCED_CODE_RE.sub(lambda m: "\n" * m.group(0).count("\n"), body)
@@ -697,7 +729,7 @@ def rule_citation_resolves(ctx: LintContext) -> list[Finding]:
                 else:
                     texts.append(text)
             for fragment in wiki_pages.quoted_fragments(line):
-                if texts and not any(normalise_ws(fragment) in t for t in texts):
+                if texts and not quote_is_cited(fragment, texts):
                     out.append(Finding("citation-resolves", "error", path, lineno,
                                        f"quoted fragment „{fragment}“ is not inside the cited lines"))
     return out

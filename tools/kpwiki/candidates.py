@@ -145,15 +145,22 @@ def source_body(extraction: Extraction, concept_slugs: list[str], ingested: str)
 # --- concept candidate -------------------------------------------------------------
 
 
-def codex_ref(value: str, known: frozenset[str]) -> str:
-    """``codex:<slug>`` when the glossary has that entry, else nothing.
+def codex_ref(value: str, known: frozenset[str], page_slug: str = "") -> str:
+    """``codex:<slug>`` when the codex has that entry, else nothing.
 
     A model that answers with the bare slug means the right thing, so the
-    prefix is added; a slug the glossary does not carry is a guess, and
+    prefix is added; a slug the codex does not carry is a guess, and
     ``codex:`` targets are terminal and never auto-created (``xref.yaml``).
+
+    When the model gives nothing but the page's own slug names a codex entry,
+    the two are the same subject by identity and the link is filled in. That is
+    a lookup, not a judgement: the wiki's research understanding of a subject
+    and the novel's codex entry for it are different layers meant to be joined.
     """
     slug = value.strip().removeprefix(CODEX_PREFIX)
-    return f"{CODEX_PREFIX}{slug}" if slug and slug in known else ""
+    if slug and slug in known:
+        return f"{CODEX_PREFIX}{slug}"
+    return f"{CODEX_PREFIX}{page_slug}" if page_slug and page_slug in known else ""
 
 
 def concept_front(draft: ConceptDraft, ingested: str, codex_slugs: frozenset[str] = frozenset()) -> dict[str, Any]:
@@ -181,7 +188,7 @@ def concept_front(draft: ConceptDraft, ingested: str, codex_slugs: frozenset[str
         "chapter_end": 40,
         "spoiler_until": 40,
     }
-    reference = codex_ref(draft.codex_ref, codex_slugs)
+    reference = codex_ref(draft.codex_ref, codex_slugs, draft.slug)
     if reference:
         front["codex_ref"] = reference
     return front
