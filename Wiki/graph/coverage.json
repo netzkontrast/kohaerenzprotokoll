@@ -24,10 +24,11 @@
     "ingested": 0,
     "manifest": {
       "by_tier": {
+        "T0-duplicate": 2,
         "T2-theory": 172,
-        "T3-work": 508
+        "T3-work": 506
       },
-      "exported": 1,
+      "exported": 26,
       "total": 680
     }
   }
