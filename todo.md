@@ -198,6 +198,24 @@ waren. Die stehen hier, damit die nächste Session die Workflows dieses Repos
 aus einem vollständigen Bild neu schneiden kann. Wiederherstellbar sind alle
 Originale mit `git show 692ec19^:.claude/skills/<name>/SKILL.md`.
 
+### Wie diese Liste unter Rule 1 zu lesen ist
+
+CLAUDE.md § „Rule 1 — if it can be programmatic, it is" entscheidet, in welcher
+Form ein Konzept zurückkommt. Für jeden Punkt unten ist zuerst zu klären, in
+welche Spalte er gehört — das ist die eigentliche Arbeit der nächsten Session,
+nicht das Schreiben von Skill-Text:
+
+| Form | Kriterium | Beispiele aus dieser Liste |
+|---|---|---|
+| **Werkzeug** | entscheidbar, wiederholbar, testbar | Punkt 2 (Ausschlussliste als Filter), 3 (Seitengröße/Entity-Split), 10 und 11 (Checklisten und Gate-Tiers), 13 (`WRITING.md` wird gelesen oder als generiert markiert) |
+| **Schema-Wert** | Schwelle oder Vokabular, das ein Werkzeug liest | Punkt 1 (Autoritätsordnung als Datei statt Prosa), 2 (die fünf Ausschlussfälle als Liste) |
+| **Skill/Command** | wann greife ich zum Werkzeug, wie lese ich die Ausgabe | Punkt 5, 6, 7, 12 — sie führen Urteilsarbeit, kein Regelwerk |
+| **Referenzdatei** | die Ideen: warum es die Regel gibt, was sie bewusst nicht sieht | die Begründungen zu 5, 6, 8 |
+
+Nicht automatisierbar und auch nicht zu fingieren: ob ein Widerspruch zählt, ob
+eine Ableitung trägt, ob Prosa sitzt, welche Quelle recht hat. Ein Werkzeug darf
+das vorlegen und nie entscheiden.
+
 ### A — Sofort verwertbar, weil sie eine bekannte Lücke schließen
 
 1. **Autoritätsordnung bei Widersprüchen** (`cross-checking`). Die Skill

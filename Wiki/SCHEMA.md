@@ -99,7 +99,9 @@ from leaking late-book knowledge into early-chapter work.
 
 ## Page kinds and lifecycle
 
-Four kinds: `source`, `concept`, `question`, `synthesis`. Required fields,
+Five kinds: `source`, `concept`, `contradiction`, `question`, `synthesis`.
+`entities.yaml → kinds` is the authority and this sentence is a convenience;
+`tests/test_wiki_schema.py` fails when the two disagree. Required fields,
 enums and body sections per kind are in `entities.yaml → kinds`; the
 templates carry the sections in the exact order the lint expects
 (`sparse-page` checks the level-2 headings by name).

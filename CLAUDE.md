@@ -23,6 +23,42 @@ Two decisions that are never a session's to make:
 - **Promotion and canon.** Research becomes a wiki page, and a wiki page
   becomes canon, only when the author says so.
 
+## Rule 1 — if it can be programmatic, it is
+
+**Anything decidable by a program is written as a program.** A rule that lives
+only in prose is a rule nobody can run, nobody can test, and everybody
+paraphrases slightly differently the next time they write it down.
+
+That makes the division of labour sharp:
+
+| lives in | what belongs there |
+|---|---|
+| the tool (`scripts/`, `tools/`) | every decidable rule, as the one executable encoding |
+| a schema (`Wiki/schema/*.yaml`, `Graph/schema.yaml`) | the values and thresholds the tool reads, so changing a rule is a data change |
+| the skill or command | when to reach for the tool, how to read its output, and what judgement is left over |
+| a reference file beside the tool | the ideas — why the rule exists, what it rejects, what it deliberately cannot see |
+
+A skill that restates what a tool enforces has created a second encoding, and
+two encodings of one rule drift apart on the first edit. So a skill says *run
+this, here is what its output means*; it does not re-list the rules. This is
+why `lint_chapter.py` is the single encoding of the R-rules, why the wiki's
+Python enums are derived from `Wiki/schema/*.yaml` at import time rather than
+typed out again, and why `Codex/` is rendered from `Graph/` instead of
+maintained.
+
+**The test:** if a rule can be broken without a check failing, it is prose, not
+a rule. Either give it a check or mark it as judgement — those are the only two
+honest options.
+
+**What stays judgement**, and is not worth faking into a script: whether a
+contradiction matters, whether a derivation is sound, whether prose lands,
+which of two sources is right, and every Rule 0 decision. A tool can surface
+these and must never settle them.
+
+**When a rule cannot be automated yet**, say so where it is stated, so the gap
+is visible rather than implied. `Graph/schema.yaml` records the per-entry
+spoiler ceiling that way: `status: not-implemented`, with what it depends on.
+
 ## Session startup
 
 Read the root `todo.md` at the beginning of every session, before planning or
@@ -213,8 +249,8 @@ Multiplizitäts-Schleier holds until Kap 13.
 ## Wiki compass (read before `Wiki/**` work)
 
 The concise cross-agent rules live in `AGENTS.md`; the full contract lives in
-`Wiki/SCHEMA.md` and `Wiki/schema/*.yaml`. The four page entities are `source`,
-`concept`, `question`, and `synthesis`. Store one semantic entity per page at
+`Wiki/SCHEMA.md` and `Wiki/schema/*.yaml`. The five page entities are `source`,
+`concept`, `contradiction`, `question`, and `synthesis`. Store one semantic entity per page at
 `sources/<category>/`, `concepts/<kind_detail>/`, `questions/<axis>/`, or
 `syntheses/<YYYY>/`; candidates mirror that layout. Start at `Wiki/index.md`
 and descend through rendered local `README.md` indexes. Page budgets are
