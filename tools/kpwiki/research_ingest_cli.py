@@ -38,10 +38,9 @@ from .schema import Compiled, PageState
 
 ROOT = Path(__file__).resolve().parents[2]
 MANIFEST_REL = "Sources/manifest.jsonl"
-GLOSSARY_REL = "Codex/GLOSSARY.md"
+GLOSSARY_DIR_REL = "Codex/glossary"
 EDGES_REL = "Wiki/graph/edges.jsonl"
 LOG_REL = "Wiki/log.md"
-CODEX_SLUG_RE = "`([a-z0-9-]+)`"
 MAX_GLOSSARY_TERMS = 400
 
 
@@ -123,12 +122,11 @@ def existing_pages(root: Path) -> dict[str, PageState]:
 
 def glossary_terms(root: Path) -> list[str]:
     """Codex slugs the extraction and the clustering step should recognise."""
-    import re
-
-    path = root / GLOSSARY_REL
-    if not path.is_file():
+    path = root / GLOSSARY_DIR_REL
+    if not path.is_dir():
         return []
-    slugs = dict.fromkeys(re.findall(CODEX_SLUG_RE, path.read_text(encoding="utf-8")))
+    slugs = dict.fromkeys(page.stem for page in sorted(path.glob("*/*.md"))
+                          if page.name != "README.md")
     return list(slugs)[:MAX_GLOSSARY_TERMS]
 
 

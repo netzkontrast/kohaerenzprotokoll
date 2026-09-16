@@ -2,8 +2,10 @@
 
 ## Codex- und Wiki-Architektur für kontext-effiziente Romanarbeit
 
-**Priorität:** hoch  
-**Status:** geplant  
+**Priorität:** hoch
+
+**Status:** in Arbeit — Strukturmigration umgesetzt; Graph-Spoilermetadaten offen
+
 **Arbeitsmodus:** eigener Codex-Migrations-PR; nicht mit normaler Wiki-Pflege
 vermischen
 
@@ -17,22 +19,22 @@ ziehen.
 
 ### Reihenfolge für die nächste Session
 
-- [ ] Vollständige Codex-Inventur erstellen: Dateien, Größen, Generatoren,
+- [x] Vollständige Codex-Inventur erstellen: Dateien, Größen, Generatoren,
   Graph-Entitäten, manuelle Inhalte und alle Verbraucher/Verweise.
-- [ ] Autoritätsmatrix beschließen: Welche Schicht ist für welche Information
+- [x] Autoritätsmatrix dokumentieren: Welche Schicht ist für welche Information
   die einzige Quelle der Wahrheit?
-- [ ] Überschneidungen und Drift zwischen Canon, Codex, Wiki, NCP und
+- [x] Überschneidungen und Drift zwischen Canon, Codex, Wiki, NCP und
   Manuskript erfassen.
-- [ ] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
+- [x] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
   angelegt werden.
-- [ ] Wissensdimensionen sauber trennen: objektive Wahrheit, Figurenwissen,
+- [ ] Graph-Semantik für Wissensdimensionen beschließen: objektive Wahrheit, Figurenwissen,
   Leserwissen, erzählerische Enthüllung und zeitliche Gültigkeit.
-- [ ] Zielstruktur ausschließlich aus stabilen Entitäts- und Graphfeldern
+- [x] Zielstruktur ausschließlich aus stabilen Entitäts- und Graphfeldern
   ableiten; keine frei erfundenen Themenordner.
-- [ ] Link- und Promotionvertrag zwischen Wiki, Codex und Canon definieren.
-- [ ] Für ein reales Kapitel ein minimales Kontextpaket prototypisch erzeugen.
-- [ ] Bestehende Skills, Commands und Skripte gegen das neue Modell prüfen.
-- [ ] Separaten `codex-maintenance`-Skill und einen sicheren, schrittweisen
+- [x] Link- und Autoritätsvertrag zwischen Wiki, Codex und Canon definieren.
+- [x] Für Kapitel 3 einen konservativen Kontext-Gate prototypisch erzeugen.
+- [x] Bestehende Skills, Commands und Skripte gegen das neue Modell prüfen.
+- [x] Separaten `codex-maintenance`-Skill und einen sicheren, schrittweisen
   Migrationsplan entwerfen.
 
 ### Zu klärende Architekturfragen

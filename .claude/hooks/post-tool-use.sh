@@ -4,7 +4,7 @@
 #
 #   chapters/NN-*.md  → scripts/lint_chapter.py --hook (R-rules, Act-I fences,
 #                       frontmatter/status enum, voice labels, heat polarity)
-#   Codex/*.md        → generated views: warn, point at the render script
+#   Codex/**/*.md     → generated views: warn, point at the render script
 #   Canon/*.md        → normative imports: warn, remind of decision-log discipline
 #   ncp*.json         → storyform state: warn, remind of ncp-author + coherence check
 #   other *.md under Manuscript/ → frontmatter presence
@@ -55,7 +55,7 @@ case "$filepath" in
             echo ""
         fi
         ;;
-    */Codex/GLOSSARY.md|*/Codex/MASTER-TIMELINE.md|*/Codex/WORLD-AXIOMS.md|Codex/*.md)
+    */Codex/*.md|*/Codex/*/*.md|*/Codex/*/*/*.md|Codex/*.md|Codex/*/*.md|Codex/*/*/*.md)
         echo ""
         echo "⚠  GENERATED VIEW EDITED: $filepath"
         echo "  Codex/ is rendered from .agency/session.db. Hand edits are overwritten."

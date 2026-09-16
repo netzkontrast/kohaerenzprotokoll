@@ -22,7 +22,7 @@ becomes a question, never an assumption.
 - `source_excerpt` — the cited lines from `Sources/drive/<slug>.md`
   (`^[file:L-L]`); widen to the paragraph when the claim spans lines
 - `entities` — the claim's entity list from the source page
-- `glossary_terms` — codex slugs from `Codex/GLOSSARY.md` (or
+- `glossary_terms` — codex slugs from `Codex/glossary/<kind>/<slug>.md` (or
   `match_codex_entries(novel_id, claim_text)` when the engine is up)
 - `canon_context` — matching Canon passages via `scripts/wiki_fts.py search`
   (binding and conflict awareness only; the gate never rewrites from canon)

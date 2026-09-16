@@ -27,8 +27,8 @@ For EVERY file created or modified:
 3. **Content** — no TODO / TBD / "wird später ergänzt"; gaps are `[L]` with an
    owner, not silence; no empty sections
 4. **Cross-References** — links resolve; every new term has a codex entry
-   (`Codex/GLOSSARY.md`) with triggers; dated facts are StoryTimeEvents
-5. **Canon Consistency** — obeys `Codex/WORLD-AXIOMS.md`, locks (Canon welt-sensorik
+   (`Codex/glossary/<kind>/<slug>.md`) with triggers; dated facts are StoryTimeEvents
+5. **Canon Consistency** — obeys relevant `Codex/worlds/<world>.md`, locks (Canon welt-sensorik
    §12), knowledge fences (`what_does_X_know_as_of`); nothing dekanonisiert revived
 6. **Writing Standards** — `WRITING.md` tokens: German prose, act-specific forbidden
    terms, R-1…R-10, Sprach-DNA hard rules, word count within plan ±15 %

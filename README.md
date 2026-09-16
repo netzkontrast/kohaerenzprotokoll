@@ -62,7 +62,7 @@ Findings sind Vorschläge, keine Urteile — die Triage-Regeln stehen in der
 
 Die Repo trägt die aus [alainator/worldcodex](https://github.com/alainator/worldcodex) übernommene und auf dieses Projekt angepasste Claude-Code-Suite (19 Skills, 5 Befehle, 3 Agenten, 6 Hooks). Details und Zuordnung: [docs/worldcodex-integration.md](docs/worldcodex-integration.md).
 
-- [Codex/](Codex/) — **generierte** Ansichten des Provenienz-Graphen: Glossar (602 Einträge), Master-Timeline, Welt-Axiome. Nicht von Hand bearbeiten; `python3 scripts/render_codex_views.py` rendert neu.
+- [Codex/](Codex/) — **generierte**, kleine Ansichten des Provenienz-Graphen: ein Glossareintrag pro Seite, Timeline nach Phase, Axiome nach Welt. Suche mit `scripts/wiki_fts.py ... --scope codex`; nicht von Hand bearbeiten.
 - [WRITING.md](WRITING.md) — maschinenlesbare Stil-Tokens (Sperrlisten pro Akt, R-Regeln, Sprach-DNA-Regeln, gelockte Schreibweisen), abgeleitet aus Drafting-Brief und Canon.
 - Befehle `/ingest`, `/query`, `/lint-wiki`, `/full-audit-canon`, `/civilization-build` (Kernwelt-Ableitungskette) und die Agenten `@worldbuilder-editor`, `@worldbuilder-physicist`, `@worldbuilder-researcher`.
 

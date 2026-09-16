@@ -17,8 +17,9 @@ Assemble all information about a named entity from across the entire repo.
 
 ## Process
 
-1. Search `Codex/GLOSSARY.md` (slug, triggers) and the graph body, then grep
-   Canon/, Plan/ and chapter prose; carry `[K]/[V]/[L]` markers per fact
+1. Search `python3 scripts/wiki_fts.py search "<entity>" --scope codex --limit
+   5`, open the matching detail page and query the graph body when needed; then
+   grep Canon/, Plan/ and chapter prose; carry `[K]/[V]/[L]` markers per fact
 2. Read FULL content of every file mentioning the entity
 3. Compile into structured profile with sources cited
 4. Flag contradictions between sources

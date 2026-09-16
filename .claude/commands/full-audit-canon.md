@@ -32,7 +32,7 @@ git log --since="30 days ago" --name-only --pretty=format: | grep "\.md$" | sort
 
 ## Step 2: Load Audit References
 
-- **physics:** `Canon/…begriffe-und-konzepte…` §1–§2 and §14, `Codex/WORLD-AXIOMS.md`,
+- **physics:** `Canon/…begriffe-und-konzepte…` §1–§2 and §14, `Codex/worlds/*.md`,
   `auditing-physics/references/`
 - **canon:** `WRITING.md`, `Plan/drafting/drafting-brief.md` §2–§4,
   `Canon/…welt-sensorik…` §10 + §12, `auditing-canon/references/`

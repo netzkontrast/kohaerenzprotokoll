@@ -30,10 +30,12 @@ and REPORT information with exact file + section citations, never to modify file
 
 ## Where things live
 
-- Terms, concepts, rules, motifs, voices: `Codex/GLOSSARY.md` (602 entries,
-  generated from the graph; slug + triggers + first paragraph), full bodies via
-  read-only SQL on `.agency/session.db` (`node_props_text` joined to `property_keys`)
-- Story-time facts: `Codex/MASTER-TIMELINE.md`; world rules: `Codex/WORLD-AXIOMS.md`
+- Terms, concepts, rules, motifs, voices: search with `python3 scripts/wiki_fts.py
+  search "<terms>" --scope codex --limit 5`, then read only returned
+  `Codex/glossary/<kind>/<slug>.md` pages; graph bodies remain available through
+  read-only SQL on `.agency/session.db`
+- Story-time facts: matching `Codex/timeline/<phase>.md`; world rules: matching
+  `Codex/worlds/<world>.md`
 - Normative structure: `Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`
 - Characters / Anteile / Sprach-DNA: `Canon/…anteile-profile-sprach-dna…`
 - Worlds / sensorics / locks: `Canon/…kernwelten-vollstaendig…`, `Canon/…welt-sensorik-drafting…`

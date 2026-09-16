@@ -43,8 +43,9 @@ Canon prose is German and stays German; your reports are English.
 3. Read `Plan/drafting/drafting-brief.md` §2–§4 (voice, hard rules, file format)
 4. Search existing prose for the term or beat (grep) — no new lore to patch continuity
    when an existing source already resolves it
-5. Run `python3 scripts/lint_chapter.py <file>` and read `Codex/GLOSSARY.md` for
-   the codex entries the scene touches
+5. Run `python3 scripts/lint_chapter.py <file>`, search the scene terms with
+   `python3 scripts/codex_context.py "<terms>" --chapter N`, and read only the
+   spoiler-safe Codex detail pages it returns
 
 ## Review Lens (in this order)
 

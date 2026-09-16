@@ -28,7 +28,7 @@ Wiki/
   schema/              the contract (five YAML files)
   templates/           one .md.tmpl per page kind; {{token}} fields are filled by the writing program
   index.md             RENDERED compact global hub — never edit
-  GLOSSARY.md          short operational vocabulary (domain glossary is Codex/GLOSSARY.md)
+  GLOSSARY.md          short operational vocabulary (domain entries are Codex/glossary/**)
   concept-table.md     RENDERED compressed map — never edit
   context-map.md       RENDERED spoiler-aware retrieval router — never edit
   overview.md          what we currently understand the novel to be (versioned synthesis)

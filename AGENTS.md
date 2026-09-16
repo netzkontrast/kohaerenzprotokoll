@@ -33,3 +33,16 @@ is the machine-readable authority.
 
 For moves, splits, index repair, or schema evolution, use
 `.claude/skills/wiki-maintenance/SKILL.md`.
+
+## Codex compass
+
+- `Codex/` is fully generated from `.agency/session.db`; never hand-edit it.
+- Root Codex files are compact compatibility indexes. Content lives in
+  `glossary/<kind>/<slug>.md`, `timeline/<phase>.md`, and
+  `worlds/<world>.md`.
+- For chapter work use `python3 scripts/codex_context.py "<terms>" --chapter
+  N`; for explicit whole-novel work use `--whole-novel`. Open only returned
+  line ranges.
+- Missing chapter/spoiler metadata is unsafe, not globally available.
+- Use `.claude/skills/codex-maintenance/SKILL.md` for renderer changes,
+  migrations, drift repair, or Codex consumer updates.

@@ -13,7 +13,7 @@ effort: max
 ---
 
 > **Kohärenz Protokoll adaptation.** "Science files" here are the DKT sections of Canon (begriffe §1–§2, §14),
-`Codex/WORLD-AXIOMS.md` (111 axioms rendered from the graph) and any
+the relevant `Codex/worlds/<world>.md` pages (axioms rendered from the graph) and any
 `Plan/worldbuilding/dkt-*.md`; the foundational axiom is the K₀/K₁ dual
 kernel with atemporality as master key. Start with the decidable scan:
 `find_axiom_contradictions(world_id)` per World. Chapter prose is audited for
