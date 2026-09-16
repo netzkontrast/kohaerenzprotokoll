@@ -2,12 +2,17 @@
 
 ## Status
 
-**Not run yet.** Pre-registration, as with `read-source.md`. Nothing below is
-evidence.
+**One page written by hand, 2026-09-16** — `Wiki/candidates/aegis.md`, gathered
+from the three notes in `Sources/notes/`. Four readings, three sources.
+
+The predictions below were written before it existed. Results are under them.
+One page is not a sample: predictions 1, 3 and 5 are untouched because a single
+term cannot speak to a distribution, to aliasing, or to tier precedence. They
+stay open rather than being answered thinly.
 
 This is the step that carries the wiki's whole value, and also the step most
 likely to be got wrong quietly, so the predictions here are worth being explicit
-about before any page exists to argue from.
+about before more pages exist to argue from.
 
 ## What the step is
 
@@ -43,6 +48,53 @@ disagreements named and left unresolved.
    Predicted: no automatic precedence by tier survives contact with the corpus,
    and precedence stays a human call — P13 already forbids merging, which keeps
    this from mattering as much as it would otherwise.
+
+## Results from the first page
+
+**Prediction 2 — apparent conflicts outnumber real ones — is not yet supported,
+and the first evidence runs the other way.** Four readings produced *two* real
+conflicts and no false ones: three incompatible acronym expansions, and two
+incompatible senses of "emergence". Neither dissolves on rewording, and one is
+flagged as a defect by the document that contains it. n=1 term, and AEGIS was
+chosen *because* it looked contested, so this is selection, not refutation —
+but the filter the prediction called for was not needed once.
+
+**Prediction 4 — chronology matters more than expected — confirmed, and
+sharpened.** All three sources fall within two days. Date did not separate the
+readings; **kind and provenance did.** A brief's premise, a critique's verdict
+and a result's finding can be same-day and still not be the same kind of claim.
+So the field that carries the weight on a page is `kind`, with date second — the
+reverse of what the prediction assumed.
+
+### What the page needed that no prediction named
+
+**a. A reading can be the *absence* of a definition.** The third source never
+expands AEGIS in 330 lines, while taking a side in substance. Recorded as
+reading 4. A gather step that collected only text matching a definition pattern
+would have found three readings and missed the one that shows the corpus never
+resolved the conflict.
+
+**b. `premise` / `finding` has to be per reading, not per page.** Within one
+source, `[User Query]` passages are premises quoted back from the brief and the
+rest are the research's own. Reading 4's striking claims are mostly premises; its
+blind-spot argument is the finding. Marking the page's kind is not enough.
+
+**c. A conflict can sit underneath another and be missed.** The acronym conflict
+is loud. The emergence conflict — emergence *from nothing* versus emergence
+*within the simulation* — uses one word correctly in both places and decides
+whether AEGIS can be wrong about its own world. **Nothing surfaces it except
+reading both sources for what they entail**, which is the judgement this step
+rests on and the reason the first pages are written by hand.
+
+**d. `MISSING` arrived with more force than expected.** Three items on one page:
+four sub-functions used as known and defined nowhere, an escalation protocol
+named as undefined by the document depending on it, and a brief that is not in
+the corpus. This suggests `MISSING` is not a reporting afterthought but a
+primary output of the gather step.
+
+**e. The page is long — 144 lines for one term — and that is not obviously
+wrong.** Prediction: it stops being readable somewhere past six readings. The
+structure that held was *one section per reading*, not one section per aspect.
 
 ## What we will watch for
 

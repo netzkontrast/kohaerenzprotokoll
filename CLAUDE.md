@@ -37,9 +37,10 @@ Anything derived traces back to a `drive_id`.
 `plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
 have no route. Every category the wiki needs is complete.
 
-`Wiki/` does not exist yet — the first term pages are written by hand, and the
-schema follows them rather than preceding them. **2 of the 409 landed documents
-have been read**, and their notes are in `Sources/notes/`.
+**3 of the 409 landed documents have been read**, and their notes are in
+`Sources/notes/`. `Wiki/candidates/` holds **1 term page**, written by hand. The
+schema follows the pages rather than preceding them, so neither `Wiki/terms/`
+nor a page format exists yet.
 
 Check it yourself rather than trusting this paragraph:
 
