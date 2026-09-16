@@ -56,7 +56,8 @@ Cross-ref. Link resolves. #### PASS.
 9. Direktiven bold VERSALIEN, logs in code blocks with D-03 fields only
 
 ### Cross-References
-10. Plan/Canon links resolve; new terms have a codex entry (`Codex/GLOSSARY.md`)
+10. Plan/Canon links resolve; new terms have a matching
+    `Codex/glossary/<kind>/<slug>.md` entry
 11. Deviations from plan have a decision-log entry (D-xx)
 
 ## Output

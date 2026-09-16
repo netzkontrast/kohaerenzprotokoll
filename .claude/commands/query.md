@@ -16,14 +16,16 @@ permanent page so it compounds — never re-derived from scratch.
 
 ## Step 1: Search the Corpus (in hierarchy order)
 
-1. `Codex/GLOSSARY.md` for the key terms (slugs, triggers, first paragraph),
-   or `match_codex_entries(novel_id, <question text>)` for trigger-based hits
+1. `python3 scripts/wiki_fts.py search "<key terms>" --scope codex --limit 5`,
+   then open only the returned detail pages/line ranges; use
+   `match_codex_entries(novel_id, <question text>)` for trigger-based graph hits
 2. `.claude/skills/PROJECT_REFERENCES.md` for which document owns the topic
 3. `grep -r` across `Canon/`, `Plan/drafting/`, `Manuscript/**/chapters/`
-4. Read the full content of every relevant file (not just headers)
+4. Read the full content of each relevant small page, not whole Codex indexes
 5. Graph transforms where they fit: `what_does_X_know_as_of`,
    `list_story_events_up_to`, `narrative_order`, `list_world`
-6. `Codex/MASTER-TIMELINE.md` / `WORLD-AXIOMS.md` for dated facts and rules
+6. The matching `Codex/timeline/<phase>.md` and `Codex/worlds/<world>.md` pages
+   for dated facts and rules
 7. Legacy material only as evidence, never as authority
 
 ## Step 2: Synthesise the Answer

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Local BM25 candidate finder over Wiki/, Canon/ and Sources/drive/ (SQLite FTS5).
+"""Local BM25 candidate finder over Wiki/, Codex/, Canon/ and Sources/drive/ (SQLite FTS5).
 
     python3 scripts/wiki_fts.py build                         # incremental, by file sha256
-    python3 scripts/wiki_fts.py search "Kohärenz Schleier" [--limit 10] [--scope wiki|canon|sources|all] [--json]
+    python3 scripts/wiki_fts.py search "Kohärenz Schleier" [--limit 10] [--scope wiki|codex|canon|sources|all] [--json]
     python3 scripts/wiki_fts.py stats                         # files and chunks per scope, index age
     python3 scripts/wiki_fts.py doctor                        # FTS5 present, index vs disk; exit 1 on problems
     python3 scripts/wiki_fts.py --root <dir> build            # index another tree (tests)
@@ -36,6 +36,7 @@ DB_RELATIVE = Path(".cache/wiki-fts/index.sqlite")
 # scope → (directory, glob); order is the display order of stats.
 SCOPES = {
     "wiki": ("Wiki", "**/*.md"),
+    "codex": ("Codex", "**/*.md"),
     "canon": ("Canon", "*.md"),
     "sources": ("Sources/drive", "*.md"),
 }

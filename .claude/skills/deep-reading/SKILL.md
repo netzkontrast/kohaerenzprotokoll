@@ -19,8 +19,9 @@ Read a file completely and produce a structured content map.
 
 1. Read the ENTIRE file (no cutoff)
 2. Produce content map: sections, named entities, standalone content
-3. Gap analysis: compare against `Codex/GLOSSARY.md`, Canon/ and the plan documents
-   for missing entries, `[L]` gaps, and claims that contradict a lock
+3. Gap analysis: search the relevant Codex detail pages with
+   `scripts/wiki_fts.py ... --scope codex`, then compare against Canon/ and the
+   plan documents for missing entries, `[L]` gaps, and claims that contradict a lock
 
 ## Output
 

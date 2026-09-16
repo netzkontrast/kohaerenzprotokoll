@@ -9,7 +9,7 @@ StoryTimeEvent, WorldAxiom and World nodes (seeded from Canon/ by
 that drifts, this script renders derived Markdown views from graph ground
 truth — the same relationship `materialize_manuscript.py` has to chapters.
 
-    python3 scripts/render_codex_views.py            # write Codex/*.md
+    python3 scripts/render_codex_views.py            # write Codex indexes + subpages
     python3 scripts/render_codex_views.py --check    # exit 1 if views are stale
     python3 scripts/render_codex_views.py --stdout   # print, don't write
 
@@ -113,45 +113,79 @@ def _first_para(body: str, limit: int = 500) -> str:
     return ""
 
 
-def render_glossary(c: sqlite3.Connection) -> str:
+def _anchor(text: str) -> str:
+    folded = text.lower().translate(str.maketrans({"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss"}))
+    return re.sub(r"[^a-z0-9]+", "-", folded).strip("-")
+
+
+def glossary_groups(c: sqlite3.Connection) -> dict[str, list[dict]]:
     entries = [e for e in nodes(c, "CodexEntry")
                if e.get("novel", NOVEL) == NOVEL and not e.get("archived")]
     by_group: dict[str, list[dict]] = defaultdict(list)
     for e in entries:
-        kat = _kategorie(e.get("body", ""))
-        group = f"{e.get('kind', '?')} · {kat}" if kat else e.get("kind", "?")
-        by_group[group].append(e)
+        by_group[e.get("kind", "unknown")].append(e)
+    return by_group
 
-    lines = [HEADER, "# Glossar — Kohärenz Protokoll (generiert)\n",
-             f"{len(entries)} CodexEntries aus dem Provenienz-Graphen, gruppiert nach "
-             "`kind` (Codex-Enum) und `**Kategorie:**` (Original-Kategorie aus der "
-             "Canon-Extraktion, siehe CLAUDE.md §3 Codex-Disziplin).\n",
-             "Die vollständigen Einträge liegen im Graphen (`list_codex_entries`, "
-             "`match_codex_entries`); hier steht pro Eintrag Name, Slug, Trigger und "
-             "der erste Absatz. Normativ bleibt `Canon/` — bei Konflikt gewinnt "
-             "`kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`.\n",
-             "## Inhalt\n"]
-    for group in sorted(by_group):
-        anchor = re.sub(r"[^a-z0-9]+", "-", group.lower()).strip("-")
-        lines.append(f"- [{group}](#{anchor}) ({len(by_group[group])})")
-    lines.append("")
-    for group in sorted(by_group):
-        lines.append(f"## {group}\n")
-        for e in sorted(by_group[group], key=lambda x: x.get("name", "").lower()):
-            trig = e.get("triggers", "").strip()
-            src = _source(e.get("body", ""))
-            lines.append(f"### {e.get('name', '?')}  `{e.get('slug', '')}`\n")
-            meta = [f"id `{e.get('id', '')}`"]
-            if src:
-                meta.append(f"Quelle `{src}`")
-            if trig:
-                meta.append(f"Trigger: {trig}")
-            lines.append("_" + " · ".join(meta) + "_\n")
-            para = _first_para(e.get("body", ""))
-            if para:
-                lines.append(para + "\n")
-    return "\n".join(lines)
 
+def render_glossary(c: sqlite3.Connection) -> str:
+    by_group = glossary_groups(c)
+    total = sum(len(entries) for entries in by_group.values())
+    lines = [HEADER, "# Glossar — Kompatibilitätsindex (generiert)\n",
+             "[Codex-Übersicht](README.md) · [Glossar-Navigation](glossary/README.md)\n",
+             f"{total} CodexEntries aus dem Provenienz-Graphen. Einträge liegen als "
+             "kleine, einzeln ladbare Seiten unter `glossary/<kind>/<slug>.md`. "
+             "Dieser historische Root-Pfad bleibt als kompatibler Einstieg erhalten; "
+             "er enthält bewusst keine vollständigen Einträge.\n",
+             "Für Kontextsuche: `python3 scripts/wiki_fts.py search \"<begriffe>\" "
+             "--scope codex --limit 5`.\n", "## Arten\n"]
+    for kind in sorted(by_group):
+        lines.append(f"- [{kind}](glossary/{kind}/README.md) ({len(by_group[kind])})")
+    return "\n".join(lines) + "\n"
+
+
+def render_glossary_hub(c: sqlite3.Connection) -> str:
+    by_group = glossary_groups(c)
+    lines = [HEADER, "# Glossar\n", "[Codex](../README.md) · [Kompatibilitätsindex](../GLOSSARY.md)\n",
+             "Wähle zuerst die Art oder nutze die Heading-Suche; lade nicht alle "
+             "Eintragsseiten in den Arbeitskontext.\n"]
+    for kind in sorted(by_group):
+        lines.append(f"- [{kind}]({kind}/README.md) — {len(by_group[kind])} Einträge")
+    return "\n".join(lines) + "\n"
+
+
+def render_glossary_kind(kind: str, entries: list[dict]) -> str:
+    lines = [HEADER, f"# Glossar: {kind}\n", "[Glossar](../README.md) · [Codex](../../README.md)\n",
+             "Kompakter Namensindex. Öffne nur die benötigte Eintragsseite.\n"]
+    for e in sorted(entries, key=lambda item: item.get("name", "").lower()):
+        trigger = e.get("triggers", "").strip()
+        suffix = f" — {trigger}" if trigger else ""
+        lines.append(f"- [{e.get('name', '?')}]({e.get('slug', '')}.md) "
+                     f"`{e.get('slug', '')}`{suffix}")
+    return "\n".join(lines) + "\n"
+
+
+def render_glossary_entry(entry: dict) -> str:
+    body = entry.get("body", "")
+    category = _kategorie(body)
+    source = _source(body)
+    lines = [HEADER, f"# {entry.get('name', '?')}\n", "[Art-Index](README.md) · [Glossar](../README.md)\n",
+             f"- **Slug:** `{entry.get('slug', '')}`",
+             f"- **Graph-ID:** `{entry.get('id', '')}`",
+             f"- **Art:** `{entry.get('kind', '')}`"]
+    if category:
+        lines.append(f"- **Kategorie:** `{category}`")
+    if source:
+        lines.append(f"- **Quelle:** `{source}`")
+    if entry.get("triggers", "").strip():
+        lines.append(f"- **Trigger:** {entry['triggers'].strip()}")
+    lines.append("\n## Inhalt\n")
+    content = [p for p in _paras(body)
+               if not p.startswith("**Kategorie:**") and not p.startswith("## Quelle:")]
+    lines.extend(content or ["_Kein gerenderter Inhalt._"])
+    lines.extend(["\n## Kontextgrenze\n",
+                  "Kapitel- und Spoilersicherheit ist für diesen Graph-Eintrag noch nicht "
+                  "modelliert. Nicht ungeprüft in kapitelbegrenzten Kontext laden."])
+    return "\n\n".join(lines) + "\n"
 
 def _phase_index(when: str) -> int:
     for i, (_, pat) in enumerate(PHASES):
@@ -160,7 +194,7 @@ def _phase_index(when: str) -> int:
     return len(PHASES)
 
 
-def render_timeline(c: sqlite3.Connection) -> str:
+def timeline_sections(c: sqlite3.Connection) -> tuple[int, list[tuple[str, list[list[str]]]]]:
     events = [e for e in nodes(c, "StoryTimeEvent") if e.get("novel", NOVEL) == NOVEL]
     scenes = {s["_nid"]: s for s in nodes(c, "Scene")}
     chapters = {ch["_nid"]: ch for ch in nodes(c, "Chapter")}
@@ -187,26 +221,51 @@ def render_timeline(c: sqlite3.Connection) -> str:
     for e in events:
         buckets[_phase_index(e.get("when_story", ""))].append(e)
 
-    lines = [HEADER, "# Master-Timeline — Kohärenz Protokoll (generiert)\n",
-             f"{len(events)} StoryTimeEvents aus dem Graphen, nach Story-Zeit gebucht. "
-             "`when_story` ist Freitext; die Phasen-Zuordnung ist eine Lesehilfe, "
-             "kein Kanon. Erzählreihenfolge der Beats: `narrative_order`.\n"]
+    sections = []
     for i, (title, _) in enumerate(PHASES + [("Nicht zugeordnet", "")]):
         evs = buckets.get(i, [])
         if not evs:
             continue
-        lines.append(f"## {title}\n")
-        lines.append("| Story-Zeit | Ereignis | passiert in | enthüllt in |")
-        lines.append("|---|---|---|---|")
+        rows = []
         for e in sorted(evs, key=lambda x: (x.get("when_story", ""), x.get("label", ""))):
             h = ", ".join(scene_ref(s) for s in happens.get(e["_nid"], [])) or "—"
             r = ", ".join(scene_ref(s) for s in reveals.get(e["_nid"], [])) or "—"
-            lines.append(f"| {e.get('when_story', '')} | {e.get('label', '')} | {h} | {r} |")
-        lines.append("")
-    return "\n".join(lines)
+            rows.append([e.get("when_story", ""), e.get("label", ""), h, r])
+        sections.append((title, rows))
+    return len(events), sections
 
 
-def render_axioms(c: sqlite3.Connection) -> str:
+def render_timeline(c: sqlite3.Connection) -> str:
+    total, sections = timeline_sections(c)
+    lines = [HEADER, "# Master-Timeline — Kompatibilitätsindex (generiert)\n",
+             "[Codex-Übersicht](README.md) · [Timeline-Navigation](timeline/README.md)\n",
+             f"{total} StoryTimeEvents, auf kleine Phasenansichten verteilt. "
+             "Dieser Root-Pfad bleibt als kompatibler Index erhalten.\n", "## Phasen\n"]
+    for title, rows in sections:
+        lines.append(f"- [{title}](timeline/{_anchor(title)}.md) ({len(rows)})")
+    return "\n".join(lines) + "\n"
+
+
+def render_timeline_hub(c: sqlite3.Connection) -> str:
+    total, sections = timeline_sections(c)
+    lines = [HEADER, "# Timeline\n", "[Codex](../README.md) · [Kompatibilitätsindex](../MASTER-TIMELINE.md)\n",
+             f"{total} StoryTimeEvents. `when_story` ist Freitext; die "
+             "Phasen-Zuordnung ist eine Lesehilfe, kein Kanon.\n"]
+    for title, rows in sections:
+        lines.append(f"- [{title}]({_anchor(title)}.md) — {len(rows)} Ereignisse")
+    return "\n".join(lines) + "\n"
+
+
+def render_timeline_phase(title: str, rows: list[list[str]]) -> str:
+    lines = [HEADER, f"# {title}\n", "[Timeline](README.md) · [Codex](../README.md)\n",
+             "| Story-Zeit | Ereignis | passiert in | enthüllt in |",
+             "|---|---|---|---|"]
+    lines.extend("| " + " | ".join(str(cell).replace("|", "\\|") for cell in row) + " |"
+                 for row in rows)
+    return "\n".join(lines) + "\n"
+
+
+def world_sections(c: sqlite3.Connection) -> tuple[int, list[tuple[dict, list[dict]]], list[dict]]:
     worlds = {w["_nid"]: w for w in nodes(c, "World")}
     axioms = {a["_nid"]: a for a in nodes(c, "WorldAxiom")}
     of_world: dict[int, list[dict]] = defaultdict(list)
@@ -216,35 +275,147 @@ def render_axioms(c: sqlite3.Connection) -> str:
             of_world[t].append(axioms[s]); placed.add(s)
         elif t in axioms and s in worlds:
             of_world[s].append(axioms[t]); placed.add(t)
-    lines = [HEADER, "# Welt-Axiome — Kohärenz Protokoll (generiert)\n",
-             f"{len(axioms)} WorldAxioms in {len(worlds)} Welten. Schwere: `hard` = "
-             "Verstoß ist ein Defekt; `soft` = Reviewer prüft. Quelle der Wahrheit: "
-             "`Canon/kohaerenz-protokoll_kernwelten-vollstaendig_2026-06-10.md` und "
-             "`…_welt-sensorik-drafting_2026-06-10.md`; Widersprüche meldet "
-             "`find_axiom_contradictions(world_id)`.\n"]
-    for w in sorted(worlds.values(), key=lambda x: x.get("name", "")):
-        axs = of_world.get(w["_nid"], [])
-        lines.append(f"## {w.get('name', '?')}  `{w.get('id', '')}`\n")
-        if not axs:
-            lines.append("_keine Axiome erfasst_\n")
-            continue
-        for a in sorted(axs, key=lambda x: (x.get("severity", ""), x.get("text", ""))):
-            lines.append(f"- **[{a.get('severity', '?')}]** {a.get('text', '')}")
-        lines.append("")
     orphans = [a for nid, a in axioms.items() if nid not in placed]
+    sections = [(world, of_world.get(world["_nid"], []))
+                for world in sorted(worlds.values(), key=lambda x: x.get("name", ""))]
+    return len(axioms), sections, orphans
+
+
+def render_axioms(c: sqlite3.Connection) -> str:
+    total, sections, orphans = world_sections(c)
+    lines = [HEADER, "# Welt-Axiome — Kompatibilitätsindex (generiert)\n",
+             "[Codex-Übersicht](README.md) · [Welten-Navigation](worlds/README.md)\n",
+             f"{total} WorldAxioms in {len(sections)} Welten, verteilt auf kleine "
+             "Weltansichten. Dieser Root-Pfad bleibt als kompatibler Index erhalten.\n",
+             "## Welten\n"]
+    for world, axioms in sections:
+        slug = world.get("slug") or _anchor(world.get("name", "unknown"))
+        lines.append(f"- [{world.get('name', '?')}](worlds/{slug}.md) ({len(axioms)})")
     if orphans:
-        lines.append("## Ohne Welt-Zuordnung\n")
-        for a in orphans:
-            lines.append(f"- **[{a.get('severity', '?')}]** {a.get('text', '')}")
-        lines.append("")
-    return "\n".join(lines)
+        lines.append(f"- [Ohne Welt-Zuordnung](worlds/ohne-welt-zuordnung.md) ({len(orphans)})")
+    return "\n".join(lines) + "\n"
 
 
-VIEWS = {
-    "GLOSSARY.md": render_glossary,
-    "MASTER-TIMELINE.md": render_timeline,
-    "WORLD-AXIOMS.md": render_axioms,
-}
+def render_worlds_hub(c: sqlite3.Connection) -> str:
+    total, sections, orphans = world_sections(c)
+    lines = [HEADER, "# Welten und Axiome\n", "[Codex](../README.md) · [Kompatibilitätsindex](../WORLD-AXIOMS.md)\n",
+             f"{total} WorldAxioms. `hard` bezeichnet einen Defekt bei Verstoß; "
+             "`soft` verlangt eine Prüfung.\n"]
+    for world, axioms in sections:
+        slug = world.get("slug") or _anchor(world.get("name", "unknown"))
+        lines.append(f"- [{world.get('name', '?')}]({slug}.md) — {len(axioms)} Axiome")
+    if orphans:
+        lines.append(f"- [Ohne Welt-Zuordnung](ohne-welt-zuordnung.md) — {len(orphans)} Axiome")
+    return "\n".join(lines) + "\n"
+
+
+def render_world_page(title: str, world_id: str, axioms: list[dict]) -> str:
+    lines = [HEADER, f"# {title}\n", "[Welten](README.md) · [Codex](../README.md)\n"]
+    if world_id:
+        lines.append(f"**Graph-ID:** `{world_id}`\n")
+    if not axioms:
+        lines.append("_Keine Axiome erfasst._")
+    else:
+        for axiom in sorted(axioms, key=lambda item: (item.get("severity", ""), item.get("text", ""))):
+            lines.append(f"- **[{axiom.get('severity', '?')}]** {axiom.get('text', '')}")
+    return "\n".join(lines) + "\n"
+
+
+def render_readme(c: sqlite3.Connection) -> str:
+    groups = glossary_groups(c)
+    entries = sum(len(items) for items in groups.values())
+    events, _ = timeline_sections(c)
+    axioms, worlds, _ = world_sections(c)
+    return "\n".join([
+        HEADER,
+        "# Codex — generierte Graphansichten\n",
+        "Der Codex ist eine kompakte, vollständig generierte Projektion aus "
+        "`.agency/session.db`; normativ bleibt `Canon/`. Nie von Hand editieren.\n",
+        "## Navigation\n",
+        f"- [Glossar](glossary/README.md) — {entries} einzeln ladbare Einträge",
+        f"- [Timeline](timeline/README.md) — {events} Ereignisse nach Phase",
+        f"- [Welten und Axiome](worlds/README.md) — {axioms} Axiome in {len(worlds)} Welten",
+        "- [Kontextgrenzen](context/README.md) — bekannte Retrieval-Grenzen und Datenlücken\n",
+        "## Kontext-effizient arbeiten\n",
+        "1. `python3 scripts/wiki_fts.py build`",
+        "2. `python3 scripts/wiki_fts.py search \"<begriffe>\" --scope codex --limit 5`",
+        "3. Nur die zurückgegebenen Dateien und Zeilenbereiche öffnen.",
+        "4. Für kapitelbegrenzte Arbeit zuerst `Wiki/context-map.md` anwenden; "
+        "CodexEntries besitzen derzeit noch keine verlässliche Spoilergrenze.\n",
+        "Historische Root-Dateien bleiben als kleine Kompatibilitätsindizes bestehen. "
+        "Die Detailseiten werden mit `python3 scripts/render_codex_views.py` aktualisiert.",
+    ]) + "\n"
+
+
+def render_context_limits(c: sqlite3.Connection) -> str:
+    groups = glossary_groups(c)
+    entries = sum(len(items) for items in groups.values())
+    events, _ = timeline_sections(c)
+    axioms, _, _ = world_sections(c)
+    return "\n".join([
+        HEADER,
+        "# Kontextgrenzen\n",
+        "[Codex](../README.md)\n",
+        "Der Renderer erfindet keine Kapitel- oder Spoilermetadaten. Fehlende "
+        "Felder sind eine sichtbare Datenlücke und keine Freigabe.\n",
+        "| Entität | Anzahl | Kapitel-/Spoilergrenze | Sicherer Standard |",
+        "|---|---:|---|---|",
+        f"| CodexEntry | {entries} | nicht modelliert | nur nach Wiki-Routing und Prüfung laden |",
+        f"| StoryTimeEvent | {events} | teilweise über REVEALED_IN ableitbar | Phasenansicht prüfen |",
+        f"| WorldAxiom | {axioms} | nicht modelliert | als whole-novel-Regel behandeln |\n",
+        "Benötigte künftige Graphfelder: `true_from`, `true_until`, "
+        "`introduced_in`, `revealed_in` und `writer_safe_from`. Ihre Semantik wird "
+        "vor einer Graphmigration separat beschlossen.",
+    ]) + "\n"
+
+
+GENERATED_DIRS = ("glossary", "timeline", "worlds", "context")
+
+
+def render_files(c: sqlite3.Connection) -> dict[str, str]:
+    rendered = {
+        "README.md": render_readme(c),
+        "GLOSSARY.md": render_glossary(c),
+        "MASTER-TIMELINE.md": render_timeline(c),
+        "WORLD-AXIOMS.md": render_axioms(c),
+        "glossary/README.md": render_glossary_hub(c),
+        "timeline/README.md": render_timeline_hub(c),
+        "worlds/README.md": render_worlds_hub(c),
+        "context/README.md": render_context_limits(c),
+    }
+    for kind, entries in glossary_groups(c).items():
+        rendered[f"glossary/{kind}/README.md"] = render_glossary_kind(kind, entries)
+        for entry in entries:
+            slug = entry.get("slug", "")
+            if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug):
+                raise ValueError(f"invalid CodexEntry slug: {slug!r}")
+            path = f"glossary/{kind}/{slug}.md"
+            if path in rendered:
+                raise ValueError(f"duplicate rendered path: {path}")
+            rendered[path] = render_glossary_entry(entry)
+    _, phases = timeline_sections(c)
+    for title, rows in phases:
+        rendered[f"timeline/{_anchor(title)}.md"] = render_timeline_phase(title, rows)
+    _, worlds, orphans = world_sections(c)
+    for world, axioms in worlds:
+        slug = world.get("slug") or _anchor(world.get("name", "unknown"))
+        rendered[f"worlds/{slug}.md"] = render_world_page(
+            world.get("name", "?"), world.get("id", ""), axioms)
+    if orphans:
+        rendered["worlds/ohne-welt-zuordnung.md"] = render_world_page(
+            "Ohne Welt-Zuordnung", "", orphans)
+    return rendered
+
+
+def stale_generated_files(expected: set[str]) -> list[Path]:
+    stale = []
+    for directory in GENERATED_DIRS:
+        base = OUT / directory
+        if not base.is_dir():
+            continue
+        stale.extend(path for path in base.rglob("*.md")
+                     if path.relative_to(OUT).as_posix() not in expected)
+    return sorted(stale)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -256,24 +427,32 @@ def main(argv: list[str] | None = None) -> int:
         print(f"no graph at {DB}", file=sys.stderr)
         return 2
     c = connect()
+    rendered = render_files(c)
+    c.close()
     stale = []
-    for name, fn in VIEWS.items():
-        content = fn(c)
+    for name, content in sorted(rendered.items()):
         path = OUT / name
         if ns.stdout:
+            print(f"<!-- {name} -->")
             print(content)
             continue
         if ns.check:
             if not path.is_file() or path.read_text(encoding="utf-8") != content:
                 stale.append(name)
             continue
-        OUT.mkdir(exist_ok=True)
+        path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(content, encoding="utf-8")
         print(f"wrote {path.relative_to(ROOT)} ({len(content.splitlines())} lines)")
-    c.close()
+    unexpected = stale_generated_files(set(rendered))
+    if ns.check:
+        stale.extend(path.relative_to(OUT).as_posix() for path in unexpected)
+    elif not ns.stdout:
+        for path in unexpected:
+            path.unlink()
+            print(f"removed stale generated view {path.relative_to(ROOT)}")
     if ns.check:
         if stale:
-            print("STALE: " + ", ".join(stale) + " — run scripts/render_codex_views.py")
+            print("STALE: " + ", ".join(sorted(stale)) + " — run scripts/render_codex_views.py")
             return 1
         print("Codex/ views are up to date")
     return 0

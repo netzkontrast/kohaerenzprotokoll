@@ -56,12 +56,8 @@
     ],
     "deny": [
       "Bash(rm -rf /*)",
-      "Write(Codex/GLOSSARY.md)",
-      "Write(Codex/MASTER-TIMELINE.md)",
-      "Write(Codex/WORLD-AXIOMS.md)",
-      "Edit(Codex/GLOSSARY.md)",
-      "Edit(Codex/MASTER-TIMELINE.md)",
-      "Edit(Codex/WORLD-AXIOMS.md)"
+      "Write(Codex/**)",
+      "Edit(Codex/**)"
     ]
   },
   "hooks": {

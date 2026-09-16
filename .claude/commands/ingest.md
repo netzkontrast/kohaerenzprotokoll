@@ -34,8 +34,8 @@ List every distinct entity that should have a codex entry, axiom, event or claim
 
 `kind` is the closed 5-value enum (CLAUDE.md §3); the original category goes
 into the first body line as `**Kategorie:** <kind>`. Check existence against
-ground truth, not memory: `Codex/GLOSSARY.md` (slug + triggers), or
-`list_codex_entries(novel_id)` / read-only SQL on `.agency/session.db`.
+ground truth, not memory: `scripts/wiki_fts.py search "<terms>" --scope codex`,
+`list_codex_entries(novel_id)`, or read-only SQL on `.agency/session.db`.
 World rules → `WorldAxiom` (severity hard|soft, under the right World).
 Dated story facts → `StoryTimeEvent` (`when_story`, optional scene).
 Verifiable real-world facts → `NovelClaim` (domain from the 10 RESEARCH_DOMAINS).

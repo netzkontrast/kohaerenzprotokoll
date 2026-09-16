@@ -140,6 +140,16 @@ For manuscript retrieval, start with `Wiki/context-map.md`, enforce its
 chapter/spoiler window, load matching headings next, and inspect raw source
 lines only when evidence is required.
 
+## Codex compass (read before `Codex/**` work)
+
+`Codex/` is entirely renderer-owned. The Root glossary, timeline and axiom
+files are compact compatibility indexes; detail pages live under
+`Codex/glossary/<kind>/<slug>.md`, `Codex/timeline/<phase>.md`, and
+`Codex/worlds/<world>.md`. Use heading-level FTS with `--scope codex` instead
+of loading an omnibus file. Missing spoiler metadata is not permission to use
+an entry in early-chapter work. Architecture and migration rules live in
+`docs/codex-architecture.md`; use the repo-local `codex-maintenance` skill.
+
 ## Rule 0 — Never assume. Ask.
 
 **Whenever a decision would otherwise rest on an assumption, STOP and use the

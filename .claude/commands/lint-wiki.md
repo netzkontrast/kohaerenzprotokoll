@@ -50,7 +50,8 @@ Find claims superseded by newer decisions.
    (D-xx entries) and `Canon/…welt-sensorik…` §12 (lock index)
 2. grep Plan/ and chapter outline headers for terminology or facts those decisions changed
    (e.g. AEGIS naming in Act I, D-05 name reveal, dekanonisierte Alter list)
-3. Check `Codex/WORLD-AXIOMS.md` against `find_axiom_contradictions(world_id)`
+3. Check each relevant `Codex/worlds/<world>.md` against
+   `find_axiom_contradictions(world_id)`
 
 Output: `| File | Stale Claim | Current Decision | Action |`
 
@@ -76,7 +77,7 @@ noun, so do NOT grep for capitalised words. Instead:
 1. Collect candidate names: `scan_proper_nouns(body)` per chapter, then keep
    only tokens that are names in context (Einheiten, Stationen, Orte, Direktiven,
    Anteile, Guardians, Objekte with a fixed designation such as "Station 11")
-2. Cross-reference against `Codex/GLOSSARY.md` slugs/names/triggers
+2. Cross-reference through `scripts/wiki_fts.py search "<name>" --scope codex`
    (or `match_codex_entries(novel_id, text)` per chapter)
 3. Flag names appearing in 2+ chapters with no entry as GHOST
 

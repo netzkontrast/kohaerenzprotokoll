@@ -29,7 +29,7 @@ what this repo already has (agency graph, `Codex/` views, worldcodex commands).
 |---|---|---|
 | normative canon | `Canon/*.md` (German, `[K]/[V]/[S]/[L]` markers; storyform-und-outline wins) | yes — the wiki never edits it |
 | canon provenance | `.agency/session.db`: ~600 CodexEntries, 111 WorldAxioms, StoryTimeEvents, NovelClaims, decisions | yes — canon facts enter the graph via `/ingest` + `scripts/ingest_canon.py` |
-| generated canon views | `Codex/GLOSSARY.md`, `MASTER-TIMELINE.md`, `WORLD-AXIOMS.md` (rendered, write-denied) | yes — the wiki's entity matcher reads the glossary triggers |
+| generated canon views | compact Root indexes plus `Codex/glossary/**`, `timeline/**`, `worlds/**` (rendered, write-denied) | yes — the wiki's entity matcher reads generated entry slugs; content retrieval uses Codex-scoped FTS |
 | decisions | `Plan/drafting/decision-log*.md` (D-xx), `record_storyform_decision` | yes — the only door from research into canon |
 | interactive workflows | `/ingest`, `/query`, `/lint-wiki`, `/full-audit-canon`, 19 codex skills, 3 agents, 6 warn-only hooks | yes — extended, not replaced |
 | research downloads | `Plan/research/` (papers, `research-tool.py`) | yes — external science lands there; the Drive corpus gets its own layer |

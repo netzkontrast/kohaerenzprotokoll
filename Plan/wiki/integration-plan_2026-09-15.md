@@ -71,7 +71,7 @@ repo; a dash means the concept has no LLM part.
 | contradiction detection at ingest | `dspy-wiki-compile` (`DecideIngest.conflicts`) | `contradicts` edge + page `contested` | 3 |
 | missing-entity detection (mentioned in ≥3 pages, no page) | — | `wiki_lint.py` rule `missing-entity` | 1 |
 | link-density budget | — | `wiki_lint.py` rule `sparse-page` (warn) | 1 |
-| aggressive `[[wikilink]]` binding of known terms | `dspy-wiki-compile` (metric axis *known entities linked*) | glossary = `Codex/GLOSSARY.md` slugs | 3 |
+| aggressive `[[wikilink]]` binding of known terms | `dspy-wiki-compile` (metric axis *known entities linked*) | glossary slugs = generated `Codex/glossary/<kind>/<slug>.md` filenames | 3 |
 | two-pass graph (deterministic + inferred) | not adopted (cost; canon links are explicit) | deterministic pass only: `Wiki/graph/edges.jsonl` | 1 |
 
 ### `llm-wiki-compiler` (`surveys/llm-wiki-compiler.md` §3)

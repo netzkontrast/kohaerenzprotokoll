@@ -21,9 +21,11 @@ Write new non-science worldbuilding content following repo conventions.
 3. Read the project skill that owns the topic: novel-architect-world (Kernwelten,
    sensorics, axioms), novel-architect-character (Anteile, Sprach-DNA),
    novel-architect-scene (chapter prose — this skill does NOT draft chapters)
-4. Search `Codex/GLOSSARY.md` and grep Canon/ + Plan/ for existing entries —
-   no new lore to patch a continuity problem an existing source already resolves
-5. Check `Codex/WORLD-AXIOMS.md` for the rules the content must obey
+4. Search with `python3 scripts/wiki_fts.py search "<terms>" --scope codex
+   --limit 5`, open only matching detail pages, then grep Canon/ + Plan/ — no
+   new lore to patch a continuity problem an existing source already resolves
+5. Open only the relevant `Codex/worlds/<world>.md` pages for rules the content
+   must obey
 
 ## Process
 
@@ -61,7 +63,7 @@ they interpret the universe's fundamental forces.
 
 ## After Writing
 
-- `python3 scripts/render_codex_views.py` (refreshes GLOSSARY / MASTER-TIMELINE / WORLD-AXIOMS)
+- `python3 scripts/render_codex_views.py` (refreshes all generated indexes and detail pages)
 - Dated story facts → `record_story_event`; rules → `create_world_axiom`
 - Update `.claude/skills/PROJECT_REFERENCES.md` if the data map changed
 - Present for author review — do NOT commit

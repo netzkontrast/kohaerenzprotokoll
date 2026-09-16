@@ -31,6 +31,7 @@ Wann fällt der Schleier für Juna?
 """
 CANON_PAGE = "# Kernwelt\n\nKW1 ist die Kölner Ebene.\n\n## Sensorik\n\nRegen, Beton, Juna.\n"
 SOURCE_PAGE = "Ein Drive-Export über Argus und die Monstergruppe.\n"
+CODEX_PAGE = "# Argus\n\n## Inhalt\nArgus beobachtet Kohärenz und Kritik.\n"
 
 
 @pytest.fixture
@@ -38,9 +39,11 @@ def tree(tmp_path: Path) -> Path:
     (tmp_path / "Wiki/concepts").mkdir(parents=True)
     (tmp_path / "Canon").mkdir()
     (tmp_path / "Sources/drive").mkdir(parents=True)
+    (tmp_path / "Codex/glossary/concept").mkdir(parents=True)
     (tmp_path / "Wiki/concepts/concept/schleier.md").write_text(WIKI_PAGE, encoding="utf-8")
     (tmp_path / "Canon/kernwelt.md").write_text(CANON_PAGE, encoding="utf-8")
     (tmp_path / "Sources/drive/argus.md").write_text(SOURCE_PAGE, encoding="utf-8")
+    (tmp_path / "Codex/glossary/concept/argus.md").write_text(CODEX_PAGE, encoding="utf-8")
     return tmp_path
 
 
@@ -65,7 +68,7 @@ def test_chunk_lines_drops_empty_sections():
 
 def test_build_indexes_all_scopes(tree, capsys):
     assert run(tree, "build") == 0
-    assert "indexed 3 files" in capsys.readouterr().out
+    assert "indexed 4 files" in capsys.readouterr().out
     assert (tree / wiki_fts.DB_RELATIVE).is_file()
 
 
@@ -85,6 +88,14 @@ def test_search_json_and_scope_filter(tree, capsys):
     assert hits[0]["rank"] == 1 and hits[0]["start_line"] == 5 and "Juna" in hits[0]["snippet"]
 
 
+def test_codex_scope_finds_small_entity_page(tree, capsys):
+    run(tree, "build")
+    capsys.readouterr()
+    assert run(tree, "search", "Argus Kohärenz", "--scope", "codex", "--json") == 0
+    hits = json.loads(capsys.readouterr().out)
+    assert [hit["path"] for hit in hits] == ["Codex/glossary/concept/argus.md"]
+
+
 def test_search_limit_and_or_fallback(tree):
     run(tree, "build")
     assert len(wiki_fts.search(tree, "Schleier", limit=1)) == 1
@@ -102,7 +113,7 @@ def test_incremental_build_skips_unchanged_and_reindexes_changed(tree, capsys):
     run(tree, "build")
     capsys.readouterr()
     run(tree, "build")
-    assert "indexed 0 files (0 chunks), 3 unchanged, 0 removed" in capsys.readouterr().out
+    assert "indexed 0 files (0 chunks), 4 unchanged, 0 removed" in capsys.readouterr().out
     (tree / "Canon/kernwelt.md").write_text("# Kernwelt\n\nNeuer Text über Lex.\n", encoding="utf-8")
     run(tree, "build")
     assert "indexed 1 files" in capsys.readouterr().out
@@ -125,6 +136,7 @@ def test_stats_counts_per_scope(tree, capsys):
     assert run(tree, "stats") == 0
     out = capsys.readouterr().out
     assert "wiki: 1 files, 4 chunks" in out and "canon: 1 files, 2 chunks" in out
+    assert "codex: 1 files, 2 chunks" in out
     assert "sources: 1 files, 1 chunks" in out and "built:" in out
 
 

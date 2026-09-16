@@ -53,6 +53,11 @@ ownership:
     - Codex/GLOSSARY.md
     - Codex/MASTER-TIMELINE.md
     - Codex/WORLD-AXIOMS.md
+    - Codex/README.md
+    - Codex/glossary/**
+    - Codex/timeline/**
+    - Codex/worlds/**
+    - Codex/context/**
   append_only:
     - Wiki/log.md
   candidates: Wiki/candidates     # LLM output waits here for /wiki-promote
