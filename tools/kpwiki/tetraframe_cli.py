@@ -21,6 +21,17 @@ from .tetraframe import TetraFrame
 ROOT = Path(__file__).resolve().parents[2]
 
 
+def _dump(payload):
+    """Pydantic objects, dicts and lists of them → JSON-ready structures."""
+    if hasattr(payload, "model_dump"):
+        return payload.model_dump()
+    if isinstance(payload, dict):
+        return {k: _dump(v) for k, v in payload.items()}
+    if isinstance(payload, list):
+        return [_dump(v) for v in payload]
+    return payload
+
+
 def load_context(paths: list[str]) -> str:
     parts = []
     for p in paths:
@@ -52,11 +63,24 @@ def main(argv: list[str] | None = None) -> int:
                          ensure_ascii=False, indent=2))
         return 0
     lm.configure("task")
-    run = TetraFrame()(seed=args.seed, context=context).run
+    partial_path = (ROOT / (args.out + ".partial.json")) if args.out else None
+    stages: dict = {"seed": args.seed, "complete": False, "stages": {}}
+
+    def checkpoint(name, payload):
+        if partial_path is None:
+            return
+        stages["stages"][name] = _dump(payload)
+        partial_path.parent.mkdir(parents=True, exist_ok=True)
+        partial_path.write_text(json.dumps(stages, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"checkpoint: {name} -> {partial_path.relative_to(ROOT)}", flush=True)
+
+    run = TetraFrame()(seed=args.seed, context=context, on_stage=checkpoint).run
     if args.out:
         out = ROOT / args.out
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(run.model_dump_json(indent=2), encoding="utf-8")
+        if partial_path and partial_path.exists():
+            partial_path.unlink()
         print(f"wrote {args.out}")
     print(f"predicate: {run.selection.primary.text}")
     for mode, corner in run.corners.items():

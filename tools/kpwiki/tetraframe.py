@@ -373,22 +373,31 @@ class TetraFrame(dspy.Module):
                     corners[mode] = self._one_corner(mode, make_view(distilled, selection, mode, hint), base_rollout + attempt)
         return corners
 
-    def forward(self, seed: str, context: str = "") -> dspy.Prediction:
+    def forward(self, seed: str, context: str = "", on_stage=None) -> dspy.Prediction:
+        """``on_stage(name, payload)`` is called after every completed stage so a caller can
+        checkpoint; a stage that fails (timeout, parse error) then loses only itself."""
         from .tetraframe_metric import verify_run
 
+        stage = on_stage or (lambda name, payload: None)
         retries: list[str] = []
         distilled = self.distill(seed=seed, context=context).distilled
+        stage("distilled", distilled)
         selection = self.select(distilled=distilled).selection
+        stage("selection", selection)
         corners = self._corners(distilled, selection, retries)
+        stage("corners", corners)
         pairwise = []
         for a, b in (("P", "not-P"), ("P", "both"), ("P", "neither"), ("not-P", "both"), ("not-P", "neither"), ("both", "neither")):
             r = self.relate(source=corners[a], target=corners[b])
             pairwise.append(PairRelation(source=a, target=b, relation=r.relation, rationale=r.rationale,
                                          evidence_discriminator=r.evidence_discriminator, reversible=bool(r.reversible)))
+        stage("pairwise", pairwise)
         cartography = self.map(corners=list(corners.values()), pairwise=pairwise).cartography
         cartography.pairwise = pairwise
+        stage("cartography", cartography)
         frame = self.transform(primary_predicate=selection.primary.text, corners=list(corners.values()),
                                cartography=cartography, evaluation_criteria=distilled.evaluation_criteria).frame
+        stage("transformed", frame)
         run = TetraFrameRun(seed=seed, distilled=distilled, selection=selection, corners=corners,
                             cartography=cartography, transformed=frame, retries=retries)
         run.verification = verify_run(run)

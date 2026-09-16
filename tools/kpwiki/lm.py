@@ -18,6 +18,8 @@ Two backends (``KP_LM_BACKEND``):
                  ``claude-cli`` when a ``claude`` binary is on PATH, else ``api``
                  (so a missing key fails at first call, loudly, not at import).
 
+``KP_LM_CLI_TIMEOUT`` (seconds, default 300) bounds one CLI call; a stage that
+returns a large typed object on ``claude/opus`` can need 900.
 The CLI backend strips ``temperature``, ``max_tokens`` and ``rollout_id`` (the
 CLI does not expose them) and must run with ``cache=False``; programs that
 rely on ``lm.copy(rollout_id=…)`` for diversity (TetraFrame corners) get it
@@ -54,7 +56,7 @@ ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_CACHE_DIR = ROOT / ".cache" / "dspy"
 REFLECTION_MAX_TOKENS = 32000
 TASK_MAX_TOKENS = 16000
-CLI_TIMEOUT_SECONDS = 300
+CLI_TIMEOUT_SECONDS = 300          # default; KP_LM_CLI_TIMEOUT overrides (large structured outputs on opus need ~900)
 
 
 def _check_role(role: str) -> None:
@@ -105,7 +107,8 @@ def _build_cli_lm(role: str) -> dspy.LM:
 
     # No temperature / max_tokens: the CLI rejects them; cache must stay off
     # because the CLI has no deterministic sampling to cache against.
-    return ClaudeLM(model_id(role), repo_root=ROOT, timeout_seconds=CLI_TIMEOUT_SECONDS, cache=False)
+    timeout = int(os.environ.get("KP_LM_CLI_TIMEOUT", CLI_TIMEOUT_SECONDS))
+    return ClaudeLM(model_id(role), repo_root=ROOT, timeout_seconds=timeout, cache=False)
 
 
 def build_lm(role: str) -> dspy.LM:

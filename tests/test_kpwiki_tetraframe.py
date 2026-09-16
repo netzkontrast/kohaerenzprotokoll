@@ -100,3 +100,14 @@ def test_transform_reward_penalises_compromise():
     assert tm.transform_reward({}, good) == 1.0
     bad_frame = fixture_run().transformed.model_copy(update={"transformed_frame": "split the difference"})
     assert tm.transform_reward({}, dspy.Prediction(frame=bad_frame)) == 0.6
+
+
+def test_forward_accepts_stage_checkpoints_and_cli_dumps_them():
+    import inspect
+    from tools.kpwiki import tetraframe_cli as cli
+
+    assert "on_stage" in inspect.signature(tf.TetraFrame.forward).parameters
+    run = fixture_run()
+    dumped = cli._dump({"corners": run.corners, "pairwise": [run.cartography.pairwise[0]] if run.cartography.pairwise else [], "n": 1})
+    assert isinstance(dumped["corners"]["P"], dict) and dumped["corners"]["P"]["core_claim"] == run.corners["P"].core_claim
+    assert dumped["n"] == 1

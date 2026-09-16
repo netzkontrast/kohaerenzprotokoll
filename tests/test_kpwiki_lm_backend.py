@@ -84,3 +84,9 @@ def test_prompt_builder_splits_system_from_user_turns():
                                    {"role": "user", "content": "Wer ist Juna?"}])
     assert parts.system == "Antworte auf Deutsch."
     assert "Wer ist Juna?" in parts.prompt
+
+
+def test_cli_timeout_is_env_configurable(monkeypatch):
+    monkeypatch.setenv("KP_LM_BACKEND", "claude-cli")
+    monkeypatch.setenv("KP_LM_CLI_TIMEOUT", "900")
+    assert lm.build_lm("task")._prepare_call(prompt="x", messages=None, kwargs={}).timeout_seconds == 900
