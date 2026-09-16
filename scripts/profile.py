@@ -10,7 +10,9 @@ exactly what makes a term look unimportant in the document where it conflicts.
 
 Usage:
     python3 scripts/profile.py <slug> [<slug> ...]
-    python3 scripts/profile.py --all
+    python3 scripts/profile.py --all          # one JSON object per landed document
+    python3 scripts/profile.py --summary      # medians per category
+    python3 scripts/profile.py --frontmatter <slug>   # census header, from the manifest
 """
 
 from __future__ import annotations
@@ -115,6 +117,94 @@ def render(p: dict) -> str:
     )
 
 
+def manifest_rows() -> list[dict]:
+    return [json.loads(line) for line in MANIFEST.read_text(encoding="utf-8").splitlines()]
+
+
+def summarise() -> str:
+    """Medians per category, so the corpus can be compared against one document.
+
+    Which category to read next is a question about where the unfamiliar shapes
+    are, and guessing it from three documents of one category is how a claim ends
+    up generalised from a sample of one.
+    """
+    import statistics
+    from collections import defaultdict
+
+    category = {r["slug"]: r["category"] for r in manifest_rows() if r.get("export_path")}
+    groups: dict[str, list[dict]] = defaultdict(list)
+    for path in landed_paths():
+        p = profile(path)
+        groups[category.get(p["slug"], "?")].append(p)
+
+    def median(items: list[dict], key: str) -> float:
+        return statistics.median([item[key] for item in items])
+
+    head = f"{'category':22} {'n':>4} {'words':>7} {'head':>5} {'tbl':>5} {'math':>5} {'esc':>5} {'zwsp':>5} {'lbl':>5}"
+    lines = [head, "-" * len(head)]
+    for name, items in sorted(groups.items(), key=lambda kv: -len(kv[1])):
+        lines.append(
+            f"{name:22} {len(items):4} {median(items, 'body_words'):7.0f} "
+            f"{median(items, 'headings'):5.0f} {median(items, 'table_rows'):5.0f} "
+            f"{median(items, 'math_symbol_lines'):5.0f} {median(items, 'backslash_escapes'):5.0f} "
+            f"{sum(1 for i in items if i['invisible_chars']):5} "
+            f"{sum(1 for i in items if i['repeated_labels']):5}"
+        )
+    lines.append("")
+    lines.append("medians, except zwsp and lbl, which count documents:")
+    lines.append("  zwsp  documents containing zero-width spaces (flattened subscripts)")
+    lines.append("  lbl   documents that label their own passages with repeated bold labels")
+    return "\n".join(lines)
+
+
+def census_frontmatter(slug: str) -> str:
+    """The census header for one document, copied from the manifest.
+
+    It exists because typing it by hand produced a fabricated `drive_id` once.
+    A provenance identifier that is invented rather than copied breaks the one
+    guarantee the whole repository rests on -- that anything derived traces back
+    to a real Drive document -- and it fails silently, because a wrong id looks
+    exactly like a right one.
+    """
+    import datetime
+
+    for row in manifest_rows():
+        if row.get("slug") != slug:
+            continue
+        if not row.get("export_path"):
+            sys.exit(f"{slug!r} is in the manifest but has not landed")
+        p = profile(ROOT / row["export_path"])
+        return "\n".join(
+            [
+                "---",
+                f"source: {row['export_path']}",
+                f"drive_id: \"{row['drive_id']}\"",
+                f"title: \"{row['title']}\"",
+                f"category: {row['category']}",
+                f"index_date: \"{row.get('index_date', '')}\"",
+                f"extracted: \"{datetime.date.today().isoformat()}\"",
+                "candidates: 0    # fill in by hand -- this is the one number nothing can count",
+                "---",
+                "",
+                f"# Term census — {row['title']}",
+                "",
+                "> **This file describes one document and nothing else.** No count, comparison or",
+                "> expectation from any other source appears here. Comparing documents is a",
+                "> separate step, and mixing the two is what lets a term look unimportant in the",
+                "> document where it conflicts.",
+                "",
+                "## Structural profile",
+                "",
+                f"`python3 scripts/profile.py {slug}`",
+                "",
+                "```",
+                render(p).split("\n", 1)[1],
+                "```",
+            ]
+        )
+    sys.exit(f"no manifest row with slug {slug!r}")
+
+
 def landed_paths() -> list[Path]:
     paths = []
     for line in MANIFEST.read_text(encoding="utf-8").splitlines():
@@ -136,6 +226,14 @@ def resolve(slug: str) -> Path:
 def main(argv: list[str]) -> int:
     if not argv:
         sys.exit(__doc__)
+    if argv[0] == "--frontmatter":
+        if len(argv) != 2:
+            sys.exit("--frontmatter takes exactly one slug")
+        print(census_frontmatter(argv[1]))
+        return 0
+    if argv[0] == "--summary":
+        print(summarise())
+        return 0
     if argv[0] == "--all":
         for path in landed_paths():
             print(json.dumps(profile(path)))

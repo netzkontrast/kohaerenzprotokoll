@@ -223,6 +223,64 @@ criticises as risking solipsism. **A reading of document 1 would have dropped it
 entirely** — it carries nothing there on its own, and it is in the census only
 because the census is exhaustive.
 
+## Document 4, and the first fabricated identifier
+
+`guardians-und-kern-welten-konzept`, `worldbuilding`, chosen from
+`scripts/profile.py --summary` because that category has a median of **2
+headings** against `theorie-physik`'s 23 — the sharpest structural contrast in
+the corpus. **Selection may use knowledge of other documents; extraction may
+not.** Recorded as a rule, because it is the one place cross-document knowledge
+is legitimate.
+
+**17. The census frontmatter was typed, and one field was invented.** The
+`drive_id` written into the census was a fabrication — a plausible-looking Drive
+identifier that belonged to nothing. It was caught by comparing against the
+manifest, and it would have been invisible otherwise: a wrong id looks exactly
+like a right one, and it breaks the single guarantee the repository rests on.
+
+The response is not care. `scripts/profile.py --frontmatter <slug>` now emits the
+census header from the manifest, so the field is copied rather than typed, and
+every existing census and note was checked against the manifest — all seven match.
+
+**18. Sixteen repeated labels that are a schema, not a stance.** Nine fields per
+Guardian, eight per world, filled uniformly for five and four entities. The
+`repeated labels` probe counts them correctly and they mean something entirely
+different from document 2's `Beschreibung`/`Bewertung`. **The same probe finds
+two unrelated things**, and only reading tells them apart.
+
+That the corpus contains a **filled page schema for exactly the kind of entity
+the wiki builds pages for** is worth more than the census entry: it is a page
+format somebody already designed against this material.
+
+**19. A document's own count contradicts its own content, and it says so.** „die
+vier zentralen Hüter" against five named Guardians — correct, because two share a
+world, and flagged in a parenthetical at ^[L96]. A tally taken from the prose
+without reading that line is off by one.
+
+**20. Two `### A.` headings in one section**, at ^[L98] and ^[L110]. Heading-based
+addressing collides, and the duplicate is in the source.
+
+**21. Singular and plural split the count.** `Kern-Welten` 9, `Kern-Welt` 9 — one
+term, two rows, each half the true frequency. Same class as the inflection
+problem in document 3 and cheaper to fix.
+
+## What the four-way comparison changed
+
+`Wiki/compare/003` supersedes `002`, which superseded `001`. **Each comparison so
+far has been superseded by the next**, which is now a pattern rather than an
+accident.
+
+**A rule keyed to "shared by every document" gets weaker with each document
+added**, because the intersection shrinks — 002's five terms became one at n=4.
+Keyed to "shared by three or more" it gets stronger. The conflict finding itself
+survives the restatement.
+
+**And a comparison cannot answer a question about the corpus.** The four read
+documents never link `Partnerin` to `Juna`/`Julia`, and the obvious conclusion —
+that the corpus does not — is false: **17 of the 23 documents using `Partnerin`
+also use one of the names.** Only a check against all 409 could tell those apart,
+and it has to be run separately and said separately.
+
 ## How this was actually done — the procedure, step by step
 
 Recorded so the tool is derived from what the work *was*, not from a description

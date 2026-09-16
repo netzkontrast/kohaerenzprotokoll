@@ -28,11 +28,12 @@ The point is not speed — it is that a term obviously important in document 1 a
 mentioned once in document 2 is exactly where a conflict hides, and only doing
 them in order with a carry-forward list catches it.
 
-1. ~~**Term census per document.**~~ **All three read documents have one**, each
-   written from its own document only — 46, 94 and 71 candidates, sixteen special
-   cases. Two comparisons in `Wiki/compare/`, the second superseding the first.
-   Next: a fourth document, from a **different category**, since all three so far
-   are `theorie-physik`.
+1. ~~**Term census per document.**~~ **Four documents have one**, each written
+   from its own document only — 46, 94, 71 and 58 candidates, twenty-one special
+   cases. Three comparisons in `Wiki/compare/`, **each superseded by the next**.
+   Next: term pages from document 4, which closes three `readings: 0` pages —
+   `guardians`, `kern-welten`, `risse` — from a document dated the same day as
+   the one that left them empty.
 2. **Then the term pages**, built from censuses rather than from memory.
    `Emergenz` forces the conflict record of decision 003 to exist.
 3. **Then the counter** — not an extractor. The first document showed the tool
@@ -69,9 +70,16 @@ terms in all three documents, the three project-owned ones each carry a conflict
 and the two borrowed ones carry none. The test — *does this word mean something
 outside this project?* — costs no reading and is made once per term.
 
-**`Wiki/candidates/juna.md` is titled by a name none of the three sources uses.**
-Zero occurrences of `Juna` across all three. Either rename the page to what its
-readings say, or carry the name with the count that justifies it.
+**`Wiki/candidates/juna.md` is titled by a name none of the four sources uses.**
+Zero occurrences of `Juna` across all four. Document 4 adds a **third** surface —
+`Partnerin`, 30 times — and the four read documents never link it to `Julia`.
+**The corpus does, in 17 documents**, which only a check outside the comparison
+could establish. Either rename the page to what its readings say, or carry the
+name with the count that justifies it.
+
+**A comparison answers questions about the documents it compares, never about the
+corpus.** Anything of the form *does the corpus ever…* is a separate check
+against all 409 and has to be said separately.
 
 **A source claiming authority over other sources must not be granted it.** One
 document in the corpus declares every document that disagrees with it
