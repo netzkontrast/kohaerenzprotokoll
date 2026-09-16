@@ -17,8 +17,19 @@ serves: [Plan/wiki/knowledge-system-concept_2026-09-15.md](../Plan/wiki/knowledg
 - **Optimization is a later, budgeted step.** Baseline first, `auto="light"`
   first, separate valset, saved artifacts + a regression test — the seven-step
   loop of the `dspy-advanced-workflow` skill.
-- **RLM for long documents.** `dspy.RLM` (needs Deno) is the tool for the
-  100k+-token concept papers in the Drive corpus; not used yet.
+- **RLM for long documents.** `dspy.RLM` is the tool for the long concept
+  papers in the Drive corpus — the `kernkonzept` slice is 8 documents and
+  471,211 characters, and the pilot's slowest call was a single 257 s
+  extraction over one whole body. It runs its sandbox on Pyodide under Deno,
+  so it raises at construction without `deno` on PATH.
+
+  `scripts/setup_dspy.sh --deno` installs it into `$HOME/.deno` and the script
+  reports the version on every run; without it the script warns and continues,
+  because every other program here works fine. The install does not survive a
+  fresh container, so re-run it there. Verified working on Deno 2.9.6 with
+  DSPy 3.3.1: `PythonInterpreter()` starts and executes.
+
+  Not used in a live ingest yet — `--merge-role` is the cost lever that is.
 
 ## Skills (agent-side)
 
