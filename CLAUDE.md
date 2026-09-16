@@ -114,6 +114,14 @@ The engine reinforces it so the discipline survives a forgetful session:
 
 # Project working agreement — Kohärenz Protokoll
 
+## Session startup
+
+Read the root `todo.md` at the beginning of every session, before planning or
+changing repository content. Treat its highest-priority open task, scope
+boundaries, sequencing, and acceptance criteria as active project context.
+Do not silently start a deferred migration: follow the task's stated mode and
+ask the author when it requires an architectural decision.
+
 ## Wiki compass (read before `Wiki/**` work)
 
 The concise cross-agent rules live in `AGENTS.md`; the full contract lives in
