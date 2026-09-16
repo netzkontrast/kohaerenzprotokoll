@@ -2,6 +2,11 @@ Before responding, evaluate whether any loaded skill matches this request.
 If there is even a 1% chance a skill applies, load it and check.
 If a skill matches: follow its workflow. Skills are mandatory workflows, not suggestions.
 
+This repo's `.claude/skills/<name>` always wins over an `anthropic-skills:<name>`
+plugin skill of the same name (novel-architect, ncp-author, dramatica-theory
+all exist in both places) — the project one has the current arc/canon state
+baked in, the plugin one doesn't.
+
 Routing for Kohärenz Protokoll (project skills win over generic codex skills):
 - Chapter prose, scenes, beats, continuity → novel-architect-scene (then /verifying-completion).
 - Flipping a chapter status, reading or triaging a lit-critic report → lit-critic skill.

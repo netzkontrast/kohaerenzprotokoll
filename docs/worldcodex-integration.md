@@ -86,8 +86,12 @@ write-denied (edit the graph and re-render instead).
    still read the glossary; regenerate after any graph write.
 3. Ghost-entity detection in `/lint-wiki` is LLM-driven, not scripted: German capitalises every
    noun, so the upstream capitalised-word heuristic is useless here.
-4. `Kael`/`Juna`/`AEGIS` fences are scoped to chapters 1–13 (drafting brief §3); R-10's
-   "never a name" is applied as a lint only in Act I because Kap 30/38 name Juna by design.
+4. `Kael`/`Juna`/`AEGIS` fences are scoped to chapters 1–13 (drafting brief §3); "Juna is
+   never grammatical subject" (**`drafting-rule-dr-10`** in the graph — not the distinct
+   `r-10` CodexEntry, which is the Ouroboros-foreshadowing rule; the two numbering series,
+   `R-1…R-10` and `drafting-rule-dr-1…dr-43`, are independent and this line previously
+   conflated them, per `Plan/codex-architecture/overlaps-drift_2026-09-16.md` finding 2) is
+   applied as a lint only in Act I because Kap 30/38 name Juna by design.
 5. The `civilization-build` command keeps its upstream name (slash command stability) but
    builds Kernwelten.
 
@@ -112,6 +116,35 @@ Port upstream changes hunk by hunk; re-apply the adaptation notes; update the co
 the top of this file. Files that were rewritten rather than patched (hooks, commands, agents,
 `auditing-canon`, `writing-worldbuilding`, `verifying-completion`) are compared for ideas,
 not merged.
+
+## Cluster map + simplified status commands (2026-09-16)
+
+Re-verified against upstream `alainator/worldcodex` (still at the pinned
+commit above — no upstream changes since): every vendored hook, command,
+agent, skill and the `tools/research-tool.py` CLI already exists here
+file-for-file (as `scripts/research-tool.py`), so no new port work was
+needed. What was missing was a single grouped view across the vendored
+Codex-facing suite, the project's own Prose skills, and the repo-native Wiki
+research layer (`Wiki/**`, `tools/kpwiki/`) — the upstream suite has no
+concept of the Wiki layer at all, since this repo's three-layer knowledge
+system (`Sources/` → `Wiki/` → `Canon/` + graph) was built repo-side.
+
+Added:
+
+- [.claude/CLUSTERS.md](../.claude/CLUSTERS.md) — skills, tools, commands and
+  agents grouped by job (Codex / Prose / Wiki / Research / Design-planning),
+  not by directory.
+- `/full-audit-canon --quick` — read-only freshness snapshot for the Codex
+  layer (view staleness, chapter-lint sweep, graph progress + pending
+  claims), added as a mode on the existing command rather than a new one
+  after a follow-up altitude review judged two standalone snapshot
+  commands (`/codex-status`, `/wiki-structure`) an avoidable addition to
+  the command surface.
+- `/lint-wiki --quick` — read-only structure snapshot for the Wiki layer
+  (schema contract summary, `wiki_lint --health`, view freshness, partition
+  inventory, candidate count), same rationale.
+
+Neither mode writes, fixes, or promotes anything.
 
 ## Daily loop (where the suite plugs into the existing workflow)
 

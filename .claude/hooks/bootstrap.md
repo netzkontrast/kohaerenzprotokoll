@@ -8,7 +8,7 @@ SOURCE HIERARCHY (never invert it):
 
 PROJECT SKILLS (read first for any novel work — .claude/skills/README.md):
   novel-architect, novel-architect-structure/-scene/-character/-world,
-  dramatica-theory, dramatica-vocabulary, ncp-author, novel-architect-legacy.
+  dramatica-theory (incl. exact-vocabulary discipline), ncp-author, novel-architect-legacy.
   Shared data map: .claude/skills/PROJECT_REFERENCES.md
 
 CODEX COMMANDS (orchestrated workflows — user types /command):

@@ -6,6 +6,14 @@ These skills are the **current project-facing replacements** for the historical 
 
 Start with [PROJECT_REFERENCES.md](./PROJECT_REFERENCES.md). It defines current source hierarchy, work root, arc plans, canon sources, NCP files, graph-state warnings and drafting rules.
 
+## Cluster map (skills + tools + commands, grouped by job)
+
+[../CLUSTERS.md](../CLUSTERS.md) groups everything below — plus the `scripts/`
+and `tools/` CLIs and the three agents — by what you're actually doing:
+Codex, Prose, Wiki, Research, Design/planning. It also documents the
+read-only `--quick` snapshot mode on `/full-audit-canon` and `/lint-wiki`
+that sits in front of their heavier full-cycle runs.
+
 ## Skills
 
 - [novel-architect](./novel-architect/SKILL.md) — whole-novel premise, arc architecture, chapter roles, cross-arc causality.
@@ -13,21 +21,21 @@ Start with [PROJECT_REFERENCES.md](./PROJECT_REFERENCES.md). It defines current 
 - [novel-architect-scene](./novel-architect-scene/SKILL.md) — scene planning, prose drafting, local continuity and reveal discipline.
 - [novel-architect-character](./novel-architect-character/SKILL.md) — character/parts functions, arcs, Sprach-DNA, somatics and reveal timing.
 - [novel-architect-world](./novel-architect-world/SKILL.md) — KW1–KW4, sensorics, anomaly design and world constraints.
-- [dramatica-theory](./dramatica-theory/SKILL.md) — project-specific dual-Storyform reasoning.
-- [dramatica-vocabulary](./dramatica-vocabulary/SKILL.md) — exact structural terminology and story-expression mapping.
+- [dramatica-theory](./dramatica-theory/SKILL.md) — project-specific dual-Storyform reasoning, plus exact structural terminology/story-expression mapping (merged the former dramatica-vocabulary skill in 2026-09-16).
 - [ncp-author](./ncp-author/SKILL.md) — encoded Storyform/NCP validation and controlled mutations.
 - [novel-architect-legacy](./novel-architect-legacy/SKILL.md) — historical evidence only; current-first comparison workflow.
 - [lit-critic](./lit-critic/SKILL.md) — editorial prose gate: run lit-critic over a chapter, read its report, triage findings against canon.
 - [wiki-maintenance](./wiki-maintenance/SKILL.md) — maintain wiki partitions, small-page boundaries, local indexes, links and schema/tool alignment without changing Canon.
 
-## Current project state encoded in these skills
+## Current project state
 
-- Arc plans exist for **Kap. 1–40**.
-- Current opening prose anchors: Kap. 0, 1, 2, 3 and 5; Kap. 4 is the next planned prose gap in the 1–5 block.
-- Arc II motor: **access → knowledge → intervention**.
-- Arc III motor: **intent → confrontation capacity → truth rotation → insufficient replacement order → plural preservation**.
-- Vortex 1 = Kap. 35/36; Vortex 2 = Kap. 38/39; Kap. 40 is an ambiguous coda.
-- Canon/NCP are not silently mutated by drafting work.
+Arc motors, Vortex chapter numbers and the current prose-anchor/gap are
+operative content inside [novel-architect](./novel-architect/SKILL.md)
+("Current architecture") and
+[novel-architect-structure](./novel-architect-structure/SKILL.md)
+("Structural invariants") — read those, don't rely on a third summary here
+that can drift out of sync. Arc plans exist for **Kap. 1–40**. Canon/NCP are
+not silently mutated by drafting work.
 
 ## Vendored Worldbuilding-Codex skills (generic, project-annotated)
 

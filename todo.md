@@ -17,16 +17,43 @@ ziehen.
 
 ### Reihenfolge für die nächste Session
 
-- [ ] Vollständige Codex-Inventur erstellen: Dateien, Größen, Generatoren,
+- [x] Vollständige Codex-Inventur erstellen: Dateien, Größen, Generatoren,
   Graph-Entitäten, manuelle Inhalte und alle Verbraucher/Verweise.
-- [ ] Autoritätsmatrix beschließen: Welche Schicht ist für welche Information
+  → [Plan/codex-architecture/codex-inventory_2026-09-16.md](Plan/codex-architecture/codex-inventory_2026-09-16.md)
+  (2026-09-16). Reine Bestandsaufnahme, keine Entscheidung — die
+  Autoritätsmatrix (nächster Punkt) ist noch offen.
+- [x] Autoritätsmatrix beschließen: Welche Schicht ist für welche Information
   die einzige Quelle der Wahrheit?
-- [ ] Überschneidungen und Drift zwischen Canon, Codex, Wiki, NCP und
+  → [Plan/codex-architecture/authority-matrix_2026-09-16.md](Plan/codex-architecture/authority-matrix_2026-09-16.md)
+  (2026-09-16). 13 Informationsarten entschieden; 2 davon (aufgeteilter
+  `kind=concept`-Bucket, Aufnahme von Figurenwissen-Tracking) waren echte
+  neue Weichenstellungen und gingen per Rückfrage an den Autor, bevor sie
+  als entschieden markiert wurden.
+- [x] Überschneidungen und Drift zwischen Canon, Codex, Wiki, NCP und
   Manuskript erfassen.
-- [ ] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
+  → [Plan/codex-architecture/overlaps-drift_2026-09-16.md](Plan/codex-architecture/overlaps-drift_2026-09-16.md)
+  (2026-09-16). Zwei konkrete, verifizierte Funde: eine veraltete
+  `CodexEntry` (Slot-16-Lock vom 2026-09-11 nie ins Graph übernommen —
+  Fix braucht Agency-MCP-Zugriff, in dieser Session nicht verfügbar) und
+  eine Fehlzitierung zwischen zwei nicht deckungsgleichen
+  Regel-Nummerierungen (R-Serie vs. DR-Serie), in `docs/worldcodex-integration.md`
+  bereits korrigiert. Stichprobe, kein vollständiges Audit — siehe Datei
+  §Method.
+- [x] Stabile Codex-Entitäten und Pflichtfelder definieren, bevor Ordner
   angelegt werden.
-- [ ] Wissensdimensionen sauber trennen: objektive Wahrheit, Figurenwissen,
+  → [Plan/codex-architecture/entity-model-proposal_2026-09-16.md](Plan/codex-architecture/entity-model-proposal_2026-09-16.md)
+  (2026-09-16). 8 neue `entity_type`-Werte + 4 unveränderte `kind`-Werte;
+  zweiphasig (Body-Feld jetzt, echte Engine-`kind`-Erweiterung später nur
+  wenn `agency_doctor`/`get_schema` das bestätigen — in dieser Session
+  nicht prüfbar). Alle 3 Weichenstellungen gingen an den Autor; die
+  `R-N`/`DR-N`-Frage bleibt bewusst offen für Punkt 9.
+- [x] Wissensdimensionen sauber trennen: objektive Wahrheit, Figurenwissen,
   Leserwissen, erzählerische Enthüllung und zeitliche Gültigkeit.
+  → [Plan/codex-architecture/knowledge-dimensions_2026-09-16.md](Plan/codex-architecture/knowledge-dimensions_2026-09-16.md)
+  (2026-09-16). 4 von 5 Dimensionen bereits durch Punkt 4 abgedeckt; eine
+  echte Lücke gefunden (keine aggregierte "Leserwissen bis Szene N"-Abfrage)
+  und offen für Punkt 10 oder eine künftige Engine-Fähigkeit dokumentiert,
+  nicht hier behoben.
 - [ ] Zielstruktur ausschließlich aus stabilen Entitäts- und Graphfeldern
   ableiten; keine frei erfundenen Themenordner.
 - [ ] Link- und Promotionvertrag zwischen Wiki, Codex und Canon definieren.
@@ -77,3 +104,41 @@ ziehen.
 
 Wenn dieser Test reproduzierbar besteht, erfüllt die neue Struktur ihren
 eigentlichen Zweck.
+
+---
+
+# Weitere Aufgaben (niedrigere Priorität)
+
+## Offene Punkte aus Item 1–4 (brauchen Agency-MCP/CLI-Zugriff)
+
+**Priorität:** mittel — beide sind bereits diagnostiziert, nur die Ausführung
+fehlt.
+
+- [ ] `slot-16-hard-b-etablierungskapitel`-CodexEntry (`codexentry:6e51dc32`)
+  aktualisieren: Body spiegelt noch den Vor-Lock-Zustand ("Kap 5–8, Position
+  offen"), obwohl der Canon-Lock vom 2026-09-11 auf Kapitel 5 fixiert ist
+  ([overlaps-drift_2026-09-16.md](Plan/codex-architecture/overlaps-drift_2026-09-16.md)
+  Finding 1). `update_codex_entry(entry_id="codexentry:6e51dc32", body=<Autor-Lock-2026-09-11-Wortlaut>)`,
+  dann `render_codex_views.py`.
+- [ ] Prüfen, ob der `CodexEntry.kind`-Enum (Spec 132) über `agency_doctor`/
+  `get_schema` erweiterbar ist ("Phase B" in
+  [entity-model-proposal_2026-09-16.md](Plan/codex-architecture/entity-model-proposal_2026-09-16.md)).
+  Wenn ja: `entity_type`-Werte schrittweise in echte `kind`-Werte migrieren.
+  Wenn nein: Phase A (Body-Feld) bleibt die dauerhafte Struktur, dokumentiert
+  als solche.
+
+## Vendorte generische worldcodex-Skills gegen novel-architect-* prüfen
+
+**Priorität:** niedrig  
+**Status:** zurückgestellt (2026-09-16, aus dem Workflow-Simplify-Pass)  
+**Herkunft:** Altitude-Review der Skill-Landschaft (PR #42) schlug vor, die
+vendorten generischen worldcodex-Skills (`auditing-canon`, `designing-worlds`
+usw.) zu entfernen, wo sie von projekteigenen `novel-architect-*`-Skills
+bereits abgedeckt sind. Auf Nachfrage bewusst zurückgestellt: braucht ein
+eigenes Paar-für-Paar-Audit, kein Schnelldurchlauf, da manche vendorten
+Skills (`canon-rules`, `deep-reading`, `cross-checking`) echte
+Querschnitts-Utilities sind und nicht pauschal entfernt werden dürfen.
+
+Wenn aufgegriffen: pro Skill-Paar prüfen, ob der projekteigene Skill den
+vendorten wirklich vollständig ersetzt (nicht nur überlappt), erst dann
+Retirement vorschlagen — Rule 0, kein automatisches Löschen.
