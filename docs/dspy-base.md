@@ -1,6 +1,6 @@
 # DSPy base — the LLM tooling substrate for Kohärenz Protokoll
 
-Decided 2026-09-15: every new LLM step in this repo is written as a **DSPy 3.2.x
+Decided 2026-09-15: every new LLM step in this repo is written as a **DSPy 3.3.x
 program** (`tools/kpwiki/`), not as a prompt string. Rationale and the wiki it
 serves: [Plan/wiki/knowledge-system-concept_2026-09-15.md](../Plan/wiki/knowledge-system-concept_2026-09-15.md).
 
@@ -23,11 +23,13 @@ serves: [Plan/wiki/knowledge-system-concept_2026-09-15.md](../Plan/wiki/knowledg
 ## Skills (agent-side)
 
 The skill pack [netzkontrast/dspy-agent-skills](https://github.com/netzkontrast/dspy-agent-skills)
-(fork of intertwine/dspy-agent-skills, v0.7.0, validated against DSPy 3.2.1)
-provides `dspy-fundamentals`, `dspy-evaluation-harness`, `dspy-gepa-optimizer`,
-`dspy-rlm-module`, `dspy-rlm-workflow`, `dspy-deep-refine`, `dspy-reflect-loop`,
-`dspy-clarify`, `dspy-tetraframe`, `dspy-autodialectics`, `dspy-wiki-compile`,
-`dspy-adversarial-review`, `dspy-local-runtime`, `dspy-advanced-workflow`.
+(fork of intertwine/dspy-agent-skills, v0.11.0, validated against DSPy 3.3.1)
+provides 32 skills. The ones this repo builds on are `dspy-fundamentals`,
+`dspy-evaluation-harness`, `dspy-gepa-optimizer`, `dspy-rlm-module`,
+`dspy-rlm-workflow`, `dspy-deep-refine`, `dspy-reflect-loop`, `dspy-clarify`,
+`dspy-tetraframe`, `dspy-autodialectics`, `dspy-wiki-compile`,
+`dspy-adversarial-review`, `dspy-local-runtime` and `dspy-advanced-workflow`;
+the pack's own README carries the full table.
 The wiki programs in this repo instantiate `dspy-wiki-compile` (`SourceIngest`,
 `BatchCompile`), `dspy-clarify` (`ClarifyGate`), `dspy-tetraframe` (`TetraFrame`)
 and `dspy-adversarial-review` (`AdversarialReview`, Phase 4); the Claude-CLI
@@ -49,7 +51,7 @@ Or per machine: `git clone https://github.com/netzkontrast/dspy-agent-skills && 
 ## Runtime (code-side)
 
 ```bash
-scripts/setup_dspy.sh              # .venv-dspy (git-ignored) with dspy==3.2.1, then smoke + tests
+scripts/setup_dspy.sh              # .venv-dspy (git-ignored) with dspy==3.3.1, then smoke + tests
 .venv-dspy/bin/python -m tools.kpwiki.smoke --dry-run   # no LM call
 .venv-dspy/bin/python -m tools.kpwiki.smoke --live      # one SourceIngest run (ANTHROPIC_API_KEY)
 .venv-dspy/bin/python -m pytest tests/test_kpwiki.py -q
@@ -86,7 +88,7 @@ shell resolves to.
 `tools/kpwiki/local_lm.py` is the `ClaudeLM` from
 [Hmbown/dspy-local](https://github.com/Hmbown/dspy-local) (MIT,
 `docs/dspy-local-LICENSE.txt`), vendored unchanged except for the imports, so
-the repo stays on DSPy 3.2.1 instead of the fork's 3.1.3. Every DSPy call
+the repo stays on its own pinned DSPy (3.3.1) instead of the fork's 3.1.3. Every DSPy call
 becomes one `claude -p --output-format json --permission-mode plan
 --no-session-persistence [--model …] [--system-prompt …]` process in an
 isolated `HOME` (only the credentials are copied in, the session does not
