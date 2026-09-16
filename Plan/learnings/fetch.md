@@ -38,6 +38,67 @@ through a context would have cost millions of tokens to move bytes between two
 disks. Instead the agent makes one call, sees a path, and a console tool does
 the rest.
 
+### 1b. Only *large* results spill. Small ones land in the caller's context — *measured, and it cost me*
+
+Learning 1 is true above a size threshold and false below it. A `.docx` whose
+`fileContent` was ~30,000 characters came back **inline**, straight into the
+calling context — roughly 10k tokens for one document.
+
+This is the sharpest operational constraint in the whole fetch, and it inverts
+the naive plan:
+
+> **The main session must never fetch.** Every document below the spill
+> threshold enters its context in full. At 654 documents this is millions of
+> tokens spent moving bytes, which is precisely what learning 1 appeared to
+> have solved.
+
+Fetching is therefore always delegated to a subagent, whose context absorbs the
+inline case and is discarded afterwards. The subagent reports counts, never
+content.
+
+Consequence for the tool: `land` cannot assume a spill file exists. It needs a
+path for content that arrived inline — `--stdin` — so a subagent can pipe what
+it received without the main session ever seeing it.
+
+*Discovered by doing it wrong:* fetching
+`AEGIS Singularität jenseits Entropiegleichung .docx` directly, which put the
+whole document into the session that was trying to avoid exactly that.
+
+### 1c. There is a path with no leak at all: call the connector from the script — *measured, and it supersedes 1 and 1b*
+
+Learnings 1 and 1b both accepted that a document passes through *some* context
+and argued about whose. That premise was wrong, and the author was right to
+challenge it.
+
+The MCP connectors are ordinary HTTP JSON-RPC endpoints. `/tmp/mcp-config-*.json`
+carries the Drive server's URL and headers; `CLAUDE_SESSION_INGRESS_TOKEN_FILE`
+carries the bearer token. A plain script can therefore call
+`read_file_content` and `download_file_content` itself:
+
+```
+initialize -> 200   serverInfo: {'name': 'StatelessServer', 'version': 'ESF'}
+tools/list -> 200   ['copy_file', 'create_file', 'download_file_content',
+                     'get_file_metadata', ..., 'read_file_content', ...]
+```
+
+`scripts/sources.py fetch` now does exactly this. **No model is involved at any
+point** — not the orchestrator, not a subagent. The saving against the delegated
+plan is roughly 6.5 M tokens, and against doing it in the main session it is the
+difference between possible and not.
+
+Two dead ends checked on the way, recorded so nobody retries them:
+
+- `CLOUDSDK_AUTH_ACCESS_TOKEN` is present in the environment but returns **401**
+  against `googleapis.com/drive/v3` — wrong scope or project.
+- The MCP headers in the config file alone return **401**. The bearer token from
+  `CLAUDE_SESSION_INGRESS_TOKEN_FILE` is what authenticates; a 400
+  "body could not be parsed" during testing was shell quoting, not auth, and
+  that distinction is what showed the approach was viable.
+
+**The dependency worth knowing:** the token file and the MCP config are
+session-scoped. `fetch` therefore works inside a Claude Code session and nowhere
+else, and it says so when either is missing rather than failing obscurely.
+
 ### 2. The spill arrives as an *error*, not a result — *measured*
 
 The call reports `result (78,383 characters) exceeds maximum allowed tokens`.
@@ -101,6 +162,44 @@ discusses X", that capability does not exist on this corpus as fetched.
 This is the most consequential open question in this file. It is recorded and
 not acted on, because promoting bold to headings is a guess about the author's
 intent and the fix is cheap to apply later against stored `sha256_raw`.
+
+### 7b. Converting the original instead of Drive's text export fixes it — *measured*
+
+Learning 7 said section-level retrieval is impossible on a corpus with one
+heading per document, and recorded it as unresolved. It is resolved for every
+format that has an original file.
+
+`mcp__Google_Drive__download_file_content` returns the original bytes as base64.
+Running **markitdown** over the `.docx` rather than taking Drive's text export
+produces real markdown:
+
+```
+# Teil I: Konzeptionelle Ouvertüre      ← a real ATX heading, not **bold**
+## A. Unterabschnitt
+| Begriff | Bedeutung |                 ← a real table with its separator row
+```
+
+So the two paths are not equivalent and the choice is per format:
+
+| format | rows | path | why |
+|---|---:|---|---|
+| `docx` | 45 | `download_file_content` → markitdown | keeps headings and tables |
+| `pdf` | 1 | same | same |
+| `gdoc` | 590 | `read_file_content` | no original file to convert |
+| `md` | 43 | neither is listed as supported | undecided |
+| `mp3` | 1 | neither | undecided |
+
+The flat-heading problem therefore stands only for the 590 Google Docs, where
+there is no original to go back to — the document *is* the Google Doc. That is a
+much smaller problem than learning 7 first suggested, and it is now a property of
+one format rather than of the whole corpus.
+
+**Install discipline, learned the hard way:** `pip install
+--break-system-packages markitdown` broke `cryptography` for the entire
+container and took the system interpreter with it. Everything goes in a venv —
+recorded in `CLAUDE.md` because it is a rule, not a preference. `sources.py`
+stays standard-library and shells out to `.venv-tools/bin/python`, so it still
+runs when the venv is absent and prints the command that creates it.
 
 ### 8. What survives cleanly — *measured*
 

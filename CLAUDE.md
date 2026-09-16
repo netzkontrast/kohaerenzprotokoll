@@ -90,6 +90,24 @@ both checksums into the manifest and verifies. Never open the spill yourself.
 supported. They need a decision, and none has been tried —
 `Plan/learnings/fetch.md` has the format census.
 
+## Installing anything
+
+**Every dependency goes into a virtualenv. Never into the system Python.**
+
+`pip install --break-system-packages` was tried once and broke `cryptography`
+for the whole container, which took the system interpreter down with it.
+
+```bash
+python3 -m venv .venv-tools
+.venv-tools/bin/pip install <package>
+```
+
+`.venv-tools/` holds the tooling dependencies — markitdown and its converters
+today — and is git-ignored. `scripts/sources.py` stays standard-library and
+shells out to that interpreter for the one thing that needs it, so the tool
+keeps running whether or not the venv exists and says exactly how to create it
+when it does not.
+
 ## Learnings
 
 `Plan/learnings/` holds one file per step: what was learned, what the tool must
