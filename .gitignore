@@ -1,36 +1,25 @@
-scripts/__pycache__/
 __pycache__/
 .pytest_cache/
 
-# Worldbuilding-Codex session state (per-session, never committed)
+# Session state, never committed
 .claude/CURRENT_TASK.md
 .claude/settings.local.json
 CLAUDE.local.md
 
-# Downloaded research (large PDFs / conversions) — keep Plan/research/INDEX.md
-Plan/research/papers/
-Plan/research/markdown/
-Plan/research/sep-entries/
-Plan/research/last-search-results.json
+# API keys — read from the environment, never from a committed file
+.env
+.env.*
+!.env.example
 
-# lit-critic — pinned upstream clone + generated project projection (scripts/setup_lit_critic.sh)
+# Build and tool caches, and vendored clones (Legacy tooling)
+.cache/
+.venv-dspy/
 .lit-critic-src/
 .lit-critic/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# DSPy base (scripts/setup_dspy.sh) — venv, LM cache, optimizer logs, eval runs
-.venv-dspy/
-.cache/dspy/
-.cache/kpwiki/
-.cache/wiki-fts/
-tools/kpwiki/gepa_logs/
-tools/kpwiki/eval_runs/
 
 # Raw source layer: markdown exports are committed, binary originals are not
 Sources/originals/
 
-# TetraFrame per-stage checkpoints (transient; the final artefact next to it is committed)
-Plan/decisions/tetraframe/*.partial.json
+# OS files
+.DS_Store
+Thumbs.db

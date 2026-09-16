@@ -1,0 +1,38 @@
+# Candidate models for scripts/lm_bench.py
+#
+#   .venv-dspy/bin/python scripts/lm_bench.py --models-file Plan/quality/lm-candidates.txt --repeats 3
+#
+# Fetched from https://openrouter.ai/api/v1/models on 2026-09-16 (444 models,
+# 24 of them free). Model ids drift — re-fetch before trusting this list:
+#
+#   curl -sS https://openrouter.ai/api/v1/models | python3 -c "import json,sys; \
+#     [print(m['id'], m.get('context_length')) for m in json.load(sys.stdin)['data']]"
+#
+# Selected for one property the kpwiki programs actually need: a context window
+# large enough for TASK_MAX_TOKENS (16,000) plus a source body, and a text model
+# rather than an audio or vision one. Whether any of them can hold a closed-enum
+# schema is exactly what the benchmark is for — nothing here is pre-endorsed.
+
+# --- free ---------------------------------------------------------------
+# No cost, hard rate limits. Worth testing for the `worker` role; a free model
+# that holds the schema turns bulk sub-steps and judges into a rounding error.
+openrouter/nvidia/nemotron-3-ultra-550b-a55b:free
+openrouter/nvidia/nemotron-3.5-lightning:free
+openrouter/thinkingmachines/inkling:free
+openrouter/nex-agi/nex-n2.5-pro:free
+openrouter/dots-studio/dots-3-note-preview:free
+
+# --- cheap paid ---------------------------------------------------------
+# Priced per million prompt tokens as fetched above. All are one to two orders
+# of magnitude below Opus for bulk work, and paid models usually hold typed
+# output far better than free ones — the trade the benchmark quantifies.
+openrouter/qwen/qwen3.7-flash
+openrouter/openai/gpt-oss-120b
+openrouter/inclusionai/ling-3.0-flash
+openrouter/mistralai/mistral-nemo
+openrouter/ibm-granite/granite-4.0-h-micro
+
+# --- baseline -----------------------------------------------------------
+# The model the repo runs today, so the table has a reference row rather than
+# only relative numbers. Needs ANTHROPIC_API_KEY; drop the line without one.
+# anthropic/claude-haiku-4-5
