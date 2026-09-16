@@ -8,17 +8,22 @@ two distinct sources, a ``new`` diff item must be absent from the page.
 Axes and weights (``WEIGHTS``):
     citations       every Citation (claims, definition sentences, agreements,
                     disagreements) names a batch file, a range inside it and a
-                    verbatim quote found in those lines
+                    verbatim quote found in those lines; and every term a
+                    claim or a cited sentence puts in quotation marks is in
+                    the lines it cites — quotation marks promise the source
     decisions       ``decision_legal`` per concept (create iff no page; no
                     update on a protected page with conflicts)
     merge           per concept: sources inside the batch and distinct, at
                     least one citation, every definition sentence cited,
-                    disagreements two-sourced, status ⇔ pending disagreement,
+                    disagreements two-sourced and with a position per source,
+                    status ⇔ pending disagreement,
                     slug shape, plan ids resolve; coverage of ``gold_concepts``
                     is folded in when the gold example names them
     diffs           ``diff_consistent`` per existing page
-    links_language  claims keep the source language, definition sentences
-                    are English, no draft emits the marker [K]
+    links_language  claims keep the source language in either direction (a
+                    German source is not summarised into English claims and an
+                    English source is not turned into German ones), definition
+                    sentences are English, no draft emits the marker [K]
 
 ``gold`` is a ``dspy.Example`` with ``sources: dict[file, body]``,
 ``pages: dict[slug, PageState]``, ``known_entities: list[str]`` and an
@@ -33,8 +38,8 @@ import re
 import dspy
 from pydantic import ValidationError
 
-from . import wiki_schema
-from .metrics import language_kept, looks_german
+from . import wiki_pages, wiki_schema
+from .metrics import language_of, looks_german
 from .schema import Citation, Compiled, ConceptDraft, ConceptPlan, Diff, Extraction, IngestDecision, PageState
 
 WEIGHTS = {"citations": 0.30, "decisions": 0.25, "merge": 0.20, "diffs": 0.15, "links_language": 0.10}
@@ -59,13 +64,32 @@ def _mean(values) -> float:
 # --- helpers shared with the lint ------------------------------------------------------
 
 
-def citation_resolves(citation: Citation, sources: dict[str, str]) -> bool:
-    """The file is in the batch, the range is inside it and the quote is in those lines."""
+def cited_span(citation: Citation, sources: dict[str, str]) -> str:
+    """The cited lines as one whitespace-normalised string ('' when the range is unusable)."""
     lines = sources.get(citation.file, "").splitlines()
     if not lines or not 1 <= citation.start_line <= citation.end_line <= len(lines):
-        return False
+        return ""
+    return normalise(" ".join(lines[citation.start_line - 1:citation.end_line]))
+
+
+def unverifiable_quotes(text: str, citations: list[Citation], sources: dict[str, str]) -> list[str]:
+    """Terms the text puts in quotation marks that the cited lines do not carry.
+
+    The wiki lint applies the same rule to the written page (rule
+    ``citation-resolves``); checking it here too means the program is told
+    about it while it can still learn, not only after the page exists.
+    """
+    span = " ".join(cited_span(c, sources) for c in citations)
+    if not span:
+        return []
+    return [fragment for fragment in wiki_pages.quoted_fragments(text)
+            if normalise(fragment) not in span]
+
+
+def citation_resolves(citation: Citation, sources: dict[str, str]) -> bool:
+    """The file is in the batch, the range is inside it and the quote is in those lines."""
     quote = normalise(citation.quote)
-    return bool(quote) and quote in normalise(" ".join(lines[citation.start_line - 1:citation.end_line]))
+    return bool(quote) and quote in cited_span(citation, sources)
 
 
 def decision_legal(decision: IngestDecision, page: PageState | None) -> bool:
@@ -116,6 +140,7 @@ def _concept_checks(draft: ConceptDraft, batch: set[str], plan: ConceptPlan | No
     cited = bool(draft_citations(draft))
     uncited = [s.text for s in draft.definition if not s.citations]
     two_sourced = all(len(set(d.sources)) >= 2 for d in draft.disagreements)
+    thin = [d.topic for d in draft.disagreements if len(d.positions) < len(set(d.sources))]
     pending = any(d.resolution == "pending" for d in draft.disagreements)
     status_ok = (draft.status == "contradicted") == pending
     slug_ok = bool(wiki_schema.slug_pattern().match(slug)) and len(slug) <= wiki_schema.conventions()["slug"]["max_length"]
@@ -124,6 +149,8 @@ def _concept_checks(draft: ConceptDraft, batch: set[str], plan: ConceptPlan | No
         (sources_ok and cited, [f"{slug}: sources outside the batch or no citation"]),
         (not uncited, [f"{slug}: definition sentence without citation: '{t[:SENTENCE_PREVIEW_CHARS]}'" for t in uncited]),
         (two_sourced, [f"{slug}: a disagreement needs two distinct sources"]),
+        (not thin, [f"{slug}: a disagreement needs one position per source: {t[:SENTENCE_PREVIEW_CHARS]!r}"
+                    for t in thin]),
         (status_ok, [f"{slug}: status {draft.status} does not match its pending disagreements"]),
         (slug_ok, [f"{slug}: slug does not match {wiki_schema.conventions()['slug']['pattern']}"]),
         (not unknown_ids, [f"{slug}: plan references unknown claim ids {unknown_ids}"]),
@@ -143,6 +170,15 @@ def _all_citations(run: Compiled) -> list[Citation]:
     return [c.citation for e in run.extractions for c in e.claims] + [c for k in run.concepts for c in draft_citations(k)]
 
 
+def _quoting_texts(run: Compiled) -> list[tuple[str, str, list[Citation]]]:
+    """``(where, text, citations)`` for every text that is rendered on a citing line."""
+    texts = [(e.source, c.text, [c.citation]) for e in run.extractions for c in e.claims]
+    for draft in run.concepts:
+        texts += [(draft.slug, s.text, s.citations) for s in draft.definition]
+        texts += [(draft.slug, a.text, a.citations) for a in draft.agreements]
+    return texts
+
+
 def _citation_axis(run: Compiled, sources: dict[str, str], deficits: list[str]) -> float:
     citations = _all_citations(run)
     bad = 0
@@ -155,7 +191,15 @@ def _citation_axis(run: Compiled, sources: dict[str, str], deficits: list[str]) 
         else:
             continue
         bad += 1
-    return 1.0 - bad / len(citations) if citations else 0.0
+    texts = _quoting_texts(run)
+    for where, text, cites in texts:
+        loose = unverifiable_quotes(text, cites, sources)
+        if loose:
+            bad += 1
+            deficits.append(f"{where}: quoted term not in the cited lines: "
+                            f"{loose[0][:QUOTE_PREVIEW_CHARS]!r}")
+    total = len(citations) + len(texts)
+    return 1.0 - bad / total if total else 0.0
 
 
 def _decision_axis(run: Compiled, pages: dict[str, PageState], deficits: list[str]) -> float:
@@ -224,16 +268,25 @@ def _source_body(extraction: Extraction, sources: dict[str, str]) -> str | None:
     return next((sources[c.citation.file] for c in extraction.claims if c.citation.file in sources), None)
 
 
+def claims_keep_language(claims, body: str) -> tuple[float, str]:
+    """Share of claims still in the source's language; ``unknown`` texts never count against it."""
+    source_language = language_of(body)
+    if source_language == "unknown" or not claims:
+        return 1.0, source_language
+    kept = sum(language_of(c.text) in (source_language, "unknown") for c in claims)
+    return kept / len(claims), source_language
+
+
 def _links_language_axis(run: Compiled, sources: dict[str, str], deficits: list[str]) -> float:
     scores = []
     for e in run.extractions:
         body = _source_body(e, sources)
         if body is None or not e.claims:
             continue
-        kept = language_kept(e.claims, looks_german(body))
+        kept, source_language = claims_keep_language(e.claims, body)
         scores.append(kept)
         if kept < 1.0:
-            deficits.append(f"{e.source}: claims translated out of the source language")
+            deficits.append(f"{e.source}: claims left the source language ({source_language})")
     for k in run.concepts:
         english = all(not looks_german(s.text) for s in k.definition)
         marker_free = FORBIDDEN_MARKER not in draft_text(k)

@@ -37,9 +37,13 @@ class ExtractClaims(dspy.Signature):
     Every claim carries a line-scoped citation into the given numbered body; a claim
     without a verifiable citation must be dropped. Every citation carries a quote: a
     verbatim fragment copied from the cited numbered lines with the 'NNN| ' prefixes
-    removed, never paraphrased and never translated — German stays German.
-    Quote German in German. Do not merge two statements into one claim. Prefer claims
-    that name entities from the glossary."""
+    removed, never paraphrased and never translated.
+    Write each claim in the language of the document it comes from: a German source
+    gives German claims, an English source English ones; never translate a source.
+    Quotation marks promise the source: any term the claim itself puts in quotation
+    marks must stand verbatim in the lines that claim cites, so do not quote a term
+    you have translated or reworded. Do not merge two statements into one claim.
+    Prefer claims that name entities from the glossary."""
 
     source_file: str = dspy.InputField(desc="repo-relative path used in citations")
     numbered_body: str = dspy.InputField(desc="body with 'NNN| ' line prefixes")
@@ -91,7 +95,10 @@ class MergeConcept(dspy.Signature):
     engineering English, each backed by at least one citation whose quote is verbatim from
     the source; quotes are never translated. Where they disagree lists at least two
     distinct sources per disagreement, resolution pending unless one source explicitly
-    supersedes the other. Status is contradicted iff a disagreement is pending,
+    supersedes the other. Quotation marks promise the source here too: a term a
+    definition or agreement sentence puts in quotation marks must stand verbatim in
+    the lines that sentence cites. codex_ref is a slug from known_entities and empty
+    when none of them is the concept. Status is contradicted iff a disagreement is pending,
     single-source when only one source backs the concept, high-confidence when three or
     more sources agree, tentative otherwise. The timeline runs oldest to newest by
     index_date. Never emit the marker [K]; never invent story facts the claims lack."""

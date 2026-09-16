@@ -12,8 +12,9 @@ import pytest
 dspy = pytest.importorskip("dspy")
 
 from tools.kpwiki import compile_fixture as fx  # noqa: E402
-from tools.kpwiki.compile_metric import (citation_resolves, compile_metric, decision_legal,  # noqa: E402
-                                         diff_consistent)
+from tools.kpwiki.compile_metric import (citation_resolves, claims_keep_language, compile_metric,  # noqa: E402
+                                         decision_legal, diff_consistent, unverifiable_quotes)
+from tools.kpwiki.metrics import language_of  # noqa: E402
 from tools.kpwiki.programs import (MAX_DIGEST_CLAIMS, BatchCompile, SourceInput, index_claims,  # noqa: E402
                                    merge_plans)
 from tools.kpwiki.schema import (Citation, Claim, ConceptPlan, Diff, Extraction, IngestDecision,  # noqa: E402
@@ -87,6 +88,48 @@ def test_citation_resolves_across_a_line_break_and_refuses_an_empty_quote():
     assert citation_resolves(Citation(file="a.md", start_line=1, end_line=2, quote="verteiltes System"), sources)
     assert not citation_resolves(Citation(file="a.md", start_line=1, end_line=2, quote=""), sources)
     assert not citation_resolves(Citation(file="a.md", start_line=1, end_line=9, quote="Kael"), sources)
+
+
+def test_a_quoted_term_must_stand_in_the_cited_lines():
+    sources = {"a.md": "Daten, die dem Modell widersprechen, werden als Rauschen abgelehnt."}
+    cite = [Citation(file="a.md", start_line=1, end_line=1, quote="als Rauschen abgelehnt")]
+    assert unverifiable_quotes("Das System nennt sie „Rauschen“.", cite, sources) == []
+    assert unverifiable_quotes('It rejects them as "noise."', cite, sources) == ['noise.']
+    assert unverifiable_quotes("no quotes here", cite, sources) == []
+    assert unverifiable_quotes("„Rauschen“", [], sources) == []
+
+
+def test_the_citation_axis_names_an_unverifiable_quoted_term():
+    run = fx.handmade_compiled()
+    run.extractions[0].claims[1].text = 'Juna lebt laut Notiz in "KW9".'
+    result = compile_metric(fx.gold_example(), dspy.Prediction(compiled=run))
+    assert "quoted term not in the cited lines: 'KW9'" in result.feedback
+    assert result.score < 1.0
+
+
+def test_a_disagreement_without_a_position_per_source_is_named():
+    run = fx.handmade_compiled()
+    run.concepts[1].disagreements[0].positions = ["KW2"]
+    result = compile_metric(fx.gold_example(), dspy.Prediction(compiled=run))
+    assert "juna: a disagreement needs one position per source" in result.feedback
+
+
+def test_language_of_is_symmetric_and_admits_it_does_not_know():
+    assert language_of("Der Schleier hält bis zum Ende und ist nicht offen.") == "de"
+    assert language_of("The veil is not the end of the protocol and is closed.") == "en"
+    assert language_of("Kael 42") == "unknown"
+
+
+def test_claims_leaving_the_source_language_are_penalised_in_both_directions():
+    german = Claim(text="Juna lebt in KW2 und ist nicht Teil des Systems.", kind="character",
+                   citation=Citation(file=fx.FILE_A, start_line=3, end_line=3, quote="Juna lebt in KW2."))
+    english = german.model_copy(update={"text": "Juna lives in KW2 and is not part of the system."})
+    english_body = "Juna lives in KW2. The veil is not the end of it and is closed."
+    assert claims_keep_language([german], fx.BODY_A)[0] == 1.0
+    assert claims_keep_language([english], fx.BODY_A) == (0.0, "de")
+    assert claims_keep_language([german], english_body) == (0.0, "en")
+    assert claims_keep_language([], fx.BODY_A)[0] == 1.0
+    assert claims_keep_language([german], "42 7")[0] == 1.0
 
 
 def test_decision_legal_protects_a_reviewed_page():

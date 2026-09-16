@@ -239,7 +239,7 @@ def main(argv: list[str] | None = None) -> int:
     verdict = score(run, inputs, pages, terms)
     print(f"\ncompile_metric: score={verdict.score:.3f}\n  {verdict.feedback}")
 
-    rendered = candidates.render_pages(run, manifest)
+    rendered = candidates.render_pages(run, manifest, codex_slugs=frozenset(terms))
     written = write_pages(root, rendered)
     edges = append_edges(root, candidates.edge_records(run))
     logged = append_log(root, candidates.log_entries(run, rendered))

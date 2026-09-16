@@ -57,6 +57,16 @@ def _marker_counts(text: str) -> tuple[int, int]:
             sum(padded.count(m) for m in ENGLISH_MARKERS))
 
 
+def language_of(text: str) -> str:
+    """``de``, ``en`` or ``unknown`` — the marker majority, ties and silence count as unknown."""
+    german, english = _marker_counts(text)
+    if german > english:
+        return "de"
+    if english > german:
+        return "en"
+    return "unknown"
+
+
 def looks_german(text: str) -> bool:
     """True only with at least one German marker and no English majority."""
     german, english = _marker_counts(text)

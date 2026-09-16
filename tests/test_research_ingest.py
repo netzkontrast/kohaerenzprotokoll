@@ -114,6 +114,33 @@ def test_a_pending_disagreement_names_both_sources_and_its_resolution():
     assert f"[[{fx.SLUG_A}]] vs [[{fx.SLUG_B}]]" in disagree and "resolution: pending" in disagree
 
 
+def test_a_disagreement_line_leaves_out_what_the_draft_left_empty():
+    run = fx.handmade_compiled()
+    run.concepts[1].disagreements[0].positions = []
+    body = wiki_pages.split_frontmatter(
+        candidates.render_pages(run, MANIFEST, INGESTED)["candidates/juna.md"])[1]
+    line = wiki_pages.sections(body)["Where they disagree"].strip()
+    assert " —  — " not in line and line.count("—") == 2
+    assert line.endswith("^[Sources/drive/notiz-kael-b.md:3-3]")
+
+
+def test_a_codex_reference_is_prefixed_when_the_glossary_knows_it_and_dropped_otherwise():
+    known = frozenset({"juna", "kael"})
+    assert candidates.codex_ref("juna", known) == "codex:juna"
+    assert candidates.codex_ref("codex:juna", known) == "codex:juna"
+    assert candidates.codex_ref("erfundener-begriff", known) == ""
+    assert candidates.codex_ref("", known) == ""
+
+
+def test_the_rendered_concept_carries_only_a_known_codex_reference():
+    run = fx.handmade_compiled()
+    run.concepts[1].codex_ref = "juna"
+    run.concepts[2].codex_ref = "kein-eintrag"
+    pages = candidates.render_pages(run, MANIFEST, INGESTED, codex_slugs=frozenset({"juna"}))
+    assert front_of(pages["candidates/juna.md"])["codex_ref"] == "codex:juna"
+    assert "codex_ref" not in front_of(pages["candidates/schleier.md"])
+
+
 def test_no_candidate_emits_the_canon_marker():
     assert all("[K]" not in text for text in rendered().values())
 

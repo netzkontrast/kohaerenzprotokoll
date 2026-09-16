@@ -40,6 +40,7 @@ EDGE_TYPE = "supports"
 CANON_UNCHECKED = ("This pass did not retrieve Canon, so `canon_status` stays `unverified` (D-W12); "
                    "`/interrogate-canon` and the author decide the relation.")
 NO_ENTRIES = "_none_"
+CODEX_PREFIX = "codex:"
 CLAIM_EVENTS = {"reinforced": "reinforced", "challenged": "challenged", "new": "created"}
 
 
@@ -130,7 +131,18 @@ def source_body(extraction: Extraction, concept_slugs: list[str], ingested: str)
 # --- concept candidate -------------------------------------------------------------
 
 
-def concept_front(draft: ConceptDraft, ingested: str) -> dict[str, Any]:
+def codex_ref(value: str, known: frozenset[str]) -> str:
+    """``codex:<slug>`` when the glossary has that entry, else nothing.
+
+    A model that answers with the bare slug means the right thing, so the
+    prefix is added; a slug the glossary does not carry is a guess, and
+    ``codex:`` targets are terminal and never auto-created (``xref.yaml``).
+    """
+    slug = value.strip().removeprefix(CODEX_PREFIX)
+    return f"{CODEX_PREFIX}{slug}" if slug and slug in known else ""
+
+
+def concept_front(draft: ConceptDraft, ingested: str, codex_slugs: frozenset[str] = frozenset()) -> dict[str, Any]:
     front = {
         "title": draft.title,
         "kind": "concept",
@@ -146,18 +158,21 @@ def concept_front(draft: ConceptDraft, ingested: str) -> dict[str, Any]:
         "tags": [],
         "ingested": ingested,
     }
-    if draft.codex_ref:
-        front["codex_ref"] = draft.codex_ref
+    reference = codex_ref(draft.codex_ref, codex_slugs)
+    if reference:
+        front["codex_ref"] = reference
     return front
 
 
 def _disagreement_lines(draft: ConceptDraft) -> list[str]:
+    """One line per disagreement; a part the draft left empty is left out, not hinted at."""
     lines = []
     for item in draft.disagreements:
-        versus = " vs ".join(f"[[{slug}]]" for slug in item.sources)
-        positions = " · ".join(item.positions)
-        lines.append(f"- {item.topic} — {versus} — {positions} — resolution: {item.resolution} "
-                     f"{markers(item.citations)}".rstrip())
+        parts = [item.topic, " vs ".join(f"[[{slug}]]" for slug in item.sources),
+                 " · ".join(p for p in item.positions if p.strip()),
+                 f"resolution: {item.resolution}"]
+        line = " — ".join(part for part in parts if part.strip())
+        lines.append(f"- {line} {markers(item.citations)}".rstrip())
     return lines
 
 
@@ -190,7 +205,8 @@ def concepts_by_source(run: Compiled) -> dict[str, list[str]]:
     return mapping
 
 
-def render_pages(run: Compiled, manifest: dict[str, dict[str, Any]], ingested: str | None = None) -> dict[str, str]:
+def render_pages(run: Compiled, manifest: dict[str, dict[str, Any]], ingested: str | None = None,
+                 codex_slugs: frozenset[str] = frozenset()) -> dict[str, str]:
     """Every candidate page of one batch as ``{repo-relative path: text}``."""
     stamp = ingested or today()
     feeds = concepts_by_source(run)
@@ -201,7 +217,8 @@ def render_pages(run: Compiled, manifest: dict[str, dict[str, Any]], ingested: s
         body = source_body(extraction, sorted(feeds.get(extraction.source, [])), stamp)
         pages[candidate_path(extraction.source)] = page_text(front, [body])
     for draft in run.concepts:
-        pages[candidate_path(draft.slug)] = page_text(concept_front(draft, stamp), [concept_body(draft, stamp)])
+        front = concept_front(draft, stamp, codex_slugs)
+        pages[candidate_path(draft.slug)] = page_text(front, [concept_body(draft, stamp)])
     return pages
 
 
