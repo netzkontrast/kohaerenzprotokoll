@@ -213,6 +213,9 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--write", action="store_true",
                     help="call the LM and write candidates, edges and log lines (user-owned flag)")
     ap.add_argument("--dry-run", action="store_true", help="assemble and print the batch, call no LM (default)")
+    ap.add_argument("--merge-role", choices=["task", "worker"], default="task",
+                    help="LM role for the per-concept merge; 'worker' is the cheap model "
+                         "and the largest cost lever (merge was 46 of 53 calls in the pilot)")
     ap.add_argument("--root", type=Path, default=ROOT)
     ap.add_argument("--out", type=Path, help="write the Compiled result as JSON as well")
     return ap
@@ -241,7 +244,8 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     lm.configure("task")
-    run = BatchCompile()(sources=inputs, pages=pages, known_entities=terms).compiled
+    run = BatchCompile(merge_role=args.merge_role)(
+        sources=inputs, pages=pages, known_entities=terms).compiled
     print("\nknowledge diff")
     for line in candidates.knowledge_diff_report(run, manifest):
         print(f"  {line}")

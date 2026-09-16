@@ -29,6 +29,7 @@ from typing import Callable, NamedTuple
 import dspy
 from pydantic import BaseModel, Field
 
+from . import lm
 from .schema import Claim, Compiled, ConceptDraft, ConceptPlan, Extraction, IngestDecision, PageState
 from .signatures import (CheckCanonConflict, DecideIngest, ExtractClaims, KnowledgeDiff, MergeConcept,
                          PlanConcepts, TriageSource)
@@ -53,8 +54,17 @@ def no_canon_retrieval(_claims: list[Claim]) -> str:
 class SourceIngest(dspy.Module):
     """Turn one source export into triage, cited claims and canon conflicts."""
 
-    def __init__(self, retrieve_canon: CanonRetriever = no_canon_retrieval):
+    def __init__(self, retrieve_canon: CanonRetriever = no_canon_retrieval,
+                 merge_role: str = "task"):
+        """`merge_role` picks the LM the per-concept merge runs on.
+
+        Merge dominates a batch — 46 of 53 calls in the 2026-09-16 pilot — so
+        running it on the cheap `worker` model is the largest single cost lever.
+        It is also where contradiction detection lives, which is why it is a
+        parameter to be measured rather than a default to be assumed.
+        """
         super().__init__()
+        self.merge_role = merge_role
         self.triage = dspy.ChainOfThought(TriageSource)
         self.extract = dspy.Predict(ExtractClaims)
         self.conflicts = dspy.ChainOfThought(CheckCanonConflict)
@@ -142,8 +152,17 @@ def _cited_files(draft: ConceptDraft) -> list[str]:
 class BatchCompile(dspy.Module):
     """Extract every source, cluster the batch's claims into concepts, merge, decide, diff."""
 
-    def __init__(self, retrieve_canon: CanonRetriever = no_canon_retrieval):
+    def __init__(self, retrieve_canon: CanonRetriever = no_canon_retrieval,
+                 merge_role: str = "task"):
+        """`merge_role` picks the LM the per-concept merge runs on.
+
+        Merge dominates a batch — 46 of 53 calls in the 2026-09-16 pilot — so
+        running it on the cheap `worker` model is the largest single cost lever.
+        It is also where contradiction detection lives, which is why it is a
+        parameter to be measured rather than a default to be assumed.
+        """
         super().__init__()
+        self.merge_role = merge_role
         self.triage = dspy.ChainOfThought(TriageSource)
         self.extract = dspy.Predict(ExtractClaims)
         self.plan = dspy.ChainOfThought(PlanConcepts)
@@ -204,8 +223,11 @@ class BatchCompile(dspy.Module):
         files = list(dict.fromkeys(r.claim.citation.file for r in chosen))
         lines = [f"{f} → {file_to_source[f].slug} ({file_to_source[f].index_date})" if f in file_to_source else f"{f} → ?"
                  for f in files]
-        draft = self.merge(title=plan.title, kind_detail=plan.kind_detail, claims=[r.claim for r in chosen],
-                           claim_sources="\n".join(lines), known_entities=known_entities).draft
+        with lm.lm_context(self.merge_role):
+            draft = self.merge(title=plan.title, kind_detail=plan.kind_detail,
+                               claims=[r.claim for r in chosen],
+                               claim_sources="\n".join(lines),
+                               known_entities=known_entities).draft
         slug = plan.existing_slug if plan.existing_slug in pages else plan.slug
         sources = list(draft.sources) or self._cited_slugs(draft, file_to_source) or list(dict.fromkeys(r.source for r in chosen))
         return draft.model_copy(update={"slug": slug, "sources": sources})
