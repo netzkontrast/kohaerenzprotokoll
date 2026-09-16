@@ -12,13 +12,52 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
+import tempfile
 from pathlib import Path
 
 from . import lm
 from .tetraframe import TetraFrame
 
 ROOT = Path(__file__).resolve().parents[2]
+
+
+def resolve_out(path: str) -> Path:
+    """``--out`` must be repo-relative and inside the repository; decision artefacts live under Plan/."""
+    candidate = (ROOT / path).resolve()
+    try:
+        inside = not Path(path).is_absolute() and candidate.relative_to(ROOT) is not None
+    except ValueError:
+        inside = False
+    if not inside:
+        raise SystemExit(f"--out must be a repo-relative path inside the repository: {path!r}")
+    return candidate
+
+
+def write_atomic(path: Path, text: str) -> None:
+    """Write via a uniquely named sibling temp file and rename, so a reader never sees a
+    half-written checkpoint and two writers of the same path never share a temp file."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fd, tmp_name = tempfile.mkstemp(dir=path.parent, prefix=path.name + ".", suffix=".tmp")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as fh:
+            fh.write(text)
+        os.replace(tmp_name, path)
+    except BaseException:
+        Path(tmp_name).unlink(missing_ok=True)
+        raise
+
+
+def _dump(payload):
+    """Pydantic objects, dicts and lists of them → JSON-ready structures."""
+    if hasattr(payload, "model_dump"):
+        return payload.model_dump()
+    if isinstance(payload, dict):
+        return {k: _dump(v) for k, v in payload.items()}
+    if isinstance(payload, list):
+        return [_dump(v) for v in payload]
+    return payload
 
 
 def load_context(paths: list[str]) -> str:
@@ -44,6 +83,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--context-file", action="append", default=[], help="repo-relative file to attach as context")
     parser.add_argument("--out", default="", help="write the run artefact (JSON) here")
     parser.add_argument("--dry-run", action="store_true", help="assemble inputs only, no LM call")
+    parser.add_argument("--workers", type=int, default=4, help="parallel threads for corners and pairwise relations")
     args = parser.parse_args(argv)
 
     context = load_context(args.context_file)
@@ -51,12 +91,27 @@ def main(argv: list[str] | None = None) -> int:
         print(json.dumps({"seed": args.seed, "context_chars": len(context), "context_files": args.context_file},
                          ensure_ascii=False, indent=2))
         return 0
+    out = resolve_out(args.out) if args.out else None
+    if out:
+        os.environ.setdefault("KP_LM_CLI_LOG", str(ROOT / ".cache" / "kpwiki" / "tetraframe" / (out.stem + ".log")))
     lm.configure("task")
-    run = TetraFrame()(seed=args.seed, context=context).run
-    if args.out:
-        out = ROOT / args.out
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(run.model_dump_json(indent=2), encoding="utf-8")
+    print(f"call log: {os.environ.get('KP_LM_CLI_LOG', '(none)')}", flush=True)
+    partial_path = out.with_name(out.name + ".partial.json") if out else None
+    stages: dict = {"seed": args.seed, "complete": False, "stages": {}}
+
+    def checkpoint(name, payload):
+        if partial_path is None:
+            return
+        stages["stages"][name] = _dump(payload)
+        write_atomic(partial_path, json.dumps(stages, ensure_ascii=False, indent=2))
+        print(f"checkpoint: {name} -> {partial_path.relative_to(ROOT)}", flush=True)
+
+    program = TetraFrame(relate_lm=lm.build_lm("worker"), max_workers=args.workers)
+    run = program(seed=args.seed, context=context, on_stage=checkpoint).run
+    if out:
+        write_atomic(out, run.model_dump_json(indent=2))
+        if partial_path and partial_path.exists():
+            partial_path.unlink()
         print(f"wrote {args.out}")
     print(f"predicate: {run.selection.primary.text}")
     for mode, corner in run.corners.items():

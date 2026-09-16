@@ -24,8 +24,12 @@ Thumbs.db
 # DSPy base (scripts/setup_dspy.sh) — venv, LM cache, optimizer logs, eval runs
 .venv-dspy/
 .cache/dspy/
+.cache/kpwiki/
 tools/kpwiki/gepa_logs/
 tools/kpwiki/eval_runs/
 
 # Raw source layer: markdown exports are committed, binary originals are not
 Sources/originals/
+
+# TetraFrame per-stage checkpoints (transient; the final artefact next to it is committed)
+Plan/decisions/tetraframe/*.partial.json

@@ -125,6 +125,9 @@ assumption baked into canon prose is expensive to unwind; a question is cheap.
 - Canon prose is **German** — never translate it. Engineering/work language is English.
 - On conflict between source documents, the **storyform/outline** document is
   normative (`Canon/kohaerenz-protokoll_storyform-und-outline_2026-06-10.md`).
+  This holds for manuscript work. Inside the research-wiki loop Canon is
+  `unverified` until checked against the populated wiki and a Canon/research
+  conflict is an open question with no default winner (D-W12, 2026-09-16).
 - Prefer agency **capability verbs** over raw file edits so provenance is recorded.
 
 ## Registered novel

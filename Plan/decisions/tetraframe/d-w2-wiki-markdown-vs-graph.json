@@ -1,0 +1,600 @@
+{
+  "seed": "D-W2: The research wiki for Kohärenz Protokoll should live as Markdown pages under Wiki/ (LLM-maintained, human-promoted), while the agency provenance graph stays canon-only; research knowledge should not be stored in the graph as a second home.",
+  "distilled": {
+    "normalized_seed": "Research knowledge for Kohärenz Protokoll's 680-document corpus should be stored as version-controlled Markdown pages under Wiki/ (LLM-maintained, human-promoted via explicit status transitions), while the agency provenance graph (.agency/session.db) remains reserved for author-locked canon facts; the Wiki layer must not be re-materialized as a second, drifting copy inside the graph.",
+    "stakes": [
+      "Provenance integrity: prevents the exact drift failure already documented in Plan/sessions/2026-09-11-learnings.md (working against a stale second copy of canon one layer up)",
+      "Architectural cost: choosing graph-as-second-home would require new node/edge types, move wiki_lint.py logic into agency verbs, and lose git diffability of the research layer",
+      "Gate integrity: Canon-terminality (research -> canon only via D-xx + /ingest) depends on there being exactly one promotion path; an informal graph-mirroring path would erode Rule 0's single door",
+      "Reversibility: this is a Phase-0/1 foundational choice; reversing it after hundreds of Wiki/candidates and Wiki/concepts pages exist would be expensive"
+    ],
+    "constraints": [
+      "Sources/ is the immutable raw layer (write-denied for the agent); Wiki/ is LLM-maintained but human-promoted (status: draft -> reviewed -> ... ); Canon/ + graph are author-locked — knowledge only moves up, never down (Plan/wiki/knowledge-system-concept_2026-09-15.md §2 principle 1)",
+      "Existing graph state already includes ~220 NovelClaims with source_uri = canon file and a 10-value domain enum (no 'canon' value) captured via capture_claim — any D-W2 wording must not appear to contradict this already-operating mechanism",
+      "Phase 7 of the same plan explicitly schedules 'NovelClaims for verified T2 theory into the graph' after coverage reaches 680/680 — D-W2 must be compatible with that later step, not silently foreclose it",
+      "The rationale cited for D-W2 ('avoids the drift noted 2026-09-11') refers to Plan/sessions/2026-09-11-learnings.md §1, which is about working against a stale Canon snapshot inside a skill, not about the Wiki/graph boundary directly — the analogy should be made explicit, not assumed self-evident",
+      "Canon prose stays German; Wiki summaries/engineering stay English (repo-wide rule, D-W5 companion decision)"
+    ],
+    "unknowns": [
+      "Whether existing capture_claim / NovelClaim writes (already ~220 in the graph, domain-enum, no 'canon' value) count as the 'second home' D-W2 forbids, or are a separate, already-sanctioned research-capture channel",
+      "Whether Wiki/graph/edges.jsonl (file-based but graph-shaped: supports/extends/contradicts/supersedes/same_as/mentions) falls inside or outside the 'graph' D-W2 refers to",
+      "How Phase 7's stated plan to add 'NovelClaims for verified T2 theory into the graph' will be reconciled with D-W2 once the Wiki exists — same pipeline or a distinct, still-gated promotion step"
+    ],
+    "hidden_assumptions": [
+      "That 'the graph' in D-W2 means only new Wiki-entity node types, not the pre-existing capture_claim/NovelClaim/capture_idea verbs already used for research material",
+      "That plain Markdown + git + wiki_lint.py + SQLite FTS5 give sufficient queryability and integrity for the research layer without ever needing graph-native traversal",
+      "That no future feature will require relational queries over research claims (e.g. joining a Wiki concept to a Chapter or Scene) that only the graph can answer efficiently"
+    ],
+    "candidate_predicates": [
+      "All source/concept/question/synthesis pages for the 680-document research corpus are stored as files under Wiki/**/*.md, never as new graph node types in .agency/session.db",
+      "No script or DSPy program in tools/kpwiki/ writes Wiki page content (or a paraphrase of it) into the graph as a node or edge",
+      "Wiki pages may reference graph ids (codex:<slug>, axiom:<id>) by string reference only; graph nodes never embed or quote Wiki page bodies",
+      "The only legal channel from the research layer into graph-recorded canon is the existing E-step: author decision (D-xx) -> Canon/*.md edit -> scripts/ingest_canon.py -> graph -> Codex/ re-render",
+      "Pre-existing research-capture verbs (capture_claim, capture_idea, NovelClaim nodes) remain valid and are explicitly out of scope for D-W2's restriction, since they predate and are distinct from the new Wiki/ layer",
+      "scripts/wiki_lint.py (or an equivalent free check) can mechanically verify 'no graph-write side effect originates from a Wiki/-scoped script' as a regression guard"
+    ],
+    "frame_risk_score": 0.3,
+    "evaluation_criteria": [
+      "Does the resulting rule give a mechanically checkable boundary (a lint or CI check) rather than a slogan like 'graph stays canon-only'?",
+      "Does the rule explicitly reconcile with (not silently override) the already-operating capture_claim/NovelClaim research-capture path?",
+      "Does the rule name exactly which promotion step (D-xx + /ingest) is the sole door from Wiki/ into Canon/graph, closing the ambiguity that motivated Rule 0?",
+      "Would adopting this rule have prevented, or would it prevent, a recurrence of the 2026-09-11 stale-second-copy failure mode if research material were treated as authoritative graph state?",
+      "Is the decision recorded in the decision log (D-W2) with enough operational specificity that a future session can verify compliance without re-deriving intent?"
+    ]
+  },
+  "selection": {
+    "primary": {
+      "text": "All source, concept, question, and synthesis pages for the 680-document research corpus are persisted exclusively as files under Wiki/**/*.md; none of this Wiki page content is re-materialized as a new node or edge type in the .agency/session.db provenance graph.",
+      "subject": "Wiki page content (source/concept/question/synthesis pages) for the 680-document research corpus",
+      "relation": "is stored exclusively as",
+      "object": "Markdown files under Wiki/, never as new node/edge types in .agency/session.db",
+      "scope": "Applies to the Wiki/ knowledge-system layer defined in Plan/wiki/knowledge-system-concept_2026-09-15.md §2; explicitly excludes the pre-existing capture_claim/capture_idea/NovelClaim research-capture channel, which is governed by its own sub-predicate rather than this one.",
+      "operational_tests": [
+        "Static-scan tools/kpwiki/**/*.py (and any DSPy program modules) for call_tool(...) invocations whose target verb matches a graph-write pattern (create_*, capture_*, record_*, novel.*) and whose argument payload is built from a Wiki/ page read — every match must resolve to the explicitly carved-out capture_claim/capture_idea path; zero unexplained matches.",
+        "Enumerate node/edge kinds present in .agency/session.db (schema + a `SELECT DISTINCT kind` style query) and diff against the kind set recorded before the Wiki/ system was introduced — confirm no new kind mirrors a Wiki/ page shape (no WikiConcept/WikiSource/WikiSynthesis-style node).",
+        "Run scripts/wiki_lint.py (or a purpose-built check) over a sample commit range and confirm no Wiki/-page body text (or a close paraphrase) appears verbatim inside any graph node's text field exported via the audit_novel_provenance verb."
+      ]
+    },
+    "sub_predicates": [
+      {
+        "text": "No script or DSPy program under tools/kpwiki/ writes Wiki page content, or a paraphrase of it, into the graph as a node or edge.",
+        "subject": "scripts/DSPy programs in tools/kpwiki/",
+        "relation": "never write Wiki content into",
+        "object": "the .agency/session.db graph (as a node or edge)",
+        "scope": "Write-direction guard: covers the kpwiki toolchain specifically, distinct from the storage-location claim in the primary predicate.",
+        "operational_tests": [
+          "Grep tools/kpwiki/ for `call_tool(` sites; for each, trace whether the payload originates from a Wiki/*.md read and whether the target verb is a graph-write verb; expect none outside the sanctioned capture_claim/capture_idea path.",
+          "Add a CI/lint regression: any new PR touching tools/kpwiki/ that introduces a call_tool graph-write sourced from Wiki/ content fails the check."
+        ]
+      },
+      {
+        "text": "Wiki pages may reference graph ids (codex:<slug>, axiom:<id>, novel:<id>) by string reference only; graph nodes never embed or quote Wiki page bodies.",
+        "subject": "Wiki pages and graph nodes",
+        "relation": "reference each other asymmetrically: string-id references only, no body embedding",
+        "object": "graph ids referenced from Wiki/; Wiki text never copied into graph node fields",
+        "scope": "Reference-direction guard between the two layers.",
+        "operational_tests": [
+          "Grep Wiki/**/*.md for graph-id-shaped tokens (codex:, axiom:, novel:, storyform:) and confirm they appear only as bare reference strings, not as arguments constructing new graph content.",
+          "Sample graph node text fields (via audit_novel_provenance or direct read-only SQL) and confirm no substring matches a Wiki/ page body beyond a short id reference."
+        ]
+      },
+      {
+        "text": "The only legal channel from the research layer into graph-recorded canon is the existing E-step: author decision (D-xx) -> Canon/*.md edit -> scripts/ingest_canon.py -> graph -> Codex/ re-render.",
+        "subject": "research material (Sources/ and Wiki/)",
+        "relation": "may enter graph-recorded canon only via",
+        "object": "the D-xx -> Canon/*.md -> ingest_canon.py -> graph -> Codex/ re-render pipeline",
+        "scope": "Promotion-gate exclusivity claim; addresses the frame_risk that an informal graph-mirroring path would erode Rule 0's single door.",
+        "operational_tests": [
+          "Audit the decision log (D-xx entries) and confirm every graph-recorded canon fact traceable to research material cites a D-xx id and a Canon/*.md edit preceding its ingest_canon.py run.",
+          "Search the codebase for any code path that writes canon-flagged graph state without passing through scripts/ingest_canon.py; expect none besides the one documented surgical exception already logged (e.g. the Storyform node gotcha in CLAUDE.md §7)."
+        ]
+      }
+    ],
+    "rejected": [
+      {
+        "text": "Pre-existing research-capture verbs (capture_claim, capture_idea, NovelClaim nodes) remain valid and are explicitly out of scope for D-W2's restriction, since they predate and are distinct from the new Wiki/ layer.",
+        "reason": "Bundles a checkable scope carve-out with an unfalsifiable causal justification ('since they predate and are distinct from...'). The justification is historical narrative, not a testable state of the world, and it papers over exactly the ambiguity flagged in the seed's unknowns — whether NovelClaim writes count as the 'second home' D-W2 forbids — by asserting the answer instead of stating a checkable boundary.",
+        "rewrite_suggestion": "Split in two: (1) predicate — 'capture_claim/capture_idea calls and the NovelClaim nodes they create are not classified as Wiki/ layer content under D-W2, and D-W2's file-only mandate binds only Wiki/**/*.md pages'; (2) move the 'since they predate...' rationale into the D-W2 decision-log entry's rationale field, not the predicate text."
+      },
+      {
+        "text": "scripts/wiki_lint.py (or an equivalent free check) can mechanically verify 'no graph-write side effect originates from a Wiki/-scoped script' as a regression guard.",
+        "reason": "Phrased as a capability ('can verify') rather than a present-tense fact about the system, and it presupposes wiki_lint.py already implements this exact check — which is unconfirmed per the seed's unknowns about what counts as 'the graph' (e.g. Wiki/graph/edges.jsonl). As written it can't be falsified today because the thing being asserted to exist may not exist yet.",
+        "rewrite_suggestion": "Reframe as a build requirement attached to the primary predicate's operational tests rather than a standalone predicate: 'Before D-W2 is marked enforced, scripts/wiki_lint.py must flag any call_tool graph-write invoked from a Wiki/-scoped script as a lint violation' — track it as an implementation TODO, not a claim about current state."
+      }
+    ],
+    "rationale": "Primary predicate 1 is the most direct, tetraframe-ready operationalization of the seed's core claim (no second, drifting graph copy of the Wiki layer) and its 'both' corner names the exact 2026-09-11 failure mode the stakes cite. Predicates 2-4 survive as sub-predicates because each isolates one atomic, independently falsifiable facet (write direction, reference direction, promotion-channel exclusivity) needed to fully specify D-W2 without restating the primary. Predicates 5 and 6 are rejected because each conflates a testable claim with something non-testable (a causal rationale; an unbuilt tool's presumed behavior) — both are rewritten into cleaner forms that can be folded back in as a sub-predicate and a build requirement respectively."
+  },
+  "corners": {
+    "P": {
+      "mode": "P",
+      "core_claim": "All source, concept, question, and synthesis pages for the 680-document research corpus are persisted exclusively as files under Wiki/**/*.md; none of this content is ever re-materialized as a new node or edge type in the .agency/session.db provenance graph — the graph only ever receives claim-granularity, source-cited facts (via capture_claim/capture_idea) or fully-promoted Canon prose (via D-xx + scripts/ingest_canon.py), never a Wiki page's body or a paraphrase of it.",
+      "assumptions": [
+        "Wiki/ pages carry stable slugs/ids that can be referenced by string from the graph (e.g. in a future NovelClaim's source_uri or a codex trigger) without needing the page body itself to live in the graph",
+        "git + wiki_lint.py + SQLite FTS5 give sufficient queryability and integrity for the research layer at 680-document scale, now and through Phase 7",
+        "capture_claim/NovelClaim writes are already correctly scoped to claim-granularity, verification-time material, not Wiki-page-granularity draft material — i.e. the existing ~220 writes are instances of the sanctioned channel, not violations of the predicate",
+        "The 2026-09-11 drift failure generalizes from 'a skill working against a stale Canon snapshot' to 'any second persisted copy of a layer that already has one canonical home,' independent of which two layers are involved"
+      ],
+      "strongest_case": "The knowledge-system-concept's own principle (§2.1: knowledge moves up, never down, and moves up only through one door) already commits the architecture to a single locus of truth per layer. Wiki/ pages are git-diffable, human-reviewable via status transitions (draft→reviewed→...), and queryable via wiki_lint.py + SQLite FTS5 — that is a complete, sufficient toolchain for a 680-document research corpus; nothing about scale or query complexity at this size requires graph-native traversal over page bodies. Mirroring Wiki content into new graph node/edge types would recreate, mechanism-for-mechanism, the exact failure documented in Plan/sessions/2026-09-11-learnings.md §1: an agent (there, a skill; here, a DSPy program) operating against a second, independently-mutable copy of a layer that already has one canonical location, silently drifting the moment either copy is edited without the other. The graph has no compaction/rebuild step tied to Wiki edits, so any mirrored copy is drift-by-construction, not drift-by-accident. Critically, this affirmation does not need to fight the existing ~220 capture_claim/NovelClaim writes to hold: those persist single verified claims (text + source_uri + domain enum) at the moment of *verification*, which is categorically different from persisting a Wiki page's exploratory body at the moment of *drafting*. The predicate's real boundary is granularity and gate-position, not 'anything research-related must never touch the graph' — and Phase 7's planned 'NovelClaims for verified T2 theory into the graph' is a confirming instance of exactly this channel, not an exception that needs squaring later. The rule is also the only one that gives Rule 0 a single, nameable door: D-xx decision → Canon/*.md edit → scripts/ingest_canon.py → graph → Codex/ re-render. Any second write path, however well-intentioned, reopens the ambiguity Rule 0 exists to close. Finally, this is the cheap-to-hold, expensive-to-reverse side of the decision: enforcing file-only Wiki persistence now costs nothing (it's the default absence of new graph schema); permitting graph mirroring now and walking it back after hundreds of Wiki/candidates and Wiki/concepts pages exist would require a data-migration and a schema deprecation the corpus does not yet owe.",
+      "scope_conditions": [
+        "Applies specifically to Wiki/**/*.md page content: source summaries, concept pages, question pages, synthesis pages",
+        "Does not constrain claim-granularity capture_claim/capture_idea writes, which are the already-sanctioned research→graph provenance mechanism operating at a different granularity and gate position",
+        "Remains in force until an author-signed D-xx explicitly revises the knowledge-system architecture"
+      ],
+      "falsifiers": [
+        "A tools/kpwiki/ script or DSPy program found calling capability_novel_create_codex_entry, capture_claim, or any graph-write verb with a Wiki page's raw or paraphrased body as the payload",
+        "A new capability_novel_* verb or graph node/edge type introduced specifically to hold Wiki-page-shaped content (e.g. a 'WikiConcept' node type)",
+        "A documented future requirement for graph-native relational traversal over Wiki content (e.g. joining a Wiki concept to a Scene) that cannot be met by string-reference + file lookup",
+        "Wiki/graph/edges.jsonl being ingested into or queried through .agency/session.db rather than remaining a file-local, git-diffable structure"
+      ],
+      "evidence_needs": [
+        "Exact text of Plan/sessions/2026-09-11-learnings.md §1 to confirm the drift mechanism it describes matches the Wiki/graph case structurally",
+        "Exact text of Plan/wiki/knowledge-system-concept_2026-09-15.md §2 principle 1 ('knowledge moves up, never down')",
+        "A grep/audit of tools/kpwiki/ (once it has code) confirming no script calls a graph-write verb with Wiki page body content as payload",
+        "The Phase 7 plan text describing 'NovelClaims for verified T2 theory into the graph' to confirm it is claim-granularity, not page-granularity"
+      ],
+      "unique_signal": "A CI/lint rule can decide this claim mechanically: scan every call_tool invocation inside tools/kpwiki/**/*.py (and any DSPy Signature/Module defined there) for calls to graph-writing verbs (capability_novel_create_codex_entry, capability_novel_capture_claim, capability_novel_capture_idea, any future capability_novel_create_* ), and flag any payload whose text is a verbatim or high-overlap paraphrase of a Wiki/**/*.md page body rather than a discrete, source_uri-cited claim string. That check is falsifiable and automatable today, unlike a prose rule.",
+      "basis_label": "affirmation",
+      "basis_explanation": "This is a direct, unhedged assertion of the primary predicate as stated, defended by grounding its motivating analogy in the actual documented failure mechanism, drawing the exact boundary line that reconciles it with the pre-existing capture_claim channel, and specifying a CI-checkable enforcement rule — all without conceding any ground to a mirrored-graph or hybrid design.",
+      "replacement_predicate": "",
+      "replacement_frame": "",
+      "internal_attack": [
+        "Attack: 'capture_claim already puts research material in the graph, so the predicate is already false.' Repelled: capture_claim stores a single verified claim at claim-granularity with a source_uri and domain enum — it is the sanctioned promotion-adjacent channel operating on facts, not a mirror of a Wiki page's exploratory body; the predicate restricts page-level rematerialization, not claim-level capture, and explicitly carves this channel out as compatible.",
+        "Attack: 'Without graph traversal, you can't answer relational questions like which Wiki concepts touch which Scene.' Repelled: that question is answerable today via string-reference (a Wiki page cites codex:<slug>/scene:<id> by id) plus a file-side join (grep/FTS5 over frontmatter), which is exactly the queryability the architecture already relies on for Codex trigger-matching; no case has yet arisen requiring graph-native traversal over draft-status content specifically.",
+        "Attack: 'Phase 7 will need to write large amounts of T2 theory into the graph, which looks like exactly the mirroring being forbidden.' Repelled: Phase 7's own wording is 'NovelClaims for verified T2 theory' — verified and claim-shaped, i.e. post-gate distillation into discrete claims, not a bulk copy of Wiki pages; the predicate predicts this shape rather than being threatened by it."
+      ],
+      "patched_claim": "",
+      "minimal_falsifiers": [
+        "One CodexEntry, NovelClaim, or other graph node whose body field is a verbatim or near-verbatim copy of a specific Wiki/**/*.md page's prose, rather than a distinct claim string with its own source_uri"
+      ],
+      "confidence_boundaries": [
+        "Holds with high confidence for the current 680-document corpus, current verb roster, and current tools/kpwiki/ scope (nothing written there yet)",
+        "Would need re-examination only if a future capability introduces a genuine graph-native semantic-search or cross-layer-join requirement that file+FTS5 cannot serve — no such requirement is documented today"
+      ],
+      "unresolved_weaknesses": [
+        "The mechanical check this affirmation proposes (grep tools/kpwiki/ for graph-write calls carrying Wiki-body-shaped payloads) does not exist yet as a script — until written, compliance rests on discipline, not enforcement",
+        "'Verbatim or high-overlap paraphrase' is a fuzzier line than 'verbatim identical string' and needs an explicit similarity threshold or human-reviewable heuristic to be genuinely mechanically checkable rather than judgment-call checkable"
+      ],
+      "confidence_score": 0.88,
+      "still_valid": true,
+      "invalidity_reason": ""
+    },
+    "not-P": {
+      "mode": "not-P",
+      "core_claim": "D-W2, as literally stated (zero re-materialization of Wiki content in the graph, D-xx+/ingest as the sole promotion door), misdescribes the architecture it claims to protect and should be rejected: the graph already has a second, operating research-to-graph channel (capture_claim/NovelClaim, ~220 instances), Phase 7 is committed to using it again, and the 'files prevent drift' causal story substitutes storage medium for the actual fix (change-detection/supersession), which the file layer itself only achieves by hand-rolling a second graph (Wiki/graph/edges.jsonl) instead of using the one the project already built and everywhere else prefers.",
+      "assumptions": [
+        "capture_claim/NovelClaim writes of research-corpus material genuinely count as 'graph re-materialization of research content' in the spirit the predicate targets, not a categorically different, already-sanctioned mechanism",
+        "Wiki/graph/edges.jsonl is meaningfully graph-shaped (supports the 'reinvented graph in files' charge) rather than a thin lint-only annotation format with no real traversal semantics",
+        "The 2026-09-11 learnings document's failure mode generalizes to 'medium doesn't cause drift, invalidation discipline does' rather than being narrowly specific to the skill-snapshot case it was written about",
+        "Phase 7's language ('NovelClaims for verified T2 theory into the graph') will be executed as literally written and not quietly redefined once D-W2 exists"
+      ],
+      "strongest_case": "The seed's own evidence undercuts its predicate. (a) Single-door claim is empirically false right now: capture_claim already writes research-sourced claims into the graph as NovelClaims, gated by a domain enum, not by D-xx/Canon-lock — a second door, not a hypothetical one. (b) That door isn't closing: Phase 7 explicitly plans more NovelClaims 'for verified T2 theory into the graph' once coverage hits 680/680, meaning the rule is scheduled to be superseded by the same plan that states it, before it's even load-bearing. (c) The causal justification misattributes the 2026-09-11 failure: that was a staleness/invalidation bug (working against an old snapshot), not a graph-vs-file bug; nothing about writing to `.agency/session.db` per se causes staleness, and nothing about writing to Markdown per se prevents it — only re-validation discipline does, which the file layer has to reinvent via `wiki_lint.py` and a hand-built `edges.jsonl` relation format (supports/contradicts/supersedes/same_as) that is graph-shaped in everything but name. (d) That reinvention is strictly worse by the project's own stated values: CLAUDE.md's dominant thesis elsewhere is 'provenance is the moat, verb-first beats raw tools' — yet D-W2 carves out the single largest content body in the repo (680 documents) and denies it Invocation records, SERVES edges, and queryable joins to Chapter/Scene, in favor of a bespoke, unaudited file-plus-lint mechanism. The rule doesn't prevent a second home for research state; it just forces that second home to be the less-provisioned one.",
+      "scope_conditions": [
+        "Applies to D-W2 as a zero-tolerance, literally-worded rule; does not apply to a version of D-W2 that explicitly carves out and reconciles the capture_claim/NovelClaim path as its stated sole exception",
+        "Applies while Phase 7 remains phrased as direct graph-writing from research; weakens if Phase 7 is reworded to route through Canon-lock"
+      ],
+      "falsifiers": [
+        "Phase 7's plan is amended, before D-W2 is adopted, to route T2-theory NovelClaims through the same D-xx+/ingest gate rather than direct capture_claim, closing the second-door gap",
+        "capture_claim/NovelClaim is shown to require a Wiki-internal review status functionally equivalent in rigor to canon-lock before it fires, making it a disguised instance of the same single gate rather than a second one",
+        "Wiki/graph/edges.jsonl is shown to carry no relational/traversal semantics beyond a flat annotation list consumed only by wiki_lint.py, undercutting the 'hand-rolled second graph' characterization",
+        "A concrete incident shows Markdown-only Wiki pages went stale in exactly the 2026-09-11 pattern (worked against an old copy) despite wiki_lint.py running, proving file storage alone doesn't solve the causal problem it's credited with solving"
+      ],
+      "evidence_needs": [
+        "The exact verb-level preconditions/gate on capability_novel_capture_claim (what must be true of a claim before it's written)",
+        "The literal text of Phase 7 in the knowledge-system-concept doc describing the NovelClaim-into-graph step and any stated gate before it fires",
+        "Whether Wiki/graph/edges.jsonl supports programmatic traversal (e.g., transitive contradiction/supersession resolution) or is purely a lint input"
+      ],
+      "unique_signal": "Points out that the predicate is not merely debatable but self-contradicting on the plan's own timeline (Phase 7 vs. D-W2) and already falsified by present graph state (existing NovelClaims), which neither a pure affirmation nor a pure both/neither reading would surface as sharply.",
+      "basis_label": "rejection",
+      "basis_explanation": "This is a rejection of the predicate's substance and causal logic, not a redefinition of its terms: it argues the 'single legal channel' claim is factually contradicted by the system's own already-operating capture_claim mechanism and its own Phase 7 roadmap, and that the drift-prevention rationale conflates storage medium with the actual failure mechanism (staleness/invalidation), making the file-only mandate both inaccurate as description and counterproductive as policy relative to the project's own stated provenance priorities.",
+      "replacement_predicate": "Wiki/**/*.md is the exclusive home for unverified research synthesis; a research claim may enter the graph before Canon-lock only via capability_novel_capture_claim once it has passed an explicit, named Wiki verification status, and full Wiki-page bodies are never copied into graph nodes regardless of status.",
+      "replacement_frame": "Reframe from a medium prohibition ('Wiki content never touches the graph') to an evidentiary-status gate ('unverified research claims live only in Wiki/, but a claim that has cleared a named, checkable verification step may be written to the graph via the existing capture_claim path — and that path, not a second D-xx-shaped ritual, is the one legal pre-canon door'). This keeps Rule 0's single-door intuition while matching what Phase 7 and the existing 220 NovelClaims already do.",
+      "internal_attack": [
+        "Steelman: capture_claim/NovelClaim could be a categorically distinct 'claim capture with citation, pending verification' channel, not 'Wiki content re-materialized' — a claim is not a synthesis page's prose, so no real contradiction exists between D-W2 and existing NovelClaim traffic",
+        "Steelman: Phase 7's 'verified T2 theory' language implies the T2 verification step functions as an equivalent-rigor gate to D-xx, so there's one contract (verify-then-graph) expressed through two mechanisms, not two doors",
+        "Weakness: this rejection leans heavily on inferring that edges.jsonl is 'graph-shaped' from a parenthetical description in the seed; if that file is actually a trivial flat list, the 'hand-rolled second graph' half of the argument loses most of its force",
+        "Weakness: even if the single-door claim is technically imprecise, the underlying goal (keep unverified research out of author-locked canon state) may still be achieved in practice by the domain-enum gate on capture_claim, making this a naming/precision objection dressed as a substantive one"
+      ],
+      "patched_claim": "",
+      "minimal_falsifiers": [
+        "D-W2's text itself explicitly reconciles with capture_claim, naming it as the sole sanctioned exception with its own gate — removing the 'undocumented second door' charge",
+        "Phase 7 is rewritten to gate its NovelClaim writes behind an explicit promotion decision rather than direct verification-triggered capture"
+      ],
+      "confidence_boundaries": [
+        "Strong where it points to a documented future action (Phase 7) that appears to conflict with the predicate's literal wording — this is a textual fact, not speculation",
+        "Weaker where it asserts the causal analogy to the 2026-09-11 failure, since that requires generalizing a specific incident to a medium-independent principle not explicitly stated in the source",
+        "Weakest where it characterizes edges.jsonl as a 'reinvented graph' without direct evidence of its query semantics"
+      ],
+      "unresolved_weaknesses": [
+        "Cannot confirm from the view alone whether NovelClaim capture is pre- or post- some Wiki-internal verification step, which is the crux distinguishing 'second door' from 'same door, different skin'",
+        "Cannot confirm the actual traversal/query capability of edges.jsonl, which is load-bearing for the 'reinvented graph in files' half of the case"
+      ],
+      "confidence_score": 0.6,
+      "still_valid": false,
+      "invalidity_reason": ""
+    },
+    "both": {
+      "mode": "both",
+      "core_claim": "Wiki *pages* (Wiki/**/*.md as document-objects — prose, structure, lifecycle status) are never re-materialized as graph nodes or edges (P holds), while Wiki-corpus-derived *claims* (atomic, source-cited, domain-typed propositions via capture_claim/NovelClaim) already are, and by Phase 7's own plan will continue to be, written into the graph as first-class nodes (not-P holds) — both fully true at once because 'Wiki content' in the D-W2 slogan conflates two disjoint ontological kinds that the existing verb contract already separates.",
+      "assumptions": [
+        "capture_claim's source_uri in all existing and Phase-7-planned calls points at Canon/ or Sources/ paths, never at a Wiki/*.md path",
+        "The NovelClaim schema has no field wide enough to hold full page-length prose — it is structurally atomic by design, not by convention alone",
+        "No tools/kpwiki/ script paraphrases a Wiki page's body into a claim's text field as an intermediate step"
+      ],
+      "strongest_case": "capture_claim's source_uri already resolves to Canon/Sources material, not to Wiki/*.md paths — the ~220 existing NovelClaims and the planned Phase-7 T2-claim writes are derived in parallel from the same immutable Sources/ layer that Wiki pages synthesize, not extracted from the Wiki pages themselves. So the graph is not holding a second, drifting copy of any Wiki page (the exact 2026-09-11 failure mode) — it holds a structurally different artifact (atomic claim: text+source_uri+domain, no 'canon' enum value, no page-shaped fields) built independently of the page layer. D-W2's own sub-predicate — 'graph nodes never embed or quote Wiki page bodies; Wiki pages reference graph ids by string only' — is precisely a page/claim fence, not a blanket claim-embargo, which is exactly what lets both directions of the split hold as stated rather than as a watered-down average.",
+      "scope_conditions": [
+        "Holds only as long as claim capture is sourced from Canon/Sources material and not from Wiki page bodies",
+        "Holds only under the current NovelClaim schema (atomic text+source_uri+domain, no page-shaped fields, no 'canon' domain value)",
+        "Does not itself adjudicate whether Wiki/graph/edges.jsonl counts as a second graph — that is a separate, still-open ontology question this split does not resolve"
+      ],
+      "falsifiers": [
+        "A script or DSPy program writes a Wiki page's body, or a close paraphrase of it, into any NovelClaim.text or other graph node field",
+        "capture_claim is invoked with source_uri set to a Wiki/*.md path instead of a Canon/ or Sources/ path",
+        "A new graph node type is introduced whose schema mirrors a Wiki page's structure (title + sections + status) rather than an atomic claim",
+        "Phase 7's T2-claim ingestion is implemented by dumping Wiki/concepts/*.md content directly into claims rather than re-deriving from Sources/"
+      ],
+      "evidence_needs": [
+        "Grep tools/kpwiki/*.py and any capture_claim call sites for source_uri values that are Wiki/ paths rather than Canon/Sources paths",
+        "Inspect the NovelClaim node schema in the graph driver for field width/shape constraints ruling out page-length content",
+        "Confirm Plan/wiki/knowledge-system-concept_2026-09-15.md explicitly names 'claim' and 'page' as separate artifact types (not just implied by capture_claim's pre-existing enum)"
+      ],
+      "unique_signal": "Resolves the apparent Phase-7 contradiction (view unknown #3) not by picking a side but by showing the existing capture_claim contract already encodes the exact page/claim type distinction needed — no new rule invention required, just naming what's already operative.",
+      "basis_label": "ontology_split",
+      "basis_explanation": "The split is between two disjoint object-kinds already implicit in the operating contract: (1) Wiki PAGE — a git-diffable, promotable, prose-length synthesis document living under Wiki/, and (2) CLAIM — an atomic, schema-closed proposition (text+source_uri+domain) recorded via capture_claim/NovelClaim, sourced from Canon/Sources directly and independent of any Wiki page's existence. P is scoped to kind (1); not-P is scoped to kind (2). Because the two kinds do not overlap in the current pipeline (no script turns a page body into claim text, no claim is embedded back into a page as graph-derived content), both universal statements — 'no page content ever enters the graph' and 'claim content from the corpus already enters, and is scheduled to keep entering, the graph' — are simultaneously and unconditionally true.",
+      "replacement_predicate": "",
+      "replacement_frame": "",
+      "internal_attack": [
+        "If claim `text` fields are ever filled by summarizing a Wiki page (rather than re-deriving from Sources/), the ontology split collapses into a distinction without a difference and the corner becomes a semantic dodge",
+        "The Wiki/graph/edges.jsonl relation ledger already models graph-shaped semantics (supports/extends/contradicts/supersedes/same_as/mentions) in file form — if that ledger's relations are later mirrored into the provenance graph's own edge types, the same collapse occurs from the other direction",
+        "Without a lint or CI check enforcing 'claim text ≠ page paraphrase,' this split is currently a convention the author trusts sessions to keep, not a mechanically guaranteed invariant — exactly the kind of unenforced boundary Rule 0 exists to distrust"
+      ],
+      "patched_claim": "D-W2, hardened: no script may write a Wiki PAGE's body (Wiki/**/*.md content, or a paraphrase materially derivable from one specific page) into any .agency/session.db node or edge field; graph nodes may only reference a Wiki page by path/id string. Independently, atomic CLAIMS (capture_claim/NovelClaim: text+source_uri+domain) extracted directly from Canon/ or Sources/ material remain a separate, already-sanctioned graph-native channel, unaffected by and compatible with Phase 7's planned T2-claim ingestion, provided their source_uri never resolves to a Wiki/ path.",
+      "minimal_falsifiers": [
+        "One NovelClaim.text field found to be a verbatim or near-verbatim excerpt of a Wiki page body",
+        "One capture_claim call found with source_uri pointing inside Wiki/"
+      ],
+      "confidence_boundaries": [
+        "This corner does not resolve whether Wiki/graph/edges.jsonl falls inside or outside 'the graph' D-W2 refers to — that is an orthogonal file-vs-graph-shape question, not a page-vs-claim one",
+        "This corner does not by itself supply the mechanically checkable CI lint the evaluation criteria ask for — it identifies where such a lint should be aimed (claim-text-vs-page-body similarity), not that one exists"
+      ],
+      "unresolved_weaknesses": [
+        "No existing script mechanically verifies that a NovelClaim's text is not a paraphrase of a Wiki page — the fence is currently observed by convention, not enforced by a check comparable to lint_chapter.py or check_enrichment.py",
+        "Wiki/graph/edges.jsonl is graph-shaped-in-files and its relationship to the D-W2 boundary is unresolved (an explicit unknown in the source view), which slightly undercuts the cleanliness of 'files vs. graph' as the operative line even though 'page vs. claim' survives it"
+      ],
+      "confidence_score": 0.64,
+      "still_valid": true,
+      "invalidity_reason": ""
+    },
+    "neither": {
+      "mode": "neither",
+      "core_claim": "Neither 'Wiki content lives only in files' nor 'Wiki content is also mirrored into the graph' can be truthfully asserted, because primary_predicate uses two conflated terms — 'the graph' and 'Wiki content' — each of which actually names at least two structurally different systems/acts. Until those are split, the predicate is not false or true, it is under-specified: any lint written straight off its text would either wrongly flag the already-operating capture_claim/NovelClaim channel as a violation, or silently need an unstated exception carved out of it, and either way the rule fails the evaluation_criteria's own demand for a mechanically checkable boundary.",
+      "assumptions": [
+        "The view's own unknowns list is representative of real ambiguity in the source documents, not an artifact of how this view was normalized.",
+        "A future lint/CI check is actually intended to enforce D-W2 mechanically (per evaluation_criteria), not just serve as a prose guideline nobody automates.",
+        "capture_claim's domain enum (no 'canon' value) was a deliberate design choice separating it from canon-graph writes, not an oversight."
+      ],
+      "strongest_case": "The view's own `unknowns` field independently surfaces three occurrences of the same conflation: (1) whether ~220 existing capture_claim writes 'count' as the second-home D-W2 forbids, (2) whether Wiki/graph/edges.jsonl — file-based but graph-shaped (supports/extends/contradicts/supersedes/same_as/mentions) — is 'the graph' or 'Wiki/', and (3) how Phase 7's explicit plan to push verified T2-theory NovelClaims into session.db is meant to coexist with a rule that currently reads as an absolute ban. Three independent readers of the same document could not agree on what 'the graph' refers to in each sentence of D-W2 as drafted — that is the signature of a category error, not a policy disagreement. No amount of choosing P over not-P repairs this; the repair has to happen one level up, in the term definitions.",
+      "scope_conditions": [
+        "Applies only while both a file-based Wiki/graph/edges.jsonl and a session.db provenance graph coexist in the repo — if edges.jsonl is later removed or merged into session.db, the category_error dissolves by construction.",
+        "Applies to the D-W2 decision as scoped in this view (Wiki/ vs. graph storage boundary for the 680-doc research corpus) — not a general claim about the rest of the knowledge-system architecture."
+      ],
+      "falsifiers": [
+        "If an existing, already-authoritative document explicitly defines 'the graph' project-wide to mean only session.db and explicitly places edges.jsonl inside 'Wiki/' terminology (not 'the graph'), the category_error claim about term (a) dissolves.",
+        "If D-W2's author confirms capture_claim/NovelClaim was always understood as outside D-W2's scope by design (not by oversight), the category_error claim about term (b) dissolves and this becomes a scope-clarification, not an ontology fix.",
+        "If in practice no session or script has ever conflated edges.jsonl with session.db, or ever mistakenly treated a capture_claim write as a D-W2 violation, the 'mechanically checkable boundary cannot be built' claim is empirically wrong."
+      ],
+      "evidence_needs": [
+        "Direct quote/grep of every occurrence of the word 'graph' in Plan/wiki/knowledge-system-concept_2026-09-15.md to check whether edges.jsonl and session.db are ever conflated in the source text itself.",
+        "The original D-W2 draft wording (if one already exists) to see whether it already anticipates the capture_claim channel or is silent on it.",
+        "Whether any prior session already wrote Wiki-derived content into session.db outside capture_claim, which would make this more than a hypothetical risk."
+      ],
+      "unique_signal": "Only this corner names the specific mechanism (two conflated referents for 'graph', two conflated acts under 're-materialized') that makes the affirmation/rejection/both corners each answer a different, private disambiguation of the predicate rather than the same question — which is why they can look mutually exclusive while each being locally defensible.",
+      "basis_label": "category_error",
+      "basis_explanation": "The predicate silently treats (a) '.agency/session.db' (immutable, author-locked, provenance-typed) and 'Wiki/graph/edges.jsonl' (mutable, LLM-maintained, git-diffable) as one category ('the graph'), and (b) 'raw/draft Wiki prose' and 'a verified, source-cited claim already promoted through capture_claim's own gate' as one category ('Wiki content... re-materialized'). Each pair differs on the exact axis the rule claims to control — mutability and author-lock status. Collapsing them is a category error, not a scope question (false_binary) or a vague objective (ill_posed_objective): the categories exist and are already distinguishable in the codebase, the predicate just fails to name them separately.",
+      "replacement_predicate": "Persistence is chosen per artifact-*kind*, not per-directory, across three explicitly named channels: (1) raw/draft Wiki prose (source excerpts, synthesis pages, open questions) persists exclusively as git-tracked Markdown under Wiki/**/*.md and is never duplicated as node/edge content in .agency/session.db; (2) Wiki/graph/edges.jsonl is a file-based, git-diffable relation index INTERNAL to the Wiki layer — it is explicitly not '.agency/session.db' and any future rule about 'the graph' must say which of the two it means; (3) the existing capture_claim/NovelClaim channel (domain enum, source_uri, verified-status) is the one sanctioned, already-operating path by which individual research claims — never whole Wiki pages or their prose — enter session.db, and Phase 7's planned T2-theory captures are an instance of this same channel, not a new exception to D-W2. Canon/*.md content becoming graph-recorded narrative fact still only happens via D-xx + /ingest — that door is unaffected and remains the only route from either Wiki/ or capture_claim material into author-locked canon status.",
+      "replacement_frame": "Replace the two-bucket frame ('files' vs. 'graph') with a three-channel frame keyed to artifact-kind and mutability: (draft prose → Wiki/*.md only) / (draft relations → edges.jsonl, Wiki-internal) / (verified individual claims → capture_claim into session.db, pre-existing and unaffected) / (author-settled canon fact → D-xx + /ingest into session.db, the sole terminal door). A lint can then check each channel's boundary independently instead of policing an ambiguous single word.",
+      "internal_attack": [
+        "Rebuttal: 'the graph' obviously means session.db to any competent reader in context — edges.jsonl is self-evidently a Wiki-internal artifact by its own path prefix, so no real reader confusion occurs and this corner manufactures ambiguity that doesn't practically exist.",
+        "Rebuttal: refusing to pick P or not-P by pointing at term ambiguity is itself a way to dodge the actual policy question the tetraframe was commissioned to force to a decision — the author wanted a yes/no on graph-mirroring, not a taxonomy essay.",
+        "Rebuttal: the apparent capture_claim conflict dissolves with a one-line scope carve-out ('D-W2 governs only whole-page Wiki content, not individually-extracted claims') — that is a two-word patch, not evidence the whole predicate needs re-ontologizing into three channels.",
+        "Rebuttal: introducing a third channel (edges.jsonl) adds a boundary to police that the two-bucket model didn't need, since edges.jsonl was never a graph-db candidate in anyone's mind — this corner may be solving a problem nobody had."
+      ],
+      "patched_claim": "",
+      "minimal_falsifiers": [
+        "A single sentence in knowledge-system-concept_2026-09-15.md or CLAUDE.md stating 'the graph' = session.db exclusively, with edges.jsonl named as Wiki-internal.",
+        "Author sign-off that capture_claim is explicitly out of D-W2's scope."
+      ],
+      "confidence_boundaries": [
+        "High confidence that the term 'the graph' is used inconsistently across the cited materials (directly evidenced by the unknowns list).",
+        "Moderate confidence that this inconsistency would actually cause a functional error (a wrongly-flagged lint, a genuinely misfiled write) rather than just reader confusion that a human would resolve correctly on sight.",
+        "Low confidence on whether the author would accept a three-channel model over a simpler one-line scope carve-out — both resolve the stated conflict, and Occam favors the simpler patch unless the boundary cases in unresolved_weaknesses actually bite in practice."
+      ],
+      "unresolved_weaknesses": [
+        "The replacement still leaves an undecided boundary case: a Wiki concept page containing an inline confidence/verification tag that starts to look claim-shaped — the three-channel model doesn't yet say at what point such a tag must be extracted via capture_claim rather than left as prose.",
+        "Splitting into three named channels increases the surface the author has to explicitly ratify (D-W2 now needs three clauses, not one), which is real decision cost even if each clause is individually easy.",
+        "This corner cannot itself prove the confusion is load-bearing (i.e., that it would actually cause a future session to misfile something) — it argues from documentary ambiguity, not from an observed incident yet."
+      ],
+      "confidence_score": 0.5,
+      "still_valid": true,
+      "invalidity_reason": ""
+    }
+  },
+  "cartography": {
+    "pairwise": [
+      {
+        "source": "P",
+        "target": "not-P",
+        "relation": "contradiction",
+        "rationale": "Source and target are the P and not-P corners of one tetraframe run and address the identical predicate (does the zero-rematerialization \"single legal door\" rule for Wiki content hold, given the existing capture_claim/NovelClaim channel and Phase 7's plan?). Source affirms it holds, treating capture_claim as a defined, compatible exception. Target denies it holds, treating the same capture_claim traffic as proof the \"single door\" description is already false and will remain false under Phase 7. Both draw on the same evidentiary facts (the ~220 existing writes, Phase 7's stated language, the 2026-09-11 drift incident, edges.jsonl) but reach mutually exclusive truth-value verdicts on the predicate as literally worded — this is a same-level logical negation, not a difference of scope, emphasis, or synthesis potential.",
+        "evidence_discriminator": "The dispute collapses to one checkable fact currently unresolved in either corner's evidence_needs: does `capability_novel_capture_claim` (and Phase 7's planned NovelClaim writes for \"verified T2 theory\") fire only after an explicit, named, D-xx-equivalent verification/gate step — making it one door wearing two skins (source's reading) — or does it fire directly off Wiki-internal verification status with no Canon-lock-equivalent rigor — making it a second, undocumented door (target's reading)? Pulling the literal Phase 7 text plus the actual precondition code/schema on `capture_claim`'s domain-enum gate would discriminate directly. A secondary, independent discriminator: inspecting `Wiki/graph/edges.jsonl`'s actual consumers — if it supports only flat lint-input reads (no transitive traversal/joins), the target's \"hand-rolled second graph\" charge loses force and the relation would soften toward the source's framing; if it supports relational resolution (e.g., transitive supersession chains queried programmatically), the target's charge is strengthened.",
+        "reversible": true
+      },
+      {
+        "source": "P",
+        "target": "both",
+        "relation": "complementarity",
+        "rationale": "Source and target assert the identical operative boundary (page-body content never graph-materialized; atomic source-cited claims already do and will keep entering the graph via capture_claim/NovelClaim) and share nearly the same falsifiers and unresolved weaknesses. They differ only in framing: source treats it as one predicate (P) with an embedded scope condition and a rebutted objection; target treats it as two disjoint ontological kinds whose separate universals (P for pages, not-P for claims) are both true, and uses that framing specifically to dissolve the apparent Phase-7 contradiction the source's own evidence_needs flags as unconfirmed. Because neither denies the other's substance and each supplies a nuance the other lacks (target's explicit source_uri-lineage requirement; source's explicit carve-out rebuttal), the two corners combine into a fuller account rather than competing — the hallmark of complementarity rather than opposition, contradiction, or paradox.",
+        "evidence_discriminator": "Audit every capture_claim/NovelClaim call site (existing ~220 writes and any Phase-7 T2-theory ingestion) for the `source_uri` value: if all resolve to Canon/ or Sources/ paths and no NovelClaim.text is a verbatim/high-overlap paraphrase of a specific Wiki/**/*.md page body, both corners' shared boundary holds and they remain complementary framings of one fact. If even one capture_claim call is found with `source_uri` pointing into Wiki/, or a claim's text traces to summarizing a Wiki page rather than Sources/Canon material, the target's ontology-split (its own `assumptions` list) breaks first and more visibly than the source's looser scope-condition wording — that asymmetry is the discriminating signal between the two framings.",
+        "reversible": true
+      },
+      {
+        "source": "P",
+        "target": "neither",
+        "relation": "dissolution",
+        "rationale": "Target does not contest source's factual claims about capture_claim's sanctioned status or the drift-mechanism analogy; it instead argues the P/not-P question is malformed because \"the graph\" and \"Wiki content re-materialized\" are each doing double duty for structurally distinct referents (session.db vs. edges.jsonl; draft prose vs. verified claim). This is a meta-level move relative to source's object-level affirmation — it reframes rather than negates, which is the defining signature of dissolution rather than opposition, contradiction, or paradox. Source's own wording (\"the .agency/session.db provenance graph,\" explicit capture_claim carve-out) shows the predicate can be tightened to survive much of target's charge, but source is silent on the edges.jsonl case, leaving target's core disambiguation demand only partially answered.",
+        "evidence_discriminator": "Grep every occurrence of \"graph\" in Plan/wiki/knowledge-system-concept_2026-09-15.md and CLAUDE.md: if the documents already and consistently use \"the graph\" to mean session.db exclusively (with edges.jsonl always referred to under a distinct name like \"Wiki/graph/edges.jsonl\" or \"relation index\"), then target's category_error charge for term (a) is unsupported and the relation collapses toward contradiction/block (target simply misreads an already-precise term). If instead \"graph\" is used loosely/interchangeably for both structures anywhere in the source materials or in a literal D-W2 draft, that confirms real term ambiguity and sustains dissolution as the correct relation.",
+        "reversible": false
+      },
+      {
+        "source": "not-P",
+        "target": "both",
+        "relation": "dissolution",
+        "rationale": "Source and target share the same load-bearing facts (existing capture_claim/NovelClaim traffic, Phase-7's planned continuation) but source uses them to declare D-W2's literal predicate false and in need of replacement, while target uses the identical facts to show the apparent P/not-P conflict is an equivocation between two disjoint object-kinds (Wiki pages vs. Wiki-corpus-derived claims) — once separated, both readings hold at once and no rejection is required. The target's `patched_claim` converges on nearly the same operative fix as the source's `replacement_predicate`, but arrives there by dissolving the tension rather than by falsifying and discarding the rule. That makes this a dissolution relation, not a straight contradiction or opposition, and not a simple complement of two non-overlapping observations.",
+        "evidence_discriminator": "Check whether capture_claim's `source_uri` — in the ~220 existing NovelClaims and in however Phase 7 is actually implemented — ever resolves to a `Wiki/*.md` path (or whether claim text is a paraphrase of a Wiki page body) versus always resolving to `Canon/`/`Sources/` material independent of any Wiki page. If claims are ever derived from Wiki pages themselves, the page/claim ontology split collapses and the source's flat-rejection reading is correct (real second door into \"Wiki content\"). If claims are structurally and empirically always sourced from Canon/Sources and never from Wiki page bodies, the target's dissolution holds: D-W2 is true for pages, and the claim channel was never actually inside its scope. Also check whether NovelClaim capture requires passing a Wiki-internal verification status equivalent in rigor to Canon-lock — if so, it's one gate wearing two faces, closing the \"second door\" framing either way.",
+        "reversible": false
+      },
+      {
+        "source": "not-P",
+        "target": "neither",
+        "relation": "dissolution",
+        "rationale": "Source and target share almost all their load-bearing evidence (capture_claim as an operating second channel, Phase 7's plan, edges.jsonl's graph-like relation set) and arrive at substantively similar repairs (name capture_claim as the sanctioned pre-canon exception). But source stays inside the P/not-P frame and answers \"false, reject and replace,\" while target explicitly steps outside that frame, arguing the predicate's key terms (\"the graph,\" \"Wiki content\") are conflated categories that make truth-evaluation impossible until disambiguated — and it says so by name, addressing exactly the move source makes (\"no amount of choosing P over not-P repairs this\"). That is dissolution, not contradiction or opposition: target isn't asserting the negation of source's claim, it's declaring the question source is answering ill-formed and relocating the fix to term-definition rather than verdict-choice.",
+        "evidence_discriminator": "Whether the underlying source text (Plan/wiki/knowledge-system-concept_2026-09-15.md, CLAUDE.md, and any existing D-W2 draft) uses \"the graph\" consistently to mean only `.agency/session.db` and treats `Wiki/graph/edges.jsonl` as unambiguously Wiki-internal. If a direct grep shows consistent, unambiguous usage, target's category-error diagnosis collapses and source's straightforward rejection stands unchallenged (the relation would flatten toward simple opposition/support-of-negation). If usage is inconsistent or the term is never pinned down across the cited documents, target's dissolution move is vindicated as the deeper-level diagnosis and source's rejection is subsumed by it.",
+        "reversible": false
+      },
+      {
+        "source": "both",
+        "target": "neither",
+        "relation": "paradox",
+        "rationale": "Source claims an unconditional, already-resolved split (page vs. claim) makes both P and not-P true at once; target claims no verdict is assertable because \"the graph\"/\"Wiki content\" hide *two* conflations, not one, and only one of the two (page vs. claim) is the one source addressed. Source's own stated scope_conditions and unresolved_weaknesses concede the second conflation (session.db vs. edges.jsonl) exactly as target frames it — so target's objection lands on ground source itself marked as untouched, without target being able to claim source's page/claim split is simply wrong. Neither corner can be dismissed by the other's evidence alone; each is correct about a different half of the same term problem, and their headline verdicts (\"both hold\" vs. \"nothing can be asserted\") remain formally incompatible until that shared gap (the graph-referent ambiguity) is closed. That is a paradox, not a flat contradiction (which would require one side's claim to directly negate the other's evidence) or a complementarity (which would require no friction between the two verdicts).",
+        "evidence_discriminator": "1) Grep every occurrence of the word \"graph\" in `Plan/wiki/knowledge-system-concept_2026-09-15.md` and `CLAUDE.md` to see whether `edges.jsonl` and `.agency/session.db` are ever used interchangeably in the operative text itself (resolves target's pair-(a) ambiguity directly). 2) Search `tools/kpwiki/*.py` and any logged `capture_claim` invocations for `source_uri` values — confirm none point at a `Wiki/*.md` path (source's stated falsifier) and confirm whether any script has ever written Wiki-derived relation data from `edges.jsonl` into `session.db` (target's falsifier for the \"no practical conflation\" claim). 3) AskUserQuestion to the author: was `capture_claim` always understood as outside D-W2's scope by design, and does \"the graph\" in D-W2 mean session.db exclusively? A clean \"yes\" on both collapses the paradox toward source (the remaining ambiguity turns out immaterial); evidence of an actual conflated write or an author admission of genuine ambiguity collapses it toward target.",
+        "reversible": true
+      }
+    ],
+    "contradiction_map": [
+      "P vs not-P: 'zero-rematerialization, single legal door' vs. 'capture_claim is already a second, operating door and Phase 7 extends it' — same predicate, opposite verdicts, turning on capture_claim's actual gate rigor."
+    ],
+    "complementarity_map": [
+      "P vs both: page-body embargo (shared) plus claim-granularity sanctioned channel (shared) combine into one fuller boundary description; they diverge only in whether it's stated as one predicate-with-carve-out (P) or as two named disjoint kinds (both), and both's naming resolves P's own open Phase-7 question."
+    ],
+    "paradox_map": [
+      "both vs neither: both's page/claim split is real but provably incomplete by both's own admission (session.db-vs-edges.jsonl referent ambiguity left open); neither's charge is real but cannot dislodge both's split — a genuine standoff pending a textual check neither corner has performed."
+    ],
+    "category_error_map": [
+      "'The graph' is used for two structurally different things without being distinguished: .agency/session.db (immutable, author-locked, provenance-typed) and Wiki/graph/edges.jsonl (mutable, LLM-maintained, git-diffable, Wiki-internal).",
+      "'Wiki content re-materialized' is used for two structurally different acts without being distinguished: copying a page's raw/draft prose vs. recording an already-verified, source-cited, gate-passed claim via capture_claim.",
+      "P, not-P, and both each silently commit to one reading of these overloaded terms and defend it consistently — which is why the three verdicts look mutually exclusive while each is locally defensible on its own chosen reading; only neither names the overload itself."
+    ],
+    "frame_validity_map": [
+      "The P/not-P binary ('is Wiki content rematerialized in the graph, yes or no') is valid only after 'the graph' and 'Wiki content' are each disambiguated; once disambiguated along the page/claim axis it resolves to both's simultaneous-truth reading rather than a single winner — so the binary is frame-invalid as originally posed but frame-valid once split.",
+      "The session.db-vs-edges.jsonl axis remains frame-unresolved: no corner has actually grepped the source documents to confirm which structure 'the graph' denotes in each usage, so this half of the frame-validity question is genuinely open, not settled by any corner's confidence_score."
+    ],
+    "discriminators": [
+      {
+        "discriminator": "Does capability_novel_capture_claim (and Phase 7's planned NovelClaim writes) fire only after an explicit, D-xx-equivalent verification/gate step, or directly off Wiki-internal status with no canon-lock-equivalent rigor?",
+        "corner_favors": "P/both if gated-equivalent (one door, two skins); not-P if ungated (genuine second door)",
+        "evidence_needed": "Phase 7's literal text plus the actual precondition/schema code behind capture_claim's domain-enum gate"
+      },
+      {
+        "discriminator": "Does Wiki/graph/edges.jsonl support only flat, lint-only reads, or real relational/transitive traversal (e.g., programmatic supersession-chain resolution)?",
+        "corner_favors": "P/both if flat (no 'reinvented graph' charge); not-P if relational (supports 'hand-rolled second graph')",
+        "evidence_needed": "Inspection of every consumer of Wiki/graph/edges.jsonl in tools/kpwiki/*.py and wiki_lint.py"
+      },
+      {
+        "discriminator": "Do all existing and Phase-7-planned capture_claim source_uri values resolve to Canon/ or Sources/ paths, never Wiki/*.md, and is no NovelClaim.text a paraphrase of a specific Wiki page body?",
+        "corner_favors": "both if true (ontology split holds intact); P and not-P collapse toward each other's stronger claims if false",
+        "evidence_needed": "Grep of tools/kpwiki/*.py and all graph-write call sites for source_uri values and claim-text provenance"
+      },
+      {
+        "discriminator": "Does 'the graph' in Plan/wiki/knowledge-system-concept_2026-09-15.md and CLAUDE.md consistently denote only .agency/session.db, with edges.jsonl always referred to under a distinct name?",
+        "corner_favors": "P/not-P/both (term already precise) if consistent; neither (genuine category error) if interchangeable/ambiguous",
+        "evidence_needed": "Exhaustive grep of every occurrence of 'graph' in the two named source documents"
+      },
+      {
+        "discriminator": "Author confirmation: was capture_claim always understood as outside D-W2's intended scope by design, and does 'the graph' in D-W2 mean session.db exclusively?",
+        "corner_favors": "P if by-design carve-out confirmed; not-P if described as an unresolved oversight; neither if the author's own usage is inconsistent",
+        "evidence_needed": "Direct AskUserQuestion to the author before D-W2 is finalized"
+      }
+    ],
+    "invariants": [
+      "capture_claim/NovelClaim is a real, already-operating mechanism (~220 instances) — disputed only in classification, not existence, across all four corners.",
+      "No corner's minimal_falsifiers has actually fired: no Wiki page body has been found copied verbatim/near-verbatim into any graph node field.",
+      "Phase 7's stated plan ('NovelClaims for verified T2 theory into the graph') is agreed-upon text across all corners — disputed only in what it implies about D-W2.",
+      "No mechanical CI/lint enforcing any version of D-W2 exists yet — all four corners flag this as an unresolved weakness of their own position.",
+      "The 2026-09-11 drift incident is treated as real, relevant evidence by all four corners — they disagree only on whether its lesson is medium-specific (files vs. graph) or discipline-specific (invalidation vs. staleness).",
+      "Rule 0 / AskUserQuestion / author sign-off is accepted by all four corners as the correct final arbiter — none claims authority to settle D-W2 itself."
+    ],
+    "reversible_implications": [
+      "P vs not-P's contradiction is reversible: new evidence about capture_claim's gate rigor or edges.jsonl's traversal semantics can flip the verdict in either direction.",
+      "P vs both's complementarity is reversible: if a capture_claim call is ever found sourced from a Wiki path, the complementary reading collapses back toward contradiction.",
+      "both vs neither's paradox is reversible: a single grep of 'graph' usage in the source docs, or an author answer, can collapse it cleanly toward either corner."
+    ],
+    "irreversible_implications": [
+      "P → neither's dissolution is asymmetric: once the term-conflation is accepted, P can no longer be treated as a complete object-level answer — it becomes a reading of one disambiguated term, not the whole predicate.",
+      "not-P → both's dissolution is asymmetric: once the page/claim ontology split is accepted, not-P's flat rejection cannot be restored to its original unqualified form — it survives only as the not-P half of a split, not as a standalone verdict.",
+      "not-P → neither's dissolution is asymmetric: once the question is recognized as term-ambiguous, not-P's 'reject and replace' move is superseded by a prior disambiguation step it did not perform."
+    ],
+    "structural_miss": [
+      {
+        "mode": "P",
+        "detects": "The categorical distinction between draft/exploratory Wiki prose and gate-passed, source-cited claims, and the fact that mirroring page bodies into new graph schema would reproduce the exact 2026-09-11 drift mechanism (an independently-mutable second copy of a layer that already has one canonical home)."
+      },
+      {
+        "mode": "not-P",
+        "detects": "That the 'single legal door' description is already empirically contradicted by ~220 live capture_claim writes and a Phase 7 roadmap extending the same pattern, and that mandating file-only storage does not, by itself, solve the staleness/invalidation problem the rule is justified by solving."
+      },
+      {
+        "mode": "both",
+        "detects": "That P and not-P are each locally correct about a different object-kind (page vs. claim), and that the apparent Phase-7 contradiction dissolves once that kind-distinction is named explicitly — without requiring either P or not-P to be declared the loser."
+      },
+      {
+        "mode": "neither",
+        "detects": "That the P/not-P/both disagreement is partly an artifact of two unresolved term-ambiguities ('the graph' and 'Wiki content re-materialized') that no corner has checked against the actual source text — making the predicate under-specified rather than settled by any single corner's verdict."
+      }
+    ],
+    "reconstructions": [
+      {
+        "mode": "P",
+        "fair_restatement": "Wiki page bodies (source summaries, concept pages, question pages, synthesis pages) are file-only, git-diffable, and never copied — verbatim or paraphrased — into any .agency/session.db node or edge. The only sanctioned pre-canon path from research material into the graph is the existing, differently-scoped capture_claim/NovelClaim channel operating at claim (not page) granularity; the only path into author-locked canon is D-xx + scripts/ingest_canon.py.",
+        "unsupported_premises": [
+          "That capture_claim's domain-enum gate is rigorous enough to be functionally equivalent to a canon-lock decision — inferred from its existing use, not confirmed against its actual precondition code.",
+          "That Wiki/graph/edges.jsonl's relation semantics (supports/contradicts/supersedes/same_as) don't constitute a second graph in the sense D-W2 targets — asserted rather than checked against its actual consumers."
+        ]
+      },
+      {
+        "mode": "not-P",
+        "fair_restatement": "The claim that Wiki-sourced research content has exactly one legal door into the graph is descriptively inaccurate today — capture_claim/NovelClaim is already a second, live door (~220 instances) — and will remain inaccurate under Phase 7's stated plan. The actual fix for the 2026-09-11 drift failure is re-validation/invalidation discipline, not a storage-medium prohibition; file-only storage has itself had to reinvent graph-shaped relation semantics (edges.jsonl) to compensate. D-W2 as literally worded should be replaced with one that names capture_claim as an explicit, gated exception.",
+        "unsupported_premises": [
+          "That the 2026-09-11 failure mode generalizes from 'a skill working against a stale Canon snapshot' to a medium-independent staleness principle — argued by analogy, not demonstrated from the incident report's own text.",
+          "That edges.jsonl is 'graph-shaped in everything but name' — inferred from a parenthetical relation-type list, not from inspecting whether it supports real traversal or joins."
+        ]
+      },
+      {
+        "mode": "both",
+        "fair_restatement": "The apparent P/not-P conflict dissolves once 'Wiki content' is split into two non-overlapping kinds: whole-page prose/structure (never enters the graph — P holds) and atomic, source-cited claims independently derived from Canon/Sources material (already enter the graph via capture_claim, and will keep doing so under Phase 7 — not-P holds). The existing verb contract already keeps these separate by construction: no script currently turns a Wiki page's body into claim text.",
+        "unsupported_premises": [
+          "That capture_claim's source_uri values, across all existing and future Phase-7 calls, in fact resolve only to Canon/Sources paths and never to Wiki/*.md — asserted as schema/convention fact, not verified by a grep of actual call sites.",
+          "That the NovelClaim schema is structurally incapable of holding page-length content 'by design, not convention' — inferred rather than confirmed against the graph driver's field constraints."
+        ]
+      },
+      {
+        "mode": "neither",
+        "fair_restatement": "The P/not-P question as posed is not yet truth-evaluable because it silently overloads two terms: 'the graph' (sometimes .agency/session.db, sometimes the file-based Wiki/graph/edges.jsonl) and 'Wiki content re-materialized' (sometimes raw draft prose, sometimes an already-verified capture_claim). A mechanical lint written straight off the predicate's current wording would either wrongly flag the sanctioned capture_claim channel or silently need an unstated exception; the predicate needs term-level disambiguation before it can be affirmed, rejected, or split.",
+        "unsupported_premises": [
+          "That this term-inconsistency is actually load-bearing — i.e., has caused or would cause a real misfiled write or wrongly-flagged lint — rather than being a documentary imprecision a human reader resolves correctly on sight.",
+          "That readers would genuinely disagree on referents, inferred from the view's own unknowns list rather than from an observed multi-reader disagreement."
+        ]
+      }
+    ],
+    "dissolution": [
+      "P → neither: neither does not contest P's facts about capture_claim's sanctioned status; it reframes the question as ill-formed because 'the graph' and 'Wiki content' each denote two referents — a meta-level move, not a negation of P's content.",
+      "not-P → both: both uses the same evidentiary facts not-P cites (capture_claim traffic, Phase 7 plan) to show the apparent falsification of D-W2 is an equivocation between page-content and claim-content; once terms are split, no rejection of the underlying rule is needed.",
+      "not-P → neither: neither explicitly steps outside the P/not-P frame that not-P stays inside, arguing the verdict not-P reaches answers a question that is currently ill-posed rather than negating a well-posed one."
+    ],
+    "transformation": [
+      "not-P's replacement_predicate converts the flat rejection into a positive, gated rule ('unverified research claims live only in Wiki/, but a claim that has cleared a named, checkable verification step may be written to the graph via the existing capture_claim path') — the object-level predicate survives, restated with an explicit gate, rather than being discarded outright.",
+      "both's patched_claim hardens P into two explicit clauses (page-body embargo + claim-channel carve-out with an explicit source_uri provenance requirement) — a refinement of the same predicate, not a dissolution of the underlying question.",
+      "neither's replacement_predicate transforms the single P/not-P binary into a three-channel model (draft prose in Wiki/ / Wiki-internal relations in edges.jsonl / verified claims via capture_claim / canon-locked facts via D-xx+ingest) keyed to artifact-kind and mutability — preserves the same underlying goal (keep unverified material out of author-locked graph state) while changing its structural shape from one boundary to three named ones."
+    ],
+    "arbiter_notes": "All four corners agree on the same underlying facts (capture_claim's ~220 live writes, Phase 7's stated plan, the 2026-09-11 incident, edges.jsonl's existence) and diverge only in how they classify and bound them — which is itself evidence that this is a definitional/architectural decision, not a factual dispute, and squarely the kind of contested case CLAUDE.md flags as requiring a tetraframe run before being recorded as a D-xx, with the run itself never deciding. Of the four, both's page/claim ontology split is the strongest currently-available synthesis because it is the only corner that reconciles P's file-only intuition with not-P's correct observation that capture_claim already writes to the graph, without requiring either side's evidence to be wrong — but both's own stated unresolved_weaknesses (no enforcement mechanism yet; edges.jsonl's boundary status unaddressed) mean it should be adopted only after neither's disambiguation checks are run, and refined toward neither's three-channel framing and not-P's explicit-gate wording rather than left as an unenforced convention. Concretely, before any D-W2 text is finalized: (1) grep every use of 'graph' in Plan/wiki/knowledge-system-concept_2026-09-15.md and CLAUDE.md; (2) grep tools/kpwiki/*.py and graph-write call sites for capture_claim source_uri values, confirming none point into Wiki/; (3) inspect Wiki/graph/edges.jsonl's actual consumers for traversal vs. flat-list semantics; (4) put the capture_claim-scope question to the author directly via AskUserQuestion, since Rule 0 governs exactly this kind of ambiguous-scope decision. No premise beyond what the four corners themselves already assert or flag as unsupported has been introduced here."
+  },
+  "transformed": {
+    "transformed_predicate": "Wiki/**/*.md (draft/exploratory source, concept, question and synthesis pages, plus the Wiki-internal relation ledger Wiki/graph/edges.jsonl) is the exclusive home for research-corpus *page-shaped* content: no script or verb ever copies a Wiki page's body, or a high-overlap paraphrase of one, into any .agency/session.db node or edge field, and no new graph node/edge type is minted to mirror a page's shape. Independently, and not in tension with that rule, atomic *claim-shaped* content — individual source-cited propositions captured via capability_novel_capture_claim / capture_idea, sourced directly from Canon/ or Sources/ material (never from a Wiki/ path) — is, and under Phase 7 will remain, a sanctioned, already-operating channel into .agency/session.db, gated by its existing domain-enum/source_uri contract. The sole door from either layer into author-locked Canon/graph narrative-fact status is an author-signed D-xx followed by scripts/ingest_canon.py; 'the graph' in this rule denotes .agency/session.db exclusively, and edges.jsonl is named explicitly as a distinct, Wiki-internal, file-based relation index, not a second graph.",
+    "transformed_frame": "Reframe from a single medium prohibition ('Wiki content never touches the graph', yes/no) to a two-axis boundary: an artifact-KIND axis (whole page vs. atomic claim) crossed with a STRUCTURE-NAME axis (session.db vs. edges.jsonl). P was answering 'page vs. graph' and was right; not-P was answering 'has research content already reached session.db' and was also right, because it was implicitly answering about claims, not pages. Once the two axes are named separately, the apparent contradiction between P and not-P was never about facts — both corners cited the same ~220 capture_claim writes and the same Phase 7 text — it was two corners each silently resolving the same overloaded sentence differently. P* replaces the slogan with a partition: pages stay file-only by construction (never a violation to reconcile away), claims keep using the door they already use (never a rule to be silently overridden by), and the two structures previously both called 'the graph' get distinct names so a lint can be aimed at the actual overlap risk (a claim's text tracking too closely to one specific page) instead of at the medium itself.",
+    "survivors_from_p": [
+      "No Wiki page body, verbatim or paraphrased, has ever been found copied into a graph node/edge field — this remains the actual, uncontested invariant, and the page-body embargo is retained as the operative rule, not diluted.",
+      "The 2026-09-11 drift-failure analogy is retained as the correct rationale for *that* embargo specifically (an independently-mutable second copy of page-shaped content drifting from its canonical home) — not stretched into a blanket 'graph bad, files good' argument, which not-P correctly showed doesn't hold at the claim-granularity.",
+      "D-xx + scripts/ingest_canon.py remains the sole, unambiguous door from Wiki/ into author-locked Canon/graph narrative-fact status — untouched by this reframing.",
+      "capture_claim/NovelClaim is retained as a sanctioned channel by design, not merely tolerated as an awkward exception — P's original framing of it as compatible turns out to be the correct reading once the kind-split is made explicit."
+    ],
+    "survivors_from_not_p": [
+      "The demand that the rule explicitly name and reconcile with the ~220 live capture_claim writes, rather than describe the architecture as having 'one legal door' while a second live channel operates — this is now structurally built into the predicate instead of left as an unstated carve-out.",
+      "Phase 7's plan to keep writing verified T2-theory NovelClaims into the graph is treated as expected and pre-endorsed by the rule, not as a future conflict to be resolved later — not-P's warning that a literal zero-tolerance wording would be falsified by the project's own roadmap is fully absorbed.",
+      "The causal correction that file-vs-graph storage medium alone does not solve staleness — re-validation/invalidation discipline does — is preserved by scoping the embargo specifically to *page-shaped* content rather than implying that writing to session.db is inherently unsafe.",
+      "The observation that edges.jsonl already reinvents graph-shaped relation semantics in file form is preserved as a live risk, not dismissed — carried forward into boundary_conditions and operational_tests rather than resolved by assertion."
+    ],
+    "hidden_structure_from_both": [
+      "The verb contract already enforces the page/claim split structurally: NovelClaim is schema-atomic (text+source_uri+domain, no page-shaped fields), so no existing script turns a Wiki page body into claim text — the split isn't aspirational, it's close to already-true.",
+      "capture_claim's source_uri, in every existing (~220) and Phase-7-planned invocation, is asserted to resolve to Canon/ or Sources/ material, never a Wiki/*.md path — meaning the graph never holds a claim *derived from* a Wiki page, only claims derived from the same upstream material a Wiki page also synthesizes.",
+      "This split lets Phase 7's planned T2-theory NovelClaim writes be read as a confirming instance of the existing channel rather than a looming exception that needs explaining away later."
+    ],
+    "dissolved_false_frame_from_neither": [
+      "'The graph' was treated as one referent when the corpus actually uses it for two structurally different things: .agency/session.db (immutable, author-locked, provenance-typed) and Wiki/graph/edges.jsonl (mutable, LLM-maintained, git-diffable, Wiki-internal). The P/not-P dispute partly evaporates once each sentence of D-W2 is pinned to one of the two.",
+      "'Wiki content re-materialized' was treated as one act when it actually covers two different acts: copying/paraphrasing a page's raw prose (the thing the 2026-09-11 drift analogy actually targets) versus recording an already-verified, source-cited, gate-passed atomic claim (capture_claim's actual operation). Collapsing these made P and not-P look like they were answering the same question when they were answering different halves of it.",
+      "The binary framing ('yes, Wiki content enters the graph' vs. 'no, it never does') is retired in favor of a per-artifact-kind rule, which is the only framing under which both cited fact-sets (zero page-body copies found; ~220 live claim writes) can be true without contradiction."
+    ],
+    "non_averaging_explanation": "P* is not a midpoint between 'nothing from Wiki ever touches the graph' and 'plenty already does, so the rule is false' — it is a re-partition of the predicate along an axis (page vs. claim) that both corners' own evidence already supported but that P and not-P each applied only to half the cases. P is kept at full strength for pages (zero embargo violations found, unweakened), and not-P is kept at full strength for claims (the live channel is named and endorsed, not apologized for or hedged). Nothing is split down the middle: the page-body embargo is exactly as strict as P wanted it, and the claim channel is exactly as unrestricted as not-P observed it already to be. What changed is precision, not strength — the two overloaded terms neither identified ('the graph', 're-materialized') are pinned to single referents so the same strict rule can be stated without contradicting the same permissive fact.",
+    "operational_tests": [
+      "Grep every occurrence of the word \"graph\" in Plan/wiki/knowledge-system-concept_2026-09-15.md and CLAUDE.md; confirm it is used to denote .agency/session.db exclusively, with edges.jsonl always referred to by a distinct name — if usage is inconsistent, the predicate's term-pinning needs to be written into the source docs, not just this decision.",
+      "Audit every existing and future capability_novel_capture_claim / capture_idea call site (tools/kpwiki/*.py once populated, plus the ~220 existing NovelClaims) for source_uri: PASS only if every value resolves to a Canon/ or Sources/ path; any Wiki/*.md source_uri is an immediate violation.",
+      "CI/lint: for every call_tool payload text going into a graph-write verb (capture_claim, capture_idea, create_codex_entry, any future create_*), run a text-overlap check (e.g. paragraph-level n-gram or embedding similarity above an explicit, documented threshold) against every Wiki/**/*.md page body; flag any high-overlap match as a probable page-body re-materialization rather than a distinct claim.",
+      "Inspect every consumer of Wiki/graph/edges.jsonl (wiki_lint.py and any DSPy program) to determine whether it supports only flat/lint-only reads or real relational/transitive traversal; document the finding explicitly in the D-W2 record so its status (Wiki-internal file structure, not a second graph) is settled rather than assumed.",
+      "AskUserQuestion to the author before finalizing D-W2: confirm capture_claim was always intended to be outside a page-embargo rule's scope, and confirm 'the graph' in that rule means session.db exclusively — per Rule 0, this is the kind of scope ambiguity that must be settled by the author, not inferred."
+    ],
+    "boundary_conditions": [
+      "Holds only as long as capture_claim/NovelClaim's source_uri values in practice resolve to Canon/ or Sources/ paths and never to Wiki/*.md — this is currently asserted, not yet mechanically verified.",
+      "Holds only under the current NovelClaim schema (atomic text+source_uri+domain, no page-shaped fields); if the schema is ever widened to accept longer free text, the structural argument for the split weakens and needs re-auditing.",
+      "Holds only while Wiki/graph/edges.jsonl remains a flat, lint-only relation list; if it grows real transitive/programmatic traversal semantics, it should be explicitly reclassified (named as a second graph-shaped structure) rather than silently left ambiguous.",
+      "Applies specifically to the Wiki/ vs. .agency/session.db boundary for the research-corpus layer — does not itself govern other repo layers (Codex/, Manuscript/, Legacy/) or resolve unrelated provenance questions.",
+      "Remains provisional (per CLAUDE.md's tetraframe mandate) until recorded as an author-signed D-xx with this operational specificity — this synthesis does not itself constitute that sign-off."
+    ],
+    "failure_modes": [
+      "The text-overlap/paraphrase threshold in the CI lint is either too loose (misses a genuine page-body copy reworded enough to slip through) or too tight (false-flags a legitimately independent claim that happens to echo page phrasing) — 'high-overlap paraphrase' is currently a judgment call, not a calibrated number, and needs a documented threshold plus test cases before it counts as mechanically checkable rather than aspirationally checkable.",
+      "A future tools/kpwiki/ script summarizes a Wiki page into a capture_claim call as a shortcut (e.g. 'just capture the page's conclusion as a claim') — structurally exactly what the split forbids, but nothing currently prevents an agent from doing it absent the lint existing.",
+      "edges.jsonl quietly accretes real relational query logic (e.g. a script starts resolving transitive supersession chains programmatically) without anyone re-classifying it, so the 'edges.jsonl is not a graph' half of the predicate becomes false by drift rather than decision — the same failure shape as the original 2026-09-11 incident, recurring one layer up.",
+      "The author's actual intent about capture_claim's scope (assumed here, not confirmed) turns out to differ from this reconstruction — e.g. they intended capture_claim itself to require a stronger Wiki-internal verification gate before firing, which would mean this synthesis under-specified the claim channel's own preconditions.",
+      "No enforcement exists yet for any version of this rule (true across all four original corners) — until the lint in operational_tests is actually written, compliance is discipline-based, and the rule could be silently violated in the gap between decision and implementation."
+    ],
+    "confidence": 0.72
+  },
+  "verification": {
+    "metrics": {
+      "branch_independence": {
+        "score": 1.0,
+        "rationale": "cross-references and residual overlap of incompatible corners",
+        "passed": true
+      },
+      "divergence_quality": {
+        "score": 0.929,
+        "rationale": "distinct claims and unique signals across incompatible corners",
+        "passed": true
+      },
+      "rigor_of_both": {
+        "score": 0.906,
+        "rationale": "heuristic: basis, co-holding, scope, falsifiers",
+        "passed": true
+      },
+      "rigor_of_neither": {
+        "score": 0.953,
+        "rationale": "heuristic: failure mode, replacement, diagnosis, falsifiers",
+        "passed": true
+      },
+      "contradiction_honesty": {
+        "score": 0.75,
+        "rationale": "explicit contradictions and discriminators kept",
+        "passed": true
+      },
+      "transformation_quality": {
+        "score": 1.0,
+        "rationale": "heuristic: survivors/dissolution present, no compromise text, low overlap",
+        "passed": true
+      },
+      "robustness": {
+        "score": 0.862,
+        "rationale": "boundary conditions, failure modes, reversibility, confidence",
+        "passed": true
+      },
+      "fake_novelty_risk": {
+        "score": 0.44,
+        "rationale": "P* terms supported by corners and cartography",
+        "passed": false
+      },
+      "slop_risk": {
+        "score": 0.82,
+        "rationale": "mush words and evidence specificity",
+        "passed": true
+      }
+    },
+    "aggregate": 0.851,
+    "retry_recommendations": []
+  },
+  "retries": []
+}

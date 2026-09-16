@@ -3,7 +3,9 @@
 Vendored from Hmbown/dspy-local ``dspy/clients/claude.py`` (MIT,
 docs/dspy-local-LICENSE.txt), adapted to import DSPy 3.2.1's ``BaseLM``
 instead of the fork's package layout. Apart from one robustness fix (``_prepare_call`` falls back to
-``DEFAULT_TIMEOUT_SECONDS`` when the kwarg was removed via ``copy(timeout_seconds=None)``),
+``DEFAULT_TIMEOUT_SECONDS`` when the kwarg was removed via ``copy(timeout_seconds=None)``)
+and one local extension (``stream=True`` routes calls through ``run_claude_cli_streaming``:
+``--output-format stream-json`` with a per-call progress log at ``log_path``),
 everything else is unchanged: prompts
 go to ``claude -p --output-format json`` with the system prompt passed via
 ``--system-prompt``, auth files are copied into an isolated HOME, and
@@ -15,12 +17,16 @@ programs and GEPA run on the Claude Code subscription without an API key
 from __future__ import annotations
 
 import asyncio
+import itertools
 import json
 import logging
 import os
 import shutil
 import subprocess
 import tempfile
+import threading
+import time
+from datetime import datetime, timezone
 from contextlib import contextmanager
 from dataclasses import asdict, dataclass
 from pathlib import Path
@@ -97,6 +103,46 @@ class ClaudeCallOptions:
     timeout_seconds: int
     permission_mode: str
     isolate_home: bool
+    stream: bool = True
+    log_path: str | None = None
+
+
+# --- local extension: streaming transport with a per-call log ---------------------
+_CALL_COUNTER = itertools.count(1)
+_LOG_LOCK = threading.Lock()
+PROGRESS_EVERY_SECONDS = 5.0
+
+
+def _log_line(log_path: str | None, text: str) -> None:
+    if not log_path:
+        return
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    with _LOG_LOCK:
+        path = Path(log_path)
+        path.parent.mkdir(parents=True, exist_ok=True)
+        with path.open("a", encoding="utf-8") as fh:
+            fh.write(f"{stamp} {text}\n")
+
+
+def consume_stream_line(line: str, state: dict[str, Any]) -> None:
+    """Fold one ``stream-json`` line into ``state``: text chars seen, the final result event."""
+    line = line.strip()
+    if not line:
+        return
+    try:
+        event = json.loads(line)
+    except json.JSONDecodeError:
+        state["unparsed"] = state.get("unparsed", 0) + 1
+        return
+    kind = event.get("type")
+    if kind == "stream_event":
+        delta = (event.get("event") or {}).get("delta") or {}
+        if delta.get("type") == "text_delta":
+            state["chars"] = state.get("chars", 0) + len(delta.get("text", ""))
+        elif delta.get("type") == "thinking_delta":
+            state["thinking_events"] = state.get("thinking_events", 0) + 1
+    elif kind == "result":
+        state["result"] = event
 
 
 _TEXT_CONTENT_TYPES = {None, "text", "input_text"}
@@ -353,15 +399,16 @@ def _build_claude_command(
     claude_model: str | None,
     permission_mode: str,
     system_prompt: str | None = None,
+    stream: bool = False,
 ) -> list[str]:
     cli = claude_cli_path()
     if not cli:
         raise ClaudeTransportError("claude CLI is not installed or not on PATH.")
+    output = ["--output-format", "stream-json", "--verbose", "--include-partial-messages"] if stream else ["--output-format", "json"]
     command = [
         cli,
         "-p",
-        "--output-format",
-        "json",
+        *output,
         "--permission-mode",
         permission_mode,
         "--no-session-persistence",
@@ -411,6 +458,89 @@ def run_claude_cli(
         usage=usage,
         session_id=session_id,
         stderr=completed.stderr,
+        resolved_model=resolved_model or claude_model,
+        cost_usd=cost_usd,
+    )
+
+
+def run_claude_cli_streaming(
+    *,
+    prompt: str,
+    repo_root: Path,
+    claude_model: str | None = None,
+    timeout_seconds: int = 120,
+    permission_mode: str = "plan",
+    isolate_home: bool = True,
+    system_prompt: str | None = None,
+    log_path: str | None = None,
+) -> ClaudeResult:
+    """Local extension: same contract as ``run_claude_cli`` but over ``stream-json``.
+
+    Every event line is folded into a small state as it arrives, a progress line is
+    appended to ``log_path`` at most every ``PROGRESS_EVERY_SECONDS``, and the final
+    ``result`` event (same shape as ``--output-format json``) is parsed as before.
+    A stalled call is therefore visible in the log within seconds, not at timeout.
+    """
+    command = _build_claude_command(
+        claude_model=claude_model,
+        permission_mode=permission_mode,
+        system_prompt=system_prompt,
+        stream=True,
+    )
+    command.append(prompt)
+    call_no = next(_CALL_COUNTER)
+    label = f"call={call_no} model={claude_model or 'default'}"
+    started = time.monotonic()
+    _log_line(log_path, f"{label} start prompt_chars={len(prompt)} system_chars={len(system_prompt or '')}")
+    state: dict[str, Any] = {"chars": 0}
+    stderr_chunks: list[str] = []
+
+    def _read(stream, sink):
+        last_progress = started
+        for raw in iter(stream.readline, ""):
+            if sink is None:
+                consume_stream_line(raw, state)
+                now = time.monotonic()
+                if now - last_progress >= PROGRESS_EVERY_SECONDS:
+                    _log_line(log_path, f"{label} progress chars={state.get('chars', 0)} elapsed={now - started:.0f}s")
+                    last_progress = now
+            else:
+                sink.append(raw)
+
+    with _claude_environment(isolate_home=isolate_home) as env:
+        proc = subprocess.Popen(
+            command, cwd=str(repo_root), stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, env=env,
+        )
+        readers = [threading.Thread(target=_read, args=(proc.stdout, None), daemon=True),
+                   threading.Thread(target=_read, args=(proc.stderr, stderr_chunks), daemon=True)]
+        for t in readers:
+            t.start()
+        try:
+            proc.wait(timeout=timeout_seconds)
+        except subprocess.TimeoutExpired:
+            proc.kill()
+            proc.wait()
+            _log_line(log_path, f"{label} timeout after {timeout_seconds}s chars={state.get('chars', 0)}")
+            raise
+        for t in readers:
+            t.join(timeout=5)
+
+    stderr_text = "".join(stderr_chunks)
+    if proc.returncode != 0:
+        _log_line(log_path, f"{label} error exit={proc.returncode} {stderr_text.strip()[:200]!r}")
+        raise ClaudeTransportError(stderr_text.strip() or f"claude exited with code {proc.returncode}.")
+    result_event = state.get("result")
+    if result_event is None:
+        _log_line(log_path, f"{label} error no result event (unparsed lines={state.get('unparsed', 0)})")
+        raise ClaudeTransportError("claude CLI stream ended without a result event.")
+    text, usage, session_id, resolved_model, cost_usd = _parse_claude_result(json.dumps(result_event))
+    _log_line(log_path, f"{label} end elapsed={time.monotonic() - started:.1f}s output_chars={len(text)} "
+                        f"tokens=in:{usage.get('prompt_tokens', 0)}/out:{usage.get('completion_tokens', 0)} cost={cost_usd}")
+    return ClaudeResult(
+        content=text,
+        usage=usage,
+        session_id=session_id,
+        stderr=stderr_text,
         resolved_model=resolved_model or claude_model,
         cost_usd=cost_usd,
     )
@@ -474,8 +604,21 @@ def run_claude(
     permission_mode: str = "plan",
     isolate_home: bool = True,
     system_prompt: str | None = None,
+    stream: bool = False,
+    log_path: str | None = None,
 ) -> ClaudeResult:
     spec = parse_claude_model(model)
+    if stream:
+        return run_claude_cli_streaming(
+            prompt=prompt,
+            repo_root=repo_root,
+            claude_model=spec.claude_model,
+            timeout_seconds=timeout_seconds,
+            permission_mode=permission_mode,
+            isolate_home=isolate_home,
+            system_prompt=system_prompt,
+            log_path=log_path,
+        )
     return run_claude_cli(
         prompt=prompt,
         repo_root=repo_root,
@@ -540,6 +683,8 @@ class ClaudeLM(BaseLM):
         temperature: float | None = None,
         max_tokens: int | None = None,
         cache: bool = False,
+        stream: bool = True,
+        log_path: str | None = None,
         **kwargs: Any,
     ) -> None:
         super().__init__(
@@ -554,6 +699,8 @@ class ClaudeLM(BaseLM):
         self.repo_root = Path(repo_root).resolve()
         self.permission_mode = permission_mode
         self.isolate_home = isolate_home
+        self.stream = stream            # local extension: stream-json transport with a call log
+        self.log_path = log_path
         self.model_spec = parse_claude_model(model)
         self._validate_runtime_kwargs(dict(self.kwargs), cache=self.cache)
         self.kwargs = self._canonicalize_kwargs(self.kwargs)
@@ -566,7 +713,7 @@ class ClaudeLM(BaseLM):
             errors.append(_UNSUPPORTED_KWARG_MESSAGES["cache"])
 
         for key, value in kwargs.items():
-            if key in {"timeout_seconds", "permission_mode", "isolate_home"}:
+            if key in {"timeout_seconds", "permission_mode", "isolate_home", "stream", "log_path"}:
                 continue
             if key == "temperature":
                 if value is not None:
@@ -645,6 +792,8 @@ class ClaudeLM(BaseLM):
         cache_value = call_kwargs.pop("cache", self.cache)
         permission_mode = str(call_kwargs.pop("permission_mode", self.permission_mode))
         isolate_home = bool(call_kwargs.pop("isolate_home", self.isolate_home))
+        stream = bool(call_kwargs.pop("stream", self.stream))
+        log_path = call_kwargs.pop("log_path", self.log_path)
         merged_kwargs = {**self.kwargs, **call_kwargs}
         self._validate_runtime_kwargs(dict(merged_kwargs), cache=bool(cache_value))
         timeout = merged_kwargs.pop("timeout_seconds", None)
@@ -656,6 +805,8 @@ class ClaudeLM(BaseLM):
             timeout_seconds=timeout_seconds,
             permission_mode=permission_mode,
             isolate_home=isolate_home,
+            stream=stream,
+            log_path=log_path,
         )
 
     def _record_usage(self, usage: dict[str, Any]) -> None:
@@ -691,6 +842,8 @@ class ClaudeLM(BaseLM):
             permission_mode=options.permission_mode,
             isolate_home=options.isolate_home,
             system_prompt=options.system_prompt or None,
+            stream=options.stream,
+            log_path=options.log_path,
         )
         return self._to_response(result)
 

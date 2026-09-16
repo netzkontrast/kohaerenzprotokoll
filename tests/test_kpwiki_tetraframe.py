@@ -100,3 +100,53 @@ def test_transform_reward_penalises_compromise():
     assert tm.transform_reward({}, good) == 1.0
     bad_frame = fixture_run().transformed.model_copy(update={"transformed_frame": "split the difference"})
     assert tm.transform_reward({}, dspy.Prediction(frame=bad_frame)) == 0.6
+
+
+def test_forward_accepts_stage_checkpoints_and_cli_dumps_them():
+    import inspect
+    from tools.kpwiki import tetraframe_cli as cli
+
+    assert "on_stage" in inspect.signature(tf.TetraFrame.forward).parameters
+    run = fixture_run()
+    dumped = cli._dump({"corners": run.corners, "pairwise": [run.cartography.pairwise[0]] if run.cartography.pairwise else [], "n": 1})
+    assert isinstance(dumped["corners"]["P"], dict) and dumped["corners"]["P"]["core_claim"] == run.corners["P"].core_claim
+    assert dumped["n"] == 1
+
+
+def test_cli_out_must_be_inside_repo_and_checkpoints_are_atomic(tmp_path):
+    from tools.kpwiki import tetraframe_cli as cli
+
+    assert cli.resolve_out("Plan/decisions/tetraframe/x.json") == cli.ROOT / "Plan/decisions/tetraframe/x.json"
+    for bad in ("/tmp/x.json", "../x.json", str(cli.ROOT.parent / "x.json")):
+        with pytest.raises(SystemExit):
+            cli.resolve_out(bad)
+    target = tmp_path / "run.json"
+    cli.write_atomic(target, "{}")
+    cli.write_atomic(target, "{\"n\": 2}")
+    assert target.read_text() == "{\"n\": 2}" and list(tmp_path.iterdir()) == [target]   # no temp files left behind
+
+
+def test_corners_and_pairwise_run_in_parallel_threads(monkeypatch):
+    import threading, time
+
+    program = tf.TetraFrame(max_workers=4)
+    run = fixture_run()
+    seen: set[int] = set()
+
+    def fake_corner(self, mode, view, rollout, base=None):
+        seen.add(threading.get_ident()); time.sleep(0.05)
+        return run.corners[mode]
+
+    monkeypatch.setattr(tf.TetraFrame, "_one_corner", fake_corner)
+    corners = program._corners(run.distilled, run.selection, retries=[])
+    assert set(corners) == set(tf.MODES) and len(seen) >= 2
+
+    class FakeRelate:
+        def __call__(self, source, target):
+            seen.add(threading.get_ident()); time.sleep(0.05)
+            return type("R", (), {"relation": "opposition", "rationale": f"{source.mode} vs {target.mode}",
+                                  "evidence_discriminator": "", "reversible": False})()
+
+    program.relate = FakeRelate()
+    pairwise = program._pairwise(corners)
+    assert [(r.source, r.target) for r in pairwise] == list(tf.PAIRS) and len(seen) >= 2

@@ -16,6 +16,8 @@ and the GEPA metric returns ``dspy.Prediction``.
 from __future__ import annotations
 
 import hashlib
+from concurrent.futures import ThreadPoolExecutor
+from contextlib import nullcontext
 from typing import Literal
 
 import dspy
@@ -31,6 +33,8 @@ RelationType = Literal["opposition", "contradiction", "complementarity", "parado
                        "dissolution", "transformation", "support", "block"]
 INCOMPATIBLE_PAIRS: tuple[tuple[CornerMode, CornerMode], ...] = (("P", "not-P"), ("P", "neither"), ("not-P", "neither"))
 CORNER_TEMPERATURES = {"P": 0.7, "not-P": 0.85, "both": 0.9, "neither": 0.9}
+PAIRS: tuple[tuple[CornerMode, CornerMode], ...] = (("P", "not-P"), ("P", "both"), ("P", "neither"),
+                                                     ("not-P", "both"), ("not-P", "neither"), ("both", "neither"))
 CORNER_CONTRACTS = {
     "P": "Strongest clean affirmation of the predicate. No compromise, no mention of other corners.",
     "not-P": "Strongest clean rejection, inversion or dismantling of the predicate. No mere surface negation.",
@@ -327,7 +331,10 @@ def seed_digest(seed: str) -> int:
 class TetraFrame(dspy.Module):
     """Distill → select predicate → four isolated corners → map → transform → verify."""
 
-    def __init__(self, max_corner_attempts: int = 2, n_best: int = 3, transform_threshold: float = 0.84):
+    def __init__(self, max_corner_attempts: int = 2, n_best: int = 3, transform_threshold: float = 0.84,
+                 relate_lm=None, max_workers: int = 4):
+        """``relate_lm``: a cheaper LM for the six pairwise relations (a worker model);
+        ``max_workers``: corners and pairwise relations run in parallel threads."""
         super().__init__()
         from .tetraframe_metric import transform_reward
 
@@ -342,16 +349,18 @@ class TetraFrame(dspy.Module):
         self.transform = dspy.BestOfN(module=dspy.ChainOfThought(TransformFrame), N=n_best,
                                       reward_fn=transform_reward, threshold=transform_threshold)
         self.max_corner_attempts = max_corner_attempts
+        self.relate_lm = relate_lm
+        self.max_workers = max(1, int(max_workers))
 
     def _generator(self, mode: CornerMode):
         return {"P": self.corner_p, "not-P": self.corner_not_p, "both": self.corner_both,
                 "neither": self.corner_neither}[mode]
 
-    def _one_corner(self, mode: CornerMode, view: CornerView, rollout: int) -> Corner:
+    def _one_corner(self, mode: CornerMode, view: CornerView, rollout: int, base=None) -> Corner:
         from .tetraframe_metric import assert_isolation
 
         assert_isolation(view)
-        base = self.corner_p.get_lm() or dspy.settings.lm
+        base = base or self.corner_p.get_lm() or dspy.settings.lm
         with dspy.context(lm=base.copy(rollout_id=rollout, temperature=CORNER_TEMPERATURES[mode])):
             corner = self._generator(mode)(view=view).corner
         corner.mode = mode
@@ -361,34 +370,59 @@ class TetraFrame(dspy.Module):
         from .tetraframe_metric import near_duplicates
 
         base_rollout = seed_digest(distilled.normalized_seed)
-        corners = {m: self._one_corner(m, make_view(distilled, selection, m), base_rollout) for m in MODES}
-        for attempt in range(1, self.max_corner_attempts):
-            dupes = near_duplicates(corners, distilled.normalized_seed)
-            if not dupes:
-                break
-            for left, right, sim in dupes:
-                retries.append(f"attempt {attempt}: {left} ~ {right} (similarity {sim:.2f}); regenerated with stronger hints")
-                for mode in (left, right):
-                    hint = ANTI_COLLAPSE_HINTS[mode] + " Your previous draft duplicated another corner; diverge in substance."
-                    corners[mode] = self._one_corner(mode, make_view(distilled, selection, mode, hint), base_rollout + attempt)
+        base = self.corner_p.get_lm() or dspy.settings.lm      # resolved on the calling thread
+        with ThreadPoolExecutor(max_workers=self.max_workers) as pool:
+            drafts = pool.map(lambda m: self._one_corner(m, make_view(distilled, selection, m), base_rollout, base), MODES)
+            corners = dict(zip(MODES, drafts))
+            for attempt in range(1, self.max_corner_attempts):
+                dupes = near_duplicates(corners, distilled.normalized_seed)
+                if not dupes:
+                    break
+                redo: list[CornerMode] = []
+                for left, right, sim in dupes:
+                    retries.append(f"attempt {attempt}: {left} ~ {right} (similarity {sim:.2f}); regenerated with stronger hints")
+                    redo += [m for m in (left, right) if m not in redo]
+                hinted = {m: make_view(distilled, selection, m, ANTI_COLLAPSE_HINTS[m]
+                                       + " Your previous draft duplicated another corner; diverge in substance.") for m in redo}
+                for mode, corner in zip(redo, pool.map(lambda m: self._one_corner(m, hinted[m], base_rollout + attempt, base), redo)):
+                    corners[mode] = corner
         return corners
 
-    def forward(self, seed: str, context: str = "") -> dspy.Prediction:
+    def _pairwise(self, corners: dict[str, Corner]) -> list[PairRelation]:
+        """The six corner pairs, related in parallel on the worker LM when one is configured."""
+        lm_scope = (lambda: dspy.context(lm=self.relate_lm)) if self.relate_lm is not None else nullcontext
+
+        def relate(pair):
+            a, b = pair
+            with lm_scope():
+                r = self.relate(source=corners[a], target=corners[b])
+            return PairRelation(source=a, target=b, relation=r.relation, rationale=r.rationale,
+                                evidence_discriminator=r.evidence_discriminator, reversible=bool(r.reversible))
+
+        with ThreadPoolExecutor(max_workers=self.max_workers) as pool:
+            return list(pool.map(relate, PAIRS))
+
+    def forward(self, seed: str, context: str = "", on_stage=None) -> dspy.Prediction:
+        """``on_stage(name, payload)`` is called after every completed stage so a caller can
+        checkpoint; a stage that fails (timeout, parse error) then loses only itself."""
         from .tetraframe_metric import verify_run
 
+        stage = on_stage or (lambda name, payload: None)
         retries: list[str] = []
         distilled = self.distill(seed=seed, context=context).distilled
+        stage("distilled", distilled)
         selection = self.select(distilled=distilled).selection
+        stage("selection", selection)
         corners = self._corners(distilled, selection, retries)
-        pairwise = []
-        for a, b in (("P", "not-P"), ("P", "both"), ("P", "neither"), ("not-P", "both"), ("not-P", "neither"), ("both", "neither")):
-            r = self.relate(source=corners[a], target=corners[b])
-            pairwise.append(PairRelation(source=a, target=b, relation=r.relation, rationale=r.rationale,
-                                         evidence_discriminator=r.evidence_discriminator, reversible=bool(r.reversible)))
+        stage("corners", corners)
+        pairwise = self._pairwise(corners)
+        stage("pairwise", pairwise)
         cartography = self.map(corners=list(corners.values()), pairwise=pairwise).cartography
         cartography.pairwise = pairwise
+        stage("cartography", cartography)
         frame = self.transform(primary_predicate=selection.primary.text, corners=list(corners.values()),
                                cartography=cartography, evaluation_criteria=distilled.evaluation_criteria).frame
+        stage("transformed", frame)
         run = TetraFrameRun(seed=seed, distilled=distilled, selection=selection, corners=corners,
                             cartography=cartography, transformed=frame, retries=retries)
         run.verification = verify_run(run)

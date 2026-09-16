@@ -18,6 +18,13 @@ Two backends (``KP_LM_BACKEND``):
                  ``claude-cli`` when a ``claude`` binary is on PATH, else ``api``
                  (so a missing key fails at first call, loudly, not at import).
 
+``KP_LM_CLI_LOG`` (default ``.cache/kpwiki/cli.log``) receives one line per call
+start, progress (every 5 s) and end, with elapsed time and tokens; ``KP_LM_CLI_CWD``
+(default a scratch directory under the system temp dir) is the CLI's working
+directory, kept outside the repo so no project hook runs per call.
+``KP_LM_CLI_TIMEOUT`` (seconds, default 1800) bounds one CLI call; a stage that
+returns a large typed object on ``claude/opus`` was measured above 300 s, so the
+default is generous and a run is bounded by its caller, not by this value.
 The CLI backend strips ``temperature``, ``max_tokens`` and ``rollout_id`` (the
 CLI does not expose them) and must run with ``cache=False``; programs that
 rely on ``lm.copy(rollout_id=…)`` for diversity (TetraFrame corners) get it
@@ -34,6 +41,7 @@ from __future__ import annotations
 
 import os
 import shutil
+import tempfile
 import warnings
 from pathlib import Path
 
@@ -54,7 +62,7 @@ ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_CACHE_DIR = ROOT / ".cache" / "dspy"
 REFLECTION_MAX_TOKENS = 32000
 TASK_MAX_TOKENS = 16000
-CLI_TIMEOUT_SECONDS = 300
+CLI_TIMEOUT_SECONDS = 1800         # 30 min per CLI call by default; KP_LM_CLI_TIMEOUT overrides
 
 
 def _check_role(role: str) -> None:
@@ -105,7 +113,13 @@ def _build_cli_lm(role: str) -> dspy.LM:
 
     # No temperature / max_tokens: the CLI rejects them; cache must stay off
     # because the CLI has no deterministic sampling to cache against.
-    return ClaudeLM(model_id(role), repo_root=ROOT, timeout_seconds=CLI_TIMEOUT_SECONDS, cache=False)
+    timeout = int(os.environ.get("KP_LM_CLI_TIMEOUT", CLI_TIMEOUT_SECONDS))
+    # The CLI runs in a scratch directory outside the repo so the repo's SessionStart
+    # hooks do not fire on every call; HOME is isolated by ClaudeLM itself.
+    cwd = Path(os.environ.get("KP_LM_CLI_CWD") or Path(tempfile.gettempdir()) / "kpwiki-cli-cwd")
+    cwd.mkdir(parents=True, exist_ok=True)
+    log_path = os.environ.get("KP_LM_CLI_LOG") or str(ROOT / ".cache" / "kpwiki" / "cli.log")
+    return ClaudeLM(model_id(role), repo_root=cwd, timeout_seconds=timeout, cache=False, log_path=log_path)
 
 
 def build_lm(role: str) -> dspy.LM:

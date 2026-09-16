@@ -101,8 +101,20 @@ What the CLI backend cannot do, and what that means for the programs:
 | no `temperature`, `max_tokens`, `rollout_id` (stripped in `copy()`, rejected in the constructor) | `TetraFrame` corner diversity comes from the four contract docstrings only — read `branch_independence` strictly; GEPA's `reflection_lm` runs at the CLI's default temperature |
 | `cache=False` is mandatory | no `DSPY_CACHEDIR` hits; re-runs cost a call each; keep gold sets small and use `dspy.Evaluate(num_threads=1)` |
 | one completion per call (`n=1`) | `dspy.BestOfN` / `dspy.Refine` still work (they loop), just slower |
-| ~5–10 s latency per call, sequential | budget: a `SourceIngest` run ≈ 3 calls; a `TetraFrame` run ≈ 8 + BestOfN retries; GEPA `auto="light"` on 20 examples ≈ a few hundred calls → run it in the background and set `max_metric_calls` |
+| ~5–10 s latency per short call, minutes for a large typed output; one call is bounded by `KP_LM_CLI_TIMEOUT` (default 1800 s) | budget: a `SourceIngest` run ≈ 3 calls; a `TetraFrame` run ≈ 8 + BestOfN retries; GEPA `auto="light"` on 20 examples ≈ a few hundred calls → run it in the background and set `max_metric_calls` |
 | the CLI's `plan` permission mode | the model cannot execute tools; pure text in, text out — exactly what DSPy needs |
+
+Runtime knobs (all env, all optional): `KP_LM_CLI_TIMEOUT` (per-call bound,
+default 1800 s), `KP_LM_CLI_LOG` (one line per call start / progress every 5 s /
+end with elapsed time and tokens; default `.cache/kpwiki/cli.log`, the
+`/tetraframe` CLI points it at `.cache/kpwiki/tetraframe/<slug>.log`),
+`KP_LM_CLI_CWD` (the CLI's working directory, a scratch directory outside the
+repo by default so no project hook runs per call). Calls stream over
+`--output-format stream-json`, so a stalled call is visible in the log within
+seconds. The CLI tolerates concurrent processes: three calls launched together
+finish in the wall time of one, which `TetraFrame` uses for its four corners
+and six pairwise relations (`--workers`, default 4; relations run on the
+`worker` model).
 
 GEPA through the CLI: `configure("task")` for the program,
 `build_lm("reflection")` as `reflection_lm`, `worker` for LM judges via
