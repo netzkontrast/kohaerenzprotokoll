@@ -124,3 +124,29 @@ def test_cli_out_must_be_inside_repo_and_checkpoints_are_atomic(tmp_path):
     cli.write_atomic(target, "{}")
     cli.write_atomic(target, "{\"n\": 2}")
     assert target.read_text() == "{\"n\": 2}" and list(tmp_path.iterdir()) == [target]   # no temp files left behind
+
+
+def test_corners_and_pairwise_run_in_parallel_threads(monkeypatch):
+    import threading, time
+
+    program = tf.TetraFrame(max_workers=4)
+    run = fixture_run()
+    seen: set[int] = set()
+
+    def fake_corner(self, mode, view, rollout, base=None):
+        seen.add(threading.get_ident()); time.sleep(0.05)
+        return run.corners[mode]
+
+    monkeypatch.setattr(tf.TetraFrame, "_one_corner", fake_corner)
+    corners = program._corners(run.distilled, run.selection, retries=[])
+    assert set(corners) == set(tf.MODES) and len(seen) >= 2
+
+    class FakeRelate:
+        def __call__(self, source, target):
+            seen.add(threading.get_ident()); time.sleep(0.05)
+            return type("R", (), {"relation": "opposition", "rationale": f"{source.mode} vs {target.mode}",
+                                  "evidence_discriminator": "", "reversible": False})()
+
+    program.relate = FakeRelate()
+    pairwise = program._pairwise(corners)
+    assert [(r.source, r.target) for r in pairwise] == list(tf.PAIRS) and len(seen) >= 2

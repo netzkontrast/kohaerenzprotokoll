@@ -24,6 +24,7 @@ Thumbs.db
 # DSPy base (scripts/setup_dspy.sh) — venv, LM cache, optimizer logs, eval runs
 .venv-dspy/
 .cache/dspy/
+.cache/kpwiki/
 tools/kpwiki/gepa_logs/
 tools/kpwiki/eval_runs/
 

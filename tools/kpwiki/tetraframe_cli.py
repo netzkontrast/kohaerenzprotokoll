@@ -83,6 +83,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--context-file", action="append", default=[], help="repo-relative file to attach as context")
     parser.add_argument("--out", default="", help="write the run artefact (JSON) here")
     parser.add_argument("--dry-run", action="store_true", help="assemble inputs only, no LM call")
+    parser.add_argument("--workers", type=int, default=4, help="parallel threads for corners and pairwise relations")
     args = parser.parse_args(argv)
 
     context = load_context(args.context_file)
@@ -91,7 +92,10 @@ def main(argv: list[str] | None = None) -> int:
                          ensure_ascii=False, indent=2))
         return 0
     out = resolve_out(args.out) if args.out else None
+    if out:
+        os.environ.setdefault("KP_LM_CLI_LOG", str(ROOT / ".cache" / "kpwiki" / "tetraframe" / (out.stem + ".log")))
     lm.configure("task")
+    print(f"call log: {os.environ.get('KP_LM_CLI_LOG', '(none)')}", flush=True)
     partial_path = out.with_name(out.name + ".partial.json") if out else None
     stages: dict = {"seed": args.seed, "complete": False, "stages": {}}
 
@@ -102,7 +106,8 @@ def main(argv: list[str] | None = None) -> int:
         write_atomic(partial_path, json.dumps(stages, ensure_ascii=False, indent=2))
         print(f"checkpoint: {name} -> {partial_path.relative_to(ROOT)}", flush=True)
 
-    run = TetraFrame()(seed=args.seed, context=context, on_stage=checkpoint).run
+    program = TetraFrame(relate_lm=lm.build_lm("worker"), max_workers=args.workers)
+    run = program(seed=args.seed, context=context, on_stage=checkpoint).run
     if out:
         write_atomic(out, run.model_dump_json(indent=2))
         if partial_path and partial_path.exists():

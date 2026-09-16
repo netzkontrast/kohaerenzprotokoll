@@ -90,3 +90,31 @@ def test_cli_timeout_is_env_configurable(monkeypatch):
     monkeypatch.setenv("KP_LM_BACKEND", "claude-cli")
     monkeypatch.setenv("KP_LM_CLI_TIMEOUT", "900")
     assert lm.build_lm("task")._prepare_call(prompt="x", messages=None, kwargs={}).timeout_seconds == 900
+
+
+def test_cli_lm_runs_outside_the_repo_with_a_call_log(monkeypatch, tmp_path):
+    monkeypatch.setenv("KP_LM_BACKEND", "claude-cli")
+    monkeypatch.setenv("KP_LM_CLI_CWD", str(tmp_path / "cwd"))
+    monkeypatch.setenv("KP_LM_CLI_LOG", str(tmp_path / "cli.log"))
+    built = lm.build_lm("worker")
+    assert built.repo_root == (tmp_path / "cwd").resolve() and built.repo_root.is_dir()
+    assert built.stream is True and built.log_path == str(tmp_path / "cli.log")
+    options = built._prepare_call(prompt="x", messages=None, kwargs={"stream": False})
+    assert options.stream is False and options.log_path == str(tmp_path / "cli.log")
+
+
+def test_stream_lines_fold_into_text_chars_and_result():
+    from tools.kpwiki.local_lm import consume_stream_line
+
+    state = {"chars": 0}
+    for line in (
+        '{"type":"system","subtype":"init"}',
+        '{"type":"stream_event","event":{"type":"content_block_delta","delta":{"type":"thinking_delta","thinking":"…"}}}',
+        '{"type":"stream_event","event":{"type":"content_block_delta","delta":{"type":"text_delta","text":"Blau "}}}',
+        '{"type":"stream_event","event":{"type":"content_block_delta","delta":{"type":"text_delta","text":"und Rot."}}}',
+        "not json",
+        '{"type":"result","subtype":"success","result":"Blau und Rot.","usage":{"input_tokens":2,"output_tokens":5},"total_cost_usd":0.001}',
+    ):
+        consume_stream_line(line, state)
+    assert state["chars"] == len("Blau und Rot.") and state["thinking_events"] == 1 and state["unparsed"] == 1
+    assert state["result"]["result"] == "Blau und Rot."
