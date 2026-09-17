@@ -363,6 +363,46 @@ it:
   whole mechanism: without it, the next extraction starts blind and repeats the
   failure this step exists to prevent.
 
+## The ceiling: two readers of one document agree at F1 0.66
+
+**Measured 2026-09-17, and it is the number every later score has to be read
+against.** Two independent readings of
+`orte-konzept-fuer-kohaerenz-protokoll` — same document, same process, neither
+seeing the other — produced candidate lists of **131 and 113**. Compared by this
+project's own `fold()`:
+
+| | |
+|---|--:|
+| shared | **80** |
+| only in the first | 51 |
+| only in the second | 33 |
+| precision / recall / F1 | 0.71 / 0.61 / **0.66** |
+
+A second pair, on `roman-lokalitaeten-konzept-und-ausarbeitung`, produced **109
+against 143** candidates and one of the two raised a conflict the other did not
+see at all.
+
+**So „the model scored 0.7 against the gold list" says almost nothing on its own,
+because a careful reader scores 0.66 against another careful reader.** A single
+candidate list is one reading, not the truth, and a metric that treats it as
+truth is measuring agreement with one person and calling it accuracy.
+
+What follows:
+
+- **A miss is not automatically an error and an invention is not automatically
+  wrong.** Both directions need looking at, which is why `rlm_ingest.py --score`
+  prints the two difference lists by name rather than only the number.
+- **A model at 0.66 is at the human ceiling**, not at „two thirds right". A model
+  clearly *above* it would be suspicious — most likely fitted to one reader.
+- **The gold set should be the union of independent readings, with disagreements
+  kept**, not one list declared canonical. Nothing is built for that yet, and it
+  is the honest shape.
+
+This is also the first hard evidence for why the census is frozen before the wiki
+is consulted: if a second reader sees a third of the candidates differently, then
+an accumulated wiki whispering „look for these" would not be a help, it would
+decide the outcome.
+
 ## What stays judgement
 
 - **Whether a descriptor is a term.** `Kontrollinstanz` appears 3 times and
