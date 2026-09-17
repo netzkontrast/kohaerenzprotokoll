@@ -1,0 +1,168 @@
+written_by: a reader, while reading, before any count
+
+# Candidates — kohaerenz-protokoll-konzept
+
+Written while reading, before any count. One `- term` per line.
+
+- Seelen-Kohärenz-Protokoll
+- Blueprint V5
+- Michael
+- Dissoziative Identitätsstörung
+- DID
+- Guardians
+- Seele = Information
+- Seele=Info
+- Systemfehler
+- Datenkorruption
+- Julia
+- externe Ebene
+- Qualia
+- nicht-lokale Phänomene
+- Kohärenz
+- Datenintegration
+- Datenpunkte
+- Systemwächter
+- Systemhütern
+- Personas
+- Architekt
+- Echo
+- Partnerin
+- Alters
+- Alter
+- Sechs Ebenen der Realität
+- Überwelt
+- Heldinnenreise
+- Murdock
+- Heldenreise
+- Campbell
+- Stabilisierung
+- Traumabearbeitung
+- Integration
+- funktionale Multiplizität
+- Neuorientierung
+- Kernpersönlichkeit
+- Leitprinzipien
+- Identität & Fragmentierung
+- Bewusstwerdung
+- Co-Bewusstsein
+- Integrationsversagen
+- strukturelle Dissoziation
+- Depersonalisation
+- Derealisation
+- Risse
+- Wissen/Epistemologie
+- transzendentes Wissen
+- Trauma & Heilung
+- ISSTD
+- Verbindung
+- Bewusstseinsverschränkung
+- nicht-lokale Verschränkung
+- nicht-lokales Bewusstsein
+- Ethik
+- Persönlichkeitsanteile
+- Protektoren
+- Protector
+- Persecutoren
+- Persecutor
+- Kind-Anteile
+- dissoziative Intrusionen
+- Amnesie
+- Glitches
+- Datenfehler
+- Datenkohärenz
+- ontologischer Konflikt
+- Host
+- Apparently Normal Part
+- ANP
+- Kern
+- Wächter
+- Schatten
+- Leo
+- Der Archivar
+- Gatekeeper
+- Memory Holder
+- EP
+- Funke
+- Internal Self-Helper
+- ISH
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Kairos/Sophia
+- Protokolle zur Datensynchronisation
+- Algorithmen zur Emotionsdämpfung
+- Module zur Verhaltenskorrektur
+- Logische Kohärenz-Analysatoren
+- Daten-Synchronisator
+- Emotions-Dämpfer
+- Verhaltens-Korrektor
+- Kohärenz-Analysator
+- Kind
+- Beobachter
+- Vogel
+- Welt 1: Die Zerbrochene Stadt
+- Welt 2: Der Ewige Spielplatz
+- Das Starre Puppenhaus
+- Welt 3: Die Zitadelle der Wacht
+- Welt 4: Die Endlose Bibliothek
+- Das Masken-Theater
+- Ebene 5
+- Ebene 6
+- Nexuspunkt
+- Brücke
+- Avatar
+- Trauma-Loop
+- Flashback
+- Alter Intrusion
+- Switch
+- ANP/EP-Modell
+- Emotional Parts
+- Fragmente
+- Trauma-Korruption
+- Systeminstabilität
+- Systemgrenzen
+- Systemparametern
+- Systemregeln
+- Systemalarme
+- Systemanomalie
+- Datenstrom
+- Netzwerkarchitektur
+- Informationslandschaft
+- Informationskonstrukt
+- Reparaturdrohnen
+- Quarantänezonen
+- Narrativer Rahmen
+- Psychologischer Rahmen
+- Inhaltlicher Fokus
+- Pacing
+- Ordinary World
+- Crossing the Threshold
+- Road of Trials
+- Innermost Cave
+- Ordeal
+- Reward
+- Road Back
+- Resurrection
+- Freedom to Live
+- Kontrollzentrum
+- Innenwelt
+- Headspace
+- hard problem of consciousness
+- Kerntrauma
+- Kern-Trauma
+- Genre-Mix
+- Symptommanagement
+- Zeitverlust
+
+## Observations (not candidates, filtered out)
+
+- The four Guardian "Werkzeuge" are named twice with different surface forms in the same document: as noun phrases at L151-154 (Protokolle zur Datensynchronisation, Algorithmen zur Emotionsdämpfung, Module zur Verhaltenskorrektur, Logische Kohärenz-Analysatoren), and as compact compound names at L344 (Daten-Synchronisator, Emotions-Dämpfer, Verhaltens-Korrektor, Kohärenz-Analysator). Same four tools, two namings, a merge candidate the count should surface rather than something folded silently while reading.
+- The document's own summary table, L106-121, assigns Welt 1 to two different alters under two different labels for the same world: "Welt 1 (Zerbrochene Stadt)" for the Persecutor row, and "Welt 1 (Trauma-Loop)" for the Memory Holder row. "Trauma-Loop" never appears as a world name in the prose of section VI, only in the table cell.
+- "Kern" compounds into at least three unrelated concepts that must not be folded into one term: Kernkonzept and Kernthema are document-structuring, not candidates; Kernpersönlichkeit is a psychological model the document explicitly rejects, at L109 and L158; Kerntrauma and Kern-Trauma name a plot beat, at L282, L303, L363, L365.
+- Seele=Info and Seele = Information are the document's own shorthand for the Guardians' paradigm, occurring 13 times, and every one of the 13 sits inside quotation marks; only the first, at L17, uses the German typographic „..." mark, the other 12 use a straight ASCII quote, which reads as export damage rather than an inconsistency in how the document itself marks the phrase.
+- Fragmente, at L341, is Guardian vocabulary for what the rest of the document calls Alters, a naming difference the document attributes to the Guardians' perspective rather than a synonym it uses itself elsewhere.
+- Personas, named as Architekt and Echo, and Partnerin at L31 are named only to say they are being replaced by DID or Michael and by Julia respectively, an occurrence inside a described supersession rather than a reading of a term this document defines on its own terms.
+- Chapter-by-chapter plot beats in section VIII, such as Der Erste Riss or Der Unfreiwillige Schwellenübertritt, were read but not listed as separate candidates, because they are scene labels inside a synopsis rather than terms the document is defining, and listing all forty-one of them would be exhaustiveness without selection.
+- Ontologischer Konflikt is proposed here in the nominative as a reader would first think of it, but the document only ever writes it as the capitalised heading "Ontologischer Konflikt" or inflected as "des ontologischen Konflikts", never as the lowercase nominative phrase the candidate list carries, so a plain count against this exact string reads zero though the concept is a named heading, VII.

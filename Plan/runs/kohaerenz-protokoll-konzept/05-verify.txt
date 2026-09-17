@@ -1,0 +1,117 @@
+# 05-verify -- every number that goes into prose, re-run
+# document: kohaerenz-protokoll-konzept
+# date: 2026-09-17
+
+## body words (scripts/profile.py)
+$ python3 scripts/profile.py kohaerenz-protokoll-konzept | grep "body words"
+  body words           10653
+
+## candidate count (04-counts.txt header, after cleanup of the observations block)
+$ head -1 Plan/runs/kohaerenz-protokoll-konzept/04-counts.txt
+# counts for 151 candidates
+
+## Guardians -- standalone == compound (no inflected form found)
+$ grep "^  Guardians " Plan/runs/kohaerenz-protokoll-konzept/04-counts.txt
+  Guardians                        85 word    85 in   [17, 19, 29, 31, 39, 41]
+
+## Michael -- standalone vs incl. compounds, and the compound breakdown
+$ grep -A4 "^  Michael " Plan/runs/kohaerenz-protokoll-konzept/04-counts.txt
+  Michael                          87 word   148 in   [...]
+                                   58      as Michaels
+                                    1      as Michael-Julia-Verbindung
+                                    1      as Michael-Julia-Dynamik
+                                    1      as Michael-Julia
+
+## Julia -- standalone vs incl. compounds
+$ grep -A3 "^  Julia " Plan/runs/kohaerenz-protokoll-konzept/04-counts.txt
+  Julia                            52 word    72 in   [...]
+                                   15      as Julias
+                                    1      as Julia-Verbindung
+                                    1      as Julia-Krise
+
+## Risse -- standalone vs incl. compounds
+$ grep -A1 "^  Risse " Plan/runs/kohaerenz-protokoll-konzept/04-counts.txt
+  Risse                            25 word    27 in   [...]
+                                    2      as Rissen
+
+## Seele=Info / Seele = Information -- total occurrences and quote-mark form
+$ grep -oE "Seele.{0,3}=.{0,3}Info[a-zäöü]*" Sources/drive/kohaerenz-protokoll-konzept.md | wc -l
+13
+$ grep -c "„Seele" Sources/drive/kohaerenz-protokoll-konzept.md
+1
+$ grep -oE "\"Seele=Info" Sources/drive/kohaerenz-protokoll-konzept.md | wc -l
+12
+-> all 13 occurrences sit inside a quote mark; only the first (L17) uses the
+   German typographic „..." mark, the other 12 use a straight ASCII quote.
+
+## the four Guardian tools, named twice with two different phrasings
+$ sed -n '151,154p' Sources/drive/kohaerenz-protokoll-konzept.md
+  - *Protokolle zur Datensynchronisation:* ...
+  - *Algorithmen zur Emotionsdämpfung:* ...
+  - *Module zur Verhaltenskorrektur:* ...
+  - *Logische Kohärenz-Analysatoren:* ...
+$ sed -n '344p' Sources/drive/kohaerenz-protokoll-konzept.md
+4.  **Die Werkzeuge der Logik:** ... (z.B. Daten-Synchronisator,
+Emotions-Dämpfer, Verhaltens-Korrektor, Kohärenz-Analysator), ...
+-> same four tools, two namings, neither cross-referencing the other.
+
+## the Alter-Archetypen table assigns Welt 1 two different labels
+$ sed -n '117p;120p' Sources/drive/kohaerenz-protokoll-konzept.md
+| "Schatten" | Persecutor | ... | Welt 1 (Zerbrochene Stadt) | ... |
+| (Namenlos/Gefühl) | Memory Holder (EP) | ... | Welt 1 (Trauma-Loop) | ... |
+-> "Trauma-Loop" does not occur anywhere else in the document (04-counts.txt:
+   Trauma-Loop 1 word / 1 in, at L120 only).
+
+## the "ca. 13 Punkte pro Teil" claim at L321, against the actual per-Teil count
+$ sed -n '321p' Sources/drive/kohaerenz-protokoll-konzept.md
+Diese Gliederung skizziert die Handlungspunkte für jeden der drei Teile
+(ca. 13 Punkte pro Teil), ...
+$ sed -n '325,337p' Sources/drive/kohaerenz-protokoll-konzept.md | grep -c "^[0-9]\+\."
+13
+$ sed -n '339,353p' Sources/drive/kohaerenz-protokoll-konzept.md | grep -c "^[0-9]\+\."
+13
+$ sed -n '355,371p' Sources/drive/kohaerenz-protokoll-konzept.md | grep -c "^[0-9]\+\."
+15
+-> Teil 1 and Teil 2 hold exactly 13 points each; Teil 3 holds 15. The "ca. 13
+   pro Teil" claim overshoots Teil 3 by two, and the document does not flag it
+   the way it flags its own Teil-IV-sample note in a later document. 13+13+15
+   = 41 plot points total.
+
+## question marks -- how many sit in the dedicated "Offene Fragen" section
+$ python3 scripts/profile.py kohaerenz-protokoll-konzept | grep "question marks"
+  question marks       38
+$ awk 'NR>=389 && NR<=413' Sources/drive/kohaerenz-protokoll-konzept.md | grep -o "?" | wc -l
+13
+-> 25 of the 38 question marks sit outside section X, mostly as rhetorical
+   questions inside the thematic exposition of section III/IV (e.g. L60-L65,
+   L82-L84) rather than in the section that names itself "open questions".
+
+## hedging markers, a subset (not the full list `duplicates.py`-style would use)
+$ for w in möglicherweise vielleicht könnte könnten wahrscheinlich potenziell; do
+    grep -oiE "$w" Sources/drive/kohaerenz-protokoll-konzept.md | wc -l; done
+möglicherweise: 13
+vielleicht: 10
+könnte: 10
+könnten: 3
+wahrscheinlich: 2
+potenziell: 10
+-> 48 instances across these six markers alone in 10653 words, concentrated in
+   the Julia/externe-Ebene passages (V, VI) and section X. This is a subset,
+   not the exhaustive hedging count roman-lokalitaeten-konzept-und-ausarbeitung
+   used (which also counted `vermutlich`, found 0 here); reported as a lower
+   bound, not a comparison across documents.
+
+## zero-count candidates, and why (all inflection or case, not absence)
+$ grep -E "0 word     0 in   \[\]" Plan/runs/kohaerenz-protokoll-konzept/04-counts.txt
+  nicht-lokale Phänomene            0 word     0 in   []
+  strukturelle Dissoziation         0 word     0 in   []
+  nicht-lokale Verschränkung        0 word     0 in   []
+  nicht-lokales Bewusstsein         0 word     0 in   []
+  ontologischer Konflikt            0 word     0 in   []
+-> checked by hand against the document: L19 has "nicht-lokalen Phänomenen"
+   (dative plural), L59 has "strukturellen Dissoziation" (genitive, twice),
+   L92 has "nicht-lokaler Verschränkung" (genitive), L232/L385 have
+   "nicht-lokalen Bewusstseins" / "nicht-lokalem Bewusstsein" (genitive/dative),
+   and L89 has the capitalised heading "Ontologischer Konflikt" plus the
+   inflected "des ontologischen Konflikts" at L90. Every one is present, none
+   in the nominative singular form the candidate list proposed.
