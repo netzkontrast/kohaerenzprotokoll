@@ -164,16 +164,29 @@ def account_order() -> dict:
                                          f"reconciliation had already reached {seen}"})
         seen = max(seen, pages)
 
+    # The wiki is always larger than the state the newest reconciliation *started*
+    # from -- that reconciliation is what grew it. Comparing against state_before
+    # therefore reports a violation after every successful run, which is a check
+    # that is always red and so teaches nothing. What must match is the state the
+    # run *left*, when the record says.
     index = build_index()
-    latest = max((r["state_before"]["pages"] for r in done), default=0)
-    if index["pages"] != latest and done:
-        last = max(done, key=lambda r: r["state_before"]["pages"])["document"]
-        violations.append({
-            "document": "(wiki)", "kind": "state-moved-since",
-            "detail": f"the wiki holds {index['pages']} pages; the newest reconciliation "
-                      f"({last}) ran against {latest}. Anything reconciled next must use "
-                      f"{index['pages']}.",
-        })
+    if done:
+        last = max(done, key=lambda r: r["state_before"]["pages"])
+        record = runs / last["document"] / "reconcile.json"
+        after = json.loads(record.read_text(encoding="utf-8")).get("state_after")
+        if after is None:
+            violations.append({
+                "document": last["document"], "kind": "no-state-after",
+                "detail": "the newest reconciliation does not record the state it left, "
+                          "so nothing can check whether the wiki has moved since.",
+            })
+        elif after["pages"] != index["pages"]:
+            violations.append({
+                "document": "(wiki)", "kind": "state-moved-since",
+                "detail": f"the wiki holds {index['pages']} pages; the newest reconciliation "
+                          f"({last['document']}) left it at {after['pages']}. Pages changed "
+                          f"outside a reconciliation, or one was not recorded.",
+            })
 
     return {
         "subject": {"kind": "order", "id": "pipeline"},

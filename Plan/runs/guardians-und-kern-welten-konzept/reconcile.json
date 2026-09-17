@@ -1,0 +1,138 @@
+{
+  "document": "guardians-und-kern-welten-konzept",
+  "drive_id": "15q_z6xZLPOcULTVb45H-hI9Yg2hHA6GxiAKWzD49VFg",
+  "step": "reconcile",
+  "at": "2026-09-17",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 32,
+    "conflicts": 3
+  },
+  "state_after": {
+    "pages": 46,
+    "conflicts": 4
+  },
+  "supersedes": {
+    "record": "Wiki/compare/reconcile-04-guardians-und-kern-welten-konzept.md",
+    "why": "that run compared against 32 pages of wiki state but recorded 14 — the state document 1 left — while document 3 had already taken it to 24 and then 32. account.py order flagged it as [not-reconciled] and [state-moved-since]."
+  },
+  "pre_classification": {
+    "candidates_before_folding": 22,
+    "same_surface_groups": 3,
+    "candidates": 19,
+    "decided_by_lookup": 15,
+    "needs_judgement": 4
+  },
+  "new_terms": [
+    "logos",
+    "mnemosyne",
+    "cerberus",
+    "kairos",
+    "sophia",
+    "konstrukt-stadt",
+    "resonanz-landschaft",
+    "grenzfeste",
+    "moeglichkeits-garten",
+    "partnerin",
+    "nexus",
+    "ueberraum",
+    "kohaerenz-programm",
+    "personas"
+  ],
+  "new_readings": [
+    {
+      "page": "guardians",
+      "lines": [
+        15,
+        96,
+        117,
+        135,
+        137
+      ],
+      "attribution": "finding",
+      "note": "from a role in a subordinate clause to five named bearers with nine fields each"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        36,
+        61,
+        86,
+        125
+      ],
+      "attribution": "finding",
+      "note": "four named worlds with their own physics; the page held zero readings across two documents"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        39,
+        64,
+        89,
+        128
+      ],
+      "attribution": "finding",
+      "note": "four manifestations, each the world's own principle turned against itself"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        28,
+        53,
+        78,
+        105,
+        117,
+        137
+      ],
+      "attribution": "finding",
+      "note": "second bearer; the document types the failures three ways itself"
+    }
+  ],
+  "new_surfaces": [
+    {
+      "surface": "Überraum",
+      "page": "ueberraum",
+      "judgement": "J18",
+      "decision": "open — kept as its own page, cross-referenced with nexus, not merged"
+    },
+    {
+      "surface": "Die Konstrukt-Stadt / Die Grenzfeste / Die Resonanz-Landschaft",
+      "page": "konstrukt-stadt, grenzfeste, resonanz-landschaft",
+      "judgement": "J19",
+      "decision": "one term each — folded by the definite-article rule"
+    },
+    {
+      "surface": "Nexus-Vorstufe",
+      "page": "moeglichkeits-garten",
+      "judgement": "J14",
+      "decision": "alias — a slash in a heading is not a term boundary"
+    }
+  ],
+  "new_conflicts": [
+    {
+      "id": "C4",
+      "subject": "Guardians",
+      "why": "the blind spot has two bearers and neither document mentions the other's; AEGIS occurs zero times here",
+      "names_next_document": "aegis-subplots-kapitelweise-system-exploration"
+    }
+  ],
+  "judgements": [
+    "J14",
+    "J15",
+    "J16",
+    "J17",
+    "J18",
+    "J19"
+  ],
+  "not_promoted": [
+    "Hüter — German for Guardian, used in the framing text only; an alias question, not a term",
+    "Philosophen-Modus / Forscher-Modus / Magier-Modus — an external framework referenced as known, never defined here",
+    "Das Seelen-Kohärenz-Protokoll — the novel's title, not a term of the fiction (J17)"
+  ],
+  "found_by_rule_not_by_census": [
+    {
+      "rule": "attribution",
+      "finding": "one (laut User Query: …) marker at L117 and one (Anmerkung: …) at L96; the census saw neither, correctly, because a census may not carry knowledge from another document"
+    }
+  ]
+}

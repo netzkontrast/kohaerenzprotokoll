@@ -1,7 +1,8 @@
 ---
 step: reconcile
 census: Sources/terms/guardians-und-kern-welten-konzept.md
-state_before: 14 pages
+state_before: 14 pages   # WRONG — see superseded_by
+superseded_by: Wiki/compare/reconcile-05-guardians-und-kern-welten-konzept.md
 reconciled: "2026-09-16"
 new_terms: 13
 new_readings: 3
@@ -10,6 +11,17 @@ new_conflicts: 1
 ---
 
 # Reconcile — `guardians-und-kern-welten-konzept` against the wiki
+
+> **SUPERSEDED. This run compared against the wrong wiki state.**
+>
+> It reconciled against **14 pages** — the state document 1 left — while
+> document 3 had already taken the wiki to 24 and then 32. Nothing enforced the
+> ordering, so nothing noticed; `scripts/account.py order` was written
+> afterwards and reported it as `[not-reconciled]` and `[state-moved-since]`.
+>
+> Kept unedited below, because a record of a wrong run is how the check that
+> catches it gets justified. The real reconciliation, against 32 pages, is
+> `reconcile-05-guardians-und-kern-welten-konzept.md`.
 
 **The first reconciliation rather than a re-comparison.** The census was frozen
 before these pages were opened; nothing here changed what was extracted.
