@@ -234,10 +234,23 @@ right is the author's call, never the page's.
 with file and line. `scripts/corpus.py` cannot: its index holds capitalised
 tokens only, and anything else falls back to reading all 409 files.
 
-```bash
-export PATH="$PWD/.tools-node/node_modules/.bin:$PATH"
-qmd search "blinder Fleck kategoriale Unfähigkeit" -c sources -n 6
+```python
+from qmd import search
+for hit in search("blinder Fleck kategoriale Unfähigkeit", collection="sources"):
+    doc = hit.document()          # subject.Document when the hit is a landed source
 ```
+
+`scripts/qmd.py` is the way code talks to it — `--json` is parsed once and
+`qmd://collection/path` is resolved to a real `Path` once, because that
+resolution is the only thing between a search result and the rest of the
+toolchain. **A `Hit` says where to look and carries no claim about the corpus**;
+`hit.document()` is the handoff back to the tools that measure. The shell works
+too and is unchanged.
+
+Collections are named for **purpose**, and `all` covers every markdown file
+outside the shelf — 519 of 519. It is excluded from default queries because it
+overlaps the others, so ask for it by name when a question could be answered by
+any layer.
 
 **It finds candidates; it does not produce answers.** A ranked result is a place
 to look, and every number that goes into a page or a learning still comes from
