@@ -101,6 +101,10 @@
     "wiki.relations": {
       "value": 48,
       "how": "a page naming another page as `slug`, scripts/relations.py"
+    },
+    "wiki.unmarked": {
+      "value": 158,
+      "how": "a page's term written in another page's prose without being marked a link"
     }
   }
 }

@@ -152,6 +152,13 @@ def _wiki_orphans() -> int:
     return len(graph()["orphans"])
 
 
+@measure("wiki.unmarked",
+         "a page's term written in another page's prose without being marked a link")
+def _wiki_unmarked() -> int:
+    from relations import unmarked
+    return len(unmarked())
+
+
 @measure("wiki.open_statements", "statements under an Open heading, the question harvest")
 def _wiki_open() -> int:
     from relations import open_questions

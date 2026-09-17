@@ -243,12 +243,19 @@ source; a conflicting source flags it instead. It costs nothing today, because
 why it has to be decided before the first promotion rather than discovered
 after it.
 
-Two entries stay rejected, and the reasons are now measured rather than
-argued. **Two-phase compile** — extract the whole batch, then merge across it —
-is the shape reconciliation was deliberately moved away from: cost per document
-is `O(census) + O(judgement)`, not `O(corpus)`. And the **broken-wikilink lint
-family** has nothing to check: `Wiki/` contains zero `[[links]]`. Pages are
-joined by `Wiki/index.json` and by citation, not by link.
+One entry stays rejected, with a measurement rather than an argument.
+**Two-phase compile** — extract the whole batch, then merge across it — is the
+shape reconciliation was deliberately moved away from: cost per document is
+`O(census) + O(judgement)`, not `O(corpus)`.
+
+*Correction, 2026-09-17.* A second entry was listed here as rejected and should
+not have been. This paragraph read „the **broken-wikilink lint family** has
+nothing to check: `Wiki/` contains zero `[[links]]`". The wiki links with
+`` `slug` `` instead of `[[slug]]`, and it has 48 <!--state:wiki.relations-->
+such links, 21 <!--state:wiki.orphans--> orphans and
+158 <!--state:wiki.unmarked--> mentions the markup does not mark. The lint
+family has work; what the survey rejected was a model *inferring* edges, and it
+said in the same line that canon links must be **explicit**.
 
 ## What is not yet possible, stated plainly
 

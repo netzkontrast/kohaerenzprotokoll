@@ -135,11 +135,31 @@ nothing" can be the correct outcome.
 
 ### What DRG must not become here
 
-A graph layer. `Wiki/` contains zero `[[links]]`; pages are joined by
-`Wiki/index.json` and by citation, and LLM-inferred edges were rejected by
-decision — expensive at this corpus size, and a canon link must be explicit.
-Installing DRG does not reopen that. Its extraction and graph modules stay
-unused; its evaluation module is the part with a job.
+**An inferred graph layer.** What was rejected by decision is a model *guessing*
+edges — „expensive at 680 docs, and canon links must be **explicit**". Explicit
+links were never the thing rejected, and the wiki has them.
+
+*Correction, 2026-09-17.* This section first read „`Wiki/` contains zero
+`[[links]]`" and treated that as a decision against linking. Both halves were
+wrong. The syntax here is `` `slug` `` rather than `[[slug]]`, and there are
+48 <!--state:wiki.relations--> such links; „no `[[…]]`" is a statement about
+markup and says nothing about whether pages link. Turning „do not let a model
+guess an edge" into „the wiki has no links" is exactly the delete-instead-of-
+demote failure `CLAUDE.md` warns about, and it cost a recommendation: it is how
+the broken-link lint family got dismissed as having nothing to check.
+
+**It has plenty to check.** 21 <!--state:wiki.orphans--> of
+46 <!--state:wiki.pages--> pages have nothing linking to them, and
+`relations.py --unmarked` finds 158 <!--state:wiki.unmarked--> places where one
+page writes another page's term in prose without marking it — **more than three
+times the marked links.** `aegis` is the clearest case: nothing links to it, and
+its term stands unmarked in the prose of other pages 68 times. A page that reads
+as connected and measures as an orphan is a markup problem, and the wiki is far
+more connected than its own graph says.
+
+So DRG's extraction and graph modules stay unused, and its evaluation module is
+the part with a job — but the reason is cost and the explicit-link rule, not an
+imagined ban on linking.
 
 ## The order
 

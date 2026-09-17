@@ -392,8 +392,9 @@ distribution name, and resolving it would move this venv off the pinned DSPy
 
 A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
-1.0. Its extraction and graph layers stay unused: `Wiki/` has no links by
-decision, and installing DRG does not reopen that.
+1.0. Its extraction and graph layers stay unused, because a canon link is
+written by a person and never inferred by a model — not because the wiki has no
+links. It has 48 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
