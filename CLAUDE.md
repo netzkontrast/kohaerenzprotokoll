@@ -260,6 +260,31 @@ git-ignored; `qmd init` and five `collection add` calls rebuild it.
 
 Its first real query is what exposed the 52 near-duplicates above.
 
+**The whole setup rebuilds from one command.** The container is ephemeral and
+`.tools-node/` and `.qmd/` are git-ignored, so the package, the index, six
+collections, their contexts, the agent skill and the PATH shim are all lost on a
+fresh clone:
+
+```bash
+scripts/setup_qmd.sh            # install, index, collections, skill, shim
+scripts/setup_qmd.sh --check    # report what is missing, change nothing
+```
+
+It is idempotent, and `--check` is the thing to run when a search returns less
+than it should.
+
+**The agent skill is installed from the package itself** — `qmd skill install`
+writes a 25-line bootstrap that defers to `qmd skill show` for version-matched
+instructions, so it cannot go stale when qmd updates. It declares
+`allowed-tools: Bash(qmd:*)`, and **the package is not on PATH here**, which is
+why `setup_qmd.sh` writes a shim: without it the skill fails with „command not
+found", which reads like the tool is broken rather than absent.
+
+Its one technique worth adopting: **write the structured query yourself** —
+`intent:`, `lex:`, `vec:`, `hyde:` — rather than pasting the question into
+`qmd query` and hoping the built-in expansion model guesses the domain
+vocabulary. In a German corpus full of coined compounds it will not.
+
 **Every file stays in it, and that is checked rather than remembered.**
 
 ```bash
