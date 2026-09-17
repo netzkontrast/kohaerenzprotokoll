@@ -1,0 +1,52 @@
+# Verification — charakterkonzepte-fuer-kohaerenz-protokoll
+# every number below was re-derived here before it went into the census/note
+
+$ python3 scripts/profile.py charakterkonzepte-fuer-kohaerenz-protokoll
+# charakterkonzepte-fuer-kohaerenz-protokoll
+  lines                769  (frontmatter ends at 9)
+  body words           15436
+  headings             2   bold-only lines 9
+  table rows           27   code fences 0
+  question marks       52
+  backslash escapes    406
+  typographic marks    18   ascii quotes 204
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    105
+  repeated labels      Kernaussagen der Recherche x3, Motivationen x3, Ziele x3
+  longest line         1486 chars
+
+$ wc -w Sources/drive/charakterkonzepte-fuer-kohaerenz-protokoll.md
+15438 Sources/drive/charakterkonzepte-fuer-kohaerenz-protokoll.md
+(includes the 9-line frontmatter; profile.py's 15436 is body words only —
+both are used below, matched to which one is being cited)
+
+Hedging words, whole-word case-insensitive count (grep -oiw "<word>" | wc -l):
+  möglicherweise   68
+  wahrscheinlich   22   (25 without -w — "unwahrscheinlich" is a substring trap)
+  könnte           78
+  könnten          11
+  vielleicht       11
+  vermutlich        1
+  eventuell         0
+  TOTAL           191   in 15,436 body words
+
+$ grep -c "Kontext Pt" Sources/drive/charakterkonzepte-fuer-kohaerenz-protokoll.md
+20   (the document repeatedly cites its own prior context document as
+     "Kontext Pt N" rather than asserting outright — read as part of its
+     hedged/proposal stance, not counted as a hedging word itself)
+
+Manifest index_section for this slug (Sources/manifest.jsonl):
+  "index_section": "Charaktere, Anteile & Sprach-DNA (Kael, Juna, Argus, Lex)"
+
+$ grep -ci "argus\|Lex " Sources/drive/charakterkonzepte-fuer-kohaerenz-protokoll.md
+2   — both are false positives, not the names:
+    L230 "...komplex sein..." (Lex substring of "komplex")
+    L658 "...komplexe posttraumatische..." (Lex substring of "komplexe")
+  Confirmed by reading both lines: neither "Argus" nor "Lex" occurs anywhere
+  in this document as a name. The manifest's own section label names two
+  characters this landed document does not contain.
+
+candidates: 108 (see 03-candidates.md and 04-counts.txt — every one resolved
+  to a nonzero count in the document except EP and Systemkollaps standing
+  alone, both present only as compounds: "EPs", "Systemkollapses")
