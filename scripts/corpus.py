@@ -19,6 +19,7 @@ Usage:
     python3 scripts/corpus.py first <term>               # earliest documents
     python3 scripts/corpus.py where <term> [--limit N]   # which documents, with counts
     python3 scripts/corpus.py family <head>              # the surfaces one term wears
+    python3 scripts/corpus.py plan <term>                # sub-call batches for reading it everywhere
 
 Matching is whole-word. `--substring` switches it, and every answer says which
 it used. Add --json for the machine-readable form.
@@ -199,6 +200,51 @@ def cmd_family(docs: list[dict], head: str, limit: int = 30) -> dict:
             "rows": [{"token": t, "occurrences": n, "documents": seen[t]} for t, n in rows]}
 
 
+def cmd_plan(docs: list[dict], term: str, budget: int = 400_000) -> dict:
+    """A chunking plan for asking a sub-model about every document carrying a term.
+
+    The RLM strategy, computed rather than improvised: which documents contain the
+    term, grouped into batches that fit a sub-call's context, with the character
+    cost of each batch. Nothing is read here -- the sizes come from the manifest
+    and the document list from the surface index.
+
+    The output is what a `llm_query_batched` call would be given, so the expensive
+    half can be wired later without re-deriving the cheap half.
+    """
+    hits = occurrences(docs, term)
+    sizes = {}
+    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
+        row = json.loads(line)
+        if row.get("export_path"):
+            path = ROOT / row["export_path"]
+            if path.exists():
+                sizes[row["slug"]] = path.stat().st_size
+
+    batches: list[dict] = []
+    current: list[str] = []
+    used = 0
+    for hit in sorted(hits, key=lambda h: -h["n"]):
+        size = sizes.get(hit["slug"], 0)
+        if current and used + size > budget:
+            batches.append({"documents": current, "chars": used})
+            current, used = [], 0
+        current.append(hit["slug"])
+        used += size
+    if current:
+        batches.append({"documents": current, "chars": used})
+
+    return {
+        "term": term,
+        "documents": len(hits),
+        "total_chars": sum(sizes.get(h["slug"], 0) for h in hits),
+        "budget_per_call": budget,
+        "sub_calls": len(batches),
+        "batches": [{"n": len(b["documents"]), "chars": b["chars"],
+                     "documents": b["documents"][:6] + (["…"] if len(b["documents"]) > 6 else [])}
+                    for b in batches],
+    }
+
+
 def cmd_where(docs: list[dict], term: str, limit: int = 25) -> dict:
     hits = occurrences(docs, term)
     ranked = sorted(hits, key=lambda h: -h["n"])[:limit]
@@ -226,6 +272,14 @@ def render(command: str, result: dict) -> str:
             f"  neither  {result['neither']:4}",
             "  documents carrying both: " + ", ".join(result["both_slugs"][:6]),
         ])
+    if command == "plan":
+        rows = [f"{result['term']} — {result['documents']} documents, "
+                f"{result['total_chars']:,} chars",
+                f"{result['sub_calls']} sub-calls at {result['budget_per_call']:,} chars each",
+                "", f"{'call':>5} {'docs':>5} {'chars':>10}  first documents"]
+        for i, b in enumerate(result["batches"], 1):
+            rows.append(f"{i:5} {b['n']:5} {b['chars']:10,}  {', '.join(b['documents'][:3])}")
+        return "\n".join(rows)
     if command == "family":
         if "error" in result:
             return result["error"]
@@ -280,6 +334,7 @@ def main(argv: list[str]) -> int:
         "first": lambda: cmd_first(docs, args[0], limit),
         "where": lambda: cmd_where(docs, args[0], limit),
         "family": lambda: cmd_family(docs, args[0], limit),
+        "plan": lambda: cmd_plan(docs, args[0]),
     }
     if command not in handlers:
         sys.exit(f"unknown command {command!r} -- one of {', '.join(handlers)}")
