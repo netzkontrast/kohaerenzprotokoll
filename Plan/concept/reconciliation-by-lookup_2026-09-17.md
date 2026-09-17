@@ -103,6 +103,68 @@ structure. The unit of work stops being "the wiki" and becomes "this pair".
 it: the expensive part is isolated, bounded and countable, and
 `reconcile-pre.json` records how many items it contained for each document.
 
+## The other half: making judgement cheap, from `rec-praxis-rlm`
+
+The lookup design makes the **mechanical** part cheap. It does nothing for the
+judgement bucket, and I had no plan for that beyond "it recurses".
+
+`netzkontrast/rec-praxis-rlm` has the piece. Its `RLMContext` is the pattern
+above, already generalised — `grep` returning 1-indexed `SearchMatch` objects
+with line numbers and context, `peek(doc_id, start, end)`, `safe_exec(code,
+context_vars)`. Three of my hand-rolled steps are special cases of it:
+
+| step here | what I built | the library primitive |
+|---|---|---|
+| counting candidates | bash grep loops → `capture.py --count` | `grep()` → `SearchMatch(line_number, context_before/after)` |
+| verifying a quote | `sed -n 'Np' \| grep -F` | `peek(doc_id, start_char, end_char)` |
+| reconciling | `reconcile.py` over `index.json` | `safe_exec(code, context_vars)` — the general form |
+| **the judgement bucket** | **nothing** | **`ProceduralMemory` / `Experience` / `recall`** |
+
+The fourth row is the gap, and it is the one that matters.
+
+### A judgement is an `Experience`
+
+`Experience(env_features, goal, action, result, success)` is exactly the shape of
+a decision about a near match:
+
+```json
+{"env_features": ["near-match:index", "compound", "names-a-system"],
+ "goal":   "Kohärenz-Programm near kohaerenz — surface or separate term?",
+ "action": "compare referents: kohaerenz is the measurable property, Kohärenz-Programm the system",
+ "result": "SEPARATE term",
+ "rule":   "compound naming an entity != the abstract property it contains"}
+```
+
+`Plan/runs/judgements.jsonl` holds the first seven, from document 4. They are
+written in that shape deliberately, so they can be handed to a `ProceduralMemory`
+without a migration when there are enough of them to retrieve against.
+
+**Then the judgement bucket gets cheaper the same way the mechanical part did:**
+a near match arrives, `recall()` returns the three most similar decisions, and
+what reaches a reader is a precedent plus one question — not a fresh reading.
+
+### It already paid, before any of that was built
+
+Of the seven judgements, **one rule fired three times**: *a German definite
+article is never a term boundary.* `Die Konstrukt-Stadt` beside
+`Konstrukt-Stadt`, and twice more.
+
+That rule is mechanical. It went into `fold()`, and the bucket shrank on the spot:
+
+```
+before:  22 candidates — 15 decided by lookup, 7 need judgement
+after:   22 candidates — 18 decided by lookup, 4 need judgement
+```
+
+**Judgement → rule → mechanised → the bucket shrinks, permanently.** The three
+article cases can never cost anything again, and the record of why is in
+`judgements.jsonl` where the next person can check it.
+
+The remaining four are genuinely hard — a heading's slash that is an apposition,
+a qualifier that contains its own head, and two compounds that name an entity and
+a project rather than the property they contain. **Those are what a person should
+be spending attention on.**
+
 ## What this does not fix
 
 - **The census still reads one whole document.** That is bounded and it is where

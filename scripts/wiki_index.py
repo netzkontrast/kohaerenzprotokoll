@@ -54,14 +54,24 @@ def frontmatter(text: str) -> dict:
     return out
 
 
+ARTICLE = re.compile(r"^(der|die|das|den|dem|des)\s+", re.IGNORECASE)
+
+
 def fold(surface: str) -> str:
-    """A comparison key: case, diacritics and hyphens removed.
+    """A comparison key: article, case, diacritics and punctuation removed.
 
     Kern-Welten and Kern-Welt fold together; Negentropie and Entropie do not,
     because folding is not stemming. A stemmer aggressive enough to merge a term
     with its inflections also merges it with its negation.
+
+    The leading definite article is stripped because a German article is never a
+    term boundary. That rule came from judgement: it was decided three times in
+    one document -- Die Konstrukt-Stadt, Die Resonanz-Landschaft, Die Grenzfeste
+    -- before being written down here, and Plan/runs/judgements.jsonl holds the
+    three records that produced it.
     """
-    plain = unicodedata.normalize("NFKD", surface.lower())
+    plain = ARTICLE.sub("", surface.strip())
+    plain = unicodedata.normalize("NFKD", plain.lower())
     plain = "".join(c for c in plain if not unicodedata.combining(c))
     return re.sub(r"[^a-z0-9]+", "", plain)
 

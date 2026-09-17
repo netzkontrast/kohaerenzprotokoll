@@ -8,9 +8,9 @@
     "pages": 32,
     "conflicts": 3
   },
-  "candidates": 19,
-  "decided_mechanically": 12,
-  "needs_judgement": 7,
+  "candidates": 22,
+  "decided_mechanically": 18,
+  "needs_judgement": 4,
   "buckets": {
     "already_there": [],
     "new_reading": [
@@ -42,6 +42,24 @@
         "candidate": "Sophia"
       },
       {
+        "candidate": "Die Konstrukt-Stadt"
+      },
+      {
+        "candidate": "Die Resonanz-Landschaft"
+      },
+      {
+        "candidate": "Die Grenzfeste"
+      },
+      {
+        "candidate": "Konstrukt-Stadt"
+      },
+      {
+        "candidate": "Resonanz-Landschaft"
+      },
+      {
+        "candidate": "Grenzfeste"
+      },
+      {
         "candidate": "Überraum"
       },
       {
@@ -58,21 +76,6 @@
       }
     ],
     "needs_judgement": [
-      {
-        "candidate": "Die Konstrukt-Stadt  /  Konstrukt-Stadt",
-        "question": "two surfaces of one term inside this document, or two terms?",
-        "near": []
-      },
-      {
-        "candidate": "Die Resonanz-Landschaft  /  Resonanz-Landschaft",
-        "question": "two surfaces of one term inside this document, or two terms?",
-        "near": []
-      },
-      {
-        "candidate": "Die Grenzfeste  /  Grenzfeste",
-        "question": "two surfaces of one term inside this document, or two terms?",
-        "near": []
-      },
       {
         "candidate": "Der Möglichkeits-Garten / Nexus-Vorstufe  /  Möglichkeits-Garten",
         "question": "two surfaces of one term inside this document, or two terms?",
