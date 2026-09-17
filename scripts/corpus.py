@@ -18,6 +18,7 @@ Usage:
     python3 scripts/corpus.py cooccur <a> <b>            # both / only-a / only-b
     python3 scripts/corpus.py first <term>               # earliest documents
     python3 scripts/corpus.py where <term> [--limit N]   # which documents, with counts
+    python3 scripts/corpus.py family <head>              # the surfaces one term wears
 
 Matching is whole-word. `--substring` switches it, and every answer says which
 it used. Add --json for the machine-readable form.
@@ -35,11 +36,40 @@ ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "Sources" / "manifest.jsonl"
 
 
-def landed() -> list[dict]:
-    """Every manifest row whose file is on disk, with its body cached in memory.
+DERIVED = ROOT / "Plan" / "derived"
 
-    The bodies are held here and never printed. That is the whole point: the
-    corpus is addressable without being readable.
+
+def indexed() -> list[dict]:
+    """Every document as its derived surface index -- no document is opened.
+
+    scripts/derive.py has already applied the `surfaces` rule to all 409 and
+    cached the result against each document's checksum. A term question is then a
+    dict lookup per document rather than a scan of 2.46 million words, and it
+    stays that way no matter how many questions get asked.
+    """
+    docs = []
+    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
+        row = json.loads(line)
+        if not row.get("export_path"):
+            continue
+        cache = DERIVED / f"{row['slug']}.json"
+        if not cache.exists():
+            continue
+        entry = json.loads(cache.read_text(encoding="utf-8")).get("surfaces")
+        if not entry:
+            continue
+        docs.append({
+            "slug": row["slug"], "category": row.get("category", "?"),
+            "date": row.get("index_date") or "?", "tokens": entry["facts"]["tokens"],
+        })
+    return docs
+
+
+def landed() -> list[dict]:
+    """Every manifest row whose file is on disk, with its body read into memory.
+
+    The slow path, used only when a question cannot be answered from the index --
+    a lowercase word, or a phrase. `main` says when it fell back here.
     """
     docs = []
     for line in MANIFEST.read_text(encoding="utf-8").splitlines():
@@ -78,8 +108,21 @@ def matcher(term: str) -> re.Pattern:
     return re.compile(rf"\b{escaped}\b" if WHOLE_WORD else escaped)
 
 
+def from_index(docs: list[dict], term: str) -> list[dict]:
+    """Documents whose surface index carries this exact token."""
+    hits = []
+    for doc in docs:
+        entry = doc["tokens"].get(term)
+        if entry:
+            hits.append({"slug": doc["slug"], "date": doc["date"], "category": doc["category"],
+                         "n": entry["n"], "first_line": entry["lines"][0] if entry["lines"] else None})
+    return sorted(hits, key=lambda h: (h["date"], h["slug"]))
+
+
 def occurrences(docs: list[dict], term: str) -> list[dict]:
     """Documents containing the term, with count and first file line."""
+    if docs and "tokens" in docs[0]:
+        return from_index(docs, term)
     pattern = matcher(term)
     hits = []
     for doc in docs:
@@ -133,6 +176,29 @@ def cmd_first(docs: list[dict], term: str, limit: int = 5) -> dict:
     return {"term": term, "earliest": occurrences(docs, term)[:limit]}
 
 
+def cmd_family(docs: list[dict], head: str, limit: int = 30) -> dict:
+    """Every indexed token beginning with this head, with its corpus-wide count.
+
+    The index counts a compound as one token, so `Kael` and `Kael-Julia-Bindung`
+    are separate rows. This command is how that stops being a discrepancy and
+    becomes the answer: the surfaces a term actually wears across 409 documents.
+    """
+    if not docs or "tokens" not in docs[0]:
+        return {"head": head, "error": "needs the derived index — run scripts/derive.py"}
+    total: dict[str, int] = {}
+    seen: dict[str, int] = {}
+    for doc in docs:
+        for token, entry in doc["tokens"].items():
+            if token == head or token.startswith(head + "-") or (
+                token.startswith(head) and len(token) <= len(head) + 3
+            ):
+                total[token] = total.get(token, 0) + entry["n"]
+                seen[token] = seen.get(token, 0) + 1
+    rows = sorted(total.items(), key=lambda kv: -kv[1])[:limit]
+    return {"head": head, "surfaces": len(total),
+            "rows": [{"token": t, "occurrences": n, "documents": seen[t]} for t, n in rows]}
+
+
 def cmd_where(docs: list[dict], term: str, limit: int = 25) -> dict:
     hits = occurrences(docs, term)
     ranked = sorted(hits, key=lambda h: -h["n"])[:limit]
@@ -160,6 +226,13 @@ def render(command: str, result: dict) -> str:
             f"  neither  {result['neither']:4}",
             "  documents carrying both: " + ", ".join(result["both_slugs"][:6]),
         ])
+    if command == "family":
+        if "error" in result:
+            return result["error"]
+        rows = [f"{result['head']} — {result['surfaces']} surfaces in the corpus",
+                f"{'token':36} {'occ':>7} {'docs':>6}"]
+        rows += [f"{r['token']:36} {r['occurrences']:7} {r['documents']:6}" for r in result["rows"]]
+        return "\n".join(rows)
     if command in ("first", "where"):
         key = "earliest" if command == "first" else "top"
         rows = [f"{result['term']} — {result.get('documents', len(result[key]))} documents",
@@ -167,6 +240,9 @@ def render(command: str, result: dict) -> str:
         rows += [f"{h['date']:12} {h['n']:5}  {h['category']:20} {h['slug'][:44]}" for h in result[key]]
         return "\n".join(rows)
     return json.dumps(result, indent=2, ensure_ascii=False)
+
+
+INDEXABLE = re.compile(r"^[A-ZÄÖÜ][A-Za-zäöüß]{2,}(?:-[A-ZÄÖÜa-zäöüß][A-Za-zäöüß]+)*$")
 
 
 def main(argv: list[str]) -> int:
@@ -183,18 +259,32 @@ def main(argv: list[str]) -> int:
         argv = argv[:i] + argv[i + 2:]
 
     command, args = argv[0], argv[1:]
-    docs = landed()
+    terms = [a for a in args if not a.startswith("-")]
+    # The surface index holds capitalised tokens only. Anything else -- a
+    # lowercase word, a phrase -- is not in it, and reading is the honest answer
+    # rather than a confidently empty one.
+    use_index = (
+        WHOLE_WORD
+        and "--read" not in sys.argv
+        and bool(terms)
+        and all(INDEXABLE.match(t) for t in terms)
+        and (ROOT / "Plan" / "derived").exists()
+    )
+    docs = indexed() if use_index else landed()
+    if use_index and not docs:
+        docs, use_index = landed(), False
     handlers = {
         "count": lambda: cmd_count(docs, args),
         "timeline": lambda: cmd_timeline(docs, args[0]),
         "cooccur": lambda: cmd_cooccur(docs, args[0], args[1]),
         "first": lambda: cmd_first(docs, args[0], limit),
         "where": lambda: cmd_where(docs, args[0], limit),
+        "family": lambda: cmd_family(docs, args[0], limit),
     }
     if command not in handlers:
         sys.exit(f"unknown command {command!r} -- one of {', '.join(handlers)}")
     result = handlers[command]()
-    bare = sum(1 for d in docs if not d["has_frontmatter"])
+    bare = sum(1 for d in docs if not d.get("has_frontmatter", True))
     mode = "whole-word" if WHOLE_WORD else "substring"
     if as_json:
         # Wrapped rather than merged: `count` returns one entry per term, and a
@@ -205,8 +295,13 @@ def main(argv: list[str]) -> int:
     else:
         print(render(command, result))
         print(f"\nmatching: {mode}  ({'--substring' if WHOLE_WORD else 'default'} for the other)")
-        print(f"{len(docs)} documents, {bare} of them without frontmatter "
-              f"(the boundary is found per document, never assumed)")
+        if use_index:
+            print(f"{len(docs)} documents, answered from the derived surface index "
+                  f"— no document was opened")
+        else:
+            print(f"{len(docs)} documents read, {bare} of them without frontmatter. "
+                  f"Not answerable from the index: the term is not a capitalised token, "
+                  f"or --read/--substring was given.")
     return 0
 
 
