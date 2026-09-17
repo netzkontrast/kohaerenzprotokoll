@@ -31,14 +31,11 @@ premise offered for research, not a finding.
 
 ## Why the page exists with no reading
 
-Because the question gets answered, two days later, in a different document —
-and **nothing in the corpus links the two.** `kohaerenzprotokoll-aegis-und-systementropie`
-makes Negentropie a property of the Kael–Julia bond
-^[kohaerenzprotokoll-aegis-und-systementropie.md:L122].
+Because a question the corpus asks is a fact about the corpus, and a term that
+appears only inside one is the shape of term that gets dropped — it looks like
+nothing, and dropping it leaves no hole.
 
-That answer is not on this page: it belongs to that source and goes on when that
-source is ingested. What belongs here is the record that **the question predates
-the answer by two days and neither document knows about the other.**
+Whether any source answers it is not known from here.
 
 ## Status
 

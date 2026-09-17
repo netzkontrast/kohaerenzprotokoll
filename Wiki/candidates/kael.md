@@ -47,13 +47,12 @@ evidence about the character.
 
 ## What this corrects
 
-An earlier note on `kohaerenzprotokoll-aegis-und-systementropie` concluded that
-„the two names changed at different times", from the observation that document 3
-says Kael and Julia together. **That was inference from three documents and it is
-wrong.** Both names changed on the same day. Document 3 is one of 20 documents
-that mix the new name with the old, and the mixing is incomplete enforcement,
+An earlier reading of a handful of documents concluded that the two names changed
+at different times, from the observation that some documents mix the new name
+with the old. **That was inference from a small sample and it is wrong.** Both
+names changed on the same day; the mixing is incomplete enforcement afterwards,
 not a second rename.
 
 The correction is recorded here rather than silently applied, because *how* it
-went wrong is the reusable part: three documents looked like a timeline, and a
+went wrong is the reusable part: a few documents looked like a timeline, and a
 count over 409 showed a cliff.

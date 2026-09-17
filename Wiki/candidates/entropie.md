@@ -1,9 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 1
-readings: 1
-conflict: none yet
+sources: 2
+readings: 2
+conflict: C2
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere"]
 gathered: "2026-09-16"
 ---
 
@@ -51,9 +52,21 @@ The project's own working sense of `Entropie`, on the date the term became its
 organising principle. This is the sharpest `MISSING` in the corpus so far: not a
 term nobody wrote about, but the term everything else is defined against.
 
-## Carried forward
+## Reading — `aegis-emergenz-aus-der-leere`, 2025-04-19
 
-Later sources give at least two more senses — „schöpferische Matrix" and Shannon
-uncertainty as an operational metric. Neither is on this page, because neither is
-in this source. Both go on as their own readings when those documents are
-ingested.
+A second sense, and it is the opposite of the first:
+
+> „Entropie wird hier als \"schöpferische Matrix\" (maximaler Möglichkeitsraum)
+> interpretiert, aus der durch \"rekursive Resonanz\" kohärente Zustandssequenzen
+> stabilisiert werden" ^[aegis-emergenz-aus-der-leere.md:L126]
+
+**This is restatement, not assertion.** It sits in the source's account of a
+postulate it goes on to reject, and it judges the usage:
+
+> „Die Verwendung des Begriffs \"Entropie\" weicht signifikant von der
+> Standarddefinition in der Thermodynamik oder Informationstheorie ab"
+> ^[aegis-emergenz-aus-der-leere.md:L130]
+
+**→ Conflict `C2`** — `Wiki/conflicts/c2-entropie-sense.md`. Disorder to be
+resisted against the matrix things emerge from, two days apart, neither source
+defining the term.

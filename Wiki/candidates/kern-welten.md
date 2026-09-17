@@ -37,5 +37,5 @@ those worlds. **The document depends on a term it never explains.**
 Everything. Whether a Kern-Welt corresponds to one alter, how many exist, who
 can enter one, what happens when one destabilises.
 
-Document 3 also uses the term as known ^[kohaerenzprotokoll-aegis-und-systementropie.md:L31, L165].
-**Two of the three documents read so far use it; neither defines it.**
+A term nothing in this source defines will not announce itself, and nothing here
+says whether another source does.
