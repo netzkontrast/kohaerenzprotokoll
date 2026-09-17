@@ -3,7 +3,7 @@
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 4,
+      "value": 5,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
@@ -23,19 +23,19 @@
       "how": "judgements a rule now claims and still agrees with"
     },
     "judgements.total": {
-      "value": 19,
+      "value": 32,
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
-      "value": false,
+      "value": true,
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
     "quotes.checked": {
-      "value": 304,
+      "value": 322,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 168,
+      "value": 173,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -67,7 +67,7 @@
       "how": "rows in Sources/manifest.jsonl"
     },
     "trainset.fold_baseline_pct": {
-      "value": 82,
+      "value": 65,
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
@@ -75,7 +75,7 @@
       "how": "candidate lists written while reading, not reconstructed"
     },
     "trainset.surface_pairs": {
-      "value": 17,
+      "value": 26,
       "how": "labelled one-term/two-terms examples in the ledger"
     },
     "wiki.conflicts": {
@@ -87,7 +87,7 @@
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 22,
+      "value": 21,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
@@ -95,11 +95,11 @@
       "how": "pages counted by the derived Wiki/index.json"
     },
     "wiki.questions": {
-      "value": 3,
+      "value": 4,
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 45,
+      "value": 48,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     }
   }

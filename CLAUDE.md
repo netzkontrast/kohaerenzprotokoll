@@ -70,12 +70,13 @@ but the distinction was real while it lasted and the script that measures it
 stays.
 
 **5 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **5
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **4
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **5
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-one `worldbuilding`, one `aegis` — and the fifth is read but not yet reconciled.
+one `worldbuilding`, one `aegis`.
 
 `Wiki/candidates/` holds **46 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
-holds **4 <!--state:wiki.conflicts-->**, and
+holds **4 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
+**4 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
@@ -86,8 +87,14 @@ has been promoted.
 | `aegis-emergenz-aus-der-leere` | 10 | 2 | 2 |
 | `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
 | `guardians-und-kern-welten-konzept` | 14 | 4 | 1 |
+| `aegis-subplots-kapitelweise-system-exploration-docx` | 0 | 2 | 0 |
 
-`Plan/runs/judgements.jsonl` holds **19 <!--state:judgements.total--> judgements**
+The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
+and 32 of its 91 question marks in the field closest to assertion — so sixteen
+candidates matched no page and none became one. **A page created from an
+occurrence says nothing and looks like it says something.**
+
+`Plan/runs/judgements.jsonl` holds **32 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 

@@ -260,10 +260,11 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "aegis-subplots-kapitelweise-system-exploration-docx"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "juna": {
@@ -331,7 +332,8 @@
       "ingested": [
         "entropie-aegis",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "aegis-subplots-kapitelweise-system-exploration-docx"
       ],
       "sources": 3,
       "readings": 2,
