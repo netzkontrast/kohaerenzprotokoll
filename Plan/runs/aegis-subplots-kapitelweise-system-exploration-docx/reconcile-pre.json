@@ -1,0 +1,394 @@
+{
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "step": "reconcile-pre",
+  "at": "2026-09-17",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-17",
+  "state": {
+    "pages": 46,
+    "conflicts": 4
+  },
+  "candidates": 51,
+  "decisions": 65,
+  "same_surface": {},
+  "decided_mechanically": 35,
+  "needs_judgement": 30,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 4
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 1
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 1
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 2
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 1
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 1
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 1
+      },
+      {
+        "candidate": "Kern-Welt",
+        "page": "kern-welten",
+        "readings": 2
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 2
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 3
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 0
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 1
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 1
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 2
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 2
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "V"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "TSDP"
+      },
+      {
+        "candidate": "Bedrohungsstufe"
+      },
+      {
+        "candidate": "Integration"
+      },
+      {
+        "candidate": "Synthese"
+      },
+      {
+        "candidate": "Realitätsformung"
+      },
+      {
+        "candidate": "Datenkorruption"
+      },
+      {
+        "candidate": "Systemstabilität"
+      },
+      {
+        "candidate": "Systemmonitor"
+      },
+      {
+        "candidate": "Kerndirektive"
+      },
+      {
+        "candidate": "Teil 1"
+      },
+      {
+        "candidate": "Teil 2"
+      },
+      {
+        "candidate": "Teil 3"
+      },
+      {
+        "candidate": "Architekten"
+      },
+      {
+        "candidate": "Kerncode"
+      },
+      {
+        "candidate": "Quellcode"
+      },
+      {
+        "candidate": "Realitätsverformung"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  Rest-AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Guardians",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Guardian-Subroutine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardians  /  Guardian-Subroutine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelt 1  /  Kern-Welt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt  /  Kernwelten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Risse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Prä-Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropie-Score",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropiepotenzial",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropiemanagement",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropiegewinn",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Informationsentropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter  /  Alters",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Simulation  /  Simulations-Engine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernsystem  /  Kernsystemprotokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt 1",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Prä-Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Score",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          },
+          {
+            "surface": "globalerentropiescore",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropiepotenzial",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropiemanagement",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropiegewinn",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Informationsentropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian-Subroutine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Rest-AEGIS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulations-Engine",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      }
+    ]
+  },
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

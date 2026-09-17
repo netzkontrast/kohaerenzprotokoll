@@ -1,0 +1,122 @@
+{
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "drive_id": "1StyFADCnWfMnriBDi_S0CzJFg66Cw8YU",
+  "step": "reconcile",
+  "at": "2026-09-17",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 46,
+    "conflicts": 4
+  },
+  "state_after": {
+    "pages": 46,
+    "conflicts": 4
+  },
+  "pre_classification": {
+    "candidates": 51,
+    "decisions": 65,
+    "decided_by_lookup": 35,
+    "needs_judgement": 30
+  },
+  "new_terms": [],
+  "why_no_new_terms": "this document is a brief — 163 hedges in 13,947 words, and 32 of its 91 question marks sit in the field closest to assertion. Sixteen candidates matched no page and none became one, because it supplies occurrences rather than readings. A page created from an occurrence says nothing and looks like it says something.",
+  "new_readings": [
+    {
+      "page": "guardians",
+      "lines": [
+        49,
+        50,
+        272,
+        273,
+        274,
+        280,
+        414
+      ],
+      "attribution": "premise",
+      "note": "structurally inside AEGIS in every sentence that must phrase the relation; chapter 20 exists to put that under pressure; a fourth kind (Architekten) with Vollstrecker and Monitore named once each"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        152,
+        254
+      ],
+      "attribution": "premise",
+      "note": "the worlds are numbered here and never called Kern-Welt — 0 occurrences. KW1 is Logik and LogOS, KW3 is Cerberus. The join to document 4's named worlds is recorded on the page as the page's own inference, attributed to no source"
+    }
+  ],
+  "new_surfaces": [
+    {
+      "surface": "KW1 / KW3 / Kernwelt 1",
+      "page": "kern-welten",
+      "judgement": "J26",
+      "decision": "one term — a hyphen is not a boundary and a numbered instance is a reading on its class"
+    },
+    {
+      "surface": "Wächter",
+      "page": "none — deliberately",
+      "judgement": "J20",
+      "decision": "four bearers across the corpus; no page may claim the word. Raised as Q4"
+    },
+    {
+      "surface": "Entropie-Score",
+      "page": "aegis-metriken",
+      "judgement": "J21",
+      "decision": "one term — globaler names a scope, not a different metric"
+    }
+  ],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    {
+      "id": "C4",
+      "change": "changes kind rather than closing — from 'two documents that do not know about each other' to 'a question the corpus holds open deliberately'. The passage that chose this document is the opening of chapter 20, whose subject is that it is not settled."
+    }
+  ],
+  "questions_changed": [
+    {
+      "id": "Q1",
+      "change": "narrows — 'components' is supported and 'peers'/'a design it replaced' get no support; stays open for a document that states the relation outside a question"
+    },
+    {
+      "id": "Q4",
+      "change": "raised — Wächter has four bearers"
+    }
+  ],
+  "judgements": [
+    "J20",
+    "J21",
+    "J22",
+    "J23",
+    "J24",
+    "J25",
+    "J26",
+    "J27",
+    "J28",
+    "J29",
+    "J30",
+    "J31",
+    "J32"
+  ],
+  "not_promoted": [
+    "Teil 1 / Teil 2 / Teil 3 — document structure, 48 occurrences between them, naming nothing in the world (J31)",
+    "INNERE REISE / META-EBENE / ÄUSSERE KONFRONTATION — part titles, and the count missed them anyway because the document writes them in capitals",
+    "Panoptismus, Selbstorganisierte Kritikalität, Chinesisches Zimmer, Gödel, Kybernetik, Simulationshypothese and the rest of the Konzept/Trope field — external theory imported as a lens, named as such by the document",
+    "Informationsentropie — Shannon's, imported under Konzept/Trope; not canon (J28)",
+    "Integration, Synthese, Datenkorruption, Systemstabilität, Systemmonitor, Bedrohungsstufe, Kerncode, Quellcode, Realitätsverformung, Kernsystemprotokoll, TSDP — occurrences without readings; recorded with their lines for the document that defines one"
+  ],
+  "found_by_rule_not_by_census": [
+    {
+      "rule": "capture.surfaces",
+      "finding": "Kernsystemprotokoll at L293, which the reading missed entirely — it surfaced only when the count started listing inflected forms"
+    },
+    {
+      "rule": "capture.count_both",
+      "finding": "three candidates scored 0 as a word and were not absent: the document writes Kerndirektiven, Guardian-Subroutinen, Kernsystems"
+    }
+  ],
+  "baseline_moved": {
+    "was": "14/17 = 82%",
+    "now": "17/26 = 65%",
+    "why": "every new miss is a plural or an inflection — fold() strips the German definite article and does nothing else, and the first seventeen judgements were article-heavy. The honest baseline is 65% and the misses are systematic, so the next improvement is a rule, not a model."
+  }
+}

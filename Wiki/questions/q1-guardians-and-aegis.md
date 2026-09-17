@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -33,6 +33,32 @@ and four worlds — **never mentions AEGIS at all.** Zero occurrences.
 A read document that states the relation directly. Not an inference from two
 documents that do not mention each other.
 
+## Answered in part, 2026-09-17 — and the shape of the answer is the finding
+
+`aegis-subplots-kapitelweise-system-exploration-docx` is read. **It answers the structural half and refuses the rest, on
+purpose.**
+
+Every sentence in it that has to phrase the relation puts a Guardian inside
+AEGIS — „agiert als spezialisierter Agent innerhalb eines größeren Systems"
+^[aegis-subplots-kapitelweise-system-exploration-docx.md:L49], „eine reine AEGIS-Erweiterung" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]. So *components*
+is the reading this document supports, and *peers* and *a design it replaced*
+get no support from it at all.
+
+But the passage quoted below, which chose this document, turns out to be the
+opening of chapter 20 — whose subject is precisely that the question is open:
+
+> „Die Natur eines Guardians - Autonomer Agent oder bloßes Werkzeug?
+> (Konfrontation)." ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L272]
+
+It offers the principal–agent problem as a frame in which a Guardian is both a
+component and capable of divergence. **That is one document's proposal, hedged
+like everything else in it, and it is not the direct statement this question asks
+for.**
+
+So Q1 narrows rather than closes: **components, provisionally, from one brief
+that says so while asking whether it is so.** It stays open for a document that
+states the relation outside a question.
+
 ## What the corpus appears to hold
 
 A search across all 346 landed files finds this, in a document with **no census,
@@ -42,10 +68,14 @@ no note and no reconciliation**:
 > AEGIS-Architektur"
 > ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L50]
 
-**That does not close this question and must not.** Quoting an unprocessed
-document onto a page is the thing the per-document order exists to prevent. It is
-recorded here as evidence about **which document to read next**, which is what
-this question page is for.
+**That did not close this question and must not have.** Quoting an unprocessed
+document onto a page is the thing the per-document order exists to prevent. It
+was recorded here as evidence about **which document to read next**, which is
+what this question page is for — and reading it is what revealed that the snippet
+came from a chapter arguing the opposite of what it appeared to assert.
+
+The passage is real, it is on that line, and the page it now sits on is
+`guardians`, where it belongs, with the chapter around it.
 
 ## Related
 

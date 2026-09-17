@@ -70,12 +70,13 @@ but the distinction was real while it lasted and the script that measures it
 stays.
 
 **5 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **5
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **4
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **5
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-one `worldbuilding`, one `aegis` — and the fifth is read but not yet reconciled.
+one `worldbuilding`, one `aegis`.
 
 `Wiki/candidates/` holds **46 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
-holds **4 <!--state:wiki.conflicts-->**, and
+holds **4 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
+**4 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
@@ -86,8 +87,14 @@ has been promoted.
 | `aegis-emergenz-aus-der-leere` | 10 | 2 | 2 |
 | `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
 | `guardians-und-kern-welten-konzept` | 14 | 4 | 1 |
+| `aegis-subplots-kapitelweise-system-exploration-docx` | 0 | 2 | 0 |
 
-`Plan/runs/judgements.jsonl` holds **19 <!--state:judgements.total--> judgements**
+The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
+and 32 of its 91 question marks in the field closest to assertion — so sixteen
+candidates matched no page and none became one. **A page created from an
+occurrence says nothing and looks like it says something.**
+
+`Plan/runs/judgements.jsonl` holds **32 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -278,6 +285,21 @@ Collections are named for **purpose**, and `all` covers every markdown file
 outside the shelf — 459 of 459. It is excluded from default queries because it
 overlaps the others, so ask for it by name when a question could be answered by
 any layer.
+
+**`decisions` is the one to reach for before re-reading a record.** It spans the
+reconciliation records, the conflict records, the question pages, `Plan/decisions/`
+and the judgement ledger — five folders, one question: *what has already been
+decided, and why?* A hit gives the file and the line, and
+`qmd get <ref>:<line>:<count>` then reads twelve lines instead of the whole
+record. The eight reconciliation records alone are 953 lines.
+
+**qmd indexes markdown and nothing else** — 1,047 files in the index, every one
+`.md`. So `Plan/runs/judgements.jsonl` and every `reconcile.json` are invisible
+to every search, which is the opposite of what they are for. `judgements.py`
+writes `Plan/runs/judgements.md` on every run, derived and never edited, so the
+ledger is searchable and cannot lag behind the `.jsonl` it comes from. The
+`.jsonl` stays the source of truth — it is what the replay reads and what
+`trainset.py` trains on.
 
 **It finds candidates; it does not produce answers.** A ranked result is a place
 to look, and every number that goes into a page or a learning still comes from

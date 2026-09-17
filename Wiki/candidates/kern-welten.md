@@ -4,7 +4,7 @@ status: candidate
 sources: 3
 readings: 2
 conflict: none
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -84,3 +84,43 @@ one is.**
 
 How many exist in total, and whether one Kern-Welt corresponds to one alter —
 the question document 1 raised and nothing has answered.
+## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05, brief
+
+**This document numbers the worlds and never writes `Kern-Welt`.** Zero
+occurrences of the hyphenated form, alone or in a compound. It uses `KW1` eight
+times, `KW3` once, `Kernwelten` three times, and expands the abbreviation exactly
+once:
+
+> „Untersucht Kernwelt 1 (Logik/LogOS) als direkte Manifestation von AEGIS'
+> Kernverarbeitungsstil – rigide, regelbasiert, potenziell binär und ohne
+> Nuancen oder Flexibilität." ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L152]
+
+A second line attaches the other number and contrasts the two:
+
+> „Er könnte entdecken, dass eine Regel, die von LogOS in KW1 streng durchgesetzt
+> wird, von Cerberus in KW3 leicht anders oder weniger rigoros interpretiert
+> wird" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
+
+| shorthand | domain named here | Guardian named here |
+|---|---|---|
+| `KW1` | Logik | `LogOS` |
+| `KW3` | — | `Cerberus` |
+
+`KW2` and `KW4` never appear.
+
+### The join to document 4, which is an inference and not a claim
+
+Document 4 gives five Guardians and four worlds by name, with `logos` in
+`konstrukt-stadt` and `cerberus` in `grenzfeste`. This document gives numbers
+with Guardians and no world names. **Neither document contains both halves.**
+
+If `LogOS` here is `logos` there — which `fold()` decides mechanically, and which
+nothing has contradicted — then `KW1` is `konstrukt-stadt` and `KW3` is
+`grenzfeste`. **That sentence is this page's inference, attributed to no source**,
+and it is written down so that the next document can confirm or break it rather
+than so that anything may rely on it now.
+
+### What breaks it
+
+A document that numbers a world differently, or that puts `cerberus` anywhere but
+third. `KW2` and `KW4` appearing anywhere would settle most of it at once.

@@ -27,7 +27,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-168 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+173 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -39,19 +39,20 @@ German compounds that nothing has tested. The fixture is nearly free: every
 `Wiki/questions/` page and conflict record already says „a search finds this in
 `<slug>`". Plan: `Plan/concept/skills_2026-09-17.md`.
 
-## Next document, and it is chosen rather than next in order
+**`fold()`'s real baseline is 65%, not 82%, and the misses are systematic.**
+Adding thirteen judgements took the trainset from 17 to 26 balanced examples and
+the baseline fell from 14/17 to 17/26. Every new miss is a plural or an
+inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
+`AEGIS`/`Rest-AEGIS`. `fold()` strips the German definite article and does
+nothing else. **The next improvement is a rule, not a model**, and writing it is
+a decision about how much morphology a safe deterministic rule may claim.
 
-**`aegis-subplots-kapitelweise-system-exploration-docx`**, because conflict C4
-names it: a corpus search finds a passage there that appears to settle whether
-the Guardians sit inside AEGIS, in a document with no census, note or
-reconciliation. Quoted in the conflict record as evidence about what to do next,
-and added to no page.
+## Next document — not yet chosen
 
-The `-docx` is not a typo and the slug is not going to be cleaned up. Drive held
-five exports of this document and `scripts/dedupe.py` kept the one that preserves
-the URLs behind its footnotes — the suffix-less gdoc export drops them, and is
-354 words *longer* for the `end list` markers it adds instead. A slug names the
-Drive export it came from; renaming it would make it stop matching its own title.
+The fifth is done. Nothing currently names a sixth the way C4 named the fifth, so
+choosing it is open. Q1 asks for a document that states the Guardian/AEGIS
+relation outside a question; Q4 asks for one using `Wächter` in an analytic
+sentence; `kern-welten` would be settled by anything mentioning `KW2` or `KW4`.
 
 ## Known failing
 
