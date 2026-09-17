@@ -164,11 +164,16 @@ second convention.
 ## Tiers
 
 `T2-theory` is external science and theory. `T3-work` is project work.
-`T0-duplicate` marks a byte-equal copy of another export and is skipped by
-`fetch`.
+`T0-duplicate` marked a byte-equal copy of another export and was skipped by
+`fetch`. No row carries it any more — the two that did were folded away by
+`scripts/dedupe.py`, which subsumes it and catches the copies that are not
+byte-equal as well.
 
-The manifest has **55 duplicate titles** but only **2** rows marked
-`T0-duplicate`, so deduplication is incomplete. Slugs are unique, so nothing
-overwrites anything — but the same content can land twice under different
-slugs. `sha256_raw` makes that detectable after the fact: two rows with the same
-raw hash are the same document.
+**38 titles still appear on more than one row, and 13 of those have two or more
+landed — and they are not duplicates.** They survived a Jaccard comparison at
+0.8 that folded 63 files away, so their content genuinely differs. This used to
+read „55 duplicate titles but only 2 rows marked `T0-duplicate`, so deduplication
+is incomplete", which drew the right conclusion from the wrong evidence: **a
+shared title was never evidence of a duplicate**, and by the time content was
+actually compared, the titles had stopped predicting it. `Blueprint` is a title
+someone reuses, not a document landed twice.

@@ -86,7 +86,7 @@ elsewhere said to run.
 
 A corpus-wide search finds a passage that appears to settle it — „Modelliert den
 Guardian als funktionale Komponente innerhalb der AEGIS-Architektur" — in
-`aegis-subplots-kapitelweise-system-exploration`, which has **no census, no note
+`aegis-subplots-kapitelweise-system-exploration-docx`, which has **no census, no note
 and no reconciliation.**
 
 It is quoted in `Wiki/conflicts/c4-guardians-and-aegis.md` as evidence about

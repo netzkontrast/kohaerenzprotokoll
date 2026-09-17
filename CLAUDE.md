@@ -138,7 +138,7 @@ They are the same operation with different arguments:
 | the corpus | a count, a plan, a timeline |
 
 And each decomposes into the same operation on smaller subjects: a term across
-315 documents is that term in each, then the merge.
+269 documents is that term in each, then the merge.
 
 **A pipeline of N steps needs N rule sets, N formats and N learnings files, and
 grows forever.** One recursive operation needs one, and what grows instead is the
@@ -275,7 +275,7 @@ toolchain. **A `Hit` says where to look and carries no claim about the corpus**;
 too and is unchanged.
 
 Collections are named for **purpose**, and `all` covers every markdown file
-outside the shelf — 519 of 519. It is excluded from default queries because it
+outside the shelf — 459 of 459. It is excluded from default queries because it
 overlaps the others, so ask for it by name when a question could be answered by
 any layer.
 

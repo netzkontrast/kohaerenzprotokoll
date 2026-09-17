@@ -74,7 +74,7 @@ category order.
 
 ## What would settle it
 
-`aegis-subplots-kapitelweise-system-exploration` processed end to end — census,
+`aegis-subplots-kapitelweise-system-exploration-docx` processed end to end — census,
 note, reconciliation — and its reading added to `guardians` and `aegis` in the
 ordinary way. Four near-copies of it are landed
 (`scripts/duplicates.py --groups`), so one must be chosen and the choice
