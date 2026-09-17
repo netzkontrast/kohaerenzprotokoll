@@ -286,9 +286,12 @@ comparison on the same normalised line, so a citation `--find` produced passes
 `quotes.py` by construction. Checking afterwards names a defect; asking for the
 number instead of typing it is what stops one.
 
-**And `python3 scripts/selftest.py` proves they can fail.** Six quotation cases,
-four citation cases and seven `fold()` pairs, each carrying the exact defect the
-checker must name, so a case that fails for the wrong reason fails the test.
+**And `python3 scripts/selftest.py` proves they can fail** —
+20 <!--state:checks.selftest_cases--> cases across quotation, candidate,
+citation and `fold()`, each carrying the exact defect the checker must name, so
+a case that fails for the wrong reason fails the test. *This sentence said „six
+quotation cases, four citation cases and seven fold pairs" while the file held
+twenty; it carried no marker, so `--prose` could not see it. It has one now.*
 Nobody had ever seen any of them fail — which is the shape of the retired
 pipeline's worst defect: a coverage term that returned 1.0 whenever no gold
 fragments were passed, and was never passed any. Two live runs scored 0.987 and

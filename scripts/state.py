@@ -205,6 +205,19 @@ def _q_unchecked() -> int:
     return _quotes()["unchecked"]
 
 
+@measure("checks.selftest_cases", "cases scripts/selftest.py asserts, by its own registry")
+def _selftest_cases() -> int:
+    """The one number about the checkers that was written in prose and nowhere else.
+
+    `CLAUDE.md` said „six quotation cases, four citation cases and seven fold
+    pairs" while the file held twenty. `--prose` could not catch it because the
+    sentence carried no marker, so the count is derived here and marked there.
+    """
+    import selftest
+    return (len(selftest.QUOTE_CASES) + 1 + 2 + len(selftest.FIND_CASES) + 1
+            + len(selftest.MUST_NOT_MERGE) + len(selftest.MUST_MERGE))
+
+
 @measure("order.holds", "scripts/account.py order — the pipeline's dependency order")
 def _order() -> bool:
     from account import account_order

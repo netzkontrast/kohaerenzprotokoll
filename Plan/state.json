@@ -2,6 +2,10 @@
   "generated": "2026-09-17",
   "by": "scripts/state.py",
   "measurements": {
+    "checks.selftest_cases": {
+      "value": 20,
+      "how": "cases scripts/selftest.py asserts, by its own registry"
+    },
     "documents.reconciled": {
       "value": 9,
       "how": "run directories holding a reconcile.json"
