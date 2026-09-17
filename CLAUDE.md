@@ -247,6 +247,25 @@ git-ignored; `qmd init` and five `collection add` calls rebuild it.
 
 Its first real query is what exposed the 52 near-duplicates above.
 
+**Every file stays in it, and that is checked rather than remembered.**
+
+```bash
+qmd update                          # re-index all collections
+python3 scripts/qmd_coverage.py     # non-zero if a directory is in none of them
+```
+
+A file in no collection is absent from every search and **nothing says so** — the
+search just returns less and looks like it worked. A new directory is the risk:
+`Wiki/questions/` happened to fall inside the `wiki` collection; the next one may
+not. The check lists what is uncovered and separates the known exclusions from a
+real gap.
+
+Five files are uncovered on purpose, all for one reason: **qmd ignores
+`--pattern` and every collection is `**/*.md`**, so a collection rooted at `.`
+pulls in `Legacy/` and the vendored clones — 1,382 files, tried and removed. That
+leaves the four root files and `Sources/README.md` searchable only by opening
+them.
+
 ## Fetching
 
 The one automated step. Documents are large and the bytes never need to pass
