@@ -26,10 +26,6 @@ disagree. There is no such rule.
 **`juna.md` is titled by a name none of the read sources uses**, and `partnerin`
 may be a third surface for the same entity. Nothing read links them.
 
-**Which copy of a near-duplicate is the one to read.** The next document has four
-landed near-copies (`scripts/duplicates.py --groups`). One must be chosen and the
-choice recorded. No precedent.
-
 **Whether the quote convention or the quote checker changes.**
 161 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
@@ -37,11 +33,17 @@ sits in another column. One of the two has to give.
 
 ## Next document, and it is chosen rather than next in order
 
-**`aegis-subplots-kapitelweise-system-exploration`**, because conflict C4 names
-it: a corpus search finds a passage there that appears to settle whether the
-Guardians sit inside AEGIS, in a document with no census, note or reconciliation.
-Quoted in the conflict record as evidence about what to do next, and added to no
-page.
+**`aegis-subplots-kapitelweise-system-exploration-docx`**, because conflict C4
+names it: a corpus search finds a passage there that appears to settle whether
+the Guardians sit inside AEGIS, in a document with no census, note or
+reconciliation. Quoted in the conflict record as evidence about what to do next,
+and added to no page.
+
+The `-docx` is not a typo and the slug is not going to be cleaned up. Drive held
+five exports of this document and `scripts/dedupe.py` kept the one that preserves
+the URLs behind its footnotes — the suffix-less gdoc export drops them, and is
+354 words *longer* for the `end list` markers it adds instead. A slug names the
+Drive export it came from; renaming it would make it stop matching its own title.
 
 ## Known failing
 
