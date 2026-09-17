@@ -31,6 +31,19 @@ may be a third surface for the same entity. Nothing read links them.
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
+**Eight pages carry five identical sentences each — measured, not yet decided.**
+`ani` `ars` `ecr` `pms` `rsa` `snk` `ztv` `nullpunkt-protokoll` are the eight
+protocols of an „AEGIS-Postulat" that one source analyses rather than authors.
+Each page restates the same group fact: the doubly-attributed shape, that the
+postulate itself is not in the corpus, and that the term exists only as an
+object of criticism. 320 lines, most of them the same.
+
+**Left alone on purpose.** The repetition is what makes each page stand alone,
+which is a term page's job, and a construct's test here is use rather than
+argument. What would settle it: a later source using one of these protocols as
+project vocabulary — which each page's Open section already names as the thing
+to watch for. Then the group needs a page and the eight can point at it.
+
 **Which qmd backend this corpus actually wants.** `qmd bench` is an IR
 evaluation harness — four backends, precision@k, recall@1/3/5, MRR, latency —
 and it has never been run here. `CLAUDE.md`'s advice to write structured
