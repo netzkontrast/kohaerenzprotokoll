@@ -1,9 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
 gathered: "2026-09-16"
 ---
 
@@ -40,3 +41,19 @@ where the struggle happens.
 What the Überwelt is *made of*, who else is in it, and how it relates to the
 non-digital „externe Ebene" the brief asks about ^[entropie-aegis.md:L71]. None
 of it is here.
+
+## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
+
+A second source, and it places the Überwelt **outside** the Kern-Welten in the
+collapse sequence:
+
+> „Die Instabilität greift auf die umgebenden Simulationsschichten über. Die
+> \"Überwelt\" erlebt Realitätsverzerrungen, Kommunikationsausfälle, Versagen
+> zentraler Simulationsdienste" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L167]
+
+So the containment relation the first source gave by position — Kern-Welten
+*inside* the same system — is confirmed as a layering: Kern-Welten first, Überwelt
+after.
+
+**This source prefers `Simulation` (44 times) to `Überwelt` (3).** One thing, two
+names, and the newer name dominates.
