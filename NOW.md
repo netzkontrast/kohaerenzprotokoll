@@ -31,6 +31,14 @@ may be a third surface for the same entity. Nothing read links them.
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
+**Which qmd backend this corpus actually wants.** `qmd bench` is an IR
+evaluation harness — four backends, precision@k, recall@1/3/5, MRR, latency —
+and it has never been run here. `CLAUDE.md`'s advice to write structured
+`lex:`/`vec:`/`hyde:` queries rather than a plain phrase is reasoning about
+German compounds that nothing has tested. The fixture is nearly free: every
+`Wiki/questions/` page and conflict record already says „a search finds this in
+`<slug>`". Plan: `Plan/concept/skills_2026-09-17.md`.
+
 ## Next document, and it is chosen rather than next in order
 
 **`aegis-subplots-kapitelweise-system-exploration-docx`**, because conflict C4
