@@ -28,6 +28,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
+import capture  # noqa: E402
 import quotes  # noqa: E402
 import read  # noqa: E402
 from subject import document  # noqa: E402
@@ -110,6 +111,24 @@ def check_quotes() -> list[str]:
     return failures
 
 
+def check_excluded() -> list[str]:
+    """A `- ` line the prose filter removes must be named, never dropped silently.
+
+    `PROSE` cannot tell `ehem. Michael` from a sentence — both carry „. " — and
+    it was removing eleven former names that were one document's own finding.
+    """
+    markdown = "- Kern-Welt\n- ehem. Michael\n- **this is prose about the document**\n"
+    kept = capture.candidate_terms(markdown)
+    named = [term for term, _ in capture.excluded_terms(markdown)]
+    failures = []
+    if kept != ["Kern-Welt"]:
+        failures.append(f"excluded: kept {kept}, expected ['Kern-Welt']")
+    if "ehem. Michael" not in named:
+        failures.append("excluded: an abbreviation was removed and not reported — "
+                        "the filter must say what it took out")
+    return failures
+
+
 def check_overlong() -> list[str]:
     body, want_problems, want_unchecked = OVERLONG_CASE
     with tempfile.TemporaryDirectory() as tmp:
@@ -158,13 +177,15 @@ def check_fold() -> list[str]:
 
 
 def main() -> int:
-    failures = check_quotes() + check_overlong() + check_find() + check_fold()
-    total = (len(QUOTE_CASES) + 1 + len(FIND_CASES) + 1
+    failures = (check_quotes() + check_overlong() + check_excluded()
+                + check_find() + check_fold())
+    total = (len(QUOTE_CASES) + 1 + 2 + len(FIND_CASES) + 1
              + len(MUST_NOT_MERGE) + len(MUST_MERGE))
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
-          f"({len(QUOTE_CASES) + 1} quotation, {len(FIND_CASES) + 1} citation, "
+          f"({len(QUOTE_CASES) + 1} quotation, 2 candidate, "
+          f"{len(FIND_CASES) + 1} citation, "
           f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "

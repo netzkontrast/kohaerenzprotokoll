@@ -3,6 +3,30 @@
 
 #   word = the term standing alone; in = anywhere, compounds included
 
+# 21 `- ` lines were read as prose and NOT counted.
+# Check them: the filter cannot tell an abbreviation from a sentence.
+#   ['. '] ehem. Michael
+#   ['. '] ehem. Die Wächterin
+#   ['. '] ehem. Shadow
+#   ['. '] ehem. Der Kleine
+#   ['. '] ehem. Isabella (jüngere Form)
+#   ['. '] ehem. Isabella (ältere Form)
+#   ['. '] ehem. The Lost One
+#   ['. '] ehem. Alexander
+#   ['. '] ehem. Stefan
+#   ['. '] ehem. Data
+#   ['. '] ehem. Beobachter/Kritiker
+#   ['. '] Über- vs. Untermodulation
+#   ['**'] **Teil 2 is a clean discipline import with zero project content** — not one
+#   ['**'] **`Negentropie` does not appear in this document at all** — worth naming
+#   ['**'] **`Kohärenz Protokoll` (the novel title) appears only once**, in the
+#   ['**'] **Argus's TSDP classification is itself hedged**: „Entstehender ANP/EP-Mix
+#   ['**'] **Selene's classification is similarly double**: „Modifizierter ANP mit
+#   ['**'] **The document's own root theory term, TSDP, is never defined inline** — it
+#   ['**'] **`Kael` the Anteil and `Kael` the system name are the same string used two
+#   ['**'] **`B` as a Kernwelt name is one character** and will not survive a
+#   ['**'] **Quotation marks here mark AEGIS's own gaslighting lines, not invention or
+
   System Kael                      19 word    19 in   [11, 15, 36, 60, 100, 102]
   Kohärenz Protokoll                3 word     3 in   [15, 522, 568]
   Anteile                          66 word    94 in   [15, 21, 23, 27, 31, 32]

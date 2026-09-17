@@ -48,6 +48,31 @@ WORD = re.compile(r"[A-ZÄÖÜ][A-Za-zäöüß]{3,}")
 PROSE = re.compile(r"\*\*|`|\. |, ")
 
 
+def excluded_terms(markdown: str) -> list[tuple[str, str]]:
+    """The `- ` lines `PROSE` removed, with the mark that removed each.
+
+    Reported rather than dropped in silence, because `PROSE` cannot tell a
+    sentence from an abbreviation and both carry „. ". Measured over every
+    candidate list here: of 57 excluded lines, 33 are prose caught by `**` or a
+    backtick as well, and **16 are terms** — `Dr. Aris Thorne`, `A := (S, M, Π,
+    Δ, T)`, and eleven `ehem. <Name>` entries that are the former names of one
+    document's eleven Anteile, which is that document's own central finding.
+
+    No punctuation test separates them: `ehem. Michael` and a real sentence have
+    the same shape. So the filter stays and stops being invisible — the same
+    correction the `len(term) <= 40` guard needed, for the same reason.
+    """
+    out = []
+    for line in markdown.split("\n"):
+        if not line.startswith("- "):
+            continue
+        term = line[2:].strip()
+        found = PROSE.search(term) if term else None
+        if found:
+            out.append((term, found.group(0)))
+    return out
+
+
 def candidate_terms(markdown: str) -> list[str]:
     """The `- term` lines, and only those.
 
@@ -246,6 +271,13 @@ def count(slug: str) -> Path:
     ]
     out.append("#   word = the term standing alone; in = anywhere, compounds included")
     out.append("")
+    excluded = excluded_terms(candidates_file.read_text(encoding="utf-8"))
+    if excluded:
+        out.append(f"# {len(excluded)} `- ` lines were read as prose and NOT counted.")
+        out.append("# Check them: the filter cannot tell an abbreviation from a sentence.")
+        for term, mark in excluded:
+            out.append(f"#   [{mark!r}] {term[:90]}")
+        out.append("")
     for term in terms:
         hits = [i + offset for i, line in enumerate(lines) if term in line]
         word, inside = count_both(term, text)
