@@ -181,16 +181,17 @@ current code**:
   met its first exception
 - `judgement` — no code claims this; still a person's call
 
-**Run it after touching `fold()` or any matching rule.** And note what it cannot
-see: `fold()` was correct while `reconcile.py` excluded exact fold-equality from
-its own intra-list check, so three worlds were reported as six new terms. The
-ledger replayed green throughout, because no recorded judgement covered the
-caller. A green replay says the recorded decisions still hold, not that the code
-around them is right. A rule that was
+**Run it after touching `fold()` or any matching rule.** A rule that was
 mechanised and then quietly stopped holding is invisible otherwise — which is not
 hypothetical: the check's *first run* found that `fold()`'s own docstring claimed
 behaviour it did not have, and the same false claim had been repeated in two other
 files.
+
+**And note what it cannot see.** `fold()` was correct the whole time
+`reconcile.py` excluded exact fold-equality from its own intra-list check, which
+reported three worlds as six new terms. The ledger replayed green throughout,
+because no recorded judgement covered the caller. **A green replay says the
+recorded decisions still hold, not that the code around them is right.**
 
 `Plan/learnings/extract-terms.md` has the fourteen special cases the first two
 censuses found, and why the first comparison inverted the premise the step was
