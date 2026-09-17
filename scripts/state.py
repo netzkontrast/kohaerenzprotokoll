@@ -187,6 +187,27 @@ def _quotes() -> dict:
     return _quotes.cached
 
 
+# ---------------------------------------------------------------- trainsets
+
+@measure("trainset.surface_pairs", "labelled one-term/two-terms examples in the ledger")
+def _ts_pairs() -> int:
+    from trainset import surface_pairs
+    return len(surface_pairs())
+
+
+@measure("trainset.fold_baseline_pct", "what fold() scores on them — beat this or do not call an LM")
+def _ts_base() -> int:
+    from trainset import surface_pairs, fold_baseline
+    return round(fold_baseline(surface_pairs())["accuracy"] * 100)
+
+
+@measure("trainset.gold_candidate_lists", "candidate lists written while reading, not reconstructed")
+def _ts_gold() -> int:
+    runs = ROOT / "Plan" / "runs"
+    return sum(1 for p in runs.glob("*/03-candidates.md")
+               if "reconstruct" not in p.read_text(encoding="utf-8")[:300].lower())
+
+
 # ---------------------------------------------------------------- driver
 
 def derive() -> dict:

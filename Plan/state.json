@@ -62,6 +62,18 @@
       "value": 680,
       "how": "rows in Sources/manifest.jsonl"
     },
+    "trainset.fold_baseline_pct": {
+      "value": 82,
+      "how": "what fold() scores on them \u2014 beat this or do not call an LM"
+    },
+    "trainset.gold_candidate_lists": {
+      "value": 0,
+      "how": "candidate lists written while reading, not reconstructed"
+    },
+    "trainset.surface_pairs": {
+      "value": 17,
+      "how": "labelled one-term/two-terms examples in the ledger"
+    },
     "wiki.conflicts": {
       "value": 4,
       "how": "conflict records counted by the derived Wiki/index.json"
