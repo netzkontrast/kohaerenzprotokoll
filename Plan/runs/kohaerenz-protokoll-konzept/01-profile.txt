@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-konzept
+  lines                417  (frontmatter ends at 9)
+  body words           10653
+  headings             12   bold-only lines 29
+  table rows           29   code fences 0
+  question marks       38
+  backslash escapes    117
+  typographic marks    32   ascii quotes 212
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    117
+  repeated labels      Inhaltlicher Fokus x3, Narrativer Rahmen x3, Pacing x3, Psychologischer Rahmen x3
+  longest line         9219 chars
+

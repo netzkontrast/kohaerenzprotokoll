@@ -1,0 +1,208 @@
+# counts for 151 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Seelen-Kohärenz-Protokoll         3 word     3 in   [11, 17, 29]
+  Blueprint V5                      4 word     4 in   [17, 27, 134, 162]
+  Michael                          87 word   148 in   [17, 19, 31, 37, 38, 39]
+                                   58      as Michaels
+                                    1      as Michael-Julia-Verbindung
+                                    1      as Michael-Julia-Dynamik
+                                    1      as Michael-Julia
+  Dissoziative Identitätsstörung    3 word     3 in   [416]
+  DID                              45 word    74 in   [17, 19, 31, 37, 40, 41]
+  Guardians                        85 word    85 in   [17, 19, 29, 31, 39, 41]
+  Seele = Information               1 word     1 in   [17]
+  Seele=Info                       12 word    12 in   [41, 61, 65, 80, 92, 134]
+  Systemfehler                      3 word     3 in   [17, 79, 252]
+  Datenkorruption                   3 word     3 in   [17, 252, 343]
+  Julia                            52 word    72 in   [19, 31, 38, 41, 43, 51]
+                                   15      as Julias
+                                    1      as Julia-Verbindung
+                                    1      as Julia-Krise
+  externe Ebene                     8 word     8 in   [39, 60, 61, 62, 64, 92]
+  Qualia                           17 word    17 in   [19, 61, 92, 128, 145, 146]
+  nicht-lokale Phänomene            0 word     0 in   []
+  Kohärenz                          7 word    12 in   [11, 17, 19, 29, 43, 52]
+                                    1      as Kohärenz-Analysatoren
+                                    1      as Kohärenz-Analysator
+  Datenintegration                  1 word     1 in   [19]
+  Datenpunkte                       2 word     2 in   [19, 145]
+  Systemwächter                     1 word     1 in   [23]
+  Systemhütern                      1 word     1 in   [29]
+  Personas                          1 word     1 in   [31]
+  Architekt                         1 word     5 in   [31, 97, 99, 173, 317]  <-- substring
+                                    3      as Architektur
+  Echo                              1 word     1 in   [31]
+  Partnerin                         1 word     1 in   [31]
+  Alters                           55 word    59 in   [19, 37, 59, 61, 62, 73]
+  Alter                            12 word    86 in   [19, 37, 49, 59, 61, 62]  <-- substring
+                                   55      as Alters
+                                    3      as alters
+                                    2      as Alter-Funktionen
+                                    2      as Alter-Archetypen
+  Sechs Ebenen der Realität         1 word     1 in   [39]
+  Überwelt                         23 word    23 in   [39, 60, 91, 140, 173, 175]
+  Heldinnenreise                   10 word    11 in   [40, 63, 258, 266, 291, 317]
+                                    1      as Heldinnenreise-Struktur
+  Murdock                           5 word     7 in   [40, 266, 268, 291, 382, 416]
+                                    1      as Murdocks
+  Heldenreise                      12 word    13 in   [40, 53, 278, 280, 282, 283]
+                                    1      as Heldenreise-Struktur
+  Campbell                          4 word     4 in   [40, 280, 291, 382]
+  Stabilisierung                    7 word     8 in   [40, 63, 74, 267, 274, 294]
+                                    1      as Stabilisierungsversuche
+  Traumabearbeitung                10 word    10 in   [40, 63, 274, 281, 301, 302]
+  Integration                      38 word    42 in   [40, 43, 53, 59, 61, 62]
+                                    1      as Integrationsversagen
+                                    1      as Integrations
+                                    1      as Integrationsstrategie
+  funktionale Multiplizität         5 word     5 in   [40, 75, 281, 366, 379]
+  Neuorientierung                   4 word     4 in   [63, 281, 304, 379]
+  Kernpersönlichkeit                3 word     4 in   [59, 104, 109, 377]
+                                    1      as Kernpersönlichkeits
+  Leitprinzipien                    3 word     3 in   [25, 45, 47]
+  Identität & Fragmentierung        1 word     1 in   [59]
+  Bewusstwerdung                    7 word     7 in   [59, 74, 103, 267, 268, 269]
+  Co-Bewusstsein                    5 word     5 in   [49, 62, 123, 315, 380]
+  Integrationsversagen              1 word     1 in   [59]
+  strukturelle Dissoziation         0 word     0 in   []
+  Depersonalisation                 6 word     6 in   [60, 108, 161, 248, 313, 377]
+  Derealisation                     5 word     5 in   [60, 108, 248, 313, 377]
+  Risse                            25 word    27 in   [60, 75, 79, 80, 95, 140]
+                                    2      as Rissen
+  Wissen/Epistemologie              1 word     1 in   [61]
+  transzendentes Wissen             1 word     1 in   [61]
+  Trauma & Heilung                  1 word     1 in   [63]
+  ISSTD                             1 word     3 in   [63, 291, 379]  <-- substring
+                                    1      as ISSTD-leitlinienorientierten
+                                    1      as ISSTD-Leitlinien
+  Verbindung                       48 word    51 in   [19, 23, 38, 41, 52, 61]
+                                    1      as Verbindungen
+  Bewusstseinsverschränkung         1 word     1 in   [128]
+  nicht-lokale Verschränkung        0 word     0 in   []
+  nicht-lokales Bewusstsein         0 word     0 in   []
+  Ethik                             1 word     1 in   [65]
+  Persönlichkeitsanteile            2 word     3 in   [73, 81, 254]
+                                    1      as Persönlichkeitsanteilen
+  Protektoren                       2 word     2 in   [73, 86]
+  Protector                         5 word     5 in   [116, 293, 328, 335, 377]
+  Persecutoren                      1 word     1 in   [73]
+  Persecutor                        7 word    15 in   [73, 117, 118, 120, 181, 185]  <-- substring
+                                    2      as Persecutory
+                                    1      as Persecutoren
+                                    1      as Persecutor-Aktionen
+                                    1      as Persecutor-Anteilen
+  Kind-Anteile                      5 word     8 in   [73, 86, 116, 160, 185, 191]
+                                    3      as Kind-Anteilen
+  dissoziative Intrusionen          1 word     1 in   [73]
+  Amnesie                          13 word    16 in   [49, 59, 62, 73, 79, 85]
+                                    3      as Amnesiebarrieren
+  Glitches                          2 word     2 in   [79, 241]
+  Datenfehler                       2 word     2 in   [80, 348]
+  Datenkohärenz                     3 word     3 in   [81, 275, 342]
+  ontologischer Konflikt            0 word     0 in   []
+  Host                             14 word    16 in   [108, 115, 117, 121, 123, 161]
+                                    2      as Hosts
+  Apparently Normal Part            1 word     1 in   [108]
+  ANP                              10 word    12 in   [108, 115, 179, 201, 205, 211]
+  Kern                              7 word    28 in   [13, 15, 19, 29, 52, 55]  <-- substring
+                                    3      as Kernthemen
+                                    3      as Kernpersönlichkeit
+                                    3      as Kern-Trauma
+                                    2      as Kernkonzept
+  Wächter                           1 word     1 in   [116]
+  Schatten                          2 word     2 in   [117, 359]
+  Leo                               1 word     1 in   [118]
+  Der Archivar                      1 word     1 in   [119]
+  Gatekeeper                        8 word    10 in   [119, 161, 330, 334, 336, 346]
+                                    1      as Gatekeeper-Alter
+                                    1      as Gatekeepers
+                                    1      as gatekeeper-alters
+  Memory Holder                     2 word     3 in   [120, 185, 377]
+  EP                                6 word    12 in   [120, 152, 179, 181, 185, 191]
+  Funke                             1 word     1 in   [121]
+  Internal Self-Helper              3 word     3 in   [121, 161, 377]
+  ISH                               2 word     2 in   [334, 349]
+  LogOS                             3 word     3 in   [138, 337, 341]
+  Mnemosyne                         3 word     3 in   [139, 337, 341]
+  Cerberus                          1 word     1 in   [140]
+  Kairos                            1 word     1 in   [141]
+  Sophia                            1 word     1 in   [141]
+  Kairos/Sophia                     1 word     1 in   [141]
+  Protokolle zur Datensynchronisation    1 word     1 in   [151]
+  Algorithmen zur Emotionsdämpfung    1 word     1 in   [152]
+  Module zur Verhaltenskorrektur    1 word     1 in   [153]
+  Logische Kohärenz-Analysatoren    1 word     1 in   [154]
+  Daten-Synchronisator              1 word     1 in   [344]
+  Emotions-Dämpfer                  2 word     2 in   [344, 345]
+  Verhaltens-Korrektor              1 word     1 in   [344]
+  Kohärenz-Analysator               1 word     2 in   [154, 344]
+                                    1      as Kohärenz-Analysatoren
+  Kind                              1 word    16 in   [73, 86, 116, 118, 160, 185]  <-- substring
+                                    5      as Kind-Anteile
+                                    4      as Kind-Anteil
+                                    3      as kindliche
+                                    3      as Kind-Anteilen
+  Beobachter                        2 word     2 in   [161]
+  Vogel                             1 word     1 in   [162]
+  Welt 1: Die Zerbrochene Stadt     1 word     1 in   [181]
+  Welt 2: Der Ewige Spielplatz      1 word     1 in   [191]
+  Das Starre Puppenhaus             1 word     1 in   [191]
+  Welt 3: Die Zitadelle der Wacht    1 word     1 in   [201]
+  Welt 4: Die Endlose Bibliothek    1 word     1 in   [211]
+  Das Masken-Theater                1 word     1 in   [211]
+  Ebene 5                           2 word     2 in   [173, 336]
+  Ebene 6                           1 word     1 in   [174]
+  Nexuspunkt                        1 word     1 in   [237]
+  Brücke                            1 word     1 in   [237]
+  Avatar                            1 word     1 in   [237]
+  Trauma-Loop                       1 word     1 in   [120]
+  Flashback                         1 word     4 in   [79, 187, 245, 315]  <-- substring
+                                    3      as Flashbacks
+  Alter Intrusion                   1 word     1 in   [246]
+  Switch                            2 word     7 in   [85, 119, 246, 247, 327, 377]  <-- substring
+                                    2      as Switching
+                                    2      as Switches
+  ANP/EP-Modell                     1 word     1 in   [377]
+  Emotional Parts                   2 word     2 in   [185, 195]
+  Fragmente                         2 word     3 in   [341, 342, 343]
+                                    1      as Fragmenten
+  Trauma-Korruption                 1 word     1 in   [341]
+  Systeminstabilität                2 word     2 in   [79, 341]
+  Systemgrenzen                     1 word     1 in   [140]
+  Systemparametern                  1 word     1 in   [134]
+  Systemregeln                      1 word     1 in   [140]
+  Systemalarme                      2 word     2 in   [207, 328]
+  Systemanomalie                    1 word     1 in   [246]
+  Datenstrom                        1 word     1 in   [221]
+  Netzwerkarchitektur               1 word     1 in   [221]
+  Informationslandschaft            1 word     1 in   [173]
+  Informationskonstrukt             1 word     1 in   [341]
+  Reparaturdrohnen                  1 word     1 in   [328]
+  Quarantänezonen                   1 word     1 in   [328]
+  Narrativer Rahmen                 3 word     3 in   [266, 273, 280]
+  Psychologischer Rahmen            3 word     3 in   [267, 274, 281]
+  Inhaltlicher Fokus                3 word     3 in   [268, 275, 282]
+  Pacing                            4 word     4 in   [256, 269, 276, 283]
+  Ordinary World                    2 word     2 in   [292, 325]
+  Crossing the Threshold            1 word     1 in   [269]
+  Road of Trials                    4 word     4 in   [294, 301, 331, 357]
+  Innermost Cave                    4 word     4 in   [295, 302, 332, 360]
+  Ordeal                            6 word     6 in   [280, 282, 296, 303, 335, 363]
+  Reward                            4 word     4 in   [297, 304, 336, 366]
+  Road Back                         4 word     4 in   [297, 305, 337, 367]
+  Resurrection                      2 word     2 in   [306, 370]
+  Freedom to Live                   2 word     2 in   [307, 371]
+  Kontrollzentrum                   2 word     2 in   [206, 337]
+  Innenwelt                         8 word    12 in   [17, 39, 49, 50, 60, 172]
+                                    2      as Innenwelten
+                                    1      as Innenwelt-Metapher
+  Headspace                         1 word     1 in   [378]
+  hard problem of consciousness     1 word     1 in   [385]
+  Kerntrauma                        1 word     1 in   [282]
+  Kern-Trauma                       3 word     3 in   [303, 363, 365]
+  Genre-Mix                         1 word     1 in   [412]
+  Symptommanagement                 1 word     1 in   [267]
+  Zeitverlust                       3 word     3 in   [103, 247, 325]

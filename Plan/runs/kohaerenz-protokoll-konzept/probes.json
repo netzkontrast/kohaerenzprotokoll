@@ -1,0 +1,328 @@
+{
+  "document": "kohaerenz-protokoll-konzept",
+  "drive_id": "1C8NGPq4Ut-uj-lcuuCRsQY5OiXBaV85t4BpNd_NpAzI",
+  "step": "probes",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 117,
+  "backslash_escapes": 117,
+  "typographic_marks": 32,
+  "ascii_quotes": 212,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemalarme",
+      "Systemanomalie",
+      "Systematic",
+      "Systeme",
+      "Systemfehler",
+      "Systemfragmentierung",
+      "Systemgrenzen",
+      "Systemhütern",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemparametern",
+      "Systemregeln",
+      "Systems",
+      "Systemstabilität",
+      "Systemwächter"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbeschädigung",
+      "Datenfehler",
+      "Datenintegration",
+      "Datenintegrität",
+      "Datenkohärenz",
+      "Datenkorruption",
+      "Datenpunkte",
+      "Datensatz",
+      "Datenstrom",
+      "Datensynchronisation"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Intern",
+      "Internal",
+      "Internalisiertes",
+      "International",
+      "Internet",
+      "Interpretation",
+      "Interpretationen",
+      "Intervention",
+      "Interventionen"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsebene",
+      "Bewusstseinsfeld",
+      "Bewusstseinsphilosophie",
+      "Bewusstseinsproblem",
+      "Bewusstseinsverbindung",
+      "Bewusstseinsverschränkung",
+      "Bewusstwerdung"
+    ],
+    "ident": [
+      "IDENTITY",
+      "Identifikation",
+      "Identifizieren",
+      "Identifiziert",
+      "Identifying",
+      "Identity",
+      "Identität",
+      "Identitätsstörung",
+      "Identitätszuständen"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrasts",
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollfunktionen",
+      "Kontrolliert",
+      "Kontrollverlust",
+      "Kontrollversuche",
+      "Kontrollzentrum"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterbögen",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakterisiert",
+      "Charakterprofile",
+      "Charakterzentrierung"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychische",
+      "Psychoeducation",
+      "Psychologische",
+      "Psychologischer",
+      "Psychology",
+      "Psychosis",
+      "Psychothriller"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfluss",
+      "Informationskonstrukt",
+      "Informationslandschaft",
+      "Informationssystem",
+      "Informationsverarbeitung"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeptdokument",
+      "Konzeptdokuments",
+      "Konzepte",
+      "Konzepten",
+      "Konzeption",
+      "Konzepts"
+    ],
+    "reali": [
+      "Realismus",
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsverlust"
+    ],
+    "sympt": [
+      "Symptom",
+      "Symptomatik",
+      "Symptomdurchbrüche",
+      "Symptome",
+      "Symptomen",
+      "Symptommanagement",
+      "Symptomreduktion"
+    ],
+    "disso": [
+      "DISSOCIATIVE",
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativen"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbrechen",
+      "Durchbruch",
+      "Durchqueren",
+      "Durchscheinen",
+      "Durchsetzung"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionen",
+      "Emotions",
+      "Emotionsdämpfung",
+      "Emotionslos"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsort",
+      "Handlungspunkte",
+      "Handlungsraum",
+      "Handlungsverläufen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktebenen",
+      "Konflikten",
+      "Konfliktquelle",
+      "Konflikts"
+    ],
+    "trans": [
+      "TRANSCENDENCE",
+      "Transcendence",
+      "Transformation",
+      "Transition",
+      "Transzendenter",
+      "Transzendenz"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabearbeitung",
+      "Traumaheilung",
+      "Traumas",
+      "Traumata",
+      "Traumatisierung"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltens",
+      "Verhaltenskorrektur",
+      "Verhaltenswechsel",
+      "Verhaltensweisen",
+      "Verhaltensänderungen"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsdaten",
+      "Erinnerungsfragmente",
+      "Erinnerungsschleifen"
+    ],
+    "erleb": [
+      "Erleben",
+      "Erlebens",
+      "Erlebnisqualitäten",
+      "Erlebnisse",
+      "Erlebniszuständen"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählperspektive",
+      "Erzählstil",
+      "Erzählung",
+      "Erzählungen"
+    ],
+    "exter": [
+      "Extern",
+      "External",
+      "Externalisierungen",
+      "Externe",
+      "Externen"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionelle",
+      "Funktionen",
+      "Funktionsweise"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Anteil"
+    ],
+    [
+      "Teil",
+      "Anteils"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Teil",
+      "Anteilen"
+    ],
+    [
+      "Teil",
+      "Hauptteile"
+    ],
+    [
+      "Teil",
+      "Bestandteil"
+    ],
+    [
+      "Teil",
+      "Persönlichkeitsanteils"
+    ],
+    [
+      "Teil",
+      "Persönlichkeitsanteile"
+    ],
+    [
+      "Teil",
+      "Persönlichkeitsanteilen"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Reines"
+    ],
+    [
+      "Eine",
+      "Verfeinerung"
+    ],
+    [
+      "Eine",
+      "Durchscheinen"
+    ],
+    [
+      "Hero",
+      "Heroine"
+    ],
+    [
+      "Hero",
+      "Heroines"
+    ],
+    [
+      "Leid",
+      "Leiden"
+    ],
+    [
+      "Mode",
+      "Model"
+    ],
+    [
+      "Mode",
+      "Modern"
+    ],
+    [
+      "Mode",
+      "Modell"
+    ]
+  ]
+}
