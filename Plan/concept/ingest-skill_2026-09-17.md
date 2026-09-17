@@ -255,8 +255,8 @@ nothing to check: `Wiki/` contains zero `[[links]]`". The wiki linked with
 the markup did not mark. What the survey rejected was a model *inferring* edges,
 and it said in the same line that canon links must be **explicit**. Decision 005
 separated the two marks and ran the migration:
-237 <!--state:wiki.relations--> links, 16 <!--state:wiki.orphans--> orphans,
-78 <!--state:wiki.unmarked--> still unmarked because a quotation may not gain
+283 <!--state:wiki.relations--> links, 16 <!--state:wiki.orphans--> orphans,
+85 <!--state:wiki.unmarked--> still unmarked because a quotation may not gain
 markup a source did not have.
 
 ## What is not yet possible, stated plainly

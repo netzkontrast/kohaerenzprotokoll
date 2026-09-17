@@ -31,7 +31,7 @@ document's own claim on `partnerin.md`, not resolved into a merge — whether th
 corpus's other `Partnerin` occurrences (23 documents) agree is still open.
 
 **Whether the quote convention or the quote checker changes.**
-254 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+293 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 

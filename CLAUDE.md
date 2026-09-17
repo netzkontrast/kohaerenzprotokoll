@@ -70,14 +70,14 @@ but the distinction was real while it lasted and the script that measures it
 stays.
 
 **9 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **9
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **7
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **8
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-two `worldbuilding`, one `aegis`, one `kernkonzept`. The two with a census and a
-note but not yet reconciled are `charakterkonzepte-fuer-kohaerenz-protokoll` and
+two `worldbuilding`, one `aegis`, one `kernkonzept`, one `charaktere`. The one
+with a census and a note but not yet reconciled is
 `strukturelle-dissoziation-system-kael-analyse`.
 
-`Wiki/candidates/` holds **58 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
-holds **5 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
+`Wiki/candidates/` holds **59 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+holds **6 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 **4 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
@@ -92,6 +92,7 @@ has been promoted.
 | `aegis-subplots-kapitelweise-system-exploration-docx` | 0 | 2 | 0 |
 | `roman-lokalitaeten-konzept-und-ausarbeitung` | 10 | 17 | 1 |
 | `kohaerenz-protokoll-konzept` | 2 | 20 | 0 |
+| `charakterkonzepte-fuer-kohaerenz-protokoll` | 1 | 24 | 1 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -113,17 +114,29 @@ uses `Michael`/`Julia` and never `AEGIS`: the pre-rename voice five earlier
 documents already gave pages under other names. A dense document and a wiki
 that already covers what it is dense about produces readings, not pages.
 
-`Plan/runs/judgements.jsonl` holds **68 <!--state:judgements.total--> judgements**
+**The eighth is the first `charaktere` document, and its one new page is a
+split rather than a discovery.** 108 candidates across 21 full character
+profiles — the richest shape read so far, richer than the seventh's own
+sketch table — and still zero pages created from them: every proposed name
+carries `oder ähnlich`, the same hedge that kept the fifth document at zero.
+`zero-trust.md` splits off the existing `aegis-teilfunktionen.md` instead,
+the moment that page's own pre-stated condition was finally met. Its own
+most confident data breaks a strict one-alter-one-world reading directly —
+two Alters share a world, a third is given two at once, both unhedged — and
+it names a fourth, disjoint Alter roster against a fifth document's, zero
+names shared, raised as `Wiki/conflicts/c6-alter-roster-two-documents.md`
+and not resolved.
+
+`Plan/runs/judgements.jsonl` holds **83 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
 **`python3 scripts/account.py order` holds** — `false`
 <!--state:order.holds-->, and that red is the check working rather than a
-defect: two documents (`charakterkonzepte-fuer-kohaerenz-protokoll`,
-`strukturelle-dissoziation-system-kael-analyse`) have a census and a note and
-have not yet been reconciled. Every document that *has* been reconciled ran
-against the state the previous one left, and the wiki matches what the newest
-of those runs recorded leaving.
+defect: one document (`strukturelle-dissoziation-system-kael-analyse`) has a
+census and a note and has not yet been reconciled. Every document that *has*
+been reconciled ran against the state the previous one left, and the wiki
+matches what the newest of those runs recorded leaving.
 
 ### Do not trust the numbers above — they are checked
 
@@ -283,8 +296,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**237 <!--state:wiki.relations--> links across
-58 <!--state:wiki.pages--> pages, 16 <!--state:wiki.orphans--> of them with
+**283 <!--state:wiki.relations--> links across
+59 <!--state:wiki.pages--> pages, 16 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -302,7 +315,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 78 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+The 85 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
 occurrence sits inside a quotation, a citation line or a heading. Those are
 places the pass may not touch, so that number is a measurement and not a backlog.
 
@@ -460,7 +473,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 237 <!--state:wiki.relations-->.
+links. It has 283 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
