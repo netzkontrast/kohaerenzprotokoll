@@ -955,3 +955,213 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** This document never writes Kern-Welt or Kernwelt at all -- it numbers Welt 1-4 instead (see kern-welten.md reading). The fold() near-match is a substring coincidence between the polysemous root Kern (J58/J59) and an unrelated corpus term.
 
 **Result.** NOT related.
+
+## J69 — Alters / Alter
+
+**one-term** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** the German singular of a borrowed collective noun names the same concept as the plural the wiki already tracks
+- **mechanised by:** `nothing`
+- **features:** singular-plural, intra-document
+
+**Question.** does this document's singular Alter name the same concept as the already-tracked plural Alters?
+
+**What was done.** The document uses "Alter" (singular, e.g. L217 "in verschiedene Anteile, sogenannte Alters, fragmentiert", L265 "Kernfunktion/Rolle") and "Alters" (plural/collective, matching the tracked surface) for the same DID concept throughout, declined normally in German.
+
+**Result.** ONE term. Recorded together on alters.md, which already carries the tracked surface "Alters".
+
+## J70 — Alter / Child Alter
+
+**one-term-family** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a subtype label in the same domain is recorded with its root term rather than as a separate page
+- **mechanised by:** `nothing`
+- **features:** generic-vs-subtype, intra-document
+
+**Question.** is "Child Alter" a separate term from the generic "Alter" category?
+
+**What was done.** "Child Alter (Little)" (L317) is a DID role-subtype of the generic "Alter" category, used for Echo and Flicker specifically -- the same shape as the existing role-labels Gatekeeper/Protector/Persecutor/Caretaker/Internal Self-Helper.
+
+**Result.** Recorded with its root term on alters.md as clinical-vocabulary, not split into its own page.
+
+## J71 — Alter / Trauma-Halter
+
+**not-related** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared normalised substring across unrelated compounds is not a term match
+- **mechanised by:** `nothing`
+- **features:** fold-false-positive, substring-trap
+
+**Question.** does the fold() near-match between Alter and Trauma-Halter reflect a real relation?
+
+**What was done.** "Trauma-Halter" (L225, L508 -- Oblivion's specific Freeze-type role) contains "alter" only as a orthographic tail of "-halter" ("holder"); it names a specific character's role, not the generic Alter category.
+
+**Result.** NOT related. Trauma-Halter recorded as Oblivion's role-label on alters.md, not folded with bare Alter.
+
+## J72 — Juna / Junas Fragment
+
+**two-terms** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a hedged, localised manifestation of a tracked entity is a reading of that entity, not the entity itself and not a new page
+- **mechanised by:** `nothing`
+- **features:** possessive-derivative, intra-document
+
+**Question.** is Junas Fragment the same referent as Juna, or a distinct manifestation?
+
+**What was done.** "Junas Fragment (Manifestation in einer Kern-Welt)" (L605) is explicitly a partial, localised manifestation of Juna inside one Kern-Welt -- "verletzlicher oder begrenzter als Juna selbst" (L608) -- proposed under the alternate name "Echo / Lichtfunke (oder ähnlich)" (L606), one of the document's eleven hedged Nebencharaktere.
+
+**Result.** TWO terms. Recorded as a reading on juna.md (what a manifestation of her looks like), not folded into Juna nor given its own page -- the document's own hedge ("oder ähnlich") is the same shape document 5's brief carried for every proposed name.
+
+## J73 — Autonomous Entropic Gatekeeper for Integrity Systems / Gatekeeper
+
+**not-related** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared word between an acronym expansion and an unrelated generic role-label is not a term match
+- **mechanised by:** `nothing`
+- **features:** fold-false-positive, substring-trap, intra-document
+
+**Question.** does the intra-list near-match between the AEGIS acronym and Limina's role-label Gatekeeper reflect a real relation?
+
+**What was done.** The acronym expansion (L118) names AEGIS. "Gatekeeper" (L222, L265, L503) is Limina's DID role-type, an Alter of Kael's -- an unrelated referent that shares the word "Gatekeeper" only because AEGIS's own acronym happens to contain it.
+
+**Result.** NOT related. Gatekeeper recorded on alters.md as Limina's role-label; the acronym recorded on aegis.md.
+
+## J74 — Ashby's Law of Requisite Variety / Requisite Variety
+
+**one-term** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** the short form of one cited external law is the same referent as its full name, and a citation is not promoted to a term page
+- **mechanised by:** `nothing`
+- **features:** short-form-long-form, intra-document, external-citation
+
+**Question.** are the full and short forms of this cited cybernetic law one term?
+
+**What was done.** L128 states the law in full once ("kybernetischen Prinzipien wie Ashby's Law of Requisite Variety") and the document's Arc-Potenzial section (L146 area) later uses only "requisite variety" for the same cited principle.
+
+**Result.** ONE term -- an external, real-world citation the document uses to argue AEGIS's blind spot, not a corpus-original concept. Recorded as citation vocabulary on aegis.md/seele-info.md, not given its own page.
+
+## J75 — Alter / alters
+
+**one-term** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** the German singular of a borrowed collective noun names the same concept as the plural the wiki already tracks
+- **mechanised by:** `nothing`
+- **features:** singular-plural, lookup-match
+
+**Question.** does the wiki-lookup near-match between Alter and the tracked alters.md page hold?
+
+**What was done.** Same pair and same reasoning as J69, this time as the lookup (not intra-list) classification.
+
+**Result.** ONE term, confirming J69.
+
+## J76 — Autonomous Entropic Gatekeeper for Integrity Systems / Entropic Gatekeeper
+
+**one-term** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** an independently-supplied expansion identical in wording to an existing reading confirms it rather than adding a new one
+- **mechanised by:** `nothing`
+- **features:** independent-confirmation, conflict-relevant
+
+**Question.** does this document's acronym expansion (L118) match the tracked entropie-aegis reading on aegis.md?
+
+**What was done.** Compared word-for-word: entropie-aegis.md:L19 gives "AEGIS = Autonomous Entropic Gatekeeper for Integrity Systems"; this document's L118 gives the identical expansion, unprompted, from an unrelated document read eleven days later.
+
+**Result.** ONE term -- an independent confirmation of the first of three incompatible expansions in conflict C1, not a new reading. Recorded on aegis.md as corroboration.
+
+## J77 — Systemkohärenz / Kohärenz
+
+**one-term** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a "System-" compound of an already-tracked abstract property names the same referent when the usage matches the tracked sense
+- **mechanised by:** `nothing`
+- **features:** compound-of-tracked-term, lookup-match
+
+**Question.** does AEGIS's "Systemkohärenz" (L137, threatened by Juna) name the same referent as the tracked property on kohaerenz.md?
+
+**What was done.** kohaerenz.md's tracked reading is "a property of a running system... what AEGIS monitors, and what it loses". L137: "Juna... eine fundamentale Bedrohung für die Systemkohärenz" uses the word in exactly that sense -- a system-wide coherence property under threat.
+
+**Result.** ONE term. Reading added to kohaerenz.md.
+
+## J78 — Zero-Trust-Protokolle / Zero-Trust
+
+**one-term** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** the first source to say something substantive about one bundled sub-function triggers that page's own pre-stated split condition
+- **mechanised by:** `nothing`
+- **features:** lookup-match, page-split-trigger
+
+**Question.** is this document's Zero-Trust-Protokolle the same AEGIS sub-function as the one bundled on aegis-teilfunktionen.md, and does it trigger that page's stated split condition?
+
+**What was done.** L205: "Aufgrund der segmentierten Natur des Systems (Zero-Trust-Protokolle, Kontext Pt 2) haben sie [Guardians] möglicherweise nur begrenztes Bewusstsein voneinander" -- an AEGIS-internal segmentation function, matching aegis-teilfunktionen.md's Zero-Trust sub-function and NOT the external Zero-Trust-Architektur J11 already separated from it.
+
+**Result.** ONE term, and aegis-teilfunktionen.md's own stated rule ("this splits into four pages the moment any source says something about any one of them") now applies: split Zero-Trust into its own page, zero-trust.md, with this reading. Cognitive Firewall, Integrity Guardian and SIS remain bundled -- nothing has been said about them yet.
+
+## J79 — Kohärenz Protokoll / Kohärenz
+
+**two-terms** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a lookup's near-match is a candidate page, not a verdict -- check the document's actual sense against every tracked reading the substring could mean, not only the one the fold matched
+- **mechanised by:** `nothing`
+- **features:** lookup-override, scope-mismatch
+
+**Question.** does this document's in-world "Kohärenz Protokoll" (L124) match the near-match the lookup proposed (kohaerenz.md), or a different tracked reading?
+
+**What was done.** L124: "AEGIS wird ausschließlich durch seine Kernprogrammierung, das 'Kohärenz Protokoll', angetrieben" names AEGIS's core programming -- the system itself, not the measurable property kohaerenz.md tracks. That sense already has a home: kohaerenz-programm.md, "the system as a whole", which explicitly keeps `Kohärenz` (property), `Kohärenz-Programm` (the system) and the novel's title apart (J16/J17). Five of this document's seven occurrences of the phrase are its own title/headers and are excluded per that same page's precedent ("not a term of the fiction").
+
+**Result.** NOT the same as kohaerenz.md. Folded instead to kohaerenz-programm.md as a fourth surface confirming the "system itself" reading.
+
+## J80 — Gatekeeper / entropicgatekeeper
+
+**not-related** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared word between an acronym expansion and an unrelated generic role-label is not a term match
+- **mechanised by:** `nothing`
+- **features:** fold-false-positive, substring-trap, lookup-match
+
+**Question.** does the wiki-lookup near-match between Limina's role-label and aegis.md's tracked alias hold?
+
+**What was done.** Same pair and same reasoning as J73, this time as the lookup (not intra-list) classification -- Limina's generic DID role (L222, L265, L503) against AEGIS's "Entropic Gatekeeper" alias.
+
+**Result.** NOT related, confirming J73.
+
+## J81 — Glitchwyrm / Glitch
+
+**two-terms** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a named entity that inhabits a tracked phenomenon is not the phenomenon, even when it shares a surface fragment with the phenomenon's alias
+- **mechanised by:** `nothing`
+- **features:** fold-false-positive, lookup-match
+
+**Question.** is the Nebencharakter "Glitchwyrm" the same term as the Risse alias "Glitch"/"Glitches" tracked on risse.md?
+
+**What was done.** L596: "Name: Leech / Glitchwyrm (oder ähnlich)", "Der Daten-Parasit" -- an entity proposed to feed on Risse ("ernährt sich von den Rissen", L598), not the Risse phenomenon itself. One of the document's eleven hedged Nebencharaktere.
+
+**Result.** TWO terms. A brief mention recorded on risse.md (a proposed creature that inhabits Risse, answering part of that page's own open question), no page for Leech/Glitchwyrm given the same hedge that withheld pages from the other ten Nebencharaktere.
+
+## J82 — Junas Fragment / Juna
+
+**two-terms** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** a hedged, localised manifestation of a tracked entity is a reading of that entity, not the entity itself and not a new page
+- **mechanised by:** `nothing`
+- **features:** lookup-match, possessive-derivative
+
+**Question.** does the wiki-lookup near-match between Junas Fragment and juna.md hold as identity or as a reading?
+
+**What was done.** Same pair and same reasoning as J72, this time as the lookup (not intra-list) classification.
+
+**Result.** TWO terms, confirming J72 -- recorded as a reading on juna.md.
+
+## J83 — Nyx / Nox
+
+**not-related** · charakterkonzepte-fuer-kohaerenz-protokoll · 2026-09-17 · replay: `judgement`
+
+- **rule:** zero cross-occurrences in either document plus two disjoint named rosters make a one-letter surface resemblance coincidental, not evidence of one character
+- **mechanised by:** `nothing`
+- **features:** cross-document, one-letter-surface, zero-cross-occurrence
+
+**Question.** does strukturelle-dissoziation-system-kael-analyse's Anteil "Nyx" name the same character as this document's Alter "Nox" (Der Kritiker/Persecutor)?
+
+**What was done.** Word-boundary count: "Nox" occurs 0 times in strukturelle-dissoziation-system-kael-analyse; "Nyx" occurs 0 times in charakterkonzepte-fuer-kohaerenz-protokoll. The two documents name completely disjoint Alter/Anteil rosters (10 names here, 11 there) sharing only Kael/Michael, the host -- not an Alter in either roster.
+
+**Result.** NOT related. fold() correctly keeps them apart; recorded explicitly because the one-letter resemblance is exactly the shape a person, not a lookup, must judge. Feeds the roster conflict raised on alters.md -- see Wiki/conflicts/c6-alter-roster-two-documents.md. Does not reconcile strukturelle-dissoziation-system-kael-analyse, which stays untouched.
