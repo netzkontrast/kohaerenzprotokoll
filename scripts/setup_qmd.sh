@@ -2,8 +2,8 @@
 # Rebuild the whole qmd setup from nothing. Idempotent.
 #
 # The container is ephemeral and `.tools-node/` and `.qmd/` are git-ignored, so
-# everything here is lost on a fresh clone: the package, the index, six
-# collections, their contexts, the agent skill and the PATH shim. Before this
+# everything here is lost on a fresh clone: the package, the index, every
+# collection, their contexts, the agent skill and the PATH shim. Before this
 # script that was six commands nobody had written down.
 #
 #   scripts/setup_qmd.sh            # install, index, collections, skill, shim
@@ -30,8 +30,13 @@ if [[ $CHECK -eq 1 ]]; then
     [[ -x "$SHIM" ]] && say "PATH shim" "ok" || say "PATH shim" "MISSING — the skill's Bash(qmd:*) will fail"
     [[ -f "$ROOT/.claude/skills/qmd/SKILL.md" ]] && say "agent skill" "ok" || say "agent skill" "MISSING"
     if [[ -x "$QMD" ]]; then
+        # Derived, not hardcoded: this said "of 6" and reported "7 of 6" the
+        # first time a collection was added. A check that carries a constant
+        # about its own subject goes stale exactly when the subject changes.
+        want=$(grep -c '^add ' "$ROOT/scripts/setup_qmd.sh")
         n=$("$QMD" collection list 2>/dev/null | grep -c " (qmd://" || true)
-        say "collections" "$n of 6"
+        [[ "$n" -eq "$want" ]] && say "collections" "$n of $want" \
+                               || say "collections" "$n of $want — run scripts/setup_qmd.sh"
     fi
     python3 "$ROOT/scripts/qmd_coverage.py" >/dev/null 2>&1 \
         && say "coverage" "every file in a collection" \
@@ -66,6 +71,11 @@ add notes Sources/notes \
     "Reading notes: what one document says about the terms that matter, quoted with line numbers."
 add plan Plan \
     "Process artifacts: concept notes, decisions, learnings, per-document run artifacts, the judgement ledger and the derived state."
+add decisions . \
+    "Everything already decided, and why: per-document reconciliation records, conflict records, open question pages, decision files, and the judgement ledger rendered from JSONL. Ask this by name before re-reading a whole record — a hit gives the file and the line. Excluded from default queries because it overlaps wiki and plan." \
+    'Wiki/compare/**/*.md,Wiki/conflicts/**/*.md,Wiki/questions/**/*.md,Plan/decisions/**/*.md,Plan/runs/judgements.md'
+"$QMD" collection exclude decisions >/dev/null 2>&1 || true
+
 add all . \
     "Every markdown file in the project except the Legacy shelf and vendored clones. Excluded from default queries because it overlaps the purpose collections — ask for it by name when a question could be answered by any layer." \
     'Sources/**/*.md,Wiki/**/*.md,Plan/**/*.md,*.md'

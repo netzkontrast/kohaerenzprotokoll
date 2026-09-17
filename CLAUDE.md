@@ -286,6 +286,21 @@ outside the shelf — 459 of 459. It is excluded from default queries because it
 overlaps the others, so ask for it by name when a question could be answered by
 any layer.
 
+**`decisions` is the one to reach for before re-reading a record.** It spans the
+reconciliation records, the conflict records, the question pages, `Plan/decisions/`
+and the judgement ledger — five folders, one question: *what has already been
+decided, and why?* A hit gives the file and the line, and
+`qmd get <ref>:<line>:<count>` then reads twelve lines instead of the whole
+record. The eight reconciliation records alone are 953 lines.
+
+**qmd indexes markdown and nothing else** — 1,047 files in the index, every one
+`.md`. So `Plan/runs/judgements.jsonl` and every `reconcile.json` are invisible
+to every search, which is the opposite of what they are for. `judgements.py`
+writes `Plan/runs/judgements.md` on every run, derived and never edited, so the
+ledger is searchable and cannot lag behind the `.jsonl` it comes from. The
+`.jsonl` stays the source of truth — it is what the replay reads and what
+`trainset.py` trains on.
+
 **It finds candidates; it does not produce answers.** A ranked result is a place
 to look, and every number that goes into a page or a learning still comes from
 `corpus.py`, `duplicates.py` or a count — which say what they counted and how.
