@@ -33,23 +33,23 @@
   erleb    Erleben, Erlebens, Erlebnisqualität, Erlebt
 
 # substring pairs -- never one term, often merged by accident
-  Bohm < Bohms
-  Plot < Plots
-  Plot < Plotpunkte
-  Plot < Plotmechanismen
-  Sinn < Sinne
-  Sinn < Sinnhaftigkeit
-  Sein < Seins
-  Sein < Seine
-  Sein < Bewusstsein
-  Sein < Seinszustand
-  Sein < Forschungseinrichtungen
+  Open < Tropen
+  Fall < Verfall
   Tech < Technik
   Tech < Technology
   Tech < Kriegstechnologie
-  Diss < Dissonanz
-  Diss < Dissertation
-  Diss < Dissoziative
-  Diss < Dissertations
-  Kael < Kaels
-  Eine < Seine
+  Gott < Gottfigur
+  Anke < Anker
+  Anke < Verankerung
+  Raum < Trauma
+  Raum < Traumata
+  Raum < Lebensraum
+  Raum < Handlungsspielraum
+  INFO < Info
+  INFO < Information
+  INFO < Informationen
+  INFO < Informationsmaß
+  INFO < Informationsmangel
+  INFO < Informationsgehalt
+  INFO < Informationstheorie
+  INFO < Informationsbegriffs

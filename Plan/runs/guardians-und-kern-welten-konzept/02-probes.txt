@@ -33,23 +33,23 @@
   energ    Energie, Energieleitungen, Energieschilde
 
 # substring pairs -- never one term, often merged by accident
-  Welt < Welten
-  Welt < Innenwelt
-  Welt < Weltenstruktur
-  Teil < Teile
-  Teil < Gegenteil
-  Teil < Bestandteil
-  Plot < Plots
-  Plot < Plotstruktur
-  Zeit < Gleichzeitig
-  Zeit < Reaktionszeit
-  Zeit < Zeitwahrnehmung
-  Echo < Echos
-  Raum < Trauma
-  Raum < Überraum
-  Raum < Traumata
-  Raum < Schutzraum
-  Raum < Traumamuster
-  Paar < Paare
   Sinn < Sinne
   Sinn < Sinnfindung
+  Dies < Diese
+  Dies < Dieses
+  Kern < Kerns
+  Kern < Kernstück
+  Kern < Kerndatei
+  Kern < Kerndaten
+  Kern < Seelenkern
+  Kern < Kernaufgabe
+  Kern < Kernannahme
+  Kern < Kernfunktion
+  Kern < Kernprämisse
+  Kern < Kernmotivation
+  Kern < Kernkomponente
+  Echo < Echos
+  Plot < Plots
+  Plot < Plotstruktur
+  Wege < Wegen
+  Hand < Handeln

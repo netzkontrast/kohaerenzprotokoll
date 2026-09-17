@@ -33,23 +33,23 @@
   energ    Energie, Energieerhaltung, Energiefluss, Energy
 
 # substring pairs -- never one term, often merged by accident
-  Ziel < Zielsetzung
-  Ziel < Potenzielle
-  Ziel < Potenzieller
-  Dies < Diese
-  Dies < Dieses
+  Oord < Koordination
   Time < Spacetime
-  Hohe < Hohes
-  Eine < Seine
-  Eine < Allgemeiner
-  Idee < Ideen
-  Idee < Kernidee
   Welt < Umwelt
   Welt < Außenwelt
-  Null < Nullpunkt
-  Open < OpenStax
   Sinn < Sinne
+  Segm < Segment
+  Segm < Segmente
+  Segm < Segmentierung
+  Segm < Selbstsegmentierung
+  Ziel < Potenzielle
+  Ziel < Zielsetzung
+  Ziel < Potenzieller
+  Rein < Vereinigung
+  Null < Nullpunkt
+  Sein < Seine
+  Sein < Bewusstsein
+  Sein < Auseinandersetzung
+  Open < OpenStax
   Phil < PhilSci
   Phil < PhilPapers
-  Phil < Philosophy
-  Phil < Philosophie

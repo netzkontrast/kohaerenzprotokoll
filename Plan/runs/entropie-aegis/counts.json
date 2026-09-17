@@ -1,0 +1,187 @@
+{
+  "document": "entropie-aegis",
+  "drive_id": "1Hx3IAeQUQYHo8TFjUQ8NmHKJIVq0Ba58ye8Vdxy3v7w",
+  "step": "counts",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "candidate_source": "reconstructed-from-census",
+  "usable_as_baseline": false,
+  "line_base": "file, from line 1, as a citation writes it",
+  "counts": {
+    "AEGIS": {
+      "n": 19,
+      "lines": [
+        17,
+        19,
+        21,
+        59,
+        63,
+        65,
+        69,
+        71,
+        81,
+        89,
+        93,
+        94,
+        95,
+        96,
+        99
+      ]
+    },
+    "Entropic Gatekeeper": {
+      "n": 7,
+      "lines": [
+        13,
+        19,
+        59,
+        65,
+        89,
+        94,
+        97
+      ]
+    },
+    "Überwelt": {
+      "n": 10,
+      "lines": [
+        13,
+        17,
+        57,
+        80,
+        89,
+        93,
+        94,
+        97,
+        99
+      ]
+    },
+    "Kern-Welten": {
+      "n": 1,
+      "lines": [
+        93
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "lines": [
+        93,
+        94
+      ]
+    },
+    "Guardians": {
+      "n": 3,
+      "lines": [
+        93,
+        96
+      ]
+    },
+    "Integrity Guardian": {
+      "n": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Zero-Trust": {
+      "n": 2,
+      "lines": [
+        65
+      ]
+    },
+    "Cognitive Firewall": {
+      "n": 1,
+      "lines": [
+        65
+      ]
+    },
+    "SIS": {
+      "n": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Michael": {
+      "n": 4,
+      "lines": [
+        95,
+        96
+      ]
+    },
+    "Julia": {
+      "n": 3,
+      "lines": [
+        71,
+        96
+      ]
+    },
+    "Alters": {
+      "n": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Entropie-Signatur": {
+      "n": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Negentropie": {
+      "n": 2,
+      "lines": [
+        71,
+        96
+      ]
+    },
+    "Multiplizität": {
+      "n": 1,
+      "lines": [
+        95
+      ]
+    },
+    "Kontrollinstanz": {
+      "n": 3,
+      "lines": [
+        13,
+        17,
+        89
+      ]
+    },
+    "terms": {
+      "n": 0,
+      "lines": []
+    },
+    "Zweiter Hauptsatz · Statistische Mechanik": {
+      "n": 0,
+      "lines": []
+    },
+    "Systemtheorie · Kybernetik": {
+      "n": 0,
+      "lines": []
+    },
+    "Dissoziation · Abwehrmechanismen": {
+      "n": 0,
+      "lines": []
+    },
+    "„Daten-Verwitterung\"": {
+      "n": 0,
+      "lines": []
+    },
+    "„Reinigungswellen\"": {
+      "n": 0,
+      "lines": []
+    },
+    "„Entropie-Signatur\"": {
+      "n": 0,
+      "lines": []
+    },
+    "Quarantänezonen": {
+      "n": 1,
+      "lines": [
+        59
+      ]
+    },
+    "„Überwelt\"": {
+      "n": 0,
+      "lines": []
+    }
+  }
+}

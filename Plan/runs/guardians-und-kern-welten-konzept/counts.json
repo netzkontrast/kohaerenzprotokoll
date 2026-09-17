@@ -1,0 +1,294 @@
+{
+  "document": "guardians-und-kern-welten-konzept",
+  "drive_id": "15q_z6xZLPOcULTVb45H-hI9Yg2hHA6GxiAKWzD49VFg",
+  "step": "counts",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "candidate_source": "reconstructed-from-census",
+  "usable_as_baseline": false,
+  "line_base": "file, from line 1, as a citation writes it",
+  "counts": {
+    "LogOS": {
+      "n": 31,
+      "lines": [
+        19,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        40,
+        50,
+        52,
+        55,
+        78,
+        80,
+        102,
+        107,
+        117,
+        119,
+        137
+      ]
+    },
+    "Mnemosyne": {
+      "n": 16,
+      "lines": [
+        30,
+        44,
+        46,
+        48,
+        50,
+        52,
+        53,
+        54,
+        56,
+        80,
+        107,
+        117,
+        119,
+        137
+      ]
+    },
+    "Cerberus": {
+      "n": 19,
+      "lines": [
+        30,
+        55,
+        69,
+        71,
+        73,
+        74,
+        75,
+        77,
+        78,
+        79,
+        80,
+        81,
+        90,
+        102,
+        107,
+        117,
+        119,
+        137
+      ]
+    },
+    "Kairos": {
+      "n": 17,
+      "lines": [
+        30,
+        55,
+        80,
+        94,
+        96,
+        98,
+        100,
+        101,
+        102,
+        104,
+        105,
+        106,
+        107,
+        108,
+        119,
+        137
+      ]
+    },
+    "Sophia": {
+      "n": 16,
+      "lines": [
+        30,
+        55,
+        80,
+        94,
+        96,
+        107,
+        110,
+        112,
+        113,
+        114,
+        116,
+        117,
+        118,
+        119,
+        120,
+        137
+      ]
+    },
+    "Die Konstrukt-Stadt": {
+      "n": 5,
+      "lines": [
+        19,
+        33,
+        35,
+        38,
+        42
+      ]
+    },
+    "Die Resonanz-Landschaft": {
+      "n": 4,
+      "lines": [
+        44,
+        58,
+        60,
+        67
+      ]
+    },
+    "Die Grenzfeste": {
+      "n": 6,
+      "lines": [
+        69,
+        83,
+        85,
+        88,
+        91,
+        92
+      ]
+    },
+    "Der Möglichkeits-Garten / Nexus-Vorstufe": {
+      "n": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Konstrukt-Stadt": {
+      "n": 10,
+      "lines": [
+        19,
+        33,
+        35,
+        36,
+        38,
+        41,
+        42,
+        66,
+        91,
+        130
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 8,
+      "lines": [
+        41,
+        44,
+        58,
+        60,
+        66,
+        67,
+        91,
+        130
+      ]
+    },
+    "Grenzfeste": {
+      "n": 9,
+      "lines": [
+        41,
+        66,
+        69,
+        83,
+        85,
+        88,
+        91,
+        92,
+        130
+      ]
+    },
+    "Möglichkeits-Garten": {
+      "n": 11,
+      "lines": [
+        41,
+        66,
+        91,
+        94,
+        122,
+        124,
+        127,
+        129,
+        130,
+        131
+      ]
+    },
+    "Risse": {
+      "n": 10,
+      "lines": [
+        36,
+        39,
+        64,
+        89,
+        128,
+        139
+      ]
+    },
+    "Glitch(es)": {
+      "n": 0,
+      "lines": []
+    },
+    "Nexus": {
+      "n": 11,
+      "lines": [
+        15,
+        29,
+        54,
+        79,
+        106,
+        118,
+        122,
+        124,
+        126,
+        130
+      ]
+    },
+    "Überraum": {
+      "n": 5,
+      "lines": [
+        29,
+        54,
+        79,
+        106,
+        118
+      ]
+    },
+    "Kohärenz-Programm": {
+      "n": 6,
+      "lines": [
+        23,
+        24,
+        36,
+        49,
+        73,
+        74
+      ]
+    },
+    "„Das Seelen-Kohärenz-Protokoll\"": {
+      "n": 0,
+      "lines": []
+    },
+    "Persona(s)": {
+      "n": 0,
+      "lines": []
+    },
+    "Bewusstseinsinstanzen": {
+      "n": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Philosophen-Modus · Forscher-Modus · Magier-Modus": {
+      "n": 0,
+      "lines": []
+    },
+    "Hüter": {
+      "n": 4,
+      "lines": [
+        15,
+        48,
+        50,
+        101
+      ]
+    }
+  }
+}
