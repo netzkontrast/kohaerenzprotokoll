@@ -145,25 +145,37 @@ def account_order() -> dict:
         slug = census.stem
         note = (ROOT / "Sources" / "notes" / f"{slug}.md").exists()
         record = runs / slug / "reconcile.json"
-        state = None
+        state = after = None
         if record.exists():
-            state = json.loads(record.read_text(encoding="utf-8")).get("state_before")
+            record_json = json.loads(record.read_text(encoding="utf-8"))
+            state = record_json.get("state_before")
+            after = record_json.get("state_after")
         rows.append({"document": slug, "census": True, "note": note,
-                     "reconciled": record.exists(), "state_before": state})
+                     "reconciled": record.exists(),
+                     "state_before": state, "state_after": after})
         if not record.exists():
             violations.append({"document": slug, "kind": "not-reconciled",
                                "detail": "has a census, has not been reconciled against the wiki"})
 
+    # The runs form a chain: each one starts from the state the previous one left.
+    # This was first written as „state_before strictly increases", which held for
+    # four documents and then reported a violation for a correct run -- document 5
+    # added no pages on purpose, so document 6 legitimately began where document 5
+    # began. **Growth is not the invariant; the chain is.** A reconciliation that
+    # adds nothing is a real outcome and must not look like a defect.
     done = [r for r in rows if r["state_before"]]
-    done.sort(key=lambda r: r["state_before"]["pages"])
-    seen = -1
+    done.sort(key=lambda r: (r["state_before"]["pages"],
+                             (r["state_after"] or r["state_before"])["pages"]))
+    previous = None
     for row in done:
-        pages = row["state_before"]["pages"]
-        if pages <= seen:
+        before = row["state_before"]
+        if previous is not None and before["pages"] < previous["state_after"]["pages"]:
             violations.append({"document": row["document"], "kind": "stale-state",
-                               "detail": f"reconciled against {pages} pages, but an earlier "
-                                         f"reconciliation had already reached {seen}"})
-        seen = max(seen, pages)
+                               "detail": f"reconciled against {before['pages']} pages, but "
+                                         f"{previous['document']} had already left the wiki at "
+                                         f"{previous['state_after']['pages']}"})
+        if row["state_after"]:
+            previous = row
 
     # The wiki is always larger than the state the newest reconciliation *started*
     # from -- that reconciliation is what grew it. Comparing against state_before
@@ -172,7 +184,7 @@ def account_order() -> dict:
     # run *left*, when the record says.
     index = build_index()
     if done:
-        last = max(done, key=lambda r: r["state_before"]["pages"])
+        last = max(done, key=lambda r: (r["state_after"] or r["state_before"])["pages"])
         record = runs / last["document"] / "reconcile.json"
         after = json.loads(record.read_text(encoding="utf-8")).get("state_after")
         if after is None:
