@@ -74,7 +74,8 @@ def main(argv: list[str]) -> int:
     for verdict, record, detail in rows:
         pair = " / ".join(record.get("surfaces", []))
         print(f"  {verdict:10} {record['id']:4} {pair}")
-        print(f"             {record['decision']:10} {record['rule']}")
+        print(f"             {record['decision']:10} "
+              f"{record['rule'] or '— no rule stated; this one is still open'}")
         if verdict == "DISAGREES":
             print(f"             !! {detail}")
         print()
