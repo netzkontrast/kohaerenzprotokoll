@@ -69,13 +69,13 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**5 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **5
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **5
+**6 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **6
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **6
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-one `worldbuilding`, one `aegis`.
+two `worldbuilding`, one `aegis`.
 
-`Wiki/candidates/` holds **46 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
-holds **4 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
+`Wiki/candidates/` holds **56 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+holds **5 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 **4 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
@@ -88,13 +88,22 @@ has been promoted.
 | `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
 | `guardians-und-kern-welten-konzept` | 14 | 4 | 1 |
 | `aegis-subplots-kapitelweise-system-exploration-docx` | 0 | 2 | 0 |
+| `roman-lokalitaeten-konzept-und-ausarbeitung` | 10 | 17 | 1 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
 candidates matched no page and none became one. **A page created from an
 occurrence says nothing and looks like it says something.**
 
-`Plan/runs/judgements.jsonl` holds **32 <!--state:judgements.total--> judgements**
+**The sixth is the opposite case and it needed a rule.** It is a gazetteer: 51
+named locations, 49 of its 109 candidates matching no page. Creating all of them
+would have doubled the wiki from one document. The document supplies two
+mechanical criteria — a count of exactly 2 identifies a location it profiles, and
+a `Source` column per row says whether it invented the name — and a page was
+created only where both held. **The rule came from the document rather than from
+a preference**, and the 40 it excludes are recorded with their lines.
+
+`Plan/runs/judgements.jsonl` holds **45 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -203,8 +212,16 @@ advance what a new document is allowed to say.
 and prints only what no lookup settles. Cost per document is `O(census) +
 O(judgement)`, not `O(wiki)` — measured on document 4 against 32 pages: 22
 candidates, **3 surface groups folded to one term first, then 19 candidates, 15
-decided mechanically, 4 to judgement.** Reasoning:
+decided mechanically, 4 to judgement.** Document 6 is the scale test: 109
+candidates against 46 pages, **68 decided by lookup and 55 sent to judgement**,
+and the wiki's size entered none of it. Reasoning:
 `Plan/concept/reconciliation-by-lookup_2026-09-17.md`.
+
+**A reference on a wiki page names its document.** A bare `^[Lnn]` resolves
+against the page's single `ingested:` entry and stops being checked the moment a
+second one arrives — which is not hypothetical: adding document 6's readings to
+seventeen pages moved 95 verified quotations into the unchecked bucket silently.
+A census and a note carry `source:` and may use the bare form; a page may not.
 
 ### A quotation is checked against its line
 
