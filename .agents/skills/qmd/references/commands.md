@@ -112,6 +112,12 @@ qmd bench <fixture.json> [--json] [-c <collection>]
 `setup_qmd.sh` does not run it. Read `qmd skill show` when you want the
 package's version-matched text.
 
+The package's own `references/mcp-setup.md` was removed from this skill rather
+than kept: it instructs `npm install -g`, a hand-run `collection add` and an MCP
+client, and all three contradict this project — the package is local, the
+collections come from the committed config, and MCP is decided against. Leaving
+it would have someone re-create by hand the drift the committed config fixes.
+
 `qmd mcp` exposes **four** tools — `query`, `get`, `multi_get`, `status`. No
 `collection`, `context`, `embed` or `bench`. **This project decided against
 MCP**: a skill whose job is to describe every step should name commands a person
