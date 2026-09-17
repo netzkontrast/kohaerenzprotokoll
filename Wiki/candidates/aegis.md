@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 2
-readings: 3
+sources: 3
+readings: 4
 conflict: C1
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie"]
 gathered: "2026-09-16"
 ---
 
@@ -56,6 +56,34 @@ The source names the gap between its own two as a defect of the postulate:
 **→ Conflict `C1`** — `Wiki/conflicts/c1-aegis-expansion.md`. Three expansions,
 two sources, unresolved. The page does not choose.
 
+## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
+
+**The acronym is never expanded — not once in 331 lines.** After two sources
+expanded it three incompatible ways, this one uses AEGIS as a bare proper name and
+defines it by function instead:
+
+> „AEGIS, als Wächter der systemischen Stabilität konzipiert, überwacht und
+> reguliert die simulierte Realität." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] `[User Query]`
+
+> „Seine Kernfunktion ist die Aufrechterhaltung der Stabilität und Kohärenz der
+> Simulation durch die Verarbeitung und Analyse von Datenströmen."
+> ^[kohaerenzprotokoll-aegis-und-systementropie.md:L23]
+
+Its premise is informational — „Seele=Info" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L23] `[User Query]`.
+
+**The non-expansion is a reading, not an absence.** The source takes a side in
+substance while declining to name it: a guardian that regulates a simulation it
+sits inside is compatible with the first expansion and incompatible with the
+third. It does not notice, because it never names the alternatives.
+
+### And an origin that conflicts with an earlier source
+
+> „AEGIS ist plausibler ein **emergentes Phänomen**, das innerhalb der komplexen
+> Dynamik der Simulation entstanden ist" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L195]
+
+The argument is good: AEGIS depends on a stabiliser it cannot perceive, and a
+designer would have given it that sense ^[kohaerenzprotokoll-aegis-und-systementropie.md:L193]. **→ Conflict `C3`.**
+
 ## Surfaces in this source
 
 | surface | n | note |
@@ -63,6 +91,8 @@ two sources, unresolved. The page does not choose.
 | `AEGIS` | 19 | — |
 | **`Entropic Gatekeeper`** | 7 | **four occurrences carry no `AEGIS` in the sentence** — the role travels on its own |
 | `Kontrollinstanz` | 3 | never without AEGIS beside it; recorded as a descriptor, not a surface |
+| „Wächter der systemischen Stabilität" | 1 | **the same role, in German, sharing no characters with `Entropic Gatekeeper`** ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] |
+| „blinder Hausmeister" | 1 | the source's summary image, marked `[User Query]` ^[kohaerenzprotokoll-aegis-und-systementropie.md:L207] |
 
 `Entropic Gatekeeper` is the one to watch: a role name built from the acronym's
 own words that is used independently of it. Nothing guarantees a later source
