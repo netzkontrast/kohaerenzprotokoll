@@ -90,7 +90,7 @@ in the term wiki.
   writes „Kernwelt 1 (Logik/LogOS)" — so KW1 is a Kern-Welt *and* is identified
   with a Guardian. The wiki has four Kern-Welten from document 4 and does not
   link them to Guardians.
-- **`Juna/V`.** L126 and L133 write „Vorläufer von Juna/V". `V` appears only in
+- **`Juna/V`.** L126 and L133 write „Vorläufern von Juna/V". `V` appears only in
   this slashed form so far. A third surface for the partner entity, or a separate
   entity.
 - **`TSDP`.** L35 „vermutlich TSDP-bedingt", L40 „Modelle der Dissoziation
