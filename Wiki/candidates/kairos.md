@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -95,3 +95,24 @@ this document narrows to the optimisation pressure specifically, and its
 target — a `Datenintegration`/`Integration` the document itself distinguishes
 from the DID-therapy sense of Integration — is recorded on
 [[seele-info|Seele=Info]] and J52.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — the first source to separate Kairos from Sophia at all
+
+**Both prior documents that name Kairos never write the name without
+`Sophia`.** This is the first source to give Kairos his own paragraph and his
+own assignment:
+
+> „Überwachung von Wachstumsmustern, Potenzialität, Simulation von
+> Zukunftsszenarien und Steuerung kreativer Prozesse – allerdings nur
+> innerhalb der von AEGIS definierten Grenzen und Ziele."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L189]
+
+Assigned to **Möglichkeiten-Garten (KW4)**, consistent with both prior
+readings ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L185]. **Blind
+spot** (see [[blinder-fleck]]): cannot recognise emergent creativity born
+from integrating opposites, and corrects it as a system error
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L190] — the same shape as
+`guardians-und-kern-welten-konzept`'s „sees the *Gelegenheit*, not the
+*Notwendigkeit*" blind spot, reached independently. `AEGIS` occurs here;
+Kairos is placed inside it — see [[guardians]], [[sophia]] for the matching
+separation.

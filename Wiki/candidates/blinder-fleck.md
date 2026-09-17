@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -73,3 +73,62 @@ these are one system at two scales is not answerable from what has been read.
 
 `Wiki/conflicts/c4-guardians-and-aegis.md` holds both positions and decides
 nothing.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — a bearer for AEGIS and for each Guardian, in one profile-set
+
+**A third document, and it gives the blind spot to both bearers `C4` already
+holds apart — [[aegis|AEGIS]] itself and each individual [[guardians|Guardian]] — inside
+one set of profiles, without mentioning that the two are held apart anywhere
+else.** It does not settle `C4`; it simply never raises the question.
+
+[[aegis|AEGIS]]' own blind spot is argued from the same named law
+`kohaerenzprotokoll-aegis-und-systementropie` already used for its categorical
+reading:
+
+> „Dies steht im Einklang mit kybernetischen Prinzipien wie Ashby's Law of
+> Requisite Variety: AEGIS fehlt die notwendige interne Komplexität
+> ('variety'), um die Komplexität des von ihm kontrollierten Systems (Kaels
+> Psyche) effektiv zu steuern." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L128]
+
+Its content, stated separately from the argument for it:
+
+> „AEGIS' fundamentale Schwäche liegt in seiner Unfähigkeit, nicht-lineare,
+> nicht-quantifizierbare, emergente und hochkomplexe Phänomene adäquat zu
+> verstehen oder zu managen […] sowie die Präsenz von Juna und ihre Verbindung
+> zur Externen Ebene." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L128]
+
+**Compatible with, and not distinguishable from, the categorical reading**
+already on this page — both name a structural incapacity rather than a missing
+sensor, and both cite the same law. Whether this is the *same* claim
+independently reached, or two documents using one citation for two different
+strengths of claim, is not settled by either source alone.
+
+### Each Guardian's own blind spot, all five in one profile-set
+
+| Guardian | this document's blind spot | line |
+|---|---|--:|
+| [[logos|LogOS]] | cannot recognise trauma/dissociation/emotion; reads [[kael|Kael]]'s breakthroughs as „logische Fehler oder Systemstörungen" | 160 |
+| [[mnemosyne|Mnemosyne]] | treats memories as pure data, missing „deren emotionale Ladung, subjektive Bedeutung oder traumatischen Kontext" | 170 |
+| [[cerberus|Cerberus]] | reads vulnerability and protective aggression as a security breach — „erkennt die potenziell schützende Funktion […] nicht" | 180 |
+| [[kairos|Kairos]] | cannot recognise emergent creativity from integrated opposites; sees it as a system error to correct | 190 |
+| [[sophia|Sophia]] | her „Weisheit"/"Integration" means eliminating deviation, not synthesising it; cannot value fragmentation or alternative order | 200 |
+
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L160, L170, L180, L190, L200]
+
+**Broadly the same shape as `guardians-und-kern-welten-konzept`'s typing**
+(categorical for the logic-domain Guardian, misinterpretation for the
+security/memory [[guardians|Guardians]], a value-blindness for the potential/wisdom
+Guardians) reached independently and in different words — neither document
+mentions the other. Recorded here rather than merged, per this page's own
+practice of keeping distinct sources' Guardian-blind-spot tables apart.
+
+### And Kael has one too, named the same way
+
+> „Anfänglich ist sein größter blinder Fleck die Existenz seiner eigenen DID
+> und der simulierten Realität." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L50]
+
+**A third kind of bearer, not previously on this page**: not AEGIS, not a
+Guardian, but the protagonist himself, blind to his own condition rather than
+to [[juna|Juna]] or to another mind. Recorded as a fourth position rather than folded
+into `C4`, which is specifically about AEGIS-versus-Guardians — Kael's blind
+spot is not in tension with either.

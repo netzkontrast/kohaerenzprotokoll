@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -60,3 +60,20 @@ The [[guardians|Guardians]]' tools aim at a different, measurable target this do
 J52. **Two senses in one document, kept apart by this page rather than folded**:
 authentic Kohärenz (this reading) is what Michael is moving toward; Datenkohärenz
 is what the [[guardians|Guardians]]' failed tools measure against.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — `Systemkohärenz`, confirmed as the same measurable property
+
+**A third document, and a compound surface that names the same referent as
+the first reading above** (`Plan/runs/judgements.jsonl` J77) — a system-wide
+property [[aegis|AEGIS]] monitors and can lose, not a person's authenticity:
+
+> „Juna wird als gefährlicher externer Faktor wahrgenommen, eine
+> unkontrollierbare Quelle von Entropie und eine fundamentale Bedrohung für
+> die Systemkohärenz." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L137]
+
+This agrees with `kohaerenzprotokoll-aegis-und-systementropie`'s „niedrige
+Entropie, hohe Vorhersagbarkeit" reading — [[juna|Juna]] threatens exactly the property
+that reading defines — and says nothing about the second, opposite sense
+(`kohaerenz-protokoll-konzept`'s authentic Kohärenz beyond data-integration).
+Not a conflict: this document simply never uses the word in that second
+sense.

@@ -4,14 +4,22 @@ status: candidate
 sources: 1
 readings: 0
 conflict: none
-covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
+covers: ["Cognitive Firewall", "Integrity Guardian", "SIS"]
 ingested: ["entropie-aegis"]
 gathered: "2026-09-16"
 ---
 
-# AEGIS' four sub-functions — Zero-Trust · Cognitive Firewall · Integrity Guardian · SIS
+# AEGIS' four sub-functions — Cognitive Firewall · Integrity Guardian · SIS
 
-**Four terms, one parenthesis, zero explanations.**
+**Three terms remain here; `Zero-Trust` split off to [[zero-trust|its own
+page]] on 2026-09-17**, the moment a second document said something
+substantive about it — see below and
+`Plan/runs/judgements.jsonl` J78. This page's own rule, stated when it was
+written, is exactly why: „This splits into four pages the moment any source
+says something about any one of them."
+
+**Four terms named together, one parenthesis, zero explanations — of the three
+still bundled here.**
 
 ## The single occurrence — `entropie-aegis`, 2025-04-17, brief
 
@@ -35,6 +43,7 @@ and belong to none of them.
 
 **This splits into four pages the moment any source says something about any one
 of them.** Recorded here so the split is a decision rather than a discovery.
+That split has now happened once — see [[zero-trust|Zero-Trust]].
 
 ## `SIS` is the dangerous one
 

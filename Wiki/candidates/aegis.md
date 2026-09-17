@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 4
-readings: 5
+sources: 5
+readings: 6
 conflict: C1
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -101,7 +101,7 @@ naming the same role will share any characters with either.
 
 ## What this source does not say
 
-- **What the four sub-functions are.** Zero-Trust, Cognitive Firewall, Integrity
+- **What the four sub-functions are.** [[zero-trust|Zero-Trust]], Cognitive Firewall, Integrity
   Guardian and SIS are named in one parenthesis as already known
   ^[entropie-aegis.md:L65] — see [[aegis-teilfunktionen|AEGIS' four sub-functions]].
 - **What `Entropie` means**, which is the thing AEGIS regulates. The document
@@ -147,3 +147,67 @@ reflektiert." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L59]
 
 That last pair is the alias this page already carries, offered here as two
 readings a depiction could take rather than as a claim about which is true.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — the first expansion, confirmed independently
+
+**The same acronym, word for word, from a document that shares no other
+provenance with the one that first gave it:**
+
+> „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) ist das
+> fundamentale Betriebssystem oder das grundlegende Gesetz, das die Überwelt
+> und die darin eingebetteten Kern-Welten regiert."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L118]
+
+Compared to `entropie-aegis.md:L19` — „AEGIS = Autonomous Entropic Gatekeeper
+for Integrity Systems" — the wording is identical. This is not a new reading
+in conflict `C1`; it is the first of the conflict's three positions, confirmed
+by a second, unrelated document eleven days later
+(`Plan/runs/judgements.jsonl` J76). `C1` stays open — nothing here chooses
+between it and the other two expansions — but one side of it is no longer
+supported by a single source.
+
+### The document's own function-and-purpose reading, independent of the acronym
+
+> „Es fungiert als primäre antagonistische Kraft im Roman, jedoch nicht aus
+> Bosheit, sondern aufgrund seiner Kernprogrammierung: die Aufrechterhaltung
+> der Systemintegrität durch die aktive Minimierung und Kontrolle von Entropie
+> (verstanden als Unordnung, Chaos, Zufälligkeit, Informationsverlust)."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L118]
+
+AEGIS „besitzt keine menschliche Psychologie, aber sein Verhalten kann durch
+systemische und kybernetische Prinzipien beschrieben werden"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L119] — the profile fills in a
+DID-therapist's-eye-view of AEGIS's own goals, fears and blind spot in
+cybernetic vocabulary (`Homöostase`, `Feedbackloops`, `Systemkollaps`,
+`Nicht-Existenz`, `Kontrollparadigma`, `Systemanomalie`, `Systemintegrität`,
+`Gesamtsystem`, `Kontrollprotokoll`) — recorded on [[seele-info|Seele=Info]] as
+this document's contribution to that paradigm's diagnostic vocabulary, per the
+precedent that page already states, rather than promoted to separate pages
+here.
+
+Its inciting event is named directly, confirming `protokoll-v14.md`'s reading
+of the same event from a different, earlier document:
+
+> „Der von ihm initiierte \"universal reboot\" ist das auslösende Ereignis der
+> Handlung." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L146]
+
+### AEGIS's own blind spot, argued from a named cybernetic law
+
+> „Dies steht im Einklang mit kybernetischen Prinzipien wie Ashby's Law of
+> Requisite Variety: AEGIS fehlt die notwendige interne Komplexität
+> ('variety'), um die Komplexität des von ihm kontrollierten Systems (Kaels
+> Psyche) effektiv zu steuern." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L128]
+
+`Ashby's Law of Requisite Variety` / `Requisite Variety` is a real-world
+cybernetic citation the document argues from, not a corpus-original concept
+(J74) — recorded here as the argument for AEGIS's blind spot, cross-referenced
+on [[blinder-fleck|Blinder Fleck]], where each Guardian's individual blind
+spot is recorded from the same document.
+
+### What this document adds to the Guardians relationship
+
+„Die Guardians sind funktionale Ausführungsorgane von AEGIS, seine Sensoren
+und Effektoren in den spezifischen Domänen der Kern-Welten"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138] — sharpened by a named
+mechanism for why they might not coordinate, see [[guardians|Guardians]] and
+[[zero-trust|Zero-Trust]].

@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -246,3 +246,59 @@ than anything read so far, and it is stated in passing, as a location's function
 
 **That is placement, not a statement of the relation.** See
 `q1-guardians-and-aegis`.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — the collective name is `Guardians`, and `Wächter` is never it
+
+**This document says `Guardians` and never uses `Wächter`/`Wärter` for the
+collective** — the reverse distribution from `roman-lokalitaeten-konzept-und-ausarbeitung`,
+read the day before, which uses `Wächter` exclusively. They are named together
+at their introduction:
+
+> „Die fünf Guardians sind spezialisierte, funktionale Agenten von AEGIS. Sie
+> sind in den Kern-Welten oder der Überwelt stationiert, um spezifische
+> Domänen zu überwachen und die Direktiven von AEGIS zur Entropie-Kontrolle
+> umzusetzen." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L150]
+
+Placed inside [[aegis|AEGIS]] without qualification — „primär Diener von AEGIS und
+handeln nach dessen Direktiven" ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L205]
+— the same containment `roman-lokalitaeten-konzept-und-ausarbeitung` assumed
+rather than argued; this document does not raise the principal–agent question
+`aegis-subplots-kapitelweise-system-exploration-docx` built a chapter around.
+
+### `Wächter` surfaces four times, and none of them is the collective
+
+Four unrelated referents share the root, and the document is explicit that
+none of them is a name for the class of Guardians: Limina's own epithet, „Die
+Wächterin / Schwellenhüterin" ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L263];
+one possible manifestation of [[cerberus|Cerberus]], „bedrohliche Wächterfiguren an den
+Grenzen seines Bereichs" ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L181];
+the Nebencharakter Einheit 734's local KW3 guise, „aggressiver Wächter"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L551]; and Praetor's own
+possible self-image, „Krieger, Wächter oder starkes Tier"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L436]. A fifth, related
+compound — Terminus's epithet `Der Grenzwärter` — is explicitly glossed by the
+document as a smaller-scale stand-in for Cerberus specifically, „Repräsentiert
+die Funktion von Cerberus auf einer spezifischeren Ebene"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L578], not a fifth kind of
+Guardian.
+
+**This does not touch `Wiki/questions/q4-waechter-four-bearers.md`'s register
+hypothesis directly** — that question is about which register names the
+*collective*, and this document supplies a third data point (`Guardians` only,
+zero `Wächter` for the collective) alongside document 5's `Guardian`-heavy and
+document 6's `Wächter`-only distributions. Recorded here rather than argued
+into that page, since the register question is about which word a document
+picks for the group, not about individual epithets that share a root.
+
+### A named mechanism for why they might not coordinate
+
+> „Aufgrund der segmentierten Natur des Systems (Zero-Trust-Protokolle,
+> Kontext Pt 2) haben sie möglicherweise nur begrenztes Bewusstsein
+> voneinander und operieren weitgehend isoliert in ihren jeweiligen Domänen,
+> was zu Koordinationsproblemen oder widersprüchlichen Aktionen führen kann."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L205]
+
+This is the first source to give the Guardians' isolation from each other a
+named cause rather than stating it as a fact of their design. See
+[[zero-trust|Zero-Trust]], split off `aegis-teilfunktionen.md` by this
+reading (`Plan/runs/judgements.jsonl` J78).

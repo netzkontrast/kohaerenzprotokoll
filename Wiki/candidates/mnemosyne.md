@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -96,3 +96,20 @@ individual blind spot stated; see [[guardians]].
 
 This document calls Mnemosyne a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] and never a `Guardian`. See
 [[guardians]].
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18
+
+**Assigned to [[resonanz-landschaft|Resonanz-Landschaft]] (KW2) again**, function stated over
+emotional resonance and historical data:
+
+> „Verwaltung und Überwachung von Erinnerungen, emotionalen Resonanzen und
+> historischen Datenströmen innerhalb der Landschaft, die Kaels Vergangenheit
+> und Emotionen repräsentiert." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L169]
+
+**Blind spot** (see [[blinder-fleck]] for the full five-Guardian table):
+treats memories as pure data, missing „deren emotionale Ladung, subjektive
+Bedeutung oder traumatischen Kontext"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L170] — the same shape as
+`guardians-und-kern-welten-konzept`'s „Wunde"/"Narbe" misreading, reached
+independently. `AEGIS` occurs in this document; Mnemosyne is placed inside it
+without qualification — see [[guardians]].

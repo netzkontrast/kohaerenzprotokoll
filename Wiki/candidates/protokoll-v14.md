@@ -1,10 +1,10 @@
 ---
 term: Protokoll v1.4
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -40,3 +40,23 @@ the research supplied the escalation that leads to it.**
 
 **The document names its own stages as undefined**, in its list of what still
 needs working out.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — the same event, confirmed from Kael's side
+
+**A second, unrelated document confirms the Universal Reboot as the story's
+inciting event, without naming `Protokoll v1.4` or citing this document at
+all:**
+
+> „Der von ihm initiierte \"universal reboot\" ist das auslösende Ereignis der
+> Handlung." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L146]
+
+and earlier, as [[kael|Kael]]'s own starting condition:
+
+> „Kael beginnt seine Reise unmittelbar nach einem systemweiten \"universal
+> reboot\" in der Konstrukt-Stadt." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L26]
+
+**Lowercase and unquoted-as-a-name here**, against the first reading's
+capitalised „Universal Reboot" marked `[User Query]` — the same event, a
+different document's register, not a second reboot. This document supplies
+nothing about the escalation stages that lead to it (the three numbered steps
+above); it only confirms that the reboot itself is where Part 1 begins.

@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -80,3 +80,33 @@ domain („Optimierung/Potenzial") and function this document gives the pair.
 Nothing here sets Sophia's own „Wissen, Weisheit, Integration" reading against
 anything; this document simply never separates the two, the same shape
 `roman-lokalitaeten-konzept-und-ausarbeitung` already showed.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — the first source to give Sophia her own paragraph, and a different world
+
+**The first source to separate Sophia from [[kairos|Kairos]] at all** (see [[kairos]]).
+And her assignment is not the one the first reading gives the pair:
+
+> „Sophia (Zugeordnet: Überwelt / Integration?)"
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L195]
+
+**`guardians-und-kern-welten-konzept` pairs Sophia with [[moeglichkeits-garten|Möglichkeits-Garten]]
+(KW4), the same world it gives Kairos.** This document puts her in the
+[[ueberwelt|Überwelt]] instead, hedged with its own `?`. Not flagged as a conflict: neither
+document states the other wrong, both are single, unhedged-versus-hedged
+readings, and the pair's domain has never been settled by more than one
+source at a time. Recorded as a difference to watch rather than resolved.
+
+Function:
+
+> „Repräsentiert die systemdefinierte \"Weisheit\", überwacht möglicherweise
+> die übergeordneten Integrationsprotokolle von AEGIS (die auf erzwungene
+> Kohärenz und Unterdrückung abzielen, nicht auf Heilung)."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L199]
+
+**Blind spot** (see [[blinder-fleck]]): her „Weisheit" and „Integration" mean
+eliminating deviation, not synthesising it — „unfähig, den Wert von Vielfalt,
+Akzeptanz von Fragmentierung als Ausgangspunkt […] zu erkennen. Sie sieht
+Integration als Eliminierung von Abweichung, nicht als Synthese."
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L200] Compatible with, and
+sharper than, `guardians-und-kern-welten-konzept`'s „missing data" reading —
+this document gives a value-blindness rather than an information gap.

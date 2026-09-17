@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -95,3 +95,25 @@ guards, not the one wall `roman-lokalitaeten-konzept-und-ausarbeitung` names
 terms; nothing here contradicts that reading, since this document never
 specifies any single boundary by name. Consistent with „Sicherheit, Abwehr,
 Grenzen" above.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18
+
+**Assigned to [[grenzfeste|Grenzfeste]] (KW3) again**, function over containment and threat
+response, and explicitly linked to the [[alters|Alters]] most associated with that
+world:
+
+> „Implementierung und Überwachung von Sicherheitsprotokollen,
+> Grenzkontrolle, Abwehrmaßnahmen und Eindämmung potenziell gefährlicher oder
+> destabilisierender Elemente (assoziert mit Kaels Abwehrmechanismen,
+> Ängsten und vielleicht persecutorischen Anteilen)."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L179]
+
+**Blind spot** (see [[blinder-fleck]] for the full five-Guardian table):
+paranoia and over-aggression, unable to recognise protective aggression —
+„erkennt die potenziell schützende Funktion hinter aggressivem Verhalten (wie
+bei Protektor- oder Persecutor-Alters) nicht"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L180] — a specific,
+Alter-aware version of the same „unknown classified as hostile by default"
+shape `guardians-und-kern-welten-konzept` already gives Cerberus.
+`AEGIS` occurs in this document; Cerberus is placed inside it without
+qualification — see [[guardians]].

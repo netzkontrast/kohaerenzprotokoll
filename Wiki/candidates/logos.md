@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -89,3 +89,21 @@ Consistent with „Struktur, Logik, Systemarchitektur, Rationalität" above, not
 repeating it. No blind spot is stated for LogOS individually here — see
 [[guardians]] for the one blindness this document gives the group. `AEGIS`
 does not occur in this document either.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18
+
+**Assigned to [[konstrukt-stadt|Konstrukt-Stadt]] (KW1) again**, function stated as monitoring
+rather than construction — closer to `guardians-und-kern-welten-konzept`'s
+domain than to `kohaerenz-protokoll-konzept`'s elimination-framing:
+
+> „Überwachung und Aufrechterhaltung von Logik, Struktur, Ordnung und
+> Regelkonformität in der rational konzipierten Konstrukt-Stadt."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L159]
+
+**Blind spot** (fourth documented for LogOS, see [[blinder-fleck]] for the
+full five-Guardian table this document gives): cannot understand trauma,
+dissociation or emotion, and reacts to [[kael|Kael]]'s breakthroughs as system errors
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L160].
+
+`AEGIS` does occur in this document, and LogOS is placed inside it without
+qualification — see [[guardians]], [[aegis|AEGIS]].
