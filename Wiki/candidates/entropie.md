@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-16"
 ---
 
@@ -82,7 +82,7 @@ than reports.** Entropy as Shannon entropy:
 > eines Systems verstanden." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L25]
 
 It then becomes measurable: six monitored quantities, the last of them a global
-entropy score ^[kohaerenzprotokoll-aegis-und-systementropie.md:L91-96]. See [[aegis-metriken]].
+entropy score ^[kohaerenzprotokoll-aegis-und-systementropie.md:L91-96]. See [[aegis-metriken|AEGIS' operative Metriken]].
 
 **This is the second sense asked for by the first source and never supplied**
 ^[entropie-aegis.md:L31] — arriving two days later, in a document that does not
@@ -92,3 +92,43 @@ know the question was asked.
 matrix, and Shannon uncertainty. Only the third is operational, and none of the
 three sources says it supersedes another.
 
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
+
+**Instrumented, and never defined.** 39 occurrences standing alone and not one
+of them says what entropy is. What this document adds is the apparatus the system
+uses to see it:
+
+| instrument | where | line |
+|---|---|--:|
+| „Entropiegrad", which increases and manifests as `Risse` | a Kern-Welt's changing architecture | 37 |
+| „Entropielevel" | on the system monitor, beside Systemintegrität | 464 |
+| „Entropie-Hotspots in Echtzeit" | the monitor's live visualisation | 465 |
+| „Entropie-Indikatoren" | the monitor's landmarks | 470 |
+| „Entropie-Ausgleichs-Kammer" | a location in the [[ueberwelt|Überwelt]] | 229 |
+
+The chamber is the only place in the read corpus where entropy management is
+given a mechanism rather than a name:
+
+> „Ein hypothetischer Ort oder Prozess innerhalb der Überwelt, an dem AEGIS aktiv
+> versucht, die systemische Entropie zu managen, zu kanalisieren, zu
+> neutralisieren oder umzuwandeln, um die Ordnung aufrechtzuerhalten." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L481]
+
+> „Verkörpert AEGIS' Kernfunktion des Entropie-Managements und den ständigen
+> Kampf gegen den Zerfall. Symbol für die (vielleicht vergebliche) Anstrengung,
+> perfekte Ordnung zu erzwingen." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L484]
+
+**„hypothetischer" and „vielleicht vergebliche" are the document's own hedges**,
+and the chamber's row is marked `Explorative V2` — invented here. So this is a
+proposal about how the management works, not a report of it.
+
+### What it says about the relation to `Risse`
+
+Entropy is the cause and a Riss is the environment's reaction to it ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L77],
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L81]. The two terms are used in that order consistently, including in the
+profile field name the document repeats seventeen times —
+`Risse/Entropie Manifestations`. See [[risse]].
+
+### Not here
+
+`Negentropie` does not occur. Neither does any account of where entropy comes
+from, what raises it, or what the numbers on the monitor are measured in.

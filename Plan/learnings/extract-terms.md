@@ -400,3 +400,84 @@ it:
   step's entire justification, and it is unproven until document 2.
 - How much of the census is noise the author never wants to see.
 - Whether the eight special cases above are the whole set or the first eight.
+
+---
+
+## Document 6 — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2026-09-17
+
+**109 candidates in 631 lines, and 51 of them are names of places.** The first
+document read here whose main structure is a table rather than prose, and the
+first where the *shorter* passage is the one that asserts.
+
+### The finding no question in the briefing anticipated
+
+**Occurrence count separated the document's two registers without reading
+anything.** Every one of the 51 location names occurs either exactly once — in
+the master table — or exactly twice, once in the table and once as a profile
+heading. A count of 2 identifies a profiled location, a count of 1 a listed one,
+and the split is 17 / 34.
+
+That is a mechanical proxy for „how much does this document say about this
+term", and it cost nothing: it fell out of `04-counts.txt` unasked.
+
+**The briefing has no question that would have produced it.** Its surface and
+boundary questions are about *one thing wearing several names*; this is about
+*one name appearing in several places*, which turns out to be a stance signal in
+a document with a fixed template. Worth a question if a second templated document
+shows the same thing.
+
+### The second finding, and it came from the profile rather than the reading
+
+`scripts/profile.py` reported ten repeated labels at two different heights — five
+at 18 and five at 17. The reading had not noticed. The cause: **the document
+defines an eleven-field template once, in German, and then renames five of the
+eleven fields in every instance** — `Atmosphäre/Stimmung` becomes
+`Atmosphäre/Mood`, `Design-Inspirationen` becomes `Design Inspirations`.
+
+A label census matching on the definition would have found each of those five
+once and concluded the field was unused. **The two heights were the whole tell**,
+and only a count produced them.
+
+### The count corrected three things and one of them was a `0`
+
+| term | word | incl. | what it meant |
+|---|--:|--:|---|
+| `Guardian` | 0 | 0 | genuinely absent, and that was the document's biggest single fact |
+| `Anomalie` | 0 | 7 | present seven times, only as `Anomalien` |
+| `Lokalitäten-Profil` | 0 | 2 | present twice, only inflected |
+
+**Two zeros meaning „written differently" and one meaning „absent", in one
+document.** The surface listing `capture.py` added after document 5 is what
+distinguished them, and without it all three look identical.
+
+### The substring trap the probes predicted and the reading caught first
+
+`Limina` is an Alter; `Liminale Räume` is craft theory the document cites to
+external references 64–66. They share five letters, the count merges them (9
+standing alone against 19 including the theory), and **the reference list is what
+settles it**: a candidate whose extra hits are cited to a footnote is two terms,
+not one. Recorded as `J38`.
+
+Same shape, weaker: `Muse` inside `Museum` and `Museen`, in a gallery profile.
+
+### A provenance marker, and it is the first one in the corpus
+
+The master table carries a `Source` column per row — `Explorative V2` 30,
+`Plot Teil 1` 12, `Konzept Doc` 8, `Kontext` 1. **The document says, row by row,
+which names it invented and which it inherited.** Nothing else read here does
+that, and it turned out to be the deciding criterion for which locations became
+pages.
+
+**Watch for:** whether any other document self-reports provenance per item. If
+two more do, it is a construct worth a field rather than a lucky property of one
+table.
+
+### On the briefing
+
+No new question is added yet. The two findings above are both about *templated*
+documents, and one document is not a pattern. If a second templated document
+repeats either, the questions to add are:
+
+- Does the document repeat a fixed template? Do its instances agree with its
+  definition, field name by field name?
+- Does a candidate's occurrence count separate the document's registers?

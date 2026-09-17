@@ -30,7 +30,7 @@ ways at once: it appears once, it is quoted, and it exists only inside a
 question. Each of those alone is enough to lose a term; together they make it
 invisible to anything but a person reading the line.
 
-And it is the one mechanism that would let [[aegis]] act on individual [[alters]] — which
+And it is the one mechanism that would let [[aegis|AEGIS]] act on individual [[alters|Alters]] — which
 is the novel's central threat.
 
 **Whether any later source answers it is not known from this source.** A term

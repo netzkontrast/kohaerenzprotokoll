@@ -1,0 +1,1566 @@
+{
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "drive_id": "1CsMXR0Fv8MsyeDQB6MS4WxIhXbolQ6y1UlgHynsFgqg",
+  "step": "counts",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "counts": {
+    "Realitätsebenen": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        105,
+        166,
+        168,
+        250,
+        549,
+        553
+      ]
+    },
+    "Kern-Welt": {
+      "n": 14,
+      "n_including_compounds": 32,
+      "lines": [
+        25,
+        35,
+        37,
+        47,
+        49,
+        51,
+        57,
+        77,
+        79,
+        143,
+        152,
+        158,
+        172,
+        173,
+        174,
+        175,
+        186,
+        197,
+        207,
+        217,
+        234,
+        254,
+        301,
+        305,
+        356,
+        407,
+        467,
+        470,
+        516,
+        532,
+        555
+      ]
+    },
+    "Kern-Welten": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        25,
+        35,
+        37,
+        47,
+        49,
+        51,
+        57,
+        77,
+        79,
+        143,
+        152,
+        158,
+        234,
+        301,
+        467,
+        516,
+        532,
+        555
+      ]
+    },
+    "Kern-Welt 1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        172,
+        186,
+        254
+      ]
+    },
+    "Kern-Welt 2": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        173,
+        197,
+        305
+      ]
+    },
+    "Kern-Welt 3": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        174,
+        207,
+        356
+      ]
+    },
+    "Kern-Welt 4": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        175,
+        217,
+        407
+      ]
+    },
+    "KW1": {
+      "n": 21,
+      "n_including_compounds": 24,
+      "lines": [
+        35,
+        39,
+        69,
+        71,
+        79,
+        105,
+        172,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        256,
+        261,
+        264,
+        266,
+        273,
+        290
+      ]
+    },
+    "KW2": {
+      "n": 28,
+      "n_including_compounds": 28,
+      "lines": [
+        35,
+        39,
+        67,
+        79,
+        89,
+        141,
+        153,
+        154,
+        158,
+        160,
+        173,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        307,
+        311,
+        324,
+        328,
+        331,
+        341,
+        346,
+        352
+      ]
+    },
+    "KW3": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        35,
+        39,
+        67,
+        79,
+        174,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        358,
+        362,
+        370,
+        375,
+        379,
+        387,
+        392,
+        396,
+        404
+      ]
+    },
+    "KW4": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        35,
+        39,
+        79,
+        175,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        409,
+        413,
+        426,
+        436,
+        443,
+        447
+      ]
+    },
+    "Überwelt": {
+      "n": 27,
+      "n_including_compounds": 28,
+      "lines": [
+        35,
+        39,
+        47,
+        49,
+        57,
+        67,
+        79,
+        105,
+        141,
+        176,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        458,
+        460,
+        477,
+        481,
+        494,
+        498,
+        516,
+        555
+      ]
+    },
+    "Externe Ebene": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        35,
+        105,
+        177,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        470,
+        509,
+        511,
+        528
+      ]
+    },
+    "Systemgrenze": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        208,
+        240,
+        358
+      ]
+    },
+    "Lokalitäten-Profil": {
+      "n": 0,
+      "n_including_compounds": 2,
+      "lines": [
+        101,
+        246
+      ]
+    },
+    "AEGIS": {
+      "n": 47,
+      "n_including_compounds": 56,
+      "lines": [
+        21,
+        25,
+        35,
+        47,
+        49,
+        57,
+        59,
+        77,
+        79,
+        89,
+        91,
+        110,
+        119,
+        141,
+        160,
+        176,
+        177,
+        194,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        242,
+        260,
+        280,
+        365,
+        368,
+        458,
+        464,
+        467,
+        468,
+        469,
+        472,
+        481,
+        484,
+        485,
+        489,
+        502,
+        506,
+        519,
+        522,
+        532,
+        539
+      ]
+    },
+    "Wächter": {
+      "n": 12,
+      "n_including_compounds": 17,
+      "lines": [
+        35,
+        59,
+        71,
+        114,
+        141,
+        176,
+        228,
+        232,
+        233,
+        234,
+        370,
+        464,
+        468,
+        470,
+        472
+      ]
+    },
+    "LogOS": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        35,
+        172,
+        186,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        232,
+        254,
+        260,
+        263,
+        277,
+        280,
+        285,
+        302,
+        472
+      ]
+    },
+    "Mnemosyne": {
+      "n": 19,
+      "n_including_compounds": 21,
+      "lines": [
+        35,
+        153,
+        173,
+        197,
+        198,
+        199,
+        201,
+        202,
+        204,
+        205,
+        206,
+        232,
+        305,
+        318,
+        319,
+        336,
+        345,
+        351,
+        353,
+        472
+      ]
+    },
+    "Cerberus": {
+      "n": 19,
+      "n_including_compounds": 20,
+      "lines": [
+        35,
+        51,
+        174,
+        207,
+        208,
+        209,
+        212,
+        213,
+        214,
+        215,
+        216,
+        232,
+        356,
+        362,
+        365,
+        368,
+        370,
+        387,
+        404,
+        472
+      ]
+    },
+    "Kairos": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        35,
+        175,
+        217,
+        219,
+        221,
+        232,
+        407,
+        421,
+        438,
+        472
+      ]
+    },
+    "Sophia": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        35,
+        175,
+        217,
+        219,
+        221,
+        232,
+        407,
+        421,
+        438,
+        472
+      ]
+    },
+    "Kairos/Sophia": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        35,
+        175,
+        217,
+        219,
+        221,
+        232,
+        407,
+        421,
+        438,
+        472
+      ]
+    },
+    "Kael": {
+      "n": 75,
+      "n_including_compounds": 119,
+      "lines": [
+        25,
+        35,
+        37,
+        39,
+        47,
+        51,
+        67,
+        71,
+        77,
+        79,
+        89,
+        93,
+        143,
+        145,
+        152,
+        153,
+        154,
+        160,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        208,
+        209,
+        211,
+        212,
+        213,
+        215,
+        216,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        230,
+        231,
+        236,
+        237,
+        238,
+        240,
+        242,
+        256,
+        260,
+        263,
+        265,
+        268,
+        277,
+        283,
+        285,
+        294,
+        299,
+        302,
+        311,
+        312,
+        315,
+        318,
+        319,
+        331,
+        336,
+        345,
+        353,
+        362,
+        370,
+        387,
+        404,
+        413,
+        421,
+        430,
+        433,
+        434,
+        438,
+        447,
+        453,
+        455,
+        464,
+        472,
+        489,
+        506,
+        515,
+        521,
+        523,
+        540
+      ]
+    },
+    "Juna": {
+      "n": 24,
+      "n_including_compounds": 32,
+      "lines": [
+        77,
+        89,
+        177,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        464,
+        471,
+        489,
+        506,
+        509,
+        511,
+        515,
+        516,
+        518,
+        521,
+        523,
+        535,
+        540
+      ]
+    },
+    "Alters": {
+      "n": 22,
+      "n_including_compounds": 24,
+      "lines": [
+        37,
+        47,
+        51,
+        71,
+        77,
+        89,
+        93,
+        114,
+        143,
+        153,
+        172,
+        173,
+        174,
+        175,
+        222,
+        224,
+        225,
+        443,
+        451,
+        452,
+        455
+      ]
+    },
+    "Alter-Persönlichkeiten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        51,
+        447
+      ]
+    },
+    "Limina": {
+      "n": 9,
+      "n_including_compounds": 19,
+      "lines": [
+        51,
+        115,
+        152,
+        158,
+        172,
+        187,
+        196,
+        224,
+        268,
+        453,
+        455,
+        555,
+        622,
+        623,
+        624
+      ]
+    },
+    "Echo": {
+      "n": 10,
+      "n_including_compounds": 15,
+      "lines": [
+        173,
+        198,
+        199,
+        200,
+        203,
+        224,
+        317,
+        318,
+        319,
+        397,
+        402,
+        455,
+        504
+      ]
+    },
+    "Nox": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        51,
+        174,
+        210,
+        211,
+        212,
+        224,
+        404,
+        455
+      ]
+    },
+    "Orakel": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        175,
+        218,
+        219,
+        220,
+        221,
+        223,
+        224,
+        421,
+        438,
+        455
+      ]
+    },
+    "Muse": {
+      "n": 10,
+      "n_including_compounds": 14,
+      "lines": [
+        175,
+        218,
+        219,
+        220,
+        221,
+        223,
+        224,
+        346,
+        354,
+        421,
+        438,
+        455,
+        625,
+        626
+      ]
+    },
+    "Orakel/Muse": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        175,
+        218,
+        219,
+        220,
+        221,
+        223,
+        224,
+        421,
+        438,
+        455
+      ]
+    },
+    "Archivar": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        173,
+        201,
+        328,
+        331,
+        332,
+        334,
+        335,
+        336
+      ]
+    },
+    "Regel-Exekutor": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        174,
+        193,
+        209,
+        214,
+        370,
+        387
+      ]
+    },
+    "Therapeut": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        190,
+        294,
+        301,
+        302
+      ]
+    },
+    "NPC": {
+      "n": 9,
+      "n_including_compounds": 13,
+      "lines": [
+        75,
+        173,
+        174,
+        190,
+        193,
+        201,
+        209,
+        214,
+        302,
+        328,
+        336,
+        387
+      ]
+    },
+    "DID": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        93,
+        450
+      ]
+    },
+    "Risse": {
+      "n": 40,
+      "n_including_compounds": 41,
+      "lines": [
+        25,
+        37,
+        47,
+        57,
+        61,
+        71,
+        77,
+        81,
+        113,
+        151,
+        152,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        284,
+        285,
+        301,
+        312,
+        318,
+        335,
+        352,
+        369,
+        386,
+        403,
+        420,
+        437,
+        454,
+        471,
+        472,
+        488,
+        505,
+        522,
+        539
+      ]
+    },
+    "Riss": {
+      "n": 6,
+      "n_including_compounds": 49,
+      "lines": [
+        25,
+        37,
+        47,
+        57,
+        61,
+        69,
+        71,
+        77,
+        81,
+        113,
+        141,
+        151,
+        152,
+        158,
+        195,
+        237,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        284,
+        285,
+        301,
+        312,
+        318,
+        335,
+        352,
+        369,
+        386,
+        403,
+        420,
+        437,
+        454,
+        471,
+        472,
+        488,
+        505,
+        522,
+        539
+      ]
+    },
+    "Entropie": {
+      "n": 39,
+      "n_including_compounds": 49,
+      "lines": [
+        21,
+        25,
+        37,
+        55,
+        57,
+        59,
+        69,
+        71,
+        77,
+        81,
+        110,
+        113,
+        119,
+        151,
+        229,
+        267,
+        284,
+        301,
+        318,
+        335,
+        352,
+        369,
+        386,
+        403,
+        420,
+        437,
+        454,
+        464,
+        465,
+        470,
+        471,
+        477,
+        481,
+        484,
+        487,
+        488,
+        489,
+        505,
+        522,
+        539,
+        553
+      ]
+    },
+    "Entropie-Management": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        59,
+        484
+      ]
+    },
+    "Entropielevel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        464
+      ]
+    },
+    "Entropie-Hotspots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        465
+      ]
+    },
+    "Entropie-Indikatoren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        470
+      ]
+    },
+    "Reboot": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        21,
+        89,
+        91,
+        172,
+        260,
+        268
+      ]
+    },
+    "Post-Reboot-Zustand": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        89
+      ]
+    },
+    "System-Reboots": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Datenkorruption": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        55,
+        113,
+        151,
+        502
+      ]
+    },
+    "Systemintegrität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        57,
+        294,
+        464
+      ]
+    },
+    "Systemlogik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        280,
+        468
+      ]
+    },
+    "Systemregeln": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        47,
+        110,
+        214,
+        264
+      ]
+    },
+    "Kohärenz": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        11,
+        17,
+        21,
+        25,
+        35,
+        57,
+        67,
+        77,
+        89,
+        99,
+        103,
+        119,
+        141,
+        145,
+        156,
+        158,
+        166,
+        416,
+        518,
+        549,
+        551,
+        553
+      ]
+    },
+    "Integration": {
+      "n": 9,
+      "n_including_compounds": 11,
+      "lines": [
+        25,
+        37,
+        43,
+        47,
+        85,
+        175,
+        222,
+        421,
+        450,
+        547,
+        555
+      ]
+    },
+    "Anomalie": {
+      "n": 0,
+      "n_including_compounds": 7,
+      "lines": [
+        188,
+        280,
+        282,
+        285,
+        464,
+        469,
+        471
+      ]
+    },
+    "Anomalien": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        188,
+        280,
+        282,
+        285,
+        464,
+        469,
+        471
+      ]
+    },
+    "Glitch": {
+      "n": 8,
+      "n_including_compounds": 23,
+      "lines": [
+        55,
+        57,
+        61,
+        113,
+        115,
+        151,
+        158,
+        267,
+        284,
+        318,
+        471,
+        488,
+        499,
+        507,
+        555,
+        597,
+        598,
+        599
+      ]
+    },
+    "Simulation": {
+      "n": 4,
+      "n_including_compounds": 11,
+      "lines": [
+        21,
+        43,
+        61,
+        89,
+        141,
+        234,
+        448,
+        449,
+        451,
+        453,
+        454
+      ]
+    },
+    "Kaels Wohneinheit 1.0": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        187,
+        256
+      ]
+    },
+    "Datenverarbeitungsknoten 7G": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        188,
+        273
+      ]
+    },
+    "Transitkorridor Delta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        189
+      ]
+    },
+    "Therapie-Schnittstelle Alpha": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        190,
+        290
+      ]
+    },
+    "LogOS' Kern-Bibliothek": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Sektor der Rekursiven Logik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        192
+      ]
+    },
+    "Platz der Definierten Regeln": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Archiv der Konsistenten Fakten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        194
+      ]
+    },
+    "Die Leere Menge (Null-Raum)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        195
+      ]
+    },
+    "Liminas Reflektionskammer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        196
+      ]
+    },
+    "Vergessener Schrein (Trauma-Lokus)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        198,
+        307
+      ]
+    },
+    "See der Tränen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Pfad der Fragmentierten Erinnerung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "Archiv des Ungesagten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        201,
+        324
+      ]
+    },
+    "Galerie der Falschen Erinnerungen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        202,
+        341
+      ]
+    },
+    "Echo's Resonanzraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Die Narbenfelder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "Mnemosynes Gedächtnispalast": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Fluss des Vergessens (Lethe-Strom)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Die Große Mauer (Systemgrenze)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        208,
+        358
+      ]
+    },
+    "Schleuse 7 (Kontrollpunkt)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        209,
+        375
+      ]
+    },
+    "Nox' Schattenversteck": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Der Innere Bunker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Arena der Inneren Konflikte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        212
+      ]
+    },
+    "Labyrinth der Paranoia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        213,
+        392
+      ]
+    },
+    "Posten des Regel-Exekutors": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Die Zensurkammer": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Feld der Abwehrmechanismen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Nexus-Interface": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        218,
+        409
+      ]
+    },
+    "Garten der Möglichkeiten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        219,
+        426
+      ]
+    },
+    "Werkstatt der Schöpfung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        220
+      ]
+    },
+    "Turm der Voraussicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        221
+      ]
+    },
+    "Brücke zur Integration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "Quelle der Inspiration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        223
+      ]
+    },
+    "Forum des Dialogs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Trainingsraum der Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        225,
+        443
+      ]
+    },
+    "AEGIS Zentralkern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Der Große System-Monitor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        228,
+        460
+      ]
+    },
+    "Entropie-Ausgleichs-Kammer": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        229,
+        477
+      ]
+    },
+    "Datenfriedhof": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        230,
+        494
+      ]
+    },
+    "Quarantäne-Zone 7": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        231
+      ]
+    },
+    "Kommunikations-Hub": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        232
+      ]
+    },
+    "Wächter-Registry": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        233
+      ]
+    },
+    "Simulations-Konstruktor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        234
+      ]
+    },
+    "Junas Ankerpunkt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        236,
+        511
+      ]
+    },
+    "Der Riss im System": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Garten der Stillen Präsenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        238,
+        528
+      ]
+    },
+    "Quelle des Flüsterns": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        239
+      ]
+    },
+    "Das Unkartierte Territorium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        240
+      ]
+    },
+    "Junas Geheime Schnittstelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        241
+      ]
+    },
+    "Hain der Gegensätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        242
+      ]
+    }
+  }
+}

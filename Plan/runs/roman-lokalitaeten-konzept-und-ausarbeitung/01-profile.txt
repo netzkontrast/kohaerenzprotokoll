@@ -1,0 +1,14 @@
+# roman-lokalitaeten-konzept-und-ausarbeitung
+  lines                631  (frontmatter ends at 9)
+  body words           12022
+  headings             26   bold-only lines 7
+  table rows           60   code fences 0
+  question marks       52
+  backslash escapes    77
+  typographic marks    19   ascii quotes 106
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    133
+  repeated labels      Konzept/Zweck x18, Regeln/Logik x18, Sensorik x18, Symbolik x18, Ästhetik/Visualisierung x18, Atmosphäre/Mood x17, Charakter/Plot Link x17, Design Inspirations x17, Landmarken/Key Features x17, Risse/Entropie Manifestations x17
+  longest line         984 chars
+

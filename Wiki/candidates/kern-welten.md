@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 3
-readings: 2
+sources: 4
+readings: 3
 conflict: none
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -31,7 +31,7 @@ same system as the [[ueberwelt|Überwelt]].
 A term used once, in a parenthesis, as known, is the shape of term that gets
 skipped — and skipping it is invisible, because nothing is missing from anywhere.
 
-It is also load-bearing. The brief's whole premise is that [[kael]]'s fragmented
+It is also load-bearing. The brief's whole premise is that [[kael|Kael]]'s fragmented
 psyche is represented as simulated worlds ^[entropie-aegis.md:L21], and these are
 those worlds. **The document depends on a term it never explains.**
 
@@ -52,7 +52,7 @@ the collapse starts.
 > „Kaels innere Welten lösen sich wahrscheinlich zuerst und am dramatischsten in
 > Chaos auf." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L165]
 
-And they are what [[aegis]] contains: quarantining unstable data, reinforcing logical
+And they are what [[aegis|AEGIS]] contains: quarantining unstable data, reinforcing logical
 boundaries, allocating resources ^[kohaerenzprotokoll-aegis-und-systementropie.md:L49].
 
 **Two sources now use the term as known and neither says what one is.**
@@ -65,10 +65,10 @@ each.
 
 | world | Guardian | physics |
 |---|---|---|
-| [[konstrukt-stadt]] | LogOS | „streng kausal, deterministisch und regelbasiert" ^[guardians-und-kern-welten-konzept.md:L36] |
-| [[resonanz-landschaft]] | Mnemosyne | „nicht-linear, assoziativ und fließend" ^[guardians-und-kern-welten-konzept.md:L61] |
-| [[grenzfeste]] | Cerberus | „rigiden Regeln, starken, oft undurchdringlichen Grenzen und Barrieren" ^[guardians-und-kern-welten-konzept.md:L86] |
-| [[moeglichkeits-garten]] | Kairos & Sophia | „nicht-linear, assoziativ und metamorph" ^[guardians-und-kern-welten-konzept.md:L125] |
+| [[konstrukt-stadt|Konstrukt-Stadt]] | LogOS | „streng kausal, deterministisch und regelbasiert" ^[guardians-und-kern-welten-konzept.md:L36] |
+| [[resonanz-landschaft|Resonanz-Landschaft]] | Mnemosyne | „nicht-linear, assoziativ und fließend" ^[guardians-und-kern-welten-konzept.md:L61] |
+| [[grenzfeste|Grenzfeste]] | Cerberus | „rigiden Regeln, starken, oft undurchdringlichen Grenzen und Barrieren" ^[guardians-und-kern-welten-konzept.md:L86] |
+| [[moeglichkeits-garten|Möglichkeits-Garten]] | Kairos & Sophia | „nicht-linear, assoziativ und metamorph" ^[guardians-und-kern-welten-konzept.md:L125] |
 
 Each is paired to exactly one Guardian, and the pairing is the document's
 organising principle — every section is a `Guardian/Welt-Paar`.
@@ -110,11 +110,11 @@ A second line attaches the other number and contrasts the two:
 
 ### The join to document 4, which is an inference and not a claim
 
-Document 4 gives five [[guardians]] and four worlds by name, with [[logos]] in
-`konstrukt-stadt` and [[cerberus]] in `grenzfeste`. This document gives numbers
-with Guardians and no world names. **Neither document contains both halves.**
+Document 4 gives five [[guardians|Guardians]] and four worlds by name, with [[logos|LogOS]] in
+[[konstrukt-stadt]] and [[cerberus|Cerberus]] in [[grenzfeste]]. This document gives numbers
+with [[guardians|Guardians]] and no world names. **Neither document contains both halves.**
 
-If `LogOS` here is `logos` there — which `fold()` decides mechanically, and which
+If `LogOS` here is [[logos]] there — which `fold()` decides mechanically, and which
 nothing has contradicted — then `KW1` is `konstrukt-stadt` and `KW3` is
 `grenzfeste`. **That sentence is this page's inference, attributed to no source**,
 and it is written down so that the next document can confirm or break it rather
@@ -122,5 +122,83 @@ than so that anything may rely on it now.
 
 ### What breaks it
 
-A document that numbers a world differently, or that puts `cerberus` anywhere but
+A document that numbers a world differently, or that puts [[cerberus]] anywhere but
 third. `KW2` and `KW4` appearing anywhere would settle most of it at once.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
+
+**All four, numbered, with a domain bearer and a function each — and the page's
+own inference is now complete.**
+
+The previous reading ended with: „`KW2` und `KW4` appearing anywhere would settle
+most of it at once." They appear here 28 and 18 times, and the recapitulation
+gives every one of the four its bearer ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172–L175]:
+
+| shorthand | bearer | function, as this document states it |
+|---|---|---|
+| `KW1` | LogOS | „Ebene der Logik, Ordnung, Rationalität, Struktur" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172] |
+| `KW2` | Mnemosyne | „Ebene der Emotionen, Erinnerungen, des Traumas" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L173] |
+| `KW3` | Cerberus | „Ebene der Abwehrmechanismen, Kontrolle, Grenzen, Paranoia, des inneren Konflikts" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L174] |
+| `KW4` | Kairos/Sophia | „Ebene des Potenzials, der Kreativität, der Integration, der Sinnfindung, der Zukunftsperspektiven" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L175] |
+
+The same assignment is stated a second time, in Teil I, in the same order:
+
+> „Die Architektur jeder Kern-Welt muss ihre primäre psychologische Funktion
+> symbolisieren: Logik und Struktur (KW1), Emotion und Trauma (KW2), Abwehr und
+> Kontrolle (KW3), Potenzial und Kreativität (KW4)." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35]
+
+### The inference this page recorded is confirmed for two and extended to four
+
+Document 5 gave `LogOS`→KW1 and `Cerberus`→KW3 and nothing else. This document
+gives the same two and adds `Mnemosyne`→KW2 and `Kairos/Sophia`→KW4. Combined
+with document 4's Guardian↔world names, the join reads:
+
+| number | Guardian | world name, from document 4 |
+|---|---|---|
+| KW1 | LogOS | `konstrukt-stadt` |
+| KW2 | [[mnemosyne|Mnemosyne]] | [[resonanz-landschaft]] |
+| KW3 | Cerberus | `grenzfeste` |
+| KW4 | [[kairos|Kairos]]/[[sophia|Sophia]] | [[moeglichkeits-garten]] |
+
+**That table is still this page's inference and not any document's claim.** Two
+documents now supply the numbers and one supplies the names, and no document
+contains both halves. What has changed is that the inference is complete and that
+a second, independent document agrees with the first about the two it could be
+checked on.
+
+### And the vocabularies do not touch
+
+**None of document 4's four world names occurs in this document.** Zero for
+`Konstrukt-Stadt`, `Resonanz-Landschaft`, `Grenzfeste` and `Möglichkeits-Garten`;
+zero for `Überraum` and `Potentialmeer`. This document numbers where the other
+names, and neither ever uses the other's word.
+
+`Kern-Welt` is hyphenated throughout here — 14 standing alone, 18 as
+`Kern-Welten`, and never once the unhyphenated `Kernwelt` that document 5 used.
+
+### What a Kern-Welt is for
+
+It is [[kael|Kael]]'s, and it is reactive:
+
+> „Sie sind als direkte psychische Landschaften Kaels zu konzipieren, die seine
+> dissoziative Identitätsstruktur (DID), seine Alter-Persönlichkeiten und die
+> Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)
+> widerspiegeln" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35]
+
+> „Die Kern-Welten als psychische Landschaften sollten inhärent auf Kaels
+> Gedanken, Emotionen und die Präsenz seiner Alters reagieren." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L77]
+
+Both sentences are design instructions („zu konzipieren", „sollten"), which is
+what most of this document's prose about the world is. The numbering and the
+domain assignment are not.
+
+### Still open
+
+**How many Kern-Welten exist** is now bounded from one side: this document counts
+six Realitätsebenen of which four are Kern-Welten ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L105], and says so five
+times without qualification. See [[realitaetsebenen]]. Whether any source contradicts
+that is unknown.
+
+Whether one Kern-Welt corresponds to one alter is **not** settled. Each level is
+„Assoziiert mit Alters wie Limina" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172] and three like it — *wie*, not *und*,
+so the roster is open at every level. See `q3-how-many-kern-welten-and-alters`.

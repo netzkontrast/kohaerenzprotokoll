@@ -1,0 +1,76 @@
+# 05-verify -- every number that goes into prose, re-run
+# document: roman-lokalitaeten-konzept-und-ausarbeitung
+# date: 2026-09-17
+
+## 51 location rows in the master list (Teil III), against the "ca. 52" the document claims at L244
+$ awk "NR>=186 && NR<=242" <doc> | grep -v "^| <bold group header>" | wc -l
+51
+
+## split by reality level (column 3)
+     10 KW1
+      9 KW3
+      9 KW2
+      8 Überwelt
+      8 KW4
+      7 Externe Ebene
+
+## split by the Source column (column 4) -- the provenance the table carries per row
+     30 Explorative V2
+     12 Plot Teil 1
+      8 Konzept Doc
+      1 Kontext
+
+## 17 detailed profiles in Teil IV, against the "ca. 30" promised at L250
+17
+
+## 72 numbered external references
+72
+
+## Guardian -- zero occurrences. This document says Waechter and only Waechter.
+0
+
+## Waechter -- standing alone (04-counts.txt reports 12 word / 17 incl. compounds)
+12
+
+## Kairos and Sophia never appear apart: every occurrence is inside Kairos/Sophia
+$ grep -onE "Kairos(/Sophia)?" <doc> | grep -v "Kairos/Sophia" | wc -l
+0
+$ grep -onE "(Kairos/)?Sophia" <doc> | grep -v "Kairos/Sophia" | wc -l
+0
+
+## hedging words -- 105 in 12,022 body words, one every 114
+könnte          31
+könnten         10
+vielleicht       29
+möglicherweise  18
+potenziell       15
+wahrscheinlich   1
+vermutlich       1
+
+## quotation convention: single quotes carry world vocabulary, 20 of 32 are Riss/Risse
+     17 'Risse'
+      3 'Riss'
+      2 'Killer'
+      1 'falsch'
+      1 'Unkräuter'
+      1 'Sozialisierer'
+
+## body words, question marks, table rows, headings -- scripts/profile.py, re-run
+  body words           12022
+  headings             26   bold-only lines 7
+  table rows           60   code fences 0
+  question marks       52
+
+## the template is defined once in German and instantiated 17 times under other names
+$ grep -oE '\*\*(Atmosphäre|Landmarken|Charakter|Design|Risse)[^:]*:\*\*' <doc> | sort | uniq -c
+     17 **Atmosphäre/Mood:**
+      1 **Atmosphäre/Stimmung:**
+      1 **Atmosphärenerzeugung:**
+     17 **Charakter/Plot Link:**
+      1 **Charakter/Plot-Verbindung:**
+     17 **Design Inspirations:**
+      1 **Design-Inspirationen:**
+     17 **Landmarken/Key Features:**
+      1 **Landmarken/Schlüsselmerkmale:**
+     17 **Risse/Entropie Manifestations:**
+      1 **Risse/Entropie-Manifestationen:**

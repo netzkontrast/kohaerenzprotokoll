@@ -1,0 +1,662 @@
+{
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "step": "reconcile-pre",
+  "at": "2026-09-17",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-17",
+  "state": {
+    "pages": 46,
+    "conflicts": 4
+  },
+  "candidates": 109,
+  "decisions": 123,
+  "same_surface": {},
+  "decided_mechanically": 68,
+  "needs_judgement": 55,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kern-Welt",
+        "page": "kern-welten",
+        "readings": 2
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 2
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 2
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 1
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 4
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 1
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 1
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 1
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 1
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 1
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 1
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 1
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 0
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 2
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 2
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 3
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 1
+      },
+      {
+        "candidate": "Glitch",
+        "page": "risse",
+        "readings": 2
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 2
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Realitätsebenen"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Lokalitäten-Profil"
+      },
+      {
+        "candidate": "Alter-Persönlichkeiten"
+      },
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Archivar"
+      },
+      {
+        "candidate": "Therapeut"
+      },
+      {
+        "candidate": "NPC"
+      },
+      {
+        "candidate": "Datenkorruption"
+      },
+      {
+        "candidate": "Systemintegrität"
+      },
+      {
+        "candidate": "Systemlogik"
+      },
+      {
+        "candidate": "Systemregeln"
+      },
+      {
+        "candidate": "Datenverarbeitungsknoten 7G"
+      },
+      {
+        "candidate": "Transitkorridor Delta"
+      },
+      {
+        "candidate": "Therapie-Schnittstelle Alpha"
+      },
+      {
+        "candidate": "Sektor der Rekursiven Logik"
+      },
+      {
+        "candidate": "Platz der Definierten Regeln"
+      },
+      {
+        "candidate": "Archiv der Konsistenten Fakten"
+      },
+      {
+        "candidate": "Die Leere Menge (Null-Raum)"
+      },
+      {
+        "candidate": "Vergessener Schrein (Trauma-Lokus)"
+      },
+      {
+        "candidate": "See der Tränen"
+      },
+      {
+        "candidate": "Pfad der Fragmentierten Erinnerung"
+      },
+      {
+        "candidate": "Archiv des Ungesagten"
+      },
+      {
+        "candidate": "Galerie der Falschen Erinnerungen"
+      },
+      {
+        "candidate": "Die Narbenfelder"
+      },
+      {
+        "candidate": "Fluss des Vergessens (Lethe-Strom)"
+      },
+      {
+        "candidate": "Schleuse 7 (Kontrollpunkt)"
+      },
+      {
+        "candidate": "Nox' Schattenversteck"
+      },
+      {
+        "candidate": "Der Innere Bunker"
+      },
+      {
+        "candidate": "Arena der Inneren Konflikte"
+      },
+      {
+        "candidate": "Labyrinth der Paranoia"
+      },
+      {
+        "candidate": "Die Zensurkammer"
+      },
+      {
+        "candidate": "Feld der Abwehrmechanismen"
+      },
+      {
+        "candidate": "Garten der Möglichkeiten"
+      },
+      {
+        "candidate": "Werkstatt der Schöpfung"
+      },
+      {
+        "candidate": "Turm der Voraussicht"
+      },
+      {
+        "candidate": "Quelle der Inspiration"
+      },
+      {
+        "candidate": "Forum des Dialogs"
+      },
+      {
+        "candidate": "Der Große System-Monitor"
+      },
+      {
+        "candidate": "Datenfriedhof"
+      },
+      {
+        "candidate": "Quarantäne-Zone 7"
+      },
+      {
+        "candidate": "Kommunikations-Hub"
+      },
+      {
+        "candidate": "Garten der Stillen Präsenz"
+      },
+      {
+        "candidate": "Quelle des Flüsterns"
+      },
+      {
+        "candidate": "Das Unkartierte Territorium"
+      },
+      {
+        "candidate": "Hain der Gegensätze"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kern-Welt  /  Kern-Welten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt  /  Kern-Welt 1",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt  /  Kern-Welt 2",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt  /  Kern-Welt 3",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt  /  Kern-Welt 4",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Systemgrenze  /  Die Große Mauer (Systemgrenze)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS Zentralkern",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wächter  /  Wächter-Registry",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "LogOS  /  LogOS' Kern-Bibliothek",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne  /  Mnemosynes Gedächtnispalast",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos  /  Kairos/Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sophia  /  Kairos/Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kaels Wohneinheit 1.0",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Junas Ankerpunkt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Junas Geheime Schnittstelle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alters  /  Trainingsraum der Alters",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Limina  /  Liminas Reflektionskammer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Echo's Resonanzraum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Orakel  /  Orakel/Muse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Muse  /  Orakel/Muse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Regel-Exekutor  /  Posten des Regel-Exekutors",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Der Riss im System",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropie-Management",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropielevel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropie-Hotspots",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropie-Indikatoren",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Entropie-Ausgleichs-Kammer",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Reboot  /  Post-Reboot-Zustand",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Reboot  /  System-Reboots",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Integration  /  Brücke zur Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anomalie  /  Anomalien",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Simulation  /  Simulations-Konstruktor",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern-Welt 1",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern-Welt 2",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern-Welt 3",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern-Welt 4",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos/Sophia",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          },
+          {
+            "surface": "sophia",
+            "page": "sophia"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Management",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropielevel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Hotspots",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Indikatoren",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mustererkennunganomaliedetektion",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Kaels Wohneinheit 1.0",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "LogOS' Kern-Bibliothek",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosynes Gedächtnispalast",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Nexus-Interface",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nexus",
+            "page": "nexus"
+          }
+        ]
+      },
+      {
+        "candidate": "Trainingsraum der Alters",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS Zentralkern",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Entropie-Ausgleichs-Kammer",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "Simulations-Konstruktor",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Junas Ankerpunkt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Junas Geheime Schnittstelle",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      }
+    ]
+  },
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

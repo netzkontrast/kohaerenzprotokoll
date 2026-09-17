@@ -1,0 +1,127 @@
+{
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "drive_id": "1CsMXR0Fv8MsyeDQB6MS4WxIhXbolQ6y1UlgHynsFgqg",
+  "step": "reconcile",
+  "at": "2026-09-17",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 46,
+    "conflicts": 4
+  },
+  "state_after": {
+    "pages": 56,
+    "conflicts": 5
+  },
+  "pre_classification": {
+    "candidates": 109,
+    "decisions": 123,
+    "decided_by_lookup": 68,
+    "needs_judgement": 55
+  },
+  "new_terms": [
+    "realitaetsebenen",
+    "kaels-wohneinheit",
+    "datenverarbeitungsknoten-7g",
+    "therapie-schnittstelle-alpha",
+    "vergessener-schrein",
+    "archiv-des-ungesagten",
+    "schleuse-7",
+    "grosse-mauer",
+    "system-monitor",
+    "junas-ankerpunkt"
+  ],
+  "new_terms_rule": "a location gets a page when this document both profiles it in Teil IV and marks its name as inherited rather than invented — both criteria are mechanical: a count of exactly 2 identifies a profile, and the table's Source column says whether the name came from elsewhere. That set is 11; two of the eleven were withheld by judgement (Garten der Möglichkeiten to C5, Nexus-Interface to J36), and `realitaetsebenen` was added as a concept rather than a location.",
+  "not_promoted_rule": "the 30 rows marked `Explorative V2` are names this document invented and says it invented; the 10 inherited-but-unprofiled rows are asserted in one table cell and nowhere else. Both are recorded here with their lines so a later document that describes one opens its page with a reading attached.",
+  "new_readings": [
+    {"page": "kern-welten", "lines": [35, 105, 172, 173, 174, 175], "attribution": "premise",
+     "note": "all four numbered with a domain bearer and a function; completes the KW↔Guardian join document 5 left at two; uses none of document 4's world names — zero occurrences of Konstrukt-Stadt, Resonanz-Landschaft, Grenzfeste, Möglichkeits-Garten"},
+    {"page": "guardians", "lines": [35, 176, 232, 233, 370, 472], "attribution": "premise",
+     "note": "Wächter 12 times analytically, Guardian zero times; the four bearers named in one parenthesis; breaks document 5's register hypothesis by measurement"},
+    {"page": "ueberwelt", "lines": [49, 61, 89, 176, 227, 234], "attribution": "design instruction",
+     "note": "Interface or Betriebssystem rather than a place; its eight locations; Simulation used in the same file for something larger, which is evidence on J30"},
+    {"page": "externe-ebene", "lines": [35, 79, 177, 237, 519], "attribution": "premise",
+     "note": "labelled `Verbindung: Juna` where the other five read `Domäne`; exempt from AEGIS' rules; Der Riss im System listed as a place on it"},
+    {"page": "risse", "lines": [57, 77, 81, 267, 285, 318, 386, 505, 522], "attribution": "analysis",
+     "note": "the first read source to give a mechanism — negative reactivity, the environment misfiring rather than something arriving; a different register per level; and one passage that inverts the term"},
+    {"page": "entropie", "lines": [37, 229, 464, 465, 470, 481, 484], "attribution": "premise + proposal",
+     "note": "instrumented: Entropiegrad, Entropielevel, Entropie-Hotspots, Entropie-Indikatoren, and an Ausgleichs-Kammer that is marked invented here"},
+    {"page": "aegis", "lines": [49, 59, 176, 467, 471, 502], "attribution": "design instruction",
+     "note": "Ordnung, Integrität, Effizienz as its Kernprinzipien; the Überwelt as its Domäne; „Allwissenheit (oder den Anspruch darauf)\""},
+    {"page": "kael", "lines": [35, 37, 187, 188, 190, 464, 472], "attribution": "premise",
+     "note": "the Kern-Welten are his psychic landscapes; three KW1 locations are his daily life; he is an Anomalie the monitor watches and cannot enter"},
+    {"page": "juna", "lines": [77, 89, 177, 236, 239, 241, 471], "attribution": "premise",
+     "note": "the Externe Ebene's Verbindung rather than its Domäne; three locations carry her name; the monitor may be unable to localise her"},
+    {"page": "alters", "lines": [93, 172, 173, 174, 175, 224, 225], "attribution": "premise",
+     "note": "four named, one per Kern-Welt, each introduced with „wie\" so no roster is closed; first reading this page has ever carried"},
+    {"page": "logos", "lines": [172, 188, 189, 190, 191, 263], "attribution": "premise", "note": "KW1 is Logik; present as Systempräsenz rather than as a figure"},
+    {"page": "mnemosyne", "lines": [153, 173, 202, 205, 319, 353], "attribution": "premise", "note": "KW2 is Emotion, Erinnerung, Trauma; called Hüterin/Manipulatorin and Schöpferin/Kuratorin of false memories, both slashed"},
+    {"page": "cerberus", "lines": [174, 208, 212, 213, 370, 387, 404], "attribution": "premise", "note": "KW3 is Abwehr and Kontrolle; five different parenthesised relations to his own level, one of them a question"},
+    {"page": "kairos", "lines": [175, 421, 438], "attribution": "measurement", "note": "never appears apart from Sophia — 10 of 10 inside Kairos/Sophia"},
+    {"page": "sophia", "lines": [175], "attribution": "measurement", "note": "same measurement from the other side; 0 standing alone"},
+    {"page": "moeglichkeits-garten", "lines": [219, 430, 433, 436, 438], "attribution": "premise", "note": "a region inside KW4 with gates to other regions of KW4 — conflict C5"},
+    {"page": "nexus", "lines": [218, 413], "attribution": "premise", "note": "Nexus-Interface is inside KW4 while this page's Nexus is above the Kern-Welten; recorded as a third carrier of the name, unresolved"}
+  ],
+  "new_surfaces": [
+    {"surface": "KW1 / KW2 / KW3 / KW4", "page": "kern-welten", "judgement": "J37",
+     "decision": "one term — a numbered instance is a reading on its class, the same call J26 made on document 5"},
+    {"surface": "Wächter", "page": "none — deliberately", "judgement": "J33",
+     "decision": "the reading goes on guardians and the word stays unclaimed; five bearers are now recorded on Q4"},
+    {"surface": "Kairos/Sophia", "page": "kairos + sophia", "judgement": "J34",
+     "decision": "one term per name — a slash between two names the wiki already has is an alias"},
+    {"surface": "Orakel/Muse", "page": "alters", "judgement": "J43", "decision": "same rule; no page, the Alter is named as an example"},
+    {"surface": "Garten der Möglichkeiten", "page": "moeglichkeits-garten", "judgement": "J35",
+     "decision": "one term, and the two sources disagree about its scale — conflict C5"},
+    {"surface": "Anomalien", "page": "none", "judgement": "J44", "decision": "one term, present only in the plural"},
+    {"surface": "Riss", "page": "risse", "judgement": "J45", "decision": "one term; fold() still misses the pair"}
+  ],
+  "new_conflicts": [
+    {"id": "C5", "subject": "Möglichkeits-Garten / Garten der Möglichkeiten",
+     "pages": ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"],
+     "kind": "scale — a Kern-Welt in document 4, a region inside that Kern-Welt here"}
+  ],
+  "conflicts_changed": [
+    {"id": "C4", "change": "the numbering it asked for arrives — KW2 and KW4 with their bearers — so documents 4 and 5 are now known to describe one arrangement. Whose blind spot it is, is unchanged: document 4 still contains zero occurrences of AEGIS."}
+  ],
+  "questions_changed": [
+    {"id": "Q1", "change": "narrows again — a second document supports *components*, this time by seating the Wächter in AEGIS' Überwelt and giving AEGIS a registry of their parameters, and it never states the relation or asks the question"},
+    {"id": "Q3", "change": "splits — the Kern-Welt count is answered from outside (four, inside six Realitätsebenen, stated five times); the alter count and the correspondence are untouched, because every level names its Alter with „wie\""},
+    {"id": "Q4", "change": "the test this page named is met and the hypothesis fails — Wächter is used analytically 12 times here and Guardian 0 times, so the register pattern tracks the document rather than the register. A fifth bearer is added: Cerberus as „Wächter der Mauer\""}
+  ],
+  "judgements": ["J33", "J34", "J35", "J36", "J37", "J38", "J39", "J40", "J41", "J42", "J43", "J44", "J45"],
+  "not_promoted": [
+    "30 locations marked `Explorative V2` — invented by this document, which says so per row: Sektor der Rekursiven Logik, Platz der Definierten Regeln, Archiv der Konsistenten Fakten, Die Leere Menge (Null-Raum), Liminas Reflektionskammer, Galerie der Falschen Erinnerungen, Echo's Resonanzraum, Die Narbenfelder, Mnemosynes Gedächtnispalast, Fluss des Vergessens (Lethe-Strom), Nox' Schattenversteck, Labyrinth der Paranoia, Die Zensurkammer, Feld der Abwehrmechanismen, Turm der Voraussicht, Brücke zur Integration, Quelle der Inspiration, Forum des Dialogs, Trainingsraum der Alters, Entropie-Ausgleichs-Kammer, Datenfriedhof, Quarantäne-Zone 7, Kommunikations-Hub, Wächter-Registry, Simulations-Konstruktor, Garten der Stillen Präsenz, Quelle des Flüsterns, Das Unkartierte Territorium, Junas Geheime Schnittstelle, Hain der Gegensätze",
+    "10 inherited names with no profile — one table cell each and nothing more: Transitkorridor Delta (L189), LogOS' Kern-Bibliothek (L191), See der Tränen (L199), Pfad der Fragmentierten Erinnerung (L200), Der Innere Bunker (L211), Arena der Inneren Konflikte (L212), Posten des Regel-Exekutors (L214), Werkstatt der Schöpfung (L220), AEGIS Zentralkern (L227), Der Riss im System (L237)",
+    "the eleven profile fields — Konzept/Zweck, Ästhetik/Visualisierung, Sensorik, Symbolik, Regeln/Logik, Atmosphäre/Mood, Landmarken/Key Features, Risse/Entropie Manifestations, Charakter/Plot Link, Design Inspirations, and Lokalitäten-Profil itself (J40)",
+    "the Design Inspirations field entire — Gattaca, Minority Report, Tron, Blade Runner, Borges, Escher, The Shining, Zen-Gärten, Berliner Mauer, CERN — comparisons to works outside this world, seventeen times",
+    "Teil I and Teil II's craft vocabulary — Environmental Storytelling, Liminale Räume, Gedächtnispaläste, Trauma-Landschaften, Glitch-Ästhetik, Spielertypen, Cyberspace, Methode der Loci — every one cited to one of the document's 72 external references (J38)",
+    "Limina, Echo, Nox, Orakel/Muse — named as examples of Alters, one per level, never described. Recorded on `alters` with their lines",
+    "Archivar, Regel-Exekutor, Therapeut — NPCs with a post and a function and no origin. Recorded on the pages of the places they keep",
+    "Datenkorruption, Systemintegrität, Systemlogik, Systemregeln, NPC, Integration, Kohärenz — occurrences without readings; `Kohärenz` is 22 occurrences of which most are the novel's own title"
+  ],
+  "found_by_rule_not_by_census": [
+    {"rule": "capture.count_both",
+     "finding": "`Anomalie` and `Lokalitäten-Profil` both scored 0 as a word and are both present — 7 and 2 — only in forms the reading did not propose"},
+    {"rule": "capture.surfaces",
+     "finding": "`Limina` at 9/19 and `Muse` at 10/14, where the extra hits are `Liminalität` (craft theory cited to references 64-66) and `Museum` (a gallery profile). Two substring traps the probes had predicted and the reading had flagged"},
+    {"rule": "profile.repeated_labels",
+     "finding": "five labels at 17 and six at 18, which is the template being renamed between its definition and its instances. Nothing in the reading noticed it; the two heights did"}
+  ],
+  "measured_here": {
+    "locations_in_master_list": 51,
+    "locations_profiled": 17,
+    "locations_by_level": {"KW1": 10, "KW2": 9, "KW3": 9, "KW4": 8, "Überwelt": 8, "Externe Ebene": 7},
+    "locations_by_source_column": {"Explorative V2": 30, "Plot Teil 1": 12, "Konzept Doc": 8, "Kontext": 1},
+    "external_references": 72,
+    "hedges": 105,
+    "body_words": 12022,
+    "hedge_every_n_words": 114,
+    "guardian_occurrences": 0,
+    "waechter_occurrences_standing_alone": 12
+  },
+  "side_effect": {
+    "what": "a bare ^[Lnn] on a wiki page stops being checked the moment the page gains a second `ingested:` entry",
+    "detail": "quotes.py resolves a bare reference against the single ingested slug and refuses to guess when there are several. Adding this document's reading to 17 pages silently moved 95 previously-checked quotations into the unchecked bucket. Every reference on every page touched here was rewritten to the full `slug.md:Lnn` form, and the new pages were written that way too although they have only one source.",
+    "numbers": {"checked_before": 348, "checked_after": 572, "unresolved_before": 17, "unresolved_after": 17}
+  },
+  "minutes": null
+}

@@ -17,22 +17,22 @@ gathered: "2026-09-17"
 
 | Guardian | line | the sentence opens |
 |---|--:|---|
-| [[logos]] | 29 | „Im Überraum manifestiert sich LogOS" |
-| [[mnemosyne]] | 54 | „Im Überraum erscheint Mnemosyne" |
-| [[cerberus]] | 79 | „Im Überraum könnte Cerberus" |
-| [[kairos]] | 106 | „Im Überraum könnte Kairos" |
-| [[sophia]] | 118 | „Im Überraum könnte Sophia" |
+| [[logos|LogOS]] | 29 | „Im Überraum manifestiert sich LogOS" |
+| [[mnemosyne|Mnemosyne]] | 54 | „Im Überraum erscheint Mnemosyne" |
+| [[cerberus|Cerberus]] | 79 | „Im Überraum könnte Cerberus" |
+| [[kairos|Kairos]] | 106 | „Im Überraum könnte Kairos" |
+| [[sophia|Sophia]] | 118 | „Im Überraum könnte Sophia" |
 
 Five for five. The term appears nowhere else in the document.
 
-## Why this is a separate page and not an alias of [[nexus]]
+## Why this is a separate page and not an alias of [[nexus|Nexus]]
 
 Because nothing says it is one. A field named for the `Nexus`, filled with text
 about the `Überraum`, five times, is strong evidence — and evidence is not a
 statement. Merging on positional regularity is how a wiki acquires a claim no
 source made.
 
-Recorded as **open** in J18, cross-referenced from `nexus`, merged by nobody.
+Recorded as **open** in J18, cross-referenced from [[nexus]], merged by nobody.
 
 ## Open
 

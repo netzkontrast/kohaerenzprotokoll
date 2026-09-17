@@ -97,10 +97,15 @@ def first_free(text: str, block: list[bool], needle: str) -> int:
 
 
 def link_for(slug: str, surface: str) -> str:
-    """`[[slug]]` when the prose already reads as the slug, else keep the prose."""
-    if surface.strip("`").lower() == slug.lower():
-        return f"[[{slug}]]"
-    return f"[[{slug}|{surface}]]"
+    """`[[slug]]` only when the prose reads *exactly* as the slug, else keep the prose.
+
+    Case is part of the prose. Comparing case-insensitively once turned every
+    „AEGIS" in the wiki into `[[aegis]]` and „LogOS" into `[[logos]]` — the link
+    was right and the sentence was no longer what anyone wrote. A name is not a
+    slug that happens to be capitalised.
+    """
+    bare = surface.strip("`")
+    return f"[[{slug}]]" if bare == slug else f"[[{slug}|{bare}]]"
 
 
 def ticked_slugs(text: str, known: set[str], own: str) -> list[tuple[int, str, str]]:
@@ -148,14 +153,44 @@ def rewrite(text: str, found: list[tuple[int, str, str]]) -> str:
     return text
 
 
+BARE = re.compile(r"\[\[([^\]|]+)\]\]")
+
+
+def restore_surface(text: str, terms: dict[str, str]) -> str:
+    """`[[slug]]` becomes `[[slug|Term]]` wherever the page's term is not the slug.
+
+    A bare link renders as the slug, which in German prose reads as neither the
+    term nor a word — „konstrukt-stadt" where the sentence says „Konstrukt-Stadt".
+    """
+    def swap(match: re.Match) -> str:
+        slug = match.group(1)
+        term = terms.get(slug)
+        return match.group(0) if not term or term == slug else f"[[{slug}|{term}]]"
+    return BARE.sub(swap, text)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--apply", action="store_true")
+    parser.add_argument("--restore-surfaces", action="store_true",
+                        help="rewrite bare [[slug]] links to carry the page's term")
     args = parser.parse_args()
 
     targets = {p.stem: term_of(p.stem) for p in sorted(PAGES.glob("*.md"))}
     files = [p for name in SOURCES
              for p in sorted((PAGES.parent / name).glob("*.md")) if p.stem != "README"]
+
+    if args.restore_surfaces:
+        changed = 0
+        for path in files:
+            before = path.read_text(encoding="utf-8")
+            after = restore_surface(before, targets)
+            if after != before:
+                changed += 1
+                if args.apply:
+                    path.write_text(after, encoding="utf-8")
+        print(f"{changed} files {'rewritten' if args.apply else 'would be rewritten'}")
+        return 0
 
     total = 0
     for path in files:

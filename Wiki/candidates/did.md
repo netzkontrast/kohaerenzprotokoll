@@ -37,14 +37,14 @@ And the counter-move, which matters more:
 > **Entropie/Chaos**?" ^[entropie-aegis.md:L95]
 
 This is asked, not answered, and it is the hinge of the whole reading: if the two
-cannot be told apart, [[aegis]] classifying DID as entropy is not obviously an error.
+cannot be told apart, [[aegis|AEGIS]] classifying DID as entropy is not obviously an error.
 
-See [[multiplizitaet]].
+See [[multiplizitaet|Multiplizität]].
 
 ## Open
 
 - Is dissociation an attempt to manage local entropy? ^[L67, L95] — asked
-- How many alters — see [[alters]], where the corpus's largest disagreement sits
+- How many [[alters]] — see [[alters|Alters]], where the corpus's largest disagreement sits
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
@@ -54,8 +54,8 @@ How the system that watches it reads it: **manageable, quantifiable, local.**
 > Anomalien innerhalb seiner gemessenen Entropiemetriken" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L41]
 
 Three reasons it is tolerated ^[kohaerenzprotokoll-aegis-und-systementropie.md:L45-47]: the instability is confined to
-[[kael]]'s [[kern-welten]], it is measurable, and it is conditionally predictable. So
-AEGIS treats it as **high complexity, not fundamental incoherence** — and manages
+[[kael|Kael]]'s [[kern-welten|Kern-Welten]], it is measurable, and it is conditionally predictable. So
+[[aegis|AEGIS]] treats it as **high complexity, not fundamental incoherence** — and manages
 symptoms rather than eliminating the cause ^[kohaerenzprotokoll-aegis-und-systementropie.md:L49].
 
 **This answers a question the first source asked** — *can psychic fragmentation be

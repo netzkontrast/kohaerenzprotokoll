@@ -16,15 +16,15 @@ der \"Partnerin\"" ^[L17].
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
-She is characterised **entirely by effect**. Every one of the four [[kern-welten]]
+She is characterised **entirely by effect**. Every one of the four [[kern-welten|Kern-Welten]]
 gets its own field for her, `Partnerin-Echos hier`, and each says how her
 absence shows in that world's own terms:
 
 | world | how the echoes appear | line |
 |---|---|---|
-| [[konstrukt-stadt]] | „unerklärliche Abweichungen von der Logik, die sich jedoch qualitativ anders" | 40 |
-| [[resonanz-landschaft]] | „die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels" | 65 |
-| [[grenzfeste]] | „Anomalien, die sich den Sicherheitsprotokollen widersetzen, aber keine offensichtliche feindliche Absicht zeigen" | 90 |
+| [[konstrukt-stadt|Konstrukt-Stadt]] | „unerklärliche Abweichungen von der Logik, die sich jedoch qualitativ anders" | 40 |
+| [[resonanz-landschaft|Resonanz-Landschaft]] | „die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels" | 65 |
+| [[grenzfeste|Grenzfeste]] | „Anomalien, die sich den Sicherheitsprotokollen widersetzen, aber keine offensichtliche feindliche Absicht zeigen" | 90 |
 | [[moeglichkeits-garten|Möglichkeits-Garten]] | „mit außergewöhnlicher Klarheit und Kraft" | 129 |
 
 ### The one ontological statement
@@ -49,6 +49,6 @@ five blindnesses are five different failures to perceive one thing.
 count finds 23 documents carrying the surface (17 distinct, after
 `scripts/duplicates.py`), so the link may exist outside what has been read.
 
-Whether `Partnerin` is a third surface for the entity [[juna]] and
-[[kael-julia-bindung]] already name is **open** — see J13, which already records
-that `kael-julia-bindung` is probably misnamed.
+Whether `Partnerin` is a third surface for the entity [[juna|Juna]] and
+[[kael-julia-bindung|Kael-Julia-Bindung]] already name is **open** — see J13, which already records
+that [[kael-julia-bindung]] is probably misnamed.

@@ -27,9 +27,14 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-173 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+203 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
+
+Document 6 made this worse in a useful way: writing the citation *into* the table
+cell fixes it, and doing that for nine new pages was the difference between 0 and
+9 unchecked on them. The convention that would close this is „a quotation carries
+its reference in the same cell", and nothing has decided it.
 
 **Eight pages carry five identical sentences each — measured, not yet decided.**
 `ani` `ars` `ecr` `pms` `rsa` `snk` `ztv` `nullpunkt-protokoll` are the eight
@@ -62,10 +67,25 @@ a decision about how much morphology a safe deterministic rule may claim.
 
 ## Next document — not yet chosen
 
-The fifth is done. Nothing currently names a sixth the way C4 named the fifth, so
-choosing it is open. Q1 asks for a document that states the Guardian/AEGIS
-relation outside a question; Q4 asks for one using `Wächter` in an analytic
-sentence; `kern-welten` would be settled by anything mentioning `KW2` or `KW4`.
+The sixth is done. It was chosen because `kern-welten` asked for `KW2` or `KW4`
+and Q4 asked for `Wächter` in an analytic sentence, and it supplied both.
+
+What the wiki now asks for, in its own words:
+
+- **Q1** still wants a document that states the Guardian/AEGIS relation outside a
+  question. Two documents now support *components* and neither says it.
+- **C5** wants a source that places a garden inside a named Kern-Welt, or that
+  uses both `Möglichkeits-Garten` and `Garten der Möglichkeiten`.
+- **Q3** wants the alter count. Document 6 bounded the world count and left this
+  exactly where it was, because every level names its Alter with „wie".
+- **`nexus`** wants anything relating `Nexus`, `Überraum` and `Nexus-Interface`.
+  Document 6's table says the third name came from `Plot Teil 1`, which points at
+  a plot document.
+
+**And one thing to watch rather than to look for.** Two documents now use
+`Wächter` and `Guardian` in complementary distribution with no overlap, and the
+index maps neither word to the other. The next document that uses both is worth
+more than the next document that uses either.
 
 ## Known failing
 

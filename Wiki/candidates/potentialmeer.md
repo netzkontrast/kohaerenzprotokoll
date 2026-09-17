@@ -21,9 +21,9 @@ research adds is the identification with Bohm: the bond would be „eine
 stabilisierte Manifestation dieser zugrundeliegenden, vernetzten Potentialität",
 a structure within the Holomovement ^[kohaerenzprotokoll-aegis-und-systementropie.md:L106].
 
-The consequence for [[aegis]] is the point: it operates „ausschließlich innerhalb der
+The consequence for [[aegis|AEGIS]] is the point: it operates „ausschließlich innerhalb der
 expliziten Ordnung" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L58] and so cannot reach what is anchored in the
-implicate one. See [[blinder-fleck]].
+implicate one. See [[blinder-fleck|Ontologischer blinder Fleck]].
 
 ## Open
 
