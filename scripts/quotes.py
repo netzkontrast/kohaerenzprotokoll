@@ -61,7 +61,16 @@ MARKER = re.compile(r"\s*\[(?:User Query|Adressiert)[^\]]{0,60}\]")
 # The cost is stated rather than hidden: a quote with no reference on its own
 # line (or on the line its last fragment ends on) is **not checked at all**. The
 # run prints how many those are.
+# The bound stays tight, and what exceeds it is **reported** rather than passing
+# silently. At 400 a longer quotation matched nothing at all — not checked, and
+# not counted as uncheckable either, which is the one outcome this file exists to
+# prevent. Widening it to 1200 was tried and is worse: the class excludes „ and “
+# but not the ASCII \" that also closes a quote here, so a wider span runs past a
+# real closing mark into unrelated text — three appeared at once, one swallowing
+# a citation and one a frontmatter block, and one became a false UNRESOLVED.
+# So: 400, and `OVERLONG` says how many spans nothing could span.
 QUOTE = re.compile(r"„(?P<quote>[^„“]{8,400})[“\"]")
+OVERLONG = re.compile(r"„[^„“\"]{400,}")
 CITE = re.compile(r"\^\[(?P<ref>[^\]\n]{2,80})\]")
 UNKNOWN_SOURCE = "which document this ^[Lnn] means cannot be determined"
 REF = re.compile(r"^(?:(?P<slug>[A-Za-z0-9\-]+)\.md:)?L(?P<line>\d+)(?:\s*[-\u2013]\s*(?P<last>\d+))?")
@@ -153,7 +162,9 @@ def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
         nearest = min(same, key=lambda q: min(abs(q.start() - m.start()), abs(q.end() - m.start())))
         owner.setdefault(nearest.start(), []).append(m.group("ref"))
 
-    problems, unchecked = [], 0
+    # A quotation too long for QUOTE to span is uncheckable, not absent.
+    unreadable = len(OVERLONG.findall(text))
+    problems, unchecked = [], unreadable
     for match in quotes:
         near = owner.get(match.start(), [])
         if not near:

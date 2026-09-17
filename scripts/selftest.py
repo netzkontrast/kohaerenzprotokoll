@@ -64,6 +64,12 @@ FIND_CASES = [
     ("fabricated-refused", "Jeder Guardian gehorcht AEGIS ohne Ausnahme", [], None),
 ]
 
+# A quotation longer than the checker can span must be **reported as uncheckable**,
+# never pass silently. At 400 the pattern matched nothing at all, so a 450-character
+# quotation that was nowhere in the document was neither a problem nor a skip — the
+# one outcome quotes.py exists to prevent.
+OVERLONG_CASE = ("x" * 450, 0, 1)   # (quote, expected problems, expected unchecked)
+
 # A quote crossing two lines cannot be cited at all, and must be told so rather
 # than resolved against either half.
 SPAN_CASE = ("die Illusion von Normalität (Implizite Kontrolle). "
@@ -104,6 +110,21 @@ def check_quotes() -> list[str]:
     return failures
 
 
+def check_overlong() -> list[str]:
+    body, want_problems, want_unchecked = OVERLONG_CASE
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "fixture.md"
+        path.write_text(f"---\nsource: Sources/drive/{DOC}.md\n---\n\n> „{body}\" ^[L272]\n",
+                        encoding="utf-8")
+        problems, skipped = quotes.check_file(path, DOC)
+    if (len(problems), skipped) == (want_problems, want_unchecked):
+        return []
+    return [f"overlong: a {len(body)}-character quotation was reported as "
+            f"{len(problems)} problems / {skipped} unchecked, expected "
+            f"{want_problems} / {want_unchecked} — a quote nothing can span must "
+            f"be counted as uncheckable, never pass silently"]
+
+
 def check_find() -> list[str]:
     doc = document(DOC)
     failures = []
@@ -137,13 +158,13 @@ def check_fold() -> list[str]:
 
 
 def main() -> int:
-    failures = check_quotes() + check_find() + check_fold()
-    total = (len(QUOTE_CASES) + len(FIND_CASES) + 1
+    failures = check_quotes() + check_overlong() + check_find() + check_fold()
+    total = (len(QUOTE_CASES) + 1 + len(FIND_CASES) + 1
              + len(MUST_NOT_MERGE) + len(MUST_MERGE))
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
-          f"({len(QUOTE_CASES)} quotation, {len(FIND_CASES) + 1} citation, "
+          f"({len(QUOTE_CASES) + 1} quotation, {len(FIND_CASES) + 1} citation, "
           f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "
