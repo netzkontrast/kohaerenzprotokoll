@@ -1,6 +1,6 @@
 # Sources — the only layer that is true
 
-680 research documents exported from Google Drive, plus the manifest that
+617 research documents exported from Google Drive, plus the manifest that
 indexes them. Everything else in this repository is derived from here; nothing
 here is derived from anything else.
 
@@ -37,7 +37,7 @@ python3 scripts/sources.py fetch --category theorie-physik
 `check` is the one to run habitually. It reports rows never fetched, rows whose
 file has gone, checksums that no longer match, and files no row claims. Nothing
 compared the manifest against the disk before, which is how an export that
-covered 26 of 680 documents went unnoticed long enough to become the shape of
+covered 26 of the then 680 rows went unnoticed long enough to become the shape of
 the project.
 
 `fetch` talks to the Drive connector directly over HTTP JSON-RPC. **No model
@@ -105,14 +105,30 @@ Both checksums are kept: `sha256_raw` is what the connector returned, `sha256`
 is the file on disk. Anything left untouched above can therefore be revisited
 without re-fetching.
 
+## Duplicate exports
+
+Drive holds up to five exports of the same document — a gdoc export, a docx
+export, a `kopie` of each, a second run of both — each with its own `drive_id`,
+so each landed as its own row. 409 files were 346 documents.
+
+`python3 scripts/dedupe.py` folded the 63 extra away: the file left
+`Sources/drive/`, the row left `manifest.jsonl` and moved in full to
+`duplicates.jsonl`, which `sources.py next` filters against by `drive_id` so a
+folded document is never offered for fetching again.
+
+**The surviving copy is not the longest one.** The gdoc export is longer and
+carries less — its extra words are `end list` markers, its missing words are the
+URLs behind the footnotes. `scripts/dedupe.py` has the measurement and the full
+ranking; `Plan/runs/dedupe.json` has the decision per group.
+
 ## Frontmatter, and what it costs
 
-**383 of the 409 landed documents** open with eight lines of provenance drawn
-from the manifest. **26 do not** — they were landed before this decision was
+**323 of the 346 landed documents** open with eight lines of provenance drawn
+from the manifest. **23 do not** — they were landed before this decision was
 taken, and nothing has back-filled them.
 
 That matters more than it looks: code which assumes the body starts at line 10
-silently swallows nine lines of content in those 26. Several ad-hoc counts in
+silently swallows nine lines of content in those 23. Several ad-hoc counts in
 this repository's history did exactly that. `scripts/profile.py` and
 `scripts/corpus.py` **find** the boundary per document instead, and
 `corpus.py` prints how many documents lack it on every answer.

@@ -102,7 +102,7 @@ tell the two apart.
 
 **This is a finding about the step itself.** A comparison of n censuses answers
 questions about those n documents. Anything of the form *does the corpus ever…*
-needs a separate check against all 409, and the two must not be confused.
+needs a separate check against all 346, and the two must not be confused.
 
 ## The system has four names across four documents
 

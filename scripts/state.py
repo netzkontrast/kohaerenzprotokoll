@@ -75,11 +75,22 @@ def _sources_total() -> int:
         encoding="utf-8").splitlines() if line.strip())
 
 
-@measure("sources.landed", "manifest rows carrying an export_path")
+def _manifest_rows():
+    return [json.loads(line) for line in (ROOT / "Sources" / "manifest.jsonl").read_text(
+        encoding="utf-8").splitlines() if line.strip()]
+
+
+@measure("sources.folded", "rows in Sources/duplicates.jsonl — fetched, then found to be a copy")
+def _sources_folded() -> int:
+    path = ROOT / "Sources" / "duplicates.jsonl"
+    if not path.exists():
+        return 0
+    return sum(1 for line in path.read_text(encoding="utf-8").splitlines() if line.strip())
+
+
+@measure("sources.landed", "manifest rows carrying an export_path — the files on disk")
 def _sources_landed() -> int:
-    return sum(1 for line in (ROOT / "Sources" / "manifest.jsonl").read_text(
-        encoding="utf-8").splitlines()
-        if line.strip() and json.loads(line).get("export_path"))
+    return sum(1 for r in _manifest_rows() if r.get("export_path"))
 
 
 @measure("sources.distinct", "landed files minus near-copies, scripts/duplicates.py at 0.8")
@@ -252,6 +263,23 @@ def value(key: str):
 MARKER = re.compile(r"(?P<number>[\d,]+|true|false|True|False)\**[^\n\d]{0,40}?<!--\s*state:(?P<key>[a-z_.]+)\s*-->")
 
 
+SKIP = {"Legacy", ".venv-tools", ".venv-dspy", ".qmd", ".tools-node", ".git"}
+
+
+def marked_files() -> list[Path]:
+    """Every markdown file that could carry a marker, not a list of three.
+
+    This used to be `[CLAUDE.md, NOW.md, PRINCIPLES.md]`, and the blind spot
+    behaved exactly like an uncovered qmd collection: `Plan/concept/plan_*.md`
+    carried three `<!--state:-->` markers, went stale when the corpus was
+    deduplicated, and the check stayed green — because it never looked. A guard
+    with a hardcoded file list fails silently the first time someone writes a
+    marker somewhere new, which is the one moment it was built for.
+    """
+    return sorted(p for p in ROOT.rglob("*.md")
+                  if not SKIP & set(p.relative_to(ROOT).parts))
+
+
 def check_prose(paths: list[Path]) -> list[dict]:
     """Every <!--state:key--> marker, against the number written before it."""
     current = {k: fn() for k, (_, fn) in _REGISTRY.items()}
@@ -286,7 +314,7 @@ def main() -> int:
         return 0
 
     if args.prose:
-        problems = check_prose([ROOT / "CLAUDE.md", ROOT / "NOW.md", ROOT / "PRINCIPLES.md"])
+        problems = check_prose(marked_files())
         for p in problems:
             print(f"STALE  {p['file'].relative_to(ROOT)}  {p['key']}: {p['why']}")
         print(f"\n{len(problems)} prose claims contradict the repository.")

@@ -110,7 +110,7 @@ to expect: a term obviously worth extracting in one document, invisible in the
 next.
 
 The answer was not to loosen the census rule but to add
-`scripts/rules/attribution.py`, which derives the markers for all 409 documents.
+`scripts/rules/attribution.py`, which derives the markers for all 346 documents.
 Measured when it ran: **15 documents carry the bracketed marker (157
 occurrences), 3 the inline form, 12 an `(Anmerkung: …)` aside** — and a plain
 string probe finds only 3 of those 15, because the export writes the marker as

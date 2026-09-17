@@ -35,7 +35,7 @@ documents that do not mention each other.
 
 ## What the corpus appears to hold
 
-A search across all 409 landed files finds this, in a document with **no census,
+A search across all 346 landed files finds this, in a document with **no census,
 no note and no reconciliation**:
 
 > „Modelliert den Guardian als funktionale Komponente innerhalb der

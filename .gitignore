@@ -32,3 +32,4 @@ Plan/derived/
 # qmd — local search index and its Node dependencies
 .tools-node/
 .qmd/
+Plan/derived/

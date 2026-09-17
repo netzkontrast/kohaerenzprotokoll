@@ -105,7 +105,7 @@ candidate list, not the census.
 
 That is the census rule working, not failing. A census may not carry knowledge
 from another document. `scripts/rules/attribution.py` now derives the markers for
-all 409 documents, which is where procedural knowledge belongs — and measured
+all 346 documents, which is where procedural knowledge belongs — and measured
 while writing it, a plain string probe finds the marker in 3 documents while the
 same probe after undoing export escaping finds 18.
 

@@ -83,7 +83,10 @@ def documents() -> tuple[Document, ...]:
             continue
         path = ROOT / row["export_path"]
         if not path.exists():
-            continue
+            raise FileNotFoundError(
+                f"{row['slug']} is landed and not a duplicate, but {path} is gone. "
+                "A missing file used to be skipped here, which made the corpus "
+                "quietly smaller and every count quietly wrong.")
         body, offset = _split(path.read_text(encoding="utf-8"))
         out.append(Document(
             slug=row["slug"], category=row.get("category", "?"),

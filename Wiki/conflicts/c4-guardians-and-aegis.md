@@ -51,7 +51,7 @@ Guardian is a component of AEGIS, a peer, or an earlier design.
 
 ## The corpus is not silent — and that is a finding about the process
 
-A search across all 409 landed documents returns a passage that appears to
+A search across all 346 landed documents returns a passage that appears to
 settle it, in a document **that has not been read**:
 
 > „AEGIS geht von passiver Überwachung/Lenkung zur aktiven Durchsetzung über

@@ -3,7 +3,7 @@
 ## Status
 
 **1 document fetched end to end** (2026-09-16), plus one earlier hand-run by a
-subagent that was discarded and re-landed through the tool. 27 of 680 landed
+subagent that was discarded and re-landed through the tool. 27 of the then 680 rows landed
 in total; the other 26 predate this work and were fetched by an unknown path.
 
 Everything below marked *measured* comes from that one document. Everything
@@ -239,15 +239,19 @@ Tables came through as well-formed pipe tables (two of them, 6 and 16 rows,
 BOM, no CR, no C0 controls, no HTML, UTF-8 throughout. No truncation: the
 document ended mid-bibliography at source 19 of a list that reads complete.
 
-### 9. Not all 680 are Google Docs — *measured from the manifest*
+### 9. Not all of them are Google Docs — *measured from the manifest*
 
 | format | rows | connector support |
 |---|---:|---|
-| `gdoc` | 590 | yes |
-| `docx` | 45 | yes |
+| `gdoc` | 560 | yes |
 | `md` | 43 | **not in the supported list** |
+| `docx` | 12 | yes |
 | `pdf` | 1 | yes |
 | `mp3` | 1 | **no** |
+
+Measured after `dedupe.py`. It was 590 / 45 / 43 / 1 / 1 over 680 rows: nearly
+every `docx` row was a second export of a document already held as a `gdoc`, so
+folding the copies away took `docx` from 45 to 12 and left `md` untouched.
 
 The connector's documented mime types cover Docs, Slides, Sheets, PDF, Word,
 Excel, PowerPoint, OpenDocument and images. `text/markdown` and audio are absent.
@@ -313,7 +317,7 @@ Each item traces to a numbered learning.
 | lines with trailing whitespace, before | 673 of 852 |
 | lines with trailing whitespace, after | 0 |
 | subagent wall clock, one document | ~108 s including tool loading |
-| corpus landed | 27 of 680 (3.8 %) |
+| corpus landed | 27 of the then 680 rows (3.8 %) |
 | LLM cost | none — no model reads the content |
 
 Predicted from these, unverified: 654 remaining × ~77 KB ≈ **50 MB** of

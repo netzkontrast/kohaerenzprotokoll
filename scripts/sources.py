@@ -114,6 +114,20 @@ def is_landed(row: dict) -> bool:
     return bool(path) and (ROOT / path).exists()
 
 
+def folded_drive_ids() -> set[str]:
+    """Drive documents that landed, turned out to be copies, and were folded away.
+
+    They are no longer in the manifest, so nothing would stop `next` from
+    offering them again after a manifest rebuild. `scripts/dedupe.py` writes the
+    file; this is the only thing that reads it.
+    """
+    path = ROOT / "Sources" / "duplicates.jsonl"
+    if not path.exists():
+        return set()
+    return {json.loads(line)["drive_id"]
+            for line in path.read_text(encoding="utf-8").splitlines() if line.strip()}
+
+
 # --------------------------------------------------------------------------- normalize
 
 def normalize(text: str) -> str:
@@ -355,7 +369,8 @@ def cmd_check(args: argparse.Namespace) -> int:
 
 def cmd_next(args: argparse.Namespace) -> int:
     """Print the next documents to fetch, so the agent never loads the manifest."""
-    rows = [r for r in load_manifest() if not is_landed(r)]
+    rows = [r for r in load_manifest()
+            if not is_landed(r) and r.get("drive_id") not in folded_drive_ids()]
     if args.category:
         rows = [r for r in rows if r.get("category") == args.category]
     if args.tier:

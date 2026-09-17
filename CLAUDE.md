@@ -27,24 +27,47 @@ is how the previous version of this project failed.
 There is no third layer. Everything else the project used to have is parked
 under `Legacy/` and read by nothing.
 
-`Sources/manifest.jsonl` is the spine: 680 rows, each with `drive_id`, `title`,
+`Sources/manifest.jsonl` is the spine: 617 rows, each with `drive_id`, `title`,
 `slug`, `category`, `tier` and, once landed, `export_path` and two checksums.
 Anything derived traces back to a `drive_id`.
 
+`Sources/duplicates.jsonl` holds the 63 rows that left it — the same shape plus
+`duplicate_of`. Two files, two questions: the manifest says what is in the
+corpus, and this says what Drive also holds and why it is not here. It exists so
+that „not in the manifest" never has to mean „nobody knows".
+
 ## State, as of 2026-09-17
 
-**409 <!--state:sources.landed--> of 680 <!--state:sources.total--> source documents are landed.** The 271 that are not are the 247
+**346 <!--state:sources.landed--> of 617 <!--state:sources.total--> source documents are landed.** The 271 that are not are the 247
 `plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
 have no route. Every category the wiki needs is complete.
 
-**Those landed files are 357 <!--state:sources.distinct--> distinct documents.**
-52 <!--state:sources.near_copies--> of them are near-copies of
-another — Drive holds several exports of many documents, and each landed under
-its own `drive_id`. Only 2 pairs are byte-identical, so checksums find almost
-none of it. `python3 scripts/duplicates.py` measures it, and **a count over files
-is not a count over documents**: AEGIS is in 315 files and 276 documents.
-Proportions usually survive and sometimes do not — `Entropie` is 50% of files and
-45% of documents. Say which one you mean.
+**Those 346 files are 346 <!--state:sources.distinct--> distinct documents, and
+that took work.** Drive holds up to five exports of the same document — a gdoc
+export, a docx export, a `kopie` of each, a second run of both — and each landed
+under its own `drive_id`. 409 files were 346 documents, so **every count phrased
+as "N of 409" was counting copies.** Only 2 pairs were byte-identical, so
+checksums found almost none of it.
+
+`python3 scripts/dedupe.py` folded the
+63 <!--state:sources.folded--> extra files away. The file left `Sources/drive/`,
+the row left the manifest — 680 rows became 617 — and the full row moved to
+`Sources/duplicates.jsonl`, which is what `sources.py next` filters against so a
+folded document is never fetched again. `python3 scripts/duplicates.py` now
+reports 0 <!--state:sources.near_copies--> near-copies and its job is to keep
+saying so after the next landing.
+
+**Which copy survives is not the longest one.** The gdoc export is longer and
+carries less: its extra words are `end list` markers — 195 in one document — and
+its missing words are the URLs behind the footnotes, which only the docx export
+keeps. In 11 of 11 groups holding both formats the docx export carried at least
+as many source URLs, and in 10 strictly more. So the rule ranks on URLs first,
+export artifacts second, and only then on the name. `scripts/dedupe.py` has the
+full order and `Plan/runs/dedupe.json` has the decision per group.
+
+A count over files is now a count over documents — AEGIS is in 269 of the 346 —
+but the distinction was real while it lasted and the script that measures it
+stays.
 
 **4 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **4
 <!--state:documents.with_note--> have a note** in `Sources/notes/`, and **4
@@ -77,7 +100,11 @@ matches what the newest run recorded leaving.
 
 Every number on this page carries a `<!--state:key-->` marker naming the
 measurement it came from, and **`python3 scripts/state.py --prose` fails if any
-of them contradicts the repository.**
+of them contradicts the repository.** It reads every markdown file outside
+`Legacy/` and the vendored clones, not a list of three — that list was itself the
+bug: `Plan/concept/plan_2026-09-17.md` carried three markers, went stale when the
+corpus was deduplicated, and the check stayed green because it never looked
+there.
 
 That check exists because this section has gone stale four times. It has claimed
 27 of 680 landed, then 3 documents read, then 32 wiki pages, 11 judgements, and a
@@ -232,7 +259,7 @@ right is the author's call, never the page's.
 `qmd` (github.com/tobi/qmd) indexes five collections — `sources`, `wiki`,
 `census`, `notes`, `plan` — and answers a lowercase German phrase in about 0.2s
 with file and line. `scripts/corpus.py` cannot: its index holds capitalised
-tokens only, and anything else falls back to reading all 409 files.
+tokens only, and anything else falls back to reading all 346 files.
 
 ```python
 from qmd import search
@@ -258,7 +285,7 @@ to look, and every number that goes into a page or a learning still comes from
 Nothing in the pipeline depends on qmd, and `.qmd/` and `.tools-node/` are
 git-ignored; `qmd init` and five `collection add` calls rebuild it.
 
-Its first real query is what exposed the 52 near-duplicates above.
+Its first real query is what exposed the duplicate exports above.
 
 **The whole setup rebuilds from one command.** The container is ephemeral and
 `.tools-node/` and `.qmd/` are git-ignored, so the package, the index, six
@@ -324,7 +351,7 @@ python3 scripts/sources.py land --drive-id <id> --consume
 which parses the spill, normalizes, writes `Sources/drive/<slug>.md`, records
 both checksums into the manifest and verifies. Never open the spill yourself.
 
-44 of the 680 rows are markdown or audio, which the connector does not list as
+44 of the 617 rows are markdown or audio, which the connector does not list as
 supported — though 4 of the 43 `md` rows landed anyway, so the list is not the
 whole truth. The remaining 39 and the one `mp3` stay deferred by decision.
 `Plan/learnings/fetch.md` has the format census and the heading measurement.
@@ -363,7 +390,7 @@ with how it went wrong.
 The failure mode here is **too slow**. The heading claim was generalised from one
 document and survived three successive learnings that built on it before anything
 counted the other 359. Three documents looked like a timeline for the renaming,
-and a count over 409 showed a cliff.
+and a count over 346 showed a cliff.
 
 ### A construct is demoted, not deleted
 
@@ -447,6 +474,13 @@ misread, every page it touched is one `git log --grep=<slug>` away.
 
 **A commit that changes a page without naming a source document is the defect**,
 the same way a false statement on this page is.
+
+**One exception: a corpus-wide re-measurement.** When the corpus itself changes
+size — a landing batch, or `dedupe.py` folding duplicate exports away — every
+page that wrote a denominator like „among the 409 landed" is wrong, and no source
+document caused it. Such a commit names the measurement instead of a document,
+changes no reading, and says so. It is rare and it is recognisable: if the diff
+touches a claim rather than a number, it is not this.
 
 ## Every step keeps its artifact
 

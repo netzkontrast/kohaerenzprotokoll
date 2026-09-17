@@ -28,7 +28,7 @@ pick one and lose the other.
 set of questions and specifies a four-part output on entropy concepts ^[entropie-aegis.md:L73–80];
 this document has a six-part structure on AEGIS, Kael and the bond. Its
 thirteen-question brief is not among the three documents read. Whether it is
-elsewhere in the 409 landed, or was never written down, is unknown — and that
+elsewhere in the 346 landed, or was never written down, is unknown — and that
 `answers: unknown-brief` is worth carrying, because a result whose questions are
 missing cannot be checked for completeness.
 
@@ -143,8 +143,15 @@ distinction is invisible unless the marker is carried into the note — and a te
 page that recorded „die Bindung ist eine fundamentale Kohärenzstruktur" as a
 research finding would be citing the project as evidence for its own premise.
 
-**24 of the 409 landed documents use the marker**, so this is a corpus-wide
-convention and not a quirk of one document. It is the cheapest high-value signal
+**12 of the 346 landed documents use the marker**, so this is a corpus-wide
+convention and not a quirk of one document.
+
+> Corrected. This read „24 of the 409 landed documents" until `dedupe.py` folded
+> Drive's duplicate exports away. Both numbers came from the same probe on the
+> same day; the corpus was 409 files and 346 documents, and the marker sat in
+> documents Drive happened to hold twice. **The claim was inflated by exactly the
+> duplication it was measuring across** — which is the sharpest case yet for why
+> a count says whether it counted files or documents. It is the cheapest high-value signal
 found so far: a `premise` / `finding` flag per reading, decidable mechanically.
 
 ## It closes questions the first document asked
@@ -176,7 +183,7 @@ either side of the cut.
 What this document shows is not a second rename but **incomplete enforcement**:
 it is one of 20 landed documents that mix the new name with the old, and `Julia`
 in particular goes on being used heavily for months. Three documents looked like
-a timeline; a count over 409 showed a cliff.
+a timeline; a count over 346 showed a cliff.
 
 Full measurement and what it does not settle: `Wiki/candidates/kael.md` and
 `Wiki/candidates/juna.md`.

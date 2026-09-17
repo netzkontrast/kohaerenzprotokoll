@@ -35,7 +35,7 @@
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 160,
+      "value": 161,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -47,19 +47,23 @@
       "how": "modules in scripts/rules/ satisfying the contract"
     },
     "sources.distinct": {
-      "value": 357,
+      "value": 346,
       "how": "landed files minus near-copies, scripts/duplicates.py at 0.8"
     },
+    "sources.folded": {
+      "value": 63,
+      "how": "rows in Sources/duplicates.jsonl \u2014 fetched, then found to be a copy"
+    },
     "sources.landed": {
-      "value": 409,
-      "how": "manifest rows carrying an export_path"
+      "value": 346,
+      "how": "manifest rows carrying an export_path \u2014 the files on disk"
     },
     "sources.near_copies": {
-      "value": 52,
+      "value": 0,
       "how": "landed files that are a near-copy of another"
     },
     "sources.total": {
-      "value": 680,
+      "value": 617,
       "how": "rows in Sources/manifest.jsonl"
     },
     "trainset.fold_baseline_pct": {
