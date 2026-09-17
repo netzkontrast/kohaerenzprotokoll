@@ -45,14 +45,33 @@ from wiki_index import fold  # noqa: E402
 
 
 def candidates_of(slug: str) -> list[str]:
+    """The candidate list, read the same way `capture.py` reads it.
+
+    There were two parsers for this file and only one was fixed. A candidates
+    file also carries prose, and reading every `- ` line put nine sentences into
+    the reconciliation — where they came back as `needs_judgement` pairs like
+    „V / **`TSDP`.** L35 …". `capture.py` owns the format; this asks it.
+    """
     path = RUNS / slug / "03-candidates.md"
     if not path.exists():
         sys.exit(f"no candidate list at {path.relative_to(ROOT)} -- run scripts/capture.py first")
-    return [
-        line.strip("- ").strip()
-        for line in path.read_text(encoding="utf-8").split("\n")
-        if line.startswith("- ")
-    ]
+    from capture import candidate_terms
+    return candidate_terms(path.read_text(encoding="utf-8"))
+
+
+SHORTEST_COMPARABLE = 4
+
+
+def comparable(key: str) -> bool:
+    """Whether a folded key may take part in a containment test.
+
+    Containment on a short key is noise, not a signal: `V` folds to `v`, which is
+    inside `kerndirektive` and `realitaetsverformung`, and the reconciliation
+    duly reported both as „one term or two?". `near_matches` had this guard and
+    `intra_list_pairs` did not — the same substring trap that made `capture.py`
+    count `V` 198 times, in a third place.
+    """
+    return len(key) >= SHORTEST_COMPARABLE
 
 
 def near_matches(key: str, surfaces: dict[str, str]) -> list[tuple[str, str]]:
@@ -65,7 +84,7 @@ def near_matches(key: str, surfaces: dict[str, str]) -> list[tuple[str, str]]:
     """
     hits = []
     for other, page in surfaces.items():
-        if other == key or len(other) < 4 or len(key) < 4:
+        if other == key or not comparable(other) or not comparable(key):
             continue
         if other in key or key in other:
             hits.append((other, page))
@@ -93,6 +112,8 @@ def intra_list_pairs(terms: list[str]) -> list[tuple[str, str]]:
     for i, first in enumerate(terms):
         for second in terms[i + 1:]:
             a, b = keys[first], keys[second]
+            if not (comparable(a) and comparable(b)):
+                continue
             if a and b and a != b and (a in b or b in a):
                 pairs.append((first, second))
     return pairs
@@ -156,6 +177,9 @@ def classify(slug: str, index: dict) -> dict:
     }
     buckets["new_term"] = [r for r in buckets["new_term"] if r["candidate"] not in seen_in_judgement]
 
+    # Bucket entries, not candidates: one term can raise several judgements, so
+    # this counts decisions. Reporting it as „N candidates" said 65 for a list of
+    # 51 and made the reconciliation look bigger than the document.
     total = sum(len(v) for v in buckets.values())
     decided = total - len(buckets["needs_judgement"])
     return {
@@ -165,7 +189,8 @@ def classify(slug: str, index: dict) -> dict:
         "by": "scripts/reconcile.py",
         "index_built": index["built"],
         "state": {"pages": index["pages"], "conflicts": index["conflicts"]},
-        "candidates": total,
+        "candidates": len(candidates),
+        "decisions": total,
         "same_surface": same,
         "decided_mechanically": decided,
         "needs_judgement": len(buckets["needs_judgement"]),
@@ -186,8 +211,8 @@ def render(result: dict) -> str:
         f"(index built {result['index_built']})",
         f"  {len(result.get('same_surface', {}))} surface groups folded to one term first"
         if result.get("same_surface") else "",
-        f"  {result['candidates']} candidates — "
-        f"**{result['decided_mechanically']} decided by lookup, "
+        f"  {result['candidates']} candidates, {result['decisions']} decisions — "
+        f"**{result['decided_mechanically']} by lookup, "
         f"{result['needs_judgement']} need judgement**",
         "",
         "  a new_term is only new against what the index can see —",
