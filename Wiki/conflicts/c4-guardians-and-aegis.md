@@ -4,8 +4,8 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 3
-pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
+sources: 4
+pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
 # C4 — the blind spot has two bearers, and the documents do not know about each other
@@ -139,3 +139,30 @@ A document that states the relation outside a question: an architecture
 description, an origin account, or any passage where a Guardian acts against
 AEGIS or is described as predating it. `KW2` and `KW4` appearing anywhere would
 also help, since the numbering is the one place the two documents nearly touch.
+
+## 2026-09-17 — document 6 supplies the numbering this record asked for
+
+The section above ended: „`KW2` and `KW4` appearing anywhere would
+also help, since the numbering is the one place the two documents nearly touch."
+
+`roman-lokalitaeten-konzept-und-ausarbeitung` supplies all four. `KW2` occurs 28
+times and `KW4` 18, each with a domain bearer
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172–L175], which completes the
+join `kern-welten` had recorded as an inference over two numbers.
+
+**That makes the two documents describe one arrangement, and it does not settle
+whose blind spot it is.** Document 4 still contains zero occurrences of `AEGIS`.
+What document 6 adds is placement — the Wächter are seated in AEGIS' Überwelt
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176] and AEGIS' level holds a
+registry of their parameters
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233] — asserted as facts about
+rooms, never as a claim about the relation.
+
+So the third position C4 records is unchanged and the first two are now known to
+be about the same four entities in the same four worlds. **The conflict is
+narrower and no closer to closing.**
+
+### A note on the word
+
+Document 6 never writes `Guardian`. Everything above says `Wächter`, and whether
+those are one term is `q4-waechter-four-bearers`, not this record.

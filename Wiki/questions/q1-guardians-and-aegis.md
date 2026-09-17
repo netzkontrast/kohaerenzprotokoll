@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -82,3 +82,35 @@ The passage is real, it is on that line, and the page it now sits on is
 `Wiki/conflicts/c4-guardians-and-aegis.md` — the same subject from the other
 side. C4 records that two documents disagree about whose blind spot it is; Q1
 records that nothing read says how the two entities relate.
+
+## 2026-09-17 — document 6 assumes the answer and never states it
+
+`roman-lokalitaeten-konzept-und-ausarbeitung` places the four inside AEGIS'
+level and does it in passing, as facts about locations:
+
+> „Sitz von AEGIS und den Wächtern in ihrer Systemfunktion."
+> ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
+
+> „Datenbank/Interface zur Verwaltung der Wächter-Parameter"
+> ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233]
+
+A registry of their parameters, administered from AEGIS' domain, is a stronger
+form of containment than anything read so far — **and it is a room on a list, not
+a claim about the relation.**
+
+The document never asks the question. Document 5 built a chapter out of asking
+it; this one does not raise it once in 12,022 words, which is a different kind of
+evidence: **not an answer, but the shape of an assumption that nobody in this
+document thought needed arguing.**
+
+So Q1 narrows again and does not close. Two documents now support *components*;
+neither states it outside a design instruction or a location's function, and
+*peers* and *a design it replaced* still have no support from anything read.
+
+**One thing it does close.** C4's „`KW2` und `KW4` appearing anywhere would also
+help, since the numbering is the one place the two documents nearly touch" is
+satisfied: KW2 and KW4 appear 28 and 18 times here with their bearers, and the
+numbering now joins document 4's named worlds to document 5's numbers for all
+four. See `kern-welten`. That makes the two documents describe one arrangement —
+which sharpens C4 rather than resolving it, because document 4 still never
+mentions AEGIS.
