@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+documents: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -113,3 +113,59 @@ unstated pattern in the data available, never a stated rule. A document that
 states a rule, or a fourth roster that also shares no name with the first
 three, would now be needed to settle whether any correspondence holds at all —
 the possibility space has widened, not narrowed. See [[alters]].
+
+## 2026-09-17 — a fourth roster, and the corpus's most confident data breaks the one-to-one shape directly
+
+`charakterkonzepte-fuer-kohaerenz-protokoll` (2025-04-18) is read. It names a
+fourth, again disjoint roster of ten — `Limina`, `Nox`, `Echo`, `Flicker`,
+`Eos`, `Oblivion`, `Praetor`, `Index`, `Silas`, plus `Kael` as Host — and
+confirms the four-world count directly: „Die Struktur der vier Kern-Welten
+(Konstrukt-Stadt, Resonanz-Landschaft, Grenzfeste, Möglichkeiten-Garten)
+spiegelt die fragmentierte Natur von Kaels Gesamtsystem direkt wider."
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L30]
+
+**Its own summary table (lines 502–511) hedges every world-link except six —
+and two of those six break one-alter-one-world outright.** [[kael|Kael]]'s link is
+plain (`Konstrukt-Stadt (KW1)`, L502); Limina, Eos, Index and Silas all carry a
+trailing `?` (L503, 507, 510, 511). The six left unhedged:
+
+| Alter | Kern-Welt | hedge | line |
+|---|---|---|--:|
+| Nox | [[grenzfeste|Grenzfeste]] (KW3) | none | 504 |
+| Praetor | Grenzfeste (KW3) | none | 509 |
+| Echo | [[resonanz-landschaft|Resonanz-Landschaft]] (KW2) | none | 505 |
+| Flicker | Möglichkeiten-Garten (KW4) | none | 506 |
+| Oblivion | **KW2 (isoliert)/ KW3** | none | 508 |
+
+**Two of the document's own six most-confident assignments share one world**
+— `Nox` and `Praetor` both to Grenzfeste (KW3), unhedged, in the same table —
+and a third, `Oblivion`, is assigned **two worlds at once**, also unhedged.
+This is not a hedge or an inconsistency the document is unsure of: these are
+its most confident rows, and they contradict a strict one-alter-one-world rule
+directly rather than merely failing to confirm it, as the third roster's
+two-per-world shape did.
+
+### The roster shares no name with any of the first three, or with a fifth, unreconciled document
+
+Zero names in common with `roman-lokalitaeten-konzept-und-ausarbeitung`'s
+(`Limina`/`Echo`/`Nox`/`Orakel-Muse` — three of those four names *do* recur
+here, unlike the second and third rosters, but the fourth, `Orakel/Muse`, does
+not, and this document's `Index`/`Flicker`/`Eos`/`Oblivion`/`Praetor`/`Silas`
+do not recur there either) or with `kohaerenz-protokoll-konzept`'s
+(`Host`/`Wächter`/`Schatten`/`Leo`/`Der Archivar`/`Memory Holder`/`Funke`).
+
+**A fifth roster exists and is not part of this count.**
+`strukturelle-dissoziation-system-kael-analyse` — censused, not yet reconciled
+— names eleven Anteile (`Kael`, `Selene`, `Nyx`, `Kiko`, `Lia`, `Isabelle`,
+`Moros`, `Alex`, `Rhys`, `Lex`, `Argus`), verified to share **zero** names with
+this document's ten (word-boundary count, both directions). That is a conflict
+in its own right, not a fifth data point for this question — see
+`Wiki/conflicts/c6-alter-roster-two-documents.md` — and it is raised, not
+folded in here, because resolving which roster is current is an author's call
+this page does not make.
+
+**What this adds:** the third roster showed the one-to-one shape could fail to
+hold; this one shows it failing inside a single document's *most confident*
+data, without a hedge to blame. Four documents, four disjoint ten-or-eleven
+name lists, and the shape that would unify them — the world count agrees
+(four), the alter count and the correspondence do not. See [[alters]].
