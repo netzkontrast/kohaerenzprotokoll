@@ -87,6 +87,26 @@ What the wiki now asks for, in its own words:
 index maps neither word to the other. The next document that uses both is worth
 more than the next document that uses either.
 
+## Postponed, and safe to postpone because the record proves it
+
+**`orte-konzept-fuer-kohaerenz-protokoll` was reconciled twice and both are
+stale.** Each recorded `state_before: 46`; the chain now ends at 56, so both must
+be redone against the current wiki. The work is not lost — the censuses, notes
+and candidate lists in the two worktree branches stand, and only the
+reconciliation depends on the state that moved.
+
+Nothing has to remember this: `Plan/runs/<slug>/reconcile.json` holds
+`state_before` → `state_after` for every document and `account.py order` compares
+them. **Done is a measurement here, not a tick**, which is what makes postponing
+a task safe rather than a promise.
+
+That case is also what `Plan/concept/task-queue_2026-09-17.md` is for. Merging
+document 6 invalidated those two reconciliations, left ten pages unlinked and
+moved the `fold()` baseline from 65% to 58% — three consequences of one
+intended change, none of them written down by anyone. The concept's whole
+premise is that a task is derived from measured state, so it cannot be forgotten
+and cannot go stale in a list.
+
 ## Known failing
 
 **17 <!--state:quotes.unresolved--> quotations do not resolve to the line they
