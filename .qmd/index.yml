@@ -1,0 +1,121 @@
+# qmd configuration for the Kohärenz Protokoll corpus.
+#
+# THIS FILE IS COMMITTED, and that is the point. qmd's own trust.ts says:
+# "A project-local `.qmd/index.yml` arrives with a `git clone`, and
+# `findLocalConfigPath` adopts it automatically for any command run inside the
+# tree." So the configuration travels with the repository and `setup_qmd.sh`
+# installs the package and builds the index, rather than re-deriving the
+# collections from shell arguments that could drift from this file.
+#
+# Paths are RELATIVE. qmd resolves a project-local config's relative paths
+# against the directory containing `.qmd`, not against the working directory —
+# so this file works in any clone, and the absolute paths a `collection add`
+# writes would not.
+#
+# Nothing here arms qmd's approval gate: every path stays inside the project,
+# the three models are qmd's own built-in defaults, and there are no `update:`
+# hooks. A path outside the project, a non-default model or a hook would make
+# every clone prompt before its first query.
+#
+# NO COUNTS IN ANY CONTEXT BELOW. A context is documentation a reader sees
+# above search results; a number in one goes stale silently, and `state.py
+# --prose` cannot check a file that is not markdown.
+
+global_context: >
+  A German hard-SF novel and its research corpus. Only the wiki is being built;
+  the novel rests. Canon prose is German and is never translated. Sources/ is
+  immutable research fetched from Google Drive; Wiki/ is derived term pages a
+  person promotes. Search finds a place to look — every number in a page comes
+  from a counting script instead.
+
+# Pinned to qmd's built-in defaults, on purpose. Naming them costs nothing and
+# means a future qmd changing its default cannot silently invalidate 1,200
+# embeddings. embeddinggemma-300M is the small one and already the default;
+# Qwen3-Embedding-0.6B is roughly twice the size for this corpus.
+models:
+  embed: hf:ggml-org/embeddinggemma-300M-GGUF/embeddinggemma-300M-Q8_0.gguf
+  rerank: hf:ggml-org/Qwen3-Reranker-0.6B-Q8_0-GGUF/qwen3-reranker-0.6b-q8_0.gguf
+  generate: hf:tobil/qmd-query-expansion-1.7B-gguf/qmd-query-expansion-1.7B-q4_k_m.gguf
+
+# Collections are named for PURPOSE, not for folder.
+collections:
+  sources:
+    path: Sources/drive
+    pattern: "**/*.md"
+    context:
+      "": >
+        Immutable German research documents fetched from Google Drive, one per
+        file, named by slug. The corpus the wiki is derived from. Never edited,
+        and duplicate exports have been folded away — a count over these files
+        is a count over documents.
+
+  wiki:
+    path: Wiki
+    pattern: "**/*.md"
+    context:
+      "": >
+        Derived pages. candidates/ holds one page per term, collecting every
+        source's reading attributed and unmerged; conflicts/ records where
+        sources disagree; questions/ parks what nothing read can answer;
+        compare/ holds one reconciliation record per source document.
+      "/candidates": >
+        One page per term. Where sources disagree the page says so and stops —
+        which reading is right is the author's call, never the page's.
+      "/conflicts": >
+        Append-only records of a disagreement between sources. A conflict record
+        decides nothing.
+      "/questions": >
+        Open questions parked as pages: both a work queue and a record of what
+        the read sample cannot answer.
+
+  census:
+    path: Sources/terms
+    pattern: "**/*.md"
+    context:
+      "": >
+        Term censuses: one per source document, listing every candidate term in
+        that document exhaustively. A census describes one document and nothing
+        else — no count, comparison or expectation from another source.
+
+  notes:
+    path: Sources/notes
+    pattern: "**/*.md"
+    context:
+      "": >
+        Reading notes: what one document says about the terms that matter,
+        quoted with line numbers. Every quotation is verified against its line
+        by scripts/quotes.py.
+
+  plan:
+    path: Plan
+    pattern: "**/*.md"
+    context:
+      "": >
+        Process artifacts: concept notes, decisions, learnings, per-document run
+        artifacts, the rendered judgement ledger and the derived state.
+
+  decisions:
+    path: .
+    pattern: Wiki/compare/**/*.md,Wiki/conflicts/**/*.md,Wiki/questions/**/*.md,Plan/decisions/**/*.md,Plan/runs/judgements.md
+    includeByDefault: false
+    context:
+      "": >
+        Everything already decided, and why — reconciliation records, conflict
+        records, question pages, decision files, and the judgement ledger
+        rendered from JSONL because qmd indexes markdown and nothing else. Ask
+        this by name before re-reading a whole record: a hit gives the file and
+        the line, and `qmd get <ref>:<line>:<count>` then reads a dozen lines
+        instead of the record.
+
+  all:
+    path: .
+    pattern: Sources/**/*.md,Wiki/**/*.md,Plan/**/*.md,*.md
+    includeByDefault: false
+    context:
+      "": >
+        Every markdown file in the project except the Legacy shelf and the
+        vendored clones. Excluded from default queries because it overlaps the
+        purpose collections — ask for it by name when a question could be
+        answered by any layer. The pattern is what keeps Legacy out: a
+        collection rooted here without one indexes the shelf and the vendored
+        packages.

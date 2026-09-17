@@ -322,10 +322,20 @@ git-ignored; `scripts/setup_qmd.sh` rebuilds it.
 
 Its first real query is what exposed the duplicate exports above.
 
-**The whole setup rebuilds from one command.** The container is ephemeral and
-`.tools-node/` and `.qmd/` are git-ignored, so the package, the index, six
-collections, their contexts, the agent skill and the PATH shim are all lost on a
-fresh clone:
+**The configuration is committed; only what git cannot carry is rebuilt.**
+`.qmd/index.yml` is tracked, because qmd adopts a project-local config on clone —
+its own source says so. Collections, their contexts and the three model URIs
+travel with the repository. Untracked and rebuilt: the npm package (~50 MB), the
+three GGUF models (~2.1 GB, in `~/.cache/qmd`), the SQLite index (~100 MB) and
+the embeddings.
+
+That is a correction. `setup_qmd.sh` used to rebuild the collections from
+`collection add` arguments while the YAML qmd wrote from them was git-ignored —
+one configuration in two places, free to drift, with the authoritative copy
+untracked. The stale contexts printed above search results were the symptom.
+
+**Never run `qmd init` here**: it overwrites the committed config. A missing
+`.qmd/index.yml` is a restore, not a setup.
 
 ```bash
 scripts/setup_qmd.sh            # install, index, collections, skill, shim
@@ -335,17 +345,17 @@ scripts/setup_qmd.sh --check    # report what is missing, change nothing
 It is idempotent, and `--check` is the thing to run when a search returns less
 than it should.
 
-**The agent skill is installed from the package itself** — `qmd skill install`
-writes a 25-line bootstrap that defers to `qmd skill show` for version-matched
-instructions, so it cannot go stale when qmd updates. It declares
-`allowed-tools: Bash(qmd:*)`, and **the package is not on PATH here**, which is
-why `setup_qmd.sh` writes a shim: without it the skill fails with „command not
-found", which reads like the tool is broken rather than absent.
+**`.claude/skills/qmd/` is this project's own skill, not the package's.** The
+package's `qmd skill install` writes a bootstrap that defers to `qmd skill show`;
+it teaches the tool, and is still worth reading. Ours teaches the corpus — which
+collection answers which question, why `search` is 0.24s and `query` is 14.5s,
+and the rule that a search result is never a number. `setup_qmd.sh` therefore
+does **not** run `qmd skill install`, which would overwrite it.
 
-Its one technique worth adopting: **write the structured query yourself** —
-`intent:`, `lex:`, `vec:`, `hyde:` — rather than pasting the question into
-`qmd query` and hoping the built-in expansion model guesses the domain
-vocabulary. In a German corpus full of coined compounds it will not.
+It declares `allowed-tools: Bash(qmd:*)`, and **the package is not on PATH
+here**, which is why `setup_qmd.sh` writes a shim: without it the skill fails
+with „command not found", which reads like the tool is broken rather than
+absent.
 
 **Every file stays in it, and that is checked rather than remembered.**
 

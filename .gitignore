@@ -29,7 +29,10 @@ Thumbs.db
 # 14MB of surface indexes — the cache is not the record, the rules are.
 Plan/derived/
 
-# qmd — local search index and its Node dependencies
+# qmd — the Node package and the derived index. The CONFIGURATION is tracked:
+# qmd adopts a project-local .qmd/index.yml on clone, so it belongs in git and
+# scripts/setup_qmd.sh rebuilds only what git cannot carry.
 .tools-node/
-.qmd/
+.qmd/*
+!.qmd/index.yml
 Plan/derived/
