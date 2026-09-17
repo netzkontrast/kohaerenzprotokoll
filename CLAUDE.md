@@ -390,8 +390,19 @@ text with GEPA's `optimize_anything`.
 distribution name, and resolving it would move this venv off the pinned DSPy
 3.3.1.
 
-**Nothing in the pipeline calls either of them yet.** They are installed and
-reachable, and that is all this section claims.
+A third, `drg-kg`, is installed for one module only — its evaluation scorer,
+whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
+1.0. Its extraction and graph layers stay unused: `Wiki/` has no links by
+decision, and installing DRG does not reopen that.
+
+```bash
+uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
+```
+
+**Nothing in the pipeline calls any of the three yet.** They are installed,
+reachable, and measured against this repository —
+`Plan/concept/continuous-improvement_2026-09-17.md` has what each is for and in
+what order.
 
 ## Changing your mind
 
