@@ -240,6 +240,42 @@ fragments were passed, and was never passed any. Two live runs scored 0.987 and
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
 conflict.
 
+### The wiki links, and a link is not a mention
+
+Two marks, two meanings: `` `Nexus` `` names the term, `[[nexus]]` points at the
+page, and `[[nexus|Nexus-Vorstufe]]` points at it while leaving the prose exactly
+as it read. `scripts/relations.py` derives the graph from `[[…]]` and from
+nothing else, and reports a link pointing at no page rather than dropping it.
+
+```bash
+python3 scripts/relations.py              # the graph, the orphans, the open questions
+python3 scripts/relations.py --unmarked   # links the prose makes and the markup does not
+python3 scripts/link.py [--apply]         # mark them; dry run by default
+```
+
+**133 <!--state:wiki.relations--> links across
+46 <!--state:wiki.pages--> pages, 16 <!--state:wiki.orphans--> of them with
+nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
+described here as having no links, which was a statement about `[[…]]` syntax
+mistaken for a statement about linking. 48 links existed, written in backticks,
+and 158 more mentions were sitting unmarked — `aegis` was an orphan whose name
+stood unmarked in other pages 68 times.
+
+**A link is never inferred.** Every one marks a term the prose already wrote.
+Whether a model may propose an edge the prose does not state is a separate
+question, to be asked against this baseline rather than instead of it — a guessed
+edge is indistinguishable from a stated one once it is in the graph.
+
+**And the migration is why `quotes.py` was built first.** Its first pass put a
+link inside two quotations, because the quote mask was line-bounded and German
+quotations wrap. The check went 17 → 19 and named both. After the fix the pass
+was redone from a clean tree and the count was unchanged — which is the proof,
+and the only kind worth having.
+
+The 56 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+occurrence sits inside a quotation, a citation line or a heading. Those are
+places the pass may not touch, so that number is a measurement and not a backlog.
+
 ### A mechanised rule stays checkable
 
 Every decision about a near match is recorded in `Plan/runs/judgements.jsonl`
@@ -394,7 +430,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 48 <!--state:wiki.relations-->.
+links. It has 133 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"

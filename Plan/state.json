@@ -87,7 +87,7 @@
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 21,
+      "value": 16,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
@@ -99,11 +99,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 48,
+      "value": 133,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 158,
+      "value": 56,
       "how": "a page's term written in another page's prose without being marked a link"
     }
   }

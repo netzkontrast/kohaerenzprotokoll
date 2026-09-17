@@ -30,7 +30,7 @@ Michael ^[entropie-aegis.md:L96].
 
 ## The rename, and why hers is different
 
-The cut is the same single day as `kael` — 2025-04-17 all Julia, 2025-04-18 all
+The cut is the same single day as [[kael]] — 2025-04-17 all Julia, 2025-04-18 all
 Juna, no mixed document either side.
 
 But afterwards the two names behave differently:

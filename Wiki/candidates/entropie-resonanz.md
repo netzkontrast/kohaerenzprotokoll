@@ -16,7 +16,7 @@ source rejects most bluntly.
 
 ## What the postulate claims — restated ^[aegis-emergenz-aus-der-leere.md:L122, L126]
 
-AEGIS generates reality itself „mittels sogenannter \"Entropie-Resonanz-Protokolle
+[[aegis]] generates reality itself „mittels sogenannter \"Entropie-Resonanz-Protokolle
 (ERP)\"" ^[L122]. Entropy is read as a „schöpferische Matrix" — a maximal
 possibility space — from which „rekursive Resonanz" stabilises coherent state
 sequences ^[L126]. The protocols run from `ERP0`, a signature formed „aus der

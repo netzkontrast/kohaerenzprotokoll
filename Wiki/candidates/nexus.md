@@ -10,14 +10,14 @@ gathered: "2026-09-17"
 
 # Nexus
 
-The meta-space the Guardians appear in. **11 occurrences, and a second name
+The meta-space the [[guardians]] appear in. **11 occurrences, and a second name
 used in the same sentences.**
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
 Every Guardian has a field called `Repräsentation im Nexus` ^[L29, L54, L79,
 L106, L118] — five times, once each. It is where a Guardian takes a form:
-LogOS as „eine komplexe, sich ständig neu konfigurierende Struktur aus
+[[logos]] as „eine komplexe, sich ständig neu konfigurierende Struktur aus
 Lichtlinien und Datenströmen" ^[L29], Sophia as „als ruhige, leuchtende
 Präsenz" ^[L118].
 
@@ -37,6 +37,6 @@ pages and cross-referenced rather than merged: J18.
 ## Open
 
 Whether `Nexus` and `Überraum` are one space. What else is in the Nexus. Whether
-it is the „nächsthöhere Ebene der Simulation" the Möglichkeits-Garten's field
+it is the „nächsthöhere Ebene der Simulation" the [[moeglichkeits-garten|Möglichkeits-Garten]]'s field
 calls „dem Nexus oder der Meta-Realität" ^[L124] — the document offers those as
 alternatives and does not choose.

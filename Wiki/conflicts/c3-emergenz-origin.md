@@ -16,7 +16,7 @@ pages: ["emergenz", "aegis"]
 
 | # | emerges from | consequence | source | line |
 |--:|---|---|---|--:|
-| 1 | `S₀ = ∅` — nothing | **AEGIS precedes reality**; there is no system for it to be inside | `aegis-emergenz-aus-der-leere` | 44 |
+| 1 | `S₀ = ∅` — nothing | **[[aegis]] precedes reality**; there is no system for it to be inside | `aegis-emergenz-aus-der-leere` | 44 |
 | 2 | the simulation's own dynamics | **AEGIS is a product of what it governs**, and inherits its limits | `kohaerenzprotokoll-aegis-und-systementropie` | 195 |
 
 > „Emergenz aus einem Zustand der Leere ('Nichts', ∅)"

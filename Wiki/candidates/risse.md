@@ -23,7 +23,7 @@ terms are defined by function, this one by cause:
 They appear in two places at once — „sowohl in den simulierten Welten als auch in
 der Überwelt" ^[entropie-aegis.md:L94] — so they are not local to one layer.
 
-And they are AEGIS' failure made visible:
+And they are [[aegis]]' failure made visible:
 
 > „sein letztendliches Versagen (manifestiert in den \"Rissen\")"
 > ^[entropie-aegis.md:L93]
@@ -50,10 +50,10 @@ principle turned against itself.**
 
 | world | how a Riss shows | line |
 |---|---|--:|
-| Konstrukt-Stadt | „Logische Widersprüche werden greifbar" | 39 |
-| Resonanz-Landschaft | „Plötzliche, heftige emotionale Stürme" | 64 |
-| Grenzfeste | „unerklärliche Sicherheitslücken" | 89 |
-| Möglichkeits-Garten | „unkontrollierbare, destruktive Transformationen" | 128 |
+| [[konstrukt-stadt]] | „Logische Widersprüche werden greifbar" | 39 |
+| [[resonanz-landschaft]] | „Plötzliche, heftige emotionale Stürme" | 64 |
+| [[grenzfeste]] | „unerklärliche Sicherheitslücken" | 89 |
+| [[moeglichkeits-garten|Möglichkeits-Garten]] | „unkontrollierbare, destruktive Transformationen" | 128 |
 
 Logic made inconsistent, emotion made dissonant, security made porous, growth
 made destructive. That is a single claim about `Risse`, stated four times in

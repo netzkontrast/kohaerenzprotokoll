@@ -14,7 +14,7 @@ gathered: "2026-09-17"
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
-Six quantities AEGIS monitors, each given **two interpretations** — under Kael's
+Six quantities [[aegis]] monitors, each given **two interpretations** — under [[kael]]'s
 DID, and under the loss of the bond ^[kohaerenzprotokoll-aegis-und-systementropie.md:L91-96]:
 
 | metric | under DID | under bond loss |
@@ -36,6 +36,6 @@ Splits into six the moment a source says something about one of them alone.
 
 ## What no metric covers
 
-**All six are system-level. None is per-alter.** So `entropie-signatur` — a
+**All six are system-level. None is per-alter.** So [[entropie-signatur]] — a
 per-alter measure another source asks for — is not answered here, and this is the
 closest the corpus has come to answering it.

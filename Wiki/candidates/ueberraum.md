@@ -17,15 +17,15 @@ gathered: "2026-09-17"
 
 | Guardian | line | the sentence opens |
 |---|--:|---|
-| LogOS | 29 | „Im Überraum manifestiert sich LogOS" |
-| Mnemosyne | 54 | „Im Überraum erscheint Mnemosyne" |
-| Cerberus | 79 | „Im Überraum könnte Cerberus" |
-| Kairos | 106 | „Im Überraum könnte Kairos" |
-| Sophia | 118 | „Im Überraum könnte Sophia" |
+| [[logos]] | 29 | „Im Überraum manifestiert sich LogOS" |
+| [[mnemosyne]] | 54 | „Im Überraum erscheint Mnemosyne" |
+| [[cerberus]] | 79 | „Im Überraum könnte Cerberus" |
+| [[kairos]] | 106 | „Im Überraum könnte Kairos" |
+| [[sophia]] | 118 | „Im Überraum könnte Sophia" |
 
 Five for five. The term appears nowhere else in the document.
 
-## Why this is a separate page and not an alias of `nexus`
+## Why this is a separate page and not an alias of [[nexus]]
 
 Because nothing says it is one. A field named for the `Nexus`, filled with text
 about the `Überraum`, five times, is strong evidence — and evidence is not a

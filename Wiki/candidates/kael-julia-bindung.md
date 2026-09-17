@@ -22,7 +22,7 @@ finding the research produced. The page records it as the source does: as
 something the project asserted and asked to have explained.
 
 What the research adds is its function: the bond is a constant source of
-**Negentropie**, offsetting the entropy Kael's DID generates, holding a dynamic
+**[[negentropie]]**, offsetting the entropy [[kael]]'s DID generates, holding a dynamic
 equilibrium AEGIS does not manage ^[kohaerenzprotokoll-aegis-und-systementropie.md:L122]. Its loss removes „das zentrale
 stabilisierende Element" and triggers the cascade ^[kohaerenzprotokoll-aegis-und-systementropie.md:L221].
 

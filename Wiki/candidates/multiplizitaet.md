@@ -20,7 +20,7 @@ document turns on**:
 > Entropie/Chaos?" ^[entropie-aegis.md:L95]
 
 So: multiplicity is what a fragmented psyche looks like when it is *not* a
-disorder. It is set against Entropie/Chaos, which is what AEGIS sees and acts
+disorder. It is set against [[entropie]]/Chaos, which is what [[aegis]] sees and acts
 against.
 
 **The question is asked and not answered.** But the framing is itself the

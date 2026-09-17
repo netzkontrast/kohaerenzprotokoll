@@ -15,7 +15,7 @@ gathered: "2026-09-16"
 > „die verschiedenen Bewusstseinszustände oder \"**Alters**\" einer Person mit
 > DID" ^[entropie-aegis.md:L69]
 
-Quoted, once, inside a question about `entropie-signatur`. The gloss
+Quoted, once, inside a question about [[entropie-signatur]]. The gloss
 „Bewusstseinszustände" is the only thing this source says they are, and it is
 offered as an approximation rather than a definition.
 
@@ -24,7 +24,7 @@ offered as an approximation rather than a definition.
 Because this is the term the corpus disagrees about most.
 
 The retired pipeline, run over four unrelated documents, found its largest
-disagreement here: **how many alters System Kael has — 11 or 13** — with three
+disagreement here: **how many alters System [[kael]] has — 11 or 13** — with three
 sources per position and a second disagreement about whether two named alters
 are distinct or resolved into others.
 

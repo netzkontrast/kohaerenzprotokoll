@@ -23,7 +23,7 @@ One dependent clause, in `entropie-aegis`:
 > Entropie-Managements." ^[entropie-aegis.md:L93]
 
 That is suggestive and it is one clause. It does not say whether a Guardian is a
-component of AEGIS, a peer, or an earlier design.
+component of [[aegis]], a peer, or an earlier design.
 
 And `guardians-und-kern-welten-konzept` — 5,839 words specifying five Guardians
 and four worlds — **never mentions AEGIS at all.** Zero occurrences.
@@ -75,7 +75,7 @@ what this question page is for — and reading it is what revealed that the snip
 came from a chapter arguing the opposite of what it appeared to assert.
 
 The passage is real, it is on that line, and the page it now sits on is
-`guardians`, where it belongs, with the chapter around it.
+[[guardians]], where it belongs, with the chapter around it.
 
 ## Related
 

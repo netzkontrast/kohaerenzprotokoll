@@ -12,11 +12,11 @@ gathered: "2026-09-17"
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
-AEGIS' escalation protocol, and the source's account of why it makes things
-worse. Because AEGIS misdiagnoses the cause — see `blinder-fleck` — it escalates
+[[aegis]]' escalation protocol, and the source's account of why it makes things
+worse. Because AEGIS misdiagnoses the cause — see [[blinder-fleck]] — it escalates
 against the symptom:
 
-1. isolate Kael's Kern-Welten further
+1. isolate [[kael]]'s [[kern-welten]] further
 2. flood his sector with corrective data or „Kohärenzfeldern"
 3. force-reintegrate or shut down his fragmented identities ^[kohaerenzprotokoll-aegis-und-systementropie.md:L181-183]
 

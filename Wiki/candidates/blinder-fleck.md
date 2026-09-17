@@ -12,7 +12,7 @@ gathered: "2026-09-17"
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
-AEGIS cannot perceive the Kael-Julia bond, and the source is explicit that this is
+[[aegis]] cannot perceive the Kael-Julia bond, and the source is explicit that this is
 not a gap but a category:
 
 > „AEGIS' Blindheit ist somit fundamental und nicht akzidentiell. Es handelt sich
@@ -32,7 +32,7 @@ The last is load-bearing:
 ## The consequence the source draws
 
 AEGIS reacts to symptoms it can see and misdiagnoses their cause ^[L82, L177],
-which makes its escalation — see `protokoll-v14` — actively destructive.
+which makes its escalation — see [[protokoll-v14]] — actively destructive.
 
 ## Open
 
@@ -42,7 +42,7 @@ it would be the same mechanism. Not answerable from this source.
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
 **A second bearer, and the same word.** This document gives a `Blinder Fleck`
-to each of five Guardians and makes it a consequence of their design:
+to each of five [[guardians]] and makes it a consequence of their design:
 
 > „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians logisch aus
 > dessen Domäne und Funktion erwächst"
@@ -63,7 +63,7 @@ Mnemosyne/Cerberus":
 | **contextual** | Kairos | sees the opportunity, not the necessity ^[guardians-und-kern-welten-konzept.md:L105] |
 | **incomplete knowledge** | Sophia | „fehlt ihr die entscheidende Information" ^[guardians-und-kern-welten-konzept.md:L117] |
 
-Only LogOS' is the *categorical* kind that document 3 argues for AEGIS.
+Only [[logos]]' is the *categorical* kind that document 3 argues for AEGIS.
 
 ### Unmerged — see C4
 

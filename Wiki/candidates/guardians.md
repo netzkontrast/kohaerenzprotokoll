@@ -17,7 +17,7 @@ Role only, in a subordinate clause:
 > „Dies prägt auch das Handeln der Guardians als **spezialisierte Agenten dieses
 > Entropie-Managements**." ^[entropie-aegis.md:L93]
 
-They appear a second time as AEGIS' side of the central conflict: „Der Konflikt
+They appear a second time as [[aegis]]' side of the central conflict: „Der Konflikt
 zwischen AEGIS/Guardians und Michael/Julia" ^[entropie-aegis.md:L96].
 
 **Three occurrences in the whole document, all in dependent clauses.** Nothing
@@ -26,7 +26,7 @@ says what a Guardian is, how many there are, or whether they are conscious.
 ## Do not confuse with `Integrity Guardian`
 
 `Integrity Guardian` ^[entropie-aegis.md:L65] is one of AEGIS' four named
-sub-functions and a different term — see `aegis-teilfunktionen`. The two share a
+sub-functions and a different term — see [[aegis-teilfunktionen]]. The two share a
 substring and nothing else.
 
 This is recorded on the page because it is the kind of thing that gets merged by
@@ -45,11 +45,11 @@ what that one did not: it says who the Guardians are.
 
 | Guardian | domain | blind spot | world |
 |---|---|---|---|
-| `logos` | Struktur, Logik, Systemarchitektur | categorical | `konstrukt-stadt` |
-| `mnemosyne` | Erinnerung, Emotion, Empathie | misreading | `resonanz-landschaft` |
-| `cerberus` | Sicherheit, Abwehr, Grenzen | misreading | `grenzfeste` |
-| `kairos` | Potenzial, Kreativität, Emergenz | contextual | `moeglichkeits-garten` |
-| `sophia` | Wissen, Weisheit, Integration | missing data | `moeglichkeits-garten` |
+| [[logos]] | Struktur, Logik, Systemarchitektur | categorical | [[konstrukt-stadt]] |
+| [[mnemosyne]] | Erinnerung, Emotion, Empathie | misreading | [[resonanz-landschaft]] |
+| [[cerberus]] | Sicherheit, Abwehr, Grenzen | misreading | [[grenzfeste]] |
+| [[kairos]] | Potenzial, Kreativität, [[emergenz]] | contextual | [[moeglichkeits-garten]] |
+| [[sophia]] | Wissen, Weisheit, Integration | missing data | `moeglichkeits-garten` |
 
 Nine fields filled for each, uniformly. See the individual pages.
 
@@ -61,7 +61,7 @@ rather than a flaw:
 > „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians logisch aus
 > dessen Domäne und Funktion erwächst" ^[guardians-und-kern-welten-konzept.md:L137]
 
-All five are blind to the same thing — the `partnerin` — and each is blind
+All five are blind to the same thing — the [[partnerin]] — and each is blind
 differently, because each blindness is derived from that Guardian's own domain.
 The document types the failures three ways itself
 ^[guardians-und-kern-welten-konzept.md:L117]: categorical, misinterpretation,
@@ -133,7 +133,7 @@ appear once each, in this clause, and nowhere else in any read document.
 
 This document numbers the Kern-Welten and attaches Guardians to two of them —
 `LogOS` to KW1, `Cerberus` to KW3. Document 4 named the worlds without numbering
-them. The join is on `kern-welten`, flagged as an inference rather than either
+them. The join is on [[kern-welten]], flagged as an inference rather than either
 document's claim.
 
 **Everything above is proposal.** This document hedges once every 86 words and

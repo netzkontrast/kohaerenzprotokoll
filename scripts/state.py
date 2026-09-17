@@ -270,7 +270,8 @@ def value(key: str):
 MARKER = re.compile(r"(?P<number>[\d,]+|true|false|True|False)\**[^\n\d]{0,40}?<!--\s*state:(?P<key>[a-z_.]+)\s*-->")
 
 
-SKIP = {"Legacy", ".venv-tools", ".venv-dspy", ".qmd", ".tools-node", ".git"}
+SKIP = {"Legacy", ".venv-tools", ".venv-dspy", ".venv-dspytools", ".qmd",
+        ".tools-node", ".git", "worktrees", "node_modules"}
 
 
 def marked_files() -> list[Path]:

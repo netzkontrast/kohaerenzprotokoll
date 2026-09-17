@@ -10,7 +10,7 @@ gathered: "2026-09-17"
 
 # LogOS
 
-One of **five Guardians** specified by a single document, each filled out across
+One of **five [[guardians]]** specified by a single document, each filled out across
 the same nine fields. Nothing else read so far names LogOS at all.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
@@ -44,5 +44,5 @@ principle: each section is a `Guardian/Welt-Paar`.
 ## Open
 
 Everything outside this document. **`AEGIS` does not occur here at all**, so how
-LogOS relates to AEGIS is not answerable from what has been read — see
+LogOS relates to [[aegis]] is not answerable from what has been read — see
 `Wiki/conflicts/c4-guardians-and-aegis.md`.

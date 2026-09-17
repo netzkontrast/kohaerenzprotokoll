@@ -13,7 +13,7 @@ gathered: "2026-09-16"
 
 ## Reading — `entropie-aegis`, 2025-04-17, brief
 
-The digital world AEGIS governs, defined by its relation to entropy rather than
+The digital world [[aegis]] governs, defined by its relation to entropy rather than
 by what it is made of:
 
 > „Als Domäne des Entropic Gatekeepers könnte die Überwelt selbst als ein Ort
@@ -23,7 +23,7 @@ by what it is made of:
 It is introduced in quotation marks — „Überwelt" ^[entropie-aegis.md:L13, L57] —
 which in this document marks coined vocabulary rather than citation.
 
-It contains the **Kern-Welten**: „innerhalb des Systems (Überwelt und simulierte
+It contains the **[[kern-welten]]**: „innerhalb des Systems (Überwelt und simulierte
 Kern-Welten)" ^[entropie-aegis.md:L93]. That containment is the only structural
 fact this source gives.
 

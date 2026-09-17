@@ -27,7 +27,7 @@ condition.
 
 ## The rename, measured across all 346 landed documents
 
-| date | documents | Michael / Julia | Kael / Juna |
+| date | documents | Michael / Julia | Kael / [[juna]] |
 |---|--:|--:|--:|
 | 2025-04-17 | 6 | **all of them** | **0 occurrences** |
 | 2025-04-18 | 7 | **0 occurrences** | **all of them** |

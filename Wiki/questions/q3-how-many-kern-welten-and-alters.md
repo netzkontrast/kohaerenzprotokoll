@@ -15,12 +15,12 @@ Seven pages ask some form of this, and it has been open since document 1.
 
 | | |
 |---|---|
-| Kern-Welten named | **four** — `konstrukt-stadt`, `resonanz-landschaft`, `grenzfeste`, `moeglichkeits-garten` ^[guardians-und-kern-welten-konzept.md:L35] |
+| Kern-Welten named | **four** — [[konstrukt-stadt]], [[resonanz-landschaft]], [[grenzfeste]], [[moeglichkeits-garten]] ^[guardians-und-kern-welten-konzept.md:L35] |
 | whether four is all of them | **not stated by any read source** |
-| alters | the `alters` page records the corpus's largest disagreement |
+| alters | the [[alters]] page records the corpus's largest disagreement |
 | the correspondence | raised by document 1, unanswered by three documents since |
 
-The premise that makes it matter is stated: Kael's fragmented psyche is
+The premise that makes it matter is stated: [[kael]]'s fragmented psyche is
 represented as simulated worlds ^[entropie-aegis.md:L21]. If one world is one
 alter, the two counts are the same count.
 

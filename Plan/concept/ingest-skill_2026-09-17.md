@@ -250,12 +250,14 @@ shape reconciliation was deliberately moved away from: cost per document is
 
 *Correction, 2026-09-17.* A second entry was listed here as rejected and should
 not have been. This paragraph read „the **broken-wikilink lint family** has
-nothing to check: `Wiki/` contains zero `[[links]]`". The wiki links with
-`` `slug` `` instead of `[[slug]]`, and it has 48 <!--state:wiki.relations-->
-such links, 21 <!--state:wiki.orphans--> orphans and
-158 <!--state:wiki.unmarked--> mentions the markup does not mark. The lint
-family has work; what the survey rejected was a model *inferring* edges, and it
-said in the same line that canon links must be **explicit**.
+nothing to check: `Wiki/` contains zero `[[links]]`". The wiki linked with
+`` `slug` `` instead of `[[slug]]` — 48 such links, 21 orphans, and 158 mentions
+the markup did not mark. What the survey rejected was a model *inferring* edges,
+and it said in the same line that canon links must be **explicit**. Decision 005
+separated the two marks and ran the migration:
+133 <!--state:wiki.relations--> links, 16 <!--state:wiki.orphans--> orphans,
+56 <!--state:wiki.unmarked--> still unmarked because a quotation may not gain
+markup a source did not have.
 
 ## What is not yet possible, stated plainly
 

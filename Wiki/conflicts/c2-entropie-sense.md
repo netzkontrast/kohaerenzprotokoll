@@ -16,7 +16,7 @@ pages: ["entropie"]
 
 | # | sense | source | line | date |
 |--:|---|---|--:|---|
-| 1 | **disorder to be resisted** — what AEGIS exists to fight | `entropie-aegis` | 21 | 2025-04-17 |
+| 1 | **disorder to be resisted** — what [[aegis]] exists to fight | `entropie-aegis` | 21 | 2025-04-17 |
 | 2 | **„schöpferische Matrix"** — the possibility space things stabilise out of | `aegis-emergenz-aus-der-leere` | 126 | 2025-04-19 |
 
 > „Seine Existenzberechtigung leitet sich aus seiner Funktion in diesem
@@ -47,7 +47,7 @@ term**, one of which is flagged as deviant by the document reporting it.
 ## What would resolve this
 
 A source that defines the project's own sense of `Entropie` and says which of
-these it is. **`entropie` carries `MISSING` for exactly that.**
+these it is. **[[entropie]] carries `MISSING` for exactly that.**
 
 ## Open questions this raises
 

@@ -75,14 +75,14 @@ category order.
 ## What would settle it
 
 `aegis-subplots-kapitelweise-system-exploration-docx` processed end to end — census,
-note, reconciliation — and its reading added to `guardians` and `aegis` in the
+note, reconciliation — and its reading added to [[guardians]] and [[aegis]] in the
 ordinary way. Four near-copies of it are landed
 (`scripts/duplicates.py --groups`), so one must be chosen and the choice
 recorded.
 
 ## Not to be confused with
 
-`blinder-fleck` is a page and this is a conflict *about* it. The page will carry
+[[blinder-fleck]] is a page and this is a conflict *about* it. The page will carry
 both bearers, attributed and unmerged, until a read document relates them.
 
 ## 2026-09-17 — document 5 is read, and it does not settle this

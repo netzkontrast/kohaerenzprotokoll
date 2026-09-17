@@ -24,14 +24,14 @@ already understood:
 
 That is the entire occurrence. It gives exactly two facts, both by position
 rather than by statement: the Kern-Welten are simulated, and they sit inside the
-same system as the Überwelt.
+same system as the [[ueberwelt|Überwelt]].
 
 ## Why this page exists at all
 
 A term used once, in a parenthesis, as known, is the shape of term that gets
 skipped — and skipping it is invisible, because nothing is missing from anywhere.
 
-It is also load-bearing. The brief's whole premise is that Kael's fragmented
+It is also load-bearing. The brief's whole premise is that [[kael]]'s fragmented
 psyche is represented as simulated worlds ^[entropie-aegis.md:L21], and these are
 those worlds. **The document depends on a term it never explains.**
 
@@ -52,7 +52,7 @@ the collapse starts.
 > „Kaels innere Welten lösen sich wahrscheinlich zuerst und am dramatischsten in
 > Chaos auf." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L165]
 
-And they are what AEGIS contains: quarantining unstable data, reinforcing logical
+And they are what [[aegis]] contains: quarantining unstable data, reinforcing logical
 boundaries, allocating resources ^[kohaerenzprotokoll-aegis-und-systementropie.md:L49].
 
 **Two sources now use the term as known and neither says what one is.**
@@ -65,10 +65,10 @@ each.
 
 | world | Guardian | physics |
 |---|---|---|
-| `konstrukt-stadt` | LogOS | „streng kausal, deterministisch und regelbasiert" ^[guardians-und-kern-welten-konzept.md:L36] |
-| `resonanz-landschaft` | Mnemosyne | „nicht-linear, assoziativ und fließend" ^[guardians-und-kern-welten-konzept.md:L61] |
-| `grenzfeste` | Cerberus | „rigiden Regeln, starken, oft undurchdringlichen Grenzen und Barrieren" ^[guardians-und-kern-welten-konzept.md:L86] |
-| `moeglichkeits-garten` | Kairos & Sophia | „nicht-linear, assoziativ und metamorph" ^[guardians-und-kern-welten-konzept.md:L125] |
+| [[konstrukt-stadt]] | LogOS | „streng kausal, deterministisch und regelbasiert" ^[guardians-und-kern-welten-konzept.md:L36] |
+| [[resonanz-landschaft]] | Mnemosyne | „nicht-linear, assoziativ und fließend" ^[guardians-und-kern-welten-konzept.md:L61] |
+| [[grenzfeste]] | Cerberus | „rigiden Regeln, starken, oft undurchdringlichen Grenzen und Barrieren" ^[guardians-und-kern-welten-konzept.md:L86] |
+| [[moeglichkeits-garten]] | Kairos & Sophia | „nicht-linear, assoziativ und metamorph" ^[guardians-und-kern-welten-konzept.md:L125] |
 
 Each is paired to exactly one Guardian, and the pairing is the document's
 organising principle — every section is a `Guardian/Welt-Paar`.
@@ -110,8 +110,8 @@ A second line attaches the other number and contrasts the two:
 
 ### The join to document 4, which is an inference and not a claim
 
-Document 4 gives five Guardians and four worlds by name, with `logos` in
-`konstrukt-stadt` and `cerberus` in `grenzfeste`. This document gives numbers
+Document 4 gives five [[guardians]] and four worlds by name, with [[logos]] in
+`konstrukt-stadt` and [[cerberus]] in `grenzfeste`. This document gives numbers
 with Guardians and no world names. **Neither document contains both halves.**
 
 If `LogOS` here is `logos` there — which `fold()` decides mechanically, and which

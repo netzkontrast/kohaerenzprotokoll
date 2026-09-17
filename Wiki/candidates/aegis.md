@@ -103,9 +103,9 @@ naming the same role will share any characters with either.
 
 - **What the four sub-functions are.** Zero-Trust, Cognitive Firewall, Integrity
   Guardian and SIS are named in one parenthesis as already known
-  ^[entropie-aegis.md:L65] — see `aegis-teilfunktionen`.
+  ^[entropie-aegis.md:L65] — see [[aegis-teilfunktionen]].
 - **What `Entropie` means**, which is the thing AEGIS regulates. The document
-  commissions that definition rather than giving it — see `entropie`.
+  commissions that definition rather than giving it — see [[entropie]].
 
 So the foundational reading of the project's central term rests on a term the
 same document cannot define.

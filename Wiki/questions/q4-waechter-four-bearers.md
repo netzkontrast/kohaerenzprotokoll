@@ -11,14 +11,14 @@ gathered: "2026-09-17"
 # Q4 — one German word, four bearers
 
 Found while reconciling document 5, when `Wächter` matched an alias already on
-the `aegis` page and the match was wrong.
+the [[aegis]] page and the match was wrong.
 
 | # | what `Wächter` names | where | line |
 |--:|---|---|--:|
 | 1 | **AEGIS itself**, as „Wächter der systemischen Stabilität" | on the `aegis` page, from document 3 | — |
-| 2 | **a Persona**, the one who primarily experiences the Grenzfeste | `guardians-und-kern-welten-konzept` | 85 |
+| 2 | **a Persona**, the one who primarily experiences the [[grenzfeste]] | `guardians-und-kern-welten-konzept` | 85 |
 | 3 | **a Guardian**, in a subplot title — „Das Dilemma des Wächters" | `aegis-subplots-kapitelweise-system-exploration-docx` | 279 |
-| 4 | **Kael**, in the novel's final image | `aegis-subplots-kapitelweise-system-exploration-docx` | 531 |
+| 4 | **[[kael]]**, in the novel's final image | `aegis-subplots-kapitelweise-system-exploration-docx` | 531 |
 
 The fourth is explicit:
 
@@ -47,7 +47,7 @@ synonym.
 - Any document using `Wächter` in an analytic sentence would break the register
   pattern and make it a plain synonym problem.
 - A glossary or an architecture document naming one bearer canonically.
-- More Personas named: if several are role-nouns like `Architekt`, `Echo`,
+- More [[personas]] named: if several are role-nouns like `Architekt`, `Echo`,
   `Funke`, `Sucher` and `Wächter`, then bearer 2 is a naming convention rather
   than a collision, and the question shrinks to three.
 

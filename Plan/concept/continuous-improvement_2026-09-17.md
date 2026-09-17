@@ -141,21 +141,23 @@ links were never the thing rejected, and the wiki has them.
 
 *Correction, 2026-09-17.* This section first read „`Wiki/` contains zero
 `[[links]]`" and treated that as a decision against linking. Both halves were
-wrong. The syntax here is `` `slug` `` rather than `[[slug]]`, and there are
-48 <!--state:wiki.relations--> such links; „no `[[…]]`" is a statement about
-markup and says nothing about whether pages link. Turning „do not let a model
+wrong. At the time the wiki linked with `` `slug` `` rather than `[[slug]]` and
+had 48 such links; „no `[[…]]`" is a statement about markup and says nothing
+about whether pages link. Turning „do not let a model
 guess an edge" into „the wiki has no links" is exactly the delete-instead-of-
 demote failure `CLAUDE.md` warns about, and it cost a recommendation: it is how
 the broken-link lint family got dismissed as having nothing to check.
 
-**It has plenty to check.** 21 <!--state:wiki.orphans--> of
-46 <!--state:wiki.pages--> pages have nothing linking to them, and
-`relations.py --unmarked` finds 158 <!--state:wiki.unmarked--> places where one
-page writes another page's term in prose without marking it — **more than three
-times the marked links.** `aegis` is the clearest case: nothing links to it, and
-its term stands unmarked in the prose of other pages 68 times. A page that reads
-as connected and measures as an orphan is a markup problem, and the wiki is far
-more connected than its own graph says.
+**It had plenty to check.** 21 of 46 pages had nothing linking to them, and
+`relations.py --unmarked` found 158 places where one page wrote another page's
+term in prose without marking it — more than three times the marked links.
+`aegis`, the most central term in the corpus, was an orphan with its name
+standing unmarked in other pages 68 times.
+
+Decision 005 closed it. The wiki now carries 133 <!--state:wiki.relations-->
+links across 46 <!--state:wiki.pages--> pages, 16 <!--state:wiki.orphans-->
+orphans and 56 <!--state:wiki.unmarked--> mentions the pass may not touch,
+because their first occurrence sits inside a quotation or a citation line.
 
 So DRG's extraction and graph modules stay unused, and its evaluation module is
 the part with a job — but the reason is cost and the explicit-link rule, not an

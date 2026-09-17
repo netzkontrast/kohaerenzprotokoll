@@ -47,10 +47,10 @@ was asked.** Negentropy is what the Kael-Julia bond supplies:
 > kompensiert aktiv die Entropie, die durch Kaels DID und andere
 > Systemfluktuationen erzeugt wird." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L122] `[User Query]`
 
-So the first source's question — *does AEGIS see the external connection as an
+So the first source's question — *does [[aegis]] see the external connection as an
 entropy injection, or as an order it cannot parse?* — gets a third answer neither
 option anticipated: **neither, because AEGIS cannot see it at all.** See
-`blinder-fleck`.
+[[blinder-fleck]].
 
 The marker matters: `[User Query]` means the project supplied this, and the
 research reasoned from it rather than concluding it.

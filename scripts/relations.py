@@ -2,8 +2,11 @@
 
 Two things are already written on every page and neither is machine-readable:
 
-**Relations.** A page mentions another page as `` `slug` ``, and those mentions
-are the wiki's links. The three hardest open problems are all *relation*
+**Relations.** A page links another as `[[slug]]`, or `[[slug|as the prose reads
+it]]`. Backticks mean something else and now only that: `` `Nexus` `` names a
+term, it does not point at a page. Both were the same mark until the two meanings
+were separated, which is why the graph could not distinguish a cross-reference
+from a word in code font. The three hardest open problems are all *relation*
 questions rather than term questions:
 
     C4   what is the relation between the Guardians and AEGIS?
@@ -60,6 +63,7 @@ OPEN_HEAD = re.compile(r"^##+ .*\bOpen\b.*$", re.M | re.I)
 NEXT_HEAD = re.compile(r"^##+ ", re.M)
 SENTENCE = re.compile(r"(?<=[.?])\s+")
 TICKED = re.compile(r"`[^`]*`")
+LINK = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]")
 SHORTEST_TERM = 4
 
 
@@ -67,16 +71,20 @@ SHORTEST_TERM = 4
 def graph() -> dict:
     """Pages, the mentions between them, and what nothing mentions."""
     slugs = sorted(p.stem for p in PAGES.glob("*.md"))
+    known = set(slugs)
     edges: list[tuple[str, str]] = []
+    broken: list[tuple[str, str]] = []
     for path in sorted(PAGES.glob("*.md")):
         body = path.read_text(encoding="utf-8")
-        for other in slugs:
-            if other != path.stem and f"`{other}`" in body:
-                edges.append((path.stem, other))
+        for target in dict.fromkeys(LINK.findall(body)):
+            if target == path.stem:
+                continue
+            (edges if target in known else broken).append((path.stem, target))
     linked_to = {target for _, target in edges}
     return {
         "pages": slugs,
         "edges": edges,
+        "broken": broken,
         "orphans": [s for s in slugs if s not in linked_to],
         "isolated": [s for s in slugs
                      if s not in linked_to and not any(a == s for a, _ in edges)],
@@ -101,11 +109,14 @@ def unmarked() -> list[tuple[str, str, int]]:
     """
     slugs = sorted(p.stem for p in PAGES.glob("*.md"))
     terms = {s: term_of(s) for s in slugs}
+    linked = {edge for edge in graph()["edges"]}
     found = []
     for path in sorted(PAGES.glob("*.md")):
-        prose = TICKED.sub("", path.read_text(encoding="utf-8"))
+        prose = TICKED.sub("", LINK.sub("", path.read_text(encoding="utf-8")))
         for other in slugs:
             if other == path.stem or len(terms[other]) < SHORTEST_TERM:
+                continue
+            if (path.stem, other) in linked:
                 continue
             hits = len(re.findall(
                 rf"(?<![\w-]){re.escape(terms[other])}(?![\w-])", prose))
@@ -181,7 +192,10 @@ def main() -> int:
         return 0
 
     print(f"pages           {len(g['pages'])}")
-    print(f"relations       {len(g['edges'])}  (a page naming another as `slug`)")
+    print(f"relations       {len(g['edges'])}  (a page linking another as [[slug]])")
+    if g["broken"]:
+        print(f"BROKEN LINKS    {len(g['broken'])}  pointing at no page: "
+              + ", ".join(sorted({t for _, t in g['broken']})))
     print(f"orphans         {len(g['orphans'])}  nothing links to them")
     print(f"isolated        {len(g['isolated'])}  no link in and none out")
     print(f"open questions  {len(q)}  across {len({r['page'] for r in q})} pages")

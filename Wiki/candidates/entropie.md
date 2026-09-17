@@ -82,7 +82,7 @@ than reports.** Entropy as Shannon entropy:
 > eines Systems verstanden." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L25]
 
 It then becomes measurable: six monitored quantities, the last of them a global
-entropy score ^[kohaerenzprotokoll-aegis-und-systementropie.md:L91-96]. See `aegis-metriken`.
+entropy score ^[kohaerenzprotokoll-aegis-und-systementropie.md:L91-96]. See [[aegis-metriken]].
 
 **This is the second sense asked for by the first source and never supplied**
 ^[entropie-aegis.md:L31] — arriving two days later, in a document that does not

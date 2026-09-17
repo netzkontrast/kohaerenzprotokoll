@@ -70,8 +70,15 @@ python3 scripts/trainset.py
   them.
 - `judgements.py` re-renders `Plan/runs/judgements.md` on every normal run, so
   the searchable copy cannot lag behind the `.jsonl` it derives from.
-- `relations.py` derives the page graph, the orphans and the open statements
-  harvested from every page's Open section.
+- `relations.py` derives the page graph from `[[slug]]` links, the orphans, the
+  open statements harvested from every page's Open section, and `--unmarked`:
+  where a page writes another page's term in prose and does not link it. A
+  backticked `` `Term` `` names a term and is **not** a link (decision 005).
+- `link.py` marks those, one link per page per target, and refuses to touch the
+  frontmatter, code, a heading, a blockquote, anything inside „…", or any line
+  carrying a `^[` citation. Dry run by default; `--apply` writes. Run
+  `quotes.py` after — the first pass broke two quotations and that is how they
+  were found.
 - `selftest.py` runs the checkers against deliberate defects and asserts **which**
   one each reports. It cites a real landed document, so the whole resolution path
   runs: frontmatter, slug lookup, export unescaping, emphasis, blockquote
