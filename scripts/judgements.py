@@ -35,6 +35,14 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from wiki_index import fold  # noqa: E402
 
 
+def records() -> list[dict]:
+    """The ledger, parsed. The only place that reads the file."""
+    if not LEDGER.exists():
+        sys.exit(f"no ledger at {LEDGER.relative_to(ROOT)}")
+    return [json.loads(line) for line in LEDGER.read_text(encoding="utf-8").splitlines()
+            if line.strip()]
+
+
 def replay(record: dict) -> tuple[str, str]:
     """Return (verdict, detail) for one recorded judgement."""
     surfaces = record.get("surfaces") or []
@@ -51,14 +59,12 @@ def replay(record: dict) -> tuple[str, str]:
 
 
 def main(argv: list[str]) -> int:
-    if not LEDGER.exists():
-        sys.exit(f"no ledger at {LEDGER.relative_to(ROOT)}")
-    records = [json.loads(line) for line in LEDGER.read_text(encoding="utf-8").splitlines() if line.strip()]
+    ledger = records()
     only_open = "--open" in argv
 
     counts = {"agrees": 0, "DISAGREES": 0, "judgement": 0, "skipped": 0}
     rows = []
-    for record in records:
+    for record in ledger:
         verdict, detail = replay(record)
         counts[verdict] += 1
         if only_open and verdict != "judgement":
@@ -73,7 +79,7 @@ def main(argv: list[str]) -> int:
             print(f"             !! {detail}")
         print()
 
-    print(f"{len(records)} judgements: "
+    print(f"{len(ledger)} judgements: "
           f"{counts['agrees']} agree, {counts['DISAGREES']} DISAGREE, "
           f"{counts['judgement']} still judgement, {counts['skipped']} skipped")
     if counts["DISAGREES"]:

@@ -1,0 +1,74 @@
+{
+  "generated": "2026-09-17",
+  "by": "scripts/state.py",
+  "measurements": {
+    "documents.reconciled": {
+      "value": 4,
+      "how": "run directories holding a reconcile.json"
+    },
+    "documents.with_census": {
+      "value": 4,
+      "how": "files in Sources/terms/"
+    },
+    "documents.with_note": {
+      "value": 4,
+      "how": "files in Sources/notes/"
+    },
+    "judgements.disagree": {
+      "value": 0,
+      "how": "judgements where code now contradicts the record"
+    },
+    "judgements.mechanised": {
+      "value": 7,
+      "how": "judgements a rule now claims and still agrees with"
+    },
+    "judgements.total": {
+      "value": 19,
+      "how": "records in Plan/runs/judgements.jsonl"
+    },
+    "order.holds": {
+      "value": true,
+      "how": "scripts/account.py order \u2014 the pipeline's dependency order"
+    },
+    "quotes.checked": {
+      "value": 269,
+      "how": "cited quotations verified against their line"
+    },
+    "quotes.unchecked": {
+      "value": 155,
+      "how": "quotations with no citation on their own line"
+    },
+    "quotes.unresolved": {
+      "value": 17,
+      "how": "cited quotations that do not resolve, scripts/quotes.py"
+    },
+    "rules.count": {
+      "value": 4,
+      "how": "modules in scripts/rules/ satisfying the contract"
+    },
+    "sources.distinct": {
+      "value": 357,
+      "how": "landed files minus near-copies, scripts/duplicates.py at 0.8"
+    },
+    "sources.landed": {
+      "value": 409,
+      "how": "manifest rows carrying an export_path"
+    },
+    "sources.near_copies": {
+      "value": 52,
+      "how": "landed files that are a near-copy of another"
+    },
+    "sources.total": {
+      "value": 680,
+      "how": "rows in Sources/manifest.jsonl"
+    },
+    "wiki.conflicts": {
+      "value": 4,
+      "how": "conflict records counted by the derived Wiki/index.json"
+    },
+    "wiki.pages": {
+      "value": 46,
+      "how": "pages counted by the derived Wiki/index.json"
+    }
+  }
+}

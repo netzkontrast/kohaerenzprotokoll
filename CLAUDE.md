@@ -33,11 +33,12 @@ Anything derived traces back to a `drive_id`.
 
 ## State, as of 2026-09-17
 
-**409 of 680 source documents are landed.** The 271 that are not are the 247
+**409 <!--state:sources.landed--> of 680 <!--state:sources.total--> source documents are landed.** The 271 that are not are the 247
 `plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
 have no route. Every category the wiki needs is complete.
 
-**Those 409 files are 357 distinct documents.** 52 of them are near-copies of
+**Those landed files are 357 <!--state:sources.distinct--> distinct documents.**
+52 <!--state:sources.near_copies--> of them are near-copies of
 another — Drive holds several exports of many documents, and each landed under
 its own `drive_id`. Only 2 pairs are byte-identical, so checksums find almost
 none of it. `python3 scripts/duplicates.py` measures it, and **a count over files
@@ -45,11 +46,13 @@ is not a count over documents**: AEGIS is in 315 files and 276 documents.
 Proportions usually survive and sometimes do not — `Entropie` is 50% of files and
 45% of documents. Say which one you mean.
 
-**4 of the 409 have a term census** in `Sources/terms/`, and **all four now have
-a note** in `Sources/notes/`. Three of the four are `theorie-physik`, the fourth
+**4 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **4
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **4
+<!--state:documents.reconciled--> are reconciled**. Three of the four are `theorie-physik`, the fourth
 `worldbuilding`.
 
-`Wiki/candidates/` holds **46 pages**, `Wiki/conflicts/` holds **4**, and
+`Wiki/candidates/` holds **46 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+holds **4 <!--state:wiki.conflicts-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
@@ -61,18 +64,36 @@ has been promoted.
 | `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
 | `guardians-und-kern-welten-konzept` | 14 | 4 | 1 |
 
-`Plan/runs/judgements.jsonl` holds **19 judgements** about near matches — 7
-mechanised and replaying green, 12 still a person's call.
+`Plan/runs/judgements.jsonl` holds **19 <!--state:judgements.total--> judgements**
+about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
+replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
-**`python3 scripts/account.py order` holds.** Every document with a census has a
-note and a reconciliation, each ran against the state the previous one left, and
-the wiki matches what the newest run recorded leaving.
+**`python3 scripts/account.py order` holds** — `true`
+<!--state:order.holds-->. Every document with a census has a note and a
+reconciliation, each ran against the state the previous one left, and the wiki
+matches what the newest run recorded leaving.
 
-Check it yourself rather than trusting this paragraph:
+### Do not trust the numbers above — they are checked
+
+Every number on this page carries a `<!--state:key-->` marker naming the
+measurement it came from, and **`python3 scripts/state.py --prose` fails if any
+of them contradicts the repository.**
+
+That check exists because this section has gone stale four times. It has claimed
+27 of 680 landed, then 3 documents read, then 32 wiki pages, 11 judgements, and a
+reconciliation of 19/12/7 — each true when written, each wrong within a day, each
+caught by a person rather than a command.
+
+**State is derived, never stored.** `scripts/state.py` measures the repository;
+`Plan/state.json` is the artifact of a run and not the source of truth. Any tool
+that needs a number calls `value("wiki.pages")` instead of hardcoding one, and a
+new measurement is a decorated function.
 
 ```bash
-python3 scripts/sources.py status     # by category and tier
-python3 scripts/sources.py check      # manifest against disk
+python3 scripts/state.py            # derive everything, write Plan/state.json
+python3 scripts/state.py --prose    # fail on any stale number in prose
+python3 scripts/state.py --check    # fail if Plan/state.json has drifted
+python3 scripts/state.py --get wiki.pages
 ```
 
 ## One operation, at several scales
