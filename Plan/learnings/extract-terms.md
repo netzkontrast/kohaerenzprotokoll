@@ -363,6 +363,62 @@ it:
   whole mechanism: without it, the next extraction starts blind and repeats the
   failure this step exists to prevent.
 
+## The first completed model run: it read honestly and selected badly
+
+**2026-09-17, `dspy.RLM` on `orte-konzept-fuer-kohaerenz-protokoll`, free model,
+22 iterations, 17.5 minutes.** It finished, and the numbers are trustworthy
+because the citation rule makes them so: **334 of 340 candidates cite a line that
+contains them**, none uncited.
+
+And it is bad, in a way worth knowing exactly:
+
+| | candidates | vs reader A | vs reader B |
+|---|--:|---|---|
+| reader A | 131 | — | F1 0.66 |
+| reader B | 113 | F1 0.66 | — |
+| **model** | **339** | **F1 0.08** | **F1 0.13** |
+
+It covers **21%** of what the two readers found between them, and adds 301 terms
+neither had.
+
+**The failure is not reading and not fabrication.** Measured over the ten tenths
+of the document, every tenth carries candidates — it went all the way through.
+And it missed `Archivar`, which the document contains **15 times**, along with
+`Datenfriedhof`, `Bibliothek der Ungeschriebenen Geschichten` and
+`Arena der Konfrontation`.
+
+What it produced instead is the document's *scaffolding*: section headings
+(`Einleitung`), the craft essay's vocabulary (`Show, don't tell`, `Zeigen`,
+`Bottom-Up-Ansatz`, `Top-Down-Realität`), and the masterlist's ID codes
+(`KW4-01`, `UW-01`, `KW4-07`) — while skipping the named places those codes point
+at.
+
+**So the model can read and cannot select.** „Whether a candidate is a term at
+all, as against a word the author used twice" is listed below under what stays
+judgement, and this run is the measurement behind that sentence rather than an
+assertion of it. A prompt asking for „every name, coinage, acronym, compound or
+piece of vocabulary" got exactly that, and exhaustiveness without selection is
+not a census.
+
+### And the gold lists are not clean either
+
+Checked verbatim against the document:
+
+| | candidates | not in the document |
+|---|--:|--:|
+| reader A | 131 | **21 (16%)** |
+| reader B | 113 | 1 (1%) |
+| model | 339 | 2 (1%) |
+
+Reader A's 21 are mostly profile *field labels* — `Konzept`,
+`Narrative Funktion`, `Ästhetik & Sensorische Details` — recorded as candidates
+with an annotation, which the comparison cannot see. Reader B contributed
+`Regel-Exekutor Posten 12`, which the document does not contain at all.
+
+**A gold list is evidence, not scripture.** Before the next model run is scored,
+the two readings should be merged into a union with the disagreements kept, and
+every candidate checked against the document the way the model's now are.
+
 ## A model runs out of budget and reconstructs — and says so only in its reasoning
 
 **2026-09-17, the first `dspy.RLM` run, and it is the reason a candidate now has
