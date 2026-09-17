@@ -31,17 +31,30 @@ under `Legacy/` and read by nothing.
 `slug`, `category`, `tier` and, once landed, `export_path` and two checksums.
 Anything derived traces back to a `drive_id`.
 
-## State, as of 2026-09-16
+## State, as of 2026-09-17
 
 **409 of 680 source documents are landed.** The 271 that are not are the 247
 `plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
 have no route. Every category the wiki needs is complete.
 
-**3 of the 409 landed documents have been read**, and their notes are in
-`Sources/notes/`. **2 have a full term census**, in `Sources/terms/`, and the one
-comparison between them is in `Wiki/compare/`. `Wiki/candidates/` holds **1 term page**, written by hand. The
-schema follows the pages rather than preceding them, so neither `Wiki/terms/`
-nor a page format exists yet.
+**4 of the 409 have a term census** in `Sources/terms/`; **3 also have a note** in
+`Sources/notes/`. Three of the four are `theorie-physik`, the fourth
+`worldbuilding`.
+
+`Wiki/candidates/` holds **32 pages**, `Wiki/conflicts/` holds **3**, and
+`Wiki/compare/` holds the reconciliation record per document. The schema follows
+the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
+has been promoted.
+
+| document | new terms | new readings | new conflicts |
+|---|--:|--:|--:|
+| `entropie-aegis` | 14 | — | 0 |
+| `aegis-emergenz-aus-der-leere` | 10 | 2 | 2 |
+| `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
+| `guardians-und-kern-welten-konzept` | — | — | — *(census done, not reconciled)* |
+
+`Plan/runs/judgements.jsonl` holds **11 judgements** about near matches — 4
+mechanised and replaying green, 7 still a person's call.
 
 Check it yourself rather than trusting this paragraph:
 
