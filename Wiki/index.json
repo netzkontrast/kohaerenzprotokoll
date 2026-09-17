@@ -105,11 +105,12 @@
         "blinder-fleck"
       ],
       "ingested": [
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "guardians-und-kern-welten-konzept"
       ],
-      "sources": 1,
-      "readings": 1,
-      "conflict": "none yet"
+      "sources": 2,
+      "readings": 2,
+      "conflict": "C4"
     },
     "cerberus": {
       "title": "Cerberus",

@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 1
-readings: 1
-conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie"]
+sources: 2
+readings: 2
+conflict: C4
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept"]
 gathered: "2026-09-17"
 ---
 
@@ -38,3 +38,38 @@ which makes its escalation — see `protokoll-v14` — actively destructive.
 
 Whether anything else in the project has a blind spot of this shape, and whether
 it would be the same mechanism. Not answerable from this source.
+
+## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
+
+**A second bearer, and the same word.** This document gives a `Blinder Fleck`
+to each of five Guardians and makes it a consequence of their design:
+
+> „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians logisch aus
+> dessen Domäne und Funktion erwächst"
+> ^[guardians-und-kern-welten-konzept.md:L137]
+
+### Three kinds, typed by the document itself
+
+Not five variants of one failure. The document distinguishes them at
+^[guardians-und-kern-welten-konzept.md:L117] — Sophia's limit is „keine
+kategorische wie bei LogOS oder eine Fehlinterpretation wie bei
+Mnemosyne/Cerberus":
+
+| kind | Guardian | what fails |
+|---|---|---|
+| **categorical** | LogOS | the Partnerin cannot be represented at all — „ein fundamentaler *Kategorienfehler*, der in LogOS' Design verankert ist" ^[guardians-und-kern-welten-konzept.md:L28] |
+| **misinterpretation** | Mnemosyne | a present breach read as a past loss — „sieht die *Wunde*, verwechselt sie aber mit einer *Narbe*" ^[guardians-und-kern-welten-konzept.md:L53] |
+| **misinterpretation** | Cerberus | the unknown classified as hostile by default ^[guardians-und-kern-welten-konzept.md:L78] |
+| **contextual** | Kairos | sees the opportunity, not the necessity ^[guardians-und-kern-welten-konzept.md:L105] |
+| **incomplete knowledge** | Sophia | „fehlt ihr die entscheidende Information" ^[guardians-und-kern-welten-konzept.md:L117] |
+
+Only LogOS' is the *categorical* kind that document 3 argues for AEGIS.
+
+### Unmerged — see C4
+
+Document 3 argues the categorical blind spot for **AEGIS**; this one argues five
+for **the Guardians**, and neither document mentions the other's bearer. Whether
+these are one system at two scales is not answerable from what has been read.
+
+`Wiki/conflicts/c4-guardians-and-aegis.md` holds both positions and decides
+nothing.
