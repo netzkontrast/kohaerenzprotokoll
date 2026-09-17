@@ -69,13 +69,13 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**5 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **5
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **5
+**6 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **6
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **6
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-one `worldbuilding`, one `aegis`.
+two `worldbuilding`, one `aegis`.
 
-`Wiki/candidates/` holds **46 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
-holds **4 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
+`Wiki/candidates/` holds **56 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+holds **5 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 **4 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
@@ -88,13 +88,22 @@ has been promoted.
 | `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
 | `guardians-und-kern-welten-konzept` | 14 | 4 | 1 |
 | `aegis-subplots-kapitelweise-system-exploration-docx` | 0 | 2 | 0 |
+| `roman-lokalitaeten-konzept-und-ausarbeitung` | 10 | 17 | 1 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
 candidates matched no page and none became one. **A page created from an
 occurrence says nothing and looks like it says something.**
 
-`Plan/runs/judgements.jsonl` holds **32 <!--state:judgements.total--> judgements**
+**The sixth is the opposite case and it needed a rule.** It is a gazetteer: 51
+named locations, 49 of its 109 candidates matching no page. Creating all of them
+would have doubled the wiki from one document. The document supplies two
+mechanical criteria — a count of exactly 2 identifies a location it profiles, and
+a `Source` column per row says whether it invented the name — and a page was
+created only where both held. **The rule came from the document rather than from
+a preference**, and the 40 it excludes are recorded with their lines.
+
+`Plan/runs/judgements.jsonl` holds **45 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -203,8 +212,16 @@ advance what a new document is allowed to say.
 and prints only what no lookup settles. Cost per document is `O(census) +
 O(judgement)`, not `O(wiki)` — measured on document 4 against 32 pages: 22
 candidates, **3 surface groups folded to one term first, then 19 candidates, 15
-decided mechanically, 4 to judgement.** Reasoning:
+decided mechanically, 4 to judgement.** Document 6 is the scale test: 109
+candidates against 46 pages, **68 decided by lookup and 55 sent to judgement**,
+and the wiki's size entered none of it. Reasoning:
 `Plan/concept/reconciliation-by-lookup_2026-09-17.md`.
+
+**A reference on a wiki page names its document.** A bare `^[Lnn]` resolves
+against the page's single `ingested:` entry and stops being checked the moment a
+second one arrives — which is not hypothetical: adding document 6's readings to
+seventeen pages moved 95 verified quotations into the unchecked bucket silently.
+A census and a note carry `source:` and may use the bare form; a page may not.
 
 ### A quotation is checked against its line
 
@@ -220,17 +237,61 @@ markdown emphasis, blockquote wrapping, glued footnote numbers, inline
 attribution markers. It says how many quotes it could not check rather than
 counting them as passed.
 
-**And `python3 scripts/selftest.py` proves it can fail.** Six quotation cases and
-seven `fold()` pairs, each carrying the exact defect the checker must name, so a
-case that fails for the wrong reason fails the test. Nobody had ever seen either
-checker fail — which is the shape of the retired pipeline's worst defect: a
-coverage term that returned 1.0 whenever no gold fragments were passed, and was
-never passed any. Two live runs scored 0.987 and 0.967 on a number that could not
-fall for missing anything.
+**And `python3 scripts/read.py` serves the same text in the other direction, so
+the defect need not be written first.** It prints the document with every line
+prefixed by the file line a citation names, and `--find "<the words>"` answers
+with `^[Lnn]` — or refuses, naming the nearest line. Both directions run the same
+comparison on the same normalised line, so a citation `--find` produced passes
+`quotes.py` by construction. Checking afterwards names a defect; asking for the
+number instead of typing it is what stops one.
+
+**And `python3 scripts/selftest.py` proves they can fail.** Six quotation cases,
+four citation cases and seven `fold()` pairs, each carrying the exact defect the
+checker must name, so a case that fails for the wrong reason fails the test.
+Nobody had ever seen any of them fail — which is the shape of the retired
+pipeline's worst defect: a coverage term that returned 1.0 whenever no gold
+fragments were passed, and was never passed any. Two live runs scored 0.987 and
+0.967 on a number that could not fall for missing anything.
 
 **Conflict detection is never mechanised.** Two readings can only be compared by
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
 conflict.
+
+### The wiki links, and a link is not a mention
+
+Two marks, two meanings: `` `Nexus` `` names the term, `[[nexus]]` points at the
+page, and `[[nexus|Nexus-Vorstufe]]` points at it while leaving the prose exactly
+as it read. `scripts/relations.py` derives the graph from `[[…]]` and from
+nothing else, and reports a link pointing at no page rather than dropping it.
+
+```bash
+python3 scripts/relations.py              # the graph, the orphans, the open questions
+python3 scripts/relations.py --unmarked   # links the prose makes and the markup does not
+python3 scripts/link.py [--apply]         # mark them; dry run by default
+```
+
+**207 <!--state:wiki.relations--> links across
+56 <!--state:wiki.pages--> pages, 17 <!--state:wiki.orphans--> of them with
+nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
+described here as having no links, which was a statement about `[[…]]` syntax
+mistaken for a statement about linking. 48 links existed, written in backticks,
+and 158 more mentions were sitting unmarked — `aegis` was an orphan whose name
+stood unmarked in other pages 68 times.
+
+**A link is never inferred.** Every one marks a term the prose already wrote.
+Whether a model may propose an edge the prose does not state is a separate
+question, to be asked against this baseline rather than instead of it — a guessed
+edge is indistinguishable from a stated one once it is in the graph.
+
+**And the migration is why `quotes.py` was built first.** Its first pass put a
+link inside two quotations, because the quote mask was line-bounded and German
+quotations wrap. The check went 17 → 19 and named both. After the fix the pass
+was redone from a clean tree and the count was unchanged — which is the proof,
+and the only kind worth having.
+
+The 73 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+occurrence sits inside a quotation, a citation line or a heading. Those are
+places the pass may not touch, so that number is a measurement and not a backlog.
 
 ### A mechanised rule stays checkable
 
@@ -342,6 +403,60 @@ today — and is git-ignored. `scripts/sources.py` stays standard-library and
 shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
+
+Three venvs exist, all git-ignored, each for one reason:
+
+| venv | python | why |
+|---|---|---|
+| `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
+| `.venv-dspy` | 3.11 | DSPy 3.3.1, for when there is something to train |
+| `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
+
+```bash
+uv venv --python 3.12 .venv-dspytools
+uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools
+DSPYTOOLS_SKILLS_DIR=$PWD/.agents/skills .venv-dspytools/bin/dspytools skills list
+```
+
+Two packages make a `SKILL.md` written here reachable from DSPy rather than only
+from a person, and they do different halves of it:
+
+```bash
+# the runtime half — a ReAct agent that discovers, activates and uses skills
+uv pip install --python .venv-dspy/bin/python --no-deps \
+    git+https://github.com/netzkontrast/dspy-skills-implementation-
+uv pip install --python .venv-dspy/bin/python strictyaml
+
+# the management half — list, search, compile and optimise skills as artifacts
+uv venv --python 3.12 .venv-dspytools
+uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools
+```
+
+`dspy_skills.SkillManager([Path(".agents/skills")])` discovers all three skills
+here, and `generate_skills_prompt_block(manager)` renders the
+`<available_skills>` block a ReAct agent is given. **That block is built from the
+`description` field and nothing else** — which is why the description is the part
+worth optimising, and `dspy-book-coding-agents` optimises exactly that kind of
+text with GEPA's `optimize_anything`.
+
+`--no-deps` is load-bearing: the package asks for `dspy-ai>=2.5.0`, the old
+distribution name, and resolving it would move this venv off the pinned DSPy
+3.3.1.
+
+A third, `drg-kg`, is installed for one module only — its evaluation scorer,
+whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
+1.0. Its extraction and graph layers stay unused, because a canon link is
+written by a person and never inferred by a model — not because the wiki has no
+links. It has 207 <!--state:wiki.relations-->.
+
+```bash
+uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
+```
+
+**Nothing in the pipeline calls any of the three yet.** They are installed,
+reachable, and measured against this repository —
+`Plan/concept/continuous-improvement_2026-09-17.md` has what each is for and in
+what order.
 
 ## Changing your mind
 

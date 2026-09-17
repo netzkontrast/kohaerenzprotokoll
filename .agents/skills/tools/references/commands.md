@@ -17,11 +17,21 @@ any document is half-processed.
 
 | command | writes |
 |---|---|
+| `read.py <slug> [--from N --to M]` | the document to stdout, each line prefixed `NNN\|` |
+| `read.py <slug> --find "<words>"` | `^[Lnn]`, or a refusal naming the nearest lines — exit 1 |
 | `capture.py <slug>` | `Plan/runs/<slug>/01-profile.txt`, `02-probes.txt`, `run.md` |
 | `capture.py <slug> --count` | `04-counts.txt`, `counts.json` — refuses without `03-candidates.md` |
 | `profile.py <slug>` | structural facts to stdout |
 | `profile.py --frontmatter <slug>` | the census header, drawn from the manifest so no identifier is ever typed |
 | `reconcile.py <slug>` | `Plan/runs/<slug>/reconcile-pre.json` and a printed classification |
+
+`read.py` serves the same text in both directions and neither stores anything:
+the numbers it prints are **file** lines, the ones a citation names, and `--find`
+asks exactly the question `quotes.py` will ask later, through the same
+`missing_part` on the same normalised line. So a citation `--find` produced
+cannot fail the check. When it refuses it says why — the words are on no single
+line, or they span two, which cannot be cited at all because the line number is
+part of the claim.
 
 `04-counts.txt` reports each term **twice** — standing alone, and including
 compounds — because one number cannot answer it in German, and lists the
@@ -60,8 +70,15 @@ python3 scripts/trainset.py
   them.
 - `judgements.py` re-renders `Plan/runs/judgements.md` on every normal run, so
   the searchable copy cannot lag behind the `.jsonl` it derives from.
-- `relations.py` derives the page graph, the orphans and the open statements
-  harvested from every page's Open section.
+- `relations.py` derives the page graph from `[[slug]]` links, the orphans, the
+  open statements harvested from every page's Open section, and `--unmarked`:
+  where a page writes another page's term in prose and does not link it. A
+  backticked `` `Term` `` names a term and is **not** a link (decision 005).
+- `link.py` marks those, one link per page per target, and refuses to touch the
+  frontmatter, code, a heading, a blockquote, anything inside „…", or any line
+  carrying a `^[` citation. Dry run by default; `--apply` writes. Run
+  `quotes.py` after — the first pass broke two quotations and that is how they
+  were found.
 - `selftest.py` runs the checkers against deliberate defects and asserts **which**
   one each reports. It cites a real landed document, so the whole resolution path
   runs: frontmatter, slug lookup, export unescaping, emphasis, blockquote

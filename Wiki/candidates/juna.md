@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
 aliases: ["Julia"]
-ingested: ["entropie-aegis"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-16"
 ---
 
@@ -30,7 +30,7 @@ Michael ^[entropie-aegis.md:L96].
 
 ## The rename, and why hers is different
 
-The cut is the same single day as `kael` — 2025-04-17 all Julia, 2025-04-18 all
+The cut is the same single day as [[kael|Kael]] — 2025-04-17 all Julia, 2025-04-18 all
 Juna, no mixed document either side.
 
 But afterwards the two names behave differently:
@@ -40,7 +40,7 @@ But afterwards the two names behave differently:
 | `Michael` | 16 | 9 of them use it **exactly once** — leftovers |
 | `Julia` | 20 | median **2**, maximum **34** |
 
-One document written two days after the cut uses **Kael 45 times and Julia 34
+One document written two days after the cut uses **[[kael|Kael]] 45 times and Julia 34
 times.** That is not a missed find-and-replace. Something kept the old name for
 her alive.
 
@@ -55,3 +55,40 @@ them.
 Whether `Julia` and `Juna` are the same entity at all is **not settled by the
 rename**. A document that uses both in one sentence would settle it; none of the
 three read does.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
+
+24 occurrences, plus 8 of `Junas`, and one structural fact: she is the sixth
+level's `Verbindung`.
+
+> „Mysteriöse, externe Realitätsebene, die zur AEGIS-Welt kontrastiert. Quelle
+> potenzieller externer Einflüsse, eng mit Juna verbunden." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L177]
+
+Every other Realitätsebene's heading reads `Domäne: <bearer>`; hers reads
+`Verbindung: Juna` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L177]. See [[externe-ebene]], [[realitaetsebenen]].
+
+Three of the seven Externe-Ebene locations carry her name — `Junas Ankerpunkt`
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L236], `Junas Geheime Schnittstelle` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L241], and the `Quelle des Flüsterns`,
+„Ursprung der subtilen Hinweise oder Nachrichten von Juna" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L239].
+
+### She acts by influence, and the influence shows in the environment
+
+> „Auch Junas Einfluss könnte sich durch spezifische Umgebungsreaktionen
+> manifestieren." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L77]
+
+and Environmental Storytelling is proposed as the way to show „den subtilen
+Einfluss von Juna" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L89] without stating it.
+
+### The system may not be able to see her
+
+> „Unfähigkeit, bestimmte Anomalien (Juna?) korrekt darzustellen oder zu
+> lokalisieren." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L471]
+
+**The question mark is the document's.** It lists her beside Kael as one of the
+anomalies the monitor watches for ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L464] and then names her as the one it might
+fail on. See [[system-monitor]], [[blinder-fleck]].
+
+### Not here
+
+Who she is. The document never says whether she is a person, a process or a
+place, and never uses the name `Julia` this page carries as a surface.

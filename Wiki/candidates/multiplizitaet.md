@@ -20,7 +20,7 @@ document turns on**:
 > Entropie/Chaos?" ^[entropie-aegis.md:L95]
 
 So: multiplicity is what a fragmented psyche looks like when it is *not* a
-disorder. It is set against Entropie/Chaos, which is what AEGIS sees and acts
+disorder. It is set against [[entropie|Entropie]]/Chaos, which is what [[aegis|AEGIS]] sees and acts
 against.
 
 **The question is asked and not answered.** But the framing is itself the
@@ -29,7 +29,7 @@ not ask whether.
 
 ## Why this matters more than one occurrence suggests
 
-If healthy multiplicity and destructive entropy cannot be told apart, then AEGIS
+If healthy multiplicity and destructive entropy cannot be told apart, then [[aegis|AEGIS]]
 classifying `DID` as entropy is not an error, and the novel's central conflict
 loses its ground. The single sentence at L95 is where that hangs.
 

@@ -11,7 +11,7 @@ gathered: "2026-09-17"
 
 # Resonanz-Landschaft
 
-One of **four Kern-Welten** specified by a single document, each paired to a
+One of **four [[kern-welten|Kern-Welten]]** specified by a single document, each paired to a
 Guardian and filled out across the same eight fields.
 
 Until this document, `Kern-Welten` was a term two sources used and neither
@@ -32,23 +32,23 @@ Primarily experienced by the **Echo**-Persona ^[L60].
 
 This is the world's own governing principle turned against itself — emotion made dissonant.
 The document states one claim about `Risse` four times, in four vocabularies;
-see `risse`.
+see [[risse|Risse]].
 
 ### Partnerin-Echos here
 
 „die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels…" ^[L65]
 
-Every world gets this field, and it is where the Partnerin is characterised —
-by effect, never by identity. See `partnerin`.
+Every world gets this field, and it is where the [[partnerin|Partnerin]] is characterised —
+by effect, never by identity. See [[partnerin|Partnerin]].
 
 ## Guardian
 
-`Mnemosyne` — see `mnemosyne`. The pairing is the document's organising principle:
+`Mnemosyne` — see [[mnemosyne|Mnemosyne]]. The pairing is the document's organising principle:
 each section is a `Guardian/Welt-Paar`.
 
 ## Open
 
-How many Kern-Welten exist in total, whether each corresponds to one alter, and
+How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to one alter, and
 how these four relate to the worlds documents 1 and 3 refer to without naming.
-**`AEGIS` does not occur in this document**, so the relation to AEGIS'
+**`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
 containment of the Kern-Welten (document 3) is not answerable here.

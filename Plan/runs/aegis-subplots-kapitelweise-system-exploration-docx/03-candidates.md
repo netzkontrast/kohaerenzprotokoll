@@ -1,3 +1,5 @@
+written_by: a reader, while reading, before any count
+
 # Candidates — aegis-subplots-kapitelweise-system-exploration-docx
 
 Written while reading, before any count. One `- term` per line.

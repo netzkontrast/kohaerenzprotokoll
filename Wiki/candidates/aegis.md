@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 3
-readings: 4
+sources: 4
+readings: 5
 conflict: C1
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -103,9 +103,47 @@ naming the same role will share any characters with either.
 
 - **What the four sub-functions are.** Zero-Trust, Cognitive Firewall, Integrity
   Guardian and SIS are named in one parenthesis as already known
-  ^[entropie-aegis.md:L65] — see `aegis-teilfunktionen`.
+  ^[entropie-aegis.md:L65] — see [[aegis-teilfunktionen|AEGIS' four sub-functions]].
 - **What `Entropie` means**, which is the thing AEGIS regulates. The document
-  commissions that definition rather than giving it — see `entropie`.
+  commissions that definition rather than giving it — see [[entropie|Entropie]].
 
 So the foundational reading of the project's central term rests on a term the
 same document cannot define.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
+
+**47 occurrences, never defined, and one sentence of values.**
+
+> „Die Gestaltung sollte die Kernprinzipien von AEGIS – Ordnung, Integrität,
+> Effizienz – visuell und strukturell verkörpern." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49]
+
+Three nouns, asserted flat inside a design instruction. It is this document's
+only statement about what AEGIS is *for*, and it agrees with nothing and
+contradicts nothing already on this page.
+
+Structurally it places AEGIS precisely: the Überwelt is its `Domäne` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176], it
+is seated there with the Wächter, and the level's eight locations are its
+instruments — a monitor of all six levels ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L464], a chamber for managing entropy
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L229], a registry of Wächter parameters ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233], a `Datenfriedhof` it
+„meidet diesen Ort möglicherweise oder überwacht ihn nur lose" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L502].
+
+### The claim to omniscience is marked as a claim
+
+> „Verkörpert AEGIS' Allwissenheit (oder den Anspruch darauf) und seine
+> Kontrollfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L467]
+
+and the failure mode is named in the same profile: „Unfähigkeit, bestimmte
+Anomalien (Juna?) korrekt darzustellen oder zu lokalisieren" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L471]. See
+[[blinder-fleck]], [[system-monitor]].
+
+### What it does not say
+
+What AEGIS is, where it came from, whether it is conscious. The document uses the
+name as settled throughout and spends its argument on how to *depict* it —
+„Die Darstellung der abstrakten Funktionen von AEGIS […] sollte über reine
+Funktionalität hinausgehen und symbolisches Gewicht tragen, das seine
+wahrgenommene Natur – wohlwollender Wächter oder kontrollierende Instanz –
+reflektiert." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L59]
+
+That last pair is the alias this page already carries, offered here as two
+readings a depiction could take rather than as a claim about which is true.

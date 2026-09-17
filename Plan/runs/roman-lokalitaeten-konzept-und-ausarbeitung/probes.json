@@ -1,0 +1,396 @@
+{
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "drive_id": "1CsMXR0Fv8MsyeDQB6MS4WxIhXbolQ6y1UlgHynsFgqg",
+  "step": "probes",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 133,
+  "backslash_escapes": 77,
+  "typographic_marks": 19,
+  "ascii_quotes": 106,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabstürze",
+      "Systemansagen",
+      "Systemarchitektur",
+      "Systemautorität",
+      "Systemdaten",
+      "Systeme",
+      "Systemebene",
+      "Systemen",
+      "Systemfehlern",
+      "Systemfunktion",
+      "Systemgesetze",
+      "Systemgrenze",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemkontrolle",
+      "Systemlogik",
+      "Systemmanipulation",
+      "Systemprobleme",
+      "Systemprozessen",
+      "Systempräsenz",
+      "Systemregeln",
+      "Systems",
+      "Systemstress",
+      "Systemteile",
+      "Systemumgebung",
+      "Systemverwalter",
+      "Systemwarnungen",
+      "Systemzusammenbruchs"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbank",
+      "Datenebene",
+      "Datenfehler",
+      "Datenfluss",
+      "Datenfragmenten",
+      "Datenfriedhof",
+      "Datenintegrität",
+      "Datenknoten",
+      "Datenkonstrukte",
+      "Datenkorruption",
+      "Datenlandschaften",
+      "Datenleitungen",
+      "Datenlücken",
+      "Datenmuster",
+      "Datenmüll",
+      "Datennetzwerken",
+      "Datenrepräsentation",
+      "Datenstruktur",
+      "Datenstrukturen",
+      "Datenströme",
+      "Datenströmen",
+      "Datenstürme",
+      "Datenverarbeitung",
+      "Datenverarbeitungsknoten",
+      "Datenvisualisierungs",
+      "Datenwracks"
+    ],
+    "kontr": [
+      "Kontrapunkt",
+      "Kontrast",
+      "Kontrastfarben",
+      "Kontrastiert",
+      "Kontrolle",
+      "Kontrollfunktion",
+      "Kontrollkabinen",
+      "Kontrollkonsolen",
+      "Kontrollmechanismus",
+      "Kontrollpunkt",
+      "Kontrollpunkte",
+      "Kontrollraum",
+      "Kontrollräume",
+      "Kontrollräumen",
+      "Kontrollstationen",
+      "Kontrollsystemen",
+      "Kontrollverlust",
+      "Kontrollzentren"
+    ],
+    "chara": [
+      "Characters",
+      "Charakter",
+      "Charakterdesign",
+      "Charakterdetails",
+      "Charaktere",
+      "Charakteren",
+      "Charakterentwicklungen",
+      "Charakterfreiheit",
+      "Charaktergewohnheiten",
+      "Charakterisierung",
+      "Charakterkonzepte",
+      "Charakters",
+      "Charakterzustände",
+      "Charakterzüge"
+    ],
+    "archi": [
+      "ARCHITECTURE",
+      "Architectural",
+      "Architecture",
+      "Architekt",
+      "Architektonische",
+      "Architektur",
+      "Architekturen",
+      "Architekturstile",
+      "Archiv",
+      "Archivar",
+      "Archivars",
+      "Archive",
+      "Archivs"
+    ],
+    "inter": [
+      "Interactive",
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionskonsole",
+      "Interaktionspunkt",
+      "Interaktivität",
+      "Interface",
+      "Interfaces",
+      "Interiority",
+      "Interiorität",
+      "Interiors",
+      "Interpretation"
+    ],
+    "licht": [
+      "Licht",
+      "Lichter",
+      "Lichtflackern",
+      "Lichtgestaltung",
+      "Lichtgitter",
+      "Lichtkegeln",
+      "Lichtleiterbahnen",
+      "Lichtlinien",
+      "Lichtquelle",
+      "Lichts",
+      "Lichtsäule",
+      "Lichtverhältnisse"
+    ],
+    "infor": [
+      "Informant",
+      "Information",
+      "Informationen",
+      "Informationsdisplays",
+      "Informationsgesellschaft",
+      "Informationskomponenten",
+      "Informationskontrolle",
+      "Informationslandschaften",
+      "Informationspunkte",
+      "Informationsverarbeitung",
+      "Informationsvermittlung"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbole",
+      "Symbolen",
+      "Symbolic",
+      "Symbolik",
+      "Symbolische",
+      "Symbolischer",
+      "Symbolisiert",
+      "Symbolism",
+      "Symbolräumen",
+      "Symbols"
+    ],
+    "spiel": [
+      "Spiel",
+      "Spielen",
+      "Spieler",
+      "Spielerentscheidungen",
+      "Spielers",
+      "Spielertypen",
+      "Spiels",
+      "Spielzeug"
+    ],
+    "umgeb": [
+      "Umgebung",
+      "Umgebungen",
+      "Umgebungsdetails",
+      "Umgebungserschaffung",
+      "Umgebungsreaktion",
+      "Umgebungsreaktionen",
+      "Umgebungsrätseln",
+      "Umgebungsspuren"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeiter",
+      "Arbeitsbereich",
+      "Arbeitsgrundlage",
+      "Arbeitsplatz",
+      "Arbeitsplatzregeln",
+      "Arbeitsstationen"
+    ],
+    "ident": [
+      "Identifikation",
+      "Identifikations",
+      "Identify",
+      "Identity",
+      "Identitäten",
+      "Identitätskonflikten",
+      "Identitätsstruktur"
+    ],
+    "reali": [
+      "Reality",
+      "Realität",
+      "Realitäten",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsfragmenten",
+      "Realitätsverschiebungen"
+    ],
+    "unter": [
+      "Unterbewusstsein",
+      "Unterbewusstseins",
+      "Unterliegt",
+      "Unterordnung",
+      "Unterscheidung",
+      "Untersuchungsräume",
+      "Unterwasserwracks"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsebenen",
+      "Bewusstseinszustände",
+      "Bewusstseinszuständen",
+      "Bewusstwerdung"
+    ],
+    "durch": [
+      "Durch",
+      "Durchbrüche",
+      "Durchgang",
+      "Durchgänge",
+      "Durchquerenden",
+      "Durchsagen"
+    ],
+    "energ": [
+      "Energie",
+      "Energieentladung",
+      "Energieentladungen",
+      "Energieflüssen",
+      "Energielevel",
+      "Energieschildern"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsfragmente",
+      "Erinnerungskonstrukten",
+      "Erinnerungsmanipulation",
+      "Erinnerungssequenzen"
+    ],
+    "konze": [
+      "Konzentriert",
+      "Konzept",
+      "Konzeptdokumenten",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionelle"
+    ],
+    "limin": [
+      "Limina",
+      "Liminal",
+      "Liminale",
+      "Liminaler",
+      "Liminalität",
+      "Liminas"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychoanalysis",
+      "Psychologie",
+      "Psychologische",
+      "Psychologischer",
+      "Psychology"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwachungsmonitore",
+      "Überwachungssysteme",
+      "Überwachungssystemen",
+      "Überwelt",
+      "Überwindungsversuche"
+    ],
+    "abstr": [
+      "Abstract",
+      "Abstraction",
+      "Abstrakte",
+      "Abstrakter",
+      "Abstraktion"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrmaßnahmen",
+      "Abwehrmechanismen",
+      "Abwehrmechanismus",
+      "Abwehrreaktionen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Gelb",
+      "Regelbrecher"
+    ],
+    [
+      "Park",
+      "Themenpark"
+    ],
+    [
+      "Park",
+      "Themenparks"
+    ],
+    [
+      "Park",
+      "Parkinfrastruktur"
+    ],
+    [
+      "Game",
+      "Games"
+    ],
+    [
+      "Game",
+      "Gamefa"
+    ],
+    [
+      "Game",
+      "Gameplay"
+    ],
+    [
+      "Muse",
+      "Museum"
+    ],
+    [
+      "Muse",
+      "Museen"
+    ],
+    [
+      "Feld",
+      "Narbenfelder"
+    ],
+    [
+      "Logo",
+      "LogOS"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Riss",
+      "Rissen"
+    ],
+    [
+      "Duft",
+      "Beruhigungsduft"
+    ],
+    [
+      "Zone",
+      "Zonen"
+    ],
+    [
+      "Kalt",
+      "Kalte"
+    ],
+    [
+      "Wind",
+      "Windspiele"
+    ],
+    [
+      "Wind",
+      "Überwindungsversuche"
+    ],
+    [
+      "City",
+      "Simplicity"
+    ],
+    [
+      "Pfad",
+      "Pfade"
+    ]
+  ]
+}

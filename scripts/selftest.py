@@ -1,7 +1,7 @@
 """Prove the checkers can fail, with defects whose exact shape is asserted.
 
-`quotes.py` and `fold()` are trusted by everything downstream, and **nobody has
-ever seen either of them fail.** That is the same defect as the retired
+`quotes.py`, `read.py --find` and `fold()` are trusted by everything downstream,
+and **nobody had ever seen any of them fail.** That is the same defect as the retired
 pipeline's coverage term, which returned 1.0 whenever no gold fragments were
 passed and was never passed any: two live runs scored 0.987 and 0.967 on a
 number that could not fall for missing anything.
@@ -13,6 +13,9 @@ problems were reported would pass while reporting the wrong ones.
 The fixture cites a real landed document rather than a synthetic one, so the
 whole resolution path runs: frontmatter, slug lookup, export unescaping,
 emphasis stripping, blockquote wrapping and glued footnote numbers.
+
+The citation cases run the same path backwards. A refusal asserts *which* line it
+points at, because a refusal that shrugs is worth no more than a wrong number.
 
     python3 scripts/selftest.py
 """
@@ -26,6 +29,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 import quotes  # noqa: E402
+import read  # noqa: E402
+from subject import document  # noqa: E402
 from wiki_index import fold  # noqa: E402
 
 DOC = "aegis-subplots-kapitelweise-system-exploration-docx"
@@ -47,6 +52,22 @@ QUOTE_CASES = [
      '> „Untersucht Kernwelt 1 (Logik/LogOS) als direkte Manifestation von\n'
      '> AEGIS\' Kernverarbeitungsstil" ^[L152]'),
 ]
+
+# `read.py --find` is the other direction: given the words, produce the citation.
+# (needle, words, the lines it must answer with, the line a refusal must name).
+# A refusal is the half that matters, so each one asserts *which* line it points
+# at — a refusal that shrugs is no better than a wrong number.
+FIND_CASES = [
+    ("locates", "Die Natur eines Guardians - Autonomer Agent oder bloßes Werkzeug?",
+     [272], None),
+    ("declension-refused", "Die Natur einer Guardians", [], 272),
+    ("fabricated-refused", "Jeder Guardian gehorcht AEGIS ohne Ausnahme", [], None),
+]
+
+# A quote crossing two lines cannot be cited at all, and must be told so rather
+# than resolved against either half.
+SPAN_CASE = ("die Illusion von Normalität (Implizite Kontrolle). "
+             "Analyse des AEGIS-Fokus", (21, 22))
 
 # fold() must NOT merge these. Each is a distinction the wiki rests on.
 MUST_NOT_MERGE = [
@@ -83,6 +104,27 @@ def check_quotes() -> list[str]:
     return failures
 
 
+def check_find() -> list[str]:
+    doc = document(DOC)
+    failures = []
+    for needle, words, expect, nearest in FIND_CASES:
+        hits = read.locate(doc, words)
+        if hits != expect:
+            failures.append(f"{needle}: expected {expect or 'no line'}, got {hits or 'no line'}")
+            continue
+        if nearest is not None:
+            top = read.nearest(doc, words)
+            if not top or top[0][1] != nearest:
+                got = top[0][1] if top else "nothing"
+                failures.append(f"{needle}: refused, but pointed at L{got} instead of L{nearest}")
+    words, expect = SPAN_CASE
+    if read.locate(doc, words):
+        failures.append("spanning: resolved to a single line, which it does not fit on")
+    elif expect not in read.spans(doc, words):
+        failures.append(f"spanning: expected L{expect[0]}-{expect[1]}, got {read.spans(doc, words)}")
+    return failures
+
+
 def check_fold() -> list[str]:
     failures = []
     for a, b in MUST_NOT_MERGE:
@@ -95,12 +137,14 @@ def check_fold() -> list[str]:
 
 
 def main() -> int:
-    failures = check_quotes() + check_fold()
-    total = len(QUOTE_CASES) + len(MUST_NOT_MERGE) + len(MUST_MERGE)
+    failures = check_quotes() + check_find() + check_fold()
+    total = (len(QUOTE_CASES) + len(FIND_CASES) + 1
+             + len(MUST_NOT_MERGE) + len(MUST_MERGE))
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
-          f"({len(QUOTE_CASES)} quotation, {len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold)")
+          f"({len(QUOTE_CASES)} quotation, {len(FIND_CASES) + 1} citation, "
+          f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "
               "reporting what it claims to report.")

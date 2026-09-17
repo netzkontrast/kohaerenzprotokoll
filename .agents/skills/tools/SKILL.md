@@ -47,8 +47,20 @@ what a red one *means*:
 | `python3 scripts/quotes.py` | a quotation no longer resolves to the line it cites. Distinguishes *unresolved* from *uncheckable* and never conflates them |
 | `python3 scripts/duplicates.py` | a landed file is a near-copy of another. Should stay 0 after `dedupe.py` |
 | `python3 scripts/qmd_coverage.py` | a directory is in no collection, so it is silently unsearchable |
+| `python3 scripts/relations.py` | **BROKEN LINKS** — a `[[slug]]` pointing at no page. It also reports orphans and the mentions the markup does not mark |
+| `python3 scripts/link.py` | a page the prose connects and the markup does not. **Run it after any reconciliation that created pages** — ten new pages arrive linked to nothing |
 | `python3 scripts/sources.py check` | the manifest and the disk disagree, in either direction |
 | `python3 scripts/selftest.py` | **a checker stopped reporting what it claims to report.** Every other check on this list is only worth its output if this one passes |
+
+**A green check is worth what its coverage is worth.** Three guards here have
+been found reporting green over a gap they could not see: `state.py --prose`
+missed 8 of its 49 markers because a number that wrapped to the line above left
+its marker matching nothing; `capture.py` dropped every candidate over 40
+characters; and the retired pipeline's `coverage()` returned 1.0 whenever it was
+passed no gold. Each printed a pass. So when a check reports, **read what it says
+it could not check** — `quotes.py` separates *unresolved* from *uncheckable* and
+`state.py --prose` now names a marker nothing could read, precisely because
+neither number may quietly become the other.
 
 `selftest.py` is the one that guards the others. Each case carries the exact
 defect the checker must name — a declension error, a wrong line, a fabricated
@@ -91,12 +103,21 @@ python3 scripts/sources.py land --drive-id <id> --consume    # never open the sp
 
 python3 scripts/capture.py <slug>                # 01-profile, 02-probes, opens the run
 cat Plan/briefings/extract.md                    # procedural knowledge only, read BEFORE the document
-#   read the document with line numbers, writing Plan/runs/<slug>/03-candidates.md AS YOU GO
+python3 scripts/read.py <slug>                   # the document, every line prefixed NNN|
+#   write Plan/runs/<slug>/03-candidates.md AS YOU GO
 python3 scripts/capture.py <slug> --count        # 04-counts: two numbers per term, plus surfaces
 #   write Sources/terms/<slug>.md   (the census)
 #   write Sources/notes/<slug>.md   (the note, every quotation ^[Lnn])
+python3 scripts/read.py <slug> --find "<the words>"   # the citation, or a refusal
 python3 scripts/quotes.py Sources/notes/<slug>.md
 ```
+
+**Do not type a citation next to a quote — ask for it.** `--find` answers with
+`^[Lnn]` when the words are on one line, and refuses when they are not, naming
+the nearest line instead. A citation it produced passes `quotes.py` by
+construction: both ask the same question of the same normalised line. The three
+quotation defects the checker first found were all of one shape — right line,
+right meaning, wrong words — and that shape cannot survive being asked.
 
 Three refusals that are the point of the phase:
 

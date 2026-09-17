@@ -363,6 +363,77 @@ it:
   whole mechanism: without it, the next extraction starts blind and repeats the
   failure this step exists to prevent.
 
+## A model runs out of budget and reconstructs — and says so only in its reasoning
+
+**2026-09-17, the first `dspy.RLM` run, and it is the reason a candidate now has
+to carry a line.** The model was given the whole document with `NNN| ` prefixes
+and 14 REPL iterations. It spent them reading in slices, ran out before the end,
+and its reasoning then says:
+
+> „We have full document variable inaccessible except history outputs. Need
+> leverage all shown snippets … We can reconstruct from outputs."
+
+It was assembling the document from its own truncated scrollback and was about to
+hand the result over as a reading. **Nothing was written only because the answer
+failed to parse** — the model returned its content in `reasoning_content` with
+`text: None`, which DSPy's adapter rejects.
+
+That is luck, not a safeguard. A reconstruction is exactly what `trainset.py`
+refuses four candidate lists for, and from a model it is **invisible**: the list
+looks the same, the terms are plausible, and nothing in the output says which
+half was read and which half was inferred.
+
+So the fix is not a better prompt. **Each candidate must come back as
+`- term  ^[Lnn]`, and every line is checked against the document** by the same
+comparison `quotes.py` uses. A candidate whose cited line does not contain it is
+reported as unverified rather than dropped, an uncited one is reported as
+uncited, and the header records the ratio — a list that is mostly unverified
+names itself `PARTLY RECONSTRUCTED` in the field `state.py` reads.
+
+The model is also asked to end with `- UNREAD <what>` if it did not finish. **An
+incomplete reading is a fact and a usable one; a complete-looking reconstruction
+is neither.**
+
+## The ceiling: two readers of one document agree at F1 0.66
+
+**Measured 2026-09-17, and it is the number every later score has to be read
+against.** Two independent readings of
+`orte-konzept-fuer-kohaerenz-protokoll` — same document, same process, neither
+seeing the other — produced candidate lists of **131 and 113**. Compared by this
+project's own `fold()`:
+
+| | |
+|---|--:|
+| shared | **80** |
+| only in the first | 51 |
+| only in the second | 33 |
+| precision / recall / F1 | 0.71 / 0.61 / **0.66** |
+
+A second pair, on `roman-lokalitaeten-konzept-und-ausarbeitung`, produced **109
+against 143** candidates and one of the two raised a conflict the other did not
+see at all.
+
+**So „the model scored 0.7 against the gold list" says almost nothing on its own,
+because a careful reader scores 0.66 against another careful reader.** A single
+candidate list is one reading, not the truth, and a metric that treats it as
+truth is measuring agreement with one person and calling it accuracy.
+
+What follows:
+
+- **A miss is not automatically an error and an invention is not automatically
+  wrong.** Both directions need looking at, which is why `rlm_ingest.py --score`
+  prints the two difference lists by name rather than only the number.
+- **A model at 0.66 is at the human ceiling**, not at „two thirds right". A model
+  clearly *above* it would be suspicious — most likely fitted to one reader.
+- **The gold set should be the union of independent readings, with disagreements
+  kept**, not one list declared canonical. Nothing is built for that yet, and it
+  is the honest shape.
+
+This is also the first hard evidence for why the census is frozen before the wiki
+is consulted: if a second reader sees a third of the candidates differently, then
+an accumulated wiki whispering „look for these" would not be a help, it would
+decide the outcome.
+
 ## What stays judgement
 
 - **Whether a descriptor is a term.** `Kontrollinstanz` appears 3 times and
@@ -400,3 +471,84 @@ it:
   step's entire justification, and it is unproven until document 2.
 - How much of the census is noise the author never wants to see.
 - Whether the eight special cases above are the whole set or the first eight.
+
+---
+
+## Document 6 — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2026-09-17
+
+**109 candidates in 631 lines, and 51 of them are names of places.** The first
+document read here whose main structure is a table rather than prose, and the
+first where the *shorter* passage is the one that asserts.
+
+### The finding no question in the briefing anticipated
+
+**Occurrence count separated the document's two registers without reading
+anything.** Every one of the 51 location names occurs either exactly once — in
+the master table — or exactly twice, once in the table and once as a profile
+heading. A count of 2 identifies a profiled location, a count of 1 a listed one,
+and the split is 17 / 34.
+
+That is a mechanical proxy for „how much does this document say about this
+term", and it cost nothing: it fell out of `04-counts.txt` unasked.
+
+**The briefing has no question that would have produced it.** Its surface and
+boundary questions are about *one thing wearing several names*; this is about
+*one name appearing in several places*, which turns out to be a stance signal in
+a document with a fixed template. Worth a question if a second templated document
+shows the same thing.
+
+### The second finding, and it came from the profile rather than the reading
+
+`scripts/profile.py` reported ten repeated labels at two different heights — five
+at 18 and five at 17. The reading had not noticed. The cause: **the document
+defines an eleven-field template once, in German, and then renames five of the
+eleven fields in every instance** — `Atmosphäre/Stimmung` becomes
+`Atmosphäre/Mood`, `Design-Inspirationen` becomes `Design Inspirations`.
+
+A label census matching on the definition would have found each of those five
+once and concluded the field was unused. **The two heights were the whole tell**,
+and only a count produced them.
+
+### The count corrected three things and one of them was a `0`
+
+| term | word | incl. | what it meant |
+|---|--:|--:|---|
+| `Guardian` | 0 | 0 | genuinely absent, and that was the document's biggest single fact |
+| `Anomalie` | 0 | 7 | present seven times, only as `Anomalien` |
+| `Lokalitäten-Profil` | 0 | 2 | present twice, only inflected |
+
+**Two zeros meaning „written differently" and one meaning „absent", in one
+document.** The surface listing `capture.py` added after document 5 is what
+distinguished them, and without it all three look identical.
+
+### The substring trap the probes predicted and the reading caught first
+
+`Limina` is an Alter; `Liminale Räume` is craft theory the document cites to
+external references 64–66. They share five letters, the count merges them (9
+standing alone against 19 including the theory), and **the reference list is what
+settles it**: a candidate whose extra hits are cited to a footnote is two terms,
+not one. Recorded as `J38`.
+
+Same shape, weaker: `Muse` inside `Museum` and `Museen`, in a gallery profile.
+
+### A provenance marker, and it is the first one in the corpus
+
+The master table carries a `Source` column per row — `Explorative V2` 30,
+`Plot Teil 1` 12, `Konzept Doc` 8, `Kontext` 1. **The document says, row by row,
+which names it invented and which it inherited.** Nothing else read here does
+that, and it turned out to be the deciding criterion for which locations became
+pages.
+
+**Watch for:** whether any other document self-reports provenance per item. If
+two more do, it is a construct worth a field rather than a lucky property of one
+table.
+
+### On the briefing
+
+No new question is added yet. The two findings above are both about *templated*
+documents, and one document is not a pattern. If a second templated document
+repeats either, the questions to add are:
+
+- Does the document repeat a fixed template? Do its instances agree with its
+  definition, field name by field name?
+- Does a candidate's occurrence count separate the document's registers?

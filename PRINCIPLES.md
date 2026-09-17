@@ -106,12 +106,51 @@ was actually verified.
 
 ---
 
+**P23 — Measure how much of itself a guard actually covers.**
+A guard that covers less than it claims is worse than no guard, because it
+reports green over the gap. *Evidence, three in one session:* `state.py --prose`
+could not see **8 of its 49 markers** — the pattern forbade a newline between the
+number and its marker, so a wrapped number left the marker matching nothing,
+`order.holds` among them, while the check printed „0 prose claims contradict the
+repository". `capture.py` dropped every candidate over 40 characters, and of 28
+long lines all 24 that are prose were already caught by `PROSE` and all 4 that
+were terms were not. And the retired pipeline's `coverage()` returned 1.0
+whenever no gold fragments were passed. Every one of them printed a pass. **So
+count the guard's own inputs and report the ones it could not read** — 46 claims,
+46 readable, 0 blind — and never let „could not check" collapse into „checked".
+
+**P24 — Done is a measurement, not a flag.**
+A completed step records the state it ran against; whether it is *still* done is
+then derived rather than remembered. *Evidence:* `account.py order` required the
+wiki's page count to increase between runs. Document 5 correctly promoted
+nothing, so document 6 legitimately began where 5 began and the check called a
+correct run stale — **growth was never the invariant, the chain is.** The same
+shape reversed: merging document 6 left the wiki at 56 pages and silently
+invalidated two finished reconciliations that had recorded 46. Neither case
+needed remembering; both are a comparison of two numbers already on disk.
+
+**P25 — Repair a derived layer by re-deriving it, never by hand.**
+*Evidence:* merging a branch that added readings into one that had added
+`[[links]]` conflicted on the same lines. Taking the readings and re-running
+`link.py` resolved it exactly, because the link layer is a function of the prose.
+Hand-merging would have produced a third thing that was neither.
+
 ## Working with sources
 
 **P12 — Quote, do not paraphrase.**
 A derived page carries the source's own words with a resolvable line range. A
 paraphrase presented as a quotation is the single most-broken rule in the one
 real pilot run this project has had.
+
+**P26 — Ask for an identifier; never type one.**
+A wrong identifier looks exactly like a right one, so the defence is not care —
+it is having somewhere to ask. *Evidence:* a `drive_id` was fabricated once,
+which is why `profile.py --frontmatter` draws it from the manifest. The same
+shape in citations: `quotes.py` found quotations right about the line and the
+meaning and **wrong about the words**, so `read.py --find` answers a quote with
+its line, or refuses and names the nearest — and because both run the same
+comparison over the same normalised line, a citation it produced cannot fail the
+check. Checking afterwards names a defect; asking instead of typing prevents one.
 
 **P13 — Never merge readings into one definition.**
 Where two sources say different things about one term, the page holds both,
@@ -137,6 +176,17 @@ the task — one returned a 404, the other was restricted to another harness.
 **P16 — Measure per step, never globally.**
 A model good at extraction can be bad at merging. Model choice comes from a
 benchmark against *that step's* fixture and *that step's* metric.
+
+**P27 — Establish the human ceiling before scoring a model.**
+A gold set is one reading, not the truth, and a metric that treats it as truth
+measures agreement with one person. *Evidence:* two independent readings of one
+document, same process, neither seeing the other, produced **131 and 113
+candidates with 80 shared** — precision 0.71, recall 0.61, **F1 0.66**. A second
+pair on another document gave 109 against 143, and one of the two raised a
+conflict the other never saw. So a model at 0.66 is **at** the ceiling, not two
+thirds right, and one clearly above it is most likely fitted to a single reader.
+Report both difference lists by name: a miss is not automatically an error and an
+invention is not automatically wrong.
 
 **P17 — Benchmark the real thing.**
 Score the actual program with the actual metric a real run is judged by. A
@@ -217,6 +267,7 @@ rather than a re-derivation.
 
 | idea | belongs in | what it is |
 |---|---|---|
+| **A derived task queue** | tool | Work triggers work: one merge invalidated two finished reconciliations, left ten pages unlinked and moved a baseline, and only one of the four was intended. A task is `(verb, subject)`, derived by a rule the way a measurement is, with `ready` / `blocked` / `stale`. **Done is a measurement, not a flag** (P24), so it cannot go stale in a list. `Plan/concept/task-queue_2026-09-17.md`. **Waits for two more instances**; one is a story. |
 | **Authority ordering on conflict** | schema value, not prose | An explicit precedence list. The subtle part worth keeping: already-written prose wins on *details*, and the correct response is to report rather than rewrite. |
 | **Research → canon as a traceable chain** | schema fields | real principle → what it claims about reality → the creative analogy → what it fills. `canon_status` records *that* something was checked, never *how* the bridge was built. |
 | **"Derived or imported?"** | reference + review question | Does this description follow from the world's premises, or was it carried in from familiar context? Applies hardest to humans in unfamiliar settings. |

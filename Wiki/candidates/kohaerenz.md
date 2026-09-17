@@ -26,7 +26,7 @@ And the quantity it is measured by:
 > Systems gemessen werden – dem Gegenteil von Entropie." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27]
 
 **This is a property of a running system**, not of a belief or an argument. What
-AEGIS monitors, and what it loses when the bond breaks.
+[[aegis|AEGIS]] monitors, and what it loses when the bond breaks.
 
 ## Note on why this page did not exist earlier
 

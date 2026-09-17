@@ -11,11 +11,11 @@ gathered: "2026-09-17"
 
 # Personas
 
-The consciousness instances the Guardians watch over. 18 occurrences.
+The consciousness instances the [[guardians|Guardians]] watch over. 18 occurrences.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
-Glossed once, beside a second term in the same clause — Cerberus protects
+Glossed once, beside a second term in the same clause — [[cerberus|Cerberus]] protects
 „der einzelnen Bewusstseinsinstanzen (Personas)" ^[L74]. That parenthesis is
 the only definition offered.
 
@@ -23,12 +23,12 @@ Each Kern-Welt names the Persona that primarily experiences it:
 
 | Persona | world | line |
 |---|---|--:|
-| Architekt | Konstrukt-Stadt | 35 |
-| Echo | Resonanz-Landschaft | 60 |
-| Wächter | Grenzfeste | 85 |
-| Funke · Sucher | Möglichkeits-Garten | 124 |
+| Architekt | [[konstrukt-stadt|Konstrukt-Stadt]] | 35 |
+| Echo | [[resonanz-landschaft|Resonanz-Landschaft]] | 60 |
+| Wächter | [[grenzfeste|Grenzfeste]] | 85 |
+| Funke · Sucher | [[moeglichkeits-garten|Möglichkeits-Garten]] | 124 |
 
-**Six Persona names for four worlds**, because the Möglichkeits-Garten has two.
+**Six Persona names for four worlds**, because the [[moeglichkeits-garten|Möglichkeits-Garten]] has two.
 
 ## Not to be confused with the Modi
 
@@ -39,6 +39,6 @@ here.
 
 ## Open
 
-How many Personas exist, whether each maps to one alter of Kael's DID, and how
+How many Personas exist, whether each maps to one alter of [[kael|Kael]]'s DID, and how
 `Bewusstseinsinstanz` differs from `Persona` if at all — the document treats
 them as the same thing in one parenthesis and never returns to it.

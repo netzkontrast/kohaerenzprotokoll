@@ -12,13 +12,12 @@ One directory per document under Plan/runs/<slug>/:
     03-candidates.md   written by hand WHILE READING, before any counting
     04-counts.txt      occurrences of everything in 03, derived
     05-verify.txt      every number that went into prose, re-checked
-    run.md             timings, and what is missing
 
 Step 03 is the one that matters most and the only one a program cannot produce.
 It is the human baseline: what a reader proposed before a count could bias them.
 
 Usage:
-    python3 scripts/capture.py <slug>            # writes 01 and 02, and run.md
+    python3 scripts/capture.py <slug>            # writes 01 and 02
     python3 scripts/capture.py <slug> --count    # reads 03, writes 04
 """
 
@@ -56,13 +55,21 @@ def candidate_terms(markdown: str) -> list[str]:
     bullets are sentences, not terms. Reading every `- ` line counted nine of
     those as candidates and reported them at 0 occurrences, which looks exactly
     like a term the document turned out not to contain.
+
+    **There was a `len(term) <= 40` guard here and it removed real candidates.**
+    `Bibliothek der Ungeschriebenen Geschichten` is 42 characters and a term.
+    Measured over every candidate list in `Plan/runs/`: 28 `- ` lines exceed
+    forty characters, **all 24 that are prose match `PROSE`, and all 4 that are
+    terms match none of it.** The guard never removed anything `PROSE` had not
+    already removed, and it was silently dropping the rest. Length is not the
+    signal; punctuation is.
     """
     out = []
     for line in markdown.split("\n"):
         if not line.startswith("- "):
             continue
         term = line[2:].strip()
-        if term and len(term) <= 40 and not PROSE.search(term):
+        if term and not PROSE.search(term):
             out.append(term)
     return out
 

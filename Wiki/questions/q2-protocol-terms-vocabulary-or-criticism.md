@@ -12,7 +12,7 @@ gathered: "2026-09-17"
 **Seven pages ask this, in identical words**, because one document introduced all
 seven terms and did nothing but evaluate them:
 
-`ani` · `ars` · `ecr` · `nullpunkt-protokoll` · `pms` · `rsa` · `snk`
+[[ani|ANI — Äußere Nicht-Identifikation]] · [[ars|ARS — Autopoietische Reentry-Segmentierung]] · [[ecr|ECR — Entropische Kohärenzregulation]] · [[nullpunkt-protokoll|Nullpunkt-Protokoll]] · [[pms|PMS — Protomemetische Speicherbildung]] · [[rsa|RSA — Rekursive semantische Autogenese]] · [[snk|SNK — Strukturierte Nicht-Kontrolle]]
 
 Each page says the same thing: *„Whether any later source uses this protocol as
 project vocabulary rather than as something being evaluated. Until one does, the

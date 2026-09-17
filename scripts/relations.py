@@ -2,14 +2,23 @@
 
 Two things are already written on every page and neither is machine-readable:
 
-**Relations.** A page mentions another page as `` `slug` ``. 45 such mentions
-exist across 46 pages — and **22 pages nothing mentions at all.** The wiki is a
-list of terms with a very sparse graph over it, and that is not cosmetic: the
-three hardest open problems are all *relation* questions, not term questions.
+**Relations.** A page links another as `[[slug]]`, or `[[slug|as the prose reads
+it]]`. Backticks mean something else and now only that: `` `Nexus` `` names a
+term, it does not point at a page. Both were the same mark until the two meanings
+were separated, which is why the graph could not distinguish a cross-reference
+from a word in code font. The three hardest open problems are all *relation*
+questions rather than term questions:
 
     C4   what is the relation between the Guardians and AEGIS?
     J18  are `Nexus` and `Überraum` one space?
     J13  is `Kael-Julia-Bindung` what the corpus calls this thing?
+
+**And the markup undercounts the wiki badly.** `--unmarked` finds every place a
+page writes another page's *term* in prose without marking it, and there are
+three times as many of those as there are marked links. `aegis` is the clearest
+case: nothing links to it, and its term is written in the prose of a dozen other
+pages. A page that reads as connected and measures as an orphan is a markup
+problem, not a content problem, and only the second kind is worth writing.
 
 `account(subject, question)` has subjects for a document, a term, a pair of
 surfaces, the corpus and the pipeline's order. It has none for a relation, which
@@ -34,6 +43,7 @@ question, to be asked against this baseline rather than instead of it.
 Usage:
     python3 scripts/relations.py              # the graph and the queue
     python3 scripts/relations.py --orphans    # pages nothing links to
+    python3 scripts/relations.py --unmarked   # links the prose makes and the markup does not
     python3 scripts/relations.py --open       # every open question, by page
     python3 scripts/relations.py --json
 """
@@ -52,26 +62,67 @@ PAGES = ROOT / "Wiki" / "candidates"
 OPEN_HEAD = re.compile(r"^##+ .*\bOpen\b.*$", re.M | re.I)
 NEXT_HEAD = re.compile(r"^##+ ", re.M)
 SENTENCE = re.compile(r"(?<=[.?])\s+")
+TICKED = re.compile(r"`[^`]*`")
+LINK = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]")
+SHORTEST_TERM = 4
 
 
 @lru_cache(maxsize=1)
 def graph() -> dict:
     """Pages, the mentions between them, and what nothing mentions."""
     slugs = sorted(p.stem for p in PAGES.glob("*.md"))
+    known = set(slugs)
     edges: list[tuple[str, str]] = []
+    broken: list[tuple[str, str]] = []
     for path in sorted(PAGES.glob("*.md")):
         body = path.read_text(encoding="utf-8")
-        for other in slugs:
-            if other != path.stem and f"`{other}`" in body:
-                edges.append((path.stem, other))
+        for target in dict.fromkeys(LINK.findall(body)):
+            if target == path.stem:
+                continue
+            (edges if target in known else broken).append((path.stem, target))
     linked_to = {target for _, target in edges}
     return {
         "pages": slugs,
         "edges": edges,
+        "broken": broken,
         "orphans": [s for s in slugs if s not in linked_to],
         "isolated": [s for s in slugs
                      if s not in linked_to and not any(a == s for a, _ in edges)],
     }
+
+
+def term_of(slug: str) -> str:
+    """The term a page is about, from its frontmatter, falling back to the slug."""
+    head = (PAGES / f"{slug}.md").read_text(encoding="utf-8")[:600]
+    match = re.search(r"^term:\s*(.+)$", head, re.M)
+    return match.group(1).strip().strip('"') if match else slug
+
+
+@lru_cache(maxsize=1)
+def unmarked() -> list[tuple[str, str, int]]:
+    """(source, target, times) where a page writes another's term and does not mark it.
+
+    Only prose outside backticks counts, so an already-marked link is never
+    reported twice, and a term shorter than SHORTEST_TERM is skipped for the
+    same reason every comparison here has a length guard: a short string is a
+    substring of far too much.
+    """
+    slugs = sorted(p.stem for p in PAGES.glob("*.md"))
+    terms = {s: term_of(s) for s in slugs}
+    linked = {edge for edge in graph()["edges"]}
+    found = []
+    for path in sorted(PAGES.glob("*.md")):
+        prose = TICKED.sub("", LINK.sub("", path.read_text(encoding="utf-8")))
+        for other in slugs:
+            if other == path.stem or len(terms[other]) < SHORTEST_TERM:
+                continue
+            if (path.stem, other) in linked:
+                continue
+            hits = len(re.findall(
+                rf"(?<![\w-]){re.escape(terms[other])}(?![\w-])", prose))
+            if hits:
+                found.append((path.stem, other, hits))
+    return found
 
 
 @lru_cache(maxsize=1)
@@ -94,13 +145,32 @@ def open_questions() -> list[dict]:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--orphans", action="store_true")
+    parser.add_argument("--unmarked", action="store_true")
     parser.add_argument("--open", dest="show_open", action="store_true")
     parser.add_argument("--json", action="store_true")
     args = parser.parse_args()
 
     g, q = graph(), open_questions()
     if args.json:
-        print(json.dumps({"graph": g, "open_questions": q}, indent=2, ensure_ascii=False))
+        print(json.dumps({"graph": g, "open_questions": q,
+                          "unmarked": unmarked()}, indent=2, ensure_ascii=False))
+        return 0
+
+    if args.unmarked:
+        rows = unmarked()
+        inbound: dict[str, int] = {}
+        for _, target, hits in rows:
+            inbound[target] = inbound.get(target, 0) + hits
+        print(f"{len(rows)} unmarked mentions against {len(g['edges'])} marked links.\n")
+        for slug in sorted(g["orphans"], key=lambda s: -inbound.get(s, 0)):
+            if inbound.get(slug):
+                print(f"  {slug:28} 0 marked in, {inbound[slug]} unmarked")
+        never = [s for s in g["orphans"] if not inbound.get(s)]
+        print(f"\n  {len(never)} orphans no page mentions at all, marked or not:")
+        print("    " + ", ".join(never))
+        print("\n  For some of these the isolation is the finding. The protocol terms"
+              "\n  are asked about in Q2 precisely because one document introduced them"
+              "\n  and did nothing but evaluate them.")
         return 0
 
     if args.orphans:
@@ -122,11 +192,16 @@ def main() -> int:
         return 0
 
     print(f"pages           {len(g['pages'])}")
-    print(f"relations       {len(g['edges'])}  (a page naming another as `slug`)")
+    print(f"relations       {len(g['edges'])}  (a page linking another as [[slug]])")
+    if g["broken"]:
+        print(f"BROKEN LINKS    {len(g['broken'])}  pointing at no page: "
+              + ", ".join(sorted({t for _, t in g['broken']})))
     print(f"orphans         {len(g['orphans'])}  nothing links to them")
     print(f"isolated        {len(g['isolated'])}  no link in and none out")
     print(f"open questions  {len(q)}  across {len({r['page'] for r in q})} pages")
-    print("\n  --orphans, --open, --json")
+    print(f"unmarked        {len(unmarked())}  a page's term written in another's "
+          f"prose, not marked")
+    print("\n  --orphans, --unmarked, --open, --json")
     print("  Derived from what pages already say. No relation is invented here.")
     return 0
 

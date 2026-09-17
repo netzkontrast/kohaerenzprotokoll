@@ -12,7 +12,7 @@ gathered: "2026-09-17"
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
-AEGIS cannot perceive the Kael-Julia bond, and the source is explicit that this is
+[[aegis|AEGIS]] cannot perceive the Kael-Julia bond, and the source is explicit that this is
 not a gap but a category:
 
 > „AEGIS' Blindheit ist somit fundamental und nicht akzidentiell. Es handelt sich
@@ -32,7 +32,7 @@ The last is load-bearing:
 ## The consequence the source draws
 
 AEGIS reacts to symptoms it can see and misdiagnoses their cause ^[L82, L177],
-which makes its escalation — see `protokoll-v14` — actively destructive.
+which makes its escalation — see [[protokoll-v14|Protokoll v1.4]] — actively destructive.
 
 ## Open
 
@@ -42,7 +42,7 @@ it would be the same mechanism. Not answerable from this source.
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
 **A second bearer, and the same word.** This document gives a `Blinder Fleck`
-to each of five Guardians and makes it a consequence of their design:
+to each of five [[guardians|Guardians]] and makes it a consequence of their design:
 
 > „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians logisch aus
 > dessen Domäne und Funktion erwächst"
@@ -63,12 +63,12 @@ Mnemosyne/Cerberus":
 | **contextual** | Kairos | sees the opportunity, not the necessity ^[guardians-und-kern-welten-konzept.md:L105] |
 | **incomplete knowledge** | Sophia | „fehlt ihr die entscheidende Information" ^[guardians-und-kern-welten-konzept.md:L117] |
 
-Only LogOS' is the *categorical* kind that document 3 argues for AEGIS.
+Only [[logos|LogOS]]' is the *categorical* kind that document 3 argues for [[aegis|AEGIS]].
 
 ### Unmerged — see C4
 
 Document 3 argues the categorical blind spot for **AEGIS**; this one argues five
-for **the Guardians**, and neither document mentions the other's bearer. Whether
+for **the [[guardians|Guardians]]**, and neither document mentions the other's bearer. Whether
 these are one system at two scales is not answerable from what has been read.
 
 `Wiki/conflicts/c4-guardians-and-aegis.md` holds both positions and decides

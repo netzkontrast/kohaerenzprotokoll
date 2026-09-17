@@ -152,6 +152,13 @@ def _wiki_orphans() -> int:
     return len(graph()["orphans"])
 
 
+@measure("wiki.unmarked",
+         "a page's term written in another page's prose without being marked a link")
+def _wiki_unmarked() -> int:
+    from relations import unmarked
+    return len(unmarked())
+
+
 @measure("wiki.open_statements", "statements under an Open heading, the question harvest")
 def _wiki_open() -> int:
     from relations import open_questions
@@ -238,9 +245,25 @@ def _ts_base() -> int:
 
 @measure("trainset.gold_candidate_lists", "candidate lists written while reading, not reconstructed")
 def _ts_gold() -> int:
+    """A list says who wrote it. Absent that, the old substring test decides.
+
+    The test used to be „does the first 300 characters contain 'reconstruct'",
+    which is a claim about wording rather than about provenance: a list whose
+    prose *denies* being a reconstruction matches it, and a model's list that
+    never says the word passes as gold. The four lists from documents 1-4 predate
+    the marker and still fall back to the substring, because for them the
+    substring is what the file actually says.
+    """
     runs = ROOT / "Plan" / "runs"
-    return sum(1 for p in runs.glob("*/03-candidates.md")
-               if "reconstruct" not in p.read_text(encoding="utf-8")[:300].lower())
+    gold = 0
+    for path in runs.glob("*/03-candidates.md"):
+        head = path.read_text(encoding="utf-8")[:300]
+        written_by = re.search(r"^written_by:\s*(.+)$", head, re.M)
+        if written_by:
+            gold += "reader" in written_by.group(1).lower()
+        elif "reconstruct" not in head.lower():
+            gold += 1
+    return gold
 
 
 # ---------------------------------------------------------------- driver
@@ -260,10 +283,19 @@ def value(key: str):
     return _REGISTRY[key][1]()
 
 
-MARKER = re.compile(r"(?P<number>[\d,]+|true|false|True|False)\**[^\n\d]{0,40}?<!--\s*state:(?P<key>[a-z_.]+)\s*-->")
+# The number may sit on the line above its marker -- prose wraps, and a marker is
+# written where the sentence needs it. `[^\n\d]` here meant a wrapped number left
+# its marker matching nothing, so the marker was **not checked and looked
+# checked**: 8 of 49 markers in this repository were in that state, including
+# `order.holds`. A guard that silently covers less than it claims is the same
+# defect as the retired pipeline's coverage term.
+MARKER = re.compile(r"(?P<number>[\d,]+|true|false|True|False)\**[^\d]{0,40}?<!--\s*state:(?P<key>[a-z_.]+)\s*-->")
+ANY_MARKER = re.compile(r"<!--\s*state:([a-z_.]+)\s*-->")
+IN_CODE = re.compile(r"`[^`\n]*`")
 
 
-SKIP = {"Legacy", ".venv-tools", ".venv-dspy", ".qmd", ".tools-node", ".git"}
+SKIP = {"Legacy", ".venv-tools", ".venv-dspy", ".venv-dspytools", ".qmd",
+        ".tools-node", ".git", "worktrees", "node_modules"}
 
 
 def marked_files() -> list[Path]:
@@ -287,7 +319,24 @@ def check_prose(paths: list[Path]) -> list[dict]:
     for path in paths:
         if not path.exists():
             continue
-        for match in MARKER.finditer(path.read_text(encoding="utf-8")):
+        text = path.read_text(encoding="utf-8")
+        # A marker nothing could read is reported rather than skipped. One inside
+        # backticks is prose *about* markers -- this page explains its own format --
+        # and is not a claim in either direction, so both loops step over it. The
+        # relaxed number pattern would otherwise bind `<!--state:key-->` to whatever
+        # digit happened to stand a line above it.
+        code = [(m.start(), m.end()) for m in IN_CODE.finditer(text)]
+        readable = {m.start("key") for m in MARKER.finditer(text)}
+        for stray in ANY_MARKER.finditer(text):
+            if stray.start(1) in readable:
+                continue
+            if any(a <= stray.start() < b for a, b in code):
+                continue
+            problems.append({"file": path, "key": stray.group(1),
+                             "why": "no number this check can read stands before it"})
+        for match in MARKER.finditer(text):
+            if any(a <= match.start("key") < b for a, b in code):
+                continue    # documentation of the format, not a claim
             key = match.group("key")
             if key not in current:
                 problems.append({"file": path, "key": key, "why": "no such measurement"})

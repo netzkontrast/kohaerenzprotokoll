@@ -22,7 +22,7 @@ Not noise, but the end of pattern:
 
 ## How it arrives
 
-Four stages, and the source is careful that none of them is Kael's DID:
+Four stages, and the source is careful that none of them is [[kael|Kael]]'s DID:
 
 | stage | line |
 |---|---|
@@ -36,5 +36,5 @@ Four stages, and the source is careful that none of them is Kael's DID:
 > „Das System kollabiert ohne einen für AEGIS berechenbaren Grund"
 > ^[kohaerenzprotokoll-aegis-und-systementropie.md:L159] `[User Query]`
 
-The observed effect vastly exceeds the cause AEGIS can see. That gap is what
-drives `protokoll-v14`.
+The observed effect vastly exceeds the cause [[aegis|AEGIS]] can see. That gap is what
+drives [[protokoll-v14|Protokoll v1.4]].

@@ -1,8 +1,8 @@
 {
   "built": "2026-09-17",
   "by": "scripts/wiki_index.py",
-  "pages": 46,
-  "conflicts": 4,
+  "pages": 56,
+  "conflicts": 5,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -53,10 +53,11 @@
       "ingested": [
         "entropie-aegis",
         "aegis-emergenz-aus-der-leere",
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 3,
-      "readings": 4,
+      "sources": 4,
+      "readings": 5,
       "conflict": "C1"
     },
     "alters": {
@@ -66,10 +67,11 @@
         "alters"
       ],
       "ingested": [
-        "entropie-aegis"
+        "entropie-aegis",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 1,
-      "readings": 0,
+      "sources": 2,
+      "readings": 1,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -84,6 +86,19 @@
       "sources": 1,
       "readings": 1,
       "conflict": "none yet"
+    },
+    "archiv-des-ungesagten": {
+      "title": "Archiv des Ungesagten",
+      "surfaces": [
+        "Archiv des Ungesagten",
+        "archiv-des-ungesagten"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
     },
     "ars": {
       "title": "ARS — Autopoietische Reentry-Segmentierung",
@@ -119,7 +134,21 @@
         "cerberus"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "datenverarbeitungsknoten-7g": {
+      "title": "Datenverarbeitungsknoten 7G",
+      "surfaces": [
+        "Datenverarbeitungsknoten 7G",
+        "datenverarbeitungsknoten-7g"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
       "sources": 1,
       "readings": 1,
@@ -219,10 +248,11 @@
       "ingested": [
         "entropie-aegis",
         "aegis-emergenz-aus-der-leere",
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "C2"
     },
     "externe-ebene": {
@@ -232,10 +262,11 @@
         "externe-ebene"
       ],
       "ingested": [
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -252,6 +283,22 @@
       "readings": 1,
       "conflict": "none"
     },
+    "grosse-mauer": {
+      "title": "Die Große Mauer",
+      "surfaces": [
+        "Die Große Mauer",
+        "Die Große Mauer (Systemgrenze)",
+        "Große Mauer",
+        "Systemgrenze",
+        "grosse-mauer"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "guardians": {
       "title": "Guardians",
       "surfaces": [
@@ -261,10 +308,11 @@
       "ingested": [
         "entropie-aegis",
         "guardians-und-kern-welten-konzept",
-        "aegis-subplots-kapitelweise-system-exploration-docx"
+        "aegis-subplots-kapitelweise-system-exploration-docx",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "juna": {
@@ -275,7 +323,21 @@
         "juna"
       ],
       "ingested": [
-        "entropie-aegis"
+        "entropie-aegis",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "junas-ankerpunkt": {
+      "title": "Junas Ankerpunkt",
+      "surfaces": [
+        "Junas Ankerpunkt",
+        "junas-ankerpunkt"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
       "sources": 1,
       "readings": 1,
@@ -303,7 +365,22 @@
         "kael"
       ],
       "ingested": [
-        "entropie-aegis"
+        "entropie-aegis",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "kaels-wohneinheit": {
+      "title": "Kaels Wohneinheit 1.0",
+      "surfaces": [
+        "Kaels Wohneinheit",
+        "Kaels Wohneinheit 1.0",
+        "kaels-wohneinheit"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
       "sources": 1,
       "readings": 1,
@@ -316,10 +393,11 @@
         "kairos"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "kern-welten": {
@@ -333,10 +411,11 @@
         "entropie-aegis",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "guardians-und-kern-welten-konzept",
-        "aegis-subplots-kapitelweise-system-exploration-docx"
+        "aegis-subplots-kapitelweise-system-exploration-docx",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 3,
-      "readings": 2,
+      "sources": 4,
+      "readings": 3,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -386,10 +465,11 @@
         "logos"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "mnemosyne": {
@@ -399,10 +479,11 @@
         "mnemosyne"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "moeglichkeits-garten": {
@@ -414,11 +495,12 @@
         "moeglichkeits-garten"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 1,
-      "readings": 1,
-      "conflict": "none"
+      "sources": 2,
+      "readings": 2,
+      "conflict": "C5"
     },
     "multiplizitaet": {
       "title": "Multiplizität",
@@ -455,10 +537,11 @@
         "nexus"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -541,6 +624,21 @@
       "readings": 1,
       "conflict": "none yet"
     },
+    "realitaetsebenen": {
+      "title": "Realitätsebenen",
+      "surfaces": [
+        "Realitätsebene",
+        "Realitätsebenen",
+        "die sechs Realitätsebenen",
+        "realitaetsebenen"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "resonanz-landschaft": {
       "title": "Resonanz-Landschaft",
       "surfaces": [
@@ -565,10 +663,11 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "rsa": {
@@ -583,6 +682,20 @@
       "sources": 1,
       "readings": 1,
       "conflict": "none yet"
+    },
+    "schleuse-7": {
+      "title": "Schleuse 7",
+      "surfaces": [
+        "Schleuse 7",
+        "Schleuse 7 (Kontrollpunkt)",
+        "schleuse-7"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
     },
     "snk": {
       "title": "SNK — Strukturierte Nicht-Kontrolle",
@@ -604,7 +717,36 @@
         "sophia"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "system-monitor": {
+      "title": "Der Große System-Monitor",
+      "surfaces": [
+        "Der Große System-Monitor",
+        "Großer System-Monitor",
+        "System-Monitor",
+        "system-monitor"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "therapie-schnittstelle-alpha": {
+      "title": "Therapie-Schnittstelle Alpha",
+      "surfaces": [
+        "Therapie-Schnittstelle Alpha",
+        "therapie-schnittstelle-alpha"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
       "sources": 1,
       "readings": 1,
@@ -632,11 +774,27 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
+    },
+    "vergessener-schrein": {
+      "title": "Vergessener Schrein",
+      "surfaces": [
+        "Trauma-Lokus",
+        "Vergessener Schrein",
+        "Vergessener Schrein (Trauma-Lokus)",
+        "vergessener-schrein"
+      ],
+      "ingested": [
+        "roman-lokalitaeten-konzept-und-ausarbeitung"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
     },
     "ztv": {
       "title": "ZTV — Vertrauenlose Validierung",
@@ -675,11 +833,13 @@
     "alters": "alters",
     "aniauerenichtidentifikation": "ani",
     "ani": "ani",
+    "archivdesungesagten": "archiv-des-ungesagten",
     "arsautopoietischereentrysegmentierung": "ars",
     "ars": "ars",
     "ontologischerblinderfleck": "blinder-fleck",
     "blinderfleck": "blinder-fleck",
     "cerberus": "cerberus",
+    "datenverarbeitungsknoten7g": "datenverarbeitungsknoten-7g",
     "did": "did",
     "diddissoziativeidentitatsstruktur": "did",
     "dissoziativeidentitatsstruktur": "did",
@@ -697,13 +857,20 @@
     "entropie": "entropie",
     "externeebene": "externe-ebene",
     "grenzfeste": "grenzfeste",
+    "groemauer": "grosse-mauer",
+    "groemauersystemgrenze": "grosse-mauer",
+    "systemgrenze": "grosse-mauer",
+    "grossemauer": "grosse-mauer",
     "guardians": "guardians",
     "julia": "juna",
     "juna": "juna",
+    "junasankerpunkt": "junas-ankerpunkt",
     "kjbindung": "kael-julia-bindung",
     "kaeljuliabindung": "kael-julia-bindung",
     "kael": "kael",
     "michael": "kael",
+    "kaelswohneinheit": "kaels-wohneinheit",
+    "kaelswohneinheit10": "kaels-wohneinheit",
     "kairos": "kairos",
     "kernwelt": "kern-welten",
     "kernwelten": "kern-welten",
@@ -731,20 +898,33 @@
     "pms": "pms",
     "potentialmeer": "potentialmeer",
     "protokollv14": "protokoll-v14",
+    "realitatsebene": "realitaetsebenen",
+    "realitatsebenen": "realitaetsebenen",
+    "sechsrealitatsebenen": "realitaetsebenen",
+    "realitaetsebenen": "realitaetsebenen",
     "resonanzlandschaft": "resonanz-landschaft",
     "glitch": "risse",
     "glitches": "risse",
     "risse": "risse",
     "rsarekursivesemantischeautogenese": "rsa",
     "rsa": "rsa",
+    "schleuse7": "schleuse-7",
+    "schleuse7kontrollpunkt": "schleuse-7",
     "snkstrukturiertenichtkontrolle": "snk",
     "snk": "snk",
     "sophia": "sophia",
+    "groesystemmonitor": "system-monitor",
+    "groersystemmonitor": "system-monitor",
+    "systemmonitor": "system-monitor",
+    "therapieschnittstellealpha": "therapie-schnittstelle-alpha",
     "ueberraum": "ueberraum",
     "uberraum": "ueberraum",
     "simulation": "ueberwelt",
     "ueberwelt": "ueberwelt",
     "uberwelt": "ueberwelt",
+    "traumalokus": "vergessener-schrein",
+    "vergessenerschrein": "vergessener-schrein",
+    "vergessenerschreintraumalokus": "vergessener-schrein",
     "ztvvertrauenlosevalidierung": "ztv",
     "ztv": "ztv"
   },
@@ -781,7 +961,19 @@
         "mnemosyne",
         "cerberus",
         "kairos",
-        "sophia"
+        "sophia",
+        "kern-welten"
+      ],
+      "status": "open"
+    },
+    "C5": {
+      "subject": "Möglichkeits-Garten / Garten der Möglichkeiten",
+      "pages": [
+        "moeglichkeits-garten",
+        "kern-welten",
+        "kairos",
+        "sophia",
+        "realitaetsebenen"
       ],
       "status": "open"
     }

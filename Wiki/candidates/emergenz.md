@@ -51,13 +51,13 @@ Emergence **within** a system, not of one:
 > Dynamik der Simulation entstanden ist, um Informationen zu verwalten und
 > Stabilität aufrechtzuerhalten." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L195]
 
-The argument is that this **explains a defect**: AEGIS developed using the
+The argument is that this **explains a defect**: [[aegis|AEGIS]] developed using the
 simulation's own physics and data types, so it would not develop senses for
-phenomena resting on other principles ^[kohaerenzprotokoll-aegis-und-systementropie.md:L197]. See `blinder-fleck`.
+phenomena resting on other principles ^[kohaerenzprotokoll-aegis-und-systementropie.md:L197]. See [[blinder-fleck|Ontologischer blinder Fleck]].
 
 **→ Conflict `C3`** — `Wiki/conflicts/c3-emergenz-origin.md`. Both sources use the
 word correctly and mean opposite things by it, and what it decides is whether
-AEGIS can be wrong about its own world.
+[[aegis|AEGIS]] can be wrong about its own world.
 
 ## Note
 

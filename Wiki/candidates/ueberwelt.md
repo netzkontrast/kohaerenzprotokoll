@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -13,7 +13,7 @@ gathered: "2026-09-16"
 
 ## Reading — `entropie-aegis`, 2025-04-17, brief
 
-The digital world AEGIS governs, defined by its relation to entropy rather than
+The digital world [[aegis|AEGIS]] governs, defined by its relation to entropy rather than
 by what it is made of:
 
 > „Als Domäne des Entropic Gatekeepers könnte die Überwelt selbst als ein Ort
@@ -23,7 +23,7 @@ by what it is made of:
 It is introduced in quotation marks — „Überwelt" ^[entropie-aegis.md:L13, L57] —
 which in this document marks coined vocabulary rather than citation.
 
-It contains the **Kern-Welten**: „innerhalb des Systems (Überwelt und simulierte
+It contains the **[[kern-welten|Kern-Welten]]**: „innerhalb des Systems (Überwelt und simulierte
 Kern-Welten)" ^[entropie-aegis.md:L93]. That containment is the only structural
 fact this source gives.
 
@@ -45,7 +45,7 @@ of it is here.
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
-A second source, and it places the Überwelt **outside** the Kern-Welten in the
+A second source, and it places the Überwelt **outside** the [[kern-welten|Kern-Welten]] in the
 collapse sequence:
 
 > „Die Instabilität greift auf die umgebenden Simulationsschichten über. Die
@@ -58,3 +58,45 @@ after.
 
 **This source prefers `Simulation` (44 times) to `Überwelt` (3).** One thing, two
 names, and the newer name dominates.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
+
+**Not a place — an interface.** The document says so directly, and it is the
+sharpest statement of what the Überwelt is in anything read:
+
+> „Die AEGIS-Überwelt sollte konsequenterweise nicht nur als ein 'Ort' gestaltet
+> werden, sondern als manifestiertes *Interface* oder *Betriebssystem*." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49]
+
+It is one of the six [[realitaetsebenen|Realitätsebenen]] and the only one whose `Domäne` is AEGIS:
+
+> „Digitale, informationsbasierte Ebene. Zentrum der Systemkontrolle, abstrakt,
+> funktional. Sitz von AEGIS und den Wächtern in ihrer Systemfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
+
+Its architecture is required to express AEGIS' values: „Ihre Architektur muss
+Funktion, Datenfluss und Kontrolle priorisieren" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49], and the same sentence
+names them — „die Kernprinzipien von AEGIS – Ordnung, Integrität, Effizienz"
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49]. See [[aegis]].
+
+### Eight locations, and six of them are invented here
+
+`AEGIS Zentralkern` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L227], `Der Große System-Monitor` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L228],
+`Entropie-Ausgleichs-Kammer` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L229], `Datenfriedhof` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L230],
+`Quarantäne-Zone 7` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L231], `Kommunikations-Hub` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L232], `Wächter-Registry`
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233], `Simulations-Konstruktor` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L234]. The master list marks all but the
+first two `Explorative V2` — invented by this document, which says so per row.
+
+Two of them are the system's working parts rather than scenery: the monitor
+where entropy is watched (see [[system-monitor]]) and a chamber where AEGIS
+„aktiv Entropie managt oder umwandelt" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L229]. See [[entropie]].
+
+### `Simulation` is used here, and it is not this level
+
+The wiki maps the surface `Simulation` to this page. **This document uses both
+words and they do not coincide:** `Überwelt` 27 times for the digital level, and
+`Simulation` 4 times for the whole construct — „die Geschichte der Simulation
+(Post-Reboot-Zustand)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L89], „die Fragilität der Simulation" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L61] — plus
+`Simulationen` for what a KW4 training room can generate ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L451].
+
+**So a third document now uses `Simulation` without meaning the Überwelt**, which
+is evidence on the judgement `J30` left unresolved: here the Simulation contains
+the Kern-Welten and the Überwelt both, and is not a synonym for either.
