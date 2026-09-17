@@ -1,0 +1,659 @@
+{
+  "document": "kohaerenz-protokoll-konzept",
+  "step": "reconcile-pre",
+  "at": "2026-09-17",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-17",
+  "state": {
+    "pages": 56,
+    "conflicts": 5
+  },
+  "candidates": 150,
+  "decisions": 153,
+  "same_surface": {
+    "kerntrauma": [
+      "Kerntrauma",
+      "Kern-Trauma"
+    ]
+  },
+  "decided_mechanically": 123,
+  "needs_judgement": 30,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Michael",
+        "page": "kael",
+        "readings": 2
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 2
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 4
+      },
+      {
+        "candidate": "Julia",
+        "page": "juna",
+        "readings": 2
+      },
+      {
+        "candidate": "externe Ebene",
+        "page": "externe-ebene",
+        "readings": 2
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 1
+      },
+      {
+        "candidate": "Personas",
+        "page": "personas",
+        "readings": 1
+      },
+      {
+        "candidate": "Partnerin",
+        "page": "partnerin",
+        "readings": 1
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 1
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 3
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 1
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 3
+      },
+      {
+        "candidate": "Glitches",
+        "page": "risse",
+        "readings": 3
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 2
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 2
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 2
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 2
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 2
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Blueprint V5"
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung"
+      },
+      {
+        "candidate": "Systemfehler"
+      },
+      {
+        "candidate": "Datenkorruption"
+      },
+      {
+        "candidate": "Qualia"
+      },
+      {
+        "candidate": "nicht-lokale Phänomene"
+      },
+      {
+        "candidate": "Datenpunkte"
+      },
+      {
+        "candidate": "Systemhütern"
+      },
+      {
+        "candidate": "Echo"
+      },
+      {
+        "candidate": "Sechs Ebenen der Realität"
+      },
+      {
+        "candidate": "Heldinnenreise"
+      },
+      {
+        "candidate": "Murdock"
+      },
+      {
+        "candidate": "Heldenreise"
+      },
+      {
+        "candidate": "Campbell"
+      },
+      {
+        "candidate": "Stabilisierung"
+      },
+      {
+        "candidate": "Traumabearbeitung"
+      },
+      {
+        "candidate": "Neuorientierung"
+      },
+      {
+        "candidate": "Leitprinzipien"
+      },
+      {
+        "candidate": "Identität & Fragmentierung"
+      },
+      {
+        "candidate": "Bewusstwerdung"
+      },
+      {
+        "candidate": "Co-Bewusstsein"
+      },
+      {
+        "candidate": "strukturelle Dissoziation"
+      },
+      {
+        "candidate": "Derealisation"
+      },
+      {
+        "candidate": "Wissen/Epistemologie"
+      },
+      {
+        "candidate": "transzendentes Wissen"
+      },
+      {
+        "candidate": "Trauma & Heilung"
+      },
+      {
+        "candidate": "ISSTD"
+      },
+      {
+        "candidate": "Verbindung"
+      },
+      {
+        "candidate": "Bewusstseinsverschränkung"
+      },
+      {
+        "candidate": "nicht-lokale Verschränkung"
+      },
+      {
+        "candidate": "nicht-lokales Bewusstsein"
+      },
+      {
+        "candidate": "Ethik"
+      },
+      {
+        "candidate": "Persönlichkeitsanteile"
+      },
+      {
+        "candidate": "Protektoren"
+      },
+      {
+        "candidate": "Protector"
+      },
+      {
+        "candidate": "dissoziative Intrusionen"
+      },
+      {
+        "candidate": "Amnesie"
+      },
+      {
+        "candidate": "Datenfehler"
+      },
+      {
+        "candidate": "ontologischer Konflikt"
+      },
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "Apparently Normal Part"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "Schatten"
+      },
+      {
+        "candidate": "Leo"
+      },
+      {
+        "candidate": "Der Archivar"
+      },
+      {
+        "candidate": "Memory Holder"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Funke"
+      },
+      {
+        "candidate": "Internal Self-Helper"
+      },
+      {
+        "candidate": "ISH"
+      },
+      {
+        "candidate": "Protokolle zur Datensynchronisation"
+      },
+      {
+        "candidate": "Algorithmen zur Emotionsdämpfung"
+      },
+      {
+        "candidate": "Module zur Verhaltenskorrektur"
+      },
+      {
+        "candidate": "Daten-Synchronisator"
+      },
+      {
+        "candidate": "Emotions-Dämpfer"
+      },
+      {
+        "candidate": "Verhaltens-Korrektor"
+      },
+      {
+        "candidate": "Beobachter"
+      },
+      {
+        "candidate": "Vogel"
+      },
+      {
+        "candidate": "Welt 1: Die Zerbrochene Stadt"
+      },
+      {
+        "candidate": "Welt 2: Der Ewige Spielplatz"
+      },
+      {
+        "candidate": "Das Starre Puppenhaus"
+      },
+      {
+        "candidate": "Welt 3: Die Zitadelle der Wacht"
+      },
+      {
+        "candidate": "Welt 4: Die Endlose Bibliothek"
+      },
+      {
+        "candidate": "Das Masken-Theater"
+      },
+      {
+        "candidate": "Ebene 5"
+      },
+      {
+        "candidate": "Ebene 6"
+      },
+      {
+        "candidate": "Brücke"
+      },
+      {
+        "candidate": "Avatar"
+      },
+      {
+        "candidate": "Trauma-Loop"
+      },
+      {
+        "candidate": "Flashback"
+      },
+      {
+        "candidate": "Switch"
+      },
+      {
+        "candidate": "ANP/EP-Modell"
+      },
+      {
+        "candidate": "Emotional Parts"
+      },
+      {
+        "candidate": "Fragmente"
+      },
+      {
+        "candidate": "Trauma-Korruption"
+      },
+      {
+        "candidate": "Systeminstabilität"
+      },
+      {
+        "candidate": "Systemparametern"
+      },
+      {
+        "candidate": "Systemregeln"
+      },
+      {
+        "candidate": "Systemalarme"
+      },
+      {
+        "candidate": "Systemanomalie"
+      },
+      {
+        "candidate": "Datenstrom"
+      },
+      {
+        "candidate": "Informationslandschaft"
+      },
+      {
+        "candidate": "Informationskonstrukt"
+      },
+      {
+        "candidate": "Reparaturdrohnen"
+      },
+      {
+        "candidate": "Quarantänezonen"
+      },
+      {
+        "candidate": "Narrativer Rahmen"
+      },
+      {
+        "candidate": "Psychologischer Rahmen"
+      },
+      {
+        "candidate": "Inhaltlicher Fokus"
+      },
+      {
+        "candidate": "Pacing"
+      },
+      {
+        "candidate": "Ordinary World"
+      },
+      {
+        "candidate": "Crossing the Threshold"
+      },
+      {
+        "candidate": "Road of Trials"
+      },
+      {
+        "candidate": "Innermost Cave"
+      },
+      {
+        "candidate": "Ordeal"
+      },
+      {
+        "candidate": "Reward"
+      },
+      {
+        "candidate": "Road Back"
+      },
+      {
+        "candidate": "Resurrection"
+      },
+      {
+        "candidate": "Freedom to Live"
+      },
+      {
+        "candidate": "Kontrollzentrum"
+      },
+      {
+        "candidate": "Innenwelt"
+      },
+      {
+        "candidate": "Headspace"
+      },
+      {
+        "candidate": "hard problem of consciousness"
+      },
+      {
+        "candidate": "Genre-Mix"
+      },
+      {
+        "candidate": "Symptommanagement"
+      },
+      {
+        "candidate": "Zeitverlust"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Seelen-Kohärenz-Protokoll  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Seele = Information  /  Seele=Info",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Datenkohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Logische Kohärenz-Analysatoren",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz  /  Kohärenz-Analysator",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Datenintegration  /  Integration",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Systemwächter  /  Wächter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Architekt  /  Netzwerkarchitektur",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alters  /  Alter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter  /  Alter Intrusion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Integration  /  Integrationsversagen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernpersönlichkeit  /  Kern",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Persecutoren  /  Persecutor",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kind-Anteile  /  Kind",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern  /  Kerntrauma",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos  /  Kairos/Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Sophia  /  Kairos/Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Logische Kohärenz-Analysatoren  /  Kohärenz-Analysator",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Seelen-Kohärenz-Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Datenkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kern",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kernwelten",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Gatekeeper",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos/Sophia",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          },
+          {
+            "surface": "sophia",
+            "page": "sophia"
+          }
+        ]
+      },
+      {
+        "candidate": "Logische Kohärenz-Analysatoren",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Analysator",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Nexuspunkt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nexus",
+            "page": "nexus"
+          }
+        ]
+      },
+      {
+        "candidate": "Systemgrenzen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "systemgrenze",
+            "page": "grosse-mauer"
+          }
+        ]
+      }
+    ]
+  },
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
