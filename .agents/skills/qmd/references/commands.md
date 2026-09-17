@@ -8,9 +8,13 @@ running them. Where a flag is undocumented in the help text, it says so.
 
 | command | what it runs | cost here |
 |---|---|---|
-| `qmd search <q>` | BM25 full-text only | **0.24s**, no model |
-| `qmd query <q>` | expansion model → BM25 + vector → reranker | **14.5s** uncached, CPU, no GPU |
-| `qmd vsearch <q>` | vector similarity only | needs embeddings; returns nothing without them |
+| `qmd search <q>` | BM25 full-text only | **0.22s**, no model |
+| `qmd vsearch <q>` | vector similarity only | **12.7s**; returns nothing at all until embeddings exist |
+| `qmd query <q>` | expansion model → BM25 + vector → reranker | **2m41s** uncached, CPU, no GPU |
+
+`query` was 14.5s before the corpus was embedded and 2m41s after, because the
+vector leg then actually ran. Any latency measured against a half-built index is
+a number about the index, not about the tool.
 
 Shared flags: `-c <collection>` · `-n <count>` · `--json` · `--files` ·
 `--explain` · `--min-score <f>` · `--max-bytes <n>` · `--format <fmt>` ·

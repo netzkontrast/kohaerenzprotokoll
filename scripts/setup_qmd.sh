@@ -48,9 +48,15 @@ if [[ $CHECK -eq 1 ]]; then
                                  || say "collections" "INDEX DISAGREES WITH CONFIG — run qmd update
       config: $want
       index:  $have"
-        pending=$("$QMD" status 2>/dev/null | grep -oE "Pending:[[:space:]]+[0-9]+" | grep -oE "[0-9]+" || echo "?")
-        [[ "$pending" == "0" ]] && say "embeddings" "complete" \
-                                || say "embeddings" "$pending pending — vsearch and query's vector leg return nothing until 'qmd embed'"
+        # qmd status omits the Pending line entirely when nothing is pending, so
+        # an empty match means complete rather than unknown.
+        pending=$("$QMD" status 2>/dev/null | grep -oE "Pending:[[:space:]]+[0-9]+" | grep -oE "[0-9]+" || true)
+        vectors=$("$QMD" status 2>/dev/null | grep -oE "Vectors:[[:space:]]+[0-9]+" | grep -oE "[0-9]+" || echo 0)
+        if [[ -z "$pending" || "$pending" == "0" ]]; then
+            say "embeddings" "complete — $vectors vectors"
+        else
+            say "embeddings" "$pending pending — vsearch and query's vector leg return nothing until 'qmd embed'"
+        fi
     fi
     python3 "$ROOT/scripts/qmd_coverage.py" >/dev/null 2>&1 \
         && say "coverage" "every file in a collection" \

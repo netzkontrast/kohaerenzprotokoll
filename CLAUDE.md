@@ -274,7 +274,7 @@ right is the author's call, never the page's.
 `qmd` (github.com/tobi/qmd) indexes seven collections named for purpose and
 answers a German phrase with a file and a line. **`.claude/skills/qmd` is where
 it is documented** — which collection answers which question, why `search` is
-0.24s and `query` is 14.5s, how German compounds break exact matching, the full
+0.22s and `query` is 2m41s, how German compounds break exact matching, the full
 command surface, and how the setup is rebuilt.
 
 Two things belong here rather than only there, because they govern work that is

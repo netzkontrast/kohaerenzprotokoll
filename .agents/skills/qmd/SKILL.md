@@ -1,6 +1,6 @@
 ---
 name: qmd
-description: Search and read this project's German corpus with qmd — which collection answers which question, why search is 0.24s and query is 14.5s, and the rule that a search result is never a number. Use when looking for a passage, a term, a decision already made, or when a search returns less than it should.
+description: Search and read this project's German corpus with qmd — which collection answers which question, when a 0.22s BM25 search beats a 2m41s reranked one, and the rule that a search result is never a number. Use when looking for a passage, a term, a decision already made, or when a search returns less than it should.
 allowed-tools: Bash(qmd:*), Bash(scripts/setup_qmd.sh:*), Bash(python3 scripts/qmd_coverage.py:*)
 ---
 
@@ -114,22 +114,34 @@ Every row measured. `-c` is never optional.
 ## Three search commands, and the difference is not small
 
 ```bash
-qmd search "blinder Fleck kategoriale Unfähigkeit" -c sources    # 0.24s, BM25, no model
-qmd query  "blinder Fleck kategoriale Unfähigkeit" -c sources    # 14.5s, expands + reranks
-qmd vsearch "Wächter am Tor" -c wiki                             # vectors only
+qmd search  "blinder Fleck kategoriale Unfähigkeit" -c sources   # 0.22s   BM25, no model
+qmd vsearch "wer bewacht welche Welt" -c wiki                    # 12.7s   vectors only
+qmd query   "blinder Fleck kategoriale Unfähigkeit" -c sources   # 2m41s   expands + both legs + reranks
 ```
+
+Measured on this container after embedding finished, on queries never asked.
+**`query` became eleven times slower once embeddings existed** — 14.5s while the
+vector leg contributed nothing, 2m41s once it ran. A number measured against a
+half-built index is not a number about the tool.
 
 **Use `search` by default.** It is BM25, runs no model, and for a corpus of
 coined German compounds an exact term is usually what you have.
 
-`query` runs a 1.7B expansion model and a 0.6B reranker on CPU — this container
-has no GPU and says so. **14.5s, measured on a query never asked, twice.** A
-repeated query returns in 0.24s from the index's `llm_cache`, which is how „about
-0.2s" once got written down as a general claim. Never put `query` in a loop.
+`query` runs a 1.7B expansion model, both retrieval legs and a 0.6B reranker on
+CPU — `qmd doctor` reports four math cores and no GPU. At **2m41s it is not a
+search, it is an errand.** A repeated query returns in 0.2s from the index's
+`llm_cache`, which is how „about 0.2s" once got written down as a general claim.
 
-`vsearch` needs embeddings. `scripts/setup_qmd.sh --check` reports how many are
-pending; while any are, `vsearch` returns „No results found" **with a warning
-and exit 0** — it looks like an answer.
+**`vsearch` is the one that earns its time.** It answers a paraphrase that shares
+no words with the text: „wer bewacht welche Welt" against `wiki` returns the
+Personas page, the Guardians/Kern-Welten reconciliation and the
+Möglichkeits-Garten — **none of which contains those words**. BM25 cannot do
+that at any price. 12.7s, and worth it when you can describe what you want but
+not name it.
+
+If embeddings are still building, `vsearch` returns „No results found" **with a
+warning and exit 0** — it looks like an answer. `scripts/setup_qmd.sh --check`
+reports how many are pending.
 
 ## Writing a query for German
 
@@ -188,25 +200,29 @@ for hit in search("blinder Fleck", collection="sources"):
 real `Path` once. **A `Hit` says where to look and carries no claim about the
 corpus**; `hit.document()` is the handoff back to the tools that measure.
 
-## Where `query` earns its 14.5s, and where it does not
+## The case no backend fixes
 
-`search` fails in one shape: **a term that is common, buried mid-document, or
-that you can only describe rather than name.** Case 2 above is the example —
-„Kernwelt Logik LogOS" returned four documents and none was the one that
-carries the line.
+`search` fails in one shape: **a term that is common and buried mid-document.**
+„Kernwelt Logik LogOS" returned four documents and none carried the line that
+defines `KW1` — line 152 of a 620-line document.
 
-That is what `query` is for, and it is the only thing worth paying 14.5s for:
+**Embeddings did not fix it.** Tested after embedding finished: `vsearch` for
+„welcher Guardian gehört zu Kernwelt 1" returns a *different* document, and the
+structured query below took 3m14s and returned worse results than plain
+`search`.
 
 ```bash
 qmd query $'intent: which Kern-Welt is LogOS assigned to\nlex: Kernwelt LogOS\nvec: welcher Guardian gehört zu welcher Welt'
 ```
 
-Write the structured form rather than pasting the question — `lex:` carries the
-coined compounds that must match exactly, `vec:` carries the paraphrase. **Until
-embeddings finish, the `vec:` and `hyde:` lines contribute nothing**, so during
-that time a structured query is a slow `search`.
+The reason is the chunk. Every backend scores chunks, and a chunk whose dominant
+subject is something else does not match however the query is phrased. **For a
+specific line in a long document the answer is `grep -n`**, and that is the same
+rule as „qmd ranks, it does not enumerate" seen from the other side.
 
-Never put `query` in a loop, and never use it where `search` already answers.
+So the structured form is worth writing when you want *breadth* — `lex:` for the
+coined compounds, `vec:` for the paraphrase — and never worth waiting for when
+you already know the word. Never put `query` in a loop.
 
 ## When a search returns less than it should
 
