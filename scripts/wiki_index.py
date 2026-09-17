@@ -60,9 +60,14 @@ ARTICLE = re.compile(r"^(der|die|das|den|dem|des)\s+", re.IGNORECASE)
 def fold(surface: str) -> str:
     """A comparison key: article, case, diacritics and punctuation removed.
 
-    Kern-Welten and Kern-Welt fold together; Negentropie and Entropie do not,
-    because folding is not stemming. A stemmer aggressive enough to merge a term
-    with its inflections also merges it with its negation.
+    **Folding is not stemming.** Kern-Welten and Kern-Welt do NOT fold together --
+    the plural ending survives, and the pair reaches judgement through containment
+    instead. That is the intended behaviour: a stemmer aggressive enough to merge
+    a term with its inflections also merges Negentropie with Entropie, which are
+    opposites.
+
+    This docstring claimed the opposite until `scripts/judgements.py` replayed the
+    recorded decision for that exact pair and disagreed with it.
 
     The leading definite article is stripped because a German article is never a
     term boundary. That rule came from judgement: it was decided three times in

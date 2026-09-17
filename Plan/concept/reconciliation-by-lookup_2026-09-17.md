@@ -171,6 +171,12 @@ be spending attention on.**
   the judgement belongs.
 - **The index is derived from frontmatter, so pages must carry their surfaces.**
   Eleven of 32 do. The other 21 are the gaps, listed rather than assumed away.
-- **`fold()` is not a stemmer**, deliberately. `Kern-Welten` and `Kern-Welt` fold
-  together; `Negentropie` and `Entropie` do not. A stemmer aggressive enough for
-  German inflection also merges a term with its negation.
+- **`fold()` is not a stemmer**, deliberately — and it is weaker than this note
+  first claimed. `Kern-Welten` and `Kern-Welt` do **not** fold together; the pair
+  reaches judgement through containment instead. `Negentropie` and `Entropie` do
+  not fold either, and must not: a stemmer aggressive enough for German inflection
+  merges a term with its negation.
+
+  The false claim stood in three places, including `fold()`'s own docstring, until
+  `scripts/judgements.py` replayed the recorded decision for that pair and
+  disagreed. **That is the check's first run.**

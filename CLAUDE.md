@@ -102,6 +102,24 @@ candidates, 12 decided mechanically, 7 to judgement.** Reasoning:
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
 conflict.
 
+### A mechanised rule stays checkable
+
+Every decision about a near match is recorded in `Plan/runs/judgements.jsonl`
+with the two surfaces, the decision, the rule, and whether any code now claims
+the case. `python3 scripts/judgements.py` **replays all of them against the
+current code**:
+
+- `agrees` — the code still decides what the person decided
+- `DISAGREES` — go and look. The code changed, the record is wrong, or a rule has
+  met its first exception
+- `judgement` — no code claims this; still a person's call
+
+**Run it after touching `fold()` or any matching rule.** A rule that was
+mechanised and then quietly stopped holding is invisible otherwise — which is not
+hypothetical: the check's *first run* found that `fold()`'s own docstring claimed
+behaviour it did not have, and the same false claim had been repeated in two other
+files.
+
 `Plan/learnings/extract-terms.md` has the fourteen special cases the first two
 censuses found, and why the first comparison inverted the premise the step was
 built on.
