@@ -1,0 +1,148 @@
+# counts for 108 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                            108 word   161 in   [17, 23, 25, 26, 27, 28]
+                                   53      as Kaels
+  Host                             37 word    45 in   [23, 25, 26, 27, 29, 31]
+                                    5      as Hosts
+                                    3      as Host-Anteil
+  Gesamtsystem                      7 word     8 in   [23, 28, 29, 30, 41, 65]
+                                    1      as Gesamtsystems
+  Dissoziative Identitätsstörung    2 word     2 in   [18, 658]
+  DID                              37 word    50 in   [18, 19, 26, 27, 29, 30]
+  universal reboot                  2 word     2 in   [26, 146]
+  Konstrukt-Stadt                  28 word    28 in   [26, 30, 39, 48, 66, 72]
+  Kontrollprotokoll                 1 word     2 in   [26, 106]
+                                    1      as Kontrollprotokolls
+  Anscheinend Normale Persönlichkeitsanteile    1 word     1 in   [26]
+  ANP                               2 word     3 in   [26, 239, 502]
+  Emotionale Persönlichkeitsanteile    1 word     1 in   [26]
+  EP                                0 word     1 in   [26]
+  Theorie der strukturellen Dissoziation    1 word     1 in   [26]
+  Risse                            23 word    30 in   [27, 59, 73, 125, 136, 143]
+                                    7      as Rissen
+  Alters                           79 word    83 in   [29, 30, 49, 60, 65, 77]
+                                    2      as alterslos
+                                    2      as Alterslos
+                                    1      as Alters-Einfluss
+  Alter                            18 word   103 in   [29, 30, 49, 60, 65, 77]  <-- substring
+                                   79      as Alters
+                                    6      as alters
+                                    2      as alterslos
+                                    2      as Alterslos
+  Co-Bewusstsein                    2 word     2 in   [29, 230]
+  Intrusionen                       7 word     7 in   [29, 60, 77, 250, 262, 313]
+  Amnesie                          10 word    11 in   [26, 27, 29, 60, 65, 217]
+                                    1      as Amnesien
+  Kern-Welten                      21 word    21 in   [30, 48, 65, 66, 111, 112]
+  Resonanz-Landschaft              18 word    18 in   [30, 66, 76, 111, 165, 335]
+  Grenzfeste                       18 word    18 in   [30, 66, 111, 175, 283, 309]
+  Möglichkeiten-Garten             12 word    12 in   [30, 66, 111, 185, 361, 387]
+  KW1                              23 word    23 in   [66, 111, 257, 283, 387, 465]
+  KW2                              17 word    17 in   [66, 111, 335, 413, 491, 505]
+  KW3                              17 word    17 in   [66, 111, 283, 309, 413, 439]
+  KW4                              11 word    11 in   [66, 111, 361, 387, 491, 506]
+  Juna                             51 word    65 in   [40, 45, 46, 47, 58, 67]
+                                   13      as Junas
+                                    1      as Juna-Anomalie
+  Externe Ebene                     2 word     2 in   [94, 112]
+  AEGIS                           108 word   109 in   [26, 27, 30, 46, 50, 58]
+                                    1      as AEGIS-System
+  Autonomous Entropic Gatekeeper for Integrity Systems    1 word     1 in   [118]
+  Guardians                        22 word    22 in   [59, 77, 111, 126, 136, 138]
+  Entropie                         23 word    27 in   [67, 86, 106, 116, 118, 123]
+                                    1      as Entropie-Torwächter-Protokoll
+                                    1      as Entropielevel
+                                    1      as Entropie-Kontrolle
+                                    1      as Entropie-Minimierung
+  Systemanomalie                    1 word     1 in   [106]
+  Systemintegrität                  2 word     2 in   [106, 118]
+  Systemkohärenz                    1 word     1 in   [137]
+  Kontrollparadigma                 1 word     1 in   [27]
+  Zero-Trust-Protokolle             1 word     1 in   [205]
+  Heldenreise                       2 word     2 in   [68, 261]
+  Blinder Fleck                    18 word    18 in   [50, 97, 128, 160, 170, 180]
+  Kohärenz Protokoll                7 word     7 in   [11, 17, 124, 659, 671, 680]
+  Seele=Info                        2 word     2 in   [127, 150]
+  Ashby's Law of Requisite Variety    1 word     1 in   [128]
+  Requisite Variety                 2 word     2 in   [128, 727]
+  Homöostase                        1 word     1 in   [145]
+  Feedbackloops                     1 word     1 in   [145]
+  Nicht-Existenz                    1 word     1 in   [125]
+  Systemkollaps                     0 word     1 in   [125]
+                                    1      as Systemkollapses
+  frontet                           8 word     8 in   [222, 281, 307, 333, 359, 385]
+  LogOS                             4 word     4 in   [148, 155, 207, 530]
+  Mnemosyne                         5 word     6 in   [148, 165, 207, 560, 568, 570]
+                                    1      as Mnemosynes
+  Cerberus                          5 word     5 in   [148, 175, 207, 578, 580]
+  Kairos                            5 word     5 in   [148, 185, 207, 588, 590]
+  Sophia                            3 word     3 in   [148, 195, 207]
+  Limina                            8 word     8 in   [222, 263, 264, 354, 432, 503]
+  Die Wächterin                     1 word     1 in   [263]
+  Schwellenhüterin                  1 word     1 in   [263]
+  Gatekeeper                        7 word     9 in   [118, 222, 265, 406, 432, 503]
+                                    2      as Gatekeepern
+                                    1      as gatekeeper-alters
+                                    1      as gatekeeper_alters
+  Praetor                          11 word    11 in   [222, 380, 419, 420, 437, 481]
+  Der Beschützer                    1 word     1 in   [419]
+  Protector                         2 word     3 in   [222, 421, 509]
+                                    1      as Protectors
+  Nox                              20 word    20 in   [79, 224, 289, 290, 301, 314]
+  Der Kritiker                      1 word     1 in   [289]
+  Persecutor                        5 word    12 in   [180, 224, 230, 291, 328, 432]  <-- substring
+                                    3      as Persecutors
+                                    2      as Persecutory
+                                    1      as persecutorischen
+                                    1      as Persecutor-Alters
+  Täterlogik                        1 word     1 in   [294]
+  Eos                               7 word     7 in   [224, 367, 368, 369, 385, 507]
+  Die Verführerin                   1 word     1 in   [367]
+  Kontrolleurin                     2 word     2 in   [224, 367]
+  Echo                             19 word    21 in   [111, 171, 225, 315, 316, 333]
+                                    2      as Echos
+  Der Kleine                        1 word     1 in   [315]
+  Child Alter                       4 word     8 in   [302, 317, 328, 343, 484, 505]
+  Little                            2 word     3 in   [230, 317, 343]
+                                    1      as Littles
+  Flicker                           9 word     9 in   [225, 328, 341, 342, 359, 473]
+  Die Verspielte                    1 word     1 in   [341]
+  Oblivion                          7 word     7 in   [225, 393, 394, 411, 418, 508]
+  Der Gefrorene                     1 word     1 in   [393]
+  Trauma-Halter                     3 word     3 in   [225, 395, 508]
+  Freeze Response                   2 word     2 in   [395, 415]
+  Silas                            10 word    10 in   [225, 328, 354, 432, 471, 472]
+  Der Pflegende                     1 word     1 in   [471]
+  Caretaker                         6 word     9 in   [225, 230, 328, 354, 418, 432]
+                                    3      as Caretakern
+  Index                             8 word     8 in   [223, 445, 446, 463, 510]
+  Der Analytiker                    1 word     1 in   [445]
+  Internal Self-Helper              3 word     3 in   [223, 447, 510]
+  Switching                         1 word     1 in   [664]
+  verdeckt                          2 word     3 in   [231, 658, 664]
+                                    1      as verdeckte
+  Therapeut-Konstrukt               3 word     3 in   [61, 75, 525]
+  Herr Jansen                       2 word     2 in   [536, 641]
+  Der 'Normale' Nachbar             1 word     1 in   [535]
+  Einheit 734                       2 word     2 in   [546, 642]
+  Regel-Exekutor                    3 word     3 in   [545, 642, 685]
+  Das Schattenkind                  2 word     2 in   [556, 643]
+  Der Weinende Mann                 1 word     1 in   [556]
+  Trauma-Symbolfigur                3 word     3 in   [555, 643, 685]
+  Chronos                           2 word     2 in   [566, 644]
+  Der Archivar                      1 word     1 in   [565]
+  Terminus                          2 word     2 in   [576, 645]
+  Der Grenzwärter                   1 word     1 in   [575]
+  Sibyl                             2 word     2 in   [586, 646]
+  Das Orakel der Möglichkeiten      1 word     1 in   [585]
+  Leech                             2 word     2 in   [596, 647]
+  Glitchwyrm                        2 word     2 in   [596, 647]
+  Der Daten-Parasit                 1 word     1 in   [595]
+  Lichtfunke                        2 word     2 in   [606, 648]
+  Junas Fragment                    2 word     2 in   [605, 648]
+  Die Stimme aus dem Rauschen       2 word     2 in   [615, 649]
+  Cassian                           2 word     2 in   [626, 650]
+  Fragmentierter                    2 word     2 in   [625, 650]

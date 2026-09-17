@@ -1,0 +1,376 @@
+{
+  "document": "charakterkonzepte-fuer-kohaerenz-protokoll",
+  "drive_id": "1TrEID4KSYZRV5DYGh9C8TEKUVlym6EprPumhVqbIydw",
+  "step": "probes",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 105,
+  "backslash_escapes": 406,
+  "typographic_marks": 18,
+  "ascii_quotes": 204,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemagenten",
+      "Systemanalyse",
+      "Systemanforderungen",
+      "Systemanomalie",
+      "Systemarchitektur",
+      "Systembedrohungen",
+      "Systemdefinition",
+      "Systemelemente",
+      "Systemen",
+      "Systemfehler",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systemintegrität",
+      "Systemintervention",
+      "Systemische",
+      "Systemkohärenz",
+      "Systemkollapses",
+      "Systemkomponenten",
+      "Systemkonforme",
+      "Systemkonformer",
+      "Systemkontrolle",
+      "Systemlogik",
+      "Systemlogiken",
+      "Systemmacht",
+      "Systemnatur",
+      "Systemparameter",
+      "Systemphänomen",
+      "Systemprotokoll",
+      "Systemregeln",
+      "Systems",
+      "Systemstabilität",
+      "Systemstörungen",
+      "Systemtheorie",
+      "Systemzustands"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontrastfiguren",
+      "Kontrolle",
+      "Kontrolleur",
+      "Kontrolleurin",
+      "Kontrollfunktion",
+      "Kontrollierender",
+      "Kontrolliert",
+      "Kontrollinstanz",
+      "Kontrollmechanismen",
+      "Kontrollparadigma",
+      "Kontrollprotokoll",
+      "Kontrollprotokolls",
+      "Kontrollsystem",
+      "Kontrollverlust",
+      "Kontrollverlusts",
+      "Kontrollversuche"
+    ],
+    "infor": [
+      "Informant",
+      "Information",
+      "Informationen",
+      "Informationsempfänger",
+      "Informationsflusses",
+      "Informationsfragmente",
+      "Informationsknotenpunkt",
+      "Informationskontrolle",
+      "Informationsleck",
+      "Informationslecks",
+      "Informationsnetzwerk",
+      "Informationsquelle",
+      "Informationsraum",
+      "Informationssystem",
+      "Informationsverarbeitungsfehler",
+      "Informationsverlust"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenkonstrukt",
+      "Datenkorruption",
+      "Datenmustern",
+      "Datenpunkt",
+      "Datenpunkte",
+      "Datensammlung",
+      "Datenströme",
+      "Datenströmen",
+      "Datensystem",
+      "Datenverlust",
+      "Datenzentrum"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsfähigkeit",
+      "Interessantes",
+      "Interesse",
+      "Interessen",
+      "Intern",
+      "Internal",
+      "Interne",
+      "Interner",
+      "Internes",
+      "Intervention",
+      "Interventionen"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbeschuldigung",
+      "Selbstbestrafung",
+      "Selbsthass",
+      "Selbsthelfer",
+      "Selbstständigkeit",
+      "Selbstverachtung",
+      "Selbstverletzung",
+      "Selbstverständnis",
+      "Selbstzustände"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charakterbogen",
+      "Charaktere",
+      "Charakterentwicklung",
+      "Charakterideen",
+      "Charakterkonstellation",
+      "Charakterkonzepte",
+      "Charakters"
+    ],
+    "spiel": [
+      "Spiel",
+      "Spielen",
+      "Spielfreude",
+      "Spielgefährtin",
+      "Spielkameraden",
+      "Spielraum",
+      "Spielregeln",
+      "Spielt",
+      "Spielzeug"
+    ],
+    "regel": [
+      "Regel",
+      "Regelanwendung",
+      "Regelkonform",
+      "Regelkonformität",
+      "Regeln",
+      "Regelsetzung",
+      "Regelstruktur",
+      "Regelverstöße"
+    ],
+    "verst": [
+      "Verstand",
+      "Verstandes",
+      "Verstehen",
+      "Versteht",
+      "Verständnis",
+      "Verständnishorizonts",
+      "Verständnisses",
+      "Verstärkt"
+    ],
+    "ident": [
+      "Identifiziert",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitätsphilosophie",
+      "Identitätsstörung",
+      "Identitätszuständen"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychologische",
+      "Psychologisches",
+      "Psychologist",
+      "Psychology",
+      "Psychotherapy"
+    ],
+    "thera": [
+      "Therapeut",
+      "Therapeuten",
+      "Therapeutic",
+      "Therapeutische",
+      "Therapie",
+      "Therapieerfolg",
+      "Therapy"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysen",
+      "Analyseobjekt",
+      "Analysiert",
+      "Analyst",
+      "Analytiker"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur",
+      "Archiv",
+      "Archivar",
+      "Archive",
+      "Archivs"
+    ],
+    "besch": [
+      "Beschaffenheit",
+      "Beschreibung",
+      "Beschützende",
+      "Beschützer",
+      "Beschützers",
+      "Beschützt"
+    ],
+    "disso": [
+      "Dissociation",
+      "DissociationRelatedDisorders",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativen"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeiten",
+      "Persönlichkeitsanteil",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteilen",
+      "Persönlichkeitsänderungen"
+    ],
+    "poten": [
+      "Potenzial",
+      "Potenziale",
+      "Potenzialen",
+      "Potenzialität",
+      "Potenzials",
+      "Potenzieller"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzbefohlenen",
+      "Schutzfunktion",
+      "Schutzinstinkt",
+      "Schutzintention",
+      "Schutzmechanismus"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumageschichte",
+      "Traumas",
+      "Traumata",
+      "Traumatisierung",
+      "Traumatisierungen"
+    ],
+    "täter": [
+      "Täter",
+      "Täterlogik",
+      "Tätern",
+      "Täters",
+      "Täterstrategien",
+      "Täterverhalten"
+    ],
+    "unter": [
+      "Unterdrückend",
+      "Unterdrückung",
+      "Unterkompensation",
+      "Unterschied",
+      "Unterschätzt",
+      "Unterstützung"
+    ],
+    "veran": [
+      "Verankerung",
+      "Verantwortlich",
+      "Verantwortung",
+      "Verantwortungsgefühl",
+      "Verantwortungslast",
+      "Verantwortungsvolle"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrbereitschaft",
+      "Abwehrmauern",
+      "Abwehrmaßnahmen",
+      "Abwehrmechanismen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Real",
+      "Reality"
+    ],
+    [
+      "Real",
+      "Realität"
+    ],
+    [
+      "Real",
+      "Realitäten"
+    ],
+    [
+      "Real",
+      "Realitätsverleugnung"
+    ],
+    [
+      "Real",
+      "Realitätswahrnehmung"
+    ],
+    [
+      "Roll",
+      "Rolle"
+    ],
+    [
+      "Roll",
+      "Rollen"
+    ],
+    [
+      "Roll",
+      "Kontrolle"
+    ],
+    [
+      "Roll",
+      "Kontrolleur"
+    ],
+    [
+      "Roll",
+      "Kontrolliert"
+    ],
+    [
+      "Roll",
+      "Kontrolleurin"
+    ],
+    [
+      "Roll",
+      "Schriftrollen"
+    ],
+    [
+      "Roll",
+      "Grenzkontrolle"
+    ],
+    [
+      "Roll",
+      "Kontrollsystem"
+    ],
+    [
+      "Roll",
+      "Kontrollverlust"
+    ],
+    [
+      "Roll",
+      "Kontrollinstanz"
+    ],
+    [
+      "Roll",
+      "Systemkontrolle"
+    ],
+    [
+      "Roll",
+      "Kontrollierender"
+    ],
+    [
+      "Roll",
+      "Kontrollversuche"
+    ],
+    [
+      "Roll",
+      "Kontrollfunktion"
+    ]
+  ]
+}
