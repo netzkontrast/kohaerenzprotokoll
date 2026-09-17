@@ -1,7 +1,7 @@
-"""Ask questions about all 409 landed documents without reading any of them.
+"""Ask questions about every landed document without reading any of them.
 
 The wiki has been built from four documents, 1% of the corpus. The two sharpest
-corrections of that work came from querying all 409 -- the renaming turned out to
+corrections of that work came from querying the whole corpus -- the renaming turned out to
 be a cliff on one day rather than a drift, and `Partnerin` turned out to be linked
 to `Juna`/`Julia` in 17 documents after four had suggested it never was.
 
@@ -46,7 +46,7 @@ DERIVED = ROOT / "Plan" / "derived"
 def indexed() -> list[dict]:
     """Every document as its derived surface index -- no document is opened.
 
-    scripts/derive.py has already applied the `surfaces` rule to all 409 and
+    scripts/derive.py has already applied the `surfaces` rule to every document and
     cached the result against each document's checksum. A term question is then a
     dict lookup per document rather than a scan of 2.46 million words, and it
     stays that way no matter how many questions get asked.
@@ -164,7 +164,7 @@ def cmd_family(docs: list[dict], head: str, limit: int = 30) -> dict:
 
     The index counts a compound as one token, so `Kael` and `Kael-Julia-Bindung`
     are separate rows. This command is how that stops being a discrepancy and
-    becomes the answer: the surfaces a term actually wears across 409 documents.
+    becomes the answer: the surfaces a term actually wears across the corpus.
     """
     if not docs or "tokens" not in docs[0]:
         return {"head": head, "error": "needs the derived index — run scripts/derive.py"}

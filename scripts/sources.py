@@ -9,7 +9,7 @@
 
 WHY THIS TOOL EXISTS
 
-Moving 680 documents from Drive to disk through a model's context would cost
+Moving the whole manifest from Drive to disk through a model's context would cost
 millions of tokens, and nothing in a fetch requires understanding.
 
 It turns out none of it has to. The MCP connectors are ordinary HTTP JSON-RPC

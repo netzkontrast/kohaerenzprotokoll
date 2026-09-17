@@ -29,7 +29,7 @@ sometimes not.**
 
 ## Why byte-identity was not enough
 
-Only **2** of the 409 were byte-identical to another, and `sources.py` had
+Only **2** were byte-identical to another, and `sources.py` had
 already caught those two at landing time. The rest differed by export run, a
 heading, a footnote number -- so `sha256` found almost none of it. The comparison
 is a Jaccard overlap of 8-word shingles at 0.8. The threshold is a choice, not a
@@ -87,7 +87,7 @@ def representatives(threshold: float) -> dict[str, str]:
     """Each slug mapped to the first slug of its near-duplicate group.
 
     Cached on disk keyed by (corpus fingerprint, threshold). The comparison is
-    O(n^2) over 409 shingle sets and takes about 48 seconds; `state.py` asks for
+    O(n^2) over every shingle set and takes about a minute; `state.py` asks for
     it on every run, so re-deriving it each time would make the state check
     unusable. The cache is invalidated by any document changing or any document
     being added, which is the same rule `derive.py` uses.

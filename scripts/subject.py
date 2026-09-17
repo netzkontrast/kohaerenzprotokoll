@@ -40,7 +40,7 @@ class Document:
 
     `offset` is the **file** line of the first body line, so a citation written
     from it resolves against the file as it sits on disk -- frontmatter included,
-    which is the convention `Sources/README.md` fixes. 26 of the 409 landed
+    which is the convention `Sources/README.md` fixes. some landed
     documents have no frontmatter at all, so the value is found, never assumed.
     """
 
