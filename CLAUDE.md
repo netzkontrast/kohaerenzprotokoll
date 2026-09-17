@@ -263,10 +263,23 @@ right is the author's call, never the page's.
 
 ## Searching the corpus
 
-`qmd` (github.com/tobi/qmd) indexes five collections — `sources`, `wiki`,
-`census`, `notes`, `plan` — and answers a lowercase German phrase in about 0.2s
-with file and line. `scripts/corpus.py` cannot: its index holds capitalised
-tokens only, and anything else falls back to reading all 346 files.
+`qmd` (github.com/tobi/qmd) indexes seven collections — `sources`, `wiki`,
+`census`, `notes`, `plan`, `decisions`, `all` — and answers a lowercase German
+phrase with file and line. `scripts/corpus.py` cannot: its index holds
+capitalised tokens only, and anything else falls back to reading all 346 files.
+
+**`search` is 0.24s and `query` is 14.5s, and the difference is not small.**
+`search` is BM25 and runs no model. `query` expands the query and reranks with
+one, on CPU — this container has no GPU and says so. A repeated query comes back
+in 0.24s from the index's `llm_cache`, which is how „about 0.2s" got written on
+this page: the phrase in the example below had been asked before. Measured on a
+query never asked, twice: 14.5s both times.
+
+**And the vector half has never run here.** `qmd status` reports **0 of 464
+documents embedded**, so `vsearch` returns „No results found" with a warning, and
+`query`'s vector leg contributes nothing — every result on this page came from
+BM25 alone. `qmd embed` would change that and has not been run. Until it is,
+`qmd bench` would measure the absence of embeddings rather than the backends.
 
 ```python
 from qmd import search
@@ -305,7 +318,7 @@ ledger is searchable and cannot lag behind the `.jsonl` it comes from. The
 to look, and every number that goes into a page or a learning still comes from
 `corpus.py`, `duplicates.py` or a count — which say what they counted and how.
 Nothing in the pipeline depends on qmd, and `.qmd/` and `.tools-node/` are
-git-ignored; `qmd init` and five `collection add` calls rebuild it.
+git-ignored; `scripts/setup_qmd.sh` rebuilds it.
 
 Its first real query is what exposed the duplicate exports above.
 
