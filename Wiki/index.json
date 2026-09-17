@@ -1,7 +1,7 @@
 {
   "built": "2026-09-17",
   "by": "scripts/wiki_index.py",
-  "pages": 59,
+  "pages": 60,
   "conflicts": 6,
   "terms": {
     "aegis-metriken": {
@@ -54,26 +54,29 @@
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "charakterkonzepte-fuer-kohaerenz-protokoll"
+        "charakterkonzepte-fuer-kohaerenz-protokoll",
+        "strukturelle-dissoziation-system-kael-analyse"
       ],
-      "sources": 5,
-      "readings": 6,
+      "sources": 6,
+      "readings": 7,
       "conflict": "C1"
     },
     "alters": {
       "title": "Alters",
       "surfaces": [
         "Alters",
+        "Anteile",
         "alters"
       ],
       "ingested": [
         "entropie-aegis",
         "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "charakterkonzepte-fuer-kohaerenz-protokoll"
+        "charakterkonzepte-fuer-kohaerenz-protokoll",
+        "strukturelle-dissoziation-system-kael-analyse"
       ],
-      "sources": 4,
-      "readings": 3,
+      "sources": 5,
+      "readings": 4,
       "conflict": "C6"
     },
     "ani": {
@@ -165,6 +168,7 @@
         "DID",
         "DID — dissoziative Identitätsstruktur",
         "Dissoziative Identitätsstörung",
+        "Fragmentierung",
         "did",
         "dissoziative Identitätsstruktur",
         "psychische Fragmentierung"
@@ -173,10 +177,11 @@
         "entropie-aegis",
         "kohaerenz-protokoll-konzept",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "charakterkonzepte-fuer-kohaerenz-protokoll"
+        "charakterkonzepte-fuer-kohaerenz-protokoll",
+        "strukturelle-dissoziation-system-kael-analyse"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none yet"
     },
     "ecr": {
@@ -355,10 +360,11 @@
         "entropie-aegis",
         "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "charakterkonzepte-fuer-kohaerenz-protokoll"
+        "charakterkonzepte-fuer-kohaerenz-protokoll",
+        "strukturelle-dissoziation-system-kael-analyse"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "junas-ankerpunkt": {
@@ -402,10 +408,11 @@
         "entropie-aegis",
         "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "charakterkonzepte-fuer-kohaerenz-protokoll"
+        "charakterkonzepte-fuer-kohaerenz-protokoll",
+        "strukturelle-dissoziation-system-kael-analyse"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "kaels-wohneinheit": {
@@ -452,10 +459,11 @@
         "guardians-und-kern-welten-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "charakterkonzepte-fuer-kohaerenz-protokoll"
+        "charakterkonzepte-fuer-kohaerenz-protokoll",
+        "strukturelle-dissoziation-system-kael-analyse"
       ],
-      "sources": 6,
-      "readings": 5,
+      "sources": 7,
+      "readings": 6,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -544,9 +552,10 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 2,
+      "sources": 3,
       "readings": 2,
       "conflict": "C5"
     },
@@ -559,10 +568,11 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "kohaerenz-protokoll-konzept"
+        "kohaerenz-protokoll-konzept",
+        "strukturelle-dissoziation-system-kael-analyse"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -799,6 +809,20 @@
       "readings": 4,
       "conflict": "none"
     },
+    "spannungspunkte": {
+      "title": "Spannungspunkte",
+      "surfaces": [
+        "Pressure Points",
+        "Spannungspunkte",
+        "spannungspunkte"
+      ],
+      "ingested": [
+        "strukturelle-dissoziation-system-kael-analyse"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "system-monitor": {
       "title": "Der Große System-Monitor",
       "surfaces": [
@@ -919,6 +943,7 @@
     "wachterdersystemischenstabilitat": "aegis",
     "blinderhausmeister": "aegis",
     "alters": "alters",
+    "anteile": "alters",
     "aniauerenichtidentifikation": "ani",
     "ani": "ani",
     "archivdesungesagten": "archiv-des-ungesagten",
@@ -931,6 +956,7 @@
     "did": "did",
     "diddissoziativeidentitatsstruktur": "did",
     "dissoziativeidentitatsstorung": "did",
+    "fragmentierung": "did",
     "dissoziativeidentitatsstruktur": "did",
     "psychischefragmentierung": "did",
     "ecrentropischekoharenzregulation": "ecr",
@@ -1011,6 +1037,8 @@
     "snkstrukturiertenichtkontrolle": "snk",
     "snk": "snk",
     "sophia": "sophia",
+    "pressurepoints": "spannungspunkte",
+    "spannungspunkte": "spannungspunkte",
     "groesystemmonitor": "system-monitor",
     "groersystemmonitor": "system-monitor",
     "systemmonitor": "system-monitor",

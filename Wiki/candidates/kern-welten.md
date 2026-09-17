@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 6
-readings: 5
+sources: 7
+readings: 6
 conflict: none
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll", "strukturelle-dissoziation-system-kael-analyse"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -271,4 +271,63 @@ instead (see [[kairos]], [[sophia]]).
 **Contributes a fourth, disjoint Alter roster to Q3** rather than settling
 it — see `q3-how-many-kern-welten-and-alters` and [[alters]]: this document's
 own most confident world-links break one-alter-one-world directly (Nox and
-Praetor share Grenzfeste; Oblivion is given two worlds at once).
+Praetor share [[grenzfeste|Grenzfeste]]; Oblivion is given two worlds at once).
+
+## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28 — a fifth naming, one world one character long
+
+**Four worlds, symbols this short instead of names, sharing no word with any
+naming already on this page:**
+
+> „Co₁ (Ordnung/Kontrolle): Diese Welt symbolisiert den Versuch, durch rigide
+> Struktur, Logik und Kontrolle Stabilität zu erzwingen – eine typische
+> Strategie von ANPs nach dem Trauma, um das innere Chaos (repräsentiert
+> durch B) in Schach zu halten." ^[strukturelle-dissoziation-system-kael-analyse.md:L62]
+
+> „McL (Netzwerk/Wissen): Diese Welt steht für kognitive Verarbeitung,
+> Informationsaustausch und Analyse, potenziell losgelöst von emotionaler
+> Beteiligung." ^[strukturelle-dissoziation-system-kael-analyse.md:L71]
+
+> „B (Chaos/Trauma): Diese Welt ist die direkte Repräsentation der
+> traumatischen Erfahrung, des unintegrierten Schmerzes, der Angst und des
+> Kontrollverlusts." ^[strukturelle-dissoziation-system-kael-analyse.md:L80]
+
+> „Ly (Potentialität/Emergenz): Diese Welt symbolisiert die Möglichkeit der
+> Veränderung, der Heilung, des Wachstums und der Integration – das
+> Potenzial, über das Trauma hinauszuwachsen." ^[strukturelle-dissoziation-system-kael-analyse.md:L89]
+
+**`B` is one character** — shorter than `KW1`–`KW4` and the shortest formal
+symbol this page has carried — and it is safe to cite only because Co₁'s own
+gloss names it directly, „das innere Chaos (repräsentiert durch B)"
+^[strukturelle-dissoziation-system-kael-analyse.md:L62]. Any bare-substring
+count of `B` is meaningless
+(`Sources/terms/strukturelle-dissoziation-system-kael-analyse.md:L134`,
+flagged `<-- substring`); `scripts/reconcile.py`'s own `SHORTEST_COMPARABLE = 4`
+exists for exactly this shape of symbol.
+
+### A fifth independent naming, vocabulary at zero, functions loosely aligned
+
+No word from `Co₁`/`McL`/`B`/`Ly` occurs in any of the four prior namings on
+this page and none of theirs occurs here — the same „vocabularies do not
+touch" pattern already recorded three times above. The functions given here
+sit closest to `roman-lokalitaeten-konzept-und-ausarbeitung`'s KW1–4 table:
+`Co₁` (Ordnung/Kontrolle) reads like KW1 (Logik/Ordnung/Struktur), `B`
+(Chaos/Trauma) like KW2 (Emotion/Trauma), `Ly` (Potentialität/[[emergenz|Emergenz]]) like
+KW4 (Potenzial/Integration); `McL` (Netzwerk/Wissen) sits less cleanly
+against KW3's Abwehr/Kontrolle. **This is an observation, not a join** — no
+document uses both this naming and another's, so nothing here confirms or
+breaks the alignment, recorded the same cautious way this page's own KW↔name
+join was recorded before any document supplied both halves.
+
+`Potentialität/Emergenz` (Ly's gloss) is not the `Emergenz` this corpus
+already tracks — see `Plan/runs/judgements.jsonl` J91: that page is [[aegis|AEGIS]]'s
+own claimed origin from nothingness (`C3`), and this is a Kern-Welt's
+psychological theme of personal growth. Same word, unrelated referents,
+checked and kept apart.
+
+### Still open
+
+A sixth independent naming remains possible, and Q3 (`q3-how-many-kern-welten-and-alters`)
+is no closer to settled: this document reads the four worlds as
+psychologically symbolic rather than physically or numerically, and unlike
+`roman-lokalitaeten-konzept-und-ausarbeitung` it puts no total count on how
+many exist.

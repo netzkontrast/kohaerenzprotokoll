@@ -18,7 +18,7 @@ supplies it has been changed by the other.
 | # | roster | size | source | ingested |
 |--:|---|--:|---|---|
 | 1 | `Limina`, `Nox`, `Echo`, `Flicker`, `Eos`, `Oblivion`, `Praetor`, `Index`, `Silas` (+ `Kael` as Host) | 10 | `charakterkonzepte-fuer-kohaerenz-protokoll` | reconciled |
-| 2 | `Selene`, `Nyx`, `Kiko`, `Lia`, `Isabelle`, `Moros`, `Alex`, `Rhys`, `Lex`, `Argus` (+ `Kael` as the system) | 11 | `strukturelle-dissoziation-system-kael-analyse` | **not reconciled** |
+| 2 | `Selene`, `Nyx`, `Kiko`, `Lia`, `Isabelle`, `Moros`, `Alex`, `Rhys`, `Lex`, `Argus` (+ `Kael` as the system) | 11 | `strukturelle-dissoziation-system-kael-analyse` | reconciled |
 
 ## The measurement
 
@@ -41,8 +41,9 @@ overlap. It is the fourth and largest instance of the pattern this corpus's
 Alter rosters keep producing — see [[alters]] and
 `Wiki/questions/q3-how-many-kern-welten-and-alters.md`, where three earlier
 rosters (from `roman-lokalitaeten-konzept-und-ausarbeitung`,
-`kohaerenz-protokoll-konzept`, and this document) already shared no names with
-each other before this fourth, unreconciled one is even counted in.
+`kohaerenz-protokoll-konzept`, and `charakterkonzepte-fuer-kohaerenz-protokoll`)
+already shared no names with each other before this fourth roster, now also
+reconciled, was even counted in.
 
 ## Why it is not simply a naming difference
 
@@ -55,12 +56,12 @@ cross-reference and no third source has yet named both.
 
 ## What this is not
 
-**Not resolved here, and not resolved by reconciling
-`strukturelle-dissoziation-system-kael-analyse`.** That document is censused
-and noted but not yet reconciled against the wiki — its own reconciliation is
-the next document in `account.py order`, is a separate person's-call, and this
-record does not pre-empt it. Raising the conflict is this reconciliation's
-job; choosing which roster the novel keeps, if either, is not.
+**Not resolved by reconciling `strukturelle-dissoziation-system-kael-analyse`,
+even now that it has been.** That document's reconciliation added its own
+side of the record above (roster confirmed unchanged, both an `ehem.` former
+name and an English epithet for each of its eleven Anteile — see
+[[alters|Alters]]) and chose which roster the novel keeps for none of it. An
+ingest proposes; it never resolves a conflict it is the second half of.
 
 See `Plan/runs/judgements.jsonl` J83 for the one specific near-miss checked
 directly: `Nyx` (roster 2) against `Nox` (roster 1), one letter apart and
@@ -70,13 +71,14 @@ zero-occurrence in both directions — `fold()` correctly keeps them apart.
 
 - A source that uses names from both rosters in one sentence.
 - A source that states these are successive drafts of the same nine-or-so
-  Alters, naming the correspondence rather than leaving it to be inferred from
+  [[alters|Alters]], naming the correspondence rather than leaving it to be inferred from
   role-type alone.
-- `strukturelle-dissoziation-system-kael-analyse`'s own reconciliation, which
-  may surface a rule this record cannot mechanise.
+
+Neither document's own reconciliation surfaced such a rule — both readings
+are recorded on [[alters|Alters]] and neither cross-references the other.
 
 ## Not to be confused with
 
 `C5`, the `Möglichkeits-Garten` scale conflict — the same "two complete sets,
-zero overlap" shape, applied to locations rather than to Alters, and the first
+zero overlap" shape, applied to locations rather than to [[alters|Alters]], and the first
 conflict of that shape in the wiki.

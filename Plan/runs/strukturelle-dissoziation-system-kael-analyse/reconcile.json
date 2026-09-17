@@ -1,0 +1,367 @@
+{
+  "document": "strukturelle-dissoziation-system-kael-analyse",
+  "drive_id": "1hsd-aJ4Y8u3X8oVYc_Bq-0NSySXW-wpJcfApBKzalxk",
+  "step": "reconcile",
+  "at": "2026-09-17",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 59,
+    "conflicts": 6
+  },
+  "state_after": {
+    "pages": 60,
+    "conflicts": 6
+  },
+  "pre_classification": {
+    "candidates": 115,
+    "decisions": 106,
+    "decided_by_lookup": 86,
+    "needs_judgement": 20
+  },
+  "new_terms": [
+    "Spannungspunkte"
+  ],
+  "new_pages": [
+    "spannungspunkte"
+  ],
+  "new_readings": [
+    {
+      "page": "kael",
+      "lines": [
+        15,
+        42,
+        196,
+        246,
+        248,
+        250
+      ],
+      "attribution": "premise",
+      "note": "fifth confirmation of the Michael/Kael rename; System Kael and Kael stated as two surfaces of the existing Host/Gesamtsystem distinction; Alltagsmanager role, TSDP classification, core phobia"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        15,
+        62,
+        71,
+        80,
+        89
+      ],
+      "attribution": "premise",
+      "note": "a fifth independent Kern-Welten naming (Co₁/McL/B/Ly), vocabulary shares nothing with the four prior namings; functions loosely aligned with document 5's KW1-4"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        100,
+        102,
+        106
+      ],
+      "attribution": "premise",
+      "note": "AEGIS's method against System Kael named as a clinical mechanism (weaponised dissociation, Gaslighting) rather than a systems-engineering one; settles neither C1 nor C3"
+    },
+    {
+      "page": "did",
+      "lines": [
+        15,
+        100,
+        179,
+        185,
+        186,
+        194,
+        195,
+        196,
+        568
+      ],
+      "attribution": "premise",
+      "note": "TSDP itself stated on its own terms, cited to Van der Hart/Nijenhuis/Steele, before any application; ANP/EP definitions, three-tier spectrum; bare Fragmentierung folded into the existing psychische-Fragmentierung alias"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        142
+      ],
+      "attribution": "premise",
+      "note": "third independent use of exactly funktionale Multiplizität, restating the Integration-is-not-Fusion distinction in TSDP's own words; AEGIS present but bare Entropie absent, so the entropy/multiplicity question is untouched"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        122
+      ],
+      "attribution": "premise",
+      "note": "Juna/V read entirely through disorganized-attachment theory as a counterweight to AEGIS; never explained beyond that, same deferral pattern as AEGIS"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        15,
+        209,
+        246,
+        248,
+        272,
+        274,
+        295,
+        297,
+        321,
+        323,
+        347,
+        349,
+        372,
+        374,
+        397,
+        399,
+        422,
+        424,
+        447,
+        449,
+        473,
+        475,
+        499,
+        501,
+        503
+      ],
+      "attribution": "premise",
+      "note": "a fifth, eleven-name Anteile roster (former names + English epithets + TSDP classifications), sharing only Kael with charakterkonzepte-fuer-kohaerenz-protokoll's ten; Anteile recorded as this document's own word for Alters; inter-Anteil Amnesie cross-referenced to risse.md without changing that page"
+    }
+  ],
+  "new_surfaces": [
+    "Fragmentierung (did.md alias)",
+    "Anteile (alters.md alias)"
+  ],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6"
+  ],
+  "conflicts_changed_note": "c6-alter-roster-two-documents.md: this document's side moved from 'not reconciled' to 'reconciled'; roster, ehem. former names and English epithets recorded; conflict left open, nothing resolved",
+  "questions_changed": [],
+  "judgements": [
+    "J84",
+    "J85",
+    "J86",
+    "J87",
+    "J88",
+    "J89",
+    "J90",
+    "J91",
+    "J92",
+    "J93",
+    "J94",
+    "J95",
+    "J96",
+    "J97"
+  ],
+  "not_promoted": [
+    {
+      "candidate": "Kohärenz Protokoll",
+      "line": 15,
+      "note": "novel title, self-reference; J93"
+    },
+    {
+      "candidate": "Depersonalisation",
+      "line": 102,
+      "note": "false-positive vs personas.md; J92"
+    },
+    {
+      "candidate": "Konfliktdyaden",
+      "line": 38,
+      "note": "structural heading label; J95"
+    },
+    {
+      "candidate": "PTSD",
+      "line": 194,
+      "note": "imported diagnostic label; J94"
+    },
+    {
+      "candidate": "Subsysteme",
+      "line": 200
+    },
+    {
+      "candidate": "Systemlähmung",
+      "line": 53
+    },
+    {
+      "candidate": "Systemfehler",
+      "line": 106
+    },
+    {
+      "candidate": "OSDD-1",
+      "line": 195
+    },
+    {
+      "candidate": "BPS",
+      "line": 195
+    },
+    {
+      "candidate": "Traumafolgestörungen",
+      "line": 15
+    },
+    {
+      "candidate": "Verteidigungssystem",
+      "line": 23
+    },
+    {
+      "candidate": "Verteidigungs-Aktionssystem",
+      "line": 186
+    },
+    {
+      "candidate": "Defense Cascade",
+      "line": 202
+    },
+    {
+      "candidate": "Phobien",
+      "line": 27
+    },
+    {
+      "candidate": "Phobie vor EPs und traumatischen Erinnerungen",
+      "line": 29
+    },
+    {
+      "candidate": "Phobie vor ANP-Kontrolle und Invalidierung",
+      "line": 30
+    },
+    {
+      "candidate": "Phobie vor spezifischen Affekten oder EPs",
+      "line": 31
+    },
+    {
+      "candidate": "Phobie vor Bindung und Intimität",
+      "line": 32
+    },
+    {
+      "candidate": "Phobie vor mentalen Aktionen",
+      "line": 33
+    },
+    {
+      "candidate": "Phobie vor Integration und Veränderung",
+      "line": 34
+    },
+    {
+      "candidate": "Ko-Bewusstheit",
+      "line": 36
+    },
+    {
+      "candidate": "Switching",
+      "line": 209
+    },
+    {
+      "candidate": "Dissoziationsmechanismen",
+      "line": 202
+    },
+    {
+      "candidate": "Derealisation",
+      "line": 102
+    },
+    {
+      "candidate": "Bindungstheorie",
+      "line": 202
+    },
+    {
+      "candidate": "desorganisierte Bindung",
+      "line": null,
+      "note": "0 occurrences as written; census correction"
+    },
+    {
+      "candidate": "disorganized attachment",
+      "line": 60
+    },
+    {
+      "candidate": "noetic knowledge",
+      "line": 76
+    },
+    {
+      "candidate": "Gaslighting",
+      "line": 100
+    },
+    {
+      "candidate": "kognitive Dissonanz",
+      "line": 102
+    },
+    {
+      "candidate": "Amygdala",
+      "line": 102
+    },
+    {
+      "candidate": "präfrontaler Kortex",
+      "line": 202
+    },
+    {
+      "candidate": "Realisation und Synthese",
+      "line": 216
+    },
+    {
+      "candidate": "phasenorientierter Ansatz",
+      "line": null,
+      "note": "0 occurrences as written; census correction"
+    },
+    {
+      "candidate": "Stabilisierung",
+      "line": 215
+    },
+    {
+      "candidate": "Traumaverarbeitung",
+      "line": 216
+    },
+    {
+      "candidate": "Integration und Rehabilitation",
+      "line": 217
+    },
+    {
+      "candidate": "Fusion",
+      "line": 142
+    },
+    {
+      "candidate": "Homöostase",
+      "line": 221
+    },
+    {
+      "candidate": "Systemtheoretische Aspekte",
+      "line": 221
+    },
+    {
+      "candidate": "Internal Family Systems",
+      "line": 274
+    },
+    {
+      "candidate": "IFS",
+      "line": 274
+    },
+    {
+      "candidate": "das Selbst (im IFS-Modell)",
+      "line": null,
+      "note": "0 occurrences as written; census correction"
+    },
+    {
+      "candidate": "Annäherungs-Vermeidungs-Verhalten",
+      "line": 129
+    },
+    {
+      "candidate": "Freeze/Shutdown/Submit",
+      "line": 399
+    },
+    {
+      "candidate": "Totstellreflex",
+      "line": 23
+    },
+    {
+      "candidate": "Analyse-Paralyse",
+      "line": 514
+    },
+    {
+      "candidate": "Meta-Kognitiver Anteil",
+      "line": null,
+      "note": "0 occurrences as written; census correction"
+    },
+    {
+      "candidate": "Trauma-Reinszenierung",
+      "line": null,
+      "note": "0 occurrences as written; census correction"
+    },
+    {
+      "candidate": "Resonanzräume",
+      "line": 559
+    }
+  ],
+  "found_by_rule_not_by_census": [],
+  "baseline_moved": false
+}

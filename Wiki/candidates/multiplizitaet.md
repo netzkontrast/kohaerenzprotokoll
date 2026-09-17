@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "strukturelle-dissoziation-system-kael-analyse"]
 gathered: "2026-09-16"
 ---
 
@@ -83,3 +83,25 @@ This document also states, independently of the entropy/multiplicity question
 document never mentions `AEGIS` or `Entropie`, so it neither answers nor
 contests „wie unterscheidet sich gesunde Komplexität/Multiplizität von
 destruktiver Entropie/Chaos?".
+
+## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28 — the same phase, restated in TSDP's own words
+
+**A third document uses exactly `funktionale Multiplizität`**, this time as
+the theory's own term rather than a project restatement of it, stating the
+same non-fusion distinction `kohaerenz-protokoll-konzept` already gave:
+
+> „Es ist wichtig zu betonen, dass Integration in der TSDP nicht zwangsläufig
+> Fusion bedeutet, also das vollständige Verschmelzen aller Anteile zu einer
+> einzigen Identität. Insbesondere bei komplexer Dissoziation (Tertiär) kann
+> das Ziel auch eine 'funktionale Multiplizität' sein, bei der die Anteile
+> lernen, zusammenzuarbeiten und harmonischer zu koexistieren, während sie
+> ihre Unterscheidbarkeit teilweise bewahren." ^[strukturelle-dissoziation-system-kael-analyse.md:L142]
+
+**Not in tension with the entropy/multiplicity question either, for a
+different reason than `kohaerenz-protokoll-konzept`'s.** `AEGIS` occurs 75
+times in this document (`Sources/terms/strukturelle-dissoziation-system-kael-analyse.md`)
+— it is not absent — but bare `Entropie` occurs 0 times, checked directly
+against the source. So this document uses [[aegis|AEGIS]] purely as a psychological
+antagonist (see [[aegis|AEGIS]]) without ever invoking the entropy framing
+`entropie-aegis`'s open question depends on, which keeps it from touching
+that question either way.

@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll", "strukturelle-dissoziation-system-kael-analyse"]
 gathered: "2026-09-16"
 ---
 
@@ -173,3 +173,24 @@ from the document's other ten Nebencharaktere. **`Echo` here names two
 unrelated things in this one document** — this proposed Juna-manifestation,
 and the unrelated Alter `Echo (Der Kleine)` in Part II — separated only by
 reading the cited lines, since a plain string count folds them together.
+
+## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28 — read entirely through disorganized attachment
+
+**Never called `Juna` alone — always `Juna/V`, 44 occurrences** — and read as
+a counterweight to [[aegis|AEGIS]] rather than as a person:
+
+> „Die externe Verbindung zu Juna/V stellt einen potenziellen Gegenpol zu
+> AEGIS dar, birgt aber eigene Spannungspunkte, da sie unweigerlich die tief
+> verwurzelten Bindungsmuster und -ängste der einzelnen Anteile aktiviert."
+> ^[strukturelle-dissoziation-system-kael-analyse.md:L122]
+
+The relationship is read through exactly one named clinical frame:
+
+> „wahrscheinlich im Sinne einer desorganisierten Bindung, bei der
+> Bezugspersonen gleichzeitig Quelle von Schutz und Gefahr waren"
+> ^[strukturelle-dissoziation-system-kael-analyse.md:L122]
+
+**Never explained beyond that** — the same deferral pattern this document
+gives [[aegis|AEGIS]]: what Juna/V *is* is left to whatever document already
+established it, and this one states only what she does to the system's
+attachment dynamics.

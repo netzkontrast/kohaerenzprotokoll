@@ -1165,3 +1165,199 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** Word-boundary count: "Nox" occurs 0 times in strukturelle-dissoziation-system-kael-analyse; "Nyx" occurs 0 times in charakterkonzepte-fuer-kohaerenz-protokoll. The two documents name completely disjoint Alter/Anteil rosters (10 names here, 11 there) sharing only Kael/Michael, the host -- not an Alter in either roster.
 
 **Result.** NOT related. fold() correctly keeps them apart; recorded explicitly because the one-letter resemblance is exactly the shape a person, not a lookup, must judge. Feeds the roster conflict raised on alters.md -- see Wiki/conflicts/c6-alter-roster-two-documents.md. Does not reconcile strukturelle-dissoziation-system-kael-analyse, which stays untouched.
+
+## J84 — Kael / Kael (ANP Host) / Selene / Selene (Integration Potential) / Kiko / Kiko (EP Child) / Isabelle / Isabelle (EP Sexualized) / Moros / Moros (EP Collapse) / Alex / Alex (ANP Protector) / Rhys / Rhys (ANP Carer) / Argus / Argus (Observer)
+
+**one-term** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `skipped`
+
+- **rule:** a parenthetical English role-epithet attached to a name at a recurring section header is a label for that name, not a term boundary
+- **mechanised by:** `nothing`
+- **features:** intra-list, epithet-label, section-header-variant
+
+**Question.** is each Anteil's bare name a different term from its parenthetical English epithet, used three times each as a §1.3-§1.5 section label?
+
+**What was done.** Checked all nine pairs: the epithet never occurs outside these three section headers (not in the Teil 3 profile bodies), and always names the same character the bare name does.
+
+**Result.** ONE term per pair, nine times over. The epithet is a role-label variant of the character's own name, not a second character or a second concept.
+
+## J85 — System Kael / Kael
+
+**two-uses-one-page** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** a whole-versus-part distinction a page already states is a second surface of that page's existing distinction, not a new term, when a later document draws the same line under a new name
+- **mechanised by:** `nothing`
+- **features:** intra-list, whole-vs-part, existing-page-distinction
+
+**Question.** does 'System Kael' (the eleven-part whole, 19 occurrences) name a different term from 'Kael' (the primary host Anteil, 74 occurrences), and if so does the whole need its own page?
+
+**What was done.** kael.md already states the Host/Gesamtsystem distinction from charakterkonzepte-fuer-kohaerenz-protokoll (L29: 'Kael nicht nur als den Host-Anteil ... sondern als das Gesamtsystem'). This document reproduces exactly that split under new surfaces (System Kael / Kael) rather than introducing a new distinction.
+
+**Result.** TWO uses inside the document, but the SAME existing page: 'System Kael' is a second surface for the Gesamtsystem sense kael.md already carries, not a new term needing its own page.
+
+## J86 — Aktionssysteme
+
+**stays-import** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `skipped`
+
+- **rule:** an imported term applied to name project-specific instances (using the discipline's vocabulary ON the Anteile) is still the discipline's own word unless the document itself redefines or re-coins it, which this one does not
+- **mechanised by:** `nothing`
+- **features:** imported-vocabulary, cited-to-real-source, census-named-test-case
+
+**Question.** has Aktionssysteme (Panksepp-derived action-systems theory), introduced generically in Teil 2 and then used to classify each of the eleven Anteile individually in Teil 3, become a project-specific term?
+
+**What was done.** The census names this exact term as the test case for 'whether an imported term has become a project term'. Checked whether the document ever redefines it for this project: it does not — every use classifies an Anteil using the discipline's own vocabulary, cited to Panksepp via the TSDP sources, with no project-specific sense stated anywhere.
+
+**Result.** STAYS IMPORT. Deepens the did.md TSDP reading; no page of its own, matching the census's own Homoeostase/Negentropie parallel.
+
+## J87 — Amygdala / präfrontaler Kortex / kognitive Dissonanz
+
+**stays-import** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `skipped`
+
+- **rule:** a real-world scientific citation supporting one clinical claim, used once and never redefined, is recorded as supporting vocabulary for the reading it supports rather than promoted to its own page
+- **mechanised by:** `nothing`
+- **features:** imported-vocabulary, neuroscience-citation, single-paragraph
+
+**Question.** do the neuroscience terms supporting the Gaslighting-as-weapon reading (AEGIS's method) need their own pages?
+
+**What was done.** All three occur once, in the same paragraph (L102), as generic real-world neuroscience supporting one clinical claim (chronic stress and invalidation overactivate the Amygdala and suppress the prefrontal cortex). None recurs elsewhere in the corpus and none is redefined for this project.
+
+**Result.** STAYS IMPORT. Recorded as supporting vocabulary inside the new AEGIS reading rather than promoted, the same treatment Ashby's Law of Requisite Variety received (J74).
+
+## J88 — Anteile / Alters
+
+**one-term** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** a document that uses only the discipline's own native-language word for a concept the corpus otherwise names with a borrowed English word is using the same term under a language variant, not a different concept
+- **mechanised by:** `nothing`
+- **features:** cross-document, language-variant, zero-cross-vocabulary
+
+**Question.** is 'Anteile' (66 standing alone, 94 including 'Anteilen', this document's word throughout) the same term as the wiki's existing 'Alters' page?
+
+**What was done.** Checked: 'Alter'/'Alters' occurs 0 times in strukturelle-dissoziation-system-kael-analyse; 'Anteil'/'Anteile' is the only word this document uses for the concept, and it names the same referent (one part of a dissociated system) that Alters names elsewhere in the corpus.
+
+**Result.** ONE term. Recorded as an alias on alters.md rather than a new page: German 'Anteil' and borrowed-English 'Alter' are the corpus's two working names for the same concept.
+
+## J89 — der Manager / Alltagsmanager / Managers
+
+**one-term** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `skipped`
+
+- **rule:** a role-name's shortened, self-quoted form is the same term as its full compound when the document never distinguishes them and both attach to the same character
+- **mechanised by:** `nothing`
+- **features:** intra-list, zero-occurrence-bare-form, self-quotation
+
+**Question.** the census flags bare 'der Manager' at 0 occurrences; is it a distinct term from 'Alltagsmanager' (2 occurrences) and the inflected 'Managers' Kael uses of himself at L250?
+
+**What was done.** L42 names Kael 'Der primaere Alltagsmanager'; the summary table (L232) repeats 'Alltagsmanager' as one of Kael's role-words; L250 quotes Kael's own self-image as 'des "Managers", der alles zusammenhalten muss' -- three surfaces, one role, no document-internal distinction drawn between them.
+
+**Result.** ONE term: Kael's Alltagsmanager role, of which 'Manager'/'Managers' is the shortened, self-referential form. Folded into the kael.md reading as a role descriptor, not a separate page.
+
+## J90 — Fragmentierung / psychische Fragmentierung
+
+**one-term** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** a bare noun used consistently as shorthand for an already-aliased compound, with no redefinition anywhere in the document, folds with the existing alias
+- **mechanised by:** `nothing`
+- **features:** cross-document, lookup-match, near-synonym
+
+**Question.** does this document's bare 'Fragmentierung' (7 occurrences, describing System Kael's splitting in TSDP's own terms) fold with did.md's existing alias 'psychische Fragmentierung' (from entropie-aegis)?
+
+**What was done.** Checked all seven occurrences (L100, L179, L201, L287, L530, L568 and one more): none redefines the word, all describe the same phenomenon the existing alias names -- personality splitting under trauma -- in the same register TSDP itself uses.
+
+**Result.** ONE term. Added to did.md's alias list and folded into this document's TSDP-grounding reading rather than treated as a new candidate.
+
+## J91 — Potentialität/Emergenz / Emergenz
+
+**not-related** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** the same abstract noun used for a world's psychological theme and for an entity's claimed cosmological origin are different referents even when no other source distinguishes them yet
+- **mechanised by:** `nothing`
+- **features:** cross-document, lookup-match, same-word-different-sense
+
+**Question.** is Ly's Kern-Welt gloss 'Potentialität/Emergenz' the same term as emergenz.md, which tracks AEGIS's claimed origin from nothingness (conflict C3)?
+
+**What was done.** emergenz.md's two readings are both about AEGIS's ontological origin ('Emergenz aus einem Zustand der Leere'). This document's 'Emergenz' names Ly's psychological theme -- personal growth and change ('das Potenzial, ueber das Trauma hinauszuwachsen') -- and never mentions AEGIS's origin at all.
+
+**Result.** NOT related. Kept apart -- the same shape as the corpus's other same-word false conflicts (Zero-Trust/Gatekeeper, Trauma-Halter/Alter).
+
+## J92 — Depersonalisation / Personas
+
+**not-related** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** a substring shared between a clinical term and an unrelated project term is coincidental, not evidence of one concept, unless the document uses them together
+- **mechanised by:** `nothing`
+- **features:** cross-document, lookup-match, substring-false-positive
+
+**Question.** does 'Depersonalisation' (a generic dissociative symptom named twice, L102, L549) relate to the 'Personas' page (the abstract V5 draft terms Michael's DID diagnosis superseded)?
+
+**What was done.** The lookup match is the substring 'persona' inside 'Depersonalisation'. Checked both uses directly: both name the real-world clinical symptom alongside Derealisation, never the V5 draft concept.
+
+**Result.** NOT related. False positive, kept apart -- not promoted, recorded as imported clinical vocabulary in the AEGIS reading.
+
+## J93 — Kohärenz Protokoll / Kohärenz
+
+**not-related** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** a document naming its own novel's title in passing is metatextual self-reference, not a reading of any concept the title happens to contain a word from
+- **mechanised by:** `nothing`
+- **features:** cross-document, lookup-match, self-reference, novel-title
+
+**Question.** is 'Kohärenz Protokoll' (3 occurrences, all naming 'im Roman "Kohärenz Protokoll"') the same term as kohaerenz.md, which tracks the project concept of coherence?
+
+**What was done.** Checked all three lines (L15, L522, L568): every one names the novel itself as a work, never the concept the novel is about. The lookup match is the substring 'koharenz'.
+
+**Result.** NOT related, and not a term at all in the wiki's sense -- the novel's own title, appearing self-referentially. Not promoted; no page and no reading added.
+
+## J94 — PTSD / komplexe PTSD
+
+**one-term** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** a named subtype of an imported real-world diagnosis is the same imported term as its base diagnosis, not a second candidate
+- **mechanised by:** `nothing`
+- **features:** intra-list, imported-diagnostic-label
+
+**Question.** is 'komplexe PTSD' (named once, as a Sekundäre-SD example) a separate term from bare 'PTSD' (named twice, as the Primäre-SD example)?
+
+**What was done.** Both are real-world diagnostic categories cited as examples inside the TSDP spectrum definition (L194-195), not project vocabulary.
+
+**Result.** ONE term (a diagnosis and its named subtype), and it stays imported either way -- not promoted, folded into the did.md TSDP reading as an example the theory cites.
+
+## J95 — Konfliktdyaden / Analyse spezifischer Konfliktdyaden
+
+**one-term** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** a section heading and the bare noun inside it describe the same organisational device, not two terms, and a document's own structural labels are not corpus concepts unless they recur outside that one document
+- **mechanised by:** `nothing`
+- **features:** intra-list, structural-heading-label
+
+**Question.** is the section heading 'Analyse spezifischer Konfliktdyaden' (L38) a different term from bare 'Konfliktdyaden' (L38, L47)?
+
+**What was done.** Both occur describing the same structural device -- the document's own organisation of Teil 1.1 by pairs of Anteile in conflict -- not a corpus concept.
+
+**Result.** ONE term, and it is the document's own structural label rather than a project or discipline concept -- not promoted.
+
+## J96 — Juna/V / Juna
+
+**one-term** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `judgement`
+
+- **rule:** a slash-suffixed surface for an already-tracked name, used consistently and never contrasted with the bare form, is a reading of that name, not a new term
+- **mechanised by:** `nothing`
+- **features:** cross-document, lookup-match, surface-variant
+
+**Question.** is this document's 'Juna/V' (44 occurrences, never bare 'Juna') the same term as juna.md?
+
+**What was done.** Checked the two passages using the surface (L122): both describe exactly juna.md's established role, 'die externe Verbindung' / counterweight to AEGIS, read here through disorganized-attachment theory specifically.
+
+**Result.** ONE term. Added as a new reading on juna.md.
+
+## J97 — Spannungspunkte
+
+**new-page** · strukturelle-dissoziation-system-kael-analyse · 2026-09-17 · replay: `skipped`
+
+- **rule:** a candidate that is neither cited to an external discipline source nor stated inside the document's own modal-hedge register is a project-specific reading and earns a page, even in a document where most candidates are one of the other two shapes
+- **mechanised by:** `nothing`
+- **features:** project-specific, unhedged-definition, contrast-case
+
+**Question.** 60% of this document's candidates are imported discipline vocabulary (J86-type) and the rest are hedged applications to a specific Anteil (J84-type); does 'Spannungspunkte' fit either shape, or does it need its own page?
+
+**What was done.** Checked: it carries none of the 27 external citations that mark the imported half, and its defining sentence (L19) carries none of the document's 220 modal-hedge words that mark the hedged-application half. It is the document's own analytical frame, stated as fact, organising the whole of Teil 1.
+
+**Result.** NEW PAGE. The contrast case that shows the import/occurrence rule discriminates correctly rather than defaulting every candidate to 'not promoted': spannungspunkte.md.

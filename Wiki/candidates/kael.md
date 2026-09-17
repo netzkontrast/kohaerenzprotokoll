@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll", "strukturelle-dissoziation-system-kael-analyse"]
 gathered: "2026-09-16"
 ---
 
@@ -45,6 +45,56 @@ abstraction:
 See [[personas]] for that supersession in full, and [[did|DID]], [[alters]] and
 [[guardians]] for what his inner system and the [[guardians|Guardians]] who misread it consist
 of on this document's own account.
+
+## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28 — a fifth confirmation of the rename, and `System Kael`/`Kael` stated as two uses of one page
+
+**The first document to name all eleven Anteile in one sentence**, and a fifth,
+independent confirmation of the Michael→Kael rename:
+
+> „Dieses Dokument präsentiert eine tiefgehende Analyse des fiktiven
+> psychologischen Systems „System Kael“, bestehend aus den elf identifizierten
+> Anteilen Kael, Selene, Nyx, Kiko, Lia, Isabelle, Moros, Alex, Rhys, Lex und
+> Argus." ^[strukturelle-dissoziation-system-kael-analyse.md:L15]
+
+> „3.1. Kael (ehem. Michael)" ^[strukturelle-dissoziation-system-kael-analyse.md:L246]
+
+**`System Kael` and `Kael` are two surfaces of this one page, not two terms** —
+the document keeps exactly the Host/Gesamtsystem distinction
+`charakterkonzepte-fuer-kohaerenz-protokoll` first stated above:
+`System Kael` (19 occurrences) for the eleven-part whole, `Kael` (74
+occurrences) also for the primary host inside it. Placing the whole on the
+TSDP spectrum names both at once:
+
+> „System Kael mit seinen 4 identifizierten ANPs (Kael, Lex, Alex, Rhys) und
+> 5+ EPs (Nyx, Kiko, Lia, Isabelle, Moros, ggf. Anteile von Selene/Argus)
+> fällt klar in diese Kategorie." ^[strukturelle-dissoziation-system-kael-analyse.md:L196]
+
+Kael himself gets an unhedged clinical classification and a role:
+
+> „TSDP Klassifikation: Primärer ANP (Anscheinend Normaler
+> Persönlichkeitsanteil) – Host." ^[strukturelle-dissoziation-system-kael-analyse.md:L248]
+
+> „Der primäre Alltagsmanager (Kael) steht dem Potenzial für höhere
+> Integration und Selbstregulation (Selene) gegenüber." ^[strukturelle-dissoziation-system-kael-analyse.md:L42]
+
+and his own self-image confirms the role directly, in quotes that are his own
+rather than the document's:
+
+> „Sein Selbstbild ist das des "Managers", der alles zusammenhalten muss,
+> oft auf Kosten eigener Bedürfnisse und emotionaler Ehrlichkeit."
+> ^[strukturelle-dissoziation-system-kael-analyse.md:L250]
+
+`Managers` here is the only occurrence of that word in the document — bare
+`der Manager` never occurs as written (`Sources/terms/strukturelle-dissoziation-system-kael-analyse.md`)
+— so it is read as the same role as `Alltagsmanager` above rather than a
+second name, per J89.
+
+**What is hedged is everything proposed about what Kael does with that
+role** — 220 modal-hedge words in 12,762, one every 58
+(`Sources/terms/strukturelle-dissoziation-system-kael-analyse.md`), none of
+them on the classification, the name or the former name above. See
+[[alters|Alters]] for the ten other Anteile this document names and
+[[spannungspunkte|Spannungspunkte]] for the document's own analytical frame.
 
 ## The rename, measured across all 346 landed documents
 

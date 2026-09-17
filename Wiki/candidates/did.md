@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung", "Dissoziative Identitätsstörung"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "charakterkonzepte-fuer-kohaerenz-protokoll"]
+aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung", "Dissoziative Identitätsstörung", "Fragmentierung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "charakterkonzepte-fuer-kohaerenz-protokoll", "strukturelle-dissoziation-system-kael-analyse"]
 gathered: "2026-09-16"
 ---
 
@@ -115,3 +115,65 @@ research constraint it derives from covert presentation:
 
 See [[alters]] for the fourth roster this document proposes and the way its
 own summary table breaks a strict one-alter-one-world reading.
+
+## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28 — the named clinical theory, stated on its own terms before any application
+
+**The corpus's first document to state the Theory of Structural Dissociation
+(TSDP) itself, cited to its real authors, before applying it to anything
+project-specific:**
+
+> „Die Theorie der Strukturellen Dissoziation (TSDP) postuliert, dass
+> traumatische Erfahrungen, insbesondere wenn sie schwer, chronisch und in
+> frühen Entwicklungsphasen auftreten, zu einer Spaltung der Persönlichkeit
+> führen können. Diese Spaltung ist keine zufällige Fragmentierung, sondern
+> folgt einer spezifischen Struktur, die auf angeborenen psychobiologischen
+> Aktionssystemen basiert." ^[strukturelle-dissoziation-system-kael-analyse.md:L179]
+
+The two halves it splits into:
+
+> „Der ANP ist primär auf die Bewältigung des Alltagslebens ausgerichtet
+> (z.B. Arbeit, soziale Interaktion, Selbstfürsorge). Er vermeidet
+> typischerweise traumatische Erinnerungen und die damit verbundenen
+> Emotionen, um die Funktionsfähigkeit aufrechtzuerhalten."
+> ^[strukturelle-dissoziation-system-kael-analyse.md:L185]
+
+> „Der EP ist an die traumatische Erfahrung gebunden und hält die damit
+> verbundenen Emotionen, Körperempfindungen, Überzeugungen und
+> Verhaltensmuster fest." ^[strukturelle-dissoziation-system-kael-analyse.md:L186]
+
+and the three-tier spectrum, by ANP/EP count rather than by severity alone:
+
+> „Primäre SD: Ein ANP und ein EP (typisch für PTSD)." ^[strukturelle-dissoziation-system-kael-analyse.md:L194]
+
+> „Sekundäre SD: Ein ANP und mehrere EPs (typisch für komplexe PTSD, einige
+> Persönlichkeitsstörungen wie BPS, OSDD-1)." ^[strukturelle-dissoziation-system-kael-analyse.md:L195]
+
+> „Tertiäre SD: Mehrere ANPs und mehrere EPs (typisch für DID, komplexes
+> OSDD-1)." ^[strukturelle-dissoziation-system-kael-analyse.md:L196]
+
+**`Fragmentierung` is this document's own bare synonym for what this page
+already tracks as the alias `psychische Fragmentierung`** (from
+`entropie-aegis`) — seven occurrences, none of them redefining it, all
+describing System [[kael|Kael]]'s condition in TSDP's own terms rather than a project
+coinage ^[strukturelle-dissoziation-system-kael-analyse.md:L100, L179, L568],
+per J90.
+
+### Imported vocabulary that stays imported
+
+`ANP`, `EP`, `Aktionssysteme`, the six named `Phobien`, `Ko-Bewusstheit`,
+`Switching`, `Depersonalisation`, `Derealisation`, `Internal Family Systems`
+and the cited authors (Van der Hart, Nijenhuis, Steele) are this document's
+own citation apparatus for TSDP — 69 of the census's 115 candidates sit under
+this heading
+(`Sources/terms/strukturelle-dissoziation-system-kael-analyse.md`). **None of
+them becomes a project-specific name here.** They deepen this page's own
+clinical grounding — the same treatment the ANP/EP framings from
+`kohaerenz-protokoll-konzept` and `charakterkonzepte-fuer-kohaerenz-protokoll`
+already received above — rather than becoming pages of their own. See
+`Plan/runs/judgements.jsonl` J86 (`Aktionssysteme`), J87 (the Gaslighting
+physiology vocabulary) and J88 (`Anteile` as this document's own word for
+[[alters|Alters]]) for the rule stated for each shape directly.
+
+See [[multiplizitaet|Multiplizität]] for this document's own restatement of
+the Integration-is-not-Fusion distinction (same L142 passage, a third
+independent source for it).

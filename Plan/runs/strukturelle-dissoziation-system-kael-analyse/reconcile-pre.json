@@ -1,0 +1,436 @@
+{
+  "document": "strukturelle-dissoziation-system-kael-analyse",
+  "step": "reconcile-pre",
+  "at": "2026-09-17",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-17",
+  "state": {
+    "pages": 59,
+    "conflicts": 6
+  },
+  "candidates": 115,
+  "decisions": 106,
+  "same_surface": {},
+  "decided_mechanically": 86,
+  "needs_judgement": 20,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 4
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 5
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 6
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung",
+        "page": "did",
+        "readings": 4
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 4
+      },
+      {
+        "candidate": "funktionale Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 2
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Anteile"
+      },
+      {
+        "candidate": "Spannungspunkte"
+      },
+      {
+        "candidate": "Pressure Points"
+      },
+      {
+        "candidate": "Nyx"
+      },
+      {
+        "candidate": "Lia"
+      },
+      {
+        "candidate": "Sexual Alter"
+      },
+      {
+        "candidate": "Lex"
+      },
+      {
+        "candidate": "Lex (ANP Analyst)"
+      },
+      {
+        "candidate": "Nyx (EP Fighter)"
+      },
+      {
+        "candidate": "Lia (EP Child Ambivalent)"
+      },
+      {
+        "candidate": "Co₁"
+      },
+      {
+        "candidate": "McL"
+      },
+      {
+        "candidate": "B"
+      },
+      {
+        "candidate": "Ly"
+      },
+      {
+        "candidate": "Ordnung/Kontrolle"
+      },
+      {
+        "candidate": "Netzwerk/Wissen"
+      },
+      {
+        "candidate": "Chaos/Trauma"
+      },
+      {
+        "candidate": "Subsysteme"
+      },
+      {
+        "candidate": "Systemlähmung"
+      },
+      {
+        "candidate": "Systemfehler"
+      },
+      {
+        "candidate": "Theorie der Strukturellen Dissoziation"
+      },
+      {
+        "candidate": "TSDP"
+      },
+      {
+        "candidate": "Van der Hart"
+      },
+      {
+        "candidate": "Nijenhuis"
+      },
+      {
+        "candidate": "Steele"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "Anscheinend Normaler Persönlichkeitsanteil"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Emotionaler Persönlichkeitsanteil"
+      },
+      {
+        "candidate": "Primäre Strukturelle Dissoziation"
+      },
+      {
+        "candidate": "Sekundäre Strukturelle Dissoziation"
+      },
+      {
+        "candidate": "Tertiäre Strukturelle Dissoziation"
+      },
+      {
+        "candidate": "Primäre SD"
+      },
+      {
+        "candidate": "Sekundäre SD"
+      },
+      {
+        "candidate": "Tertiäre SD"
+      },
+      {
+        "candidate": "OSDD-1"
+      },
+      {
+        "candidate": "BPS"
+      },
+      {
+        "candidate": "Traumafolgestörungen"
+      },
+      {
+        "candidate": "Aktionssysteme"
+      },
+      {
+        "candidate": "Verteidigungssystem"
+      },
+      {
+        "candidate": "Verteidigungs-Aktionssystem"
+      },
+      {
+        "candidate": "Defense Cascade"
+      },
+      {
+        "candidate": "Phobien"
+      },
+      {
+        "candidate": "Phobie vor EPs und traumatischen Erinnerungen"
+      },
+      {
+        "candidate": "Phobie vor ANP-Kontrolle und Invalidierung"
+      },
+      {
+        "candidate": "Phobie vor spezifischen Affekten oder EPs"
+      },
+      {
+        "candidate": "Phobie vor Bindung und Intimität"
+      },
+      {
+        "candidate": "Phobie vor mentalen Aktionen"
+      },
+      {
+        "candidate": "Phobie vor Integration und Veränderung"
+      },
+      {
+        "candidate": "Ko-Bewusstheit"
+      },
+      {
+        "candidate": "lost time"
+      },
+      {
+        "candidate": "Switching"
+      },
+      {
+        "candidate": "Dissoziationsmechanismen"
+      },
+      {
+        "candidate": "Derealisation"
+      },
+      {
+        "candidate": "Bindungstheorie"
+      },
+      {
+        "candidate": "desorganisierte Bindung"
+      },
+      {
+        "candidate": "disorganized attachment"
+      },
+      {
+        "candidate": "noetic knowledge"
+      },
+      {
+        "candidate": "Gaslighting"
+      },
+      {
+        "candidate": "kognitive Dissonanz"
+      },
+      {
+        "candidate": "Amygdala"
+      },
+      {
+        "candidate": "präfrontaler Kortex"
+      },
+      {
+        "candidate": "Realisation und Synthese"
+      },
+      {
+        "candidate": "phasenorientierter Ansatz"
+      },
+      {
+        "candidate": "Stabilisierung"
+      },
+      {
+        "candidate": "Traumaverarbeitung"
+      },
+      {
+        "candidate": "Integration und Rehabilitation"
+      },
+      {
+        "candidate": "Fusion"
+      },
+      {
+        "candidate": "Homöostase"
+      },
+      {
+        "candidate": "Systemtheoretische Aspekte"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "das Selbst (im IFS-Modell)"
+      },
+      {
+        "candidate": "Annäherungs-Vermeidungs-Verhalten"
+      },
+      {
+        "candidate": "Freeze/Shutdown/Submit"
+      },
+      {
+        "candidate": "Totstellreflex"
+      },
+      {
+        "candidate": "Analyse-Paralyse"
+      },
+      {
+        "candidate": "Meta-Kognitiver Anteil"
+      },
+      {
+        "candidate": "Trauma-Reinszenierung"
+      },
+      {
+        "candidate": "Resonanzräume"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "System Kael  /  Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael (ANP Host)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Selene  /  Selene (Integration Potential)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kiko  /  Kiko (EP Child)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Isabelle  /  Isabelle (EP Sexualized)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Moros  /  Moros (EP Collapse)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alex  /  Alex (ANP Protector)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Rhys  /  Rhys (ANP Carer)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Argus  /  Argus (Observer)",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Konfliktdyaden  /  Analyse spezifischer Konfliktdyaden",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "der Manager  /  Alltagsmanager",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "PTSD  /  komplexe PTSD",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Amnesie  /  Amnesiebarrieren",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "System Kael",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael (ANP Host)",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Potentialität/Emergenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "emergenz",
+            "page": "emergenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna/V",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragmentierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      }
+    ]
+  },
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

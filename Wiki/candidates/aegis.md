@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 5
-readings: 6
+sources: 6
+readings: 7
 conflict: C1
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll", "strukturelle-dissoziation-system-kael-analyse"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -211,3 +211,37 @@ und Effektoren in den spezifischen Domänen der Kern-Welten"
 ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L138] — sharpened by a named
 mechanism for why they might not coordinate, see [[guardians|Guardians]] and
 [[zero-trust|Zero-Trust]].
+
+## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28 — the method named as psychological rather than technical
+
+**Never defined here either** — the census notes this directly
+(`Sources/terms/strukturelle-dissoziation-system-kael-analyse.md`) — but for
+the first time AEGIS's attack on [[kael|System Kael]] is stated as a clinical
+mechanism rather than a systems-engineering one:
+
+> „AEGIS nutzt also die Mechanismen der Dissoziation selbst als Waffe, um das
+> System Kael weiter zu spalten und zu kontrollieren." ^[strukturelle-dissoziation-system-kael-analyse.md:L102]
+
+Its instrument is named directly:
+
+> „Gaslighting ist dabei eine besonders perfide Taktik, da sie direkt die
+> Realitätswahrnehmung und das Selbstvertrauen der Anteile angreift."
+> ^[strukturelle-dissoziation-system-kael-analyse.md:L102]
+
+with a stated physiological account of why it works — chronic stress
+overactivating the Amygdala and suppressing the präfrontaler Kortex, favouring
+dissociative states like Depersonalisation and Derealisation
+^[strukturelle-dissoziation-system-kael-analyse.md:L102] — recorded here as
+supporting vocabulary for this one reading, per J87: none of the three terms
+is used elsewhere in the corpus and none is redefined for this project.
+
+Each of the eleven Anteile gets one line naming AEGIS's specific angle of
+attack — [[kael|Kael]]'s, for example:
+
+> „Gaslighting kann ihn an seiner Wahrnehmung der internen Zustände oder der
+> Handlungen von AEGIS zweifeln lassen ("Bildest du dir das nur ein?", "Du
+> überreagierst")." ^[strukturelle-dissoziation-system-kael-analyse.md:L106]
+
+**Compatible with every existing reading and settles neither `C1` nor `C3`** —
+it says nothing about what AEGIS *is*, only what it does, continuing exactly
+the pattern this page's readings already show and the census names directly.

@@ -1,10 +1,11 @@
 ---
 term: Alters
 status: candidate
-sources: 4
-readings: 3
+sources: 5
+readings: 4
 conflict: C6
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
+aliases: ["Anteile"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll", "strukturelle-dissoziation-system-kael-analyse"]
 gathered: "2026-09-16"
 ---
 
@@ -160,21 +161,21 @@ here as one reading, per that rule.
 |---|---|---|--:|
 | [[kael|Kael]] | Host (ANP) | [[konstrukt-stadt|Konstrukt-Stadt]] (KW1) | 502 |
 | Limina — Die Wächterin/Schwellenhüterin | Gatekeeper | [[grenzfeste|Grenzfeste]] (KW3)**?** | 503 |
-| Nox — Der Kritiker | Persecutor | Grenzfeste (KW3) | 504 |
+| Nox — Der Kritiker | Persecutor | [[grenzfeste|Grenzfeste]] (KW3) | 504 |
 | Echo — Der Kleine | Child Alter (Little) | [[resonanz-landschaft|Resonanz-Landschaft]] (KW2) | 505 |
 | Flicker — Die Verspielte | Child Alter | Möglichkeiten-Garten (KW4) | 506 |
-| Eos — Die Verführerin/Kontrolleurin | Manipulator | Konstrukt-Stadt (KW1)**?** | 507 |
+| Eos — Die Verführerin/Kontrolleurin | Manipulator | [[konstrukt-stadt|Konstrukt-Stadt]] (KW1)**?** | 507 |
 | Oblivion — Der Gefrorene | Trauma-Halter (Freeze) | **KW2 (isoliert)/ KW3** | 508 |
-| Praetor — Der Beschützer | Protector | Grenzfeste (KW3) | 509 |
-| Index — Der Analytiker | Internal Self-Helper | Konstrukt-Stadt (KW1)**?** | 510 |
-| Silas — Der Pflegende | Caretaker | Resonanz-Landschaft (KW2)**?** | 511 |
+| Praetor — Der Beschützer | Protector | [[grenzfeste|Grenzfeste]] (KW3) | 509 |
+| Index — Der Analytiker | Internal Self-Helper | [[konstrukt-stadt|Konstrukt-Stadt]] (KW1)**?** | 510 |
+| Silas — Der Pflegende | Caretaker | [[resonanz-landschaft|Resonanz-Landschaft]] (KW2)**?** | 511 |
 
 ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L502-L511]
 
 ### The document's own most confident data breaks one-alter-one-world outright
 
-Kael and the five rows without a `?` are this document's plainest assignments.
-**Two of those five share a world** — Nox and Praetor both to Grenzfeste
+[[kael|Kael]] and the five rows without a `?` are this document's plainest assignments.
+**Two of those five share a world** — Nox and Praetor both to [[grenzfeste|Grenzfeste]]
 (KW3), unhedged — **and a sixth is assigned to two worlds at once** — Oblivion,
 `KW2 (isoliert)/ KW3`, also unhedged. Unlike the third roster
 (`kohaerenz-protokoll-konzept`), which put two alters per world only in a
@@ -251,7 +252,7 @@ werden, sollten dramatische Wechsel […] eher die Ausnahme als die Regel sein."
 ### Two role-labels that only look related to something else on the wiki
 
 `Gatekeeper` (Limina's role) shares a word with [[aegis|AEGIS]]'s own `Entropic
-Gatekeeper` alias on [[aegis|AEGIS]] purely because AEGIS's acronym happens to
+Gatekeeper` alias on [[aegis|AEGIS]] purely because [[aegis|AEGIS]]'s acronym happens to
 contain it — checked and kept apart (J73/J80), the same shape as the corpus's
 first false conflict (`Zero-Trust` against `Zero-Trust-Architektur`, J11).
 `Trauma-Halter` (Oblivion's role) shares a substring with bare `Alter` only
@@ -262,3 +263,78 @@ because `-halter` ends in it — also checked and kept apart (J71).
 The count, the roster and the correspondence — now contradicted from within
 one document's own most confident data rather than merely left open. See
 `Wiki/questions/q3-how-many-kern-welten-and-alters.md`.
+
+## Reading — `strukturelle-dissoziation-system-kael-analyse`, 2025-04-28 — a fifth, eleven-name roster, sharing only `Kael` with the fourth
+
+**Every one of the eleven Anteile carries a former name and a short English
+epithet, each given once**, at the Anteil's own naming-history heading and at
+three further section-labels (§1.3–§1.5):
+
+| Anteil | former name (`ehem.`) | epithet | TSDP classification | lines |
+|---|---|---|---|--:|
+| [[kael|Kael]] | Michael | ANP Host | Primärer ANP – Host | 246–248 |
+| Selene | Die Wächterin | Integration Potential | Modifizierter ANP mit EP-Komponenten *oder* Integrationspotenzial (unresolved) | 272–274 |
+| Nyx | Shadow | EP Fighter | EP – Kampf-orientiert | 295–297 |
+| Kiko | Der Kleine | EP Child | EP – Kind-EP, Flucht/Erstarrung | 321–323 |
+| Lia | Isabella (jüngere Form) | EP Child Ambivalent | EP – Kind-EP, ambivalentes Bindungsverhalten | 347–349 |
+| Isabelle | Isabella (ältere Form) | EP Sexualized / Sexual Alter | sexualisierter Modus (Kampf/Bindung) | 372–374 |
+| Moros | The Lost One | EP Collapse | Freeze/Shutdown/Submit | 397–399 |
+| Alex | Alexander | ANP Protector | Sekundärer ANP – Protektor-Typ | 422–424 |
+| Rhys | Stefan | ANP Carer | Sekundärer ANP – Pflegender/Relationaler Typ | 447–449 |
+| Lex | Data | ANP Analyst | Primärer ANP – Rationalist/Analytiker | 473–475 |
+| Argus | Beobachter/Kritiker | Observer | Entstehender ANP/EP-Mix *oder* Metakognitiver Anteil (unresolved) | 499–501 |
+
+^[strukturelle-dissoziation-system-kael-analyse.md:L246-503]
+
+**Not eleven new pages.** The names and former names above are stated flatly;
+almost everything else said about any one Anteil — what they fear, how they
+act, how they relate to [[aegis|AEGIS]] — is proposed conditionally
+(„könnte", „möglicherweise", „wahrscheinlich"), part of 220 modal-hedge words
+in 12,762
+(`Sources/terms/strukturelle-dissoziation-system-kael-analyse.md`). Selene
+and Argus are the two the document itself will not commit to a single
+category for. That is the same shape document 6's ten hedged profiles
+carried (`oder ähnlich` on every name) applied to the *content* rather than
+the *name*: the roster and its classifications are recorded here, on the page
+the concept belongs to, rather than as eleven pages built from a proposal the
+document does not finish committing to.
+
+**`Anteile` is this document's own word for what the rest of the corpus calls
+`Alters`.** 66 standing alone, 94 with `Anteilen` folded in
+(`Sources/terms/strukturelle-dissoziation-system-kael-analyse.md`), and this
+page's own title-word never occurs in this document at all — zero `Alter` or
+`Alters`, checked directly against `04-counts.txt`. Recorded as an alias
+rather than a second page per J88: both name the same referent, one part of a
+dissociated system, in the corpus's two working languages for the concept
+(German `Anteil`, borrowed English `Alter`).
+
+**Inter-Anteil amnesia is named directly, and cross-references this page's
+own `Risse` cousin rather than duplicating it:**
+
+> „Die Amnesiebarrieren zwischen den Anteilen können unterschiedlich stark
+> ausgeprägt sein, was zu Verwirrung und Misstrauen führt. Kael als Host
+> erlebt möglicherweise "lost time" oder Handlungen, an die er sich nicht
+> erinnert." ^[strukturelle-dissoziation-system-kael-analyse.md:L209]
+
+`Amnesie` is already one of [[risse|Risse]]'s four named symptom-types, from
+`kohaerenz-protokoll-konzept`; this document gives the same phenomenon a
+mechanism (`Amnesiebarrieren` between specific Anteile) without itself using
+the word `Riss`, so the connection is recorded here rather than added to that
+page's own reading count.
+
+### → Conflict C6, this document's side now recorded
+
+`Wiki/conflicts/c6-alter-roster-two-documents.md` already raised this
+document's roster against `charakterkonzepte-fuer-kohaerenz-protokoll`'s ten
+names — zero shared, `Kael` excepted, checked by word-boundary count in both
+directions (`Plan/runs/judgements.jsonl` J83). This reconciliation confirms
+that side of the record and resolves nothing: both documents are now
+reconciled, and the roster gap between them remains open, as it must — an
+ingest proposes and never resolves a conflict.
+
+### The naming-history pattern, extended to ten more Anteile
+
+`Kael (ehem. Michael)` is the fifth independent confirmation of the
+Michael→[[kael|Kael]] rename ([[kael|Kael]]); this document is the first to give any
+Anteil besides [[kael|Kael]] a former name, and it gives all ten of the others one at
+once, in the identical „ehem." construction.
