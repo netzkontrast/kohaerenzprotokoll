@@ -107,8 +107,17 @@ without re-fetching.
 
 ## Frontmatter, and what it costs
 
-Every landed document opens with eight lines of provenance drawn from the
-manifest:
+**383 of the 409 landed documents** open with eight lines of provenance drawn
+from the manifest. **26 do not** — they were landed before this decision was
+taken, and nothing has back-filled them.
+
+That matters more than it looks: code which assumes the body starts at line 10
+silently swallows nine lines of content in those 26. Several ad-hoc counts in
+this repository's history did exactly that. `scripts/profile.py` and
+`scripts/corpus.py` **find** the boundary per document instead, and
+`corpus.py` prints how many documents lack it on every answer.
+
+The eight lines, where they exist:
 
 ```yaml
 ---
