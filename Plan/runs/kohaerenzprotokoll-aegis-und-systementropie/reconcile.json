@@ -1,0 +1,144 @@
+{
+  "document": "kohaerenzprotokoll-aegis-und-systementropie",
+  "drive_id": "1h3qMw4bEpmtj93KKcVRXTzTlag4mBHTISkfcb3Z9Ufw",
+  "step": "reconcile",
+  "at": "2026-09-17",
+  "by": "hand",
+  "state_before": {
+    "pages": 24,
+    "conflicts": 2
+  },
+  "new_terms": [
+    "kohaerenz",
+    "kael-julia-bindung",
+    "blinder-fleck",
+    "potentialmeer",
+    "externe-ebene",
+    "protokoll-v14",
+    "entropie-katastrophe",
+    "aegis-metriken"
+  ],
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        23,
+        195
+      ],
+      "attribution": "mixed",
+      "note": "acronym never expanded; non-expansion recorded as a reading"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        25
+      ],
+      "attribution": "finding",
+      "note": "first operational definition in the corpus"
+    },
+    {
+      "page": "negentropie",
+      "lines": [
+        122
+      ],
+      "attribution": "premise",
+      "note": "closes a question the first source asked two days earlier"
+    },
+    {
+      "page": "did",
+      "lines": [
+        41,
+        45,
+        49
+      ],
+      "attribution": "finding"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        49,
+        165
+      ],
+      "attribution": "finding",
+      "note": "behaviour, still no definition"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        167
+      ],
+      "attribution": "finding"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        195
+      ],
+      "attribution": "finding"
+    }
+  ],
+  "new_surfaces": [
+    {
+      "surface": "Wächter der systemischen Stabilität",
+      "page": "aegis",
+      "relation": "same-role-no-shared-characters",
+      "conflict": false,
+      "line": 15
+    },
+    {
+      "surface": "blinder Hausmeister",
+      "page": "aegis",
+      "relation": "summary-image",
+      "conflict": false,
+      "line": 207
+    },
+    {
+      "surface": "K-J-Bindung",
+      "page": "kael-julia-bindung",
+      "relation": "abbreviation-mid-document",
+      "conflict": false,
+      "line": 151
+    },
+    {
+      "surface": "Simulation",
+      "page": "ueberwelt",
+      "relation": "competing-name",
+      "conflict": false,
+      "note": "44 against 3"
+    }
+  ],
+  "new_conflicts": [
+    {
+      "id": "C3",
+      "subject": "Emergenz",
+      "pages": [
+        "emergenz",
+        "aegis"
+      ],
+      "positions": 2,
+      "sources": 2
+    }
+  ],
+  "conflicts_extended": [
+    {
+      "id": "C1",
+      "added": "a fourth position: deliberate non-expansion"
+    },
+    {
+      "id": "C2",
+      "added": "a third sense: Shannon uncertainty"
+    }
+  ],
+  "checked_not_closed": [
+    {
+      "page": "entropie-signatur",
+      "note": "six metrics are all system-level, none per-alter"
+    }
+  ],
+  "state_after": {
+    "pages": 32,
+    "conflicts": 3
+  },
+  "minutes": 31
+}
