@@ -220,13 +220,21 @@ markdown emphasis, blockquote wrapping, glued footnote numbers, inline
 attribution markers. It says how many quotes it could not check rather than
 counting them as passed.
 
-**And `python3 scripts/selftest.py` proves it can fail.** Six quotation cases and
-seven `fold()` pairs, each carrying the exact defect the checker must name, so a
-case that fails for the wrong reason fails the test. Nobody had ever seen either
-checker fail — which is the shape of the retired pipeline's worst defect: a
-coverage term that returned 1.0 whenever no gold fragments were passed, and was
-never passed any. Two live runs scored 0.987 and 0.967 on a number that could not
-fall for missing anything.
+**And `python3 scripts/read.py` serves the same text in the other direction, so
+the defect need not be written first.** It prints the document with every line
+prefixed by the file line a citation names, and `--find "<the words>"` answers
+with `^[Lnn]` — or refuses, naming the nearest line. Both directions run the same
+comparison on the same normalised line, so a citation `--find` produced passes
+`quotes.py` by construction. Checking afterwards names a defect; asking for the
+number instead of typing it is what stops one.
+
+**And `python3 scripts/selftest.py` proves they can fail.** Six quotation cases,
+four citation cases and seven `fold()` pairs, each carrying the exact defect the
+checker must name, so a case that fails for the wrong reason fails the test.
+Nobody had ever seen any of them fail — which is the shape of the retired
+pipeline's worst defect: a coverage term that returned 1.0 whenever no gold
+fragments were passed, and was never passed any. Two live runs scored 0.987 and
+0.967 on a number that could not fall for missing anything.
 
 **Conflict detection is never mechanised.** Two readings can only be compared by
 reading them, and a program that guessed would reproduce the `Zero-Trust` false

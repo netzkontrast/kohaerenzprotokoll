@@ -97,6 +97,22 @@ def parts_of(quote: str) -> list[str]:
     return [p.strip(" ,;:.") for p in pieces if len(p.strip(" ,;:.")) >= 4]
 
 
+def missing_part(line: str, parts: list[str]) -> str | None:
+    """The first fragment not found, in order, on this one normalised line.
+
+    `scripts/read.py` asks this of every line to answer „which line is this quote
+    on"; `resolve` asks it of the cited line to answer „is it on the one claimed".
+    Both directions have to agree, so there is one implementation.
+    """
+    cursor = 0
+    for part in parts:
+        found = line.find(part, cursor)
+        if found < 0:
+            return part
+        cursor = found + len(part)
+    return None
+
+
 def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
     text = path.read_text(encoding="utf-8")
     starts = [0]
@@ -164,33 +180,26 @@ def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
 
 def resolve(raw: str, default_slug: str | None, quote: str) -> str | None:
     """None when the quote resolves against this reference, else why it did not."""
-    if True:
-        ref = REF.match(raw)
-        if not ref:
-            return UNKNOWN_SOURCE
-        slug = ref.group("slug") or default_slug
-        if not slug:
-            return UNKNOWN_SOURCE
-        first = int(ref.group("line"))
-        last = int(ref.group("last") or first)
-        # A range cites a passage: the quote must resolve within it, on one line.
-        span = [source_line(slug, n) for n in range(first, min(last, first + 40) + 1)]
-        if all(line is None for line in span):
-            return "line is past the end of the document"
-        parts = parts_of(quote)
-        missing = "quote is empty after normalising"
-        for clean in [line for line in span if line is not None]:
-            cursor, gap = 0, None
-            for part in parts:
-                found = clean.find(part, cursor)
-                if found < 0:
-                    gap = part
-                    break
-                cursor = found + len(part)
-            if gap is None:
-                return None
-            missing = gap
-        return f"not on that line: {missing[:60]!r}"
+    ref = REF.match(raw)
+    if not ref:
+        return UNKNOWN_SOURCE
+    slug = ref.group("slug") or default_slug
+    if not slug:
+        return UNKNOWN_SOURCE
+    first = int(ref.group("line"))
+    last = int(ref.group("last") or first)
+    # A range cites a passage: the quote must resolve within it, on one line.
+    span = [source_line(slug, n) for n in range(first, min(last, first + 40) + 1)]
+    if all(line is None for line in span):
+        return "line is past the end of the document"
+    parts = parts_of(quote)
+    missing = "quote is empty after normalising"
+    for clean in [line for line in span if line is not None]:
+        gap = missing_part(clean, parts)
+        if gap is None:
+            return None
+        missing = gap
+    return f"not on that line: {missing[:60]!r}"
 
 
 def slug_of(path: Path) -> str | None:

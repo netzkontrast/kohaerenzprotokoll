@@ -91,12 +91,21 @@ python3 scripts/sources.py land --drive-id <id> --consume    # never open the sp
 
 python3 scripts/capture.py <slug>                # 01-profile, 02-probes, opens the run
 cat Plan/briefings/extract.md                    # procedural knowledge only, read BEFORE the document
-#   read the document with line numbers, writing Plan/runs/<slug>/03-candidates.md AS YOU GO
+python3 scripts/read.py <slug>                   # the document, every line prefixed NNN|
+#   write Plan/runs/<slug>/03-candidates.md AS YOU GO
 python3 scripts/capture.py <slug> --count        # 04-counts: two numbers per term, plus surfaces
 #   write Sources/terms/<slug>.md   (the census)
 #   write Sources/notes/<slug>.md   (the note, every quotation ^[Lnn])
+python3 scripts/read.py <slug> --find "<the words>"   # the citation, or a refusal
 python3 scripts/quotes.py Sources/notes/<slug>.md
 ```
+
+**Do not type a citation next to a quote — ask for it.** `--find` answers with
+`^[Lnn]` when the words are on one line, and refuses when they are not, naming
+the nearest line instead. A citation it produced passes `quotes.py` by
+construction: both ask the same question of the same normalised line. The three
+quotation defects the checker first found were all of one shape — right line,
+right meaning, wrong words — and that shape cannot survive being asked.
 
 Three refusals that are the point of the phase:
 

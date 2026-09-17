@@ -17,11 +17,21 @@ any document is half-processed.
 
 | command | writes |
 |---|---|
+| `read.py <slug> [--from N --to M]` | the document to stdout, each line prefixed `NNN\|` |
+| `read.py <slug> --find "<words>"` | `^[Lnn]`, or a refusal naming the nearest lines — exit 1 |
 | `capture.py <slug>` | `Plan/runs/<slug>/01-profile.txt`, `02-probes.txt`, `run.md` |
 | `capture.py <slug> --count` | `04-counts.txt`, `counts.json` — refuses without `03-candidates.md` |
 | `profile.py <slug>` | structural facts to stdout |
 | `profile.py --frontmatter <slug>` | the census header, drawn from the manifest so no identifier is ever typed |
 | `reconcile.py <slug>` | `Plan/runs/<slug>/reconcile-pre.json` and a printed classification |
+
+`read.py` serves the same text in both directions and neither stores anything:
+the numbers it prints are **file** lines, the ones a citation names, and `--find`
+asks exactly the question `quotes.py` will ask later, through the same
+`missing_part` on the same normalised line. So a citation `--find` produced
+cannot fail the check. When it refuses it says why — the words are on no single
+line, or they span two, which cannot be cited at all because the line number is
+part of the claim.
 
 `04-counts.txt` reports each term **twice** — standing alone, and including
 compounds — because one number cannot answer it in German, and lists the
