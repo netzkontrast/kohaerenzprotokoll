@@ -1,0 +1,14 @@
+# aegis-subplots-kapitelweise-system-exploration-docx
+  lines                620  (frontmatter ends at 9)
+  body words           13947
+  headings             2   bold-only lines 40
+  table rows           0   code fences 0
+  question marks       91
+  backslash escapes    15
+  typographic marks    53   ascii quotes 20
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    180
+  repeated labels      AEGIS-Fokus x39, Analyse des AEGIS-Fokus x39, Konzept/Trope x39, Recherchethemen x39
+  longest line         785 chars
+

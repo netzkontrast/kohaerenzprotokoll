@@ -45,6 +45,44 @@ TYPOGRAPHIC = "\u201e\u201c\u201d\u2018\u2019\u2013\u2014"
 GLUED_REF = re.compile(r"([A-ZÄÖÜ][A-Za-zäöüß\-]{3,})\s(\d{1,2})\b")
 ESCAPE = re.compile(r"\\([\[\]*\"_])")
 WORD = re.compile(r"[A-ZÄÖÜ][A-Za-zäöüß]{3,}")
+PROSE = re.compile(r"\*\*|`|\. |, ")
+
+
+def candidate_terms(markdown: str) -> list[str]:
+    """The `- term` lines, and only those.
+
+    A candidates file also carries prose — an „open while reading" section whose
+    bullets are sentences, not terms. Reading every `- ` line counted nine of
+    those as candidates and reported them at 0 occurrences, which looks exactly
+    like a term the document turned out not to contain.
+    """
+    out = []
+    for line in markdown.split("\n"):
+        if not line.startswith("- "):
+            continue
+        term = line[2:].strip()
+        if term and len(term) <= 40 and not PROSE.search(term):
+            out.append(term)
+    return out
+
+
+def count_both(term: str, text: str) -> tuple[int, int]:
+    """Occurrences as a standalone word, and anywhere including inside compounds.
+
+    One number cannot answer this in German. `Entropie` occurs 39 times alone and
+    46 including `Entropiegewinn`, `Entropiemanagement`, `Entropiepotenzial` —
+    and every one of those is a real mention of the concept. But `V` occurs 7
+    times alone and 198 inside `Verhalten`, `Verbindung`, `Verteidigung`, and not
+    one of those is a mention of anything.
+
+    Counting with a plain substring reported 198, which is the exact trap
+    `02-probes.txt` warns about two sections earlier with `Form < Information`.
+    Counting only whole words would have lost the compounds. So both, always,
+    and the reader sees the ratio.
+    """
+    escaped = re.escape(term)
+    word = len(re.findall(rf"(?<![\w-]){escaped}(?![\w-])", text))
+    return word, len(re.findall(escaped, text))
 
 
 def drive_id_of(slug: str) -> str:
@@ -167,11 +205,7 @@ def count(slug: str) -> Path:
     candidates_file = run / "03-candidates.md"
     if not candidates_file.exists():
         sys.exit(f"write {candidates_file} first -- counting before proposing decides what gets seen")
-    terms = [
-        line.strip("- ").strip()
-        for line in candidates_file.read_text(encoding="utf-8").split("\n")
-        if line.startswith("- ")
-    ]
+    terms = candidate_terms(candidates_file.read_text(encoding="utf-8"))
     if not terms:
         sys.exit(f"{candidates_file} has no `- term` lines yet")
     lines = text.split("\n")
@@ -180,9 +214,13 @@ def count(slug: str) -> Path:
         f"# line numbers are FILE lines, as a citation writes them",
         "",
     ]
+    out.append("#   word = the term standing alone; in = anywhere, compounds included")
+    out.append("")
     for term in terms:
         hits = [i + offset for i, line in enumerate(lines) if term in line]
-        out.append(f"  {term:34} {len(re.findall(re.escape(term), text)):4}  {hits[:8]}")
+        word, inside = count_both(term, text)
+        flag = "  <-- substring" if inside > 2 * max(word, 1) else ""
+        out.append(f"  {term:30} {word:4} word {inside:5} in   {hits[:6]}{flag}")
     (run / "04-counts.txt").write_text("\n".join(out) + "\n", encoding="utf-8")
     reconstructed = "Reconstructed, not original" in candidates_file.read_text(encoding="utf-8")
     write_json(run, slug, "counts", {
@@ -191,7 +229,8 @@ def count(slug: str) -> Path:
         "line_base": "file, from line 1, as a citation writes it",
         "counts": {
             term: {
-                "n": len(re.findall(re.escape(term), text)),
+                "n": count_both(term, text)[0],
+                "n_including_compounds": count_both(term, text)[1],
                 "lines": [i + offset for i, line in enumerate(lines) if term in line],
             }
             for term in terms

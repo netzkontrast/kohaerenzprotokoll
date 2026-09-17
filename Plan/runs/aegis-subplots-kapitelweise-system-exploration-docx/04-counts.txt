@@ -1,0 +1,58 @@
+# counts for 53 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                           257 word   342 in   [11, 13, 17, 21, 22, 23]
+  Kael                            154 word   241 in   [13, 22, 29, 34, 35, 36]
+  Juna                              9 word     9 in   [126, 133, 419, 420, 427, 433]
+  V                                 7 word   198 in   [27, 35, 36, 37, 40, 43]  <-- substring
+  Guardian                         22 word    63 in   [47, 48, 49, 50, 56, 94]  <-- substring
+  Guardians                        30 word    32 in   [47, 56, 94, 107, 139, 185]
+  LogOS                            13 word    13 in   [47, 49, 55, 56, 152, 159]
+  Cerberus                          4 word     4 in   [133, 254, 273, 492]
+  Mnemosyne                         6 word     7 in   [120, 273, 280, 388, 492]
+  KW1                               8 word    10 in   [55, 94, 151, 152, 153, 158]
+  KW3                               1 word     1 in   [254]
+  Kernwelt 1                        1 word     1 in   [152]
+  Kern-Welt                         0 word     0 in   []
+  Riss                             11 word    19 in   [93, 94, 99, 100, 101, 107]
+  Risse                             5 word     8 in   [93, 99, 108, 146, 196, 241]
+  Entropie                         32 word    39 in   [35, 42, 60, 61, 62, 63]
+  Prä-Entropie                      1 word     1 in   [35]
+  Entropie-Score                    1 word     1 in   [42]
+  Entropiepotenzial                 1 word     1 in   [178]
+  Entropiemanagement                1 word     1 in   [63]
+  Entropiegewinn                    1 word     1 in   [65]
+  Informationsentropie              2 word     2 in   [62, 65]
+  Alter                             1 word    12 in   [23, 61, 120, 126, 130, 133]  <-- substring
+  Alters                            6 word     6 in   [126, 130, 133, 165, 172, 202]
+  EP                                1 word     3 in   [60, 61, 68]  <-- substring
+  Externe Ebene                     1 word     1 in   [61]
+  TSDP                              1 word     2 in   [35, 40]
+  Bedrohungsstufe                   1 word     1 in   [178]
+  Kohärenz                          2 word     2 in   [177, 178]
+  Integration                      22 word    23 in   [126, 127, 130, 133, 134, 164]
+  Synthese                          6 word     7 in   [164, 165, 166, 171, 172, 173]
+  Simulation                       17 word    31 in   [30, 100, 101, 102, 105, 107]
+  Realitätsformung                  5 word     5 in   [30, 82, 389, 415, 454]
+  Datenkorruption                   2 word     3 in   [61, 68, 69]
+  Systemstabilität                  4 word     4 in   [30, 114, 121, 212]
+  Systemmonitor                     1 word     1 in   [68]
+  Guardian-Subroutine               0 word     1 in   [146]
+  Kerndirektive                     0 word     2 in   [241, 440]
+  Teil 1                           16 word    16 in   [19, 32, 45, 58, 71, 84]
+  Teil 2                           17 word    17 in   [186, 192, 205, 218, 231, 244]
+  Teil 3                           15 word    15 in   [359, 365, 376, 378, 391, 404]
+  Architekten                       3 word     3 in   [413, 414, 453]
+  Wächter                           2 word     3 in   [279, 530, 531]
+  Kernwelten                        3 word     3 in   [479, 485, 492]
+  Kernsystem                        0 word     2 in   [293, 531]
+  Kerncode                          2 word     3 in   [241, 414, 459]
+  Quellcode                         1 word     3 in   [460, 465, 466]  <-- substring
+  Rest-AEGIS                        1 word     1 in   [531]
+  Realitätsverformung               1 word     1 in   [414]
+  Simulations-Engine                3 word     3 in   [101, 311, 415]
+  Innere Reise                      0 word     0 in   []
+  Meta-Ebene                        0 word     0 in   []
+  Äußere Konfrontation              0 word     0 in   []
