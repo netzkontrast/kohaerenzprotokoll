@@ -186,13 +186,19 @@ wraps the existing scripts rather than replacing them.
 | reconcile | `reconcile.py <slug>` | judgements to the ledger with a rule stated in words |
 | record | `reconcile.json` + `Wiki/compare/` | `state_before`/`state_after`, so `account.py order` can check it |
 
-**Where qmd belongs: orientation only, and only `search`.** Measured — `search`
-is 0.24s and `query` is 14.5s uncached, 0 of 464 documents are embedded so
-`vsearch` returns nothing, and `CLAUDE.md`'s rule stands: a search result is a
-place to look and never a number in a page.
+**Where qmd belongs: orientation only, and only `search`.** Measured, after
+embeddings completed — `search` is 0.22s and `query` is **2m41s**, and
+`CLAUDE.md`'s rule stands: a search result is a place to look and never a number
+in a page.
+
+*Correction, 2026-09-17.* This paragraph first read „`query` is 14.5s uncached,
+0 of 464 documents are embedded". Both halves were wrong together: the 14.5s was
+measured against a corpus with **zero** embeddings, so it timed the fallback
+rather than the feature. With 8,673 vectors built the same command takes 2m41s —
+eleven times slower — which reverses the recommendation the number was supporting.
 
 **Where qmd must not be called:** reconciliation, which reads `Wiki/index.json`
-and must stay `O(census) + O(judgement)`; and any loop, because of the 14.5s.
+and must stay `O(census) + O(judgement)`; and any loop, because of the 2m41s.
 
 ## What the repo survey still offers, and what it does not
 
