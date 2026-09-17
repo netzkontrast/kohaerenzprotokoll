@@ -1,3 +1,5 @@
+written_by: a reader, while reading, before any count
+
 # Candidates — roman-lokalitaeten-konzept-und-ausarbeitung
 
 Written while reading, before any count. One `- term` per line.

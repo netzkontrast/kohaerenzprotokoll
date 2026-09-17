@@ -47,7 +47,7 @@ afterwards — four reconstructed lists exist, are marked as reconstructions, an
 ## 1 · Open the run
 
 ```bash
-python3 scripts/capture.py <slug>                 # 01-profile.txt, 02-probes.txt, run.md
+python3 scripts/capture.py <slug>                 # 01-profile.txt, 02-probes.txt
 python3 scripts/profile.py --frontmatter <slug>   # the census header, from the manifest
 ```
 

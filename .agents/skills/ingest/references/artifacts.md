@@ -13,7 +13,7 @@ is read by something later, which is why the shape matters.
 | `04-counts.txt`, `counts.json` | `capture.py --count` | two numbers per term, plus surfaces |
 | `reconcile-pre.json` | `reconcile.py <slug>` | lookup versus judgement |
 | `reconcile.json` | a person | what the run left |
-| `run.md` | `capture.py`, then a person | timings, and what is missing |
+| `run.md` | a person, when there is something to say | timings, and what is missing. **No script writes it** — `capture.py`'s docstring claimed it did, in three places, and no run had one |
 
 `03-candidates.md` is one `- term` per line. A prose section is allowed and is
 filtered out — only `- term` lines count, which was learned when nine sentences
