@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 1
-readings: 1
-conflict: none yet
-ingested: ["aegis-emergenz-aus-der-leere"]
+sources: 2
+readings: 2
+conflict: C3
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie"]
 gathered: "2026-09-16"
 ---
 
@@ -43,12 +43,24 @@ And physically and philosophically:
 `emergente`, `emergenten`, `emergenter` (8 total) — and `Emergenzkriterium` (2).
 **An exact-string index sees six terms here.**
 
-## Open
+## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
-`Emergenz` is a word with a settled meaning outside this project, which normally
-means it does not drift. **Here it does not obviously stay borrowed**: the
-postulate uses it for something stronger than the systems-theory sense, and the
-source spends its first section saying so.
+Emergence **within** a system, not of one:
 
-Whether any other source means emergence *within* a system rather than *of*
-everything is not answerable from here — and the two are not compatible.
+> „AEGIS ist plausibler ein emergentes Phänomen, das innerhalb der komplexen
+> Dynamik der Simulation entstanden ist, um Informationen zu verwalten und
+> Stabilität aufrechtzuerhalten." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L195]
+
+The argument is that this **explains a defect**: AEGIS developed using the
+simulation's own physics and data types, so it would not develop senses for
+phenomena resting on other principles ^[kohaerenzprotokoll-aegis-und-systementropie.md:L197]. See `blinder-fleck`.
+
+**→ Conflict `C3`** — `Wiki/conflicts/c3-emergenz-origin.md`. Both sources use the
+word correctly and mean opposite things by it, and what it decides is whether
+AEGIS can be wrong about its own world.
+
+## Note
+
+`Emergenz` has a settled meaning outside this project, which normally keeps a term
+from drifting. **It did not help here** — the drift is in what the word is applied
+to, not in the word.
