@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -113,3 +113,20 @@ This document uses „Die Simulierten Welten" for the four worlds specifically
 level — consistent with `roman-lokalitaeten-konzept-und-ausarbeitung`'s finding
 that a third document uses `Simulation` without meaning [[ueberwelt|Überwelt]].
 See that page's reading for J30.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18
+
+**[[juna|Juna]]'s primary anchor, named directly, agreeing with the [[ueberwelt|Überwelt]]-parallel
+structure `kohaerenz-protokoll-konzept` already gives the layer:**
+
+> „Obwohl sie durch ihren Einfluss auf Kael mit allen Kern-Welten verbunden
+> ist, ist ihre primäre Verankerung die Externe Ebene."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L112]
+
+This document also gives Juna a distinct manifestation per Kern-Welt while
+her anchor stays here — see [[juna|Juna]] — which is compatible with, and
+adds detail to, `roman-lokalitaeten-konzept-und-ausarbeitung`'s reading of her
+as this level's `Verbindung` rather than its bearer. Does not choose among
+the layer's competing natures (physical reality, higher dimension,
+consciousness field) that Section X of `kohaerenz-protokoll-konzept` lists —
+this document never raises the question.

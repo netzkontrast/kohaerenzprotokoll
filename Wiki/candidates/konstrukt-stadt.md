@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -52,3 +52,19 @@ How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
 containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18
+
+**[[kael|Kael]]'s starting world, stated as certain — the one Kern-Welt assignment in
+this document's own summary table without a hedge** (L502, see [[alters]] and
+`q3-how-many-kern-welten-and-alters`). It is also where the document places
+[[logos|LogOS]] (see [[logos]]) and two of its eleven hedged Nebencharaktere —
+`Dr. Aris Thorne` (Therapeut-Konstrukt) and `Herr Jansen` (Der 'Normale'
+Nachbar) — neither promoted to its own page, per the same hedge that
+withholds pages from the whole set
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L526, L536].
+
+`AEGIS` does occur in this document, and Konstrukt-Stadt is named as one of
+the four worlds [[aegis|AEGIS]]'s rules structure directly: „Die Struktur der vier
+Kern-Welten […] spiegelt die fragmentierte Natur von Kaels Gesamtsystem
+direkt wider" ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L30].

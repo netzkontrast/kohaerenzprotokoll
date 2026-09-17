@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 2
+sources: 3
 readings: 2
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -102,3 +102,23 @@ name: `Möglichkeits-Garten` in document 4, `Garten der Möglichkeiten` here, wi
 zero occurrences of the hyphenated form in this document.
 
 **Nothing is merged and nothing is chosen.** See the conflict record.
+
+## A third spelling — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — a surface question, not a new reading
+
+**A third spelling, and this document never uses the tracked hyphenated
+form.** Twelve occurrences of `Möglichkeiten-Garten` (plural genitive), zero
+of `Möglichkeits-Garten` (this page's tracked surface) and zero of
+`Garten der Möglichkeiten` (document 6's spelling):
+
+> „Die Struktur der vier Kern-Welten (Konstrukt-Stadt, Resonanz-Landschaft,
+> Grenzfeste, Möglichkeiten-Garten)" ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L30]
+
+`fold()` keeps word-order and hyphen placement, so this does not merge
+mechanically with either existing spelling — three surfaces now, one per
+document, none folded to another by code. Read as the same world throughout
+this reading (Flicker's unhedged KW4 assignment, [[alters]], names it this
+way too), because the document pairs it with the same three other world-names
+in the same sentence document 4 uses. **Recorded as the surface question it
+is, not resolved**: a fourth document using any two of the three spellings
+together would settle whether this is one name drifting or three documents
+each inventing their own.

@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -111,3 +111,29 @@ and he cannot see it: „Kael selbst hat hier normalerweise keinen Zugang."
 
 **Everything above about what the worlds do is design instruction** („zu
 konzipieren", „sollte"). The location assignments are not.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — `Kael`, already the name, and the Host/Gesamtsystem distinction stated directly
+
+**First document read from `charaktere`, dated the day after the rename**
+(see the table above) — it uses `Kael` throughout, 161 occurrences, never
+`Michael`, consistent with the cliff already measured. It is also the first
+source to distinguish `Kael the Host` from `Kael the Gesamtsystem` in one
+sentence, rather than leaving the distinction implicit:
+
+> „Es ist entscheidend, Kael nicht nur als den Host-Anteil zu verstehen,
+> sondern als das Gesamtsystem – die Entität, die alle dissoziierten Anteile
+> (Alters) umfasst." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L29]
+
+His starting condition and inciting event, tied together:
+
+> „Kael beginnt seine Reise unmittelbar nach einem systemweiten \"universal
+> reboot\" in der Konstrukt-Stadt." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L26]
+
+He is given his own blind spot — „Anfänglich ist sein größter blinder Fleck
+die Existenz seiner eigenen DID und der simulierten Realität"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L50] — recorded on
+[[blinder-fleck|Blinder Fleck]] as a third kind of bearer alongside [[aegis|AEGIS]] and
+the [[guardians|Guardians]]. See [[alters]] for the ten-Alter roster this document proposes
+for his `Gesamtsystem`, [[did|DID]] for the ANP/EP framing, and
+[[aegis|AEGIS]] and [[guardians|Guardians]] for his relationship to the
+system that structures his worlds.

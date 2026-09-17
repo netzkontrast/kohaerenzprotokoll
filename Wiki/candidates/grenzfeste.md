@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -52,3 +52,18 @@ How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
 containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — this document's own most confident data collides here
+
+**Named as [[cerberus|Cerberus]]'s domain again**, and the world three
+different [[alters|Alters]] are unhedged-assigned to in the summary table
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L504, L509] plus one
+hedged (Limina, `?` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L503]).
+**Nox and Praetor share this world, both unhedged** — the document's own most
+confident rows contradicting a strict one-alter-one-world reading directly;
+Oblivion is also given this world as one of two at once, per the summary
+table's own `Primärer Kern-Welt Link` cell for that row
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L508].
+See [[alters]] and `q3-how-many-kern-welten-and-alters` for the full argument.
+Also home to the Nebencharakter `Einheit 734` (Regel-Exekutor), not promoted
+to its own page.

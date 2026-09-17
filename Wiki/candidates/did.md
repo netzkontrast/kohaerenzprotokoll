@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung", "Dissoziative Identitätsstörung"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -88,3 +88,30 @@ all (0 occurrences of either, checked directly against the source).
 See [[alters]] for the roster this document proposes, and
 [[multiplizitaet|Multiplizität]] for the therapy-phase structure (Stabilisierung
 / Traumabearbeitung / Integration) this document builds around the diagnosis.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — a named theory, and the ANP/EP split stated for a fourth roster
+
+**A second document to ground DID in the named structural-dissociation
+theory**, agreeing with `kohaerenz-protokoll-konzept`'s ANP/EP framing rather
+than repeating it — this one attributes the same theory by name and states
+which part of the Host each half explains:
+
+> „Im Rahmen der Theorie der strukturellen Dissoziation werden Hosts als
+> \"Anscheinend Normale Persönlichkeitsanteile\" (ANPs) betrachtet […]
+> während andere Anteile (Emotionale Persönlichkeitsanteile, EPs) oft die
+> traumatischen Erfahrungen halten." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L26]
+
+Also states the same „no true self underneath" claim `kohaerenz-protokoll-konzept`
+already gives, independently reached: „Diese sind keine \"Persönlichkeiten\" im
+umgangssprachlichen Sinn, sondern dissoziierte Selbstzustände"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L217]. And it takes the
+sensitivity brief further than either prior document, naming the specific
+research constraint it derives from covert presentation:
+
+> „Da die meisten Fälle von DID als verdeckt (covert) beschrieben werden,
+> sollten dramatische Wechsel oder offensichtliche
+> Persönlichkeitsänderungen eher die Ausnahme als die Regel sein."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L231]
+
+See [[alters]] for the fourth roster this document proposes and the way its
+own summary table breaks a strict one-alter-one-world reading.

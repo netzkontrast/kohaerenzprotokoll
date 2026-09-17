@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -132,3 +132,20 @@ profile field name the document repeats seventeen times —
 
 `Negentropie` does not occur. Neither does any account of where entropy comes
 from, what raises it, or what the numbers on the monitor are measured in.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — the first sense used, still not defined
+
+**23 occurrences, and every one assumes the first sense** — disorder [[aegis|AEGIS]]
+resists — without arguing for it or naming the other two `entropie-aegis`
+asked about and never received:
+
+> „die Aufrechterhaltung der Systemintegrität durch die aktive Minimierung
+> und Kontrolle von Entropie (verstanden als Unordnung, Chaos, Zufälligkeit,
+> Informationsverlust)." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L118]
+
+[[juna|Juna]], [[kael|Kael]]'s DID system and the [[risse|Risse]] are each named as a source of it
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L106, L125], consistent with
+every prior reading and adding no new sense — **does not contribute to
+conflict `C2`**, since it neither restates the creative-matrix sense nor the
+Shannon-uncertainty sense, only the original disorder sense, in the same
+gloss `entropie-aegis` used and never defined either.

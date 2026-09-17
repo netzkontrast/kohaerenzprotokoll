@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 gathered: "2026-09-16"
 ---
 
@@ -125,3 +125,51 @@ fail on. See [[system-monitor]], [[blinder-fleck]].
 
 Who she is. The document never says whether she is a person, a process or a
 place, and never uses the name `Julia` this page carries as a surface.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — a manifestation per world, and a proposed localised fragment
+
+**She is not constant, and her form is world-specific**, agreeing with
+`roman-lokalitaeten-konzept-und-ausarbeitung`'s reading of her as a
+per-location `Verbindung` rather than a single fixed presence:
+
+> „Ihre Präsenz ist nicht konstant oder körperlich fixiert. Sie manifestiert
+> sich unterschiedlich in den verschiedenen Kern-Welten […]: möglicherweise
+> distanziert und beobachtend in der logischen Konstrukt-Stadt (KW1), als
+> flüchtiges Echo oder Gefühl in der emotionalen Resonanz-Landschaft (KW2),
+> als bedrohlicher \"Kontaminant\" oder Störfaktor in der defensiven
+> Grenzfeste (KW3) und als Symbol der Hoffnung oder des unerreichten
+> Potenzials im Möglichkeiten-Garten (KW4)."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L111]
+
+[[aegis|AEGIS]] reads her the same way `kohaerenz-protokoll-konzept`'s [[seele-info|Seele=Info]]
+paradigm reads Michael — as an anomaly outside its categories:
+
+> „AEGIS betrachtet Juna als eine kritische Systemanomalie, eine
+> nicht-quantifizierbare Variable und eine Quelle gefährlicher Entropie, die
+> die Systemintegrität bedroht […] Da Juna und ihre Verbindung zur Externen
+> Ebene nicht in AEGIS' logisches, binäres Schema von Ordnung/Chaos passen,
+> repräsentiert sie einen fundamentalen \"blinden Fleck\" für das
+> Kontrollprotokoll." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L106]
+
+Her anchor is the [[externe-ebene|Externe Ebene]] — see that page's own new reading.
+
+### `Junas Fragment`, a proposed localised manifestation — a reading, not a new page
+
+One of the document's eleven hedged Nebencharaktere: a partial, weaker
+presence of Juna inside one Kern-Welt, proposed under the name `Echo /
+Lichtfunke (oder ähnlich)`:
+
+> „9. Junas Fragment (Manifestation in einer Kern-Welt)"
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L605]
+
+> „Dient als direkter Ankerpunkt oder Kommunikationsversuch von Juna
+> innerhalb einer spezifischen Kern-Welt (z.B. das \"Echo\" in KW2, das
+> \"Symbol\" in KW4). Ist verletzlicher oder begrenzter als Juna selbst."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L608]
+
+`Plan/runs/judgements.jsonl` J72/J82: this is a reading of Juna, not a second
+term and not a new page — the same hedge (`oder ähnlich`) that withheld pages
+from the document's other ten Nebencharaktere. **`Echo` here names two
+unrelated things in this one document** — this proposed Juna-manifestation,
+and the unrelated Alter `Echo (Der Kleine)` in Part II — separated only by
+reading the cited lines, since a plain string count folds them together.

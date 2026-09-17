@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -52,3 +52,12 @@ How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
 containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18
+
+**Named as [[mnemosyne|Mnemosyne]]'s domain again** and given as Echo's
+unhedged Kern-Welt link in the summary table
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L505] — one of the document's
+six unhedged assignments (see [[alters]],
+`q3-how-many-kern-welten-and-alters`). Silas is hedged to this world with a
+`?` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L511].

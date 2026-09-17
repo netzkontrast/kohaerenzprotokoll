@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 5
-readings: 4
+sources: 6
+readings: 5
 conflict: none
-ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -248,3 +248,27 @@ resolved: `Trauma-Loop` occurs nowhere else in the document.
 `q3-how-many-kern-welten-and-alters` for what this document adds to the alter
 count and correspondence question — a non-one-to-one roster, unlike document
 6's exactly-one-per-world shape.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — a fifth confirmation, hyphenated, and a fourth alter roster
+
+**The hyphenated `Kern-Welten`, `KW1`–`KW4`, and all four world names from
+document 4 in one sentence** — the first document to use both the hyphenated
+term and the numbered shorthand together with document 4's own names:
+
+> „Die Struktur der vier Kern-Welten (Konstrukt-Stadt, Resonanz-Landschaft,
+> Grenzfeste, Möglichkeiten-Garten) spiegelt die fragmentierte Natur von
+> Kaels Gesamtsystem direkt wider." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L30]
+
+This confirms the join `KW1–4` ↔ the four named worlds directly, in one
+document's own words, rather than by this page's earlier inference across
+two documents that never shared both halves. It also assigns three of the
+four to their tracked Guardian again — [[logos|LogOS]]/[[konstrukt-stadt|Konstrukt-Stadt]],
+[[mnemosyne|Mnemosyne]]/[[resonanz-landschaft|Resonanz-Landschaft]], [[cerberus|Cerberus]]/[[grenzfeste|Grenzfeste]]
+— and separates [[kairos|Kairos]] from [[sophia|Sophia]] for the first time,
+placing [[kairos|Kairos]] alone in Möglichkeiten-Garten and [[sophia|Sophia]] in the [[ueberwelt|Überwelt]]
+instead (see [[kairos]], [[sophia]]).
+
+**Contributes a fourth, disjoint Alter roster to Q3** rather than settling
+it — see `q3-how-many-kern-welten-and-alters` and [[alters]]: this document's
+own most confident world-links break one-alter-one-world directly (Nox and
+Praetor share Grenzfeste; Oblivion is given two worlds at once).

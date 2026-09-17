@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "charakterkonzepte-fuer-kohaerenz-protokoll"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -128,6 +128,30 @@ outside it.** One clause, hedged, undeveloped. See [[junas-ankerpunkt]],
 Nothing here contradicts the earlier readings. It is a mechanism where they gave
 manifestations, and the inversion is the document reporting a second point of
 view rather than a second account.
+
+## Reading — `charakterkonzepte-fuer-kohaerenz-protokoll`, 2025-04-18 — a proposed creature that feeds on them, and AEGIS's own fear of them named
+
+**[[aegis|AEGIS]]' own „Ängste" name Risse directly as one of its greatest threats** —
+„das Auftreten von \"Rissen\" (als Symptome von Kontrollverlust)"
+^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L125] — consistent with every
+prior reading and adding AEGIS's own first-person fear of them rather than a
+new mechanism.
+
+**A hedged Nebencharakter answers part of this page's own open question —
+what happens to something inside one:**
+
+> „Name: Leech / Glitchwyrm (oder ähnlich)"
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L596]
+
+> „Eine Entität oder ein Prozess, der sich von den \"Rissen\" oder der durch
+> Kael/Juna verursachten Entropie \"ernährt\"."
+> ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L598]
+
+**Not a new page for `Leech`/`Glitchwyrm`** — one of the document's eleven
+hedged Nebencharaktere, same treatment as the other ten. `Plan/runs/judgements.jsonl`
+J81: the creature inhabits Risse; it is not the Risse phenomenon itself, and
+the fold()-near-match to this page's `Glitch` alias is coincidental (checked,
+not related).
 
 ## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17 — four named symptom-types
 
