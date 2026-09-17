@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      64
+  backslash escapes      64
+  typographic marks      41
+  ascii quotes           90
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstbehauptung, Selbstberuhigungsfähigkeiten, Selbstbeschuldigungen, Selbstbild, Selbstermächtigung, Selbstfürsorge, Selbstgefühl, Selbstinstrumentalisierung, Selbstmitgefühl, Selbstreflexion, Selbstregulation, Selbstvertrauen, Selbstzweifel, Selbstüberzeugungen
+  traum    Trauma, Traumafolgen, Traumafolgestörungen, Traumaforschung, Traumareinszenierung, Traumas, Traumata, Traumatic, Traumatische, Traumatisierte, Traumatization, Traumatized, Traumaverarbeitung
+  bindu    Bindung, Bindungsaspekte, Bindungsaufbau, Bindungserfahrungen, Bindungsfigur, Bindungskonflikte, Bindungsmuster, Bindungssuche, Bindungssystem, Bindungstheorie, Bindungstraumata, Bindungsverhalten
+  emoti    Emotion, Emotional, Emotionale, Emotionalen, Emotionaler, Emotionalität, Emotionen, Emotionskontrolle, Emotionslosigkeit, Emotionsregulation, Emotionsunterdrückung, Emotionszentren
+  schut    Schutz, Schutzbefohlenen, Schutzbeziehung, Schutzes, Schutzfunktion, Schutzinstinkt, Schutzinstinkte, Schutzmechanismen, Schutzmethoden, Schutzreaktionen, Schutzstrategie, Schutzstrategien
+  allta    Alltag, Alltags, Alltagsbewältigung, Alltagsfunktion, Alltagsfunktionen, Alltagslebens, Alltagsmanagement, Alltagsmanager, Alltagsorganisation, Alltagsroutine, Alltagsstabilität
+  inter    Interaktion, Interaktionen, Interaktionsdynamiken, Interaktive, Interesse, Internal, International, Interne, Interner, Internes
+  syste    System, Systematische, Systemdynamik, Systeme, Systemen, Systemfehler, Systemfunktion, Systemlähmung, Systems, Systemtheoretische
+  unter    Unterdrückt, Unterdrückung, Unterdrückungs, Untermodulation, Unterscheidbarkeit, Unterstützer, Unterstützt, Unterstützung, Untersuchung, Unterwerfung
+  kontr    Kontrast, Kontrollambitionen, Kontrolle, Kontrollmaßnahmen, Kontrollregionen, Kontrollstrategien, Kontrollverlust, Kontrollverlusts, Kontrollversuche
+  disso    Dissociation, Dissociative, Dissonanz, Dissoziation, Dissoziationsmechanismen, Dissoziative, Dissoziativen, Dissoziatives
+  integ    Integration, Integrationsfortschritte, Integrationskapazität, Integrationspot, Integrationspotenzial, Integrationspotenzials, Integrationsprozess, Integrationsprozesses
+  konfl    Konflikt, Konfliktdyaden, Konflikte, Konflikten, Konfliktlinien, Konfliktpotenzial, Konfliktvermeidung
+  verte    Verteidiger, Verteidigt, Verteidigung, Verteidigungs, Verteidigungsreaktionen, Verteidigungssystem, Verteidigungssystems
+  überl    Überleben, Überlebende, Überlebensfunktionen, Überlebensrolle, Überlebensstrategie, Überlebensstrategien, Überlebensversuch
+  analy    Analyse, Analysen, Analyst, Analyt, Analytiker, Analytisch
+  leben    Leben, Lebendigkeit, Lebens, Lebensfreude, Lebensführung, Lebensphasen
+  macht    Macht, Machtausübung, Machtkämpfe, Machtkämpfen, Machtmissbrauch, Machtspiele
+  psych    Psych, Psychoedukation, Psychologisch, Psychologist, Psychology, Psychotherapy
+  verst    Verstanden, Verstecken, Verstrickung, Verständnis, Verständnisses, Verstärkung
+  funkt    Funktion, Funktionalität, Funktionieren, Funktionierens, Funktionsfähigkeit
+  handl    Handlungen, Handlungsbogen, Handlungsfähigkeit, Handlungslücken, Handlungsstrategien
+  ident    Identity, Identität, Identitäten, Identitätsstörung, Identitätsverlust
+  impul    Impuls, Impulse, Impulsen, Impulsivität, Impulskontrolle
+  poten    Potential, Potentialität, Potenzial, Potenzials, Potenzielle
+
+# substring pairs -- never one term, often merged by accident
+  Find < Körperempfindungen
+  Sein < Seins
+  Sein < Seine
+  Sein < Alleinsein
+  Sein < Bewusstsein
+  Sein < Vorhandensein
+  Sein < Sinneseindrücke
+  Sein < Auseinandersetzung
+  Care < Carer
+  Meta < Metakognitiver
+  Nähe < Todesnähe
+  Nähe < Annäherung
+  Nähe < Annäherungs
+  Netz < Netzwerk
+  Netz < Netzwerks
+  Netz < Datennetzwerk
+  Auge < Augen
+  Dies < Diese
+  Dies < Dieses
+  Dies < Dieser

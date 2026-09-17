@@ -1,0 +1,14 @@
+# strukturelle-dissoziation-system-kael-analyse
+  lines                607  (frontmatter ends at 9)
+  body words           12762
+  headings             19   bold-only lines 14
+  table rows           22   code fences 0
+  question marks       7
+  backslash escapes    64
+  typographic marks    41   ascii quotes 90
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    64
+  repeated labels      Aktionssysteme x12, Beziehung zu AEGIS x11, Beziehung zu Juna/V x11, Beziehung zum Trauma & Kernpsychodynamik x11, Beziehungen zu anderen Anteilen x11, Potenzielle Entwicklung x11, Stance on Integration & Selene x11, TSDP Klassifikation x11, Argus (Observer) x3, Konflikt/Trigger x3, Resonanz x3, Selene (Integration Potential) x3
+  longest line         1300 chars
+
