@@ -36,3 +36,5 @@ Plan/derived/
 .qmd/*
 !.qmd/index.yml
 Plan/derived/
+.venv-dspytools/
+.claude/worktrees/

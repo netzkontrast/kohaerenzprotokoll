@@ -351,6 +351,26 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
+Three venvs exist, all git-ignored, each for one reason:
+
+| venv | python | why |
+|---|---|---|
+| `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
+| `.venv-dspy` | 3.11 | DSPy 3.3.1, for when there is something to train |
+| `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
+
+```bash
+uv venv --python 3.12 .venv-dspytools
+uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools
+DSPYTOOLS_SKILLS_DIR=$PWD/.agents/skills .venv-dspytools/bin/dspytools skills list
+```
+
+`dspytools skills` reads a `SKILL.md` directory as programs it can list, search,
+compile and optimise — which is how a skill written here becomes something DSPy
+can hold rather than only something a person reads. **Nothing in the pipeline
+calls it yet.** It is installed and reachable, and that is all this paragraph
+claims.
+
 ## Changing your mind
 
 Two different things get corrected here, and treating them the same way is how
