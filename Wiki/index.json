@@ -1,7 +1,7 @@
 {
   "built": "2026-09-17",
   "by": "scripts/wiki_index.py",
-  "pages": 56,
+  "pages": 58,
   "conflicts": 5,
   "terms": {
     "aegis-metriken": {
@@ -68,10 +68,11 @@
       ],
       "ingested": [
         "entropie-aegis",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 1,
+      "sources": 3,
+      "readings": 2,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -135,10 +136,11 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -159,16 +161,18 @@
       "surfaces": [
         "DID",
         "DID — dissoziative Identitätsstruktur",
+        "Dissoziative Identitätsstörung",
         "did",
         "dissoziative Identitätsstruktur",
         "psychische Fragmentierung"
       ],
       "ingested": [
         "entropie-aegis",
+        "kohaerenz-protokoll-konzept",
         "kohaerenzprotokoll-aegis-und-systementropie"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "ecr": {
@@ -262,11 +266,12 @@
         "externe-ebene"
       ],
       "ingested": [
+        "kohaerenz-protokoll-konzept",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -299,6 +304,21 @@
       "readings": 1,
       "conflict": "none"
     },
+    "guardian-werkzeuge": {
+      "title": "Guardians' Werkzeuge",
+      "surfaces": [
+        "Guardians' Werkzeuge",
+        "Ungeeignete Werkzeuge",
+        "Werkzeuge",
+        "guardian-werkzeuge"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "guardians": {
       "title": "Guardians",
       "surfaces": [
@@ -308,11 +328,12 @@
       "ingested": [
         "entropie-aegis",
         "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none yet"
     },
     "juna": {
@@ -324,10 +345,11 @@
       ],
       "ingested": [
         "entropie-aegis",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "junas-ankerpunkt": {
@@ -348,13 +370,16 @@
       "surfaces": [
         "K-J-Bindung",
         "Kael-Julia-Bindung",
+        "Michael-Julia-Dynamik",
+        "Michael-Julia-Verbindung",
         "kael-julia-bindung"
       ],
       "ingested": [
+        "kohaerenz-protokoll-konzept",
         "kohaerenzprotokoll-aegis-und-systementropie"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "kael": {
@@ -366,10 +391,11 @@
       ],
       "ingested": [
         "entropie-aegis",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "kaels-wohneinheit": {
@@ -394,10 +420,11 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "kern-welten": {
@@ -409,13 +436,14 @@
       ],
       "ingested": [
         "entropie-aegis",
+        "kohaerenz-protokoll-konzept",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "guardians-und-kern-welten-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 4,
-      "readings": 3,
+      "sources": 5,
+      "readings": 4,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -438,10 +466,11 @@
         "kohaerenz"
       ],
       "ingested": [
+        "kohaerenz-protokoll-konzept",
         "kohaerenzprotokoll-aegis-und-systementropie"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "konstrukt-stadt": {
@@ -466,10 +495,11 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "mnemosyne": {
@@ -480,10 +510,11 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "moeglichkeits-garten": {
@@ -510,10 +541,11 @@
         "multiplizitaet"
       ],
       "ingested": [
-        "entropie-aegis"
+        "entropie-aegis",
+        "kohaerenz-protokoll-konzept"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -564,10 +596,11 @@
         "partnerin"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "personas": {
@@ -579,10 +612,11 @@
         "personas"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "pms": {
@@ -629,14 +663,16 @@
       "surfaces": [
         "Realitätsebene",
         "Realitätsebenen",
+        "Sechs Ebenen der Realität",
         "die sechs Realitätsebenen",
         "realitaetsebenen"
       ],
       "ingested": [
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "resonanz-landschaft": {
@@ -664,10 +700,11 @@
       "ingested": [
         "entropie-aegis",
         "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "rsa": {
@@ -697,6 +734,21 @@
       "readings": 1,
       "conflict": "none"
     },
+    "seele-info": {
+      "title": "Seele=Info",
+      "surfaces": [
+        "Seele = Information",
+        "Seele=Info",
+        "Seele=Information",
+        "seele-info"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "snk": {
       "title": "SNK — Strukturierte Nicht-Kontrolle",
       "surfaces": [
@@ -718,10 +770,11 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "system-monitor": {
@@ -774,11 +827,12 @@
       ],
       "ingested": [
         "entropie-aegis",
+        "kohaerenz-protokoll-konzept",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "roman-lokalitaeten-konzept-und-ausarbeitung"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -842,6 +896,7 @@
     "datenverarbeitungsknoten7g": "datenverarbeitungsknoten-7g",
     "did": "did",
     "diddissoziativeidentitatsstruktur": "did",
+    "dissoziativeidentitatsstorung": "did",
     "dissoziativeidentitatsstruktur": "did",
     "psychischefragmentierung": "did",
     "ecrentropischekoharenzregulation": "ecr",
@@ -861,12 +916,18 @@
     "groemauersystemgrenze": "grosse-mauer",
     "systemgrenze": "grosse-mauer",
     "grossemauer": "grosse-mauer",
+    "guardianswerkzeuge": "guardian-werkzeuge",
+    "ungeeignetewerkzeuge": "guardian-werkzeuge",
+    "werkzeuge": "guardian-werkzeuge",
+    "guardianwerkzeuge": "guardian-werkzeuge",
     "guardians": "guardians",
     "julia": "juna",
     "juna": "juna",
     "junasankerpunkt": "junas-ankerpunkt",
     "kjbindung": "kael-julia-bindung",
     "kaeljuliabindung": "kael-julia-bindung",
+    "michaeljuliadynamik": "kael-julia-bindung",
+    "michaeljuliaverbindung": "kael-julia-bindung",
     "kael": "kael",
     "michael": "kael",
     "kaelswohneinheit": "kaels-wohneinheit",
@@ -900,6 +961,7 @@
     "protokollv14": "protokoll-v14",
     "realitatsebene": "realitaetsebenen",
     "realitatsebenen": "realitaetsebenen",
+    "sechsebenenderrealitat": "realitaetsebenen",
     "sechsrealitatsebenen": "realitaetsebenen",
     "realitaetsebenen": "realitaetsebenen",
     "resonanzlandschaft": "resonanz-landschaft",
@@ -910,6 +972,8 @@
     "rsa": "rsa",
     "schleuse7": "schleuse-7",
     "schleuse7kontrollpunkt": "schleuse-7",
+    "seeleinformation": "seele-info",
+    "seeleinfo": "seele-info",
     "snkstrukturiertenichtkontrolle": "snk",
     "snk": "snk",
     "sophia": "sophia",

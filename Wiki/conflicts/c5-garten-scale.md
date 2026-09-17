@@ -61,7 +61,7 @@ either source.
   and a garden in the same sentence with a containment word.
 - Any source using both spellings.
 - Document 4's `Nexus-Vorstufe` alias resolved: that document's own heading calls
-  this world a transition zone toward the Nexus, which already makes it something
+  this world a transition zone toward the [[nexus|Nexus]], which already makes it something
   other than a plain Kern-Welt in its own source. If so, the scale question may
   be one document's rather than two documents'. See [[nexus]].
 

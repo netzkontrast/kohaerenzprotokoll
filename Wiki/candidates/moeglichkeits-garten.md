@@ -62,7 +62,7 @@ each section is a `Guardian/Welt-Paar`.
 How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to one alter, and
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
-containment of the Kern-Welten (document 3) is not answerable here.
+containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.
 
 ## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18 — and conflict C5
 
@@ -88,12 +88,12 @@ and the profile describes a region:
 
 „Tore zu anderen Bereichen von KW4" puts the garden **inside** KW4, with gates
 leading to the rest of it. Document 4 makes the Möglichkeits-Garten one of four
-Kern-Welten — KW4 entire, „eine Realität", paired to [[kairos|Kairos]] & [[sophia|Sophia]].
+[[kern-welten|Kern-Welten]] — KW4 entire, „eine Realität", paired to [[kairos|Kairos]] & [[sophia|Sophia]].
 
 ### The two cannot both be the whole account
 
 That is `Wiki/conflicts/c5-garten-scale.md`. The content agrees almost word for
-word — growth, potential, branching paths, Kairos/Sophia, the Orakel/Muse Alter —
+word — growth, potential, branching paths, [[kairos|Kairos]]/[[sophia|Sophia]], the Orakel/Muse Alter —
 and the **scale** does not: a Realität in one source, a Bereich with gates to
 other Bereiche in the other.
 

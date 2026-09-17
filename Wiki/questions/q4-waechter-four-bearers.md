@@ -15,7 +15,7 @@ the [[aegis|AEGIS]] page and the match was wrong.
 
 | # | what `Wächter` names | where | line |
 |--:|---|---|--:|
-| 1 | **AEGIS itself**, as „Wächter der systemischen Stabilität" | on the [[aegis]] page, from document 3 | — |
+| 1 | **[[aegis|AEGIS]] itself**, as „Wächter der systemischen Stabilität" | on the [[aegis]] page, from document 3 | — |
 | 2 | **a Persona**, the one who primarily experiences the [[grenzfeste|Grenzfeste]] | `guardians-und-kern-welten-konzept` | 85 |
 | 3 | **a Guardian**, in a subplot title — „Das Dilemma des Wächters" | `aegis-subplots-kapitelweise-system-exploration-docx` | 279 |
 | 4 | **[[kael|Kael]]**, in the novel's final image | `aegis-subplots-kapitelweise-system-exploration-docx` | 531 |
@@ -29,7 +29,7 @@ The fourth is explicit:
 
 No source contradicts another. German uses one word where the corpus has four
 roles, and each use is locally correct. **The defect would be a page claiming the
-word** — and one nearly did: `aegis` carries „Wächter der systemischen
+word** — and one nearly did: [[aegis]] carries „Wächter der systemischen
 Stabilität" as an alias, which is a *phrase*, but the index folds it to a key
 that a bare `Wächter` matches.
 
@@ -94,16 +94,16 @@ at first: a synonym problem across documents.
 
 > „Cerberus (als Wächter der Mauer)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L370]
 
-Here `Wächter` is neither AEGIS, nor a Persona, nor the class of four, nor [[kael|Kael]] —
+Here `Wächter` is neither [[aegis|AEGIS]], nor a Persona, nor the class of four, nor [[kael|Kael]] —
 it is one of the four named as keeper of a specific structure. **Five bearers
 now**, and the pattern that makes them one word is grammatical rather than
 narrative.
 
 ### What still must not happen
 
-A page claiming the word. The `aegis` alias „Wächter der systemischen Stabilität"
+A page claiming the word. The [[aegis]] alias „Wächter der systemischen Stabilität"
 still folds to a key a bare `Wächter` matches, and document 6 would now map every
-one of its twelve analytic uses onto `aegis` by lookup if `Wächter` were added as
+one of its twelve analytic uses onto [[aegis]] by lookup if `Wächter` were added as
 a surface anywhere. **It was not added.** See `J33`.
 
 ### What would answer it now

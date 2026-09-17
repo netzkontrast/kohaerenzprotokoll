@@ -28,26 +28,26 @@ external connection — attached to different entities.
 
 ## Why this is a conflict and not two facts
 
-Because the two cannot both be the whole account. If the Guardians are parts of
-AEGIS, then AEGIS' single categorical blindness and the Guardians' five distinct
+Because the two cannot both be the whole account. If the [[guardians|Guardians]] are parts of
+[[aegis|AEGIS]], then [[aegis|AEGIS]]' single categorical blindness and the [[guardians|Guardians]]' five distinct
 blindnesses are descriptions of one system at two scales, and the interesting
-claim is that they compose. If the Guardians are separate, the corpus has two
+claim is that they compose. If the [[guardians|Guardians]] are separate, the corpus has two
 systems with the same design flaw and no stated relation.
 
 **And neither document mentions the other's bearer.** `AEGIS` occurs **zero
 times** in `guardians-und-kern-welten-konzept` — in 5,839 words about the system
-that AEGIS, elsewhere, is said to run.
+that [[aegis|AEGIS]], elsewhere, is said to run.
 
 ## What the read sample says
 
 Document 1 is the only read source that puts them in one sentence, and it makes
-the Guardians AEGIS' instruments:
+the [[guardians|Guardians]] [[aegis|AEGIS]]' instruments:
 
 > „Dies prägt auch das Handeln der Guardians als spezialisierte Agenten dieses
 > Entropie-Managements." ^[entropie-aegis.md:L93]
 
 That is suggestive and it is one dependent clause. It does not say whether a
-Guardian is a component of AEGIS, a peer, or an earlier design.
+Guardian is a component of [[aegis|AEGIS]], a peer, or an earlier design.
 
 ## The corpus is not silent — and that is a finding about the process
 
@@ -109,11 +109,11 @@ of a chapter whose entire subject is that it is not settled.** Chapter 20:
 
 It was recorded as **two documents that do not know about each other**. With a
 third read, it is better described as **a question the corpus is deliberately
-holding open**: this document places the Guardians inside AEGIS in every sentence
+holding open**: this document places the [[guardians|Guardians]] inside [[aegis|AEGIS]] in every sentence
 where it has to phrase the relation at all, and then builds a chapter out of
 asking whether that is all they are.
 
-The two earlier positions are unaffected. Document 1's blind spot is AEGIS';
+The two earlier positions are unaffected. Document 1's blind spot is [[aegis|AEGIS]]';
 document 4's is each Guardian's; and this document supplies a third frame — the
 principal–agent problem — in which **both can be true at once**, because a
 delegated agent has its own domain and its own limits:
@@ -137,7 +137,7 @@ shortcut.
 
 A document that states the relation outside a question: an architecture
 description, an origin account, or any passage where a Guardian acts against
-AEGIS or is described as predating it. `KW2` and `KW4` appearing anywhere would
+[[aegis|AEGIS]] or is described as predating it. `KW2` and `KW4` appearing anywhere would
 also help, since the numbering is the one place the two documents nearly touch.
 
 ## 2026-09-17 — document 6 supplies the numbering this record asked for
@@ -152,7 +152,7 @@ join [[kern-welten]] had recorded as an inference over two numbers.
 
 **That makes the two documents describe one arrangement, and it does not settle
 whose blind spot it is.** Document 4 still contains zero occurrences of `AEGIS`.
-What document 6 adds is placement — the Wächter are seated in AEGIS' [[ueberwelt|Überwelt]]
+What document 6 adds is placement — the Wächter are seated in [[aegis|AEGIS]]' [[ueberwelt|Überwelt]]
 ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176] and AEGIS' level holds a
 registry of their parameters
 ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233] — asserted as facts about

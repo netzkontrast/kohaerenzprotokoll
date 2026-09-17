@@ -51,4 +51,4 @@ each section is a `Guardian/Welt-Paar`.
 How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to one alter, and
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
-containment of the Kern-Welten (document 3) is not answerable here.
+containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.

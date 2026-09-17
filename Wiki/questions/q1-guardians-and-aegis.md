@@ -39,7 +39,7 @@ documents that do not mention each other.
 purpose.**
 
 Every sentence in it that has to phrase the relation puts a Guardian inside
-AEGIS — „agiert als spezialisierter Agent innerhalb eines größeren Systems"
+[[aegis|AEGIS]] — „agiert als spezialisierter Agent innerhalb eines größeren Systems"
 ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L49], „eine reine AEGIS-Erweiterung" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]. So *components*
 is the reading this document supports, and *peers* and *a design it replaced*
 get no support from it at all.
@@ -85,7 +85,7 @@ records that nothing read says how the two entities relate.
 
 ## 2026-09-17 — document 6 assumes the answer and never states it
 
-`roman-lokalitaeten-konzept-und-ausarbeitung` places the four inside AEGIS'
+`roman-lokalitaeten-konzept-und-ausarbeitung` places the four inside [[aegis|AEGIS]]'
 level and does it in passing, as facts about locations:
 
 > „Sitz von AEGIS und den Wächtern in ihrer Systemfunktion."
@@ -94,7 +94,7 @@ level and does it in passing, as facts about locations:
 > „Datenbank/Interface zur Verwaltung der Wächter-Parameter"
 > ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233]
 
-A registry of their parameters, administered from AEGIS' domain, is a stronger
+A registry of their parameters, administered from [[aegis|AEGIS]]' domain, is a stronger
 form of containment than anything read so far — **and it is a room on a list, not
 a claim about the relation.**
 
@@ -113,4 +113,4 @@ satisfied: KW2 and KW4 appear 28 and 18 times here with their bearers, and the
 numbering now joins document 4's named worlds to document 5's numbers for all
 four. See [[kern-welten]]. That makes the two documents describe one arrangement —
 which sharpens C4 rather than resolving it, because document 4 still never
-mentions AEGIS.
+mentions [[aegis|AEGIS]].

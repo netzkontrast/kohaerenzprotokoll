@@ -30,20 +30,20 @@ pages: ["emergenz", "aegis"]
 **Both sources use the word correctly.** Neither is misusing „Emergenz"; they are
 applying it at different levels, and nothing in either text marks the level.
 
-Position 2 argues for itself from evidence position 1 does not have: AEGIS depends
+Position 2 argues for itself from evidence position 1 does not have: [[aegis|AEGIS]] depends
 on a stabiliser it cannot perceive, and a designer or a self-founding substrate
 would not have that gap ^[kohaerenzprotokoll-aegis-und-systementropie.md:L193, L197]. That argument **only works** if
-AEGIS is inside something.
+[[aegis|AEGIS]] is inside something.
 
 ## What it decides
 
-Whether AEGIS can be **wrong about its own world.** Under position 2 it can, and
+Whether [[aegis|AEGIS]] can be **wrong about its own world.** Under position 2 it can, and
 the whole blind-spot argument follows. Under position 1 there is no outside for it
 to be wrong about.
 
 ## What would resolve this
 
-A source that says which level AEGIS emerges at, or an author's decision. Neither
+A source that says which level [[aegis|AEGIS]] emerges at, or an author's decision. Neither
 source is aware of the other.
 
 **Note on surfaces.** `Emergenz` appears as a noun and in seven inflected

@@ -22,7 +22,7 @@ The master list gives four facts in one row ^[roman-lokalitaeten-konzept-und-aus
 | Realitätsebene | `KW1` |
 | where the name came from | `Plot Teil 1` |
 | function, in brief | „Ort der (manipulierten) Selbstreflexion, Kontakt zum Therapeuten" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L190] |
-| associated characters | Kael, Therapeut (NPC), [[logos|LogOS]] (System) |
+| associated characters | [[kael|Kael]], Therapeut (NPC), [[logos|LogOS]] (System) |
 
 The profile states the double function directly:
 

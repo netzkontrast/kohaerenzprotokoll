@@ -22,7 +22,7 @@ The master list gives four facts in one row ^[roman-lokalitaeten-konzept-und-aus
 | Realitätsebene | `KW1` |
 | where the name came from | `Plot Teil 1` |
 | function, in brief | „Ausgangspunkt, Ort des Alltags und erster Zweifel" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L187] |
-| associated characters | Kael, Limina (implizit) |
+| associated characters | [[kael|Kael]], Limina (implizit) |
 
 Teil IV profiles it. What it is:
 
@@ -34,7 +34,7 @@ What it means:
 > Standardisierung symbolisiert den Verlust von Individualität im System."
 > ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L263]
 
-And how the `Risse` arrive here — the first ones Kael sees, and they are small:
+And how the `Risse` arrive here — the first ones [[kael|Kael]] sees, and they are small:
 
 > „Subtil beginnend: Flackern des Lichts, kurzzeitige visuelle Verzerrungen an
 > Wänden (Glitch-Ästhetik 39), unerklärliche Geräusche, Objekte, die kurzzeitig

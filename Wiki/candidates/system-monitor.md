@@ -22,7 +22,7 @@ The master list gives four facts in one row ^[roman-lokalitaeten-konzept-und-aus
 | Realitätsebene | `Überwelt` |
 | where the name came from | `Konzept Doc` |
 | function, in brief | „Visualisierung des Gesamtsystemzustands, Ort der Überwachung" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L228] |
-| associated characters | AEGIS, Wächter |
+| associated characters | [[aegis|AEGIS]], Wächter |
 
 > „Eine zentrale Visualisierung des Gesamtzustands des Systems (alle 6 Ebenen).
 > Dient AEGIS und den Wächtern zur Überwachung der Systemintegrität,
