@@ -1,9 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 1
-readings: 1
-conflict: none yet
+sources: 3
+readings: 3
+conflict: C2
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie"]
 gathered: "2026-09-16"
 ---
 
@@ -51,9 +52,43 @@ The project's own working sense of `Entropie`, on the date the term became its
 organising principle. This is the sharpest `MISSING` in the corpus so far: not a
 term nobody wrote about, but the term everything else is defined against.
 
-## Carried forward
+## Reading — `aegis-emergenz-aus-der-leere`, 2025-04-19
 
-Later sources give at least two more senses — „schöpferische Matrix" and Shannon
-uncertainty as an operational metric. Neither is on this page, because neither is
-in this source. Both go on as their own readings when those documents are
-ingested.
+A second sense, and it is the opposite of the first:
+
+> „Entropie wird hier als \"schöpferische Matrix\" (maximaler Möglichkeitsraum)
+> interpretiert, aus der durch \"rekursive Resonanz\" kohärente Zustandssequenzen
+> stabilisiert werden" ^[aegis-emergenz-aus-der-leere.md:L126]
+
+**This is restatement, not assertion.** It sits in the source's account of a
+postulate it goes on to reject, and it judges the usage:
+
+> „Die Verwendung des Begriffs \"Entropie\" weicht signifikant von der
+> Standarddefinition in der Thermodynamik oder Informationstheorie ab"
+> ^[aegis-emergenz-aus-der-leere.md:L130]
+
+**→ Conflict `C2`** — `Wiki/conflicts/c2-entropie-sense.md`. Disorder to be
+resisted against the matrix things emerge from, two days apart, neither source
+defining the term.
+
+## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
+
+**The first operational definition, and the first one this corpus asserts rather
+than reports.** Entropy as Shannon entropy:
+
+> „AEGIS' Entropiebegriff lehnt sich wahrscheinlich eng an informationstheoretische
+> Konzepte wie die Shannon-Entropie an. Entropie wird hier als **Maß für den
+> mittleren Informationsgehalt oder die Unsicherheit** bezüglich des Zustands
+> eines Systems verstanden." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L25]
+
+It then becomes measurable: six monitored quantities, the last of them a global
+entropy score ^[kohaerenzprotokoll-aegis-und-systementropie.md:L91-96]. See `aegis-metriken`.
+
+**This is the second sense asked for by the first source and never supplied**
+^[entropie-aegis.md:L31] — arriving two days later, in a document that does not
+know the question was asked.
+
+**→ Conflict `C2` gains a third position.** Disorder to be resisted, creative
+matrix, and Shannon uncertainty. Only the third is operational, and none of the
+three sources says it supersedes another.
+

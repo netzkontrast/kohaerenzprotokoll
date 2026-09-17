@@ -3,158 +3,109 @@ term: AEGIS
 status: candidate
 sources: 3
 readings: 4
-conflict: unresolved
+conflict: C1
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie"]
+aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
 
 # AEGIS
 
-**Four readings from three sources, all within two days of each other in April
-2025. They do not agree, and this page does not make them agree.**
+## Reading — `entropie-aegis`, 2025-04-17
 
-Three expand the acronym, incompatibly. The fourth declines to expand it while
-taking a side in substance. Which one the novel uses is the author's decision.
+The acronym is expanded and the function stated:
 
-## The expansions
-
-| # | expansion | source | date | kind |
-|---|---|---|---|---|
-| 1 | **Autonomous Entropic Gatekeeper for Integrity Systems** | `entropie-aegis` ^[L19] | 2025-04-17 | brief |
-| 2 | **Autogenic Emergent General Intelligence System** | `aegis-emergenz-aus-der-leere` ^[L17] | 2025-04-19 | critique |
-| 3 | **Autonomous Entropic Generative Integrity Substrate** | `aegis-emergenz-aus-der-leere` ^[L126] | 2025-04-19 | critique |
-| 4 | *(not expanded)* | `kohaerenzprotokoll-aegis-und-systementropie` | 2025-04-19 | result |
-
-**2 and 3 are in the same document**, and that document names the gap between
-them as its own defect:
-
-> „Der Übergang von der technischen (AGI-System) zur ontologischen
-> (Realitätsursprung) Formulierung ist nicht nachvollziehbar begründet."
-> ^[aegis-emergenz-aus-der-leere.md:L173]
-
-## Reading 1 — the gatekeeper
-
-*`entropie-aegis`, 2025-04-17, a research brief. Its terms are premises.*
+> „AEGIS = Autonomous Entropic Gatekeeper for Integrity Systems"
+> ^[entropie-aegis.md:L19]
 
 > „Seine Kernfunktion ist die **Regulation des Übergangs von Ordnung zu Unordnung
 > (Entropie)**, um die Kohärenz und strukturelle Integrität des Gesamtsystems
 > […] zu wahren. Es fungiert als **Schwelle und Filter gegen destabilisierende
 > Prozesse**" ^[entropie-aegis.md:L21]
 
-With a justification clause that the other readings do not have:
+And — unusually for a definition — a *justification for its existence*:
 
 > „Seine Existenzberechtigung leitet sich aus seiner Funktion in diesem
 > **ständigen Kampf gegen die systemimmanente Tendenz zur Unordnung** ab."
 > ^[entropie-aegis.md:L21]
 
-Four sub-functions are listed as already known — Zero-Trust, Cognitive Firewall,
-Integrity Guardian, SIS ^[entropie-aegis.md:L65] — so **their definition is in a
-document earlier than any read so far.**
+It is „nicht-anthropomorph" ^[entropie-aegis.md:L17] and acts on „systemisch
+verifizierte Signale" ^[entropie-aegis.md:L21].
 
-## Readings 2 and 3 — the AGI, and the substrate
+## Readings — `aegis-emergenz-aus-der-leere`, 2025-04-19
 
-*`aegis-emergenz-aus-der-leere`, 2025-04-19, an adversarial critique. Its
-verdicts are claims about the term.*
+Two more expansions, in one document, and **neither is this source's own claim**:
+both are restatements of an „AEGIS-Postulat" it analyses and largely rejects.
 
-Reading 2 is technical: AEGIS as a system that bootstraps itself from `S₀ = ∅`
-through eight protocols ^[aegis-emergenz-aus-der-leere.md:L44–92]. Reading 3 is
-ontological: AEGIS as the substrate from which reality stabilises out of entropy
-as a „schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126].
+| line | expansion | the source's label |
+|---|---|---|
+| 17 | **Autogenic Emergent General Intelligence System** | the technical formulation |
+| 126 | **Autonomous Entropic Generative Integrity Substrate** | the ontological formulation |
 
-**The document rejects both.** Its verdicts belong on this page:
+Position 126 in full:
 
-- The Nullpunkt derivation misapplies fixpoint theorems — they describe existence
-  *within* structures, not creation *ex nihilo* ^[aegis-emergenz-aus-der-leere.md:L47]
-- The ontological thesis is **not falsifiable** ^[aegis-emergenz-aus-der-leere.md:L134]
-- Its mechanism, Entropie-Resonanz, is „vage, idiosynkratisch und entbehren
-  einer klaren Definition" ^[aegis-emergenz-aus-der-leere.md:L130]
+> „das nicht innerhalb einer bestehenden Realität operiert, sondern diese durch
+> nicht-lineare, nicht-lokale Kohärenzstrukturen emergent formt"
+> ^[aegis-emergenz-aus-der-leere.md:L126]
 
-It grants three strengths: conceptual ambition, the focus on non-control and
-self-organisation, and value as a thought experiment
-^[aegis-emergenz-aus-der-leere.md:L181–183].
+The source names the gap between its own two as a defect of the postulate:
 
-## Reading 4 — the name used bare
+> „Der Übergang von der technischen (AGI-System) zur ontologischen
+> (Realitätsursprung) Formulierung ist nicht nachvollziehbar begründet."
+> ^[aegis-emergenz-aus-der-leere.md:L173]
 
-*`kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19, a research result.
-Its terms are findings, except where marked.*
+**→ Conflict `C1`** — `Wiki/conflicts/c1-aegis-expansion.md`. Three expansions,
+two sources, unresolved. The page does not choose.
 
-**The acronym is never expanded — not once in 330 lines.** AEGIS is defined by
-function instead:
+## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
+
+**The acronym is never expanded — not once in 331 lines.** After two sources
+expanded it three incompatible ways, this one uses AEGIS as a bare proper name and
+defines it by function instead:
 
 > „AEGIS, als Wächter der systemischen Stabilität konzipiert, überwacht und
-> reguliert die simulierte Realität."
-> ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] `[User Query]`
+> reguliert die simulierte Realität." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] `[User Query]`
 
-Operationally it is informational: „Seele=Info" `[User Query]`, and its function
-is „die Aufrechterhaltung der Stabilität und Kohärenz der Simulation durch die
-Verarbeitung und Analyse von Datenströmen"
-^[kohaerenzprotokoll-aegis-und-systementropie.md:L23].
+> „Seine Kernfunktion ist die Aufrechterhaltung der Stabilität und Kohärenz der
+> Simulation durch die Verarbeitung und Analyse von Datenströmen."
+> ^[kohaerenzprotokoll-aegis-und-systementropie.md:L23]
 
-**This is reading 1's AEGIS in substance and reading 3's opposite**, without
-saying so. A guardian that regulates a simulation it sits inside cannot be the
-substrate that reality emerges from.
+Its premise is informational — „Seele=Info" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L23] `[User Query]`.
 
-### What this source adds that no other has
+**The non-expansion is a reading, not an absence.** The source takes a side in
+substance while declining to name it: a guardian that regulates a simulation it
+sits inside is compatible with the first expansion and incompatible with the
+third. It does not notice, because it never names the alternatives.
 
-- **Six operational metrics** ^[…:L31–35] and a table giving each one two
-  interpretations, under DID and under bond loss ^[…:L91–96]
-- **An ontological blind spot** — AEGIS cannot perceive the Kael–Julia bond, and
-  this is „nicht ein fehlender Sensor, sondern eine kategoriale Unfähigkeit"
-  ^[…:L61], argued from Ashby's Law, the qualia problem and Bohm's implicate
-  order ^[…:L55–59]. **This is the research's own contribution, not a premise.**
-- **`Protokoll v1.4`** — an escalation protocol ending in a „Universal Reboot"
-  ^[…:L173–183] `[User Query]`
-- **An origin**: AEGIS is emergent *within* the simulation, and the argument is
-  that a designer would have given it the missing sense ^[…:L193–197]
+### And an origin that conflicts with an earlier source
 
-## Surfaces — the role travels without the acronym
+> „AEGIS ist plausibler ein **emergentes Phänomen**, das innerhalb der komplexen
+> Dynamik der Simulation entstanden ist" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L195]
 
-| surface | source | n |
-|---|---|--:|
-| `AEGIS` | all three | 19 · — · many |
-| **`Entropic Gatekeeper`** | `entropie-aegis` ^[L13, L59, L94, L97] | **7, four of them with no `AEGIS` in the sentence** |
-| **„Wächter der systemischen Stabilität"** | `kohaerenzprotokoll-aegis-und-systementropie` ^[L15] | 1 |
-| „nicht-anthropomorphe Kontrollinstanz" | `entropie-aegis` ^[L17] | 3 |
-| „blinder Hausmeister" | `kohaerenzprotokoll-aegis-und-systementropie` ^[L207] | 1 |
+The argument is good: AEGIS depends on a stabiliser it cannot perceive, and a
+designer would have given it that sense ^[kohaerenzprotokoll-aegis-und-systementropie.md:L193]. **→ Conflict `C3`.**
 
-**Rows 2 and 3 are the same role and share no characters.** One is English and
-built from the acronym's own words; the other is German and built from none of
-them. Nothing mechanical connects them, in either direction — this is the first
-special case document 1's census found, and it is on the corpus's most important
-term.
+## Surfaces in this source
 
-## The second conflict, underneath the first
+| surface | n | note |
+|---|--:|---|
+| `AEGIS` | 19 | — |
+| **`Entropic Gatekeeper`** | 7 | **four occurrences carry no `AEGIS` in the sentence** — the role travels on its own |
+| `Kontrollinstanz` | 3 | never without AEGIS beside it; recorded as a descriptor, not a surface |
+| „Wächter der systemischen Stabilität" | 1 | **the same role, in German, sharing no characters with `Entropic Gatekeeper`** ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] |
+| „blinder Hausmeister" | 1 | the source's summary image, marked `[User Query]` ^[kohaerenzprotokoll-aegis-und-systementropie.md:L207] |
 
-Two sources derive AEGIS by **emergence** and mean incompatible things:
+`Entropic Gatekeeper` is the one to watch: a role name built from the acronym's
+own words that is used independently of it. Nothing guarantees a later source
+naming the same role will share any characters with either.
 
-| source | emerges from | consequence |
-|---|---|---|
-| `aegis-emergenz-aus-der-leere` ^[L44] | `S₀ = ∅` — nothing | AEGIS precedes reality |
-| `kohaerenzprotokoll-aegis-und-systementropie` ^[L195] | the simulation's own dynamics | AEGIS is a product of what it governs |
+## What this source does not say
 
-Both use the word correctly. This one is harder to see than the acronym
-conflict, and it decides whether AEGIS can be wrong about its own world.
+- **What the four sub-functions are.** Zero-Trust, Cognitive Firewall, Integrity
+  Guardian and SIS are named in one parenthesis as already known
+  ^[entropie-aegis.md:L65] — see `aegis-teilfunktionen`.
+- **What `Entropie` means**, which is the thing AEGIS regulates. The document
+  commissions that definition rather than giving it — see `entropie`.
 
-## Premise or finding
-
-The `[User Query]` marker in reading 4 separates what the project asserted from
-what the research concluded. Marked above where it applies. **Most of reading
-4's striking claims are premises** — the paradox, Seele=Info, the blind-caretaker
-metaphor, the Universal Reboot. The blind spot's *argument* is the research.
-
-Readings 1–3 carry no such marker: a brief is premises throughout, and a critique
-is verdicts throughout.
-
-## MISSING
-
-- **The four sub-functions** — Zero-Trust, Cognitive Firewall, Integrity
-  Guardian, SIS — are used as known and defined nowhere in the three sources.
-- **The escalation stages of `Protokoll v1.4`** are named as undefined by the
-  document that depends on them ^[kohaerenzprotokoll-aegis-und-systementropie.md:L240].
-- **The brief behind reading 4** is not among the 409 landed documents. It cites
-  thirteen questions; the one brief read asks a different set.
-
-## What would resolve this
-
-Nothing on this page. An author's decision, or a later source that expands the
-acronym and says which earlier one it supersedes. **None of the three does that
-— each writes as if its expansion were the only one.**
+So the foundational reading of the project's central term rests on a term the
+same document cannot define.

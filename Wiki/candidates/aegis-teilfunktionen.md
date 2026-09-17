@@ -5,6 +5,7 @@ sources: 1
 readings: 0
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
+ingested: ["entropie-aegis"]
 gathered: "2026-09-16"
 ---
 

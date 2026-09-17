@@ -1,0 +1,276 @@
+{
+  "document": "guardians-und-kern-welten-konzept",
+  "drive_id": "15q_z6xZLPOcULTVb45H-hI9Yg2hHA6GxiAKWzD49VFg",
+  "step": "probes",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 8,
+  "backslash_escapes": 0,
+  "typographic_marks": 20,
+  "ascii_quotes": 108,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemfehlern",
+      "Systemfunktion",
+      "Systemgesundheit",
+      "Systemgrenzen",
+      "Systeminstabilitäten",
+      "Systemintegrität",
+      "Systemkorruption",
+      "Systemlogik",
+      "Systemorientierung",
+      "Systemprotokollen",
+      "Systemregeln",
+      "Systems",
+      "Systemschwachstellen",
+      "Systemstrukturen",
+      "Systemverwaltung",
+      "Systemzustand",
+      "Systemzustands"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanalyse",
+      "Datenanzeigen",
+      "Datenblockaden",
+      "Datenflüssen",
+      "Datenkorruption",
+      "Datenlücke",
+      "Datenmustern",
+      "Datenpunkte",
+      "Datenstrukturen",
+      "Datenströmen"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungsbildern",
+      "Erinnerungsfragmente",
+      "Erinnerungslandschaft",
+      "Erinnerungsprozesse"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheitsanalyse",
+      "Sicherheitslücken",
+      "Sicherheitsperspektive",
+      "Sicherheitsprotokollen",
+      "Sicherheitsschwachstellen"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungsbewertungen",
+      "Bedrohungserkennung",
+      "Bedrohungsstufen"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühle",
+      "Gefühlen",
+      "Gefühls",
+      "Gefühlsausbrüche"
+    ],
+    "grund": [
+      "Grund",
+      "Grundannahmen",
+      "Grundhaltung",
+      "Grundkonzept",
+      "Grundlage"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interferenzen",
+      "Interpretationen"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätssimulationen",
+      "Realitätstypen",
+      "Realitätswahrnehmung"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehraktionen",
+      "Abwehrmaßnahmen",
+      "Abwehrmechanismen"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsinstanzen",
+      "Bewusstseinskomponenten"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlercodes",
+      "Fehlern"
+    ],
+    "grenz": [
+      "Grenzen",
+      "Grenzfeste",
+      "Grenzschutz",
+      "Grenzwächter"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsflusses",
+      "Informationsstaus"
+    ],
+    "licht": [
+      "Licht",
+      "Lichtlinien",
+      "Lichtreflexen",
+      "Lichtschein"
+    ],
+    "regel": [
+      "Regelbasiertheit",
+      "Regeln",
+      "Regelverstöße",
+      "Regelverstößen"
+    ],
+    "seele": [
+      "Seele",
+      "Seelen",
+      "Seelenkern",
+      "Seelenkohärenz"
+    ],
+    "stimm": [
+      "Stimme",
+      "Stimmigkeit",
+      "Stimmung",
+      "Stimmungen"
+    ],
+    "symbo": [
+      "Symbol",
+      "Symbole",
+      "Symbolen",
+      "Symbolik"
+    ],
+    "unvor": [
+      "Unvorhersagbarkeit",
+      "Unvorhersehbare",
+      "Unvorhersehbaren",
+      "Unvorhersehbarkeit"
+    ],
+    "wisse": [
+      "Wissen",
+      "Wissens",
+      "Wissensrahmen",
+      "Wissenssystem"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeiten",
+      "Analysen"
+    ],
+    "blind": [
+      "Blinden",
+      "Blinder",
+      "Blindheit"
+    ],
+    "eleme": [
+      "Element",
+      "Elemente",
+      "Elementen"
+    ],
+    "energ": [
+      "Energie",
+      "Energieleitungen",
+      "Energieschilde"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Sinn",
+      "Sinne"
+    ],
+    [
+      "Sinn",
+      "Sinnfindung"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Kern",
+      "Kerns"
+    ],
+    [
+      "Kern",
+      "Kernstück"
+    ],
+    [
+      "Kern",
+      "Kerndatei"
+    ],
+    [
+      "Kern",
+      "Kerndaten"
+    ],
+    [
+      "Kern",
+      "Seelenkern"
+    ],
+    [
+      "Kern",
+      "Kernaufgabe"
+    ],
+    [
+      "Kern",
+      "Kernannahme"
+    ],
+    [
+      "Kern",
+      "Kernfunktion"
+    ],
+    [
+      "Kern",
+      "Kernprämisse"
+    ],
+    [
+      "Kern",
+      "Kernmotivation"
+    ],
+    [
+      "Kern",
+      "Kernkomponente"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Plot",
+      "Plots"
+    ],
+    [
+      "Plot",
+      "Plotstruktur"
+    ],
+    [
+      "Wege",
+      "Wegen"
+    ],
+    [
+      "Hand",
+      "Handeln"
+    ]
+  ]
+}

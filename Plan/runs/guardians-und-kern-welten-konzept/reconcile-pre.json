@@ -1,0 +1,117 @@
+{
+  "document": "guardians-und-kern-welten-konzept",
+  "step": "reconcile-pre",
+  "at": "2026-09-17",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-17",
+  "state": {
+    "pages": 32,
+    "conflicts": 3
+  },
+  "candidates": 22,
+  "decided_mechanically": 18,
+  "needs_judgement": 4,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 1
+      },
+      {
+        "candidate": "Glitch(es)",
+        "page": "risse",
+        "readings": 1
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "LogOS"
+      },
+      {
+        "candidate": "Mnemosyne"
+      },
+      {
+        "candidate": "Cerberus"
+      },
+      {
+        "candidate": "Kairos"
+      },
+      {
+        "candidate": "Sophia"
+      },
+      {
+        "candidate": "Die Konstrukt-Stadt"
+      },
+      {
+        "candidate": "Die Resonanz-Landschaft"
+      },
+      {
+        "candidate": "Die Grenzfeste"
+      },
+      {
+        "candidate": "Konstrukt-Stadt"
+      },
+      {
+        "candidate": "Resonanz-Landschaft"
+      },
+      {
+        "candidate": "Grenzfeste"
+      },
+      {
+        "candidate": "Überraum"
+      },
+      {
+        "candidate": "Persona(s)"
+      },
+      {
+        "candidate": "Bewusstseinsinstanzen"
+      },
+      {
+        "candidate": "Philosophen-Modus · Forscher-Modus · Magier-Modus"
+      },
+      {
+        "candidate": "Hüter"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Der Möglichkeits-Garten / Nexus-Vorstufe  /  Möglichkeits-Garten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Der Möglichkeits-Garten / Nexus-Vorstufe  /  Nexus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz-Programm",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "„Das Seelen-Kohärenz-Protokoll\"",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,0 +1,1 @@
+{"document":"kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md","rule":"surfaces","reason":"a glossary: every line is a term, so the surface index would return the whole document as vocabulary and drown every count","filed":"2026-09-17","revisit":"when corpus.py can weight a hit by how term-dense its document is"}

@@ -1,0 +1,560 @@
+{
+  "built": "2026-09-17",
+  "by": "scripts/wiki_index.py",
+  "pages": 32,
+  "conflicts": 3,
+  "terms": {
+    "aegis-metriken": {
+      "title": "AEGIS' operative Metriken",
+      "surfaces": [
+        "AEGIS' operative Metriken",
+        "Integrität von Datenstrukturen",
+        "Mustererkennung/Anomaliedetektion",
+        "Rate logischer Widersprüche",
+        "Ressourcenfluktuationsanalyse",
+        "Vorhersagbarkeits-/Abweichungswerte",
+        "aegis-metriken",
+        "globaler Entropie-Score"
+      ],
+      "ingested": [
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "aegis-teilfunktionen": {
+      "title": "AEGIS' four sub-functions",
+      "surfaces": [
+        "AEGIS' four sub-functions",
+        "Cognitive Firewall",
+        "Integrity Guardian",
+        "SIS",
+        "Zero-Trust",
+        "aegis-teilfunktionen"
+      ],
+      "ingested": [
+        "entropie-aegis"
+      ],
+      "sources": 1,
+      "readings": 0,
+      "conflict": "none"
+    },
+    "aegis": {
+      "title": "AEGIS",
+      "surfaces": [
+        "AEGIS",
+        "Entropic Gatekeeper",
+        "Kontrollinstanz",
+        "Wächter der systemischen Stabilität",
+        "aegis",
+        "blinder Hausmeister"
+      ],
+      "ingested": [
+        "entropie-aegis",
+        "aegis-emergenz-aus-der-leere",
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 3,
+      "readings": 4,
+      "conflict": "C1"
+    },
+    "alters": {
+      "title": "Alters",
+      "surfaces": [
+        "Alters",
+        "alters"
+      ],
+      "ingested": [
+        "entropie-aegis"
+      ],
+      "sources": 1,
+      "readings": 0,
+      "conflict": "none here — known elsewhere"
+    },
+    "ani": {
+      "title": "ANI — Äußere Nicht-Identifikation",
+      "surfaces": [
+        "ANI — Äußere Nicht-Identifikation",
+        "ani"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "ars": {
+      "title": "ARS — Autopoietische Reentry-Segmentierung",
+      "surfaces": [
+        "ARS — Autopoietische Reentry-Segmentierung",
+        "ars"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "blinder-fleck": {
+      "title": "Ontologischer blinder Fleck",
+      "surfaces": [
+        "Ontologischer blinder Fleck",
+        "blinder-fleck"
+      ],
+      "ingested": [
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "did": {
+      "title": "DID — dissoziative Identitätsstruktur",
+      "surfaces": [
+        "DID",
+        "DID — dissoziative Identitätsstruktur",
+        "did",
+        "dissoziative Identitätsstruktur",
+        "psychische Fragmentierung"
+      ],
+      "ingested": [
+        "entropie-aegis",
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none yet"
+    },
+    "ecr": {
+      "title": "ECR — Entropische Kohärenzregulation",
+      "surfaces": [
+        "ECR — Entropische Kohärenzregulation",
+        "ecr"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "emergenz": {
+      "title": "Emergenz",
+      "surfaces": [
+        "Emergenz",
+        "emergenz"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere",
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "C3"
+    },
+    "entropie-katastrophe": {
+      "title": "Maximale Entropie-Katastrophe",
+      "surfaces": [
+        "Maximale Entropie-Katastrophe",
+        "entropie-katastrophe"
+      ],
+      "ingested": [
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "entropie-resonanz": {
+      "title": "Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP)",
+      "surfaces": [
+        "ERP",
+        "Entropie-Resonanz / Entropie-Resonanz-Protokolle (ERP)",
+        "Entropie-Resonanz-Protokolle",
+        "entropie-resonanz"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "entropie-signatur": {
+      "title": "Entropie-Signatur",
+      "surfaces": [
+        "Entropie-Signatur",
+        "entropie-signatur"
+      ],
+      "ingested": [
+        "entropie-aegis"
+      ],
+      "sources": 1,
+      "readings": 0,
+      "conflict": "none"
+    },
+    "entropie": {
+      "title": "Entropie",
+      "surfaces": [
+        "Entropie",
+        "entropie"
+      ],
+      "ingested": [
+        "entropie-aegis",
+        "aegis-emergenz-aus-der-leere",
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 3,
+      "readings": 3,
+      "conflict": "C2"
+    },
+    "externe-ebene": {
+      "title": "Externe Ebene",
+      "surfaces": [
+        "Externe Ebene",
+        "externe-ebene"
+      ],
+      "ingested": [
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "guardians": {
+      "title": "Guardians",
+      "surfaces": [
+        "Guardians",
+        "guardians"
+      ],
+      "ingested": [
+        "entropie-aegis"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "juna": {
+      "title": "Juna",
+      "surfaces": [
+        "Julia",
+        "Juna",
+        "juna"
+      ],
+      "ingested": [
+        "entropie-aegis"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "kael-julia-bindung": {
+      "title": "Kael-Julia-Bindung",
+      "surfaces": [
+        "K-J-Bindung",
+        "Kael-Julia-Bindung",
+        "kael-julia-bindung"
+      ],
+      "ingested": [
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "kael": {
+      "title": "Kael",
+      "surfaces": [
+        "Kael",
+        "Michael",
+        "kael"
+      ],
+      "ingested": [
+        "entropie-aegis"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "kern-welten": {
+      "title": "Kern-Welten",
+      "surfaces": [
+        "Kern-Welt",
+        "Kern-Welten",
+        "kern-welten"
+      ],
+      "ingested": [
+        "entropie-aegis",
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 2,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "kohaerenz": {
+      "title": "Kohärenz",
+      "surfaces": [
+        "Kohärenz",
+        "kohaerenz"
+      ],
+      "ingested": [
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "multiplizitaet": {
+      "title": "Multiplizität",
+      "surfaces": [
+        "Multiplizität",
+        "funktionale Multiplizität",
+        "multiplizitaet"
+      ],
+      "ingested": [
+        "entropie-aegis"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "negentropie": {
+      "title": "Negentropie",
+      "surfaces": [
+        "Negentropie",
+        "negentropie"
+      ],
+      "ingested": [
+        "entropie-aegis",
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 2,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "nullpunkt-protokoll": {
+      "title": "Nullpunkt-Protokoll",
+      "surfaces": [
+        "Nullpunkt-Protokoll",
+        "nullpunkt-protokoll"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "pms": {
+      "title": "PMS — Protomemetische Speicherbildung",
+      "surfaces": [
+        "PMS — Protomemetische Speicherbildung",
+        "pms"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "potentialmeer": {
+      "title": "Potentialmeer",
+      "surfaces": [
+        "Potentialmeer",
+        "potentialmeer"
+      ],
+      "ingested": [
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "protokoll-v14": {
+      "title": "Protokoll v1.4",
+      "surfaces": [
+        "Protokoll v1.4",
+        "protokoll-v14"
+      ],
+      "ingested": [
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "risse": {
+      "title": "Risse",
+      "surfaces": [
+        "Glitch",
+        "Glitches",
+        "Risse",
+        "risse"
+      ],
+      "ingested": [
+        "entropie-aegis"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "rsa": {
+      "title": "RSA — Rekursive semantische Autogenese",
+      "surfaces": [
+        "RSA — Rekursive semantische Autogenese",
+        "rsa"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "snk": {
+      "title": "SNK — Strukturierte Nicht-Kontrolle",
+      "surfaces": [
+        "SNK — Strukturierte Nicht-Kontrolle",
+        "snk"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    },
+    "ueberwelt": {
+      "title": "Überwelt",
+      "surfaces": [
+        "Simulation",
+        "ueberwelt",
+        "Überwelt"
+      ],
+      "ingested": [
+        "entropie-aegis",
+        "kohaerenzprotokoll-aegis-und-systementropie"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none yet"
+    },
+    "ztv": {
+      "title": "ZTV — Vertrauenlose Validierung",
+      "surfaces": [
+        "ZTV — Vertrauenlose Validierung",
+        "ztv"
+      ],
+      "ingested": [
+        "aegis-emergenz-aus-der-leere"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none yet"
+    }
+  },
+  "surface_to_page": {
+    "aegisoperativemetriken": "aegis-metriken",
+    "integritatvondatenstrukturen": "aegis-metriken",
+    "mustererkennunganomaliedetektion": "aegis-metriken",
+    "ratelogischerwiderspruche": "aegis-metriken",
+    "ressourcenfluktuationsanalyse": "aegis-metriken",
+    "vorhersagbarkeitsabweichungswerte": "aegis-metriken",
+    "aegismetriken": "aegis-metriken",
+    "globalerentropiescore": "aegis-metriken",
+    "aegisfoursubfunctions": "aegis-teilfunktionen",
+    "cognitivefirewall": "aegis-teilfunktionen",
+    "integrityguardian": "aegis-teilfunktionen",
+    "sis": "aegis-teilfunktionen",
+    "zerotrust": "aegis-teilfunktionen",
+    "aegisteilfunktionen": "aegis-teilfunktionen",
+    "aegis": "aegis",
+    "entropicgatekeeper": "aegis",
+    "kontrollinstanz": "aegis",
+    "wachterdersystemischenstabilitat": "aegis",
+    "blinderhausmeister": "aegis",
+    "alters": "alters",
+    "aniauerenichtidentifikation": "ani",
+    "ani": "ani",
+    "arsautopoietischereentrysegmentierung": "ars",
+    "ars": "ars",
+    "ontologischerblinderfleck": "blinder-fleck",
+    "blinderfleck": "blinder-fleck",
+    "did": "did",
+    "diddissoziativeidentitatsstruktur": "did",
+    "dissoziativeidentitatsstruktur": "did",
+    "psychischefragmentierung": "did",
+    "ecrentropischekoharenzregulation": "ecr",
+    "ecr": "ecr",
+    "emergenz": "emergenz",
+    "maximaleentropiekatastrophe": "entropie-katastrophe",
+    "entropiekatastrophe": "entropie-katastrophe",
+    "erp": "entropie-resonanz",
+    "entropieresonanzentropieresonanzprotokolleerp": "entropie-resonanz",
+    "entropieresonanzprotokolle": "entropie-resonanz",
+    "entropieresonanz": "entropie-resonanz",
+    "entropiesignatur": "entropie-signatur",
+    "entropie": "entropie",
+    "externeebene": "externe-ebene",
+    "guardians": "guardians",
+    "julia": "juna",
+    "juna": "juna",
+    "kjbindung": "kael-julia-bindung",
+    "kaeljuliabindung": "kael-julia-bindung",
+    "kael": "kael",
+    "michael": "kael",
+    "kernwelt": "kern-welten",
+    "kernwelten": "kern-welten",
+    "koharenz": "kohaerenz",
+    "kohaerenz": "kohaerenz",
+    "multiplizitat": "multiplizitaet",
+    "funktionalemultiplizitat": "multiplizitaet",
+    "multiplizitaet": "multiplizitaet",
+    "negentropie": "negentropie",
+    "nullpunktprotokoll": "nullpunkt-protokoll",
+    "pmsprotomemetischespeicherbildung": "pms",
+    "pms": "pms",
+    "potentialmeer": "potentialmeer",
+    "protokollv14": "protokoll-v14",
+    "glitch": "risse",
+    "glitches": "risse",
+    "risse": "risse",
+    "rsarekursivesemantischeautogenese": "rsa",
+    "rsa": "rsa",
+    "snkstrukturiertenichtkontrolle": "snk",
+    "snk": "snk",
+    "simulation": "ueberwelt",
+    "ueberwelt": "ueberwelt",
+    "uberwelt": "ueberwelt",
+    "ztvvertrauenlosevalidierung": "ztv",
+    "ztv": "ztv"
+  },
+  "conflict_records": {
+    "C1": {
+      "subject": "AEGIS",
+      "pages": [
+        "aegis"
+      ],
+      "status": "open"
+    },
+    "C2": {
+      "subject": "Entropie",
+      "pages": [
+        "entropie"
+      ],
+      "status": "open"
+    },
+    "C3": {
+      "subject": "Emergenz",
+      "pages": [
+        "emergenz",
+        "aegis"
+      ],
+      "status": "open"
+    }
+  }
+}

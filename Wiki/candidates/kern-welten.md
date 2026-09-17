@@ -1,9 +1,11 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 1
-readings: 0
+sources: 2
+readings: 1
 conflict: none
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
+aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
 
@@ -37,5 +39,18 @@ those worlds. **The document depends on a term it never explains.**
 Everything. Whether a Kern-Welt corresponds to one alter, how many exist, who
 can enter one, what happens when one destabilises.
 
-Document 3 also uses the term as known ^[kohaerenzprotokoll-aegis-und-systementropie.md:L31, L165].
-**Two of the three documents read so far use it; neither defines it.**
+A term nothing in this source defines will not announce itself, and nothing here
+says whether another source does.
+
+## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
+
+Still not defined, but for the first time given a **behaviour**: they are where
+the collapse starts.
+
+> „Kaels innere Welten lösen sich wahrscheinlich zuerst und am dramatischsten in
+> Chaos auf." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L165]
+
+And they are what AEGIS contains: quarantining unstable data, reinforcing logical
+boundaries, allocating resources ^[kohaerenzprotokoll-aegis-und-systementropie.md:L49].
+
+**Two sources now use the term as known and neither says what one is.**

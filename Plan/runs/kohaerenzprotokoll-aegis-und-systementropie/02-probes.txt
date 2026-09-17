@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      110
+  backslash escapes      96
+  typographic marks      26
+  ascii quotes           122
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemadministrator, Systemdynamik, Systeme, Systemen, Systemexistenz, Systemfehler, Systemfluktuationen, Systeminstabilität, Systemisch, Systemische, Systemischen, Systemkollapses, Systemkontrolle, Systemmustern, Systems, Systemstabilität, Systemtheorie, Systemtod, Systemverhalten, Systemweiter
+  daten    Daten, Datenflüssen, Datenkonflikte, Datenkorruption, Datenkorruptionsrate, Datenmengen, Datenpakete, Datenquellen, Datenrauschen, Datenstrukturen, Datenströmen, Datentypen
+  quant    Quantenentropie, Quantenkryptographie, Quantenliebe, Quantenmechanik, Quantenphysik, Quantenpotential, Quantenverschränkung, Quantifizierbar, Quantifizierbares, Quantifizierung, Quantum
+  infor    Information, Informationen, Informationsbegriffs, Informationsgehalt, Informationsintegrität, Informationsmangel, Informationsmaß, Informationstheorie, Informationsverarbeitung
+  kontr    Kontrolle, Kontrollelement, Kontrolleur, Kontrollmechanismen, Kontrollprotokoll, Kontrollsystem, Kontrollsystems, Kontrollverlust, Kontrollversuch
+  inter    Interaktion, Interaktionsmechanismen, Interesse, Intern, Internet, Interpretation, Interventionen
+  poten    Potential, Potentialität, Potentialmeer, Potentialmeers, Potentielle, Potenzial, Potenzielle
+  bindu    Bindung, Bindungen, Bindungsbruchs, Bindungsverlust, Bindungsverlusts, Bindungswissen
+  kohär    Kohärenz, Kohärenzfeldern, Kohärenzmetriken, Kohärenzquelle, Kohärenzstruktur, Kohärenzstrukturen
+  reali    Realismus, Realität, Realitäten, Realitäts, Realitätsebene, Realitätsverzerrungen
+  zusta    Zustand, Zustands, Zustandstrajektorien, Zustandswechsel, Zustandswechseln, Zustandsübergänge
+  entro    Entropie, Entropieanstieg, Entropiebegriff, Entropiemetriken, Entropiewert
+  fehle    Fehler, Fehlerhaftes, Fehlerkaskade, Fehlermeldungen, Fehlerraten
+  kaska    Kaskade, Kaskaden, Kaskadeneffekte, Kaskadenversagen, Kaskadierende
+  kompl    Komplementarität, Komplexe, Komplexes, Komplexität, Komplexitätsmanagement
+  lokal    Lokal, Lokale, Lokalisiert, Lokalisiertes, Lokalität
+  resso    Ressourcen, Ressourcenanforderungen, Ressourcenfluktuationen, Ressourcenfluktuationsanalyse, Ressourcenverbräuche
+  simul    Simulation, Simulationsdienste, Simulationskollapses, Simulationskontrolle, Simulationsschichten
+  stabi    Stabilisator, Stabilisierenden, Stabilisiert, Stabilität, Stabilitätsmechanismus
+  sympt    Symptom, Symptombekämpfung, Symptome, Symptomen, Symptomkontrolle
+  vorhe    Vorhersagbar, Vorhersagbare, Vorhersagbarkeit, Vorhersagbarkeits, Vorhersagemodelle
+  berei    Bereiche, Bereichs, Bereinigung, Bereinigungen
+  blind    Blind, Blinde, Blinden, Blindheit
+  chara    Charakterbogen, Charakteren, Charakterentwicklung, Charakterimplikationen
+  erleb    Erleben, Erlebens, Erlebnisqualität, Erlebt
+
+# substring pairs -- never one term, often merged by accident
+  Open < Tropen
+  Fall < Verfall
+  Tech < Technik
+  Tech < Technology
+  Tech < Kriegstechnologie
+  Gott < Gottfigur
+  Anke < Anker
+  Anke < Verankerung
+  Raum < Trauma
+  Raum < Traumata
+  Raum < Lebensraum
+  Raum < Handlungsspielraum
+  INFO < Info
+  INFO < Information
+  INFO < Informationen
+  INFO < Informationsmaß
+  INFO < Informationsmangel
+  INFO < Informationsgehalt
+  INFO < Informationstheorie
+  INFO < Informationsbegriffs

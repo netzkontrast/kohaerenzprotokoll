@@ -1,10 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
 gathered: "2026-09-16"
 ---
 
@@ -44,3 +45,18 @@ See `multiplizitaet`.
 
 - Is dissociation an attempt to manage local entropy? ^[L67, L95] — asked
 - How many alters — see `alters`, where the corpus's largest disagreement sits
+
+## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
+
+How the system that watches it reads it: **manageable, quantifiable, local.**
+
+> „Aus der Perspektive von AEGIS übersetzt sich dies direkt in lokalisierte
+> Anomalien innerhalb seiner gemessenen Entropiemetriken" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L41]
+
+Three reasons it is tolerated ^[kohaerenzprotokoll-aegis-und-systementropie.md:L45-47]: the instability is confined to
+Kael's Kern-Welten, it is measurable, and it is conditionally predictable. So
+AEGIS treats it as **high complexity, not fundamental incoherence** — and manages
+symptoms rather than eliminating the cause ^[kohaerenzprotokoll-aegis-und-systementropie.md:L49].
+
+**This answers a question the first source asked** — *can psychic fragmentation be
+read as a high-entropy state?* ^[entropie-aegis.md:L67]. Yes, and containable.

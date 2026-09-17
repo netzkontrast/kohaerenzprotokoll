@@ -5,6 +5,7 @@ sources: 1
 readings: 1
 conflict: none
 aliases: ["Julia"]
+ingested: ["entropie-aegis"]
 gathered: "2026-09-16"
 ---
 
@@ -39,9 +40,9 @@ But afterwards the two names behave differently:
 | `Michael` | 16 | 9 of them use it **exactly once** — leftovers |
 | `Julia` | 20 | median **2**, maximum **34** |
 
-`kohaerenzprotokoll-aegis-und-systementropie`, written two days after the cut,
-uses **Kael 45 times and Julia 34 times in the same document.** That is not a
-missed find-and-replace. Something kept the old name for her alive.
+One document written two days after the cut uses **Kael 45 times and Julia 34
+times.** That is not a missed find-and-replace. Something kept the old name for
+her alive.
 
 **This page does not say what.** Three readings are available and none is
 supported: the research briefs were written against older context; „Julia" names

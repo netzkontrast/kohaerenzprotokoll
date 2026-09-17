@@ -31,17 +31,30 @@ under `Legacy/` and read by nothing.
 `slug`, `category`, `tier` and, once landed, `export_path` and two checksums.
 Anything derived traces back to a `drive_id`.
 
-## State, as of 2026-09-16
+## State, as of 2026-09-17
 
 **409 of 680 source documents are landed.** The 271 that are not are the 247
 `plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
 have no route. Every category the wiki needs is complete.
 
-**3 of the 409 landed documents have been read**, and their notes are in
-`Sources/notes/`. **2 have a full term census**, in `Sources/terms/`, and the one
-comparison between them is in `Wiki/compare/`. `Wiki/candidates/` holds **1 term page**, written by hand. The
-schema follows the pages rather than preceding them, so neither `Wiki/terms/`
-nor a page format exists yet.
+**4 of the 409 have a term census** in `Sources/terms/`; **3 also have a note** in
+`Sources/notes/`. Three of the four are `theorie-physik`, the fourth
+`worldbuilding`.
+
+`Wiki/candidates/` holds **32 pages**, `Wiki/conflicts/` holds **3**, and
+`Wiki/compare/` holds the reconciliation record per document. The schema follows
+the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
+has been promoted.
+
+| document | new terms | new readings | new conflicts |
+|---|--:|--:|--:|
+| `entropie-aegis` | 14 | — | 0 |
+| `aegis-emergenz-aus-der-leere` | 10 | 2 | 2 |
+| `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
+| `guardians-und-kern-welten-konzept` | — | — | — *(census done, not reconciled)* |
+
+`Plan/runs/judgements.jsonl` holds **11 judgements** about near matches — 4
+mechanised and replaying green, 7 still a person's call.
 
 Check it yourself rather than trusting this paragraph:
 
@@ -59,7 +72,7 @@ Drive ──fetch──→ Sources/drive/*.md ──┬──extract──→ So
                                       │                    │
                                       └──read─────→ Sources/notes/*.md
                                                            │
-                                                       compare ──→ Wiki/compare/*.md
+                                                      reconcile ──→ Wiki/compare/*.md
                                                            │
                                                         gather
                                                            ▼
@@ -77,9 +90,48 @@ line numbers.
 
 **A census describes one document and nothing else** — no count, comparison or
 expectation from another source. `scripts/profile.py` makes that identical
-treatment mechanical rather than a promise: every census opens with the same
-probes in the same order. Documents meet only in the `compare` step, so what the
-comparison finds is a result rather than an assumption carried in.
+treatment mechanical rather than a promise, and `Plan/briefings/extract.md` is
+read before the document: it carries **procedural** knowledge (what German Drive
+exports do) and never **document** knowledge (what some other file said).
+
+Documents meet in `reconcile`, which compares one frozen census against the
+**current pages** rather than against every earlier document. Its record is
+per document and append-only. The first three comparisons were full
+re-comparisons and each superseded the last — that was the step telling us it did
+not scale.
+
+**Extraction's independence is what makes reconciliation safe.** The census is
+frozen before the wiki is consulted, so the accumulated state cannot decide in
+advance what a new document is allowed to say.
+
+**And reconciliation never reads the wiki.** `scripts/wiki_index.py` derives
+`Wiki/index.json` from page frontmatter; `scripts/reconcile.py` answers by lookup
+and prints only what no lookup settles. Cost per document is `O(census) +
+O(judgement)`, not `O(wiki)` — measured on document 4 against 32 pages: **19
+candidates, 12 decided mechanically, 7 to judgement.** Reasoning:
+`Plan/concept/reconciliation-by-lookup_2026-09-17.md`.
+
+**Conflict detection is never mechanised.** Two readings can only be compared by
+reading them, and a program that guessed would reproduce the `Zero-Trust` false
+conflict.
+
+### A mechanised rule stays checkable
+
+Every decision about a near match is recorded in `Plan/runs/judgements.jsonl`
+with the two surfaces, the decision, the rule, and whether any code now claims
+the case. `python3 scripts/judgements.py` **replays all of them against the
+current code**:
+
+- `agrees` — the code still decides what the person decided
+- `DISAGREES` — go and look. The code changed, the record is wrong, or a rule has
+  met its first exception
+- `judgement` — no code claims this; still a person's call
+
+**Run it after touching `fold()` or any matching rule.** A rule that was
+mechanised and then quietly stopped holding is invisible otherwise — which is not
+hypothetical: the check's *first run* found that `fold()`'s own docstring claimed
+behaviour it did not have, and the same false claim had been repeated in two other
+files.
 
 `Plan/learnings/extract-terms.md` has the fourteen special cases the first two
 censuses found, and why the first comparison inverted the premise the step was
@@ -206,6 +258,56 @@ the same virtue — being responsive to evidence — and they are opposites. A c
 that survives because nobody counted is a lie the repository tells itself. A
 construct that dies on first objection takes with it every question it was the
 only way to ask.
+
+## Committing a wiki page
+
+**Every revision of a page in `Wiki/` is committed immediately, and the commit
+message names the source document the change came from.**
+
+Not at the end of a batch, not once per session. One page changed is one commit,
+and the first line says which document caused it:
+
+```
+aegis: second expansion from aegis-emergenz-aus-der-leere
+entropie: schöpferische Matrix from aegis-emergenz-aus-der-leere, conflict C2
+guardians: five named bearers from guardians-und-kern-welten-konzept
+```
+
+Several pages may share a commit **only when one source document caused all of
+them in one reconciliation**, and the message still names that document.
+
+### Why
+
+A term page accumulates readings from many documents over months. Without this,
+`git log` says a page changed and not why, and the only way to find out which
+source added a claim is to read every version. With it, `git log --oneline
+Wiki/candidates/aegis.md` is the page's provenance — which document contributed
+what, in order, for free.
+
+It also makes a wrong reading removable. If a document turns out to have been
+misread, every page it touched is one `git log --grep=<slug>` away.
+
+**A commit that changes a page without naming a source document is the defect**,
+the same way a false statement on this page is.
+
+## Every step keeps its artifact
+
+A census is the output of six steps. Five of them used to run in a terminal and
+vanish, which made the process impossible to study — you could not tell how a
+census was arrived at, compare a model against a person, or see what a probe
+would have caught.
+
+`Plan/runs/<slug>/` holds one directory per document: the profile, the probes,
+**the candidate list written while reading**, the counts, the verification runs,
+and the timings. `scripts/capture.py` writes what is deterministic and refuses to
+count before a candidate list exists, because counting first decides what gets
+seen.
+
+**The candidate list is the one artifact a program cannot produce**, and it is
+the baseline anything automated gets scored against. The first four documents
+have none — it was never written down — so their reconstructions are marked as
+reconstructions and **cannot serve as a gold set.** `Plan/runs/README.md` says so
+plainly rather than papering over it.
 
 ## Learnings
 

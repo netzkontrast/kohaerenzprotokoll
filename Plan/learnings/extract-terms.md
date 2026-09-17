@@ -153,7 +153,7 @@ Decision 004 removed the document-kind enum. What replaced it changed this step:
 The `repeated labels` probe finds document 2's convention exactly — six labels,
 38 occurrences, `Beschreibung x8` through `Probleme x4`.
 
-**And it reports `none` for document 3, which marks 25 passages.** Document 3's
+**And it reports `none` for document 3, which marks 26 passages.** Document 3's
 markers are `\[User Query\]` inline in running prose, not bold headings, so a
 probe built on one document's convention is blind to the other's.
 
@@ -173,6 +173,113 @@ Format does not follow from purpose, measured across the three read:
 | zero-width spaces | 0 | 100 | 0 |
 | repeated labels | none | 6 | none |
 | question marks | 22 | 25 | 23 |
+
+## What document 3 added, extracted independently
+
+71 candidates from 331 lines. Two special cases, and the first one is the worst
+found so far.
+
+**15. German inflection defeats exact matching, and it is not a corner case.**
+`Thermodynamik` as a noun occurs **zero times** in a document that argues about
+thermodynamics five times — as `thermodynamischen` (4) and `thermodynamischer`
+(1). A string-keyed census records the term as absent.
+
+Worse on a term that carries a conflict: **`emergent` appears in seven distinct
+surface forms** — Emergente, Emergentes, emergente, emergentem, emergenten,
+emergenter, emergentes — 13 occurrences, beside 13 of the noun `Emergenz`. A
+string-keyed index sees eight terms where there is one. Document 2 has the same
+split in different proportions (20 nouns, 8 adjectives across four forms).
+
+This is the case for stemming, and it is also the case *against* doing it
+blindly: `Negentropie` contains `entropie` and means its opposite, so a stemmer
+that is merely aggressive merges a term with its negation.
+
+**16. A document abbreviates its own central term halfway through.**
+`Kael-Julia-Bindung` 16 times, then `K-J-Bindung` 5 times from ^[L151]. Nothing
+announces the switch. Document 2 did the same thing by a different route — its
+summary table renaming five of eight protocols — so **two of three documents
+rename their own terms internally.**
+
+## The three-way comparison changed the pair's rule
+
+`Wiki/compare/002` supersedes `001`, which is itself a finding: **a comparison
+written at n=2 should expect to be superseded.**
+
+Five terms appear in all three documents; sixteen of 33 appear in exactly one.
+
+001 said string identity is anti-correlated with semantic identity. With three
+documents a sharper statement holds: **of the five terms in all three, the three
+the project owns each carry a conflict and the two it borrowed carry none.**
+
+A borrowed term is stable because its meaning is anchored outside the corpus. A
+project term drifts because nothing anchors it. So the test for where conflicts
+live costs no reading at all — *does this word mean something outside this
+project?* — and is made once per term.
+
+**`Kohärenz` is the proof.** One occurrence in document 1, 48 in document 2, 25
+in document 3, and two incompatible senses that only emerged at n=3: system
+stability measured by redundancy, and truth-by-self-consistency, which document 2
+criticises as risking solipsism. **A reading of document 1 would have dropped it
+entirely** — it carries nothing there on its own, and it is in the census only
+because the census is exhaustive.
+
+## Document 4, and the first fabricated identifier
+
+`guardians-und-kern-welten-konzept`, `worldbuilding`, chosen from
+`scripts/profile.py --summary` because that category has a median of **2
+headings** against `theorie-physik`'s 23 — the sharpest structural contrast in
+the corpus. **Selection may use knowledge of other documents; extraction may
+not.** Recorded as a rule, because it is the one place cross-document knowledge
+is legitimate.
+
+**17. The census frontmatter was typed, and one field was invented.** The
+`drive_id` written into the census was a fabrication — a plausible-looking Drive
+identifier that belonged to nothing. It was caught by comparing against the
+manifest, and it would have been invisible otherwise: a wrong id looks exactly
+like a right one, and it breaks the single guarantee the repository rests on.
+
+The response is not care. `scripts/profile.py --frontmatter <slug>` now emits the
+census header from the manifest, so the field is copied rather than typed, and
+every existing census and note was checked against the manifest — all seven match.
+
+**18. Sixteen repeated labels that are a schema, not a stance.** Nine fields per
+Guardian, eight per world, filled uniformly for five and four entities. The
+`repeated labels` probe counts them correctly and they mean something entirely
+different from document 2's `Beschreibung`/`Bewertung`. **The same probe finds
+two unrelated things**, and only reading tells them apart.
+
+That the corpus contains a **filled page schema for exactly the kind of entity
+the wiki builds pages for** is worth more than the census entry: it is a page
+format somebody already designed against this material.
+
+**19. A document's own count contradicts its own content, and it says so.** „die
+vier zentralen Hüter" against five named Guardians — correct, because two share a
+world, and flagged in a parenthetical at ^[L96]. A tally taken from the prose
+without reading that line is off by one.
+
+**20. Two `### A.` headings in one section**, at ^[L98] and ^[L110]. Heading-based
+addressing collides, and the duplicate is in the source.
+
+**21. Singular and plural split the count.** `Kern-Welten` 9, `Kern-Welt` 9 — one
+term, two rows, each half the true frequency. Same class as the inflection
+problem in document 3 and cheaper to fix.
+
+## What the four-way comparison changed
+
+`Wiki/compare/003` supersedes `002`, which superseded `001`. **Each comparison so
+far has been superseded by the next**, which is now a pattern rather than an
+accident.
+
+**A rule keyed to "shared by every document" gets weaker with each document
+added**, because the intersection shrinks — 002's five terms became one at n=4.
+Keyed to "shared by three or more" it gets stronger. The conflict finding itself
+survives the restatement.
+
+**And a comparison cannot answer a question about the corpus.** The four read
+documents never link `Partnerin` to `Juna`/`Julia`, and the obvious conclusion —
+that the corpus does not — is false: **17 of the 23 documents using `Partnerin`
+also use one of the names.** Only a check against all 409 could tell those apart,
+and it has to be run separately and said separately.
 
 ## How this was actually done — the procedure, step by step
 

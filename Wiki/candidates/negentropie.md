@@ -1,9 +1,10 @@
 ---
 term: Negentropie
 status: candidate
-sources: 1
-readings: 0
+sources: 2
+readings: 1
 conflict: none yet
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
 gathered: "2026-09-16"
 ---
 
@@ -31,17 +32,31 @@ premise offered for research, not a finding.
 
 ## Why the page exists with no reading
 
-Because the question gets answered, two days later, in a different document —
-and **nothing in the corpus links the two.** `kohaerenzprotokoll-aegis-und-systementropie`
-makes Negentropie a property of the Kael–Julia bond
-^[kohaerenzprotokoll-aegis-und-systementropie.md:L122].
+Because a question the corpus asks is a fact about the corpus, and a term that
+appears only inside one is the shape of term that gets dropped — it looks like
+nothing, and dropping it leaves no hole.
 
-That answer is not on this page: it belongs to that source and goes on when that
-source is ingested. What belongs here is the record that **the question predates
-the answer by two days and neither document knows about the other.**
+Whether any source answers it is not known from here.
+
+## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
+
+**The question is answered, two days later, by a document that does not know it
+was asked.** Negentropy is what the Kael-Julia bond supplies:
+
+> „Sie wirkt als konstante Quelle von *Negentropie* oder *Ordnung* und
+> kompensiert aktiv die Entropie, die durch Kaels DID und andere
+> Systemfluktuationen erzeugt wird." ^[kohaerenzprotokoll-aegis-und-systementropie.md:L122] `[User Query]`
+
+So the first source's question — *does AEGIS see the external connection as an
+entropy injection, or as an order it cannot parse?* — gets a third answer neither
+option anticipated: **neither, because AEGIS cannot see it at all.** See
+`blinder-fleck`.
+
+The marker matters: `[User Query]` means the project supplied this, and the
+research reasoned from it rather than concluding it.
 
 ## Status
 
-`readings: 0` is deliberate. A term that a source only asks about has no reading
+`readings: 0` was deliberate while it lasted. A term that a source only asks about has no reading
 in that source — and a page that recorded the question as a reading would turn
 the project's uncertainty into its position.

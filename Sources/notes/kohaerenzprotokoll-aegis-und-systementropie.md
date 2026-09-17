@@ -7,14 +7,14 @@ tier: T2-theory
 index_date: "2025-04-19"
 read: "2026-09-16"
 stance_markers: ["[User Query]"]
-stance_marker_count: 25
+stance_marker_count: 26
 reads_as: an answer to a commission; the marked passages are its premises, the rest its findings
 answers: unknown-brief
 ---
 
 # Notes — Kohärenzprotokoll: AEGIS und Systementropie
 
-**This document marks its own premises, 25 times.** It is the answer to a
+**This document marks its own premises, 26 times.** It is the answer to a
 commission — thirteen sections each labelled *(Adressiert Nutzerfrage N)*
 ^[L21, L39, L51, …, L201] — and inside it, every `[User Query]` marker flags a
 passage quoted back from that commission rather than concluded by the research.

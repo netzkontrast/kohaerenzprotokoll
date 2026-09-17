@@ -27,7 +27,7 @@ every reading says what kind of statement it is.
 **Stance belongs to a passage, not to a document** (decision 004). The documents
 themselves say so: one of the three read labels its passages 38 times, with six
 different labels — eight of them *describing* the thing it goes on to reject.
-Another marks 25 passages as premises quoted back from its commission. A single
+Another marks 26 passages as premises quoted back from its commission. A single
 label per file could only ever record the loudest one.
 
 | a reading is | when |
@@ -64,26 +64,28 @@ down leaves no hole, and the gap becomes invisible rather than open.
 
 ## What is here
 
-Fourteen pages. `aegis` came from all three documents read; the other thirteen
-are **everything `entropie-aegis` carries**, ingested document by document so
-that what the next source adds is visible as an addition.
+**24 pages and 2 conflicts**, from **2 of the 4 documents with a census.** The
+wiki is built one document at a time: a frozen census is reconciled against the
+current pages, and the record of each reconciliation is in `Wiki/compare/`.
 
-| page | readings | why it exists |
-|---|---:|---|
-| `aegis` | 4 | three incompatible expansions and one deliberate non-expansion |
-| `entropie` | 1 | the root term — used 53 times, defined never, commissioned in three other senses |
-| `ueberwelt` | 1 | defined by its relation to entropy, not by what it is |
-| `risse` | 1 | defined as a consequence, and marked „nun" — a reinterpretation, not an origin |
-| `guardians` | 1 | a first-rank term appearing three times, all in dependent clauses |
-| `did` | 1 | three surfaces in one document |
-| `multiplizitaet` | 1 | one sentence, and the novel's conflict hangs on it |
-| `kael` | 1 | called Michael here; the rename is a cliff, not a drift |
-| `juna` | 1 | called Julia here, and that old name outlives the rename by months |
-| `kern-welten` | 0 | used once, in a parenthesis, as known. Defined by nothing, needed by everything |
-| `negentropie` | 0 | asked here, answered two days later in a document that does not know the question |
-| `entropie-signatur` | 0 | coined in quotes, inside a question, never answered |
-| `alters` | 0 | enters as a parenthetical gloss — and is what the corpus disagrees about most |
-| `aegis-teilfunktionen` | 0 | four terms, one parenthesis, no explanations |
+| document | date | new terms | new readings | new surfaces | new conflicts |
+|---|---|--:|--:|--:|--:|
+| `entropie-aegis` | 2025-04-17 | 14 | 13 | — | 0 |
+| `aegis-emergenz-aus-der-leere` | 2025-04-19 | 10 | 2 | 1 | **2** |
+
+Both conflicts sit on terms the two documents **share**. Nothing they do not
+share produced one.
+
+## Conflicts
+
+`Wiki/conflicts/` holds one record per disagreement, **append-only**, pointed at
+from every page it touches. A record states that sources disagree, names at least
+two with a cited position each, and stops.
+
+| id | subject | positions | sources |
+|---|---|--:|--:|
+| `C1` | AEGIS is expanded incompatibly | 3 | 2 |
+| `C2` | Entropie means two incompatible things | 2 | 2 |
 
 About twenty pages get written by hand before any schema is written down. The
 schema follows the pages; the pages do not follow a schema.

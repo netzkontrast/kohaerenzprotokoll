@@ -4,6 +4,7 @@ status: candidate
 sources: 1
 readings: 0
 conflict: none
+ingested: ["entropie-aegis"]
 gathered: "2026-09-16"
 ---
 
@@ -32,16 +33,9 @@ invisible to anything but a person reading the line.
 And it is the one mechanism that would let AEGIS act on individual alters — which
 is the novel's central threat.
 
-## What document 3 does with it
-
-`kohaerenzprotokoll-aegis-und-systementropie` is the answer to a research brief
-and gives AEGIS six operational metrics with a two-column interpretation table
-^[kohaerenzprotokoll-aegis-und-systementropie.md:L91-96] — **all of them
-system-level. Not one is per-alter.**
-
-So the question was asked on 2025-04-17 and the closest thing to an answer,
-written two days later, does not address it. This is a `MISSING` that a later
-document could still close, and nothing currently watches for it.
+**Whether any later source answers it is not known from this source.** A term
+whose only occurrence is a question is a `MISSING` that a later document could
+close, and nothing yet watches for it.
 
 ## Note on the quotation marks
 

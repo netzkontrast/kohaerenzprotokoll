@@ -1,0 +1,43 @@
+{
+  "document": "entropie-aegis",
+  "drive_id": "1Hx3IAeQUQYHo8TFjUQ8NmHKJIVq0Ba58ye8Vdxy3v7w",
+  "step": "reconcile",
+  "at": "2026-09-16",
+  "by": "hand",
+  "note": "the first document; it created the state rather than reconciling against one",
+  "state_before": {
+    "pages": 0,
+    "conflicts": 0
+  },
+  "new_terms": [
+    "aegis",
+    "entropie",
+    "ueberwelt",
+    "risse",
+    "guardians",
+    "kern-welten",
+    "did",
+    "multiplizitaet",
+    "kael",
+    "juna",
+    "negentropie",
+    "entropie-signatur",
+    "alters",
+    "aegis-teilfunktionen"
+  ],
+  "new_readings": [],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "pages_with_zero_readings": [
+    "kern-welten",
+    "negentropie",
+    "entropie-signatur",
+    "alters",
+    "aegis-teilfunktionen"
+  ],
+  "state_after": {
+    "pages": 14,
+    "conflicts": 0
+  },
+  "minutes": null
+}

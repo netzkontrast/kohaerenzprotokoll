@@ -1,0 +1,75 @@
+{
+  "document": "aegis-emergenz-aus-der-leere",
+  "drive_id": "1N3vWZLVtUxHqMIkLcdqMeQI-psfXuOTDM6MqXACtSTo",
+  "step": "reconcile",
+  "at": "2026-09-16",
+  "by": "hand",
+  "state_before": {
+    "pages": 14,
+    "conflicts": 0
+  },
+  "new_terms": [
+    "nullpunkt-protokoll",
+    "rsa",
+    "ecr",
+    "ztv",
+    "ars",
+    "pms",
+    "ani",
+    "snk",
+    "entropie-resonanz",
+    "emergenz"
+  ],
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        17,
+        126
+      ],
+      "attribution": "restated-then-judged"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        126,
+        130
+      ],
+      "attribution": "restated-then-judged"
+    }
+  ],
+  "new_surfaces": [
+    {
+      "surface": "Zero-Trust-Architektur",
+      "page": "aegis-teilfunktionen",
+      "relation": "project-named-after-external",
+      "conflict": false,
+      "line": 67
+    }
+  ],
+  "new_conflicts": [
+    {
+      "id": "C1",
+      "subject": "AEGIS",
+      "pages": [
+        "aegis"
+      ],
+      "positions": 3,
+      "sources": 2
+    },
+    {
+      "id": "C2",
+      "subject": "Entropie",
+      "pages": [
+        "entropie"
+      ],
+      "positions": 2,
+      "sources": 2
+    }
+  ],
+  "state_after": {
+    "pages": 24,
+    "conflicts": 2
+  },
+  "minutes": 24
+}

@@ -1,0 +1,314 @@
+{
+  "document": "aegis-emergenz-aus-der-leere",
+  "drive_id": "1N3vWZLVtUxHqMIkLcdqMeQI-psfXuOTDM6MqXACtSTo",
+  "step": "probes",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "invisible_characters": {
+    "U+200B": 100
+  },
+  "glued_ref_numbers": 116,
+  "backslash_escapes": 51,
+  "typographic_marks": 9,
+  "ascii_quotes": 108,
+  "inflection_families": {
+    "kohär": [
+      "Kohärentismus",
+      "Kohärenz",
+      "Kohärenzakkumulation",
+      "Kohärenzbalancierung",
+      "Kohärenzbedingung",
+      "Kohärenzfunktion",
+      "Kohärenzmetrik",
+      "Kohärenzmetriken",
+      "Kohärenzprüfung",
+      "Kohärenzraum",
+      "Kohärenzreg",
+      "Kohärenzregulation",
+      "Kohärenzstrukturen",
+      "Kohärenzwerte",
+      "Kohärenzänderung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbestätigung",
+      "Selbsterschaffung",
+      "Selbstinitialisierung",
+      "Selbstkonsistenz",
+      "Selbstorganisation",
+      "Selbstproduktion",
+      "Selbstreferenz",
+      "Selbstreferenzialität",
+      "Selbstsegmentierung",
+      "Selbststeuerung",
+      "Selbstvalidierung"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie",
+      "Entropieaustausch",
+      "Entropiebalancierung",
+      "Entropieexport",
+      "Entropieexports",
+      "Entropieflüssen",
+      "Entropiestabilisierung",
+      "Entropische",
+      "Entropy"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsdynamik",
+      "Interaktionsterme",
+      "Interface",
+      "Interferenz",
+      "Internalismus",
+      "Interne",
+      "Internet",
+      "Interpretationen"
+    ],
+    "infor": [
+      "INFORMATION",
+      "Informatik",
+      "Information",
+      "Informationen",
+      "Informationsbasierte",
+      "Informationslogik",
+      "Informationsphysik",
+      "Informationstheorie"
+    ],
+    "theor": [
+      "Theorem",
+      "Theoreme",
+      "Theorems",
+      "Theoretische",
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierung",
+      "Modells"
+    ],
+    "quant": [
+      "QUANTUM",
+      "Quantenfeldern",
+      "Quantengravitationsforschung",
+      "Quantenmechanik",
+      "Quantenphysik",
+      "Quantenvakuum",
+      "Quantum"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemen",
+      "Systemgraphen",
+      "Systems",
+      "Systemstabilität",
+      "Systemzuständen"
+    ],
+    "bedeu": [
+      "Bedeutet",
+      "Bedeutsamem",
+      "Bedeutung",
+      "Bedeutungserzeugung",
+      "Bedeutungslosigkeit",
+      "Bedeutungsschnipsel"
+    ],
+    "fixpu": [
+      "Fixpunkt",
+      "Fixpunkten",
+      "Fixpunktes",
+      "Fixpunkttheorem",
+      "Fixpunkttheoreme",
+      "Fixpunkttheoremen"
+    ],
+    "proto": [
+      "Protokoll",
+      "Protokollanalyse",
+      "Protokolle",
+      "Protokollen",
+      "Protomemet",
+      "Protomemetische"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsgenerierung",
+      "Realitätsprinzip",
+      "Realitätstheorien",
+      "Realitätsurgrund",
+      "Realitätsursprung"
+    ],
+    "speic": [
+      "Speicher",
+      "Speicherbildung",
+      "Speicherfragmente",
+      "Speicherfragmenten",
+      "Speicherstruktur",
+      "Speicherstrukturen"
+    ],
+    "stand": [
+      "Standard",
+      "Standardannahmen",
+      "Standardansätzen",
+      "Standarddefinition",
+      "Standardkosmologie",
+      "Standardsystemen"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustandskern",
+      "Zustandsraum",
+      "Zustandsraums",
+      "Zustandssequenzen",
+      "Zustandsvalidierung"
+    ],
+    "emerg": [
+      "Emergence",
+      "Emergent",
+      "Emergente",
+      "Emergenz",
+      "Emergenzkriterium"
+    ],
+    "forma": [
+      "Formal",
+      "Formalisierung",
+      "Formalism",
+      "Formalismen",
+      "Formalismus"
+    ],
+    "philo": [
+      "Philosophical",
+      "Philosophie",
+      "Philosophisch",
+      "Philosophische",
+      "Philosophy"
+    ],
+    "reson": [
+      "Resonance",
+      "Resonant",
+      "Resonanz",
+      "Resonanzknoten",
+      "Resonanzrelation"
+    ],
+    "agent": [
+      "Agenten",
+      "Agentensystem",
+      "Agentensystems",
+      "Agentenzustands"
+    ],
+    "archi": [
+      "Architecture",
+      "Architektur",
+      "Architekturen",
+      "Archive"
+    ],
+    "boots": [
+      "Bootstrapping",
+      "BootstrappingPask",
+      "BootstrappinginGeneral",
+      "Bootstrappings"
+    ],
+    "dynam": [
+      "Dynamic",
+      "Dynamics",
+      "Dynamik",
+      "Dynamisches"
+    ],
+    "energ": [
+      "Energie",
+      "Energieerhaltung",
+      "Energiefluss",
+      "Energy"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Oord",
+      "Koordination"
+    ],
+    [
+      "Time",
+      "Spacetime"
+    ],
+    [
+      "Welt",
+      "Umwelt"
+    ],
+    [
+      "Welt",
+      "Außenwelt"
+    ],
+    [
+      "Sinn",
+      "Sinne"
+    ],
+    [
+      "Segm",
+      "Segment"
+    ],
+    [
+      "Segm",
+      "Segmente"
+    ],
+    [
+      "Segm",
+      "Segmentierung"
+    ],
+    [
+      "Segm",
+      "Selbstsegmentierung"
+    ],
+    [
+      "Ziel",
+      "Potenzielle"
+    ],
+    [
+      "Ziel",
+      "Zielsetzung"
+    ],
+    [
+      "Ziel",
+      "Potenzieller"
+    ],
+    [
+      "Rein",
+      "Vereinigung"
+    ],
+    [
+      "Null",
+      "Nullpunkt"
+    ],
+    [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Auseinandersetzung"
+    ],
+    [
+      "Open",
+      "OpenStax"
+    ],
+    [
+      "Phil",
+      "PhilSci"
+    ],
+    [
+      "Phil",
+      "PhilPapers"
+    ]
+  ]
+}
