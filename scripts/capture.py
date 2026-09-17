@@ -24,6 +24,7 @@ Usage:
 
 from __future__ import annotations
 
+import collections
 import json
 import re
 import subprocess
@@ -64,6 +65,28 @@ def candidate_terms(markdown: str) -> list[str]:
         if term and len(term) <= 40 and not PROSE.search(term):
             out.append(term)
     return out
+
+
+def surfaces(term: str, text: str) -> list[tuple[str, int]]:
+    """The inflected and compounded forms of this candidate the document holds.
+
+    A candidate is proposed in the form a reader has in mind, which in German is
+    usually the nominative singular — and the document then only ever uses it
+    declined. `Kerndirektive` scored 0 as a word here because the document writes
+    `Kerndirektiven`; so did `Guardian-Subroutine` and `Kernsystem`. Three of 53
+    candidates looked absent and were not.
+
+    `02-probes.txt` already groups the document's vocabulary into families by
+    prefix. This does the same thing pointed the other way: given the candidate,
+    show which surfaces of it are actually present, so a zero is readable as
+    „written differently here" instead of „not in this document".
+    """
+    if len(term) < 4 or " " in term:
+        return []
+    found = collections.Counter(
+        re.findall(rf"(?<![\w-]){re.escape(term)}[\w-]+", text, re.IGNORECASE))
+    return sorted(((f, n) for f, n in found.items() if f.lower() != term.lower()),
+                  key=lambda p: -p[1])[:4]
 
 
 def count_both(term: str, text: str) -> tuple[int, int]:
@@ -221,6 +244,8 @@ def count(slug: str) -> Path:
         word, inside = count_both(term, text)
         flag = "  <-- substring" if inside > 2 * max(word, 1) else ""
         out.append(f"  {term:30} {word:4} word {inside:5} in   {hits[:6]}{flag}")
+        for form, n in surfaces(term, text):
+            out.append(f"  {'':30} {n:4}      as {form}")
     (run / "04-counts.txt").write_text("\n".join(out) + "\n", encoding="utf-8")
     reconstructed = "Reconstructed, not original" in candidates_file.read_text(encoding="utf-8")
     write_json(run, slug, "counts", {

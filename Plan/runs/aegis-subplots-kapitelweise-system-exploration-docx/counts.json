@@ -1138,20 +1138,12 @@
         415
       ]
     },
-    "Innere Reise": {
+    "Kernsystemprotokoll": {
       "n": 0,
-      "n_including_compounds": 0,
-      "lines": []
-    },
-    "Meta-Ebene": {
-      "n": 0,
-      "n_including_compounds": 0,
-      "lines": []
-    },
-    "Äußere Konfrontation": {
-      "n": 0,
-      "n_including_compounds": 0,
-      "lines": []
+      "n_including_compounds": 1,
+      "lines": [
+        293
+      ]
     }
   }
 }

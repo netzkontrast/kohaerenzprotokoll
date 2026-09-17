@@ -27,7 +27,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-161 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+168 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 

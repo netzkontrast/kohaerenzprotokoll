@@ -7,11 +7,11 @@
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 4,
+      "value": 5,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 4,
+      "value": 5,
       "how": "files in Sources/notes/"
     },
     "judgements.disagree": {
@@ -27,15 +27,15 @@
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
-      "value": true,
+      "value": false,
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
     "quotes.checked": {
-      "value": 271,
+      "value": 304,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 161,
+      "value": 168,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -71,7 +71,7 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 0,
+      "value": 1,
       "how": "candidate lists written while reading, not reconstructed"
     },
     "trainset.surface_pairs": {

@@ -77,9 +77,7 @@ in the term wiki.
 - Rest-AEGIS
 - Realitätsverformung
 - Simulations-Engine
-- Innere Reise
-- Meta-Ebene
-- Äußere Konfrontation
+- Kernsystemprotokoll
 
 ## Open while reading — to resolve before the census
 

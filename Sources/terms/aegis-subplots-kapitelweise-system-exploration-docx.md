@@ -5,7 +5,7 @@ title: "AEGIS-Subplots Kapitelweise System-Exploration .docx"
 category: aegis
 index_date: "2025-08-05"
 extracted: "2026-09-17"
-candidates: 53
+candidates: 51
 ---
 
 # Term census — AEGIS-Subplots Kapitelweise System-Exploration .docx
@@ -73,7 +73,7 @@ them would inject a philosophy syllabus into the wiki.
 
 ## Candidates
 
-53, written while reading, in `Plan/runs/aegis-subplots-kapitelweise-system-exploration-docx/03-candidates.md`.
+51, written while reading, in `Plan/runs/aegis-subplots-kapitelweise-system-exploration-docx/03-candidates.md`.
 **This is the first candidate list on this project that was written during the
 read rather than reconstructed afterwards**, so it is the first one that can
 serve as a baseline.
@@ -95,7 +95,10 @@ including compounds.
 and 1–2 as a substring: the document only ever uses them inflected —
 `Guardian-Subroutinen`, `Kerndirektiven`, `Kernsystems`. Proposed in the singular
 while reading, which is the German inflection problem doing exactly what the
-briefing predicts.
+briefing predicts. **A zero here meant „written differently", not „absent", and
+nothing in the count said so** — so `capture.py` now lists the surfaces it did
+find under each candidate, and the same pass surfaced one candidate the reading
+had missed entirely: `Kernsystemprotokoll` ^[L293].
 
 `Innere Reise`, `Meta-Ebene` and `Äußere Konfrontation` scored 0 both ways
 because the document writes them in full capitals as part section headers —

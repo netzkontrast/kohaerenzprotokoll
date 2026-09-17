@@ -69,10 +69,10 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**4 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **4
+**5 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **5
 <!--state:documents.with_note--> have a note** in `Sources/notes/`, and **4
-<!--state:documents.reconciled--> are reconciled**. Three of the four are `theorie-physik`, the fourth
-`worldbuilding`.
+<!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
+one `worldbuilding`, one `aegis` — and the fifth is read but not yet reconciled.
 
 `Wiki/candidates/` holds **46 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **4 <!--state:wiki.conflicts-->**, and
