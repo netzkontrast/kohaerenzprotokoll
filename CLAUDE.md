@@ -217,6 +217,37 @@ that survives because nobody counted is a lie the repository tells itself. A
 construct that dies on first objection takes with it every question it was the
 only way to ask.
 
+## Committing a wiki page
+
+**Every revision of a page in `Wiki/` is committed immediately, and the commit
+message names the source document the change came from.**
+
+Not at the end of a batch, not once per session. One page changed is one commit,
+and the first line says which document caused it:
+
+```
+aegis: second expansion from aegis-emergenz-aus-der-leere
+entropie: schöpferische Matrix from aegis-emergenz-aus-der-leere, conflict C2
+guardians: five named bearers from guardians-und-kern-welten-konzept
+```
+
+Several pages may share a commit **only when one source document caused all of
+them in one reconciliation**, and the message still names that document.
+
+### Why
+
+A term page accumulates readings from many documents over months. Without this,
+`git log` says a page changed and not why, and the only way to find out which
+source added a claim is to read every version. With it, `git log --oneline
+Wiki/candidates/aegis.md` is the page's provenance — which document contributed
+what, in order, for free.
+
+It also makes a wrong reading removable. If a document turns out to have been
+misread, every page it touched is one `git log --grep=<slug>` away.
+
+**A commit that changes a page without naming a source document is the defect**,
+the same way a false statement on this page is.
+
 ## Every step keeps its artifact
 
 A census is the output of six steps. Five of them used to run in a terminal and
