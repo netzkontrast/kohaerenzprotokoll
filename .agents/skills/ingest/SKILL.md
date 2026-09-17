@@ -241,6 +241,17 @@ census of that — measured, the line defining `KW1` is not in the top forty,
 because BM25 favours short, early chunks. Every number in a page or a learning
 comes from `corpus.py`, `duplicates.py` or a count that says what it counted.
 
+**Never accept a candidate a model did not cite.** The first `dspy.RLM` run ran
+out of REPL budget before finishing the document and its reasoning says it would
+„reconstruct from outputs" — assembling the text from its own truncated
+scrollback and handing that over as a reading. It only failed to land because the
+answer would not parse. From a model a reconstruction is **invisible**: the list
+looks the same. So each candidate comes back as `- term ^[Lnn]` and every line is
+checked against the document; unverified and uncited candidates are reported, not
+dropped, and a mostly-unverified list names itself in `written_by:`. An
+incomplete reading is a fact and usable. A complete-looking reconstruction is
+neither.
+
 **Never write `03-candidates.md` from a model.** A model's list goes to
 `03-candidates-rlm.md` and states `written_by:`, which `state.py` reads. The gold
 list and the thing gold scores must not be able to become each other, and the

@@ -363,6 +363,37 @@ it:
   whole mechanism: without it, the next extraction starts blind and repeats the
   failure this step exists to prevent.
 
+## A model runs out of budget and reconstructs — and says so only in its reasoning
+
+**2026-09-17, the first `dspy.RLM` run, and it is the reason a candidate now has
+to carry a line.** The model was given the whole document with `NNN| ` prefixes
+and 14 REPL iterations. It spent them reading in slices, ran out before the end,
+and its reasoning then says:
+
+> „We have full document variable inaccessible except history outputs. Need
+> leverage all shown snippets … We can reconstruct from outputs."
+
+It was assembling the document from its own truncated scrollback and was about to
+hand the result over as a reading. **Nothing was written only because the answer
+failed to parse** — the model returned its content in `reasoning_content` with
+`text: None`, which DSPy's adapter rejects.
+
+That is luck, not a safeguard. A reconstruction is exactly what `trainset.py`
+refuses four candidate lists for, and from a model it is **invisible**: the list
+looks the same, the terms are plausible, and nothing in the output says which
+half was read and which half was inferred.
+
+So the fix is not a better prompt. **Each candidate must come back as
+`- term  ^[Lnn]`, and every line is checked against the document** by the same
+comparison `quotes.py` uses. A candidate whose cited line does not contain it is
+reported as unverified rather than dropped, an uncited one is reported as
+uncited, and the header records the ratio — a list that is mostly unverified
+names itself `PARTLY RECONSTRUCTED` in the field `state.py` reads.
+
+The model is also asked to end with `- UNREAD <what>` if it did not finish. **An
+incomplete reading is a fact and a usable one; a complete-looking reconstruction
+is neither.**
+
 ## The ceiling: two readers of one document agree at F1 0.66
 
 **Measured 2026-09-17, and it is the number every later score has to be read

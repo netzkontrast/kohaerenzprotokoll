@@ -15,6 +15,26 @@ Three pieces, and the joins between them are the point:
   the two-line-bases trap, frontmatter against file. Handing it the numbering
   removes the question instead of hoping.
 
+## Why every candidate must carry a line, and the line is checked
+
+The first run of this program failed, and the failure is the reason the rule
+below exists. The model ran out of REPL budget before it had read the whole
+document, and its reasoning then says, in as many words:
+
+> „We have full document variable inaccessible except history outputs. Need
+> leverage all shown snippets … We can reconstruct from outputs."
+
+**It was about to reconstruct the document from its own truncated scrollback and
+hand the result over as a reading.** Nothing was written only because the answer
+failed to parse. A reconstruction is exactly what `trainset.py` refuses four
+candidate lists for, and in a model it is invisible: the list looks the same.
+
+So a candidate is not accepted on its word. Each one must come back as
+`- term  ^[Lnn]`, and every line is verified against the document by the same
+comparison `quotes.py` uses. A candidate whose cited line does not contain it is
+**unverified**, and the header records how many there were. A list that is mostly
+unverified is a reconstruction and says so, in the one field `state.py` reads.
+
 ## What this may not do, and does not
 
 **It writes `03-candidates-rlm.md`, never `03-candidates.md`.** The gold list is
@@ -34,6 +54,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import re
 import sys
 import time
 from datetime import date
@@ -46,7 +67,10 @@ SKILLS = ROOT / ".agents" / "skills"
 RUNS = ROOT / "Plan" / "runs"
 # Free, and it answers a structured-output request — 18 of the 24 free models on
 # OpenRouter do not, and `RLM` needs one, so the choice is narrower than it looks.
-DEFAULT_MODEL = "openrouter/nex-agi/nex-n2.5-pro:free"
+# `nex-agi/nex-n2.5-pro:free` also qualifies and was the first default, but it
+# returns its final answer in `reasoning_content` with `text: None`, which DSPy's
+# adapter rejects as an empty response. Worth re-testing; not worth losing a run to.
+DEFAULT_MODEL = "openrouter/nvidia/nemotron-3-super-120b-a12b:free"
 BASE = "https://openrouter.ai/api/v1"
 
 
@@ -95,8 +119,37 @@ compound or piece of vocabulary this document treats as a thing in its world.
 German capitalises every noun, so capitalisation tells you nothing — use the
 REPL to count and to look, not to decide.
 
-Answer with the list and nothing else, one candidate per line, each line starting
-with `- `. No commentary, no numbering, no counts."""
+**Every candidate carries the line you found it on**, in this exact form, one per
+line and nothing else:
+
+    - Kern-Welt  ^[L152]
+
+The line number is the `NNN` prefix of a line that actually contains the term.
+It is checked against the document afterwards, so a number you did not read off a
+line will be reported rather than believed. If you have not read a part of the
+document, say so in one final line beginning `- UNREAD ` — an incomplete reading
+is a fact, and a reconstruction offered as a reading is the one thing this step
+must never produce.
+
+No commentary, no numbering, no counts."""
+
+
+CITED = re.compile(r"^-\s*(?P<term>.+?)\s*\^\[L(?P<line>\d+)\]\s*$")
+
+
+def verified(slug: str, rows: list[tuple[str, int]]) -> tuple[list[str], list[str]]:
+    """(candidates whose cited line really contains them, the rest)."""
+    import quotes
+    from subject import document
+    doc = document(slug)
+    lines = doc.lines()
+    good, bad = [], []
+    for term, number in rows:
+        index = number - doc.offset
+        line = quotes.normalise(lines[index]) if 0 <= index < len(lines) else ""
+        target = good if quotes.normalise(term) and quotes.normalise(term) in line else bad
+        target.append(term)
+    return good, bad
 
 
 def run(slug: str, model: str, iters: int) -> Path:
@@ -111,17 +164,46 @@ def run(slug: str, model: str, iters: int) -> Path:
                  task=TASK.format(skills=skills, instructions=instructions))
     elapsed = time.time() - started
 
-    lines = [l.rstrip() for l in str(result.candidates).splitlines() if l.strip().startswith("- ")]
+    rows, unread, uncited = [], [], []
+    for raw in str(result.candidates).splitlines():
+        line = raw.strip()
+        if line.startswith("- UNREAD"):
+            unread.append(line[2:].strip())
+            continue
+        match = CITED.match(line)
+        if match:
+            rows.append((match.group("term"), int(match.group("line"))))
+        elif line.startswith("- "):
+            uncited.append(line[2:].strip())
+
+    good, bad = verified(slug, rows)
+    total = len(good) + len(bad) + len(uncited)
+    share = len(good) / total if total else 0.0
+    quality = ("a reading — every candidate carries a line that holds it"
+               if share >= 0.9 and not unread and not uncited
+               else "PARTLY RECONSTRUCTED — treat as a draft, not as a reading")
+
     out = RUNS / slug / "03-candidates-rlm.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(
-        f"written_by: dspy.RLM, model {model}, {iters} iterations, {elapsed:.0f}s\n"
-        f"ran: {date.today().isoformat()}\n\n"
+        f"written_by: dspy.RLM, model {model}, {iters} iterations, {elapsed:.0f}s — {quality}\n"
+        f"ran: {date.today().isoformat()}\n"
+        f"verified: {len(good)} of {total} candidates cite a line that contains them\n\n"
         f"# Candidates (model) — {slug}\n\n"
         "> **Not a gold list.** A gold candidate list is written by a reader while\n"
         "> reading, before any count. This is the thing gold is used to score.\n\n"
-        + "\n".join(lines) + "\n", encoding="utf-8")
-    print(f"{len(lines)} candidates in {elapsed:.0f}s -> {out.relative_to(ROOT)}")
+        + "\n".join(f"- {t}" for t in good)
+        + ("\n\n## Unverified — the cited line does not contain the term\n\n"
+           + "\n".join(f"- {t}" for t in bad) if bad else "")
+        + ("\n\n## Uncited — no line given, so nothing could be checked\n\n"
+           + "\n".join(f"- {t}" for t in uncited) if uncited else "")
+        + ("\n\n## The model said it did not read:\n\n"
+           + "\n".join(f"- {u}" for u in unread) if unread else "") + "\n",
+        encoding="utf-8")
+    print(f"{len(good)} verified of {total} in {elapsed:.0f}s "
+          f"({len(bad)} unverified, {len(uncited)} uncited) -> {out.relative_to(ROOT)}")
+    if unread:
+        print("the model reported unread parts:", "; ".join(unread)[:200])
     return out
 
 
