@@ -1,0 +1,471 @@
+{
+  "document": "charakterkonzepte-fuer-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-09-17",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-17",
+  "state": {
+    "pages": 58,
+    "conflicts": 5
+  },
+  "candidates": 108,
+  "decisions": 110,
+  "same_surface": {},
+  "decided_mechanically": 96,
+  "needs_judgement": 14,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 3
+      },
+      {
+        "candidate": "Dissoziative Identitätsstörung",
+        "page": "did",
+        "readings": 3
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 3
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 1
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 4
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 2
+      },
+      {
+        "candidate": "Kern-Welten",
+        "page": "kern-welten",
+        "readings": 4
+      },
+      {
+        "candidate": "Resonanz-Landschaft",
+        "page": "resonanz-landschaft",
+        "readings": 1
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 1
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 3
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 3
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 5
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 5
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 4
+      },
+      {
+        "candidate": "Blinder Fleck",
+        "page": "blinder-fleck",
+        "readings": 2
+      },
+      {
+        "candidate": "Seele=Info",
+        "page": "seele-info",
+        "readings": 1
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 3
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 3
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 3
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 3
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 3
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "Gesamtsystem"
+      },
+      {
+        "candidate": "universal reboot"
+      },
+      {
+        "candidate": "Kontrollprotokoll"
+      },
+      {
+        "candidate": "Anscheinend Normale Persönlichkeitsanteile"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "Emotionale Persönlichkeitsanteile"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "Theorie der strukturellen Dissoziation"
+      },
+      {
+        "candidate": "Co-Bewusstsein"
+      },
+      {
+        "candidate": "Intrusionen"
+      },
+      {
+        "candidate": "Amnesie"
+      },
+      {
+        "candidate": "Möglichkeiten-Garten"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "Systemanomalie"
+      },
+      {
+        "candidate": "Systemintegrität"
+      },
+      {
+        "candidate": "Kontrollparadigma"
+      },
+      {
+        "candidate": "Heldenreise"
+      },
+      {
+        "candidate": "Homöostase"
+      },
+      {
+        "candidate": "Feedbackloops"
+      },
+      {
+        "candidate": "Nicht-Existenz"
+      },
+      {
+        "candidate": "Systemkollaps"
+      },
+      {
+        "candidate": "frontet"
+      },
+      {
+        "candidate": "Limina"
+      },
+      {
+        "candidate": "Die Wächterin"
+      },
+      {
+        "candidate": "Schwellenhüterin"
+      },
+      {
+        "candidate": "Praetor"
+      },
+      {
+        "candidate": "Der Beschützer"
+      },
+      {
+        "candidate": "Protector"
+      },
+      {
+        "candidate": "Nox"
+      },
+      {
+        "candidate": "Der Kritiker"
+      },
+      {
+        "candidate": "Persecutor"
+      },
+      {
+        "candidate": "Täterlogik"
+      },
+      {
+        "candidate": "Eos"
+      },
+      {
+        "candidate": "Die Verführerin"
+      },
+      {
+        "candidate": "Kontrolleurin"
+      },
+      {
+        "candidate": "Echo"
+      },
+      {
+        "candidate": "Der Kleine"
+      },
+      {
+        "candidate": "Little"
+      },
+      {
+        "candidate": "Flicker"
+      },
+      {
+        "candidate": "Die Verspielte"
+      },
+      {
+        "candidate": "Oblivion"
+      },
+      {
+        "candidate": "Der Gefrorene"
+      },
+      {
+        "candidate": "Freeze Response"
+      },
+      {
+        "candidate": "Silas"
+      },
+      {
+        "candidate": "Der Pflegende"
+      },
+      {
+        "candidate": "Caretaker"
+      },
+      {
+        "candidate": "Index"
+      },
+      {
+        "candidate": "Der Analytiker"
+      },
+      {
+        "candidate": "Internal Self-Helper"
+      },
+      {
+        "candidate": "Switching"
+      },
+      {
+        "candidate": "verdeckt"
+      },
+      {
+        "candidate": "Therapeut-Konstrukt"
+      },
+      {
+        "candidate": "Herr Jansen"
+      },
+      {
+        "candidate": "Der 'Normale' Nachbar"
+      },
+      {
+        "candidate": "Einheit 734"
+      },
+      {
+        "candidate": "Regel-Exekutor"
+      },
+      {
+        "candidate": "Das Schattenkind"
+      },
+      {
+        "candidate": "Der Weinende Mann"
+      },
+      {
+        "candidate": "Trauma-Symbolfigur"
+      },
+      {
+        "candidate": "Chronos"
+      },
+      {
+        "candidate": "Der Archivar"
+      },
+      {
+        "candidate": "Terminus"
+      },
+      {
+        "candidate": "Der Grenzwärter"
+      },
+      {
+        "candidate": "Sibyl"
+      },
+      {
+        "candidate": "Das Orakel der Möglichkeiten"
+      },
+      {
+        "candidate": "Leech"
+      },
+      {
+        "candidate": "Der Daten-Parasit"
+      },
+      {
+        "candidate": "Lichtfunke"
+      },
+      {
+        "candidate": "Die Stimme aus dem Rauschen"
+      },
+      {
+        "candidate": "Cassian"
+      },
+      {
+        "candidate": "Fragmentierter"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Alters  /  Alter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter  /  Child Alter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter  /  Trauma-Halter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Junas Fragment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems  /  Gatekeeper",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ashby's Law of Requisite Variety  /  Requisite Variety",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Autonomous Entropic Gatekeeper for Integrity Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Systemkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Zero-Trust-Protokolle",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "zerotrust",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Gatekeeper",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropicgatekeeper",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Glitchwyrm",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Junas Fragment",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      }
+    ]
+  },
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

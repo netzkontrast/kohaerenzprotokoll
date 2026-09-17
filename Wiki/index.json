@@ -1,8 +1,8 @@
 {
   "built": "2026-09-17",
   "by": "scripts/wiki_index.py",
-  "pages": 58,
-  "conflicts": 5,
+  "pages": 59,
+  "conflicts": 6,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -30,7 +30,6 @@
         "Cognitive Firewall",
         "Integrity Guardian",
         "SIS",
-        "Zero-Trust",
         "aegis-teilfunktionen"
       ],
       "ingested": [
@@ -54,10 +53,11 @@
         "entropie-aegis",
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 4,
-      "readings": 5,
+      "sources": 5,
+      "readings": 6,
       "conflict": "C1"
     },
     "alters": {
@@ -69,11 +69,12 @@
       "ingested": [
         "entropie-aegis",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 2,
-      "conflict": "none here — known elsewhere"
+      "sources": 4,
+      "readings": 3,
+      "conflict": "C6"
     },
     "ani": {
       "title": "ANI — Äußere Nicht-Identifikation",
@@ -122,10 +123,11 @@
       ],
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "C4"
     },
     "cerberus": {
@@ -137,10 +139,11 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -169,10 +172,11 @@
       "ingested": [
         "entropie-aegis",
         "kohaerenz-protokoll-konzept",
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "ecr": {
@@ -253,10 +257,11 @@
         "entropie-aegis",
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "C2"
     },
     "externe-ebene": {
@@ -268,10 +273,11 @@
       "ingested": [
         "kohaerenz-protokoll-konzept",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -282,10 +288,11 @@
         "grenzfeste"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -330,10 +337,11 @@
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none yet"
     },
     "juna": {
@@ -346,10 +354,11 @@
       "ingested": [
         "entropie-aegis",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "junas-ankerpunkt": {
@@ -392,10 +401,11 @@
       "ingested": [
         "entropie-aegis",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "kaels-wohneinheit": {
@@ -421,10 +431,11 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "kern-welten": {
@@ -440,10 +451,11 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "guardians-und-kern-welten-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 5,
-      "readings": 4,
+      "sources": 6,
+      "readings": 5,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -453,10 +465,11 @@
         "kohaerenz-programm"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "kohaerenz": {
@@ -467,10 +480,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-konzept",
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "konstrukt-stadt": {
@@ -481,10 +495,11 @@
         "konstrukt-stadt"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "logos": {
@@ -496,10 +511,11 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "mnemosyne": {
@@ -511,10 +527,11 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "moeglichkeits-garten": {
@@ -652,10 +669,11 @@
         "protokoll-v14"
       ],
       "ingested": [
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "realitaetsebenen": {
@@ -683,10 +701,11 @@
         "resonanz-landschaft"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "risse": {
@@ -701,10 +720,11 @@
         "entropie-aegis",
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none yet"
     },
     "rsa": {
@@ -743,10 +763,11 @@
         "seele-info"
       ],
       "ingested": [
-        "kohaerenz-protokoll-konzept"
+        "kohaerenz-protokoll-konzept",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "snk": {
@@ -771,10 +792,11 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "system-monitor": {
@@ -850,6 +872,19 @@
       "readings": 1,
       "conflict": "none"
     },
+    "zero-trust": {
+      "title": "Zero-Trust",
+      "surfaces": [
+        "Zero-Trust",
+        "zero-trust"
+      ],
+      "ingested": [
+        "charakterkonzepte-fuer-kohaerenz-protokoll"
+      ],
+      "sources": 2,
+      "readings": 1,
+      "conflict": "none"
+    },
     "ztv": {
       "title": "ZTV — Vertrauenlose Validierung",
       "surfaces": [
@@ -877,7 +912,6 @@
     "cognitivefirewall": "aegis-teilfunktionen",
     "integrityguardian": "aegis-teilfunktionen",
     "sis": "aegis-teilfunktionen",
-    "zerotrust": "aegis-teilfunktionen",
     "aegisteilfunktionen": "aegis-teilfunktionen",
     "aegis": "aegis",
     "entropicgatekeeper": "aegis",
@@ -989,6 +1023,7 @@
     "traumalokus": "vergessener-schrein",
     "vergessenerschrein": "vergessener-schrein",
     "vergessenerschreintraumalokus": "vergessener-schrein",
+    "zerotrust": "zero-trust",
     "ztvvertrauenlosevalidierung": "ztv",
     "ztv": "ztv"
   },
@@ -1038,6 +1073,14 @@
         "kairos",
         "sophia",
         "realitaetsebenen"
+      ],
+      "status": "open"
+    },
+    "C6": {
+      "subject": "Kael's Alter/Anteil roster — two complete, disjoint name sets",
+      "pages": [
+        "alters",
+        "kael"
       ],
       "status": "open"
     }
