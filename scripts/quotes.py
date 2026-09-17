@@ -63,7 +63,7 @@ MARKER = re.compile(r"\s*\[(?:User Query|Adressiert)[^\]]{0,60}\]")
 # run prints how many those are.
 QUOTE = re.compile(r"„(?P<quote>[^„“]{8,400})[“\"]")
 CITE = re.compile(r"\^\[(?P<ref>[^\]\n]{2,80})\]")
-WINDOW = 120
+UNKNOWN_SOURCE = "which document this ^[Lnn] means cannot be determined"
 REF = re.compile(r"^(?:(?P<slug>[A-Za-z0-9\-]+)\.md:)?L(?P<line>\d+)(?:\s*[-\u2013]\s*(?P<last>\d+))?")
 
 
@@ -136,13 +136,19 @@ def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
         if not near:
             unchecked += 1
             continue
-        failures = []
+        failures, resolvable = [], False
         for raw in near:
             outcome = resolve(raw, default_slug, match.group("quote"))
+            if outcome == UNKNOWN_SOURCE:
+                continue
+            resolvable = True
             if outcome is None:
                 failures = []
                 break
             failures.append(outcome)
+        if not resolvable:
+            unchecked += 1
+            continue
         if failures:
             problems.append({"quote": match.group("quote")[:60], "ref": near[0],
                              "why": failures[0]})
@@ -154,10 +160,10 @@ def resolve(raw: str, default_slug: str | None, quote: str) -> str | None:
     if True:
         ref = REF.match(raw)
         if not ref:
-            return None
+            return UNKNOWN_SOURCE
         slug = ref.group("slug") or default_slug
         if not slug:
-            return None
+            return UNKNOWN_SOURCE
         first = int(ref.group("line"))
         last = int(ref.group("last") or first)
         # A range cites a passage: the quote must resolve within it, on one line.
@@ -181,17 +187,30 @@ def resolve(raw: str, default_slug: str | None, quote: str) -> str | None:
 
 
 def slug_of(path: Path) -> str | None:
-    """Which document a file's bare ^[Lnn] refers to: its frontmatter source."""
+    """Which document a file's bare ^[Lnn] refers to.
+
+    A census or a note says so in `source:`. A wiki page does not -- it says
+    which documents it was built from in `ingested:`, and a bare `^[Lnn]` on a
+    page written during one document's reconciliation means that document. When
+    a page carries several, a bare reference is ambiguous and is **not** checked
+    rather than checked against a guess.
+    """
     head = path.read_text(encoding="utf-8")[:900]
     match = re.search(r"^source:\s*Sources/drive/([A-Za-z0-9\-]+)\.md", head, re.M)
     if match:
         return match.group(1)
+    ingested = re.search(r"^ingested:\s*\[(?P<list>[^\]]*)\]", head, re.M)
+    if ingested:
+        slugs = re.findall(r"[A-Za-z0-9\-]{4,}", ingested.group("list"))
+        if len(slugs) == 1:
+            return slugs[0]
+        return None
     return path.stem if any(d.slug == path.stem for d in documents()) else None
 
 
 def main(argv: list[str]) -> int:
     if argv:
-        targets = [Path(argv[0])]
+        targets = [Path(argv[0]).resolve()]
     else:
         targets = sorted(
             list((ROOT / "Sources" / "notes").glob("*.md"))
@@ -206,11 +225,12 @@ def main(argv: list[str]) -> int:
         uncited += skipped
         for problem in problems:
             failed += 1
-            print(f"UNRESOLVED  {path.relative_to(ROOT)}  ^[{problem['ref']}]")
+            where = path.relative_to(ROOT) if path.is_relative_to(ROOT) else path
+            print(f"UNRESOLVED  {where}  ^[{problem['ref']}]")
             print(f"            „{problem['quote']}…\"")
             print(f"            {problem['why']}")
     print(f"\n{checked} cited quotes checked, {failed} unresolved; "
-          f"{uncited} quotes carry no reference on their own line and were not checked."
+          f"{uncited} quotes had no citation on their own line, or none naming a\ndocument that could be resolved, and were not checked."
           f"\nA bare ^[Lnn] resolves against the file's own `source:`.")
     return 1 if failed else 0
 
