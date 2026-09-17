@@ -124,7 +124,14 @@ def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
     quotes = list(QUOTE.finditer(text))
     for m in CITE.finditer(text):
         row = line_of(m.start())
-        same = [q for q in quotes if line_of(q.start()) == row or line_of(q.end()) == row]
+        # A blockquote puts its citation on the line after the quote closes:
+        #     > „…text…"
+        #     > ^[slug.md:L137]
+        # so a reference alone on its line also claims the quote ending just above.
+        body = text.split("\n")[row].lstrip("> ").strip() if row < len(text.split("\n")) else ""
+        rows = {row, row - 1} if body.startswith("^[") else {row}
+        same = [q for q in quotes
+                if line_of(q.start()) in rows or line_of(q.end()) in rows]
         if not same:
             continue
         nearest = min(same, key=lambda q: min(abs(q.start() - m.start()), abs(q.end() - m.start())))

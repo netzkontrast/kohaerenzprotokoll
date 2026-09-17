@@ -2,7 +2,7 @@
   "built": "2026-09-17",
   "by": "scripts/wiki_index.py",
   "pages": 46,
-  "conflicts": 3,
+  "conflicts": 4,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -765,6 +765,20 @@
       "pages": [
         "emergenz",
         "aegis"
+      ],
+      "status": "open"
+    },
+    "C4": {
+      "subject": "Guardians",
+      "pages": [
+        "guardians",
+        "blinder-fleck",
+        "aegis",
+        "logos",
+        "mnemosyne",
+        "cerberus",
+        "kairos",
+        "sophia"
       ],
       "status": "open"
     }
