@@ -73,27 +73,56 @@ def near_matches(key: str, surfaces: dict[str, str]) -> list[tuple[str, str]]:
 
 
 def intra_list_pairs(terms: list[str]) -> list[tuple[str, str]]:
-    """Candidates that fold into each other inside one document's own list.
+    """Candidates that *nearly* fold into each other inside one document's list.
 
-    An article prefix, a plural, a parenthetical -- `Die Konstrukt-Stadt` beside
-    `Konstrukt-Stadt`. Checking only against the wiki misses these entirely and
-    creates two pages for one term on the spot, which no later reconciliation
-    would ever notice.
+    Checking only against the wiki misses these entirely and creates two pages
+    for one term on the spot, which no later reconciliation would ever notice.
+
+    Proper containment only -- `Kern-Welt` inside `Kern-Welten`. An exact fold
+    match is not returned here because it is not a judgement: `fold()` has
+    already decided it. `same_surface_groups` reports those instead.
+
+    **This function used to carry `Die Konstrukt-Stadt` beside `Konstrukt-Stadt`
+    as its example and could not detect that pair.** The guard read `a != b and
+    (a in b or b in a)`, so exact fold-equality -- the article rule's whole
+    purpose -- fell through both branches and both surfaces were reported as new
+    terms. Document 4 would have created six pages for three worlds.
     """
     keys = {term: fold(term) for term in terms}
     pairs = []
     for i, first in enumerate(terms):
-        for second in terms[i + 1 :]:
+        for second in terms[i + 1:]:
             a, b = keys[first], keys[second]
             if a and b and a != b and (a in b or b in a):
                 pairs.append((first, second))
     return pairs
 
 
+def same_surface_groups(terms: list[str]) -> dict[str, list[str]]:
+    """Surfaces in one candidate list that fold to the same key: one term.
+
+    Decided by `fold()`, not by a person -- the article, case, diacritic and
+    punctuation rules are already mechanised. The group is reported so the
+    collapse is visible and the page gets its `aliases`, never silent.
+    """
+    groups: dict[str, list[str]] = {}
+    for term in terms:
+        key = fold(term)
+        if key:
+            groups.setdefault(key, []).append(term)
+    return {k: v for k, v in groups.items() if len(v) > 1}
+
+
 def classify(slug: str, index: dict) -> dict:
     surfaces = index["surface_to_page"]
     buckets: dict[str, list] = {"already_there": [], "new_reading": [], "new_term": [], "needs_judgement": []}
     candidates = candidates_of(slug)
+
+    # Surfaces of one term, settled by fold(): keep the first, carry the rest as
+    # aliases. Done before classification so one term cannot become two pages.
+    same = same_surface_groups(candidates)
+    folded_away = {term for group in same.values() for term in group[1:]}
+    candidates = [term for term in candidates if term not in folded_away]
 
     for first, second in intra_list_pairs(candidates):
         buckets["needs_judgement"].append({
@@ -137,6 +166,7 @@ def classify(slug: str, index: dict) -> dict:
         "index_built": index["built"],
         "state": {"pages": index["pages"], "conflicts": index["conflicts"]},
         "candidates": total,
+        "same_surface": same,
         "decided_mechanically": decided,
         "needs_judgement": len(buckets["needs_judgement"]),
         "buckets": buckets,
@@ -154,6 +184,8 @@ def render(result: dict) -> str:
         f"# reconcile-pre — {result['document']}",
         f"  wiki: {result['state']['pages']} pages, {result['state']['conflicts']} conflicts "
         f"(index built {result['index_built']})",
+        f"  {len(result.get('same_surface', {}))} surface groups folded to one term first"
+        if result.get("same_surface") else "",
         f"  {result['candidates']} candidates — "
         f"**{result['decided_mechanically']} decided by lookup, "
         f"{result['needs_judgement']} need judgement**",

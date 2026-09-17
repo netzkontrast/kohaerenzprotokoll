@@ -8,8 +8,22 @@
     "pages": 32,
     "conflicts": 3
   },
-  "candidates": 22,
-  "decided_mechanically": 18,
+  "candidates": 19,
+  "same_surface": {
+    "konstruktstadt": [
+      "Die Konstrukt-Stadt",
+      "Konstrukt-Stadt"
+    ],
+    "resonanzlandschaft": [
+      "Die Resonanz-Landschaft",
+      "Resonanz-Landschaft"
+    ],
+    "grenzfeste": [
+      "Die Grenzfeste",
+      "Grenzfeste"
+    ]
+  },
+  "decided_mechanically": 15,
   "needs_judgement": 4,
   "buckets": {
     "already_there": [],
@@ -49,15 +63,6 @@
       },
       {
         "candidate": "Die Grenzfeste"
-      },
-      {
-        "candidate": "Konstrukt-Stadt"
-      },
-      {
-        "candidate": "Resonanz-Landschaft"
-      },
-      {
-        "candidate": "Grenzfeste"
       },
       {
         "candidate": "Überraum"
