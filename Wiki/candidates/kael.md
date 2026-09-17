@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
 aliases: ["Michael"]
-ingested: ["entropie-aegis"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-16"
 ---
 
@@ -57,3 +57,36 @@ not a second rename.
 The correction is recorded here rather than silently applied, because *how* it
 went wrong is the reusable part: a few documents looked like a timeline, and a
 count over 346 showed a cliff.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
+
+**The Kern-Welten are him.** 75 occurrences of the name plus 44 of `Kaels`, and
+the premise is stated once, carrying three terms at once:
+
+> „Sie sind als direkte psychische Landschaften Kaels zu konzipieren, die seine
+> dissoziative Identitätsstruktur (DID), seine Alter-Persönlichkeiten und die
+> Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus, Kairos/Sophia)
+> widerspiegeln" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35]
+
+The worlds react to his state — „basierend auf Kaels innerem Zustand, dem
+Einfluss seiner Alters und dem zunehmenden Entropiegrad (manifestiert als
+'Risse')" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L37] — which makes the architecture „zu einer narrativen Kraft […],
+die Kaels Reise der Integration oder Desintegration widerspiegelt und
+beeinflusst" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L37].
+
+### He has a life in KW1 before he has a plot
+
+Three of the four `Plot Teil 1` locations in KW1 are his: a dwelling
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L187], a workplace ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L188], a therapy interface ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L190] — „Ausgangspunkt, Ort
+des Alltags und erster Zweifel", „Kaels Arbeitsplatz, Ort der Routine und erster
+Anomalien", „Ort der (manipulierten) Selbstreflexion". See `kaels-wohneinheit`,
+`datenverarbeitungsknoten-7g`, `therapie-schnittstelle-alpha`.
+
+### He is an anomaly to the system
+
+The system monitor watches „potenzieller Anomalien (wie Kael oder Juna)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L464],
+and he cannot see it: „Kael selbst hat hier normalerweise keinen Zugang."
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L472] See `system-monitor`.
+
+**Everything above about what the worlds do is design instruction** („zu
+konzipieren", „sollte"). The location assignments are not.
