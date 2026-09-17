@@ -123,7 +123,7 @@ structure `kohaerenz-protokoll-konzept` already gives the layer:**
 > ist, ist ihre primäre Verankerung die Externe Ebene."
 > ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L112]
 
-This document also gives Juna a distinct manifestation per Kern-Welt while
+This document also gives [[juna|Juna]] a distinct manifestation per Kern-Welt while
 her anchor stays here — see [[juna|Juna]] — which is compatible with, and
 adds detail to, `roman-lokalitaeten-konzept-und-ausarbeitung`'s reading of her
 as this level's `Verbindung` rather than its bearer. Does not choose among

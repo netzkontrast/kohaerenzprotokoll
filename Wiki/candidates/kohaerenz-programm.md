@@ -57,8 +57,8 @@ document's actual sense):
 **This is the system itself, called [[aegis|AEGIS]]'s own core programming — the same
 referent this page already tracks as `Kohärenz-Programm`** — and, unlike the
 first reading, it answers the open question above directly: this document
-does name AEGIS, and identifies the Kohärenz-Programm/Kohärenz-Protokoll with
-AEGIS's own programming in one sentence. **This is one document's own claim,
+does name [[aegis|AEGIS]], and identifies the Kohärenz-Programm/Kohärenz-Protokoll with
+[[aegis|AEGIS]]'s own programming in one sentence. **This is one document's own claim,
 not yet corroborated by a second source that uses both `AEGIS` and either
 hyphenated surface.**
 

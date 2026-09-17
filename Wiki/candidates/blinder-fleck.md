@@ -118,7 +118,7 @@ strengths of claim, is not settled by either source alone.
 **Broadly the same shape as `guardians-und-kern-welten-konzept`'s typing**
 (categorical for the logic-domain Guardian, misinterpretation for the
 security/memory [[guardians|Guardians]], a value-blindness for the potential/wisdom
-Guardians) reached independently and in different words — neither document
+[[guardians|Guardians]]) reached independently and in different words — neither document
 mentions the other. Recorded here rather than merged, per this page's own
 practice of keeping distinct sources' Guardian-blind-spot tables apart.
 
@@ -127,8 +127,8 @@ practice of keeping distinct sources' Guardian-blind-spot tables apart.
 > „Anfänglich ist sein größter blinder Fleck die Existenz seiner eigenen DID
 > und der simulierten Realität." ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L50]
 
-**A third kind of bearer, not previously on this page**: not AEGIS, not a
+**A third kind of bearer, not previously on this page**: not [[aegis|AEGIS]], not a
 Guardian, but the protagonist himself, blind to his own condition rather than
 to [[juna|Juna]] or to another mind. Recorded as a fourth position rather than folded
-into `C4`, which is specifically about AEGIS-versus-Guardians — Kael's blind
+into `C4`, which is specifically about AEGIS-versus-Guardians — [[kael|Kael]]'s blind
 spot is not in tension with either.

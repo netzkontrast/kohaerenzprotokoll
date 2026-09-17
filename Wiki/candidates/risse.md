@@ -134,7 +134,7 @@ view rather than a second account.
 **[[aegis|AEGIS]]' own „Ängste" name Risse directly as one of its greatest threats** —
 „das Auftreten von \"Rissen\" (als Symptome von Kontrollverlust)"
 ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L125] — consistent with every
-prior reading and adding AEGIS's own first-person fear of them rather than a
+prior reading and adding [[aegis|AEGIS]]'s own first-person fear of them rather than a
 new mechanism.
 
 **A hedged Nebencharakter answers part of this page's own open question —

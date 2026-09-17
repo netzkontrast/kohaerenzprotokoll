@@ -277,7 +277,7 @@ the Nebencharakter Einheit 734's local KW3 guise, „aggressiver Wächter"
 possible self-image, „Krieger, Wächter oder starkes Tier"
 ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L436]. A fifth, related
 compound — Terminus's epithet `Der Grenzwärter` — is explicitly glossed by the
-document as a smaller-scale stand-in for Cerberus specifically, „Repräsentiert
+document as a smaller-scale stand-in for [[cerberus|Cerberus]] specifically, „Repräsentiert
 die Funktion von Cerberus auf einer spezifischeren Ebene"
 ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L578], not a fifth kind of
 Guardian.

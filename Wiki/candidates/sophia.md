@@ -90,7 +90,7 @@ And her assignment is not the one the first reading gives the pair:
 > ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L195]
 
 **`guardians-und-kern-welten-konzept` pairs Sophia with [[moeglichkeits-garten|Möglichkeits-Garten]]
-(KW4), the same world it gives Kairos.** This document puts her in the
+(KW4), the same world it gives [[kairos|Kairos]].** This document puts her in the
 [[ueberwelt|Überwelt]] instead, hedged with its own `?`. Not flagged as a conflict: neither
 document states the other wrong, both are single, unhedged-versus-hedged
 readings, and the pair's domain has never been settled by more than one

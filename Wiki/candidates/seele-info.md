@@ -93,18 +93,18 @@ what has been read.
 
 **The first source to write `AEGIS` and `Seele=Info` in the same document,**
 resolving part of what the reading above leaves open: this document does
-mention [[aegis|AEGIS]], and it uses the paradigm's own name for AEGIS's worldview:
+mention [[aegis|AEGIS]], and it uses the paradigm's own name for [[aegis|AEGIS]]'s worldview:
 
 > „Es vertritt ein Paradigma, in dem Existenz gleich Funktion ist und die
 > Seele oder Psyche auf Information reduziert wird (\"Seele=Info\")."
 > ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L127]
 
 The same reduction is stated a second time for the [[guardians|Guardians]] as a group,
-inheriting AEGIS' paradigm: „verkörpern dessen reduktionistisches Paradigma
+inheriting [[aegis|AEGIS]]' paradigm: „verkörpern dessen reduktionistisches Paradigma
 \"Seele=Info\", das die Komplexität von Kaels Psyche nicht erfassen kann"
 ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L150]. **Not yet enough to
-say whether this document's AEGIS and `kohaerenz-protokoll-konzept`'s
-paradigm-bearing Guardians are one institutional voice** — the two documents
+say whether this document's [[aegis|AEGIS]] and `kohaerenz-protokoll-konzept`'s
+paradigm-bearing [[guardians|Guardians]] are one institutional voice** — the two documents
 still never share a scene — but both now use the same name for the same kind
 of reduction, from two different sources on two different days.
 
@@ -112,8 +112,8 @@ of reduction, from two different sources on two different days.
 
 `kohaerenz-protokoll-konzept`'s reading above lists a family of one-off
 diagnostic words the `Seele=Info` paradigm generates and none of them
-separately promoted. This document's AEGIS profile (§3, lines 116–146) does
-the same thing from AEGIS's own voice rather than the Guardians':
+separately promoted. This document's [[aegis|AEGIS]] profile (§3, lines 116–146) does
+the same thing from [[aegis|AEGIS]]'s own voice rather than the [[guardians|Guardians]]':
 `Systemanomalie` — [[juna|Juna]] is „eine kritische Systemanomalie, eine
 nicht-quantifizierbare Variable und eine Quelle gefährlicher Entropie, die die
 Systemintegrität bedroht" ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L106]
@@ -123,7 +123,7 @@ Systemintegrität bedroht" ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L106]
 `Homöostase` and `Feedbackloops` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L145],
 `Nicht-Existenz` and `Systemkollaps` ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L125].
 None of these is separately promoted — one profile's diagnostic language for
-one entity, the same treatment the Guardians' shared vocabulary already
+one entity, the same treatment the [[guardians|Guardians]]' shared vocabulary already
 received on this page.
 
 `Ashby's Law of Requisite Variety` / `Requisite Variety` — a real cybernetic

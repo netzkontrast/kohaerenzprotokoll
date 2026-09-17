@@ -132,13 +132,13 @@ trailing `?` (L503, 507, 510, 511). The six left unhedged:
 | Alter | Kern-Welt | hedge | line |
 |---|---|---|--:|
 | Nox | [[grenzfeste|Grenzfeste]] (KW3) | none | 504 |
-| Praetor | Grenzfeste (KW3) | none | 509 |
+| Praetor | [[grenzfeste|Grenzfeste]] (KW3) | none | 509 |
 | Echo | [[resonanz-landschaft|Resonanz-Landschaft]] (KW2) | none | 505 |
 | Flicker | Möglichkeiten-Garten (KW4) | none | 506 |
 | Oblivion | **KW2 (isoliert)/ KW3** | none | 508 |
 
 **Two of the document's own six most-confident assignments share one world**
-— `Nox` and `Praetor` both to Grenzfeste (KW3), unhedged, in the same table —
+— `Nox` and `Praetor` both to [[grenzfeste|Grenzfeste]] (KW3), unhedged, in the same table —
 and a third, `Oblivion`, is assigned **two worlds at once**, also unhedged.
 This is not a hedge or an inconsistency the document is unsure of: these are
 its most confident rows, and they contradict a strict one-alter-one-world rule

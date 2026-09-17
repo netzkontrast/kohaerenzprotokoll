@@ -42,12 +42,12 @@ It is given as the cause of the [[guardians|Guardians]]' isolation from one anot
 > was zu Koordinationsproblemen oder widersprüchlichen Aktionen führen kann."
 > ^[charakterkonzepte-fuer-kohaerenz-protokoll.md:L205]
 
-(„sie" refers to the Guardians, named two sentences earlier in the same
+(„sie" refers to the [[guardians|Guardians]], named two sentences earlier in the same
 paragraph.)
 
 This answers part of `entropie-aegis`'s own question in one specific
 direction: Zero-Trust is read here as a segmentation principle applied to the
-Guardians themselves — each confined to limited awareness of the others —
+[[guardians|Guardians]] themselves — each confined to limited awareness of the others —
 rather than (or in addition to) a filter against externally spreading errors.
 Neither document contradicts the other; the second simply says more than the
 first asked.
@@ -58,7 +58,7 @@ here.
 
 ## Not the same as `Zero-Trust-Architektur`
 
-`Plan/runs/judgements.jsonl` J11 already separated this AEGIS sub-function
+`Plan/runs/judgements.jsonl` J11 already separated this [[aegis|AEGIS]] sub-function
 from the external cybersecurity standard it is named after — „a project term
 named after an external standard is not that standard" — the corpus's first
 recorded false conflict. This page's `Zero-Trust` is the AEGIS-internal
