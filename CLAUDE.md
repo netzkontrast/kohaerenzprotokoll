@@ -91,6 +91,17 @@ not scale.
 frozen before the wiki is consulted, so the accumulated state cannot decide in
 advance what a new document is allowed to say.
 
+**And reconciliation never reads the wiki.** `scripts/wiki_index.py` derives
+`Wiki/index.json` from page frontmatter; `scripts/reconcile.py` answers by lookup
+and prints only what no lookup settles. Cost per document is `O(census) +
+O(judgement)`, not `O(wiki)` — measured on document 4 against 32 pages: **19
+candidates, 12 decided mechanically, 7 to judgement.** Reasoning:
+`Plan/concept/reconciliation-by-lookup_2026-09-17.md`.
+
+**Conflict detection is never mechanised.** Two readings can only be compared by
+reading them, and a program that guessed would reproduce the `Zero-Trust` false
+conflict.
+
 `Plan/learnings/extract-terms.md` has the fourteen special cases the first two
 censuses found, and why the first comparison inverted the premise the step was
 built on.

@@ -4,6 +4,7 @@ status: candidate
 sources: 1
 readings: 0
 conflict: none
+ingested: ["entropie-aegis"]
 gathered: "2026-09-16"
 ---
 

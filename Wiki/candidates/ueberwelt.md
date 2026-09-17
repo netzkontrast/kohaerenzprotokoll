@@ -5,6 +5,7 @@ sources: 2
 readings: 2
 conflict: none yet
 ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
+aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
 

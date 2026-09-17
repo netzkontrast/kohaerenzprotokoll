@@ -5,6 +5,7 @@ sources: 1
 readings: 1
 conflict: none yet
 ingested: ["aegis-emergenz-aus-der-leere"]
+aliases: ["ERP", "Entropie-Resonanz-Protokolle"]
 gathered: "2026-09-16"
 ---
 

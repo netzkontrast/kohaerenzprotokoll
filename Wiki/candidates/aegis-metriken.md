@@ -6,6 +6,7 @@ readings: 1
 conflict: none yet
 covers: ["Rate logischer Widersprüche", "Integrität von Datenstrukturen", "Vorhersagbarkeits-/Abweichungswerte", "Ressourcenfluktuationsanalyse", "Mustererkennung/Anomaliedetektion", "globaler Entropie-Score"]
 ingested: ["kohaerenzprotokoll-aegis-und-systementropie"]
+aliases: ["globaler Entropie-Score"]
 gathered: "2026-09-17"
 ---
 

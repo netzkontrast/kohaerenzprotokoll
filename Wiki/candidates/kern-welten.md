@@ -5,6 +5,7 @@ sources: 2
 readings: 1
 conflict: none
 ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
+aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
 
