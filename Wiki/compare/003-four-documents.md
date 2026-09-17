@@ -102,7 +102,7 @@ tell the two apart.
 
 **This is a finding about the step itself.** A comparison of n censuses answers
 questions about those n documents. Anything of the form *does the corpus ever…*
-needs a separate check against all 409, and the two must not be confused.
+needs a separate check against all 346, and the two must not be confused.
 
 ## The system has four names across four documents
 
@@ -131,11 +131,11 @@ is not answerable from these four.
 
 ## Noticed while checking, not part of the comparison
 
-`juna-kael-system-analyse-und-rettungsplan` is landed **five times** under
+`juna-kael-system-analyse-und-rettungsplan-docx` was landed **five times** under
 different slugs and three different `index_date`s, with identical term counts
-(Partnerin 4, Juna/Julia 89). `Sources/README.md` records 55 duplicate titles
-against 2 rows marked `T0-duplicate`; this is one of them, and the raw checksums
-would confirm it.
+(Partnerin 4, Juna/Julia 89). `Sources/README.md` recorded 55 duplicate titles
+against 2 rows marked `T0-duplicate`; this was one of them. `scripts/dedupe.py`
+has since folded all five into one.
 
 ## Carried to the term pages
 

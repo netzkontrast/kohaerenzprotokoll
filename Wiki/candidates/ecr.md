@@ -30,7 +30,7 @@ It appears to contradict established thermodynamics and the Free Energy Principl
 ## Where the postulate itself lives
 
 **Not in the corpus.** This source quotes and analyses a document that is not
-among the 409 landed, so the claims above exist only as restated by a critic.
+among the 346 landed, so the claims above exist only as restated by a critic.
 Nothing can be checked against an original.
 
 ## Open

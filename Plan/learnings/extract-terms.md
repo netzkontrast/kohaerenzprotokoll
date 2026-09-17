@@ -278,7 +278,7 @@ survives the restatement.
 **And a comparison cannot answer a question about the corpus.** The four read
 documents never link `Partnerin` to `Juna`/`Julia`, and the obvious conclusion —
 that the corpus does not — is false: **17 of the 23 documents using `Partnerin`
-also use one of the names.** Only a check against all 409 could tell those apart,
+also use one of the names.** Only a check against all 346 could tell those apart,
 and it has to be run separately and said separately.
 
 ## How this was actually done — the procedure, step by step
@@ -384,7 +384,7 @@ it:
   the input to the wiki and not a fact about the document. Filed under
   `Sources/terms/` for now, alongside `Sources/notes/`, and the reasoning is
   here rather than in the filename.
-- **One census per document, forever?** 409 documents is 409 files. Fine while
+- **One census per document, forever?** 346 documents is 346 files. Fine while
   written by hand; a question once a program writes them.
 - **What is the census's relationship to the note?** Today: the census is
   exhaustive and mechanical-ish, the note is selective and interpretive. They

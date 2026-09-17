@@ -1,8 +1,8 @@
 {
   "built": "2026-09-17",
   "by": "scripts/wiki_index.py",
-  "pages": 32,
-  "conflicts": 3,
+  "pages": 46,
+  "conflicts": 4,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -105,11 +105,25 @@
         "blinder-fleck"
       ],
       "ingested": [
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "C4"
+    },
+    "cerberus": {
+      "title": "Cerberus",
+      "surfaces": [
+        "Cerberus",
+        "cerberus"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
       ],
       "sources": 1,
       "readings": 1,
-      "conflict": "none yet"
+      "conflict": "none"
     },
     "did": {
       "title": "DID — dissoziative Identitätsstruktur",
@@ -224,6 +238,20 @@
       "readings": 1,
       "conflict": "none yet"
     },
+    "grenzfeste": {
+      "title": "Grenzfeste",
+      "surfaces": [
+        "Die Grenzfeste",
+        "Grenzfeste",
+        "grenzfeste"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "guardians": {
       "title": "Guardians",
       "surfaces": [
@@ -231,10 +259,11 @@
         "guardians"
       ],
       "ingested": [
-        "entropie-aegis"
+        "entropie-aegis",
+        "guardians-und-kern-welten-konzept"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "juna": {
@@ -279,6 +308,19 @@
       "readings": 1,
       "conflict": "none"
     },
+    "kairos": {
+      "title": "Kairos",
+      "surfaces": [
+        "Kairos",
+        "kairos"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "kern-welten": {
       "title": "Kern-Welten",
       "surfaces": [
@@ -288,9 +330,23 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "guardians-und-kern-welten-konzept"
       ],
-      "sources": 2,
+      "sources": 3,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "kohaerenz-programm": {
+      "title": "Kohärenz-Programm",
+      "surfaces": [
+        "Kohärenz-Programm",
+        "kohaerenz-programm"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
       "readings": 1,
       "conflict": "none"
     },
@@ -306,6 +362,61 @@
       "sources": 1,
       "readings": 1,
       "conflict": "none yet"
+    },
+    "konstrukt-stadt": {
+      "title": "Konstrukt-Stadt",
+      "surfaces": [
+        "Die Konstrukt-Stadt",
+        "Konstrukt-Stadt",
+        "konstrukt-stadt"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "logos": {
+      "title": "LogOS",
+      "surfaces": [
+        "LogOS",
+        "logos"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "mnemosyne": {
+      "title": "Mnemosyne",
+      "surfaces": [
+        "Mnemosyne",
+        "mnemosyne"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "moeglichkeits-garten": {
+      "title": "Möglichkeits-Garten",
+      "surfaces": [
+        "Der Möglichkeits-Garten",
+        "Möglichkeits-Garten",
+        "Nexus-Vorstufe",
+        "moeglichkeits-garten"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
     },
     "multiplizitaet": {
       "title": "Multiplizität",
@@ -335,6 +446,19 @@
       "readings": 1,
       "conflict": "none yet"
     },
+    "nexus": {
+      "title": "Nexus",
+      "surfaces": [
+        "Nexus",
+        "nexus"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "nullpunkt-protokoll": {
       "title": "Nullpunkt-Protokoll",
       "surfaces": [
@@ -347,6 +471,34 @@
       "sources": 1,
       "readings": 1,
       "conflict": "none yet"
+    },
+    "partnerin": {
+      "title": "Partnerin",
+      "surfaces": [
+        "Partnerin",
+        "partnerin"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "personas": {
+      "title": "Personas",
+      "surfaces": [
+        "Bewusstseinsinstanzen",
+        "Persona",
+        "Personas",
+        "personas"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
     },
     "pms": {
       "title": "PMS — Protomemetische Speicherbildung",
@@ -387,6 +539,20 @@
       "readings": 1,
       "conflict": "none yet"
     },
+    "resonanz-landschaft": {
+      "title": "Resonanz-Landschaft",
+      "surfaces": [
+        "Die Resonanz-Landschaft",
+        "Resonanz-Landschaft",
+        "resonanz-landschaft"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "risse": {
       "title": "Risse",
       "surfaces": [
@@ -396,10 +562,11 @@
         "risse"
       ],
       "ingested": [
-        "entropie-aegis"
+        "entropie-aegis",
+        "guardians-und-kern-welten-konzept"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "rsa": {
@@ -427,6 +594,32 @@
       "sources": 1,
       "readings": 1,
       "conflict": "none yet"
+    },
+    "sophia": {
+      "title": "Sophia",
+      "surfaces": [
+        "Sophia",
+        "sophia"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
+    "ueberraum": {
+      "title": "Überraum",
+      "surfaces": [
+        "ueberraum",
+        "Überraum"
+      ],
+      "ingested": [
+        "guardians-und-kern-welten-konzept"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
     },
     "ueberwelt": {
       "title": "Überwelt",
@@ -484,6 +677,7 @@
     "ars": "ars",
     "ontologischerblinderfleck": "blinder-fleck",
     "blinderfleck": "blinder-fleck",
+    "cerberus": "cerberus",
     "did": "did",
     "diddissoziativeidentitatsstruktur": "did",
     "dissoziativeidentitatsstruktur": "did",
@@ -500,6 +694,7 @@
     "entropiesignatur": "entropie-signatur",
     "entropie": "entropie",
     "externeebene": "externe-ebene",
+    "grenzfeste": "grenzfeste",
     "guardians": "guardians",
     "julia": "juna",
     "juna": "juna",
@@ -507,19 +702,34 @@
     "kaeljuliabindung": "kael-julia-bindung",
     "kael": "kael",
     "michael": "kael",
+    "kairos": "kairos",
     "kernwelt": "kern-welten",
     "kernwelten": "kern-welten",
+    "koharenzprogramm": "kohaerenz-programm",
+    "kohaerenzprogramm": "kohaerenz-programm",
     "koharenz": "kohaerenz",
     "kohaerenz": "kohaerenz",
+    "konstruktstadt": "konstrukt-stadt",
+    "logos": "logos",
+    "mnemosyne": "mnemosyne",
+    "moglichkeitsgarten": "moeglichkeits-garten",
+    "nexusvorstufe": "moeglichkeits-garten",
+    "moeglichkeitsgarten": "moeglichkeits-garten",
     "multiplizitat": "multiplizitaet",
     "funktionalemultiplizitat": "multiplizitaet",
     "multiplizitaet": "multiplizitaet",
     "negentropie": "negentropie",
+    "nexus": "nexus",
     "nullpunktprotokoll": "nullpunkt-protokoll",
+    "partnerin": "partnerin",
+    "bewusstseinsinstanzen": "personas",
+    "persona": "personas",
+    "personas": "personas",
     "pmsprotomemetischespeicherbildung": "pms",
     "pms": "pms",
     "potentialmeer": "potentialmeer",
     "protokollv14": "protokoll-v14",
+    "resonanzlandschaft": "resonanz-landschaft",
     "glitch": "risse",
     "glitches": "risse",
     "risse": "risse",
@@ -527,6 +737,9 @@
     "rsa": "rsa",
     "snkstrukturiertenichtkontrolle": "snk",
     "snk": "snk",
+    "sophia": "sophia",
+    "ueberraum": "ueberraum",
+    "uberraum": "ueberraum",
     "simulation": "ueberwelt",
     "ueberwelt": "ueberwelt",
     "uberwelt": "ueberwelt",
@@ -553,6 +766,20 @@
       "pages": [
         "emergenz",
         "aegis"
+      ],
+      "status": "open"
+    },
+    "C4": {
+      "subject": "Guardians",
+      "pages": [
+        "guardians",
+        "blinder-fleck",
+        "aegis",
+        "logos",
+        "mnemosyne",
+        "cerberus",
+        "kairos",
+        "sophia"
       ],
       "status": "open"
     }

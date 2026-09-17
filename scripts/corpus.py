@@ -36,6 +36,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "Sources" / "manifest.jsonl"
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import subject  # noqa: E402
+
 
 DERIVED = ROOT / "Plan" / "derived"
 
@@ -49,49 +52,28 @@ def indexed() -> list[dict]:
     stays that way no matter how many questions get asked.
     """
     docs = []
-    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
-        row = json.loads(line)
+    for row in subject.rows():
         if not row.get("export_path"):
             continue
-        cache = DERIVED / f"{row['slug']}.json"
-        if not cache.exists():
-            continue
-        entry = json.loads(cache.read_text(encoding="utf-8")).get("surfaces")
+        entry = subject.facts(row["slug"], "surfaces")
         if not entry:
             continue
-        docs.append({
-            "slug": row["slug"], "category": row.get("category", "?"),
-            "date": row.get("index_date") or "?", "tokens": entry["facts"]["tokens"],
-        })
+        docs.append({"slug": row["slug"], "category": row.get("category", "?"),
+                     "date": row.get("index_date") or "?", "tokens": entry["tokens"]})
     return docs
 
 
 def landed() -> list[dict]:
-    """Every manifest row whose file is on disk, with its body read into memory.
+    """Every document with its body, from the one place that finds the boundary.
 
-    The slow path, used only when a question cannot be answered from the index --
-    a lowercase word, or a phrase. `main` says when it fell back here.
+    The slow path, used only when a question cannot be answered from the derived
+    index -- a lowercase word, or a phrase. `main` says when it fell back here.
     """
-    docs = []
-    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
-        row = json.loads(line)
-        if not row.get("export_path"):
-            continue
-        path = ROOT / row["export_path"]
-        if not path.exists():
-            continue
-        lines = path.read_text(encoding="utf-8").split("\n")
-        marks = [i for i, line_ in enumerate(lines) if line_.strip() == "---"]
-        start = marks[1] + 1 if len(marks) >= 2 and marks[0] == 0 else 0
-        docs.append({
-            "has_frontmatter": start > 0,
-            "slug": row["slug"],
-            "category": row.get("category", "?"),
-            "date": row.get("index_date") or "?",
-            "body": "\n".join(lines[start:]),
-            "offset": start + 1,
-        })
-    return docs
+    return [
+        {"slug": d.slug, "category": d.category, "date": d.date,
+         "body": d.body, "offset": d.offset, "has_frontmatter": d.has_frontmatter}
+        for d in subject.documents()
+    ]
 
 
 WHOLE_WORD = True
@@ -212,13 +194,7 @@ def cmd_plan(docs: list[dict], term: str, budget: int = 400_000) -> dict:
     half can be wired later without re-deriving the cheap half.
     """
     hits = occurrences(docs, term)
-    sizes = {}
-    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
-        row = json.loads(line)
-        if row.get("export_path"):
-            path = ROOT / row["export_path"]
-            if path.exists():
-                sizes[row["slug"]] = path.stat().st_size
+    sizes = {d.slug: d.path.stat().st_size for d in subject.documents()}
 
     batches: list[dict] = []
     current: list[str] = []

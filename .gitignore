@@ -28,3 +28,8 @@ Thumbs.db
 # Derived from immutable sources by scripts/derive.py; rebuilt in ~2s.
 # 14MB of surface indexes — the cache is not the record, the rules are.
 Plan/derived/
+
+# qmd — local search index and its Node dependencies
+.tools-node/
+.qmd/
+Plan/derived/

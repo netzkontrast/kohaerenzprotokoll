@@ -25,7 +25,7 @@ The protagonist, carrying the DID that the whole entropy framing is built around
 Nothing else about him is in this source — he appears only as the bearer of the
 condition.
 
-## The rename, measured across all 409 landed documents
+## The rename, measured across all 346 landed documents
 
 | date | documents | Michael / Julia | Kael / Juna |
 |---|--:|--:|--:|
@@ -56,4 +56,4 @@ not a second rename.
 
 The correction is recorded here rather than silently applied, because *how* it
 went wrong is the reusable part: a few documents looked like a timeline, and a
-count over 409 showed a cliff.
+count over 346 showed a cliff.

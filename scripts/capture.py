@@ -24,6 +24,7 @@ Usage:
 
 from __future__ import annotations
 
+import collections
 import json
 import re
 import subprocess
@@ -34,6 +35,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 RUNS = ROOT / "Plan" / "runs"
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import subject  # noqa: E402
 PROFILE = ROOT / "scripts" / "profile.py"
 MANIFEST = ROOT / "Sources" / "manifest.jsonl"
 
@@ -42,12 +46,71 @@ TYPOGRAPHIC = "\u201e\u201c\u201d\u2018\u2019\u2013\u2014"
 GLUED_REF = re.compile(r"([A-ZÄÖÜ][A-Za-zäöüß\-]{3,})\s(\d{1,2})\b")
 ESCAPE = re.compile(r"\\([\[\]*\"_])")
 WORD = re.compile(r"[A-ZÄÖÜ][A-Za-zäöüß]{3,}")
+PROSE = re.compile(r"\*\*|`|\. |, ")
+
+
+def candidate_terms(markdown: str) -> list[str]:
+    """The `- term` lines, and only those.
+
+    A candidates file also carries prose — an „open while reading" section whose
+    bullets are sentences, not terms. Reading every `- ` line counted nine of
+    those as candidates and reported them at 0 occurrences, which looks exactly
+    like a term the document turned out not to contain.
+    """
+    out = []
+    for line in markdown.split("\n"):
+        if not line.startswith("- "):
+            continue
+        term = line[2:].strip()
+        if term and len(term) <= 40 and not PROSE.search(term):
+            out.append(term)
+    return out
+
+
+def surfaces(term: str, text: str) -> list[tuple[str, int]]:
+    """The inflected and compounded forms of this candidate the document holds.
+
+    A candidate is proposed in the form a reader has in mind, which in German is
+    usually the nominative singular — and the document then only ever uses it
+    declined. `Kerndirektive` scored 0 as a word here because the document writes
+    `Kerndirektiven`; so did `Guardian-Subroutine` and `Kernsystem`. Three of 53
+    candidates looked absent and were not.
+
+    `02-probes.txt` already groups the document's vocabulary into families by
+    prefix. This does the same thing pointed the other way: given the candidate,
+    show which surfaces of it are actually present, so a zero is readable as
+    „written differently here" instead of „not in this document".
+    """
+    if len(term) < 4 or " " in term:
+        return []
+    found = collections.Counter(
+        re.findall(rf"(?<![\w-]){re.escape(term)}[\w-]+", text, re.IGNORECASE))
+    return sorted(((f, n) for f, n in found.items() if f.lower() != term.lower()),
+                  key=lambda p: -p[1])[:4]
+
+
+def count_both(term: str, text: str) -> tuple[int, int]:
+    """Occurrences as a standalone word, and anywhere including inside compounds.
+
+    One number cannot answer this in German. `Entropie` occurs 39 times alone and
+    46 including `Entropiegewinn`, `Entropiemanagement`, `Entropiepotenzial` —
+    and every one of those is a real mention of the concept. But `V` occurs 7
+    times alone and 198 inside `Verhalten`, `Verbindung`, `Verteidigung`, and not
+    one of those is a mention of anything.
+
+    Counting with a plain substring reported 198, which is the exact trap
+    `02-probes.txt` warns about two sections earlier with `Form < Information`.
+    Counting only whole words would have lost the compounds. So both, always,
+    and the reader sees the ratio.
+    """
+    escaped = re.escape(term)
+    word = len(re.findall(rf"(?<![\w-]){escaped}(?![\w-])", text))
+    return word, len(re.findall(escaped, text))
 
 
 def drive_id_of(slug: str) -> str:
     """The manifest's id for a slug, copied. One was typed once and was invented."""
-    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
-        row = json.loads(line)
+    for row in subject.rows():
         if row.get("slug") == slug:
             return row["drive_id"]
     sys.exit(f"no manifest row with slug {slug!r}")
@@ -71,20 +134,19 @@ def write_json(run: Path, slug: str, step: str, payload: dict, by: str) -> None:
 
 
 def body_of(slug: str) -> tuple[Path, str, int]:
-    """Return the path, the body text, and the file line the body starts on.
+    """Path, body, and the file line the body starts on -- from `subject`.
 
-    The offset is returned rather than assumed because citations count from line
-    1 of the file while extraction skips the frontmatter. Reporting a body-local
-    line number as if it were a file line produces a citation that resolves to
-    the wrong text -- silently, since both are valid line numbers.
+    The offset is returned rather than assumed because citations count from line 1
+    of the file while extraction skips the frontmatter. Reporting a body-local line
+    number as a file line produces a citation that resolves to the wrong text --
+    silently, since both are valid line numbers. That bug was live in this
+    function once, which is why the boundary now has exactly one implementation.
     """
-    path = ROOT / "Sources" / "drive" / f"{slug}.md"
-    if not path.exists():
-        sys.exit(f"no landed document with slug {slug!r}")
-    lines = path.read_text(encoding="utf-8").split("\n")
-    marks = [i for i, line in enumerate(lines) if line.strip() == "---"]
-    start = marks[1] + 1 if len(marks) >= 2 and marks[0] == 0 else 0
-    return path, "\n".join(lines[start:]), start + 1
+    try:
+        doc = subject.document(slug)
+    except KeyError as exc:
+        sys.exit(str(exc))
+    return doc.path, doc.body, doc.offset
 
 
 def inflection_families(text: str, minimum: int = 2) -> list[tuple[str, list[str]]]:
@@ -166,11 +228,7 @@ def count(slug: str) -> Path:
     candidates_file = run / "03-candidates.md"
     if not candidates_file.exists():
         sys.exit(f"write {candidates_file} first -- counting before proposing decides what gets seen")
-    terms = [
-        line.strip("- ").strip()
-        for line in candidates_file.read_text(encoding="utf-8").split("\n")
-        if line.startswith("- ")
-    ]
+    terms = candidate_terms(candidates_file.read_text(encoding="utf-8"))
     if not terms:
         sys.exit(f"{candidates_file} has no `- term` lines yet")
     lines = text.split("\n")
@@ -179,9 +237,15 @@ def count(slug: str) -> Path:
         f"# line numbers are FILE lines, as a citation writes them",
         "",
     ]
+    out.append("#   word = the term standing alone; in = anywhere, compounds included")
+    out.append("")
     for term in terms:
         hits = [i + offset for i, line in enumerate(lines) if term in line]
-        out.append(f"  {term:34} {len(re.findall(re.escape(term), text)):4}  {hits[:8]}")
+        word, inside = count_both(term, text)
+        flag = "  <-- substring" if inside > 2 * max(word, 1) else ""
+        out.append(f"  {term:30} {word:4} word {inside:5} in   {hits[:6]}{flag}")
+        for form, n in surfaces(term, text):
+            out.append(f"  {'':30} {n:4}      as {form}")
     (run / "04-counts.txt").write_text("\n".join(out) + "\n", encoding="utf-8")
     reconstructed = "Reconstructed, not original" in candidates_file.read_text(encoding="utf-8")
     write_json(run, slug, "counts", {
@@ -190,7 +254,8 @@ def count(slug: str) -> Path:
         "line_base": "file, from line 1, as a citation writes it",
         "counts": {
             term: {
-                "n": len(re.findall(re.escape(term), text)),
+                "n": count_both(term, text)[0],
+                "n_including_compounds": count_both(term, text)[1],
                 "lines": [i + offset for i, line in enumerate(lines) if term in line],
             }
             for term in terms

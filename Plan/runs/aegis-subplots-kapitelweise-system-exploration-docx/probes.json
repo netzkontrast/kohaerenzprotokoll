@@ -1,0 +1,399 @@
+{
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "drive_id": "1StyFADCnWfMnriBDi_S0CzJFg66Cw8YU",
+  "step": "probes",
+  "at": "2026-09-17",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 180,
+  "backslash_escapes": 15,
+  "typographic_marks": 53,
+  "ascii_quotes": 20,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemabwehrmechanismus",
+      "Systemanalytiker",
+      "Systemdesign",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systeminstabilität",
+      "Systeminteraktion",
+      "Systemkollaps",
+      "Systemlogik",
+      "Systemmanipulation",
+      "Systemmetriken",
+      "Systemmonitor",
+      "Systemrauschen",
+      "Systemreaktionen",
+      "Systemresilienz",
+      "Systems",
+      "Systemschocks",
+      "Systemstabilität",
+      "Systemstruktur",
+      "Systemstörung",
+      "Systemverhalten",
+      "Systemversagen",
+      "Systemweit",
+      "Systemweite",
+      "Systemzusammenbrüche"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsasymmetrie",
+      "Informationseindämmung",
+      "Informationsenthüllungen",
+      "Informationsentropie",
+      "Informationsfluss",
+      "Informationsfreigabe",
+      "Informationskontrolle",
+      "Informationskontrollstrategien",
+      "Informationsmanipulation",
+      "Informationsrelais",
+      "Informationssystem",
+      "Informationstheoretische",
+      "Informationsverlust",
+      "Informationsverzerrung",
+      "Informationszugriff"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbereinigung",
+      "Datenbereinigungsmethoden",
+      "Datenbereinigungstechniken",
+      "Datenerfassung",
+      "Datenfluss",
+      "Datenknoten",
+      "Datenkorruption",
+      "Datenkorruptions",
+      "Datenmanagementstrategien",
+      "Datenpunkte",
+      "Datenspur",
+      "Datenstrukturen",
+      "Datenströme",
+      "Datenströmen",
+      "Datensätzen"
+    ],
+    "kontr": [
+      "Kontrastiert",
+      "Kontroll",
+      "Kontrollanwendungen",
+      "Kontrollarchitektur",
+      "Kontrolle",
+      "Kontrolleur",
+      "Kontrollknoten",
+      "Kontrolllogik",
+      "Kontrollmechanismen",
+      "Kontrollstrategie",
+      "Kontrollsymptomen",
+      "Kontrollsystem",
+      "Kontrollverlust"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungsakteur",
+      "Bedrohungsakteuren",
+      "Bedrohungsbewertung",
+      "Bedrohungsbewertungsmetriken",
+      "Bedrohungsisolierung",
+      "Bedrohungsmodellierung",
+      "Bedrohungsprognose",
+      "Bedrohungsschwere",
+      "Bedrohungsstufe"
+    ],
+    "logik": [
+      "Logik",
+      "Logikbombe",
+      "Logikbomben",
+      "Logikbäume",
+      "Logikfehler",
+      "Logikfehlern",
+      "Logikfehlers",
+      "Logikgatter",
+      "Logikkern",
+      "Logikprogrammierung",
+      "Logiksysteme"
+    ],
+    "umgeb": [
+      "Umgebung",
+      "Umgebungen",
+      "Umgebungsbeschränkung",
+      "Umgebungselemente",
+      "Umgebungsgeräusche",
+      "Umgebungshinweise",
+      "Umgebungskontrollen",
+      "Umgebungslogik",
+      "Umgebungssensoren",
+      "Umgebungsvariablen",
+      "Umgebungsänderung"
+    ],
+    "verha": [
+      "Verhalten",
+      "Verhaltens",
+      "Verhaltensanalyse",
+      "Verhaltensanalysesysteme",
+      "Verhaltensdaten",
+      "Verhaltensdatenerfassung",
+      "Verhaltensmodelle",
+      "Verhaltensmuster",
+      "Verhaltensmustern",
+      "Verhaltenssimulation",
+      "Verhaltensänderungen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionsprotokolle",
+      "Internalisierung",
+      "International",
+      "Internet",
+      "Interpretation",
+      "Interpretationen",
+      "Intervention",
+      "Interventionen"
+    ],
+    "netzw": [
+      "Netzwerk",
+      "Netzwerkarchitektur",
+      "Netzwerkarchitekturen",
+      "Netzwerke",
+      "Netzwerkeinbruch",
+      "Netzwerken",
+      "Netzwerkkonnektivitätsdichte",
+      "Netzwerksegmentierung",
+      "Netzwerksicherheit",
+      "Netzwerktheorie"
+    ],
+    "regel": [
+      "Regel",
+      "Regelbasiertes",
+      "Regelbefolgung",
+      "Regelimplementierung",
+      "Regeln",
+      "Regelsystemen",
+      "Regelsätzen",
+      "Regelungstechnik",
+      "Regelverstöße",
+      "Regelzitat"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulations",
+      "Simulationsfehler",
+      "Simulationsfehlers",
+      "Simulationshypothese",
+      "Simulationssoftware",
+      "Simulationstechnologie",
+      "Simulator"
+    ],
+    "verte": [
+      "Verteidiger",
+      "Verteidigung",
+      "Verteidigungen",
+      "Verteidigungsanlagen",
+      "Verteidigungsebenen",
+      "Verteidigungshaltung",
+      "Verteidigungsmechanismen",
+      "Verteilt",
+      "Verteilung"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwachungs",
+      "Überwachungsapparates",
+      "Überwachungskosten",
+      "Überwachungsnetzes",
+      "Überwachungsnetzwerks",
+      "Überwachungsprozess",
+      "Überwachungssensoren",
+      "Überwachungssysteme"
+    ],
+    "agent": [
+      "Agent",
+      "Agenten",
+      "Agentenarchitektur",
+      "Agentenautonomie",
+      "Agentenbeschränkungen",
+      "Agentenziele",
+      "Agents",
+      "Agenturtheorie"
+    ],
+    "fehle": [
+      "Fehler",
+      "Fehleranfälligkeit",
+      "Fehlererkennung",
+      "Fehlermechanismus",
+      "Fehlern",
+      "Fehlerpunkten",
+      "Fehlers",
+      "Fehlertoleranz"
+    ],
+    "siche": [
+      "Sicherheit",
+      "Sicherheits",
+      "Sicherheitsbereich",
+      "Sicherheitskontrollen",
+      "Sicherheitsregeln",
+      "Sicherheitsstrategie",
+      "Sicherheitssysteme",
+      "Sicherheitstests"
+    ],
+    "cyber": [
+      "Cyber",
+      "CyberDB",
+      "Cybersecurity",
+      "Cybersicherheit",
+      "Cybersicherheitsarchitektur",
+      "Cybersicherheitskonzepte",
+      "Cybersicherheitsstrategien"
+    ],
+    "gegen": [
+      "Gegen",
+      "Gegenangriff",
+      "Gegenanpassung",
+      "Gegend",
+      "Gegenmaßnahmen",
+      "Gegenreaktion",
+      "Gegenschlag"
+    ],
+    "model": [
+      "Model",
+      "Modeling",
+      "Modell",
+      "Modelle",
+      "Modelliert",
+      "Modellierung",
+      "Models"
+    ],
+    "philo": [
+      "Philosimplicity",
+      "Philosophical",
+      "Philosophie",
+      "Philosophische",
+      "Philosophischen",
+      "Philosophischer",
+      "Philosophy"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsbelagerung",
+      "Realitätsformung",
+      "Realitätsmanipulation",
+      "Realitätsverformung",
+      "Realitätsverzerrung",
+      "Realitätswahrnehmung"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbezug",
+      "Selbstbezügliche",
+      "Selbstheilende",
+      "Selbstheilung",
+      "Selbstheilungsprotokolle",
+      "Selbstorganisierte"
+    ],
+    "spiel": [
+      "Spiel",
+      "Spieldynamik",
+      "Spielen",
+      "Spielregeln",
+      "Spieltheoretische",
+      "Spieltheorie",
+      "Spielverhalten"
+    ],
+    "entro": [
+      "Entropie",
+      "Entropiegewinn",
+      "Entropiemanagement",
+      "Entropiepotenzial",
+      "Entropiereduktion",
+      "Entropy"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Bausteine"
+    ],
+    [
+      "Econ",
+      "Economics"
+    ],
+    [
+      "Econ",
+      "RiskRecon"
+    ],
+    [
+      "Hand",
+      "Handlung"
+    ],
+    [
+      "Hand",
+      "Handlungen"
+    ],
+    [
+      "Hand",
+      "Handlungspunkt"
+    ],
+    [
+      "Hand",
+      "Handlungsfähigkeit"
+    ],
+    [
+      "Hand",
+      "Handlungsentwicklungen"
+    ],
+    [
+      "Hier",
+      "Hierarchie"
+    ],
+    [
+      "Plan",
+      "Planungsfähigkeiten"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Formale"
+    ],
+    [
+      "Form",
+      "Formung"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Konformität"
+    ],
+    [
+      "Form",
+      "Lebensformen"
+    ],
+    [
+      "Form",
+      "Neuformierung"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ]
+  ]
+}

@@ -57,7 +57,7 @@ Every field is filled for every entity. Nothing is missing and nothing is extra.
 
 **So this document states nothing about how to read it and everything about how
 it is organised.** Its content is definitional throughout: it exists to be a
-reference, and says so — „ein umfassendes Referenzdokument für den Autor" ^[L15].
+reference, and says so — „die Schaffung eines umfassenden Referenzdokuments für den Autor" ^[L15].
 
 *Format is measured above and is a separate question (decision 004).*
 
@@ -90,7 +90,7 @@ reference, and says so — „ein umfassendes Referenzdokument für den Autor" ^
 ## `Partnerin` — the external presence, 30 occurrences, never given a name
 
 The document's second protagonist is referred to **only** by this word. It is
-always in quotation marks when introduced — „die \"Partnerin\"" ^[L17] — and gets
+always in quotation marks when introduced — „das Verständnis der \"Partnerin\"" ^[L17] — and gets
 its own field on every world: **`Partnerin-Echos hier`**, four times.
 
 What it is, stated only by its effect:

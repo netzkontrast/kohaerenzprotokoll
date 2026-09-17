@@ -27,21 +27,55 @@ is how the previous version of this project failed.
 There is no third layer. Everything else the project used to have is parked
 under `Legacy/` and read by nothing.
 
-`Sources/manifest.jsonl` is the spine: 680 rows, each with `drive_id`, `title`,
+`Sources/manifest.jsonl` is the spine: 617 rows, each with `drive_id`, `title`,
 `slug`, `category`, `tier` and, once landed, `export_path` and two checksums.
 Anything derived traces back to a `drive_id`.
 
+`Sources/duplicates.jsonl` holds the 63 rows that left it — the same shape plus
+`duplicate_of`. Two files, two questions: the manifest says what is in the
+corpus, and this says what Drive also holds and why it is not here. It exists so
+that „not in the manifest" never has to mean „nobody knows".
+
 ## State, as of 2026-09-17
 
-**409 of 680 source documents are landed.** The 271 that are not are the 247
+**346 <!--state:sources.landed--> of 617 <!--state:sources.total--> source documents are landed.** The 271 that are not are the 247
 `plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
 have no route. Every category the wiki needs is complete.
 
-**4 of the 409 have a term census** in `Sources/terms/`; **3 also have a note** in
-`Sources/notes/`. Three of the four are `theorie-physik`, the fourth
-`worldbuilding`.
+**Those 346 files are 346 <!--state:sources.distinct--> distinct documents, and
+that took work.** Drive holds up to five exports of the same document — a gdoc
+export, a docx export, a `kopie` of each, a second run of both — and each landed
+under its own `drive_id`. 409 files were 346 documents, so **every count phrased
+as "N of 409" was counting copies.** Only 2 pairs were byte-identical, so
+checksums found almost none of it.
 
-`Wiki/candidates/` holds **32 pages**, `Wiki/conflicts/` holds **3**, and
+`python3 scripts/dedupe.py` folded the
+63 <!--state:sources.folded--> extra files away. The file left `Sources/drive/`,
+the row left the manifest — 680 rows became 617 — and the full row moved to
+`Sources/duplicates.jsonl`, which is what `sources.py next` filters against so a
+folded document is never fetched again. `python3 scripts/duplicates.py` now
+reports 0 <!--state:sources.near_copies--> near-copies and its job is to keep
+saying so after the next landing.
+
+**Which copy survives is not the longest one.** The gdoc export is longer and
+carries less: its extra words are `end list` markers — 195 in one document — and
+its missing words are the URLs behind the footnotes, which only the docx export
+keeps. In 11 of 11 groups holding both formats the docx export carried at least
+as many source URLs, and in 10 strictly more. So the rule ranks on URLs first,
+export artifacts second, and only then on the name. `scripts/dedupe.py` has the
+full order and `Plan/runs/dedupe.json` has the decision per group.
+
+A count over files is now a count over documents — AEGIS is in 269 of the 346 —
+but the distinction was real while it lasted and the script that measures it
+stays.
+
+**5 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **5
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **4
+<!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
+one `worldbuilding`, one `aegis` — and the fifth is read but not yet reconciled.
+
+`Wiki/candidates/` holds **46 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+holds **4 <!--state:wiki.conflicts-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
@@ -51,17 +85,70 @@ has been promoted.
 | `entropie-aegis` | 14 | — | 0 |
 | `aegis-emergenz-aus-der-leere` | 10 | 2 | 2 |
 | `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
-| `guardians-und-kern-welten-konzept` | — | — | — *(census done, not reconciled)* |
+| `guardians-und-kern-welten-konzept` | 14 | 4 | 1 |
 
-`Plan/runs/judgements.jsonl` holds **11 judgements** about near matches — 4
-mechanised and replaying green, 7 still a person's call.
+`Plan/runs/judgements.jsonl` holds **19 <!--state:judgements.total--> judgements**
+about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
+replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
-Check it yourself rather than trusting this paragraph:
+**`python3 scripts/account.py order` holds** — `true`
+<!--state:order.holds-->. Every document with a census has a note and a
+reconciliation, each ran against the state the previous one left, and the wiki
+matches what the newest run recorded leaving.
+
+### Do not trust the numbers above — they are checked
+
+Every number on this page carries a `<!--state:key-->` marker naming the
+measurement it came from, and **`python3 scripts/state.py --prose` fails if any
+of them contradicts the repository.** It reads every markdown file outside
+`Legacy/` and the vendored clones, not a list of three — that list was itself the
+bug: `Plan/concept/plan_2026-09-17.md` carried three markers, went stale when the
+corpus was deduplicated, and the check stayed green because it never looked
+there.
+
+That check exists because this section has gone stale four times. It has claimed
+27 of 680 landed, then 3 documents read, then 32 wiki pages, 11 judgements, and a
+reconciliation of 19/12/7 — each true when written, each wrong within a day, each
+caught by a person rather than a command.
+
+**State is derived, never stored.** `scripts/state.py` measures the repository;
+`Plan/state.json` is the artifact of a run and not the source of truth. Any tool
+that needs a number calls `value("wiki.pages")` instead of hardcoding one, and a
+new measurement is a decorated function.
 
 ```bash
-python3 scripts/sources.py status     # by category and tier
-python3 scripts/sources.py check      # manifest against disk
+python3 scripts/state.py            # derive everything, write Plan/state.json
+python3 scripts/state.py --prose    # fail on any stale number in prose
+python3 scripts/state.py --check    # fail if Plan/state.json has drifted
+python3 scripts/state.py --get wiki.pages
 ```
+
+## One operation, at several scales
+
+The steps below grew one at a time, each with its own script and artifact format.
+They are the same operation with different arguments:
+
+    account(subject, question) -> account
+
+| subject | the account |
+|---|---|
+| a document | the census, the note |
+| a term | the page |
+| two surfaces | one term or two — `Plan/runs/judgements.jsonl` |
+| the corpus | a count, a plan, a timeline |
+
+And each decomposes into the same operation on smaller subjects: a term across
+269 documents is that term in each, then the merge.
+
+**A pipeline of N steps needs N rule sets, N formats and N learnings files, and
+grows forever.** One recursive operation needs one, and what grows instead is the
+library of decompositions in `scripts/rules/` — the part a project actually
+learns. `scripts/account.py` is the verb; `scripts/subject.py` is the substrate
+every script asks, which is why the frontmatter boundary now has exactly one
+implementation instead of four.
+
+That framing is `Plan/concept/rlm-the-real-one_2026-09-17.md` and it is **newer
+than the steps below**, which still describe how the work is actually done.
 
 ## The process
 
@@ -107,9 +194,24 @@ advance what a new document is allowed to say.
 **And reconciliation never reads the wiki.** `scripts/wiki_index.py` derives
 `Wiki/index.json` from page frontmatter; `scripts/reconcile.py` answers by lookup
 and prints only what no lookup settles. Cost per document is `O(census) +
-O(judgement)`, not `O(wiki)` — measured on document 4 against 32 pages: **19
-candidates, 12 decided mechanically, 7 to judgement.** Reasoning:
+O(judgement)`, not `O(wiki)` — measured on document 4 against 32 pages: 22
+candidates, **3 surface groups folded to one term first, then 19 candidates, 15
+decided mechanically, 4 to judgement.** Reasoning:
 `Plan/concept/reconciliation-by-lookup_2026-09-17.md`.
+
+### A quotation is checked against its line
+
+`python3 scripts/quotes.py` verifies that every „…" ^[Lnn] in a census, note or
+wiki page still resolves to the line it cites. Nothing checked this before, and
+the first run found quotations that were right about the line and the meaning and
+**wrong about the words** — „das Management" for „dem Management", a nominative
+written for a genitive. A citation that looks precise around a sentence the
+document never contained is the worst shape a defect takes here.
+
+Most of building it was learning what is *not* a defect: export escaping,
+markdown emphasis, blockquote wrapping, glued footnote numbers, inline
+attribution markers. It says how many quotes it could not check rather than
+counting them as passed.
 
 **Conflict detection is never mechanised.** Two readings can only be compared by
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
@@ -133,6 +235,12 @@ hypothetical: the check's *first run* found that `fold()`'s own docstring claime
 behaviour it did not have, and the same false claim had been repeated in two other
 files.
 
+**And note what it cannot see.** `fold()` was correct the whole time
+`reconcile.py` excluded exact fold-equality from its own intra-list check, which
+reported three worlds as six new terms. The ledger replayed green throughout,
+because no recorded judgement covered the caller. **A green replay says the
+recorded decisions still hold, not that the code around them is right.**
+
 `Plan/learnings/extract-terms.md` has the fourteen special cases the first two
 censuses found, and why the first comparison inverted the premise the step was
 built on.
@@ -145,6 +253,83 @@ them itself (decision 004).
 A term page collects every source's reading of one term, **attributed and
 unmerged** — where sources disagree the page says so and stops. Which reading is
 right is the author's call, never the page's.
+
+## Searching the corpus
+
+`qmd` (github.com/tobi/qmd) indexes five collections — `sources`, `wiki`,
+`census`, `notes`, `plan` — and answers a lowercase German phrase in about 0.2s
+with file and line. `scripts/corpus.py` cannot: its index holds capitalised
+tokens only, and anything else falls back to reading all 346 files.
+
+```python
+from qmd import search
+for hit in search("blinder Fleck kategoriale Unfähigkeit", collection="sources"):
+    doc = hit.document()          # subject.Document when the hit is a landed source
+```
+
+`scripts/qmd.py` is the way code talks to it — `--json` is parsed once and
+`qmd://collection/path` is resolved to a real `Path` once, because that
+resolution is the only thing between a search result and the rest of the
+toolchain. **A `Hit` says where to look and carries no claim about the corpus**;
+`hit.document()` is the handoff back to the tools that measure. The shell works
+too and is unchanged.
+
+Collections are named for **purpose**, and `all` covers every markdown file
+outside the shelf — 459 of 459. It is excluded from default queries because it
+overlaps the others, so ask for it by name when a question could be answered by
+any layer.
+
+**It finds candidates; it does not produce answers.** A ranked result is a place
+to look, and every number that goes into a page or a learning still comes from
+`corpus.py`, `duplicates.py` or a count — which say what they counted and how.
+Nothing in the pipeline depends on qmd, and `.qmd/` and `.tools-node/` are
+git-ignored; `qmd init` and five `collection add` calls rebuild it.
+
+Its first real query is what exposed the duplicate exports above.
+
+**The whole setup rebuilds from one command.** The container is ephemeral and
+`.tools-node/` and `.qmd/` are git-ignored, so the package, the index, six
+collections, their contexts, the agent skill and the PATH shim are all lost on a
+fresh clone:
+
+```bash
+scripts/setup_qmd.sh            # install, index, collections, skill, shim
+scripts/setup_qmd.sh --check    # report what is missing, change nothing
+```
+
+It is idempotent, and `--check` is the thing to run when a search returns less
+than it should.
+
+**The agent skill is installed from the package itself** — `qmd skill install`
+writes a 25-line bootstrap that defers to `qmd skill show` for version-matched
+instructions, so it cannot go stale when qmd updates. It declares
+`allowed-tools: Bash(qmd:*)`, and **the package is not on PATH here**, which is
+why `setup_qmd.sh` writes a shim: without it the skill fails with „command not
+found", which reads like the tool is broken rather than absent.
+
+Its one technique worth adopting: **write the structured query yourself** —
+`intent:`, `lex:`, `vec:`, `hyde:` — rather than pasting the question into
+`qmd query` and hoping the built-in expansion model guesses the domain
+vocabulary. In a German corpus full of coined compounds it will not.
+
+**Every file stays in it, and that is checked rather than remembered.**
+
+```bash
+qmd update                          # re-index all collections
+python3 scripts/qmd_coverage.py     # non-zero if a directory is in none of them
+```
+
+A file in no collection is absent from every search and **nothing says so** — the
+search just returns less and looks like it worked. A new directory is the risk:
+`Wiki/questions/` happened to fall inside the `wiki` collection; the next one may
+not. The check lists what is uncovered and separates the known exclusions from a
+real gap.
+
+Five files are uncovered on purpose, all for one reason: **qmd ignores
+`--pattern` and every collection is `**/*.md`**, so a collection rooted at `.`
+pulls in `Legacy/` and the vendored clones — 1,382 files, tried and removed. That
+leaves the four root files and `Sources/README.md` searchable only by opening
+them.
 
 ## Fetching
 
@@ -166,7 +351,7 @@ python3 scripts/sources.py land --drive-id <id> --consume
 which parses the spill, normalizes, writes `Sources/drive/<slug>.md`, records
 both checksums into the manifest and verifies. Never open the spill yourself.
 
-44 of the 680 rows are markdown or audio, which the connector does not list as
+44 of the 617 rows are markdown or audio, which the connector does not list as
 supported — though 4 of the 43 `md` rows landed anyway, so the list is not the
 whole truth. The remaining 39 and the one `mp3` stay deferred by decision.
 `Plan/learnings/fetch.md` has the format census and the heading measurement.
@@ -205,7 +390,7 @@ with how it went wrong.
 The failure mode here is **too slow**. The heading claim was generalised from one
 document and survived three successive learnings that built on it before anything
 counted the other 359. Three documents looked like a timeline for the renaming,
-and a count over 409 showed a cliff.
+and a count over 346 showed a cliff.
 
 ### A construct is demoted, not deleted
 
@@ -289,6 +474,13 @@ misread, every page it touched is one `git log --grep=<slug>` away.
 
 **A commit that changes a page without naming a source document is the defect**,
 the same way a false statement on this page is.
+
+**One exception: a corpus-wide re-measurement.** When the corpus itself changes
+size — a landing batch, or `dedupe.py` folding duplicate exports away — every
+page that wrote a denominator like „among the 409 landed" is wrong, and no source
+document caused it. Such a commit names the measurement instead of a document,
+changes no reading, and says so. It is rare and it is recognisable: if the diff
+touches a claim rather than a number, it is not this.
 
 ## Every step keeps its artifact
 

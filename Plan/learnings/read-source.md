@@ -117,7 +117,7 @@ a different figure.
 
 > **Corrected 2026-09-16, and the correction is the lesson.** This finding was
 > extended, from three documents, into „the two names changed at different
-> times". Counting all 409 landed documents refuted it: **both changed on one
+> times". Counting all 346 landed documents refuted it: **both changed on one
 > day.** 2025-04-17 is six documents with Michael/Julia and zero Kael/Juna;
 > 2025-04-18 is seven with Kael/Juna and zero Michael/Julia; no document on
 > either day mixes them. The mixing that suggested two dates is **incomplete
@@ -143,8 +143,12 @@ Reading it changed four things.
 
 **f. `[User Query]` is an inline provenance marker, and it is the highest-value
 field found so far.** The document marks 26 passages with it, and every one is a
-premise the brief supplied rather than a finding the research produced. **24 of
-the 409 landed documents use the marker**, so it is a corpus convention.
+premise the brief supplied rather than a finding the research produced. **12 of
+the 346 landed documents use the marker**, so it is a corpus convention.
+
+> Corrected from „24 of the 409" once `dedupe.py` folded Drive's duplicate
+> exports away. The probe never changed — the corpus did. See the correction in
+> `Sources/notes/kohaerenzprotokoll-aegis-und-systementropie.md`.
 
 This makes a distinction decidable that looked like judgement: for each reading,
 *did the project assert this, or did the research conclude it?* A term page that

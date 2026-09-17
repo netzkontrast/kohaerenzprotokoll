@@ -142,6 +142,46 @@
   },
   "substring_pairs": [
     [
+      "Sein",
+      "Seine"
+    ],
+    [
+      "Sein",
+      "Bewusstseinssystem"
+    ],
+    [
+      "Sein",
+      "Bewusstseinszustände"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Ziel",
+      "Zielsetzung"
+    ],
+    [
+      "Kern",
+      "Kernkontext"
+    ],
+    [
+      "Kern",
+      "Kernkonflikt"
+    ],
+    [
+      "Kern",
+      "Kernfunktion"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
       "Form",
       "Informatik"
     ],
@@ -174,52 +214,12 @@
       "Fehlerkorrekturcodes"
     ],
     [
-      "Welt",
-      "Welten"
+      "Daten",
+      "Datenströmen"
     ],
     [
-      "Welt",
-      "Überwelt"
-    ],
-    [
-      "Dies",
-      "Diese"
-    ],
-    [
-      "Sein",
-      "Seine"
-    ],
-    [
-      "Sein",
-      "Bewusstseinssystem"
-    ],
-    [
-      "Sein",
-      "Bewusstseinszustände"
-    ],
-    [
-      "Kern",
-      "Kernkontext"
-    ],
-    [
-      "Kern",
-      "Kernkonflikt"
-    ],
-    [
-      "Kern",
-      "Kernfunktion"
-    ],
-    [
-      "Ziel",
-      "Zielsetzung"
-    ],
-    [
-      "Roman",
-      "Romans"
-    ],
-    [
-      "Roman",
-      "Romanprojekt"
+      "Daten",
+      "Datenkorruption"
     ]
   ]
 }
