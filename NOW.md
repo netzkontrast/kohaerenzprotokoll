@@ -23,11 +23,15 @@ one day, against `Kael-Juna-Verbindung` in 9 documents over 14 months. Renaming
 needs a rule for what a page is called when the corpus and the read sample
 disagree. There is no such rule.
 
-**`juna.md` is titled by a name none of the read sources uses**, and `partnerin`
-may be a third surface for the same entity. Nothing read links them.
+**`juna.md` is titled by a name none of the read sources uses.** `partnerin` was
+an open question about whether it names the same entity as `Julia`/`Juna` — one
+source now states that link directly (`kohaerenz-protokoll-konzept`, reconciled
+2026-09-17): `Partnerin` (V5) is replaced by `Julia`. Recorded as that
+document's own claim on `partnerin.md`, not resolved into a merge — whether the
+corpus's other `Partnerin` occurrences (23 documents) agree is still open.
 
 **Whether the quote convention or the quote checker changes.**
-203 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+254 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -90,7 +94,7 @@ more than the next document that uses either.
 ## Postponed, and safe to postpone because the record proves it
 
 **`orte-konzept-fuer-kohaerenz-protokoll` was reconciled twice and both are
-stale.** Each recorded `state_before: 46`; the chain now ends at 56, so both must
+stale.** Each recorded `state_before: 46`; the chain now ends at 58, so both must
 be redone against the current wiki. The work is not lost — the censuses, notes
 and candidate lists in the two worktree branches stand, and only the
 reconciliation depends on the state that moved.
