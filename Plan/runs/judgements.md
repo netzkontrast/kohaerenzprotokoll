@@ -633,3 +633,325 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** 6 standing alone as Riss, 40 as Risse, plus Rissen, Riss-Manifestationen, Riss-Ursprung. Single-quoted throughout: 20 of the document's 32 single-quoted tokens are one of the two.
 
 **Result.** ONE term. Already the page's name; recorded because the ledger is also the trainset and fold() still misses this pair.
+
+## J46 — Seelen-Kohärenz-Protokoll / Kohärenz
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a project or document title containing a term is not itself an occurrence of that term
+- **mechanised by:** `nothing`
+- **features:** substring, project-title-vs-concept
+
+**Question.** is the project title the same term as the abstract concept it contains?
+
+**What was done.** Seelen-Kohärenz-Protokoll (L11, L17) names the document/project itself, quoted once as the title of the Überarbeitete Fassung. Kohärenz is used elsewhere (L19) as an abstract psychological property Michael moves toward.
+
+**Result.** TWO terms. A title that contains a word is not a reading of that word.
+
+## J47 — Seele = Information / Seele=Info
+
+**one-term** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a spacing variant of an already-quoted coined phrase is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** spacing-variant, quoted-every-time
+
+**Question.** is the spaced form a second term?
+
+**What was done.** Both name the same Guardian paradigm; the document itself uses both spellings for the identical referent, always in quotation marks (13 occurrences total).
+
+**Result.** ONE term. New page seele-info, aliasing both spellings.
+
+## J48 — Kohärenz / Datenkohärenz
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a compound with Daten- names the paradigm's narrow technical sense, not the page's abstract concept
+- **mechanised by:** `nothing`
+- **features:** substring, paradigm-vocabulary
+
+**Question.** is the Guardians' narrow technical target the same as the page's existing concept?
+
+**What was done.** kohaerenz.md already reads Kohärenz as AEGIS' measurable low-entropy property (kohaerenzprotokoll-aegis-und-systementropie). This document uses Kohärenz for what Michael moves toward (L19) and Datenkohärenz for what the Guardians' failed tools target (L275).
+
+**Result.** TWO terms. Datenkohärenz folded into the seele-info vocabulary cluster instead.
+
+## J49 — Kohärenz / Logische Kohärenz-Analysatoren
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a compound tool-name built on a term is not the term
+- **mechanised by:** `nothing`
+- **features:** substring, tool-name
+
+**Question.** is a named tool the same term as the concept it is named after?
+
+**What was done.** Logische Kohärenz-Analysatoren (L154) is one of four named Guardian tools with its own function and failure mode. Kohärenz is the abstract concept the tool measures against.
+
+**Result.** TWO terms. See guardian-werkzeuge.
+
+## J50 — Kohärenz / Kohärenz-Analysator
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a compound tool-name built on a term is not the term
+- **mechanised by:** `nothing`
+- **features:** substring, tool-name
+
+**Question.** same as J49 for the compact-compound naming
+
+**What was done.** Kohärenz-Analysator (L344) is the compact form of the same tool J49 covers under its noun-phrase form.
+
+**Result.** TWO terms, same reasoning as J49.
+
+## J51 — Logische Kohärenz-Analysatoren / Kohärenz-Analysator
+
+**one-term** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a noun-phrase naming and a compact-compound naming introduced by the same document as "the same four tools by example" are one term each
+- **mechanised by:** `nothing`
+- **features:** two-namings-one-document, flagged-while-reading
+
+**Question.** the census's own flagged merge point 1 — one tool named twice
+
+**What was done.** Noun phrase at L151-154 and compact compound at L344 name the same four Guardian tools by example; Kohärenz-Analysator/-Analysatoren is the only pair sharing a substring, the other three pairs share none.
+
+**Result.** ONE term per tool, four tools total. New page guardian-werkzeuge collects all four pairs.
+
+## J52 — Datenintegration / Integration
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a Daten- prefixed compound belongs to the Guardians' paradigm cluster, not to the DID-therapy sense of the bare noun
+- **mechanised by:** `nothing`
+- **features:** substring, domain-clash
+
+**Question.** is the Guardians' data-goal the same as the DID-therapy phase?
+
+**What was done.** Datenintegration (L19) is what the Guardians' paradigm targets. Integration (L104, L281) names the third DID-therapy phase, alongside funktionale Multiplizität.
+
+**Result.** TWO terms. Datenintegration folds to seele-info; Integration folds to the multiplizitaet reading.
+
+## J53 — Systemwächter / Wächter
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a quoted individual character name is never folded into a collective term sharing its root
+- **mechanised by:** `nothing`
+- **features:** substring-trap, collective-vs-individual
+
+**Question.** is the collective term for the Guardians the same as one Alter's own name?
+
+**What was done.** Systemwächter/Systemhütern (L23, L29) is this document's German collective term for the Guardians, consistent with the existing Wächter alias on guardians.md. "Wächter" in quotation marks at L116 is a specific Alter's own name (Protector archetype, Welt 3), unrelated to the Guardians.
+
+**Result.** TWO terms. Systemwächter/Systemhütern recorded as an alias reading on guardians.md; the Alter "Wächter" recorded only within the alters.md table reading, not promoted.
+
+## J54 — Architekt / Netzwerkarchitektur
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared substring across unrelated compounds is not a term match
+- **mechanised by:** `nothing`
+- **features:** substring-trap
+
+**Question.** do Architekt and Netzwerkarchitektur share anything but a substring?
+
+**What was done.** Architekt (L26, L31) is a named Persona from Blueprint V5, already on personas.md. Netzwerkarchitektur is a generic compound noun describing a possible visualisation of the Überwelt (L173 area), unrelated in referent.
+
+**Result.** TWO terms, no relation beyond the shared substring.
+
+## J55 — Alters / Alter
+
+**one-term** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a German plural is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** german-plural, already-a-surface
+
+**Question.** plural vs singular of the page's own term
+
+**What was done.** Census (04-counts.txt) confirms Alter at 12 standalone/86 with compounds, with 55 of the 86 being the inflected Alters this document actually uses; both name the same DID concept the alters.md page already holds.
+
+**Result.** ONE term, matching the corpus rule already applied to Riss/Risse (J45) and Anomalie/Anomalien (J44).
+
+## J56 — Alter / Alter Intrusion
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a compound naming one specific clinical symptom-type is not the general concept its head noun names
+- **mechanised by:** `nothing`
+- **features:** substring, clinical-compound
+
+**Question.** is a named symptom-type the same as the general concept it is built from?
+
+**What was done.** Alter Intrusion/Switch (L246) is one of four named Riss symptom-types on the risse.md reading. Alter alone is the general DID personality-part concept.
+
+**Result.** TWO terms. Alter Intrusion recorded within the risse.md reading, not promoted separately.
+
+## J57 — Integration / Integrationsversagen
+
+**one-term-family** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a morphological derivative in the same domain is recorded with its root rather than as a separate page
+- **mechanised by:** `nothing`
+- **features:** morphological-derivative, same-domain
+
+**Question.** is failure-of-integration a separate term from integration?
+
+**What was done.** Integrationsversagen (L109-111) is the DID-therapy sense of failed integration, in the same passage that discusses Integration as the third therapy phase (L104).
+
+**Result.** Folded into the same DID-therapy-process reading on multiplizitaet.md rather than promoted or kept apart; kept apart from the Guardians' Datenintegration per J52.
+
+## J58 — Kernpersönlichkeit / Kern
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a polysemous root that a document's own census separates into unrelated senses is never folded with any one of its compounds
+- **mechanised by:** `nothing`
+- **features:** polysemous-root, census-flagged
+
+**Question.** the census's own warning: Kern compounds into three unrelated things
+
+**What was done.** Kernpersönlichkeit (L59, L104, L109, L137, L158) is the specific rejected "true self" concept. Bare Kern also means Kernkonzept/Kernthema (document-structuring) and Kerntrauma (a plot beat) in this same document -- three unrelated senses census already separated.
+
+**Result.** TWO terms; bare Kern is not itself promoted (too polysemous within one document to be one candidate).
+
+## J59 — Kern / Kerntrauma
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a polysemous root that a document's own census separates into unrelated senses is never folded with any one of its compounds
+- **mechanised by:** `nothing`
+- **features:** polysemous-root, census-flagged
+
+**Question.** same warning, the plot-beat sense
+
+**What was done.** Kerntrauma (L282, L303, L363, L365) names a specific plot beat (the confrontation with the core trauma in Teil 3), unrelated to the Kernpersönlichkeit debate.
+
+**Result.** TWO terms, same reasoning as J58.
+
+## J60 — Persecutoren / Persecutor
+
+**one-term** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a German plural is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** german-plural, borrowed-clinical-term
+
+**Question.** German plural of a borrowed English clinical term
+
+**What was done.** Persecutoren (L73) and Persecutor (L117, L185) name the same DID Alter-role; the -en suffix is the ordinary German plural applied to an imported noun.
+
+**Result.** ONE term, folded into the alters.md table reading, not promoted separately.
+
+## J61 — Kind-Anteile / Kind
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a document's own recurring-archetype label is a reading of its clinical term, not identical to it
+- **mechanised by:** `nothing`
+- **features:** scope-mismatch
+
+**Question.** is the recurring archetype the same as the clinical group name?
+
+**What was done.** Kind-Anteile (L73, L185) is the DID clinical term for child alters as a group. Kind (L160) is named separately as an "(Optional) Wiederkehrende Archetyp," a broader interpretive lens the document applies on top of Kind-Anteile.
+
+**Result.** TWO terms, both folded into the alters.md reading as supporting vocabulary rather than promoted.
+
+## J62 — Kairos / Kairos/Sophia
+
+**one-term-as-pair** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a slash between two names the wiki already treats as separable Guardians is read per-document, not folded once for the whole corpus
+- **mechanised by:** `nothing`
+- **features:** slash, never-separated, cross-document-precedent
+
+**Question.** does this document separate Kairos from Sophia, like document 4, or combine them, like document 6?
+
+**What was done.** "Kairos/Sophia (Optimierung/Potenzial - neu interpretiert)" (L141) is this document's only mention of either name, always combined, matching roman-lokalitaeten-konzept-und-ausarbeitung's treatment rather than guardians-und-kern-welten-konzept's separated one.
+
+**Result.** Reading recorded on both kairos.md and sophia.md, each pointing at the combined content rather than duplicating it, consistent with the existing pattern for this pair.
+
+## J63 — Wächter / wachterdersystemischenstabilitat
+
+**not-related** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared normalised substring across unrelated compounds from different documents is not a term match
+- **mechanised by:** `nothing`
+- **features:** fold-false-positive, substring-trap
+
+**Question.** is the fold() near-match to aegis a real relation?
+
+**What was done.** wiki_index.fold normalises to a shared substring with an unrelated AEGIS-cluster surface from another document. This document's "Wächter" is the Alter-table entry (Protector, L116), which does not occur anywhere near an AEGIS context.
+
+**Result.** NOT related. Recorded within the alters.md table reading; no page or link created from the false match.
+
+## J64 — Gatekeeper / entropicgatekeeper
+
+**not-related** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared normalised substring across unrelated compounds from different documents is not a term match
+- **mechanised by:** `nothing`
+- **features:** fold-false-positive, substring-trap
+
+**Question.** is the fold() near-match to aegis a real relation?
+
+**What was done.** This document's "Gatekeeper" (L119, Der Archivar's archetype role) shares a substring with an unrelated "Entropic Gatekeeper" surface from entropie-aegis, an AEGIS-cluster term this document never mentions.
+
+**Result.** NOT related, same reasoning as J63.
+
+## J65 — Depersonalisation / Persona
+
+**not-related** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared normalised substring across unrelated compounds is not a term match
+- **mechanised by:** `nothing`
+- **features:** fold-false-positive, substring-trap
+
+**Question.** does Depersonalisation relate to Personas via the shared substring persona?
+
+**What was done.** "persona" is a substring of "Depersonalisation" purely orthographically; the clinical symptom (L60, L108, L161) and the V5 Personas concept (L31) share no referent.
+
+**Result.** NOT related.
+
+## J66 — Nexuspunkt / Nexus
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared root between a role-word and an established place-name is not itself evidence of one referent
+- **mechanised by:** `nothing`
+- **features:** shared-root, scope-mismatch
+
+**Question.** is Julia's structural role-word the same as the Guardians' meta-space?
+
+**What was done.** Nexus (existing page) is the meta-representational space where Guardians take visual form, from guardians-und-kern-welten-konzept. Nexuspunkt (L237) is one of three near-synonym role-words this document gives Julia for her connection to the externe Ebene.
+
+**Result.** TWO terms. Nexuspunkt recorded on juna.md/externe-ebene.md as part of the three-hypothesis reading, not folded into nexus.md.
+
+## J67 — Systemgrenzen / Systemgrenze
+
+**two-terms** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a generic plural describing a function is not the same term as one document's specific singular named instance
+- **mechanised by:** `nothing`
+- **features:** generic-vs-specific, cross-document
+
+**Question.** is Cerberus's generic boundary-guarding the same as the one wall named Die Große Mauer (Systemgrenze)?
+
+**What was done.** roman-lokalitaeten-konzept-und-ausarbeitung names one specific wall in KW3, "Die Große Mauer (Systemgrenze)," already on grosse-mauer.md. This document's "Systemgrenzen" (L140, plural) is Cerberus's general domain -- "zwischen Welten, zwischen Alters, zur Überwelt" -- naming no single boundary.
+
+**Result.** TWO terms. Recorded on cerberus.md as a generic function, not folded into grosse-mauer.md.
+
+## J68 — Kern / Kernwelt
+
+**not-related** · kohaerenz-protokoll-konzept · 2026-09-17 · replay: `judgement`
+
+- **rule:** a shared normalised substring across unrelated compounds from different documents is not a term match
+- **mechanised by:** `nothing`
+- **features:** fold-false-positive, substring-trap
+
+**Question.** does this document's bare Kern relate to the corpus's Kern-Welten term?
+
+**What was done.** This document never writes Kern-Welt or Kernwelt at all -- it numbers Welt 1-4 instead (see kern-welten.md reading). The fold() near-match is a substring coincidence between the polysemous root Kern (J58/J59) and an unrelated corpus term.
+
+**Result.** NOT related.
