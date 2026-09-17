@@ -70,11 +70,26 @@ sentence; `kern-welten` would be settled by anything mentioning `KW2` or `KW4`.
 ## Known failing
 
 **17 <!--state:quotes.unresolved--> quotations do not resolve to the line they
-cite.** All predate `scripts/quotes.py`; every page written since is clean.
-Mostly German declension changed to fit an English sentence, inside quotation
-marks. An independent design (`dspy-wiki-compile`) weights this axis heaviest of
-six, at 0.30 — so on that reading these are the highest-value open item here,
-not cleanup.
+cite.** All predate `scripts/quotes.py`; every page written since is clean. An
+independent design (`dspy-wiki-compile`) weights this axis heaviest of six, at
+0.30 — so on that reading these are the highest-value open item here, not
+cleanup.
+
+`scripts/read.py --find` splits them into two piles that need different work:
+
+- **6 carry the document's own words and point at the wrong place.** Five cite a
+  line the phrase is not on; one is a table column holding a bare `128` where a
+  `^[L128]` belongs, so the checker paired the quote with the row above.
+- **11 quote words the document does not contain on any line.** The nearest line
+  is usually the cited one, at 37–79% in common — German declension bent to fit
+  an English sentence, inside quotation marks.
+
+**Neither pile is mechanical, and the tempting one is the trap.** „blinder
+Hausmeister" on `Wiki/candidates/aegis.md` cites L207 and those exact words are
+at L221 — but L207 carries the metaphor the page is actually reading, in the
+genitive. Repointing the number would make the citation resolve and the page
+wrong. Each correction is a reading decision, one commit per page naming its
+source document.
 
 ## Not open
 

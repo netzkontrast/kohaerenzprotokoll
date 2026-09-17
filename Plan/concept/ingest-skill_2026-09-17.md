@@ -194,6 +194,56 @@ place to look and never a number in a page.
 **Where qmd must not be called:** reconciliation, which reads `Wiki/index.json`
 and must stay `O(census) + O(judgement)`; and any loop, because of the 14.5s.
 
+## What the repo survey still offers, and what it does not
+
+`Legacy/Plan/wiki/repo-survey_2026-09-15.md` catalogued nine tool repositories
+before this project restarted. Re-read against what now exists, most of its
+catalogue is either built here in a stronger form — content-hash dedup and
+near-duplicate clustering, line-scoped citations validated deterministically,
+staged candidates, a free deterministic check tier, a trace per run — or was
+rejected on purpose. Three entries are not, and each is ingest's business.
+
+**Evidence graded on every decision, and LOW refused by default.** DeepRefine
+scores each proposed action HIGH (exact evidence) / MEDIUM (inferred) / LOW
+(ambiguous) and refuses LOW without approval. A row in
+`Plan/runs/judgements.jsonl` already carries `goal`, `action`, `result`, `rule`
+and `mechanised_by` — everything except **what made the decision true**. The
+numbers exist: `capture.py` computes the word and compound counts and lists the
+surfaces found. Nothing carries them into the row, so the evidence of every
+judgement is prose in a note. This is the same gap that blocks a model — an
+optimizer learns from what is in the input — and the survey supplies the
+vocabulary for closing it.
+
+**`truncated` is a field nobody measures.** The manifest carries `truncated` on
+every row and it reads `false` for all 346 <!--state:sources.landed--> landed documents. No script in
+`scripts/` mentions the word; the value came in with the Drive index and has
+never been derived. A field that asserts „this export is complete" without
+anything having checked is worse than no field. The cheap heuristic does not
+rescue it either, and that is measured: **221 of the 346 <!--state:sources.landed--> documents end without
+terminal punctuation**, because they end on a bibliography URL. So it is
+demoted rather than deleted — the survey's idea is right and our value is not
+evidence.
+
+```yaml
+truncated: false     # provisional — carried in from the Drive index, never derived
+                     # may not: be cited as evidence that an export is complete
+                     # retire when: `sources.py land` derives it, or 20 documents
+                     #              show nothing downstream ever reads it
+```
+
+**Active-page protection.** A reviewed page is never overwritten by a new
+source; a conflicting source flags it instead. It costs nothing today, because
+`Wiki/terms/` does not exist and nothing has been promoted — which is exactly
+why it has to be decided before the first promotion rather than discovered
+after it.
+
+Two entries stay rejected, and the reasons are now measured rather than
+argued. **Two-phase compile** — extract the whole batch, then merge across it —
+is the shape reconciliation was deliberately moved away from: cost per document
+is `O(census) + O(judgement)`, not `O(corpus)`. And the **broken-wikilink lint
+family** has nothing to check: `Wiki/` contains zero `[[links]]`. Pages are
+joined by `Wiki/index.json` and by citation, not by link.
+
 ## What is not yet possible, stated plainly
 
 - **Extraction is not trainable.** One usable gold candidate list exists. Two or
@@ -201,16 +251,16 @@ and must stay `O(census) + O(judgement)`; and any loop, because of the 14.5s.
   produce them, not to be optimised.
 - **No train/validation/canary split exists** for the 26 fold-pairs that *are*
   usable. One is needed before any optimizer touches the ledger.
-- **`qmd bench` would measure the absence of embeddings.** `qmd embed` first, on
-  CPU, for 464 documents.
-- **No fixture proves `quotes.py` or `fold()` can fail.** The retired set's
-  `BROKEN_NEEDLES` pattern is the cheap fix and is not built.
+- **A judgement records its rule and not its evidence.** Until it does, a model
+  trained on the ledger is trained on the conclusion alone.
 
 ## The order
 
-1. The `BROKEN_NEEDLES`-style fixtures for `quotes.py` and `fold()`. Cheapest,
-   and it is what makes every later number trustworthy.
-2. Line-numbered text into the reading step.
+1. ~~The `BROKEN_NEEDLES`-style fixtures for `quotes.py` and `fold()`.~~ Built:
+   `scripts/selftest.py`, 13 cases, each asserting *which* defect is named.
+2. ~~Line-numbered text into the reading step.~~ Built: `scripts/read.py`, and
+   with the reverse direction the predecessor did not have — `--find` answers a
+   quote with its citation, or refuses and names the nearest line.
 3. The skill itself, drafted against `skill-creator`, which runs it against a
    **baseline without the skill** and grades both — the same discipline this
    project already applies to `fold()`.
