@@ -37,11 +37,19 @@ Anything derived traces back to a `drive_id`.
 `plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
 have no route. Every category the wiki needs is complete.
 
-**4 of the 409 have a term census** in `Sources/terms/`; **3 also have a note** in
-`Sources/notes/`. Three of the four are `theorie-physik`, the fourth
+**Those 409 files are 357 distinct documents.** 52 of them are near-copies of
+another — Drive holds several exports of many documents, and each landed under
+its own `drive_id`. Only 2 pairs are byte-identical, so checksums find almost
+none of it. `python3 scripts/duplicates.py` measures it, and **a count over files
+is not a count over documents**: AEGIS is in 315 files and 276 documents.
+Proportions usually survive and sometimes do not — `Entropie` is 50% of files and
+45% of documents. Say which one you mean.
+
+**4 of the 409 have a term census** in `Sources/terms/`, and **all four now have
+a note** in `Sources/notes/`. Three of the four are `theorie-physik`, the fourth
 `worldbuilding`.
 
-`Wiki/candidates/` holds **32 pages**, `Wiki/conflicts/` holds **3**, and
+`Wiki/candidates/` holds **46 pages**, `Wiki/conflicts/` holds **4**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
@@ -51,10 +59,14 @@ has been promoted.
 | `entropie-aegis` | 14 | — | 0 |
 | `aegis-emergenz-aus-der-leere` | 10 | 2 | 2 |
 | `kohaerenzprotokoll-aegis-und-systementropie` | 8 | 7 | 1 |
-| `guardians-und-kern-welten-konzept` | — | — | — *(census done, not reconciled)* |
+| `guardians-und-kern-welten-konzept` | 14 | 4 | 1 |
 
-`Plan/runs/judgements.jsonl` holds **11 judgements** about near matches — 4
-mechanised and replaying green, 7 still a person's call.
+`Plan/runs/judgements.jsonl` holds **19 judgements** about near matches — 7
+mechanised and replaying green, 12 still a person's call.
+
+**`python3 scripts/account.py order` holds.** Every document with a census has a
+note and a reconciliation, each ran against the state the previous one left, and
+the wiki matches what the newest run recorded leaving.
 
 Check it yourself rather than trusting this paragraph:
 
@@ -134,9 +146,24 @@ advance what a new document is allowed to say.
 **And reconciliation never reads the wiki.** `scripts/wiki_index.py` derives
 `Wiki/index.json` from page frontmatter; `scripts/reconcile.py` answers by lookup
 and prints only what no lookup settles. Cost per document is `O(census) +
-O(judgement)`, not `O(wiki)` — measured on document 4 against 32 pages: **19
-candidates, 12 decided mechanically, 7 to judgement.** Reasoning:
+O(judgement)`, not `O(wiki)` — measured on document 4 against 32 pages: 22
+candidates, **3 surface groups folded to one term first, then 19 candidates, 15
+decided mechanically, 4 to judgement.** Reasoning:
 `Plan/concept/reconciliation-by-lookup_2026-09-17.md`.
+
+### A quotation is checked against its line
+
+`python3 scripts/quotes.py` verifies that every „…" ^[Lnn] in a census, note or
+wiki page still resolves to the line it cites. Nothing checked this before, and
+the first run found quotations that were right about the line and the meaning and
+**wrong about the words** — „das Management" for „dem Management", a nominative
+written for a genitive. A citation that looks precise around a sentence the
+document never contained is the worst shape a defect takes here.
+
+Most of building it was learning what is *not* a defect: export escaping,
+markdown emphasis, blockquote wrapping, glued footnote numbers, inline
+attribution markers. It says how many quotes it could not check rather than
+counting them as passed.
 
 **Conflict detection is never mechanised.** Two readings can only be compared by
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
@@ -154,7 +181,12 @@ current code**:
   met its first exception
 - `judgement` — no code claims this; still a person's call
 
-**Run it after touching `fold()` or any matching rule.** A rule that was
+**Run it after touching `fold()` or any matching rule.** And note what it cannot
+see: `fold()` was correct while `reconcile.py` excluded exact fold-equality from
+its own intra-list check, so three worlds were reported as six new terms. The
+ledger replayed green throughout, because no recorded judgement covered the
+caller. A green replay says the recorded decisions still hold, not that the code
+around them is right. A rule that was
 mechanised and then quietly stopped holding is invisible otherwise — which is not
 hypothetical: the check's *first run* found that `fold()`'s own docstring claimed
 behaviour it did not have, and the same false claim had been repeated in two other
@@ -172,6 +204,26 @@ them itself (decision 004).
 A term page collects every source's reading of one term, **attributed and
 unmerged** — where sources disagree the page says so and stops. Which reading is
 right is the author's call, never the page's.
+
+## Searching the corpus
+
+`qmd` (github.com/tobi/qmd) indexes five collections — `sources`, `wiki`,
+`census`, `notes`, `plan` — and answers a lowercase German phrase in about 0.2s
+with file and line. `scripts/corpus.py` cannot: its index holds capitalised
+tokens only, and anything else falls back to reading all 409 files.
+
+```bash
+export PATH="$PWD/.tools-node/node_modules/.bin:$PATH"
+qmd search "blinder Fleck kategoriale Unfähigkeit" -c sources -n 6
+```
+
+**It finds candidates; it does not produce answers.** A ranked result is a place
+to look, and every number that goes into a page or a learning still comes from
+`corpus.py`, `duplicates.py` or a count — which say what they counted and how.
+Nothing in the pipeline depends on qmd, and `.qmd/` and `.tools-node/` are
+git-ignored; `qmd init` and five `collection add` calls rebuild it.
+
+Its first real query is what exposed the 52 near-duplicates above.
 
 ## Fetching
 
