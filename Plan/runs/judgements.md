@@ -451,3 +451,185 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** Kernsystem is what Rest-AEGIS maintains (L531). Kernsystemprotokoll is a document Kael might find that shows how AEGIS computes entropy (L293). Neither was found by the reading as a standalone word; both surfaced only when capture.py started listing inflected forms.
 
 **Result.** TWO terms, and one of them the reading missed entirely.
+
+## J33 — Wächter / Guardians
+
+**judgement** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** *none stated — still open*
+- **mechanised by:** `nothing`
+- **features:** translation, page-is-elsewhere, known-ambiguous-word
+
+**Question.** this document says Wächter 12 times and Guardian 0 — is Wächter a surface of the guardians page?
+
+**What was done.** The four bearers are named in one parenthesis at L35 (LogOS, Mnemosyne, Cerberus, Kairos/Sophia), which is exactly the roster the guardians page carries. But Q4 records four other bearers of the word across the corpus, one of them an alias already folded onto the aegis page.
+
+**Result.** UNRESOLVED, and the surface was deliberately NOT added. The reading goes on guardians; the word stays unclaimed. Adding it would map all twelve analytic uses of a four-bearer word onto one page by lookup.
+
+## J34 — Kairos / Kairos/Sophia
+
+**one-term** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** a slash between two names the wiki already has is an alias, not a term boundary
+- **mechanised by:** `nothing`
+- **features:** slash, never-separated
+
+**Question.** is the slashed pair a third term beside kairos and sophia?
+
+**What was done.** Measured: all 10 occurrences of Kairos and all 10 of Sophia are inside Kairos/Sophia. Neither name stands alone anywhere in the file.
+
+**Result.** ONE term per name — the slash is an alias joining two existing pages, not a new bearer. The reading goes on kairos and the measurement on sophia. Same shape as J14 (Der Möglichkeits-Garten / Nexus-Vorstufe).
+
+## J35 — Möglichkeits-Garten / Garten der Möglichkeiten
+
+**one-term** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** *none stated — still open*
+- **mechanised by:** `nothing`
+- **features:** word-order, cross-document, scale-mismatch
+
+**Question.** same place, or two gardens?
+
+**What was done.** Document 4 has Möglichkeits-Garten as KW4 entire; this document has Garten der Möglichkeiten as one of eight KW4 locations, marked `Konzept Doc` so the name is inherited. Level, bearer, subject matter and cast agree. fold() keeps word order so nothing mechanical joins them.
+
+**Result.** ONE term, and the sources disagree about its SCALE — a Realität against a Bereich with „Tore zu anderen Bereichen von KW4" (L436). Recorded as conflict C5 rather than merged.
+
+## J36 — Nexus / Nexus-Interface
+
+**judgement** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** *none stated — still open*
+- **mechanised by:** `nothing`
+- **features:** compound, scale-mismatch, cross-document
+
+**Question.** is the KW4 interface the meta-space the wiki already has?
+
+**What was done.** Document 4's Nexus sits above the Kern-Welten. This document's Nexus-Interface is a location inside KW4 (L218, L413) and the document contains no word for a level above the six. Neither says anything about the other.
+
+**Result.** UNRESOLVED. No page created for Nexus-Interface, because creating one asserts they are two terms — which is the open question. Noted on the nexus page instead.
+
+## J37 — Kern-Welt / KW1
+
+**one-term** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** a numbered instance of a class the wiki has is a reading on that class, not a new term
+- **mechanised by:** `nothing`
+- **features:** abbreviation, numbered-instance
+
+**Question.** does a numbered world get its own page?
+
+**What was done.** Same case J26 decided on document 5, now with all four numbers present and each carrying a domain bearer (L172-L175).
+
+**Result.** ONE term — a numbered instance is a reading on its class. KW1-KW4 all go to kern-welten and no page is created for any of them.
+
+## J38 — Limina / Liminale Räume
+
+**two-terms** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** a candidate that shares a stem with a cited external concept is checked against the reference list before it is a surface
+- **mechanised by:** `nothing`
+- **features:** shared-stem, imported-theory, substring-trap
+
+**Question.** the count merges them — are they related?
+
+**What was done.** Limina is an Alter associated with KW1 (L172). Liminale Räume is a design concept cited to an external Wikipedia reference (L152, refs 64-66). The candidate scored 9 standing alone and 19 including the theory.
+
+**Result.** TWO terms and not even the same kind of thing. The Alter gets no page from this document (it is named as an example and never described); the concept is imported theory and never canon.
+
+## J39 — Simulation / Überwelt
+
+**two-terms** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** *none stated — still open*
+- **mechanised by:** `nothing`
+- **features:** page-is-elsewhere, third-document
+
+**Question.** J30 left this unresolved — does a third document settle it?
+
+**What was done.** This document uses Überwelt 27 times for the digital level and Simulation 4 times for the whole construct that contains all six levels: „die Geschichte der Simulation (Post-Reboot-Zustand)" (L89), „die Fragilität der Simulation" (L61).
+
+**Result.** TWO terms, from this document. It is the first source to use both words, and they do not coincide: the Simulation contains the Überwelt. The surface Simulation is still mapped to ueberwelt in the index and that mapping is now doubtful. Recorded, not changed.
+
+## J40 — Lokalitäten-Profil / Konzept/Zweck
+
+**not-a-term** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** a label that partitions the document is not a term, however often it repeats
+- **mechanised by:** `nothing`
+- **features:** document-structure, repeated-label, template
+
+**Question.** the eleven profile fields repeat 17-18 times each — are they terms?
+
+**What was done.** They are the template this document defines for itself at L105-L115 and then fills seventeen times. Five of the eleven are renamed between definition and use (Atmosphäre/Stimmung -> Atmosphäre/Mood), which is why the profile counts them at 17 and the other six at 18.
+
+**Result.** NOT terms. Same call as J31 on Teil 1/2/3: a label that structures the document names nothing in the world. Lokalitäten-Profil itself scored 0 as a word and exists only inflected.
+
+## J41 — Die Große Mauer / Grenzfeste
+
+**two-terms** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** *none stated — still open*
+- **mechanised by:** `nothing`
+- **features:** cross-document, no-shared-string, scale-mismatch
+
+**Question.** is the wall around KW3 the same thing as document 4's KW3?
+
+**What was done.** Document 4's Grenzfeste is a Kern-Welt, „eine Realität, die als Schutzraum, Quarantänezone oder Kontrollzentrum konzipiert ist". This document's Große Mauer is a barrier that „KW3 umgibt oder durchzieht" (L362), with gates through it. Grenzfeste occurs 0 times here.
+
+**Result.** TWO terms. A wall around a fortress is not the fortress, and no read source relates them. Page created for the wall; the relation recorded as open on both.
+
+## J42 — Realitätsebenen / Kern-Welten
+
+**two-terms** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** a set is not its largest subset
+- **mechanised by:** `nothing`
+- **features:** class-and-member
+
+**Question.** is the six-level frame just another word for the worlds?
+
+**What was done.** L105 enumerates the six as „KW1-4, Überwelt, Externe Ebene" — four Kern-Welten plus two levels that are not Kern-Welten. The document uses Realitätsebenen 7 times and Kern-Welten 18.
+
+**Result.** TWO terms, in a class/member relation. New page realitaetsebenen, and it is what bounds the Kern-Welt count for Q3.
+
+## J43 — Orakel / Orakel/Muse
+
+**one-term** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** a slash between two names the wiki already has is an alias, not a term boundary
+- **mechanised by:** `nothing`
+- **features:** slash, never-separated, substring-trap
+
+**Question.** same shape as J34, and Muse collides with Museum
+
+**What was done.** All 10 occurrences of Orakel and all 10 of Muse standing alone are inside Orakel/Muse; the 4 extra hits on Muse are Museum and Museen in a gallery profile. It is an Alter, not a Wächter (L175).
+
+**Result.** ONE term. No page — the Alter is named as an example („Alters wie Orakel/Muse") and never described. Recorded on alters with its line.
+
+## J44 — Anomalie / Anomalien
+
+**one-term** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** a German plural is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** german-plural, zero-as-a-word
+
+**Question.** the candidate scored 0 as a word — is it absent?
+
+**What was done.** 0 standing alone, 7 including compounds, and all 7 are the plural Anomalien (L188, L280, L282, L285, L464, L469). The reading proposed the singular because that is how a reader holds a term.
+
+**Result.** ONE term, present seven times, written only in the plural. The same shape fold() misses on Guardian/Guardians and Riss/Risse.
+
+## J45 — Riss / Risse
+
+**one-term** · roman-lokalitaeten-konzept-und-ausarbeitung · 2026-09-17 · replay: `judgement`
+
+- **rule:** a German plural is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** german-plural, already-a-surface
+
+**Question.** the page is risse and this document writes both
+
+**What was done.** 6 standing alone as Riss, 40 as Risse, plus Rissen, Riss-Manifestationen, Riss-Ursprung. Single-quoted throughout: 20 of the document's 32 single-quoted tokens are one of the two.
+
+**Result.** ONE term. Already the page's name; recorded because the ledger is also the trainset and fold() still misses this pair.

@@ -3,15 +3,15 @@
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 5,
+      "value": 6,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 5,
+      "value": 6,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 5,
+      "value": 6,
       "how": "files in Sources/notes/"
     },
     "judgements.disagree": {
@@ -23,7 +23,7 @@
       "how": "judgements a rule now claims and still agrees with"
     },
     "judgements.total": {
-      "value": 32,
+      "value": 45,
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
@@ -31,11 +31,11 @@
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
     "quotes.checked": {
-      "value": 322,
+      "value": 572,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 173,
+      "value": 203,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -67,31 +67,31 @@
       "how": "rows in Sources/manifest.jsonl"
     },
     "trainset.fold_baseline_pct": {
-      "value": 65,
+      "value": 58,
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 1,
+      "value": 2,
       "how": "candidate lists written while reading, not reconstructed"
     },
     "trainset.surface_pairs": {
-      "value": 26,
+      "value": 36,
       "how": "labelled one-term/two-terms examples in the ledger"
     },
     "wiki.conflicts": {
-      "value": 4,
+      "value": 5,
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
-      "value": 70,
+      "value": 112,
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 21,
+      "value": 19,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
-      "value": 46,
+      "value": 56,
       "how": "pages counted by the derived Wiki/index.json"
     },
     "wiki.questions": {
@@ -99,7 +99,7 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 48,
+      "value": 89,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     }
   }
