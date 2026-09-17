@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-16"
 ---
 
@@ -138,3 +138,52 @@ document's claim.
 
 **Everything above is proposal.** This document hedges once every 86 words and
 puts 32 of its 91 question marks in the field closest to assertion.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
+
+**This document says `Wächter` and never `Guardian` — not once, in 12,022
+words — and it is the first read source to use the German word analytically.**
+
+The four bearers are given in a parenthesis, in the same order as the levels:
+
+> „die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus,
+> Kairos/Sophia)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35]
+
+They are seated in AEGIS' level:
+
+> „Sitz von AEGIS und den Wächtern in ihrer Systemfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
+
+and the Überwelt holds their infrastructure — a `Kommunikations-Hub` for „die
+Kommunikation zwischen Wächtern/AEGIS" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L232] and a `Wächter-Registry`,
+„Datenbank/Interface zur Verwaltung der Wächter-Parameter" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233].
+
+### One of them is called a Wächter *of* something
+
+> „Cerberus (als Wächter der Mauer)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L370]
+
+which is the word in its ordinary German sense — keeper of a specific thing —
+attached to one of the four. See `grosse-mauer`.
+
+### What this does to the register hypothesis, which was a measurement
+
+Q4 recorded a distribution from document 5: `Guardian` standing alone 22 times
+across every analytic field, `Wächter` three times and never in analysis. The
+hypothesis was that **the English word is the analytic register and the German
+one the fictional register**, and that if it held across more documents it was a
+stance signal rather than a synonym.
+
+**It does not hold.** Here `Wächter` carries all twelve analytic uses and
+`Guardian` is absent. Two documents, opposite distributions, and the difference
+tracks the document rather than the register. See
+`q4-waechter-four-bearers`.
+
+### On the relation to AEGIS, this document assumes rather than argues
+
+Every placement puts the Wächter inside AEGIS' domain, and the document never
+raises the question that document 5 built a chapter out of. It lists them beside
+AEGIS as „Nutzer/Beobachter" of the system monitor ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L472], and it gives AEGIS a
+registry of their parameters ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233] — which is a stronger form of containment
+than anything read so far, and it is stated in passing, as a location's function.
+
+**That is placement, not a statement of the relation.** See
+`q1-guardians-and-aegis`.
