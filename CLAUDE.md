@@ -365,11 +365,33 @@ uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzko
 DSPYTOOLS_SKILLS_DIR=$PWD/.agents/skills .venv-dspytools/bin/dspytools skills list
 ```
 
-`dspytools skills` reads a `SKILL.md` directory as programs it can list, search,
-compile and optimise — which is how a skill written here becomes something DSPy
-can hold rather than only something a person reads. **Nothing in the pipeline
-calls it yet.** It is installed and reachable, and that is all this paragraph
-claims.
+Two packages make a `SKILL.md` written here reachable from DSPy rather than only
+from a person, and they do different halves of it:
+
+```bash
+# the runtime half — a ReAct agent that discovers, activates and uses skills
+uv pip install --python .venv-dspy/bin/python --no-deps \
+    git+https://github.com/netzkontrast/dspy-skills-implementation-
+uv pip install --python .venv-dspy/bin/python strictyaml
+
+# the management half — list, search, compile and optimise skills as artifacts
+uv venv --python 3.12 .venv-dspytools
+uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools
+```
+
+`dspy_skills.SkillManager([Path(".agents/skills")])` discovers all three skills
+here, and `generate_skills_prompt_block(manager)` renders the
+`<available_skills>` block a ReAct agent is given. **That block is built from the
+`description` field and nothing else** — which is why the description is the part
+worth optimising, and `dspy-book-coding-agents` optimises exactly that kind of
+text with GEPA's `optimize_anything`.
+
+`--no-deps` is load-bearing: the package asks for `dspy-ai>=2.5.0`, the old
+distribution name, and resolving it would move this venv off the pinned DSPy
+3.3.1.
+
+**Nothing in the pipeline calls either of them yet.** They are installed and
+reachable, and that is all this section claims.
 
 ## Changing your mind
 
