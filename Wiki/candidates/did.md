@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
+aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung", "Dissoziative Identitätsstörung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie"]
 gathered: "2026-09-16"
 ---
 
@@ -60,3 +60,31 @@ symptoms rather than eliminating the cause ^[kohaerenzprotokoll-aegis-und-system
 
 **This answers a question the first source asked** — *can psychic fragmentation be
 read as a high-entropy state?* ^[entropie-aegis.md:L67]. Yes, and containable.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17 — the diagnosis, spelled out
+
+**The first read source to give DID a clinical grounding rather than a systems
+metaphor.** It is named in full, as the document's central replacement for an
+earlier draft's abstraction:
+
+> „die spezifische psychologische Diagnose einer Dissoziativen
+> Identitätsstörung (DID) beim Protagonisten Michael" ^[kohaerenz-protokoll-konzept.md:L31]
+
+and it states directly what the corpus's other readings had only implied — that
+there is no single "true" personality underneath the [[alters]]:
+
+> „Es gibt keine \"echte\" oder \"ursprüngliche\" Kernpersönlichkeit, sondern eine
+> Konstellation von dissoziierten Selbstzuständen, die aus einem Mangel an
+> frühkindlicher Integration resultieren." ^[kohaerenz-protokoll-konzept.md:L104]
+
+This is the ANP/EP structural-dissociation model, cited by name
+^[kohaerenz-protokoll-konzept.md:L377], and it is offered as a corrective against
+a `Kernpersönlichkeit` framing the document explicitly rejects
+^[kohaerenz-protokoll-konzept.md:L59] — a different axis of disagreement from
+the entropy-versus-multiplicity question `entropie-aegis` leaves open above, and
+not in tension with it: this document never mentions `AEGIS` or `Entropie` at
+all (0 occurrences of either, checked directly against the source).
+
+See [[alters]] for the roster this document proposes, and
+[[multiplizitaet|Multiplizität]] for the therapy-phase structure (Stabilisierung
+/ Traumabearbeitung / Integration) this document builds around the diagnosis.

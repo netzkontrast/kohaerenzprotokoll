@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-16"
 ---
 
@@ -24,6 +24,27 @@ gradual drift it looked like.
 The protagonist, carrying the DID that the whole entropy framing is built around.
 Nothing else about him is in this source — he appears only as the bearer of the
 condition.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+**A full character architecture, dated the same day.** Where `entropie-aegis`
+gives one clause, this document gives him a grounding, a diagnosis and a
+system of parts:
+
+> „Michael wird als eine Person dargestellt, die vor der Bewusstwerdung ihrer
+> DID versucht, ein normales Leben zu führen, möglicherweise in einem Beruf,
+> der Logik oder Struktur erfordert" ^[kohaerenz-protokoll-konzept.md:L103]
+
+His diagnosis is the document's own stated replacement for an earlier draft's
+abstraction:
+
+> „Die abstrakten \"Personas\" (Architekt, Echo etc.) aus V5 werden durch die
+> spezifische psychologische Diagnose einer Dissoziativen Identitätsstörung
+> (DID) beim Protagonisten Michael ersetzt." ^[kohaerenz-protokoll-konzept.md:L31]
+
+See [[personas]] for that supersession in full, and [[did|DID]], [[alters]] and
+[[guardians]] for what his inner system and the [[guardians|Guardians]] who misread it consist
+of on this document's own account.
 
 ## The rename, measured across all 346 landed documents
 

@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept"]
 gathered: "2026-09-17"
 ---
 
@@ -52,3 +52,25 @@ count finds 23 documents carrying the surface (17 distinct, after
 Whether `Partnerin` is a third surface for the entity [[juna|Juna]] and
 [[kael-julia-bindung|Kael-Julia-Bindung]] already name is **open** — see J13, which already records
 that [[kael-julia-bindung]] is probably misnamed.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17 — the link, stated
+
+**One document, read after the open question above was written, states the link
+directly.** It calls the same predecessor draft (`V5`) this page's only source
+already names, and says what the `Partnerin` becomes in the revision:
+
+> „Die eher passive \"Partnerin\" aus V5 wird durch die klar definierte Figur
+> Julia ersetzt, die eine aktive, potenziell transzendente Rolle einnimmt und
+> mit einer neu eingeführten \"externen Ebene\" verbunden ist"
+> ^[kohaerenz-protokoll-konzept.md:L31]
+
+`Partnerin` and `Julia` occur only in this one sentence of this document —
+naming a supersession rather than offering a reading of `Partnerin` on its own
+account, exactly the shape [[personas]] records for `Architekt`/`Echo` in the
+same sentence.
+
+**This is one document's own stated claim, not the wiki's finding.** It answers
+the surface question above for the first time, and it is recorded as a reading
+rather than as a settled identity: nothing here says whether `guardians-und-kern-welten-konzept`,
+which never uses `Julia`, `Juna` or `V5`, is itself an instance of the draft
+being described. See J13 and `Wiki/questions/`.

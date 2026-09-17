@@ -1,10 +1,10 @@
 ---
 term: Personas
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept"]
 aliases: ["Persona", "Bewusstseinsinstanzen"]
 gathered: "2026-09-17"
 ---
@@ -42,3 +42,25 @@ here.
 How many Personas exist, whether each maps to one alter of [[kael|Kael]]'s DID, and how
 `Bewusstseinsinstanz` differs from `Persona` if at all — the document treats
 them as the same thing in one parenthesis and never returns to it.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17 — named as what got replaced
+
+A second document, dated the same day, names `Personas` only to say the concept
+is superseded:
+
+> „Die abstrakten \"Personas\" (Architekt, Echo etc.) aus V5 werden durch die
+> spezifische psychologische Diagnose einer Dissoziativen Identitätsstörung
+> (DID) beim Protagonisten Michael ersetzt." ^[kohaerenz-protokoll-konzept.md:L31]
+
+**`Architekt` and `Echo` are the same two names this page already has** — the
+first two rows of the table above, tied here to `V5` and to Personas generally
+rather than to specific [[kern-welten|Kern-Welten]]. `Personas` and its two named examples occur
+only in this one sentence describing the replacement; the document offers no
+reading of what a Persona is on its own account, the same shape [[partnerin]]
+records for its own supersession sentence in this document.
+
+**Not decided here:** whether this document's `V5` is the same document as
+`guardians-und-kern-welten-konzept`, which is the only other read source naming
+`Architekt` and `Echo` and is itself dated 2025-04-17. Nothing read states it,
+and asserting it would be an inference this page does not make. See
+[[kael]], [[did|DID]].

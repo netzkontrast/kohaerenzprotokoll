@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-16"
 ---
 
@@ -27,6 +27,39 @@ own, marking that the name stands for something rather than naming someone.
 
 Her second appearance is as the other side of the central conflict, paired with
 Michael ^[entropie-aegis.md:L96].
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+**The document that first gives her a person, not only a position — and then
+gives three separate, unresolved accounts of what that person is.** Her role in
+the new draft is stated as an explicit replacement:
+
+> „Die eher passive \"Partnerin\" aus V5 wird durch die klar definierte Figur
+> Julia ersetzt, die eine aktive, potenziell transzendente Rolle einnimmt"
+> ^[kohaerenz-protokoll-konzept.md:L31]
+
+**This is the first read source to connect the surface `Partnerin` to a name at
+all** — see [[partnerin]], where the connection had been open since document 4.
+
+Three hypotheses for the connection to Michael, named in one sentence and none
+chosen:
+
+> „Dies könnte darauf zurückzuführen sein, dass die Verbindung auf Qualia
+> basiert […] Alternativ könnte die Verbindung auf nicht-lokaler
+> Bewusstseinsverschränkung beruhen […] Eine dritte Möglichkeit ist, dass sie
+> als Element der externen Ebene operiert" ^[kohaerenz-protokoll-konzept.md:L128]
+
+and her structural role toward that sixth level, three near-synonyms in one
+sentence, also unchosen:
+
+> „Julia ist der Nexuspunkt, die Brücke oder der Avatar dieser Ebene innerhalb
+> des Systems." ^[kohaerenz-protokoll-konzept.md:L237]
+
+Section X of the document lists exactly this — her connection's nature — as the
+first of its open questions ^[kohaerenz-protokoll-konzept.md:L396], so the
+document is explicit that none of the three is a finding. See
+[[externe-ebene]] and [[kael-julia-bindung]], where the same open-mechanism
+shape recurs two days later under different names.
 
 ## The rename, and why hers is different
 
@@ -84,7 +117,7 @@ Einfluss von Juna" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L89] without
 > „Unfähigkeit, bestimmte Anomalien (Juna?) korrekt darzustellen oder zu
 > lokalisieren." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L471]
 
-**The question mark is the document's.** It lists her beside Kael as one of the
+**The question mark is the document's.** It lists her beside [[kael|Kael]] as one of the
 anomalies the monitor watches for ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L464] and then names her as the one it might
 fail on. See [[system-monitor]], [[blinder-fleck]].
 

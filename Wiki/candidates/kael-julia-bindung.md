@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
-aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie"]
+aliases: ["K-J-Bindung", "Michael-Julia-Verbindung", "Michael-Julia-Dynamik"]
+ingested: ["kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie"]
 gathered: "2026-09-17"
 ---
 
@@ -36,3 +36,32 @@ onward. One term, two surfaces, **nothing announces the switch.**
 Its mechanism. The source lists resonance, entanglement and ontological anchoring
 as candidates ^[L110–115] and settles on none, then names the gap as its own
 open question ^[L239].
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17 — an earlier document, the same open shape
+
+**Two days before this page's only reading, a different document leaves the
+identical question open, under a different name.** `Michael-Julia-Verbindung`
+^[kohaerenz-protokoll-konzept.md:L41] and `Michael-Julia-Dynamik`
+^[kohaerenz-protokoll-konzept.md:L52] are the surfaces this document uses for
+the same bond — no compound with `Kael` or `K-J` occurs here, consistent with
+this document being dated before the [[kael|Kael]]/[[juna|Juna]] rename.
+
+Three hypotheses, named in one sentence and none chosen — the same
+three-and-unresolved shape as the reading above, with different candidates:
+
+> „Dies könnte darauf zurückzuführen sein, dass die Verbindung auf Qualia
+> basiert […] Alternativ könnte die Verbindung auf nicht-lokaler
+> Bewusstseinsverschränkung beruhen […] Eine dritte Möglichkeit ist, dass sie
+> als Element der externen Ebene operiert" ^[kohaerenz-protokoll-konzept.md:L128]
+
+**Not the same three candidates as this page's existing reading** — resonance,
+entanglement and ontological anchoring there; Qualia, non-local entanglement of
+consciousness, and being an element of the external layer here. The middle
+candidate overlaps (`nicht-lokal`/entanglement); the other two do not map
+one-to-one. Recorded as a second, independent instance of the same
+open-mechanism pattern rather than a repetition of the first reading's claim.
+
+Section X of this document names the bond's nature as the first of its open
+questions, and explicit that answering it is what decides the novel's genre
+^[kohaerenz-protokoll-konzept.md:L412] — the same load-bearing status the
+existing reading gives it.
