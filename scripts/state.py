@@ -123,6 +123,30 @@ def _wiki_conflicts() -> int:
     return json.loads(INDEX.read_text(encoding="utf-8"))["conflicts"]
 
 
+@measure("wiki.questions", "question pages in Wiki/questions/, excluding the README")
+def _wiki_questions() -> int:
+    return len([p for p in (ROOT / "Wiki" / "questions").glob("*.md")
+                if p.stem != "README"])
+
+
+@measure("wiki.relations", "a page naming another page as `slug`, scripts/relations.py")
+def _wiki_relations() -> int:
+    from relations import graph
+    return len(graph()["edges"])
+
+
+@measure("wiki.orphans", "pages nothing links to — the relation layer's gap")
+def _wiki_orphans() -> int:
+    from relations import graph
+    return len(graph()["orphans"])
+
+
+@measure("wiki.open_statements", "statements under an Open heading, the question harvest")
+def _wiki_open() -> int:
+    from relations import open_questions
+    return len(open_questions())
+
+
 # ---------------------------------------------------------------- checks
 
 def _verdicts() -> list[str]:

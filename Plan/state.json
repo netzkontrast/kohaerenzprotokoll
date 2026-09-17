@@ -31,11 +31,11 @@
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
     "quotes.checked": {
-      "value": 269,
+      "value": 271,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 155,
+      "value": 160,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -78,9 +78,25 @@
       "value": 4,
       "how": "conflict records counted by the derived Wiki/index.json"
     },
+    "wiki.open_statements": {
+      "value": 70,
+      "how": "statements under an Open heading, the question harvest"
+    },
+    "wiki.orphans": {
+      "value": 22,
+      "how": "pages nothing links to \u2014 the relation layer's gap"
+    },
     "wiki.pages": {
       "value": 46,
       "how": "pages counted by the derived Wiki/index.json"
+    },
+    "wiki.questions": {
+      "value": 3,
+      "how": "question pages in Wiki/questions/, excluding the README"
+    },
+    "wiki.relations": {
+      "value": 45,
+      "how": "a page naming another page as `slug`, scripts/relations.py"
     }
   }
 }

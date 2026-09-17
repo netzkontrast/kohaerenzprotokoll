@@ -31,7 +31,7 @@ landed near-copies (`scripts/duplicates.py --groups`). One must be chosen and th
 choice recorded. No precedent.
 
 **Whether the quote convention or the quote checker changes.**
-155 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+160 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
