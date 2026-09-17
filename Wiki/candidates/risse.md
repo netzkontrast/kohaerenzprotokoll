@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
-ingested: ["entropie-aegis"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -42,3 +42,26 @@ defines them some other way, and this page will need that one beside it.
 What a Riss looks like, what happens to something inside one, and whether they
 are repairable. The brief asks for exactly this
 ^[entropie-aegis.md:L57, L61, L94] and supplies none of it.
+
+## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
+
+**One mechanism, four manifestations — and the manifestation is the world's own
+principle turned against itself.**
+
+| world | how a Riss shows | line |
+|---|---|--:|
+| Konstrukt-Stadt | „Logische Widersprüche werden greifbar" | 39 |
+| Resonanz-Landschaft | „Plötzliche, heftige emotionale Stürme" | 64 |
+| Grenzfeste | „unerklärliche Sicherheitslücken" | 89 |
+| Möglichkeits-Garten | „unkontrollierbare, destruktive Transformationen" | 128 |
+
+Logic made inconsistent, emotion made dissonant, security made porous, growth
+made destructive. That is a single claim about `Risse`, stated four times in
+four vocabularies — and it is more specific than document 1's „direkte
+Manifestationen einer Zunahme von Entropie", without contradicting it.
+
+### `Glitches` confirmed as the same thing
+
+The alias was recorded from document 1. This document puts both in one field
+name — `Manifestation von Rissen/Glitches` — four times, which is as close as
+any source has come to stating the identity outright.

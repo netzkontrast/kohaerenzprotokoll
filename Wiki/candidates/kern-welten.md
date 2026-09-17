@@ -1,24 +1,25 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 2
-readings: 1
+sources: 3
+readings: 2
 conflict: none
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
 
 # Kern-Welten
 
-**Zero readings. The page exists to record that.**
+**For two documents this page had no reading at all, and existed to record
+that.** The third defines four worlds — see the bottom of this page.
 
-## What the source does
+## What the first source does
 
 `entropie-aegis` uses the term **once**, inside a parenthesis, as something
 already understood:
 
-> „das Management von Entropie innerhalb des Systems (Überwelt und **simulierte
+> „dem Management von Entropie innerhalb des Systems (Überwelt und **simulierte
 > Kern-Welten**)" ^[entropie-aegis.md:L93]
 
 That is the entire occurrence. It gives exactly two facts, both by position
@@ -34,13 +35,14 @@ It is also load-bearing. The brief's whole premise is that Kael's fragmented
 psyche is represented as simulated worlds ^[entropie-aegis.md:L21], and these are
 those worlds. **The document depends on a term it never explains.**
 
-## Open
+## Open, as of document 1
 
 Everything. Whether a Kern-Welt corresponds to one alter, how many exist, who
 can enter one, what happens when one destabilises.
 
 A term nothing in this source defines will not announce itself, and nothing here
-says whether another source does.
+says whether another source does. **Two of these were answered three documents
+later**, which is the argument for writing the page early and empty.
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
 
@@ -54,3 +56,31 @@ And they are what AEGIS contains: quarantining unstable data, reinforcing logica
 boundaries, allocating resources ^[kohaerenzprotokoll-aegis-und-systementropie.md:L49].
 
 **Two sources now use the term as known and neither says what one is.**
+
+## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
+
+**Four named worlds, each with its own physics.** Two sources had used the term
+as known and neither defined it; this one specifies four across eight fields
+each.
+
+| world | Guardian | physics |
+|---|---|---|
+| `konstrukt-stadt` | LogOS | „streng kausal, deterministisch und regelbasiert" ^[guardians-und-kern-welten-konzept.md:L36] |
+| `resonanz-landschaft` | Mnemosyne | „nicht-linear, assoziativ und fließend" ^[guardians-und-kern-welten-konzept.md:L61] |
+| `grenzfeste` | Cerberus | „rigiden Regeln, starken, oft undurchdringlichen Grenzen und Barrieren" ^[guardians-und-kern-welten-konzept.md:L86] |
+| `moeglichkeits-garten` | Kairos & Sophia | „nicht-linear, assoziativ und metamorph" ^[guardians-und-kern-welten-konzept.md:L125] |
+
+Each is paired to exactly one Guardian, and the pairing is the document's
+organising principle — every section is a `Guardian/Welt-Paar`.
+
+The worlds also act on each other: every world has an `Interaktion mit anderen
+Welten` field, and each describes how its own disturbances surface in the other
+three ^[guardians-und-kern-welten-konzept.md:L41, L67, L92, L131].
+
+**Three sources have now used `Kern-Welten` and this is the first to say what
+one is.**
+
+### Still open
+
+How many exist in total, and whether one Kern-Welt corresponds to one alter —
+the question document 1 raised and nothing has answered.
