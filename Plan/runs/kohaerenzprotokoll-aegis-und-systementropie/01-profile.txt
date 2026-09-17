@@ -1,0 +1,14 @@
+# kohaerenzprotokoll-aegis-und-systementropie
+  lines                331  (frontmatter ends at 9)
+  body words           6737
+  headings             24   bold-only lines 2
+  table rows           9   code fences 0
+  question marks       23
+  backslash escapes    96
+  typographic marks    26   ascii quotes 122
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    110
+  repeated labels      none
+  longest line         1773 chars
+

@@ -40,20 +40,27 @@ them in order with a carry-forward list catches it.
    did not scale. `Plan/concept/what-is-being-tested_2026-09-16.md` has the
    design and what it makes measurable.
 
-3. **Start timing a census.** The retired pipeline cost $2.79 and 18 minutes per
+3. **Every step keeps its artifact** — `Plan/runs/<slug>/`, written by
+   `scripts/capture.py`. **The first four documents lost their candidate list**,
+   so they cannot be the gold set that three hand-read documents were supposed to
+   provide. Document 5 onward is captured properly.
+
+4. **Start timing a census.** The retired pipeline cost $2.79 and 18 minutes per
    document; the hand process has **no equivalent number at all**, so the
    comparison the whole plan turns on cannot be made. Four documents done, none
    timed.
-4. **Then the conflict records.** `blinder-fleck` is the first with two bearers
-   and no document that knows both — decision 003's case, arrived at for real.
-5. **Then the counter** — not an extractor. The first document showed the tool
+5. ~~**Then the conflict records.**~~ **`C1` and `C2` exist** — AEGIS' three
+   expansions and Entropie's two senses, append-only, in `Wiki/conflicts/`.
+   Decision 003 is real rather than chosen. `blinder-fleck` is the next, with two
+   bearers and no document that knows both.
+6. **Then the counter** — not an extractor. The first document showed the tool
    the work actually wants: *given a list of candidates, report occurrences,
    lines, substring collisions and frontmatter contamination.* Proposing and
    judging stay with the reader. `Plan/learnings/extract-terms.md` has the
    derivation, step by step.
-6. **Then the citation checker**, calibrated against the hand-written pages
+7. **Then the citation checker**, calibrated against the hand-written pages
    first — if it reports errors on careful work, the checker is wrong.
-7. **Then measure one model** against the hand-written censuses and notes as a
+8. **Then measure one model** against the hand-written censuses and notes as a
    gold set, and **then** the budget is yours to decide, priced from real
    numbers rather than from the retired system's $2.79 per document.
 

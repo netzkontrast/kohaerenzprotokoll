@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      8
+  backslash escapes      0
+  typographic marks      20
+  ascii quotes           108
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemarchitektur, Systeme, Systemen, Systemfehler, Systemfehlern, Systemfunktion, Systemgesundheit, Systemgrenzen, Systeminstabilitäten, Systemintegrität, Systemkorruption, Systemlogik, Systemorientierung, Systemprotokollen, Systemregeln, Systems, Systemschwachstellen, Systemstrukturen, Systemverwaltung, Systemzustand, Systemzustands
+  daten    Daten, Datenanalyse, Datenanzeigen, Datenblockaden, Datenflüssen, Datenkorruption, Datenlücke, Datenmustern, Datenpunkte, Datenstrukturen, Datenströmen
+  erinn    Erinnerung, Erinnerungen, Erinnerungsbildern, Erinnerungsfragmente, Erinnerungslandschaft, Erinnerungsprozesse
+  siche    Sicherheit, Sicherheitsanalyse, Sicherheitslücken, Sicherheitsperspektive, Sicherheitsprotokollen, Sicherheitsschwachstellen
+  bedro    Bedrohung, Bedrohungen, Bedrohungsbewertungen, Bedrohungserkennung, Bedrohungsstufen
+  gefüh    Gefühl, Gefühle, Gefühlen, Gefühls, Gefühlsausbrüche
+  grund    Grund, Grundannahmen, Grundhaltung, Grundkonzept, Grundlage
+  inter    Interaktion, Interaktionen, Interface, Interferenzen, Interpretationen
+  reali    Realität, Realitäten, Realitätssimulationen, Realitätstypen, Realitätswahrnehmung
+  abweh    Abwehr, Abwehraktionen, Abwehrmaßnahmen, Abwehrmechanismen
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsinstanzen, Bewusstseinskomponenten
+  fehle    Fehlen, Fehler, Fehlercodes, Fehlern
+  grenz    Grenzen, Grenzfeste, Grenzschutz, Grenzwächter
+  infor    Information, Informationen, Informationsflusses, Informationsstaus
+  licht    Licht, Lichtlinien, Lichtreflexen, Lichtschein
+  regel    Regelbasiertheit, Regeln, Regelverstöße, Regelverstößen
+  seele    Seele, Seelen, Seelenkern, Seelenkohärenz
+  stimm    Stimme, Stimmigkeit, Stimmung, Stimmungen
+  symbo    Symbol, Symbole, Symbolen, Symbolik
+  unvor    Unvorhersagbarkeit, Unvorhersehbare, Unvorhersehbaren, Unvorhersehbarkeit
+  wisse    Wissen, Wissens, Wissensrahmen, Wissenssystem
+  analy    Analyse, Analysefähigkeiten, Analysen
+  blind    Blinden, Blinder, Blindheit
+  eleme    Element, Elemente, Elementen
+  energ    Energie, Energieleitungen, Energieschilde
+
+# substring pairs -- never one term, often merged by accident
+  Welt < Welten
+  Welt < Innenwelt
+  Welt < Weltenstruktur
+  Teil < Teile
+  Teil < Gegenteil
+  Teil < Bestandteil
+  Plot < Plots
+  Plot < Plotstruktur
+  Zeit < Gleichzeitig
+  Zeit < Reaktionszeit
+  Zeit < Zeitwahrnehmung
+  Echo < Echos
+  Raum < Trauma
+  Raum < Überraum
+  Raum < Traumata
+  Raum < Schutzraum
+  Raum < Traumamuster
+  Paar < Paare
+  Sinn < Sinne
+  Sinn < Sinnfindung

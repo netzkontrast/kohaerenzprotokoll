@@ -1,0 +1,14 @@
+# guardians-und-kern-welten-konzept
+  lines                142  (frontmatter ends at 9)
+  body words           5839
+  headings             16   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    20   ascii quotes 108
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    8
+  repeated labels      Bezug zu Themen x9, Beziehung zu anderen Guardians x5, Domäne x5, Epistemologischer Fokus x5, Kernfunktion/Mandat x5, Limitationen/Blinder Fleck x5, Persönlichkeit/Haltung x5, Repräsentation im Nexus x5, Stärken x5, Grundkonzept/Zweck x4, Interaktion mit anderen Welten x4, Manifestation von Rissen/Glitches x4, Partnerin-Echos hier x4, Regeln/Physik/Logik x4, Symbolik x4, Ästhetik/Atmosphäre x4
+  longest line         1776 chars
+

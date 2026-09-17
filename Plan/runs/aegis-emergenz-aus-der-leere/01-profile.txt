@@ -1,0 +1,14 @@
+# aegis-emergenz-aus-der-leere
+  lines                311  (frontmatter ends at 9)
+  body words           6548
+  headings             34   bold-only lines 2
+  table rows           19   code fences 0
+  question marks       25
+  backslash escapes    51
+  typographic marks    9   ascii quotes 108
+  invisible characters U+200Bx100
+  math symbol lines    36
+  glued ref numbers    116
+  repeated labels      Beschreibung x8, Kritik des Formalismus x8, Vergleich x8, Bewertung x6, Plausibilität x4, Probleme x4
+  longest line         1412 chars
+

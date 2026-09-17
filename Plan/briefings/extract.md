@@ -1,6 +1,6 @@
 ---
 step: extract
-version: 4
+version: 5
 covers_documents: 4
 new_findings_last_document: 5
 ---
@@ -27,9 +27,13 @@ behind each question is in `Plan/learnings/extract-terms.md`, which is read
 ## 0 · Before reading
 
 ```bash
-python3 scripts/profile.py <slug>                    # the structural facts
+python3 scripts/capture.py <slug>                    # opens the run, writes 01 and 02
 python3 scripts/profile.py --frontmatter <slug>      # the census header, from the manifest
 ```
+
+`Plan/runs/<slug>/` now holds this run. **Every step writes into it** — that is
+how the process becomes something that can be studied instead of something that
+happened.
 
 **Never type a `drive_id`, title or date.** One was fabricated once, and a wrong
 identifier looks exactly like a right one.
@@ -40,7 +44,12 @@ depending on them.
 
 ## 1 · Read the whole document, with line numbers, before counting anything
 
-Write down every candidate while reading. **Counting first anchors the list to
+**Write every candidate into `Plan/runs/<slug>/03-candidates.md` as you read,
+one `- term` per line.** This is the only artifact of the run a program cannot
+produce and the baseline any model gets scored against, so it is written *during*
+the read, not reconstructed after.
+
+`--count` refuses to run without it. **Counting first anchors the list to
 whatever a regex proposes**, and roughly half of what has been found so far is
 invisible to one.
 
@@ -96,13 +105,21 @@ Each of these defeats exact matching and quote verification **silently**.
 
 ## 3 · Count mechanically, and let the counts correct the list
 
+```bash
+python3 scripts/capture.py <slug> --count            # writes 04-counts.txt
+```
+
 A count that disagrees with the reading is usually right about the number and
-wrong about the meaning. Both get recorded.
+wrong about the meaning. Both get recorded. Its line numbers are **file** lines,
+as a citation writes them.
 
 ## 4 · Verify every number before it goes into prose
 
-Numbers written from memory have been wrong three times so far. Re-run the count
-for each one that appears in a sentence.
+Numbers written from memory have been wrong three times so far, and one
+`drive_id` was fabricated outright. Re-run the count for each number that appears
+in a sentence, **and write the commands and their output to
+`Plan/runs/<slug>/05-verify.txt`** — a verification nobody can see is a claim
+that it happened.
 
 ## 5 · Record afterwards
 

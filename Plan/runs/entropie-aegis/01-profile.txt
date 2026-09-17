@@ -1,0 +1,14 @@
+# entropie-aegis
+  lines                100  (frontmatter ends at 9)
+  body words           1314
+  headings             0   bold-only lines 6
+  table rows           0   code fences 0
+  question marks       22
+  backslash escapes    18
+  typographic marks    2   ascii quotes 46
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    0
+  repeated labels      none
+  longest line         777 chars
+

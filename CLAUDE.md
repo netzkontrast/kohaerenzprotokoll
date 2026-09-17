@@ -217,6 +217,25 @@ that survives because nobody counted is a lie the repository tells itself. A
 construct that dies on first objection takes with it every question it was the
 only way to ask.
 
+## Every step keeps its artifact
+
+A census is the output of six steps. Five of them used to run in a terminal and
+vanish, which made the process impossible to study — you could not tell how a
+census was arrived at, compare a model against a person, or see what a probe
+would have caught.
+
+`Plan/runs/<slug>/` holds one directory per document: the profile, the probes,
+**the candidate list written while reading**, the counts, the verification runs,
+and the timings. `scripts/capture.py` writes what is deterministic and refuses to
+count before a candidate list exists, because counting first decides what gets
+seen.
+
+**The candidate list is the one artifact a program cannot produce**, and it is
+the baseline anything automated gets scored against. The first four documents
+have none — it was never written down — so their reconstructions are marked as
+reconstructions and **cannot serve as a gold set.** `Plan/runs/README.md` says so
+plainly rather than papering over it.
+
 ## Learnings
 
 `Plan/learnings/` holds one file per step: what was learned, what the tool must

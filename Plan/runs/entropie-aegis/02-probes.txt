@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      0
+  backslash escapes      18
+  typographic marks      2
+  ascii quotes           46
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabstürze, Systemarchitektur, Systeme, Systemen, Systemgesundheit, Systeminstabilität, Systemkollaps, Systems, Systemtheorie
+  infor    Informatik, Information, Informationsgehalt, Informationssystemen, Informationstheorie, Informationsverlusts
+  konze    Konzept, Konzepte, Konzepts, Konzeptuelle, Konzeptuelles
+  fehle    Fehler, Fehlerkorrektur, Fehlerkorrekturcodes, Fehlern
+  kontr    Kontrolle, Kontrollinstanz, Kontrollkapazität, Kontrollverlust
+  daten    Daten, Datenkorruption, Datenströmen
+  defin    Definieren, Definition, Definitionen
+  funkt    Funktion, Funktionalität, Funktionen
+  integ    Integrationssystem, Integrity, Integrität
+  konfl    Konflikt, Konflikte, Konflikts
+  reche    Recherche, Rechercheauftrag, Recherchebereiche
+  roman    Roman, Romanprojekt, Romans
+  signa    Signal, Signale, Signatur
+  struk    Struktur, Strukturen, Strukturierung
+  zerfa    Zerfall, Zerfalls, Zerfallstendenzen
+  aktiv    Aktivierung, Aktivitäten
+  anwen    Anwendung, Anwendungen
+  beisp    Beispiele, Beispielen
+  bewus    Bewusstseinssystem, Bewusstseinszustände
+  block    Blockieren, Blockiert
+  entro    Entropic, Entropie
+  entwi    Entwickeln, Entwicklung
+  erklä    Erklärung, Erklärungen
+  exist    Existenz, Existenzberechtigung
+  frage    Fragen, Fragestellungen
+
+# substring pairs -- never one term, often merged by accident
+  Sein < Seine
+  Sein < Bewusstseinssystem
+  Sein < Bewusstseinszustände
+  Kern < Kernkontext
+  Kern < Kernkonflikt
+  Kern < Kernfunktion
+  Welt < Welten
+  Welt < Überwelt
+  Form < Informatik
+  Form < Information
+  Form < Ausgabeformat
+  Form < Informationsgehalt
+  Form < Informationstheorie
+  Form < Informationsverlusts
+  Form < Informationssystemen
+  Ziel < Zielsetzung
+  Code < Fehlerkorrekturcodes
+  Dies < Diese
+  Roman < Romans
+  Roman < Romanprojekt
