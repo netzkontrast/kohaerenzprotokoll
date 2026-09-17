@@ -13,9 +13,14 @@ is read by something later, which is why the shape matters.
 | `04-counts.txt`, `counts.json` | `capture.py --count` | two numbers per term, plus surfaces |
 | `reconcile-pre.json` | `reconcile.py <slug>` | lookup versus judgement |
 | `reconcile.json` | a person | what the run left |
+| `03-candidates-rlm.md` | `rlm_ingest.py` | a model's list. **Never gold**, and never merged into the file above |
 | `run.md` | a person, when there is something to say | timings, and what is missing. **No script writes it** — `capture.py`'s docstring claimed it did, in three places, and no run had one |
 
-`03-candidates.md` is one `- term` per line. A prose section is allowed and is
+`03-candidates.md` opens with `written_by:` and is one `- term` per line. A
+model's list is a **different file**, `03-candidates-rlm.md`, and says so on its
+own first line — `state.py` reads that line, because the test it replaced („does
+the head contain 'reconstruct'") passed a model's list and failed a list whose
+prose denied being a reconstruction. A prose section is allowed and is
 filtered out — only `- term` lines count, which was learned when nine sentences
 from an „open while reading" section were counted as candidates and reported at
 0 occurrences, a shape indistinguishable from a term the document turned out not

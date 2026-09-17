@@ -44,6 +44,15 @@ refuses without it. Do not weaken that refusal, and do not reconstruct the list
 afterwards — four reconstructed lists exist, are marked as reconstructions, and
 `trainset.py` refuses them.
 
+**And a gold list is one reading, not the truth.** Two independent readings of
+one document, neither seeing the other, produced **131 and 113 candidates with 80
+shared** — F1 **0.66** against each other; a second pair gave 109 against 143,
+and one of the two raised a conflict the other never saw. So „the model scored
+0.7" means nothing on its own: **0.66 is the human ceiling**, and a score clearly
+above it is most likely fitted to one reader. When you compare lists, print both
+difference lists by name — a miss is not automatically an error and an invention
+is not automatically wrong.
+
 ## 1 · Open the run
 
 ```bash
@@ -124,6 +133,15 @@ that look right: a correct line, a correct meaning, and **words the document
 never contained** — a nominative written for a genitive, „das Management" for
 „dem Management".
 
+**And qualify every citation on a page that will carry a second document.** A
+bare `^[Lnn]` resolves against the page's single `ingested:` entry, so the moment
+a page gains a second one `quotes.py` stops checking it — correctly, since it
+refuses to guess which document is meant. Adding one document's readings moved
+**95 verified quotations into the unchecked bucket with nothing going red**,
+because an unchecked quote is not a failure. Write `^[slug.md:Lnn]` on any page
+you add a second source to, and compare the *checked* count before and after, not
+only the failures.
+
 Five rules govern a quotation here, four of them inherited and one checked:
 
 - no citation → the claim is dropped, not kept unsourced
@@ -162,6 +180,16 @@ three worlds as six new terms. **A green replay says the recorded decisions stil
 hold, not that the code around them is right.**
 
 ## 6 · Record what the run left
+
+```bash
+python3 scripts/link.py --apply                   # a new page arrives linked to nothing
+```
+
+Ten pages from one reconciliation arrived as ten orphans, and the graph said the
+wiki had grown *less* connected by growing. `link.py` marks only terms the prose
+already wrote and never touches a line carrying a `^[` citation — run `quotes.py`
+after it anyway, because the first such pass put a link inside two quotations and
+that is how it was found.
 
 Write `Plan/runs/<slug>/reconcile.json` with `state_before` and `state_after`, and
 `Wiki/compare/reconcile-NN-<slug>.md` as the prose record. `references/artifacts.md`
@@ -212,6 +240,13 @@ enumerate. `Kernwelt` is in 144 landed documents and a forty-hit list is not a
 census of that — measured, the line defining `KW1` is not in the top forty,
 because BM25 favours short, early chunks. Every number in a page or a learning
 comes from `corpus.py`, `duplicates.py` or a count that says what it counted.
+
+**Never write `03-candidates.md` from a model.** A model's list goes to
+`03-candidates-rlm.md` and states `written_by:`, which `state.py` reads. The gold
+list and the thing gold scores must not be able to become each other, and the
+prose is not enough to tell them apart: „does the head contain 'reconstruct'"
+once passed a model's list and failed a list whose prose *denied* being a
+reconstruction.
 
 **Never grade your own candidate list.** Extraction's independence is what makes
 reconciliation safe, and a self-scored recall term is that same defect moved one

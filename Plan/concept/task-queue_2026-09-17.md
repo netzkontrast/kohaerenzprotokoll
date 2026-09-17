@@ -1,8 +1,13 @@
 # A task queue that cannot be wrong — derived, not maintained
 
-*2026-09-17. Concept, not a build. Written because work has started triggering
-other work: merging document 6 silently invalidated two finished reconciliations,
-and nothing but a person noticed.*
+> **An idea, written down. Not scheduled, not started, and not to be started
+> without a fresh reason.** It is in `PRINCIPLES.md`'s catalogue so that picking
+> it up later is a small job rather than a re-derivation. Nothing below is a
+> commitment; the *last* section says what would have to happen first.
+
+*2026-09-17. Written because work has started triggering other work: merging
+document 6 silently invalidated two finished reconciliations, and nothing but a
+person noticed.*
 
 ## First: the transcript exists, and it is what postpones the task safely
 
@@ -138,16 +143,25 @@ Six rules, five of which are two lines of existing code each. The sixth — the
 `reconcile` staleness test — is the one that had to be learned, and it was
 learned the expensive way today.
 
-## The order
+## What would have to be true before this is built
 
-1. **The registry and the three states**, over the six rules above. It reports;
-   it changes nothing.
-2. **`--check`**, the refusal: non-zero when an open task's dependency is open.
-   Add it to the invariants the `tools` skill runs first.
-3. **Only then, if it has earned it:** a `--why <task>` that prints the chain of
-   preconditions, because by then there will be a task whose blockage is not
-   obvious.
+P3 says by hand first, and P4 says no construct without instances. Both apply,
+and today supplies **one** instance — the document-6 merge. One is a story, not
+a pattern.
 
-**Retire when:** three sessions pass in which the queue reports nothing a person
-had not already written in `NOW.md`. Then the measurement was the ceremony, and
-`NOW.md` was enough.
+So this waits for evidence, not for a free afternoon:
+
+- **Three more cases where finished work was invalidated by a later change**, and
+  in at least one of them nobody noticed until it caused a second defect.
+  Document 7 is case one. Two more, and the queue has earned its build.
+- **Or one case where a task started whose dependency was open**, and the two
+  refusals that already exist (`capture.py --count`, `account.py order`) did not
+  catch it. That would show the generalisation is needed rather than tidy.
+
+Until then `NOW.md` holds the postponed reconciliation in one sentence, which is
+what `NOW.md` is for, and `account.py order` already fails on the case that
+matters. **A queue built now would be a board with better manners.**
+
+If it is ever built, the order is: the registry and the three states first,
+reporting only; then `--check`, the refusal; and a `--why <task>` last, and only
+once a real blockage is not obvious from reading the output.
