@@ -63,6 +63,33 @@ python3 scripts/sources.py status     # by category and tier
 python3 scripts/sources.py check      # manifest against disk
 ```
 
+## One operation, at several scales
+
+The steps below grew one at a time, each with its own script and artifact format.
+They are the same operation with different arguments:
+
+    account(subject, question) -> account
+
+| subject | the account |
+|---|---|
+| a document | the census, the note |
+| a term | the page |
+| two surfaces | one term or two — `Plan/runs/judgements.jsonl` |
+| the corpus | a count, a plan, a timeline |
+
+And each decomposes into the same operation on smaller subjects: a term across
+315 documents is that term in each, then the merge.
+
+**A pipeline of N steps needs N rule sets, N formats and N learnings files, and
+grows forever.** One recursive operation needs one, and what grows instead is the
+library of decompositions in `scripts/rules/` — the part a project actually
+learns. `scripts/account.py` is the verb; `scripts/subject.py` is the substrate
+every script asks, which is why the frontmatter boundary now has exactly one
+implementation instead of four.
+
+That framing is `Plan/concept/rlm-the-real-one_2026-09-17.md` and it is **newer
+than the steps below**, which still describe how the work is actually done.
+
 ## The process
 
 Seven steps. Three of them are a person.

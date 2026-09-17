@@ -34,6 +34,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 RUNS = ROOT / "Plan" / "runs"
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import subject  # noqa: E402
 PROFILE = ROOT / "scripts" / "profile.py"
 MANIFEST = ROOT / "Sources" / "manifest.jsonl"
 
@@ -46,8 +49,7 @@ WORD = re.compile(r"[A-ZÄÖÜ][A-Za-zäöüß]{3,}")
 
 def drive_id_of(slug: str) -> str:
     """The manifest's id for a slug, copied. One was typed once and was invented."""
-    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
-        row = json.loads(line)
+    for row in subject.rows():
         if row.get("slug") == slug:
             return row["drive_id"]
     sys.exit(f"no manifest row with slug {slug!r}")
@@ -71,20 +73,19 @@ def write_json(run: Path, slug: str, step: str, payload: dict, by: str) -> None:
 
 
 def body_of(slug: str) -> tuple[Path, str, int]:
-    """Return the path, the body text, and the file line the body starts on.
+    """Path, body, and the file line the body starts on -- from `subject`.
 
-    The offset is returned rather than assumed because citations count from line
-    1 of the file while extraction skips the frontmatter. Reporting a body-local
-    line number as if it were a file line produces a citation that resolves to
-    the wrong text -- silently, since both are valid line numbers.
+    The offset is returned rather than assumed because citations count from line 1
+    of the file while extraction skips the frontmatter. Reporting a body-local line
+    number as a file line produces a citation that resolves to the wrong text --
+    silently, since both are valid line numbers. That bug was live in this
+    function once, which is why the boundary now has exactly one implementation.
     """
-    path = ROOT / "Sources" / "drive" / f"{slug}.md"
-    if not path.exists():
-        sys.exit(f"no landed document with slug {slug!r}")
-    lines = path.read_text(encoding="utf-8").split("\n")
-    marks = [i for i, line in enumerate(lines) if line.strip() == "---"]
-    start = marks[1] + 1 if len(marks) >= 2 and marks[0] == 0 else 0
-    return path, "\n".join(lines[start:]), start + 1
+    try:
+        doc = subject.document(slug)
+    except KeyError as exc:
+        sys.exit(str(exc))
+    return doc.path, doc.body, doc.offset
 
 
 def inflection_families(text: str, minimum: int = 2) -> list[tuple[str, list[str]]]:

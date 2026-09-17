@@ -32,29 +32,17 @@ DERIVED = ROOT / "Plan" / "derived"
 EXCEPTIONS = ROOT / "Plan" / "rules" / "exceptions.jsonl"
 
 sys.path.insert(0, str(ROOT / "scripts"))
+import subject  # noqa: E402
 from rules import load  # noqa: E402
 
 
 def documents() -> list[dict]:
-    """Every landed row, with the body and the found frontmatter offset."""
-    docs = []
-    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
-        row = json.loads(line)
-        if not row.get("export_path"):
-            continue
-        path = ROOT / row["export_path"]
-        if not path.exists():
-            continue
-        lines = path.read_text(encoding="utf-8").split("\n")
-        marks = [i for i, l in enumerate(lines) if l.strip() == "---"]
-        start = marks[1] + 1 if len(marks) >= 2 and marks[0] == 0 else 0
-        docs.append({
-            "slug": row["slug"], "category": row.get("category", "?"),
-            "date": row.get("index_date") or "?", "format": row.get("format", "?"),
-            "sha256": row.get("sha256", ""), "path": str(path),
-            "body": "\n".join(lines[start:]), "offset": start + 1,
-        })
-    return docs
+    """Every landed document as a plain dict, from the one place that finds them."""
+    return [
+        {"slug": d.slug, "category": d.category, "date": d.date, "format": d.format,
+         "sha256": d.sha256, "path": str(d.path), "body": d.body, "offset": d.offset}
+        for d in subject.documents()
+    ]
 
 
 def exceptions() -> dict[tuple[str, str], str]:

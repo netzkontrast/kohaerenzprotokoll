@@ -33,6 +33,16 @@
   frage    Fragen, Fragestellungen
 
 # substring pairs -- never one term, often merged by accident
+  Sein < Seine
+  Sein < Bewusstseinssystem
+  Sein < Bewusstseinszustände
+  Welt < Welten
+  Welt < Überwelt
+  Ziel < Zielsetzung
+  Kern < Kernkontext
+  Kern < Kernkonflikt
+  Kern < Kernfunktion
+  Dies < Diese
   Form < Informatik
   Form < Information
   Form < Ausgabeformat
@@ -41,15 +51,5 @@
   Form < Informationsverlusts
   Form < Informationssystemen
   Code < Fehlerkorrekturcodes
-  Welt < Welten
-  Welt < Überwelt
-  Dies < Diese
-  Sein < Seine
-  Sein < Bewusstseinssystem
-  Sein < Bewusstseinszustände
-  Kern < Kernkontext
-  Kern < Kernkonflikt
-  Kern < Kernfunktion
-  Ziel < Zielsetzung
-  Roman < Romans
-  Roman < Romanprojekt
+  Daten < Datenströmen
+  Daten < Datenkorruption

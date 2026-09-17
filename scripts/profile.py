@@ -26,6 +26,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "Sources" / "manifest.jsonl"
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import subject  # noqa: E402
+
 HEADING = re.compile(r"^#{1,6} ")
 BOLD_ONLY = re.compile(r"^\*\*.+\*\*\s*$")
 ESCAPE = re.compile(r"\\[\[\]*\"_]")
@@ -34,18 +37,6 @@ INLINE_LABEL = re.compile(r"\*\*([A-ZÄÖÜ][^*\n]{2,40}):\*\*")
 MATH = re.compile(r"[\u2205\u2192\u2261\u2208\u2286\u2227\u2228\u22c3\u03bb\u03a3\u03c3\u03bc\u03a0\u0394\u03b8\u03b1\u03d5\u2295\u22a2]")
 TYPOGRAPHIC = "\u201e\u201c\u201d\u2018\u2019\u2013\u2014"
 INVISIBLE = {"\u200b", "\u200c", "\u200d", "\u2060", "\ufeff"}
-
-
-def split_frontmatter(lines: list[str]) -> tuple[int, list[str]]:
-    """Return (last frontmatter line number, body lines).
-
-    The frontmatter boundary is found, never assumed: a document whose header is
-    a different length must not silently shift every count by a few lines.
-    """
-    marks = [i for i, line in enumerate(lines) if line.strip() == "---"]
-    if len(marks) >= 2 and marks[0] == 0:
-        return marks[1] + 1, lines[marks[1] + 1 :]
-    return 0, lines
 
 
 def repeated_labels(text: str, minimum: int = 3) -> list[tuple[str, int]]:
@@ -70,14 +61,18 @@ def invisible_chars(text: str) -> dict[str, int]:
     return found
 
 
-def profile(path: Path) -> dict:
-    lines = path.read_text(encoding="utf-8").split("\n")
-    fm_end, body = split_frontmatter(lines)
-    text = "\n".join(body)
+def profile(doc) -> dict:
+    """The same probes, in the same order, for every document.
+
+    The frontmatter boundary comes from `subject`, which is the only place in the
+    repository that finds it. This module used to find it again, separately.
+    """
+    body = doc.lines()
+    text = doc.body
     return {
-        "slug": path.stem,
-        "lines": len(lines),
-        "frontmatter_ends": fm_end,
+        "slug": doc.slug,
+        "lines": len(body) + doc.offset - 1,
+        "frontmatter_ends": doc.offset - 1,
         "body_words": sum(len(line.split()) for line in body),
         "headings": sum(1 for line in body if HEADING.match(line)),
         "bold_only_lines": sum(1 for line in body if BOLD_ONLY.match(line)),
@@ -131,11 +126,9 @@ def summarise() -> str:
     import statistics
     from collections import defaultdict
 
-    category = {r["slug"]: r["category"] for r in manifest_rows() if r.get("export_path")}
     groups: dict[str, list[dict]] = defaultdict(list)
-    for path in landed_paths():
-        p = profile(path)
-        groups[category.get(p["slug"], "?")].append(p)
+    for doc in subject.documents():
+        groups[doc.category].append(profile(doc))
 
     def median(items: list[dict], key: str) -> float:
         return statistics.median([item[key] for item in items])
@@ -173,7 +166,7 @@ def census_frontmatter(slug: str) -> str:
             continue
         if not row.get("export_path"):
             sys.exit(f"{slug!r} is in the manifest but has not landed")
-        p = profile(ROOT / row["export_path"])
+        p = profile(subject.document(slug))
         return "\n".join(
             [
                 "---",
@@ -205,22 +198,15 @@ def census_frontmatter(slug: str) -> str:
     sys.exit(f"no manifest row with slug {slug!r}")
 
 
-def landed_paths() -> list[Path]:
-    paths = []
-    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
-        row = json.loads(line)
-        if row.get("export_path"):
-            path = ROOT / row["export_path"]
-            if path.exists():
-                paths.append(path)
-    return paths
+def landed_paths() -> list:
+    return list(subject.documents())
 
 
-def resolve(slug: str) -> Path:
-    path = ROOT / "Sources" / "drive" / f"{slug}.md"
-    if not path.exists():
-        sys.exit(f"no landed document with slug {slug!r}")
-    return path
+def resolve(slug: str):
+    try:
+        return subject.document(slug)
+    except KeyError as exc:
+        sys.exit(str(exc))
 
 
 def main(argv: list[str]) -> int:
@@ -235,8 +221,8 @@ def main(argv: list[str]) -> int:
         print(summarise())
         return 0
     if argv[0] == "--all":
-        for path in landed_paths():
-            print(json.dumps(profile(path)))
+        for doc in subject.documents():
+            print(json.dumps(profile(doc)))
         return 0
     for slug in argv:
         print(render(profile(resolve(slug))))
