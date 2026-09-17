@@ -24,6 +24,7 @@ actually learns.
     python3 scripts/account.py term <term>
     python3 scripts/account.py pair <a> <b>
     python3 scripts/account.py corpus
+    python3 scripts/account.py order            # does the pipeline order hold?
 
 This is a facade, deliberately. It delegates to the scripts that already work
 rather than replacing them: the claim that these are one operation is worth
@@ -125,6 +126,63 @@ def account_pair(first: str, second: str) -> dict:
     }
 
 
+def account_order() -> dict:
+    """Does the pipeline's dependency order hold, per document?
+
+    The steps have an order — extract before reconcile, and each reconciliation
+    against the state the previous one left. Nothing enforced it, and it broke:
+    document 4 was first reconciled against 14 pages, the state document 1 left,
+    while document 3 had already taken it to 24.
+
+    Borrowed from the RLM-workflow skill's `validate_dag`, whose point is that the
+    ordering is plain Python and must never be left to judgement: it will be wrong
+    on the day it matters. Here the order is checked rather than assumed.
+    """
+    runs = ROOT / "Plan" / "runs"
+    rows, violations = [], []
+    for census in sorted((ROOT / "Sources" / "terms").glob("*.md")):
+        slug = census.stem
+        note = (ROOT / "Sources" / "notes" / f"{slug}.md").exists()
+        record = runs / slug / "reconcile.json"
+        state = None
+        if record.exists():
+            state = json.loads(record.read_text(encoding="utf-8")).get("state_before")
+        rows.append({"document": slug, "census": True, "note": note,
+                     "reconciled": record.exists(), "state_before": state})
+        if not record.exists():
+            violations.append({"document": slug, "kind": "not-reconciled",
+                               "detail": "has a census, has not been reconciled against the wiki"})
+
+    done = [r for r in rows if r["state_before"]]
+    done.sort(key=lambda r: r["state_before"]["pages"])
+    seen = -1
+    for row in done:
+        pages = row["state_before"]["pages"]
+        if pages <= seen:
+            violations.append({"document": row["document"], "kind": "stale-state",
+                               "detail": f"reconciled against {pages} pages, but an earlier "
+                                         f"reconciliation had already reached {seen}"})
+        seen = max(seen, pages)
+
+    index = build_index()
+    latest = max((r["state_before"]["pages"] for r in done), default=0)
+    if index["pages"] != latest and done:
+        last = max(done, key=lambda r: r["state_before"]["pages"])["document"]
+        violations.append({
+            "document": "(wiki)", "kind": "state-moved-since",
+            "detail": f"the wiki holds {index['pages']} pages; the newest reconciliation "
+                      f"({last}) ran against {latest}. Anything reconciled next must use "
+                      f"{index['pages']}.",
+        })
+
+    return {
+        "subject": {"kind": "order", "id": "pipeline"},
+        "documents": rows,
+        "violations": violations,
+        "holds": not violations,
+    }
+
+
 def account_corpus() -> dict:
     docs = subject.documents()
     index = build_index()
@@ -152,6 +210,7 @@ def main(argv: list[str]) -> int:
         "term": lambda: account_term(args[0]),
         "pair": lambda: account_pair(args[0], args[1]),
         "corpus": account_corpus,
+        "order": account_order,
     }
     if kind not in handlers:
         sys.exit(f"unknown subject kind {kind!r} — one of {', '.join(handlers)}")
