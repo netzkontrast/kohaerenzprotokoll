@@ -8,7 +8,7 @@ operation with different arguments:
     note        a document   -> a structured account of it
     reconcile   census+wiki  -> a structured account of the difference
     gather      readings     -> a structured account of a term
-    corpus      term+409     -> a structured account
+    corpus      term         -> a structured account
     judgement   two surfaces -> a structured account of whether they are one
 
 All of them are `account(subject, question)`, and each decomposes into the same
@@ -92,7 +92,8 @@ def account_term(term: str) -> dict:
     return {
         "subject": {"kind": "term", "id": term},
         "in_corpus": {"documents": docs, "occurrences": occurrences,
-                      "first": first, "last": last, "of_409": round(docs / 409 * 100, 1)},
+                      "first": first, "last": last,
+                      "of_corpus_pct": round(docs / len(subject.documents()) * 100, 1)},
         "in_wiki": ({"page": page, **{k: v for k, v in index["terms"][page].items()
                                       if k in ("sources", "readings", "conflict", "ingested")}}
                     if page else None),

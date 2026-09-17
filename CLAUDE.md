@@ -220,6 +220,14 @@ markdown emphasis, blockquote wrapping, glued footnote numbers, inline
 attribution markers. It says how many quotes it could not check rather than
 counting them as passed.
 
+**And `python3 scripts/selftest.py` proves it can fail.** Six quotation cases and
+seven `fold()` pairs, each carrying the exact defect the checker must name, so a
+case that fails for the wrong reason fails the test. Nobody had ever seen either
+checker fail — which is the shape of the retired pipeline's worst defect: a
+coverage term that returned 1.0 whenever no gold fragments were passed, and was
+never passed any. Two live runs scored 0.987 and 0.967 on a number that could not
+fall for missing anything.
+
 **Conflict detection is never mechanised.** Two readings can only be compared by
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
 conflict.
@@ -263,95 +271,34 @@ right is the author's call, never the page's.
 
 ## Searching the corpus
 
-`qmd` (github.com/tobi/qmd) indexes five collections — `sources`, `wiki`,
-`census`, `notes`, `plan` — and answers a lowercase German phrase in about 0.2s
-with file and line. `scripts/corpus.py` cannot: its index holds capitalised
-tokens only, and anything else falls back to reading all 346 files.
+`qmd` (github.com/tobi/qmd) indexes seven collections named for purpose and
+answers a German phrase with a file and a line. **`.claude/skills/qmd` is where
+it is documented** — which collection answers which question, why `search` is
+0.22s and `query` is 2m41s, how German compounds break exact matching, the full
+command surface, and how the setup is rebuilt.
 
-```python
-from qmd import search
-for hit in search("blinder Fleck kategoriale Unfähigkeit", collection="sources"):
-    doc = hit.document()          # subject.Document when the hit is a landed source
-```
+Two things belong here rather than only there, because they govern work that is
+not searching:
 
-`scripts/qmd.py` is the way code talks to it — `--json` is parsed once and
-`qmd://collection/path` is resolved to a real `Path` once, because that
-resolution is the only thing between a search result and the rest of the
-toolchain. **A `Hit` says where to look and carries no claim about the corpus**;
-`hit.document()` is the handoff back to the tools that measure. The shell works
-too and is unchanged.
+**A search result never becomes a number.** qmd ranks; it does not enumerate.
+`Kernwelt` is in 144 of the landed documents and a forty-hit list is not a census
+of that — measured, the line that defines `KW1` is not in the top forty, because
+BM25 favours short, early chunks. Every number in a page or a learning comes from
+`corpus.py`, `duplicates.py` or a count, which say what they counted and how.
 
-Collections are named for **purpose**, and `all` covers every markdown file
-outside the shelf — 459 of 459. It is excluded from default queries because it
-overlaps the others, so ask for it by name when a question could be answered by
-any layer.
-
-**`decisions` is the one to reach for before re-reading a record.** It spans the
-reconciliation records, the conflict records, the question pages, `Plan/decisions/`
-and the judgement ledger — five folders, one question: *what has already been
-decided, and why?* A hit gives the file and the line, and
-`qmd get <ref>:<line>:<count>` then reads twelve lines instead of the whole
-record. The eight reconciliation records alone are 953 lines.
-
-**qmd indexes markdown and nothing else** — 1,047 files in the index, every one
-`.md`. So `Plan/runs/judgements.jsonl` and every `reconcile.json` are invisible
-to every search, which is the opposite of what they are for. `judgements.py`
-writes `Plan/runs/judgements.md` on every run, derived and never edited, so the
-ledger is searchable and cannot lag behind the `.jsonl` it comes from. The
-`.jsonl` stays the source of truth — it is what the replay reads and what
-`trainset.py` trains on.
-
-**It finds candidates; it does not produce answers.** A ranked result is a place
-to look, and every number that goes into a page or a learning still comes from
-`corpus.py`, `duplicates.py` or a count — which say what they counted and how.
-Nothing in the pipeline depends on qmd, and `.qmd/` and `.tools-node/` are
-git-ignored; `qmd init` and five `collection add` calls rebuild it.
-
-Its first real query is what exposed the duplicate exports above.
-
-**The whole setup rebuilds from one command.** The container is ephemeral and
-`.tools-node/` and `.qmd/` are git-ignored, so the package, the index, six
-collections, their contexts, the agent skill and the PATH shim are all lost on a
-fresh clone:
+**Nothing in the pipeline depends on qmd.** Reconciliation answers by lookup
+against `Wiki/index.json` so its cost stays `O(census) + O(judgement)`. Search
+finds candidates to read; it decides nothing.
 
 ```bash
-scripts/setup_qmd.sh            # install, index, collections, skill, shim
-scripts/setup_qmd.sh --check    # report what is missing, change nothing
+scripts/setup_qmd.sh            # install, models, index, embeddings, shim
+scripts/setup_qmd.sh --check    # what is missing — run this when a search returns less than it should
+python3 scripts/qmd_coverage.py # non-zero if a directory is in no collection
 ```
 
-It is idempotent, and `--check` is the thing to run when a search returns less
-than it should.
-
-**The agent skill is installed from the package itself** — `qmd skill install`
-writes a 25-line bootstrap that defers to `qmd skill show` for version-matched
-instructions, so it cannot go stale when qmd updates. It declares
-`allowed-tools: Bash(qmd:*)`, and **the package is not on PATH here**, which is
-why `setup_qmd.sh` writes a shim: without it the skill fails with „command not
-found", which reads like the tool is broken rather than absent.
-
-Its one technique worth adopting: **write the structured query yourself** —
-`intent:`, `lex:`, `vec:`, `hyde:` — rather than pasting the question into
-`qmd query` and hoping the built-in expansion model guesses the domain
-vocabulary. In a German corpus full of coined compounds it will not.
-
-**Every file stays in it, and that is checked rather than remembered.**
-
-```bash
-qmd update                          # re-index all collections
-python3 scripts/qmd_coverage.py     # non-zero if a directory is in none of them
-```
-
-A file in no collection is absent from every search and **nothing says so** — the
-search just returns less and looks like it worked. A new directory is the risk:
-`Wiki/questions/` happened to fall inside the `wiki` collection; the next one may
-not. The check lists what is uncovered and separates the known exclusions from a
-real gap.
-
-Five files are uncovered on purpose, all for one reason: **qmd ignores
-`--pattern` and every collection is `**/*.md`**, so a collection rooted at `.`
-pulls in `Legacy/` and the vendored clones — 1,382 files, tried and removed. That
-leaves the four root files and `Sources/README.md` searchable only by opening
-them.
+**A file in no collection is absent from every search and nothing says so.** That
+is why coverage is checked rather than remembered. The configuration itself lives
+in the committed `.qmd/index.yml`; **never run `qmd init` here**, it overwrites it.
 
 ## Fetching
 
