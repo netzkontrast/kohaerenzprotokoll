@@ -220,6 +220,14 @@ markdown emphasis, blockquote wrapping, glued footnote numbers, inline
 attribution markers. It says how many quotes it could not check rather than
 counting them as passed.
 
+**And `python3 scripts/selftest.py` proves it can fail.** Six quotation cases and
+seven `fold()` pairs, each carrying the exact defect the checker must name, so a
+case that fails for the wrong reason fails the test. Nobody had ever seen either
+checker fail — which is the shape of the retired pipeline's worst defect: a
+coverage term that returned 1.0 whenever no gold fragments were passed, and was
+never passed any. Two live runs scored 0.987 and 0.967 on a number that could not
+fall for missing anything.
+
 **Conflict detection is never mechanised.** Two readings can only be compared by
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
 conflict.

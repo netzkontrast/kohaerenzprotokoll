@@ -48,6 +48,7 @@ python3 scripts/quotes.py [FILE ...]
 python3 scripts/judgements.py [--open|--render]
 python3 scripts/qmd_coverage.py
 python3 scripts/sources.py check
+python3 scripts/selftest.py
 python3 scripts/relations.py
 python3 scripts/trainset.py
 ```
@@ -61,6 +62,10 @@ python3 scripts/trainset.py
   the searchable copy cannot lag behind the `.jsonl` it derives from.
 - `relations.py` derives the page graph, the orphans and the open statements
   harvested from every page's Open section.
+- `selftest.py` runs the checkers against deliberate defects and asserts **which**
+  one each reports. It cites a real landed document, so the whole resolution path
+  runs: frontmatter, slug lookup, export unescaping, emphasis, blockquote
+  wrapping, glued footnote numbers.
 - `trainset.py` turns the ledger into examples and prints the `fold()` baseline
   live — never hardcoded, because it moves when the ledger grows.
 

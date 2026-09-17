@@ -48,6 +48,14 @@ what a red one *means*:
 | `python3 scripts/duplicates.py` | a landed file is a near-copy of another. Should stay 0 after `dedupe.py` |
 | `python3 scripts/qmd_coverage.py` | a directory is in no collection, so it is silently unsearchable |
 | `python3 scripts/sources.py check` | the manifest and the disk disagree, in either direction |
+| `python3 scripts/selftest.py` | **a checker stopped reporting what it claims to report.** Every other check on this list is only worth its output if this one passes |
+
+`selftest.py` is the one that guards the others. Each case carries the exact
+defect the checker must name — a declension error, a wrong line, a fabricated
+sentence, a pair `fold()` must never merge — so a case that fails for the wrong
+reason fails the test. Counting reported problems would pass while reporting the
+wrong ones, which is how the retired pipeline scored 0.987 on a coverage term
+that could not fall.
 
 **A green replay says the recorded decisions still hold, not that the code around
 them is right.** `fold()` was correct the whole time `reconcile.py` excluded
