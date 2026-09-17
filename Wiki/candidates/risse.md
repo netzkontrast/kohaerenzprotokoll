@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -65,3 +65,66 @@ Manifestationen einer Zunahme von Entropie", without contradicting it.
 The alias was recorded from document 1. This document puts both in one field
 name — `Manifestation von Rissen/Glitches` — four times, which is as close as
 any source has come to stating the identity outright.
+
+## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18
+
+**The first read source that says what a Riss *is*, rather than where it shows.**
+Three statements, in three different parts of the document, and they agree:
+
+> „Die 'Risse' als Manifestation von Entropie sind prädestiniert für eine
+> Visualisierung mittels Glitch-Ästhetik oder Konzepten des digitalen Verfalls."
+> ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L57]
+
+> „Die 'Risse' sind eine Form der Umgebungsreaktion auf Systemstress oder
+> steigende Entropie." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L77]
+
+> „Die 'Risse' lassen sich als eine Form *negativer Reaktivität*
+> konzeptualisieren: Die Systemumgebung reagiert *fehlerhaft* oder *chaotisch*
+> auf Stress oder Entropie, bricht ihre eigenen Regeln und erzeugt so narrative
+> Möglichkeiten und Gefahren." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L81]
+
+**A Riss is the environment's own misfiring, not something that arrives.** The
+document draws the consequence itself:
+
+> „Sie sind nicht nur passiver Verfall, sondern die Umgebung, die als Reaktion
+> auf nicht verarbeitbare Stimuli \"glitcht\"." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L81]
+
+That is compatible with document 1's „direkte Manifestationen einer Zunahme von
+Entropie" and with document 4's four world-specific manifestations, and it
+supplies the mechanism neither of them states.
+
+### The register differs by level, and one level is not digital at all
+
+> „Hier sind 'Risse' vielleicht weniger digitale Glitches als vielmehr psychische
+> Brüche: Plötzliche Realitätsverschiebungen, unkontrollierbare emotionale
+> Ausbrüche, die die Umgebung verändern, intrudierende Erinnerungen aus anderen
+> Kontexten, Präsenz von Entitäten (Echo, Mnemosyne)." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L318]
+
+That is KW2. In KW1 they are „Flackern des Lichts, kurzzeitige visuelle
+Verzerrungen an Wänden" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L267]; at Kael's workplace they are „'Risse' in den
+Daten" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L285]; at a KW3 checkpoint they are „Fehlfunktionen der Scanner"
+^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L386]; at the Datenfriedhof they are „besonders aggressive Datenstürme" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L505].
+
+**The alias `Glitch` is used here as a comparison rather than as a synonym.**
+„weniger digitale Glitches als vielmehr psychische Brüche" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L318] puts the two
+words on opposite sides of a contrast, which is the first read passage that does
+not simply equate them.
+
+### And one passage inverts the term
+
+On the Externe Ebene, the place through which Juna reaches Kael
+
+> „könnte ein \"Riss\" aus Sicht des Systems sein." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L522]
+
+and the master list carries `Der Riss im System` as a location,
+„Metaphorischer/realer Zugangspunkt von außen" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L237].
+
+**So the same phenomenon is a defect to the system and a doorway to whatever is
+outside it.** One clause, hedged, undeveloped. See `junas-ankerpunkt`,
+`externe-ebene`.
+
+### Not a conflict
+
+Nothing here contradicts the earlier readings. It is a mechanism where they gave
+manifestations, and the inversion is the document reporting a second point of
+view rather than a second account.
