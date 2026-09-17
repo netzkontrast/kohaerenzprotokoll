@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -52,8 +52,8 @@ collapse sequence:
 > \"Überwelt\" erlebt Realitätsverzerrungen, Kommunikationsausfälle, Versagen
 > zentraler Simulationsdienste" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L167]
 
-So the containment relation the first source gave by position — Kern-Welten
-*inside* the same system — is confirmed as a layering: Kern-Welten first, Überwelt
+So the containment relation the first source gave by position — [[kern-welten|Kern-Welten]]
+*inside* the same system — is confirmed as a layering: [[kern-welten|Kern-Welten]] first, Überwelt
 after.
 
 **This source prefers `Simulation` (44 times) to `Überwelt` (3).** One thing, two
@@ -67,12 +67,12 @@ sharpest statement of what the Überwelt is in anything read:
 > „Die AEGIS-Überwelt sollte konsequenterweise nicht nur als ein 'Ort' gestaltet
 > werden, sondern als manifestiertes *Interface* oder *Betriebssystem*." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49]
 
-It is one of the six [[realitaetsebenen|Realitätsebenen]] and the only one whose `Domäne` is AEGIS:
+It is one of the six [[realitaetsebenen|Realitätsebenen]] and the only one whose `Domäne` is [[aegis|AEGIS]]:
 
 > „Digitale, informationsbasierte Ebene. Zentrum der Systemkontrolle, abstrakt,
 > funktional. Sitz von AEGIS und den Wächtern in ihrer Systemfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
 
-Its architecture is required to express AEGIS' values: „Ihre Architektur muss
+Its architecture is required to express [[aegis|AEGIS]]' values: „Ihre Architektur muss
 Funktion, Datenfluss und Kontrolle priorisieren" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49], and the same sentence
 names them — „die Kernprinzipien von AEGIS – Ordnung, Integrität, Effizienz"
 ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49]. See [[aegis]].
@@ -86,7 +86,7 @@ names them — „die Kernprinzipien von AEGIS – Ordnung, Integrität, Effizie
 first two `Explorative V2` — invented by this document, which says so per row.
 
 Two of them are the system's working parts rather than scenery: the monitor
-where entropy is watched (see [[system-monitor]]) and a chamber where AEGIS
+where entropy is watched (see [[system-monitor]]) and a chamber where [[aegis|AEGIS]]
 „aktiv Entropie managt oder umwandelt" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L229]. See [[entropie]].
 
 ### `Simulation` is used here, and it is not this level
@@ -99,4 +99,33 @@ words and they do not coincide:** `Überwelt` 27 times for the digital level, an
 
 **So a third document now uses `Simulation` without meaning the Überwelt**, which
 is evidence on the judgement `J30` left unresolved: here the Simulation contains
-the Kern-Welten and the Überwelt both, and is not a synonym for either.
+the [[kern-welten|Kern-Welten]] and the Überwelt both, and is not a synonym for either.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+**Dated the same day as `entropie-aegis`, and — like that source — this is a
+proposal, hedged with „wahrscheinlich":**
+
+> „Ebene 5 (Die Überwelt): Die Dimension der Guardians. Sie ist wahrscheinlich
+> als ein nicht-physischer, datenbasierter Raum konzipiert – ein Netzwerk,
+> eine reine Informationslandschaft oder eine sterile, logische Architektur."
+> ^[kohaerenz-protokoll-konzept.md:L173]
+
+Its condition is tied to Michael's, in both directions:
+
+> „Der Zustand der Überwelt ist an Michaels psychische Stabilität gekoppelt;
+> seine innere Destabilisierung führt zu ihrem Zerfall (\"Risse\" auch hier)."
+> ^[kohaerenz-protokoll-konzept.md:L173]
+
+**Compatible with all three existing readings.** A non-physical, data-based
+space (this document) is the same shape of claim as an interface/operating
+system (`roman-lokalitaeten-konzept-und-ausarbeitung`) and a place where order
+and entropy struggle (`entropie-aegis`) — three different vocabularies for one
+non-physical, information-governed layer, none contradicting the others.
+
+### Fourth angle on J30
+
+This document also supports the *un*-synonymity `roman-lokalitaeten-konzept-und-ausarbeitung`
+found: „Die Simulierten Welten" here names only the four worlds
+^[kohaerenz-protokoll-konzept.md:L172], never the Überwelt. See
+[[externe-ebene]] for the same observation from the level beyond this one.

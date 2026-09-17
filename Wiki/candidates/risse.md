@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -112,7 +112,7 @@ not simply equate them.
 
 ### And one passage inverts the term
 
-On the Externe Ebene, the place through which [[juna|Juna]] reaches [[kael|Kael]]
+On the [[externe-ebene|Externe Ebene]], the place through which [[juna|Juna]] reaches [[kael|Kael]]
 
 > „könnte ein \"Riss\" aus Sicht des Systems sein." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L522]
 
@@ -128,3 +128,38 @@ outside it.** One clause, hedged, undeveloped. See [[junas-ankerpunkt]],
 Nothing here contradicts the earlier readings. It is a mechanism where they gave
 manifestations, and the inversion is the document reporting a second point of
 view rather than a second account.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17 — four named symptom-types
+
+**The first read source to type Risse by specific clinical symptom rather than
+by world or by mechanism.** It states directly what they are not:
+
+> „Die \"Risse\" sind narrative und visuelle Metaphern für das Durchbrechen der
+> dissoziativen Barrieren in Michaels Psyche. Sie sind keine zufälligen
+> Glitches, sondern spezifische Symptome, die in die Logik der jeweiligen
+> simulierten Welt eingebettet sind" ^[kohaerenz-protokoll-konzept.md:L241]
+
+Four named types, each with its own manifestation:
+
+| type | manifestation | line |
+|---|---|--:|
+| Flashback | „reißt die Umgebung auf und zeigt Szenen oder Gefühle aus Welt 1" | 245 |
+| Alter Intrusion/Switch | „Systemanomalie, Kontrollverlust oder unerklärliches Ereignis" | 246 |
+| Amnesie | „abrupter Sprung in Zeit oder Ort […] der Michaels Zeitverlust […] widerspiegelt" | 247 |
+| Depersonalisation/Derealisation | „die simulierte Welt selbst fühlt sich plötzlich fremd, unwirklich oder verzerrt an" | 248 |
+
+Each of the four worlds also gets its own typical Riss (`Typische "Risse"`,
+once per world, ^[kohaerenz-protokoll-konzept.md:L187, L197, L207, L217]) —
+compatible with `guardians-und-kern-welten-konzept`'s one-manifestation-per-
+world table above, and independent of it: neither document's four
+manifestations name the same vocabulary as the other's.
+
+**Compatible with all three earlier readings and adding a fourth axis.**
+Cause (`entropie-aegis`), per-world manifestation
+(`guardians-und-kern-welten-konzept`), mechanism
+(`roman-lokalitaeten-konzept-und-ausarbeitung`), and now clinical type — four
+readings of one term from four unrelated documents, none contradicting the
+others. `Glitches` is confirmed again as the alias this document uses for the
+same thing ^[kohaerenz-protokoll-konzept.md:L79]. Also introduces `Zeitverlust`
+as Michael's own experience of an Amnesie-type Riss — recorded here as this
+reading's vocabulary rather than as a separate page.

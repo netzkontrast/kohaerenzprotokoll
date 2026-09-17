@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 4
-readings: 3
+sources: 5
+readings: 4
 conflict: none
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -115,8 +115,8 @@ Document 4 gives five [[guardians|Guardians]] and four worlds by name, with [[lo
 with [[guardians|Guardians]] and no world names. **Neither document contains both halves.**
 
 If `LogOS` here is [[logos]] there — which `fold()` decides mechanically, and which
-nothing has contradicted — then `KW1` is `konstrukt-stadt` and `KW3` is
-`grenzfeste`. **That sentence is this page's inference, attributed to no source**,
+nothing has contradicted — then `KW1` is [[konstrukt-stadt]] and `KW3` is
+[[grenzfeste]]. **That sentence is this page's inference, attributed to no source**,
 and it is written down so that the next document can confirm or break it rather
 than so that anything may rely on it now.
 
@@ -155,9 +155,9 @@ with document 4's Guardian↔world names, the join reads:
 
 | number | Guardian | world name, from document 4 |
 |---|---|---|
-| KW1 | LogOS | `konstrukt-stadt` |
+| KW1 | [[logos|LogOS]] | [[konstrukt-stadt]] |
 | KW2 | [[mnemosyne|Mnemosyne]] | [[resonanz-landschaft]] |
-| KW3 | Cerberus | `grenzfeste` |
+| KW3 | [[cerberus|Cerberus]] | [[grenzfeste]] |
 | KW4 | [[kairos|Kairos]]/[[sophia|Sophia]] | [[moeglichkeits-garten]] |
 
 **That table is still this page's inference and not any document's claim.** Two
@@ -202,3 +202,49 @@ that is unknown.
 Whether one Kern-Welt corresponds to one alter is **not** settled. Each level is
 „Assoziiert mit Alters wie Limina" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172] and three like it — *wie*, not *und*,
 so the roster is open at every level. See `q3-how-many-kern-welten-and-alters`.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17 — four worlds, a third naming, zero vocabulary overlap
+
+**This document never writes `Kern-Welt` or `Kernwelt` once.** It calls the
+same structural slot „Die Simulierten Welten"
+^[kohaerenz-protokoll-konzept.md:L172] and numbers them `Welt 1`–`Welt 4`, each
+given its own full name:
+
+| world | name | psychological function | line |
+|---|---|---|--:|
+| Welt 1 | Die Zerbrochene Stadt | Unverarbeitetes Trauma / Persecutor / EP-Kern | 181 |
+| Welt 2 | Der Ewige Spielplatz / Das Starre Puppenhaus | Kind-Anteile / EP-Facetten | 191 |
+| Welt 3 | Die Zitadelle der Wacht | Protektive Funktionen / ANP-Abschirmung | 201 |
+| Welt 4 | Die Endlose Bibliothek / Das Masken-Theater | Wissen / Soziale Fassade / ANP-Funktion | 211 |
+
+> „Verkörpert den Kern des Traumas, die rohen, unverarbeiteten Erinnerungen
+> und Emotionen (Angst, Schmerz, Wut), die von den Emotional Parts (EPs)
+> gehalten werden." ^[kohaerenz-protokoll-konzept.md:L185]
+
+> „Repräsentiert die intellektuellen Abwehrmechanismen, das fragmentierte
+> Wissen (sowohl erlerntes als auch dissoziiertes), die soziale Maske oder
+> Persona, die der Host/ANP der Außenwelt präsentiert."
+> ^[kohaerenz-protokoll-konzept.md:L215]
+
+**None of the four names touches document 4's vocabulary.** Zero occurrences
+of `Konstrukt-Stadt`, `Resonanz-Landschaft`, `Grenzfeste`, `Möglichkeits-Garten`,
+`Überraum`, `Potentialmeer` in this document, and this document's four names
+occur in none of the other four read sources — the same "vocabularies do not
+touch" shape already recorded for document 5 against document 4, now a third
+independent naming layer for the same four-slot structure.
+
+**The mapping principle also differs.** Document 4 pairs one Guardian to each
+world, physics-first. This document pairs the ANP/EP structural-dissociation
+model to the worlds instead, in one stated sentence — see [[alters]] — and its
+own summary table gives Welt 1 **two** conflicting labels for two different
+[[alters]] (`Zerbrochene Stadt` for the Persecutor row, `Trauma-Loop` for the
+Memory Holder row, ^[kohaerenz-protokoll-konzept.md:L117, L120]) — an internal
+inconsistency the document does not flag itself, recorded here rather than
+resolved: `Trauma-Loop` occurs nowhere else in the document.
+
+### Contributes to Q3 without settling it
+
+**Four worlds, confirmed a fourth time**, and see
+`q3-how-many-kern-welten-and-alters` for what this document adds to the alter
+count and correspondence question — a non-one-to-one roster, unlike document
+6's exactly-one-per-world shape.

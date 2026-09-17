@@ -1,11 +1,11 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung"]
-aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
+ingested: ["kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+aliases: ["Realitätsebene", "die sechs Realitätsebenen", "Sechs Ebenen der Realität"]
 gathered: "2026-09-17"
 ---
 
@@ -22,6 +22,30 @@ Six, and the count is stated as a fact about the novel rather than proposed:
 > „eine fundierte Grundlage für die Erschaffung einer kohärenten, atmosphärisch
 > dichten und narrativ bedeutsamen Welt über die sechs Realitätsebenen des
 > Romans hinweg zu schaffen." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L17]
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17 — the six named, a day earlier
+
+**A document dated a day before this page's only source already organises its
+whole worldbuilding section around six levels, under the exact phrase this
+page's alias records:**
+
+> „Sechs Ebenen der Realität: Vier simulierte Welten, die als direkte
+> Manifestationen von Michaels Innenwelt/Psyche konzipiert sind ; eine
+> Überwelt als Dimension der Guardians; und eine externe Ebene, die für die
+> Guardians unzugänglich ist." ^[kohaerenz-protokoll-konzept.md:L39]
+
+and again under the worldbuilding section's own heading, `Gesamtstruktur (6
+Ebenen)` ^[kohaerenz-protokoll-konzept.md:L168]:
+
+> „Die Realität des Romans ist in sechs miteinander verbundene, aber
+> qualitativ unterschiedliche Ebenen gegliedert" ^[kohaerenz-protokoll-konzept.md:L170]
+
+**Same membership as the later source: four simulated worlds, one [[ueberwelt|Überwelt]], one
+externe Ebene** — confirmed independently, under different world-names (see
+[[kern-welten]]) but the identical six-level frame. This document counts the
+frame explicitly as its own organising choice rather than as an inherited given,
+which the later document's five repetitions of „sechs Realitätsebenen" do not
+individually state.
 
 The membership is given twice. Once as a field of the document's own location
 template —
@@ -42,12 +66,12 @@ template —
 
 **Five levels have a `Domäne`; one has a `Verbindung`.** The document makes that
 distinction in the label itself and never comments on it: [[juna|Juna]] is not the
-domain-holder of the Externe Ebene the way [[logos|LogOS]] is of KW1 — she is what connects
+domain-holder of the [[externe-ebene|Externe Ebene]] the way [[logos|LogOS]] is of KW1 — she is what connects
 to it.
 
 Every one of the document's 51 locations is assigned to exactly one of the six,
-and the distribution is even: KW1 10, KW2 9, KW3 9, KW4 8, Überwelt 8,
-Externe Ebene 7.
+and the distribution is even: KW1 10, KW2 9, KW3 9, KW4 8, [[ueberwelt|Überwelt]] 8,
+[[externe-ebene|Externe Ebene]] 7.
 
 ### The levels are meant to contrast, and the document says so
 
@@ -72,6 +96,6 @@ source, and it is cataloguing rather than defining.
 **What a level *is*.** The document assigns, contrasts and populates the six and
 never says what makes something a Realitätsebene rather than a place inside one.
 
-**Whether the Externe Ebene is inside the same system as the other five.** It is
+**Whether the [[externe-ebene|Externe Ebene]] is inside the same system as the other five.** It is
 counted as one of the six and simultaneously described as external and not
 subject to AEGIS' rules ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L519].

@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["kohaerenz-protokoll-konzept", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-17"
 ---
 
@@ -69,5 +69,47 @@ system failure also the name of a doorway. See [[risse]], [[junas-ankerpunkt]].
 ### Open
 
 Whether this level is inside the system it contrasts with. The document counts it
-as one of six and simultaneously places it outside AEGIS' rules, and never
+as one of six and simultaneously places it outside [[aegis|AEGIS]]' rules, and never
 reconciles the two.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+**The earliest read source to name this level, and the one that first calls it
+the first open question of the whole project.** Defined by contrast, the same
+move both later readings make:
+
+> „Eine Realität oder Dimension, die fundamental außerhalb des
+> Kontroll- und Wahrnehmungsbereichs der Guardians liegt. Sie ist die Quelle
+> oder der Ankerpunkt für Julias transzendente Aspekte."
+> ^[kohaerenz-protokoll-konzept.md:L174]
+
+Four named possibilities, offered as alternatives rather than a definition —
+„Die \"wirkliche\" physische Welt außerhalb einer digitalen Simulation"
+^[kohaerenz-protokoll-konzept.md:L229], „Eine höhere Bewusstseinsebene oder
+spirituelle Dimension" ^[kohaerenz-protokoll-konzept.md:L230], „Das Feld des
+nicht-lokalen Bewusstseins, das alles durchdringt"
+^[kohaerenz-protokoll-konzept.md:L231], and
+
+> „Ein Reich, das durch Qualia, Emotion, Verbundenheit und organische
+> Prinzipien definiert ist, im Gegensatz zur Logik und Information der
+> Guardians." ^[kohaerenz-protokoll-konzept.md:L232]
+
+and named explicitly, in Section X, as the project's first open question:
+
+> „Natur der Externen Ebene und Julias Verbindung: Was genau ist die externe
+> Ebene (physikalische Realität, höhere Dimension, Bewusstseinsfeld)?"
+> ^[kohaerenz-protokoll-konzept.md:L396]
+
+**A third document leaves the same thing undecided.** No read source — this
+one, `kohaerenzprotokoll-aegis-und-systementropie`, or
+`roman-lokalitaeten-konzept-und-ausarbeitung` — chooses among the
+possibilities it names for the layer's nature. See [[juna|Juna]] for Julia's
+three-hypothesis connection to it, stated in the same document.
+
+### `Simulation` supports J30 from a fourth angle
+
+This document uses „Die Simulierten Welten" for the four worlds specifically
+^[kohaerenz-protokoll-konzept.md:L172] and never for the Überwelt or this
+level — consistent with `roman-lokalitaeten-konzept-und-ausarbeitung`'s finding
+that a third document uses `Simulation` without meaning [[ueberwelt|Überwelt]].
+See that page's reading for J30.
