@@ -1,17 +1,17 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-17"
 ---
 
 # Mnemosyne
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Nothing else read so far names Mnemosyne at all.
+the same nine fields. Two other read documents also name Mnemosyne — see below.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -75,6 +75,22 @@ with a question mark.** Both phrasings are slashed rather than chosen.
 One location carries her name: `Mnemosynes Gedächtnispalast`, „Strukturierte
 (aber potenziell instabile) Repräsentation der Erinnerung" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L205], marked
 `Explorative V2` — invented here.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+Domain label „Daten/Erinnerung" ^[kohaerenz-protokoll-konzept.md:L139], and a
+function stated with its own failure built in:
+
+> „Verantwortlich für die Speicherung und Verwaltung der Daten, die Michael
+> und die Simulationen konstituieren. Versucht, Michaels fragmentierte
+> \"Erinnerungsdaten\" durch Synchronisation zu \"korrigieren\", ignoriert dabei
+> aber den traumatischen Kontext und die emotionale Ladung."
+> ^[kohaerenz-protokoll-konzept.md:L139]
+
+Consistent with „Erinnerung, Emotion, Empathie" above — this document narrows
+to the data-correction function specifically, and names its own tool for it:
+see [[guardian-werkzeuge|Guardians' Werkzeuge]], `Daten-Synchronisator`. No
+individual blind spot stated; see [[guardians]].
 
 ### Note
 

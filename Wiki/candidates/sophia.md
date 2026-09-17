@@ -1,17 +1,17 @@
 ---
 term: Sophia
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-17"
 ---
 
 # Sophia
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Nothing else read so far names Sophia at all.
+the same nine fields. Two other read documents also name Sophia — see below.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -71,3 +71,12 @@ takes the pair apart.
 ### Note
 
 Called a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] here and never a `Guardian`. See [[guardians]].
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+**A third document, and `Sophia` never appears alone here either.** All
+occurrences are inside `Kairos/Sophia` — see [[kairos]] for the combined
+domain („Optimierung/Potenzial") and function this document gives the pair.
+Nothing here sets Sophia's own „Wissen, Weisheit, Integration" reading against
+anything; this document simply never separates the two, the same shape
+`roman-lokalitaeten-konzept-und-ausarbeitung` already showed.

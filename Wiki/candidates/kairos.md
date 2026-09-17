@@ -1,17 +1,17 @@
 ---
 term: Kairos
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-17"
 ---
 
 # Kairos
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Nothing else read so far names Kairos at all.
+the same nine fields. Two other read documents also name Kairos — see below.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -68,7 +68,7 @@ under the heading `Kern-Welt 4 (KW4 - Domäne: Kairos/Sophia)` ^[roman-lokalitae
 > „Kairos/Sophia (als Prinzip der Zeit/Möglichkeit)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L438]
 
 The first treats the pair as one principle; the second gives it two aspects and
-slashes those as well. Document 4 states two distinct Guardians sharing one
+slashes those as well. Document 4 states two distinct [[guardians|Guardians]] sharing one
 domain; **this document never separates them at all**, which is consistent with
 that and is not a second statement of it.
 
@@ -76,3 +76,22 @@ that and is not a second statement of it.
 
 This document calls Kairos/Sophia a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] and never a `Guardian`. See
 [[guardians]], [[sophia]].
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+**A third document that never separates Kairos from [[sophia|Sophia]].** One combined
+entry, one domain label — „Optimierung/Potenzial - neu interpretiert"
+^[kohaerenz-protokoll-konzept.md:L141] — and a function stated as pressure
+toward a narrow kind of efficiency:
+
+> „Fokussiert auf die \"Optimierung\" von Michaels \"Funktion\" basierend auf
+> messbaren Daten. Drängt ihn zu einer fehlerhaften Form der Integration, die
+> auf Effizienz und Vorhersagbarkeit abzielt, aber Authentizität und
+> emotionale Tiefe ignoriert. Verkörpert das Potenzial des Systems, nicht des
+> Individuums." ^[kohaerenz-protokoll-konzept.md:L141]
+
+Consistent with „Potenzial, Kreativität, Transformation, Emergenz" above —
+this document narrows to the optimisation pressure specifically, and its
+target — a `Datenintegration`/`Integration` the document itself distinguishes
+from the DID-therapy sense of Integration — is recorded on
+[[seele-info|Seele=Info]] and J52.

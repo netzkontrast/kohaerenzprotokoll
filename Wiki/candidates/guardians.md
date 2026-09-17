@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-16"
 ---
 
@@ -79,12 +79,71 @@ any tally taken from the framing text is off by one.**
 
 This document never mentions `AEGIS` — zero occurrences. Document 1 called the
 Guardians „spezialisierte Agenten dieses Entropie-Managements", which is [[aegis|AEGIS]]'
-work. **Whether the Guardians are inside AEGIS, beside it, or a design it
+work. **Whether the Guardians are inside [[aegis|AEGIS]], beside it, or a design it
 replaced is not answerable from the four documents read** — see
 `Wiki/conflicts/c4-guardians-and-aegis.md`.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+**Four, not five — and this document's four match `guardians-und-kern-welten-konzept`'s
+own resolution of the count, not the naive tally.** It says so under one
+heading:
+
+> „Die 4 Guardians:" ^[kohaerenz-protokoll-konzept.md:L132]
+
+with each domain given as a short label rather than the multi-word phrase the
+other document uses:
+
+| Guardian | domain, as this document phrases it | line |
+|---|---|--:|
+| [[logos|LogOS]] | Logik/Systemintegrität | 138 |
+| [[mnemosyne|Mnemosyne]] | Daten/Erinnerung | 139 |
+| [[cerberus|Cerberus]] | Sicherheit/Grenzkontrolle | 140 |
+| [[kairos|Kairos]]/[[sophia|Sophia]] | Optimierung/Potenzial (neu interpretiert) | 141 |
+
+**[[kairos|Kairos]] and [[sophia|Sophia]] are combined here too**, consistent with both existing
+readings on [[kairos]] and [[sophia]] — a third document that never
+separates the two. The broad domains agree with `guardians-und-kern-welten-konzept`'s
+finer ones (Logik↔Struktur/Logik, Daten↔Erinnerung/Emotion,
+Sicherheit↔Sicherheit/Abwehr, Optimierung↔Potenzial/Kreativität) without
+contradicting or repeating them — this document names function rather than
+domain, and gives each Guardian a stated diagnostic role instead:
+
+> „*Mnemosyne (Daten/Erinnerung):* […] Versucht, Michaels fragmentierte
+> \"Erinnerungsdaten\" durch Synchronisation zu \"korrigieren\", ignoriert dabei
+> aber den traumatischen Kontext und die emotionale Ladung."
+> ^[kohaerenz-protokoll-konzept.md:L139]
+
+### The blindness is stated once, for all four together
+
+Where the other reading derives a distinct blind spot per Guardian from each
+one's domain, this document states one shared blindness for the group,
+grounded in the paradigm they share — see [[seele-info|Seele=Info]] for the
+paradigm itself:
+
+> „Ihnen fehlt die Fähigkeit, Qualia, emotionale Tiefe oder die Bedeutung
+> menschlicher Verbindung wahrzunehmen oder zu bewerten."
+> ^[kohaerenz-protokoll-konzept.md:L146]
+
+**Not a conflict with the per-Guardian blind spots.** A shared root cause and
+four differentiated symptoms are compatible claims; this document simply never
+tests whether the four fail identically or differently, so it neither confirms
+nor contradicts the categorical/misreading/contextual/missing-data typing.
+
+### And they offer four named tools, unlike anything read before
+
+Unlike the other three read documents, this one gives the Guardians a concrete
+intervention — see [[guardian-werkzeuge|Guardians' Werkzeuge]] for the full
+reading.
+
+### Still open, and unaffected by this reading
+
+`AEGIS` occurs 0 times here, same as `guardians-und-kern-welten-konzept`. This
+document adds nothing to `c4-guardians-and-aegis` or `q1-guardians-and-aegis`.
+
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05, brief
 
-**The first document to place the Guardians relative to AEGIS in so many words —
+**The first document to place the Guardians relative to [[aegis|AEGIS]] in so many words —
 and it does so while arguing that the placement is the open question.**
 
 Its structural language is consistent and puts them inside. A Guardian
@@ -100,7 +159,7 @@ It can also describe a Guardian's behaviour as untypical for
 
 > „eine reine AEGIS-Erweiterung" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 
-which only makes sense if being an AEGIS extension is the default reading.
+which only makes sense if being an [[aegis|AEGIS]] extension is the default reading.
 
 ### But the whole of chapter 20 exists to put that under pressure
 
@@ -149,7 +208,7 @@ The four bearers are given in a parenthesis, in the same order as the levels:
 > „die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus,
 > Kairos/Sophia)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35]
 
-They are seated in AEGIS' level:
+They are seated in [[aegis|AEGIS]]' level:
 
 > „Sitz von AEGIS und den Wächtern in ihrer Systemfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
 
@@ -179,7 +238,7 @@ tracks the document rather than the register. See
 
 ### On the relation to AEGIS, this document assumes rather than argues
 
-Every placement puts the Wächter inside AEGIS' domain, and the document never
+Every placement puts the Wächter inside [[aegis|AEGIS]]' domain, and the document never
 raises the question that document 5 built a chapter out of. It lists them beside
 AEGIS as „Nutzer/Beobachter" of the system monitor ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L472], and it gives AEGIS a
 registry of their parameters ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233] — which is a stronger form of containment

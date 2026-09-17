@@ -1,17 +1,17 @@
 ---
 term: Cerberus
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-17"
 ---
 
 # Cerberus
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Nothing else read so far names Cerberus at all.
+the same nine fields. Two other read documents also name Cerberus — see below.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -78,3 +78,20 @@ This document calls Cerberus a `Wächter` ^[roman-lokalitaeten-konzept-und-ausar
 also the one place in the read corpus where `Wächter` is used in its plain
 German sense — keeper of a named thing — of one of the four. See [[guardians]],
 `q4-waechter-four-bearers`.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+Domain label „Sicherheit/Grenzkontrolle" ^[kohaerenz-protokoll-konzept.md:L140],
+and a generic boundary-guarding function rather than one named wall:
+
+> „Überwacht die Systemgrenzen (zwischen Welten, zwischen Alters, zur
+> Überwelt). Identifiziert und versucht, Anomalien (\"Risse\", unkontrollierte
+> Alter-Manifestationen) zu isolieren oder zu unterdrücken. Setzt
+> Systemregeln durch." ^[kohaerenz-protokoll-konzept.md:L140]
+
+**`Systemgrenzen` here is plural and generic — every boundary Cerberus
+guards, not the one wall `roman-lokalitaeten-konzept-und-ausarbeitung` names
+`Die Große Mauer (Systemgrenze)` above.** J67 records the two as separate
+terms; nothing here contradicts that reading, since this document never
+specifies any single boundary by name. Consistent with „Sicherheit, Abwehr,
+Grenzen" above.

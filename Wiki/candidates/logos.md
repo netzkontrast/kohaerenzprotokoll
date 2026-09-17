@@ -1,17 +1,17 @@
 ---
 term: LogOS
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
 gathered: "2026-09-17"
 ---
 
 # LogOS
 
 One of **five [[guardians|Guardians]]** specified by a single document, each filled out across
-the same nine fields. Nothing else read so far names LogOS at all.
+the same nine fields. Two other read documents also name LogOS — see below.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
@@ -73,3 +73,19 @@ Verlust von Individualität im System" ^[roman-lokalitaeten-konzept-und-ausarbei
 
 This document calls LogOS a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] and never a `Guardian`. See
 [[guardians]], `q4-waechter-four-bearers`.
+
+## Reading — `kohaerenz-protokoll-konzept`, 2025-04-17
+
+A third, shorter domain label — „Logik/Systemintegrität"
+^[kohaerenz-protokoll-konzept.md:L138] — and a function stated as elimination
+rather than construction:
+
+> „Fokussiert auf die Aufrechterhaltung der logischen Konsistenz der
+> Simulationen, die Eliminierung von \"Rauschen\" (Emotionen, irrationale
+> Verhaltensweisen der Alters) und die Durchsetzung algorithmischer Ordnung."
+> ^[kohaerenz-protokoll-konzept.md:L138]
+
+Consistent with „Struktur, Logik, Systemarchitektur, Rationalität" above, not
+repeating it. No blind spot is stated for LogOS individually here — see
+[[guardians]] for the one blindness this document gives the group. `AEGIS`
+does not occur in this document either.
