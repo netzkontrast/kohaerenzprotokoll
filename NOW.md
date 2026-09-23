@@ -79,39 +79,46 @@ a decision about how much morphology a safe deterministic rule may claim.
 
 ## Half-done — the entity lists
 
-`scripts/entities.py` works; the lists it searches do not yet exist.
-4 <!--state:entities.lists--> lists exist and 2 <!--state:entities.readings-->
-pass verification — 337 <!--state:entities.rows_verified--> of
-372 <!--state:entities.rows--> rows cite a line holding the entity.
+`scripts/entities.py` works; the lists it searches exist for four documents.
+4 <!--state:entities.lists--> lists exist and 3 <!--state:entities.readings-->
+pass verification — 317 <!--state:entities.rows_verified--> of
+317 <!--state:entities.rows--> rows cite a line holding the entity.
 
-**Revision 2 was re-piloted on the four slugs and the prompt rule did not hold.**
-Measured per list:
+**Revision 3 made the rule structural, and it held.** The reader returns names
+only, into `Plan/entities/names/<slug>.json`; `entities.py place` writes every
+line and refuses a name the document does not contain word for word. Re-piloted
+on the same four slugs, 2026-09-23:
 
-| list | verified | |
-|---|--:|---|
-| `aegis-subplots-kapitelweise-system-exploration-docx` | 84/88 | reading |
-| `kohaerenz-protokoll` | 92/93 | reading, read to L2498 of 2498 |
-| `ki-agenten-kohaerenz-und-prompt-generierung` | 73/88 | reconstruction |
-| `roman-lokalitaeten-konzept-und-ausarbeitung` | 88/103 | **not re-read** |
+| list | rows placed | names refused | | F1 (rev 2 → 3) |
+|---|--:|--:|---|--:|
+| `aegis-subplots-kapitelweise-system-exploration-docx` | 70 | 14 | reading | 0.28 → 0.25 |
+| `kohaerenz-protokoll` | 82 | 13 | **one line unread** | — |
+| `ki-agenten-kohaerenz-und-prompt-generierung` | 68 | 22 | reading | — |
+| `roman-lokalitaeten-konzept-und-ausarbeitung` | 97 | 0 | reading | 0.67 → 0.69 |
 
-- **Haiku still typed lines.** Every failing row checked on `ki-agenten` is a
-  form `--find` refuses or places elsewhere: „Qualitatives Sprung" is refused
-  (the text has „qualitative Sprung", L301) and was written anyway; „Wissensgraph"
-  was cited at L321, which says „Knowledge Graph". The prompt asked for
-  `--find`; nothing enforced it.
-- **The `roman-lokalitaeten` reader did not redo the list.** Its only change was
-  relabelling the revision 1 file „(revision 2)", and it returned „written" with a
-  summary. The relabel was reverted; the file is revision 1's list.
-- `score`: gazetteer F1 0.67 (unchanged — same list); `aegis-subplots` F1 0.28,
-  up from 0.13, still the research vocabulary rather than the world.
-
-**The fix is structural, not a better prompt (P26).** The model returns entity
-names only; code runs `--find` on each and writes the line, dropping a refused
-name. A line a model cannot type cannot be wrong, and „written" becomes a file
-code produced rather than a claim. The same split is what makes a cheaper route
-possible — candidates by script, a typed judgement per candidate (Jev) — see
-`Plan/concept/jev-in-ingestion_2026-09-23.md`; that still waits on the author's
-yes to send passages.
+- **Every row verifies because no row was typed.** The refusals are the forms
+  revision 2 would have written anyway: `McLaughlin-Graph` where the text has
+  `McLaughlin-Graphen`, `Nicht-Lokalität`, `Koherentz Lücke`. They are listed in
+  each file's `refused:` line rather than lost.
+- **`kohaerenz-protokoll` is not a reading by one line.** Its reader reported
+  `read_to_line` 2497 of 2498. `verify` treats any stated gap as disqualifying,
+  and that rule was left alone: whether a one-line gap should demote a list is a
+  decision, not a fix. Also: `read_to_line` is still the reader's claim. `place`
+  prints the furthest line any name landed on beside it, which is code's — but a
+  lower bound only, since a name is placed at its first occurrence.
+- **Revision 3 found a defect in the checker, not only in the reader.**
+  `quotes.normalise` drops a one- or two-digit number glued to a word (footnote
+  debris), so on the line `(KW2),` became `(KW),` while the name stayed `KW2` —
+  a name ending in a digit could never verify. Revision 2's gazetteer lost
+  `KW2`–`KW4`, `Kern-Welt 1`–`4` and `Silent Hill 2` to it and blamed the reader.
+  `entities.py` now asks one question for placing and verifying, `holds()`:
+  whole word, one line, the normalisation minus the footnote rule. It is
+  stricter than revision 2's substring test (`Kontakt` no longer passes on
+  `Kontaktaufnahme`), and `selftest` carries seven cases that prove it can fail.
+  Quotations are untouched: there the footnote rule is symmetric.
+- The four readers cost 423,531 subagent tokens and about 75 s wall-clock, run
+  in parallel as four Haiku agents with the workflow's prompt verbatim, not
+  through the Workflow tool.
 
 **Jev was tested on the same two documents, and it lost on quality.**
 `scripts/jev_entities.py` takes candidates from a script (every capitalised
@@ -147,11 +154,11 @@ each carries a reader's notes as `- ` lines, which no list can match.
 
 **Next, in this order:**
 
-1. Revision 3 of `.claude/workflows/entity-lists.js`: names only, lines by code.
-   Re-pilot on the same four slugs; `verify` and `score` as before.
-2. Only if every list verifies as a reading: the other landed documents. The
-   revision 2 pilot cost 442,682 subagent tokens and 7.5 minutes for four
-   documents; say what the full run costs before starting it.
+1. Decide whether a one-line stated gap disqualifies a list (above), or have the
+   reader of `kohaerenz-protokoll` finish the line.
+2. The other landed documents. Four readers cost about 424k subagent tokens; at
+   that rate 342 more documents are roughly 36M, scaled by length rather than
+   count. Say what the full run costs before starting it, and ask.
 3. Then `entities.py matrix`, `missing`, and `doc` on the candidates for the next
    document below.
 

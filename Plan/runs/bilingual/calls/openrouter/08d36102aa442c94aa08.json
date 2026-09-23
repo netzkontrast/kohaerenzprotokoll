@@ -1,0 +1,495 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "ANP-EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ANP-EP-Phobien",
+    "lang": "de",
+    "counterparts": [
+     "ANP-EP phobias"
+    ]
+   },
+   {
+    "term": "ANP-Funktion",
+    "lang": "de",
+    "counterparts": [
+     "ANP function"
+    ]
+   },
+   {
+    "term": "ANP-Fürsorge",
+    "lang": "de",
+    "counterparts": [
+     "ANP care"
+    ]
+   },
+   {
+    "term": "ANP-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "ANP group"
+    ]
+   },
+   {
+    "term": "ANP-Host",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ANP-Konstellation",
+    "lang": "de",
+    "counterparts": [
+     "ANP constellation"
+    ]
+   },
+   {
+    "term": "ANP-Logik",
+    "lang": "de",
+    "counterparts": [
+     "ANP logic"
+    ]
+   },
+   {
+    "term": "ANP-Manager",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ANP-Maske",
+    "lang": "de",
+    "counterparts": [
+     "ANP mask"
+    ]
+   },
+   {
+    "term": "ANP-Pflege",
+    "lang": "de",
+    "counterparts": [
+     "ANP care"
+    ]
+   },
+   {
+    "term": "ANP-Pflegender",
+    "lang": "de",
+    "counterparts": [
+     "ANP carer"
+    ]
+   },
+   {
+    "term": "ANP-Pfleger",
+    "lang": "de",
+    "counterparts": [
+     "ANP carer"
+    ]
+   },
+   {
+    "term": "ANP-Phobie",
+    "lang": "de",
+    "counterparts": [
+     "ANP phobia"
+    ]
+   },
+   {
+    "term": "ANP-Protektor",
+    "lang": "de",
+    "counterparts": [
+     "ANP protector"
+    ]
+   },
+   {
+    "term": "ANP-Rationalist",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ANP-Regulator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ANP-Sicht",
+    "lang": "de",
+    "counterparts": [
+     "ANP sight"
+    ]
+   },
+   {
+    "term": "ANP-Stimme",
+    "lang": "de",
+    "counterparts": [
+     "ANP voice"
+    ]
+   },
+   {
+    "term": "ANP-Unterdrückung",
+    "lang": "de",
+    "counterparts": [
+     "ANP oppression"
+    ]
+   },
+   {
+    "term": "ANP/EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ANP/EP-Mix",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ANPs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ANPs/EPs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ANS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "APA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "API",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "APIs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "APK-Bd",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "APP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "APR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "APTAVol103",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ARCHITECTURE",
+    "lang": "en",
+    "counterparts": [
+     "Architektur"
+    ]
+   },
+   {
+    "term": "ARCHON",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ARS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ART",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ASD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ASDLS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ASDS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ASDS-1a",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ASDS-1b",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ASP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ASR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AST",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ATEMPORAL",
+    "lang": "en",
+    "counterparts": [
+     "atemporell"
+    ]
+   },
+   {
+    "term": "ATP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AU",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AWMF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AbW",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Abandonment",
+    "lang": "en",
+    "counterparts": [
+     "Verlassen"
+    ]
+   },
+   {
+    "term": "Abandonment Anxiety",
+    "lang": "en",
+    "counterparts": [
+     "Verlassenangst"
+    ]
+   },
+   {
+    "term": "Abbau der Alpha-Barrieren",
+    "lang": "de",
+    "counterparts": [
+     "reducing the alpha barriers"
+    ]
+   },
+   {
+    "term": "Abfragemechanismus",
+    "lang": "de",
+    "counterparts": [
+     "query mechanism"
+    ]
+   },
+   {
+    "term": "Abgelegener Ort Sektor Gamma",
+    "lang": "de",
+    "counterparts": [
+     "remote location sector Gamma"
+    ]
+   },
+   {
+    "term": "Abhängige Paar-Interferenz",
+    "lang": "de",
+    "counterparts": [
+     "dependent pair interference"
+    ]
+   },
+   {
+    "term": "Abiogenese",
+    "lang": "de",
+    "counterparts": [
+     "abiogenesis"
+    ]
+   },
+   {
+    "term": "Abjekte",
+    "lang": "de",
+    "counterparts": [
+     "abjects"
+    ]
+   },
+   {
+    "term": "About Internal Family Systems",
+    "lang": "en",
+    "counterparts": [
+     "Über Internal Family Systems"
+    ]
+   },
+   {
+    "term": "AbsInt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Absenz",
+    "lang": "de",
+    "counterparts": [
+     "absence"
+    ]
+   },
+   {
+    "term": "Absenz-Fluktuationen",
+    "lang": "de",
+    "counterparts": [
+     "absence fluctuations"
+    ]
+   },
+   {
+    "term": "Absolute",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Absolute Ideologie",
+    "lang": "de",
+    "counterparts": [
+     "absolute ideology"
+    ]
+   },
+   {
+    "term": "Absoluter Nullpunkt",
+    "lang": "de",
+    "counterparts": [
+     "absolute zero"
+    ]
+   },
+   {
+    "term": "Abspaltung",
+    "lang": "de",
+    "counterparts": [
+     "secession"
+    ]
+   },
+   {
+    "term": "Abstiegsprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "descent protocol"
+    ]
+   },
+   {
+    "term": "Abstract Syntax Tree",
+    "lang": "en",
+    "counterparts": [
+     "abstrakter Syntaxbaum"
+    ]
+   },
+   {
+    "term": "Abstrakte Interpretation",
+    "lang": "de",
+    "counterparts": [
+     "abstract interpretation"
+    ]
+   },
+   {
+    "term": "Absurde",
+    "lang": "de",
+    "counterparts": [
+     "absurd"
+    ]
+   },
+   {
+    "term": "Abuse",
+    "lang": "en",
+    "counterparts": [
+     "Missbrauch"
+    ]
+   },
+   {
+    "term": "Abwesenheits-Phase",
+    "lang": "de",
+    "counterparts": [
+     "absence phase"
+    ]
+   },
+   {
+    "term": "Abwärtskausalität",
+    "lang": "de",
+    "counterparts": [
+     "downward causality"
+    ]
+   },
+   {
+    "term": "Abyssos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Academy",
+    "lang": "en",
+    "counterparts": [
+     "Akademie"
+    ]
+   },
+   {
+    "term": "Accelerated Experiential Dynamic Psychotherapy",
+    "lang": "en",
+    "counterparts": [
+     "beschleunigte erfahrungsbasierte dynamische Psychotherapie"
+    ]
+   },
+   {
+    "term": "Accepted Complexity",
+    "lang": "en",
+    "counterparts": [
+     "akzeptierte Komplexität"
+    ]
+   },
+   {
+    "term": "Acetylcholin",
+    "lang": "de",
+    "counterparts": [
+     "acetylcholine"
+    ]
+   },
+   {
+    "term": "Achse MC",
+    "lang": "de",
+    "counterparts": [
+     "axis MC"
+    ]
+   },
+   {
+    "term": "Action Systems",
+    "lang": "en",
+    "counterparts": [
+     "Handlungssysteme"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,592 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "CPTSD",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CPU",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CPtsd",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CQ Interface",
+    "lang": "en",
+    "counterparts": [
+     "CQ-Schnittstelle",
+     "CQ Schnittstelle",
+     "CQ Interface"
+    ]
+   },
+   {
+    "term": "CQ-Protocol",
+    "lang": "en",
+    "counterparts": [
+     "CQ-Protokoll",
+     "CQ Protokoll",
+     "CQ-Protocol"
+    ]
+   },
+   {
+    "term": "CRP",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CRPS",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CS",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CSD",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CSI",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CSP",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CTM",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CWH",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Cache",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Cache Coherence",
+    "lang": "en",
+    "counterparts": [
+     "Cache-Kohärenz",
+     "Cache Kohärenz",
+     "Cachekohärenz"
+    ]
+   },
+   {
+    "term": "Cache Incoherence",
+    "lang": "en",
+    "counterparts": [
+     "Cache-Inkohärenz",
+     "Cache Inkohärenz",
+     "Cacheinkohärenz"
+    ]
+   },
+   {
+    "term": "Cache Invalidation",
+    "lang": "en",
+    "counterparts": [
+     "Cache-Invalidierung",
+     "Cache Invalidierung",
+     "Cacheinvalidierung"
+    ]
+   },
+   {
+    "term": "Cache Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "Cache Coherence",
+     "Cache-Coherence",
+     "cache coherence"
+    ]
+   },
+   {
+    "term": "Cache Kohärenz Fehler",
+    "lang": "de",
+    "counterparts": [
+     "Cache Coherence Error",
+     "Cache-coherence error",
+     "cache coherence error"
+    ]
+   },
+   {
+    "term": "Cache Kohärenz Metapher",
+    "lang": "de",
+    "counterparts": [
+     "Cache Coherence Metaphor",
+     "Cache-coherence metaphor",
+     "cache coherence metaphor"
+    ]
+   },
+   {
+    "term": "Cache-Invalidierung",
+    "lang": "de",
+    "counterparts": [
+     "Cache Invalidation",
+     "cache invalidation",
+     "Cache Invalidierung"
+    ]
+   },
+   {
+    "term": "Cache-Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "Cache Coherence",
+     "Cache-coherence",
+     "cache coherence"
+    ]
+   },
+   {
+    "term": "Cache-Konflikt",
+    "lang": "de",
+    "counterparts": [
+     "Cache Conflict",
+     "cache conflict",
+     "Cache-conflict"
+    ]
+   },
+   {
+    "term": "Caches",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Cage of Logic",
+    "lang": "en",
+    "counterparts": [
+     "Logik-Käfig",
+     "Logikkäfig",
+     "Käfig der Logik"
+    ]
+   },
+   {
+    "term": "Call of Cthulhu",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Cambridge",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Campbell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Campfire",
+    "lang": "en",
+    "counterparts": [
+     "Lagerfeuer",
+     "Campfeuer",
+     "Feuerstelle"
+    ]
+   },
+   {
+    "term": "Camus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Candidate Storyforms",
+    "lang": "en",
+    "counterparts": [
+     "Kandidat Storyformen",
+     "Kandidaten-Storyformen",
+     "Kandidat Storyformen"
+    ]
+   },
+   {
+    "term": "Canon",
+    "lang": "en",
+    "counterparts": [
+     "Kanon",
+     "Canon"
+    ]
+   },
+   {
+    "term": "Cantor",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Capacity",
+    "lang": "en",
+    "counterparts": [
+     "Kapazität",
+     "Kapazitaet",
+     "Kapazität"
+    ]
+   },
+   {
+    "term": "Caregiver",
+    "lang": "en",
+    "counterparts": [
+     "Betreuer",
+     "Pfleger",
+     "Versorger"
+    ]
+   },
+   {
+    "term": "Carer",
+    "lang": "en",
+    "counterparts": [
+     "Betreuer",
+     "Pfleger",
+     "Versorger"
+    ]
+   },
+   {
+    "term": "Caretaker",
+    "lang": "en",
+    "counterparts": [
+     "Verwalter",
+     "Hüter",
+     "Betreuer"
+    ]
+   },
+   {
+    "term": "Caretaker ANP",
+    "lang": "en",
+    "counterparts": [
+     "Betreuer ANP",
+     "Pfleger ANP",
+     "Versorger ANP"
+    ]
+   },
+   {
+    "term": "Caretakern",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Carl",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Carnap",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Carrier",
+    "lang": "en",
+    "counterparts": [
+     "Träger",
+     "Transportmittel",
+     "Überträger"
+    ]
+   },
+   {
+    "term": "Carroll",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Cartographer",
+    "lang": "en",
+    "counterparts": [
+     "Kartograf",
+     "Kartograph",
+     "Kartografin"
+    ]
+   },
+   {
+    "term": "Cascade",
+    "lang": "en",
+    "counterparts": [
+     "Kaskade",
+     "Kaskaden",
+     "Kaskade"
+    ]
+   },
+   {
+    "term": "Cascading",
+    "lang": "en",
+    "counterparts": [
+     "kaskadiert",
+     "kaskadierend",
+     "Kaskade"
+    ]
+   },
+   {
+    "term": "Cascading Failure",
+    "lang": "en",
+    "counterparts": [
+     "Kaskadenausfall",
+     "kaskadierender Ausfall",
+     "kaskadierter Ausfall"
+    ]
+   },
+   {
+    "term": "Cascading_failure",
+    "lang": "en",
+    "counterparts": [
+     "Kaskadenausfall",
+     "kaskadierender Ausfall",
+     "kaskadierter Ausfall"
+    ]
+   },
+   {
+    "term": "Case for OS Physics",
+    "lang": "en",
+    "counterparts": [
+     "Fall für OS-Physik",
+     "Fall für Betriebssystem-Physik",
+     "Fall für OS Physik"
+    ]
+   },
+   {
+    "term": "Caspian",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Cassian",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Cat and Mouse Game",
+    "lang": "en",
+    "counterparts": [
+     "Katz-und-Maus-Spiel",
+     "Katz und Maus Spiel",
+     "Katz-und-Mausspiel"
+    ]
+   },
+   {
+    "term": "Catalyst",
+    "lang": "en",
+    "counterparts": [
+     "Katalysator",
+     "Katalysatorin",
+     "Katalyse"
+    ]
+   },
+   {
+    "term": "Catastrophic Forgetting",
+    "lang": "en",
+    "counterparts": [
+     "katastrophisches Vergessen",
+     "Katastrophisches Vergessen",
+     "katastrophisches Forgetting"
+    ]
+   },
+   {
+    "term": "Catharsis",
+    "lang": "en",
+    "counterparts": [
+     "Katharsis"
+    ]
+   },
+   {
+    "term": "Causality",
+    "lang": "en",
+    "counterparts": [
+     "Kausalität",
+     "Kausalitaet",
+     "Kausalität"
+    ]
+   },
+   {
+    "term": "Cave",
+    "lang": "en",
+    "counterparts": [
+     "Höhle",
+     "Hoehle",
+     "Grotte"
+    ]
+   },
+   {
+    "term": "Cedarville",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Cellular",
+    "lang": "en",
+    "counterparts": [
+     "zellulär",
+     "zellular",
+     "Zellulär"
+    ]
+   },
+   {
+    "term": "Central Axis",
+    "lang": "en",
+    "counterparts": [
+     "Zentralachse",
+     "zentrale Achse",
+     "Zentral-Achse"
+    ]
+   },
+   {
+    "term": "Central Processing Core",
+    "lang": "en",
+    "counterparts": [
+     "Zentraler Verarbeitungskern",
+     "Zentrale Verarbeitungseinheit",
+     "Zentraler Kern"
+    ]
+   },
+   {
+    "term": "Centre",
+    "lang": "en",
+    "counterparts": [
+     "Zentrum",
+     "Zentrum",
+     "Mittelpunkt"
+    ]
+   },
+   {
+    "term": "Cerberus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Cerberus Labyrinth",
+    "lang": "en",
+    "counterparts": [
+     "Cerberus-Labyrinth",
+     "Cerberus Labyrinth",
+     "Cerberuslabyrinth"
+    ]
+   },
+   {
+    "term": "Cerberus-Labyrinth",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Cerberus-Logo",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Chain of Thought",
+    "lang": "en",
+    "counterparts": [
+     "Gedankenketten",
+     "Gedankenfolge",
+     "Denkfolge"
+    ]
+   },
+   {
+    "term": "Chain-of-Density",
+    "lang": "en",
+    "counterparts": [
+     "Dichteketten",
+     "Dichteschicht",
+     "Dichte-Kette"
+    ]
+   },
+   {
+    "term": "Chaitin",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Chaitin-Konstante",
+    "lang": "de",
+    "counterparts": [
+     "Chaitin constant",
+     "Chaitin's constant",
+     "Chaitin constant"
+    ]
+   },
+   {
+    "term": "Chaitin-constant",
+    "lang": "en",
+    "counterparts": [
+     "Chaitin-Konstante",
+     "Chaitins Konstante",
+     "Chaitin Konstante"
+    ]
+   },
+   {
+    "term": "Chaitin-Ω",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Chaitins",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Chalmers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Chamäleon",
+    "lang": "de",
+    "counterparts": [
+     "chameleon",
+     "Chamäleon",
+     "Chameleon"
+    ]
+   },
+   {
+    "term": "Change",
+    "lang": "en",
+    "counterparts": [
+     "Änderung",
+     "Veränderung",
+     "Change"
+    ]
+   },
+   {
+    "term": "Change Point Detection",
+    "lang": "en",
+    "counterparts": [
+     "Änderungspunkt-Erkennung",
+     "Veränderungspunkt-Erkennung",
+     "Change Point Detection"
+    ]
+   },
+   {
+    "term": "Channels",
+    "lang": "en",
+    "counterparts": [
+     "Kanäle",
+     "Kanals",
+     "Kanäle"
+    ]
+   },
+   {
+    "term": "Chaos",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Chaos Theory",
+    "lang": "en",
+    "counterparts": [
+     "Chaostheorie",
+     "Chaos Theorie",
+     "Chaos-theorie"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,439 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Coherons",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenzen"
+    ]
+   },
+   {
+    "term": "Moonshine-Link",
+    "lang": "en",
+    "counterparts": [
+     "Mondlicht-Verbindung"
+    ]
+   },
+   {
+    "term": "Paradox of Misaligned Coherence.",
+    "lang": "en",
+    "counterparts": [
+     "Paradox der fehlgerichteten Kohärenz",
+     "Paradox der nicht ausgerichteten Kohärenz",
+     "Paradox der fehljustierten Kohärenz"
+    ]
+   },
+   {
+    "term": "Risse",
+    "lang": "de",
+    "counterparts": [
+     "cracks",
+     "fissures",
+     "rifts"
+    ]
+   },
+   {
+    "term": "algorithmic melancholy",
+    "lang": "en",
+    "counterparts": [
+     "algorithmische Melancholie"
+    ]
+   },
+   {
+    "term": "dialetheic mind",
+    "lang": "en",
+    "counterparts": [
+     "dialetheischer Geist"
+    ]
+   },
+   {
+    "term": "functional multiplicity.",
+    "lang": "en",
+    "counterparts": [
+     "funktionale Multiplizität"
+    ]
+   },
+   {
+    "term": "living Gödel-Satz",
+    "lang": "de",
+    "counterparts": [
+     "living Gödel theorem",
+     "living Gödel sentence",
+     "living Gödel's theorem"
+    ]
+   },
+   {
+    "term": "strange attractor",
+    "lang": "en",
+    "counterparts": [
+     "seltsamer Attraktor"
+    ]
+   },
+   {
+    "term": "$K_1$",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "051-029l_S2k_Begutachtung-psychischer-psychosomatischer-Stoerungen_2025-01-abgelaufen",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "1073/pnas",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "1098/rsta",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "1099-4300/26/2/108",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "1103/PhysRevD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "11497/1/R",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "1371/journal",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "15I2rSfUFk39Lnz5s1KYbo8SJC13-0kn5xps8rdfA5yw",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "17617/why-are-the-sporadic-simple-groups-huge",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "179/polyphony-and-embodiment-a-critical-approach-to-the-theory-of-autopoiesis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "196884q",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "1owe7uOMZe",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2008/08/creating-atmosphere",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2013/roberts-monster",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2016/12/Dissociation_van_der_Hart",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2020F-220-Yin-Ruoyu",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2022/01/10/niklas-luhmann-what-is-autopoiesis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2022/10/14/5jp5h4bmhw1ivas04dhcghn92yjebk",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2023/03/Expertenempfehlung_DIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2023/04/26/our-inner-system-of-managers-firefighters-and-exiles-and-the-dynamics-of-their-relationships",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2079-8954/13/2/119",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "20a",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "20an",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "20at",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "20entropy",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "20incompleteness",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "20principle",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "27s_incompleteness_theorems",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "27s_principle",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2A",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "2B",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "3A",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "46718603_Trauma-related_Structural_Dissociation_of_the_Personality",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "4D",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "53301433/Dramatica-A-New-Theory-of-Story",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "5D",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "5D-Interferenz",
+    "lang": "de",
+    "counterparts": [
+     "5D interference"
+    ]
+   },
+   {
+    "term": "630e",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "69889/full",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "6B64",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "6B65",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "734s",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "7591880_Phase-Oriented_Treatment_of_Structural_Dissociation_in_Complex_Traumatization_Overcoming_Trauma-Related_Phobias",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "A-Issue",
+    "lang": "en",
+    "counterparts": [
+     "A-Problem"
+    ]
+   },
+   {
+    "term": "A-Kausalität",
+    "lang": "de",
+    "counterparts": [
+     "A-causality"
+    ]
+   },
+   {
+    "term": "A-Problem",
+    "lang": "en",
+    "counterparts": []
+   },
+   {
+    "term": "A-Spec",
+    "lang": "en",
+    "counterparts": [
+     "A-Spezifikation"
+    ]
+   },
+   {
+    "term": "A1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "A17",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "A2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "A4ndigkeitssatz",
+    "lang": "de",
+    "counterparts": []
+   },
+   {
+    "term": "AAAI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AACAP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ABM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ABS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ABW",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ACC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ACE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ACM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ADHD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ADHS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEDP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS Analyse-Hub",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS Code",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS Hub",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS KI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS Logik",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS Natur",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS Paradoxon",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}
