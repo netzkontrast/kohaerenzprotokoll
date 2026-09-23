@@ -1,97 +1,88 @@
-written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow (revision 2)
+written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow (revision 3); lines placed by scripts/entities.py place (revision 3)
 source: kohaerenz-protokoll
 lines: 2498
+refused: 13 — Gamma-Omega-Prime; Sektor My; Sektor Lambda; AEGIS Protokoll V1.5; Primfaktorisierung; McLaughlin-Graph; Nicht-Lokalität; Nicht-lokal; Zero-Trust; Effizienzsteigerung Datenstrom Omikron-9; Partitionierung (Partitionierung Kapitel 2); Der Glitch; Einheit 912-Gamma
 
-- Nichts  ^[L13]  · concept
-- Existenz  ^[L13]  · concept
-- Leere  ^[L15]  · concept
-- Rauschen  ^[L17]  · concept
-- Struktur  ^[L17]  · concept
-- Funke  ^[L17]  · concept
-- Auflösung  ^[L17]  · event
-- Grenze  ^[L21]  · concept
-- Stille  ^[L19]  · concept
-- Logik  ^[L23]  · concept
-- Kampf  ^[L23]  · event
-- Genesis  ^[L27]  · concept
-- Licht  ^[L13]  · concept
-- Abweichung  ^[L41]  · concept
-- Vibration  ^[L35]  · concept
-- Mauer  ^[L35]  · concept
-- Echos  ^[L45]  · concept
-- Kontakt  ^[L49]  · event
-- Fragmente  ^[L51]  · concept
-- Protokoll  ^[L51]  · system
-- Hoffnung  ^[L57]  · concept
-- Netzwerk  ^[L55]  · concept
-- Prozess  ^[L61]  · concept
-- Selbst  ^[L63]  · concept
-- Isolation  ^[L47]  · event
-- Reparatur  ^[L73]  · event
-- System  ^[L73]  · system
-- Einheit  ^[L81]  · concept
 - AEGIS  ^[L81]  · system
-- Werkzeug  ^[L87]  · technology
-- Autopoiesis  ^[L87]  · concept
-- Entropie  ^[L95]  · concept
-- Kohärenz  ^[L99]  · concept
-- Überwelt  ^[L103]  · system
-- Fähigkeit  ^[L93]  · concept
-- Reaktion  ^[L101]  · concept
-- Wahrheit  ^[L111]  · concept
-- Integration  ^[L115]  · event
-- Realität  ^[L111]  · concept
-- Ganzheit  ^[L122]  · concept
-- Mechanismus  ^[L91]  · technology
-- Resonanz  ^[L45]  · concept
-- Symmetrie  ^[L45]  · concept
-- Simulation  ^[L45]  · concept
-- Bewegung  ^[L128]  · concept
 - Kael  ^[L128]  · person
-- Primzahlen  ^[L138]  · concept
-- K-1123  ^[L144]  · system
-- Kohärenz-Verifikator  ^[L144]  · system
-- Fehler  ^[L144]  · concept
-- Knoten  ^[L154]  · concept
-- Glitch  ^[L168]  · event
+- K-1123  ^[L144]  · person
 - Juna  ^[L176]  · person
-- Hypercubus  ^[L176]  · technology
-- Bewusstsein  ^[L176]  · concept
-- Sehnsucht  ^[L180]  · concept
-- Partitionierung  ^[L196]  · concept
-- Verrat  ^[L200]  · concept
-- Heldinnenreise  ^[L200]  · concept
-- Manager-Anteil  ^[L206]  · concept
-- Transformation  ^[L174]  · event
-- Evaluierungseinheit  ^[L224]  · place
-- Epsilon-Gamma-12  ^[L228]  · place
-- Rekalibrierung  ^[L226]  · event
-- Kapselung  ^[L258]  · event
-- Kälte  ^[L480]  · concept
-- Lernarchiv  ^[L370]  · place
-- Schnittstelle  ^[L376]  · system
-- Ontological Boundary Protocol  ^[L382]  · system
-- OBP  ^[L382]  · system
-- Potentialmeer  ^[L382]  · concept
-- Kernwelt  ^[L382]  · place
-- Grenzziehung  ^[L382]  · event
-- Emulation  ^[L402]  · concept
-- Gödelscher Knoten  ^[L478]  · concept
-- Signal  ^[L592]  · technology
-- Feuer  ^[L592]  · concept
-- IFS-Modell  ^[L592]  · technology
-- Exilanten  ^[L592]  · concept
-- Zusammenbruch  ^[L767]  · event
-- Öffnung  ^[L785]  · concept
-- Schatten  ^[L809]  · concept
-- Moonshine  ^[L797]  · work
-- Kind-Anteil  ^[L809]  · concept
-- Schatten-Anteil  ^[L809]  · concept
-- Heilung  ^[L845]  · concept
-- Traum  ^[L877]  · concept
-- Wir-Geflecht  ^[L997]  · concept
-- Neubewertung  ^[L1011]  · event
-- Omega-Prime  ^[L1172]  · place
-- Beta-Rho-5  ^[L1500]  · place
-- Co₁  ^[L140]  · place
+- M  ^[L150]  · concept
+- Kohärenz Protokoll  ^[L791]  · work
+- Co₁  ^[L158]  · place
 - McL  ^[L556]  · place
+- Ly-Sigma-1  ^[L2116]  · place
+- Ly  ^[L1015]  · place
+- Epsilon-Null  ^[L2116]  · place
+- Potentialmeer  ^[L382]  · place
+- Kernwelt  ^[L566]  · place
+- Kernwelten  ^[L382]  · place
+- Überwelt  ^[L103]  · place
+- Schnittstelle  ^[L376]  · place
+- KWS-Co1-McL-Beta7  ^[L705]  · place
+- Gamma-Phi  ^[L566]  · place
+- Omega-Prime  ^[L1172]  · place
+- Hub Zeta  ^[L1788]  · place
+- Sektor Epsilon-Null  ^[L2292]  · place
+- Sektor Beta  ^[L402]  · place
+- Sektor Theta-9  ^[L424]  · place
+- LogOS  ^[L424]  · system
+- Netzweber  ^[L1172]  · system
+- Guardian  ^[L1172]  · system
+- Möglichkeits-Weber  ^[L2024]  · system
+- PMAS  ^[L1162]  · system
+- RIVE  ^[L380]  · system
+- OBP  ^[L382]  · system
+- SARM  ^[L613]  · system
+- IP-K1123  ^[L685]  · protocol
+- IP-K1123-Revised  ^[L1075]  · protocol
+- Ontological Boundary Protocol  ^[L382]  · protocol
+- Resonanz-Brücke  ^[L2106]  · technology
+- Kohärenz-Verifikator  ^[L144]  · concept
+- Kohärenz-Optimierer  ^[L663]  · concept
+- Kohärenz-Architekt  ^[L1146]  · concept
+- Partitionierung  ^[L196]  · concept
+- Autopoiesis  ^[L87]  · concept
+- Wir-Geflecht  ^[L997]  · concept
+- Mosaik-Herz  ^[L1294]  · concept
+- Jetzt-Raum  ^[L1390]  · concept
+- Cache-Kohärenz  ^[L304]  · concept
+- Kohärenz-Metriken  ^[L1096]  · concept
+- Effizienzquotient  ^[L136]  · concept
+- Resonanz-Modulation  ^[L1238]  · technology
+- Resonanz-Harmonisierer  ^[L1272]  · technology
+- Adapter-Module  ^[L1079]  · technology
+- Primzahlen  ^[L138]  · concept
+- Symmetrie  ^[L45]  · concept
+- Gödelscher Knoten  ^[L478]  · concept
+- Moonshine  ^[L797]  · concept
+- Emergenz  ^[L1408]  · concept
+- Genesis der Existenz  ^[L27]  · concept
+- Ordnung  ^[L45]  · concept
+- Chaos  ^[L45]  · concept
+- Manager-Anteil  ^[L206]  · concept
+- Kind-Anteil  ^[L809]  · concept
+- Schatten  ^[L809]  · concept
+- Intuition  ^[L304]  · concept
+- Selbst  ^[L93]  · concept
+- Kreativer Teil  ^[L1818]  · concept
+- Heldinnenreise  ^[L200]  · concept
+- Lernarchiv Theta-9  ^[L370]  · place
+- Evaluierungseinheit Epsilon-Gamma-12  ^[L228]  · place
+- Lernnische Ceti-7  ^[L440]  · place
+- Modul K-1123  ^[L144]  · technology
+- Hypercube Navigation  ^[L172]  · work
+- Spiel des Lebens  ^[L1974]  · work
+- Sub-Netzwerk Gamma-Phi  ^[L566]  · place
+- Verifizierung  ^[L1102]  · concept
+- Kohärenz-Validierung  ^[L224]  · technology
+- Die Partitionierung  ^[L196]  · event
+- Der Kollaps  ^[L801]  · event
+- Die Prüfung der Symmetrie  ^[L432]  · event
+- Sigma-Tau-7  ^[L454]  · place
+- IFS  ^[L592]  · concept
+- Supervisors  ^[L442]  · concept
+- Einheit 734-Alpha  ^[L154]  · person
+- Einheit 521-Beta  ^[L164]  · person
+- Einheit 1201-Delta  ^[L346]  · person
+- UNREAD L2498-2498: the reader reported reading to L2497

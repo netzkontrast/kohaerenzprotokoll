@@ -1,19 +1,19 @@
 export const meta = {
   name: 'entity-lists',
-  description: 'One Haiku reader per source file: its 50-100 most important entities, each line taken from read.py --find, written to Plan/entities/<slug>.md',
-  whenToUse: 'Building or refreshing per-document entity lists for scripts/entities.py. Pass the slugs as args; verify with `python3 scripts/entities.py verify` afterwards.',
+  description: 'One Haiku reader per source file names its 50-100 most important entities; code places each line (entities.py place)',
+  whenToUse: 'Building or refreshing per-document entity lists for scripts/entities.py. Pass the slugs as args; then run `python3 scripts/entities.py place <slug> Plan/entities/names/<slug>.json` per slug and `verify`.',
   phases: [{ title: 'Read', detail: 'one Haiku agent per Sources/drive file', model: 'haiku' }],
 }
 
-// Revision 2, 2026-09-23. Revision 1 (the pilot) let the model type line numbers:
-// 94 of 374 rows failed verification -- 39 used a form the document never
-// contains, 29 cited the wrong line, 26 were one to three lines off -- and one
-// reader stopped at line 1200 of 2498 and called its coverage comprehensive.
-// P26: ask for an identifier, never type one. Every line now comes from
-// read.py --find, which refuses a form the document does not contain.
-// RE-PILOTED 2026-09-23: 2 of 4 lists verify. The rule did not hold -- Haiku still
-// wrote forms --find refused, and one reader relabelled its old file instead of
-// rereading. Revision 3 should take names only and let code assign lines (NOW.md).
+// Revision 3, 2026-09-23. Revision 1 let the model type line numbers: 94 of 374
+// rows failed verification. Revision 2 asked it to copy each line from
+// read.py --find instead: 2 of 4 lists verified, because Haiku still typed forms
+// --find had refused, and one reader relabelled its old file instead of rereading.
+// A prompt rule did not hold, so the rule is now structure (P26): the reader
+// returns NAMES ONLY, into Plan/entities/names/<slug>.json, and
+// `scripts/entities.py place` finds each name's first whole-word line and writes
+// the list -- dropping and counting any name the document does not contain.
+// A line a model never types cannot be wrong.
 
 const SCHEMA = {
   type: 'object',
@@ -23,10 +23,9 @@ const SCHEMA = {
     rows: { type: 'integer' },
     total_lines: { type: 'integer' },
     read_to_line: { type: 'integer' },
-    refused: { type: 'integer', description: 'entities read.py --find refused and you dropped or rewrote' },
     note: { type: 'string' },
   },
-  required: ['slug', 'written', 'rows', 'total_lines', 'read_to_line', 'refused'],
+  required: ['slug', 'written', 'rows', 'total_lines', 'read_to_line'],
 }
 
 const prompt = (slug) => `You read ONE German research document for a term wiki and list its most important entities.
@@ -37,23 +36,15 @@ The document: Sources/drive/${slug}.md (repository root is the current directory
 
 2. Choose the 50-100 most important entities OF THIS DOCUMENT, most central first. An entity is a thing the document treats as a thing: a named person or character, a place, world or level, an organisation, a system, AI, protocol or programme, a coined term or concept of the world, a technology, an event, a work cited (book, film, paper, author), or a real-world concept the document builds on. NOT an entity: ordinary German vocabulary, repeated template field labels, markdown formatting, section numbers. A short document may have fewer than 50 — list fewer. Never pad.
 
-3. NEVER TYPE A LINE NUMBER. For every entity run:
-     python3 scripts/read.py ${slug} --find "<entity exactly as written>"
-   It answers with one or more ^[Lnn] lines that really contain those words — use one of them. If it answers NOT IN THIS DOCUMENT, the form you wrote does not occur: use the exact form the document has (the nearest lines it prints help), or drop the entity. Count every refusal.
-   Write each entity exactly as the document writes it: same spelling, case, hyphens, umlauts; no translation, no added article. An abbreviation or variant the document uses for the same entity is its own row, right after.
+3. Write each entity exactly as the document writes it: same spelling, case, hyphens, umlauts; no translation, no added article, no gloss or abbreviation in brackets after it. An abbreviation or variant the document uses for the same entity is its own entry, right after. Do NOT give line numbers — code finds the line, and drops any name the document does not contain word for word.
 
-4. Write the list with the Write tool to Plan/entities/${slug}.md, in exactly this format and nothing else:
+4. Write the names with the Write tool to Plan/entities/names/${slug}.json, as JSON and nothing else:
 
-written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow (revision 2)
-source: ${slug}
-lines: <total number of lines in the file>
+{"source": "${slug}", "written_by": "claude-haiku-4-5, one reader per document, via the entity-lists workflow (revision 3)", "total_lines": <total number of lines in the file>, "read_to_line": <the last line you actually read>, "entities": [{"term": "<entity>", "kind": "<kind>"}, ...]}
 
-- <entity>  ^[L<line>]  · <kind>
+<kind> is one of: person, place, organisation, system, concept, technology, event, work, other. Most central first. If you did not read to the end, say so with read_to_line; a stated gap is useful, a list reconstructed from memory is not.
 
-<kind> is one of: person, place, organisation, system, concept, technology, event, work, other.
-If any part of the file was not read, end with one line: - UNREAD <which lines and why>. A stated gap is useful; a list reconstructed from memory is not.
-
-Write no other file. Return: slug, whether you wrote the file, rows, the file's total lines, the last line you actually read, how many entities --find refused, and a one-line note only if something went wrong.`
+Write no other file. Return: slug, whether you wrote the file, how many entities, the file's total lines, the last line you actually read, and a one-line note only if something went wrong.`
 
 phase('Read')
 const slugs = Array.isArray(args) ? args : []
@@ -68,6 +59,6 @@ log(`${done.length} returned, ${failed.length} not written, ${partial.length} re
 return {
   failed,
   partial: partial.map((r) => ({ slug: r.slug, read_to: r.read_to_line, of: r.total_lines })),
-  refused: done.reduce((n, r) => n + (r.refused || 0), 0),
+  place: done.filter((r) => r.written).map((r) => `python3 scripts/entities.py place ${r.slug} Plan/entities/names/${r.slug}.json`),
   notes: done.filter((r) => r.note).map((r) => ({ slug: r.slug, note: r.note })),
 }

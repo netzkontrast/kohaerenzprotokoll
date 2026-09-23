@@ -2,8 +2,12 @@
 
 Each `<slug>.md` here is **one model's reading of one document**: the 50-100
 entities it judged most important, most central first, each citing the file line
-it was found on. They were written by Claude Haiku 4.5, one reader per document
-and blind to every other document, by the `entity-lists` workflow.
+it was found on. The names are Claude Haiku 4.5's, one reader per document and
+blind to every other document, by the `entity-lists` workflow; **the lines are
+code's.** Since revision 3 the reader writes names only, to `names/<slug>.json`,
+and `python3 scripts/entities.py place <slug> names/<slug>.json` writes the list:
+each name at its first whole-word line, and every name the document does not
+contain word for word dropped and listed on the file's `refused:` line.
 
 **They are proposals, not a census.** A census (`Sources/terms/`) is exhaustive
 and written by a person; a gold candidate list (`Plan/runs/<slug>/03-candidates.md`)

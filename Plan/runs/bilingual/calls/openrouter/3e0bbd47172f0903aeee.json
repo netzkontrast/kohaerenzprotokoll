@@ -1,0 +1,532 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Buddhistisches Anatta",
+    "lang": "de",
+    "counterparts": [
+     "Buddhist anatta",
+     "Buddhist concept of anatta",
+     "anatta"
+    ]
+   },
+   {
+    "term": "Buescher",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Buffering",
+    "lang": "en",
+    "counterparts": [
+     "Pufferung",
+     "Puffern",
+     "Buffering"
+    ]
+   },
+   {
+    "term": "Bulk",
+    "lang": "en",
+    "counterparts": [
+     "Masse",
+     "Volumen",
+     "Schüttgut"
+    ]
+   },
+   {
+    "term": "Bulk-Modell",
+    "lang": "de",
+    "counterparts": [
+     "bulk model",
+     "bulk modelling",
+     "bulk modeling"
+    ]
+   },
+   {
+    "term": "Bund",
+    "lang": "de",
+    "counterparts": [
+     "federation",
+     "union",
+     "bundle"
+    ]
+   },
+   {
+    "term": "Bundesarbeitsgemeinschaft Selbsthilfe",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bundesgerichtshof",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bundesministerium",
+    "lang": "de",
+    "counterparts": [
+     "federal ministry",
+     "ministry",
+     "federal department"
+    ]
+   },
+   {
+    "term": "Bundesrepublik Deutschland",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bundessozialgericht",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bundessozialgerichts",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bundesteilhabegesetz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bundesversorgungsgesetzes",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bundesärztekammer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bunker",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bunker Psychology",
+    "lang": "en",
+    "counterparts": [
+     "Bunker-Psychologie",
+     "Psychologie des Bunkers",
+     "Bunkerpsychologie"
+    ]
+   },
+   {
+    "term": "Bunkers",
+    "lang": "en",
+    "counterparts": [
+     "Bunker",
+     "Bunkeranlagen",
+     "Bunkerkomplexe"
+    ]
+   },
+   {
+    "term": "Burden",
+    "lang": "en",
+    "counterparts": [
+     "Last",
+     "Belastung",
+     "Schwere"
+    ]
+   },
+   {
+    "term": "Burdens",
+    "lang": "en",
+    "counterparts": [
+     "Lasten",
+     "Belastungen",
+     "Schweren"
+    ]
+   },
+   {
+    "term": "Burnout",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bus Read",
+    "lang": "en",
+    "counterparts": [
+     "Bus-Lesevorgang",
+     "Bus-Lesen",
+     "Busread"
+    ]
+   },
+   {
+    "term": "Bus Read Exclusive",
+    "lang": "en",
+    "counterparts": [
+     "Exklusiver Bus-Lesevorgang",
+     "Bus-Lesen exklusiv",
+     "Exklusiver Busread"
+    ]
+   },
+   {
+    "term": "Bus Snooping",
+    "lang": "en",
+    "counterparts": [
+     "Bus-Abfragen",
+     "Busüberwachung",
+     "Bus-Snooping"
+    ]
+   },
+   {
+    "term": "BusRd",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BusRdX",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BusRdX-Transaktion",
+    "lang": "de",
+    "counterparts": [
+     "BusRdX transaction",
+     "BusRdX-transaction"
+    ]
+   },
+   {
+    "term": "Bustransaktion",
+    "lang": "de",
+    "counterparts": [
+     "bus transaction",
+     "bus transfer",
+     "bus operation"
+    ]
+   },
+   {
+    "term": "Butler",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Byzantine Fault Tolerance",
+    "lang": "en",
+    "counterparts": [
+     "Byzantinische Fehlertoleranz",
+     "Byzantischer Fault Tolerance",
+     "Byzantinische Fehlerresistenz"
+    ]
+   },
+   {
+    "term": "Byzantinischer Fehlertoleranz",
+    "lang": "de",
+    "counterparts": [
+     "Byzantine fault tolerance",
+     "Byzantine fault tolerances"
+    ]
+   },
+   {
+    "term": "Bürgerlichen Gesetzbuch",
+    "lang": "de",
+    "counterparts": [
+     "civil code",
+     "Civil Code",
+     "German Civil Code"
+    ]
+   },
+   {
+    "term": "Bürgerliches Gesetzbuch",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "C-PTSD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "C-System",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "C-System-Inkonsistenz",
+    "lang": "de",
+    "counterparts": [
+     "C-system inconsistency",
+     "C System inconsistency",
+     "C-System inconsistency"
+    ]
+   },
+   {
+    "term": "C-System-Strategie",
+    "lang": "de",
+    "counterparts": [
+     "C-system strategy",
+     "C System strategy",
+     "C-System strategy"
+    ]
+   },
+   {
+    "term": "C-Systeme",
+    "lang": "de",
+    "counterparts": [
+     "C-Systems",
+     "C systems",
+     "C-Systemes"
+    ]
+   },
+   {
+    "term": "C-Systemen",
+    "lang": "de",
+    "counterparts": [
+     "C-Systems",
+     "C systems",
+     "C-Systemen"
+    ]
+   },
+   {
+    "term": "C-reaktivem Protein",
+    "lang": "de",
+    "counterparts": [
+     "C-reactive protein",
+     "CRP",
+     "high-sensitivity CRP"
+    ]
+   },
+   {
+    "term": "C2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CAI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CAPS-5",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CAS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CAS-Prinzipien",
+    "lang": "de",
+    "counterparts": [
+     "CAS principles",
+     "CAS principle"
+    ]
+   },
+   {
+    "term": "CBS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CBT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CCI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CCv2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CCv3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CDM-Modell",
+    "lang": "de",
+    "counterparts": [
+     "CDM model",
+     "CDM modelling"
+    ]
+   },
+   {
+    "term": "CERN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CFS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CFSG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CFT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CFT-Analogon",
+    "lang": "de",
+    "counterparts": [
+     "CFT analogue",
+     "CFT analog"
+    ]
+   },
+   {
+    "term": "CFT-Korrespondenz",
+    "lang": "de",
+    "counterparts": [
+     "CFT correspondence"
+    ]
+   },
+   {
+    "term": "CFT-Mechanismus",
+    "lang": "de",
+    "counterparts": [
+     "CFT mechanism"
+    ]
+   },
+   {
+    "term": "CFT-Modell",
+    "lang": "de",
+    "counterparts": [
+     "CFT model"
+    ]
+   },
+   {
+    "term": "CFT-Substrat-Analogie",
+    "lang": "de",
+    "counterparts": [
+     "CFT substrate analogy"
+    ]
+   },
+   {
+    "term": "CFTs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CHAOS",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CHRONOS",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CLASSE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CLIK",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CMP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CMRglu",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CNM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CNT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CO1-TYP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CODES Intelligence",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "COHERENCE",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenz",
+     "Kohärenz",
+     "Kohärenz"
+    ]
+   },
+   {
+    "term": "COMPLEXITY",
+    "lang": "en",
+    "counterparts": [
+     "Komplexität",
+     "Komplexität",
+     "Komplexität"
+    ]
+   },
+   {
+    "term": "CONTRADICTION WITHOUT SYSTEM-WIDE TRIVIALIZATION",
+    "lang": "en",
+    "counterparts": [
+     "Widerspruch ohne systemweite Trivialisierung",
+     "Widerspruch ohne systemweite Trivialisierung",
+     "Widerspruch ohne systemweite Trivialisierung"
+    ]
+   },
+   {
+    "term": "CORE",
+    "lang": "en",
+    "counterparts": [
+     "Kern",
+     "Core",
+     "Kern"
+    ]
+   },
+   {
+    "term": "CPT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CPT-Verletzung",
+    "lang": "de",
+    "counterparts": [
+     "CPT violation"
+    ]
+   }
+  ]
+ }
+}

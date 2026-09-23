@@ -1,0 +1,517 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Anthropisches Prinzip",
+    "lang": "de",
+    "counterparts": [
+     "Anthropic Principle"
+    ]
+   },
+   {
+    "term": "Anti-Dialetheisch",
+    "lang": "de",
+    "counterparts": [
+     "Anti-dialetheic"
+    ]
+   },
+   {
+    "term": "Anti-Dialetheisches AEGIS",
+    "lang": "de",
+    "counterparts": [
+     "Anti-dialetheic AEGIS"
+    ]
+   },
+   {
+    "term": "Anti-Entropie",
+    "lang": "de",
+    "counterparts": [
+     "Anti-entropy"
+    ]
+   },
+   {
+    "term": "Anti-Entropie-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "Anti-entropy protocol"
+    ]
+   },
+   {
+    "term": "Anti-Information",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Anti-Realismus",
+    "lang": "de",
+    "counterparts": [
+     "Anti-realism"
+    ]
+   },
+   {
+    "term": "Anti-de Sitter Raum",
+    "lang": "de",
+    "counterparts": [
+     "Anti-de Sitter space"
+    ]
+   },
+   {
+    "term": "Anti-de-Sitter",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Anti-de-Sitter-Raum",
+    "lang": "de",
+    "counterparts": [
+     "Anti-de Sitter space"
+    ]
+   },
+   {
+    "term": "Antikörper",
+    "lang": "de",
+    "counterparts": [
+     "Antibody"
+    ]
+   },
+   {
+    "term": "Antilogicalism",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Antinomie",
+    "lang": "de",
+    "counterparts": [
+     "Antinomy"
+    ]
+   },
+   {
+    "term": "Antinomien",
+    "lang": "de",
+    "counterparts": [
+     "Antinomies"
+    ]
+   },
+   {
+    "term": "Anwendung der Dual-Kernel-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "Application of the Dual-Kernel Theory"
+    ]
+   },
+   {
+    "term": "Anziehungsbecken",
+    "lang": "de",
+    "counterparts": [
+     "attraction basin"
+    ]
+   },
+   {
+    "term": "Apollinisch",
+    "lang": "de",
+    "counterparts": [
+     "Apollonian"
+    ]
+   },
+   {
+    "term": "Apology",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Apophatik",
+    "lang": "de",
+    "counterparts": [
+     "Apophatic"
+    ]
+   },
+   {
+    "term": "Apparat",
+    "lang": "de",
+    "counterparts": [
+     "Apparatus"
+    ]
+   },
+   {
+    "term": "Apparently Normal Part",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Apparently Normal Parts",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Apparently Normal Parts (ANPs)",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Apparently Normal Personality",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Appeasement",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Approximationsgitter",
+    "lang": "de",
+    "counterparts": [
+     "approximation lattice"
+    ]
+   },
+   {
+    "term": "Arbeitsmodelle",
+    "lang": "de",
+    "counterparts": [
+     "work models"
+    ]
+   },
+   {
+    "term": "Archetyp",
+    "lang": "de",
+    "counterparts": [
+     "Archetype"
+    ]
+   },
+   {
+    "term": "Archetyp des Fürsorgers",
+    "lang": "de",
+    "counterparts": [
+     "Caregiver archetype"
+    ]
+   },
+   {
+    "term": "Archetype",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Archetypes",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Archibald",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Archipelago",
+    "lang": "en",
+    "counterparts": [
+     "Archipel"
+    ]
+   },
+   {
+    "term": "Architect",
+    "lang": "en",
+    "counterparts": [
+     "Architekt"
+    ]
+   },
+   {
+    "term": "Architekt",
+    "lang": "de",
+    "counterparts": [
+     "Architect"
+    ]
+   },
+   {
+    "term": "Architekt-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "architect share"
+    ]
+   },
+   {
+    "term": "Architekten",
+    "lang": "de",
+    "counterparts": [
+     "architects"
+    ]
+   },
+   {
+    "term": "Archivarin",
+    "lang": "de",
+    "counterparts": [
+     "archivist"
+    ]
+   },
+   {
+    "term": "Archiv",
+    "lang": "de",
+    "counterparts": [
+     "Archive"
+    ]
+   },
+   {
+    "term": "Archiv der Grenzen",
+    "lang": "de",
+    "counterparts": [
+     "Archive of Boundaries"
+    ]
+   },
+   {
+    "term": "Archiv der Konsistenten Fakten",
+    "lang": "de",
+    "counterparts": [
+     "Archive of Consistent Facts"
+    ]
+   },
+   {
+    "term": "Archiv des Ungesagten",
+    "lang": "de",
+    "counterparts": [
+     "Archive of the Unsaid"
+    ]
+   },
+   {
+    "term": "Archivar",
+    "lang": "de",
+    "counterparts": [
+     "archivist"
+    ]
+   },
+   {
+    "term": "Archivars",
+    "lang": "de",
+    "counterparts": [
+     "archivists"
+    ]
+   },
+   {
+    "term": "Archivist",
+    "lang": "en",
+    "counterparts": [
+     "Archivarin",
+     "Archivar"
+    ]
+   },
+   {
+    "term": "Area",
+    "lang": "en",
+    "counterparts": [
+     "Fläche",
+     "Gebiet"
+    ]
+   },
+   {
+    "term": "Arena",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Arena der Inneren Konflikte",
+    "lang": "de",
+    "counterparts": [
+     "Arena of Inner Conflicts"
+    ]
+   },
+   {
+    "term": "Argus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Argus-Kollektiv",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ariadne",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Aridity",
+    "lang": "en",
+    "counterparts": [
+     "Aridität"
+    ]
+   },
+   {
+    "term": "Arielle",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Aris",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Aristoteles",
+    "lang": "de",
+    "counterparts": [
+     "Aristotle"
+    ]
+   },
+   {
+    "term": "Aristotelian",
+    "lang": "en",
+    "counterparts": [
+     "aristotelisch"
+    ]
+   },
+   {
+    "term": "Aristotelisch",
+    "lang": "de",
+    "counterparts": [
+     "Aristotelian"
+    ]
+   },
+   {
+    "term": "Aristotle",
+    "lang": "en",
+    "counterparts": [
+     "Aristoteles"
+    ]
+   },
+   {
+    "term": "Arithmetik",
+    "lang": "de",
+    "counterparts": [
+     "Arithmetic"
+    ]
+   },
+   {
+    "term": "Arne",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Arrival",
+    "lang": "en",
+    "counterparts": [
+     "Ankunft"
+    ]
+   },
+   {
+    "term": "Arrow",
+    "lang": "en",
+    "counterparts": [
+     "Pfeil"
+    ]
+   },
+   {
+    "term": "Artefakt",
+    "lang": "de",
+    "counterparts": [
+     "Artifact"
+    ]
+   },
+   {
+    "term": "Artifact",
+    "lang": "en",
+    "counterparts": [
+     "Artefakt"
+    ]
+   },
+   {
+    "term": "Artificial General Intelligence",
+    "lang": "en",
+    "counterparts": [
+     "Künstliche Allgemeine Intelligenz"
+    ]
+   },
+   {
+    "term": "Arzthaftungsrecht",
+    "lang": "de",
+    "counterparts": [
+     "medical liability law"
+    ]
+   },
+   {
+    "term": "Ashby",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ashbys",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ashbys Gesetz",
+    "lang": "de",
+    "counterparts": [
+     "Ashby's Law"
+    ]
+   },
+   {
+    "term": "Ashtekar-Lewandowski",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AskPhysics",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Assimilierte Transzendenz",
+    "lang": "de",
+    "counterparts": [
+     "Assimilated Transcendence"
+    ]
+   },
+   {
+    "term": "Assumption-Decay",
+    "lang": "en",
+    "counterparts": []
+   },
+   {
+    "term": "Atemporalität",
+    "lang": "de",
+    "counterparts": [
+     "Atemporality"
+    ]
+   },
+   {
+    "term": "Atman",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Atman-Identität",
+    "lang": "de",
+    "counterparts": [
+     "Atman-identity"
+    ]
+   },
+   {
+    "term": "Atomizität",
+    "lang": "de",
+    "counterparts": [
+     "Atomicity"
+    ]
+   },
+   {
+    "term": "Atommodell",
+    "lang": "de",
+    "counterparts": [
+     "Atomic model"
+    ]
+   },
+   {
+    "term": "Attachment",
+    "lang": "en",
+    "counterparts": [
+     "Bindung"
+    ]
+   },
+   {
+    "term": "Attachment Cry",
+    "lang": "en",
+    "counterparts": []
+   }
+  ]
+ }
+}

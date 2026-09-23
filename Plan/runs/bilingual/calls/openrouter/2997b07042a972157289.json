@@ -1,0 +1,543 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Chaos-Prinzip",
+    "lang": "de",
+    "counterparts": [
+     "Chaos Principle"
+    ]
+   },
+   {
+    "term": "Chaos-Rand",
+    "lang": "de",
+    "counterparts": [
+     "Chaos Edge"
+    ]
+   },
+   {
+    "term": "Chaos-Zone",
+    "lang": "de",
+    "counterparts": [
+     "Chaos Zone"
+    ]
+   },
+   {
+    "term": "Chaos/Entropie",
+    "lang": "de",
+    "counterparts": [
+     "Chaos/Entropy"
+    ]
+   },
+   {
+    "term": "Chaostheorie",
+    "lang": "de",
+    "counterparts": [
+     "Chaos Theory"
+    ]
+   },
+   {
+    "term": "Chaotische Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "Chaotic Truth"
+    ]
+   },
+   {
+    "term": "Character",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Character Detection",
+    "lang": "en",
+    "counterparts": [
+     "Character-Erkennung",
+     "Erkennung von Charakteren",
+     "Charaktererkennung"
+    ]
+   },
+   {
+    "term": "Character Development Climax",
+    "lang": "en",
+    "counterparts": [
+     "Höhepunkt der Charakterentwicklung",
+     "Charakterentwicklungsklimax",
+     "Klimax der Charakterentwicklung"
+    ]
+   },
+   {
+    "term": "Character-Ebene",
+    "lang": "de",
+    "counterparts": [
+     "Character Level"
+    ]
+   },
+   {
+    "term": "Charakter-Ebene",
+    "lang": "de",
+    "counterparts": [
+     "Character Level"
+    ]
+   },
+   {
+    "term": "Charakter-System",
+    "lang": "de",
+    "counterparts": [
+     "Character System"
+    ]
+   },
+   {
+    "term": "Charaktererkennung",
+    "lang": "de",
+    "counterparts": [
+     "Character Recognition"
+    ]
+   },
+   {
+    "term": "Charakteristika der Dissoziativen Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Characteristics of Dissociative Identity Disorder"
+    ]
+   },
+   {
+    "term": "Charged Void",
+    "lang": "en",
+    "counterparts": [
+     "Geladene Leere"
+    ]
+   },
+   {
+    "term": "Charges",
+    "lang": "en",
+    "counterparts": [
+     "Aufladungen",
+     "Ladungen",
+     "Gebühren"
+    ]
+   },
+   {
+    "term": "Charles",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Charles Dodgson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Charlie",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Chat",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ChatGPT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ChatGPT4o",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Chess Set",
+    "lang": "en",
+    "counterparts": [
+     "Schachset",
+     "Schachspiel",
+     "Schachgarnitur"
+    ]
+   },
+   {
+    "term": "Child",
+    "lang": "en",
+    "counterparts": [
+     "Kind",
+     "Kinder"
+    ]
+   },
+   {
+    "term": "Child Alter",
+    "lang": "en",
+    "counterparts": [
+     "Kind-Alter",
+     "Kind-Alternativpersönlichkeit"
+    ]
+   },
+   {
+    "term": "Child Alters",
+    "lang": "en",
+    "counterparts": [
+     "Kind-Alter",
+     "Kind-Alternativpersönlichkeiten"
+    ]
+   },
+   {
+    "term": "Child EP",
+    "lang": "en",
+    "counterparts": [
+     "Kind-EP"
+    ]
+   },
+   {
+    "term": "Chinese",
+    "lang": "en",
+    "counterparts": [
+     "chinesisch",
+     "Chinesisch"
+    ]
+   },
+   {
+    "term": "Chinese Room",
+    "lang": "en",
+    "counterparts": [
+     "Chinesisches Zimmer"
+    ]
+   },
+   {
+    "term": "Chinesische",
+    "lang": "de",
+    "counterparts": [
+     "Chinese"
+    ]
+   },
+   {
+    "term": "Chinesisches",
+    "lang": "de",
+    "counterparts": [
+     "Chinese"
+    ]
+   },
+   {
+    "term": "Chinesisches Zimmer",
+    "lang": "de",
+    "counterparts": [
+     "Chinese Room"
+    ]
+   },
+   {
+    "term": "Chris",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Chronicler",
+    "lang": "en",
+    "counterparts": [
+     "Chronist",
+     "Chroniker"
+    ]
+   },
+   {
+    "term": "Chronik der Entfremdung",
+    "lang": "de",
+    "counterparts": [
+     "Chronicle of Estrangement"
+    ]
+   },
+   {
+    "term": "Chronist",
+    "lang": "de",
+    "counterparts": [
+     "Chronicler"
+    ]
+   },
+   {
+    "term": "Chronometrische Agnosie",
+    "lang": "de",
+    "counterparts": [
+     "Chronometric Agnosia"
+    ]
+   },
+   {
+    "term": "Chronos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Church-Turing-These",
+    "lang": "de",
+    "counterparts": [
+     "Church-Turing Thesis"
+    ]
+   },
+   {
+    "term": "Circuit Breaking",
+    "lang": "en",
+    "counterparts": [
+     "Schaltkreisunterbrechung",
+     "Unterbrechung des Schaltkreises",
+     "Circuit-Breaking"
+    ]
+   },
+   {
+    "term": "Circuit-Breaking",
+    "lang": "en",
+    "counterparts": [
+     "Schaltkreisunterbrechung",
+     "Unterbrechung des Schaltkreises",
+     "Circuit Breaking"
+    ]
+   },
+   {
+    "term": "Circularity",
+    "lang": "en",
+    "counterparts": [
+     "Zirkularität"
+    ]
+   },
+   {
+    "term": "CiteSeerX",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "City",
+    "lang": "en",
+    "counterparts": [
+     "Stadt",
+     "Städte"
+    ]
+   },
+   {
+    "term": "Clark",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Class",
+    "lang": "en",
+    "counterparts": [
+     "Klasse",
+     "Klassen"
+    ]
+   },
+   {
+    "term": "Class P",
+    "lang": "en",
+    "counterparts": [
+     "Klasse P"
+    ]
+   },
+   {
+    "term": "Classes",
+    "lang": "en",
+    "counterparts": [
+     "Klassen"
+    ]
+   },
+   {
+    "term": "Classical",
+    "lang": "en",
+    "counterparts": [
+     "klassisch"
+    ]
+   },
+   {
+    "term": "Classical Logic",
+    "lang": "en",
+    "counterparts": [
+     "klassische Logik"
+    ]
+   },
+   {
+    "term": "Claude",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Claude-Ökosystem",
+    "lang": "de",
+    "counterparts": [
+     "Claude Ecosystem"
+    ]
+   },
+   {
+    "term": "Cleaving Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Spaltungsprotokoll",
+     "Trennungsprotokoll"
+    ]
+   },
+   {
+    "term": "Cleveland",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Cline",
+    "lang": "en",
+    "counterparts": [
+     "Klin"
+    ]
+   },
+   {
+    "term": "Clinical White",
+    "lang": "en",
+    "counterparts": [
+     "Klinisches Weiß"
+    ]
+   },
+   {
+    "term": "Clinician-Administered PTSD Scale16",
+    "lang": "en",
+    "counterparts": [
+     "Clinician-Administered PTSD-Skala16"
+    ]
+   },
+   {
+    "term": "CliniciansGuide",
+    "lang": "en",
+    "counterparts": [
+     "Leitfaden für Kliniker"
+    ]
+   },
+   {
+    "term": "CliniciansGuideOlderDriversComplete4thEdition",
+    "lang": "en",
+    "counterparts": [
+     "Leitfaden für Kliniker älterer Fahrer vollständige 4. Auflage"
+    ]
+   },
+   {
+    "term": "Cn",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Co-Abhängigkeit",
+    "lang": "de",
+    "counterparts": [
+     "Co-dependency"
+    ]
+   },
+   {
+    "term": "Co-Bewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "Co-consciousness"
+    ]
+   },
+   {
+    "term": "Co-Bewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "Co-consciousness"
+    ]
+   },
+   {
+    "term": "Co-Consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Co-Bewusstsein"
+    ]
+   },
+   {
+    "term": "Co-Regulation",
+    "lang": "en",
+    "counterparts": [
+     "Ko-Regulation"
+    ]
+   },
+   {
+    "term": "Co-consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Co-Bewusstsein"
+    ]
+   },
+   {
+    "term": "Co1",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Co2",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Co3",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "CoDA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "CoLT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Codependents Anonymous",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Codes",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Codex",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Coexistence",
+    "lang": "en",
+    "counterparts": [
+     "Koexistenz"
+    ]
+   },
+   {
+    "term": "CogFirewall",
+    "lang": "en",
+    "counterparts": [
+     "Kognitions-Firewall"
+    ]
+   },
+   {
+    "term": "Cognition",
+    "lang": "en",
+    "counterparts": [
+     "Kognition"
+    ]
+   },
+   {
+    "term": "Cognition and Poetics",
+    "lang": "en",
+    "counterparts": [
+     "Kognition und Poetik"
+    ]
+   },
+   {
+    "term": "Cognitive",
+    "lang": "en",
+    "counterparts": [
+     "kognitiv"
+    ]
+   },
+   {
+    "term": "Cognitive Biases",
+    "lang": "en",
+    "counterparts": [
+     "kognitive Verzerrungen"
+    ]
+   }
+  ]
+ }
+}

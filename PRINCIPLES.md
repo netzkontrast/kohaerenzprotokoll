@@ -151,6 +151,10 @@ meaning and **wrong about the words**, so `read.py --find` answers a quote with
 its line, or refuses and names the nearest — and because both run the same
 comparison over the same normalised line, a citation it produced cannot fail the
 check. Checking afterwards names a defect; asking instead of typing prevents one.
+*And a prompt is not somewhere to ask.* The entity lists told Haiku to take every
+line from `--find` and 2 of 4 lists still failed, with refused forms written
+anyway. Revision 3 took the lines away from the model entirely — names in, lines
+by `entities.py place` — and every row verified.
 
 **P13 — Never merge readings into one definition.**
 Where two sources say different things about one term, the page holds both,

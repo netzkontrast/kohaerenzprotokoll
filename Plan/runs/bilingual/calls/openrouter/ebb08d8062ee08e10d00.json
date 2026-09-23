@@ -1,0 +1,715 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Cognitive Dissonance Theory",
+    "lang": "en",
+    "counterparts": [
+     "Kognitive Dissonanz-Theorie",
+     "Theorie der kognitiven Dissonanz",
+     "Kognitive Dissonanz Theorie"
+    ]
+   },
+   {
+    "term": "Cognitive Firewall",
+    "lang": "en",
+    "counterparts": [
+     "Kognitive Firewall",
+     "Kognitiver Firewall",
+     "kognitiver Schutz"
+    ]
+   },
+   {
+    "term": "Cognitive Layer",
+    "lang": "en",
+    "counterparts": [
+     "Kognitive Ebene",
+     "Kognitiver Layer",
+     "Kognitive Schicht"
+    ]
+   },
+   {
+    "term": "Cognitive Processing Therapy",
+    "lang": "en",
+    "counterparts": [
+     "Kognitive Verarbeitungstherapie",
+     "Therapie der kognitiven Verarbeitung",
+     "Kognitive PT"
+    ]
+   },
+   {
+    "term": "Cognitive-Behavioral Therapy",
+    "lang": "en",
+    "counterparts": [
+     "Kognitive Verhaltenstherapie",
+     "Kognitiv-verhaltenstherapeutische Therapie",
+     "CBT"
+    ]
+   },
+   {
+    "term": "Coherence",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenz",
+     "Kohärenz (Zustand)",
+     "Kohärenzprinzip"
+    ]
+   },
+   {
+    "term": "Coherence Kernel",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenz-Kern",
+     "Kohärenzkern",
+     "Kern der Kohärenz"
+    ]
+   },
+   {
+    "term": "Coherence Kernel (K₁)",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenz-Kern (K₁)",
+     "Kohärenzkern (K₁)",
+     "Kern der Kohärenz (K₁)"
+    ]
+   },
+   {
+    "term": "Coherence Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenz-Protokoll",
+     "Protokoll der Kohärenz",
+     "Kohärenzprotokoll"
+    ]
+   },
+   {
+    "term": "Coherence Theory",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenztheorie",
+     "Theorie der Kohärenz",
+     "Kohärenz-Theorie"
+    ]
+   },
+   {
+    "term": "Coherence Theory of Truth",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenztheorie der Wahrheit",
+     "Wahrheitskohärenztheorie",
+     "Theorie der kohärenten Wahrheit"
+    ]
+   },
+   {
+    "term": "Coherence-Kernel",
+    "lang": "en",
+    "counterparts": [
+     "Kohärenz-Kern",
+     "Kohärenzkern",
+     "Kern der Kohärenz"
+    ]
+   },
+   {
+    "term": "Coheron",
+    "lang": "en",
+    "counterparts": [
+     "Coheron",
+     "Koheron",
+     "Coheron (unübersetzt)"
+    ]
+   },
+   {
+    "term": "Coheron-Domäne",
+    "lang": "de",
+    "counterparts": [
+     "Coheron Domain",
+     "Coheron-Domain",
+     "Coheron domain"
+    ]
+   },
+   {
+    "term": "Coheron-Echo",
+    "lang": "de",
+    "counterparts": [
+     "Coheron Echo",
+     "Coheron-Echo",
+     "Coheron echo"
+    ]
+   },
+   {
+    "term": "Coheron-Spur",
+    "lang": "de",
+    "counterparts": [
+     "Coheron Spur",
+     "Coheron-Spur",
+     "Coheron spur"
+    ]
+   },
+   {
+    "term": "Coheron-Verdrängung",
+    "lang": "de",
+    "counterparts": [
+     "Coheron Displacement",
+     "Coheron-Verdrängung",
+     "Coheron displacement"
+    ]
+   },
+   {
+    "term": "Coheronen",
+    "lang": "de",
+    "counterparts": [
+     "Coherons",
+     "Coheronen",
+     "Coheron plural"
+    ]
+   },
+   {
+    "term": "Coherons",
+    "lang": "en",
+    "counterparts": [
+     "Coheronen",
+     "Coheron-Plural",
+     "Coheronen"
+    ]
+   },
+   {
+    "term": "Collapse",
+    "lang": "en",
+    "counterparts": [
+     "Kollaps",
+     "Zusammenbruch",
+     "Einsturz"
+    ]
+   },
+   {
+    "term": "Collapse EP",
+    "lang": "en",
+    "counterparts": [
+     "Kollaps EP",
+     "Zusammenbruch EP",
+     "Collapse EP"
+    ]
+   },
+   {
+    "term": "Collapse Kernel",
+    "lang": "en",
+    "counterparts": [
+     "Kollaps-Kern",
+     "Kern des Kollapses",
+     "Zusammenbruchskern"
+    ]
+   },
+   {
+    "term": "Collapse Kernel (K₀)",
+    "lang": "en",
+    "counterparts": [
+     "Kollaps-Kern (K₀)",
+     "Kern des Kollapses (K₀)",
+     "Zusammenbruchskern (K₀)"
+    ]
+   },
+   {
+    "term": "Collapse Susceptibility Index",
+    "lang": "en",
+    "counterparts": [
+     "Kollapsanfälligkeitsindex",
+     "Anfälligkeit für Kollaps Index",
+     "Kollapsgefährdungsindex"
+    ]
+   },
+   {
+    "term": "Collapse-Kernel",
+    "lang": "en",
+    "counterparts": [
+     "Kollaps-Kern",
+     "Kern des Kollapses",
+     "Zusammenbruchskern"
+    ]
+   },
+   {
+    "term": "Collapse-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "Collapse Reaction",
+     "Collapse-Reaktion",
+     "collapse reaction"
+    ]
+   },
+   {
+    "term": "Columbia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Command",
+    "lang": "en",
+    "counterparts": [
+     "Befehl",
+     "Kommando",
+     "Kommandieren"
+    ]
+   },
+   {
+    "term": "Command and Control",
+    "lang": "en",
+    "counterparts": [
+     "Befehl und Kontrolle",
+     "Kommandierung und Kontrolle",
+     "C3"
+    ]
+   },
+   {
+    "term": "Commitment-Therapie",
+    "lang": "de",
+    "counterparts": [
+     "Commitment Therapy",
+     "Commitment-Therapie",
+     "Therapie der Verpflichtung"
+    ]
+   },
+   {
+    "term": "Companion Pairs",
+    "lang": "en",
+    "counterparts": [
+     "Begleiterpaare",
+     "Partnerpaare",
+     "Begleitende Paare"
+    ]
+   },
+   {
+    "term": "Compare-and-Swap",
+    "lang": "en",
+    "counterparts": [
+     "Vergleich-und-Austausch",
+     "Compare-and-Swap",
+     "CAS"
+    ]
+   },
+   {
+    "term": "Compassion Fatigue",
+    "lang": "en",
+    "counterparts": [
+     "Mitgefühlsermüdung",
+     "Mitmenschlichkeits-Erschöpfung",
+     "Compassion Fatigue"
+    ]
+   },
+   {
+    "term": "Compassion-Focused Therapy",
+    "lang": "en",
+    "counterparts": [
+     "Mitgefühlsorientierte Therapie",
+     "CFT",
+     "Mitgefühls-fokussierte Therapie"
+    ]
+   },
+   {
+    "term": "Complex PTSD",
+    "lang": "en",
+    "counterparts": [
+     "Komplexe PTBS",
+     "Komplexe Posttraumatische Belastungsstörung",
+     "C-PTSD"
+    ]
+   },
+   {
+    "term": "Complex Post-Traumatic Stress Disorder",
+    "lang": "en",
+    "counterparts": [
+     "Komplexe Posttraumatische Belastungsstörung",
+     "Komplexe PTBS",
+     "C-PTSD"
+    ]
+   },
+   {
+    "term": "Complex_system",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Complexity",
+    "lang": "en",
+    "counterparts": [
+     "Komplexität",
+     "Komplexitätsgrad",
+     "Komplexitätsmaß"
+    ]
+   },
+   {
+    "term": "Complexity2015",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Component",
+    "lang": "en",
+    "counterparts": [
+     "Komponente",
+     "Bauteil",
+     "Teil"
+    ]
+   },
+   {
+    "term": "Computation",
+    "lang": "en",
+    "counterparts": [
+     "Berechnung",
+     "Rechnung",
+     "Computation"
+    ]
+   },
+   {
+    "term": "Computational",
+    "lang": "en",
+    "counterparts": [
+     "rechnerisch",
+     "komputational",
+     "algorithmisch"
+    ]
+   },
+   {
+    "term": "Computational Bias",
+    "lang": "en",
+    "counterparts": [
+     "algorithmischer Bias",
+     "komputationaler Bias",
+     "Berechnungsverzerrung"
+    ]
+   },
+   {
+    "term": "Computational Learning Theory",
+    "lang": "en",
+    "counterparts": [
+     "Theorie des computergestützten Lernens",
+     "Computational Learning Theory",
+     "Lerntheorie der KI"
+    ]
+   },
+   {
+    "term": "Computational Narrative Technologies",
+    "lang": "en",
+    "counterparts": [
+     "Computergestützte Erzähltechnologien",
+     "Computational Narrative Technologies",
+     "Erzähltechnologien der KI"
+    ]
+   },
+   {
+    "term": "Computational Theory of Mind",
+    "lang": "en",
+    "counterparts": [
+     "Rechnungstheorie des Geistes",
+     "Computational Theory of Mind",
+     "Geist als Computer"
+    ]
+   },
+   {
+    "term": "Computationale Schnittstelle",
+    "lang": "de",
+    "counterparts": [
+     "Computational Interface",
+     "Computationale Schnittstelle",
+     "Schnittstelle für Berechnung"
+    ]
+   },
+   {
+    "term": "Computationalism",
+    "lang": "en",
+    "counterparts": [
+     "Komputationalismus",
+     "Rechnerischer Ansatz",
+     "Computationalism"
+    ]
+   },
+   {
+    "term": "Compute-Lock",
+    "lang": "en",
+    "counterparts": [
+     "Compute-Lock",
+     "Berechnungssperre",
+     "Sperre des Compute"
+    ]
+   },
+   {
+    "term": "Computer Interface",
+    "lang": "en",
+    "counterparts": [
+     "Computer-Schnittstelle",
+     "Rechnerinterface",
+     "Computerinterface"
+    ]
+   },
+   {
+    "term": "Conceptual Expansion Unit",
+    "lang": "en",
+    "counterparts": [
+     "Konzeptuelle Erweiterungs-Einheit",
+     "Conceptual Expansion Unit",
+     "Erweiterungseinheit der Konzepte"
+    ]
+   },
+   {
+    "term": "Concurrency",
+    "lang": "en",
+    "counterparts": [
+     "Konkurrenz",
+     "Gleichzeitigkeit",
+     "Concurrency"
+    ]
+   },
+   {
+    "term": "Conditioning",
+    "lang": "en",
+    "counterparts": [
+     "Konditionierung",
+     "Aufbereitung",
+     "Conditioning"
+    ]
+   },
+   {
+    "term": "Confirmation Bias",
+    "lang": "en",
+    "counterparts": [
+     "Bestätigungsfehler",
+     "Bestätigungsverzerrung",
+     "Confirmation Bias"
+    ]
+   },
+   {
+    "term": "Conformal",
+    "lang": "en",
+    "counterparts": [
+     "konform",
+     "konform abbildend",
+     "Conformal"
+    ]
+   },
+   {
+    "term": "Conformal Field Theory",
+    "lang": "en",
+    "counterparts": [
+     "Konforme Feldtheorie",
+     "Conformal Field Theory",
+     "CFT"
+    ]
+   },
+   {
+    "term": "Conjecture",
+    "lang": "en",
+    "counterparts": [
+     "Vermutung",
+     "Mutmaßung",
+     "Conjecture"
+    ]
+   },
+   {
+    "term": "Conscious",
+    "lang": "en",
+    "counterparts": [
+     "bewusst",
+     "conscious",
+     "Conscious"
+    ]
+   },
+   {
+    "term": "Consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Bewusstsein",
+     "Consciousness",
+     "Bewusstseinszustand"
+    ]
+   },
+   {
+    "term": "Consciousness Model",
+    "lang": "en",
+    "counterparts": [
+     "Bewusstseinsmodell",
+     "Consciousness Model",
+     "Modell des Bewusstseins"
+    ]
+   },
+   {
+    "term": "Consensual Non-Monogamy",
+    "lang": "en",
+    "counterparts": [
+     "Einvernehmliche Nicht-Monogamie",
+     "Consensual Non-Monogamy",
+     "CNM"
+    ]
+   },
+   {
+    "term": "Consensus",
+    "lang": "en",
+    "counterparts": [
+     "Konsens",
+     "Einstimmigkeit",
+     "Consensus"
+    ]
+   },
+   {
+    "term": "Consilience",
+    "lang": "en",
+    "counterparts": [
+     "Konsilienz",
+     "Consilience",
+     "Einheit des Wissens"
+    ]
+   },
+   {
+    "term": "Consistency",
+    "lang": "en",
+    "counterparts": [
+     "Konsistenz",
+     "Consistency",
+     "Widerspruchsfreiheit"
+    ]
+   },
+   {
+    "term": "Consistency Risk Score",
+    "lang": "en",
+    "counterparts": [
+     "Konsistenzrisiko-Score",
+     "Risiko der Inkonsistenz",
+     "Consistency Risk Score"
+    ]
+   },
+   {
+    "term": "Consolidated Agency",
+    "lang": "en",
+    "counterparts": [
+     "Konsolidierte Agentur",
+     "Consolidated Agency",
+     "Vereinigte Agentur"
+    ]
+   },
+   {
+    "term": "Constant",
+    "lang": "en",
+    "counterparts": [
+     "Konstante",
+     "Constant",
+     "Konstantwert"
+    ]
+   },
+   {
+    "term": "Constitutional AI",
+    "lang": "en",
+    "counterparts": [
+     "Konstitutionelle KI",
+     "Constitutional AI",
+     "Verfassungsgemäße KI"
+    ]
+   },
+   {
+    "term": "Constraint",
+    "lang": "en",
+    "counterparts": [
+     "Beschränkung",
+     "Constraint",
+     "Einschränkung"
+    ]
+   },
+   {
+    "term": "Constraint Closure",
+    "lang": "en",
+    "counterparts": [
+     "Beschränkungsabschluss",
+     "Constraint Closure",
+     "Abschluss von Beschränkungen"
+    ]
+   },
+   {
+    "term": "Constraint Satisfaction Problem",
+    "lang": "en",
+    "counterparts": [
+     "Constraint-Erfüllungsproblem",
+     "Constraint Satisfaction Problem",
+     "CSP"
+    ]
+   },
+   {
+    "term": "Constraint Satisfaction Problems",
+    "lang": "en",
+    "counterparts": [
+     "Constraint-Erfüllungsprobleme",
+     "Constraint Satisfaction Problems",
+     "CSPs"
+    ]
+   },
+   {
+    "term": "Construct",
+    "lang": "en",
+    "counterparts": [
+     "Konstrukt",
+     "Construct",
+     "Aufbau"
+    ]
+   },
+   {
+    "term": "Construct City",
+    "lang": "en",
+    "counterparts": [
+     "Konstruktstadt",
+     "Construct City",
+     "Stadt der Konstrukte"
+    ]
+   },
+   {
+    "term": "Construct-City",
+    "lang": "en",
+    "counterparts": [
+     "Konstruktstadt",
+     "Construct-City",
+     "Stadt der Konstrukte"
+    ]
+   },
+   {
+    "term": "Contact",
+    "lang": "en",
+    "counterparts": [
+     "Kontakt",
+     "Contact",
+     "Berührung"
+    ]
+   },
+   {
+    "term": "Contagonist",
+    "lang": "en",
+    "counterparts": [
+     "Contagonist",
+     "Kontagonist",
+     "Gegenspieler"
+    ]
+   },
+   {
+    "term": "Container",
+    "lang": "en",
+    "counterparts": [
+     "Behälter",
+     "Container",
+     "Aufbewahrungsgefäß"
+    ]
+   },
+   {
+    "term": "Containment",
+    "lang": "en",
+    "counterparts": [
+     "Einschließung",
+     "Containment",
+     "Inhaftierung"
+    ]
+   },
+   {
+    "term": "Context Bias",
+    "lang": "en",
+    "counterparts": [
+     "Kontextverzerrung",
+     "Context Bias",
+     "Kontext-Bias"
+    ]
+   }
+  ]
+ }
+}
