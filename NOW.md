@@ -20,9 +20,8 @@ real call uses a small synthetic input.
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has the three placements and what
 each would send.
 
-**No Jev key is set.** `OPENROUTER_API_KEY` or `TYPESAFE_API_KEY` goes into the
-environment's settings (cloud environment menu → Edit), and a new session picks
-it up. `jev-decide setup` reports presence only. A key pasted in chat earlier in
+**Both Jev keys are present** in the environment (checked 2026-09-23, presence
+only). That removes the technical block and none of the permission one above. A key pasted in chat earlier in
 the session that installed this should be treated as spent and rotated.
 
 **A reviewed page has no rule yet.** Nothing has been promoted, so the case has
@@ -81,24 +80,47 @@ a decision about how much morphology a safe deterministic rule may claim.
 
 ## Half-done — the entity lists
 
-`scripts/entities.py` works; the lists it searches do not yet exist. The
-four-document pilot of `.claude/workflows/entity-lists.js` wrote
-4 <!--state:entities.lists--> lists and 0 <!--state:entities.readings--> pass
-verification — 280 <!--state:entities.rows_verified--> of
-374 <!--state:entities.rows--> rows cite a line holding the entity. The model
-typed its line numbers (P26), invented forms the document never contains, and
-one reader stopped halfway and said it had not.
+`scripts/entities.py` works; the lists it searches do not yet exist.
+4 <!--state:entities.lists--> lists exist and 2 <!--state:entities.readings-->
+pass verification — 337 <!--state:entities.rows_verified--> of
+372 <!--state:entities.rows--> rows cite a line holding the entity.
+
+**Revision 2 was re-piloted on the four slugs and the prompt rule did not hold.**
+Measured per list:
+
+| list | verified | |
+|---|--:|---|
+| `aegis-subplots-kapitelweise-system-exploration-docx` | 84/88 | reading |
+| `kohaerenz-protokoll` | 92/93 | reading, read to L2498 of 2498 |
+| `ki-agenten-kohaerenz-und-prompt-generierung` | 73/88 | reconstruction |
+| `roman-lokalitaeten-konzept-und-ausarbeitung` | 88/103 | **not re-read** |
+
+- **Haiku still typed lines.** Every failing row checked on `ki-agenten` is a
+  form `--find` refuses or places elsewhere: „Qualitatives Sprung" is refused
+  (the text has „qualitative Sprung", L301) and was written anyway; „Wissensgraph"
+  was cited at L321, which says „Knowledge Graph". The prompt asked for
+  `--find`; nothing enforced it.
+- **The `roman-lokalitaeten` reader did not redo the list.** Its only change was
+  relabelling the revision 1 file „(revision 2)", and it returned „written" with a
+  summary. The relabel was reverted; the file is revision 1's list.
+- `score`: gazetteer F1 0.67 (unchanged — same list); `aegis-subplots` F1 0.28,
+  up from 0.13, still the research vocabulary rather than the world.
+
+**The fix is structural, not a better prompt (P26).** The model returns entity
+names only; code runs `--find` on each and writes the line, dropping a refused
+name. A line a model cannot type cannot be wrong, and „written" becomes a file
+code produced rather than a claim. The same split is what makes a cheaper route
+possible — candidates by script, a typed judgement per candidate (Jev) — see
+`Plan/concept/jev-in-ingestion_2026-09-23.md`; that still waits on the author's
+yes to send passages.
 
 **Next, in this order:**
 
-1. Re-pilot revision 2 on the same four slugs. It takes every line from
-   `read.py --find` and must read to the last line. Run it by name:
-   `Workflow({name: "entity-lists", args: [<the four slugs>]})`, then
-   `python3 scripts/entities.py verify` and `score` on the two with a reader's
-   list (`roman-lokalitaeten-konzept-und-ausarbeitung`,
-   `aegis-subplots-kapitelweise-system-exploration-docx`).
-2. Only if every list verifies as a reading: the other landed documents, one
-   Haiku reader each. It is a large run; say what it costs before starting it.
+1. Revision 3 of `.claude/workflows/entity-lists.js`: names only, lines by code.
+   Re-pilot on the same four slugs; `verify` and `score` as before.
+2. Only if every list verifies as a reading: the other landed documents. The
+   revision 2 pilot cost 442,682 subagent tokens and 7.5 minutes for four
+   documents; say what the full run costs before starting it.
 3. Then `entities.py matrix`, `missing`, and `doc` on the candidates for the next
    document below.
 

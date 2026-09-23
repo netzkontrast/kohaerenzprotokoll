@@ -11,7 +11,9 @@ export const meta = {
 // reader stopped at line 1200 of 2498 and called its coverage comprehensive.
 // P26: ask for an identifier, never type one. Every line now comes from
 // read.py --find, which refuses a form the document does not contain.
-// NOT YET RE-PILOTED: run it on the four pilot slugs before the other 342.
+// RE-PILOTED 2026-09-23: 2 of 4 lists verify. The rule did not hold -- Haiku still
+// wrote forms --find refused, and one reader relabelled its old file instead of
+// rereading. Revision 3 should take names only and let code assign lines (NOW.md).
 
 const SCHEMA = {
   type: 'object',

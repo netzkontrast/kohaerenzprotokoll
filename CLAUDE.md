@@ -397,11 +397,12 @@ python3 scripts/entities.py score <slug>      # against a reader's 03-candidates
 python3 scripts/entities.py selftest          # token matcher == \bterm\b
 ```
 
-**4 <!--state:entities.lists--> lists exist, 0 <!--state:entities.readings--> of
-them pass verification**, and 280 <!--state:entities.rows_verified--> of
-374 <!--state:entities.rows--> rows cite a line that holds the entity. They are
-the pilot, kept as evidence. `NOW.md` has the diagnosis and the next step, and
-the full run over every landed document has not happened.
+**4 <!--state:entities.lists--> lists exist, 2 <!--state:entities.readings--> of
+them pass verification**, and 337 <!--state:entities.rows_verified--> of
+372 <!--state:entities.rows--> rows cite a line that holds the entity. Three are
+revision 2's re-pilot and one is still revision 1's list, kept as evidence.
+`NOW.md` has the diagnosis and the next step, and the full run over every landed
+document has not happened.
 
 What they are for — `Plan/concept/entity-lists_2026-09-23.md` has the argument:
 **`missing`** is P10's `MISSING` bucket, measured; **`doc`** is a document's
@@ -500,8 +501,8 @@ uv tool install /tmp/jev-skill            # provides jev-decide; standard librar
 jev-decide setup                          # which key is present — never its value
 ```
 
-The route chosen for them is **A, real Jev**. Neither key is set yet; it goes into
-the environment's settings, never into chat or a file here. Every call still
+The route chosen for them is **A, real Jev**. Both keys are present in the
+environment's settings as of 2026-09-23, never in chat or a file here. Every call still
 needs the author's yes before corpus text is sent (see above).
 
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only

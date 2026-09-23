@@ -19,15 +19,15 @@
       "how": "model entity lists in Plan/entities/, one per document"
     },
     "entities.readings": {
-      "value": 0,
+      "value": 2,
       "how": "entity lists whose cited lines hold 90%+ of their rows"
     },
     "entities.rows": {
-      "value": 374,
+      "value": 372,
       "how": "rows across all entity lists, cited or not"
     },
     "entities.rows_verified": {
-      "value": 280,
+      "value": 337,
       "how": "entity rows whose cited file line contains the entity"
     },
     "judgements.disagree": {

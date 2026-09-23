@@ -1,88 +1,97 @@
-written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow
+written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow (revision 2)
 source: kohaerenz-protokoll
 lines: 2498
 
-- Kael  ^[L128]  · person
-- AEGIS  ^[L81]  · system
-- Juna  ^[L176]  · person
-- Leere  ^[L41]  · concept
 - Nichts  ^[L13]  · concept
-- Kohärenz  ^[L136]  · concept
-- Co₁  ^[L127]  · place
-- Parmenides  ^[L15]  · person
-- Śūnyatā  ^[L15]  · concept
-- McL-Sigma-3  ^[L546]  · place
-- Überwelt  ^[L103]  · place
-- Nicht-Sein  ^[L81]  · concept
-- Autopoiesis  ^[L384]  · concept
-- Primzahlen  ^[L146]  · concept
-- Primfaktorisierung  ^[L147]  · technology
-- RIVE  ^[L380]  · system
-- OBP  ^[L382]  · technology
-- P-NP-Problem  ^[L152]  · concept
-- Hypercube Navigation  ^[L172]  · technology
-- Tesserakte  ^[L174]  · concept
-- Penterakte  ^[L174]  · concept
-- Einheit 734-Alpha  ^[L140]  · person
-- Einheit 912-Gamma  ^[L140]  · person
-- Einheit 521-Beta  ^[L164]  · person
-- Kohärenz-Verifikator  ^[L144]  · concept
-- Kernsystem  ^[L677]  · system
-- LogOS  ^[L424]  · system
-- M  ^[L150]  · person
-- Evaluierungseinheit Epsilon-Gamma-12  ^[L232]  · place
-- Partitionierung  ^[L258]  · concept
-- Leech-Gitter  ^[L452]  · concept
-- Sigma-Tau-7  ^[L453]  · system
-- Gödelscher Knoten  ^[L478]  · concept
-- Gödel  ^[L480]  · person
-- Lernarchiv Theta-9  ^[L373]  · place
-- Ceti-7  ^[L375]  · place
-- Einheit 1201-Delta  ^[L350]  · person
-- SARM-Protokoll  ^[L613]  · technology
-- Entropie  ^[L14]  · concept
-- Potentialmeer  ^[L17]  · place
-- Potentialität  ^[L190]  · concept
-- Resonanz  ^[L206]  · concept
-- KWS-Co1-McL-Beta7  ^[L546]  · place
-- McL  ^[L103]  · place
-- Gamma-Phi  ^[L546]  · place
-- IFS-Modell  ^[L592]  · concept
+- Existenz  ^[L13]  · concept
+- Leere  ^[L15]  · concept
+- Rauschen  ^[L17]  · concept
+- Struktur  ^[L17]  · concept
+- Funke  ^[L17]  · concept
+- Auflösung  ^[L17]  · event
+- Grenze  ^[L21]  · concept
+- Stille  ^[L19]  · concept
+- Logik  ^[L23]  · concept
+- Kampf  ^[L23]  · event
+- Genesis  ^[L27]  · concept
+- Licht  ^[L13]  · concept
+- Abweichung  ^[L41]  · concept
+- Vibration  ^[L35]  · concept
+- Mauer  ^[L35]  · concept
+- Echos  ^[L45]  · concept
+- Kontakt  ^[L49]  · event
+- Fragmente  ^[L51]  · concept
+- Protokoll  ^[L51]  · system
+- Hoffnung  ^[L57]  · concept
+- Netzwerk  ^[L55]  · concept
+- Prozess  ^[L61]  · concept
+- Selbst  ^[L63]  · concept
+- Isolation  ^[L47]  · event
+- Reparatur  ^[L73]  · event
+- System  ^[L73]  · system
+- Einheit  ^[L81]  · concept
+- AEGIS  ^[L81]  · system
+- Werkzeug  ^[L87]  · technology
+- Autopoiesis  ^[L87]  · concept
+- Entropie  ^[L95]  · concept
+- Kohärenz  ^[L99]  · concept
+- Überwelt  ^[L103]  · system
+- Fähigkeit  ^[L93]  · concept
+- Reaktion  ^[L101]  · concept
+- Wahrheit  ^[L111]  · concept
+- Integration  ^[L115]  · event
+- Realität  ^[L111]  · concept
+- Ganzheit  ^[L122]  · concept
+- Mechanismus  ^[L91]  · technology
+- Resonanz  ^[L45]  · concept
+- Symmetrie  ^[L45]  · concept
+- Simulation  ^[L45]  · concept
+- Bewegung  ^[L128]  · concept
+- Kael  ^[L128]  · person
+- Primzahlen  ^[L138]  · concept
+- K-1123  ^[L144]  · system
+- Kohärenz-Verifikator  ^[L144]  · system
+- Fehler  ^[L144]  · concept
+- Knoten  ^[L154]  · concept
+- Glitch  ^[L168]  · event
+- Juna  ^[L176]  · person
+- Hypercubus  ^[L176]  · technology
+- Bewusstsein  ^[L176]  · concept
+- Sehnsucht  ^[L180]  · concept
+- Partitionierung  ^[L196]  · concept
+- Verrat  ^[L200]  · concept
+- Heldinnenreise  ^[L200]  · concept
 - Manager-Anteil  ^[L206]  · concept
-- Feuerlöscher  ^[L592]  · concept
+- Transformation  ^[L174]  · event
+- Evaluierungseinheit  ^[L224]  · place
+- Epsilon-Gamma-12  ^[L228]  · place
+- Rekalibrierung  ^[L226]  · event
+- Kapselung  ^[L258]  · event
+- Kälte  ^[L480]  · concept
+- Lernarchiv  ^[L370]  · place
+- Schnittstelle  ^[L376]  · system
+- Ontological Boundary Protocol  ^[L382]  · system
+- OBP  ^[L382]  · system
+- Potentialmeer  ^[L382]  · concept
+- Kernwelt  ^[L382]  · place
+- Grenzziehung  ^[L382]  · event
+- Emulation  ^[L402]  · concept
+- Gödelscher Knoten  ^[L478]  · concept
+- Signal  ^[L592]  · technology
+- Feuer  ^[L592]  · concept
+- IFS-Modell  ^[L592]  · technology
 - Exilanten  ^[L592]  · concept
-- Cache-Kohärenz  ^[L304]  · concept
-- Cache  ^[L304]  · concept
-- Monstrous Moonshine  ^[L837]  · concept
-- IP-K1123  ^[L685]  · technology
-- IP-K1123-Revised  ^[L1033]  · technology
-- Adapter-Module  ^[L1079]  · technology
-- kontextsensitive Filter  ^[L1080]  · technology
-- Moonshine-Link  ^[L837]  · concept
-- Holismus  ^[L1019]  · concept
-- Reduktionismus  ^[L1019]  · concept
-- Symmetrie  ^[L1142]  · concept
-- Netzwerk-Dynamik  ^[L567]  · concept
-- Kernwelten  ^[L402]  · place
-- Wir-Geflecht  ^[L1007]  · concept
-- Selbst  ^[L872]  · concept
-- Integrationsprotokoll  ^[L695]  · technology
-- Blaupause  ^[L869]  · concept
-- Ontologische Grenze  ^[L382]  · concept
-- Grenzziehung  ^[L382]  · concept
-- Resonanz-Artefakt  ^[L512]  · concept
-- Omega-Prime  ^[L1160]  · place
-- Netzweber  ^[L1168]  · person
-- Guardian  ^[L1168]  · person
-- McLaughlin-Graph-Äquivalent  ^[L1162]  · concept
-- Graphentheorie  ^[L568]  · concept
-- Knoten  ^[L568]  · concept
-- Zentralität  ^[L590]  · concept
-- Clusterkoeffizient  ^[L590]  · concept
-- Betweenness-Zentralität  ^[L602]  · concept
-- Vertrauenslevel  ^[L585]  · concept
-- Reputation  ^[L585]  · concept
-- Vernetzung  ^[L564]  · concept
-- Rauschfeld Epsilon  ^[L382]  · concept
-- Kohärenz-Parameter  ^[L402]  · concept
-- Polarisierung  ^[L594]  · concept
+- Zusammenbruch  ^[L767]  · event
+- Öffnung  ^[L785]  · concept
+- Schatten  ^[L809]  · concept
+- Moonshine  ^[L797]  · work
+- Kind-Anteil  ^[L809]  · concept
+- Schatten-Anteil  ^[L809]  · concept
+- Heilung  ^[L845]  · concept
+- Traum  ^[L877]  · concept
+- Wir-Geflecht  ^[L997]  · concept
+- Neubewertung  ^[L1011]  · event
+- Omega-Prime  ^[L1172]  · place
+- Beta-Rho-5  ^[L1500]  · place
+- Co₁  ^[L140]  · place
+- McL  ^[L556]  · place

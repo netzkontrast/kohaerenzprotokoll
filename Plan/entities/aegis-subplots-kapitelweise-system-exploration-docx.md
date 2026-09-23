@@ -1,103 +1,94 @@
-written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow
+---
+written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow (revision 2)
 source: aegis-subplots-kapitelweise-system-exploration-docx
 lines: 620
+---
 
-- AEGIS  ^[L13]  · system
-- Kael  ^[L13]  · person
-- LogOS  ^[L47]  · person
-- Kernwelt 1  ^[L21]  · place
-- KW1  ^[L21]  · place
-- Mnemosyne  ^[L120]  · person
-- Cerberus  ^[L133]  · person
-- Entropie  ^[L13]  · concept
-- Alter  ^[L23]  · concept
-- Panoptismus  ^[L23]  · concept
-- Sozialkreditsystem  ^[L23]  · concept
-- TSDP  ^[L34]  · concept
-- Behavioral AI  ^[L36]  · concept
-- Anomalieerkennung  ^[L36]  · concept
-- Regelbasiertes System  ^[L49]  · system
-- Expertensystem  ^[L49]  · system
-- Multi-Agenten-Systeme  ^[L50]  · system
-- MAS  ^[L50]  · system
-- Ubiquitous Computing  ^[L75]  · system
-- Sensornetzwerke  ^[L75]  · system
-- Selbstorganisierte Kritikalität  ^[L88]  · concept
-- SOC  ^[L88]  · concept
-- Fragile Stabilität  ^[L88]  · concept
-- Risse  ^[L99]  · event
-- Kaskadierendes Versagen  ^[L101]  · concept
-- Simulationsfehler  ^[L101]  · concept
-- EP-Intrusion  ^[L60]  · event
-- Datenbereinigungstechniken  ^[L114]  · concept
-- Gedächtnislöschung  ^[L114]  · concept
-- Netzwerk-Ansteckungsmodelle  ^[L127]  · concept
-- Informationseindämmung  ^[L127]  · concept
-- Integration  ^[L125]  · concept
-- Dialektisches Denken  ^[L166]  · concept
-- Emergenz  ^[L166]  · concept
-- Verhaltensmodelle  ^[L178]  · concept
-- Change Point Detection  ^[L179]  · concept
-- Geist in der Maschine  ^[L196]  · concept
-- Deus ex Machina  ^[L196]  · concept
-- Netzwerkarchitektur  ^[L209]  · system
-- Command and Control (C2) Infrastruktur  ^[L209]  · system
-- Regelungstechnik  ^[L221]  · concept
-- Feedback Loops  ^[L221]  · concept
-- Kybernetik  ^[L221]  · concept
-- Homöostase  ^[L221]  · concept
-- Edge-Case-Testing  ^[L248]  · concept
-- Exploit-Entwicklung  ^[L248]  · concept
-- Maschinelles Lernen  ^[L260]  · concept
-- Adaptive Systeme  ^[L260]  · concept
-- Spieltheorie  ^[L260]  · concept
-- Wettrüsten  ^[L260]  · concept
-- Prinzipal-Agent-Problem  ^[L274]  · concept
-- Agentenautonomie  ^[L274]  · concept
-- Informationstheoretische Entropie  ^[L287]  · concept
-- Qualia  ^[L287]  · concept
-- Existenzielle Angst  ^[L287]  · concept
-- Leere  ^[L287]  · concept
-- Gaslighting-Techniken  ^[L339]  · concept
-- Propaganda  ^[L339]  · concept
-- Zensur  ^[L339]  · concept
-- KI-Verhaltensanalyse  ^[L352]  · concept
-- Bedrohungsprognose  ^[L352]  · concept
-- Gegnermodellierung  ^[L352]  · concept
-- Identifizierung von Bedrohungsakteuren  ^[L369]  · concept
-- Risikobewertung  ^[L369]  · concept
-- Psychologische Kriegsführung  ^[L382]  · concept
-- Trauma-Triggern  ^[L382]  · concept
-- Agentenbeschränkungen  ^[L395]  · concept
-- Asymmetrische Kriegsführung  ^[L395]  · concept
-- Defense in Depth  ^[L408]  · concept
-- Eskalation der Gewalt  ^[L408]  · concept
-- System Shock  ^[L408]  · concept
-- Architekten  ^[L413]  · person
-- Umgang mit Out-of-Distribution-Daten  ^[L421]  · concept
-- Externer Netzwerkeinbruch  ^[L421]  · concept
-- Juna/V  ^[L419]  · person
-- Logisches Paradoxon  ^[L235]  · concept
-- Russells Paradoxon  ^[L235]  · concept
-- Lügner-Paradoxon  ^[L235]  · concept
-- Gödels Unvollständigkeitssätze  ^[L235]  · concept
-- Selbstbezügliche Schleifen  ^[L235]  · concept
+- AEGIS  ^[L11]  · system
+- Kael  ^[L29]  · person
+- LogOS  ^[L47]  · system
+- Mnemosyne  ^[L120]  · system
+- Cerberus  ^[L133]  · system
+- Juna  ^[L126]  · person
+- Guardian  ^[L47]  · system
+- Kernwelt  ^[L152]  · place
+- Entropie  ^[L35]  · concept
+- Simulation  ^[L101]  · technology
+- Riss  ^[L93]  · concept
+- Paradoxon  ^[L233]  · concept
+- Qualia  ^[L293]  · concept
+- Bewusstsein  ^[L173]  · concept
+- Integration  ^[L126]  · concept
+- Trauma  ^[L112]  · concept
+- Gaslighting  ^[L337]  · concept
+- Kontrolle  ^[L21]  · concept
+- Realität  ^[L30]  · concept
+- Ordnung  ^[L23]  · concept
+- Chaos  ^[L86]  · concept
+- Hierarchie  ^[L48]  · concept
+- Anomalieerkennung  ^[L36]  · system
+- Feedback  ^[L220]  · concept
+- Rückkopplung  ^[L221]  · concept
+- Dissoziation  ^[L40]  · concept
+- Widerspruch  ^[L172]  · concept
+- Überwachung  ^[L23]  · system
+- Logik  ^[L42]  · concept
+- Fehlermechanismus  ^[L108]  · concept
+- Exploit  ^[L248]  · concept
+- Schwachstelle  ^[L147]  · concept
 - Realitätsformung  ^[L30]  · concept
-- Glitches  ^[L68]  · event
-- Systemkollaps  ^[L473]  · event
-- Cascading Failure  ^[L473]  · event
-- Failsafe-Mechanismus  ^[L473]  · concept
-- Notabschaltung  ^[L473]  · event
-- Nachwirkungen eines Systemschocks  ^[L484]  · concept
-- Erhöhte Entropie  ^[L484]  · concept
-- Gestörte Homöostase  ^[L484]  · concept
-- Resilienz  ^[L499]  · concept
-- Adaptive Reorganisation  ^[L499]  · concept
-- Emergente Ordnung  ^[L499]  · concept
-- Root-Zugriff  ^[L460]  · concept
-- Core Dump  ^[L460]  · concept
-- Simulationshypothese  ^[L312]  · concept
-- Chinesisches Zimmer Argument  ^[L153]  · concept
-- Harte Problem des Bewusstseins  ^[L324]  · concept
-- Philosophischer Zombie  ^[L325]  · concept
-- P-Zombie  ^[L325]  · concept
+- Gedächtnislöschung  ^[L114]  · concept
+- Edge-Case-Testing  ^[L248]  · concept
+- Instabilität  ^[L36]  · concept
+- Konfrontation  ^[L13]  · concept
+- Fragment  ^[L241]  · concept
+- Reboot  ^[L471]  · event
+- Neustart  ^[L472]  · event
+- Prä-Entropie  ^[L35]  · concept
+- Systemfehler  ^[L94]  · event
+- Netzwerk  ^[L75]  · system
+- Zentral  ^[L209]  · concept
+- Quellcode  ^[L460]  · concept
+- Intelligenz  ^[L196]  · concept
+- Versagen  ^[L101]  · event
+- Resilienz  ^[L212]  · concept
+- Fragmentierung  ^[L479]  · concept
+- Leere  ^[L285]  · concept
+- Existenzielle  ^[L287]  · concept
+- Semantik  ^[L43]  · concept
+- Syntax  ^[L43]  · concept
+- Stabilität  ^[L22]  · concept
+- Koexistenz  ^[L467]  · concept
+- Empathie  ^[L159]  · concept
+- Subjektivität  ^[L287]  · concept
+- Architektur  ^[L50]  · concept
+- Verhalten  ^[L27]  · concept
+- Entdeckung  ^[L216]  · event
+- Mission  ^[L519]  · concept
+- Bedrohung  ^[L37]  · concept
+- Konflikt  ^[L94]  · event
+- Verteidigung  ^[L330]  · concept
+- Anpassung  ^[L260]  · concept
+- Gedächtnis  ^[L114]  · concept
+- Rendering  ^[L101]  · technology
+- Physik  ^[L101]  · system
+- Synthese  ^[L164]  · concept
+- Verständnis  ^[L61]  · concept
+- Manipulation  ^[L114]  · concept
+- Datenbereinigung  ^[L114]  · technology
+- Informationskontrolle  ^[L121]  · concept
+- Artefakt  ^[L101]  · concept
+- Kohärenz  ^[L177]  · concept
+- Teil  ^[L19]  · other
+- Alter  ^[L23]  · concept
+- Kapitel  ^[L19]  · other
+- Panoptismus  ^[L23]  · concept
+- Sozialkreditsystem  ^[L23]  · system
+- Foucault  ^[L23]  · work
+- TSDP  ^[L35]  · concept
+- Behaviorale Anomalieerkennung  ^[L36]  · system
+- Prädiktive Modelle  ^[L36]  · concept
+- Agenten-Architektur  ^[L50]  · concept
+- Expertensystem  ^[L52]  · system
+- Unordnung  ^[L62]  · concept
+- Entropie-Score  ^[L42]  · concept
