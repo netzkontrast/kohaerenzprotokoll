@@ -1,0 +1,277 @@
+{
+ "key": "321dffecba5b4ad9",
+ "model": "jev-1.13.0",
+ "seconds": 0.57,
+ "input_tokens": 11698,
+ "output_tokens": 1164,
+ "window": [
+  610,
+  630
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L610| 52. Why is it so difficult to nail a reactive open world? : r/gamedev - Reddit, Zugriff am April 18, 2025, <https://www.reddit.com/r/gamedev/comments/11kz80t/why_is_it_so_difficult_to_nail_a_reactive_open/>\nL611| 53. Effective Environmental Storytelling Techniques? : r/gamedev - Reddit, Zugriff am April 18, 2025, <https://www.reddit.com/r/gamedev/comments/1jreekn/effective_environmental_storytelling_techniques/>\nL612| 54. Proactive, Active, and Reactive Events in Game Storytelling — Hive, Zugriff am April 18, 2025, <https://hive.blog/gaming/@loreshapergames/proactive-active-and-reactive-events-in-game-storytelling>\nL613| 55. What game design factors make a good piece of Interactive Fiction?, Zugriff am April 18, 2025, <https://forum.choiceofgames.com/t/what-game-design-factors-make-a-good-piece-of-interactive-fiction/49980>\nL614| 56. Environmental Storytelling in Video Games, Zugriff am April 18, 2025, <https://gamedesignskills.com/game-design/environmental-storytelling/>\nL615| 57. Learning Video Game Environmental Storytelling Techniques, Zugriff am April 18, 2025, <https://www.yellowbrick.co/blog/animation/learning-video-game-environmental-storytelling-techniques>\nL616| 58. Immersive Worlds: How Environmental Storytelling Shapes Gameplay | Gamefa English site, Zugriff am April 18, 2025, <https://en.gamefa.com/2824/environmental-storytelling/>\nL617| 59. What is Environmental Storytelling in Games? - Pixune Studios, Zugriff am April 18, 2025, <https://pixune.com/blog/environmental-storytelling-in-games/>\nL618| 60. Storytelling in Environment Art & Level Design - ArtStation, Zugriff am April 18, 2025, <https://www.artstation.com/blogs/dominiquebuttiens/0gyA/storytelling-in-environment-art-level-design>\nL619| 61. The Compelling Art of Environmental Storytelling: Story through Play - Super Magfest, Zugriff am April 18, 2025, <https://super.magfest.org/mages-blog/the-compelling-art-of-environmental-storytelling-story-through-play>\nL620| 62. Literary Techniques: Foreshadowing - Matrix Education, Zugriff am April 18, 2025, <https://www.matrix.edu.au/literary-technique-foreshadowing/>\nL621| 63. Inception: Film, Dreams and Freud - Offscreen, Zugriff am April 18, 2025, <https://offscreen.com/view/inception_dreams_freud>\nL622| 64. en.wikipedia.org, Zugriff am April 18, 2025, <https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)#:~:text=Broadly%2C%20the%20term%20liminal%20space,e.g.%20the%20period%20of%20adolescence).>\nL623| 65. Liminal space (aesthetic) - Wikipedia, Zugriff am April 18, 2025, <https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)>\nL624| 66. Liminal Space: Examples and Mental Health Effects - Verywell Mind, Zugriff am April 18, 2025, <https://www.verywellmind.com/the-impact-of-liminal-space-on-your-mental-health-5204371>\nL625| 67. Sky Arts Ignition: Memory Palace - About the Exhibition - Victoria and Albert Museum, Zugriff am April 18, 2025, <http://www.vam.ac.uk/content/exhibitions/exhibition-sky-arts-ignition-memory-palace/about-the-exhibition/>\nL626| 68. The Museum as Memory Palace - Art21 Magazine, Zugriff am April 18, 2025, <https://magazine.art21.org/2012/08/30/the-museum-as-memory-palace/>\nL627| 69. Method of loci - Wikipedia, Zugriff am April 18, 2025, <https://en.wikipedia.org/wiki/Method_of_loci>\nL628| 70. Art/Trauma/Representation | Request PDF - ResearchGate, Zugriff am April 18, 2025, <https://www.researchgate.net/publication/233070169_ArtTraumaRepresentation>\nL629| 71. Representations of Trauma in Clinical Psychology and Fiction ..., Zugriff am April 18, 2025, <https://www.researchgate.net/publication/272009922_Representations_of_Trauma_in_Clinical_Psychology_and_Fiction>\nL630| 72. 'Death by Landscape: Essays' by Elvia Wilk - LIBER: A Feminist Review, Zugriff am April 18, 2025, <https://www.liberreview.com/issue-1-3-crossing-over/>"
+ },
+ "answers": {
+  "q0": {
+   "surface": "11kz80t/why_is_it_so_difficult_to_nail_a_reactive_open",
+   "noul": 0.39
+  },
+  "q1": {
+   "surface": "Effective",
+   "noul": 0.08
+  },
+  "q2": {
+   "surface": "1jreekn/effective_environmental_storytelling_techniques",
+   "noul": 0.58
+  },
+  "q3": {
+   "surface": "Proactive",
+   "noul": 0.45
+  },
+  "q4": {
+   "surface": "Active",
+   "noul": 0.41
+  },
+  "q5": {
+   "surface": "Events",
+   "noul": 0.33
+  },
+  "q6": {
+   "surface": "Hive",
+   "noul": 0.84
+  },
+  "q7": {
+   "surface": "Interactive",
+   "noul": 0.3
+  },
+  "q8": {
+   "surface": "Learning",
+   "noul": 0.08
+  },
+  "q9": {
+   "surface": "Shapes",
+   "noul": 0.08
+  },
+  "q10": {
+   "surface": "Gamefa",
+   "noul": 0.84
+  },
+  "q11": {
+   "surface": "2824/environmental-storytelling",
+   "noul": 0.31
+  },
+  "q12": {
+   "surface": "Pixune",
+   "noul": 0.93
+  },
+  "q13": {
+   "surface": "Studios",
+   "noul": 0.46
+  },
+  "q14": {
+   "surface": "ArtStation",
+   "noul": 0.89
+  },
+  "q15": {
+   "surface": "0gyA/storytelling-in-environment-art-level-design",
+   "noul": 0.38
+  },
+  "q16": {
+   "surface": "Compelling",
+   "noul": 0.11
+  },
+  "q17": {
+   "surface": "Play",
+   "noul": 0.14
+  },
+  "q18": {
+   "surface": "Super",
+   "noul": 0.69
+  },
+  "q19": {
+   "surface": "Magfest",
+   "noul": 0.9
+  },
+  "q20": {
+   "surface": "Literary",
+   "noul": 0.12
+  },
+  "q21": {
+   "surface": "Education",
+   "noul": 0.43
+  },
+  "q22": {
+   "surface": "Dreams",
+   "noul": 0.49
+  },
+  "q23": {
+   "surface": "Freud",
+   "noul": 0.95
+  },
+  "q24": {
+   "surface": "Offscreen",
+   "noul": 0.84
+  },
+  "q25": {
+   "surface": "Liminal_space_",
+   "noul": 0.87
+  },
+  "q26": {
+   "surface": "Broadly",
+   "noul": 0.03
+  },
+  "q27": {
+   "surface": "2C",
+   "noul": 0.12
+  },
+  "q28": {
+   "surface": "20the",
+   "noul": 0.07
+  },
+  "q29": {
+   "surface": "20term",
+   "noul": 0.21
+  },
+  "q30": {
+   "surface": "20liminal",
+   "noul": 0.23
+  },
+  "q31": {
+   "surface": "20space",
+   "noul": 0.24
+  },
+  "q32": {
+   "surface": "20period",
+   "noul": 0.09
+  },
+  "q33": {
+   "surface": "20of",
+   "noul": 0.06
+  },
+  "q34": {
+   "surface": "20adolescence",
+   "noul": 0.09
+  },
+  "q35": {
+   "surface": "Liminal",
+   "noul": 0.86
+  },
+  "q36": {
+   "surface": "Mental",
+   "noul": 0.16
+  },
+  "q37": {
+   "surface": "Health",
+   "noul": 0.15
+  },
+  "q38": {
+   "surface": "Effects",
+   "noul": 0.14
+  },
+  "q39": {
+   "surface": "Verywell",
+   "noul": 0.78
+  },
+  "q40": {
+   "surface": "Sky",
+   "noul": 0.71
+  },
+  "q41": {
+   "surface": "Arts",
+   "noul": 0.61
+  },
+  "q42": {
+   "surface": "Ignition",
+   "noul": 0.86
+  },
+  "q43": {
+   "surface": "Palace",
+   "noul": 0.72
+  },
+  "q44": {
+   "surface": "About",
+   "noul": 0.09
+  },
+  "q45": {
+   "surface": "Exhibition",
+   "noul": 0.36
+  },
+  "q46": {
+   "surface": "Victoria",
+   "noul": 0.84
+  },
+  "q47": {
+   "surface": "Art21",
+   "noul": 0.91
+  },
+  "q48": {
+   "surface": "art21",
+   "noul": 0.88
+  },
+  "q49": {
+   "surface": "2012/08/30/the-museum-as-memory-palace",
+   "noul": 0.63
+  },
+  "q50": {
+   "surface": "Method",
+   "noul": 0.83
+  },
+  "q51": {
+   "surface": "Method_of_loci",
+   "noul": 0.95
+  },
+  "q52": {
+   "surface": "Art/Trauma/Representation",
+   "noul": 0.87
+  },
+  "q53": {
+   "surface": "Request",
+   "noul": 0.15
+  },
+  "q54": {
+   "surface": "233070169_ArtTraumaRepresentation",
+   "noul": 0.65
+  },
+  "q55": {
+   "surface": "Representations",
+   "noul": 0.56
+  },
+  "q56": {
+   "surface": "Clinical",
+   "noul": 0.19
+  },
+  "q57": {
+   "surface": "272009922_Representations_of_Trauma_in_Clinical_Psychology_and_Fiction",
+   "noul": 0.83
+  },
+  "q58": {
+   "surface": "Death",
+   "noul": 0.74
+  },
+  "q59": {
+   "surface": "Landscape",
+   "noul": 0.71
+  },
+  "q60": {
+   "surface": "Essays",
+   "noul": 0.66
+  },
+  "q61": {
+   "surface": "Elvia",
+   "noul": 0.96
+  },
+  "q62": {
+   "surface": "Wilk",
+   "noul": 0.95
+  },
+  "q63": {
+   "surface": "LIBER",
+   "noul": 0.92
+  },
+  "q64": {
+   "surface": "Feminist",
+   "noul": 0.28
+  }
+ }
+}

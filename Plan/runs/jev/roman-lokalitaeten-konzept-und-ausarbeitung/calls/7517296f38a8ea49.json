@@ -1,0 +1,121 @@
+{
+ "key": "7517296f38a8ea49",
+ "model": "jev-1.13.0",
+ "seconds": 0.62,
+ "input_tokens": 6160,
+ "output_tokens": 462,
+ "window": [
+  90,
+  129
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L090| \nL091| EST kann genutzt werden, um die *Geschichte der System-Reboots* anzudeuten. Subtile Hinweise in der Umgebung – Artefakte, die fehl am Platz wirken, Überreste früherer Konfigurationen, architektonische Palimpseste – könnten auf die zyklische Natur des Systems verweisen und so Mysterien vertiefen und Instabilität andeuten.56 Dies würde EST nutzen, um die tiefere Geschichte und die zyklische Natur von AEGIS' System anzudeuten.\nL092| \nL093| Der *Zustand von Objekten* in einer Umgebung kann zudem als mächtiges Werkzeug für EST im Kontext von Kaels DID dienen. Ein perfekt geordneter Raum könnte den Einfluss eines bestimmten Alters widerspiegeln, während eine gestörte oder veränderte Version desselben Raumes auf die Präsenz oder den kürzlichen Durchgang eines anderen Alters hindeuten könnte.56 Dies würde es ermöglichen, interne Dynamiken und Charakterzüge rein durch Umgebungsspuren darzustellen.\nL094| \nL095| ## **Teil II: Narrative Anwendung und Weitere Forschung**\nL096| \nL097| ### **Einleitung**\nL098| \nL099| Nachdem die konzeptionellen Grundlagen etabliert wurden, fokussiert dieser Teil auf die spezifische narrative Anwendung dieser Prinzipien für \"Kohärenz Protokoll\". Es werden die notwendigen Informationskomponenten für detaillierte Lokalitätenprofile definiert, relevante narrative Techniken zur Nutzung von Schauplätzen analysiert und spezifische Design-Inspirationen identifiziert, die für die Ausgestaltung der Orte relevant sind.\nL100| \nL101| ### **A. Definition des Lokalitäten-Profils: Essentielle Informationskomponenten**\nL102| \nL103| Basierend auf der Aufgabenstellung und den allgemeinen Prinzipien des Worldbuildings sollte ein umfassendes Profil für jede wichtige Lokalität in \"Kohärenz Protokoll\" die folgenden Informationspunkte enthalten, um als effektive Arbeitsgrundlage für den Autor zu dienen:\nL104| \nL105| 1.  **Name der Lokalität & Ebene:** Eindeutige Bezeichnung und Zuordnung zu einer der sechs Realitätsebenen (KW1-4, Überwelt, Externe Ebene).\nL106| 2.  **Konzept/Zweck:** Die Kernidee hinter dem Ort und seine primäre narrative Funktion im Kontext der Geschichte und der Weltlogik. (Implizit in Worldbuilding-Zielen 2)\nL107| 3.  **Ästhetik/Visualisierung:** Beschreibung des dominanten Stils, wichtiger visueller Motive, der Farbpalette, architektonischer Merkmale und der Lichtgestaltung. (Bezug zu 1)\nL108| 4.  **Sensorik:** Beschreibung der vorherrschenden Geräusche, Gerüche, taktilen Qualitäten und der allgemeinen atmosphärischen Anmutung jenseits der Grundstimmung (z.B. drückend, schwebend, kalt). (Bezug zu 21)\nL109| 5.  **Symbolik:** Analyse der tieferen Bedeutungen, die in der Architektur, dem Layout, spezifischen Objekten oder der Farbgebung eingebettet sind und psychologische oder thematische Aspekte widerspiegeln. (Bezug zu 6)\nL110| 6.  **Regeln/Logik:** Spezifische Prinzipien, die diesen Raum beherrschen – physikalische Gesetze (falls abweichend), Systemregeln von AEGIS, psychologische Gesetzmäßigkeiten (in KWs), Auswirkungen von Entropie. (Bezug zu 3)\nL111| 7.  **Atmosphäre/Stimmung:** Detaillierte Beschreibung des dominanten emotionalen Gefühls, das der Ort hervorruft, und wie dieses durch die Gestaltungselemente erzeugt wird. (Bezug zu 21)\nL112| 8.  **Landmarken/Schlüsselmerkmale:** Beschreibung markanter oder wichtiger Elemente innerhalb der Lokalität, die zur Orientierung oder als Fokuspunkt dienen. (Bezug zu 60)\nL113| 9.  **Risse/Entropie-Manifestationen:** Konkrete Beschreibung, wie sich Systeminstabilität, Datenkorruption oder psychischer Zerfall an diesem spezifischen Ort manifestieren (visuell, auditiv, taktil, regelbrechend). Mögliche Nutzung von Glitch-/Zerfallsästhetik. (Bezug zu Kontext39)\nL114| 10. **Charakter/Plot-Verbindung:** Analyse der Beziehung des Ortes zu Haupt- und Nebencharakteren (inkl. Alters, Wächter). Beschreibung wichtiger Handlungsmomente aus Teil 1 \\[1207-1540\\], die hier stattfinden, und Analyse, wie der Ort diese Ereignisse oder die Charakterzustände beeinflusst. (Bezug zu Charakterkonzepte \\[565-1183\\])\nL115| 11. **Design-Inspirationen:** Verweis auf spezifische Konzepte (z.B. Glitch, Liminalität, Trauma-Landschaft) oder vergleichbare Werke, die das Design beeinflusst haben.\nL116| \nL117| Diese standardisierte Struktur gewährleistet Konsistenz über alle detaillierten Profile hinweg und stellt sicher, dass alle für die narrative Nutzung relevanten Aspekte abgedeckt sind.\nL118| \nL119| Der Abschnitt 'Regeln/Logik' ist in einer vielschichtigen Realität wie \"Kohärenz Protokoll\" von besonderer Bedeutung. Er muss explizit definieren, wie die fundamentalen Regeln des Systems (AEGIS, Entropie) mit der spezifischen Natur der Ebene (psychologisch, digital, extern) und etwaigen lokalen Bedingungen interagieren.3 Dies ist entscheidend, um logische Inkonsistenzen über die verschiedenen Settings hinweg zu vermeiden.2\nL120| \nL121| Der Punkt 'Charakter/Plot-Verbindung' sollte über eine reine Auflistung von Ereignissen hinausgehen. Er sollte analysieren, *wie* der Ort die Handlungen, Entscheidungen oder emotionalen Zustände der Charaktere während dieser Ereignisse *beeinflusst*.4 Das Setting wird so von einer passiven Kulisse zu einem aktiven Teilnehmer an der Handlung, dessen Einfluss auf die Figuren nachvollziehbar wird.56\nL122| \nL123| ### **B. Narrative Techniken zur Nutzung von Schauplätzen: Analyse und Vergleichsliteratur**\nL124| \nL125| Narrative Techniken ermöglichen es, Settings über ihre reine Funktion als Handlungsort hinaus effektiv zu nutzen:\nL126| \nL127|   - **Setting zur Charakterisierung:** Die Umgebung kann direkt oder indirekt Charakterzüge, Motivationen oder den inneren Zustand einer Figur offenbaren.8 Wie eine Figur ihre Umgebung wahrnimmt oder mit ihr interagiert (oder wie ihre persönliche Umgebung gestaltet ist), sagt viel über sie aus.\nL128|   - **Atmosphärenerzeugung:** Durch den gezielten Einsatz von Sinnesdetails, Wortwahl, Licht und Schatten usw. wird eine spezifische Stimmung erzeugt, die die emotionale Erfahrung des Lesers lenkt.42\nL129|   - **Environmental Storytelling (EST):** Die Vermittlung von Handlung, Geschichte oder Themen durch in die Umgebung eingebettete Details, ohne explizite Erklärung.56"
+ },
+ "answers": {
+  "q0": {
+   "surface": "Charakterzustände",
+   "noul": 0.08
+  },
+  "q1": {
+   "surface": "Charakterkonzepte",
+   "noul": 0.48
+  },
+  "q2": {
+   "surface": "Verweis",
+   "noul": 0.07
+  },
+  "q3": {
+   "surface": "Liminalität",
+   "noul": 0.8
+  },
+  "q4": {
+   "surface": "Trauma-Landschaft",
+   "noul": 0.72
+  },
+  "q5": {
+   "surface": "Werke",
+   "noul": 0.14
+  },
+  "q6": {
+   "surface": "Design",
+   "noul": 0.07
+  },
+  "q7": {
+   "surface": "Profile",
+   "noul": 0.21
+  },
+  "q8": {
+   "surface": "Realität",
+   "noul": 0.18
+  },
+  "q9": {
+   "surface": "Er",
+   "noul": 0.1
+  },
+  "q10": {
+   "surface": "Bedingungen",
+   "noul": 0.07
+  },
+  "q11": {
+   "surface": "Inkonsistenzen",
+   "noul": 0.05
+  },
+  "q12": {
+   "surface": "Punkt",
+   "noul": 0.07
+  },
+  "q13": {
+   "surface": "Auflistung",
+   "noul": 0.03
+  },
+  "q14": {
+   "surface": "Ereignissen",
+   "noul": 0.07
+  },
+  "q15": {
+   "surface": "Handlungen",
+   "noul": 0.04
+  },
+  "q16": {
+   "surface": "Figuren",
+   "noul": 0.06
+  },
+  "q17": {
+   "surface": "Vergleichsliteratur",
+   "noul": 0.08
+  },
+  "q18": {
+   "surface": "Handlungsort",
+   "noul": 0.09
+  },
+  "q19": {
+   "surface": "Figur",
+   "noul": 0.07
+  },
+  "q20": {
+   "surface": "Setting zur Charakterisierung",
+   "noul": 0.25
+  },
+  "q21": {
+   "surface": "Atmosphärenerzeugung",
+   "noul": 0.25
+  },
+  "q22": {
+   "surface": "Lesers",
+   "noul": 0.04
+  },
+  "q23": {
+   "surface": "Vermittlung",
+   "noul": 0.07
+  },
+  "q24": {
+   "surface": "Erklärung",
+   "noul": 0.15
+  },
+  "q25": {
+   "surface": "Environmental Storytelling (EST)",
+   "noul": 0.89
+  }
+ }
+}

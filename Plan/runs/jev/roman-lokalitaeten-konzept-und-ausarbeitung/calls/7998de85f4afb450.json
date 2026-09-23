@@ -1,0 +1,337 @@
+{
+ "key": "7998de85f4afb450",
+ "model": "jev-1.13.0",
+ "seconds": 0.81,
+ "input_tokens": 14359,
+ "output_tokens": 1434,
+ "window": [
+  210,
+  249
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L210| | Nox' Schattenversteck | KW3 | Explorative V2 | Refugium für Nox, Ort der heimlichen Beobachtung und Planung | Nox |\nL211| | Der Innere Bunker | KW3 | Plot Teil 1 | Psychologischer Rückzugsort, Symbol für Isolation und Abkapselung | Kael (in Paranoia), Nox |\nL212| | Arena der Inneren Konflikte | KW3 | Plot Teil 1 | Ort der Konfrontation mit verdrängten Aggressionen/Ängsten | Kael, Cerberus (als Gegner?), Nox |\nL213| | Labyrinth der Paranoia | KW3 | Explorative V2 | Sich ständig verändernder Irrgarten, der Misstrauen schürt | Kael, Cerberus (als Mechanismus) |\nL214| | Posten des Regel-Exekutors | KW3 | Kontext | Operationsbasis des NPCs, der Systemregeln durchsetzt | Regel-Exekutor (NPC), Cerberus |\nL215| | Die Zensurkammer | KW3 | Explorative V2 | Ort, an dem Gedanken oder Impulse unterdrückt werden | Cerberus, Kael (Erfahrung von Zensur) |\nL216| | Feld der Abwehrmechanismen | KW3 | Explorative V2 | Landschaft geformt durch visualisierte psychische Verteidigungen | Kael, Cerberus |\nL217| | \\*\\*Kern-Welt 4 (Kairos/Sophia)\\*\\* |   |   |   |   |\nL218| | Nexus-Interface | KW4 | Plot Teil 1 | Schnittstelle zur Erkundung von Potenzial und kreativen Ideen | Kael, Orakel/Muse (Alter) |\nL219| | Garten der Möglichkeiten | KW4 | Konzept Doc | Symbol für Wachstum, Potenzial und zukünftige Pfade | Kairos/Sophia, Kael, Orakel/Muse |\nL220| | Werkstatt der Schöpfung | KW4 | Plot Teil 1 | Ort der kreativen Betätigung und Manifestation von Ideen | Kael, Orakel/Muse |\nL221| | Turm der Voraussicht | KW4 | Explorative V2 | Ort, von dem aus mögliche Zukünfte (symbolisch) betrachtet werden | Orakel/Muse, Kairos/Sophia, Kael |\nL222| | Brücke zur Integration | KW4 | Explorative V2 | Symbolischer Ort, der die Verbindung und Heilung von Alters darstellt | Kael, alle Alters (Ziel) |\nL223| | Quelle der Inspiration | KW4 | Explorative V2 | Ort, der kreative Energie liefert oder verstärkt | Orakel/Muse, Kael |\nL224| | Forum des Dialogs | KW4 | Explorative V2 | Raum für die Kommunikation und Koordination zwischen Alters | Kael, Limina, Echo, Nox, Orakel/Muse etc. |\nL225| | Trainingsraum der Alters | KW4 | Explorative V2 | Sicherer Raum zum Üben neuer Fähigkeiten oder Kooperationen | Kael, Alters |\nL226| | \\*\\*Überwelt (AEGIS)\\*\\* |   |   |   |   |\nL227| | AEGIS Zentralkern | Überwelt | Konzept Doc | Hypothetischer Kontrollraum von AEGIS, abstrakt/unzugänglich? | AEGIS |\nL228| | Der Große System-Monitor | Überwelt | Konzept Doc | Visualisierung des Gesamtsystemzustands, Ort der Überwachung | AEGIS, Wächter |\nL229| | Entropie-Ausgleichs-Kammer | Überwelt | Explorative V2 | Ort, an dem AEGIS aktiv Entropie managt oder umwandelt | AEGIS |\nL230| | Datenfriedhof | Überwelt | Explorative V2 | Bereich mit korrumpierten, gelöschten oder obsoleten Daten | Kael (potenziell), AEGIS (Verwaltung) |\nL231| | Quarantäne-Zone 7 | Überwelt | Explorative V2 | Isolierter Bereich für instabile oder fehlerhafte Systemteile/Daten | AEGIS, potenziell Kael/Alter bei Detektion |\nL232| | Kommunikations-Hub | Überwelt | Explorative V2 | Zentrale Schnittstelle für die Kommunikation zwischen Wächtern/AEGIS | AEGIS, LogOS, Mnemosyne, Cerberus, Kairos/Sophia |\nL233| | Wächter-Registry | Überwelt | Explorative V2 | Datenbank/Interface zur Verwaltung der Wächter-Parameter | AEGIS |\nL234| | Simulations-Konstruktor | Überwelt | Explorative V2 | Bereich, in dem Aspekte der Kern-Welten modelliert/gesteuert werden | AEGIS, Wächter |\nL235| | \\*\\*Externe Ebene (Juna)\\*\\* |   |   |   |   |\nL236| | Junas Ankerpunkt | Externe Ebene | Konzept Doc | Spezifischer Ort/Zustand, an dem Junas Verbindung manifest wird | Juna, Kael |\nL237| | Der Riss im System | Externe Ebene | Konzept Doc | Metaphorischer/realer Zugangspunkt von außen | Juna, Kael (unbewusst?) |\nL238| | Garten der Stillen Präsenz | Externe Ebene | Explorative V2 | Ort des Friedens und der nonverbalen Kommunikation, Kontrast zur Hektik | Juna, Kael (in Visionen?) |\nL239| | Quelle des Flüsterns | Externe Ebene | Explorative V2 | Ursprung der subtilen Hinweise oder Nachrichten von Juna | Juna |\nL240| | Das Unkartierte Territorium | Externe Ebene | Explorative V2 | Bereich jenseits der bekannten Systemgrenzen, unerforscht | Juna, Kael (Ziel?) |\nL241| | Junas Geheime Schnittstelle | Externe Ebene | Explorative V2 | Verborgener Zugangspunkt, den Juna zur Interaktion nutzt | Juna |\nL242| | Hain der Gegensätze | Externe Ebene | Explorative V2 | Ort, der die Dualität/den Kontrast zur AEGIS-Welt verkörpert | Juna, Kael (symbolische Begegnung?) |\nL243| \nL244| *(Anmerkung: Diese Liste ist eine auf den Kontextinformationen basierende Rekonstruktion und Erweiterung. Sie enthält ca. 52 Orte. Die Auswahl der 30 detaillierten Profile in Teil IV wird aus dieser Liste erfolgen.)*\nL245| \nL246| ## **Teil IV: Detaillierte Lokalitäten-Profile**\nL247| \nL248| ### **Einleitung**\nL249| "
+ },
+ "answers": {
+  "q0": {
+   "surface": "Schattenversteck",
+   "noul": 0.87
+  },
+  "q1": {
+   "surface": "Refugium",
+   "noul": 0.35
+  },
+  "q2": {
+   "surface": "Nox' Schattenversteck",
+   "noul": 0.96
+  },
+  "q3": {
+   "surface": "Innere",
+   "noul": 0.35
+  },
+  "q4": {
+   "surface": "Bunker",
+   "noul": 0.88
+  },
+  "q5": {
+   "surface": "Psychologischer",
+   "noul": 0.05
+  },
+  "q6": {
+   "surface": "Rückzugsort",
+   "noul": 0.13
+  },
+  "q7": {
+   "surface": "Isolation",
+   "noul": 0.08
+  },
+  "q8": {
+   "surface": "Abkapselung",
+   "noul": 0.08
+  },
+  "q9": {
+   "surface": "Der Innere Bunker",
+   "noul": 0.96
+  },
+  "q10": {
+   "surface": "Arena",
+   "noul": 0.78
+  },
+  "q11": {
+   "surface": "Konflikte",
+   "noul": 0.52
+  },
+  "q12": {
+   "surface": "Aggressionen/Ängsten",
+   "noul": 0.11
+  },
+  "q13": {
+   "surface": "Gegner",
+   "noul": 0.17
+  },
+  "q14": {
+   "surface": "Arena der Inneren Konflikte",
+   "noul": 0.96
+  },
+  "q15": {
+   "surface": "Irrgarten",
+   "noul": 0.72
+  },
+  "q16": {
+   "surface": "Misstrauen",
+   "noul": 0.12
+  },
+  "q17": {
+   "surface": "Mechanismus",
+   "noul": 0.28
+  },
+  "q18": {
+   "surface": "Labyrinth der Paranoia",
+   "noul": 0.96
+  },
+  "q19": {
+   "surface": "Posten",
+   "noul": 0.72
+  },
+  "q20": {
+   "surface": "Regel-Exekutors",
+   "noul": 0.85
+  },
+  "q21": {
+   "surface": "Operationsbasis",
+   "noul": 0.12
+  },
+  "q22": {
+   "surface": "Posten des Regel-Exekutors",
+   "noul": 0.89
+  },
+  "q23": {
+   "surface": "Zensurkammer",
+   "noul": 0.95
+  },
+  "q24": {
+   "surface": "Impulse",
+   "noul": 0.13
+  },
+  "q25": {
+   "surface": "Zensur",
+   "noul": 0.45
+  },
+  "q26": {
+   "surface": "Die Zensurkammer",
+   "noul": 0.96
+  },
+  "q27": {
+   "surface": "Feld",
+   "noul": 0.75
+  },
+  "q28": {
+   "surface": "Verteidigungen",
+   "noul": 0.46
+  },
+  "q29": {
+   "surface": "Feld der Abwehrmechanismen",
+   "noul": 0.95
+  },
+  "q30": {
+   "surface": "\\*\\*Kern-Welt 4 (Kairos/Sophia)\\*\\",
+   "noul": 0.96
+  },
+  "q31": {
+   "surface": "Nexus-Interface",
+   "noul": 0.95
+  },
+  "q32": {
+   "surface": "Schnittstelle",
+   "noul": 0.84
+  },
+  "q33": {
+   "surface": "Alter",
+   "noul": 0.65
+  },
+  "q34": {
+   "surface": "Garten",
+   "noul": 0.82
+  },
+  "q35": {
+   "surface": "Wachstum",
+   "noul": 0.09
+  },
+  "q36": {
+   "surface": "Pfade",
+   "noul": 0.09
+  },
+  "q37": {
+   "surface": "Garten der Möglichkeiten",
+   "noul": 0.96
+  },
+  "q38": {
+   "surface": "Werkstatt",
+   "noul": 0.86
+  },
+  "q39": {
+   "surface": "Schöpfung",
+   "noul": 0.51
+  },
+  "q40": {
+   "surface": "Betätigung",
+   "noul": 0.07
+  },
+  "q41": {
+   "surface": "Werkstatt der Schöpfung",
+   "noul": 0.97
+  },
+  "q42": {
+   "surface": "Turm",
+   "noul": 0.84
+  },
+  "q43": {
+   "surface": "Voraussicht",
+   "noul": 0.48
+  },
+  "q44": {
+   "surface": "Zukünfte",
+   "noul": 0.08
+  },
+  "q45": {
+   "surface": "Turm der Voraussicht",
+   "noul": 0.97
+  },
+  "q46": {
+   "surface": "Brücke",
+   "noul": 0.87
+  },
+  "q47": {
+   "surface": "Symbolischer",
+   "noul": 0.07
+  },
+  "q48": {
+   "surface": "Heilung",
+   "noul": 0.09
+  },
+  "q49": {
+   "surface": "Brücke zur Integration",
+   "noul": 0.95
+  },
+  "q50": {
+   "surface": "Energie",
+   "noul": 0.12
+  },
+  "q51": {
+   "surface": "Quelle der Inspiration",
+   "noul": 0.93
+  },
+  "q52": {
+   "surface": "Forum",
+   "noul": 0.82
+  },
+  "q53": {
+   "surface": "Dialogs",
+   "noul": 0.48
+  },
+  "q54": {
+   "surface": "Kommunikation",
+   "noul": 0.13
+  },
+  "q55": {
+   "surface": "Koordination",
+   "noul": 0.07
+  },
+  "q56": {
+   "surface": "Forum des Dialogs",
+   "noul": 0.96
+  },
+  "q57": {
+   "surface": "Trainingsraum",
+   "noul": 0.86
+  },
+  "q58": {
+   "surface": "Üben",
+   "noul": 0.05
+  },
+  "q59": {
+   "surface": "Fähigkeiten",
+   "noul": 0.09
+  },
+  "q60": {
+   "surface": "Kooperationen",
+   "noul": 0.07
+  },
+  "q61": {
+   "surface": "Trainingsraum der Alters",
+   "noul": 0.95
+  },
+  "q62": {
+   "surface": "\\*\\*Überwelt (AEGIS)\\*\\",
+   "noul": 0.96
+  },
+  "q63": {
+   "surface": "Zentralkern",
+   "noul": 0.85
+  },
+  "q64": {
+   "surface": "Hypothetischer",
+   "noul": 0.06
+  },
+  "q65": {
+   "surface": "Kontrollraum",
+   "noul": 0.2
+  },
+  "q66": {
+   "surface": "AEGIS Zentralkern",
+   "noul": 0.94
+  },
+  "q67": {
+   "surface": "System-Monitor",
+   "noul": 0.9
+  },
+  "q68": {
+   "surface": "Gesamtsystemzustands",
+   "noul": 0.21
+  },
+  "q69": {
+   "surface": "Der Große System-Monitor",
+   "noul": 0.93
+  },
+  "q70": {
+   "surface": "Entropie-Ausgleichs-Kammer",
+   "noul": 0.96
+  },
+  "q71": {
+   "surface": "Datenfriedhof",
+   "noul": 0.96
+  },
+  "q72": {
+   "surface": "Verwaltung",
+   "noul": 0.12
+  },
+  "q73": {
+   "surface": "Quarantäne-Zone",
+   "noul": 0.94
+  },
+  "q74": {
+   "surface": "Isolierter",
+   "noul": 0.11
+  },
+  "q75": {
+   "surface": "Systemteile/Daten",
+   "noul": 0.17
+  },
+  "q76": {
+   "surface": "Kael/Alter",
+   "noul": 0.37
+  },
+  "q77": {
+   "surface": "Detektion",
+   "noul": 0.08
+  },
+  "q78": {
+   "surface": "Quarantäne-Zone 7",
+   "noul": 0.96
+  },
+  "q79": {
+   "surface": "Kommunikations-Hub",
+   "noul": 0.95
+  }
+ }
+}

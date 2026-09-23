@@ -1,0 +1,337 @@
+{
+ "key": "e63efa43b1cbe883",
+ "model": "jev-1.13.0",
+ "seconds": 0.93,
+ "input_tokens": 14735,
+ "output_tokens": 1434,
+ "window": [
+  290,
+  329
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L290| 1.  **Therapie-Schnittstelle Alpha (KW1)**\nL291| \nL292| <!-- end list -->\nL293| \nL294|   - **Konzept/Zweck:** Designierter Ort für Kaels Therapiesitzungen. Eine Schnittstelle, die eine Verbindung zum (vermutlich ebenfalls systemgesteuerten) Therapeuten herstellt. Dient der Systemintegrität durch (vermeintliche) psychologische Betreuung, potenziell aber auch der Überwachung und Manipulation von Kaels Zustand.\nL295|   - **Ästhetik/Visualisierung:** Kleiner, isolierter Raum. Design versucht, beruhigend zu wirken, aber auf künstliche Weise (sanfte Farben, indirektes Licht, vielleicht eine abstrakte, beruhigende Visualisierung an einer Wand). Ein zentrales Interface (Stuhl mit Sensoren? Projektionsfläche?). Kontrast zwischen intendierter Beruhigung und unterschwelliger Künstlichkeit/Kontrolle.\nL296|   - **Sensorik:** Sehr leise, fast schalldicht. Angenehme, aber künstliche Raumtemperatur. Vielleicht ein leichter, synthetischer Beruhigungsduft. Das Interface (Stuhl?) fühlt sich glatt, vielleicht leicht kühl an.\nL297|   - **Symbolik:** Symbolisiert den Versuch des Systems, die Psyche zu verstehen und zu kontrollieren, aber auf eine distanzierte, technologische Weise. Der Raum selbst ist eine Schnittstelle, kein Ort echter menschlicher Begegnung. Die potenzielle Manipulation hier untergräbt das Konzept von Therapie.\nL298|   - **Regeln/Logik:** Aktivierung nur zu festgelegten Zeiten. Kommunikation läuft über das Interface. Daten (biometrisch, verbal) werden erfasst. Vertraulichkeit ist systemdefiniert (d.h. nicht absolut).\nL299|   - **Atmosphäre/Mood:** Anfänglich neutral bis leicht beruhigend. Zunehmend künstlich, steril, misstrauenerweckend, je mehr Kael das System hinterfragt. Gefühl, analysiert und bewertet zu werden.\nL300|   - **Landmarken/Key Features:** Zentrales Therapie-Interface (Stuhl/Konsole/Projektor), subtile Sensoren an Wänden/Decke, Tür ohne sichtbaren Griff von innen (?).\nL301|   - **Risse/Entropie Manifestations:** Störungen in der Kommunikation mit dem Therapeuten (Verzerrungen, Aussetzer), Fehlfunktionen des Interfaces, unerklärliche sensorische Phänomene (Temperaturschwankungen, Lichtflackern), vielleicht Einblendungen aus anderen Kern-Welten.\nL302|   - **Charakter/Plot Link:** Kael, Therapeut (NPC, Stimme/Avatar), LogOS (als überwachendes System). Ort wichtiger Dialoge, in denen Kael versucht, seine Erlebnisse zu artikulieren, aber auf systemkonforme Antworten stößt \\[1285-1291\\]. Potenzielle Quelle für (Fehl-)Informationen.\nL303|   - **Design Inspirations:** Therapieräume, medizinische Untersuchungsräume, minimalistische Meditationsräume, Interface-Design aus Sci-Fi (z.B. *Minority Report*).\nL304| \nL305| **(Kern-Welt 2: Mnemosyne)**\nL306| \nL307| 1.  **Vergessener Schrein (Trauma-Lokus) (KW2)**\nL308| \nL309| <!-- end list -->\nL310| \nL311|   - **Konzept/Zweck:** Ein zentraler Ort in KW2, der ein spezifisches, stark verdrängtes Trauma Kaels repräsentiert. Dient als Kulminationspunkt für die Konfrontation mit schmerzhaften Erinnerungen und den damit verbundenen Emotionen. Ein Ort der Katharsis oder der erneuten Retraumatisierung.\nL312|   - **Ästhetik/Visualisierung:** Verfallen, überwuchert, fragmentiert. Architektur könnte an einen realen Ort aus Kaels Vergangenheit erinnern, aber stark verzerrt und symbolisch aufgeladen sein (z.B. ein zerbrochenes Kinderzimmer, eine ruinierte Brücke). Dunkle, gedämpfte Farbpalette, vielleicht mit scharfen Kontrastfarben an Bruchstellen. Licht spärlich, dramatisch, vielleicht pulsierend. Überall Spuren von Verfall und emotionalem Schmerz (Risse, Flecken, zerbrochene Objekte).\nL313|   - **Sensorik:** Geruch nach Moder, Staub, vielleicht etwas Metallischem (Blut?) oder Ozon (Energieentladung). Geräusche von Wind, Tropfen, Knarren, vielleicht verzerrte Stimmen oder Schreie in der Ferne. Kalte, feuchte Luft. Raue, bröckelnde Oberflächen. Gefühl von Schwere, Trauer, Angst.\nL314|   - **Symbolik:** Direkte Verkörperung des Traumas. Der Verfall symbolisiert die Zeit und die Verdrängung. Die Fragmentierung spiegelt die dissoziierte Natur der Erinnerung wider. Spezifische Objekte (ein kaputtes Spielzeug, ein zerrissenes Foto) tragen hohe symbolische Ladung.\nL315|   - **Regeln/Logik:** Die \"Realität\" hier ist instabil und emotional aufgeladen. Logik kann durch \"Traumlogik\" oder emotionale Assoziationen ersetzt werden. Der Ort kann auf Kaels Emotionen reagieren, sich verändern. Erinnerungsfragmente können sich aufdrängen.\nL316|   - **Atmosphäre/Mood:** Beklemmend, traurig, unheimlich, schmerzhaft. Hohe emotionale Intensität. Gefühl von Verlust und Gefahr. Potenzial für plötzliche Schocks oder Enthüllungen.\nL317|   - **Landmarken/Key Features:** Zentrales Trauma-Symbol (z.B. ein zerbrochener Spiegel, ein leerer Stuhl), verwitterte Inschriften oder Zeichnungen, Echos von vergangenen Ereignissen, der Zugangsweg selbst (Pfad der fragmentierten Erinnerung).\nL318|   - **Risse/Entropie Manifestations:** Hier sind 'Risse' vielleicht weniger digitale Glitches als vielmehr psychische Brüche: Plötzliche Realitätsverschiebungen, unkontrollierbare emotionale Ausbrüche, die die Umgebung verändern, intrudierende Erinnerungen aus anderen Kontexten, Präsenz von Entitäten (Echo, Mnemosyne). Die Grenzen zwischen Kael, der Erinnerung und der Umgebung verschwimmen.\nL319|   - **Charakter/Plot Link:** Kael (Erfahrung der Konfrontation), Echo (als Verkörperung des Traumas/der Emotion), Mnemosyne (als Hüterin/Manipulatorin der Erinnerung). Ort der zentralen Auseinandersetzung mit einem Schlüsselereignis aus Kaels Vergangenheit in Teil 1 \\[1298-1314\\].\nL320|   - **Design Inspirations:** Trauma-Landschaften 71, *Silent Hill 2* (insbesondere die \"Otherworld\"-Transformationen) 14, Gothic Literature Settings, verfallene Orte (Urban Exploration), symbolistische Kunst.\nL321| \nL322| <!-- end list -->\nL323| \nL324| 1.  **Archiv des Ungesagten (KW2)**\nL325| \nL326| <!-- end list -->\nL327| \nL328|   - **Konzept/Zweck:** Der Aufbewahrungsort für verdrängte, vergessene oder zensierte Informationen und Erinnerungen innerhalb von KW2. Sitz des Archivars (NPC). Ein Ort der potenziellen Wahrheit, aber auch der Gefahr, da die hier gespeicherten Inhalte destabilisierend sein können.\nL329|   - **Ästhetik/Visualisierung:** Könnte wie eine endlose, labyrinthartige Bibliothek oder ein riesiges, chaotisches Lagerhaus wirken. Regale voller unbeschrifteter Behälter, flackernder Bildschirme, verstaubter Bücher oder seltsamer Objekte. Architektur möglicherweise instabil, Gänge, die sich verschieben. Beleuchtung schwach, punktuell, Staub tanzt in Lichtkegeln. Visuelle Metaphern für unterdrückte Information (z.B. verschlossene Kisten, zensierte Texte)."
+ },
+ "answers": {
+  "q0": {
+   "surface": "Therapie-Schnittstelle Alpha (KW1)",
+   "noul": 0.96
+  },
+  "q1": {
+   "surface": "Designierter",
+   "noul": 0.06
+  },
+  "q2": {
+   "surface": "Therapiesitzungen",
+   "noul": 0.1
+  },
+  "q3": {
+   "surface": "Betreuung",
+   "noul": 0.07
+  },
+  "q4": {
+   "surface": "Kleiner",
+   "noul": 0.04
+  },
+  "q5": {
+   "surface": "Stuhl",
+   "noul": 0.1
+  },
+  "q6": {
+   "surface": "Sensoren",
+   "noul": 0.11
+  },
+  "q7": {
+   "surface": "Projektionsfläche",
+   "noul": 0.14
+  },
+  "q8": {
+   "surface": "Beruhigung",
+   "noul": 0.06
+  },
+  "q9": {
+   "surface": "Künstlichkeit/Kontrolle",
+   "noul": 0.06
+  },
+  "q10": {
+   "surface": "Sehr",
+   "noul": 0.02
+  },
+  "q11": {
+   "surface": "Angenehme",
+   "noul": 0.03
+  },
+  "q12": {
+   "surface": "Raumtemperatur",
+   "noul": 0.07
+  },
+  "q13": {
+   "surface": "Vielleicht",
+   "noul": 0.02
+  },
+  "q14": {
+   "surface": "Beruhigungsduft",
+   "noul": 0.09
+  },
+  "q15": {
+   "surface": "Therapie",
+   "noul": 0.16
+  },
+  "q16": {
+   "surface": "Aktivierung",
+   "noul": 0.07
+  },
+  "q17": {
+   "surface": "Zeiten",
+   "noul": 0.04
+  },
+  "q18": {
+   "surface": "Vertraulichkeit",
+   "noul": 0.14
+  },
+  "q19": {
+   "surface": "Zunehmend",
+   "noul": 0.02
+  },
+  "q20": {
+   "surface": "Zentrales",
+   "noul": 0.1
+  },
+  "q21": {
+   "surface": "Therapie-Interface",
+   "noul": 0.79
+  },
+  "q22": {
+   "surface": "Stuhl/Konsole/Projektor",
+   "noul": 0.16
+  },
+  "q23": {
+   "surface": "Wänden/Decke",
+   "noul": 0.05
+  },
+  "q24": {
+   "surface": "Tür",
+   "noul": 0.08
+  },
+  "q25": {
+   "surface": "Griff",
+   "noul": 0.05
+  },
+  "q26": {
+   "surface": "Aussetzer",
+   "noul": 0.09
+  },
+  "q27": {
+   "surface": "Interfaces",
+   "noul": 0.14
+  },
+  "q28": {
+   "surface": "Temperaturschwankungen",
+   "noul": 0.11
+  },
+  "q29": {
+   "surface": "Lichtflackern",
+   "noul": 0.13
+  },
+  "q30": {
+   "surface": "Einblendungen",
+   "noul": 0.07
+  },
+  "q31": {
+   "surface": "Stimme/Avatar",
+   "noul": 0.13
+  },
+  "q32": {
+   "surface": "Dialoge",
+   "noul": 0.06
+  },
+  "q33": {
+   "surface": "Erlebnisse",
+   "noul": 0.05
+  },
+  "q34": {
+   "surface": "Antworten",
+   "noul": 0.07
+  },
+  "q35": {
+   "surface": "1285-1291",
+   "noul": 0.17
+  },
+  "q36": {
+   "surface": "Potenzielle",
+   "noul": 0.06
+  },
+  "q37": {
+   "surface": "Fehl",
+   "noul": 0.08
+  },
+  "q38": {
+   "surface": "Therapieräume",
+   "noul": 0.16
+  },
+  "q39": {
+   "surface": "Untersuchungsräume",
+   "noul": 0.11
+  },
+  "q40": {
+   "surface": "Meditationsräume",
+   "noul": 0.17
+  },
+  "q41": {
+   "surface": "Interface-Design",
+   "noul": 0.14
+  },
+  "q42": {
+   "surface": "Sci-Fi",
+   "noul": 0.21
+  },
+  "q43": {
+   "surface": "Minority",
+   "noul": 0.91
+  },
+  "q44": {
+   "surface": "Report",
+   "noul": 0.75
+  },
+  "q45": {
+   "surface": "(Kern-Welt 2: Mnemosyne)",
+   "noul": 0.95
+  },
+  "q46": {
+   "surface": "Vergessener Schrein (Trauma-Lokus) (KW2)",
+   "noul": 0.97
+  },
+  "q47": {
+   "surface": "Kulminationspunkt",
+   "noul": 0.1
+  },
+  "q48": {
+   "surface": "Katharsis",
+   "noul": 0.15
+  },
+  "q49": {
+   "surface": "Retraumatisierung",
+   "noul": 0.18
+  },
+  "q50": {
+   "surface": "Verfallen",
+   "noul": 0.05
+  },
+  "q51": {
+   "surface": "Kinderzimmer",
+   "noul": 0.12
+  },
+  "q52": {
+   "surface": "Dunkle",
+   "noul": 0.03
+  },
+  "q53": {
+   "surface": "Kontrastfarben",
+   "noul": 0.04
+  },
+  "q54": {
+   "surface": "Bruchstellen",
+   "noul": 0.05
+  },
+  "q55": {
+   "surface": "Überall",
+   "noul": 0.03
+  },
+  "q56": {
+   "surface": "Schmerz",
+   "noul": 0.07
+  },
+  "q57": {
+   "surface": "Flecken",
+   "noul": 0.04
+  },
+  "q58": {
+   "surface": "Moder",
+   "noul": 0.05
+  },
+  "q59": {
+   "surface": "Staub",
+   "noul": 0.04
+  },
+  "q60": {
+   "surface": "Metallischem",
+   "noul": 0.04
+  },
+  "q61": {
+   "surface": "Blut",
+   "noul": 0.04
+  },
+  "q62": {
+   "surface": "Ozon",
+   "noul": 0.1
+  },
+  "q63": {
+   "surface": "Energieentladung",
+   "noul": 0.1
+  },
+  "q64": {
+   "surface": "Wind",
+   "noul": 0.04
+  },
+  "q65": {
+   "surface": "Tropfen",
+   "noul": 0.04
+  },
+  "q66": {
+   "surface": "Knarren",
+   "noul": 0.04
+  },
+  "q67": {
+   "surface": "Stimmen",
+   "noul": 0.06
+  },
+  "q68": {
+   "surface": "Schreie",
+   "noul": 0.04
+  },
+  "q69": {
+   "surface": "Ferne",
+   "noul": 0.03
+  },
+  "q70": {
+   "surface": "Kalte",
+   "noul": 0.04
+  },
+  "q71": {
+   "surface": "Raue",
+   "noul": 0.03
+  },
+  "q72": {
+   "surface": "Schwere",
+   "noul": 0.04
+  },
+  "q73": {
+   "surface": "Angst",
+   "noul": 0.05
+  },
+  "q74": {
+   "surface": "Direkte",
+   "noul": 0.03
+  },
+  "q75": {
+   "surface": "Spielzeug",
+   "noul": 0.07
+  },
+  "q76": {
+   "surface": "Foto",
+   "noul": 0.07
+  },
+  "q77": {
+   "surface": "Ladung",
+   "noul": 0.05
+  },
+  "q78": {
+   "surface": "Traumlogik",
+   "noul": 0.59
+  },
+  "q79": {
+   "surface": "Assoziationen",
+   "noul": 0.12
+  }
+ }
+}

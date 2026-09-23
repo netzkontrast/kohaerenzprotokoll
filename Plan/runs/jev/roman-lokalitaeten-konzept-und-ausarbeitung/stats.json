@@ -1,0 +1,14 @@
+{
+ "slug": "roman-lokalitaeten-konzept-und-ausarbeitung",
+ "lines": 630,
+ "candidates": 2191,
+ "requests": 34,
+ "unreached": 0,
+ "judged": 2191,
+ "yes": 428,
+ "kept": 100,
+ "input_tokens": 421786,
+ "output_tokens": 39234,
+ "wall_seconds": 0.0,
+ "model": "jev-1.13.0"
+}

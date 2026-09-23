@@ -1,0 +1,14 @@
+{
+ "slug": "aegis-subplots-kapitelweise-system-exploration-docx",
+ "lines": 619,
+ "candidates": 2044,
+ "requests": 32,
+ "unreached": 0,
+ "judged": 2044,
+ "yes": 423,
+ "kept": 100,
+ "input_tokens": 401306,
+ "output_tokens": 36607,
+ "wall_seconds": 5.7,
+ "model": "jev-1.13.0"
+}

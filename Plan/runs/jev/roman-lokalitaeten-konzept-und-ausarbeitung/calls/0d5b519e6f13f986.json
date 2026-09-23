@@ -1,0 +1,201 @@
+{
+ "key": "0d5b519e6f13f986",
+ "model": "jev-1.13.0",
+ "seconds": 0.82,
+ "input_tokens": 9551,
+ "output_tokens": 822,
+ "window": [
+  330,
+  369
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L330|   - **Sensorik:** Geruch nach altem Papier, Staub, Ozon, vielleicht ein Hauch von Verwesung (metaphorisch für vergessene Ideen). Stille, unterbrochen von leisem Rascheln, Flüstern, dem Summen alter Technik. Kühle, stehende Luft. Gefühl von unermesslicher, aber unzugänglicher Information.\nL331|   - **Symbolik:** Repräsentiert das kollektive Unbewusste von KW2 oder die Gesamtheit der verdrängten Aspekte von Kaels Psyche. Der Archivar als Hüter des Vergessenen. Die Unordnung symbolisiert die Schwierigkeit, Zugang zu diesen Inhalten zu finden.\nL332|   - **Regeln/Logik:** Das Ordnungssystem ist unklar oder subjektiv (vom Archivar abhängig). Zugang zu Informationen kann schwierig oder gefährlich sein. Die Umgebung kann auf Suchanfragen reagieren, aber unvorhersehbar.\nL333|   - **Atmosphäre/Mood:** Geheimnisvoll, staubig, leicht melancholisch, potenziell bedrohlich. Gefühl von verborgenem Wissen und lauernder Gefahr. Neugier wird geweckt, aber auch Furcht.\nL334|   - **Landmarken/Key Features:** Der Platz des Archivars (ein Pult? Ein Thron aus Daten?), besonders markante oder gefährliche Bereiche des Archivs, ein zentraler Index (falls vorhanden, wahrscheinlich fehlerhaft oder unvollständig), Zugänge zu tieferen Schichten.\nL335|   - **Risse/Entropie Manifestations:** Informationen werden korrumpiert oder löschen sich selbst (digitaler Verfall 40). Bereiche des Archivs kollabieren oder werden unzugänglich. Falsche oder widersprüchliche Informationen tauchen auf. Der Archivar selbst zeigt Anzeichen von Instabilität.\nL336|   - **Charakter/Plot Link:** Kael (Suchender), Archivar (NPC, Hüter/Informant), Mnemosyne (übergeordnete Kontrolle?). Ort der Begegnung Kaels mit dem Archivar, Suche nach Hinweisen auf seine Vergangenheit oder das System . Potenzielle Quelle für wichtige Plot-Informationen oder irreführende Hinweise.\nL337|   - **Design Inspirations:** Borges' \"Bibliothek von Babel\", alte Archive, Lagerhäuser, Serverräume, vielleicht Elemente von Gedächtnispalästen 69 in chaotischer Form.\nL338| \nL339| <!-- end list -->\nL340| \nL341| 1.  **Galerie der Falschen Erinnerungen (KW2)**\nL342| \nL343| <!-- end list -->\nL344| \nL345|   - **Konzept/Zweck:** Ein von Mnemosyne (oder dem System) geschaffener Bereich, der Kael mit konstruierten, beschönigten oder absichtlich irreführenden Erinnerungen konfrontiert. Dient der Manipulation, Beruhigung oder Ablenkung. Ein Ort der Täuschung.\nL346|   - **Ästhetik/Visualisierung:** Im Kontrast zu anderen Teilen von KW2 möglicherweise hell, sauber, ästhetisch ansprechend, fast idyllisch. Könnte wie eine Kunstgalerie oder ein Museum mit perfekt inszenierten Dioramen oder interaktiven Projektionen wirken. Die dargestellten Szenen sind jedoch subtil \"falsch\", idealisiert oder widersprüchlich.\nL347|   - **Sensorik:** Angenehme Temperatur, sanfte Musik oder beruhigende Geräuschkulisse. Vielleicht ein süßlicher, künstlicher Duft. Glatte, polierte Oberflächen. Gefühl von Unbeschwertheit, das aber bei genauerem Hinsehen brüchig wirkt.\nL348|   - **Symbolik:** Verkörpert die Manipulation von Erinnerung und Wahrheit. Die perfekte Fassade symbolisiert die Täuschung. Die \"falschen\" Details sind Hinweise auf die Konstruktion.\nL349|   - **Regeln/Logik:** Die hier präsentierten Erinnerungen folgen einer externen Logik (der des Konstrukteurs). Sie können interaktiv sein, aber nur innerhalb vorgegebener Parameter. Versuche, die Fassade zu durchbrechen, könnten Abwehrmechanismen auslösen.\nL350|   - **Atmosphäre/Mood:** Anfänglich angenehm, nostalgisch, beruhigend. Bei genauerer Betrachtung oder Konfrontation unheimlich, künstlich, beunruhigend (Uncanny Valley-Effekt 65). Gefühl, getäuscht zu werden.\nL351|   - **Landmarken/Key Features:** Einzelne \"Exponate\" (Dioramen, Projektionen), Informationsdisplays (die falsche Narrative liefern), ein zentraler \"Kurator\"-Punkt (vielleicht eine Präsenz von Mnemosyne), versteckte Hinweise auf die Fälschung.\nL352|   - **Risse/Entropie Manifestations:** Die falschen Erinnerungen beginnen zu \"glitchen\" 39, zeigen Widersprüche oder Fragmente der Wahrheit. Die idyllische Fassade bröckelt, legt die darunterliegende Struktur oder den Verfall von KW2 frei.\nL353|   - **Charakter/Plot Link:** Kael (als Ziel der Manipulation), Mnemosyne (als Schöpferin/Kuratorin). Ein Ort, an dem das System versucht, Kael von schmerzhaften Wahrheiten abzulenken oder ihn auf einen falschen Pfad zu führen. Könnte Teil einer Prüfung oder eines Täuschungsmanövers sein.\nL354|   - **Design Inspirations:** Museen, Kunstgalerien, Themenparks (insbesondere die künstlichen Fassaden), Potemkinsche Dörfer, Konzepte der Erinnerungsmanipulation in Filmen wie *Total Recall* oder *Dark City*.\nL355| \nL356| **(Kern-Welt 3: Cerberus)**\nL357| \nL358| 1.  **Die Große Mauer (Systemgrenze) (KW3)**\nL359| \nL360| <!-- end list -->\nL361| \nL362|   - **Konzept/Zweck:** Eine massive, scheinbar undurchdringliche Barriere, die KW3 umgibt oder durchzieht. Symbolisiert die Abwehrmechanismen des Systems (und Kaels Psyche), die Grenzen des Erlaubten und die Kontrolle durch Cerberus. Dient als physisches und psychologisches Hindernis.\nL363|   - **Ästhetik/Visualisierung:** Imposant, bedrohlich, monumental. Könnte aus dunklem, kaltem Material bestehen (Metall, Basalt, Beton). Glatte, nahtlose Oberflächen oder im Gegenteil stark befestigt mit Wachtürmen, Stacheldraht, Energieschildern. Architektur betont Undurchdringlichkeit und Überwachung. Möglicherweise in den Himmel ragend oder endlos erscheinend.\nL364|   - **Sensorik:** Gefühl von Kälte, die von der Mauer ausstrahlt. Wind heult an ihr entlang. Leises Brummen von Energie oder Überwachungssystemen. Geruch nach Ozon oder kaltem Metall. Die schiere Masse erzeugt ein Gefühl der Einschüchterung.\nL365|   - **Symbolik:** Verkörpert Abwehr, Verleugnung, Widerstand gegen Veränderung. Symbol für die Macht von Cerberus und AEGIS. Die Grenze zwischen dem (kontrollierten) Selbst und dem (potenziell bedrohlichen) Außen/Anderen.\nL366|   - **Regeln/Logik:** Die Mauer ist extrem widerstandsfähig, möglicherweise selbst-reparierend. Überwindungsversuche lösen starke Abwehrreaktionen aus (Alarm, Angriffe). Es gibt nur wenige, stark kontrollierte Durchgänge (Schleusen).\nL367|   - **Atmosphäre/Mood:** Bedrohlich, einschüchternd, unüberwindbar, repressiv. Gefühl von Ausweglosigkeit und Kontrolle.\nL368|   - **Landmarken/Key Features:** Wachtürme, Kontrollpunkte (Schleusen), sichtbare Verteidigungssysteme, Inschriften oder Symbole der Kontrolle (AEGIS/Cerberus-Logo?).\nL369|   - **Risse/Entropie Manifestations:** Risse oder Schwachstellen in der Mauer selbst (visuell oder strukturell). Fehlfunktionen der Verteidigungssysteme. Unkontrollierte Energieentladungen. Vielleicht Portale oder Durchbrüche, die kurzzeitig entstehen."
+ },
+ "answers": {
+  "q0": {
+   "surface": "Dark",
+   "noul": 0.82
+  },
+  "q1": {
+   "surface": "City",
+   "noul": 0.18
+  },
+  "q2": {
+   "surface": "(Kern-Welt 3: Cerberus)",
+   "noul": 0.94
+  },
+  "q3": {
+   "surface": "Die Große Mauer (Systemgrenze) (KW3)",
+   "noul": 0.96
+  },
+  "q4": {
+   "surface": "Barriere",
+   "noul": 0.23
+  },
+  "q5": {
+   "surface": "Erlaubten",
+   "noul": 0.06
+  },
+  "q6": {
+   "surface": "Hindernis",
+   "noul": 0.1
+  },
+  "q7": {
+   "surface": "Imposant",
+   "noul": 0.03
+  },
+  "q8": {
+   "surface": "Metall",
+   "noul": 0.05
+  },
+  "q9": {
+   "surface": "Basalt",
+   "noul": 0.06
+  },
+  "q10": {
+   "surface": "Beton",
+   "noul": 0.05
+  },
+  "q11": {
+   "surface": "Gegenteil",
+   "noul": 0.04
+  },
+  "q12": {
+   "surface": "Wachtürmen",
+   "noul": 0.1
+  },
+  "q13": {
+   "surface": "Stacheldraht",
+   "noul": 0.07
+  },
+  "q14": {
+   "surface": "Energieschildern",
+   "noul": 0.16
+  },
+  "q15": {
+   "surface": "Undurchdringlichkeit",
+   "noul": 0.05
+  },
+  "q16": {
+   "surface": "Möglicherweise",
+   "noul": 0.03
+  },
+  "q17": {
+   "surface": "Himmel",
+   "noul": 0.05
+  },
+  "q18": {
+   "surface": "Kälte",
+   "noul": 0.04
+  },
+  "q19": {
+   "surface": "Leises",
+   "noul": 0.03
+  },
+  "q20": {
+   "surface": "Brummen",
+   "noul": 0.04
+  },
+  "q21": {
+   "surface": "Überwachungssystemen",
+   "noul": 0.13
+  },
+  "q22": {
+   "surface": "Masse",
+   "noul": 0.05
+  },
+  "q23": {
+   "surface": "Einschüchterung",
+   "noul": 0.05
+  },
+  "q24": {
+   "surface": "Verleugnung",
+   "noul": 0.09
+  },
+  "q25": {
+   "surface": "Widerstand",
+   "noul": 0.08
+  },
+  "q26": {
+   "surface": "Veränderung",
+   "noul": 0.06
+  },
+  "q27": {
+   "surface": "Grenze",
+   "noul": 0.18
+  },
+  "q28": {
+   "surface": "Außen/Anderen",
+   "noul": 0.17
+  },
+  "q29": {
+   "surface": "Überwindungsversuche",
+   "noul": 0.05
+  },
+  "q30": {
+   "surface": "Abwehrreaktionen",
+   "noul": 0.13
+  },
+  "q31": {
+   "surface": "Alarm",
+   "noul": 0.13
+  },
+  "q32": {
+   "surface": "Angriffe",
+   "noul": 0.07
+  },
+  "q33": {
+   "surface": "Durchgänge",
+   "noul": 0.12
+  },
+  "q34": {
+   "surface": "Schleusen",
+   "noul": 0.33
+  },
+  "q35": {
+   "surface": "Bedrohlich",
+   "noul": 0.03
+  },
+  "q36": {
+   "surface": "Ausweglosigkeit",
+   "noul": 0.04
+  },
+  "q37": {
+   "surface": "Wachtürme",
+   "noul": 0.13
+  },
+  "q38": {
+   "surface": "Kontrollpunkte",
+   "noul": 0.13
+  },
+  "q39": {
+   "surface": "Verteidigungssysteme",
+   "noul": 0.12
+  },
+  "q40": {
+   "surface": "AEGIS/Cerberus-Logo",
+   "noul": 0.49
+  },
+  "q41": {
+   "surface": "Schwachstellen",
+   "noul": 0.07
+  },
+  "q42": {
+   "surface": "Unkontrollierte",
+   "noul": 0.04
+  },
+  "q43": {
+   "surface": "Energieentladungen",
+   "noul": 0.11
+  },
+  "q44": {
+   "surface": "Portale",
+   "noul": 0.12
+  },
+  "q45": {
+   "surface": "Durchbrüche",
+   "noul": 0.07
+  }
+ }
+}

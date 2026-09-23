@@ -1,0 +1,337 @@
+{
+ "key": "f37e22a7bc1ba3fc",
+ "model": "jev-1.13.0",
+ "seconds": 0.74,
+ "input_tokens": 14425,
+ "output_tokens": 1434,
+ "window": [
+  170,
+  209
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L170| Basierend auf den bereitgestellten Kontextinformationen \\[Kontext: 133-299\\]:\nL171| \nL172|   - **Kern-Welt 1 (KW1 - Domäne: LogOS):** Ebene der Logik, Ordnung, Rationalität, Struktur. Startpunkt nach dem Reboot, potenziell trügerisch stabil. Assoziiert mit Alters wie Limina.\nL173|   - **Kern-Welt 2 (KW2 - Domäne: Mnemosyne):** Ebene der Emotionen, Erinnerungen, des Traumas. Ort der Konfrontation mit der Vergangenheit. Assoziiert mit Alters wie Echo und NPCs wie dem Archivar.\nL174|   - **Kern-Welt 3 (KW3 - Domäne: Cerberus):** Ebene der Abwehrmechanismen, Kontrolle, Grenzen, Paranoia, des inneren Konflikts. Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor.\nL175|   - **Kern-Welt 4 (KW4 - Domäne: Kairos/Sophia):** Ebene des Potenzials, der Kreativität, der Integration, der Sinnfindung, der Zukunftsperspektiven. Assoziiert mit Alters wie Orakel/Muse.\nL176|   - **Überwelt (Domäne: AEGIS):** Digitale, informationsbasierte Ebene. Zentrum der Systemkontrolle, abstrakt, funktional. Sitz von AEGIS und den Wächtern in ihrer Systemfunktion.\nL177|   - **Externe Ebene (Verbindung: Juna):** Mysteriöse, externe Realitätsebene, die zur AEGIS-Welt kontrastiert. Quelle potenzieller externer Einflüsse, eng mit Juna verbunden.\nL178| \nL179| ### **B. Master-Liste der Lokalitäten (ca. 50+ Orte)**\nL180| \nL181| Die folgende Tabelle listet alle identifizierten und neu entwickelten Lokalitäten auf. Sie dient als umfassendes Verzeichnis und Referenzpunkt für die detaillierten Profile in Teil IV sowie für den Schreibprozess.\nL182| \nL183| |  |  |  |  |  |\nL184| | :-: | :-: | :-: | :-: | :-: |\nL185| | \\*\\*Location Name\\*\\* | \\*\\*Reality Level\\*\\* | \\*\\*Source\\*\\* | \\*\\*Narrative Relevance/Function (Brief)\\*\\* | \\*\\*Key Associated Characters\\*\\* |\nL186| | \\*\\*Kern-Welt 1 (LogOS)\\*\\* |   |   |   |   |\nL187| | Kaels Wohneinheit 1.0 | KW1 | Plot Teil 1 | Ausgangspunkt, Ort des Alltags und erster Zweifel | Kael, Limina (implizit) |\nL188| | Datenverarbeitungsknoten 7G | KW1 | Plot Teil 1 | Kaels Arbeitsplatz, Ort der Routine und erster Anomalien | Kael, LogOS (Systempräsenz) |\nL189| | Transitkorridor Delta | KW1 | Plot Teil 1 | Verbindungsweg, Ort der Beobachtung und subtiler Systemmanipulation | Kael, LogOS (Überwachung) |\nL190| | Therapie-Schnittstelle Alpha | KW1 | Plot Teil 1 | Ort der (manipulierten) Selbstreflexion, Kontakt zum Therapeuten | Kael, Therapeut (NPC), LogOS (System) |\nL191| | LogOS' Kern-Bibliothek | KW1 | Konzept Doc | Symbol für Wissen und Ordnung, potenzieller Ort der Konfrontation | LogOS, Kael (später) |\nL192| | Sektor der Rekursiven Logik | KW1 | Explorative V2 | Bereich endloser, sich selbst bestätigender Argumentationsketten | LogOS, Kael (potenziell gefangen) |\nL193| | Platz der Definierten Regeln | KW1 | Explorative V2 | Zentraler Platz, der die Systemgesetze visualisiert | LogOS, Regel-Exekutor (NPC), Kael |\nL194| | Archiv der Konsistenten Fakten | KW1 | Explorative V2 | Speicherort für \"gültige\" Informationen nach AEGIS-Standard | LogOS, Kael (Suche nach Wahrheit) |\nL195| | Die Leere Menge (Null-Raum) | KW1 | Explorative V2 | Ort ohne definierte Logik, potenzieller Riss-Ursprung/Auswirkung | Kael (bei Desorientierung) |\nL196| | Liminas Reflektionskammer | KW1 | Explorative V2 | Sicherer Ort für Limina zur Analyse und Planung | Limina |\nL197| | \\*\\*Kern-Welt 2 (Mnemosyne)\\*\\* |   |   |   |   |\nL198| | Vergessener Schrein (Trauma-Lokus) | KW2 | Plot Teil 1 | Zentraler Ort der ersten großen Trauma-Konfrontation | Kael, Echo, Mnemosyne (implizit) |\nL199| | See der Tränen | KW2 | Konzept Doc | Symbol für Trauer und unterdrückte Emotionen | Mnemosyne, Kael, Echo |\nL200| | Pfad der Fragmentierten Erinnerung | KW2 | Plot Teil 1 | Weg durch instabile Erinnerungssequenzen | Kael, Echo |\nL201| | Archiv des Ungesagten | KW2 | Plot Teil 1 | Ort der Begegnung mit dem Archivar, Speicher verdrängter Wahrheiten | Kael, Archivar (NPC), Mnemosyne |\nL202| | Galerie der Falschen Erinnerungen | KW2 | Explorative V2 | Bereich mit konstruierten, trügerischen Gedächtnisbildern | Kael, Mnemosyne (Manipulation?) |\nL203| | Echo's Resonanzraum | KW2 | Explorative V2 | Ort, an dem Echos Emotionen die Umgebung direkt formen | Echo, Kael |\nL204| | Die Narbenfelder | KW2 | Explorative V2 | Landschaft geprägt von visualisierten emotionalen Wunden | Kael, Mnemosyne |\nL205| | Mnemosynes Gedächtnispalast | KW2 | Explorative V2 | Strukturierte (aber potenziell instabile) Repräsentation der Erinnerung | Mnemosyne, Kael (Eindringen?) |\nL206| | Fluss des Vergessens (Lethe-Strom) | KW2 | Explorative V2 | Ort, an dem Erinnerungen aktiv gelöscht oder unzugänglich werden | Mnemosyne, Kael (Gefahr) |\nL207| | \\*\\*Kern-Welt 3 (Cerberus)\\*\\* |   |   |   |   |\nL208| | Die Große Mauer (Systemgrenze) | KW3 | Konzept Doc | Symbol für Abwehr, Kontrolle und die Grenzen des Selbst | Cerberus, Kael (Versuch zu überwinden) |\nL209| | Schleuse 7 (Kontrollpunkt) | KW3 | Plot Teil 1 | Übergangspunkt, Ort der Überwachung und potenzieller Konfrontation | Kael, Regel-Exekutor (NPC), Cerberus (System) |"
+ },
+ "answers": {
+  "q0": {
+   "surface": "Kontextinformationen",
+   "noul": 0.1
+  },
+  "q1": {
+   "surface": "133-299",
+   "noul": 0.16
+  },
+  "q2": {
+   "surface": "Rationalität",
+   "noul": 0.12
+  },
+  "q3": {
+   "surface": "Startpunkt",
+   "noul": 0.09
+  },
+  "q4": {
+   "surface": "Reboot",
+   "noul": 0.3
+  },
+  "q5": {
+   "surface": "Assoziiert",
+   "noul": 0.33
+  },
+  "q6": {
+   "surface": "Vergangenheit",
+   "noul": 0.08
+  },
+  "q7": {
+   "surface": "Echo",
+   "noul": 0.96
+  },
+  "q8": {
+   "surface": "Archivar",
+   "noul": 0.93
+  },
+  "q9": {
+   "surface": "Abwehrmechanismen",
+   "noul": 0.13
+  },
+  "q10": {
+   "surface": "Regel-Exekutor",
+   "noul": 0.94
+  },
+  "q11": {
+   "surface": "Potenzials",
+   "noul": 0.12
+  },
+  "q12": {
+   "surface": "Sinnfindung",
+   "noul": 0.12
+  },
+  "q13": {
+   "surface": "Zukunftsperspektiven",
+   "noul": 0.09
+  },
+  "q14": {
+   "surface": "Orakel/Muse",
+   "noul": 0.74
+  },
+  "q15": {
+   "surface": "Digitale",
+   "noul": 0.11
+  },
+  "q16": {
+   "surface": "Zentrum",
+   "noul": 0.09
+  },
+  "q17": {
+   "surface": "Sitz",
+   "noul": 0.08
+  },
+  "q18": {
+   "surface": "Wächtern",
+   "noul": 0.46
+  },
+  "q19": {
+   "surface": "Systemfunktion",
+   "noul": 0.14
+  },
+  "q20": {
+   "surface": "Überwelt (Domäne: AEGIS)",
+   "noul": 0.96
+  },
+  "q21": {
+   "surface": "Verbindung",
+   "noul": 0.33
+  },
+  "q22": {
+   "surface": "Mysteriöse",
+   "noul": 0.08
+  },
+  "q23": {
+   "surface": "AEGIS-Welt",
+   "noul": 0.88
+  },
+  "q24": {
+   "surface": "Quelle",
+   "noul": 0.26
+  },
+  "q25": {
+   "surface": "Einflüsse",
+   "noul": 0.09
+  },
+  "q26": {
+   "surface": "Externe Ebene (Verbindung: Juna)",
+   "noul": 0.95
+  },
+  "q27": {
+   "surface": "Tabelle",
+   "noul": 0.08
+  },
+  "q28": {
+   "surface": "Referenzpunkt",
+   "noul": 0.08
+  },
+  "q29": {
+   "surface": "IV",
+   "noul": 0.27
+  },
+  "q30": {
+   "surface": "Location",
+   "noul": 0.1
+  },
+  "q31": {
+   "surface": "Reality",
+   "noul": 0.08
+  },
+  "q32": {
+   "surface": "Level",
+   "noul": 0.09
+  },
+  "q33": {
+   "surface": "Source",
+   "noul": 0.13
+  },
+  "q34": {
+   "surface": "Relevance/Function",
+   "noul": 0.03
+  },
+  "q35": {
+   "surface": "Brief",
+   "noul": 0.03
+  },
+  "q36": {
+   "surface": "Key",
+   "noul": 0.04
+  },
+  "q37": {
+   "surface": "Associated",
+   "noul": 0.05
+  },
+  "q38": {
+   "surface": "Characters",
+   "noul": 0.06
+  },
+  "q39": {
+   "surface": "\\*\\*Location Name\\*\\",
+   "noul": 0.06
+  },
+  "q40": {
+   "surface": "\\*\\*Kern-Welt 1 (LogOS)\\*\\",
+   "noul": 0.93
+  },
+  "q41": {
+   "surface": "Wohneinheit",
+   "noul": 0.63
+  },
+  "q42": {
+   "surface": "Plot",
+   "noul": 0.07
+  },
+  "q43": {
+   "surface": "Ausgangspunkt",
+   "noul": 0.07
+  },
+  "q44": {
+   "surface": "Alltags",
+   "noul": 0.05
+  },
+  "q45": {
+   "surface": "Zweifel",
+   "noul": 0.06
+  },
+  "q46": {
+   "surface": "Kaels Wohneinheit 1.0",
+   "noul": 0.96
+  },
+  "q47": {
+   "surface": "Datenverarbeitungsknoten",
+   "noul": 0.94
+  },
+  "q48": {
+   "surface": "7G",
+   "noul": 0.85
+  },
+  "q49": {
+   "surface": "Arbeitsplatz",
+   "noul": 0.13
+  },
+  "q50": {
+   "surface": "Routine",
+   "noul": 0.08
+  },
+  "q51": {
+   "surface": "Anomalien",
+   "noul": 0.1
+  },
+  "q52": {
+   "surface": "Systempräsenz",
+   "noul": 0.35
+  },
+  "q53": {
+   "surface": "Datenverarbeitungsknoten 7G",
+   "noul": 0.96
+  },
+  "q54": {
+   "surface": "Transitkorridor",
+   "noul": 0.93
+  },
+  "q55": {
+   "surface": "Delta",
+   "noul": 0.82
+  },
+  "q56": {
+   "surface": "Verbindungsweg",
+   "noul": 0.11
+  },
+  "q57": {
+   "surface": "Beobachtung",
+   "noul": 0.08
+  },
+  "q58": {
+   "surface": "Systemmanipulation",
+   "noul": 0.08
+  },
+  "q59": {
+   "surface": "Transitkorridor Delta",
+   "noul": 0.97
+  },
+  "q60": {
+   "surface": "Therapie-Schnittstelle",
+   "noul": 0.92
+  },
+  "q61": {
+   "surface": "Alpha",
+   "noul": 0.74
+  },
+  "q62": {
+   "surface": "Selbstreflexion",
+   "noul": 0.15
+  },
+  "q63": {
+   "surface": "Kontakt",
+   "noul": 0.06
+  },
+  "q64": {
+   "surface": "Therapeuten",
+   "noul": 0.36
+  },
+  "q65": {
+   "surface": "Therapeut",
+   "noul": 0.44
+  },
+  "q66": {
+   "surface": "NPC",
+   "noul": 0.18
+  },
+  "q67": {
+   "surface": "Therapie-Schnittstelle Alpha",
+   "noul": 0.96
+  },
+  "q68": {
+   "surface": "Kern-Bibliothek",
+   "noul": 0.94
+  },
+  "q69": {
+   "surface": "Doc",
+   "noul": 0.11
+  },
+  "q70": {
+   "surface": "Symbol",
+   "noul": 0.08
+  },
+  "q71": {
+   "surface": "Wissen",
+   "noul": 0.09
+  },
+  "q72": {
+   "surface": "LogOS' Kern-Bibliothek",
+   "noul": 0.96
+  },
+  "q73": {
+   "surface": "Sektor",
+   "noul": 0.72
+  },
+  "q74": {
+   "surface": "Rekursiven",
+   "noul": 0.29
+  },
+  "q75": {
+   "surface": "Explorative",
+   "noul": 0.1
+  },
+  "q76": {
+   "surface": "V2",
+   "noul": 0.15
+  },
+  "q77": {
+   "surface": "Bereich",
+   "noul": 0.22
+  },
+  "q78": {
+   "surface": "Argumentationsketten",
+   "noul": 0.17
+  },
+  "q79": {
+   "surface": "Sektor der Rekursiven Logik",
+   "noul": 0.95
+  }
+ }
+}

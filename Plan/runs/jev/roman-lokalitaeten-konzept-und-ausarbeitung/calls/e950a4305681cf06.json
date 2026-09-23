@@ -1,0 +1,285 @@
+{
+ "key": "e950a4305681cf06",
+ "model": "jev-1.13.0",
+ "seconds": 0.88,
+ "input_tokens": 12483,
+ "output_tokens": 1200,
+ "window": [
+  170,
+  209
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L170| Basierend auf den bereitgestellten Kontextinformationen \\[Kontext: 133-299\\]:\nL171| \nL172|   - **Kern-Welt 1 (KW1 - Domäne: LogOS):** Ebene der Logik, Ordnung, Rationalität, Struktur. Startpunkt nach dem Reboot, potenziell trügerisch stabil. Assoziiert mit Alters wie Limina.\nL173|   - **Kern-Welt 2 (KW2 - Domäne: Mnemosyne):** Ebene der Emotionen, Erinnerungen, des Traumas. Ort der Konfrontation mit der Vergangenheit. Assoziiert mit Alters wie Echo und NPCs wie dem Archivar.\nL174|   - **Kern-Welt 3 (KW3 - Domäne: Cerberus):** Ebene der Abwehrmechanismen, Kontrolle, Grenzen, Paranoia, des inneren Konflikts. Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor.\nL175|   - **Kern-Welt 4 (KW4 - Domäne: Kairos/Sophia):** Ebene des Potenzials, der Kreativität, der Integration, der Sinnfindung, der Zukunftsperspektiven. Assoziiert mit Alters wie Orakel/Muse.\nL176|   - **Überwelt (Domäne: AEGIS):** Digitale, informationsbasierte Ebene. Zentrum der Systemkontrolle, abstrakt, funktional. Sitz von AEGIS und den Wächtern in ihrer Systemfunktion.\nL177|   - **Externe Ebene (Verbindung: Juna):** Mysteriöse, externe Realitätsebene, die zur AEGIS-Welt kontrastiert. Quelle potenzieller externer Einflüsse, eng mit Juna verbunden.\nL178| \nL179| ### **B. Master-Liste der Lokalitäten (ca. 50+ Orte)**\nL180| \nL181| Die folgende Tabelle listet alle identifizierten und neu entwickelten Lokalitäten auf. Sie dient als umfassendes Verzeichnis und Referenzpunkt für die detaillierten Profile in Teil IV sowie für den Schreibprozess.\nL182| \nL183| |  |  |  |  |  |\nL184| | :-: | :-: | :-: | :-: | :-: |\nL185| | \\*\\*Location Name\\*\\* | \\*\\*Reality Level\\*\\* | \\*\\*Source\\*\\* | \\*\\*Narrative Relevance/Function (Brief)\\*\\* | \\*\\*Key Associated Characters\\*\\* |\nL186| | \\*\\*Kern-Welt 1 (LogOS)\\*\\* |   |   |   |   |\nL187| | Kaels Wohneinheit 1.0 | KW1 | Plot Teil 1 | Ausgangspunkt, Ort des Alltags und erster Zweifel | Kael, Limina (implizit) |\nL188| | Datenverarbeitungsknoten 7G | KW1 | Plot Teil 1 | Kaels Arbeitsplatz, Ort der Routine und erster Anomalien | Kael, LogOS (Systempräsenz) |\nL189| | Transitkorridor Delta | KW1 | Plot Teil 1 | Verbindungsweg, Ort der Beobachtung und subtiler Systemmanipulation | Kael, LogOS (Überwachung) |\nL190| | Therapie-Schnittstelle Alpha | KW1 | Plot Teil 1 | Ort der (manipulierten) Selbstreflexion, Kontakt zum Therapeuten | Kael, Therapeut (NPC), LogOS (System) |\nL191| | LogOS' Kern-Bibliothek | KW1 | Konzept Doc | Symbol für Wissen und Ordnung, potenzieller Ort der Konfrontation | LogOS, Kael (später) |\nL192| | Sektor der Rekursiven Logik | KW1 | Explorative V2 | Bereich endloser, sich selbst bestätigender Argumentationsketten | LogOS, Kael (potenziell gefangen) |\nL193| | Platz der Definierten Regeln | KW1 | Explorative V2 | Zentraler Platz, der die Systemgesetze visualisiert | LogOS, Regel-Exekutor (NPC), Kael |\nL194| | Archiv der Konsistenten Fakten | KW1 | Explorative V2 | Speicherort für \"gültige\" Informationen nach AEGIS-Standard | LogOS, Kael (Suche nach Wahrheit) |\nL195| | Die Leere Menge (Null-Raum) | KW1 | Explorative V2 | Ort ohne definierte Logik, potenzieller Riss-Ursprung/Auswirkung | Kael (bei Desorientierung) |\nL196| | Liminas Reflektionskammer | KW1 | Explorative V2 | Sicherer Ort für Limina zur Analyse und Planung | Limina |\nL197| | \\*\\*Kern-Welt 2 (Mnemosyne)\\*\\* |   |   |   |   |\nL198| | Vergessener Schrein (Trauma-Lokus) | KW2 | Plot Teil 1 | Zentraler Ort der ersten großen Trauma-Konfrontation | Kael, Echo, Mnemosyne (implizit) |\nL199| | See der Tränen | KW2 | Konzept Doc | Symbol für Trauer und unterdrückte Emotionen | Mnemosyne, Kael, Echo |\nL200| | Pfad der Fragmentierten Erinnerung | KW2 | Plot Teil 1 | Weg durch instabile Erinnerungssequenzen | Kael, Echo |\nL201| | Archiv des Ungesagten | KW2 | Plot Teil 1 | Ort der Begegnung mit dem Archivar, Speicher verdrängter Wahrheiten | Kael, Archivar (NPC), Mnemosyne |\nL202| | Galerie der Falschen Erinnerungen | KW2 | Explorative V2 | Bereich mit konstruierten, trügerischen Gedächtnisbildern | Kael, Mnemosyne (Manipulation?) |\nL203| | Echo's Resonanzraum | KW2 | Explorative V2 | Ort, an dem Echos Emotionen die Umgebung direkt formen | Echo, Kael |\nL204| | Die Narbenfelder | KW2 | Explorative V2 | Landschaft geprägt von visualisierten emotionalen Wunden | Kael, Mnemosyne |\nL205| | Mnemosynes Gedächtnispalast | KW2 | Explorative V2 | Strukturierte (aber potenziell instabile) Repräsentation der Erinnerung | Mnemosyne, Kael (Eindringen?) |\nL206| | Fluss des Vergessens (Lethe-Strom) | KW2 | Explorative V2 | Ort, an dem Erinnerungen aktiv gelöscht oder unzugänglich werden | Mnemosyne, Kael (Gefahr) |\nL207| | \\*\\*Kern-Welt 3 (Cerberus)\\*\\* |   |   |   |   |\nL208| | Die Große Mauer (Systemgrenze) | KW3 | Konzept Doc | Symbol für Abwehr, Kontrolle und die Grenzen des Selbst | Cerberus, Kael (Versuch zu überwinden) |\nL209| | Schleuse 7 (Kontrollpunkt) | KW3 | Plot Teil 1 | Übergangspunkt, Ort der Überwachung und potenzieller Konfrontation | Kael, Regel-Exekutor (NPC), Cerberus (System) |"
+ },
+ "answers": {
+  "q0": {
+   "surface": "Definierten",
+   "noul": 0.42
+  },
+  "q1": {
+   "surface": "Zentraler",
+   "noul": 0.08
+  },
+  "q2": {
+   "surface": "Systemgesetze",
+   "noul": 0.22
+  },
+  "q3": {
+   "surface": "Platz der Definierten Regeln",
+   "noul": 0.95
+  },
+  "q4": {
+   "surface": "Archiv",
+   "noul": 0.84
+  },
+  "q5": {
+   "surface": "Konsistenten",
+   "noul": 0.23
+  },
+  "q6": {
+   "surface": "Fakten",
+   "noul": 0.37
+  },
+  "q7": {
+   "surface": "Speicherort",
+   "noul": 0.11
+  },
+  "q8": {
+   "surface": "AEGIS-Standard",
+   "noul": 0.8
+  },
+  "q9": {
+   "surface": "Wahrheit",
+   "noul": 0.12
+  },
+  "q10": {
+   "surface": "Archiv der Konsistenten Fakten",
+   "noul": 0.96
+  },
+  "q11": {
+   "surface": "Leere",
+   "noul": 0.87
+  },
+  "q12": {
+   "surface": "Menge",
+   "noul": 0.82
+  },
+  "q13": {
+   "surface": "Null-Raum",
+   "noul": 0.94
+  },
+  "q14": {
+   "surface": "Riss-Ursprung/Auswirkung",
+   "noul": 0.28
+  },
+  "q15": {
+   "surface": "Die Leere Menge (Null-Raum)",
+   "noul": 0.96
+  },
+  "q16": {
+   "surface": "Liminas",
+   "noul": 0.79
+  },
+  "q17": {
+   "surface": "Reflektionskammer",
+   "noul": 0.93
+  },
+  "q18": {
+   "surface": "Sicherer",
+   "noul": 0.1
+  },
+  "q19": {
+   "surface": "Liminas Reflektionskammer",
+   "noul": 0.97
+  },
+  "q20": {
+   "surface": "\\*\\*Kern-Welt 2 (Mnemosyne)\\*\\",
+   "noul": 0.94
+  },
+  "q21": {
+   "surface": "Vergessener",
+   "noul": 0.78
+  },
+  "q22": {
+   "surface": "Schrein",
+   "noul": 0.85
+  },
+  "q23": {
+   "surface": "Trauma-Lokus",
+   "noul": 0.84
+  },
+  "q24": {
+   "surface": "Trauma-Konfrontation",
+   "noul": 0.16
+  },
+  "q25": {
+   "surface": "Vergessener Schrein (Trauma-Lokus)",
+   "noul": 0.98
+  },
+  "q26": {
+   "surface": "See",
+   "noul": 0.75
+  },
+  "q27": {
+   "surface": "Tränen",
+   "noul": 0.64
+  },
+  "q28": {
+   "surface": "Trauer",
+   "noul": 0.09
+  },
+  "q29": {
+   "surface": "See der Tränen",
+   "noul": 0.96
+  },
+  "q30": {
+   "surface": "Pfad",
+   "noul": 0.78
+  },
+  "q31": {
+   "surface": "Fragmentierten",
+   "noul": 0.46
+  },
+  "q32": {
+   "surface": "Erinnerung",
+   "noul": 0.27
+  },
+  "q33": {
+   "surface": "Erinnerungssequenzen",
+   "noul": 0.26
+  },
+  "q34": {
+   "surface": "Pfad der Fragmentierten Erinnerung",
+   "noul": 0.97
+  },
+  "q35": {
+   "surface": "Ungesagten",
+   "noul": 0.82
+  },
+  "q36": {
+   "surface": "Begegnung",
+   "noul": 0.07
+  },
+  "q37": {
+   "surface": "Speicher",
+   "noul": 0.18
+  },
+  "q38": {
+   "surface": "Archiv des Ungesagten",
+   "noul": 0.97
+  },
+  "q39": {
+   "surface": "Galerie",
+   "noul": 0.89
+  },
+  "q40": {
+   "surface": "Falschen",
+   "noul": 0.26
+  },
+  "q41": {
+   "surface": "Gedächtnisbildern",
+   "noul": 0.16
+  },
+  "q42": {
+   "surface": "Galerie der Falschen Erinnerungen",
+   "noul": 0.97
+  },
+  "q43": {
+   "surface": "Resonanzraum",
+   "noul": 0.93
+  },
+  "q44": {
+   "surface": "Echos",
+   "noul": 0.82
+  },
+  "q45": {
+   "surface": "Echo's Resonanzraum",
+   "noul": 0.97
+  },
+  "q46": {
+   "surface": "Narbenfelder",
+   "noul": 0.96
+  },
+  "q47": {
+   "surface": "Landschaft",
+   "noul": 0.17
+  },
+  "q48": {
+   "surface": "Wunden",
+   "noul": 0.33
+  },
+  "q49": {
+   "surface": "Die Narbenfelder",
+   "noul": 0.96
+  },
+  "q50": {
+   "surface": "Strukturierte",
+   "noul": 0.07
+  },
+  "q51": {
+   "surface": "Eindringen",
+   "noul": 0.05
+  },
+  "q52": {
+   "surface": "Mnemosynes Gedächtnispalast",
+   "noul": 0.97
+  },
+  "q53": {
+   "surface": "Fluss",
+   "noul": 0.75
+  },
+  "q54": {
+   "surface": "Vergessens",
+   "noul": 0.5
+  },
+  "q55": {
+   "surface": "Lethe-Strom",
+   "noul": 0.94
+  },
+  "q56": {
+   "surface": "Gefahr",
+   "noul": 0.06
+  },
+  "q57": {
+   "surface": "Fluss des Vergessens (Lethe-Strom)",
+   "noul": 0.97
+  },
+  "q58": {
+   "surface": "\\*\\*Kern-Welt 3 (Cerberus)\\*\\",
+   "noul": 0.94
+  },
+  "q59": {
+   "surface": "Große",
+   "noul": 0.58
+  },
+  "q60": {
+   "surface": "Mauer",
+   "noul": 0.89
+  },
+  "q61": {
+   "surface": "Systemgrenze",
+   "noul": 0.62
+  },
+  "q62": {
+   "surface": "Die Große Mauer (Systemgrenze)",
+   "noul": 0.96
+  },
+  "q63": {
+   "surface": "Schleuse",
+   "noul": 0.9
+  },
+  "q64": {
+   "surface": "Kontrollpunkt",
+   "noul": 0.49
+  },
+  "q65": {
+   "surface": "Übergangspunkt",
+   "noul": 0.12
+  },
+  "q66": {
+   "surface": "Schleuse 7 (Kontrollpunkt)",
+   "noul": 0.96
+  }
+ }
+}

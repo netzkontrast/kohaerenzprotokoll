@@ -1,0 +1,337 @@
+{
+ "key": "9d23ab6b86167bba",
+ "model": "jev-1.13.0",
+ "seconds": 0.85,
+ "input_tokens": 14675,
+ "output_tokens": 1434,
+ "window": [
+  450,
+  489
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L450|   - **Symbolik:** Symbolisiert die bewusste Anstrengung zur Integration und Kooperation innerhalb des DID-Systems. Ein neutraler Boden, auf dem verschiedene Teile des Selbst lernen können, zusammenzuarbeiten.\nL451|   - **Regeln/Logik:** Der Raum reagiert auf die Intentionen der anwesenden Alters. Er kann Simulationen oder Szenarien generieren. Direkte Konflikte könnten gedämpft oder in konstruktive Bahnen gelenkt werden. Kommunikation wird erleichtert.\nL452|   - **Atmosphäre/Mood:** Konzentriert, konstruktiv, sicher, potenziell herausfordernd (je nach Übung). Gefühl von Teamarbeit und gemeinsamem Ziel. Kann auch angespannt sein, wenn Alters mit Konflikten konfrontiert werden.\nL453|   - **Landmarken/Key Features:** Zentrale Projektionsfläche oder Simulationsbereich, Kommunikationsinterfaces, Werkzeuge zur Visualisierung von Beziehungen oder Plänen, Beobachtungsbereich (für Kael oder einen moderierenden Alter wie Limina?).\nL454|   - **Risse/Entropie Manifestations:** Simulationen werden fehlerhaft oder gefährlich. Kommunikationskanäle werden gestört. Negative Emotionen oder Konflikte aus anderen Welten dringen ein. Der Raum verliert seine Neutralität oder Sicherheit.\nL455|   - **Charakter/Plot Link:** Kael und seine Kern-Alters (Limina, Echo, Nox, Orakel/Muse etc.). Ein Ort, an dem Kael aktiv versucht, sein inneres System zu verstehen und zu koordinieren, möglicherweise als Vorbereitung auf größere Herausforderungen.\nL456|   - **Design Inspirations:** Holodeck (*Star Trek*), Trainingssimulatoren, Proberäume, Werkstätten, Whiteboards/Kollaborationstools.\nL457| \nL458| **(Überwelt: AEGIS)**\nL459| \nL460| 1.  **Der Große System-Monitor (Überwelt)**\nL461| \nL462| <!-- end list -->\nL463| \nL464|   - **Konzept/Zweck:** Eine zentrale Visualisierung des Gesamtzustands des Systems (alle 6 Ebenen). Dient AEGIS und den Wächtern zur Überwachung der Systemintegrität, Entropielevel und potenzieller Anomalien (wie Kael oder Juna).\nL465|   - **Ästhetik/Visualisierung:** Immens, abstrakt, datenbasiert. Könnte eine riesige, sphärische Projektion sein oder ein komplexes Netzwerk aus Lichtlinien und Knotenpunkten in einem riesigen, dunklen Raum. Visualisiert Datenströme, Energielevel, Entropie-Hotspots in Echtzeit. Klare, kühle Farben (Blau, Grün, Weiß für Normalzustand; Rot, Gelb für Warnungen).\nL466|   - **Sensorik:** Leises, konstantes Summen der Datenverarbeitung. Kühle, künstliche Luft. Gefühl von unermesslicher Komplexität und totaler Überwachung. Keine natürlichen Gerüche.\nL467|   - **Symbolik:** Verkörpert AEGIS' Allwissenheit (oder den Anspruch darauf) und seine Kontrollfunktion. Die Abstraktion der Darstellung symbolisiert die Distanz des Systems zu den individuellen Erfahrungen in den Kern-Welten.\nL468|   - **Regeln/Logik:** Zeigt aggregierte und spezifische Systemdaten an. Reagiert auf Abfragen der Wächter/AEGIS. Kann zoomen, analysieren, prognostizieren. Unterliegt selbst der Systemlogik und kann theoretisch auch Fehler anzeigen oder selbst fehlerhaft sein.\nL469|   - **Atmosphäre/Mood:** Kühl, analytisch, überwältigend, distanziert. Gefühl von Macht und Kontrolle (seitens AEGIS), aber auch von potenzieller Bedrohung (wenn Anomalien angezeigt werden). Keine menschliche Wärme.\nL470|   - **Landmarken/Key Features:** Die zentrale Visualisierungseinheit, Kontrollkonsolen für die Wächter, spezifische Anzeigen für jede Kern-Welt und die Externe Ebene, Entropie-Indikatoren.\nL471|   - **Risse/Entropie Manifestations:** Falsche Anzeigen, \"tote Pixel\" oder Datenlücken in der Visualisierung. Glitches oder Artefakte in der Darstellung.39 Unfähigkeit, bestimmte Anomalien (Juna?) korrekt darzustellen oder zu lokalisieren. Systemwarnungen, die sich widersprechen.\nL472|   - **Charakter/Plot Link:** AEGIS, LogOS, Mnemosyne, Cerberus, Kairos/Sophia (als Nutzer/Beobachter). Ort, an dem die Wächter Kaels Fortschritt oder die Ausbreitung der 'Risse' beobachten und ihre Strategien planen. Kael selbst hat hier normalerweise keinen Zugang.\nL473|   - **Design Inspirations:** Kontrollräume (NASA, Militär), Datenvisualisierungs-Kunst, Interface-Design aus Sci-Fi (*Minority Report*, *Tron*), Darstellungen von globalen Netzwerken.\nL474| \nL475| <!-- end list -->\nL476| \nL477| 1.  **Entropie-Ausgleichs-Kammer (Überwelt)**\nL478| \nL479| <!-- end list -->\nL480| \nL481|   - **Konzept/Zweck:** Ein hypothetischer Ort oder Prozess innerhalb der Überwelt, an dem AEGIS aktiv versucht, die systemische Entropie zu managen, zu kanalisieren, zu neutralisieren oder umzuwandeln, um die Ordnung aufrechtzuerhalten.\nL482|   - **Ästhetik/Visualisierung:** Hochtechnologisch, prozessorientiert. Könnte wie ein riesiger Teilchenbeschleuniger, ein Fusionsreaktor oder eine komplexe Filteranlage wirken. Visualisierungen von Energieflüssen, Zustandsänderungen. Verwendung von Licht und geometrischen Formen, um den Prozess darzustellen. Möglicherweise gefährlich wirkend.\nL483|   - **Sensorik:** Lautes Brummen oder Pulsieren von Energie. Starke Hitze oder Kälte in bestimmten Zonen. Geruch nach Ozon oder verbrannter Energie. Gefühl von immenser, kaum kontrollierter Kraft. Vibrationen.\nL484|   - **Symbolik:** Verkörpert AEGIS' Kernfunktion des Entropie-Managements und den ständigen Kampf gegen den Zerfall. Symbol für die (vielleicht vergebliche) Anstrengung, perfekte Ordnung zu erzwingen.\nL485|   - **Regeln/Logik:** Unterliegt komplexen physikalischen/systemischen Gesetzen, die von AEGIS definiert wurden. Der Prozess ist energieintensiv und potenziell instabil. Fehlfunktionen hier hätten katastrophale Folgen für das gesamte System.\nL486|   - **Atmosphäre/Mood:** Intensiv, gefährlich, mächtig, angespannt. Gefühl von kontrolliertem Chaos oder einem ständig drohenden Dammbruch. Ehrfurcht vor der Technologie, aber auch Furcht.\nL487|   - **Landmarken/Key Features:** Der zentrale Reaktionskern, Zu- und Ableitungen für Energie/Entropie, Kontrollstationen, Notfallsysteme.\nL488|   - **Risse/Entropie Manifestations:** Der Ort selbst ist die Manifestation des Umgangs mit Entropie. Risse hier wären katastrophal: unkontrollierte Entladungen, Kernschmelze (metaphorisch), Ausbruch von roher Entropie, die das System flutet. Glitches in den Kontrollsystemen.40\nL489|   - **Charakter/Plot Link:** AEGIS (als Betreiber). Ein Ort von strategischer Bedeutung für das System. Ein potenzielles Ziel für Sabotage oder ein Ort, an dem Kael/Juna die Natur der Entropie direkt erfahren könnten, falls sie Zugang fänden."
+ },
+ "answers": {
+  "q0": {
+   "surface": "Anstrengung",
+   "noul": 0.04
+  },
+  "q1": {
+   "surface": "Kooperation",
+   "noul": 0.07
+  },
+  "q2": {
+   "surface": "DID-Systems",
+   "noul": 0.89
+  },
+  "q3": {
+   "surface": "Boden",
+   "noul": 0.1
+  },
+  "q4": {
+   "surface": "Teile",
+   "noul": 0.1
+  },
+  "q5": {
+   "surface": "Szenarien",
+   "noul": 0.07
+  },
+  "q6": {
+   "surface": "Bahnen",
+   "noul": 0.03
+  },
+  "q7": {
+   "surface": "Konzentriert",
+   "noul": 0.03
+  },
+  "q8": {
+   "surface": "Übung",
+   "noul": 0.07
+  },
+  "q9": {
+   "surface": "Teamarbeit",
+   "noul": 0.07
+  },
+  "q10": {
+   "surface": "Konflikten",
+   "noul": 0.05
+  },
+  "q11": {
+   "surface": "Simulationsbereich",
+   "noul": 0.27
+  },
+  "q12": {
+   "surface": "Kommunikationsinterfaces",
+   "noul": 0.19
+  },
+  "q13": {
+   "surface": "Werkzeuge",
+   "noul": 0.07
+  },
+  "q14": {
+   "surface": "Plänen",
+   "noul": 0.05
+  },
+  "q15": {
+   "surface": "Beobachtungsbereich",
+   "noul": 0.33
+  },
+  "q16": {
+   "surface": "Kommunikationskanäle",
+   "noul": 0.2
+  },
+  "q17": {
+   "surface": "Negative",
+   "noul": 0.05
+  },
+  "q18": {
+   "surface": "Neutralität",
+   "noul": 0.09
+  },
+  "q19": {
+   "surface": "Kern-Alters",
+   "noul": 0.59
+  },
+  "q20": {
+   "surface": "Vorbereitung",
+   "noul": 0.04
+  },
+  "q21": {
+   "surface": "Star",
+   "noul": 0.64
+  },
+  "q22": {
+   "surface": "Trek",
+   "noul": 0.66
+  },
+  "q23": {
+   "surface": "Trainingssimulatoren",
+   "noul": 0.25
+  },
+  "q24": {
+   "surface": "Proberäume",
+   "noul": 0.17
+  },
+  "q25": {
+   "surface": "Werkstätten",
+   "noul": 0.14
+  },
+  "q26": {
+   "surface": "Whiteboards/Kollaborationstools",
+   "noul": 0.27
+  },
+  "q27": {
+   "surface": "(Überwelt: AEGIS)",
+   "noul": 0.91
+  },
+  "q28": {
+   "surface": "Der Große System-Monitor (Überwelt)",
+   "noul": 0.95
+  },
+  "q29": {
+   "surface": "Gesamtzustands",
+   "noul": 0.08
+  },
+  "q30": {
+   "surface": "Entropielevel",
+   "noul": 0.17
+  },
+  "q31": {
+   "surface": "Immens",
+   "noul": 0.04
+  },
+  "q32": {
+   "surface": "Netzwerk",
+   "noul": 0.08
+  },
+  "q33": {
+   "surface": "Lichtlinien",
+   "noul": 0.04
+  },
+  "q34": {
+   "surface": "Knotenpunkten",
+   "noul": 0.06
+  },
+  "q35": {
+   "surface": "Visualisiert",
+   "noul": 0.05
+  },
+  "q36": {
+   "surface": "Energielevel",
+   "noul": 0.11
+  },
+  "q37": {
+   "surface": "Entropie-Hotspots",
+   "noul": 0.26
+  },
+  "q38": {
+   "surface": "Echtzeit",
+   "noul": 0.04
+  },
+  "q39": {
+   "surface": "Blau",
+   "noul": 0.04
+  },
+  "q40": {
+   "surface": "Grün",
+   "noul": 0.04
+  },
+  "q41": {
+   "surface": "Normalzustand",
+   "noul": 0.08
+  },
+  "q42": {
+   "surface": "Rot",
+   "noul": 0.04
+  },
+  "q43": {
+   "surface": "Gelb",
+   "noul": 0.04
+  },
+  "q44": {
+   "surface": "Warnungen",
+   "noul": 0.08
+  },
+  "q45": {
+   "surface": "Komplexität",
+   "noul": 0.05
+  },
+  "q46": {
+   "surface": "Allwissenheit",
+   "noul": 0.11
+  },
+  "q47": {
+   "surface": "Anspruch",
+   "noul": 0.06
+  },
+  "q48": {
+   "surface": "Kontrollfunktion",
+   "noul": 0.09
+  },
+  "q49": {
+   "surface": "Distanz",
+   "noul": 0.05
+  },
+  "q50": {
+   "surface": "Zeigt",
+   "noul": 0.06
+  },
+  "q51": {
+   "surface": "Systemdaten",
+   "noul": 0.08
+  },
+  "q52": {
+   "surface": "Reagiert",
+   "noul": 0.05
+  },
+  "q53": {
+   "surface": "Abfragen",
+   "noul": 0.04
+  },
+  "q54": {
+   "surface": "Wächter/AEGIS",
+   "noul": 0.82
+  },
+  "q55": {
+   "surface": "Kühl",
+   "noul": 0.03
+  },
+  "q56": {
+   "surface": "Wärme",
+   "noul": 0.04
+  },
+  "q57": {
+   "surface": "Visualisierungseinheit",
+   "noul": 0.29
+  },
+  "q58": {
+   "surface": "Kontrollkonsolen",
+   "noul": 0.19
+  },
+  "q59": {
+   "surface": "Entropie-Indikatoren",
+   "noul": 0.28
+  },
+  "q60": {
+   "surface": "Pixel",
+   "noul": 0.11
+  },
+  "q61": {
+   "surface": "Datenlücken",
+   "noul": 0.1
+  },
+  "q62": {
+   "surface": "Unfähigkeit",
+   "noul": 0.05
+  },
+  "q63": {
+   "surface": "Systemwarnungen",
+   "noul": 0.12
+  },
+  "q64": {
+   "surface": "Nutzer/Beobachter",
+   "noul": 0.08
+  },
+  "q65": {
+   "surface": "Ausbreitung",
+   "noul": 0.12
+  },
+  "q66": {
+   "surface": "Strategien",
+   "noul": 0.05
+  },
+  "q67": {
+   "surface": "Kontrollräume",
+   "noul": 0.16
+  },
+  "q68": {
+   "surface": "NASA",
+   "noul": 0.87
+  },
+  "q69": {
+   "surface": "Militär",
+   "noul": 0.3
+  },
+  "q70": {
+   "surface": "Datenvisualisierungs-Kunst",
+   "noul": 0.39
+  },
+  "q71": {
+   "surface": "Tron",
+   "noul": 0.94
+  },
+  "q72": {
+   "surface": "Netzwerken",
+   "noul": 0.08
+  },
+  "q73": {
+   "surface": "Entropie-Ausgleichs-Kammer (Überwelt)",
+   "noul": 0.96
+  },
+  "q74": {
+   "surface": "Hochtechnologisch",
+   "noul": 0.04
+  },
+  "q75": {
+   "surface": "Teilchenbeschleuniger",
+   "noul": 0.27
+  },
+  "q76": {
+   "surface": "Fusionsreaktor",
+   "noul": 0.2
+  },
+  "q77": {
+   "surface": "Filteranlage",
+   "noul": 0.13
+  },
+  "q78": {
+   "surface": "Energieflüssen",
+   "noul": 0.07
+  },
+  "q79": {
+   "surface": "Zustandsänderungen",
+   "noul": 0.05
+  }
+ }
+}

@@ -11,12 +11,11 @@ python3 scripts/state.py --prose    # fail on any stale number in this file
 
 ## Open decisions — these are judgement, not measurement
 
-**Whether corpus text may be sent to TypeSafe at all.** Jev is installed two
-ways — the SDK in `.venv-typesafe` and the vendored `jev*` skills with their
-`jev-decide` CLI — and nothing calls it. The author chose **route A, real Jev**
-for the vendored skills; that chose a provider, not permission to send the
-novel's research to a third party. Every call waits on that yes, and the first
-real call uses a small synthetic input.
+**How far the yes to TypeSafe reaches.** On 2026-09-23 the author said yes to
+testing Jev on corpus text, asked as „a small test on the two documents with a
+reader's list", and the test sent those two documents' passages (below). That is
+the whole of what has been approved. A corpus-wide run sends every landed
+document and should be asked for again, with its cost.
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has the three placements and what
 each would send.
 
@@ -113,6 +112,38 @@ code produced rather than a claim. The same split is what makes a cheaper route
 possible — candidates by script, a typed judgement per candidate (Jev) — see
 `Plan/concept/jev-in-ingestion_2026-09-23.md`; that still waits on the author's
 yes to send passages.
+
+**Jev was tested on the same two documents, and it lost on quality.**
+`scripts/jev_entities.py` takes candidates from a script (every capitalised
+token, compound and bold/code/table-cell span, with its first file line) and asks
+Jev one Noul per candidate over the 40-line window it first occurs in. Recorded
+in `Plan/runs/jev/<slug>/`; `--replay` reruns it with no key.
+
+| | gazetteer F1 | `aegis-subplots` F1 | lines right | time / doc | input tokens / doc |
+|---|--:|--:|--:|--:|--:|
+| Haiku, revision 1/2 | 0.67 | 0.28 | 85–95% | ~2 min | ~110k |
+| Jev, top 100 by p | 0.47 | 0.10 | 99% — by code | 6 s | ~410k |
+| every script candidate | 0.09 | 0.04 | — | — | — |
+
+- **Faster by about 20×, cheaper by about 4× in money, not in tokens.** Jev is
+  $0.042 per million input tokens and output is free (OpenRouter, 2026-09-23);
+  Haiku is $1/$5. The whole corpus, 110,796 lines, is roughly $3 with Jev.
+  The token count is high because each of ~2,100 questions per document repeats
+  its wording; the state is paid once per window.
+- **The candidate script caps recall at 0.80 and 0.63.** It misses multi-word
+  names with a space in them (`Externe Ebene`, `Kern-Welt 1`) and splits none of
+  the slashed forms (`Juna/V`). That ceiling is code's, and fixable.
+- **Jev says yes to 20% of candidates** and ranks cited authors highest
+  (`Sartre`, `Camus`, `Chinese_room` from footnote URLs) on `aegis-subplots`. It
+  did what the question asked — the definition includes „a cited work or
+  author" — which is the same open question the Haiku pilot raised, answered
+  more sharply: the definition decides the list, not the model.
+- Near-duplicates crowd the top 100 (`Neuromancer`, `Neuromancer (Roman, 1984)`);
+  folding parentheticals is code, not judgement.
+
+**What this means:** Jev is not a replacement for a reader here, but it is a
+cheap filter behind a better candidate script. The gold lists are noisy too —
+each carries a reader's notes as `- ` lines, which no list can match.
 
 **Next, in this order:**
 
