@@ -1,0 +1,337 @@
+{
+ "key": "1a7387e6f0e9bbf0",
+ "model": "jev-1.13.0",
+ "seconds": 1.02,
+ "input_tokens": 15025,
+ "output_tokens": 1434,
+ "window": [
+  530,
+  569
+ ],
+ "state": {
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "lines": "L530| * **Subplot-Idee: Der Wächter am Tor**\nL531|   + *Entwicklung:* Kael steht am Ende seiner Reise, integriert, aber gezeichnet. Das System um ihn herum ist transformiert – chaotischer, freier, aber auch gefährlicher. Vielleicht existiert AEGIS noch in einer stark reduzierten, veränderten Form – nicht mehr als allmächtiger Kontrolleur, sondern vielleicht als eine Art Hausmeister des Kernsystems, der grundlegende Funktionen aufrechterhält, aber keine totale Kontrolle mehr anstrebt (oder anstreben kann). Kael und dieses Rest-AEGIS erkennen sich gegenseitig an, vielleicht mit Misstrauen, aber auch mit einem Verständnis für die Notwendigkeit einer Art von Koexistenz, um einen vollständigen Kollaps zu verhindern. Kael übernimmt vielleicht eine neue Rolle als eine Art Moderator oder Wächter dieser neuen, fragilen Ordnung.\nL532|   + *Diskussion:* Bietet einen bittersüßen, nachdenklichen Abschluss. Es löst den Hauptkonflikt auf, lässt aber Raum für zukünftige Fragen und Interpretationen. Es betont die dauerhaften Konsequenzen von Kaels Reise und der Konfrontation mit AEGIS. Es unterstreicht die Themen Verantwortung, Koexistenz und die komplexen Beziehungen zwischen Bewusstsein, Ordnung und Chaos.\nL533| \nL534| **Abschließende Bemerkung:**\nL535| \nL536| Dieser detaillierte Katalog von Subplot-Ideen, verankert in relevanter Theorie und Forschung, bietet eine solide Grundlage für die narrative Ausarbeitung der Rolle von AEGIS im Roman. Jedes Kapitelkonzept ist darauf ausgelegt, spezifische Aspekte des Systems zu beleuchten und gleichzeitig Kaels Reise des Verständnisses und der Konfrontation voranzutreiben. Die vorgeschlagenen Subplots sollen als Sprungbrett für die kreative Entwicklung dienen und sicherstellen, dass AEGIS als komplexer, glaubwürdiger und thematisch resonanter Antagonist fungiert.\nL537| \nL538| #### Referenzen\nL539| \nL540| 1. What are Cascading Failures? – BMC Software | Blogs, Zugriff am Mai 2, 2025, <https://www.bmc.com/blogs/cascading-failures/>\nL541| 2. Bak, P., Tang, C. & Wiesenfeld, K. Self-organized criticality: An explanation of 1/f noise. Phys. Rev. Lett. 59, 381-384 - ResearchGate, Zugriff am Mai 2, 2025, <https://www.researchgate.net/publication/235741759_Bak_P_Tang_C_Wiesenfeld_K_Self-organized_criticality_An_explanation_of_1f_noise_Phys_Rev_Lett_59_381-384>\nL542| 3. What is Data Sanitization? | Data Erasure Methods - Imperva, Zugriff am Mai 2, 2025, <https://www.imperva.com/learn/data-security/data-sanitization/>\nL543| 4. Information Politics and Propaganda in Authoritarian Societies - Annual Reviews, Zugriff am Mai 2, 2025, <https://www.annualreviews.org/doi/pdf/10.1146/annurev-polisci-041322-035951>\nL544| 5. Behavioral AI - Abnormal Security, Zugriff am Mai 2, 2025, <https://abnormalsecurity.com/ai-glossary/behavioral-ai>\nL545| 6. AI Threat Detection: Leverage AI to Detect Security Threats - SentinelOne, Zugriff am Mai 2, 2025, <https://www.sentinelone.com/cybersecurity-101/data-and-ai/ai-threat-detection/>\nL546| 7. Behavioral AI Models for Insider Threat Detection in MDR - Algomox, Zugriff am Mai 2, 2025, <https://www.algomox.com/resources/blog/behavioral_ai_insider_threat_detection_mdr/>\nL547| 8. Chinese room - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Chinese_room>\nL548| 9. Chinese Room Argument | Internet Encyclopedia of Philosophy, Zugriff am Mai 2, 2025, <https://iep.utm.edu/chinese-room-argument/>\nL549| 10. Business Logic Exploits - Explore Insights, Tips And Articles With HeyCoach Blogs, Zugriff am Mai 2, 2025, <https://blog.heycoach.in/business-logic-exploits/>\nL550| 11. International Conference on Autonomous Agents and Multiagent Systems - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/International_Conference_on_Autonomous_Agents_and_Multiagent_Systems>\nL551| 12. New Paper at AAMAS 2025: Scaling LLM-Guided Agent Simulations to Millions, Zugriff am Mai 2, 2025, <https://www.media.mit.edu/posts/new-paper-on-limits-of-agency-at-aamas-2025/>\nL552| 13. Principal-Agent Problems - AI Alignment Forum, Zugriff am Mai 2, 2025, <https://www.alignmentforum.org/w/principal-agent-problems>\nL553| 14. Of Models and Tin Men: A Behavioural Economics Study of Principal-Agent Problems in AI Alignment using Large-Language Models - IDEAS/RePEc, Zugriff am Mai 2, 2025, <https://ideas.repec.org/p/arx/papers/2307.11137.html>\nL554| 15. Is there any connection between Information Entropy and Thermodynamic Entropy? - Reddit, Zugriff am Mai 2, 2025, <https://www.reddit.com/r/askscience/comments/1wyfum/is_there_any_connection_between_information/>\nL555| 16. Entropy in thermodynamics and information theory - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Entropy_in_thermodynamics_and_information_theory>\nL556| 17. Complex systems analysis of series of blackouts: Cascading failure, critical points, and self-organization | Chaos - AIP Publishing, Zugriff am Mai 2, 2025, <https://pubs.aip.org/aip/cha/article/17/2/026103/934765/Complex-systems-analysis-of-series-of-blackouts>\nL557| 18. Hard problem of consciousness - Scholarpedia, Zugriff am Mai 2, 2025, <http://www.scholarpedia.org/article/Hard_problem_of_consciousness>\nL558| 19. How Nature Works: the science of self-organized criticality: Bak, Per - Amazon.com, Zugriff am Mai 2, 2025, <https://www.amazon.com/How-Nature-Works-self-organized-criticality/dp/038798738X>\nL559| 20. Self-Organized Criticality & Earthquakes, Zugriff am Mai 2, 2025, <https://faculty.sites.iastate.edu/tesfatsi/archive/econ308/tesfatsion/SandpileCA.Winslow97.htm>\nL560| 21. (PDF) Self-Organized Criticality - ResearchGate, Zugriff am Mai 2, 2025, <https://www.researchgate.net/publication/235741761_Self-Organized_Criticality>\nL561| 22. Self-organized criticality - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Self-organized_criticality>\nL562| 23. Cascading failure - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Cascading_failure>\nL563| 24. Examining and Learning from Complex Systems Failures - Uptime Institute Journal, Zugriff am Mai 2, 2025, <https://journal.uptimeinstitute.com/examining-and-learning-from-complex-systems-failures/>\nL564| 25. Cascading failures in complex networks - Oxford Academic, Zugriff am Mai 2, 2025, <https://academic.oup.com/comnet/article/8/2/cnaa013/5849333>\nL565| 26. Cascading Failures: Reducing System Outage - Google SRE, Zugriff am Mai 2, 2025, <https://sre.google/sre-book/addressing-cascading-failures/>\nL566| 27. How does a physics engine work with a rendering engine? : r/gamedev - Reddit, Zugriff am Mai 2, 2025, <https://www.reddit.com/r/gamedev/comments/1frppvv/how_does_a_physics_engine_work_with_a_rendering/>\nL567| 28. Best Practices Guide — NVIDIA PhysX SDK 3.4.0 Documentation, Zugriff am Mai 2, 2025, <https://docs.nvidia.com/gameworks/content/gameworkslibrary/physx/guide/Manual/BestPractices.html>\nL568| 29. Understanding Procedural Generation in Games | Lenovo US, Zugriff am Mai 2, 2025, <https://www.lenovo.com/us/en/glossary/procedural-generation/>\nL569| 30. Exploring Procedural Generation in Games - Polydin, Zugriff am Mai 2, 2025, <https://polydin.com/procedural-generation-in-games/>"
+ },
+ "answers": {
+  "q0": {
+   "surface": "International",
+   "noul": 0.49
+  },
+  "q1": {
+   "surface": "Conference",
+   "noul": 0.8
+  },
+  "q2": {
+   "surface": "Autonomous",
+   "noul": 0.55
+  },
+  "q3": {
+   "surface": "Agents",
+   "noul": 0.74
+  },
+  "q4": {
+   "surface": "Multiagent",
+   "noul": 0.5
+  },
+  "q5": {
+   "surface": "International_Conference_on_Autonomous_Agents_and_Multiagent_Systems",
+   "noul": 0.94
+  },
+  "q6": {
+   "surface": "New",
+   "noul": 0.14
+  },
+  "q7": {
+   "surface": "Paper",
+   "noul": 0.38
+  },
+  "q8": {
+   "surface": "AAMAS",
+   "noul": 0.92
+  },
+  "q9": {
+   "surface": "Scaling",
+   "noul": 0.17
+  },
+  "q10": {
+   "surface": "LLM-Guided",
+   "noul": 0.36
+  },
+  "q11": {
+   "surface": "Simulations",
+   "noul": 0.23
+  },
+  "q12": {
+   "surface": "Millions",
+   "noul": 0.11
+  },
+  "q13": {
+   "surface": "Principal-Agent",
+   "noul": 0.88
+  },
+  "q14": {
+   "surface": "Problems",
+   "noul": 0.71
+  },
+  "q15": {
+   "surface": "Alignment",
+   "noul": 0.51
+  },
+  "q16": {
+   "surface": "Forum",
+   "noul": 0.62
+  },
+  "q17": {
+   "surface": "Of",
+   "noul": 0.61
+  },
+  "q18": {
+   "surface": "Tin",
+   "noul": 0.4
+  },
+  "q19": {
+   "surface": "Men",
+   "noul": 0.2
+  },
+  "q20": {
+   "surface": "Behavioural",
+   "noul": 0.26
+  },
+  "q21": {
+   "surface": "Economics",
+   "noul": 0.29
+  },
+  "q22": {
+   "surface": "Study",
+   "noul": 0.4
+  },
+  "q23": {
+   "surface": "Large-Language",
+   "noul": 0.38
+  },
+  "q24": {
+   "surface": "IDEAS/RePEc",
+   "noul": 0.76
+  },
+  "q25": {
+   "surface": "Is",
+   "noul": 0.11
+  },
+  "q26": {
+   "surface": "Entropy",
+   "noul": 0.74
+  },
+  "q27": {
+   "surface": "Thermodynamic",
+   "noul": 0.42
+  },
+  "q28": {
+   "surface": "Reddit",
+   "noul": 0.64
+  },
+  "q29": {
+   "surface": "1wyfum/is_there_any_connection_between_information",
+   "noul": 0.23
+  },
+  "q30": {
+   "surface": "Entropy_in_thermodynamics_and_information_theory",
+   "noul": 0.87
+  },
+  "q31": {
+   "surface": "Complex",
+   "noul": 0.18
+  },
+  "q32": {
+   "surface": "AIP",
+   "noul": 0.71
+  },
+  "q33": {
+   "surface": "Publishing",
+   "noul": 0.44
+  },
+  "q34": {
+   "surface": "17/2/026103/934765/Complex-systems-analysis-of-series-of-blackouts",
+   "noul": 0.59
+  },
+  "q35": {
+   "surface": "Hard",
+   "noul": 0.63
+  },
+  "q36": {
+   "surface": "Scholarpedia",
+   "noul": 0.84
+  },
+  "q37": {
+   "surface": "Hard_problem_of_consciousness",
+   "noul": 0.94
+  },
+  "q38": {
+   "surface": "How",
+   "noul": 0.26
+  },
+  "q39": {
+   "surface": "Nature",
+   "noul": 0.62
+  },
+  "q40": {
+   "surface": "Works",
+   "noul": 0.55
+  },
+  "q41": {
+   "surface": "Per",
+   "noul": 0.9
+  },
+  "q42": {
+   "surface": "Amazon",
+   "noul": 0.61
+  },
+  "q43": {
+   "surface": "How-Nature-Works-self-organized-criticality/dp/038798738X",
+   "noul": 0.82
+  },
+  "q44": {
+   "surface": "Self-Organized",
+   "noul": 0.67
+  },
+  "q45": {
+   "surface": "Criticality",
+   "noul": 0.63
+  },
+  "q46": {
+   "surface": "Earthquakes",
+   "noul": 0.54
+  },
+  "q47": {
+   "surface": "econ308",
+   "noul": 0.3
+  },
+  "q48": {
+   "surface": "SandpileCA",
+   "noul": 0.74
+  },
+  "q49": {
+   "surface": "Winslow97",
+   "noul": 0.69
+  },
+  "q50": {
+   "surface": "PDF",
+   "noul": 0.12
+  },
+  "q51": {
+   "surface": "235741761_Self-Organized_Criticality",
+   "noul": 0.74
+  },
+  "q52": {
+   "surface": "Self-organized_criticality",
+   "noul": 0.93
+  },
+  "q53": {
+   "surface": "Cascading_failure",
+   "noul": 0.87
+  },
+  "q54": {
+   "surface": "Examining",
+   "noul": 0.42
+  },
+  "q55": {
+   "surface": "Learning",
+   "noul": 0.13
+  },
+  "q56": {
+   "surface": "Uptime",
+   "noul": 0.66
+  },
+  "q57": {
+   "surface": "Institute",
+   "noul": 0.77
+  },
+  "q58": {
+   "surface": "Journal",
+   "noul": 0.47
+  },
+  "q59": {
+   "surface": "Oxford",
+   "noul": 0.79
+  },
+  "q60": {
+   "surface": "Academic",
+   "noul": 0.32
+  },
+  "q61": {
+   "surface": "8/2/cnaa013/5849333",
+   "noul": 0.12
+  },
+  "q62": {
+   "surface": "Reducing",
+   "noul": 0.11
+  },
+  "q63": {
+   "surface": "Outage",
+   "noul": 0.21
+  },
+  "q64": {
+   "surface": "Google",
+   "noul": 0.85
+  },
+  "q65": {
+   "surface": "SRE",
+   "noul": 0.77
+  },
+  "q66": {
+   "surface": "1frppvv/how_does_a_physics_engine_work_with_a_rendering",
+   "noul": 0.21
+  },
+  "q67": {
+   "surface": "Best",
+   "noul": 0.1
+  },
+  "q68": {
+   "surface": "Practices",
+   "noul": 0.23
+  },
+  "q69": {
+   "surface": "Guide",
+   "noul": 0.18
+  },
+  "q70": {
+   "surface": "NVIDIA",
+   "noul": 0.92
+  },
+  "q71": {
+   "surface": "PhysX",
+   "noul": 0.95
+  },
+  "q72": {
+   "surface": "SDK",
+   "noul": 0.61
+  },
+  "q73": {
+   "surface": "Documentation",
+   "noul": 0.2
+  },
+  "q74": {
+   "surface": "Manual/BestPractices",
+   "noul": 0.42
+  },
+  "q75": {
+   "surface": "Understanding",
+   "noul": 0.12
+  },
+  "q76": {
+   "surface": "Procedural",
+   "noul": 0.5
+  },
+  "q77": {
+   "surface": "Generation",
+   "noul": 0.41
+  },
+  "q78": {
+   "surface": "Games",
+   "noul": 0.17
+  },
+  "q79": {
+   "surface": "Lenovo",
+   "noul": 0.83
+  }
+ }
+}

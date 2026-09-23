@@ -1,0 +1,117 @@
+{
+ "key": "52bfaa77e183bc35",
+ "model": "jev-1.13.0",
+ "seconds": 0.76,
+ "input_tokens": 5915,
+ "output_tokens": 444,
+ "window": [
+  370,
+  409
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L370|   - **Charakter/Plot Link:** Kael (als derjenige, der die Grenze überwinden will), Cerberus (als Wächter der Mauer), Regel-Exekutor (patrouilliert entlang der Mauer?). Ein zentrales Hindernis in Kaels Reise durch KW3 \\[1335-1376\\].\nL371|   - **Design Inspirations:** Berliner Mauer, Chinesische Mauer, Festungsarchitektur, Gefängnismauern, Grenzanlagen, dystopische Architekturen (*Blade Runner*, *Judge Dredd*).\nL372| \nL373| <!-- end list -->\nL374| \nL375| 1.  **Schleuse 7 (Kontrollpunkt) (KW3)**\nL376| \nL377| <!-- end list -->\nL378| \nL379|   - **Konzept/Zweck:** Einer der wenigen offiziellen Übergänge durch die Große Mauer oder zwischen Sektoren innerhalb von KW3. Dient der Identifikation, Kontrolle und potenziellen Abweisung oder Bestrafung bei Regelverstößen. Ort der direkten Konfrontation mit der Systemautorität.\nL380|   - **Ästhetik/Visualisierung:** Funktional, militärisch, streng. Massive Tore, Scanner, Kontrollkabinen, Waffensysteme. Helles, kaltes Licht. Klare Markierungen und Warnhinweise. Design betont Sicherheit und Kontrolle über Komfort.\nL381|   - **Sensorik:** Laute mechanische Geräusche der Tore und Scanner. Klare, autoritäre Durchsagen. Geruch nach Desinfektionsmittel oder Maschinenöl. Gefühl von Überwachung, Nervosität, potenzieller Gefahr.\nL382|   - **Symbolik:** Verkörpert die bürokratische und repressive Seite der Kontrolle. Ein Nadelöhr, das den Fluss (von Information, Bewegung, Veränderung) reguliert und einschränkt. Symbol für Urteil und Machtausübung.\nL383|   - **Regeln/Logik:** Strikte Identifikations- und Verifikationsprozeduren. Regeln werden rigoros durchgesetzt. Unautorisierter Zugang ist (scheinbar) unmöglich. Abwehrmaßnahmen sind aktiv.\nL384|   - **Atmosphäre/Mood:** Angespannt, bürokratisch, bedrohlich, unpersönlich. Gefühl, ausgeliefert zu sein und geprüft zu werden. Hohe Nervosität bei Annäherung.\nL385|   - **Landmarken/Key Features:** Das Haupttor, Scanner-Arrays, Kontrollraum (sichtbar?), Wartebereich, Zellen für Regelbrecher.\nL386|   - **Risse/Entropie Manifestations:** Fehlfunktionen der Scanner (falsche Identifikation, Ausfall). Tore klemmen oder öffnen/schließen sich unkontrolliert. Widersprüchliche Anweisungen oder Regeln. Kurzzeitiger Ausfall der Überwachungssysteme.\nL387|   - **Charakter/Plot Link:** Kael (muss passieren), Regel-Exekutor (NPC, führt Kontrolle durch), Cerberus (als Systempräsenz). Ein wichtiger Punkt in Kaels Navigation durch KW3, Ort einer potenziellen Konfrontation oder eines Katz-und-Maus-Spiels .\nL388|   - **Design Inspirations:** Grenzübergänge, Flughafensicherheitskontrollen, Gefängnisschleusen, militärische Checkpoints.\nL389| \nL390| <!-- end list -->\nL391| \nL392| 1.  **Labyrinth der Paranoia (KW3)**\nL393| \nL394| <!-- end list -->\nL395| \nL396|   - **Konzept/Zweck:** Ein sich ständig verändernder, desorientierender Bereich in KW3, der darauf ausgelegt ist, Misstrauen, Angst und Paranoia zu maximieren. Dient als psychologische Falle oder Abwehrmechanismus.\nL397|   - **Ästhetik/Visualisierung:** Klaustrophobische Gänge, Sackgassen, sich verschiebende Wände, trügerische Spiegelungen oder Projektionen. Architektur ist instabil und unlogisch. Beleuchtung unregelmäßig, schattenreich, vielleicht flackernd. Visuelle Täuschungen, Echos von Verfolgern.\nL398|   - **Sensorik:** Desorientierende Geräusche: Schritte, Flüstern, plötzliche Stille. Wechselnde Temperaturen. Gefühl, beobachtet oder verfolgt zu werden. Enge, bedrückende Luft. Oberflächen können sich unerwartet ändern (glatt zu rau, fest zu nachgiebig).\nL399|   - **Symbolik:** Verkörpert den Zustand der Paranoia, das Gefühl, gefangen und verfolgt zu sein. Die sich ändernde Struktur symbolisiert die Unzuverlässigkeit der Wahrnehmung in diesem Zustand.\nL400|   - **Regeln/Logik:** Keine feste Geografie. Der Weg wird durch den psychischen Zustand des Durchquerenden beeinflusst (Angst führt tiefer hinein?). Normale Orientierungsmethoden versagen. Zeit kann verzerrt wahrgenommen werden.\nL401|   - **Atmosphäre/Mood:** Hochgradig angespannt, paranoid, verwirrend, beängstigend. Gefühl von Kontrollverlust und ständiger Bedrohung. Klaustrophobisch.\nL402|   - **Landmarken/Key Features:** Gibt es möglicherweise nicht im klassischen Sinne, da alles im Fluss ist. Vielleicht wiederkehrende Trugbilder, Echos oder Fallen. Ein hypothetisches \"Zentrum\" ist schwer oder unmöglich zu erreichen.\nL403|   - **Risse/Entropie Manifestations:** Die Instabilität des Labyrinths selbst ist eine Form von Riss/Entropie. Zusätzlich: Plötzliche Einbrüche von Realitätsfragmenten aus anderen Welten, Auftauchen von feindseligen Entitäten, völliger Zusammenbruch der räumlichen Logik.\nL404|   - **Charakter/Plot Link:** Kael (Erfahrung der Paranoia), Cerberus (als Architekt des Labyrinths), Nox (könnte hier aufblühen oder gefangen sein). Ein zentraler Ort, der Kaels psychischen Zustand in KW3 widerspiegelt und herausfordert \\[1350-1360\\].\nL405|   - **Design Inspirations:** Klassische Labyrinthe und Irrgärten, psychologische Horrorfilme (*The Shining* 48), Escher-Grafiken 13, Alptraum-Logik.\nL406| \nL407| **(Kern-Welt 4: Kairos/Sophia)**\nL408| \nL409| 1.  **Nexus-Interface (KW4)**"
+ },
+ "answers": {
+  "q0": {
+   "surface": "Normale",
+   "noul": 0.04
+  },
+  "q1": {
+   "surface": "Orientierungsmethoden",
+   "noul": 0.08
+  },
+  "q2": {
+   "surface": "Hochgradig",
+   "noul": 0.02
+  },
+  "q3": {
+   "surface": "Kontrollverlust",
+   "noul": 0.07
+  },
+  "q4": {
+   "surface": "Bedrohung",
+   "noul": 0.05
+  },
+  "q5": {
+   "surface": "Klaustrophobisch",
+   "noul": 0.04
+  },
+  "q6": {
+   "surface": "Gibt",
+   "noul": 0.04
+  },
+  "q7": {
+   "surface": "Trugbilder",
+   "noul": 0.12
+  },
+  "q8": {
+   "surface": "Fallen",
+   "noul": 0.06
+  },
+  "q9": {
+   "surface": "Labyrinths",
+   "noul": 0.39
+  },
+  "q10": {
+   "surface": "Riss/Entropie",
+   "noul": 0.4
+  },
+  "q11": {
+   "surface": "Zusätzlich",
+   "noul": 0.04
+  },
+  "q12": {
+   "surface": "Einbrüche",
+   "noul": 0.11
+  },
+  "q13": {
+   "surface": "Realitätsfragmenten",
+   "noul": 0.32
+  },
+  "q14": {
+   "surface": "Auftauchen",
+   "noul": 0.06
+  },
+  "q15": {
+   "surface": "Architekt",
+   "noul": 0.15
+  },
+  "q16": {
+   "surface": "1350-1360",
+   "noul": 0.08
+  },
+  "q17": {
+   "surface": "Klassische",
+   "noul": 0.1
+  },
+  "q18": {
+   "surface": "Irrgärten",
+   "noul": 0.44
+  },
+  "q19": {
+   "surface": "Horrorfilme",
+   "noul": 0.24
+  },
+  "q20": {
+   "surface": "Shining",
+   "noul": 0.89
+  },
+  "q21": {
+   "surface": "Escher-Grafiken",
+   "noul": 0.75
+  },
+  "q22": {
+   "surface": "Alptraum-Logik",
+   "noul": 0.47
+  },
+  "q23": {
+   "surface": "(Kern-Welt 4: Kairos/Sophia)",
+   "noul": 0.93
+  },
+  "q24": {
+   "surface": "Nexus-Interface (KW4)",
+   "noul": 0.91
+  }
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "key": "62504d44616fc903",
+ "model": "jev-1.13.0",
+ "seconds": 0.77,
+ "input_tokens": 6132,
+ "output_tokens": 606,
+ "window": [
+  610,
+  619
+ ],
+ "state": {
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "lines": "L610| 71. The Void (philosophy) - Wikipedia, Zugriff am Mai 2, 2025, [https://en.wikipedia.org/wiki/The\\_Void\\_(philosophy)](https://en.wikipedia.org/wiki/The_Void_%28philosophy%29)\nL611| 72. Simulation hypothesis - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Simulation_hypothesis>\nL612| 73. The simulation argument reconsidered - Oxford Academic, Zugriff am Mai 2, 2025, <https://academic.oup.com/analysis/article-abstract/84/1/23/7331156>\nL613| 74. Structural qualia: a solution to the hard problem of consciousness - PMC - PubMed Central, Zugriff am Mai 2, 2025, <https://pmc.ncbi.nlm.nih.gov/articles/PMC3957492/>\nL614| 75. Philosophical zombie - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Philosophical_zombie>\nL615| 76. What are Philosophical Zombies? - Philosimplicity, Zugriff am Mai 2, 2025, <http://philosimplicity.com/blog/2018/03/12/p-zombies-materialism-and-qualia/>\nL616| 77. Gaslighting: What Is It And How Do We Fight Back? - Middle Georgia State University, Zugriff am Mai 2, 2025, <https://www.mga.edu/news/2023/04/what-is-gaslighting-and-how-to-fight-back.php>\nL617| 78. Psychological manipulation | EBSCO Research Starters, Zugriff am Mai 2, 2025, <https://www.ebsco.com/research-starters/health-and-medicine/psychological-manipulation>\nL618| 79. Identifying Gaslighting: Signs, Examples, and Seeking Help - Newport Institute, Zugriff am Mai 2, 2025, <https://www.newportinstitute.com/resources/mental-health/what_is_gaslighting_abuse/>\nL619| 80. Nazi Propaganda and Censorship | Holocaust Encyclopedia, Zugriff am Mai 2, 2025, <https://encyclopedia.ushmm.org/content/en/article/nazi-propaganda-and-censorship>"
+ },
+ "answers": {
+  "q0": {
+   "surface": "Void",
+   "noul": 0.9
+  },
+  "q1": {
+   "surface": "The_Void_",
+   "noul": 0.9
+  },
+  "q2": {
+   "surface": "28philosophy",
+   "noul": 0.21
+  },
+  "q3": {
+   "surface": "Simulation_hypothesis",
+   "noul": 0.93
+  },
+  "q4": {
+   "surface": "84/1/23/7331156",
+   "noul": 0.15
+  },
+  "q5": {
+   "surface": "Structural",
+   "noul": 0.66
+  },
+  "q6": {
+   "surface": "PubMed",
+   "noul": 0.82
+  },
+  "q7": {
+   "surface": "Central",
+   "noul": 0.51
+  },
+  "q8": {
+   "surface": "PMC3957492",
+   "noul": 0.44
+  },
+  "q9": {
+   "surface": "Philosophical",
+   "noul": 0.73
+  },
+  "q10": {
+   "surface": "Philosophical_zombie",
+   "noul": 0.94
+  },
+  "q11": {
+   "surface": "Philosimplicity",
+   "noul": 0.91
+  },
+  "q12": {
+   "surface": "2018/03/12/p-zombies-materialism-and-qualia",
+   "noul": 0.41
+  },
+  "q13": {
+   "surface": "It",
+   "noul": 0.31
+  },
+  "q14": {
+   "surface": "Do",
+   "noul": 0.09
+  },
+  "q15": {
+   "surface": "We",
+   "noul": 0.05
+  },
+  "q16": {
+   "surface": "Fight",
+   "noul": 0.07
+  },
+  "q17": {
+   "surface": "Back",
+   "noul": 0.09
+  },
+  "q18": {
+   "surface": "Middle",
+   "noul": 0.63
+  },
+  "q19": {
+   "surface": "Georgia",
+   "noul": 0.66
+  },
+  "q20": {
+   "surface": "State",
+   "noul": 0.16
+  },
+  "q21": {
+   "surface": "University",
+   "noul": 0.49
+  },
+  "q22": {
+   "surface": "2023/04/what-is-gaslighting-and-how-to-fight-back",
+   "noul": 0.4
+  },
+  "q23": {
+   "surface": "Psychological",
+   "noul": 0.32
+  },
+  "q24": {
+   "surface": "EBSCO",
+   "noul": 0.91
+  },
+  "q25": {
+   "surface": "Research",
+   "noul": 0.39
+  },
+  "q26": {
+   "surface": "Starters",
+   "noul": 0.56
+  },
+  "q27": {
+   "surface": "Identifying",
+   "noul": 0.18
+  },
+  "q28": {
+   "surface": "Signs",
+   "noul": 0.07
+  },
+  "q29": {
+   "surface": "Seeking",
+   "noul": 0.05
+  },
+  "q30": {
+   "surface": "Help",
+   "noul": 0.08
+  },
+  "q31": {
+   "surface": "Newport",
+   "noul": 0.89
+  },
+  "q32": {
+   "surface": "Nazi",
+   "noul": 0.84
+  },
+  "q33": {
+   "surface": "Holocaust",
+   "noul": 0.7
+  }
+ }
+}

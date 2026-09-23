@@ -1,0 +1,297 @@
+{
+ "key": "07aa0e7bd2d5fc00",
+ "model": "jev-1.13.0",
+ "seconds": 1.04,
+ "input_tokens": 13748,
+ "output_tokens": 1254,
+ "window": [
+  570,
+  609
+ ],
+ "state": {
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "lines": "L570| 31. Mastering Containment: A Guide to the Most Critical Phase of Incident Response, Zugriff am Mai 2, 2025, <https://www.reliaquest.com/cyber-knowledge/incident-response-containment/>\nL571| 32. What is Threat Isolation and Containment, and Why is it Important? - Intelligent Technical Solutions, Zugriff am Mai 2, 2025, <https://www.itsasap.com/blog/threat-isolation-containment>\nL572| 33. 7 Methods of Secure Data Sanitization - Human-I-T, Zugriff am Mai 2, 2025, <https://www.human-i-t.org/7-methods-data-sanitization/>\nL573| 34. Media Sanitization and Disposal Best Practices - FSA Partner Connect, Zugriff am Mai 2, 2025, <https://fsapartners.ed.gov/sites/default/files/2023-05/H-445_FSAMediaSan_BestPractices_SK_041423_FINAL.pdf>\nL574| 35. NIST SP 800-88 Guidelines for Media Sanitization Explained - Jetico, Zugriff am Mai 2, 2025, <https://www.jetico.com/blog/nist-sp-800-88-guidelines-media-sanitization-explained>\nL575| 36. 4-OP-H-25.15 IT Data Disposal and Media Sanitization Standard, Zugriff am Mai 2, 2025, <https://its.fsu.edu/cybersecurity/standards/it-data-disposal-and-media-sanitization-standard>\nL576| 37. What is NIST 800-88, and what is meant by Clear, Purge, and Destroy? - SK tes, Zugriff am Mai 2, 2025, <https://www.sktes.com/news/what-is-nist-800-88>\nL577| 38. Memory Erasure and the Objection from Truthfulness - ResearchGate, Zugriff am Mai 2, 2025, <https://www.researchgate.net/publication/364993705_Memory_Erasure_and_the_Objection_from_Truthfulness>\nL578| 39. Changing One's Mind. The Ethics of Memory Erasure in Eternal Sunshine of the Spotless Mind - S&F\\_scienzaefilosofia.it, Zugriff am Mai 2, 2025, <http://www.scienzaefilosofia.com/2018/03/25/changing-ones-mind-the-ethics-of-memory-erasure-in-eternal-sunshine-of-the-spotless-mind/>\nL579| 40. Ethics and Memory - PhilArchive, Zugriff am Mai 2, 2025, <https://philarchive.org/archive/TRAEAM-2>\nL580| 41. Erasing Memories - Neuronline - Society for Neuroscience, Zugriff am Mai 2, 2025, <https://neuronline.sfn.org/professional-development/erasing-memories>\nL581| 42. Neuromodulation and memory: exploring ethical ramifications in memory modification treatment via implantable neurotechnologies - Frontiers, Zugriff am Mai 2, 2025, <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1282634/full>\nL582| 43. The Psychology and Philosophy of Memory, Zugriff am Mai 2, 2025, <https://www.psychologytoday.com/us/blog/hide-and-seek/201806/the-psychology-and-philosophy-memory>\nL583| 44. Censorship and Secrecy, Social and Legal Perspectives - MIT, Zugriff am Mai 2, 2025, <https://web.mit.edu/gtmarx/www/cenandsec.html>\nL584| 45. Quick Guide to Network Contagion in Econ Models - Number Analytics, Zugriff am Mai 2, 2025, <https://www.numberanalytics.com/blog/quick-guide-network-contagion-econ-models>\nL585| 46. Modeling Information Propagation with Survival Theory - Stanford Computer Science, Zugriff am Mai 2, 2025, <https://cs.stanford.edu/people/jure/pubs/survival-icml13.pdf>\nL586| 47. Universality, criticality and complexity of information propagation in social media - PMC, Zugriff am Mai 2, 2025, <https://pmc.ncbi.nlm.nih.gov/articles/PMC8921196/>\nL587| 48. Uncovering the structure and temporal dynamics of information propagation - CS Stanford, Zugriff am Mai 2, 2025, <https://cs.stanford.edu/people/jure/pubs/netrate-netsci14.pdf>\nL588| 49. Distinguishing mechanisms of social contagion from local network view - arXiv, Zugriff am Mai 2, 2025, <https://arxiv.org/html/2406.18519v1>\nL589| 50. Containment - AWS Security Incident Response User Guide, Zugriff am Mai 2, 2025, <https://docs.aws.amazon.com/security-ir/latest/userguide/containment.html>\nL590| 51. Cyber Incident Response: Containment - RiskRecon, Zugriff am Mai 2, 2025, <https://blog.riskrecon.com/cyber-incident-response-containment>\nL591| 52. What are the 6 Phases in a Cyber Incident Response Plan?, Zugriff am Mai 2, 2025, <https://www.cm-alliance.com/cybersecurity-blog/what-are-the-6-phases-in-a-cyber-incident-response-plan>\nL592| 53. NSA'S Top Ten Cybersecurity Mitigation Strategies, Zugriff am Mai 2, 2025, <https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf>\nL593| 54. The Chinese Room Argument (Stanford Encyclopedia of Philosophy/Spring 2010 Edition), Zugriff am Mai 2, 2025, <https://plato.stanford.edu/archIves/spr2010/entries/chinese-room/>\nL594| 55. Hard problem of consciousness - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Hard_problem_of_consciousness>\nL595| 56. Opponent-Model Search in Games with Incomplete Information - AAAI Publications, Zugriff am Mai 2, 2025, <https://ojs.aaai.org/index.php/AAAI/article/view/28844/29606>\nL596| 57. Game theory-based opponent modeling in large imperfect-information games, Zugriff am Mai 2, 2025, <https://www.researchgate.net/publication/221454773_Game_theory-based_opponent_modeling_in_large_imperfect-information_games>\nL597| 58. Key Concepts of Phase Margin to Know for Control Theory - Fiveable, Zugriff am Mai 2, 2025, <https://fiveable.me/lists/key-concepts-of-phase-margin>\nL598| 59. 2.3: System Stability - Engineering LibreTexts, Zugriff am Mai 2, 2025, [https://eng.libretexts.org/Bookshelves/Industrial\\_and\\_Systems\\_Engineering/Introduction\\_to\\_Control\\_Systems\\_(Iqbal)/02%3A\\_Transfer\\_Function\\_Models/2.03%3A\\_System\\_Stability](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Introduction_to_Control_Systems_%28Iqbal%29/02%3A_Transfer_Function_Models/2.03%3A_System_Stability)\nL599| 60. Control Systems – Stability | GeeksforGeeks, Zugriff am Mai 2, 2025, <https://www.geeksforgeeks.org/control-systems-stability/>\nL600| 61. The Concept of Stability | Control Systems 3.1 - CircuitBread, Zugriff am Mai 2, 2025, <https://www.circuitbread.com/tutorials/the-concept-of-stability-3.1>\nL601| 62. Robust Control Theory - Electrical and Computer Engineering, Zugriff am Mai 2, 2025, <https://users.ece.cmu.edu/~koopman/des_s99/control_theory/>\nL602| 63. Stability theory - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Stability_theory>\nL603| 64. Thinking outside the box: 3 creative ways to exploit business logic vulnerabilities in pentests, Zugriff am Mai 2, 2025, <https://pentest-tools.com/blog/business-logic-vulnerabilities-pentests>\nL604| 65. The 2025 In-Depth Guide to OWASP Top 10 Vulnerabilities & How to Prevent Them - Jit.io, Zugriff am Mai 2, 2025, <https://www.jit.io/resources/security-standards/the-in-depth-guide-to-owasps-top-10-vulnerabilities>\nL605| 66. Real-World Examples for OWASP Top 10 Vulnerabilities - CyberDB, Zugriff am Mai 2, 2025, <https://www.cyberdb.co/real-world-examples-for-owasp-top-10-vulnerabilities/>\nL606| 67. OWASP Top 10 Vulnerabilities - Veracode, Zugriff am Mai 2, 2025, <https://www.veracode.com/security/owasp-top-10/>\nL607| 68. Understanding Business Logic Vulnerabilities - The Biggest API Security Risk - Aptori, Zugriff am Mai 2, 2025, <https://aptori.dev/blog/understanding-business-logic-vulnerabilities-the-biggest-api-security-risk>\nL608| 69. Modern Study of Conflict Games with Game Theory - Number Analytics, Zugriff am Mai 2, 2025, <https://www.numberanalytics.com/blog/modern-study-conflict-games-game-theory>\nL609| 70. The Psychology of Existential Dread - Therapy Group of DC, Zugriff am Mai 2, 2025, <https://therapygroupdc.com/therapist-dc-blog/the-psychology-of-existential-dread/>"
+ },
+ "answers": {
+  "q0": {
+   "surface": "Distinguishing",
+   "noul": 0.28
+  },
+  "q1": {
+   "surface": "arXiv",
+   "noul": 0.84
+  },
+  "q2": {
+   "surface": "18519v1",
+   "noul": 0.58
+  },
+  "q3": {
+   "surface": "AWS",
+   "noul": 0.92
+  },
+  "q4": {
+   "surface": "Cyber",
+   "noul": 0.12
+  },
+  "q5": {
+   "surface": "RiskRecon",
+   "noul": 0.93
+  },
+  "q6": {
+   "surface": "Phases",
+   "noul": 0.28
+  },
+  "q7": {
+   "surface": "NSA",
+   "noul": 0.96
+  },
+  "q8": {
+   "surface": "Top",
+   "noul": 0.58
+  },
+  "q9": {
+   "surface": "Ten",
+   "noul": 0.57
+  },
+  "q10": {
+   "surface": "Cybersecurity",
+   "noul": 0.36
+  },
+  "q11": {
+   "surface": "Mitigation",
+   "noul": 0.41
+  },
+  "q12": {
+   "surface": "Strategies",
+   "noul": 0.49
+  },
+  "q13": {
+   "surface": "75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies",
+   "noul": 0.63
+  },
+  "q14": {
+   "surface": "Philosophy/Spring",
+   "noul": 0.41
+  },
+  "q15": {
+   "surface": "Edition",
+   "noul": 0.23
+  },
+  "q16": {
+   "surface": "archIves",
+   "noul": 0.09
+  },
+  "q17": {
+   "surface": "spr2010",
+   "noul": 0.35
+  },
+  "q18": {
+   "surface": "Opponent-Model",
+   "noul": 0.75
+  },
+  "q19": {
+   "surface": "Search",
+   "noul": 0.55
+  },
+  "q20": {
+   "surface": "Incomplete",
+   "noul": 0.21
+  },
+  "q21": {
+   "surface": "AAAI",
+   "noul": 0.89
+  },
+  "q22": {
+   "surface": "Publications",
+   "noul": 0.55
+  },
+  "q23": {
+   "surface": "AAAI/article/view/28844/29606",
+   "noul": 0.64
+  },
+  "q24": {
+   "surface": "Game",
+   "noul": 0.27
+  },
+  "q25": {
+   "surface": "221454773_Game_theory-based_opponent_modeling_in_large_imperfect-information_games",
+   "noul": 0.87
+  },
+  "q26": {
+   "surface": "Key",
+   "noul": 0.13
+  },
+  "q27": {
+   "surface": "Concepts",
+   "noul": 0.14
+  },
+  "q28": {
+   "surface": "Margin",
+   "noul": 0.71
+  },
+  "q29": {
+   "surface": "Know",
+   "noul": 0.06
+  },
+  "q30": {
+   "surface": "Fiveable",
+   "noul": 0.88
+  },
+  "q31": {
+   "surface": "Stability",
+   "noul": 0.59
+  },
+  "q32": {
+   "surface": "LibreTexts",
+   "noul": 0.86
+  },
+  "q33": {
+   "surface": "Bookshelves/Industrial",
+   "noul": 0.08
+  },
+  "q34": {
+   "surface": "Introduction",
+   "noul": 0.13
+  },
+  "q35": {
+   "surface": "Iqbal",
+   "noul": 0.89
+  },
+  "q36": {
+   "surface": "3A",
+   "noul": 0.08
+  },
+  "q37": {
+   "surface": "Bookshelves/Industrial_and_Systems_Engineering/Introduction_to_Control_Systems_",
+   "noul": 0.25
+  },
+  "q38": {
+   "surface": "28Iqbal",
+   "noul": 0.5
+  },
+  "q39": {
+   "surface": "29/02",
+   "noul": 0.06
+  },
+  "q40": {
+   "surface": "3A_Transfer_Function_Models/2",
+   "noul": 0.2
+  },
+  "q41": {
+   "surface": "3A_System_Stability",
+   "noul": 0.27
+  },
+  "q42": {
+   "surface": "GeeksforGeeks",
+   "noul": 0.9
+  },
+  "q43": {
+   "surface": "Concept",
+   "noul": 0.32
+  },
+  "q44": {
+   "surface": "CircuitBread",
+   "noul": 0.88
+  },
+  "q45": {
+   "surface": "Robust",
+   "noul": 0.71
+  },
+  "q46": {
+   "surface": "Electrical",
+   "noul": 0.18
+  },
+  "q47": {
+   "surface": "Stability_theory",
+   "noul": 0.89
+  },
+  "q48": {
+   "surface": "Thinking",
+   "noul": 0.08
+  },
+  "q49": {
+   "surface": "In-Depth",
+   "noul": 0.14
+  },
+  "q50": {
+   "surface": "OWASP",
+   "noul": 0.94
+  },
+  "q51": {
+   "surface": "Vulnerabilities",
+   "noul": 0.52
+  },
+  "q52": {
+   "surface": "Prevent",
+   "noul": 0.07
+  },
+  "q53": {
+   "surface": "Them",
+   "noul": 0.17
+  },
+  "q54": {
+   "surface": "Jit",
+   "noul": 0.85
+  },
+  "q55": {
+   "surface": "Real-World",
+   "noul": 0.1
+  },
+  "q56": {
+   "surface": "Examples",
+   "noul": 0.12
+  },
+  "q57": {
+   "surface": "CyberDB",
+   "noul": 0.91
+  },
+  "q58": {
+   "surface": "Veracode",
+   "noul": 0.94
+  },
+  "q59": {
+   "surface": "Biggest",
+   "noul": 0.07
+  },
+  "q60": {
+   "surface": "API",
+   "noul": 0.49
+  },
+  "q61": {
+   "surface": "Risk",
+   "noul": 0.13
+  },
+  "q62": {
+   "surface": "Aptori",
+   "noul": 0.92
+  },
+  "q63": {
+   "surface": "Modern",
+   "noul": 0.1
+  },
+  "q64": {
+   "surface": "Conflict",
+   "noul": 0.21
+  },
+  "q65": {
+   "surface": "Existential",
+   "noul": 0.37
+  },
+  "q66": {
+   "surface": "Dread",
+   "noul": 0.44
+  },
+  "q67": {
+   "surface": "Therapy",
+   "noul": 0.24
+  },
+  "q68": {
+   "surface": "Group",
+   "noul": 0.28
+  },
+  "q69": {
+   "surface": "DC",
+   "noul": 0.55
+  }
+ }
+}

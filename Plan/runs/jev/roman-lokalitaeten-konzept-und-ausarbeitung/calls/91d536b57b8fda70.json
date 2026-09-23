@@ -1,0 +1,337 @@
+{
+ "key": "91d536b57b8fda70",
+ "model": "jev-1.13.0",
+ "seconds": 1.45,
+ "input_tokens": 15282,
+ "output_tokens": 1434,
+ "window": [
+  50,
+  89
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L050| \nL051| Die Metapher der unterschiedlichen \"Spielertypen\" 23 lässt sich auf Kaels Alter-Persönlichkeiten übertragen. Einige Alters könnten als 'Entdecker' (Suche nach Verständnis, wie Limina), 'Leistungsorientierte' (Verfolgung interner Ziele), 'Sozialisierer' (Fokus auf interne Beziehungen) oder sogar als störende oder defensive 'Killer' (wie Nox oder Aspekte von Cerberus' Domäne) agieren. Ihre Interaktion mit den Umgebungen der Kern-Welten könnte diese zugrundeliegenden Motivationen widerspiegeln und so eine zusätzliche Ebene der Charakterisierung durch Setting-Interaktion ermöglichen \\[Kontext: 565-1183\\].\nL052| \nL053| ### **D. Räumliche Darstellung Abstrakter Konzepte: Visualisierung des Immateriellen**\nL054| \nL055| Abstrakte Konzepte wie Zeit, Emotionen, Macht oder Daten werden oft räumlich repräsentiert, beispielsweise durch horizontale oder vertikale Achsen, geometrische Formen oder andere visuelle Metaphern.34 Forschung deutet darauf hin, dass der Raum als kognitives \"Gerüst\" (Scaffold) dienen kann, um das Erlernen und Verallgemeinern abstrakter Konzepte zu erleichtern.34 In der Kunst werden Positiv- und Negativraum, Formensprache und Komposition genutzt, um abstrakte Ideen zu vermitteln.36 Der Minimalismus etwa verwendet einfache geometrische Formen und deren räumliche Beziehungen, um Essenz und Reinheit zu thematisieren.38 Eine spezifische Ästhetik bietet die Glitch Art, die Datenkorruption, Fehler und digitale Entropie visualisiert und aus Fehlfunktionen eine eigene Bildsprache entwickelt.39\nL056| \nL057| Diese Ansätze sind entscheidend für die Gestaltung der Überwelt (Visualisierung von Datenströmen, AEGIS-Funktionen) und für die Darstellung abstrakter Konzepte wie Entropie, Kohärenz, Systemintegrität oder psychologischer Zustände in den Kern-Welten. Die 'Risse' als Manifestation von Entropie sind prädestiniert für eine Visualisierung mittels Glitch-Ästhetik oder Konzepten des digitalen Verfalls.\nL058| \nL059| Die Darstellung der abstrakten Funktionen von AEGIS (z.B. Entropie-Management, Gatekeeping) sollte über reine Funktionalität hinausgehen und symbolisches Gewicht tragen, das seine wahrgenommene Natur – wohlwollender Wächter oder kontrollierende Instanz – reflektiert.18 Die Architektur von Kontrollräumen, Datenknoten oder Schnittstellen sollte die Ideologie von AEGIS (Ordnung, Integrität) durch Form, Material, Licht und möglicherweise Farbe verkörpern.\nL060| \nL061| Die Ästhetik des Glitch 39 bietet eine kraftvolle visuelle Sprache für die 'Risse'. Sie können dadurch nicht nur als Verfall, sondern als *Intrusionen chaotischer Informationen* oder *instabile Datenlandschaften* dargestellt werden. Dies visualisiert den Zusammenbruch der Ordnung und deutet möglicherweise auf die Fragilität der Simulation oder verborgene Wahrheiten hin. Die 'Risse' werden so zu dynamischen, symbolisch aufgeladenen Phänomenen, die die Störung des Systems aktiv zeigen.\nL062| \nL063| ### **E. Atmosphäre und Stimmung im Setting: Gefühl durch Ort erzeugen**\nL064| \nL065| Atmosphäre (oder Stimmung) bezeichnet die emotionale Qualität, die durch die Beschreibung eines Settings im Leser oder Spieler hervorgerufen wird.42 Sie ist entscheidend dafür, wie eine Welt wahrgenommen und erlebt wird. Zentrale Techniken zur Schaffung von Atmosphäre umfassen den gezielten Einsatz von Sinnesdetails (Sehen, Hören, Riechen, Fühlen, Schmecken) 21, eine präzise Wortwahl (Diktion), die die gewünschte Emotion transportiert 42, den Einsatz von Licht und Schatten zur Modellierung der Wahrnehmung 42, die Manipulation von Erwartungen an ein Setting (z.B. ein bedrohlicher Sommertag statt eines idyllischen) 21 und die Steuerung des Erzähltempos.47 Sich während des Schreibens ein inspirierendes Bild, Wort oder Geräusch vor Augen zu halten, kann helfen, die atmosphärische Konsistenz zu wahren.43 Der Ton (die Haltung des Erzählers) trägt zur Stimmung bei, ist aber davon zu unterscheiden.44\nL066| \nL067| Für \"Kohärenz Protokoll\" ist die atmosphärische Gestaltung unerlässlich, um die sechs Ebenen und ihre spezifischen Orte unterscheidbar und emotional erfahrbar zu machen. Die Atmosphäre sollte das Thema der jeweiligen Ebene (z.B. sterile Ordnung in der Überwelt, chaotische Erinnerungsfragmente in KW2, beklemmende Kontrolle in KW3) und Kaels emotionale Verfassung an bestimmten Punkten der Handlung widerspiegeln.\nL068| \nL069| Ein entscheidender Faktor hierbei ist das *distinkte sensorische Profil* jeder Realitätsebene. Wie *fühlt* sich Logik in KW1 an? Wie *riecht* sie? Was ist das *Geräusch* von Entropie in einem 'Riss'? Die Definition dieser Details über das Visuelle hinaus ist der Schlüssel zu einer immersiven Atmosphäre.42 Jede Ebene benötigt eine einzigartige Palette an dominanten Sinneseindrücken, charakteristischen Geräuschen, Gerüchen und taktilen Qualitäten, um ihre Eigenständigkeit zu unterstreichen.\nL070| \nL071| Darüber hinaus sollte die Atmosphäre von Orten nicht statisch sein, sondern sich *dynamisch verschieben* können, abhängig von Plot-Ereignissen, der Anwesenheit bestimmter Charaktere (insbesondere Alters oder Wächter) und dem Zustand der Entropie ('Risse').21 Ein vertrauter Ort in KW1 könnte sich anders anfühlen, wenn Kael ängstlich ist, oder wenn sich ein 'Riss' in der Nähe bildet. Diese Dynamik kann durch variierende Sinnesdetails, veränderte Lichtverhältnisse oder angepasste Wortwahl erzielt werden, um den narrativen Moment zu spiegeln.42\nL072| \nL073| ### **F. Reaktive Umgebungen: Welten, die antworten**\nL074| \nL075| Reaktive Umgebungen sind solche, die auf die Anwesenheit oder Aktionen eines Charakters (oder Spielers) reagieren und dadurch die Immersion und das Gefühl der Handlungsfähigkeit (Agency) verstärken.49 Die Reaktionen können von einfachen Interaktionen (sich öffnende Türen, flackernde Lichter) bis zu komplexen dynamischen Systemen reichen, wie sich änderndes Wetter, von Spielerentscheidungen beeinflusstes Verhalten von Nichtspielercharakteren (NPCs) oder zerstörbare Umgebungen.49 Ereignisse in solchen Umgebungen können proaktiv (vom Charakter initiiert), aktiv (als Reaktion auf einen Stimulus) oder reaktiv (als erzwungene Antwort auf ein Ereignis) sein.54 Die Gestaltung von Reaktivität erfordert eine Balance zwischen Charakterfreiheit und narrativer Kontrolle sowie die Berücksichtigung technischer Ressourcen und Performance.52 In interaktiver Fiktion ist es oft wichtig, dass Entscheidungen spürbare Konsequenzen haben.55\nL076| \nL077| Für \"Kohärenz Protokoll\" ist dieses Konzept zentral. Die Kern-Welten als psychische Landschaften sollten inhärent auf Kaels Gedanken, Emotionen und die Präsenz seiner Alters reagieren. Das AEGIS-System selbst ist reaktiv, indem es Entropie managt und auf Abweichungen reagiert. Die 'Risse' sind eine Form der Umgebungsreaktion auf Systemstress oder steigende Entropie. Auch Junas Einfluss könnte sich durch spezifische Umgebungsreaktionen manifestieren.\nL078| \nL079| Die *Art* der Reaktivität sollte sich dabei über die Ebenen hinweg unterscheiden, um deren jeweilige Natur zu unterstreichen.49 Die Reaktivität der Kern-Welten könnte psychologisch und symbolisch sein (Kaels Zustand spiegelnd), während die Reaktivität der Überwelt systemisch und datengesteuert sein könnte (AEGIS' Prozesse reflektierend). Die Reaktivität der Externen Ebene bliebe entsprechend ihrer Natur mysteriös und unvorhersehbar. KW1 könnte logisch reagieren, KW2 emotional, KW3 defensiv, KW4 kreativ und die Überwelt algorithmisch.\nL080| \nL081| Die 'Risse' lassen sich als eine Form *negativer Reaktivität* konzeptualisieren: Die Systemumgebung reagiert *fehlerhaft* oder *chaotisch* auf Stress oder Entropie, bricht ihre eigenen Regeln und erzeugt so narrative Möglichkeiten und Gefahren.39 Sie sind nicht nur passiver Verfall, sondern die Umgebung, die als Reaktion auf nicht verarbeitbare Stimuli \"glitcht\". Dies macht sie zu aktiven, wenn auch dysfunktionalen, Elementen der Welt.\nL082| \nL083| ### **G. Environmental Storytelling: Erzählen durch den Raum**\nL084| \nL085| Environmental Storytelling (EST) ist eine narrative Technik, bei der die Umgebung selbst – durch Objekte, Architektur, Layout, Spuren, Geräusche – genutzt wird, um Geschichte, Hintergrundinformationen, Charakterdetails oder Themen zu vermitteln, ohne auf explizite Erklärungen wie Dialog oder Textbausteine angewiesen zu sein.56 Wichtige Methoden sind das Set Dressing (Platzierung bedeutungsvoller Objekte), Spatial Storytelling (Nutzung von Layout und Architektur zur Führung und Informationsvermittlung), die Integration von Umgebungsrätseln, der Einsatz nonverbaler Hinweise (Licht, Klang) und die Wahrung thematischer Konsistenz.56\nL086| \nL087| EST fördert die Entdeckung durch den Charakter (und damit den Leser) und regt zur Interpretation an.56 Es kann vergangene Ereignisse enthüllen (z.B. Skelette an einem unberührten Mahl 56), Hinweise auf Charaktergewohnheiten geben (hinterlassene Gegenstände) oder die Funktion und Geschichte eines Ortes verdeutlichen (Ruinen, Kampfspuren 59). EST ist am effektivsten, wenn es subtil, emotional resonant und kohärent eingesetzt wird.56 Bekannte Beispiele finden sich in Spielen wie *BioShock*, *The Last of Us*, *Portal* oder *Gone Home*.57\nL088| \nL089| Für \"Kohärenz Protokoll\" ist EST von außerordentlicher Bedeutung, um die Geschichte der Simulation (Post-Reboot-Zustand), die Natur von AEGIS' Kontrolle, Kaels vergangenes Trauma (insbesondere in KW2), die Aktivitäten seiner Alters und den subtilen Einfluss von Juna zu zeigen, ohne sich ausschließlich auf Dialog oder Innensicht verlassen zu müssen. Jedes Lokalitätenprofil sollte potenzielle EST-Elemente berücksichtigen."
+ },
+ "answers": {
+  "q0": {
+   "surface": "Spielertypen",
+   "noul": 0.57
+  },
+  "q1": {
+   "surface": "Einige",
+   "noul": 0.04
+  },
+  "q2": {
+   "surface": "Suche",
+   "noul": 0.08
+  },
+  "q3": {
+   "surface": "Limina",
+   "noul": 0.94
+  },
+  "q4": {
+   "surface": "Verfolgung",
+   "noul": 0.06
+  },
+  "q5": {
+   "surface": "Ziele",
+   "noul": 0.08
+  },
+  "q6": {
+   "surface": "Fokus",
+   "noul": 0.07
+  },
+  "q7": {
+   "surface": "Beziehungen",
+   "noul": 0.08
+  },
+  "q8": {
+   "surface": "Nox",
+   "noul": 0.95
+  },
+  "q9": {
+   "surface": "Motivationen",
+   "noul": 0.08
+  },
+  "q10": {
+   "surface": "Charakterisierung",
+   "noul": 0.1
+  },
+  "q11": {
+   "surface": "Setting-Interaktion",
+   "noul": 0.17
+  },
+  "q12": {
+   "surface": "565-1183",
+   "noul": 0.13
+  },
+  "q13": {
+   "surface": "Räumliche",
+   "noul": 0.05
+  },
+  "q14": {
+   "surface": "Darstellung",
+   "noul": 0.08
+  },
+  "q15": {
+   "surface": "Abstrakter",
+   "noul": 0.07
+  },
+  "q16": {
+   "surface": "Visualisierung",
+   "noul": 0.12
+  },
+  "q17": {
+   "surface": "Immateriellen",
+   "noul": 0.08
+  },
+  "q18": {
+   "surface": "Abstrakte",
+   "noul": 0.08
+  },
+  "q19": {
+   "surface": "Zeit",
+   "noul": 0.27
+  },
+  "q20": {
+   "surface": "Emotionen",
+   "noul": 0.24
+  },
+  "q21": {
+   "surface": "Macht",
+   "noul": 0.16
+  },
+  "q22": {
+   "surface": "Achsen",
+   "noul": 0.12
+  },
+  "q23": {
+   "surface": "Formen",
+   "noul": 0.11
+  },
+  "q24": {
+   "surface": "Metaphern",
+   "noul": 0.15
+  },
+  "q25": {
+   "surface": "Forschung",
+   "noul": 0.07
+  },
+  "q26": {
+   "surface": "Raum",
+   "noul": 0.22
+  },
+  "q27": {
+   "surface": "Gerüst",
+   "noul": 0.48
+  },
+  "q28": {
+   "surface": "Scaffold",
+   "noul": 0.58
+  },
+  "q29": {
+   "surface": "Erlernen",
+   "noul": 0.07
+  },
+  "q30": {
+   "surface": "Verallgemeinern",
+   "noul": 0.08
+  },
+  "q31": {
+   "surface": "In",
+   "noul": 0.07
+  },
+  "q32": {
+   "surface": "Kunst",
+   "noul": 0.37
+  },
+  "q33": {
+   "surface": "Positiv",
+   "noul": 0.15
+  },
+  "q34": {
+   "surface": "Negativraum",
+   "noul": 0.65
+  },
+  "q35": {
+   "surface": "Formensprache",
+   "noul": 0.56
+  },
+  "q36": {
+   "surface": "Komposition",
+   "noul": 0.42
+  },
+  "q37": {
+   "surface": "Ideen",
+   "noul": 0.1
+  },
+  "q38": {
+   "surface": "Der",
+   "noul": 0.08
+  },
+  "q39": {
+   "surface": "Minimalismus",
+   "noul": 0.86
+  },
+  "q40": {
+   "surface": "Essenz",
+   "noul": 0.08
+  },
+  "q41": {
+   "surface": "Reinheit",
+   "noul": 0.12
+  },
+  "q42": {
+   "surface": "Eine",
+   "noul": 0.04
+  },
+  "q43": {
+   "surface": "Ästhetik",
+   "noul": 0.47
+  },
+  "q44": {
+   "surface": "Glitch",
+   "noul": 0.81
+  },
+  "q45": {
+   "surface": "Datenkorruption",
+   "noul": 0.29
+  },
+  "q46": {
+   "surface": "Fehler",
+   "noul": 0.12
+  },
+  "q47": {
+   "surface": "Fehlfunktionen",
+   "noul": 0.09
+  },
+  "q48": {
+   "surface": "Bildsprache",
+   "noul": 0.28
+  },
+  "q49": {
+   "surface": "Ansätze",
+   "noul": 0.09
+  },
+  "q50": {
+   "surface": "Datenströmen",
+   "noul": 0.09
+  },
+  "q51": {
+   "surface": "AEGIS-Funktionen",
+   "noul": 0.5
+  },
+  "q52": {
+   "surface": "Systemintegrität",
+   "noul": 0.24
+  },
+  "q53": {
+   "surface": "Manifestation",
+   "noul": 0.11
+  },
+  "q54": {
+   "surface": "Glitch-Ästhetik",
+   "noul": 0.83
+  },
+  "q55": {
+   "surface": "Verfalls",
+   "noul": 0.09
+  },
+  "q56": {
+   "surface": "Funktionen",
+   "noul": 0.14
+  },
+  "q57": {
+   "surface": "Gatekeeping",
+   "noul": 0.26
+  },
+  "q58": {
+   "surface": "Funktionalität",
+   "noul": 0.08
+  },
+  "q59": {
+   "surface": "Gewicht",
+   "noul": 0.05
+  },
+  "q60": {
+   "surface": "Instanz",
+   "noul": 0.3
+  },
+  "q61": {
+   "surface": "Kontrollräumen",
+   "noul": 0.1
+  },
+  "q62": {
+   "surface": "Datenknoten",
+   "noul": 0.3
+  },
+  "q63": {
+   "surface": "Schnittstellen",
+   "noul": 0.12
+  },
+  "q64": {
+   "surface": "Ideologie",
+   "noul": 0.13
+  },
+  "q65": {
+   "surface": "Form",
+   "noul": 0.09
+  },
+  "q66": {
+   "surface": "Material",
+   "noul": 0.07
+  },
+  "q67": {
+   "surface": "Farbe",
+   "noul": 0.06
+  },
+  "q68": {
+   "surface": "Sprache",
+   "noul": 0.23
+  },
+  "q69": {
+   "surface": "Verfall",
+   "noul": 0.12
+  },
+  "q70": {
+   "surface": "Intrusionen",
+   "noul": 0.11
+  },
+  "q71": {
+   "surface": "Informationen",
+   "noul": 0.09
+  },
+  "q72": {
+   "surface": "Datenlandschaften",
+   "noul": 0.2
+  },
+  "q73": {
+   "surface": "Zusammenbruch",
+   "noul": 0.1
+  },
+  "q74": {
+   "surface": "Fragilität",
+   "noul": 0.08
+  },
+  "q75": {
+   "surface": "Wahrheiten",
+   "noul": 0.07
+  },
+  "q76": {
+   "surface": "Phänomenen",
+   "noul": 0.12
+  },
+  "q77": {
+   "surface": "Störung",
+   "noul": 0.09
+  },
+  "q78": {
+   "surface": "Atmosphäre",
+   "noul": 0.47
+  },
+  "q79": {
+   "surface": "Stimmung",
+   "noul": 0.39
+  }
+ }
+}

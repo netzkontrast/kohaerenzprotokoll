@@ -1,0 +1,337 @@
+{
+ "key": "86855409c0979fba",
+ "model": "jev-1.13.0",
+ "seconds": 1.08,
+ "input_tokens": 15256,
+ "output_tokens": 1434,
+ "window": [
+  570,
+  609
+ ],
+ "state": {
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "lines": "L570| 31. Mastering Containment: A Guide to the Most Critical Phase of Incident Response, Zugriff am Mai 2, 2025, <https://www.reliaquest.com/cyber-knowledge/incident-response-containment/>\nL571| 32. What is Threat Isolation and Containment, and Why is it Important? - Intelligent Technical Solutions, Zugriff am Mai 2, 2025, <https://www.itsasap.com/blog/threat-isolation-containment>\nL572| 33. 7 Methods of Secure Data Sanitization - Human-I-T, Zugriff am Mai 2, 2025, <https://www.human-i-t.org/7-methods-data-sanitization/>\nL573| 34. Media Sanitization and Disposal Best Practices - FSA Partner Connect, Zugriff am Mai 2, 2025, <https://fsapartners.ed.gov/sites/default/files/2023-05/H-445_FSAMediaSan_BestPractices_SK_041423_FINAL.pdf>\nL574| 35. NIST SP 800-88 Guidelines for Media Sanitization Explained - Jetico, Zugriff am Mai 2, 2025, <https://www.jetico.com/blog/nist-sp-800-88-guidelines-media-sanitization-explained>\nL575| 36. 4-OP-H-25.15 IT Data Disposal and Media Sanitization Standard, Zugriff am Mai 2, 2025, <https://its.fsu.edu/cybersecurity/standards/it-data-disposal-and-media-sanitization-standard>\nL576| 37. What is NIST 800-88, and what is meant by Clear, Purge, and Destroy? - SK tes, Zugriff am Mai 2, 2025, <https://www.sktes.com/news/what-is-nist-800-88>\nL577| 38. Memory Erasure and the Objection from Truthfulness - ResearchGate, Zugriff am Mai 2, 2025, <https://www.researchgate.net/publication/364993705_Memory_Erasure_and_the_Objection_from_Truthfulness>\nL578| 39. Changing One's Mind. The Ethics of Memory Erasure in Eternal Sunshine of the Spotless Mind - S&F\\_scienzaefilosofia.it, Zugriff am Mai 2, 2025, <http://www.scienzaefilosofia.com/2018/03/25/changing-ones-mind-the-ethics-of-memory-erasure-in-eternal-sunshine-of-the-spotless-mind/>\nL579| 40. Ethics and Memory - PhilArchive, Zugriff am Mai 2, 2025, <https://philarchive.org/archive/TRAEAM-2>\nL580| 41. Erasing Memories - Neuronline - Society for Neuroscience, Zugriff am Mai 2, 2025, <https://neuronline.sfn.org/professional-development/erasing-memories>\nL581| 42. Neuromodulation and memory: exploring ethical ramifications in memory modification treatment via implantable neurotechnologies - Frontiers, Zugriff am Mai 2, 2025, <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1282634/full>\nL582| 43. The Psychology and Philosophy of Memory, Zugriff am Mai 2, 2025, <https://www.psychologytoday.com/us/blog/hide-and-seek/201806/the-psychology-and-philosophy-memory>\nL583| 44. Censorship and Secrecy, Social and Legal Perspectives - MIT, Zugriff am Mai 2, 2025, <https://web.mit.edu/gtmarx/www/cenandsec.html>\nL584| 45. Quick Guide to Network Contagion in Econ Models - Number Analytics, Zugriff am Mai 2, 2025, <https://www.numberanalytics.com/blog/quick-guide-network-contagion-econ-models>\nL585| 46. Modeling Information Propagation with Survival Theory - Stanford Computer Science, Zugriff am Mai 2, 2025, <https://cs.stanford.edu/people/jure/pubs/survival-icml13.pdf>\nL586| 47. Universality, criticality and complexity of information propagation in social media - PMC, Zugriff am Mai 2, 2025, <https://pmc.ncbi.nlm.nih.gov/articles/PMC8921196/>\nL587| 48. Uncovering the structure and temporal dynamics of information propagation - CS Stanford, Zugriff am Mai 2, 2025, <https://cs.stanford.edu/people/jure/pubs/netrate-netsci14.pdf>\nL588| 49. Distinguishing mechanisms of social contagion from local network view - arXiv, Zugriff am Mai 2, 2025, <https://arxiv.org/html/2406.18519v1>\nL589| 50. Containment - AWS Security Incident Response User Guide, Zugriff am Mai 2, 2025, <https://docs.aws.amazon.com/security-ir/latest/userguide/containment.html>\nL590| 51. Cyber Incident Response: Containment - RiskRecon, Zugriff am Mai 2, 2025, <https://blog.riskrecon.com/cyber-incident-response-containment>\nL591| 52. What are the 6 Phases in a Cyber Incident Response Plan?, Zugriff am Mai 2, 2025, <https://www.cm-alliance.com/cybersecurity-blog/what-are-the-6-phases-in-a-cyber-incident-response-plan>\nL592| 53. NSA'S Top Ten Cybersecurity Mitigation Strategies, Zugriff am Mai 2, 2025, <https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf>\nL593| 54. The Chinese Room Argument (Stanford Encyclopedia of Philosophy/Spring 2010 Edition), Zugriff am Mai 2, 2025, <https://plato.stanford.edu/archIves/spr2010/entries/chinese-room/>\nL594| 55. Hard problem of consciousness - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Hard_problem_of_consciousness>\nL595| 56. Opponent-Model Search in Games with Incomplete Information - AAAI Publications, Zugriff am Mai 2, 2025, <https://ojs.aaai.org/index.php/AAAI/article/view/28844/29606>\nL596| 57. Game theory-based opponent modeling in large imperfect-information games, Zugriff am Mai 2, 2025, <https://www.researchgate.net/publication/221454773_Game_theory-based_opponent_modeling_in_large_imperfect-information_games>\nL597| 58. Key Concepts of Phase Margin to Know for Control Theory - Fiveable, Zugriff am Mai 2, 2025, <https://fiveable.me/lists/key-concepts-of-phase-margin>\nL598| 59. 2.3: System Stability - Engineering LibreTexts, Zugriff am Mai 2, 2025, [https://eng.libretexts.org/Bookshelves/Industrial\\_and\\_Systems\\_Engineering/Introduction\\_to\\_Control\\_Systems\\_(Iqbal)/02%3A\\_Transfer\\_Function\\_Models/2.03%3A\\_System\\_Stability](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Introduction_to_Control_Systems_%28Iqbal%29/02%3A_Transfer_Function_Models/2.03%3A_System_Stability)\nL599| 60. Control Systems – Stability | GeeksforGeeks, Zugriff am Mai 2, 2025, <https://www.geeksforgeeks.org/control-systems-stability/>\nL600| 61. The Concept of Stability | Control Systems 3.1 - CircuitBread, Zugriff am Mai 2, 2025, <https://www.circuitbread.com/tutorials/the-concept-of-stability-3.1>\nL601| 62. Robust Control Theory - Electrical and Computer Engineering, Zugriff am Mai 2, 2025, <https://users.ece.cmu.edu/~koopman/des_s99/control_theory/>\nL602| 63. Stability theory - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Stability_theory>\nL603| 64. Thinking outside the box: 3 creative ways to exploit business logic vulnerabilities in pentests, Zugriff am Mai 2, 2025, <https://pentest-tools.com/blog/business-logic-vulnerabilities-pentests>\nL604| 65. The 2025 In-Depth Guide to OWASP Top 10 Vulnerabilities & How to Prevent Them - Jit.io, Zugriff am Mai 2, 2025, <https://www.jit.io/resources/security-standards/the-in-depth-guide-to-owasps-top-10-vulnerabilities>\nL605| 66. Real-World Examples for OWASP Top 10 Vulnerabilities - CyberDB, Zugriff am Mai 2, 2025, <https://www.cyberdb.co/real-world-examples-for-owasp-top-10-vulnerabilities/>\nL606| 67. OWASP Top 10 Vulnerabilities - Veracode, Zugriff am Mai 2, 2025, <https://www.veracode.com/security/owasp-top-10/>\nL607| 68. Understanding Business Logic Vulnerabilities - The Biggest API Security Risk - Aptori, Zugriff am Mai 2, 2025, <https://aptori.dev/blog/understanding-business-logic-vulnerabilities-the-biggest-api-security-risk>\nL608| 69. Modern Study of Conflict Games with Game Theory - Number Analytics, Zugriff am Mai 2, 2025, <https://www.numberanalytics.com/blog/modern-study-conflict-games-game-theory>\nL609| 70. The Psychology of Existential Dread - Therapy Group of DC, Zugriff am Mai 2, 2025, <https://therapygroupdc.com/therapist-dc-blog/the-psychology-of-existential-dread/>"
+ },
+ "answers": {
+  "q0": {
+   "surface": "Mastering",
+   "noul": 0.25
+  },
+  "q1": {
+   "surface": "Containment",
+   "noul": 0.52
+  },
+  "q2": {
+   "surface": "Most",
+   "noul": 0.07
+  },
+  "q3": {
+   "surface": "Critical",
+   "noul": 0.1
+  },
+  "q4": {
+   "surface": "Phase",
+   "noul": 0.27
+  },
+  "q5": {
+   "surface": "Incident",
+   "noul": 0.28
+  },
+  "q6": {
+   "surface": "Response",
+   "noul": 0.28
+  },
+  "q7": {
+   "surface": "Why",
+   "noul": 0.05
+  },
+  "q8": {
+   "surface": "Important",
+   "noul": 0.07
+  },
+  "q9": {
+   "surface": "Intelligent",
+   "noul": 0.46
+  },
+  "q10": {
+   "surface": "Technical",
+   "noul": 0.35
+  },
+  "q11": {
+   "surface": "Solutions",
+   "noul": 0.65
+  },
+  "q12": {
+   "surface": "Secure",
+   "noul": 0.08
+  },
+  "q13": {
+   "surface": "Human-I-T",
+   "noul": 0.9
+  },
+  "q14": {
+   "surface": "7-methods-data-sanitization",
+   "noul": 0.73
+  },
+  "q15": {
+   "surface": "Media",
+   "noul": 0.37
+  },
+  "q16": {
+   "surface": "Disposal",
+   "noul": 0.33
+  },
+  "q17": {
+   "surface": "FSA",
+   "noul": 0.84
+  },
+  "q18": {
+   "surface": "Partner",
+   "noul": 0.63
+  },
+  "q19": {
+   "surface": "Connect",
+   "noul": 0.69
+  },
+  "q20": {
+   "surface": "2023-05/H-445_FSAMediaSan_BestPractices_SK_041423_FINAL",
+   "noul": 0.72
+  },
+  "q21": {
+   "surface": "NIST",
+   "noul": 0.94
+  },
+  "q22": {
+   "surface": "SP",
+   "noul": 0.63
+  },
+  "q23": {
+   "surface": "800-88",
+   "noul": 0.94
+  },
+  "q24": {
+   "surface": "Guidelines",
+   "noul": 0.5
+  },
+  "q25": {
+   "surface": "Explained",
+   "noul": 0.08
+  },
+  "q26": {
+   "surface": "Jetico",
+   "noul": 0.91
+  },
+  "q27": {
+   "surface": "4-OP-H-25",
+   "noul": 0.86
+  },
+  "q28": {
+   "surface": "IT",
+   "noul": 0.37
+  },
+  "q29": {
+   "surface": "Standard",
+   "noul": 0.65
+  },
+  "q30": {
+   "surface": "SK",
+   "noul": 0.79
+  },
+  "q31": {
+   "surface": "Memory",
+   "noul": 0.45
+  },
+  "q32": {
+   "surface": "Objection",
+   "noul": 0.43
+  },
+  "q33": {
+   "surface": "Truthfulness",
+   "noul": 0.49
+  },
+  "q34": {
+   "surface": "364993705_Memory_Erasure_and_the_Objection_from_Truthfulness",
+   "noul": 0.89
+  },
+  "q35": {
+   "surface": "Changing",
+   "noul": 0.15
+  },
+  "q36": {
+   "surface": "One",
+   "noul": 0.11
+  },
+  "q37": {
+   "surface": "Mind",
+   "noul": 0.34
+  },
+  "q38": {
+   "surface": "The",
+   "noul": 0.11
+  },
+  "q39": {
+   "surface": "Ethics",
+   "noul": 0.35
+  },
+  "q40": {
+   "surface": "Eternal",
+   "noul": 0.56
+  },
+  "q41": {
+   "surface": "Sunshine",
+   "noul": 0.81
+  },
+  "q42": {
+   "surface": "Spotless",
+   "noul": 0.75
+  },
+  "q43": {
+   "surface": "2018/03/25/changing-ones-mind-the-ethics-of-memory-erasure-in-eternal-sunshine-of-the-spotless-mind",
+   "noul": 0.74
+  },
+  "q44": {
+   "surface": "PhilArchive",
+   "noul": 0.9
+  },
+  "q45": {
+   "surface": "TRAEAM-2",
+   "noul": 0.86
+  },
+  "q46": {
+   "surface": "Erasing",
+   "noul": 0.48
+  },
+  "q47": {
+   "surface": "Memories",
+   "noul": 0.26
+  },
+  "q48": {
+   "surface": "Neuronline",
+   "noul": 0.91
+  },
+  "q49": {
+   "surface": "Society",
+   "noul": 0.66
+  },
+  "q50": {
+   "surface": "Neuroscience",
+   "noul": 0.61
+  },
+  "q51": {
+   "surface": "Neuromodulation",
+   "noul": 0.75
+  },
+  "q52": {
+   "surface": "Frontiers",
+   "noul": 0.86
+  },
+  "q53": {
+   "surface": "3389/fpsyg",
+   "noul": 0.14
+  },
+  "q54": {
+   "surface": "1282634/full",
+   "noul": 0.18
+  },
+  "q55": {
+   "surface": "Psychology",
+   "noul": 0.56
+  },
+  "q56": {
+   "surface": "201806/the-psychology-and-philosophy-memory",
+   "noul": 0.63
+  },
+  "q57": {
+   "surface": "Censorship",
+   "noul": 0.78
+  },
+  "q58": {
+   "surface": "Secrecy",
+   "noul": 0.62
+  },
+  "q59": {
+   "surface": "Social",
+   "noul": 0.2
+  },
+  "q60": {
+   "surface": "Legal",
+   "noul": 0.23
+  },
+  "q61": {
+   "surface": "Perspectives",
+   "noul": 0.27
+  },
+  "q62": {
+   "surface": "MIT",
+   "noul": 0.92
+  },
+  "q63": {
+   "surface": "Quick",
+   "noul": 0.09
+  },
+  "q64": {
+   "surface": "Network",
+   "noul": 0.18
+  },
+  "q65": {
+   "surface": "Contagion",
+   "noul": 0.29
+  },
+  "q66": {
+   "surface": "Econ",
+   "noul": 0.13
+  },
+  "q67": {
+   "surface": "Number",
+   "noul": 0.53
+  },
+  "q68": {
+   "surface": "Modeling",
+   "noul": 0.43
+  },
+  "q69": {
+   "surface": "Propagation",
+   "noul": 0.27
+  },
+  "q70": {
+   "surface": "Survival",
+   "noul": 0.61
+  },
+  "q71": {
+   "surface": "Theory",
+   "noul": 0.59
+  },
+  "q72": {
+   "surface": "Stanford",
+   "noul": 0.88
+  },
+  "q73": {
+   "surface": "Computer",
+   "noul": 0.39
+  },
+  "q74": {
+   "surface": "Science",
+   "noul": 0.14
+  },
+  "q75": {
+   "surface": "Universality",
+   "noul": 0.28
+  },
+  "q76": {
+   "surface": "PMC",
+   "noul": 0.66
+  },
+  "q77": {
+   "surface": "PMC8921196",
+   "noul": 0.62
+  },
+  "q78": {
+   "surface": "Uncovering",
+   "noul": 0.36
+  },
+  "q79": {
+   "surface": "CS",
+   "noul": 0.56
+  }
+ }
+}

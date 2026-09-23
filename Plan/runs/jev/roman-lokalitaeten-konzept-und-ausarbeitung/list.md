@@ -1,0 +1,104 @@
+written_by: script candidates + jev-1.13.0 Noul per candidate, via scripts/jev_entities.py
+source: roman-lokalitaeten-konzept-und-ausarbeitung
+lines: 630
+
+- Neuromancer  ^[L45]  · p=0.98 n=7
+- AEGIS-System  ^[L77]  · p=0.98 n=2
+- Silent Hill 2 (Videospiel, 2001)  ^[L137]  · p=0.98 n=1
+- Neuromancer (Roman, 1984)  ^[L138]  · p=0.98 n=1
+- Westworld (TV-Serie, 2016-)  ^[L139]  · p=0.98 n=1
+- Vergessener Schrein (Trauma-Lokus)  ^[L198]  · p=0.98 n=1
+- Kaels Wohneinheit 1.0 (KW1)  ^[L256]  · p=0.98 n=1
+- AEGIS  ^[L21]  · p=0.97 n=42
+- Mnemosyne  ^[L35]  · p=0.97 n=19
+- Inception  ^[L33]  · p=0.97 n=7
+- Westworld  ^[L45]  · p=0.97 n=6
+- Borges  ^[L337]  · p=0.97 n=2
+- Inception (Film, 2010)  ^[L136]  · p=0.97 n=1
+- Transitkorridor Delta  ^[L189]  · p=0.97 n=1
+- Liminas Reflektionskammer  ^[L196]  · p=0.97 n=1
+- Pfad der Fragmentierten Erinnerung  ^[L200]  · p=0.97 n=1
+- Archiv des Ungesagten  ^[L201]  · p=0.97 n=1
+- Galerie der Falschen Erinnerungen  ^[L202]  · p=0.97 n=1
+- Echo's Resonanzraum  ^[L203]  · p=0.97 n=1
+- Mnemosynes Gedächtnispalast  ^[L205]  · p=0.97 n=1
+- Fluss des Vergessens (Lethe-Strom)  ^[L206]  · p=0.97 n=1
+- Werkstatt der Schöpfung  ^[L220]  · p=0.97 n=1
+- Turm der Voraussicht  ^[L221]  · p=0.97 n=1
+- Garten der Stillen Präsenz  ^[L238]  · p=0.97 n=1
+- Hain der Gegensätze  ^[L242]  · p=0.97 n=1
+- Vergessener Schrein (Trauma-Lokus) (KW2)  ^[L307]  · p=0.97 n=1
+- Archiv des Ungesagten (KW2)  ^[L324]  · p=0.97 n=1
+- Schleuse 7 (Kontrollpunkt) (KW3)  ^[L375]  · p=0.97 n=1
+- Labyrinth der Paranoia (KW3)  ^[L392]  · p=0.97 n=1
+- Garten der Möglichkeiten (KW4)  ^[L426]  · p=0.97 n=1
+- Datenfriedhof (Überwelt)  ^[L494]  · p=0.97 n=1
+- Kael  ^[L47]  · p=0.96 n=71
+- KW2  ^[L35]  · p=0.96 n=28
+- Juna  ^[L89]  · p=0.96 n=22
+- KW1  ^[L35]  · p=0.96 n=21
+- Cerberus  ^[L35]  · p=0.96 n=19
+- LogOS  ^[L35]  · p=0.96 n=18
+- KW4  ^[L35]  · p=0.96 n=18
+- Echo  ^[L173]  · p=0.96 n=10
+- James  ^[L137]  · p=0.96 n=4
+- Entropie-Ausgleichs-Kammer  ^[L229]  · p=0.96 n=3
+- Datenfriedhof  ^[L230]  · p=0.96 n=3
+- Sunderland  ^[L137]  · p=0.96 n=2
+- LogOS/AEGIS  ^[L260]  · p=0.96 n=2
+- AEGIS-Überwelt  ^[L49]  · p=0.96 n=1
+- BioShock  ^[L87]  · p=0.96 n=1
+- Portal  ^[L87]  · p=0.96 n=1
+- Überwelt (Domäne: AEGIS)  ^[L176]  · p=0.96 n=1
+- Kaels Wohneinheit 1.0  ^[L187]  · p=0.96 n=1
+- Datenverarbeitungsknoten 7G  ^[L188]  · p=0.96 n=1
+- Therapie-Schnittstelle Alpha  ^[L190]  · p=0.96 n=1
+- LogOS' Kern-Bibliothek  ^[L191]  · p=0.96 n=1
+- Archiv der Konsistenten Fakten  ^[L194]  · p=0.96 n=1
+- Die Leere Menge (Null-Raum)  ^[L195]  · p=0.96 n=1
+- See der Tränen  ^[L199]  · p=0.96 n=1
+- Narbenfelder  ^[L204]  · p=0.96 n=1
+- Die Narbenfelder  ^[L204]  · p=0.96 n=1
+- Die Große Mauer (Systemgrenze)  ^[L208]  · p=0.96 n=1
+- Schleuse 7 (Kontrollpunkt)  ^[L209]  · p=0.96 n=1
+- Nox' Schattenversteck  ^[L210]  · p=0.96 n=1
+- Der Innere Bunker  ^[L211]  · p=0.96 n=1
+- Arena der Inneren Konflikte  ^[L212]  · p=0.96 n=1
+- Labyrinth der Paranoia  ^[L213]  · p=0.96 n=1
+- Die Zensurkammer  ^[L215]  · p=0.96 n=1
+- \*\*Kern-Welt 4 (Kairos/Sophia)\*\  ^[L217]  · p=0.96 n=1
+- Garten der Möglichkeiten  ^[L219]  · p=0.96 n=1
+- Forum des Dialogs  ^[L224]  · p=0.96 n=1
+- \*\*Überwelt (AEGIS)\*\  ^[L226]  · p=0.96 n=1
+- Quarantäne-Zone 7  ^[L231]  · p=0.96 n=1
+- Quelle des Flüsterns  ^[L239]  · p=0.96 n=1
+- Junas Geheime Schnittstelle  ^[L241]  · p=0.96 n=1
+- Gattaca  ^[L269]  · p=0.96 n=1
+- Datenverarbeitungsknoten 7G (KW1)  ^[L273]  · p=0.96 n=1
+- Therapie-Schnittstelle Alpha (KW1)  ^[L290]  · p=0.96 n=1
+- Galerie der Falschen Erinnerungen (KW2)  ^[L341]  · p=0.96 n=1
+- Die Große Mauer (Systemgrenze) (KW3)  ^[L358]  · p=0.96 n=1
+- Trainingsraum der Alters (KW4)  ^[L443]  · p=0.96 n=1
+- Entropie-Ausgleichs-Kammer (Überwelt)  ^[L477]  · p=0.96 n=1
+- Junas Ankerpunkt (Externe Ebene)  ^[L511]  · p=0.96 n=1
+- Camus  ^[L565]  · p=0.96 n=1
+- Bernard  ^[L573]  · p=0.96 n=1
+- Perron  ^[L573]  · p=0.96 n=1
+- Pearce  ^[L585]  · p=0.96 n=1
+- Elvia  ^[L630]  · p=0.96 n=1
+- KW3  ^[L35]  · p=0.95 n=23
+- Nox  ^[L51]  · p=0.95 n=10
+- Cyberspace  ^[L45]  · p=0.95 n=3
+- Nexus-Interface  ^[L218]  · p=0.95 n=3
+- Mnemosynes  ^[L153]  · p=0.95 n=2
+- Kommunikations-Hub  ^[L232]  · p=0.95 n=2
+- Wächter-Registry  ^[L233]  · p=0.95 n=2
+- Externe Ebene (Verbindung: Juna)  ^[L177]  · p=0.95 n=1
+- Sektor der Rekursiven Logik  ^[L192]  · p=0.95 n=1
+- Platz der Definierten Regeln  ^[L193]  · p=0.95 n=1
+- Zensurkammer  ^[L215]  · p=0.95 n=1
+- Feld der Abwehrmechanismen  ^[L216]  · p=0.95 n=1
+- Brücke zur Integration  ^[L222]  · p=0.95 n=1
+- Trainingsraum der Alters  ^[L225]  · p=0.95 n=1
+- Der Riss im System  ^[L237]  · p=0.95 n=1
+- Das Unkartierte Territorium  ^[L240]  · p=0.95 n=1

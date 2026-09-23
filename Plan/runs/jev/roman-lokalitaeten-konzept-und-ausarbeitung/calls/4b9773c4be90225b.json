@@ -1,0 +1,117 @@
+{
+ "key": "4b9773c4be90225b",
+ "model": "jev-1.13.0",
+ "seconds": 0.64,
+ "input_tokens": 6186,
+ "output_tokens": 444,
+ "window": [
+  450,
+  489
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L450|   - **Symbolik:** Symbolisiert die bewusste Anstrengung zur Integration und Kooperation innerhalb des DID-Systems. Ein neutraler Boden, auf dem verschiedene Teile des Selbst lernen können, zusammenzuarbeiten.\nL451|   - **Regeln/Logik:** Der Raum reagiert auf die Intentionen der anwesenden Alters. Er kann Simulationen oder Szenarien generieren. Direkte Konflikte könnten gedämpft oder in konstruktive Bahnen gelenkt werden. Kommunikation wird erleichtert.\nL452|   - **Atmosphäre/Mood:** Konzentriert, konstruktiv, sicher, potenziell herausfordernd (je nach Übung). Gefühl von Teamarbeit und gemeinsamem Ziel. Kann auch angespannt sein, wenn Alters mit Konflikten konfrontiert werden.\nL453|   - **Landmarken/Key Features:** Zentrale Projektionsfläche oder Simulationsbereich, Kommunikationsinterfaces, Werkzeuge zur Visualisierung von Beziehungen oder Plänen, Beobachtungsbereich (für Kael oder einen moderierenden Alter wie Limina?).\nL454|   - **Risse/Entropie Manifestations:** Simulationen werden fehlerhaft oder gefährlich. Kommunikationskanäle werden gestört. Negative Emotionen oder Konflikte aus anderen Welten dringen ein. Der Raum verliert seine Neutralität oder Sicherheit.\nL455|   - **Charakter/Plot Link:** Kael und seine Kern-Alters (Limina, Echo, Nox, Orakel/Muse etc.). Ein Ort, an dem Kael aktiv versucht, sein inneres System zu verstehen und zu koordinieren, möglicherweise als Vorbereitung auf größere Herausforderungen.\nL456|   - **Design Inspirations:** Holodeck (*Star Trek*), Trainingssimulatoren, Proberäume, Werkstätten, Whiteboards/Kollaborationstools.\nL457| \nL458| **(Überwelt: AEGIS)**\nL459| \nL460| 1.  **Der Große System-Monitor (Überwelt)**\nL461| \nL462| <!-- end list -->\nL463| \nL464|   - **Konzept/Zweck:** Eine zentrale Visualisierung des Gesamtzustands des Systems (alle 6 Ebenen). Dient AEGIS und den Wächtern zur Überwachung der Systemintegrität, Entropielevel und potenzieller Anomalien (wie Kael oder Juna).\nL465|   - **Ästhetik/Visualisierung:** Immens, abstrakt, datenbasiert. Könnte eine riesige, sphärische Projektion sein oder ein komplexes Netzwerk aus Lichtlinien und Knotenpunkten in einem riesigen, dunklen Raum. Visualisiert Datenströme, Energielevel, Entropie-Hotspots in Echtzeit. Klare, kühle Farben (Blau, Grün, Weiß für Normalzustand; Rot, Gelb für Warnungen).\nL466|   - **Sensorik:** Leises, konstantes Summen der Datenverarbeitung. Kühle, künstliche Luft. Gefühl von unermesslicher Komplexität und totaler Überwachung. Keine natürlichen Gerüche.\nL467|   - **Symbolik:** Verkörpert AEGIS' Allwissenheit (oder den Anspruch darauf) und seine Kontrollfunktion. Die Abstraktion der Darstellung symbolisiert die Distanz des Systems zu den individuellen Erfahrungen in den Kern-Welten.\nL468|   - **Regeln/Logik:** Zeigt aggregierte und spezifische Systemdaten an. Reagiert auf Abfragen der Wächter/AEGIS. Kann zoomen, analysieren, prognostizieren. Unterliegt selbst der Systemlogik und kann theoretisch auch Fehler anzeigen oder selbst fehlerhaft sein.\nL469|   - **Atmosphäre/Mood:** Kühl, analytisch, überwältigend, distanziert. Gefühl von Macht und Kontrolle (seitens AEGIS), aber auch von potenzieller Bedrohung (wenn Anomalien angezeigt werden). Keine menschliche Wärme.\nL470|   - **Landmarken/Key Features:** Die zentrale Visualisierungseinheit, Kontrollkonsolen für die Wächter, spezifische Anzeigen für jede Kern-Welt und die Externe Ebene, Entropie-Indikatoren.\nL471|   - **Risse/Entropie Manifestations:** Falsche Anzeigen, \"tote Pixel\" oder Datenlücken in der Visualisierung. Glitches oder Artefakte in der Darstellung.39 Unfähigkeit, bestimmte Anomalien (Juna?) korrekt darzustellen oder zu lokalisieren. Systemwarnungen, die sich widersprechen.\nL472|   - **Charakter/Plot Link:** AEGIS, LogOS, Mnemosyne, Cerberus, Kairos/Sophia (als Nutzer/Beobachter). Ort, an dem die Wächter Kaels Fortschritt oder die Ausbreitung der 'Risse' beobachten und ihre Strategien planen. Kael selbst hat hier normalerweise keinen Zugang.\nL473|   - **Design Inspirations:** Kontrollräume (NASA, Militär), Datenvisualisierungs-Kunst, Interface-Design aus Sci-Fi (*Minority Report*, *Tron*), Darstellungen von globalen Netzwerken.\nL474| \nL475| <!-- end list -->\nL476| \nL477| 1.  **Entropie-Ausgleichs-Kammer (Überwelt)**\nL478| \nL479| <!-- end list -->\nL480| \nL481|   - **Konzept/Zweck:** Ein hypothetischer Ort oder Prozess innerhalb der Überwelt, an dem AEGIS aktiv versucht, die systemische Entropie zu managen, zu kanalisieren, zu neutralisieren oder umzuwandeln, um die Ordnung aufrechtzuerhalten.\nL482|   - **Ästhetik/Visualisierung:** Hochtechnologisch, prozessorientiert. Könnte wie ein riesiger Teilchenbeschleuniger, ein Fusionsreaktor oder eine komplexe Filteranlage wirken. Visualisierungen von Energieflüssen, Zustandsänderungen. Verwendung von Licht und geometrischen Formen, um den Prozess darzustellen. Möglicherweise gefährlich wirkend.\nL483|   - **Sensorik:** Lautes Brummen oder Pulsieren von Energie. Starke Hitze oder Kälte in bestimmten Zonen. Geruch nach Ozon oder verbrannter Energie. Gefühl von immenser, kaum kontrollierter Kraft. Vibrationen.\nL484|   - **Symbolik:** Verkörpert AEGIS' Kernfunktion des Entropie-Managements und den ständigen Kampf gegen den Zerfall. Symbol für die (vielleicht vergebliche) Anstrengung, perfekte Ordnung zu erzwingen.\nL485|   - **Regeln/Logik:** Unterliegt komplexen physikalischen/systemischen Gesetzen, die von AEGIS definiert wurden. Der Prozess ist energieintensiv und potenziell instabil. Fehlfunktionen hier hätten katastrophale Folgen für das gesamte System.\nL486|   - **Atmosphäre/Mood:** Intensiv, gefährlich, mächtig, angespannt. Gefühl von kontrolliertem Chaos oder einem ständig drohenden Dammbruch. Ehrfurcht vor der Technologie, aber auch Furcht.\nL487|   - **Landmarken/Key Features:** Der zentrale Reaktionskern, Zu- und Ableitungen für Energie/Entropie, Kontrollstationen, Notfallsysteme.\nL488|   - **Risse/Entropie Manifestations:** Der Ort selbst ist die Manifestation des Umgangs mit Entropie. Risse hier wären katastrophal: unkontrollierte Entladungen, Kernschmelze (metaphorisch), Ausbruch von roher Entropie, die das System flutet. Glitches in den Kontrollsystemen.40\nL489|   - **Charakter/Plot Link:** AEGIS (als Betreiber). Ein Ort von strategischer Bedeutung für das System. Ein potenzielles Ziel für Sabotage oder ein Ort, an dem Kael/Juna die Natur der Entropie direkt erfahren könnten, falls sie Zugang fänden."
+ },
+ "answers": {
+  "q0": {
+   "surface": "Lautes",
+   "noul": 0.02
+  },
+  "q1": {
+   "surface": "Pulsieren",
+   "noul": 0.04
+  },
+  "q2": {
+   "surface": "Hitze",
+   "noul": 0.04
+  },
+  "q3": {
+   "surface": "Vibrationen",
+   "noul": 0.05
+  },
+  "q4": {
+   "surface": "Kernfunktion",
+   "noul": 0.1
+  },
+  "q5": {
+   "surface": "Entropie-Managements",
+   "noul": 0.21
+  },
+  "q6": {
+   "surface": "Kampf",
+   "noul": 0.05
+  },
+  "q7": {
+   "surface": "Folgen",
+   "noul": 0.04
+  },
+  "q8": {
+   "surface": "Intensiv",
+   "noul": 0.03
+  },
+  "q9": {
+   "surface": "Dammbruch",
+   "noul": 0.09
+  },
+  "q10": {
+   "surface": "Ehrfurcht",
+   "noul": 0.04
+  },
+  "q11": {
+   "surface": "Technologie",
+   "noul": 0.1
+  },
+  "q12": {
+   "surface": "Reaktionskern",
+   "noul": 0.42
+  },
+  "q13": {
+   "surface": "Ableitungen",
+   "noul": 0.1
+  },
+  "q14": {
+   "surface": "Energie/Entropie",
+   "noul": 0.21
+  },
+  "q15": {
+   "surface": "Kontrollstationen",
+   "noul": 0.16
+  },
+  "q16": {
+   "surface": "Notfallsysteme",
+   "noul": 0.17
+  },
+  "q17": {
+   "surface": "Umgangs",
+   "noul": 0.06
+  },
+  "q18": {
+   "surface": "Entladungen",
+   "noul": 0.11
+  },
+  "q19": {
+   "surface": "Kernschmelze",
+   "noul": 0.16
+  },
+  "q20": {
+   "surface": "Ausbruch",
+   "noul": 0.09
+  },
+  "q21": {
+   "surface": "Kontrollsystemen",
+   "noul": 0.1
+  },
+  "q22": {
+   "surface": "Betreiber",
+   "noul": 0.11
+  },
+  "q23": {
+   "surface": "Sabotage",
+   "noul": 0.07
+  },
+  "q24": {
+   "surface": "Kael/Juna",
+   "noul": 0.65
+  }
+ }
+}

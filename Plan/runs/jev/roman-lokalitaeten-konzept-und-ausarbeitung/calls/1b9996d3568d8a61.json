@@ -1,0 +1,337 @@
+{
+ "key": "1b9996d3568d8a61",
+ "model": "jev-1.13.0",
+ "seconds": 0.8,
+ "input_tokens": 14498,
+ "output_tokens": 1434,
+ "window": [
+  250,
+  289
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L250| Dieser Abschnitt enthält die detaillierten Profile für ca. 30 der wichtigsten oder konzeptuell interessantesten Lokalitäten aus der Master-Liste (Teil III). Die Auswahl priorisiert Orte, die im Plot von Teil 1 eine zentrale Rolle spielen, die Vielfalt der sechs Realitätsebenen repräsentieren und die Anwendung der in Teil I und II diskutierten Konzepte ermöglichen. Jedes Profil folgt der in Teil II.A definierten Struktur und synthetisiert Informationen aus den bereitgestellten Kontextdokumenten sowie den Rechercheergebnissen.\nL251| \nL252| ### **Profile nach Realitätsebene**\nL253| \nL254| **(Kern-Welt 1: LogOS)**\nL255| \nL256| 1.  **Kaels Wohneinheit 1.0 (KW1)**\nL257| \nL258| <!-- end list -->\nL259| \nL260|   - **Konzept/Zweck:** Der primäre Ankerpunkt für Kael nach dem Reboot. Dient als Ort des scheinbar normalen Alltags, der Ruhe und der ersten aufkeimenden Zweifel und Wahrnehmungsstörungen. Symbolisiert die von LogOS/AEGIS etablierte (trügerische) Grundordnung.\nL261|   - **Ästhetik/Visualisierung:** Minimalistisch, funktional, klare Linien, gedämpfte Farben (Grau-, Weiß-, Blautöne). Architektur folgt strengen geometrischen Prinzipien, möglicherweise modular. Wenig persönliche Gegenstände, alles wirkt standardisiert und austauschbar. Beleuchtung ist gleichmäßig, fast schattenlos, künstlich. Fenster zeigen eine geordnete, aber sterile Außenwelt (Stadtlandschaft von KW1).\nL262|   - **Sensorik:** Akustisch gedämpft, leises Summen der Systeme im Hintergrund. Geruch neutral, steril, vielleicht nach gereinigter Luft. Oberflächen glatt, kühl, synthetisch. Gefühl von kontrollierter Temperatur und Luftfeuchtigkeit.\nL263|   - **Symbolik:** Verkörpert die rationale, entemotionalisierte Ordnung von LogOS. Die Standardisierung symbolisiert den Verlust von Individualität im System. Die aufkommenden Störungen ('Risse') hier sind besonders beunruhigend, da sie die Grundfesten von Kaels wahrgenommener Realität erschüttern.\nL264|   - **Regeln/Logik:** Unterliegt den allgemeinen Systemregeln von KW1 (Logik, Kausalität). Objekte funktionieren erwartungsgemäß, bis 'Risse' auftreten. Privatsphäre ist relativ, Überwachung durch das System ist latent vorhanden.\nL265|   - **Atmosphäre/Mood:** Anfänglich ruhig, geordnet, fast beruhigend in seiner Vorhersehbarkeit. Entwickelt sich zu steril, unpersönlich, leicht beklemmend. Mit zunehmenden Zweifeln Kaels und ersten 'Rissen' wird die Atmosphäre unheimlich, die Ordnung brüchig.\nL266|   - **Landmarken/Key Features:** Standardisiertes Bettmodul, Interaktionskonsole (für Kommunikation/Information), Nahrungsdispenser, Fenster mit Blick auf KW1-Stadtbild, eine auffällig leere Wand (potenzieller Ort für Projektionen/Risse).\nL267|   - **Risse/Entropie Manifestations:** Subtil beginnend: Flackern des Lichts, kurzzeitige visuelle Verzerrungen an Wänden (Glitch-Ästhetik 39), unerklärliche Geräusche, Objekte, die kurzzeitig ihre Position ändern oder nicht funktionieren. Später vielleicht deutlicher: Texturfehler, logische Paradoxien im Raum.\nL268|   - **Charakter/Plot Link:** Kael (Hauptbewohner), Limina (als ordnender Einfluss, vielleicht unbewusst). Ort von Kaels Erwachen nach dem Reboot, seiner täglichen Routine, erster Selbstbeobachtung und dem Beginn seiner Verwirrung \\[1260-1270\\]. Ort erster subtiler 'Risse'.\nL269|   - **Design Inspirations:** Minimalistische Architektur 38, funktionale Designprinzipien, vielleicht Anklänge an sterile Zukunftsvisionen oder kontrollierte Umgebungen in Filmen wie *Gattaca*.\nL270| \nL271| <!-- end list -->\nL272| \nL273| 1.  **Datenverarbeitungsknoten 7G (KW1)**\nL274| \nL275| <!-- end list -->\nL276| \nL277|   - **Konzept/Zweck:** Kaels zugewiesener Arbeitsplatz. Ort der monotonen, systemerhaltenden Tätigkeit (Datenverarbeitung/-analyse im Sinne von LogOS). Symbolisiert die Funktionalität und Produktivität innerhalb des Systems, aber auch die Entfremdung der Arbeit.\nL278|   - **Ästhetik/Visualisierung:** Großraum-Arbeitsbereich, Reihen identischer Konsolen/Arbeitsstationen. Architektur betont Effizienz und Datenfluss (sichtbare Lichtleiterbahnen?). Farbpalette ähnlich der Wohneinheit, aber vielleicht noch kühler, bläulicher. Beleuchtung funktional, blendfrei. Screens dominieren, zeigen abstrakte Datenmuster.\nL279|   - **Sensorik:** Konstantes, leises Summen und Klicken der Maschinen. Klimatisierte, geruchsneutrale Luft. Ergonomische, aber harte Stühle/Konsolen. Gefühl von permanenter Überwachung und Effizienzdruck.\nL280|   - **Symbolik:** Repräsentiert die Unterordnung des Individuums unter die Systemlogik. Die Datenströme symbolisieren die Informationskontrolle durch LogOS/AEGIS. Anomalien hier deuten auf tiefere Systemprobleme hin.\nL281|   - **Regeln/Logik:** Strenge Arbeitsplatzregeln, Effizienzvorgaben. Datenintegrität ist oberstes Gebot. Abweichungen werden protokolliert. Kommunikation ist zweckgebunden.\nL282|   - **Atmosphäre/Mood:** Monoton, konzentriert, unpersönlich, leicht repressiv. Gefühl von ständiger Beobachtung. Potenzial für Stress bei Systemfehlern oder Anomalien.\nL283|   - **Landmarken/Key Features:** Kaels persönliche Konsole, zentrale Überwachungsmonitore, sichtbare Datenleitungen, Pausen-/Sozialbereich (falls vorhanden, ebenfalls steril).\nL284|   - **Risse/Entropie Manifestations:** Datenfehler auf den Screens (Glitches, falsche Logik 40), Systemabstürze, flackernde Anzeigen, unerklärliche Latenzen, vielleicht auditive Störungen (verzerrte Systemansagen).\nL285|   - **Charakter/Plot Link:** Kael (Arbeiter), LogOS (als Systemverwalter). Ort von Kaels täglicher Arbeit, wo er erstmals auf systemische Anomalien ('Risse' in den Daten) stößt, die seine Zweifel nähren \\[1271-1280\\].\nL286|   - **Design Inspirations:** Großraumbüros, Serverfarmen, Kontrollzentren, Visualisierungen von Datennetzwerken.28\nL287| \nL288| <!-- end list -->\nL289| "
+ },
+ "answers": {
+  "q0": {
+   "surface": "Rolle",
+   "noul": 0.06
+  },
+  "q1": {
+   "surface": "Vielfalt",
+   "noul": 0.05
+  },
+  "q2": {
+   "surface": "Kontextdokumenten",
+   "noul": 0.11
+  },
+  "q3": {
+   "surface": "Profile nach Realitätsebene",
+   "noul": 0.09
+  },
+  "q4": {
+   "surface": "(Kern-Welt 1: LogOS)",
+   "noul": 0.92
+  },
+  "q5": {
+   "surface": "Kaels Wohneinheit 1.0 (KW1)",
+   "noul": 0.98
+  },
+  "q6": {
+   "surface": "Dient",
+   "noul": 0.03
+  },
+  "q7": {
+   "surface": "Ruhe",
+   "noul": 0.05
+  },
+  "q8": {
+   "surface": "Wahrnehmungsstörungen",
+   "noul": 0.11
+  },
+  "q9": {
+   "surface": "Symbolisiert",
+   "noul": 0.09
+  },
+  "q10": {
+   "surface": "LogOS/AEGIS",
+   "noul": 0.96
+  },
+  "q11": {
+   "surface": "Grundordnung",
+   "noul": 0.18
+  },
+  "q12": {
+   "surface": "Minimalistisch",
+   "noul": 0.06
+  },
+  "q13": {
+   "surface": "Linien",
+   "noul": 0.05
+  },
+  "q14": {
+   "surface": "Farben",
+   "noul": 0.04
+  },
+  "q15": {
+   "surface": "Grau",
+   "noul": 0.04
+  },
+  "q16": {
+   "surface": "Weiß",
+   "noul": 0.04
+  },
+  "q17": {
+   "surface": "Blautöne",
+   "noul": 0.04
+  },
+  "q18": {
+   "surface": "Wenig",
+   "noul": 0.02
+  },
+  "q19": {
+   "surface": "Beleuchtung",
+   "noul": 0.05
+  },
+  "q20": {
+   "surface": "Fenster",
+   "noul": 0.07
+  },
+  "q21": {
+   "surface": "Außenwelt",
+   "noul": 0.1
+  },
+  "q22": {
+   "surface": "Stadtlandschaft",
+   "noul": 0.14
+  },
+  "q23": {
+   "surface": "Akustisch",
+   "noul": 0.03
+  },
+  "q24": {
+   "surface": "Summen",
+   "noul": 0.03
+  },
+  "q25": {
+   "surface": "Systeme",
+   "noul": 0.15
+  },
+  "q26": {
+   "surface": "Hintergrund",
+   "noul": 0.04
+  },
+  "q27": {
+   "surface": "Geruch",
+   "noul": 0.04
+  },
+  "q28": {
+   "surface": "Luft",
+   "noul": 0.04
+  },
+  "q29": {
+   "surface": "Oberflächen",
+   "noul": 0.05
+  },
+  "q30": {
+   "surface": "Temperatur",
+   "noul": 0.05
+  },
+  "q31": {
+   "surface": "Luftfeuchtigkeit",
+   "noul": 0.07
+  },
+  "q32": {
+   "surface": "Verkörpert",
+   "noul": 0.05
+  },
+  "q33": {
+   "surface": "Standardisierung",
+   "noul": 0.1
+  },
+  "q34": {
+   "surface": "Verlust",
+   "noul": 0.06
+  },
+  "q35": {
+   "surface": "Individualität",
+   "noul": 0.09
+  },
+  "q36": {
+   "surface": "Störungen",
+   "noul": 0.19
+  },
+  "q37": {
+   "surface": "Grundfesten",
+   "noul": 0.07
+  },
+  "q38": {
+   "surface": "Unterliegt",
+   "noul": 0.03
+  },
+  "q39": {
+   "surface": "Kausalität",
+   "noul": 0.15
+  },
+  "q40": {
+   "surface": "Privatsphäre",
+   "noul": 0.12
+  },
+  "q41": {
+   "surface": "Atmosphäre/Mood",
+   "noul": 0.05
+  },
+  "q42": {
+   "surface": "Anfänglich",
+   "noul": 0.03
+  },
+  "q43": {
+   "surface": "Vorhersehbarkeit",
+   "noul": 0.05
+  },
+  "q44": {
+   "surface": "Entwickelt",
+   "noul": 0.03
+  },
+  "q45": {
+   "surface": "Mit",
+   "noul": 0.03
+  },
+  "q46": {
+   "surface": "Zweifeln",
+   "noul": 0.06
+  },
+  "q47": {
+   "surface": "Rissen",
+   "noul": 0.43
+  },
+  "q48": {
+   "surface": "Landmarken/Key",
+   "noul": 0.06
+  },
+  "q49": {
+   "surface": "Features",
+   "noul": 0.06
+  },
+  "q50": {
+   "surface": "Standardisiertes",
+   "noul": 0.08
+  },
+  "q51": {
+   "surface": "Bettmodul",
+   "noul": 0.42
+  },
+  "q52": {
+   "surface": "Interaktionskonsole",
+   "noul": 0.52
+  },
+  "q53": {
+   "surface": "Kommunikation/Information",
+   "noul": 0.11
+  },
+  "q54": {
+   "surface": "Nahrungsdispenser",
+   "noul": 0.51
+  },
+  "q55": {
+   "surface": "Blick",
+   "noul": 0.04
+  },
+  "q56": {
+   "surface": "KW1-Stadtbild",
+   "noul": 0.62
+  },
+  "q57": {
+   "surface": "Wand",
+   "noul": 0.07
+  },
+  "q58": {
+   "surface": "Projektionen/Risse",
+   "noul": 0.16
+  },
+  "q59": {
+   "surface": "Landmarken/Key Features",
+   "noul": 0.06
+  },
+  "q60": {
+   "surface": "Risse/Entropie",
+   "noul": 0.27
+  },
+  "q61": {
+   "surface": "Manifestations",
+   "noul": 0.09
+  },
+  "q62": {
+   "surface": "Subtil",
+   "noul": 0.04
+  },
+  "q63": {
+   "surface": "Flackern",
+   "noul": 0.07
+  },
+  "q64": {
+   "surface": "Lichts",
+   "noul": 0.06
+  },
+  "q65": {
+   "surface": "Verzerrungen",
+   "noul": 0.09
+  },
+  "q66": {
+   "surface": "Wänden",
+   "noul": 0.04
+  },
+  "q67": {
+   "surface": "Position",
+   "noul": 0.09
+  },
+  "q68": {
+   "surface": "Später",
+   "noul": 0.03
+  },
+  "q69": {
+   "surface": "Texturfehler",
+   "noul": 0.14
+  },
+  "q70": {
+   "surface": "Paradoxien",
+   "noul": 0.11
+  },
+  "q71": {
+   "surface": "Risse/Entropie Manifestations",
+   "noul": 0.23
+  },
+  "q72": {
+   "surface": "Charakter/Plot",
+   "noul": 0.08
+  },
+  "q73": {
+   "surface": "Link",
+   "noul": 0.06
+  },
+  "q74": {
+   "surface": "Hauptbewohner",
+   "noul": 0.06
+  },
+  "q75": {
+   "surface": "Selbstbeobachtung",
+   "noul": 0.09
+  },
+  "q76": {
+   "surface": "Beginn",
+   "noul": 0.06
+  },
+  "q77": {
+   "surface": "Verwirrung",
+   "noul": 0.06
+  },
+  "q78": {
+   "surface": "1260-1270",
+   "noul": 0.16
+  },
+  "q79": {
+   "surface": "Charakter/Plot Link",
+   "noul": 0.07
+  }
+ }
+}

@@ -171,3 +171,12 @@ TypeSafe's limits allow is in their docs and has not been checked.
   (P5) and can be inspected (`--trace` from the catalogue)
 - repeats with no cache when measuring (P18)
 - `TYPESAFE_API_KEY` from the environment only, never in a file in this repo
+
+## Measured, 2026-09-23 — entity candidates, not one of the placements above
+
+The author approved a test on two documents with a reader's list. The shape was
+the rerank/pre-parsed one: a script lists every candidate span with its line, Jev
+answers one Noul per candidate over its 40-line window. Result: faster than the
+Haiku readers by about 20× and cheaper by about 4×, and worse on both documents
+(F1 0.47 against 0.67, 0.10 against 0.28). Numbers, and what they mean, are in
+`NOW.md`; the calls are recorded under `Plan/runs/jev/`.

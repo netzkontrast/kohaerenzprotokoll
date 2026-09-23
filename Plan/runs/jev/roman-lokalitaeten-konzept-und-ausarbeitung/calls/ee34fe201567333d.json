@@ -1,0 +1,297 @@
+{
+ "key": "ee34fe201567333d",
+ "model": "jev-1.13.0",
+ "seconds": 0.75,
+ "input_tokens": 12735,
+ "output_tokens": 1254,
+ "window": [
+  490,
+  529
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L490|   - **Design Inspirations:** Teilchenbeschleuniger (CERN), Fusionsreaktoren, industrielle Anlagen, Kraftwerke, abstrakte Darstellungen von thermodynamischen Prozessen.\nL491| \nL492| <!-- end list -->\nL493| \nL494| 1.  **Datenfriedhof (Überwelt)**\nL495| \nL496| <!-- end list -->\nL497| \nL498|   - **Konzept/Zweck:** Ein Bereich in der Überwelt, in dem korrumpierte, fragmentierte, gelöschte oder als irrelevant markierte Daten \"abgelagert\" werden. Ein digitales Müllhalde oder Archiv des Vergessenen auf Systemebene.\nL499|   - **Ästhetik/Visualisierung:** Chaotisch, fragmentiert, verfallen (im digitalen Sinne). Könnte wie eine endlose Schrottlandschaft aus zerbrochenen Datenstrukturen wirken, oder wie ein trüber Ozean aus unleserlichem Code. Glitch-Ästhetik 39 dominiert: flackernde Fragmente, fehlerhafte Texturen, Datenmüll. Dunkle, unstrukturierte Umgebung.\nL500|   - **Sensorik:** Kakophonie aus Datenfragmenten: Rauschen, verzerrte Soundschnipsel, statisches Knistern. Gefühl von Leere, Verlust, Verfall. Vielleicht ein \"Geruch\" von Bit-Rot.40 Kalt, unbelebt.\nL501|   - **Symbolik:** Symbolisiert Verlust, Vergessen, die Schattenseiten der Informationsgesellschaft. Der \"Müll\" des Systems. Kann aber auch verborgene Wahrheiten oder vergessene Identitäten enthalten.\nL502|   - **Regeln/Logik:** Keine klare Struktur oder Ordnung. Daten sind instabil und schwer zugänglich. Navigation ist schwierig und potenziell gefährlich (Datenkorruption kann \"ansteckend\" sein). AEGIS meidet diesen Ort möglicherweise oder überwacht ihn nur lose.\nL503|   - **Atmosphäre/Mood:** Trostlos, chaotisch, melancholisch, unheimlich. Gefühl von Endgültigkeit und Verlust, aber auch von verborgenen Geheimnissen.\nL504|   - **Landmarken/Key Features:** Besonders große oder markante Datenwracks (Überreste alter Systeme?), \"Strudel\" oder \"Senken\" aus korrumpierten Daten, vielleicht schwache \"Echos\" von gelöschten Persönlichkeiten oder Ereignissen.\nL505|   - **Risse/Entropie Manifestations:** Dieser Ort IST eine Manifestation von Entropie und Verfall auf Datenebene. Risse könnten hier als besonders aggressive Datenstürme oder als Portale erscheinen, durch die noch mehr Chaos eindringt.\nL506|   - **Charakter/Plot Link:** AEGIS (Verwalter/Verursacher), Kael (könnte hier nach verlorenen Teilen seiner selbst oder der Wahrheit suchen), Juna (könnte hier unbemerkt agieren?). Ein potenzieller Ort für Entdeckungen oder Gefahren abseits der Hauptpfade.\nL507|   - **Design Inspirations:** Müllhalden, Schrottplätze, digitale Kunst zum Thema Verfall und Glitch 40, Unterwasserwracks, Konzepte von \"Bit Rot\".\nL508| \nL509| **(Externe Ebene: Juna)**\nL510| \nL511| 1.  **Junas Ankerpunkt (Externe Ebene)**\nL512| \nL513| <!-- end list -->\nL514| \nL515|   - **Konzept/Zweck:** Ein spezifischer Ort, Zustand oder eine Schnittstelle innerhalb der mysteriösen Externen Ebene, durch den Juna primär mit Kael oder dem System interagiert. Ein Fokuspunkt ihrer Präsenz und ihres Einflusses.\nL516|   - **Ästhetik/Visualisierung:** Kontrastiert stark zur digitalen Ästhetik der Überwelt und möglicherweise auch zu den psychologischen Kern-Welten. Könnte organisch, natürlich, lichtdurchflutet oder im Gegenteil tief und geheimnisvoll wirken. Verwendung von Symbolen, die mit Juna assoziiert sind. Architektur (falls vorhanden) ist nicht-euklidisch oder folgt einer fremden Logik.\nL517|   - **Sensorik:** Gefühl von Präsenz, Ruhe, vielleicht Wärme oder einer sanften Energie. Klänge könnten natürlich (Wind, Wasser) oder subtil melodisch sein. Gerüche könnten organisch (Erde, Pflanzen) oder undefinierbar sein. Gefühl von etwas Uraltem oder fundamental Anderartigem.\nL518|   - **Symbolik:** Verkörpert Junas Natur und ihre Verbindung zum Externen. Ein Leuchtfeuer des Anderen innerhalb oder außerhalb des Systems. Symbol für Hoffnung, Mysterium oder eine alternative Form der Existenz/Kohärenz.\nL519|   - **Regeln/Logik:** Unterliegt nicht den Regeln von AEGIS oder der bekannten Physik/Psychologie. Die Logik ist fremd, möglicherweise intuitiv oder emotional basiert. Interaktion könnte nonverbal oder telepathisch erfolgen.\nL520|   - **Atmosphäre/Mood:** Mysteriös, ruhig, andersartig, potenziell tröstlich oder Ehrfurcht gebietend. Gefühl von Sicherheit (im Kontrast zum System) oder von tiefem Unbekannten.\nL521|   - **Landmarken/Key Features:** Ein zentrales Symbol oder eine Struktur, die Juna repräsentiert (ein Baum? Ein Lichtquelle? Ein Brunnen?), Portale oder Verbindungen zu Kael, Spuren ihrer Aktivität.\nL522|   - **Risse/Entropie Manifestations:** Unklar, ob Entropie hier auf dieselbe Weise wirkt. Störungen könnten eher als Verzerrungen der Verbindung oder als Einbrüche der AEGIS-Realität erscheinen. Der Ankerpunkt selbst könnte ein \"Riss\" aus Sicht des Systems sein.\nL523|   - **Charakter/Plot Link:** Juna (ihr \"Zuhause\" oder primärer Interaktionspunkt), Kael (empfängt hier Botschaften oder sucht Verbindung). Ein Schlüsselort für die Entwicklung der Beziehung Kael/Juna und das Verständnis der Externen Ebene.\nL524|   - **Design Inspirations:** Naturlandschaften, heilige Haine, mystische Orte aus Folklore, surreale Kunst, Darstellungen von alternativen Dimensionen oder Bewusstseinsebenen.\nL525| \nL526| <!-- end list -->\nL527| \nL528| 1.  **Garten der Stillen Präsenz (Externe Ebene)**\nL529| "
+ },
+ "answers": {
+  "q0": {
+   "surface": "CERN",
+   "noul": 0.92
+  },
+  "q1": {
+   "surface": "Fusionsreaktoren",
+   "noul": 0.65
+  },
+  "q2": {
+   "surface": "Anlagen",
+   "noul": 0.1
+  },
+  "q3": {
+   "surface": "Kraftwerke",
+   "noul": 0.23
+  },
+  "q4": {
+   "surface": "Datenfriedhof (Überwelt)",
+   "noul": 0.97
+  },
+  "q5": {
+   "surface": "Müllhalde",
+   "noul": 0.17
+  },
+  "q6": {
+   "surface": "Systemebene",
+   "noul": 0.21
+  },
+  "q7": {
+   "surface": "Chaotisch",
+   "noul": 0.04
+  },
+  "q8": {
+   "surface": "Schrottlandschaft",
+   "noul": 0.09
+  },
+  "q9": {
+   "surface": "Ozean",
+   "noul": 0.07
+  },
+  "q10": {
+   "surface": "Code",
+   "noul": 0.13
+  },
+  "q11": {
+   "surface": "Datenmüll",
+   "noul": 0.14
+  },
+  "q12": {
+   "surface": "Kakophonie",
+   "noul": 0.08
+  },
+  "q13": {
+   "surface": "Datenfragmenten",
+   "noul": 0.1
+  },
+  "q14": {
+   "surface": "Rauschen",
+   "noul": 0.07
+  },
+  "q15": {
+   "surface": "Soundschnipsel",
+   "noul": 0.09
+  },
+  "q16": {
+   "surface": "Knistern",
+   "noul": 0.05
+  },
+  "q17": {
+   "surface": "Bit-Rot",
+   "noul": 0.69
+  },
+  "q18": {
+   "surface": "Kalt",
+   "noul": 0.04
+  },
+  "q19": {
+   "surface": "Vergessen",
+   "noul": 0.12
+  },
+  "q20": {
+   "surface": "Schattenseiten",
+   "noul": 0.07
+  },
+  "q21": {
+   "surface": "Informationsgesellschaft",
+   "noul": 0.41
+  },
+  "q22": {
+   "surface": "Müll",
+   "noul": 0.15
+  },
+  "q23": {
+   "surface": "Identitäten",
+   "noul": 0.08
+  },
+  "q24": {
+   "surface": "Trostlos",
+   "noul": 0.04
+  },
+  "q25": {
+   "surface": "Endgültigkeit",
+   "noul": 0.06
+  },
+  "q26": {
+   "surface": "Geheimnissen",
+   "noul": 0.05
+  },
+  "q27": {
+   "surface": "Besonders",
+   "noul": 0.04
+  },
+  "q28": {
+   "surface": "Datenwracks",
+   "noul": 0.24
+  },
+  "q29": {
+   "surface": "Strudel",
+   "noul": 0.29
+  },
+  "q30": {
+   "surface": "Senken",
+   "noul": 0.25
+  },
+  "q31": {
+   "surface": "Persönlichkeiten",
+   "noul": 0.08
+  },
+  "q32": {
+   "surface": "IST",
+   "noul": 0.04
+  },
+  "q33": {
+   "surface": "Datenebene",
+   "noul": 0.28
+  },
+  "q34": {
+   "surface": "Datenstürme",
+   "noul": 0.39
+  },
+  "q35": {
+   "surface": "Verwalter/Verursacher",
+   "noul": 0.31
+  },
+  "q36": {
+   "surface": "Entdeckungen",
+   "noul": 0.05
+  },
+  "q37": {
+   "surface": "Hauptpfade",
+   "noul": 0.12
+  },
+  "q38": {
+   "surface": "Müllhalden",
+   "noul": 0.13
+  },
+  "q39": {
+   "surface": "Schrottplätze",
+   "noul": 0.16
+  },
+  "q40": {
+   "surface": "Unterwasserwracks",
+   "noul": 0.17
+  },
+  "q41": {
+   "surface": "Bit",
+   "noul": 0.37
+  },
+  "q42": {
+   "surface": "(Externe Ebene: Juna)",
+   "noul": 0.71
+  },
+  "q43": {
+   "surface": "Junas Ankerpunkt (Externe Ebene)",
+   "noul": 0.96
+  },
+  "q44": {
+   "surface": "Einflusses",
+   "noul": 0.05
+  },
+  "q45": {
+   "surface": "Kontrastiert",
+   "noul": 0.03
+  },
+  "q46": {
+   "surface": "Symbolen",
+   "noul": 0.05
+  },
+  "q47": {
+   "surface": "Uraltem",
+   "noul": 0.05
+  },
+  "q48": {
+   "surface": "Anderartigem",
+   "noul": 0.08
+  },
+  "q49": {
+   "surface": "Leuchtfeuer",
+   "noul": 0.09
+  },
+  "q50": {
+   "surface": "Anderen",
+   "noul": 0.18
+  },
+  "q51": {
+   "surface": "Existenz/Kohärenz",
+   "noul": 0.1
+  },
+  "q52": {
+   "surface": "Physik/Psychologie",
+   "noul": 0.16
+  },
+  "q53": {
+   "surface": "Mysteriös",
+   "noul": 0.03
+  },
+  "q54": {
+   "surface": "Unbekannten",
+   "noul": 0.06
+  },
+  "q55": {
+   "surface": "Baum",
+   "noul": 0.08
+  },
+  "q56": {
+   "surface": "Lichtquelle",
+   "noul": 0.08
+  },
+  "q57": {
+   "surface": "Aktivität",
+   "noul": 0.06
+  },
+  "q58": {
+   "surface": "Unklar",
+   "noul": 0.03
+  },
+  "q59": {
+   "surface": "AEGIS-Realität",
+   "noul": 0.82
+  },
+  "q60": {
+   "surface": "Sicht",
+   "noul": 0.09
+  },
+  "q61": {
+   "surface": "Zuhause",
+   "noul": 0.12
+  },
+  "q62": {
+   "surface": "Interaktionspunkt",
+   "noul": 0.13
+  },
+  "q63": {
+   "surface": "Botschaften",
+   "noul": 0.05
+  },
+  "q64": {
+   "surface": "Schlüsselort",
+   "noul": 0.09
+  },
+  "q65": {
+   "surface": "Naturlandschaften",
+   "noul": 0.07
+  },
+  "q66": {
+   "surface": "Haine",
+   "noul": 0.09
+  },
+  "q67": {
+   "surface": "Folklore",
+   "noul": 0.1
+  },
+  "q68": {
+   "surface": "Dimensionen",
+   "noul": 0.1
+  },
+  "q69": {
+   "surface": "Bewusstseinsebenen",
+   "noul": 0.15
+  }
+ }
+}

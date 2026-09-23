@@ -164,7 +164,8 @@ r.usage.input_tokens        # output tokens were priced at 0 in every cookbook
 
 ## In this repository
 
-**Nothing calls Jev yet.** Where it may go is reasoned in
+**One test calls Jev:** `scripts/jev_entities.py`, entity candidates on two
+documents, measured in `NOW.md`. Nothing in the pipeline does. Where it may go is reasoned in
 `Plan/concept/jev-in-ingestion_2026-09-23.md`; this skill does not restate it
 (P6). Four things hold regardless:
 

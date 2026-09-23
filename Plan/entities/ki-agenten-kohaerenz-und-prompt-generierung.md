@@ -1,92 +1,92 @@
-written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow
+written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow (revision 2)
 source: ki-agenten-kohaerenz-und-prompt-generierung
 lines: 368
 
-- Das Kohärenz-Protokoll  ^[L13]  · concept
+- Kohärenz-Protokoll  ^[L24]  · concept
 - Large Language Models (LLMs)  ^[L22]  · technology
-- Working Memory / Arbeitsgedächtnis  ^[L22]  · concept
-- Kontextfenster  ^[L34]  · concept
-- Retrieval-Augmented Generation (RAG)  ^[L65]  · technology
-- Knowledge Graph  ^[L115]  · technology
-- Knowledge Graph-gestützte RAG (KG-RAG)  ^[L121]  · technology
-- Zettelkasten-Methode  ^[L125]  · method
+- Meta-Prompt  ^[L24]  · concept
+- Knowledge Graph  ^[L121]  · system
+- Maps of Content (MOCs)  ^[L149]  · concept
+- Zettelkasten  ^[L129]  · method
+- Kontextfenster  ^[L22]  · concept
+- Konstitutionelle KI  ^[L175]  · concept
+- Meta-Prompting  ^[L195]  · technology
+- Retrieval-Augmented Generation (RAG)  ^[L119]  · technology
 - Niklas Luhmann  ^[L129]  · person
-- Maps of Content (MOCs)  ^[L138]  · concept
-- Konstitutionelle KI  ^[L163]  · concept
 - Anthropic  ^[L175]  · organisation
-- Meta-Prompting  ^[L191]  · technique
 - Transformer  ^[L42]  · technology
-- Token  ^[L42]  · concept
+- Working Memory (Arbeitsgedächtnis)  ^[L38]  · concept
 - Halluzinationen  ^[L57]  · concept
-- Lost-in-the-Middle-Phänomen  ^[L56]  · concept
+- Prompt Engineering  ^[L303]  · technology
+- Multi-Agenten-Architektur  ^[L248]  · system
+- Analyzer_Agent  ^[L264]  · system
+- Synthesizer_Agent  ^[L265]  · system
+- Generator_Integrator_Agent  ^[L266]  · system
+- Prioritizer_Agent  ^[L263]  · system
+- Orchestrator  ^[L267]  · system
 - Logische Inkonsistenz  ^[L54]  · concept
 - Kontextamnesie  ^[L48]  · concept
-- Model Context Protocol (MCP)  ^[L213]  · technology
-- Meta-Prompt  ^[L91]  · system
-- Autonome Agenten  ^[L30]  · concept
-- Wissensagenten  ^[L30]  · concept
-- Meta-kognitive Fähigkeit  ^[L91]  · concept
+- Hierarchische Abstraktion  ^[L153]  · concept
+- Atomizität  ^[L131]  · principle
+- Emergente Struktur  ^[L133]  · principle
+- Bottom-up-Verbindungen  ^[L133]  · concept
+- Navigations-Kortex  ^[L137]  · concept
+- KG-RAG  ^[L121]  · technology
 - Selbst-Evaluation  ^[L245]  · process
-- Prompt-Generierung  ^[L246]  · process
-- Framework für Kritisches Denken  ^[L244]  · method
-- Reinforcement Learning from AI Feedback (RLAIF)  ^[L245]  · technique
-- MOC_Tender-Agent  ^[L222]  · agent
-- Multi-Agenten-Architektur  ^[L248]  · system
-- atomare Notizen  ^[L131]  · concept
-- Zettel  ^[L129]  · concept
-- Wissensbasen  ^[L64]  · concept
-- Verfassung des Agenten  ^[L171]  · concept
-- Kognitive Direktive  ^[L244]  · concept
-- Mandat zur Selbst-Evaluation  ^[L245]  · concept
 - Mandat zur Prompt-Generierung  ^[L246]  · concept
-- Inferenz  ^[L42]  · concept
-- Prompt Engineering  ^[L301]  · technique
-- Human-in-the-Loop-Ansatz  ^[L303]  · concept
-- Agent-on-the-Loop  ^[L303]  · concept
-- digitaler Gärtner  ^[L283]  · concept
-- Wissens-Kultivator  ^[L279]  · concept
-- Emergente Kohärenz  ^[L289]  · concept
-- tiefes Verständnis  ^[L289]  · concept
-- Autonomie der Methode  ^[L300]  · concept
-- prozedurale Selbstverbesserung  ^[L301]  · concept
-- Paradigmenwechsel  ^[L26]  · concept
-- Fehlermustern  ^[L52]  · concept
+- Modularität  ^[L248]  · concept
+- Wartbarkeit  ^[L248]  · concept
+- Skalierbarkeit  ^[L248]  · concept
 - Vergessen von Erkenntnissen  ^[L55]  · concept
-- Kumulatives Lernen  ^[L55]  · concept
-- Trainingsdaten  ^[L57]  · concept
+- Meta-Notizen  ^[L149]  · concept
+- Model Context Protocol  ^[L213]  · system
+- Wissenserwerb  ^[L229]  · concept
+- Systemanweisung  ^[L229]  · concept
+- Quantencomputing  ^[L157]  · concept
+- Kontext-Kapselung  ^[L220]  · concept
+- Selbst-Optimierung  ^[L181]  · concept
+- Ko-Evolution  ^[L197]  · concept
+- Wert-Aufwand-Matrix  ^[L263]  · concept
+- Hyperlinks  ^[L132]  · concept
+- Agenten-Psychologie  ^[L336]  · concept
+- _INDEX.md  ^[L217]  · concept
+- Selbst-Kritik  ^[L185]  · concept
+- Kognitive Direktive  ^[L244]  · concept
+- Verifizierbarkeit  ^[L337]  · concept
+- Transparenz  ^[L337]  · concept
+- RLAIF  ^[L245]  · technology
+- Beziehungen  ^[L132]  · concept
+- Langzeitgedächtnis  ^[L321]  · concept
+- Dilemma des Kontextfensters  ^[L38]  · concept
+- digitaler Gärtner  ^[L283]  · concept
+- Konsistenz  ^[L54]  · concept
+- Verankerung  ^[L57]  · concept
+- Human-in-the-Loop  ^[L303]  · concept
+- Agent-on-the-Loop  ^[L303]  · concept
+- Denkprozess  ^[L77]  · concept
 - Schlussfolgerungen  ^[L54]  · concept
-- kognitive Kohärenz  ^[L44]  · concept
-- Brute-Force-Methode  ^[L44]  · technique
+- Fehlermustern  ^[L52]  · concept
+- Framework für Kritisches Denken  ^[L264]  · concept
+- Verfassung  ^[L95]  · concept
+- MOC_Tender-Agent  ^[L285]  · system
+- Lost-in-the-Middle-Phänomen  ^[L56]  · concept
+- Maschinenlesbar  ^[L24]  · concept
+- Tools  ^[L266]  · system
+- Autonome Agenten  ^[L22]  · concept
+- Externe Wissensbasis  ^[L111]  · system
+- Wissensgraph  ^[L321]  · system
+- Inhaltsverzeichnis  ^[L159]  · concept
+- Iterative Anwendung  ^[L293]  · concept
+- Kognitive Autonomie  ^[L301]  · concept
+- Qualitatives Sprung  ^[L301]  · concept
+- Dynamisches Ökosystem  ^[L283]  · concept
+- Evolutionäre Zyklus  ^[L197]  · concept
+- Trainingsdaten  ^[L57]  · concept
+- Speicherkapazität  ^[L22]  · concept
+- Token  ^[L42]  · concept
 - Architektonische Beschränkung  ^[L22]  · concept
 - Formale Spezifikation  ^[L83]  · concept
-- Exekutivsystem  ^[L87]  · system
-- regelbasierte Operationen  ^[L87]  · concept
-- Atomizität  ^[L131]  · principle
-- Explizite kontextbezogene Verknüpfung  ^[L132]  · principle
-- Emergente Struktur  ^[L133]  · principle
-- Skalierungsproblem  ^[L142]  · concept
-- Hierarchische Abstraktion  ^[L153]  · concept
-- Index-Notiz  ^[L157]  · concept
-- _INDEX.md  ^[L217]  · file
-- Top-Down Navigation  ^[L159]  · concept
-- kognitive Überlastung  ^[L159]  · concept
-- Selbst-Kritik  ^[L185]  · process
-- Konformität  ^[L185]  · concept
-- Denkprozess  ^[L187]  · concept
-- System-Prompts  ^[L187]  · concept
-- Dynamische Feedback-Schleife  ^[L197]  · system
-- Speicherkapazität  ^[L22]  · concept
-- Kognitive Bandbreite  ^[L42]  · concept
-- Prioritizer_Agent  ^[L263]  · agent
-- Analyzer_Agent  ^[L264]  · agent
-- Synthesizer_Agent  ^[L265]  · agent
-- Generator_Integrator_Agent  ^[L266]  · agent
-- Orchestrator / Main_Agent  ^[L267]  · agent
-- Dilemma des Kontextfensters  ^[L38]  · concept
-- Wissensgraph  ^[L121]  · technology
-- Weiterverarbeitung  ^[L44]  · concept
-- Inkohärenz  ^[L45]  · concept
-- Multimodale Wissensbasen  ^[L335]  · concept
-- Agenten-Psychologie  ^[L336]  · concept
-- Verifizierbarkeit  ^[L337]  · concept
-- explizite regelbasierte Natur  ^[L337]  · concept
+- Regelbasierte Operationen  ^[L87]  · concept
+- Paradigmenwechsel  ^[L26]  · concept
+- Verbindungen  ^[L132]  · concept
+- Implementierungsparadigma  ^[L125]  · concept

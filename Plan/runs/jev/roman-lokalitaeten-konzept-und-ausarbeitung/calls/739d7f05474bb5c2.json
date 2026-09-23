@@ -1,0 +1,337 @@
+{
+ "key": "739d7f05474bb5c2",
+ "model": "jev-1.13.0",
+ "seconds": 0.91,
+ "input_tokens": 14366,
+ "output_tokens": 1434,
+ "window": [
+  370,
+  409
+ ],
+ "state": {
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "lines": "L370|   - **Charakter/Plot Link:** Kael (als derjenige, der die Grenze überwinden will), Cerberus (als Wächter der Mauer), Regel-Exekutor (patrouilliert entlang der Mauer?). Ein zentrales Hindernis in Kaels Reise durch KW3 \\[1335-1376\\].\nL371|   - **Design Inspirations:** Berliner Mauer, Chinesische Mauer, Festungsarchitektur, Gefängnismauern, Grenzanlagen, dystopische Architekturen (*Blade Runner*, *Judge Dredd*).\nL372| \nL373| <!-- end list -->\nL374| \nL375| 1.  **Schleuse 7 (Kontrollpunkt) (KW3)**\nL376| \nL377| <!-- end list -->\nL378| \nL379|   - **Konzept/Zweck:** Einer der wenigen offiziellen Übergänge durch die Große Mauer oder zwischen Sektoren innerhalb von KW3. Dient der Identifikation, Kontrolle und potenziellen Abweisung oder Bestrafung bei Regelverstößen. Ort der direkten Konfrontation mit der Systemautorität.\nL380|   - **Ästhetik/Visualisierung:** Funktional, militärisch, streng. Massive Tore, Scanner, Kontrollkabinen, Waffensysteme. Helles, kaltes Licht. Klare Markierungen und Warnhinweise. Design betont Sicherheit und Kontrolle über Komfort.\nL381|   - **Sensorik:** Laute mechanische Geräusche der Tore und Scanner. Klare, autoritäre Durchsagen. Geruch nach Desinfektionsmittel oder Maschinenöl. Gefühl von Überwachung, Nervosität, potenzieller Gefahr.\nL382|   - **Symbolik:** Verkörpert die bürokratische und repressive Seite der Kontrolle. Ein Nadelöhr, das den Fluss (von Information, Bewegung, Veränderung) reguliert und einschränkt. Symbol für Urteil und Machtausübung.\nL383|   - **Regeln/Logik:** Strikte Identifikations- und Verifikationsprozeduren. Regeln werden rigoros durchgesetzt. Unautorisierter Zugang ist (scheinbar) unmöglich. Abwehrmaßnahmen sind aktiv.\nL384|   - **Atmosphäre/Mood:** Angespannt, bürokratisch, bedrohlich, unpersönlich. Gefühl, ausgeliefert zu sein und geprüft zu werden. Hohe Nervosität bei Annäherung.\nL385|   - **Landmarken/Key Features:** Das Haupttor, Scanner-Arrays, Kontrollraum (sichtbar?), Wartebereich, Zellen für Regelbrecher.\nL386|   - **Risse/Entropie Manifestations:** Fehlfunktionen der Scanner (falsche Identifikation, Ausfall). Tore klemmen oder öffnen/schließen sich unkontrolliert. Widersprüchliche Anweisungen oder Regeln. Kurzzeitiger Ausfall der Überwachungssysteme.\nL387|   - **Charakter/Plot Link:** Kael (muss passieren), Regel-Exekutor (NPC, führt Kontrolle durch), Cerberus (als Systempräsenz). Ein wichtiger Punkt in Kaels Navigation durch KW3, Ort einer potenziellen Konfrontation oder eines Katz-und-Maus-Spiels .\nL388|   - **Design Inspirations:** Grenzübergänge, Flughafensicherheitskontrollen, Gefängnisschleusen, militärische Checkpoints.\nL389| \nL390| <!-- end list -->\nL391| \nL392| 1.  **Labyrinth der Paranoia (KW3)**\nL393| \nL394| <!-- end list -->\nL395| \nL396|   - **Konzept/Zweck:** Ein sich ständig verändernder, desorientierender Bereich in KW3, der darauf ausgelegt ist, Misstrauen, Angst und Paranoia zu maximieren. Dient als psychologische Falle oder Abwehrmechanismus.\nL397|   - **Ästhetik/Visualisierung:** Klaustrophobische Gänge, Sackgassen, sich verschiebende Wände, trügerische Spiegelungen oder Projektionen. Architektur ist instabil und unlogisch. Beleuchtung unregelmäßig, schattenreich, vielleicht flackernd. Visuelle Täuschungen, Echos von Verfolgern.\nL398|   - **Sensorik:** Desorientierende Geräusche: Schritte, Flüstern, plötzliche Stille. Wechselnde Temperaturen. Gefühl, beobachtet oder verfolgt zu werden. Enge, bedrückende Luft. Oberflächen können sich unerwartet ändern (glatt zu rau, fest zu nachgiebig).\nL399|   - **Symbolik:** Verkörpert den Zustand der Paranoia, das Gefühl, gefangen und verfolgt zu sein. Die sich ändernde Struktur symbolisiert die Unzuverlässigkeit der Wahrnehmung in diesem Zustand.\nL400|   - **Regeln/Logik:** Keine feste Geografie. Der Weg wird durch den psychischen Zustand des Durchquerenden beeinflusst (Angst führt tiefer hinein?). Normale Orientierungsmethoden versagen. Zeit kann verzerrt wahrgenommen werden.\nL401|   - **Atmosphäre/Mood:** Hochgradig angespannt, paranoid, verwirrend, beängstigend. Gefühl von Kontrollverlust und ständiger Bedrohung. Klaustrophobisch.\nL402|   - **Landmarken/Key Features:** Gibt es möglicherweise nicht im klassischen Sinne, da alles im Fluss ist. Vielleicht wiederkehrende Trugbilder, Echos oder Fallen. Ein hypothetisches \"Zentrum\" ist schwer oder unmöglich zu erreichen.\nL403|   - **Risse/Entropie Manifestations:** Die Instabilität des Labyrinths selbst ist eine Form von Riss/Entropie. Zusätzlich: Plötzliche Einbrüche von Realitätsfragmenten aus anderen Welten, Auftauchen von feindseligen Entitäten, völliger Zusammenbruch der räumlichen Logik.\nL404|   - **Charakter/Plot Link:** Kael (Erfahrung der Paranoia), Cerberus (als Architekt des Labyrinths), Nox (könnte hier aufblühen oder gefangen sein). Ein zentraler Ort, der Kaels psychischen Zustand in KW3 widerspiegelt und herausfordert \\[1350-1360\\].\nL405|   - **Design Inspirations:** Klassische Labyrinthe und Irrgärten, psychologische Horrorfilme (*The Shining* 48), Escher-Grafiken 13, Alptraum-Logik.\nL406| \nL407| **(Kern-Welt 4: Kairos/Sophia)**\nL408| \nL409| 1.  **Nexus-Interface (KW4)**"
+ },
+ "answers": {
+  "q0": {
+   "surface": "1335-1376",
+   "noul": 0.17
+  },
+  "q1": {
+   "surface": "Berliner",
+   "noul": 0.81
+  },
+  "q2": {
+   "surface": "Chinesische",
+   "noul": 0.76
+  },
+  "q3": {
+   "surface": "Festungsarchitektur",
+   "noul": 0.51
+  },
+  "q4": {
+   "surface": "Gefängnismauern",
+   "noul": 0.34
+  },
+  "q5": {
+   "surface": "Grenzanlagen",
+   "noul": 0.25
+  },
+  "q6": {
+   "surface": "Architekturen",
+   "noul": 0.12
+  },
+  "q7": {
+   "surface": "Blade",
+   "noul": 0.75
+  },
+  "q8": {
+   "surface": "Runner",
+   "noul": 0.75
+  },
+  "q9": {
+   "surface": "Judge",
+   "noul": 0.85
+  },
+  "q10": {
+   "surface": "Dredd",
+   "noul": 0.84
+  },
+  "q11": {
+   "surface": "Schleuse 7 (Kontrollpunkt) (KW3)",
+   "noul": 0.97
+  },
+  "q12": {
+   "surface": "Einer",
+   "noul": 0.07
+  },
+  "q13": {
+   "surface": "Sektoren",
+   "noul": 0.25
+  },
+  "q14": {
+   "surface": "Identifikation",
+   "noul": 0.07
+  },
+  "q15": {
+   "surface": "Abweisung",
+   "noul": 0.06
+  },
+  "q16": {
+   "surface": "Bestrafung",
+   "noul": 0.06
+  },
+  "q17": {
+   "surface": "Regelverstößen",
+   "noul": 0.06
+  },
+  "q18": {
+   "surface": "Systemautorität",
+   "noul": 0.27
+  },
+  "q19": {
+   "surface": "Funktional",
+   "noul": 0.03
+  },
+  "q20": {
+   "surface": "Massive",
+   "noul": 0.03
+  },
+  "q21": {
+   "surface": "Tore",
+   "noul": 0.08
+  },
+  "q22": {
+   "surface": "Scanner",
+   "noul": 0.3
+  },
+  "q23": {
+   "surface": "Kontrollkabinen",
+   "noul": 0.11
+  },
+  "q24": {
+   "surface": "Waffensysteme",
+   "noul": 0.13
+  },
+  "q25": {
+   "surface": "Helles",
+   "noul": 0.03
+  },
+  "q26": {
+   "surface": "Klare",
+   "noul": 0.03
+  },
+  "q27": {
+   "surface": "Markierungen",
+   "noul": 0.05
+  },
+  "q28": {
+   "surface": "Warnhinweise",
+   "noul": 0.05
+  },
+  "q29": {
+   "surface": "Sicherheit",
+   "noul": 0.08
+  },
+  "q30": {
+   "surface": "Komfort",
+   "noul": 0.05
+  },
+  "q31": {
+   "surface": "Laute",
+   "noul": 0.03
+  },
+  "q32": {
+   "surface": "Durchsagen",
+   "noul": 0.05
+  },
+  "q33": {
+   "surface": "Desinfektionsmittel",
+   "noul": 0.06
+  },
+  "q34": {
+   "surface": "Maschinenöl",
+   "noul": 0.07
+  },
+  "q35": {
+   "surface": "Nervosität",
+   "noul": 0.04
+  },
+  "q36": {
+   "surface": "Seite",
+   "noul": 0.04
+  },
+  "q37": {
+   "surface": "Nadelöhr",
+   "noul": 0.1
+  },
+  "q38": {
+   "surface": "Bewegung",
+   "noul": 0.08
+  },
+  "q39": {
+   "surface": "Urteil",
+   "noul": 0.07
+  },
+  "q40": {
+   "surface": "Machtausübung",
+   "noul": 0.09
+  },
+  "q41": {
+   "surface": "Strikte",
+   "noul": 0.03
+  },
+  "q42": {
+   "surface": "Identifikations",
+   "noul": 0.08
+  },
+  "q43": {
+   "surface": "Verifikationsprozeduren",
+   "noul": 0.16
+  },
+  "q44": {
+   "surface": "Unautorisierter",
+   "noul": 0.05
+  },
+  "q45": {
+   "surface": "Abwehrmaßnahmen",
+   "noul": 0.1
+  },
+  "q46": {
+   "surface": "Angespannt",
+   "noul": 0.03
+  },
+  "q47": {
+   "surface": "Annäherung",
+   "noul": 0.04
+  },
+  "q48": {
+   "surface": "Haupttor",
+   "noul": 0.26
+  },
+  "q49": {
+   "surface": "Scanner-Arrays",
+   "noul": 0.41
+  },
+  "q50": {
+   "surface": "Wartebereich",
+   "noul": 0.28
+  },
+  "q51": {
+   "surface": "Zellen",
+   "noul": 0.13
+  },
+  "q52": {
+   "surface": "Regelbrecher",
+   "noul": 0.14
+  },
+  "q53": {
+   "surface": "Ausfall",
+   "noul": 0.09
+  },
+  "q54": {
+   "surface": "Widersprüchliche",
+   "noul": 0.06
+  },
+  "q55": {
+   "surface": "Anweisungen",
+   "noul": 0.08
+  },
+  "q56": {
+   "surface": "Kurzzeitiger",
+   "noul": 0.05
+  },
+  "q57": {
+   "surface": "Überwachungssysteme",
+   "noul": 0.22
+  },
+  "q58": {
+   "surface": "Katz-und-Maus-Spiels",
+   "noul": 0.11
+  },
+  "q59": {
+   "surface": "Grenzübergänge",
+   "noul": 0.19
+  },
+  "q60": {
+   "surface": "Flughafensicherheitskontrollen",
+   "noul": 0.58
+  },
+  "q61": {
+   "surface": "Gefängnisschleusen",
+   "noul": 0.28
+  },
+  "q62": {
+   "surface": "Checkpoints",
+   "noul": 0.16
+  },
+  "q63": {
+   "surface": "Labyrinth der Paranoia (KW3)",
+   "noul": 0.97
+  },
+  "q64": {
+   "surface": "Falle",
+   "noul": 0.12
+  },
+  "q65": {
+   "surface": "Abwehrmechanismus",
+   "noul": 0.1
+  },
+  "q66": {
+   "surface": "Klaustrophobische",
+   "noul": 0.04
+  },
+  "q67": {
+   "surface": "Sackgassen",
+   "noul": 0.09
+  },
+  "q68": {
+   "surface": "Wände",
+   "noul": 0.06
+  },
+  "q69": {
+   "surface": "Spiegelungen",
+   "noul": 0.07
+  },
+  "q70": {
+   "surface": "Täuschungen",
+   "noul": 0.06
+  },
+  "q71": {
+   "surface": "Verfolgern",
+   "noul": 0.06
+  },
+  "q72": {
+   "surface": "Desorientierende",
+   "noul": 0.05
+  },
+  "q73": {
+   "surface": "Schritte",
+   "noul": 0.04
+  },
+  "q74": {
+   "surface": "Wechselnde",
+   "noul": 0.03
+  },
+  "q75": {
+   "surface": "Temperaturen",
+   "noul": 0.04
+  },
+  "q76": {
+   "surface": "Enge",
+   "noul": 0.04
+  },
+  "q77": {
+   "surface": "Unzuverlässigkeit",
+   "noul": 0.07
+  },
+  "q78": {
+   "surface": "Keine",
+   "noul": 0.04
+  },
+  "q79": {
+   "surface": "Durchquerenden",
+   "noul": 0.05
+  }
+ }
+}
