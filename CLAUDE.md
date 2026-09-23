@@ -17,6 +17,25 @@ statement here that is not true of the repository, the statement is the defect �
 fix it in the same change, or delete it. A description that outruns what exists
 is how the previous version of this project failed.
 
+**Then read `NOW.md`.** It is what is open right now — decisions waiting on the
+author, work half-done, what failed — and it is the handover between sessions.
+
+### A fresh container has none of the derived things
+
+A cloud session starts from a clean clone. Everything git-ignored is absent, and
+each has one command that rebuilds it:
+
+| absent at start | rebuild | needed for |
+|---|---|---|
+| `Plan/derived/` | `python3 scripts/derive.py` (about 3s) | `corpus.py`'s index path |
+| `.venv-tools`, `.venv-dspy`, `.venv-dspytools`, `.venv-typesafe` | the commands under *Installing anything* | only the step that names each |
+| qmd, its models and index | `scripts/setup_qmd.sh` | searching; nothing in the pipeline |
+| `jev-decide` | under *Installing anything* | the vendored `jev*` skills in API mode |
+| `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
+
+The standard-library scripts — `state.py`, `quotes.py`, `read.py`,
+`reconcile.py`, `account.py`, `entities.py` — need none of these.
+
 ## Two layers
 
 | layer | what it is | who writes it |
@@ -361,6 +380,41 @@ python3 scripts/qmd_coverage.py # non-zero if a directory is in no collection
 is why coverage is checked rather than remembered. The configuration itself lives
 in the committed `.qmd/index.yml`; **never run `qmd init` here**, it overwrites it.
 
+## Entity lists — a model's reading per document, and a search over all of them
+
+`Plan/entities/<slug>.md` is one model's list of the 50-100 entities it judged
+most important in one document, each citing a file line. They are written by the
+saved workflow `.claude/workflows/entity-lists.js` — one Claude Haiku reader per
+document, blind to every other — and searched by `scripts/entities.py`:
+
+```bash
+python3 scripts/entities.py verify            # does each cited line hold its entity?
+python3 scripts/entities.py matrix            # every verified entity × every document
+python3 scripts/entities.py missing           # used in N+ documents, no wiki page
+python3 scripts/entities.py doc <slug>        # which known entities one document uses
+python3 scripts/entities.py search <entity>   # where, how often, first line
+python3 scripts/entities.py score <slug>      # against a reader's 03-candidates.md
+python3 scripts/entities.py selftest          # token matcher == \bterm\b
+```
+
+**4 <!--state:entities.lists--> lists exist, 0 <!--state:entities.readings--> of
+them pass verification**, and 280 <!--state:entities.rows_verified--> of
+374 <!--state:entities.rows--> rows cite a line that holds the entity. They are
+the pilot, kept as evidence. `NOW.md` has the diagnosis and the next step, and
+the full run over every landed document has not happened.
+
+What they are for — `Plan/concept/entity-lists_2026-09-23.md` has the argument:
+**`missing`** is P10's `MISSING` bucket, measured; **`doc`** is a document's
+entity profile for choosing the next document; **`search`** counts multi-word
+entities across line wraps, which `corpus.py`'s index cannot.
+
+What they may not do: seed a census or a `03-candidates.md`, create a page,
+supply a count (every number comes from the search), or merge two surfaces. A
+list under 90% verified is a reconstruction and `matrix` leaves it out.
+**`entities.py search` counts hyphen compounds and `corpus.py count` does not** —
+`Guardian` is 448 in one and 334 in the other, and both are right about different
+questions.
+
 ## Fetching
 
 The one automated step. Documents are large and the bytes never need to pass
@@ -404,19 +458,51 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
-Three venvs exist, all git-ignored, each for one reason:
+Four venvs are defined, all git-ignored, each for one reason. **None survives a
+container**; each is rebuilt by the commands below when a step needs it:
 
 | venv | python | why |
 |---|---|---|
 | `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
 | `.venv-dspy` | 3.11 | DSPy 3.3.1, for when there is something to train |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
+| `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — nothing calls it yet |
 
 ```bash
 uv venv --python 3.12 .venv-dspytools
 uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools
 DSPYTOOLS_SKILLS_DIR=$PWD/.agents/skills .venv-dspytools/bin/dspytools skills list
 ```
+
+```bash
+uv venv --python 3.11 .venv-typesafe
+uv pip install --python .venv-typesafe/bin/python git+https://github.com/typesafe-ai/typesafe-sdk-python
+```
+
+The key comes from `TYPESAFE_API_KEY` in the environment and is never written to
+a file here. **Every call sends text to a third-party API**, so no corpus text
+goes through it until a person has decided it may —
+`Plan/concept/jev-in-ingestion_2026-09-23.md` has where it may help and where it
+may not.
+`.agents/skills/typesafe` is how to build with it: question wording, composition,
+the limits the TypeSafe cookbooks measured, and the SDK as installed.
+
+**`.claude/skills/jev*` is a vendored third-party collection**, not this project's
+skills: eleven folders copied unchanged from `wuyoscar/jev-skill` tag `v0.2.0`,
+commit `82c01055c80fa96d3e8a1b82132361693b6bf3a1`, MIT. They are real folders in
+`.claude/skills/`, not symlinks into `.agents/skills/`, so `rlm_ingest.py`'s
+`SkillManager` does not render them into its prompt. Their CLI is not in the
+repository and does not survive the container:
+
+```bash
+git clone --depth 1 --branch v0.2.0 https://github.com/wuyoscar/jev-skill /tmp/jev-skill
+uv tool install /tmp/jev-skill            # provides jev-decide; standard library only
+jev-decide setup                          # which key is present — never its value
+```
+
+The route chosen for them is **A, real Jev**. Neither key is set yet; it goes into
+the environment's settings, never into chat or a file here. Every call still
+needs the author's yes before corpus text is sent (see above).
 
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only
 from a person, and they do different halves of it:
@@ -432,7 +518,7 @@ uv venv --python 3.12 .venv-dspytools
 uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools
 ```
 
-`dspy_skills.SkillManager([Path(".agents/skills")])` discovers all three skills
+`dspy_skills.SkillManager([Path(".agents/skills")])` discovers every skill
 here, and `generate_skills_prompt_block(manager)` renders the
 `<available_skills>` block a ReAct agent is given. **That block is built from the
 `description` field and nothing else** — which is why the description is the part

@@ -122,6 +122,33 @@ def _reconciled() -> int:
     return len(list((ROOT / "Plan" / "runs").glob("*/reconcile.json")))
 
 
+# ---------------------------------------------------------------- entities
+
+def _entity_lists() -> list[dict]:
+    import entities
+    return [entities.verify(e) for e in entities.lists()]
+
+
+@measure("entities.lists", "model entity lists in Plan/entities/, one per document")
+def _e_lists() -> int:
+    return len(_entity_lists())
+
+
+@measure("entities.readings", "entity lists whose cited lines hold 90%+ of their rows")
+def _e_readings() -> int:
+    return sum(e["reading"] for e in _entity_lists())
+
+
+@measure("entities.rows", "rows across all entity lists, cited or not")
+def _e_rows() -> int:
+    return sum(e["total"] for e in _entity_lists())
+
+
+@measure("entities.rows_verified", "entity rows whose cited file line contains the entity")
+def _e_rows_verified() -> int:
+    return sum(e["verified"] for e in _entity_lists())
+
+
 # ---------------------------------------------------------------- wiki
 
 @measure("wiki.pages", "pages counted by the derived Wiki/index.json")

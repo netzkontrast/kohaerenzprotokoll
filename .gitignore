@@ -38,3 +38,4 @@ Plan/derived/
 Plan/derived/
 .venv-dspytools/
 .claude/worktrees/
+.venv-typesafe/

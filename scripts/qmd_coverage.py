@@ -36,7 +36,9 @@ ROOT = Path(__file__).resolve().parents[1]
 QMD = ROOT / ".tools-node" / "node_modules" / ".bin" / "qmd"
 
 SKIP = ("Legacy/", ".lit-critic-src/", ".venv", ".tools-node/", "node_modules/",
-        ".qmd/", ".git/", ".cache/")
+        ".qmd/", ".git/", ".cache/",
+        # vendored: wuyoscar/jev-skill v0.2.0, third-party skill text, not corpus
+        ".claude/skills/jev")
 # Stated above, with the measurement that produced the decision.
 KNOWN = {"CLAUDE.md", "NOW.md", "PRINCIPLES.md", "README.md", "Sources/README.md"}
 

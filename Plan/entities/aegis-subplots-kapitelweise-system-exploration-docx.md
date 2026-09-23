@@ -1,0 +1,103 @@
+written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow
+source: aegis-subplots-kapitelweise-system-exploration-docx
+lines: 620
+
+- AEGIS  ^[L13]  · system
+- Kael  ^[L13]  · person
+- LogOS  ^[L47]  · person
+- Kernwelt 1  ^[L21]  · place
+- KW1  ^[L21]  · place
+- Mnemosyne  ^[L120]  · person
+- Cerberus  ^[L133]  · person
+- Entropie  ^[L13]  · concept
+- Alter  ^[L23]  · concept
+- Panoptismus  ^[L23]  · concept
+- Sozialkreditsystem  ^[L23]  · concept
+- TSDP  ^[L34]  · concept
+- Behavioral AI  ^[L36]  · concept
+- Anomalieerkennung  ^[L36]  · concept
+- Regelbasiertes System  ^[L49]  · system
+- Expertensystem  ^[L49]  · system
+- Multi-Agenten-Systeme  ^[L50]  · system
+- MAS  ^[L50]  · system
+- Ubiquitous Computing  ^[L75]  · system
+- Sensornetzwerke  ^[L75]  · system
+- Selbstorganisierte Kritikalität  ^[L88]  · concept
+- SOC  ^[L88]  · concept
+- Fragile Stabilität  ^[L88]  · concept
+- Risse  ^[L99]  · event
+- Kaskadierendes Versagen  ^[L101]  · concept
+- Simulationsfehler  ^[L101]  · concept
+- EP-Intrusion  ^[L60]  · event
+- Datenbereinigungstechniken  ^[L114]  · concept
+- Gedächtnislöschung  ^[L114]  · concept
+- Netzwerk-Ansteckungsmodelle  ^[L127]  · concept
+- Informationseindämmung  ^[L127]  · concept
+- Integration  ^[L125]  · concept
+- Dialektisches Denken  ^[L166]  · concept
+- Emergenz  ^[L166]  · concept
+- Verhaltensmodelle  ^[L178]  · concept
+- Change Point Detection  ^[L179]  · concept
+- Geist in der Maschine  ^[L196]  · concept
+- Deus ex Machina  ^[L196]  · concept
+- Netzwerkarchitektur  ^[L209]  · system
+- Command and Control (C2) Infrastruktur  ^[L209]  · system
+- Regelungstechnik  ^[L221]  · concept
+- Feedback Loops  ^[L221]  · concept
+- Kybernetik  ^[L221]  · concept
+- Homöostase  ^[L221]  · concept
+- Edge-Case-Testing  ^[L248]  · concept
+- Exploit-Entwicklung  ^[L248]  · concept
+- Maschinelles Lernen  ^[L260]  · concept
+- Adaptive Systeme  ^[L260]  · concept
+- Spieltheorie  ^[L260]  · concept
+- Wettrüsten  ^[L260]  · concept
+- Prinzipal-Agent-Problem  ^[L274]  · concept
+- Agentenautonomie  ^[L274]  · concept
+- Informationstheoretische Entropie  ^[L287]  · concept
+- Qualia  ^[L287]  · concept
+- Existenzielle Angst  ^[L287]  · concept
+- Leere  ^[L287]  · concept
+- Gaslighting-Techniken  ^[L339]  · concept
+- Propaganda  ^[L339]  · concept
+- Zensur  ^[L339]  · concept
+- KI-Verhaltensanalyse  ^[L352]  · concept
+- Bedrohungsprognose  ^[L352]  · concept
+- Gegnermodellierung  ^[L352]  · concept
+- Identifizierung von Bedrohungsakteuren  ^[L369]  · concept
+- Risikobewertung  ^[L369]  · concept
+- Psychologische Kriegsführung  ^[L382]  · concept
+- Trauma-Triggern  ^[L382]  · concept
+- Agentenbeschränkungen  ^[L395]  · concept
+- Asymmetrische Kriegsführung  ^[L395]  · concept
+- Defense in Depth  ^[L408]  · concept
+- Eskalation der Gewalt  ^[L408]  · concept
+- System Shock  ^[L408]  · concept
+- Architekten  ^[L413]  · person
+- Umgang mit Out-of-Distribution-Daten  ^[L421]  · concept
+- Externer Netzwerkeinbruch  ^[L421]  · concept
+- Juna/V  ^[L419]  · person
+- Logisches Paradoxon  ^[L235]  · concept
+- Russells Paradoxon  ^[L235]  · concept
+- Lügner-Paradoxon  ^[L235]  · concept
+- Gödels Unvollständigkeitssätze  ^[L235]  · concept
+- Selbstbezügliche Schleifen  ^[L235]  · concept
+- Realitätsformung  ^[L30]  · concept
+- Glitches  ^[L68]  · event
+- Systemkollaps  ^[L473]  · event
+- Cascading Failure  ^[L473]  · event
+- Failsafe-Mechanismus  ^[L473]  · concept
+- Notabschaltung  ^[L473]  · event
+- Nachwirkungen eines Systemschocks  ^[L484]  · concept
+- Erhöhte Entropie  ^[L484]  · concept
+- Gestörte Homöostase  ^[L484]  · concept
+- Resilienz  ^[L499]  · concept
+- Adaptive Reorganisation  ^[L499]  · concept
+- Emergente Ordnung  ^[L499]  · concept
+- Root-Zugriff  ^[L460]  · concept
+- Core Dump  ^[L460]  · concept
+- Simulationshypothese  ^[L312]  · concept
+- Chinesisches Zimmer Argument  ^[L153]  · concept
+- Harte Problem des Bewusstseins  ^[L324]  · concept
+- Philosophischer Zombie  ^[L325]  · concept
+- P-Zombie  ^[L325]  · concept

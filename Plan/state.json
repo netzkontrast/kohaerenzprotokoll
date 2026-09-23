@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-09-23",
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
@@ -13,6 +13,22 @@
     "documents.with_note": {
       "value": 6,
       "how": "files in Sources/notes/"
+    },
+    "entities.lists": {
+      "value": 4,
+      "how": "model entity lists in Plan/entities/, one per document"
+    },
+    "entities.readings": {
+      "value": 0,
+      "how": "entity lists whose cited lines hold 90%+ of their rows"
+    },
+    "entities.rows": {
+      "value": 374,
+      "how": "rows across all entity lists, cited or not"
+    },
+    "entities.rows_verified": {
+      "value": 280,
+      "how": "entity rows whose cited file line contains the entity"
     },
     "judgements.disagree": {
       "value": 0,

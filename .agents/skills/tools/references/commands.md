@@ -50,6 +50,21 @@ python3 scripts/derive.py                        # apply every rule, cached by (
 `corpus.py` answers from the derived index without reading a document.
 `duplicates.py --term` counts a term both ways, over files and over documents.
 
+```bash
+python3 scripts/entities.py verify [<slug> ...]    # a model list's cited lines, 90% or it is a reconstruction
+python3 scripts/entities.py search <entity> [...]  # multi-word, across line wraps, hyphen compounds counted
+python3 scripts/entities.py matrix                 # every verified entity × every document -> Plan/derived/
+python3 scripts/entities.py missing [--min-docs N] # used in N+ documents, folds to no wiki surface
+python3 scripts/entities.py doc <slug>             # the entities one document uses
+python3 scripts/entities.py score <slug>           # against a reader's 03-candidates.md, two difference lists
+python3 scripts/entities.py selftest               # token matcher == \bterm\b
+```
+
+`entities.py` reads `Plan/entities/<slug>.md`, written by the saved workflow
+`.claude/workflows/entity-lists.js`. A list is a model's proposal; every number
+comes from the search. Its counts include hyphen compounds and `corpus.py`'s do
+not — compare neither to the other.
+
 ## Checks
 
 ```bash

@@ -1,0 +1,107 @@
+written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow
+source: roman-lokalitaeten-konzept-und-ausarbeitung
+lines: 631
+
+- Kohärenz Protokoll  ^[L11]  · work
+- Kern-Welt 1 (KW1)  ^[L172]  · place
+- Kern-Welt 2 (KW2)  ^[L173]  · place
+- Kern-Welt 3 (KW3)  ^[L174]  · place
+- Kern-Welt 4 (KW4)  ^[L175]  · place
+- Überwelt  ^[L176]  · place
+- Externe Ebene  ^[L177]  · place
+- AEGIS  ^[L21]  · system
+- Kael  ^[L187]  · person
+- Limina  ^[L187]  · person
+- LogOS  ^[L172]  · system
+- Mnemosyne  ^[L173]  · system
+- Cerberus  ^[L174]  · system
+- Kairos/Sophia  ^[L175]  · system
+- Echo  ^[L200]  · person
+- Nox  ^[L210]  · person
+- Orakel/Muse  ^[L219]  · person
+- Juna  ^[L236]  · person
+- Kaels Wohneinheit 1.0  ^[L256]  · place
+- Datenverarbeitungsknoten 7G  ^[L273]  · place
+- Transitkorridor Delta  ^[L189]  · place
+- Therapie-Schnittstelle Alpha  ^[L290]  · place
+- LogOS' Kern-Bibliothek  ^[L191]  · place
+- Sektor der Rekursiven Logik  ^[L192]  · place
+- Platz der Definierten Regeln  ^[L193]  · place
+- Archiv der Konsistenten Fakten  ^[L194]  · place
+- Die Leere Menge (Null-Raum)  ^[L195]  · place
+- Liminas Reflektionskammer  ^[L196]  · place
+- Vergessener Schrein (Trauma-Lokus)  ^[L307]  · place
+- See der Tränen  ^[L199]  · place
+- Pfad der Fragmentierten Erinnerung  ^[L200]  · place
+- Archiv des Ungesagten  ^[L324]  · place
+- Galerie der Falschen Erinnerungen  ^[L341]  · place
+- Echo's Resonanzraum  ^[L203]  · place
+- Die Narbenfelder  ^[L204]  · place
+- Mnemosynes Gedächtnispalast  ^[L205]  · place
+- Fluss des Vergessens (Lethe-Strom)  ^[L206]  · place
+- Die Große Mauer (Systemgrenze)  ^[L358]  · place
+- Schleuse 7 (Kontrollpunkt)  ^[L375]  · place
+- Nox' Schattenversteck  ^[L210]  · place
+- Der Innere Bunker  ^[L211]  · place
+- Arena der Inneren Konflikte  ^[L212]  · place
+- Labyrinth der Paranoia  ^[L392]  · place
+- Posten des Regel-Exekutors  ^[L214]  · place
+- Die Zensurkammer  ^[L215]  · place
+- Feld der Abwehrmechanismen  ^[L216]  · place
+- Nexus-Interface  ^[L409]  · place
+- Garten der Möglichkeiten  ^[L426]  · place
+- Werkstatt der Schöpfung  ^[L220]  · place
+- Turm der Voraussicht  ^[L221]  · place
+- Brücke zur Integration  ^[L222]  · place
+- Quelle der Inspiration  ^[L223]  · place
+- Forum des Dialogs  ^[L224]  · place
+- Trainingsraum der Alters  ^[L443]  · place
+- AEGIS Zentralkern  ^[L227]  · place
+- Der Große System-Monitor  ^[L460]  · place
+- Entropie-Ausgleichs-Kammer  ^[L477]  · place
+- Datenfriedhof  ^[L494]  · place
+- Quarantäne-Zone 7  ^[L231]  · place
+- Kommunikations-Hub  ^[L232]  · place
+- Wächter-Registry  ^[L233]  · place
+- Simulations-Konstruktor  ^[L234]  · place
+- Junas Ankerpunkt  ^[L511]  · place
+- Der Riss im System  ^[L237]  · place
+- Garten der Stillen Präsenz  ^[L528]  · place
+- Quelle des Flüsterns  ^[L239]  · place
+- Das Unkartierte Territorium  ^[L240]  · place
+- Junas Geheime Schnittstelle  ^[L241]  · place
+- Hain der Gegensätze  ^[L242]  · place
+- Archivar  ^[L201]  · person
+- Therapeut  ^[L190]  · person
+- Regel-Exekutor  ^[L193]  · person
+- Entropie  ^[L21]  · concept
+- DID (Dissoziative Identitätsstruktur)  ^[L35]  · concept
+- Psychische Landschaften  ^[L36]  · concept
+- Trauma-Landschaften  ^[L154]  · concept
+- Glitch-Ästhetik  ^[L151]  · concept
+- Liminale Räume  ^[L152]  · concept
+- Gedächtnispaläste  ^[L153]  · concept
+- Methode der Loci  ^[L153]  · concept
+- Environmental Storytelling  ^[L83]  · concept
+- Systemkontrolle  ^[L25]  · concept
+- Systemintegrität  ^[L79]  · concept
+- Risse  ^[L35]  · concept
+- Wächter  ^[L35]  · system
+- Alters  ^[L51]  · concept
+- Kohärenz  ^[L11]  · concept
+- Simulation  ^[L47]  · concept
+- Worldbuilding  ^[L19]  · concept
+- Psychische Architektur  ^[L29]  · concept
+- Symbolische Räume  ^[L29]  · concept
+- Reaktive Umgebungen  ^[L73]  · concept
+- Topologie  ^[L145]  · concept
+- Pathetic Fallacy  ^[L131]  · concept
+- Setting as Antagonist  ^[L132]  · concept
+- Inception  ^[L136]  · work
+- Silent Hill 2  ^[L137]  · work
+- Neuromancer  ^[L138]  · work
+- Westworld  ^[L139]  · work
+- Glitch Architecture  ^[L151]  · concept
+- Matrix  ^[L28]  · concept
+- Reboot  ^[L172]  · concept
+- Übergangsräume  ^[L152]  · concept
