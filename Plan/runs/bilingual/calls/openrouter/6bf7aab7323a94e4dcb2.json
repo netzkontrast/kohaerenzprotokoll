@@ -1,0 +1,526 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Dual Kernel Theorie",
+    "lang": "de",
+    "counterparts": [
+     "Dual Kernel Theory"
+    ]
+   },
+   {
+    "term": "Dual Kernel Theory",
+    "lang": "en",
+    "counterparts": [
+     "Dual Kernel Theorie",
+     "Dual-Kernel-Theorie"
+    ]
+   },
+   {
+    "term": "Dual Kernel Theory (DKT)",
+    "lang": "en",
+    "counterparts": [
+     "Dual Kernel Theorie (DKT)",
+     "Dual-Kernel-Theorie (DKT)"
+    ]
+   },
+   {
+    "term": "Dual-Kernel",
+    "lang": "en",
+    "counterparts": [
+     "Doppelkern",
+     "Dual-Kernel"
+    ]
+   },
+   {
+    "term": "Dual-Kernel Theory",
+    "lang": "en",
+    "counterparts": [
+     "Dual-Kernel-Theorie",
+     "Dual Kernel Theorie"
+    ]
+   },
+   {
+    "term": "Dual-Kernel-Modell",
+    "lang": "de",
+    "counterparts": [
+     "Dual-Kernel Model",
+     "Dual Kernel Model"
+    ]
+   },
+   {
+    "term": "Dual-Kernel-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "Dual-Kernel Theory",
+     "Dual Kernel Theory"
+    ]
+   },
+   {
+    "term": "Dual-Storyform",
+    "lang": "en",
+    "counterparts": [
+     "Doppel-Storyform",
+     "Dual-Storyform"
+    ]
+   },
+   {
+    "term": "Dualismus",
+    "lang": "de",
+    "counterparts": [
+     "dualism"
+    ]
+   },
+   {
+    "term": "Duality",
+    "lang": "en",
+    "counterparts": [
+     "Dualität"
+    ]
+   },
+   {
+    "term": "Duisburg",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dunamis",
+    "lang": "en",
+    "counterparts": [
+     "Dunamis",
+     "Dynamis"
+    ]
+   },
+   {
+    "term": "Dunkler Materie",
+    "lang": "de",
+    "counterparts": [
+     "dark matter"
+    ]
+   },
+   {
+    "term": "Dunn",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Durchgehenden Handlungslinien",
+    "lang": "de",
+    "counterparts": [
+     "continuous plot lines",
+     "running plot lines"
+    ]
+   },
+   {
+    "term": "Durchlinien",
+    "lang": "de",
+    "counterparts": [
+     "through lines"
+    ]
+   },
+   {
+    "term": "DynCompEdge",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dynamic Pairs",
+    "lang": "en",
+    "counterparts": [
+     "dynamische Paare",
+     "dynamische Paarungen"
+    ]
+   },
+   {
+    "term": "Dynamic Role Instancing",
+    "lang": "en",
+    "counterparts": [
+     "dynamische Rolleninstanzierung",
+     "dynamische Rollen-Instanziierung"
+    ]
+   },
+   {
+    "term": "Dynamics",
+    "lang": "en",
+    "counterparts": [
+     "Dynamik",
+     "Dynamiken"
+    ]
+   },
+   {
+    "term": "Dynamikpaare",
+    "lang": "de",
+    "counterparts": [
+     "dynamic pairs"
+    ]
+   },
+   {
+    "term": "Dynamis",
+    "lang": "en",
+    "counterparts": [
+     "Dynamis",
+     "Kraft"
+    ]
+   },
+   {
+    "term": "Dynamische Paar-Interferenz",
+    "lang": "de",
+    "counterparts": [
+     "dynamic pair interference"
+    ]
+   },
+   {
+    "term": "Dynamische Paare",
+    "lang": "de",
+    "counterparts": [
+     "dynamic pairs"
+    ]
+   },
+   {
+    "term": "Dynamische Systeme",
+    "lang": "de",
+    "counterparts": [
+     "dynamic systems"
+    ]
+   },
+   {
+    "term": "Dysfunktionale Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "dysfunctional dissociation"
+    ]
+   },
+   {
+    "term": "Dysregulation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Dysregulation der Hypothalamus-Hypophysen-Nebennierenrinden-Achse",
+    "lang": "de",
+    "counterparts": [
+     "dysregulation of the hypothalamus-pituitary-adrenal axis",
+     "HPA axis dysregulation"
+    ]
+   },
+   {
+    "term": "Dämon",
+    "lang": "de",
+    "counterparts": [
+     "demon",
+     "daemon"
+    ]
+   },
+   {
+    "term": "E0",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "E1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "E2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "E3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "E4",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "E5",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "E6",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EBSCO",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ECC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ECCO",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ECCO-papers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ECQ",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ECR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EDA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EEG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EFATEC-News",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EFT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EIC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EICs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EINE",
+    "lang": "de",
+    "counterparts": [
+     "one"
+    ]
+   },
+   {
+    "term": "EKG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EMDR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ENDE",
+    "lang": "de",
+    "counterparts": [
+     "end"
+    ]
+   },
+   {
+    "term": "ENTROPY",
+    "lang": "en",
+    "counterparts": [
+     "Entropie"
+    ]
+   },
+   {
+    "term": "EOLSS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EOLSS-Self-Organiz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EP Ambivalenz",
+    "lang": "de",
+    "counterparts": [
+     "EP ambivalence"
+    ]
+   },
+   {
+    "term": "EP Child",
+    "lang": "en",
+    "counterparts": [
+     "EP Kind"
+    ]
+   },
+   {
+    "term": "EP Child Ambivalent",
+    "lang": "en",
+    "counterparts": [
+     "EP Kind ambivalent"
+    ]
+   },
+   {
+    "term": "EP Collapse",
+    "lang": "en",
+    "counterparts": [
+     "EP Kollaps"
+    ]
+   },
+   {
+    "term": "EP Fighter",
+    "lang": "en",
+    "counterparts": [
+     "EP Kämpfer"
+    ]
+   },
+   {
+    "term": "EP Kampf-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "EP fight reaction"
+    ]
+   },
+   {
+    "term": "EP Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "EP collapse"
+    ]
+   },
+   {
+    "term": "EP Relationale Spannungen",
+    "lang": "de",
+    "counterparts": [
+     "EP relational tensions"
+    ]
+   },
+   {
+    "term": "EP Sexualisiert",
+    "lang": "de",
+    "counterparts": [
+     "EP sexualized"
+    ]
+   },
+   {
+    "term": "EP Sexualized",
+    "lang": "en",
+    "counterparts": [
+     "EP sexualisiert"
+    ]
+   },
+   {
+    "term": "EP-Achse",
+    "lang": "de",
+    "counterparts": [
+     "EP axis"
+    ]
+   },
+   {
+    "term": "EP-Amnesie-Barrieren",
+    "lang": "de",
+    "counterparts": [
+     "EP amnesia barriers"
+    ]
+   },
+   {
+    "term": "EP-Analogon",
+    "lang": "de",
+    "counterparts": [
+     "EP analogue"
+    ]
+   },
+   {
+    "term": "EP-Aufteilung",
+    "lang": "de",
+    "counterparts": [
+     "EP division"
+    ]
+   },
+   {
+    "term": "EP-Barrieren",
+    "lang": "de",
+    "counterparts": [
+     "EP barriers"
+    ]
+   },
+   {
+    "term": "EP-Drop",
+    "lang": "de",
+    "counterparts": [
+     "EP drop"
+    ]
+   },
+   {
+    "term": "EP-Durchbrüche",
+    "lang": "de",
+    "counterparts": [
+     "EP breakthroughs"
+    ]
+   },
+   {
+    "term": "EP-Dynamik",
+    "lang": "de",
+    "counterparts": [
+     "EP dynamics"
+    ]
+   },
+   {
+    "term": "EP-Dynamiken",
+    "lang": "de",
+    "counterparts": [
+     "EP dynamics"
+    ]
+   },
+   {
+    "term": "EP-EP Dynamiken",
+    "lang": "de",
+    "counterparts": [
+     "EP-EP dynamics"
+    ]
+   },
+   {
+    "term": "EP-Erstarrung",
+    "lang": "de",
+    "counterparts": [
+     "EP freezing"
+    ]
+   },
+   {
+    "term": "EP-Exile",
+    "lang": "de",
+    "counterparts": [
+     "EP exile"
+    ]
+   },
+   {
+    "term": "EP-Facetten",
+    "lang": "de",
+    "counterparts": [
+     "EP facets"
+    ]
+   },
+   {
+    "term": "EP-Fight",
+    "lang": "de",
+    "counterparts": [
+     "EP fight"
+    ]
+   }
+  ]
+ }
+}

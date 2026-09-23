@@ -1,0 +1,596 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Eros",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Erosion",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ersatzmetrik-Ausnutzung",
+    "lang": "de",
+    "counterparts": [
+     "substitute metric utilization",
+     "alternative metric usage"
+    ]
+   },
+   {
+    "term": "Erstarrungs-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "solidification reaction",
+     "crystallization reaction"
+    ]
+   },
+   {
+    "term": "Erste-Person-Perspektive",
+    "lang": "de",
+    "counterparts": [
+     "first-person perspective",
+     "first-person viewpoint"
+    ]
+   },
+   {
+    "term": "Erster Kontakt",
+    "lang": "de",
+    "counterparts": [
+     "first contact",
+     "initial contact"
+    ]
+   },
+   {
+    "term": "Erstes Buch",
+    "lang": "de",
+    "counterparts": [
+     "first book",
+     "book one"
+    ]
+   },
+   {
+    "term": "Erweiterte Realität",
+    "lang": "de",
+    "counterparts": [
+     "extended reality",
+     "augmented reality"
+    ]
+   },
+   {
+    "term": "Erweiterung des Suchraums",
+    "lang": "de",
+    "counterparts": [
+     "expansion of the search space",
+     "search space expansion"
+    ]
+   },
+   {
+    "term": "Erzwungene Allianz",
+    "lang": "de",
+    "counterparts": [
+     "forced alliance",
+     "compulsory alliance"
+    ]
+   },
+   {
+    "term": "Erzwungene Parakonsistenz",
+    "lang": "de",
+    "counterparts": [
+     "forced paraconsistency"
+    ]
+   },
+   {
+    "term": "Erzählhaltungen",
+    "lang": "de",
+    "counterparts": [
+     "narrative stances",
+     "narrative attitudes",
+     "narrative positions"
+    ]
+   },
+   {
+    "term": "Escalation",
+    "lang": "en",
+    "counterparts": [
+     "Eskalation",
+     "Steigerung",
+     "Verschärfung"
+    ]
+   },
+   {
+    "term": "Escher",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Eternalismus",
+    "lang": "de",
+    "counterparts": [
+     "eternalism"
+    ]
+   },
+   {
+    "term": "Ethik der Fürsorge",
+    "lang": "de",
+    "counterparts": [
+     "ethics of care",
+     "care ethics"
+    ]
+   },
+   {
+    "term": "Ethisch-Operative Logik",
+    "lang": "de",
+    "counterparts": [
+     "ethico-operative logic",
+     "ethical-operative logic"
+    ]
+   },
+   {
+    "term": "Euclid",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Euclidean Geometry",
+    "lang": "en",
+    "counterparts": [
+     "Euklidische Geometrie"
+    ]
+   },
+   {
+    "term": "Evaluation of Language Models",
+    "lang": "en",
+    "counterparts": [
+     "Evaluation von Sprachmodellen",
+     "Bewertung von Sprachmodellen",
+     "Sprachmodell-Evaluation"
+    ]
+   },
+   {
+    "term": "Evaluator",
+    "lang": "en",
+    "counterparts": [
+     "Evaluator",
+     "Auswerter",
+     "Bewerter"
+    ]
+   },
+   {
+    "term": "Evaluierungseinheit",
+    "lang": "de",
+    "counterparts": [
+     "evaluation unit",
+     "assessment unit"
+    ]
+   },
+   {
+    "term": "Evaluierungseinheit Epsilon-Gamma-12",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Event",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Event-Driven Architecture",
+    "lang": "en",
+    "counterparts": [
+     "Ereignisgetriebene Architektur",
+     "Event-getriebene Architektur"
+    ]
+   },
+   {
+    "term": "Everett",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Evolution des Scheiterns",
+    "lang": "de",
+    "counterparts": [
+     "evolution of failure"
+    ]
+   },
+   {
+    "term": "Evolutions-Engine",
+    "lang": "de",
+    "counterparts": [
+     "evolution engine"
+    ]
+   },
+   {
+    "term": "Ewige Objekte",
+    "lang": "de",
+    "counterparts": [
+     "eternal objects",
+     "everlasting objects"
+    ]
+   },
+   {
+    "term": "Ex Contradictione Quodlibet",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Ex Falso Quodlibet",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Ex Machina",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Exclusionary",
+    "lang": "en",
+    "counterparts": [
+     "ausschließend",
+     "exklusiv",
+     "Ausschließungs-"
+    ]
+   },
+   {
+    "term": "Exclusionary Order",
+    "lang": "en",
+    "counterparts": [
+     "Ausschließungsanordnung",
+     "exklusive Anordnung",
+     "Ausschließungsorder"
+    ]
+   },
+   {
+    "term": "Executor",
+    "lang": "en",
+    "counterparts": [
+     "Executor",
+     "Ausführer",
+     "Vollstrecker"
+    ]
+   },
+   {
+    "term": "Exekutive",
+    "lang": "de",
+    "counterparts": [
+     "executive"
+    ]
+   },
+   {
+    "term": "Exekutive Steuerung",
+    "lang": "de",
+    "counterparts": [
+     "executive control",
+     "executive steering"
+    ]
+   },
+   {
+    "term": "Exil",
+    "lang": "de",
+    "counterparts": [
+     "exile"
+    ]
+   },
+   {
+    "term": "Exilant",
+    "lang": "de",
+    "counterparts": [
+     "exile",
+     "exiled person"
+    ]
+   },
+   {
+    "term": "Exilanten",
+    "lang": "de",
+    "counterparts": [
+     "exiles"
+    ]
+   },
+   {
+    "term": "Exilanten-Exposition",
+    "lang": "de",
+    "counterparts": [
+     "exile exposition"
+    ]
+   },
+   {
+    "term": "Exile",
+    "lang": "en",
+    "counterparts": [
+     "Exil",
+     "Verbannung",
+     "Exilant"
+    ]
+   },
+   {
+    "term": "Exile-Lasten",
+    "lang": "de",
+    "counterparts": [
+     "exile burdens",
+     "burdens of exile"
+    ]
+   },
+   {
+    "term": "Exiles",
+    "lang": "en",
+    "counterparts": [
+     "Exile",
+     "Verbannte",
+     "Exilanten"
+    ]
+   },
+   {
+    "term": "Existential Choice",
+    "lang": "en",
+    "counterparts": [
+     "existentielle Wahl",
+     "existenzielle Wahl"
+    ]
+   },
+   {
+    "term": "Existential Crisis",
+    "lang": "en",
+    "counterparts": [
+     "existenzielle Krise",
+     "existentielle Krise"
+    ]
+   },
+   {
+    "term": "Existential Horror",
+    "lang": "en",
+    "counterparts": [
+     "existenzieller Horror",
+     "existentieller Horror"
+    ]
+   },
+   {
+    "term": "Existentialism",
+    "lang": "en",
+    "counterparts": [
+     "Existentialismus",
+     "Existenzialismus"
+    ]
+   },
+   {
+    "term": "Existentialismus",
+    "lang": "de",
+    "counterparts": [
+     "existentialism"
+    ]
+   },
+   {
+    "term": "Existenz der Zeugen-Funktion",
+    "lang": "de",
+    "counterparts": [
+     "existence of the witness function"
+    ]
+   },
+   {
+    "term": "Existenz-Matrizen",
+    "lang": "de",
+    "counterparts": [
+     "existence matrices"
+    ]
+   },
+   {
+    "term": "Existenzialismus",
+    "lang": "de",
+    "counterparts": [
+     "existentialism"
+    ]
+   },
+   {
+    "term": "Existenzielle Angst",
+    "lang": "de",
+    "counterparts": [
+     "existential anxiety",
+     "existential dread"
+    ]
+   },
+   {
+    "term": "Existenzielle Freiheit",
+    "lang": "de",
+    "counterparts": [
+     "existential freedom"
+    ]
+   },
+   {
+    "term": "Existenzielle Krise",
+    "lang": "de",
+    "counterparts": [
+     "existential crisis"
+    ]
+   },
+   {
+    "term": "Existenzielle Leere",
+    "lang": "de",
+    "counterparts": [
+     "existential emptiness",
+     "existential void"
+    ]
+   },
+   {
+    "term": "Existenzielle Wahl",
+    "lang": "de",
+    "counterparts": [
+     "existential choice"
+    ]
+   },
+   {
+    "term": "Existenzielles Risiko",
+    "lang": "de",
+    "counterparts": [
+     "existential risk",
+     "existential danger"
+    ]
+   },
+   {
+    "term": "Exkludierenden Ordnung",
+    "lang": "de",
+    "counterparts": [
+     "exclusionary order",
+     "excluding order"
+    ]
+   },
+   {
+    "term": "Exklusion",
+    "lang": "de",
+    "counterparts": [
+     "exclusion"
+    ]
+   },
+   {
+    "term": "Expected Free Energy",
+    "lang": "en",
+    "counterparts": [
+     "erwartete freie Energie",
+     "erwartete Free Energy"
+    ]
+   },
+   {
+    "term": "Experienced Fragmentation",
+    "lang": "en",
+    "counterparts": [
+     "erfahrene Fragmentierung",
+     "erlebte Fragmentierung"
+    ]
+   },
+   {
+    "term": "Expertensystem",
+    "lang": "de",
+    "counterparts": [
+     "expert system"
+    ]
+   },
+   {
+    "term": "Explanatory Gap",
+    "lang": "en",
+    "counterparts": [
+     "Erklärungslücke",
+     "explanatorische Lücke"
+    ]
+   },
+   {
+    "term": "Exploit",
+    "lang": "en",
+    "counterparts": [
+     "Exploit",
+     "Ausbeutung",
+     "Schadcode"
+    ]
+   },
+   {
+    "term": "Exploring Internal Family Systems",
+    "lang": "en",
+    "counterparts": [
+     "Erforschung innerer Familiensysteme",
+     "Exploration innerer Familiensysteme"
+    ]
+   },
+   {
+    "term": "Explosion",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Explosionsprinzip",
+    "lang": "de",
+    "counterparts": [
+     "explosion principle"
+    ]
+   },
+   {
+    "term": "Exposure",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "External Anomaly",
+    "lang": "en",
+    "counterparts": [
+     "externe Anomalie",
+     "äußere Anomalie"
+    ]
+   },
+   {
+    "term": "External Framing",
+    "lang": "en",
+    "counterparts": [
+     "externes Framing",
+     "externe Einrahmung"
+    ]
+   },
+   {
+    "term": "External Level",
+    "lang": "en",
+    "counterparts": [
+     "externe Ebene",
+     "äußere Ebene"
+    ]
+   },
+   {
+    "term": "Externalisierte Abwehr",
+    "lang": "de",
+    "counterparts": [
+     "externalized defense"
+    ]
+   },
+   {
+    "term": "Externalismus",
+    "lang": "de",
+    "counterparts": [
+     "externalism"
+    ]
+   },
+   {
+    "term": "Externalized Defense",
+    "lang": "en",
+    "counterparts": [
+     "externalisierte Abwehr",
+     "externalisierte Verteidigung"
+    ]
+   },
+   {
+    "term": "Externalized Perpetrator Introject",
+    "lang": "en",
+    "counterparts": [
+     "externalisierter Täter-Introjekt",
+     "externalisierter Täter-Einwurf"
+    ]
+   },
+   {
+    "term": "Externe Anomalie",
+    "lang": "de",
+    "counterparts": [
+     "external anomaly"
+    ]
+   },
+   {
+    "term": "Externe Bedrohungsmarkierung",
+    "lang": "de",
+    "counterparts": [
+     "external threat marking"
+    ]
+   },
+   {
+    "term": "Externe Ebene",
+    "lang": "de",
+    "counterparts": [
+     "external level"
+    ]
+   },
+   {
+    "term": "Externe Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "external truth"
+    ]
+   }
+  ]
+ }
+}

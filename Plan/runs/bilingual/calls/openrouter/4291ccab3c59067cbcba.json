@@ -1,0 +1,525 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Kael-Julia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael-Julia-Bindung",
+    "lang": "de",
+    "counterparts": [
+     "Kael-Julia binding"
+    ]
+   },
+   {
+    "term": "Kael-Julia-Einheit",
+    "lang": "de",
+    "counterparts": [
+     "Kael-Julia unit"
+    ]
+   },
+   {
+    "term": "Kael-Juna",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael-Juna Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "Kael-Juna connection"
+    ]
+   },
+   {
+    "term": "Kael-Juna-Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "Kael-Juna connection"
+    ]
+   },
+   {
+    "term": "Kael-Logik",
+    "lang": "de",
+    "counterparts": [
+     "Kael logic"
+    ]
+   },
+   {
+    "term": "Kael-MC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "Kael structure"
+    ]
+   },
+   {
+    "term": "Kael-System",
+    "lang": "de",
+    "counterparts": [
+     "Kael system"
+    ]
+   },
+   {
+    "term": "Kael-Systems",
+    "lang": "en",
+    "counterparts": [
+     "Kael Systeme"
+    ]
+   },
+   {
+    "term": "Kael/Julia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael/Juna",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael/Lex",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael/M",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kaels",
+    "lang": "de",
+    "counterparts": [
+     "Kael's"
+    ]
+   },
+   {
+    "term": "Kaels Alters",
+    "lang": "de",
+    "counterparts": [
+     "Kael's age"
+    ]
+   },
+   {
+    "term": "Kaels DIS",
+    "lang": "de",
+    "counterparts": [
+     "Kael's DIS"
+    ]
+   },
+   {
+    "term": "Kaels Dissoziative Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Kael's dissociative identity disorder"
+    ]
+   },
+   {
+    "term": "Kaels Dissoziativer Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Kael's dissociative identity disorder"
+    ]
+   },
+   {
+    "term": "Kaels Gnosis",
+    "lang": "de",
+    "counterparts": [
+     "Kael's gnosis"
+    ]
+   },
+   {
+    "term": "Kaels Inneres System",
+    "lang": "de",
+    "counterparts": [
+     "Kael's inner system"
+    ]
+   },
+   {
+    "term": "Kaels Internes System",
+    "lang": "de",
+    "counterparts": [
+     "Kael's internal system"
+    ]
+   },
+   {
+    "term": "Kaels PKP",
+    "lang": "de",
+    "counterparts": [
+     "Kael's PKP"
+    ]
+   },
+   {
+    "term": "Kaels Psyche",
+    "lang": "de",
+    "counterparts": [
+     "Kael's psyche"
+    ]
+   },
+   {
+    "term": "Kaels Reise",
+    "lang": "de",
+    "counterparts": [
+     "Kael's journey"
+    ]
+   },
+   {
+    "term": "Kaels TSDP-System",
+    "lang": "de",
+    "counterparts": [
+     "Kael's TSDP system"
+    ]
+   },
+   {
+    "term": "Kaels Witness Function",
+    "lang": "en",
+    "counterparts": [
+     "Kaels Zeugenfunktion"
+    ]
+   },
+   {
+    "term": "Kaels Wohneinheit",
+    "lang": "de",
+    "counterparts": [
+     "Kael's dwelling unit"
+    ]
+   },
+   {
+    "term": "Kaels Wohneinheit 1.0",
+    "lang": "de",
+    "counterparts": [
+     "Kael's dwelling unit 1.0"
+    ]
+   },
+   {
+    "term": "Kai",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kairos",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Kairos-Potentialis",
+    "lang": "de",
+    "counterparts": [
+     "Kairos potentialis"
+    ]
+   },
+   {
+    "term": "Kairos/Sophia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kalter Richter",
+    "lang": "de",
+    "counterparts": [
+     "cold judge"
+    ]
+   },
+   {
+    "term": "Kammer",
+    "lang": "de",
+    "counterparts": [
+     "chamber"
+    ]
+   },
+   {
+    "term": "Kampf der Frames",
+    "lang": "de",
+    "counterparts": [
+     "fight of the frames"
+    ]
+   },
+   {
+    "term": "Kampf-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "fight reaction"
+    ]
+   },
+   {
+    "term": "Kampf-System",
+    "lang": "de",
+    "counterparts": [
+     "fight system"
+    ]
+   },
+   {
+    "term": "Kampf-oder-Flucht",
+    "lang": "de",
+    "counterparts": [
+     "fight-or-flight"
+    ]
+   },
+   {
+    "term": "Kampf-oder-Flucht-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "fight-or-flight reaction"
+    ]
+   },
+   {
+    "term": "Kampf/Flucht",
+    "lang": "de",
+    "counterparts": [
+     "fight/flight"
+    ]
+   },
+   {
+    "term": "Kampfreaktion",
+    "lang": "de",
+    "counterparts": [
+     "fight reaction"
+    ]
+   },
+   {
+    "term": "Kanal",
+    "lang": "de",
+    "counterparts": [
+     "channel"
+    ]
+   },
+   {
+    "term": "Kannetzky",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kant",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kants",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kants Autonomiebegriff",
+    "lang": "de",
+    "counterparts": [
+     "Kant's concept of autonomy"
+    ]
+   },
+   {
+    "term": "Kanäle",
+    "lang": "de",
+    "counterparts": [
+     "channels"
+    ]
+   },
+   {
+    "term": "Karen",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KarenJAlter2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Karl",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Karlsruhe",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kartograf",
+    "lang": "de",
+    "counterparts": [
+     "cartographer"
+    ]
+   },
+   {
+    "term": "Kaskadeneffekt",
+    "lang": "de",
+    "counterparts": [
+     "cascade effect"
+    ]
+   },
+   {
+    "term": "Kaskadeneffekte",
+    "lang": "de",
+    "counterparts": [
+     "cascade effects"
+    ]
+   },
+   {
+    "term": "Kaskadenversagen",
+    "lang": "de",
+    "counterparts": [
+     "cascade failure"
+    ]
+   },
+   {
+    "term": "Kaskadierende Fehler",
+    "lang": "de",
+    "counterparts": [
+     "cascading errors"
+    ]
+   },
+   {
+    "term": "Kaskadierendes Versagen",
+    "lang": "de",
+    "counterparts": [
+     "cascading failure"
+    ]
+   },
+   {
+    "term": "Kassenärztliche Bundesvereinigung",
+    "lang": "de",
+    "counterparts": [
+     "National Association of Statutory Health Insurance Physicians"
+    ]
+   },
+   {
+    "term": "Katalysator",
+    "lang": "de",
+    "counterparts": [
+     "catalyst"
+    ]
+   },
+   {
+    "term": "Katalysatorin",
+    "lang": "de",
+    "counterparts": [
+     "female catalyst"
+    ]
+   },
+   {
+    "term": "Katastrophales Vergessen",
+    "lang": "de",
+    "counterparts": [
+     "catastrophic forgetting"
+    ]
+   },
+   {
+    "term": "Katastrophe",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Katatonie",
+    "lang": "de",
+    "counterparts": [
+     "catatonia"
+    ]
+   },
+   {
+    "term": "Kategorienfehler",
+    "lang": "de",
+    "counterparts": [
+     "category error"
+    ]
+   },
+   {
+    "term": "Kategorientheorie",
+    "lang": "de",
+    "counterparts": [
+     "category theory"
+    ]
+   },
+   {
+    "term": "Katharsis",
+    "lang": "de",
+    "counterparts": [
+     "catharsis"
+    ]
+   },
+   {
+    "term": "Kauffman",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kausalität",
+    "lang": "de",
+    "counterparts": [
+     "causality"
+    ]
+   },
+   {
+    "term": "Kawabata",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kenneth",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kern-Identitäten",
+    "lang": "de",
+    "counterparts": [
+     "core identities"
+    ]
+   },
+   {
+    "term": "Kern-Identitäts-Nexus",
+    "lang": "de",
+    "counterparts": [
+     "core identity nexus"
+    ]
+   },
+   {
+    "term": "Kern-Persona Architekturen",
+    "lang": "de",
+    "counterparts": [
+     "core persona architectures"
+    ]
+   },
+   {
+    "term": "Kern-Selbst",
+    "lang": "de",
+    "counterparts": [
+     "core self"
+    ]
+   },
+   {
+    "term": "Kern-Trauma",
+    "lang": "de",
+    "counterparts": [
+     "core trauma"
+    ]
+   },
+   {
+    "term": "Kern-Trauma-Lokus",
+    "lang": "de",
+    "counterparts": [
+     "core trauma locus"
+    ]
+   },
+   {
+    "term": "Kern-Welt",
+    "lang": "de",
+    "counterparts": [
+     "core world"
+    ]
+   },
+   {
+    "term": "Kern-Welt 1",
+    "lang": "de",
+    "counterparts": [
+     "core world 1"
+    ]
+   }
+  ]
+ }
+}

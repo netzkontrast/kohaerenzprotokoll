@@ -1,0 +1,639 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Context Compression Prompt",
+    "lang": "en",
+    "counterparts": [
+     "Kontextkomprimierungs-Prompt",
+     "Kontextkompression Prompt",
+     "Prompt zur Kontextkompression"
+    ]
+   },
+   {
+    "term": "Context Engineering",
+    "lang": "en",
+    "counterparts": [
+     "Kontexttechnik",
+     "Kontext-Engineering",
+     "Kontextgestaltung"
+    ]
+   },
+   {
+    "term": "Context Rot",
+    "lang": "en",
+    "counterparts": [
+     "Kontextfäule",
+     "Kontextverfall",
+     "Kontextrot"
+    ]
+   },
+   {
+    "term": "Context Rot Mitigation",
+    "lang": "en",
+    "counterparts": [
+     "Kontextrot-Minderung",
+     "Kontextfäule-Bekämpfung",
+     "Kontextverfall-Mitigation"
+    ]
+   },
+   {
+    "term": "Contradiction-Detection",
+    "lang": "en",
+    "counterparts": [
+     "Widerspruchserkennung",
+     "Kontradikterkennung",
+     "Widerspruchsdetektion"
+    ]
+   },
+   {
+    "term": "Contrast Classes",
+    "lang": "en",
+    "counterparts": [
+     "Kontrastklassen",
+     "Gegenüberstellungsklassen",
+     "Kontrastgruppen"
+    ]
+   },
+   {
+    "term": "Control Theory",
+    "lang": "en",
+    "counterparts": [
+     "Regelungstheorie",
+     "Steuerungstheorie",
+     "Control-Theorie"
+    ]
+   },
+   {
+    "term": "Control-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "Control Reaction",
+     "Control-Reaction",
+     "Control reaction"
+    ]
+   },
+   {
+    "term": "Controlled Creativity",
+    "lang": "en",
+    "counterparts": [
+     "kontrollierte Kreativität",
+     "gesteuerte Kreativität",
+     "kontrollierte Schöpferkraft"
+    ]
+   },
+   {
+    "term": "Convergence Saga",
+    "lang": "en",
+    "counterparts": [
+     "Konvergenz-Saga",
+     "Konvergenzgeschichte",
+     "Saga der Konvergenz"
+    ]
+   },
+   {
+    "term": "Conway",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Conway Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "Conway Group",
+     "Conway-Gruppe",
+     "Conway group"
+    ]
+   },
+   {
+    "term": "Conway-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "Conway Group",
+     "Conway-Gruppe",
+     "Conway group"
+    ]
+   },
+   {
+    "term": "Conway-Gruppen",
+    "lang": "de",
+    "counterparts": [
+     "Conway Groups",
+     "Conway-Gruppen",
+     "Conway groups"
+    ]
+   },
+   {
+    "term": "Conway-Welt",
+    "lang": "de",
+    "counterparts": [
+     "Conway World",
+     "Conway-Welt",
+     "Conway world"
+    ]
+   },
+   {
+    "term": "Coordination",
+    "lang": "en",
+    "counterparts": [
+     "Koordination",
+     "Koordinierung",
+     "Koordination"
+    ]
+   },
+   {
+    "term": "Core",
+    "lang": "en",
+    "counterparts": [
+     "Kern",
+     "Kernbereich",
+     "Kernkomponente"
+    ]
+   },
+   {
+    "term": "Core Heuristic",
+    "lang": "en",
+    "counterparts": [
+     "Kern-Heuristik",
+     "Kernheuristik",
+     "Heuristik des Kerns"
+    ]
+   },
+   {
+    "term": "Core OS",
+    "lang": "en",
+    "counterparts": [
+     "Core-Betriebssystem",
+     "Kern-OS",
+     "Core OS"
+    ]
+   },
+   {
+    "term": "Core Trauma",
+    "lang": "en",
+    "counterparts": [
+     "Kern-Trauma",
+     "Kerntrauma",
+     "Trauma des Kerns"
+    ]
+   },
+   {
+    "term": "Core World",
+    "lang": "en",
+    "counterparts": [
+     "Kernwelt",
+     "Core-Welt",
+     "Welt des Kerns"
+    ]
+   },
+   {
+    "term": "Core Worlds",
+    "lang": "en",
+    "counterparts": [
+     "Kernwelten",
+     "Core-Welten",
+     "Welten des Kerns"
+    ]
+   },
+   {
+    "term": "Core-Trauma",
+    "lang": "de",
+    "counterparts": [
+     "Core Trauma",
+     "Core-trauma",
+     "Core Trauma"
+    ]
+   },
+   {
+    "term": "Cornell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Corrective Wavelet",
+    "lang": "en",
+    "counterparts": [
+     "korrigierende Wavelet",
+     "Korrektur-Wavelet",
+     "korrigierende Wavelet"
+    ]
+   },
+   {
+    "term": "Corrective Wavelet Hypothesis",
+    "lang": "en",
+    "counterparts": [
+     "Hypothese der korrigierenden Wavelet",
+     "Korrektur-Wavelet-Hypothese",
+     "Hypothese korrigierender Wavelet"
+    ]
+   },
+   {
+    "term": "Corresp",
+    "lang": "en",
+    "counterparts": [
+     "Korresp.",
+     "Korrespondenz",
+     "Korresp"
+    ]
+   },
+   {
+    "term": "Correspondence",
+    "lang": "en",
+    "counterparts": [
+     "Korrespondenz",
+     "Entsprechung",
+     "Übereinstimmung"
+    ]
+   },
+   {
+    "term": "Correspondence Error",
+    "lang": "en",
+    "counterparts": [
+     "Korrespondenzfehler",
+     "Entsprechungsfehler",
+     "Fehler der Korrespondenz"
+    ]
+   },
+   {
+    "term": "Correspondence Theory",
+    "lang": "en",
+    "counterparts": [
+     "Korrespondenztheorie",
+     "Theorie der Korrespondenz",
+     "Entsprechungstheorie"
+    ]
+   },
+   {
+    "term": "Correspondence Theory of Truth",
+    "lang": "en",
+    "counterparts": [
+     "Korrespondenztheorie der Wahrheit",
+     "Wahrheitstheorie der Korrespondenz",
+     "Entsprechungstheorie der Wahrheit"
+    ]
+   },
+   {
+    "term": "Correspondence Truth",
+    "lang": "en",
+    "counterparts": [
+     "Korrespondenzwahrheit",
+     "Wahrheit der Korrespondenz",
+     "Entsprechungswahrheit"
+    ]
+   },
+   {
+    "term": "Correspondence-Check",
+    "lang": "en",
+    "counterparts": [
+     "Korrespondenz-Check",
+     "Korrespondenzprüfung",
+     "Check der Korrespondenz"
+    ]
+   },
+   {
+    "term": "Corrupted",
+    "lang": "en",
+    "counterparts": [
+     "korrupt",
+     "beschädigt",
+     "verfälscht"
+    ]
+   },
+   {
+    "term": "Cortex",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Cortisol",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Cortisol Awakening Response",
+    "lang": "en",
+    "counterparts": [
+     "Cortisol-Awakening-Response",
+     "Cortisol-Aufwachreaktion",
+     "Aufwachreaktion des Cortisols"
+    ]
+   },
+   {
+    "term": "Cosmic Horror",
+    "lang": "en",
+    "counterparts": [
+     "kosmischer Horror",
+     "Cosmic Horror",
+     "Horror des Kosmos"
+    ]
+   },
+   {
+    "term": "Cosmic Horror des Bewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "Cosmic Horror of Consciousness",
+     "Cosmic Horror of the Consciousness",
+     "Cosmic Horror of Consciousness"
+    ]
+   },
+   {
+    "term": "Cosmism",
+    "lang": "en",
+    "counterparts": [
+     "Kosmismus",
+     "Cosmismus",
+     "Weltanschauung des Kosmos"
+    ]
+   },
+   {
+    "term": "Cosmology",
+    "lang": "en",
+    "counterparts": [
+     "Kosmologie",
+     "Cosmologie",
+     "Lehre vom Kosmos"
+    ]
+   },
+   {
+    "term": "Costa",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Council",
+    "lang": "en",
+    "counterparts": [
+     "Rat",
+     "Council",
+     "Rat"
+    ]
+   },
+   {
+    "term": "Counterpoint",
+    "lang": "en",
+    "counterparts": [
+     "Kontrapunkt",
+     "Counterpoint",
+     "Gegenpunkt"
+    ]
+   },
+   {
+    "term": "Co₁",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Co₁-Logik",
+    "lang": "de",
+    "counterparts": [
+     "Co₁ Logic",
+     "Co₁-Logic",
+     "Co₁ logic"
+    ]
+   },
+   {
+    "term": "Crack",
+    "lang": "en",
+    "counterparts": [
+     "Riss",
+     "Crack",
+     "Spalt"
+    ]
+   },
+   {
+    "term": "Cracks",
+    "lang": "en",
+    "counterparts": [
+     "Risse",
+     "Cracks",
+     "Spalten"
+    ]
+   },
+   {
+    "term": "Crash",
+    "lang": "en",
+    "counterparts": [
+     "Absturz",
+     "Crash",
+     "Kollaps"
+    ]
+   },
+   {
+    "term": "Crisis",
+    "lang": "en",
+    "counterparts": [
+     "Krise",
+     "Crisis",
+     "Krisensituation"
+    ]
+   },
+   {
+    "term": "Cross-Pollination",
+    "lang": "en",
+    "counterparts": [
+     "Kreuzbestäubung",
+     "Cross-Pollination",
+     "Querbestäubung"
+    ]
+   },
+   {
+    "term": "Cross-Universale",
+    "lang": "de",
+    "counterparts": [
+     "Cross Universals",
+     "Cross-Universale",
+     "Cross universals"
+    ]
+   },
+   {
+    "term": "Crossing Threshold",
+    "lang": "en",
+    "counterparts": [
+     "Schwellenüberschreitung",
+     "Threshold Crossing",
+     "Überquerung der Schwelle"
+    ]
+   },
+   {
+    "term": "Crossing the First Threshold",
+    "lang": "en",
+    "counterparts": [
+     "Überquerung der ersten Schwelle",
+     "Crossing the First Threshold",
+     "Erste Schwelle überschreiten"
+    ]
+   },
+   {
+    "term": "Crossing the Threshold",
+    "lang": "en",
+    "counterparts": [
+     "Schwellenüberschreitung",
+     "Threshold Crossing",
+     "Überquerung der Schwelle"
+    ]
+   },
+   {
+    "term": "Cryptographic",
+    "lang": "en",
+    "counterparts": [
+     "kryptografisch",
+     "kryptographisch",
+     "kryptografisch"
+    ]
+   },
+   {
+    "term": "Cryptography",
+    "lang": "en",
+    "counterparts": [
+     "Kryptographie",
+     "Kryptografie",
+     "Geheimschrift"
+    ]
+   },
+   {
+    "term": "Cs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Custom Instruction Grammar",
+    "lang": "en",
+    "counterparts": [
+     "Benutzerdefinierte Befehlsgrammatik",
+     "Custom Instruction Grammar",
+     "Individuelle Befehlsgrammatik"
+    ]
+   },
+   {
+    "term": "Cut-off",
+    "lang": "en",
+    "counterparts": [
+     "Abschneiden",
+     "Cut-off",
+     "Abschaltpunkt"
+    ]
+   },
+   {
+    "term": "Cyan",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Cybernetics",
+    "lang": "en",
+    "counterparts": [
+     "Kybernetik",
+     "Cybernetics",
+     "Kybernetik"
+    ]
+   },
+   {
+    "term": "Cyberspace",
+    "lang": "en",
+    "counterparts": [
+     "Cyberspace",
+     "Virtueller Raum",
+     "Cyberspace"
+    ]
+   },
+   {
+    "term": "Cyberspace Trope",
+    "lang": "en",
+    "counterparts": [
+     "Cyberspace-Trope",
+     "Trope des Cyberspace",
+     "Cyberspace-Motiv"
+    ]
+   },
+   {
+    "term": "Cyborgs",
+    "lang": "en",
+    "counterparts": [
+     "Cyborgs",
+     "Kyborgen",
+     "Kyborgs"
+    ]
+   },
+   {
+    "term": "Cycles",
+    "lang": "en",
+    "counterparts": [
+     "Zyklen",
+     "Cycles",
+     "Zyklen"
+    ]
+   },
+   {
+    "term": "Cyprus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "D-PTBS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "D-PTSD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "D2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DAG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DAOs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DAS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DB",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DBG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DBT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DBT-PTBS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DBT-PTSD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DBT-TF",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "model": "jev-1.13.0",
+ "seconds": 0.66,
+ "input_tokens": 9377,
+ "answers": {
+  "p0": {
+   "choice": "distinct",
+   "probabilities": {
+    "abbreviation": 0.23,
+    "variant": 0.01,
+    "role_or_part": 0.24,
+    "distinct": 0.43,
+    "translation": 0.09
+   }
+  },
+  "p1": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.96,
+    "variant": 0.0,
+    "role_or_part": 0.0,
+    "distinct": 0.0,
+    "translation": 0.04
+   }
+  },
+  "p2": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "variant": 0.09,
+    "abbreviation": 0.88,
+    "role_or_part": 0.0,
+    "distinct": 0.0,
+    "translation": 0.03
+   }
+  },
+  "p3": {
+   "choice": "translation",
+   "probabilities": {
+    "variant": 0.01,
+    "abbreviation": 0.44,
+    "role_or_part": 0.01,
+    "distinct": 0.01,
+    "translation": 0.53
+   }
+  },
+  "p4": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.5,
+    "variant": 0.04,
+    "role_or_part": 0.01,
+    "distinct": 0.28,
+    "translation": 0.17
+   }
+  },
+  "p5": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.76,
+    "variant": 0.02,
+    "role_or_part": 0.0,
+    "distinct": 0.0,
+    "translation": 0.22
+   }
+  },
+  "p6": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.8,
+    "variant": 0.02,
+    "role_or_part": 0.0,
+    "distinct": 0.0,
+    "translation": 0.18
+   }
+  },
+  "p7": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "variant": 0.13,
+    "abbreviation": 0.5,
+    "role_or_part": 0.01,
+    "distinct": 0.16,
+    "translation": 0.2
+   }
+  },
+  "p8": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.59,
+    "variant": 0.15,
+    "role_or_part": 0.02,
+    "distinct": 0.1,
+    "translation": 0.14
+   }
+  },
+  "p9": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.47000000000000003,
+    "variant": 0.11,
+    "role_or_part": 0.02,
+    "distinct": 0.19,
+    "translation": 0.21
+   }
+  },
+  "p10": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.78,
+    "variant": 0.06,
+    "role_or_part": 0.0,
+    "distinct": 0.0,
+    "translation": 0.16
+   }
+  },
+  "p11": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.6,
+    "variant": 0.12,
+    "role_or_part": 0.05,
+    "distinct": 0.07,
+    "translation": 0.16
+   }
+  },
+  "p12": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.75,
+    "variant": 0.02,
+    "role_or_part": 0.01,
+    "distinct": 0.0,
+    "translation": 0.22
+   }
+  },
+  "p13": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "abbreviation": 0.63,
+    "variant": 0.01,
+    "role_or_part": 0.0,
+    "distinct": 0.0,
+    "translation": 0.36
+   }
+  },
+  "p14": {
+   "choice": "abbreviation",
+   "probabilities": {
+    "variant": 0.01,
+    "abbreviation": 0.58,
+    "role_or_part": 0.18,
+    "distinct": 0.13,
+    "translation": 0.1
+   }
+  },
+  "p15": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "abbreviation": 0.0,
+    "variant": 0.0,
+    "role_or_part": 0.98,
+    "distinct": 0.02,
+    "translation": 0.0
+   }
+  },
+  "p16": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "abbreviation": 0.02,
+    "variant": 0.01,
+    "role_or_part": 0.96,
+    "distinct": 0.01,
+    "translation": 0.0
+   }
+  },
+  "p17": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "variant": 0.03,
+    "abbreviation": 0.03,
+    "role_or_part": 0.79,
+    "distinct": 0.01,
+    "translation": 0.14
+   }
+  },
+  "p18": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "variant": 0.02,
+    "abbreviation": 0.03,
+    "role_or_part": 0.93,
+    "distinct": 0.01,
+    "translation": 0.0
+   }
+  },
+  "p19": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "abbreviation": 0.02,
+    "variant": 0.02,
+    "role_or_part": 0.94,
+    "distinct": 0.01,
+    "translation": 0.01
+   }
+  }
+ }
+}

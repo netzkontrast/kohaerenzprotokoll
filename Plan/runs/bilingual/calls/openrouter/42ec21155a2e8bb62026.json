@@ -1,0 +1,12 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "term": "Hacking the Mainframe Trope",
+  "lang": "en",
+  "counterparts": [
+   "Mainframe-Hacking-Trope",
+   "Trope des Mainframe-Hackens",
+   "Hacken-des-Mainframe-Tropes"
+  ]
+ }
+}

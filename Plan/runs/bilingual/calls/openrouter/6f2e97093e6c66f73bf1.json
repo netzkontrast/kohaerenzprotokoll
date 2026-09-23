@@ -1,0 +1,479 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Road Back",
+    "lang": "en",
+    "counterparts": [
+     "Zurückweg",
+     "Der Weg zurück",
+     "Rückkehrweg"
+    ]
+   },
+   {
+    "term": "Road of Trials",
+    "lang": "en",
+    "counterparts": [
+     "Weg der Prüfungen",
+     "Prüfungsweg",
+     "Prüfungsstrecke"
+    ]
+   },
+   {
+    "term": "Robert",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Roboter",
+    "lang": "de",
+    "counterparts": [
+     "Robot"
+    ]
+   },
+   {
+    "term": "Robotik",
+    "lang": "de",
+    "counterparts": [
+     "Robotics"
+    ]
+   },
+   {
+    "term": "Rock Bottom",
+    "lang": "en",
+    "counterparts": [
+     "Tiefpunkt",
+     "Am Boden",
+     "Der Tiefpunkt"
+    ]
+   },
+   {
+    "term": "Roger",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rohe Korrespondenz-Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "raw correspondence truth"
+    ]
+   },
+   {
+    "term": "Rolf",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rolf Landauer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rolle des Beobachters",
+    "lang": "de",
+    "counterparts": [
+     "role of the observer"
+    ]
+   },
+   {
+    "term": "Rolle des Influence Characters",
+    "lang": "de",
+    "counterparts": [
+     "role of the influence characters"
+    ]
+   },
+   {
+    "term": "Rolle des Overall Story",
+    "lang": "de",
+    "counterparts": [
+     "role of the overall story"
+    ]
+   },
+   {
+    "term": "Roman-Ontologie",
+    "lang": "de",
+    "counterparts": [
+     "novel ontology"
+    ]
+   },
+   {
+    "term": "Romanebene",
+    "lang": "de",
+    "counterparts": [
+     "novel level"
+    ]
+   },
+   {
+    "term": "Romanschauplatz",
+    "lang": "de",
+    "counterparts": [
+     "novel setting"
+    ]
+   },
+   {
+    "term": "Romanwelt",
+    "lang": "de",
+    "counterparts": [
+     "novel world"
+    ]
+   },
+   {
+    "term": "Romanze",
+    "lang": "de",
+    "counterparts": [
+     "romance"
+    ]
+   },
+   {
+    "term": "Ronan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Root-Zugriff",
+    "lang": "de",
+    "counterparts": [
+     "root access"
+    ]
+   },
+   {
+    "term": "Rosa",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rose",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Rosen",
+    "lang": "de",
+    "counterparts": [
+     "roses"
+    ]
+   },
+   {
+    "term": "Ross",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Roster",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Rotation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Routledge",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Routley",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Royal",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ru",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rubedo-Phase",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Rudvalis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ruf",
+    "lang": "de",
+    "counterparts": [
+     "call",
+     "reputation"
+    ]
+   },
+   {
+    "term": "Ruliad",
+    "lang": "en",
+    "counterparts": []
+   },
+   {
+    "term": "Runder Tisch",
+    "lang": "de",
+    "counterparts": [
+     "round table"
+    ]
+   },
+   {
+    "term": "Rundreiseproblem",
+    "lang": "de",
+    "counterparts": [
+     "traveling salesman problem",
+     "round trip problem"
+    ]
+   },
+   {
+    "term": "Runtime",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Russell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Russell-Typ",
+    "lang": "de",
+    "counterparts": [
+     "Russell type"
+    ]
+   },
+   {
+    "term": "Russells",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Russells Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "Russell's paradox"
+    ]
+   },
+   {
+    "term": "Rust",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ryle",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ryu-Takayanagi-Formel",
+    "lang": "de",
+    "counterparts": [
+     "Ryu-Takayanagi formula"
+    ]
+   },
+   {
+    "term": "Rückkopplungsschleife",
+    "lang": "de",
+    "counterparts": [
+     "feedback loop"
+    ]
+   },
+   {
+    "term": "Rückkopplungsschleifen",
+    "lang": "de",
+    "counterparts": [
+     "feedback loops"
+    ]
+   },
+   {
+    "term": "S THEORY OF PERSONALITY",
+    "lang": "en",
+    "counterparts": [
+     "S-Theorie der Persönlichkeit"
+    ]
+   },
+   {
+    "term": "S1355514600013961a",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "S2k-Leitlinie",
+    "lang": "de",
+    "counterparts": [
+     "S2k guideline"
+    ]
+   },
+   {
+    "term": "S3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "S3-Leitlinie",
+    "lang": "de",
+    "counterparts": [
+     "S3 guideline"
+    ]
+   },
+   {
+    "term": "SAD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SAND",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SAO",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SAP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SARM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SARM-Probleme",
+    "lang": "de",
+    "counterparts": [
+     "SARM problems"
+    ]
+   },
+   {
+    "term": "SAT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SB",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SBA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SBPM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SBV-Infos-2023",
+    "lang": "de",
+    "counterparts": [
+     "SBV info 2023"
+    ]
+   },
+   {
+    "term": "SC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SCID-D",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SDD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SEG6",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SEKTOR BETA-RHO-5",
+    "lang": "de",
+    "counterparts": [
+     "SECTOR BETA-RHO-5"
+    ]
+   },
+   {
+    "term": "SEKTOR RELATIONALER DYNAMIK",
+    "lang": "de",
+    "counterparts": [
+     "SECTOR RELATIONAL DYNAMICS"
+    ]
+   },
+   {
+    "term": "SELBST",
+    "lang": "de",
+    "counterparts": [
+     "self"
+    ]
+   },
+   {
+    "term": "SELCC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SEM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SF A",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SF B",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SF-A",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SFI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SGB",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SGB I",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SGB IX",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

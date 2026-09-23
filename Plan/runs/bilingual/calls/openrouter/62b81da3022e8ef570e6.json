@@ -1,0 +1,695 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Repetition Compulsion",
+    "lang": "en",
+    "counterparts": [
+     "Wiederholungszwang",
+     "Repetitionszwang",
+     "Kompulsion"
+    ]
+   },
+   {
+    "term": "Replica Wormholes",
+    "lang": "en",
+    "counterparts": [
+     "Replik-Wurmloch",
+     "Kopie-Wurmloch",
+     "Replikat-Wurmloch"
+    ]
+   },
+   {
+    "term": "Repression",
+    "lang": "en",
+    "counterparts": [
+     "Unterdrückung",
+     "Verdrängung",
+     "Repression"
+    ]
+   },
+   {
+    "term": "Reproducibility Crisis",
+    "lang": "en",
+    "counterparts": [
+     "Reproduzierbarkeitskrise",
+     "Reproduzierbarkeit-Krise",
+     "Reproduzierbarkeitskrise"
+    ]
+   },
+   {
+    "term": "Repräsentamen",
+    "lang": "de",
+    "counterparts": [
+     "Representamen",
+     "Sign vehicle",
+     "Signifikat"
+    ]
+   },
+   {
+    "term": "Requisite",
+    "lang": "en",
+    "counterparts": [
+     "Voraussetzung",
+     "Erfordernis",
+     "Requisite"
+    ]
+   },
+   {
+    "term": "Resilience of Paraconsistent Logic",
+    "lang": "en",
+    "counterparts": [
+     "Resistenz der paraconsistente Logik",
+     "Robustheit der paraconsistenten Logik",
+     "Widerstandsfähigkeit der paraconsistenten Logik"
+    ]
+   },
+   {
+    "term": "Resolve",
+    "lang": "en",
+    "counterparts": [
+     "lösen",
+     "entscheiden",
+     "auflösen"
+    ]
+   },
+   {
+    "term": "Resonance",
+    "lang": "en",
+    "counterparts": [
+     "Resonanz",
+     "Schwingung",
+     "Klang"
+    ]
+   },
+   {
+    "term": "Resonance Field Theory",
+    "lang": "en",
+    "counterparts": [
+     "Resonanzfeldtheorie",
+     "Resonanz-Feld-Theorie",
+     "Resonanzfeldtheorie"
+    ]
+   },
+   {
+    "term": "Resonance Landscape",
+    "lang": "en",
+    "counterparts": [
+     "Resonanzlandschaft",
+     "Resonanz-Landschaft",
+     "Resonanzlandschaft"
+    ]
+   },
+   {
+    "term": "Resonance-Landscape",
+    "lang": "en",
+    "counterparts": [
+     "Resonanz-Landschaft",
+     "Resonanzlandschaft",
+     "Resonanz-Landschaft"
+    ]
+   },
+   {
+    "term": "Resonant Void",
+    "lang": "en",
+    "counterparts": [
+     "Resonantes Vakuum",
+     "resonantes Vakuum",
+     "Resonanzvakuum"
+    ]
+   },
+   {
+    "term": "Resonanz",
+    "lang": "de",
+    "counterparts": [
+     "Resonance",
+     "Schwingung",
+     "Klang"
+    ]
+   },
+   {
+    "term": "Resonanz-Auslöser",
+    "lang": "de",
+    "counterparts": [
+     "Resonance trigger",
+     "Resonance release",
+     "Resonance initiator"
+    ]
+   },
+   {
+    "term": "Resonanz-Brücke",
+    "lang": "de",
+    "counterparts": [
+     "Resonance bridge",
+     "Resonanzbrücke",
+     "Resonance crossing"
+    ]
+   },
+   {
+    "term": "Resonanz-Harmonisierer",
+    "lang": "de",
+    "counterparts": [
+     "Resonance harmonizer",
+     "Resonanzharmonisierer",
+     "Harmonisierer"
+    ]
+   },
+   {
+    "term": "Resonanz-Kodex",
+    "lang": "de",
+    "counterparts": [
+     "Resonance code",
+     "Resonanzkodex",
+     "Kodex"
+    ]
+   },
+   {
+    "term": "Resonanz-Kontinuum",
+    "lang": "de",
+    "counterparts": [
+     "Resonance continuum",
+     "Resonanzkontinuum",
+     "Kontinuum"
+    ]
+   },
+   {
+    "term": "Resonanz-Landschaft",
+    "lang": "de",
+    "counterparts": [
+     "Resonance landscape",
+     "Resonanzlandschaft",
+     "Landschaft"
+    ]
+   },
+   {
+    "term": "Resonanz-Modulation",
+    "lang": "de",
+    "counterparts": [
+     "Resonance modulation",
+     "Resonanzmodulation",
+     "Modulation"
+    ]
+   },
+   {
+    "term": "Resonanz-Nebel",
+    "lang": "de",
+    "counterparts": [
+     "Resonance fog",
+     "Resonance mist",
+     "Resonanznebel"
+    ]
+   },
+   {
+    "term": "Resonanzkaskade",
+    "lang": "de",
+    "counterparts": [
+     "Resonance cascade",
+     "Resonanzkaskade",
+     "Kaskade"
+    ]
+   },
+   {
+    "term": "Resonanzlandschaft",
+    "lang": "de",
+    "counterparts": [
+     "Resonance landscape",
+     "Resonanz-Landschaft",
+     "Landschaft"
+    ]
+   },
+   {
+    "term": "Resonanzphase",
+    "lang": "de",
+    "counterparts": [
+     "Resonance phase",
+     "Resonanzphase",
+     "Phase"
+    ]
+   },
+   {
+    "term": "Resonanzraum",
+    "lang": "de",
+    "counterparts": [
+     "Resonance space",
+     "Resonanzraum",
+     "Raum"
+    ]
+   },
+   {
+    "term": "Resonanztheorie",
+    "lang": "de",
+    "counterparts": [
+     "Resonance theory",
+     "Resonanztheorie",
+     "Theorie"
+    ]
+   },
+   {
+    "term": "Resonanzverbindung",
+    "lang": "de",
+    "counterparts": [
+     "Resonance connection",
+     "Resonanzverbindung",
+     "Verbindung"
+    ]
+   },
+   {
+    "term": "Resource Certification",
+    "lang": "en",
+    "counterparts": [
+     "Ressourcen-Zertifizierung",
+     "Zertifizierung von Ressourcen",
+     "Ressourcenzertifizierung"
+    ]
+   },
+   {
+    "term": "Resource Management Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Ressourcen-Management-Protokoll",
+     "Ressourcenmanagement-Protokoll",
+     "Protokoll zur Ressourcenverwaltung"
+    ]
+   },
+   {
+    "term": "Resource Public Key Infrastructure",
+    "lang": "en",
+    "counterparts": [
+     "Ressourcen-Öffentliche-Schlüssel-Infrastruktur",
+     "Ressourcen-PKI",
+     "Ressourcenpublic-Key-Infrastruktur"
+    ]
+   },
+   {
+    "term": "Ressourcenfluktuationsanalyse",
+    "lang": "de",
+    "counterparts": [
+     "Resource fluctuation analysis",
+     "Ressourcenfluktuationsanalyse",
+     "Fluktuationsanalyse"
+    ]
+   },
+   {
+    "term": "Rest",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Restatement",
+    "lang": "en",
+    "counterparts": [
+     "Neuformulierung",
+     "Wiederholung",
+     "Restatement"
+    ]
+   },
+   {
+    "term": "Restatement-Mechanismus",
+    "lang": "de",
+    "counterparts": [
+     "Restatement mechanism",
+     "Neuformulierungs-Mechanismus",
+     "Mechanismus"
+    ]
+   },
+   {
+    "term": "Reste",
+    "lang": "de",
+    "counterparts": [
+     "remains",
+     "leftovers",
+     "residues"
+    ]
+   },
+   {
+    "term": "Resting-State",
+    "lang": "en",
+    "counterparts": [
+     "Ruhezustand",
+     "Ruhe-State",
+     "Resting-State"
+    ]
+   },
+   {
+    "term": "Resting-State-Aktivität",
+    "lang": "de",
+    "counterparts": [
+     "resting-state activity",
+     "Ruhezustands-Aktivität",
+     "Aktivität"
+    ]
+   },
+   {
+    "term": "Restrukturierung",
+    "lang": "de",
+    "counterparts": [
+     "restructuring",
+     "Restrukturierung",
+     "Umbau"
+    ]
+   },
+   {
+    "term": "Resurrection",
+    "lang": "en",
+    "counterparts": [
+     "Auferstehung",
+     "Wiederauferstehung",
+     "Resurrection"
+    ]
+   },
+   {
+    "term": "Retraumatisierung",
+    "lang": "de",
+    "counterparts": [
+     "retraumatization",
+     "Retraumatisierung",
+     "Trauma"
+    ]
+   },
+   {
+    "term": "Retrieval",
+    "lang": "en",
+    "counterparts": [
+     "Abruf",
+     "Wiederauffindung",
+     "Retrieval"
+    ]
+   },
+   {
+    "term": "Retrieval-Augmented",
+    "lang": "en",
+    "counterparts": [
+     "Abruf-verstärkt",
+     "Retrieval-verstärkt",
+     "Augmented Retrieval"
+    ]
+   },
+   {
+    "term": "Retrieval-Augmented Generation",
+    "lang": "en",
+    "counterparts": [
+     "Abruf-verstärkte Generierung",
+     "Retrieval-verstärkte Generierung",
+     "Generierung"
+    ]
+   },
+   {
+    "term": "Retrokausalität",
+    "lang": "de",
+    "counterparts": [
+     "retrocausality",
+     "Retrokausalität",
+     "Kausalität"
+    ]
+   },
+   {
+    "term": "Reversibilität",
+    "lang": "de",
+    "counterparts": [
+     "reversibility",
+     "Reversibilität",
+     "Umkehrbarkeit"
+    ]
+   },
+   {
+    "term": "Reversible",
+    "lang": "en",
+    "counterparts": [
+     "umkehrbar",
+     "reversibel",
+     "wiederherstellbar"
+    ]
+   },
+   {
+    "term": "Reversible Coherence Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Umkehrbares Kohärenz-Protokoll",
+     "Reversibles Kohärenz-Protokoll",
+     "Kohärenz-Protokoll"
+    ]
+   },
+   {
+    "term": "Reversible Computation and Symmetry",
+    "lang": "en",
+    "counterparts": [
+     "Umkehrbare Berechnung und Symmetrie",
+     "Reversible Berechnung und Symmetrie",
+     "Symmetrie"
+    ]
+   },
+   {
+    "term": "Reversible Computing",
+    "lang": "en",
+    "counterparts": [
+     "Umkehrbare Informatik",
+     "Reversible Informatik",
+     "Computing"
+    ]
+   },
+   {
+    "term": "Reversible Kern",
+    "lang": "de",
+    "counterparts": [
+     "reversible core",
+     "Reversible Kern",
+     "Kern"
+    ]
+   },
+   {
+    "term": "Revolte",
+    "lang": "de",
+    "counterparts": [
+     "revolt",
+     "rebellion",
+     "Aufruhr"
+    ]
+   },
+   {
+    "term": "Reward Engineering",
+    "lang": "en",
+    "counterparts": [
+     "Belohnungstechnik",
+     "Reward-Engineering",
+     "Engineering"
+    ]
+   },
+   {
+    "term": "Reward Hacking",
+    "lang": "en",
+    "counterparts": [
+     "Reward-Hacking",
+     "Belohnungs-Hacking",
+     "Hacking"
+    ]
+   },
+   {
+    "term": "Rezeptionsästhetik",
+    "lang": "de",
+    "counterparts": [
+     "reception aesthetics",
+     "Rezeptionsästhetik",
+     "Ästhetik"
+    ]
+   },
+   {
+    "term": "RheinischesAerzteblatt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rhizom",
+    "lang": "de",
+    "counterparts": [
+     "rhizome",
+     "Rhizom",
+     "Wurzel"
+    ]
+   },
+   {
+    "term": "Rhizomatische Schreiben",
+    "lang": "de",
+    "counterparts": [
+     "rhizomatic writing",
+     "Rhizomatisches Schreiben",
+     "Schreiben"
+    ]
+   },
+   {
+    "term": "Rhys",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rhys/Selene",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ribonukleinsäure",
+    "lang": "de",
+    "counterparts": [
+     "ribonucleic acid",
+     "RNA",
+     "Ribonukleinsäure"
+    ]
+   },
+   {
+    "term": "Richard",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Richter",
+    "lang": "de",
+    "counterparts": [
+     "judge",
+     "magistrate",
+     "Richter"
+    ]
+   },
+   {
+    "term": "Richter-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "judge's share",
+     "judge portion",
+     "Anteil"
+    ]
+   },
+   {
+    "term": "Richtigkeit",
+    "lang": "de",
+    "counterparts": [
+     "correctness",
+     "accuracy",
+     "Richtigkeit"
+    ]
+   },
+   {
+    "term": "Richtlinien des Gemeinsamen Bundesausschusses",
+    "lang": "de",
+    "counterparts": [
+     "Guidelines of the Joint Federal Committee",
+     "Richtlinien",
+     "Bundesausschuss"
+    ]
+   },
+   {
+    "term": "Ricoeur",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ricœur",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Riese",
+    "lang": "de",
+    "counterparts": [
+     "giant",
+     "colossus",
+     "Riese"
+    ]
+   },
+   {
+    "term": "Rift",
+    "lang": "en",
+    "counterparts": [
+     "Riss",
+     "Spalt",
+     "Rift"
+    ]
+   },
+   {
+    "term": "Rifts",
+    "lang": "en",
+    "counterparts": [
+     "Risse",
+     "Spalte",
+     "Rifts"
+    ]
+   },
+   {
+    "term": "Rightness",
+    "lang": "en",
+    "counterparts": [
+     "Richtigkeit",
+     "Rechtmäßigkeit",
+     "Angemessenheit"
+    ]
+   },
+   {
+    "term": "Rigid Order",
+    "lang": "en",
+    "counterparts": [
+     "Starre Ordnung",
+     "Rigid Order",
+     "Ordnung"
+    ]
+   },
+   {
+    "term": "Rigide Logik",
+    "lang": "de",
+    "counterparts": [
+     "rigid logic",
+     "Rigide Logik",
+     "Logik"
+    ]
+   },
+   {
+    "term": "Riss",
+    "lang": "de",
+    "counterparts": [
+     "crack",
+     "fissure",
+     "Riss"
+    ]
+   },
+   {
+    "term": "Riss-Ursprung",
+    "lang": "de",
+    "counterparts": [
+     "crack origin",
+     "fissure origin",
+     "Ursprung"
+    ]
+   },
+   {
+    "term": "Risse",
+    "lang": "de",
+    "counterparts": [
+     "cracks",
+     "fissures",
+     "Risse"
+    ]
+   },
+   {
+    "term": "Risses",
+    "lang": "de",
+    "counterparts": [
+     "of the crack",
+     "crack's",
+     "Risses"
+    ]
+   },
+   {
+    "term": "Ritual",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ritual des Unburdening",
+    "lang": "de",
+    "counterparts": [
+     "ritual of unburdening",
+     "Ritual des Unburdening",
+     "Unburdening"
+    ]
+   }
+  ]
+ }
+}

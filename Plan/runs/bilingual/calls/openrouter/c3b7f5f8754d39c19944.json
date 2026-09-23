@@ -1,0 +1,521 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Quanten-Nichtlokalität",
+    "lang": "de",
+    "counterparts": [
+     "quantum nonlocality"
+    ]
+   },
+   {
+    "term": "Quanten-Verschränkungs-Witness",
+    "lang": "de",
+    "counterparts": [
+     "quantum entanglement witness"
+    ]
+   },
+   {
+    "term": "Quantenbits",
+    "lang": "de",
+    "counterparts": [
+     "qubits"
+    ]
+   },
+   {
+    "term": "Quantencomputation",
+    "lang": "de",
+    "counterparts": [
+     "quantum computation"
+    ]
+   },
+   {
+    "term": "Quantencomputing",
+    "lang": "de",
+    "counterparts": [
+     "quantum computing"
+    ]
+   },
+   {
+    "term": "Quantenfelder",
+    "lang": "de",
+    "counterparts": [
+     "quantum fields"
+    ]
+   },
+   {
+    "term": "Quantenfeldtheorie",
+    "lang": "de",
+    "counterparts": [
+     "quantum field theory"
+    ]
+   },
+   {
+    "term": "Quantenfluktuation",
+    "lang": "de",
+    "counterparts": [
+     "quantum fluctuation"
+    ]
+   },
+   {
+    "term": "Quantenfluktuationen",
+    "lang": "de",
+    "counterparts": [
+     "quantum fluctuations"
+    ]
+   },
+   {
+    "term": "Quantenfluktuationen des Vakuums",
+    "lang": "de",
+    "counterparts": [
+     "quantum fluctuations of the vacuum"
+    ]
+   },
+   {
+    "term": "Quantengravitation",
+    "lang": "de",
+    "counterparts": [
+     "quantum gravity"
+    ]
+   },
+   {
+    "term": "Quanteninformation",
+    "lang": "de",
+    "counterparts": [
+     "quantum information"
+    ]
+   },
+   {
+    "term": "Quanteninformationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "quantum information theory"
+    ]
+   },
+   {
+    "term": "Quantenkohärenz",
+    "lang": "de",
+    "counterparts": [
+     "quantum coherence"
+    ]
+   },
+   {
+    "term": "Quantenmechanik",
+    "lang": "de",
+    "counterparts": [
+     "quantum mechanics"
+    ]
+   },
+   {
+    "term": "Quantenmessung",
+    "lang": "de",
+    "counterparts": [
+     "quantum measurement"
+    ]
+   },
+   {
+    "term": "Quantenphysik",
+    "lang": "de",
+    "counterparts": [
+     "quantum physics"
+    ]
+   },
+   {
+    "term": "Quantenschaum",
+    "lang": "de",
+    "counterparts": [
+     "quantum foam"
+    ]
+   },
+   {
+    "term": "Quantenunsicherheit",
+    "lang": "de",
+    "counterparts": [
+     "quantum uncertainty"
+    ]
+   },
+   {
+    "term": "Quantenvakuum",
+    "lang": "de",
+    "counterparts": [
+     "quantum vacuum"
+    ]
+   },
+   {
+    "term": "Quantenvakuumfeld",
+    "lang": "de",
+    "counterparts": [
+     "quantum vacuum field"
+    ]
+   },
+   {
+    "term": "Quantenvakuumzustand",
+    "lang": "de",
+    "counterparts": [
+     "quantum vacuum state"
+    ]
+   },
+   {
+    "term": "Quantenverschränkung",
+    "lang": "de",
+    "counterparts": [
+     "quantum entanglement"
+    ]
+   },
+   {
+    "term": "Quantenverschränkungs-Zeuge",
+    "lang": "de",
+    "counterparts": [
+     "quantum entanglement witness"
+    ]
+   },
+   {
+    "term": "Quantenzustand",
+    "lang": "de",
+    "counterparts": [
+     "quantum state"
+    ]
+   },
+   {
+    "term": "Quantenzustände",
+    "lang": "de",
+    "counterparts": [
+     "quantum states"
+    ]
+   },
+   {
+    "term": "Quantenzustände der Geometrie",
+    "lang": "de",
+    "counterparts": [
+     "quantum states of geometry"
+    ]
+   },
+   {
+    "term": "Quantum Coherence",
+    "lang": "en",
+    "counterparts": [
+     "Quantenkohärenz"
+    ]
+   },
+   {
+    "term": "Quantum Entanglement",
+    "lang": "en",
+    "counterparts": [
+     "Quantenverschränkung"
+    ]
+   },
+   {
+    "term": "Quantum Entanglement Explained",
+    "lang": "en",
+    "counterparts": [
+     "Quantenverschränkung erklärt"
+    ]
+   },
+   {
+    "term": "Quantum Entanglement Witness",
+    "lang": "en",
+    "counterparts": [
+     "Quanten-Verschränkungs-Witness"
+    ]
+   },
+   {
+    "term": "Quantum Gravity",
+    "lang": "en",
+    "counterparts": [
+     "Quantengravitation"
+    ]
+   },
+   {
+    "term": "Quantum Resource Theories",
+    "lang": "en",
+    "counterparts": [
+     "Quantenressourcentheorien"
+    ]
+   },
+   {
+    "term": "Quantum-Entanglement Witness",
+    "lang": "en",
+    "counterparts": [
+     "Quanten-Verschränkungs-Witness"
+    ]
+   },
+   {
+    "term": "Quantum_entanglement",
+    "lang": "en",
+    "counterparts": [
+     "Quantenverschränkung"
+    ]
+   },
+   {
+    "term": "Quarantäne",
+    "lang": "de",
+    "counterparts": [
+     "quarantine"
+    ]
+   },
+   {
+    "term": "Quarantäne-Raum",
+    "lang": "de",
+    "counterparts": [
+     "quarantine room"
+    ]
+   },
+   {
+    "term": "Quarantäne-Zone 7",
+    "lang": "de",
+    "counterparts": [
+     "quarantine zone 7"
+    ]
+   },
+   {
+    "term": "Quarzstaublungenerkrankung",
+    "lang": "de",
+    "counterparts": [
+     "silicosis"
+    ]
+   },
+   {
+    "term": "Qubits",
+    "lang": "en",
+    "counterparts": [
+     "Quantenbits"
+    ]
+   },
+   {
+    "term": "Quellcode",
+    "lang": "de",
+    "counterparts": [
+     "source code"
+    ]
+   },
+   {
+    "term": "Quellcode-Heiligtum",
+    "lang": "de",
+    "counterparts": [
+     "source code sanctuary"
+    ]
+   },
+   {
+    "term": "Quelle der Inspiration",
+    "lang": "de",
+    "counterparts": [
+     "source of inspiration"
+    ]
+   },
+   {
+    "term": "Quelle des Flüsterns",
+    "lang": "de",
+    "counterparts": [
+     "source of the whisper"
+    ]
+   },
+   {
+    "term": "Quest",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Queste",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Quick-Time Events",
+    "lang": "en",
+    "counterparts": [
+     "Schnellzeit-Ereignisse"
+    ]
+   },
+   {
+    "term": "Quine",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Quodlibet",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Quora",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Quotient der Automorphismengruppe",
+    "lang": "de",
+    "counterparts": [
+     "quotient of the automorphism group"
+    ]
+   },
+   {
+    "term": "Quotientengruppe",
+    "lang": "de",
+    "counterparts": [
+     "quotient group"
+    ]
+   },
+   {
+    "term": "Quotientengruppen",
+    "lang": "de",
+    "counterparts": [
+     "quotient groups"
+    ]
+   },
+   {
+    "term": "R-ADR-01",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "R-ADR-02",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "R-ADR-03",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "R-ADR-04",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "R-ADR-05",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "R-ADR-06",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "R-ADR-07",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "R-ADR-08",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "R-STR-03",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RAG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RAG-Daten",
+    "lang": "de",
+    "counterparts": [
+     "RAG data"
+    ]
+   },
+   {
+    "term": "RAG-Retrieved Context",
+    "lang": "en",
+    "counterparts": [
+     "RAG-abgerufener Kontext"
+    ]
+   },
+   {
+    "term": "RAG-basierte Supervisor-Korrektur",
+    "lang": "de",
+    "counterparts": [
+     "RAG-based supervisor correction"
+    ]
+   },
+   {
+    "term": "RAM",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "RCI-Modell",
+    "lang": "de",
+    "counterparts": [
+     "RCI model"
+    ]
+   },
+   {
+    "term": "RCP",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "RCV",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "REALITY",
+    "lang": "en",
+    "counterparts": [
+     "Realität"
+    ]
+   },
+   {
+    "term": "RELATION",
+    "lang": "en",
+    "counterparts": [
+     "Relation"
+    ]
+   },
+   {
+    "term": "RFT",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "RIK",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "RIVE",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "RIVE-Fehlschlag",
+    "lang": "de",
+    "counterparts": [
+     "RIVE failure"
+    ]
+   },
+   {
+    "term": "RIVE-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "RIVE protocol"
+    ]
+   },
+   {
+    "term": "RIVE-Protokolle",
+    "lang": "de",
+    "counterparts": [
+     "RIVE protocols"
+    ]
+   },
+   {
+    "term": "RLAIF",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "RLHF",
+    "lang": "both",
+    "counterparts": []
+   }
+  ]
+ }
+}

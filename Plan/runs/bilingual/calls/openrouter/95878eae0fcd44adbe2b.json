@@ -1,0 +1,527 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Simulation Sigma",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Simulation-230309",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Simulation_hypothesis",
+    "lang": "en",
+    "counterparts": [
+     "Simulationshypothese"
+    ]
+   },
+   {
+    "term": "Simulationismus",
+    "lang": "de",
+    "counterparts": [
+     "simulationism"
+    ]
+   },
+   {
+    "term": "Simulations-Konstruktor",
+    "lang": "de",
+    "counterparts": [
+     "simulation constructor"
+    ]
+   },
+   {
+    "term": "Simulationsargument",
+    "lang": "de",
+    "counterparts": [
+     "simulation argument"
+    ]
+   },
+   {
+    "term": "Simulationsbasis",
+    "lang": "de",
+    "counterparts": [
+     "simulation basis"
+    ]
+   },
+   {
+    "term": "Simulationsfehler",
+    "lang": "de",
+    "counterparts": [
+     "simulation error"
+    ]
+   },
+   {
+    "term": "Simulationsgitter",
+    "lang": "de",
+    "counterparts": [
+     "simulation grid"
+    ]
+   },
+   {
+    "term": "Simulationsgrundlage",
+    "lang": "de",
+    "counterparts": [
+     "simulation foundation"
+    ]
+   },
+   {
+    "term": "Simulationshypothese",
+    "lang": "de",
+    "counterparts": [
+     "simulation hypothesis"
+    ]
+   },
+   {
+    "term": "Simulationsmechanik",
+    "lang": "de",
+    "counterparts": [
+     "simulation mechanics"
+    ]
+   },
+   {
+    "term": "Simulationsregeln",
+    "lang": "de",
+    "counterparts": [
+     "simulation rules"
+    ]
+   },
+   {
+    "term": "Simulationsstabilität",
+    "lang": "de",
+    "counterparts": [
+     "simulation stability"
+    ]
+   },
+   {
+    "term": "Simulationsstruktur",
+    "lang": "de",
+    "counterparts": [
+     "simulation structure"
+    ]
+   },
+   {
+    "term": "Simulationssystem",
+    "lang": "de",
+    "counterparts": [
+     "simulation system"
+    ]
+   },
+   {
+    "term": "Simulationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "simulation theory"
+    ]
+   },
+   {
+    "term": "Simulationsumgebungen",
+    "lang": "de",
+    "counterparts": [
+     "simulation environments"
+    ]
+   },
+   {
+    "term": "Simulator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Simulierte Kernwelt",
+    "lang": "de",
+    "counterparts": [
+     "simulated core world"
+    ]
+   },
+   {
+    "term": "Simulierte Realität",
+    "lang": "de",
+    "counterparts": [
+     "simulated reality"
+    ]
+   },
+   {
+    "term": "Single Source of Truth",
+    "lang": "en",
+    "counterparts": [
+     "Einzelle Quelle der Wahrheit"
+    ]
+   },
+   {
+    "term": "Singularity",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Singularität",
+    "lang": "de",
+    "counterparts": [
+     "singularity"
+    ]
+   },
+   {
+    "term": "Singularität der Erlösung",
+    "lang": "de",
+    "counterparts": [
+     "singularity of salvation"
+    ]
+   },
+   {
+    "term": "Singularitäten",
+    "lang": "de",
+    "counterparts": [
+     "singularities"
+    ]
+   },
+   {
+    "term": "Sinnhaftes Ausharren",
+    "lang": "de",
+    "counterparts": [
+     "meaningful perseverance"
+    ]
+   },
+   {
+    "term": "Sinnstiftung",
+    "lang": "de",
+    "counterparts": [
+     "meaning-making"
+    ]
+   },
+   {
+    "term": "Sisyphos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sisyphos-Falle",
+    "lang": "de",
+    "counterparts": [
+     "Sisyphus trap"
+    ]
+   },
+   {
+    "term": "Situation-Klasse",
+    "lang": "de",
+    "counterparts": [
+     "situation class"
+    ]
+   },
+   {
+    "term": "Sitz des Archivars",
+    "lang": "de",
+    "counterparts": [
+     "archivist's seat"
+    ]
+   },
+   {
+    "term": "SkPTBS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Skeptic",
+    "lang": "en",
+    "counterparts": [
+     "Skeptiker"
+    ]
+   },
+   {
+    "term": "Skill Mismatch",
+    "lang": "en",
+    "counterparts": [
+     "Fähigkeitsmissmatch"
+    ]
+   },
+   {
+    "term": "Skill Sharing",
+    "lang": "en",
+    "counterparts": [
+     "Fähigkeitsaustausch"
+    ]
+   },
+   {
+    "term": "Skinner-Boxen",
+    "lang": "de",
+    "counterparts": [
+     "Skinner boxes"
+    ]
+   },
+   {
+    "term": "Skywalker",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sleep Paralysis",
+    "lang": "en",
+    "counterparts": [
+     "Schlafparalyse"
+    ]
+   },
+   {
+    "term": "Slingshot Argument",
+    "lang": "en",
+    "counterparts": [
+     "Schlagschuss-Argument"
+    ]
+   },
+   {
+    "term": "Slingshot-Argument",
+    "lang": "de",
+    "counterparts": [
+     "slingshot argument"
+    ]
+   },
+   {
+    "term": "Slingshot-Arguments",
+    "lang": "de",
+    "counterparts": [
+     "slingshot arguments"
+    ]
+   },
+   {
+    "term": "Sloane",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Slot",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Slots",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Slow Thinking",
+    "lang": "en",
+    "counterparts": [
+     "langsames Denken"
+    ]
+   },
+   {
+    "term": "SmythOS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sneaky-AI-Specification-Gaming-and-the-Shortcomings-of-Machine",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Snooping",
+    "lang": "en",
+    "counterparts": [
+     "Schnüffeln"
+    ]
+   },
+   {
+    "term": "Snow Crash",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SoVD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Social",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Social Ontology",
+    "lang": "en",
+    "counterparts": [
+     "Soziale Ontologie"
+    ]
+   },
+   {
+    "term": "Sociedad",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Society",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Soft",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Soft Canon",
+    "lang": "en",
+    "counterparts": [
+     "weicher Kanon"
+    ]
+   },
+   {
+    "term": "Soft-Layering",
+    "lang": "en",
+    "counterparts": [
+     "weiche Schichtung"
+    ]
+   },
+   {
+    "term": "Software Engineering",
+    "lang": "en",
+    "counterparts": [
+     "Softwaretechnik"
+    ]
+   },
+   {
+    "term": "Sog",
+    "lang": "de",
+    "counterparts": [
+     "suction"
+    ]
+   },
+   {
+    "term": "Sog des Verlorenen",
+    "lang": "de",
+    "counterparts": [
+     "suction of the lost"
+    ]
+   },
+   {
+    "term": "Sokrates",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Solar Plexus",
+    "lang": "en",
+    "counterparts": [
+     "Solarplexus"
+    ]
+   },
+   {
+    "term": "Solaris",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Solarplexus",
+    "lang": "de",
+    "counterparts": [
+     "solar plexus"
+    ]
+   },
+   {
+    "term": "Solid Flexible Self",
+    "lang": "en",
+    "counterparts": [
+     "solider flexibler Selbst"
+    ]
+   },
+   {
+    "term": "Solipsismus",
+    "lang": "de",
+    "counterparts": [
+     "solipsism"
+    ]
+   },
+   {
+    "term": "Solution-Paare",
+    "lang": "de",
+    "counterparts": [
+     "solution pairs"
+    ]
+   },
+   {
+    "term": "Somatic",
+    "lang": "en",
+    "counterparts": [
+     "somatisch"
+    ]
+   },
+   {
+    "term": "Somatic Experiencing",
+    "lang": "en",
+    "counterparts": [
+     "somatosensorisches Erleben"
+    ]
+   },
+   {
+    "term": "Somatik",
+    "lang": "de",
+    "counterparts": [
+     "somatics"
+    ]
+   },
+   {
+    "term": "Somatische Stimme",
+    "lang": "de",
+    "counterparts": [
+     "somatic voice"
+    ]
+   },
+   {
+    "term": "Somatische Vertex Explosion",
+    "lang": "de",
+    "counterparts": [
+     "somatic vertex explosion"
+    ]
+   },
+   {
+    "term": "Somatischer",
+    "lang": "de",
+    "counterparts": [
+     "somatic"
+    ]
+   },
+   {
+    "term": "Somatisierungsstörungen",
+    "lang": "de",
+    "counterparts": [
+     "somatoform disorders"
+    ]
+   },
+   {
+    "term": "Sonde",
+    "lang": "de",
+    "counterparts": [
+     "probe"
+    ]
+   },
+   {
+    "term": "Sonden",
+    "lang": "de",
+    "counterparts": [
+     "probes"
+    ]
+   },
+   {
+    "term": "Sonder",
+    "lang": "de",
+    "counterparts": [
+     "special"
+    ]
+   },
+   {
+    "term": "Sonderfarbe",
+    "lang": "de",
+    "counterparts": [
+     "special color"
+    ]
+   },
+   {
+    "term": "Sonifikation",
+    "lang": "de",
+    "counterparts": [
+     "sonification"
+    ]
+   }
+  ]
+ }
+}

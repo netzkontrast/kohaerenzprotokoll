@@ -93,8 +93,11 @@ def parse(path: Path) -> dict:
 
 
 def lists(slugs: list[str] | None = None) -> list[dict]:
+    """Every per-document list: a file here named for a landed document. Other
+    files share the folder (README.md, bilingual.md) and are not lists."""
+    landed = {d.slug for d in subject.documents()}
     paths = [LISTS / f"{s}.md" for s in slugs] if slugs else sorted(LISTS.glob("*.md"))
-    return [parse(p) for p in paths if p.exists() and p.name != "README.md"]
+    return [parse(p) for p in paths if p.exists() and p.stem in landed]
 
 
 def verify(entry: dict) -> dict:

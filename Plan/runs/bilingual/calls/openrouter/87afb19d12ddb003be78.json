@@ -1,0 +1,547 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Große Mauer",
+    "lang": "de",
+    "counterparts": [
+     "Great Wall"
+    ]
+   },
+   {
+    "term": "Große Sprachmodelle",
+    "lang": "de",
+    "counterparts": [
+     "Large language models"
+    ]
+   },
+   {
+    "term": "Große System-Monitor",
+    "lang": "de",
+    "counterparts": [
+     "Large system monitor"
+    ]
+   },
+   {
+    "term": "Großen Vereinheitlichten Theorie",
+    "lang": "de",
+    "counterparts": [
+     "Grand Unified Theory"
+    ]
+   },
+   {
+    "term": "Großvaterparadoxon",
+    "lang": "de",
+    "counterparts": [
+     "grandfather paradox"
+    ]
+   },
+   {
+    "term": "Grund",
+    "lang": "de",
+    "counterparts": [
+     "ground",
+     "base",
+     "reason"
+    ]
+   },
+   {
+    "term": "Grundbegriffe der Informationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "basic concepts of information theory"
+    ]
+   },
+   {
+    "term": "Grundgesetz",
+    "lang": "de",
+    "counterparts": [
+     "Basic Law"
+    ]
+   },
+   {
+    "term": "Grundlage der Versorgungsmedizin-Verordnung",
+    "lang": "de",
+    "counterparts": [
+     "basis of the medical care regulation"
+    ]
+   },
+   {
+    "term": "Grundlagen der Dissoziativen Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "foundations of dissociative identity disorder"
+    ]
+   },
+   {
+    "term": "Grundlagen der Dual-Kernel-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "foundations of the dual-kernel theory"
+    ]
+   },
+   {
+    "term": "Grundmann",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Grundspannungen",
+    "lang": "de",
+    "counterparts": [
+     "base tensions"
+    ]
+   },
+   {
+    "term": "Grundzustand",
+    "lang": "de",
+    "counterparts": [
+     "ground state"
+    ]
+   },
+   {
+    "term": "Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "group"
+    ]
+   },
+   {
+    "term": "Gruppe der Symmetrien",
+    "lang": "de",
+    "counterparts": [
+     "group of symmetries"
+    ]
+   },
+   {
+    "term": "Gruppentheorie",
+    "lang": "de",
+    "counterparts": [
+     "group theory"
+    ]
+   },
+   {
+    "term": "Gruppentheorie und Zahlentheorie",
+    "lang": "de",
+    "counterparts": [
+     "group theory and number theory"
+    ]
+   },
+   {
+    "term": "Guardian",
+    "lang": "en",
+    "counterparts": [
+     "Wächter",
+     "Schützer",
+     "Beschützer"
+    ]
+   },
+   {
+    "term": "Guardian Cerberus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Guardian Koordinationszentrum",
+    "lang": "de",
+    "counterparts": [
+     "Guardian Coordination Center"
+    ]
+   },
+   {
+    "term": "Guardian-Dimension",
+    "lang": "de",
+    "counterparts": [
+     "Guardian Dimension"
+    ]
+   },
+   {
+    "term": "Guardian-Domäne",
+    "lang": "de",
+    "counterparts": [
+     "Guardian Domain"
+    ]
+   },
+   {
+    "term": "Guardian-Interface-Protokolle",
+    "lang": "de",
+    "counterparts": [
+     "Guardian Interface Protocols"
+    ]
+   },
+   {
+    "term": "Guardian-Interferenz",
+    "lang": "de",
+    "counterparts": [
+     "Guardian Interference"
+    ]
+   },
+   {
+    "term": "Guardian-zu-Guardian Kommunikation",
+    "lang": "de",
+    "counterparts": [
+     "Guardian-to-Guardian communication"
+    ]
+   },
+   {
+    "term": "Guardians",
+    "lang": "en",
+    "counterparts": [
+     "Wächter",
+     "Schützer",
+     "Beschützer"
+    ]
+   },
+   {
+    "term": "Guattari",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Guided Generation",
+    "lang": "en",
+    "counterparts": [
+     "geleitete Generation",
+     "geführte Generation",
+     "gesteuerte Generation"
+    ]
+   },
+   {
+    "term": "Guided Imagery and Music",
+    "lang": "en",
+    "counterparts": [
+     "Geführte Imagery und Musik",
+     "geleitete Imagery und Musik",
+     "geleitete Bildvorstellung und Musik"
+    ]
+   },
+   {
+    "term": "Guidelines",
+    "lang": "en",
+    "counterparts": [
+     "Leitlinien",
+     "Richtlinien",
+     "Handlungsanweisungen"
+    ]
+   },
+   {
+    "term": "GÖDEL-ESQUE SELF-REFERENCE",
+    "lang": "en",
+    "counterparts": [
+     "gödel-esque Selbstreferenz",
+     "gödel-artige Selbstreferenz",
+     "gödel-ähnliche Selbstreferenz"
+    ]
+   },
+   {
+    "term": "GÖDELIAN",
+    "lang": "en",
+    "counterparts": [
+     "gödelisch",
+     "gödel-artig",
+     "gödelian"
+    ]
+   },
+   {
+    "term": "Gänge",
+    "lang": "de",
+    "counterparts": [
+     "gangs",
+     "ways",
+     "passages"
+    ]
+   },
+   {
+    "term": "Gärtner",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gärtner-Metapher",
+    "lang": "de",
+    "counterparts": [
+     "Gardener metaphor"
+    ]
+   },
+   {
+    "term": "Gödel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gödel Gambit",
+    "lang": "en",
+    "counterparts": [
+     "Gödel-Gambit"
+    ]
+   },
+   {
+    "term": "Gödel-Falle",
+    "lang": "de",
+    "counterparts": [
+     "Gödel trap"
+    ]
+   },
+   {
+    "term": "Gödel-Gambit",
+    "lang": "de",
+    "counterparts": [
+     "Gödel Gambit"
+    ]
+   },
+   {
+    "term": "Gödel-Gambit Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "Gödel-Gambit protocol"
+    ]
+   },
+   {
+    "term": "Gödel-Gambit-Vorbereitung",
+    "lang": "de",
+    "counterparts": [
+     "Gödel-Gambit preparation"
+    ]
+   },
+   {
+    "term": "Gödel-Gambits",
+    "lang": "de",
+    "counterparts": [
+     "Gödel Gambits"
+    ]
+   },
+   {
+    "term": "Gödel-Grenze",
+    "lang": "de",
+    "counterparts": [
+     "Gödel boundary"
+    ]
+   },
+   {
+    "term": "Gödel-Satz",
+    "lang": "de",
+    "counterparts": [
+     "Gödel's theorem"
+    ]
+   },
+   {
+    "term": "Gödel-Satzes",
+    "lang": "de",
+    "counterparts": [
+     "Gödel's theorem"
+    ]
+   },
+   {
+    "term": "Gödel-Sätze",
+    "lang": "de",
+    "counterparts": [
+     "Gödel's theorems"
+    ]
+   },
+   {
+    "term": "Gödel-Typ",
+    "lang": "de",
+    "counterparts": [
+     "Gödel type"
+    ]
+   },
+   {
+    "term": "Gödel-sentence",
+    "lang": "en",
+    "counterparts": [
+     "Gödel-Satz"
+    ]
+   },
+   {
+    "term": "Gödelian",
+    "lang": "en",
+    "counterparts": [
+     "gödelisch"
+    ]
+   },
+   {
+    "term": "Gödels",
+    "lang": "de",
+    "counterparts": [
+     "Gödel's"
+    ]
+   },
+   {
+    "term": "Gödels Unvollständigkeit",
+    "lang": "de",
+    "counterparts": [
+     "Gödel's incompleteness"
+    ]
+   },
+   {
+    "term": "Gödels Unvollständigkeitssatz",
+    "lang": "de",
+    "counterparts": [
+     "Gödel's incompleteness theorem"
+    ]
+   },
+   {
+    "term": "Gödels Unvollständigkeitssätze",
+    "lang": "de",
+    "counterparts": [
+     "Gödel's incompleteness theorems"
+    ]
+   },
+   {
+    "term": "Gödelsche Momente",
+    "lang": "de",
+    "counterparts": [
+     "Gödelian moments"
+    ]
+   },
+   {
+    "term": "Gödelsche Stresstests",
+    "lang": "de",
+    "counterparts": [
+     "Gödelian stress tests"
+    ]
+   },
+   {
+    "term": "Gödelscher Knoten",
+    "lang": "de",
+    "counterparts": [
+     "Gödelian knot"
+    ]
+   },
+   {
+    "term": "Göttin",
+    "lang": "de",
+    "counterparts": [
+     "goddess"
+    ]
+   },
+   {
+    "term": "H1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "H73000",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HAL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HDI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HELM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HEP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HHN-Achse",
+    "lang": "de",
+    "counterparts": [
+     "HHN axis"
+    ]
+   },
+   {
+    "term": "HHN-Dysfunktion",
+    "lang": "de",
+    "counterparts": [
+     "HHN dysfunction"
+    ]
+   },
+   {
+    "term": "HIT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HOP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HOT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HPA-Achse",
+    "lang": "de",
+    "counterparts": [
+     "HPA axis"
+    ]
+   },
+   {
+    "term": "HR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HSOS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HUGE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HYBRID-SEKTOR GAMMA-OMEGA-PRIME",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hacken des Zentralrechners",
+    "lang": "de",
+    "counterparts": [
+     "hacking the mainframe"
+    ]
+   },
+   {
+    "term": "Hacking",
+    "lang": "en",
+    "counterparts": [
+     "Hacken",
+     "Eindringen",
+     "Knacken"
+    ]
+   },
+   {
+    "term": "Hacking the Mainframe",
+    "lang": "en",
+    "counterparts": [
+     "Hacken des Zentralrechners",
+     "Eindringen in den Hauptrechner",
+     "Knacken des Hauptrechners"
+    ]
+   }
+  ]
+ }
+}

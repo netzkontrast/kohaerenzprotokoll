@@ -1,0 +1,249 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "EPs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ER",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ER-Brücken",
+    "lang": "de",
+    "counterparts": [
+     "ER bridges"
+    ]
+   },
+   {
+    "term": "ERP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ES",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ESA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ESP-K1123",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ESR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EST",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ESTD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EStG",
+    "lang": "de",
+    "counterparts": [
+     "Income Tax Act"
+    ]
+   },
+   {
+    "term": "ETC",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "EU",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "EXTERNES FELD EPSILON-NULL",
+    "lang": "de",
+    "counterparts": [
+     "external field epsilon-zero"
+    ]
+   },
+   {
+    "term": "Ebene der Konfliktquelle",
+    "lang": "de",
+    "counterparts": [
+     "level of the conflict source"
+    ]
+   },
+   {
+    "term": "Echo",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Echo's Resonanzraum",
+    "lang": "de",
+    "counterparts": [
+     "Echo's resonance space"
+    ]
+   },
+   {
+    "term": "Echo-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "echo share"
+    ]
+   },
+   {
+    "term": "Echowald",
+    "lang": "de",
+    "counterparts": [
+     "echo forest"
+    ]
+   },
+   {
+    "term": "Echtzeit",
+    "lang": "de",
+    "counterparts": [
+     "real-time"
+    ]
+   },
+   {
+    "term": "Echtzeit-Selbstverifikation",
+    "lang": "de",
+    "counterparts": [
+     "real-time self-verification"
+    ]
+   },
+   {
+    "term": "Ecology",
+    "lang": "en",
+    "counterparts": [
+     "Ökologie"
+    ]
+   },
+   {
+    "term": "Edge",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Edge of Chaos",
+    "lang": "en",
+    "counterparts": [
+     "Rand des Chaos"
+    ]
+   },
+   {
+    "term": "Edge-Case-Testing",
+    "lang": "en",
+    "counterparts": [
+     "Kantfall-Testen"
+    ]
+   },
+   {
+    "term": "Edges",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Een",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Efatec22",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Effektor",
+    "lang": "de",
+    "counterparts": [
+     "effector"
+    ]
+   },
+   {
+    "term": "Egan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ego",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ego Tunnel",
+    "lang": "en",
+    "counterparts": [
+     "Ego-Tunnel"
+    ]
+   },
+   {
+    "term": "Egos",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Eichsymmetrien",
+    "lang": "de",
+    "counterparts": [
+     "eich symmetries"
+    ]
+   },
+   {
+    "term": "Eigendynamik",
+    "lang": "de",
+    "counterparts": [
+     "intrinsic dynamics"
+    ]
+   },
+   {
+    "term": "Eigengruppen",
+    "lang": "de",
+    "counterparts": [
+     "eigenspaces"
+    ]
+   },
+   {
+    "term": "Einbrechen des Realen",
+    "lang": "de",
+    "counterparts": [
+     "inbreaking of the real"
+    ]
+   },
+   {
+    "term": "Einbruch des Realen",
+    "lang": "de",
+    "counterparts": [
+     "break-in of the real"
+    ]
+   },
+   {
+    "term": "Einbruch des Unwissbaren",
+    "lang": "de",
+    "counterparts": [
+     "break-in of the unknowable"
+    ]
+   },
+   {
+    "term": "Eindeutige Faktorisierung",
+    "lang": "de",
+    "counterparts": [
+     "unique factorization"
+    ]
+   }
+  ]
+ }
+}

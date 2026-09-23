@@ -1,0 +1,579 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Phänotyp-Kohärenz-Protokolle",
+    "lang": "de",
+    "counterparts": [
+     "Phenotype Coherence Protocols",
+     "Phenotypic Coherence Protocols"
+    ]
+   },
+   {
+    "term": "Phönix Mode",
+    "lang": "de",
+    "counterparts": [
+     "Phoenix Mode",
+     "Phoenix Fashion"
+    ]
+   },
+   {
+    "term": "Phönix-Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "Phoenix Collapse"
+    ]
+   },
+   {
+    "term": "Pierre",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Pilznetzwerk",
+    "lang": "de",
+    "counterparts": [
+     "Mushroom Network",
+     "Fungal Network"
+    ]
+   },
+   {
+    "term": "Pivot",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Pixel",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Pixelierung",
+    "lang": "de",
+    "counterparts": [
+     "Pixelation"
+    ]
+   },
+   {
+    "term": "Place Attachment",
+    "lang": "en",
+    "counterparts": [
+     "Ortsbindung",
+     "Platzbindung",
+     "Place Attachment"
+    ]
+   },
+   {
+    "term": "Place Identity",
+    "lang": "en",
+    "counterparts": [
+     "Ortsidentität",
+     "Identität des Ortes",
+     "Place Identity"
+    ]
+   },
+   {
+    "term": "Planck",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Planck-Brane",
+    "lang": "de",
+    "counterparts": [
+     "Planck brane",
+     "Planck-scale brane"
+    ]
+   },
+   {
+    "term": "Planck-Brane and Emotional Parts",
+    "lang": "en",
+    "counterparts": [
+     "Planck-Brane und emotionale Teile",
+     "Planck-Brane und emotionalen Teile",
+     "Planck-Brane und emotionales Teil"
+    ]
+   },
+   {
+    "term": "Planck-Länge",
+    "lang": "de",
+    "counterparts": [
+     "Planck length"
+    ]
+   },
+   {
+    "term": "Planck-Skala",
+    "lang": "de",
+    "counterparts": [
+     "Planck scale"
+    ]
+   },
+   {
+    "term": "Planck-Skalen-Grenzen",
+    "lang": "de",
+    "counterparts": [
+     "Planck scale limits",
+     "Planck-scale limits"
+    ]
+   },
+   {
+    "term": "Planner",
+    "lang": "en",
+    "counterparts": [
+     "Planer",
+     "Planerin",
+     "Planer"
+    ]
+   },
+   {
+    "term": "Planner Module",
+    "lang": "en",
+    "counterparts": [
+     "Planermodul",
+     "Planer-Module",
+     "Planer Modul"
+    ]
+   },
+   {
+    "term": "Plato",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Platonism",
+    "lang": "en",
+    "counterparts": [
+     "Platonismus"
+    ]
+   },
+   {
+    "term": "Platonismus",
+    "lang": "de",
+    "counterparts": [
+     "Platonism"
+    ]
+   },
+   {
+    "term": "Platons",
+    "lang": "de",
+    "counterparts": [
+     "Plato's",
+     "of Plato"
+    ]
+   },
+   {
+    "term": "Platz der Definierten Regeln",
+    "lang": "de",
+    "counterparts": [
+     "Place of the defined rules",
+     "Space of defined rules"
+    ]
+   },
+   {
+    "term": "Player",
+    "lang": "en",
+    "counterparts": [
+     "Spieler",
+     "Player",
+     "Spielerin"
+    ]
+   },
+   {
+    "term": "Pleintinger",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Plot A",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Plot Sequence Report",
+    "lang": "en",
+    "counterparts": [
+     "Handlungsablauf-Bericht",
+     "Plot-Sequenz-Bericht",
+     "Handlungssequenz-Bericht"
+    ]
+   },
+   {
+    "term": "Plot-Ebene",
+    "lang": "de",
+    "counterparts": [
+     "Plot level",
+     "Plot plane"
+    ]
+   },
+   {
+    "term": "Plotin",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Plotinus-and-his-philosophy",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Plurale Apotheose",
+    "lang": "de",
+    "counterparts": [
+     "Plural apotheosis",
+     "Pluralistic apotheosis"
+    ]
+   },
+   {
+    "term": "Pluralitäts-Einwand",
+    "lang": "de",
+    "counterparts": [
+     "Plurality objection"
+    ]
+   },
+   {
+    "term": "Policy",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Polynomial",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Polyphonic",
+    "lang": "en",
+    "counterparts": [
+     "polyphon",
+     "Polyphonie",
+     "polyphon"
+    ]
+   },
+   {
+    "term": "Polyphonie",
+    "lang": "de",
+    "counterparts": [
+     "Polyphony"
+    ]
+   },
+   {
+    "term": "Polyphony",
+    "lang": "en",
+    "counterparts": [
+     "Polyphonie"
+    ]
+   },
+   {
+    "term": "Polyvagal",
+    "lang": "en",
+    "counterparts": [
+     "polyvagal",
+     "Polyvagal"
+    ]
+   },
+   {
+    "term": "Polyvagal-Perspektive",
+    "lang": "de",
+    "counterparts": [
+     "Polyvagal perspective"
+    ]
+   },
+   {
+    "term": "Polyvagal-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "Polyvagal theory"
+    ]
+   },
+   {
+    "term": "Polyvagales System",
+    "lang": "de",
+    "counterparts": [
+     "Polyvagal system"
+    ]
+   },
+   {
+    "term": "Popper",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Population",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Portal",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Portal Fantasy",
+    "lang": "en",
+    "counterparts": [
+     "Portal-Fantasie",
+     "Portal-Fantasy",
+     "Portal-Fantast"
+    ]
+   },
+   {
+    "term": "Portal-Fantasie",
+    "lang": "de",
+    "counterparts": [
+     "Portal fantasy"
+    ]
+   },
+   {
+    "term": "Portale",
+    "lang": "de",
+    "counterparts": [
+     "Portals"
+    ]
+   },
+   {
+    "term": "Positional",
+    "lang": "en",
+    "counterparts": [
+     "positionell",
+     "positionsbezogen",
+     "Positional"
+    ]
+   },
+   {
+    "term": "Positronen-Emissions-Tomographie",
+    "lang": "de",
+    "counterparts": [
+     "Positron emission tomography",
+     "PET"
+    ]
+   },
+   {
+    "term": "Possibilities",
+    "lang": "en",
+    "counterparts": [
+     "Möglichkeiten"
+    ]
+   },
+   {
+    "term": "Post Traumatic Growth",
+    "lang": "en",
+    "counterparts": [
+     "Posttraumatisches Wachstum",
+     "Posttraumatic Growth"
+    ]
+   },
+   {
+    "term": "Post-Reboot",
+    "lang": "en",
+    "counterparts": [
+     "Nach-Reboot",
+     "Post-Reboot"
+    ]
+   },
+   {
+    "term": "Post-Reboot-Standard",
+    "lang": "en",
+    "counterparts": [
+     "Nach-Reboot-Standard",
+     "Post-Reboot-Standard"
+    ]
+   },
+   {
+    "term": "Post-Reboot-Zustand",
+    "lang": "de",
+    "counterparts": [
+     "Post-reboot state"
+    ]
+   },
+   {
+    "term": "Post-Schisma",
+    "lang": "de",
+    "counterparts": [
+     "Post-schism"
+    ]
+   },
+   {
+    "term": "Post-Traumatic",
+    "lang": "en",
+    "counterparts": [
+     "posttraumatisch",
+     "Post-Traumatisch"
+    ]
+   },
+   {
+    "term": "Post-Traumatic Stress Disorder",
+    "lang": "en",
+    "counterparts": [
+     "Posttraumatische Belastungsstörung",
+     "PTSD"
+    ]
+   },
+   {
+    "term": "Posten des Regel-Exekutors",
+    "lang": "de",
+    "counterparts": [
+     "Items of the rule executor",
+     "Posts of the rule executor"
+    ]
+   },
+   {
+    "term": "Posthumanismus",
+    "lang": "de",
+    "counterparts": [
+     "Posthumanism"
+    ]
+   },
+   {
+    "term": "Posttraumatic Growth",
+    "lang": "en",
+    "counterparts": [
+     "Posttraumatisches Wachstum"
+    ]
+   },
+   {
+    "term": "Posttraumatic Stress Disorder",
+    "lang": "en",
+    "counterparts": [
+     "Posttraumatische Belastungsstörung",
+     "PTSD"
+    ]
+   },
+   {
+    "term": "Posttraumatische Belastungsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Post-traumatic stress disorder",
+     "PTSD"
+    ]
+   },
+   {
+    "term": "Posttraumatischen Belastungsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Post-traumatic stress disorder",
+     "PTSD"
+    ]
+   },
+   {
+    "term": "Posttraumatisches Wachstum",
+    "lang": "de",
+    "counterparts": [
+     "Post-traumatic growth"
+    ]
+   },
+   {
+    "term": "Postulat",
+    "lang": "de",
+    "counterparts": [
+     "Postulate"
+    ]
+   },
+   {
+    "term": "Potential",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Potential Sea",
+    "lang": "en",
+    "counterparts": [
+     "Potentialmeer",
+     "Potential-See"
+    ]
+   },
+   {
+    "term": "Potential Space",
+    "lang": "en",
+    "counterparts": [
+     "Potentialraum",
+     "Potential-Space"
+    ]
+   },
+   {
+    "term": "Potentiality",
+    "lang": "en",
+    "counterparts": [
+     "Potentialität",
+     "Potentialität"
+    ]
+   },
+   {
+    "term": "Potentialität",
+    "lang": "de",
+    "counterparts": [
+     "Potentiality"
+    ]
+   },
+   {
+    "term": "Potentialmeer",
+    "lang": "de",
+    "counterparts": [
+     "Potential sea",
+     "Potential ocean"
+    ]
+   },
+   {
+    "term": "Potentialmeer-Grenze",
+    "lang": "de",
+    "counterparts": [
+     "Potential sea limit",
+     "Potential sea boundary"
+    ]
+   },
+   {
+    "term": "Potentialmeer-Schnittstelle",
+    "lang": "de",
+    "counterparts": [
+     "Potential sea interface"
+    ]
+   },
+   {
+    "term": "Potentialmeers",
+    "lang": "de",
+    "counterparts": [
+     "of the potential sea",
+     "potential seas"
+    ]
+   },
+   {
+    "term": "Potentialraum",
+    "lang": "de",
+    "counterparts": [
+     "Potential space"
+    ]
+   },
+   {
+    "term": "Potentialraumdynamiken",
+    "lang": "de",
+    "counterparts": [
+     "Potential space dynamics"
+    ]
+   },
+   {
+    "term": "Potenzialfelder",
+    "lang": "de",
+    "counterparts": [
+     "Potential fields"
+    ]
+   },
+   {
+    "term": "PrWrite",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Praetor",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Prag",
+    "lang": "de",
+    "counterparts": [
+     "Prague"
+    ]
+   }
+  ]
+ }
+}

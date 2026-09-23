@@ -1,0 +1,657 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Entmischung",
+    "lang": "de",
+    "counterparts": [
+     "demixing",
+     "de-mixing",
+     "phase separation"
+    ]
+   },
+   {
+    "term": "Entropic",
+    "lang": "en",
+    "counterparts": [
+     "entropisch"
+    ]
+   },
+   {
+    "term": "Entropic Architecture",
+    "lang": "en",
+    "counterparts": [
+     "Entropische Architektur",
+     "Entropie-Architektur",
+     "Entropischer Aufbau"
+    ]
+   },
+   {
+    "term": "Entropic Gatekeeper",
+    "lang": "en",
+    "counterparts": [
+     "Entropischer Torwächter",
+     "Entropischer Gatekeeper",
+     "Entropie-Torwächter"
+    ]
+   },
+   {
+    "term": "Entropic Management Protocols",
+    "lang": "en",
+    "counterparts": [
+     "Entropische Management-Protokolle",
+     "Entropie-Management-Protokolle",
+     "Entropische Managementrichtlinien"
+    ]
+   },
+   {
+    "term": "EntropicMgmt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Entropie",
+    "lang": "de",
+    "counterparts": [
+     "entropy"
+    ]
+   },
+   {
+    "term": "Entropie der Simulation",
+    "lang": "de",
+    "counterparts": [
+     "entropy of the simulation",
+     "simulation entropy",
+     "entropy in the simulation"
+    ]
+   },
+   {
+    "term": "Entropie des Vergessens",
+    "lang": "de",
+    "counterparts": [
+     "entropy of forgetting",
+     "forgetting entropy",
+     "entropy due to forgetting"
+    ]
+   },
+   {
+    "term": "Entropie und Quellencodierungstheorem",
+    "lang": "de",
+    "counterparts": [
+     "entropy and source coding theorem",
+     "entropy plus source coding theorem",
+     "entropy and the source coding theorem"
+    ]
+   },
+   {
+    "term": "Entropie-Architektur",
+    "lang": "de",
+    "counterparts": [
+     "entropy architecture",
+     "entropic architecture",
+     "entropy-based architecture"
+    ]
+   },
+   {
+    "term": "Entropie-Ausgleichs-Kammer",
+    "lang": "de",
+    "counterparts": [
+     "entropy compensation chamber",
+     "entropy balancing chamber",
+     "entropy equilibration chamber"
+    ]
+   },
+   {
+    "term": "Entropie-Katastrophe",
+    "lang": "de",
+    "counterparts": [
+     "entropy catastrophe",
+     "entropic catastrophe",
+     "entropy disaster"
+    ]
+   },
+   {
+    "term": "Entropie-Knotenpunkt",
+    "lang": "de",
+    "counterparts": [
+     "entropy node",
+     "entropic node",
+     "entropy junction"
+    ]
+   },
+   {
+    "term": "Entropie-Management",
+    "lang": "de",
+    "counterparts": [
+     "entropy management",
+     "entropic management",
+     "entropy control"
+    ]
+   },
+   {
+    "term": "Entropie-Signatur",
+    "lang": "de",
+    "counterparts": [
+     "entropy signature",
+     "entropic signature",
+     "entropy fingerprint"
+    ]
+   },
+   {
+    "term": "Entropie-Torwächter-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "entropy gatekeeper protocol",
+     "entropic gatekeeper protocol",
+     "entropy torwächter protocol"
+    ]
+   },
+   {
+    "term": "Entropie-Überlastung",
+    "lang": "de",
+    "counterparts": [
+     "entropy overload",
+     "entropic overload",
+     "entropy excess"
+    ]
+   },
+   {
+    "term": "Entropie_",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Entropiekosten",
+    "lang": "de",
+    "counterparts": [
+     "entropy costs",
+     "entropic costs",
+     "cost of entropy"
+    ]
+   },
+   {
+    "term": "Entropieminimierung",
+    "lang": "de",
+    "counterparts": [
+     "entropy minimization",
+     "entropic minimization",
+     "minimizing entropy"
+    ]
+   },
+   {
+    "term": "Entropieproduktion",
+    "lang": "de",
+    "counterparts": [
+     "entropy production",
+     "entropic production",
+     "entropy generation"
+    ]
+   },
+   {
+    "term": "Entropiesenken",
+    "lang": "de",
+    "counterparts": [
+     "to reduce entropy",
+     "lower entropy",
+     "entropy reduction"
+    ]
+   },
+   {
+    "term": "Entropische Bedrohung",
+    "lang": "de",
+    "counterparts": [
+     "entropic threat",
+     "entropy threat",
+     "entropy danger"
+    ]
+   },
+   {
+    "term": "Entropische Fluktuation",
+    "lang": "de",
+    "counterparts": [
+     "entropic fluctuation",
+     "entropy fluctuation",
+     "entropy variation"
+    ]
+   },
+   {
+    "term": "Entropische Gravitation",
+    "lang": "de",
+    "counterparts": [
+     "entropic gravity",
+     "entropy gravity",
+     "gravitational entropy"
+    ]
+   },
+   {
+    "term": "Entropische Kohärenzregulation",
+    "lang": "de",
+    "counterparts": [
+     "entropic coherence regulation",
+     "entropy coherence regulation",
+     "coherence regulation via entropy"
+    ]
+   },
+   {
+    "term": "Entropisches Trauma",
+    "lang": "de",
+    "counterparts": [
+     "entropic trauma",
+     "entropy trauma",
+     "trauma due to entropy"
+    ]
+   },
+   {
+    "term": "Entropy",
+    "lang": "en",
+    "counterparts": [
+     "Entropie"
+    ]
+   },
+   {
+    "term": "Entropy_",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Entscheidungstheorie",
+    "lang": "de",
+    "counterparts": [
+     "decision theory",
+     "theory of decisions",
+     "decision-making theory"
+    ]
+   },
+   {
+    "term": "Entwicklungspsychologie",
+    "lang": "de",
+    "counterparts": [
+     "developmental psychology",
+     "psychology of development",
+     "developmental psych"
+    ]
+   },
+   {
+    "term": "Entwicklungstrauma",
+    "lang": "de",
+    "counterparts": [
+     "developmental trauma",
+     "trauma of development",
+     "early-life trauma"
+    ]
+   },
+   {
+    "term": "Environmental Storytelling",
+    "lang": "en",
+    "counterparts": [
+     "Umwelt-Storytelling",
+     "Umweltgeschichtenerzählung",
+     "Umgebungs-Storytelling"
+    ]
+   },
+   {
+    "term": "Eos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Episteme",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Epistemologie",
+    "lang": "de",
+    "counterparts": [
+     "epistemology"
+    ]
+   },
+   {
+    "term": "Epistemologischer Bruch",
+    "lang": "de",
+    "counterparts": [
+     "epistemological break",
+     "epistemic rupture",
+     "break in epistemology"
+    ]
+   },
+   {
+    "term": "Epistemology",
+    "lang": "en",
+    "counterparts": [
+     "Epistemologie"
+    ]
+   },
+   {
+    "term": "Epizentrum",
+    "lang": "de",
+    "counterparts": [
+     "epicenter"
+    ]
+   },
+   {
+    "term": "Epoché",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Epsilon",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Epsilon-Null",
+    "lang": "de",
+    "counterparts": [
+     "epsilon zero",
+     "ε-zero",
+     "epsilon‑0"
+    ]
+   },
+   {
+    "term": "Epsilon-Prime",
+    "lang": "en",
+    "counterparts": [
+     "Epsilon-Prim",
+     "ε‑Prim",
+     "Epsilon‑prima"
+    ]
+   },
+   {
+    "term": "Equilibrium",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Equity",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Erason",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Erason-Domäne",
+    "lang": "de",
+    "counterparts": [
+     "Erason domain",
+     "Erason area",
+     "Erason realm"
+    ]
+   },
+   {
+    "term": "Erason-Ereignis",
+    "lang": "de",
+    "counterparts": [
+     "Erason event",
+     "Erason occurrence",
+     "Erason incident"
+    ]
+   },
+   {
+    "term": "Erason-Operator",
+    "lang": "de",
+    "counterparts": [
+     "Erason operator",
+     "Erason operational",
+     "Erason operator function"
+    ]
+   },
+   {
+    "term": "Erason-Status",
+    "lang": "de",
+    "counterparts": [
+     "Erason status",
+     "Erason state",
+     "Erason condition"
+    ]
+   },
+   {
+    "term": "Erasonen",
+    "lang": "de",
+    "counterparts": [
+     "Erasons",
+     "Erason plural",
+     "Erason entities"
+    ]
+   },
+   {
+    "term": "Erasons",
+    "lang": "en",
+    "counterparts": [
+     "Erasonen"
+    ]
+   },
+   {
+    "term": "Erasure",
+    "lang": "en",
+    "counterparts": [
+     "Löschung",
+     "Radierung",
+     "Datenlöschung"
+    ]
+   },
+   {
+    "term": "Erasure Kernel",
+    "lang": "en",
+    "counterparts": [
+     "Löschkern",
+     "Radierkern",
+     "Kern der Löschung"
+    ]
+   },
+   {
+    "term": "Erasure-Kern",
+    "lang": "de",
+    "counterparts": [
+     "Erasure kernel",
+     "Erasure-Kern",
+     "deletion kernel"
+    ]
+   },
+   {
+    "term": "Erasure-Pol",
+    "lang": "en",
+    "counterparts": [
+     "Löschpol",
+     "Radierpol",
+     "Pol der Löschung"
+    ]
+   },
+   {
+    "term": "Erasure-Sweep",
+    "lang": "en",
+    "counterparts": [
+     "Löschsweep",
+     "Radiervorgang",
+     "Sweep der Löschung"
+    ]
+   },
+   {
+    "term": "Erasure-Sweeps",
+    "lang": "en",
+    "counterparts": [
+     "Löschsweeps",
+     "Radiervorgänge",
+     "Sweeps der Löschung"
+    ]
+   },
+   {
+    "term": "Ereignishorizont",
+    "lang": "de",
+    "counterparts": [
+     "event horizon"
+    ]
+   },
+   {
+    "term": "Ereignishorizonts",
+    "lang": "en",
+    "counterparts": [
+     "Ereignishorizont",
+     "Ereignishorizonte",
+     "Horizont des Ereignisses"
+    ]
+   },
+   {
+    "term": "Erforderliche Varietät",
+    "lang": "de",
+    "counterparts": [
+     "required variety",
+     "necessary variety",
+     "variety required"
+    ]
+   },
+   {
+    "term": "Erfüllbarkeitsproblem der Aussagenlogik",
+    "lang": "de",
+    "counterparts": [
+     "satisfiability problem of propositional logic",
+     "SAT problem of propositional logic",
+     "propositional satisfiability problem"
+    ]
+   },
+   {
+    "term": "Ergodic",
+    "lang": "en",
+    "counterparts": [
+     "ergodisch"
+    ]
+   },
+   {
+    "term": "Ergodisches Design",
+    "lang": "de",
+    "counterparts": [
+     "ergodic design",
+     "ergodic design",
+     "design based on ergodicity"
+    ]
+   },
+   {
+    "term": "Ergosphäre",
+    "lang": "de",
+    "counterparts": [
+     "ergosphere"
+    ]
+   },
+   {
+    "term": "Erhabene",
+    "lang": "de",
+    "counterparts": [
+     "the sublime",
+     "sublime",
+     "sublime entity"
+    ]
+   },
+   {
+    "term": "Erhaltung der Lesbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "preservation of readability",
+     "maintaining readability",
+     "readability preservation"
+    ]
+   },
+   {
+    "term": "Erik",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Erikson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Erinnerung/Emotion",
+    "lang": "de",
+    "counterparts": [
+     "memory/emotion",
+     "memory and emotion",
+     "emotion/memory"
+    ]
+   },
+   {
+    "term": "Erinnerungslandschaft",
+    "lang": "de",
+    "counterparts": [
+     "memory landscape",
+     "landscape of memory",
+     "remembrance landscape"
+    ]
+   },
+   {
+    "term": "Erinnerungsresonanz",
+    "lang": "de",
+    "counterparts": [
+     "memory resonance",
+     "resonance of memory",
+     "remembrance resonance"
+    ]
+   },
+   {
+    "term": "Erkenntnissen der Standpunkttheorie",
+    "lang": "de",
+    "counterparts": [
+     "insights from standpoint theory",
+     "standpoint theory insights",
+     "findings of standpoint theory"
+    ]
+   },
+   {
+    "term": "Erkenntnistheorie",
+    "lang": "de",
+    "counterparts": [
+     "epistemology"
+    ]
+   },
+   {
+    "term": "Erklärungslücke",
+    "lang": "de",
+    "counterparts": [
+     "explanatory gap",
+     "gap in explanation",
+     "missing explanation"
+    ]
+   },
+   {
+    "term": "Erlebniswelten der Anteile",
+    "lang": "de",
+    "counterparts": [
+     "experience worlds of the parts",
+     "worlds of experience of the components",
+     "experience realms of the elements"
+    ]
+   },
+   {
+    "term": "Erlebte Fragmentierung",
+    "lang": "de",
+    "counterparts": [
+     "experienced fragmentation",
+     "fragmentation experienced",
+     "lived fragmentation"
+    ]
+   },
+   {
+    "term": "Erlebte Rede",
+    "lang": "de",
+    "counterparts": [
+     "experienced speech",
+     "speech as experienced",
+     "lived speech"
+    ]
+   },
+   {
+    "term": "Erlösungsbogen",
+    "lang": "de",
+    "counterparts": [
+     "redemption arc",
+     "arc of redemption",
+     "redemption storyline"
+    ]
+   }
+  ]
+ }
+}

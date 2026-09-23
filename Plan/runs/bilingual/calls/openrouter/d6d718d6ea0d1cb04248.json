@@ -1,0 +1,531 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Semiotik",
+    "lang": "de",
+    "counterparts": [
+     "Semiotics"
+    ]
+   },
+   {
+    "term": "Senge",
+    "lang": "de",
+    "counterparts": []
+   },
+   {
+    "term": "Sense of Place",
+    "lang": "en",
+    "counterparts": [
+     "Sinn des Ortes",
+     "Ortsgefühl",
+     "Place-Sense"
+    ]
+   },
+   {
+    "term": "Sense of Self",
+    "lang": "en",
+    "counterparts": [
+     "Sinn des Selbst",
+     "Selbstgefühl",
+     "Self-Sense"
+    ]
+   },
+   {
+    "term": "Sensor",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Sensoren",
+    "lang": "de",
+    "counterparts": [
+     "Sensors"
+    ]
+   },
+   {
+    "term": "Sensorische Filterung",
+    "lang": "de",
+    "counterparts": [
+     "Sensor filtering",
+     "Sensoric filtering",
+     "Sensory filtering"
+    ]
+   },
+   {
+    "term": "Sensorium",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Sensornetzwerke",
+    "lang": "de",
+    "counterparts": [
+     "Sensor networks"
+    ]
+   },
+   {
+    "term": "Sensory Cortex",
+    "lang": "en",
+    "counterparts": [
+     "Sensorischer Kortex",
+     "Somatosensorischer Kortex",
+     "Sinnesrinde"
+    ]
+   },
+   {
+    "term": "Sentient Environment",
+    "lang": "en",
+    "counterparts": [
+     "Sinnesfähige Umgebung",
+     "Bewusste Umgebung",
+     "Sentiente Umgebung"
+    ]
+   },
+   {
+    "term": "Sentinel",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Separabilität",
+    "lang": "de",
+    "counterparts": [
+     "Separability"
+    ]
+   },
+   {
+    "term": "Separation Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Trennungsprotokoll",
+     "Trennungs-Protokoll",
+     "Protokoll der Trennung"
+    ]
+   },
+   {
+    "term": "Serotonin",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Serotonin-Noradrenalin-Wiederaufnahmehemmer",
+    "lang": "de",
+    "counterparts": [
+     "Serotonin-Norepinephrine Reuptake Inhibitor",
+     "SNRI",
+     "Serotonin-Norepinephrine Reuptake Inhibitor (SNRI)"
+    ]
+   },
+   {
+    "term": "Serotonin-Wiederaufnahmehemmer",
+    "lang": "de",
+    "counterparts": [
+     "Serotonin Reuptake Inhibitor",
+     "SRI",
+     "Serotonin Reuptake Inhibitor (SRI)"
+    ]
+   },
+   {
+    "term": "Server",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ServiceScape",
+    "lang": "en",
+    "counterparts": [
+     "Service-Scape",
+     "Dienstleistungsraum",
+     "Serviceumgebung"
+    ]
+   },
+   {
+    "term": "Set Dressing",
+    "lang": "en",
+    "counterparts": [
+     "Set-Ausstattung",
+     "Scenografie",
+     "Bühnenbild"
+    ]
+   },
+   {
+    "term": "Seven Theses",
+    "lang": "en",
+    "counterparts": [
+     "Sieben Thesen"
+    ]
+   },
+   {
+    "term": "Sexualisierter EP",
+    "lang": "de",
+    "counterparts": [
+     "Sexualized EP"
+    ]
+   },
+   {
+    "term": "Sexualized EP",
+    "lang": "en",
+    "counterparts": [
+     "Sexualisierter EP"
+    ]
+   },
+   {
+    "term": "Shadow",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Shannon",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Shannon-Entropie",
+    "lang": "de",
+    "counterparts": [
+     "Shannon entropy"
+    ]
+   },
+   {
+    "term": "Shapeshifter",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Sharding",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Shared",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Shared Data",
+    "lang": "en",
+    "counterparts": [
+     "Gemeinsame Daten",
+     "geteilte Daten",
+     "geteiltes Daten"
+    ]
+   },
+   {
+    "term": "Shared Memory",
+    "lang": "en",
+    "counterparts": [
+     "Gemeinsamer Speicher",
+     "geteilter Speicher",
+     "Shared Memory"
+    ]
+   },
+   {
+    "term": "Shared-Exclusive Latch Cache Coherence",
+    "lang": "en",
+    "counterparts": [
+     "Gemeinsames-Exklusives Latch-Cache-Kohärenz",
+     "Shared-Exclusive Latch Cache Kohärenz",
+     "Gemeinsames-Exklusives Latch Cache Kohärenz"
+    ]
+   },
+   {
+    "term": "SharedDocs/Downloads/DE/Experten/infos_fuer_aerzte/begutachtung/empfehlung_psychische_stoerungen_2006_pdf",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sharing-Pattern-Aware",
+    "lang": "en",
+    "counterparts": [
+     "Sharing-Pattern-bewusst",
+     "Sharing-Pattern-bezogen",
+     "Sharing-Pattern bewusst"
+    ]
+   },
+   {
+    "term": "Shattered Assumptions",
+    "lang": "en",
+    "counterparts": [
+     "Zerschlagene Annahmen",
+     "Zerbrochene Annahmen",
+     "Zerstörte Annahmen"
+    ]
+   },
+   {
+    "term": "Shattering",
+    "lang": "en",
+    "counterparts": [
+     "Zerschlagend",
+     "Zerbrechend",
+     "Zerstörung"
+    ]
+   },
+   {
+    "term": "Shield",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Shieldbreaker",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ship",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Shock",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Shodan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Short-Term Memory",
+    "lang": "en",
+    "counterparts": [
+     "Kurzzeitgedächtnis",
+     "Kurzzeit-Gedächtnis",
+     "Short-Term Memory"
+    ]
+   },
+   {
+    "term": "Shtetl-Optimized",
+    "lang": "en",
+    "counterparts": [
+     "Shtetl-optimiert"
+    ]
+   },
+   {
+    "term": "Shunyata",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Shutdown",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Shutdown Response",
+    "lang": "en",
+    "counterparts": [
+     "Shutdown-Reaktion",
+     "Herunterfahren-Antwort",
+     "Shutdown-Antwort"
+    ]
+   },
+   {
+    "term": "Shutdown-Response",
+    "lang": "en",
+    "counterparts": [
+     "Shutdown-Response",
+     "Herunterfahren-Antwort",
+     "Shutdown-Antwort"
+    ]
+   },
+   {
+    "term": "Shutterstock",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Shō",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Sicherheitsknotenpunkte",
+    "lang": "de",
+    "counterparts": [
+     "Security nodes",
+     "Safety nodes",
+     "Security knot points"
+    ]
+   },
+   {
+    "term": "Sicherheitsregeln",
+    "lang": "de",
+    "counterparts": [
+     "Safety rules",
+     "Security rules",
+     "Safety regulations"
+    ]
+   },
+   {
+    "term": "Sicherheitsschicht",
+    "lang": "de",
+    "counterparts": [
+     "Security layer",
+     "Safety layer",
+     "Protective layer"
+    ]
+   },
+   {
+    "term": "Siegfried",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sigma",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Sigma-7",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Sigma-Tau-7",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Signal",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Signal-Rausch-Verhältnis",
+    "lang": "de",
+    "counterparts": [
+     "Signal-to-noise ratio",
+     "SNR",
+     "Signal-noise ratio"
+    ]
+   },
+   {
+    "term": "Signatur",
+    "lang": "de",
+    "counterparts": [
+     "Signature"
+    ]
+   },
+   {
+    "term": "Signature",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Signifikant",
+    "lang": "de",
+    "counterparts": [
+     "significant"
+    ]
+   },
+   {
+    "term": "Signifikat",
+    "lang": "de",
+    "counterparts": [
+     "signified"
+    ]
+   },
+   {
+    "term": "Signpost",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Signposts",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Silas",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Silas und Oblivion",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Silence",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Silent Hill 2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Silus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sim",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Simon",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Simple",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Sims",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Simstim",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Simulacra",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Simulated",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Simulated Reality",
+    "lang": "en",
+    "counterparts": [
+     "Simulierte Realität",
+     "Simulierte Wirklichkeit",
+     "Virtuelle Realität"
+    ]
+   },
+   {
+    "term": "Simulation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Simulation Beta",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Simulation Glitch",
+    "lang": "en",
+    "counterparts": [
+     "Simulationsfehler",
+     "Glitch in der Simulation",
+     "Simulationsstörung"
+    ]
+   }
+  ]
+ }
+}

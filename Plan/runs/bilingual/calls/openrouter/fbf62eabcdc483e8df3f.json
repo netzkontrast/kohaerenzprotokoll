@@ -1,0 +1,521 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Peripetie",
+    "lang": "de",
+    "counterparts": [
+     "peripeteia",
+     "peripety"
+    ]
+   },
+   {
+    "term": "Peripherie",
+    "lang": "de",
+    "counterparts": [
+     "periphery"
+    ]
+   },
+   {
+    "term": "Perkolationsschwelle",
+    "lang": "de",
+    "counterparts": [
+     "percolation threshold"
+    ]
+   },
+   {
+    "term": "Perlego",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Permalloy-Nanomagneten",
+    "lang": "de",
+    "counterparts": [
+     "permalloy nanomagnets"
+    ]
+   },
+   {
+    "term": "Permutation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Permutation City",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Perpetrator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Perpetrator Introjects",
+    "lang": "en",
+    "counterparts": [
+     "Perpetrator-Introjekte"
+    ]
+   },
+   {
+    "term": "Persecutor",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Persecutor Parts",
+    "lang": "en",
+    "counterparts": [
+     "Persecutor-Teile",
+     "Verfolger-Teile"
+    ]
+   },
+   {
+    "term": "Persecutors",
+    "lang": "en",
+    "counterparts": [
+     "Verfolger",
+     "Persekutoren"
+    ]
+   },
+   {
+    "term": "Persistence",
+    "lang": "en",
+    "counterparts": [
+     "Persistenz"
+    ]
+   },
+   {
+    "term": "Persistence Principle",
+    "lang": "en",
+    "counterparts": [
+     "Persistenzprinzip"
+    ]
+   },
+   {
+    "term": "Persistent/076325c1c1af50240472a7d7636ae52e024ce5ea/051-029l_S2k_Begutachtung-psychischer-psychosomatischer-Stoerungen_2019-12_01",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Persistenz der Subjektivität",
+    "lang": "de",
+    "counterparts": [
+     "persistence of subjectivity"
+    ]
+   },
+   {
+    "term": "Person of Interest",
+    "lang": "en",
+    "counterparts": [
+     "Person des Interesses"
+    ]
+   },
+   {
+    "term": "Personality",
+    "lang": "en",
+    "counterparts": [
+     "Persönlichkeit"
+    ]
+   },
+   {
+    "term": "Personas",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Personifikation der Leere",
+    "lang": "de",
+    "counterparts": [
+     "personification of emptiness"
+    ]
+   },
+   {
+    "term": "Perspektive AEGIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Persönliche Dissonanzen",
+    "lang": "de",
+    "counterparts": [
+     "personal dissonances"
+    ]
+   },
+   {
+    "term": "Persönliche Identität",
+    "lang": "de",
+    "counterparts": [
+     "personal identity"
+    ]
+   },
+   {
+    "term": "Persönlichkeitsanteil",
+    "lang": "de",
+    "counterparts": [
+     "personality component",
+     "personality share"
+    ]
+   },
+   {
+    "term": "Persönlichkeitsanteile",
+    "lang": "de",
+    "counterparts": [
+     "personality components"
+    ]
+   },
+   {
+    "term": "Persönlichkeitsanteilen",
+    "lang": "de",
+    "counterparts": [
+     "personality components"
+    ]
+   },
+   {
+    "term": "Persönlichkeitsanteils",
+    "lang": "de",
+    "counterparts": [
+     "personality component's"
+    ]
+   },
+   {
+    "term": "Persönlichkeitsstörung",
+    "lang": "de",
+    "counterparts": [
+     "personality disorder"
+    ]
+   },
+   {
+    "term": "Persönlichkeitszustände",
+    "lang": "de",
+    "counterparts": [
+     "personality states"
+    ]
+   },
+   {
+    "term": "Perturbation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Perverse Learning Loop",
+    "lang": "en",
+    "counterparts": [
+     "Perverse Lernschleife"
+    ]
+   },
+   {
+    "term": "Pete",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Peter",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Peter Watts",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Pfad A",
+    "lang": "de",
+    "counterparts": [
+     "path A"
+    ]
+   },
+   {
+    "term": "Pfad B",
+    "lang": "de",
+    "counterparts": [
+     "path B"
+    ]
+   },
+   {
+    "term": "Pfad der Fragmentierten Erinnerung",
+    "lang": "de",
+    "counterparts": [
+     "path of fragmented memory"
+    ]
+   },
+   {
+    "term": "Pfadabhängigkeit",
+    "lang": "de",
+    "counterparts": [
+     "path dependence"
+    ]
+   },
+   {
+    "term": "Pflegende",
+    "lang": "de",
+    "counterparts": [
+     "caregiver"
+    ]
+   },
+   {
+    "term": "Pflegender",
+    "lang": "de",
+    "counterparts": [
+     "caregiver"
+    ]
+   },
+   {
+    "term": "Pflegender ANP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Pfleger",
+    "lang": "de",
+    "counterparts": [
+     "caregiver"
+    ]
+   },
+   {
+    "term": "Pforten der Verurteilung",
+    "lang": "de",
+    "counterparts": [
+     "gates of condemnation"
+    ]
+   },
+   {
+    "term": "Phaenomena",
+    "lang": "de",
+    "counterparts": [
+     "phenomena"
+    ]
+   },
+   {
+    "term": "Phantomschmerz der Identität",
+    "lang": "de",
+    "counterparts": [
+     "phantom pain of identity"
+    ]
+   },
+   {
+    "term": "Phase-Oriented",
+    "lang": "en",
+    "counterparts": [
+     "phasenorientiert"
+    ]
+   },
+   {
+    "term": "Phase-oriented",
+    "lang": "en",
+    "counterparts": [
+     "phasenorientiert"
+    ]
+   },
+   {
+    "term": "Phasenraum",
+    "lang": "de",
+    "counterparts": [
+     "phase space"
+    ]
+   },
+   {
+    "term": "Phasenübergang",
+    "lang": "de",
+    "counterparts": [
+     "phase transition"
+    ]
+   },
+   {
+    "term": "Phenomenal Self-Model",
+    "lang": "en",
+    "counterparts": [
+     "Phänomenales Selbstmodell"
+    ]
+   },
+   {
+    "term": "Phenomenology",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Phenomenon of Leakage",
+    "lang": "en",
+    "counterparts": [
+     "Phänomen des Leckens"
+    ]
+   },
+   {
+    "term": "Phi",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "PhilArchive",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PhilPapers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PhilSci-Archive",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Phillips",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Philosophie der Information",
+    "lang": "de",
+    "counterparts": [
+     "philosophy of information"
+    ]
+   },
+   {
+    "term": "Philosophie der KW3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Philosophie der Negation",
+    "lang": "de",
+    "counterparts": [
+     "philosophy of negation"
+    ]
+   },
+   {
+    "term": "Philosophie des Anderen",
+    "lang": "de",
+    "counterparts": [
+     "philosophy of the other"
+    ]
+   },
+   {
+    "term": "Philosophie des Geistes",
+    "lang": "de",
+    "counterparts": [
+     "philosophy of mind"
+    ]
+   },
+   {
+    "term": "Philosophische Zombies",
+    "lang": "de",
+    "counterparts": [
+     "philosophical zombies"
+    ]
+   },
+   {
+    "term": "Philosophischer Zombie",
+    "lang": "de",
+    "counterparts": [
+     "philosophical zombie"
+    ]
+   },
+   {
+    "term": "Phoenix",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Phoenix Collapse",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Photon",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Photon Sphere",
+    "lang": "en",
+    "counterparts": [
+     "Photonensphäre"
+    ]
+   },
+   {
+    "term": "Photonensphäre",
+    "lang": "de",
+    "counterparts": [
+     "photon sphere"
+    ]
+   },
+   {
+    "term": "PhysRevA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Physical Axioms",
+    "lang": "en",
+    "counterparts": [
+     "Physikalische Axiome"
+    ]
+   },
+   {
+    "term": "Physik und Ontologie",
+    "lang": "de",
+    "counterparts": [
+     "physics and ontology"
+    ]
+   },
+   {
+    "term": "Physikalismus",
+    "lang": "de",
+    "counterparts": [
+     "physicalism"
+    ]
+   },
+   {
+    "term": "Phänomenale Selbstmodell",
+    "lang": "de",
+    "counterparts": [
+     "phenomenal self-model"
+    ]
+   },
+   {
+    "term": "Phänomenales Selbstmodell",
+    "lang": "de",
+    "counterparts": [
+     "phenomenal self-model"
+    ]
+   },
+   {
+    "term": "Phänomenologie",
+    "lang": "de",
+    "counterparts": [
+     "phenomenology"
+    ]
+   },
+   {
+    "term": "Phänomenologie der CAR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Phänomenologie der Zeit",
+    "lang": "de",
+    "counterparts": [
+     "phenomenology of time"
+    ]
+   },
+   {
+    "term": "Phänomenologie des Leibes",
+    "lang": "de",
+    "counterparts": [
+     "phenomenology of the body"
+    ]
+   },
+   {
+    "term": "Phänotyp",
+    "lang": "de",
+    "counterparts": [
+     "phenotype"
+    ]
+   }
+  ]
+ }
+}

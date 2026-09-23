@@ -1,0 +1,550 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "BDP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BFT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BGB",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BGH",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BJNR241200008",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BMD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BMS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BPoF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BRÜCKE UNTER SIMULIERTEN STRESSBEDINGUNGEN",
+    "lang": "de",
+    "counterparts": [
+     "Bridge under simulated stress conditions",
+     "Bridge under simulated stress"
+    ]
+   },
+   {
+    "term": "BSG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BTHG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BTZ",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Baars",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Baby",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Baby-Monster",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Baby-Monster-Welt",
+    "lang": "de",
+    "counterparts": [
+     "Baby Monster World",
+     "Baby-Monster World"
+    ]
+   },
+   {
+    "term": "Baby-Monstergruppe",
+    "lang": "de",
+    "counterparts": [
+     "Baby Monster group",
+     "Baby-Monster group"
+    ]
+   },
+   {
+    "term": "BabyMonster",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Baby_monster_group",
+    "lang": "en",
+    "counterparts": [
+     "Baby-Monstergruppe",
+     "Baby Monster Gruppe"
+    ]
+   },
+   {
+    "term": "Bachelard",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bakhtins",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bakkers Blind Brain Theory",
+    "lang": "en",
+    "counterparts": [
+     "Bakkers Blind Brain Theorie",
+     "Bakkers Theorie des blinden Gehirns"
+    ]
+   },
+   {
+    "term": "Ballistic Missile Defense",
+    "lang": "en",
+    "counterparts": [
+     "Ballistische Raketenverteidigung",
+     "Abwehr ballistischer Raketen"
+    ]
+   },
+   {
+    "term": "Barbie",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Barriere",
+    "lang": "de",
+    "counterparts": [
+     "barrier",
+     "barriers"
+    ]
+   },
+   {
+    "term": "Baseline-Schrift",
+    "lang": "de",
+    "counterparts": [
+     "baseline script",
+     "baseline writing"
+    ]
+   },
+   {
+    "term": "Basisrealität",
+    "lang": "de",
+    "counterparts": [
+     "basic reality",
+     "fundamental reality"
+    ]
+   },
+   {
+    "term": "Basisrealität Köln",
+    "lang": "de",
+    "counterparts": [
+     "Cologne basic reality",
+     "basic reality Cologne"
+    ]
+   },
+   {
+    "term": "Basisuntersuchung",
+    "lang": "de",
+    "counterparts": [
+     "baseline study",
+     "basic investigation"
+    ]
+   },
+   {
+    "term": "Bateson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Baudrillard",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bauplan der Heilung",
+    "lang": "de",
+    "counterparts": [
+     "blueprint of healing",
+     "plan for healing"
+    ]
+   },
+   {
+    "term": "Bayerische",
+    "lang": "de",
+    "counterparts": [
+     "Bavarian"
+    ]
+   },
+   {
+    "term": "Bayern",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bayesian",
+    "lang": "en",
+    "counterparts": [
+     "bayesian",
+     "Bayesianer"
+    ]
+   },
+   {
+    "term": "Bañados-Teitelboim-Zanelli",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Beatrice Portinari",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bedrock",
+    "lang": "en",
+    "counterparts": [
+     "Bettgestein",
+     "Grundgestein"
+    ]
+   },
+   {
+    "term": "Beginnende Ko-Präsenz",
+    "lang": "de",
+    "counterparts": [
+     "beginning co-presence",
+     "initial co-presence"
+    ]
+   },
+   {
+    "term": "Begleit-Kanon",
+    "lang": "de",
+    "counterparts": [
+     "accompanying canon",
+     "companion canon"
+    ]
+   },
+   {
+    "term": "Begleiter-Paar-Interferenz",
+    "lang": "de",
+    "counterparts": [
+     "companion pair interference"
+    ]
+   },
+   {
+    "term": "Begrenzungsfläche",
+    "lang": "de",
+    "counterparts": [
+     "boundary surface",
+     "limiting surface"
+    ]
+   },
+   {
+    "term": "Begriff der Konsistenz",
+    "lang": "de",
+    "counterparts": [
+     "concept of consistency"
+    ]
+   },
+   {
+    "term": "Begriffs der Konsistenz",
+    "lang": "de",
+    "counterparts": [
+     "concept of consistency"
+    ]
+   },
+   {
+    "term": "Behandlungsvertrag",
+    "lang": "de",
+    "counterparts": [
+     "treatment contract",
+     "therapy agreement"
+    ]
+   },
+   {
+    "term": "Behavior Therapy for PTSD",
+    "lang": "en",
+    "counterparts": [
+     "Verhaltenstherapie bei PTSD",
+     "Verhaltenstherapie für PTSD"
+    ]
+   },
+   {
+    "term": "Behavioral",
+    "lang": "en",
+    "counterparts": [
+     "verhaltens",
+     "verhaltensbezogen"
+    ]
+   },
+   {
+    "term": "Behavioral AI",
+    "lang": "en",
+    "counterparts": [
+     "Verhaltens-KI",
+     "Verhaltens-Künstliche Intelligenz"
+    ]
+   },
+   {
+    "term": "Behavioral Proof-of-Function",
+    "lang": "en",
+    "counterparts": [
+     "Verhaltens-Proof-of-Funktion",
+     "Verhaltensnachweis der Funktion"
+    ]
+   },
+   {
+    "term": "Behavioral Proof-of-Function (BPoF)",
+    "lang": "en",
+    "counterparts": [
+     "Verhaltens-Proof-of-Funktion",
+     "Verhaltensnachweis der Funktion"
+    ]
+   },
+   {
+    "term": "Beides",
+    "lang": "de",
+    "counterparts": [
+     "both"
+    ]
+   },
+   {
+    "term": "Being",
+    "lang": "en",
+    "counterparts": [
+     "Sein",
+     "Existenz"
+    ]
+   },
+   {
+    "term": "Bekenstein",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bekenstein Bound",
+    "lang": "en",
+    "counterparts": [
+     "Bekenstein-Grenze",
+     "Bekenstein-Schranke"
+    ]
+   },
+   {
+    "term": "Bekenstein-Falle",
+    "lang": "de",
+    "counterparts": [
+     "Bekenstein trap"
+    ]
+   },
+   {
+    "term": "Bekenstein-Grenze",
+    "lang": "de",
+    "counterparts": [
+     "Bekenstein bound",
+     "Bekenstein limit"
+    ]
+   },
+   {
+    "term": "Bekenstein-Schranke",
+    "lang": "de",
+    "counterparts": [
+     "Bekenstein bound",
+     "Bekenstein barrier"
+    ]
+   },
+   {
+    "term": "Beladene Sprache",
+    "lang": "de",
+    "counterparts": [
+     "loaded language",
+     "charged language"
+    ]
+   },
+   {
+    "term": "Belastungsstörung",
+    "lang": "de",
+    "counterparts": [
+     "stress disorder",
+     "load disorder"
+    ]
+   },
+   {
+    "term": "Belastungsstörungen",
+    "lang": "de",
+    "counterparts": [
+     "stress disorders"
+    ]
+   },
+   {
+    "term": "Belief",
+    "lang": "en",
+    "counterparts": [
+     "Überzeugung",
+     "Glaube"
+    ]
+   },
+   {
+    "term": "Belief Revision Theory",
+    "lang": "en",
+    "counterparts": [
+     "Überzeugungsrevisionstheorie",
+     "Theorie der Überzeugungsrevision"
+    ]
+   },
+   {
+    "term": "Belief-Desire-Intention",
+    "lang": "en",
+    "counterparts": [
+     "Überzeugung-Wunsch-Intention",
+     "Überzeugung, Wunsch, Intention"
+    ]
+   },
+   {
+    "term": "Bell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bell Jar",
+    "lang": "en",
+    "counterparts": [
+     "Bell-Glas",
+     "Glasglocke"
+    ]
+   },
+   {
+    "term": "Belnap",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Belnap-Logik",
+    "lang": "de",
+    "counterparts": [
+     "Belnap logic"
+    ]
+   },
+   {
+    "term": "Belohnungs-Hacking",
+    "lang": "de",
+    "counterparts": [
+     "reward hacking"
+    ]
+   },
+   {
+    "term": "Belohnungsfunktion",
+    "lang": "de",
+    "counterparts": [
+     "reward function"
+    ]
+   },
+   {
+    "term": "Belohnungssignale",
+    "lang": "de",
+    "counterparts": [
+     "reward signals"
+    ]
+   },
+   {
+    "term": "Belohnungssystems",
+    "lang": "de",
+    "counterparts": [
+     "reward system"
+    ]
+   },
+   {
+    "term": "Benefizienz",
+    "lang": "de",
+    "counterparts": [
+     "beneficence"
+    ]
+   },
+   {
+    "term": "Benutzeroberfläche",
+    "lang": "de",
+    "counterparts": [
+     "user interface",
+     "UI"
+    ]
+   },
+   {
+    "term": "Benutzeroberfläche des Bewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "user interface of consciousness"
+    ]
+   },
+   {
+    "term": "Beobachter",
+    "lang": "de",
+    "counterparts": [
+     "observer"
+    ]
+   },
+   {
+    "term": "Beobachter-Blick",
+    "lang": "de",
+    "counterparts": [
+     "observer view",
+     "observer perspective"
+    ]
+   },
+   {
+    "term": "Beobachter-Effekt",
+    "lang": "de",
+    "counterparts": [
+     "observer effect"
+    ]
+   },
+   {
+    "term": "Beobachter-Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "observer coherence"
+    ]
+   },
+   {
+    "term": "Beobachter/Kritiker",
+    "lang": "de",
+    "counterparts": [
+     "observer/critic"
+    ]
+   },
+   {
+    "term": "Beobachtereffekt",
+    "lang": "de",
+    "counterparts": [
+     "observer effect"
+    ]
+   }
+  ]
+ }
+}

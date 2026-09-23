@@ -1,0 +1,568 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Neurath",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Neuraths Boot",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Neurodivergenz",
+    "lang": "de",
+    "counterparts": [
+     "neurodivergence",
+     "neurodivergent"
+    ]
+   },
+   {
+    "term": "Neuroimaging",
+    "lang": "en",
+    "counterparts": [
+     "Neuroimaging",
+     "Neurobildgebung",
+     "Gehirnbildgebung"
+    ]
+   },
+   {
+    "term": "Neuromancer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Neuroplastizität",
+    "lang": "de",
+    "counterparts": [
+     "neuroplasticity"
+    ]
+   },
+   {
+    "term": "Neurosen",
+    "lang": "de",
+    "counterparts": [
+     "neuroses",
+     "neurosis"
+    ]
+   },
+   {
+    "term": "Neurowissenschaftliche Begutachtung",
+    "lang": "de",
+    "counterparts": [
+     "neuroscientific assessment",
+     "neuroscientific evaluation",
+     "neuroscientific review"
+    ]
+   },
+   {
+    "term": "Neustadt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Neutral Monism",
+    "lang": "en",
+    "counterparts": [
+     "Neutraler Monismus"
+    ]
+   },
+   {
+    "term": "NewFoundations4Math",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nexus",
+    "lang": "en",
+    "counterparts": [
+     "Nexus",
+     "Netzwerk",
+     "Verbindung"
+    ]
+   },
+   {
+    "term": "Nexus of Whispers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nexus-Interface",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nexus-Interface Garten",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nexus-Vorstufe",
+    "lang": "de",
+    "counterparts": [
+     "Nexus precursor",
+     "Nexus preliminary stage",
+     "Nexus stage"
+    ]
+   },
+   {
+    "term": "Nicht-A",
+    "lang": "de",
+    "counterparts": [
+     "Not-A",
+     "non-A"
+    ]
+   },
+   {
+    "term": "Nicht-Aegis",
+    "lang": "de",
+    "counterparts": [
+     "Non-Aegis",
+     "Not Aegis"
+    ]
+   },
+   {
+    "term": "Nicht-Algorithmische",
+    "lang": "de",
+    "counterparts": [
+     "non-algorithmic",
+     "non-algorithmical"
+    ]
+   },
+   {
+    "term": "Nicht-Algorithmischem",
+    "lang": "de",
+    "counterparts": [
+     "non-algorithmic"
+    ]
+   },
+   {
+    "term": "Nicht-Assoziativität",
+    "lang": "de",
+    "counterparts": [
+     "non-associativity"
+    ]
+   },
+   {
+    "term": "Nicht-Dualität",
+    "lang": "de",
+    "counterparts": [
+     "non-duality",
+     "non-dualism"
+    ]
+   },
+   {
+    "term": "Nicht-Euklidische",
+    "lang": "de",
+    "counterparts": [
+     "non-Euclidean"
+    ]
+   },
+   {
+    "term": "Nicht-Existenz",
+    "lang": "de",
+    "counterparts": [
+     "non-existence"
+    ]
+   },
+   {
+    "term": "Nicht-Ich",
+    "lang": "de",
+    "counterparts": [
+     "non-self",
+     "not-I"
+    ]
+   },
+   {
+    "term": "Nicht-Kontrollierte Selbstinitialisierung",
+    "lang": "de",
+    "counterparts": [
+     "uncontrolled self-initialization",
+     "non-controlled self-initialization"
+    ]
+   },
+   {
+    "term": "Nicht-Lokalität",
+    "lang": "de",
+    "counterparts": [
+     "non-locality"
+    ]
+   },
+   {
+    "term": "Nicht-Schaden",
+    "lang": "de",
+    "counterparts": [
+     "non-harm",
+     "no harm"
+    ]
+   },
+   {
+    "term": "Nicht-Sein",
+    "lang": "de",
+    "counterparts": [
+     "non-being",
+     "nothingness"
+    ]
+   },
+   {
+    "term": "Nicht-Selbst",
+    "lang": "de",
+    "counterparts": [
+     "non-self"
+    ]
+   },
+   {
+    "term": "Nicht-komputationale Prozesse",
+    "lang": "de",
+    "counterparts": [
+     "non-computational processes"
+    ]
+   },
+   {
+    "term": "Nicht-lokale Informationsübertragung",
+    "lang": "de",
+    "counterparts": [
+     "non-local information transfer"
+    ]
+   },
+   {
+    "term": "Nicht-terminierende Algorithmen",
+    "lang": "de",
+    "counterparts": [
+     "non-terminating algorithms"
+    ]
+   },
+   {
+    "term": "Nichtlineare",
+    "lang": "de",
+    "counterparts": [
+     "nonlinear"
+    ]
+   },
+   {
+    "term": "Nichtlokalität",
+    "lang": "de",
+    "counterparts": [
+     "nonlocality"
+    ]
+   },
+   {
+    "term": "Nichts",
+    "lang": "de",
+    "counterparts": [
+     "nothing"
+    ]
+   },
+   {
+    "term": "Nichts Rauschen",
+    "lang": "de",
+    "counterparts": [
+     "nothing noise"
+    ]
+   },
+   {
+    "term": "Nichts-Rauschen",
+    "lang": "de",
+    "counterparts": [
+     "nothing-noise"
+    ]
+   },
+   {
+    "term": "Nichtsein",
+    "lang": "de",
+    "counterparts": [
+     "non-being"
+    ]
+   },
+   {
+    "term": "Nick",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nietzsche",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nihilismus",
+    "lang": "de",
+    "counterparts": [
+     "nihilism"
+    ]
+   },
+   {
+    "term": "Nijenhuis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Niklas",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Niklas Luhmann",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nirvana",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "No Explosion",
+    "lang": "en",
+    "counterparts": [
+     "Keine Explosion",
+     "No Explosion"
+    ]
+   },
+   {
+    "term": "No-Communication Theorem",
+    "lang": "en",
+    "counterparts": [
+     "No-Communication-Theorem",
+     "Theorem der Nicht-Kommunikation"
+    ]
+   },
+   {
+    "term": "No-Control",
+    "lang": "en",
+    "counterparts": [
+     "Keine Kontrolle",
+     "No-Control"
+    ]
+   },
+   {
+    "term": "No-Control-Prinzips",
+    "lang": "de",
+    "counterparts": [
+     "no-control principle"
+    ]
+   },
+   {
+    "term": "No-Trust",
+    "lang": "en",
+    "counterparts": [
+     "Kein Vertrauen",
+     "No-Trust"
+    ]
+   },
+   {
+    "term": "Noema",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Noesis",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Noise",
+    "lang": "en",
+    "counterparts": [
+     "Rauschen",
+     "Noise"
+    ]
+   },
+   {
+    "term": "Non-Contradiction",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-Widerspruch",
+     "Non-Contradiction"
+    ]
+   },
+   {
+    "term": "Non-Dualität",
+    "lang": "de",
+    "counterparts": [
+     "non-duality"
+    ]
+   },
+   {
+    "term": "Non-Linear Dynamics",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-lineare Dynamik",
+     "Non-Linear Dynamics"
+    ]
+   },
+   {
+    "term": "Non-Local",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-lokal",
+     "Non-Local"
+    ]
+   },
+   {
+    "term": "Non-Locality",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-Lokalität",
+     "Non-Lokalität"
+    ]
+   },
+   {
+    "term": "Non-Lokalität",
+    "lang": "de",
+    "counterparts": [
+     "non-locality"
+    ]
+   },
+   {
+    "term": "Non-Maleficence",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-Schaden",
+     "Non-Maleficence"
+    ]
+   },
+   {
+    "term": "Non-Malefizienz",
+    "lang": "de",
+    "counterparts": [
+     "non-maleficence"
+    ]
+   },
+   {
+    "term": "Non-Playable Characters",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-spielbare Charaktere",
+     "Non-Playable Characters"
+    ]
+   },
+   {
+    "term": "Non-Player Characters",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-Spieler-Charaktere",
+     "Non-Player Characters"
+    ]
+   },
+   {
+    "term": "Non-Player-Characters",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-Spieler-Charaktere"
+    ]
+   },
+   {
+    "term": "Non-Uniform Memory Access",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-uniformer Speicherzugriff",
+     "Non-Uniform Memory Access"
+    ]
+   },
+   {
+    "term": "Nondualism",
+    "lang": "en",
+    "counterparts": [
+     "Nicht-Dualismus",
+     "Nondualismus"
+    ]
+   },
+   {
+    "term": "Nonlinear",
+    "lang": "en",
+    "counterparts": [
+     "nichtlinear",
+     "nonlinear"
+    ]
+   },
+   {
+    "term": "Nonlocality",
+    "lang": "en",
+    "counterparts": [
+     "Nichtlokalität",
+     "Nonlokalität"
+    ]
+   },
+   {
+    "term": "Nonlokalität",
+    "lang": "de",
+    "counterparts": [
+     "nonlocality"
+    ]
+   },
+   {
+    "term": "Noosphäre",
+    "lang": "de",
+    "counterparts": [
+     "noosphere"
+    ]
+   },
+   {
+    "term": "Noradrenalin",
+    "lang": "de",
+    "counterparts": [
+     "noradrenaline"
+    ]
+   },
+   {
+    "term": "Normal",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Normalteiler",
+    "lang": "de",
+    "counterparts": [
+     "normal subgroup",
+     "normal divisor"
+    ]
+   },
+   {
+    "term": "North",
+    "lang": "en",
+    "counterparts": [
+     "Nord",
+     "Norden"
+    ]
+   },
+   {
+    "term": "Norton",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Notabschaltung",
+    "lang": "de",
+    "counterparts": [
+     "emergency shutdown",
+     "failure shutdown"
+    ]
+   },
+   {
+    "term": "NotebookLM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nothing-Noise",
+    "lang": "en",
+    "counterparts": [
+     "Nichts-Rauschen",
+     "Nothing-Noise"
+    ]
+   },
+   {
+    "term": "Nothingness",
+    "lang": "en",
+    "counterparts": [
+     "Nichts",
+     "Nichtsein"
+    ]
+   }
+  ]
+ }
+}

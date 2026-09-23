@@ -1,0 +1,527 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Koregulation",
+    "lang": "de",
+    "counterparts": [
+     "co-regulation"
+    ]
+   },
+   {
+    "term": "Korrektiv",
+    "lang": "de",
+    "counterparts": [
+     "corrective"
+    ]
+   },
+   {
+    "term": "Korrelate des Bewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "correlates of consciousness"
+    ]
+   },
+   {
+    "term": "Korrelaten",
+    "lang": "de",
+    "counterparts": [
+     "correlates"
+    ]
+   },
+   {
+    "term": "Korrelaten des Bewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "correlates of consciousness"
+    ]
+   },
+   {
+    "term": "Korrespondenz",
+    "lang": "de",
+    "counterparts": [
+     "correspondence"
+    ]
+   },
+   {
+    "term": "Korrespondenz-Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "correspondence truth"
+    ]
+   },
+   {
+    "term": "Korrespondenztheorie",
+    "lang": "de",
+    "counterparts": [
+     "correspondence theory"
+    ]
+   },
+   {
+    "term": "Korrespondenztheorie der Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "correspondence theory of truth"
+    ]
+   },
+   {
+    "term": "Kosmischer",
+    "lang": "de",
+    "counterparts": [
+     "cosmic"
+    ]
+   },
+   {
+    "term": "Kosmischer Horror",
+    "lang": "de",
+    "counterparts": [
+     "cosmic horror"
+    ]
+   },
+   {
+    "term": "Kosmologische Konstante-Problem",
+    "lang": "de",
+    "counterparts": [
+     "cosmological constant problem"
+    ]
+   },
+   {
+    "term": "Kosten der AEGIS-Verifikation",
+    "lang": "de",
+    "counterparts": [
+     "costs of the AEGIS verification"
+    ]
+   },
+   {
+    "term": "Kosten der Informationslöschung",
+    "lang": "de",
+    "counterparts": [
+     "costs of information deletion"
+    ]
+   },
+   {
+    "term": "Kosten der Kontrolle",
+    "lang": "de",
+    "counterparts": [
+     "costs of control"
+    ]
+   },
+   {
+    "term": "Krause",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kreativ",
+    "lang": "de",
+    "counterparts": [
+     "creative"
+    ]
+   },
+   {
+    "term": "Kreativ-Intuitive",
+    "lang": "de",
+    "counterparts": [
+     "creative-intuitive"
+    ]
+   },
+   {
+    "term": "Kreativ-Intuitiver",
+    "lang": "de",
+    "counterparts": [
+     "creative-intuitive"
+    ]
+   },
+   {
+    "term": "Kreativ-KI",
+    "lang": "de",
+    "counterparts": [
+     "creative AI"
+    ]
+   },
+   {
+    "term": "Kreativ-Zone",
+    "lang": "de",
+    "counterparts": [
+     "creative zone"
+    ]
+   },
+   {
+    "term": "Kreativer",
+    "lang": "de",
+    "counterparts": [
+     "creative"
+    ]
+   },
+   {
+    "term": "Kreativer Teil",
+    "lang": "de",
+    "counterparts": [
+     "creative part"
+    ]
+   },
+   {
+    "term": "Kreuz-Spiegelung",
+    "lang": "de",
+    "counterparts": [
+     "cross-reflection"
+    ]
+   },
+   {
+    "term": "Kreuzleistungsdichtespektrum",
+    "lang": "de",
+    "counterparts": [
+     "cross power spectral density"
+    ]
+   },
+   {
+    "term": "Krise",
+    "lang": "de",
+    "counterparts": [
+     "crisis"
+    ]
+   },
+   {
+    "term": "Kristall",
+    "lang": "de",
+    "counterparts": [
+     "crystal"
+    ]
+   },
+   {
+    "term": "Kristallisation",
+    "lang": "de",
+    "counterparts": [
+     "crystallization"
+    ]
+   },
+   {
+    "term": "Kristeva",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kritikalität",
+    "lang": "de",
+    "counterparts": [
+     "criticality"
+    ]
+   },
+   {
+    "term": "Kritiker",
+    "lang": "de",
+    "counterparts": [
+     "critic"
+    ]
+   },
+   {
+    "term": "Kritische Masse der Gravitationsleckage",
+    "lang": "de",
+    "counterparts": [
+     "critical mass of gravitational leakage"
+    ]
+   },
+   {
+    "term": "Kryptographie",
+    "lang": "de",
+    "counterparts": [
+     "cryptography"
+    ]
+   },
+   {
+    "term": "Kryptographische Achse",
+    "lang": "de",
+    "counterparts": [
+     "cryptographic axis"
+    ]
+   },
+   {
+    "term": "Krümmung",
+    "lang": "de",
+    "counterparts": [
+     "curvature"
+    ]
+   },
+   {
+    "term": "Kuhn",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kunsttherapie",
+    "lang": "de",
+    "counterparts": [
+     "art therapy"
+    ]
+   },
+   {
+    "term": "Kuramoto",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kuramoto-Modell",
+    "lang": "de",
+    "counterparts": [
+     "Kuramoto model"
+    ]
+   },
+   {
+    "term": "Kuratorin",
+    "lang": "de",
+    "counterparts": [
+     "curator"
+    ]
+   },
+   {
+    "term": "Kurt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kybernetik",
+    "lang": "de",
+    "counterparts": [
+     "cybernetics"
+    ]
+   },
+   {
+    "term": "Kybernetik zweiter Ordnung",
+    "lang": "de",
+    "counterparts": [
+     "second-order cybernetics"
+    ]
+   },
+   {
+    "term": "Kybernetische Grenzen",
+    "lang": "de",
+    "counterparts": [
+     "cybernetic limits"
+    ]
+   },
+   {
+    "term": "Kybernetischer Regler",
+    "lang": "de",
+    "counterparts": [
+     "cybernetic controller"
+    ]
+   },
+   {
+    "term": "Kyoto School",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kyrenia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Käfig",
+    "lang": "de",
+    "counterparts": [
+     "cage"
+    ]
+   },
+   {
+    "term": "Kämpfer",
+    "lang": "de",
+    "counterparts": [
+     "fighter"
+    ]
+   },
+   {
+    "term": "Kämpfer EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Köln",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Künstliche Intelligenz",
+    "lang": "de",
+    "counterparts": [
+     "artificial intelligence"
+    ]
+   },
+   {
+    "term": "Künstliche Superintelligenz",
+    "lang": "de",
+    "counterparts": [
+     "artificial superintelligence"
+    ]
+   },
+   {
+    "term": "Künstlichen Intelligenz",
+    "lang": "de",
+    "counterparts": [
+     "artificial intelligence"
+    ]
+   },
+   {
+    "term": "Künstlicher Allgemeiner Intelligenz",
+    "lang": "de",
+    "counterparts": [
+     "artificial general intelligence"
+    ]
+   },
+   {
+    "term": "Künstlicher Intelligenz",
+    "lang": "de",
+    "counterparts": [
+     "artificial intelligence"
+    ]
+   },
+   {
+    "term": "K₀",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "K₀ Kernel",
+    "lang": "en",
+    "counterparts": [
+     "K₀-Kern"
+    ]
+   },
+   {
+    "term": "K₀-Dominant",
+    "lang": "en",
+    "counterparts": [
+     "K₀-dominant"
+    ]
+   },
+   {
+    "term": "K₀-Domäne",
+    "lang": "en",
+    "counterparts": [
+     "K₀-Domäne"
+    ]
+   },
+   {
+    "term": "K₀-Druck",
+    "lang": "en",
+    "counterparts": [
+     "K₀-Druck"
+    ]
+   },
+   {
+    "term": "K₀-reading",
+    "lang": "en",
+    "counterparts": [
+     "K₀-Ablesung"
+    ]
+   },
+   {
+    "term": "K₁",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "K₁ Kernel",
+    "lang": "en",
+    "counterparts": [
+     "K₁-Kern"
+    ]
+   },
+   {
+    "term": "K₁ und K₀",
+    "lang": "en",
+    "counterparts": [
+     "K₁ und K₀"
+    ]
+   },
+   {
+    "term": "K₁-Dominant",
+    "lang": "en",
+    "counterparts": [
+     "K₁-dominant"
+    ]
+   },
+   {
+    "term": "K₁-Domäne",
+    "lang": "en",
+    "counterparts": [
+     "K₁-Domäne"
+    ]
+   },
+   {
+    "term": "K₁-Reinform",
+    "lang": "en",
+    "counterparts": [
+     "K₁-Reinform"
+    ]
+   },
+   {
+    "term": "K₁-reading",
+    "lang": "en",
+    "counterparts": [
+     "K₁-Ablesung"
+    ]
+   },
+   {
+    "term": "K₁/K₀",
+    "lang": "en",
+    "counterparts": [
+     "K₁/K₀"
+    ]
+   },
+   {
+    "term": "L-level",
+    "lang": "en",
+    "counterparts": [
+     "L-Level"
+    ]
+   },
+   {
+    "term": "LA157",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LBPDPublicDocs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LBeWuSt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LC-NE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LCA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LCFI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LEM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LFI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LFIs",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

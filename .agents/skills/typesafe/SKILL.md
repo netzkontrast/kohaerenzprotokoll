@@ -164,8 +164,10 @@ r.usage.input_tokens        # output tokens were priced at 0 in every cookbook
 
 ## In this repository
 
-**One test calls Jev:** `scripts/jev_entities.py`, entity candidates on two
-documents, measured in `NOW.md`. Nothing in the pipeline does. Where it may go is reasoned in
+**Two scripts call Jev:** `scripts/jev_entities.py`, a test of entity candidates
+on two documents, and `scripts/bilingual.py`, the corpus-wide German–English
+mapping (a Noul per surface, then a Choice per pair). Both are measured in `NOW.md`.
+Nothing in the pipeline calls Jev. Where it may go is reasoned in
 `Plan/concept/jev-in-ingestion_2026-09-23.md`; this skill does not restate it
 (P6). Four things hold regardless:
 

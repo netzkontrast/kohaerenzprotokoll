@@ -1,0 +1,509 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Moonshine-Verschränkung",
+    "lang": "de",
+    "counterparts": [
+     "Moonshine entanglement"
+    ]
+   },
+   {
+    "term": "Moral Ambiguity",
+    "lang": "en",
+    "counterparts": [
+     "moralische Ambiguität",
+     "moralische Mehrdeutigkeit"
+    ]
+   },
+   {
+    "term": "Moral Disengagement",
+    "lang": "en",
+    "counterparts": [
+     "moralische Entkopplung",
+     "moralische Distanzierung"
+    ]
+   },
+   {
+    "term": "Moritz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Moritz Schlick",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Moros",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Moros-EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Moros-Intrusion",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mortalitätssalienz",
+    "lang": "de",
+    "counterparts": [
+     "mortality salience"
+    ]
+   },
+   {
+    "term": "Mosaic",
+    "lang": "en",
+    "counterparts": [
+     "Mosaik"
+    ]
+   },
+   {
+    "term": "Mosaik",
+    "lang": "de",
+    "counterparts": [
+     "Mosaic"
+    ]
+   },
+   {
+    "term": "Mosaik-AEGIS",
+    "lang": "de",
+    "counterparts": [
+     "Mosaic AEGIS"
+    ]
+   },
+   {
+    "term": "Mosaik-Anker",
+    "lang": "de",
+    "counterparts": [
+     "Mosaic anchor"
+    ]
+   },
+   {
+    "term": "Mosaik-Herz",
+    "lang": "de",
+    "counterparts": [
+     "Mosaic heart"
+    ]
+   },
+   {
+    "term": "Mosaik-Modus",
+    "lang": "de",
+    "counterparts": [
+     "Mosaic mode"
+    ]
+   },
+   {
+    "term": "Mosaik-Narrative",
+    "lang": "de",
+    "counterparts": [
+     "Mosaic narrative"
+    ]
+   },
+   {
+    "term": "Mosaik-Produktion",
+    "lang": "de",
+    "counterparts": [
+     "Mosaic production"
+    ]
+   },
+   {
+    "term": "Mosaik-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "Mosaic structure"
+    ]
+   },
+   {
+    "term": "Mosaiks",
+    "lang": "de",
+    "counterparts": [
+     "Mosaics"
+    ]
+   },
+   {
+    "term": "Moshing",
+    "lang": "en",
+    "counterparts": [
+     "Moschen"
+    ]
+   },
+   {
+    "term": "Motivationsexklusion",
+    "lang": "de",
+    "counterparts": [
+     "motivation exclusion"
+    ]
+   },
+   {
+    "term": "Motor der Erklärungs-Lücke",
+    "lang": "de",
+    "counterparts": [
+     "motor of the explanatory gap"
+    ]
+   },
+   {
+    "term": "Movement",
+    "lang": "en",
+    "counterparts": [
+     "Bewegung"
+    ]
+   },
+   {
+    "term": "Movement Desensitization and Reprocessing",
+    "lang": "en",
+    "counterparts": [
+     "Bewegungsdesensibilisierung und Wiederaufverarbeitung",
+     "EMDR"
+    ]
+   },
+   {
+    "term": "Multi-Agent",
+    "lang": "en",
+    "counterparts": [
+     "Multi-Agent"
+    ]
+   },
+   {
+    "term": "Multi-Agenten-Architektur",
+    "lang": "de",
+    "counterparts": [
+     "multi-agent architecture"
+    ]
+   },
+   {
+    "term": "Multi-Agenten-Systeme",
+    "lang": "de",
+    "counterparts": [
+     "multi-agent systems"
+    ]
+   },
+   {
+    "term": "Multi-Agenten-Systemen",
+    "lang": "de",
+    "counterparts": [
+     "multi-agent systems"
+    ]
+   },
+   {
+    "term": "Multidimensional Inventory of Dissociation",
+    "lang": "en",
+    "counterparts": [
+     "Multidimensionales Inventar der Dissoziation"
+    ]
+   },
+   {
+    "term": "Multimodal Cognitive Poetics",
+    "lang": "en",
+    "counterparts": [
+     "Multimodale kognitive Poetik"
+    ]
+   },
+   {
+    "term": "Multimodale Wissensbasen",
+    "lang": "de",
+    "counterparts": [
+     "multimodal knowledge bases"
+    ]
+   },
+   {
+    "term": "Multiple Personality Disorder",
+    "lang": "en",
+    "counterparts": [
+     "Multiple Persönlichkeitsstörung"
+    ]
+   },
+   {
+    "term": "Multiplen Sklerose",
+    "lang": "de",
+    "counterparts": [
+     "multiple sclerosis"
+    ]
+   },
+   {
+    "term": "Multipler Sklerose",
+    "lang": "de",
+    "counterparts": [
+     "multiple sclerosis"
+    ]
+   },
+   {
+    "term": "Multiplicity",
+    "lang": "en",
+    "counterparts": [
+     "Multiplicität"
+    ]
+   },
+   {
+    "term": "Multiplied",
+    "lang": "en",
+    "counterparts": [
+     "multipliziert"
+    ]
+   },
+   {
+    "term": "Multiplizität",
+    "lang": "de",
+    "counterparts": [
+     "multiplicity"
+    ]
+   },
+   {
+    "term": "Multiversale Verzweigungslogik",
+    "lang": "de",
+    "counterparts": [
+     "multiversal branching logic"
+    ]
+   },
+   {
+    "term": "Multiverse",
+    "lang": "en",
+    "counterparts": [
+     "Multiversum"
+    ]
+   },
+   {
+    "term": "Multiversum",
+    "lang": "de",
+    "counterparts": [
+     "multiverse"
+    ]
+   },
+   {
+    "term": "Murdock",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Muse",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Muse Archetypes",
+    "lang": "en",
+    "counterparts": [
+     "Muse-Archetypen"
+    ]
+   },
+   {
+    "term": "Muse-Lokus",
+    "lang": "de",
+    "counterparts": [
+     "Muse locus"
+    ]
+   },
+   {
+    "term": "Mutexes",
+    "lang": "en",
+    "counterparts": [
+     "Mutexe"
+    ]
+   },
+   {
+    "term": "Mutual Information",
+    "lang": "en",
+    "counterparts": [
+     "wechselseitige Information"
+    ]
+   },
+   {
+    "term": "Mutuale Information",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Mutuelle Information",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Myers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Myers-Briggs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Myers-Briggs-Typenindikator",
+    "lang": "de",
+    "counterparts": [
+     "Myers-Briggs Type Indicator"
+    ]
+   },
+   {
+    "term": "Männlich",
+    "lang": "de",
+    "counterparts": [
+     "male"
+    ]
+   },
+   {
+    "term": "Männlichen",
+    "lang": "de",
+    "counterparts": [
+     "male"
+    ]
+   },
+   {
+    "term": "Märchen-Einwand",
+    "lang": "de",
+    "counterparts": [
+     "fairy tale objection"
+    ]
+   },
+   {
+    "term": "Möbius-Verschränkung",
+    "lang": "de",
+    "counterparts": [
+     "Möbius entanglement"
+    ]
+   },
+   {
+    "term": "Möglichkeiten",
+    "lang": "de",
+    "counterparts": [
+     "possibilities"
+    ]
+   },
+   {
+    "term": "Möglichkeiten-Garten",
+    "lang": "de",
+    "counterparts": [
+     "possibilities garden"
+    ]
+   },
+   {
+    "term": "Möglichkeiten-Gartens",
+    "lang": "de",
+    "counterparts": [
+     "possibilities garden"
+    ]
+   },
+   {
+    "term": "Möglichkeiten-Weber",
+    "lang": "de",
+    "counterparts": [
+     "possibilities weaver"
+    ]
+   },
+   {
+    "term": "Möglichkeitenstrom",
+    "lang": "de",
+    "counterparts": [
+     "possibilities stream"
+    ]
+   },
+   {
+    "term": "Māyā",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "N-Zustand",
+    "lang": "de",
+    "counterparts": [
+     "N state"
+    ]
+   },
+   {
+    "term": "NCBI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NCC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NCCs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NCP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NCP-Integrated",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NET",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NETZWEBER",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NICHT-EXISTENZ",
+    "lang": "de",
+    "counterparts": [
+     "non-existence"
+    ]
+   },
+   {
+    "term": "NIH",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NIMH",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NLCA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NLP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NNWDK",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NP-Complete",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "NP-Hard",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "NP-Härte",
+    "lang": "de",
+    "counterparts": [
+     "NP hardness"
+    ]
+   }
+  ]
+ }
+}

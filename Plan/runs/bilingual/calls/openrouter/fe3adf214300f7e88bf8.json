@@ -1,0 +1,567 @@
+{
+ "model": "poolside/laguna-s-2.1:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Tatsache des Bewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "fact of consciousness",
+     "consciousness fact",
+     "fact of awareness"
+    ]
+   },
+   {
+    "term": "Tautologie",
+    "lang": "de",
+    "counterparts": [
+     "tautology",
+     "tautological statement",
+     "logical tautology"
+    ]
+   },
+   {
+    "term": "Taylor",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TeV-Brane",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "TeV-Skala",
+    "lang": "de",
+    "counterparts": [
+     "TeV scale",
+     "teraelectronvolt scale",
+     "TeV energy scale"
+    ]
+   },
+   {
+    "term": "Technik des Imagery Rescripting",
+    "lang": "de",
+    "counterparts": [
+     "imagery rescripting technique",
+     "technique of imagery rescripting",
+     "rescripting imagery technique"
+    ]
+   },
+   {
+    "term": "Techniken des Environmental Storytelling",
+    "lang": "de",
+    "counterparts": [
+     "environmental storytelling techniques",
+     "techniques of environmental storytelling",
+     "environmental narrative techniques"
+    ]
+   },
+   {
+    "term": "Technique",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tegmarks",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Tegmarks Hypothese",
+    "lang": "de",
+    "counterparts": [
+     "Tegmark's hypothesis",
+     "Tegmark hypothesis",
+     "Max Tegmark's hypothesis"
+    ]
+   },
+   {
+    "term": "Tegmarks Mathematical Universe Hypothesis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Teil B der VersMedV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Teil-Ganzes-Beziehungen",
+    "lang": "de",
+    "counterparts": [
+     "part-whole relationships",
+     "whole-part relationships",
+     "part-to-whole relations"
+    ]
+   },
+   {
+    "term": "Teilmengen-Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "subset paradox",
+     "subset paradoxon",
+     "paradox of subsets"
+    ]
+   },
+   {
+    "term": "Teilsummenproblem",
+    "lang": "de",
+    "counterparts": [
+     "subset sum problem",
+     "partial sum problem",
+     "subtotal problem"
+    ]
+   },
+   {
+    "term": "Telefon-Stille",
+    "lang": "de",
+    "counterparts": [
+     "phone silence",
+     "telephone silence",
+     "silent phone"
+    ]
+   },
+   {
+    "term": "Teletransporter-Paradox",
+    "lang": "de",
+    "counterparts": [
+     "teletransporter paradox",
+     "teleportation paradox",
+     "teleporter paradox"
+    ]
+   },
+   {
+    "term": "Telos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Temptation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Temptress",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tera-Elektronenvolt",
+    "lang": "de",
+    "counterparts": [
+     "teraelectronvolt",
+     "TeV",
+     "tera electron volt"
+    ]
+   },
+   {
+    "term": "Terminator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Territorium",
+    "lang": "de",
+    "counterparts": [
+     "territory",
+     "territories",
+     "territorial area"
+    ]
+   },
+   {
+    "term": "Tertiary",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tertiary Dissociation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tertiary Structural Dissociation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tertiär",
+    "lang": "de",
+    "counterparts": [
+     "tertiary",
+     "tertiary level",
+     "third stage"
+    ]
+   },
+   {
+    "term": "Tertiäre Strukturelle Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "tertiary structural dissociation",
+     "tertiary structural dissociation",
+     "third-stage structural dissociation"
+    ]
+   },
+   {
+    "term": "Tertiären Strukturellen Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "tertiary structural dissociation",
+     "tertiary structural dissociative",
+     "third-stage structural dissociation"
+    ]
+   },
+   {
+    "term": "Tertiärer Struktureller Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "tertiary structural dissociation",
+     "tertiary structural dissociative",
+     "third-stage structural dissociation"
+    ]
+   },
+   {
+    "term": "Test of Attentional Performance",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Texture Flickering",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Texturfehler",
+    "lang": "de",
+    "counterparts": [
+     "texture error",
+     "texture bug",
+     "surface defect"
+    ]
+   },
+   {
+    "term": "Tg",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Th",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Thalamus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Thalamus-Hyperaktivität",
+    "lang": "de",
+    "counterparts": [
+     "thalamus hyperactivity",
+     "hyperactivity of the thalamus",
+     "thalamic hyperactivity"
+    ]
+   },
+   {
+    "term": "Thanatos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "The-Handy-Math-Answer-Book",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "The-Magazine",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "The_Void_",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Theater",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theism",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theme-Ebene",
+    "lang": "de",
+    "counterparts": [
+     "theme level",
+     "thematic level",
+     "theme layer"
+    ]
+   },
+   {
+    "term": "Theologie",
+    "lang": "de",
+    "counterparts": [
+     "theology",
+     "theological studies",
+     "divine science"
+    ]
+   },
+   {
+    "term": "Theology",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theorem",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theorembeweiser",
+    "lang": "de",
+    "counterparts": [
+     "theorem prover",
+     "proof system",
+     "automated theorem prover"
+    ]
+   },
+   {
+    "term": "Theorie",
+    "lang": "de",
+    "counterparts": [
+     "theory",
+     "theoretical framework",
+     "conceptual model"
+    ]
+   },
+   {
+    "term": "Theorie der Berechenbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "theory of computability",
+     "computability theory",
+     "theory of calculability"
+    ]
+   },
+   {
+    "term": "Theorie der Glaubensrevision",
+    "lang": "de",
+    "counterparts": [
+     "theory of belief revision",
+     "belief revision theory",
+     "theory of doxastic logic"
+    ]
+   },
+   {
+    "term": "Theorie der Strukturellen Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "theory of structural dissociation",
+     "structural dissociation theory",
+     "theory of structural dissociation"
+    ]
+   },
+   {
+    "term": "Theorie der Verkörperung",
+    "lang": "de",
+    "counterparts": [
+     "theory of embodiment",
+     "embodiment theory",
+     "theory of embodied cognition"
+    ]
+   },
+   {
+    "term": "Theorie der Vertex-Operator-Algebren",
+    "lang": "de",
+    "counterparts": [
+     "theory of vertex operator algebras",
+     "vertex operator algebra theory",
+     "theory of vertex operator algebras"
+    ]
+   },
+   {
+    "term": "Theorie der Vertexoperatoralgebren",
+    "lang": "de",
+    "counterparts": [
+     "theory of vertex operator algebras",
+     "vertex operator algebra theory",
+     "theory of vertex operator algebras"
+    ]
+   },
+   {
+    "term": "Theories of Meaning",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theory",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theory of Mind",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theory of Structural Dissociation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theory-Ladenness",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Therapie-Schnittstelle Alpha",
+    "lang": "de",
+    "counterparts": [
+     "therapy interface Alpha",
+     "therapeutic interface Alpha",
+     "Alpha therapy interface"
+    ]
+   },
+   {
+    "term": "Thermische Objekte",
+    "lang": "de",
+    "counterparts": [
+     "thermal objects",
+     "heat objects",
+     "thermal entities"
+    ]
+   },
+   {
+    "term": "Thermodynamic Graph Fields",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Thermodynamics",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Thermodynamik der Information",
+    "lang": "de",
+    "counterparts": [
+     "thermodynamics of information",
+     "information thermodynamics",
+     "thermodynamic theory of information"
+    ]
+   },
+   {
+    "term": "Thermodynamik der Informationslöschung",
+    "lang": "de",
+    "counterparts": [
+     "thermodynamics of information erasure",
+     "information erasure thermodynamics",
+     "thermodynamic cost of erasure"
+    ]
+   },
+   {
+    "term": "Thermodynamik der Löschung",
+    "lang": "de",
+    "counterparts": [
+     "thermodynamics of erasure",
+     "erasure thermodynamics",
+     "thermodynamic theory of deletion"
+    ]
+   },
+   {
+    "term": "Thermodynamischer Beweis",
+    "lang": "de",
+    "counterparts": [
+     "thermodynamic proof",
+     "thermodynamic argument",
+     "proof by thermodynamics"
+    ]
+   },
+   {
+    "term": "These-Antithese-Synthese",
+    "lang": "de",
+    "counterparts": [
+     "thesis-antithesis-synthesis",
+     "dialectical triad",
+     "Hegelian dialectic"
+    ]
+   },
+   {
+    "term": "Theseus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Theseus-Schiff",
+    "lang": "de",
+    "counterparts": [
+     "Theseus ship",
+     "ship of Theseus",
+     "Theseus paradox"
+    ]
+   },
+   {
+    "term": "Theta",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Theta-9",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "They",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "They-Kreuz-Spiegelung",
+    "lang": "de",
+    "counterparts": [
+     "they-reflection",
+     "they-cross reflection",
+     "they-mirror reflection"
+    ]
+   },
+   {
+    "term": "They-Kreuz-Spiegelungs-Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "they-reflection paradox",
+     "they-cross reflection paradox",
+     "they-mirror paradox"
+    ]
+   },
+   {
+    "term": "They-Perspektive",
+    "lang": "de",
+    "counterparts": [
+     "they-perspective",
+     "they viewpoint",
+     "they perspective"
+    ]
+   },
+   {
+    "term": "They-Throughline",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Thieme",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Thomas",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

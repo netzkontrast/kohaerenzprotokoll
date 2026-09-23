@@ -1,0 +1,547 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Systemneustart",
+    "lang": "de",
+    "counterparts": [
+     "system restart",
+     "system reboot",
+     "system start-up"
+    ]
+   },
+   {
+    "term": "Systemprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "system protocol",
+     "system log",
+     "system record"
+    ]
+   },
+   {
+    "term": "Systemprotokolle",
+    "lang": "de",
+    "counterparts": [
+     "system protocols",
+     "system logs",
+     "system records"
+    ]
+   },
+   {
+    "term": "Systemprotokollen",
+    "lang": "de",
+    "counterparts": [
+     "system protocols",
+     "system logs",
+     "system records"
+    ]
+   },
+   {
+    "term": "Systempräsenz",
+    "lang": "de",
+    "counterparts": [
+     "system presence",
+     "system availability",
+     "system visibility"
+    ]
+   },
+   {
+    "term": "Systemresilienz",
+    "lang": "de",
+    "counterparts": [
+     "system resilience",
+     "system robustness",
+     "system fault tolerance"
+    ]
+   },
+   {
+    "term": "Systems-of-Systems",
+    "lang": "en",
+    "counterparts": [
+     "Systeme von Systemen",
+     "System-of-Systeme",
+     "Systemverbund"
+    ]
+   },
+   {
+    "term": "Systemschocks",
+    "lang": "de",
+    "counterparts": [
+     "system shocks",
+     "system jolts",
+     "system disturbances"
+    ]
+   },
+   {
+    "term": "Systemtheorie",
+    "lang": "de",
+    "counterparts": [
+     "system theory",
+     "systems theory",
+     "general systems theory"
+    ]
+   },
+   {
+    "term": "Systemtheorie und Dissoziative Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "system theory and dissociative identity disorder",
+     "system theory and DID",
+     "systems theory and dissociative identity disorder"
+    ]
+   },
+   {
+    "term": "Systemtheorie/Kybernetik",
+    "lang": "de",
+    "counterparts": [
+     "system theory/cybernetics",
+     "systems theory and cybernetics",
+     "general systems theory/cybernetics"
+    ]
+   },
+   {
+    "term": "Systemumgebung",
+    "lang": "de",
+    "counterparts": [
+     "system environment",
+     "system surroundings",
+     "system context"
+    ]
+   },
+   {
+    "term": "Systemverantwortung",
+    "lang": "de",
+    "counterparts": [
+     "system responsibility",
+     "system accountability",
+     "system oversight"
+    ]
+   },
+   {
+    "term": "Syuzhet",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Syužet",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Säule",
+    "lang": "de",
+    "counterparts": [
+     "pillar",
+     "column",
+     "support"
+    ]
+   },
+   {
+    "term": "Säule I",
+    "lang": "de",
+    "counterparts": [
+     "Pillar I",
+     "Column I",
+     "Support I"
+    ]
+   },
+   {
+    "term": "Säule II",
+    "lang": "de",
+    "counterparts": [
+     "Pillar II",
+     "Column II",
+     "Support II"
+    ]
+   },
+   {
+    "term": "Säule III",
+    "lang": "de",
+    "counterparts": [
+     "Pillar III",
+     "Column III",
+     "Support III"
+    ]
+   },
+   {
+    "term": "Sünde der Inkohärenz",
+    "lang": "de",
+    "counterparts": [
+     "sin of incoherence",
+     "incoherence sin",
+     "lack of coherence sin"
+    ]
+   },
+   {
+    "term": "Sünde der Vagheit",
+    "lang": "de",
+    "counterparts": [
+     "sin of vagueness",
+     "vagueness sin",
+     "ambiguity sin"
+    ]
+   },
+   {
+    "term": "T-734",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "T-734 Trauma",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "T-Schema",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "TAD40-3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TAD40-3-fnl-pg4-15-pdf",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TAP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TCP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TDA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TEMPORAL",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "TF-1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TF-2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TF-3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TF-4",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TG2022-Book-165x240-SCR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TGF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "THE",
+    "lang": "en",
+    "counterparts": [
+     "der",
+     "die",
+     "das"
+    ]
+   },
+   {
+    "term": "THE AUTONOMOUS SUBSYSTEMS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "THE DIGITAL OVERWORLD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "THE GUARDIANS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "THE VORTEX INVERSION",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "THH",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TIQM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TLVwA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TMaxP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TO",
+    "lang": "en",
+    "counterparts": [
+     "nach",
+     "zu",
+     "gegen"
+    ]
+   },
+   {
+    "term": "TOE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TOM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TOWARDS",
+    "lang": "en",
+    "counterparts": [
+     "auf Richtung",
+     "in Richtung",
+     "gegenüber"
+    ]
+   },
+   {
+    "term": "TREs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSDP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSDP Action System",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSDP Dynamics",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSDP Emotional Part",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSDP Role",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSDP System",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSDP-Behandlung",
+    "lang": "de",
+    "counterparts": [
+     "TSDP treatment",
+     "TSDP therapy",
+     "TSDP intervention"
+    ]
+   },
+   {
+    "term": "TSDP-Constraints",
+    "lang": "en",
+    "counterparts": [
+     "TSDP-Beschränkungen",
+     "TSDP-Einschränkungen",
+     "TSDP-Limitierungen"
+    ]
+   },
+   {
+    "term": "TSDP-Dynamiken",
+    "lang": "de",
+    "counterparts": [
+     "TSDP dynamics",
+     "TSDP dynamic processes",
+     "TSDP dynamical behaviors"
+    ]
+   },
+   {
+    "term": "TSDP-Fragmentierung",
+    "lang": "de",
+    "counterparts": [
+     "TSDP fragmentation",
+     "TSDP splitting",
+     "TSDP division"
+    ]
+   },
+   {
+    "term": "TSDP-Integration",
+    "lang": "de",
+    "counterparts": [
+     "TSDP integration",
+     "TSDP integration process",
+     "TSDP integrating"
+    ]
+   },
+   {
+    "term": "TSDP-Modell",
+    "lang": "de",
+    "counterparts": [
+     "TSDP model",
+     "TSDP modeling",
+     "TSDP framework"
+    ]
+   },
+   {
+    "term": "TSDP-Plot",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "TSDP-Prinzipien",
+    "lang": "de",
+    "counterparts": [
+     "TSDP principles",
+     "TSDP fundamentals",
+     "TSDP basics"
+    ]
+   },
+   {
+    "term": "TSDP-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "TSDP structure",
+     "TSDP architecture",
+     "TSDP layout"
+    ]
+   },
+   {
+    "term": "TSDP-System",
+    "lang": "de",
+    "counterparts": [
+     "TSDP system",
+     "TSDP system architecture",
+     "TSDP system framework"
+    ]
+   },
+   {
+    "term": "TSP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TSPT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TU",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "TYP OMEGA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Tacit Knowledge",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Taming the Wildfire",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Taoismus",
+    "lang": "de",
+    "counterparts": [
+     "Taoism",
+     "Daoism",
+     "Daoist philosophy"
+    ]
+   },
+   {
+    "term": "Taproot",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Targeted Retrieval",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tarski",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Tarski-Korrespondenz",
+    "lang": "de",
+    "counterparts": [
+     "Tarski correspondence",
+     "Tarski correspondence theory",
+     "Tarski correspondence principle"
+    ]
+   },
+   {
+    "term": "Tarskis",
+    "lang": "de",
+    "counterparts": [
+     "Tarski's",
+     "Tarski",
+     "Tarski’s"
+    ]
+   },
+   {
+    "term": "Tastendruck",
+    "lang": "de",
+    "counterparts": [
+     "key press",
+     "keystroke",
+     "button press"
+    ]
+   }
+  ]
+ }
+}

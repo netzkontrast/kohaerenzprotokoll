@@ -1,0 +1,579 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Nothingness Noise",
+    "lang": "en",
+    "counterparts": [
+     "Nichtsgeräusch",
+     "Geräusch des Nichts",
+     "Nichts-Lärm"
+    ]
+   },
+   {
+    "term": "Notwendige Abwehr",
+    "lang": "de",
+    "counterparts": [
+     "Necessary Defense",
+     "Required Defense",
+     "Essential Defense"
+    ]
+   },
+   {
+    "term": "Noumena",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "NovelOS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Novelcrafter",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nox",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nox' Schattenversteck",
+    "lang": "de",
+    "counterparts": [
+     "Nox's Shadow Hideout",
+     "Nox's Shadow Hiding Place",
+     "Nox's Concealment"
+    ]
+   },
+   {
+    "term": "Null",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Null Entropie",
+    "lang": "de",
+    "counterparts": [
+     "Null Entropy",
+     "Zero Entropy",
+     "Null Entropy (Zero Entropy)"
+    ]
+   },
+   {
+    "term": "Null Entropieänderung",
+    "lang": "de",
+    "counterparts": [
+     "Null Entropy Change",
+     "Zero Entropy Change",
+     "Null Entropy Change (Zero Entropy Change)"
+    ]
+   },
+   {
+    "term": "Null-Raum",
+    "lang": "de",
+    "counterparts": [
+     "Null Space",
+     "Zero Space",
+     "Null Space (Zero Space)"
+    ]
+   },
+   {
+    "term": "NullClaw",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nullpunkt",
+    "lang": "de",
+    "counterparts": [
+     "Zero Point",
+     "Null Point",
+     "Null Point (Zero Point)"
+    ]
+   },
+   {
+    "term": "Nullpunkt-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "Zero Point Protocol",
+     "Null Point Protocol",
+     "Zero Point Protocol (Null Point Protocol)"
+    ]
+   },
+   {
+    "term": "Nullpunktenergie",
+    "lang": "de",
+    "counterparts": [
+     "Zero-Point Energy",
+     "Null Point Energy",
+     "Zero-Point Energy (Null Point Energy)"
+    ]
+   },
+   {
+    "term": "Nullpunktenergien",
+    "lang": "de",
+    "counterparts": [
+     "Zero-Point Energies",
+     "Null Point Energies",
+     "Zero-Point Energies (Null Point Energies)"
+    ]
+   },
+   {
+    "term": "Nutzer des Potenzials",
+    "lang": "de",
+    "counterparts": [
+     "User of the Potential",
+     "Potential User",
+     "User of Potential"
+    ]
+   },
+   {
+    "term": "Nutzung der Leser-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "Use of the Reader Reaction",
+     "Reader Reaction Utilization",
+     "Utilization of Reader Reaction"
+    ]
+   },
+   {
+    "term": "Nyx",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Nāgārjuna",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OALib",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OAPEN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OASIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OBP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OCEAN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OEG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OF LIFE SUPPORT SYSTEMS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OMEGA",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ONTOLOGY",
+    "lang": "en",
+    "counterparts": [
+     "Ontologie",
+     "Ontologien",
+     "Die Ontologie"
+    ]
+   },
+   {
+    "term": "OPE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OPUS",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "OQ-01",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OQ-02",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OQ-03",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OQ-05",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OQ-E",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OS Domain",
+    "lang": "en",
+    "counterparts": [
+     "OS-Bereich",
+     "OS-Gebiet",
+     "OS-Domäne"
+    ]
+   },
+   {
+    "term": "OS Psychology",
+    "lang": "en",
+    "counterparts": [
+     "OS-Psychologie",
+     "OS-Seelenkunde",
+     "OS-Verhalten"
+    ]
+   },
+   {
+    "term": "OS-Besetzung",
+    "lang": "de",
+    "counterparts": [
+     "OS Staffing",
+     "OS Assignment",
+     "OS Crew"
+    ]
+   },
+   {
+    "term": "OS-Mandat",
+    "lang": "de",
+    "counterparts": [
+     "OS Mandate",
+     "OS Mission",
+     "OS Directive"
+    ]
+   },
+   {
+    "term": "OS-Träger",
+    "lang": "de",
+    "counterparts": [
+     "OS Carrier",
+     "OS Bearer",
+     "OS Holder"
+    ]
+   },
+   {
+    "term": "OSDD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OSDD-1a",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OSDD-1b",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OSF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OSR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OST",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OVERWORLD",
+    "lang": "en",
+    "counterparts": [
+     "Überwelt",
+     "Oberwelt",
+     "Overworld"
+    ]
+   },
+   {
+    "term": "Object",
+    "lang": "en",
+    "counterparts": [
+     "Objekt",
+     "Objekte",
+     "Der Objekt"
+    ]
+   },
+   {
+    "term": "Object-cause of Desire",
+    "lang": "en",
+    "counterparts": [
+     "Objekt-Ursache der Begierde",
+     "Objektursache des Verlangens",
+     "Ursache des Begehrens Objekt"
+    ]
+   },
+   {
+    "term": "Objection",
+    "lang": "en",
+    "counterparts": [
+     "Einwand",
+     "Widerspruch",
+     "Beanstandung"
+    ]
+   },
+   {
+    "term": "Objective",
+    "lang": "en",
+    "counterparts": [
+     "objektiv",
+     "Ziel",
+     "Zielsetzung"
+    ]
+   },
+   {
+    "term": "Objective Story",
+    "lang": "en",
+    "counterparts": [
+     "Objektive Geschichte",
+     "Objektive Narrative",
+     "Objective Story"
+    ]
+   },
+   {
+    "term": "Objective Story Throughline",
+    "lang": "en",
+    "counterparts": [
+     "Objektive Story Throughline",
+     "Objektive Hauptlinie",
+     "Durchgang der objektiven Geschichte"
+    ]
+   },
+   {
+    "term": "Objekt",
+    "lang": "de",
+    "counterparts": [
+     "Object",
+     "Objects",
+     "Object (entity)"
+    ]
+   },
+   {
+    "term": "Objekte und Morphismen",
+    "lang": "de",
+    "counterparts": [
+     "Objects and Morphisms",
+     "Objects and Morphisms (plural)",
+     "Objekte und Morphismen (English)"
+    ]
+   },
+   {
+    "term": "Objektiver Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "Objective Collapse",
+     "Objective Collapse (physics)",
+     "Objektiver Kollaps (English)"
+    ]
+   },
+   {
+    "term": "Objektiver Reduktion",
+    "lang": "de",
+    "counterparts": [
+     "Objective Reduction",
+     "Objective Reduction (physics)",
+     "Objektiver Reduktion (English)"
+    ]
+   },
+   {
+    "term": "Objektsprache",
+    "lang": "de",
+    "counterparts": [
+     "Object Language",
+     "Object Language (linguistics)",
+     "Objektsprache (English)"
+    ]
+   },
+   {
+    "term": "Oblivion",
+    "lang": "en",
+    "counterparts": [
+     "Vergessenheit",
+     "Vergessen",
+     "Oblivion (loan)"
+    ]
+   },
+   {
+    "term": "Oblivion-Zustand",
+    "lang": "de",
+    "counterparts": [
+     "Oblivion State",
+     "State of Oblivion",
+     "Oblivion-Zustand (English)"
+    ]
+   },
+   {
+    "term": "Observer",
+    "lang": "en",
+    "counterparts": [
+     "Beobachter",
+     "Beobachterin",
+     "Beobachter (person)"
+    ]
+   },
+   {
+    "term": "Observer Effect",
+    "lang": "en",
+    "counterparts": [
+     "Beobachtereffekt",
+     "Beobachter-Effekt",
+     "Observer-Effekt"
+    ]
+   },
+   {
+    "term": "Obstacle",
+    "lang": "en",
+    "counterparts": [
+     "Hindernis",
+     "Blockade",
+     "Hürde"
+    ]
+   },
+   {
+    "term": "Obstacle Character",
+    "lang": "en",
+    "counterparts": [
+     "Hindernis-Charakter",
+     "Hindernisfigur",
+     "Obstakel-Charakter"
+    ]
+   },
+   {
+    "term": "Oculus-G",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Odyssee",
+    "lang": "de",
+    "counterparts": [
+     "Odyssey",
+     "Odyssee (English loan)",
+     "Odyssee"
+    ]
+   },
+   {
+    "term": "Offenbarung",
+    "lang": "de",
+    "counterparts": [
+     "Revelation",
+     "Disclosure",
+     "Offenbarung (English)"
+    ]
+   },
+   {
+    "term": "Offene Konfrontation",
+    "lang": "de",
+    "counterparts": [
+     "Open Confrontation",
+     "Open Confrontation (eng)",
+     "Offene Konfrontation (English)"
+    ]
+   },
+   {
+    "term": "Oldest",
+    "lang": "en",
+    "counterparts": [
+     "älteste",
+     "der Älteste",
+     "die Älteste"
+    ]
+   },
+   {
+    "term": "Ollama",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Omega",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Omega-Prime",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "One",
+    "lang": "en",
+    "counterparts": [
+     "Eins",
+     "eine",
+     "ein"
+    ]
+   },
+   {
+    "term": "Onno",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ontische Strukturelle Realismus",
+    "lang": "de",
+    "counterparts": [
+     "Ontic Structural Realism",
+     "Ontic Structural Realism (philosophy)",
+     "Ontische Strukturelle Realismus (English)"
+    ]
+   },
+   {
+    "term": "Ontischen Strukturellen Realismus",
+    "lang": "de",
+    "counterparts": [
+     "Ontic Structural Realism",
+     "Ontic Structural Realism (philosophy)",
+     "Ontischen Strukturellen Realismus (English)"
+    ]
+   }
+  ]
+ }
+}

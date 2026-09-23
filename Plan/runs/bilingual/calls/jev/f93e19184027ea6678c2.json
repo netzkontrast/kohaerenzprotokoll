@@ -1,0 +1,207 @@
+{
+ "model": "jev-1.13.0",
+ "seconds": 2.87,
+ "input_tokens": 8938,
+ "answers": {
+  "p0": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.34,
+    "variant": 0.0,
+    "distinct": 0.46,
+    "abbreviation": 0.15,
+    "translation": 0.05
+   }
+  },
+  "p1": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.48,
+    "variant": 0.02,
+    "distinct": 0.47,
+    "abbreviation": 0.0,
+    "translation": 0.03
+   }
+  },
+  "p2": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.29,
+    "variant": 0.0,
+    "distinct": 0.71,
+    "abbreviation": 0.0,
+    "translation": 0.0
+   }
+  },
+  "p3": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "role_or_part": 0.63,
+    "variant": 0.01,
+    "distinct": 0.05,
+    "abbreviation": 0.01,
+    "translation": 0.3
+   }
+  },
+  "p4": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "role_or_part": 0.57,
+    "variant": 0.0,
+    "distinct": 0.11,
+    "abbreviation": 0.24,
+    "translation": 0.08
+   }
+  },
+  "p5": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.14,
+    "variant": 0.01,
+    "distinct": 0.48,
+    "abbreviation": 0.03,
+    "translation": 0.34
+   }
+  },
+  "p6": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.35,
+    "variant": 0.01,
+    "distinct": 0.61,
+    "abbreviation": 0.0,
+    "translation": 0.03
+   }
+  },
+  "p7": {
+   "choice": "translation",
+   "probabilities": {
+    "role_or_part": 0.04,
+    "variant": 0.02,
+    "distinct": 0.05,
+    "abbreviation": 0.0,
+    "translation": 0.89
+   }
+  },
+  "p8": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "role_or_part": 0.76,
+    "variant": 0.0,
+    "distinct": 0.21,
+    "abbreviation": 0.0,
+    "translation": 0.03
+   }
+  },
+  "p9": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.1,
+    "variant": 0.0,
+    "distinct": 0.85,
+    "abbreviation": 0.0,
+    "translation": 0.05
+   }
+  },
+  "p10": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.37,
+    "variant": 0.05,
+    "distinct": 0.52,
+    "abbreviation": 0.03,
+    "translation": 0.03
+   }
+  },
+  "p11": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.34,
+    "variant": 0.03,
+    "distinct": 0.54,
+    "abbreviation": 0.0,
+    "translation": 0.09
+   }
+  },
+  "p12": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "role_or_part": 0.58,
+    "variant": 0.11,
+    "distinct": 0.03,
+    "abbreviation": 0.01,
+    "translation": 0.27
+   }
+  },
+  "p13": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "role_or_part": 0.63,
+    "variant": 0.02,
+    "distinct": 0.34,
+    "abbreviation": 0.0,
+    "translation": 0.01
+   }
+  },
+  "p14": {
+   "choice": "variant",
+   "probabilities": {
+    "role_or_part": 0.19,
+    "variant": 0.54,
+    "distinct": 0.05,
+    "abbreviation": 0.05,
+    "translation": 0.17
+   }
+  },
+  "p15": {
+   "choice": "variant",
+   "probabilities": {
+    "role_or_part": 0.03,
+    "variant": 0.82,
+    "distinct": 0.09,
+    "abbreviation": 0.0,
+    "translation": 0.06
+   }
+  },
+  "p16": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "role_or_part": 0.5700000000000001,
+    "variant": 0.03,
+    "distinct": 0.09,
+    "abbreviation": 0.0,
+    "translation": 0.31
+   }
+  },
+  "p17": {
+   "choice": "role_or_part",
+   "probabilities": {
+    "role_or_part": 0.52,
+    "variant": 0.01,
+    "distinct": 0.42,
+    "abbreviation": 0.0,
+    "translation": 0.05
+   }
+  },
+  "p18": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.02,
+    "variant": 0.0,
+    "distinct": 0.97,
+    "abbreviation": 0.0,
+    "translation": 0.01
+   }
+  },
+  "p19": {
+   "choice": "distinct",
+   "probabilities": {
+    "role_or_part": 0.46,
+    "variant": 0.0,
+    "distinct": 0.51,
+    "abbreviation": 0.0,
+    "translation": 0.03
+   }
+  }
+ }
+}

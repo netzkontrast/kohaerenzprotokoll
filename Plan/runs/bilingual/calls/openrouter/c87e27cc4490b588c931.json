@@ -1,0 +1,453 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Pragmatic",
+    "lang": "en",
+    "counterparts": [
+     "pragmatisch"
+    ]
+   },
+   {
+    "term": "Pragmatic Theory of Truth",
+    "lang": "en",
+    "counterparts": [
+     "pragmatische Wahrheitstheorie",
+     "Pragmatische Theorie der Wahrheit"
+    ]
+   },
+   {
+    "term": "Pragmatik",
+    "lang": "de",
+    "counterparts": [
+     "pragmatics"
+    ]
+   },
+   {
+    "term": "Pragmatische Eliminierung",
+    "lang": "de",
+    "counterparts": [
+     "pragmatic elimination"
+    ]
+   },
+   {
+    "term": "Pragmatismus",
+    "lang": "de",
+    "counterparts": [
+     "pragmatism"
+    ]
+   },
+   {
+    "term": "Pratītyasamutpāda",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Pre-Mortem-Analyse",
+    "lang": "de",
+    "counterparts": [
+     "pre-mortem analysis",
+     "premortem analysis"
+    ]
+   },
+   {
+    "term": "Preconception",
+    "lang": "en",
+    "counterparts": [
+     "Vorannahme",
+     "vorgefasste Meinung",
+     "vorgefasste Auffassung"
+    ]
+   },
+   {
+    "term": "Preconscious",
+    "lang": "en",
+    "counterparts": [
+     "vorbewusst"
+    ]
+   },
+   {
+    "term": "Prediction Errors",
+    "lang": "en",
+    "counterparts": [
+     "Vorhersagefehler",
+     "Prognosefehler"
+    ]
+   },
+   {
+    "term": "Predictive Modality Alignment",
+    "lang": "en",
+    "counterparts": [
+     "prädiktive Modalitätsausrichtung",
+     "prädiktive Ausrichtung der Modalitäten",
+     "prädiktive Modalitäten-Ausrichtung"
+    ]
+   },
+   {
+    "term": "Predictive Modeling",
+    "lang": "en",
+    "counterparts": [
+     "prädiktive Modellierung",
+     "Vorhersagemodellierung"
+    ]
+   },
+   {
+    "term": "Predictive Processing",
+    "lang": "en",
+    "counterparts": [
+     "prädiktive Verarbeitung",
+     "prädiktive Informationsverarbeitung"
+    ]
+   },
+   {
+    "term": "Predictive Psychology",
+    "lang": "en",
+    "counterparts": [
+     "prädiktive Psychologie",
+     "Vorhersagepsychologie"
+    ]
+   },
+   {
+    "term": "Prefrontal",
+    "lang": "en",
+    "counterparts": [
+     "präfrontale",
+     "präfrontaler"
+    ]
+   },
+   {
+    "term": "Prefrontal Cortex",
+    "lang": "en",
+    "counterparts": [
+     "präfrontaler Kortex",
+     "präfrontale Rinde"
+    ]
+   },
+   {
+    "term": "Prehension",
+    "lang": "en",
+    "counterparts": [
+     "Vorgriff"
+    ]
+   },
+   {
+    "term": "Preis der Information",
+    "lang": "de",
+    "counterparts": [
+     "price of information",
+     "cost of information"
+    ]
+   },
+   {
+    "term": "Priest",
+    "lang": "en",
+    "counterparts": [
+     "Priester"
+    ]
+   },
+   {
+    "term": "Priests",
+    "lang": "en",
+    "counterparts": [
+     "Priester"
+    ]
+   },
+   {
+    "term": "Priests LP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Priests Logic of Paradox",
+    "lang": "en",
+    "counterparts": [
+     "Logik des Paradoxons der Priester",
+     "Priester-Logik des Paradoxons"
+    ]
+   },
+   {
+    "term": "Prigogine",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Primal",
+    "lang": "en",
+    "counterparts": [
+     "urprünglich",
+     "ursprünglich"
+    ]
+   },
+   {
+    "term": "Primat",
+    "lang": "de",
+    "counterparts": [
+     "primacy"
+    ]
+   },
+   {
+    "term": "Primat der Strukturellen Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "primacy of structural dissociation"
+    ]
+   },
+   {
+    "term": "Prime",
+    "lang": "en",
+    "counterparts": [
+     "prim",
+     "erste"
+    ]
+   },
+   {
+    "term": "Primes",
+    "lang": "en",
+    "counterparts": [
+     "Primzahlen"
+    ]
+   },
+   {
+    "term": "Primordial",
+    "lang": "en",
+    "counterparts": [
+     "urzeitlich",
+     "ursprünglich"
+    ]
+   },
+   {
+    "term": "Primordial Informational Field",
+    "lang": "en",
+    "counterparts": [
+     "urzeitliches Informationsfeld",
+     "ursprüngliches Informationsfeld"
+    ]
+   },
+   {
+    "term": "Primzahl-Metapher",
+    "lang": "de",
+    "counterparts": [
+     "prime number metaphor",
+     "prime metaphor"
+    ]
+   },
+   {
+    "term": "Primärdirektive",
+    "lang": "de",
+    "counterparts": [
+     "primary directive"
+    ]
+   },
+   {
+    "term": "Primärer ANP",
+    "lang": "de",
+    "counterparts": [
+     "primary ANP"
+    ]
+   },
+   {
+    "term": "Princeton",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Principle",
+    "lang": "en",
+    "counterparts": [
+     "Prinzip"
+    ]
+   },
+   {
+    "term": "Principle of Explosion",
+    "lang": "en",
+    "counterparts": [
+     "Prinzip der Explosion",
+     "Explosionsprinzip"
+    ]
+   },
+   {
+    "term": "Problem der KI-Ausrichtung",
+    "lang": "de",
+    "counterparts": [
+     "problem of AI alignment"
+    ]
+   },
+   {
+    "term": "Problem des Anderen",
+    "lang": "de",
+    "counterparts": [
+     "problem of the Other"
+    ]
+   },
+   {
+    "term": "Procedural",
+    "lang": "en",
+    "counterparts": [
+     "prozedural",
+     "verfahrensbezogen"
+    ]
+   },
+   {
+    "term": "Process Philosophy",
+    "lang": "en",
+    "counterparts": [
+     "Prozessphilosophie",
+     "Philosophie des Prozesses"
+    ]
+   },
+   {
+    "term": "Profil Rhys",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Profil Selene",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Programm",
+    "lang": "de",
+    "counterparts": [
+     "program",
+     "programme"
+    ]
+   },
+   {
+    "term": "Programme",
+    "lang": "en",
+    "counterparts": [
+     "Programm"
+    ]
+   },
+   {
+    "term": "Programms",
+    "lang": "de",
+    "counterparts": [
+     "program"
+    ]
+   },
+   {
+    "term": "Projective",
+    "lang": "en",
+    "counterparts": [
+     "projektiv",
+     "projizierend"
+    ]
+   },
+   {
+    "term": "Projektor",
+    "lang": "de",
+    "counterparts": [
+     "projector"
+    ]
+   },
+   {
+    "term": "Prolonged Exposure Therapy",
+    "lang": "en",
+    "counterparts": [
+     "langfristige Expositionstherapie",
+     "dauerhafte Expositionstherapie"
+    ]
+   },
+   {
+    "term": "Prompt",
+    "lang": "en",
+    "counterparts": [
+     "Aufforderung",
+     "Anweisung"
+    ]
+   },
+   {
+    "term": "Prompt Engineering",
+    "lang": "en",
+    "counterparts": [
+     "Prompt-Engineering",
+     "Aufforderungsingenieurwesen"
+    ]
+   },
+   {
+    "term": "Prompt Functions",
+    "lang": "en",
+    "counterparts": [
+     "Prompt-Funktionen",
+     "Aufforderungsfunktionen"
+    ]
+   },
+   {
+    "term": "Prompt-Engineering",
+    "lang": "de",
+    "counterparts": [
+     "prompt engineering"
+    ]
+   },
+   {
+    "term": "Prompt-Kaskade",
+    "lang": "de",
+    "counterparts": [
+     "prompt cascade"
+    ]
+   },
+   {
+    "term": "Proof-of-Function",
+    "lang": "en",
+    "counterparts": [
+     "Funktionsnachweis"
+    ]
+   },
+   {
+    "term": "Protector",
+    "lang": "en",
+    "counterparts": [
+     "Schützer",
+     "Beschützer"
+    ]
+   },
+   {
+    "term": "Protector ANP",
+    "lang": "en",
+    "counterparts": [
+     "Schützer ANP",
+     "Beschützer ANP"
+    ]
+   },
+   {
+    "term": "Protectors",
+    "lang": "en",
+    "counterparts": [
+     "Schützer",
+     "Beschützer"
+    ]
+   },
+   {
+    "term": "Protektor",
+    "lang": "de",
+    "counterparts": [
+     "protector"
+    ]
+   },
+   {
+    "term": "Protektor-ANP",
+    "lang": "de",
+    "counterparts": [
+     "protector ANP"
+    ]
+   },
+   {
+    "term": "Protektoren",
+    "lang": "de",
+    "counterparts": [
+     "protectors"
+    ]
+   },
+   {
+    "term": "Protektors",
+    "lang": "de",
+    "counterparts": [
+     "protector"
+    ]
+   }
+  ]
+ }
+}

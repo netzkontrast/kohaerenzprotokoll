@@ -1,0 +1,485 @@
+{
+ "model": "poolside/laguna-s-2.1:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "SGB V",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SGB X",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SGG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SGP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SGPP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SGVP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SIBE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SIE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SIS-Protokolle",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SIS-Zustand",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SKID-D",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SKILL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SNK",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SNR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SNRI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SOC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SPY-1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SQLite",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SRCA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SS-93-06",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SS-Mandat",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SS09",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SS93-06-002",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SSB",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SSI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SSOT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SSRI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ST",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "STRUKTURELLE DISSOZIATION",
+    "lang": "de",
+    "counterparts": [
+     "structural dissociation"
+    ]
+   },
+   {
+    "term": "SUSY",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SVI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SWMR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sacred",
+    "lang": "en",
+    "counterparts": [
+     "heilig"
+    ]
+   },
+   {
+    "term": "Sadhana",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Safe Connection",
+    "lang": "en",
+    "counterparts": [
+     "sichere Verbindung"
+    ]
+   },
+   {
+    "term": "Safe Haven",
+    "lang": "en",
+    "counterparts": [
+     "sicherer Hafen"
+    ]
+   },
+   {
+    "term": "Safety Behavior",
+    "lang": "en",
+    "counterparts": [
+     "Sicherheitsverhalten"
+    ]
+   },
+   {
+    "term": "Safety Behaviors",
+    "lang": "en",
+    "counterparts": [
+     "Sicherheitsverhalten"
+    ]
+   },
+   {
+    "term": "Sage",
+    "lang": "de",
+    "counterparts": [
+     "legend"
+    ]
+   },
+   {
+    "term": "Saiten",
+    "lang": "de",
+    "counterparts": [
+     "strings"
+    ]
+   },
+   {
+    "term": "Salience Network",
+    "lang": "en",
+    "counterparts": [
+     "Salienz-Netzwerk"
+    ]
+   },
+   {
+    "term": "Salienz",
+    "lang": "de",
+    "counterparts": [
+     "salience"
+    ]
+   },
+   {
+    "term": "Salienz-Netzwerk",
+    "lang": "de",
+    "counterparts": [
+     "Salience Network"
+    ]
+   },
+   {
+    "term": "Samen der Sicherheit",
+    "lang": "de",
+    "counterparts": [
+     "Seed of Security"
+    ]
+   },
+   {
+    "term": "Sandbox",
+    "lang": "en",
+    "counterparts": [
+     "Sandkasten"
+    ]
+   },
+   {
+    "term": "Santa",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Santa Fe Institute",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sarah",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sartre",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sartres",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Satire",
+    "lang": "en",
+    "counterparts": [
+     "Satire"
+    ]
+   },
+   {
+    "term": "Scale",
+    "lang": "en",
+    "counterparts": [
+     "Skala"
+    ]
+   },
+   {
+    "term": "Schach",
+    "lang": "de",
+    "counterparts": [
+     "chess"
+    ]
+   },
+   {
+    "term": "Schalter",
+    "lang": "de",
+    "counterparts": [
+     "switch"
+    ]
+   },
+   {
+    "term": "Schamanische Seelenrückholung",
+    "lang": "de",
+    "counterparts": [
+     "shamanic soul retrieval"
+    ]
+   },
+   {
+    "term": "Schatten",
+    "lang": "de",
+    "counterparts": [
+     "shadow"
+    ]
+   },
+   {
+    "term": "Schattenintegration",
+    "lang": "de",
+    "counterparts": [
+     "shadow integration"
+    ]
+   },
+   {
+    "term": "Schattenkind",
+    "lang": "de",
+    "counterparts": [
+     "shadow child"
+    ]
+   },
+   {
+    "term": "Schattenlabyrinth",
+    "lang": "de",
+    "counterparts": [
+     "shadow labyrinth"
+    ]
+   },
+   {
+    "term": "Scheinkohärenz",
+    "lang": "de",
+    "counterparts": [
+     "apparent coherence"
+    ]
+   },
+   {
+    "term": "Scheitern der Kontrolle",
+    "lang": "de",
+    "counterparts": [
+     "failure of control"
+    ]
+   },
+   {
+    "term": "Schema",
+    "lang": "de",
+    "counterparts": [
+     "schema"
+    ]
+   },
+   {
+    "term": "Schemata",
+    "lang": "de",
+    "counterparts": [
+     "schemas"
+    ]
+   },
+   {
+    "term": "Schematherapie",
+    "lang": "de",
+    "counterparts": [
+     "schema therapy"
+    ]
+   },
+   {
+    "term": "Schfer-C",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Schicht",
+    "lang": "de",
+    "counterparts": [
+     "shift",
+     "layer"
+    ]
+   },
+   {
+    "term": "Schichten",
+    "lang": "de",
+    "counterparts": [
+     "layers",
+     "shifts"
+    ]
+   },
+   {
+    "term": "Schichtung",
+    "lang": "de",
+    "counterparts": [
+     "stratification"
+    ]
+   },
+   {
+    "term": "Schiedsrichter",
+    "lang": "de",
+    "counterparts": [
+     "referee"
+    ]
+   },
+   {
+    "term": "Schiff",
+    "lang": "de",
+    "counterparts": [
+     "ship"
+    ]
+   },
+   {
+    "term": "Schiff des Theseus",
+    "lang": "de",
+    "counterparts": [
+     "Ship of Theseus"
+    ]
+   },
+   {
+    "term": "Schizophrenie",
+    "lang": "de",
+    "counterparts": [
+     "schizophrenia"
+    ]
+   },
+   {
+    "term": "Schlaflähmung",
+    "lang": "de",
+    "counterparts": [
+     "sleep paralysis"
+    ]
+   },
+   {
+    "term": "Schlafparalyse-Analogon",
+    "lang": "de",
+    "counterparts": [
+     "sleep paralysis analogy"
+    ]
+   },
+   {
+    "term": "Schleifenquantengravitation",
+    "lang": "de",
+    "counterparts": [
+     "loop quantum gravity"
+    ]
+   },
+   {
+    "term": "Schleuse 7",
+    "lang": "de",
+    "counterparts": [
+     "lock 7"
+    ]
+   }
+  ]
+ }
+}

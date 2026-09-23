@@ -1,0 +1,525 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Funktionale Multiplizität",
+    "lang": "de",
+    "counterparts": [
+     "Functional Multiplicity"
+    ]
+   },
+   {
+    "term": "Funktionale Ontologie",
+    "lang": "de",
+    "counterparts": [
+     "Functional Ontology"
+    ]
+   },
+   {
+    "term": "Funktionaler Multiplizität",
+    "lang": "de",
+    "counterparts": [
+     "Functional Multiplicity"
+    ]
+   },
+   {
+    "term": "Funktionalismus",
+    "lang": "de",
+    "counterparts": [
+     "Functionalism"
+    ]
+   },
+   {
+    "term": "Funktionentheorie",
+    "lang": "de",
+    "counterparts": [
+     "Function Theory"
+    ]
+   },
+   {
+    "term": "Funktionseinheit",
+    "lang": "de",
+    "counterparts": [
+     "Functional Unit"
+    ]
+   },
+   {
+    "term": "Funnels",
+    "lang": "en",
+    "counterparts": [
+     "Trichter",
+     "Funnels"
+    ]
+   },
+   {
+    "term": "Fusion",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Fusion der Ebenen",
+    "lang": "de",
+    "counterparts": [
+     "Fusion of Levels"
+    ]
+   },
+   {
+    "term": "Fussell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fuzzy",
+    "lang": "en",
+    "counterparts": [
+     "unbestimmt",
+     "verschwommen",
+     "Fuzzy"
+    ]
+   },
+   {
+    "term": "FÜR DIE ÜBERGEORDNETE SYSTEMANALYSE",
+    "lang": "de",
+    "counterparts": [
+     "FOR THE SUPERIOR SYSTEM ANALYSIS"
+    ]
+   },
+   {
+    "term": "Fähigkeit und Verlangen",
+    "lang": "de",
+    "counterparts": [
+     "Ability and Desire"
+    ]
+   },
+   {
+    "term": "Fähigkeiten-Fehlanpassung",
+    "lang": "de",
+    "counterparts": [
+     "Abilities Maladaptation",
+     "Maladaptation of Abilities"
+    ]
+   },
+   {
+    "term": "Fähigkeitenteilung",
+    "lang": "de",
+    "counterparts": [
+     "Division of Abilities"
+    ]
+   },
+   {
+    "term": "Fühlende Umgebung",
+    "lang": "de",
+    "counterparts": [
+     "Feeling Environment",
+     "Sentient Environment"
+    ]
+   },
+   {
+    "term": "Fünftes Buch",
+    "lang": "de",
+    "counterparts": [
+     "Fifth Book"
+    ]
+   },
+   {
+    "term": "Für-sich",
+    "lang": "de",
+    "counterparts": [
+     "For-itself"
+    ]
+   },
+   {
+    "term": "Für-sich-Sein",
+    "lang": "de",
+    "counterparts": [
+     "Being-for-itself"
+    ]
+   },
+   {
+    "term": "Fürsorger",
+    "lang": "de",
+    "counterparts": [
+     "Caregiver"
+    ]
+   },
+   {
+    "term": "Fürsorger-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "Caregiver Share",
+     "Caregiver Portion"
+    ]
+   },
+   {
+    "term": "Fürsorgerin",
+    "lang": "de",
+    "counterparts": [
+     "Female Caregiver",
+     "Caregiver (female)"
+    ]
+   },
+   {
+    "term": "G-BA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "G-LOC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "G24",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GABA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GABA-Crash",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "GABA-Ungleichgewicht",
+    "lang": "de",
+    "counterparts": [
+     "GABA Imbalance"
+    ]
+   },
+   {
+    "term": "GAD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GAF-Skala",
+    "lang": "de",
+    "counterparts": [
+     "GAF Scale"
+    ]
+   },
+   {
+    "term": "GAs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GENESIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GIF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GIM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GKV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GNW",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GPT-5",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GRW",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GTP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GUARDIAN MCL-SEKTOR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GUT",
+    "lang": "de",
+    "counterparts": [
+     "good"
+    ]
+   },
+   {
+    "term": "GWD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GWPs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GWT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gaia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Galerie der Falschen Erinnerungen",
+    "lang": "de",
+    "counterparts": [
+     "Gallery of False Memories"
+    ]
+   },
+   {
+    "term": "Game",
+    "lang": "en",
+    "counterparts": [
+     "Spiel",
+     "Game"
+    ]
+   },
+   {
+    "term": "Gaming",
+    "lang": "en",
+    "counterparts": [
+     "Gaming",
+     "Spielen"
+    ]
+   },
+   {
+    "term": "Gamma",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Gamma-7",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gamma-Aminobuttersäure",
+    "lang": "de",
+    "counterparts": [
+     "Gamma-aminobutyric acid"
+    ]
+   },
+   {
+    "term": "Gamma-Phi",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gangui",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Garben-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "Sheaf Theory"
+    ]
+   },
+   {
+    "term": "Garden",
+    "lang": "en",
+    "counterparts": [
+     "Garten"
+    ]
+   },
+   {
+    "term": "Garden of Eden",
+    "lang": "en",
+    "counterparts": [
+     "Garten Eden",
+     "Garten von Eden"
+    ]
+   },
+   {
+    "term": "Garden of Possibilities",
+    "lang": "en",
+    "counterparts": [
+     "Garten der Möglichkeiten"
+    ]
+   },
+   {
+    "term": "Garden of Possibility",
+    "lang": "en",
+    "counterparts": [
+     "Garten der Möglichkeit"
+    ]
+   },
+   {
+    "term": "Garden of Potential",
+    "lang": "en",
+    "counterparts": [
+     "Garten des Potenzials"
+    ]
+   },
+   {
+    "term": "Gardener",
+    "lang": "en",
+    "counterparts": [
+     "Gärtner"
+    ]
+   },
+   {
+    "term": "Garten",
+    "lang": "de",
+    "counterparts": [
+     "Garden"
+    ]
+   },
+   {
+    "term": "Garten Eden",
+    "lang": "de",
+    "counterparts": [
+     "Garden of Eden"
+    ]
+   },
+   {
+    "term": "Garten der Möglichkeiten",
+    "lang": "de",
+    "counterparts": [
+     "Garden of Possibilities"
+    ]
+   },
+   {
+    "term": "Garten der Stillen Präsenz",
+    "lang": "de",
+    "counterparts": [
+     "Garden of Silent Presence"
+    ]
+   },
+   {
+    "term": "Gaslighting",
+    "lang": "en",
+    "counterparts": [
+     "Gaslichtbeleuchtung",
+     "Gaslighting"
+    ]
+   },
+   {
+    "term": "Gastgeber",
+    "lang": "de",
+    "counterparts": [
+     "Host"
+    ]
+   },
+   {
+    "term": "Gastgeber-Identitäten",
+    "lang": "de",
+    "counterparts": [
+     "Host Identities"
+    ]
+   },
+   {
+    "term": "Gatekeeper",
+    "lang": "en",
+    "counterparts": [
+     "Torhüter",
+     "Wächter",
+     "Gatekeeper"
+    ]
+   },
+   {
+    "term": "Gatekeeper for Identity Systems",
+    "lang": "en",
+    "counterparts": [
+     "Gatekeeper für Identitätssysteme"
+    ]
+   },
+   {
+    "term": "Gatekeeper for Integrity Systems",
+    "lang": "en",
+    "counterparts": [
+     "Gatekeeper für Integritätssysteme"
+    ]
+   },
+   {
+    "term": "Gatekeepern",
+    "lang": "de",
+    "counterparts": [
+     "Gatekeepers"
+    ]
+   },
+   {
+    "term": "Gatekeeping",
+    "lang": "en",
+    "counterparts": [
+     "Gatekeeping"
+    ]
+   },
+   {
+    "term": "Gates",
+    "lang": "en",
+    "counterparts": [
+     "Tore",
+     "Gates"
+    ]
+   },
+   {
+    "term": "Gateway",
+    "lang": "en",
+    "counterparts": [
+     "Gateway",
+     "Tor"
+    ]
+   },
+   {
+    "term": "Gauge Symmetries",
+    "lang": "en",
+    "counterparts": [
+     "Eichsymmetrien"
+    ]
+   },
+   {
+    "term": "Gauß-Verteilung",
+    "lang": "de",
+    "counterparts": [
+     "Gaussian distribution",
+     "Normal distribution"
+    ]
+   },
+   {
+    "term": "GdB",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GdB-Tabelle",
+    "lang": "de",
+    "counterparts": [
+     "GdB Table"
+    ]
+   }
+  ]
+ }
+}

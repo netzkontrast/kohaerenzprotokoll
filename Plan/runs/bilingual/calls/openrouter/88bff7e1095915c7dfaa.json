@@ -1,0 +1,659 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Stanford",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Stanford Encyclopedia of Philosophy",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Star Trek",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Stark",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Start",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Starters",
+    "lang": "en",
+    "counterparts": [
+     "Anfänger",
+     "Starter",
+     "Einsteiger"
+    ]
+   },
+   {
+    "term": "Startpunkt",
+    "lang": "de",
+    "counterparts": [
+     "starting point",
+     "start point",
+     "origin"
+    ]
+   },
+   {
+    "term": "Stasis",
+    "lang": "en",
+    "counterparts": [
+     "Stagnation",
+     "Stasis",
+     "Stillstand"
+    ]
+   },
+   {
+    "term": "Stasis-Loop",
+    "lang": "en",
+    "counterparts": [
+     "Stasis-Schleife",
+     "Stasis-Loop",
+     "Stagnationsschleife"
+    ]
+   },
+   {
+    "term": "Stasis-Lücke",
+    "lang": "de",
+    "counterparts": [
+     "stasis gap",
+     "stasis loophole",
+     "stasis break"
+    ]
+   },
+   {
+    "term": "StatPearls",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "State Analysis Prompt",
+    "lang": "en",
+    "counterparts": [
+     "Zustandsanalyse-Prompt",
+     "Zustandsanalyseaufforderung",
+     "State-Analyse"
+    ]
+   },
+   {
+    "term": "State Detection",
+    "lang": "en",
+    "counterparts": [
+     "Zustandserkennung",
+     "State-Detektion",
+     "Zustandsdetektion"
+    ]
+   },
+   {
+    "term": "State Freezing",
+    "lang": "en",
+    "counterparts": [
+     "State-Freezing",
+     "Zustandsvereinfrieren",
+     "Zustandsfreezing"
+    ]
+   },
+   {
+    "term": "State Update Prompt",
+    "lang": "en",
+    "counterparts": [
+     "Zustandsaktualisierungsaufforderung",
+     "State-Update-Prompt",
+     "Zustandsaktualisierung-Prompt"
+    ]
+   },
+   {
+    "term": "State of Coherence",
+    "lang": "en",
+    "counterparts": [
+     "Zustand der Kohärenz",
+     "Kohärenzzustand",
+     "State of Coherence"
+    ]
+   },
+   {
+    "term": "State of Disruption",
+    "lang": "en",
+    "counterparts": [
+     "Zustand der Störung",
+     "Disruptionszustand",
+     "State of Disruption"
+    ]
+   },
+   {
+    "term": "State-Freezing",
+    "lang": "en",
+    "counterparts": [
+     "State-Freezing",
+     "Zustandsvereinfrieren",
+     "Zustandsfreezing"
+    ]
+   },
+   {
+    "term": "Static Memory",
+    "lang": "en",
+    "counterparts": [
+     "Statischer Speicher",
+     "Static Memory",
+     "Statisch Speicher"
+    ]
+   },
+   {
+    "term": "Station",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Statistische Manual Psychischer Störungen",
+    "lang": "de",
+    "counterparts": [
+     "Statistical Manual of Mental Disorders",
+     "Statistical Manual of Mental Illnesses",
+     "Statistisches Handbuch psychischer Störungen"
+    ]
+   },
+   {
+    "term": "Status Quo",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Status Quo des Kanons",
+    "lang": "de",
+    "counterparts": [
+     "status quo of the canon",
+     "canon status quo",
+     "status quo of the canon"
+    ]
+   },
+   {
+    "term": "Steadfast",
+    "lang": "en",
+    "counterparts": [
+     "unerschütterlich",
+     "standhaft",
+     "beständig"
+    ]
+   },
+   {
+    "term": "Steele",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Stefan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Steiner-System",
+    "lang": "de",
+    "counterparts": [
+     "Steiner system",
+     "Steiner systems",
+     "Steiner-system"
+    ]
+   },
+   {
+    "term": "Steiner-Systems",
+    "lang": "de",
+    "counterparts": [
+     "Steiner systems",
+     "Steiner system",
+     "Steiner-systems"
+    ]
+   },
+   {
+    "term": "Steinschleuder",
+    "lang": "de",
+    "counterparts": [
+     "slingshot",
+     "catapult",
+     "stone thrower"
+    ]
+   },
+   {
+    "term": "Stephen",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Steven",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Stil-Anweisungen",
+    "lang": "de",
+    "counterparts": [
+     "style instructions",
+     "style guidelines",
+     "style rules"
+    ]
+   },
+   {
+    "term": "Stilebenen",
+    "lang": "de",
+    "counterparts": [
+     "style levels",
+     "levels of style",
+     "stylistic levels"
+    ]
+   },
+   {
+    "term": "Stimme des Kerns",
+    "lang": "de",
+    "counterparts": [
+     "voice of the core",
+     "core voice",
+     "voice from the core"
+    ]
+   },
+   {
+    "term": "Stop",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Stoppard",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Store-Conditional",
+    "lang": "en",
+    "counterparts": [
+     "Store-Bedingt",
+     "Store-Conditional",
+     "Speicherbedingung"
+    ]
+   },
+   {
+    "term": "Storming the Castle Trope",
+    "lang": "en",
+    "counterparts": [
+     "Sturm auf die Burg Trope",
+     "Burgsturm-Trope",
+     "Sturm auf die Burg Trope"
+    ]
+   },
+   {
+    "term": "Story",
+    "lang": "en",
+    "counterparts": [
+     "Story",
+     "Geschichte",
+     "Erzählung"
+    ]
+   },
+   {
+    "term": "Story Driver",
+    "lang": "en",
+    "counterparts": [
+     "Story-Treiber",
+     "Geschichtstrieb",
+     "Story Driver"
+    ]
+   },
+   {
+    "term": "Story Encoding",
+    "lang": "en",
+    "counterparts": [
+     "Story-Kodierung",
+     "Geschichtsencodierung",
+     "Story-Encoding"
+    ]
+   },
+   {
+    "term": "Story Goal",
+    "lang": "en",
+    "counterparts": [
+     "Story-Ziel",
+     "Geschichtsziel",
+     "Story Goal"
+    ]
+   },
+   {
+    "term": "Story Judgment",
+    "lang": "en",
+    "counterparts": [
+     "Story-Urteil",
+     "Geschichtsbeurteilung",
+     "Story Judgment"
+    ]
+   },
+   {
+    "term": "Story Limit",
+    "lang": "en",
+    "counterparts": [
+     "Story-Grenze",
+     "Geschichtslimit",
+     "Story Limit"
+    ]
+   },
+   {
+    "term": "Story Mind",
+    "lang": "en",
+    "counterparts": [
+     "Story-Geist",
+     "Geschichtsgeist",
+     "Story Mind"
+    ]
+   },
+   {
+    "term": "Story Outcome",
+    "lang": "en",
+    "counterparts": [
+     "Story-Ergebnis",
+     "Geschichtsausgang",
+     "Story Outcome"
+    ]
+   },
+   {
+    "term": "Story Points",
+    "lang": "en",
+    "counterparts": [
+     "Story-Punkte",
+     "Geschichtspunkte",
+     "Story Points"
+    ]
+   },
+   {
+    "term": "Story Reception",
+    "lang": "en",
+    "counterparts": [
+     "Story-Aufnahme",
+     "Geschichtsrezeption",
+     "Story Reception"
+    ]
+   },
+   {
+    "term": "Story-Mind",
+    "lang": "en",
+    "counterparts": [
+     "Story-Geist",
+     "Geschichtsgeist",
+     "Story-Mind"
+    ]
+   },
+   {
+    "term": "Story-first",
+    "lang": "en",
+    "counterparts": [
+     "Story-erst",
+     "Geschichtserst",
+     "Story-zuerst"
+    ]
+   },
+   {
+    "term": "Storybeat",
+    "lang": "en",
+    "counterparts": [
+     "Storybeat",
+     "Geschichtsbeat",
+     "Story Beat"
+    ]
+   },
+   {
+    "term": "Storybeats",
+    "lang": "en",
+    "counterparts": [
+     "Storybeats",
+     "Geschichtsbeats",
+     "Story Beats"
+    ]
+   },
+   {
+    "term": "Storyencoder Agent",
+    "lang": "en",
+    "counterparts": [
+     "Storyencoder-Agent",
+     "Storyencoder Agent",
+     "Geschichtsencoder-Agent"
+    ]
+   },
+   {
+    "term": "Storyform",
+    "lang": "en",
+    "counterparts": [
+     "Storyform",
+     "Geschichtsform",
+     "Story-Form"
+    ]
+   },
+   {
+    "term": "Storyform A",
+    "lang": "en",
+    "counterparts": [
+     "Storyform A",
+     "Geschichtsform A",
+     "Storyform A"
+    ]
+   },
+   {
+    "term": "Storyform A und B",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Storyform AEGIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Storyform B",
+    "lang": "en",
+    "counterparts": [
+     "Storyform B",
+     "Geschichtsform B",
+     "Storyform B"
+    ]
+   },
+   {
+    "term": "Storyform Kael",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Storyform-Synthese",
+    "lang": "de",
+    "counterparts": [
+     "storyform synthesis",
+     "storyform synthesis",
+     "storyform combination"
+    ]
+   },
+   {
+    "term": "Storyform-Übergang B",
+    "lang": "de",
+    "counterparts": [
+     "storyform transition B",
+     "storyform transition B",
+     "storyform change B"
+    ]
+   },
+   {
+    "term": "Storyformen",
+    "lang": "de",
+    "counterparts": [
+     "storyforms",
+     "story forms",
+     "storyforms"
+    ]
+   },
+   {
+    "term": "Storyformer Agent",
+    "lang": "en",
+    "counterparts": [
+     "Storyformer-Agent",
+     "Storyformer Agent",
+     "Geschichtsformer-Agent"
+    ]
+   },
+   {
+    "term": "Storyforming",
+    "lang": "en",
+    "counterparts": [
+     "Storyforming",
+     "Geschichtsformung",
+     "Story-Forming"
+    ]
+   },
+   {
+    "term": "Storyforming-Lock-In",
+    "lang": "en",
+    "counterparts": [
+     "Storyforming-Lock-In",
+     "Storyforming-Lock-In",
+     "Geschichtsformung-Lock-In"
+    ]
+   },
+   {
+    "term": "Storyforms",
+    "lang": "en",
+    "counterparts": [
+     "Storyformen",
+     "Geschichtsformen",
+     "Storyforms"
+    ]
+   },
+   {
+    "term": "Storymind",
+    "lang": "en",
+    "counterparts": [
+     "Storymind",
+     "Geschichtsgeist",
+     "Story Mind"
+    ]
+   },
+   {
+    "term": "Storypoint",
+    "lang": "en",
+    "counterparts": [
+     "Storypoint",
+     "Geschichtspunkt",
+     "Story Point"
+    ]
+   },
+   {
+    "term": "Storypoints",
+    "lang": "en",
+    "counterparts": [
+     "Storypoints",
+     "Geschichtspunkte",
+     "Story Points"
+    ]
+   },
+   {
+    "term": "Storyreceptor Agent",
+    "lang": "en",
+    "counterparts": [
+     "Storyreceptor-Agent",
+     "Storyreceptor Agent",
+     "Geschichtsreceptor-Agent"
+    ]
+   },
+   {
+    "term": "Storyweaver Agent",
+    "lang": "en",
+    "counterparts": [
+     "Storyweaver-Agent",
+     "Storyweaver Agent",
+     "Geschichtsweaver-Agent"
+    ]
+   },
+   {
+    "term": "Storyweaving",
+    "lang": "en",
+    "counterparts": [
+     "Storyweaving",
+     "Geschichtsweben",
+     "Story-Weaving"
+    ]
+   },
+   {
+    "term": "Strafenden",
+    "lang": "de",
+    "counterparts": [
+     "punishing",
+     "penal",
+     "punitive"
+    ]
+   },
+   {
+    "term": "Strafender Elternmodus",
+    "lang": "de",
+    "counterparts": [
+     "punishing parent mode",
+     "penal parent mode",
+     "punitive parent mode"
+    ]
+   },
+   {
+    "term": "Strang",
+    "lang": "de",
+    "counterparts": [
+     "strict",
+     "stringent",
+     "severe"
+    ]
+   },
+   {
+    "term": "Strange",
+    "lang": "en",
+    "counterparts": [
+     "seltsam",
+     "merkwürdig",
+     "ungewöhnlich"
+    ]
+   },
+   {
+    "term": "Strange Attractors",
+    "lang": "en",
+    "counterparts": [
+     "Seltsame Attraktoren",
+     "Strange Attractoren",
+     "Seltsame Attraktoren"
+    ]
+   },
+   {
+    "term": "Stratege",
+    "lang": "de",
+    "counterparts": [
+     "strategist",
+     "strategos",
+     "general"
+    ]
+   },
+   {
+    "term": "Strategic Fear Management",
+    "lang": "en",
+    "counterparts": [
+     "Strategische Angstbewältigung",
+     "Strategische Angstmanagement",
+     "Strategische Furchtmanagement"
+    ]
+   },
+   {
+    "term": "Strategische Angstbewältigung",
+    "lang": "de",
+    "counterparts": [
+     "strategic fear management",
+     "strategic anxiety management",
+     "strategic fear coping"
+    ]
+   }
+  ]
+ }
+}

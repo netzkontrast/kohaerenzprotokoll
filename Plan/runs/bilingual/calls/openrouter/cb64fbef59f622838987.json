@@ -1,0 +1,564 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Thompson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Thompson-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "Thompson Group"
+    ]
+   },
+   {
+    "term": "Thorne",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Thought-Reform-and-the-Psychology-of-Totalism-Audiobook",
+    "lang": "en",
+    "counterparts": [
+     "Gedankenreform und die Psychologie des Totalismus – Hörbuch",
+     "Gedankenreform und Psychologie des Totalismus (Hörbuch)"
+    ]
+   },
+   {
+    "term": "Threat Vector",
+    "lang": "en",
+    "counterparts": [
+     "Bedrohungsvektor",
+     "Gefahrenvektor"
+    ]
+   },
+   {
+    "term": "Three",
+    "lang": "en",
+    "counterparts": [
+     "drei"
+    ]
+   },
+   {
+    "term": "Threshold",
+    "lang": "en",
+    "counterparts": [
+     "Schwelle"
+    ]
+   },
+   {
+    "term": "Threshold Concepts",
+    "lang": "en",
+    "counterparts": [
+     "Schwellenkonzepte"
+    ]
+   },
+   {
+    "term": "Threshold Guardian Trope",
+    "lang": "en",
+    "counterparts": [
+     "Schwellenwächter-Tropus",
+     "Schwellen-Guardian-Tropus"
+    ]
+   },
+   {
+    "term": "Threshold Zone",
+    "lang": "en",
+    "counterparts": [
+     "Schwellenzone"
+    ]
+   },
+   {
+    "term": "Thriving",
+    "lang": "en",
+    "counterparts": [
+     "gedeiend",
+     "florieren"
+    ]
+   },
+   {
+    "term": "Throughline",
+    "lang": "en",
+    "counterparts": [
+     "Durchgangslinie"
+    ]
+   },
+   {
+    "term": "Throughline Configurations",
+    "lang": "en",
+    "counterparts": [
+     "Throughline-Konfigurationen",
+     "Durchgangslinien-Konfigurationen"
+    ]
+   },
+   {
+    "term": "Throughlines",
+    "lang": "en",
+    "counterparts": [
+     "Durchgangslinien"
+    ]
+   },
+   {
+    "term": "Tiefe Ich-Perspektive",
+    "lang": "de",
+    "counterparts": [
+     "deep ego perspective",
+     "deep self perspective"
+    ]
+   },
+   {
+    "term": "Tiefenpsychologie",
+    "lang": "de",
+    "counterparts": [
+     "depth psychology"
+    ]
+   },
+   {
+    "term": "Tier",
+    "lang": "de",
+    "counterparts": [
+     "animal",
+     "creature"
+    ]
+   },
+   {
+    "term": "Time-loss",
+    "lang": "en",
+    "counterparts": [
+     "Zeitverlust"
+    ]
+   },
+   {
+    "term": "Timelock",
+    "lang": "en",
+    "counterparts": [
+     "Zeitsperre",
+     "Timelock"
+    ]
+   },
+   {
+    "term": "Timelock-Countdown",
+    "lang": "en",
+    "counterparts": [
+     "Zeitsperre-Countdown",
+     "Timelock-Countdown"
+    ]
+   },
+   {
+    "term": "Times Of David Bohm",
+    "lang": "en",
+    "counterparts": [
+     "Zeiten von David Bohm"
+    ]
+   },
+   {
+    "term": "Titration",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ToM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ToM-Defizit",
+    "lang": "de",
+    "counterparts": [
+     "ToM deficit",
+     "theory of mind deficit"
+    ]
+   },
+   {
+    "term": "Tod",
+    "lang": "de",
+    "counterparts": [
+     "death"
+    ]
+   },
+   {
+    "term": "Todestrieb",
+    "lang": "de",
+    "counterparts": [
+     "death drive"
+    ]
+   },
+   {
+    "term": "Token",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Token Limit",
+    "lang": "en",
+    "counterparts": [
+     "Token-Limit",
+     "Tokenbegrenzung"
+    ]
+   },
+   {
+    "term": "Token Management",
+    "lang": "en",
+    "counterparts": [
+     "Token-Management",
+     "Tokenverwaltung"
+    ]
+   },
+   {
+    "term": "Token-Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "token collapse"
+    ]
+   },
+   {
+    "term": "Token-Wahrscheinlichkeiten",
+    "lang": "de",
+    "counterparts": [
+     "token probabilities"
+    ]
+   },
+   {
+    "term": "Tokens",
+    "lang": "en",
+    "counterparts": [
+     "Tokens"
+    ]
+   },
+   {
+    "term": "Tolerance",
+    "lang": "en",
+    "counterparts": [
+     "Toleranz"
+    ]
+   },
+   {
+    "term": "Toleranz",
+    "lang": "de",
+    "counterparts": [
+     "tolerance"
+    ]
+   },
+   {
+    "term": "Toleranzfenster",
+    "lang": "de",
+    "counterparts": [
+     "tolerance window"
+    ]
+   },
+   {
+    "term": "Tonische Wachheit",
+    "lang": "de",
+    "counterparts": [
+     "tonic wakefulness",
+     "tonic alertness"
+    ]
+   },
+   {
+    "term": "Tononi",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Tool",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tool Layer",
+    "lang": "en",
+    "counterparts": [
+     "Tool-Schicht",
+     "Tool-Ebene"
+    ]
+   },
+   {
+    "term": "Tool-Server",
+    "lang": "en",
+    "counterparts": [
+     "Tool-Server"
+    ]
+   },
+   {
+    "term": "Top-Down-Ansatz",
+    "lang": "de",
+    "counterparts": [
+     "top-down approach"
+    ]
+   },
+   {
+    "term": "Top-Down-Hierarchie",
+    "lang": "de",
+    "counterparts": [
+     "top-down hierarchy"
+    ]
+   },
+   {
+    "term": "Top-down",
+    "lang": "en",
+    "counterparts": [
+     "top-down"
+    ]
+   },
+   {
+    "term": "Top-down-Kontrolle",
+    "lang": "de",
+    "counterparts": [
+     "top-down control"
+    ]
+   },
+   {
+    "term": "Topological",
+    "lang": "en",
+    "counterparts": [
+     "topologisch"
+    ]
+   },
+   {
+    "term": "Topologie",
+    "lang": "de",
+    "counterparts": [
+     "topology"
+    ]
+   },
+   {
+    "term": "Topologische Transitivität",
+    "lang": "de",
+    "counterparts": [
+     "topological transitivity"
+    ]
+   },
+   {
+    "term": "Topologischen Datenanalyse",
+    "lang": "de",
+    "counterparts": [
+     "topological data analysis"
+    ]
+   },
+   {
+    "term": "Topology",
+    "lang": "en",
+    "counterparts": [
+     "Topologie"
+    ]
+   },
+   {
+    "term": "Tore",
+    "lang": "de",
+    "counterparts": [
+     "gates"
+    ]
+   },
+   {
+    "term": "Toronto",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Torwächter",
+    "lang": "de",
+    "counterparts": [
+     "gatekeeper"
+    ]
+   },
+   {
+    "term": "Total Skepticism",
+    "lang": "en",
+    "counterparts": [
+     "totale Skepsis"
+    ]
+   },
+   {
+    "term": "Total Submission",
+    "lang": "en",
+    "counterparts": [
+     "totale Unterwerfung"
+    ]
+   },
+   {
+    "term": "Totale Auflösung der Realität",
+    "lang": "de",
+    "counterparts": [
+     "total dissolution of reality"
+    ]
+   },
+   {
+    "term": "Totaler Kollaps des AEGIS-Systems",
+    "lang": "de",
+    "counterparts": [
+     "total collapse of the AEGIS system"
+    ]
+   },
+   {
+    "term": "Totalität",
+    "lang": "de",
+    "counterparts": [
+     "totality"
+    ]
+   },
+   {
+    "term": "Totstellreflex",
+    "lang": "de",
+    "counterparts": [
+     "death reflex"
+    ]
+   },
+   {
+    "term": "Tractatus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Tragedy",
+    "lang": "en",
+    "counterparts": [
+     "Tragödie"
+    ]
+   },
+   {
+    "term": "Tragic",
+    "lang": "en",
+    "counterparts": [
+     "tragisch"
+    ]
+   },
+   {
+    "term": "Tragic Flaw",
+    "lang": "en",
+    "counterparts": [
+     "tragischer Fehler"
+    ]
+   },
+   {
+    "term": "Tragic God",
+    "lang": "en",
+    "counterparts": [
+     "tragischer Gott"
+    ]
+   },
+   {
+    "term": "Tragischer Fehler",
+    "lang": "de",
+    "counterparts": [
+     "tragic flaw"
+    ]
+   },
+   {
+    "term": "Tragödie",
+    "lang": "de",
+    "counterparts": [
+     "tragedy"
+    ]
+   },
+   {
+    "term": "Tragödientheorie",
+    "lang": "de",
+    "counterparts": [
+     "tragedy theory"
+    ]
+   },
+   {
+    "term": "Trainingsdaten",
+    "lang": "de",
+    "counterparts": [
+     "training data"
+    ]
+   },
+   {
+    "term": "Trainingsraum der Alters",
+    "lang": "de",
+    "counterparts": [
+     "training room of age",
+     "training space of age"
+    ]
+   },
+   {
+    "term": "Trajektorie",
+    "lang": "de",
+    "counterparts": [
+     "trajectory"
+    ]
+   },
+   {
+    "term": "Transaktionale Interpretation",
+    "lang": "de",
+    "counterparts": [
+     "transactional interpretation"
+    ]
+   },
+   {
+    "term": "Transaktionalen Interpretation",
+    "lang": "de",
+    "counterparts": [
+     "transactional interpretations"
+    ]
+   },
+   {
+    "term": "Transcendence",
+    "lang": "en",
+    "counterparts": [
+     "Transzendenz"
+    ]
+   },
+   {
+    "term": "Transcendent",
+    "lang": "en",
+    "counterparts": [
+     "transzendent"
+    ]
+   },
+   {
+    "term": "Transformative",
+    "lang": "en",
+    "counterparts": [
+     "transformativ"
+    ]
+   },
+   {
+    "term": "Transformative Relationship Events",
+    "lang": "en",
+    "counterparts": [
+     "transformative Beziehungsereignisse"
+    ]
+   },
+   {
+    "term": "Transhumanismus",
+    "lang": "de",
+    "counterparts": [
+     "transhumanism"
+    ]
+   },
+   {
+    "term": "Transiente Hypofrontalität",
+    "lang": "de",
+    "counterparts": [
+     "transient hypofrontality"
+    ]
+   },
+   {
+    "term": "Transinformation",
+    "lang": "en",
+    "counterparts": [
+     "Transinformation"
+    ]
+   },
+   {
+    "term": "Transitions",
+    "lang": "en",
+    "counterparts": [
+     "Übergänge"
+    ]
+   },
+   {
+    "term": "Transitkorridor",
+    "lang": "de",
+    "counterparts": [
+     "transit corridor"
+    ]
+   }
+  ]
+ }
+}

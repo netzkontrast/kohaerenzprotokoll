@@ -1,0 +1,577 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Schleuse 7 (Kontrollpunkt)",
+    "lang": "de",
+    "counterparts": [
+     "lock 7 (checkpoint)",
+     "sluice 7 (control point)",
+     "gate 7 (checkpoint)"
+    ]
+   },
+   {
+    "term": "Schleusen",
+    "lang": "de",
+    "counterparts": [
+     "locks",
+     "sluices",
+     "gates"
+    ]
+   },
+   {
+    "term": "Schlicks",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Schlicks Konstatierungen",
+    "lang": "de",
+    "counterparts": [
+     "Schlicks' statements",
+     "Schlicks observations",
+     "Schlicks' remarks"
+    ]
+   },
+   {
+    "term": "Schmelztiegel",
+    "lang": "de",
+    "counterparts": [
+     "crucible",
+     "melting pot"
+    ]
+   },
+   {
+    "term": "Schmetterlingseffekt",
+    "lang": "de",
+    "counterparts": [
+     "butterfly effect"
+    ]
+   },
+   {
+    "term": "Schmidt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Schnittstelle",
+    "lang": "de",
+    "counterparts": [
+     "interface",
+     "junction",
+     "connection point"
+    ]
+   },
+   {
+    "term": "Schnittstellen-Flip",
+    "lang": "de",
+    "counterparts": [
+     "interface flip",
+     "junction flip"
+    ]
+   },
+   {
+    "term": "ScholarWorks",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Scholarpedia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Schranke",
+    "lang": "de",
+    "counterparts": [
+     "barrier",
+     "gate",
+     "obstacle"
+    ]
+   },
+   {
+    "term": "Schreckreflex",
+    "lang": "de",
+    "counterparts": [
+     "startle reflex",
+     "fright reflex"
+    ]
+   },
+   {
+    "term": "Schrein",
+    "lang": "de",
+    "counterparts": [
+     "shrine",
+     "cabinet"
+    ]
+   },
+   {
+    "term": "Schrödinger",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Schrödinger-Gleichung",
+    "lang": "de",
+    "counterparts": [
+     "Schrödinger equation",
+     "Schrödinger's equation"
+    ]
+   },
+   {
+    "term": "Schur-Erweiterungen",
+    "lang": "de",
+    "counterparts": [
+     "Schur extensions"
+    ]
+   },
+   {
+    "term": "Schutz und Versteckmöglichkeiten",
+    "lang": "de",
+    "counterparts": [
+     "protection and hiding options",
+     "shelter and concealment possibilities",
+     "protection and hiding possibilities"
+    ]
+   },
+   {
+    "term": "Schutz-Paradox",
+    "lang": "de",
+    "counterparts": [
+     "protection paradox"
+    ]
+   },
+   {
+    "term": "Schutzanteile",
+    "lang": "de",
+    "counterparts": [
+     "protective shares",
+     "protection portions"
+    ]
+   },
+   {
+    "term": "Schutzraum",
+    "lang": "de",
+    "counterparts": [
+     "shelter",
+     "protective space",
+     "refuge"
+    ]
+   },
+   {
+    "term": "Schutzschalter-Funktion",
+    "lang": "de",
+    "counterparts": [
+     "circuit breaker function",
+     "breaker function"
+    ]
+   },
+   {
+    "term": "Schwache Verbindungen",
+    "lang": "de",
+    "counterparts": [
+     "weak connections",
+     "weak links"
+    ]
+   },
+   {
+    "term": "Schwarm",
+    "lang": "de",
+    "counterparts": [
+     "swarm"
+    ]
+   },
+   {
+    "term": "Schwarmintelligenz",
+    "lang": "de",
+    "counterparts": [
+     "swarm intelligence"
+    ]
+   },
+   {
+    "term": "Schwartz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Schwarze",
+    "lang": "de",
+    "counterparts": [
+     "blacks",
+     "black ones"
+    ]
+   },
+   {
+    "term": "Schwarze Löcher",
+    "lang": "de",
+    "counterparts": [
+     "black holes"
+    ]
+   },
+   {
+    "term": "Schwarze Löcher der Information",
+    "lang": "de",
+    "counterparts": [
+     "information black holes",
+     "black holes of information"
+    ]
+   },
+   {
+    "term": "Schwarzen Lochs",
+    "lang": "de",
+    "counterparts": [
+     "black holes"
+    ]
+   },
+   {
+    "term": "Schwarzes",
+    "lang": "de",
+    "counterparts": [
+     "black"
+    ]
+   },
+   {
+    "term": "Schwarzschild-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "Schwarzschild protocol"
+    ]
+   },
+   {
+    "term": "Schwellen",
+    "lang": "de",
+    "counterparts": [
+     "thresholds"
+    ]
+   },
+   {
+    "term": "Schwellenhüter",
+    "lang": "de",
+    "counterparts": [
+     "threshold guardian"
+    ]
+   },
+   {
+    "term": "Schwellenhüterin",
+    "lang": "de",
+    "counterparts": [
+     "threshold guardian"
+    ]
+   },
+   {
+    "term": "Schwellenkonzepte",
+    "lang": "de",
+    "counterparts": [
+     "threshold concepts"
+    ]
+   },
+   {
+    "term": "Schwellenkonzepten",
+    "lang": "de",
+    "counterparts": [
+     "threshold concepts"
+    ]
+   },
+   {
+    "term": "Schwerelosigkeit",
+    "lang": "de",
+    "counterparts": [
+     "weightlessness"
+    ]
+   },
+   {
+    "term": "Schwerelosigkeit der Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "weightlessness of coherence"
+    ]
+   },
+   {
+    "term": "Schwerkraft",
+    "lang": "de",
+    "counterparts": [
+     "gravity"
+    ]
+   },
+   {
+    "term": "Schwierige",
+    "lang": "de",
+    "counterparts": [
+     "difficult"
+    ]
+   },
+   {
+    "term": "Schwierigkeit der Faktorisierung",
+    "lang": "de",
+    "counterparts": [
+     "difficulty of factorization"
+    ]
+   },
+   {
+    "term": "Schwinger",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "SchwitzPapers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Schöpfer",
+    "lang": "de",
+    "counterparts": [
+     "creator"
+    ]
+   },
+   {
+    "term": "Science and Nonduality",
+    "lang": "en",
+    "counterparts": [
+     "Wissenschaft und Nichtdualität",
+     "Wissenschaft und Nicht-Dualität",
+     "Wissenschaft und Nicht-Dualität"
+    ]
+   },
+   {
+    "term": "Score",
+    "lang": "en",
+    "counterparts": [
+     "Punktzahl",
+     "Ergebnis",
+     "Score"
+    ]
+   },
+   {
+    "term": "Scott",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ScreenCraft",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Scrivener",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sea",
+    "lang": "en",
+    "counterparts": [
+     "See",
+     "Meer"
+    ]
+   },
+   {
+    "term": "Sea of Potentiality",
+    "lang": "en",
+    "counterparts": [
+     "See des Potenzials",
+     "Meer der Potenzialität",
+     "See der Potenzialität"
+    ]
+   },
+   {
+    "term": "Sean",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Searcher",
+    "lang": "en",
+    "counterparts": [
+     "Suchender",
+     "Sucher"
+    ]
+   },
+   {
+    "term": "Searle",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Searles",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Second",
+    "lang": "en",
+    "counterparts": [
+     "zweite",
+     "zweiter",
+     "zweites"
+    ]
+   },
+   {
+    "term": "Second-Order",
+    "lang": "en",
+    "counterparts": [
+     "zweiter Ordnung"
+    ]
+   },
+   {
+    "term": "Second-order",
+    "lang": "en",
+    "counterparts": [
+     "zweiter Ordnung"
+    ]
+   },
+   {
+    "term": "Second-order_cybernetics",
+    "lang": "en",
+    "counterparts": [
+     "zweiter Ordnung Kybernetik",
+     "second-order Kybernetik"
+    ]
+   },
+   {
+    "term": "Secondary",
+    "lang": "en",
+    "counterparts": [
+     "sekundär",
+     "zweitrangig"
+    ]
+   },
+   {
+    "term": "Secondary Dissociation",
+    "lang": "en",
+    "counterparts": [
+     "sekundäre Dissoziation"
+    ]
+   },
+   {
+    "term": "Secure Base",
+    "lang": "en",
+    "counterparts": [
+     "sichere Basis"
+    ]
+   },
+   {
+    "term": "See der Tränen",
+    "lang": "de",
+    "counterparts": [
+     "Lake of Tears"
+    ]
+   },
+   {
+    "term": "Seeds",
+    "lang": "en",
+    "counterparts": [
+     "Samen",
+     "Sämlinge"
+    ]
+   },
+   {
+    "term": "Seeker",
+    "lang": "en",
+    "counterparts": [
+     "Suchender",
+     "Sucher"
+    ]
+   },
+   {
+    "term": "Seele",
+    "lang": "de",
+    "counterparts": [
+     "soul"
+    ]
+   },
+   {
+    "term": "Seelen",
+    "lang": "de",
+    "counterparts": [
+     "souls"
+    ]
+   },
+   {
+    "term": "Seelen-Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "soul coherence"
+    ]
+   },
+   {
+    "term": "Seelen-Kohärenz-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "soul coherence protocol"
+    ]
+   },
+   {
+    "term": "Seelenpaar",
+    "lang": "de",
+    "counterparts": [
+     "soul pair"
+    ]
+   },
+   {
+    "term": "Segmentierung",
+    "lang": "de",
+    "counterparts": [
+     "segmentation"
+    ]
+   },
+   {
+    "term": "Sein-an-sich",
+    "lang": "de",
+    "counterparts": [
+     "being-in-itself"
+    ]
+   },
+   {
+    "term": "Sein-für-sich",
+    "lang": "de",
+    "counterparts": [
+     "being-for-itself"
+    ]
+   },
+   {
+    "term": "Sektor",
+    "lang": "de",
+    "counterparts": [
+     "sector"
+    ]
+   },
+   {
+    "term": "Sektor Alpha",
+    "lang": "de",
+    "counterparts": [
+     "sector Alpha"
+    ]
+   },
+   {
+    "term": "Sektor Beta",
+    "lang": "de",
+    "counterparts": [
+     "sector Beta"
+    ]
+   },
+   {
+    "term": "Sektor Epsilon-Null",
+    "lang": "de",
+    "counterparts": [
+     "sector Epsilon-zero"
+    ]
+   },
+   {
+    "term": "Sektor Theta-9",
+    "lang": "de",
+    "counterparts": [
+     "sector Theta-9"
+    ]
+   },
+   {
+    "term": "Sektor der Rekursiven Logik",
+    "lang": "de",
+    "counterparts": [
+     "sector of recursive logic"
+    ]
+   }
+  ]
+ }
+}
