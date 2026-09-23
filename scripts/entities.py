@@ -14,6 +14,7 @@ the documents, never something a model said.
     python3 scripts/entities.py matrix                   # every verified entity × every document
     python3 scripts/entities.py missing [--min-docs N]   # entities in N+ documents with no wiki page
     python3 scripts/entities.py score <slug>             # a model list against a reader's list
+    python3 scripts/entities.py place <slug> <names.json> # a model's names -> a list, lines by code
 
 ## Matching
 
@@ -97,24 +98,117 @@ def lists(slugs: list[str] | None = None) -> list[dict]:
 
 
 def verify(entry: dict) -> dict:
-    """Mark each row verified if its cited file line contains the entity.
+    """Mark each row verified if its cited file line holds the entity as a whole word.
 
-    The comparison is `rlm_ingest.verified`'s, which is `quotes.py`'s normalisation,
-    so a model list is held to the same test as a model candidate list.
+    Revision 2 asked `rlm_ingest.verified`'s substring question, so `Kontakt` cited
+    at a line saying `Kontaktaufnahme` passed. `holds` is the question `place`
+    asks, so a list code placed verifies by construction and a typed one is held
+    to the same standard.
     """
-    from rlm_ingest import verified
-    good, _ = verified(entry["slug"], [(r["term"], r["line"]) for r in entry["rows"]])
-    pool = list(good)
+    doc = subject.document(entry["slug"])
+    lines = doc.lines()
     for row in entry["rows"]:
-        row["verified"] = row["term"] in pool
-        if row["verified"]:
-            pool.remove(row["term"])
+        index = row["line"] - doc.offset
+        row["verified"] = 0 <= index < len(lines) and holds(lines[index], row["term"])
     total = len(entry["rows"]) + len(entry["uncited"])
     ok = sum(r["verified"] for r in entry["rows"])
     entry["verified"] = ok
     entry["total"] = total
     entry["reading"] = bool(total) and ok / total >= READING and not entry["unread"]
     return entry
+
+
+# ── placing: the model names, the code cites ──────────────────────────────────
+
+def plain(text: str) -> str:
+    """`quotes.normalise` without its footnote rule, for names rather than quotes.
+
+    `quotes.normalise` drops a number of one or two digits glued to a word, because
+    the export glues footnote numbers on (`formen.10`). A quote carries the same
+    context on both sides, so the rule is symmetric there. A name does not: on the
+    line `(KW2),` loses its `2` while the bare name `KW2` keeps it, so a name ending
+    in a digit could never match — and stripping it from the name as well would
+    make `KW1` to `KW4` one name. Escaping, emphasis, wrapping and attribution
+    markers are context-free and stay.
+    """
+    import quotes
+    text = quotes.ESCAPE.sub(r"\1", text)
+    text = quotes.EMPHASIS.sub("", text)
+    return quotes.MARKER.sub("", quotes.WRAP.sub(" ", text)).strip()
+
+
+def holds(line: str, term: str) -> bool:
+    """Does this one line hold `term` as a whole word? Placing and verifying ask
+    this same question, so a placed line verifies by construction (P26)."""
+    want = plain(term)
+    if not want:
+        return False
+    pattern = r"(?<!\w)" + r"\s+".join(map(re.escape, want.split())) + r"(?!\w)"
+    return re.search(pattern, plain(line)) is not None
+
+
+def first_line(doc, term: str) -> int | None:
+    """The first file line holding `term` as a whole word, on one line.
+
+    Whole-word so that `KI` is not placed inside `KIRA`; one line so that the
+    placement passes `verify`, which reads one line. A name the document only
+    writes across a wrap, or never writes at all, gets no line — and is refused.
+    """
+    for index, line in enumerate(doc.lines()):
+        if holds(line, term):
+            return doc.offset + index
+    return None
+
+
+def place(slug: str, named: dict) -> tuple[str, list[str]]:
+    """Revision 3 of the entity lists (P26): a model returns names, code writes lines.
+
+    Revision 2 asked the model to run `read.py --find` and copy the answer; it
+    typed lines anyway, and 2 of 4 lists failed `verify`. Here no line is ever
+    typed, so a row cannot cite the wrong one — and a name the document does not
+    contain is dropped and counted, not rewritten into something that does.
+    """
+    doc = subject.document(slug)
+    # The last line with text on it: a trailing blank line cannot be read or skipped.
+    last = doc.offset + max((i for i, l in enumerate(doc.lines()) if l.strip()), default=0)
+    rows, refused, seen = [], [], set()
+    for item in named.get("entities", []):
+        term = " ".join(str(item.get("term", "")).split())
+        if not term or term in seen:
+            continue
+        seen.add(term)
+        line = first_line(doc, term)
+        if line is None:
+            refused.append(term)
+            continue
+        kind = str(item.get("kind") or "other").strip() or "other"
+        rows.append(f"- {term}  ^[L{line}]  · {kind}")
+    head = [f"written_by: {named.get('written_by', 'a model')}; lines placed by scripts/entities.py place (revision 3)",
+            f"source: {slug}",
+            f"lines: {last}",
+            f"refused: {len(refused)}" + (f" — {'; '.join(refused)}" if refused else ""),
+            ""]
+    read_to = int(named.get("read_to_line") or 0)
+    tail = [f"- UNREAD L{read_to + 1}-{last}: the reader reported reading to L{read_to}"] if read_to and read_to < last else []
+    return "\n".join(head + rows + tail) + "\n", refused
+
+
+def cmd_place(slug: str, source: str) -> int:
+    named = json.loads(Path(source).read_text(encoding="utf-8"))
+    if isinstance(named, dict) and slug in named and "entities" not in named:
+        named = named[slug]
+    text, refused = place(slug, named)
+    out = LISTS / f"{slug}.md"
+    out.write_text(text, encoding="utf-8")
+    placed = [int(m["line"]) for l in text.splitlines() if (m := ROW.match(l))]
+    lines = int(text.split("lines: ", 1)[1].split("\n", 1)[0])
+    # A reader's read_to_line is its own claim. The furthest line a placed name
+    # lands on is the code's: a list whose names all sit in the first third was
+    # not written from the whole document, whatever it reports.
+    furthest = max(placed, default=0)
+    print(f"{out.relative_to(ROOT)}: {len(placed)} rows placed, {len(refused)} names refused; "
+          f"reader says read to L{named.get('read_to_line')}, furthest placed name L{furthest} of {lines}")
+    return 0
 
 
 # ── the search ────────────────────────────────────────────────────────────────
@@ -299,6 +393,21 @@ def cmd_selftest() -> int:
         mark = "ok " if want == got else "BAD"
         bad += want != got
         print(f"  {mark} {term:<12} regex {want:>6}  tokens {got:>6}")
+    # `holds` places and verifies every line: each case is a defect it once had
+    # or must never have, so a change that breaks one says which.
+    cases = [
+        ("Emotion und Trauma (KW2), Abwehr", "KW2", True),     # footnote rule ate the 2
+        ("Emotion und Trauma (KW2), Abwehr", "KW", False),     # ...and made KW1-4 one name
+        ("Das Spiel *Silent Hill 2* nutzt", "Silent Hill 2", True),
+        ("die Kern\\-Welt 1 als Labyrinth", "Kern-Welt 1", True),  # export escaping
+        ("vor der Kontaktaufnahme", "Kontakt", False),         # revision 2 passed this
+        ("die KIRA-Instanz", "KI", False),
+        ("des McLaughlin-Graphen", "McLaughlin-Graph", False),
+    ]
+    for line, term, want in cases:
+        got = holds(line, term)
+        bad += got != want
+        print(f"  {'ok ' if got == want else 'BAD'} holds({term!r}) on {line!r}: {got}")
     return 1 if bad else 0
 
 
@@ -317,6 +426,9 @@ def main(argv: list[str]) -> int:
     m.add_argument("--min-docs", type=int, default=10)
     sub.add_parser("score").add_argument("slug")
     sub.add_parser("selftest")
+    pl = sub.add_parser("place")
+    pl.add_argument("slug")
+    pl.add_argument("names", help="JSON: {entities: [{term, kind}], read_to_line, written_by}")
     a = parser.parse_args(argv)
     if a.cmd == "verify":
         return cmd_verify(a.slugs)
@@ -330,6 +442,8 @@ def main(argv: list[str]) -> int:
         return cmd_missing(a.min_docs)
     if a.cmd == "score":
         return cmd_score(a.slug)
+    if a.cmd == "place":
+        return cmd_place(a.slug, a.names)
     return cmd_selftest()
 
 
