@@ -1,0 +1,594 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Mengenlehre",
+    "lang": "de",
+    "counterparts": [
+     "set theory",
+     "theory of sets"
+    ]
+   },
+   {
+    "term": "Mengentheoretische Paradoxien",
+    "lang": "de",
+    "counterparts": [
+     "set-theoretic paradoxes",
+     "set-theoretical paradoxes",
+     "paradoxes of set theory"
+    ]
+   },
+   {
+    "term": "Mental Status Examination",
+    "lang": "en",
+    "counterparts": [
+     "Mental Status Examination",
+     "Psychiatrische Untersuchung",
+     "MSE"
+    ]
+   },
+   {
+    "term": "Mentales Unbehagen",
+    "lang": "de",
+    "counterparts": [
+     "mental unease",
+     "mental discomfort",
+     "psychic discomfort"
+    ]
+   },
+   {
+    "term": "Mentor Figure",
+    "lang": "en",
+    "counterparts": [
+     "Mentorfigur",
+     "Mentor-Figur",
+     "Mentor"
+    ]
+   },
+   {
+    "term": "Mentorenfigur",
+    "lang": "de",
+    "counterparts": [
+     "mentor figure",
+     "mentor role",
+     "mentor"
+    ]
+   },
+   {
+    "term": "Mereologie",
+    "lang": "de",
+    "counterparts": [
+     "mereology",
+     "part-whole theory",
+     "theory of parts"
+    ]
+   },
+   {
+    "term": "Mereologie-Problem",
+    "lang": "de",
+    "counterparts": [
+     "mereology problem",
+     "problem of mereology",
+     "mereological problem"
+    ]
+   },
+   {
+    "term": "Mereologischer Fehler",
+    "lang": "de",
+    "counterparts": [
+     "mereological error",
+     "error in mereology",
+     "mereological mistake"
+    ]
+   },
+   {
+    "term": "Mereology",
+    "lang": "en",
+    "counterparts": [
+     "Mereologie",
+     "Teil-Ganzes-Theorie",
+     "Mereologische Theorie"
+    ]
+   },
+   {
+    "term": "Merkzeichen",
+    "lang": "de",
+    "counterparts": [
+     "sign",
+     "symbol",
+     "marker"
+    ]
+   },
+   {
+    "term": "Merkzeichen B",
+    "lang": "de",
+    "counterparts": [
+     "sign B",
+     "marker B",
+     "symbol B"
+    ]
+   },
+   {
+    "term": "Merkzeichen G",
+    "lang": "de",
+    "counterparts": [
+     "sign G",
+     "marker G",
+     "symbol G"
+    ]
+   },
+   {
+    "term": "Merkzeichen H",
+    "lang": "de",
+    "counterparts": [
+     "sign H",
+     "marker H",
+     "symbol H"
+    ]
+   },
+   {
+    "term": "Merleau-Ponty",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Merriam-Webster",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mersenne",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Merton",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Meso",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Messproblem",
+    "lang": "de",
+    "counterparts": [
+     "measurement problem",
+     "problem of measurement",
+     "measurement issue"
+    ]
+   },
+   {
+    "term": "Meta-Beobachter",
+    "lang": "de",
+    "counterparts": [
+     "meta-observer",
+     "meta observer"
+    ]
+   },
+   {
+    "term": "Meta-Beobachtung",
+    "lang": "de",
+    "counterparts": [
+     "meta-observation",
+     "meta observation"
+    ]
+   },
+   {
+    "term": "Meta-Bewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "meta-consciousness",
+     "meta consciousness"
+    ]
+   },
+   {
+    "term": "Meta-Code",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Meta-Ebene",
+    "lang": "de",
+    "counterparts": [
+     "meta-level",
+     "meta level"
+    ]
+   },
+   {
+    "term": "Meta-Erzähler",
+    "lang": "de",
+    "counterparts": [
+     "meta-narrator",
+     "meta narrator"
+    ]
+   },
+   {
+    "term": "Meta-Kognition",
+    "lang": "de",
+    "counterparts": [
+     "meta-cognition",
+     "metacognition"
+    ]
+   },
+   {
+    "term": "Meta-Kognitiv",
+    "lang": "de",
+    "counterparts": [
+     "meta-cognitive",
+     "metacognitive"
+    ]
+   },
+   {
+    "term": "Meta-Logik",
+    "lang": "de",
+    "counterparts": [
+     "meta-logic",
+     "metalogic"
+    ]
+   },
+   {
+    "term": "Meta-Narrative",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Meta-Observation",
+    "lang": "en",
+    "counterparts": [
+     "Meta-Beobachtung",
+     "Meta-Observation"
+    ]
+   },
+   {
+    "term": "Meta-Perspektive",
+    "lang": "de",
+    "counterparts": [
+     "meta-perspective",
+     "meta perspective"
+    ]
+   },
+   {
+    "term": "Meta-Realität",
+    "lang": "de",
+    "counterparts": [
+     "meta-reality",
+     "meta reality"
+    ]
+   },
+   {
+    "term": "Metabolische Obergrenze",
+    "lang": "de",
+    "counterparts": [
+     "metabolic upper limit",
+     "metabolic ceiling"
+    ]
+   },
+   {
+    "term": "Metacognitive",
+    "lang": "en",
+    "counterparts": [
+     "metakognitiv",
+     "meta-kognitiv"
+    ]
+   },
+   {
+    "term": "Metadimensionen",
+    "lang": "de",
+    "counterparts": [
+     "metadimensions"
+    ]
+   },
+   {
+    "term": "Metaebene",
+    "lang": "de",
+    "counterparts": [
+     "meta-level",
+     "meta level"
+    ]
+   },
+   {
+    "term": "Metakognition",
+    "lang": "de",
+    "counterparts": [
+     "metacognition",
+     "meta-cognition"
+    ]
+   },
+   {
+    "term": "Metakognitiver",
+    "lang": "de",
+    "counterparts": [
+     "metacognitive",
+     "meta-cognitive"
+    ]
+   },
+   {
+    "term": "Metakognitiver Anteil",
+    "lang": "de",
+    "counterparts": [
+     "metacognitive share",
+     "metacognitive component"
+    ]
+   },
+   {
+    "term": "Metakognitiver Beobachter",
+    "lang": "de",
+    "counterparts": [
+     "metacognitive observer",
+     "meta-cognitive observer"
+    ]
+   },
+   {
+    "term": "Metamorphose",
+    "lang": "de",
+    "counterparts": [
+     "metamorphosis",
+     "transformation"
+    ]
+   },
+   {
+    "term": "Metapher You",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Metapherntheorie",
+    "lang": "de",
+    "counterparts": [
+     "theory of metaphors",
+     "metaphor theory"
+    ]
+   },
+   {
+    "term": "Metaphysical Dimension",
+    "lang": "en",
+    "counterparts": [
+     "metaphysische Dimension",
+     "metaphysische Ebene"
+    ]
+   },
+   {
+    "term": "Metaphysical Subsystem",
+    "lang": "en",
+    "counterparts": [
+     "metaphysisches Subsystem"
+    ]
+   },
+   {
+    "term": "Metaphysics of Causation",
+    "lang": "en",
+    "counterparts": [
+     "Metaphysik der Kausalität",
+     "Kausalitätsmetaphysik"
+    ]
+   },
+   {
+    "term": "Metaphysische Ebene",
+    "lang": "de",
+    "counterparts": [
+     "metaphysical level",
+     "metaphysical plane"
+    ]
+   },
+   {
+    "term": "Metaphysisches Subsystem",
+    "lang": "de",
+    "counterparts": [
+     "metaphysical subsystem"
+    ]
+   },
+   {
+    "term": "Metaverse",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Method of AEGIS",
+    "lang": "en",
+    "counterparts": [
+     "Methode der AEGIS",
+     "AEGIS-Methode"
+    ]
+   },
+   {
+    "term": "Methode der Loci",
+    "lang": "de",
+    "counterparts": [
+     "method of loci",
+     "memory palace technique"
+    ]
+   },
+   {
+    "term": "Methodik der Auslöschung",
+    "lang": "de",
+    "counterparts": [
+     "method of erasure",
+     "erasure technique"
+    ]
+   },
+   {
+    "term": "Metrische Tensor der Lüge",
+    "lang": "de",
+    "counterparts": [
+     "metric tensor of the lie",
+     "metric tensor of lying"
+    ]
+   },
+   {
+    "term": "Metrische Tensor der Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "metric tensor of truth"
+    ]
+   },
+   {
+    "term": "Metzinger",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Metzingers Phänomenales Selbstmodell",
+    "lang": "de",
+    "counterparts": [
+     "Metzinger's phenomenal self-model",
+     "Metzinger's theory of the self-model"
+    ]
+   },
+   {
+    "term": "Metzingers Theorie des Selbstmodells",
+    "lang": "de",
+    "counterparts": [
+     "Metzinger's theory of the self-model"
+    ]
+   },
+   {
+    "term": "Metzler",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Meurman",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Michael",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Michael-Julia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Michaels",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Michaels Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "Michael's protocol"
+    ]
+   },
+   {
+    "term": "Michaels Psyche",
+    "lang": "de",
+    "counterparts": [
+     "Michael's psyche"
+    ]
+   },
+   {
+    "term": "Michel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Michigan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Micro-Agents",
+    "lang": "en",
+    "counterparts": [
+     "Mikro-Agenten",
+     "Micro-Agents"
+    ]
+   },
+   {
+    "term": "Micropsia",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Middle",
+    "lang": "en",
+    "counterparts": [
+     "Mitte",
+     "Mittel"
+    ]
+   },
+   {
+    "term": "Mikhail",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mikroebene",
+    "lang": "de",
+    "counterparts": [
+     "micro-level",
+     "micro level"
+    ]
+   },
+   {
+    "term": "Mikrokosmos",
+    "lang": "de",
+    "counterparts": [
+     "microcosm",
+     "microcosmos"
+    ]
+   },
+   {
+    "term": "Mikrokosmos der Ordnung",
+    "lang": "de",
+    "counterparts": [
+     "microcosm of order"
+    ]
+   },
+   {
+    "term": "Mikrosprünge",
+    "lang": "de",
+    "counterparts": [
+     "micro-jumps",
+     "micro jumps"
+    ]
+   },
+   {
+    "term": "Mikrozustände",
+    "lang": "de",
+    "counterparts": [
+     "micro-states",
+     "microstates"
+    ]
+   },
+   {
+    "term": "Milieukontrolle",
+    "lang": "de",
+    "counterparts": [
+     "environmental control",
+     "milieu control"
+    ]
+   },
+   {
+    "term": "Miller",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mind",
+    "lang": "en",
+    "counterparts": [
+     "Geist",
+     "Bewusstsein",
+     "Mind"
+    ]
+   },
+   {
+    "term": "Mind Meld",
+    "lang": "en",
+    "counterparts": [
+     "Mind-Meld",
+     "Geist-Verschmelzung"
+    ]
+   }
+  ]
+ }
+}

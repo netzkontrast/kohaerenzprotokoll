@@ -1,0 +1,552 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "VFI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "VLLM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "VMV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "VOA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "VOA-Analogon",
+    "lang": "de",
+    "counterparts": [
+     "VOA analog",
+     "VOA analogue"
+    ]
+   },
+   {
+    "term": "VOA-Prinzipien",
+    "lang": "de",
+    "counterparts": [
+     "VOA principles"
+    ]
+   },
+   {
+    "term": "VOA/CFT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "VOAs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "VR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vacuum",
+    "lang": "en",
+    "counterparts": [
+     "Vakuum"
+    ]
+   },
+   {
+    "term": "Vagheit",
+    "lang": "de",
+    "counterparts": [
+     "vagueness",
+     "vague",
+     "indistinctness"
+    ]
+   },
+   {
+    "term": "Vagus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Vagusnerv",
+    "lang": "de",
+    "counterparts": [
+     "vagus nerve"
+    ]
+   },
+   {
+    "term": "Vagustonus",
+    "lang": "de",
+    "counterparts": [
+     "vagus tone"
+    ]
+   },
+   {
+    "term": "Vaia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vakuum",
+    "lang": "de",
+    "counterparts": [
+     "vacuum"
+    ]
+   },
+   {
+    "term": "Vakuum der Relationship Story",
+    "lang": "de",
+    "counterparts": [
+     "vacuum of the relationship story"
+    ]
+   },
+   {
+    "term": "Vakuumenergiedichte",
+    "lang": "de",
+    "counterparts": [
+     "vacuum energy density"
+    ]
+   },
+   {
+    "term": "Vakuumfluktuationen",
+    "lang": "de",
+    "counterparts": [
+     "vacuum fluctuations"
+    ]
+   },
+   {
+    "term": "Vakuums",
+    "lang": "de",
+    "counterparts": [
+     "vacuum"
+    ]
+   },
+   {
+    "term": "Validation Engine",
+    "lang": "en",
+    "counterparts": [
+     "Validierungsmaschine",
+     "Validierungsengine",
+     "Validierung Engine"
+    ]
+   },
+   {
+    "term": "Valley",
+    "lang": "en",
+    "counterparts": [
+     "Tal"
+    ]
+   },
+   {
+    "term": "Value Alignment",
+    "lang": "en",
+    "counterparts": [
+     "Wertausrichtung",
+     "Value Alignment"
+    ]
+   },
+   {
+    "term": "Value Alignment Problem",
+    "lang": "en",
+    "counterparts": [
+     "Problem der Wertausrichtung",
+     "Value Alignment Problem"
+    ]
+   },
+   {
+    "term": "Van",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Varela",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Varieties-of-realism",
+    "lang": "en",
+    "counterparts": [
+     "Vielfalt des Realismus"
+    ]
+   },
+   {
+    "term": "Variety",
+    "lang": "en",
+    "counterparts": [
+     "Vielfalt",
+     "Varietät"
+    ]
+   },
+   {
+    "term": "Varietät",
+    "lang": "de",
+    "counterparts": [
+     "variety"
+    ]
+   },
+   {
+    "term": "Vector",
+    "lang": "en",
+    "counterparts": [
+     "Vektor"
+    ]
+   },
+   {
+    "term": "Vedanta",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vektor",
+    "lang": "de",
+    "counterparts": [
+     "vector"
+    ]
+   },
+   {
+    "term": "Vektor-Instabilität",
+    "lang": "de",
+    "counterparts": [
+     "vector instability"
+    ]
+   },
+   {
+    "term": "Vektor-Ähnlichkeitssuche",
+    "lang": "de",
+    "counterparts": [
+     "vector similarity search"
+    ]
+   },
+   {
+    "term": "Vektoren",
+    "lang": "de",
+    "counterparts": [
+     "vectors"
+    ]
+   },
+   {
+    "term": "Verarbeitungskern",
+    "lang": "de",
+    "counterparts": [
+     "processing core"
+    ]
+   },
+   {
+    "term": "Verarbeitungsknoten",
+    "lang": "de",
+    "counterparts": [
+     "processing node"
+    ]
+   },
+   {
+    "term": "Verbannte",
+    "lang": "de",
+    "counterparts": [
+     "exiled",
+     "banished"
+    ]
+   },
+   {
+    "term": "Verbotenes Wissen",
+    "lang": "de",
+    "counterparts": [
+     "forbidden knowledge"
+    ]
+   },
+   {
+    "term": "Verdrängung",
+    "lang": "de",
+    "counterparts": [
+     "repression",
+     "suppression",
+     "displacement"
+    ]
+   },
+   {
+    "term": "Verfolger",
+    "lang": "de",
+    "counterparts": [
+     "persecutor"
+    ]
+   },
+   {
+    "term": "Verführerin",
+    "lang": "de",
+    "counterparts": [
+     "temptress"
+    ]
+   },
+   {
+    "term": "Vergangenes Ereignis",
+    "lang": "de",
+    "counterparts": [
+     "past event"
+    ]
+   },
+   {
+    "term": "Vergessene Schrein",
+    "lang": "de",
+    "counterparts": [
+     "forgotten shrine"
+    ]
+   },
+   {
+    "term": "Vergessener Schrein",
+    "lang": "de",
+    "counterparts": [
+     "forgotten shrine"
+    ]
+   },
+   {
+    "term": "Vergessener Schrein (Trauma-Lokus)",
+    "lang": "de",
+    "counterparts": [
+     "forgotten shrine (trauma locus)"
+    ]
+   },
+   {
+    "term": "Verhaltensdatenerfassung",
+    "lang": "de",
+    "counterparts": [
+     "behavioral data acquisition"
+    ]
+   },
+   {
+    "term": "Verhinderung des Nicht-Seins",
+    "lang": "de",
+    "counterparts": [
+     "prevention of non-being"
+    ]
+   },
+   {
+    "term": "Verifiable Computation",
+    "lang": "en",
+    "counterparts": [
+     "Verifizierbare Berechnung"
+    ]
+   },
+   {
+    "term": "Verifiable Credentials",
+    "lang": "en",
+    "counterparts": [
+     "Verifizierbare Credentials",
+     "Verifizierbare Nachweise"
+    ]
+   },
+   {
+    "term": "Verification",
+    "lang": "en",
+    "counterparts": [
+     "Verifizierung",
+     "Überprüfung"
+    ]
+   },
+   {
+    "term": "Verifier",
+    "lang": "en",
+    "counterparts": [
+     "Verifizierer"
+    ]
+   },
+   {
+    "term": "Verifizierbare Berechnung",
+    "lang": "de",
+    "counterparts": [
+     "verifiable computation"
+    ]
+   },
+   {
+    "term": "Verifizierbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "verifiability"
+    ]
+   },
+   {
+    "term": "Verifizierer",
+    "lang": "de",
+    "counterparts": [
+     "verifier"
+    ]
+   },
+   {
+    "term": "Verkörperte",
+    "lang": "de",
+    "counterparts": [
+     "embodied"
+    ]
+   },
+   {
+    "term": "Verkörperte Kognition",
+    "lang": "de",
+    "counterparts": [
+     "embodied cognition"
+    ]
+   },
+   {
+    "term": "Verlassenheitsangst",
+    "lang": "de",
+    "counterparts": [
+     "fear of abandonment"
+    ]
+   },
+   {
+    "term": "Verletzlicher Kindmodus",
+    "lang": "de",
+    "counterparts": [
+     "vulnerable child mode"
+    ]
+   },
+   {
+    "term": "Verletzung des Allgemeinen Persönlichkeitsrechts",
+    "lang": "de",
+    "counterparts": [
+     "violation of the general right to personality"
+    ]
+   },
+   {
+    "term": "Verlinde Entropic Gravity Drive",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Verlustfreie Erhaltung",
+    "lang": "de",
+    "counterparts": [
+     "lossless preservation"
+    ]
+   },
+   {
+    "term": "Vermittler",
+    "lang": "de",
+    "counterparts": [
+     "mediator"
+    ]
+   },
+   {
+    "term": "Vermittlerin",
+    "lang": "de",
+    "counterparts": [
+     "mediator"
+    ]
+   },
+   {
+    "term": "Vermutung",
+    "lang": "de",
+    "counterparts": [
+     "conjecture",
+     "hypothesis"
+    ]
+   },
+   {
+    "term": "Verordnung",
+    "lang": "de",
+    "counterparts": [
+     "regulation",
+     "ordinance"
+    ]
+   },
+   {
+    "term": "VersMedV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Versagen der Dekohärenz",
+    "lang": "de",
+    "counterparts": [
+     "failure of decoherence"
+    ]
+   },
+   {
+    "term": "Versagen der Quanten-Dekohärenz1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Verschränkung",
+    "lang": "de",
+    "counterparts": [
+     "entanglement"
+    ]
+   },
+   {
+    "term": "Verschränkungs-Analogie",
+    "lang": "de",
+    "counterparts": [
+     "entanglement analogy"
+    ]
+   },
+   {
+    "term": "Verschränkungs-Insel",
+    "lang": "de",
+    "counterparts": [
+     "entanglement island"
+    ]
+   },
+   {
+    "term": "Versklavung",
+    "lang": "de",
+    "counterparts": [
+     "enslavement"
+    ]
+   },
+   {
+    "term": "Versorgungsamt",
+    "lang": "de",
+    "counterparts": [
+     "supply office"
+    ]
+   },
+   {
+    "term": "Versorgungsmedizin-Verordnung",
+    "lang": "de",
+    "counterparts": [
+     "medical supply regulation"
+    ]
+   },
+   {
+    "term": "Versorgungsmedizinische",
+    "lang": "de",
+    "counterparts": [
+     "medical supply"
+    ]
+   },
+   {
+    "term": "Versorgungsmedizinische Grundsätze",
+    "lang": "de",
+    "counterparts": [
+     "medical supply principles"
+    ]
+   },
+   {
+    "term": "Versorgungsmedizinischen",
+    "lang": "de",
+    "counterparts": [
+     "medical supply"
+    ]
+   },
+   {
+    "term": "Versorgungsmedizinischen Grundsätze",
+    "lang": "de",
+    "counterparts": [
+     "medical supply principles"
+    ]
+   },
+   {
+    "term": "Versorgungsmedizinischen Grundsätzen",
+    "lang": "de",
+    "counterparts": [
+     "medical supply principles"
+    ]
+   }
+  ]
+ }
+}

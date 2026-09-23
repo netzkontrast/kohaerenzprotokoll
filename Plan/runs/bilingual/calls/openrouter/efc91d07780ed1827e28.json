@@ -1,0 +1,452 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "K-J-Echos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K-J-Einheit",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K-J-Verbindung",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K-Kernel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K-PTBS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K-Signature",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Agent",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Druck",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Dualismus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Interferenz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Interferenz-These",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Kollaps",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Kollision",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Kollisionspunkt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Modell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Pressure",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Reading",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Spaltung",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K0-Storyform",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1 Kernel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1 und K0",
+    "lang": "de",
+    "counterparts": [
+     "K1 and K0"
+    ]
+   },
+   {
+    "term": "K1-Agent",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1-Kern",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1-Makrosystem",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1-Proxy",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1-Reading",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1-Reinform",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1-Schmerz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K1-Storyform",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KAEL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KAIROS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KBV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KDSI-GAMMA-7",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KERNANTEIL",
+    "lang": "de",
+    "counterparts": [
+     "core share",
+     "kernel share",
+     "kernel portion"
+    ]
+   },
+   {
+    "term": "KERNWELT MCL-SIGMA-3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KERNWELT-TYP B",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KG-RAG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KG-gestützte RAG",
+    "lang": "de",
+    "counterparts": [
+     "KG-based RAG",
+     "KG-supported RAG"
+    ]
+   },
+   {
+    "term": "KI Safety",
+    "lang": "en",
+    "counterparts": [
+     "KI-Sicherheit",
+     "Künstliche-Intelligenz-Sicherheit"
+    ]
+   },
+   {
+    "term": "KI-Entität",
+    "lang": "de",
+    "counterparts": [
+     "KI entity",
+     "AI entity"
+    ]
+   },
+   {
+    "term": "KI-Ethik",
+    "lang": "de",
+    "counterparts": [
+     "KI ethics",
+     "AI ethics"
+    ]
+   },
+   {
+    "term": "KI-System",
+    "lang": "de",
+    "counterparts": [
+     "KI system",
+     "AI system"
+    ]
+   },
+   {
+    "term": "KIN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KLASSIFIZIERT",
+    "lang": "de",
+    "counterparts": [
+     "classified"
+    ]
+   },
+   {
+    "term": "KOHÄRENT",
+    "lang": "de",
+    "counterparts": [
+     "coherent"
+    ]
+   },
+   {
+    "term": "KOHÄRENZ",
+    "lang": "de",
+    "counterparts": [
+     "coherence"
+    ]
+   },
+   {
+    "term": "KOOPERATIVE DATENSTROM-INTEGRATION",
+    "lang": "de",
+    "counterparts": [
+     "cooperative data stream integration"
+    ]
+   },
+   {
+    "term": "KP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KPTBS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KRM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KSI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KTAD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW1 (Logos-Prime)",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW1-4",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW1-KW4",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW2 (Mnemosyne-Archipel)",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW3-Übergang",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KW4",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KWDK",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KWS-Co1-McL-Beta7",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "KWs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kac-Moody-Algebren",
+    "lang": "de",
+    "counterparts": [
+     "Kac-Moody algebras"
+    ]
+   },
+   {
+    "term": "Kachelproblem",
+    "lang": "de",
+    "counterparts": [
+     "tile problem"
+    ]
+   },
+   {
+    "term": "Kael",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael (Host)",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael Emergenz",
+    "lang": "de",
+    "counterparts": [
+     "Kael emergence"
+    ]
+   },
+   {
+    "term": "Kael Integration",
+    "lang": "de",
+    "counterparts": [
+     "Kael integration"
+    ]
+   },
+   {
+    "term": "Kael KW3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kael und Juna",
+    "lang": "de",
+    "counterparts": [
+     "Kael and Juna"
+    ]
+   },
+   {
+    "term": "Kael-Agenten",
+    "lang": "de",
+    "counterparts": [
+     "Kael agents"
+    ]
+   },
+   {
+    "term": "Kael-Emergenz",
+    "lang": "de",
+    "counterparts": [
+     "Kael emergence"
+    ]
+   },
+   {
+    "term": "Kael-Fragmentierung",
+    "lang": "de",
+    "counterparts": [
+     "Kael fragmentation"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Inkonsistenzkaskaden",
+    "lang": "de",
+    "counterparts": [
+     "inconsistency cascades"
+    ]
+   },
+   {
+    "term": "Inkubation",
+    "lang": "de",
+    "counterparts": [
+     "incubation"
+    ]
+   },
+   {
+    "term": "Inner Child",
+    "lang": "en",
+    "counterparts": [
+     "inneres Kind"
+    ]
+   },
+   {
+    "term": "Inner Self Helper",
+    "lang": "en",
+    "counterparts": [
+     "innerer Selbsthelfer"
+    ]
+   },
+   {
+    "term": "Innere Achtsamkeit",
+    "lang": "de",
+    "counterparts": [
+     "inner mindfulness"
+    ]
+   },
+   {
+    "term": "Innere Bunker",
+    "lang": "de",
+    "counterparts": [
+     "inner bunkers"
+    ]
+   },
+   {
+    "term": "Innere Helferin",
+    "lang": "de",
+    "counterparts": [
+     "inner helper"
+    ]
+   },
+   {
+    "term": "Innere Kind",
+    "lang": "de",
+    "counterparts": [
+     "inner child"
+    ]
+   },
+   {
+    "term": "Innere Konferenz",
+    "lang": "de",
+    "counterparts": [
+     "inner conference"
+    ]
+   },
+   {
+    "term": "Innere Rahmung",
+    "lang": "de",
+    "counterparts": [
+     "inner framing"
+    ]
+   },
+   {
+    "term": "Innere Teamsitzungen und Konfliktmanagement",
+    "lang": "de",
+    "counterparts": [
+     "inner team meetings and conflict management"
+    ]
+   },
+   {
+    "term": "Innere Weite",
+    "lang": "de",
+    "counterparts": [
+     "inner expanse"
+    ]
+   },
+   {
+    "term": "Inneren Familien Systeme",
+    "lang": "de",
+    "counterparts": [
+     "inner family systems"
+    ]
+   },
+   {
+    "term": "Innerer Anteil",
+    "lang": "de",
+    "counterparts": [
+     "inner share"
+    ]
+   },
+   {
+    "term": "Innerer Konferenzraum",
+    "lang": "de",
+    "counterparts": [
+     "inner conference room"
+    ]
+   },
+   {
+    "term": "Innerer Selbsthelfer",
+    "lang": "de",
+    "counterparts": [
+     "inner self-helper"
+    ]
+   },
+   {
+    "term": "Innsbruck",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Input-Filterung",
+    "lang": "de",
+    "counterparts": [
+     "input filtering"
+    ]
+   },
+   {
+    "term": "Input-Suche",
+    "lang": "de",
+    "counterparts": [
+     "input search"
+    ]
+   },
+   {
+    "term": "Inquisition",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Insel",
+    "lang": "de",
+    "counterparts": [
+     "island"
+    ]
+   },
+   {
+    "term": "Inseln",
+    "lang": "de",
+    "counterparts": [
+     "islands"
+    ]
+   },
+   {
+    "term": "Insider-Archetyp",
+    "lang": "de",
+    "counterparts": [
+     "insider archetype"
+    ]
+   },
+   {
+    "term": "Instantiation",
+    "lang": "en",
+    "counterparts": [
+     "Instantiierung"
+    ]
+   },
+   {
+    "term": "Instantiation of the Überwelt",
+    "lang": "en",
+    "counterparts": [
+     "Instantiierung der Überwelt"
+    ]
+   },
+   {
+    "term": "Instanz",
+    "lang": "de",
+    "counterparts": [
+     "instance"
+    ]
+   },
+   {
+    "term": "Instanziierung",
+    "lang": "de",
+    "counterparts": [
+     "instantiation"
+    ]
+   },
+   {
+    "term": "Institut",
+    "lang": "de",
+    "counterparts": [
+     "institute"
+    ]
+   },
+   {
+    "term": "Institute",
+    "lang": "en",
+    "counterparts": [
+     "Institut"
+    ]
+   },
+   {
+    "term": "Institute of Advanced Studies",
+    "lang": "en",
+    "counterparts": [
+     "Institut für Advanced Studies"
+    ]
+   },
+   {
+    "term": "Institute of Mental Health",
+    "lang": "en",
+    "counterparts": [
+     "Institut für mentale Gesundheit"
+    ]
+   },
+   {
+    "term": "InstructionDeputies",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Instrument",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Instrumental Convergence",
+    "lang": "en",
+    "counterparts": [
+     "instrumentelle Konvergenz"
+    ]
+   },
+   {
+    "term": "Instrumentelle Ziele",
+    "lang": "de",
+    "counterparts": [
+     "instrumental goals"
+    ]
+   },
+   {
+    "term": "Integraler Status",
+    "lang": "de",
+    "counterparts": [
+     "integral status"
+    ]
+   },
+   {
+    "term": "Integrated Information Theory",
+    "lang": "en",
+    "counterparts": [
+     "integrierte Informationstheorie"
+    ]
+   },
+   {
+    "term": "Integrated Self",
+    "lang": "en",
+    "counterparts": [
+     "integriertes Selbst"
+    ]
+   },
+   {
+    "term": "Integrated Sensor Architecture",
+    "lang": "en",
+    "counterparts": [
+     "integrierte Sensorarchitektur"
+    ]
+   },
+   {
+    "term": "Integrated World Modeling Theory",
+    "lang": "en",
+    "counterparts": [
+     "integrierte Weltmodellierungstheorie"
+    ]
+   }
+  ]
+ }
+}

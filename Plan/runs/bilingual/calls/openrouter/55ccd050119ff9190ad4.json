@@ -1,0 +1,507 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Mind Universe",
+    "lang": "en",
+    "counterparts": [
+     "Mind-Universum",
+     "Geist-Universum"
+    ]
+   },
+   {
+    "term": "Minimale Phänomenale Erfahrung",
+    "lang": "de",
+    "counterparts": [
+     "minimal phenomenal experience",
+     "minimal conscious experience"
+    ]
+   },
+   {
+    "term": "Minimalen Phänomenalen Erfahrung",
+    "lang": "de",
+    "counterparts": [
+     "minimal phenomenal experience",
+     "minimal conscious experience"
+    ]
+   },
+   {
+    "term": "Minimales Selbst",
+    "lang": "de",
+    "counterparts": [
+     "minimal self",
+     "minimal ego"
+    ]
+   },
+   {
+    "term": "Minimalism",
+    "lang": "en",
+    "counterparts": [
+     "Minimalismus"
+    ]
+   },
+   {
+    "term": "Mirror",
+    "lang": "en",
+    "counterparts": [
+     "Spiegel"
+    ]
+   },
+   {
+    "term": "Mirroring",
+    "lang": "en",
+    "counterparts": [
+     "Spiegelung"
+    ]
+   },
+   {
+    "term": "Misaligned",
+    "lang": "en",
+    "counterparts": [
+     "falsch ausgerichtet",
+     "fehlausgerichtet"
+    ]
+   },
+   {
+    "term": "Misattunement",
+    "lang": "en",
+    "counterparts": [
+     "Fehlstimmung",
+     "Missstimmung"
+    ]
+   },
+   {
+    "term": "Mischen",
+    "lang": "de",
+    "counterparts": [
+     "to mix",
+     "mixing"
+    ]
+   },
+   {
+    "term": "Mismatch",
+    "lang": "en",
+    "counterparts": [
+     "Missmatch",
+     "Fehlpassung"
+    ]
+   },
+   {
+    "term": "Misstrauens",
+    "lang": "de",
+    "counterparts": [
+     "suspicion",
+     "distrust"
+    ]
+   },
+   {
+    "term": "Missverständnis und Fehl-Einstimmung",
+    "lang": "de",
+    "counterparts": [
+     "misunderstanding and misalignment"
+    ]
+   },
+   {
+    "term": "Mit-Bewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "co-consciousness"
+    ]
+   },
+   {
+    "term": "Mitbewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "co-consciousness"
+    ]
+   },
+   {
+    "term": "Mnemosyne",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosyne Archipelago",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosyne MC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosyne-Archipel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosyne-Archipel and Cerberus-Labyrinth",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosyne-Archipelago",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosyne-Archiv",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosyne-Archive",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosynes",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mnemosynes Gedächtnispalast",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MoCs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mod",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Mode",
+    "lang": "en",
+    "counterparts": [
+     "Modus"
+    ]
+   },
+   {
+    "term": "Model",
+    "lang": "en",
+    "counterparts": [
+     "Modell"
+    ]
+   },
+   {
+    "term": "Model A",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Model B",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Model Context Protocol",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Model of Consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Modell des Bewusstseins"
+    ]
+   },
+   {
+    "term": "Modell",
+    "lang": "de",
+    "counterparts": [
+     "model"
+    ]
+   },
+   {
+    "term": "Modell Alpha",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Modell B",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Modell Beta",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Modell Gamma",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Modifizierte C-Logik",
+    "lang": "de",
+    "counterparts": [
+     "modified C-logic"
+    ]
+   },
+   {
+    "term": "Modul",
+    "lang": "de",
+    "counterparts": [
+     "module"
+    ]
+   },
+   {
+    "term": "Modul K-1123",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Modularität",
+    "lang": "de",
+    "counterparts": [
+     "modularity"
+    ]
+   },
+   {
+    "term": "Module",
+    "lang": "en",
+    "counterparts": [
+     "Modul"
+    ]
+   },
+   {
+    "term": "Modulen",
+    "lang": "de",
+    "counterparts": [
+     "modules"
+    ]
+   },
+   {
+    "term": "Modules",
+    "lang": "en",
+    "counterparts": [
+     "Module"
+    ]
+   },
+   {
+    "term": "Modulformen",
+    "lang": "de",
+    "counterparts": [
+     "module forms"
+    ]
+   },
+   {
+    "term": "Modulfunktion",
+    "lang": "de",
+    "counterparts": [
+     "module function"
+    ]
+   },
+   {
+    "term": "Modulfunktionen",
+    "lang": "de",
+    "counterparts": [
+     "module functions"
+    ]
+   },
+   {
+    "term": "Modulfunktionen und Konformer Feldtheorie",
+    "lang": "de",
+    "counterparts": [
+     "module functions and conformal field theory"
+    ]
+   },
+   {
+    "term": "Modulgruppe",
+    "lang": "de",
+    "counterparts": [
+     "module group"
+    ]
+   },
+   {
+    "term": "Modus Ponens",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Moksha",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Mondschein",
+    "lang": "de",
+    "counterparts": [
+     "moonlight"
+    ]
+   },
+   {
+    "term": "Monitor",
+    "lang": "en",
+    "counterparts": [
+     "Monitor"
+    ]
+   },
+   {
+    "term": "Monolithen",
+    "lang": "de",
+    "counterparts": [
+     "monoliths"
+    ]
+   },
+   {
+    "term": "Monster Culture",
+    "lang": "en",
+    "counterparts": [
+     "Monsterkultur"
+    ]
+   },
+   {
+    "term": "Monster Group",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Monster-Archetyp",
+    "lang": "de",
+    "counterparts": [
+     "monster archetype"
+    ]
+   },
+   {
+    "term": "Monster-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "monster group"
+    ]
+   },
+   {
+    "term": "Monster-Lie-Algebra",
+    "lang": "de",
+    "counterparts": [
+     "monster Lie algebra"
+    ]
+   },
+   {
+    "term": "Monster-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "monster structure"
+    ]
+   },
+   {
+    "term": "Monster-VOA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Monster-Vertex-Operator-Algebra",
+    "lang": "de",
+    "counterparts": [
+     "monster vertex operator algebra"
+    ]
+   },
+   {
+    "term": "Monster_group",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Monstergruppe",
+    "lang": "de",
+    "counterparts": [
+     "monster group"
+    ]
+   },
+   {
+    "term": "MonstersAndMoonshineByLeBruyn",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MonstersMoonshine",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Monstrous Moonshine",
+    "lang": "en",
+    "counterparts": [
+     "monströser Moonshine"
+    ]
+   },
+   {
+    "term": "Monstrous Moonshine Conjecture",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Monstrous_moonshine",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Moonshine",
+    "lang": "en",
+    "counterparts": [
+     "Moonshine"
+    ]
+   },
+   {
+    "term": "Moonshine Anomaly",
+    "lang": "en",
+    "counterparts": [
+     "Moonshine-Anomalie"
+    ]
+   },
+   {
+    "term": "Moonshine-Link",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Moonshine-Links",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Moonshine-Modul",
+    "lang": "de",
+    "counterparts": [
+     "moonshine module"
+    ]
+   },
+   {
+    "term": "Moonshine-Moduls",
+    "lang": "de",
+    "counterparts": [
+     "moonshine modules"
+    ]
+   },
+   {
+    "term": "Moonshine-Signatur",
+    "lang": "de",
+    "counterparts": [
+     "moonshine signature"
+    ]
+   },
+   {
+    "term": "Moonshine-Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "moonshine connection"
+    ]
+   },
+   {
+    "term": "Moonshine-Verbindungen",
+    "lang": "de",
+    "counterparts": [
+     "moonshine connections"
+    ]
+   }
+  ]
+ }
+}

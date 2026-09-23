@@ -1,0 +1,286 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Integration Potential",
+    "lang": "en",
+    "counterparts": [
+     "Integrationspotential",
+     "Integrationspotenzial"
+    ]
+   },
+   {
+    "term": "Integration Resistance",
+    "lang": "en",
+    "counterparts": [
+     "Integrationswiderstand",
+     "Integrationsresistenz"
+    ]
+   },
+   {
+    "term": "Integration des K0-Traumas",
+    "lang": "de",
+    "counterparts": [
+     "Integration of the K0-Trauma",
+     "K0-Trauma integration"
+    ]
+   },
+   {
+    "term": "Integrationspotenzial",
+    "lang": "de",
+    "counterparts": [
+     "Integration potential",
+     "Integrative potential"
+    ]
+   },
+   {
+    "term": "Integrationswiderstand",
+    "lang": "de",
+    "counterparts": [
+     "Integration resistance",
+     "Integrative resistance"
+    ]
+   },
+   {
+    "term": "Integrative Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "Integrative connection",
+     "Integrative link"
+    ]
+   },
+   {
+    "term": "Integrator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Integrator-Agent",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Integratorin",
+    "lang": "de",
+    "counterparts": [
+     "female integrator",
+     "integrator (female)"
+    ]
+   },
+   {
+    "term": "Integrierte Information",
+    "lang": "de",
+    "counterparts": [
+     "Integrated information"
+    ]
+   },
+   {
+    "term": "Integrierte Informationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "Integrated information theory"
+    ]
+   },
+   {
+    "term": "Integrierten Informationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "Integrated information theory"
+    ]
+   },
+   {
+    "term": "Integriertes",
+    "lang": "de",
+    "counterparts": [
+     "integrated"
+    ]
+   },
+   {
+    "term": "Monster-Symmetrie",
+    "lang": "de",
+    "counterparts": [
+     "Monster symmetry"
+    ]
+   },
+   {
+    "term": "Möglichkeits-Garten",
+    "lang": "de",
+    "counterparts": [
+     "Possibility garden"
+    ]
+   },
+   {
+    "term": "Möglichkeits-Gartens",
+    "lang": "de",
+    "counterparts": [
+     "Possibility garden's"
+    ]
+   },
+   {
+    "term": "Möglichkeits-Weber",
+    "lang": "de",
+    "counterparts": [
+     "Possibility weaver"
+    ]
+   },
+   {
+    "term": "Möglichkeitsstrom",
+    "lang": "de",
+    "counterparts": [
+     "Possibility stream"
+    ]
+   },
+   {
+    "term": "Prinzip",
+    "lang": "de",
+    "counterparts": [
+     "principle"
+    ]
+   },
+   {
+    "term": "Prinzip der Emergenten Ordnungsparameter",
+    "lang": "de",
+    "counterparts": [
+     "Principle of emergent order parameters"
+    ]
+   },
+   {
+    "term": "Prinzip der Explosion",
+    "lang": "de",
+    "counterparts": [
+     "Principle of explosion"
+    ]
+   },
+   {
+    "term": "Prinzip der Pendulation",
+    "lang": "de",
+    "counterparts": [
+     "Principle of pendulation"
+    ]
+   },
+   {
+    "term": "Prinzip der Quantenverschränkung",
+    "lang": "de",
+    "counterparts": [
+     "Principle of quantum entanglement"
+    ]
+   },
+   {
+    "term": "Prinzip der Selbstreferentiellen Schließung",
+    "lang": "de",
+    "counterparts": [
+     "Principle of self-referential closure"
+    ]
+   },
+   {
+    "term": "Prinzip der Simplizität",
+    "lang": "de",
+    "counterparts": [
+     "Principle of simplicity"
+    ]
+   },
+   {
+    "term": "Prinzip des Nicht-Schadens",
+    "lang": "de",
+    "counterparts": [
+     "Principle of non-harm"
+    ]
+   },
+   {
+    "term": "Prinzipal",
+    "lang": "de",
+    "counterparts": [
+     "principal"
+    ]
+   },
+   {
+    "term": "Prinzipal-Agent-Problem",
+    "lang": "de",
+    "counterparts": [
+     "Principal-agent problem"
+    ]
+   },
+   {
+    "term": "Prinzipien der Fürsorge",
+    "lang": "de",
+    "counterparts": [
+     "Principles of care"
+    ]
+   },
+   {
+    "term": "Prinzips der Explosion",
+    "lang": "de",
+    "counterparts": [
+     "Principle of explosion"
+    ]
+   },
+   {
+    "term": "Priors",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Private Language",
+    "lang": "en",
+    "counterparts": [
+     "Private Sprache"
+    ]
+   },
+   {
+    "term": "Privatsprache",
+    "lang": "de",
+    "counterparts": [
+     "Private language"
+    ]
+   },
+   {
+    "term": "ProQuest",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ProSem",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Probabilistic Byzantine Fault Tolerance",
+    "lang": "en",
+    "counterparts": [
+     "Probabilistische byzantinische Fehlertoleranz"
+    ]
+   },
+   {
+    "term": "Probability",
+    "lang": "en",
+    "counterparts": [
+     "Wahrscheinlichkeit"
+    ]
+   },
+   {
+    "term": "Realitätsmodell",
+    "lang": "de",
+    "counterparts": [
+     "Reality model"
+    ]
+   },
+   {
+    "term": "Simulationsebene",
+    "lang": "de",
+    "counterparts": [
+     "Simulation level"
+    ]
+   },
+   {
+    "term": "Stufe",
+    "lang": "de",
+    "counterparts": [
+     "step",
+     "stage",
+     "level"
+    ]
+   }
+  ]
+ }
+}

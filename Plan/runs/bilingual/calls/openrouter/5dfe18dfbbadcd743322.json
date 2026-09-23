@@ -1,0 +1,541 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "ISSTD-Leitlinien",
+    "lang": "de",
+    "counterparts": [
+     "ISSTD guidelines"
+    ]
+   },
+   {
+    "term": "IV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IWMT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IX",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ich-Fragment",
+    "lang": "de",
+    "counterparts": [
+     "I-fragment",
+     "self-fragment",
+     "ego fragment"
+    ]
+   },
+   {
+    "term": "Id",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ideale des Bureaus",
+    "lang": "de",
+    "counterparts": [
+     "Ideals of the bureau",
+     "Ideas of the bureau"
+    ]
+   },
+   {
+    "term": "Idealismus",
+    "lang": "de",
+    "counterparts": [
+     "idealism"
+    ]
+   },
+   {
+    "term": "Identity Crisis",
+    "lang": "en",
+    "counterparts": [
+     "Identitätskrise"
+    ]
+   },
+   {
+    "term": "Identity Fragmentation",
+    "lang": "en",
+    "counterparts": [
+     "Identitätsfragmentierung"
+    ]
+   },
+   {
+    "term": "Identitäts-Fragmentierung",
+    "lang": "de",
+    "counterparts": [
+     "Identity fragmentation"
+    ]
+   },
+   {
+    "term": "Identitätsdiffusion",
+    "lang": "de",
+    "counterparts": [
+     "Identity diffusion"
+    ]
+   },
+   {
+    "term": "Identitätsfragmentierung",
+    "lang": "de",
+    "counterparts": [
+     "Identity fragmentation"
+    ]
+   },
+   {
+    "term": "Identitätskerne",
+    "lang": "de",
+    "counterparts": [
+     "identity cores"
+    ]
+   },
+   {
+    "term": "Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "identity disorder"
+    ]
+   },
+   {
+    "term": "Identitätstheorie",
+    "lang": "de",
+    "counterparts": [
+     "identity theory"
+    ]
+   },
+   {
+    "term": "Ignoranz",
+    "lang": "de",
+    "counterparts": [
+     "ignorance"
+    ]
+   },
+   {
+    "term": "Igor",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ikarus-Paradox",
+    "lang": "de",
+    "counterparts": [
+     "Icarus paradox"
+    ]
+   },
+   {
+    "term": "Ikone",
+    "lang": "de",
+    "counterparts": [
+     "icon"
+    ]
+   },
+   {
+    "term": "Illusionism",
+    "lang": "en",
+    "counterparts": [
+     "Illusionismus"
+    ]
+   },
+   {
+    "term": "Illusionsarchitekt",
+    "lang": "de",
+    "counterparts": [
+     "illusion architect"
+    ]
+   },
+   {
+    "term": "Imaginäre",
+    "lang": "de",
+    "counterparts": [
+     "imaginary"
+    ]
+   },
+   {
+    "term": "Immanence",
+    "lang": "en",
+    "counterparts": [
+     "Immanenz"
+    ]
+   },
+   {
+    "term": "Immanuel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Immobilisation",
+    "lang": "en",
+    "counterparts": [
+     "Immobilisierung"
+    ]
+   },
+   {
+    "term": "Immunsystem",
+    "lang": "de",
+    "counterparts": [
+     "immune system"
+    ]
+   },
+   {
+    "term": "Impact Character",
+    "lang": "en",
+    "counterparts": [
+     "Impakt-Charakter"
+    ]
+   },
+   {
+    "term": "Implement AIEOS",
+    "lang": "en",
+    "counterparts": [
+     "AIEOS implementieren",
+     "Implementierung von AIEOS"
+    ]
+   },
+   {
+    "term": "Implementiert Wächter",
+    "lang": "de",
+    "counterparts": [
+     "implemented guardian"
+    ]
+   },
+   {
+    "term": "Impuls der Resonanz",
+    "lang": "de",
+    "counterparts": [
+     "impulse of resonance"
+    ]
+   },
+   {
+    "term": "In A",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "In B",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "In KW1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "In KW3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "In KW4",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "In Multi-Agenten-Systemen",
+    "lang": "de",
+    "counterparts": [
+     "In multi-agent systems"
+    ]
+   },
+   {
+    "term": "In Storyform A",
+    "lang": "en",
+    "counterparts": [
+     "In der Storyform A"
+    ]
+   },
+   {
+    "term": "In-and-not-in",
+    "lang": "en",
+    "counterparts": [
+     "In-und-nicht-In"
+    ]
+   },
+   {
+    "term": "InDesign",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Inanna",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Inception",
+    "lang": "en",
+    "counterparts": [
+     "Beginn",
+     "Einleitung"
+    ]
+   },
+   {
+    "term": "Incipient Co-Presence",
+    "lang": "en",
+    "counterparts": [
+     "beginnende Ko-Präsenz"
+    ]
+   },
+   {
+    "term": "Incoherence",
+    "lang": "en",
+    "counterparts": [
+     "Inkohärenz"
+    ]
+   },
+   {
+    "term": "Incommensurability",
+    "lang": "en",
+    "counterparts": [
+     "Inkommensurabilität"
+    ]
+   },
+   {
+    "term": "Incompleteness",
+    "lang": "en",
+    "counterparts": [
+     "Unvollständigkeit"
+    ]
+   },
+   {
+    "term": "Inconsistency",
+    "lang": "en",
+    "counterparts": [
+     "Inkonsistenz",
+     "Widersprüchlichkeit"
+    ]
+   },
+   {
+    "term": "Index",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Individual Holon",
+    "lang": "en",
+    "counterparts": [
+     "Individueller Holon"
+    ]
+   },
+   {
+    "term": "Individuation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Individuationsprozess",
+    "lang": "de",
+    "counterparts": [
+     "individuation process"
+    ]
+   },
+   {
+    "term": "Individuationsreise",
+    "lang": "de",
+    "counterparts": [
+     "individuation journey"
+    ]
+   },
+   {
+    "term": "Induktion",
+    "lang": "de",
+    "counterparts": [
+     "induction"
+    ]
+   },
+   {
+    "term": "Inequity",
+    "lang": "en",
+    "counterparts": [
+     "Ungerechtigkeit"
+    ]
+   },
+   {
+    "term": "Inertia",
+    "lang": "en",
+    "counterparts": [
+     "Trägheit"
+    ]
+   },
+   {
+    "term": "Inevitability",
+    "lang": "en",
+    "counterparts": [
+     "Unvermeidbarkeit"
+    ]
+   },
+   {
+    "term": "Infektion",
+    "lang": "de",
+    "counterparts": [
+     "infection"
+    ]
+   },
+   {
+    "term": "Inference",
+    "lang": "en",
+    "counterparts": [
+     "Inferenz"
+    ]
+   },
+   {
+    "term": "Inference-Time Budget",
+    "lang": "en",
+    "counterparts": [
+     "Inferenzzeit-Budget"
+    ]
+   },
+   {
+    "term": "Inferenzregeln",
+    "lang": "de",
+    "counterparts": [
+     "inference rules"
+    ]
+   },
+   {
+    "term": "Infinite",
+    "lang": "en",
+    "counterparts": [
+     "unendlich"
+    ]
+   },
+   {
+    "term": "Infinity",
+    "lang": "en",
+    "counterparts": [
+     "Unendlichkeit"
+    ]
+   },
+   {
+    "term": "Influence",
+    "lang": "en",
+    "counterparts": [
+     "Einfluss"
+    ]
+   },
+   {
+    "term": "Influence Character",
+    "lang": "en",
+    "counterparts": [
+     "Einfluss-Charakter"
+    ]
+   },
+   {
+    "term": "Influence Character Throughline",
+    "lang": "en",
+    "counterparts": [
+     "Einfluss-Charakter-Handlung"
+    ]
+   },
+   {
+    "term": "Info-Ontologie",
+    "lang": "de",
+    "counterparts": [
+     "info ontology"
+    ]
+   },
+   {
+    "term": "Info-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "info theory"
+    ]
+   },
+   {
+    "term": "Infohazards",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Information Closure Theory",
+    "lang": "en",
+    "counterparts": [
+     "Informationsschließungstheorie"
+    ]
+   },
+   {
+    "term": "Information Destruction",
+    "lang": "en",
+    "counterparts": [
+     "Informationszerstörung"
+    ]
+   },
+   {
+    "term": "Information Hazards",
+    "lang": "en",
+    "counterparts": [
+     "Informationsgefahren"
+    ]
+   },
+   {
+    "term": "Information Überraschung",
+    "lang": "de",
+    "counterparts": [
+     "information surprise"
+    ]
+   },
+   {
+    "term": "Information/Bedeutung",
+    "lang": "de",
+    "counterparts": [
+     "information/meaning"
+    ]
+   },
+   {
+    "term": "Information_theory",
+    "lang": "en",
+    "counterparts": [
+     "Informationstheorie"
+    ]
+   },
+   {
+    "term": "Informational Heat Death",
+    "lang": "en",
+    "counterparts": [
+     "informationeller Hitzetod"
+    ]
+   },
+   {
+    "term": "Informationelle Systeme",
+    "lang": "de",
+    "counterparts": [
+     "informational systems"
+    ]
+   },
+   {
+    "term": "Informationismus",
+    "lang": "de",
+    "counterparts": [
+     "informationism"
+    ]
+   },
+   {
+    "term": "Informations-Thermodynamik und Dual-Kernel Theory",
+    "lang": "de",
+    "counterparts": [
+     "information thermodynamics and dual-kernel theory"
+    ]
+   },
+   {
+    "term": "Informationsentropie",
+    "lang": "de",
+    "counterparts": [
+     "information entropy"
+    ]
+   },
+   {
+    "term": "Informationserhaltung",
+    "lang": "de",
+    "counterparts": [
+     "information conservation"
+    ]
+   }
+  ]
+ }
+}

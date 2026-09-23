@@ -1,0 +1,543 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "LI",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "LIFE-KNOWLEDGE",
+    "lang": "en",
+    "counterparts": [
+     "Lebenswissen",
+     "Lebenskenntnis",
+     "Wissen über das Leben"
+    ]
+   },
+   {
+    "term": "LL",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "LL-SBPF",
+    "lang": "en",
+    "counterparts": [
+     "LL-SBPF"
+    ]
+   },
+   {
+    "term": "LLM",
+    "lang": "en",
+    "counterparts": [
+     "Großes Sprachmodell",
+     "KI-Sprachmodell",
+     "LLM"
+    ]
+   },
+   {
+    "term": "LLM-as-a-judge",
+    "lang": "en",
+    "counterparts": [
+     "LLM als Richter",
+     "LLM-as-a-Judge",
+     "LLM als Bewerter"
+    ]
+   },
+   {
+    "term": "LLMs",
+    "lang": "en",
+    "counterparts": [
+     "Große Sprachmodelle",
+     "KI-Sprachmodelle",
+     "LLMs"
+    ]
+   },
+   {
+    "term": "LNC",
+    "lang": "en",
+    "counterparts": [
+     "Lange nicht-kodierende",
+     "LNC",
+     "Lang nicht-kodierend"
+    ]
+   },
+   {
+    "term": "LOGISCHE PROTOKOLLE",
+    "lang": "de",
+    "counterparts": [
+     "logical protocols",
+     "logical protokolle",
+     "logic protocols"
+    ]
+   },
+   {
+    "term": "LOGOS",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "LP",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "LQG",
+    "lang": "en",
+    "counterparts": [
+     "Schleifenquantengravitation",
+     "LQG",
+     "Loop-Quantengravitation"
+    ]
+   },
+   {
+    "term": "LSG",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "LVC",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "LX",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Labor",
+    "lang": "de",
+    "counterparts": [
+     "lab",
+     "laboratory",
+     "Lab"
+    ]
+   },
+   {
+    "term": "Labyrinth",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Labyrinth der Paranoia",
+    "lang": "de",
+    "counterparts": [
+     "Labyrinth of Paranoia",
+     "Paranoia Labyrinth",
+     "Labyrinth of Paranoia"
+    ]
+   },
+   {
+    "term": "Labyrinthläufer",
+    "lang": "de",
+    "counterparts": [
+     "labyrinth runner",
+     "Labyrinth runner",
+     "maze runner"
+    ]
+   },
+   {
+    "term": "Lacan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lacan and Zizek",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ladung",
+    "lang": "de",
+    "counterparts": [
+     "charge",
+     "load",
+     "billing"
+    ]
+   },
+   {
+    "term": "Lakoff",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Landauer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Landauer Heat",
+    "lang": "en",
+    "counterparts": [
+     "Landauer-Wärme"
+    ]
+   },
+   {
+    "term": "Landauer Principle",
+    "lang": "en",
+    "counterparts": [
+     "Landauer-Prinzip"
+    ]
+   },
+   {
+    "term": "Landauer-Heat",
+    "lang": "en",
+    "counterparts": [
+     "Landauer-Wärme"
+    ]
+   },
+   {
+    "term": "Landauer-Hitze",
+    "lang": "de",
+    "counterparts": [
+     "Landauer-Heat"
+    ]
+   },
+   {
+    "term": "Landauer-Kosten",
+    "lang": "de",
+    "counterparts": [
+     "Landauer costs"
+    ]
+   },
+   {
+    "term": "Landauer-Limit",
+    "lang": "en",
+    "counterparts": [
+     "Landauer-Limit"
+    ]
+   },
+   {
+    "term": "Landauer-Limit und Dual-Kernel Theory",
+    "lang": "en",
+    "counterparts": [
+     "Landauer-Limit und Dual-Kernel Theorie"
+    ]
+   },
+   {
+    "term": "Landauer-Prinzip",
+    "lang": "de",
+    "counterparts": [
+     "Landauer Principle"
+    ]
+   },
+   {
+    "term": "Landauer-Prinzips",
+    "lang": "de",
+    "counterparts": [
+     "Landauer's Principle"
+    ]
+   },
+   {
+    "term": "Landauer-Signatur",
+    "lang": "de",
+    "counterparts": [
+     "Landauer signature"
+    ]
+   },
+   {
+    "term": "Landauer-Wärme",
+    "lang": "de",
+    "counterparts": [
+     "Landauer Heat"
+    ]
+   },
+   {
+    "term": "Landkarte des Abstiegs",
+    "lang": "de",
+    "counterparts": [
+     "Map of the Descent"
+    ]
+   },
+   {
+    "term": "Landscape",
+    "lang": "en",
+    "counterparts": [
+     "Landschaft"
+    ]
+   },
+   {
+    "term": "Landschaft",
+    "lang": "de",
+    "counterparts": [
+     "landscape"
+    ]
+   },
+   {
+    "term": "Lang",
+    "lang": "de",
+    "counterparts": [
+     "long"
+    ]
+   },
+   {
+    "term": "Langsames Denken",
+    "lang": "de",
+    "counterparts": [
+     "slow thinking"
+    ]
+   },
+   {
+    "term": "Language of Thought Hypothesis",
+    "lang": "en",
+    "counterparts": [
+     "Hypothese der Sprache des Denkens"
+    ]
+   },
+   {
+    "term": "Langzeitgedächtnis",
+    "lang": "de",
+    "counterparts": [
+     "long-term memory"
+    ]
+   },
+   {
+    "term": "Large Language Model",
+    "lang": "en",
+    "counterparts": [
+     "Großes Sprachmodell"
+    ]
+   },
+   {
+    "term": "Large Language Models",
+    "lang": "en",
+    "counterparts": [
+     "Große Sprachmodelle"
+    ]
+   },
+   {
+    "term": "Lasten",
+    "lang": "de",
+    "counterparts": [
+     "loads"
+    ]
+   },
+   {
+    "term": "Latent",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Latent Space Projection",
+    "lang": "en",
+    "counterparts": [
+     "Latentraum-Projektion"
+    ]
+   },
+   {
+    "term": "Lattice",
+    "lang": "en",
+    "counterparts": [
+     "Gitter"
+    ]
+   },
+   {
+    "term": "Lattices",
+    "lang": "en",
+    "counterparts": [
+     "Gitter"
+    ]
+   },
+   {
+    "term": "Law",
+    "lang": "en",
+    "counterparts": [
+     "Gesetz"
+    ]
+   },
+   {
+    "term": "Law of Requisite Variety",
+    "lang": "en",
+    "counterparts": [
+     "Gesetz der erforderlichen Vielfalt"
+    ]
+   },
+   {
+    "term": "Layer",
+    "lang": "en",
+    "counterparts": [
+     "Schicht"
+    ]
+   },
+   {
+    "term": "LeanRAG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Leaves",
+    "lang": "en",
+    "counterparts": [
+     "Blätter"
+    ]
+   },
+   {
+    "term": "Lebende Zelle",
+    "lang": "de",
+    "counterparts": [
+     "living cell"
+    ]
+   },
+   {
+    "term": "Lebensgeschichte",
+    "lang": "de",
+    "counterparts": [
+     "biography"
+    ]
+   },
+   {
+    "term": "Lebenstrieb",
+    "lang": "de",
+    "counterparts": [
+     "life drive"
+    ]
+   },
+   {
+    "term": "Leckage",
+    "lang": "de",
+    "counterparts": [
+     "leakage"
+    ]
+   },
+   {
+    "term": "Leech",
+    "lang": "en",
+    "counterparts": [
+     "Blutegel"
+    ]
+   },
+   {
+    "term": "Leech-Gitter",
+    "lang": "de",
+    "counterparts": [
+     "Leech lattice"
+    ]
+   },
+   {
+    "term": "Leech-Lattice",
+    "lang": "en",
+    "counterparts": [
+     "Leech-Gitter"
+    ]
+   },
+   {
+    "term": "Leech-Symmetrie",
+    "lang": "de",
+    "counterparts": [
+     "Leech symmetry"
+    ]
+   },
+   {
+    "term": "Leere",
+    "lang": "de",
+    "counterparts": [
+     "emptiness"
+    ]
+   },
+   {
+    "term": "Leere Menge",
+    "lang": "de",
+    "counterparts": [
+     "empty set"
+    ]
+   },
+   {
+    "term": "Leere-Konfrontation",
+    "lang": "de",
+    "counterparts": [
+     "empty confrontation"
+    ]
+   },
+   {
+    "term": "Leere/Entität",
+    "lang": "de",
+    "counterparts": [
+     "emptiness/entity"
+    ]
+   },
+   {
+    "term": "Leerheit",
+    "lang": "de",
+    "counterparts": [
+     "emptiness"
+    ]
+   },
+   {
+    "term": "Leerstellen",
+    "lang": "de",
+    "counterparts": [
+     "gaps"
+    ]
+   },
+   {
+    "term": "Leibniz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Leibwächter",
+    "lang": "de",
+    "counterparts": [
+     "bodyguard"
+    ]
+   },
+   {
+    "term": "Leistungsdichtespektren",
+    "lang": "de",
+    "counterparts": [
+     "power density spectra"
+    ]
+   },
+   {
+    "term": "Lem",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lem-Test",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Leon",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Leon Festinger",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Leonard",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lepowsky",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lepowsky und Arne Meurman",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lern-Integration",
+    "lang": "de",
+    "counterparts": [
+     "learning integration"
+    ]
+   },
+   {
+    "term": "Lernarchiv Theta-9",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

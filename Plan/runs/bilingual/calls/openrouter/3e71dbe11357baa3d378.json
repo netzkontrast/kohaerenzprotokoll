@@ -1,0 +1,637 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Four Domains",
+    "lang": "en",
+    "counterparts": [
+     "Vier Bereiche",
+     "Vier Domänen",
+     "Vier Gebiete"
+    ]
+   },
+   {
+    "term": "Four Throughlines",
+    "lang": "en",
+    "counterparts": [
+     "Vier Durchgänge",
+     "Vier Handlungsstränge",
+     "Vier Leitlinien"
+    ]
+   },
+   {
+    "term": "Fourier-Entwicklung",
+    "lang": "de",
+    "counterparts": [
+     "Fourier development",
+     "Fourier expansion",
+     "Fourier series"
+    ]
+   },
+   {
+    "term": "Fractal",
+    "lang": "en",
+    "counterparts": [
+     "Fraktal"
+    ]
+   },
+   {
+    "term": "Fractals",
+    "lang": "en",
+    "counterparts": [
+     "Fraktale"
+    ]
+   },
+   {
+    "term": "Fragebogen",
+    "lang": "de",
+    "counterparts": [
+     "questionnaire",
+     "survey",
+     "poll"
+    ]
+   },
+   {
+    "term": "Fragile",
+    "lang": "en",
+    "counterparts": [
+     "zerbrechlich",
+     "fragil",
+     "brüchig"
+    ]
+   },
+   {
+    "term": "Fragile Stabilität",
+    "lang": "de",
+    "counterparts": [
+     "fragile stability",
+     "delicate stability",
+     "precarious stability"
+    ]
+   },
+   {
+    "term": "Fragilität",
+    "lang": "de",
+    "counterparts": [
+     "fragility",
+     "brittleness",
+     "frailty"
+    ]
+   },
+   {
+    "term": "Fragment Alpha",
+    "lang": "en",
+    "counterparts": [
+     "Fragment Alpha",
+     "Teilstück Alpha",
+     "Fragment A"
+    ]
+   },
+   {
+    "term": "Fragmented State",
+    "lang": "en",
+    "counterparts": [
+     "zersplitterter Zustand",
+     "fragmentierter Zustand",
+     "zerstückelter Zustand"
+    ]
+   },
+   {
+    "term": "Fragmentierung",
+    "lang": "de",
+    "counterparts": [
+     "fragmentation",
+     "segmentation",
+     "division"
+    ]
+   },
+   {
+    "term": "Fragmentierung Prozess",
+    "lang": "de",
+    "counterparts": [
+     "fragmentation process",
+     "fragmenting process",
+     "segmentation process"
+    ]
+   },
+   {
+    "term": "Fragmentierung des Ursprungs-Ichs",
+    "lang": "de",
+    "counterparts": [
+     "fragmentation of the original self",
+     "fragmentation of the primal self",
+     "splitting of the original I"
+    ]
+   },
+   {
+    "term": "Fragmentierungs-Effekt",
+    "lang": "de",
+    "counterparts": [
+     "fragmentation effect",
+     "splitting effect",
+     "division effect"
+    ]
+   },
+   {
+    "term": "Fragmentierungsmechanismus",
+    "lang": "de",
+    "counterparts": [
+     "fragmentation mechanism",
+     "splitting mechanism",
+     "division mechanism"
+    ]
+   },
+   {
+    "term": "Fragmentierungsnacht",
+    "lang": "de",
+    "counterparts": [
+     "fragmentation night",
+     "night of fragmentation",
+     "splitting night"
+    ]
+   },
+   {
+    "term": "Fragmentierungsprozess",
+    "lang": "de",
+    "counterparts": [
+     "fragmentation process",
+     "splitting process",
+     "division process"
+    ]
+   },
+   {
+    "term": "Fragments",
+    "lang": "en",
+    "counterparts": [
+     "Fragmente",
+     "Teilstücke",
+     "Bruchstücke"
+    ]
+   },
+   {
+    "term": "Fraktale",
+    "lang": "de",
+    "counterparts": [
+     "fractals"
+    ]
+   },
+   {
+    "term": "Fraktalität",
+    "lang": "de",
+    "counterparts": [
+     "fractality",
+     "fractal property",
+     "fractal character"
+    ]
+   },
+   {
+    "term": "Frame",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Frame Problem",
+    "lang": "en",
+    "counterparts": [
+     "Frame-Problem",
+     "Rahmenproblem",
+     "Problem des Rahmens"
+    ]
+   },
+   {
+    "term": "Framerate",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Framework",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Framework der Strukturellen Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "Framework of Structural Dissociation",
+     "Structural Dissociation Framework",
+     "Framework for Structural Dissociation"
+    ]
+   },
+   {
+    "term": "Framework of Apophatic Metaphysics",
+    "lang": "en",
+    "counterparts": [
+     "Framework der apophatischen Metaphysik",
+     "Rahmenwerk der apophatischen Metaphysik",
+     "Framework der apophatischen Metaphysik"
+    ]
+   },
+   {
+    "term": "Framing",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Framing Effect",
+    "lang": "en",
+    "counterparts": [
+     "Framing-Effekt",
+     "Rahmungseffekt",
+     "Effekt der Framing"
+    ]
+   },
+   {
+    "term": "Framing-Effekt",
+    "lang": "de",
+    "counterparts": [
+     "framing effect"
+    ]
+   },
+   {
+    "term": "Francis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Francisco",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Frank Ramsey",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Frankenstein",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Frankl",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Free Energy",
+    "lang": "en",
+    "counterparts": [
+     "Freie Energie",
+     "freie Energie",
+     "Freie Energie"
+    ]
+   },
+   {
+    "term": "Free Energy Principle",
+    "lang": "en",
+    "counterparts": [
+     "Freie-Energie-Prinzip",
+     "Prinzip der freien Energie",
+     "Free Energy Principle"
+    ]
+   },
+   {
+    "term": "Free Energy Principles",
+    "lang": "en",
+    "counterparts": [
+     "Freie-Energie-Prinzipien",
+     "Prinzipien der freien Energie",
+     "Free Energy Principles"
+    ]
+   },
+   {
+    "term": "Free Energy Projective Simulation",
+    "lang": "en",
+    "counterparts": [
+     "Freie-Energie-Projektive Simulation",
+     "Simulation der freien Energie projektiv",
+     "Free Energy Projective Simulation"
+    ]
+   },
+   {
+    "term": "Free Indirect Discourse",
+    "lang": "en",
+    "counterparts": [
+     "Freie indirekte Rede",
+     "freie indirekte Diskurs",
+     "Free Indirect Discourse"
+    ]
+   },
+   {
+    "term": "Freese",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Freeze",
+    "lang": "en",
+    "counterparts": [
+     "einfrieren",
+     "gefrieren",
+     "Freeze"
+    ]
+   },
+   {
+    "term": "Freeze Response",
+    "lang": "en",
+    "counterparts": [
+     "Freeze-Reaktion",
+     "Erstarren-Reaktion",
+     "Freeze-Antwort"
+    ]
+   },
+   {
+    "term": "Freeze-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "freeze response",
+     "freeze reaction",
+     "freeze reaction"
+    ]
+   },
+   {
+    "term": "Freeze-Response",
+    "lang": "en",
+    "counterparts": [
+     "Freeze-Reaktion",
+     "Erstarren-Reaktion",
+     "Freeze-Antwort"
+    ]
+   },
+   {
+    "term": "Freiburg",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fremdanamnese",
+    "lang": "de",
+    "counterparts": [
+     "foreign name taking",
+     "foreign name acquisition",
+     "Fremdanamnese"
+    ]
+   },
+   {
+    "term": "Frenkel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Frequent Read-Write Sharing",
+    "lang": "en",
+    "counterparts": [
+     "Häufiges Lesen-Schreiben-Teilen",
+     "Frequentes Lesen-Schreiben-Teilen",
+     "Frequentes Read-Write-Sharing"
+    ]
+   },
+   {
+    "term": "Freud",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Friedens",
+    "lang": "de",
+    "counterparts": [
+     "peace",
+     "of peace",
+     "peaceful"
+    ]
+   },
+   {
+    "term": "Friedenweiler",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Friston",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fristons Free Energy Principle",
+    "lang": "en",
+    "counterparts": [
+     "Fristons Freie-Energie-Prinzip",
+     "Prinzip der freien Energie nach Friston",
+     "Fristons Free Energy Principle"
+    ]
+   },
+   {
+    "term": "Frontiers",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Frye",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Frühe Filtermodelle",
+    "lang": "de",
+    "counterparts": [
+     "early filter models",
+     "early filter models",
+     "early filter models"
+    ]
+   },
+   {
+    "term": "Frühwarnsystem",
+    "lang": "de",
+    "counterparts": [
+     "early warning system"
+    ]
+   },
+   {
+    "term": "Full State Tomography",
+    "lang": "en",
+    "counterparts": [
+     "vollständige Zustands-Tomographie",
+     "vollständige Zustandsomographie",
+     "Full State Tomography"
+    ]
+   },
+   {
+    "term": "FullRightsDilemma-230120",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Function",
+    "lang": "en",
+    "counterparts": [
+     "Funktion",
+     "Funktionalität",
+     "Funktion"
+    ]
+   },
+   {
+    "term": "Functional Multiplicity",
+    "lang": "en",
+    "counterparts": [
+     "funktionale Vielfalt",
+     "funktionale Vielheit",
+     "Functional Multiplicity"
+    ]
+   },
+   {
+    "term": "Functionalism",
+    "lang": "en",
+    "counterparts": [
+     "Funktionalismus"
+    ]
+   },
+   {
+    "term": "Functionalist",
+    "lang": "en",
+    "counterparts": [
+     "Funktionalist"
+    ]
+   },
+   {
+    "term": "Fundament",
+    "lang": "de",
+    "counterparts": [
+     "foundation",
+     "base",
+     "fundament"
+    ]
+   },
+   {
+    "term": "Fundamentale Gesetze",
+    "lang": "de",
+    "counterparts": [
+     "fundamental laws",
+     "basic laws",
+     "fundamental statutes"
+    ]
+   },
+   {
+    "term": "Fundamentale Transformation",
+    "lang": "de",
+    "counterparts": [
+     "fundamental transformation",
+     "basic transformation",
+     "fundamental change"
+    ]
+   },
+   {
+    "term": "Fundamentalen Realität",
+    "lang": "de",
+    "counterparts": [
+     "fundamental reality",
+     "basic reality",
+     "fundamental existence"
+    ]
+   },
+   {
+    "term": "Fundamentalismus",
+    "lang": "de",
+    "counterparts": [
+     "fundamentalism"
+    ]
+   },
+   {
+    "term": "Fundamentality",
+    "lang": "en",
+    "counterparts": [
+     "Fundamentalität",
+     "Grundlage",
+     "Fundament"
+    ]
+   },
+   {
+    "term": "Fundamentalsatz der Arithmetik",
+    "lang": "de",
+    "counterparts": [
+     "fundamental theorem of arithmetic",
+     "basic theorem of arithmetic",
+     "arithmetic fundamental theorem"
+    ]
+   },
+   {
+    "term": "Fundamente der Dual-Kernel-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "foundations of the dual-kernel theory",
+     "basis of the dual-kernel theory",
+     "fundamentals of the dual-kernel theory"
+    ]
+   },
+   {
+    "term": "Fundiertes Reagieren",
+    "lang": "de",
+    "counterparts": [
+     "grounded responding",
+     "well-founded reacting",
+     "based reacting"
+    ]
+   },
+   {
+    "term": "Funke",
+    "lang": "de",
+    "counterparts": [
+     "spark",
+     "ignition",
+     "spark"
+    ]
+   },
+   {
+    "term": "Funke-Alter",
+    "lang": "de",
+    "counterparts": [
+     "spark age",
+     "age of spark",
+     "spark-age"
+    ]
+   },
+   {
+    "term": "Funke-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "spark share",
+     "spark portion",
+     "spark fraction"
+    ]
+   },
+   {
+    "term": "Funken",
+    "lang": "de",
+    "counterparts": [
+     "sparks"
+    ]
+   },
+   {
+    "term": "Funken-Ich",
+    "lang": "de",
+    "counterparts": [
+     "spark I",
+     "spark self",
+     "spark-ego"
+    ]
+   },
+   {
+    "term": "Funktion der Vermeidung",
+    "lang": "de",
+    "counterparts": [
+     "function of avoidance",
+     "avoidance function",
+     "avoidance function"
+    ]
+   },
+   {
+    "term": "Funktionale",
+    "lang": "de",
+    "counterparts": [
+     "functional",
+     "functional",
+     "functional"
+    ]
+   }
+  ]
+ }
+}

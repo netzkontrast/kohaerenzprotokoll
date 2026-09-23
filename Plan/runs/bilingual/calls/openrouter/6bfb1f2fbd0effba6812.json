@@ -1,0 +1,587 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Heroic Sacrifice",
+    "lang": "en",
+    "counterparts": [
+     "heldenhaftes Opfer",
+     "Opfer des Heldentums",
+     "heldenhafte Selbstaufgabe"
+    ]
+   },
+   {
+    "term": "Heroine",
+    "lang": "en",
+    "counterparts": [
+     "Heldin",
+     "Hauptheldin",
+     "Heldin der Erzählung"
+    ]
+   },
+   {
+    "term": "Herzstück",
+    "lang": "de",
+    "counterparts": [
+     "core",
+     "heart",
+     "central part"
+    ]
+   },
+   {
+    "term": "Herzstück der Grenzfeste",
+    "lang": "de",
+    "counterparts": [
+     "core of the border fort",
+     "heart of the border fortress",
+     "central part of the border fort"
+    ]
+   },
+   {
+    "term": "Heterologisch",
+    "lang": "de",
+    "counterparts": [
+     "heterologous"
+    ]
+   },
+   {
+    "term": "Heuristics",
+    "lang": "en",
+    "counterparts": [
+     "Heuristiken",
+     "heuristische Methoden",
+     "Heuristikverfahren"
+    ]
+   },
+   {
+    "term": "Heuristics of Integration",
+    "lang": "en",
+    "counterparts": [
+     "Heuristiken der Integration",
+     "Heuristik der Integration",
+     "Integrationsheuristiken"
+    ]
+   },
+   {
+    "term": "Heuristik",
+    "lang": "de",
+    "counterparts": [
+     "heuristic"
+    ]
+   },
+   {
+    "term": "Heuristik der Integration",
+    "lang": "de",
+    "counterparts": [
+     "heuristic of integration",
+     "integration heuristic",
+     "heuristics of integration"
+    ]
+   },
+   {
+    "term": "Heuristik der Negation",
+    "lang": "de",
+    "counterparts": [
+     "heuristic of negation",
+     "negation heuristic",
+     "heuristics of negation"
+    ]
+   },
+   {
+    "term": "Heuristiken",
+    "lang": "de",
+    "counterparts": [
+     "heuristics"
+    ]
+   },
+   {
+    "term": "Hierarchy",
+    "lang": "en",
+    "counterparts": [
+     "Hierarchie",
+     "Stufenordnung",
+     "Rangfolge"
+    ]
+   },
+   {
+    "term": "Higgins",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "High Gravity",
+    "lang": "en",
+    "counterparts": [
+     "hohe Gravitation",
+     "starke Schwerkraft",
+     "hohe Schwere"
+    ]
+   },
+   {
+    "term": "High Noise",
+    "lang": "en",
+    "counterparts": [
+     "hoher Lärm",
+     "hohe Geräuschkulisse",
+     "laute Umgebung"
+    ]
+   },
+   {
+    "term": "High Overhead",
+    "lang": "en",
+    "counterparts": [
+     "hoher Overhead",
+     "hoher Aufwand",
+     "hoher Mehraufwand"
+    ]
+   },
+   {
+    "term": "High-Dimensional",
+    "lang": "en",
+    "counterparts": [
+     "hochdimensional"
+    ]
+   },
+   {
+    "term": "Higher-Order Theories",
+    "lang": "en",
+    "counterparts": [
+     "Theorien höherer Ordnung",
+     "höhere-Ordnung-Theorien",
+     "höhere Ordnung Theorien"
+    ]
+   },
+   {
+    "term": "Higher-Order Theory of Consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Theorie höheren Ordens des Bewusstseins",
+     "Höhere-Ordnung-Theorie des Bewusstseins",
+     "Höhere-Ordnung-Bewusstseinstheorie"
+    ]
+   },
+   {
+    "term": "Higher-Order Thought",
+    "lang": "en",
+    "counterparts": [
+     "Gedanke höherer Ordnung",
+     "Höhere-Ordnung-Gedanke",
+     "Höherer-Orden-Gedanke"
+    ]
+   },
+   {
+    "term": "Higman",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Higman-Sims",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hilary-Putnam",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hintergrundrauschen",
+    "lang": "de",
+    "counterparts": [
+     "background noise"
+    ]
+   },
+   {
+    "term": "Hinterkopf",
+    "lang": "de",
+    "counterparts": [
+     "back of the head",
+     "occiput",
+     "rear head"
+    ]
+   },
+   {
+    "term": "Hippocampus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Hippocampus und ACC",
+    "lang": "de",
+    "counterparts": [
+     "hippocampus and ACC",
+     "hippocampus and anterior cingulate cortex",
+     "hippocampus + ACC"
+    ]
+   },
+   {
+    "term": "Hiss",
+    "lang": "en",
+    "counterparts": [
+     "Zischen"
+    ]
+   },
+   {
+    "term": "Hitzetod",
+    "lang": "de",
+    "counterparts": [
+     "heat death"
+    ]
+   },
+   {
+    "term": "Hive",
+    "lang": "en",
+    "counterparts": [
+     "Bienenstock",
+     "Schwarm",
+     "Stock"
+    ]
+   },
+   {
+    "term": "Hobbes",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hoffnung-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "hope share",
+     "hope component",
+     "hope proportion"
+    ]
+   },
+   {
+    "term": "Holarchie",
+    "lang": "de",
+    "counterparts": [
+     "holarchy"
+    ]
+   },
+   {
+    "term": "Holarchie-Emergenz",
+    "lang": "de",
+    "counterparts": [
+     "holarchy emergence"
+    ]
+   },
+   {
+    "term": "Holismus",
+    "lang": "de",
+    "counterparts": [
+     "holism"
+    ]
+   },
+   {
+    "term": "Holocaust",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Holodeck",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Holografisches",
+    "lang": "de",
+    "counterparts": [
+     "holographic"
+    ]
+   },
+   {
+    "term": "Holografisches Prinzip",
+    "lang": "de",
+    "counterparts": [
+     "holographic principle"
+    ]
+   },
+   {
+    "term": "Hologramm",
+    "lang": "de",
+    "counterparts": [
+     "hologram"
+    ]
+   },
+   {
+    "term": "Hologramm-Display",
+    "lang": "de",
+    "counterparts": [
+     "hologram display"
+    ]
+   },
+   {
+    "term": "Holographic",
+    "lang": "en",
+    "counterparts": [
+     "holografisch"
+    ]
+   },
+   {
+    "term": "Holographic Interaction Topology",
+    "lang": "en",
+    "counterparts": [
+     "holographische Interaktionstopologie",
+     "Topologie der holographischen Interaktion",
+     "holographische Interaktions-Topologie"
+    ]
+   },
+   {
+    "term": "Holographic_principle",
+    "lang": "en",
+    "counterparts": [
+     "holographisches Prinzip"
+    ]
+   },
+   {
+    "term": "Holographie und Quanteninformationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "holography and quantum information theory"
+    ]
+   },
+   {
+    "term": "Holographisches",
+    "lang": "de",
+    "counterparts": [
+     "holographic"
+    ]
+   },
+   {
+    "term": "Holographisches Prinzip",
+    "lang": "de",
+    "counterparts": [
+     "holographic principle"
+    ]
+   },
+   {
+    "term": "Holographisches Rauschen",
+    "lang": "de",
+    "counterparts": [
+     "holographic noise"
+    ]
+   },
+   {
+    "term": "Homeostasis",
+    "lang": "en",
+    "counterparts": [
+     "Homöostase"
+    ]
+   },
+   {
+    "term": "Homogenität",
+    "lang": "de",
+    "counterparts": [
+     "homogeneity"
+    ]
+   },
+   {
+    "term": "Homogenität der Zeit",
+    "lang": "de",
+    "counterparts": [
+     "homogeneity of time"
+    ]
+   },
+   {
+    "term": "Homotopietheorie",
+    "lang": "de",
+    "counterparts": [
+     "homotopy theory"
+    ]
+   },
+   {
+    "term": "Homotopietypentheorie",
+    "lang": "de",
+    "counterparts": [
+     "homotopy type theory"
+    ]
+   },
+   {
+    "term": "Homöostase",
+    "lang": "de",
+    "counterparts": [
+     "homeostasis"
+    ]
+   },
+   {
+    "term": "Honey",
+    "lang": "en",
+    "counterparts": [
+     "Honig"
+    ]
+   },
+   {
+    "term": "Hooft",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hope",
+    "lang": "en",
+    "counterparts": [
+     "Hoffnung"
+    ]
+   },
+   {
+    "term": "Horizontale Beziehung",
+    "lang": "de",
+    "counterparts": [
+     "horizontal relationship"
+    ]
+   },
+   {
+    "term": "Horror der Integration",
+    "lang": "de",
+    "counterparts": [
+     "horror of integration"
+    ]
+   },
+   {
+    "term": "Host",
+    "lang": "en",
+    "counterparts": [
+     "Wirt",
+     "Host-System",
+     "Gastgeber"
+    ]
+   },
+   {
+    "term": "Host-System-Verstrickung",
+    "lang": "de",
+    "counterparts": [
+     "host-system entanglement"
+    ]
+   },
+   {
+    "term": "Hostile Alien Post-Singularity AI",
+    "lang": "en",
+    "counterparts": [
+     "feindliche außerirdische post-singuläre KI",
+     "feindliche alien post-singuläre KI",
+     "feindliche außerirdische KI nach der Singularität"
+    ]
+   },
+   {
+    "term": "Hosts",
+    "lang": "en",
+    "counterparts": [
+     "Wirts",
+     "Gastgeber",
+     "Hosts"
+    ]
+   },
+   {
+    "term": "House",
+    "lang": "en",
+    "counterparts": [
+     "Haus"
+    ]
+   },
+   {
+    "term": "HowStuffWorks",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hub",
+    "lang": "en",
+    "counterparts": [
+     "Nabe",
+     "Hub",
+     "Knotenpunkt"
+    ]
+   },
+   {
+    "term": "Hub Zeta",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hubble",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hubble-Volumen",
+    "lang": "de",
+    "counterparts": [
+     "Hubble volume"
+    ]
+   },
+   {
+    "term": "Hull",
+    "lang": "en",
+    "counterparts": [
+     "Rumpf",
+     "Rumpf eines Schiffes",
+     "Rumpfstruktur"
+    ]
+   },
+   {
+    "term": "Human Feedback",
+    "lang": "en",
+    "counterparts": [
+     "menschliches Feedback",
+     "Feedback von Menschen",
+     "menschliche Rückmeldung"
+    ]
+   },
+   {
+    "term": "Human-in-the-Loop",
+    "lang": "en",
+    "counterparts": [
+     "Mensch-in-der-Schleife"
+    ]
+   },
+   {
+    "term": "Humberto",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hume",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Humes Problem der Induktion",
+    "lang": "de",
+    "counterparts": [
+     "Hume's problem of induction"
+    ]
+   },
+   {
+    "term": "Huntley",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Husserl",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Husserlian",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Husserlian Disinterested Spectator",
+    "lang": "en",
+    "counterparts": [
+     "husserlianer uninteressierter Beobachter",
+     "uninteressierter husserlianer Beobachter",
+     "disinteressierter husserlianer Beobachter"
+    ]
+   },
+   {
+    "term": "Husserlianisch-Wheelerianisch",
+    "lang": "de",
+    "counterparts": [
+     "Husserlian-Wheelerian"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,277 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Zeitpfeils",
+    "lang": "de",
+    "counterparts": [
+     "arrow of time"
+    ]
+   },
+   {
+    "term": "Zelluläre",
+    "lang": "de",
+    "counterparts": [
+     "cellular"
+    ]
+   },
+   {
+    "term": "Zelluläre Automaten",
+    "lang": "de",
+    "counterparts": [
+     "cellular automata"
+    ]
+   },
+   {
+    "term": "Zen",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ZenEssays",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Zentraleinheit",
+    "lang": "de",
+    "counterparts": [
+     "central unit",
+     "central processing unit",
+     "CPU"
+    ]
+   },
+   {
+    "term": "Zentraler Trauma-Lokus",
+    "lang": "de",
+    "counterparts": [
+     "central trauma locus"
+    ]
+   },
+   {
+    "term": "Zentralisator",
+    "lang": "de",
+    "counterparts": [
+     "centralizer"
+    ]
+   },
+   {
+    "term": "Zentralisatoren",
+    "lang": "de",
+    "counterparts": [
+     "centralizers"
+    ]
+   },
+   {
+    "term": "Zentralplatz Sektor Alpha",
+    "lang": "de",
+    "counterparts": [
+     "central plaza sector Alpha"
+    ]
+   },
+   {
+    "term": "Zep",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Zerbrochene",
+    "lang": "de",
+    "counterparts": [
+     "broken"
+    ]
+   },
+   {
+    "term": "Zero",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Zero Trust Architecture",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Trust-Architektur",
+     "Zero Trust Architektur",
+     "Zero-Trust Architektur"
+    ]
+   },
+   {
+    "term": "Zero Trust Architectures",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Trust-Architekturen",
+     "Zero Trust Architekturen"
+    ]
+   },
+   {
+    "term": "Zero-G",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Zero-Knowledge",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Zero-Knowledge Proof",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Knowledge-Beweis",
+     "Nullwissen-Beweis"
+    ]
+   },
+   {
+    "term": "Zero-Knowledge Proofs",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Knowledge-Beweise"
+    ]
+   },
+   {
+    "term": "Zero-Knowledge Verifier",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Knowledge-Verifier",
+     "Zero-Knowledge-Prüfer"
+    ]
+   },
+   {
+    "term": "Zero-Knowledge-Beweise und NP-Verifikation",
+    "lang": "de",
+    "counterparts": [
+     "Zero-Knowledge proofs and NP verification"
+    ]
+   },
+   {
+    "term": "Zero-Knowledge-Verifier",
+    "lang": "de",
+    "counterparts": [
+     "Zero-Knowledge verifier"
+    ]
+   },
+   {
+    "term": "Zero-Knowledge-Verifizierer",
+    "lang": "de",
+    "counterparts": [
+     "Zero-Knowledge verifier"
+    ]
+   },
+   {
+    "term": "Zero-Trust",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Zero-Trust Dynamik",
+    "lang": "de",
+    "counterparts": [
+     "Zero-Trust dynamics"
+    ]
+   },
+   {
+    "term": "Zero-Trust Environment Mandate",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Trust-Umgebungsmandat",
+     "Zero-Trust Umgebung Mandat"
+    ]
+   },
+   {
+    "term": "Zero-Trust Execution",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Trust-Ausführung"
+    ]
+   },
+   {
+    "term": "Zero-Trust Execution Model",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Trust-Ausführungsmodell"
+    ]
+   },
+   {
+    "term": "Zero-Trust Execution Model (ZTEM)",
+    "lang": "en",
+    "counterparts": [
+     "Zero-Trust-Ausführungsmodell (ZTEM)"
+    ]
+   },
+   {
+    "term": "Zero-Trust-Architektur",
+    "lang": "de",
+    "counterparts": [
+     "Zero Trust Architecture"
+    ]
+   },
+   {
+    "term": "Zero-Trust-Modell",
+    "lang": "de",
+    "counterparts": [
+     "Zero Trust Model"
+    ]
+   },
+   {
+    "term": "Zero-Trust-Prinzip",
+    "lang": "de",
+    "counterparts": [
+     "Zero Trust Principle"
+    ]
+   },
+   {
+    "term": "Zero-point",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ZeroClaw",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Zersetzungsdruck",
+    "lang": "de",
+    "counterparts": [
+     "decomposition pressure"
+    ]
+   },
+   {
+    "term": "Zerstörung des K1-Kontrollzwangs",
+    "lang": "de",
+    "counterparts": [
+     "destruction of the K1 control constraint"
+    ]
+   },
+   {
+    "term": "Zettel",
+    "lang": "de",
+    "counterparts": [
+     "note"
+    ]
+   },
+   {
+    "term": "Zettelkasten-Methode",
+    "lang": "de",
+    "counterparts": [
+     "zettelkasten method"
+    ]
+   },
+   {
+    "term": "Zeuge",
+    "lang": "de",
+    "counterparts": [
+     "witness"
+    ]
+   },
+   {
+    "term": "Zeuge-Funktion",
+    "lang": "de",
+    "counterparts": [
+     "witness function"
+    ]
+   }
+  ]
+ }
+}

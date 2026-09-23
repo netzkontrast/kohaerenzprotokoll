@@ -1,0 +1,12 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "term": "XTRA",
+  "lang": "en",
+  "counterparts": [
+   "extra",
+   "zusätzlich",
+   "mehr"
+  ]
+ }
+}

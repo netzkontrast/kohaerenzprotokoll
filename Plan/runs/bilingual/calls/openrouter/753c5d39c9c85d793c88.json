@@ -1,0 +1,678 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "UMWELT",
+    "lang": "de",
+    "counterparts": [
+     "environment",
+     "environmental",
+     "ecology"
+    ]
+   },
+   {
+    "term": "UND STABILISIERUNGSPROTOKOLLS",
+    "lang": "de",
+    "counterparts": [
+     "and stabilization protocols",
+     "stabilization protocols",
+     "protocols"
+    ]
+   },
+   {
+    "term": "UNDECIDABLE",
+    "lang": "en",
+    "counterparts": [
+     "unentscheidbar",
+     "unentscheidbarkeit",
+     "nicht entscheidbar"
+    ]
+   },
+   {
+    "term": "UNM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "USC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "UVR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "UX",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ubicomp",
+    "lang": "en",
+    "counterparts": [
+     "Ubiquitous Computing",
+     " ubiquitäre Informatik",
+     "allgegenwärtige Informatik"
+    ]
+   },
+   {
+    "term": "Ubiquitous Computing",
+    "lang": "en",
+    "counterparts": [
+     "Ubiquitäre Informatik",
+     "allgegenwärtige Informatik",
+     "Ubicomp"
+    ]
+   },
+   {
+    "term": "Uhrwerk-Universum",
+    "lang": "de",
+    "counterparts": [
+     "clockwork universe",
+     "Uhrwerkuniversum"
+    ]
+   },
+   {
+    "term": "Umschwung",
+    "lang": "de",
+    "counterparts": [
+     "change",
+     "turn",
+     "transformation"
+    ]
+   },
+   {
+    "term": "Umwelt-Erzählung",
+    "lang": "de",
+    "counterparts": [
+     "environment narrative",
+     "Umwelterzählung",
+     "environmental story"
+    ]
+   },
+   {
+    "term": "Umwelt-Rauschen",
+    "lang": "de",
+    "counterparts": [
+     "environmental noise",
+     "Umweltrauschen",
+     "ecological noise"
+    ]
+   },
+   {
+    "term": "Unabhängige Welt",
+    "lang": "de",
+    "counterparts": [
+     "independent world",
+     "unabhaengige Welt",
+     "autonomous world"
+    ]
+   },
+   {
+    "term": "Unbeabsichtigte Folgen",
+    "lang": "de",
+    "counterparts": [
+     "unintended consequences",
+     "unbeabsichtigte Folgen",
+     "unintended outcomes"
+    ]
+   },
+   {
+    "term": "Unbekanntes",
+    "lang": "de",
+    "counterparts": [
+     "unknown",
+     "unbekannt",
+     "unbekannte"
+    ]
+   },
+   {
+    "term": "Unbewusst",
+    "lang": "de",
+    "counterparts": [
+     "unconscious",
+     "unbewusst",
+     "unbewusstsein"
+    ]
+   },
+   {
+    "term": "Unblending",
+    "lang": "en",
+    "counterparts": [
+     "Entmischung",
+     "Unblending",
+     "Auflösung"
+    ]
+   },
+   {
+    "term": "Unburdening",
+    "lang": "en",
+    "counterparts": [
+     "Entlastung",
+     "Unburdening",
+     "Befreiung"
+    ]
+   },
+   {
+    "term": "Uncanny Valley",
+    "lang": "en",
+    "counterparts": [
+     "Uncanny Valley",
+     "unheimliches Tal",
+     "uncanny valley"
+    ]
+   },
+   {
+    "term": "Uncanny Valley KI",
+    "lang": "en",
+    "counterparts": [
+     "Uncanny Valley KI",
+     "KI Uncanny Valley",
+     "Künstliche Intelligenz Uncanny Valley"
+    ]
+   },
+   {
+    "term": "Unendliche Auflösung",
+    "lang": "de",
+    "counterparts": [
+     "infinite resolution",
+     "unendliche Auflösung",
+     "unendliche Auflösung"
+    ]
+   },
+   {
+    "term": "Unentscheidbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "undecidability",
+     "unentscheidbarkeit",
+     "unentscheidbar"
+    ]
+   },
+   {
+    "term": "Unerwartete Verbindungen",
+    "lang": "de",
+    "counterparts": [
+     "unexpected connections",
+     "unerwartete Verbindungen",
+     "unerwartete Verknüpfungen"
+    ]
+   },
+   {
+    "term": "Unerwarteter Zug",
+    "lang": "de",
+    "counterparts": [
+     "unexpected train",
+     "unerwarteter Zug",
+     "unexpected move"
+    ]
+   },
+   {
+    "term": "Unheimlichkeit",
+    "lang": "de",
+    "counterparts": [
+     "uncanniness",
+     "unheimlichkeit",
+     "eeriness"
+    ]
+   },
+   {
+    "term": "Unintended Consequences",
+    "lang": "en",
+    "counterparts": [
+     "unbeabsichtigte Folgen",
+     "unintended consequences",
+     "unbeabsichtigte Konsequenzen"
+    ]
+   },
+   {
+    "term": "Unique",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Unit",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Unitary",
+    "lang": "en",
+    "counterparts": [
+     "unitär",
+     "unitary",
+     "einheitlich"
+    ]
+   },
+   {
+    "term": "Unity",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Universal",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Universal Narrative Model",
+    "lang": "en",
+    "counterparts": [
+     "Universelles Erzählermodell",
+     "Universal Narrative Model",
+     "universelles narratives Modell"
+    ]
+   },
+   {
+    "term": "Universal Novel Operating System",
+    "lang": "en",
+    "counterparts": [
+     "Universelles Roman-Betriebssystem",
+     "Universal Novel Operating System",
+     "universelles Romanen-OS"
+    ]
+   },
+   {
+    "term": "Universal Reboot",
+    "lang": "en",
+    "counterparts": [
+     "Universeller Neustart",
+     "Universal Reboot",
+     "universeller Reboot"
+    ]
+   },
+   {
+    "term": "Universalien",
+    "lang": "de",
+    "counterparts": [
+     "universals",
+     "universalien",
+     "universal concepts"
+    ]
+   },
+   {
+    "term": "Universe-Domain",
+    "lang": "en",
+    "counterparts": [
+     "Universums-Domäne",
+     "Universe-Domain",
+     "universe domain"
+    ]
+   },
+   {
+    "term": "University of Bristol",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "University of Southern California",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Unmappbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "unmappability",
+     "unmappbarkeit",
+     "unmappable"
+    ]
+   },
+   {
+    "term": "Unmodellierbarkeit des Subjektiven",
+    "lang": "de",
+    "counterparts": [
+     "unmodelability of the subjective",
+     "unmodellierbarkeit des Subjektiven",
+     "unmodellierbarkeit"
+    ]
+   },
+   {
+    "term": "Unrealität der Zeit",
+    "lang": "de",
+    "counterparts": [
+     "unreality of time",
+     "unrealität der zeit",
+     "unrealität"
+    ]
+   },
+   {
+    "term": "Unreliable Narrator",
+    "lang": "en",
+    "counterparts": [
+     "unzuverlässiger Erzähler",
+     "unreliable narrator",
+     "unzuverlässige Erzählung"
+    ]
+   },
+   {
+    "term": "Unschärfe",
+    "lang": "de",
+    "counterparts": [
+     "blurriness",
+     "unschärfe",
+     "fuzziness"
+    ]
+   },
+   {
+    "term": "Unschärferelation",
+    "lang": "de",
+    "counterparts": [
+     "uncertainty relation",
+     "unschärferelation",
+     "Heisenberg's uncertainty principle"
+    ]
+   },
+   {
+    "term": "Unsicher-Vermeidend",
+    "lang": "de",
+    "counterparts": [
+     "anxiety-avoiding",
+     "unsicher-vermeidend",
+     "avoidant of insecurity"
+    ]
+   },
+   {
+    "term": "Unsicher-Ängstlich",
+    "lang": "de",
+    "counterparts": [
+     "insecure-anxious",
+     "unsicher-ängstlich",
+     "insecure and anxious"
+    ]
+   },
+   {
+    "term": "Unterbewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "subconscious",
+     "unterbewusstsein",
+     "subconscious mind"
+    ]
+   },
+   {
+    "term": "Untergruppen-Inklusion",
+    "lang": "de",
+    "counterparts": [
+     "subgroup inclusion",
+     "untergruppen-inklusion",
+     "subgroup integration"
+    ]
+   },
+   {
+    "term": "Unvollständigkeit",
+    "lang": "de",
+    "counterparts": [
+     "incompleteness",
+     "unvollständigkeit",
+     "unvollständigkeit"
+    ]
+   },
+   {
+    "term": "Unvollständigkeitssatz",
+    "lang": "de",
+    "counterparts": [
+     "incompleteness theorem",
+     "unvollständigkeitssatz",
+     "Gödel's incompleteness theorem"
+    ]
+   },
+   {
+    "term": "Unvollständigkeitssätze",
+    "lang": "de",
+    "counterparts": [
+     "incompleteness theorems",
+     "unvollständigkeitssätze",
+     "unvollständigkeitssätze"
+    ]
+   },
+   {
+    "term": "Unvollständigkeitssätzen",
+    "lang": "de",
+    "counterparts": [
+     "incompleteness theorems",
+     "unvollständigkeitssätzen",
+     "unvollständigkeitssätzen"
+    ]
+   },
+   {
+    "term": "Unwissenheit",
+    "lang": "de",
+    "counterparts": [
+     "ignorance",
+     "unwissenheit",
+     "unwissen"
+    ]
+   },
+   {
+    "term": "Unzerlegbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "indecomposability",
+     "unzerlegbarkeit",
+     "unzerlegbar"
+    ]
+   },
+   {
+    "term": "Unzuverlässige Erzählerperspektive",
+    "lang": "de",
+    "counterparts": [
+     "unreliable narrator perspective",
+     "unzuverlässige erzählerperspektive",
+     "unreliable narration"
+    ]
+   },
+   {
+    "term": "Unzuverlässige Erzählung",
+    "lang": "de",
+    "counterparts": [
+     "unreliable narrative",
+     "unzuverlässige erzählung",
+     "unreliable story"
+    ]
+   },
+   {
+    "term": "Unzuverlässiger Erzähler",
+    "lang": "de",
+    "counterparts": [
+     "unreliable narrator",
+     "unzuverlässiger erzähler",
+     "unreliable storyteller"
+    ]
+   },
+   {
+    "term": "Unzuverlässigkeit",
+    "lang": "de",
+    "counterparts": [
+     "unreliability",
+     "unzuverlässigkeit",
+     "unzuverlässigkeit"
+    ]
+   },
+   {
+    "term": "Urgrund",
+    "lang": "de",
+    "counterparts": [
+     "primal ground",
+     "urgrund",
+     "original ground"
+    ]
+   },
+   {
+    "term": "Urimpression",
+    "lang": "de",
+    "counterparts": [
+     "primal impression",
+     "urimpression",
+     "original impression"
+    ]
+   },
+   {
+    "term": "Urknall",
+    "lang": "de",
+    "counterparts": [
+     "big bang",
+     "urknall",
+     "primeval explosion"
+    ]
+   },
+   {
+    "term": "Ursprung des Bewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "origin of consciousness",
+     "ursprung des bewusstseins",
+     "origin of awareness"
+    ]
+   },
+   {
+    "term": "Ursprungs-Ich",
+    "lang": "de",
+    "counterparts": [
+     "primal self",
+     "ursprungs-ich",
+     "original self"
+    ]
+   },
+   {
+    "term": "Ursprungs-Ichs",
+    "lang": "de",
+    "counterparts": [
+     "primal selves",
+     "ursprungs-ichs",
+     "original selves"
+    ]
+   },
+   {
+    "term": "Ursprungsparadoxon",
+    "lang": "de",
+    "counterparts": [
+     "origin paradox",
+     "ursprungsparadoxon",
+     "paradox of origin"
+    ]
+   },
+   {
+    "term": "Ursprungstrauma",
+    "lang": "de",
+    "counterparts": [
+     "origin trauma",
+     "ursprungstrauma",
+     "primal trauma"
+    ]
+   },
+   {
+    "term": "Urteil des Bundessozialgerichts",
+    "lang": "de",
+    "counterparts": [
+     "judgment of the Federal Social Court",
+     "urteil des bundessozialgerichts",
+     "Federal Social Court ruling"
+    ]
+   },
+   {
+    "term": "Urvertrauen",
+    "lang": "de",
+    "counterparts": [
+     "primal trust",
+     "urvertrauen",
+     "original trust"
+    ]
+   },
+   {
+    "term": "User Interface",
+    "lang": "en",
+    "counterparts": [
+     "Benutzeroberfläche",
+     "User Interface",
+     "UI"
+    ]
+   },
+   {
+    "term": "UvA-DARE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "V-Allianzen",
+    "lang": "de",
+    "counterparts": [
+     "V-alliances",
+     "v-allianzen",
+     "V alliances"
+    ]
+   },
+   {
+    "term": "V-Anomalie",
+    "lang": "de",
+    "counterparts": [
+     "V-anomaly",
+     "v-anomalie",
+     "V anomaly"
+    ]
+   },
+   {
+    "term": "V-Beziehung",
+    "lang": "de",
+    "counterparts": [
+     "V-relationship",
+     "v-beziehung",
+     "V relationship"
+    ]
+   },
+   {
+    "term": "V-Bezug",
+    "lang": "de",
+    "counterparts": [
+     "V-reference",
+     "v-bezug",
+     "V reference"
+    ]
+   },
+   {
+    "term": "V-Exploit",
+    "lang": "de",
+    "counterparts": [
+     "V-exploit",
+     "v-exploit",
+     "V exploit"
+    ]
+   },
+   {
+    "term": "V-Link",
+    "lang": "de",
+    "counterparts": [
+     "V-link",
+     "v-link",
+     "V link"
+    ]
+   },
+   {
+    "term": "V-Transformation",
+    "lang": "de",
+    "counterparts": [
+     "V-transformation",
+     "v-transformation",
+     "V transformation"
+    ]
+   },
+   {
+    "term": "V-Vektor",
+    "lang": "de",
+    "counterparts": [
+     "V-vector",
+     "v-vektor",
+     "V vector"
+    ]
+   },
+   {
+    "term": "VEGD",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

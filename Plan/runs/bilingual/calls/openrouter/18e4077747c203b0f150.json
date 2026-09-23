@@ -1,0 +1,201 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "psychische Fragmentierung",
+    "lang": "de",
+    "counterparts": [
+     "psychic fragmentation"
+    ]
+   },
+   {
+    "term": "rsa",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "sophia",
+    "lang": "en",
+    "counterparts": [
+     "Weisheit"
+    ]
+   },
+   {
+    "term": "v1",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "win2008",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ÄkNo",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ÄkWL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ängstlich-Vermeidend",
+    "lang": "de",
+    "counterparts": [
+     "anxious-avoidant"
+    ]
+   },
+   {
+    "term": "Ärztekammer",
+    "lang": "de",
+    "counterparts": [
+     "physicians' chamber"
+    ]
+   },
+   {
+    "term": "Ärztekammer Nordrhein",
+    "lang": "de",
+    "counterparts": [
+     "Physicians' Chamber North Rhine"
+    ]
+   },
+   {
+    "term": "Ärztekammer Westfalen-Lippe",
+    "lang": "de",
+    "counterparts": [
+     "Physicians' Chamber Westphalia-Lippe"
+    ]
+   },
+   {
+    "term": "Ärztliche Dokumentationspflicht",
+    "lang": "de",
+    "counterparts": [
+     "physicians' documentation obligation"
+    ]
+   },
+   {
+    "term": "Äußere Nicht-Identifikation",
+    "lang": "de",
+    "counterparts": [
+     "external non-identification"
+    ]
+   },
+   {
+    "term": "Äußere Rahmung",
+    "lang": "de",
+    "counterparts": [
+     "external framing"
+    ]
+   },
+   {
+    "term": "ÜBERWELT",
+    "lang": "de",
+    "counterparts": [
+     "upper world"
+    ]
+   },
+   {
+    "term": "Über Protokollsätze Von RudolsCarnap",
+    "lang": "de",
+    "counterparts": [
+     "On Protocol Sentences by Rudolf Carnap"
+    ]
+   },
+   {
+    "term": "Über-Ich",
+    "lang": "de",
+    "counterparts": [
+     "superego"
+    ]
+   },
+   {
+    "term": "Über-Strukturierung",
+    "lang": "de",
+    "counterparts": [
+     "over-structuring"
+    ]
+   },
+   {
+    "term": "Überall",
+    "lang": "de",
+    "counterparts": [
+     "everywhere"
+    ]
+   },
+   {
+    "term": "Überbestimmtheit",
+    "lang": "de",
+    "counterparts": [
+     "overdetermination"
+    ]
+   },
+   {
+    "term": "Übergabe der Zeugenschaft",
+    "lang": "de",
+    "counterparts": [
+     "handing over of testimony"
+    ]
+   },
+   {
+    "term": "Überidentifikation",
+    "lang": "de",
+    "counterparts": [
+     "over-identification"
+    ]
+   },
+   {
+    "term": "Überraum",
+    "lang": "de",
+    "counterparts": [
+     "supra-space",
+     "hyper-space"
+    ]
+   },
+   {
+    "term": "Überraum-Interface",
+    "lang": "de",
+    "counterparts": [
+     "supra-space interface"
+    ]
+   },
+   {
+    "term": "Überwachungskapitalismus",
+    "lang": "de",
+    "counterparts": [
+     "surveillance capitalism"
+    ]
+   },
+   {
+    "term": "Überwachungssystem",
+    "lang": "de",
+    "counterparts": [
+     "surveillance system"
+    ]
+   },
+   {
+    "term": "Überwachungssysteme",
+    "lang": "de",
+    "counterparts": [
+     "surveillance systems"
+    ]
+   },
+   {
+    "term": "Überwelt",
+    "lang": "de",
+    "counterparts": [
+     "upper world"
+    ]
+   },
+   {
+    "term": "Überwelt-Nexus",
+    "lang": "de",
+    "counterparts": [
+     "upper world nexus"
+    ]
+   }
+  ]
+ }
+}

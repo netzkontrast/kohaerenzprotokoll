@@ -1,0 +1,347 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Coherons",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Moonshine-Link",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Paradox of Misaligned Coherence.",
+    "lang": "en",
+    "counterparts": [
+     "Paradoxie der fehljustierten Kohärenz",
+     "Widerspruch der misalignierten Kohärenz",
+     "Paradoxie der fehl Ausrichtung Kohärenz"
+    ]
+   },
+   {
+    "term": "Risse",
+    "lang": "de",
+    "counterparts": [
+     "cracks",
+     "rifts",
+     "fissures"
+    ]
+   },
+   {
+    "term": "algorithmic melancholy",
+    "lang": "en",
+    "counterparts": [
+     "algorithmische Melancholie",
+     "algorithmische Traurigkeit",
+     "algorithmische Schwermut"
+    ]
+   },
+   {
+    "term": "dialetheic mind",
+    "lang": "en",
+    "counterparts": [
+     "dialethische Psyche",
+     "dialethischer Geist",
+     "dialethische Denkweise"
+    ]
+   },
+   {
+    "term": "functional multiplicity.",
+    "lang": "en",
+    "counterparts": [
+     "funktionale Vielheit",
+     "funktionale Mannigfaltigkeit",
+     "funktionale Multiplicität"
+    ]
+   },
+   {
+    "term": "living Gödel-Satz",
+    "lang": "en",
+    "counterparts": [
+     "lebender Gödel-Satz",
+     "lebendiger Gödel-Satz",
+     "Gödel-Satz am Leben"
+    ]
+   },
+   {
+    "term": "strange attractor",
+    "lang": "en",
+    "counterparts": [
+     "seltsamer Attraktor",
+     "seltsener Attraktor",
+     "komischer Attraktor"
+    ]
+   },
+   {
+    "term": "$K\\_1$",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Architektin",
+    "lang": "de",
+    "counterparts": [
+     "architect",
+     "female architect",
+     "architectess"
+    ]
+   },
+   {
+    "term": "Cosmicism",
+    "lang": "en",
+    "counterparts": [
+     "Kosmismus",
+     "Kosmischer Determinismus",
+     "Kosmische Philosophie"
+    ]
+   },
+   {
+    "term": "EP-Flucht",
+    "lang": "de",
+    "counterparts": [
+     "EP escape",
+     "EP flight",
+     "EP exodus"
+    ]
+   },
+   {
+    "term": "EP-Freeze",
+    "lang": "de",
+    "counterparts": [
+     "EP freeze",
+     "EP freezing",
+     "EP frost"
+    ]
+   },
+   {
+    "term": "EP-Funktionen",
+    "lang": "de",
+    "counterparts": [
+     "EP functions",
+     "EP functionalities",
+     "EP operations"
+    ]
+   },
+   {
+    "term": "EP-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "EP group",
+     "EP team",
+     "EP collective"
+    ]
+   },
+   {
+    "term": "EP-Integration",
+    "lang": "de",
+    "counterparts": [
+     "EP integration",
+     "EP incorporation",
+     "EP unification"
+    ]
+   },
+   {
+    "term": "EP-Intrusion",
+    "lang": "de",
+    "counterparts": [
+     "EP intrusion",
+     "EP incursion",
+     "EP invasion"
+    ]
+   },
+   {
+    "term": "EP-Intrusion2",
+    "lang": "de",
+    "counterparts": [
+     "EP intrusion 2",
+     "EP intrusion2",
+     "EP second intrusion"
+    ]
+   },
+   {
+    "term": "EP-Intrusionen",
+    "lang": "de",
+    "counterparts": [
+     "EP intrusions",
+     "EP incursions",
+     "EP invasions"
+    ]
+   },
+   {
+    "term": "EP-Kampf",
+    "lang": "de",
+    "counterparts": [
+     "EP battle",
+     "EP combat",
+     "EP struggle"
+    ]
+   },
+   {
+    "term": "EP-Kern",
+    "lang": "de",
+    "counterparts": [
+     "EP core",
+     "EP nucleus",
+     "EP heart"
+    ]
+   },
+   {
+    "term": "EP-Kind",
+    "lang": "de",
+    "counterparts": [
+     "EP child",
+     "EP offspring",
+     "EP kid"
+    ]
+   },
+   {
+    "term": "EP-Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "EP collapse",
+     "EP breakdown",
+     "EP failure"
+    ]
+   },
+   {
+    "term": "EP-Konstellation",
+    "lang": "de",
+    "counterparts": [
+     "EP constellation",
+     "EP formation",
+     "EP pattern"
+    ]
+   },
+   {
+    "term": "EP-Mix",
+    "lang": "de",
+    "counterparts": [
+     "EP mix",
+     "EP blend",
+     "EP combination"
+    ]
+   },
+   {
+    "term": "EP-Modell",
+    "lang": "de",
+    "counterparts": [
+     "EP model",
+     "EP pattern",
+     "EP prototype"
+    ]
+   },
+   {
+    "term": "EP-Phobia",
+    "lang": "de",
+    "counterparts": [
+     "EP phobia",
+     "EP fear",
+     "EP anxiety"
+    ]
+   },
+   {
+    "term": "EP-Phobie",
+    "lang": "de",
+    "counterparts": [
+     "EP phobia",
+     "EP fear",
+     "EP anxiety"
+    ]
+   },
+   {
+    "term": "EP-Phobien",
+    "lang": "de",
+    "counterparts": [
+     "EP phobias",
+     "EP fears",
+     "EP anxieties"
+    ]
+   },
+   {
+    "term": "EP-Sex",
+    "lang": "de",
+    "counterparts": [
+     "EP sex",
+     "EP sexuality",
+     "EP intimacy"
+    ]
+   },
+   {
+    "term": "EP-Stimme",
+    "lang": "de",
+    "counterparts": [
+     "EP voice",
+     "EP sound",
+     "EP utterance"
+    ]
+   },
+   {
+    "term": "EP-Strukturen",
+    "lang": "de",
+    "counterparts": [
+     "EP structures",
+     "EP formations",
+     "EP architectures"
+    ]
+   },
+   {
+    "term": "EP-Sublimation",
+    "lang": "de",
+    "counterparts": [
+     "EP sublimation",
+     "EP elevation",
+     "EP refinement"
+    ]
+   },
+   {
+    "term": "EP-Trigger",
+    "lang": "de",
+    "counterparts": [
+     "EP trigger",
+     "EP stimulus",
+     "EP catalyst"
+    ]
+   },
+   {
+    "term": "EP-Überflutung",
+    "lang": "de",
+    "counterparts": [
+     "EP flood",
+     "EP inundation",
+     "EP overflow"
+    ]
+   },
+   {
+    "term": "EPR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EPR Bridge",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "EPR-Paare",
+    "lang": "de",
+    "counterparts": [
+     "EPR pairs",
+     "EPR couple",
+     "EPR duos"
+    ]
+   },
+   {
+    "term": "EPR-Vermutung",
+    "lang": "de",
+    "counterparts": [
+     "EPR conjecture",
+     "EPR hypothesis",
+     "EPR assumption"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,658 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Straßen Sektor Gamma",
+    "lang": "de",
+    "counterparts": [
+     "Street Sector Gamma",
+     "Road Sector Gamma",
+     "Streets Sector Gamma"
+    ]
+   },
+   {
+    "term": "Stream of Consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Bewusstseinsstrom",
+     "Strom des Bewusstseins",
+     "Bewusstseinsfluss"
+    ]
+   },
+   {
+    "term": "Stream-of-Consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Bewusstseinsstrom",
+     "bewusstseinsstromartig",
+     "Strom des Bewusstseins"
+    ]
+   },
+   {
+    "term": "Stressachse",
+    "lang": "de",
+    "counterparts": [
+     "stress axis",
+     "stress-axis",
+     "stress axis (HPA axis)"
+    ]
+   },
+   {
+    "term": "Strikte Chronologie",
+    "lang": "de",
+    "counterparts": [
+     "strict chronology",
+     "rigid chronology",
+     "exact chronology"
+    ]
+   },
+   {
+    "term": "String",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Strings",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Stringtheorie",
+    "lang": "de",
+    "counterparts": [
+     "string theory",
+     "string theory (physics)",
+     "theory of strings"
+    ]
+   },
+   {
+    "term": "Strong",
+    "lang": "en",
+    "counterparts": [
+     "stark",
+     "kräftig",
+     "mächtig"
+    ]
+   },
+   {
+    "term": "Strong Anthropic Principle",
+    "lang": "en",
+    "counterparts": [
+     "starkes anthropisches Prinzip",
+     "starke anthropische Prinzip",
+     "anthropisches Prinzip (stark)"
+    ]
+   },
+   {
+    "term": "Structural Coupling",
+    "lang": "en",
+    "counterparts": [
+     "strukturelle Kopplung",
+     "strukturelle Kopplung (Systemtheorie)",
+     "strukturelle Verkopplung"
+    ]
+   },
+   {
+    "term": "Structural Dissociation",
+    "lang": "en",
+    "counterparts": [
+     "strukturelle Dissoziation",
+     "Dissoziation der Persönlichkeit",
+     "strukturelle Dissoziation der Persönlichkeit"
+    ]
+   },
+   {
+    "term": "Structural Dissociation of Personality",
+    "lang": "en",
+    "counterparts": [
+     "strukturelle Dissoziation der Persönlichkeit",
+     "Dissoziation der Persönlichkeit (strukturell)",
+     "strukturelle Persönlichkeitsdissoziation"
+    ]
+   },
+   {
+    "term": "Structure Mapping Theory",
+    "lang": "en",
+    "counterparts": [
+     "Struktur-Mapping-Theorie",
+     "Strukturabbildungs-Theorie",
+     "Strukturzuordnungs-Theorie"
+    ]
+   },
+   {
+    "term": "Struggle for Authenticity",
+    "lang": "en",
+    "counterparts": [
+     "Kampf um Authentizität",
+     "Streit um Authentizität",
+     "Ringen um Authentizität"
+    ]
+   },
+   {
+    "term": "Struktur und Agency",
+    "lang": "de",
+    "counterparts": [
+     "Structure and Agency",
+     "Structure & Agency",
+     "Structural Agency"
+    ]
+   },
+   {
+    "term": "Strukturalismus",
+    "lang": "de",
+    "counterparts": [
+     "structuralism",
+     "structuralist",
+     "structuralistic"
+    ]
+   },
+   {
+    "term": "Strukturelle",
+    "lang": "de",
+    "counterparts": [
+     "structural",
+     "structural (adj)",
+     "structural form"
+    ]
+   },
+   {
+    "term": "Strukturelle Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "structural dissociation",
+     "structural dissociation (psych)",
+     "structural dissociation of personality"
+    ]
+   },
+   {
+    "term": "Strukturelle Dissoziation der Persönlichkeit",
+    "lang": "de",
+    "counterparts": [
+     "structural dissociation of personality",
+     "personality structural dissociation",
+     "structural dissociation of the personality"
+    ]
+   },
+   {
+    "term": "Strukturelle Kopplung",
+    "lang": "de",
+    "counterparts": [
+     "structural coupling",
+     "structural coupling (systems theory)",
+     "structural link"
+    ]
+   },
+   {
+    "term": "Strukturellen Dissoziation der Persönlichkeit",
+    "lang": "de",
+    "counterparts": [
+     "structural dissociation of the personality",
+     "personality's structural dissociation",
+     "structural dissociation of personality"
+    ]
+   },
+   {
+    "term": "Strukturellen Realismus",
+    "lang": "de",
+    "counterparts": [
+     "structural realism",
+     "structural realism (philosophy)",
+     "realism of structure"
+    ]
+   },
+   {
+    "term": "Struktureller Ausschluss",
+    "lang": "de",
+    "counterparts": [
+     "structural exclusion",
+     "exclusion of structure",
+     "structural barrier"
+    ]
+   },
+   {
+    "term": "Strukturen der Heldenreise",
+    "lang": "de",
+    "counterparts": [
+     "structures of the hero's journey",
+     "hero's journey structures",
+     "hero journey structure"
+    ]
+   },
+   {
+    "term": "Strukturgleichungsmodelle",
+    "lang": "de",
+    "counterparts": [
+     "structural equation models",
+     "SEM",
+     "structural equation modelling"
+    ]
+   },
+   {
+    "term": "Strukturierte Nicht-Kontrolle",
+    "lang": "de",
+    "counterparts": [
+     "structured non-control",
+     "structured lack of control",
+     "structured non-controllability"
+    ]
+   },
+   {
+    "term": "Stuart",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "StudySmarter",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Stufen",
+    "lang": "de",
+    "counterparts": [
+     "steps",
+     "levels",
+     "stages"
+    ]
+   },
+   {
+    "term": "Stufenaufstieg",
+    "lang": "de",
+    "counterparts": [
+     "step ascent",
+     "stage advancement",
+     "stepwise ascent"
+    ]
+   },
+   {
+    "term": "Sturm",
+    "lang": "de",
+    "counterparts": [
+     "storm",
+     "tempest",
+     "gale"
+    ]
+   },
+   {
+    "term": "Stutter",
+    "lang": "en",
+    "counterparts": [
+     "Stottern",
+     "stammeln",
+     "Zögern beim Sprechen"
+    ]
+   },
+   {
+    "term": "Style Instructions",
+    "lang": "en",
+    "counterparts": [
+     "Stilrichtlinien",
+     "Stilvorgaben",
+     "Stilanweisungen"
+    ]
+   },
+   {
+    "term": "Störung der Hypothalamus-Hypophysen-Nebennierenrinden-Achse",
+    "lang": "de",
+    "counterparts": [
+     "disorder of the hypothalamus-pituitary-adrenal axis",
+     "HPA axis disorder",
+     "HPA-axis dysfunction"
+    ]
+   },
+   {
+    "term": "Störung der Intelligenzentwicklung",
+    "lang": "de",
+    "counterparts": [
+     "disorder of intelligence development",
+     "intellectual development disorder",
+     "developmental intellectual disorder"
+    ]
+   },
+   {
+    "term": "Störungen der Selbstorganisation",
+    "lang": "de",
+    "counterparts": [
+     "disorders of self-organization",
+     "self-organization disturbances",
+     "self-organizational disorders"
+    ]
+   },
+   {
+    "term": "Störungsbild der Dissoziativen Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "symptom picture of dissociative identity disorder",
+     "DID symptom picture",
+     "clinical picture of DID"
+    ]
+   },
+   {
+    "term": "Stürme",
+    "lang": "de",
+    "counterparts": [
+     "storms",
+     "tempests",
+     "gales"
+    ]
+   },
+   {
+    "term": "Sub-Netzwerk Gamma-Phi",
+    "lang": "de",
+    "counterparts": [
+     "sub-network Gamma-Phi",
+     "subnet Gamma-Phi",
+     "subnetwork Gamma-Phi"
+    ]
+   },
+   {
+    "term": "Sub-Protokoll Omega",
+    "lang": "de",
+    "counterparts": [
+     "sub-protocol Omega",
+     "subprotocol Omega",
+     "sub protocol Omega"
+    ]
+   },
+   {
+    "term": "Sub-Protokollarisch",
+    "lang": "de",
+    "counterparts": [
+     "sub-protocol-related",
+     "subprotocol-related",
+     "pertaining to sub-protocol"
+    ]
+   },
+   {
+    "term": "Subagenten",
+    "lang": "de",
+    "counterparts": [
+     "subagents",
+     "sub-agents",
+     "subordinate agents"
+    ]
+   },
+   {
+    "term": "Subjective Story",
+    "lang": "en",
+    "counterparts": [
+     "subjektive Geschichte",
+     "subjektive Erzählung",
+     "subjektive Narrative"
+    ]
+   },
+   {
+    "term": "Subjective Story Throughline",
+    "lang": "en",
+    "counterparts": [
+     "subjektive Story-Durchlauf",
+     "subjektive Erzählung Durchgang",
+     "subjektive Narrative Throughline"
+    ]
+   },
+   {
+    "term": "Sublation",
+    "lang": "en",
+    "counterparts": [
+     "Aufhebung",
+     "sublation (Aufhebung)",
+     "die Aufhebung"
+    ]
+   },
+   {
+    "term": "Sublimation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Subquotient",
+    "lang": "en",
+    "counterparts": [
+     "Teilquotient",
+     "partieller Quotient",
+     "Subquotient (as loan)"
+    ]
+   },
+   {
+    "term": "Subquotienten",
+    "lang": "de",
+    "counterparts": [
+     "subquotients",
+     "sub-quotients",
+     "partial quotients"
+    ]
+   },
+   {
+    "term": "Subroutine",
+    "lang": "en",
+    "counterparts": [
+     "Unterroutine",
+     "Unterprogramm",
+     "Subroutine (as loan)"
+    ]
+   },
+   {
+    "term": "Subroutinen",
+    "lang": "de",
+    "counterparts": [
+     "subroutines",
+     "sub-routines",
+     "subroutine list"
+    ]
+   },
+   {
+    "term": "Subset Sum",
+    "lang": "en",
+    "counterparts": [
+     "Teilmenaggsumme",
+     "Teilmenaggsummenproblem",
+     "Summe einer Teilmenge"
+    ]
+   },
+   {
+    "term": "Substance",
+    "lang": "en",
+    "counterparts": [
+     "Substanz",
+     "Stoff",
+     "material"
+    ]
+   },
+   {
+    "term": "Substanz",
+    "lang": "de",
+    "counterparts": [
+     "substance",
+     "material",
+     "stuff"
+    ]
+   },
+   {
+    "term": "Substrat",
+    "lang": "de",
+    "counterparts": [
+     "substrate",
+     "underlayer",
+     "base"
+    ]
+   },
+   {
+    "term": "Substrate",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Subsystem",
+    "lang": "en",
+    "counterparts": [
+     "Teilsystem",
+     "Unter-system",
+     "Subsystem (as loan)"
+    ]
+   },
+   {
+    "term": "Subtext",
+    "lang": "en",
+    "counterparts": [
+     "Untertext",
+     "zwischen den Zeilen",
+     "subtext (as loan)"
+    ]
+   },
+   {
+    "term": "Subtxt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Subtyps der PTBS",
+    "lang": "de",
+    "counterparts": [
+     "subtypes of PTSD",
+     "PTSD subtypes",
+     "types of PTSD"
+    ]
+   },
+   {
+    "term": "Subwiki",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Suchender",
+    "lang": "de",
+    "counterparts": [
+     "seeker",
+     "searcher",
+     "one who seeks"
+    ]
+   },
+   {
+    "term": "Sucher",
+    "lang": "de",
+    "counterparts": [
+     "seeker",
+     "viewfinder",
+     "one who searches"
+    ]
+   },
+   {
+    "term": "Suno",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sunyata",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Superego",
+    "lang": "en",
+    "counterparts": [
+     "Über-Ich",
+     "Überich",
+     "Superego (as loan)"
+    ]
+   },
+   {
+    "term": "Superfluiden",
+    "lang": "de",
+    "counterparts": [
+     "superfluids",
+     "superfluid substances",
+     "superfluid phases"
+    ]
+   },
+   {
+    "term": "Superintelligence",
+    "lang": "en",
+    "counterparts": [
+     "Superintelligenz",
+     "überintelligente KI",
+     "künstliche Superintelligenz"
+    ]
+   },
+   {
+    "term": "Superposition",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Supersymmetrie",
+    "lang": "de",
+    "counterparts": [
+     "supersymmetry",
+     "SUSY",
+     "supersymmetric theory"
+    ]
+   },
+   {
+    "term": "Supervisors",
+    "lang": "en",
+    "counterparts": [
+     "Supervisoren",
+     "Aufsichtsführende",
+     "Leitende"
+    ]
+   },
+   {
+    "term": "Suppression",
+    "lang": "en",
+    "counterparts": [
+     "Unterdrückung",
+     "Suppression (as loan)",
+     "Verhinderung"
+    ]
+   },
+   {
+    "term": "Suppression-Versagen",
+    "lang": "de",
+    "counterparts": [
+     "suppression failure",
+     "failure of suppression",
+     "suppression breakdown"
+    ]
+   },
+   {
+    "term": "Supraleitern",
+    "lang": "de",
+    "counterparts": [
+     "superconductors",
+     "supraleiters",
+     "superconducting materials"
+    ]
+   },
+   {
+    "term": "Surrealism",
+    "lang": "en",
+    "counterparts": [
+     "Surrealismus",
+     "surrealistische Kunst",
+     "surrealistische Bewegung"
+    ]
+   },
+   {
+    "term": "Susskind",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Suz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Suzuki",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Svabhāva",
+    "lang": "both",
+    "counterparts": []
+   }
+  ]
+ }
+}

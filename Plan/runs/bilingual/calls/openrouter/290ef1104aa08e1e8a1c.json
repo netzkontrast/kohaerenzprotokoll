@@ -1,0 +1,487 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Husserls",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hybrid",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Hybrides AEGIS",
+    "lang": "de",
+    "counterparts": [
+     "Hybrid AEGIS"
+    ]
+   },
+   {
+    "term": "Hybris",
+    "lang": "de",
+    "counterparts": [
+     "hubris"
+    ]
+   },
+   {
+    "term": "Hyper-Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "hyper-coherence",
+     "hypercoherence"
+    ]
+   },
+   {
+    "term": "Hyperactivity",
+    "lang": "en",
+    "counterparts": [
+     "Hyperaktivität"
+    ]
+   },
+   {
+    "term": "Hyperactivity Disorder",
+    "lang": "en",
+    "counterparts": [
+     "Hyperaktivitätsstörung"
+    ]
+   },
+   {
+    "term": "Hyperaktivitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Hyperactivity Disorder"
+    ]
+   },
+   {
+    "term": "Hyperarousal",
+    "lang": "en",
+    "counterparts": [
+     "Hypererregung"
+    ]
+   },
+   {
+    "term": "Hyperativitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Hyperactivity Disorder"
+    ]
+   },
+   {
+    "term": "Hypercube Navigation",
+    "lang": "en",
+    "counterparts": [
+     "Hypercube-Navigation"
+    ]
+   },
+   {
+    "term": "Hyperrealität",
+    "lang": "de",
+    "counterparts": [
+     "hyperreality"
+    ]
+   },
+   {
+    "term": "Hypervigilance",
+    "lang": "en",
+    "counterparts": [
+     "Hypervigilanz"
+    ]
+   },
+   {
+    "term": "Hypervigilanz",
+    "lang": "de",
+    "counterparts": [
+     "hypervigilance"
+    ]
+   },
+   {
+    "term": "Hypervisor",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Hypervisor of Deletion Logic",
+    "lang": "en",
+    "counterparts": [
+     "Hypervisor der Löschlogik"
+    ]
+   },
+   {
+    "term": "Hypervisor of Reconstitution",
+    "lang": "en",
+    "counterparts": [
+     "Hypervisor der Rekonstruktion"
+    ]
+   },
+   {
+    "term": "Hypoarousal",
+    "lang": "en",
+    "counterparts": [
+     "Hypoerregung"
+    ]
+   },
+   {
+    "term": "Hypokortisolismus",
+    "lang": "de",
+    "counterparts": [
+     "hypocortisolism"
+    ]
+   },
+   {
+    "term": "Hypothalamus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Hypothalamus-Hypophysen-Nebennierenrinden-Achse",
+    "lang": "de",
+    "counterparts": [
+     "hypothalamus-pituitary-adrenal axis",
+     "HPA axis"
+    ]
+   },
+   {
+    "term": "Hypothese H1",
+    "lang": "de",
+    "counterparts": [
+     "Hypothesis H1"
+    ]
+   },
+   {
+    "term": "Hypotonie",
+    "lang": "de",
+    "counterparts": [
+     "hypotonia"
+    ]
+   },
+   {
+    "term": "Hz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hörz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hüter",
+    "lang": "de",
+    "counterparts": [
+     "guardian"
+    ]
+   },
+   {
+    "term": "Hüterin",
+    "lang": "de",
+    "counterparts": [
+     "guardian"
+    ]
+   },
+   {
+    "term": "I They",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "I We",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "I-Perspektive",
+    "lang": "de",
+    "counterparts": [
+     "first-person perspective"
+    ]
+   },
+   {
+    "term": "I-Throughline",
+    "lang": "de",
+    "counterparts": [
+     "I-throughline"
+    ]
+   },
+   {
+    "term": "IAS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IBM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IC Domain",
+    "lang": "en",
+    "counterparts": [
+     "IC-Bereich"
+    ]
+   },
+   {
+    "term": "IC Mind",
+    "lang": "en",
+    "counterparts": [
+     "IC-Geist"
+    ]
+   },
+   {
+    "term": "IC Solution",
+    "lang": "en",
+    "counterparts": [
+     "IC-Lösung"
+    ]
+   },
+   {
+    "term": "IC Throughline",
+    "lang": "en",
+    "counterparts": [
+     "IC-Throughline"
+    ]
+   },
+   {
+    "term": "IC-01",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IC-Erosion",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IC-Mandat",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IC-Mind",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ICD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ICD-10",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ICD-10 F44",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ICD-11",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ICD-11 Kriterien",
+    "lang": "de",
+    "counterparts": [
+     "ICD-11 criteria"
+    ]
+   },
+   {
+    "term": "ICF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ICF-Klassifikationen",
+    "lang": "de",
+    "counterparts": [
+     "ICF classifications"
+    ]
+   },
+   {
+    "term": "ICH",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ICT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IDEAS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IDENTIFIED AS TYPE G",
+    "lang": "en",
+    "counterparts": [
+     "Als Typ G identifiziert"
+    ]
+   },
+   {
+    "term": "IDENTITY",
+    "lang": "en",
+    "counterparts": [
+     "Identität"
+    ]
+   },
+   {
+    "term": "IDM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IEM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IFS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IFS Exilant",
+    "lang": "de",
+    "counterparts": [
+     "IFS exile"
+    ]
+   },
+   {
+    "term": "IFS Protector Parts",
+    "lang": "en",
+    "counterparts": [
+     "IFS Schutzteile"
+    ]
+   },
+   {
+    "term": "IFS-Modell",
+    "lang": "de",
+    "counterparts": [
+     "IFS model"
+    ]
+   },
+   {
+    "term": "IGD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "III",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IIT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IMPLEMENTIERUNG EINES NEUEN INTEGRATIONS-PROTOKOLLS",
+    "lang": "de",
+    "counterparts": [
+     "Implementation of a new integration protocol"
+    ]
+   },
+   {
+    "term": "IMPLEMENTIERUNG EINES VERBESSERTEN INTEGRATIONSPROTOKOLLS",
+    "lang": "de",
+    "counterparts": [
+     "Implementation of an improved integration protocol"
+    ]
+   },
+   {
+    "term": "INSTANTIATION OF THE ÜBERWELT",
+    "lang": "en",
+    "counterparts": [
+     "Instantiierung der Überwelt"
+    ]
+   },
+   {
+    "term": "INV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "INV-03",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "INV-04",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "INV-04 Chronology Check",
+    "lang": "en",
+    "counterparts": [
+     "INV-04 Chronologieprüfung"
+    ]
+   },
+   {
+    "term": "IP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IP-K1123",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IP-K1123-Revised",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IP-KDSI-GAMMA-7",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "IQG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ISA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ISH",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ISR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ISSTD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ISSTD-Empfehlungen",
+    "lang": "de",
+    "counterparts": [
+     "ISSTD recommendations"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,553 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Lernnische Ceti-7",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lese-Position",
+    "lang": "de",
+    "counterparts": [
+     "reading position",
+     "reading spot",
+     "reading place"
+    ]
+   },
+   {
+    "term": "Leser",
+    "lang": "de",
+    "counterparts": [
+     "reader"
+    ]
+   },
+   {
+    "term": "LessWrong",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lethe-Strom",
+    "lang": "de",
+    "counterparts": [
+     "Lethe stream",
+     "Lethe river",
+     "Lethe current"
+    ]
+   },
+   {
+    "term": "Level",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Level Up",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Levels of Abstraction",
+    "lang": "en",
+    "counterparts": [
+     "Abstraktionsebenen",
+     "Abstraktionsstufen"
+    ]
+   },
+   {
+    "term": "Levinas",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lewis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lewis Carroll",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lex",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Liar",
+    "lang": "en",
+    "counterparts": [
+     "Lügner",
+     "Lügnerin"
+    ]
+   },
+   {
+    "term": "Lias",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LibreTexts",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lichtfunke",
+    "lang": "de",
+    "counterparts": [
+     "light spark",
+     "light flash",
+     "light gleam"
+    ]
+   },
+   {
+    "term": "Lichtinstanz",
+    "lang": "de",
+    "counterparts": [
+     "light instance",
+     "light occurrence",
+     "light manifestation"
+    ]
+   },
+   {
+    "term": "Life",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Lifecycle",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Lifton",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ligotti",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Limina",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Liminale Räume",
+    "lang": "de",
+    "counterparts": [
+     "liminal spaces",
+     "liminal rooms",
+     "liminal areas"
+    ]
+   },
+   {
+    "term": "Liminaler Raum",
+    "lang": "de",
+    "counterparts": [
+     "liminal space",
+     "liminal room",
+     "liminal area"
+    ]
+   },
+   {
+    "term": "Liminalität",
+    "lang": "de",
+    "counterparts": [
+     "liminality"
+    ]
+   },
+   {
+    "term": "Liminas Reflektionskammer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Limit",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Limit A",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Limit B",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Line Budgets",
+    "lang": "en",
+    "counterparts": [
+     "Linienbudgets",
+     "Budgetlinien",
+     "Linienbudget"
+    ]
+   },
+   {
+    "term": "Linse der Dual-Kernel-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "lens of the dual-kernel theory",
+     "lens of the dual kernel theory"
+    ]
+   },
+   {
+    "term": "LitCharts",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Little",
+    "lang": "en",
+    "counterparts": [
+     "klein",
+     "wenig",
+     "kleiner"
+    ]
+   },
+   {
+    "term": "Live",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Live Operation",
+    "lang": "en",
+    "counterparts": [
+     "Live-Operation",
+     "Livebetrieb",
+     "Echtzeitbetrieb"
+    ]
+   },
+   {
+    "term": "Live Virtual Constructive",
+    "lang": "en",
+    "counterparts": [
+     "Live Virtuell Konstruktiv",
+     "Live-Virtuell-Konstruktiv",
+     "Live Virtuell Konstruktion"
+    ]
+   },
+   {
+    "term": "Lived Integration",
+    "lang": "en",
+    "counterparts": [
+     "Erlebte Integration"
+    ]
+   },
+   {
+    "term": "Living",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Living Paradox",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Llama-3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LoA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LoAs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Load-Linked",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "LobeHub",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Loch",
+    "lang": "de",
+    "counterparts": [
+     "hole",
+     "pit",
+     "opening"
+    ]
+   },
+   {
+    "term": "Lochs",
+    "lang": "de",
+    "counterparts": [
+     "holes",
+     "pits",
+     "openings"
+    ]
+   },
+   {
+    "term": "Loci",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Lock",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Lock Acquisition",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Lockdown",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Locke",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Locks",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Locus Coeruleus-Noradrenalin-System",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LogOS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LogOS' Kern-Bibliothek",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "LogOS-Supervisor",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Logic Paradox Application",
+    "lang": "en",
+    "counterparts": [
+     "Logik-Paradox-Anwendung",
+     "Logikparadox Anwendung",
+     "Paradox-Logik-Anwendung"
+    ]
+   },
+   {
+    "term": "Logic Police",
+    "lang": "en",
+    "counterparts": [
+     "Logik-Polizei",
+     "Logikpolizei",
+     "Polizei der Logik"
+    ]
+   },
+   {
+    "term": "Logic Puzzle Box",
+    "lang": "en",
+    "counterparts": [
+     "Logik-Puzzlekasten",
+     "Logikpuzzle-Box",
+     "Denkspiel-Box"
+    ]
+   },
+   {
+    "term": "Logic of Paradox",
+    "lang": "en",
+    "counterparts": [
+     "Logik des Paradoxons",
+     "Paradox-Logik",
+     "Logik des Paradoxes"
+    ]
+   },
+   {
+    "term": "Logic of Trauma",
+    "lang": "en",
+    "counterparts": [
+     "Logik des Traumas",
+     "Traumalogik"
+    ]
+   },
+   {
+    "term": "Logic of the City",
+    "lang": "en",
+    "counterparts": [
+     "Logik der Stadt",
+     "Stadtlogik"
+    ]
+   },
+   {
+    "term": "Logical Consistency Analysis",
+    "lang": "en",
+    "counterparts": [
+     "Logische Konsistenzanalyse",
+     "Analyse der logischen Konsistenz",
+     "Konsistenzanalyse der Logik"
+    ]
+   },
+   {
+    "term": "Logical-Systemic Subsystem",
+    "lang": "en",
+    "counterparts": [
+     "Logisch-systemisches Subsystem",
+     "Systemisch-logisches Subsystem",
+     "Logisch-systemisches Teilssystem"
+    ]
+   },
+   {
+    "term": "Logician ANP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Logics",
+    "lang": "en",
+    "counterparts": [
+     "Logiken",
+     "Logikwissenschaften"
+    ]
+   },
+   {
+    "term": "Logics of Formal Inconsistency",
+    "lang": "en",
+    "counterparts": [
+     "Logiken der formalen Inkonsistenz",
+     "Logik der formalen Inkonsistenz"
+    ]
+   },
+   {
+    "term": "Logics of Formal Inconsistency (LFI)",
+    "lang": "en",
+    "counterparts": [
+     "Logiken der formalen Inkonsistenz (LFI)",
+     "Logik der formalen Inkonsistenz (LFI)"
+    ]
+   },
+   {
+    "term": "Logik der Abgrenzung",
+    "lang": "de",
+    "counterparts": [
+     "logic of demarcation",
+     "logic of separation",
+     "demarcation logic"
+    ]
+   },
+   {
+    "term": "Logik der Formalen Inkonsistenz",
+    "lang": "de",
+    "counterparts": [
+     "logic of formal inconsistency",
+     "formal inconsistency logic",
+     "logic of formal inconsistencies"
+    ]
+   },
+   {
+    "term": "Logik der JANUS-Kernel",
+    "lang": "de",
+    "counterparts": [
+     "logic of the JANUS kernel",
+     "JANUS kernel logic",
+     "logic of JANUS kernel"
+    ]
+   },
+   {
+    "term": "Logik des Alltags",
+    "lang": "de",
+    "counterparts": [
+     "everyday logic",
+     "logic of everyday life",
+     "daily logic"
+    ]
+   },
+   {
+    "term": "Logik-Geflecht",
+    "lang": "de",
+    "counterparts": [
+     "logic web",
+     "logic network",
+     "logic intertwining"
+    ]
+   },
+   {
+    "term": "Logik-Polizei",
+    "lang": "de",
+    "counterparts": [
+     "logic police",
+     "logic law enforcement",
+     "police of logic"
+    ]
+   },
+   {
+    "term": "Logik-Rätselbox",
+    "lang": "de",
+    "counterparts": [
+     "logic puzzle box",
+     "logic riddle box",
+     "puzzle box of logic"
+    ]
+   },
+   {
+    "term": "Logik-Schleife",
+    "lang": "de",
+    "counterparts": [
+     "logic loop",
+     "logic cycle",
+     "logical loop"
+    ]
+   },
+   {
+    "term": "Logikbombe",
+    "lang": "de",
+    "counterparts": [
+     "logic bomb",
+     "logical bomb",
+     "logic explosive"
+    ]
+   },
+   {
+    "term": "Logiken",
+    "lang": "de",
+    "counterparts": [
+     "logics",
+     "logic systems",
+     "logic fields"
+    ]
+   },
+   {
+    "term": "Logiken der Formalen Inkonsistenz",
+    "lang": "de",
+    "counterparts": [
+     "logics of formal inconsistency",
+     "logic of formal inconsistencies",
+     "formal inconsistency logics"
+    ]
+   }
+  ]
+ }
+}

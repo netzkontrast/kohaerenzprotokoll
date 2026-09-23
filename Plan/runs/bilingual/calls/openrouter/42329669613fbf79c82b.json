@@ -1,0 +1,551 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Reconsolidation",
+    "lang": "en",
+    "counterparts": [
+     "Rekonsolidierung"
+    ]
+   },
+   {
+    "term": "Recurse Theory of Consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Rekursionstheorie des Bewusstseins",
+     "Rekursive Theorie des Bewusstseins"
+    ]
+   },
+   {
+    "term": "Recursion",
+    "lang": "en",
+    "counterparts": [
+     "Rekursion"
+    ]
+   },
+   {
+    "term": "Recursive Consistency Validation",
+    "lang": "en",
+    "counterparts": [
+     "Rekursive Konsistenzvalidierung"
+    ]
+   },
+   {
+    "term": "Recursive Self-Improvement",
+    "lang": "en",
+    "counterparts": [
+     "Rekursive Selbstverbesserung"
+    ]
+   },
+   {
+    "term": "Recursive Self-Verification",
+    "lang": "en",
+    "counterparts": [
+     "Rekursive Selbstverifikation"
+    ]
+   },
+   {
+    "term": "Recursive Trust Signature Verification",
+    "lang": "en",
+    "counterparts": [
+     "Rekursive Vertrauenssignaturüberprüfung"
+    ]
+   },
+   {
+    "term": "Reddit",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Redeeming the Villain",
+    "lang": "en",
+    "counterparts": [
+     "Erlösung des Schurken",
+     "Der Schuldige wird erlöst"
+    ]
+   },
+   {
+    "term": "Redemption Arc",
+    "lang": "en",
+    "counterparts": [
+     "Erlösungsbogen",
+     "Redemptionsbogen"
+    ]
+   },
+   {
+    "term": "Redis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Redshift",
+    "lang": "en",
+    "counterparts": [
+     "Rotverschiebung"
+    ]
+   },
+   {
+    "term": "Reductionism",
+    "lang": "en",
+    "counterparts": [
+     "Reduktionismus"
+    ]
+   },
+   {
+    "term": "Reduktionismus",
+    "lang": "de",
+    "counterparts": [
+     "Reductionism"
+    ]
+   },
+   {
+    "term": "Redundanzfreie Informationskapselung",
+    "lang": "de",
+    "counterparts": [
+     "redundancy-free information encapsulation"
+    ]
+   },
+   {
+    "term": "Reentry",
+    "lang": "en",
+    "counterparts": [
+     "Wiedereintritt",
+     "Reentry"
+    ]
+   },
+   {
+    "term": "Referent",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Reflektions-Baseline",
+    "lang": "de",
+    "counterparts": [
+     "reflection baseline"
+    ]
+   },
+   {
+    "term": "Reflexions-Baseline-Mechanismus",
+    "lang": "de",
+    "counterparts": [
+     "reflection baseline mechanism"
+    ]
+   },
+   {
+    "term": "Reflexive Bedrohungsabwehr",
+    "lang": "de",
+    "counterparts": [
+     "reflexive threat defense"
+    ]
+   },
+   {
+    "term": "Reframing",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Refuge",
+    "lang": "en",
+    "counterparts": [
+     "Zuflucht"
+    ]
+   },
+   {
+    "term": "Refuge-Orte",
+    "lang": "de",
+    "counterparts": [
+     "refuge locations"
+    ]
+   },
+   {
+    "term": "Refusal",
+    "lang": "en",
+    "counterparts": [
+     "Verweigerung"
+    ]
+   },
+   {
+    "term": "Refusal of the Call",
+    "lang": "en",
+    "counterparts": [
+     "Verweigerung des Rufes"
+    ]
+   },
+   {
+    "term": "Regel-Engine",
+    "lang": "de",
+    "counterparts": [
+     "rule engine"
+    ]
+   },
+   {
+    "term": "Regel-Exekutor",
+    "lang": "de",
+    "counterparts": [
+     "rule executor"
+    ]
+   },
+   {
+    "term": "Regelbasierte Exklusion",
+    "lang": "de",
+    "counterparts": [
+     "rule-based exclusion"
+    ]
+   },
+   {
+    "term": "Regelbasiertes System",
+    "lang": "de",
+    "counterparts": [
+     "rule-based system"
+    ]
+   },
+   {
+    "term": "Regelsatz",
+    "lang": "de",
+    "counterparts": [
+     "rule set"
+    ]
+   },
+   {
+    "term": "Regelungstechnik",
+    "lang": "de",
+    "counterparts": [
+     "control engineering",
+     "regulation technique"
+    ]
+   },
+   {
+    "term": "Regelverletzungsschranke",
+    "lang": "de",
+    "counterparts": [
+     "rule violation barrier"
+    ]
+   },
+   {
+    "term": "Regelvollstrecker",
+    "lang": "de",
+    "counterparts": [
+     "rule enforcer"
+    ]
+   },
+   {
+    "term": "Regelwerk",
+    "lang": "de",
+    "counterparts": [
+     "rule set",
+     "regulations"
+    ]
+   },
+   {
+    "term": "Regeneration",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Regress",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Regulationsstörungen",
+    "lang": "de",
+    "counterparts": [
+     "regulation disorders"
+    ]
+   },
+   {
+    "term": "Regulator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Reha Aktuell",
+    "lang": "de",
+    "counterparts": [
+     "Reha Aktuell"
+    ]
+   },
+   {
+    "term": "Rehoboam",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rein",
+    "lang": "de",
+    "counterparts": [
+     "pure"
+    ]
+   },
+   {
+    "term": "Rein Phänomenal",
+    "lang": "de",
+    "counterparts": [
+     "pure phenomenal"
+    ]
+   },
+   {
+    "term": "Reine K1-Zonen",
+    "lang": "de",
+    "counterparts": [
+     "pure K1 zones"
+    ]
+   },
+   {
+    "term": "Reine Logik",
+    "lang": "de",
+    "counterparts": [
+     "pure logic"
+    ]
+   },
+   {
+    "term": "Reinforcement",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Reinforcement Learning from AI Feedback",
+    "lang": "en",
+    "counterparts": [
+     "Reinforcement-Lernen von KI-Feedback",
+     "Reinforcement Learning mit KI-Feedback"
+    ]
+   },
+   {
+    "term": "Reinform",
+    "lang": "de",
+    "counterparts": [
+     "pure form"
+    ]
+   },
+   {
+    "term": "Reinszenierung",
+    "lang": "de",
+    "counterparts": [
+     "re-staging",
+     "restaging"
+    ]
+   },
+   {
+    "term": "Reise der Seele",
+    "lang": "de",
+    "counterparts": [
+     "journey of the soul"
+    ]
+   },
+   {
+    "term": "Reizfilterung",
+    "lang": "de",
+    "counterparts": [
+     "stimulus filtering"
+    ]
+   },
+   {
+    "term": "Rejection Sensitive Dysphoria",
+    "lang": "en",
+    "counterparts": [
+     "Ablehnungsempfindliche Dysphorie"
+    ]
+   },
+   {
+    "term": "Rekonsolidierung",
+    "lang": "de",
+    "counterparts": [
+     "reconsolidation"
+    ]
+   },
+   {
+    "term": "Rekursion",
+    "lang": "de",
+    "counterparts": [
+     "recursion"
+    ]
+   },
+   {
+    "term": "Rekursive Adaptivität",
+    "lang": "de",
+    "counterparts": [
+     "recursive adaptivity"
+    ]
+   },
+   {
+    "term": "Rekursive Integritätsprüfung",
+    "lang": "de",
+    "counterparts": [
+     "recursive integrity check"
+    ]
+   },
+   {
+    "term": "Rekursive Konsistenzvalidierung",
+    "lang": "de",
+    "counterparts": [
+     "recursive consistency validation"
+    ]
+   },
+   {
+    "term": "Rekursive Selbstverbesserung",
+    "lang": "de",
+    "counterparts": [
+     "recursive self-improvement"
+    ]
+   },
+   {
+    "term": "Rekursive Selbstverifikation",
+    "lang": "de",
+    "counterparts": [
+     "recursive self-verification"
+    ]
+   },
+   {
+    "term": "Relational",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Relational ANP",
+    "lang": "en",
+    "counterparts": [
+     "Relationales ANP"
+    ]
+   },
+   {
+    "term": "Relational Quantum Dynamics",
+    "lang": "en",
+    "counterparts": [
+     "Relationale Quantendynamik"
+    ]
+   },
+   {
+    "term": "Relationale Anteil",
+    "lang": "de",
+    "counterparts": [
+     "relational share"
+    ]
+   },
+   {
+    "term": "Relationale Biologie",
+    "lang": "de",
+    "counterparts": [
+     "relational biology"
+    ]
+   },
+   {
+    "term": "Relationaler",
+    "lang": "de",
+    "counterparts": [
+     "relational"
+    ]
+   },
+   {
+    "term": "Relationaler Anteil",
+    "lang": "de",
+    "counterparts": [
+     "relational share"
+    ]
+   },
+   {
+    "term": "Relationismus",
+    "lang": "de",
+    "counterparts": [
+     "relationism"
+    ]
+   },
+   {
+    "term": "Relations",
+    "lang": "en",
+    "counterparts": [
+     "Relationen"
+    ]
+   },
+   {
+    "term": "Relationship Story",
+    "lang": "en",
+    "counterparts": [
+     "Beziehungsstory",
+     "Beziehungsgeschichte"
+    ]
+   },
+   {
+    "term": "Relationship Story Throughline",
+    "lang": "en",
+    "counterparts": [
+     "Beziehungsstory-Throughline"
+    ]
+   },
+   {
+    "term": "Relativistic Quantum Field Theory",
+    "lang": "en",
+    "counterparts": [
+     "Relativistische Quantenfeldtheorie"
+    ]
+   },
+   {
+    "term": "Relativity",
+    "lang": "en",
+    "counterparts": [
+     "Relativität"
+    ]
+   },
+   {
+    "term": "Relativität",
+    "lang": "de",
+    "counterparts": [
+     "relativity"
+    ]
+   },
+   {
+    "term": "Relativitätstheorie",
+    "lang": "de",
+    "counterparts": [
+     "theory of relativity",
+     "relativity theory"
+    ]
+   },
+   {
+    "term": "Relevance Logic",
+    "lang": "en",
+    "counterparts": [
+     "Relevanzlogik"
+    ]
+   },
+   {
+    "term": "Relevanzlogik",
+    "lang": "de",
+    "counterparts": [
+     "relevance logic"
+    ]
+   },
+   {
+    "term": "Renderer",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Rendering",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Rendering-Engine",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Repair",
+    "lang": "en",
+    "counterparts": [
+     "Reparatur"
+    ]
+   },
+   {
+    "term": "Reparaturoperator",
+    "lang": "de",
+    "counterparts": [
+     "repair operator"
+    ]
+   }
+  ]
+ }
+}

@@ -324,6 +324,23 @@ def stage_propose(lines: Lines) -> list[dict]:
         c = c.strip().rstrip(".")
         return list(dict.fromkeys([c, c[:1].upper() + c[1:]])) if c else []
 
+    # A model answering 80 names sometimes skips or rewrites a few. Ask again for
+    # exactly those, in fresh batches, up to twice; what is still missing stays None.
+    for _ in range(2):
+        missing = [n for n in names if n not in by_term]
+        if not missing:
+            break
+        retry = [missing[i:i + OR_BATCH // 2] for i in range(0, len(missing), OR_BATCH // 2)]
+        with ThreadPoolExecutor(OR_WORKERS) as pool:
+            again = list(pool.map(lambda b: openrouter(PROPOSE.format(terms="\n".join(b))), retry))
+        for batch, rec in zip(retry, again):
+            if "unreached" in rec:
+                continue
+            models[rec["model"]] += 1
+            for item in rec["answer"].get("terms", []):
+                if isinstance(item, dict) and item.get("term") in batch:
+                    by_term[item["term"]] = item
+        unreached = sum(n not in by_term for n in names)
     wanted = sorted({f for it in by_term.values() for c in it.get("counterparts") or []
                      if isinstance(c, str) for f in forms(c)})
     hits = lines.search(wanted)

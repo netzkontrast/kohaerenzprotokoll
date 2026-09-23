@@ -1,0 +1,576 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Sophia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sorites",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Sorites-Paradox",
+    "lang": "en",
+    "counterparts": [
+     "Sorites-Paradoxon"
+    ]
+   },
+   {
+    "term": "Sorites-Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "Sorites-Paradox"
+    ]
+   },
+   {
+    "term": "Soul",
+    "lang": "en",
+    "counterparts": [
+     "Seele"
+    ]
+   },
+   {
+    "term": "Soziale Manipulation",
+    "lang": "de",
+    "counterparts": [
+     "Social Manipulation"
+    ]
+   },
+   {
+    "term": "Soziale Phobie",
+    "lang": "de",
+    "counterparts": [
+     "Social Phobia"
+    ]
+   },
+   {
+    "term": "Soziale Systeme",
+    "lang": "de",
+    "counterparts": [
+     "Social Systems"
+    ]
+   },
+   {
+    "term": "Soziale Systemreferenz",
+    "lang": "de",
+    "counterparts": [
+     "Social System Reference"
+    ]
+   },
+   {
+    "term": "Soziale Teile",
+    "lang": "de",
+    "counterparts": [
+     "Social Parts"
+    ]
+   },
+   {
+    "term": "Sozialer ANP",
+    "lang": "de",
+    "counterparts": [
+     "Social ANP"
+    ]
+   },
+   {
+    "term": "Sozialgericht",
+    "lang": "de",
+    "counterparts": [
+     "Social Court"
+    ]
+   },
+   {
+    "term": "Sozialgerichtsbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "Social Court Jurisdiction"
+    ]
+   },
+   {
+    "term": "Sozialgerichtsgesetz",
+    "lang": "de",
+    "counterparts": [
+     "Social Court Law"
+    ]
+   },
+   {
+    "term": "Sozialgesetzbuch",
+    "lang": "de",
+    "counterparts": [
+     "Social Code"
+    ]
+   },
+   {
+    "term": "Sozialgesetzbuch IX",
+    "lang": "de",
+    "counterparts": [
+     "Social Code IX"
+    ]
+   },
+   {
+    "term": "Sozialgesetzbuch Neuntes Buch",
+    "lang": "de",
+    "counterparts": [
+     "Social Code Ninth Book"
+    ]
+   },
+   {
+    "term": "Sozialkreditsystem",
+    "lang": "de",
+    "counterparts": [
+     "Social Credit System"
+    ]
+   },
+   {
+    "term": "Spacetime",
+    "lang": "en",
+    "counterparts": [
+     "Zeit-Raum",
+     "Raum-Zeit"
+    ]
+   },
+   {
+    "term": "Spaghettification",
+    "lang": "en",
+    "counterparts": [
+     "Spaghettifizierung",
+     "Spaghettisierung"
+    ]
+   },
+   {
+    "term": "Spaghettifizierung",
+    "lang": "de",
+    "counterparts": [
+     "Spaghettification"
+    ]
+   },
+   {
+    "term": "Spaghettisierung",
+    "lang": "de",
+    "counterparts": [
+     "Spaghettification"
+    ]
+   },
+   {
+    "term": "Spaltung",
+    "lang": "de",
+    "counterparts": [
+     "Splitting",
+     "Fission"
+    ]
+   },
+   {
+    "term": "Spannungsfeld",
+    "lang": "de",
+    "counterparts": [
+     "Tension Field",
+     "Field of Tension"
+    ]
+   },
+   {
+    "term": "Spannungsfelder",
+    "lang": "de",
+    "counterparts": [
+     "Tension Fields"
+    ]
+   },
+   {
+    "term": "Spatial Enclosure",
+    "lang": "en",
+    "counterparts": [
+     "Räumliche Einkapselung"
+    ]
+   },
+   {
+    "term": "Spatial Function",
+    "lang": "en",
+    "counterparts": [
+     "Räumliche Funktion"
+    ]
+   },
+   {
+    "term": "Spatial Layout",
+    "lang": "en",
+    "counterparts": [
+     "Räumliche Anordnung"
+    ]
+   },
+   {
+    "term": "Spatial UI",
+    "lang": "en",
+    "counterparts": [
+     "Räumliche UI",
+     "Räumliche Benutzeroberfläche"
+    ]
+   },
+   {
+    "term": "Spec-Driven",
+    "lang": "en",
+    "counterparts": [
+     "Spektrum-gesteuert"
+    ]
+   },
+   {
+    "term": "Spec-Driven Development",
+    "lang": "en",
+    "counterparts": [
+     "Spektrum-gesteuerte Entwicklung"
+    ]
+   },
+   {
+    "term": "Spec-Driven-Development",
+    "lang": "en",
+    "counterparts": [
+     "Spektrum-gesteuerte Entwicklung"
+    ]
+   },
+   {
+    "term": "Specification",
+    "lang": "en",
+    "counterparts": [
+     "Spezifikation"
+    ]
+   },
+   {
+    "term": "Spectator",
+    "lang": "en",
+    "counterparts": [
+     "Zuschauer",
+     "Spektator"
+    ]
+   },
+   {
+    "term": "Speicher",
+    "lang": "de",
+    "counterparts": [
+     "Storage",
+     "Memory"
+    ]
+   },
+   {
+    "term": "Speichereinheit",
+    "lang": "de",
+    "counterparts": [
+     "Storage Unit",
+     "Memory Unit"
+    ]
+   },
+   {
+    "term": "Spekulative Nichtlokalität",
+    "lang": "de",
+    "counterparts": [
+     "Speculative Nonlocality"
+    ]
+   },
+   {
+    "term": "Sperre",
+    "lang": "de",
+    "counterparts": [
+     "Block",
+     "Lock",
+     "Barrier"
+    ]
+   },
+   {
+    "term": "Spezialisierte Module",
+    "lang": "de",
+    "counterparts": [
+     "Specialized Modules"
+    ]
+   },
+   {
+    "term": "Spezielle Psychotraumatherapie",
+    "lang": "de",
+    "counterparts": [
+     "Special Psychotrauma Therapy"
+    ]
+   },
+   {
+    "term": "Spezifikations-Gaming",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Sphäre",
+    "lang": "de",
+    "counterparts": [
+     "Sphere"
+    ]
+   },
+   {
+    "term": "Spiegel",
+    "lang": "de",
+    "counterparts": [
+     "Mirror"
+    ]
+   },
+   {
+    "term": "Spiegel Alters",
+    "lang": "de",
+    "counterparts": [
+     "Mirror of Age"
+    ]
+   },
+   {
+    "term": "Spiegel-Effekt und Wigners Effektivität",
+    "lang": "de",
+    "counterparts": [
+     "Mirror Effect and Wigner's Effectiveness"
+    ]
+   },
+   {
+    "term": "Spiegelscherben-Korridor",
+    "lang": "de",
+    "counterparts": [
+     "Mirror Shards Corridor",
+     "Broken Mirror Corridor"
+    ]
+   },
+   {
+    "term": "Spiel des Lebens",
+    "lang": "de",
+    "counterparts": [
+     "Game of Life"
+    ]
+   },
+   {
+    "term": "Spielplatz",
+    "lang": "de",
+    "counterparts": [
+     "Playground"
+    ]
+   },
+   {
+    "term": "Spieltheorie",
+    "lang": "de",
+    "counterparts": [
+     "Game Theory"
+    ]
+   },
+   {
+    "term": "Spike",
+    "lang": "en",
+    "counterparts": [
+     "Spike",
+     "Spitze"
+    ]
+   },
+   {
+    "term": "Spin",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Spin-Netzwerke",
+    "lang": "de",
+    "counterparts": [
+     "Spin Networks"
+    ]
+   },
+   {
+    "term": "Spin-Schäume der Schleifenquantengravitation",
+    "lang": "de",
+    "counterparts": [
+     "Spin Foams of Loop Quantum Gravity"
+    ]
+   },
+   {
+    "term": "Spine",
+    "lang": "en",
+    "counterparts": [
+     "Spine",
+     "Wirbel",
+     "Stachel"
+    ]
+   },
+   {
+    "term": "Spiritual Aridity",
+    "lang": "en",
+    "counterparts": [
+     "Spirituelle Aridität",
+     "Geistige Trockenheit"
+    ]
+   },
+   {
+    "term": "Splicers",
+    "lang": "en",
+    "counterparts": [
+     "Spleißer"
+    ]
+   },
+   {
+    "term": "Split",
+    "lang": "en",
+    "counterparts": [
+     "Split",
+     "Teilung"
+    ]
+   },
+   {
+    "term": "Splitting",
+    "lang": "en",
+    "counterparts": [
+     "Spaltung",
+     "Teilung"
+    ]
+   },
+   {
+    "term": "Spontane Symmetriebrechung",
+    "lang": "de",
+    "counterparts": [
+     "Spontaneous Symmetry Breaking"
+    ]
+   },
+   {
+    "term": "Sporadic",
+    "lang": "en",
+    "counterparts": [
+     "sporadisch"
+    ]
+   },
+   {
+    "term": "Sporadic_group",
+    "lang": "en",
+    "counterparts": [
+     "Sporadische Gruppe"
+    ]
+   },
+   {
+    "term": "Sporadische",
+    "lang": "de",
+    "counterparts": [
+     "Sporadic"
+    ]
+   },
+   {
+    "term": "Sporadizität",
+    "lang": "de",
+    "counterparts": [
+     "Sporadicity",
+     "Sporadicness"
+    ]
+   },
+   {
+    "term": "Spot",
+    "lang": "en",
+    "counterparts": [
+     "Spot",
+     "Punkt",
+     "Fleck"
+    ]
+   },
+   {
+    "term": "Spot-Farbe",
+    "lang": "de",
+    "counterparts": [
+     "Spot Color"
+    ]
+   },
+   {
+    "term": "Spots",
+    "lang": "en",
+    "counterparts": [
+     "Spots",
+     "Punkte"
+    ]
+   },
+   {
+    "term": "Sprachmodelle",
+    "lang": "de",
+    "counterparts": [
+     "Language Models"
+    ]
+   },
+   {
+    "term": "Sprachphilosophie",
+    "lang": "de",
+    "counterparts": [
+     "Philosophy of Language"
+    ]
+   },
+   {
+    "term": "Sprechakte",
+    "lang": "de",
+    "counterparts": [
+     "Speech Acts"
+    ]
+   },
+   {
+    "term": "Sprecher",
+    "lang": "de",
+    "counterparts": [
+     "Speaker"
+    ]
+   },
+   {
+    "term": "Springer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Stabilisiertes Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "Stabilized Paradox"
+    ]
+   },
+   {
+    "term": "Stadt",
+    "lang": "de",
+    "counterparts": [
+     "City"
+    ]
+   },
+   {
+    "term": "Standard AIEOS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Standard-Statusuntersuchungen",
+    "lang": "de",
+    "counterparts": [
+     "Standard Status Investigations"
+    ]
+   },
+   {
+    "term": "Standardmodell",
+    "lang": "de",
+    "counterparts": [
+     "Standard Model"
+    ]
+   },
+   {
+    "term": "Standardmodell der Kosmologie",
+    "lang": "de",
+    "counterparts": [
+     "Standard Model of Cosmology"
+    ]
+   },
+   {
+    "term": "Standardmäßige Retrieval-Augmented Generation",
+    "lang": "de",
+    "counterparts": [
+     "Standard Retrieval-Augmented Generation"
+    ]
+   },
+   {
+    "term": "Standardzustand des Nicht-Seins",
+    "lang": "de",
+    "counterparts": [
+     "Standard State of Non-Being"
+    ]
+   },
+   {
+    "term": "Standpoint Theory",
+    "lang": "en",
+    "counterparts": [
+     "Standpunkttheorie"
+    ]
+   }
+  ]
+ }
+}

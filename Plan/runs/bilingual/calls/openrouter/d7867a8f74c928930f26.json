@@ -1,0 +1,562 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Einstein",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Einstein-Rosen Bridge",
+    "lang": "en",
+    "counterparts": [
+     "Einstein-Rosen-Brücke"
+    ]
+   },
+   {
+    "term": "Einstein-Rosen-Brücke",
+    "lang": "de",
+    "counterparts": [
+     "Einstein-Rosen Bridge"
+    ]
+   },
+   {
+    "term": "Einstein-Rosen-Brücken",
+    "lang": "de",
+    "counterparts": [
+     "Einstein-Rosen Bridges"
+    ]
+   },
+   {
+    "term": "Einstimmung",
+    "lang": "de",
+    "counterparts": [
+     "attunement",
+     "tuning in",
+     "intonation"
+    ]
+   },
+   {
+    "term": "Eintritt KW2",
+    "lang": "de",
+    "counterparts": [
+     "entry KW2"
+    ]
+   },
+   {
+    "term": "Einwand der Isolation",
+    "lang": "de",
+    "counterparts": [
+     "objection of isolation",
+     "isolation objection",
+     "isolationist objection"
+    ]
+   },
+   {
+    "term": "Einzel-GdB",
+    "lang": "de",
+    "counterparts": [
+     "individual GdB",
+     "single GdB"
+    ]
+   },
+   {
+    "term": "Ekpyrotisches Szenario",
+    "lang": "de",
+    "counterparts": [
+     "ekpyrotic scenario"
+    ]
+   },
+   {
+    "term": "Elara",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Elektroenzephalografie",
+    "lang": "de",
+    "counterparts": [
+     "electroencephalography"
+    ]
+   },
+   {
+    "term": "Elektroenzephalogramm",
+    "lang": "de",
+    "counterparts": [
+     "electroencephalogram"
+    ]
+   },
+   {
+    "term": "Elektroenzephalographie",
+    "lang": "de",
+    "counterparts": [
+     "electroencephalography"
+    ]
+   },
+   {
+    "term": "Elektrokardiogramm",
+    "lang": "de",
+    "counterparts": [
+     "electrocardiogram"
+    ]
+   },
+   {
+    "term": "Elektronische Musik und Akustik",
+    "lang": "de",
+    "counterparts": [
+     "electronic music and acoustics"
+    ]
+   },
+   {
+    "term": "Element",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Eliminativismus",
+    "lang": "de",
+    "counterparts": [
+     "eliminativism"
+    ]
+   },
+   {
+    "term": "Eliminator of Ambiguity",
+    "lang": "en",
+    "counterparts": [
+     "Eliminator der Ambiguität"
+    ]
+   },
+   {
+    "term": "Embodied Cognition",
+    "lang": "en",
+    "counterparts": [
+     "verkörperte Kognition"
+    ]
+   },
+   {
+    "term": "Embodiment",
+    "lang": "en",
+    "counterparts": [
+     "Verkörperung"
+    ]
+   },
+   {
+    "term": "Emergence",
+    "lang": "en",
+    "counterparts": [
+     "Emergenz"
+    ]
+   },
+   {
+    "term": "Emergent",
+    "lang": "en",
+    "counterparts": [
+     "emergierend",
+     "entstehend",
+     "neuentstehend"
+    ]
+   },
+   {
+    "term": "Emergent Closure",
+    "lang": "en",
+    "counterparts": [
+     "emergenter Abschluss"
+    ]
+   },
+   {
+    "term": "Emergent Properties",
+    "lang": "en",
+    "counterparts": [
+     "emergente Eigenschaften"
+    ]
+   },
+   {
+    "term": "Emergent Space",
+    "lang": "en",
+    "counterparts": [
+     "emergenter Raum"
+    ]
+   },
+   {
+    "term": "Emergente",
+    "lang": "de",
+    "counterparts": [
+     "emergent"
+    ]
+   },
+   {
+    "term": "Emergente Anomalie",
+    "lang": "de",
+    "counterparts": [
+     "emergent anomaly"
+    ]
+   },
+   {
+    "term": "Emergenten Ordnung",
+    "lang": "de",
+    "counterparts": [
+     "emergent order"
+    ]
+   },
+   {
+    "term": "Emergenter Sog",
+    "lang": "de",
+    "counterparts": [
+     "emergent pull"
+    ]
+   },
+   {
+    "term": "Emergentes",
+    "lang": "de",
+    "counterparts": [
+     "emergent"
+    ]
+   },
+   {
+    "term": "Emergentismus",
+    "lang": "de",
+    "counterparts": [
+     "emergentism"
+    ]
+   },
+   {
+    "term": "Emergenz",
+    "lang": "de",
+    "counterparts": [
+     "emergence"
+    ]
+   },
+   {
+    "term": "Emotion/Erinnerung",
+    "lang": "de",
+    "counterparts": [
+     "emotion/memory"
+    ]
+   },
+   {
+    "term": "Emotional Bleeding",
+    "lang": "en",
+    "counterparts": [
+     "emotionales Bluten"
+    ]
+   },
+   {
+    "term": "Emotional Confrontation",
+    "lang": "en",
+    "counterparts": [
+     "emotionale Konfrontation"
+    ]
+   },
+   {
+    "term": "Emotional Memory",
+    "lang": "en",
+    "counterparts": [
+     "emotionales Gedächtnis"
+    ]
+   },
+   {
+    "term": "Emotional Part",
+    "lang": "en",
+    "counterparts": [
+     "emotionaler Teil"
+    ]
+   },
+   {
+    "term": "Emotional Parts",
+    "lang": "en",
+    "counterparts": [
+     "emotionale Teile"
+    ]
+   },
+   {
+    "term": "Emotional Parts (EPs)",
+    "lang": "en",
+    "counterparts": [
+     "emotionale Teile (ET)"
+    ]
+   },
+   {
+    "term": "Emotional Truth",
+    "lang": "en",
+    "counterparts": [
+     "emotionale Wahrheit"
+    ]
+   },
+   {
+    "term": "Emotionale Anteile",
+    "lang": "de",
+    "counterparts": [
+     "emotional parts"
+    ]
+   },
+   {
+    "term": "Emotionale Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "emotional coherence"
+    ]
+   },
+   {
+    "term": "Emotionale Konfrontation",
+    "lang": "de",
+    "counterparts": [
+     "emotional confrontation"
+    ]
+   },
+   {
+    "term": "Emotionale Landkarte",
+    "lang": "de",
+    "counterparts": [
+     "emotional map"
+    ]
+   },
+   {
+    "term": "Emotionale Persönlichkeitsanteile",
+    "lang": "de",
+    "counterparts": [
+     "emotional personality parts"
+    ]
+   },
+   {
+    "term": "Emotionale Teile",
+    "lang": "de",
+    "counterparts": [
+     "emotional parts"
+    ]
+   },
+   {
+    "term": "Emotionale Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "emotional truth"
+    ]
+   },
+   {
+    "term": "Emotionalen Persönlichkeitsanteil",
+    "lang": "de",
+    "counterparts": [
+     "emotional personality part"
+    ]
+   },
+   {
+    "term": "Emotionalen Persönlichkeitsanteile",
+    "lang": "de",
+    "counterparts": [
+     "emotional personality parts"
+    ]
+   },
+   {
+    "term": "Emotionalen Persönlichkeitsanteilen",
+    "lang": "de",
+    "counterparts": [
+     "emotional personality parts"
+    ]
+   },
+   {
+    "term": "Emotionalen Teil",
+    "lang": "de",
+    "counterparts": [
+     "emotional part"
+    ]
+   },
+   {
+    "term": "Emotionalen Teilen",
+    "lang": "de",
+    "counterparts": [
+     "emotional parts"
+    ]
+   },
+   {
+    "term": "Emotionalen Teils",
+    "lang": "de",
+    "counterparts": [
+     "emotional part"
+    ]
+   },
+   {
+    "term": "Emotionaler Persönlichkeitsanteil",
+    "lang": "de",
+    "counterparts": [
+     "emotional personality part"
+    ]
+   },
+   {
+    "term": "Emotionaler Teil",
+    "lang": "de",
+    "counterparts": [
+     "emotional part"
+    ]
+   },
+   {
+    "term": "Emotionally Focused Couples Therapy",
+    "lang": "en",
+    "counterparts": [
+     "emotionsfokussierte Paartherapie"
+    ]
+   },
+   {
+    "term": "Emotionsfokussierte Paartherapie",
+    "lang": "de",
+    "counterparts": [
+     "emotionally focused couples therapy"
+    ]
+   },
+   {
+    "term": "Empfindlichkeit der Glukokortikoidrezeptoren",
+    "lang": "de",
+    "counterparts": [
+     "sensitivity of glucocorticoid receptors"
+    ]
+   },
+   {
+    "term": "Emptiness",
+    "lang": "en",
+    "counterparts": [
+     "Leere"
+    ]
+   },
+   {
+    "term": "Enaktive",
+    "lang": "de",
+    "counterparts": [
+     "enactive"
+    ]
+   },
+   {
+    "term": "Enaktivismus",
+    "lang": "de",
+    "counterparts": [
+     "enactivism"
+    ]
+   },
+   {
+    "term": "Encapsulation",
+    "lang": "en",
+    "counterparts": [
+     "Kapselung"
+    ]
+   },
+   {
+    "term": "Encrypted Intent Channels",
+    "lang": "en",
+    "counterparts": [
+     "verschlüsselte Absichtskanäle"
+    ]
+   },
+   {
+    "term": "Encrypted Intent Channels (EIC)",
+    "lang": "en",
+    "counterparts": [
+     "verschlüsselte Absichtskanäle (EIC)"
+    ]
+   },
+   {
+    "term": "Energeia",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Energiedissipation",
+    "lang": "de",
+    "counterparts": [
+     "energy dissipation"
+    ]
+   },
+   {
+    "term": "Energiefeld",
+    "lang": "de",
+    "counterparts": [
+     "energy field"
+    ]
+   },
+   {
+    "term": "Enforcer",
+    "lang": "en",
+    "counterparts": [
+     "Durchsetzer"
+    ]
+   },
+   {
+    "term": "Engine",
+    "lang": "en",
+    "counterparts": [
+     "Motor"
+    ]
+   },
+   {
+    "term": "Enigmatische Katalysatorin",
+    "lang": "de",
+    "counterparts": [
+     "enigmatic catalyst"
+    ]
+   },
+   {
+    "term": "Ensō",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Entailment",
+    "lang": "en",
+    "counterparts": [
+     "Folgerung"
+    ]
+   },
+   {
+    "term": "Entangled",
+    "lang": "en",
+    "counterparts": [
+     "verschränkt"
+    ]
+   },
+   {
+    "term": "Entanglement",
+    "lang": "en",
+    "counterparts": [
+     "Verschränkung"
+    ]
+   },
+   {
+    "term": "Entanglement Islands",
+    "lang": "en",
+    "counterparts": [
+     "Verschränkungsinseln"
+    ]
+   },
+   {
+    "term": "Entertainment Technology Center",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Entity Behavior Analytics",
+    "lang": "en",
+    "counterparts": [
+     "Entitätsverhaltensanalyse"
+    ]
+   },
+   {
+    "term": "Entität AEGIS",
+    "lang": "de",
+    "counterparts": [
+     "entity AEGIS"
+    ]
+   },
+   {
+    "term": "Entität M",
+    "lang": "de",
+    "counterparts": [
+     "entity M"
+    ]
+   },
+   {
+    "term": "Entität Natur",
+    "lang": "de",
+    "counterparts": [
+     "entity nature"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,583 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Swamp",
+    "lang": "en",
+    "counterparts": [
+     "Sumpf",
+     "Morast"
+    ]
+   },
+   {
+    "term": "Swamp of Memory",
+    "lang": "en",
+    "counterparts": [
+     "Sumpf der Erinnerung",
+     "Erinnerungssumpf"
+    ]
+   },
+   {
+    "term": "Switch",
+    "lang": "en",
+    "counterparts": [
+     "Schalter",
+     "Switch",
+     "Umschalter"
+    ]
+   },
+   {
+    "term": "Switches",
+    "lang": "en",
+    "counterparts": [
+     "Schalter",
+     "Switches",
+     "Umschalter"
+    ]
+   },
+   {
+    "term": "Switching",
+    "lang": "en",
+    "counterparts": [
+     "Schalten",
+     "Umschalten",
+     "Switchen"
+    ]
+   },
+   {
+    "term": "Sword Art Online",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Syllogismus",
+    "lang": "de",
+    "counterparts": [
+     "syllogism",
+     "syllogistic"
+    ]
+   },
+   {
+    "term": "Symbiose",
+    "lang": "de",
+    "counterparts": [
+     "symbiosis"
+    ]
+   },
+   {
+    "term": "Symbol Grounding Problem",
+    "lang": "en",
+    "counterparts": [
+     "Symbol-Verankerungs-Problem",
+     "Symbolische Verankerung"
+    ]
+   },
+   {
+    "term": "Symbol Grounding Problems",
+    "lang": "en",
+    "counterparts": [
+     "Symbol-Verankerungs-Probleme"
+    ]
+   },
+   {
+    "term": "Symbolische Ordnung",
+    "lang": "de",
+    "counterparts": [
+     "symbolic order"
+    ]
+   },
+   {
+    "term": "Symbolische Welt",
+    "lang": "de",
+    "counterparts": [
+     "symbolic world"
+    ]
+   },
+   {
+    "term": "Symbolischer Kern",
+    "lang": "de",
+    "counterparts": [
+     "symbolic core"
+    ]
+   },
+   {
+    "term": "Symmetric",
+    "lang": "en",
+    "counterparts": [
+     "symmetrisch"
+    ]
+   },
+   {
+    "term": "Symmetric Multiprocessing",
+    "lang": "en",
+    "counterparts": [
+     "symmetrische Verarbeitung",
+     "symmetrisches Multiprocessing"
+    ]
+   },
+   {
+    "term": "Symmetrie",
+    "lang": "de",
+    "counterparts": [
+     "symmetry"
+    ]
+   },
+   {
+    "term": "Symmetrie des Selbst",
+    "lang": "de",
+    "counterparts": [
+     "symmetry of the self"
+    ]
+   },
+   {
+    "term": "Symmetriebrechung",
+    "lang": "de",
+    "counterparts": [
+     "symmetry breaking"
+    ]
+   },
+   {
+    "term": "Symmetriebruch",
+    "lang": "de",
+    "counterparts": [
+     "symmetry breaking",
+     "symmetry violation"
+    ]
+   },
+   {
+    "term": "Symmetriegruppe",
+    "lang": "de",
+    "counterparts": [
+     "symmetry group"
+    ]
+   },
+   {
+    "term": "Symmetriegruppen",
+    "lang": "de",
+    "counterparts": [
+     "symmetry groups"
+    ]
+   },
+   {
+    "term": "Symmetrieoperationen",
+    "lang": "de",
+    "counterparts": [
+     "symmetry operations"
+    ]
+   },
+   {
+    "term": "Symmetries",
+    "lang": "en",
+    "counterparts": [
+     "Symmetrien"
+    ]
+   },
+   {
+    "term": "Symmetry Restoration",
+    "lang": "en",
+    "counterparts": [
+     "Symmetrierestaurierung",
+     "Wiederherstellung der Symmetrie"
+    ]
+   },
+   {
+    "term": "Sympathikus",
+    "lang": "de",
+    "counterparts": [
+     "sympathetic system",
+     "sympathetic nervous system"
+    ]
+   },
+   {
+    "term": "Sympathikusdominanz",
+    "lang": "de",
+    "counterparts": [
+     "sympathetic dominance"
+    ]
+   },
+   {
+    "term": "Symposium",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Synchronität",
+    "lang": "de",
+    "counterparts": [
+     "synchronicity"
+    ]
+   },
+   {
+    "term": "Synchronizität",
+    "lang": "de",
+    "counterparts": [
+     "synchronicity"
+    ]
+   },
+   {
+    "term": "Synergetics",
+    "lang": "en",
+    "counterparts": [
+     "Synergetik"
+    ]
+   },
+   {
+    "term": "Synergetik",
+    "lang": "de",
+    "counterparts": [
+     "synergetics"
+    ]
+   },
+   {
+    "term": "Syntaxfehler",
+    "lang": "de",
+    "counterparts": [
+     "syntax error"
+    ]
+   },
+   {
+    "term": "Synthesis and Integration Center",
+    "lang": "en",
+    "counterparts": [
+     "Synthese- und Integrationszentrum"
+    ]
+   },
+   {
+    "term": "System",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "System AEGIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "System Architect",
+    "lang": "en",
+    "counterparts": [
+     "Systemarchitekt"
+    ]
+   },
+   {
+    "term": "System Design Language Specification",
+    "lang": "en",
+    "counterparts": [
+     "Systementwurfssprachspezifikation",
+     "System-Design-Language-Spezifikation"
+    ]
+   },
+   {
+    "term": "System Kael",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "System Lead",
+    "lang": "en",
+    "counterparts": [
+     "Systemleitung",
+     "Systemführer"
+    ]
+   },
+   {
+    "term": "System Mind",
+    "lang": "en",
+    "counterparts": [
+     "Systemgeist",
+     "Systembewusstsein"
+    ]
+   },
+   {
+    "term": "System Reset",
+    "lang": "en",
+    "counterparts": [
+     "Systemrücksetzung",
+     "Systemreset"
+    ]
+   },
+   {
+    "term": "System Shock",
+    "lang": "en",
+    "counterparts": [
+     "System Shock",
+     "Systemerschütterung"
+    ]
+   },
+   {
+    "term": "System-Dirigent",
+    "lang": "de",
+    "counterparts": [
+     "system conductor",
+     "system director"
+    ]
+   },
+   {
+    "term": "System-Dirigenten",
+    "lang": "de",
+    "counterparts": [
+     "system conductors",
+     "system directors"
+    ]
+   },
+   {
+    "term": "System-Host",
+    "lang": "de",
+    "counterparts": [
+     "system host"
+    ]
+   },
+   {
+    "term": "System-Monitor",
+    "lang": "de",
+    "counterparts": [
+     "system monitor"
+    ]
+   },
+   {
+    "term": "System-Perspektive",
+    "lang": "de",
+    "counterparts": [
+     "system perspective"
+    ]
+   },
+   {
+    "term": "System-Prompt",
+    "lang": "de",
+    "counterparts": [
+     "system prompt"
+    ]
+   },
+   {
+    "term": "SystemTheory",
+    "lang": "en",
+    "counterparts": [
+     "Systemtheorie"
+    ]
+   },
+   {
+    "term": "Systemalarme",
+    "lang": "de",
+    "counterparts": [
+     "system alarms"
+    ]
+   },
+   {
+    "term": "Systemanalytiker",
+    "lang": "de",
+    "counterparts": [
+     "system analyst"
+    ]
+   },
+   {
+    "term": "Systemarchetyp",
+    "lang": "de",
+    "counterparts": [
+     "system archetype"
+    ]
+   },
+   {
+    "term": "Systemarchitektur",
+    "lang": "de",
+    "counterparts": [
+     "system architecture"
+    ]
+   },
+   {
+    "term": "Systematic Agency",
+    "lang": "en",
+    "counterparts": [
+     "systematische Agentur",
+     "systematische Behörde"
+    ]
+   },
+   {
+    "term": "Systemgrenze",
+    "lang": "de",
+    "counterparts": [
+     "system boundary"
+    ]
+   },
+   {
+    "term": "Systemhüter",
+    "lang": "de",
+    "counterparts": [
+     "system guardian",
+     "system keeper"
+    ]
+   },
+   {
+    "term": "Systemic Anomaly",
+    "lang": "en",
+    "counterparts": [
+     "systemische Anomalie"
+    ]
+   },
+   {
+    "term": "Systemic Conflict",
+    "lang": "en",
+    "counterparts": [
+     "systemischer Konflikt"
+    ]
+   },
+   {
+    "term": "Systemic Cycles",
+    "lang": "en",
+    "counterparts": [
+     "systemische Zyklen"
+    ]
+   },
+   {
+    "term": "Systemic Field",
+    "lang": "en",
+    "counterparts": [
+     "systemisches Feld"
+    ]
+   },
+   {
+    "term": "Systemic Identity Safeguard",
+    "lang": "en",
+    "counterparts": [
+     "systemische Identitätssicherung"
+    ]
+   },
+   {
+    "term": "Systemic Intervention",
+    "lang": "en",
+    "counterparts": [
+     "systemische Intervention"
+    ]
+   },
+   {
+    "term": "Systemic Isolation Shield",
+    "lang": "en",
+    "counterparts": [
+     "systemische Isolationsschutz",
+     "systemischer Isolationsschild"
+    ]
+   },
+   {
+    "term": "Systemic Responsibility",
+    "lang": "en",
+    "counterparts": [
+     "systemische Verantwortung"
+    ]
+   },
+   {
+    "term": "Systemidentität",
+    "lang": "de",
+    "counterparts": [
+     "system identity"
+    ]
+   },
+   {
+    "term": "Systemik",
+    "lang": "de",
+    "counterparts": [
+     "systemics"
+    ]
+   },
+   {
+    "term": "Systeminitialisierung",
+    "lang": "de",
+    "counterparts": [
+     "system initialization"
+    ]
+   },
+   {
+    "term": "Systeminkonsistenz",
+    "lang": "de",
+    "counterparts": [
+     "system inconsistency"
+    ]
+   },
+   {
+    "term": "Systemintegrität",
+    "lang": "de",
+    "counterparts": [
+     "system integrity"
+    ]
+   },
+   {
+    "term": "Systemische Anomalie",
+    "lang": "de",
+    "counterparts": [
+     "systemic anomaly"
+    ]
+   },
+   {
+    "term": "Systemische Aufrechterhaltung",
+    "lang": "de",
+    "counterparts": [
+     "systemic maintenance",
+     "systemic sustainment"
+    ]
+   },
+   {
+    "term": "Systemische Handlungsfähigkeit",
+    "lang": "de",
+    "counterparts": [
+     "systemic agency",
+     "systemic capacity for action"
+    ]
+   },
+   {
+    "term": "Systemische Intervention",
+    "lang": "de",
+    "counterparts": [
+     "systemic intervention"
+    ]
+   },
+   {
+    "term": "Systemische Verantwortungsübernahme",
+    "lang": "de",
+    "counterparts": [
+     "systemic assumption of responsibility"
+    ]
+   },
+   {
+    "term": "Systemische Zyklen",
+    "lang": "de",
+    "counterparts": [
+     "systemic cycles"
+    ]
+   },
+   {
+    "term": "Systemischer Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "systemic collapse"
+    ]
+   },
+   {
+    "term": "Systemkohärenz",
+    "lang": "de",
+    "counterparts": [
+     "system coherence"
+    ]
+   },
+   {
+    "term": "Systemkollaps",
+    "lang": "de",
+    "counterparts": [
+     "system collapse"
+    ]
+   },
+   {
+    "term": "Systemlogik",
+    "lang": "de",
+    "counterparts": [
+     "system logic"
+    ]
+   },
+   {
+    "term": "Systemmanipulator",
+    "lang": "de",
+    "counterparts": [
+     "system manipulator"
+    ]
+   }
+  ]
+ }
+}

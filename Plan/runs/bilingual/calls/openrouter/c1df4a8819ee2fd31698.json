@@ -1,0 +1,569 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Global Workspace",
+    "lang": "en",
+    "counterparts": [
+     "Globaler Arbeitsbereich",
+     "Globaler Arbeitsraum",
+     "Globaler Arbeitsplatz"
+    ]
+   },
+   {
+    "term": "Global Workspace Theory",
+    "lang": "en",
+    "counterparts": [
+     "Theorie des Globalen Arbeitsbereichs",
+     "Globale Arbeitsraum-Theorie",
+     "Globale Arbeitsplatz-Theorie"
+    ]
+   },
+   {
+    "term": "Glocke",
+    "lang": "de",
+    "counterparts": [
+     "Bell"
+    ]
+   },
+   {
+    "term": "Glukosestoffwechsel",
+    "lang": "de",
+    "counterparts": [
+     "glucose metabolism"
+    ]
+   },
+   {
+    "term": "Glutamat",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Glutamat-Überflutung",
+    "lang": "de",
+    "counterparts": [
+     "glutamate overflow",
+     "glutamate flooding",
+     "glutamate excess"
+    ]
+   },
+   {
+    "term": "Gnosis",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Gnostic",
+    "lang": "en",
+    "counterparts": [
+     "gnostisch"
+    ]
+   },
+   {
+    "term": "Gnosticism",
+    "lang": "en",
+    "counterparts": [
+     "Gnostizismus"
+    ]
+   },
+   {
+    "term": "Go",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Goal",
+    "lang": "en",
+    "counterparts": [
+     "Ziel"
+    ]
+   },
+   {
+    "term": "Goal Drift",
+    "lang": "en",
+    "counterparts": [
+     "Zieldrift",
+     "Zielabweichung",
+     "Zielverschiebung"
+    ]
+   },
+   {
+    "term": "God",
+    "lang": "en",
+    "counterparts": [
+     "Gott"
+    ]
+   },
+   {
+    "term": "Goddess",
+    "lang": "en",
+    "counterparts": [
+     "Göttin"
+    ]
+   },
+   {
+    "term": "Golay-Code",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Golay-Symmetrie",
+    "lang": "de",
+    "counterparts": [
+     "Golay symmetry"
+    ]
+   },
+   {
+    "term": "Goldene",
+    "lang": "de",
+    "counterparts": [
+     "golden"
+    ]
+   },
+   {
+    "term": "Good-Kombination",
+    "lang": "de",
+    "counterparts": [
+     "good combination"
+    ]
+   },
+   {
+    "term": "Good-Paradigma",
+    "lang": "de",
+    "counterparts": [
+     "good paradigm"
+    ]
+   },
+   {
+    "term": "Google",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Google Jules",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gott",
+    "lang": "de",
+    "counterparts": [
+     "God"
+    ]
+   },
+   {
+    "term": "Gottesauge",
+    "lang": "de",
+    "counterparts": [
+     "God's eye"
+    ]
+   },
+   {
+    "term": "Governance",
+    "lang": "en",
+    "counterparts": [
+     "Governance",
+     "Regierungführung",
+     "Steuerung"
+    ]
+   },
+   {
+    "term": "Grad der Schädigungsfolgen",
+    "lang": "de",
+    "counterparts": [
+     "degree of damage consequences",
+     "extent of damage effects",
+     "damage severity"
+    ]
+   },
+   {
+    "term": "Graham",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Graham Priest",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Grand",
+    "lang": "en",
+    "counterparts": [
+     "groß",
+     "grandios",
+     "prächtig"
+    ]
+   },
+   {
+    "term": "Grand Argument",
+    "lang": "en",
+    "counterparts": [
+     "großes Argument",
+     "grandioses Argument",
+     "starkes Argument"
+    ]
+   },
+   {
+    "term": "Grand Argument Story",
+    "lang": "en",
+    "counterparts": [
+     "große Argumentgeschichte",
+     "grandioses Argument-Story",
+     "starke Argumentgeschichte"
+    ]
+   },
+   {
+    "term": "Granovetter",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Granting Separate Existence",
+    "lang": "en",
+    "counterparts": [
+     "Gewährung getrennter Existenz",
+     "Zugeständnis separater Existenz",
+     "Separate Existenz gewähren"
+    ]
+   },
+   {
+    "term": "Granularität",
+    "lang": "de",
+    "counterparts": [
+     "granularity"
+    ]
+   },
+   {
+    "term": "Graph",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "GraphRAG-Datenbanken",
+    "lang": "de",
+    "counterparts": [
+     "GraphRAG databases"
+    ]
+   },
+   {
+    "term": "Graphentheorie",
+    "lang": "de",
+    "counterparts": [
+     "graph theory"
+    ]
+   },
+   {
+    "term": "Gravitation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Gravitation der Korrespondenz",
+    "lang": "de",
+    "counterparts": [
+     "gravitation of correspondence"
+    ]
+   },
+   {
+    "term": "Gravitation des Datums",
+    "lang": "de",
+    "counterparts": [
+     "gravitation of the date"
+    ]
+   },
+   {
+    "term": "Gravitations-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "gravitation theory"
+    ]
+   },
+   {
+    "term": "Gravitationsarchitektur",
+    "lang": "de",
+    "counterparts": [
+     "gravitation architecture"
+    ]
+   },
+   {
+    "term": "Gravitationsfeld",
+    "lang": "de",
+    "counterparts": [
+     "gravitation field"
+    ]
+   },
+   {
+    "term": "Gravitationsleckage",
+    "lang": "de",
+    "counterparts": [
+     "gravitation leakage"
+    ]
+   },
+   {
+    "term": "Great",
+    "lang": "en",
+    "counterparts": [
+     "groß",
+     "prächtig",
+     "hervorragend"
+    ]
+   },
+   {
+    "term": "Greg",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Grenz-Integritäts-Feld",
+    "lang": "de",
+    "counterparts": [
+     "border integrity field"
+    ]
+   },
+   {
+    "term": "Grenzbildung",
+    "lang": "de",
+    "counterparts": [
+     "border formation"
+    ]
+   },
+   {
+    "term": "Grenzen Formaler Systeme",
+    "lang": "de",
+    "counterparts": [
+     "limits of formal systems"
+    ]
+   },
+   {
+    "term": "Grenzen der Beweisbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "limits of provability"
+    ]
+   },
+   {
+    "term": "Grenzen der Berechenbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "limits of computability"
+    ]
+   },
+   {
+    "term": "Grenzen der Logik",
+    "lang": "de",
+    "counterparts": [
+     "limits of logic"
+    ]
+   },
+   {
+    "term": "Grenzen der Selbstkenntnis",
+    "lang": "de",
+    "counterparts": [
+     "limits of self-knowledge"
+    ]
+   },
+   {
+    "term": "Grenzen der Simulation",
+    "lang": "de",
+    "counterparts": [
+     "limits of simulation"
+    ]
+   },
+   {
+    "term": "Grenzen der Vernunft",
+    "lang": "de",
+    "counterparts": [
+     "limits of reason"
+    ]
+   },
+   {
+    "term": "Grenzen der Vorhersagbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "limits of predictability"
+    ]
+   },
+   {
+    "term": "Grenzen des Denkens",
+    "lang": "de",
+    "counterparts": [
+     "limits of thought"
+    ]
+   },
+   {
+    "term": "Grenzen des Selbst",
+    "lang": "de",
+    "counterparts": [
+     "limits of the self"
+    ]
+   },
+   {
+    "term": "Grenzen des Wissens",
+    "lang": "de",
+    "counterparts": [
+     "limits of knowledge"
+    ]
+   },
+   {
+    "term": "Grenzerhaltung",
+    "lang": "de",
+    "counterparts": [
+     "border maintenance"
+    ]
+   },
+   {
+    "term": "Grenzfeste",
+    "lang": "de",
+    "counterparts": [
+     "border fort"
+    ]
+   },
+   {
+    "term": "Grenzfestung",
+    "lang": "de",
+    "counterparts": [
+     "border fortification"
+    ]
+   },
+   {
+    "term": "Grenzfläche",
+    "lang": "de",
+    "counterparts": [
+     "interface"
+    ]
+   },
+   {
+    "term": "Grenzraum",
+    "lang": "de",
+    "counterparts": [
+     "border region"
+    ]
+   },
+   {
+    "term": "Grenzsituation",
+    "lang": "de",
+    "counterparts": [
+     "border situation"
+    ]
+   },
+   {
+    "term": "Grenzsituationen",
+    "lang": "de",
+    "counterparts": [
+     "border situations"
+    ]
+   },
+   {
+    "term": "Grenzwahrung",
+    "lang": "de",
+    "counterparts": [
+     "border preservation"
+    ]
+   },
+   {
+    "term": "Grenzyklen",
+    "lang": "de",
+    "counterparts": [
+     "border cycles"
+    ]
+   },
+   {
+    "term": "Greyout",
+    "lang": "en",
+    "counterparts": [
+     "Ausblendung",
+     "Grauer Ausfall",
+     "Greyout"
+    ]
+   },
+   {
+    "term": "Griess",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Griess-Algebra",
+    "lang": "de",
+    "counterparts": [
+     "Griess algebra"
+    ]
+   },
+   {
+    "term": "Grounded Responding",
+    "lang": "en",
+    "counterparts": [
+     "grounded responding",
+     "fundierte Antwortgebung",
+     "basierte Antwort"
+    ]
+   },
+   {
+    "term": "Grounding",
+    "lang": "en",
+    "counterparts": [
+     "Fundierung",
+     "Grounding",
+     "Verankerung"
+    ]
+   },
+   {
+    "term": "Group",
+    "lang": "en",
+    "counterparts": [
+     "Gruppe"
+    ]
+   },
+   {
+    "term": "GroupTheory",
+    "lang": "en",
+    "counterparts": [
+     "Gruppentheorie"
+    ]
+   },
+   {
+    "term": "Groupprops",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Groups",
+    "lang": "en",
+    "counterparts": [
+     "Gruppen"
+    ]
+   },
+   {
+    "term": "Growth",
+    "lang": "en",
+    "counterparts": [
+     "Wachstum"
+    ]
+   },
+   {
+    "term": "Große",
+    "lang": "de",
+    "counterparts": [
+     "great",
+     "large",
+     "big"
+    ]
+   },
+   {
+    "term": "Große Angriff",
+    "lang": "de",
+    "counterparts": [
+     "big attack"
+    ]
+   },
+   {
+    "term": "Große Faktum",
+    "lang": "de",
+    "counterparts": [
+     "great fact"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,612 @@
+{
+ "model": "poolside/laguna-s-2.1:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "RNA",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "RNA-Welt",
+    "lang": "de",
+    "counterparts": [
+     "RNA world"
+    ]
+   },
+   {
+    "term": "ROAs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ROCKS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RPKI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RQD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RQFT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RS Domain",
+    "lang": "en",
+    "counterparts": [
+     "RS-Domäne",
+     "RS-Bereich",
+     "RS-Gebiet"
+    ]
+   },
+   {
+    "term": "RS-AExam",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RS-Slots",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RSA",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "RSD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RTC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RTF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RTSV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RTSV-Protokolle",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Race Conditions",
+    "lang": "en",
+    "counterparts": [
+     "Race-Conditions",
+     "Race-Condition",
+     "Rennbedingungen"
+    ]
+   },
+   {
+    "term": "Race-Condition-Ende",
+    "lang": "de",
+    "counterparts": [
+     "Race Condition End",
+     "Race-Condition-End",
+     "End of Race Condition"
+    ]
+   },
+   {
+    "term": "Radical",
+    "lang": "en",
+    "counterparts": [
+     "Radikal",
+     "Radikale",
+     "Radikaler"
+    ]
+   },
+   {
+    "term": "Radikal",
+    "lang": "de",
+    "counterparts": [
+     "Radical",
+     "Radikale",
+     "Radicals"
+    ]
+   },
+   {
+    "term": "Radikaler OSR",
+    "lang": "de",
+    "counterparts": [
+     "Radical OSR",
+     "Radikaler OSR",
+     "Radical Operating System"
+    ]
+   },
+   {
+    "term": "Radikalisierung",
+    "lang": "de",
+    "counterparts": [
+     "Radicalization",
+     "Radikalisierung",
+     "Radicalisation"
+    ]
+   },
+   {
+    "term": "Rafael",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rage",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Raji",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rand",
+    "lang": "de",
+    "counterparts": [
+     "Edge",
+     "Border",
+     "Rim"
+    ]
+   },
+   {
+    "term": "Rand des Chaos",
+    "lang": "de",
+    "counterparts": [
+     "Edge of Chaos",
+     "Edge of Chaos",
+     "Chaos Edge"
+    ]
+   },
+   {
+    "term": "Randall-Sundrum",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rat",
+    "lang": "de",
+    "counterparts": [
+     "Advice",
+     "Council",
+     "Recommendation"
+    ]
+   },
+   {
+    "term": "Rational",
+    "lang": "en",
+    "counterparts": [
+     "Rational",
+     "Rationaler",
+     "Rationalität"
+    ]
+   },
+   {
+    "term": "Rationale ANP",
+    "lang": "en",
+    "counterparts": [
+     "Rationale ANP",
+     "Rationaler ANP",
+     "Rational ANP"
+    ]
+   },
+   {
+    "term": "Rationaler",
+    "lang": "de",
+    "counterparts": [
+     "Rational",
+     "Rationaler",
+     "Rationalist"
+    ]
+   },
+   {
+    "term": "Rationaler ANP",
+    "lang": "de",
+    "counterparts": [
+     "Rational ANP",
+     "Rationaler ANP",
+     "Rationale ANP"
+    ]
+   },
+   {
+    "term": "Rationalismus",
+    "lang": "de",
+    "counterparts": [
+     "Rationalism",
+     "Rationalismus",
+     "Rationalist Philosophy"
+    ]
+   },
+   {
+    "term": "Rationalist",
+    "lang": "en",
+    "counterparts": [
+     "Rationalist",
+     "Rationalist",
+     "Rationalist"
+    ]
+   },
+   {
+    "term": "Rationalist ANP",
+    "lang": "en",
+    "counterparts": [
+     "Rationalist ANP",
+     "Rationalist ANP",
+     "Rationalist ANP"
+    ]
+   },
+   {
+    "term": "Rationalisten Lex",
+    "lang": "de",
+    "counterparts": [
+     "Rationalist Lex",
+     "Rationalist Lex",
+     "Rationalist's Lex"
+    ]
+   },
+   {
+    "term": "Rationalization",
+    "lang": "en",
+    "counterparts": [
+     "Rationalisierung",
+     "Rationalisierung",
+     "Rationalization"
+    ]
+   },
+   {
+    "term": "Raumbereich",
+    "lang": "de",
+    "counterparts": [
+     "Space Area",
+     "Space Domain",
+     "Spatial Area"
+    ]
+   },
+   {
+    "term": "Raumzeit",
+    "lang": "de",
+    "counterparts": [
+     "Spacetime",
+     "Space-time",
+     "Space Time"
+    ]
+   },
+   {
+    "term": "Raumzeit-Granularität",
+    "lang": "de",
+    "counterparts": [
+     "Spacetime Granularity",
+     "Space-time Granularity",
+     "Spacetime Resolution"
+    ]
+   },
+   {
+    "term": "Raumzeitgeometrie",
+    "lang": "de",
+    "counterparts": [
+     "Spacetime Geometry",
+     "Space-time Geometry",
+     "Spacetime Geometry"
+    ]
+   },
+   {
+    "term": "Rausch",
+    "lang": "de",
+    "counterparts": [
+     "Noise",
+     "Rausch",
+     "Interference"
+    ]
+   },
+   {
+    "term": "Rauschen",
+    "lang": "de",
+    "counterparts": [
+     "Noise",
+     "Rauschen",
+     "Interference"
+    ]
+   },
+   {
+    "term": "Re-Connecting",
+    "lang": "en",
+    "counterparts": [
+     "Re-Connecting",
+     "Re-Connecting",
+     "Re-Connecting"
+    ]
+   },
+   {
+    "term": "Re-Integration",
+    "lang": "en",
+    "counterparts": [
+     "Re-Integration",
+     "Re-Integration",
+     "Reintegration"
+    ]
+   },
+   {
+    "term": "Re-enactment",
+    "lang": "en",
+    "counterparts": [
+     "Re-enactment",
+     "Re-enactment",
+     "Reenactment"
+    ]
+   },
+   {
+    "term": "Re-entry",
+    "lang": "en",
+    "counterparts": [
+     "Re-entry",
+     "Re-entry",
+     "Reentry"
+    ]
+   },
+   {
+    "term": "ReAct",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ReAct-Frameworks",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "RePEc",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Reaction Formation",
+    "lang": "en",
+    "counterparts": [
+     "Reaktionsbildung",
+     "Reaction Formation",
+     "Reaktionsbildung"
+    ]
+   },
+   {
+    "term": "Reactivation",
+    "lang": "en",
+    "counterparts": [
+     "Reaktivierung",
+     "Reactivation",
+     "Reaktivierung"
+    ]
+   },
+   {
+    "term": "Reader",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Reader-Response",
+    "lang": "en",
+    "counterparts": [
+     "Reader-Response",
+     "Reader-Response",
+     "Reader Response"
+    ]
+   },
+   {
+    "term": "Reader-Response Theory",
+    "lang": "en",
+    "counterparts": [
+     "Reader-Response-Theorie",
+     "Reader-Response Theory",
+     "Reader Response Theory"
+    ]
+   },
+   {
+    "term": "Reader-as-Substrate",
+    "lang": "en",
+    "counterparts": [
+     "Reader-as-Substrate",
+     "Reader-as-Substrate",
+     "Reader-as-Substrate"
+    ]
+   },
+   {
+    "term": "Ready Player One",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Reaktionsbildung",
+    "lang": "de",
+    "counterparts": [
+     "Reaction Formation",
+     "Reaktionsbildung",
+     "Reaction Formation"
+    ]
+   },
+   {
+    "term": "Real",
+    "lang": "en",
+    "counterparts": [
+     "Real",
+     "Real",
+     "Real"
+    ]
+   },
+   {
+    "term": "Realignment",
+    "lang": "en",
+    "counterparts": [
+     "Neuausrichtung",
+     "Realignment",
+     "Realignment"
+    ]
+   },
+   {
+    "term": "Realism",
+    "lang": "en",
+    "counterparts": [
+     "Realismus",
+     "Realism",
+     "Realismus"
+    ]
+   },
+   {
+    "term": "Realismus",
+    "lang": "de",
+    "counterparts": [
+     "Realism",
+     "Realismus",
+     "Realist Philosophy"
+    ]
+   },
+   {
+    "term": "Realität des Autors",
+    "lang": "de",
+    "counterparts": [
+     "Author's Reality",
+     "Author Reality",
+     "Author's Realität"
+    ]
+   },
+   {
+    "term": "Realitätsbruch",
+    "lang": "de",
+    "counterparts": [
+     "Reality Break",
+     "Realitätsbruch",
+     "Break in Reality"
+    ]
+   },
+   {
+    "term": "Realitätsebene",
+    "lang": "de",
+    "counterparts": [
+     "Reality Level",
+     "Realitätsebene",
+     "Reality Layer"
+    ]
+   },
+   {
+    "term": "Realitätsebenen",
+    "lang": "de",
+    "counterparts": [
+     "Reality Levels",
+     "Realitätsebenen",
+     "Reality Layers"
+    ]
+   },
+   {
+    "term": "Realitätserhaltung",
+    "lang": "de",
+    "counterparts": [
+     "Reality Preservation",
+     "Realitätserhaltung",
+     "Preservation of Reality"
+    ]
+   },
+   {
+    "term": "Realitätslabor",
+    "lang": "de",
+    "counterparts": [
+     "Reality Lab",
+     "Realitätslabor",
+     "Reality Laboratory"
+    ]
+   },
+   {
+    "term": "Realitätsprinzip",
+    "lang": "de",
+    "counterparts": [
+     "Reality Principle",
+     "Realitätsprinzip",
+     "Principle of Reality"
+    ]
+   },
+   {
+    "term": "Realitätsschichten",
+    "lang": "de",
+    "counterparts": [
+     "Reality Layers",
+     "Realitätsschichten",
+     "Reality Strata"
+    ]
+   },
+   {
+    "term": "Realitätstypen",
+    "lang": "de",
+    "counterparts": [
+     "Reality Types",
+     "Realitätstypen",
+     "Types of Reality"
+    ]
+   },
+   {
+    "term": "Rebel",
+    "lang": "en",
+    "counterparts": [
+     "Rebel",
+     "Rebell",
+     "Rebellen"
+    ]
+   },
+   {
+    "term": "Reboot",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Rebooted Self",
+    "lang": "en",
+    "counterparts": [
+     "Rebooted Self",
+     "Rebooted Self",
+     "Rebooted Self"
+    ]
+   },
+   {
+    "term": "Recag",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Rechenkerne",
+    "lang": "de",
+    "counterparts": [
+     "Processing Cores",
+     "Rechenkerne",
+     "CPU Cores"
+    ]
+   },
+   {
+    "term": "Rechtsprechung des Bundessozialgerichts",
+    "lang": "de",
+    "counterparts": [
+     "Jurisprudence of the Federal Social Court",
+     "Rechtsprechung des Bundessozialgerichts",
+     "Federal Social Court Jurisprudence"
+    ]
+   }
+  ]
+ }
+}

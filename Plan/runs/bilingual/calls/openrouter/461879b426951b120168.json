@@ -1,0 +1,559 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "NP-Klasse",
+    "lang": "de",
+    "counterparts": [
+     "NP class"
+    ]
+   },
+   {
+    "term": "NP-Schwer",
+    "lang": "de",
+    "counterparts": [
+     "NP-hard"
+    ]
+   },
+   {
+    "term": "NP-Search",
+    "lang": "en",
+    "counterparts": [
+     "NP-Suche",
+     "NP-Suchalgorithmus",
+     "NP-Suchverfahren"
+    ]
+   },
+   {
+    "term": "NP-Suche",
+    "lang": "de",
+    "counterparts": [
+     "NP-Search",
+     "NP search"
+    ]
+   },
+   {
+    "term": "NP-Verifikation",
+    "lang": "de",
+    "counterparts": [
+     "NP-verification",
+     "NP verification"
+    ]
+   },
+   {
+    "term": "NP-complete",
+    "lang": "en",
+    "counterparts": [
+     "NP-vollständig"
+    ]
+   },
+   {
+    "term": "NP-hard",
+    "lang": "en",
+    "counterparts": [
+     "NP-schwer"
+    ]
+   },
+   {
+    "term": "NP-schwer",
+    "lang": "de",
+    "counterparts": [
+     "NP-hard"
+    ]
+   },
+   {
+    "term": "NP-schwere",
+    "lang": "de",
+    "counterparts": [
+     "NP-hard"
+    ]
+   },
+   {
+    "term": "NP-schweres",
+    "lang": "de",
+    "counterparts": [
+     "NP-hard"
+    ]
+   },
+   {
+    "term": "NP-vollständig",
+    "lang": "de",
+    "counterparts": [
+     "NP-complete"
+    ]
+   },
+   {
+    "term": "NPC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NPCs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NR3C1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NTM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NULL",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "NULL-STATE",
+    "lang": "en",
+    "counterparts": [
+     "NULL-Zustand"
+    ]
+   },
+   {
+    "term": "NUMA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "NZT-Modus",
+    "lang": "de",
+    "counterparts": [
+     "NZT mode"
+    ]
+   },
+   {
+    "term": "Nachwirkende Leere",
+    "lang": "de",
+    "counterparts": [
+     "lingering emptiness"
+    ]
+   },
+   {
+    "term": "Nagarjuna",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Naht",
+    "lang": "de",
+    "counterparts": [
+     "seam"
+    ]
+   },
+   {
+    "term": "Naive Entropy",
+    "lang": "en",
+    "counterparts": [
+     "naive Entropie"
+    ]
+   },
+   {
+    "term": "Namenlos",
+    "lang": "de",
+    "counterparts": [
+     "nameless"
+    ]
+   },
+   {
+    "term": "NanoClaw",
+    "lang": "en",
+    "counterparts": [
+     "Nano-Klaue"
+    ]
+   },
+   {
+    "term": "Nanobot",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Narrations-Prompt",
+    "lang": "en",
+    "counterparts": [
+     "Narrationsaufforderung"
+    ]
+   },
+   {
+    "term": "Narrative Alignment",
+    "lang": "en",
+    "counterparts": [
+     "Narrative Ausrichtung"
+    ]
+   },
+   {
+    "term": "Narrative Ausrichtung",
+    "lang": "de",
+    "counterparts": [
+     "Narrative Alignment"
+    ]
+   },
+   {
+    "term": "Narrative Code",
+    "lang": "en",
+    "counterparts": [
+     "Narrativer Code"
+    ]
+   },
+   {
+    "term": "Narrative Context Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Narrativer Kontext-Protokoll"
+    ]
+   },
+   {
+    "term": "Narrative Context Protocol (NCP)",
+    "lang": "en",
+    "counterparts": [
+     "Narrativer Kontext-Protokoll (NKP)"
+    ]
+   },
+   {
+    "term": "Narrative Context Protocols",
+    "lang": "en",
+    "counterparts": [
+     "Narrative Kontext-Protokolle"
+    ]
+   },
+   {
+    "term": "Narrative Expositionstherapie",
+    "lang": "de",
+    "counterparts": [
+     "Narrative exposure therapy"
+    ]
+   },
+   {
+    "term": "Narrative Field",
+    "lang": "en",
+    "counterparts": [
+     "Narratives Feld"
+    ]
+   },
+   {
+    "term": "Narrative Form",
+    "lang": "en",
+    "counterparts": [
+     "Erzählform"
+    ]
+   },
+   {
+    "term": "Narrative Identitätstheorie",
+    "lang": "de",
+    "counterparts": [
+     "Narrative identity theory"
+    ]
+   },
+   {
+    "term": "Narrative Isomorphie",
+    "lang": "de",
+    "counterparts": [
+     "Narrative isomorphism"
+    ]
+   },
+   {
+    "term": "Narrative Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "Narrative coherence"
+    ]
+   },
+   {
+    "term": "Narrative Physik",
+    "lang": "de",
+    "counterparts": [
+     "Narrative physics"
+    ]
+   },
+   {
+    "term": "Narrative Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Narratives Protokoll"
+    ]
+   },
+   {
+    "term": "Narrative Sequenz",
+    "lang": "de",
+    "counterparts": [
+     "Narrative sequence"
+    ]
+   },
+   {
+    "term": "Narrative System",
+    "lang": "en",
+    "counterparts": [
+     "Narratives System"
+    ]
+   },
+   {
+    "term": "Narrative Transportation",
+    "lang": "en",
+    "counterparts": [
+     "Narrative Versenkung"
+    ]
+   },
+   {
+    "term": "Narratologie",
+    "lang": "de",
+    "counterparts": [
+     "Narratology"
+    ]
+   },
+   {
+    "term": "Narrator",
+    "lang": "en",
+    "counterparts": [
+     "Erzähler"
+    ]
+   },
+   {
+    "term": "Narrova",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Narrow AI",
+    "lang": "en",
+    "counterparts": [
+     "schwache KI",
+     "enge KI"
+    ]
+   },
+   {
+    "term": "Nash-Gleichgewicht",
+    "lang": "de",
+    "counterparts": [
+     "Nash equilibrium"
+    ]
+   },
+   {
+    "term": "Nationales Konzept Seltene Krankheiten",
+    "lang": "de",
+    "counterparts": [
+     "National Concept for Rare Diseases"
+    ]
+   },
+   {
+    "term": "Natural Language Cognitive Architecture",
+    "lang": "en",
+    "counterparts": [
+     "Natürliche Sprach-Kognitive Architektur",
+     "Natürliche Sprachkognitive Architektur"
+    ]
+   },
+   {
+    "term": "Natural Language Processing",
+    "lang": "en",
+    "counterparts": [
+     "Natürliche Sprachverarbeitung"
+    ]
+   },
+   {
+    "term": "Naturgesetz",
+    "lang": "de",
+    "counterparts": [
+     "law of nature",
+     "natural law"
+    ]
+   },
+   {
+    "term": "Nebenklasse",
+    "lang": "de",
+    "counterparts": [
+     "subclass"
+    ]
+   },
+   {
+    "term": "Nebenklassen",
+    "lang": "de",
+    "counterparts": [
+     "subclasses"
+    ]
+   },
+   {
+    "term": "Nebenläufigkeit",
+    "lang": "de",
+    "counterparts": [
+     "concurrency",
+     "parallelism"
+    ]
+   },
+   {
+    "term": "Necessary Defense",
+    "lang": "en",
+    "counterparts": [
+     "Notwehr"
+    ]
+   },
+   {
+    "term": "Negative Space",
+    "lang": "en",
+    "counterparts": [
+     "Negativraum"
+    ]
+   },
+   {
+    "term": "Negative Syndrome Scale",
+    "lang": "en",
+    "counterparts": [
+     "Negative-Syndrom-Skala"
+    ]
+   },
+   {
+    "term": "Negative Theology",
+    "lang": "en",
+    "counterparts": [
+     "Negative Theologie",
+     "apophatische Theologie"
+    ]
+   },
+   {
+    "term": "Negativraum",
+    "lang": "de",
+    "counterparts": [
+     "negative space"
+    ]
+   },
+   {
+    "term": "Negentropie",
+    "lang": "de",
+    "counterparts": [
+     "negentropy",
+     "negative entropy"
+    ]
+   },
+   {
+    "term": "Negentropie-Engine",
+    "lang": "de",
+    "counterparts": [
+     "Negentropy Engine"
+    ]
+   },
+   {
+    "term": "Negentropie-Fehlinterpretation",
+    "lang": "de",
+    "counterparts": [
+     "misinterpretation of negentropy"
+    ]
+   },
+   {
+    "term": "Neither",
+    "lang": "en",
+    "counterparts": [
+     "weder",
+     "keines von beiden"
+    ]
+   },
+   {
+    "term": "Neo4j",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Neoplatonismus",
+    "lang": "de",
+    "counterparts": [
+     "Neoplatonism"
+    ]
+   },
+   {
+    "term": "Nervensystem",
+    "lang": "de",
+    "counterparts": [
+     "nervous system"
+    ]
+   },
+   {
+    "term": "Nested Reality",
+    "lang": "en",
+    "counterparts": [
+     "verschachtelte Realität",
+     "eingebettete Realität"
+    ]
+   },
+   {
+    "term": "Network",
+    "lang": "en",
+    "counterparts": [
+     "Netzwerk"
+    ]
+   },
+   {
+    "term": "Netz",
+    "lang": "de",
+    "counterparts": [
+     "net"
+    ]
+   },
+   {
+    "term": "Netzweber",
+    "lang": "de",
+    "counterparts": [
+     "net weaver"
+    ]
+   },
+   {
+    "term": "Netzwerk",
+    "lang": "de",
+    "counterparts": [
+     "network"
+    ]
+   },
+   {
+    "term": "Netzwerk-Blaupause",
+    "lang": "de",
+    "counterparts": [
+     "network blueprint"
+    ]
+   },
+   {
+    "term": "Netzwerklogik",
+    "lang": "de",
+    "counterparts": [
+     "network logic"
+    ]
+   },
+   {
+    "term": "Netzwerktheorie",
+    "lang": "de",
+    "counterparts": [
+     "network theory"
+    ]
+   },
+   {
+    "term": "Neue Baseline",
+    "lang": "de",
+    "counterparts": [
+     "new baseline"
+    ]
+   },
+   {
+    "term": "Neukalibrierung",
+    "lang": "de",
+    "counterparts": [
+     "recalibration"
+    ]
+   },
+   {
+    "term": "Neunte Buch Sozialgesetzbuch",
+    "lang": "de",
+    "counterparts": [
+     "Ninth Book of the Social Code"
+    ]
+   },
+   {
+    "term": "Neuntes Buch",
+    "lang": "de",
+    "counterparts": [
+     "Ninth Book"
+    ]
+   }
+  ]
+ }
+}

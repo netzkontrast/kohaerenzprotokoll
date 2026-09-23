@@ -1,0 +1,498 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Logikfehler",
+    "lang": "de",
+    "counterparts": [
+     "logic error",
+     "logical error",
+     "logical mistake"
+    ]
+   },
+   {
+    "term": "Logikprogrammierung",
+    "lang": "de",
+    "counterparts": [
+     "logic programming"
+    ]
+   },
+   {
+    "term": "Logiksystem",
+    "lang": "de",
+    "counterparts": [
+     "logic system"
+    ]
+   },
+   {
+    "term": "Logikzerfall",
+    "lang": "de",
+    "counterparts": [
+     "logic decay"
+    ]
+   },
+   {
+    "term": "Logisch-Systemische Ebene",
+    "lang": "de",
+    "counterparts": [
+     "logical-systemic level"
+    ]
+   },
+   {
+    "term": "Logische Konsistenzanalyse",
+    "lang": "de",
+    "counterparts": [
+     "logical consistency analysis"
+    ]
+   },
+   {
+    "term": "Logische Trivialisierung",
+    "lang": "de",
+    "counterparts": [
+     "logical trivialization"
+    ]
+   },
+   {
+    "term": "Logisches Gitter",
+    "lang": "de",
+    "counterparts": [
+     "logical lattice"
+    ]
+   },
+   {
+    "term": "Logisches System",
+    "lang": "de",
+    "counterparts": [
+     "logical system"
+    ]
+   },
+   {
+    "term": "Logos",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Logos-Prime",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Logotherapie",
+    "lang": "de",
+    "counterparts": [
+     "logotherapy"
+    ]
+   },
+   {
+    "term": "Lokale Symmetrie",
+    "lang": "de",
+    "counterparts": [
+     "local symmetry"
+    ]
+   },
+   {
+    "term": "Lokalität",
+    "lang": "de",
+    "counterparts": [
+     "locality"
+    ]
+   },
+   {
+    "term": "Loop Quantum Gravity",
+    "lang": "en",
+    "counterparts": [
+     "Schleifenquantengravitation",
+     "Schleifen-Quanten-Gravitation"
+    ]
+   },
+   {
+    "term": "Lorentz-Invarianz",
+    "lang": "de",
+    "counterparts": [
+     "Lorentz invariance"
+    ]
+   },
+   {
+    "term": "Lorenz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lorenz-Attraktor",
+    "lang": "de",
+    "counterparts": [
+     "Lorenz attractor"
+    ]
+   },
+   {
+    "term": "Lothar",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lovecraft",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lovecraftian",
+    "lang": "en",
+    "counterparts": [
+     "lovecraft-artig",
+     "à la Lovecraft"
+    ]
+   },
+   {
+    "term": "Lovecraftian_horror",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lover",
+    "lang": "en",
+    "counterparts": [
+     "Liebhaber"
+    ]
+   },
+   {
+    "term": "Luciano",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Luciano Floridi",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ludwig",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Luhmann",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Luhmanns",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Luhmanns Systemtheorie",
+    "lang": "de",
+    "counterparts": [
+     "Luhmann's systems theory"
+    ]
+   },
+   {
+    "term": "Luke",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ly",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ly-Cache",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ly-Methoden",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ly-Modus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ly-Sigma-1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ly-Welt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lyons",
+    "lang": "name",
+    "name": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Lyons-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "Lyons group"
+    ]
+   },
+   {
+    "term": "Lyons-Welt",
+    "lang": "de",
+    "counterparts": [
+     "Lyons world"
+    ]
+   },
+   {
+    "term": "Löb-Analogie",
+    "lang": "de",
+    "counterparts": [
+     "Löb analogy"
+    ]
+   },
+   {
+    "term": "Lösch-Prozess",
+    "lang": "de",
+    "counterparts": [
+     "deletion process"
+    ]
+   },
+   {
+    "term": "Löschlogik",
+    "lang": "de",
+    "counterparts": [
+     "deletion logic"
+    ]
+   },
+   {
+    "term": "Löschung",
+    "lang": "de",
+    "counterparts": [
+     "deletion"
+    ]
+   },
+   {
+    "term": "Löschung Hitze",
+    "lang": "de",
+    "counterparts": [
+     "deletion heat"
+    ]
+   },
+   {
+    "term": "Löschungsangriff",
+    "lang": "de",
+    "counterparts": [
+     "deletion attack"
+    ]
+   },
+   {
+    "term": "Lüge",
+    "lang": "de",
+    "counterparts": [
+     "lie"
+    ]
+   },
+   {
+    "term": "Lügner-Paradox",
+    "lang": "de",
+    "counterparts": [
+     "liar paradox"
+    ]
+   },
+   {
+    "term": "Lügner-Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "liar paradox"
+    ]
+   },
+   {
+    "term": "Lügner-Typ",
+    "lang": "de",
+    "counterparts": [
+     "liar type"
+    ]
+   },
+   {
+    "term": "M-Analogue",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M-Avatar",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M-Eigenschaften",
+    "lang": "de",
+    "counterparts": [
+     "M properties"
+    ]
+   },
+   {
+    "term": "M-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "M group"
+    ]
+   },
+   {
+    "term": "M-Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "M coherence"
+    ]
+   },
+   {
+    "term": "M-Manifestation",
+    "lang": "de",
+    "counterparts": [
+     "M manifestation"
+    ]
+   },
+   {
+    "term": "M-Resonanz",
+    "lang": "de",
+    "counterparts": [
+     "M resonance"
+    ]
+   },
+   {
+    "term": "M-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "M structure"
+    ]
+   },
+   {
+    "term": "M-Substrat",
+    "lang": "de",
+    "counterparts": [
+     "M substrate"
+    ]
+   },
+   {
+    "term": "M-Substrats",
+    "lang": "de",
+    "counterparts": [
+     "M substrates"
+    ]
+   },
+   {
+    "term": "M-Symmetrien",
+    "lang": "de",
+    "counterparts": [
+     "M symmetries"
+    ]
+   },
+   {
+    "term": "M-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "M theory"
+    ]
+   },
+   {
+    "term": "M-Zustand",
+    "lang": "de",
+    "counterparts": [
+     "M state"
+    ]
+   },
+   {
+    "term": "M-als-Fundament",
+    "lang": "de",
+    "counterparts": [
+     "M as foundation"
+    ]
+   },
+   {
+    "term": "M/Kael",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M/Kaels",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M/Moonshine",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M0",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M01",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M04",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M07",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M10",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M13",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M24",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M4",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M5",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "M5-Branen",
+    "lang": "de",
+    "counterparts": [
+     "M5 branes"
+    ]
+   },
+   {
+    "term": "MAS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MBO-Ä",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MBTI",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

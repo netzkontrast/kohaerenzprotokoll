@@ -1,0 +1,591 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "MC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MC Critical Flaw",
+    "lang": "en",
+    "counterparts": [
+     "Kritischer Fehler des MC",
+     "Kritischer MC-Fehler",
+     "Hauptcharakter-Kritischer Fehler"
+    ]
+   },
+   {
+    "term": "MC Domain",
+    "lang": "en",
+    "counterparts": [
+     "Domäne des MC",
+     "MC-Domäne",
+     "Hauptcharakter-Domäne"
+    ]
+   },
+   {
+    "term": "MC Problem",
+    "lang": "en",
+    "counterparts": [
+     "Problem des MC",
+     "MC-Problem",
+     "Hauptcharakter-Problem"
+    ]
+   },
+   {
+    "term": "MC Throughline",
+    "lang": "en",
+    "counterparts": [
+     "Throughline des MC",
+     "MC-Throughline",
+     "Hauptcharakter-Throughline"
+    ]
+   },
+   {
+    "term": "MC-Throughline",
+    "lang": "en",
+    "counterparts": [
+     "Throughline des MC",
+     "MC-Throughline",
+     "Hauptcharakter-Throughline"
+    ]
+   },
+   {
+    "term": "MCL-TYP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MCP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MD-zentraler-Ordner",
+    "lang": "de",
+    "counterparts": [
+     "MD central folder",
+     "MD-central folder",
+     "MD central directory"
+    ]
+   },
+   {
+    "term": "MDPI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ME",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MESI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MESI Kohärenzprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "MESI coherence protocol",
+     "MESI coherency protocol",
+     "MESI coherence protocol"
+    ]
+   },
+   {
+    "term": "MESI-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "MESI protocol",
+     "MESI-Protokoll",
+     "MESI coherency protocol"
+    ]
+   },
+   {
+    "term": "MESI-Zustandsübergangsdiagramm",
+    "lang": "de",
+    "counterparts": [
+     "MESI state transition diagram",
+     "MESI state-transition diagram",
+     "MESI state transition diagram"
+    ]
+   },
+   {
+    "term": "MEST",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MICHAEL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MID",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MIT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MIT Press",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ML",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MOCs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MODELING",
+    "lang": "en",
+    "counterparts": [
+     "Modellierung",
+     "Modellieren",
+     "Modellierung (als Begriff)"
+    ]
+   },
+   {
+    "term": "MONSTER",
+    "lang": "en",
+    "counterparts": [
+     "Monster",
+     "Ungeheuer",
+     "Monstrum"
+    ]
+   },
+   {
+    "term": "MOONSHINE",
+    "lang": "en",
+    "counterparts": [
+     "Mondschein",
+     "Illegale Schnapsbrennerei",
+     "Moonshine"
+    ]
+   },
+   {
+    "term": "MOSAIC",
+    "lang": "en",
+    "counterparts": [
+     "Mosaik",
+     "Mosaikbild",
+     "Mosaikmuster"
+    ]
+   },
+   {
+    "term": "MP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MPD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MPE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MQ335",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MSD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MSE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MSI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MUH",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MWI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MWI-Sicht",
+    "lang": "de",
+    "counterparts": [
+     "MWI view",
+     "Many Worlds Interpretation view",
+     "MWI perspective"
+    ]
+   },
+   {
+    "term": "MacGuffin",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Machine",
+    "lang": "en",
+    "counterparts": [
+     "Maschine",
+     "Maschinen",
+     "Maschine (engl.)"
+    ]
+   },
+   {
+    "term": "Machine Core",
+    "lang": "en",
+    "counterparts": [
+     "Kern der Maschine",
+     "Maschinenkern",
+     "Machine Core"
+    ]
+   },
+   {
+    "term": "Machine-Learning",
+    "lang": "en",
+    "counterparts": [
+     "Maschinelles Lernen",
+     "Machine-Learning",
+     "ML"
+    ]
+   },
+   {
+    "term": "Macropsia",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Madhyamaka",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Madhyamaka Buddhismus",
+    "lang": "de",
+    "counterparts": [
+     "Madhyamaka Buddhism",
+     "Madhyamaka Buddhist",
+     "Madhyamaka Buddhismus"
+    ]
+   },
+   {
+    "term": "Magic Flight",
+    "lang": "en",
+    "counterparts": [
+     "Magischer Flug",
+     "Zauberflug",
+     "Magic Flight"
+    ]
+   },
+   {
+    "term": "Magician",
+    "lang": "en",
+    "counterparts": [
+     "Zauberer",
+     "Magier",
+     "Magician"
+    ]
+   },
+   {
+    "term": "Mahayana-Mitgefühl",
+    "lang": "de",
+    "counterparts": [
+     "Mahayana compassion",
+     "Mahayana-Mitgefühl",
+     "Mahayana compassion"
+    ]
+   },
+   {
+    "term": "Main Character",
+    "lang": "en",
+    "counterparts": [
+     "Hauptcharakter",
+     "Hauptfigur",
+     "Main Character"
+    ]
+   },
+   {
+    "term": "Main Character Throughline",
+    "lang": "en",
+    "counterparts": [
+     "Throughline des Hauptcharakters",
+     "Hauptcharakter-Throughline",
+     "Main Character Throughline"
+    ]
+   },
+   {
+    "term": "Makro-Log",
+    "lang": "de",
+    "counterparts": [
+     "Macro-Log",
+     "Makro-Log",
+     "Macro log"
+    ]
+   },
+   {
+    "term": "Makroebene",
+    "lang": "de",
+    "counterparts": [
+     "macro level",
+     "macroelevel",
+     "Makroebene"
+    ]
+   },
+   {
+    "term": "Makroskopische Ordnungsmuster",
+    "lang": "de",
+    "counterparts": [
+     "macroscopic ordering patterns",
+     "macroscopic order patterns",
+     "macroscopic ordering patterns"
+    ]
+   },
+   {
+    "term": "Makrostruktur",
+    "lang": "de",
+    "counterparts": [
+     "macrostructure",
+     "Makrostruktur",
+     "macro-structure"
+    ]
+   },
+   {
+    "term": "Makrozustand",
+    "lang": "de",
+    "counterparts": [
+     "macrostate",
+     "Makrozustand",
+     "macro-state"
+    ]
+   },
+   {
+    "term": "Maldacena",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Manager",
+    "lang": "en",
+    "counterparts": [
+     "Manager",
+     "Leiter",
+     "Verwalter"
+    ]
+   },
+   {
+    "term": "Manager des Alltags",
+    "lang": "de",
+    "counterparts": [
+     "manager of everyday life",
+     "everyday manager",
+     "Manager des Alltags"
+    ]
+   },
+   {
+    "term": "Manager und Firefighters",
+    "lang": "de",
+    "counterparts": [
+     "manager and firefighters",
+     "Manager und Firefighters",
+     "manager and fire fighters"
+    ]
+   },
+   {
+    "term": "Manager-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "manager share",
+     "manager portion",
+     "Manager-Anteil"
+    ]
+   },
+   {
+    "term": "Manager-Teil",
+    "lang": "de",
+    "counterparts": [
+     "manager part",
+     "manager component",
+     "Manager-Teil"
+    ]
+   },
+   {
+    "term": "Managern",
+    "lang": "de",
+    "counterparts": [
+     "managers",
+     "to managers",
+     "Managern"
+    ]
+   },
+   {
+    "term": "Managers",
+    "lang": "en",
+    "counterparts": [
+     "Manager",
+     "Managerinnen",
+     "Managers"
+    ]
+   },
+   {
+    "term": "Managers and Firefighters",
+    "lang": "en",
+    "counterparts": [
+     "Manager und Feuerwehrleute",
+     "Manager und Firefighters",
+     "Manager und Feuerwehren"
+    ]
+   },
+   {
+    "term": "Mandela-Effekte",
+    "lang": "de",
+    "counterparts": [
+     "Mandela effects",
+     "Mandela-Effekte",
+     "Mandela effect"
+    ]
+   },
+   {
+    "term": "Mandelbrot",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Manifest",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Manifest der Agentur",
+    "lang": "de",
+    "counterparts": [
+     "manifest of the agency",
+     "agency manifest",
+     "Manifest der Agentur"
+    ]
+   },
+   {
+    "term": "Mannaz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mannigfaltigkeit",
+    "lang": "de",
+    "counterparts": [
+     "manifold",
+     "Mannigfaltigkeit",
+     "manifold (engl.)"
+    ]
+   },
+   {
+    "term": "Manual",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "ManualTOC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Manuelles LeanRAG",
+    "lang": "de",
+    "counterparts": [
+     "manual LeanRAG",
+     "LeanRAG manual",
+     "Manuelles LeanRAG"
+    ]
+   },
+   {
+    "term": "Manus-Pattern",
+    "lang": "en",
+    "counterparts": [
+     "Manus-Muster",
+     "Handmuster",
+     "Manus-Pattern"
+    ]
+   },
+   {
+    "term": "Many Worlds",
+    "lang": "en",
+    "counterparts": [
+     "Viele Welten",
+     "Many Worlds",
+     "Viele Welten"
+    ]
+   },
+   {
+    "term": "Many Worlds Interpretation",
+    "lang": "en",
+    "counterparts": [
+     "Viele-Welten-Interpretation",
+     "Many Worlds Interpretation",
+     "Viele-Welten-Interpretation"
+    ]
+   },
+   {
+    "term": "Many-Valued Logic",
+    "lang": "en",
+    "counterparts": [
+     "Vielwertige Logik",
+     "Many-Valued Logic",
+     "mehrwertige Logik"
+    ]
+   },
+   {
+    "term": "Many-Worlds",
+    "lang": "en",
+    "counterparts": [
+     "Viele-Welten",
+     "Many-Worlds",
+     "Viele-Welten"
+    ]
+   },
+   {
+    "term": "Many-Worlds-Interpretation",
+    "lang": "en",
+    "counterparts": [
+     "Viele-Welten-Interpretation",
+     "Many-Worlds-Interpretation",
+     "Viele-Welten-Interpretation"
+    ]
+   }
+  ]
+ }
+}

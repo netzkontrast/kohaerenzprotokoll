@@ -1,0 +1,347 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Helferin",
+    "lang": "de",
+    "counterparts": [
+     "helper",
+     "female helper",
+     "assistant"
+    ]
+   },
+   {
+    "term": "Helix",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Helix Books",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "HelpGuide",
+    "lang": "en",
+    "counterparts": [
+     "Hilfeleitfaden",
+     "Hilfe-Leitfaden",
+     "Hilfegeber"
+    ]
+   },
+   {
+    "term": "Helper",
+    "lang": "en",
+    "counterparts": [
+     "Helfer",
+     "Helferin",
+     "Assistent"
+    ]
+   },
+   {
+    "term": "Heraklit",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Herausforderung des Emplotments",
+    "lang": "de",
+    "counterparts": [
+     "challenge of emplotments",
+     "challenge of emplotment",
+     "challenge of plotting"
+    ]
+   },
+   {
+    "term": "Herbst",
+    "lang": "de",
+    "counterparts": [
+     "autumn",
+     "fall",
+     "fall season"
+    ]
+   },
+   {
+    "term": "Hermans",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hermeneutics",
+    "lang": "en",
+    "counterparts": [
+     "Hermeneutik",
+     "Interpretationstheorie",
+     "Auslegungslehre"
+    ]
+   },
+   {
+    "term": "Hermeneutik",
+    "lang": "de",
+    "counterparts": [
+     "hermeneutics",
+     "interpretation theory",
+     "exegesis"
+    ]
+   },
+   {
+    "term": "Hermitian Witness",
+    "lang": "en",
+    "counterparts": [
+     "hermitescher Zeuge",
+     "hermitescher Witness",
+     "hermitesche Zeugen"
+    ]
+   },
+   {
+    "term": "Herne",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Informationsfeld",
+    "lang": "de",
+    "counterparts": [
+     "information field",
+     "info field",
+     "information domain"
+    ]
+   },
+   {
+    "term": "Informationsfelder",
+    "lang": "de",
+    "counterparts": [
+     "information fields",
+     "info fields",
+     "information domains"
+    ]
+   },
+   {
+    "term": "Informationsfeldern",
+    "lang": "de",
+    "counterparts": [
+     "information fields",
+     "info fields",
+     "information domains"
+    ]
+   },
+   {
+    "term": "Informationsgehalt",
+    "lang": "de",
+    "counterparts": [
+     "information content",
+     "informational content",
+     "information amount"
+    ]
+   },
+   {
+    "term": "Informationsgitter",
+    "lang": "de",
+    "counterparts": [
+     "information grid",
+     "info grid",
+     "information lattice"
+    ]
+   },
+   {
+    "term": "Informationsintegration",
+    "lang": "de",
+    "counterparts": [
+     "information integration",
+     "data integration",
+     "information merging"
+    ]
+   },
+   {
+    "term": "Informationskonstrukte",
+    "lang": "de",
+    "counterparts": [
+     "information constructs",
+     "informational constructs",
+     "information structures"
+    ]
+   },
+   {
+    "term": "Informationsleck",
+    "lang": "de",
+    "counterparts": [
+     "information leak",
+     "info leak",
+     "data leak"
+    ]
+   },
+   {
+    "term": "Informationsmuster",
+    "lang": "de",
+    "counterparts": [
+     "information pattern",
+     "info pattern",
+     "information structure"
+    ]
+   },
+   {
+    "term": "Informationsparadoxon",
+    "lang": "de",
+    "counterparts": [
+     "information paradox",
+     "informational paradox",
+     "paradox of information"
+    ]
+   },
+   {
+    "term": "Informationsparadoxon Schwarzer Löcher",
+    "lang": "de",
+    "counterparts": [
+     "information paradox of black holes",
+     "black hole information paradox",
+     "information paradox (black holes)"
+    ]
+   },
+   {
+    "term": "Informationsphysik",
+    "lang": "de",
+    "counterparts": [
+     "information physics",
+     "physics of information",
+     "informational physics"
+    ]
+   },
+   {
+    "term": "Informationsprozessor",
+    "lang": "de",
+    "counterparts": [
+     "information processor",
+     "info processor",
+     "data processor"
+    ]
+   },
+   {
+    "term": "Informationsreduktion",
+    "lang": "de",
+    "counterparts": [
+     "information reduction",
+     "data reduction",
+     "information compression"
+    ]
+   },
+   {
+    "term": "Informationsspeicher",
+    "lang": "de",
+    "counterparts": [
+     "information storage",
+     "info storage",
+     "data storage"
+    ]
+   },
+   {
+    "term": "Informationsstele",
+    "lang": "de",
+    "counterparts": [
+     "information stele",
+     "info stele",
+     "information monument"
+    ]
+   },
+   {
+    "term": "Informationsstruktur",
+    "lang": "de",
+    "counterparts": [
+     "information structure",
+     "info structure",
+     "data structure"
+    ]
+   },
+   {
+    "term": "Informationssystem",
+    "lang": "de",
+    "counterparts": [
+     "information system",
+     "info system",
+     "data system"
+    ]
+   },
+   {
+    "term": "Informationstheoretische Entropie",
+    "lang": "de",
+    "counterparts": [
+     "information-theoretic entropy",
+     "information theory entropy",
+     "theoretical entropy"
+    ]
+   },
+   {
+    "term": "Informationstheoretische Thermodynamik",
+    "lang": "de",
+    "counterparts": [
+     "information-theoretic thermodynamics",
+     "thermodynamics of information",
+     "information theory thermodynamics"
+    ]
+   },
+   {
+    "term": "Informationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "information theory",
+     "theory of information",
+     "informational theory"
+    ]
+   },
+   {
+    "term": "Informationsüberflutung",
+    "lang": "de",
+    "counterparts": [
+     "information overload",
+     "info overload",
+     "data overload"
+    ]
+   },
+   {
+    "term": "Informationsüberlauf",
+    "lang": "de",
+    "counterparts": [
+     "information overflow",
+     "info overflow",
+     "data overflow"
+    ]
+   },
+   {
+    "term": "Infosphäre",
+    "lang": "de",
+    "counterparts": [
+     "infosphere",
+     "information sphere",
+     "info sphere"
+    ]
+   },
+   {
+    "term": "Initiating Secure Isolation State",
+    "lang": "en",
+    "counterparts": [
+     "einleitender sicherer Isolationszustand",
+     "sicherer Isolationszustand initiieren",
+     "Initierung eines sicheren Isolationszustands"
+    ]
+   },
+   {
+    "term": "Injection",
+    "lang": "en",
+    "counterparts": [
+     "Injektion",
+     "Einspritzung",
+     "Injektion (medizinisch)"
+    ]
+   },
+   {
+    "term": "Inkommensurabilität",
+    "lang": "de",
+    "counterparts": [
+     "incommensurability",
+     "incommensurable",
+     "non-commensurability"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Eindämmungsprotokolle",
+    "lang": "de",
+    "counterparts": [
+     "containment protocols",
+     "containment logs",
+     "containment records"
+    ]
+   },
+   {
+    "term": "Einer Quantenfeldtheorie",
+    "lang": "de",
+    "counterparts": [
+     "quantum field theory",
+     "a quantum field theory",
+     "quantum field theories"
+    ]
+   },
+   {
+    "term": "Einfache Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "simple group",
+     "simple groups",
+     "simple group"
+    ]
+   },
+   {
+    "term": "Einflusscharakter",
+    "lang": "de",
+    "counterparts": [
+     "influence character",
+     "impact character",
+     "character influence"
+    ]
+   },
+   {
+    "term": "Eingabesanitisierung",
+    "lang": "de",
+    "counterparts": [
+     "input sanitization",
+     "sanitization of input",
+     "input cleaning"
+    ]
+   },
+   {
+    "term": "Eingangsverarbeitung",
+    "lang": "de",
+    "counterparts": [
+     "input processing",
+     "input handling",
+     "input analysis"
+    ]
+   },
+   {
+    "term": "Einheit 1201-Delta",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Einheit 521-Beta",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Einheit 734-Alpha",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Einklammerung",
+    "lang": "de",
+    "counterparts": [
+     "bracketing",
+     "parenthesization",
+     "enclosure"
+    ]
+   },
+   {
+    "term": "Einklammerung der Welturteile",
+    "lang": "de",
+    "counterparts": [
+     "bracketing of world judgments",
+     "bracketing of world propositions",
+     "bracketing of world statements"
+    ]
+   },
+   {
+    "term": "Einkommensteuergesetz",
+    "lang": "de",
+    "counterparts": [
+     "income tax law",
+     "income tax act",
+     "tax law"
+    ]
+   },
+   {
+    "term": "Glaubensätze",
+    "lang": "de",
+    "counterparts": [
+     "articles of faith",
+     "creed",
+     "beliefs"
+    ]
+   },
+   {
+    "term": "Hacking the Mainframe Trope",
+    "lang": "en",
+    "counterparts": [
+     "Hacking des Mainframe-Tropen",
+     "Mainframe-Hacking",
+     "Hacking-Tropen"
+    ]
+   },
+   {
+    "term": "Hafen",
+    "lang": "de",
+    "counterparts": [
+     "harbor",
+     "port",
+     "harbour"
+    ]
+   },
+   {
+    "term": "Hain",
+    "lang": "de",
+    "counterparts": [
+     "grove",
+     "small wood",
+     "copse"
+    ]
+   },
+   {
+    "term": "Hain der Gegensätze",
+    "lang": "de",
+    "counterparts": [
+     "grove of opposites",
+     "grove of contraries",
+     "grove of antitheses"
+    ]
+   },
+   {
+    "term": "Hain der Symbole",
+    "lang": "de",
+    "counterparts": [
+     "grove of symbols",
+     "symbol grove",
+     "grove of icons"
+    ]
+   },
+   {
+    "term": "Haken",
+    "lang": "de",
+    "counterparts": [
+     "hook",
+     "haken",
+     "crook"
+    ]
+   },
+   {
+    "term": "Half-Life",
+    "lang": "en",
+    "counterparts": [
+     "Halbwertszeit",
+     "Half-Life",
+     "Halbzeit"
+    ]
+   },
+   {
+    "term": "Hall",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Halteproblem",
+    "lang": "de",
+    "counterparts": [
+     "halting problem",
+     "halt problem",
+     "termination problem"
+    ]
+   },
+   {
+    "term": "Halting",
+    "lang": "en",
+    "counterparts": [
+     "Halten",
+     "Anhalten",
+     "Halt"
+    ]
+   },
+   {
+    "term": "Halting Problem",
+    "lang": "en",
+    "counterparts": [
+     "Halteproblem",
+     "Halting-Problem",
+     "Problem des Halten"
+    ]
+   },
+   {
+    "term": "Hamartia",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Hamburg",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Handbook",
+    "lang": "en",
+    "counterparts": [
+     "Handbuch",
+     "Handbook",
+     "Leitfaden"
+    ]
+   },
+   {
+    "term": "Handlungsreisenden",
+    "lang": "de",
+    "counterparts": [
+     "commercial travelers",
+     "sales representatives",
+     "traveling salesmen"
+    ]
+   },
+   {
+    "term": "Handlungssysteme",
+    "lang": "de",
+    "counterparts": [
+     "action systems",
+     "systems of action",
+     "action structures"
+    ]
+   },
+   {
+    "term": "Handlungssystemen Erstarrung",
+    "lang": "de",
+    "counterparts": [
+     "crystallization of action systems",
+     "rigidification of action systems",
+     "solidification of action systems"
+    ]
+   },
+   {
+    "term": "Hannibal Lecter",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Happy",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Happy Family",
+    "lang": "en",
+    "counterparts": [
+     "glückliche Familie",
+     "Happy Family",
+     "Familie Happy"
+    ]
+   },
+   {
+    "term": "Harada",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Harada-Norton-Gruppe",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hard Canon",
+    "lang": "en",
+    "counterparts": [
+     "Hartkanon",
+     "Hard Canon",
+     "Kanon der harten Science-Fiction"
+    ]
+   },
+   {
+    "term": "Hard Cut",
+    "lang": "en",
+    "counterparts": [
+     "Hartschnitt",
+     "Hard Cut",
+     "harter Schnitt"
+    ]
+   },
+   {
+    "term": "Hard Problem",
+    "lang": "en",
+    "counterparts": [
+     "Hartes Problem",
+     "Hard Problem",
+     "schwieriges Problem"
+    ]
+   },
+   {
+    "term": "Hard Problem of Consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Hartes Problem des Bewusstseins",
+     "Hard Problem of Consciousness",
+     "schwieriges Problem des Bewusstseins"
+    ]
+   },
+   {
+    "term": "Hard Science Fiction",
+    "lang": "en",
+    "counterparts": [
+     "Harte Science-Fiction",
+     "Hard Science Fiction",
+     "harte SF"
+    ]
+   }
+  ]
+ }
+}
