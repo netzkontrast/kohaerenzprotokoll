@@ -1,0 +1,627 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Externen Ebene",
+    "lang": "de",
+    "counterparts": [
+     "external level",
+     "outer level",
+     "external plane"
+    ]
+   },
+   {
+    "term": "Externer Glitch",
+    "lang": "de",
+    "counterparts": [
+     "external glitch",
+     "outer glitch",
+     "external error"
+    ]
+   },
+   {
+    "term": "Externer Kontrolleur1",
+    "lang": "de",
+    "counterparts": [
+     "external controller 1",
+     "external regulator",
+     "external supervisor"
+    ]
+   },
+   {
+    "term": "Extinktionslernen",
+    "lang": "de",
+    "counterparts": [
+     "extinction learning",
+     "extinction learning process",
+     "learning extinction"
+    ]
+   },
+   {
+    "term": "Extradimensionen",
+    "lang": "de",
+    "counterparts": [
+     "extra dimensions",
+     "additional dimensions",
+     "higher dimensions"
+    ]
+   },
+   {
+    "term": "Exzision",
+    "lang": "de",
+    "counterparts": [
+     "excision",
+     "removal",
+     "cutting out"
+    ]
+   },
+   {
+    "term": "F44",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FACT",
+    "lang": "en",
+    "counterparts": [
+     "Fakt",
+     "Tatsache",
+     "Fakten"
+    ]
+   },
+   {
+    "term": "FDE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FDS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FEP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FEPS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FFF-Guide",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FLM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FM-04",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FM-05",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FM-08",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FM-10",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FMCS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FMCS2024",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FMEA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FOIA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FOIA-Electronic-Reading-Room",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "FTL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fabric",
+    "lang": "en",
+    "counterparts": [
+     "Gewebe",
+     "Stoff",
+     "Textil"
+    ]
+   },
+   {
+    "term": "Fabula",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Faden",
+    "lang": "de",
+    "counterparts": [
+     "thread",
+     "strand",
+     "fiber"
+    ]
+   },
+   {
+    "term": "Failsafe-Mechanismus",
+    "lang": "de",
+    "counterparts": [
+     "failsafe mechanism",
+     "fail-safe mechanism",
+     "safety mechanism"
+    ]
+   },
+   {
+    "term": "Failure/Bad",
+    "lang": "en",
+    "counterparts": [
+     "Versagen/schlecht",
+     "Fehler/schlecht",
+     "Mangel/schlecht"
+    ]
+   },
+   {
+    "term": "Fakt der Leere",
+    "lang": "de",
+    "counterparts": [
+     "factor of emptiness",
+     "emptiness factor",
+     "void factor"
+    ]
+   },
+   {
+    "term": "Fakt des Schmerzes",
+    "lang": "de",
+    "counterparts": [
+     "factor of pain",
+     "pain factor",
+     "suffering factor"
+    ]
+   },
+   {
+    "term": "Fakt des Verlusts",
+    "lang": "de",
+    "counterparts": [
+     "factor of loss",
+     "loss factor",
+     "deprivation factor"
+    ]
+   },
+   {
+    "term": "Fakt des Widerstands",
+    "lang": "de",
+    "counterparts": [
+     "factor of resistance",
+     "resistance factor",
+     "impedance factor"
+    ]
+   },
+   {
+    "term": "Faktorgruppe",
+    "lang": "de",
+    "counterparts": [
+     "factor group",
+     "factorial group",
+     "factor set"
+    ]
+   },
+   {
+    "term": "Faktorgruppen",
+    "lang": "de",
+    "counterparts": [
+     "factor groups",
+     "groups of factors",
+     "factorial groups"
+    ]
+   },
+   {
+    "term": "Falschem Erwachen",
+    "lang": "de",
+    "counterparts": [
+     "false awakening",
+     "false wake",
+     "false awakening experience"
+    ]
+   },
+   {
+    "term": "Falscher Erfolg",
+    "lang": "de",
+    "counterparts": [
+     "false success",
+     "illusory success",
+     "fake success"
+    ]
+   },
+   {
+    "term": "Falscherinnerungen",
+    "lang": "de",
+    "counterparts": [
+     "false memories",
+     "pseudomemories",
+     "fabricated memories"
+    ]
+   },
+   {
+    "term": "False Awakenings",
+    "lang": "en",
+    "counterparts": [
+     "Falsche Erwachungen",
+     "Falsches Erwachen",
+     "Falsche Awakening"
+    ]
+   },
+   {
+    "term": "Falsification",
+    "lang": "en",
+    "counterparts": [
+     "Falsifikation",
+     "Fälschung",
+     "Widerlegung"
+    ]
+   },
+   {
+    "term": "Falsifikation",
+    "lang": "de",
+    "counterparts": [
+     "falsification",
+     "falsification",
+     "falsification"
+    ]
+   },
+   {
+    "term": "Family",
+    "lang": "en",
+    "counterparts": [
+     "Familie",
+     "Familien",
+     "Verwandtschaft"
+    ]
+   },
+   {
+    "term": "Fassade",
+    "lang": "de",
+    "counterparts": [
+     "façade",
+     "facade",
+     "front"
+    ]
+   },
+   {
+    "term": "Fast Thinking",
+    "lang": "en",
+    "counterparts": [
+     "Schnelles Denken",
+     "Schnellthinking",
+     "Schnellgedanke"
+    ]
+   },
+   {
+    "term": "FasterCapital",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fear Transcendence",
+    "lang": "en",
+    "counterparts": [
+     "Angsttranszendenz",
+     "Furchttranszendenz",
+     "Transzendenz der Furcht"
+    ]
+   },
+   {
+    "term": "Feedback Loop",
+    "lang": "en",
+    "counterparts": [
+     "Feedback-Schleife",
+     "Rückkopplung",
+     "Feedback-Loop"
+    ]
+   },
+   {
+    "term": "Feedback Loops",
+    "lang": "en",
+    "counterparts": [
+     "Feedback-Schleifen",
+     "Rückkopplungen",
+     "Feedback-Loops"
+    ]
+   },
+   {
+    "term": "Feedback-Loop",
+    "lang": "en",
+    "counterparts": [
+     "Feedback-Schleife",
+     "Rückkopplung",
+     "Feedback-Loop"
+    ]
+   },
+   {
+    "term": "Feedback-Loops",
+    "lang": "en",
+    "counterparts": [
+     "Feedback-Schleifen",
+     "Rückkopplungen",
+     "Feedback-Loops"
+    ]
+   },
+   {
+    "term": "Feedback-Schleife",
+    "lang": "de",
+    "counterparts": [
+     "feedback loop",
+     "feedback circuit",
+     "feedback cycle"
+    ]
+   },
+   {
+    "term": "Feedback-Schleifen",
+    "lang": "de",
+    "counterparts": [
+     "feedback loops",
+     "feedback circuits",
+     "feedback cycles"
+    ]
+   },
+   {
+    "term": "Feedbackschleife",
+    "lang": "de",
+    "counterparts": [
+     "feedback loop",
+     "feedback circuit",
+     "feedback cycle"
+    ]
+   },
+   {
+    "term": "Feedbackschleifen",
+    "lang": "de",
+    "counterparts": [
+     "feedback loops",
+     "feedback circuits",
+     "feedback cycles"
+    ]
+   },
+   {
+    "term": "Fehlausgerichtete",
+    "lang": "de",
+    "counterparts": [
+     "misaligned",
+     "misaligned",
+     "misaligned"
+    ]
+   },
+   {
+    "term": "Fehlausgerichtete Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "misaligned coherence",
+     "incoherence",
+     "misalignment"
+    ]
+   },
+   {
+    "term": "Fehlausrichtung",
+    "lang": "de",
+    "counterparts": [
+     "misalignment",
+     "misalignment",
+     "misalignment"
+    ]
+   },
+   {
+    "term": "Fehlausrichtung der Werte",
+    "lang": "de",
+    "counterparts": [
+     "misalignment of values",
+     "value misalignment",
+     "misaligned values"
+    ]
+   },
+   {
+    "term": "Fehlerkorrekturcodes",
+    "lang": "de",
+    "counterparts": [
+     "error correction codes",
+     "error-correcting codes",
+     "ECC"
+    ]
+   },
+   {
+    "term": "Fehlertolerantes System",
+    "lang": "de",
+    "counterparts": [
+     "fault-tolerant system",
+     "fault tolerant system",
+     "robust system"
+    ]
+   },
+   {
+    "term": "Fehlertoleranz",
+    "lang": "de",
+    "counterparts": [
+     "fault tolerance",
+     "error tolerance",
+     "robustness"
+    ]
+   },
+   {
+    "term": "Feldfluktuationen",
+    "lang": "de",
+    "counterparts": [
+     "field fluctuations",
+     "field variations",
+     "field noise"
+    ]
+   },
+   {
+    "term": "Feldtheorien",
+    "lang": "de",
+    "counterparts": [
+     "field theories",
+     "field theory",
+     "theories of fields"
+    ]
+   },
+   {
+    "term": "Fermat-Analogie",
+    "lang": "de",
+    "counterparts": [
+     "Fermat analogy",
+     "Fermat's analogy",
+     "Fermat analog"
+    ]
+   },
+   {
+    "term": "Fern-vom-Gleichgewicht",
+    "lang": "de",
+    "counterparts": [
+     "far from equilibrium",
+     "out of equilibrium",
+     "non-equilibrium"
+    ]
+   },
+   {
+    "term": "Fesmire",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Festinger",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Festung der Logik",
+    "lang": "de",
+    "counterparts": [
+     "fortress of logic",
+     "logic fortress",
+     "bastion of logic"
+    ]
+   },
+   {
+    "term": "Feuerbekämpfer",
+    "lang": "de",
+    "counterparts": [
+     "firefighter",
+     "fire fighter",
+     "fireman"
+    ]
+   },
+   {
+    "term": "Feuerbekämpfer-dominant",
+    "lang": "de",
+    "counterparts": [
+     "firefighter dominant",
+     "firefighter-dominant",
+     "dominant firefighter"
+    ]
+   },
+   {
+    "term": "Feuerlöscher",
+    "lang": "de",
+    "counterparts": [
+     "fire extinguisher",
+     "extinguisher",
+     "fire extinguisher"
+    ]
+   },
+   {
+    "term": "Feuerwehrmann",
+    "lang": "de",
+    "counterparts": [
+     "firefighter",
+     "fireman",
+     "fire fighter"
+    ]
+   },
+   {
+    "term": "Feuerwehrmänner",
+    "lang": "de",
+    "counterparts": [
+     "firefighters",
+     "firemen",
+     "fire fighters"
+    ]
+   },
+   {
+    "term": "Fi22",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fi23",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fi24",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Field",
+    "lang": "en",
+    "counterparts": [
+     "Feld",
+     "Bereich",
+     "Gebiet"
+    ]
+   },
+   {
+    "term": "Fields",
+    "lang": "en",
+    "counterparts": [
+     "Felder",
+     "Bereiche",
+     "Gebiete"
+    ]
+   },
+   {
+    "term": "Fields-Medaille",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fight",
+    "lang": "en",
+    "counterparts": [
+     "Kampf",
+     "Kämpfen",
+     "Streit"
+    ]
+   }
+  ]
+ }
+}
