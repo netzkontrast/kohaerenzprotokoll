@@ -383,9 +383,12 @@ in the committed `.qmd/index.yml`; **never run `qmd init` here**, it overwrites 
 ## Entity lists — a model's reading per document, and a search over all of them
 
 `Plan/entities/<slug>.md` is one model's list of the 50-100 entities it judged
-most important in one document, each citing a file line. They are written by the
-saved workflow `.claude/workflows/entity-lists.js` — one Claude Haiku reader per
-document, blind to every other — and searched by `scripts/entities.py`:
+most important in one document, each citing a file line. The saved workflow
+`.claude/workflows/entity-lists.js` has one Claude Haiku reader per document,
+blind to every other, write **names only** to `Plan/entities/names/<slug>.json`;
+`entities.py place` then finds each name's first whole-word line and writes the
+list, refusing any name the document does not contain. They are searched by
+`scripts/entities.py`:
 
 ```bash
 python3 scripts/entities.py verify            # does each cited line hold its entity?
@@ -394,15 +397,17 @@ python3 scripts/entities.py missing           # used in N+ documents, no wiki pa
 python3 scripts/entities.py doc <slug>        # which known entities one document uses
 python3 scripts/entities.py search <entity>   # where, how often, first line
 python3 scripts/entities.py score <slug>      # against a reader's 03-candidates.md
-python3 scripts/entities.py selftest          # token matcher == \bterm\b
+python3 scripts/entities.py place <slug> <names.json>  # a model's names -> a list, lines by code
+python3 scripts/entities.py selftest          # token matcher == \bterm\b, and holds()'s cases
 ```
 
-**4 <!--state:entities.lists--> lists exist, 2 <!--state:entities.readings--> of
-them pass verification**, and 337 <!--state:entities.rows_verified--> of
-372 <!--state:entities.rows--> rows cite a line that holds the entity. Three are
-revision 2's re-pilot and one is still revision 1's list, kept as evidence.
-`NOW.md` has the diagnosis and the next step, and the full run over every landed
-document has not happened.
+**4 <!--state:entities.lists--> lists exist, 3 <!--state:entities.readings--> of
+them pass verification**, and 317 <!--state:entities.rows_verified--> of
+317 <!--state:entities.rows--> rows cite a line that holds the entity — by
+construction, since code wrote every line (revision 3). The one list that is not a
+reading is so because its reader reported stopping one line short. `NOW.md` has
+the numbers per list, and the full run over every landed document has not
+happened.
 
 What they are for — `Plan/concept/entity-lists_2026-09-23.md` has the argument:
 **`missing`** is P10's `MISSING` bucket, measured; **`doc`** is a document's
