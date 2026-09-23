@@ -766,6 +766,14 @@ python3 scripts/pairs.py score                    # „ein Begriff oder zwei“ 
 .venv-dspy/bin/python scripts/lmrun.py            # der einzige Weg zu einem Modell
 ```
 
+**Referenz für Codex, Prompt-Engine und Plan:** `Plan/concept/novelcrafter-spec_2026-09-23.md` (vom Autor gespeichert, 2026-09-23). Die Datei ist eine Funktions-Spezifikation nach dem Vorbild von Novelcrafter, keine Beschreibung dieses Repositorys. Sie deckt sich direkt mit Teilen dieses Auftrags:
+- Codex mit Aliasen, AI-Context-Stufen, szenengebundenen Progressions und gerichteten Relations ↔ §4.3 Ontologie und `kp context`
+- Plan-Hierarchie und Matrix ↔ §5 und Kapitel-Dossiers
+- Kontext-Builder mit Token-Budget ↔ `kp context <kap> --budget`
+- Dramatica-Anbindung (Spec §8.5) ↔ §5.2
+
+Ihr Hinweis zur deutschen Flexion beim Alias-Matching trifft genau die Lücke, die hier `fold()` und `pairs.py` messen: 21 <!--state:pairs.fold_correct--> von 36 <!--state:pairs.labelled--> Paaren.
+
 `CLAUDE.md` beschreibt jedes Werkzeug. Den Katalog der guten, noch nicht gebauten Ideen führt `PRINCIPLES.md`. Die neun DSPy-Repositories, aus denen die Werkzeugkette portiert ist, sind in `Plan/concept/dspy-toolchain_2026-09-23.md` ausgewertet.
 
 ---
