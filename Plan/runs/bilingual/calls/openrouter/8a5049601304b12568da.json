@@ -1,0 +1,592 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Kleine",
+    "lang": "de",
+    "counterparts": [
+     "small",
+     "little",
+     "minor"
+    ]
+   },
+   {
+    "term": "Klimax-Architektur",
+    "lang": "de",
+    "counterparts": [
+     "climax architecture",
+     "peak architecture",
+     "climax design"
+    ]
+   },
+   {
+    "term": "Klinische Diagnose",
+    "lang": "de",
+    "counterparts": [
+     "clinical diagnosis"
+    ]
+   },
+   {
+    "term": "KnappschaftBahnSee",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Knot",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Knoten",
+    "lang": "de",
+    "counterparts": [
+     "nodes",
+     "knots",
+     "vertices"
+    ]
+   },
+   {
+    "term": "Knotenpunkte",
+    "lang": "de",
+    "counterparts": [
+     "node points",
+     "vertices",
+     "junction points"
+    ]
+   },
+   {
+    "term": "Knowing",
+    "lang": "en",
+    "counterparts": [
+     "Wissen",
+     "Kenntnis",
+     "Bewusstsein"
+    ]
+   },
+   {
+    "term": "Knowledge Base",
+    "lang": "en",
+    "counterparts": [
+     "Wissensbasis",
+     "Wissensdatenbank",
+     "Wissensspeicher"
+    ]
+   },
+   {
+    "term": "Knowledge Gaps",
+    "lang": "en",
+    "counterparts": [
+     "Wissenslücken",
+     "Wissenslücke",
+     "Kenntnislücken"
+    ]
+   },
+   {
+    "term": "Knowledge Graph",
+    "lang": "en",
+    "counterparts": [
+     "Wissensgraph",
+     "Wissensnetz",
+     "Wissensgraphen"
+    ]
+   },
+   {
+    "term": "Knowledge Graph-Guided Retrieval Augmented Generation",
+    "lang": "en",
+    "counterparts": [
+     "Wissensgraphen-gestützte Retrieval-augmentierte Generierung",
+     "Wissensgraphen-basierte Generierung",
+     "Wissensgraphen-orientierte Generierung"
+    ]
+   },
+   {
+    "term": "Knöchel",
+    "lang": "de",
+    "counterparts": [
+     "knuckle",
+     "ankle",
+     "joint"
+    ]
+   },
+   {
+    "term": "Ko-Bewusstheit",
+    "lang": "de",
+    "counterparts": [
+     "co-consciousness",
+     "co-awareness",
+     "shared consciousness"
+    ]
+   },
+   {
+    "term": "Ko-Bewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "co-consciousness",
+     "shared consciousness",
+     "joint awareness"
+    ]
+   },
+   {
+    "term": "Ko-Bewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "co-consciousness",
+     "shared consciousness",
+     "collective awareness"
+    ]
+   },
+   {
+    "term": "Ko-Emergenz",
+    "lang": "de",
+    "counterparts": [
+     "co-emergence",
+     "joint emergence",
+     "co-emergence"
+    ]
+   },
+   {
+    "term": "Ko-Evolution",
+    "lang": "de",
+    "counterparts": [
+     "co-evolution"
+    ]
+   },
+   {
+    "term": "Ko-Regulation",
+    "lang": "de",
+    "counterparts": [
+     "co-regulation"
+    ]
+   },
+   {
+    "term": "Kobra-Effekt",
+    "lang": "de",
+    "counterparts": [
+     "cobra effect"
+    ]
+   },
+   {
+    "term": "Kofahl",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kognition",
+    "lang": "de",
+    "counterparts": [
+     "cognition",
+     "cognitive process",
+     "thinking"
+    ]
+   },
+   {
+    "term": "Kognitionswissenschaft",
+    "lang": "de",
+    "counterparts": [
+     "cognitive science"
+    ]
+   },
+   {
+    "term": "Kognitive Dissonanz",
+    "lang": "de",
+    "counterparts": [
+     "cognitive dissonance"
+    ]
+   },
+   {
+    "term": "Kognitive Linguistik",
+    "lang": "de",
+    "counterparts": [
+     "cognitive linguistics"
+    ]
+   },
+   {
+    "term": "Kohaerenz",
+    "lang": "de",
+    "counterparts": [
+     "coherence",
+     "coherency",
+     "consistency"
+    ]
+   },
+   {
+    "term": "Kohärente Lüge",
+    "lang": "de",
+    "counterparts": [
+     "coherent lie",
+     "consistent lie"
+    ]
+   },
+   {
+    "term": "Kohärentismus",
+    "lang": "de",
+    "counterparts": [
+     "coherentism"
+    ]
+   },
+   {
+    "term": "Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "coherence",
+     "coherency"
+    ]
+   },
+   {
+    "term": "Kohärenz Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "coherence protocol"
+    ]
+   },
+   {
+    "term": "Kohärenz-Architekt",
+    "lang": "de",
+    "counterparts": [
+     "coherence architect"
+    ]
+   },
+   {
+    "term": "Kohärenz-Balancierung",
+    "lang": "de",
+    "counterparts": [
+     "coherence balancing",
+     "coherence balance"
+    ]
+   },
+   {
+    "term": "Kohärenz-Erhaltung",
+    "lang": "de",
+    "counterparts": [
+     "coherence preservation",
+     "coherence maintenance"
+    ]
+   },
+   {
+    "term": "Kohärenz-Insel",
+    "lang": "de",
+    "counterparts": [
+     "coherence island"
+    ]
+   },
+   {
+    "term": "Kohärenz-Inseln",
+    "lang": "de",
+    "counterparts": [
+     "coherence islands"
+    ]
+   },
+   {
+    "term": "Kohärenz-Kern",
+    "lang": "de",
+    "counterparts": [
+     "coherence core"
+    ]
+   },
+   {
+    "term": "Kohärenz-Kernel",
+    "lang": "de",
+    "counterparts": [
+     "coherence kernel"
+    ]
+   },
+   {
+    "term": "Kohärenz-Kernels",
+    "lang": "de",
+    "counterparts": [
+     "coherence kernels"
+    ]
+   },
+   {
+    "term": "Kohärenz-Metriken",
+    "lang": "de",
+    "counterparts": [
+     "coherence metrics"
+    ]
+   },
+   {
+    "term": "Kohärenz-Optimierer",
+    "lang": "de",
+    "counterparts": [
+     "coherence optimizer"
+    ]
+   },
+   {
+    "term": "Kohärenz-Programm",
+    "lang": "de",
+    "counterparts": [
+     "coherence program"
+    ]
+   },
+   {
+    "term": "Kohärenz-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "coherence protocol"
+    ]
+   },
+   {
+    "term": "Kohärenz-Protokolls",
+    "lang": "de",
+    "counterparts": [
+     "coherence protocol's"
+    ]
+   },
+   {
+    "term": "Kohärenz-Resonanz-Monitor",
+    "lang": "de",
+    "counterparts": [
+     "coherence resonance monitor"
+    ]
+   },
+   {
+    "term": "Kohärenz-Verifikator",
+    "lang": "de",
+    "counterparts": [
+     "coherence verifier"
+    ]
+   },
+   {
+    "term": "Kohärenzbalancierung",
+    "lang": "de",
+    "counterparts": [
+     "coherence balancing"
+    ]
+   },
+   {
+    "term": "Kohärenzerhaltung",
+    "lang": "de",
+    "counterparts": [
+     "coherence preservation"
+    ]
+   },
+   {
+    "term": "Kohärenzfilter",
+    "lang": "de",
+    "counterparts": [
+     "coherence filter"
+    ]
+   },
+   {
+    "term": "Kohärenzkern",
+    "lang": "de",
+    "counterparts": [
+     "coherence core"
+    ]
+   },
+   {
+    "term": "Kohärenzmaximierung",
+    "lang": "de",
+    "counterparts": [
+     "coherence maximization"
+    ]
+   },
+   {
+    "term": "Kohärenzmetriken",
+    "lang": "de",
+    "counterparts": [
+     "coherence metrics"
+    ]
+   },
+   {
+    "term": "Kohärenzprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "coherence protocol"
+    ]
+   },
+   {
+    "term": "Kohärenzquelle",
+    "lang": "de",
+    "counterparts": [
+     "coherence source"
+    ]
+   },
+   {
+    "term": "Kohärenzstruktur",
+    "lang": "de",
+    "counterparts": [
+     "coherence structure"
+    ]
+   },
+   {
+    "term": "Kohärenztheorie",
+    "lang": "de",
+    "counterparts": [
+     "coherence theory"
+    ]
+   },
+   {
+    "term": "Kohärenztheorie der Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "coherence theory of truth"
+    ]
+   },
+   {
+    "term": "Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "collapse"
+    ]
+   },
+   {
+    "term": "Kollaps der Kernwelten",
+    "lang": "de",
+    "counterparts": [
+     "collapse of the core worlds"
+    ]
+   },
+   {
+    "term": "Kollaps der Wahrheiten",
+    "lang": "de",
+    "counterparts": [
+     "collapse of truths"
+    ]
+   },
+   {
+    "term": "Kollaps-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "collapse share",
+     "collapse component"
+    ]
+   },
+   {
+    "term": "Kollaps-Anteils",
+    "lang": "de",
+    "counterparts": [
+     "collapse share's"
+    ]
+   },
+   {
+    "term": "Kollaps-EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kollaps-Kern",
+    "lang": "de",
+    "counterparts": [
+     "collapse core"
+    ]
+   },
+   {
+    "term": "Kollaps-Kernel",
+    "lang": "de",
+    "counterparts": [
+     "collapse kernel"
+    ]
+   },
+   {
+    "term": "Kollaps-Kernels",
+    "lang": "de",
+    "counterparts": [
+     "collapse kernels"
+    ]
+   },
+   {
+    "term": "Kollaps-System",
+    "lang": "de",
+    "counterparts": [
+     "collapse system"
+    ]
+   },
+   {
+    "term": "Kollaps/Freeze",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Kollektiv",
+    "lang": "de",
+    "counterparts": [
+     "collective"
+    ]
+   },
+   {
+    "term": "Kollision",
+    "lang": "de",
+    "counterparts": [
+     "collision"
+    ]
+   },
+   {
+    "term": "Kollisionen",
+    "lang": "de",
+    "counterparts": [
+     "collisions"
+    ]
+   },
+   {
+    "term": "Kolmogorov",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kolmogorov-Komplexität",
+    "lang": "de",
+    "counterparts": [
+     "Kolmogorov complexity"
+    ]
+   },
+   {
+    "term": "Kommunikations-Hub",
+    "lang": "de",
+    "counterparts": [
+     "communication hub"
+    ]
+   },
+   {
+    "term": "Kommunikationsinterface",
+    "lang": "de",
+    "counterparts": [
+     "communication interface"
+    ]
+   },
+   {
+    "term": "Kommunikationskanal",
+    "lang": "de",
+    "counterparts": [
+     "communication channel"
+    ]
+   },
+   {
+    "term": "Kommunikationsprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "communication protocol"
+    ]
+   },
+   {
+    "term": "Komparator",
+    "lang": "de",
+    "counterparts": [
+     "comparator"
+    ]
+   },
+   {
+    "term": "Komplementarität",
+    "lang": "de",
+    "counterparts": [
+     "complementarity"
+    ]
+   },
+   {
+    "term": "Komplex",
+    "lang": "de",
+    "counterparts": [
+     "complex"
+    ]
+   },
+   {
+    "term": "Komplexe",
+    "lang": "de",
+    "counterparts": [
+     "complexes"
+    ]
+   }
+  ]
+ }
+}

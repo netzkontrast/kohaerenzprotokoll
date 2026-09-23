@@ -1,0 +1,534 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "William Gibson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wilson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Window",
+    "lang": "en",
+    "counterparts": [
+     "Fenster"
+    ]
+   },
+   {
+    "term": "Window of Tolerance",
+    "lang": "en",
+    "counterparts": [
+     "Fenster der Toleranz"
+    ]
+   },
+   {
+    "term": "Windows",
+    "lang": "en",
+    "counterparts": [
+     "Fenster"
+    ]
+   },
+   {
+    "term": "Wintermute",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wir",
+    "lang": "de",
+    "counterparts": [
+     "we"
+    ]
+   },
+   {
+    "term": "Wir-AEGIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wir-AEGIS-plural",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wir-Geflecht",
+    "lang": "de",
+    "counterparts": [
+     "we-net"
+    ]
+   },
+   {
+    "term": "Wir-Stimme",
+    "lang": "de",
+    "counterparts": [
+     "we-voice"
+    ]
+   },
+   {
+    "term": "Wireless Directory",
+    "lang": "en",
+    "counterparts": [
+     "Drahtloses Verzeichnis"
+    ]
+   },
+   {
+    "term": "Wireless Sensor Networks",
+    "lang": "en",
+    "counterparts": [
+     "Drahtlose Sensornetzwerke"
+    ]
+   },
+   {
+    "term": "Wissenschaftlichen Medizinischen Fachgesellschaften",
+    "lang": "de",
+    "counterparts": [
+     "scientific medical societies"
+    ]
+   },
+   {
+    "term": "Wissensdatenbank",
+    "lang": "de",
+    "counterparts": [
+     "knowledge database"
+    ]
+   },
+   {
+    "term": "With Silas",
+    "lang": "en",
+    "counterparts": [
+     "Mit Silas"
+    ]
+   },
+   {
+    "term": "With Vesper",
+    "lang": "en",
+    "counterparts": [
+     "Mit Vesper"
+    ]
+   },
+   {
+    "term": "Withdrawal",
+    "lang": "en",
+    "counterparts": [
+     "Entzug",
+     "Rückzug",
+     "Abzug"
+    ]
+   },
+   {
+    "term": "Witness",
+    "lang": "en",
+    "counterparts": [
+     "Zeuge"
+    ]
+   },
+   {
+    "term": "Witness Function",
+    "lang": "en",
+    "counterparts": [
+     "Zeugenfunktion"
+    ]
+   },
+   {
+    "term": "Witness-Function",
+    "lang": "en",
+    "counterparts": [
+     "Zeugen-Funktion"
+    ]
+   },
+   {
+    "term": "Witness-Funktion",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Witnessing",
+    "lang": "en",
+    "counterparts": [
+     "Zeugen"
+    ]
+   },
+   {
+    "term": "Witt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Witt-Design",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Witten",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wittgenstein",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wittgensteins",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wolfgang",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wolfgang Iser",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wolfram",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "WordPress",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Worker",
+    "lang": "en",
+    "counterparts": [
+     "Arbeiter"
+    ]
+   },
+   {
+    "term": "Workflow",
+    "lang": "en",
+    "counterparts": [
+     "Arbeitsablauf",
+     "Workflow"
+    ]
+   },
+   {
+    "term": "Working Memory",
+    "lang": "en",
+    "counterparts": [
+     "Arbeitsgedächtnis"
+    ]
+   },
+   {
+    "term": "Working-State",
+    "lang": "en",
+    "counterparts": [
+     "Arbeitszustand"
+    ]
+   },
+   {
+    "term": "Workspace",
+    "lang": "en",
+    "counterparts": [
+     "Arbeitsbereich"
+    ]
+   },
+   {
+    "term": "World",
+    "lang": "en",
+    "counterparts": [
+     "Welt"
+    ]
+   },
+   {
+    "term": "World Bible",
+    "lang": "en",
+    "counterparts": [
+     "Weltbibel"
+    ]
+   },
+   {
+    "term": "World Building",
+    "lang": "en",
+    "counterparts": [
+     "Weltbau"
+    ]
+   },
+   {
+    "term": "World State",
+    "lang": "en",
+    "counterparts": [
+     "Weltstaat"
+    ]
+   },
+   {
+    "term": "World of Symbolism",
+    "lang": "en",
+    "counterparts": [
+     "Welt der Symbolik"
+    ]
+   },
+   {
+    "term": "World-Shattering Climax",
+    "lang": "en",
+    "counterparts": [
+     "weltzerstörender Höhepunkt"
+    ]
+   },
+   {
+    "term": "Worldbuilding Tips for Writers",
+    "lang": "en",
+    "counterparts": [
+     "Weltbau-Tipps für Schriftsteller"
+    ]
+   },
+   {
+    "term": "Worldbuilding der Dual-Kernel-Theorie",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Worlds",
+    "lang": "en",
+    "counterparts": [
+     "Welten"
+    ]
+   },
+   {
+    "term": "Worldview",
+    "lang": "en",
+    "counterparts": [
+     "Weltanschauung"
+    ]
+   },
+   {
+    "term": "Wormhole",
+    "lang": "en",
+    "counterparts": [
+     "Wurmloch"
+    ]
+   },
+   {
+    "term": "Wormholes",
+    "lang": "en",
+    "counterparts": [
+     "Wurmlöcher"
+    ]
+   },
+   {
+    "term": "Writeback",
+    "lang": "en",
+    "counterparts": [
+     "Rückschreiben"
+    ]
+   },
+   {
+    "term": "Wu Wei",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Wuerdigung-von-Sachverstaendigengutachten-im-sozialgerichtlichen-Verfahren",
+    "lang": "de",
+    "counterparts": [
+     "valuation of expert opinions in social court proceedings"
+    ]
+   },
+   {
+    "term": "Wurmloch",
+    "lang": "de",
+    "counterparts": [
+     "wormhole"
+    ]
+   },
+   {
+    "term": "Wurmloch-Transit",
+    "lang": "de",
+    "counterparts": [
+     "wormhole transit"
+    ]
+   },
+   {
+    "term": "Wurmlöcher",
+    "lang": "de",
+    "counterparts": [
+     "wormholes"
+    ]
+   },
+   {
+    "term": "Wurzelknolle",
+    "lang": "de",
+    "counterparts": [
+     "root tuber"
+    ]
+   },
+   {
+    "term": "Wächter",
+    "lang": "de",
+    "counterparts": [
+     "guardian"
+    ]
+   },
+   {
+    "term": "Wächter der KW1",
+    "lang": "de",
+    "counterparts": [
+     "guardian of KW1"
+    ]
+   },
+   {
+    "term": "Wächter der KW2",
+    "lang": "de",
+    "counterparts": [
+     "guardian of KW2"
+    ]
+   },
+   {
+    "term": "Wächter der KW3",
+    "lang": "de",
+    "counterparts": [
+     "guardian of KW3"
+    ]
+   },
+   {
+    "term": "Wächter der KW4",
+    "lang": "de",
+    "counterparts": [
+     "guardian of KW4"
+    ]
+   },
+   {
+    "term": "Wächter der Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "guardian of coherence"
+    ]
+   },
+   {
+    "term": "Wächter-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "guardian share"
+    ]
+   },
+   {
+    "term": "Wächter-Konstrukte",
+    "lang": "de",
+    "counterparts": [
+     "guardian constructs"
+    ]
+   },
+   {
+    "term": "Wächter-Konstrukten",
+    "lang": "de",
+    "counterparts": [
+     "guardian constructs"
+    ]
+   },
+   {
+    "term": "Wächter-Programme",
+    "lang": "de",
+    "counterparts": [
+     "guardian programs"
+    ]
+   },
+   {
+    "term": "Wächter-Registry",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Wächter-Zwiespalt",
+    "lang": "de",
+    "counterparts": [
+     "guardian dilemma"
+    ]
+   },
+   {
+    "term": "Wächtern",
+    "lang": "de",
+    "counterparts": [
+     "guardians"
+    ]
+   },
+   {
+    "term": "Wächters",
+    "lang": "de",
+    "counterparts": [
+     "guardian's"
+    ]
+   },
+   {
+    "term": "Wähle-dein-eigenes-Abenteuer-Ende",
+    "lang": "de",
+    "counterparts": [
+     "choose-your-own-adventure ending"
+    ]
+   },
+   {
+    "term": "Währung",
+    "lang": "de",
+    "counterparts": [
+     "currency"
+    ]
+   },
+   {
+    "term": "Währung der Unsicherheit",
+    "lang": "de",
+    "counterparts": [
+     "currency of uncertainty"
+    ]
+   },
+   {
+    "term": "Währung der Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "currency of connection"
+    ]
+   },
+   {
+    "term": "Währung des Unbekannten",
+    "lang": "de",
+    "counterparts": [
+     "currency of the unknown"
+    ]
+   },
+   {
+    "term": "Wärme-Phänomen",
+    "lang": "de",
+    "counterparts": [
+     "thermal phenomenon"
+    ]
+   },
+   {
+    "term": "Wärmebad",
+    "lang": "de",
+    "counterparts": [
+     "warm bath"
+    ]
+   },
+   {
+    "term": "Wärmetod",
+    "lang": "de",
+    "counterparts": [
+     "heat death"
+    ]
+   },
+   {
+    "term": "Wärmetod des Antagonismus",
+    "lang": "de",
+    "counterparts": [
+     "heat death of antagonism"
+    ]
+   },
+   {
+    "term": "Wärmetod des Universums",
+    "lang": "de",
+    "counterparts": [
+     "heat death of the universe"
+    ]
+   }
+  ]
+ }
+}

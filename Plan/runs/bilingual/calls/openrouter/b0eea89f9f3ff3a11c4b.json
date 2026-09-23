@@ -1,0 +1,578 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Wahrheit des Traumas",
+    "lang": "de",
+    "counterparts": [
+     "truth of trauma",
+     "the truth of trauma"
+    ]
+   },
+   {
+    "term": "Wahrheit und Lüge",
+    "lang": "de",
+    "counterparts": [
+     "truth and lie",
+     "truth and falsehood"
+    ]
+   },
+   {
+    "term": "Wahrheits-Rotation",
+    "lang": "de",
+    "counterparts": [
+     "truth rotation",
+     "rotation of truth"
+    ]
+   },
+   {
+    "term": "Wahrheitsdualität",
+    "lang": "de",
+    "counterparts": [
+     "truth duality",
+     "duality of truth"
+    ]
+   },
+   {
+    "term": "Wahrheitsgitter",
+    "lang": "de",
+    "counterparts": [
+     "truth lattice",
+     "lattice of truth"
+    ]
+   },
+   {
+    "term": "Wahrheitsprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "truth protocol",
+     "protocol of truth"
+    ]
+   },
+   {
+    "term": "Wahrheitstheorie",
+    "lang": "de",
+    "counterparts": [
+     "theory of truth",
+     "truth theory"
+    ]
+   },
+   {
+    "term": "Wahrheitstheorien",
+    "lang": "de",
+    "counterparts": [
+     "theories of truth",
+     "truth theories"
+    ]
+   },
+   {
+    "term": "Wahrheitswert",
+    "lang": "de",
+    "counterparts": [
+     "truth value",
+     "value of truth"
+    ]
+   },
+   {
+    "term": "Wahrheitswerte",
+    "lang": "de",
+    "counterparts": [
+     "truth values"
+    ]
+   },
+   {
+    "term": "Wahrheitswertlücken",
+    "lang": "de",
+    "counterparts": [
+     "truth value gaps",
+     "gaps in truth values"
+    ]
+   },
+   {
+    "term": "Wahrheitswertüberlappungen",
+    "lang": "de",
+    "counterparts": [
+     "truth value overlaps",
+     "overlaps of truth values"
+    ]
+   },
+   {
+    "term": "Wahrnehmung des Anderen",
+    "lang": "de",
+    "counterparts": [
+     "perception of the other",
+     "the perception of the other"
+    ]
+   },
+   {
+    "term": "Wahrnehmungsmanipulation",
+    "lang": "de",
+    "counterparts": [
+     "perception manipulation",
+     "manipulation of perception"
+    ]
+   },
+   {
+    "term": "Wahrscheinlichkeitswellen",
+    "lang": "de",
+    "counterparts": [
+     "probability waves"
+    ]
+   },
+   {
+    "term": "Walter",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wandverschiebungen",
+    "lang": "de",
+    "counterparts": [
+     "wall displacements",
+     "wall shifts"
+    ]
+   },
+   {
+    "term": "Warfare",
+    "lang": "en",
+    "counterparts": [
+     "Kriegsführung",
+     "Krieg",
+     "Kriegshandlungen"
+    ]
+   },
+   {
+    "term": "Warrior",
+    "lang": "en",
+    "counterparts": [
+     "Krieger",
+     "Kämpfer",
+     "Kriegerin"
+    ]
+   },
+   {
+    "term": "Watts",
+    "lang": "en",
+    "counterparts": [
+     "Watt",
+     "Watts"
+    ]
+   },
+   {
+    "term": "Wave",
+    "lang": "en",
+    "counterparts": [
+     "Welle"
+    ]
+   },
+   {
+    "term": "Wavelet",
+    "lang": "en",
+    "counterparts": [
+     "Wavelet",
+     "kleine Welle"
+    ]
+   },
+   {
+    "term": "Wavelets",
+    "lang": "en",
+    "counterparts": [
+     "Wavelets",
+     "kleine Wellen"
+    ]
+   },
+   {
+    "term": "Way of Thinking",
+    "lang": "en",
+    "counterparts": [
+     "Denkweise",
+     "Denkart",
+     "Weltanschauung"
+    ]
+   },
+   {
+    "term": "We-Throughline",
+    "lang": "en",
+    "counterparts": [
+     "Wir-Durchlinie",
+     "Durchlinie des Wir"
+    ]
+   },
+   {
+    "term": "We-Voice",
+    "lang": "en",
+    "counterparts": [
+     "Wir-Stimme",
+     "Unsere Stimme"
+    ]
+   },
+   {
+    "term": "Weak",
+    "lang": "en",
+    "counterparts": [
+     "schwach",
+     "mangelhaft"
+    ]
+   },
+   {
+    "term": "Weak Anthropic Principle",
+    "lang": "en",
+    "counterparts": [
+     "Schwaches anthropisches Prinzip"
+    ]
+   },
+   {
+    "term": "Weakly Interacting Massive Particles",
+    "lang": "en",
+    "counterparts": [
+     "Schwach wechselwirkende massive Teilchen",
+     "WIMPs"
+    ]
+   },
+   {
+    "term": "Weaver",
+    "lang": "en",
+    "counterparts": [
+     "Weber",
+     "Weberin"
+    ]
+   },
+   {
+    "term": "WebMD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Webb",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Weird",
+    "lang": "en",
+    "counterparts": [
+     "seltsam",
+     "komisch",
+     "unheimlich"
+    ]
+   },
+   {
+    "term": "Weißes Rauschen",
+    "lang": "de",
+    "counterparts": [
+     "white noise"
+    ]
+   },
+   {
+    "term": "Weißraum",
+    "lang": "de",
+    "counterparts": [
+     "white space",
+     "whitespace"
+    ]
+   },
+   {
+    "term": "Well-Foundedness of Grounding",
+    "lang": "en",
+    "counterparts": [
+     "Wohlbegründetheit der Grundlegung",
+     "Fundiertheit der Grundlage"
+    ]
+   },
+   {
+    "term": "Wellenfunktion",
+    "lang": "de",
+    "counterparts": [
+     "wave function"
+    ]
+   },
+   {
+    "term": "Wellenfunktionkollapse",
+    "lang": "de",
+    "counterparts": [
+     "wave function collapse"
+    ]
+   },
+   {
+    "term": "Welt",
+    "lang": "de",
+    "counterparts": [
+     "world"
+    ]
+   },
+   {
+    "term": "Welt der Angst",
+    "lang": "de",
+    "counterparts": [
+     "world of fear"
+    ]
+   },
+   {
+    "term": "Welt der Reinen Logik",
+    "lang": "de",
+    "counterparts": [
+     "world of pure logic"
+    ]
+   },
+   {
+    "term": "Welt der Simulation",
+    "lang": "de",
+    "counterparts": [
+     "world of simulation"
+    ]
+   },
+   {
+    "term": "Welt des ANPs",
+    "lang": "de",
+    "counterparts": [
+     "world of the ANPs",
+     "ANP world"
+    ]
+   },
+   {
+    "term": "Welt-Paar",
+    "lang": "de",
+    "counterparts": [
+     "world pair"
+    ]
+   },
+   {
+    "term": "Welt-Paare",
+    "lang": "de",
+    "counterparts": [
+     "world pairs"
+    ]
+   },
+   {
+    "term": "Weltenbaum",
+    "lang": "de",
+    "counterparts": [
+     "world tree"
+    ]
+   },
+   {
+    "term": "Weltgesundheitsorganisation",
+    "lang": "de",
+    "counterparts": [
+     "World Health Organization",
+     "WHO"
+    ]
+   },
+   {
+    "term": "Weltmaschine",
+    "lang": "de",
+    "counterparts": [
+     "world machine"
+    ]
+   },
+   {
+    "term": "Weltmodelle",
+    "lang": "de",
+    "counterparts": [
+     "world models"
+    ]
+   },
+   {
+    "term": "Wenn Kiko",
+    "lang": "de",
+    "counterparts": [
+     "if Kiko"
+    ]
+   },
+   {
+    "term": "Wenn die Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "if the truth"
+    ]
+   },
+   {
+    "term": "Werkstatt",
+    "lang": "de",
+    "counterparts": [
+     "workshop"
+    ]
+   },
+   {
+    "term": "Werkstatt der Schöpfung",
+    "lang": "de",
+    "counterparts": [
+     "workshop of creation"
+    ]
+   },
+   {
+    "term": "Wert",
+    "lang": "de",
+    "counterparts": [
+     "value"
+    ]
+   },
+   {
+    "term": "Wert B",
+    "lang": "de",
+    "counterparts": [
+     "value B"
+    ]
+   },
+   {
+    "term": "Wert N",
+    "lang": "de",
+    "counterparts": [
+     "value N"
+    ]
+   },
+   {
+    "term": "Wertausrichtung",
+    "lang": "de",
+    "counterparts": [
+     "value orientation"
+    ]
+   },
+   {
+    "term": "Wertausrichtungsproblem",
+    "lang": "de",
+    "counterparts": [
+     "value orientation problem"
+    ]
+   },
+   {
+    "term": "Werteausrichtungsproblem",
+    "lang": "de",
+    "counterparts": [
+     "value orientation problem"
+    ]
+   },
+   {
+    "term": "Wertschätzung des Unvollkommenen",
+    "lang": "de",
+    "counterparts": [
+     "appreciation of the imperfect"
+    ]
+   },
+   {
+    "term": "Westworld",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "What Exactly Is Cosmic",
+    "lang": "en",
+    "counterparts": [
+     "Was genau ist kosmisch",
+     "Was ist genau kosmisch"
+    ]
+   },
+   {
+    "term": "What Is Compassion-Focused Therapy",
+    "lang": "en",
+    "counterparts": [
+     "Was ist Compassion-Focused Therapy",
+     "mitgefühlorientierte Therapie"
+    ]
+   },
+   {
+    "term": "Wheeler",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wheelers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Whitehead",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Whitehead's \"Prehension\"",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Whiteheadian",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Whiteheadian Concrescence",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Whiteheads",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Whiteheads Ergreifung",
+    "lang": "de",
+    "counterparts": [
+     "Whitehead's grasping",
+     "Whitehead's appropriation"
+    ]
+   },
+   {
+    "term": "Whitespace",
+    "lang": "en",
+    "counterparts": [
+     "Leerraum",
+     "Whitespace"
+    ]
+   },
+   {
+    "term": "Wholeness",
+    "lang": "en",
+    "counterparts": [
+     "Ganzheit",
+     "Vollständigkeit"
+    ]
+   },
+   {
+    "term": "WiDir",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wiedereintritt",
+    "lang": "de",
+    "counterparts": [
+     "re-entry",
+     "reentry"
+    ]
+   },
+   {
+    "term": "Wiener",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wigner",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wildnis",
+    "lang": "de",
+    "counterparts": [
+     "wilderness"
+    ]
+   },
+   {
+    "term": "Wille/Handlung",
+    "lang": "de",
+    "counterparts": [
+     "will/action",
+     "will and action"
+    ]
+   },
+   {
+    "term": "William",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

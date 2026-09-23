@@ -1,0 +1,536 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Ontischer Struktureller Realismus",
+    "lang": "de",
+    "counterparts": [
+     "ontic structural realism"
+    ]
+   },
+   {
+    "term": "Ontological Boundary Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Ontologisches Grenzprotokoll",
+     "Ontologisches Grenz-Protokoll",
+     "Ontologisches Protokoll der Grenze"
+    ]
+   },
+   {
+    "term": "Ontological Friction",
+    "lang": "en",
+    "counterparts": [
+     "Ontologische Reibung"
+    ]
+   },
+   {
+    "term": "Ontological Revelation",
+    "lang": "en",
+    "counterparts": [
+     "Ontologische Offenbarung"
+    ]
+   },
+   {
+    "term": "Ontologie",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ontologie der Information",
+    "lang": "de",
+    "counterparts": [
+     "Ontology of Information",
+     "Information Ontology"
+    ]
+   },
+   {
+    "term": "Ontologien",
+    "lang": "de",
+    "counterparts": [
+     "Ontologies"
+    ]
+   },
+   {
+    "term": "Ontologische Anomalie",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Anomaly"
+    ]
+   },
+   {
+    "term": "Ontologische Autarkie",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Autarky"
+    ]
+   },
+   {
+    "term": "Ontologische Barometer",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Barometer"
+    ]
+   },
+   {
+    "term": "Ontologische Ebene",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Level"
+    ]
+   },
+   {
+    "term": "Ontologische Enthüllung",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Revelation"
+    ]
+   },
+   {
+    "term": "Ontologische Exklusion",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Exclusion"
+    ]
+   },
+   {
+    "term": "Ontologische Identitäts-Paradox",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Identity Paradox"
+    ]
+   },
+   {
+    "term": "Ontologische Transposition",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Transposition"
+    ]
+   },
+   {
+    "term": "Ontologische Trägheit",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Inertia"
+    ]
+   },
+   {
+    "term": "Ontologischer Einschluss",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Inclusion"
+    ]
+   },
+   {
+    "term": "Ontologischer Exploit",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Exploit"
+    ]
+   },
+   {
+    "term": "Ontologisches Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "Ontological Paradox"
+    ]
+   },
+   {
+    "term": "Ontology",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Opaker Algorithmus",
+    "lang": "de",
+    "counterparts": [
+     "Opaque Algorithm"
+    ]
+   },
+   {
+    "term": "Open Access Library",
+    "lang": "en",
+    "counterparts": [
+     "Open Access Bibliothek",
+     "Offene Zugang Bibliothek"
+    ]
+   },
+   {
+    "term": "OpenAI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "OpenStax",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Operational Closure",
+    "lang": "en",
+    "counterparts": [
+     "Operative Geschlossenheit",
+     "Operationale Geschlossenheit",
+     "Operativer Abschluss"
+    ]
+   },
+   {
+    "term": "Operationale",
+    "lang": "de",
+    "counterparts": [
+     "Operational"
+    ]
+   },
+   {
+    "term": "Operationale Architektur",
+    "lang": "de",
+    "counterparts": [
+     "Operational Architecture"
+    ]
+   },
+   {
+    "term": "Operationale Geschlossenheit und Autonomie",
+    "lang": "de",
+    "counterparts": [
+     "Operational Closure and Autonomy"
+    ]
+   },
+   {
+    "term": "Operationale Schließung",
+    "lang": "de",
+    "counterparts": [
+     "Operational Closure"
+    ]
+   },
+   {
+    "term": "Operationsraum",
+    "lang": "de",
+    "counterparts": [
+     "Operations Room"
+    ]
+   },
+   {
+    "term": "Operative Direktive",
+    "lang": "de",
+    "counterparts": [
+     "Operative Directive"
+    ]
+   },
+   {
+    "term": "Operator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Operator Product Expansion",
+    "lang": "en",
+    "counterparts": [
+     "Operator-Produkt-Erweiterung",
+     "Operator-Produktausbau",
+     "Operator-Produktentwicklung"
+    ]
+   },
+   {
+    "term": "Operatoren",
+    "lang": "de",
+    "counterparts": [
+     "Operators"
+    ]
+   },
+   {
+    "term": "Operatorproduktentwicklung",
+    "lang": "de",
+    "counterparts": [
+     "Operator product development"
+    ]
+   },
+   {
+    "term": "Operators",
+    "lang": "en",
+    "counterparts": [
+     "Operatoren"
+    ]
+   },
+   {
+    "term": "Opferentschädigungsgesetz",
+    "lang": "de",
+    "counterparts": [
+     "Victims' Compensation Act"
+    ]
+   },
+   {
+    "term": "Oppose",
+    "lang": "en",
+    "counterparts": [
+     "Widersprechen",
+     "Entgegenwirken",
+     "Bescheiden"
+    ]
+   },
+   {
+    "term": "Optionlock",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Optionlock-Erschöpfung",
+    "lang": "de",
+    "counterparts": [
+     "Optionlock exhaustion"
+    ]
+   },
+   {
+    "term": "Oracle",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Orakel",
+    "lang": "de",
+    "counterparts": [
+     "Oracle"
+    ]
+   },
+   {
+    "term": "Orakel-Sigma",
+    "lang": "de",
+    "counterparts": [
+     "Oracle-Sigma"
+    ]
+   },
+   {
+    "term": "Orbifold-Konstruktion",
+    "lang": "de",
+    "counterparts": [
+     "Orbifold construction"
+    ]
+   },
+   {
+    "term": "Orbifolds",
+    "lang": "en",
+    "counterparts": [
+     "Orbifolds"
+    ]
+   },
+   {
+    "term": "Orch",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Orch OR Analogie",
+    "lang": "de",
+    "counterparts": [
+     "Orch OR analogy"
+    ]
+   },
+   {
+    "term": "Orch OR-Analogie",
+    "lang": "de",
+    "counterparts": [
+     "Orch OR analogy"
+    ]
+   },
+   {
+    "term": "Orch-OR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Orchestrated Objective Reduction",
+    "lang": "en",
+    "counterparts": [
+     "Orchestrierte objektive Reduktion"
+    ]
+   },
+   {
+    "term": "Orchestrator",
+    "lang": "en",
+    "counterparts": [
+     "Orchestrator"
+    ]
+   },
+   {
+    "term": "Order",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "OrderVersusChaos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ordnung/Kontrolle",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ordnungsprinzip",
+    "lang": "de",
+    "counterparts": [
+     "Principle of order"
+    ]
+   },
+   {
+    "term": "Oregon",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Organic Core",
+    "lang": "en",
+    "counterparts": [
+     "Organischer Kern"
+    ]
+   },
+   {
+    "term": "Organisationale Schließung",
+    "lang": "de",
+    "counterparts": [
+     "Organizational closure"
+    ]
+   },
+   {
+    "term": "Organisatorische Schließung",
+    "lang": "de",
+    "counterparts": [
+     "Organizational closure"
+    ]
+   },
+   {
+    "term": "Organizational Closure",
+    "lang": "en",
+    "counterparts": [
+     "Organisatorische Schließung",
+     "Organisationale Schließung"
+    ]
+   },
+   {
+    "term": "Origin",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Origin Paradox",
+    "lang": "en",
+    "counterparts": [
+     "Ursprungs-Paradoxon"
+    ]
+   },
+   {
+    "term": "Origin-Self",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Origin-Trauma",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Original",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Orphan Events",
+    "lang": "en",
+    "counterparts": [
+     "Waisen-Ereignisse"
+    ]
+   },
+   {
+    "term": "Ort des Kern-Traumas",
+    "lang": "de",
+    "counterparts": [
+     "Location of core trauma"
+    ]
+   },
+   {
+    "term": "Orthogonal",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Orthogonale Inversion",
+    "lang": "de",
+    "counterparts": [
+     "Orthogonal inversion"
+    ]
+   },
+   {
+    "term": "Orthogonale Kontinuum",
+    "lang": "de",
+    "counterparts": [
+     "Orthogonal continuum"
+    ]
+   },
+   {
+    "term": "Ortsbindung",
+    "lang": "de",
+    "counterparts": [
+     "Place binding"
+    ]
+   },
+   {
+    "term": "Ortsgefühl",
+    "lang": "de",
+    "counterparts": [
+     "Sense of place"
+    ]
+   },
+   {
+    "term": "Ortsidentität",
+    "lang": "de",
+    "counterparts": [
+     "Place identity"
+    ]
+   },
+   {
+    "term": "Otto",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ouroboros",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Ouroboros-Ende",
+    "lang": "de",
+    "counterparts": [
+     "Ouroboros end"
+    ]
+   },
+   {
+    "term": "Out-of-Distribution-Daten",
+    "lang": "de",
+    "counterparts": [
+     "Out-of-distribution data"
+    ]
+   },
+   {
+    "term": "Outer Alignment",
+    "lang": "en",
+    "counterparts": [
+     "Externe Ausrichtung"
+    ]
+   },
+   {
+    "term": "Overall",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Overall Story",
+    "lang": "en",
+    "counterparts": [
+     "Gesamthistorie"
+    ]
+   }
+  ]
+ }
+}

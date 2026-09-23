@@ -62,8 +62,16 @@ CONTEXT = 220         # characters of a line shown per example
 JEV_BATCH = 40
 JEV_WORKERS = 6       # the public endpoint rate-limits above about eight
 OR_BATCH = 80
+SURE = 0.8          # a translation below this is listed apart, to be read first
+# The cache key names this first list, so answers cached under it stay valid when
+# the rotation below grows: which free model answered is recorded per call.
 OR_MODELS = ["qwen/qwen3.8-27b:free", "nvidia/nemotron-3-super-120b-a12b:free",
              "google/gemma-4-31b-it:free"]
+OR_ROTATION = ["nvidia/nemotron-3-super-120b-a12b:free", "dots-studio/dots-3-note-preview:free",
+               "poolside/laguna-s-2.1:free", "qwen/qwen3.8-27b:free"]
+# Measured 2026-09-23 on an 80-term batch: nemotron-3-super and dots-3-note answer in
+# 45-120 s; nemotron-3-ultra hung 218 s and broke off, gemma and qwen were rate-limited.
+OR_WORKERS = 6
 
 # ── surfaces ──────────────────────────────────────────────────────────────────
 
@@ -203,8 +211,11 @@ def openrouter(prompt: str) -> dict:
         if not key:
             return {"unreached": "OPENROUTER_API_KEY is not set"}
         last = ""
-        for attempt in range(6):
-            model = OR_MODELS[attempt % len(OR_MODELS)]
+        # Start each prompt on a different free model, so parallel workers spread over
+        # the shared upstream pools instead of queueing on one.
+        start = int(hashlib.sha256(prompt.encode()).hexdigest(), 16) % len(OR_ROTATION)
+        for attempt in range(2 * len(OR_ROTATION)):
+            model = OR_ROTATION[(start + attempt) % len(OR_ROTATION)]
             body = json.dumps({"model": model, "temperature": 0, "max_tokens": 12000,
                                "response_format": {"type": "json_object"},
                                "messages": [{"role": "user", "content": prompt}]}).encode()
@@ -212,14 +223,14 @@ def openrouter(prompt: str) -> dict:
                                          headers={"Authorization": f"Bearer {key}",
                                                   "Content-Type": "application/json"})
             try:
-                with urllib.request.urlopen(req, timeout=300) as r:
+                with urllib.request.urlopen(req, timeout=180) as r:
                     d = json.load(r)
                 text = d["choices"][0]["message"]["content"]
                 parsed = json.loads(text[text.index("{"):text.rindex("}") + 1])
                 return {"model": d.get("model", model), "answer": parsed}
             except Exception as e:
                 last = f"{model}: {type(e).__name__}: {e}"[:300]
-                time.sleep(5 * (attempt + 1))
+                time.sleep(3)
         return {"unreached": last}
     return cached("openrouter", {"prompt": prompt, "models": OR_MODELS}, fetch)
 
@@ -292,8 +303,13 @@ def stage_propose(lines: Lines) -> list[dict]:
     names = [r["surface"] for r in ents]
     batches = [names[i:i + OR_BATCH] for i in range(0, len(names), OR_BATCH)]
     t = time.time()
-    with ThreadPoolExecutor(3) as pool:  # free endpoints share an upstream pool
-        recs = list(pool.map(lambda b: openrouter(PROPOSE.format(terms="\n".join(b))), batches))
+    with ThreadPoolExecutor(OR_WORKERS) as pool:
+        # BILINGUAL_REVERSE=1 walks the batches from the other end, so a second process
+        # can share a slow free endpoint's work; the cache makes the overlap free.
+        order = batches[::-1] if os.environ.get("BILINGUAL_REVERSE") else batches
+        done = dict(zip(map(tuple, order),
+                        pool.map(lambda b: openrouter(PROPOSE.format(terms="\n".join(b))), order)))
+        recs = [done[tuple(b)] for b in batches]
     by_term, unreached, models = {}, 0, Counter()
     for batch, rec in zip(batches, recs):
         if "unreached" in rec:
@@ -309,6 +325,23 @@ def stage_propose(lines: Lines) -> list[dict]:
         c = c.strip().rstrip(".")
         return list(dict.fromkeys([c, c[:1].upper() + c[1:]])) if c else []
 
+    # A model answering 80 names sometimes skips or rewrites a few. Ask again for
+    # exactly those, in fresh batches, up to twice; what is still missing stays None.
+    for _ in range(2):
+        missing = [n for n in names if n not in by_term]
+        if not missing:
+            break
+        retry = [missing[i:i + OR_BATCH // 2] for i in range(0, len(missing), OR_BATCH // 2)]
+        with ThreadPoolExecutor(OR_WORKERS) as pool:
+            again = list(pool.map(lambda b: openrouter(PROPOSE.format(terms="\n".join(b))), retry))
+        for batch, rec in zip(retry, again):
+            if "unreached" in rec:
+                continue
+            models[rec["model"]] += 1
+            for item in rec["answer"].get("terms", []):
+                if isinstance(item, dict) and item.get("term") in batch:
+                    by_term[item["term"]] = item
+        unreached = sum(n not in by_term for n in names)
     wanted = sorted({f for it in by_term.values() for c in it.get("counterparts") or []
                      if isinstance(c, str) for f in forms(c)})
     hits = lines.search(wanted)
@@ -407,6 +440,20 @@ def stage_pairs(lines: Lines) -> list[dict]:
 
 # ── stage 5: the list ─────────────────────────────────────────────────────────
 
+GERMAN = re.compile(r"[äöüßÄÖÜ]|(?:ung|heit|keit|schaft|ismus|ität|ie|ik)(?:en|s)?$|sch|kt\b|koll\b")
+ENGLISH = re.compile(r"(?:tion|ity|ness|ing|ship|ism|ence|ance|ure|ic|ics|y)s?$|\b(?:of|the|and)\b|th|ck\b|ct\b|col\b")
+ARTICLES = {"Das", "Die", "Der", "Den", "Dem", "Des", "Ein", "Eine", "The", "A", "An"}
+
+
+def guess_lang(s: str) -> str | None:
+    """A spelling guess, used only to put a pair in the right columns when the
+    model labelled neither side. `-tion` is both languages' and decides nothing."""
+    g, e = bool(GERMAN.search(s)), bool(ENGLISH.search(s))
+    if s.endswith(("tion", "tions")):
+        g, e = bool(re.search(r"[äöüßÄÖÜ]|sch", s)), not re.search(r"[äöüßÄÖÜ]|sch", s)
+    return "de" if g and not e else "en" if e and not g else None
+
+
 def cite(c: dict) -> str:
     return f"^[{c['slug']}.md:L{c['line']}]"
 
@@ -414,8 +461,10 @@ def cite(c: dict) -> str:
 def stage_write() -> Path:
     ents = read_jsonl("entities")
     langs = {r["surface"]: r for r in read_jsonl("propose")}
-    pairs = read_jsonl("pairs")
-    kept = [r for r in ents if r["p"] >= 0.5]
+    # A bare article can pass the entity filter in a glossed line (`Situation (Das)`);
+    # it names nothing on its own, so no pair with one is listed.
+    pairs = [p for p in read_jsonl("pairs") if p["a"] not in ARTICLES and p["b"] not in ARTICLES]
+    kept = [r for r in ents if r["p"] >= 0.5 and r["surface"] not in ARTICLES]
     links: dict[str, list[dict]] = defaultdict(list)
     for p in pairs:
         if p["relation"] in ("translation", "abbreviation", "variant"):
@@ -435,8 +484,12 @@ def stage_write() -> Path:
         "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in full), encoding="utf-8")
 
     def de_en(p):
-        """Put the German surface left where the languages say which is which."""
-        if p["lang_a"] == "en" and p["lang_b"] != "en":
+        """German surface left. The model's label where it gave de or en, else a
+        guess from spelling; a side with neither takes the opposite of the other."""
+        la = p["lang_a"] if p["lang_a"] in ("de", "en") else guess_lang(p["a"])
+        lb = p["lang_b"] if p["lang_b"] in ("de", "en") else guess_lang(p["b"])
+        a_en = la == "en" or (la is None and lb == "de")
+        if a_en:
             return p["b"], p["a"], p["docs_b"], p["docs_a"]
         return p["a"], p["b"], p["docs_a"], p["docs_b"]
 
@@ -451,7 +504,9 @@ def stage_write() -> Path:
         return f"| {de} | {en} | {conf:.2f} | {dd} | {de_} | {p['docs_both']} | {'; '.join(ev)} |"
 
     trans = sorted((p for p in pairs if p["relation"] == "translation"),
-                   key=lambda p: (-p["probabilities"]["translation"], -(p["docs_a"] + p["docs_b"])))
+                   key=lambda p: -(p["docs_a"] + p["docs_b"]))
+    sure = [p for p in trans if p["probabilities"]["translation"] >= SURE]
+    unsure = [p for p in trans if p["probabilities"]["translation"] < SURE]
     abbr = sorted((p for p in pairs if p["relation"] == "abbreviation"),
                   key=lambda p: (-(p["stated"] or {}).get("docs", 0), -p["probabilities"]["abbreviation"]))
     var = sorted((p for p in pairs if p["relation"] == "variant"),
@@ -486,8 +541,13 @@ Plan/entities/bilingual: provisional
 """
     table = "| German | English | p | docs (de) | docs (en) | docs (both) | evidence |\n|---|---|--:|--:|--:|--:|---|"
     body = [head,
-            f"## Translations — {len(trans)}\n\nThe same entity named in two languages.\n\n{table}",
-            *map(row, trans),
+            f"## Translations — {len(sure)} at p ≥ {SURE}\n\nThe same entity named in two languages, "
+            "most-used first.\n\n" + table,
+            *map(row, sure),
+            f"\n## Translations to read before trusting — {len(unsure)} below p {SURE}\n\n"
+            "The sample checked on 2026-09-23 put the noise here: `Signposts`/`Transits` 0.63, "
+            "`Subjective Story Throughline`/`We` 0.39.\n\n" + table,
+            *map(row, unsure),
             f"\n## Abbreviations — {len(abbr)}\n\n{table.replace('German', 'long').replace('English', 'short')}",
             *map(row, abbr),
             f"\n## Variants — {len(var)}\n\nSame entity, same language: spelling, inflection, plural.\n\n{table.replace('German', 'a').replace('English', 'b')}",

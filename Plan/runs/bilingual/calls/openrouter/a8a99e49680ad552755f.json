@@ -1,0 +1,575 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Isolations-Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "isolation collapse",
+     "isolation breakdown",
+     "isolation failure"
+    ]
+   },
+   {
+    "term": "Isolations-Problem",
+    "lang": "de",
+    "counterparts": [
+     "isolation problem",
+     "isolation issue",
+     "isolation challenge"
+    ]
+   },
+   {
+    "term": "Isolationsproblem",
+    "lang": "de",
+    "counterparts": [
+     "isolation problem",
+     "isolation issue",
+     "isolation challenge"
+    ]
+   },
+   {
+    "term": "Isomorphe Progression",
+    "lang": "de",
+    "counterparts": [
+     "isomorphic progression",
+     "isomorphic development",
+     "isomorphic growth"
+    ]
+   },
+   {
+    "term": "Isomorphe Triangulation",
+    "lang": "de",
+    "counterparts": [
+     "isomorphic triangulation",
+     "isomorphic triangulation method",
+     "isomorphic triangulation approach"
+    ]
+   },
+   {
+    "term": "Isomorphie",
+    "lang": "de",
+    "counterparts": [
+     "isomorphism",
+     "isomorphy",
+     "structural similarity"
+    ]
+   },
+   {
+    "term": "Isomorphismus der Last",
+    "lang": "de",
+    "counterparts": [
+     "isomorphism of the load",
+     "load isomorphism",
+     "structural equivalence of load"
+    ]
+   },
+   {
+    "term": "Isotropie des Raumes",
+    "lang": "de",
+    "counterparts": [
+     "isotropy of space",
+     "spatial isotropy",
+     "uniformity of space"
+    ]
+   },
+   {
+    "term": "J1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "JSON",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "JSON-Objekt",
+    "lang": "de",
+    "counterparts": [
+     "JSON object",
+     "JSON object",
+     "JSON object"
+    ]
+   },
+   {
+    "term": "JSON-Schema",
+    "lang": "de",
+    "counterparts": [
+     "JSON schema",
+     "JSON Schema",
+     "JSON schema definition"
+    ]
+   },
+   {
+    "term": "JUNA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jacques",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jacques Lacan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "James",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "James Ladyman",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "James Sunderland",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Janetian",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Janetian Action Systems",
+    "lang": "en",
+    "counterparts": [
+     "Janetian-Aktionssysteme",
+     "Janetian Aktionssysteme",
+     "Janetian Handlungs-systeme"
+    ]
+   },
+   {
+    "term": "Janko",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jaspers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "JavaScript Object Notation",
+    "lang": "en",
+    "counterparts": [
+     "JavaScript-Objekt-Notation",
+     "JavaScript Objekt Notation",
+     "JavaScript-Objektnotation"
+    ]
+   },
+   {
+    "term": "Jaśkowski",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jaśkowskis D2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jean",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jean-Paul",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jeff VanderMeer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jenkins",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jenseits der Angst",
+    "lang": "de",
+    "counterparts": [
+     "beyond fear",
+     "beyond the fear",
+     "beyond anxiety"
+    ]
+   },
+   {
+    "term": "Jenseits der Heldenreise",
+    "lang": "de",
+    "counterparts": [
+     "beyond the hero's journey",
+     "beyond the hero journey",
+     "beyond the hero's quest"
+    ]
+   },
+   {
+    "term": "Jenseits des Ereignishorizonts",
+    "lang": "de",
+    "counterparts": [
+     "beyond the event horizon",
+     "beyond event horizon",
+     "beyond the event horizon"
+    ]
+   },
+   {
+    "term": "Jericho",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jerry",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jetzt-Raum",
+    "lang": "de",
+    "counterparts": [
+     "now-space",
+     "present space",
+     "current space"
+    ]
+   },
+   {
+    "term": "Jim",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jim Hull",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jitter",
+    "lang": "en",
+    "counterparts": [
+     "Jitter",
+     "Zittern",
+     "Timing-Jitter"
+    ]
+   },
+   {
+    "term": "Jnana",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "John",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "John Conway",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "John Horgan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Johnson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jonathan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Joseph",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Journey",
+    "lang": "en",
+    "counterparts": [
+     "Reise",
+     "Weg",
+     "Pfad"
+    ]
+   },
+   {
+    "term": "Judgment",
+    "lang": "en",
+    "counterparts": [
+     "Urteil",
+     "Bewertung",
+     "Einschätzung"
+    ]
+   },
+   {
+    "term": "Judgment-Doppel-Lesart",
+    "lang": "de",
+    "counterparts": [
+     "judgment double reading",
+     "dual judgment interpretation",
+     "double judgment reading"
+    ]
+   },
+   {
+    "term": "Juli",
+    "lang": "de",
+    "counterparts": [
+     "July",
+     "Jul",
+     "July (month)"
+    ]
+   },
+   {
+    "term": "Julia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Julia-Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "Julia connection",
+     "Julia link",
+     "Julia bond"
+    ]
+   },
+   {
+    "term": "Julias",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Juna",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Juna-Echo",
+    "lang": "de",
+    "counterparts": [
+     "Juna echo",
+     "Juna echo phenomenon",
+     "Juna echo signal"
+    ]
+   },
+   {
+    "term": "Juna-Interferenz",
+    "lang": "de",
+    "counterparts": [
+     "Juna interference",
+     "Juna interference pattern",
+     "Juna interferometry"
+    ]
+   },
+   {
+    "term": "Juna-Kael-System",
+    "lang": "de",
+    "counterparts": [
+     "Juna-Kael system",
+     "Juna Kael system",
+     "Juna-Kael system"
+    ]
+   },
+   {
+    "term": "Juna-Link",
+    "lang": "de",
+    "counterparts": [
+     "Juna link",
+     "Juna connection",
+     "Juna bond"
+    ]
+   },
+   {
+    "term": "Juna-Phänomen",
+    "lang": "de",
+    "counterparts": [
+     "Juna phenomenon",
+     "Juna phenomena",
+     "Juna phenomenon"
+    ]
+   },
+   {
+    "term": "Juna-Phänomene",
+    "lang": "de",
+    "counterparts": [
+     "Juna phenomena",
+     "Juna phenomenon",
+     "Juna phenomena"
+    ]
+   },
+   {
+    "term": "Juna-Vektor",
+    "lang": "de",
+    "counterparts": [
+     "Juna vector",
+     "Juna vector",
+     "Juna vector"
+    ]
+   },
+   {
+    "term": "Juna-Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "Juna connection",
+     "Juna bond",
+     "Juna link"
+    ]
+   },
+   {
+    "term": "Juna/V",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Juna/V-Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "Juna/V connection",
+     "Juna/V bond",
+     "Juna/V link"
+    ]
+   },
+   {
+    "term": "Juna/Vs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "JunaV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Junas",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Junas Ankerpunkt",
+    "lang": "de",
+    "counterparts": [
+     "Junas anchor point",
+     "Junas anchorage",
+     "Junas anchor point"
+    ]
+   },
+   {
+    "term": "Junas Geheime Schnittstelle",
+    "lang": "de",
+    "counterparts": [
+     "Junas secret interface",
+     "Junas hidden interface",
+     "Junas secret connection"
+    ]
+   },
+   {
+    "term": "Junas Vermächtnis",
+    "lang": "de",
+    "counterparts": [
+     "Junas legacy",
+     "Junas heritage",
+     "Junas bequest"
+    ]
+   },
+   {
+    "term": "Junas Zufluchtsort",
+    "lang": "de",
+    "counterparts": [
+     "Junas refuge",
+     "Junas sanctuary",
+     "Junas hideout"
+    ]
+   },
+   {
+    "term": "Jung",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Jungian",
+    "lang": "en",
+    "counterparts": [
+     "jungianisch",
+     "Jungianisch",
+     "jungian"
+    ]
+   },
+   {
+    "term": "Jungianische",
+    "lang": "de",
+    "counterparts": [
+     "Jungian",
+     "Jungian",
+     "Jungian"
+    ]
+   },
+   {
+    "term": "Justice",
+    "lang": "en",
+    "counterparts": [
+     "Gerechtigkeit",
+     "Justiz",
+     "Rechtsprechung"
+    ]
+   },
+   {
+    "term": "Justification",
+    "lang": "en",
+    "counterparts": [
+     "Begründung",
+     "Rechtfertigung",
+     "Justifikation"
+    ]
+   },
+   {
+    "term": "K-1123",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K-J",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "K-J Vector",
+    "lang": "en",
+    "counterparts": [
+     "K-J Vektor",
+     "K-J-Vektor",
+     "K J Vektor"
+    ]
+   },
+   {
+    "term": "K-J Verbindung",
+    "lang": "de",
+    "counterparts": [
+     "K-J connection",
+     "K-J link",
+     "K-J bond"
+    ]
+   },
+   {
+    "term": "K-J-Bindung",
+    "lang": "de",
+    "counterparts": [
+     "K-J binding",
+     "K-J bond",
+     "K-J linkage"
+    ]
+   }
+  ]
+ }
+}

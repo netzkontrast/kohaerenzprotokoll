@@ -1,0 +1,483 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Overhead",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Overload",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Overseer",
+    "lang": "en",
+    "counterparts": [
+     "Aufseher",
+     "Überwacher",
+     "Overseer"
+    ]
+   },
+   {
+    "term": "Overworld",
+    "lang": "en",
+    "counterparts": [
+     "Überwelt",
+     "Overworld",
+     "Oberwelt"
+    ]
+   },
+   {
+    "term": "Oxford",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Oxytocin",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "P-Class",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P-ENTROPY",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P-INIT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P-Klasse",
+    "lang": "de",
+    "counterparts": [
+     "P-Class",
+     "P-Klasse",
+     "P class"
+    ]
+   },
+   {
+    "term": "P-Zombies",
+    "lang": "en",
+    "counterparts": [
+     "P-Zombies",
+     "P-Zombis",
+     "P-Zombies"
+    ]
+   },
+   {
+    "term": "P1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P1-P8",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P3",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P4",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P5",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P6",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P7",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "P8",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PAL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PANSS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PAPA-Modell",
+    "lang": "de",
+    "counterparts": [
+     "PAPA model",
+     "PAPA-Modell",
+     "PAPA-model"
+    ]
+   },
+   {
+    "term": "PARACONSISTENT",
+    "lang": "en",
+    "counterparts": [
+     "PARACONSISTENT",
+     "parakonsistent",
+     "paraconsistently"
+    ]
+   },
+   {
+    "term": "PARADOX",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "PARTS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PBS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PCG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PCT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PDXScholar",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PET",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PFC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PFC Online",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PFC-Amygdala-Konnektivität",
+    "lang": "de",
+    "counterparts": [
+     "PFC-Amygdala-Connectivity",
+     "PFC-Amygdala-Konnektivität",
+     "PFC amygdala connectivity"
+    ]
+   },
+   {
+    "term": "PFC-Circuit-Breaking",
+    "lang": "en",
+    "counterparts": [
+     "PFC-Circuit-Breaking",
+     "PFC-Schaltkreisunterbrechung",
+     "PFC-Schaltkreis-Unterbrechung"
+    ]
+   },
+   {
+    "term": "PH520",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PIF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PITT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PKD",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PKP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PKP-Erweiterung",
+    "lang": "de",
+    "counterparts": [
+     "PKP extension",
+     "PKP-Erweiterung",
+     "PKP-extension"
+    ]
+   },
+   {
+    "term": "PKP-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "PKP theory",
+     "PKP-Theorie",
+     "PKP-theory"
+    ]
+   },
+   {
+    "term": "PKP-Zustand",
+    "lang": "de",
+    "counterparts": [
+     "PKP state",
+     "PKP-Zustand",
+     "PKP-state"
+    ]
+   },
+   {
+    "term": "PKPs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PL-Systeme",
+    "lang": "de",
+    "counterparts": [
+     "PL systems",
+     "PL-Systeme",
+     "PL-systems"
+    ]
+   },
+   {
+    "term": "PMAS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PMAS-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "PMAS protocol",
+     "PMAS-Protokoll",
+     "PMAS-protocol"
+    ]
+   },
+   {
+    "term": "PMC10950423",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PMC4579498",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PMC5283511",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PMC5632787",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PMS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PNAS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PNI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "POTENTIALMEER-ANOMALIE JUNA",
+    "lang": "de",
+    "counterparts": [
+     "POTENTIAL SEA ANOMALY JUNA",
+     "Potentialmeer-Anomalie Juna",
+     "Potential sea anomaly Juna"
+    ]
+   },
+   {
+    "term": "POV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PP-CCH-01",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PP-INT-01",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PP-INT-02",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PP-INT-03",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PP-INT-04",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PP-SYS-02",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PP-SYS-03",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PREDICTIVE",
+    "lang": "en",
+    "counterparts": [
+     "vorhersagend",
+     "predictive",
+     "vorhersagende"
+    ]
+   },
+   {
+    "term": "PRESERVE",
+    "lang": "en",
+    "counterparts": [
+     "bewahren",
+     "preserve",
+     "aufheben"
+    ]
+   },
+   {
+    "term": "PRO-Framework",
+    "lang": "en",
+    "counterparts": [
+     "PRO-Framework",
+     "PRO-Rahmenwerk",
+     "Pro-Framework"
+    ]
+   },
+   {
+    "term": "PROTOCOL",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "PS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PSE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PSM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PTBS",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "PTG",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PTK NRW",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "PTSD",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "P_versus_NP_problem",
+    "lang": "en",
+    "counterparts": [
+     "P-gegen-NP-Problem",
+     "P versus NP Problem",
+     "P-gegen-NP-Problem"
+    ]
+   },
+   {
+    "term": "Paar Truth",
+    "lang": "de",
+    "counterparts": [
+     "Pair Truth",
+     "Paar Truth",
+     "Paar-Wahrheit"
+    ]
+   },
+   {
+    "term": "Page",
+    "lang": "both",
+    "counterpairs": []
+   }
+  ]
+ }
+}

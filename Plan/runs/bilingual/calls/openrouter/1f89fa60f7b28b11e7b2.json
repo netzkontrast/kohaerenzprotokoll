@@ -1,0 +1,663 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "GdS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gedankenkontrolle",
+    "lang": "de",
+    "counterparts": [
+     "thought control",
+     "mental control",
+     "cognitive control"
+    ]
+   },
+   {
+    "term": "Gedankenverschmelzung",
+    "lang": "de",
+    "counterparts": [
+     "thought fusion",
+     "mental merging",
+     "cognitive fusion"
+    ]
+   },
+   {
+    "term": "Gedächtnisdiagnostik",
+    "lang": "de",
+    "counterparts": [
+     "memory diagnostics",
+     "mnemonic diagnostics",
+     "cognitive diagnostics"
+    ]
+   },
+   {
+    "term": "Gedächtnislöschung",
+    "lang": "de",
+    "counterparts": [
+     "memory deletion",
+     "memory erasure",
+     "mnemonic deletion"
+    ]
+   },
+   {
+    "term": "Gedächtnismodelle",
+    "lang": "de",
+    "counterparts": [
+     "memory models",
+     "mnemonic models",
+     "cognitive models"
+    ]
+   },
+   {
+    "term": "Gedächtnispaläste",
+    "lang": "de",
+    "counterparts": [
+     "memory palaces",
+     "mnemonic palaces",
+     "memory castles"
+    ]
+   },
+   {
+    "term": "GeeksforGeeks",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Geflecht",
+    "lang": "de",
+    "counterparts": [
+     "network",
+     "mesh",
+     "tangle"
+    ]
+   },
+   {
+    "term": "Gefrorene",
+    "lang": "de",
+    "counterparts": [
+     "frozen",
+     "congealed",
+     "solidified"
+    ]
+   },
+   {
+    "term": "Gefüge",
+    "lang": "de",
+    "counterparts": [
+     "structure",
+     "fabric",
+     "contexture"
+    ]
+   },
+   {
+    "term": "Gegenübertragung",
+    "lang": "de",
+    "counterparts": [
+     "countertransference",
+     "countertransfer",
+     "projective identification"
+    ]
+   },
+   {
+    "term": "Gegenüberwachung",
+    "lang": "de",
+    "counterparts": [
+     "counter-surveillance",
+     "mutual surveillance",
+     "cross-monitoring"
+    ]
+   },
+   {
+    "term": "Gegnermodellierung",
+    "lang": "de",
+    "counterparts": [
+     "enemy modeling",
+     "adversary modeling",
+     "opponent modeling"
+    ]
+   },
+   {
+    "term": "Geheilte Genesis",
+    "lang": "de",
+    "counterparts": [
+     "healed genesis",
+     "cured genesis",
+     "restored genesis"
+    ]
+   },
+   {
+    "term": "Gehirn-Computer-Schnittstellen",
+    "lang": "de",
+    "counterparts": [
+     "brain-computer interfaces",
+     "BCI",
+     "neural interfaces"
+    ]
+   },
+   {
+    "term": "Geister",
+    "lang": "de",
+    "counterparts": [
+     "ghosts",
+     "spirits",
+     "apparitions"
+    ]
+   },
+   {
+    "term": "Geister-Prozess",
+    "lang": "de",
+    "counterparts": [
+     "ghost process",
+     "spirit process",
+     "spectral process"
+    ]
+   },
+   {
+    "term": "Gekoppelte Oszillatoren",
+    "lang": "de",
+    "counterparts": [
+     "coupled oscillators",
+     "linked oscillators",
+     "synchronized oscillators"
+    ]
+   },
+   {
+    "term": "Gelb",
+    "lang": "de",
+    "counterparts": [
+     "yellow",
+     "golden",
+     "amber"
+    ]
+   },
+   {
+    "term": "Gelebte Integration",
+    "lang": "de",
+    "counterparts": [
+     "lived integration",
+     "experienced integration",
+     "embodied integration"
+    ]
+   },
+   {
+    "term": "Gemini",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gemini-CLI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gemäß der Dual-Kernel Theory",
+    "lang": "de",
+    "counterparts": [
+     "according to the dual-kernel theory",
+     "per the dual-kernel theory",
+     "in line with the dual-kernel theory"
+    ]
+   },
+   {
+    "term": "Generalisierten Angststörung",
+    "lang": "de",
+    "counterparts": [
+     "generalized anxiety disorder",
+     "GAD",
+     "generalized anxiety"
+    ]
+   },
+   {
+    "term": "Generationen",
+    "lang": "de",
+    "counterparts": [
+     "generations",
+     "cohorts",
+     "age groups"
+    ]
+   },
+   {
+    "term": "Generative KI",
+    "lang": "de",
+    "counterparts": [
+     "generative AI",
+     "generative artificial intelligence",
+     "generative machine learning"
+    ]
+   },
+   {
+    "term": "Generative Synthese",
+    "lang": "de",
+    "counterparts": [
+     "generative synthesis",
+     "generative composition",
+     "generative creation"
+    ]
+   },
+   {
+    "term": "Generative Systeme",
+    "lang": "de",
+    "counterparts": [
+     "generative systems",
+     "generative models",
+     "generative architectures"
+    ]
+   },
+   {
+    "term": "Generative Tools",
+    "lang": "de",
+    "counterparts": [
+     "generative tools",
+     "generative applications",
+     "generative utilities"
+    ]
+   },
+   {
+    "term": "Genesis",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Genesis Crisis",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Genesis der Existenz",
+    "lang": "de",
+    "counterparts": [
+     "genesis of existence",
+     "origin of existence",
+     "beginning of existence"
+    ]
+   },
+   {
+    "term": "Genesis-Event",
+    "lang": "de",
+    "counterparts": [
+     "genesis event",
+     "creation event",
+     "origin event"
+    ]
+   },
+   {
+    "term": "Genesis-Krise",
+    "lang": "de",
+    "counterparts": [
+     "genesis crisis",
+     "creation crisis",
+     "origin crisis"
+    ]
+   },
+   {
+    "term": "Genesis-Krise-Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "genesis crisis paradox",
+     "paradox of the genesis crisis",
+     "creation crisis paradox"
+    ]
+   },
+   {
+    "term": "Genetische Algorithmen",
+    "lang": "de",
+    "counterparts": [
+     "genetic algorithms",
+     "GA",
+     "evolutionary algorithms"
+    ]
+   },
+   {
+    "term": "Genre-Ebene",
+    "lang": "de",
+    "counterparts": [
+     "genre level",
+     "genre layer",
+     "genre tier"
+    ]
+   },
+   {
+    "term": "George",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gesamt-Grades der Behinderung",
+    "lang": "de",
+    "counterparts": [
+     "total degree of disability",
+     "overall disability rating",
+     "cumulative disability grade"
+    ]
+   },
+   {
+    "term": "Gesamtentropie",
+    "lang": "de",
+    "counterparts": [
+     "total entropy",
+     "overall entropy",
+     "aggregate entropy"
+    ]
+   },
+   {
+    "term": "Gesamtsystem",
+    "lang": "de",
+    "counterparts": [
+     "total system",
+     "overall system",
+     "integrated system"
+    ]
+   },
+   {
+    "term": "Geschöpf-Dynamik",
+    "lang": "de",
+    "counterparts": [
+     "creature dynamics",
+     "creation dynamics",
+     "being dynamics"
+    ]
+   },
+   {
+    "term": "Gesetze der Romanwelt",
+    "lang": "de",
+    "counterparts": [
+     "laws of the novel world",
+     "laws of the fictional world",
+     "world laws"
+    ]
+   },
+   {
+    "term": "Gestaltpsychologie",
+    "lang": "de",
+    "counterparts": [
+     "Gestalt psychology",
+     "gestalt psychology",
+     "configuration psychology"
+    ]
+   },
+   {
+    "term": "Gestaltwandler",
+    "lang": "de",
+    "counterparts": [
+     "Gestalt changer",
+     "shape shifter",
+     "form changer"
+    ]
+   },
+   {
+    "term": "Gesunder Erwachsenenmodus",
+    "lang": "de",
+    "counterparts": [
+     "healthy adult mode",
+     "adult healthy mode",
+     "mature adult mode"
+    ]
+   },
+   {
+    "term": "Gewahrsein",
+    "lang": "de",
+    "counterparts": [
+     "awareness",
+     "consciousness",
+     "sentience"
+    ]
+   },
+   {
+    "term": "Gewichtung",
+    "lang": "de",
+    "counterparts": [
+     "weighting",
+     "prioritization",
+     "valuation"
+    ]
+   },
+   {
+    "term": "Geworfen-Sein",
+    "lang": "de",
+    "counterparts": [
+     "thrownness",
+     "being thrown",
+     "abandonment"
+    ]
+   },
+   {
+    "term": "Gezeitenkräfte",
+    "lang": "de",
+    "counterparts": [
+     "tidal forces",
+     "tide forces",
+     "gravitational tides"
+    ]
+   },
+   {
+    "term": "Ghost",
+    "lang": "en",
+    "counterparts": [
+     "Geist",
+     "Spuk",
+     "Phantom"
+    ]
+   },
+   {
+    "term": "Giannakopoulos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gibson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gilliam",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gilligan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "GitHub",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Gitter",
+    "lang": "de",
+    "counterparts": [
+     "grid",
+     "lattice",
+     "grating"
+    ]
+   },
+   {
+    "term": "Gitter-Exploration",
+    "lang": "de",
+    "counterparts": [
+     "grid exploration",
+     "lattice exploration",
+     "grid traversal"
+    ]
+   },
+   {
+    "term": "Gittereffekte",
+    "lang": "de",
+    "counterparts": [
+     "grid effects",
+     "lattice effects",
+     "grating effects"
+    ]
+   },
+   {
+    "term": "Gitterstruktur",
+    "lang": "de",
+    "counterparts": [
+     "grid structure",
+     "lattice structure",
+     "grating structure"
+    ]
+   },
+   {
+    "term": "Giulio",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Giulio Tononis Integrierte Informationstheorie",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Glaube",
+    "lang": "de",
+    "counterparts": [
+     "faith",
+     "belief",
+     "conviction"
+    ]
+   },
+   {
+    "term": "Glauben",
+    "lang": "de",
+    "counterparts": [
+     "beliefs",
+     "faiths",
+     "convictions"
+    ]
+   },
+   {
+    "term": "Glaubensätze",
+    "lang": "de",
+    "counterparts": [
+     "beliefs",
+     "creeds",
+     "dogmas"
+    ]
+   },
+   {
+    "term": "Gleichgewicht des Autonomen Nervensystems",
+    "lang": "de",
+    "counterparts": [
+     "balance of the autonomic nervous system",
+     "autonomic equilibrium",
+     "ANS balance"
+    ]
+   },
+   {
+    "term": "Gleichgültigkeit",
+    "lang": "de",
+    "counterparts": [
+     "indifference",
+     "apathy",
+     "nonchalance"
+    ]
+   },
+   {
+    "term": "Gleichung",
+    "lang": "de",
+    "counterparts": [
+     "equation",
+     "formula",
+     "mathematical expression"
+    ]
+   },
+   {
+    "term": "Glewe",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Glitch",
+    "lang": "en",
+    "counterparts": [
+     "Fehler",
+     "Störung",
+     "Glitch"
+    ]
+   },
+   {
+    "term": "Glitch-Art",
+    "lang": "en",
+    "counterparts": [
+     "Glitch-Kunst",
+     "Glitch-Ästhetik",
+     "Fehlerkunst"
+    ]
+   },
+   {
+    "term": "Glitch-Ästhetik",
+    "lang": "de",
+    "counterparts": [
+     "glitch aesthetics",
+     "glitch art aesthetics",
+     "error aesthetics"
+    ]
+   },
+   {
+    "term": "Glitch_art",
+    "lang": "en",
+    "counterparts": [
+     "Glitch-Kunst",
+     "Glitch-Ästhetik",
+     "Fehlerkunst"
+    ]
+   },
+   {
+    "term": "Glitches",
+    "lang": "en",
+    "counterparts": [
+     "Glitches",
+     "Fehler",
+     "Störungen"
+    ]
+   },
+   {
+    "term": "Glitching Market",
+    "lang": "en",
+    "counterparts": [
+     "Glitching-Markt",
+     "Fehlerhafter Markt",
+     "Störungsmarkt"
+    ]
+   },
+   {
+    "term": "Glitchwyrm",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Global Assessment of Functioning",
+    "lang": "en",
+    "counterparts": [
+     "Globale Bewertung der Funktion",
+     "Globale Funktionsbewertung",
+     "GAF"
+    ]
+   },
+   {
+    "term": "Global Neuronal Workspace",
+    "lang": "en",
+    "counterparts": [
+     "Globales neuronales Arbeitsgedächtnis",
+     "Globales neuronales Workspace",
+     "GNW"
+    ]
+   },
+   {
+    "term": "Global Work Packages",
+    "lang": "en",
+    "counterparts": [
+     "Globale Arbeitspakete",
+     "Globale Work Packages",
+     "GWP"
+    ]
+   }
+  ]
+ }
+}

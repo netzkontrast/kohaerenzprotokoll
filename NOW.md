@@ -11,11 +11,14 @@ python3 scripts/state.py --prose    # fail on any stale number in this file
 
 ## Open decisions — these are judgement, not measurement
 
-**How far the yes to TypeSafe reaches.** On 2026-09-23 the author said yes to
-testing Jev on corpus text, asked as „a small test on the two documents with a
-reader's list", and the test sent those two documents' passages (below). That is
-the whole of what has been approved. A corpus-wide run sends every landed
-document and should be asked for again, with its cost.
+**How far the yes to TypeSafe reaches.** On 2026-09-23 the author said yes twice.
+First to „a small test on the two documents with a reader's list", which sent
+those two documents' passages. Then, the same day, to using Jev and OpenRouter's
+free models for the German–English entity mapping (below). That run sent Jev up to
+two lines of context per surface for 18,026 surfaces and up to four lines per pair
+for 11,277 pairs, drawn from across the landed corpus. The free models got **names
+only**, because a free endpoint may keep what it is sent. Anything beyond those two
+uses should be asked for again, with its cost.
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has the three placements and what
 each would send.
 
@@ -168,6 +171,34 @@ gazetteer). Which of the two a corpus-wide entity list should hold is the
 author's call, and the prompt's definition of an entity is where it would be
 written. `Plan/concept/entity-lists_2026-09-23.md` has the argument.
 
+## German and English names — mapped, not merged
+
+`scripts/bilingual.py` maps the German and English surfaces of one entity across
+the whole corpus. `Plan/entities/bilingual.md` holds the pairs and
+`Plan/entities/bilingual.jsonl` holds every judged entity with its counterparts.
+
+- **stated**: code found 12,526 glosses the corpus writes itself, `A (B)` and `A/B`,
+  8,129 of them with at least one side an entity.
+- **entities**: Jev accepted 6,989 of 18,026 surfaces as entities or key terms.
+  The spot check was sound: `Wächter` 0.83, `Guardian` 0.93, `Ziel` 0.17, `Die` 0.11.
+  One article got through, `Das` at 0.73, and the write stage now drops bare articles.
+- **propose**: four free models, given names only, proposed counterparts.
+  2,312 entities have one the corpus contains, and 34 names were never answered.
+- **pairs**: Jev chose one relation for each of the 11,277 pairs:
+  3,785 translation (2,474 at p ≥ 0.8), 989 abbreviation, 250 variant,
+  2,465 role or part, 3,783 distinct.
+- **Cost**: 1,015 Jev calls and 10.9M input tokens, about $0.46. Plus 99 free
+  calls, which took 70 minutes, because only `nemotron-3-super` and
+  `dots-3-note` answered a batch of 80 reliably.
+
+**What needs a person.** The high tier reads right on the pairs the wiki cares
+about: `Kernwelten`/`Core Worlds` in 8 documents, `Überwelt`/`Overworld` in 5,
+`Risse`/`Rifts` in 3, `Handlungsfähigkeit`/`Agency`, `Erleben`/`Qualia` in 15.
+Even there it holds naming relations Jev called translations: `Logik`/`LogOS` 0.85
+is a guardian named for its domain. Below 0.8 the list is noisy, with
+`Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
+high tier into it is the next step, and it is a person's.
+
 ## Next document — not yet chosen
 
 The sixth is done. It was chosen because `kern-welten` asked for `KW2` or `KW4`
@@ -185,10 +216,13 @@ What the wiki now asks for, in its own words:
   Document 6's table says the third name came from `Plot Teil 1`, which points at
   a plot document.
 
-**And one thing to watch rather than to look for.** Two documents now use
-`Wächter` and `Guardian` in complementary distribution with no overlap, and the
-index maps neither word to the other. The next document that uses both is worth
-more than the next document that uses either.
+**`Wächter` and `Guardian` do meet, and the corpus says so.** Two read documents
+use them in complementary distribution, and that held for those two only. Across
+the corpus 44 documents contain both, and
+`umfassendes-lokalitaeten-konzept-fuer-roman` L31 writes „den entsprechenden
+Wächter (Guardian) von AEGIS". That is the document that line was waiting for:
+it states the equation rather than leaving it to be inferred. It has not been
+read. Whether the two are one term is still `judgements.jsonl`'s question.
 
 ## Postponed, and safe to postpone because the record proves it
 

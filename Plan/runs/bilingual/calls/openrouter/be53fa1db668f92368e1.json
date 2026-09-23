@@ -1,0 +1,560 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Dissoziation-Forum",
+    "lang": "de",
+    "counterparts": [
+     "Dissociation Forum"
+    ]
+   },
+   {
+    "term": "Dissoziations-Fremdbeurteilungs-Liste",
+    "lang": "de",
+    "counterparts": [
+     "Dissociation External Assessment List",
+     "Dissociation Foreign Evaluation List",
+     "Dissociation External Assessment Catalogue"
+    ]
+   },
+   {
+    "term": "Dissoziationsbarrieren des ANP",
+    "lang": "de",
+    "counterparts": [
+     "Dissociation Barriers of the ANP",
+     "ANP Dissociation Barriers",
+     "Barriers to Dissociation in ANP"
+    ]
+   },
+   {
+    "term": "Dissoziative Amnesie",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Amnesia"
+    ]
+   },
+   {
+    "term": "Dissoziative Derealisation",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Derealization"
+    ]
+   },
+   {
+    "term": "Dissoziative Identitätsstruktur",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Identity Structure"
+    ]
+   },
+   {
+    "term": "Dissoziative Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Identity Disorder"
+    ]
+   },
+   {
+    "term": "Dissoziative Störungen",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Disorders"
+    ]
+   },
+   {
+    "term": "Dissoziativen Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Identity Disorder"
+    ]
+   },
+   {
+    "term": "Dissoziativen Störungen",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Disorders"
+    ]
+   },
+   {
+    "term": "Dissoziativer Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Identity Disorder"
+    ]
+   },
+   {
+    "term": "Dissoziatives Modul",
+    "lang": "de",
+    "counterparts": [
+     "Dissociative Module"
+    ]
+   },
+   {
+    "term": "Distributed Ledgers",
+    "lang": "en",
+    "counterparts": [
+     "Verteilte Ledger",
+     "Verteilte Hauptbücher",
+     "Dezentrale Ledger"
+    ]
+   },
+   {
+    "term": "DivergenzirreversiblerEreignisse",
+    "lang": "de",
+    "counterparts": [
+     "Divergence-Irreversible Events"
+    ]
+   },
+   {
+    "term": "Dividend",
+    "lang": "en",
+    "counterparts": [
+     "Dividende"
+    ]
+   },
+   {
+    "term": "Do",
+    "lang": "en",
+    "counterparts": [
+     "tun",
+     "machen",
+     "ausführen"
+    ]
+   },
+   {
+    "term": "Do-er",
+    "lang": "en",
+    "counterparts": [
+     "Ausführender",
+     "Täter",
+     "Machender"
+    ]
+   },
+   {
+    "term": "DocCheck",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Docker",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dogma",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Doing",
+    "lang": "en",
+    "counterparts": [
+     "Tun",
+     "Ausführung",
+     "Erledigen"
+    ]
+   },
+   {
+    "term": "Doktrin",
+    "lang": "de",
+    "counterparts": [
+     "Doctrine"
+    ]
+   },
+   {
+    "term": "Domain",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Domain Physics",
+    "lang": "en",
+    "counterparts": [
+     "Domänenphysik"
+    ]
+   },
+   {
+    "term": "Domain-Driven Design",
+    "lang": "en",
+    "counterparts": [
+     "Domänengesteuertes Design"
+    ]
+   },
+   {
+    "term": "Domain-Inversion",
+    "lang": "en",
+    "counterparts": [
+     "Domänen-Inversion"
+    ]
+   },
+   {
+    "term": "Domains",
+    "lang": "en",
+    "counterparts": [
+     "Domänen"
+    ]
+   },
+   {
+    "term": "Domino Effect",
+    "lang": "en",
+    "counterparts": [
+     "Dominoeffekt"
+    ]
+   },
+   {
+    "term": "Dominoeffekt",
+    "lang": "de",
+    "counterparts": [
+     "Domino Effect"
+    ]
+   },
+   {
+    "term": "Domäne Mind",
+    "lang": "de",
+    "counterparts": [
+     "Domain Mind"
+    ]
+   },
+   {
+    "term": "Domäne Physics",
+    "lang": "de",
+    "counterparts": [
+     "Domain Physics"
+    ]
+   },
+   {
+    "term": "Domäne Universe",
+    "lang": "de",
+    "counterparts": [
+     "Domain Universe"
+    ]
+   },
+   {
+    "term": "Domäne der EPs",
+    "lang": "de",
+    "counterparts": [
+     "Domain of the EPs"
+    ]
+   },
+   {
+    "term": "Domäne der Fixed Attitude",
+    "lang": "de",
+    "counterparts": [
+     "Domain of the Fixed Attitude"
+    ]
+   },
+   {
+    "term": "Domäne der Situation",
+    "lang": "de",
+    "counterparts": [
+     "Domain of the Situation"
+    ]
+   },
+   {
+    "term": "Domänen",
+    "lang": "de",
+    "counterparts": [
+     "Domains"
+    ]
+   },
+   {
+    "term": "Dopamin",
+    "lang": "de",
+    "counterparts": [
+     "Dopamine"
+    ]
+   },
+   {
+    "term": "Dopamin-Dürre",
+    "lang": "de",
+    "counterparts": [
+     "Dopamine Drought"
+    ]
+   },
+   {
+    "term": "Doppelmuldenpotential",
+    "lang": "de",
+    "counterparts": [
+     "Double Well Potential"
+    ]
+   },
+   {
+    "term": "Doppelter Boden",
+    "lang": "de",
+    "counterparts": [
+     "Double Bottom"
+    ]
+   },
+   {
+    "term": "Dorsal",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Dorsaler",
+    "lang": "de",
+    "counterparts": [
+     "dorsal"
+    ]
+   },
+   {
+    "term": "Dortmund",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Double",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Double Bind",
+    "lang": "en",
+    "counterparts": [
+     "Doppelbindung"
+    ]
+   },
+   {
+    "term": "Double Bottom",
+    "lang": "en",
+    "counterparts": [
+     "Doppelter Boden"
+    ]
+   },
+   {
+    "term": "Double-IC",
+    "lang": "en",
+    "counterparts": [
+     "Doppel-IC"
+    ]
+   },
+   {
+    "term": "Double-Well Potential",
+    "lang": "en",
+    "counterparts": [
+     "Doppelmuldenpotential",
+     "Doppelwell-Potential"
+    ]
+   },
+   {
+    "term": "Downward",
+    "lang": "en",
+    "counterparts": [
+     "abwärts",
+     "nach unten"
+    ]
+   },
+   {
+    "term": "Downward Causation",
+    "lang": "en",
+    "counterparts": [
+     "abwärts gerichtete Kausalität",
+     "nach unten gerichtete Kausalität",
+     "Downward Kausalität"
+    ]
+   },
+   {
+    "term": "Dragon",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Dread",
+    "lang": "en",
+    "counterparts": [
+     "Furcht",
+     "Angst",
+     "Schrecken"
+    ]
+   },
+   {
+    "term": "Dramatica",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dramatica Klasse",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Class"
+    ]
+   },
+   {
+    "term": "Dramatica Layer Schema",
+    "lang": "en",
+    "counterparts": [
+     "Dramatica-Layerschema"
+    ]
+   },
+   {
+    "term": "Dramatica Matrix",
+    "lang": "en",
+    "counterparts": [
+     "Dramatica-Matrix"
+    ]
+   },
+   {
+    "term": "Dramatica Signpost",
+    "lang": "en",
+    "counterparts": [
+     "Dramatica-Signpost"
+    ]
+   },
+   {
+    "term": "Dramatica Storyform",
+    "lang": "en",
+    "counterparts": [
+     "Dramatica-Storyform"
+    ]
+   },
+   {
+    "term": "Dramatica Storyform Synthese",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Storyform Synthesis"
+    ]
+   },
+   {
+    "term": "Dramatica-Element",
+    "lang": "en",
+    "counterparts": [
+     "Dramatica-Element"
+    ]
+   },
+   {
+    "term": "Dramatica-Engine",
+    "lang": "en",
+    "counterparts": [
+     "Dramatica-Engine"
+    ]
+   },
+   {
+    "term": "Dramatica-Klasse",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Class"
+    ]
+   },
+   {
+    "term": "Dramatica-Modells",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Models"
+    ]
+   },
+   {
+    "term": "Dramatica-Regeln",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Rules"
+    ]
+   },
+   {
+    "term": "Dramatica-Storyform",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Storyform"
+    ]
+   },
+   {
+    "term": "Dramatica-Storyforms",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Storyforms"
+    ]
+   },
+   {
+    "term": "Dramatica-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Structure"
+    ]
+   },
+   {
+    "term": "Dramatica-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "Dramatica Theory"
+    ]
+   },
+   {
+    "term": "Dramatica-Throughlines",
+    "lang": "en",
+    "counterparts": [
+     "Dramatica-Throughlines"
+    ]
+   },
+   {
+    "term": "Dramatische Ironie",
+    "lang": "de",
+    "counterparts": [
+     "Dramatic Irony"
+    ]
+   },
+   {
+    "term": "Drei Meta-Cluster",
+    "lang": "de",
+    "counterparts": [
+     "Three Meta-Clusters"
+    ]
+   },
+   {
+    "term": "Drei Phasen des Protokolls",
+    "lang": "de",
+    "counterparts": [
+     "Three Phases of the Protocol"
+    ]
+   },
+   {
+    "term": "Drei-Akt-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "Three-Act Structure"
+    ]
+   },
+   {
+    "term": "Dresden",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dressing",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Driver",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Driver A",
+    "lang": "en",
+    "counterparts": [
+     "Treiber A"
+    ]
+   },
+   {
+    "term": "Driver-Pivot",
+    "lang": "en",
+    "counterparts": [
+     "Treiber-Pivot"
+    ]
+   },
+   {
+    "term": "Dual",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Dual Awareness",
+    "lang": "en",
+    "counterparts": [
+     "duale Wahrnehmung",
+     "doppelte Wahrnehmung"
+    ]
+   }
+  ]
+ }
+}

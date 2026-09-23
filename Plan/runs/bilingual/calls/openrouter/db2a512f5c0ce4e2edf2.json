@@ -1,0 +1,640 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Komplexe Adaptive Systeme",
+    "lang": "de",
+    "counterparts": [
+     "Complex Adaptive Systems",
+     "complex adaptive systems"
+    ]
+   },
+   {
+    "term": "Komplexe Posttraumatische Belastungsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Complex Posttraumatic Stress Disorder",
+     "complex posttraumatic stress disorder",
+     "C-PTSD"
+    ]
+   },
+   {
+    "term": "Komplexen Adaptiven Systemen",
+    "lang": "de",
+    "counterparts": [
+     "complex adaptive systems",
+     "Complex Adaptive Systems"
+    ]
+   },
+   {
+    "term": "Komplexen Posttraumatischen Belastungsstörung",
+    "lang": "de",
+    "counterparts": [
+     "complex posttraumatic stress disorder",
+     "Complex Posttraumatic Stress Disorder"
+    ]
+   },
+   {
+    "term": "Komplexer Posttraumatischer Belastungsstörung",
+    "lang": "de",
+    "counterparts": [
+     "complex posttraumatic stress disorder",
+     "Complex Posttraumatic Stress Disorder"
+    ]
+   },
+   {
+    "term": "Komplexes Trauma",
+    "lang": "de",
+    "counterparts": [
+     "complex trauma",
+     "Complex Trauma"
+    ]
+   },
+   {
+    "term": "Komplexitätstheorie",
+    "lang": "de",
+    "counterparts": [
+     "complexity theory",
+     "Complexity Theory"
+    ]
+   },
+   {
+    "term": "Komprehensionsprinzipien und Hierarchien",
+    "lang": "de",
+    "counterparts": [
+     "comprehension principles and hierarchies",
+     "Comprehension Principles and Hierarchies"
+    ]
+   },
+   {
+    "term": "Kompression",
+    "lang": "de",
+    "counterparts": [
+     "compression",
+     "Compression"
+    ]
+   },
+   {
+    "term": "Komputationalismus",
+    "lang": "de",
+    "counterparts": [
+     "computationalism",
+     "Computationalism"
+    ]
+   },
+   {
+    "term": "Konditionierung",
+    "lang": "de",
+    "counterparts": [
+     "conditioning",
+     "Conditioning"
+    ]
+   },
+   {
+    "term": "Konflikt der Wahrheitsmacher",
+    "lang": "de",
+    "counterparts": [
+     "conflict of truthmakers",
+     "truthmaker conflict",
+     "conflict between truthmakers"
+    ]
+   },
+   {
+    "term": "Konforme Feldtheorien",
+    "lang": "de",
+    "counterparts": [
+     "conformal field theories",
+     "Conformal Field Theories"
+    ]
+   },
+   {
+    "term": "Konformen Feldtheorie",
+    "lang": "de",
+    "counterparts": [
+     "conformal field theory",
+     "Conformal Field Theory"
+    ]
+   },
+   {
+    "term": "Konjektur",
+    "lang": "de",
+    "counterparts": [
+     "conjecture",
+     "Conjecture"
+    ]
+   },
+   {
+    "term": "Konjugationsklassen",
+    "lang": "de",
+    "counterparts": [
+     "conjugacy classes",
+     "Conjugacy Classes"
+    ]
+   },
+   {
+    "term": "Konnektive",
+    "lang": "de",
+    "counterparts": [
+     "connectives",
+     "Connectives"
+    ]
+   },
+   {
+    "term": "Konsens",
+    "lang": "de",
+    "counterparts": [
+     "consensus",
+     "Consensus"
+    ]
+   },
+   {
+    "term": "Konsole",
+    "lang": "de",
+    "counterparts": [
+     "console",
+     "Console"
+    ]
+   },
+   {
+    "term": "Konsolidierte Agentschaft",
+    "lang": "de",
+    "counterparts": [
+     "consolidated agency",
+     "Consolidated Agency"
+    ]
+   },
+   {
+    "term": "Konstante",
+    "lang": "de",
+    "counterparts": [
+     "constant",
+     "Constant"
+    ]
+   },
+   {
+    "term": "Konstatierungen",
+    "lang": "de",
+    "counterparts": [
+     "observations",
+     "Observations"
+    ]
+   },
+   {
+    "term": "Konstitutionelle KI",
+    "lang": "de",
+    "counterparts": [
+     "constitutional AI",
+     "Constitutional AI"
+    ]
+   },
+   {
+    "term": "Konstruierbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "constructibility",
+     "Constructibility"
+    ]
+   },
+   {
+    "term": "Konstrukt",
+    "lang": "de",
+    "counterparts": [
+     "construct",
+     "Construct"
+    ]
+   },
+   {
+    "term": "Konstrukt-Stadt",
+    "lang": "de",
+    "counterparts": [
+     "construct city",
+     "Construct City"
+    ]
+   },
+   {
+    "term": "Konstrukt-Welten",
+    "lang": "de",
+    "counterparts": [
+     "construct worlds",
+     "Construct Worlds"
+    ]
+   },
+   {
+    "term": "Konstrukte",
+    "lang": "de",
+    "counterparts": [
+     "constructs",
+     "Constructs"
+    ]
+   },
+   {
+    "term": "Konstrukten",
+    "lang": "de",
+    "counterparts": [
+     "constructs",
+     "Constructs"
+    ]
+   },
+   {
+    "term": "Konstruktive",
+    "lang": "de",
+    "counterparts": [
+     "constructive",
+     "Constructive"
+    ]
+   },
+   {
+    "term": "Konstruktivismus",
+    "lang": "de",
+    "counterparts": [
+     "constructivism",
+     "Constructivism"
+    ]
+   },
+   {
+    "term": "Konstruktivistische Mathematik",
+    "lang": "de",
+    "counterparts": [
+     "constructivist mathematics",
+     "Constructivist Mathematics"
+    ]
+   },
+   {
+    "term": "Konstrukts",
+    "lang": "de",
+    "counterparts": [
+     "constructs",
+     "Constructs"
+    ]
+   },
+   {
+    "term": "Konstruktstadt",
+    "lang": "de",
+    "counterparts": [
+     "construct city",
+     "Construct City"
+    ]
+   },
+   {
+    "term": "Kontext-Fehler",
+    "lang": "de",
+    "counterparts": [
+     "context error",
+     "Context Error"
+    ]
+   },
+   {
+    "term": "Kontext-Kompressions-Prompt",
+    "lang": "de",
+    "counterparts": [
+     "context compression prompt",
+     "Context Compression Prompt"
+    ]
+   },
+   {
+    "term": "Kontextamnesie",
+    "lang": "de",
+    "counterparts": [
+     "context amnesia",
+     "Context Amnesia"
+    ]
+   },
+   {
+    "term": "Kontextfenster",
+    "lang": "de",
+    "counterparts": [
+     "context window",
+     "Context Window"
+    ]
+   },
+   {
+    "term": "Kontinuität der Prehension",
+    "lang": "de",
+    "counterparts": [
+     "continuity of prehension",
+     "Continuity of Prehension"
+    ]
+   },
+   {
+    "term": "Kontinuum",
+    "lang": "de",
+    "counterparts": [
+     "continuum",
+     "Continuum"
+    ]
+   },
+   {
+    "term": "Kontroll-Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "control paradox",
+     "Control Paradox"
+    ]
+   },
+   {
+    "term": "Kontrollalgorithmen",
+    "lang": "de",
+    "counterparts": [
+     "control algorithms",
+     "Control Algorithms"
+    ]
+   },
+   {
+    "term": "Kontrollebene",
+    "lang": "de",
+    "counterparts": [
+     "control level",
+     "Control Level"
+    ]
+   },
+   {
+    "term": "Kontrolleur",
+    "lang": "de",
+    "counterparts": [
+     "controller",
+     "Controller"
+    ]
+   },
+   {
+    "term": "Kontrolleurin",
+    "lang": "de",
+    "counterparts": [
+     "controller",
+     "Controller"
+    ]
+   },
+   {
+    "term": "Kontrollierbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "controllability",
+     "Controllability"
+    ]
+   },
+   {
+    "term": "Kontrollierte Explosion",
+    "lang": "de",
+    "counterparts": [
+     "controlled explosion",
+     "Controlled Explosion"
+    ]
+   },
+   {
+    "term": "Kontrollierte Kreativität",
+    "lang": "de",
+    "counterparts": [
+     "controlled creativity",
+     "Controlled Creativity"
+    ]
+   },
+   {
+    "term": "Kontrollinstanz",
+    "lang": "de",
+    "counterparts": [
+     "control instance",
+     "Control Instance"
+    ]
+   },
+   {
+    "term": "Kontrollinstanzen",
+    "lang": "de",
+    "counterparts": [
+     "control instances",
+     "Control Instances"
+    ]
+   },
+   {
+    "term": "Kontrollkern",
+    "lang": "de",
+    "counterparts": [
+     "control core",
+     "Control Core"
+    ]
+   },
+   {
+    "term": "Kontrollparadox",
+    "lang": "de",
+    "counterparts": [
+     "control paradox",
+     "Control Paradox"
+    ]
+   },
+   {
+    "term": "Kontrollparameter",
+    "lang": "de",
+    "counterparts": [
+     "control parameters",
+     "Control Parameters"
+    ]
+   },
+   {
+    "term": "Kontrollproblem",
+    "lang": "de",
+    "counterparts": [
+     "control problem",
+     "Control Problem"
+    ]
+   },
+   {
+    "term": "Kontrollproblems",
+    "lang": "de",
+    "counterparts": [
+     "control problem",
+     "Control Problem"
+    ]
+   },
+   {
+    "term": "Kontrollprotokolle",
+    "lang": "de",
+    "counterparts": [
+     "control protocols",
+     "Control Protocols"
+    ]
+   },
+   {
+    "term": "Kontrollpunkt",
+    "lang": "de",
+    "counterparts": [
+     "control point",
+     "Control Point"
+    ]
+   },
+   {
+    "term": "Kontrollpunkte",
+    "lang": "de",
+    "counterparts": [
+     "control points",
+     "Control Points"
+    ]
+   },
+   {
+    "term": "Kontrollraum",
+    "lang": "de",
+    "counterparts": [
+     "control room",
+     "Control Room"
+    ]
+   },
+   {
+    "term": "Kontrollstruktur",
+    "lang": "de",
+    "counterparts": [
+     "control structure",
+     "Control Structure"
+    ]
+   },
+   {
+    "term": "Kontrollsystem",
+    "lang": "de",
+    "counterparts": [
+     "control system",
+     "Control System"
+    ]
+   },
+   {
+    "term": "Kontrollsysteme",
+    "lang": "de",
+    "counterparts": [
+     "control systems",
+     "Control Systems"
+    ]
+   },
+   {
+    "term": "Kontrolltheorie",
+    "lang": "de",
+    "counterparts": [
+     "control theory",
+     "Control Theory"
+    ]
+   },
+   {
+    "term": "Kontrollzentrum",
+    "lang": "de",
+    "counterparts": [
+     "control center",
+     "Control Center"
+    ]
+   },
+   {
+    "term": "Konvention T",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Konzept der Konstitutionellen KI",
+    "lang": "de",
+    "counterparts": [
+     "concept of constitutional AI",
+     "Concept of Constitutional AI"
+    ]
+   },
+   {
+    "term": "Konzept der Leerheit",
+    "lang": "de",
+    "counterparts": [
+     "concept of emptiness",
+     "Concept of Emptiness"
+    ]
+   },
+   {
+    "term": "Konzept der Ontologischen Reibung",
+    "lang": "de",
+    "counterparts": [
+     "concept of ontological friction",
+     "Concept of Ontological Friction"
+    ]
+   },
+   {
+    "term": "Konzept der Theoriebeladenheit",
+    "lang": "de",
+    "counterparts": [
+     "concept of theory-ladenness",
+     "Concept of Theory-Ladenness"
+    ]
+   },
+   {
+    "term": "Konzept des Narrativen Systems",
+    "lang": "de",
+    "counterparts": [
+     "concept of the narrative system",
+     "Concept of the Narrative System"
+    ]
+   },
+   {
+    "term": "Konzepte des Monstrous Moonshine",
+    "lang": "de",
+    "counterparts": [
+     "concepts of monstrous moonshine",
+     "Concepts of Monstrous Moonshine"
+    ]
+   },
+   {
+    "term": "Konzepts der Markov-Decke",
+    "lang": "de",
+    "counterparts": [
+     "concept of the Markov blanket",
+     "Concept of the Markov Blanket"
+    ]
+   },
+   {
+    "term": "Konzeptuelle Analogie",
+    "lang": "de",
+    "counterparts": [
+     "conceptual analogy",
+     "Conceptual Analogy"
+    ]
+   },
+   {
+    "term": "Konzeptuelle Metapher",
+    "lang": "de",
+    "counterparts": [
+     "conceptual metaphor",
+     "Conceptual Metaphor"
+    ]
+   },
+   {
+    "term": "Koordinator",
+    "lang": "de",
+    "counterparts": [
+     "coordinator",
+     "Coordinator"
+    ]
+   },
+   {
+    "term": "Kopenhagen",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kopenhagener",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Kopenhagener Sicht",
+    "lang": "de",
+    "counterparts": [
+     "Copenhagen view",
+     "Copenhagen View"
+    ]
+   },
+   {
+    "term": "Koppelung",
+    "lang": "de",
+    "counterparts": [
+     "coupling",
+     "Coupling"
+    ]
+   },
+   {
+    "term": "Kopplung",
+    "lang": "de",
+    "counterparts": [
+     "coupling",
+     "Coupling"
+    ]
+   }
+  ]
+ }
+}

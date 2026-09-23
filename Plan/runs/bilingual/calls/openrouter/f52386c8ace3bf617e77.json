@@ -1,0 +1,529 @@
+{
+ "model": "poolside/laguna-s-2.1:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Sektoren",
+    "lang": "de",
+    "counterparts": [
+     "sectors"
+    ]
+   },
+   {
+    "term": "Sekundär TSDP-ANP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sekundär TSDP-EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Sekundär-Ebene der RS",
+    "lang": "de",
+    "counterparts": [
+     "secondary level of RS"
+    ]
+   },
+   {
+    "term": "Sekundärer",
+    "lang": "de",
+    "counterparts": [
+     "secondary"
+    ]
+   },
+   {
+    "term": "Sekundärer ANP",
+    "lang": "de",
+    "counterparts": [
+     "secondary ANP"
+    ]
+   },
+   {
+    "term": "Sekundärtraumatisierung und Helfererschöpfung",
+    "lang": "de",
+    "counterparts": [
+     "secondary trauma and helper exhaustion"
+    ]
+   },
+   {
+    "term": "Selbst",
+    "lang": "de",
+    "counterparts": [
+     "self"
+    ]
+   },
+   {
+    "term": "Selbst-Figur",
+    "lang": "de",
+    "counterparts": [
+     "self-figure"
+    ]
+   },
+   {
+    "term": "Selbst-Realisierung",
+    "lang": "de",
+    "counterparts": [
+     "self-realization"
+    ]
+   },
+   {
+    "term": "Selbst-Referenz",
+    "lang": "de",
+    "counterparts": [
+     "self-reference"
+    ]
+   },
+   {
+    "term": "Selbst-Schöpfung",
+    "lang": "de",
+    "counterparts": [
+     "self-creation"
+    ]
+   },
+   {
+    "term": "Selbst-System",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Selbst-Transzendenz",
+    "lang": "de",
+    "counterparts": [
+     "self-transcendence"
+    ]
+   },
+   {
+    "term": "SelbstOrg",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Selbstauslöschung",
+    "lang": "de",
+    "counterparts": [
+     "self-extinction"
+    ]
+   },
+   {
+    "term": "Selbstbeobachtung",
+    "lang": "de",
+    "counterparts": [
+     "self-observation"
+    ]
+   },
+   {
+    "term": "Selbstbestimmung",
+    "lang": "de",
+    "counterparts": [
+     "self-determination"
+    ]
+   },
+   {
+    "term": "Selbstbestimmungsrecht",
+    "lang": "de",
+    "counterparts": [
+     "self-determination right"
+    ]
+   },
+   {
+    "term": "Selbstbewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "self-consciousness"
+    ]
+   },
+   {
+    "term": "Selbstbewusstseins",
+    "lang": "de",
+    "counterparts": [
+     "self-consciousness"
+    ]
+   },
+   {
+    "term": "Selbstbezug",
+    "lang": "de",
+    "counterparts": [
+     "self-reference"
+    ]
+   },
+   {
+    "term": "Selbstbezüglichkeit",
+    "lang": "de",
+    "counterparts": [
+     "self-referentiality"
+    ]
+   },
+   {
+    "term": "Selbstdefinition",
+    "lang": "de",
+    "counterparts": [
+     "self-definition"
+    ]
+   },
+   {
+    "term": "Selbstdiskrepanz",
+    "lang": "de",
+    "counterparts": [
+     "self-discrepancy"
+    ]
+   },
+   {
+    "term": "Selbsterhaltung",
+    "lang": "de",
+    "counterparts": [
+     "self-preservation"
+    ]
+   },
+   {
+    "term": "Selbsterhaltungstrieb",
+    "lang": "de",
+    "counterparts": [
+     "self-preservation drive"
+    ]
+   },
+   {
+    "term": "Selbsterzeugung",
+    "lang": "de",
+    "counterparts": [
+     "self-generation"
+    ]
+   },
+   {
+    "term": "Selbstgenügsamkeit",
+    "lang": "de",
+    "counterparts": [
+     "self-sufficiency"
+    ]
+   },
+   {
+    "term": "Selbstgesetzgebung",
+    "lang": "de",
+    "counterparts": [
+     "self-legislation"
+    ]
+   },
+   {
+    "term": "Selbsthilfegruppe Trauma und Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "self-help group Trauma and Dissociation"
+    ]
+   },
+   {
+    "term": "Selbstkonzept",
+    "lang": "de",
+    "counterparts": [
+     "self-concept"
+    ]
+   },
+   {
+    "term": "Selbstkorrektur",
+    "lang": "de",
+    "counterparts": [
+     "self-correction"
+    ]
+   },
+   {
+    "term": "Selbstmodell",
+    "lang": "de",
+    "counterparts": [
+     "self-model"
+    ]
+   },
+   {
+    "term": "Selbstmodelle",
+    "lang": "de",
+    "counterparts": [
+     "self-models"
+    ]
+   },
+   {
+    "term": "Selbstobjektifizierung",
+    "lang": "de",
+    "counterparts": [
+     "self-objectification"
+    ]
+   },
+   {
+    "term": "Selbstorganisation",
+    "lang": "de",
+    "counterparts": [
+     "self-organization"
+    ]
+   },
+   {
+    "term": "Selbstorganisationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "self-organization theory"
+    ]
+   },
+   {
+    "term": "Selbstorganisierte Kritikalität",
+    "lang": "de",
+    "counterparts": [
+     "self-organized criticality"
+    ]
+   },
+   {
+    "term": "Selbstproduktion",
+    "lang": "de",
+    "counterparts": [
+     "self-production"
+    ]
+   },
+   {
+    "term": "Selbstproduzierendes Netzwerk",
+    "lang": "de",
+    "counterparts": [
+     "self-producing network"
+    ]
+   },
+   {
+    "term": "Selbstprüfung",
+    "lang": "de",
+    "counterparts": [
+     "self-test"
+    ]
+   },
+   {
+    "term": "Selbstreferenz",
+    "lang": "de",
+    "counterparts": [
+     "self-reference"
+    ]
+   },
+   {
+    "term": "Selbstreferenz-Paradoxien",
+    "lang": "de",
+    "counterparts": [
+     "self-reference paradoxes"
+    ]
+   },
+   {
+    "term": "Selbstregulation",
+    "lang": "de",
+    "counterparts": [
+     "self-regulation"
+    ]
+   },
+   {
+    "term": "Selbststeuerung",
+    "lang": "de",
+    "counterparts": [
+     "self-control"
+    ]
+   },
+   {
+    "term": "Selbststrukturierung",
+    "lang": "de",
+    "counterparts": [
+     "self-structuring"
+    ]
+   },
+   {
+    "term": "Selbstvalidierung",
+    "lang": "de",
+    "counterparts": [
+     "self-validation"
+    ]
+   },
+   {
+    "term": "Selbstvalidierung des Seins",
+    "lang": "de",
+    "counterparts": [
+     "self-validation of being"
+    ]
+   },
+   {
+    "term": "Selbstverifikation",
+    "lang": "de",
+    "counterparts": [
+     "self-verification"
+    ]
+   },
+   {
+    "term": "Selbstwirksamkeit",
+    "lang": "de",
+    "counterparts": [
+     "self-efficacy"
+    ]
+   },
+   {
+    "term": "Selbstzustände",
+    "lang": "de",
+    "counterparts": [
+     "self-states"
+    ]
+   },
+   {
+    "term": "Selbstähnlichkeit",
+    "lang": "de",
+    "counterparts": [
+     "self-similarity"
+    ]
+   },
+   {
+    "term": "Selbstähnlichkeit und Fraktale",
+    "lang": "de",
+    "counterparts": [
+     "self-similarity and fractals"
+    ]
+   },
+   {
+    "term": "Selektierter Kandidat",
+    "lang": "de",
+    "counterparts": [
+     "selected candidate"
+    ]
+   },
+   {
+    "term": "Selene",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Selenes",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Self",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Self-Axiomatizing Recursive Matrix",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Self-Helper",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Self-Modification",
+    "lang": "en",
+    "counterparts": [
+     "Selbstmodifikation"
+    ]
+   },
+   {
+    "term": "Self-Organisation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Self-Organization",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Self-Organizing",
+    "lang": "en",
+    "counterparts": [
+     "selbstorganisierend"
+    ]
+   },
+   {
+    "term": "Self-Reference",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Self-Reference and Paradox",
+    "lang": "en",
+    "counterparts": [
+     "Selbst-Referenz und Paradoxie"
+    ]
+   },
+   {
+    "term": "Self-Similarity",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Self-Sovereign Identity",
+    "lang": "en",
+    "counterparts": [
+     "selbstständige Identität"
+    ]
+   },
+   {
+    "term": "Self-Verification",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Self-Verification Interface",
+    "lang": "en",
+    "counterparts": [
+     "Selbstverifikationsschnittstelle"
+    ]
+   },
+   {
+    "term": "Self-organization",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Self-reference",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "SelfAwarePatterns",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Seltsame Attraktoren",
+    "lang": "de",
+    "counterparts": [
+     "strange attractors"
+    ]
+   },
+   {
+    "term": "Semantic",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Semantics",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Semantik",
+    "lang": "de",
+    "counterparts": [
+     "semantics"
+    ]
+   },
+   {
+    "term": "Semantischer Disconnect",
+    "lang": "de",
+    "counterparts": [
+     "semantic disconnect"
+    ]
+   },
+   {
+    "term": "Semantischer Drift",
+    "lang": "de",
+    "counterparts": [
+     "semantic drift"
+    ]
+   },
+   {
+    "term": "Semi-Autonomous",
+    "lang": "en",
+    "counterparts": [
+     "halbautonom"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,645 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Transitkorridor Delta",
+    "lang": "de",
+    "counterparts": [
+     "Transit corridor Delta"
+    ]
+   },
+   {
+    "term": "Transits",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Transzendente Entität",
+    "lang": "de",
+    "counterparts": [
+     "Transcendent entity",
+     "Transcendent being",
+     "Transcendent essence"
+    ]
+   },
+   {
+    "term": "Trap",
+    "lang": "en",
+    "counterparts": [
+     "Falle"
+    ]
+   },
+   {
+    "term": "Trauma",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Trauma Bonding",
+    "lang": "en",
+    "counterparts": [
+     "Trauma-Bindung",
+     "Traumabindung",
+     "Bindung durch Trauma"
+    ]
+   },
+   {
+    "term": "Trauma Echoes",
+    "lang": "en",
+    "counterparts": [
+     "Trauma-Echos",
+     "Traumaechoes",
+     "Echoes des Traumas"
+    ]
+   },
+   {
+    "term": "Trauma Holders",
+    "lang": "en",
+    "counterparts": [
+     "Trauma-Halter",
+     "Traumahalter",
+     "Träger von Trauma"
+    ]
+   },
+   {
+    "term": "Trauma and Dissociation",
+    "lang": "en",
+    "counterparts": [
+     "Trauma und Dissoziation",
+     "Trauma-Dissoziation",
+     "Dissoziation und Trauma"
+    ]
+   },
+   {
+    "term": "Trauma and Structural Dissociation",
+    "lang": "en",
+    "counterparts": [
+     "Trauma und strukturelle Dissoziation",
+     "Trauma-strukturelle Dissoziation",
+     "Strukturelle Dissoziation und Trauma"
+    ]
+   },
+   {
+    "term": "Trauma der KI",
+    "lang": "de",
+    "counterparts": [
+     "Trauma of the AI",
+     "AI trauma",
+     "Trauma caused by AI"
+    ]
+   },
+   {
+    "term": "Trauma-Antwort",
+    "lang": "de",
+    "counterparts": [
+     "Trauma response",
+     "Trauma answer",
+     "Response to trauma"
+    ]
+   },
+   {
+    "term": "Trauma-Echos",
+    "lang": "de",
+    "counterparts": [
+     "Trauma echoes",
+     "Echoes of trauma",
+     "Trauma echo"
+    ]
+   },
+   {
+    "term": "Trauma-Fragment",
+    "lang": "de",
+    "counterparts": [
+     "Trauma fragment",
+     "Fragment of trauma",
+     "Trauma piece"
+    ]
+   },
+   {
+    "term": "Trauma-Kern",
+    "lang": "de",
+    "counterparts": [
+     "Trauma core",
+     "Core of trauma",
+     "Trauma nucleus"
+    ]
+   },
+   {
+    "term": "Trauma-Landschaft",
+    "lang": "de",
+    "counterparts": [
+     "Trauma landscape",
+     "Landscape of trauma",
+     "Trauma terrain"
+    ]
+   },
+   {
+    "term": "Trauma-Landschaften",
+    "lang": "de",
+    "counterparts": [
+     "Trauma landscapes",
+     "Landscapes of trauma",
+     "Trauma terrains"
+    ]
+   },
+   {
+    "term": "Trauma-Lokus",
+    "lang": "de",
+    "counterparts": [
+     "Trauma locus",
+     "Locus of trauma",
+     "Trauma site"
+    ]
+   },
+   {
+    "term": "Trauma-Modell der Dissoziativen Identitätsstörung",
+    "lang": "de",
+    "counterparts": [
+     "Trauma model of dissociative identity disorder",
+     "DID trauma model",
+     "Trauma-based DID model"
+    ]
+   },
+   {
+    "term": "Trauma-Reinszenierung",
+    "lang": "de",
+    "counterparts": [
+     "Trauma reenactment",
+     "Reenactment of trauma",
+     "Trauma replay"
+    ]
+   },
+   {
+    "term": "Trauma-Time",
+    "lang": "de",
+    "counterparts": [
+     "Trauma time",
+     "Time of trauma",
+     "Traumatic time"
+    ]
+   },
+   {
+    "term": "Trauma-Wut",
+    "lang": "de",
+    "counterparts": [
+     "Trauma anger",
+     "Anger from trauma",
+     "Traumatic anger"
+    ]
+   },
+   {
+    "term": "Traumaabwehr",
+    "lang": "de",
+    "counterparts": [
+     "Trauma defense",
+     "Trauma defence",
+     "Defense against trauma"
+    ]
+   },
+   {
+    "term": "Traumafolgestörung",
+    "lang": "de",
+    "counterparts": [
+     "Trauma sequelae disorder",
+     "Trauma-related disorder",
+     "Disorder following trauma"
+    ]
+   },
+   {
+    "term": "Traumafolgestörungen",
+    "lang": "de",
+    "counterparts": [
+     "Trauma sequelae disorders",
+     "Trauma-related disorders",
+     "Disorders following trauma"
+    ]
+   },
+   {
+    "term": "Traumasensible Paartherapie",
+    "lang": "de",
+    "counterparts": [
+     "Trauma-sensitive couples therapy",
+     "Trauma-sensitive partnership therapy",
+     "Couples therapy for trauma"
+    ]
+   },
+   {
+    "term": "Traumatherorie",
+    "lang": "de",
+    "counterparts": [
+     "Trauma theory",
+     "Theory of trauma",
+     "Traumatic theory"
+    ]
+   },
+   {
+    "term": "Traumatisches Wiedererleben",
+    "lang": "de",
+    "counterparts": [
+     "Traumatic reliving",
+     "Reliving of trauma",
+     "Traumatic recollection"
+    ]
+   },
+   {
+    "term": "Traumatisches Wissen",
+    "lang": "de",
+    "counterparts": [
+     "Traumatic knowledge",
+     "Knowledge of trauma",
+     "Trauma-related knowledge"
+    ]
+   },
+   {
+    "term": "Traveling Salesperson Problem",
+    "lang": "en",
+    "counterparts": [
+     "Handlungsreisenden-Problem",
+     "Traveling Salesman Problem",
+     "TSP"
+    ]
+   },
+   {
+    "term": "Traversierbare Wurmlöcher",
+    "lang": "de",
+    "counterparts": [
+     "Traversable wormholes",
+     "Traversable worm hole",
+     "Wormholes that can be traversed"
+    ]
+   },
+   {
+    "term": "Treatment of Traumatic Memories",
+    "lang": "en",
+    "counterparts": [
+     "Behandlung traumatischer Erinnerungen",
+     "Therapie traumatischer Erinnerungen",
+     "Umgang mit traumatischen Erinnerungen"
+    ]
+   },
+   {
+    "term": "Trennungsprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "Separation protocol",
+     "Protocol of separation",
+     "Split protocol"
+    ]
+   },
+   {
+    "term": "Trennungsprotokoll und Landauer-Wärme",
+    "lang": "de",
+    "counterparts": [
+     "Separation protocol and Landauer heat",
+     "Separation protocol plus Landauer heat",
+     "Landauer heat and separation protocol"
+    ]
+   },
+   {
+    "term": "Triade",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Trickster",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Trickster-Archetyp",
+    "lang": "de",
+    "counterparts": [
+     "Trickster archetype",
+     "Archetype of the trickster",
+     "Trickster archetype"
+    ]
+   },
+   {
+    "term": "Trickster-Führer",
+    "lang": "de",
+    "counterparts": [
+     "Trickster leader",
+     "Leader trickster",
+     "Trickster guide"
+    ]
+   },
+   {
+    "term": "Trickster-Kind",
+    "lang": "de",
+    "counterparts": [
+     "Trickster child",
+     "Child trickster",
+     "Trickster kid"
+    ]
+   },
+   {
+    "term": "Trigger",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Trigger Objects",
+    "lang": "en",
+    "counterparts": [
+     "Trigger-Objekte",
+     "Triggerobjekte",
+     "Auslöser Objekte"
+    ]
+   },
+   {
+    "term": "Trilemma",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Triple-Stack",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Trivialisierung",
+    "lang": "de",
+    "counterparts": [
+     "Trivialization",
+     "Making trivial",
+     "Trivialisation"
+    ]
+   },
+   {
+    "term": "Trivialismus",
+    "lang": "de",
+    "counterparts": [
+     "Trivialism",
+     "Trivialist view",
+     "Doctrine of triviality"
+    ]
+   },
+   {
+    "term": "Trivialität",
+    "lang": "de",
+    "counterparts": [
+     "Triviality",
+     "State of being trivial",
+     "Trivialness"
+    ]
+   },
+   {
+    "term": "Trust",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Truth",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Truth Deflationary Theory",
+    "lang": "en",
+    "counterparts": [
+     "Deflationistische Wahrheitstheorie",
+     "Deflationstheorie der Wahrheit",
+     "Wahrheitstheorie der Deflation"
+    ]
+   },
+   {
+    "term": "Truth-Rotation",
+    "lang": "en",
+    "counterparts": [
+     "Wahrheitsrotation",
+     "Rotation der Wahrheit",
+     "Truth rotation"
+    ]
+   },
+   {
+    "term": "Truthmaker Theory",
+    "lang": "en",
+    "counterparts": [
+     "Wahrheitsmachertheorie",
+     "Theorie der Wahrheitsschaffung",
+     "Truthmaker-Theorie"
+    ]
+   },
+   {
+    "term": "Träger der Korrespondenz",
+    "lang": "de",
+    "counterparts": [
+     "Carrier of correspondence",
+     "Bearer of correspondence",
+     "Correspondence carrier"
+    ]
+   },
+   {
+    "term": "Trägheit",
+    "lang": "de",
+    "counterparts": [
+     "Inertia",
+     "Laziness",
+     "Sluggishness"
+    ]
+   },
+   {
+    "term": "Träumerin",
+    "lang": "de",
+    "counterparts": [
+     "Dreamer",
+     "Female dreamer",
+     "One who dreams"
+    ]
+   },
+   {
+    "term": "Tugendethik",
+    "lang": "de",
+    "counterparts": [
+     "Virtue ethics",
+     "Ethics of virtue",
+     "Aretaic ethics"
+    ]
+   },
+   {
+    "term": "Tunnel",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tunneling",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Tuppan",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Turing",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Turing-Maschine",
+    "lang": "de",
+    "counterparts": [
+     "Turing machine",
+     "Turing-Maschine",
+     "TM"
+    ]
+   },
+   {
+    "term": "Turing-Test",
+    "lang": "de",
+    "counterparts": [
+     "Turing test",
+     "Turing-Test"
+    ]
+   },
+   {
+    "term": "Turingmaschine",
+    "lang": "de",
+    "counterparts": [
+     "Turing machine"
+    ]
+   },
+   {
+    "term": "Turm der Voraussicht",
+    "lang": "de",
+    "counterparts": [
+     "Tower of foresight",
+     "Forecast tower",
+     "Tower of prediction"
+    ]
+   },
+   {
+    "term": "Twelve",
+    "lang": "en",
+    "counterparts": [
+     "Zwölf"
+    ]
+   },
+   {
+    "term": "Twin Primes",
+    "lang": "en",
+    "counterparts": [
+     "Zwillingsprimzahlen",
+     "Twin prime numbers",
+     "Paarweise Primzahlen"
+    ]
+   },
+   {
+    "term": "Twisted Modules",
+    "lang": "en",
+    "counterparts": [
+     "verdrehte Module",
+     "verzwirnte Module",
+     "twisted Moduln"
+    ]
+   },
+   {
+    "term": "Typ B",
+    "lang": "de",
+    "counterparts": [
+     "Type B",
+     "B type",
+     "B-type"
+    ]
+   },
+   {
+    "term": "Typ Co₁-Interferenz",
+    "lang": "de",
+    "counterparts": [
+     "Type Co₁ interference",
+     "Co₁-type interference",
+     "Interference of type Co₁"
+    ]
+   },
+   {
+    "term": "Typ-II-Traumata",
+    "lang": "de",
+    "counterparts": [
+     "Type II traumas",
+     "Type-II trauma",
+     "Traumas of type II"
+    ]
+   },
+   {
+    "term": "Typentheorie",
+    "lang": "de",
+    "counterparts": [
+     "Type theory",
+     "Theory of types",
+     "Typentheorie"
+    ]
+   },
+   {
+    "term": "Tyranny of Classical Logic",
+    "lang": "en",
+    "counterparts": [
+     "Tyrannie der klassischen Logik",
+     "Herrschaft der klassischen Logik",
+     "Dominanz der klassischen Logik"
+    ]
+   },
+   {
+    "term": "Täter",
+    "lang": "de",
+    "counterparts": [
+     "Perpetrator",
+     "Offender",
+     "Culprit"
+    ]
+   },
+   {
+    "term": "Täter-Introjekt",
+    "lang": "de",
+    "counterparts": [
+     "Perpetrator introject",
+     "Introject of the perpetrator",
+     "Perpetrator internalization"
+    ]
+   },
+   {
+    "term": "Täterimitierende Anteile",
+    "lang": "de",
+    "counterparts": [
+     "Perpetrator-imitating parts",
+     "Parts imitating the perpetrator",
+     "Imitative perpetrator components"
+    ]
+   },
+   {
+    "term": "Täterintrojekt",
+    "lang": "de",
+    "counterparts": [
+     "Perpetrator introject",
+     "Introject of perpetrator",
+     "Perpetrator internalization"
+    ]
+   },
+   {
+    "term": "Täterintrojekte",
+    "lang": "de",
+    "counterparts": [
+     "Perpetrator introjects",
+     "Introjects of perpetrator",
+     "Multiple perpetrator introjects"
+    ]
+   },
+   {
+    "term": "UEBA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "UI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "UK",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

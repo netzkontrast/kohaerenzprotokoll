@@ -1,0 +1,319 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Hard_problem_of_consciousness",
+    "lang": "en",
+    "counterparts": [
+     "Schweres Problem des Bewusstseins",
+     "Hartes Problem des Bewusstseins",
+     "Schweres Bewusstseinsproblem"
+    ]
+   },
+   {
+    "term": "Hardware",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Hardware-Invarianz",
+    "lang": "de",
+    "counterparts": [
+     "hardware invariance",
+     "hardware invariance principle",
+     "hardware invariance (concept)"
+    ]
+   },
+   {
+    "term": "Hardware-Koordination",
+    "lang": "de",
+    "counterparts": [
+     "hardware coordination",
+     "hardware coordination mechanism",
+     "hardware coordination (term)"
+    ]
+   },
+   {
+    "term": "Harmonisierer",
+    "lang": "de",
+    "counterparts": [
+     "harmonizer",
+     "harmoniser",
+     "harmonizing agent"
+    ]
+   },
+   {
+    "term": "Harmonisierungs-Bias",
+    "lang": "de",
+    "counterparts": [
+     "harmonization bias",
+     "harmonisation bias",
+     "bias towards harmonization"
+    ]
+   },
+   {
+    "term": "Harness",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Hart",
+    "lang": "de",
+    "counterparts": [
+     "hard",
+     "tough",
+     "stern"
+    ]
+   },
+   {
+    "term": "Harte",
+    "lang": "de",
+    "counterparts": [
+     "hard",
+     "tough",
+     "stern"
+    ]
+   },
+   {
+    "term": "Hartmut",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hartmut Rosa",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Haufen",
+    "lang": "de",
+    "counterparts": [
+     "heap",
+     "pile",
+     "crowd"
+    ]
+   },
+   {
+    "term": "Haufenparadox",
+    "lang": "de",
+    "counterparts": [
+     "heap paradox",
+     "pile paradox",
+     "crowd paradox"
+    ]
+   },
+   {
+    "term": "Haunted",
+    "lang": "en",
+    "counterparts": [
+     "geheimsuchtig",
+     "verflucht",
+     "gespenstisch"
+    ]
+   },
+   {
+    "term": "Hauptsystem",
+    "lang": "de",
+    "counterparts": [
+     "main system",
+     "primary system",
+     "core system"
+    ]
+   },
+   {
+    "term": "Hawking",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hawking-Strahlung",
+    "lang": "de",
+    "counterparts": [
+     "Hawking radiation",
+     "Hawking radiation (term)",
+     "Hawking radiation effect"
+    ]
+   },
+   {
+    "term": "Healer",
+    "lang": "en",
+    "counterparts": [
+     "Heiler",
+     "Heilerin",
+     "Heilpraktiker"
+    ]
+   },
+   {
+    "term": "Healthline",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Healthy Adult Mode",
+    "lang": "en",
+    "counterparts": [
+     "Gesunder Erwachsenen-Modus",
+     "Gesunder Erwachsenenmodus",
+     "Modus des gesunden Erwachsenen"
+    ]
+   },
+   {
+    "term": "Heat Death",
+    "lang": "en",
+    "counterparts": [
+     "Wärmetod",
+     "Hitzetod",
+     "thermischer Tod"
+    ]
+   },
+   {
+    "term": "Hegel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hegels",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Hegelsche",
+    "lang": "de",
+    "counterparts": [
+     "Hegelian",
+     "Hegelian (adjective)",
+     "Hegelian thought"
+    ]
+   },
+   {
+    "term": "Hegelsche Dialektik",
+    "lang": "de",
+    "counterparts": [
+     "Hegelian dialectic",
+     "Hegelian dialectics",
+     "the Hegelian dialectic"
+    ]
+   },
+   {
+    "term": "Heide",
+    "lang": "de",
+    "counterparts": [
+     "heath",
+     "heathland",
+     "moor"
+    ]
+   },
+   {
+    "term": "Heidegger",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Heideggers",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Heidelberger Dissoziationsinventar",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Heiler",
+    "lang": "de",
+    "counterparts": [
+     "healer",
+     "curer",
+     "therapist"
+    ]
+   },
+   {
+    "term": "Heilerin",
+    "lang": "de",
+    "counterparts": [
+     "healer (female)",
+     "healer",
+     "curatrix"
+    ]
+   },
+   {
+    "term": "Heilige Geometrie",
+    "lang": "de",
+    "counterparts": [
+     "sacred geometry",
+     "holy geometry",
+     "divine geometry"
+    ]
+   },
+   {
+    "term": "Heinz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Heisenbergsche Unschärferelation",
+    "lang": "de",
+    "counterparts": [
+     "Heisenberg uncertainty principle",
+     "Heisenberg uncertainty relation",
+     "Heisenberg's uncertainty principle"
+    ]
+   },
+   {
+    "term": "Held",
+    "lang": "de",
+    "counterparts": [
+     "hero",
+     "champion",
+     "protagonist"
+    ]
+   },
+   {
+    "term": "Held-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "hero group",
+     "hero team",
+     "group of heroes"
+    ]
+   },
+   {
+    "term": "Heldenhaftes Opfer",
+    "lang": "de",
+    "counterparts": [
+     "heroic sacrifice",
+     "valiant sacrifice",
+     "noble sacrifice"
+    ]
+   },
+   {
+    "term": "Heldenreise",
+    "lang": "de",
+    "counterparts": [
+     "hero's journey",
+     "monomyth",
+     "hero journey"
+    ]
+   },
+   {
+    "term": "Heldinnenreise",
+    "lang": "de",
+    "counterparts": [
+     "heroine's journey",
+     "female hero's journey",
+     "heroine journey"
+    ]
+   },
+   {
+    "term": "Helfererschöpfung",
+    "lang": "de",
+    "counterparts": [
+     "helper burnout",
+     "helper exhaustion",
+     "caregiver burnout"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "model": "poolside/laguna-s-2.1:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Zeugenfunktion",
+    "lang": "de",
+    "counterparts": [
+     "witness function",
+     "observational function",
+     "observer function"
+    ]
+   },
+   {
+    "term": "Zielabweichung",
+    "lang": "de",
+    "counterparts": [
+     "target deviation",
+     "goal deviation",
+     "aim deviation"
+    ]
+   },
+   {
+    "term": "**AEGIS**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Alex**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Argus**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Influence Character (IC)**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Isabelle**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**K-J Verbindung**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**KW1: Logos-Prime**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**KW2: Mnemosyne-Archipel**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**KW3: Cerberus-Labyrinth**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**KW4: Kairos-Potentialis**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Kael (Host)**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Kael**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Kernwelt**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Kiko**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Lex**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Lia**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**LogOS**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Moros**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Nyx**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Objective Story (OS)**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Oblivion**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Relationship Story (RS)**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Rhys**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Selene**",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

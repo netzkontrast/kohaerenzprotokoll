@@ -1,0 +1,517 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Maps",
+    "lang": "en",
+    "counterparts": [
+     "Karten",
+     "Kartographie",
+     "Kartenmaterial"
+    ]
+   },
+   {
+    "term": "Maps of Content",
+    "lang": "en",
+    "counterparts": [
+     "Inhaltskarten",
+     "Karten des Inhalts",
+     "Inhaltskarte"
+    ]
+   },
+   {
+    "term": "March02",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Markdown",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Marker",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Markov Blanket",
+    "lang": "en",
+    "counterparts": [
+     "Markov-Decke"
+    ]
+   },
+   {
+    "term": "Markov-Decke",
+    "lang": "de",
+    "counterparts": [
+     "Markov Blanket"
+    ]
+   },
+   {
+    "term": "Martin",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Marx",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mary",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Maschine",
+    "lang": "de",
+    "counterparts": [
+     "Machine"
+    ]
+   },
+   {
+    "term": "Maschinelles Lernen",
+    "lang": "de",
+    "counterparts": [
+     "Machine Learning"
+    ]
+   },
+   {
+    "term": "Maschinenbewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "Machine Consciousness"
+    ]
+   },
+   {
+    "term": "Maschinenraum",
+    "lang": "de",
+    "counterparts": [
+     "Machine Room"
+    ]
+   },
+   {
+    "term": "Maske",
+    "lang": "de",
+    "counterparts": [
+     "Mask"
+    ]
+   },
+   {
+    "term": "Mass",
+    "lang": "en",
+    "counterparts": [
+     "Masse"
+    ]
+   },
+   {
+    "term": "Masse",
+    "lang": "de",
+    "counterparts": [
+     "Mass"
+    ]
+   },
+   {
+    "term": "Massen-Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "Mass Coherence"
+    ]
+   },
+   {
+    "term": "Materialismus",
+    "lang": "de",
+    "counterparts": [
+     "Materialism"
+    ]
+   },
+   {
+    "term": "Math101aF07",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MathOverflow",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "MathWorld",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mathematical Universe Hypothesis",
+    "lang": "en",
+    "counterparts": [
+     "Mathematische Universum-Hypothese",
+     "Mathematische Universumshypothese",
+     "Mathematische Universum-Hypothese (MUH)"
+    ]
+   },
+   {
+    "term": "Mathematische Universum-Hypothese",
+    "lang": "de",
+    "counterparts": [
+     "Mathematical Universe Hypothesis"
+    ]
+   },
+   {
+    "term": "Mathieu",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mathieu Gruppe",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mathieu-Gruppen",
+    "lang": "de",
+    "counterparts": [
+     "Mathieu Groups"
+    ]
+   },
+   {
+    "term": "Maturana",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Maturana/Varela",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Maureen",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Maurice Merleau-Ponty",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Max Tegmarks Mathematischem Universum",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Maximal-Plotter",
+    "lang": "de",
+    "counterparts": [
+     "Maximal Plotter"
+    ]
+   },
+   {
+    "term": "Maxwell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Maxwells",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Maxwellschen",
+    "lang": "de",
+    "counterparts": [
+     "Maxwell's"
+    ]
+   },
+   {
+    "term": "Maxwellscher",
+    "lang": "de",
+    "counterparts": [
+     "Maxwell's"
+    ]
+   },
+   {
+    "term": "Maxwellscher Dämon",
+    "lang": "de",
+    "counterparts": [
+     "Maxwell's Demon"
+    ]
+   },
+   {
+    "term": "Maya",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Mayo",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Maze Runner",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "McAdams",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "McGreevy",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "McKay",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "McKay-Thompson-Reihe",
+    "lang": "de",
+    "counterparts": [
+     "McKay-Thompson Series"
+    ]
+   },
+   {
+    "term": "McL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "McLaughlin",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "McLaughlin-Gruppe",
+    "lang": "de",
+    "counterparts": [
+     "McLaughlin Group"
+    ]
+   },
+   {
+    "term": "McLaughlin-Welt",
+    "lang": "de",
+    "counterparts": [
+     "McLaughlin World"
+    ]
+   },
+   {
+    "term": "McLeans Anstalt",
+    "lang": "de",
+    "counterparts": [
+     "McLeans Institution"
+    ]
+   },
+   {
+    "term": "McTaggarts Paradox",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Meaningful Endurance",
+    "lang": "en",
+    "counterparts": [
+     "Bedeutungsvolle Ausdauer"
+    ]
+   },
+   {
+    "term": "Mechanik",
+    "lang": "de",
+    "counterparts": [
+     "Mechanics"
+    ]
+   },
+   {
+    "term": "Mechanik der Storyform B",
+    "lang": "de",
+    "counterparts": [
+     "Mechanics of Storyform B"
+    ]
+   },
+   {
+    "term": "Mediation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Mediator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Medizinischen Dienst",
+    "lang": "de",
+    "counterparts": [
+     "Medical Service"
+    ]
+   },
+   {
+    "term": "Medizinischen Dienste",
+    "lang": "de",
+    "counterparts": [
+     "Medical Services"
+    ]
+   },
+   {
+    "term": "Mehrere Anscheinend Normale Persönlichkeitsanteile",
+    "lang": "de",
+    "counterparts": [
+     "Several Apparently Normal Personality Parts"
+    ]
+   },
+   {
+    "term": "Mehrere Emotionale Persönlichkeitsanteile",
+    "lang": "de",
+    "counterparts": [
+     "Several Emotional Personality Parts"
+    ]
+   },
+   {
+    "term": "Meister",
+    "lang": "de",
+    "counterparts": [
+     "Master"
+    ]
+   },
+   {
+    "term": "Melancholie",
+    "lang": "de",
+    "counterparts": [
+     "Melancholy"
+    ]
+   },
+   {
+    "term": "Melancholie-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "Melancholy Share"
+    ]
+   },
+   {
+    "term": "Melancholie-Zone",
+    "lang": "de",
+    "counterparts": [
+     "Melancholy Zone"
+    ]
+   },
+   {
+    "term": "Melancholy",
+    "lang": "en",
+    "counterparts": [
+     "Melancholie"
+    ]
+   },
+   {
+    "term": "MemAct",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Membran",
+    "lang": "de",
+    "counterparts": [
+     "Membrane"
+    ]
+   },
+   {
+    "term": "Membran Computing",
+    "lang": "de",
+    "counterparts": [
+     "Membrane Computing"
+    ]
+   },
+   {
+    "term": "Membrane",
+    "lang": "en",
+    "counterparts": [
+     "Membran"
+    ]
+   },
+   {
+    "term": "Membranen",
+    "lang": "de",
+    "counterparts": [
+     "Membranes"
+    ]
+   },
+   {
+    "term": "Memetics",
+    "lang": "en",
+    "counterparts": [
+     "Memetik"
+    ]
+   },
+   {
+    "term": "Memetik",
+    "lang": "de",
+    "counterparts": [
+     "Memetics"
+    ]
+   },
+   {
+    "term": "Memory",
+    "lang": "en",
+    "counterparts": [
+     "Speicher",
+     "Gedächtnis",
+     "Speicherplatz"
+    ]
+   },
+   {
+    "term": "Memory Holder",
+    "lang": "en",
+    "counterparts": [
+     "Speicherhalter",
+     "Speicherträger",
+     "Speicher-Modul"
+    ]
+   },
+   {
+    "term": "Memory Leak",
+    "lang": "en",
+    "counterparts": [
+     "Speicherleck"
+    ]
+   },
+   {
+    "term": "Memory Palace",
+    "lang": "en",
+    "counterparts": [
+     "Gedächtnispalast"
+    ]
+   },
+   {
+    "term": "Memory Palace Techniques",
+    "lang": "en",
+    "counterparts": [
+     "Gedächtnispalast-Techniken"
+    ]
+   },
+   {
+    "term": "Memory-MC-Position",
+    "lang": "en",
+    "counterparts": [
+     "Speicher-MC-Position"
+    ]
+   },
+   {
+    "term": "Memory-Management-Pattern",
+    "lang": "en",
+    "counterparts": [
+     "Speicher-Management-Muster"
+    ]
+   },
+   {
+    "term": "Memory-as-Action",
+    "lang": "en",
+    "counterparts": [
+     "Speicher-als-Aktion"
+    ]
+   }
+  ]
+ }
+}

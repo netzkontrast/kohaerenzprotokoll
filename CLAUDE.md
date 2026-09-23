@@ -421,6 +421,14 @@ list under 90% verified is a reconstruction and `matrix` leaves it out.
 `Guardian` is 448 in one and 334 in the other, and both are right about different
 questions.
 
+**`Plan/entities/bilingual.md` maps German and English surfaces of one entity**
+across the whole corpus. It is written by `scripts/bilingual.py`: code finds the
+glosses the corpus writes itself, Jev judges which surfaces are entities, free
+OpenRouter models propose counterparts from names alone, and Jev classifies each
+pair. Every stage is cached under `Plan/runs/bilingual/`, so `--replay` reruns it
+with no key and no network. It is a list of proposals: no pair has become a
+judgement.
+
 ## Fetching
 
 The one automated step. Documents are large and the bytes never need to pass
@@ -472,7 +480,7 @@ container**; each is rebuilt by the commands below when a step needs it:
 | `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
 | `.venv-dspy` | 3.11 | DSPy 3.3.1, for when there is something to train |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
-| `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — only `scripts/jev_entities.py`, a test |
+| `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
 
 ```bash
 uv venv --python 3.12 .venv-dspytools

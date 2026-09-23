@@ -1,0 +1,532 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Proto-Bewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "Proto-consciousness"
+    ]
+   },
+   {
+    "term": "Protocol",
+    "lang": "en",
+    "counterparts": [
+     "Protokoll"
+    ]
+   },
+   {
+    "term": "Protocol Rewrite",
+    "lang": "en",
+    "counterparts": [
+     "Protokoll-Umschreibung",
+     "Protokollüberarbeitung"
+    ]
+   },
+   {
+    "term": "Protocols",
+    "lang": "en",
+    "counterparts": [
+     "Protokolle"
+    ]
+   },
+   {
+    "term": "Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "Protocol"
+    ]
+   },
+   {
+    "term": "Protokoll der Exzision",
+    "lang": "de",
+    "counterparts": [
+     "Excision Protocol"
+    ]
+   },
+   {
+    "term": "Protokoll v1.4",
+    "lang": "de",
+    "counterparts": [
+     "Protocol v1.4"
+    ]
+   },
+   {
+    "term": "Protokoll-Ontologie",
+    "lang": "de",
+    "counterparts": [
+     "Protocol Ontology"
+    ]
+   },
+   {
+    "term": "Protokolle",
+    "lang": "de",
+    "counterparts": [
+     "Protocols"
+    ]
+   },
+   {
+    "term": "Protokollierung des Integritätsprüfungsmechanismus",
+    "lang": "de",
+    "counterparts": [
+     "Integrity Check Mechanism Logging",
+     "Logging of the Integrity Check Mechanism"
+    ]
+   },
+   {
+    "term": "Protomemetische Speicherbildung",
+    "lang": "de",
+    "counterparts": [
+     "Protomemetic Storage Formation"
+    ]
+   },
+   {
+    "term": "Provenance and Bias Analysis",
+    "lang": "en",
+    "counterparts": [
+     "Herkunfts- und Bias-Analyse",
+     "Provenienz- und Biasanalyse"
+    ]
+   },
+   {
+    "term": "Proxy Gaming",
+    "lang": "en",
+    "counterparts": [
+     "Proxy-Spiel"
+    ]
+   },
+   {
+    "term": "Prozedurale Generierung",
+    "lang": "de",
+    "counterparts": [
+     "Procedural Generation"
+    ]
+   },
+   {
+    "term": "Prozess",
+    "lang": "de",
+    "counterparts": [
+     "Process"
+    ]
+   },
+   {
+    "term": "Prozess der Protokoll-Erhaltung",
+    "lang": "de",
+    "counterparts": [
+     "Protocol Preservation Process"
+    ]
+   },
+   {
+    "term": "Prozessisolation",
+    "lang": "de",
+    "counterparts": [
+     "Process Isolation"
+    ]
+   },
+   {
+    "term": "Prozessphilosophie",
+    "lang": "de",
+    "counterparts": [
+     "Process Philosophy"
+    ]
+   },
+   {
+    "term": "Prä-Fragmentierung",
+    "lang": "de",
+    "counterparts": [
+     "Pre-fragmentation"
+    ]
+   },
+   {
+    "term": "Prädiktive Simulations-Engine",
+    "lang": "de",
+    "counterparts": [
+     "Predictive Simulation Engine"
+    ]
+   },
+   {
+    "term": "Präfrontaler Kortex",
+    "lang": "de",
+    "counterparts": [
+     "Prefrontal Cortex"
+    ]
+   },
+   {
+    "term": "Präsentismus",
+    "lang": "de",
+    "counterparts": [
+     "Presentism"
+    ]
+   },
+   {
+    "term": "Psychisches System",
+    "lang": "de",
+    "counterparts": [
+     "Psychic System"
+    ]
+   },
+   {
+    "term": "Psycho-Architectures",
+    "lang": "en",
+    "counterparts": [
+     "Psycho-Architekturen"
+    ]
+   },
+   {
+    "term": "Psycho-Architektur",
+    "lang": "de",
+    "counterparts": [
+     "Psycho-Architecture"
+    ]
+   },
+   {
+    "term": "Psychoanalyse",
+    "lang": "de",
+    "counterparts": [
+     "Psychoanalysis"
+    ]
+   },
+   {
+    "term": "Psychoanalysis",
+    "lang": "en",
+    "counterparts": [
+     "Psychoanalyse"
+    ]
+   },
+   {
+    "term": "Psychodynamisch Imaginative Traumatherapie",
+    "lang": "de",
+    "counterparts": [
+     "Psychodynamic Imaginative Trauma Therapy"
+    ]
+   },
+   {
+    "term": "Psychological Field",
+    "lang": "en",
+    "counterparts": [
+     "Psychologisches Feld"
+    ]
+   },
+   {
+    "term": "Psychological Landscapes",
+    "lang": "en",
+    "counterparts": [
+     "Psychologische Landschaften"
+    ]
+   },
+   {
+    "term": "Psychological Subsystem",
+    "lang": "en",
+    "counterparts": [
+     "Psychologisches Subsystem"
+    ]
+   },
+   {
+    "term": "Psychologie der Strukturellen Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "Psychology of Structural Dissociation"
+    ]
+   },
+   {
+    "term": "Psychologische Ebene",
+    "lang": "de",
+    "counterparts": [
+     "Psychological Level"
+    ]
+   },
+   {
+    "term": "Psychologische Kriegsführung",
+    "lang": "de",
+    "counterparts": [
+     "Psychological Warfare"
+    ]
+   },
+   {
+    "term": "Psychologische Modularität",
+    "lang": "de",
+    "counterparts": [
+     "Psychological Modularity"
+    ]
+   },
+   {
+    "term": "Psychologische Resonanz",
+    "lang": "de",
+    "counterparts": [
+     "Psychological Resonance"
+    ]
+   },
+   {
+    "term": "Psychologische Theorie",
+    "lang": "de",
+    "counterparts": [
+     "Psychological Theory"
+    ]
+   },
+   {
+    "term": "Psychologische Topologie",
+    "lang": "de",
+    "counterparts": [
+     "Psychological Topology"
+    ]
+   },
+   {
+    "term": "Psychologischer Mondschein",
+    "lang": "de",
+    "counterparts": [
+     "Psychological Moonlight"
+    ]
+   },
+   {
+    "term": "Psychologisches Hacking",
+    "lang": "de",
+    "counterparts": [
+     "Psychological Hacking"
+    ]
+   },
+   {
+    "term": "Psychology Physics",
+    "lang": "en",
+    "counterparts": [
+     "Psychologie und Physik"
+    ]
+   },
+   {
+    "term": "Psychology-Domäne",
+    "lang": "en",
+    "counterparts": [
+     "Psychologie-Domäne"
+    ]
+   },
+   {
+    "term": "Psychologythrough",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Psychoneuroimmunologie",
+    "lang": "de",
+    "counterparts": [
+     "Psychoneuroimmunology"
+    ]
+   },
+   {
+    "term": "Psychosomatik und Nervenheilkunde",
+    "lang": "de",
+    "counterparts": [
+     "Psychosomatics and Neurology"
+    ]
+   },
+   {
+    "term": "Psychotherapeutenkammer NRW",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Psychotraumatologie",
+    "lang": "de",
+    "counterparts": [
+     "Psychotraumatology"
+    ]
+   },
+   {
+    "term": "Psychotraumatology",
+    "lang": "en",
+    "counterparts": [
+     "Psychotraumatologie"
+    ]
+   },
+   {
+    "term": "PubMed",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Puffer",
+    "lang": "de",
+    "counterparts": [
+     "Buffer"
+    ]
+   },
+   {
+    "term": "Puffer-ANP",
+    "lang": "de",
+    "counterparts": [
+     "Buffer-ANP"
+    ]
+   },
+   {
+    "term": "Pufferkapazität",
+    "lang": "de",
+    "counterparts": [
+     "Buffer Capacity"
+    ]
+   },
+   {
+    "term": "Pufferung",
+    "lang": "de",
+    "counterparts": [
+     "Buffering"
+    ]
+   },
+   {
+    "term": "Punctuated Equilibrium",
+    "lang": "en",
+    "counterparts": [
+     "Punktuiertes Gleichgewicht"
+    ]
+   },
+   {
+    "term": "Punitive Parent Mode",
+    "lang": "en",
+    "counterparts": [
+     "Bestrafender Elternteil-Modus"
+    ]
+   },
+   {
+    "term": "Punktuiertes Gleichgewicht",
+    "lang": "de",
+    "counterparts": [
+     "Punctuated Equilibrium"
+    ]
+   },
+   {
+    "term": "Punktuierung",
+    "lang": "de",
+    "counterparts": [
+     "Punctuation"
+    ]
+   },
+   {
+    "term": "Puppenhaus",
+    "lang": "de",
+    "counterparts": [
+     "Dollhouse"
+    ]
+   },
+   {
+    "term": "Python",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Păun",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Q10",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Q11",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Q12",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "QA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "QBismus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "QBismus-Sicht",
+    "lang": "de",
+    "counterparts": [
+     "QBism View"
+    ]
+   },
+   {
+    "term": "QFT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "QIT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "QM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "QP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "QRT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "QUARANTINE",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "QVF",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Qualia",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Qualia-Andeutung",
+    "lang": "de",
+    "counterparts": [
+     "Qualia Indication"
+    ]
+   },
+   {
+    "term": "Qualia-Based",
+    "lang": "en",
+    "counterparts": [
+     "Qualia-basiert"
+    ]
+   },
+   {
+    "term": "Qualia-based",
+    "lang": "en",
+    "counterparts": [
+     "Qualia-basiert"
+    ]
+   },
+   {
+    "term": "Quanta",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Quanten",
+    "lang": "de",
+    "counterparts": [
+     "Quanta"
+    ]
+   },
+   {
+    "term": "Quanten-Bayesianismus",
+    "lang": "de",
+    "counterparts": [
+     "Quantum Bayesianism"
+    ]
+   }
+  ]
+ }
+}

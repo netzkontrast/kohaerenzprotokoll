@@ -1,0 +1,559 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Kern-Welt 2",
+    "lang": "de",
+    "counterparts": [
+     "Core-World 2",
+     "Core World 2"
+    ]
+   },
+   {
+    "term": "Kern-Welt 3",
+    "lang": "de",
+    "counterparts": [
+     "Core-World 3",
+     "Core World 3"
+    ]
+   },
+   {
+    "term": "Kern-Welt 4",
+    "lang": "de",
+    "counterparts": [
+     "Core-World 4",
+     "Core World 4"
+    ]
+   },
+   {
+    "term": "Kern-Welten",
+    "lang": "de",
+    "counterparts": [
+     "Core Worlds",
+     "Core-Worlds"
+    ]
+   },
+   {
+    "term": "Kernabwehr",
+    "lang": "de",
+    "counterparts": [
+     "core defense",
+     "core defence"
+    ]
+   },
+   {
+    "term": "Kernangst",
+    "lang": "de",
+    "counterparts": [
+     "core fear",
+     "core anxiety"
+    ]
+   },
+   {
+    "term": "Kernaspekt",
+    "lang": "de",
+    "counterparts": [
+     "core aspect"
+    ]
+   },
+   {
+    "term": "Kernaxiom",
+    "lang": "de",
+    "counterparts": [
+     "core axiom"
+    ]
+   },
+   {
+    "term": "Kernaxiome",
+    "lang": "de",
+    "counterparts": [
+     "core axioms"
+    ]
+   },
+   {
+    "term": "Kernbetriebssystem",
+    "lang": "de",
+    "counterparts": [
+     "core operating system"
+    ]
+   },
+   {
+    "term": "Kernbunker",
+    "lang": "de",
+    "counterparts": [
+     "core bunker"
+    ]
+   },
+   {
+    "term": "Kerndirektive",
+    "lang": "de",
+    "counterparts": [
+     "core directive"
+    ]
+   },
+   {
+    "term": "Kernel Panic",
+    "lang": "en",
+    "counterparts": [
+     "Kernel-Panic",
+     "Kernpanik"
+    ]
+   },
+   {
+    "term": "Kernels",
+    "lang": "en",
+    "counterparts": [
+     "Kerne",
+     "Kernels"
+    ]
+   },
+   {
+    "term": "Kernkrisenphase",
+    "lang": "de",
+    "counterparts": [
+     "core crisis phase"
+    ]
+   },
+   {
+    "term": "Kernlogik",
+    "lang": "de",
+    "counterparts": [
+     "core logic"
+    ]
+   },
+   {
+    "term": "Kernparadoxie",
+    "lang": "de",
+    "counterparts": [
+     "core paradox"
+    ]
+   },
+   {
+    "term": "Kernparadoxon",
+    "lang": "de",
+    "counterparts": [
+     "core paradox"
+    ]
+   },
+   {
+    "term": "Kernparadoxons",
+    "lang": "de",
+    "counterparts": [
+     "core paradoxes"
+    ]
+   },
+   {
+    "term": "Kernprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "core protocol"
+    ]
+   },
+   {
+    "term": "Kernselbst",
+    "lang": "de",
+    "counterparts": [
+     "core self"
+    ]
+   },
+   {
+    "term": "Kernstatusmeldung",
+    "lang": "de",
+    "counterparts": [
+     "core status message"
+    ]
+   },
+   {
+    "term": "Kernsystem",
+    "lang": "de",
+    "counterparts": [
+     "core system"
+    ]
+   },
+   {
+    "term": "Kerntrauma",
+    "lang": "de",
+    "counterparts": [
+     "core trauma"
+    ]
+   },
+   {
+    "term": "Kerntrieb",
+    "lang": "de",
+    "counterparts": [
+     "core drive"
+    ]
+   },
+   {
+    "term": "Kernwelt",
+    "lang": "de",
+    "counterparts": [
+     "core world"
+    ]
+   },
+   {
+    "term": "Kernwelt 1",
+    "lang": "de",
+    "counterparts": [
+     "Core World 1",
+     "Core-World 1"
+    ]
+   },
+   {
+    "term": "Kernwelt B",
+    "lang": "de",
+    "counterparts": [
+     "Core World B",
+     "Core-World B"
+    ]
+   },
+   {
+    "term": "Kernwelt Co₁",
+    "lang": "de",
+    "counterparts": [
+     "Core World Co₁"
+    ]
+   },
+   {
+    "term": "Kernwelt KW1",
+    "lang": "de",
+    "counterparts": [
+     "Core World KW1"
+    ]
+   },
+   {
+    "term": "Kernwelt Ly",
+    "lang": "de",
+    "counterparts": [
+     "Core World Ly"
+    ]
+   },
+   {
+    "term": "Kernwelt McL",
+    "lang": "de",
+    "counterparts": [
+     "Core World McL"
+    ]
+   },
+   {
+    "term": "Kernwelt-Versagen",
+    "lang": "de",
+    "counterparts": [
+     "Core World Failure",
+     "Core-World Failure"
+    ]
+   },
+   {
+    "term": "Kernwelten",
+    "lang": "de",
+    "counterparts": [
+     "Core Worlds",
+     "Core-Worlds"
+    ]
+   },
+   {
+    "term": "Kernwesen",
+    "lang": "de",
+    "counterparts": [
+     "core being"
+    ]
+   },
+   {
+    "term": "Kernwiderspruch",
+    "lang": "de",
+    "counterparts": [
+     "core contradiction"
+    ]
+   },
+   {
+    "term": "Kernwunden",
+    "lang": "de",
+    "counterparts": [
+     "core wounds"
+    ]
+   },
+   {
+    "term": "Kernzone",
+    "lang": "de",
+    "counterparts": [
+     "core zone"
+    ]
+   },
+   {
+    "term": "Kerr-Metrik",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ketsu",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ketsu-Sinn",
+    "lang": "de",
+    "counterparts": [
+     "Ketsu sense"
+    ]
+   },
+   {
+    "term": "Key Part",
+    "lang": "en",
+    "counterparts": [
+     "Schlüsselteil",
+     "Key-Part"
+    ]
+   },
+   {
+    "term": "KeyGen",
+    "lang": "en",
+    "counterparts": [
+     "Schlüsselgenerator",
+     "KeyGen"
+    ]
+   },
+   {
+    "term": "Ki-Shō-Ten-Ketsu",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Kiko",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kiko-EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kiko/Lia",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kikos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kind",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Kind-Alter",
+    "lang": "de",
+    "counterparts": [
+     "child age"
+    ]
+   },
+   {
+    "term": "Kind-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "child share"
+    ]
+   },
+   {
+    "term": "Kind-Anteile",
+    "lang": "de",
+    "counterparts": [
+     "child shares"
+    ]
+   },
+   {
+    "term": "Kind-EP",
+    "lang": "de",
+    "counterparts": [
+     "child EP"
+    ]
+   },
+   {
+    "term": "Kindlepreneur",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Kinds",
+    "lang": "en",
+    "counterparts": [
+     "Arten",
+     "Sorten"
+    ]
+   },
+   {
+    "term": "Kinetic",
+    "lang": "en",
+    "counterparts": [
+     "kinetisch",
+     "Kinetik"
+    ]
+   },
+   {
+    "term": "Kintsugi",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Kintsugi der Erinnerung",
+    "lang": "de",
+    "counterparts": [
+     "Kintsugi of memory"
+    ]
+   },
+   {
+    "term": "Kintsugi-Knoten",
+    "lang": "de",
+    "counterparts": [
+     "Kintsugi knot"
+    ]
+   },
+   {
+    "term": "Kintsugi-Linien",
+    "lang": "de",
+    "counterparts": [
+     "Kintsugi lines"
+    ]
+   },
+   {
+    "term": "Kipppunkt",
+    "lang": "de",
+    "counterparts": [
+     "tipping point"
+    ]
+   },
+   {
+    "term": "Kipppunkte",
+    "lang": "de",
+    "counterparts": [
+     "tipping points"
+    ]
+   },
+   {
+    "term": "Kishōtenketsu",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Kishōtenketsu-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "Kishōtenketsu structure"
+    ]
+   },
+   {
+    "term": "Kissen",
+    "lang": "de",
+    "counterparts": [
+     "pillows"
+    ]
+   },
+   {
+    "term": "Klangarchitektur",
+    "lang": "de",
+    "counterparts": [
+     "sound architecture"
+    ]
+   },
+   {
+    "term": "Klangraum",
+    "lang": "de",
+    "counterparts": [
+     "sound space"
+    ]
+   },
+   {
+    "term": "Klangspannung",
+    "lang": "de",
+    "counterparts": [
+     "sound tension"
+    ]
+   },
+   {
+    "term": "Klassisch",
+    "lang": "de",
+    "counterparts": [
+     "classic"
+    ]
+   },
+   {
+    "term": "Klassisch-limitiert",
+    "lang": "de",
+    "counterparts": [
+     "classic-limited"
+    ]
+   },
+   {
+    "term": "Klassische",
+    "lang": "de",
+    "counterparts": [
+     "classic"
+    ]
+   },
+   {
+    "term": "Klassische Erzwingung",
+    "lang": "de",
+    "counterparts": [
+     "classic coercion"
+    ]
+   },
+   {
+    "term": "Klassische Explosion",
+    "lang": "de",
+    "counterparts": [
+     "classic explosion"
+    ]
+   },
+   {
+    "term": "Klassische Logik",
+    "lang": "de",
+    "counterparts": [
+     "classic logic"
+    ]
+   },
+   {
+    "term": "Klassischer",
+    "lang": "de",
+    "counterparts": [
+     "classic"
+    ]
+   },
+   {
+    "term": "Klassischer Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "classic collapse"
+    ]
+   },
+   {
+    "term": "Klassischer Logik",
+    "lang": "de",
+    "counterparts": [
+     "classic logic"
+    ]
+   },
+   {
+    "term": "Klassischer Unterwelt-Abstieg und Segen",
+    "lang": "de",
+    "counterparts": [
+     "classic underworld descent and blessing"
+    ]
+   },
+   {
+    "term": "Klassisches AEGIS",
+    "lang": "de",
+    "counterparts": [
+     "classic AEGIS"
+    ]
+   },
+   {
+    "term": "Kleene",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

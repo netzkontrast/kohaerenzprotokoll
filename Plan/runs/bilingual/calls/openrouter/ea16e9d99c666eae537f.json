@@ -1,0 +1,503 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "AEGIS Protokolle",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS Protocols"
+    ]
+   },
+   {
+    "term": "AEGIS Symptom",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS Zentralkern",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS Central Core"
+    ]
+   },
+   {
+    "term": "AEGIS-Agenten",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Agents"
+    ]
+   },
+   {
+    "term": "AEGIS-Analogon",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Architektur",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Architecture"
+    ]
+   },
+   {
+    "term": "AEGIS-Avatar",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Botschaft",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Embassy"
+    ]
+   },
+   {
+    "term": "AEGIS-Cluster",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Clustern",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Clusters"
+    ]
+   },
+   {
+    "term": "AEGIS-Echo",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Entität Interaktion",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Entity Interaction"
+    ]
+   },
+   {
+    "term": "AEGIS-Heilung",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Healing"
+    ]
+   },
+   {
+    "term": "AEGIS-Hub",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Ideologie",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Ideology"
+    ]
+   },
+   {
+    "term": "AEGIS-Intervention",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Intrusion",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Kern",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Core"
+    ]
+   },
+   {
+    "term": "AEGIS-Kernlogik",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Core-Logic"
+    ]
+   },
+   {
+    "term": "AEGIS-Logik",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Logic"
+    ]
+   },
+   {
+    "term": "AEGIS-Logs",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-MC",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Manifest",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Manifests",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Modus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Nexus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Paradoxon",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS Paradox"
+    ]
+   },
+   {
+    "term": "AEGIS-Paradoxons",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS Paradoxes"
+    ]
+   },
+   {
+    "term": "AEGIS-Perspektive",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Perspective"
+    ]
+   },
+   {
+    "term": "AEGIS-Philosophie",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Philosophy"
+    ]
+   },
+   {
+    "term": "AEGIS-Prinzip",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Principle"
+    ]
+   },
+   {
+    "term": "AEGIS-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Protocol"
+    ]
+   },
+   {
+    "term": "AEGIS-Protokoll I",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Protocol I"
+    ]
+   },
+   {
+    "term": "AEGIS-Protokoll II",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Protocol II"
+    ]
+   },
+   {
+    "term": "AEGIS-Protokoll III",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Protocol III"
+    ]
+   },
+   {
+    "term": "AEGIS-Protokoll IV",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Protocol IV"
+    ]
+   },
+   {
+    "term": "AEGIS-Protokoll V",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Protocol V"
+    ]
+   },
+   {
+    "term": "AEGIS-Protokolle",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Protocols"
+    ]
+   },
+   {
+    "term": "AEGIS-Protokolls",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Protocol's"
+    ]
+   },
+   {
+    "term": "AEGIS-Schicksal",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Fate"
+    ]
+   },
+   {
+    "term": "AEGIS-Simulation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Struktur",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Structure"
+    ]
+   },
+   {
+    "term": "AEGIS-System",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Systems",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS-Tod",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Death"
+    ]
+   },
+   {
+    "term": "AEGIS-Unterdrückung",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Suppression"
+    ]
+   },
+   {
+    "term": "AEGIS-Überwelt",
+    "lang": "de",
+    "counterparts": [
+     "AEGIS-Upper-World"
+    ]
+   },
+   {
+    "term": "AEGIS/Cerberus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS/Guardians",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AEGIS/Kael",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AExam",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AGI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AI Alignment",
+    "lang": "en",
+    "counterparts": [
+     "KI-Ausrichtung"
+    ]
+   },
+   {
+    "term": "AI Enhanced",
+    "lang": "en",
+    "counterparts": [
+     "KI-erweitert"
+    ]
+   },
+   {
+    "term": "AI Entity Object Specification",
+    "lang": "en",
+    "counterparts": [
+     "KI-Entitätsobjektspezifikation"
+    ]
+   },
+   {
+    "term": "AI Feedback",
+    "lang": "en",
+    "counterparts": [
+     "KI-Feedback"
+    ]
+   },
+   {
+    "term": "AIEOS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AIRM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AI_alignment",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AKTUELLE POSITION",
+    "lang": "de",
+    "counterparts": [
+     "CURRENT POSITION"
+    ]
+   },
+   {
+    "term": "AL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ALIENATION AND SEPARATION",
+    "lang": "en",
+    "counterparts": [
+     "Entfremdung und Trennung"
+    ]
+   },
+   {
+    "term": "ALife",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "AN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ANI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ANOMALY",
+    "lang": "en",
+    "counterparts": [
+     "Anomalie"
+    ]
+   },
+   {
+    "term": "ANP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "ANP Analyst",
+    "lang": "en",
+    "counterparts": [
+     "ANP-Analyst"
+    ]
+   },
+   {
+    "term": "ANP Carer",
+    "lang": "en",
+    "counterparts": [
+     "ANP-Carer"
+    ]
+   },
+   {
+    "term": "ANP Host",
+    "lang": "en",
+    "counterparts": [
+     "ANP-Host"
+    ]
+   },
+   {
+    "term": "ANP Protector",
+    "lang": "en",
+    "counterparts": [
+     "ANP-Protector"
+    ]
+   },
+   {
+    "term": "ANP Strategische Divergenz",
+    "lang": "de",
+    "counterparts": [
+     "ANP Strategic Divergence"
+    ]
+   },
+   {
+    "term": "ANP und EP",
+    "lang": "de",
+    "counterparts": [
+     "ANP and EP"
+    ]
+   },
+   {
+    "term": "ANP-ANP Konflikte",
+    "lang": "de",
+    "counterparts": [
+     "ANP-ANP conflicts"
+    ]
+   },
+   {
+    "term": "ANP-Abschirmung",
+    "lang": "de",
+    "counterparts": [
+     "ANP shielding"
+    ]
+   },
+   {
+    "term": "ANP-Barrieren",
+    "lang": "de",
+    "counterparts": [
+     "ANP barriers"
+    ]
+   },
+   {
+    "term": "ANP-Beobachter",
+    "lang": "de",
+    "counterparts": [
+     "ANP observer"
+    ]
+   },
+   {
+    "term": "ANP-Dominanz",
+    "lang": "de",
+    "counterparts": [
+     "ANP dominance"
+    ]
+   }
+  ]
+ }
+}

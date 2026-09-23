@@ -1,0 +1,558 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Verspielte",
+    "lang": "de",
+    "counterparts": [
+     "playful",
+     "mischievous",
+     "gameful"
+    ]
+   },
+   {
+    "term": "Verstärkte Mauern",
+    "lang": "de",
+    "counterparts": [
+     "reinforced walls",
+     "strengthened walls",
+     "reinforced barriers"
+    ]
+   },
+   {
+    "term": "Verstärkungslernen",
+    "lang": "de",
+    "counterparts": [
+     "reinforcement learning"
+    ]
+   },
+   {
+    "term": "Verteidiger",
+    "lang": "de",
+    "counterparts": [
+     "defender",
+     "advocate",
+     "protector"
+    ]
+   },
+   {
+    "term": "Verteidigungs-Aktionssystemen",
+    "lang": "de",
+    "counterparts": [
+     "defense action systems",
+     "defensive action systems"
+    ]
+   },
+   {
+    "term": "Verteidigungsnetzwerks der Grenzfeste",
+    "lang": "de",
+    "counterparts": [
+     "defense network of the border fortress",
+     "border fortress defense network"
+    ]
+   },
+   {
+    "term": "Verteilte Systeme",
+    "lang": "de",
+    "counterparts": [
+     "distributed systems"
+    ]
+   },
+   {
+    "term": "Vertex",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Vertex Operator Algebra",
+    "lang": "en",
+    "counterparts": [
+     "Vertex-Operator-Algebra",
+     "Vertexoperatoralgebra"
+    ]
+   },
+   {
+    "term": "Vertex Operator Algebras",
+    "lang": "en",
+    "counterparts": [
+     "Vertex-Operator-Algebren",
+     "Vertexoperatoralgebren"
+    ]
+   },
+   {
+    "term": "Vertex-Operator Algebra",
+    "lang": "de",
+    "counterparts": [
+     "vertex operator algebra"
+    ]
+   },
+   {
+    "term": "Vertex-Operator-Algebra",
+    "lang": "de",
+    "counterparts": [
+     "vertex operator algebra"
+    ]
+   },
+   {
+    "term": "Vertex-Operator-Algebren",
+    "lang": "de",
+    "counterparts": [
+     "vertex operator algebras"
+    ]
+   },
+   {
+    "term": "Vertexoperatoralgebra",
+    "lang": "de",
+    "counterparts": [
+     "vertex operator algebra"
+    ]
+   },
+   {
+    "term": "Vertexoperatoralgebren",
+    "lang": "de",
+    "counterparts": [
+     "vertex operator algebras"
+    ]
+   },
+   {
+    "term": "Vertical Symmetry Bridge",
+    "lang": "en",
+    "counterparts": [
+     "Vertikale Symmetrie Brücke",
+     "Vertikale-Symmetrie-Brücke"
+    ]
+   },
+   {
+    "term": "Vertices",
+    "lang": "en",
+    "counterparts": [
+     "Vertexen",
+     "Vertices"
+    ]
+   },
+   {
+    "term": "Vertikale Beziehung",
+    "lang": "de",
+    "counterparts": [
+     "vertical relationship"
+    ]
+   },
+   {
+    "term": "Vertrauenlose Validierung",
+    "lang": "de",
+    "counterparts": [
+     "trustless validation"
+    ]
+   },
+   {
+    "term": "Verwalter",
+    "lang": "de",
+    "counterparts": [
+     "administrator",
+     "custodian",
+     "manager"
+    ]
+   },
+   {
+    "term": "Verwundete Aphrodite",
+    "lang": "de",
+    "counterparts": [
+     "wounded Aphrodite",
+     "wounded Venus"
+    ]
+   },
+   {
+    "term": "Verywell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Verzeichnis",
+    "lang": "de",
+    "counterparts": [
+     "directory",
+     "index",
+     "catalog"
+    ]
+   },
+   {
+    "term": "Verzeichnis-basierte Protokolle",
+    "lang": "de",
+    "counterparts": [
+     "directory-based protocols"
+    ]
+   },
+   {
+    "term": "Verzerrung und Intrusionen",
+    "lang": "de",
+    "counterparts": [
+     "distortion and intrusions",
+     "distortions and intrusions"
+    ]
+   },
+   {
+    "term": "Vestibulärer Mismatch",
+    "lang": "de",
+    "counterparts": [
+     "vestibular mismatch"
+    ]
+   },
+   {
+    "term": "Victoria",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Viele-Welten-Interpretation",
+    "lang": "de",
+    "counterparts": [
+     "many-worlds interpretation",
+     "many worlds interpretation"
+    ]
+   },
+   {
+    "term": "Vier Dimensionen",
+    "lang": "de",
+    "counterparts": [
+     "four dimensions"
+    ]
+   },
+   {
+    "term": "Vier Durchgangslinien",
+    "lang": "de",
+    "counterparts": [
+     "four transit lines",
+     "four passage lines"
+    ]
+   },
+   {
+    "term": "Vier Throughlines",
+    "lang": "de",
+    "counterparts": [
+     "four throughlines"
+    ]
+   },
+   {
+    "term": "Vierergruppen",
+    "lang": "de",
+    "counterparts": [
+     "groups of four",
+     "quartets",
+     "fours"
+    ]
+   },
+   {
+    "term": "Vierwertige Zustände",
+    "lang": "de",
+    "counterparts": [
+     "four-valued states",
+     "tetravalent states"
+    ]
+   },
+   {
+    "term": "Virtual Reality",
+    "lang": "en",
+    "counterparts": [
+     "Virtuelle Realität",
+     "Virtual Reality"
+    ]
+   },
+   {
+    "term": "Virtuelle Maschinen",
+    "lang": "de",
+    "counterparts": [
+     "virtual machines"
+    ]
+   },
+   {
+    "term": "Virtuelle Realität",
+    "lang": "de",
+    "counterparts": [
+     "virtual reality"
+    ]
+   },
+   {
+    "term": "Vita3K",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vita3K Android",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vita3K-Android",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vivarta",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vn",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vogler",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Void",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Voids",
+    "lang": "en",
+    "counterparts": [
+     "Voids",
+     "Leeren"
+    ]
+   },
+   {
+    "term": "Vol-1742",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vollstrecker",
+    "lang": "de",
+    "counterparts": [
+     "executor",
+     "enforcer",
+     "fulfiller"
+    ]
+   },
+   {
+    "term": "Vom Universal Model",
+    "lang": "de",
+    "counterparts": [
+     "from the universal model"
+    ]
+   },
+   {
+    "term": "Von Foerster",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Vorgänger-Phase",
+    "lang": "de",
+    "counterparts": [
+     "predecessor phase",
+     "pre-phase"
+    ]
+   },
+   {
+    "term": "Vorhersagbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "predictability"
+    ]
+   },
+   {
+    "term": "Vorhersagefehler",
+    "lang": "de",
+    "counterparts": [
+     "prediction error",
+     "forecast error"
+    ]
+   },
+   {
+    "term": "Vorläufer",
+    "lang": "de",
+    "counterparts": [
+     "precursor",
+     "forerunner",
+     "predecessor"
+    ]
+   },
+   {
+    "term": "Vorstufe",
+    "lang": "de",
+    "counterparts": [
+     "preliminary stage",
+     "precursor stage",
+     "prophase"
+    ]
+   },
+   {
+    "term": "Vortex",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Vortex Inversion",
+    "lang": "en",
+    "counterparts": [
+     "Vortex-Inversion",
+     "Vortexinversion"
+    ]
+   },
+   {
+    "term": "Vortex-1-Mechanik",
+    "lang": "de",
+    "counterparts": [
+     "Vortex-1 mechanic",
+     "Vortex-1 mechanism"
+    ]
+   },
+   {
+    "term": "Vortex-Inversion",
+    "lang": "de",
+    "counterparts": [
+     "vortex inversion"
+    ]
+   },
+   {
+    "term": "Vorzeichen",
+    "lang": "de",
+    "counterparts": [
+     "sign",
+     "character",
+     "pre-sign"
+    ]
+   },
+   {
+    "term": "Vorzeitige Auflösung",
+    "lang": "de",
+    "counterparts": [
+     "premature dissolution",
+     "early dissolution"
+    ]
+   },
+   {
+    "term": "Vs",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Vulnerable Child Modes",
+    "lang": "en",
+    "counterparts": [
+     "verletzbarer Kindermodus",
+     "verwundeter Kindermodus"
+    ]
+   },
+   {
+    "term": "WAP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WASM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WASM-Container",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WHO",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WIMPs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WIN2009",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WS-02-03",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WS02-03-001",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WS2013-Alg-I",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "WSNs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wabi-Sabi",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Wabi-Sabi-Philosophie",
+    "lang": "de",
+    "counterparts": [
+     "wabi-sabi philosophy"
+    ]
+   },
+   {
+    "term": "Wabi-Sabi-Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "wabi-sabi truth"
+    ]
+   },
+   {
+    "term": "Wachsende",
+    "lang": "de",
+    "counterparts": [
+     "growing",
+     "increasing"
+    ]
+   },
+   {
+    "term": "Wacht",
+    "lang": "de",
+    "counterparts": [
+     "watch",
+     "guard",
+     "sentry"
+    ]
+   },
+   {
+    "term": "Wade",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Wahre Metaphysische Gesetz",
+    "lang": "de",
+    "counterparts": [
+     "true metaphysical law"
+    ]
+   },
+   {
+    "term": "Wahrhaft Extern",
+    "lang": "de",
+    "counterparts": [
+     "truly external",
+     "truly outside"
+    ]
+   },
+   {
+    "term": "Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "truth"
+    ]
+   }
+  ]
+ }
+}

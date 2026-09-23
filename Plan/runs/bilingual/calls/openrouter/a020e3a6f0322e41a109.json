@@ -1,0 +1,521 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "DCTCT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DDIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DDNOS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DEM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DES",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DES-II",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DES-T",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DESNOS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DGNB",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DGPM",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DGPPN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DGPs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DGUV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DID",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DID-Research",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DIDs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DIRECTIVE",
+    "lang": "en",
+    "counterparts": [
+     "Richtlinie",
+     "Anweisung",
+     "Verordnung"
+    ]
+   },
+   {
+    "term": "DIS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DIS SystemArbeit",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DIS-Struktur",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DIS-System",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DISSOCIATION OF THE PERSONALITY",
+    "lang": "en",
+    "counterparts": [
+     "Dissoziation der Persönlichkeit",
+     "Persönlichkeitsdissoziation",
+     "Dissoziation der Identität"
+    ]
+   },
+   {
+    "term": "DKT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DKT-Korrelat",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DLPFC",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DLT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DMN",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DMZs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DN08",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DN08030FU1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DNA",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "DNA-Methylierung",
+    "lang": "de",
+    "counterparts": [
+     "DNA methylation"
+    ]
+   },
+   {
+    "term": "DNQP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DNSSEC",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "DP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DPDR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DR",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DRAMATICA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DRI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DRV",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DS-CO1-LOGIC UND DS-MCL-RELATIONAL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DSGVO",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DSM",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "DSM Dissociative Disorders",
+    "lang": "en",
+    "counterparts": [
+     "DSM-Dissoziative Störungen",
+     "Dissoziative Störungen (DSM)",
+     "DSM-Kriterien für Dissoziative Störungen"
+    ]
+   },
+   {
+    "term": "DSM-5",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "DSM-Dissoziative Störungen",
+    "lang": "de",
+    "counterparts": [
+     "DSM Dissociative Disorders",
+     "DSM-5 Dissociative Disorders",
+     "Dissociative Disorders in DSM"
+    ]
+   },
+   {
+    "term": "DSM-Kriterien",
+    "lang": "de",
+    "counterparts": [
+     "DSM criteria",
+     "DSM-5 criteria",
+     "Diagnostic and Statistical Manual criteria"
+    ]
+   },
+   {
+    "term": "DSO",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DU",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DUT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Da Costas C-Systeme",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Daily Life Managers",
+    "lang": "en",
+    "counterparts": [
+     "Alltagsmanager",
+     "Manager für den Alltag",
+     "Lebensalltag-Manager"
+    ]
+   },
+   {
+    "term": "Dampeners",
+    "lang": "en",
+    "counterparts": [
+     "Dämpfer",
+     "Dämpfungen",
+     "Schwingungsdämpfer"
+    ]
+   },
+   {
+    "term": "Dan McAdams",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Daniel",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dantes Göttliche Komödie",
+    "lang": "de",
+    "counterparts": [
+     "Dante's Divine Comedy",
+     "The Divine Comedy",
+     "Divine Comedy"
+    ]
+   },
+   {
+    "term": "Dao",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Daoismus",
+    "lang": "de",
+    "counterparts": [
+     "Daoism",
+     "Taoism",
+     "Daoist religion"
+    ]
+   },
+   {
+    "term": "Dark",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Das",
+    "lang": "de",
+    "counterparts": [
+     "the"
+    ]
+   },
+   {
+    "term": "Das Unkartierte Territorium",
+    "lang": "de",
+    "counterparts": [
+     "The Uncharted Territory",
+     "Uncharted Territory",
+     "The Unmapped Territory"
+    ]
+   },
+   {
+    "term": "Data",
+    "lang": "en",
+    "counterparts": [
+     "Daten",
+     "Informationen",
+     "Datensatz"
+    ]
+   },
+   {
+    "term": "Data-Kollektiv",
+    "lang": "de",
+    "counterparts": [
+     "Data Collective"
+    ]
+   },
+   {
+    "term": "Data-Payload",
+    "lang": "en",
+    "counterparts": [
+     "Daten-Nutzlast",
+     "Nutzlast",
+     "Payload"
+    ]
+   },
+   {
+    "term": "Datas Erkenntnis",
+    "lang": "de",
+    "counterparts": [
+     "Data's insight",
+     "Data insight",
+     "Insight from data"
+    ]
+   },
+   {
+    "term": "Daten-Nutzlast",
+    "lang": "de",
+    "counterparts": [
+     "Data payload",
+     "Payload data",
+     "Data load"
+    ]
+   },
+   {
+    "term": "Daten-Spezialistin",
+    "lang": "de",
+    "counterparts": [
+     "Data specialist",
+     "Data expert",
+     "Data specialist (female)"
+    ]
+   },
+   {
+    "term": "Datenarchive",
+    "lang": "de",
+    "counterparts": [
+     "Data archives",
+     "Archives of data",
+     "Data storage"
+    ]
+   },
+   {
+    "term": "Datenflut",
+    "lang": "de",
+    "counterparts": [
+     "Data flood",
+     "Deluge of data",
+     "Data overflow"
+    ]
+   },
+   {
+    "term": "Datenfragment",
+    "lang": "de",
+    "counterparts": [
+     "Data fragment",
+     "Fragment of data",
+     "Data piece"
+    ]
+   },
+   {
+    "term": "Datenfragmente",
+    "lang": "de",
+    "counterparts": [
+     "Data fragments",
+     "Fragments of data",
+     "Data pieces"
+    ]
+   },
+   {
+    "term": "Datenfriedhof",
+    "lang": "de",
+    "counterparts": [
+     "Data graveyard",
+     "Data cemetery",
+     "Data dump"
+    ]
+   },
+   {
+    "term": "Datenintegrität",
+    "lang": "de",
+    "counterparts": [
+     "Data integrity",
+     "Integrity of data",
+     "Data correctness"
+    ]
+   },
+   {
+    "term": "Datenknoten",
+    "lang": "de",
+    "counterparts": [
+     "Data node",
+     "Node of data",
+     "Data point"
+    ]
+   },
+   {
+    "term": "Datenknotenpunkt",
+    "lang": "de",
+    "counterparts": [
+     "Data node point",
+     "Data junction",
+     "Data hub"
+    ]
+   },
+   {
+    "term": "Datenknotenpunkt Gamma-7",
+    "lang": "de",
+    "counterparts": [
+     "Data node point Gamma-7",
+     "Data hub Gamma-7",
+     "Data junction Gamma-7"
+    ]
+   },
+   {
+    "term": "Datenkompression",
+    "lang": "de",
+    "counterparts": [
+     "Data compression",
+     "Compression of data",
+     "Data compaction"
+    ]
+   },
+   {
+    "term": "Datenkorruption",
+    "lang": "de",
+    "counterparts": [
+     "Data corruption",
+     "Corruption of data",
+     "Data damage"
+    ]
+   },
+   {
+    "term": "Datenpaket",
+    "lang": "de",
+    "counterparts": [
+     "Data packet",
+     "Packet of data",
+     "Datagram"
+    ]
+   }
+  ]
+ }
+}

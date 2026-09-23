@@ -1,0 +1,613 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Integrity",
+    "lang": "en",
+    "counterparts": [
+     "Integrität",
+     "Unversehrtheit",
+     "Wahrhaftigkeit"
+    ]
+   },
+   {
+    "term": "Integrity Guardian",
+    "lang": "en",
+    "counterparts": [
+     "Integritätswächter",
+     "Integritätsguardian",
+     "Wächter der Integrität"
+    ]
+   },
+   {
+    "term": "Integritätsprüfungsmechanismus",
+    "lang": "de",
+    "counterparts": [
+     "integrity verification mechanism",
+     "integrity checking mechanism",
+     "integrity test mechanism"
+    ]
+   },
+   {
+    "term": "Intelligent Design",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Intent",
+    "lang": "en",
+    "counterparts": [
+     "Absicht",
+     "Intention",
+     "Vorhaben"
+    ]
+   },
+   {
+    "term": "Intentionalität",
+    "lang": "de",
+    "counterparts": [
+     "intentionality"
+    ]
+   },
+   {
+    "term": "Interaktionismus",
+    "lang": "de",
+    "counterparts": [
+     "interactionism"
+    ]
+   },
+   {
+    "term": "Interface",
+    "lang": "en",
+    "counterparts": [
+     "Schnittstelle",
+     "Anschlussstelle",
+     "Benutzeroberfläche"
+    ]
+   },
+   {
+    "term": "Interference",
+    "lang": "en",
+    "counterparts": [
+     "Interferenz",
+     "Störung",
+     "Einfluss"
+    ]
+   },
+   {
+    "term": "Interferenz",
+    "lang": "de",
+    "counterparts": [
+     "interference"
+    ]
+   },
+   {
+    "term": "Interferenz-Zonen",
+    "lang": "de",
+    "counterparts": [
+     "interference zones",
+     "interference regions",
+     "interference areas"
+    ]
+   },
+   {
+    "term": "Interferenzen",
+    "lang": "de",
+    "counterparts": [
+     "interferences"
+    ]
+   },
+   {
+    "term": "Interferenzmuster",
+    "lang": "de",
+    "counterparts": [
+     "interference pattern"
+    ]
+   },
+   {
+    "term": "Interferenzstruktur",
+    "lang": "de",
+    "counterparts": [
+     "interference structure"
+    ]
+   },
+   {
+    "term": "Internal Barriers",
+    "lang": "en",
+    "counterparts": [
+     "interne Barrieren",
+     "innere Barrieren",
+     "interne Hindernisse"
+    ]
+   },
+   {
+    "term": "Internal Family Systems",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Internal Family Systems (IFS)",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Internal Family Systems Model",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Internal Framing",
+    "lang": "en",
+    "counterparts": [
+     "interne Rahmung",
+     "innere Rahmung",
+     "interne Rahmenbildung"
+    ]
+   },
+   {
+    "term": "Internal Mediation",
+    "lang": "en",
+    "counterparts": [
+     "interne Mediation",
+     "innere Vermittlung",
+     "interne Vermittlung"
+    ]
+   },
+   {
+    "term": "Internal Process",
+    "lang": "en",
+    "counterparts": [
+     "interner Prozess",
+     "interne Prozess",
+     "innerer Ablauf"
+    ]
+   },
+   {
+    "term": "Internal Processing",
+    "lang": "en",
+    "counterparts": [
+     "interne Verarbeitung",
+     "innere Verarbeitung",
+     "interne Bearbeitung"
+    ]
+   },
+   {
+    "term": "Internal Self Helper",
+    "lang": "en",
+    "counterparts": [
+     "interner Selbsthelfer",
+     "innere Selbsthilfe",
+     "interne Selbsthilfe"
+    ]
+   },
+   {
+    "term": "Internal Self-Helper",
+    "lang": "en",
+    "counterparts": [
+     "interner Selbsthelfer"
+    ]
+   },
+   {
+    "term": "Internal State",
+    "lang": "en",
+    "counterparts": [
+     "interner Zustand",
+     "innerer Zustand",
+     "interner Status"
+    ]
+   },
+   {
+    "term": "InternalFamilySystems",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Internal_Family_Systems_Model",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Internalisierter Täter",
+    "lang": "de",
+    "counterparts": [
+     "internalized perpetrator",
+     "internalized offender",
+     "internalized abuser"
+    ]
+   },
+   {
+    "term": "Internalisierter Unterdrücker2",
+    "lang": "de",
+    "counterparts": [
+     "internalized oppressor 2",
+     "internalized suppressor 2",
+     "internalized oppressor2"
+    ]
+   },
+   {
+    "term": "Internalisierung des Täter-Protokolls",
+    "lang": "de",
+    "counterparts": [
+     "internalization of the perpetrator protocol",
+     "internalization of the offender protocol",
+     "internalization of the perpetrator protocol"
+    ]
+   },
+   {
+    "term": "Internalismus",
+    "lang": "de",
+    "counterparts": [
+     "internalism"
+    ]
+   },
+   {
+    "term": "International Trauma Interview",
+    "lang": "en",
+    "counterparts": [
+     "Internationales Trauma-Interview",
+     "Internationales Traumainterview",
+     "Internationales Trauma-Interview"
+    ]
+   },
+   {
+    "term": "International Trauma Questionnaire",
+    "lang": "en",
+    "counterparts": [
+     "Internationales Trauma-Fragebogen",
+     "Internationaler Trauma-Fragebogen",
+     "Internationales Traumaquestionnaire"
+    ]
+   },
+   {
+    "term": "Internationale Klassifikation der Krankheiten",
+    "lang": "de",
+    "counterparts": [
+     "International Classification of Diseases",
+     "ICD",
+     "International Disease Classification"
+    ]
+   },
+   {
+    "term": "Internationalen Klassifikation der Krankheiten",
+    "lang": "de",
+    "counterparts": [
+     "International Classification of Diseases",
+     "ICD",
+     "International Disease Classification"
+    ]
+   },
+   {
+    "term": "Interne Selbstprüfung",
+    "lang": "de",
+    "counterparts": [
+     "internal self-check",
+     "internal self-examination",
+     "internal self-review"
+    ]
+   },
+   {
+    "term": "Interne Semantik-Genese",
+    "lang": "de",
+    "counterparts": [
+     "internal semantics genesis",
+     "internal semantic genesis",
+     "internal semantic development"
+    ]
+   },
+   {
+    "term": "Interne Vermittlung",
+    "lang": "de",
+    "counterparts": [
+     "internal mediation",
+     "internal intermediation",
+     "internal facilitation"
+    ]
+   },
+   {
+    "term": "Interner Glitch",
+    "lang": "de",
+    "counterparts": [
+     "internal glitch"
+    ]
+   },
+   {
+    "term": "Interner Konflikt",
+    "lang": "de",
+    "counterparts": [
+     "internal conflict"
+    ]
+   },
+   {
+    "term": "Internes",
+    "lang": "de",
+    "counterparts": [
+     "internal"
+    ]
+   },
+   {
+    "term": "Internes Entropie-Management",
+    "lang": "de",
+    "counterparts": [
+     "internal entropy management"
+    ]
+   },
+   {
+    "term": "Internes System",
+    "lang": "de",
+    "counterparts": [
+     "internal system"
+    ]
+   },
+   {
+    "term": "Internet of Things",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Interpellation",
+    "lang": "en",
+    "counterparts": [
+     "Interpellation",
+     "Ansprache",
+     "Zurechnung"
+    ]
+   },
+   {
+    "term": "Interpretation der Quantenmechanik",
+    "lang": "de",
+    "counterparts": [
+     "interpretation of quantum mechanics"
+    ]
+   },
+   {
+    "term": "Interpretationsebenen",
+    "lang": "de",
+    "counterparts": [
+     "interpretation levels"
+    ]
+   },
+   {
+    "term": "Intersubjektivität",
+    "lang": "de",
+    "counterparts": [
+     "intersubjectivity"
+    ]
+   },
+   {
+    "term": "Interuniversale",
+    "lang": "de",
+    "counterparts": [
+     "interuniversal"
+    ]
+   },
+   {
+    "term": "Intervall",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Introject",
+    "lang": "en",
+    "counterparts": [
+     "Introjekt",
+     "internalisiertes Objekt",
+     "eingebrachtes Objekt"
+    ]
+   },
+   {
+    "term": "Introjekt",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Introjekte der Täter",
+    "lang": "de",
+    "counterparts": [
+     "introjects of the perpetrators",
+     "perpetrator introjects",
+     "offender introjects"
+    ]
+   },
+   {
+    "term": "Introjektion",
+    "lang": "de",
+    "counterparts": [
+     "introjection"
+    ]
+   },
+   {
+    "term": "Intrusion",
+    "lang": "en",
+    "counterparts": [
+     "Intrusion",
+     "Eindringen",
+     "Einbruch"
+    ]
+   },
+   {
+    "term": "Intuitive",
+    "lang": "en",
+    "counterparts": [
+     "intuitiv",
+     "intuitives",
+     "intuitiv"
+    ]
+   },
+   {
+    "term": "Intuitiver",
+    "lang": "de",
+    "counterparts": [
+     "intuitive"
+    ]
+   },
+   {
+    "term": "Invalid",
+    "lang": "en",
+    "counterparts": [
+     "ungültig",
+     "nicht gültig",
+     "invalid"
+    ]
+   },
+   {
+    "term": "Invalidation",
+    "lang": "en",
+    "counterparts": [
+     "Invalidierung",
+     "Ungültigmachung",
+     "Anfechtung"
+    ]
+   },
+   {
+    "term": "Invarianten",
+    "lang": "de",
+    "counterparts": [
+     "invariants"
+    ]
+   },
+   {
+    "term": "Invariants",
+    "lang": "en",
+    "counterparts": [
+     "Invarianten"
+    ]
+   },
+   {
+    "term": "Invarianz",
+    "lang": "de",
+    "counterparts": [
+     "invariance"
+    ]
+   },
+   {
+    "term": "Inversion",
+    "lang": "en",
+    "counterparts": [
+     "Inversion",
+     "Umkehrung",
+     "Verkehrung"
+    ]
+   },
+   {
+    "term": "Inversion Audit",
+    "lang": "en",
+    "counterparts": [
+     "Inversions-Audit",
+     "Audit der Inversion",
+     "Inversionskontrolle"
+    ]
+   },
+   {
+    "term": "Inversion Mind Universe",
+    "lang": "en",
+    "counterparts": [
+     "Inversion Geist Universum",
+     "Inversion-Mind-Universum",
+     "Universum der Inversion des Geistes"
+    ]
+   },
+   {
+    "term": "Involution",
+    "lang": "en",
+    "counterparts": [
+     "Involution",
+     "Rückentwicklung",
+     "Involution"
+    ]
+   },
+   {
+    "term": "IoT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Iqbal",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Irreversibilität",
+    "lang": "de",
+    "counterparts": [
+     "irreversibility"
+    ]
+   },
+   {
+    "term": "Irreversible Kern",
+    "lang": "de",
+    "counterparts": [
+     "irreversible core"
+    ]
+   },
+   {
+    "term": "Irritation",
+    "lang": "en",
+    "counterparts": [
+     "Irritation",
+     "Reizung",
+     "Störung"
+    ]
+   },
+   {
+    "term": "Isabella",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Isabelle",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Iser",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Ishtar",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Islands",
+    "lang": "en",
+    "counterparts": [
+     "Inseln"
+    ]
+   },
+   {
+    "term": "Isolation",
+    "lang": "en",
+    "counterparts": [
+     "Isolation",
+     "Absonderung",
+     "Trennung"
+    ]
+   },
+   {
+    "term": "Isolation Objection",
+    "lang": "en",
+    "counterparts": [
+     "Isolations-Einwand",
+     "Einwand gegen Isolation",
+     "Isolationskritik"
+    ]
+   },
+   {
+    "term": "Isolation der Anteile",
+    "lang": "de",
+    "counterparts": [
+     "isolation of the parts"
+    ]
+   },
+   {
+    "term": "Isolations-Inversion",
+    "lang": "de",
+    "counterparts": [
+     "isolation inversion"
+    ]
+   }
+  ]
+ }
+}
