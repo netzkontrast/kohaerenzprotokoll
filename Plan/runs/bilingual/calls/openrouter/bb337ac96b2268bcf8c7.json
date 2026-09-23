@@ -1,0 +1,497 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Zielfunktion",
+    "lang": "de",
+    "counterparts": [
+     "objective function",
+     "target function",
+     "goal function"
+    ]
+   },
+   {
+    "term": "Zig",
+    "lang": "en",
+    "counterparts": []
+   },
+   {
+    "term": "Zimmer",
+    "lang": "de",
+    "counterparts": [
+     "room",
+     "chamber",
+     "space"
+    ]
+   },
+   {
+    "term": "Zirkularität",
+    "lang": "de",
+    "counterparts": [
+     "circularity",
+     "circularness"
+    ]
+   },
+   {
+    "term": "Zombie",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Zombie-System",
+    "lang": "de",
+    "counterparts": [
+     "zombie system",
+     "zombie-system"
+    ]
+   },
+   {
+    "term": "Zuboff",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Zufallsgraphen",
+    "lang": "de",
+    "counterparts": [
+     "random graphs",
+     "random graph"
+    ]
+   },
+   {
+    "term": "Zufluchtsort",
+    "lang": "de",
+    "counterparts": [
+     "refuge",
+     "sanctuary",
+     "hideout"
+    ]
+   },
+   {
+    "term": "Zufällige Netzwerk-Schließung",
+    "lang": "de",
+    "counterparts": [
+     "random network closure",
+     "random network shutdown",
+     "random network closing"
+    ]
+   },
+   {
+    "term": "Zufälligkeit",
+    "lang": "de",
+    "counterparts": [
+     "randomness",
+     "chance",
+     "stochasticity"
+    ]
+   },
+   {
+    "term": "Zugangsproblem",
+    "lang": "de",
+    "counterparts": [
+     "access problem",
+     "access issue",
+     "access difficulty"
+    ]
+   },
+   {
+    "term": "Zugewiesener Kernel Error",
+    "lang": "de",
+    "counterparts": [
+     "assigned kernel error",
+     "assigned kernel fault",
+     "assigned kernel issue"
+    ]
+   },
+   {
+    "term": "Zugriffskontrolle",
+    "lang": "de",
+    "counterparts": [
+     "access control"
+    ]
+   },
+   {
+    "term": "Zugriffsrechte",
+    "lang": "de",
+    "counterparts": [
+     "access rights",
+     "permissions"
+    ]
+   },
+   {
+    "term": "Zusammenbruch der Grundannahmen",
+    "lang": "de",
+    "counterparts": [
+     "collapse of basic assumptions",
+     "breakdown of fundamental assumptions",
+     "failure of core premises"
+    ]
+   },
+   {
+    "term": "Zustands-Aktualisierungs-Prompt",
+    "lang": "de",
+    "counterparts": [
+     "state update prompt"
+    ]
+   },
+   {
+    "term": "Zustands-Begrenzung",
+    "lang": "de",
+    "counterparts": [
+     "state limitation",
+     "state bound"
+    ]
+   },
+   {
+    "term": "Zustandsanalyse-Prompt",
+    "lang": "de",
+    "counterparts": [
+     "state analysis prompt"
+    ]
+   },
+   {
+    "term": "Zustandsvalidierung",
+    "lang": "de",
+    "counterparts": [
+     "state validation"
+    ]
+   },
+   {
+    "term": "Zvonimir Janko",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Zweite-Ordnung-Kybernetik",
+    "lang": "de",
+    "counterparts": [
+     "second-order cybernetics"
+    ]
+   },
+   {
+    "term": "Zweiter Hauptsatz",
+    "lang": "de",
+    "counterparts": [
+     "second law"
+    ]
+   },
+   {
+    "term": "Zyklische Auflösung",
+    "lang": "de",
+    "counterparts": [
+     "cyclic resolution",
+     "cyclic dissolution"
+    ]
+   },
+   {
+    "term": "Zürich",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**AEGIS**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Alex**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Argus**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Influence Character (IC)**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Isabelle**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**K-J Verbindung**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**KW1: Logos-Prime**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**KW2: Mnemosyne-Archipel**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**KW3: Cerberus-Labyrinth**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**KW4: Kairos-Potentialis**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Kael (Host)**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Kael**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Kernwelt**",
+    "lang": "de",
+    "counterparts": [
+     "core world"
+    ]
+   },
+   {
+    "term": "**Kiko**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Lex**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Lia**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**LogOS**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Moros**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Nyx**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Objective Story (OS)**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Oblivion**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Relationship Story (RS)**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Rhys**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "**Selene**",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "aegis",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "alters",
+    "lang": "en",
+    "counterparts": []
+   },
+   {
+    "term": "ar5iv",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "arXiv",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "autopoietic system",
+    "lang": "en",
+    "counterparts": [
+     "autopoietisches System"
+    ]
+   },
+   {
+    "term": "autopoietisches System",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic system"
+    ]
+   },
+   {
+    "term": "bennett03",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "cos576",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "decoherence",
+    "lang": "en",
+    "counterparts": [
+     "Dekohärenz"
+    ]
+   },
+   {
+    "term": "die sechs Realitätsebenen",
+    "lang": "de",
+    "counterparts": [
+     "the six reality levels",
+     "six levels of reality"
+    ]
+   },
+   {
+    "term": "dissoziative Identitätsstruktur",
+    "lang": "de",
+    "counterparts": [
+     "dissociative identity structure"
+    ]
+   },
+   {
+    "term": "diva2",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "e2πiτ",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "emergenz",
+    "lang": "de",
+    "counterparts": [
+     "emergence"
+    ]
+   },
+   {
+    "term": "entropie",
+    "lang": "de",
+    "counterparts": [
+     "entropy"
+    ]
+   },
+   {
+    "term": "fMRI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "footnotes2plato",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "functional multiplicity",
+    "lang": "en",
+    "counterparts": [
+     "funktionale Vielfalt"
+    ]
+   },
+   {
+    "term": "gpt5",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "guardians",
+    "lang": "en",
+    "counterparts": [
+     "Wächter",
+     "Schützer"
+    ]
+   },
+   {
+    "term": "juna",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "kPTBS",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "kairos",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "kohaerenz",
+    "lang": "de",
+    "counterparts": [
+     "coherence"
+    ]
+   },
+   {
+    "term": "logos",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "n9wrx0",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "nLab",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "openJur",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "operationale Geschlossenheit",
+    "lang": "de",
+    "counterparts": [
+     "operational closure"
+    ]
+   },
+   {
+    "term": "parakonsistente Logik",
+    "lang": "de",
+    "counterparts": [
+     "paraconsistent logic"
+    ]
+   },
+   {
+    "term": "peDOCS",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

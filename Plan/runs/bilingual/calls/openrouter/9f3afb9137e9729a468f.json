@@ -1,0 +1,547 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Diagonal Pairs",
+    "lang": "en",
+    "counterparts": [
+     "Diagonale Paare"
+    ]
+   },
+   {
+    "term": "Diagonale Beziehung",
+    "lang": "de",
+    "counterparts": [
+     "Diagonal relationship",
+     "Diagonal relation",
+     "Diagonal Relationship"
+    ]
+   },
+   {
+    "term": "Dialectic",
+    "lang": "en",
+    "counterparts": [
+     "Dialektik"
+    ]
+   },
+   {
+    "term": "Dialektik",
+    "lang": "de",
+    "counterparts": [
+     "Dialectic",
+     "Dialectics"
+    ]
+   },
+   {
+    "term": "Dialektisch-Behavioralen Therapie",
+    "lang": "de",
+    "counterparts": [
+     "Dialectical-Behavioral Therapy",
+     "Dialectical Behavior Therapy"
+    ]
+   },
+   {
+    "term": "Dialektische Synthese",
+    "lang": "de",
+    "counterparts": [
+     "Dialectical synthesis",
+     "Dialectic synthesis"
+    ]
+   },
+   {
+    "term": "Dialektisches Denken",
+    "lang": "de",
+    "counterparts": [
+     "Dialectical thinking",
+     "Dialectic thinking"
+    ]
+   },
+   {
+    "term": "Dialetheia",
+    "lang": "en",
+    "counterparts": [
+     "Dialetheie"
+    ]
+   },
+   {
+    "term": "Dialetheias",
+    "lang": "en",
+    "counterparts": [
+     "Dialetheien"
+    ]
+   },
+   {
+    "term": "Dialetheic",
+    "lang": "en",
+    "counterparts": [
+     "Dialetheisch"
+    ]
+   },
+   {
+    "term": "Dialetheic Choice",
+    "lang": "en",
+    "counterparts": [
+     "Dialetheische Wahl",
+     "Dialetheische Entscheidung"
+    ]
+   },
+   {
+    "term": "Dialetheic Logic",
+    "lang": "en",
+    "counterparts": [
+     "Dialetheische Logik"
+    ]
+   },
+   {
+    "term": "Dialetheien",
+    "lang": "de",
+    "counterparts": [
+     "Dialetheias"
+    ]
+   },
+   {
+    "term": "Dialetheische",
+    "lang": "de",
+    "counterparts": [
+     "Dialetheic"
+    ]
+   },
+   {
+    "term": "Dialetheische Koexistenz",
+    "lang": "de",
+    "counterparts": [
+     "Dialetheic coexistence"
+    ]
+   },
+   {
+    "term": "Dialetheisches AEGIS",
+    "lang": "de",
+    "counterparts": [
+     "Dialetheic AEGIS"
+    ]
+   },
+   {
+    "term": "Dialetheism",
+    "lang": "en",
+    "counterparts": [
+     "Dialetheismus"
+    ]
+   },
+   {
+    "term": "Dialetheism-Engine",
+    "lang": "en",
+    "counterparts": [
+     "Dialetheismus-Engine"
+    ]
+   },
+   {
+    "term": "Dialetheismus",
+    "lang": "de",
+    "counterparts": [
+     "Dialetheism"
+    ]
+   },
+   {
+    "term": "Dialog der Weisen",
+    "lang": "de",
+    "counterparts": [
+     "Dialogue of the Wise",
+     "Dialogue of the Sages"
+    ]
+   },
+   {
+    "term": "Dialogical",
+    "lang": "en",
+    "counterparts": [
+     "Dialogisch"
+    ]
+   },
+   {
+    "term": "Dialogphilosophie",
+    "lang": "de",
+    "counterparts": [
+     "Dialogue philosophy",
+     "Dialogic philosophy"
+    ]
+   },
+   {
+    "term": "Dichotomie",
+    "lang": "de",
+    "counterparts": [
+     "Dichotomy"
+    ]
+   },
+   {
+    "term": "Die Grenzfeste",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Die Große Mauer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Die Große Mauer (Systemgrenze)",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Die Konstrukt-Stadt",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Die Leere Menge",
+    "lang": "de",
+    "counterparts": [
+     "the empty set"
+    ]
+   },
+   {
+    "term": "Die Narbenfelder",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Die Resonanz-Landschaft",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Die Zensurkammer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Diegese",
+    "lang": "de",
+    "counterparts": [
+     "diegesis"
+    ]
+   },
+   {
+    "term": "Differential Entangled Topology",
+    "lang": "en",
+    "counterparts": [
+     "Differentielle verschränkte Topologie"
+    ]
+   },
+   {
+    "term": "Digital",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Digital Overworld",
+    "lang": "en",
+    "counterparts": [
+     "Digitale Überwelt"
+    ]
+   },
+   {
+    "term": "DigitalCommons",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Digitale",
+    "lang": "de",
+    "counterparts": [
+     "digital"
+    ]
+   },
+   {
+    "term": "Digitale Philosophie",
+    "lang": "de",
+    "counterparts": [
+     "Digital philosophy"
+    ]
+   },
+   {
+    "term": "Digitale Physik",
+    "lang": "de",
+    "counterparts": [
+     "Digital physics"
+    ]
+   },
+   {
+    "term": "Digitale Überwelt",
+    "lang": "de",
+    "counterparts": [
+     "Digital overworld",
+     "Digital Overworld"
+    ]
+   },
+   {
+    "term": "Digitalphysik",
+    "lang": "de",
+    "counterparts": [
+     "Digital physics"
+    ]
+   },
+   {
+    "term": "Dionysisch",
+    "lang": "de",
+    "counterparts": [
+     "Dionysian"
+    ]
+   },
+   {
+    "term": "Directed Acyclic Graph",
+    "lang": "en",
+    "counterparts": [
+     "gerichteter azyklischer Graph"
+    ]
+   },
+   {
+    "term": "Directive",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Director",
+    "lang": "en",
+    "counterparts": [
+     "Direktor"
+    ]
+   },
+   {
+    "term": "Directory",
+    "lang": "en",
+    "counterparts": [
+     "Verzeichnis"
+    ]
+   },
+   {
+    "term": "Directory-based",
+    "lang": "en",
+    "counterparts": [
+     "verzeichnisbasiert"
+    ]
+   },
+   {
+    "term": "Direkte Substrat-Interaktion",
+    "lang": "de",
+    "counterparts": [
+     "Direct substrate interaction",
+     "Direct substrate-interaction"
+    ]
+   },
+   {
+    "term": "Direktes Interface",
+    "lang": "de",
+    "counterparts": [
+     "Direct interface"
+    ]
+   },
+   {
+    "term": "Direktive",
+    "lang": "de",
+    "counterparts": [
+     "Directive"
+    ]
+   },
+   {
+    "term": "Direktive17",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Disbelief",
+    "lang": "en",
+    "counterparts": [
+     "Unglauben"
+    ]
+   },
+   {
+    "term": "Disclosure",
+    "lang": "en",
+    "counterparts": [
+     "Offenlegung"
+    ]
+   },
+   {
+    "term": "Disco Elysium",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Discursive",
+    "lang": "en",
+    "counterparts": [
+     "diskursiv"
+    ]
+   },
+   {
+    "term": "Discursive Logic",
+    "lang": "en",
+    "counterparts": [
+     "diskursive Logik"
+    ]
+   },
+   {
+    "term": "Disinterested",
+    "lang": "en",
+    "counterparts": [
+     "unparteiisch"
+    ]
+   },
+   {
+    "term": "Disjunktiver Syllogismus",
+    "lang": "de",
+    "counterparts": [
+     "Disjunctive syllogism"
+    ]
+   },
+   {
+    "term": "Diskurs",
+    "lang": "de",
+    "counterparts": [
+     "Discourse"
+    ]
+   },
+   {
+    "term": "Diskursive Logik",
+    "lang": "de",
+    "counterparts": [
+     "Discursive logic"
+    ]
+   },
+   {
+    "term": "Dismissiv",
+    "lang": "de",
+    "counterparts": [
+     "Dismissive"
+    ]
+   },
+   {
+    "term": "Dissertation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Dissipative",
+    "lang": "en",
+    "counterparts": [
+     "dissipativ"
+    ]
+   },
+   {
+    "term": "Dissipative Struktur",
+    "lang": "de",
+    "counterparts": [
+     "Dissipative structure"
+    ]
+   },
+   {
+    "term": "Dissipative Strukturen",
+    "lang": "de",
+    "counterparts": [
+     "Dissipative structures"
+    ]
+   },
+   {
+    "term": "Dissociated State",
+    "lang": "en",
+    "counterparts": [
+     "dissoziierter Zustand"
+    ]
+   },
+   {
+    "term": "Dissociation",
+    "lang": "en",
+    "counterparts": [
+     "Dissoziation"
+    ]
+   },
+   {
+    "term": "Dissociation Experience Scale",
+    "lang": "en",
+    "counterparts": [
+     "Dissoziations-Erfahrungsskala",
+     "Dissoziationserfahrungsskala"
+    ]
+   },
+   {
+    "term": "Dissociation of the Personality",
+    "lang": "en",
+    "counterparts": [
+     "Dissoziation der Persönlichkeit"
+    ]
+   },
+   {
+    "term": "Dissociation-and-complex-trauma-1",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dissociation-trauma",
+    "lang": "en",
+    "counterparts": [
+     "Dissoziationstrauma"
+    ]
+   },
+   {
+    "term": "Dissociative Disorders Interview Schedule",
+    "lang": "en",
+    "counterparts": [
+     "Interview zur Diagnose dissoziativer Störungen"
+    ]
+   },
+   {
+    "term": "Dissociative Experiences Scale",
+    "lang": "en",
+    "counterparts": [
+     "Dissoziationserfahrungsskala"
+    ]
+   },
+   {
+    "term": "Dissociative Experiences Scale27",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dissociative Identity Disorder",
+    "lang": "en",
+    "counterparts": [
+     "Dissoziative Identitätsstörung"
+    ]
+   },
+   {
+    "term": "Dissociative_identity_disorder",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dissonance",
+    "lang": "en",
+    "counterparts": [
+     "Dissonanz"
+    ]
+   },
+   {
+    "term": "Dissonanz-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "Dissonance reaction"
+    ]
+   },
+   {
+    "term": "Dissoziation",
+    "lang": "de",
+    "counterparts": [
+     "Dissociation"
+    ]
+   },
+   {
+    "term": "Dissoziation der Persönlichkeit",
+    "lang": "de",
+    "counterparts": [
+     "Dissociation of the personality"
+    ]
+   }
+  ]
+ }
+}
