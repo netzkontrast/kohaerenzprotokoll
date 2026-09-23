@@ -276,6 +276,11 @@ fragments were passed, and was never passed any. Two live runs scored 0.987 and
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
 conflict.
 
+**`python3 scripts/selftests.py` runs every self-test in the repository** — the
+three above and each tool's own — and prints one line per suite: `held`,
+`FAILED`, or `not run` when the suite's interpreter is absent. A suite that did
+not run has not passed, and the exit status says so.
+
 ### The wiki links, and a link is not a mention
 
 Two marks, two meanings: `` `Nexus` `` names the term, `[[nexus]]` points at the
@@ -311,6 +316,46 @@ and the only kind worth having.
 The 73 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
 occurrence sits inside a quotation, a citation line or a heading. Those are
 places the pass may not touch, so that number is a measurement and not a backlog.
+
+### The knowledge graph, and retrieval over it
+
+The wiki is also a typed knowledge graph, derived and never stored:
+`scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
+citations and builds **71 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **438 <!--state:graph.edges--> edges** (`links`,
+`reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
+carries the file line that states it**, and none is inferred — the same rule as
+the links, for the same reason.
+
+Its evidence is every quotation on a term page: 378 <!--state:graph.evidence-->
+of them, **308 <!--state:graph.evidence_verified--> verified** against their
+line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
+`quotes.verdict` became the one implementation both use. Building the graph
+first with a pairing of its own found 14 unresolved where the checker found 4;
+two encodings of one rule disagreed on the first run.
+
+`scripts/graphrag.py` is the retrieval half of `ask`: seed by folded surfaces,
+spread by personalized PageRank over the typed edges, select verified quotations
+by MMR with a relevance floor. **It returns quotations, the conflicts and open
+questions touching them, and the documents the rank reached — never prose.**
+`--answer` lets a model choose evidence *numbers*; code prints the quotations.
+
+```bash
+python3 scripts/graph.py                       # counts and the check against the files
+python3 scripts/graph.py --around nexus --hops 2 --mermaid
+python3 scripts/graph.py --graphml > kg.graphml   # or --json, --triples
+python3 scripts/graphrag.py ask "Wie hängen die Guardians mit AEGIS zusammen?"
+python3 scripts/graphrag.py bench              # recall against the wiki's own labels
+```
+
+`bench` scores retrieval on the 9 <!--state:graphrag.cases--> cases the wiki
+already labels (each question's `raised_by`, each conflict's `pages`), with the
+case's own node removed first. Recall@8 is
+**40 <!--state:graphrag.recall_seeds-->% from the seeds alone and
+58 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+step, on nine cases whose labels were written by the same hand as the pages.
+`bench --record` appends both to `Plan/runs/baselines.jsonl`.
+`Plan/concept/graphrag_2026-09-23.md` has the design and what it cannot do.
 
 ### A mechanised rule stays checkable
 
@@ -465,9 +510,15 @@ container**; each is rebuilt by the commands below when a step needs it:
 | venv | python | why |
 |---|---|---|
 | `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
-| `.venv-dspy` | 3.11 | DSPy 3.3.1, for when there is something to train |
+| `.venv-dspy` | 3.11 | DSPy 3.3.1 with numpy — every `scripts/` step that calls a model or its fixture |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — only `scripts/jev_entities.py`, a test |
+
+```bash
+uv venv --python 3.11 .venv-dspy
+uv pip install --python .venv-dspy/bin/python 'dspy[numpy]==3.3.1'   # SIMBA raises without numpy
+.venv-dspy/bin/python scripts/check_dspy_surface.py                   # the surface this repo calls
+```
 
 ```bash
 uv venv --python 3.12 .venv-dspytools
@@ -544,6 +595,31 @@ uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://git
 reachable, and measured against this repository —
 `Plan/concept/continuous-improvement_2026-09-17.md` has what each is for and in
 what order.
+
+## Calling a model — the DSPy toolchain
+
+Built 2026-09-23 from nine DSPy repositories read against this one
+(`Plan/concept/dspy-toolchain_2026-09-23.md`; the readers' reports are in
+`Plan/concept/dspy-repos_2026-09-23/`). No package was installed from them;
+every piece is a pattern of tens of lines, ported with its source named.
+
+| script | what it guarantees |
+|---|---|
+| `lmrun.py` | the only way a model is called: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision |
+| `lm_fixture.py` | an offline `dspy.BaseLM`; `offline()` hides every `*_API_KEY` and replaces `litellm.completion` with a refusal, because a scanned repository's unmocked test made a live call from this container |
+| `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor**, not only one that fell since the last row, and a `vetoed` row fails whatever its score |
+| `pairs.py` | one-term-or-two: `fold()` first, a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
+| `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
+| `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
+
+**36 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+21 <!--state:pairs.fold_correct--> of them.** Every optimizer on the ladder —
+`labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
+`--dry-run`. **None has run against a real model**: that sends corpus words to
+a third party, and the author has not said yes to it. `scripts/rlm_ingest.py`
+now requires `--approval` for the same reason, turns its cache off, sets a call
+budget, hands the model `find_line` and `count` as tools, and measures how far
+into the document its verified citations reach.
 
 ## Changing your mind
 

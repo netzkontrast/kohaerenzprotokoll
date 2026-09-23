@@ -30,6 +30,34 @@
       "value": 337,
       "how": "entity rows whose cited file line contains the entity"
     },
+    "graph.edges": {
+      "value": 438,
+      "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
+    },
+    "graph.evidence": {
+      "value": 378,
+      "how": "quotations on term pages, the unit scripts/graphrag.py serves"
+    },
+    "graph.evidence_verified": {
+      "value": 308,
+      "how": "of those, verified against their line by quotes.verdict"
+    },
+    "graph.nodes": {
+      "value": 71,
+      "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
+    },
+    "graphrag.cases": {
+      "value": 9,
+      "how": "retrieval cases the wiki labels itself: questions and conflicts"
+    },
+    "graphrag.recall_ppr": {
+      "value": 58,
+      "how": "graphrag bench mean recall@8 in whole percent, personalized PageRank"
+    },
+    "graphrag.recall_seeds": {
+      "value": 40,
+      "how": "graphrag bench mean recall@8 in whole percent, seeds alone \u2014 the floor"
+    },
     "judgements.disagree": {
       "value": 0,
       "how": "judgements where code now contradicts the record"
@@ -45,6 +73,14 @@
     "order.holds": {
       "value": true,
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
+    },
+    "pairs.fold_correct": {
+      "value": 21,
+      "how": "of those, decided correctly by fold() \u2014 the floor"
+    },
+    "pairs.labelled": {
+      "value": 36,
+      "how": "labelled one-term-or-two pairs derived from the judgement ledger"
     },
     "quotes.checked": {
       "value": 572,

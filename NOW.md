@@ -77,14 +77,55 @@ inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
 nothing else. **The next improvement is a rule, not a model**, and writing it is
 a decision about how much morphology a safe deterministic rule may claim.
 
-**Whether to build the DSPy toolchain, and how far.** Nine DSPy repositories
-were read against this one (`Plan/concept/dspy-toolchain_2026-09-23.md`, the
-reports in `Plan/concept/dspy-repos_2026-09-23/`). The design's first three
-steps need no model and send nothing out — surface and skill checks, an offline
-LM fixture, a run record with the cache off, and the morphology rule scored
-against `fold()`. They wait on a yes, and the third on how much morphology the
-rule may claim (above). The scan also found that `scripts/rlm_ingest.py`
-leaves `dspy.LM`'s cache on, which P18 forbids.
+**Which model runs are allowed — the toolchain is built and has called no
+model.** On 2026-09-23 the author asked for the wiki to become a knowledge base
+and a knowledge graph for GraphRAG, and for everything usable from the nine DSPy
+repositories to be ported. It is (`CLAUDE.md`, *The knowledge graph* and
+*Calling a model*). Three runs are now one command each, and each sends corpus
+words to OpenRouter, so each waits on its own yes — `--approval` is required
+and refused when empty:
+
+- `pairs.py run --optimizer labeled` — the cheapest rung, on the residual
+  `fold()` leaves. Cost: the surface pairs and their rules, a few thousand tokens.
+- `graphrag.py ask "…" --answer` — a model picks evidence numbers. Cost: the
+  question and eight quotations per call.
+- `rlm_ingest.py <slug>` — a whole document. Needs Deno as well.
+
+**How far `ask` may go.** `graphrag.py` returns verified quotations and never
+prose, because prose over two sources is a merge (P13). Whether an answer should
+ever be more than chosen quotations — a framing sentence, a summary marked as
+the model's — is the author's to decide, and nothing builds it until then.
+
+## Handover — the next session starts here
+
+Run `python3 scripts/selftests.py` first; it builds nothing and says in one line
+per suite what holds. In a fresh container the DSPy suites report `not run`
+with the command that creates `.venv-dspy`.
+
+In order, and none of it needs a model:
+
+1. **More retrieval cases.** `graphrag.py bench` has
+   9 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   pages. The `## Open` sections (`relations.py --open`) are a second source;
+   write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
+   has why and the next four steps after it.
+2. **The morphology rule** — once its reach is decided (above), it is one entry
+   in `pairs.py`'s `RULES` and `pairs.py score --rule <name> --record` puts it on
+   the ledger against `fold()`'s floor.
+3. **qmd as a second seed source for `graphrag.py`**, measured on the bench
+   against folded seeding — the floor row is already in `Plan/runs/baselines.jsonl`.
+4. **Record routing failures** — each time an agent loaded the wrong skill or
+   none. Five to twenty of them are job 4's dataset; there are none, so it has
+   not started.
+
+Two things the build found, fixed in place:
+
+- `Plan/trainsets/surface-pairs.jsonl` had gone stale — 17 rows against a
+  ledger that had grown. Re-exported; `pairs.py` reads the ledger live.
+- `graph.py`'s first pairing of quotations to citations disagreed with
+  `quotes.py` (14 unresolved against 4). The pairing moved into
+  `quotes.pairs` / `quotes.verdict` and both use it; `quotes.py`'s own numbers
+  did not change.
 
 ## Half-done — the entity lists
 

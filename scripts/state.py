@@ -192,6 +192,68 @@ def _wiki_open() -> int:
     return len(open_questions())
 
 
+# ---------------------------------------------------------------- graph and retrieval
+
+@measure("graph.nodes", "nodes in scripts/graph.py's typed graph — terms, documents, conflicts, questions")
+def _graph_nodes() -> int:
+    from graph import build
+    return len(build()["nodes"])
+
+
+@measure("graph.edges", "typed edges in scripts/graph.py, each carrying the file line that states it")
+def _graph_edges() -> int:
+    from graph import build
+    return len(build()["edges"])
+
+
+@measure("graph.evidence", "quotations on term pages, the unit scripts/graphrag.py serves")
+def _graph_evidence() -> int:
+    from graph import build
+    return sum(len(v) for v in build()["evidence"].values())
+
+
+@measure("graph.evidence_verified", "of those, verified against their line by quotes.verdict")
+def _graph_evidence_verified() -> int:
+    from graph import build
+    return sum(1 for v in build()["evidence"].values() for e in v if e["status"] == "verified")
+
+
+def _bench() -> dict:
+    from graphrag import bench
+    out = {}
+    for method, rows in bench().items():
+        scored = [r["recall"] for r in rows if r["recall"] is not None]
+        out[method] = (round(sum(scored) / len(scored), 3) if scored else None, len(rows))
+    return out
+
+
+@measure("graphrag.cases", "retrieval cases the wiki labels itself: questions and conflicts")
+def _graphrag_cases() -> int:
+    return _bench()["ppr"][1]
+
+
+@measure("graphrag.recall_seeds", "graphrag bench mean recall@8 in whole percent, seeds alone — the floor")
+def _graphrag_recall_seeds() -> int:
+    return round(100 * _bench()["seeds"][0])
+
+
+@measure("graphrag.recall_ppr", "graphrag bench mean recall@8 in whole percent, personalized PageRank")
+def _graphrag_recall_ppr() -> int:
+    return round(100 * _bench()["ppr"][0])
+
+
+@measure("pairs.labelled", "labelled one-term-or-two pairs derived from the judgement ledger")
+def _pairs_labelled() -> int:
+    from trainset import surface_pairs
+    return len(surface_pairs())
+
+
+@measure("pairs.fold_correct", "of those, decided correctly by fold() — the floor")
+def _pairs_fold_correct() -> int:
+    from trainset import fold_baseline, surface_pairs
+    return fold_baseline(surface_pairs())["correct"]
+
+
 # ---------------------------------------------------------------- checks
 
 def _verdicts() -> list[str]:

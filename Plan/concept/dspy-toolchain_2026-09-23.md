@@ -1,8 +1,34 @@
 # A DSPy toolchain for this repository — designed from nine repositories read against it
 
-*2026-09-23. A design, not a build. Nothing below exists yet unless it names a
-file that does. Every item says what it reads, what it may not do, and what has
-to be true before it is built — because P3 and P4 outrank this document.*
+*2026-09-23. Written as a design; **built the same day**, on the author's
+direction to port what the knowledge base and GraphRAG could use. The status
+table says what exists; the sections below are the design as written, with
+corrections left beside what the build proved wrong.*
+
+## Status — what was built
+
+| item | file | state |
+|---|---|---|
+| 0.1 surface check | `scripts/check_dspy_surface.py` | built — 17 checks, incl. numpy (SIMBA raises without it) |
+| 0.2 skill check | `scripts/check_skills.py` | built — 4 project + 11 vendored skills clean; `--selftest` 6 cases |
+| 0.3 offline LM | `scripts/lm_fixture.py` | built — `FixtureLM`, `fill()` answers any optimizer's own fields, `offline()` refuses the network |
+| 0.4 a failing case per metric | each script's `selftest`; `scripts/selftests.py` runs all 14 suites | built |
+| 1.1 run record | `scripts/lmrun.py` | built — 9 offline cases |
+| 1.2 baseline ledger | `scripts/baseline.py`, `Plan/runs/baselines.jsonl` | built — floor rows recorded for both tasks |
+| job 1 harness | `scripts/pairs.py` | built — all five optimizers dry-run; **no real-model run** |
+| job 3 changes | `scripts/rlm_ingest.py` | built — cache off, budget, tools, reach, `--approval`; **not run live** (needs Deno and a yes) |
+| job 2 structural fix | — | not built: revision 3 of the entity workflow waits on the author's definition of an entity |
+| job 4 skill descriptions | `example_param_ok()` in the surface check | guard only — no routing failures recorded, so no dataset (P4) |
+| Layer 3: `ask`, MMR floor | `scripts/graph.py`, `scripts/graphrag.py` | built — see `graphrag_2026-09-23.md` |
+
+**Corrections the build made to this design.** The design says job 1 has
+„n = 26" and `fold()` scores „65%". Both were true of
+`Plan/trainsets/surface-pairs.jsonl` as last exported, which held 17 rows; the
+judgement ledger itself had grown. Re-exported, it holds
+36 <!--state:pairs.labelled--> pairs and `fold()` decides
+21 <!--state:pairs.fold_correct--> — 58%, which `NOW.md` had already measured.
+The exported file had gone stale because nothing compared it to the ledger;
+`pairs.py` now reads the ledger live and never the export.
 
 ## How this was made
 

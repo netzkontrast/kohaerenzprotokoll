@@ -101,6 +101,69 @@ python3 scripts/trainset.py
 - `trainset.py` turns the ledger into examples and prints the `fold()` baseline
   live — never hardcoded, because it moves when the ledger grows.
 
+### Every self-test at once
+
+```bash
+python3 scripts/selftests.py        # 14 suites, one line each: held / FAILED / not run
+```
+
+It runs each suite under its own interpreter and reports a DSPy suite whose
+`.venv-dspy` is absent as **not run**, with the command that creates it — never
+as passed (P11, P15).
+
+## The knowledge graph and GraphRAG
+
+```bash
+python3 scripts/graph.py                          # node/edge/evidence counts, then the check
+python3 scripts/graph.py --around nexus --hops 2 [--mermaid]
+python3 scripts/graph.py --json | --graphml | --triples
+python3 scripts/graphrag.py ask "<a German or English question>" [--json] [--budget 8]
+python3 scripts/graphrag.py bench [--k 8] [--record]
+.venv-dspy/bin/python scripts/graphrag.py ask "…" --answer --dry-run
+```
+
+- `graph.py` derives a typed graph — `term`, `doc`, `conflict`, `question`
+  nodes; `links`, `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`
+  edges — from frontmatter, `[[links]]` and `^[slug.md:Lnn]` citations. Every
+  edge carries `via: file:line`. Nothing is inferred. Its evidence is every
+  quotation on a page, paired and judged by `quotes.pairs` / `quotes.verdict` —
+  the checker's own code, so the two cannot disagree. Exit 1 when an edge points
+  at a missing page or a document no manifest row lands.
+- `graphrag.py ask` seeds by folded surfaces, spreads by personalized PageRank,
+  and selects **verified** quotations by MMR with a relevance floor. It prints
+  quotations, the conflicts and open questions touching the ranked pages, and the
+  documents the rank reached. **It never writes an answer.** `--answer` lets a
+  model choose evidence *numbers* and name gaps; code prints the quotations.
+- `graphrag.py bench` scores retrieval against the wiki's own labels — each
+  question's `raised_by`, each conflict's `pages` — with the case's own node
+  removed first. `--record` appends both methods to `Plan/runs/baselines.jsonl`.
+
+## Models — DSPy, offline first
+
+Every command below except `score` needs `.venv-dspy` (DSPy 3.3.1 with numpy).
+
+```bash
+.venv-dspy/bin/python scripts/check_dspy_surface.py     # the DSPy surface this repo calls
+.venv-dspy/bin/python scripts/lm_fixture.py             # the offline LM refuses the network
+.venv-dspy/bin/python scripts/lmrun.py                  # the call record's four statuses
+python3 scripts/pairs.py score [--rule fold] [--record]  # a rule on one-term-or-two, stdlib
+.venv-dspy/bin/python scripts/pairs.py run --optimizer labeled|bootstrap|inferrules|simba|gepa --dry-run
+.venv-dspy/bin/python scripts/pairs.py run --optimizer … --model M --approval "…" [--folds 5] [--repeats 3] [--record]
+python3 scripts/baseline.py show | compare <task> [--floor NAME] | selftest
+python3 scripts/check_skills.py [--selftest]
+```
+
+- `lmrun.call` is the only way a model is called here: cache off, a record per
+  call in `Plan/runs/<subject>/lm/<step>.jsonl`, status `answered` / `refused`
+  / `unparsed` / `unreachable`, and a real model refused without `approval=`.
+- `pairs.py` scores a rule, or a compiled program **on the residual the rule
+  leaves**, by stratified folds, and asks every candidate the never-merge
+  canaries. A merged canary marks the ledger row `vetoed`.
+- `baseline.py compare` fails a candidate that does not beat the floor, not only
+  one that fell since the last row.
+- `--dry-run` everywhere uses `lm_fixture.offline()`: API keys hidden,
+  `litellm.completion` replaced by a refusal.
+
 ## Fetching
 
 ```bash
@@ -126,6 +189,10 @@ shrinking corpus makes every count quietly wrong.
 
 `wiki_index.py` derives `Wiki/index.json` from page frontmatter. `reconcile.py`
 answers by lookup against it and never scans the wiki.
+
+`quotes.pairs(text)` and `quotes.verdict(refs, slug, quote)` are the one
+implementation of *which reference belongs to which quotation* and *does it
+resolve*. `quotes.py` checks with them and `graph.py` serves evidence from them.
 
 `qmd.py` is the Python handoff to search: `search()`, `vsearch()`, `get()`,
 `update()`, `collections()`, and `Hit.document()` back to `subject.Document`.
