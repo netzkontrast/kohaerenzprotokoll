@@ -1,0 +1,489 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Blindsight",
+    "lang": "en",
+    "counterparts": [
+     "Blindsicht"
+    ]
+   },
+   {
+    "term": "Block-Architektur",
+    "lang": "de",
+    "counterparts": [
+     "Block Architecture",
+     "block architecture",
+     "Block-architecture"
+    ]
+   },
+   {
+    "term": "Blockchain",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Blockuniversum",
+    "lang": "de",
+    "counterparts": [
+     "Block Universe",
+     "block-universe",
+     "Block universe"
+    ]
+   },
+   {
+    "term": "Blueprint",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Blueprint V5",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Blueshift",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Blume des Lebens",
+    "lang": "de",
+    "counterparts": [
+     "Flower of Life"
+    ]
+   },
+   {
+    "term": "Blutungs-Faden",
+    "lang": "de",
+    "counterparts": [
+     "Bleeding Thread"
+    ]
+   },
+   {
+    "term": "Boden des Mnemosyne-Archivs",
+    "lang": "de",
+    "counterparts": [
+     "Floor of the Mnemosyne Archive",
+     "Ground of the Mnemosyne Archive"
+    ]
+   },
+   {
+    "term": "Bodenschicht",
+    "lang": "de",
+    "counterparts": [
+     "soil layer",
+     "ground layer"
+    ]
+   },
+   {
+    "term": "Boderline-Kaldinski",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bodhicitta",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Bohr",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bohrs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Boltzmann-Konstante",
+    "lang": "de",
+    "counterparts": [
+     "Boltzmann constant"
+    ]
+   },
+   {
+    "term": "Bonds",
+    "lang": "en",
+    "counterparts": [
+     "Anleihen",
+     "Obligationen"
+    ]
+   },
+   {
+    "term": "Boolesche",
+    "lang": "de",
+    "counterparts": [
+     "Boolean"
+    ]
+   },
+   {
+    "term": "Boolesche Erfüllbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "Boolean satisfiability"
+    ]
+   },
+   {
+    "term": "Bootstrap",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bootstrapping",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bootstrapping Directive",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bootstrapping-Problem",
+    "lang": "de",
+    "counterparts": [
+     "bootstrapping problem"
+    ]
+   },
+   {
+    "term": "Borcherds",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Border Fortress",
+    "lang": "en",
+    "counterparts": [
+     "Grenzfestung",
+     "Border-Festung"
+    ]
+   },
+   {
+    "term": "Borderline",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Borderline-Persönlichkeitsstörung",
+    "lang": "de",
+    "counterparts": [
+     "borderline personality disorder"
+    ]
+   },
+   {
+    "term": "Borges",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Boris",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Born",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Boston",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bostrom",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bostroms",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bostroms Hypothese",
+    "lang": "de",
+    "counterparts": [
+     "Bostrom's hypothesis"
+    ]
+   },
+   {
+    "term": "Bottom-up",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Boundary",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Boundary Event",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Boundary Fortress",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Boundary Protocol of Failure",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Boundary Protocols",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Boundary-Korrelationen",
+    "lang": "de",
+    "counterparts": [
+     "boundary correlations"
+    ]
+   },
+   {
+    "term": "Boundary-Leser",
+    "lang": "de",
+    "counterparts": [
+     "boundary reader"
+    ]
+   },
+   {
+    "term": "Boundary-Region",
+    "lang": "de",
+    "counterparts": [
+     "boundary region"
+    ]
+   },
+   {
+    "term": "Boundary-Zustände",
+    "lang": "de",
+    "counterparts": [
+     "boundary states"
+    ]
+   },
+   {
+    "term": "Bowlby",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Box",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bradley",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Brahman",
+    "lang": "other",
+    "counterparts": []
+   },
+   {
+    "term": "Brain-Computer Interfaces",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Brain-Derived Neurotrophic Factor",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bran",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bran-Kollisionen",
+    "lang": "de",
+    "counterparts": [
+     "bran collisions"
+    ]
+   },
+   {
+    "term": "Branching Narratives",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Branching Rule",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Brandenburg",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Brane",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Branen",
+    "lang": "de",
+    "counterparts": [
+     "Branes"
+    ]
+   },
+   {
+    "term": "Branen-Interaktion",
+    "lang": "de",
+    "counterparts": [
+     "brane interaction"
+    ]
+   },
+   {
+    "term": "Breach",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bremser",
+    "lang": "de",
+    "counterparts": [
+     "braker"
+    ]
+   },
+   {
+    "term": "Bridge",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bridge-Frequenz",
+    "lang": "de",
+    "counterparts": [
+     "bridge frequency"
+    ]
+   },
+   {
+    "term": "Bridge-Szenen",
+    "lang": "de",
+    "counterparts": [
+     "bridge scenes"
+    ]
+   },
+   {
+    "term": "Britannica",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "British",
+    "lang": "en",
+    "counterparts": [
+     "britisch"
+    ]
+   },
+   {
+    "term": "Brittle",
+    "lang": "en",
+    "counterparts": [
+     "spröde",
+     "brüchig"
+    ]
+   },
+   {
+    "term": "Broadbent",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Brouwer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bruce",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bruch der Immersion",
+    "lang": "de",
+    "counterparts": [
+     "break of immersion"
+    ]
+   },
+   {
+    "term": "Bruchpunkt",
+    "lang": "de",
+    "counterparts": [
+     "breaking point"
+    ]
+   },
+   {
+    "term": "Brunnen",
+    "lang": "de",
+    "counterparts": [
+     "well",
+     "fountain"
+    ]
+   },
+   {
+    "term": "Brutalismus",
+    "lang": "de",
+    "counterparts": [
+     "Brutalism"
+    ]
+   },
+   {
+    "term": "Brutalist",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bruxism",
+    "lang": "en",
+    "counterparts": [
+     "Bruxismus"
+    ]
+   },
+   {
+    "term": "Bruxismus",
+    "lang": "de",
+    "counterparts": [
+     "Bruxism"
+    ]
+   },
+   {
+    "term": "Brücke zur Integration",
+    "lang": "de",
+    "counterparts": [
+     "bridge to integration"
+    ]
+   },
+   {
+    "term": "Buber",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Buddhism",
+    "lang": "en",
+    "counterparts": [
+     "Buddhismus"
+    ]
+   },
+   {
+    "term": "Buddhismus",
+    "lang": "de",
+    "counterparts": [
+     "Buddhism"
+    ]
+   }
+  ]
+ }
+}

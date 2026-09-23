@@ -1,0 +1,619 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Attachment Injury Resolution Model",
+    "lang": "en",
+    "counterparts": [
+     "Bindungsverletzungsauflösungsmodell",
+     "Modell zur Auflösung von Bindungsverletzungen",
+     "Bindungsverletzungs-Lösungsmodell"
+    ]
+   },
+   {
+    "term": "Attachment-Cry",
+    "lang": "en",
+    "counterparts": [
+     "Bindungsweinen",
+     "Bindungsschrei",
+     "Anbindungsweinen"
+    ]
+   },
+   {
+    "term": "Attempto Controlled English",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Attention Mechanism",
+    "lang": "en",
+    "counterparts": [
+     "Aufmerksamkeitsmechanismus",
+     "Aufmerksamkeits-Mechanismus",
+     "Mechanismus der Aufmerksamkeit"
+    ]
+   },
+   {
+    "term": "Attention-Deficit",
+    "lang": "en",
+    "counterparts": [
+     "Aufmerksamkeitsdefizit",
+     "Aufmerksamkeits-Defizit",
+     "Defizit der Aufmerksamkeit"
+    ]
+   },
+   {
+    "term": "Attitude",
+    "lang": "en",
+    "counterparts": [
+     "Einstellung",
+     "Attitüde",
+     "Haltung"
+    ]
+   },
+   {
+    "term": "Attractor",
+    "lang": "en",
+    "counterparts": [
+     "Attraktor",
+     "Anziehungspunkt",
+     "Ziehpunkt"
+    ]
+   },
+   {
+    "term": "Attractors",
+    "lang": "en",
+    "counterparts": [
+     "Attraktoren",
+     "Anziehungspunkte"
+    ]
+   },
+   {
+    "term": "Attraktor",
+    "lang": "de",
+    "counterparts": [
+     "Attractor"
+    ]
+   },
+   {
+    "term": "Attraktoren",
+    "lang": "de",
+    "counterparts": [
+     "Attractors"
+    ]
+   },
+   {
+    "term": "Attraktors",
+    "lang": "de",
+    "counterparts": [
+     "Attractors"
+    ]
+   },
+   {
+    "term": "Aufhebung",
+    "lang": "de",
+    "counterparts": [
+     "sublation",
+     "abolition",
+     "aufhebung"
+    ]
+   },
+   {
+    "term": "Auge des Sturms",
+    "lang": "de",
+    "counterparts": [
+     "Eye of the Storm"
+    ]
+   },
+   {
+    "term": "Augmented",
+    "lang": "en",
+    "counterparts": [
+     "erweitert",
+     "verstärkt",
+     "augmented"
+    ]
+   },
+   {
+    "term": "Ausbruch",
+    "lang": "de",
+    "counterparts": [
+     "outbreak",
+     "eruption",
+     "burst"
+    ]
+   },
+   {
+    "term": "Ausfallmodus",
+    "lang": "de",
+    "counterparts": [
+     "failure mode"
+    ]
+   },
+   {
+    "term": "Aussagenlogik",
+    "lang": "de",
+    "counterparts": [
+     "propositional logic",
+     "sentential logic",
+     "propositional calculus"
+    ]
+   },
+   {
+    "term": "Aussicht",
+    "lang": "de",
+    "counterparts": [
+     "prospect",
+     "outlook",
+     "view"
+    ]
+   },
+   {
+    "term": "Aut",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Autarkie",
+    "lang": "de",
+    "counterparts": [
+     "autarky",
+     "self-sufficiency",
+     "autarkic"
+    ]
+   },
+   {
+    "term": "Authentische Heilung",
+    "lang": "de",
+    "counterparts": [
+     "authentic healing",
+     "genuine healing",
+     "true healing"
+    ]
+   },
+   {
+    "term": "Authentizitätskampf",
+    "lang": "de",
+    "counterparts": [
+     "authenticity struggle",
+     "fight for authenticity",
+     "authenticity battle"
+    ]
+   },
+   {
+    "term": "Autobiographical Anchor",
+    "lang": "en",
+    "counterparts": [
+     "autobiografischer Anker",
+     "biografischer Anker",
+     "autobiographischer Halt"
+    ]
+   },
+   {
+    "term": "Autogenese",
+    "lang": "de",
+    "counterparts": [
+     "autogenesis",
+     "self-generation",
+     "spontaneous generation"
+    ]
+   },
+   {
+    "term": "Autokatalyse",
+    "lang": "de",
+    "counterparts": [
+     "autocatalysis",
+     "self-catalysis",
+     "autocatalytic"
+    ]
+   },
+   {
+    "term": "Autologisch",
+    "lang": "de",
+    "counterparts": [
+     "autologous",
+     "self-derived",
+     "own"
+    ]
+   },
+   {
+    "term": "Automaticity",
+    "lang": "en",
+    "counterparts": [
+     "Automatismus",
+     "Automatisierung",
+     "automatisches Verhalten"
+    ]
+   },
+   {
+    "term": "Automaton",
+    "lang": "en",
+    "counterparts": [
+     "Automat",
+     "Automaton (loan)",
+     "selbstlaufende Maschine"
+    ]
+   },
+   {
+    "term": "Automorphismen",
+    "lang": "de",
+    "counterparts": [
+     "automorphisms"
+    ]
+   },
+   {
+    "term": "Automorphismengruppe",
+    "lang": "de",
+    "counterparts": [
+     "automorphism group",
+     "group of automorphisms"
+    ]
+   },
+   {
+    "term": "Automorphismengruppe des Moonshine-Moduls",
+    "lang": "de",
+    "counterparts": [
+     "automorphism group of the Moonshine module"
+    ]
+   },
+   {
+    "term": "Autonomie",
+    "lang": "de",
+    "counterparts": [
+     "autonomy",
+     "self-governance",
+     "independence"
+    ]
+   },
+   {
+    "term": "Autonomous",
+    "lang": "en",
+    "counterparts": [
+     "autonom",
+     "selbstständig",
+     "unabhängig"
+    ]
+   },
+   {
+    "term": "Autonomous Subsystems",
+    "lang": "en",
+    "counterparts": [
+     "autonome Subsysteme",
+     "selbstständige Subsysteme",
+     "unabhängige Subsysteme"
+    ]
+   },
+   {
+    "term": "Autonomy",
+    "lang": "en",
+    "counterparts": [
+     "Autonomie",
+     "Selbstständigkeit",
+     "Unabhängigkeit"
+    ]
+   },
+   {
+    "term": "Autopoiese",
+    "lang": "de",
+    "counterparts": [
+     "autopoiesis",
+     "self-making",
+     "self-production"
+    ]
+   },
+   {
+    "term": "Autopoiesis",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Autopoiesis-Grenzen",
+    "lang": "de",
+    "counterparts": [
+     "autopoiesis limits",
+     "limits of autopoiesis",
+     "autopoiesis boundaries"
+    ]
+   },
+   {
+    "term": "Autopoiesis-Stress",
+    "lang": "de",
+    "counterparts": [
+     "autopoiesis stress",
+     "stress on autopoiesis",
+     "autopoietic stress"
+    ]
+   },
+   {
+    "term": "Autopoiesis-Theorie",
+    "lang": "de",
+    "counterparts": [
+     "autopoiesis theory",
+     "theory of autopoiesis",
+     "autopoiesis theory"
+    ]
+   },
+   {
+    "term": "Autopoietic",
+    "lang": "en",
+    "counterparts": [
+     "autopoietisch",
+     "selbst erzeugend"
+    ]
+   },
+   {
+    "term": "Autopoietische",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic",
+     "self-producing"
+    ]
+   },
+   {
+    "term": "Autopoietische Existenz",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic existence",
+     "self-producing existence"
+    ]
+   },
+   {
+    "term": "Autopoietische Isolation",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic isolation",
+     "self-producing isolation"
+    ]
+   },
+   {
+    "term": "Autopoietische Netzwerk",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic network",
+     "self-producing network"
+    ]
+   },
+   {
+    "term": "Autopoietische Orbit",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic orbit",
+     "self-producing orbit"
+    ]
+   },
+   {
+    "term": "Autopoietische Reentry-Segmentierung",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic re-entry segmentation",
+     "self-producing re-entry segmentation"
+    ]
+   },
+   {
+    "term": "Autopoietische Schließung",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic closure",
+     "self-producing closure"
+    ]
+   },
+   {
+    "term": "Autopoietisches Netzwerk",
+    "lang": "de",
+    "counterparts": [
+     "autopoietic network",
+     "self-producing network"
+    ]
+   },
+   {
+    "term": "Außen",
+    "lang": "de",
+    "counterparts": [
+     "outside",
+     "external",
+     "outward"
+    ]
+   },
+   {
+    "term": "Avatar",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Avatar-Spaltung",
+    "lang": "de",
+    "counterparts": [
+     "avatar splitting",
+     "split avatar",
+     "avatar division"
+    ]
+   },
+   {
+    "term": "Avatare",
+    "lang": "de",
+    "counterparts": [
+     "avatars"
+    ]
+   },
+   {
+    "term": "Avidya",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Avoidance",
+    "lang": "en",
+    "counterparts": [
+     "Vermeidung",
+     "Ausweichung",
+     "Avoidance"
+    ]
+   },
+   {
+    "term": "Awakening",
+    "lang": "en",
+    "counterparts": [
+     "Erwachen"
+    ]
+   },
+   {
+    "term": "Awareness",
+    "lang": "en",
+    "counterparts": [
+     "Bewusstsein",
+     "Achtsamkeit",
+     "Awareness"
+    ]
+   },
+   {
+    "term": "Awe",
+    "lang": "en",
+    "counterparts": [
+     "Ehrfurcht",
+     "Faszination",
+     "Awe"
+    ]
+   },
+   {
+    "term": "Axes",
+    "lang": "en",
+    "counterparts": [
+     "Achsen"
+    ]
+   },
+   {
+    "term": "Axiom",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Axiomatische Restrukturierung",
+    "lang": "de",
+    "counterparts": [
+     "axiomatic restructuring",
+     "restructuring of axioms",
+     "axiomatic restructure"
+    ]
+   },
+   {
+    "term": "Axiomatisierung",
+    "lang": "de",
+    "counterparts": [
+     "axiomatization",
+     "axiomatisation",
+     "axiomatizing"
+    ]
+   },
+   {
+    "term": "Axiome",
+    "lang": "de",
+    "counterparts": [
+     "axioms"
+    ]
+   },
+   {
+    "term": "Axiomensystem",
+    "lang": "de",
+    "counterparts": [
+     "axiom system",
+     "system of axioms"
+    ]
+   },
+   {
+    "term": "Axis",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Axis Mundi",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Aydin",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Azathoth-Analogon",
+    "lang": "en",
+    "counterparts": [
+     "Azathoth-Analogon"
+    ]
+   },
+   {
+    "term": "B-Cache",
+    "lang": "en",
+    "counterparts": [
+     "B-Cache"
+    ]
+   },
+   {
+    "term": "B-Problem",
+    "lang": "en",
+    "counterparts": [
+     "B-Problem"
+    ]
+   },
+   {
+    "term": "B-Welt",
+    "lang": "de",
+    "counterparts": [
+     "B-world"
+    ]
+   },
+   {
+    "term": "B0BKH66RG6",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BAEK",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BAG Selbsthilfe",
+    "lang": "de",
+    "counterparts": [
+     "BAG self-help",
+     "BAG self assistance"
+    ]
+   },
+   {
+    "term": "BBT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BCI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BCI-Analogie",
+    "lang": "de",
+    "counterparts": [
+     "BCI analogy",
+     "analogy of BCI"
+    ]
+   },
+   {
+    "term": "BCIs",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BDI",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "BDNF",
+    "lang": "name",
+    "counterparts": []
+   }
+  ]
+ }
+}

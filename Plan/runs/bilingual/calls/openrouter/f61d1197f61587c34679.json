@@ -1,0 +1,526 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Action-Driver",
+    "lang": "en",
+    "counterparts": [
+     "Aktions-Treiber",
+     "Aktionsdriver"
+    ]
+   },
+   {
+    "term": "Activated EP",
+    "lang": "en",
+    "counterparts": [
+     "aktivierte EP",
+     "aktiviertes EP"
+    ]
+   },
+   {
+    "term": "Active Agency",
+    "lang": "en",
+    "counterparts": [
+     "aktive Agency",
+     "aktive Agentur",
+     "aktive Handlungsfähigkeit"
+    ]
+   },
+   {
+    "term": "Active Inference",
+    "lang": "en",
+    "counterparts": [
+     "aktive Inferenz"
+    ]
+   },
+   {
+    "term": "Active Inference Agent",
+    "lang": "en",
+    "counterparts": [
+     "aktiver Inferenz-Agent",
+     "Agent der aktiven Inferenz"
+    ]
+   },
+   {
+    "term": "AdS",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AdS/CFT-Korrespondenz",
+    "lang": "de",
+    "counterparts": [
+     "AdS/CFT correspondence"
+    ]
+   },
+   {
+    "term": "AdS3",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "AdS₃",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Adaequatio",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Adapter-Module",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Adaptiertes PICO-Modell",
+    "lang": "de",
+    "counterparts": [
+     "adapted PICO model"
+    ]
+   },
+   {
+    "term": "Adaptive Control",
+    "lang": "en",
+    "counterparts": [
+     "adaptive Steuerung",
+     "adaptive Regelung"
+    ]
+   },
+   {
+    "term": "Adaptive Komplexität",
+    "lang": "de",
+    "counterparts": [
+     "adaptive complexity"
+    ]
+   },
+   {
+    "term": "Adaptive Kontrolle",
+    "lang": "de",
+    "counterparts": [
+     "adaptive control"
+    ]
+   },
+   {
+    "term": "Adaptive Layer",
+    "lang": "en",
+    "counterparts": [
+     "adaptive Schicht"
+    ]
+   },
+   {
+    "term": "Adaptive Schicht",
+    "lang": "de",
+    "counterparts": [
+     "adaptive layer"
+    ]
+   },
+   {
+    "term": "Adaptive Strategy Protocol",
+    "lang": "en",
+    "counterparts": [
+     "adaptive Strategie-Protokoll",
+     "adaptive Strategieprotokoll"
+    ]
+   },
+   {
+    "term": "Adaptive Systeme",
+    "lang": "de",
+    "counterparts": [
+     "adaptive systems"
+    ]
+   },
+   {
+    "term": "Administrator",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Adolescent Dissociative Experiences Scale",
+    "lang": "en",
+    "counterparts": [
+     "Skala für dissociative Erfahrungen bei Jugendlichen",
+     "Jugendliche Dissociative-Erfahrungen-Skala",
+     "ADES"
+    ]
+   },
+   {
+    "term": "Adulte ADHS",
+    "lang": "de",
+    "counterparts": [
+     "adult ADHD"
+    ]
+   },
+   {
+    "term": "Advaita",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Advaita Vedanta",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Adversarial",
+    "lang": "en",
+    "counterparts": [
+     "adversarisch"
+    ]
+   },
+   {
+    "term": "Adversarial Query Expansion",
+    "lang": "en",
+    "counterparts": [
+     "adversarische Query-Erweiterung",
+     "adversarische Erweiterung von Anfragen"
+    ]
+   },
+   {
+    "term": "Aegis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Aeon",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Aethelred",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Affektphobie",
+    "lang": "de",
+    "counterparts": [
+     "affect phobia"
+    ]
+   },
+   {
+    "term": "Agency",
+    "lang": "en",
+    "counterparts": [
+     "Agentur",
+     "Handlungsfähigkeit"
+    ]
+   },
+   {
+    "term": "Agency-Protokoll",
+    "lang": "de",
+    "counterparts": [
+     "agency protocol"
+    ]
+   },
+   {
+    "term": "Agency-System",
+    "lang": "de",
+    "counterparts": [
+     "agency system"
+    ]
+   },
+   {
+    "term": "Agent",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Agent-Based",
+    "lang": "en",
+    "counterparts": [
+     "agentenbasiert"
+    ]
+   },
+   {
+    "term": "Agent-on-the-Loop",
+    "lang": "en",
+    "counterparts": [
+     "Agent-in-der-Schleife"
+    ]
+   },
+   {
+    "term": "Agenten",
+    "lang": "de",
+    "counterparts": [
+     "agents"
+    ]
+   },
+   {
+    "term": "Agentenbasierte",
+    "lang": "de",
+    "counterparts": [
+     "agent-based"
+    ]
+   },
+   {
+    "term": "Agentenbasierte Modellierung",
+    "lang": "de",
+    "counterparts": [
+     "agent-based modeling"
+    ]
+   },
+   {
+    "term": "Agentenbasierte Simulation",
+    "lang": "de",
+    "counterparts": [
+     "agent-based simulation"
+    ]
+   },
+   {
+    "term": "Agentic",
+    "lang": "en",
+    "counterparts": [
+     "agentiv"
+    ]
+   },
+   {
+    "term": "Agentic-Pattern-Praxis",
+    "lang": "de",
+    "counterparts": [
+     "agentic pattern practice"
+    ]
+   },
+   {
+    "term": "Agentive",
+    "lang": "en",
+    "counterparts": [
+     "agentiv"
+    ]
+   },
+   {
+    "term": "Agents",
+    "lang": "en",
+    "counterparts": [
+     "Agenten"
+    ]
+   },
+   {
+    "term": "Agentschaft",
+    "lang": "de",
+    "counterparts": [
+     "agency"
+    ]
+   },
+   {
+    "term": "Aggressive Korrespondenz-Wahrheit",
+    "lang": "de",
+    "counterparts": [
+     "aggressive correspondence truth"
+    ]
+   },
+   {
+    "term": "Aggressor",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Agnotologie",
+    "lang": "de",
+    "counterparts": [
+     "agnotology"
+    ]
+   },
+   {
+    "term": "Agnotology",
+    "lang": "en",
+    "counterparts": [
+     "Agnotologie"
+    ]
+   },
+   {
+    "term": "Aharonov-Lebowitz",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Aharonov-Lebowitz-Konstruktion",
+    "lang": "de",
+    "counterparts": [
+     "Aharonov-Lebowitz construction"
+    ]
+   },
+   {
+    "term": "Ainsworth",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Akt I-III",
+    "lang": "de",
+    "counterparts": [
+     "Act I-III"
+    ]
+   },
+   {
+    "term": "Akt IV",
+    "lang": "de",
+    "counterparts": [
+     "Act IV"
+    ]
+   },
+   {
+    "term": "Akt der Beobachtung",
+    "lang": "de",
+    "counterparts": [
+     "act of observation"
+    ]
+   },
+   {
+    "term": "Akt des Lesens",
+    "lang": "de",
+    "counterparts": [
+     "act of reading"
+    ]
+   },
+   {
+    "term": "Aktionssystem",
+    "lang": "de",
+    "counterparts": [
+     "action system"
+    ]
+   },
+   {
+    "term": "Aktionssysteme",
+    "lang": "de",
+    "counterparts": [
+     "action systems"
+    ]
+   },
+   {
+    "term": "Aktive Agentschaft",
+    "lang": "de",
+    "counterparts": [
+     "active agency"
+    ]
+   },
+   {
+    "term": "Aktives Nicht-Wissen",
+    "lang": "de",
+    "counterparts": [
+     "active not-knowing"
+    ]
+   },
+   {
+    "term": "Aktivierung des Kappa-Opioid-Rezeptors",
+    "lang": "de",
+    "counterparts": [
+     "activation of the kappa-opioid receptor"
+    ]
+   },
+   {
+    "term": "Akzeptanz des Mosaik-Herzens",
+    "lang": "de",
+    "counterparts": [
+     "acceptance of the mosaic heart"
+    ]
+   },
+   {
+    "term": "Akzeptanz des Widerspruchs",
+    "lang": "de",
+    "counterparts": [
+     "acceptance of the contradiction"
+    ]
+   },
+   {
+    "term": "Al Agent",
+    "lang": "en",
+    "counterparts": [
+     "Al-Agent"
+    ]
+   },
+   {
+    "term": "Alben",
+    "lang": "de",
+    "counterparts": [
+     "albums"
+    ]
+   },
+   {
+    "term": "Albert",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Albert Camus",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Album",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Albumkontext",
+    "lang": "de",
+    "counterparts": [
+     "album context"
+    ]
+   },
+   {
+    "term": "Alex",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Alexander",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Alexander Walter",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Alfred",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Alfred North Whitehead",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Algebra",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Algebras",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Algorithm",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Algorithmic Melancholy",
+    "lang": "en",
+    "counterparts": [
+     "algorithmische Melancholie"
+    ]
+   },
+   {
+    "term": "Algorithmically Irreducible",
+    "lang": "en",
+    "counterparts": [
+     "algorithmisch irreduzibel"
+    ]
+   },
+   {
+    "term": "Algorithmische Glättung",
+    "lang": "de",
+    "counterparts": [
+     "algorithmic smoothing"
+    ]
+   }
+  ]
+ }
+}

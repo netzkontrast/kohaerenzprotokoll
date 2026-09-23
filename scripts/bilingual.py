@@ -303,8 +303,14 @@ def stage_propose(lines: Lines) -> list[dict]:
         for item in rec["answer"].get("terms", []):
             if isinstance(item, dict) and item.get("term") in batch:
                 by_term[item["term"]] = item
-    wanted = sorted({c.strip() for it in by_term.values() for c in it.get("counterparts") or []
-                     if isinstance(c, str) and c.strip()})
+    def forms(c: str) -> list[str]:
+        """The proposal as written, and capitalised: a model writes English nouns in
+        lower case (`rifts`) and the search is case-sensitive, so `Rifts` would be missed."""
+        c = c.strip().rstrip(".")
+        return list(dict.fromkeys([c, c[:1].upper() + c[1:]])) if c else []
+
+    wanted = sorted({f for it in by_term.values() for c in it.get("counterparts") or []
+                     if isinstance(c, str) for f in forms(c)})
     hits = lines.search(wanted)
     rows = []
     for name in names:
@@ -312,7 +318,8 @@ def stage_propose(lines: Lines) -> list[dict]:
         if not it:
             rows.append({"surface": name, "lang": None, "proposed": [], "present": []})
             continue
-        prop = [c.strip() for c in it.get("counterparts") or [] if isinstance(c, str) and c.strip()]
+        prop = list(dict.fromkeys(f for c in it.get("counterparts") or [] if isinstance(c, str)
+                                  for f in forms(c)))
         present = [{"surface": c, "docs": len(hits[c]), "n": sum(h["n"] for h in hits[c])}
                    for c in prop if hits.get(c) and c != name]
         rows.append({"surface": name, "lang": it.get("lang"), "proposed": prop, "present": present})
