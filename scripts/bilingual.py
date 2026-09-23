@@ -62,8 +62,14 @@ CONTEXT = 220         # characters of a line shown per example
 JEV_BATCH = 40
 JEV_WORKERS = 6       # the public endpoint rate-limits above about eight
 OR_BATCH = 80
+# The cache key names this first list, so answers cached under it stay valid when
+# the rotation below grows: which free model answered is recorded per call.
 OR_MODELS = ["qwen/qwen3.8-27b:free", "nvidia/nemotron-3-super-120b-a12b:free",
              "google/gemma-4-31b-it:free"]
+OR_ROTATION = ["nvidia/nemotron-3-super-120b-a12b:free", "nvidia/nemotron-3-ultra-550b-a55b:free",
+               "dots-studio/dots-3-note-preview:free", "nvidia/nemotron-3.5-lightning:free",
+               "poolside/laguna-s-2.1:free", "qwen/qwen3.8-27b:free"]
+OR_WORKERS = 6
 
 # ── surfaces ──────────────────────────────────────────────────────────────────
 
@@ -203,8 +209,11 @@ def openrouter(prompt: str) -> dict:
         if not key:
             return {"unreached": "OPENROUTER_API_KEY is not set"}
         last = ""
-        for attempt in range(6):
-            model = OR_MODELS[attempt % len(OR_MODELS)]
+        # Start each prompt on a different free model, so parallel workers spread over
+        # the shared upstream pools instead of queueing on one.
+        start = int(hashlib.sha256(prompt.encode()).hexdigest(), 16) % len(OR_ROTATION)
+        for attempt in range(2 * len(OR_ROTATION)):
+            model = OR_ROTATION[(start + attempt) % len(OR_ROTATION)]
             body = json.dumps({"model": model, "temperature": 0, "max_tokens": 12000,
                                "response_format": {"type": "json_object"},
                                "messages": [{"role": "user", "content": prompt}]}).encode()
@@ -219,7 +228,7 @@ def openrouter(prompt: str) -> dict:
                 return {"model": d.get("model", model), "answer": parsed}
             except Exception as e:
                 last = f"{model}: {type(e).__name__}: {e}"[:300]
-                time.sleep(5 * (attempt + 1))
+                time.sleep(3)
         return {"unreached": last}
     return cached("openrouter", {"prompt": prompt, "models": OR_MODELS}, fetch)
 
@@ -292,7 +301,7 @@ def stage_propose(lines: Lines) -> list[dict]:
     names = [r["surface"] for r in ents]
     batches = [names[i:i + OR_BATCH] for i in range(0, len(names), OR_BATCH)]
     t = time.time()
-    with ThreadPoolExecutor(3) as pool:  # free endpoints share an upstream pool
+    with ThreadPoolExecutor(OR_WORKERS) as pool:
         # BILINGUAL_REVERSE=1 walks the batches from the other end, so a second process
         # can share a slow free endpoint's work; the cache makes the overlap free.
         order = batches[::-1] if os.environ.get("BILINGUAL_REVERSE") else batches
