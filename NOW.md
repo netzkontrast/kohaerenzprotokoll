@@ -77,6 +77,15 @@ inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
 nothing else. **The next improvement is a rule, not a model**, and writing it is
 a decision about how much morphology a safe deterministic rule may claim.
 
+**Whether to build the DSPy toolchain, and how far.** Nine DSPy repositories
+were read against this one (`Plan/concept/dspy-toolchain_2026-09-23.md`, the
+reports in `Plan/concept/dspy-repos_2026-09-23/`). The design's first three
+steps need no model and send nothing out — surface and skill checks, an offline
+LM fixture, a run record with the cache off, and the morphology rule scored
+against `fold()`. They wait on a yes, and the third on how much morphology the
+rule may claim (above). The scan also found that `scripts/rlm_ingest.py`
+leaves `dspy.LM`'s cache on, which P18 forbids.
+
 ## Half-done — the entity lists
 
 `scripts/entities.py` works; the lists it searches do not yet exist.
