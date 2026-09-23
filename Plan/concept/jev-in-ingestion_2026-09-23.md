@@ -1,6 +1,7 @@
 # Where Jev could help ingestion, and where it may not
 
-*2026-09-23. Nothing here is built. The SDK is installed in `.venv-typesafe`,
+*2026-09-23. Nothing here is built. How to word and compose the questions is in
+`.agents/skills/jev`, from a full read of TypeSafe's nineteen cookbooks. The SDK is installed in `.venv-typesafe`,
 one call has been made with TypeSafe's own example text, and no project data has
 been sent anywhere. This is the reasoning to check before the first real call.*
 
@@ -51,8 +52,17 @@ has to argue them again.
 
 `Plan/runs/judgements.jsonl` already holds 36 decisions a person made as
 `one-term` or `two-terms`. That is a labelled set that exists before the tool
-does, which no other placement has. One `noul` per pair: *do `a` and `b` name
-the same concept?*
+does, which no other placement has.
+
+**The question shape, corrected by the cookbooks.** This page first proposed one
+`noul` per pair. TypeSafe's entity-alignment recipe is the same problem, and it
+uses a three-level `score` whose middle level is written out: *different /
+related, a person decides / same*. It routes to the nearest level with no fitted
+threshold, and its own finding is that the wording of the middle level is the
+policy. That fits the ledger better, because a person already decides every case
+that no rule settles. Companion `noul`s (*same stem?*, *differs only by
+inflection?*) say which part disagrees. State `{"a": …, "b": …}`, so the question
+is about the pair.
 
 What it would tell us: whether Jev reads German morphology (plurals, inflection,
 compounds, `AEGIS`/`Rest-AEGIS`). `NOW.md` names exactly those as where `fold()`
@@ -88,7 +98,14 @@ That condition is exactly what a `noul` can express:
 
 The shape would be: qmd `search` finds a wide candidate set of passages
 (cheap), Jev reranks them against each open question's own condition, and
-**a person reads the top few and chooses**. What goes into the record is the
+**a person reads the top few and chooses**. Two cookbooks have measured this shape.
+Re-ranking BM25 shortlists took top-10 from 38% to 62% on legal retrieval, with
+a false criterion that names the near miss: *merely on the same topic*. The
+line-search recipe puts `L052| …` ids into the state, which is what `read.py`
+already prints, and pairs a choice over lines with an existence `noul`. The
+choice alone ranked a line at 0.86 for a question the document does not answer,
+and the `noul` said 0.14. For Q1, *this document does not say it* is a result
+worth having. What goes into the record is the
 choice, and the reading that follows it, and nothing Jev returned.
 
 How to measure before trusting it: the six documents already ingested are the

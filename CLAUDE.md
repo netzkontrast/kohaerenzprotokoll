@@ -429,6 +429,8 @@ a file here. **Every call sends text to a third-party API**, so no corpus text
 goes through it until a person has decided it may —
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has where it may help and where it
 may not.
+`.agents/skills/jev` is how to build with it: question wording, composition,
+the limits the TypeSafe cookbooks measured, and the SDK as installed.
 
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only
 from a person, and they do different halves of it:
@@ -444,7 +446,7 @@ uv venv --python 3.12 .venv-dspytools
 uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools
 ```
 
-`dspy_skills.SkillManager([Path(".agents/skills")])` discovers all three skills
+`dspy_skills.SkillManager([Path(".agents/skills")])` discovers every skill
 here, and `generate_skills_prompt_block(manager)` renders the
 `<available_skills>` block a ReAct agent is given. **That block is built from the
 `description` field and nothing else** — which is why the description is the part
