@@ -90,7 +90,10 @@ document onto a page is exactly what the per-document order exists to prevent �
 and reading document 5 showed why: the passage that chose it turned out to be the
 opening of a chapter arguing the opposite of what the snippet suggested.
 
-**This step has no command yet.** See „What is missing".
+**This step has no command yet.** See „What is missing". Once the entity lists
+exist (`NOW.md` says whether they do), `python3 scripts/entities.py doc <slug>`
+profiles a candidate before it is read and `missing` names what the corpus uses
+widely and the wiki lacks — both counts, both candidates, neither a decision.
 
 ---
 

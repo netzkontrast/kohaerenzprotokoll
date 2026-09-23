@@ -11,6 +11,20 @@ python3 scripts/state.py --prose    # fail on any stale number in this file
 
 ## Open decisions — these are judgement, not measurement
 
+**Whether corpus text may be sent to TypeSafe at all.** Jev is installed two
+ways — the SDK in `.venv-typesafe` and the vendored `jev*` skills with their
+`jev-decide` CLI — and nothing calls it. The author chose **route A, real Jev**
+for the vendored skills; that chose a provider, not permission to send the
+novel's research to a third party. Every call waits on that yes, and the first
+real call uses a small synthetic input.
+`Plan/concept/jev-in-ingestion_2026-09-23.md` has the three placements and what
+each would send.
+
+**No Jev key is set.** `OPENROUTER_API_KEY` or `TYPESAFE_API_KEY` goes into the
+environment's settings (cloud environment menu → Edit), and a new session picks
+it up. `jev-decide setup` reports presence only. A key pasted in chat earlier in
+the session that installed this should be treated as spent and rotated.
+
 **A reviewed page has no rule yet.** Nothing has been promoted, so the case has
 never arisen: when a new source contradicts a page a person signed off, neither
 can silently win. `dspy-wiki-compile` answers it — flag, list the conflicts,
@@ -64,6 +78,35 @@ inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
 `AEGIS`/`Rest-AEGIS`. `fold()` strips the German definite article and does
 nothing else. **The next improvement is a rule, not a model**, and writing it is
 a decision about how much morphology a safe deterministic rule may claim.
+
+## Half-done — the entity lists
+
+`scripts/entities.py` works; the lists it searches do not yet exist. The
+four-document pilot of `.claude/workflows/entity-lists.js` wrote
+4 <!--state:entities.lists--> lists and 0 <!--state:entities.readings--> pass
+verification — 280 <!--state:entities.rows_verified--> of
+374 <!--state:entities.rows--> rows cite a line holding the entity. The model
+typed its line numbers (P26), invented forms the document never contains, and
+one reader stopped halfway and said it had not.
+
+**Next, in this order:**
+
+1. Re-pilot revision 2 on the same four slugs. It takes every line from
+   `read.py --find` and must read to the last line. Run it by name:
+   `Workflow({name: "entity-lists", args: [<the four slugs>]})`, then
+   `python3 scripts/entities.py verify` and `score` on the two with a reader's
+   list (`roman-lokalitaeten-konzept-und-ausarbeitung`,
+   `aegis-subplots-kapitelweise-system-exploration-docx`).
+2. Only if every list verifies as a reading: the other landed documents, one
+   Haiku reader each. It is a large run; say what it costs before starting it.
+3. Then `entities.py matrix`, `missing`, and `doc` on the candidates for the next
+   document below.
+
+**Open question the pilot raised:** on `aegis-subplots` the model took the
+research vocabulary where the reader took the world (F1 0.13, against 0.67 on the
+gazetteer). Which of the two a corpus-wide entity list should hold is the
+author's call, and the prompt's definition of an entity is where it would be
+written. `Plan/concept/entity-lists_2026-09-23.md` has the argument.
 
 ## Next document — not yet chosen
 
@@ -130,6 +173,14 @@ at L221 — but L207 carries the metaphor the page is actually reading, in the
 genitive. Repointing the number would make the citation resolve and the page
 wrong. Each correction is a reading decision, one commit per page naming its
 source document.
+
+## In flight on GitHub
+
+Branch `claude/intelligent-davinci-1rujwj`, pull request
+netzkontrast/kohaerenzprotokoll#52: the TypeSafe SDK and project skill
+(`.agents/skills/typesafe`), the Jev concept, the vendored `jev*` skills,
+`scripts/entities.py`, the entity pilot and the saved workflow. No CI runs on this
+repository. It waits on the author's review.
 
 ## Not open
 
