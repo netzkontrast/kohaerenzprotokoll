@@ -92,8 +92,16 @@ def cosine(a: Counter, b: Counter) -> float:
 
 # --- the four steps ---------------------------------------------------------------
 
-def seeds(graph: dict, query: str) -> dict[str, tuple[float, str]]:
-    """term node → (weight, the surface that matched). Folded containment only."""
+GLOSS_WEIGHT = 0.6        # below any page surface; a gloss routes, it does not name
+
+
+def seeds(graph: dict, query: str, glosses: list[dict] | None = None) -> dict[str, tuple[float, str]]:
+    """term node → (weight, the surface that matched). Folded containment only.
+
+    With `glosses` (graph.proposals), a surface the corpus writes beside a page's
+    own — `Kernwelten (Core Worlds)` — also seeds that page, at GLOSS_WEIGHT and
+    labelled as a gloss, so an English question can reach a German page.
+    """
     folded = fold(query)
     words = set(tokens(query))
     found: dict[str, tuple[float, str]] = {}
@@ -110,6 +118,12 @@ def seeds(graph: dict, query: str) -> dict[str, tuple[float, str]]:
                 best = max(best, (0.5 * share, surface))
         if best[0] > 0:
             found[key] = best
+    for g in glosses or []:
+        f = fold(g["surface"])
+        if len(f) >= MIN_SURFACE and f in folded and g["page"] in graph["nodes"]:
+            label = f"gloss „{g['pair']}\" in {g['docs']} documents"
+            if found.get(g["page"], (0.0, ""))[0] < GLOSS_WEIGHT:
+                found[g["page"]] = (GLOSS_WEIGHT, label)
     return found
 
 
@@ -169,8 +183,9 @@ def select_mmr(relevance: list[float], similar, budget: int = BUDGET,
 def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
              budget: int = BUDGET, include_unchecked: bool = False, method: str = "ppr") -> dict:
     graph = graph or kg.build()
-    seeded = seeds(graph, query)
-    if method == "seeds":
+    prop = kg.proposals()
+    seeded = seeds(graph, query, prop["glosses"] if method.endswith("+gloss") else None)
+    if method.startswith("seeds"):
         rank = {k: w for k, (w, _) in seeded.items()}
     else:
         rank = pagerank(graph, {k: w for k, (w, _) in seeded.items()})
@@ -199,6 +214,24 @@ def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
             questions.append(e["source"])
     docs = sorted((k for k in rank if k.startswith("doc:")), key=lambda k: -rank[k])
     node = graph["nodes"]
+
+    # Unread documents that name the ranked terms, from the entity lists: a
+    # model chose the name, code placed the line. A route to read, never evidence.
+    read = {e["target"] for e in graph["edges"] if e["type"] == "reads"}
+    entity_of = {}
+    for e in prop["edges"]:
+        if e["type"] == "folds_to" and e["target"] in touching:
+            entity_of[e["source"]] = e["target"]
+    for key, ent in prop["nodes"].items():
+        f = key.split(":", 1)[1]
+        if len(f) >= MIN_SURFACE and f in fold(query):
+            entity_of.setdefault(key, None)
+    routes = []
+    for e in prop["edges"]:
+        if e["type"] == "names" and e["source"] not in read and e["target"] in entity_of:
+            routes.append({"doc": e["source"].split(":", 1)[1], "via": e["via"],
+                           "entity": prop["nodes"][e["target"]]["surfaces"][0],
+                           "page": (entity_of[e["target"]] or "").split(":", 1)[-1] or None})
     return {
         "query": query, "method": method,
         "seeds": [{"term": k, "surface": s, "weight": round(w, 3)}
@@ -213,6 +246,7 @@ def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
         "questions": [{"id": q, "question": node[q].get("question")}
                       for q in dict.fromkeys(questions) if q in node],
         "documents": [{"id": d, "title": node[d].get("title")} for d in docs[:5]],
+        "unread_routes": routes[:12],
     }
 
 
@@ -221,8 +255,13 @@ def retrieve(query: str, graph: dict | None = None, top_terms: int = TOP_TERMS,
 def render(pack: dict) -> str:
     out = [f"# Evidence for: {pack['query']}", ""]
     if not pack["seeds"]:
-        out += ["**No page's surface occurs in the question.** Nothing was retrieved — "
+        out += ["**No page's surface occurs in the question.** No evidence was retrieved — "
                 "name a term the wiki has, or search the corpus with qmd.", ""]
+        if pack.get("unread_routes"):
+            out += ["## But unread documents name it — from the entity lists "
+                    "(a model chose the name, code placed the line)", ""]
+            out += [f"- `{r['doc']}` names „{r['entity']}\" at {r['via'].rsplit(':', 1)[1]}"
+                    for r in pack["unread_routes"]]
         return "\n".join(out)
     out.append("Seeds: " + ", ".join(f"`{s['term'].split(':')[1]}` via „{s['surface']}\""
                                      for s in pack["seeds"][:6]))
@@ -243,6 +282,11 @@ def render(pack: dict) -> str:
         out += [f"- {q['id'].split(':')[1]} — {q['question']}" for q in pack["questions"]]
     out += ["", "## Documents the rank flowed to", ""]
     out += [f"- `{d['id'].split(':')[1]}` — {d['title']}" for d in pack["documents"]]
+    if pack.get("unread_routes"):
+        out += ["", "## Not yet read, and naming these terms — from the entity lists "
+                "(a model chose the name, code placed the line)", ""]
+        out += [f"- `{r['doc']}` names „{r['entity']}\" at {r['via'].rsplit(':', 1)[1]}"
+                + (f" — folds to [[{r['page']}]]" if r["page"] else "") for r in pack["unread_routes"]]
     return "\n".join(out)
 
 
@@ -309,7 +353,7 @@ def without(graph: dict, key: str) -> dict:
 def bench(k: int = TOP_TERMS) -> dict:
     graph = kg.build()
     result = {}
-    for method in ("seeds", "ppr"):
+    for method in ("seeds", "ppr", "ppr+gloss"):
         rows = []
         for case in cases(graph):
             pack = retrieve(case["query"], without(graph, case["id"]), top_terms=k, method=method)
@@ -345,6 +389,23 @@ def selftest() -> list[str]:
     pack = retrieve("xyzzy quux", graph)
     if pack["seeds"] or pack["evidence"]:
         failures.append("a question naming no term retrieved something anyway")
+
+    # glosses: English reaches the German page only when asked to, and only by gloss
+    english = "What are the Core Worlds?"
+    if retrieve(english, graph)["seeds"]:
+        failures.append("an English question seeded a page without --gloss")
+    glossed = retrieve(english, graph, method="ppr+gloss")["seeds"]
+    if not any(s["term"] == "term:kern-welten" and "gloss" in s["surface"] for s in glossed):
+        failures.append(f"'Core Worlds' did not reach kern-welten by gloss: {glossed}")
+    if any(fold(g["surface"]) == fold("Ordnung") for g in kg.proposals()["glosses"]):
+        failures.append("an ambiguous gloss (Ordnung → two pages) was kept")
+
+    # entity routes: a named entity in an unread document is routed to, with its line
+    routes = retrieve("Zettelkasten-Methode", graph)["unread_routes"]
+    if not any(r["doc"] == "ki-agenten-kohaerenz-und-prompt-generierung" for r in routes):
+        failures.append(f"no route to the unread document naming Zettelkasten-Methode: {routes}")
+    if "kohaerenz-protokoll" not in kg.proposals()["lists_skipped"]:
+        failures.append("a list verify calls a reconstruction was used for routes")
     return failures
 
 
@@ -353,8 +414,8 @@ def main(argv: list[str]) -> int:
         problems = selftest()
         for p in problems:
             print(f"  FAIL  {p}")
-        print(f"graphrag: {4 - len(problems)} of 4 cases hold (unguarded MMR defect reproduced, "
-              "floor fixes it, bench leave-out, no seed → nothing)")
+        print(f"graphrag: {9 - len(problems)} of 9 cases hold (MMR defect and floor, leave-out, "
+              "no seed, gloss off/on/ambiguous, unread route, reconstruction skipped)")
         return 1 if problems else 0
     if not argv or argv[0] not in ("ask", "bench"):
         print(__doc__)
@@ -388,7 +449,8 @@ def main(argv: list[str]) -> int:
     query = " ".join(a for a in argv[1:] if not a.startswith("--") and
                      argv[argv.index(a) - 1] not in ("--model", "--approval", "--budget"))
     budget = int(argv[argv.index("--budget") + 1]) if "--budget" in argv else BUDGET
-    pack = retrieve(query, budget=budget, include_unchecked="--unchecked" in argv)
+    pack = retrieve(query, budget=budget, include_unchecked="--unchecked" in argv,
+                    method="ppr+gloss" if "--gloss" in argv else "ppr")
     if "--answer" in argv:
         model = argv[argv.index("--model") + 1] if "--model" in argv else None
         approval = argv[argv.index("--approval") + 1] if "--approval" in argv else None

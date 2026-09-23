@@ -82,6 +82,18 @@
       "value": 36,
       "how": "labelled one-term-or-two pairs derived from the judgement ledger"
     },
+    "proposals.entities": {
+      "value": 226,
+      "how": "entities from entity lists that verify as readings, graph.proposals()"
+    },
+    "proposals.entities_paged": {
+      "value": 27,
+      "how": "of those, entities whose fold is a wiki page surface"
+    },
+    "proposals.glosses": {
+      "value": 121,
+      "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
+    },
     "quotes.checked": {
       "value": 572,
       "how": "cited quotations verified against their line"

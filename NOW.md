@@ -117,6 +117,14 @@ In order, and none of it needs a model:
 4. **Record routing failures** — each time an agent loaded the wrong skill or
    none. Five to twenty of them are job 4's dataset; there are none, so it has
    not started.
+5. **English retrieval cases, to measure the glosses.** `graphrag.py ask --gloss`
+   routes `Core Worlds` to `kern-welten` through a gloss the corpus writes, and
+   the bench cannot see it — every case names a German term. The four questions
+   asked in English, by hand, are the cheapest honest test.
+6. **The entity layer grows with the entity lists, not by itself.** Only lists
+   that verify as readings feed `graph.proposals()`, and only one unread
+   document has one. The full entity run (above, *Half-done*) is what makes
+   `graphrag.py`'s unread-document routes worth having.
 
 Two things the build found, fixed in place:
 

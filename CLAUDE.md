@@ -355,6 +355,25 @@ case's own node removed first. Recall@8 is
 58 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
 step, on nine cases whose labels were written by the same hand as the pages.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
+
+**Beside the graph, never in it: the proposal layer.** `graph.proposals()`
+reads what a model chose or the corpus merely co-states, and each item says so.
+**226 <!--state:proposals.entities--> entities** come from the entity lists that
+verify as readings — a model chose the name, code placed the line — and
+27 <!--state:proposals.entities_paged--> of them fold to a page. **121
+<!--state:proposals.glosses--> glosses** come from
+`Plan/runs/bilingual/stated.jsonl`: `A (B)` written in two or more documents,
+one side a page surface, and a surface glossing two pages dropped. A gloss's
+relation is **unjudged** (`Kael (Host)` is a role), so `graphrag.py ask --gloss`
+lets it route an English question to a German page, labelled as a gloss, and
+never merges anything. Entities route a question to **unread** documents that
+name it, with the line. On the bench, glosses change nothing (no case is
+English-only); the English case they exist for is in `graphrag.py selftest`.
+
+```bash
+python3 scripts/graph.py --proposals [--missing]     # entities, glosses, entities with no page
+python3 scripts/graphrag.py ask "What are the Core Worlds?" --gloss
+```
 `Plan/concept/graphrag_2026-09-23.md` has the design and what it cannot do.
 
 ### A mechanised rule stays checkable

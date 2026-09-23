@@ -42,6 +42,7 @@ naming a page that is gone.
     python3 scripts/graph.py --graphml > kg.graphml   # for Gephi, networkx, a GraphRAG store
     python3 scripts/graph.py --triples          # subject<TAB>predicate<TAB>object<TAB>via
     python3 scripts/graph.py --around nexus [--hops 2] [--mermaid]
+    python3 scripts/graph.py --proposals [--missing]   # entity lists and stated glosses, kept apart
     python3 scripts/graph.py --selftest
 """
 
@@ -200,6 +201,92 @@ def build() -> dict:
     return {"nodes": nodes, "edges": edges, "evidence": evidence}
 
 
+GLOSS_MIN_DOCS = 2
+STATED = ROOT / "Plan" / "runs" / "bilingual" / "stated.jsonl"
+
+
+@lru_cache(maxsize=1)
+def proposals() -> dict:
+    """What a model chose or the corpus merely co-states — kept apart from the graph.
+
+    Nothing here is an edge between term pages, and nothing enters `build()`.
+    Each item says who chose it and who verified it:
+
+    - **entities** — the names in `Plan/entities/<slug>.md`, from lists that pass
+      `entities.py verify` as a reading (a reconstruction is left out, as `matrix`
+      leaves it out). A model chose the name; code placed the line, so every
+      `names` edge (document → entity, `via` the document line) is a verified
+      fact that the document names it there. An entity whose fold equals a page
+      surface gets `folds_to` that page — the lookup every reconcile uses.
+    - **glosses** — from `Plan/runs/bilingual/stated.jsonl`, pairs the corpus
+      writes itself. Only the `A (B)` shape, written in at least
+      `GLOSS_MIN_DOCS` documents, where exactly one side is a page surface and
+      the other is no page's surface. **The relation is unjudged:** `Kael (Host)`
+      is a role, `Grenzfeste (Cerberus)` a place and its guardian, and the slash
+      shape pairs opposites (`Kohärenz/Inkohärenz`). So a gloss may route a
+      question to a page and is shown as a gloss; it never merges a surface into
+      a page (P13, and `Plan/runs/judgements.jsonl` decides that).
+    """
+    import entities as E
+    index = wiki_index.build()
+    page_of: dict[str, str] = {}
+    for slug, row in index["terms"].items():
+        for surface in row.get("surfaces", []):
+            if len(wiki_index.fold(surface)) >= 3:
+                page_of.setdefault(wiki_index.fold(surface), f"term:{slug}")
+
+    nodes: dict[str, dict] = {}
+    edges: list[dict] = []
+    skipped = []
+    for entry in E.lists():
+        E.verify(entry)
+        if not entry["reading"]:
+            skipped.append(entry["slug"])
+            continue
+        path = f"Sources/drive/{entry['slug']}.md"
+        for row in entry["rows"]:
+            if not row["verified"]:
+                continue
+            key = f"entity:{wiki_index.fold(row['term'])}"
+            node = nodes.setdefault(key, {"id": key, "type": "entity", "surfaces": [], "kinds": [],
+                                          "named_by": [], "chosen_by": "model", "placed_by": "code"})
+            if row["term"] not in node["surfaces"]:
+                node["surfaces"].append(row["term"])
+            if row["kind"] and row["kind"] not in node["kinds"]:
+                node["kinds"].append(row["kind"])
+            node["named_by"].append(entry["slug"])
+            edges.append({"source": f"doc:{entry['slug']}", "type": "names", "target": key,
+                          "via": f"{path}:{row['line']}", "rank": row["rank"]})
+    for key, node in nodes.items():
+        page = page_of.get(key.split(":", 1)[1])
+        if page:
+            edges.append({"source": key, "type": "folds_to", "target": page,
+                          "via": "Wiki/index.json surfaces"})
+
+    glosses = []
+    if STATED.exists():
+        for line in STATED.read_text(encoding="utf-8").splitlines():
+            row = json.loads(line)
+            if row.get("shape") != "paren" or row.get("docs", 0) < GLOSS_MIN_DOCS:
+                continue
+            fa, fb = wiki_index.fold(row["a"]), wiki_index.fold(row["b"])
+            pa, pb = page_of.get(fa), page_of.get(fb)
+            if bool(pa) == bool(pb):
+                continue
+            page, surface = (pa, row["b"]) if pa else (pb, row["a"])
+            if len(wiki_index.fold(surface)) < 4:
+                continue
+            glosses.append({"surface": surface, "page": page, "pair": f"{row['a']} ({row['b']})",
+                            "docs": row["docs"], "cites": row.get("cites", [])[:3]})
+    # A surface glossing two different pages (`Ordnung` → Kohärenz and AEGIS,
+    # `Anteile` → Alters and Personas) says nothing about which: drop it.
+    pages_of: dict[str, set] = {}
+    for g in glosses:
+        pages_of.setdefault(wiki_index.fold(g["surface"]), set()).add(g["page"])
+    glosses = [g for g in glosses if len(pages_of[wiki_index.fold(g["surface"])]) == 1]
+    return {"nodes": nodes, "edges": edges, "glosses": glosses, "lists_skipped": skipped}
+
+
 def check(graph: dict) -> list[str]:
     """Every way the graph can disagree with the files it was derived from."""
     problems = []
@@ -228,6 +315,9 @@ def selftest() -> list[str]:
         failures.append("an edge to a missing page was not reported")
     if not any("fixture-unlanded" in p for p in found):
         failures.append("a document no manifest row lands was not reported")
+    core = {e["type"] for e in build()["edges"]}
+    if core & {"names", "folds_to"}:
+        failures.append("proposal edges leaked into the core graph")
     links = sum(1 for e in build()["edges"] if e["type"] == "links")
     import relations
     if links != len(relations.graph()["edges"]):
@@ -301,8 +391,8 @@ def main(argv: list[str]) -> int:
         problems = selftest()
         for p in problems:
             print(f"  FAIL  {p}")
-        print(f"graph: {4 - len(problems)} of 4 cases hold (clean, broken edge, unlanded doc, "
-              "agrees with relations.py)")
+        print(f"graph: {5 - len(problems)} of 5 cases hold (clean, broken edge, unlanded doc, "
+              "no proposal in the core, agrees with relations.py)")
         return 1 if problems else 0
     graph = build()
     if "--json" in argv:
@@ -314,6 +404,18 @@ def main(argv: list[str]) -> int:
     if "--triples" in argv:
         for e in graph["edges"]:
             print(f"{e['source']}\t{e['type']}\t{e['target']}\t{e['via']}")
+        return 0
+    if "--proposals" in argv:
+        prop = proposals()
+        linked = {e["source"] for e in prop["edges"] if e["type"] == "folds_to"}
+        missing = [n for k, n in prop["nodes"].items() if k not in linked]
+        print(f"entities {len(prop['nodes'])} from reading lists "
+              f"(skipped as reconstructions: {', '.join(prop['lists_skipped']) or 'none'}); "
+              f"{len(linked)} fold to a page, {len(missing)} have none")
+        print(f"glosses {len(prop['glosses'])} — `A (B)` in {GLOSS_MIN_DOCS}+ documents, one side a page")
+        if "--missing" in argv:
+            for n in sorted(missing, key=lambda n: (-len(set(n["named_by"])), n["surfaces"][0])):
+                print(f"  {len(set(n['named_by']))}  {n['surfaces'][0]}  ({', '.join(n['kinds'])})")
         return 0
     if "--around" in argv:
         start = argv[argv.index("--around") + 1]

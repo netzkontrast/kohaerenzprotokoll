@@ -242,6 +242,24 @@ def _graphrag_recall_ppr() -> int:
     return round(100 * _bench()["ppr"][0])
 
 
+@measure("proposals.entities", "entities from entity lists that verify as readings, graph.proposals()")
+def _prop_entities() -> int:
+    from graph import proposals
+    return len(proposals()["nodes"])
+
+
+@measure("proposals.entities_paged", "of those, entities whose fold is a wiki page surface")
+def _prop_paged() -> int:
+    from graph import proposals
+    return len({e["source"] for e in proposals()["edges"] if e["type"] == "folds_to"})
+
+
+@measure("proposals.glosses", "stated `A (B)` glosses in 2+ documents routing to exactly one page")
+def _prop_glosses() -> int:
+    from graph import proposals
+    return len(proposals()["glosses"])
+
+
 @measure("pairs.labelled", "labelled one-term-or-two pairs derived from the judgement ledger")
 def _pairs_labelled() -> int:
     from trainset import surface_pairs
