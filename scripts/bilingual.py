@@ -66,9 +66,10 @@ OR_BATCH = 80
 # the rotation below grows: which free model answered is recorded per call.
 OR_MODELS = ["qwen/qwen3.8-27b:free", "nvidia/nemotron-3-super-120b-a12b:free",
              "google/gemma-4-31b-it:free"]
-OR_ROTATION = ["nvidia/nemotron-3-super-120b-a12b:free", "nvidia/nemotron-3-ultra-550b-a55b:free",
-               "dots-studio/dots-3-note-preview:free", "nvidia/nemotron-3.5-lightning:free",
+OR_ROTATION = ["nvidia/nemotron-3-super-120b-a12b:free", "dots-studio/dots-3-note-preview:free",
                "poolside/laguna-s-2.1:free", "qwen/qwen3.8-27b:free"]
+# Measured 2026-09-23 on an 80-term batch: nemotron-3-super and dots-3-note answer in
+# 45-120 s; nemotron-3-ultra hung 218 s and broke off, gemma and qwen were rate-limited.
 OR_WORKERS = 6
 
 # ── surfaces ──────────────────────────────────────────────────────────────────
@@ -221,7 +222,7 @@ def openrouter(prompt: str) -> dict:
                                          headers={"Authorization": f"Bearer {key}",
                                                   "Content-Type": "application/json"})
             try:
-                with urllib.request.urlopen(req, timeout=300) as r:
+                with urllib.request.urlopen(req, timeout=180) as r:
                     d = json.load(r)
                 text = d["choices"][0]["message"]["content"]
                 parsed = json.loads(text[text.index("{"):text.rindex("}") + 1])

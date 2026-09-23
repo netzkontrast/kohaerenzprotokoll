@@ -1,0 +1,539 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Beobachterin",
+    "lang": "de",
+    "counterparts": [
+     "observer"
+    ]
+   },
+   {
+    "term": "Beobachterproblem",
+    "lang": "de",
+    "counterparts": [
+     "observer problem"
+    ]
+   },
+   {
+    "term": "Beobachterunabhängigkeit",
+    "lang": "de",
+    "counterparts": [
+     "observer independence"
+    ]
+   },
+   {
+    "term": "Beobachtung der Beobachtung",
+    "lang": "de",
+    "counterparts": [
+     "observation of the observation"
+    ]
+   },
+   {
+    "term": "Berechenbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "computability"
+    ]
+   },
+   {
+    "term": "Berechenbarkeitstheorie",
+    "lang": "de",
+    "counterparts": [
+     "computability theory"
+    ]
+   },
+   {
+    "term": "Berechneter Globaler Entropie-Score",
+    "lang": "de",
+    "counterparts": [
+     "calculated global entropy score"
+    ]
+   },
+   {
+    "term": "Bereich der Emotional Parts",
+    "lang": "de",
+    "counterparts": [
+     "area of the emotional parts"
+    ]
+   },
+   {
+    "term": "Berkeley",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Berlin",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bernd",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Berthold Wormland",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bertrand",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Beschleunigte Expansion des Raumes",
+    "lang": "de",
+    "counterparts": [
+     "accelerated expansion of space"
+    ]
+   },
+   {
+    "term": "Beschützer",
+    "lang": "de",
+    "counterparts": [
+     "protector"
+    ]
+   },
+   {
+    "term": "Beschützer-Anteil",
+    "lang": "de",
+    "counterparts": [
+     "protector share"
+    ]
+   },
+   {
+    "term": "Beschützerin",
+    "lang": "de",
+    "counterparts": [
+     "protector"
+    ]
+   },
+   {
+    "term": "Bestand",
+    "lang": "de",
+    "counterparts": [
+     "stock",
+     "inventory",
+     "existence"
+    ]
+   },
+   {
+    "term": "Bestiary of Future Literatures",
+    "lang": "en",
+    "counterparts": [
+     "Bestiary der zukünftigen Literaturen",
+     "Bestiary zukünftiger Literaturen",
+     "Bestiary der Zukunftsliteraturen"
+    ]
+   },
+   {
+    "term": "Bestimmung der Vier Domänen",
+    "lang": "de",
+    "counterparts": [
+     "determination of the four domains"
+    ]
+   },
+   {
+    "term": "Bestätigungsfehler",
+    "lang": "de",
+    "counterparts": [
+     "confirmation error"
+    ]
+   },
+   {
+    "term": "Beta",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Beta-Rho-5-Chaos",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Betrayal",
+    "lang": "en",
+    "counterparts": [
+     "Verrat"
+    ]
+   },
+   {
+    "term": "Betreuer-ANP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Betriebssystem",
+    "lang": "de",
+    "counterparts": [
+     "operating system"
+    ]
+   },
+   {
+    "term": "Betriebssystems",
+    "lang": "de",
+    "counterparts": [
+     "of the operating system"
+    ]
+   },
+   {
+    "term": "Bewahrer",
+    "lang": "de",
+    "counterparts": [
+     "preserver"
+    ]
+   },
+   {
+    "term": "Bewegung",
+    "lang": "de",
+    "counterparts": [
+     "movement",
+     "motion"
+    ]
+   },
+   {
+    "term": "Beweisbarkeit",
+    "lang": "de",
+    "counterparts": [
+     "provability"
+    ]
+   },
+   {
+    "term": "Beweiser",
+    "lang": "de",
+    "counterparts": [
+     "prover"
+    ]
+   },
+   {
+    "term": "Bewertung der Funktionstüchtigkeit",
+    "lang": "de",
+    "counterparts": [
+     "evaluation of functionality"
+    ]
+   },
+   {
+    "term": "Bewertungsmaßstäbe der Versorgungsmedizin-Verordnung",
+    "lang": "de",
+    "counterparts": [
+     "evaluation criteria of the medical care regulation"
+    ]
+   },
+   {
+    "term": "Bewertungsrahmen",
+    "lang": "de",
+    "counterparts": [
+     "evaluation framework"
+    ]
+   },
+   {
+    "term": "Bewusstsein",
+    "lang": "de",
+    "counterparts": [
+     "consciousness"
+    ]
+   },
+   {
+    "term": "Bewusstsein/Reflexion",
+    "lang": "de",
+    "counterparts": [
+     "consciousness/reflection"
+    ]
+   },
+   {
+    "term": "Bewusstseins-Zentren",
+    "lang": "de",
+    "counterparts": [
+     "consciousness centers"
+    ]
+   },
+   {
+    "term": "Bewusstseinsakt",
+    "lang": "de",
+    "counterparts": [
+     "act of consciousness"
+    ]
+   },
+   {
+    "term": "Bewusstseinsinstanzen",
+    "lang": "de",
+    "counterparts": [
+     "consciousness instances"
+    ]
+   },
+   {
+    "term": "Bewusstseinsmodell",
+    "lang": "de",
+    "counterparts": [
+     "consciousness model"
+    ]
+   },
+   {
+    "term": "Bewusstseinsstrom",
+    "lang": "de",
+    "counterparts": [
+     "stream of consciousness"
+    ]
+   },
+   {
+    "term": "Bezeugen",
+    "lang": "de",
+    "counterparts": [
+     "to attest",
+     "to testify"
+    ]
+   },
+   {
+    "term": "Bibisco",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bible",
+    "lang": "en",
+    "counterparts": [
+     "Bibel"
+    ]
+   },
+   {
+    "term": "Bibliothek",
+    "lang": "de",
+    "counterparts": [
+     "library"
+    ]
+   },
+   {
+    "term": "Bifurcation",
+    "lang": "en",
+    "counterparts": [
+     "Bifurkation"
+    ]
+   },
+   {
+    "term": "Bifurkation",
+    "lang": "de",
+    "counterparts": [
+     "bifurcation"
+    ]
+   },
+   {
+    "term": "Bifurkationen",
+    "lang": "de",
+    "counterparts": [
+     "bifurcations"
+    ]
+   },
+   {
+    "term": "Bifurkationstheorie",
+    "lang": "de",
+    "counterparts": [
+     "bifurcation theory"
+    ]
+   },
+   {
+    "term": "Big Five",
+    "lang": "en",
+    "counterparts": [
+     "Big Five"
+    ]
+   },
+   {
+    "term": "Big Freeze",
+    "lang": "en",
+    "counterparts": [
+     "Big Freeze"
+    ]
+   },
+   {
+    "term": "Big Rip",
+    "lang": "en",
+    "counterparts": [
+     "Big Rip"
+    ]
+   },
+   {
+    "term": "Bill",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bind",
+    "lang": "en",
+    "counterparts": [
+     "binden"
+    ]
+   },
+   {
+    "term": "Bindung",
+    "lang": "de",
+    "counterparts": [
+     "binding"
+    ]
+   },
+   {
+    "term": "Bindung und Sicherheit",
+    "lang": "de",
+    "counterparts": [
+     "binding and security"
+    ]
+   },
+   {
+    "term": "Bindungs-Ambivalenz",
+    "lang": "de",
+    "counterparts": [
+     "binding ambivalence"
+    ]
+   },
+   {
+    "term": "Bindungsambivalenz",
+    "lang": "de",
+    "counterparts": [
+     "binding ambivalence"
+    ]
+   },
+   {
+    "term": "Bindungsangst",
+    "lang": "de",
+    "counterparts": [
+     "binding anxiety"
+    ]
+   },
+   {
+    "term": "Bindungsdichte",
+    "lang": "de",
+    "counterparts": [
+     "binding density"
+    ]
+   },
+   {
+    "term": "Bindungsfigur",
+    "lang": "de",
+    "counterparts": [
+     "binding figure"
+    ]
+   },
+   {
+    "term": "Bindungsmodus",
+    "lang": "de",
+    "counterparts": [
+     "binding mode"
+    ]
+   },
+   {
+    "term": "Bindungsmuster",
+    "lang": "de",
+    "counterparts": [
+     "binding pattern"
+    ]
+   },
+   {
+    "term": "Bindungsruf-System",
+    "lang": "de",
+    "counterparts": [
+     "binding call system"
+    ]
+   },
+   {
+    "term": "Bindungssystem",
+    "lang": "de",
+    "counterparts": [
+     "binding system"
+    ]
+   },
+   {
+    "term": "Bindungssysteme",
+    "lang": "de",
+    "counterparts": [
+     "binding systems"
+    ]
+   },
+   {
+    "term": "Bindungstheorie",
+    "lang": "de",
+    "counterparts": [
+     "binding theory"
+    ]
+   },
+   {
+    "term": "Bindungsverhalten",
+    "lang": "de",
+    "counterparts": [
+     "binding behavior"
+    ]
+   },
+   {
+    "term": "BingChat",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bioshock",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Bit",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Bits",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Black",
+    "lang": "en",
+    "counterparts": [
+     "schwarz"
+    ]
+   },
+   {
+    "term": "Black Box",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Black-Box-Problem",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Black_hole_information_paradox",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Blind Brain Theory",
+    "lang": "en",
+    "counterparts": [
+     "Blinde Hirn-Theorie"
+    ]
+   },
+   {
+    "term": "Blind Spot",
+    "lang": "en",
+    "counterparts": [
+     "blinder Fleck"
+    ]
+   },
+   {
+    "term": "Blinder Fleck",
+    "lang": "de",
+    "counterparts": [
+     "blind spot"
+    ]
+   },
+   {
+    "term": "Blindness",
+    "lang": "en",
+    "counterparts": [
+     "Blindheit"
+    ]
+   }
+  ]
+ }
+}

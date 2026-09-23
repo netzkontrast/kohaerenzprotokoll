@@ -1,0 +1,566 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Algorithmische Komplexität",
+    "lang": "de",
+    "counterparts": [
+     "Algorithmic Complexity"
+    ]
+   },
+   {
+    "term": "Algorithmische Melancholie",
+    "lang": "de",
+    "counterparts": [
+     "Algorithmic Melancholy"
+    ]
+   },
+   {
+    "term": "Algorithmische Opazität",
+    "lang": "de",
+    "counterparts": [
+     "Algorithmic Opacity"
+    ]
+   },
+   {
+    "term": "Algorithmischer Zustand",
+    "lang": "de",
+    "counterparts": [
+     "Algorithmic State"
+    ]
+   },
+   {
+    "term": "Aliasing-Effekt",
+    "lang": "de",
+    "counterparts": [
+     "Aliasing Effect"
+    ]
+   },
+   {
+    "term": "Alienation",
+    "lang": "en",
+    "counterparts": [
+     "Entfremdung"
+    ]
+   },
+   {
+    "term": "Alignment",
+    "lang": "en",
+    "counterparts": [
+     "Ausrichtung",
+     "Angleichung",
+     "Justierung"
+    ]
+   },
+   {
+    "term": "Alignment Faking",
+    "lang": "en",
+    "counterparts": [
+     "Alignment vortäuschen",
+     "Vorgeben von Alignment",
+     "Fake Alignment"
+    ]
+   },
+   {
+    "term": "Alignment Problem",
+    "lang": "en",
+    "counterparts": [
+     "Ausrichtungsproblem",
+     "Problem der Ausrichtung",
+     "Alignment-Problem"
+    ]
+   },
+   {
+    "term": "All-Out War",
+    "lang": "en",
+    "counterparts": [
+     "Totaler Krieg",
+     "Krieg mit allen Mitteln",
+     "Alles-oder-nichts Krieg"
+    ]
+   },
+   {
+    "term": "Allgemeine Relativitätstheorie",
+    "lang": "de",
+    "counterparts": [
+     "General Theory of Relativity"
+    ]
+   },
+   {
+    "term": "Allgemeine Systemtheorie",
+    "lang": "de",
+    "counterparts": [
+     "General Systems Theory"
+    ]
+   },
+   {
+    "term": "Allgemeinen Relativitätstheorie",
+    "lang": "de",
+    "counterparts": [
+     "General Theory of Relativity"
+    ]
+   },
+   {
+    "term": "Allgemeiner Relativitätstheorie",
+    "lang": "de",
+    "counterparts": [
+     "General Theory of Relativity"
+    ]
+   },
+   {
+    "term": "Allgemeiner Sozialer Dienst",
+    "lang": "de",
+    "counterparts": [
+     "General Social Service"
+    ]
+   },
+   {
+    "term": "Alliance",
+    "lang": "en",
+    "counterparts": [
+     "Allianz"
+    ]
+   },
+   {
+    "term": "Allianz",
+    "lang": "de",
+    "counterparts": [
+     "Alliance"
+    ]
+   },
+   {
+    "term": "Allostase",
+    "lang": "de",
+    "counterparts": [
+     "Allostasis"
+    ]
+   },
+   {
+    "term": "Alltagsmanager",
+    "lang": "de",
+    "counterparts": [
+     "Everyday Manager"
+    ]
+   },
+   {
+    "term": "Allwissenheit",
+    "lang": "de",
+    "counterparts": [
+     "Omniscience"
+    ]
+   },
+   {
+    "term": "Alpha-Synchronisation",
+    "lang": "de",
+    "counterparts": [
+     "Alpha Synchronization"
+    ]
+   },
+   {
+    "term": "Alpha-Wellen-Muster",
+    "lang": "de",
+    "counterparts": [
+     "Alpha Wave Pattern"
+    ]
+   },
+   {
+    "term": "Alter-Liste",
+    "lang": "de",
+    "counterparts": [
+     "Age List"
+    ]
+   },
+   {
+    "term": "Alters",
+    "lang": "de",
+    "counterparts": [
+     "ages"
+    ]
+   },
+   {
+    "term": "Alters-Modell",
+    "lang": "de",
+    "counterparts": [
+     "Age Model"
+    ]
+   },
+   {
+    "term": "Ambivalence",
+    "lang": "en",
+    "counterparts": [
+     "Ambivalenz"
+    ]
+   },
+   {
+    "term": "Ambivalence of Order",
+    "lang": "en",
+    "counterparts": [
+     "Ambivalenz der Ordnung"
+    ]
+   },
+   {
+    "term": "Ambivalenz",
+    "lang": "de",
+    "counterparts": [
+     "Ambivalence"
+    ]
+   },
+   {
+    "term": "Ambivalenz der Ordnung",
+    "lang": "de",
+    "counterparts": [
+     "Ambivalence of Order"
+    ]
+   },
+   {
+    "term": "Ambulant Betreute Wohnen",
+    "lang": "de",
+    "counterparts": [
+     "Outpatient Supported Living",
+     "Ambulatory Supported Living"
+    ]
+   },
+   {
+    "term": "Ambulant Betreutes Wohnen",
+    "lang": "de",
+    "counterparts": [
+     "Outpatient Supported Living",
+     "Ambulatory Supported Living"
+    ]
+   },
+   {
+    "term": "Ambulante Psychiatrische Pflege",
+    "lang": "de",
+    "counterparts": [
+     "Outpatient Psychiatric Care"
+    ]
+   },
+   {
+    "term": "Ambulanten Psychiatrischen Pflege",
+    "lang": "de",
+    "counterparts": [
+     "Outpatient Psychiatric Care"
+    ]
+   },
+   {
+    "term": "Amnesia Plot",
+    "lang": "en",
+    "counterparts": [
+     "Amnesie-Plot"
+    ]
+   },
+   {
+    "term": "Amnesie-Barrieren",
+    "lang": "de",
+    "counterparts": [
+     "Amnesia Barriers"
+    ]
+   },
+   {
+    "term": "Amnesie-Lücken",
+    "lang": "de",
+    "counterparts": [
+     "Amnesia Gaps"
+    ]
+   },
+   {
+    "term": "Amnesiebarrieren",
+    "lang": "de",
+    "counterparts": [
+     "Amnesia Barriers"
+    ]
+   },
+   {
+    "term": "Amygdala",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Amygdala-Hyperaktivität",
+    "lang": "de",
+    "counterparts": [
+     "Amygdala Hyperactivity"
+    ]
+   },
+   {
+    "term": "An-sich-Sein",
+    "lang": "de",
+    "counterparts": [
+     "Being-in-itself"
+    ]
+   },
+   {
+    "term": "Anagnorisis",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Analgesie",
+    "lang": "de",
+    "counterparts": [
+     "Analgesia"
+    ]
+   },
+   {
+    "term": "Analyse-Hub",
+    "lang": "de",
+    "counterparts": [
+     "Analysis Hub"
+    ]
+   },
+   {
+    "term": "Analyst",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Analytiker",
+    "lang": "de",
+    "counterparts": [
+     "Analyst"
+    ]
+   },
+   {
+    "term": "Anchoring Heuristic",
+    "lang": "en",
+    "counterparts": [
+     "Ankerheuristik"
+    ]
+   },
+   {
+    "term": "Anderer",
+    "lang": "de",
+    "counterparts": [
+     "Other"
+    ]
+   },
+   {
+    "term": "Anderes",
+    "lang": "de",
+    "counterparts": [
+     "Other"
+    ]
+   },
+   {
+    "term": "Anhedonie",
+    "lang": "de",
+    "counterparts": [
+     "Anhedonia"
+    ]
+   },
+   {
+    "term": "Anima",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Anima/Animus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Animus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Anisotropie",
+    "lang": "de",
+    "counterparts": [
+     "Anisotropy"
+    ]
+   },
+   {
+    "term": "Anker",
+    "lang": "de",
+    "counterparts": [
+     "Anchor"
+    ]
+   },
+   {
+    "term": "Ankerheuristik",
+    "lang": "de",
+    "counterparts": [
+     "Anchoring Heuristic"
+    ]
+   },
+   {
+    "term": "Anomalie",
+    "lang": "de",
+    "counterparts": [
+     "Anomaly"
+    ]
+   },
+   {
+    "term": "Anomalieerkennung",
+    "lang": "de",
+    "counterparts": [
+     "Anomaly Detection"
+    ]
+   },
+   {
+    "term": "Anomaly",
+    "lang": "en",
+    "counterparts": [
+     "Anomalie"
+    ]
+   },
+   {
+    "term": "Anomaly-Alpha",
+    "lang": "en",
+    "counterparts": [
+     "Anomalie-Alpha"
+    ]
+   },
+   {
+    "term": "Another",
+    "lang": "en",
+    "counterparts": [
+     "Ein anderer",
+     "Anderer",
+     "Noch einer"
+    ]
+   },
+   {
+    "term": "Anscheinend Normale Anteile",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Shares"
+    ]
+   },
+   {
+    "term": "Anscheinend Normale Persönlichkeitsanteil",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Personality Share"
+    ]
+   },
+   {
+    "term": "Anscheinend Normale Persönlichkeitsanteile",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Personality Shares"
+    ]
+   },
+   {
+    "term": "Anscheinend Normale Teile",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Parts"
+    ]
+   },
+   {
+    "term": "Anscheinend Normalen Anteilen",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Shares"
+    ]
+   },
+   {
+    "term": "Anscheinend Normalen Persönlichkeitsanteil",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Personality Share"
+    ]
+   },
+   {
+    "term": "Anscheinend Normalen Persönlichkeitsanteile",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Personality Shares"
+    ]
+   },
+   {
+    "term": "Anscheinend Normalen Persönlichkeitsanteilen",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Personality Shares"
+    ]
+   },
+   {
+    "term": "Anscheinend Normalen Teil",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Part"
+    ]
+   },
+   {
+    "term": "Anscheinend Normalen Teilen",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Parts"
+    ]
+   },
+   {
+    "term": "Anscheinend Normaler Persönlichkeitsanteil",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Personality Share"
+    ]
+   },
+   {
+    "term": "Anscheinend Normaler Teil",
+    "lang": "de",
+    "counterparts": [
+     "Apparently Normal Part"
+    ]
+   },
+   {
+    "term": "Answer Set Programming",
+    "lang": "en",
+    "counterparts": [
+     "Antwortmenge-Programmierung"
+    ]
+   },
+   {
+    "term": "Antagonist",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Antagonist-System",
+    "lang": "de",
+    "counterparts": [
+     "Antagonist System"
+    ]
+   },
+   {
+    "term": "Antagonistisches System",
+    "lang": "de",
+    "counterparts": [
+     "Antagonistic System"
+    ]
+   },
+   {
+    "term": "Anteil",
+    "lang": "de",
+    "counterparts": [
+     "Share"
+    ]
+   },
+   {
+    "term": "Anteile",
+    "lang": "de",
+    "counterparts": [
+     "Shares"
+    ]
+   },
+   {
+    "term": "Anterior Cingulate Cortex",
+    "lang": "en",
+    "counterparts": [
+     "Anterior cingulärer Kortex",
+     "Vorderer Singulärer Kortex"
+    ]
+   },
+   {
+    "term": "Anthropic",
+    "lang": "en",
+    "counterparts": [
+     "anthropisch"
+    ]
+   }
+  ]
+ }
+}

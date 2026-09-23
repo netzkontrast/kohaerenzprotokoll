@@ -1,0 +1,615 @@
+{
+ "model": "dots-studio/dots-3-note-preview:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Fight EP",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fight Response",
+    "lang": "en",
+    "counterparts": [
+     "Kampfreaktion",
+     "Fight-Reaktion",
+     "Kampf-Response"
+    ]
+   },
+   {
+    "term": "Fight-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "Fight Response",
+     "Fight-Reaktion",
+     "Kampfreaktion"
+    ]
+   },
+   {
+    "term": "Fight-Response",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Fighter",
+    "lang": "en",
+    "counterparts": [
+     "Kämpfer",
+     "Fighter",
+     "Kämpferin"
+    ]
+   },
+   {
+    "term": "Figur-Grund-Trennung",
+    "lang": "de",
+    "counterparts": [
+     "figure-ground segregation",
+     "figure-ground separation",
+     "Figur-Grund-Trennung"
+    ]
+   },
+   {
+    "term": "File System",
+    "lang": "en",
+    "counterparts": [
+     "Dateisystem",
+     "File-System",
+     "Dateisysteme"
+    ]
+   },
+   {
+    "term": "Filter",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Filter-Strukturen",
+    "lang": "de",
+    "counterparts": [
+     "filter structures",
+     "Filter-Strukturen",
+     "Filterstrukturen"
+    ]
+   },
+   {
+    "term": "Filtertheorie",
+    "lang": "de",
+    "counterparts": [
+     "filter theory",
+     "Filtertheorie",
+     "Filter-Theory"
+    ]
+   },
+   {
+    "term": "Final Transformation",
+    "lang": "en",
+    "counterparts": [
+     "Finale Transformation",
+     "Final-Transformation",
+     "letzte Transformation"
+    ]
+   },
+   {
+    "term": "Finite Simple Groups",
+    "lang": "en",
+    "counterparts": [
+     "Endliche simple Gruppen",
+     "Finite Simple Groups",
+     "endlich simple Gruppen"
+    ]
+   },
+   {
+    "term": "Firefighter",
+    "lang": "en",
+    "counterparts": [
+     "Feuerwehrmann",
+     "Feuerwehrerin",
+     "Firefighter"
+    ]
+   },
+   {
+    "term": "Firefighters",
+    "lang": "en",
+    "counterparts": [
+     "Feuerwehrleute",
+     "Feuerwehrmänner",
+     "Feuerwehrfrauen"
+    ]
+   },
+   {
+    "term": "Firewall",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Firewalls",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "First",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "First Alter",
+    "lang": "en",
+    "counterparts": [
+     "Erster Alter",
+     "First Alter",
+     "Erstes Alter"
+    ]
+   },
+   {
+    "term": "First Contact",
+    "lang": "en",
+    "counterparts": [
+     "Erstkontakt",
+     "First Contact",
+     "Erstkontakt"
+    ]
+   },
+   {
+    "term": "First Degree Entailment",
+    "lang": "en",
+    "counterparts": [
+     "Entailment ersten Grades",
+     "First Degree Entailment",
+     "Erstgrad-Entailment"
+    ]
+   },
+   {
+    "term": "First-Degree Entailment",
+    "lang": "en",
+    "counterparts": [
+     "Entailment ersten Grades",
+     "First-Degree Entailment",
+     "Erstgrad-Entailment"
+    ]
+   },
+   {
+    "term": "First-Principles",
+    "lang": "en",
+    "counterparts": [
+     "Erstprinzipien",
+     "First-Principles",
+     "Erstprinzipien"
+    ]
+   },
+   {
+    "term": "Fischer",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fischer-Gruppe",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fission",
+    "lang": "en",
+    "counterparts": [
+     "Spaltung",
+     "Kernspaltung",
+     "Fission"
+    ]
+   },
+   {
+    "term": "Fissures",
+    "lang": "en",
+    "counterparts": [
+     "Risse",
+     "Spalten",
+     "Fissuren"
+    ]
+   },
+   {
+    "term": "Fiveable",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fixed",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Fixed Attitude",
+    "lang": "en",
+    "counterparts": [
+     "Feste Einstellung",
+     "Fixed Attitude",
+     "Fixierte Einstellung"
+    ]
+   },
+   {
+    "term": "Fixed Internal State",
+    "lang": "en",
+    "counterparts": [
+     "Fester innerer Zustand",
+     "Fixed Internal State",
+     "Fixierter intern Zustand"
+    ]
+   },
+   {
+    "term": "Fixed Situation",
+    "lang": "en",
+    "counterparts": [
+     "Feste Situation",
+     "Fixed Situation",
+     "Fixierte Situation"
+    ]
+   },
+   {
+    "term": "Fixed-Attitude-Klasse",
+    "lang": "de",
+    "counterparts": [
+     "fixed attitude class",
+     "Fixed-Attitude-Klasse",
+     "Feste-Einstellung-Klasse"
+    ]
+   },
+   {
+    "term": "Fixierte Einstellung",
+    "lang": "de",
+    "counterparts": [
+     "fixed attitude",
+     "Fixierte Einstellung",
+     "Feste Einstellung"
+    ]
+   },
+   {
+    "term": "Fixierte Haltung",
+    "lang": "de",
+    "counterparts": [
+     "fixed stance",
+     "Fixierte Haltung",
+     "Feste Haltung"
+    ]
+   },
+   {
+    "term": "Fixpunkt",
+    "lang": "de",
+    "counterparts": [
+     "fixed point",
+     "Fixpunkt",
+     "Fixpunkt"
+    ]
+   },
+   {
+    "term": "Fixpunkte",
+    "lang": "de",
+    "counterparts": [
+     "fixed points",
+     "Fixpunkte",
+     "Fixpunkte"
+    ]
+   },
+   {
+    "term": "Flashback",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Fleck",
+    "lang": "de",
+    "counterparts": [
+     "spot",
+     "Fleck",
+     "Flecken"
+    ]
+   },
+   {
+    "term": "Flexible",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Flexible Assertive Community Treatment",
+    "lang": "en",
+    "counterparts": [
+     "Flexibles assertives Gemeinschaftsbehandlung",
+     "Flexible Assertive Community Treatment",
+     "Flexibler ACT-Ansatz"
+    ]
+   },
+   {
+    "term": "Flexikon",
+    "lang": "de",
+    "counterparts": [
+     "flexicon",
+     "Flexikon",
+     "Flexi-Kon"
+    ]
+   },
+   {
+    "term": "Flicker",
+    "lang": "en",
+    "counterparts": [
+     "Flackern",
+     "Flicker",
+     "Flackern"
+    ]
+   },
+   {
+    "term": "Flip",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Flooding",
+    "lang": "en",
+    "counterparts": [
+     "Überflutung",
+     "Flutung",
+     "Flutung"
+    ]
+   },
+   {
+    "term": "Floridi",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Floridis",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Floridis Philosophie der Information",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Flow",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Flucht-Reaktion",
+    "lang": "de",
+    "counterparts": [
+     "flight reaction",
+     "Flucht-Reaktion",
+     "Fluchtreaktion"
+    ]
+   },
+   {
+    "term": "Fluctuations",
+    "lang": "en",
+    "counterparts": [
+     "Schwankungen",
+     "Fluktuationen",
+     "Fluctuations"
+    ]
+   },
+   {
+    "term": "Fluidity",
+    "lang": "en",
+    "counterparts": [
+     "Flüssigkeit",
+     "Fluidität",
+     "Fluidität"
+    ]
+   },
+   {
+    "term": "Fluktuationen",
+    "lang": "de",
+    "counterparts": [
+     "fluctuations",
+     "Fluktuationen",
+     "Schwankungen"
+    ]
+   },
+   {
+    "term": "Flush",
+    "lang": "en",
+    "counterparts": [
+     "Spülung",
+     "Flush",
+     "Durchspülung"
+    ]
+   },
+   {
+    "term": "Fluss des Vergessens",
+    "lang": "de",
+    "counterparts": [
+     "river of forgetting",
+     "Fluss des Vergessens",
+     "Fluss des Vergessens"
+    ]
+   },
+   {
+    "term": "Fodor",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Foerster",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Fokalisierung",
+    "lang": "de",
+    "counterparts": [
+     "focalization",
+     "Fokalisierung",
+     "Fokalisierung"
+    ]
+   },
+   {
+    "term": "Footnotes2Plato",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Forbidden Knowledge",
+    "lang": "en",
+    "counterparts": [
+     "Verbotenes Wissen",
+     "Forbidden Knowledge",
+     "Verbotenes Wissen"
+    ]
+   },
+   {
+    "term": "Force",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Force of Fragmentation",
+    "lang": "en",
+    "counterparts": [
+     "Kraft der Fragmentierung",
+     "Force of Fragmentation",
+     "Fragmentierungskraft"
+    ]
+   },
+   {
+    "term": "Forced Alliance",
+    "lang": "en",
+    "counterparts": [
+     "Erzwungene Allianz",
+     "Forced Alliance",
+     "Zwangsallianz"
+    ]
+   },
+   {
+    "term": "Foreshadowing-Trigger",
+    "lang": "en",
+    "counterparts": [
+     "Vorankündungs-Trigger",
+     "Foreshadowing-Trigger",
+     "Vorahnungs-Trigger"
+    ]
+   },
+   {
+    "term": "Forgetting",
+    "lang": "en",
+    "counterparts": [
+     "Vergessen",
+     "Vergessenheit",
+     "Forgetting"
+    ]
+   },
+   {
+    "term": "Form der Kohärenz",
+    "lang": "de",
+    "counterparts": [
+     "form of coherence",
+     "Form der Kohärenz",
+     "Kohärenzform"
+    ]
+   },
+   {
+    "term": "Formal Inconsistency Logics",
+    "lang": "en",
+    "counterparts": [
+     "Formale Inkonsistenz-Logiken",
+     "Formal Inconsistency Logics",
+     "Formale Widerspruchslogik"
+    ]
+   },
+   {
+    "term": "Formal Narrative Theory",
+    "lang": "de",
+    "counterparts": [
+     "formale Erzähltheorie",
+     "Formal Narrative Theory",
+     "Formale Narrativtheorie"
+    ]
+   },
+   {
+    "term": "Formalism",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Formalismus",
+    "lang": "de",
+    "counterparts": [
+     "formalism",
+     "Formalismus",
+     "Formalismus"
+    ]
+   },
+   {
+    "term": "Fortress",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Fortress of Fear",
+    "lang": "en",
+    "counterparts": [
+     "Festung der Angst",
+     "Fortress of Fear",
+     "Angstfestung"
+    ]
+   },
+   {
+    "term": "Forum des Dialogs",
+    "lang": "de",
+    "counterparts": [
+     "forum of dialogue",
+     "Forum des Dialogs",
+     "Dialogforum"
+    ]
+   },
+   {
+    "term": "Fossilien",
+    "lang": "de",
+    "counterparts": [
+     "fossils",
+     "Fossilien",
+     "Fossilien"
+    ]
+   },
+   {
+    "term": "Foster",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Foucault",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Foucaults",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Found Footage",
+    "lang": "en",
+    "counterparts": [
+     "Found Footage",
+     "Gefundene Footage",
+     "Found-Footage"
+    ]
+   },
+   {
+    "term": "Foundation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Four",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Four Core Worlds",
+    "lang": "en",
+    "counterparts": [
+     "Vier Kernwelten",
+     "Four Core Worlds",
+     "Vier Hauptwelten"
+    ]
+   }
+  ]
+ }
+}
