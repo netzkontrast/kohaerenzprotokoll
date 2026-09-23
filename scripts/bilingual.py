@@ -293,7 +293,12 @@ def stage_propose(lines: Lines) -> list[dict]:
     batches = [names[i:i + OR_BATCH] for i in range(0, len(names), OR_BATCH)]
     t = time.time()
     with ThreadPoolExecutor(3) as pool:  # free endpoints share an upstream pool
-        recs = list(pool.map(lambda b: openrouter(PROPOSE.format(terms="\n".join(b))), batches))
+        # BILINGUAL_REVERSE=1 walks the batches from the other end, so a second process
+        # can share a slow free endpoint's work; the cache makes the overlap free.
+        order = batches[::-1] if os.environ.get("BILINGUAL_REVERSE") else batches
+        done = dict(zip(map(tuple, order),
+                        pool.map(lambda b: openrouter(PROPOSE.format(terms="\n".join(b))), order)))
+        recs = [done[tuple(b)] for b in batches]
     by_term, unreached, models = {}, 0, Counter()
     for batch, rec in zip(batches, recs):
         if "unreached" in rec:

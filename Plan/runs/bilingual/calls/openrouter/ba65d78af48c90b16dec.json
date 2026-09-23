@@ -1,0 +1,520 @@
+{
+ "model": "nvidia/nemotron-3-super-120b-a12b:free",
+ "answer": {
+  "terms": [
+   {
+    "term": "Datenpakete",
+    "lang": "de",
+    "counterparts": [
+     "data packets"
+    ]
+   },
+   {
+    "term": "Datenraum",
+    "lang": "de",
+    "counterparts": [
+     "data space",
+     "data room"
+    ]
+   },
+   {
+    "term": "Datenschutz-Grundverordnung",
+    "lang": "de",
+    "counterparts": [
+     "General Data Protection Regulation",
+     "GDPR"
+    ]
+   },
+   {
+    "term": "Datenverarbeitungsknoten 7G",
+    "lang": "de",
+    "counterparts": [
+     "data processing node 7G"
+    ]
+   },
+   {
+    "term": "Datenzerfall",
+    "lang": "de",
+    "counterparts": [
+     "data decay"
+    ]
+   },
+   {
+    "term": "David",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DavidAU",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Davidson",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dawkins",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "De",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DeGPT",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DeGPT-Dateien",
+    "lang": "de",
+    "counterparts": [
+     "DeGPT files"
+    ]
+   },
+   {
+    "term": "DePauw",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dead",
+    "lang": "en",
+    "counterparts": [
+     "tot"
+    ]
+   },
+   {
+    "term": "Dead Universe Theory",
+    "lang": "en",
+    "counterparts": [
+     "Theorie des toten Universums"
+    ]
+   },
+   {
+    "term": "Death",
+    "lang": "en",
+    "counterparts": [
+     "Tod"
+    ]
+   },
+   {
+    "term": "Decentralized Identifiers",
+    "lang": "en",
+    "counterparts": [
+     "dezentrale Identifikatoren"
+    ]
+   },
+   {
+    "term": "Decision",
+    "lang": "en",
+    "counterparts": [
+     "Entscheidung"
+    ]
+   },
+   {
+    "term": "Decision-Driver",
+    "lang": "en",
+    "counterparts": [
+     "Entscheidungs-Treiber"
+    ]
+   },
+   {
+    "term": "Decisions",
+    "lang": "en",
+    "counterparts": [
+     "Entscheidungen"
+    ]
+   },
+   {
+    "term": "Decoherence",
+    "lang": "en",
+    "counterparts": [
+     "Dekohärenz"
+    ]
+   },
+   {
+    "term": "Decoupled Semantic Encoding",
+    "lang": "en",
+    "counterparts": [
+     "Entkoppelte semantische Kodierung"
+    ]
+   },
+   {
+    "term": "Deep POV",
+    "lang": "en",
+    "counterparts": [
+     "Tiefe Sichtweise"
+    ]
+   },
+   {
+    "term": "Deep Theory",
+    "lang": "en",
+    "counterparts": [
+     "Tiefe Theorie"
+    ]
+   },
+   {
+    "term": "Defamiliarisierung",
+    "lang": "de",
+    "counterparts": [
+     "defamiliarization"
+    ]
+   },
+   {
+    "term": "Defamiliarization",
+    "lang": "en",
+    "counterparts": [
+     "Defamiliarisierung"
+    ]
+   },
+   {
+    "term": "Default",
+    "lang": "en",
+    "counterparts": [
+     "Standard"
+    ]
+   },
+   {
+    "term": "Default Mode Network",
+    "lang": "en",
+    "counterparts": [
+     "Standardmodus-Netzwerk"
+    ]
+   },
+   {
+    "term": "Defense in Depth",
+    "lang": "en",
+    "counterparts": [
+     "Verteidigung in der Tiefe"
+    ]
+   },
+   {
+    "term": "Defensive Fragments",
+    "lang": "en",
+    "counterparts": [
+     "verteidigende Fragmente"
+    ]
+   },
+   {
+    "term": "Degree",
+    "lang": "en",
+    "counterparts": [
+     "Abschluss",
+     "Grad"
+    ]
+   },
+   {
+    "term": "Dehaene",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dekohärenz",
+    "lang": "de",
+    "counterparts": [
+     "decoherence"
+    ]
+   },
+   {
+    "term": "Delay",
+    "lang": "en",
+    "counterparts": [
+     "Verzögerung"
+    ]
+   },
+   {
+    "term": "Deletion",
+    "lang": "en",
+    "counterparts": [
+     "Löschung"
+    ]
+   },
+   {
+    "term": "Deleuze",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dell",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Delta",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Demiurg",
+    "lang": "de",
+    "counterparts": [
+     "demiurge"
+    ]
+   },
+   {
+    "term": "Demon",
+    "lang": "en",
+    "counterparts": [
+     "Dämon"
+    ]
+   },
+   {
+    "term": "Demonstration des Isolationseinwandes",
+    "lang": "de",
+    "counterparts": [
+     "demonstration of the isolation objection"
+    ]
+   },
+   {
+    "term": "Dennett",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Denouement",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Dependence",
+    "lang": "en",
+    "counterparts": [
+     "Abhängigkeit"
+    ]
+   },
+   {
+    "term": "Dependent Pairs",
+    "lang": "en",
+    "counterparts": [
+     "abhängige Paare"
+    ]
+   },
+   {
+    "term": "Depersonalisation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Depersonalisation/Derealisation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Depersonalisierter ANP",
+    "lang": "de",
+    "counterparts": [
+     "depersonalized ANP"
+    ]
+   },
+   {
+    "term": "Depersonalisierung",
+    "lang": "de",
+    "counterparts": [
+     "depersonalization"
+    ]
+   },
+   {
+    "term": "Depersonalization",
+    "lang": "en",
+    "counterparts": [
+     "Depersonalisation"
+    ]
+   },
+   {
+    "term": "Der Große System-Monitor",
+    "lang": "de",
+    "counterparts": [
+     "The Great System Monitor"
+    ]
+   },
+   {
+    "term": "Der Innere Bunker",
+    "lang": "de",
+    "counterparts": [
+     "The Inner Bunker"
+    ]
+   },
+   {
+    "term": "Der Kollaps",
+    "lang": "de",
+    "counterparts": [
+     "The Collapse"
+    ]
+   },
+   {
+    "term": "Der Möglichkeits-Garten",
+    "lang": "de",
+    "counterparts": [
+     "The Garden of Possibilities"
+    ]
+   },
+   {
+    "term": "Der Riss im System",
+    "lang": "de",
+    "counterparts": [
+     "The Crack in the System"
+    ]
+   },
+   {
+    "term": "Derealisation",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Derealisationserleben",
+    "lang": "de",
+    "counterparts": [
+     "derealisation experience"
+    ]
+   },
+   {
+    "term": "Derealization",
+    "lang": "en",
+    "counterparts": [
+     "Derealisation"
+    ]
+   },
+   {
+    "term": "Derealization Disorder",
+    "lang": "en",
+    "counterparts": [
+     "Derealisationsstörung"
+    ]
+   },
+   {
+    "term": "Derivate-2306",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Descartes",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Determinismus",
+    "lang": "de",
+    "counterparts": [
+     "determinism"
+    ]
+   },
+   {
+    "term": "Deterministic",
+    "lang": "en",
+    "counterparts": [
+     "deterministisch"
+    ]
+   },
+   {
+    "term": "Deterministische Ausführungsebene",
+    "lang": "de",
+    "counterparts": [
+     "deterministic execution level"
+    ]
+   },
+   {
+    "term": "Deterministisches Chaos",
+    "lang": "de",
+    "counterparts": [
+     "deterministic chaos"
+    ]
+   },
+   {
+    "term": "Deus",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Deus Ex Machina",
+    "lang": "both",
+    "counterparts": []
+   },
+   {
+    "term": "Deutsche Rentenversicherung",
+    "lang": "de",
+    "counterparts": [
+     "German Pension Insurance"
+    ]
+   },
+   {
+    "term": "Deutscher Psychologinnen und Psychologen",
+    "lang": "de",
+    "counterparts": [
+     "German psychologists"
+    ]
+   },
+   {
+    "term": "Deutschland",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Developmental Trauma",
+    "lang": "en",
+    "counterparts": [
+     "entwicklungsbedingtes Trauma"
+    ]
+   },
+   {
+    "term": "Devin Bostick",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Dezentrale Autonome Organisationen",
+    "lang": "de",
+    "counterparts": [
+     "decentralized autonomous organizations"
+    ]
+   },
+   {
+    "term": "Dezentrale Identitätssysteme",
+    "lang": "de",
+    "counterparts": [
+     "decentralized identity systems"
+    ]
+   },
+   {
+    "term": "DiFL",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "DiVA",
+    "lang": "name",
+    "counterparts": []
+   },
+   {
+    "term": "Diagnoseprotokoll",
+    "lang": "de",
+    "counterparts": [
+     "diagnostic protocol"
+    ]
+   },
+   {
+    "term": "Diagnosesysteme",
+    "lang": "de",
+    "counterparts": [
+     "diagnostic systems"
+    ]
+   },
+   {
+    "term": "Diagnosezyklus",
+    "lang": "de",
+    "counterparts": [
+     "diagnostic cycle"
+    ]
+   },
+   {
+    "term": "Diagonal",
+    "lang": "both",
+    "counterparts": []
+   }
+  ]
+ }
+}
