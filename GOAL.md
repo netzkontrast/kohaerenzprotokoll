@@ -3,6 +3,8 @@
 > **Stand:** 2026-09-23 · **Verfasst von:** einer vorherigen Claude-Sitzung, die den Kanon, die Novel-Skills und den Drive-Bestand gesichtet hat.
 > **Autor:** Michael (netzkontrast). Er denkt in GSD und arbeitet spec-getrieben.
 > **Sprache:** Wiki-Inhalte, Fragen und Erklärungen auf Deutsch. Code, Identifier und Schemata auf Englisch. Dramatica-Fachbegriffe bleiben englisch (Storyform, Throughline, Storypoint …).
+>
+> **Überarbeitet 2026-09-23** mit dem, was das Repository zu diesem Zeitpunkt selbst belegt. Der Auftrag des Autors steht unverändert. Ergänzungen stehen in Blöcken **„Ist-Stand 2026-09-23“**, und jede Zahl darin trägt einen `<!--state:…-->`-Marker, den `python3 scripts/state.py --prose` prüft. Wo der Auftrag und das Repository sich widersprechen, steht das in **Anhang C** und nicht stillschweigend im Text.
 
 ---
 
@@ -15,6 +17,15 @@
 5. Es muss wissen, **wie wir den Plot designen** (Kapitel 5 dieses Dokuments), und dieses Wissen als prüfbare Regeln und Werkzeuge einsetzen, nicht nur als Text.
 
 Kein vorheriger Kontext überlebt. Alles, was du weißt, musst du aus den Quellen ableiten. Das Kanon-Briefing in **Anhang A** ist eine Starthilfe aus einer früheren Sitzung. Es hat die niedrigste Autorität unter den kanonischen Quellen und ist selbst zu verifizieren (Tier `M`, siehe §3.2).
+
+> **Ist-Stand 2026-09-23 — du fängst nicht bei null an.** Seit dem Reset (Entscheidung `Plan/decisions/001-reset-to-two-layers.md`, 2026-09-16) baut dieses Repository ein Begriffs-Wiki aus den Drive-Quellen, mit denselben Grundsätzen, die dieser Auftrag verlangt: Provenienz auf jeder Aussage, kein stilles Glätten, Konflikte als eigene Records, abgeleitetes Wissen markiert. Es gibt:
+>
+> - `Sources/`: 617 <!--state:sources.total--> Drive-Dokumente im Manifest, 346 <!--state:sources.landed--> als Markdown gelandet und dedupliziert.
+> - `Wiki/`: 56 <!--state:wiki.pages--> Begriffsseiten, 5 <!--state:wiki.conflicts--> Konflikt-Records und 4 <!--state:wiki.questions--> Fragen-Seiten, jede Aussage mit Zitat und Zeilennummer.
+> - Einen abgeleiteten Knowledge Graph (`scripts/graph.py`) und GraphRAG-Retrieval (`scripts/graphrag.py`), die nur zurückgeben, was die Seiten belegen.
+> - Eine DSPy-Werkzeugkette, die bisher kein Modell aufgerufen hat.
+>
+> **Was fehlt, ist der Roman selbst:** Kanon, Manuskript und NCP liegen geparkt unter `Legacy/` (§2) und sind in keinen Graph eingegangen. Die Einheit des bisherigen Wikis ist der *Begriff*. Dieser Auftrag verlangt zusätzlich *Kapitel*, *Locks* und *Plot*. Genau diesen Fall nennt Entscheidung 001 als Grund, sie zu revidieren: „if most questions are about chapters and plot rather than terms, the unit is wrong“.
 
 ---
 
@@ -44,6 +55,16 @@ Kein vorheriger Kontext überlebt. Alles, was du weißt, musst du aus den Quelle
    - Biete immer einen Freitext-Weg an. Der Autor antwortet oft mit vier Worten, die die richtige Antwort außerhalb deines Sets sind („AEGIS ist auch ein ANP“). Lies eine solche Kurzantwort als Substanz und entfalte sie.
    - Nicht blockierende Fragen sammelst du in der Review-Queue (§4.6).
 
+> **Ist-Stand 2026-09-23 — Regeln, die dieses Repository schon hat und die hier mitgelten.** Jede ist mit Evidenz in `PRINCIPLES.md` begründet. Wo eine Regel oben enger oder weiter ist, gilt die engere.
+>
+> 10. **Zitieren heißt fragen, nicht tippen (P12, P26).** Eine Zeilennummer holst du dir mit `python3 scripts/read.py <slug> --find "<Wortlaut>"`, und `python3 scripts/quotes.py` prüft jedes Zitat gegen seine Zeile. Der Grund ist gemessen: Zitate waren sinngemäß richtig und im Wortlaut falsch („das Management“ statt „dem Management“). Das gilt auch für die ≤ 300-Zeichen-Zitate in §1.2.
+> 11. **Lesarten werden nie zu einer Definition verschmolzen (P13).** Wo Quellen sich widersprechen, hält die Seite beide Lesarten mit Quelle fest und hört dort auf.
+> 12. **Nicht jeder scheinbare Widerspruch ist einer (P14).** Vor jeder Konfliktmeldung prüfst du, ob es sich um einen der bekannten Fälle „by design“ handelt. Anhang B17 ist genau so ein Test.
+> 13. **Ein Modell schlägt vor, es entscheidet nie, und nichts verlässt den Container ohne Ja.** Jeder Modellaufruf läuft über `scripts/lmrun.py`: Cache aus, Protokoll pro Aufruf, und ohne `approval=` wird ein echtes Modell verweigert. Korpustext an OpenRouter oder TypeSafe braucht jeweils eine eigene Zustimmung des Autors (`NOW.md`).
+> 14. **Zahlen werden gemessen, nicht gespeichert (P24, `scripts/state.py`).** Jede Zahl in einer Markdown-Datei trägt einen `<!--state:…-->`-Marker. Wie es um einen Arbeitsschritt steht, wird aus den Artefakten abgeleitet und nicht angehakt.
+> 15. **Ein Commit pro Wiki-Seite, und die Nachricht nennt das Quelldokument** (`CLAUDE.md`, *Committing a wiki page*).
+> 16. **Jeder Prüfer beweist, dass er scheitern kann.** `python3 scripts/selftests.py` führt jede Suite aus. Eine Prüfung, die bei fehlenden Daten grün wird, ist der teuerste Fehler dieses Projekts gewesen: `coverage()` lieferte 1,0 ohne Gold-Daten.
+
 ---
 
 ## 2 · Quellen: wo das Wissen liegt
@@ -66,6 +87,21 @@ Mach zuerst eine Inventur. Welche Zugänge hast du tatsächlich (Drive-MCP, GitH
 - Für jeden Ingest schreibst du ein Manifest und dedupst per md5 und Normalisierungs-Diff.
 - Viele Docs heißen `*.md`: Das ist Markdown, das in ein Google Doc eingefügt wurde.
 - Das Album-Projekt „The Agency System“ (Suno-Lyrics, 13 Konzeptalben) liegt im selben Ordner. Klassifiziere es als eigenes Projekt (Tier `X`). Es dient nur als tonale Referenz und ist nie Kanon.
+
+> **Ist-Stand 2026-09-23 — wo diese Quellen im Repository tatsächlich liegen.**
+>
+> | Quelle | Ort im Repository | Stand |
+> |---|---|---|
+> | Drive-Bestand | `Sources/manifest.jsonl`, Volltexte in `Sources/drive/<slug>.md` | 617 <!--state:sources.total--> Zeilen, 346 <!--state:sources.landed--> gelandet, 63 <!--state:sources.folded--> Duplikat-Exporte nach `Sources/duplicates.jsonl` ausgelagert. Der Export-Weg ist gebaut (`scripts/sources.py next` / `land`), die md5/Normalisierungs-Dedupe auch (`scripts/dedupe.py`, `scripts/duplicates.py`). |
+> | **Nicht gelandet:** die maßgeblichen Stände 2026-05/06 | stehen im Manifest, fehlen in `Sources/drive/` | Die Kategorie `plot-outline` (247 Zeilen) ist mit dem Roman zurückgestellt worden. Darin liegen das Kapitel-Kompendium 2026-05-31, der strukturierte Outline 2026-05-18 und die Plot-Konkretisierung 13 Ideen/F1 2026-06-10. Auch `storyform-und-outline_2026-06-10`, `kernwelten-vollstaendig`, `welt-sensorik-drafting`, `anteile-profile-sprach-dna` (alle 2026-06-10), die Sprach-DNA 2026-05-13 und der Lock-In-Status 2026-05-07 sind nicht gelandet. Gelandet sind das konsolidierte Konzept 2026-05-08, `begriffe-und-konzepte` und `philosophie-im-detail` (2026-06-10). |
+> | Kanon-Quartett 2026-06-10 | `Legacy/Canon/` (sechs Dokumente plus `kap0-v1-annotiert.md`) | Am 2026-06-12 aus Drive importiert. Die Canon-README nennt `storyform-und-outline` „Normative … Wins on conflict“. Entscheidung 001 (2026-09-16) hat `Canon/` den normativen Status entzogen und es geparkt: siehe Anhang B19. |
+> | Manuskript | `Legacy/Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/chapters/` | 41 Kapiteldateien 00–40 plus README, Frontmatter `type: novel.chapter`. Jede Datei hat vor der Prosa die Sektionen `Summary`, `Outline`, `Beats` und `Locks`, also einen maschinenlesbaren Kopf pro Kapitel. Umfang mit Kopf: Kap 0 rund 4.500 Wörter, Kap 26 und 27 rund 1.200, alle übrigen 1.800–2.700. |
+> | NCP | `Legacy/Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/ncp.json`, `ncp-b.json` | `storyform.dynamics` je 5 Einträge; `players`, `storybeats` und `moments` in beiden leer. Bestätigt Anhang A. |
+> | Drafting-Plan | `Legacy/Plan/drafting/` | `chapter-enrichment-masterplan_2026-09-11`, Enrichment-Packets 01–05, 14–32 und 33–39, Akt-Pläne und Arc-Optimierungen für Akt I–III, `decision-log_2026-09-11` und `decision-log_akt2-3_2026-09-11`, `written-chapters-audit`, `drafting-brief.md`. |
+> | Sessions | `Legacy/Plan/sessions/` | Nur `2026-09-11-learnings.md`. Das Session-Protokoll 2026-09-14 ist im Repository nicht als Datei vorhanden. Das neueste `index_date` im Manifest ist 2026-09-14. |
+> | Novel-Skills | `Legacy/claude-config/skills/`: `novel-architect`, `ncp-author`, `dramatica`, `lit-critic`, `wiki-maintenance` | `canon-meta.md`, `open-questions.md`, `rules.json`, `draft_gate.py` und `prose_audit.py` liegen **nicht** im Repository. `chapter-briefing-architect`, `chapter-draft-engine`, `dramatica-theory`, `dramatica-vocabulary`, `ncp-author` und `novel-architect` sind in der Skill-Umgebung der Sitzung verfügbar und von dort zu lesen. |
+> | Entscheidungs-Logs 2026-05-30, Kap-40-Lesart-Dualität | weder im Manifest noch im Repository | Wie oben gesagt: Export vom Autor erbitten. Das sind T0/T1-Quellen. |
+> | `Dual-Kernel`, `agency` | nicht im Zugriff dieser Sitzung geprüft | In der nächsten Sitzung mit `list_repos` / `add_repo` prüfen. |
 
 ---
 
@@ -99,6 +135,11 @@ Mach zuerst eine Inventur. Welche Zugänge hast du tatsächlich (Drive-MCP, GitH
 
 **Wichtig:** Datums-Metadaten aus Drive (modifiedTime) sind nicht das Kanon-Datum. Maßgeblich ist das „Stand:“-Datum im Dokumentkopf. Eine Mehrfach-Kopie mit neuerem modifiedTime ist nicht neuer im Inhalt.
 
+> **Ist-Stand 2026-09-23 — zwei Dinge, die die Vorrangregel treffen.**
+>
+> 1. **Das Manifest hat schon ein Feld `tier`, und es misst etwas anderes.** Es kennt nur `T2-theory` und `T3-work`: die *Rolle* eines Dokuments (Recherche vs. Arbeitsstand), nicht seinen *Vorrang*. Überschreib dieses Feld nicht. Führ den Vorrang aus §3.2 als eigenes Feld (etwa `precedence`) und leite es her: aus dem „Stand:“-Datum im Kopf, aus Lock-Markern und aus Titeln wie „Source-of-Truth“. Die Herleitung hält ihre Regel fest, so wie `scripts/dedupe.py` seine Entscheidung pro Gruppe in `Plan/runs/dedupe.json` festhält.
+> 2. **Das Duplikat-Problem ist gemessen, nicht nur vermutet.** Drive hält bis zu fünf Exporte desselben Dokuments. Nur 2 Paare waren byteidentisch, eine Prüfsumme findet also fast nichts. Welcher Export überlebt, entscheidet eine gemessene Regel: zuerst die Quell-URLs, dann Export-Artefakte, dann der Name. Der gdoc-Export ist länger und enthält weniger: seine zusätzlichen Wörter sind `end list`-Marker, seine fehlenden Wörter die Fußnoten-URLs. Deine md5-Dedupe aus §2 ist also nur der erste Filter.
+
 ---
 
 ## 4 · Architektur (Soll)
@@ -127,6 +168,23 @@ tools/kpkg/           # Python-Paket + CLI `kp`
 tests/                # pytest, inkl. Konflikt-Fixtures (Anhang B) und Gold-Q&A (§7)
 SPEC.md               # Phase 0
 ```
+
+> **Ist-Stand 2026-09-23 — was von diesem Soll schon existiert, unter anderem Namen.** Die Pfade oben beschreiben das Ziel. Bevor ein zweites System daneben entsteht, gilt: Ein neuer Ort muss sich verdienen (P20, zwei Schichten, bis eine dritte sich bewährt). Ob `kg/` und `wiki/` neu entstehen oder `Sources/` und `Wiki/` wachsen, ist Autor-Entscheidung C3 in Anhang C.
+>
+> | Soll | Existiert als | Deckt ab |
+> |---|---|---|
+> | `kg/sources/manifest.jsonl`, `kg/raw/` | `Sources/manifest.jsonl`, `Sources/drive/*.md`, `Sources/duplicates.jsonl` | Katalog, Checksummen, Dedupe. Legacy-Kanon und Manuskript fehlen. |
+> | `claims.jsonl` | `Sources/terms/*.md` (Census), `Sources/notes/*.md` (Notes mit `^[Lnn]`-Zitaten) für 6 <!--state:documents.with_census--> Dokumente | Aussagen mit Zitat und Zeile. Noch ohne Prädikat-Vokabular. |
+> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 71 <!--state:graph.nodes--> Knoten, 438 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
+> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 226 <!--state:proposals.entities--> Entitäten aus Leselisten; 45 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
+> | `conflicts.jsonl` | `Wiki/conflicts/c1…c5` (Entscheidung 003: ein Record pro Streitfall, append-only) | 5 <!--state:wiki.conflicts--> Records. Kein Detektor, bisher jeder von einer Person gelesen. |
+> | `questions.jsonl` | `Wiki/questions/q1…q4`, dazu jede `## Open`-Sektion einer Seite | 4 <!--state:wiki.questions--> Fragen-Seiten und die offenen Aussagen, die `relations.py --open` erntet. |
+> | `wiki/konzepte/` | `Wiki/candidates/*.md` | 56 <!--state:wiki.pages--> Seiten, noch keine promoviert (`Wiki/terms/` existiert nicht). |
+> | `kp ask` | `python3 scripts/graphrag.py ask "…"` | Gibt nur belegte Zitate zurück, nie Prosa. `--answer` lässt ein Modell nur Belegnummern wählen. |
+> | Provenienz-Prüfung | `scripts/quotes.py`, `scripts/read.py --find`, `scripts/selftest.py` | 17 <!--state:quotes.unresolved--> Zitate lösen nicht auf, alle älter als der Prüfer. |
+> | `kp refresh`, Inkrementalität | `scripts/state.py` (abgeleitete Zahlen), `Plan/runs/<slug>/reconcile.json` (`state_before` → `state_after`), `scripts/account.py order` | Ob ein Schritt erledigt ist, ist eine Messung. Nicht sha256-gesteuert pro Claim. |
+> | Modellaufrufe, Evaluation | `scripts/lmrun.py`, `scripts/baseline.py`, `Plan/runs/baselines.jsonl`, `scripts/lm_fixture.py` | Jeder Aufruf protokolliert. Jede Bewertung gegen eine feste Untergrenze. Offline-Probeläufe ohne Schlüssel. |
+> | `SQLite FTS5` | `qmd` (BM25, Vektoren, Reranking; `.qmd/index.yml`) | Volltextsuche über das Korpus. Ein Suchtreffer ist nie eine Zahl. |
 
 ### 4.1 Pipeline
 
@@ -216,6 +274,13 @@ status: open|auto_resolved|author_resolved|accepted_as_intended_riss
 
 **Abnahme:** Deine Erkennung muss **alle Fixtures in Anhang B** finden. Sie sind Regressionstests.
 
+> **Ist-Stand 2026-09-23 — was die bisherige Erfahrung über Konflikterkennung sagt.** `CLAUDE.md` legt fest: „Conflict detection is never mechanised“. Ein ratendes Programm hat einen falschen Konflikt `Zero-Trust` erzeugt. Diese Methode verträgt sich damit, wenn die Grenze so gezogen wird:
+>
+> - **Schritt 1 und 3 sind Programme (P1).** Vergleich normalisierter Werte pro Prädikat und Erfüllbarkeit von Lock-Paaren sind entscheidbar.
+> - **Schritt 2 ist Vorschlag, nie Record.** Die Modell-Adjudikation schreibt Kandidaten in eine eigene Datei, über `lmrun.py` und mit Zitaten, die Code nachgeschlagen hat. Ein Conflict-Record entsteht erst, wenn eine Person ihn gelesen hat.
+> - **Vor jeder Meldung läuft der Filter „by design“ (P14).** Ohne ihn meldet ein Detektor dieselben erwünschten Fälle für immer, und der Autor lernt, ihn zu ignorieren. Die gewollten Risse aus §1.6 und B17 gehören in diesen Filter.
+> - **Ein Konflikt hat einen Gegenstand und genau einen Record** (Entscheidung 003). In einem Probelauf waren 2 von 7 Konflikten dasselbe Argument, von zwei Begriffen aus erreicht.
+
 ### 4.5 Selbstfragen: generieren und beantworten
 
 Das Herzstück. Ein Loop, der Fragen erzeugt, beantwortet, klassifiziert und so lange weiterläuft, bis er gesättigt ist.
@@ -249,6 +314,10 @@ Antworten erzeugen neue Claims mit Status `[D]`. Diese Claims können wieder Fra
 Loggen, was offen bleibt.
 
 **Qualität vor Menge.** Eine Frage, deren Antwort keine Schreibentscheidung verändert, ist Rauschen. Priorisiere nach „blockiert Encoding oder Drafting welches Kapitels?“.
+
+> **Ist-Stand 2026-09-23 — Startmaterial für Generator 1.** Die Begriffsseiten tragen 43 `## Open`-Sektionen mit dem, was eine Quelle nicht geklärt hat. `python3 scripts/relations.py --open` erntet sie. Die vier Fragen-Seiten Q1–Q4 sind nach genau dem Muster gebaut, das §4.5 will: Auslöser, betroffene Seiten, „was würde es beantworten“. Q1 (Guardians ↔ AEGIS) und Q3 (Anzahl Kernwelten/Alters) berühren Anhang B3 und B2 direkt.
+>
+> Die Antwortklassen passen auf P10: `FOUND` ist `ANSWERED_K`, `INFERRED` ist `DERIVED_D`, `CONFLICTING` ist `CONTESTED`, `MISSING` ist `OPEN_AUTHOR`. Die erste, dritte und vierte Klasse sind entscheidbar.
 
 ### 4.6 Wiki (Ausgabe)
 
@@ -472,6 +541,21 @@ Die Erinnerung verzeichnet außerdem einen „Foreground-Motor Hybrid H“ `[M]`
 
 Nach jeder Phase: Commit, kurzer Statusbericht an den Autor, ein Eintrag in `learnings.md` (Datum, Trigger, Lesson, Action). Die Action zeigt auf eine konkrete Datei.
 
+> **Ist-Stand 2026-09-23 — wo die Phasen schon stehen.**
+>
+> | Phase | Stand |
+> |---|---|
+> | 0 · Recon und Spec | Zugangs-Inventur teilweise erledigt (§2 oben). Offen: `Dual-Kernel`, `agency`, die Entscheidungs-Logs, die vier Entscheidungen in Anhang C. `SPEC.md` existiert nicht. |
+> | 1 · Ingest und Katalog | Für den Drive-Bestand weitgehend erledigt: 346 <!--state:sources.landed--> von 617 <!--state:sources.total--> gelandet, dedupliziert. **Es fehlen genau die T0–T2-Stände** (`plot-outline` und fünf Dokumente von 2026-06-10) sowie Legacy-Kanon, Manuskript und NCP. Das ist der erste Arbeitsschritt, sobald C1 entschieden ist. |
+> | 2 · Claims und Entitäten | Für 6 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
+> | 3 · Konflikte | 5 <!--state:wiki.conflicts--> Records von Hand. Kein Detektor, keine Fixture aus Anhang B getestet. |
+> | 4 · Plot-Modell | Nicht begonnen. Die Kapitel-Köpfe im Manuskript (`Outline`, `Beats`, `Locks`) sind der naheliegende erste Datensatz. |
+> | 5 · Selbstfragen | Fragen-Seiten und `## Open`-Sektionen existieren, kein Loop. |
+> | 6 · Wiki und CLI | Begriffs-Wiki existiert. Kapitel-Dossiers und `kp` existieren nicht, `graphrag.py ask` deckt einen Teil von `kp ask` ab. |
+> | 7 · Evaluation | `graphrag.py bench`: 9 <!--state:graphrag.cases--> Fälle, Recall@8 58 <!--state:graphrag.recall_ppr-->%. Keine Gold-Q&A. |
+>
+> Die „learnings.md“ aus §6 gibt es als `Plan/learnings/`, eine Datei pro Schritt. `NOW.md` ist die Übergabe zwischen Sitzungen.
+
 ---
 
 ## 7 · Abnahmekriterien
@@ -490,6 +574,7 @@ Nach jeder Phase: Commit, kurzer Statusbericht an den Autor, ein Eintrag in `lea
 5. **`kp check`** meldet bei einem präparierten Testtext alle eingebauten Verstöße: Alter-Name in Kap 5, DKT-Begriff in Kap 3, Wärme in Kap 1, Juna als Subjekt, gelabelte Stimme. Er meldet keinen Befund bei einer gelockten Kap-1-Passage.
 6. **Inkrementalität:** Ändert sich eine Quelle, werden nur die abhängigen Claims, Konflikte und Seiten neu erzeugt. Das zeigst du mit einem Test.
 7. **Review-Queue:** Jeder Eintrag ist in einem Satz entscheidbar. Optionen stehen mit Konsequenzen da. Blockierende Einträge stehen oben.
+8. **Ist-Stand 2026-09-23, ergänzt:** `python3 scripts/selftests.py` bleibt grün, und jeder neue Detektor, jede neue Regel aus §5.4 und jede Metrik bringt einen Fall mit, an dem sie scheitern muss. Eine Prüfung, die nie rot gesehen wurde, zählt nicht als Abnahme.
 
 ---
 
@@ -553,6 +638,17 @@ Die Kernwelten sind Akt-Marker, keine Geographie und keine Guardian-Reiche. Das 
 - Naht: Kap 0 endet auf „Ich falle… in unzählige Scherben…“, dann folgt ein harter Schnitt auf den Erstsatz.
 - `[M]`: Schluss-Triade „Es sind einundzwanzig Grad. / Es ist still. / Ich schlafe.“ Arbeitsstand angeblich v0.5 mit etwa 3.700 Wörtern und einer wiederkehrenden Figur **Doran** (Seismograph der Glättung; Kanonisierung offen). Beides ist gegen Repo und Drive zu prüfen.
 
+> **Ist-Stand 2026-09-23 — gegen `Legacy/Manuscript/works/the-agency-system/works/hard-scifi-cosmic-horror-psychological-thriller/kohärenz-protokoll/chapters/01-erwachen-in-der-konstrukt-stadt.md` geprüft.**
+>
+> - Erstsatz: bestätigt (Prosa-Zeile 50).
+> - „EINHEIT 734“: in der Prosa genau einmal (Z. 146, „SEQUENZ ABGESCHLOSSEN. EINHEIT 734 ENTLASTET.“), dazu einmal im `Locks`-Kopf.
+> - Silas-Halbsatz: wörtlich vorhanden (Z. 170).
+> - Wärme: in der Prosa nicht vorhanden, nur im Lock-Text.
+> - Schluss-Triade: bestätigt, die Datei endet damit.
+> - Die Kap-0-Naht „Ich falle… in unzählige Scherben…“: bestätigt.
+> - Umfang: rund 2.600 Wörter mit Kopf, also nicht die 3.700 aus dem Memory.
+> - **Doran** kommt in 19 von 41 Kapiteldateien vor. Die Kanonisierung ist offen, die Figur aber keine Randerscheinung mehr.
+
 **Anker-Timeline (Welt-Sensorik 2026-06-10).**
 - Telefon-Stille: Kap 7 → 24 → 30 → 39 eingelöst
 - 734: Kap 1 → 2 → 10 → 25, Fund in Kap 22
@@ -571,6 +667,7 @@ Die Kernwelten sind Akt-Marker, keine Geographie und keine Guardian-Reiche. Das 
 
 **Manuskript- und Prozessstand (Sessionprotokoll 2026-09-14).**
 - Alle 41 Kapiteldateien existieren. Viele sind dünn: Kap 25 hatte 1.137 Wörter und hat nach der Vertiefung 2.688, Kap 30 hat 1.141.
+- **Ist-Stand 2026-09-23:** Kap 30 hat inzwischen rund 2.500 Wörter (mit Kopf), die Angabe oben ist überholt. Die dünnsten Kapitel sind jetzt **Kap 26 und Kap 27** mit je rund 1.200 Wörtern. Alle anderen außer Kap 0 liegen bei 1.800–2.700.
 - Es gibt einen wöchentlichen Vertiefungslauf (schwächstes Kapitel zuerst, Branch `claude/kap-*`, Packet → Readiness Gate → Self-Review → NCP-Drift-Check).
 - Beide NCP-Dateien sind in players, storybeats und moments leer. Die Pipeline lief also rückwärts: Telling vor Encoding.
 
@@ -608,7 +705,49 @@ Diese Konflikte hat die Vorsitzung beim Lesen gefunden. Dein Detektor muss sie *
 | B16 | Precedence selbst: Projekt-Anleitung „Konzept 05-08 autoritativ“ vs. Quartett „neuere Quelle gewinnt“ · `canon-meta` sagt „Skill-Files > alles“, ist aber älter | | Meta-Konflikt. Tier-Tabelle §3.2 dem Autor zur Bestätigung vorlegen. |
 | B17 | Kap-40-Ende: „Kein Reset/Race-Condition-Ende“ (Hard-Constraint) vs. „Reset als zulässige Leser-Projektion“ (Kap-40-Lesart-Dualität 05-30) | | *Kein* echter Konflikt, sondern Präzisierung. Der Detektor soll ihn als `resolved_by_refinement` erkennen und nicht als offen melden. Das testet die Präzision. |
 | B18 | Mnemosyne „spricht metaphorisch“ (Kap 10, Versuchung) vs. KW1-Metaphernverbot · Kap 34 „Mosaik-Herz“ als Ort vs. Titel „Zwei Arten der Kohärenz“ · Kap 16 „Diktatur der Komplexität“ vs. „… der physikalischen Zeit“ · Kernwelten-Doc Inhaltsverzeichnis §12 vs. Body §11 | | `minor`/`cosmetic`. Sammeln, nicht eskalieren. |
+| B19 | *Ergänzt 2026-09-23.* Status des Kanons selbst: `Legacy/Canon/README.md` (Import 2026-06-12) nennt `storyform-und-outline_2026-06-10` „Normative … Wins on conflict“ vs. Entscheidung 001 (2026-09-16, Autor): „`Canon/` loses its normative status and is parked“ vs. dieser Auftrag (2026-09-23): das Quartett ist T1 | README, `Plan/decisions/001`, §3.2 | Meta-Konflikt wie B16. Die jüngste Autor-Entscheidung ist dieser Auftrag. Er revidiert 001 für den Kanon ausdrücklich über den Zweck, aber nicht über den Ort: siehe C1. |
+| B20 | *Ergänzt 2026-09-23.* Kapitel-Kopf vs. Prosa in derselben Datei: Jede Kapiteldatei trägt `Locks` im Kopf und Prosa darunter. Weicht die Prosa vom eigenen Kopf ab, ist das ein `RULE_VS_CONTENT` innerhalb *einer* Datei. Kap 1 hält alle geprüften Locks ein und ist damit die **Negativ-Fixture**: Der Detektor darf hier nichts melden (vgl. §7.5). | Manuskript | Präzisionstest wie B17. |
 
 ---
 
-*Ende des Auftrags. Beginne mit Phase 0. Die erste sichtbare Ausgabe an den Autor ist ein Satz, was du jetzt tust, dann die Zugangs-Inventur.*
+## Anhang C · Wo dieser Auftrag und das Repository sich widersprechen (ergänzt 2026-09-23)
+
+Das sind Autor-Entscheidungen, keine Befunde. Sie gehören in die erste Review-Queue von Phase 0. Jede steht mit Mechanik und Konsequenz da, wie §1.9 es verlangt.
+
+**C1 · Die Romanquellen liegen im Regal.** `CLAUDE.md` definiert `Legacy/` als Ablage, die nichts liest: „If it starts being referenced, it has become a layer again.“ §2 liest `Manuscript/`, `Canon/` und NCP als T1–T3.
+- *Option A:* Kanon, Manuskript und NCP landen über `Sources/` wie jedes andere Dokument. Sie bekommen Manifest-Zeilen und die Kategorie `canon` bzw. `manuscript`. Pro: eine Pipeline, ein Provenienz-Weg, `quotes.py` greift sofort. Contra: das Manuskript wird zu „Quelle“, obwohl es T3 mit Sonderrolle ist.
+- *Option B:* `Legacy/Manuscript` und `Legacy/Canon` werden wieder eigene Verzeichnisse auf oberster Ebene, nur lesend. Pro: näher an §2. Contra: eine dritte Schicht, deren Wiederkehr Entscheidung 001 an eine Bedingung geknüpft hat.
+- Entscheidung 001 hat Option A vorgesehen: „it comes back as sources rather than as a layer“.
+
+**C2 · Konflikterkennung.** §4.4 Schritt 2 lässt ein Modell adjudizieren, und `CLAUDE.md` verbietet mechanisierte Konflikterkennung. Vorschlag: der Schnitt aus dem Ist-Stand-Block in §4.4 (Programm für 1 und 3, Modell nur als Kandidaten-Datei). Zu bestätigen oder zu ersetzen.
+
+**C3 · Verzeichnisaufbau.** Für `kg/`, `wiki/`, `tools/kpkg/` und `kp` gibt es zwei Wege:
+- *Neu daneben:* sauber nach Spec, aber zwei Wikis und zwei Graphen, und dieselbe Tatsache steht an zwei Orten.
+- *Das Bestehende wächst:* `Sources/` bekommt Kanon und Manuskript, `Wiki/` bekommt `kapitel/`, `locks/`, `oq/` neben `candidates/`, `scripts/` bekommt die `kp`-Befehle, und `graph.py` bekommt die Knotentypen aus §4.3. Die Tabelle in §4 zeigt, wie viel davon schon trägt.
+
+**C4 · Status-Tags und Tiers.** `[K] [V] [S] [L]` benutzt der Kanon bereits im Text (Quartett-Kopf). Die Seiten dieses Wikis benutzen sie nicht, sie tragen Lesarten mit Quelle und Datum. P4 sagt: kein Feld ohne Instanzen. Die Instanzen gibt es, sobald C1 den Kanon hereinholt. Dann werden die Tags als Feld übernommen, und `[D]` und `[M]` kommen dazu. Offen ist nur, ob die bestehenden 56 Seiten nachträglich getaggt werden.
+
+---
+
+## Anhang D · Werkzeuge, die es schon gibt (ergänzt 2026-09-23)
+
+```bash
+python3 scripts/selftests.py                      # jede Prüfsuite, eine Zeile pro Suite
+python3 scripts/state.py [--prose]                # jede Zahl gemessen; veraltete Prosa-Zahl → Fehler
+python3 scripts/sources.py next|land|check        # Drive → Sources/drive/, Manifest, Prüfsummen
+python3 scripts/read.py <slug> --find "<Wortlaut>"   # Zitat → ^[Lnn], oder Verweigerung mit nächster Zeile
+python3 scripts/quotes.py                         # jedes Zitat gegen seine Zeile
+python3 scripts/reconcile.py <slug>               # Census gegen Wiki-Index, per Nachschlagen
+python3 scripts/judgements.py                     # aufgezeichnete Entscheidungen gegen den Code abspielen
+python3 scripts/graph.py [--around X --mermaid | --graphml | --proposals]
+python3 scripts/graphrag.py ask "…" [--gloss] | bench
+python3 scripts/entities.py verify|missing|search|doc
+python3 scripts/pairs.py score                    # „ein Begriff oder zwei“ gegen fold()
+.venv-dspy/bin/python scripts/lmrun.py            # der einzige Weg zu einem Modell
+```
+
+`CLAUDE.md` beschreibt jedes Werkzeug. Den Katalog der guten, noch nicht gebauten Ideen führt `PRINCIPLES.md`. Die neun DSPy-Repositories, aus denen die Werkzeugkette portiert ist, sind in `Plan/concept/dspy-toolchain_2026-09-23.md` ausgewertet.
+
+---
+
+*Ende des Auftrags. Beginne mit Phase 0. Die erste sichtbare Ausgabe an den Autor ist ein Satz, was du jetzt tust, dann die Zugangs-Inventur. Ergänzt 2026-09-23: Die Inventur beginnt mit §2 „Ist-Stand“ und Anhang C, nicht bei null.*
