@@ -96,6 +96,29 @@ prose, because prose over two sources is a merge (P13). Whether an answer should
 ever be more than chosen quotations — a framing sentence, a summary marked as
 the model's — is the author's to decide, and nothing builds it until then.
 
+**Where `GOAL.md` and this repository's rules disagree — the author's to settle
+before Phase 0 of the goal starts.** `GOAL.md` is now the project's general
+goal. Four places where it and the working agreement cannot both hold as
+written:
+
+- **The novel's sources are on the shelf.** The goal reads `Manuscript/`,
+  `Canon/` and `ncp.json`/`ncp-b.json` as tier T1–T3 sources. Here all three sit
+  under `Legacy/`, which `CLAUDE.md` defines as read by nothing — „if it starts
+  being referenced, it has become a layer again". Either `Legacy/` stops being a
+  shelf for these, or they land through `Sources/` like every other document.
+- **Conflict detection.** The goal wants a detector: deterministic comparison per
+  predicate, then model adjudication of candidates, with quotations. `CLAUDE.md`
+  says conflict detection is never mechanised, because a guesser reproduced the
+  `Zero-Trust` false conflict. The goal's deterministic half may fit P1; its
+  model half is the open question.
+- **Layout.** The goal specifies `kg/`, `wiki/`, `tools/kpkg/`, a `kp` CLI and
+  `SPEC.md`. This repository has `Sources/`, `Wiki/`, `scripts/` and two layers
+  (P20). `graph.py` and `graphrag.py` already cover part of `kg/` and `kp ask`.
+- **Status tags.** The goal's `[K] [V] [S] [L] [D] [M]` and tiers T0–T5 do not
+  exist on any page here; the wiki's pages carry readings attributed by source
+  and date. Whether they are added, and how they map, is a schema decision (P4:
+  no field without instances).
+
 ## Handover — the next session starts here
 
 Run `python3 scripts/selftests.py` first; it builds nothing and says in one line

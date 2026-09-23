@@ -17,6 +17,13 @@ statement here that is not true of the repository, the statement is the defect �
 fix it in the same change, or delete it. A description that outruns what exists
 is how the previous version of this project failed.
 
+**`GOAL.md` is the project's general goal** (2026-09-23, the author's brief, in
+German): a git-versioned knowledge graph and wiki that helps write the novel —
+sources tiered by precedence, conflicts found and never silently smoothed,
+self-generated questions, the plot model as checkable rules. It describes the
+*target*, not the repository: where it names paths or tools that do not exist
+here, this page says what exists, and `NOW.md` holds where the two disagree.
+
 **Then read `NOW.md`.** It is what is open right now — decisions waiting on the
 author, work half-done, what failed — and it is the handover between sessions.
 
