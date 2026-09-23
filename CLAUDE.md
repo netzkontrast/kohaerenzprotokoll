@@ -429,8 +429,25 @@ a file here. **Every call sends text to a third-party API**, so no corpus text
 goes through it until a person has decided it may —
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has where it may help and where it
 may not.
-`.agents/skills/jev` is how to build with it: question wording, composition,
+`.agents/skills/typesafe` is how to build with it: question wording, composition,
 the limits the TypeSafe cookbooks measured, and the SDK as installed.
+
+**`.claude/skills/jev*` is a vendored third-party collection**, not this project's
+skills: eleven folders copied unchanged from `wuyoscar/jev-skill` tag `v0.2.0`,
+commit `82c01055c80fa96d3e8a1b82132361693b6bf3a1`, MIT. They are real folders in
+`.claude/skills/`, not symlinks into `.agents/skills/`, so `rlm_ingest.py`'s
+`SkillManager` does not render them into its prompt. Their CLI is not in the
+repository and does not survive the container:
+
+```bash
+git clone --depth 1 --branch v0.2.0 https://github.com/wuyoscar/jev-skill /tmp/jev-skill
+uv tool install /tmp/jev-skill            # provides jev-decide; standard library only
+jev-decide setup                          # which key is present — never its value
+```
+
+The route chosen for them is **A, real Jev**. Neither key is set yet; it goes into
+the environment's settings, never into chat or a file here. Every call still
+needs the author's yes before corpus text is sent (see above).
 
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only
 from a person, and they do different halves of it:

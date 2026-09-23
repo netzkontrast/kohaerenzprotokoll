@@ -1,7 +1,7 @@
 # Where Jev could help ingestion, and where it may not
 
 *2026-09-23. Nothing here is built. How to word and compose the questions is in
-`.agents/skills/jev`, from a full read of TypeSafe's nineteen cookbooks. The SDK is installed in `.venv-typesafe`,
+`.agents/skills/typesafe`, from a full read of TypeSafe's nineteen cookbooks. The SDK is installed in `.venv-typesafe`,
 one call has been made with TypeSafe's own example text, and no project data has
 been sent anywhere. This is the reasoning to check before the first real call.*
 

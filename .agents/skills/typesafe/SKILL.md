@@ -1,9 +1,9 @@
 ---
-name: jev
+name: typesafe
 description: Build with TypeSafe's Jev — a model that answers typed questions (noul = P(yes), choice = one of a set with a distribution, score = position on ordered levels) over a state, instead of generating text. Covers how to word a question so its probability means something, how to compose answers in code, the thresholds and limits the TypeSafe cookbooks measured, the Python SDK as installed here, and where in this project a Jev answer may direct attention and where it may never enter the record. Use when considering, designing, calling or evaluating Jev or TypeSafe for anything — ranking passages, choosing the next document, a second opinion on a near match, flagging stance — and before sending any corpus text to the API.
 ---
 
-# Jev — typed judgements, composed in code
+# TypeSafe — typed judgements from Jev, composed in code
 
 Derived from TypeSafe's own skill (`typesafe-ai/skills`, v0.5.7, MIT — `LICENSE`
 here) and rewritten from a full read of the nineteen cookbooks at
@@ -192,7 +192,7 @@ Three recipes map onto this project closely enough to name:
 ## Provisional
 
 ```yaml
-name: jev               # provisional
+name: typesafe          # provisional
 # may not: write anything into Sources/ or Wiki/, decide a near match,
 #          detect a conflict, or run on corpus text without the author's yes
 # retire when: a first measured use shows it adds nothing over fold() and qmd
