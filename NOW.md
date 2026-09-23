@@ -174,13 +174,12 @@ genitive. Repointing the number would make the citation resolve and the page
 wrong. Each correction is a reading decision, one commit per page naming its
 source document.
 
-## In flight on GitHub
+## Landed
 
-Branch `claude/intelligent-davinci-1rujwj`, pull request
-netzkontrast/kohaerenzprotokoll#52: the TypeSafe SDK and project skill
-(`.agents/skills/typesafe`), the Jev concept, the vendored `jev*` skills,
-`scripts/entities.py`, the entity pilot and the saved workflow. No CI runs on this
-repository. It waits on the author's review.
+Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe
+SDK and project skill (`.agents/skills/typesafe`), the Jev concept, the vendored
+`jev*` skills, `scripts/entities.py`, the entity pilot and the saved workflow.
+Nothing from it is in flight; what it left open is under the headings above.
 
 ## Not open
 
