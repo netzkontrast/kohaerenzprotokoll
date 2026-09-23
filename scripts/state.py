@@ -80,6 +80,17 @@ def _manifest_rows():
         encoding="utf-8").splitlines() if line.strip()]
 
 
+@measure("sources.canon_era", "manifest rows with an index_date from 2026-05-01 on — the canon-era documents")
+def _canon_era() -> int:
+    return sum(1 for r in _manifest_rows() if (r.get("index_date") or "") >= "2026-05-01")
+
+
+@measure("sources.canon_era_landed", "of those, rows landed in Sources/drive/")
+def _canon_era_landed() -> int:
+    return sum(1 for r in _manifest_rows() if (r.get("index_date") or "") >= "2026-05-01"
+               and r.get("export_path"))
+
+
 @measure("sources.folded", "rows in Sources/duplicates.jsonl — fetched, then found to be a copy")
 def _sources_folded() -> int:
     path = ROOT / "Sources" / "duplicates.jsonl"

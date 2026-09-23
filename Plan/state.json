@@ -110,6 +110,14 @@
       "value": 4,
       "how": "modules in scripts/rules/ satisfying the contract"
     },
+    "sources.canon_era": {
+      "value": 37,
+      "how": "manifest rows with an index_date from 2026-05-01 on \u2014 the canon-era documents"
+    },
+    "sources.canon_era_landed": {
+      "value": 8,
+      "how": "of those, rows landed in Sources/drive/"
+    },
     "sources.distinct": {
       "value": 346,
       "how": "landed files minus near-copies, scripts/duplicates.py at 0.8"

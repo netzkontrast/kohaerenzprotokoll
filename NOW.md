@@ -101,11 +101,14 @@ before Phase 0 of the goal starts.** `GOAL.md` is now the project's general
 goal. Four places where it and the working agreement cannot both hold as
 written:
 
-- **The novel's sources are on the shelf.** The goal reads `Manuscript/`,
-  `Canon/` and `ncp.json`/`ncp-b.json` as tier T1–T3 sources. Here all three sit
-  under `Legacy/`, which `CLAUDE.md` defines as read by nothing — „if it starts
-  being referenced, it has become a layer again". Either `Legacy/` stops being a
-  shelf for these, or they land through `Sources/` like every other document.
+- **The novel's sources — decided for Drive, open for the rest.** The author
+  said on 2026-09-23 that the sources are all in `Sources/`: the manifest
+  catalogues every Drive document, the canon-era ones included, so they land
+  through `sources.py` like any other. 37 <!--state:sources.canon_era--> rows date
+  from May 2026 on and 8 <!--state:sources.canon_era_landed--> are landed —
+  landing the rest is the first step of the goal's Phase 1. Still open: the
+  manuscript and the NCP files, which are not Drive documents and sit only under
+  `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
   predicate, then model adjudication of candidates, with quotations. `CLAUDE.md`
   says conflict detection is never mechanised, because a guesser reproduced the
