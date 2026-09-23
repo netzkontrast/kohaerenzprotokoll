@@ -404,19 +404,31 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
-Three venvs exist, all git-ignored, each for one reason:
+Four venvs exist, all git-ignored, each for one reason:
 
 | venv | python | why |
 |---|---|---|
 | `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
 | `.venv-dspy` | 3.11 | DSPy 3.3.1, for when there is something to train |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
+| `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — nothing calls it yet |
 
 ```bash
 uv venv --python 3.12 .venv-dspytools
 uv pip install --python .venv-dspytools/bin/python git+https://github.com/netzkontrast/dspytools
 DSPYTOOLS_SKILLS_DIR=$PWD/.agents/skills .venv-dspytools/bin/dspytools skills list
 ```
+
+```bash
+uv venv --python 3.11 .venv-typesafe
+uv pip install --python .venv-typesafe/bin/python git+https://github.com/typesafe-ai/typesafe-sdk-python
+```
+
+The key comes from `TYPESAFE_API_KEY` in the environment and is never written to
+a file here. **Every call sends text to a third-party API**, so no corpus text
+goes through it until a person has decided it may —
+`Plan/concept/jev-in-ingestion_2026-09-23.md` has where it may help and where it
+may not.
 
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only
 from a person, and they do different halves of it:
