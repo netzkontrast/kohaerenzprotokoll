@@ -42,7 +42,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-203 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+227 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -109,7 +109,7 @@ written:
   catalogues every Drive document, the canon-era ones included, so they land
   through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
   from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
-  2026-09-24 (see *Landed* below); none has been read yet. Still open: the
+  2026-09-24 (see *Landed* below); one is read — document 7, below. Still open: the
   manuscript and the NCP files, which are not Drive documents and sit only under
   `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
@@ -134,7 +134,7 @@ with the command that creates `.venv-dspy`.
 In order, and none of it needs a model:
 
 1. **More retrieval cases.** `graphrag.py bench` has
-   9 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   10 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
    pages. The `## Open` sections (`relations.py --open`) are a second source;
    write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
    has why and the next four steps after it.
@@ -285,6 +285,32 @@ high tier into it is the next step, and it is a person's.
 
 ## Next document — not yet chosen
 
+**The seventh is done: `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-09-24**, the first canon-era document and the
+one the author's goal names as normative. 388 candidates, 4 new pages
+(`coheron`, `nichts-rauschen`, `trennungsprotokoll`, `landauer-signatur`), readings
+on 17 pages, conflict **C6** (two Guardians against five, and „KEIN
+Guardian-1:1"), and Q1, Q3, Q4 and C5 moved. `Wiki/compare/reconcile-08-kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md`
+has the record, including the rule that kept 271 new terms from becoming pages.
+
+What it leaves for the next document:
+
+- **C6** wants a canon-era source relating the two Guardian arrangements. The
+  character bible (`kohaerenz-protokoll-charakter-bibel-2026-05-08-md`) and the
+  consolidated concept (`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`)
+  are landed and unread; the document names the concept as one of its sources.
+- **The 12 Alters** beside Kael have no pages, by the document's own statement
+  that its figures are „outline-relevante Kurzanker". The character bible is
+  where they would get readings.
+- **This document ranks its sources and resolves three conflicts among them
+  (§7)**, none of which the wiki can see yet: the sources it resolves between
+  are the Kapitel-Kompendium and the 2026-05-30 decision logs, which are not in
+  `Sources/` (the logs are claude.ai exports, `GOAL.md` Anhang C1).
+
+**Found while reconciling it, not caused by it:** `link.py` proposes 33 links on
+pages this document did not touch — pending on the branch before it was read.
+They were left alone so this document's commits change only what it caused; a
+link pass over them is a separate commit.
+
 The sixth is done. It was chosen because `kern-welten` asked for `KW2` or `KW4`
 and Q4 asked for `Wächter` in an analytic sentence, and it supplied both.
 
@@ -360,9 +386,8 @@ later, none failing. 26 were `md`, which `fetch` skipped before: the two new fla
 are opt-in, and `md` takes the same text route that landed the four `md` rows on
 2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
-in another escaping — so 37 canon-era rows became 33, all landed. **None is read:**
-no census, note or reconciliation. Which to read first is the author's call, and
-`GOAL.md` §2 lists them. The copy under `Legacy/Canon/` (six of the 2026-06-10
+in another escaping — so 37 canon-era rows became 33, all landed. **One is read**,
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, as document 7 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
 documents) has not been compared against the landed files.
 
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe
