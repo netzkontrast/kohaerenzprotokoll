@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 8
-readings: 7
+sources: 9
+readings: 8
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-16"
 ---
 
@@ -159,3 +159,12 @@ on each Alter's page.
 Diagnose-Modell der Kael-Struktur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162]. ANP: „Im System Kael: Kael (Host),
 Lex, Alex, Rhys, Selene." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L165] EP: „Im System Kael: Nyx, Kiko, Lia, Isabelle,
 Moros." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L168] Fifteen decanonised names are listed again (L292).
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+The count, in the cast's heading: „kanonisch, exakt 13 Alters + AEGIS + Juna +
+Mnemosyne + Erasure-Pol" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L113] — five ANPs, [[kael|Kael]] among them, five EPs
+and three Sonderfiguren, in three tables (L127–L156). The word is withheld in the
+prose: Kap 8 „Das Wort Alters fällt nicht." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425]; Kap 11 „Die
+Multiplizitäts-Schleier-Disziplin hält." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L497] All thirteen act together in Kap
+33: „alle 13 Alters in Kooperation" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1037]. Q3.

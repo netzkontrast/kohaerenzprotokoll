@@ -12,7 +12,7 @@ breaks `dspy.Evaluate` — are `metrics.md`; trainsets, splits and `fold()` are
 ## In this repository
 
 `scripts/pairs.py` is the one ladder built here, for the one task with usable
-gold labels: **one term or two**, **57 <!--state:pairs.labelled--> labelled
+gold labels: **one term or two**, **63 <!--state:pairs.labelled--> labelled
 pairs** in `Plan/runs/judgements.jsonl`, each with `first`, `second`, a gold
 `decision` and a `rule` — the person's own words for why, which is the GEPA
 feedback string with no extra work. `scripts/trainset.py`'s `surface_pairs()`
@@ -25,7 +25,7 @@ first. The code is `scripts/pairs.py`, `scripts/baseline.py`,
 
 `wiki_index.fold()` is a deterministic surface-normalisation rule, not a
 model. `trainset.fold_baseline()` and `pairs.score_rule("fold")` both score it
-the same way: **33 <!--state:pairs.fold_correct--> of 57 <!--state:pairs.labelled-->
+the same way: **36 <!--state:pairs.fold_correct--> of 63 <!--state:pairs.labelled-->
 labelled pairs**, run live 2026-09-24 (`python3 scripts/pairs.py score` prints
 `rule:fold: 33/57 = 57.9% on 57 labelled pairs`). All 24 misses have the same
 shape — gold `one-term`, `fold()` says `two-terms` — so on this ledger `fold()`
@@ -196,7 +196,7 @@ follows by hand: signatures → modules → explore a few by hand → dataset �
 metrics → **a baseline, "a number to beat, before any compile"** → optimize →
 test and iterate, naming steps 3 and 6 as the ones people skip
 (`dspy-agent-skills:skills/dspy-book-eight-steps/SKILL.md:21-33`, `[pattern]`)
-— `fold()`'s 58% is exactly that step-6 number here. Where the metric is
+— `fold()`'s 57% is exactly that step-6 number here. Where the metric is
 itself a judge model, the same pack's chapter 3 optimizes the judge before the
 task and reloads it frozen, "because optimizing a task against an unvalidated
 judge moves the program toward the judge's errors, and you cannot tell from

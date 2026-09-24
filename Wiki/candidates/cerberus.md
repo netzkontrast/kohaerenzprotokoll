@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-17"
 ---
 
@@ -104,3 +104,10 @@ Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] �
 
 Absorbed into the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen
 sind hier absorbiert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L306] — as in the konsolidiertes Konzept.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Absorbed into the Erasure-Pol, stated twice and the same: „Die alten Cerberus-,
+LogOS-, Kairos-Funktionen sind hier absorbiert." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161] and „(Cerberus, in
+Erasure-Pol absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L174]. KW3 keeps the name: „KW3 — Cerberus-Labyrinth"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L174] (J49). Q5.

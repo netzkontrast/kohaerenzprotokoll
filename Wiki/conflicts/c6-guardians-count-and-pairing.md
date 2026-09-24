@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -130,3 +130,9 @@ recorded after the author's decision for five; it changes nothing in that decisi
 „Post-Reset-Architektur (frühere fünf Guardians sind dekanonisiert, in den zwei
 aufgegangen)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L302]; the quarry filter, „5 Guardians → 2 (Mnemosyne +
 Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810] After the author's decision for five; recorded, not applied.
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+„Die zwei Guardians (auf 2 reduziert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L158] — a 2026 source for two, recorded
+after the author's decision for five; it changes nothing in that decision. What it
+says of the other three and [[sophia|Sophia]] is in Q5.

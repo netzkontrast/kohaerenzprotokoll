@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -46,3 +46,7 @@ with [[isabelle|Isabelle]], as in the konsolidiertes Konzept.
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 In the glossary's Alter table: role „Ambivalent" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L237], correlate „Superposition" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L238], somatics „offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L239], arc „→ Superposition verlassen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L240].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Approach-Avoidance, ewige Superposition" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L145], correlate „Quanten-Superposition" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L145], arc „Superposition → Sicherheit finden" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L145]. Language „beginnt Sätze, gibt sie auf, Ellipsen, Widersprüche im selben Satz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L145]. Named in Kap 18's polyphony (L673) and among the EPs of Kap 18–22 (L1351).

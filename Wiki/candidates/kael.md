@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-16"
 ---
 
@@ -174,3 +174,24 @@ In the glossary's Alter table: role „amnestische Oberfläche" ^[kohaerenz-prot
 sich abgeschnitten hat." — the Identitäts-Architektur (L136). The knuckles: „Lock
 Kompendium 2026-05-31: der Faden lebt in Kap 0 allein — Kap 1 bleibt spurlos."
 ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638] Conflict C10.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+„Nicht ein Mensch — ein System aus dreizehn Fragmenten." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125] „Innerhalb der
+Simulation: Komponente 734, Archivar Klasse II." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125] The origin trauma in two
+layers: „Schicht 1 (Bindungstrauma in der Basisrealität Köln), Schicht 2
+(Fragmentierungsnacht / Genesis-Krise)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125]. In the ANP table: „Alltag, Going
+on with normal life" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L132], correlate „Hubble-Volumen / Big Rip" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L132], arc
+„Big-Rip-Fragmentierung → Strange-Attractor-Form" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L132].
+
+**The knuckles are a standing trait of the Host, in no chapter.** „Knöchel die
+manchmal bluten ohne dass er weiß warum" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125]. Kap 1's sensory line has none:
+„Sensorik: sterile Leere, Ozon, weißes Licht, 21°C" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]. Conflict C10.
+
+MC of Storyform A: „Resolve: Change · Growth: Start · Approach: Be-er · Style:
+Holistic" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L48] (J70).
+
+Kap 1: „Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime), fragmentiert ohne
+Erinnerung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] Kap 39: „Kael-als-Wir wird neue AEGIS, aber wesensanders."
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1206] Kap 40: „Das Cluster, das Komp 734 wurde, ist als das erkannt, was Kael
+wurde" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241].

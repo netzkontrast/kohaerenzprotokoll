@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-17"
 ---
 
@@ -113,3 +113,10 @@ Telefonton, Geruch" ^[kapitel-kompendium-gather-2026-05-31-md.md:L170].
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 „Nie Bühne — erscheint nur als Erinnerungsfragment, Telefonton, Geruch." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L419]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+As „Basisrealität — Köln 2026." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L179] (J54): „Existiert jenseits der Simulation.
+Kommt nie als Bühne in Erscheinung — nur als Erinnerungsfragment, Telefonton,
+Geruch." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L179] [[kael|Kael]]'s first trauma layer lies there, „Bindungstrauma in
+der Basisrealität Köln" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125].

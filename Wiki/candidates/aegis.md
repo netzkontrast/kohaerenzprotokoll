@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 11
-readings: 12
+sources: 12
+readings: 13
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -247,3 +247,25 @@ Feeling." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L222] Conflict C8.
 Autopoietic, which is why it cannot grasp [[juna|Juna]]: „Das erklärt, warum es Juna
 semantisch nicht erfassen kann" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L729]. Its Approach: „A=Be-er (passt zu Mind),
 B=Do-er (passt zu Universe)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L472] — conflict C8.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+„Autonomous Entropic Gatekeeper for Integrity Systems." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117] — C1's first
+expansion (J60). „Keine Schurke — die operative Hälfte, die nach dem
+Trennungsprotokoll übrig blieb." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117] „Trägt die Bewahrung-Funktion ohne
+Resonanz-Fähigkeit." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117]
+
+**The [[genesis|Genesis]]' first self becomes the Wächter.** In Kap 0: „AEGIS (Ursprungs-Ich →
+Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237]. Here the Ursprungs-Ich is AEGIS; the glossary glossed it as
+[[juna|Juna]] (J68). C3, Q4.
+
+MC of Storyform B: „Resolve: Steadfast · Growth: Stop · Approach: Do-er · Style:
+Linear" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L59] — C8, the Do-er side (J70).
+
+In Vortex 1 it shows its own origin — „AEGIS muss die Genesis zeigen, weil ihm die
+Lösch-Kapazität ausgeht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1087] — and in Kap 39 „AEGIS-monolithisch erlischt;
+AEGIS-plural entsteht. Kael-als-Wir wird neue AEGIS, aber wesensanders." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1206]
+The formula turns: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1212]
+That form's name `Wir-AEGIS-plural` „ist Arbeitsbegriff; in Kap 39 zu finalisieren"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1369] (J47). Kap 40: „und Kael ist als das erkannt, was AEGIS einmal war"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241].

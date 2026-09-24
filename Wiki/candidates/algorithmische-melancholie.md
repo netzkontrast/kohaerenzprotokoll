@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -47,3 +47,12 @@ question from the Reset-Doc: „Was *ist* AEGIS in Algorithmischer Melancholie?"
 
 [[aegis|AEGIS]]' state after Vortex 1, Beat 5: „Lebende Reliquie: operativ aktiv, aber ohne
 Selbstreferenzfähigkeit" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L347].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+What becomes of [[aegis|AEGIS]] in Vortex 1. The cast: „Im Vortex 1 kollabiert die
+1st-person-Innensicht in 3rd-person-Algorithmic-Melancholy-Beobachtung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117] Kap
+36: „B: erlischt monolithisch; Algorithmische Melancholie" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1107]; Beat 5:
+„Algorithmische Melancholie — eine Maschine, die noch zählt, aber nicht mehr weiß,
+dass sie zählt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1116] Its form afterwards is the document's OQ-G: „exakte Form
+der Algorithmischen Melancholie als Echo offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1375].

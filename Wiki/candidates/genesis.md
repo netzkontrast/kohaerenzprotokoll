@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -46,6 +46,26 @@ Komponente 734." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L1
 in Kap 0 voll präsent" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L152].
 
 Four beats, with 734 made in the third — neither version above exactly.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**Both orders, a fourth beat, and five movements.** Kap 0's sequence: „Das Rauschen
+→ Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große
+Wandel" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230], then „Komponente 734 → Die Innere Weite (Überwelt-Etablierung)"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230], then the crisis: „Stille Wacht → Perturbation aus der Leere →
+Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps →
+Trennungsprotokoll" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L232] — 734 before the separation.
+
+The Akt II flashbacks: Kap 18 „Erster Genesis-Flashback (Bridge): Cluster-Bildung."
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L669], Kap 21 the [[trennungsprotokoll|Trennungsprotokoll]] (L741), Kap 22 „Dritter
+Genesis-Flashback (Bridge): Komp 734 / Funktionalisierung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765] — 734 after it.
+„Kap 18, 21, 22 als Flashback-Träger gesetzt; exakte Beat-Verteilung offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371].
+
+Kap 39: „Genesis 4. Beat vollzogen." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1208] — four counted, none listed. Kap 40:
+„Fünf Bewegungen, jeweils analog zu einer Genesis-Bewegung in Kap 0" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1236].
+
+C12: this outline holds both orders and counts a fourth, two weeks before the
+Kapitel-Kompendium does the same.
 
 ## Open
 

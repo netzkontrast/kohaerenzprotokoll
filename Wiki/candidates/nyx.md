@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -51,3 +51,7 @@ KW3 is theirs with [[alex|Alex]]: „Hier dominieren die **EP-Protektoren** (Ale
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 In the glossary's Alter table: role „Fight" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L225], correlate „CPT-Verletzung" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L226], somatics „Adrenalin, Tunnelblick" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L227], arc „→ konstruktiver Schutz" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L228].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Kampf, Aggression, Verteidigung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L143], correlate „CPT-Verletzung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L143], arc „aggressive Reaktivität → konstruktive Schutzhaltung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L143]. Language „Stakkato, Imperativ, keine Konnektoren" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L143]. Kap 15: „Nyx wird erstmals deutlich sichtbar" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L597].

@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -184,3 +184,9 @@ Schnittstellen" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L333], where 
 
 „Diegetisch sichtbare Manifestation der Inversion." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L422], each type with an EP
 trigger.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Kap 2, „Der erste Riss" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L271]: „Glitches reaktivieren Echos." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] „Zeitverlust,
+ein Blackout, eine Erinnerung, die nicht zu seinem Selbst passt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281] Its
+sensory line: „flackernde Geometrien, Kanten die unscharf werden" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L289].

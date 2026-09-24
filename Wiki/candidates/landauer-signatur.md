@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -77,3 +77,16 @@ AEGIS-Unterdrückung / Landauer-Signatur." ^[kohaerenz-protokoll-begriffe-und-ko
 Spur (Coheron-Verdrängung)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L429] And in §1: the signatures are „kaltes Ozon,
 scharf, elektrisch (nicht Wärme; siehe Hitze-Polaritätsregel)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L52]. Conflict
 C11, document 7's side; the rule now has its own page, [[hitze-polaritaetsregel]].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**Warm, in Kap 6, Kap 22 and Kap 36.** Kap 6: „Hitzeschlieren, verzerrte Physik
+(Landauer-Wärme)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L385]. Kap 22: „unvorhersehbare Systemverwerfungen,
+Wärme-Schlieren" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L773]. Vortex 1 Beat 4, Kap 36: „Heat-Spike (Landauer → ∞)"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1115] — „thermodynamische Kosten manifestieren sich als Wärme-Phänomen
+(Landauer-Hitze)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1115] — and its sensory line „Landauer-Wärme als
+Schluss-Markierung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128]. Ozone once, in Kap 1's list, unattributed (L265).
+
+Conflict C11, the warm side: ten days after the konsolidiertes Konzept, in its
+words for Kap 36, and naming it as the source that wins a conflict (L1393). The
+Heat-Spike of Beat 4 is the warmth the later lock keeps.

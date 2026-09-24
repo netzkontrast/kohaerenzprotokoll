@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 5
+sources: 6
 pages: ["emergenz", "aegis"]
 ---
 
@@ -77,3 +77,12 @@ The konsolidiertes Konzept's origin, word for word: „AEGIS ist Kaels eigene
 Abwehrarchitektur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299], „die zur Welt geworden ist" — and in the identity
 architecture, „die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb"
 ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L135].
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+An origin inside the [[genesis|Genesis]]. [[aegis|AEGIS]] is Kap 0's first self — „AEGIS (Ursprungs-Ich →
+Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237] — and afterwards „die operative Hälfte, die nach dem
+Trennungsprotokoll übrig blieb" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117]. Kap 40 closes it on Kael: „und Kael ist als
+das erkannt, was AEGIS einmal war" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241]. Nearest the konsolidiertes Konzept's
+position, which this outline integrates (L1393); it does not make AEGIS
+[[kael|Kael]]'s defence.

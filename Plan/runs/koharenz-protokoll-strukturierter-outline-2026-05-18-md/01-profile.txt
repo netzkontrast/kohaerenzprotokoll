@@ -1,0 +1,14 @@
+# koharenz-protokoll-strukturierter-outline-2026-05-18-md
+  lines                1394  (frontmatter ends at 9)
+  body words           9317
+  headings             66   bold-only lines 12
+  table rows           122   code fences 0
+  question marks       0
+  backslash escapes    385
+  typographic marks    307   ascii quotes 18
+  invisible characters none
+  math symbol lines    36
+  glued ref numbers    139
+  repeated labels      Bridge x41, Charaktere x41, POV x41, Sensorik x41, Storyform x41, Tonale Achse x41, Genesis-Echo x40, Plot-Beats x36, Modus x5
+  longest line         648 chars
+

@@ -35,8 +35,8 @@ Three rules hold for everything derived from them:
   presented as a measurement.
 
 Why these lists exist, and what they may and may not decide:
-`Plan/concept/entity-lists_2026-09-23.md`. Today 4 <!--state:entities.lists-->
-lists exist and 3 <!--state:entities.readings--> of them verify as readings;
+`Plan/concept/entity-lists_2026-09-23.md`. Today 5 <!--state:entities.lists-->
+lists exist and 4 <!--state:entities.readings--> of them verify as readings;
 `NOW.md` has the numbers per list.
 
 ## The German–English map

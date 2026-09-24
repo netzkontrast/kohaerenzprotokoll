@@ -3,7 +3,7 @@ id: Q5
 question: Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
-documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 conflict: C6, C9
 gathered: "2026-09-24"
 ---
@@ -92,3 +92,14 @@ It also asks what the author may now have to decide with the five restored:
 
 The konsolidiertes Konzept's absorption: „Die alten Cerberus-, LogOS-, Kairos-Funktionen
 sind hier absorbiert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L306] Sophia does not occur at all.
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**Two accounts of the absorption, in one document.** „Die alten Cerberus-, LogOS-,
+Kairos-Funktionen sind hier absorbiert." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161] — in the Erasure-Pol, whose name is
+„offen (OQ)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161] — and the world table's Guardian column: „(LogOS, in Mnemosyne
+absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172], „(Cerberus, in Erasure-Pol absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L174],
+„(Kairos/Sophia, latent)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175]. Cerberus agrees; LogOS and Kairos do not.
+
+**[[sophia|Sophia]] is placed**: latent, in KW4 — the first read 2026 source to say where she
+went.

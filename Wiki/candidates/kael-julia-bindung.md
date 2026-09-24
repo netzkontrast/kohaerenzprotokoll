@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-17"
 ---
 
@@ -43,3 +43,12 @@ The document does not use this compound. It states the rename its first half
 depends on — „Julia→**Juna**" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13] — among the substitutions it made to the
 „Steinbruch" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. Whether this page should be renamed is still judgement J13's
 question; that it names [[juna|Juna]] by an earlier name now has a source.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+The bond as `K-J-Verbindung`: Kap 7 „K-J-Verbindung wird stärker
+(Moonshine-Bewusstwerdung)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L397], Kap 10 „K-J-Verbindung wird zum Werkzeug."
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L473] Kap 30's title, „K-J Verbindung Kulmination" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L951], is spelled out in its
+beat: „Die Verbindung zu Juna wird zum stabilen, bewussten Kanal." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961] And the
+distribution: „Juna-Verbindung wird zum Werkzeug" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1353]. One more document that
+does not write `Kael-Julia-Bindung` (J13).

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "created": "2026-09-24T20:00:09Z",
+  "docs_dir": "/home/user/kohaerenzprotokoll/Sources/drive",
+  "schema_file": null,
+  "max_triplets_per_doc": 200,
+  "documents": [
+    {
+      "path": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+      "unit": "line",
+      "lines": 1393,
+      "status": "done",
+      "chunks": [
+        {
+          "id": 1,
+          "start_line": 1,
+          "end_line": 1393,
+          "status": "done",
+          "triplets": 200
+        }
+      ]
+    }
+  ]
+}

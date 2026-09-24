@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 6
+sources: 7
 pages: ["aegis"]
 ---
 
@@ -76,3 +76,10 @@ storyform-und-outline 2026-06-10 (Do-er).
 
 „A=Be-er (passt zu Mind), B=Do-er (passt zu Universe)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L472] The lock-in's
 values, with the Dramatica rule as the reason.
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+The lock-in's values, eleven days after it: B „Resolve: Steadfast · Growth: Stop ·
+Approach: Do-er · Style: Linear" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L59], A „Resolve: Change · Growth: Start ·
+Approach: Be-er · Style: Holistic" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L48]. It names the lock-in as its storyform
+source (L13, L1393).

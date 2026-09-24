@@ -1,10 +1,10 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -52,3 +52,10 @@ aller mutualen Information" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
 
 The first layer: „Nichts-Rauschen / K₁-Reinform — pure Kohärenz, ungetrennt,
 zeitlos." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L73] „AEGIS und Kael sind hier eines." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L73]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Kap 37: „das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1152] — the one sentence that equates the late Rauschen with the Genesis' first
+beat, „Das Rauschen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230]; a reading, not a merge (J51). In Kap 38 it arrives:
+„Das Rauschen kommt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1172].

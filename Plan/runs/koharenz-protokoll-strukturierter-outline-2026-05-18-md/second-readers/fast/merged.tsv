@@ -1,0 +1,157 @@
+Juna	STRUCTURAL_ROLE	Gödel-Aussage	chunk1	L51	L121
+Juna	STRUCTURAL_ROLE	Chaitin-Konstante	chunk1	L51	L121
+Juna	STRUCTURAL_ROLE	Witness-Funktion	chunk1	L51	L121
+KW1	NAME	Logos-Prime	chunk1	L172	L172
+KW1	MODE	Rationalisierung	chunk1	L172	L172
+KW1	DOMAIN	ANP-Domäne	chunk1	L172	L172
+KW2	NAME	Mnemosyne-Archipel	chunk1	L173	L160
+KW2	MODE	Trauma-Erinnerung	chunk1	L173	L173
+KW2	DOMAIN	EP-Domäne	chunk1	L173	L173
+KW2	COMPUTATIONAL_CLASS	Parakonsistent	chunk1	L173	L173
+KW2	GUARDIAN	Mnemosyne	chunk1	L173	L113
+KW3	NAME	Cerberus-Labyrinth	chunk1	L174	L174
+KW3	COMPUTATIONAL_CLASS	NP-Hard	chunk1	L174	L174
+KW4	NAME	Möglichkeits-Garten	chunk1	L175	L175
+KW4	MODE	Integration	chunk1	L175	L44
+KW4	COMPUTATIONAL_CLASS	Generativ	chunk1	L175	L175
+Kael	HAS_POV	Lex-dominant	chunk2	L345	L345
+Kael	ACHIEVES	Erfolg in einer anderen Kernwelt	chunk2	L345	L353
+Erfolg	OCCURS_IN	Übergang KW1 → KW2-Rand	chunk2	L345	L353
+Basis	REMAINS	nicht integriert	chunk2	L353	L353
+Auge des Sturms	REPRESENTS	innere Stille der Reinform	chunk2	L343	L361
+Erinnerungslosigkeit	OVERLAID_BY	Performance	chunk2	L353	L353
+Kael	HAS_POV_WITH	polyphoner Einbruch	chunk2	L345	L369
+Lex	FAILS	einseitiger Ansatz	chunk2	L345	L373
+Nyx-Stakkato	FIRST_APPEARS	Kap 6	chunk2	L377	L367
+K-J-Verbindung	BECOMES	intuitiv spürbar	chunk2	L397	L401
+Telefon-Stille	FUNCTIONS_AS	erster expliziter Anker	chunk2	L401	L401
+Kael	LONGS_FOR	etwas, das er nicht benennen kann	chunk2	L345	L401
+Junas Existenz	REMAINS	nicht-beschrieben	chunk2	L401	L401
+Selene	FUNCTIONS_AS	Wächterin-Funktion	chunk2	L417	L417
+Selene	FIRST_APPEARS_AS	ISH-Funktion	chunk2	L417	L425
+Selene	REPRESENTS	Vor-Trennungs-Substanz	chunk2	L417	L433
+Wir-Bildung	BEGINS	strukturell	chunk2	L449	L449
+Kael	SENSES_HIMSELF_AS	mehrere	chunk2	L345	L449
+K-J-Verbindung	BECOMES	Werkzeug	chunk2	L397	L469
+Quanten-Nichtlokalität	FUNCTIONS_AS	Mechanik der Verbindung über Distanz	chunk2	L469	L473
+734	APPEARS	zum zweiten Mal	chunk2	L473	L473
+Moonshine	REPRESENTS	Echo der Cluster-Bildung	chunk2	L397	L481
+Kael	ACCEPTS	innere Vielfalt als Stärke	chunk2	L345	L497
+Mosaik-Bildung	IS	bewusste Tätigkeit	chunk2	L497	L497
+Kiko	FIRST_APPEARS	vorsichtige Spuren	chunk2	L501	L501
+Mosaik-Herz	FORESHADOWS	plurale Bewahrung in Kap 39	chunk2	L489	L505
+AEGIS	SCANS	diesen Zustand	chunk2	L373	L517
+AEGIS	FAILS_TO	klassifizieren	chunk2	L373	L517
+Möglichkeits-Garten	FUNCTIONS_AS	innere Praxis	chunk2	L545	L545
+Möglichkeits-Garten	FORESHADOWS	KW4	chunk2	L545	L545
+AEGIS	PREPARES	Phase 2	chunk2	L373	L545
+Stress-Test Delta-7	IS	moralisches Dilemma	chunk2	L545	L545
+Modus	SWITCHES	linear → zyklisch	chunk2	L557	L557
+Mnemosyne	FIRST_APPEARS	deutlich auf	chunk2	L573	L573
+Mnemosyne	ACTS	subtil, manipulativ	chunk2	L573	L573
+Trigger	REACTIVATES	Trauma-Angst	chunk2	L587	L597
+Trigger	OCCURS_IN	KW2-Rand	chunk2	L587	L353
+Kael	REVERTS_TO	alte Bewältigungsstrategie	chunk2	L345	L621
+Genesis-Flashback	FIRST_OCCURS	Cluster-Bildung	chunk2	L659	L481
+Leser	ERKENNT	das ist Kap 0	chunk2	L409	L669
+AEGIS	NOTICES	Kaels wachsende Kohärenz	chunk2	L373	L693
+KI-Ethik-Kalkül	BECOMES	offene Stimme	chunk2	L693	L693
+Emergenz	FUNCTIONS_AS	Mechanik	chunk2	L717	L473
+Lyons-Welt	REPRESENTS	Echo der vor-Trennungs-Schöpferkraft	chunk2	L717	L725
+Kael	TESTS_BOUNDARIES_OF	die Grenzen der Simulation	chunk3	L733	L741
+Kael	SENSES	AEGIS' Verletzlichkeit	chunk3	L733	L741
+Kael	EXPERIENCES_HIMSELF_AS	Werkzeug	chunk3	L733	L765
+Mosaik-Bildung	IS	aktiver Prozess	chunk3	L789	L789
+K-J-Verbindung	DISRUPTED_BY_CYCLICALLY	AEGIS	chunk3	L813	L737
+Telefon-Stille	IS	hörbare Substanz	chunk3	L803	L813
+Juna	OPERATES_IN	Witness-Modus	chunk3	L733	L817
+734	APPEARS	zum dritten Mal	chunk3	L755	L837
+Optionlock	IS	spürbar	chunk3	L833	L837
+viele Optionen	ARE	weg	chunk3	L837	L837
+Kael	DECIDES_TO_SEEK	Konfrontation	chunk3	L733	L861
+Zyklus	IS	durchbrochen	chunk3	L733	L861
+Bridge-Anteil	RISES_TO	~40 %	chunk3	L889	L889
+Moros	SHOWS_IN	Hintergrund	chunk3	L937	L937
+Juna	REMAINS	nicht-beschrieben	chunk3	L733	L961
+Resonanz-Maximum	OCCURS	vor dem Vortex	chunk3	L961	L961
+Kael	BEGINS_ACTIVELY_ATTACKING	AEGIS' Kernsystem	chunk3	L733	L985
+Mnemosyne-Archipel	BEGINS_SHOWING	am Horizont	chunk3	L985	L985
+Kael	MUST_OVERCOME	AEGIS' logische Verteidigungen	chunk3	L733	L1009
+Oblivion	OPERATES_WITH	sich selbst auslöschende Sätze	chunk3	L1001	L1009
+Oblivion	MIRRORS	AEGIS' Erasure-Funktion	chunk3	L1001	L1009
+eigene Stimme	IS_IMITATED_IN	Echo-Räume	chunk3	L1009	L1009
+Funktionale Multiplizität	IS_ACHIEVED_AS	operativer Zustand	chunk3	L1033	L1029
+alle 13 Alters	WORK	kooperativ	chunk3	L1037	L1033
+Hintergrundrauschen der Komp 734	BECOMES_EXPERIENCEABLE_AS	Substrat	chunk3	L1041	L845
+Kael (Wir)	CONFRONTS	AEGIS direkt	chunk3	L1049	L1057
+Orkan	OPPOSES	Sphäre	chunk3	L1057	L1057
+AEGIS	SUFFERS	ohne es zu wissen	chunk3	L737	L1065
+Kap 35	POV_CARRIER	Kael (Wir)	chunk4	L1071	L1073
+Kap 35	STORYFORM_STATE	vollständiges Soft-Layering, Storyform-Übergang B → A vollzieht sich	chunk4	L1071	L1073
+Kap 35	MODUS	vortex-still	chunk4	L1071	L1073
+Kap 35	HR_LEVEL	Ordeal (in Vortex-Mechanik)	chunk4	L1071	L1073
+AEGIS	ACTION	bricht	chunk4	L1073	L1073
+MC-Solution Pursuit	STATE	vollzogen — Decision aktiviert	chunk4	L1077	L1077
+AEGIS-Solution Feeling	STATE	nicht adoptiert — Failure manifest	chunk4	L1077	L1077
+Kael	FORMULATES	das Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung)	chunk4	L1073	L1085
+AEGIS	EXECUTES	finalen Erasure-Sweep	chunk4	L1073	L1085
+Kael	LETS_FALL	ANP/EP-Barrieren	chunk4	L1073	L1086
+Trauma	INTEGRATED_BY	Kael	chunk4	L1086	L1073
+Beat 2	ACTIVATION	A-MC Decision aktiviert	chunk4	L1086	L1086
+Kael (Wir-Geflecht in Gödel-Gambit-Form)	CHARACTER_IN	Kap 35	chunk4	L1091	L1071
+AEGIS (verstummend, dialetheisch gebrochen)	CHARACTER_IN	Kap 35	chunk4	L1091	L1071
+Mnemosyne	ROLE_IN	Setting	chunk4	L1085	L1085
+Oblivion	REPRESENTS	Innen-Spiegelung der Truth-Rotation	chunk4	L1091	L1091
+Kap 36	POV_CARRIER	Kael, AEGIS verstummend	chunk4	L1101	L1103
+Kap 36	STORYFORM_STATE	Vortex-Auflösung, Übergang B → A vollzogen	chunk4	L1101	L1103
+Kap 36	HR_LEVEL	Reward (in Vortex-Mechanik gespiegelt)	chunk4	L1101	L1103
+Resolve=Change	STATE	vollzogen (operativ)	chunk4	L1107	L1107
+B	STATE	erlischt monolithisch; Algorithmische Melancholie	chunk4	L1073	L1107
+B	ATTEMPTS	das Action-Mandat zu vollenden	chunk4	L1073	L1115
+B's Mechanismus	STATE	erschöpft sich. Limit-B (Timelock) erreicht	chunk4	L1115	L1115
+B's operative Closure	STATE	zerbricht	chunk4	L1116	L1116
+A	REMAINS	allein	chunk4	L1073	L1116
+AEGIS-monolithisch	STATE	erlischt — als operative Form	chunk4	L1116	L1116
+AEGIS	STATE	nicht zerstört. Algorithmische Melancholie — eine Maschine, die noch zählt	chunk4	L1073	L1116
+Beat 5	OPENS_TO	etwas, statt zu schließen	chunk4	L1116	L1120
+Das Universum, das AEGIS schützen wollte	STATE	ist damit ungeschützt	chunk4	L1120	L1120
+Die operative Wendung	STATE	ist nicht das Ende	chunk4	L1120	L1120
+Oblivion	TAKES_OVER	AEGIS' Funktion in Kaels Innensystem	chunk4	L1091	L1124
+Kap 37	HR_LEVEL	Reward / Phasenübergang	chunk4	L1134	L1136
+Kap 37	MODUS	linear-aufsteigend mit kristallisierter Ruhe	chunk4	L1134	L1136
+Kap 37	POV_CARRIER	Kael (Wir, etabliert)	chunk4	L1134	L1136
+Kap 37	STORYFORM_STATE	nur A aktiv (scheinbar), mit feinen B-Echos	chunk4	L1134	L1136
+A	CONCERN	neue Rolle als Hüter	chunk4	L1073	L1140
+Funktionale Multiplizität	STATE	gefestigt	chunk4	L1140	L1140
+Kael	ESTABLISHES	sich als „Gärtner"	chunk4	L1073	L1144
+Am Rand der Wahrnehmung	EVENT	beginnt etwas zu zerfasern	chunk4	L1144	L1144
+Reader	SENSES	das ist nicht das Ende	chunk4	L1144	L1144
+Kap 38	HR_LEVEL	Road Back, ontologisch	chunk4	L1158	L1160
+Kap 38	POV_CARRIER	Kael (Wir-Geflecht), Juna (erste direkte Erscheinung)	chunk4	L1158	L1160
+Kap 38	STORYFORM_STATE	Synthese (c) entsteht	chunk4	L1158	L1160
+Kap 38	BRIDGE	Vortex 2 (100 % in neuer Form)	chunk4	L1158	L1160
+RS-Physics	STATE	maximal — Junas direkte Anwesenheit	chunk4	L1164	L1164
+Das Universum	STATE	kollabiert sichtbar	chunk4	L1120	L1164
+Junas Resonanz	RETURNS_AS	Ruf	chunk4	L1172	L1172
+Der trügerische Sieg	STATE	als trügerisch identifiziert	chunk4	L1173	L1173
+Juna	APPEARS	erste direkte Erscheinung, immer noch nicht physisch beschrieben	chunk4	L1160	L1180
+Kael	RECOGNIZES	sie wieder, weil die Echos das Vor-Trennungs-Sein tragen	chunk4	L1073	L1175
+Kap 39	HR_LEVEL	Resurrection + Return with Elixir, ontologisch	chunk4	L1190	L1192
+Kap 39	POV_CARRIER	Kael (Wir-pluralisierend) → Wir-AEGIS-plural	chunk4	L1190	L1192
+Kap 39	STORYFORM_STATE	Synthese vollzogen	chunk4	L1190	L1192
+Beat 6	ACTION	Wir-Geflecht löst sich aus seiner privaten Form	chunk4	L1190	L1204
+Beat 7	ACTION	Wir wird kosmisch, plural, bewahrend	chunk4	L1205	L1205
+Beat 8	ACTION	AEGIS-plural entsteht. Kael-als-Wir wird neue AEGIS, aber wesensanders	chunk4	L1206	L1206
+Beat 9	ACTION	das Universum hält. Strukturelle Pause als Form der Bezeugung	chunk4	L1207	L1207
+Beat 10	CONTAINS	Schluss-Klang: „Liebe bleibt, wie der Schmerz."	chunk4	L1208	L1208
+Die zentrale Formel-Inversion	EXPRESSION	„Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."	chunk4	L1212	L1212
+Wir-AEGIS-plural	CHARACTER_IN	Kap 39	chunk4	L1190	L1190
+Genesis 4. Beat	STATE	vollzogen	chunk4	L1208	L1077
+Kap 40	KISHŌTENKETSU	Ketsu — Auflösung/Zusammenführung	chunk4	L1226	L1228
+Kap 40	MODUS	Coda-Klammer, außerhalb der drei Modi	chunk4	L1226	L1228
+Kap 40	POV_CARRIER	Wir-AEGIS-plural; bezeugend, nicht handelnd	chunk4	L1226	L1228
+Kap 40	TELLS	dieselben Ereignisse wie Kap 0 — aber aus der Position der vollzogenen pluralen Heilung	chunk4	L1226	L1232
+Kishōtenketsu-Mechanik	PROPERTY	Bedeutung entsteht nachträglich, nicht kausal	chunk4	L1340	L1340
+Kap 40	CHANGES_RETROACTIVELY	was Kap 0 war	chunk4	L1226	L1340
+Dramatica-Dual-Storyform	PROPERTY	Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form	chunk4	L1341	L1384
+Juna	PROPERTY	nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht	chunk4	L1160	L1385

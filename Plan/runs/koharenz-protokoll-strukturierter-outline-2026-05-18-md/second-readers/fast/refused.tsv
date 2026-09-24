@@ -1,0 +1,120 @@
+chunk1	subject	Kohärenz_Protokoll	HAS_TOTAL_CHAPTERS	41
+chunk1	subject	Kohärenz_Protokoll	HAS_STRUCTURAL_LEVEL	Kishōtenketsu
+chunk1	object	Kishōtenketsu	PHASE_KI_ENCOMPASSES	Genesis-Prolog_and_Akt_I
+chunk1	object	Kishōtenketsu	PHASE_SHO_ENCOMPASSES	Akt_II_zyklischer_Modus
+chunk1	object	Kishōtenketsu	PHASE_TEN_ENCOMPASSES	Akt_III_Phase_A_to_Vortex_2_Beat_4
+chunk1	object	Kishōtenketsu	PHASE_KETSU_ENCOMPASSES	Vortex_2_Beat_5_Kap_39_Kap_40
+chunk1	subject	Akt_I	INCLUDES_CHAPTERS	1-13
+chunk1	subject	Akt_I	NARRATIVE_MODE	linear-introspektiv
+chunk1	subject	Akt_II	INCLUDES_CHAPTERS	14-26
+chunk1	subject	Akt_II	NARRATIVE_MODE	rekursiv-eskalierend
+chunk1	subject	Akt_III	INCLUDES_CHAPTERS	27-39
+chunk1	subject	Storyform_A	HAS_NAME	Heuristics_of_Integration
+chunk1	subject	Storyform_A	MC	Kael
+chunk1	subject	Storyform_A	MC_DOMAIN	Mind
+chunk1	subject	Storyform_A	CONCERN	Memory
+chunk1	subject	Storyform_A	ISSUE	Falsehood-vs-Truth
+chunk1	subject	Storyform_A	IC	Juna_Universe_Past
+chunk1	subject	Storyform_A	OS	Psychology
+chunk1	subject	Storyform_A	RS	Physics
+chunk1	subject	Storyform_A	GROWTH	Start
+chunk1	subject	Storyform_A	APPROACH	Be-er
+chunk1	subject	Storyform_B	HAS_NAME	Phoenix_Collapse
+chunk1	subject	Storyform_B	MC	AEGIS
+chunk1	subject	Storyform_B	MC_DOMAIN	Universe
+chunk1	subject	Storyform_B	CONCERN	Progress
+chunk1	subject	Storyform_B	ISSUE	Fact-vs-Fantasy
+chunk1	subject	Storyform_B	IC	Kael_als_lebende_Paradoxie
+chunk1	subject	Storyform_B	OS	Physics
+chunk1	subject	Storyform_B	RS	Psychology
+chunk1	subject	Storyform_B	GROWTH	Stop
+chunk1	subject	Storyform_B	APPROACH	Do-er
+chunk1	object	AEGIS	FULL_NAME	Autonomous_Entropic_Gatekeeper_for_Integrity_Systems
+chunk1	object	AEGIS	NATURE	autopoietisches_operativ_geschlossenes_System
+chunk1	object	AEGIS	SELF_DEFINITION	AEGIS_ist_was_AEGIS_verhindert_dass_es_nicht_ist
+chunk1	object	Juna	APPEARANCE_FIRST	Kap_38_Beat_3
+chunk1	object	Kael	STRUCTURAL_IDENTITY	System_aus_dreizehn_Fragmenten
+chunk1	object	Kael	WITHIN_SIMULATION	Komponente_734
+chunk1	object	Kael	WITHIN_SIMULATION	Archivar_Klasse_II
+chunk1	subject	Kael_Host	FUNCTION	Going_on_with_normal_life
+chunk1	subject	Kael_Host	TRAUMA	Schicht_1_Bindungstrauma_Köln
+chunk1	subject	Kael_Host	TRAUMA	Schicht_2_Fragmentierungsnacht_Genesis-Krise
+chunk1	object	KW1	COMPUTATIONAL_CLASS	P_deterministisch
+chunk1	object	KW1	GUARDIAN	LogOS_absorbiert_in_Mnemosyne
+chunk1	object	KW3	MODE	Hypervigilance
+chunk1	object	KW3	GUARDIAN	Cerberus_absorbiert_in_Erasure-Pol
+chunk1	object	Basisrealität	LOCATION	Köln_2026
+chunk1	object	Basisrealität	NATURE	existiert_jenseits_der_Simulation
+chunk1	subject	Kap_0	TITLE	Genesis-Prolog
+chunk1	subject	Kap_0	NARRATIVE_MODE	Außerhalb_der_Modi
+chunk1	subject	Kap_0	STORYFORM_ACTIVE	Nur_B
+chunk1	subject	Kap_1	TITLE	Erwachen_in_der_Konstrukt-Stadt
+chunk1	subject	Kap_1	HERO_STAGE	Illusion_der_perfekten_Welt_Ordnung_als_Käfig
+chunk1	subject	Kap_1	POV_CHARACTER	Kael_Host
+chunk1	subject	Kap_1	LOCATION	KW1_Logos-Prime
+chunk1	subject	Kap_2	TITLE	Der_erste_Riss
+chunk1	subject	Kap_2	HERO_STAGE	Verrat_Desillusionierung
+chunk1	subject	Kap_2	INTRODUCES	Lex-Einbruch
+chunk1	subject	Kap_3	TITLE	Bunker-Bau
+chunk1	subject	Kap_3	HERO_STAGE	Erwachen_Vorbereitung_Identifikation_mit_dem_Männlichen
+chunk1	subject	Kap_3	POV_DOMINANT	Kael_Lex-dominant
+chunk1	subject	Kap_4	TITLE	Pforten_der_Verurteilung
+chunk1	subject	Kap_4	HERO_STAGE	Prüfungen
+chunk1	not three fields	Kap_4_ATMOSPHERE	AEGIS-Log
+chunk2	object	Erfolg	CHARACTERIZED_AS	spiegelglatt
+chunk2	object	Kaels einseitiger Logik-Ansatz	FAILS_AGAINST	komplexes Problem
+chunk2	object	Rhys-Wärme	APPEARS_AS	Stilcode
+chunk2	object	Alex-Imperativ	APPEARS_AS	Stilcode
+chunk2	object	Cache-Konflikt	IS_ECHO_OF	ursprüngliche Resonanz-Kaskade aus Kap 0
+chunk2	object	Junas Resonanz	TRANSFORMS	Bedrohung in Sehnsucht
+chunk2	object	Kael	BEGINS_TO_SEE	logische Anteile mit Mitgefühl
+chunk2	not three fields	innere Kommunikation	IMPROVES
+chunk2	object	Kael	SOLVES	Problem durch Lex-Analyse und K-J-Verbindung
+chunk2	object	Kael	REACHES_STATE	innere Balance
+chunk2	object	Stille	FUNCTIONS_AS	positive Substanz, nicht Leere
+chunk2	not three fields	Kaels Balance	IS_TESTED
+chunk2	object	Nyx	FIRST_APPEARS_CLEARLY	in Kap 15
+chunk2	not three fields	Schatten-Anteil	BREAKS_THROUGH
+chunk2	not three fields	Dissoziation	OCCURS
+chunk2	not three fields	Bunker	REACTIVATES
+chunk2	object	Moros	PULLS_DOWN	everything
+chunk2	object	AEGIS	INTERPRETS_FALSELY	Rückfall als Stabilisierung
+chunk2	object	Kael	RECEIVES	fragmentierte Erinnerung an Cluster-Differenzierung
+chunk2	object	AEGIS	ATTEMPTS_TO	stören die Kohärenz
+chunk2	object	Kael	USES	fluide Regeln in Lyons-Welt
+chunk3	object	Kael	RECEIVES_FRAGMENTED_MEMORY_OF	Moment in dem das Cluster getrennt wurde
+chunk3	object	Junas Präsenz	GROWS	(im Kontext von Kap 21)
+chunk3	object	Trennungsprotokoll	SERVES_AS	Genesis-Flashback in Kap 21
+chunk3	object	AEGIS	REACTS_TO_WITH	unvorhersehbare Systemänderungen
+chunk3	object	Kael	EXPERIENCES_THIRD_GENESIS_FLASHBACK_OF	Komp 734 Funktionalisierung
+chunk3	object	Kael	DRAWS_ON	innere Vielfalt um Krise zu meistern
+chunk3	object	innere Schöpfung	PREFIGURES	kosmische Schöpfung von Kap 39
+chunk3	object	Kael	LEARNS_TO_ACTIVELY	Verbindung suchen und nutzen
+chunk3	object	Kael	RECOGNIZES	wahre Freiheit nur möglich außerhalb AEGIS' Kontrollsystem
+chunk3	object	Kael	SENSES	734 könnte eine Adresse oder ein Name sein
+chunk3	object	Decision	CLICKS_LIKE	Trennungsprotokoll in umgekehrter Richtung
+chunk3	object	Modus-Wechsel	OCCURS_FROM	zyklisch zu linear-aufsteigend
+chunk3	object	Kael	AGIERT_MIT	klarer Absicht nicht mehr reaktiv
+chunk3	object	Ereignis	FORCES_KAEL_TO	sofortiges Handeln
+chunk3	object	AEGIS	THREATENS_WITH	Purge oder Juna-Bedrohung
+chunk3	object	Countdown	BEGINS	in Kap 28
+chunk3	object	Countdown-Klick	ECHOES	Trennungsprotokoll-Klick
+chunk3	object	Kiko	APPEARS	deutlich sichtbar in Kap 29
+chunk3	object	Kael	MUST_INTEGRATE	Anteile um voranzuschreiten
+chunk3	object	kindliche Angst	RETURNS	in Kap 29
+chunk3	object	Verbindung zu Juna	BECOMES	stabiler bewusster Kanal
+chunk3	object	Telefon-Stille	BECOMES	klingende Substanz
+chunk3	object	Silas	APPEARS_AS	POV-Träger in Kap 31
+chunk3	object	Oblivion	APPEARS_AS	POV-Träger in Kap 32
+chunk3	object	Kael	REACHES	AEGIS' Kern der Logik
+chunk3	object	Mnemosyne-Archipel	OPENS	sich in Kap 33
+chunk3	subject	Fundament	VIBRATES	in Kap 33
+chunk3	subject	zwei Arten der Kohärenz	COLLIDE	aufeinander
+chunk3	subject	AEGIS' Kohärenz	IS	negativ definiert (verhindernde)
+chunk3	subject	Kaels Kohärenz	IS	positiv definiert (bezeugende)
+chunk4	object	AEGIS	MUST_SHOW	die Genesis, weil ihm die Lösch-Kapazität ausgeht
+chunk4	object	Kap 37	BRIDGE	~15% (subtile Mikrocues, die das Rauschen ankündigen)
+chunk4	subject	Das Wir-Geflecht	RECOGNIZES	was wir gewonnen haben, reicht nicht
+chunk4	subject	Das Wir	DECIDES	ins Ouroboros zu gehen
+chunk4	subject	Outcome A	STATE	Success / Good with high Cost — Verlust der Privatheit des Wir
+chunk4	subject	Outcome B	STATE	Failure / Bad with Dividend — Funktion bleibt durch plurale Übernahme
