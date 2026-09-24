@@ -189,6 +189,21 @@ def p_labeledfewshot_fixed_seed():
         f"LabeledFewShot demos {runs} are not a fixed random sample"
 
 
+def p_bootstrap_keeps_wrong_demos_on_prediction():
+    FixtureLM, _, fill, offline = _fixture()
+    train = [dspy.Example(q=str(i), a="richtig").with_inputs("q") for i in range(4)]
+    kept = {}
+    for name, metric in (("prediction", lambda e, p, t=None: dspy.Prediction(score=float(p.a == e.a))),
+                         ("float", lambda e, p, t=None: float(p.a == e.a))):
+        with offline(FixtureLM(fill(a="falsch"))):
+            compiled = dspy.BootstrapFewShot(metric=metric, max_bootstrapped_demos=4, max_labeled_demos=0) \
+                .compile(dspy.Predict("q -> a"), trainset=train)
+        kept[name] = len(compiled.demos)
+    if bool(dspy.Prediction(score=0.0)) is not True:
+        return "bool(dspy.Prediction(score=0.0)) is no longer True"
+    return None if kept == {"prediction": 4, "float": 0} else f"wrong answers kept as demos: {kept}"
+
+
 def p_simba_trainset_below_bsize():
     try:
         dspy.SIMBA(metric=lambda e, p: 1.0, bsize=32).compile(dspy.Predict("q -> a"), trainset=_devset(20))
@@ -220,9 +235,12 @@ def p_inferrules_halves_trainset():
 
 def p_chat_adapter_json_fallback():
     FixtureLM, _, _, offline = _fixture()
-    with offline(FixtureLM(lambda messages: '{"a": "x"}')):
+    lm = FixtureLM(lambda messages: '{"a": "x"}')
+    with offline(lm):
         answer = dspy.Predict("q -> a")(q="?").a
-    return None if answer == "x" else f"a JSON answer parsed to {answer!r}"
+    if answer != "x":
+        return f"a JSON answer parsed to {answer!r}"
+    return None if len(lm.requests) == 2 else f"the fallback cost {len(lm.requests)} calls, not 2"
 
 
 def p_unparseable_is_adapter_error():
@@ -319,6 +337,46 @@ def p_rlm_runs_offline():
     return None if out.candidates == "- Kern-Welt  ^[L1]" else f"RLM returned {out.candidates!r}"
 
 
+def p_rlm_forced_final_output():
+    try:
+        import deno  # noqa: F401
+    except ImportError:
+        return NotRun("no Deno — uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'")
+    FixtureLM, _, fill, offline = _fixture()
+    never_submits = fill(reasoning="Ich lese weiter.", code="print(len(document))",
+                         candidates="- Kern-Welt  ^[L1]")
+    with offline(FixtureLM(never_submits)):
+        out = dspy.RLM("document: str, task: str -> candidates: str", max_iters=1, max_llm_calls=3)(
+            document="L1| Die Kern-Welt ist eine Welt.", task="list the terms")
+    if out.final_reasoning != "Extract forced final output":
+        return f"an RLM out of iterations reported final_reasoning {out.final_reasoning!r}"
+    return None if out.candidates == "- Kern-Welt  ^[L1]" else "the forced answer did not look like an answer"
+
+
+class _EveryAttemptFails(dspy.Module):
+    def __init__(self):
+        super().__init__()
+        self.predict = dspy.Predict("q -> a")
+
+    def forward(self, q):
+        raise RuntimeError("attempt failed")
+
+
+def p_refine_none_when_all_fail():
+    FixtureLM, _, fill, offline = _fixture()
+    got = {}
+    for cls in (dspy.BestOfN, dspy.Refine):
+        for n in (2, 3):
+            with offline(FixtureLM(fill(a="x", discussion="d", advice="{}"))):
+                try:
+                    got[(cls.__name__, n)] = cls(module=_EveryAttemptFails(), N=n,
+                                                  reward_fn=lambda args, pred: 1.0, threshold=1.0)(q="?")
+                except RuntimeError:
+                    got[(cls.__name__, n)] = "raised"
+    want = {("BestOfN", 2): None, ("BestOfN", 3): "raised", ("Refine", 2): None, ("Refine", 3): "raised"}
+    return None if got == want else f"every attempt failing gave {got}, expected {want}"
+
+
 PROBES = {
     "evaluate-score-percent": p_evaluate_score_percent,
     "evaluate-failure-is-zero": p_evaluate_failure_is_zero,
@@ -328,6 +386,7 @@ PROBES = {
     "gepa-light-budget": p_gepa_light_budget,
     "labeledfewshot-fixed-seed": p_labeledfewshot_fixed_seed,
     "simba-trainset-below-bsize": p_simba_trainset_below_bsize,
+    "bootstrap-keeps-wrong-demos-on-prediction": p_bootstrap_keeps_wrong_demos_on_prediction,
     "inferrules-halves-trainset": p_inferrules_halves_trainset,
     "chat-adapter-json-fallback": p_chat_adapter_json_fallback,
     "unparseable-is-adapter-error": p_unparseable_is_adapter_error,
@@ -337,6 +396,8 @@ PROBES = {
     "saved-state-has-no-key": p_saved_state_has_no_key,
     "example-reaches-evaluator-by-name": p_example_reaches_evaluator_by_name,
     "rlm-runs-offline": p_rlm_runs_offline,
+    "rlm-forced-final-output": p_rlm_forced_final_output,
+    "refine-none-when-all-fail": p_refine_none_when_all_fail,
 }
 
 

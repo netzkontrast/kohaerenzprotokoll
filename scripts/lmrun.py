@@ -27,7 +27,9 @@ and no scanned repository enforced:
   decision. The offline fixture needs none.
 - **a `History`-carrying wrapper around `dspy.RLM`** is not offered at all:
   `dspy-session`'s own `docs/rlm.md` records RLM failing on every iteration
-  with „Unsupported value type: History".
+  with „Unsupported value type: History" — on DSPy 3.1.3. On 3.3.1 the same
+  wrapper fails at once, „Unexpected inputs not declared in the signature"
+  (re-read 2026-09-24, `Plan/concept/dspy-extract_2026-09-24/`).
 
 Ported: `dspy.track_usage()` around each call (dspy-agents
 `compile_rag.py:85-87`), `{"event": …, **state}` appended per call
