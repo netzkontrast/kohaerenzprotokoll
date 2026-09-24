@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -122,3 +122,12 @@ is not a surface of its head (J28).
 Outside the worlds: „Überwelt (Operationsraum von AEGIS)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L170]. **And inside
 one, as a name**: KW3 is „Cerberus-Labyrinth / Überwelt-Nexus", „Maschinenraum
 hinter dem Rendering" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165]. The document gives both and relates neither (J63).
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Hier residieren die zwei Guardians (Mnemosyne + Erasure-Pol) als abstrakte
+Entitäten" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L502]; the Wächter-Registry is „wo Mnemosyne und der Erasure-Pol
+verzeichnet sind" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L576]. „AEGIS hat kein Innen — er ist autopoietisch
+geschlossen." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L611] „Keine Heimat von Juna." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L612] Its Risse: „Risse
+erscheinen hier als Datenkorruption oder Signalrauschen" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L524]. Explicit as a
+setting only in Kap 33 (L805).
