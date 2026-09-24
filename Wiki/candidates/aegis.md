@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 5
-readings: 6
-conflict: C1
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 6
+readings: 7
+conflict: C1, C8
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -186,3 +186,28 @@ Person" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
 This is the first read source that states the [[guardians|Guardians]]' relation to AEGIS as
 architecture rather than inside a question — see `q1-guardians-and-aegis` and
 conflict `C6`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The name expanded, a directive, three protocols, and a Storyform slot that
+disagrees with the other canon-era source.**
+
+> „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) ist keine KI im
+> konventionellen Sinne." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L72]
+
+> „hervorgegangen aus Kael, aber nicht identisch mit Kael. Diese Unterscheidung
+> ist nicht-verhandelbar." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L72]
+
+„AEGIS ist kein Bösewicht. AEGIS ist eine Tragödie." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L76] Its Primal
+Directive is the Kap-0 sentence: „AEGIS ist, was AEGIS verhindert, dass es nicht
+ist." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L80]
+
+**Three protocols, reduced from twelve** — „Drei Protokolle (von ursprünglich 12
+reduziert)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L125]: „Suppressionsprotokoll" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L131], „Kohärenzprotokoll"
+^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L132], „Re-Containment-Protokoll" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L133].
+
+**Storyform B:** „Resolve = Steadfast (bleibt klassisch logisch, bis zum Ende).
+Approach = Be-er" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L156]. The other canon-era source's slot table gives B's
+Approach as Do-er — „| Approach | Be-er | Do-er |" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L154]. Conflict `C8`.
+
+Its end is [[algorithmische-melancholie|Algorithmische Melancholie]].
