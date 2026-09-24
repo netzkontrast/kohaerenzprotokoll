@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 3
+readings: 3
+conflict: C4, C6
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -71,3 +71,15 @@ takes the pair apart.
 ### Note
 
 Called a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] here and never a `Guardian`. See [[guardians]].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**No longer a Guardian of its own, by this source's account.** The world table
+gives its place in one cell:
+
+> „(Kairos/Sophia, latent)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54]
+
+and says why: „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus,
+Kairos, Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The earlier readings on this
+page are what this document calls earlier drafts. Recorded, not applied — see
+`C6`.
