@@ -871,3 +871,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L135: the Abwärme „manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse“; document 7 L458 calls that rendering the Landauer-Signatur.
 
 **Result.** TWO terms. The heat is the cause, the signature its rendering; the passage is a reading on landauer-signatur because it states the rendering.
+
+## J63 — Überwelt-Nexus / Überwelt
+
+**two-terms** · kapitel-kompendium-gather-2026-05-31-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming a place is not either of the places it is built from (J8, J49); where one document gives both, it is a reading, not a merge
+- **mechanised by:** `nothing`
+- **features:** compound, second-name, two-levels
+
+**Question.** whether KW3's second name is the Überwelt
+
+**What was done.** L165 names KW3 „Cerberus-Labyrinth / Überwelt-Nexus“, „Maschinenraum hinter dem Rendering“; L170 places the Überwelt outside the Kern-Welten.
+
+**Result.** TWO terms, and neither is Nexus either. The compound names a place in KW3; the passage is a reading on ueberwelt, nexus and kern-welten, because it states a relation between them the document itself leaves unresolved.
