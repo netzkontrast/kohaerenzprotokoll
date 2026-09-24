@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 4
-readings: 3
-conflict: none
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 5
+readings: 4
+conflict: C6
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -115,8 +115,8 @@ Document 4 gives five [[guardians|Guardians]] and four worlds by name, with [[lo
 with [[guardians|Guardians]] and no world names. **Neither document contains both halves.**
 
 If `LogOS` here is [[logos]] there — which `fold()` decides mechanically, and which
-nothing has contradicted — then `KW1` is `konstrukt-stadt` and `KW3` is
-`grenzfeste`. **That sentence is this page's inference, attributed to no source**,
+nothing has contradicted — then `KW1` is [[konstrukt-stadt]] and `KW3` is
+[[grenzfeste]]. **That sentence is this page's inference, attributed to no source**,
 and it is written down so that the next document can confirm or break it rather
 than so that anything may rely on it now.
 
@@ -155,9 +155,9 @@ with document 4's Guardian↔world names, the join reads:
 
 | number | Guardian | world name, from document 4 |
 |---|---|---|
-| KW1 | LogOS | `konstrukt-stadt` |
+| KW1 | [[logos|LogOS]] | `konstrukt-stadt` |
 | KW2 | [[mnemosyne|Mnemosyne]] | [[resonanz-landschaft]] |
-| KW3 | Cerberus | `grenzfeste` |
+| KW3 | [[cerberus|Cerberus]] | `grenzfeste` |
 | KW4 | [[kairos|Kairos]]/[[sophia|Sophia]] | [[moeglichkeits-garten]] |
 
 **That table is still this page's inference and not any document's claim.** Two
@@ -202,3 +202,27 @@ that is unknown.
 Whether one Kern-Welt corresponds to one alter is **not** settled. Each level is
 „Assoziiert mit Alters wie Limina" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172] and three like it — *wie*, not *und*,
 so the roster is open at every level. See `q3-how-many-kern-welten-and-alters`.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Four, each with two names, and „KEINE Geographie"** ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214].
+
+> „Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]
+
+| KW | name(s) | mode / domain | style | act |
+|---|---|---|---|---|
+| KW1 | „Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219] | Rationalisierung, ANP-Vermeidung | P, Stilebene 1 | Akt I |
+| KW2 | „Mnemosyne-Archipel" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L220] | Trauma-Erinnerung, EP-Domäne | parakonsistent, Stilebene 2 | Akt II Mitte, Vortex 1 |
+| KW3 | „Cerberus-Labyrinth / Überwelt-Nexus" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L221] | Hypervigilanz, Verteidigung | NP-hart, Stilebene 2+ | Akt II/III |
+| KW4 | „Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L222] | Integration; lebende Widersprüche; Vortex-Quelle | generativ, Stilebene 3 | Akt III |
+
+**And two levels outside them:** „Plus zwei Ebenen außerhalb der KW: Überwelt
+(AEGIS' Operationsraum) · Externe Ebene (Köln 2026 — nie Bühne, nur
+Erinnerungsfragment, Telefonton, Geruch)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226]. Four plus two — the same
+six the frame [[realitaetsebenen]] holds, though this document never uses that word.
+
+**Where it differs from earlier readings on this page.** KW2 and KW3 carry
+different names here than the worlds `guardians-und-kern-welten-konzept` paired
+with [[mnemosyne|Mnemosyne]] and Cerberus (`Resonanz-Landschaft`, `Grenzfeste`), and the
+bearers' names have become parts of the world names while the pairing itself is
+denied. Recorded in conflict `C6`.
