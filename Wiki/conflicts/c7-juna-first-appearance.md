@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 2
+sources: 3
 pages: ["juna"]
 ---
 
@@ -39,3 +39,18 @@ sources wird die neue Ausgangslage." (decision 006)
 No position above is retired by its date or by a source's claim to be canon.
 This record is now an **item for discussion** with the author; it closes when the
 author decides it, and the decision will be written here with its date.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+A third source, dated the same day as the character bible, sides with document 7:
+
+> „Ihre erste direkte Erscheinung in Kap 38 ist die Klimax dieser Modi, nicht ein
+> neuer Modus." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L327]
+
+It is emphatic that nothing comes before: „keine "fast"-Erscheinungen, die die
+Klimax aufweichen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L327]. Its chapter line for Kap 38 agrees: „Junas erste
+direkte Erscheinung — Stille-Beat." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036] Its Externe Ebene lists a „Garten der
+stillen Präsenz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L546] — the place the character bible names for its Kap-33
+scene — without a scene in it.
+
+Two sources of the same date now disagree; the count of sides is not a settlement.
