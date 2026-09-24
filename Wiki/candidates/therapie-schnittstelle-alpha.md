@@ -1,10 +1,10 @@
 ---
 term: Therapie-Schnittstelle Alpha
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -22,7 +22,7 @@ The master list gives four facts in one row ^[roman-lokalitaeten-konzept-und-aus
 | Realitätsebene | `KW1` |
 | where the name came from | `Plot Teil 1` |
 | function, in brief | „Ort der (manipulierten) Selbstreflexion, Kontakt zum Therapeuten" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L190] |
-| associated characters | Kael, Therapeut (NPC), [[logos|LogOS]] (System) |
+| associated characters | [[kael|Kael]], Therapeut (NPC), [[logos|LogOS]] (System) |
 
 The profile states the double function directly:
 
@@ -46,3 +46,11 @@ Whether the Therapeut is a person, a construct or a Guardian's mask.
 The document hedges (`vermutlich`) and does not choose.
 
 What „Alpha" enumerates. No second Schnittstelle is named.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**Gamma, not Alpha**, and from the quarry: „Therapie-Schnittstelle Gamma", „Raum
+für simulierte Therapiesitzungen mit AEGIS-Avatar/NPC" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L167], labelled `[S]` —
+compatible, with „AEGIS als Avatar statt LogOS" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L167]. The document names its
+quarry as the old location concepts, among them this page's first source (L13).
+One term by J64.
