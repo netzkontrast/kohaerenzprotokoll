@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 3
+sources: 4
 pages: ["entropie"]
 ---
 
@@ -57,16 +57,21 @@ these it is. **[[entropie|Entropie]] carries `MISSING` for exactly that.**
 
 ## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
-**A third reading, which keeps sense 1 and turns it on AEGIS.** Entropy is still
-what AEGIS fights — and AEGIS is it:
+**A third reading, which keeps sense 1 and turns it on [[aegis|AEGIS]].** Entropy is still
+what [[aegis|AEGIS]] fights — and [[aegis|AEGIS]] is it:
 
 > „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32]
 
 „AEGIS kämpft gegen die Entropie, die es selbst erzeugt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L135] What AEGIS
-takes for the hostile chaos, the Nichts-Rauschen, is instead „die atemporale
+takes for the hostile chaos, the [[nichts-rauschen|Nichts-Rauschen]], is instead „die atemporale
 Vereinigung aller mutualen Information" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32] — so the „schöpferische Matrix" of
 sense 2 has a counterpart here, under another name and not called entropy.
 
 This is the first read source that states the project's own sense flatly, in a
 table of what AEGIS believes against „Was tatsächlich gilt" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L122]. It is one
 source; the conflict stays open.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+A second source for the third sense: AEGIS „*glaubt* K₁ (Kohärenz) zu sein, *ist*
+aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25], labelled `[K]`. The conflict stays open.
