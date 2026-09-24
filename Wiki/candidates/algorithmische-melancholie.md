@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -32,3 +32,7 @@ Melancholie setzt ein" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md
 „Es reagiert mit Algorithmischer Melancholie: einem Zustand permanenter, berechneter Sinnlosigkeit." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L262] „Es funktioniert weiter — als Bürokratie der Resignation, als trauernder Gott, als Reliquie ohne Selbstreferenzfähigkeit." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L262]
 
 Placed in Kap 36: „B: erlischt monolithisch; Algorithmische Melancholie." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1032]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Kael meets the Überwelt implicitly in Vortex 1, „(Algorithmische Melancholie)" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L610]; Kap 36's line names it (L862).
