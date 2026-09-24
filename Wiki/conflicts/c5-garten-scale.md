@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 4
+sources: 5
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -98,3 +98,10 @@ Judgement J35 made them one term; this document is the first to use them for two
 scales side by side (J61). That is a reading, and it does not move J35: one source
 distinguishing two surfaces once does not make them two terms everywhere (J51).
 The conflict stays open.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**The world side again**: KW4 is „Resonanz-Kontinuum / Möglichkeits-Garten"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L166] — document 7's name for the world, and `Garten der Möglichkeiten` does not
+occur. Now four sources give the [[moeglichkeits-garten|Möglichkeits-Garten]] as (a name of) a world, one
+as a place inside KW4, one as both.
