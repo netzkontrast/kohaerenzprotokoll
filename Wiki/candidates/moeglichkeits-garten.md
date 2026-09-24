@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -88,7 +88,7 @@ and the profile describes a region:
 
 „Tore zu anderen Bereichen von KW4" puts the garden **inside** KW4, with gates
 leading to the rest of it. Document 4 makes the Möglichkeits-Garten one of four
-Kern-Welten — KW4 entire, „eine Realität", paired to [[kairos|Kairos]] & [[sophia|Sophia]].
+[[kern-welten|Kern-Welten]] — KW4 entire, „eine Realität", paired to [[kairos|Kairos]] & [[sophia|Sophia]].
 
 ### The two cannot both be the whole account
 
@@ -113,3 +113,10 @@ Its mode is „Integration; lebende Widersprüche; Vortex-Quelle" ^[kohaerenz-pr
 written in [[juna|Juna]]'s style level, and it dominates Akt III. **This speaks to `C5`**,
 which asks whether the garden is a world or a place inside one: this source gives
 it as a second name of the fourth Kern-Welt, alongside `Resonanz-Kontinuum`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**KW4's only name here.** „KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54], mode
+„Integration, Generativ" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54]. Selene waits there: „Selene wartet im
+Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L494] A fourth source
+on the world side of `C5`.
