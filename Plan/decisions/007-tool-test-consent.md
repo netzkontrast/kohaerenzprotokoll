@@ -61,3 +61,10 @@ carry it.
 A free endpoint that turns out to keep prompts despite `data_collection: deny`,
 or a tool that sends text somewhere the router cannot see. Either ends the use
 of free models for corpus text until the author decides again.
+
+## Extended, 2026-09-24 — decision 008
+
+A rerun of the same tools on the same two documents, free models,
+`data_collection: deny`, through `route.py`, is inside this decision's scope
+(decision 008, answer 1). Nothing else changes: no other document, no paid model,
+nothing to Notion.

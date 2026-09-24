@@ -64,6 +64,15 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+# scripts/profile.py shadows the standard library's `profile`, which torch imports
+# through cProfile: the local embedder then failed with an ImportError the proxy
+# reported as "no local embedder" (tool review, 2026-09-24). Load the stdlib
+# modules while scripts/ is off the path, so a later import finds them cached.
+_path = sys.path[:]
+sys.path[:] = [p for p in sys.path if Path(p or ".").resolve() != ROOT / "scripts"]
+import cProfile  # noqa: E402,F401
+import profile  # noqa: E402,F401
+sys.path[:] = _path
 sys.path.insert(0, str(ROOT / "scripts"))
 
 import subject  # noqa: E402
@@ -73,6 +82,8 @@ API = "https://openrouter.ai/api/v1"
 EMBED_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 SHINGLE = 12          # words: a run this long of another document's text is that document
 TIMEOUT = 180         # seconds per model attempt; free endpoints answer in 2-120 s (2026-09-23/24)
+DEADLINE = 600        # seconds for one call across all its attempts
+_POOL = ThreadPoolExecutor(32)
 COOL = 60             # seconds a rate-limited model is skipped while others remain
 PROBE = "Antworte nur mit dem Wort: Kohärenz"
 REPLAY = False
@@ -243,6 +254,17 @@ def _post(url: str, body: dict | None, timeout: int = TIMEOUT) -> tuple[int, dic
         return 0, {"error": {"message": f"{type(e).__name__}: {e}"[:300]}}
 
 
+def _attempt(url: str, body: dict, timeout: int) -> tuple[int, dict]:
+    """One attempt with a hard deadline. urlopen's timeout bounds each socket read, not
+    the whole answer: a slow stream once held a call 510 s against a 180 s setting
+    (tool review, 2026-09-24). The thread may finish later; its answer is dropped."""
+    future = _POOL.submit(_post, url, body, timeout)
+    try:
+        return future.result(timeout=timeout)
+    except Exception:
+        return 0, {"error": {"message": f"no answer within {timeout} s"}}
+
+
 def _classify(status: int, body: dict) -> str:
     msg = json.dumps(body.get("error", body), ensure_ascii=False)
     if status == 404 and "data policy" in msg:
@@ -291,7 +313,7 @@ def lang(text: str) -> str | None:
 
 
 def chat(request: dict, *, purpose: str, doc: str | None = None, prefer: str | None = None,
-         expect: str | None = None, attempt: int = 0) -> dict:
+         expect: str | None = None, attempt: int = 0, deadline: int = DEADLINE) -> dict:
     """One chat completion from a free model, or {"unreached": why}.
 
     `request` is an OpenAI chat body without `model`. Raises Refused only for a
@@ -313,20 +335,24 @@ def chat(request: dict, *, purpose: str, doc: str | None = None, prefer: str | N
         return {"unreached": "not in the recording"}
     models = rotation(prefer)
     tried: list[dict] = []
+    started = time.time()
     for model in models + models:            # each model twice, in order, before giving up
-        if len(tried) >= 2 * len(models):
+        left = deadline - (time.time() - started)
+        if len(tried) >= 2 * len(models) or left < 5:
             break
         if _COOLING.get(model, 0) > time.time() and any(_COOLING.get(m, 0) <= time.time() for m in models):
             continue
         body = {**request, "model": model, "provider": {"data_collection": "deny"}, "usage": {"include": True}}
         t = time.time()
-        status, resp = _post(f"{API}/chat/completions", body)
+        status, resp = _attempt(f"{API}/chat/completions", body, int(min(TIMEOUT, left)))
         took = round(time.time() - t, 1)
         if status != 200 or "choices" not in resp:
             why = _classify(status, resp) if status else "unreached"
             if why == "rate-limited":
                 _COOLING[model] = time.time() + COOL
             tried.append({"model": model, "status": status, "why": why, "seconds": took})
+            # one row per failed attempt, written as it fails: a stuck run is visible
+            ledger(kind="attempt", purpose=purpose, doc=doc, key=key, model=model, outcome=why, seconds=took)
             time.sleep(1 if why == "rate-limited" else 0)
             continue
         usage = resp.get("usage") or {}
@@ -347,6 +373,7 @@ def chat(request: dict, *, purpose: str, doc: str | None = None, prefer: str | N
             defect = f"language {lang(content)}"
         if defect:
             tried.append({"model": model, "status": status, "why": defect, "seconds": took})
+            ledger(kind="attempt", purpose=purpose, doc=doc, key=key, model=model, outcome=defect, seconds=took)
             continue
         rec = {"model": resp.get("model", model), "provider": resp.get("provider"), "seconds": took,
                "content": content, "response": resp, "tried": tried}
@@ -554,8 +581,9 @@ class Proxy(BaseHTTPRequestHandler):
             return self._error(400, "token-id input is not supported; send strings", "invalid_request")
         try:
             vectors = embed(texts, purpose=purpose, doc=doc)
-        except ImportError:
-            return self._error(501, "no local embedder: run serve under .venv-grawiki/bin/python", "no_embedder")
+        except ImportError as e:
+            return self._error(501, f"no local embedder ({e}): run serve under .venv-grawiki/bin/python",
+                               "no_embedder")
         b64 = body.get("encoding_format") == "base64"
         data = [{"object": "embedding", "index": i,
                  "embedding": base64.b64encode(struct.pack(f"<{len(v)}f", *v)).decode() if b64 else v}
@@ -630,6 +658,9 @@ def cmd_ledger() -> int:
     priced = unpriced = 0
     cost = 0.0
     for r in rows:
+        if r.get("kind") == "attempt":          # a failed try inside a call, not a call
+            by[(r.get("purpose", "?"), "chat")]["retries"] += 1
+            continue
         k = (r.get("purpose", "?"), r.get("kind", "?"))
         by[k][("cached" if r.get("cached") else r.get("outcome", "?"))] += 1
         tokens[k]["in"] += r.get("prompt_tokens") or 0
@@ -642,11 +673,11 @@ def cmd_ledger() -> int:
                 cost += float(r["cost"])
     print(f"{len(rows)} ledger rows, {rows[0]['at']} .. {rows[-1]['at']}\n")
     print(f"  {'purpose':<28} {'kind':<7} {'ok':>5} {'cached':>6} {'unreach':>7} {'refused':>7} "
-          f"{'charged':>7} {'in tok':>9} {'out tok':>8}")
+          f"{'charged':>7} {'retries':>7} {'in tok':>9} {'out tok':>8}")
     for (p, k), c in sorted(by.items()):
         t = tokens[(p, k)]
         print(f"  {p:<28} {k:<7} {c['ok']:>5} {c['cached']:>6} {c['unreached']:>7} {c['refused']:>7} "
-              f"{c['charged']:>7} {t['in']:>9,} {t['out']:>8,}")
+              f"{c['charged']:>7} {c['retries']:>7} {t['in']:>9,} {t['out']:>8,}")
     models = Counter(r.get("model") for r in rows if r.get("outcome") == "ok" and not r.get("cached"))
     print("\nanswered by: " + ", ".join(f"{m} {n}" for m, n in models.most_common()))
     print(f"\ncost: ${cost:.6f} over {priced} priced calls; {unpriced} answered calls carry no price "
@@ -666,7 +697,7 @@ def cmd_guard(slug: str) -> int:
 def cmd_selftest() -> int:
     """Offline, no key, no network: every guard is shown to hold and to fail."""
     import tempfile
-    global OUT, REPLAY, _post
+    global OUT, REPLAY, _post, TIMEOUT
     real_consent = json.loads((OUT / "consent.json").read_text(encoding="utf-8"))
     allowed = real_consent["documents"]
     outsider = next(d.slug for d in subject.documents() if d.slug not in allowed and len(d.body) > 2000)
@@ -698,6 +729,10 @@ def cmd_selftest() -> int:
             "c:free": {"status": "rate-limited"}, "d:free": {"status": "data-policy"}}}), encoding="utf-8")
         _post = fake
         try:
+            print("imports")
+            prof = getattr(sys.modules.get("profile"), "__file__", "") or ""
+            check("`profile` is the standard library's, not scripts/profile.py (torch needs it)",
+                  bool(prof) and Path(prof).resolve().parent != ROOT / "scripts")
             print("price")
             check("listed 0/0 with :free is free", is_free({"id": "a:free", "pricing": {"prompt": "0", "completion": "0"}}))
             check("price 0 without :free is not (music models, meta-routers, stealth previews)",
@@ -744,6 +779,23 @@ def cmd_selftest() -> int:
             script[:] = [answer("The answer is that this is in English and not German."), answer("Die Antwort ist das.")]
             check("a wrong-language answer moves on", complete("vier", purpose="selftest", expect="de")
                   .get("content") == "Die Antwort ist das.")
+            print("deadlines and the record of attempts")
+            saved_timeout, TIMEOUT = TIMEOUT, 1
+            slow_calls: list[str] = []
+
+            def slow(url, body, timeout=TIMEOUT):
+                slow_calls.append(body["model"])
+                time.sleep(3)
+                return answer("zu spät")
+            _post = slow
+            t = time.time()
+            r = complete("langsam", purpose="selftest", attempt=0)
+            _post, TIMEOUT = fake, saved_timeout
+            check("an attempt past its hard deadline is cut off, not waited for",
+                  "unreached" in r and (time.time() - t) < 3 * len(slow_calls) + 1)
+            rows = [json.loads(l) for l in paths()["ledger"].read_text(encoding="utf-8").splitlines()]
+            check("every failed attempt leaves its own ledger row",
+                  sum(r.get("kind") == "attempt" and r.get("purpose") == "selftest" for r in rows) >= len(slow_calls))
             script[:] = [answer("teuer", cost=0.002)]
             try:
                 complete("fünf", purpose="selftest")
