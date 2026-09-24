@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -137,3 +137,10 @@ setting only in Kap 33 (L805).
 „AEGIS' Operationsraum / Maschinenraum hinter dem Rendering." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L416] — the gloss
 the Kapitel-Kompendium gave to KW3's „Überwelt-Nexus", given here to the Überwelt
 itself, while KW3 carries the name again (L410; J63).
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Established in the Genesis — Kap 0's sequence ends „Komponente 734 → Die Innere
+Weite (Überwelt-Etablierung)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] — and Kap 1's setting is it: „das sterile
+Setting ist die Innere Weite (Überwelt) aus Kap 0" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265], „der Leser erkennt das
+wieder; Kael nicht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]. The establishment and the place are two terms (J52).
