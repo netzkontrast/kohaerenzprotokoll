@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-24"
 ---
 
@@ -49,3 +49,8 @@ Silas' DKT-Korrelat is „Coheron-Echo" ^[kohaerenz-protokoll-charakter-bibel-20
 „Coheronen (K₁-Domäne) sind selbstkorrigierende Schleifen mutualer Information." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L110] „Coheronen sind reversibel, informationserhaltend, symmetrisch." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L110]
 
 „Liebe ist Coheron." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L38] Erasure cannot touch one: „Löschung braucht ein Vorher und ein Nachher. Coheronen haben keines." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L159] And KW4 is the „Einzige Zone, in der neue Coheronen entstehen können" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L518].
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+„Liebe ist Coheron; Coheronen sind atemporal" ^[kapitel-kompendium-gather-2026-05-31-md.md:L21] — the central question's
+answer, and „Verdrängung erzeugt Hitze" ^[kapitel-kompendium-gather-2026-05-31-md.md:L21].
