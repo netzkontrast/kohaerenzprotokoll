@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-24"
 ---
 
@@ -35,3 +35,8 @@ Its roster row gives category `Sonder`, function `Meta-Kognitiv` and arc `→ ko
 Roster row: „Argus (Meta-Kognitiv)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L409], correlate „Fraktale" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L410], somatics „offen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L411], arc „→ Konstruktive Kritik" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L412].
 
 From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 entstanden:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439] lists it.
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+His scenes carry A with an overlay: „Argus (Meta-Kognition)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L318], „A, mit
+Kommentar-Überlagerung" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L318].
