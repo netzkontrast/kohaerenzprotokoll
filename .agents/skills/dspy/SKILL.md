@@ -1,7 +1,7 @@
 ---
 name: dspy
 description: DSPy 3.3.1 as this repository uses it — what nine DSPy repositories (dspy-agent-skills, dspydantic, dspy-session, dspy-optimizer, dspy-agents, dspy-auto-gepa, braid-dspy, dspy-advanced-prompting, Agentic-Dspy-Rag) teach, checked against the installed package and sorted by the job at hand — calling a model through lmrun.py, signatures and modules, metrics that can fail, the optimizer ladder in pairs.py and what each rung costs, offline fixtures, dspy.RLM for rlm_ingest.py, retrieval for graphrag.py, optimizing a SKILL.md description with gepa.optimize_anything, trainsets, cost and traces — and which of their ideas were taken, wait for an instance, or were refused. Use before writing or changing code that imports dspy or gepa, before any model call, when choosing a module, metric or optimizer, when a DSPy error, an empty answer or a surprising score appears, and when an idea from one of those repositories is being considered.
-allowed-tools: Bash(python3 scripts/*), Bash(.venv-dspy/bin/python scripts/*), Bash(git:*)
+allowed-tools: Bash(python3 scripts/*), Bash(.venv-dspy/bin/python scripts/*), Bash(scripts/install.sh:*), Bash(git:*)
 ---
 
 # DSPy, as this repository uses it
