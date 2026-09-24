@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-16"
 ---
 
@@ -199,3 +199,22 @@ author.
 
 Her layer: „Juna als Zeit-Prinzip — kosmologische Konstante, die zwischen den
 Schichten wirkt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L75]. The rename: „Julia → Juna (analog)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L808]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+„Strukturelle Position, nicht Charakter." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L121] „Niemals physisch beschrieben."
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L121] Perceptible only by effect — Telefon-Stille, an anomalous Erason balance,
+Phantom-Resonanz, somatic warmth at erasure sites (L121). IC of Storyform A: „IC:
+Juna (Universe/Past)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L51]. In Kap 0: „Juna (als unbenannte Resonanz,
+atemporales Coheron)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237].
+
+**Her first direct appearance: Kap 38 Beat 3, and nowhere earlier.** „Erste direkte
+Erscheinung erst in Kap 38 Beat 3 — als Stille" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L121]; the entry: „Junas erste
+direkte Erscheinung: sie ist einfach da, ohne Worte, ohne Anweisung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1174]
+Every earlier chapter names her by effect — Kap 7: „Juna (nur durch Wirkung)"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L405] — or as witness, and Kap 33 does not name her. Conflict C7, the Kap-38
+side.
+
+„Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht."
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1385] In Kap 39: „Junas Stimme erscheint als Teil des Geflechts oder als Raum,
+in dem das Geflecht klingt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1208]
