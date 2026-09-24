@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -80,3 +80,8 @@ Transitkorridor Delta-7" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]. One
 
 „Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier"
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] — and on its console „Einheit 734" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152]. One term by J50.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Kap 1: „Lebt als Komp 734 in Wohneinheit 14/Sektor 7." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] — a fourth number
+for the dwelling; one term by J50.

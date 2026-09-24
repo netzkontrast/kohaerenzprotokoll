@@ -162,7 +162,7 @@ ranked term-pages, plus precision.
 | method | recall@8, current |
 |---|--:|
 | seeds only | 42 <!--state:graphrag.recall_seeds-->% |
-| personalized PageRank | 64 <!--state:graphrag.recall_ppr-->% |
+| personalized PageRank | 63 <!--state:graphrag.recall_ppr-->% |
 
 over 17 <!--state:graphrag.cases--> cases (`python3 scripts/state.py --get
 graphrag.cases`). `ppr+gloss` scores identically to `ppr` — no bench case is
@@ -182,7 +182,8 @@ seeding; it does not say the retriever is good"
 `Plan/runs/baselines.jsonl`'s `graphrag-retrieval` rows were written at `n=14`
 (seeds 45.3%, ppr 62.0%) after document 8's C7–C10; document 9's C11 and C12
 and the author's C6 decision (Q5) then grew the bench to 17 without a record,
-and the rows caught up on 2026-09-24 (seeds 41.9%, ppr 64.3%). They fall behind
+and the rows caught up on 2026-09-24, after document 14 (seeds 41.9%, ppr
+62.9%). They fall behind
 again whenever a question or conflict is added, until `graphrag.py bench
 --record` runs; the state above is what `python3 scripts/state.py` and a fresh
 `graphrag.py bench` both report right now.
@@ -632,10 +633,10 @@ P8): an edge to a page that does not exist, a document no manifest row lands.
 Exports: `--json`, `--graphml`, `--triples`, `--around <term> --hops N
 [--mermaid]`.
 
-**Current counts**: 122 <!--state:graph.nodes--> nodes,
-1163 <!--state:graph.edges--> edges; the evidence layer holds
-1219 <!--state:graph.evidence--> quotations, of which
-1104 <!--state:graph.evidence_verified--> verify against their cited line.
+**Current counts**: 123 <!--state:graph.nodes--> nodes,
+1258 <!--state:graph.edges--> edges; the evidence layer holds
+1420 <!--state:graph.evidence--> quotations, of which
+1305 <!--state:graph.evidence_verified--> verify against their cited line.
 
 **The graph is not a third layer** (P20): it is derived on every call, about
 0.4s, exactly like `Wiki/index.json`, and holds no content a page does not
@@ -661,8 +662,8 @@ A second layer, explicitly never merged into `build()`'s graph
   (`Ordnung` → Kohärenz and AEGIS) is dropped: "says nothing about which"
   (`scripts/graph.py`).
 
-**Current counts**: 226 <!--state:proposals.entities--> entities from lists
-that verify as readings, 28 <!--state:proposals.entities_paged--> of them
+**Current counts**: 300 <!--state:proposals.entities--> entities from lists
+that verify as readings, 49 <!--state:proposals.entities_paged--> of them
 folding to a page, 182 <!--state:proposals.glosses--> glosses.
 
 ### drg-kg: what it would do, and why it is not used that way

@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -44,3 +44,7 @@ Kommentar-Überlagerung" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L318
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 In the glossary's Alter table: role „Meta-Kognitiv" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L255], correlate „Fraktale" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L256], somatics „offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L257], arc „→ konstruktive Kritik" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L258].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „konstruktive Selbst-Kritik, Meta-Beobachter" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L154], correlate „Fraktale" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L154], language „klinisch, distanziert, Meta-Kommentar in Marginalien" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L154], position „Sonderfall — überall unbequem" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L154]. No chapter entry names him; the table row is his only line in the outline.

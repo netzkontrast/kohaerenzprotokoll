@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 6
+sources: 7
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -85,3 +85,12 @@ The rule, restated as a glossary entry: „Kaltes Ozon (scharf, elektrisch) =
 AEGIS-Unterdrückung / Landauer-Signatur." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L428] „Wärme = Junas ununterdrückbare
 Spur (Coheron-Verdrängung)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L429] It now has its own page,
 [[hitze-polaritaetsregel]], which gathers where it is kept and where not.
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**The warm side, ten days after the konsolidiertes Konzept and in its words for Kap
+36.** Kap 6: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L385]. Kap 36:
+„Landauer-Wärme als Schluss-Markierung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128], and Beat 4's „Heat-Spike
+(Landauer → ∞)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1115]. Ozone once, in Kap 1's list (L265). Twelve days before the
+2026-05-30 lock; it names the konsolidiertes Konzept as the source that wins a
+conflict (L1393).

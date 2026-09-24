@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -46,3 +46,7 @@ in KW4 „Sensorische Risse** (Isabelle-Trigger) als **Synästhesie**" ^[kohaere
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 In the glossary's Alter table: role „Sexualisiert" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L243], correlate „Pauli-Ausschluss" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L244], somatics „offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L245], arc „→ Verletzlichkeit" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L246].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Proaktive toxische Kontrolle, Inversion der Opfer-Position" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L146], correlate „Pauli-Ausschluss" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L146], arc „Waffe → echte Vulnerabilität" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L146]. No chapter entry names her; the table row is her only line in the outline.

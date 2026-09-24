@@ -1,0 +1,778 @@
+{
+ "source": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+ "written_by": "graphify extraction subagent (Claude, general-purpose), node labels",
+ "entities": [
+  {
+   "term": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md",
+   "kind": "document"
+  },
+  {
+   "term": "koharenz-protokoll-konzept-konsolidiert-2026-05-08.md",
+   "kind": "document"
+  },
+  {
+   "term": "dramatica-dual-storyform-status_2026-05-07.md",
+   "kind": "document"
+  },
+  {
+   "term": "three-mode-architecture-39-chapters.md",
+   "kind": "document"
+  },
+  {
+   "term": "Storyweaving-Startdokument",
+   "kind": "document"
+  },
+  {
+   "term": "Dual-Storyform-Lock-In",
+   "kind": "document"
+  },
+  {
+   "term": "Kishōtenketsu",
+   "kind": "rationale"
+  },
+  {
+   "term": "Dramatica-Dual-Storyform",
+   "kind": "rationale"
+  },
+  {
+   "term": "Drei narrative Modi",
+   "kind": "rationale"
+  },
+  {
+   "term": "Plot-und-Charakter-Detail",
+   "kind": "rationale"
+  },
+  {
+   "term": "Ki (起)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Shō (承)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Ten (転)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Ketsu (結)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Storyform A — Heuristics of Integration",
+   "kind": "rationale"
+  },
+  {
+   "term": "Storyform B — Phoenix Collapse",
+   "kind": "rationale"
+  },
+  {
+   "term": "Synthese (c)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Bridge-Frequenz",
+   "kind": "rationale"
+  },
+  {
+   "term": "Soft-Layering",
+   "kind": "rationale"
+  },
+  {
+   "term": "Klein-c-Schema",
+   "kind": "rationale"
+  },
+  {
+   "term": "Doppel-Vortex",
+   "kind": "rationale"
+  },
+  {
+   "term": "Vortex 1 (operativ)",
+   "kind": "document"
+  },
+  {
+   "term": "Vortex 2 (ontologisch)",
+   "kind": "document"
+  },
+  {
+   "term": "Heldinnenreise innen",
+   "kind": "document"
+  },
+  {
+   "term": "Zyklischer Modus",
+   "kind": "document"
+  },
+  {
+   "term": "Heldenreise außen + Doppel-Vortex",
+   "kind": "document"
+  },
+  {
+   "term": "Murdock/Schmidt (Heldinnenreise)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Campbell/Vogler (Heldenreise)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Memory (MC-Concern A)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Falsehood-vs-Truth (MC-Issue A)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Avoidance (MC-Problem A)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Pursuit (MC-Solution A)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Decision (Driver A)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Optionlock (Limit A)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Progress (Concern B)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Fact-vs-Fantasy (Issue B)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Logic (Problem B)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Feeling (Solution B)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Action (Driver B)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Timelock (Limit B)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Forewarning B",
+   "kind": "rationale"
+  },
+  {
+   "term": "AEGIS",
+   "kind": "document"
+  },
+  {
+   "term": "Juna",
+   "kind": "document"
+  },
+  {
+   "term": "Kael",
+   "kind": "document"
+  },
+  {
+   "term": "Komponente 734",
+   "kind": "document"
+  },
+  {
+   "term": "Kael (Host)",
+   "kind": "document"
+  },
+  {
+   "term": "Lex",
+   "kind": "document"
+  },
+  {
+   "term": "Alex",
+   "kind": "document"
+  },
+  {
+   "term": "Rhys",
+   "kind": "document"
+  },
+  {
+   "term": "Selene",
+   "kind": "document"
+  },
+  {
+   "term": "Nyx",
+   "kind": "document"
+  },
+  {
+   "term": "Kiko",
+   "kind": "document"
+  },
+  {
+   "term": "Lia",
+   "kind": "document"
+  },
+  {
+   "term": "Isabelle",
+   "kind": "document"
+  },
+  {
+   "term": "Moros",
+   "kind": "document"
+  },
+  {
+   "term": "Argus",
+   "kind": "document"
+  },
+  {
+   "term": "Silas",
+   "kind": "document"
+  },
+  {
+   "term": "Oblivion",
+   "kind": "document"
+  },
+  {
+   "term": "13 Alters",
+   "kind": "document"
+  },
+  {
+   "term": "ANPs (Apparently Normal Parts)",
+   "kind": "document"
+  },
+  {
+   "term": "EPs (Emotional Parts)",
+   "kind": "document"
+  },
+  {
+   "term": "Sonderfiguren",
+   "kind": "document"
+  },
+  {
+   "term": "Spiegel-Alter",
+   "kind": "document"
+  },
+  {
+   "term": "DKT-Korrelat",
+   "kind": "rationale"
+  },
+  {
+   "term": "Hubble-Volumen / Big Rip",
+   "kind": "rationale"
+  },
+  {
+   "term": "Gödel + Halteproblem",
+   "kind": "rationale"
+  },
+  {
+   "term": "Asymptotische Freiheit",
+   "kind": "rationale"
+  },
+  {
+   "term": "Maxwells Dämon",
+   "kind": "rationale"
+  },
+  {
+   "term": "Wurmlöcher + Entanglement Islands",
+   "kind": "rationale"
+  },
+  {
+   "term": "CPT-Verletzung",
+   "kind": "rationale"
+  },
+  {
+   "term": "Planck-Skala",
+   "kind": "rationale"
+  },
+  {
+   "term": "Quanten-Superposition",
+   "kind": "rationale"
+  },
+  {
+   "term": "Pauli-Ausschluss",
+   "kind": "rationale"
+  },
+  {
+   "term": "Big Freeze",
+   "kind": "rationale"
+  },
+  {
+   "term": "Fraktale",
+   "kind": "rationale"
+  },
+  {
+   "term": "Coheron-Echo, Tunneling",
+   "kind": "rationale"
+  },
+  {
+   "term": "Erason-Operator",
+   "kind": "rationale"
+  },
+  {
+   "term": "Guardians",
+   "kind": "document"
+  },
+  {
+   "term": "Mnemosyne",
+   "kind": "document"
+  },
+  {
+   "term": "Erasure-Pol",
+   "kind": "document"
+  },
+  {
+   "term": "LogOS",
+   "kind": "document"
+  },
+  {
+   "term": "Cerberus",
+   "kind": "document"
+  },
+  {
+   "term": "Kairos/Sophia",
+   "kind": "document"
+  },
+  {
+   "term": "Kernwelten",
+   "kind": "document"
+  },
+  {
+   "term": "KW1 — Logos-Prime",
+   "kind": "document"
+  },
+  {
+   "term": "KW2 — Mnemosyne-Archipel",
+   "kind": "document"
+  },
+  {
+   "term": "KW3 — Cerberus-Labyrinth",
+   "kind": "document"
+  },
+  {
+   "term": "KW4 — Möglichkeits-Garten",
+   "kind": "document"
+  },
+  {
+   "term": "Basisrealität — Köln 2026",
+   "kind": "document"
+  },
+  {
+   "term": "Konstrukt-Stadt",
+   "kind": "document"
+  },
+  {
+   "term": "Wohneinheit 14/Sektor 7",
+   "kind": "document"
+  },
+  {
+   "term": "Innere Weite (Überwelt)",
+   "kind": "document"
+  },
+  {
+   "term": "Lyons-Welt",
+   "kind": "document"
+  },
+  {
+   "term": "Babymonster-Welt",
+   "kind": "document"
+  },
+  {
+   "term": "Potentialmeer",
+   "kind": "document"
+  },
+  {
+   "term": "Ouroboros",
+   "kind": "document"
+  },
+  {
+   "term": "Genesis",
+   "kind": "document"
+  },
+  {
+   "term": "Genesis-Krise",
+   "kind": "document"
+  },
+  {
+   "term": "Trennungsprotokoll",
+   "kind": "document"
+  },
+  {
+   "term": "Cluster-Bildung",
+   "kind": "document"
+  },
+  {
+   "term": "Resonanzkaskade",
+   "kind": "document"
+  },
+  {
+   "term": "Stress-Test Delta-7",
+   "kind": "document"
+  },
+  {
+   "term": "Controlled Fragmentation Protocol",
+   "kind": "document"
+  },
+  {
+   "term": "Bunker",
+   "kind": "rationale"
+  },
+  {
+   "term": "Cache-Konflikt",
+   "kind": "rationale"
+  },
+  {
+   "term": "Erasure",
+   "kind": "rationale"
+  },
+  {
+   "term": "Erasure-Operator",
+   "kind": "rationale"
+  },
+  {
+   "term": "Erason",
+   "kind": "rationale"
+  },
+  {
+   "term": "Coheron",
+   "kind": "rationale"
+  },
+  {
+   "term": "Moonshine-Link",
+   "kind": "rationale"
+  },
+  {
+   "term": "K-J-Verbindung",
+   "kind": "rationale"
+  },
+  {
+   "term": "Quanten-Nichtlokalität",
+   "kind": "rationale"
+  },
+  {
+   "term": "Host-System-Verstrickung",
+   "kind": "rationale"
+  },
+  {
+   "term": "Telefon-Stille",
+   "kind": "rationale"
+  },
+  {
+   "term": "Witness-Funktion",
+   "kind": "rationale"
+  },
+  {
+   "term": "Chaitin-Konstante",
+   "kind": "rationale"
+  },
+  {
+   "term": "Lebende Gödel-Aussage",
+   "kind": "rationale"
+  },
+  {
+   "term": "Lebende Paradoxie",
+   "kind": "rationale"
+  },
+  {
+   "term": "Gödel-Gambit",
+   "kind": "rationale"
+  },
+  {
+   "term": "Lebende Dialetheia",
+   "kind": "rationale"
+  },
+  {
+   "term": "Parakonsistente Logik",
+   "kind": "rationale"
+  },
+  {
+   "term": "Landauer-Wärme",
+   "kind": "rationale"
+  },
+  {
+   "term": "Algorithmische Melancholie",
+   "kind": "rationale"
+  },
+  {
+   "term": "Funktionale Multiplizität",
+   "kind": "rationale"
+  },
+  {
+   "term": "Wir-Geflecht",
+   "kind": "document"
+  },
+  {
+   "term": "Wir-AEGIS-plural",
+   "kind": "document"
+  },
+  {
+   "term": "Plurale Bewahrung",
+   "kind": "rationale"
+  },
+  {
+   "term": "Mosaik-Herz",
+   "kind": "rationale"
+  },
+  {
+   "term": "Reinform (K1)",
+   "kind": "rationale"
+  },
+  {
+   "term": "Multiplizitäts-Schleier-Disziplin",
+   "kind": "rationale"
+  },
+  {
+   "term": "AEGIS-Formel („AEGIS ist, was AEGIS verhindert, dass es nicht ist\")",
+   "kind": "rationale"
+  },
+  {
+   "term": "Formel-Inversion („Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist\")",
+   "kind": "rationale"
+  },
+  {
+   "term": "Kohärenz",
+   "kind": "rationale"
+  },
+  {
+   "term": "Ontologische Heilungs-Schleife",
+   "kind": "rationale"
+  },
+  {
+   "term": "Liebe bleibt, wie der Schmerz",
+   "kind": "rationale"
+  },
+  {
+   "term": "Gärtner",
+   "kind": "document"
+  },
+  {
+   "term": "Genesis-Echo",
+   "kind": "rationale"
+  },
+  {
+   "term": "Genesis-Flashback",
+   "kind": "rationale"
+  },
+  {
+   "term": "Genesis-Flashback-Stimme",
+   "kind": "document"
+  },
+  {
+   "term": "Funken-Ich",
+   "kind": "document"
+  },
+  {
+   "term": "Rauschen-Motiv",
+   "kind": "rationale"
+  },
+  {
+   "term": "Form-Motiv",
+   "kind": "rationale"
+  },
+  {
+   "term": "Klick-Motiv",
+   "kind": "rationale"
+  },
+  {
+   "term": "Phantom-Motiv",
+   "kind": "rationale"
+  },
+  {
+   "term": "Resonanz-Motiv",
+   "kind": "rationale"
+  },
+  {
+   "term": "OQ-A — Naming der finalen Form",
+   "kind": "document"
+  },
+  {
+   "term": "OQ-B — Junas Erscheinungsmodi-Anker",
+   "kind": "document"
+  },
+  {
+   "term": "OQ-C — Genesis-Cluster-Zuordnung Akt II",
+   "kind": "document"
+  },
+  {
+   "term": "OQ-D — MC Symptom/Response in beiden Storyforms",
+   "kind": "document"
+  },
+  {
+   "term": "OQ-E — Spiegel-Alter-Konzeption (Silas, Oblivion)",
+   "kind": "document"
+  },
+  {
+   "term": "OQ-F — Moonshine-Boundary",
+   "kind": "document"
+  },
+  {
+   "term": "OQ-G — Post-Vortex-AEGIS-Status",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 0 — Genesis-Prolog",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 1 — Erwachen in der Konstrukt-Stadt",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 2 — Der erste Riss",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 3 — Bunker-Bau",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 4 — Pforten der Verurteilung",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 5 — Auge des Sturms",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 6 — Echos im Fundament",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 7 — Die Stimme im Rauschen",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 8 — Die Wächterin",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 9 — Wir",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 10 — Die erste Brücke",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 11 — Mosaik des Selbst",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 12 — Stille der Mitte",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 13 — Tanz im Garten",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 14 — Bruch des Gleichgewichts",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 15 — Z1-Destabilisierung: Trigger",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 16 — Z1-Reaktion: Bunker reaktiv",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 17 — Z1-Korrektur: Wächterin",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 18 — Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 19 — Z2-Reaktion + AEGIS-Intervention",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 20 — Z2-Korrektur: Lyons-Kreativität",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 21 — Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 22 — Z3-Reaktion + Genesis-Flashback (Komp 734)",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 23 — Z3-Korrektur: Mosaik als Schöpfung",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 24 — Telefon-Stille (K-J-Thema wiederkehrend)",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 25 — Wendepunkt-Vorbereitung",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 26 — Wendepunkt: Entscheidung zur Befreiung",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 27 — Ordinary World: Entschlossenheit",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 28 — Call to Adventure: AEGIS' Eskalation / Juna in Gefahr",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 29 — Refusal: Letzte Zweifel, Trauma-Echo",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 30 — Meeting Mentor: K-J Verbindung Kulmination",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 31 — Crossing First Threshold: Angriff auf AEGIS",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 32 — Tests, Allies, Enemies: Systemkampf",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 33 — Approach Inmost Cave: Vordringen zu AEGIS' Kern",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 34 — Konfrontation: Zwei Arten der Kohärenz",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 35 — Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 36 — Vortex 1 Beat 4–5: Stille, Übergang",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 37 — Der Gärtner / Trügerischer Sieg",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 38 — Die Resonanz, die ankommt (Vortex 2 Beat 1–5)",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 39 — Wir-AEGIS-plural (Vortex 2 Beat 6–10)",
+   "kind": "document"
+  },
+  {
+   "term": "Kap 40 — Geheilte Genesis (Coda)",
+   "kind": "document"
+  }
+ ]
+}

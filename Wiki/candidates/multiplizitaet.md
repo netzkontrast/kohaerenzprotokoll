@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-16"
 ---
 
@@ -91,3 +91,11 @@ keine externe Handlungssequenz." ^[dramatica-dual-storyform-status-2026-05-07-md
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 „Die Resolution des Systems Kael — niemals Fusion." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L280]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Reached as a state in Kap 33: „Funktionale-Multiplizität-Achievement: FM erreicht als
+operativer Zustand." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1029] „Funktionale Multiplizität ist erreicht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1033];
+held in Kap 37: „Funktionale Multiplizität gefestigt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1140]. Before it, a
+discipline of the prose: „Die Multiplizitäts-Schleier-Disziplin hält." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L497]
+(J28 — named after multiplicity, not it).

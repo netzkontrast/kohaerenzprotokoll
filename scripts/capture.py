@@ -75,6 +75,22 @@ def candidate_terms(markdown: str) -> list[str]:
     return out
 
 
+def read_as_prose(markdown: str) -> list[str]:
+    """The `- ` lines `candidate_terms` leaves out, so the count can name them.
+
+    Punctuation is the signal and it is not a perfect one: a chapter title can
+    carry a comma (`Tests, Allies, Enemies`) and a beat an abbreviating period
+    (`Genesis 4. Beat`). Measured 2026-09-24 over every candidate list: 34 `- `
+    lines match `PROSE`; the 24 in documents 5 and 6 are prose, and **10 are
+    terms, in four lists** — `P vs. NP` twice, `Comp. Class`, `AI, general`,
+    a formula, and document 14's three chapter titles and beat. All ten were
+    left out of their counts with nothing saying so — the P23 shape, a guard
+    reporting over a gap it cannot see. So whatever is left out is listed.
+    """
+    return [line[2:].strip() for line in markdown.split("\n")
+            if line.startswith("- ") and line[2:].strip() and PROSE.search(line[2:].strip())]
+
+
 def surfaces(term: str, text: str) -> list[tuple[str, int]]:
     """The inflected and compounded forms of this candidate the document holds.
 
@@ -246,10 +262,17 @@ def count(slug: str) -> Path:
     terms = candidate_terms(candidates)
     if not terms:
         sys.exit(f"{candidates_file} has no `- term` lines yet")
+    prose = read_as_prose(candidates)
+    if prose:
+        print(f"{len(prose)} `- ` line(s) read as prose, not counted: " + " · ".join(prose))
     lines = text.split("\n")
     out = [
         f"# counts for {len(terms)} candidates",
         f"# line numbers are FILE lines, as a citation writes them",
+    ]
+    if prose:
+        out.append(f"# {len(prose)} `- ` line(s) read as prose and not counted: " + " · ".join(prose))
+    out += [
         "",
     ]
     out.append("#   word = the term standing alone; in = anywhere, compounds included")
@@ -269,6 +292,7 @@ def count(slug: str) -> Path:
         "candidate_source": "reconstructed-from-census" if reconstructed else "written-while-reading",
         "usable_as_baseline": not reconstructed,
         "line_base": "file, from line 1, as a citation writes it",
+        "read_as_prose": prose,
         "counts": counts,
     }, by="scripts/capture.py")
     return run

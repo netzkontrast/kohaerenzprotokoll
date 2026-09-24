@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -45,3 +45,13 @@ KW4: „Hier zeigt sich Selene erstmals als Architektin innerer Harmonie." ^[koh
 In the glossary's Alter table: role „ISH/Mediator" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L219], correlate „Wormholes, Entanglement Islands" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L220], somatics „Hände entspannen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L221], arc „→ Mediatorin" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L222].
 
 „ISH — Internal Self Helper." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L171] „Im System Kael: Selene." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L171]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Vermittlung, Systemübersicht, Internal Self-Helper" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L136], correlate „Wurmlöcher + Entanglement Islands" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L136], arc „Guardian → Mediator" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L136]. 
+
+**The Wächterin.** Kap 8 is titled „Die Wächterin" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L415]: „Selene tritt erstmals als
+ISH-Funktion auf — vermittelt, ohne zu kämpfen." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425] Its echo: „Selene als
+Vor-Trennungs-Substanz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L433]. Kap 17 again: „Selene (Wächterin-Funktion klar)"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L649]. Q4 — here `Wächterin` names Selene's function, and `Guardian` a stage of
+her arc.

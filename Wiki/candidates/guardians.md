@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-16"
 ---
 
@@ -282,3 +282,16 @@ aufgegangen)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L302]
 Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810] — with their weight lowered: „„Guardians als zentrale
 Antagonisten" → Sub-Aspekte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L814]. A seventh 2026 source for two, after the
 author's decision for five.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+„Die zwei Guardians (auf 2 reduziert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L158]: [[mnemosyne|Mnemosyne]] and the
+Erasure-Pol, „Name offen (OQ). Funktion: Löschungs-Exekutive." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161]
+
+**Where the others went is stated twice, and not the same way.** „Die alten
+Cerberus-, LogOS-, Kairos-Funktionen sind hier absorbiert." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161] — in the
+Erasure-Pol — while the world table gives „(LogOS, in Mnemosyne absorbiert)"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172] and „(Kairos/Sophia, latent)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175]. In Akt III: „Guardians als
+Sub-Antagonisten (Mnemosyne, Erasure-Pol)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005]. The word also names a stage
+of [[selene|Selene]]'s arc, „Guardian → Mediator" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L136]. C6 (decided: five), Q1,
+Q5.

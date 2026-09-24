@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -45,3 +45,7 @@ KW2's temporal Risse are hers: „Temporale Risse** (Kiko-Trigger)" ^[kohaerenz-
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 In the glossary's Alter table: role „Freeze" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L231], correlate „Planck-Skala" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L232], somatics „Sich klein machen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L233], arc „→ Vertrauen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L234].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Erstarrung, klein-werden, kindliche Angst" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L144], correlate „Planck-Skala" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L144], arc „Misstrauen → systemisches Vertrauen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L144]. Kap 29: „Kiko ist deutlich sichtbar — die kindliche Angst kommt zurück." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L937]

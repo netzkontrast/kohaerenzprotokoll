@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -46,3 +46,7 @@ KW2) and „als mögliche Moros-Anschluss-Stelle" ^[kohaerenz-protokoll-kernwelt
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 In the glossary's Alter table: role „Kollaps" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L249], correlate „Big Freeze" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L250], somatics „Katatonie" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L251], arc „→ Drachenkampf" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L252].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Absolute Resignation, Katatonie-Tendenz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L147], correlate „Big Freeze" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L147], arc „Aufgeben → Drachenkampf" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L147]. Kap 16: „Moros' Schwere zieht im Hintergrund alles herunter." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L621]

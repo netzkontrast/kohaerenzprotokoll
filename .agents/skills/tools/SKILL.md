@@ -228,11 +228,14 @@ ledger specified in three places whose directory does not exist.
   nothing has been promoted, and there is no rule yet for what happens when a new
   source contradicts a page a person signed off.
 - **Extraction is not yet trained.** `scripts/gold.py` rules
-  9 <!--state:trainset.gold_candidate_lists--> `Plan/runs/<slug>/03-candidates.md`
-  gold — documents 5 to 13 — and none of the four reconstructions (decision 009;
-  this line said „one" until 2026-09-24). Only documents 5 and 6 have been scored
-  against, and no extractor tested so far reaches the Haiku floor on them
-  (`Plan/concept/tool-review_2026-09-24.md`).
+  10 <!--state:trainset.gold_candidate_lists--> `Plan/runs/<slug>/03-candidates.md`
+  gold — documents 5 to 14 — and none of the four reconstructions (decision 009;
+  this line said „one" until 2026-09-24). Documents 5, 6 and 14 have been scored
+  against. On 5 and 6 no extractor tested reached the Haiku floor
+  (`Plan/concept/tool-review_2026-09-24.md`); on 14, knowledge-graph-extract with
+  Claude as the model scored F1 0.37 where the Haiku list scored 0.19 — one
+  document, one attempt
+  (`Plan/runs/koharenz-protokoll-strukturierter-outline-2026-05-18-md/second-readers/README.md`).
 
 `references/commands.md` has every script's full surface and its artifacts, and
 `scripts/README.md` is the map of the folder — one entry per file, what it is

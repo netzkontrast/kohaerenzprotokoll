@@ -1,0 +1,174 @@
+{"name": "Strukturierter Outline aller 41 Bewegungen", "type": "Document", "aliases": ["Kohärenz Protokoll — Strukturierter Outline aller 41 Bewegungen", "Outline-Stand 2026-05-18"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "koharenz-protokoll-konzept-konsolidiert-2026-05-08.md", "type": "Document", "aliases": ["Konzept-Dokument 2026-05-08", "Konzept-Konsolidierung"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "dramatica-dual-storyform-status_2026-05-07.md", "type": "Document", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "three-mode-architecture-39-chapters.md", "type": "Document", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Storyweaving-Startdokument", "type": "Document", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kohärenz Protokoll", "type": "Novel", "aliases": ["Roman"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kishōtenketsu", "type": "StructuralLevel", "aliases": ["Ebene 1"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Dramatica-Dual-Storyform", "type": "StructuralLevel", "aliases": ["Ebene 2", "Dual-Storyform"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Drei narrative Modi", "type": "StructuralLevel", "aliases": ["Ebene 3"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Ki", "type": "KishotenketsuPhase", "aliases": ["Ki (起)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Shō", "type": "KishotenketsuPhase", "aliases": ["Shō (承)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Ten", "type": "KishotenketsuPhase", "aliases": ["Ten (転)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Ketsu", "type": "KishotenketsuPhase", "aliases": ["Ketsu (結)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Genesis-Prolog", "type": "StructuralBlock", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Heldinnenreise innen", "type": "StructuralBlock", "aliases": ["Akt I"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Zyklischer Modus", "type": "StructuralBlock", "aliases": ["Akt II"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Heldenreise außen Phase A", "type": "StructuralBlock", "aliases": ["Akt III Phase A"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Vortex 1", "type": "StructuralBlock", "aliases": ["Vortex 1 (operativ)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Trügerischer Sieg", "type": "StructuralBlock", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Vortex 2", "type": "StructuralBlock", "aliases": ["Vortex 2 (ontologisch)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Geheilte Genesis", "type": "StructuralBlock", "aliases": ["Geheilte Genesis (Coda)", "Coda"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Doppel-Vortex", "type": "StructuralBlock", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "linear-introspektiv", "type": "NarrativeMode", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "rekursiv-eskalierend", "type": "NarrativeMode", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "linear-aufsteigend", "type": "NarrativeMode", "aliases": ["linear-aufsteigend mit eingebettetem Vortex"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Synthese (c)", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Storyform A", "type": "Storyform", "aliases": ["Heuristics of Integration"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Storyform B", "type": "Storyform", "aliases": ["Phoenix Collapse"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 0", "type": "Chapter", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 1", "type": "Chapter", "aliases": ["Erwachen in der Konstrukt-Stadt"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 2", "type": "Chapter", "aliases": ["Der erste Riss"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 3", "type": "Chapter", "aliases": ["Bunker-Bau"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 4", "type": "Chapter", "aliases": ["Pforten der Verurteilung"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 5", "type": "Chapter", "aliases": ["Auge des Sturms"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 6", "type": "Chapter", "aliases": ["Echos im Fundament"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 7", "type": "Chapter", "aliases": ["Die Stimme im Rauschen"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 8", "type": "Chapter", "aliases": ["Die Wächterin"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 9", "type": "Chapter", "aliases": ["Wir"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 10", "type": "Chapter", "aliases": ["Die erste Brücke"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 11", "type": "Chapter", "aliases": ["Mosaik des Selbst"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 12", "type": "Chapter", "aliases": ["Stille der Mitte"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 13", "type": "Chapter", "aliases": ["Tanz im Garten"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 14", "type": "Chapter", "aliases": ["Bruch des Gleichgewichts"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 15", "type": "Chapter", "aliases": ["Z1-Destabilisierung: Trigger"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 16", "type": "Chapter", "aliases": ["Z1-Reaktion: Bunker reaktiv"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 17", "type": "Chapter", "aliases": ["Z1-Korrektur: Wächterin"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 18", "type": "Chapter", "aliases": ["Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 19", "type": "Chapter", "aliases": ["Z2-Reaktion + AEGIS-Intervention"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 20", "type": "Chapter", "aliases": ["Z2-Korrektur: Lyons-Kreativität"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 21", "type": "Chapter", "aliases": ["Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 22", "type": "Chapter", "aliases": ["Z3-Reaktion + Genesis-Flashback (Komp 734)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 23", "type": "Chapter", "aliases": ["Z3-Korrektur: Mosaik als Schöpfung"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 24", "type": "Chapter", "aliases": ["Telefon-Stille (K-J-Thema wiederkehrend)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 25", "type": "Chapter", "aliases": ["Wendepunkt-Vorbereitung"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 26", "type": "Chapter", "aliases": ["Wendepunkt: Entscheidung zur Befreiung"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 27", "type": "Chapter", "aliases": ["Ordinary World: Entschlossenheit"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 28", "type": "Chapter", "aliases": ["Call to Adventure: AEGIS' Eskalation / Juna in Gefahr"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 29", "type": "Chapter", "aliases": ["Refusal: Letzte Zweifel, Trauma-Echo"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 30", "type": "Chapter", "aliases": ["Meeting Mentor: K-J Verbindung Kulmination"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 31", "type": "Chapter", "aliases": ["Crossing First Threshold: Angriff auf AEGIS"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 32", "type": "Chapter", "aliases": ["Tests, Allies, Enemies: Systemkampf"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 33", "type": "Chapter", "aliases": ["Approach Inmost Cave: Vordringen zu AEGIS' Kern"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 34", "type": "Chapter", "aliases": ["Konfrontation: Zwei Arten der Kohärenz"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 35", "type": "Chapter", "aliases": ["Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 36", "type": "Chapter", "aliases": ["Vortex 1 Beat 4–5: Stille, Übergang"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 37", "type": "Chapter", "aliases": ["Der Gärtner / Trügerischer Sieg"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 38", "type": "Chapter", "aliases": ["Die Resonanz, die ankommt"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 39", "type": "Chapter", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kap 40", "type": "Chapter", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Change", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Be-er", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Mind", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Memory", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Avoidance", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Pursuit", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Decision", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Optionlock", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Success", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Psychology", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Physics", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Steadfast", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Do-er", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Universe", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Progress", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Logic", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Feeling", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Action", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Timelock", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Failure", "type": "DramaticaElement", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Verlust der Privatheit des Wir-Geflechts", "type": "StorypointValue", "aliases": ["Verlust der Privatheit des Wir"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Liebe bleibt", "type": "StorypointValue", "aliases": ["Liebe bleibt — Junas Verbindungs-Modus"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "AEGIS-monolithisch erlischt", "type": "StorypointValue", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Funktion bleibt", "type": "StorypointValue", "aliases": ["Funktion bleibt — plurale Übernahme", "Funktion bleibt durch plurale Übernahme"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "AEGIS", "type": "Character", "aliases": ["Autonomous Entropic Gatekeeper for Integrity Systems", "Der tragische Gott"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Juna", "type": "Character", "aliases": ["Die, die nicht beschrieben wird"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kael", "type": "Character", "aliases": ["Kael (Host)", "Das System"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Lex", "type": "Character", "aliases": ["Lex (Rationalist)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Alex", "type": "Character", "aliases": ["Alex (Beschützer)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Rhys", "type": "Character", "aliases": ["Rhys (Caregiver)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Selene", "type": "Character", "aliases": ["Selene (ISH)", "Internal Self-Helper", "Wächterin"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Nyx", "type": "Character", "aliases": ["Nyx (Fight)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kiko", "type": "Character", "aliases": ["Kiko (Freeze)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Lia", "type": "Character", "aliases": ["Lia (Ambivalent)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Isabelle", "type": "Character", "aliases": ["Isabelle (Sexualisiert)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Moros", "type": "Character", "aliases": ["Moros (Kollaps)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Argus", "type": "Character", "aliases": ["Argus (Meta-Kognition)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Silas", "type": "Character", "aliases": ["Silas (Juna-Echo)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Oblivion", "type": "Character", "aliases": ["Oblivion (AEGIS-Echo)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Mnemosyne", "type": "Character", "aliases": ["Erinnerungs-Hüterin"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Erasure-Pol", "type": "Character", "aliases": ["Löschungs-Exekutive"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "LogOS", "type": "Character", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Cerberus", "type": "Character", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kairos", "type": "Character", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Komponente 734", "type": "Character", "aliases": ["Komp 734"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Wir-AEGIS-plural", "type": "Character", "aliases": ["Wir-AEGIS", "AEGIS-plural"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Wir-Geflecht", "type": "Character", "aliases": ["Wir"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Funken-Ich", "type": "Character", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "AEGIS ist, was AEGIS verhindert, dass es nicht ist.", "type": "Formula", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.", "type": "Formula", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Trennungsprotokoll", "type": "Event", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Genesis-Krise", "type": "Event", "aliases": ["Fragmentierungsnacht"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Bindungstrauma", "type": "Event", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Genesis", "type": "Event", "aliases": ["Genese"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Stress-Test Delta-7", "type": "Event", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Cache-Konflikt", "type": "Event", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Cluster-Bildung", "type": "Event", "aliases": ["Cluster-Differenzierung"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Gödel-Gambit", "type": "Event", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Genesis 4. Beat", "type": "Event", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Telefon-Stille", "type": "Motif", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Rauschen", "type": "Motif", "aliases": ["Das Rauschen"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Form-Motiv", "type": "Motif", "aliases": ["Form"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Klick-Motiv", "type": "Motif", "aliases": ["Klick"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Phantom-Motiv", "type": "Motif", "aliases": ["Phantom"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Resonanz-Motiv", "type": "Motif", "aliases": ["Resonanz"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Gärtner", "type": "Role", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Sub-Antagonisten", "type": "Role", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "ANPs", "type": "CharacterGroup", "aliases": ["Apparently Normal Parts", "Die fünf ANPs"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "EPs", "type": "CharacterGroup", "aliases": ["Emotional Parts", "Die fünf EPs"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Sonderfiguren", "type": "CharacterGroup", "aliases": ["Drei Sonderfiguren"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Spiegel-Alter", "type": "CharacterGroup", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Guardians", "type": "CharacterGroup", "aliases": ["Die zwei Guardians"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Logos-Prime", "type": "Place", "aliases": ["KW1", "Kernwelt 1", "KW1 — Logos-Prime"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Mnemosyne-Archipel", "type": "Place", "aliases": ["KW2", "KW2 — Mnemosyne-Archipel"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Cerberus-Labyrinth", "type": "Place", "aliases": ["KW3", "KW3 — Cerberus-Labyrinth"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Möglichkeits-Garten", "type": "Place", "aliases": ["KW4", "KW4 — Möglichkeits-Garten"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Konstrukt-Stadt", "type": "Place", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Basisrealität", "type": "Place", "aliases": ["Basisrealität — Köln 2026"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Köln", "type": "Place", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Lyons-Welt", "type": "Place", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Kernwelten", "type": "WorldGroup", "aliases": ["die vier Kernwelten"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "P (deterministisch)", "type": "ComputationalClass", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Parakonsistent", "type": "ComputationalClass", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "NP-Hard", "type": "ComputationalClass", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Generativ", "type": "ComputationalClass", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "negativ definierte Kohärenz", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "positiv definierte Kohärenz", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Algorithmische Melancholie", "type": "Concept", "aliases": ["Algo-Melancholie"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "K-J-Verbindung", "type": "Concept", "aliases": ["K-J Verbindung"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Bunker", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Ouroboros", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Geburt der Welt", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Erasure", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Landauer-Wärme", "type": "Concept", "aliases": ["Landauer-Hitze"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Multiplizitäts-Schleier-Disziplin", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Funktionale Multiplizität", "type": "Concept", "aliases": ["FM"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Moonshine", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "Mosaik-Bildung", "type": "Concept", "aliases": [], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "OQ-A", "type": "OpenQuestion", "aliases": ["Naming der finalen Form"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "OQ-B", "type": "OpenQuestion", "aliases": ["Junas Erscheinungsmodi-Anker"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "OQ-C", "type": "OpenQuestion", "aliases": ["Genesis-Cluster-Zuordnung Akt II"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "OQ-D", "type": "OpenQuestion", "aliases": ["MC Symptom/Response in beiden Storyforms"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "OQ-E", "type": "OpenQuestion", "aliases": ["Spiegel-Alter-Konzeption (Silas, Oblivion)"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "OQ-F", "type": "OpenQuestion", "aliases": ["Moonshine-Boundary"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}
+{"name": "OQ-G", "type": "OpenQuestion", "aliases": ["Post-Vortex-AEGIS-Status"], "first_seen_doc": "koharenz-protokoll-strukturierter-outline-2026-05-18-md.md"}

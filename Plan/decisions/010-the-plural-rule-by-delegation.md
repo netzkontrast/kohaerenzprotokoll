@@ -29,25 +29,28 @@ before.
 
 ## What it measured, 2026-09-24
 
-- **41 of 57 labelled pairs, against `fold()`'s 33.** No false merge: all 29
+- **44 of 63 labelled pairs, against `fold()`'s 36.** No false merge: all 32
   pairs the ledger calls two terms stay apart. No canary merged.
   `Plan/runs/baselines.jsonl`, `rule:plural`; `python3 scripts/baseline.py
-  compare one-term-or-two --floor rule:fold` says `ok`.
+  compare one-term-or-two --floor rule:fold` says `ok`. First measured at 41 of
+  57 against 33; document 14's judgements, J69 to J75, reached the ledger the
+  same day, and the rule decides them exactly as `fold()` does.
 - **No merge between two pages.** The 160 folded surfaces of the 92 pages in
   `Wiki/index.json` stay on their pages.
-- **23 new merges among all 13 candidate lists** (1,392 terms, 1,338 distinct
+- **28 new merges among all 14 candidate lists** (1,701 terms, 1,640 distinct
   after folding), read one by one, and every one a singular and its plural:
   `Alter`/`Alters`, `Erason`/`Erasonen`, `Glitch`/`Glitch(es)`,
-  `Trennungsprotokoll`/`Trennungsprotokolle` and nineteen like them.
+  `Gödel-Satz`/`Gödel-Sätze`, `Trennungsprotokoll`/`Trennungsprotokolle` and
+  twenty-three like them.
 
-What it leaves for a model is 16 pairs the person called one term. Read by the
-session, seven carry a recorded rule a program could state: a slash between
+What it leaves for a model is 19 pairs the person called one term. Read by the
+session, eight carry a recorded rule a program could state: a slash between
 names the wiki already has (J6, J14, J34, J43), an acronym and the expansion its
-sentence gives (J60), a numbered instance of a class (J26, J37). The other nine
-were decided from the passage (`Basisrealität`/`Externe Ebene`,
-`Therapie-Schnittstelle Gamma`/`Alpha`), and `pairs.py`'s program is given only
-the two surfaces. That is the next thing to change before a model run can learn
-them, and it is not a model either.
+sentence gives (J60), a numbered instance of a class (J26, J37), a parenthetical
+index attached to a name (J72). The other eleven were decided from the passage
+(`Basisrealität`/`Externe Ebene`, `Therapie-Schnittstelle Gamma`/`Alpha`), and
+`pairs.py`'s program is given only the two surfaces. That is the next thing to
+change before a model run can learn them, and it is not a model either.
 
 ## What was rejected, and why
 

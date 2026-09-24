@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-16"
 ---
 
@@ -69,3 +69,9 @@ to, not in the word.
 
 A property of KW4, not of [[aegis|AEGIS]]: „Emergenz statt Erhaltung" — „Einzige Zone, in der
 neue Coheronen entstehen können" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L400].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Kap 20: „Emergenz als Mechanik." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] „Kreatives Wir-Handeln statt reflexhaftes
+Reagieren." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] Its sensory line: „fluide Regeln, Emergenz-Texturen, eine
+Kernwelt die mit-denkt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L725].

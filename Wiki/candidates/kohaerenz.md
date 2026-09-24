@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-17"
 ---
 
@@ -70,3 +70,9 @@ The title's protocol is called a misnomer: „AEGIS' Kohärenzprotokoll ist Entr
 ## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 
 What AEGIS believes itself to be: „AEGIS *glaubt* K₁ (Kohärenz) zu sein" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Kap 34, titled „Zwei Arten der Kohärenz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1047]: „Zwei Arten der Kohärenz prallen
+aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte
+(bezeugende)." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057]

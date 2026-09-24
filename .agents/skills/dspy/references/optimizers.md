@@ -12,7 +12,7 @@ breaks `dspy.Evaluate` — are `metrics.md`; trainsets, splits and `fold()` are
 ## In this repository
 
 `scripts/pairs.py` is the one ladder built here, for the one task with usable
-gold labels: **one term or two**, **57 <!--state:pairs.labelled--> labelled
+gold labels: **one term or two**, **63 <!--state:pairs.labelled--> labelled
 pairs** in `Plan/runs/judgements.jsonl`, each with `first`, `second`, a gold
 `decision` and a `rule` — the person's own words for why, which is the GEPA
 feedback string with no extra work. `scripts/trainset.py`'s `surface_pairs()`
@@ -25,13 +25,13 @@ first. The code is `scripts/pairs.py`, `scripts/baseline.py`,
 
 `wiki_index.fold()` is a deterministic surface-normalisation rule, not a
 model. `trainset.fold_baseline()` and `pairs.score_rule("fold")` both score it
-the same way: **33 <!--state:pairs.fold_correct--> of 57 <!--state:pairs.labelled-->
+the same way: **36 <!--state:pairs.fold_correct--> of 63 <!--state:pairs.labelled-->
 labelled pairs**, run live 2026-09-24 (`python3 scripts/pairs.py score` prints
-`rule:fold: 33/57 = 57.9% on 57 labelled pairs`). All 24 misses have the same
+`rule:fold: 36/63 = 57.1% on 63 labelled pairs`). All 27 misses have the same
 shape — gold `one-term`, `fold()` says `two-terms` — so on this ledger `fold()`
 has never produced a **false merge**; every miss is the safe direction. That is
 the reason the ladder is rule-first: a model is only ever asked about the
-residual `fold()` calls `two-terms` — on 2026-09-24, 53 of the 57 pairs, 24 of
+residual `fold()` calls `two-terms` — on 2026-09-24, 59 of the 63 pairs, 27 of
 them gold `one-term` — so it can only be asked to *find* a merge `fold()`
 missed, never given the chance to *undo* one `fold()` made correctly
 (`scripts/pairs.py`).
@@ -40,14 +40,14 @@ missed, never given the chance to *undo* one `fold()` made correctly
 author's delegation, the reach of `pairs.RULES["plural"]`: `fold()`, plus a
 plural ending — `-s` `-es` `-e` `-en`, `-n` only after `-e` — on a stem of four
 letters or more, written in lower case. It decides
-**41 <!--state:pairs.plural_correct--> of 57 <!--state:pairs.labelled-->**,
+**44 <!--state:pairs.plural_correct--> of 63 <!--state:pairs.labelled-->**,
 with no false merge and no canary merged. It is a row on the ledger and not part
 of `fold()`: reconciliation still merges by `fold()` alone.
-`pairs.py run --rule plural` asks it before the model, which then sees 45 pairs,
-16 of them gold `one-term` (2026-09-24), and a run on that residual has to beat
+`pairs.py run --rule plural` asks it before the model, which then sees 51 pairs,
+19 of them gold `one-term` (2026-09-24), and a run on that residual has to beat
 `rule:plural`, not `rule:fold` (`python3 scripts/baseline.py compare
-one-term-or-two --floor rule:plural`). Nine of those sixteen were decided from
-the passage, which `SameTerm`'s two input fields do not carry (`NOW.md`).
+one-term-or-two --floor rule:plural`). Eleven of those nineteen were decided
+from the passage, which `SameTerm`'s two input fields do not carry (`NOW.md`).
 
 `scripts/trainset.py`'s docstring keeps the first measurement — 14/17 = 82%,
 misses J4/J6/J14, from `Plan/concept/trainset-and-the-baseline_2026-09-17.md`,
@@ -115,6 +115,9 @@ from `ChatAdapter`'s rendered system message and answers each one
 Run live here, offline, 2026-09-24 (`.venv-dspy/bin/python scripts/pairs.py
 run --optimizer <name> --dry-run`), all five rungs score **exactly
 `0.5789` (33/57), 0 canaries merged, exit 0** — identical to `fold()` itself.
+Later the same day, at 63 pairs, the `labeled` rung gave `0.5714` (36/63), and
+with `--rule plural` `0.6984` (44/63) — each rule's own score, by the same
+construction.
 That is not a coincidence to be proud of: the fixture always answers
 `two-terms`, and every one of `fold()`'s 24 misses is a case where the gold
 answer is `one-term` and `fold()` (hence the fixture) says `two-terms`, so a
@@ -230,7 +233,7 @@ follows by hand: signatures → modules → explore a few by hand → dataset �
 metrics → **a baseline, "a number to beat, before any compile"** → optimize →
 test and iterate, naming steps 3 and 6 as the ones people skip
 (`dspy-agent-skills:skills/dspy-book-eight-steps/SKILL.md:21-33`, `[pattern]`)
-— `fold()`'s 58% is exactly that step-6 number here. Where the metric is
+— `fold()`'s 57% is exactly that step-6 number here. Where the metric is
 itself a judge model, the same pack's chapter 3 optimizes the judge before the
 task and reloads it frozen, "because optimizing a task against an unvalidated
 judge moves the program toward the judge's errors, and you cannot tell from
@@ -374,7 +377,7 @@ max_labeled_demos=2, num_threads=1`: val 61.67, **test 65.00 (52/80), +11.25**,
 $0.62 run below, for less than half GEPA's gain.
 
 **Not taken here**: "50+ examples" is the threshold in every source that gives
-one; this project compiles on 45 to 47 labelled pairs per fold, 57 in all
+one; this project compiles on 49 to 51 labelled pairs per fold, 63 in all
 (2026-09-24) — at the threshold rather than past it, and the cost measured above
 buys less than half GEPA's gain. Absent from
 `pairs.py`'s ladder and from `Plan/concept/optimizers-and-data_2026-09-17.md`'s
@@ -455,11 +458,11 @@ trainset[:train_size], trainset[train_size:]`
 passes a `valset` (`scripts/pairs.py`), so every real run on this
 ledger is silently halved this way. What it halves is the compile trainset —
 every labelled row outside the held-out fold, the pairs the rule answers
-included — not the residual a model is asked about: on 2026-09-24, 45 to 47 of
-the 57 rows per fold, so 22 or 23 to write rules from and the rest to pick a
-winner among, and 28 of 57 in the final compile. (Until 2026-09-24 this
+included — not the residual a model is asked about: on 2026-09-24, 49 to 51 of
+the 63 rows per fold, so 24 or 25 to write rules from and the rest to pick a
+winner among, and 31 of 63 in the final compile. (Until 2026-09-24 this
 paragraph said „the 24-row residual … 12 rows … and 12"; `pairs.py` asks a
-model about the 53 pairs `fold()` calls two terms, 24 of them gold `one-term`,
+model about the 59 pairs `fold()` calls two terms, 27 of them gold `one-term`,
 and trains it on all.) **No canary is held back at all**, because `pairs.py`'s
 canary check runs separately, after compile, on the final program.
 
@@ -597,8 +600,8 @@ chapter's own worked example of "Report the held-out number."
 `[number]`).
 
 **Not taken here**: "100+ examples" is the threshold `dspy-agent-skills` and
-this project's own concept doc both give; this project compiles on 57 labelled
-pairs, 45 to 47 per fold. `dspydantic`'s
+this project's own concept doc both give; this project compiles on 63 labelled
+pairs, 49 to 51 per fold. `dspydantic`'s
 auto-selector places MIPROv2 (zero-shot) only at the **opposite** end, n≤2 —
 a different regime entirely from "100+", not a disagreement about this
 project's size.
@@ -1217,7 +1220,7 @@ teacher/student distinction is cosmetic
 
 | thing | why, and what already covers it |
 |---|---|
-| `MIPROv2` | "100+" examples in every source that gives a threshold; the compile trainset here is 57 labelled pairs, 45 to 47 per fold — see MIPROv2, above |
+| `MIPROv2` | "100+" examples in every source that gives a threshold; the compile trainset here is 63 labelled pairs, 49 to 51 per fold — see MIPROv2, above |
 | `BootstrapFewShotWithRandomSearch` ("random search") | "50+" examples; its own measured cost (8 candidates, $0.88, 1119 s) exceeds GEPA's for less than half the gain — see the section above |
 | synthetic data generation | grouped with the two above in `Plan/concept/dspy-toolchain_2026-09-23.md` under the same "100+/50+" reason. `dspy-auto-gepa`'s `AutoData` is the nine repositories' own instance of this: it generates rows with an LLM from seed examples, but its allowed output values come **only from the seed rows** (a `Literal` type annotation is ignored; no seed of a class means no rows of that class ever get generated — `dspy-auto-gepa:src/dspy_auto_gepa/data.py:43-57,86,90`, `[trap]`), and its judge **never rejects a row** — scores are recorded, never thresholded, so a synthetically generated row scored 0.0 for quality is accepted anyway (`dspy-auto-gepa:src/dspy_auto_gepa/generator.py:1193-1227,1399-1403`, `[trap]`). Synthetic rows would not, by themselves, fix this project's undersized residual with a check this project would trust |
 | LLM-drafted metrics | `Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken*: "the rule a program is scored by is written by a person; the `metric=Path(...)` bypass is the only path used." `dspy-auto-gepa` is the instance this refuses: by default it has `dspy.RLM` **draft a `metric.py` file** from a natural-language spec — a 215-line prompt of rules and three worked examples is the model's only instruction (`dspy-auto-gepa:src/dspy_auto_gepa/metric_builder.py:9-233,229-233,286-294`, `[pattern]`) — unless a human-written `metric=Path(...)` is passed instead, which is the only path this project would ever take. Its own documented "generate, review, then run" workflow does not survive a retrain: `run(force=True)` regenerates the metric file again, silently discarding a human's edit (`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:388-394`, `[trap]`) — a sharp illustration of why a metric stays a person's file, never a step that reruns |

@@ -470,7 +470,7 @@ P14); *redundancy* → a one-term-or-two judgement for `scripts/pairs.py` and
 becomes answerable has a direct analogue already built: `graphrag.py bench`'s
 17 <!--state:graphrag.cases--> labelled cases, recall@8
 42 <!--state:graphrag.recall_seeds-->% from seeds alone and
-64 <!--state:graphrag.recall_ppr-->% with PageRank — measured
+63 <!--state:graphrag.recall_ppr-->% with PageRank — measured
 by retrieval over verified quotations, not by applying edits.
 
 **Verdict.** The *actions* are refused outright: `insert_edge` is an inferred

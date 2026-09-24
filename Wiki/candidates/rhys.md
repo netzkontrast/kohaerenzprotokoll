@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -37,3 +37,7 @@ From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 ents
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 In the glossary's Alter table: role „Caregiver" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L213], correlate „Maxwellscher Dämon" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L214], somatics „Schweiß, fiebrige Hände" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L215], arc „→ Akzeptanz" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L216].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Bindung, Fürsorge, soziale Harmonie" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L135], correlate „Maxwells Dämon" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L135], arc „Anker (Akt I) → Kudzu (Akt II) → Akzeptanz (Akt III)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L135]. First in Kap 5, as „erste Schatten von Rhys (Caregiver) als Wärme die er nicht versteht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L357].

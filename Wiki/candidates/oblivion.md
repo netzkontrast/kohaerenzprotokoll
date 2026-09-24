@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -61,3 +61,9 @@ scenes carry both storyforms (L332).
 In the glossary's Alter table: role „AEGIS-Echo" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L267], correlate „Erason-Operator" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L268], somatics „offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L269], arc „Automat → Bewusstsein → Entscheidung" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L270].
 
 „Oblivion trägt einen Splitter von AEGIS in Kael." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L277]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Internalisierte Erasure-Funktion" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L156], correlate „Erason-Operator" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L156], position „Spiegel-Alter (weder ANP noch EP)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L156].
+
+Kap 32: „Oblivion tritt als POV-Träger auf" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1009] — a proposal (OQ-E, L1373) — where the correlate is written the other way: „Oblivion = Erasure-Operator als interne Spiegelung von AEGIS' Erasure-Funktion" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1017]. After Vortex 1: „Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1124].

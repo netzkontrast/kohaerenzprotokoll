@@ -1,0 +1,529 @@
+{
+  "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "drive_id": "15pjm-VcEa73JzUb5VRSHZQUCnL2FccmwfGYK44VffPU",
+  "step": "reconcile",
+  "at": "2026-09-24",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 92,
+    "conflicts": 12
+  },
+  "state_after": {
+    "pages": 92,
+    "conflicts": 12
+  },
+  "pre_classification": {
+    "candidates": 569,
+    "decisions": 587,
+    "decided_by_lookup": 357,
+    "needs_judgement": 230
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An outline places; it defines almost nothing it does not also name as known. Its §1 is the cast the wiki already has pages for (the thirteen Alters, AEGIS, Juna, Mnemosyne), plus the Erasure-Pol, whose name it marks open (L161, J59). Its §2 names the four worlds by the bearers' names (J49). What remains is its own structure (Kishōtenketsu, the four levels, the three modes, Bridge, Soft-Layering, chapter and beat titles — J31, J9), Dramatica slot vocabulary (Storyform A/B, Cost/Dividend, Signposts), craft labels (Tonale Achse, Genesis-Echo, POV fields), and names used as known and nowhere explained (Controlled Fragmentation Protocol, Stress-Test Delta-7, Lyons-Welt, Babymonster-Welt, Gödel-Gambit). Komponente 734 is Kael's designation and stays a reading on kael, as for the three canon-era documents before it.",
+  "not_promoted_rule": "320 new terms by lookup, none became a page. By the rule above: the document's structure and slot vocabulary, borrowed theory in its home sense (Kishōtenketsu, Murdock/Schmidt, Campbell/Vogler, the DKT correlates, which go on the Alter pages as readings), names the document marks open (Erasure-Pol, Wir-AEGIS-plural — OQ-A), and names it uses without saying what they are. The Vortex architecture (Vortex 1 operativ, Vortex 2 ontologisch, L31) is the nearest to a definition and is left for a source that defines it rather than schedules it.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        59,
+        117,
+        237,
+        1087,
+        1206,
+        1212,
+        1241,
+        1369
+      ],
+      "attribution": "premise",
+      "note": "the expansion (C1), the Ursprungs-Ich becoming the Wächter (C3, Q4, J75), Storyform B's Do-er (C8, J70), the plural end (J47, J73)"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        134,
+        377
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        117,
+        1107,
+        1116,
+        1375
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        113,
+        127,
+        425,
+        497,
+        1037
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "argus",
+      "lines": [
+        154
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        161,
+        174
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        155,
+        237,
+        989
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        717,
+        725
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        125,
+        179
+      ],
+      "attribution": "premise",
+      "note": "as Basisrealität — Köln 2026 (J54)"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        230,
+        232,
+        669,
+        741,
+        765,
+        1208,
+        1236,
+        1371
+      ],
+      "attribution": "premise",
+      "note": "Kap 0's sequence with 734 before the separation, the flashbacks with 734 after it, a fourth beat (C12)"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        136,
+        158,
+        161,
+        172,
+        175,
+        1005
+      ],
+      "attribution": "premise",
+      "note": "two; the others absorbed two ways (C6, Q5)"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        146
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        51,
+        121,
+        237,
+        405,
+        1174,
+        1208,
+        1385
+      ],
+      "attribution": "premise",
+      "note": "first direct appearance Kap 38 Beat 3, nowhere earlier (C7)"
+    },
+    {
+      "page": "kael-julia-bindung",
+      "lines": [
+        397,
+        473,
+        951,
+        961,
+        1353
+      ],
+      "attribution": "premise",
+      "note": "K-J-Verbindung, Juna-Verbindung (J13)"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        48,
+        125,
+        132,
+        257,
+        265,
+        1206,
+        1241
+      ],
+      "attribution": "premise",
+      "note": "Komponente 734 inside the simulation; the knuckles a trait of the Host in no chapter (C10); Storyform A's Be-er (J70)"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        257
+      ],
+      "attribution": "premise",
+      "note": "Wohneinheit 14/Sektor 7, a fourth number (J50)"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        161,
+        175
+      ],
+      "attribution": "premise",
+      "note": "absorbed and latent (Q5)"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        167,
+        172,
+        173,
+        179,
+        257
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        144,
+        937
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        1047,
+        1057
+      ],
+      "attribution": "premise",
+      "note": "Kap 34: two kinds of coherence"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        247,
+        257,
+        265
+      ],
+      "attribution": "premise",
+      "note": "Kap 1's title; KW1 in its first beat (C9)"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        265,
+        385,
+        773,
+        1115,
+        1128,
+        1393
+      ],
+      "attribution": "premise",
+      "note": "warm in Kap 6, 22, 36 (C11)"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        133,
+        281,
+        377
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        145,
+        673,
+        1351
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        161,
+        172
+      ],
+      "attribution": "premise",
+      "note": "absorbed into the Erasure-Pol and into Mnemosyne (Q5)"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        158,
+        160,
+        172,
+        573,
+        1005
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        175,
+        545,
+        553,
+        717
+      ],
+      "attribution": "premise",
+      "note": "KW4; a practice before its act (C5)"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        51,
+        469,
+        481,
+        957,
+        1374
+      ],
+      "attribution": "premise",
+      "note": "the link at work; the bare head once names the mathematics (J71)"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        147,
+        621
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        489,
+        505,
+        1057
+      ],
+      "attribution": "premise",
+      "note": "Kap 11 and Kap 34 in one document"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        497,
+        1029,
+        1033,
+        1140
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        230,
+        1152,
+        1172
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        143,
+        597
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        156,
+        1009,
+        1017,
+        1124
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        741
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        135,
+        357
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        271,
+        281,
+        289
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "selene",
+      "lines": [
+        136,
+        415,
+        425,
+        433,
+        649
+      ],
+      "attribution": "premise",
+      "note": "the Wächterin of Kap 8 and Kap 17 (Q4)"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        155,
+        985,
+        1373
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        161,
+        175
+      ],
+      "attribution": "premise",
+      "note": "latent in KW4 (Q5)"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        121,
+        401,
+        803,
+        813,
+        961,
+        1370
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        32,
+        230,
+        232,
+        313,
+        741,
+        765,
+        1243,
+        1371
+      ],
+      "attribution": "premise",
+      "note": "both orders in one document (C12)"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        230,
+        265
+      ],
+      "attribution": "premise",
+      "note": ""
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C3",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C2": "Entropie occurs only inside the AEGIS expansion",
+    "C4": "no blind spot is named for AEGIS or a Guardian",
+    "Q2": "none of the eight protocols occurs"
+  },
+  "judgements": [
+    "J69",
+    "J70",
+    "J71",
+    "J72",
+    "J73",
+    "J74",
+    "J75"
+  ],
+  "decided_by_existing_rules": "Kap N / Kap NN, Akt I / II / III by J31 (labels that partition the document); chapter and beat titles against the terms they contain by J9 (Erwachen in der Konstrukt-Stadt, Echos im Fundament, Mosaik des Selbst, Zwei Arten der Kohärenz, Einspeisung des paradoxen Selbst, Echo des Vorworts / der Genesis / der Krise / des Trennungsprotokolls, Die Stimme im Rauschen, Das Rauschen kommt, Junas erste direkte Erscheinung); AEGIS-*, Erasure-*, Resonanz-*, Cluster-*, Klick-*, Genesis-*, Synthese-*, Mosaik-*, Das System against its compounds by J16/J28; Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Juna-Echo, Coheron-Echo by J49; Erasure-Pol by J59; the AEGIS expansion by J60; AEGIS-monolithisch, Echo-AEGIS, Kael-als-Wir, Juna-Witness, Wir-Gärtner as later states of one bearer by J29; Kael-Cluster as precursor by J15; Wir-AEGIS-plural against AEGIS by J47; Das Rauschen against Nichts-Rauschen by J51; Überwelt-Etablierung against Überwelt by J52; Kernwelt 1 by J26; Wächter, Wächter-Sein, Die Wächterin, Wächterin-Funktion by J20; Das System and Host against Kael by J55; plurals (AEGIS-Logs, Stilcodes, Erasure-Sweeps) by J24/J44; plurale Übernahme, Köln 2026, Genesis-Krise / Die Krise, Heldinnenreise innen, post-Dramatica-Synthese by J21; autopoietisch against ARS by J57; Resonanz against Resonanz-Landschaft and Entropie-Resonanz by J10.",
+  "found_by_rule_not_by_census": [
+    "genesis",
+    "landauer-signatur",
+    "externe-ebene",
+    "kaels-wohneinheit",
+    "kohaerenz",
+    "kael-julia-bindung"
+  ],
+  "second_readers": "Plan/runs/koharenz-protokoll-strukturierter-outline-2026-05-18-md/second-readers/",
+  "baseline_moved": true,
+  "baseline_note": "fold() equality 33/57 → 36/63 (58% → 57%). J69, J74 and J75 are two-terms pairs it gets right; J70, J72 and J73 are one-term pairs it cannot see — a role label, a bracketed index, three names of one state. J71 is judgement and not labelled."
+}

@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -48,3 +48,10 @@ Resonanz / Telefon-Stille spürbar." ^[kohaerenz-protokoll-kernwelten-vollstaend
 What it is: „Erinnerung an ein Telefongespräch vor zwanzig Jahren, in dem keine
 Worte gesprochen wurden" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L373]. „Die Stille ist die reinste Form des Coheron:
 atemporal, unauslöschlich, ewig." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L373]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+[[juna|Juna]]'s anchor in the cast (L121). Kap 7: „Telefon-Stille als erster
+expliziter Anker." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L401] Kap 24, titled for it (L803): „Telefon-Stille als hörbare
+Substanz." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L813] Kap 30: „nur die Telefon-Stille wird zur klingenden Substanz"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961]. Its OQ-B: „Telefon-Stille gesetzt, weitere Modi offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1370].

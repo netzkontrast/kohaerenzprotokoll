@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -147,3 +147,14 @@ it: „überwucherte Ruinenarchitektur; Funktionale Multiplizität als Erlebnis"
 A name of KW4: „KW4 — Resonanz-Kontinuum / Kairos-Potentialis /
 Möglichkeits-Garten." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L413] No place of that name inside it. Conflict C5, world
 side.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+KW4's name: „KW4 — Möglichkeits-Garten" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175], „Integration, Generativ"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175], somatic cue „Hände öffnen sich" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175], style „3: poetisch/chorisch"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175], Guardian „(Kairos/Sophia, latent)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175].
+
+Reached before its act, as a practice: Kap 13 „Möglichkeits-Garten (KW4-Vorgriff)
+als innere Praxis" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545], „der Garten als Vorform der Möglichkeits-Welt"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L553]; Kap 20 „Lyons-Welt, KW4-Vorgriff" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717]. C5: one name, the world's; the
+document has no `Garten der Möglichkeiten`.

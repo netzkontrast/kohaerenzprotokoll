@@ -1,0 +1,254 @@
+{
+  "document": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+  "drive_id": "15pjm-VcEa73JzUb5VRSHZQUCnL2FccmwfGYK44VffPU",
+  "step": "probes",
+  "at": "2026-09-24",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 139,
+  "backslash_escapes": 385,
+  "typographic_marks": 307,
+  "ascii_quotes": 18,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systemischer",
+      "Systemkampf",
+      "Systemlüge",
+      "Systems",
+      "Systemverwerfungen",
+      "Systemänderungen",
+      "Systemübersicht"
+    ],
+    "erzäh": [
+      "Erzähl",
+      "Erzähler",
+      "Erzählform",
+      "Erzählhaltung",
+      "Erzählmodell",
+      "Erzählung",
+      "Erzählweise"
+    ],
+    "inter": [
+      "Interfaces",
+      "Internal",
+      "Internalisierte",
+      "Internalisiertes",
+      "Interpretation",
+      "Intervention",
+      "Interventionen"
+    ],
+    "wiede": [
+      "Wieder",
+      "Wiedergeburt",
+      "Wiederholung",
+      "Wiederkehr",
+      "Wiederkehrendes",
+      "Wiederzusammenfinden"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungs",
+      "Erinnerungsfragment",
+      "Erinnerungslosigkeit"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalisierung",
+      "Funktionen",
+      "Funktionsdefinition"
+    ],
+    "verst": [
+      "Verstehen",
+      "Verstehens",
+      "Verstrickung",
+      "Verständnis",
+      "Verstümmelung"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithmische",
+      "Algorithmischen",
+      "Algorithmischer"
+    ],
+    "daten": [
+      "Daten",
+      "Datenlast",
+      "Datenströme",
+      "Datenträger"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmenten",
+      "Fragmentierung",
+      "Fragmentierungsnacht"
+    ],
+    "inner": [
+      "Innere",
+      "Inneren",
+      "Innerer",
+      "Innerhalb"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzen",
+      "Resonanzkaskade",
+      "Resonanzkörper"
+    ],
+    "story": [
+      "Storyform",
+      "Storyforms",
+      "Storypoint",
+      "Storyweaving"
+    ],
+    "subst": [
+      "Substanz",
+      "Substitut",
+      "Substrat",
+      "Substrate"
+    ],
+    "trenn": [
+      "Trennung",
+      "Trennungs",
+      "Trennungsprotokoll",
+      "Trennungsprotokolls"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungen",
+      "Verteidigungswaffe",
+      "Verteilung"
+    ],
+    "verwa": [
+      "Verwaltet",
+      "Verwandlung",
+      "Verwandlungs",
+      "Verwandtschaft"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektur",
+      "Archivar"
+    ],
+    "doppe": [
+      "Doppel",
+      "Doppelrolle",
+      "Doppelschichtiges"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entschlossenheit",
+      "Entschluss"
+    ],
+    "erste": [
+      "Erste",
+      "Erster",
+      "Erstereignisse"
+    ],
+    "etabl": [
+      "Etablierte",
+      "Etablierung",
+      "Etablierungs"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzielle",
+      "Existiert"
+    ],
+    "grenz": [
+      "Grenze",
+      "Grenzen",
+      "Grenzüberschreitungen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Plot",
+      "Plotpoints"
+    ],
+    [
+      "Vorb",
+      "Vorbereitung"
+    ],
+    [
+      "Zeit",
+      "Zeitverlust"
+    ],
+    [
+      "Kind",
+      "Kindes"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Teil",
+      "Anteil"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Teil",
+      "Anteilen"
+    ],
+    [
+      "Teil",
+      "Verteilung"
+    ],
+    [
+      "Teil",
+      "Verurteilung"
+    ],
+    [
+      "Teil",
+      "Auftrittsverteilung"
+    ],
+    [
+      "Stil",
+      "Stille"
+    ],
+    [
+      "Stil",
+      "Stilcode"
+    ],
+    [
+      "Stil",
+      "Stilebene"
+    ],
+    [
+      "Stil",
+      "Stilcodes"
+    ],
+    [
+      "Atem",
+      "Atemzug"
+    ],
+    [
+      "Atem",
+      "Atemzählung"
+    ]
+  ]
+}

@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 10
-readings: 9
+sources: 11
+readings: 10
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -300,3 +300,13 @@ Möglichkeits-Garten." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md
 
 **KW3's second name is back**: „Überwelt-Nexus", as in the Kapitel-Kompendium and
 unlike „Kernwelten vollständig" of the same date (J63).
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+„Welt-Architektur (die vier Kernwelten)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L167]: KW1 Logos-Prime, KW2
+Mnemosyne-Archipel, KW3 Cerberus-Labyrinth, KW4 [[moeglichkeits-garten|Möglichkeits-Garten]] (L172–L175),
+each with a mode, a computational class, a somatic cue, a style level and a
+Guardian. KW1 is „Rationalisierung, ANP-Domäne" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172] and KW2 „Trauma-Erinnerung,
+EP-Domäne" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L173]: two worlds answer to classes of [[alters|Alters]], not to single
+ones (Q3). Kap 1: „Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (J26).
+The base reality lies outside: „Existiert jenseits der Simulation." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L179]

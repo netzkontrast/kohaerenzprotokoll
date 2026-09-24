@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-17"
 ---
 
@@ -101,3 +101,10 @@ Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] KW
 
 Absorbed into the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen
 sind hier absorbiert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L306] — as in the konsolidiertes Konzept.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**Absorbed twice, differently, in one document**: into the Erasure-Pol — „Die
+alten Cerberus-, LogOS-, Kairos-Funktionen sind hier absorbiert." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161] — and into
+[[mnemosyne|Mnemosyne]], „(LogOS, in Mnemosyne absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172]. KW1 keeps the
+name: „KW1 — Logos-Prime" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172] (J49). Q5.

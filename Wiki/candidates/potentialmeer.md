@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-17"
 ---
 
@@ -39,3 +39,8 @@ Where the Genesis begins: „Im Potentialmeer existiert ein Ursprungs-Ich mit mi
 
 The first [[genesis|Genesis]] beat: „Einheit — pre-separation, Ursprungs-Ich im Potentialmeer,
 eingebunden ins Nichts-Rauschen." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L146]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Kap 21: „Kael testet bewusst die Grenzen der Simulation. Spürt das Potentialmeer,
+AEGIS' Verletzlichkeit." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L741]
