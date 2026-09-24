@@ -511,6 +511,21 @@ def p_react_async_tool_swallowed():
     return None if out.answer == "sonnig" else f"the agent answered {out.answer!r}"
 
 
+def p_image_refuses_local_path():
+    import base64
+    png = base64.b64decode("iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==")
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "one.png"
+        path.write_bytes(png)
+        try:
+            dspy.Image(str(path))
+            return "dspy.Image accepted a local path"
+        except ValueError as exc:
+            if "Image.from_path" not in str(exc):
+                return f"refused for another reason: {exc}"
+        return None if isinstance(dspy.Image.from_path(str(path)), dspy.Image) else "from_path failed"
+
+
 PROBES = {
     "evaluate-score-percent": p_evaluate_score_percent,
     "evaluate-failure-is-zero": p_evaluate_failure_is_zero,
@@ -545,6 +560,7 @@ PROBES = {
     "lm-call-returns-list": p_lm_call_returns_list,
     "lm-has-no-temperature-attribute": p_lm_has_no_temperature_attribute,
     "react-async-tool-swallowed": p_react_async_tool_swallowed,
+    "image-refuses-local-path": p_image_refuses_local_path,
 }
 
 

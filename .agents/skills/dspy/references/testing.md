@@ -162,7 +162,7 @@ set to a JSON object**, which `ChatAdapter` cannot parse: every predictor call
 under it costs **two** LM calls through the `JSONAdapter` fallback, and the
 suite's history assertions inspect the *fallback's* messages, not the first
 attempt's (`Plan/concept/dspy-extract_2026-09-24/session-optimizer.md`, `[optimizer]`/TEST items;
-`dspy-optimizer:tests/dspy_optimizer/test_evaluator.py:41-47`). ChatAdapter-
+`dspy-optimizer:tests/dspy_optimizer/test_evaluator.py:28,41-47`). ChatAdapter-
 formatted text costs one call; the fixture's own default "mocked response"
 string raises `AdapterParseError` outright. `check_dspy_skill.py`'s own probe
 for this exact mechanism is `p_chat_adapter_json_fallback`, asserted in
@@ -258,7 +258,7 @@ no LM exists *after* auto-configuration has already run, and auto-
 configuration always creates one, so the same keyless call is attempted and
 fails at request time rather than being refused up front. The environment
 variables involved — `DRG_MODEL`, `DRG_BASE_URL`, `DRG_TEMPERATURE`,
-`DRG_MAX_TOKENS`, and the four provider key names — are documented at
+`DRG_MAX_TOKENS`, and the five provider key names — are documented at
 `dspy-agent-skills:skills/dspy-drg-kg/reference.md:117-125`. **This repository
 installs `drg-kg` for exactly one module, its evaluation scorer** (`CLAUDE.md`,
 *Installing anything*); nothing here calls `extract_typed` or any other part

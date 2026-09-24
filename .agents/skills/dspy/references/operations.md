@@ -136,7 +136,8 @@ though the hook is type-annotated `dict[str, Any] | None`. Against `DummyLM`
 this measured `total_tokens: 0`; the shipped dry run only passes because it
 feeds the callback invented `{"usage": {...}}` dicts a real call never
 produces (`dspy-agent-skills:skills/dspy-production/SKILL.md:131-143`,
-`dspy-agent-skills:skills/dspy-production/example_production.py:66,147-151`).
+`dspy-agent-skills:skills/dspy-production/example_production.py:66,147-151`;
+the annotation is `dspy:utils/callback.py:122`).
 **A custom `BaseLM.forward` can double-count in the same way from the other
 direction**: `BaseLM._process_lm_response` already calls
 `settings.usage_tracker.add_usage(self.model, dict(response.usage))` on any

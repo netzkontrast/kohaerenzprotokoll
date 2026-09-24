@@ -263,9 +263,9 @@ dspy.EmbeddingsWithScores(corpus, embedder, k=5, callbacks=None, cache=False, br
 - **A local embedder**: `dspy.Embedder(SentenceTransformer("all-MiniLM-L6-v2").encode)`
   — it must accept `list[str]` and return a 2D array
   (`dspy-agent-skills:skills/dspy-retrieval/SKILL.md:89-94`).
-- **The retriever-interface pattern**: "any callable that takes a query string
-  and returns an object with `.passages` works... swapping the backend changes
-  one line" (`dspy-agent-skills:skills/dspy-book-agents/SKILL.md:74-77`).
+- **The retriever-interface pattern**: "any callable returning an object with
+  `.passages`. That is the entire interface … Swapping the backend changes one
+  line" (`dspy-agent-skills:skills/dspy-book-agents/SKILL.md:74-77`).
   `graphrag.py`'s own retriever has the same single-seam shape — one
   `retrieve(query, ...) -> dict` — but the dict carries evidence records, never
   bare `.passages`, because a passage without its verdict and citation is not

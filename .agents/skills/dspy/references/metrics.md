@@ -149,7 +149,8 @@ inside `BootstrapFewShot` where `pred_trace` is unset and subscripting it raises
 — is `dspy-agent-skills:skills/dspy-book-metrics/reference.md:143-163`, and the
 reverse mistake is measured: a metric that tests `if trace is None and pred_name
 is None` breaks `BootstrapFewShot` outright, "aborts after 10 metric errors"
-(`dspy-agent-skills:skills/dspy-book-metrics/reference.md:145-155`, verified:
+(`dspy-agent-skills:skills/dspy-book-metrics/reference.md:145-155`; the limit is
+`max_errors=10`, `dspy:dsp/utils/settings.py:32`, `dspy:teleprompt/bootstrap.py:216-220`; verified:
 `boot1.py`, `gepa1.py`). `pairs.py`'s `SameTerm` is a single `dspy.Predict`, so
 `pred_name` is always `None` in every call this repository makes; the recipe
 waits for a multi-predictor program.
@@ -303,7 +304,7 @@ second, in both cases.
 
 **Normalisation.** The weighted-rubric recipe: one `Signature` per axis (each an
 `int` 1–5 with its own description), explicit weights as module constants
-summing to 1.0, `normalized = (weighted_sum - 1) / 4.0`, and "score your
+summing to 1.0, `normalized = (score - 1) / 4.0`, and "score your
 known-best and known-worst examples and confirm they land where you expect"
 (`dspy-agent-skills:skills/dspy-book-metrics/SKILL.md:86-100`,
 `reference.md:125-141`, verified: best 1.00, worst 0.00, mixed 0.55, weights not
@@ -381,7 +382,7 @@ table, one row per repository with the line."
 | `dspy-session` | `to_examples(gold=None)` | a label-comparing metric compares a prediction **with itself**, trivially 1.0 (`dspy-session:dspy_session/session.py:1085-1109`, verified) |
 | `dspy-session` | `on_metric_error="zero"` | a raised exception and a genuinely wrong answer both score **0.0**, indistinguishably (`dspy-session:dspy_session/session.py:1111-1135`, verified) |
 | `dspy-agent-skills` (wiki-compile) | the weighted compile metric | `_mean([])` = **1.0** — an empty extraction scores 0.70 and reports "clean" (`dspy-agent-skills:skills/dspy-wiki-compile/example_wiki_compile.py:161-170,224-237`, verified: dry-run) |
-| `dspy-agent-skills` (adversarial-review) | `judge_metric` | an empty flag, a one-word flag, or the whole artifact used as one flag all score **1.0**, "every claim found, none invented" (`dspy-agent-skills:skills/dspy-adversarial-review/example_adversarial_review.py:85-121`, verified: probes A1, A2, A2b) |
+| `dspy-agent-skills` (adversarial-review) | `judge_metric` | an empty flag, a one-word flag, or the whole artifact used as one flag all score **1.0**, "every overstated and unsupported claim found, none invented" (`dspy-agent-skills:skills/dspy-adversarial-review/example_adversarial_review.py:85-121`, verified: probes A1, A2, A2b) |
 | `dspy-agent-skills` (autodialectics) | objection coverage | **1.0** when nothing was objected to, and out-of-range `objection_index` values still count — the anti-pattern `SKILL.md:183` names by name (`dspy-agent-skills:skills/dspy-autodialectics/example_autodialectics.py:223`, verified: probe AD5) |
 | `dspy-agent-skills` (`drg-kg`, via its skill) | extraction with no LM configured | documented to return an **empty graph** confidently unless `DRG_REQUIRE_LM=1`; the note found this path unreachable in practice once auto-config runs — a claim that did not reproduce, recorded either way (`dspy-agent-skills:skills/dspy-drg-kg/SKILL.md:90-103`; `drg/extract/__init__.py:190-203`, verified: two installs) |
 | `dspy-agent-skills` (TARA, via its skill) | the context-quality gate at the final retry | **always outputs**, even below threshold — the example's own printed "only total<20 escalates" is false at its own numbers (`dspy-agent-skills:skills/dspy-tara-rag/example_tara.py:81-86,137-139`; upstream `loop.py:318-333`) |

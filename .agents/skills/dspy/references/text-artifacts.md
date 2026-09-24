@@ -348,7 +348,7 @@ def parse_verdict(text: str) -> bool:
         raise ValueError(f"judge returned no parseable verdict: {text[:60]!r}")
     return match.group(1).upper() == "PASS"
 ```
-(`dspy-agent-skills:skills/dspy-book-coding-agents/example_artifact_optimizer.py:23,82-87`.)
+(`dspy-agent-skills:skills/dspy-book-coding-agents/example_artifact_optimizer.py:25,82-87`.)
 "Carried over from running tests to checking conventions — binary, no Likert
 scale to drift on" (`SKILL.md:91-94`). This is the same rule P15 states for
 this repository generally: a judge that cannot parse its own verdict has not
@@ -516,7 +516,7 @@ patch = PromptPatch(target_block=refiner_output.target_block,
                      content=refiner_output.content)
 ```
 `PatchOperation.APPEND`/`.REPLACE` are the lowercase strings `"append"`/`"replace"`
-(`dspy-optimizer:dspy_optimizer/models.py:22-25`); `operation` is a bare `str`,
+(`dspy-optimizer:dspy_optimizer/models.py:22-26`); `operation` is a bare `str`,
 so nothing stops the model writing `"Append"`, and nothing in `optimize()`
 catches the `ValueError` that follows — one bad field crashes the whole run
 (`dspy-optimizer:dspy_optimizer/optimizer.py:139-146`,

@@ -9,7 +9,7 @@
   `scripts/rlm_ingest.py`. It is marked `@experimental`, which injects
   "Experimental: This class may change or be removed in a future release
   without warning." into its own docstring (`dspy:predict/rlm.py:115`,
-  `dspy:utils/annotation.py:53-56`).
+  `dspy:utils/annotation.py:53-57`).
 - A third, unrelated thing: before this repository adopted `dspy.RLM`, a
   different, non-DSPy reference implementation (`pip install rlms`) was read
   once, on 2026-09-17, for a corpus-scale idea that was never built. It is not
@@ -632,7 +632,7 @@ nothing in `scripts/rlm_ingest.py` claims otherwise.
 |---|---|---|
 | Hooks, speculation | refused | see above |
 | The full rlm-workflow pipeline | catalogued, not built | waits for a synthesis task over several already-read sources; a document here is read whole, by design |
-| GEPA compiling the RLM itself | catalogued, not built | an RLM has exactly two predictors, `generate_action` and `extract`; GEPA on it would rewrite DSPy's own REPL template, not only a task instruction (`dspy-agent-skills:skills/dspy-rlm-module/SKILL.md:80-97`). Waits on the same gate as any real RLM run: "two or three more hand-read documents" before extraction is trainable (`Plan/concept/dspy-toolchain_2026-09-23.md`, `.claude/skills/tools/SKILL.md`) |
+| GEPA compiling the RLM itself | catalogued, not built | an RLM has exactly two predictors, `generate_action` and `extract` (`dspy:predict/rlm.py:181-182`); GEPA on it would rewrite DSPy's own REPL template, not only a task instruction. Waits on the same gate as any real RLM run: "two or three more hand-read documents" before extraction is trainable (`Plan/concept/dspy-toolchain_2026-09-23.md`, `.claude/skills/tools/SKILL.md`) |
 | A corpus-scale RLM loop ("idea E") | catalogued, not built | `llm_query_batched` over many documents for one term — "What does the corpus say about AEGIS?" is exactly the RLM case, sized at 315 documents / 41 sub-calls without reading anything (`Plan/concept/rlm-the-real-one_2026-09-17.md`). Explicitly "not worth doing before the hand pass finishes" (`:98-101`) |
 | Making a term, not a document, the unit of work ("idea D") | rejected | "a term-first pass reads many documents through one lens, which is exactly the contamination the census exists to prevent. The unit stays the document" (`Plan/concept/rlm-transfer_2026-09-17.md`) |
 | `SHOW_VARS()`-style self-report | catalogued, not built | telling a reader what the derived cache already knows, the way an RLM's REPL can inspect its own environment (`Plan/concept/rlm-the-real-one_2026-09-17.md`) |

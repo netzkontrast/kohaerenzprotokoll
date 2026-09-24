@@ -405,7 +405,7 @@ rules…" over every training row, formatted as `Input Fields: …
 instructions as "Please adhere to the following rules when making your
 prediction:\n{rules}"; each candidate is then scored with `dspy.Evaluate`
 (a percentage, failures folded to 0) and the best-scoring candidate wins
-(`dspy:teleprompt/infer_rules.py:23-59,61-96,110-123`). **So it changes both
+(`dspy:teleprompt/infer_rules.py:23-59,61-96,110-134`). **So it changes both
 instructions and demos**, never instructions alone.
 
 **Without an explicit `valset`, `compile()` splits the trainset exactly in
@@ -541,7 +541,7 @@ on exact-match answers yielded **0 full traces** ("Bootstrapped 0 full traces
 after 9 examples … amounting to 10 attempts") — with a strict metric, demo
 candidates can only ever be labelled demos, never bootstrapped ones.
 (`dspy-agents:dspy_optimize/compile_rag.py:82-87`, `[number]`.) The same
-project's own documentation undercounted its own dataset throughout — "~28
+project's own documentation undercounted its own dataset throughout — "28
 doc-grounded Q/A pairs" while the file held 50 rows since an earlier commit,
 and nothing re-derived the count — the exact shape of stale claim `CLAUDE.md`'s
 *Changing your mind* names.

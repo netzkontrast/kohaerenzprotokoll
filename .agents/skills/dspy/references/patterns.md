@@ -248,8 +248,9 @@ consistency check `(verdict != "clear") == bool(ambiguities)` fails a
 (`dspy-agent-skills:skills/dspy-clarify/example_clarify.py:116-121`;
 `reference.md:48-50`). And the metric reads no gold clarification and no
 expected verdict at all — an identity rewrite of a hedge-free claim with
-verdict `clear` scores **1.0**, and English → German rewriting is caught while
-German → English is not (`dspy-agent-skills:skills/dspy-clarify/reference.md:96-99`),
+verdict `clear` scores **1.0**, and only German → English rewriting is caught,
+never English → German (`dspy-agent-skills:skills/dspy-clarify/example_clarify.py:123-128`;
+the metric needs no gold, `dspy-agent-skills:skills/dspy-clarify/reference.md:96-99`),
 which undercuts the skill's own claim that gold `needs-author` cases "teach the
 optimizer" (`SKILL.md:124-126`): the metric cannot see them.
 
@@ -861,7 +862,7 @@ that is a mechanism rather than prompt text:
 | manager-style, role, task-planning, meta-prompting, thinking-traces, escape hatches | a rendered document (up to 7,329 chars) passed as an **input field** value | no — instruction-proposing optimizers rewrite `signature.instructions`, never an input value, so this text is resent unchanged on every call and cannot be optimized (`dspy-advanced-prompting:src/prompts/manager_style.py:184-210`, probe `S2`) |
 | structured output | a schema rendered into an input field; JSON lives in an unschemed `str` output | no — DSPy 3.x's own answer is a `Pydantic`-typed output field, which this pack never uses (`dspy-advanced-prompting:src/techniques/structured_output.py:59,118-122`) |
 | few-shot | examples formatted into an `examples` input field, `predictor.demos` stays empty | no — `LabeledFewShot`/`BootstrapFewShot` cannot see, select or replace them (`dspy-advanced-prompting:src/techniques/few_shot.py:97-124`, probe `S3`) |
-| prompt folding, distillation | recursion/loop over hardcoded or constant "simulated" scores | no — several branches never call an LM at all (`dspy-advanced-prompting:src/techniques/model_distillation.py:257-288`, probe `S9`) |
+| prompt folding, distillation | recursion/loop over hardcoded or constant "simulated" scores | no — the distillation evaluation calls the model, then reports `0.95 if is_teacher else 0.88`, marked `# Simulated`, whatever it answered (`dspy-advanced-prompting:src/techniques/model_distillation.py:257-288`, probe `S9`) |
 | **few-shot's quality tiering (CHALLENGING examples first)** | `select_examples` takes up to two `CHALLENGING`-labelled examples before any `GOLD` ones | **yes, in shape** — this is a real demo-selection policy, not prompt text, and it is the one idea the toolchain design took: "demos include hard negatives … the one technique there that is a mechanism rather than prompt text" (`dspy-advanced-prompting:src/techniques/few_shot.py:16-20,42-47`; `Plan/concept/dspy-toolchain_2026-09-23.md`) |
 
 **Code versus docs.** Ten of the eleven "techniques" are prompt engineering

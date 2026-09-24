@@ -87,9 +87,11 @@ and `features` stay labels, read only by the metric through
 **What leaks.** Nothing here leaks by the usual route — a label left inside
 `with_inputs` — because `with_inputs("first", "second")` never names `decision`
 or `rule`. The leak this repository's split avoids is a different one, shown by
-`dspy-auto-gepa`'s own documented example: `sample_rows_json` is "the first five
-rows of the whole dataset before splitting, so it can include test rows"
-(`dspy-auto-gepa:src/dspy_auto_gepa/metric_builder.py:229-233,296-301`) — a
+`dspy-auto-gepa`: its metric-writing model is handed
+`sample_rows_json=json.dumps(sample_rows[:5], …)`, and the rows passed are the
+unsplit `task_rows`, so the first five can include test rows
+(`dspy-auto-gepa:src/dspy_auto_gepa/metric_builder.py:229-233,296-301`,
+`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:225-231`) — a
 metric-writing model can see rows the trainset/valset split was supposed to
 hide from it. `pairs.py folds()` takes folds out of `surface_pairs()`'s full
 list and holds each one out only for its own score; nothing here writes a
@@ -234,7 +236,7 @@ tetraframe pattern includes seeds whose answer is genuinely *neither*, "so the
 optimizer does not learn that every debate has a winner"
 (`dspy-agent-skills:skills/dspy-tetraframe/SKILL.md:168-173`); its deep-refine
 pattern includes golds with `answerable_at_hop0 == False`
-(`dspy-agent-skills:skills/dspy-deep-refine/SKILL.md:147-148`). Neither pattern
+(`dspy-agent-skills:skills/dspy-deep-refine/SKILL.md:128-130,147-148`). Neither pattern
 is built here; the canary set is the one hard-negative mechanism this
 repository actually has.
 
@@ -268,7 +270,8 @@ judgement, not a correction to a prior wrong one.
 **What the nine repositories do.** `dspy-agent-skills`'s `FactGeneration`
 example has "no quality filter, no validation pass and no anti-collapse check"
 and draws its diversity only from a random seed string and `temperature=1`
-(`dspy-agent-skills:skills/dspy-book-datasets/reference.md:77-97`) — synthetic
+(`dspy-agent-skills:skills/dspy-book-datasets/SKILL.md:102-103`,
+`dspy-agent-skills:skills/dspy-book-datasets/reference.md:77-97`) — synthetic
 data from the model being optimized carries its own biases into its own
 training set. The same skill's *enrichment* pattern is the stated guard against
 exactly that: when real outputs exist but inputs do not, synthesize only the

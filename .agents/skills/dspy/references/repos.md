@@ -292,7 +292,7 @@ nothing here is served.
 current_value is None: return None` skips the rule silently, and its own
 test pins the consequence: `dspy-agents:tests/test_baselines_monitor.py:164-179`
 (`test_empty_thresholds_disable_checks`) asserts `em_rate=0.0` with `{}`
-thresholds is `"ok"`. Never measured: `dspy-agents:README.md:56` — "~28
+thresholds is `"ok"`. Never measured: `dspy-agents:README.md:56` — "28
 doc-grounded Q/A pairs"; the dataset has held 50 rows since commit
 `8cc8eaf`, and nothing re-derives the documented count against the file.
 
@@ -399,7 +399,7 @@ unreachable-LM error string, and a right answer all near 1.0.
 **Cannot fail / never measured.** `braid-dspy:braid/module.py:214-237` — a
 per-step exception is caught and stored as the step's own answer, dropped
 from `reasoning_steps`, while `valid` stays `True`. Never measured:
-`braid-dspy:README.md:13` ("significantly improves reliability … compared
+`braid-dspy:docs/index.md:33` ("significantly improves reliability … compared
 to traditional Chain-of-Thought") — no benchmark result exists anywhere in
 the repository; its only cited source is a vendor blog post, not a paper.
 

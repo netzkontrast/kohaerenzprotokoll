@@ -191,8 +191,8 @@ Three more things `Refine` and `BestOfN` do that their names do not say:
 - every attempt runs on a copy of the module's LM at `temperature=1.0`, and
   `mod.set_lm()` puts that copy on *every* predictor — a judge with its own
   cheap LM does not survive being wrapped; a module whose predictors use
-  different LMs raises „Multiple LMs are being used in the module"
-  (`dspy:predict/refine.py:107-109`);
+  different LMs raises "Multiple LMs are being used in the module"
+  (`dspy:predict/refine.py:107-109`, `dspy:primitives/module.py:216`);
 - `Refine`'s advice between attempts comes from a `dspy.Predict(OfferFeedback)`
   call on the global LM, fed the module's source and the reward function's
   source, so a reward function without retrievable source raises `OSError`
@@ -522,7 +522,7 @@ nothing.
 
 `asyncify` runs the program in a worker thread and carries the caller's
 `dspy.context` into it; cancelling the awaiting task does not stop the call
-underneath (`dspy:utils/asyncify.py:24,63`). `pred.get_lm_usage()` depends on
+underneath (`dspy:utils/asyncify.py:36,46-58,63`). `pred.get_lm_usage()` depends on
 the context: `None` without `track_usage`, and `None` again inside a
 `with dspy.track_usage()` block, which takes the usage instead
 (`dspy:primitives/module.py:102-103,121-122`).
@@ -545,11 +545,14 @@ one (`dspy-agent-skills:skills/dspy-book-agents/SKILL.md:38-41`).
 ## Media types
 
 `dspy.Image` takes a URL, a data URI, bytes or a PIL image; a local path is
-refused — „Local files must be loaded with Image.from_path()". `Image.from_url`
-downloads, with no protection against private or cloud-metadata hosts.
+refused — "Local files must be loaded with Image.from_path()"
+(`dspy:adapters/types/image.py:206`). [checked: image-refuses-local-path]
+`dspy-agent-skills`' chapter says the constructor accepts a path
+(`dspy-agent-skills:skills/dspy-book-modules/SKILL.md:55`); on 3.3.1 it does
+not. `Image.from_url` downloads, and its own docstring says it "will reach
+private, loopback, or cloud-metadata hosts" (`dspy:adapters/types/image.py:116-124`).
 `dspy.Audio.from_array` needs `soundfile`. In a string signature the type is
-written `dspy.Image`. Nothing here sends media to a model
-(`dspy-agent-skills:skills/dspy-book-modules/SKILL.md:55-72`).
+written `dspy.Image`. Nothing here sends media to a model.
 
 ## Names that moved, and an optimizer that cannot be built
 
