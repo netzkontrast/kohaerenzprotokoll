@@ -31,7 +31,7 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 799,
+      "value": 802,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
@@ -95,11 +95,11 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 1248,
+      "value": 1269,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 329,
+      "value": 330,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {

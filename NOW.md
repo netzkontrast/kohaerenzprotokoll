@@ -12,28 +12,79 @@ python3 scripts/state.py --prose    # fail on any stale number in this file
 ## Questions for the author — noted, not waited on
 
 **The author's instruction, 2026-09-24: „Notiere in Zukunft einfach deine Fragen
-und setze fort."** A question goes here, with where it came from, and the work
-continues. Nothing stops for an answer; when one arrives, it is recorded where
-the question lives (a conflict record, a `Wiki/questions/` page) and the line
-here goes.
+und setze fort"**, and the same day: „Sammle alle Fragen und fahre fort". Every
+open question is collected here, with where it came from; the work continues.
+When an answer arrives it is recorded where the question lives (a conflict
+record, a `Wiki/questions/` page, a decision file) and the line here goes.
 
-Decided so far: **C6** — five Guardians. **C9** — the Konstrukt-Stadt is KW1.
+**Decided so far:** **C6** — five Guardians (LogOS, Mnemosyne, Cerberus, Kairos,
+Sophia). **C9** — the Konstrukt-Stadt is KW1. **Decision 006** — every draft is
+back in question; no date or claim to be canon settles anything.
 
-- **Q5** — the five Guardians and the four Kern-Welten: paired one per world
-  (2025, Kairos and Sophia sharing one), or „KEIN Guardian-1:1" (2026)?
-- **Q5** — the Erasure-Pol: a sixth Guardian, a function of one of the five, or
-  gone?
-- **C7** — Juna's direct appearance: once, ca. Kap 33, or first in Kap 38?
-- **C8** — AEGIS' Approach in Storyform B: Be-er or Do-er?
-- **C10** — do Kael's knuckles bleed in Kap 1?
-- **C11** — Landauer heat in Kap 6 (and Kap 36): warm, or cold ozone as the
-  2026-05-30 lock says?
-- **C12** — the Genesis: three beats (Charakter-Bibel) or four (konsolidiertes
-  Konzept, and document 7)? And does Komponente 734 come before the
-  Trennungsprotokoll or out of it?
-- **Q5** — Sophia: the consolidated concept names her once and places her
-  function nowhere. Where does it go?
-- **C1–C5** — from the 2025 research documents; not yet put to the author.
+### The novel — where the sources disagree
+
+Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations.
+
+| | question | the positions (source, date) |
+|---|---|---|
+| **C1** | What does AEGIS stand for? | *Autonomous Entropic Gatekeeper for Integrity Systems* (`entropie-aegis` 2025-04-17; konsolidiertes Konzept 2026-05-08) · *Autogenic Emergent General Intelligence System* and *Autonomous Entropic Generative Integrity Substrate* (`aegis-emergenz-aus-der-leere` 2025-04-19) |
+| **C2** | What does `Entropie` mean in the novel? | disorder AEGIS fights (`entropie-aegis`) · „schöpferische Matrix", the space things arise from (reported by `aegis-emergenz-aus-der-leere` as a postulate's) · AEGIS *is* the entropy it fights (konsolidiertes Konzept) |
+| **C3** | Where does AEGIS come from? | from nothing, before reality (`aegis-emergenz-aus-der-leere`) · from inside the simulation's dynamics (`kohaerenzprotokoll-aegis-und-systementropie`) · from Kael's defence in the Genesis, then became the world (konsolidiertes Konzept) |
+| **C4** | Whose is the blind spot — AEGIS' alone, or each Guardian's? | AEGIS' categorical blindness (`kohaerenzprotokoll-aegis-und-systementropie`) · five Guardians, five blind spots (`guardians-und-kern-welten-konzept`) |
+| **C5** | Is the Möglichkeits-Garten a whole Kern-Welt or a place inside KW4 — and what is KW4 called? | a Kern-Welt (`guardians-und-kern-welten-konzept`; storyform-und-outline 2026-06-10) · a location in KW4 (`roman-lokalitaeten-konzept-und-ausarbeitung`) · both: KW4 „Kairos-Potentialis (Garten der Möglichkeiten)" with a Möglichkeits-Garten inside it (konsolidiertes Konzept) |
+| **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) |
+| **C8** | AEGIS' Approach in Storyform B — Be-er or Do-er? | Be-er (Charakter-Bibel) · Do-er (storyform-und-outline; konsolidiertes Konzept) |
+| **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) |
+| **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) |
+| **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) |
+
+C1–C5 come from the 2025 research documents and have not been put to the author
+before this list.
+
+### The novel — what no source settles
+
+- **Q5 — pairing.** Five Guardians, four Kern-Welten: one per world (2025, Kairos
+  and Sophia sharing KW4), or „KEIN Guardian-1:1" (2026)?
+- **Q5 — the Erasure-Pol.** Every 2026 source has one, and the name is its own
+  open question („Name offen, Forschungsfrage"). A sixth figure, a function of the
+  five, or the name for what Cerberus, LogOS and Kairos do together?
+- **Q5 — where Sophia went.** The 2026 sources absorb the others three different
+  ways (LogOS into Mnemosyne, or into the Erasure-Pol; Kairos latent, or into the
+  Erasure-Pol) and place Sophia nowhere.
+- **Q1 — the Guardians and AEGIS.** Three canon-era sources make the Guardians
+  components inside AEGIS' architecture. With five restored, is that still so?
+- **Q3 — correspondence.** Four Kern-Welten and thirteen Alters: does any world
+  belong to one Alter, or are the worlds act markers only?
+- **Q4 — `Wächter`.** The word names Guardians, AEGIS, Mnemosyne, Selene, a
+  chapter title and a registry. Is one of them *the* Wächter?
+- **Q2 — the eight protocols** (ANI, ARS, ECR, PMS, RSA, SNK, ZTV,
+  Nullpunkt-Protokoll) exist only as objects of one source's criticism. Are any of
+  them the novel's vocabulary?
+- **The final form's name.** Wir-AEGIS / Mosaik-AEGIS / Plurale Kohärenz / Das Wir
+  / namenlos — the konsolidiertes Konzept's own OQ-A (L1199). No page until it is
+  named.
+- **`kael-julia-bindung` (J13).** One document says `Kael-Julia-Bindung`, nine say
+  `Kael-Juna-Verbindung`. Is „Julia" a slip, an earlier name, or someone else?
+- **Juna's names.** `juna.md` is titled by a name the first read sources do not
+  use, and `Partnerin` may be a third surface for her.
+
+### The process — the author's call, with the detail under *Open decisions*
+
+- **Model runs.** Three runs are one command each and wait on a yes, because
+  each sends corpus words to OpenRouter: `pairs.py run --optimizer labeled`,
+  `graphrag.py ask --answer`, `rlm_ingest.py`.
+- **TypeSafe/Jev beyond the two uses already approved.**
+- **How far `ask` may go** — chosen quotations only, or also a framing sentence
+  marked as the model's.
+- **A reviewed page and a new source that contradicts it** — needed before the
+  first promotion.
+- **The quote convention** — a quotation carries its reference in the same table
+  cell, or the checker learns tables. Until then those quotations stay unchecked.
+- **How much morphology `fold()` may claim** — plurals and inflections are its
+  systematic misses.
+- **`GOAL.md` against the working agreement** — the manuscript, NCP files and
+  claude.ai exports as sources; a conflict detector; the `kg/`/`kp` layout;
+  status tags and tiers on pages.
 
 ## Open decisions — these are judgement, not measurement
 
@@ -68,7 +119,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-329 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+330 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 

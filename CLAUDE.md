@@ -374,7 +374,7 @@ in a commit that names its source.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **104 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **799 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **802 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
