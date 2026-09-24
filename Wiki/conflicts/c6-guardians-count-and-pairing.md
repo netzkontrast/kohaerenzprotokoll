@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 6
+sources: 7
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -118,3 +118,9 @@ nothing in that decision; where the five sit is Q5.
 „2 Guardians (Mnemosyne + Erasure-Pol)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13], in the list of what it changed
 from its quarry, where there were „5 Guardians" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. A fifth 2026 source for
 two, recorded after the author's decision for five, and changing nothing in it.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Keine fünf-Guardian-Architektur." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] „LogOS, Cerberus, Kairos, Sophia
+existieren nicht als aktive Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] A sixth 2026 source for two,
+recorded after the author's decision for five; it changes nothing in that decision.
