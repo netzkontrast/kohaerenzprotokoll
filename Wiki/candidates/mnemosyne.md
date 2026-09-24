@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-17"
 ---
 
@@ -119,3 +119,8 @@ This is the first source that makes her the Erinnerungs-Wächterin by title
 „Mnemosyne — Erinnerungs-Hüterin." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L216] One of the two Guardians this document keeps.
 
 „Mnemosynes Tragik: sie bewahrt Trauma als Daten, weil sie den emotionalen Kontext nicht erfassen kann" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L216]. „Mnemosyne dominiert klar" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] in KW2, the Mnemosyne-Archipel (L483).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+One of the two [[guardians|Guardians]] it keeps (L13). Her world is the Vortex-1 setting:
+„Setting: Mnemosyne-Server-Architektur (KW2)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L232].
