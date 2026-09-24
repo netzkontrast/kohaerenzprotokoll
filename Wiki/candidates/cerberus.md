@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -94,3 +94,8 @@ page are what this document calls earlier drafts. Recorded, not applied — see
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
 Absorbed: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217] — the Erasure-Pol, as in the character bible. KW3 keeps the name: „VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L500].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Named as not active: „LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive
+Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] „Cerberus-Labyrinth heißt so, aber Cerberus existiert nicht als Figur" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L13]. The document asks itself whether the name should stay: „Soll der Name bleiben, obwohl Cerberus dekanonisiert ist?" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L946]
