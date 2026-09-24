@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 6
-readings: 5
+sources: 7
+readings: 6
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-16"
 ---
 
@@ -144,3 +144,11 @@ EPs. Genau Kaels Fall." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L
 The word itself is withheld: „vor Kap 13 keine Klartext-Diagnose (kein „Alters",
 kein „DID")" ^[kapitel-kompendium-gather-2026-05-31-md.md:L44]. Their voices enter as style first: „Stilcode-Einbrüche
 anderer Alters ab Kap 2–3" ^[kapitel-kompendium-gather-2026-05-31-md.md:L186].
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+POV routing by Alter group (L314–L320): the ANP-K1 group ([[kael|Kael]], Lex, [[alex|Alex]], [[rhys|Rhys]],
+[[selene|Selene]]) and the EPs (Nyx, [[kiko|Kiko]], Lia, [[isabelle|Isabelle]], [[moros|Moros]]) carry Storyform A in first
+person; „Argus (Meta-Kognition)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L318] A with commentary; the mirror Alters
+alternate. One group row names ten Alters at once, so it is recorded here and not
+on each Alter's page.
