@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -56,13 +56,17 @@ What „1.0" enumerates. No `Wohneinheit 2.0` occurs anywhere in this document.
 
 > „Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306]
 
-— the route of Kael's first day in KW1. The number recurs, once as a console line
+— the route of [[kael|Kael]]'s first day in KW1. The number recurs, once as a console line
 the reader should notice and Kael should not, and once as „Komponente 734" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] in the
 Kap 0 genesis sequence ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298]. **This page is `Kaels Wohneinheit 1.0`**; the
-dwelling is the same by the sentence (Kael's start in KW1), the number is not, and
+dwelling is the same by the sentence ([[kael|Kael]]'s start in KW1), the number is not, and
 the page records both (judgement J50).
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
 „Wohneinheit 14/Sektor 7/Wohneinheit 734-K" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L311] — a fuller address than
 the other canon-era source's „Wohneinheit 734", for the same dwelling (J50).
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+A sub-location of KW1, a third number: „Sub-Lokalitäten: Kaels Wohneinheit 734" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L479]. One term with the other numbers, by J50 and J58.
