@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,11 @@ One of the thirteen [[alters|Alters]] — EP, „Freeze / Kind" in its heading ^
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10, one table row
 
 Its roster row gives category `EP`, function `Freeze` and arc `→ Vertrauen` ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L266]. Recorded in that document's reconciliation as not promoted, and attached here now that a profile exists.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Kiko (Freeze)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L389], correlate „Planck-Skala" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L390], somatics „Sich klein machen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L391], arc „→ Vertrauen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L392].
+
+From the first trauma layer: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L436]
+
+Its Riss type: „Temporal" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L558], „Zeit hält an / loopt, Echo, Déjà-vu" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L559].
