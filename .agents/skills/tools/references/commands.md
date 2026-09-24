@@ -24,6 +24,7 @@ any document is half-processed.
 | `profile.py <slug>` | structural facts to stdout |
 | `profile.py --frontmatter <slug>` | the census header, drawn from the manifest so no identifier is ever typed |
 | `reconcile.py <slug>` | `Plan/runs/<slug>/reconcile-pre.json` and a printed classification |
+| `agree.py <slug> [<a.md> <b.md>] [--names]` | nothing — every `03-candidates*.md` in the run, or two lists, compared pairwise: F1, containment both ways, surfaces held only inside a longer one, forms the document does not write |
 
 `read.py` serves the same text in both directions and neither stores anything:
 the numbers it prints are **file** lines, the ones a citation names, and `--find`
