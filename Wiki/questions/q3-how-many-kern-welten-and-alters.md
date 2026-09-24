@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -72,10 +72,31 @@ and with any other number.
 
 ### The correspondence is suggested by arrangement and stated nowhere
 
-One Alter per level, four levels, four Alters — the shape of a one-to-one rule,
+One Alter per level, four levels, four [[alters|Alters]] — the shape of a one-to-one rule,
 written as four examples. The document never says a Kern-Welt corresponds to an
 Alter, and it also names NPCs per level in the same clauses, which a strict
 correspondence would not.
 
 **Q3 therefore splits.** The world count has an answer to check against the next
 source; the alter count and the correspondence are where they were.
+
+## 2026-09-24 — a canon-era document counts the Alters and names them
+
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` gives the number in a heading and closes the list in a table:
+
+> „System Kael (TSDP-Architektur, 13 Alter)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L253]
+
+Thirteen rows follow (L260–L272), and fifteen other names are struck:
+„Dekanonisiert (NIE als aktive Charaktere)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L278]. See [[alters]].
+
+**The world count agrees** — four [[kern-welten|Kern-Welten]], „Plus zwei Ebenen außerhalb der KW"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226], the same six as document 6.
+
+**The correspondence is denied, for [[guardians|Guardians]], and not addressed for Alters.**
+The matrix heading says „KEIN Guardian-1:1" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]; it says nothing of an
+Alter per world, and it assigns each world a mode and an act instead.
+
+So Q3 has a count for both halves from one source each, and the correspondence
+question is still open. Whether the 13 of 2026 supersede the Alters named in
+2025 is not the wiki's to decide — two of them (`Limina`, `Echo`) are on this
+document's struck list.
