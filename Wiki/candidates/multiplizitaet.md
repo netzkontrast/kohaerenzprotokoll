@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -59,3 +59,9 @@ of scope (J21).
 > Klartext-Diagnose (kein „Alters", kein „DID")." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L46]
 
 The roster is on [[alters]].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+„Im Roman: zwingend Funktionale Multiplizität. Final Fusion ist AEGIS' Ziel,
+nicht das Heilungsziel." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L840] **And a chapter for it**: „Das Achievement
+der Funktionalen Multiplizität ist Kap 33." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L844]
