@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 3
-readings: 3
-conflict: none
+sources: 4
+readings: 4
+conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -110,9 +110,31 @@ The prose rule that follows from it: „Grammatik-Regel: nie Subjekt, nur Wirkun
 > „Kaltes Ozon = AEGIS-Unterdrückung (Landauer-Signatur, überall) · Wärme = Junas
 > ununterdrückbare Spur (Coheron-Verdrängung; selten, Debüt Kap 3, wächst)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L64]
 
-See [[landauer-signatur]] and [[coheron]]. Silas, one of the two mirror [[alters|Alters]], is
+See [[landauer-signatur]] and [[coheron]]. [[silas|Silas]], one of the two mirror [[alters|Alters]], is
 „Juna-Echo (Coheron)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L271].
 
 **Where she appears.** Absent through Akt I, first directly in Kap 38: „Stille-Beat:
 Junas erste direkte Erscheinung" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L400]. Her POV is open: „Junas POV: offen"
 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**A structural position, never described.**
+
+> „Juna ist nicht primär Charakter, sondern strukturelle Position." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L221]
+
+„Eine lebende Gödel-Aussage — innerhalb des AEGIS-Systems wahr, aber nicht
+beweisbar." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L225] „Juna wird niemals physisch beschrieben." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L235] The
+writing rule the other canon-era source gives as grammar, this one gives as
+syntax: „Sätze beginnen niemals mit „Juna ..."." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L248]
+
+**Where she appears — and the two canon-era sources disagree.**
+
+> „Im gesamten Roman taucht Juna einmal in einer Szene auf, in der sie als
+> spürbare aber nicht-beschriebene Präsenz existiert (ca. Kap 33, Garten der
+> Stillen Präsenz)." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L280]
+
+The other puts her first direct appearance in Kap 38: „Stille-Beat: Junas erste
+direkte Erscheinung" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L400]. Conflict `C7`.
+
+Her link to [[kael|Kael]] is the [[moonshine-link|Moonshine-Link]]; her anchor, the [[telefon-stille|Telefon-Stille]].
