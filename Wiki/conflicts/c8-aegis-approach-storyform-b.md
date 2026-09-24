@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 3
+sources: 4
 pages: ["aegis"]
 ---
 
@@ -46,3 +46,8 @@ A and „Do-er" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L604]
 > „B's Do-er-Modus ist außen-orientiert: das, was die Funktion wurde" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L669]
 
 So the two 2026-05-08 documents disagree with each other here.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Do-er. The slot table's columns are A ([[kael|Kael]]) and B ([[aegis|AEGIS]]) (L106), and its row reads
+„Approach | Be-er | Do-er" ^[kapitel-kompendium-gather-2026-05-31-md.md:L109]. A third source for document 7's side.
