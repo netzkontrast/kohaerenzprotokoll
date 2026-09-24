@@ -35,7 +35,20 @@ Three rules hold for everything derived from them:
   presented as a measurement.
 
 Why these lists exist, and what they may and may not decide:
-`Plan/concept/entity-lists_2026-09-23.md`.
+`Plan/concept/entity-lists_2026-09-23.md`. Today 4 <!--state:entities.lists-->
+lists exist and 3 <!--state:entities.readings--> of them verify as readings;
+`NOW.md` has the numbers per list.
+
+## The German–English map
+
+`bilingual.md` (and `bilingual.jsonl`, the same rows for code) pairs German and
+English surfaces of one entity across the whole corpus, written by
+`scripts/bilingual.py`: code finds the pairs the corpus writes itself, free
+models propose counterparts from a name alone, and Jev judges each pair over the
+lines where both occur. Every stage is cached under `Plan/runs/bilingual/`, so
+`--replay` reruns it with no key and no network. It is a list of proposals: no
+pair has become a judgement, and `graphrag.py ask --gloss` uses one only to
+route a question, labelled as a gloss.
 
 ```yaml
 Plan/entities: provisional

@@ -14,12 +14,15 @@ is an impression, and an impression cannot be built against.
 
 | file | step | what it feeds |
 |---|---|---|
-| `fetch.md` | Drive → `Sources/drive/` | `scripts/sources.py`, the fetch skill |
+| `fetch.md` | Drive → `Sources/drive/` | `scripts/sources.py` |
+| `extract-terms.md` | a source → its term census in `Sources/terms/` | `scripts/capture.py`, `scripts/profile.py`, the `ingest` skill |
 | `read-source.md` | a source → its notes | the note format, the extract step, its model choice |
 | `gather-term.md` | notes → a term page | the page schema, the compile step, the conflict detector |
 | `review-promote.md` | candidate → `Wiki/terms/` | the review checklist, what a person must keep deciding |
-| `ask.md` | a question → a cited answer | the retrieval path, when an index becomes worth building |
-| `restructure.md` | the one-time reset | nothing ongoing; kept because it explains the shape of the repo |
+| `ask.md` | a question → a cited answer | the retrieval path: `scripts/graphrag.py` |
+
+The one-time reset of 2026-09-16 has no learnings file; decision 001 and
+`Plan/concept/repo-and-workflow-concept_2026-09-16.md` explain the shape it left.
 
 ## The format
 

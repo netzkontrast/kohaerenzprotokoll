@@ -1,8 +1,10 @@
 # Sources — the only layer that is true
 
-617 research documents exported from Google Drive, plus the manifest that
-indexes them. Everything else in this repository is derived from here; nothing
-here is derived from anything else.
+The research documents exported from Google Drive, the manifest that indexes
+them — 613 <!--state:sources.total--> rows, 371 <!--state:sources.landed--> of
+them landed — and, beside each document that has been read, its term census and
+its note. Everything else in this repository is derived from the documents in
+`drive/`.
 
 **Documents are immutable once landed.** They are written by
 `scripts/sources.py` and by nothing else — `.claude/settings.json` denies the
@@ -14,10 +16,16 @@ that *means* is decided in `Wiki/`, by a person.
 
 ## Layout
 
-| path | what | committed |
+| path | what | written by |
 |---|---|---|
-| `manifest.jsonl` | one row per document — the spine | yes |
-| `drive/<slug>.md` | the landed document, UTF-8, LF | yes |
+| `manifest.jsonl` | one row per document — the spine | `scripts/sources.py` |
+| `duplicates.jsonl` | the rows folded away as copies, each naming the row it duplicates | `scripts/dedupe.py` |
+| `drive/<slug>.md` | the landed document, UTF-8, LF | `scripts/sources.py`, and nothing else |
+| `terms/<slug>.md` | the term census of one document, exhaustive — 13 <!--state:documents.with_census--> | a reader |
+| `notes/<slug>.md` | what one document says about the terms that matter, quoting with line numbers — 13 <!--state:documents.with_note--> | a reader |
+
+A census and a note describe their one document and nothing else: no count,
+comparison or expectation from another source (`CLAUDE.md`, *The process*).
 
 A manifest row carries `drive_id`, `title`, `slug`, `category`, `tier`,
 `format`, `index_date` from the Drive index, and once landed: `export_path`,
@@ -47,12 +55,12 @@ session token are session-scoped, and it says so when either is missing.
 
 ## Two routes, chosen by format
 
-| format | rows | landed | route |
+| format | rows, 2026-09-24 | landed | route |
 |---|---:|---:|---|
-| `gdoc` | 590 | 360 | `read_file_content` — the text export |
-| `docx` | 45 | 45 | `download_file_content` → markitdown |
-| `md` | 43 | 4 | same — see below |
-| `pdf` | 1 | 0 | same |
+| `gdoc` | 560 | 333 | `read_file_content` — the text export |
+| `docx` | 12 | 12 | `download_file_content` → markitdown |
+| `md` | 39 | 26 | the text route — see below |
+| `pdf` | 1 | 0 | `download_file_content` → markitdown |
 | `mp3` | 1 | 0 | **none** |
 
 A Google Doc has no original file, so the text export is all there is. Anything
@@ -63,7 +71,8 @@ what the author marked up.
 page said otherwise.** It claimed the text export flattens structure and that
 "section-level retrieval works on the converted formats and does not work on
 Google Docs" — generalised from the first document landed, which had one real
-heading against 26 lines of bold. Counted across everything on disk:
+heading against 26 lines of bold. Counted across everything on disk on
+2026-09-16, before the corpus was deduplicated:
 
 | format | landed | median headings | with ≥5 | with none |
 |---|---:|---:|---:|---:|
@@ -113,7 +122,8 @@ Drive holds up to five exports of the same document — a gdoc export, a docx
 export, a `kopie` of each, a second run of both — each with its own `drive_id`,
 so each landed as its own row. 409 files were 346 documents.
 
-`python3 scripts/dedupe.py` folded the 63 extra away (67 after the canon-era landing's four copies): the file left
+`python3 scripts/dedupe.py` folded 67 <!--state:sources.folded--> extra files
+away — 63 at first, and four more from the canon-era landing: the file left
 `Sources/drive/`, the row left `manifest.jsonl` and moved in full to
 `duplicates.jsonl`, which `sources.py next` filters against by `drive_id` so a
 folded document is never offered for fetching again.
@@ -125,12 +135,13 @@ ranking; `Plan/runs/dedupe.json` has the decision per group.
 
 ## Frontmatter, and what it costs
 
-**323 of the 346 landed documents** open with eight lines of provenance drawn
-from the manifest. **23 do not** — they were landed before this decision was
+**All but 23 <!--state:sources.without_frontmatter--> of the
+371 <!--state:sources.landed--> landed documents** open with eight lines of
+provenance drawn from the manifest. Those were landed before this decision was
 taken, and nothing has back-filled them.
 
 That matters more than it looks: code which assumes the body starts at line 10
-silently swallows nine lines of content in those 23. Several ad-hoc counts in
+silently swallows nine lines of content in those files. Several ad-hoc counts in
 this repository's history did exactly that. `scripts/profile.py` and
 `scripts/corpus.py` **find** the boundary per document instead, and
 `corpus.py` prints how many documents lack it on every answer.
@@ -171,8 +182,8 @@ second convention.
 `scripts/dedupe.py`, which subsumes it and catches the copies that are not
 byte-equal as well.
 
-**38 titles still appear on more than one row, and 13 of those have two or more
-landed — and they are not duplicates.** They survived a Jaccard comparison at
+**35 <!--state:sources.repeated_titles--> titles still appear on more than one
+row, and they are not duplicates.** They survived a Jaccard comparison at
 0.8 that folded 63 files away, so their content genuinely differs. This used to
 read „55 duplicate titles but only 2 rows marked `T0-duplicate`, so deduplication
 is incomplete", which drew the right conclusion from the wrong evidence: **a

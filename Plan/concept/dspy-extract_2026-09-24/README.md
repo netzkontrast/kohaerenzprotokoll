@@ -35,6 +35,11 @@ has itself measured and decided about models.
   disagree, the skill's `[checked: …]` marks and `surface` blocks have been
   re-run against the installed DSPy 3.3.1 by `scripts/check_dspy_skill.py`, and
   the notes have not.
+- **A note's quotation marks are not a promise.** Readers quoted, condensed
+  and titled findings in one voice, so words in quotation marks in a note may be
+  the reader's own. On 2026-09-24 every quotation in the skill was searched for
+  in its sources, and those that were only a note's words were corrected or
+  unquoted; the notes themselves were left as the readers wrote them.
 - **Paths inside a note are the scanned repository's**, unless the note says
   otherwise. `<scratchpad>` stands for the session's scratch directory, where
   the readers kept their probe scripts and throwaway venvs. Those were not
