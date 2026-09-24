@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 4
+sources: 5
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -70,3 +70,11 @@ names no Landauer trace (L832).
 
 So a third arrangement: cold ozone in KW1, [[juna|Juna]]'s warmth from Kap 3, Landauer
 warmth at the transition out of KW1 (Kap 13→14). Same date as document 7.
+
+## 2026-09-24 — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Before the lock, the same polarity.** Beat 4 is the heat spike: „Heat-Spike**
+(Landauer→∞)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L278], „Landauer-Hitze als somatischer Filter" (L295). And a bridge
+cue gives warmth to [[kael|Kael]] and cool to [[aegis|AEGIS]]: „Kaels warme Kontemplation kippt für
+einen Atemzug in AEGIS-Kühle und zurück" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L344]. Three weeks before the
+2026-05-30 lock, and in line with it; nothing here on Kap 6.
