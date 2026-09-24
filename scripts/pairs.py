@@ -8,8 +8,9 @@ feedback* (P6: one encoding each). This adds what a model run needs and no
 scanned repository supplied:
 
 - **A canary veto.** The never-merge pairs in `selftest.MUST_NOT_MERGE`
-  (`Negentropie`/`Entropie` first) are asked of every candidate. One merge and
-  the candidate is `vetoed` in `Plan/runs/baselines.jsonl`, whatever its
+  (`Negentropie`/`Entropie` first) are asked of every compiled fold and the
+  final candidate. A merge or an unscorable answer vetoes the run in
+  `Plan/runs/baselines.jsonl`, whatever its
   accuracy — `dspy.GEPA` optimizes a mean, and `dspy-auto-gepa`'s `promote()`
   saves whatever training produced, so otherwise a merged canary costs 1/n.
 - **Rule first, model on the residual.** Neither rule in `RULES` has produced a
@@ -122,6 +123,24 @@ def merged_canaries(rule) -> list[tuple[str, str]]:
     return [(a, b) for a, b in canaries() if rule(a, b) == "one-term"]
 
 
+def check_program_canaries(compiled, first, *, name: str, approval: str | None,
+                           out_dir: Path | None) -> list[str]:
+    """Veto a merge or an answer that cannot establish a canary stayed separate."""
+    from lmrun import call
+    failures = []
+    for a, b in canaries():
+        if first(a, b) == "one-term":
+            failures.append(f"{a}/{b}: rule merged")
+            continue
+        pred, rec = call(compiled, step=f"pairs-{name}-canary", subject="surface-pairs",
+                         approval=approval, out_dir=out_dir, first=a, second=b)
+        if rec["status"] != "answered":
+            failures.append(f"{a}/{b}: {rec['status']}")
+        elif str(pred.decision) != "two-terms":
+            failures.append(f"{a}/{b}: merged")
+    return failures
+
+
 def score_rule(name: str) -> dict:
     import inspect
     rule = RULES[name]
@@ -232,13 +251,17 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
 
     outcomes: dict[str, float | None] = {}
     compiled_states = []
+    canary_failures = []
     with context:
-        for held in folds(labelled, k):
+        for fold_number, held in enumerate(folds(labelled, k), 1):
             held_ids = {r["id"] for r in held}
             train = [examples[i] for i in examples if i not in held_ids]
             compiled = optimizer(name, metric, len(train), reflection_lm).compile(
                 program.deepcopy(), trainset=train)
             compiled_states.append(compiled.dump_state())
+            canary_failures.extend(f"fold {fold_number}: {failure}" for failure in
+                                   check_program_canaries(compiled, first, name=name,
+                                                         approval=approval, out_dir=out_dir))
             for r in held:
                 if first(r["first"], r["second"]) == "one-term":
                     outcomes[r["id"]] = float(r["decision"] == "one-term")   # the rule answers
@@ -251,23 +274,17 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
                     if rec["status"] == "answered":
                         hits.append(trainset.score_one(r, str(pred.decision))["score"])
                 outcomes[r["id"]] = round(sum(hits) / len(hits), 3) if hits else None
-        merged = []
         final = optimizer(name, metric, len(examples), reflection_lm).compile(
             program.deepcopy(), trainset=list(examples.values()))
-        for a, b in canaries():
-            if first(a, b) == "one-term":
-                merged.append((a, b))
-                continue
-            pred, rec = call(final, step=f"pairs-{name}-canary", subject="surface-pairs",
-                             approval=approval, out_dir=out_dir, first=a, second=b)
-            if rec["status"] == "answered" and str(pred.decision) == "one-term":
-                merged.append((a, b))
+        canary_failures.extend(f"final: {failure}" for failure in
+                               check_program_canaries(final, first, name=name,
+                                                     approval=approval, out_dir=out_dir))
 
     entry = baseline.row(TASK, f"{'dry-run:' if dry_run else ''}rule:{rule}+{name}:{model or 'fixture'}",
                          outcomes, program=[inspect.getsource(first), inspect.getsource(fold),
                                             compiled_states],
-                         trainset=labelled, vetoed=bool(merged),
-                         note=f"k={k} repeats={repeats}; canaries merged: {merged}")
+                         trainset=labelled, vetoed=bool(canary_failures),
+                         note=f"k={k} repeats={repeats}; canary failures: {canary_failures}")
     if record and not dry_run:
         baseline.append(entry)
     return entry
