@@ -93,7 +93,7 @@ designer would have given it that sense ^[kohaerenzprotokoll-aegis-und-systement
 | **`Entropic Gatekeeper`** | 7 | **four occurrences carry no `AEGIS` in the sentence** — the role travels on its own |
 | `Kontrollinstanz` | 3 | never without AEGIS beside it; recorded as a descriptor, not a surface |
 | „Wächter der systemischen Stabilität" | 1 | **the same role, in German, sharing no characters with `Entropic Gatekeeper`** ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] |
-| „blinder Hausmeister" | 1 | the source's summary image, marked `[User Query]` ^[kohaerenzprotokoll-aegis-und-systementropie.md:L207] |
+| `blinder Hausmeister` | 1 | the source's summary image, marked `[User Query]` at L207; the bare phrase recurs at L221 ^[kohaerenzprotokoll-aegis-und-systementropie.md:L207,L221] |
 
 `Entropic Gatekeeper` is the one to watch: a role name built from the acronym's
 own words that is used independently of it. Nothing guarantees a later source

@@ -140,7 +140,7 @@ that line is the document guessing at its own vocabulary.
 ## What the extraction ran into
 
 **1. The frontmatter is inside the file.** Lines 1–9 carry `title` and `slug`, so
-„Entropie aegis" ^[L3] and `entropie-aegis` ^[L4] both answer a search for the
+the frontmatter title `Entropie aegis` ^[L3] and `entropie-aegis` ^[L4] both answer a search for the
 term. `Entropie` occurs 53 times in the body and 54 in the file, and a
 case-insensitive search adds the slug on top.
 

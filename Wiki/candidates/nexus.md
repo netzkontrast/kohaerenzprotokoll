@@ -22,8 +22,8 @@ Lichtlinien und Datenströmen" ^[guardians-und-kern-welten-konzept.md:L29], Soph
 Präsenz" ^[guardians-und-kern-welten-konzept.md:L118].
 
 The `Möglichkeits-Garten` is called its `Vorstufe` ^[guardians-und-kern-welten-konzept.md:L122] and may act as
-„Übergangszone […] zwischen den Kern-Welten und dem übergeordneten Nexus"
-^[guardians-und-kern-welten-konzept.md:L131] — so the Nexus sits **above** the Kern-Welten.
+„als Übergangszone, als Verbindungspunkt oder als Kommunikationskanal zwischen den Kern-Welten und dem übergeordneten Nexus"
+^[guardians-und-kern-welten-konzept.md:L130] — so the Nexus sits **above** the Kern-Welten.
 
 ## The unresolved surface — `Überraum`
 

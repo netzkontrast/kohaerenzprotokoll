@@ -204,7 +204,7 @@ SPEC.md               # Phase 0
 > | `questions.jsonl` | `Wiki/questions/q1…q4`, dazu jede `## Open`-Sektion einer Seite | 5 <!--state:wiki.questions--> Fragen-Seiten und die offenen Aussagen, die `relations.py --open` erntet. |
 > | `wiki/konzepte/` | `Wiki/candidates/*.md` | 92 <!--state:wiki.pages--> Seiten, noch keine promoviert (`Wiki/terms/` existiert nicht). |
 > | `kp ask` | `python3 scripts/graphrag.py ask "…"` | Gibt nur belegte Zitate zurück, nie Prosa. `--answer` lässt ein Modell nur Belegnummern wählen. |
-> | Provenienz-Prüfung | `scripts/quotes.py`, `scripts/read.py --find`, `scripts/selftest.py` | 17 <!--state:quotes.unresolved--> Zitate lösen nicht auf, alle älter als der Prüfer. |
+> | Provenienz-Prüfung | `scripts/quotes.py`, `scripts/read.py --find`, `scripts/selftest.py` | 0 <!--state:quotes.unresolved--> Zitate bleiben unaufgelöst; nicht einzeln zitierte Tabellenzellen sind noch ungeprüft. |
 > | `kp refresh`, Inkrementalität | `scripts/state.py` (abgeleitete Zahlen), `Plan/runs/<slug>/reconcile.json` (`state_before` → `state_after`), `scripts/account.py order` | Ob ein Schritt erledigt ist, ist eine Messung. Nicht sha256-gesteuert pro Claim. |
 > | Modellaufrufe, Evaluation | `scripts/lmrun.py`, `scripts/baseline.py`, `Plan/runs/baselines.jsonl`, `scripts/lm_fixture.py` | Jeder Aufruf protokolliert. Jede Bewertung gegen eine feste Untergrenze. Offline-Probeläufe ohne Schlüssel. |
 > | `SQLite FTS5` | `qmd` (BM25, Vektoren, Reranking; `.qmd/index.yml`) | Volltextsuche über das Korpus. Ein Suchtreffer ist nie eine Zahl. |

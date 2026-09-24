@@ -446,8 +446,8 @@ conflicts, questions) and **1258 <!--state:graph.edges--> edges** (`links`,
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1420 <!--state:graph.evidence-->
-of them, **1305 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1418 <!--state:graph.evidence-->
+of them, **1307 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;

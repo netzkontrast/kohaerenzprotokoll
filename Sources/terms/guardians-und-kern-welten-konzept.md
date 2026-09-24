@@ -132,7 +132,7 @@ worlds. `profile.py` counts them correctly and calling them stance markers would
 be wrong — **the same probe finds two unrelated things.**
 
 **2. Two `### A.` headings in one section.** ^[L98] „A. Guardian Kairos" and
-^[L110] „A. Guardian Sophia" both sit under ^[L94] section IV. Heading-based
+^[L110] `A. Guardian Sophia` both sit under ^[L94] section IV. Heading-based
 addressing collides here, and the duplicate is in the source.
 
 **3. The document's own count does not match its own content.** „die vier

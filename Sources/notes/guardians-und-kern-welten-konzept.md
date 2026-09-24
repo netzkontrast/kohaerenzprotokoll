@@ -90,7 +90,7 @@ state is that the manifestation differs per world:
 | Konstrukt-Stadt | „Logische Widersprüche werden greifbar" | 39 |
 | Resonanz-Landschaft | „Plötzliche, heftige emotionale Stürme" | 64 |
 | Grenzfeste | „unerklärliche Sicherheitslücken" | 89 |
-| Möglichkeits-Garten | „unkontrollierbare, destruktive Transformationen" | 128 |
+| Möglichkeits-Garten | `unkontrollierbare, destruktive Transformationen` ^[L128] | 128 |
 
 Each is the world's own principle turned against itself — logic made
 inconsistent, emotion made dissonant, security made porous, growth made
@@ -133,8 +133,7 @@ there, and the duplicate is in the source, not the export.
 ## What this document is not
 
 It is `T3-work` and `worldbuilding`, and it reads as a reference written to be
-consulted rather than argued with — „ein umfassendes Referenzdokument für den
-Autor" ^[L15]. It cites no sources, poses one question in 5,839 words, and uses
+consulted rather than argued with — „legt die detaillierte konzeptionelle Grundlage" ^[L15]. It cites no sources, poses one question in 5,839 words, and uses
 no mathematics. Against the three `theorie-physik` documents read before it, the
 contrast is total: they argue toward conclusions, this one records decisions.
 

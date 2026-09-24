@@ -74,8 +74,7 @@ is too thin to compare.
 
 Across three, two incompatible senses appear:
 
-- **System stability.** „niedrige Entropie, hohe Vorhersagbarkeit, logische
-  Konsistenz […] messbar über die *Redundanz*"
+- **System stability.** „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" und „über die *Redundanz*"
   ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27] — a measurable property
   of a running system.
 - **Truth by self-consistency.** In document 2's ZTV protocol, coherence *is* the
