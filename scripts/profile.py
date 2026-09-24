@@ -18,25 +18,16 @@ Usage:
 from __future__ import annotations
 
 import json
-import re
 import sys
 import unicodedata
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-MANIFEST = ROOT / "Sources" / "manifest.jsonl"
-
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import subject  # noqa: E402
-
-HEADING = re.compile(r"^#{1,6} ")
-BOLD_ONLY = re.compile(r"^\*\*.+\*\*\s*$")
-ESCAPE = re.compile(r"\\[\[\]*\"_]")
-GLUED_REF = re.compile(r"([A-ZÄÖÜ][A-Za-zäöüß\-]{3,})\s(\d{1,2})\b")
-INLINE_LABEL = re.compile(r"\*\*([A-ZÄÖÜ][^*\n]{2,40}):\*\*")
-MATH = re.compile(r"[\u2205\u2192\u2261\u2208\u2286\u2227\u2228\u22c3\u03bb\u03a3\u03c3\u03bc\u03a0\u0394\u03b8\u03b1\u03d5\u2295\u22a2]")
-TYPOGRAPHIC = "\u201e\u201c\u201d\u2018\u2019\u2013\u2014"
-INVISIBLE = {"\u200b", "\u200c", "\u200d", "\u2060", "\ufeff"}
+# The probes are the rules' own patterns, so a profile and the derived facts
+# cannot count the same thing two ways.
+from rules.export_damage import ESCAPE, GLUED_REF, INVISIBLE, TYPOGRAPHIC  # noqa: E402
+from rules.structure import BOLD_ONLY, HEADING, INLINE_LABEL, MATH  # noqa: E402
 
 
 def repeated_labels(text: str, minimum: int = 3) -> list[tuple[str, int]]:
@@ -54,11 +45,14 @@ def repeated_labels(text: str, minimum: int = 3) -> list[tuple[str, int]]:
 
 
 def invisible_chars(text: str) -> dict[str, int]:
-    found: dict[str, int] = {}
-    for ch in text:
-        if ch in INVISIBLE or unicodedata.category(ch) in ("Cf", "Mn", "Me"):
-            found[ch] = found.get(ch, 0) + 1
-    return found
+    """Every format or combining character, counted, in order of first occurrence.
+
+    Wider than `rules/export_damage.py`'s five: any Unicode Cf, Mn or Me. Each
+    distinct character is classified once, not every occurrence of it.
+    """
+    flagged = [ch for ch in set(text)
+               if ch in INVISIBLE or unicodedata.category(ch) in ("Cf", "Mn", "Me")]
+    return {ch: text.count(ch) for ch in sorted(flagged, key=text.index)}
 
 
 def profile(doc) -> dict:
@@ -112,10 +106,6 @@ def render(p: dict) -> str:
     )
 
 
-def manifest_rows() -> list[dict]:
-    return [json.loads(line) for line in MANIFEST.read_text(encoding="utf-8").splitlines()]
-
-
 def summarise() -> str:
     """Medians per category, so the corpus can be compared against one document.
 
@@ -161,7 +151,7 @@ def census_frontmatter(slug: str) -> str:
     """
     import datetime
 
-    for row in manifest_rows():
+    for row in subject.rows():
         if row.get("slug") != slug:
             continue
         if not row.get("export_path"):
@@ -198,10 +188,6 @@ def census_frontmatter(slug: str) -> str:
     sys.exit(f"no manifest row with slug {slug!r}")
 
 
-def landed_paths() -> list:
-    return list(subject.documents())
-
-
 def resolve(slug: str):
     try:
         return subject.document(slug)
@@ -231,10 +217,4 @@ def main(argv: list[str]) -> int:
 
 
 if __name__ == "__main__":
-    try:
-        import signal
-
-        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
-    except (ImportError, AttributeError, ValueError):
-        pass
-    raise SystemExit(main(sys.argv[1:]))
+    subject.cli(main)

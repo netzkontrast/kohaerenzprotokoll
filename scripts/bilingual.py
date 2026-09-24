@@ -53,7 +53,7 @@ import subject  # noqa: E402
 
 OUT = ROOT / "Plan" / "runs" / "bilingual"
 CALLS = OUT / "calls"
-LISTS = ROOT / "Plan" / "entities"
+LISTS = E.LISTS
 REPLAY = "--replay" in sys.argv
 
 MIN_DOCS = 5          # a surface in fewer documents is judged only if a gloss names it
@@ -88,15 +88,13 @@ def strip_article(s: str) -> str:
 
 
 def write_jsonl(name: str, rows) -> Path:
-    OUT.mkdir(parents=True, exist_ok=True)
     path = OUT / f"{name}.jsonl"
-    path.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows), encoding="utf-8")
+    subject.write_jsonl(path, rows)
     return path
 
 
 def read_jsonl(name: str) -> list[dict]:
-    path = OUT / f"{name}.jsonl"
-    return [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    return subject.read_jsonl(OUT / f"{name}.jsonl")
 
 
 def stage_stated() -> list[dict]:
@@ -152,7 +150,7 @@ def universe(stated: list[dict]) -> list[str]:
     import jev_entities as J
     docs: Counter = Counter()
     for doc in subject.documents():
-        for s in J.candidates(J.lines_of(doc.slug)):
+        for s in J.candidates(*J.body_of(doc)):
             docs[strip_article(s)] += 1
     out = {s for s, n in docs.items() if n >= MIN_DOCS}
     out |= {r["a"] for r in stated} | {r["b"] for r in stated}
@@ -479,9 +477,7 @@ def stage_write() -> Path:
                      "docs": r["docs"], "n": r["n"], "entity_p": r["p"],
                      "first": r["first"], "same_as": sorted(links.get(r["surface"], []),
                                                             key=lambda x: -x["p"])})
-    LISTS.mkdir(parents=True, exist_ok=True)
-    (LISTS / "bilingual.jsonl").write_text(
-        "".join(json.dumps(r, ensure_ascii=False) + "\n" for r in full), encoding="utf-8")
+    subject.write_jsonl(LISTS / "bilingual.jsonl", full)
 
     def de_en(p):
         """German surface left. The model's label where it gave de or en, else a
