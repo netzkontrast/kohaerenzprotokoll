@@ -46,7 +46,7 @@ def tools_for(graph: dict):
                            for score, key, title in ranked[:8]], ensure_ascii=False)
 
     def inspect_page(page_id: str) -> str:
-        """Show a page's verified quotations with source and line, at most six."""
+        """Show the first six verified quotations, with source and line."""
         if page_id not in pages:
             return "UNKNOWN PAGE"
         quotes = [e for e in graph["evidence"].get(page_id.split(":", 1)[1], [])
@@ -54,13 +54,31 @@ def tools_for(graph: dict):
         return json.dumps([{"quote": e["quote"], "source": e["doc"], "line": e["line"]}
                            for e in quotes[:6]], ensure_ascii=False)
 
+    def search_quotes(page_id: str, words: str) -> str:
+        """Find verified quotations anywhere on a page; return at most eight cited hits."""
+        if page_id not in pages:
+            return "UNKNOWN PAGE"
+        if not words.strip():
+            return "[]"
+        query = graphrag.vector(words)
+        ranked = []
+        for e in graph["evidence"].get(page_id.split(":", 1)[1], []):
+            if e["status"] != "verified":
+                continue
+            score = graphrag.cosine(query, graphrag.vector(e["quote"]))
+            if score > 0:
+                ranked.append((score, e))
+        ranked.sort(key=lambda row: (-row[0], row[1]["doc"], row[1]["line"]))
+        return json.dumps([{"quote": e["quote"], "source": e["doc"], "line": e["line"]}
+                           for _, e in ranked[:8]], ensure_ascii=False)
+
     def list_pages(offset: int = 0) -> str:
         """Browse page IDs and titles in pages of 100, for questions without search terms."""
         offset = max(0, min(int(offset), len(pages)))
         return json.dumps([{"page": key, "title": pages[key]["term"]}
                            for key in sorted(pages)[offset:offset + 100]], ensure_ascii=False)
 
-    return [search_pages, inspect_page, list_pages]
+    return [search_pages, inspect_page, search_quotes, list_pages]
 
 
 def evaluate(proposed, graph: dict, gold: set[str]) -> dict:
@@ -80,11 +98,18 @@ def selftest() -> int:
     for case_id in CASES:
         isolated = graphrag.without(graph, case_id)
         assert case_id not in isolated["nodes"]
-        search, inspect, listing = tools_for(isolated)
+        search, inspect, search_quotes, listing = tools_for(isolated)
         assert "term:kael" in listing(0) + listing(100)
         assert "term:kael" in search("Kael")
         assert "UNKNOWN PAGE" == inspect("term:invented")
         assert all(row["source"] and row["line"] for row in json.loads(inspect("term:kael")))
+        if case_id == "conflict:C10":
+            assert not any("Knöchel" in row["quote"] for row in json.loads(inspect("term:kael")))
+            later = json.loads(search_quotes("term:kael", "Knöchel"))
+            assert later and any("Knöchel" in row["quote"] for row in later)
+            assert all(row["source"] and row["line"] for row in later)
+        else:
+            assert all(page in listing(0) + listing(100) for page in cases[case_id]["gold"])
         result = evaluate(["term:invented", *sorted(cases[case_id]["gold"]),
                            *sorted(cases[case_id]["gold"])], isolated, cases[case_id]["gold"])
         assert result["invalid"] and len(result["pages"]) == len(cases[case_id]["gold"])
@@ -141,7 +166,8 @@ def run(dry_run: bool, model: str | None, approval: str | None) -> list[dict]:
                        max_iters=5, max_llm_calls=8, interpreter_factory=interpreter_factory)
         with context:
             pred = rlm(question=case["query"] + "\nFind existing page IDs using the tools. "
-                       "Inspect evidence. Submit at most eight IDs; if none fit, submit [].")
+                       "If the first quotations on a page do not address the question, use "
+                       "search_quotes on that page. Submit at most eight IDs; if none fit, submit [].")
         result = evaluate(pred.page_ids, isolated, case["gold"])
         result["steps"] = len(getattr(pred, "trajectory", []) or [])
         result["model_requests"] = len(lm.requests) if dry_run else len(lm.history)
