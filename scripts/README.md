@@ -33,10 +33,14 @@ encodings of one rule drift apart on the first edit (P6).
 
 | file | owns |
 |---|---|
-| `subject.py` | The substrate: repository paths, the manifest rows, every landed document with its body and the **file** line that body starts on, a document's derived facts, the judgement ledger. The one implementation of where a source document's frontmatter ends. Imported, never run. |
-| `wiki_index.py` | `fold()` — whether two surfaces are one term — and wiki-page frontmatter. Run, it writes `Wiki/index.json`, the lookup `reconcile.py` answers from; `--check` reports what the index cannot see. |
-| `quotes.py` | `normalise()`, `pairs()` and `verdict()`: which citation belongs to which quotation, and whether it resolves. Run, it checks every „…" ^[Lnn] in the repository, or in one file. |
-| `rules/` | The per-document rules `derive.py` applies — `structure`, `surfaces`, `attribution`, `export_damage`. Each is a module with `NAME`, `VERSION`, `applies()` and `derive()`; `rules/__init__.py` states the contract. |
+| `subject.py` | The substrate: repository paths, reading and writing a JSONL file, the manifest rows and the rows folded out of it, every landed document with its body and the **file** line that body starts on, a document's derived facts, the judgement ledger, and `cli()`, which runs a script's `main`. The one implementation of where a source document's frontmatter ends. Imported, never run. |
+| `wiki_index.py` | `fold()` — whether two surfaces are one term — `mention()` — where a term stands alone as a word, for every script that counts or marks one — and wiki-page frontmatter. Run, it writes `Wiki/index.json`, the lookup `reconcile.py` answers from; `--check` reports what the index cannot see. |
+| `quotes.py` | `normalise()`, `pairs()` and `verdict()`: which citation belongs to which quotation, and whether it resolves. `tally()` counts the outcome over every file; `state.py` and `ui.py` take the count from there. Run, it checks every „…" ^[Lnn] in the repository, or in one file. |
+| `rules/__init__.py` | The contract every rule keeps — a module with `NAME`, `VERSION`, `applies()` and `derive()` — and `load()`, which `derive.py` applies them through. |
+| `rules/structure.py` | How a document is built: headings, tables, formulas, length. `profile.py` counts with its patterns. |
+| `rules/surfaces.py` | Every capitalised token, with its count and lines — the index `corpus.py` answers from. |
+| `rules/attribution.py` | Where a document attributes a claim to something outside itself. |
+| `rules/export_damage.py` | What the Drive conversion did to the text. `capture.py` and `profile.py` count with its patterns. |
 
 ## Fetching the corpus
 
@@ -84,7 +88,7 @@ encodings of one rule drift apart on the first edit (P6).
 |---|---|---|
 | `state.py` | Every number about the repository, measured. `--prose` fails on a number in any markdown that contradicts its measurement, `--check` on a drifted `Plan/state.json`, `--get KEY` prints one. | without a flag: `Plan/state.json` |
 | `selftest.py` | Proves `quotes.py`, `read.py --find` and `fold()` can fail, each case carrying the exact defect it must name. | — |
-| `selftests.py` | Runs every self-test in the repository, one line each: held, FAILED, or not run. | — |
+| `selftests.py` | Runs every self-test in the repository, four at a time, one line each: held, FAILED, or not run. `run()` hands `ui.py` the same rows. | — |
 | `check_skills.py` | Checks `.agents/skills/` against the agent-skills spec, and that each `.claude/skills/<name>` is a symlink to it. | — |
 
 ## Entity lists and language pairs — a model's proposals
