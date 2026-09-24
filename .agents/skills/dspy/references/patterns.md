@@ -893,11 +893,13 @@ repeats of the same prompt produces `t ≈ 1e16` and reports "significant: True"
 measured) — P18 ("one attempt measures nothing… the cache must be off") stated
 as a defect rather than a rule.
 
-**Mapping onto this repository.** The one mechanism — hard negatives ranked
-ahead of easy examples in the demo pool — is already built, and built harder:
-`pairs.py`'s canary pairs (`Negentropie`/`Entropie` and every other never-merge
-pair) are not merely *ranked first*, they *disqualify* any candidate that
-merges them, on every fold. Nothing else here transfers: this repository's
+**Mapping onto this repository.** The canary pairs disqualify a candidate
+that merges them on any fold. One of them, J5 `Negentropie`/`Entropie`, also
+appears in the judgement ledger; before `model_rows()` it entered training
+despite the stated holdout. The `labeled` rung now excludes it and reserves
+two demo slots for other labelled lookalikes that are different terms. Unlike
+the reference implementation, these examples are DSPy demos selected from
+each training fold, not a rendered prompt string. Nothing else here transfers: this repository's
 signatures are German where the model reads them and the output a person reads
 is asserted German (`api.md`, P19), which sits in `signature.instructions`, not
 in a rendered input-field document.

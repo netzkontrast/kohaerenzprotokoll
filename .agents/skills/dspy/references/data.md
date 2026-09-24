@@ -122,16 +122,16 @@ only on its own held-out rows (`scripts/pairs.py`). Grouping by
 `decision` before hashing means a small fold still holds both `one-term` and
 `two-terms` rows, never all of one class.
 
-**Canaries are pinned to evaluation by never being in the pool at all.**
+**Canaries are pinned to evaluation by being removed from the model pool.**
 `selftest.MUST_NOT_MERGE`'s six pairs — four since the start, and two since
 decision 010 put `Spiel`/`Spieler` and `Logo`/`LogOS` one step past the plural
-rule's reach — are not `judgements.jsonl` records — they
-are hard-coded in `scripts/selftest.py`, so `surface_pairs()` never returns them
-and `folds()` never places one in any fold. They are checked once, after every
-fold is scored, against the program compiled on the *full* 67
-<!--state:pairs.labelled--> rows (`scripts/pairs.py`). This is stronger
-than "held out of training" — a book-style seeded split can still put a canary
-in the training set by chance; here it is structurally impossible.
+rule's reach — are hard-coded in `scripts/selftest.py`. **One also occurs in the
+ledger:** J5 is `Negentropie` / `Entropie`. Previously `pairs.py` trained on J5
+while describing every canary as held out. `model_rows()` now removes every
+exact canary pair, regardless of order, before splitting or training. The
+program is checked on all six after every fold and after the final compile.
+`score --rule` still scores the complete ledger, so its denominator differs
+from the model run's. The local dry run reports the model pool size explicitly.
 
 **The sizes the book assumes, and why 57 does not fit them.**
 "20–50 examples is enough for GEPA's reflective loop; 100–500 for MIPROv2-style
@@ -214,16 +214,21 @@ document that adds no wiki pages on purpose: a brief with "163 hedging words in
 something" (`CLAUDE.md`, *State*). An ambiguous case here becomes a recorded
 non-decision, never a forced row in a trainset.
 
-**A tiering recipe to avoid, if demo selection is ever built for `pairs.py`.**
+**The tiering policy now used for the `labeled` rung.**
 `dspy-advanced-prompting`'s few-shot tiers (GOLD/SILVER/BRONZE/CHALLENGING)
 select up to `max_examples` by a fixed priority order and never read the actual
 input: two different `input_text` values select the identical demo list,
 `['challenging', 'challenging', 'gold', 'gold', 'gold']`
 (`dspy-advanced-prompting:src/techniques/few_shot.py:16-20,42-47,78-107`,
 verified: probe S3 — demos land in an *input field*, not `predictor.demos`,
-so no DSPy optimizer can see, select or replace them either). The part worth
-taking is the tiering *policy*, not this implementation: choose demos by the
-input, and put them in `predictor.demos`, not in prompt text.
+so no DSPy optimizer can see, select or replace them either). `pairs.py` takes
+the policy into the training fold: two slots go to ledger-labelled lookalikes
+that are different terms, then a positive and other stable-ID examples fill
+the eight slots. The code passes only those examples to `LabeledFewShot` with
+`sample=False`, checks the compiled predictor's demos, and records their IDs
+per fold. It selects from the fold, not from a current input pair: this is a
+small fixed context for one signature, not a retrieval policy. It does not
+apply to the other optimizers.
 
 **Hard negatives by design, catalogued, not built.** `dspy-agent-skills`'
 tetraframe pattern includes seeds whose answer is genuinely *neither*, "so the
