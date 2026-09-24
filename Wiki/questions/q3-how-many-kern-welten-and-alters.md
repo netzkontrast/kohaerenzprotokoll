@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-17"
 ---
 
@@ -17,7 +17,7 @@ Seven pages ask some form of this, and it has been open since document 1.
 |---|---|
 | Kern-Welten named | **four** — [[konstrukt-stadt|Konstrukt-Stadt]], [[resonanz-landschaft|Resonanz-Landschaft]], [[grenzfeste|Grenzfeste]], [[moeglichkeits-garten|Möglichkeits-Garten]] ^[guardians-und-kern-welten-konzept.md:L35] |
 | whether four is all of them | **not stated by any read source** |
-| alters | the [[alters|Alters]] page records the corpus's largest disagreement |
+| [[alters]] | the [[alters|Alters]] page records the corpus's largest disagreement |
 | the correspondence | raised by document 1, unanswered by three documents since |
 
 The premise that makes it matter is stated: [[kael|Kael]]'s fragmented psyche is
@@ -97,7 +97,7 @@ The matrix heading says „KEIN Guardian-1:1" ^[kohaerenz-protokoll-storyform-un
 Alter per world, and it assigns each world a mode and an act instead.
 
 So Q3 has a count for both halves from one source each, and the correspondence
-question is still open. Whether the 13 of 2026 supersede the Alters named in
+question is still open. Whether the 13 of 2026 supersede the [[alters|Alters]] named in
 2025 is not the wiki's to decide — two of them (`Limina`, `Echo`) are on this
 document's struck list.
 
@@ -113,9 +113,14 @@ none of them one-to-one.
 Thirteen Alters again — „V.2 Die 13 Alter (kanonisch)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L352] — and four
 Kern-Welten, „vier verschiedenen Logikregimen (KW1–KW4)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L459].
 
-**The correspondence half gets a negative answer for the worlds and Guardians,
-not for the Alters.** „Die vier Kernwelten sind Akt-Marker, nicht je ein
+**The correspondence half gets a negative answer for the worlds and [[guardians|Guardians]],
+not for the [[alters|Alters]].** „Die vier Kernwelten sind Akt-Marker, nicht je ein
 Guardian-Reich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] Worlds are given to sides of the split rather than to
 Alters — KW1 „Domäne der ANP-Vermeidung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L464], KW3 where „die
 EP-Protektoren" dominate ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L501] — and each EP Alter gets a Riss type
 (L551–L568). No world is one Alter's.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**The count had a history**: its quarry had „20 Kernwelten" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13], and the
+filter made them „4 KW als Akt-Marker" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. No Alter count here.
