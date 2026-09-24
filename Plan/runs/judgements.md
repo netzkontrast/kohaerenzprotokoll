@@ -633,3 +633,115 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** 6 standing alone as Riss, 40 as Risse, plus Rissen, Riss-Manifestationen, Riss-Ursprung. Single-quoted throughout: 20 of the document's 32 single-quoted tokens are one of the two.
 
 **Result.** ONE term. Already the page's name; recorded because the ledger is also the trainset and fold() still misses this pair.
+
+## J46 — Alters / Alter
+
+**one-term** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** an English plural -s on a German noun is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** english-plural, german-plural, already-a-surface
+
+**Question.** the page is alters and this document writes Alter
+
+**What was done.** Alter 13 times standing alone, in the heading „13 Alter“ (L253), the table column (L259) and the POV rule (L206); Alters twice, in the veil rule (L46) and Vortex 1 (L378).
+
+**Result.** ONE term. The German plural is Alter; Alters is the anglicised plural of the same noun.
+
+## J47 — AEGIS / Wir-AEGIS
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a later state is the same term only when the bearer is the same; a name the source marks as undecided gets no page
+- **mechanised by:** `nothing`
+- **features:** later-state, different-bearer, name-open
+
+**Question.** four surfaces of a final form built on AEGIS — Wir-AEGIS, Wir-AEGIS-plural, AEGIS-plural, Mosaik-AEGIS
+
+**What was done.** L412: „Kael-als-Wir wird neue AEGIS, aber wesensanders“. L475 lists the names as alternatives with status open (OQ-A).
+
+**Result.** TWO terms. The final form's bearer is Kael's Wir, not AEGIS; J29 does not apply. No page: the document itself says the name is undecided. Recorded on the aegis page.
+
+## J48 — Kael / System Kael
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** the whole a member belongs to is not the member
+- **mechanised by:** `nothing`
+- **features:** whole-and-member, roster
+
+**Question.** is System Kael a surface of Kael?
+
+**What was done.** L253 heads the table „System Kael (TSDP-Architektur, 13 Alter)“; L260 gives Kael as one row, „Kael (Host) · amnestische Oberfläche“.
+
+**Result.** TWO terms. The system is the thirteen; Kael is one of them. The roster goes on alters.
+
+## J49 — Logos-Prime / LogOS
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a world name built from a bearer's name is not the bearer; containment across a proper name is not evidence
+- **mechanised by:** `nothing`
+- **features:** proper-name-containment, world-name, bearer-name
+
+**Question.** four world names contain page names — Logos-Prime/logos, Mnemosyne-Archipel/mnemosyne, Cerberus-Labyrinth/cerberus, Überwelt-Nexus/nexus
+
+**What was done.** L219–L222 name the Kern-Welten; L214 heads the table „KEIN Guardian-1:1“. The earlier pages are Guardians.
+
+**Result.** TWO terms each. The document names worlds after former bearers while denying the pairing; the containment is the conflict (C6), not an identity.
+
+## J50 — Wohneinheit 734 / Kaels Wohneinheit 1.0
+
+**one-term** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a dwelling is identified by its occupant and its place; a differing number is a reading, not a new term
+- **mechanised by:** `nothing`
+- **features:** numbered-instance, same-occupant
+
+**Question.** the page is Kaels Wohneinheit 1.0 and this document numbers the dwelling 734
+
+**What was done.** L306: Kael's first day runs „Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7“ in KW1 — the page's referent by occupant and place.
+
+**Result.** ONE term. Same dwelling by the sentence; the differing number is a reading on the page.
+
+## J51 — Nichts-Rauschen / Rauschen
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a source equating two surfaces once does not make them one term everywhere
+- **mechanised by:** `nothing`
+- **features:** qualified-compound, source-equates-once
+
+**Question.** is every Rauschen the Nichts-Rauschen?
+
+**What was done.** L386 equates them once: „das Rauschen, das hier beginnt, ist das Nichts-Rauschen“. Elsewhere Rauschen stands alone (L298, L398) with no such statement.
+
+**Result.** TWO terms. Equated only where the source says so.
+
+## J52 — Trennungsprotokoll / Trennung
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** an event and the state it produces are two terms
+- **mechanised by:** `nothing`
+- **features:** event-and-state
+
+**Question.** is Trennung a short form of Trennungsprotokoll?
+
+**What was done.** Trennung names the state („Die Trennung war nie real“, L21; Goal of B, L183); Trennungsprotokoll the event that produced it (L298).
+
+**Result.** TWO terms. An event is not the state it produces.
+
+## J53 — Landauer-Signatur / Entropie-Signatur
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a shared head noun is not a shared referent
+- **mechanised by:** `nothing`
+- **features:** shared-head, cross-document
+
+**Question.** a new page beside an existing one with the same head
+
+**What was done.** Landauer-Signatur is defined here (L64); Entropie-Signatur is a coinage inside a question in another document.
+
+**Result.** TWO terms.
