@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 6
+readings: 6
+conflict: C4, C6
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -68,7 +68,7 @@ under the heading `Kern-Welt 4 (KW4 - Domäne: Kairos/Sophia)` ^[roman-lokalitae
 > „Kairos/Sophia (als Prinzip der Zeit/Möglichkeit)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L438]
 
 The first treats the pair as one principle; the second gives it two aspects and
-slashes those as well. Document 4 states two distinct Guardians sharing one
+slashes those as well. Document 4 states two distinct [[guardians|Guardians]] sharing one
 domain; **this document never separates them at all**, which is consistent with
 that and is not a second statement of it.
 
@@ -76,3 +76,29 @@ that and is not a second statement of it.
 
 This document calls Kairos/Sophia a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] and never a `Guardian`. See
 [[guardians]], [[sophia]].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**No longer a Guardian of its own, by this source's account.** The world table
+gives its place in one cell:
+
+> „(Kairos/Sophia, latent)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54]
+
+and says why: „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus,
+Kairos, Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The earlier readings on this
+page are what this document calls earlier drafts. Recorded, not applied — see
+`C6`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Absorbed into the Erasure-Pol (L217), where the character bible called it latent. Its world is renamed away from it: „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] — and still headed „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Named as not active: „LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive
+Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] „Kairos und Sophia** als Guardians sind dekanonisiert" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404]; „Kanonisch ist „Kairos-Potentialis" als mythologische Welt-Bezeichnung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+Absorbed into the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen
+sind hier absorbiert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L306] — as in the konsolidiertes Konzept.

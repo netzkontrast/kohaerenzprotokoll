@@ -17,6 +17,13 @@ statement here that is not true of the repository, the statement is the defect �
 fix it in the same change, or delete it. A description that outruns what exists
 is how the previous version of this project failed.
 
+**`GOAL.md` is the project's general goal** (2026-09-23, the author's brief, in
+German): a git-versioned knowledge graph and wiki that helps write the novel —
+sources tiered by precedence, conflicts found and never silently smoothed,
+self-generated questions, the plot model as checkable rules. It describes the
+*target*, not the repository: where it names paths or tools that do not exist
+here, this page says what exists, and `NOW.md` holds where the two disagree.
+
 **Then read `NOW.md`.** It is what is open right now — decisions waiting on the
 author, work half-done, what failed — and it is the handover between sessions.
 
@@ -46,22 +53,25 @@ The standard-library scripts — `state.py`, `quotes.py`, `read.py`,
 There is no third layer. Everything else the project used to have is parked
 under `Legacy/` and read by nothing.
 
-`Sources/manifest.jsonl` is the spine: 617 rows, each with `drive_id`, `title`,
+`Sources/manifest.jsonl` is the spine: 613 rows, each with `drive_id`, `title`,
 `slug`, `category`, `tier` and, once landed, `export_path` and two checksums.
 Anything derived traces back to a `drive_id`.
 
-`Sources/duplicates.jsonl` holds the 63 rows that left it — the same shape plus
+`Sources/duplicates.jsonl` holds the 67 rows that left it — the same shape plus
 `duplicate_of`. Two files, two questions: the manifest says what is in the
 corpus, and this says what Drive also holds and why it is not here. It exists so
 that „not in the manifest" never has to mean „nobody knows".
 
 ## State, as of 2026-09-17
 
-**346 <!--state:sources.landed--> of 617 <!--state:sources.total--> source documents are landed.** The 271 that are not are the 247
-`plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
-have no route. Every category the wiki needs is complete.
+**371 <!--state:sources.landed--> of 613 <!--state:sources.total--> source documents are landed.** The 242 that are not all date from before May
+2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
+and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
+so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, seven of them
+read (documents 7 to 13).
 
-**Those 346 files are 346 <!--state:sources.distinct--> distinct documents, and
+**Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
 export, a docx export, a `kopie` of each, a second run of both — and each landed
 under its own `drive_id`. 409 files were 346 documents, so **every count phrased
@@ -69,8 +79,9 @@ as "N of 409" was counting copies.** Only 2 pairs were byte-identical, so
 checksums found almost none of it.
 
 `python3 scripts/dedupe.py` folded the
-63 <!--state:sources.folded--> extra files away. The file left `Sources/drive/`,
-the row left the manifest — 680 rows became 617 — and the full row moved to
+67 <!--state:sources.folded--> extra files away. The file left `Sources/drive/`,
+the row left the manifest — 680 rows became 617, and the canon-era landing's four
+copies took it to 613 — and the full row moved to
 `Sources/duplicates.jsonl`, which is what `sources.py next` filters against so a
 folded document is never fetched again. `python3 scripts/duplicates.py` now
 reports 0 <!--state:sources.near_copies--> near-copies and its job is to keep
@@ -88,14 +99,15 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**6 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **6
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **6
+**13 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **13
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **13
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-two `worldbuilding`, one `aegis`.
+three `worldbuilding`, one `aegis`, two `storyform`, one `charaktere`, two
+`kernkonzept` and one `plot-outline` — the last seven from the canon era.
 
-`Wiki/candidates/` holds **56 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
-holds **5 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
-**4 <!--state:wiki.questions-->**, and
+`Wiki/candidates/` holds **92 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+holds **12 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
+**5 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
@@ -108,6 +120,13 @@ has been promoted.
 | `guardians-und-kern-welten-konzept` | 14 | 4 | 1 |
 | `aegis-subplots-kapitelweise-system-exploration-docx` | 0 | 2 | 0 |
 | `roman-lokalitaeten-konzept-und-ausarbeitung` | 10 | 17 | 1 |
+| `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` | 4 | 17 | 1 |
+| `kohaerenz-protokoll-charakter-bibel-2026-05-08-md` | 16 | 22 | 4 |
+| `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` | 2 | 45 | 2 |
+| `kapitel-kompendium-gather-2026-05-31-md` | 0 | 28 | 0 |
+| `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` | 7 | 42 | 0 |
+| `dramatica-dual-storyform-status-2026-05-07-md` | 0 | 16 | 0 |
+| `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md` | 7 | 43 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -122,7 +141,70 @@ a `Source` column per row says whether it invented the name — and a page was
 created only where both held. **The rule came from the document rather than from
 a preference**, and the 40 it excludes are recorded with their lines.
 
-`Plan/runs/judgements.jsonl` holds **45 <!--state:judgements.total--> judgements**
+**The seventh is the first canon-era document, and it claims to be canon.** It
+names itself „Source-of-Truth", labels every passage `[K]`/`[V]`/`[S]`/`[L]`,
+never hedges, and states its own precedence rule — newer wins. **The wiki records
+that claim and does not apply it**; a source granting itself authority is what
+the predecessor honoured and this project does not. 275 of its candidates matched
+no page. Four became pages, by a rule the document supplies: it says its figures
+are only „outline-relevante Kurzanker" and its physics is elsewhere, so a page
+needs a `[K]` reading of something in the world. It contradicts every earlier
+source on the Guardians — two, not five, and „KEIN Guardian-1:1" — which is
+conflict C6.
+
+**The eighth is the character bible, and it disagrees with the seventh.** Dated a
+month earlier, it relates C6's two versions itself — „Frühere Drafts hatten fünf
+Guardians … Aktueller Kanon: zwei" — and gives the twelve Alters the profiles
+document 7 said they would need. It also disagrees with document 7 in four
+places (C7–C10): where Juna appears, AEGIS' Approach in Storyform B, what the
+Konstrukt-Stadt is, and whether Kael's knuckles bleed in Kap 1. **Two canon-era
+sources disagreeing is the case the wiki exists for**, and document 7's „newer
+wins" would settle all four; the wiki records both and the dates. **And the
+author has said it must not be settled that way**: „Alle alten Entwürfe kommen
+wieder in Frage und müssen diskutiert werden — sources wird die neue
+Ausgangslage" (decision 006). Every conflict is a discussion item, and no
+document's date or claim to be canon retires another.
+
+**The ninth is the consolidated concept, dated the same day as the eighth**, and
+it names itself „autoritative Spec" — recorded, not applied. It sides with
+document 7 on C7 and C8 and so disagrees with the character bible of its own
+date; it counts the Genesis in four beats where the bible counts three (C12);
+and it is the older outline document 7 overrides on Landauer warmth (C11), in
+the exact words document 7 quotes. **Two sources of one date disagreeing is the
+case no precedence rule by date can settle.** Two pages came from it, both
+flat definitions from the physics it calls the literal law of the novel's world:
+`erason` and `persistenzgleichung`.
+
+**The tenth is the Kapitel-Kompendium, and it names its own filter.** A gather,
+chapter by chapter, that labels every passage and says what it changed on the way
+from its quarry: „Michael→Kael · Julia→Juna · 20 Kernwelten / 5 Guardians → 4 KW,
+2 Guardians". So two renames the wiki had inferred from dates are now stated by a
+source. Conflict C7's record named it as what would settle C7 and called it not in
+`Sources/`; it was landed, and it does not settle C7 — it places no direct
+appearance for Juna. **It added no pages**: a gather places, it does not define.
+
+**The eleventh is „Kernwelten vollständig", and it shows how C7 might not be a
+conflict.** It puts the character bible's Kap-33 garden down as Juna's *effect* —
+„Setting der Juna-Wirkung" — and her appearance in Kap 38, so both earlier
+positions have a place in one plan. It holds the Möglichkeits-Garten at both
+scales (C5), applies document 7's cold-ozone lock and keeps Landauer warmth for
+the transition out of KW1 (C11). Seven places got pages by a rule it supplies: a
+canonical sub-location with a specific chapter.
+
+**The twelfth is the Dramatica lock-in of 2026-05-07, and it explains C8.** It
+mirrors the Approach — „A: Be-er (vorher Do-er). B: Do-er (vorher Be-er)" — and
+says the older documents still have to follow. The character bible, dated the next
+day, carries the „vorher". An explanation, not a decision: the author decides.
+
+**The thirteenth is the glossary of the storyform document, and it ranks itself
+below it** — „erläuternd, nicht normativ". It gave the physics its pages (`dkt`,
+the two kernels, `atemporalitaet`, the three layers), gave the two most contested
+subjects theirs (`hitze-polaritaetsregel`, `genesis`, each gathering every
+source's version), added a fourth sense of Entropie to C2 — K₀ as „die Bedingung
+für Ereignisse überhaupt" — and named the Kapitel-Kompendium as the source of
+document 7's knuckle lock.
+
+`Plan/runs/judgements.jsonl` holds **68 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -276,6 +358,11 @@ fragments were passed, and was never passed any. Two live runs scored 0.987 and
 reading them, and a program that guessed would reproduce the `Zero-Trust` false
 conflict.
 
+**`python3 scripts/selftests.py` runs every self-test in the repository** — the
+three above and each tool's own — and prints one line per suite: `held`,
+`FAILED`, or `not run` when the suite's interpreter is absent. A suite that did
+not run has not passed, and the exit status says so.
+
 ### The wiki links, and a link is not a mention
 
 Two marks, two meanings: `` `Nexus` `` names the term, `[[nexus]]` points at the
@@ -289,8 +376,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**207 <!--state:wiki.relations--> links across
-56 <!--state:wiki.pages--> pages, 17 <!--state:wiki.orphans--> of them with
+**329 <!--state:wiki.relations--> links across
+92 <!--state:wiki.pages--> pages, 27 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -308,9 +395,73 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 73 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
-occurrence sits inside a quotation, a citation line or a heading. Those are
-places the pass may not touch, so that number is a measurement and not a backlog.
+The 145 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+occurrence sits inside a quotation, a citation line or a heading — places the
+pass may not touch, so that part is a measurement and not a backlog. The rest,
+`link.py` would mark on pages no reading has touched since the page was last
+linked; they wait for the next reading on that page, because a page changes only
+in a commit that names its source.
+
+### The knowledge graph, and retrieval over it
+
+The wiki is also a typed knowledge graph, derived and never stored:
+`scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
+citations and builds **122 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1161 <!--state:graph.edges--> edges** (`links`,
+`reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
+carries the file line that states it**, and none is inferred — the same rule as
+the links, for the same reason.
+
+Its evidence is every quotation on a term page: 1219 <!--state:graph.evidence-->
+of them, **1104 <!--state:graph.evidence_verified--> verified** against their
+line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
+`quotes.verdict` became the one implementation both use. Building the graph
+first with a pairing of its own found 14 unresolved where the checker found 4;
+two encodings of one rule disagreed on the first run.
+
+`scripts/graphrag.py` is the retrieval half of `ask`: seed by folded surfaces,
+spread by personalized PageRank over the typed edges, select verified quotations
+by MMR with a relevance floor. **It returns quotations, the conflicts and open
+questions touching them, and the documents the rank reached — never prose.**
+`--answer` lets a model choose evidence *numbers*; code prints the quotations.
+
+```bash
+python3 scripts/graph.py                       # counts and the check against the files
+python3 scripts/graph.py --around nexus --hops 2 --mermaid
+python3 scripts/graph.py --graphml > kg.graphml   # or --json, --triples
+python3 scripts/graphrag.py ask "Wie hängen die Guardians mit AEGIS zusammen?"
+python3 scripts/graphrag.py bench              # recall against the wiki's own labels
+```
+
+`bench` scores retrieval on the 17 <!--state:graphrag.cases--> cases the wiki
+already labels (each question's `raised_by`, each conflict's `pages`), with the
+case's own node removed first. Recall@8 is
+**42 <!--state:graphrag.recall_seeds-->% from the seeds alone and
+64 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+step, on seventeen cases whose labels were written by the same hand as the
+pages. Documents 7–9 added seven of them (C6–C12) and the author's C6
+decision an eighth (Q5); on the original nine the numbers were 40 and 58.
+`bench --record` appends both to `Plan/runs/baselines.jsonl`.
+
+**Beside the graph, never in it: the proposal layer.** `graph.proposals()`
+reads what a model chose or the corpus merely co-states, and each item says so.
+**226 <!--state:proposals.entities--> entities** come from the entity lists that
+verify as readings — a model chose the name, code placed the line — and
+28 <!--state:proposals.entities_paged--> of them fold to a page. **182
+<!--state:proposals.glosses--> glosses** come from
+`Plan/runs/bilingual/stated.jsonl`: `A (B)` written in two or more documents,
+one side a page surface, and a surface glossing two pages dropped. A gloss's
+relation is **unjudged** (`Kael (Host)` is a role), so `graphrag.py ask --gloss`
+lets it route an English question to a German page, labelled as a gloss, and
+never merges anything. Entities route a question to **unread** documents that
+name it, with the line. On the bench, glosses change nothing (no case is
+English-only); the English case they exist for is in `graphrag.py selftest`.
+
+```bash
+python3 scripts/graph.py --proposals [--missing]     # entities, glosses, entities with no page
+python3 scripts/graphrag.py ask "What are the Core Worlds?" --gloss
+```
+`Plan/concept/graphrag_2026-09-23.md` has the design and what it cannot do.
 
 ### A mechanised rule stays checkable
 
@@ -449,9 +600,11 @@ python3 scripts/sources.py land --drive-id <id> --consume
 which parses the spill, normalizes, writes `Sources/drive/<slug>.md`, records
 both checksums into the manifest and verifies. Never open the spill yourself.
 
-44 of the 617 rows are markdown or audio, which the connector does not list as
-supported — though 4 of the 43 `md` rows landed anyway, so the list is not the
-whole truth. The remaining 39 and the one `mp3` stay deferred by decision.
+40 of the 613 rows are markdown or audio, which the connector does not list as
+supported — but `md` comes through the text route: 26 of the 39 `md` rows are
+landed, 4 on 2026-09-16 and 22 more on 2026-09-24 with
+`fetch --since 2026-05-01 --include-md`. `--include-md` is opt-in. The other 13
+`md` and the one `mp3` stay deferred by decision.
 `Plan/learnings/fetch.md` has the format census and the heading measurement.
 
 ## Installing anything
@@ -478,9 +631,15 @@ container**; each is rebuilt by the commands below when a step needs it:
 | venv | python | why |
 |---|---|---|
 | `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
-| `.venv-dspy` | 3.11 | DSPy 3.3.1, for when there is something to train |
+| `.venv-dspy` | 3.11 | DSPy 3.3.1 with numpy — every `scripts/` step that calls a model or its fixture |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
+
+```bash
+uv venv --python 3.11 .venv-dspy
+uv pip install --python .venv-dspy/bin/python 'dspy[numpy]==3.3.1'   # SIMBA raises without numpy
+.venv-dspy/bin/python scripts/check_dspy_surface.py                   # the surface this repo calls
+```
 
 ```bash
 uv venv --python 3.12 .venv-dspytools
@@ -547,7 +706,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 207 <!--state:wiki.relations-->.
+links. It has 329 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
@@ -557,6 +716,31 @@ uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://git
 reachable, and measured against this repository —
 `Plan/concept/continuous-improvement_2026-09-17.md` has what each is for and in
 what order.
+
+## Calling a model — the DSPy toolchain
+
+Built 2026-09-23 from nine DSPy repositories read against this one
+(`Plan/concept/dspy-toolchain_2026-09-23.md`; the readers' reports are in
+`Plan/concept/dspy-repos_2026-09-23/`). No package was installed from them;
+every piece is a pattern of tens of lines, ported with its source named.
+
+| script | what it guarantees |
+|---|---|
+| `lmrun.py` | the only way a model is called: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision |
+| `lm_fixture.py` | an offline `dspy.BaseLM`; `offline()` hides every `*_API_KEY` and replaces `litellm.completion` with a refusal, because a scanned repository's unmocked test made a live call from this container |
+| `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor**, not only one that fell since the last row, and a `vetoed` row fails whatever its score |
+| `pairs.py` | one-term-or-two: `fold()` first, a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
+| `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
+| `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
+
+**57 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+33 <!--state:pairs.fold_correct--> of them.** Every optimizer on the ladder —
+`labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
+`--dry-run`. **None has run against a real model**: that sends corpus words to
+a third party, and the author has not said yes to it. `scripts/rlm_ingest.py`
+now requires `--approval` for the same reason, turns its cache off, sets a call
+budget, hands the model `find_line` and `count` as tools, and measures how far
+into the document its verified citations reach.
 
 ## Changing your mind
 
@@ -698,7 +882,9 @@ later without re-deriving the reasoning.
 ## Tracking work
 
 `NOW.md` holds what is open right now, one page, and things leave it when they
-are done. `Plan/decisions/` holds one short file per decision, permanently —
+are done. **Questions for the author are noted there, under their own heading, and
+work continues without waiting for the answer** — the author's instruction of
+2026-09-24. `Plan/decisions/` holds one short file per decision, permanently —
 what was chosen, what was rejected, what would change our mind. Git holds
 everything that happened. There is no board, no status field and no backlog.
 

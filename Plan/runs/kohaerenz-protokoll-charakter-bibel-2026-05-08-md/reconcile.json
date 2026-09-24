@@ -1,0 +1,307 @@
+{
+  "document": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+  "drive_id": "1oRBlsdb8z9Bym4XPjxuXg96BUfWZEIMjGcD-3BZJGgo",
+  "step": "reconcile",
+  "at": "2026-09-24",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 60,
+    "conflicts": 6
+  },
+  "state_after": {
+    "pages": 76,
+    "conflicts": 10
+  },
+  "pre_classification": {
+    "candidates": 299,
+    "decisions": 303,
+    "decided_by_lookup": 223,
+    "needs_judgement": 80
+  },
+  "new_terms": [
+    "lex",
+    "alex",
+    "rhys",
+    "selene",
+    "argus",
+    "nyx",
+    "kiko",
+    "lia",
+    "isabelle",
+    "moros",
+    "silas",
+    "oblivion",
+    "moonshine-link",
+    "telefon-stille",
+    "algorithmische-melancholie",
+    "cache-kohaerenz"
+  ],
+  "new_terms_rule": "a figure gets a page when this document profiles it with its eleven-field template (a heading of its own and the repeated labels) — the twelve Alters beside Kael, whose pages document 7 withheld until a character bible existed; their document-7 roster rows are attached. A world term gets a page when a flat, unhedged passage here defines it: Moonshine-Link, Telefon-Stille, Algorithmische Melancholie, Cache-Kohärenz.",
+  "not_promoted_rule": "204 new terms by lookup, 16 became pages. The rest are craft (style levels, Show-don't-Tell, Lesersteuerung, Egan-Falle, foreshadowing strands), profile field names, borrowed theory used in its home sense (TSDP, Dramatica slots), DKT correlates per Alter (on the Alter pages as readings), and names the document itself leaves unspecified (Erasure-Pol, J59).",
+  "new_readings": [
+    {
+      "page": "guardians",
+      "lines": [
+        51,
+        53,
+        54,
+        58
+      ],
+      "attribution": "premise",
+      "note": "five in earlier drafts, two now; the rest absorbed — explains C6"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        51,
+        58
+      ],
+      "attribution": "premise",
+      "note": "absorbed into Mnemosyne"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        53,
+        58
+      ],
+      "attribution": "premise",
+      "note": "absorbed into the Erasure-Pol"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        54,
+        58
+      ],
+      "attribution": "premise",
+      "note": "latent"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        54,
+        58
+      ],
+      "attribution": "premise",
+      "note": "latent"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        51,
+        186,
+        198,
+        202
+      ],
+      "attribution": "premise",
+      "note": "the one Guardian who still acts; Vortex setting"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        72,
+        76,
+        80,
+        125,
+        131,
+        132,
+        133,
+        156
+      ],
+      "attribution": "premise",
+      "note": "name expanded, three protocols; B Approach Be-er — C8"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        44,
+        51
+      ],
+      "attribution": "premise",
+      "note": "the whole simulation — C9"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        44,
+        51,
+        52,
+        53,
+        54
+      ],
+      "attribution": "premise",
+      "note": "four, KW1 Logos-Prime; contained in Konstrukt-Stadt — C9"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        54,
+        494
+      ],
+      "attribution": "premise",
+      "note": "KW4's only name — C5"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        98,
+        105
+      ],
+      "attribution": "premise",
+      "note": "K0, AEGIS' nature"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        105,
+        113,
+        132
+      ],
+      "attribution": "premise",
+      "note": "K1; also the title and a protocol (J57)"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        106
+      ],
+      "attribution": "premise",
+      "note": "the same identity as a table row"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        108,
+        256,
+        730,
+        1300
+      ],
+      "attribution": "premise",
+      "note": "Juna as true Coheron; atemporal"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        118,
+        119,
+        307
+      ],
+      "attribution": "premise",
+      "note": "second Genesis beat; made Kael and the Alters"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        133,
+        1016,
+        1017
+      ],
+      "attribution": "premise",
+      "note": "five modes, two mirrors, four worlds"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        221,
+        225,
+        235,
+        248,
+        280
+      ],
+      "attribution": "premise",
+      "note": "structural position; one scene ca. Kap 33 — C7"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        298,
+        311,
+        315,
+        322,
+        1112
+      ],
+      "attribution": "premise",
+      "note": "system and host (J55); knuckles in Kap 1 — C10"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        818,
+        1180
+      ],
+      "attribution": "premise",
+      "note": "thirteen exactly; each profiled"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        840,
+        844
+      ],
+      "attribution": "premise",
+      "note": "achieved Kap 33"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        62
+      ],
+      "attribution": "premise",
+      "note": "the Basisrealität, same words (J54)"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        311
+      ],
+      "attribution": "premise",
+      "note": "734-K (J58)"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [
+    "C7",
+    "C8",
+    "C9",
+    "C10"
+  ],
+  "conflicts_changed": [
+    "C6"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4"
+  ],
+  "judgements": [
+    "J54",
+    "J55",
+    "J56",
+    "J57",
+    "J58",
+    "J59"
+  ],
+  "decided_by_existing_rules": "compound against head (Funktion/Witness-Funktion, Stilebene/Stilebene 1, Vortex/Vortex-Quelle, Landauer/Landauer-Strang and their kind) — two terms by J16/J28; Logos-Prime/LogOS, Mnemosyne-Archipel/Mnemosyne, Cerberus-Labyrinth/Cerberus by J49; Trennung/Trennungsprotokoll by J52.",
+  "attached_from_earlier_runs": {
+    "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+      "lex",
+      "alex",
+      "rhys",
+      "selene",
+      "argus",
+      "nyx",
+      "kiko",
+      "lia",
+      "isabelle",
+      "moros",
+      "silas",
+      "oblivion",
+      "moonshine-link",
+      "telefon-stille",
+      "algorithmische-melancholie"
+    ]
+  },
+  "found_by_rule_not_by_census": [],
+  "baseline_moved": false
+}

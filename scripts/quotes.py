@@ -113,8 +113,13 @@ def missing_part(line: str, parts: list[str]) -> str | None:
     return None
 
 
-def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
-    text = path.read_text(encoding="utf-8")
+def pairs(text: str) -> list[tuple[re.Match, list[str]]]:
+    """Every quotation in `text`, with the references that belong to it.
+
+    The one implementation of pairing: `check_file` verdicts on it, and
+    `graph.py` serves its quotations as evidence from it, so the two can never
+    disagree about which reference a quotation carries.
+    """
     starts = [0]
     for line in text.split("\n"):
         starts.append(starts[-1] + len(line) + 1)
@@ -129,22 +134,19 @@ def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
                 hi = mid
         return lo
 
-    cites: dict[int, list[str]] = {}
-    for m in CITE.finditer(text):
-        cites.setdefault(line_of(m.start()), []).append(m.group("ref"))
-
     # A line may carry several quotes and one reference -- a table row often does.
     # The reference belongs to the quote nearest it, and the others on that line
     # are uncited rather than wrong. Pairing by nearest position says so.
     owner: dict[int, list[str]] = {}
     quotes = list(QUOTE.finditer(text))
+    lines = text.split("\n")
     for m in CITE.finditer(text):
         row = line_of(m.start())
         # A blockquote puts its citation on the line after the quote closes:
         #     > „…text…"
         #     > ^[slug.md:L137]
         # so a reference alone on its line also claims the quote ending just above.
-        body = text.split("\n")[row].lstrip("> ").strip() if row < len(text.split("\n")) else ""
+        body = lines[row].lstrip("> ").strip() if row < len(lines) else ""
         rows = {row, row - 1} if body.startswith("^[") else {row}
         same = [q for q in quotes
                 if line_of(q.start()) in rows or line_of(q.end()) in rows]
@@ -152,29 +154,33 @@ def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
             continue
         nearest = min(same, key=lambda q: min(abs(q.start() - m.start()), abs(q.end() - m.start())))
         owner.setdefault(nearest.start(), []).append(m.group("ref"))
+    return [(match, owner.get(match.start(), [])) for match in quotes]
 
+
+def verdict(refs: list[str], default_slug: str | None, quote: str) -> tuple[str, str | None]:
+    """(`verified` | `unresolved` | `unchecked`, why) for one quotation."""
+    failures, resolvable = [], False
+    for raw in refs:
+        outcome = resolve(raw, default_slug, quote)
+        if outcome == UNKNOWN_SOURCE:
+            continue
+        resolvable = True
+        if outcome is None:
+            return "verified", None
+        failures.append(outcome)
+    if not resolvable:
+        return "unchecked", None
+    return "unresolved", failures[0]
+
+
+def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
     problems, unchecked = [], 0
-    for match in quotes:
-        near = owner.get(match.start(), [])
-        if not near:
+    for match, near in pairs(path.read_text(encoding="utf-8")):
+        status, why = verdict(near, default_slug, match.group("quote"))
+        if status == "unchecked":
             unchecked += 1
-            continue
-        failures, resolvable = [], False
-        for raw in near:
-            outcome = resolve(raw, default_slug, match.group("quote"))
-            if outcome == UNKNOWN_SOURCE:
-                continue
-            resolvable = True
-            if outcome is None:
-                failures = []
-                break
-            failures.append(outcome)
-        if not resolvable:
-            unchecked += 1
-            continue
-        if failures:
-            problems.append({"quote": match.group("quote")[:60], "ref": near[0],
-                             "why": failures[0]})
+        elif status == "unresolved":
+            problems.append({"quote": match.group("quote")[:60], "ref": near[0], "why": why})
     return problems, unchecked
 
 

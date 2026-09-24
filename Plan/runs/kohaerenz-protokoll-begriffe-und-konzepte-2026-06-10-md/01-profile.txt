@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md
+  lines                852  (frontmatter ends at 0)
+  body words           7744
+  headings             0   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       6
+  backslash escapes    0
+  typographic marks    291   ascii quotes 65
+  invisible characters none
+  math symbol lines    33
+  glued ref numbers    84
+  repeated labels      none
+  longest line         678 chars
+

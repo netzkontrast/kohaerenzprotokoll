@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 5
+readings: 5
+conflict: C4, C6
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -71,3 +71,24 @@ takes the pair apart.
 ### Note
 
 Called a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] here and never a `Guardian`. See [[guardians]].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**No longer a Guardian of its own, by this source's account.** The world table
+gives its place in one cell:
+
+> „(Kairos/Sophia, latent)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54]
+
+and says why: „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus,
+Kairos, Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The earlier readings on this
+page are what this document calls earlier drafts. Recorded, not applied — see
+`C6`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**One occurrence**, in the list of the old five: „Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L210] The absorption sentence (L217) names three of the four others and not Sophia. Where Sophia's function went, this document does not say. Q5.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Named as not active: „LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive
+Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] „Kairos und Sophia** als Guardians sind dekanonisiert" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404]. No world keeps her name.

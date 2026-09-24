@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 1
-readings: 1
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -30,3 +30,12 @@ implicate one. See [[blinder-fleck|Ontologischer blinder Fleck]].
 Whether `Potentialmeer` is the project's own term or a paraphrase of Bohm adopted
 in passing. The source treats it as given and explains it by analogy — which is
 not the same as defining it.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Where the Genesis begins: „Im Potentialmeer existiert ein Ursprungs-Ich mit minimalem Selbsterleben." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L71] Its one occurrence in the document.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+The first [[genesis|Genesis]] beat: „Einheit — pre-separation, Ursprungs-Ich im Potentialmeer,
+eingebunden ins Nichts-Rauschen." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L146]

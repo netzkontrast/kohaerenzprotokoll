@@ -1,10 +1,10 @@
 ---
 term: Archiv des Ungesagten
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -50,3 +50,9 @@ Who or what the `Archivar` is. Named in three places in this document
 Whether this archive and the [[ueberwelt|Überwelt]]'s `Datenfriedhof` hold the same material at
 two scales. Both are described as stores of deleted or repressed data, one
 psychological and one systemic, and the document never relates them.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Kept from the quarry, `[S]`: „labyrinthartige Bibliothek mit verdrängten Inhalten"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L276], with „ein anonymer Archivar als Verwalter" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L276] — a function, not the
+decanonised Alter it was once associated with (L287).

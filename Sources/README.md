@@ -79,9 +79,11 @@ The claim is left here rather than quietly deleted, because the mistake is the
 useful part: it is P18 — one attempt measures nothing — applied to our own
 documentation instead of to a model.
 
-`md` was listed as having no route, and 4 of the 43 rows are landed, so the
-connector serves at least some of them. The remaining 39 and the one `mp3` stay
-deferred by decision (2026-09-16). `fetch` skips what it cannot route and prints
+`md` was listed as having no route, and 4 of the 43 rows were landed, so the
+connector serves at least some of them. On 2026-09-24, on the author's yes, the
+canon-era rows were fetched with `fetch --since 2026-05-01 --include-md`, and all
+26 `md` among them came through the text route. 26 of the now 39 `md` rows are
+landed. The other 13 and the one `mp3` stay deferred by decision (2026-09-16). `fetch` skips what it cannot route and prints
 that it did, so nothing can be mistaken for landed.
 
 ## What is normalized, and what is not
@@ -111,7 +113,7 @@ Drive holds up to five exports of the same document — a gdoc export, a docx
 export, a `kopie` of each, a second run of both — each with its own `drive_id`,
 so each landed as its own row. 409 files were 346 documents.
 
-`python3 scripts/dedupe.py` folded the 63 extra away: the file left
+`python3 scripts/dedupe.py` folded the 63 extra away (67 after the canon-era landing's four copies): the file left
 `Sources/drive/`, the row left `manifest.jsonl` and moved in full to
 `duplicates.jsonl`, which `sources.py next` filters against by `drive_id` so a
 folded document is never offered for fetching again.

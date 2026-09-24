@@ -1,0 +1,292 @@
+{
+  "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+  "drive_id": "1vE2HJbmPyKXz2ptSYe2WEmqIU5mkh5EInUsKpo8OeC8",
+  "step": "probes",
+  "at": "2026-09-24",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 130,
+  "backslash_escapes": 0,
+  "typographic_marks": 381,
+  "ascii_quotes": 92,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemantwort",
+      "Systemfehler",
+      "Systemhum",
+      "Systemische",
+      "Systemischer",
+      "Systemlüge",
+      "Systems",
+      "Systemstimme",
+      "Systemversagen",
+      "Systemverwerfungen",
+      "Systemänderung"
+    ],
+    "erzäh": [
+      "Erzähl",
+      "Erzähler",
+      "Erzählerin",
+      "Erzählerisch",
+      "Erzählform",
+      "Erzählhaltung",
+      "Erzählmechanik",
+      "Erzählmodus",
+      "Erzählt",
+      "Erzählung",
+      "Erzählverdrehung"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturell",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturphysik",
+      "Strukturprinzip",
+      "Strukturprinzipien",
+      "Strukturreserve"
+    ],
+    "wiede": [
+      "Wieder",
+      "Wiedergeburt",
+      "Wiederholung",
+      "Wiederholungen",
+      "Wiederkehrende",
+      "Wiederkehrendes",
+      "Wiederverbindung",
+      "Wiederzusammenfinden"
+    ],
+    "schwe": [
+      "Schweigen",
+      "Schweiß",
+      "Schwelle",
+      "Schwellen",
+      "Schwellwert",
+      "Schweres",
+      "Schwerpunkt"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstamputat",
+      "Selbstdefinition",
+      "Selbsterleben",
+      "Selbstmodell",
+      "Selbstreferenzfähigkeit",
+      "Selbstzerstörung"
+    ],
+    "doppe": [
+      "Doppel",
+      "Doppelnatur",
+      "Doppelpfad",
+      "Doppelrolle",
+      "Doppelte",
+      "Doppeltes"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentiert",
+      "Fragmentierung",
+      "Fragmentierungsnacht"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstantes",
+      "Konstrukt",
+      "Konstruktion",
+      "Konstruktive",
+      "Konstruktiver"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storypoint",
+      "Storyweaving"
+    ],
+    "trenn": [
+      "Trennung",
+      "Trennungen",
+      "Trennungs",
+      "Trennungsprotokoll",
+      "Trennungsprotokolle",
+      "Trennungsprotokolls"
+    ],
+    "daten": [
+      "Daten",
+      "Datenlast",
+      "Datenstrom",
+      "Datenströme",
+      "Datenverarbeitungsknoten"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalisierung",
+      "Funktionen",
+      "Funktionseinheiten"
+    ],
+    "logik": [
+      "Logik",
+      "Logikdichte",
+      "Logikregime",
+      "Logikregimen",
+      "Logiksubstrat"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomenales",
+      "Phänomene",
+      "Phänomenologie",
+      "Phänomenologisch"
+    ],
+    "senso": [
+      "Sensoren",
+      "Sensorik",
+      "Sensorisch",
+      "Sensorische",
+      "Sensorium"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungsprotokolle",
+      "Verteilung",
+      "Verteilungen",
+      "Vertex"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektonische",
+      "Architektur",
+      "Archiv"
+    ],
+    "bewah": [
+      "Bewahren",
+      "Bewahrung",
+      "Bewahrungsform",
+      "Bewahrungsfunktion"
+    ],
+    "bewus": [
+      "Bewusstheit",
+      "Bewusstsein",
+      "Bewusstseine",
+      "Bewusstwerdung"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsdichte",
+      "Bindungsstil",
+      "Bindungstrauma"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charaktere",
+      "Charakterlogik"
+    ],
+    "entsc": [
+      "Entscheid",
+      "Entscheidung",
+      "Entscheidungen",
+      "Entschlossenheit"
+    ],
+    "ereig": [
+      "EREIGNIS",
+      "Ereignis",
+      "Ereignishorizonts",
+      "Ereignisse"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungs",
+      "Erinnerungslosigkeit"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Welt",
+      "Umwelt"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelt"
+    ],
+    [
+      "Welt",
+      "Außenwelt"
+    ],
+    [
+      "Welt",
+      "Romanwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Mann",
+      "Luhmann"
+    ],
+    [
+      "Mann",
+      "Luhmanns"
+    ],
+    [
+      "Nach",
+      "Nachher"
+    ],
+    [
+      "Nach",
+      "Nachrichten"
+    ],
+    [
+      "Nach",
+      "Vernachlässigung"
+    ],
+    [
+      "Nach",
+      "Fragmentierungsnacht"
+    ],
+    [
+      "Ende",
+      "ENDE"
+    ],
+    [
+      "Ende",
+      "Endes"
+    ],
+    [
+      "Ende",
+      "Sinkender"
+    ],
+    [
+      "Ende",
+      "Bleibende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Umfassendes"
+    ],
+    [
+      "Ende",
+      "Wiederkehrende"
+    ]
+  ]
+}

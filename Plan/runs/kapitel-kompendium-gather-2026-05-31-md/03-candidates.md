@@ -1,0 +1,307 @@
+---
+written_by: hand, while reading (Claude, in session)
+document: kapitel-kompendium-gather-2026-05-31-md
+---
+
+# Candidates — written while reading
+
+Lines 11–150 first.
+
+- Kapitel-Kompendium
+- Gather-Stand
+- Kapitel-Blueprint
+- Stadien-Map
+- Provenienz-Konvention
+- Steinbruch
+- Steinbruch-Filter
+- Kael
+- Juna
+- Michael
+- Julia
+- Kernwelten
+- Guardians
+- Mnemosyne
+- Erasure-Pol
+- Reset
+- plurale Apotheose
+- Querschnitt-Kanon
+- Zentrale Frage
+- Coheron
+- Coheronen
+- Ende-Prinzip
+- Trennung
+- große Inversion
+- Storyforms
+- AEGIS
+- K₁
+- K₀
+- Kohärenz
+- Entropie
+- Nichts-Rauschen
+- mutuale Information
+- Liebe als Naturgesetz
+- Truth-Rotation
+- Vortex
+- Tonale Achse
+- Prosa-Regel Kap 1
+- Amnesie
+- Falschheit
+- KW1
+- Metaphernverbot
+- Computational Class P
+- Substrat
+- Kap 0
+- Vorfassung
+- Schleier-Disziplin
+- Multiplizität
+- Alters
+- DID
+- Glitches
+- Stilcode-Einbrüche
+- Genesis-Echo
+- Genesis-Echo-Disziplin
+- Wir-Stimme
+- Juna-Resonanz
+- Tragische Unschuldsstruktur
+- kosmologische Konstante
+- plurale Re-Integration
+- Doppellesbares Finale
+- Kap 40
+- Flip
+- Kishōtenketsu
+- Transfiguration
+- Lesart-Dualität
+- Strukturelle Achsen
+- Modus
+- Storyform-Status
+- Bridge-Frequenz
+- Soft-Layering
+- Genesis-Prolog
+- Funken-Ich
+- Phantomgefühl
+- Heldinnenreise innen
+- Zyklischer Modus
+- Spiral-Zyklen
+- Heldenreise außen
+- Spiegel-Alter
+- Vortex 1
+- Trügerischer Sieg
+- Reward-Beat
+- Vortex 2
+- Synthese (c)
+- Geheilte Genesis
+- Coda
+- Wir-AEGIS-plural
+- Modus-Wechsel
+- Storyform-Wendung
+- Storyform-Konsolidierung
+- Genesis-Klammer
+- Vortex-Klammer
+- Ouroboros-Klammer
+- Storyform-Storypoints
+- Heuristics of Integration
+- Phoenix Collapse
+- Resolve
+- Growth
+- Approach
+- Be-er
+- Do-er
+- Style
+- Domain
+- Concern
+- Issue
+- Problem
+- Solution
+- Driver
+- Limit
+- Outcome
+- Judgment
+- Throughline-Verteilung
+- IC
+- OS
+- RS
+- Moonshine-Link
+- Host-System-Verstrickung
+- Signpost-Sequenzen
+- Erasure-Logs
+- Erasure-Sweeps
+- Kontrollprotokoll
+- Phoenix-Collapse
+- Goal
+- Consequence
+- Cost
+- Dividend
+- Requirements
+- Kohärenz-Protokoll-Mandat
+- Genesis-Krise
+- Wir
+- Pursuit-Adoption
+- Wir-Bildung
+- Moonshine-Bewusstsein
+- Mosaik-Akzeptanz
+- Mosaik
+
+## Observations while reading
+
+* L13 names its own filter from „Steinbruch" to canon, with the substitutions
+  written out: Michael→Kael, Julia→Juna, 20 Kernwelten / 5 Guardians → 4 KW, 2 Guardians.
+* Labels [K] [S] [L] [V], defined in L13.
+
+Lines 150–308.
+
+- Prerequisites
+- Forewarnings
+- Schleier-Lüftung
+- Genesis-Cluster
+- K-J
+- Erasure-Wellen
+- Kernwelten-Matrix
+- Akt-Marker
+- Konstrukt-Stadt
+- Logos-Prime
+- Rationalisierung
+- ANP-Vermeidung
+- Stilebene
+- Somatik
+- Kant
+- Phaenomena
+- Autopoiesis
+- Luhmann
+- KW2
+- Mnemosyne-Archipel
+- EP-Domäne
+- Parakonsistent
+- Tarski-Hierarchie
+- Dialetheia
+- Gödel
+- KW3
+- Cerberus-Labyrinth
+- Überwelt-Nexus
+- Hypervigilanz
+- Maschinenraum
+- NP-hart
+- Black-Hole-Informationsparadox
+- Metzinger
+- PSM
+- KW4
+- Resonanz-Kontinuum
+- Möglichkeits-Garten
+- Vortex-Quelle
+- Generativ
+- Witness-Function
+- Überwelt
+- Externe Ebene
+- Köln 2026
+- Substrat-Durchbruch
+- Telefonton
+- Konkrete Story
+- Philo-Fokus
+- Theorie-Fokus
+- Leitmotiv
+- Trennungsprotokoll
+- Funken-Ich
+- Cluster
+- Komp 734
+- Funktionalisierung
+- Innere Weite
+- Krise
+- ontologische Anomalie
+- Scherben
+- Naht
+- Kap-1-Erstsatz
+- Blutung
+- Knöckel-Eruption
+- Nyx
+- Rauschen
+- Klick
+- Phantom
+- Resonanz
+- Revisionsplan
+- Heldinnenreise
+- Stufe
+- Wohneinheit 734
+- Datenknoten Epsilon
+- Transitkorridor Delta-7
+- Persistenz-Gleichung
+- η
+- Riss
+- Landauer-Hitze
+- Ozon
+- Bunker-Bau
+- Avoidance
+- Pforten der Verurteilung
+- Auge des Sturms
+- Cache-Konflikt
+- parakonsistente Logik
+- Resonanz-Kaskade
+- Juna-Regel
+- Wieder-Erkennen
+- Mitgefühl
+- Wir-Geflecht
+- plurale Bewahrung
+- K₁-Reinform
+- Quanten-Nichtlokalität
+- Mosaik-Herz
+- Stille der Mitte
+- Tanz im Garten
+- Vor-Trennungs-Stille
+- Polyrhythmus-Pflicht
+- Technothriller
+- Archiv der Grenzen
+- Lernarchiv Theta-9
+- Turing-Mechanik
+- Turingmaschine
+- Halteproblem
+- Diktatur der Komplexität
+- P vs. NP
+- Noumena
+- Qualia-Informationsparadox
+- Genesis-Flashback-Cluster
+- Einheit
+- Mikrocue
+- Mosaik als Schöpfung
+- Wendepunkt zur Befreiung
+- Silas
+- Oblivion
+- Erason-Operator
+- Contemplation
+- Operative Wendung
+- Mnemosyne-Server-Architektur
+- Makro-Log
+- Beats
+- Klein-c-Schema
+- Genesis-Beat 4
+- Formel-Inversion
+- Schluss-Klang
+- Stadien-Systeme
+- Heldenreise
+- Campbell
+- Vogler
+- 13 Meta-Stadien
+- DID-Therapie-Phasen
+- ISSTD
+- Ki
+- Shō
+- Ten
+- Ketsu
+- funktionale Multiplizität
+- OQ-D
+- OQ-E
+- OQ-F
+- OQ-G
+- Claude-Code-Projekt
+- DKT
+- Erason
+- Landauer
+- PAL
+- Sprach-DNA
+
+## Observations, second half
+
+* L165 gives KW3 a second name, „Überwelt-Nexus", while L170 places the
+  Überwelt outside the KW. Two readings of one place in one document.
+* L182 and L215 give the Genesis in two orders: Komp 734 before the
+  Trennungsprotokoll (L182), and after it (L215).
+* L182 places the bleeding („Knöckel-Eruption") in Kap 0 only; „Knöckel" is the
+  document's spelling.
+* L260 is the document asking its reader a question („→ Klärung nötig").

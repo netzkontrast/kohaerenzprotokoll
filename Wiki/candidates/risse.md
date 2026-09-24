@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 3
-readings: 3
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -112,7 +112,7 @@ not simply equate them.
 
 ### And one passage inverts the term
 
-On the Externe Ebene, the place through which [[juna|Juna]] reaches [[kael|Kael]]
+On the [[externe-ebene|Externe Ebene]], the place through which [[juna|Juna]] reaches [[kael|Kael]]
 
 > „könnte ein \"Riss\" aus Sicht des Systems sein." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L522]
 
@@ -128,3 +128,59 @@ outside it.** One clause, hedged, undeveloped. See [[junas-ankerpunkt]],
 Nothing here contradicts the earlier readings. It is a mechanism where they gave
 manifestations, and the inversion is the document reporting a second point of
 view rather than a second account.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Symptom to [[aegis|AEGIS]], breath to the novel.**
+
+> „Risse sind für AEGIS Symptom (Suppression-Versagen); für den Roman das Atmen
+> der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt."
+> ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L245]
+
+**Each kind has an Alter as its trigger** — a table of five rows, L237 to L241,
+headed „EP-Trigger → Riss-Typ" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L230]: Nyx kinetisch, Kiko temporal, Lia/Isabelle
+spatial, [[moros|Moros]] gravitational, [[isabelle|Isabelle]] sensorisch. The first Riss of the novel is
+Kap 2, glossed „Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird
+sichtbar)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]. See [[landauer-signatur]].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**Five modes, two mirrors, four worlds.** The §12 table (L1003–L1008) gives each
+dissociative mode its bearer and distortion — Fight/Nyx kinetisch, Freeze/[[kiko|Kiko]]
+temporal, Flight/„Kiko (zweite Funktion), Lia" spatial, Collapse/[[moros|Moros]] gravitativ,
+Sexualisiert/[[isabelle|Isabelle]] sensorisch. Two more for the mirrors — „Silas
+(Coheron-Echo): Relational/warm" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1016] and „Oblivion (Erason-Operator):
+Temporal/gravitativ" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1017] — and one per world (L1025–L1028).
+
+A Riss is also [[aegis|AEGIS]]' third protocol's trigger: „Re-Containment-Protokoll —
+Reaktion auf Risse, dynamisches Patching der Simulation." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L133]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Risse sind die diegetisch sichtbare Manifestation der Inversion." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L548] Each type has an EP trigger (L551–L568): Nyx kinetic, Kiko temporal, Lia/Isabelle spatial, Moros gravitational, Isabelle sensory — Isabelle stands in two rows.
+
+„Wärme manifestiert sich als Risse." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L38] And the reading turns on the Vortex: „Für den Roman sind sie das Atmen der Realität" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L571].
+
+`Glitches` is this document's word for them in the Kernwelten — „Jede Glitch in den Kernwelten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L800].
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The first one is Kap 2: „Riss = Landauer-Hitze/Ozon (Verdrängung wird sichtbar)"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L191]. Before the word is allowed, the multiplicity shows only in them: „In
+Akt I spürt der Leser sie nur über Glitches" ^[kapitel-kompendium-gather-2026-05-31-md.md:L44].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Diegetisch sichtbare Manifestation der Inversion." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L746] Three classes —
+Anteils-, Welt- and Spiegel-Risse (L754–L756) — and one type per world (L763–L769).
+In KW4 they invert: „Hier sind Risse keine Pathologie, sondern Geburten." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L444]
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+A bridge-scene type: „Strukturelle Risse in der Simulation sind ontologische
+Schnittstellen" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L333], where K0 breaks into K1.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Diegetisch sichtbare Manifestation der Inversion." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L422], each type with an EP
+trigger.

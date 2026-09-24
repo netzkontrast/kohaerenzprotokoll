@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 4
-readings: 4
-conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 11
+readings: 11
+conflict: C4, C6
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -79,12 +79,12 @@ any tally taken from the framing text is off by one.**
 
 This document never mentions `AEGIS` — zero occurrences. Document 1 called the
 Guardians „spezialisierte Agenten dieses Entropie-Managements", which is [[aegis|AEGIS]]'
-work. **Whether the Guardians are inside AEGIS, beside it, or a design it
+work. **Whether the Guardians are inside [[aegis|AEGIS]], beside it, or a design it
 replaced is not answerable from the four documents read** — see
 `Wiki/conflicts/c4-guardians-and-aegis.md`.
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05, brief
 
-**The first document to place the Guardians relative to AEGIS in so many words —
+**The first document to place the Guardians relative to [[aegis|AEGIS]] in so many words —
 and it does so while arguing that the placement is the open question.**
 
 Its structural language is consistent and puts them inside. A Guardian
@@ -100,7 +100,7 @@ It can also describe a Guardian's behaviour as untypical for
 
 > „eine reine AEGIS-Erweiterung" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 
-which only makes sense if being an AEGIS extension is the default reading.
+which only makes sense if being an [[aegis|AEGIS]] extension is the default reading.
 
 ### But the whole of chapter 20 exists to put that under pressure
 
@@ -149,7 +149,7 @@ The four bearers are given in a parenthesis, in the same order as the levels:
 > „die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus,
 > Kairos/Sophia)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35]
 
-They are seated in AEGIS' level:
+They are seated in [[aegis|AEGIS]]' level:
 
 > „Sitz von AEGIS und den Wächtern in ihrer Systemfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
 
@@ -179,7 +179,7 @@ tracks the document rather than the register. See
 
 ### On the relation to AEGIS, this document assumes rather than argues
 
-Every placement puts the Wächter inside AEGIS' domain, and the document never
+Every placement puts the Wächter inside [[aegis|AEGIS]]' domain, and the document never
 raises the question that document 5 built a chapter out of. It lists them beside
 AEGIS as „Nutzer/Beobachter" of the system monitor ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L472], and it gives AEGIS a
 registry of their parameters ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233] — which is a stronger form of containment
@@ -187,3 +187,98 @@ than anything read so far, and it is stated in passing, as a location's function
 
 **That is placement, not a statement of the relation.** See
 `q1-guardians-and-aegis`.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Two, not five — and not one per world.** The first read source from 2026, and
+the first to state the Guardians' place in [[aegis|AEGIS]] as architecture:
+
+> „Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei
+> Protokolle, verbindliches Log-Format." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+and the table of worlds is headed with the negation:
+
+> „Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]
+
+**This contradicts every earlier reading on this page**, which gave five named
+bearers, each paired with a world. The names survive, but as world names: KW1 is
+„Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219] and KW3 „Cerberus-Labyrinth /
+Überwelt-Nexus" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L221]. `Kairos` and `Sophia` do not occur in this document.
+Conflict `C6` holds both positions; the page decides nothing.
+
+In the plot they are sub-antagonists absorbed by [[kael|Kael]] — „Kael absorbiert
+Guardian-Prinzipien gesund; Guardians als Sub-Antagonisten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] — and
+[[mnemosyne|Mnemosyne]] is the first one hit in Vortex 1 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381]. They speak like AEGIS,
+in logs: „AEGIS und die zwei Guardians sprechen in 3. Person" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
+
+**On the word:** `Guardian` only; `Wächter` never occurs. `Wächterin` does, as the
+title of Kap 8 and a function in the Z1 cycle (L313, L333) — see
+`q4-waechter-four-bearers`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The first read source to relate the two arrangements**, and it does it as the
+corpus's own history:
+
+> „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos,
+> Sophia). Aktueller Kanon: zwei — Mnemosyne als Erinnerungs-Wächterin
+> (Klimax-Setting des Vortex Kap 35–36) und ein nicht-näher-spezifizierter
+> Erasure-Pol als Löschungs-Exekutive." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]
+
+> „Die anderen sind nicht "weg", sondern in diese beiden absorbiert oder zu
+> thematischen Funktionen geworden, die kein eigener Wille mehr brauchen." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]
+
+The world table says where each went: [[logos|LogOS]] „in Mnemosyne absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51],
+[[cerberus|Cerberus]] „in Erasure-Pol absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L53], [[kairos|Kairos]]/[[sophia|Sophia]] „latent" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54].
+
+**This explains C6 in a source's own words, and does not settle it.** Two
+canon-era documents now say two; this one calls the five „Frühere Drafts". Whether
+that retires the earlier readings on this page is the author's call — see `C6`.
+
+## Decided by the author, 2026-09-24 — five
+
+**Five Guardians: [[logos|LogOS]], [[mnemosyne|Mnemosyne]], [[cerberus|Cerberus]], [[kairos|Kairos]], [[sophia|Sophia]]** (conflict `C6`).
+The readings above stay as their documents wrote them. How the five relate to the
+four [[kern-welten|Kern-Welten]], and what the Erasure-Pol is, are open in `q5-guardians-and-kern-welten`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**Two.** „Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L210]
+
+The two: Mnemosyne, „Erinnerungs-Hüterin" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L216], and a pole named for its function — „Erasure-Pol (Name offen, Forschungsfrage)." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217]
+
+**It absorbs differently from the character bible.** „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217] The character bible puts LogOS into Mnemosyne and leaves Kairos and Sophia latent; this document places LogOS and Kairos in the Erasure-Pol and says nothing of Sophia. Q5.
+
+„Mit der Reduktion auf zwei Guardians sind die KW-Domänen entkoppelt von 1:1-Guardian-Zuweisung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462]
+
+The author decided C6 for five on 2026-09-24; this is a second canon-era source for two, recorded and not applied.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+„2 Guardians (Mnemosyne + Erasure-Pol)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13] — in the filter it names
+for its quarry, the „Steinbruch", where there were five. And „KEIN Guardian-1:1" ^[kapitel-kompendium-gather-2026-05-31-md.md:L158]. A fifth 2026
+statement for two; the author decided five on 2026-09-24.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Two, and the five named as what is gone: „Keine fünf-Guardian-Architektur." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61]
+„LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61]
+They live in the [[ueberwelt|Überwelt]]: „Hier residieren die zwei Guardians (Mnemosyne +
+Erasure-Pol) als abstrakte Entitäten" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L502].
+
+A sixth 2026 source for two, recorded after the author's decision for five.
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Instruments of [[aegis|AEGIS]]' doing.** „Guardian-Deployments" among [[aegis|AEGIS]]' acts (L97); A's
+overall story is „die Manipulation der simulierten Welt durch AEGIS+Guardians"
+^[dramatica-dual-storyform-status-2026-05-07-md.md:L206], B's is „Erasure-Sweeps, Guardian-Operationen, das Mnemosyne-Archipel als
+Schlachtfeld" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L230]. No count is given.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Post-Reset-Architektur (frühere fünf Guardians sind dekanonisiert, in den zwei
+aufgegangen)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L302], and in the quarry filter „5 Guardians → 2 (Mnemosyne +
+Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810] — with their weight lowered: „„Guardians als zentrale
+Antagonisten" → Sub-Aspekte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L814]. A seventh 2026 source for two, after the
+author's decision for five.

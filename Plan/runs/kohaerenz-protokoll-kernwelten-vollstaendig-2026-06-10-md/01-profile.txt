@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md
+  lines                968  (frontmatter ends at 9)
+  body words           6704
+  headings             85   bold-only lines 17
+  table rows           203   code fences 0
+  question marks       15
+  backslash escapes    1104
+  typographic marks    172   ascii quotes 47
+  invisible characters none
+  math symbol lines    15
+  glued ref numbers    42
+  repeated labels      Kanonisch x6, Steinbruch-gefiltert x5
+  longest line         981 chars
+

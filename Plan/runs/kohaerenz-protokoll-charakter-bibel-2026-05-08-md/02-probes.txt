@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      31
+  backslash escapes      98
+  typographic marks      260
+  ascii quotes           91
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstaufgabe, Selbstdefinition, Selbsterkenntnis, Selbstfindung, Selbstkorrigierend, Selbstkorrigierende, Selbstmissverständnis, Selbstreferenz, Selbstreferenzfähigkeit, Selbstähnliche
+  syste    System, Systeme, Systemfehler, Systemfeld, Systemkritik, Systemrauschen, Systems, Systemstabilität, Systemübersicht
+  ersch    Erscheinen, Erscheinung, Erscheinungen, Erscheinungsmodi, Erscheinungsregel, Erschöpfung
+  klass    Klasse, Klassifikation, Klassifikationen, Klassifiziert, Klassifizierungs, Klassische
+  senso    Sensor, Sensoren, Sensorik, Sensorisch, Sensorische, Sensorischer
+  sprac    Sprach, Sprache, Sprachliche, Sprachlosigkeit, Sprachspur, Sprachspuren
+  beoba    Beobachter, Beobachtung, Beobachtungen, Beobachtungsfeld, Beobachtungshorizont
+  bezie    Beziehung, Beziehungen, Beziehungs, Beziehungsmatrix, Beziehungsmuster
+  direk    Direkt, Direkter, Direktes, Direktive, Direktiven
+  fragm    Fragment, Fragmente, Fragmentiert, Fragmentierung, Fragmentierungsnacht
+  funkt    Funktion, Funktionale, Funktionalen, Funktionen, Funktioniert
+  inter    Interferenz, Interiorität, Internal, Internalisierte, Internalisiertes
+  versu    Versuch, Versuche, Versuchen, Versucht, Versuchung
+  archi    Archipel, Architektin, Architektur, Archivar
+  bindu    Bindung, Bindungsappell, Bindungsnot, Bindungstrauma
+  brust    Brust, Brustkorb, Brustschwere, Brustöffnung
+  emoti    Emotion, Emotional, Emotionale, Emotionen
+  erinn    Erinnerung, Erinnerungen, Erinnerungs, Erinnerungsfragment
+  erzäh    Erzähl, Erzähler, Erzählstruktur, Erzählung
+  heilu    Heilung, Heilungs, Heilungsweg, Heilungsziel
+  hyper    Hyper, Hyperreaktivität, Hypertonus, Hypervigilanz
+  inner    Innere, Inneren, Innerer, Innerhalb
+  kontr    Kontrolle, Kontrollierte, Kontrollprotokoll, Kontrollverlust
+  lösch    Lösch, Löschlogik, Löschung, Löschungs
+  mögli    Möglichen, Möglicherweise, Möglichkeit, Möglichkeits
+
+# substring pairs -- never one term, often merged by accident
+  Zeit < Zeitebene
+  Zeit < Zeitpunkt
+  Zeit < Zeitlinie
+  Zeit < Zeitsinns
+  Zeit < Zeitlücken
+  Zeit < Zeitebenen
+  Zeit < Zeitverlust
+  Zeit < Zeitstruktur
+  Auch < Braucht
+  Auch < Bauchreaktion
+  Teil < Anteil
+  Teil < Anteile
+  Teil < Anteilen
+  Stör < Zerstörung
+  Raum < Traum
+  Raum < Trauma
+  Raum < Raumbruch
+  Raum < Raumbegriff
+  Raum < Bindungstrauma
+  Raum < Kindheitstrauma

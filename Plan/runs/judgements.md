@@ -633,3 +633,325 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** 6 standing alone as Riss, 40 as Risse, plus Rissen, Riss-Manifestationen, Riss-Ursprung. Single-quoted throughout: 20 of the document's 32 single-quoted tokens are one of the two.
 
 **Result.** ONE term. Already the page's name; recorded because the ledger is also the trainset and fold() still misses this pair.
+
+## J46 — Alters / Alter
+
+**one-term** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** an English plural -s on a German noun is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** english-plural, german-plural, already-a-surface
+
+**Question.** the page is alters and this document writes Alter
+
+**What was done.** Alter 13 times standing alone, in the heading „13 Alter“ (L253), the table column (L259) and the POV rule (L206); Alters twice, in the veil rule (L46) and Vortex 1 (L378).
+
+**Result.** ONE term. The German plural is Alter; Alters is the anglicised plural of the same noun.
+
+## J47 — AEGIS / Wir-AEGIS
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a later state is the same term only when the bearer is the same; a name the source marks as undecided gets no page
+- **mechanised by:** `nothing`
+- **features:** later-state, different-bearer, name-open
+
+**Question.** four surfaces of a final form built on AEGIS — Wir-AEGIS, Wir-AEGIS-plural, AEGIS-plural, Mosaik-AEGIS
+
+**What was done.** L412: „Kael-als-Wir wird neue AEGIS, aber wesensanders“. L475 lists the names as alternatives with status open (OQ-A).
+
+**Result.** TWO terms. The final form's bearer is Kael's Wir, not AEGIS; J29 does not apply. No page: the document itself says the name is undecided. Recorded on the aegis page.
+
+## J48 — Kael / System Kael
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** the whole a member belongs to is not the member
+- **mechanised by:** `nothing`
+- **features:** whole-and-member, roster
+
+**Question.** is System Kael a surface of Kael?
+
+**What was done.** L253 heads the table „System Kael (TSDP-Architektur, 13 Alter)“; L260 gives Kael as one row, „Kael (Host) · amnestische Oberfläche“.
+
+**Result.** TWO terms. The system is the thirteen; Kael is one of them. The roster goes on alters.
+
+## J49 — Logos-Prime / LogOS
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a world name built from a bearer's name is not the bearer; containment across a proper name is not evidence
+- **mechanised by:** `nothing`
+- **features:** proper-name-containment, world-name, bearer-name
+
+**Question.** four world names contain page names — Logos-Prime/logos, Mnemosyne-Archipel/mnemosyne, Cerberus-Labyrinth/cerberus, Überwelt-Nexus/nexus
+
+**What was done.** L219–L222 name the Kern-Welten; L214 heads the table „KEIN Guardian-1:1“. The earlier pages are Guardians.
+
+**Result.** TWO terms each. The document names worlds after former bearers while denying the pairing; the containment is the conflict (C6), not an identity.
+
+## J50 — Wohneinheit 734 / Kaels Wohneinheit 1.0
+
+**one-term** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a dwelling is identified by its occupant and its place; a differing number is a reading, not a new term
+- **mechanised by:** `nothing`
+- **features:** numbered-instance, same-occupant
+
+**Question.** the page is Kaels Wohneinheit 1.0 and this document numbers the dwelling 734
+
+**What was done.** L306: Kael's first day runs „Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7“ in KW1 — the page's referent by occupant and place.
+
+**Result.** ONE term. Same dwelling by the sentence; the differing number is a reading on the page.
+
+## J51 — Nichts-Rauschen / Rauschen
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a source equating two surfaces once does not make them one term everywhere
+- **mechanised by:** `nothing`
+- **features:** qualified-compound, source-equates-once
+
+**Question.** is every Rauschen the Nichts-Rauschen?
+
+**What was done.** L386 equates them once: „das Rauschen, das hier beginnt, ist das Nichts-Rauschen“. Elsewhere Rauschen stands alone (L298, L398) with no such statement.
+
+**Result.** TWO terms. Equated only where the source says so.
+
+## J52 — Trennungsprotokoll / Trennung
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** an event and the state it produces are two terms
+- **mechanised by:** `nothing`
+- **features:** event-and-state
+
+**Question.** is Trennung a short form of Trennungsprotokoll?
+
+**What was done.** Trennung names the state („Die Trennung war nie real“, L21; Goal of B, L183); Trennungsprotokoll the event that produced it (L298).
+
+**Result.** TWO terms. An event is not the state it produces.
+
+## J53 — Landauer-Signatur / Entropie-Signatur
+
+**two-terms** · kohaerenz-protokoll-storyform-und-outline-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a shared head noun is not a shared referent
+- **mechanised by:** `nothing`
+- **features:** shared-head, cross-document
+
+**Question.** a new page beside an existing one with the same head
+
+**What was done.** Landauer-Signatur is defined here (L64); Entropie-Signatur is a coinage inside a question in another document.
+
+**Result.** TWO terms.
+
+## J54 — Basisrealität / Externe Ebene
+
+**one-term** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** two names given the same place and the same attributes in the same words are one term
+- **mechanised by:** `nothing`
+- **features:** same-description, cross-document
+
+**Question.** the Basisrealität of this document and the Externe Ebene of the other canon-era source
+
+**What was done.** L62: „Die Basisrealität — Köln 2026 … nur als Erinnerungsfragment, als Telefonton, als Geruch.“ The other: „Externe Ebene (Köln 2026 — nie Bühne, nur Erinnerungsfragment, Telefonton, Geruch)“.
+
+**Result.** ONE term. Same place, same four attributes, word for word.
+
+## J55 — Kael / System Kael
+
+**judgement** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a name the source uses for a whole and one of its members is resolved by the sentence, never by the surface
+- **mechanised by:** `nothing`
+- **features:** one-surface-two-referents, whole-and-member
+
+**Question.** this document uses the bare name for both the system and the host
+
+**What was done.** L298: „Kael ist ein System“; L315: „Kael auch eine spezifische ANP-Instanz: der Host“.
+
+**Result.** JUDGEMENT per sentence. J48 held for the other document, which wrote System Kael; here the bare name carries both, and the page records both, attributed.
+
+## J56 — Coheron / Coheronen
+
+**one-term** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a German plural is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** german-plural
+
+**Question.** the plural as a candidate
+
+**What was done.** Coheronen at L256 and L913, the singular elsewhere.
+
+**Result.** ONE term.
+
+## J57 — Kohärenz / Kohärenzprotokoll
+
+**two-terms** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming a protocol is not the property it is named for
+- **mechanised by:** `nothing`
+- **features:** compound, three-referents
+
+**Question.** the word names K1, the novel, AEGIS' second protocol and Kael's healing
+
+**What was done.** L105 K1; L113 the title and „Das eigentliche Kohärenz-Protokoll ist Kaels Heilungsweg“; L132 the protocol.
+
+**Result.** TWO terms at least; the protocol and the title stay on kohaerenz as readings, no page.
+
+## J58 — Wohneinheit 734-K / Kaels Wohneinheit 1.0
+
+**one-term** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a dwelling is identified by its occupant and its place; a differing number is a reading, not a new term
+- **mechanised by:** `nothing`
+- **features:** numbered-instance, same-occupant
+
+**Question.** a third number for the dwelling
+
+**What was done.** L311: „Wohneinheit 14/Sektor 7/Wohneinheit 734-K“, Kael's address in the simulation.
+
+**Result.** ONE term, as J50.
+
+## J59 — Erasure-Pol / Erasure
+
+**two-terms** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming an entity is not a surface of the property it contains
+- **mechanised by:** `nothing`
+- **features:** compound, role
+
+**Question.** a Guardian named after the act
+
+**What was done.** L58: „ein nicht-näher-spezifizierter Erasure-Pol als Löschungs-Exekutive“.
+
+**Result.** TWO terms. No page: the document itself calls it unspecified.
+
+## J60 — Autonomous Entropic Gatekeeper for Integrity Systems / AEGIS
+
+**one-term** · koharenz-protokoll-konzept-konsolidiert-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** an acronym and the expansion the same sentence gives it are one term
+- **mechanised by:** `nothing`
+- **features:** acronym, expansion
+
+**Question.** the name AEGIS spelled out
+
+**What was done.** L202: „AEGIS — Autonomous Entropic Gatekeeper for Integrity Systems — ist kein Schurke.“
+
+**Result.** ONE term: the sentence gives the expansion as the acronym's apposition.
+
+## J61 — Garten der Möglichkeiten / Möglichkeits-Garten
+
+**one-term** · koharenz-protokoll-konzept-konsolidiert-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a source using two surfaces of one term at two scales is a reading about scale, not a term boundary — the same as J51
+- **mechanised by:** `nothing`
+- **features:** nesting, two-scales
+
+**Question.** whether one document nesting two surfaces splits them
+
+**What was done.** L517 names KW4 „Kairos-Potentialis (Garten der Möglichkeiten)“; L530 lists „Möglichkeits-Garten“ as a sub-location of KW4.
+
+**Result.** ONE term, J35 holds. The nesting is a reading on C5, the conflict about exactly this scale.
+
+## J62 — Landauer-Abwärme / Landauer-Signatur
+
+**two-terms** · koharenz-protokoll-konzept-konsolidiert-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a passage is placed by what it states, not by the surface it uses; a cause and its sensory rendering are two terms (J53)
+- **mechanised by:** `nothing`
+- **features:** shared-head, cause-and-rendering
+
+**Question.** where the passage on Landauer heat is placed
+
+**What was done.** L135: the Abwärme „manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse“; document 7 L458 calls that rendering the Landauer-Signatur.
+
+**Result.** TWO terms. The heat is the cause, the signature its rendering; the passage is a reading on landauer-signatur because it states the rendering.
+
+## J63 — Überwelt-Nexus / Überwelt
+
+**two-terms** · kapitel-kompendium-gather-2026-05-31-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming a place is not either of the places it is built from (J8, J49); where one document gives both, it is a reading, not a merge
+- **mechanised by:** `nothing`
+- **features:** compound, second-name, two-levels
+
+**Question.** whether KW3's second name is the Überwelt
+
+**What was done.** L165 names KW3 „Cerberus-Labyrinth / Überwelt-Nexus“, „Maschinenraum hinter dem Rendering“; L170 places the Überwelt outside the Kern-Welten.
+
+**Result.** TWO terms, and neither is Nexus either. The compound names a place in KW3; the passage is a reading on ueberwelt, nexus and kern-welten, because it states a relation between them the document itself leaves unresolved.
+
+## J64 — Therapie-Schnittstelle Gamma / Therapie-Schnittstelle Alpha
+
+**one-term** · kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a facility is identified by its function and its world; a differing letter or number is a reading, not a new term (J50 generalised)
+- **mechanised by:** `nothing`
+- **features:** designator, same-function, same-world, filtered-quarry
+
+**Question.** a second letter for the therapy room
+
+**What was done.** L167: „Therapie-Schnittstelle Gamma“, KW1, „Raum für simulierte Therapiesitzungen mit AEGIS-Avatar/NPC“, labelled [S]; L13 names the quarry it filtered, which includes this page's first source.
+
+**Result.** ONE term. The differing letter is a reading on the page.
+
+## J65 — Datenverarbeitungsknoten Epsilon / Datenverarbeitungsknoten 7G
+
+**one-term** · kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a facility is identified by its function and its world; a differing letter or number is a reading, not a new term
+- **mechanised by:** `nothing`
+- **features:** designator, same-function, same-world
+
+**Question.** Kael's workplace under two designators
+
+**What was done.** L153: „Datenverarbeitungsknoten Epsilon“, „Kaels Arbeitsplatz“, [K], KW1.
+
+**Result.** ONE term, by J64's rule. Documents 9 and 10 name it Epsilon too; not attached when read.
+
+## J66 — Zero-Trust-Boundary-Protocols / Zero-Trust
+
+**two-terms** · kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming a protocol is not the function it is named for (J57); a passage is placed by what it states
+- **mechanised by:** `nothing`
+- **features:** compound, project-function
+
+**Question.** whether a named protocol is AEGIS' Zero-Trust function
+
+**What was done.** L702, a [V] background question: AEGIS enforces separation between the Kern-Welten by „Zero-Trust-Boundary-Protocols“.
+
+**Result.** TWO terms. The passage is a reading on aegis-teilfunktionen because it states a use of the function (J62's placement rule). Not the external standard (J11).
+
+## J67 — Personae / Personas
+
+**judgement** · kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a bare plural that could name the page's referent or Kael's parts is resolved by the sentence, never by the surface (J20, J55)
+- **mechanised by:** `nothing`
+- **features:** plural, unclear-bearer
+
+**Question.** whether the Personae that collapse at the Evaluierungseinheit are the page's consciousness instances
+
+**What was done.** L361: the Evaluierungseinheit, „wo Personae kollabieren“ (Kap 13, the veil falls).
+
+**Result.** Not attached. The sentence does not say whose Personae; the page's are the Guardians' wards in a 2025 source.
+
+## J68 — Ursprungs-Ich / Juna
+
+**two-terms** · kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a gloss that one passage writes and another passage of the same source contradicts is a reading, never a merge (J51)
+- **mechanised by:** `nothing`
+- **features:** gloss, contradicting-use
+
+**Question.** whether the gloss „Ursprungs-Ich (Juna)“ makes one term
+
+**What was done.** L155: the Trennungsprotokoll „die das Ursprungs-Ich (Juna) ins Nichts-Rauschen verbannt“; L146–L147: the Ursprungs-Ich is in the Potentialmeer and resonates with Juna.
+
+**Result.** TWO terms. The gloss is a reading on juna and a question for the author; the same document keeps the two apart two entries earlier.

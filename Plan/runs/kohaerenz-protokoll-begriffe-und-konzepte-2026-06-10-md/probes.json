@@ -1,0 +1,280 @@
+{
+  "document": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+  "drive_id": "1yzp2ak--2ifktNL2ShyD1p0AWDy--JKTrFPKi_V8cAM",
+  "step": "probes",
+  "at": "2026-09-24",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 84,
+  "backslash_escapes": 0,
+  "typographic_marks": 291,
+  "ascii_quotes": 65,
+  "inflection_families": {
+    "erzäh": [
+      "Erzähler",
+      "Erzählerin",
+      "Erzählerische",
+      "Erzählform",
+      "Erzählhaltung",
+      "Erzählhaltungen",
+      "Erzähllogik",
+      "Erzählt",
+      "Erzählverdrehung"
+    ],
+    "story": [
+      "Story",
+      "Storybeat",
+      "Storybeats",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storypoint",
+      "Storypoints",
+      "Storyweaving"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturell",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturfragen",
+      "Strukturphysik",
+      "Strukturprinzipien",
+      "Strukturpunkten"
+    ],
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemantwort",
+      "Systeme",
+      "Systemfehler",
+      "Systemfeld",
+      "Systems",
+      "Systemstimme"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungs",
+      "Bindungsdichte",
+      "Bindungsphobie",
+      "Bindungsstil",
+      "Bindungstrauma"
+    ],
+    "doppe": [
+      "Doppel",
+      "Doppelaussage",
+      "Doppeldeutigkeit",
+      "Doppellesbar",
+      "Doppellesbares",
+      "Doppeltes"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomena",
+      "Phänomenale",
+      "Phänomene",
+      "Phänomenologie",
+      "Phänomenologisch"
+    ],
+    "chara": [
+      "Character",
+      "Charakter",
+      "Charaktere",
+      "Charakterlogik",
+      "Charakterwechsel"
+    ],
+    "dynam": [
+      "Dynamic",
+      "Dynamics",
+      "Dynamik",
+      "Dynamische",
+      "Dynamisches"
+    ],
+    "ersch": [
+      "Erschaffung",
+      "Erscheinung",
+      "Erscheinungen",
+      "Erscheinungsmodi",
+      "Erschöpfung"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionaler",
+      "Funktionalisierung",
+      "Funktionen"
+    ],
+    "konst": [
+      "Konstant",
+      "Konstante",
+      "Konstanttemperatur",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "logik": [
+      "Logik",
+      "Logikdichte",
+      "Logikregime",
+      "Logikregimen",
+      "Logiksubstrat"
+    ],
+    "opera": [
+      "Operationalisierter",
+      "Operationen",
+      "Operationsraum",
+      "Operativ",
+      "Operator"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstamputat",
+      "Selbstamputation",
+      "Selbstdefinition",
+      "Selbstreferenzfähigkeit"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdrückung",
+      "Unterdrückungs",
+      "Untergrenze",
+      "Unterton"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungswelt",
+      "Verteilung",
+      "Verteilungen",
+      "Vertex"
+    ],
+    "begri": [
+      "Begriff",
+      "Begriffe",
+      "Begriffs",
+      "Begriffsapparat"
+    ],
+    "beoba": [
+      "Beobachten",
+      "Beobachter",
+      "Beobachtung",
+      "Beobachtungsakt"
+    ],
+    "entsc": [
+      "Entscheid",
+      "Entscheidung",
+      "Entscheidungen",
+      "Entscheidungs"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungs",
+      "Erinnerungsfragment",
+      "Erinnerungsorte"
+    ],
+    "gesch": [
+      "Geschehen",
+      "Geschichte",
+      "Geschlechter",
+      "Geschwindigkeiten"
+    ],
+    "infor": [
+      "Information",
+      "Informationserhaltung",
+      "Informationsgrenze",
+      "Informationsmenge"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsoptionen",
+      "Integrity",
+      "Integrität"
+    ],
+    "kontr": [
+      "Kontradiktorische",
+      "Kontrolle",
+      "Kontrollmechanismen",
+      "Kontrollzentrum"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Riss",
+      "Rissbildung"
+    ],
+    [
+      "Zwei",
+      "Zweit"
+    ],
+    [
+      "Eine",
+      "Einer"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Bewusstseinen"
+    ],
+    [
+      "Eine",
+      "Verfeinerungen"
+    ],
+    [
+      "Erst",
+      "Erste"
+    ],
+    [
+      "Erst",
+      "Erstsatz"
+    ],
+    [
+      "Erst",
+      "Verstand"
+    ],
+    [
+      "Erst",
+      "Verstehen"
+    ],
+    [
+      "Erst",
+      "Verstärker"
+    ],
+    [
+      "Erst",
+      "Zerstörung"
+    ],
+    [
+      "Erst",
+      "Widerstands"
+    ],
+    [
+      "Erst",
+      "Leerstellen"
+    ],
+    [
+      "Erst",
+      "Erstereignis"
+    ],
+    [
+      "Erst",
+      "Erstereignisse"
+    ],
+    [
+      "Erst",
+      "Lesersteuerung"
+    ],
+    [
+      "Erst",
+      "Lesersteuerungs"
+    ],
+    [
+      "Turn",
+      "Return"
+    ]
+  ]
+}

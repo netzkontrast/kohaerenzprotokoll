@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 6
+readings: 6
+conflict: C4, C6
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -73,3 +73,31 @@ Verlust von Individualität im System" ^[roman-lokalitaeten-konzept-und-ausarbei
 
 This document calls LogOS a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] and never a `Guardian`. See
 [[guardians]], `q4-waechter-four-bearers`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**No longer a Guardian of its own, by this source's account.** The world table
+gives its place in one cell:
+
+> „(LogOS, in Mnemosyne absorbiert)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51]
+
+and says why: „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus,
+Kairos, Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The earlier readings on this
+page are what this document calls earlier drafts. Recorded, not applied — see
+`C6`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Named once as one of the old five (L210), and once as absorbed: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217] — into the Erasure-Pol, where the character bible put LogOS into Mnemosyne. Q5.
+
+KW1's heading carries `Logos-Prime` as a second name (L463), a world named after the bearer (J49).
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Named as not active: „LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive
+Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] KW1 keeps the name as „Konstrukt-Stadt / Logos-Prime" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L23]; in Kap 1 „LogOS dekanonisiert → AEGIS als ferne Umgebungsbedingung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L827], and the filtered therapy room has „AEGIS als Avatar statt LogOS" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L167].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+Absorbed into the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen
+sind hier absorbiert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L306] — as in the konsolidiertes Konzept.

@@ -1,0 +1,14 @@
+# koharenz-protokoll-konzept-konsolidiert-2026-05-08-md
+  lines                1396  (frontmatter ends at 0)
+  body words           11145
+  headings             0   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       21
+  backslash escapes    0
+  typographic marks    381   ascii quotes 92
+  invisible characters none
+  math symbol lines    36
+  glued ref numbers    130
+  repeated labels      none
+  longest line         478 chars
+

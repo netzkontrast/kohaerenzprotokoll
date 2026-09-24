@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -39,7 +39,7 @@ documents that do not mention each other.
 purpose.**
 
 Every sentence in it that has to phrase the relation puts a Guardian inside
-AEGIS — „agiert als spezialisierter Agent innerhalb eines größeren Systems"
+[[aegis|AEGIS]] — „agiert als spezialisierter Agent innerhalb eines größeren Systems"
 ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L49], „eine reine AEGIS-Erweiterung" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]. So *components*
 is the reading this document supports, and *peers* and *a design it replaced*
 get no support from it at all.
@@ -85,7 +85,7 @@ records that nothing read says how the two entities relate.
 
 ## 2026-09-17 — document 6 assumes the answer and never states it
 
-`roman-lokalitaeten-konzept-und-ausarbeitung` places the four inside AEGIS'
+`roman-lokalitaeten-konzept-und-ausarbeitung` places the four inside [[aegis|AEGIS]]'
 level and does it in passing, as facts about locations:
 
 > „Sitz von AEGIS und den Wächtern in ihrer Systemfunktion."
@@ -94,7 +94,7 @@ level and does it in passing, as facts about locations:
 > „Datenbank/Interface zur Verwaltung der Wächter-Parameter"
 > ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233]
 
-A registry of their parameters, administered from AEGIS' domain, is a stronger
+A registry of their parameters, administered from [[aegis|AEGIS]]' domain, is a stronger
 form of containment than anything read so far — **and it is a room on a list, not
 a claim about the relation.**
 
@@ -113,4 +113,57 @@ satisfied: KW2 and KW4 appear 28 and 18 times here with their bearers, and the
 numbering now joins document 4's named worlds to document 5's numbers for all
 four. See [[kern-welten]]. That makes the two documents describe one arrangement —
 which sharpens C4 rather than resolving it, because document 4 still never
-mentions AEGIS.
+mentions [[aegis|AEGIS]].
+
+## 2026-09-24 — a canon-era document states it as architecture
+
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` is the first read source to state the relation outside a question, which
+is what this page said would answer it:
+
+> „Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei
+> Protokolle, verbindliches Log-Format." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+The [[guardians|Guardians]] are part of [[aegis|AEGIS]]' architecture, stated flat, in a passage the
+document labels canon. **For this source, the answer is *components*.** It also
+says there are two of them, not five — conflict `C6` — so the question it
+answers is about a different set of [[guardians|Guardians]] than the one the earlier pages
+describe.
+
+**Q1 stays open**, narrower: *components* now has a direct statement from one
+source; whether it holds for the five of 2025 is C6's question, and the author's.
+
+## 2026-09-24 — the character bible places Mnemosyne inside AEGIS' architecture
+
+„Sie agiert innerhalb AEGIS' Architektur, weil sie keine andere Sprache hat."
+^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L210] A second canon-era source for *components*, and it says why the five
+became two (`C6`).
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**Components, placed inside [[aegis|AEGIS]]' own architecture.** The two [[guardians|Guardians]] are
+listed under „III.2 Architektur (post-Reset, kanonisch)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L209], a section of the
+part on [[aegis|AEGIS]], and they live where [[aegis|AEGIS]] works: „Hier residieren die zwei
+Guardians als abstrakte Entitäten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L535] — the Überwelt, „AEGIS' Maschinenraum"
+^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L534]. They speak as AEGIS does: „AEGIS und die zwei Guardians sprechen in 3.
+Person" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L425].
+
+A third canon-era source for *components*. The author's C6 decision restored five;
+how five sit inside this architecture, this source cannot say.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**Components, registered.** „Hier residieren die zwei Guardians (Mnemosyne +
+Erasure-Pol) als abstrakte Entitäten" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L502] — in AEGIS' Überwelt — and the
+Wächter-Registry is „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L576].
+
+## 2026-09-24 — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Instruments.** „Guardian-Deployments" are among [[aegis|AEGIS]]' acts (L97), and the overall
+story is „die Manipulation der simulierten Welt durch AEGIS+Guardians" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L206].
+Something [[aegis|AEGIS]] deploys is not its peer.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**Lowered, not only placed.** „„Guardians als zentrale Antagonisten" →
+Sub-Aspekte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L814] — AEGIS is the central tragic counter-instance; the Guardians
+are parts of it.

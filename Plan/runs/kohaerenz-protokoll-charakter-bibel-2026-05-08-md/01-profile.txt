@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-charakter-bibel-2026-05-08-md
+  lines                1309  (frontmatter ends at 9)
+  body words           8289
+  headings             84   bold-only lines 25
+  table rows           52   code fences 0
+  question marks       14
+  backslash escapes    98
+  typographic marks    260   ascii quotes 91
+  invisible characters none
+  math symbol lines    16
+  glued ref numbers    31
+  repeated labels      Beziehungsmuster x12, DKT-Korrelat x12, Konsistenz-Anker x12, Somatik x12, Sprache / Syntax x12, Arc x11, Funktion x11, Kernmotivation x10, Kernphobien x10, Akt I x3, Akt II x3, Akt III x3
+  longest line         473 chars
+

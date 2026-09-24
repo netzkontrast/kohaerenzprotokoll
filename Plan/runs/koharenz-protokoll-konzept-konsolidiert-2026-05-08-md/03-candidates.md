@@ -1,0 +1,475 @@
+written_by: a person (the session reading, 2026-09-24), while reading, before any count
+
+# Candidates — koharenz-protokoll-konzept-konsolidiert-2026-05-08-md
+
+## L1–260
+- Umfassendes Konzept
+- Konsolidierte Synthese
+- Genesis-Prolog
+- Hauptroman
+- geheilte Genesis
+- Coda
+- AEGIS
+- Kohärenz
+- Entropie
+- Nichts-Rauschen
+- mutuale Information
+- Liebe als Naturgesetz
+- Storyforms
+- K1-Reading
+- K0-Reading
+- Juna
+- Kategorienfehler
+- Ouroboros-Struktur
+- Kernfrage
+- Coheron
+- Coheronen
+- Risse
+- Endprinzip
+- Trennung
+- ontologische Heilungs-Schleife
+- Trennungsprotokoll
+- Dual-Storyform
+- Heuristics of Integration
+- Phoenix Collapse
+- Klein-c-Inversion
+- plurale Apotheose
+- Wir-AEGIS-plural
+- ontologisches Fundament
+- drei Schichten
+- Schicht 1
+- K1-Reinform
+- Śūnyatā
+- Schicht 2
+- K0-Existenz
+- Schicht 3
+- Zeit-Prinzip
+- kosmologische Konstante
+- Kernwelten
+- Identitäts-Architektur
+- Bewahrung-Funktion
+- Kael
+- Vor-Trennungs-Erinnerung
+- Alters
+- Cluster-Fragmente
+- Genesis
+- ontologische Anomalie
+- Vier-Beat-Sequenz
+- Einheit
+- Potentialmeer
+- Ursprungs-Ich
+- Cluster-Bildung
+- Komp-734-Funktionalisierung
+- Komponente 734
+- Kael-Wurzel
+- Wächter
+- Qualia
+- Systemfehler
+- Selbstamputat
+- AEGIS-plural
+- Wir-Geflecht
+- Formel-Inversion
+- Wir-AEGIS
+- Reinform
+- Schluss-Klang
+- bittersüße Apotheose
+- Dual-Kernel-Theorie
+- DKT
+- Grundkräfte
+- K₁-Domäne
+- Erasonen
+- K₀-Domäne
+- Erasion
+- Zeitpfeil
+- Wärmetod
+- Membran
+- große Inversion
+- Genesis-Krise
+- Kohärenz-Kernel
+- Entropie-Architektur
+- Landauer-Abwärme
+- Landauer-Prinzip
+- Truth-Rotation
+- Vortex
+- B-Logik
+- Pivot
+- K₁-Substrat
+- Persistenzgleichung
+- η
+- Reversibilitätskoeffizient
+- Pufferkapazität
+- Atemporalität
+- Silas
+- Moonshine-Link
+- Quantentunneling
+- Erasure
+- Korrelat-Achse
+- Coheron-Domäne
+- Erason-Domäne
+- Oblivion
+- Erason-Operator
+- Erason-Architektur
+- ANP/EP-Achse
+- Gödel-Unvollständigkeit
+- Gödel-Satz
+- Halteproblem
+- KW2
+- Bekenstein-Schranke
+- KW3
+- Chaitin-Konstante
+- Monstrous Moonshine
+- Leech-Lattice
+- VOA
+- Z₂-Orbifold
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- autopoietisch
+- operativ geschlossenes System
+- Abwehrarchitektur
+- Guardians
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Protokolle
+- Lore-Last
+- Reset
+- Erinnerungs-Hüterin
+- Mnemosyne-Archipel
+- Erasure-Pol
+- Löschungs-Exekutive
+- Subplot
+- Suppressionsprotokoll
+- Kohärenzprotokoll
+- Re-Containment-Protokoll
+- AEGIS-Log-Format
+- SYSTEM_KAEL
+- EXTERNE_AUFMERKSAMKEITS_METRIK
+- JUNA_VEKTOR
+- PARADOX_INDEX
+- Storyform B
+- Algorithmische Melancholie
+- plurale Übernahme
+- Vortex 1
+- Gödel-Gambit
+
+## L260–560
+- Bürokratie der Resignation
+- Reliquie
+- Vortex 2
+- AEGIS-monolithisch
+- Bewahrungsfunktion
+- Dividend
+- Witness-Funktion
+- Resonanz-Empfänger
+- plurale Re-Integration
+- Doppelte IC-Funktion
+- Impact Character
+- Storyform A
+- Domain-Inversion
+- Klein-c-Symmetrie
+- Vortex-Inversion
+- Vertex-Operator-Algebra
+- Leech-Gitter
+- Z₂-Involution
+- Twisted Modules
+- K₁-Zeitlinie
+- Monstergruppe
+- Boundary Conditions
+- Erscheinungsmodi
+- Telefon-Stille
+- Witness-Modus
+- Resonanz
+- Echo
+- OQ-B
+- Quanten-Verschränkungs-Witness
+- ZK-Verifier
+- Husserlian Spectator
+- Compassion Fatigue
+- Revelation-Timing
+- Multiplizitäts-Schleier
+- Juna-Seed
+- System Kael
+- Tertiäre Strukturelle Dissoziation
+- TSDP
+- IFS
+- Internal Family Systems
+- Crew-Menü
+- Amnesie-Terror
+- ANP/EP-Phobie
+- ANPs
+- EPs
+- Host
+- Lex
+- Alex
+- Rhys
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Argus
+- Juna-Echo
+- AEGIS-Echo
+- Hubble-Volumen
+- Big Rip
+- Funktionale Multiplizität
+- Kudzu
+- Superposition
+- Pauli-Ausschluss
+- Big Freeze
+- Drachenkampf
+- Coheron-Echo
+- Tunneling
+- POV-Regel
+- Fusion
+- Strange-Attractor-Form
+- Dekanonisiert
+- Doppeltes Trauma
+- Basisrealität Köln
+- Bindungstrauma
+- Fragmentierungsnacht
+- Spiegel-Alter
+- OQ-E
+- Realitätsebenen
+- Logikregime
+- KW1
+- KW4
+- Überwelt
+- Externe Ebene
+- Köln 2026
+- Substrat-Durchbruch
+- Akt-Marker
+- Guardian-Reich
+- Konstrukt-Stadt
+- Logos-Prime
+- Phaenomena
+- Computational Class P
+- Stilebene
+- Metaphernverbot
+- Kaels Wohneinheit 734
+- Datenverarbeitungsknoten Epsilon
+- Transitkorridor Delta-7
+- Sektor 04
+- Resonanzlandschaft
+- Archiv der Grenzen
+- Wald des Flüsterns
+- Ozean-Becken
+- Mnemosyne-Server-Architektur
+- Parakonsistent
+- Cerberus-Labyrinth
+- Grenzfeste
+- EP-Protektoren
+- NP-Hard
+- Zitadelle
+- Evaluierungseinheit
+- Kairos-Potentialis
+- Garten der Möglichkeiten
+- Möglichkeits-Garten
+- Nexus
+- Mosaik-Herz
+- Maschinenraum
+- Datenstrom-Kathedrale
+- Erasure-Sweeps
+- Wächter-Registry
+- Verschränkungs-Insel
+- Junas Ankerpunkt
+- Garten der stillen Präsenz
+- Quelle des Flüsterns
+- Unkartiertes Territorium
+- Riss-Typ
+- EP-Trigger
+
+## L560–880
+- Suppression-Versagen
+- Computational-Class-Progression
+- Storypoint
+- MC
+- MC Resolve
+- MC Growth
+- MC Approach
+- Be-er
+- Do-er
+- MC Problem-Solving Style
+- MC Domain
+- MC Concern
+- MC Issue
+- MC Problem
+- MC Solution
+- MC Symptom
+- MC Response
+- OQ-D
+- Story Driver
+- Story Limit
+- Optionlock
+- Timelock
+- Story Outcome
+- Story Judgment
+- Story Cost
+- Story Dividend
+- IC
+- IC Domain
+- IC Concern
+- OS Domain
+- RS Domain
+- Host-System-Verstrickung
+- Synthese (c)
+- MC-Throughline
+- IC-Throughline
+- OS-Throughline
+- RS-Throughline
+- Storyform-Träger
+- Bridge-natürlich
+- narrative Modi
+- Genesis-Klammer
+- Bewegungen
+- Heldinnenreise innen
+- Zyklischer Modus
+- Heldenreise außen
+- Doppel-Vortex
+- trügerischer Sieg
+- Bridge-Frequenz
+- Storyform-Status
+- Phantomgefühl
+- Genesis-Flashback-Cluster
+- Erzähl-Stimme
+- Modus-Grenzen
+- Storyform-Wendung
+- Vorwort
+- Herz der Leere
+- Sog der Ordnung
+- Innere Weite
+- Stille Wacht
+- Resonanzkaskade
+- Funken-Ich
+- Foreshadowing-Programm
+- Stilkanon
+- Murdock/Schmidt
+- Genesis-Latenz
+- Stilcode-Einbrüche
+- Reader-Leerstellen
+- Glitches
+- Bunker-Bau
+- Cache-Konflikt
+- K-J-Verbindung
+- Quanten-Nichtlokalität
+- Stille der Mitte
+- Tanz im Garten
+- Genesis-Echos
+- Wir-Bildung
+- plurale Bewahrung
+- Zyklen
+- Lyons-Welt
+- Ontologie-Riss
+- Genesis-Cluster
+
+## L880–1150
+- Spiral-Frage
+- Phase A
+- Phase B
+- Vortex-Beats
+- Anlauf
+- Einspeisung
+- Stille
+- Auflösung
+- Phase C
+- Reward-Beat
+- Gärtner
+- Phase D
+- Rauschen
+- Stille-Beat
+- Kapitel-Outline
+- HR-Stufe
+- Controlled Fragmentation Protocol
+- Hitzeschlieren
+- Landauer-Wärme
+- Moonshine-Bewusstwerdung
+- Wächterin
+- Bruch des Gleichgewichts
+- Erasure-Welle
+- Purge
+- Guardian-Prinzipien
+- Sub-Antagonisten
+- Makro-Log
+- Stil-Anker
+- Vermittler-Stimme
+- Motive
+- Das Klick
+- Das Phantom
+- Polyphonie
+- Lesersteuerung
+- Egan-Falle
+- Chiang-Standard
+- Reader-as-Substrate
+- Temporal Scrambling
+- Vier-Ebenen-Schreibmodus
+- Stilistische Mandate
+- Tonalitäts-Progression
+
+## L1150–1396
+- Working Principles
+- Story-First
+- Plurale Form
+- Tragische Unschuldsstruktur
+- Dual-Storyform-Integrität
+- Phoenix-Mode
+- Open Questions
+- OQ-A
+- OQ-C
+- OQ-F
+- OQ-G
+- Phasen-Status
+- Storyforming
+- Lock-In-Bericht
+- Pilot-Encoding
+- Encoding-Phasen
+- Storyweaving
+- Telling
+- Negativ-Definition
+- DID-Allegorie
+- Multiverse
+- Reset/Race-Condition-Ende
+- Die drei Sätze
+- Resolution-Doppelpfad
+- Vortex-Inversion
+- Convergence
+- Dialetheic Choice
+- The Silence
+- Heat Spike
+- Rotation
+- Amnesie-Barrieren
+- Witness-Function-Layer
+- Driver-Pivot
+- Duale Uhren
+- Wahrheitstheorien
+- Korrespondenztheorie
+- Kohärenztheorie
+- Isolations-Problem
+- Zugangsproblem
+- Tarski-Hierarchie
+- parakonsistente Logik
+- Phänomenales Selbstmodell
+- PSM
+- Dialetheia
+- Dialetheismus
+- Autopoiesis
+- Dasein
+- Grenzsituationen
+- Wu Wei
+- Mahayana-Mitgefühl
+
+## Open while reading (prose, not candidates)
+
+No headings survive the export: the table of contents (L8–L22) and part labels
+(„Teil I —", „I.1") carry the structure as plain lines; tables arrive as one cell
+per line, tab-indented (L121–L132, L353–L422, L590–L661). The document states its
+own authority twice: „(gelockt)" on I.2 and „Diese Datei ist autoritative Spec.
+Bei Diskrepanz mit älteren Notizen oder Steinbruch-Material gewinnt diese
+Synthese." (L1395) — a claim, recorded, not applied (decision 006).
+
+For reconciliation, not the census: it sides with storyform-und-outline on Juna
+in Kap 38 (L327) and B = Do-er (L604); with the character bible on knuckles
+bleeding from the first page (L29); it pairs the 2025 world names with the 2026
+ones in parentheses (L483, L500); it gives four Genesis beats (L67); it lists
+Kap 6 with „Landauer-Wärme" (L972), which storyform-und-outline's §7.1 overrules.

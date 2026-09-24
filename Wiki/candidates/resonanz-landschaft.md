@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -20,15 +20,15 @@ of them and gives each its own physics.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
-**Grundkonzept:** „eine Welt, die direkt durch Emotionen und Erinnerungen geformt wird" ^[L60]
+**Grundkonzept:** „eine Welt, die direkt durch Emotionen und Erinnerungen geformt wird" ^[guardians-und-kern-welten-konzept.md:L60]
 
-**Regeln/Physik/Logik:** „nicht-linear, assoziativ und fließend" ^[L61]
+**Regeln/Physik/Logik:** „nicht-linear, assoziativ und fließend" ^[guardians-und-kern-welten-konzept.md:L61]
 
-Primarily experienced by the **Echo**-Persona ^[L60].
+Primarily experienced by the **Echo**-Persona ^[guardians-und-kern-welten-konzept.md:L60].
 
 ### How Risse manifest here
 
-„Plötzliche, heftige emotionale Stürme" ^[L64]
+„Plötzliche, heftige emotionale Stürme" ^[guardians-und-kern-welten-konzept.md:L64]
 
 This is the world's own governing principle turned against itself — emotion made dissonant.
 The document states one claim about `Risse` four times, in four vocabularies;
@@ -36,7 +36,7 @@ see [[risse|Risse]].
 
 ### Partnerin-Echos here
 
-„die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels…" ^[L65]
+„die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels…" ^[guardians-und-kern-welten-konzept.md:L65]
 
 Every world gets this field, and it is where the [[partnerin|Partnerin]] is characterised —
 by effect, never by identity. See [[partnerin|Partnerin]].
@@ -51,4 +51,8 @@ each section is a `Guardian/Welt-Paar`.
 How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to one alter, and
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
-containment of the Kern-Welten (document 3) is not answerable here.
+containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+A second name for KW2: „VI.3 KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L483] — written without the hyphen. „Erinnerung als Schauplatz, nicht als Inhalt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L484]

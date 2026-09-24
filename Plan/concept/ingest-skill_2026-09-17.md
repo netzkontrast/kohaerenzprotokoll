@@ -221,11 +221,11 @@ optimizer learns from what is in the input — and the survey supplies the
 vocabulary for closing it.
 
 **`truncated` is a field nobody measures.** The manifest carries `truncated` on
-every row and it reads `false` for all 346 <!--state:sources.landed--> landed documents. No script in
+every row and it reads `false` for all 371 <!--state:sources.landed--> landed documents. No script in
 `scripts/` mentions the word; the value came in with the Drive index and has
 never been derived. A field that asserts „this export is complete" without
 anything having checked is worse than no field. The cheap heuristic does not
-rescue it either, and that is measured: **221 of the 346 <!--state:sources.landed--> documents end without
+rescue it either, and that is measured: **221 of the 371 <!--state:sources.landed--> documents end without
 terminal punctuation**, because they end on a bibliography URL. So it is
 demoted rather than deleted — the survey's idea is right and our value is not
 evidence.
@@ -255,8 +255,8 @@ nothing to check: `Wiki/` contains zero `[[links]]`". The wiki linked with
 the markup did not mark. What the survey rejected was a model *inferring* edges,
 and it said in the same line that canon links must be **explicit**. Decision 005
 separated the two marks and ran the migration:
-207 <!--state:wiki.relations--> links, 17 <!--state:wiki.orphans--> orphans,
-73 <!--state:wiki.unmarked--> still unmarked because a quotation may not gain
+329 <!--state:wiki.relations--> links, 27 <!--state:wiki.orphans--> orphans,
+145 <!--state:wiki.unmarked--> still unmarked because a quotation may not gain
 markup a source did not have.
 
 ## What is not yet possible, stated plainly

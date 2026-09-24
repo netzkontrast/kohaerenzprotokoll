@@ -1,0 +1,327 @@
+---
+written_by: hand, while reading (Claude, in session)
+document: kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md
+---
+
+# Candidates — written while reading
+
+Lines 11–470.
+
+- Kernwelten
+- Sub-Lokalitäten
+- Sensorik-Profile
+- Risse-Phänomenologie
+- Übergangs-Mechanik
+- Akt-Choreografie
+- Kapitel-Welt-Mapping
+- Steinbruch
+- Filter-Disziplin
+- Echo
+- Nox
+- Limina
+- LogOS
+- Cerberus
+- Kairos
+- Sophia
+- Guardians
+- Mnemosyne
+- Erasure-Pol
+- Welt-Bezeichnung
+- Realitätsebenen
+- KW1
+- KW2
+- KW3
+- KW4
+- Überwelt
+- Externe Ebene
+- Köln 2026
+- Transitions-Mechanik
+- Computational-Class-Progression
+- Anti-Patterns
+- Logikregime
+- Akt-Marker
+- Computational Class
+- Stildirektive
+- Parakonsistent
+- NP-Hard
+- Generativ
+- AEGIS
+- Kael
+- Alter
+- Multi-Universum
+- Crew-Setting
+- Allegorie
+- Konstrukt-Stadt
+- Logos-Prime
+- K₁
+- K₀
+- ANP-Vermeidung
+- Kants Phaenomena
+- Multiplizitäts-Schleier
+- Ästhetik
+- Architektur als Kontrolle
+- Ozon
+- Landauer-Suppression-Spur
+- Systemhum
+- 21°C
+- Riss-Vorzeichen
+- Tertium non datur
+- Ex contradictione quodlibet
+- Stilebene 1
+- Metaphernverbot
+- AEGIS-Logs
+- Somatik-Default
+- Atem
+- Lex
+- Hypoventilation
+- Risse
+- Escher-Geometrien
+- Kausalitätsschleifen
+- Blutende Knöchel
+- Kap-0-Lock
+- Wohneinheit 734
+- Einheit 734
+- Datenverarbeitungsknoten Epsilon
+- Transitkorridor Delta-7
+- Sektor 04
+- Archivar-Klasse-II-Arbeitsraum
+- Komponente 734
+- Archivar Klasse II
+- Therapie-Schnittstelle Gamma
+- AEGIS-Avatar
+- AEGIS' Beobachtungszentrum
+- Regel-Exekutor Posten 12
+- Sektor für Logische Rekreation
+- Archiv der Kausalitätsketten
+- Bewohner
+- NPCs
+- Host
+- Mnemosyne-Archipel
+- Erinnerung als Schauplatz
+- Erasure
+- K₁-Substrat
+- Vortex-1-Setting
+- Tarski-Hierarchie
+- Trivialismus
+- Guardian-Dominanz
+- Wälder des Flüsterns
+- Ozeane der Trauer
+- Architektonische Palimpseste
+- Echos
+- Stilebene 2
+- Bauch
+- Temporale Risse
+- Kiko
+- Spatiale Risse
+- Lia
+- Isabelle
+- Wasser-Risse
+- Archiv der Grenzen
+- Wald des Flüsterns
+- Ozean-Becken
+- Mnemosyne-Server-Architektur
+- Inselgruppe
+- Server-Halle
+- Memorialarchitektur
+- Zirbeldrüse-Architektur
+- Vergessener Schrein
+- Trauma-Lokus
+- Insel der fragmentierten Erinnerungen
+- See der Tränen
+- Melancholie-Zone
+- Moros
+- Galerie der falschen Erinnerungen
+- Archiv des Ungesagten
+- Archivar
+- Mnemosynes Gedächtnispalast
+- Fluss des Vergessens
+- Lethe-Strom
+- Oblivion
+- Narbenfelder
+- Welt-Hüterin
+- Schicht-1-Trauma
+- EPs
+- Nyx
+- Cerberus-Labyrinth
+- EP-Protektoren
+- Alex
+- Bunker-Topologie
+- Brutalismus
+- Schießpulver-Geruch
+- Hyperalert
+- Stilebene 2+
+- Muskel
+- Hypertonus
+- Bruxismus
+- Paranoid-spatial
+- Gravitationale Risse
+- Kinetische Risse
+- Zitadelle
+- Inneres Bollwerk
+- Wartungsschächte
+- Unbewachte Tore
+- Evaluierungseinheit
+- Messer im Bewusstsein
+- Personae
+- Schleier-Fall
+- Schleusen des Misstrauens
+- Gänge der Paranoia
+- Labyrinth der Paranoia
+- Innerer Bunker
+- Arena der inneren Konflikte
+- Zensurkammer
+- Feld der Abwehrmechanismen
+- Wachen
+- Kairos-Potentialis
+- Möglichkeits-Garten
+- Resonanz-Kontinuum
+- Coheronen
+- Emergenz
+- Ruinengarten
+- Funktionale Multiplizität
+- Synästhesie
+- Stilebene 3
+- Wir-Pronomen
+- Sensorische Risse
+- Generative Risse
+- Nexus
+- Mosaik-Herz
+- Juna
+
+## Observations, first half
+
+* KW4's heading carries three names (L26, L396): Kairos-Potentialis /
+  Möglichkeits-Garten / Resonanz-Kontinuum; and L461 lists „Der
+  Möglichkeits-Garten" as a canonical sub-location of KW4.
+* The Nexus is „Übergangsort zwischen KW4 und Externer Ebene" (L462).
+* KW1 ozone is „Landauer-Suppression-Spur, *kalt-elektrisch*" (L110).
+* The knuckles carry a „Kap-0-Lock" note (L141).
+
+Lines 470–968.
+
+- Werkstatt der Schöpfung
+- Turm der Voraussicht
+- Brücke zur Integration
+- Quelle der Inspiration
+- Forum des Dialogs
+- Trainingsraum der Alter
+- Garten der stillen Präsenz
+- Selene
+- Wir-Geflecht
+- Wir-Stimme
+- Coheron
+- Datenstrom-Kathedrale
+- Erasure-Sweeps
+- Verschränkungs-Insel
+- Persistenzgleichung
+- Stilebene 1+
+- AEGIS-Log-Format
+- SYSTEM_KAEL
+- EXTERNE_AUFMERKSAMKEITS_METRIK
+- JUNA_VEKTOR
+- PARADOX_INDEX
+- Schnittstelle zu den Kernwelten
+- Wächter-Registry
+- Jenseits-des-Ereignishorizonts-Bereich
+- K₁-Reinform
+- AEGIS-Kern-Nexus
+- Datenstrom-Autobahn
+- Protokoll-Archiv
+- Quarantäne-Zone für Anomalien
+- Glitches
+- Datenfriedhof
+- Genesis-Flashback
+- Simulations-Parameter-Kammer
+- Entropie-Ausgleichs-Kammer
+- Datenkorruption
+- Glitch-Ästhetiken
+- Algorithmische Melancholie
+- autopoietisch
+- Substrat-Durchbruch
+- Vortex 1 Beat 4
+- Iser-Wheelerian
+- Telefon-Stille
+- Plattenbauten
+- S-Bahn-Geräusche
+- Junas Anker
+- Stilebene 3
+- Junas Erscheinungsmodi
+- Anteile-Profil
+- Junas Ankerpunkt
+- Quelle des Flüsterns
+- Unkartiertes Territorium
+- Junas versteckter Zugangspunkt
+- Echo der Realität
+- Quelle der Anomalien
+- Sprach-DNA
+- plurale Apotheose
+- Zero-Trust-Boundary-Protocols
+- Cross-Contamination
+- Übergangs-Modi
+- Landauers Prinzip
+- digitale Wärme
+- Systemrauschen
+- Moonshine-Link
+- Reboot
+- thermischer Riss
+- Schleier-Fall
+- Phase-Shift
+- Konvergenz
+- trügerische Pastorale
+- Reward-Beat
+- Substrat-Berührung
+- Synthese
+- Ouroboros
+- Coda
+- Anteils-Risse
+- Welt-Risse
+- Spiegel-Risse
+- Silas
+- Landauer-Wärme
+- Foreshadowing
+- Landauer-Strang
+- Gödel-Strang
+- Dasein-Strang
+- Bekenstein-Strang
+- Euler-Strang
+- Genesis
+- Pastorale
+- Vortex 2
+- Vier-Beat-Genesis
+- Scherben
+- Juna-Echo
+- Gödels Architekt
+- Slot-16
+- Cache-Konflikt
+- Bridge
+- anti-mimetische Räume
+- Stilcode-Verschiebungen
+- Mosaik des Selbst
+- Jaspers' Grenzsituation
+- Turing-Mechanik
+- Qualia-Informationsparadox
+- Gödel-Gambit
+- Polanyi
+- Klick-Motiv
+- aletheia
+- Dialetheic Choice
+- Heat Spike
+- Wir-AEGIS-plural
+- Lese-Anforderung
+- Iser'sche Leerstellen
+- Cybernetic Crawler
+- Multiverse
+- Matrix
+- Mnemosynes Audienz-Raum
+- Pixelierung
+- Merleau-Ponty
+
+## Observations, second half
+
+* The Nexus again: „AEGIS-Kern-Nexus" in the Überwelt [S] (L588), and the
+  canonical Nexus between KW4 and the Externe Ebene (L462). KW3 has no Nexus here.
+* Kap 33 carries the Garten der stillen Präsenz as „Setting der Juna-Wirkung"
+  (L480, L665); Juna „erscheint" in Kap 38 (L630, L727).
+* Kap 3 is „erste Wärme-Spur (Junas Coheron-Debüt)" (L829); the KW1→KW2
+  transition is a thermal Riss with „Landauer-Wärme spürbar" (L764).
+* L826: „Vier-Beat-Genesis".

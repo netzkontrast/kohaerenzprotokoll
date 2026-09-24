@@ -1,0 +1,200 @@
+{
+  "document": "dramatica-dual-storyform-status-2026-05-07-md",
+  "drive_id": "159g5Ezn3oP_XKuyMCeFbWCTl9_aGDWFwAz1_e6JCvtk",
+  "step": "reconcile",
+  "at": "2026-09-24",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 85,
+    "conflicts": 12
+  },
+  "state_after": {
+    "pages": 85,
+    "conflicts": 12
+  },
+  "pre_classification": {
+    "candidates": 204,
+    "decisions": 201,
+    "decided_by_lookup": 161,
+    "needs_judgement": 40
+  },
+  "new_terms": [],
+  "new_terms_rule": "none. The document is about the Dramatica storyform — slots, drivers, bridge scenes — and its world terms all have pages. Dramatica vocabulary in its home sense does not get pages (J11's rule for borrowed terms).",
+  "not_promoted_rule": "137 new terms by lookup; none became a page: Dramatica slots and values, session machinery (Memory-Slots, Phase 1, Reset-Doc), bridge-scene and micro-cue craft labels.",
+  "not_attached_rule": "the POV-routing row naming ten Alters at once (L315–L316) is a reading on alters, not on Lex, Alex, Rhys, Selene, Nyx, Kiko, Lia, Isabelle or Moros individually",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        29,
+        97,
+        222
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        279,
+        405
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        318
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "argus",
+      "lines": [
+        318
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        218
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        206,
+        230
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        31,
+        121,
+        202,
+        407
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kael",
+      "lines": [
+        31,
+        97,
+        226
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        278,
+        295,
+        344
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        210,
+        406
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        97
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        332
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        333
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        332
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        202
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        408
+      ],
+      "attribution": "premise",
+      "note": ""
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C8",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "no expansion",
+    "C3": "no origin",
+    "C4": "no blind spot",
+    "C5": "no garden",
+    "C6": "„Guardian-Deployments“ and „12 Protokolle“ but no count of Guardians",
+    "C7": "Juna's appearance named as open („Wie taucht Juna auf?“), no chapter",
+    "C9": "no Konstrukt-Stadt",
+    "C10": "no knuckles",
+    "Q2": "no protocol by name",
+    "Q3": "no count",
+    "Q4": "Wächter does not occur",
+    "Q5": "no pairing"
+  },
+  "judgements": [],
+  "decided_by_existing_rules": "Mnemosyne-Archipel by J49; Trennungsprotokolle by J24's plural rule; Spiegel-Alters, Juna-Seed, Juna-POV, Coheron-Echo, Erason-Operator, Multiplizitäts-Schleier, Post-Vortex-AEGIS-Status against their heads by J16/J28; Landauer placed on landauer-signatur by J62.",
+  "attached_from_earlier_runs": {},
+  "found_by_rule_not_by_census": [
+    "landauer-signatur",
+    "argus"
+  ],
+  "baseline_moved": false
+}
