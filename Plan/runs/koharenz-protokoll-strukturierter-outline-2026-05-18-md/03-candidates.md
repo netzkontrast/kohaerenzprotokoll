@@ -1,0 +1,615 @@
+---
+written_by: hand, while reading (Claude, in session)
+document: koharenz-protokoll-strukturierter-outline-2026-05-18-md
+---
+
+# Candidates — written while reading
+
+Written by hand while reading, **before any counting**. One line per
+candidate. This is the only artifact of the run a program cannot produce, and
+the baseline any model gets scored against.
+
+- Strukturierter Outline
+- Bewegungen
+- Kishōtenketsu
+- Dramatica-Dual-Storyform
+- Drei narrative Modi
+- Konzept-Konsolidierung
+- Storyweaving-Startdokument
+- Dual-Storyform-Lock-In
+- Ki
+- Shō
+- Ten
+- Ketsu
+- Genesis-Prolog
+- Akt I
+- Akt II
+- Akt III
+- Phase A
+- Vortex 1
+- Vortex 2
+- Doppel-Vortex
+- Wendungs-Architektur
+- Trennungsprotokoll
+- Geheilte Genesis
+- Coda
+- Verstehens-Form
+- Storyform A
+- Heuristics of Integration
+- Storyform B
+- Phoenix Collapse
+- Kael-MC
+- AEGIS-MC
+- Be-er
+- Do-er
+- Optionlock
+- Timelock
+- Moonshine-Link
+- Host-System-Verstrickung
+- kybernetischer Krieg
+- Cost A
+- Dividend A
+- Cost B
+- Dividend B
+- Wir-Geflecht
+- Verbindungs-Modus
+- plurale Übernahme
+- Bridge-Frequenz
+- Bridge
+- Soft-Layering
+- Phantom-Latenz
+- Polyphonie
+- Vortex-Vorläufer
+- Trügerischer Sieg
+- Synthese (c)
+- Wir-AEGIS-plural
+- Genesis-Klammer
+- Funken-Ich
+- Heldinnenreise innen
+- Zyklischer Modus
+- Heldenreise außen
+- Murdock/Schmidt
+- Campbell/Vogler
+- Modus-Grenzen
+- Storyform-Wendung
+- Storypoint-Akzent
+- Genesis-Echo
+- Tonale Achse
+- Charakter-Personal
+- Alters
+- AEGIS
+- Juna
+- Mnemosyne
+- Erasure-Pol
+- Der tragische Gott
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- autopoietisch
+- tautologisch-suizidale Selbstdefinition
+- operative Hälfte
+- Bewahrung-Funktion
+- Resonanz-Fähigkeit
+- Algorithmic Melancholy
+- AEGIS-Logs
+- Gödel-Aussage
+- Chaitin-Konstante
+- Witness-Funktion
+- Telefon-Stille
+- Erason-Bilanz
+- Phantom-Resonanz
+- Erasure-Stellen
+- Wörter ohne Referent
+- Kael
+- Das System
+- Host
+- Komponente 734
+- Archivar Klasse II
+- Origin-Trauma
+- Bindungstrauma
+- Basisrealität
+- Köln
+- Fragmentierungsnacht
+- Genesis-Krise
+- Host-ANP
+- Knöchel
+- Zähl-Manie
+- 2.304 Kacheln
+- 21°C
+- lebende Paradoxie
+- ANPs
+- Apparently Normal Parts
+- DKT-Korrelat
+- Lex
+- Rationalist
+- Alex
+- Beschützer
+- Rhys
+- Caregiver
+- Selene
+- ISH
+- Internal Self-Helper
+- Hubble-Volumen
+- Big Rip
+- Big-Rip-Fragmentierung
+- Strange-Attractor-Form
+- Halteproblem
+- Asymptotische Freiheit
+- Maxwells Dämon
+- Kudzu
+- Wurmlöcher
+- Entanglement Islands
+- EPs
+- Emotional Parts
+- Nyx
+- CPT-Verletzung
+- Kiko
+- Planck-Skala
+- Lia
+- Quanten-Superposition
+- Isabelle
+- Pauli-Ausschluss
+- Moros
+- Big Freeze
+- Drachenkampf
+- Sonderfiguren
+- Argus
+- Meta-Kognition
+- Fraktale
+- Marginalien
+- Silas
+- Juna-Echo
+- Moonshine-Resonanzkörper
+- Coheron-Echo
+- Tunneling
+- Spiegel-Alter
+- Oblivion
+- AEGIS-Echo
+- Erasure-Funktion
+- Erason-Operator
+- Lösch-Prosa
+- Guardians
+- Erinnerungs-Hüterin
+- Mnemosyne-Archipel
+- Erasure
+- Löschungs-Exekutive
+- Cerberus
+- LogOS
+- Kairos
+- Sophia
+- OQ
+- Welt-Architektur
+- Kernwelten
+- KW1
+- Logos-Prime
+- KW2
+- KW3
+- Cerberus-Labyrinth
+- KW4
+- Möglichkeits-Garten
+- Computational Class
+- Parakonsistent
+- NP-Hard
+- Atemzählung
+- Bauchreaktion
+- Muskelanspannung
+- Stilebene
+- ANP-Domäne
+- EP-Domäne
+- Köln 2026
+- Erinnerungsfragment
+- Telefonton
+- strukturelle Blöcke
+- Kapitel-für-Kapitel-Outline
+- POV-Träger
+- Sensorisches Leitmotiv
+- Kap 0
+- Genesis-Trauma
+- Wächter-Sein
+- Forewarning
+- Resonanz
+- Cluster
+- Vorwort
+- Genesis-Sequenz
+- Das Rauschen
+- Herz der Leere
+- Erste Kontakte
+- Sog der Ordnung
+- Überlebenskampf
+- Der große Wandel
+- Die Innere Weite
+- Überwelt-Etablierung
+- Dazwischen
+- Brücken-Frage
+- Die Krise
+- Stille Wacht
+- Perturbation aus der Leere
+- Algorithmischer Schrecken
+- Resonanzkaskade
+- Systemischer Kollaps
+- Scherben
+- Ursprungs-Ich
+- Wächter
+- Coheron
+- Kael-Cluster
+- Klick
+- Phantom
+- Erstereignisse
+- Kap 1
+- Erwachen in der Konstrukt-Stadt
+- HR-Stufe
+- Illusion der perfekten Welt
+- Konstrukt-Stadt
+- Kernwelt 1
+- Wohneinheit 14
+- Sektor 7
+- Going on with normal life
+- sterile Leere
+- Ozon
+- weißes Licht
+- Innere Weite
+- Überwelt
+- Kap 2
+- Der erste Riss
+- Lex-Einbruch
+- Systemlüge
+- Controlled Fragmentation Protocol
+- Glitches
+- Echos
+- Zeitverlust
+- Blackout
+- Stilcode
+- Phantom-Motiv
+- Kap 3
+- Bunker-Bau
+- Bunker
+- Logik-Pol
+- Festungs-Architektur
+- Echo-Verwandtschaft
+- Kap 4
+- Pforten der Verurteilung
+- AEGIS-Log
+- Anomalie
+- Klick-Motiv
+- Kap 5
+- Auge des Sturms
+- Falscher Erfolg
+- Erinnerungs-Substitut
+- Reinform
+- Kap 6
+- Echos im Fundament
+- Tod einer Einstellung
+- polyphoner Einbruch
+- Cache-Konflikt
+- Stilcodes
+- Hitzeschlieren
+- Landauer-Wärme
+- Resonanz-Kaskade
+- Logiksubstrat
+- Kap 7
+- Die Stimme im Rauschen
+- K-J-Cue
+- K-J-Verbindung
+- Moonshine-Bewusstwerdung
+- warmer Windstoß
+- Kap 8
+- Die Wächterin
+- Wächterin-Funktion
+- ISH-Funktion
+- Wir-Stimme
+- Vor-Trennungs-Substanz
+- Kap 9
+- Wir
+- Foreshadowing-Programm
+- Wir-Bildung
+- K1-Reinform-Erinnerung
+- Kap 10
+- Die erste Brücke
+- HR-Erweiterung
+- Moonshine
+- Quanten-Nichtlokalität
+- Erasure-Sweeps
+- Cluster-Bildung
+- Kap 11
+- Mosaik des Selbst
+- Akzeptanz der Komplexität
+- Mosaik-Herz
+- Mosaik-Bildung
+- Multiplizitäts-Schleier-Disziplin
+- plurale Bewahrung
+- Kap 12
+- Stille der Mitte
+- Jetzt-Raum
+- B-Scanner-Cue
+- Vor-Trennungs-Stille
+- K1
+- Kap 13
+- Tanz im Garten
+- Phase 2
+- Stress-Test Delta-7
+- KW4-Vorgriff
+- Möglichkeits-Welt
+- Modus-Wechsel
+- Kap 14
+- Bruch des Gleichgewichts
+- Zyklus-Position
+- Z1
+- Erasure-Welle
+- Form-Motiv
+- Kap 15
+- Z1-Destabilisierung
+- Schatten-Anteil
+- Avoidance-Mechanik
+- Babymonster-Welt-Resonanz
+- Vor-Trennungs-Schmerz
+- Kap 16
+- Z1-Reaktion
+- Dissoziation
+- Kap 17
+- Z1-Korrektur
+- Pursuit-Bewegung
+- Driver-Anker
+- Bezeugung
+- Kap 18
+- Z2-Destabilisierung
+- Z2
+- Genesis-Flashback
+- Genesis-Flashback-Stimme
+- Genesis-Flashback-Cluster
+- Topologie-Manipulation
+- Multi-Welten-Aufgabe
+- Cluster-Differenzierung
+- Cluster-Substanz
+- Glitch-Texturen
+- Kap 19
+- Z2-Reaktion
+- AEGIS-Intervention
+- AEGIS-POV-Mikroszene
+- Erasure-Logik
+- Action-Driver
+- KI-Ethik-Kalkül
+- Trennungsprotokoll-Klick
+- Kap 20
+- Z2-Korrektur
+- Lyons-Kreativität
+- Lyons-Welt
+- Emergenz
+- Emergenz-Texturen
+- Schöpferkraft
+- Kap 21
+- Z3-Destabilisierung
+- Z3
+- Ontologie-Tiefe
+- Potentialmeer
+- Trennungs-Moment
+- Membran-Wahrnehmung
+- Kap 22
+- Z3-Reaktion
+- Berechenbarkeitsgrenzen
+- Erasure-Kosten
+- Funktionalisierung
+- Funktionsdefinition
+- Systemverwerfungen
+- Wärme-Schlieren
+- Kap 23
+- Z3-Korrektur
+- Mosaik als Schöpfung
+- Selbst-Schöpfung
+- Existenzielle Korrektur
+- kosmische Schöpfung
+- Kap 24
+- K-J-Thema
+- Juna-Witness
+- Doppel-Lesart
+- Mutual Information
+- Witness-Modus
+- Resonanzkörper
+- Resonanz-Motiv
+- Kap 25
+- Wendepunkt-Vorbereitung
+- Erasure-Drohung
+- Wegkreuzung
+- Schwellen-Bilder
+- Kap 26
+- Wendepunkt
+- Entscheidung zur Befreiung
+- Erasure-Vorbereitung
+- Linearisierung
+- Schwellen-Tritt
+- Kap 27
+- Ordinary World
+- HR-außen
+- Preconscious
+- Agency
+- Autoren-Feder-Modus
+- Autoren-Feder
+- funktionale Multiplizität
+- Kap 28
+- Call to Adventure
+- AEGIS-Direktive
+- Timelock-Countdown
+- Purge
+- OQ-B
+- Countdown-Klick
+- Kap 29
+- Refusal
+- Trauma-Echo
+- Kind-Anteil
+- Host-System-Symbiose
+- Vor-Trennungs-Angst
+- Kap 30
+- Meeting Mentor
+- RS-Maximum
+- Resonanz-Maximum
+- Vor-Trennungs-Liebe
+- Kap 31
+- Crossing First Threshold
+- OQ-E
+- Spiegel-Alter-Szene
+- Echo-Prosa
+- Schwellen-Übertritt
+- Kap 32
+- Tests, Allies, Enemies
+- Systemkampf
+- Wahrheits-Test
+- Sub-Antagonisten
+- Simulationstricks
+- loyale Subsysteme
+- Echo-Räume
+- Erasure-Operator-Echo
+- operatives Wir
+- logische Labyrinthe
+- Kap 33
+- Approach Inmost Cave
+- Vortex-Vorläufer-Cluster
+- Funktionale Multiplizität
+- FM
+- parakonsistente Logik
+- Gödel-Sätze
+- Verteidigungswaffe
+- Vibrieren des Fundaments
+- Hintergrundrauschen
+- Kap 34
+- Konfrontation
+- Zwei Arten der Kohärenz
+- Ordeal
+- Makro-Log
+- Vor-Vortex-Spannung
+- AEGIS-Datenlast
+- Orkan
+- Sphäre
+- Kap 35
+- Einspeisung des paradoxen Selbst
+- vortex-still
+- Storyform-Übergang
+- Anlauf
+- Erasure-Sweep
+- Gödel-Gambit
+- Einspeisung
+- Dialetheic Choice
+- ANP/EP-Barrieren
+- Pursuit-Adoption
+- Stroke
+- Dialetheia
+- Lösch-Kapazität
+- Truth-Rotation
+- glühender paradoxer Code
+- Genesis-Enthüllung
+- Kap 36
+- Reward
+- Vortex-Auflösung
+- Algorithmische Melancholie
+- Heat-Spike
+- Action-Mandat
+- thermodynamische Kosten
+- Wärme-Phänomen
+- Landauer-Hitze
+- Limit-B
+- Rotation
+- operative Closure
+- AEGIS-monolithisch
+- Wachheit
+- Klick des Erlöschens
+- Kap 37
+- Der Gärtner
+- Phasenübergang
+- kristallisierte Ruhe
+- Hüter
+- Reward-Beat
+- falscher Frieden
+- Gärtner
+- Wir-Gärtner
+- kristallisiertes Gewebe
+- Nichts-Rauschen
+- Kap 38
+- Die Resonanz, die ankommt
+- Road Back
+- IC-S4
+- Das Rauschen kommt
+- Wir-Erkenntnis
+- Junas erste direkte Erscheinung
+- Ankunft einer Konstanten
+- Das Verstehen ohne Worte
+- Vor-Trennungs-Sein
+- Die Entscheidung
+- Ouroboros
+- Kap 39
+- Resurrection
+- Return with Elixir
+- Synthese
+- Apotheose
+- Der Schritt
+- Die Verwandlung
+- Übernahme
+- AEGIS-plural
+- Kael-als-Wir
+- Stille danach
+- Schluss-Klang
+- Genesis 4. Beat
+- Formel-Inversion
+- Wir-AEGIS
+- Verwandlungs-Klick
+- Kap 40
+- Coda-Klammer
+- Synthese-Sicht
+- Synthese-Stimme
+- Echo des Vorworts
+- Echo der Genesis
+- Echo der Krise
+- Echo des Trennungsprotokolls
+- Letztes Bild
+- Selbst-Verstümmelung
+- Mosaik
+- Sisyphos
+- Synoptische Tabelle
+- Genesis-Stimme
+- Echo-AEGIS
+- Algo-Melancholie
+- Storyform-Konsolidierung
+- Ontologische Wendung
+- Genesis-Schleife
+- Klein-c-Inversion
+- Klein-c-Schema
+- post-Dramatica-Synthese
+- Charakter-Auftrittsverteilung
+- OQ-A
+- OQ-C
+- OQ-D
+- OQ-F
+- OQ-G
+- Genesis-Cluster-Zuordnung
+- Spiegel-Alter-Konzeption
+- Moonshine-Boundary
+- Post-Vortex-AEGIS-Status
+- ontologische Heilungs-Schleife
+- Wiederzusammenfinden
+- Konzept-Dokument
+- three-mode-architecture-39-chapters
+- Datenströme
+- Heldinnenreise
+
+## Observations while reading
+
+* L13: „Stand: 2026-05-18", and names its own sources' dates (2026-05-08,
+  2026-05-07). L1393 names the files it integrates and a precedence rule:
+  „Bei Konflikt zwischen Quellen gewinnt das Konzept-Dokument 2026-05-08."
+* L113: a stated cast count — „exakt 13 Alters + AEGIS + Juna + Mnemosyne +
+  Erasure-Pol". The ANP/EP/Sonderfiguren tables (L127–L156) list 5 + 5 + 3.
+* L121 and L1385: Juna's first direct appearance „erst in Kap 38 Beat 3"; the
+  Kap-38 entry (L1174) places it there.
+* L125: Kael's knuckles „die manchmal bluten ohne dass er weiß warum", in the
+  cast section, not in a chapter entry.
+* L158–L161: „Die zwei Guardians (auf 2 reduziert)"; the KW table L172–L175
+  carries a Guardian column with „absorbiert" and „latent".
+* L230–L232: Kap 0's Genesis-Sequenz puts „Komponente 734" before „Die
+  Krise" and its Trennungsprotokoll. The flashback cluster runs Kap 18
+  Cluster-Bildung (L659), Kap 21 Trennungsprotokoll (L731), Kap 22 Komp 734
+  (L755). L1208: „Genesis 4. Beat vollzogen" in Kap 39.
+* L237: „AEGIS (Ursprungs-Ich → Wächter)".
+* L385 and L1128: Landauer warmth in Kap 6 and Kap 36 („Landauer-Wärme als
+  Schluss-Markierung"); L1115 „Heat-Spike (Landauer → ∞)"; L265 Kap 1 „Ozon".
+* L489 and L1057: „Mosaik-Herz" in Kap 11 (HR-Erweiterung 2) and Kap 34
+  („Mosaik-Herz vor Vortex").
+* L415–L433: „Die Wächterin" is Selene's function.
+* Repeated field labels per chapter (POV, Storyform, Bridge, Sensorik,
+  Genesis-Echo, Tonale Achse); Kap 0 and Kap 40 are built differently.
+* 0 question marks: the open questions are a table (L1364–L1375), not
+  sentences.
