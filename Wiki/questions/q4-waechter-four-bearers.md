@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls „Wächter" is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -125,3 +125,10 @@ again it is resolved by the sentence, not the surface (J20).
 `kohaerenz-protokoll-charakter-bibel-2026-05-08-md` calls [[mnemosyne|Mnemosyne]] „Erinnerungs-Wächterin" in her heading (L182) and gives
 [[selene|Selene]] the arc „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L494]
 The word keeps doing different jobs; J20's rule holds.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**AEGIS as Wächter, a register the pages had not seen:** „AEGIS etabliert sich als
+Wächter über die eigenen abgespaltenen Teile." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L72] — a role in the Genesis, not
+a Guardian. The Überwelt holds a „Wächter-Registry" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L538], and Kap 8 keeps its
+feminine title, „Kap 8 — Die Wächterin" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L975]. J20 holds: the sentence decides.
