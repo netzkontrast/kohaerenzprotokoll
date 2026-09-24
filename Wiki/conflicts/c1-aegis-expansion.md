@@ -4,7 +4,7 @@ subject: AEGIS
 kind: expansion of an acronym
 status: open
 first_seen: "2026-09-16"
-sources: 3
+sources: 4
 pages: ["aegis"]
 ---
 
@@ -75,3 +75,8 @@ and something like a substrate in one source: „AEGIS ist Kaels eigene
 Abwehrarchitektur, die zur Welt geworden ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208] A defence that *became*
 the world is not the substrate reality emerges from in position 3; whether it is
 close enough is a reading for the author.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+Position 1 again, as an entry heading: „AEGIS — Autonomous Entropic Gatekeeper for
+Integrity Systems." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299] No other expansion; nothing on which it supersedes.
