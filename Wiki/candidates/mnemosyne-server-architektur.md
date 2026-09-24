@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne-Server-Architektur
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -20,3 +20,8 @@ Zirbeldrüse-Architektur (L258–L261) — and the open-points table repeats it 
 
 Also named as the Vortex-1 setting in the storyform-und-outline (L370), the
 konsolidiertes Konzept (L496) and the Kapitel-Kompendium (L232), not attached.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+Vortex 1, Beat 1: „AEGIS isoliert Kaels Fragmente in der
+Mnemosyne-Server-Architektur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L595].
