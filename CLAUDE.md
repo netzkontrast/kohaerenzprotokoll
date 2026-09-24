@@ -31,6 +31,7 @@ each has one command that rebuilds it:
 | `.venv-tools`, `.venv-dspy`, `.venv-dspytools`, `.venv-typesafe` | the commands under *Installing anything* | only the step that names each |
 | qmd, its models and index | `scripts/setup_qmd.sh` | searching; nothing in the pipeline |
 | `jev-decide` | under *Installing anything* | the vendored `jev*` skills in API mode |
+| `graphify` CLI | `uv tool install --python 3.12 "graphifyy @ git+https://github.com/netzkontrast/graphify@4c735618f3d56fd622c2049771584621c31ba9ff"` | the vendored `graphify` skill |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
 
 The standard-library scripts — `state.py`, `quotes.py`, `read.py`,
@@ -547,6 +548,18 @@ it may not create a page, write a `[[…]]` link, supply a count, or merge two
 surfaces — a guessed edge is indistinguishable from a stated one once it is in
 the graph (see *The wiki links*). Its output directory goes outside `Wiki/` and
 `Sources/`. Nothing in the pipeline calls it yet.
+
+**`.claude/skills/graphify` is the skill `graphify install --project` writes**,
+from `netzkontrast/graphify` commit `4c735618f3d56fd622c2049771584621c31ba9ff`
+(graphify 0.9.67, Apache-2.0 with MIT and NOTICE copied beside it). It drives the
+`graphify` CLI, which is not in the repository — see the table at the top. Only
+the skill folder was kept. The same install also appends rules to `CLAUDE.md`
+and registers `PreToolUse` hooks on `Bash|Grep` and `Read|Glob` that run
+`graphify hook-guard`; neither is here, because in a fresh container the binary
+is absent and every one of those calls would run a failing hook, and the rules
+would route questions to a graph ahead of `read.py`, `corpus.py` and qmd.
+Its `INFERRED` edges are a model's reading under the same limits as
+`knowledge-graph-extract`, and `graphify-out/` is git-ignored.
 
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only
 from a person, and they do different halves of it:

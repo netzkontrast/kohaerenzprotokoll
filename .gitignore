@@ -39,3 +39,6 @@ Plan/derived/
 .venv-dspytools/
 .claude/worktrees/
 .venv-typesafe/
+
+# graphify output (the vendored graphify skill)
+graphify-out/
