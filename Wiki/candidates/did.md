@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -60,3 +60,14 @@ symptoms rather than eliminating the cause ^[kohaerenzprotokoll-aegis-und-system
 
 **This answers a question the first source asked** — *can psychic fragmentation be
 read as a high-entropy state?* ^[entropie-aegis.md:L67]. Yes, and containable.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Background, not structure, and unnamed until Kap 13.**
+
+> „DID-Therapie-Phasen (ISSTD) — Hintergrund, nicht strukturierend" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L446]
+
+> „vor Kap 13 keine Klartext-Diagnose (kein „Alters", kein „DID")" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L46]
+
+The three phases are mapped onto the acts at L446: Stabilisierung (Akt I),
+Traumabearbeitung (Akt II–III-A), Integration/Funktionale [[multiplizitaet|Multiplizität]].
