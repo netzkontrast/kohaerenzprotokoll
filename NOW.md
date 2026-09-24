@@ -307,9 +307,13 @@ at hand; `scripts/check_dspy_skill.py` holds it to the installed DSPy 3.3.1.
 Building it fixed, in place: `lmrun.call` re-raised DSPy 3.3's own
 `LMTransportError` instead of recording `unreachable`; `rlm_ingest.py` could
 call an answer DSPy forced out of an exhausted REPL a reading; `graphrag.py`'s λ
-comment compared two opposite conventions; and `trainset.py`, `pairs.py` and
-`check_dspy_surface.py` stated numbers two ledgers old. Open, none of it
-needing a model:
+comment compared two opposite conventions; `trainset.py`, `pairs.py` and
+`check_dspy_surface.py` stated numbers two ledgers old; and `install.sh` built
+`.venv-dspy` without the numpy and Deno extras. Every quotation in the skill
+was checked once against its source, and each whose words were not the
+source's was corrected; that check is not a standing one, because the nine
+clones it reads are not in a fresh container. Open, none of it needing a
+model:
 
 - **`rlm_ingest.py` has no offline run of its RLM loop.** Its selftest covers
   the tools and the reach. `dspy[deno]` now installs the sandbox, and
