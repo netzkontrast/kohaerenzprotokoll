@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -124,3 +124,11 @@ EP-Protektoren" dominate ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md
 
 **The count had a history**: its quarry had „20 Kernwelten" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13], and the
 filter made them „4 KW als Akt-Marker" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. No Alter count here.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**No world is an Alter's, and no world is a meaning.** „Manifestation von Kaels
+innerer Welt." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L57] — all four, as filters: „Die Welten sind Filter, nicht
+Orte." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L955] And explicitly against a one-to-one reading: „Keine
+Welt-Allegorie." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L922] Alters are placed by trigger (L236, L448) and by
+dominance (L301), never one per world.
