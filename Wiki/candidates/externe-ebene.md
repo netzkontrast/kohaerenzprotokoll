@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -109,3 +109,7 @@ Telefonton, Geruch" ^[kapitel-kompendium-gather-2026-05-31-md.md:L170].
 
 „Kein „außerhalb der Simulation"." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L622] „Nicht „die wahre Realität"." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L692]
 „Bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Nie Bühne — erscheint nur als Erinnerungsfragment, Telefonton, Geruch." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L419]
