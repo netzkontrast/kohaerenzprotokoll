@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 4
+sources: 5
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -31,7 +31,7 @@ The earlier bearers' names reappear as **world names**: KW1 is „Konstrukt-Stad
 (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219], KW2 „Mnemosyne-Archipel" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L220], KW3
 „Cerberus-Labyrinth / Überwelt-Nexus" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L221]. `Kairos` and `Sophia` do not
 occur in the 2026 document. And two worlds are named differently: document 1
-paired Mnemosyne with `Resonanz-Landschaft` and [[cerberus|Cerberus]] with `Grenzfeste`; the
+paired [[mnemosyne|Mnemosyne]] with `Resonanz-Landschaft` and [[cerberus|Cerberus]] with `Grenzfeste`; the
 2026 document's KW2 and KW3 are the Archipel and the Labyrinth.
 
 ## Why this is a conflict and not two facts
@@ -68,7 +68,7 @@ the [[guardians|Guardians]]' place as [[aegis|AEGIS]]' architecture, which Q1 as
 > „Die anderen sind nicht "weg", sondern in diese beiden absorbiert oder zu
 > thematischen Funktionen geworden, die kein eigener Wille mehr brauchen." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]
 
-[[logos|LogOS]] into Mnemosyne, Cerberus into the Erasure-Pol, Kairos/Sophia „latent"
+[[logos|LogOS]] into [[mnemosyne|Mnemosyne]], [[cerberus|Cerberus]] into the Erasure-Pol, [[kairos|Kairos]]/[[sophia|Sophia]] „latent"
 (L51–L54). **So the three positions are now one account and its history, as two
 canon-era sources give it.** What this record said would settle it — a source
 relating the two versions — has arrived. What it cannot do is make the 2025
@@ -87,16 +87,28 @@ author decides it, and the decision will be written here with its date.
 ## 2026-09-24 — decided by the author: five Guardians
 
 Asked „Sollen die fünf wiederkommen, bleibt es bei zwei, oder ist es etwas
-Drittes?", the author answered **five**, and confirmed: *five Guardians — LogOS,
-Mnemosyne, Cerberus, Kairos and Sophia*.
+Drittes?", the author answered **five**, and confirmed: *five [[guardians|Guardians]] — [[logos|LogOS]],
+[[mnemosyne|Mnemosyne]], [[cerberus|Cerberus]], [[kairos|Kairos]] and [[sophia|Sophia]]*.
 
 **What this decides:** the count and the names. The 2026 readings of two
-Guardians and of absorption („in Mnemosyne absorbiert", „in Erasure-Pol
+[[guardians|Guardians]] and of absorption („in Mnemosyne absorbiert", „in Erasure-Pol
 absorbiert", „latent") stay on the pages as what those documents said, dated, and
 are no longer the arrangement.
 
-**What it does not decide:** how the five relate to the four Kern-Welten. The
-2025 sources pair them (Kairos and Sophia sharing one world); the 2026 source says
+**What it does not decide:** how the five relate to the four [[kern-welten|Kern-Welten]]. The
+2025 sources pair them ([[kairos|Kairos]] and [[sophia|Sophia]] sharing one world); the 2026 source says
 „KEIN Guardian-1:1". That is now its own question, `q5-guardians-and-kern-welten`.
 Nor does it decide the `Erasure-Pol`, which the 2026 sources name and the five do
 not include.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+A fourth 2026 statement for two: „Die alten Drafts hatten fünf Guardians (LogOS,
+Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L210]
+
+It absorbs differently from the character bible — „Die alten Cerberus-, LogOS-,
+Kairos-Funktionen sind in diesem Pol absorbiert." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217] — and places no Guardian
+over a world: „Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462]
+
+The author decided the count for five above. This source is recorded and changes
+nothing in that decision; where the five sit is Q5.
