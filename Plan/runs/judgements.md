@@ -955,3 +955,101 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L155: the Trennungsprotokoll „die das Ursprungs-Ich (Juna) ins Nichts-Rauschen verbannt“; L146–L147: the Ursprungs-Ich is in the Potentialmeer and resonates with Juna.
 
 **Result.** TWO terms. The gloss is a reading on juna and a question for the author; the same document keeps the two apart two entries earlier.
+
+## J69 — Akt I / Bauchreaktion
+
+**two-terms** · koharenz-protokoll-strukturierter-outline-2026-05-18-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a match that exists only after folding joins or cuts words is not containment, and no evidence either way
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, fold-artifact
+
+**Question.** whether a fold match that crosses a word boundary is containment
+
+**What was done.** reconcile.py paired Akt I with Bauchreaktion and Z1-/Z2-/Z3-Reaktion (fold akti inside reaktion), Charakter-Personal with personas, and the AEGIS expansion with Das System.
+
+**Result.** TWO terms in every case. The shared letters exist only after folding joined or cut the words; nothing in either sentence relates them.
+
+## J70 — Kael-MC / Kael
+
+**one-term** · koharenz-protokoll-strukturierter-outline-2026-05-18-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming a bearer's role in a storyform is a reading on the bearer, not a new term
+- **mechanised by:** `nothing`
+- **features:** compound, dramatica-role
+
+**Question.** whether a storyform's main-character label is a term of its own
+
+**What was done.** L44 „Storyform A — Heuristics of Integration (Kael-MC)“ and L55 „Storyform B — Phoenix Collapse (AEGIS-MC)“; both followed by the MC's dynamics.
+
+**Result.** A reading on the bearer: Kael's and AEGIS' Approach and Resolve go on their pages (C8), not on a page for the label.
+
+## J71 — Moonshine / Moonshine-Link
+
+**judgement** · koharenz-protokoll-strukturierter-outline-2026-05-18-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a head that names both a link and the mathematics it is named after is resolved by the sentence, never by the surface (J11, J20)
+- **mechanised by:** `nothing`
+- **features:** head-only, named-after
+
+**Question.** whether the bare head names the link
+
+**What was done.** L469 „Moonshine als Werkzeug (Quanten-Nichtlokalität)“ and L957 „Moonshine als bewusster Kanal“ use the link; L481 „Moonshine als Echo der Cluster-Bildung — die Mathematik der ursprünglichen Differenzierung“ names the mathematics.
+
+**Result.** By sentence: L469 and L957 are readings on moonshine-link; L481 is the mathematics the link is named after, not the link.
+
+## J72 — Synthese (c) / Synthese
+
+**one-term** · koharenz-protokoll-strukturierter-outline-2026-05-18-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a parenthetical index a document attaches to a term's name is part of the label, not a new term
+- **mechanised by:** `nothing`
+- **features:** parenthetical-index
+
+**Question.** whether a letter in brackets makes a new term
+
+**What was done.** L83, L196 „Synthese (c)“; L1192 „Synthese vollzogen“; L1341 „Die Synthese (c) verlässt das Klein-c-Schema“.
+
+**Result.** ONE term; no page (the document's Dramatica structure, as in earlier reconciliations).
+
+## J73 — Wir-AEGIS-plural / Wir-AEGIS
+
+**one-term** · koharenz-protokoll-strukturierter-outline-2026-05-18-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** surfaces a source uses for the one state it describes are one term among themselves; the page waits for the name the source marks open (J47)
+- **mechanised by:** `nothing`
+- **features:** later-state, open-name
+
+**Question.** whether the final form's names — Wir-AEGIS-plural, Wir-AEGIS, AEGIS-plural — are one term
+
+**What was done.** L1192 „Wir-AEGIS-plural“, L1206 „AEGIS-plural entsteht“, L1212 „Wir-AEGIS ist, was Wir-AEGIS bewahrt“; L1369: „Wir-AEGIS-plural“ ist Arbeitsbegriff.
+
+**Result.** ONE term among themselves, and not AEGIS (J47). Still no page: the source marks the name as open (OQ-A).
+
+## J74 — AEGIS-Echo / Echo-AEGIS
+
+**two-terms** · koharenz-protokoll-strukturierter-outline-2026-05-18-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound is placed by what it names; two compounds of the same parts in different order can name different bearers (J28, J49)
+- **mechanised by:** `nothing`
+- **features:** compound, word-order
+
+**Question.** whether the two compounds of AEGIS and Echo name one thing
+
+**What was done.** L156 „Oblivion (AEGIS-Echo)“ — an Alter; L1304 „Echo-AEGIS“ in Kap 37's row, the entry's „Echo von AEGIS (algorithmische Melancholie)“ (L1148).
+
+**Result.** TWO terms: one is Oblivion, the other AEGIS after Vortex 1 (a reading on aegis and algorithmische-melancholie).
+
+## J75 — Ursprungs-Ich / AEGIS
+
+**two-terms** · koharenz-protokoll-strukturierter-outline-2026-05-18-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a gloss that one source writes and another contradicts is a reading, never a merge (J51, J68)
+- **mechanised by:** `nothing`
+- **features:** gloss, contradicting-sources
+
+**Question.** whether „AEGIS (Ursprungs-Ich → Wächter)“ makes the Ursprungs-Ich AEGIS
+
+**What was done.** L237, Kap 0's characters: „AEGIS (Ursprungs-Ich → Wächter)“. The glossary glosses the Ursprungs-Ich as Juna (J68).
+
+**Result.** TWO terms. A reading on aegis and a third position for the author's J68 question: Juna, what Juna resonated with, or AEGIS.
