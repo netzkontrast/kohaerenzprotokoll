@@ -739,14 +739,14 @@ and cannot go stale in a list.
 
 ## Known failing
 
-**`scripts/qmd_coverage.py` cannot fail while a collection is rooted at `.`.**
-It counts a file as covered when the file lies under any collection's root
-path, and the `decisions` and `all` collections are rooted at `.`, narrowed
-only by their patterns. So every markdown file passes, including `scripts/`
-and `.agents/skills/`, which no pattern indexes. Found by reading the script
-and `.qmd/index.yml` on 2026-09-24, and not run: that container had no qmd
-binary. The fix is to test a file against each collection's pattern, not its
-root.
+**The qmd coverage check reads collection patterns.** The previous version
+treated a collection rooted at `.` as covering all descendants, even when its
+pattern excluded them. It now checks `.qmd/index.yml`'s path and glob for each
+collection, with an offline test that exposes this exact defect. Tool and agent
+instructions under `scripts/`, `.agents/skills/` and `.claude/skills/` are
+explicit exclusions: qmd searches the novel corpus and process records, while
+those files are read directly when working on code. The check needs no qmd
+binary; it checks configured coverage, not the contents of an installed index.
 
 **Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
 quotations fail `scripts/quotes.py`, and 0 <!--state:quotes.unchecked-->
