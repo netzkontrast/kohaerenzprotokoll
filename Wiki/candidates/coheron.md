@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -35,7 +35,7 @@ What a Coheron is in the physics proper. The document excludes that on purpose:
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
-**What [[aegis|AEGIS]] takes for an error.** „Juna = Systemfehler" is AEGIS' belief; „Juna
+**What [[aegis|AEGIS]] takes for an error.** „Juna = Systemfehler" is [[aegis|AEGIS]]' belief; „Juna
 = echtes Coheron (Verbindung, die nie zerstört werden kann)" is what holds
 ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L108]. Why AEGIS cannot see them: „weil AEGIS' Sensorik strukturell temporal
 arbeitet und Coheronen atemporal sind" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L256]. The closing formula is the one
@@ -43,3 +43,9 @@ the other canon-era source gives: „Liebe ist Coheron. Coheron ist atemporal."
 ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1300]
 
 Silas' DKT-Korrelat is „Coheron-Echo" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L730] — see [[silas]].
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Coheronen (K₁-Domäne) sind selbstkorrigierende Schleifen mutualer Information." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L110] „Coheronen sind reversibel, informationserhaltend, symmetrisch." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L110]
+
+„Liebe ist Coheron." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L38] Erasure cannot touch one: „Löschung braucht ein Vorher und ein Nachher. Coheronen haben keines." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L159] And KW4 is the „Einzige Zone, in der neue Coheronen entstehen können" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L518].
