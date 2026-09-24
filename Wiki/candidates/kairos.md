@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -88,3 +88,7 @@ and says why: „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerbe
 Kairos, Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The earlier readings on this
 page are what this document calls earlier drafts. Recorded, not applied — see
 `C6`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Absorbed into the Erasure-Pol (L217), where the character bible called it latent. Its world is renamed away from it: „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] — and still headed „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517].
