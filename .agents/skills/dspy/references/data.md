@@ -150,16 +150,16 @@ default of 32 (`scripts/pairs.py:132`; `api.md` has the DSPy-level assertion
 this avoids).
 
 **Optimizers pick their own split when none is given, and each picks
-differently** — measured against 3.3.1 source: GEPA with no `valset` reuses the
-trainset; MIPROv2 with no `valset` uses the last 80%; `BetterTogether` takes the
-first 10%; `InferRules` splits 50/50, unshuffled, first half for rules and
-second half to choose among them
-(`dspy-agent-skills:skills/dspy-evaluation-harness/reference.md:246`, verified
-against `SP/dspy/teleprompt/gepa/gepa.py:568-572`,
-`mipro_optimizer_v2.py:319-334`, `bettertogether.py:320-345`,
-`infer_rules.py:23-26`; `api/FINDINGS.md` item 7 confirms `InferRules`'
-unshuffled `trainset[:n//2]`/`trainset[n//2:]` against the installed 3.3.1
-package). None of these shuffles. This is exactly why `pairs.py` never lets an
+differently** — re-verified here against the installed 3.3.1 package: GEPA with
+no `valset` sets `valset = valset or trainset`
+(`dspy:dspy/teleprompt/gepa/gepa.py:571`); MIPROv2 with no `valset` takes
+`valset_size = min(1000, max(1, int(len(trainset) * 0.80)))` off the end
+(`dspy:dspy/teleprompt/mipro_optimizer_v2.py:326`); `BetterTogether`'s default
+`valset_ratio` is `0.1`, taken off the *front* of the trainset when no `valset`
+is passed (`dspy:dspy/teleprompt/bettertogether.py:206,320-345`); `InferRules`
+splits `int(0.5 * len(trainset))`, unshuffled, first half for rule induction and
+second half to select among the candidate rules
+(`dspy:dspy/teleprompt/infer_rules.py:25`). None of these shuffles. This is exactly why `pairs.py` never lets an
 optimizer choose its own valset: every fold handed to `.compile()` is explicit,
 from `folds()`, above.
 
@@ -189,7 +189,20 @@ docstring names the three actual misses precisely: `J4`, `Kern-Welten` /
 enough to merge a plural also merges `Negentropie` with `Entropie`"; `J6`,
 `J14`, a slash inside a heading, for which "no rule exists"
 (`scripts/trainset.py:15-24`). "So the 18% gap is the boundary of what a safe
-deterministic rule can claim, not a defect in it." This is a *found* difficulty
+deterministic rule can claim, not a defect in it." **That sentence is stale as
+a number, current as a shape.** It was written when the ledger held 17 rows
+(14/17 = 82%, an 18% gap); `fold()` now decides 33
+<!--state:pairs.fold_correct--> of 57 <!--state:pairs.labelled--> — a 42% gap,
+not 18%. The one growth step this repository measured at the time, 17 rows to
+26, kept the *shape* of every new miss the same: "Every new miss is a plural or
+an inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
+`AEGIS`/`Rest-AEGIS`. `fold()` strips the German definite article and does
+nothing else." (`NOW.md`). Whether every miss from 26 rows to the current 57 is
+still that same shape is not measured here; what still holds is the identity of
+the three original boundary cases (J4, J6, J14), not the fraction. This file
+does not correct `trainset.py`'s own docstring — a description that outruns
+what the repository currently measures is the same defect there as it would be
+here (P2). This is a *found* difficulty
 tier, in contrast with the book's *designed* three tiers — clear (baseline
 should pass), boundary (might fail), ambiguous (hard for any model), with
 ambiguous cases logged separately as `needs_clarification` rather than forced
@@ -316,12 +329,15 @@ complete"
 (`dspy-agent-skills:articles/03-inside-the-examples.md:112`;
 `skills/dspy-book-optimizers/SKILL.md:65-67`; `examples/03-invoice-extraction/results.json`).
 
-**Row order decides the split.** Appending new rows to the end of a JSONL file
-sends every one of them to MIPROv2's implicit last-80%-as-valset when no
-explicit split is passed — a dataset that grows by appending silently reshapes
-its own valset (`dspy-agents:dspy_optimize/compile_rag.py`, cited in
-`api/FINDINGS.md`-adjacent reading; the same fact `metrics.md`'s optimizer table
-notes for `MIPROv2`). This is exactly the shape `pairs.py folds()` refuses: a
+**Row order decides the split.** `dspy-agents` names the consequence directly:
+"Appending new domains at the end of the file sends them all to MIPROv2's
+valset" (`dspy-agents`, reading against its own `compile_rag.py`, which loads a
+JSONL in file order with no shuffle) — the reason is MIPROv2's own default
+behaviour, verified above: `valset = trainset[cutoff:]` takes the *last* 80% of
+whatever order the caller handed it, keeping only the first 20% to train on
+(`dspy:dspy/teleprompt/mipro_optimizer_v2.py:326`). A dataset that grows by
+appending silently reshapes its own valset. This is exactly the shape
+`pairs.py folds()` refuses: a
 new judgement appended to `Plan/runs/judgements.jsonl` changes `folds()`'
 output — because the hash key is the row's own `id`, not its position — only by
 adding one row to whichever fold its hash lands in, never by reshaping a whole

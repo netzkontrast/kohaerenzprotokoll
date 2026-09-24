@@ -150,7 +150,7 @@ repositories, verified by their readers against DSPy 3.3.1.
 adapter=None)`** answers from a list of dicts (served in order, then
 `{"answer": "No more responses"}`), or a dict keyed by a substring of the last
 message, and honours `n` so `config={"n": 5}` yields five completions
-(`session-optimizer.md`, `[session]` item; `dspy/utils/dummies.py:16-160`).
+(`session-optimizer.md`, `[session]` item; `dspy:utils/dummies.py:16-160`).
 Because it formats every answer through the configured adapter before
 returning it, an answer built this way parses on the first try by
 construction — useful for exercising a program's logic, useless for
@@ -219,7 +219,7 @@ test `test_partial_explicit_fields_infer_rest` was unmocked — it calls
 `openrouter/openai/gpt-oss-120b`. Running the suite under an offline guard
 recorded the attempt: `litellm.completion(model='openrouter/openai/gpt-oss-
 120b')`, reached through `runner.py:228` → `metric_builder.py:296` →
-`dspy/predict/rlm.py:728`, and raising `LMUnexpectedError` only because the
+`dspy:predict/rlm.py:728`, and raising `LMUnexpectedError` only because the
 guard was there to refuse it (`dspy-auto-gepa:tests/test_auto_gepa.py:538-560`).
 Its sibling tests *do* patch `dspy_auto_gepa.runner.generate_metric_file`
 (`dspy-auto-gepa:tests/test_auto_gepa.py:479,501`); this one alone falls
@@ -309,9 +309,10 @@ teach**, in three unrelated parts, run over every `.md` file under
    (`scripts/check_dspy_skill.py:404-422`) — so the marks and the probes
    **cannot drift apart silently** (P23). A probe that needs Deno and finds it
    absent returns `NotRun(...)`, counted separately from held and from failed.
-3. **Paths** — every backticked path under `scripts/Plan/Wiki/Sources/.agents/.claude`
-   this skill names must exist, and a cited line number must be inside the
-   file (`scripts/check_dspy_skill.py:427-440`).
+3. **Paths** — every backticked path this skill names under `scripts/`,
+   `Plan/`, `Wiki/`, `Sources/`, `.agents/` or `.claude/` must exist, and a
+   cited line number must be inside the file
+   (`scripts/check_dspy_skill.py:427-440`).
 
 Its own `--selftest` is **9 cases**, each a skill built to break one rule and
 checked for the exact reason it must fail: a wrong parameter name, a wrong
@@ -419,13 +420,13 @@ this repository: a `surface` block is signature-level, and only a
 `[checked: …]` probe runs real behaviour.
 
 Also worth naming once, because each is a slightly different failure inside
-the same family: `auto-gepa`'s test asserting a maximum call size of 2 that
-never reads the config field it claims to bound
+the same family: `dspy-auto-gepa`'s test asserting a maximum call size of 2
+that never reads the config field it claims to bound
 (`dspy-auto-gepa:tests/test_generator.py:589-634`); its 14 tests that keep
 three functions (`_subsample_balanced`, `RejectionSampler`, `DiversityChecker`)
 looking alive although the real pipeline never calls any of them
 (`dspy-auto-gepa:tests/test_generator.py:1188-1382`,
-`dspy-auto-gepa:tests/test_quality.py:18-175`); `das-rlm-rag`'s
+`dspy-auto-gepa:tests/test_quality.py:18-175`); `dspy-agent-skills`'s own
 `validate_dag` cycle test with no `else: raise`, which would pass a
 `validate_dag` that had quietly stopped raising on a cycle
 (`dspy-agent-skills:skills/dspy-rlm-workflow/example_rlm_workflow.py:164-168`);

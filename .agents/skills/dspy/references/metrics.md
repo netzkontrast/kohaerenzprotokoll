@@ -251,7 +251,7 @@ the arithmetic). Treat the book's 80–90% bar as a floor, not a ceiling.
 - declared uncertainties buy the "unsupported claims" score down to zero —
   three declared uncertainties turn a 1.0 into 0.0 regardless of whether the
   claims were actually supported
-  (`dspy-agent-skills:skills/dspy-autodialectics/example_autodialectics.py:190-201`,
+  (`dspy-agent-skills:skills/dspy-autodialectics/example_autodialectics.py:190,194,201`,
   verified: probes AD2, AD7);
 - feedback names a number, never a cause — the code emits `"fake_completion
   1.00; unsupported_claims 1.00; …"` where the docs promise "fake completion:
@@ -269,7 +269,7 @@ names both as additions the book itself does not cover. The one built defence
 against position bias in the nine repositories is a randomized-position
 pairwise judge: `swap = random.random() < 0.5; candidate_won = (verdict == ("A"
 if not swap else "B"))`
-(`dspy-agent-skills:skills/dspy-book-coding-agents/reference.md:57-60`) — the
+(`dspy-agent-skills:skills/dspy-book-coding-agents/reference.md:46-64`) — the
 pattern to reuse if a pairwise judge is ever built here.
 
 **When a pattern table beats a judge.** "~18 compiled regex patterns for known
@@ -347,7 +347,9 @@ encoding per rule, and a self-test that proves which one is intended.
 
 One row per defect found, sorted by repository. Each is a check that returns a
 number indistinguishable from a real pass on an input that should not have
-passed. `SKILL.md`'s own table is the six-row summary of this one.
+passed. `SKILL.md`'s *The finding that repeats across the nine repositories*
+names the shape and points here for the line: "`references/metrics.md` has the
+table, one row per repository with the line."
 
 | repository | the check | what it returns, and on what |
 |---|---|---|
@@ -376,7 +378,7 @@ passed. `SKILL.md`'s own table is the six-row summary of this one.
 | `dspy-session` | `on_metric_error="zero"` | a raised exception and a genuinely wrong answer both score **0.0**, indistinguishably (`dspy-session:dspy_session/session.py:1111-1135`, verified) |
 | `dspy-agent-skills` (wiki-compile) | the weighted compile metric | `_mean([])` = **1.0** — an empty extraction scores 0.70 and reports "clean" (`dspy-agent-skills:skills/dspy-wiki-compile/example_wiki_compile.py:161-170,224-237`, verified: dry-run) |
 | `dspy-agent-skills` (adversarial-review) | `judge_metric` | an empty flag, a one-word flag, or the whole artifact used as one flag all score **1.0**, "every claim found, none invented" (`dspy-agent-skills:skills/dspy-adversarial-review/example_adversarial_review.py:85-121`, verified: probes A1, A2, A2b) |
-| `dspy-agent-skills` (autodialectics) | objection coverage | **1.0** when nothing was objected to — the code's own named anti-pattern (`dspy-agent-skills:skills/dspy-autodialectics/example_autodialectics.py:219-230`, verified: probe AD5) |
+| `dspy-agent-skills` (autodialectics) | objection coverage | **1.0** when nothing was objected to, and out-of-range `objection_index` values still count — the anti-pattern `SKILL.md:183` names by name (`dspy-agent-skills:skills/dspy-autodialectics/example_autodialectics.py:223`, verified: probe AD5) |
 | `dspy-agent-skills` (`drg-kg`, via its skill) | extraction with no LM configured | documented to return an **empty graph** confidently unless `DRG_REQUIRE_LM=1`; the note found this path unreachable in practice once auto-config runs — a claim that did not reproduce, recorded either way (`dspy-agent-skills:skills/dspy-drg-kg/SKILL.md:90-103`; `drg/extract/__init__.py:190-203`, verified: two installs) |
 | `dspy-agent-skills` (TARA, via its skill) | the context-quality gate at the final retry | **always outputs**, even below threshold — the example's own printed "only total<20 escalates" is false at its own numbers (`dspy-agent-skills:skills/dspy-tara-rag/example_tara.py:81-86,137-139`; upstream `loop.py:318-333`) |
 | `dspy-agent-skills` (core) | the CI regression gate | `assert result.score >= 0.75` passes for **any score of 0.75% or more**, because `.score` is a 0–100 percentage (`dspy-agent-skills:skills/dspy-evaluation-harness/SKILL.md:104`, verified: behav2.py) |
