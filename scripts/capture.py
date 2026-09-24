@@ -45,6 +45,8 @@ PROFILE = ROOT / "scripts" / "profile.py"
 
 WORD = re.compile(r"[A-ZÄÖÜ][A-Za-zäöüß]{3,}")
 PROSE = re.compile(r"\*\*|`|\. |, ")
+# The declaration every reconstructed candidate list carries. scripts/gold.py reads it too.
+RECONSTRUCTED = "Reconstructed, not original"
 
 
 def candidate_terms(markdown: str) -> list[str]:
@@ -262,7 +264,7 @@ def count(slug: str) -> Path:
         for form, n in surfaces(term, text):
             out.append(f"  {'':30} {n:4}      as {form}")
     (run / "04-counts.txt").write_text("\n".join(out) + "\n", encoding="utf-8")
-    reconstructed = "Reconstructed, not original" in candidates
+    reconstructed = RECONSTRUCTED in candidates
     write_json(run, slug, "counts", {
         "candidate_source": "reconstructed-from-census" if reconstructed else "written-while-reading",
         "usable_as_baseline": not reconstructed,

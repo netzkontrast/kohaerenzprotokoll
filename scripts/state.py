@@ -393,27 +393,17 @@ def _ts_base() -> int:
     return round(_fold_baseline()["accuracy"] * 100)
 
 
-@measure("trainset.gold_candidate_lists", "candidate lists written while reading, not reconstructed")
+@measure("trainset.gold_candidate_lists", "candidate lists scripts/gold.py rules gold (decision 009)")
 def _ts_gold() -> int:
-    """A list says who wrote it. Absent that, the old substring test decides.
+    """Asked of scripts/gold.py, the one place the rule lives.
 
-    The test used to be „does the first 300 characters contain 'reconstruct'",
-    which is a claim about wording rather than about provenance: a list whose
-    prose *denies* being a reconstruction matches it, and a model's list that
-    never says the word passes as gold. The four lists from documents 1-4 predate
-    the marker and still fall back to the substring, because for them the
-    substring is what the file actually says.
+    This used to be two tests of wording: the word "reader" in a `written_by:`
+    line, else no "reconstruct" in the first 300 characters. It counted 2 while
+    `trainset.blocked()`, with its own test, counted 9 usable — one question, two
+    answers. Gold is now decided by what a list is, not by how its header reads.
     """
-    runs = ROOT / "Plan" / "runs"
-    gold = 0
-    for path in runs.glob("*/03-candidates.md"):
-        head = path.read_text(encoding="utf-8")[:300]
-        written_by = re.search(r"^written_by:\s*(.+)$", head, re.M)
-        if written_by:
-            gold += "reader" in written_by.group(1).lower()
-        elif "reconstruct" not in head.lower():
-            gold += 1
-    return gold
+    from gold import gold_slugs
+    return len(gold_slugs())
 
 
 # ---------------------------------------------------------------- index READMEs

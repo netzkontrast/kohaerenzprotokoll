@@ -21,7 +21,7 @@ python3 scripts/entities.py matrix            # every verified entity × every l
 python3 scripts/entities.py missing           # used widely, no wiki page (P10's MISSING)
 python3 scripts/entities.py doc <slug>        # which known entities one document uses
 python3 scripts/entities.py search <entity>   # where, how often, first line
-python3 scripts/entities.py score <slug>      # against a reader's list, where one exists
+python3 scripts/entities.py score <slug>      # against the document's list, where scripts/gold.py rules it gold
 ```
 
 Three rules hold for everything derived from them:

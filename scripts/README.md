@@ -91,6 +91,7 @@ encodings of one rule drift apart on the first edit (P6).
 | file | does | writes |
 |---|---|---|
 | `state.py` | Every number about the repository, measured. `--prose` fails on a number in any markdown that contradicts its measurement, `--check` on a drifted `Plan/state.json`, `--get KEY` prints one. | without a flag: `Plan/state.json` |
+| `gold.py` | Which candidate lists are gold, by five criteria checked in code (decision 009): a list, not a reconstruction, counted, unchanged since its count, and at least 90% of its terms in the document. `<slug>` prints one list's evidence. `state.py`, `trainset.py` and both scorers ask it. | — |
 | `selftest.py` | Proves `quotes.py`, `read.py --find` and `fold()` can fail, each case carrying the exact defect it must name. | — |
 | `selftests.py` | Runs every self-test in the repository, four at a time, one line each: held, FAILED, or not run. `run()` hands `ui.py` the same rows. | — |
 | `check_skills.py` | Checks `.agents/skills/` against the agent-skills spec, and that each `.claude/skills/<name>` is a symlink to it. | — |

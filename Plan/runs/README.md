@@ -63,11 +63,13 @@ over: **the first four documents cannot serve as a model gold set for the
 extraction step**, which is exactly what three hand-read documents were supposed
 to be for.
 
-Documents 5 and 6 are the first with a list a reader wrote while reading, and
-they are what `scripts/state.py` counts as gold:
-2 <!--state:trainset.gold_candidate_lists--> lists. From document 7 on, the list
-was written by the session doing the reading, before any count, and its
-`written_by:` line says so; it is not counted as gold.
+**Which lists are gold is decided by `scripts/gold.py`** (decision 009): a
+list written while reading, counted, unchanged since its count, and of its
+document. 9 <!--state:trainset.gold_candidate_lists--> are gold today,
+documents 5 to 13. Documents 5 and 6 say a reader wrote them; from document 7
+on, the session reading the document wrote the list before any count, and its
+`written_by:` line says so. `python3 scripts/gold.py` prints every verdict and
+the criterion a list fails.
 
 ## Superseded finished artifacts
 

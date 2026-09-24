@@ -217,7 +217,8 @@ def judge(share: float, unread: list, uncited: list, reach_share: float, forced:
     """The header's verdict. A forced answer is never a reading, whatever it cites."""
     if forced:
         return "PARTLY RECONSTRUCTED — the REPL ran out of iterations and DSPy forced the answer"
-    if share >= 0.9 and not unread and not uncited and reach_share >= 0.9:
+    from gold import IN_DOCUMENT  # the bar a list must clear to be a reading of the document
+    if share >= IN_DOCUMENT and not unread and not uncited and reach_share >= 0.9:
         return "a reading — every candidate carries a line that holds it, and they reach the end"
     return "PARTLY RECONSTRUCTED — treat as a draft, not as a reading"
 
@@ -327,6 +328,9 @@ def score(slug: str) -> int:
     for path in (gold_path, pred_path):
         if not path.exists():
             raise SystemExit(f"missing {path.relative_to(ROOT)}")
+    from gold import refusal
+    if refused := refusal(slug):
+        raise SystemExit(refused)
     gold = candidate_terms(gold_path.read_text(encoding="utf-8"))
     pred = candidate_terms(pred_path.read_text(encoding="utf-8"))
     metric = _score_sets(gold, pred, key_fn=fold)

@@ -167,8 +167,8 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 2,
-      "how": "candidate lists written while reading, not reconstructed"
+      "value": 9,
+      "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
       "value": 57,

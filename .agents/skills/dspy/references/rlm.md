@@ -78,7 +78,7 @@ keeps instead.
 
 | field | what it means |
 |---|---|
-| `written_by:` | `dspy.RLM, model <m>, <n> iterations, <s>s — <verdict>`. The verdict clause is `judge()`'s string. `scripts/state.py`'s `trainset.gold_candidate_lists` measure reads a `written_by:` line to tell a reader's list from a reconstruction — but only on files named `03-candidates.md` (below), so this file is excluded from that glob before the line is ever read |
+| `written_by:` | `dspy.RLM, model <m>, <n> iterations, <s>s — <verdict>`. The verdict clause is `judge()`'s string. `scripts/gold.py` rules only on files named `03-candidates.md` (below), so a model's file is never a candidate for gold |
 | `ran:` | today's date |
 | `verified:` | tier 1 — `good` of `total` candidates whose cited line, checked by the same comparison `quotes.py` uses, actually contains the term (`verified()`, `scripts/rlm_ingest.py`) |
 | `reach:` | tier 2 — the furthest verified citation's line as a share of the document's own span, and how many of ten equal-width "tenths" of that span at least one verified citation falls in (`reach()`, `scripts/rlm_ingest.py`) |
@@ -113,8 +113,9 @@ a full-coverage one, and `judge()` on a forced case versus a complete one
 - **Write `03-candidates-rlm.md`, never `03-candidates.md`.** "The gold list
   is written by a reader while reading; a model's list is the thing gold is
   used to score, and the two must never be able to become each other." Two
-  guards enforce it, not one: the filename keeps `state.py`'s glob from ever
-  matching the model's file, and `written_by:` is the second, in-file check.
+  guards enforce it, not one: the filename keeps `scripts/gold.py` from ever
+  ruling on the model's file, and `--score` refuses a reference list `gold.py`
+  does not rule gold.
 - **Propose and stop.** No page, no judgement, no conflict, no census is
   written from here — those are decisions, and an ingest proposes rather than
   resolves.

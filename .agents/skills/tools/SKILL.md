@@ -227,11 +227,12 @@ ledger specified in three places whose directory does not exist.
 - **`promote` does not exist**, and `Wiki/terms/` therefore does not exist:
   nothing has been promoted, and there is no rule yet for what happens when a new
   source contradicts a page a person signed off.
-- **Extraction is not yet trained.** Nine `Plan/runs/<slug>/03-candidates.md`
-  carry no reconstruction mark — documents 5 to 13 — and four are reconstructions
-  (counted 2026-09-24 by each file's header; this line said „one" until then).
-  Only documents 5 and 6 have been scored against, and no extractor tested so far
-  reaches the Haiku floor on them (`Plan/concept/tool-review_2026-09-24.md`).
+- **Extraction is not yet trained.** `scripts/gold.py` rules
+  9 <!--state:trainset.gold_candidate_lists--> `Plan/runs/<slug>/03-candidates.md`
+  gold — documents 5 to 13 — and none of the four reconstructions (decision 009;
+  this line said „one" until 2026-09-24). Only documents 5 and 6 have been scored
+  against, and no extractor tested so far reaches the Haiku floor on them
+  (`Plan/concept/tool-review_2026-09-24.md`).
 
 `references/commands.md` has every script's full surface and its artifacts, and
 `scripts/README.md` is the map of the folder — one entry per file, what it is

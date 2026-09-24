@@ -1093,7 +1093,9 @@ seen.
 the baseline anything automated gets scored against. The first four documents
 have none — it was never written down — so their reconstructions are marked as
 reconstructions and **cannot serve as a gold set.** `Plan/runs/README.md` says so
-plainly rather than papering over it.
+plainly rather than papering over it. **Which lists are gold is decided by rule**
+in `scripts/gold.py` (decision 009): written while reading, counted, unchanged
+since the count, and of its document — whoever wrote it.
 
 ## Learnings
 

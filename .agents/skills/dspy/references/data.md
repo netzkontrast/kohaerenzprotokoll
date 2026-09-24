@@ -53,26 +53,18 @@ looked exactly like a term the document did not contain
 (`scripts/capture.py`). This is what `rlm_ingest.py score()` and
 `entities.py cmd_score()` both score a model's list against.
 
-**A reconstruction is refused as gold, in two different scripts.** `rlm_ingest.py`
-writes `03-candidates-rlm.md`, never `03-candidates.md`: "the gold list is
-written by a reader while reading; a model's list is the thing gold is used to
-score, and the two must never be able to become each other"
-(`scripts/rlm_ingest.py`). `entities.py cmd_score()` reads the first
-section of a `03-candidates.md` file and refuses it outright if it contains the
-word "Reconstructed":
-
-```python
-if "Reconstructed" in gold_text.split("\n## ")[0]:
-    print(f"{slug}'s list is a reconstruction and cannot serve as gold")
-    return 1
-```
-
-(`scripts/entities.py`). `trainset.blocked()` reports the same refusal
-at the level of a whole task: as of the first four documents, every candidate
-list was "a reconstruction written after the counts, not while reading …
-`capture.py` refuses to count before a list exists, so document 5 onward can
-produce real ones — these cannot"
-(`scripts/trainset.py`; `CLAUDE.md`, *Every step keeps its artifact*).
+**Which lists are gold is decided in one place, by rule.** `scripts/gold.py`
+rules a list gold when it is a list, carries no reconstruction's declaration,
+was counted, is unchanged since the count, and has at least 90% of its terms in
+the document (decision 009). Who wrote it — a person or the session reading the
+document — does not decide it; the verdict keeps the `written_by:` line so a
+score can say which it was. `state.py`, `trainset.blocked()`, `entities.py
+score` and `rlm_ingest.py --score` all ask it, where each used to test the
+header's wording its own way, and two of them disagreed (2 gold against 9
+usable). A model run's own list never reaches it: `rlm_ingest.py` writes
+`03-candidates-rlm.md`, never `03-candidates.md` — "the gold list is written by
+a reader while reading; a model's list is the thing gold is used to score, and
+the two must never be able to become each other" (`scripts/rlm_ingest.py`).
 
 ## Examples
 
@@ -369,9 +361,9 @@ rather than by rule.** Fold membership by id-hash, so a judgement's position in
 the file never decides its fold; canaries excluded from the labelled pool
 entirely, not merely held out of a split; `pairs.py` reading the ledger live so
 a cached export can never silently diverge from what a judgement replay checks
-against (*In this repository*, above); `entities.py score` refusing a "gold"
-file that says "Reconstructed" of itself; and `rlm_ingest.py` writing its own
-list under a name the gold list never has. None of these is
+against (*In this repository*, above); `entities.py score` and
+`rlm_ingest.py --score` refusing a list `gold.py` does not rule gold; and
+`rlm_ingest.py` writing its own list under a name the gold list never has. None of these is
 copied from a nine-repository pattern — each is this repository's own answer to
 a leak one of the nine had.
 
