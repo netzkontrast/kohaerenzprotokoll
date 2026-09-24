@@ -22,6 +22,15 @@ uses should be asked for again, with its cost.
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has the three placements and what
 each would send.
 
+**A third yes, 2026-09-24 — decision 006.** Documents 5 and 6
+(`aegis-subplots-kapitelweise-system-exploration-docx`,
+`roman-lokalitaeten-konzept-und-ausarbeitung`) may go to free OpenRouter models,
+with `data_collection: deny`, and to Jev, to test the tools installed that day.
+No other document, no paid model, nothing to Notion. `scripts/route.py` enforces
+it in code and its `selftest` holds; **the tool-review workflow has not run yet** —
+its plan is on PR #58. The two replaced the question's examples because only they
+have a genuine reader's `03-candidates.md`; the decision file says why.
+
 **Both Jev keys are present** in the environment (checked 2026-09-23, presence
 only). That removes the technical block and none of the permission one above. A key pasted in chat earlier in
 the session that installed this should be treated as spent and rotated.

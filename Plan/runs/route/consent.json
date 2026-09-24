@@ -1,0 +1,12 @@
+{
+  "decision": "Plan/decisions/006-tool-test-consent.md",
+  "date": "2026-09-24",
+  "by": "the author",
+  "purpose": "testing the tools installed on 2026-09-24 (the tool-review workflow)",
+  "documents": [
+    "aegis-subplots-kapitelweise-system-exploration-docx",
+    "roman-lokalitaeten-konzept-und-ausarbeitung"
+  ],
+  "openrouter": {"free_only": true, "data_collection": "deny"},
+  "typesafe": {"allowed": true}
+}
