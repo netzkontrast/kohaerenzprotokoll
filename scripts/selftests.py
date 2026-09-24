@@ -23,8 +23,7 @@ ROOT = Path(__file__).resolve().parents[1]
 VENV = ROOT / ".venv-dspy" / "bin" / "python"
 # kind -> (interpreter, or None for this one; what must exist; how to reach it)
 KINDS = {
-    "dspy": (VENV, VENV, ".venv-dspy absent — uv venv --python 3.11 .venv-dspy && "
-             "uv pip install --python .venv-dspy/bin/python 'dspy[numpy]==3.3.1'"),
+    "dspy": (VENV, VENV, ".venv-dspy absent — scripts/install.sh dspy"),
     "typesafe": (ROOT / ".venv-typesafe" / "bin" / "python", ROOT / ".venv-typesafe" / "bin" / "python",
                  ".venv-typesafe absent — scripts/install.sh typesafe"),
     "he": (None, "he", "Hyper-Extract absent — scripts/install.sh hyperextract"),
@@ -46,6 +45,8 @@ SUITES = [
     ("templates: checks fail", "he", ["scripts/templates.py", "selftest"]),
     ("templates, live", "he", ["scripts/templates.py", "check"]),
     ("dspy surface", "dspy", ["scripts/check_dspy_surface.py"]),
+    ("dspy skill, selftest", "dspy", ["scripts/check_dspy_skill.py", "--selftest"]),
+    ("dspy skill, live", "dspy", ["scripts/check_dspy_skill.py"]),
     ("lm fixture", "dspy", ["scripts/lm_fixture.py"]),
     ("lmrun", "dspy", ["scripts/lmrun.py"]),
     ("pairs dry-run", "dspy", ["scripts/pairs.py", "run", "--optimizer", "labeled", "--dry-run"]),

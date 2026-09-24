@@ -7,7 +7,8 @@
 > existence when a real need appears**, not before."
 
 The need is measured rather than argued. `python3 scripts/relations.py --open`
-harvests the `## Open` section of every term page:
+harvests the `## Open` section of every term page; on 2026-09-17, when this type
+was created, it found:
 
 | | |
 |---|--:|
@@ -18,6 +19,10 @@ harvests the `## Open` section of every term page:
 
 Eleven pages ask one question. Answering it would mean editing eleven pages, and
 nothing would say they were the same question. That is the need.
+
+The harvest has grown with the wiki: 125 <!--state:wiki.open_statements-->
+open statements today, and 5 <!--state:wiki.questions--> question pages
+promoted from them.
 
 ## What a question page is
 
@@ -62,5 +67,6 @@ status: open | answered
 raised_by: [<term page slugs>]          # the recurrence — the reason it exists
 documents: [<source slugs that raised it>]
 answered_by: <source slug>              # only when status is answered
-conflict: C4                            # when a conflict covers the same subject
+conflict: C4                            # when a conflict covers the same subject; several: C6, C9
+gathered: "2026-09-17"                  # when the page was written
 ```

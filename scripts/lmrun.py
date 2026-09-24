@@ -27,7 +27,9 @@ and no scanned repository enforced:
   decision. The offline fixture needs none.
 - **a `History`-carrying wrapper around `dspy.RLM`** is not offered at all:
   `dspy-session`'s own `docs/rlm.md` records RLM failing on every iteration
-  with „Unsupported value type: History".
+  with „Unsupported value type: History" — on DSPy 3.1.3. On 3.3.1 the same
+  wrapper fails at once, „Unexpected inputs not declared in the signature"
+  (re-read 2026-09-24, `Plan/concept/dspy-extract_2026-09-24/`).
 
 Ported: `dspy.track_usage()` around each call (dspy-agents
 `compile_rag.py:85-87`), `{"event": …, **state}` appended per call
@@ -87,8 +89,24 @@ def _is_fixture(lm) -> bool:
     return type(lm).__name__ == "FixtureLM"
 
 
+# DSPy 3.3 wraps every provider and network failure in its own typed errors, so
+# the litellm names below are no longer what reaches the caller. Measured
+# 2026-09-24: a closed local port raised `dspy.LMTransportError` and `call()`
+# re-raised it instead of recording `unreachable` — the selftest only ever
+# raised the fixture's own `NetworkRefused`. Everything under `LMProviderError`
+# (auth, billing, rate limit, server, timeout, invalid request, context window)
+# or `LMTransportError` means no answer came back. `LMConfigurationError` and
+# `LMUnsupportedFeatureError` are this repository's own mistakes and still raise.
+# The name set below stays for what DSPy does not wrap: the fixture's own
+# `NetworkRefused`, and anything raised outside `dspy.LM.forward`.
+_NO_ANSWER = tuple(getattr(dspy, n) for n in ("LMProviderError", "LMTransportError") if hasattr(dspy, n))
+
+
 def _unreachable(error: BaseException) -> bool:
-    names = {type(e).__name__ for e in (error, error.__cause__, error.__context__) if e}
+    chain = [e for e in (error, error.__cause__, error.__context__) if e]
+    if any(isinstance(e, _NO_ANSWER) for e in chain):
+        return True
+    names = {type(e).__name__ for e in chain}
     return bool(names & {"NetworkRefused", "APIConnectionError", "NotFoundError",
                          "AuthenticationError", "RateLimitError", "ServiceUnavailableError",
                          "Timeout", "ConnectionError", "PermissionDeniedError"})
@@ -189,10 +207,18 @@ def selftest() -> list[str]:
         raise NetworkRefused("offline")
     cases.append(("unreachable", FixtureLM(unreachable), []))
 
+    def provider_down(messages):  # what DSPy 3.3 raises for a refused connection
+        raise dspy.LMTransportError("connection refused", model="fixture")
+    cases.append(("unreachable", FixtureLM(provider_down), []))
+
     with tempfile.TemporaryDirectory() as tmp:
         for expected, lm, needles in cases:
             with offline(lm):
-                _, rec = call(prog, step="selftest", german=["antwort"], out_dir=Path(tmp), frage="?")
+                try:
+                    _, rec = call(prog, step="selftest", german=["antwort"], out_dir=Path(tmp), frage="?")
+                except Exception as exc:  # a case that raises has failed; it must not end the suite
+                    failures.append(f"expected {expected}, call raised {type(exc).__name__}: {exc}"[:200])
+                    continue
             if rec["status"] != expected:
                 failures.append(f"expected {expected}, got {rec['status']} ({rec['error'] or rec['problems']})")
             for needle in needles:
@@ -226,7 +252,8 @@ if __name__ == "__main__":
     problems = selftest()
     for p in problems:
         print(f"  FAIL  {p}")
-    total = 9
+    total = 10
     print(f"lmrun: {total - len(problems)} of {total} cases hold "
-          "(4 statuses, empty field, English caught, cache refused, approval refused, short text unmeasured)")
+          "(4 statuses, DSPy's own transport error, empty field, English caught, cache refused, "
+          "approval refused, short text unmeasured)")
     raise SystemExit(1 if problems else 0)
