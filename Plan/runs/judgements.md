@@ -941,3 +941,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L361: the Evaluierungseinheit, „wo Personae kollabieren“ (Kap 13, the veil falls).
 
 **Result.** Not attached. The sentence does not say whose Personae; the page's are the Guardians' wards in a 2025 source.
+
+## J68 — Ursprungs-Ich / Juna
+
+**two-terms** · kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a gloss that one passage writes and another passage of the same source contradicts is a reading, never a merge (J51)
+- **mechanised by:** `nothing`
+- **features:** gloss, contradicting-use
+
+**Question.** whether the gloss „Ursprungs-Ich (Juna)“ makes one term
+
+**What was done.** L155: the Trennungsprotokoll „die das Ursprungs-Ich (Juna) ins Nichts-Rauschen verbannt“; L146–L147: the Ursprungs-Ich is in the Potentialmeer and resonates with Juna.
+
+**Result.** TWO terms. The gloss is a reading on juna and a question for the author; the same document keeps the two apart two entries earlier.
