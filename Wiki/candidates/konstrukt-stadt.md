@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -101,3 +101,10 @@ Kap 1 is titled for it — „Kap 1 — Erwachen in der Konstrukt-Stadt" ^[kohar
 
 KW1, „Konstrukt-Stadt (Logos-Prime)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L163] — consistent with the author's C9
 decision. Its style rule is Kap 1's: „KW1 = absolutes Metaphernverbot" ^[kapitel-kompendium-gather-2026-05-31-md.md:L38].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+KW1, „Konstrukt-Stadt / Logos-Prime" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L83] — consistent with the author's C9
+decision. „Temperatur.** **Konstant 21°C.** Jede Abweichung ist Riss-Vorzeichen."
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L113] — and its smell: „Ozon (Landauer-Suppression-Spur, *kalt-elektrisch*) +
+Desinfektionsmittel." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L110]
