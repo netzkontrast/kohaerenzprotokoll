@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,11 @@ One of the thirteen [[alters|Alters]] — EP, „Kollaps" in its heading ^[kohae
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10, one table row
 
 Its roster row gives category `EP`, function `Kollaps` and arc `→ Drachenkampf` ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L269]. Recorded in that document's reconciliation as not promoted, and attached here now that a profile exists.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Moros (Kollaps)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L404], correlate „Big Freeze" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L405], somatics „Katatonie" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L406], arc „→ Drachenkampf" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L407].
+
+From the first trauma layer: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L436]
+
+Its Riss type: „Gravitational" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L564], „Gewicht, Sinken, Kompression" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L565].
