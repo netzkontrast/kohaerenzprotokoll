@@ -2,12 +2,10 @@
 
 One section per repository: what is in it, and what this project took. "What
 is in repository X" and "what did this project take" both have one answer,
-here.
-
-A repository fact is `repo:path:line`, at the commit read below (`repo:path`
-alone for a whole-file pattern). A bare backtick path (`scripts/pairs.py`) is
-this repository and exists. This file carries no `[checked: …]` marks — those
-are DSPy behaviour, asserted in `api.md`; this index only points to them.
+here. A repository fact is `repo:path:line`, at the commit read below
+(`repo:path` alone for a whole-file pattern); a bare backtick path
+(`scripts/pairs.py`) is this repository and exists. This file carries no
+`[checked: …]` marks — those are DSPy behaviour, in `api.md`.
 
 Nine readers' notes, each reading its repository whole: `das-core.md`,
 `das-book.md`, `das-rlm-rag.md`, `das-patterns.md` (four slices of
@@ -15,17 +13,15 @@ Nine readers' notes, each reading its repository whole: `das-core.md`,
 + `dspy-optimizer`), `agents-rag.md` (`dspy-agents` + `Agentic-Dspy-Rag`),
 `braid-prompting.md` (`braid-dspy` + `dspy-advanced-prompting`),
 `dspydantic.md`, `auto-gepa.md`. **The full notes live in
-`Plan/concept/dspy-extract_2026-09-24/`.** Every commit below was
-re-verified with `git -C /home/user/<repo> rev-parse --short HEAD` and `git
-log -1 --format=%ci`; all nine matched. "2026-09-23 report, corrected" is
-what changed against the first scan in `Plan/concept/dspy-repos_2026-09-23/`;
+`Plan/concept/dspy-extract_2026-09-24/`.** Every commit was re-verified with
+`git -C /home/user/<repo> rev-parse --short HEAD` and `git log -1
+--format=%ci`; all nine matched. "2026-09-23 report, corrected" is what
+changed against the first scan in `Plan/concept/dspy-repos_2026-09-23/`;
 `Plan/concept/dspy-toolchain_2026-09-23.md` ("the toolchain doc") is that
-scan's design and what got built from it. The new notes win where the two
-disagree.
-
-Six of the nine repositories carry a check that cannot fail, in a different
-costume each time — `metrics.md` has the shared shape; below, each
-repository's own version, with its line.
+scan's design and what got built from it — the new notes win where the two
+disagree. Six of the nine repositories also carry a check that cannot fail,
+in a different costume each time (`metrics.md` has the shared shape); below,
+each repository's own version, with its line.
 
 ---
 
@@ -275,13 +271,13 @@ SQLite/Postgres baseline-drift monitor and hybrid retrieval around it.
 **Took → lives here.** The append-only, floor-compared ledger →
 `baseline.py`/`Plan/runs/baselines.jsonl`
 (`dspy-agents:dspy_optimize/baselines/{store,monitor,thresholds}.py`), with
-its central defect fixed (below). Usage/cost-per-call logging → `lmrun.py`
-(`dspy-agents:dspy_optimize/compile_rag.py:85-87`). Its `RecorderLM` →
-the construction-check half of `lm_fixture.py`
-(`dspy-agents:tests/test_dspy_config.py:13-122`) — **corrected**: a recorder
-proves DSPy accepted the kwargs syntactically, never what it did with them,
-so `check_dspy_surface.py` also does one real offline `dspy.LM(...)`
-construction. Hashing what a program *is*, not a bumped tag →
+its central defect fixed (below); usage/cost-per-call logging → `lmrun.py`
+(`dspy-agents:dspy_optimize/compile_rag.py:85-87`); its `RecorderLM` → the
+construction-check half of `lm_fixture.py`
+(`dspy-agents:tests/test_dspy_config.py:13-122`) — **corrected**, since a
+recorder proves DSPy accepted kwargs syntactically, never what it did with
+them, so `check_dspy_surface.py` also does one real `dspy.LM(...)`
+construction; hashing what a program *is*, not a bumped tag →
 `baseline.py`'s `program_hash`.
 
 **Waits / refused.** Per-directory `AGENTS.md` files wait for a directory an
@@ -505,7 +501,7 @@ substring routing, unattributed synthesis, usage logging that always prints
 "Model: unknown," and an install line that cannot start the app it
 documents.
 
-**Cannot fail / never measured.** None cannot-fail — there is no test
+**Cannot fail / never measured.** Nothing to cite — there is no test
 directory and no metric anywhere (the note's own tag: "No tests at all,"
 `[claim]`), so nothing passes vacuously; failure is silent instead, falling
 through to the `else` branch with no signal. Never measured:

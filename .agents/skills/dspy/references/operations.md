@@ -268,8 +268,8 @@ optimizer has the sharper version of the same trap: the descriptions it
 different one; with the cache on the two happen to coincide because identical
 inputs hit the cache, and with the cache off — this repository's default for
 every real LM — they were measured to differ outright, returning one rewrite
-while scoring another
-(`dspydantic:V/v_scored.py`, verified against the installed package).
+while scoring another (`dspydantic:optimizer.py:1988-2005`, verified by the
+`dspydantic` reader's own offline probe against the installed package).
 `dspy-agent-skills`' own words for the general case: "Cached calls report no
 new usage — which is why a benchmark run with a warm cache looks free and
 tells you nothing about production cost"

@@ -121,7 +121,7 @@ Probelauf: immer zwei Begriffe.
 ```
 
 — because GEPA's reflection call bypasses `ChatAdapter` and asks the LM
-directly for a fenced block (`gepa_utils.py:170-180`, see GEPA below), and
+directly for a fenced block (`dspy:teleprompt/gepa/gepa_utils.py:170-180`, see GEPA below), and
 `fill()`'s system-message lookup finds no `system` role in that raw call and
 falls back to formatting its given defaults. GEPA correctly rejects this
 non-instruction every time ("not better than old score, skipping"), and the
@@ -659,7 +659,7 @@ trace_for_pred)`, where `trace_for_pred` is a one-element list
 `auto="light"|"medium"|"heavy"` is mutually exclusive with `max_full_evals`
 and `max_metric_calls` — exactly one of the three, checked by assertion
 (`Exactly one of max_metric_calls, max_full_evals, auto must be set.`,
-`dspy:teleprompt/gepa/gepa.py:427-432`). The formula, read directly from
+`dspy:teleprompt/gepa/gepa.py:427-432`). [checked: gepa-budget-exclusive] The formula, read directly from
 `auto_budget` (`dspy:teleprompt/gepa/gepa.py:490-520`):
 
 ```
@@ -781,7 +781,7 @@ reflective examples found for {pred_name}" for that component alone, or, if
 predictions found for any module."
 (`dspy-agent-skills` `das-patterns`: `named_predictors()` printed
 `answer.predict` for a batch-compile program whose `forward()` never calls
-`answer`; `gepa_utils.py:348,434-441`, `[trap]`). Restricting GEPA to a
+`answer`; `dspy:teleprompt/gepa/gepa_utils.py:348,434-441`, `[trap]`). Restricting GEPA to a
 subset of predictors is never demonstrated in any of the nine repositories'
 own examples — the mechanism is to set `_compiled=True` on the sub-module to
 freeze, since `named_parameters` skips anything already marked compiled
@@ -795,8 +795,12 @@ unchanged, which looks exactly like "nothing to improve."** With a metric
 that raises on every example, one measured run made 390 student calls across
 baseline-and-train, 0 reflection calls, logged "Reflective mutation did not
 propose a new candidate" every iteration, and returned the untouched seed
-program (`dspy-auto-gepa:src/dspy_auto_gepa/`, `gepa/proposer/reflective_mutation/reflective_mutation.py:446-450`,
-`[trap]`) — the recommended defence is to run the metric on a few sample rows
+program (`dspy:teleprompt/gepa/gepa_utils.py:231-264`, its evaluation path
+built on `failure_score`/`max_errors`/`raise_on_error=False`; the reflective
+step itself logs and continues past the exception one level deeper, in the
+`gepa` package `dspy-auto-gepa` runs through: `except Exception as e:
+self.logger.log(f"Iteration {i}: Exception building reflective dataset:
+{e}"); ...; continue`, `[trap]`) — the recommended defence is to run the metric on a few sample rows
 first, count exceptions, and refuse the optimizer run if any occur (P15,
 P23). **Metric exceptions during ordinary scoring** score `failure_score`
 (0.0) through an inner `Evaluate(..., max_errors=len(batch)*100)`, but an
@@ -839,7 +843,8 @@ running the named sub-optimizers in the order `strategy` spells out.
 strategy string's tokens must be exactly the constructor's keyword names —
 the default `"p -> w -> p"` only means anything if the optimizers were named
 `p=` and `w=`; naming them anything else and keeping the default strategy
-raises `ValueError: Strategy contains invalid optimizer keys`. Two sibling
+raises `ValueError: Strategy contains invalid optimizer keys`.
+[checked: bettertogether-strategy-keys] Two sibling
 skills inside the same repository disagree about this on 3.3.1: one correctly
 states the rule, the other teaches a call shape that raises
 (`dspy-agent-skills:skills/dspy-gepa-optimizer/SKILL.md:88-92,113-114`,
@@ -1037,17 +1042,25 @@ findings are specific enough to name even though nothing in this repository
 wraps a module today.
 
 **Every DSPy optimizer silently no-ops on a `dspy_session`-wrapped module by
-default, without an error.** `_wrap_predictor` builds a new bound method
-whose closure captures `orig_forward = object.__getattribute__(predictor,
-"forward")` — the *original* predictor's bound method. `copy.deepcopy`
-rebinds the wrapper method to the copy, but the closure inside it still
-points at the original, so after `deepcopy()`, `fork()`, `reset_copy()`, or
-any optimizer's own internal copying: calls run on the original's signature,
-demos and LM; demos an optimizer sets on the copy are never read; demos set
-on the original leak into every copy and fork instead
-(`dspy-session:dspy_session/session.py:557-587,1052-1067`, `[trap]`). A
-compile that reports success and a copy that never changes are
-indistinguishable without checking which object actually answers.
+default, without an error.** `_wrap_predictor` reads the predictor's own
+`forward` once, `orig_forward = self._get_attr_quiet(predictor, "forward")`,
+and installs a closure over it as the new method:
+`predictor.forward = types.MethodType(wrapped_forward, predictor)` where
+`wrapped_forward` injects history from a contextvar and then always calls
+`return orig_forward(**kwargs)`
+(`dspy-session:dspy_session/session.py:557-572`). `orig_forward` is bound to
+whichever predictor object existed at wrap time. `copy.deepcopy` (what
+`fork()` does to build its cloned module,
+`dspy-session:dspy_session/session.py:1052-1066`) rebinds the wrapper method
+itself to the copy, but the closure inside it still calls the *original*'s
+forward — so after `deepcopy()`, `fork()`, `reset_copy()`, or any optimizer's
+own internal copying: calls run on the original's signature, demos and LM;
+demos an optimizer sets on the copy are never read; demos set on the original
+leak into every copy and fork instead (`[trap]`, the reading's own probe:
+"closure bound to ORIGINAL; copy demo in prompt False; original demo in
+copy's prompt True, in fork's True"). A compile that reports success and a
+copy that never changes are indistinguishable without checking which object
+actually answers.
 
 **The README's own `BootstrapFewShot` recipe fails on 3.3.1 for a related,
 independent reason.** `dspy.BootstrapFewShot().compile(session,
@@ -1168,5 +1181,6 @@ teacher/student distinction is cosmetic
 | `BootstrapFewShotWithRandomSearch` ("random search") | "50+" examples; its own measured cost (8 candidates, $0.88, 1119 s) exceeds GEPA's for less than half the gain — see the section above |
 | synthetic data generation | grouped with the two above in `Plan/concept/dspy-toolchain_2026-09-23.md:351` under the same "100+/50+" reason. `dspy-auto-gepa`'s `AutoData` is the nine repositories' own instance of this: it generates rows with an LLM from seed examples, but its allowed output values come **only from the seed rows** (a `Literal` type annotation is ignored; no seed of a class means no rows of that class ever get generated — `dspy-auto-gepa:src/dspy_auto_gepa/data.py:43-57,86,90`, `[trap]`), and its judge **never rejects a row** — scores are recorded, never thresholded, so a synthetically generated row scored 0.0 for quality is accepted anyway (`dspy-auto-gepa:src/dspy_auto_gepa/generator.py:1193-1227,1399-1403`, `[trap]`). Synthetic rows would not, by themselves, fix this project's undersized residual with a check this project would trust |
 | LLM-drafted metrics | `dspy-toolchain_2026-09-23.md:350`: "the rule a program is scored by is written by a person; the `metric=Path(...)` bypass is the only path used." `dspy-auto-gepa` is the instance this refuses: by default it has `dspy.RLM` **draft a `metric.py` file** from a natural-language spec — a 215-line prompt of rules and three worked examples is the model's only instruction (`dspy-auto-gepa:src/dspy_auto_gepa/metric_builder.py:9-233,229-233,286-294`, `[pattern]`) — unless a human-written `metric=Path(...)` is passed instead, which is the only path this project would ever take. Its own documented "generate, review, then run" workflow does not survive a retrain: `run(force=True)` regenerates the metric file again, silently discarding a human's edit (`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:388-394`, `[trap]`) — a sharp illustration of why a metric stays a person's file, never a step that reruns |
-| `BootstrapFewShotWithRandomSearch`, `BootstrapFinetune`, `BetterTogether`, `Ensemble`, `AvatarOptimizer`, `COPRO` | each has its own reason in its own section above — a size threshold, a need for a fine-tunable model, nothing yet to ensemble, or (`AvatarOptimizer`) a defect in the installed package itself |
+| `BootstrapFinetune`, `BetterTogether`, `Ensemble`, `AvatarOptimizer` | each has its own reason in its own section above — a need for a fine-tunable model, nothing yet to ensemble, or (`AvatarOptimizer`) a defect in the installed package itself |
+| `COPRO` | neither ruled in nor ruled out — an omission in this project's own concept doc, not a decision; see COPRO, above |
 | `KNNFewShot` | not refused, waiting — see its own section: cheap once a local embedding model is already paid for elsewhere in this project (`qmd`) |

@@ -397,6 +397,120 @@ def p_refine_none_when_all_fail():
     return None if got == want else f"every attempt failing gave {got}, expected {want}"
 
 
+def p_gepa_budget_exclusive():
+    try:
+        dspy.GEPA(metric=lambda *a, **k: 0.0, auto="light", max_metric_calls=300,
+                  reflection_lm=dspy.LM("openai/probe", cache=False))
+    except AssertionError as error:
+        return None if "Exactly one of" in str(error) else f"GEPA refused for another reason: {error}"
+    return "dspy.GEPA accepted both auto and max_metric_calls"
+
+
+def p_bettertogether_strategy_keys():
+    try:
+        with offline(FixtureLM(fill(a="x"))):
+            dspy.BetterTogether(metric=lambda e, p, t=None: 1.0, bootstrap=dspy.LabeledFewShot(k=1),
+                                gepa=dspy.LabeledFewShot(k=1)).compile(
+                dspy.Predict("q -> a"), trainset=[dspy.Example(q="1", a="x").with_inputs("q")])
+    except ValueError as error:
+        return None if "invalid optimizer keys" in str(error) else f"BetterTogether refused for another reason: {error}"
+    return "BetterTogether compiled with optimizer names its default strategy does not mention"
+
+
+def p_avatar_optimizer_unconstructible():
+    try:
+        dspy.AvatarOptimizer(metric=lambda *a: 1.0)
+    except AttributeError as error:
+        return None if "TypedPredictor" in str(error) else f"AvatarOptimizer failed for another reason: {error}"
+    return "dspy.AvatarOptimizer can be constructed again"
+
+
+def p_save_as_json_prediction_crashes():
+    with tempfile.TemporaryDirectory() as tmp, offline(FixtureLM(lambda messages: chat(a="ja"))):
+        try:
+            dspy.Evaluate(devset=_devset(1), num_threads=1, save_as_json=f"{tmp}/r.json",
+                          metric=lambda e, p, t=None: dspy.Prediction(score=1.0, feedback="ok"))(dspy.Predict("q -> a"))
+        except TypeError as error:
+            return None if "not JSON serializable" in str(error) else f"it failed differently: {error}"
+    return "Evaluate(save_as_json=...) saved a Prediction-returning metric's results"
+
+
+def p_history_exact_annotation():
+    from typing import Optional
+    rendered = {}
+    for label, annotation in (("exact", dspy.History), ("optional", Optional[dspy.History])):
+        # make_signature, not a class body: this file's `from __future__ import annotations`
+        # would hand DSPy the annotation as a string, which is never `dspy.History`.
+        Chat = dspy.make_signature({"question": (str, dspy.InputField()),
+                                    "history": (annotation, dspy.InputField()),
+                                    "reply": (str, dspy.OutputField())}, "Answer.")
+        lm = FixtureLM(lambda messages: chat(reply="4"))
+        with offline(lm):
+            dspy.Predict(Chat)(question="3+3?", history=dspy.History(messages=[{"question": "2+2?", "reply": "4"}]))
+        rendered[label] = [m["role"] for m in lm.requests[-1]["messages"]]
+    want = {"exact": ["system", "user", "assistant", "user"], "optional": ["system", "user"]}
+    return None if rendered == want else f"history rendered as {rendered}, expected {want}"
+
+
+def p_with_inputs_typo_silent():
+    inputs = dspy.Example(text="x", label="y").with_inputs("question").inputs()
+    return None if dict(inputs) == {} else f"with_inputs('question') on an Example without it gave {inputs!r}"
+
+
+def p_names_absent():
+    present = [n for n in ("TypedPredictor", "OpenAI", "Assert", "Suggest", "BAMLAdapter") if hasattr(dspy, n)]
+    if present:
+        return f"back at top level: {present}"
+    try:
+        from dspy.datasets import GSM8K  # noqa: F401
+        return "from dspy.datasets import GSM8K works again"
+    except ImportError:
+        pass
+    from dspy.datasets.gsm8k import GSM8K  # noqa: F401,F811 — the path that works
+    from dspy.adapters.baml_adapter import BAMLAdapter  # noqa: F401
+    return None
+
+
+def p_evaluate_empty_devset():
+    with offline(FixtureLM(lambda messages: chat(a="x"))):
+        try:
+            dspy.Evaluate(devset=[], metric=lambda e, p, t=None: 1.0)(dspy.Predict("q -> a"))
+        except ZeroDivisionError:
+            return None
+    return "Evaluate scored an empty devset instead of failing"
+
+
+def p_lm_call_returns_list():
+    answer = FixtureLM(lambda messages: "hallo")("frage")
+    return None if answer == ["hallo"] else f"calling an LM directly returned {answer!r}"
+
+
+def p_lm_has_no_temperature_attribute():
+    lm = dspy.LM("openai/probe", temperature=0.3, cache=False)
+    if hasattr(lm, "temperature"):
+        return "dspy.LM has a .temperature attribute now"
+    return None if lm.kwargs.get("temperature") == 0.3 else f"temperature is not in lm.kwargs: {lm.kwargs}"
+
+
+def p_react_async_tool_swallowed():
+    import warnings
+
+    async def lookup(city: str) -> str:
+        """Weather for a city."""
+        return "sonnig"
+
+    agent = dspy.ReAct("question -> answer", tools=[lookup], max_iters=1)
+    script = fill(next_thought="t", next_tool_name="lookup", next_tool_args='{"city": "Oslo"}',
+                  reasoning="r", answer="sonnig")
+    with offline(FixtureLM(script)), warnings.catch_warnings():
+        warnings.simplefilter("ignore", RuntimeWarning)  # "coroutine … was never awaited"
+        out = agent(question="Wetter in Oslo?")
+    observation = str(out.trajectory.get("observation_0", ""))
+    if "Execution error in lookup" not in observation:
+        return f"the async tool's failure did not land in the trajectory: {observation[:120]!r}"
+    return None if out.answer == "sonnig" else f"the agent answered {out.answer!r}"
+
+
 PROBES = {
     "evaluate-score-percent": p_evaluate_score_percent,
     "evaluate-failure-is-zero": p_evaluate_failure_is_zero,
@@ -420,6 +534,17 @@ PROBES = {
     "rlm-runs-offline": p_rlm_runs_offline,
     "rlm-forced-final-output": p_rlm_forced_final_output,
     "refine-none-when-all-fail": p_refine_none_when_all_fail,
+    "gepa-budget-exclusive": p_gepa_budget_exclusive,
+    "bettertogether-strategy-keys": p_bettertogether_strategy_keys,
+    "avatar-optimizer-unconstructible": p_avatar_optimizer_unconstructible,
+    "save-as-json-prediction-crashes": p_save_as_json_prediction_crashes,
+    "history-exact-annotation": p_history_exact_annotation,
+    "with-inputs-typo-silent": p_with_inputs_typo_silent,
+    "names-absent": p_names_absent,
+    "evaluate-empty-devset": p_evaluate_empty_devset,
+    "lm-call-returns-list": p_lm_call_returns_list,
+    "lm-has-no-temperature-attribute": p_lm_has_no_temperature_attribute,
+    "react-async-tool-swallowed": p_react_async_tool_swallowed,
 }
 
 
