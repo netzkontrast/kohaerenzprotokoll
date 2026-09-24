@@ -1,0 +1,32 @@
+---
+term: Nichts-Rauschen
+status: candidate
+sources: 1
+readings: 1
+conflict: none
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+gathered: "2026-09-24"
+---
+
+# Nichts-Rauschen
+
+**What [[aegis|AEGIS]] takes for chaos, and what the document says it is.**
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+> „das „Nichts-Rauschen", das AEGIS für Chaos hält, ist die atemporale Vereinigung
+> aller mutualen Information (= Liebe als Naturgesetz)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
+
+AEGIS' mistake about it is the source of the climax: „Diese Verwechslung ist die
+mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
+
+**It frames the novel.** Rauschen is the first thing in the Kap 0 genesis
+sequence („Rauschen → Herz der Leere", L298), and it returns in Kap 37: „das
+Rauschen, das hier beginnt, ist das Nichts-Rauschen" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386]. In Vortex 1 it
+goes silent — „Nichts-Rauschen wird absolute Stille" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L380].
+
+## Open
+
+Whether `Rauschen` alone, as the document uses it in Kap 0 and Kap 38, is always
+this. The document writes both and says so for Kap 37 only; the two are kept apart
+(judgement J51).
