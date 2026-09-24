@@ -287,6 +287,40 @@ def p_refused_connection_is_transport_error():
         os.environ.update(hidden)
 
 
+def p_numpy_typing_after_dspy():
+    import subprocess
+    env = {k: v for k, v in os.environ.items() if not k.endswith("_API_KEY")}
+
+    def runs(code: str) -> subprocess.CompletedProcess:
+        return subprocess.run([sys.executable, "-c", code], capture_output=True, text=True, env=env, timeout=120)
+
+    after, before = runs("import dspy; import numpy.typing"), runs("import numpy.typing; import dspy")
+    if before.returncode != 0:
+        return f"importing numpy.typing before dspy failed too: {before.stderr.strip()[-160:]}"
+    if after.returncode == 0:
+        return "importing numpy.typing after dspy works now; the skill's warning is stale"
+    return None if "circular import" in after.stderr else f"it failed differently: {after.stderr.strip()[-160:]}"
+
+
+def p_track_usage_misses_threads():
+    FixtureLM, chat, _, offline = _fixture()
+
+    class Counted(FixtureLM):
+        def forward(self, prompt=None, messages=None, **kwargs):
+            response = super().forward(prompt=prompt, messages=messages, **kwargs)
+            response.usage = {"prompt_tokens": 10, "completion_tokens": 2, "total_tokens": 12}
+            return response
+
+    seen = {}
+    for threads in (1, 4):
+        with offline(Counted(lambda messages: chat(a="ja"))):
+            with dspy.track_usage() as usage:
+                dspy.Evaluate(devset=_devset(6), metric=lambda e, p, t=None: 1.0,
+                              num_threads=threads)(dspy.Predict("q -> a"))
+        seen[threads] = sum(v.get("total_tokens", 0) for v in usage.get_total_tokens().values())
+    return None if seen == {1: 72, 4: 0} else f"tokens tracked by thread count: {seen}, expected {{1: 72, 4: 0}}"
+
+
 def p_load_refuses_pickle():
     with tempfile.TemporaryDirectory() as tmp:
         dspy.Predict("q -> a").save(f"{tmp}/program", save_program=True)
@@ -393,6 +427,8 @@ PROBES = {
     "literal-out-of-set-unparsed": p_literal_out_of_set_unparsed,
     "refused-connection-is-transport-error": p_refused_connection_is_transport_error,
     "load-refuses-pickle": p_load_refuses_pickle,
+    "numpy-typing-after-dspy": p_numpy_typing_after_dspy,
+    "track-usage-misses-threads": p_track_usage_misses_threads,
     "saved-state-has-no-key": p_saved_state_has_no_key,
     "example-reaches-evaluator-by-name": p_example_reaches_evaluator_by_name,
     "rlm-runs-offline": p_rlm_runs_offline,

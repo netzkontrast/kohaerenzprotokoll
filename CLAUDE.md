@@ -631,14 +631,15 @@ container**; each is rebuilt by the commands below when a step needs it:
 | venv | python | why |
 |---|---|---|
 | `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
-| `.venv-dspy` | 3.11 | DSPy 3.3.1 with numpy — every `scripts/` step that calls a model or its fixture |
+| `.venv-dspy` | 3.11 | DSPy 3.3.1 with numpy and Deno — every `scripts/` step that calls a model or its fixture |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
 
 ```bash
 uv venv --python 3.11 .venv-dspy
-uv pip install --python .venv-dspy/bin/python 'dspy[numpy]==3.3.1'   # SIMBA raises without numpy
-.venv-dspy/bin/python scripts/check_dspy_surface.py                   # the surface this repo calls
+uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'   # SIMBA raises without numpy; dspy.RLM needs Deno
+.venv-dspy/bin/python scripts/check_dspy_surface.py                        # the surface this repo calls
+.venv-dspy/bin/python scripts/check_dspy_skill.py                          # the DSPy the dspy skill teaches
 ```
 
 ```bash
@@ -731,6 +732,7 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor**, not only one that fell since the last row, and a `vetoed` row fails whatever its score |
 | `pairs.py` | one-term-or-two: `fold()` first, a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
 | `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
+| `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
 **57 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
@@ -741,6 +743,19 @@ a third party, and the author has not said yes to it. `scripts/rlm_ingest.py`
 now requires `--approval` for the same reason, turns its cache off, sets a call
 budget, hands the model `find_line` and `count` as tools, and measures how far
 into the document its verified citations reach.
+
+**`.agents/skills/dspy` is where the knowledge behind these scripts lives**,
+sorted by the job at hand: API, optimizers, metrics, data, testing, RLM,
+retrieval, text artifacts, operations, patterns, and an index of the nine
+repositories. On 2026-09-24 the nine repositories were read again, in full, for
+everything they contain rather than for ideas. The readers' notes are in
+`Plan/concept/dspy-extract_2026-09-24/`. Re-checking the API against the
+installed package found two defects here, both fixed the same day:
+
+- `lmrun.py` re-raised DSPy 3.3's own `LMTransportError` instead of recording
+  `unreachable`.
+- `rlm_ingest.py` could have called a forced RLM answer (`final_reasoning ==
+  "Extract forced final output"`) a reading.
 
 ## Changing your mind
 

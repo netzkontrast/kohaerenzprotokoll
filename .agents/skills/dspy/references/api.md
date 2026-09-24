@@ -85,6 +85,16 @@ dspy.AvatarOptimizer(metric, max_iters=10, lower_bound=0, upper_bound=1, max_pos
 gepa.optimize_anything.optimize_anything(seed_candidate=None, evaluator=None, batch_evaluator=None, dataset=None, valset=None, objective=None, background=None, config=None)
 ```
 
+## Importing
+
+**Import `numpy.typing` before `dspy`, never after.** In `.venv-dspy`,
+`import dspy` followed by `import numpy.typing` fails with a circular import.
+The other order works. [checked: numpy-typing-after-dspy] Anything that
+imports `numpy.typing` on the way in hits the same wall: pandas, pyarrow,
+lancedb. The dspy-agents reader found it when `Agentic-Dspy-Rag`'s app only
+started with numpy imported first. No script here imports numpy after dspy
+today; a new one that needs both imports numpy first.
+
 ## Signatures
 
 A signature is the whole prompt contract: input fields, output fields, and
@@ -192,6 +202,15 @@ lm = dspy.LM("openrouter/<provider>/<model>", cache=True, num_retries=3, tempera
   (`dspy-agent-skills:skills/dspy-production/SKILL.md`).
 - `with dspy.track_usage() as usage:` … `usage.get_total_tokens()` returns
   tokens per model; `lmrun.call` records it per call.
+- **`track_usage` sees only the calls made in the thread that entered it.**
+  `Evaluate(num_threads=4)` inside it records no tokens at all, where
+  `num_threads=1` records every call. [checked: track-usage-misses-threads]
+  `dspy-agents` logged 765 tokens against 7,230 real for exactly this reason
+  (`Plan/concept/dspy-extract_2026-09-24/agents-rag.md`). `lmrun.call` is
+  single-threaded, so its record is complete. `dspy.RLM`'s
+  `llm_query_batched` copies the context into its worker threads, so
+  `rlm_ingest.py`'s cost line sees the sub-calls
+  (`dspy:predict/rlm.py:312-315`).
 
 ### Settings
 
