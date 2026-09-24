@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -35,3 +35,8 @@ Its roster row gives category `ANP`, function `Rationalist` and arc `→ Intuiti
 Roster row: „Lex (Rationalist)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L364], correlate „Gödel + Halteproblem" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L365], somatics „Hypoventilation, Kälte" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L366], arc „→ Intuition" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L367].
 
 From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 entstanden:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439] lists it.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+KW1's somatic default carries him: „Lex' Hypoventilation als unterschwelliger
+Default" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L126].
