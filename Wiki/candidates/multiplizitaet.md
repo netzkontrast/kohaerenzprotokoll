@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -77,3 +77,8 @@ Practised in KW4: „Hier wird die Funktionale Multiplizität eingeübt." ^[koha
 Withheld from the reader: „Multiplizität wird im Roman nicht ausgesprochen bis"
 ^[kapitel-kompendium-gather-2026-05-31-md.md:L44] about Kap 10. And the end state, as the third DID-therapy phase: „Phase 3
 Integration/funktionale Multiplizität (Vortex/Resolution)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L268].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Practised in KW4, in the [[moeglichkeits-garten|Möglichkeits-Garten]]: „überwucherte Ruinenarchitektur;
+Funktionale Multiplizität als Erlebnis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L461].
