@@ -1,10 +1,10 @@
 ---
 term: Persistenzgleichung
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -38,3 +38,8 @@ fehlgelesen)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190].
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
 The Überwelt's logic: „Visualisierung der Persistenzgleichung in Echtzeit." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L524]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„AEGIS' tragischer Lesefehler: liest hohes η als Stabilität; tatsächlich misst η
+den Effizienzgrad der Verdrängung." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L55]
