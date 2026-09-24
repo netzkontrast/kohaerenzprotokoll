@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-16"
 ---
 
@@ -156,3 +156,7 @@ behauptet." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L98]
 **AEGIS is entropy.** „Tatsächlich ist AEGIS die Entropie." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32] The inversion table sets „AEGIS = Entropie-Architektur (K₀)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L124] against what AEGIS believes, and „Kontrolle erzeugt Landauer-Abwärme = mehr Entropie" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L128].
 
 „AEGIS kämpft gegen die Entropie, die es selbst erzeugt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L135]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The inversion again: AEGIS „*ist* aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
