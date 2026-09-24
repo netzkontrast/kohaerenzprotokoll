@@ -42,3 +42,5 @@ Plan/derived/
 
 # graphify output (the vendored graphify skill)
 graphify-out/
+.install.log
+.venv-grawiki/

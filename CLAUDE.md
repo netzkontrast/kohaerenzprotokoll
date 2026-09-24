@@ -22,16 +22,26 @@ author, work half-done, what failed — and it is the handover between sessions.
 
 ### A fresh container has none of the derived things
 
-A cloud session starts from a clean clone. Everything git-ignored is absent, and
-each has one command that rebuilds it:
+A cloud session starts from a clean clone. Everything git-ignored is absent.
+**`scripts/install.sh` rebuilds all of it but the qmd models**, and
+`.claude/hooks/session-start.sh` runs it at every cloud session start —
+synchronously, so no step races an install, and never blocking the session on a
+failed component. `scripts/install.sh --check` says what is present,
+`--list` names the components, `scripts/install.sh <name>` installs one. The
+first run here took about a minute with uv's cache already warm — a cold
+container also downloads torch for `grawiki`, unmeasured; a second run is 4s.
+The log is `.install.log`.
 
-| absent at start | rebuild | needed for |
+| absent at start | rebuild (`scripts/install.sh <name>`) | needed for |
 |---|---|---|
-| `Plan/derived/` | `python3 scripts/derive.py` (about 3s) | `corpus.py`'s index path |
-| `.venv-tools`, `.venv-dspy`, `.venv-dspytools`, `.venv-typesafe` | the commands under *Installing anything* | only the step that names each |
-| qmd, its models and index | `scripts/setup_qmd.sh` | searching; nothing in the pipeline |
-| `jev-decide` | under *Installing anything* | the vendored `jev*` skills in API mode |
-| `graphify` CLI | `uv tool install --python 3.12 "graphifyy @ git+https://github.com/netzkontrast/graphify@4c735618f3d56fd622c2049771584621c31ba9ff"` | the vendored `graphify` skill |
+
+| `Plan/derived/` | `derived` — `python3 scripts/derive.py`, about 3s | `corpus.py`'s index path |
+| `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki` | `tools`, `typesafe`, `dspy`, `dspytools`, `grawiki` | only the step that names each |
+| `jev-decide` | `jev` | the vendored `jev*` skills in API mode |
+| `graphify` CLI | `graphify`, pinned to `4c73561` | the vendored `graphify` skill |
+| `cgr` (code-graph-rag) | `cgr` | nothing in the pipeline |
+| qmd package and the `/usr/local/bin/qmd` shim | `qmd` — `scripts/setup_qmd.sh --package` | searching; nothing in the pipeline |
+| qmd's models (~2.1 GB), index and embeddings | `qmd-models` — `scripts/setup_qmd.sh`; **not** run at session start | vector search and `qmd query` |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
 
 The standard-library scripts — `state.py`, `quotes.py`, `read.py`,
@@ -473,8 +483,9 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
-Four venvs are defined, all git-ignored, each for one reason. **None survives a
-container**; each is rebuilt by the commands below when a step needs it:
+Five venvs are defined, all git-ignored, each for one reason. **None survives a
+container**; `scripts/install.sh` rebuilds each, and the commands below are what
+it runs:
 
 | venv | python | why |
 |---|---|---|
@@ -482,6 +493,7 @@ container**; each is rebuilt by the commands below when a step needs it:
 | `.venv-dspy` | 3.11 | DSPy 3.3.1, for when there is something to train |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
+| `.venv-grawiki` | **3.12** | `grawiki[falkordblite,viz]` from `netzkontrast/grawiki` at `920d181`, which refuses 3.11; about 2 GB with CPU torch |
 
 ```bash
 uv venv --python 3.12 .venv-dspytools
@@ -600,6 +612,20 @@ uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://git
 reachable, and measured against this repository —
 `Plan/concept/continuous-improvement_2026-09-17.md` has what each is for and in
 what order.
+
+`grawiki` is a library, not a skill: a model reads chunks of a document into a
+graph held in FalkorDBLite, a local file with no server. It stands where
+`knowledge-graph-extract` stands — the same author's framework, of which that
+skill is the counterpart — and under the same limits: its graph is a model's
+reading and supplies no page, link or count. `--torch-backend cpu` is
+deliberate: `chonkie[st]` pulls sentence-transformers, and a container has no GPU.
+
+`code-graph-rag` (`cgr`) is a uv tool on Python 3.12. Without
+`--with "transformers>=4.40"` the resolver falls back to transformers 4.12.2,
+whose tokenizers needs a Rust build that fails.
+
+Both are installed and start; neither has been run against the corpus, and
+nothing in the pipeline calls them.
 
 ## Changing your mind
 
