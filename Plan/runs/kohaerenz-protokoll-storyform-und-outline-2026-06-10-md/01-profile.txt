@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-storyform-und-outline-2026-06-10-md
+  lines                527  (frontmatter ends at 9)
+  body words           6157
+  headings             23   bold-only lines 12
+  table rows           93   code fences 0
+  question marks       10
+  backslash escapes    419
+  typographic marks    251   ascii quotes 45
+  invisible characters none
+  math symbol lines    31
+  glued ref numbers    57
+  repeated labels      none
+  longest line         1041 chars
+

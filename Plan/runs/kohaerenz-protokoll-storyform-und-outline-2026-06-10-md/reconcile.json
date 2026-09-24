@@ -1,0 +1,259 @@
+{
+  "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "drive_id": "1eQH_wJzbKGe7cDsaCdLODT9R-9fLsIYU9sD-L7BXDfs",
+  "step": "reconcile",
+  "at": "2026-09-24",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 56,
+    "conflicts": 5
+  },
+  "state_after": {
+    "pages": 60,
+    "conflicts": 6
+  },
+  "pre_classification": {
+    "candidates": 383,
+    "decisions": 385,
+    "decided_by_lookup": 293,
+    "needs_judgement": 92
+  },
+  "new_terms": [
+    "coheron",
+    "nichts-rauschen",
+    "trennungsprotokoll",
+    "landauer-signatur"
+  ],
+  "new_terms_rule": "a new term gets a page when a [K] passage of this document gives it a reading and it names something in the world or its physics. The document itself separates the rest: it says its figures are only „outline-relevante Kurzanker“ and that DKT physics and the character bible are elsewhere (L13), so Alter names wait for the character bible, and the storyform, chapter, prose-rule, source and open-question vocabulary is the novel's craft, not its world. Four terms meet the rule.",
+  "not_promoted_rule": "271 new terms matched no page and did not become one: Dramatica vocabulary used in its home sense, chapter and act structure, prose rules, source names, open-question labels, the 12 Alter names beside Kael (roster on alters), and terms the document itself leaves open (Wir-AEGIS by OQ-A, Moonshine by OQ-F). All are in Sources/terms with counts and lines.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        42,
+        135,
+        206,
+        282,
+        412,
+        475
+      ],
+      "attribution": "premise",
+      "note": "the K₀/K₁ inversion, never a villain, what remained after the Trennungsprotokoll, an architecture of two Guardians; the final plural form and its open name"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        25,
+        245,
+        370
+      ],
+      "attribution": "premise",
+      "note": "Kohärenz is K₁; AEGIS mistakes itself for it"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        13,
+        25
+      ],
+      "attribution": "premise",
+      "note": "Entropie is K₀, AEGIS' nature; physics deferred to DKT sources"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        21,
+        42,
+        64,
+        206,
+        271,
+        286,
+        400
+      ],
+      "attribution": "premise",
+      "note": "kosmologische Konstante, never subject, warmth as her trace"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        42,
+        127,
+        253,
+        260,
+        370,
+        412
+      ],
+      "attribution": "premise",
+      "note": "host of thirteen, carries K₁, writes the book"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        46,
+        172,
+        276
+      ],
+      "attribution": "premise",
+      "note": "Funktionale Multiplizität, never Fusion; the veil"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        13,
+        206,
+        253,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        278
+      ],
+      "attribution": "premise",
+      "note": "a closed roster of 13 and 15 struck names"
+    },
+    {
+      "page": "did",
+      "lines": [
+        46,
+        446
+      ],
+      "attribution": "premise",
+      "note": "background, not structure; unnamed before Kap 13"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        230,
+        237,
+        241,
+        245,
+        307
+      ],
+      "attribution": "premise",
+      "note": "symptom to AEGIS, breath to the novel; one trigger Alter per kind"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        206,
+        214,
+        219,
+        221,
+        282,
+        313,
+        333,
+        363,
+        381
+      ],
+      "attribution": "premise",
+      "note": "two, not five; no pairing with worlds — conflict C6"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        214,
+        219,
+        220,
+        221,
+        222,
+        226
+      ],
+      "attribution": "premise",
+      "note": "four with two names each, and two levels outside; names differ from document 4"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        59,
+        219,
+        306
+      ],
+      "attribution": "premise",
+      "note": "KW1, alias Logos-Prime, Akt I; prose rule"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        222
+      ],
+      "attribution": "premise",
+      "note": "a name of KW4 — speaks to C5"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        221,
+        226
+      ],
+      "attribution": "premise",
+      "note": "AEGIS' operating space outside the worlds"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        226,
+        277
+      ],
+      "attribution": "premise",
+      "note": "Köln 2026, never a stage"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        220,
+        282,
+        370,
+        381
+      ],
+      "attribution": "premise",
+      "note": "one of two Guardians; also KW2 and a server"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        298,
+        306
+      ],
+      "attribution": "premise",
+      "note": "numbered 734, the start of Kap 1 (J50)"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [
+    "C6"
+  ],
+  "conflicts_changed": [
+    "C5"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4"
+  ],
+  "judgements": [
+    "J46",
+    "J47",
+    "J48",
+    "J49",
+    "J50",
+    "J51",
+    "J52",
+    "J53"
+  ],
+  "decided_by_existing_rules": "the remaining judgement pairs are compound against head (Modus/Modus-Wechsel, Genesis/Genesis-Echo, Storyform/Storyform-Wendung, Driver/Driver-Pivot, and their kind) — two terms by J16/J28; Erasure-Wellen/Erasure-Welle one term by J24; Funktionale Multiplizität one term with multiplizitaet by J21; Limina/Mina two terms (substring, two names on one list).",
+  "found_by_rule_not_by_census": [],
+  "baseline_moved": false,
+  "citations_requalified": {
+    "konstrukt-stadt": 5
+  }
+}
