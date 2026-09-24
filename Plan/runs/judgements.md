@@ -885,3 +885,59 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L165 names KW3 „Cerberus-Labyrinth / Überwelt-Nexus“, „Maschinenraum hinter dem Rendering“; L170 places the Überwelt outside the Kern-Welten.
 
 **Result.** TWO terms, and neither is Nexus either. The compound names a place in KW3; the passage is a reading on ueberwelt, nexus and kern-welten, because it states a relation between them the document itself leaves unresolved.
+
+## J64 — Therapie-Schnittstelle Gamma / Therapie-Schnittstelle Alpha
+
+**one-term** · kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a facility is identified by its function and its world; a differing letter or number is a reading, not a new term (J50 generalised)
+- **mechanised by:** `nothing`
+- **features:** designator, same-function, same-world, filtered-quarry
+
+**Question.** a second letter for the therapy room
+
+**What was done.** L167: „Therapie-Schnittstelle Gamma“, KW1, „Raum für simulierte Therapiesitzungen mit AEGIS-Avatar/NPC“, labelled [S]; L13 names the quarry it filtered, which includes this page's first source.
+
+**Result.** ONE term. The differing letter is a reading on the page.
+
+## J65 — Datenverarbeitungsknoten Epsilon / Datenverarbeitungsknoten 7G
+
+**one-term** · kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a facility is identified by its function and its world; a differing letter or number is a reading, not a new term
+- **mechanised by:** `nothing`
+- **features:** designator, same-function, same-world
+
+**Question.** Kael's workplace under two designators
+
+**What was done.** L153: „Datenverarbeitungsknoten Epsilon“, „Kaels Arbeitsplatz“, [K], KW1.
+
+**Result.** ONE term, by J64's rule. Documents 9 and 10 name it Epsilon too; not attached when read.
+
+## J66 — Zero-Trust-Boundary-Protocols / Zero-Trust
+
+**two-terms** · kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming a protocol is not the function it is named for (J57); a passage is placed by what it states
+- **mechanised by:** `nothing`
+- **features:** compound, project-function
+
+**Question.** whether a named protocol is AEGIS' Zero-Trust function
+
+**What was done.** L702, a [V] background question: AEGIS enforces separation between the Kern-Welten by „Zero-Trust-Boundary-Protocols“.
+
+**Result.** TWO terms. The passage is a reading on aegis-teilfunktionen because it states a use of the function (J62's placement rule). Not the external standard (J11).
+
+## J67 — Personae / Personas
+
+**judgement** · kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a bare plural that could name the page's referent or Kael's parts is resolved by the sentence, never by the surface (J20, J55)
+- **mechanised by:** `nothing`
+- **features:** plural, unclear-bearer
+
+**Question.** whether the Personae that collapse at the Evaluierungseinheit are the page's consciousness instances
+
+**What was done.** L361: the Evaluierungseinheit, „wo Personae kollabieren“ (Kap 13, the veil falls).
+
+**Result.** Not attached. The sentence does not say whose Personae; the page's are the Guardians' wards in a 2025 source.
