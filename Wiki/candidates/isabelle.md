@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -37,3 +37,8 @@ Roster row: „Isabelle (Sexualisiert)" ^[koharenz-protokoll-konzept-konsolidier
 From the first trauma layer: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L436]
 
 It stands in two Riss rows: „(Flight, Lia/Isabelle)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L560], spatial, and „Isabelle (Sex)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L566], „Texturen bluten, Synästhesie" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L568].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Two triggers again: „Spatiale Risse** (Lia/Isabelle-Trigger)" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L236] in KW2, and
+in KW4 „Sensorische Risse** (Isabelle-Trigger) als **Synästhesie**" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L448].
