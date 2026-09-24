@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -174,3 +174,8 @@ Akt I spürt der Leser sie nur über Glitches" ^[kapitel-kompendium-gather-2026-
 „Diegetisch sichtbare Manifestation der Inversion." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L746] Three classes —
 Anteils-, Welt- and Spiegel-Risse (L754–L756) — and one type per world (L763–L769).
 In KW4 they invert: „Hier sind Risse keine Pathologie, sondern Geburten." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L444]
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+A bridge-scene type: „Strukturelle Risse in der Simulation sind ontologische
+Schnittstellen" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L333], where K0 breaks into K1.
