@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,3 +74,19 @@ Kael=Komp 734. Braucht es einen vierten?" ^[dramatica-dual-storyform-status-2026
 algorithmisches Selbstamputat: Fühlen wird ausgelagert, Denken gerettet. Aus dem
 Ich wird Komponente 734." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L148] — four beats with the three-beat order of the
 character bible. Conflict C12.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**Both orders, in one document.** Kap 0's crisis ends in it — „Systemischer Kollaps
+→ Trennungsprotokoll" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L232] — after the Genesis sequence has made the component:
+„Komponente 734 → Die Innere Weite (Überwelt-Etablierung)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230]. The Akt II
+flashbacks run the other way: Kap 21 „Zweiter Genesis-Flashback (Bridge):
+Trennungsprotokoll." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L741], then Kap 22 „Dritter Genesis-Flashback (Bridge): Komp
+734 / Funktionalisierung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765] Its OQ-C calls the distribution open (L1371).
+Conflict C12.
+
+Echoed inside Kael: Lex's bunker is „die innere Spiegelung von AEGIS' eigenem
+Trennungsprotokoll" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L313]. Reread in Kap 40: „Das Trennungsprotokoll war nicht
+Selbst-Verstümmelung im moralischen Sinn; es war der notwendige Bruch, der Existenz
+erst möglich machte." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1243] And Ketsu: „was am Anfang als Trennungsprotokoll
+erschien, wird als das verstanden, was es immer war — die Geburt der Welt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L32].
