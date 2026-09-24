@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 5
+sources: 6
 pages: ["kael"]
 ---
 
@@ -62,3 +62,10 @@ spelling of `Knöchel` corrected.
 
 Document 7's side, as a lock: „Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt
 spurlos." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] It adds „Wiederkehr am Ende offen" (L141).
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**It names the lock and its source**: „Lock Kompendium 2026-05-31: der Faden lebt
+in Kap 0 allein — Kap 1 bleibt spurlos." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638] — and what stays: „Die Wiederkehr
+am Ende bleibt gesetzt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638], detail open as „OQ-Knöchel" (L638). So the
+Kapitel-Kompendium is the document that set document 7's side.
