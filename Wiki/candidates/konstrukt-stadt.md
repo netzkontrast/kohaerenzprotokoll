@@ -81,3 +81,10 @@ The world table's first row is „KW1 — Logos-Prime" ^[kohaerenz-protokoll-cha
 on this page — including the other canon-era source, „KW1 Konstrukt-Stadt
 (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219] — makes the Konstrukt-Stadt KW1. Conflict `C9`, a
 scale disagreement like `C5`.
+
+## Decided by the author, 2026-09-24 — the Konstrukt-Stadt is the whole simulation
+
+„Die ganze Simulation" (conflict `C9`): the simulated world AEGIS runs, divided
+into the four [[kern-welten|Kern-Welten]] — not KW1. The readings above that name it as KW1 stay as
+their documents wrote them. What KW1 is called is open in `q5-guardians-and-kern-welten`.
+
