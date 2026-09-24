@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-17"
 ---
 
@@ -137,3 +137,18 @@ only Guardian allowed on stage: „Keine Guardians als Figuren** außer Mnemosyn
 
 One of the two: „5 Guardians → 2 (Mnemosyne + Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810] In Vortex 1,
 Beat 4: „Mnemosyne ist die erste Guardian, die betroffen ist." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L598]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+„Erinnerungs-Hüterin. Empathisch, melancholisch. Verwaltet die Datenströme der
+Erinnerung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L160] — one of „Die zwei Guardians (auf 2 reduziert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L158].
+„Setting des Klimax: Mnemosyne-Archipel ist der einzige Ort, an dem Erasure nicht
+greift" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L160]; „Tragik: bewahrt Trauma als Daten, ohne emotionalen Kontext zu
+erfassen." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L160]
+
+KW2's Guardian, and [[logos|LogOS]] absorbed into her: „(LogOS, in Mnemosyne
+absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172] — while L161 absorbs LogOS into the Erasure-Pol. Q5.
+
+First clearly in Kap 14: „Mnemosyne tritt erstmals deutlich auf" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573] — „sie
+agiert subtil, manipulativ" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573]. In Akt III: „Guardians als Sub-Antagonisten
+(Mnemosyne, Erasure-Pol)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005].
