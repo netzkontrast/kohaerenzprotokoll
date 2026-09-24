@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -113,3 +113,9 @@ metaphernreich, oft poetisch ohne dies zu wissen." ^[kohaerenz-protokoll-charakt
 
 This is the first source that makes her the Erinnerungs-Wächterin by title
 („Mnemosyne (Erinnerungs-Wächterin)", L182) — see `q4-waechter-four-bearers`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Mnemosyne — Erinnerungs-Hüterin." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L216] One of the two Guardians this document keeps.
+
+„Mnemosynes Tragik: sie bewahrt Trauma als Daten, weil sie den emotionalen Kontext nicht erfassen kann" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L216]. „Mnemosyne dominiert klar" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] in KW2, the Mnemosyne-Archipel (L483).
