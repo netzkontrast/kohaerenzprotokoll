@@ -2,7 +2,7 @@
 id: C9
 subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
-status: decided — by the author, 2026-09-24: the whole simulation
+status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
 sources: 2
 pages: ["konstrukt-stadt", "kern-welten"]
@@ -48,3 +48,16 @@ The readings that make it KW1 stay on the pages as what their documents said.
 **What it leaves open:** what KW1 is called, now that the Konstrukt-Stadt is not
 its name. The same source calls KW1 „Logos-Prime" (L51); the author has not said
 so, and the question sits with the other world names in `q5-guardians-and-kern-welten`.
+
+## 2026-09-24 — corrected by the author: KW1 only
+
+The entry above is wrong. The author's correction: **„Ne stop - es ist nur
+kw1"**. The Konstrukt-Stadt is **KW1**, positions 1 and 3 — as
+`guardians-und-kern-welten-konzept` and the other canon-era source write it:
+
+> „KW1 Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219]
+
+The Charakter-Bibel's reading of it as the whole simulation stays on the page as
+what that document said. The entry above is kept, because this record is
+append-only; this one supersedes it. **KW1 needs no new name**; whether
+„Logos-Prime" is its second name is not part of this decision.
