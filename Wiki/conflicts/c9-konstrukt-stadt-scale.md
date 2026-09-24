@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 3
+sources: 4
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -71,3 +71,7 @@ One sentence that touches the old question from the other side: the chapter
 outline says the sterile setting of KW1 „ist die Innere Weite (Überwelt)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L837]
 of Kap 0 — KW1 as the [[ueberwelt|Überwelt]] seen from inside, not as the whole simulation.
 Recorded; the decision stands.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Consistent with the decision: KW1 „Konstrukt-Stadt (Logos-Prime)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L163].
