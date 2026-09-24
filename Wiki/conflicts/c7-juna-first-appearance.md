@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 6
+sources: 7
 pages: ["juna"]
 ---
 
@@ -86,3 +86,12 @@ Document 7's side, with the verb split. The grammar rule says she never appears:
 gives her first appearance to Kap 38: „Stille-Beat: Junas erste direkte Erscheinung
 — sie ist einfach da, ohne Worte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611]. The glossary explains document 7 and
 ranks itself below it (L2).
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**Kap 38, stated five times.** „Erste direkte Erscheinung erst in Kap 38 Beat 3 —
+als Stille" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L121]; the entry: „Junas erste direkte Erscheinung: sie ist einfach
+da, ohne Worte, ohne Anweisung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1174]; and again in the synoptic table, the
+transitions and the closing sentences (L1305, L1335, L1385). Kap 33's entry does not
+name her (L1037). The konsolidiertes Konzept's side, ten days after it and
+integrating it (L1393); ten days after the character bible too.
