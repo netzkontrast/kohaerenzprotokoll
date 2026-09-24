@@ -43,6 +43,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts"))
+from subject import read_jsonl  # noqa: E402
+
 LEDGER = ROOT / "Plan" / "runs" / "baselines.jsonl"
 TOLERANCE = 0.02
 
@@ -78,8 +81,7 @@ def append(entry: dict, ledger: Path = LEDGER) -> dict:
 def rows(task: str | None = None, ledger: Path = LEDGER) -> list[dict]:
     if not ledger.exists():
         return []
-    out = [json.loads(l) for l in ledger.read_text(encoding="utf-8").splitlines() if l.strip()]
-    return [r for r in out if task is None or r["task"] == task]
+    return [r for r in read_jsonl(ledger) if task is None or r["task"] == task]
 
 
 def compare(task: str, floor: str | None = None, ledger: Path = LEDGER) -> tuple[str, list[str]]:

@@ -1,99 +1,146 @@
-# `scripts/` — every tool, by the job it does
+# scripts/ — what does what
 
-Each row is the script's own first docstring line, or close to it; the script's
-docstring says what it guarantees, and `CLAUDE.md` says how the tools fit
-together. The standard-library scripts need no virtualenv. A script that needs
-one says which — `.venv-dspy`, `.venv-typesafe` — and `scripts/install.sh`
-builds it.
+Every tool the wiki is built with. Each runs from the repository root:
+
+    python3 scripts/<name>.py …
+
+Most are standard library and need nothing installed. The ones that need a venv
+or a tool name it below, and `scripts/install.sh <name>` installs it.
+
+This page is the map: one entry per file, what it is for, and what it writes.
+It is not the manual:
+
+- **A script's docstring is its documentation** — why it exists, what it
+  measured, how to call it. Read the top of the file before running it.
+- **`.agents/skills/tools/references/commands.md`** has every flag and every
+  artifact.
+- **`.agents/skills/tools/SKILL.md`** has the order they run in, and what a red
+  check means.
+
+A script not listed as writing only prints, and is safe to run at any time.
 
 **This page is checked, not remembered.** 0 <!--state:readme.scripts_drift-->
 files in `scripts/` are missing from it or listed here without existing, and
 `python3 scripts/state.py --prose` fails the day that number is not 0.
 
-## Sources — landing the corpus and knowing its shape
+## Setting up a container
 
-| script | what it does |
+| file | does | writes |
+|---|---|---|
+| `install.sh` | Installs everything a fresh container lacks — `Plan/derived/`, every venv, the uv tools, qmd's package — one named component at a time; skips what is present. `--check` reports and changes nothing; `--list` names the components. The cloud session-start hook runs it. | the venvs, the tools, `Plan/derived/`, `.install.log` |
+| `setup_qmd.sh` | qmd alone: the package and a shim on the path, then its models, index and embeddings, which `install.sh` leaves out by default. `--package` stops after the shim; `--check` changes nothing. | `.tools-node/`, qmd's index, `/usr/local/bin/qmd` |
+
+## Shared modules
+
+Imported by the others. Call these rather than writing a second copy: two
+encodings of one rule drift apart on the first edit (P6).
+
+| file | owns |
 |---|---|
-| `sources.py` | Manage the source corpus: fetch documents from Drive, land them, and see what is missing |
-| `dedupe.py` | Fold each group of near-identical exports down to one file |
-| `duplicates.py` | Whether any landed document is a near-copy of another |
-| `subject.py` | The one place the corpus becomes addressable; every other script asks here |
-| `profile.py` | Structural profile of one landed source document |
-| `corpus.py` | Ask questions about every landed document without reading any of them |
-| `derive.py` | Apply every rule to every document, once, into `Plan/derived/` |
-| `rules/__init__.py` | The rule set — where this project's learned structure lives |
-| `rules/attribution.py` | Where a document attributes a claim to something outside itself |
-| `rules/export_damage.py` | What the Drive conversion did to the text, and what it costs a check |
-| `rules/structure.py` | How the document is built: headings, tables, formulas, length |
-| `rules/surfaces.py` | Every capitalised token, with its count and the file lines it appears on |
+| `subject.py` | The substrate: repository paths, reading and writing a JSONL file, the manifest rows and the rows folded out of it, every landed document with its body and the **file** line that body starts on, a document's derived facts, the judgement ledger, and `cli()`, which runs a script's `main`. The one implementation of where a source document's frontmatter ends. Imported, never run. |
+| `wiki_index.py` | `fold()` — whether two surfaces are one term — `mention()` — where a term stands alone as a word, for every script that counts or marks one — and wiki-page frontmatter. Run, it writes `Wiki/index.json`, the lookup `reconcile.py` answers from; `--check` reports what the index cannot see. |
+| `quotes.py` | `normalise()`, `pairs()` and `verdict()`: which citation belongs to which quotation, and whether it resolves. `tally()` counts the outcome over every file; `state.py` and `ui.py` take the count from there. Run, it checks every „…" ^[Lnn] in the repository, or in one file. |
+| `rules/__init__.py` | The contract every rule keeps — a module with `NAME`, `VERSION`, `applies()` and `derive()` — and `load()`, which `derive.py` applies them through. |
+| `rules/structure.py` | How a document is built: headings, tables, formulas, length. `profile.py` counts with its patterns. |
+| `rules/surfaces.py` | Every capitalised token, with its count and lines — the index `corpus.py` answers from. |
+| `rules/attribution.py` | Where a document attributes a claim to something outside itself. |
+| `rules/export_damage.py` | What the Drive conversion did to the text. `capture.py` and `profile.py` count with its patterns. |
+
+## Fetching the corpus
+
+| file | does | writes |
+|---|---|---|
+| `sources.py` | `status` and `check` compare the manifest with the disk; `next` names the `drive_id`s to fetch; `land` turns a Drive result into a landed document without a model reading it; `fetch` fetches and lands straight from Drive. `land` shells out to `.venv-tools` for markitdown. | `land`, `fetch`: `Sources/drive/<slug>.md` and the row's checksums in the manifest |
+| `duplicates.py` | Whether any landed document is a near-copy of another — the check that should keep saying none. | a cache, `Plan/derived/duplicates.json` |
+| `dedupe.py` | Folds each group of near-copies down to one export, ranked by the source URLs it keeps. Dry run by default. | `--apply`: deletes the copies, moves their rows to `Sources/duplicates.jsonl` and the decision to `Plan/runs/dedupe.json` |
+
+## Asking the whole corpus
+
+| file | does | writes |
+|---|---|---|
+| `derive.py` | Applies every rule in `rules/` to every landed document, cached by (document sha256, rule version). The first thing to run in a fresh container. | `Plan/derived/<slug>.json` |
+| `corpus.py` | Counts, timelines, co-occurrence and the earliest or densest documents for a term, answered from the derived facts — counts and slugs, never document text. | — |
+| `profile.py` | The structural profile of one document, the same probes in the same order for every document. `--frontmatter` prints a census header drawn from the manifest. | — |
 
 ## Reading one document
 
-| script | what it does |
-|---|---|
-| `read.py` | Hand the reader the document the way a citation will be checked; `--find` answers with the line |
-| `capture.py` | Capture every artifact of an extraction run into `Plan/runs/<slug>/`, not only the finished census |
-| `quotes.py` | Verify that every quoted passage still resolves to the line it cites |
-| `entities.py` | Search every landed document for the entities a per-document model read named |
-| `jev_entities.py` | Entity list by script plus Jev — a test of a route, not a pipeline step |
-| `bilingual.py` | German and English names for the same entity, across the whole corpus |
-| `rlm_ingest.py` | Read one document with `dspy.RLM`, carrying this repository's own skills |
+| file | does | writes |
+|---|---|---|
+| `capture.py` | Opens a document's run: profile and probes first, then — only once `03-candidates.md` has been written by hand — the counts. | `Plan/runs/<slug>/01-profile.txt`, `02-probes.txt`, `probes.json`, a `03-candidates.md` header if none exists; `--count`: `04-counts.txt`, `counts.json` |
+| `read.py` | The document with every line prefixed by the file line a citation names. `--find "<words>"` answers with the citation, or refuses and names the nearest line. | — |
 
-## The wiki
+## Reconciling against the wiki
 
-| script | what it does |
-|---|---|
-| `wiki_index.py` | Build `Wiki/index.json` from page frontmatter, so reconciling never has to read the wiki |
-| `reconcile.py` | Pre-classify a document's candidates against the wiki, without reading it |
-| `judgements.py` | Replay every recorded judgement against the code that now claims to handle it |
-| `account.py` | One operation: give an account of a subject |
-| `relations.py` | What the wiki says relates to what, and what it says it does not know |
-| `link.py` | Mark the links the prose already makes, without touching a single quotation |
-| `graph.py` | The wiki as a typed knowledge graph, every edge carrying the line that states it |
-| `graphrag.py` | Graph retrieval over the wiki: a question in, attributed evidence out, never an answer |
+| file | does | writes |
+|---|---|---|
+| `reconcile.py` | Pre-classifies a document's census against `Wiki/index.json`: new term, new reading, already there, or needs judgement. | `Plan/runs/<slug>/reconcile-pre.json` |
+| `judgements.py` | Replays every recorded one-term-or-two decision against `fold()`: agrees, DISAGREES, or still a person's call. | `Plan/runs/judgements.md`, re-rendered on every full run |
+| `account.py` | The one verb: an account of a `document`, a `term`, a `pair`, the `corpus`, or the pipeline's `order` — the invariant that fails while any document is half-processed. | — |
+
+## Links, graph and retrieval
+
+| file | does | writes |
+|---|---|---|
+| `relations.py` | The page graph from `[[links]]`: broken links, orphans, open statements, and `--unmarked` mentions the markup does not mark. | — |
+| `link.py` | Marks the links the prose already makes, and never inside a quotation, heading, blockquote or citation line. Dry run by default. | `--apply`: pages in `Wiki/candidates/` |
+| `graph.py` | The typed knowledge graph — terms, documents, conflicts, questions — each edge carrying the file line that states it. Exports JSON, GraphML, triples or Mermaid. | — |
+| `graphrag.py` | `ask`: a question in, verified quotations out, ranked by personalized PageRank over `graph.py`'s graph — never prose. `bench` scores retrieval against the wiki's own labels. `--answer` needs `.venv-dspy` and the author's approval. | `bench --record`: `Plan/runs/baselines.jsonl` |
+
+## Measuring and checking
+
+| file | does | writes |
+|---|---|---|
+| `state.py` | Every number about the repository, measured. `--prose` fails on a number in any markdown that contradicts its measurement, `--check` on a drifted `Plan/state.json`, `--get KEY` prints one. | without a flag: `Plan/state.json` |
+| `selftest.py` | Proves `quotes.py`, `read.py --find` and `fold()` can fail, each case carrying the exact defect it must name. | — |
+| `selftests.py` | Runs every self-test in the repository, four at a time, one line each: held, FAILED, or not run. `run()` hands `ui.py` the same rows. | — |
+| `check_skills.py` | Checks `.agents/skills/` against the agent-skills spec, and that each `.claude/skills/<name>` is a symlink to it. | — |
+
+## Entity lists and language pairs — a model's proposals
+
+| file | does | writes |
+|---|---|---|
+| `entities.py` | Verifies and searches the per-document entity lists in `Plan/entities/`. `place` turns a model's names into a list whose lines are found by code. | `place`: `Plan/entities/<slug>.md`; `matrix`: `Plan/derived/entities-matrix.json` |
+| `bilingual.py` | German and English surfaces of one entity across the corpus: glosses the corpus states, found by code; Jev and free models for the rest. Needs `.venv-typesafe`; `--replay` reruns from the cache with no key and no network. | `Plan/runs/bilingual/`, `Plan/entities/bilingual.md` and `.jsonl` |
+| `jev_entities.py` | A test of one route to an entity list: code finds every candidate and its line, Jev judges each. Needs `.venv-typesafe`; `--replay` as above. | `Plan/runs/jev/<slug>/` |
 
 ## Calling a model
 
-The ones that call a model refuse to send corpus text without the author's yes
-for that run. The `dspy` skill (`.agents/skills/dspy/`) is how to work with them.
+No corpus text is sent to a model without the author's decision, and every model
+step runs offline — a `--dry-run`, a `--replay`, or a `selftest`. The rule has
+three encodings, `lmrun.py`, `rlm_ingest.py` and `route.py`, and decision 008
+keeps them apart until one changes its rule and the others do not. The `dspy`
+skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 
-| script | what it does |
-|---|---|
-| `lmrun.py` | Every DSPy model call goes through this, and leaves its evidence on disk |
-| `lm_fixture.py` | An offline language model, so every model step can run with no key and no network |
-| `route.py` | One door for every model call a tool makes — priced, consented and recorded before it is sent |
-| `baseline.py` | The score of every program on every task, append-only, compared against a floor |
-| `pairs.py` | One term or two — the harness every rule and every model is scored through |
-| `trainset.py` | The judgement ledger as a trainset, and the baseline any model must beat |
+| file | does | writes |
+|---|---|---|
+| `route.py` | One door for a third-party tool's model calls and for direct ones: free OpenRouter models only, the consent file naming which documents may be sent, every call recorded and replayable offline. `serve` is an OpenAI-compatible proxy a tool is pointed at; `guard <slug>` says whether a document's text would be refused. Jev calls need `.venv-typesafe`. | `Plan/runs/route/` — `ledger.jsonl`, `calls/`, `models.json` |
+| `lmrun.py` | How `pairs.py` and `graphrag.py` call a model through DSPy: cache off, one record per call, a real model refused without `approval=`. Needs `.venv-dspy`. | `Plan/runs/<subject>/lm/<step>.jsonl` |
+| `lm_fixture.py` | An offline `dspy.BaseLM`, and `offline()`, which also hides every API key and makes `litellm` refuse. Needs `.venv-dspy`. | — |
+| `check_dspy_skill.py` | Asserts what the `dspy` skill teaches against the DSPy installed here: every parameter and default it writes down, one offline probe per behaviour it marks checked, every path it names. Needs `.venv-dspy`. | — |
+| `check_dspy_surface.py` | Asserts each DSPy parameter this repository passes, by `inspect.signature`. Needs `.venv-dspy`. | — |
+| `trainset.py` | The judgement ledger as labelled pairs, and the `fold()` baseline any model has to beat. | `--export`: `Plan/trainsets/` |
+| `pairs.py` | One term or two: scores a rule, or a compiled program on what the rule leaves, and asks every candidate the never-merge canaries. `score` is standard library; `run` needs `.venv-dspy`. | `--record`: `Plan/runs/baselines.jsonl` |
+| `baseline.py` | The append-only score ledger. `compare` fails a candidate that does not beat the floor. | `Plan/runs/baselines.jsonl`, for its callers |
+| `rlm_ingest.py` | Reads one document with `dspy.RLM`, carrying this repository's skills. A real run needs `.venv-dspy` and `--approval`; `--selftest` is standard library. | `Plan/runs/<slug>/03-candidates-rlm.md` |
 
-## Checks
+## Third-party extraction
 
-`python3 scripts/selftests.py` runs every suite, one line each; a suite that
-could not run says `not run`, never `held`.
-
-| script | what it does |
-|---|---|
-| `selftests.py` | Run every self-test in the repository, and report each one on its own line |
-| `selftest.py` | Prove the checkers can fail, with defects whose exact shape is asserted |
-| `state.py` | The repository's state, measured rather than remembered; `--prose` checks every marked number |
-| `check_skills.py` | Validate the project's skills against the agent-skills spec, and against each other |
-| `check_dspy_surface.py` | Assert the DSPy surface this repository calls, and fail loudly when it moves |
-| `check_dspy_skill.py` | Assert what the `dspy` skill teaches, against the DSPy installed here |
-| `templates.py` | Check Hyper-Extract templates against Hyper-Extract and against this project |
+| file | does | writes |
+|---|---|---|
+| `templates.py` | Checks the Hyper-Extract templates in `Plan/hyperextract/` against Hyper-Extract's validator, against loading them as `he parse` does, and against this project's rules — no line field, no model merge, the provisional header, no corpus name in a prompt. `selftest` shows each check failing on its defect. Needs `he`. | — |
 
 ## Search
 
-| script | what it does |
-|---|---|
-| `qmd.py` | Talk to qmd from Python, and hand what it finds to the tools that answer |
-| `qmd_coverage.py` | Which markdown in this repository qmd can find, and which it cannot |
-| `setup_qmd.sh` | Rebuild the qmd setup from nothing |
+`setup_qmd.sh` installs qmd; it is under *Setting up a container*.
 
-## Setup, and the project app
+| file | does | writes |
+|---|---|---|
+| `qmd.py` | qmd from Python. A hit carries where to look, and `Hit.document()` hands it back to `subject.py`. | — |
+| `qmd_coverage.py` | Which markdown no qmd collection covers — a file there is absent from every search. | — |
 
-| script | what it does |
-|---|---|
-| `install.sh` | Install everything a fresh container lacks; the session-start hook runs it |
-| `ui.py` | The whole project as one interactive app, derived into the files of a claude.ai Design canvas |
-| `ui.html` | The app's markup, with the macros `ui.py` expands |
-| `ui.js` | The app's component |
+## The project app
+
+| file | does | writes |
+|---|---|---|
+| `ui.py` | Derives the whole project into one interactive app — pages, conflicts, questions, the graph, the manifest, the invariants as they ran — as the files of a claude.ai Design canvas. `--check` reads them back the way the canvas does. | `Plan/derived/ui/` |
+| `ui.html`, `ui.js` | The app's markup and its component logic. `ui.py` fills them with the data; nothing else reads them. | — |

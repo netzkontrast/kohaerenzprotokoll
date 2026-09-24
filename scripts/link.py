@@ -62,6 +62,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 from relations import PAGES, SHORTEST_TERM, term_of  # noqa: E402
+from wiki_index import mention  # noqa: E402
 
 SOURCES = ["candidates", "conflicts", "questions"]
 FRONTMATTER = re.compile(r"\A---\n.*?\n---\n", re.S)
@@ -90,7 +91,7 @@ def masked(text: str) -> list[bool]:
 
 def first_free(text: str, block: list[bool], needle: str) -> int:
     """Where `needle` stands as a whole word outside every mask, or -1."""
-    for match in re.finditer(rf"(?<![\w-]){re.escape(needle)}(?![\w-])", text):
+    for match in mention(needle).finditer(text):
         if not any(block[match.start():match.end()]):
             return match.start()
     return -1

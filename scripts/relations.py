@@ -53,12 +53,11 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import sys
 from functools import lru_cache
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-PAGES = ROOT / "Wiki" / "candidates"
+from subject import PAGES
+from wiki_index import mention
+
 OPEN_HEAD = re.compile(r"^##+ .*\bOpen\b.*$", re.M | re.I)
 NEXT_HEAD = re.compile(r"^##+ ", re.M)
 SENTENCE = re.compile(r"(?<=[.?])\s+")
@@ -118,8 +117,7 @@ def unmarked() -> list[tuple[str, str, int]]:
                 continue
             if (path.stem, other) in linked:
                 continue
-            hits = len(re.findall(
-                rf"(?<![\w-]){re.escape(terms[other])}(?![\w-])", prose))
+            hits = len(mention(terms[other]).findall(prose))
             if hits:
                 found.append((path.stem, other, hits))
     return found

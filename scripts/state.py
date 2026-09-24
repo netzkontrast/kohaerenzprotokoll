@@ -45,10 +45,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
-import subprocess
 import sys
 from datetime import date
+from functools import cache
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -69,15 +70,19 @@ def measure(key: str, how: str):
 
 # ---------------------------------------------------------------- sources
 
+# Several measurements share one expensive reading. Each such reading is cached
+# for the run, so a derive computes it once rather than once per measurement —
+# three identical graphrag benches were most of a derive's seven seconds.
+
+@cache
+def _manifest_rows() -> list[dict]:
+    import subject
+    return subject.rows()
+
+
 @measure("sources.total", "rows in Sources/manifest.jsonl")
 def _sources_total() -> int:
-    return sum(1 for line in (ROOT / "Sources" / "manifest.jsonl").read_text(
-        encoding="utf-8").splitlines() if line.strip())
-
-
-def _manifest_rows():
-    return [json.loads(line) for line in (ROOT / "Sources" / "manifest.jsonl").read_text(
-        encoding="utf-8").splitlines() if line.strip()]
+    return len(_manifest_rows())
 
 
 @measure("sources.canon_era", "manifest rows with an index_date from 2026-05-01 on — the canon-era documents")
@@ -93,10 +98,8 @@ def _canon_era_landed() -> int:
 
 @measure("sources.folded", "rows in Sources/duplicates.jsonl — fetched, then found to be a copy")
 def _sources_folded() -> int:
-    path = ROOT / "Sources" / "duplicates.jsonl"
-    if not path.exists():
-        return 0
-    return sum(1 for line in path.read_text(encoding="utf-8").splitlines() if line.strip())
+    import subject
+    return len(subject.duplicates())
 
 
 @measure("sources.landed", "manifest rows carrying an export_path — the files on disk")
@@ -147,6 +150,7 @@ def _reconciled() -> int:
 
 # ---------------------------------------------------------------- entities
 
+@cache
 def _entity_lists() -> list[dict]:
     import entities
     return [entities.verify(e) for e in entities.lists()]
@@ -174,14 +178,20 @@ def _e_rows_verified() -> int:
 
 # ---------------------------------------------------------------- wiki
 
+@cache
+def _index() -> dict:
+    """The index as it stands on disk — measured, not rebuilt."""
+    return json.loads(INDEX.read_text(encoding="utf-8"))
+
+
 @measure("wiki.pages", "pages counted by the derived Wiki/index.json")
 def _wiki_pages() -> int:
-    return json.loads(INDEX.read_text(encoding="utf-8"))["pages"]
+    return _index()["pages"]
 
 
 @measure("wiki.conflicts", "conflict records counted by the derived Wiki/index.json")
 def _wiki_conflicts() -> int:
-    return json.loads(INDEX.read_text(encoding="utf-8"))["conflicts"]
+    return _index()["conflicts"]
 
 
 @measure("wiki.questions", "question pages in Wiki/questions/, excluding the README")
@@ -248,6 +258,7 @@ def _graph_evidence_verified() -> int:
     return sum(1 for v in build()["evidence"].values() for e in v if e["status"] == "verified")
 
 
+@cache
 def _bench() -> dict:
     from graphrag import bench
     out = {}
@@ -290,26 +301,35 @@ def _prop_glosses() -> int:
     return len(proposals()["glosses"])
 
 
+@cache
+def _surface_pairs() -> list[dict]:
+    from trainset import surface_pairs
+    return surface_pairs()
+
+
+@cache
+def _fold_baseline() -> dict:
+    from trainset import fold_baseline
+    return fold_baseline(_surface_pairs())
+
+
 @measure("pairs.labelled", "labelled one-term-or-two pairs derived from the judgement ledger")
 def _pairs_labelled() -> int:
-    from trainset import surface_pairs
-    return len(surface_pairs())
+    return len(_surface_pairs())
 
 
 @measure("pairs.fold_correct", "of those, decided correctly by fold() — the floor")
 def _pairs_fold_correct() -> int:
-    from trainset import fold_baseline, surface_pairs
-    return fold_baseline(surface_pairs())["correct"]
+    return _fold_baseline()["correct"]
 
 
 # ---------------------------------------------------------------- checks
 
+@cache
 def _verdicts() -> list[str]:
     """One replay of the whole ledger, shared by the three measurements."""
-    if not hasattr(_verdicts, "cached"):
-        from judgements import replay, records
-        _verdicts.cached = [replay(r)[0] for r in records()]
-    return _verdicts.cached
+    from judgements import replay, records
+    return [replay(r)[0] for r in records()]
 
 
 @measure("judgements.total", "records in Plan/runs/judgements.jsonl")
@@ -354,30 +374,23 @@ def _rules() -> int:
     return len(load())
 
 
+@cache
 def _quotes() -> dict:
-    """One quotes.py run, reused by the three measurements that need it."""
-    if not hasattr(_quotes, "cached"):
-        out = subprocess.run([sys.executable, str(ROOT / "scripts" / "quotes.py")],
-                             capture_output=True, text=True, cwd=ROOT).stdout
-        found = re.search(r"(\d+) cited quotes checked, (\d+) unresolved; (\d+)", out)
-        _quotes.cached = {"checked": int(found.group(1)), "unresolved": int(found.group(2)),
-                          "unchecked": int(found.group(3))} if found else \
-                         {"checked": 0, "unresolved": 0, "unchecked": 0}
-    return _quotes.cached
+    """One quotes.py tally, reused by the three measurements that need it."""
+    from quotes import tally
+    return tally()
 
 
 # ---------------------------------------------------------------- trainsets
 
 @measure("trainset.surface_pairs", "labelled one-term/two-terms examples in the ledger")
 def _ts_pairs() -> int:
-    from trainset import surface_pairs
-    return len(surface_pairs())
+    return len(_surface_pairs())
 
 
 @measure("trainset.fold_baseline_pct", "what fold() scores on them — beat this or do not call an LM")
 def _ts_base() -> int:
-    from trainset import surface_pairs, fold_baseline
-    return round(fold_baseline(surface_pairs())["accuracy"] * 100)
+    return round(_fold_baseline()["accuracy"] * 100)
 
 
 @measure("trainset.gold_candidate_lists", "candidate lists written while reading, not reconstructed")
@@ -491,10 +504,17 @@ def marked_files() -> list[Path]:
     Venvs are skipped by prefix, as `qmd_coverage.py` does. A list of their names
     went stale the same way: it missed `.venv-typesafe`, and it read 96
     markdown files from inside `.venv-mflow`, the day that venv was created.
+    A skipped directory is not entered at all: filtering after the walk meant
+    reading every directory of every venv first, thousands for `.venv-dspy`.
     """
-    return sorted(p for p in ROOT.rglob("*.md")
-                  if not any(part in SKIP or part.startswith(".venv")
-                             for part in p.relative_to(ROOT).parts))
+    def skipped(name: str) -> bool:
+        return name in SKIP or name.startswith(".venv")
+
+    found = []
+    for folder, dirs, files in os.walk(ROOT):
+        dirs[:] = [d for d in dirs if not skipped(d)]
+        found += [Path(folder) / f for f in files if f.endswith(".md") and not skipped(f)]
+    return sorted(found)
 
 
 def check_prose(paths: list[Path]) -> list[dict]:
@@ -505,13 +525,16 @@ def check_prose(paths: list[Path]) -> list[dict]:
         if not path.exists():
             continue
         text = path.read_text(encoding="utf-8")
+        if "state:" not in text:
+            continue    # both patterns need the literal; most files have none
         # A marker nothing could read is reported rather than skipped. One inside
         # backticks is prose *about* markers -- this page explains its own format --
         # and is not a claim in either direction, so both loops step over it. The
         # relaxed number pattern would otherwise bind `<!--state:key-->` to whatever
         # digit happened to stand a line above it.
         code = [(m.start(), m.end()) for m in IN_CODE.finditer(text)]
-        readable = {m.start("key") for m in MARKER.finditer(text)}
+        markers = list(MARKER.finditer(text))
+        readable = {m.start("key") for m in markers}
         for stray in ANY_MARKER.finditer(text):
             if stray.start(1) in readable:
                 continue
@@ -519,7 +542,7 @@ def check_prose(paths: list[Path]) -> list[dict]:
                 continue
             problems.append({"file": path, "key": stray.group(1),
                              "why": "no number this check can read stands before it"})
-        for match in MARKER.finditer(text):
+        for match in markers:
             if any(a <= match.start("key") < b for a, b in code):
                 continue    # documentation of the format, not a claim
             key = match.group("key")

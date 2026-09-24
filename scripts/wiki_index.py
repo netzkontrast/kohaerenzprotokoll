@@ -22,14 +22,13 @@ from __future__ import annotations
 
 import json
 import re
-import sys
 import unicodedata
 from datetime import date
-from pathlib import Path
+from functools import lru_cache
 
-ROOT = Path(__file__).resolve().parents[1]
-PAGES = ROOT / "Wiki" / "candidates"
-CONFLICTS = ROOT / "Wiki" / "conflicts"
+import subject
+from subject import CONFLICTS, PAGES, ROOT
+
 INDEX = ROOT / "Wiki" / "index.json"
 
 SCALAR = re.compile(r'^([a-z_]+):\s*"?([^"\n]*?)"?\s*$')
@@ -79,6 +78,24 @@ def fold(surface: str) -> str:
     plain = unicodedata.normalize("NFKD", plain.lower())
     plain = "".join(c for c in plain if not unicodedata.combining(c))
     return re.sub(r"[^a-z0-9]+", "", plain)
+
+
+@lru_cache(maxsize=None)
+def mention(term: str) -> re.Pattern:
+    """`term` standing alone as a word: no letter, digit or hyphen on either side.
+
+    One pattern for every script that asks it. `relations.py` counts the
+    mentions a page leaves unmarked and `link.py` marks exactly those, so the
+    measured number and the edit can never mean two different things;
+    `capture.py` counts a candidate standing alone with it.
+
+    The lookbehind stands after the literal, not before it: the same spans
+    match, because the literal is fixed-width, and the engine can search for
+    the literal instead of trying the assertion at every position. `link.py`'s
+    dry run went from 2.3 seconds to 0.2 with it.
+    """
+    literal = re.escape(term)
+    return re.compile(rf"{literal}(?<![\w-]{literal})(?![\w-])")
 
 
 def build() -> dict:
@@ -156,10 +173,4 @@ def main(argv: list[str]) -> int:
 
 
 if __name__ == "__main__":
-    try:
-        import signal
-
-        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
-    except (ImportError, AttributeError, ValueError):
-        pass
-    raise SystemExit(main(sys.argv[1:]))
+    subject.cli(main)

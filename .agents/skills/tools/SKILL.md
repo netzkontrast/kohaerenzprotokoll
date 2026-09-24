@@ -233,6 +233,8 @@ ledger specified in three places whose directory does not exist.
   Only documents 5 and 6 have been scored against, and no extractor tested so far
   reaches the Haiku floor on them (`Plan/concept/tool-review_2026-09-24.md`).
 
-`references/commands.md` has every script's full surface and its artifacts.
+`references/commands.md` has every script's full surface and its artifacts, and
+`scripts/README.md` is the map of the folder — one entry per file, what it is
+for and what it writes.
 For where DSPy could enter this loop and what data that needs first, read
 `Plan/concept/optimizers-and-data_2026-09-17.md`.

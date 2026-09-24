@@ -17,6 +17,7 @@ decision files are missing from it or listed here without existing, and
 | `005-the-wiki-links.md` | 2026-09-17 | A link is `[[slug]]`; a term in backticks is not a link |
 | `006-every-draft-is-back-in-question.md` | 2026-09-24 | Every draft is back in question; `Sources/` is the starting point |
 | `007-tool-test-consent.md` | 2026-09-24 | Two documents may go to free models and Jev, to test the new tools |
+| `008-open-questions-answered-by-delegation.md` | 2026-09-24 | The tool review's open questions, answered by the session on the author's delegation |
 
 A decision the author still has to make is not here: it is a question under
 `NOW.md`, *Questions for the author*, until it is answered.

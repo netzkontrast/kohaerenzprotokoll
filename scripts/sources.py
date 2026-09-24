@@ -68,8 +68,9 @@ import tempfile
 from datetime import date
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-MANIFEST = ROOT / "Sources" / "manifest.jsonl"
+import subject  # noqa: E402  -- the manifest's one reader and writer
+from subject import MANIFEST, ROOT  # noqa: E402
+
 DRIVE_DIR = ROOT / "Sources" / "drive"
 SPILL_GLOB = "mcp-Google_Drive-read_file_content-*.txt"
 SPILL_ROOT = Path("/root/.claude/projects")
@@ -84,22 +85,6 @@ SUPPORTED_FORMATS = set(FORMAT_SUFFIX) | {"gdoc"}
 
 
 # --------------------------------------------------------------------------- manifest
-
-def load_manifest() -> list[dict]:
-    """Every manifest row, in file order."""
-    rows = []
-    for line in MANIFEST.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if line:
-            rows.append(json.loads(line))
-    return rows
-
-
-def save_manifest(rows: list[dict]) -> None:
-    """Rewrite the manifest, one compact JSON object per line."""
-    body = "\n".join(json.dumps(r, ensure_ascii=False) for r in rows)
-    MANIFEST.write_text(body + "\n", encoding="utf-8")
-
 
 def find_row(rows: list[dict], drive_id: str) -> dict:
     for row in rows:
@@ -119,13 +104,9 @@ def folded_drive_ids() -> set[str]:
 
     They are no longer in the manifest, so nothing would stop `next` from
     offering them again after a manifest rebuild. `scripts/dedupe.py` writes the
-    file; this is the only thing that reads it.
+    file; `next` filters against it.
     """
-    path = ROOT / "Sources" / "duplicates.jsonl"
-    if not path.exists():
-        return set()
-    return {json.loads(line)["drive_id"]
-            for line in path.read_text(encoding="utf-8").splitlines() if line.strip()}
+    return {row["drive_id"] for row in subject.duplicates()}
 
 
 # --------------------------------------------------------------------------- normalize
@@ -159,8 +140,6 @@ def frontmatter(row: dict, today: str) -> str:
     lines = [f"{k}: {quote(v)}" for k, v in fields.items()]
     return "---\n" + "\n".join(lines) + "\n---\n\n"
 
-
-# --------------------------------------------------------------------------- spill
 
 # --------------------------------------------------------------------------- drive
 
@@ -277,6 +256,8 @@ def convert_binary(data: bytes, suffix: str) -> str:
         temp.unlink(missing_ok=True)
 
 
+# --------------------------------------------------------------------------- spill
+
 def newest_spill() -> Path:
     """The most recently written Drive spill file across all sessions."""
     candidates = sorted(SPILL_ROOT.glob(f"*/*/tool-results/{SPILL_GLOB}"),
@@ -300,7 +281,7 @@ def read_spill(path: Path) -> str:
 # --------------------------------------------------------------------------- commands
 
 def cmd_status(args: argparse.Namespace) -> int:
-    rows = load_manifest()
+    rows = subject.rows()
     landed = [r for r in rows if is_landed(r)]
     by_cat: dict[str, list[int]] = collections.defaultdict(lambda: [0, 0])
     by_tier: dict[str, list[int]] = collections.defaultdict(lambda: [0, 0])
@@ -326,7 +307,7 @@ def cmd_status(args: argparse.Namespace) -> int:
 
 def cmd_check(args: argparse.Namespace) -> int:
     """Compare the manifest against the disk. The check whose absence hid 26-of-680."""
-    rows = load_manifest()
+    rows = subject.rows()
     missing_file, no_path, bad_hash, orphans = [], [], [], []
 
     for row in rows:
@@ -369,8 +350,8 @@ def cmd_check(args: argparse.Namespace) -> int:
 
 def cmd_next(args: argparse.Namespace) -> int:
     """Print the next documents to fetch, so the agent never loads the manifest."""
-    rows = [r for r in load_manifest()
-            if not is_landed(r) and r.get("drive_id") not in folded_drive_ids()]
+    folded = folded_drive_ids()
+    rows = [r for r in subject.rows() if not is_landed(r) and r.get("drive_id") not in folded]
     if args.category:
         rows = [r for r in rows if r.get("category") == args.category]
     if args.tier:
@@ -394,7 +375,7 @@ def cmd_land(args: argparse.Namespace) -> int:
     inline in the caller's context, so `--stdin` lets a subagent pipe what it
     received without the content passing through the main session.
     """
-    rows = load_manifest()
+    rows = subject.rows()
     row = find_row(rows, args.drive_id)
 
     spill: Path | None = None
@@ -412,24 +393,8 @@ def cmd_land(args: argparse.Namespace) -> int:
     else:
         spill = Path(args.spill) if args.spill else newest_spill()
         raw = read_spill(spill)
-    body = normalize(raw)
-
-    slug = row.get("slug") or re.sub(r"[^a-z0-9]+", "-", row.get("title", "").lower()).strip("-")
-    target = DRIVE_DIR / f"{slug}.md"
-    if target.exists() and not args.force:
-        raise SystemExit(f"{target.relative_to(ROOT)} exists — pass --force to overwrite")
-
-    today = args.today or date.today().isoformat()
-    target.parent.mkdir(parents=True, exist_ok=True)
-    target.write_text(frontmatter(row, today) + body, encoding="utf-8")
-
-    row["export_path"] = str(target.relative_to(ROOT))
-    row["sha256"] = sha256(target.read_bytes())
-    row["sha256_raw"] = sha256(raw)
-    row["exported_at"] = today
-    save_manifest(rows)
-
-    words = len(body.split())
+    target = write_document(row, rows, raw, args.today or date.today().isoformat(), args.force)
+    words = len(normalize(raw).split())
     print(f"landed {target.relative_to(ROOT)}  "
           f"{target.stat().st_size:,} bytes · {words:,} words · sha {row['sha256'][:12]}")
     if args.consume and spill is not None:
@@ -452,13 +417,13 @@ def write_document(row: dict, rows: list[dict], raw: str, today: str, force: boo
     row["sha256"] = sha256(target.read_bytes())
     row["sha256_raw"] = sha256(raw)
     row["exported_at"] = today
-    save_manifest(rows)
+    subject.write_jsonl(MANIFEST, rows)
     return target
 
 
 def cmd_fetch(args: argparse.Namespace) -> int:
     """Fetch documents straight from Drive to disk. No model sees the content."""
-    rows = load_manifest()
+    rows = subject.rows()
     todo = [r for r in rows if not is_landed(r) and r.get("tier") != "T0-duplicate"]
     if args.category:
         todo = [r for r in todo if r.get("category") == args.category]
@@ -539,12 +504,4 @@ def main(argv: list[str] | None = None) -> int:
 
 
 if __name__ == "__main__":
-    # `sources.py status | head` closes the pipe early, which otherwise ends in a
-    # BrokenPipeError traceback over perfectly good output. Restoring the default
-    # SIGPIPE makes the process exit the way every other command-line tool does.
-    try:
-        import signal
-        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
-    except (ImportError, AttributeError, ValueError):
-        pass                                    # not POSIX, or not the main thread
-    sys.exit(main())
+    subject.cli(main)

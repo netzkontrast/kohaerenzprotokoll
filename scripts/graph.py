@@ -60,11 +60,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 import quotes  # noqa: E402
 import wiki_index  # noqa: E402
+from subject import CONFLICTS, PAGES, QUESTIONS, read_jsonl  # noqa: E402
 from subject import rows as manifest_rows  # noqa: E402
 
-PAGES = ROOT / "Wiki" / "candidates"
-CONFLICTS = ROOT / "Wiki" / "conflicts"
-QUESTIONS = ROOT / "Wiki" / "questions"
 LINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
 CITED_DOC = re.compile(r"([A-Za-z0-9][A-Za-z0-9\-]*)\.md:L(\d+)")
 HEADING = re.compile(r"^(#{1,4}) (.*)$")
@@ -90,16 +88,7 @@ def evidence_of(path: Path, text: str) -> list[dict]:
     is `unchecked` and kept: P23 says count what could not be checked.
     """
     lines = text.split("\n")
-    starts = [0]
-    for line in lines:
-        starts.append(starts[-1] + len(line) + 1)
-
-    def line_at(pos: int) -> int:
-        lo, hi = 0, len(starts) - 1
-        while lo < hi - 1:
-            mid = (lo + hi) // 2
-            lo, hi = (mid, hi) if starts[mid] <= pos else (lo, mid)
-        return lo
+    starts = quotes.line_starts(text)
 
     section, sections = "", []
     for line in lines:
@@ -108,14 +97,15 @@ def evidence_of(path: Path, text: str) -> list[dict]:
             section = match.group(2).strip()
         sections.append(section)
 
-    default = quotes.slug_of(path)
+    default = quotes.slug_of(path, text)
     out = []
     for match, refs in quotes.pairs(text):
         status, _ = quotes.verdict(refs, default, match.group("quote"))
         ref = quotes.REF.match(refs[0]) if refs else None
+        row = quotes.line_of(starts, match.start())
         out.append({"quote": " ".join(quotes.WRAP.sub(" ", match.group("quote")).split()),
-                    "page_line": line_at(match.start()) + 1,
-                    "section": sections[line_at(match.start())],
+                    "page_line": row + 1,
+                    "section": sections[row],
                     "ref": refs[0] if refs else None,
                     "doc": (ref.group("slug") or default) if ref else None,
                     "line": int(ref.group("line")) if ref else None,
@@ -266,8 +256,7 @@ def proposals() -> dict:
 
     glosses = []
     if STATED.exists():
-        for line in STATED.read_text(encoding="utf-8").splitlines():
-            row = json.loads(line)
+        for row in read_jsonl(STATED):
             if row.get("shape") != "paren" or row.get("docs", 0) < GLOSS_MIN_DOCS:
                 continue
             fa, fb = wiki_index.fold(row["a"]), wiki_index.fold(row["b"])

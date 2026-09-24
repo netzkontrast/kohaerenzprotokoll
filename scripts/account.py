@@ -71,28 +71,21 @@ def account_document(slug: str) -> dict:
 
 def account_term(term: str) -> dict:
     """What is known about one term: in the corpus, and in the wiki."""
+    import corpus
     key = fold(term)
     index = build_index()
     page = index["surface_to_page"].get(key)
 
-    docs, occurrences, first, last = 0, 0, None, None
-    for row in subject.rows():
-        if not row.get("export_path"):
-            continue
-        entry = subject.facts(row["slug"], "surfaces").get("tokens", {}).get(term)
-        if not entry:
-            continue
-        docs += 1
-        occurrences += entry["n"]
-        date = row.get("index_date") or "?"
-        first = date if first is None or date < first else first
-        last = date if last is None or date > last else last
+    # corpus.py's count, from the index when the index can answer and read when
+    # it cannot — a lowercase word used to come back as 0 documents from here.
+    counted = corpus.cmd_count(corpus.docs_for([term])[0], [term])[term]
+    docs = counted["documents"]
 
     judgements = [j for j in subject.judgements() if term in j.get("surfaces", [])]
     return {
         "subject": {"kind": "term", "id": term},
-        "in_corpus": {"documents": docs, "occurrences": occurrences,
-                      "first": first, "last": last,
+        "in_corpus": {"documents": docs, "occurrences": counted["occurrences"],
+                      "first": counted["first"], "last": counted["last"],
                       "of_corpus_pct": round(docs / len(subject.documents()) * 100, 1)},
         "in_wiki": ({"page": page, **{k: v for k, v in index["terms"][page].items()
                                       if k in ("sources", "readings", "conflict", "ingested")}}
@@ -185,8 +178,7 @@ def account_order() -> dict:
     index = build_index()
     if done:
         last = max(done, key=lambda r: (r["state_after"] or r["state_before"])["pages"])
-        record = runs / last["document"] / "reconcile.json"
-        after = json.loads(record.read_text(encoding="utf-8")).get("state_after")
+        after = last["state_after"]
         if after is None:
             violations.append({
                 "document": last["document"], "kind": "no-state-after",
@@ -245,10 +237,4 @@ def main(argv: list[str]) -> int:
 
 
 if __name__ == "__main__":
-    try:
-        import signal
-
-        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
-    except (ImportError, AttributeError, ValueError):
-        pass
-    raise SystemExit(main(sys.argv[1:]))
+    subject.cli(main)

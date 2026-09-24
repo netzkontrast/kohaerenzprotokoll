@@ -52,6 +52,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import os
 import re
 import sys
 from functools import lru_cache
@@ -87,9 +88,9 @@ def representatives(threshold: float) -> dict[str, str]:
     """Each slug mapped to the first slug of its near-duplicate group.
 
     Cached on disk keyed by (corpus fingerprint, threshold). The comparison is
-    O(n^2) over every shingle set and takes about a minute; `state.py` asks for
-    it on every run, so re-deriving it each time would make the state check
-    unusable. The cache is invalidated by any document changing or any document
+    O(n^2) over every shingle set: 16 seconds over 371 documents, 63 before
+    pairs of too different a size were skipped. `state.py` asks for it on every
+    run, so re-deriving it each time would make the state check unusable. The cache is invalidated by any document changing or any document
     being added, which is the same rule `derive.py` uses.
     """
     docs = list(documents())
@@ -109,11 +110,21 @@ def representatives(threshold: float) -> dict[str, str]:
             if other in rep:
                 continue
             a, b = signatures[first], signatures[other]
-            if a and b and len(a & b) / len(a | b) >= threshold:
+            if not (a and b):
+                continue
+            # |a & b| / |a | b| can never exceed the smaller set over the larger,
+            # so a pair whose sizes alone fall short needs no intersection. It
+            # decides the same: 371 of 371 representatives, measured at 0.8.
+            small, large = sorted((len(a), len(b)))
+            if small / large >= threshold and len(a & b) / len(a | b) >= threshold:
                 rep[other] = first
     CACHE.parent.mkdir(parents=True, exist_ok=True)
-    CACHE.write_text(json.dumps({"fingerprint": fingerprint, "threshold": threshold,
-                                 "representatives": rep}, indent=2) + "\n", encoding="utf-8")
+    # Written aside and renamed into place: `selftests.py` runs suites at once,
+    # and two of them derive the state, so a reader must see a whole file or none.
+    written = CACHE.with_name(f"{CACHE.name}.{os.getpid()}")
+    written.write_text(json.dumps({"fingerprint": fingerprint, "threshold": threshold,
+                                   "representatives": rep}, indent=2) + "\n", encoding="utf-8")
+    os.replace(written, CACHE)
     return rep
 
 

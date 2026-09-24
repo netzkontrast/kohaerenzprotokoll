@@ -23,14 +23,16 @@ from __future__ import annotations
 
 import json
 from dataclasses import dataclass
-from functools import lru_cache
+from functools import cached_property, lru_cache
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "Sources" / "manifest.jsonl"
+DUPLICATES = ROOT / "Sources" / "duplicates.jsonl"
 DERIVED = ROOT / "Plan" / "derived"
 PAGES = ROOT / "Wiki" / "candidates"
 CONFLICTS = ROOT / "Wiki" / "conflicts"
+QUESTIONS = ROOT / "Wiki" / "questions"
 JUDGEMENTS = ROOT / "Plan" / "runs" / "judgements.jsonl"
 
 
@@ -57,8 +59,15 @@ class Document:
     def has_frontmatter(self) -> bool:
         return self.offset > 1
 
-    def lines(self) -> list[str]:
-        return self.body.split("\n")
+    def lines(self) -> tuple[str, ...]:
+        """The body's lines, split once per document; index `n - offset` is file line n."""
+        return self._lines
+
+    @cached_property
+    def _lines(self) -> tuple[str, ...]:
+        # A tuple, because every caller shares it. Splitting per call cost
+        # quotes.py one split per cited line and bilingual.py one per example.
+        return tuple(self.body.split("\n"))
 
 
 def _split(text: str) -> tuple[str, int]:
@@ -69,9 +78,31 @@ def _split(text: str) -> tuple[str, int]:
     return "\n".join(lines[start:]), start + 1
 
 
+def read_jsonl(path: Path) -> list[dict]:
+    """Every object in a JSONL file, in file order, blank lines skipped.
+
+    A missing file raises: whether absence means „none yet" or „something is
+    wrong" is the caller's to say, and the manifest's absence is the second.
+    """
+    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines()
+            if line.strip()]
+
+
+def write_jsonl(path: Path, rows) -> None:
+    """One compact object per line, non-ASCII kept as written — every JSONL file here."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows),
+                    encoding="utf-8")
+
+
 def rows() -> list[dict]:
     """Every manifest row, in file order."""
-    return [json.loads(line) for line in MANIFEST.read_text(encoding="utf-8").splitlines()]
+    return read_jsonl(MANIFEST)
+
+
+def duplicates() -> list[dict]:
+    """Every row folded out of the manifest by scripts/dedupe.py; [] before the first."""
+    return read_jsonl(DUPLICATES) if DUPLICATES.exists() else []
 
 
 @lru_cache(maxsize=1)
@@ -96,11 +127,19 @@ def documents() -> tuple[Document, ...]:
     return tuple(out)
 
 
-def document(slug: str) -> Document:
+@lru_cache(maxsize=1)
+def _by_slug() -> dict[str, Document]:
+    by: dict[str, Document] = {}
     for doc in documents():
-        if doc.slug == slug:
-            return doc
-    raise KeyError(f"no landed document with slug {slug!r}")
+        by.setdefault(doc.slug, doc)
+    return by
+
+
+def document(slug: str) -> Document:
+    try:
+        return _by_slug()[slug]
+    except KeyError:
+        raise KeyError(f"no landed document with slug {slug!r}") from None
 
 
 def derived(slug: str) -> dict:
@@ -115,6 +154,21 @@ def facts(slug: str, rule: str) -> dict:
 
 
 def judgements() -> list[dict]:
-    if not JUDGEMENTS.exists():
-        return []
-    return [json.loads(l) for l in JUDGEMENTS.read_text(encoding="utf-8").splitlines() if l.strip()]
+    """The judgement ledger, in file order; [] before the first judgement."""
+    return read_jsonl(JUDGEMENTS) if JUDGEMENTS.exists() else []
+
+
+def cli(main) -> None:
+    """Run a script's `main(argv)` and exit with the status it returns.
+
+    `sources.py status | head` closes the pipe early, which otherwise ends in a
+    BrokenPipeError traceback over perfectly good output. Restoring the default
+    SIGPIPE makes the process exit the way every other command-line tool does.
+    """
+    import sys
+    try:
+        import signal
+        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
+    except (ImportError, AttributeError, ValueError):
+        pass                                    # not POSIX, or not the main thread
+    raise SystemExit(main(sys.argv[1:]))

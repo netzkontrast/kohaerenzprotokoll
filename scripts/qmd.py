@@ -56,10 +56,11 @@ class NotInstalled(RuntimeError):
 
 def _run(args: list[str], parse_json: bool = False):
     if not BIN.exists():
+        # Never `qmd init` here: it overwrites the committed .qmd/index.yml.
         raise NotInstalled(
             "qmd is not installed. Run:\n"
-            "  npm install --prefix .tools-node @tobilu/qmd\n"
-            "  .tools-node/node_modules/.bin/qmd init")
+            "  scripts/setup_qmd.sh            # package, models, index, embeddings\n"
+            "  scripts/install.sh qmd          # or only the package and the PATH shim")
     done = subprocess.run([str(BIN), *args], capture_output=True, text=True, cwd=ROOT)
     if done.returncode != 0 and not done.stdout:
         raise RuntimeError(f"qmd {' '.join(args)} failed: {done.stderr[:300]}")
