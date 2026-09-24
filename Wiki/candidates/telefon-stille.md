@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -27,3 +27,9 @@ and the source of Vortex beat 3 (L1144).
 
 One of [[juna|Juna]]'s two anchors across worlds: „Zwei welt-übergreifende Anker:
 Telefon-Stille (ruht bis Vortex, eingelöst Kap 39)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L286].
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Telefon-Stille ist der Hauptanker." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L316] — first of Juna's permitted modes, the others Witness-Modus, Resonanz, Echo and appearances at the Risse (L319–L323), with more left open as OQ-B (L324).
+
+It has a chapter: „Kap 24 — Telefon-Stille (Wiederkehrendes K-J-Thema)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1007].
