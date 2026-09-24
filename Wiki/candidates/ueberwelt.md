@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -52,7 +52,7 @@ collapse sequence:
 > \"Überwelt\" erlebt Realitätsverzerrungen, Kommunikationsausfälle, Versagen
 > zentraler Simulationsdienste" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L167]
 
-So the containment relation the first source gave by position — Kern-Welten
+So the containment relation the first source gave by position — [[kern-welten|Kern-Welten]]
 *inside* the same system — is confirmed as a layering: Kern-Welten first, Überwelt
 after.
 
@@ -67,7 +67,7 @@ sharpest statement of what the Überwelt is in anything read:
 > „Die AEGIS-Überwelt sollte konsequenterweise nicht nur als ein 'Ort' gestaltet
 > werden, sondern als manifestiertes *Interface* oder *Betriebssystem*." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49]
 
-It is one of the six [[realitaetsebenen|Realitätsebenen]] and the only one whose `Domäne` is AEGIS:
+It is one of the six [[realitaetsebenen|Realitätsebenen]] and the only one whose `Domäne` is [[aegis|AEGIS]]:
 
 > „Digitale, informationsbasierte Ebene. Zentrum der Systemkontrolle, abstrakt,
 > funktional. Sitz von AEGIS und den Wächtern in ihrer Systemfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
@@ -100,3 +100,13 @@ words and they do not coincide:** `Überwelt` 27 times for the digital level, an
 **So a third document now uses `Simulation` without meaning the Überwelt**, which
 is evidence on the judgement `J30` left unresolved: here the Simulation contains
 the Kern-Welten and the Überwelt both, and is not a synonym for either.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**AEGIS' operating space, outside the four worlds.**
+
+> „Plus zwei Ebenen außerhalb der KW: Überwelt (AEGIS' Operationsraum)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226]
+
+The word also occurs inside KW3's second name, „Cerberus-Labyrinth /
+Überwelt-Nexus" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L221]. The document does not relate the two, and a compound
+is not a surface of its head (J28).
