@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -27,3 +27,9 @@ One of the thirteen [[alters|Alters]] — ANP, „Caregiver" in its heading ^[ko
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10, one table row
 
 Its roster row gives category `ANP`, function `Caregiver` and arc `→ Akzeptanz` ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L263]. Recorded in that document's reconciliation as not promoted, and attached here now that a profile exists.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Rhys (Caregiver)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L374], correlate „Maxwellscher Dämon" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L375], somatics „Schweiß, fiebrige Hände" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L376], arc „→ Akzeptanz (Anker Akt I → Kudzu Akt II)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L377].
+
+From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 entstanden:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439] lists it.
