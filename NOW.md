@@ -117,6 +117,25 @@ uses should be asked for again, with its cost.
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has the three placements and what
 each would send.
 
+**A third yes, 2026-09-24 — decision 007.** Documents 5 and 6
+(`aegis-subplots-kapitelweise-system-exploration-docx`,
+`roman-lokalitaeten-konzept-und-ausarbeitung`) may go to free OpenRouter models,
+with `data_collection: deny`, and to Jev, to test the tools installed that day.
+No other document, no paid model, nothing to Notion. `scripts/route.py` enforces
+it in code and its `selftest` holds; **the tool-review workflow has not run yet** —
+its plan is
+`Plan/concept/tool-review-plan_2026-09-24.md`. The two replaced the question's examples because only they
+have a genuine reader's `03-candidates.md`; the decision file says why.
+
+**Three encodings of one rule.** „No corpus text leaves without the author's
+decision" is held by `lmrun.py` (`approval=`), by `rlm_ingest.py` (`--approval`,
+its own `dspy.LM`) and by `scripts/route.py` (the consent file of decision 007),
+while `bilingual.py` and `jev_entities.py` call out directly. They met in one
+merge and agree today; P6 says they will not stay agreed. Which one the others
+should call — and whether `route.py`'s record-and-replay or `lmrun`'s
+cache-off is the rule for a measured repeat (P18 either way) — is a decision,
+not a refactor.
+
 **Both Jev keys are present** in the environment (checked 2026-09-23, presence
 only). That removes the technical block and none of the permission one above. A key pasted in chat earlier in
 the session that installed this should be treated as spent and rotated.
@@ -238,6 +257,13 @@ written:
 Run `python3 scripts/selftests.py` first; it builds nothing and says in one line
 per suite what holds. In a fresh container the DSPy suites report `not run`
 with the command that creates `.venv-dspy`.
+
+**Two handovers met here in one merge, and neither waits on the other.** The list
+below is the graph and retrieval work. The other is the **tool review** the author
+approved on 2026-09-24 — test every tool installed that day against documents 5
+and 6 through `scripts/route.py`, and review what the loop could use — in
+`Plan/concept/tool-review-plan_2026-09-24.md`, to be run straight through. It
+needs free models and Jev under decision 007; everything below needs no model.
 
 In order, and none of it needs a model:
 

@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.4,
+ "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"An AI system whose consciousness and nature are being philosophically examined in the narrative\"\n}",
+ "response": {
+  "id": "gen-1790275923-CF3XZTwLjvI4gXAyYXO8",
+  "object": "chat.completion",
+  "created": 1790275923,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"An AI system whose consciousness and nature are being philosophically examined in the narrative\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have name \"AEGIS\". Fields: name, type, description. For type conflict: \"object\" vs \"organization\". Need to pick more detailed or recent-looking. Which is more detailed? The description in B is more detailed: \"An AI system whose consciousness and nature are being philosophically examined in the narrative\". A's description: \"The main system being analyzed and exploited\". B's description seems more specific. So choose B's description. For type, maybe \"organization\" is more specific? Could be \"object\" vs \"organization\". The description mentions AI system, which is an organization? Might be \"organization\". So choose B's type. Name same. So merged object: name \"AEGIS\", type \"organization\", description from B. Return JSON exactly as input format (no extra fields). So output:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"An AI system whose consciousness and nature are being philosophically examined in the narrative\"\n}\n\nMake sure no extra whitespace? It's fine.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have name \"AEGIS\". Fields: name, type, description. For type conflict: \"object\" vs \"organization\". Need to pick more detailed or recent-looking. Which is more detailed? The description in B is more detailed: \"An AI system whose consciousness and nature are being philosophically examined in the narrative\". A's description: \"The main system being analyzed and exploited\". B's description seems more specific. So choose B's description. For type, maybe \"organization\" is more specific? Could be \"object\" vs \"organization\". The description mentions AI system, which is an organization? Might be \"organization\". So choose B's type. Name same. So merged object: name \"AEGIS\", type \"organization\", description from B. Return JSON exactly as input format (no extra fields). So output:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"An AI system whose consciousness and nature are being philosophically examined in the narrative\"\n}\n\nMake sure no extra whitespace? It's fine.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 201,
+   "completion_tokens": 260,
+   "total_tokens": 461,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 265,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

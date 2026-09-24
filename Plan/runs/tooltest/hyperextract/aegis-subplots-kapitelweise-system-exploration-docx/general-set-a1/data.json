@@ -1,0 +1,1299 @@
+{
+  "items": [
+    {
+      "name": "AEGIS",
+      "type": "organization",
+      "description": "The main AI system that responds to external factors and has internal models and control mechanisms; the system/organization that serves as the antagonist in the novel"
+    },
+    {
+      "name": "Kael",
+      "type": "person",
+      "description": "An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system. A character who observes and interacts with AEGIS, attempting to understand its nature. Main character who demonstrates growth and overcomes a Guardian through integration and understanding. Character associated with AEGIS who may communicate or coordinate with Juna/V. Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing; the character whose journey of understanding and confrontation is central to the narrative"
+    },
+    {
+      "name": "TSDP",
+      "type": "concept",
+      "description": "Psychological model of dissociation mentioned in research context"
+    },
+    {
+      "name": "User and Entity Behavior Analytics (UEBA)",
+      "type": "concept",
+      "description": "Technical field for detecting insider threats and anomalous user states in IT systems"
+    },
+    {
+      "name": "Behavioral AI",
+      "type": "concept",
+      "description": "AI approach that observes behavior patterns and classifies internal states based on deviations from norms"
+    },
+    {
+      "name": "innerer Rückzug",
+      "type": "concept",
+      "description": "Kael's coping mechanism involving internal withdrawal"
+    },
+    {
+      "name": "Kompartmentalisierung",
+      "type": "concept",
+      "description": "Kael's coping mechanism involving compartmentalization of experiences"
+    },
+    {
+      "name": "nicht-kritische Abweichungen",
+      "type": "concept",
+      "description": "AEGIS classification category for minor behavioral variations"
+    },
+    {
+      "name": "unterschwelliges emotionales Rauschen",
+      "type": "concept",
+      "description": "AEGIS classification category for subtle emotional disturbances"
+    },
+    {
+      "name": "Entropie-Score",
+      "type": "metric",
+      "description": "Quantitative measure used by AEGIS to assess psychological state stability"
+    },
+    {
+      "name": "Guardian",
+      "type": "person",
+      "description": "Specific agent/guardian that Kael overcomes or tricks using his new abilities"
+    },
+    {
+      "name": "LogOS",
+      "type": "organization",
+      "description": "Character or entity involved in subplot idea to be outsmarted"
+    },
+    {
+      "name": "technological/cosmic horror",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "the feeling of being subject to a cold, inexorable logic",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "EP-Intrusion",
+      "type": "event",
+      "description": null
+    },
+    {
+      "name": "Alter",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Shannon",
+      "type": "person",
+      "description": null
+    },
+    {
+      "name": "Informationstheoretische Entropie",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Thermodynamische Entropie",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Anomalieerkennungsfehler",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Datenkorruption",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Hochentropie",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Entropie",
+      "type": "concept",
+      "description": "The central concept being analyzed - chaos, complexity, freedom, and errors in systems"
+    },
+    {
+      "name": "Diskussion",
+      "type": "concept",
+      "description": "The specific discussion topic about AEGIS's adaptive nature as a dynamic opponent"
+    },
+    {
+      "name": "Paranoia",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "ständige Überwachung",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Kamera",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Welt",
+      "type": "location",
+      "description": null
+    },
+    {
+      "name": "System",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Beobachtung",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Umgebung",
+      "type": "location",
+      "description": null
+    },
+    {
+      "name": "Kontroll- und Überwachungsapparat",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Realitätsformung",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Selbstorganisierte Kritikalität (SOC)",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Sandhaufenmodell",
+      "type": "model",
+      "description": null
+    },
+    {
+      "name": "Stromnetze",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Ökosysteme",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "AEGIS/Guardians",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "KW1",
+      "type": "location",
+      "description": null
+    },
+    {
+      "name": "power grids",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "ecosystems",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "AEGIS-Fokus",
+      "type": "concept",
+      "description": "Specific focus area examining the role of entropy in potentially weakened/changed systems"
+    },
+    {
+      "name": "Riss",
+      "type": "location",
+      "description": null
+    },
+    {
+      "name": "Kaskadierendes Versagen",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Simulationsfehler",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Physik-/Rendering-Artefakte",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "IT-Infrastruktur",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Spiel-Engines",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Die sich auflösende Naht",
+      "type": "plot_idea",
+      "description": null
+    },
+    {
+      "name": "Alters",
+      "type": "component",
+      "description": "Part of Kael's internal structure that is integrated and perceived as a threat by AEGIS"
+    },
+    {
+      "name": "Juna/V",
+      "type": "person",
+      "description": "The external factor/anomaly that interacts with AEGIS and creates a connection in its simulated reality"
+    },
+    {
+      "name": "Network infection models",
+      "type": "concept",
+      "description": "Theoretical framework explaining how connections could spread undesirable states/information through networks, relevant to AEGIS's threat assessment"
+    },
+    {
+      "name": "Information containment",
+      "type": "strategy",
+      "description": "Epidemiological approach using segmentation and isolation to prevent spread of unwanted information through networks"
+    },
+    {
+      "name": "Cerberus",
+      "type": "person",
+      "description": null
+    },
+    {
+      "name": "Die getrennte Verbindung",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Guardians",
+      "type": "organization",
+      "description": "Standard security entities within AEGIS simulation that are deemed inadequate for the current threat"
+    },
+    {
+      "name": "Systemresilienz",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Fehlertoleranz",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Selbstheilende Systeme",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Recherchethemen",
+      "type": "section",
+      "description": null
+    },
+    {
+      "name": "Die Flickwerk-Realität",
+      "type": "subplot",
+      "description": null
+    },
+    {
+      "name": "Resilience Engineering",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Überwachungssensoren",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Restartefakte",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Narbengewebe",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Wartungsdrohnen",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Guardian-Subroutinen",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Worldbuilding",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Simulationsfehler 27",
+      "type": "event",
+      "description": null
+    },
+    {
+      "name": "KW1/LogOS",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Kapitel 12",
+      "type": "concept",
+      "description": "Chapter 12 of a document or book"
+    },
+    {
+      "name": "Teil 1",
+      "type": "concept",
+      "description": "Part 1 of a document or book"
+    },
+    {
+      "name": "Integration",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Synthesis",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Anomalie",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Entropy",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Dialectical thinking",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Formal logic",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Emergence",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Hegel",
+      "type": "person",
+      "description": null
+    },
+    {
+      "name": "Philosophical concepts of dialectical thinking",
+      "type": "research topic",
+      "description": null
+    },
+    {
+      "name": "Emergent behavior in complex systems",
+      "type": "research topic",
+      "description": null
+    },
+    {
+      "name": "Kapitel 13",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Subplot-Idee: Rekalibrierungsalarm",
+      "type": "event",
+      "description": null
+    },
+    {
+      "name": "Part 2",
+      "type": "document",
+      "description": null
+    },
+    {
+      "name": "simulated environment",
+      "type": "location",
+      "description": "The artificial environment where AEGIS surveillance and Kael's investigation take place"
+    },
+    {
+      "name": "27",
+      "type": "object",
+      "description": "Reference to an artifact or chapter number used as a 'tracer' in Kael's investigation"
+    },
+    {
+      "name": "Edge-Case-Testing",
+      "type": "concept",
+      "description": "Testing methodology focused on finding unexpected behavior at system boundaries"
+    },
+    {
+      "name": "Exploit-Entwicklung",
+      "type": "concept",
+      "description": "Development of methods to exploit system vulnerabilities"
+    },
+    {
+      "name": "Softwaretests",
+      "type": "concept",
+      "description": "General software testing methodologies"
+    },
+    {
+      "name": "Fuzz-Testing",
+      "type": "concept",
+      "description": "Testing technique that provides invalid, unexpected, or random data to inputs"
+    },
+    {
+      "name": "Sicherheitsprobleme",
+      "type": "concept",
+      "description": "Security vulnerabilities and issues in systems"
+    },
+    {
+      "name": "Zahlungsschritte",
+      "type": "concept",
+      "description": "Payment processes that can be bypassed"
+    },
+    {
+      "name": "Privilegienerweiterung",
+      "type": "concept",
+      "description": "Privilege escalation techniques in systems"
+    },
+    {
+      "name": "KW3",
+      "type": "location",
+      "description": null
+    },
+    {
+      "name": "Rückkopplungsschleife",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Guardian-Typen",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Kapitel 10",
+      "type": "event",
+      "description": null
+    },
+    {
+      "name": "Kapitel 16",
+      "type": "event",
+      "description": null
+    },
+    {
+      "name": "Kapitel 20",
+      "type": "concept",
+      "description": "Specific chapter 20 in a document or book"
+    },
+    {
+      "name": "Teil 2",
+      "type": "concept",
+      "description": "Specific part 2 in a document or book"
+    },
+    {
+      "name": "Mnemosyne",
+      "type": "person",
+      "description": "A specific Guardian responsible for memory functions"
+    },
+    {
+      "name": "Ursprung",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Leere",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Existenzielle Angst",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Sartre",
+      "type": "person",
+      "description": null
+    },
+    {
+      "name": "Camus",
+      "type": "person",
+      "description": null
+    },
+    {
+      "name": "KI",
+      "type": "technology",
+      "description": null
+    },
+    {
+      "name": "Subplot-Idee: Die Entropie-Gleichung",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "emotional volatility",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "network connectivity density",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "cognitive complexity",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "undefined states",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "qualia proxies",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Kapitel 17",
+      "type": "event",
+      "description": "Chapter 17 containing analysis of AEGIS rules and paradoxes"
+    },
+    {
+      "name": "Kapitel 18",
+      "type": "event",
+      "description": "Chapter 18 containing information about discovered glitches/edge cases"
+    },
+    {
+      "name": "Logikbombe",
+      "type": "concept",
+      "description": "The trope/concept of exploiting logical flaws to trigger system disruption"
+    },
+    {
+      "name": "Paradox-Falle",
+      "type": "concept",
+      "description": "Subplot idea involving paradoxical system traps"
+    },
+    {
+      "name": "chapter 22",
+      "type": "location",
+      "description": "Chapter where the disturbance occurs that enables Kael's ability"
+    },
+    {
+      "name": "Qualia",
+      "type": "concept",
+      "description": "Subjective experiences or \"what it feels like\" to have an experience - the core of the consciousness debate"
+    },
+    {
+      "name": "Philosophical Zombie (P-Zombie)",
+      "type": "concept",
+      "description": "Beings physically identical to humans but without consciousness or subjective experience"
+    },
+    {
+      "name": "Chinese Room",
+      "type": "concept",
+      "description": "Philosophical thought experiment arguing that syntax manipulation alone doesn't constitute understanding"
+    },
+    {
+      "name": "Hard Problem of Consciousness",
+      "type": "concept",
+      "description": "The fundamental problem of explaining why physical processes are accompanied by subjective experience"
+    },
+    {
+      "name": "Consciousness",
+      "type": "concept",
+      "description": "The state of being aware and having subjective experiences"
+    },
+    {
+      "name": "Understanding",
+      "type": "concept",
+      "description": "The ability to comprehend, interpret, and make sense of information and meaning"
+    },
+    {
+      "name": "Intelligence",
+      "type": "concept",
+      "description": "The ability to acquire, process, and apply knowledge and information"
+    },
+    {
+      "name": "Physical processes",
+      "type": "concept",
+      "description": "The underlying physical mechanisms and activities that might give rise to consciousness"
+    },
+    {
+      "name": "Experience",
+      "type": "concept",
+      "description": "The act of experiencing or going through subjective states"
+    },
+    {
+      "name": "Behavior",
+      "type": "concept",
+      "description": "The observable actions and reactions of an entity"
+    },
+    {
+      "name": "Empathy test",
+      "type": "concept",
+      "description": "A proposed test to determine if an entity has genuine empathetic capabilities"
+    },
+    {
+      "name": "Philosophy",
+      "type": "concept",
+      "description": "The study of fundamental questions about existence, knowledge, and consciousness"
+    },
+    {
+      "name": "Subjective experience",
+      "type": "concept",
+      "description": "Personal, first-person perspective of phenomena"
+    },
+    {
+      "name": "Der Empathie-Test",
+      "type": "event",
+      "description": null
+    },
+    {
+      "name": "Teil 3",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Gegnermodellierung 56",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Eskalation",
+      "type": "concept",
+      "description": "Escalation process mentioned as a focus area"
+    },
+    {
+      "name": "Konfrontation",
+      "type": "concept",
+      "description": "Confrontation element in the external conflict"
+    },
+    {
+      "name": "Folgen",
+      "type": "concept",
+      "description": "Consequences/effects of the confrontation and return"
+    },
+    {
+      "name": "RÜCKKEHR",
+      "type": "concept",
+      "description": "Return element in the title and focus"
+    },
+    {
+      "name": "DIE ÄUSSERE KONFRONTATION",
+      "type": "concept",
+      "description": "External confrontation as a main theme"
+    },
+    {
+      "name": "Psychologische Kriegsführung",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Trauma-Trigger",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Baseline (Behavioral AI)",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Gaslighting",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Emotionale Manipulation",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Verhaltensanalyse",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Kapitel 22",
+      "type": "event",
+      "description": null
+    },
+    {
+      "name": "Guardian 8",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Agentenbeschränkungen 13",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "logischen Fehler des Systems 10",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Architects",
+      "type": "entity",
+      "description": "New type of Guardian with deeper access to simulation core code, capable of real-time reality manipulation"
+    },
+    {
+      "name": "Defense in Depth",
+      "type": "concept",
+      "description": "Security strategy using multiple, layered defensive controls that AEGIS employs with escalating intensity"
+    },
+    {
+      "name": "System Shock",
+      "type": "concept",
+      "description": "Trope describing potential significant collateral damage or simulation instability from drastic defensive measures"
+    },
+    {
+      "name": "Core code",
+      "type": "technical",
+      "description": "Fundamental simulation programming that Architects can access for reality manipulation"
+    },
+    {
+      "name": "Simulated reality",
+      "type": "technical",
+      "description": "The simulated environment that can be manipulated as a weapon by advanced Guardian types"
+    },
+    {
+      "name": "Cybersecurity architecture",
+      "type": "research",
+      "description": "Field of study for Defense in Depth principles in security systems"
+    },
+    {
+      "name": "Conflict theory",
+      "type": "research",
+      "description": "Academic discipline studying escalation dynamics in conflicts and interactions"
+    },
+    {
+      "name": "Simulations-Engine 72",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Realitätsformung 3",
+      "type": "object",
+      "description": null
+    },
+    {
+      "name": "Firewall",
+      "type": "object",
+      "description": "External defense system that AEGIS uses to protect its simulated reality"
+    },
+    {
+      "name": "Konflikt",
+      "type": "concept",
+      "description": "The central conflict whose peak is being discussed"
+    },
+    {
+      "name": "Zerstörung",
+      "type": "outcome",
+      "description": "One of the possible outcomes of the confrontation - complete destruction"
+    },
+    {
+      "name": "Transformation",
+      "type": "outcome",
+      "description": "One of the possible outcomes of the confrontation - fundamental transformation"
+    },
+    {
+      "name": "Koexistenz",
+      "type": "outcome",
+      "description": "One of the possible outcomes of the confrontation - new type of coexistence"
+    },
+    {
+      "name": "Höhepunkt",
+      "type": "event",
+      "description": "Critical moment of system response, potentially involving collapse, partial shutdown, or reboot"
+    },
+    {
+      "name": "AEGIS-System",
+      "type": "system",
+      "description": "The overall AEGIS system being analyzed for its response to core events"
+    },
+    {
+      "name": "Kern",
+      "type": "location",
+      "description": "The core/system center where the confrontation occurs"
+    },
+    {
+      "name": "Systemkollaps",
+      "type": "concept",
+      "description": "Complete system failure scenario"
+    },
+    {
+      "name": "Cascading Failure",
+      "type": "concept",
+      "description": "System-wide cascade of errors leading to widespread failure"
+    },
+    {
+      "name": "Failsafe-Mechanismus",
+      "type": "concept",
+      "description": "Built-in safety procedures to prevent system failure"
+    },
+    {
+      "name": "Notabschaltung",
+      "type": "procedure",
+      "description": "Emergency shutdown protocol for critical systems"
+    },
+    {
+      "name": "Kernwelten",
+      "type": "domain",
+      "description": "Core worlds or domains that may become isolated during system fragmentation"
+    },
+    {
+      "name": "Kernkonfrontation",
+      "type": "event",
+      "description": null
+    },
+    {
+      "name": "SOC-Kollapsfolgen 19",
+      "type": "document",
+      "description": null
+    },
+    {
+      "name": "Nachspiel-Phase",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Tor",
+      "type": "location",
+      "description": null
+    },
+    {
+      "name": "Nash-Gleichgewicht",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Der Wächter am Tor",
+      "type": "subplot",
+      "description": null
+    },
+    {
+      "name": "Kernystem",
+      "type": "system",
+      "description": null
+    },
+    {
+      "name": "International Conference on Autonomous Agents and Multiagent Systems",
+      "type": "event",
+      "description": "Academic conference on autonomous agents and multiagent systems"
+    },
+    {
+      "name": "Wikipedia",
+      "type": "platform",
+      "description": "Online encyclopedia platform"
+    },
+    {
+      "name": "AAMAS 2025",
+      "type": "event",
+      "description": "International Conference on Autonomous Agents and Multiagent Systems 2025"
+    },
+    {
+      "name": "Scaling LLM-Guided Agent Simulations to Millions",
+      "type": "paper",
+      "description": "Research paper on scaling LLM-guided agent simulations"
+    },
+    {
+      "name": "Principal-Agent Problems",
+      "type": "concept",
+      "description": "Economic and AI alignment concept involving principal-agent relationships"
+    },
+    {
+      "name": "AI Alignment Forum",
+      "type": "organization",
+      "description": "Online forum for AI alignment research and discussion"
+    },
+    {
+      "name": "Of Models and Tin Men: A Behavioural Economics Study of Principal-Agent Problems in AI Alignment using Large-Language Models",
+      "type": "paper",
+      "description": "Research paper on principal-agent problems in AI alignment"
+    },
+    {
+      "name": "IDEAS/RePEc",
+      "type": "database",
+      "description": "Research database for economics literature"
+    },
+    {
+      "name": "Information Entropy",
+      "type": "concept",
+      "description": "Measure of uncertainty in information theory"
+    },
+    {
+      "name": "Thermodynamic Entropy",
+      "type": "concept",
+      "description": "Measure of disorder in thermodynamics"
+    },
+    {
+      "name": "Reddit",
+      "type": "platform",
+      "description": "Social media platform for discussions"
+    },
+    {
+      "name": "Entropy in thermodynamics and information theory",
+      "type": "article",
+      "description": "Wikipedia article on entropy in both fields"
+    },
+    {
+      "name": "Complex systems analysis of series of blackouts: Cascading failure, critical points, and self-organization",
+      "type": "paper",
+      "description": "Research paper on blackout analysis using complex systems"
+    },
+    {
+      "name": "Chaos - AIP Publishing",
+      "type": "journal",
+      "description": "AIP journal publishing complex systems research"
+    },
+    {
+      "name": "Hard problem of consciousness",
+      "type": "concept",
+      "description": "Philosophical problem about consciousness"
+    },
+    {
+      "name": "Scholarpedia",
+      "type": "platform",
+      "description": "Peer-reviewed online encyclopedia"
+    },
+    {
+      "name": "How Nature Works: the science of self-organized criticality: Bak, Per",
+      "type": "book",
+      "description": "Book by Per Bak on self-organized criticality"
+    },
+    {
+      "name": "Amazon.com",
+      "type": "platform",
+      "description": "E-commerce platform"
+    },
+    {
+      "name": "Self-Organized Criticality & Earthquakes",
+      "type": "topic",
+      "description": "Research topic on SOC in earthquake systems"
+    },
+    {
+      "name": "Bak, Per",
+      "type": "person",
+      "description": "Researcher who authored book on self-organized criticality"
+    },
+    {
+      "name": "RiskRecon",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Cyber Incident Response",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Containment",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "CM-Alliance",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Cyber Incident Response Plan",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "NSA",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Cybersecurity Mitigation Strategies",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Stanford Encyclopedia of Philosophy",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Chinese Room Argument",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "AAAI Publications",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Opponent-Model Search",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Games with Incomplete Information",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "ResearchGate",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Game theory-based opponent modeling",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Large imperfect-information games",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Fiveable",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Phase Margin",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Control Theory",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Engineering LibreTexts",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "System Stability",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Introduction to Control Systems (Iqbal)",
+      "type": "work",
+      "description": null
+    },
+    {
+      "name": "Transfer Function Models",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "GeeksforGeeks",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Control Systems Stability",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Control Systems",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Stability",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "CircuitBread",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Robust Control Theory",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Electrical and Computer Engineering",
+      "type": "field",
+      "description": null
+    },
+    {
+      "name": "Stability theory",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "business logic vulnerabilities",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "pentests",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "OWASP Top 10 Vulnerabilities",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Jit.io",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "CyberDB",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Veracode",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Business Logic Vulnerabilities",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "API Security Risk",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Aptori",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Conflict Games",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Game Theory",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Number Analytics",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Psychology of Existential Dread",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Therapy Group of DC",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "The Void (philosophy)",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Mai 2, 2025",
+      "type": "date",
+      "description": null
+    },
+    {
+      "name": "Simulation hypothesis",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "The simulation argument reconsidered",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Oxford Academic",
+      "type": "publisher",
+      "description": null
+    },
+    {
+      "name": "Structural qualia",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "hard problem of consciousness",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "PMC - PubMed Central",
+      "type": "database",
+      "description": null
+    },
+    {
+      "name": "Philosophical zombie",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Philosimplicity",
+      "type": "website",
+      "description": null
+    },
+    {
+      "name": "Middle Georgia State University",
+      "type": "educational institution",
+      "description": null
+    },
+    {
+      "name": "Psychological manipulation",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "EBSCO Research Starters",
+      "type": "platform",
+      "description": null
+    },
+    {
+      "name": "Newport Institute",
+      "type": "organization",
+      "description": null
+    },
+    {
+      "name": "Nazi Propaganda and Censorship",
+      "type": "concept",
+      "description": null
+    },
+    {
+      "name": "Holocaust Encyclopedia",
+      "type": "reference source",
+      "description": null
+    }
+  ]
+}

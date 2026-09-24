@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.1,
+ "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"Advanced monitoring and surveillance system that tracks Kael's psychological state\"\n}",
+ "response": {
+  "id": "gen-1790275921-vF7Nir6gBMdTJGmX7KJP",
+  "object": "chat.completion",
+  "created": 1790275921,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"Advanced monitoring and surveillance system that tracks Kael's psychological state\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have name, type, description. The description differs. According to strategy: combine information, if fields conflict, pick more detailed or recent-looking value. Both descriptions are different; which is more detailed? Item B description: \"Advanced monitoring and surveillance system that tracks Kael's psychological state\". Item A: \"AI system that processes and analyzes user behavior and internal states\". Both are similar but B seems more specific (mentions Kael). Probably choose B as more detailed. So final JSON should have name \"AEGIS\", type \"organization\", description from B. No other fields. Return exact JSON format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have name, type, description. The description differs. According to strategy: combine information, if fields conflict, pick more detailed or recent-looking value. Both descriptions are different; which is more detailed? Item B description: \"Advanced monitoring and surveillance system that tracks Kael's psychological state\". Item A: \"AI system that processes and analyzes user behavior and internal states\". Both are similar but B seems more specific (mentions Kael). Probably choose B as more detailed. So final JSON should have name \"AEGIS\", type \"organization\", description from B. No other fields. Return exact JSON format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 203,
+   "completion_tokens": 170,
+   "total_tokens": 373,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 174,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

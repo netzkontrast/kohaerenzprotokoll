@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 3.5,
+ "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"The main system/platform being tested and analyzed\"\n}",
+ "response": {
+  "id": "gen-1790275923-VmaZllciyGkTI1yQ95IX",
+  "object": "chat.completion",
+  "created": 1790275923,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"The main system/platform being tested and analyzed\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have name, type, description. Item A description null, Item B description has text. According to strategy: combine info, if conflict, pick more detailed or recent-looking value. So description should be the non-null value from B. Name and type same. No list fields. Return result in exact JSON format of input items (i.e., same keys order? Probably preserve order as in A? But we can keep same order: name, type, description). So output:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"The main system/platform being tested and analyzed\"\n}\n\nMake sure JSON format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have name, type, description. Item A description null, Item B description has text. According to strategy: combine info, if conflict, pick more detailed or recent-looking value. So description should be the non-null value from B. Name and type same. No list fields. Return result in exact JSON format of input items (i.e., same keys order? Probably preserve order as in A? But we can keep same order: name, type, description). So output:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"The main system/platform being tested and analyzed\"\n}\n\nMake sure JSON format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 188,
+   "completion_tokens": 177,
+   "total_tokens": 365,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 164,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

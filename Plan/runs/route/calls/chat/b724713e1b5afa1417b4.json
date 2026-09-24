@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 4.0,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Individual whose psychological state is being monitored by AEGIS\"\n}",
+ "response": {
+  "id": "gen-1790275925-Dai3hRDkmtpWBLUc4lEu",
+  "object": "chat.completion",
+  "created": 1790275925,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Individual whose psychological state is being monitored by AEGIS\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have same keys: name, type, description. The description differs slightly. According to strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Both descriptions are similar; which is more detailed? \"User whose internal struggles and behavior are being analyzed by AEGIS\" vs \"Individual whose psychological state is being monitored by AEGIS\". Both similar length. Could pick one; maybe combine? But description is a string, cannot combine. Choose the more detailed? Both similar. Could pick the first? Or maybe pick the second? Hard to decide. Could pick the one that includes \"psychological state\" vs \"internal struggles and behavior\". Both are detailed. Might pick the longer? Count words: first: \"User whose internal struggles and behavior are being analyzed by AEGIS\" (11 words). second: \"Individual whose psychological state is being monitored by AEGIS\" (11 words). Same length. Could pick the first as existing. Or maybe combine by picking the more recent-looking? No timestamp. Could pick the second as incoming? Usually incoming may be newer. So pick incoming description. So final JSON same keys, name and type same, description from B.\n\nThus output JSON exactly same format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have same keys: name, type, description. The description differs slightly. According to strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Both descriptions are similar; which is more detailed? \"User whose internal struggles and behavior are being analyzed by AEGIS\" vs \"Individual whose psychological state is being monitored by AEGIS\". Both similar length. Could pick one; maybe combine? But description is a string, cannot combine. Choose the more detailed? Both similar. Could pick the first? Or maybe pick the second? Hard to decide. Could pick the one that includes \"psychological state\" vs \"internal struggles and behavior\". Both are detailed. Might pick the longer? Count words: first: \"User whose internal struggles and behavior are being analyzed by AEGIS\" (11 words). second: \"Individual whose psychological state is being monitored by AEGIS\" (11 words). Same length. Could pick the first as existing. Or maybe combine by picking the more recent-looking? No timestamp. Could pick the second as incoming? Usually incoming may be newer. So pick incoming description. So final JSON same keys, name and type same, description from B.\n\nThus output JSON exactly same format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 200,
+   "completion_tokens": 289,
+   "total_tokens": 489,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 321,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

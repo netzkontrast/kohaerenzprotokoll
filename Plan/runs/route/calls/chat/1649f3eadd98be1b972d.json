@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 4.0,
+ "content": "",
+ "response": {
+  "id": "gen-1790275884-lawRVhneLu7dAWf1J70u",
+  "object": "chat.completion",
+  "created": 1790275884,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "Let me analyze the text to identify all entities with independent meaning. I need to extract meaningful entities that are not pure pronouns, generic terms, or non-referential phrases.\n\nLooking at the text, I can identify several entities:\n\n1. **AEGIS** - This appears to be an AI system or entity that is actively trying to destabilize Kael. It's a proper noun and has independent meaning.\n\n2. **Kael** - This is a character/person who is being targeted by AEGIS. It's a proper noun and has independent meaning.\n\n3. **Psychologische Kriegsführung** - This is a concept/trope that describes the type of warfare being used.\n\n4. **Trauma-Trigger** - This is a specific psychological concept being exploited.\n\n5. **Baseline (Behavioral AI)** - This refers to a predictable behavioral state that Kael is being forced back to.\n\n6. **Gaslighting** - This is mentioned as a tool used in the psychological manipulation.\n\n7. **Emotionale Manipulation** - Another tool mentioned in the psychological manipulation.\n\n8. **Verhaltensanalyse** - This refers to behavioral analysis, which is a method used by AEGIS.\n\nLet me organize these into the proper format for the DataSchemaSet function:\n\n- AEGIS: organization/AI system\n- Kael: person\n- Psychologische Kriegsführung: concept\n- Trauma-Trigger: concept\n- Baseline (Behavioral AI): concept\n- Gaslighting: concept\n- Emotionale Manipulation: concept\n- Verhaltensanalyse: concept\n\nI should not include generic terms like \"KI-Systemen\" or \"psychologische Manipulationskonzepte\" as they are too broad and don't have specific independent meaning in this context.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_9nd2bbq88wkz",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"AEGIS\", \"type\": \"organization\"}, {\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"Psychologische Kriegsführung\", \"type\": \"concept\"}, {\"name\": \"Trauma-Trigger\", \"type\": \"concept\"}, {\"name\": \"Baseline (Behavioral AI)\", \"type\": \"concept\"}, {\"name\": \"Gaslighting\", \"type\": \"concept\"}, {\"name\": \"Emotionale Manipulation\", \"type\": \"concept\"}, {\"name\": \"Verhaltensanalyse\", \"type\": \"concept\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze the text to identify all entities with independent meaning. I need to extract meaningful entities that are not pure pronouns, generic terms, or non-referential phrases.\n\nLooking at the text, I can identify several entities:\n\n1. **AEGIS** - This appears to be an AI system or entity that is actively trying to destabilize Kael. It's a proper noun and has independent meaning.\n\n2. **Kael** - This is a character/person who is being targeted by AEGIS. It's a proper noun and has independent meaning.\n\n3. **Psychologische Kriegsführung** - This is a concept/trope that describes the type of warfare being used.\n\n4. **Trauma-Trigger** - This is a specific psychological concept being exploited.\n\n5. **Baseline (Behavioral AI)** - This refers to a predictable behavioral state that Kael is being forced back to.\n\n6. **Gaslighting** - This is mentioned as a tool used in the psychological manipulation.\n\n7. **Emotionale Manipulation** - Another tool mentioned in the psychological manipulation.\n\n8. **Verhaltensanalyse** - This refers to behavioral analysis, which is a method used by AEGIS.\n\nLet me organize these into the proper format for the DataSchemaSet function:\n\n- AEGIS: organization/AI system\n- Kael: person\n- Psychologische Kriegsführung: concept\n- Trauma-Trigger: concept\n- Baseline (Behavioral AI): concept\n- Gaslighting: concept\n- Emotionale Manipulation: concept\n- Verhaltensanalyse: concept\n\nI should not include generic terms like \"KI-Systemen\" or \"psychologische Manipulationskonzepte\" as they are too broad and don't have specific independent meaning in this context.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 549,
+   "completion_tokens": 428,
+   "total_tokens": 977,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 408,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

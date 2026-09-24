@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.7,
+ "content": "",
+ "response": {
+  "id": "gen-1790275859-Sn4wzhhS4EiR0qj6rR2n",
+  "object": "chat.completion",
+  "created": 1790275859,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user is asking me to identify all entities with independent meaning from the text \"Kapitel 12 / Teil 1\". Let me analyze this text according to the extraction rules:\n\n1. The text is in German and appears to be a section heading\n2. \"Kapitel 12\" - This refers to \"Chapter 12\" which is a meaningful entity (a chapter in a book/document)\n3. \"Teil 1\" - This refers to \"Part 1\" which is also a meaningful entity (a part/section of something)\n4. The slash \"/\" is just a separator, not an entity\n5. The text appears to be a heading/section identifier\n\nAccording to the rules:\n- I should extract entities that are meaningful for understanding the text content\n- I should not treat pure pronouns, generic terms, or non-referential phrases as entities\n\n\"Kapitel 12\" and \"Teil 1\" both have independent meaning and refer to specific sections/segments, so they should be extracted as entities.\n\nFor the DataSchemaSet function, I need to provide:\n- name: the entity name\n- type: the entity type (person/organization/location/object/concept/event/product/service/other, etc.)\n- description: brief description (optional)\n\nFor \"Kapitel 12\":\n- name: \"Kapitel 12\" \n- type: \"concept\" (it's a section/division of a text)\n- description: \"Chapter 12 of a document or book\"\n\nFor \"Teil 1\":\n- name: \"Teil 1\"\n- type: \"concept\" (it's a section/division)\n- description: \"Part 1 of a document or book\"",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_bj37fpy1nfj2",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Kapitel 12\", \"type\": \"concept\", \"description\": \"Chapter 12 of a document or book\"}, {\"name\": \"Teil 1\", \"type\": \"concept\", \"description\": \"Part 1 of a document or book\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user is asking me to identify all entities with independent meaning from the text \"Kapitel 12 / Teil 1\". Let me analyze this text according to the extraction rules:\n\n1. The text is in German and appears to be a section heading\n2. \"Kapitel 12\" - This refers to \"Chapter 12\" which is a meaningful entity (a chapter in a book/document)\n3. \"Teil 1\" - This refers to \"Part 1\" which is also a meaningful entity (a part/section of something)\n4. The slash \"/\" is just a separator, not an entity\n5. The text appears to be a heading/section identifier\n\nAccording to the rules:\n- I should extract entities that are meaningful for understanding the text content\n- I should not treat pure pronouns, generic terms, or non-referential phrases as entities\n\n\"Kapitel 12\" and \"Teil 1\" both have independent meaning and refer to specific sections/segments, so they should be extracted as entities.\n\nFor the DataSchemaSet function, I need to provide:\n- name: the entity name\n- type: the entity type (person/organization/location/object/concept/event/product/service/other, etc.)\n- description: brief description (optional)\n\nFor \"Kapitel 12\":\n- name: \"Kapitel 12\" \n- type: \"concept\" (it's a section/division of a text)\n- description: \"Chapter 12 of a document or book\"\n\nFor \"Teil 1\":\n- name: \"Teil 1\"\n- type: \"concept\" (it's a section/division)\n- description: \"Part 1 of a document or book\"",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 208,
+   "completion_tokens": 389,
+   "total_tokens": 597,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 351,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

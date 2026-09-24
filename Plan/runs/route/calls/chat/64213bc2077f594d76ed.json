@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 7.2,
+ "content": "Der Abschnitt analysiert die Verknüpfung des Ortes mit Haupt- und Nebencharakteren sowie deren Entwicklung, beleuchtet zentrale Handlungsmomente aus Teil 1 und deren Einfluss auf die Charaktere und nennt Design-Inspirationen durch Verweis auf Konzepte wie Glitch, Liminalität oder Trauma-Landschaft sowie vergleichbare Werke.",
+ "response": {
+  "id": "gen-1790274665-jpV5zgU5IGzx5Awh0yUO",
+  "object": "chat.completion",
+  "created": 1790274665,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "Der Abschnitt analysiert die Verknüpfung des Ortes mit Haupt- und Nebencharakteren sowie deren Entwicklung, beleuchtet zentrale Handlungsmomente aus Teil 1 und deren Einfluss auf die Charaktere und nennt Design-Inspirationen durch Verweis auf Konzepte wie Glitch, Liminalität oder Trauma-Landschaft sowie vergleichbare Werke.",
+     "refusal": null,
+     "reasoning": "The user asks: \"In one German sentence, state what this section is about:\" then provides a section with numbered points 10 and 11, about character/plot connection and design inspirations. So we need to produce a single German sentence summarizing the section. Should be concise, describing that the section covers analysis of location's relation to characters, plot events, and design inspirations referencing concepts etc.\n\nWe must ensure the sentence is in German. Provide one sentence.\n\nLet's craft: \"Der Abschnitt analysiert die Verknüpfung des Ortes mit Haupt- und Nebencharakteren sowie deren Entwicklung, beleuchtet zentrale Handlungsmomente aus Teil 1 und deren Einfluss auf die Charaktere und nennt Design-Inspirationen durch Verweis auf Konzepte wie Glitch, Liminalität oder Trauma-Landschaft sowie vergleichbare Werke.\"\n\nThat is one sentence. Ensure grammar correct. Provide final answer.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user asks: \"In one German sentence, state what this section is about:\" then provides a section with numbered points 10 and 11, about character/plot connection and design inspirations. So we need to produce a single German sentence summarizing the section. Should be concise, describing that the section covers analysis of location's relation to characters, plot events, and design inspirations referencing concepts etc.\n\nWe must ensure the sentence is in German. Provide one sentence.\n\nLet's craft: \"Der Abschnitt analysiert die Verknüpfung des Ortes mit Haupt- und Nebencharakteren sowie deren Entwicklung, beleuchtet zentrale Handlungsmomente aus Teil 1 und deren Einfluss auf die Charaktere und nennt Design-Inspirationen durch Verweis auf Konzepte wie Glitch, Liminalität oder Trauma-Landschaft sowie vergleichbare Werke.\"\n\nThat is one sentence. Ensure grammar correct. Provide final answer.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 143,
+   "completion_tokens": 254,
+   "total_tokens": 397,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 227,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

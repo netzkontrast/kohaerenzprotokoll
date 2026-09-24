@@ -3,6 +3,8 @@
 #
 #   scripts/setup_qmd.sh            # install, models, index, embeddings, skill, shim
 #   scripts/setup_qmd.sh --check    # report what is missing, change nothing
+#   scripts/setup_qmd.sh --package  # only the package and the PATH shim — no
+#                                   # models, index or embeddings (install.sh's qmd)
 #
 # THE CONFIGURATION IS COMMITTED, at `.qmd/index.yml`, and this script does not
 # write it. qmd's own trust.ts says a project-local config "arrives with a `git
@@ -23,7 +25,9 @@ QMD="$ROOT/.tools-node/node_modules/.bin/qmd"
 CONFIG="$ROOT/.qmd/index.yml"
 SHIM=/usr/local/bin/qmd
 CHECK=0
+PACKAGE=0
 [[ "${1:-}" == "--check" ]] && CHECK=1
+[[ "${1:-}" == "--package" ]] && PACKAGE=1
 
 say() { printf '  %-44s %s\n' "$1" "$2"; }
 
@@ -64,29 +68,7 @@ if [[ $CHECK -eq 1 ]]; then
     exit 0
 fi
 
-cd "$ROOT"
-
-[[ -f "$CONFIG" ]] || {
-    echo "No $CONFIG. It is tracked in git — this is a restore, not a setup:" >&2
-    echo "  git checkout .qmd/index.yml" >&2
-    echo "Never run 'qmd init' here: it overwrites the committed configuration." >&2
-    exit 1
-}
-
-[[ -x "$QMD" ]] || npm install --prefix .tools-node @tobilu/qmd >/dev/null
-
-# The models are ~2.1 GB and live in ~/.cache/qmd, outside the repository, so a
-# fresh container has none. Without the embedding one, `qmd embed` cannot run
-# and every vector search returns nothing while looking like it worked.
-"$QMD" pull >/dev/null 2>&1 || echo "  ! qmd pull failed — vsearch will return nothing" >&2
-
-"$QMD" update >/dev/null
-"$QMD" embed --timeout 0 >/dev/null 2>&1 || echo "  ! qmd embed did not finish — rerun it" >&2
-
-# NOT `qmd skill install`: that writes the package's bootstrap over this
-# project's own .claude/skills/qmd, which documents the corpus rather than the
-# tool. `qmd skill show` prints the package's text when it is wanted.
-
+install_shim() {
 # The skill declares Bash(qmd:*) and the package is not on PATH.
 if [[ ! -x "$SHIM" ]] && [[ -w /usr/local/bin ]]; then
     cat > "$SHIM" <<'SHIMEOF'
@@ -102,6 +84,37 @@ SHIMEOF
     chmod +x "$SHIM"
     echo "  + PATH shim at $SHIM"
 fi
+}
+
+cd "$ROOT"
+
+[[ -f "$CONFIG" ]] || {
+    echo "No $CONFIG. It is tracked in git — this is a restore, not a setup:" >&2
+    echo "  git checkout .qmd/index.yml" >&2
+    echo "Never run 'qmd init' here: it overwrites the committed configuration." >&2
+    exit 1
+}
+
+[[ -x "$QMD" ]] || npm install --prefix .tools-node @tobilu/qmd >/dev/null
+
+if [[ $PACKAGE -eq 1 ]]; then
+    install_shim
+    exit 0
+fi
+
+# The models are ~2.1 GB and live in ~/.cache/qmd, outside the repository, so a
+# fresh container has none. Without the embedding one, `qmd embed` cannot run
+# and every vector search returns nothing while looking like it worked.
+"$QMD" pull >/dev/null 2>&1 || echo "  ! qmd pull failed — vsearch will return nothing" >&2
+
+"$QMD" update >/dev/null
+"$QMD" embed --timeout 0 >/dev/null 2>&1 || echo "  ! qmd embed did not finish — rerun it" >&2
+
+# NOT `qmd skill install`: that writes the package's bootstrap over this
+# project's own .claude/skills/qmd, which documents the corpus rather than the
+# tool. `qmd skill show` prints the package's text when it is wanted.
+
+install_shim
 
 echo
 "$0" --check

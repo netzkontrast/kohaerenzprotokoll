@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 6.9,
+ "content": "",
+ "response": {
+  "id": "gen-1790275905-XBSDRRQAwAhLbvBhtYYC",
+  "object": "chat.completion",
+  "created": 1790275905,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "I need to extract entities with independent meaning from this text. Let me analyze each line:\n\n1. \"60. Control Systems – Stability | GeeksforGeeks, Zugriff am Mai 2, 2025, <https://www.geeksforgeeks.org/control-systems-stability/>\"\n   - \"Control Systems\" - concept/entity\n   - \"Stability\" - concept/entity  \n   - \"GeeksforGeeks\" - organization\n   - \"Mai 2, 2025\" - date\n   - URL is not an entity\n\n2. \"61. The Concept of Stability | Control Systems 3.1 - CircuitBread, Zugriff am Mai 2, 2025, <https://www.circuitbread.com/tutorials/the-concept-of-stability-3.1>\"\n   - \"Stability\" - concept/entity\n   - \"Control Systems\" - concept/entity\n   - \"CircuitBread\" - organization\n\n3. \"62. Robust Control Theory - Electrical and Computer Engineering, Zugriff am Mai 2, 2025, <https://users.ece.cmu.edu/~koopman/des_s99/control_theory/>\"\n   - \"Robust Control Theory\" - concept/entity\n   - \"Electrical and Computer Engineering\" - field/organization\n\n4. \"63. Stability theory - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Stability_theory>\"\n   - \"Stability theory\" - concept/entity\n   - \"Wikipedia\" - organization\n\n5. \"64. Thinking outside the box: 3 creative ways to exploit business logic vulnerabilities in pentests, Zugriff am Mai 2, 2025, <https://pentest-tools.com/blog/business-logic-vulnerabilities-pentests>\"\n   - \"Thinking outside the box\" - phrase (not an entity)\n   - \"business logic vulnerabilities\" - concept/entity\n   - \"pentests\" - concept/entity\n   - \"pentest-tools.com\" - organization (URL domain)\n\n6. \"65. The 2025 In-Depth Guide to OWASP Top 10 Vulnerabilities & How to Prevent Them - Jit.io, Zugriff am Mai 2, 2025, <https://www.jit.io/resources/security-standards/the-in-depth-guide-to-owasps-top-10-vulnerabilities>\"\n   - \"OWASP Top 10 Vulnerabilities\" - concept/entity\n   - \"Jit.io\" - organization\n\n7. \"66. Real-World Examples for OWASP Top 10 Vulnerabilities - CyberDB, Zugriff am Mai 2, 2025, <https://www.cyberdb.co/real-world-examples-for-owasp-top-10-vulnerabilities/>\"\n   - \"OWASP Top 10 Vulnerabilities\" - concept/entity\n   - \"CyberDB\" - organization\n\n8. \"67. OWASP Top 10 Vulnerabilities - Veracode, Zugriff am Mai 2, 2025, <https://www.veracode.com/security/owasp-top-10/>\"\n   - \"OWASP Top 10 Vulnerabilities\" - concept/entity\n   - \"Veracode\" - organization\n\n9. \"68. Understanding Business Logic Vulnerabilities - The Biggest API Security Risk - Aptori, Zugriff am Mai 2, 2025, <https://aptori.dev/blog/understanding-business-logic-vulnerabilities-the-biggest-api-security-risk>\"\n   - \"Business Logic Vulnerabilities\" - concept/entity\n   - \"API Security Risk\" - concept/entity\n   - \"Aptori\" - organization\n\n10. \"69. Modern Study of Conflict Games with Game Theory - Number Analytics, Zugriff am Mai 2, 2025, <https://www.numberanalytics.com/blog/modern-study-conflict-games-game-theory>\"\n    - \"Conflict Games\" - concept/entity\n    - \"Game Theory\" - concept/entity\n    - \"Number Analytics\" - organization\n\n11. \"70. The Psychology of Existential Dread - Therapy Group of DC, Zugriff am Mai 2, 2025, <https://therapygroupdc.com/therapist-dc-blog/the-psychology-of-existential-dread/>\"\n    - \"Psychology of Existential Dread\" - concept/entity\n    - \"Therapy Group of DC\" - organization\n\n12. \"71. The Void (philosophy) - Wikipedia, Zugriff am Mai 2, 2025, [https://en.wikipedia.org/wiki/The\\_Void\\_(philosophy)](https://en.wikipedia.org/wiki/The_Void_%28philosophy%29)\"\n    - \"The Void (philosophy)\" - concept/entity\n    - \"Wikipedia\" - organization\n\nI'll compile a comprehensive list of unique entities, focusing on distinct concepts, organizations, and key terms from the text. The list captures the core subjects and sources across multiple research and technical documents.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_9g8j4mv9d73x",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Control Systems\", \"type\": \"concept\"}, {\"name\": \"Stability\", \"type\": \"concept\"}, {\"name\": \"GeeksforGeeks\", \"type\": \"organization\"}, {\"name\": \"CircuitBread\", \"type\": \"organization\"}, {\"name\": \"Robust Control Theory\", \"type\": \"concept\"}, {\"name\": \"Electrical and Computer Engineering\", \"type\": \"field\"}, {\"name\": \"Stability theory\", \"type\": \"concept\"}, {\"name\": \"Wikipedia\", \"type\": \"organization\"}, {\"name\": \"business logic vulnerabilities\", \"type\": \"concept\"}, {\"name\": \"pentests\", \"type\": \"concept\"}, {\"name\": \"OWASP Top 10 Vulnerabilities\", \"type\": \"concept\"}, {\"name\": \"Jit.io\", \"type\": \"organization\"}, {\"name\": \"CyberDB\", \"type\": \"organization\"}, {\"name\": \"Veracode\", \"type\": \"organization\"}, {\"name\": \"Business Logic Vulnerabilities\", \"type\": \"concept\"}, {\"name\": \"API Security Risk\", \"type\": \"concept\"}, {\"name\": \"Aptori\", \"type\": \"organization\"}, {\"name\": \"Conflict Games\", \"type\": \"concept\"}, {\"name\": \"Game Theory\", \"type\": \"concept\"}, {\"name\": \"Number Analytics\", \"type\": \"organization\"}, {\"name\": \"Psychology of Existential Dread\", \"type\": \"concept\"}, {\"name\": \"Therapy Group of DC\", \"type\": \"organization\"}, {\"name\": \"The Void (philosophy)\", \"type\": \"concept\"}, {\"name\": \"Mai 2, 2025\", \"type\": \"date\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I need to extract entities with independent meaning from this text. Let me analyze each line:\n\n1. \"60. Control Systems – Stability | GeeksforGeeks, Zugriff am Mai 2, 2025, <https://www.geeksforgeeks.org/control-systems-stability/>\"\n   - \"Control Systems\" - concept/entity\n   - \"Stability\" - concept/entity  \n   - \"GeeksforGeeks\" - organization\n   - \"Mai 2, 2025\" - date\n   - URL is not an entity\n\n2. \"61. The Concept of Stability | Control Systems 3.1 - CircuitBread, Zugriff am Mai 2, 2025, <https://www.circuitbread.com/tutorials/the-concept-of-stability-3.1>\"\n   - \"Stability\" - concept/entity\n   - \"Control Systems\" - concept/entity\n   - \"CircuitBread\" - organization\n\n3. \"62. Robust Control Theory - Electrical and Computer Engineering, Zugriff am Mai 2, 2025, <https://users.ece.cmu.edu/~koopman/des_s99/control_theory/>\"\n   - \"Robust Control Theory\" - concept/entity\n   - \"Electrical and Computer Engineering\" - field/organization\n\n4. \"63. Stability theory - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Stability_theory>\"\n   - \"Stability theory\" - concept/entity\n   - \"Wikipedia\" - organization\n\n5. \"64. Thinking outside the box: 3 creative ways to exploit business logic vulnerabilities in pentests, Zugriff am Mai 2, 2025, <https://pentest-tools.com/blog/business-logic-vulnerabilities-pentests>\"\n   - \"Thinking outside the box\" - phrase (not an entity)\n   - \"business logic vulnerabilities\" - concept/entity\n   - \"pentests\" - concept/entity\n   - \"pentest-tools.com\" - organization (URL domain)\n\n6. \"65. The 2025 In-Depth Guide to OWASP Top 10 Vulnerabilities & How to Prevent Them - Jit.io, Zugriff am Mai 2, 2025, <https://www.jit.io/resources/security-standards/the-in-depth-guide-to-owasps-top-10-vulnerabilities>\"\n   - \"OWASP Top 10 Vulnerabilities\" - concept/entity\n   - \"Jit.io\" - organization\n\n7. \"66. Real-World Examples for OWASP Top 10 Vulnerabilities - CyberDB, Zugriff am Mai 2, 2025, <https://www.cyberdb.co/real-world-examples-for-owasp-top-10-vulnerabilities/>\"\n   - \"OWASP Top 10 Vulnerabilities\" - concept/entity\n   - \"CyberDB\" - organization\n\n8. \"67. OWASP Top 10 Vulnerabilities - Veracode, Zugriff am Mai 2, 2025, <https://www.veracode.com/security/owasp-top-10/>\"\n   - \"OWASP Top 10 Vulnerabilities\" - concept/entity\n   - \"Veracode\" - organization\n\n9. \"68. Understanding Business Logic Vulnerabilities - The Biggest API Security Risk - Aptori, Zugriff am Mai 2, 2025, <https://aptori.dev/blog/understanding-business-logic-vulnerabilities-the-biggest-api-security-risk>\"\n   - \"Business Logic Vulnerabilities\" - concept/entity\n   - \"API Security Risk\" - concept/entity\n   - \"Aptori\" - organization\n\n10. \"69. Modern Study of Conflict Games with Game Theory - Number Analytics, Zugriff am Mai 2, 2025, <https://www.numberanalytics.com/blog/modern-study-conflict-games-game-theory>\"\n    - \"Conflict Games\" - concept/entity\n    - \"Game Theory\" - concept/entity\n    - \"Number Analytics\" - organization\n\n11. \"70. The Psychology of Existential Dread - Therapy Group of DC, Zugriff am Mai 2, 2025, <https://therapygroupdc.com/therapist-dc-blog/the-psychology-of-existential-dread/>\"\n    - \"Psychology of Existential Dread\" - concept/entity\n    - \"Therapy Group of DC\" - organization\n\n12. \"71. The Void (philosophy) - Wikipedia, Zugriff am Mai 2, 2025, [https://en.wikipedia.org/wiki/The\\_Void\\_(philosophy)](https://en.wikipedia.org/wiki/The_Void_%28philosophy%29)\"\n    - \"The Void (philosophy)\" - concept/entity\n    - \"Wikipedia\" - organization\n\nI'll compile a comprehensive list of unique entities, focusing on distinct concepts, organizations, and key terms from the text. The list captures the core subjects and sources across multiple research and technical documents.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 725,
+   "completion_tokens": 1221,
+   "total_tokens": 1946,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 945,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.4,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character experiencing system-wide changes after core confrontation\"\n}",
+ "response": {
+  "id": "gen-1790275962-UA5cOrPtc1kmSUQkyMxD",
+  "object": "chat.completion",
+  "created": 1790275962,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character experiencing system-wide changes after core confrontation\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have same keys: name, type, description. The name and type are identical. Description differs. Need to combine information, pick more detailed or recent-looking value. Both descriptions are similar but B adds \"system-wide changes after core confrontation\". A says \"finds something in the core and reacts to it\". B seems more detailed (includes system-wide changes). So we should keep B's description (or combine?). The instruction: If fields conflict, use best judgment to pick more detailed or recent-looking value. So we pick B's description.\n\nThus merged object: name \"Kael\", type \"person\", description \"Character experiencing system-wide changes after core confrontation\". Return JSON exactly as input format (no extra fields). So output JSON with those three fields.\n\nWe must not invent new info. So just output merged.\n\nThus final answer.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have same keys: name, type, description. The name and type are identical. Description differs. Need to combine information, pick more detailed or recent-looking value. Both descriptions are similar but B adds \"system-wide changes after core confrontation\". A says \"finds something in the core and reacts to it\". B seems more detailed (includes system-wide changes). So we should keep B's description (or combine?). The instruction: If fields conflict, use best judgment to pick more detailed or recent-looking value. So we pick B's description.\n\nThus merged object: name \"Kael\", type \"person\", description \"Character experiencing system-wide changes after core confrontation\". Return JSON exactly as input format (no extra fields). So output JSON with those three fields.\n\nWe must not invent new info. So just output merged.\n\nThus final answer.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 198,
+   "completion_tokens": 209,
+   "total_tokens": 407,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 229,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

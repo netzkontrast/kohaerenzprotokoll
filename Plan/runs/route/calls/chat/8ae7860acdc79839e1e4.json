@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 3.4,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character experiencing system-wide changes after core confrontation\"\n}",
+ "response": {
+  "id": "gen-1790275932-V1vWVeHxUhHPsRrKgIi7",
+  "object": "chat.completion",
+  "created": 1790275932,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character experiencing system-wide changes after core confrontation\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A has description \"Character experiencing system-wide changes after core confrontation\". Item B has description null. According to strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Here description conflict: A has a non-null description, B has null. So keep A's description. Other fields same. So merged result should be same as A (or B with description from A). Ensure JSON format same as input items (i.e., keys order? Probably preserve order as in A). So output:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character experiencing system-wide changes after core confrontation\"\n}\n\nThat's it.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A has description \"Character experiencing system-wide changes after core confrontation\". Item B has description null. According to strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Here description conflict: A has a non-null description, B has null. So keep A's description. Other fields same. So merged result should be same as A (or B with description from A). Ensure JSON format same as input items (i.e., keys order? Probably preserve order as in A). So output:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character experiencing system-wide changes after core confrontation\"\n}\n\nThat's it.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 186,
+   "completion_tokens": 179,
+   "total_tokens": 365,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 180,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

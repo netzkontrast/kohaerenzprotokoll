@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 3.0,
+ "content": "",
+ "response": {
+  "id": "gen-1790275870-odHjJ1qbNvchm0CQOsDN",
+  "object": "chat.completion",
+  "created": 1790275870,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\n**Kapitel 20 / Teil 2**\n\nThis appears to be a German text that translates to \"Chapter 20 / Part 2\" in English.\n\nLooking at the entities:\n1. \"Kapitel 20\" - This refers to a chapter number 20, which is a meaningful entity (a specific chapter in a book/document)\n2. \"Teil 2\" - This refers to part 2, which is also a meaningful entity (a specific part/section)\n\nBoth of these are specific designations that have independent meaning in the context of a document structure. They are not generic terms or pronouns - they are specific references to sections of a larger work.\n\nI should extract both \"Kapitel 20\" and \"Teil 2\" as entities. Let me determine their types:\n- \"Kapitel 20\" - This would be an \"event\" or \"concept\" or \"product\" (as it's a section of a document)\n- \"Teil 2\" - This would be an \"event\" or \"concept\" or \"product\" (as it's a section of a document)\n\nActually, looking at the entity types available: person/organization/location/object/concept/event/product/service/other, etc.\n\nFor \"Kapitel 20\" and \"Teil 2\", these are sections of a document, so they could be classified as \"concept\" or \"product\" (as documents/products) or \"other\". I think \"concept\" would be most appropriate since they represent specific sections/conceptual divisions within a larger work.\n\nLet me extract these entities.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_5xrwd01198cp",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Kapitel 20\", \"type\": \"concept\", \"description\": \"Specific chapter 20 in a document or book\"}, {\"name\": \"Teil 2\", \"type\": \"concept\", \"description\": \"Specific part 2 in a document or book\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\n**Kapitel 20 / Teil 2**\n\nThis appears to be a German text that translates to \"Chapter 20 / Part 2\" in English.\n\nLooking at the entities:\n1. \"Kapitel 20\" - This refers to a chapter number 20, which is a meaningful entity (a specific chapter in a book/document)\n2. \"Teil 2\" - This refers to part 2, which is also a meaningful entity (a specific part/section)\n\nBoth of these are specific designations that have independent meaning in the context of a document structure. They are not generic terms or pronouns - they are specific references to sections of a larger work.\n\nI should extract both \"Kapitel 20\" and \"Teil 2\" as entities. Let me determine their types:\n- \"Kapitel 20\" - This would be an \"event\" or \"concept\" or \"product\" (as it's a section of a document)\n- \"Teil 2\" - This would be an \"event\" or \"concept\" or \"product\" (as it's a section of a document)\n\nActually, looking at the entity types available: person/organization/location/object/concept/event/product/service/other, etc.\n\nFor \"Kapitel 20\" and \"Teil 2\", these are sections of a document, so they could be classified as \"concept\" or \"product\" (as documents/products) or \"other\". I think \"concept\" would be most appropriate since they represent specific sections/conceptual divisions within a larger work.\n\nLet me extract these entities.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 208,
+   "completion_tokens": 387,
+   "total_tokens": 595,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 359,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

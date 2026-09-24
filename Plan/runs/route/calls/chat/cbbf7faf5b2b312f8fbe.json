@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.6,
+ "content": "",
+ "response": {
+  "id": "gen-1790275861-fvm28X8Tg3MAbdwUO1VL",
+  "object": "chat.completion",
+  "created": 1790275861,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text carefully:\n\nThe text is about a subplot idea called \"Subplot-Idee: Rekalibrierungsalarm\" (Subplot Idea: Recalibration Alarm). It discusses Kael's development, AEGIS system, and their dynamic.\n\nLet me identify meaningful entities:\n\n1. **Kael** - This appears to be a character/entity with independent meaning\n2. **AEGIS** - This appears to be a system/entity with independent meaning\n3. **Subplot-Idee: Rekalibrierungsalarm** - This is the title of the subplot\n4. **Guardians** - This appears to be mentioned as a group/entity\n5. **Part 2** - This seems to refer to a subsequent part/section\n\nLet me check if there are any other meaningful entities:\n- \"integration progress\" - this is more of a concept, not a specific entity\n- \"threat assessment metrics\" - this is a concept, not a specific entity\n- \"predictive models\" - this is a concept, not a specific entity\n- \"monitoring or containment protocols\" - this is a concept, not a specific entity\n- \"system's attitude\" - this is a concept, not a specific entity\n\nThe entities I should extract are:\n1. Kael - person\n2. AEGIS - organization/system\n3. Subplot-Idee: Rekalibrierungsalarm - event/subplot\n4. Guardians - organization/group\n5. Part 2 - document/section\n\nLet me use the DataSchemaSet function to extract these entities.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_yqvg0ya4t6rn",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"AEGIS\", \"type\": \"organization\"}, {\"name\": \"Subplot-Idee: Rekalibrierungsalarm\", \"type\": \"event\"}, {\"name\": \"Guardians\", \"type\": \"organization\"}, {\"name\": \"Part 2\", \"type\": \"document\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text carefully:\n\nThe text is about a subplot idea called \"Subplot-Idee: Rekalibrierungsalarm\" (Subplot Idea: Recalibration Alarm). It discusses Kael's development, AEGIS system, and their dynamic.\n\nLet me identify meaningful entities:\n\n1. **Kael** - This appears to be a character/entity with independent meaning\n2. **AEGIS** - This appears to be a system/entity with independent meaning\n3. **Subplot-Idee: Rekalibrierungsalarm** - This is the title of the subplot\n4. **Guardians** - This appears to be mentioned as a group/entity\n5. **Part 2** - This seems to refer to a subsequent part/section\n\nLet me check if there are any other meaningful entities:\n- \"integration progress\" - this is more of a concept, not a specific entity\n- \"threat assessment metrics\" - this is a concept, not a specific entity\n- \"predictive models\" - this is a concept, not a specific entity\n- \"monitoring or containment protocols\" - this is a concept, not a specific entity\n- \"system's attitude\" - this is a concept, not a specific entity\n\nThe entities I should extract are:\n1. Kael - person\n2. AEGIS - organization/system\n3. Subplot-Idee: Rekalibrierungsalarm - event/subplot\n4. Guardians - organization/group\n5. Part 2 - document/section\n\nLet me use the DataSchemaSet function to extract these entities.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 495,
+   "completion_tokens": 397,
+   "total_tokens": 892,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 354,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

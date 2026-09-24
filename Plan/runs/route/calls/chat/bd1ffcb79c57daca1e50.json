@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 3.1,
+ "content": "",
+ "response": {
+  "id": "gen-1790275846-etcVhMVQKtgs41mtIPyt",
+  "object": "chat.completion",
+  "created": 1790275846,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "Let me analyze this text to identify entities with independent meaning. I need to look for specific names, places, objects, concepts, events, etc. that have meaningful content.\n\nLooking at the text:\n\n1. \"Kael\" - This appears to be a character name, so it should be extracted as a person entity.\n\n2. \"EP-Intrusion\" - This seems to be a specific technical term or event, so it should be extracted.\n\n3. \"AEGIS\" - This appears to be a system name, so it should be extracted as an organization/object entity.\n\n4. \"Systemmonitor\" - This is a technical term, could be extracted as an object/concept.\n\n5. \"Datenkorruption\" - German term for \"data corruption\", this is a concept that should be extracted.\n\n6. \"Hochentropie\" - German term for \"high entropy\", this is a concept that should be extracted.\n\n7. \"Diagnose- oder niedrigstufige Eindämmungsprotokolle\" - German for \"diagnosis or low-level containment protocols\", this is a concept.\n\n8. \"Fehler\" - German for \"error\", this is a concept.\n\n9. \"Entropie\" - German for \"entropy\", this is a concept.\n\n10. \"System\" - This is a generic term, but in this context it refers to the AEGIS system, so it might be redundant to extract separately.\n\nLet me focus on the most meaningful and specific entities:\n\n1. Kael - person\n2. EP-Intrusion - event/concept\n3. AEGIS - organization/system\n4. Datenkorruption - concept\n5. Hochentropie - concept\n6. Entropie - concept\n\nI should not extract generic terms like \"System\", \"Fehler\" (error), or \"Protokolle\" as they are too generic and don't have independent meaning in this context.\n\nLet me structure this properly:",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_20b1c1x5k18f",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"EP-Intrusion\", \"type\": \"event\"}, {\"name\": \"AEGIS\", \"type\": \"organization\"}, {\"name\": \"Datenkorruption\", \"type\": \"concept\"}, {\"name\": \"Hochentropie\", \"type\": \"concept\"}, {\"name\": \"Entropie\", \"type\": \"concept\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze this text to identify entities with independent meaning. I need to look for specific names, places, objects, concepts, events, etc. that have meaningful content.\n\nLooking at the text:\n\n1. \"Kael\" - This appears to be a character name, so it should be extracted as a person entity.\n\n2. \"EP-Intrusion\" - This seems to be a specific technical term or event, so it should be extracted.\n\n3. \"AEGIS\" - This appears to be a system name, so it should be extracted as an organization/object entity.\n\n4. \"Systemmonitor\" - This is a technical term, could be extracted as an object/concept.\n\n5. \"Datenkorruption\" - German term for \"data corruption\", this is a concept that should be extracted.\n\n6. \"Hochentropie\" - German term for \"high entropy\", this is a concept that should be extracted.\n\n7. \"Diagnose- oder niedrigstufige Eindämmungsprotokolle\" - German for \"diagnosis or low-level containment protocols\", this is a concept.\n\n8. \"Fehler\" - German for \"error\", this is a concept.\n\n9. \"Entropie\" - German for \"entropy\", this is a concept.\n\n10. \"System\" - This is a generic term, but in this context it refers to the AEGIS system, so it might be redundant to extract separately.\n\nLet me focus on the most meaningful and specific entities:\n\n1. Kael - person\n2. EP-Intrusion - event/concept\n3. AEGIS - organization/system\n4. Datenkorruption - concept\n5. Hochentropie - concept\n6. Entropie - concept\n\nI should not extract generic terms like \"System\", \"Fehler\" (error), or \"Protokolle\" as they are too generic and don't have independent meaning in this context.\n\nLet me structure this properly:",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 519,
+   "completion_tokens": 467,
+   "total_tokens": 986,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 408,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.6,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system. A character who observes and interacts with AEGIS, attempting to understand its nature. Main character who demonstrates growth and overcomes a Guardian through integration and understanding. Character associated with AEGIS who may communicate or coordinate with Juna/V. Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing; the character whose journey of understanding and confrontation is central to the narrative\"\n}",
+ "response": {
+  "id": "gen-1790275989-Uzx46CHnRcGJXA1oyT7d",
+  "object": "chat.completion",
+  "created": 1790275989,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system. A character who observes and interacts with AEGIS, attempting to understand its nature. Main character who demonstrates growth and overcomes a Guardian through integration and understanding. Character associated with AEGIS who may communicate or coordinate with Juna/V. Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing; the character whose journey of understanding and confrontation is central to the narrative\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have same keys: name, type, description. Need to combine descriptions. Use best judgment to pick more detailed or recent-looking value. Both descriptions are different. We need to combine information from both items. So we should merge descriptions, perhaps concatenate them, preserving both info. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" But also \"Combine information from both items.\" For description, we could combine them, maybe separate with a space or \" | \". But we need to not invent new info. So we can combine the two description strings, maybe join them with a space. The result should be a JSON object with same keys. Ensure no extra fields. Return exact JSON format.\n\nThus merged description: \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system. A character who observes and interacts with AEGIS, attempting to understand its nature. Main character who demonstrates growth and overcomes a Guardian through integration and understanding. Character associated with AEGIS who may communicate or coordinate with Juna/V. Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing; the character whose journey of understanding and confrontation is central to the narrative\"\n\nWe can combine them, maybe separate with a space. Provide final JSON.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have same keys: name, type, description. Need to combine descriptions. Use best judgment to pick more detailed or recent-looking value. Both descriptions are different. We need to combine information from both items. So we should merge descriptions, perhaps concatenate them, preserving both info. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" But also \"Combine information from both items.\" For description, we could combine them, maybe separate with a space or \" | \". But we need to not invent new info. So we can combine the two description strings, maybe join them with a space. The result should be a JSON object with same keys. Ensure no extra fields. Return exact JSON format.\n\nThus merged description: \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system. A character who observes and interacts with AEGIS, attempting to understand its nature. Main character who demonstrates growth and overcomes a Guardian through integration and understanding. Character associated with AEGIS who may communicate or coordinate with Juna/V. Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing; the character whose journey of understanding and confrontation is central to the narrative\"\n\nWe can combine them, maybe separate with a space. Provide final JSON.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 292,
+   "completion_tokens": 435,
+   "total_tokens": 727,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 410,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

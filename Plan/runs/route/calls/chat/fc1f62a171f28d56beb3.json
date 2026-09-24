@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 3.6,
+ "content": "",
+ "response": {
+  "id": "gen-1790275889-hl1sGdhiyyC3blLbv5mM",
+  "object": "chat.completion",
+  "created": 1790275889,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\nText: \"+ *Diskussion:* Stellt Kaels Hauptoffensive dar, die direkt AEGIS' kognitives Fundament angreift. Erzeugt großflächige Spannung und Potenzial für systemweite Instabilität. Zeigt Kaels Meisterschaft im Umgang mit den Fehlern des Systems. Dies ist der Höhepunkt von Kaels Bemühungen, AEGIS' Logik auszunutzen 10, von taktischen Störungen zu einem strategischen Angriff auf seine Kernverarbeitung übergehend.\"\n\nI need to identify entities that have independent meaning and are meaningful for understanding the text content. I should not treat pure pronouns, generic terms, or non-referential phrases as entities.\n\nLet me go through the text and identify potential entities:\n\n1. \"Kael\" - This appears to be a name, likely a person or character. It has independent meaning.\n2. \"AEGIS\" - This appears to be an organization, system, or entity. It has independent meaning.\n3. \"kognitives Fundament\" - This is a description/concept, not an entity itself.\n4. \"Spannung\" - This is a generic term, not an entity.\n5. \"systemweite Instabilität\" - This is a description/concept, not an entity.\n6. \"Fehler des Systems\" - This refers to \"System\" which could be an entity, but it's generic.\n7. \"Logik\" - This is a generic term, not an entity.\n8. \"Kernverarbeitung\" - This is a description/concept, not an entity.\n\nLooking more carefully:\n- \"Kael\" is clearly a person/entity\n- \"AEGIS\" is clearly an organization/system/entity\n- \"System\" appears in \"Fehler des Systems\" and \"Kernverarbeitung\" - but this seems to be referring to a generic system concept rather than a specific entity\n\nThe text appears to be discussing some kind of strategic/system context where \"Kael\" is conducting an offensive against \"AEGIS\". These seem to be the main entities with independent meaning.\n\nLet me double-check if there are any other entities:\n- No locations mentioned\n- No products/services mentioned\n- No events mentioned\n- No organizations besides AEGIS\n- No concepts that would be considered entities\n\nSo the entities I should extract are:\n1. Kael - person\n2. AEGIS - organization/system\n\nI should use the DataSchemaSet function to extract these entities.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_kqzpawae5np9",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"AEGIS\", \"type\": \"organization\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\nText: \"+ *Diskussion:* Stellt Kaels Hauptoffensive dar, die direkt AEGIS' kognitives Fundament angreift. Erzeugt großflächige Spannung und Potenzial für systemweite Instabilität. Zeigt Kaels Meisterschaft im Umgang mit den Fehlern des Systems. Dies ist der Höhepunkt von Kaels Bemühungen, AEGIS' Logik auszunutzen 10, von taktischen Störungen zu einem strategischen Angriff auf seine Kernverarbeitung übergehend.\"\n\nI need to identify entities that have independent meaning and are meaningful for understanding the text content. I should not treat pure pronouns, generic terms, or non-referential phrases as entities.\n\nLet me go through the text and identify potential entities:\n\n1. \"Kael\" - This appears to be a name, likely a person or character. It has independent meaning.\n2. \"AEGIS\" - This appears to be an organization, system, or entity. It has independent meaning.\n3. \"kognitives Fundament\" - This is a description/concept, not an entity itself.\n4. \"Spannung\" - This is a generic term, not an entity.\n5. \"systemweite Instabilität\" - This is a description/concept, not an entity.\n6. \"Fehler des Systems\" - This refers to \"System\" which could be an entity, but it's generic.\n7. \"Logik\" - This is a generic term, not an entity.\n8. \"Kernverarbeitung\" - This is a description/concept, not an entity.\n\nLooking more carefully:\n- \"Kael\" is clearly a person/entity\n- \"AEGIS\" is clearly an organization/system/entity\n- \"System\" appears in \"Fehler des Systems\" and \"Kernverarbeitung\" - but this seems to be referring to a generic system concept rather than a specific entity\n\nThe text appears to be discussing some kind of strategic/system context where \"Kael\" is conducting an offensive against \"AEGIS\". These seem to be the main entities with independent meaning.\n\nLet me double-check if there are any other entities:\n- No locations mentioned\n- No products/services mentioned\n- No events mentioned\n- No organizations besides AEGIS\n- No concepts that would be considered entities\n\nSo the entities I should extract are:\n1. Kael - person\n2. AEGIS - organization/system\n\nI should use the DataSchemaSet function to extract these entities.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 292,
+   "completion_tokens": 542,
+   "total_tokens": 834,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 573,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

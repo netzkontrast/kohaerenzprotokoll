@@ -1,0 +1,36 @@
+{
+  "entities": [
+    {
+      "term": "AEGIS",
+      "scope": "world"
+    },
+    {
+      "term": "Datenkorruption",
+      "scope": "world"
+    },
+    {
+      "term": "EP-Intrusion",
+      "scope": "world"
+    },
+    {
+      "term": "Fehlererkennungsfehler",
+      "scope": "world"
+    },
+    {
+      "term": "Guardian",
+      "scope": "world"
+    },
+    {
+      "term": "Informationstheoretische Entropie vs. Thermodynamische Entropie",
+      "scope": "world"
+    },
+    {
+      "term": "Kael",
+      "scope": "world"
+    },
+    {
+      "term": "LogOS",
+      "scope": "world"
+    }
+  ]
+}

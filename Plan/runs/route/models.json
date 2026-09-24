@@ -1,0 +1,128 @@
+{
+ "probed": "2026-09-24T18:30:45+00:00",
+ "policy": {
+  "data_collection": "deny"
+ },
+ "listed": 458,
+ "free": 20,
+ "chat": {
+  "nex-agi/nex-n2.5-mini:free": {
+   "context": 262144,
+   "seconds": 3.8,
+   "status": "ok",
+   "provider": "Nex AGI"
+  },
+  "nex-agi/nex-n2.5-pro:free": {
+   "context": 262144,
+   "seconds": 58.8,
+   "status": "ok",
+   "provider": "Nex AGI"
+  },
+  "inclusionai/ling-3.0-flash-sante:free": {
+   "context": 262144,
+   "seconds": 1.5,
+   "status": "ok",
+   "provider": "Novita"
+  },
+  "inclusionai/ling-3.0-flash-fin:free": {
+   "context": 262144,
+   "seconds": 2.6,
+   "status": "ok",
+   "provider": "Novita"
+  },
+  "qwen/qwen3.8-27b:free": {
+   "context": 262144,
+   "seconds": 1.1,
+   "status": "rate-limited"
+  },
+  "dots-studio/dots-3-note-preview:free": {
+   "context": 512000,
+   "seconds": 2.6,
+   "status": "ok",
+   "provider": "AtlasCloud"
+  },
+  "liquid/lfm-2.5-2.6b:free": {
+   "context": 65536,
+   "seconds": 1.0,
+   "status": "data-policy"
+  },
+  "nvidia/nemotron-3.5-lightning:free": {
+   "context": 1000000,
+   "seconds": 0.9,
+   "status": "data-policy"
+  },
+  "thinkingmachines/inkling-small:free": {
+   "context": 1048576,
+   "seconds": 0.9,
+   "status": "forbidden"
+  },
+  "poolside/laguna-s-2.1:free": {
+   "context": 262144,
+   "seconds": 0.9,
+   "status": "data-policy"
+  },
+  "thinkingmachines/inkling:free": {
+   "context": 1048576,
+   "seconds": 0.9,
+   "status": "forbidden"
+  },
+  "poolside/laguna-xs-2.1:free": {
+   "context": 262144,
+   "seconds": 0.9,
+   "status": "data-policy"
+  },
+  "cohere/north-mini-code:free": {
+   "context": 256000,
+   "seconds": 0.7,
+   "status": "ok",
+   "provider": "Cohere"
+  },
+  "z-ai/glm-5.2:free": {
+   "context": 32768,
+   "seconds": 0.4,
+   "status": "rate-limited"
+  },
+  "nvidia/nemotron-3.5-content-safety:free": {
+   "context": 128000,
+   "seconds": 0.3,
+   "status": "data-policy"
+  },
+  "nvidia/nemotron-3-ultra-550b-a55b:free": {
+   "context": 1000000,
+   "seconds": 0.4,
+   "status": "data-policy"
+  },
+  "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free": {
+   "context": 256000,
+   "seconds": 0.4,
+   "status": "data-policy"
+  },
+  "google/gemma-4-26b-a4b-it:free": {
+   "context": 262144,
+   "seconds": 0.4,
+   "status": "rate-limited"
+  },
+  "google/gemma-4-31b-it:free": {
+   "context": 262144,
+   "seconds": 0.4,
+   "status": "rate-limited"
+  },
+  "nvidia/nemotron-3-super-120b-a12b:free": {
+   "context": 262144,
+   "seconds": 0.2,
+   "status": "data-policy"
+  }
+ },
+ "embeddings": {
+  "liquid/lfm-2.5-embedding-350m:free": {
+   "status": "data-policy"
+  },
+  "nvidia/nemotron-3-embed-1b:free": {
+   "status": "data-policy"
+  },
+  "nvidia/llama-nemotron-embed-vl-1b-v2:free": {
+   "status": "data-policy"
+  }
+ },
+ "local_embeddings": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+}

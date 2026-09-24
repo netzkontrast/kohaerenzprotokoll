@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 11.5,
+ "content": "{\n  \"name\": \"Diskussion\",\n  \"type\": \"concept\",\n  \"description\": \"The specific discussion topic about AEGIS's adaptive nature as a dynamic opponent\"\n}",
+ "response": {
+  "id": "gen-1790275937-nONiz4xWviH8wypxMWDx",
+  "object": "chat.completion",
+  "created": 1790275937,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Diskussion\",\n  \"type\": \"concept\",\n  \"description\": \"The specific discussion topic about AEGIS's adaptive nature as a dynamic opponent\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A existing: name \"Diskussion\", type \"event\", description null. Item B incoming: name \"Diskussion\", type \"concept\", description \"The specific discussion topic about AEGIS's adaptive nature as a dynamic opponent\". Merge strategy: combine info, if fields conflict, pick more detailed or recent-looking. For name same, keep. For type conflict: \"event\" vs \"concept\". Which is more detailed? Both are single words. Could consider \"concept\" maybe more specific? Or \"event\" maybe more generic? Hard to say. Could pick \"concept\" because it's more descriptive? Or maybe \"event\" is more recent? Not sure. The description is present in B, null in A, so keep description. For list fields none. So final JSON: name \"Diskussion\", type \"concept\" (choose B), description \"The specific discussion topic about AEGIS's adaptive nature as a dynamic opponent\". Return exact JSON format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A existing: name \"Diskussion\", type \"event\", description null. Item B incoming: name \"Diskussion\", type \"concept\", description \"The specific discussion topic about AEGIS's adaptive nature as a dynamic opponent\". Merge strategy: combine info, if fields conflict, pick more detailed or recent-looking. For name same, keep. For type conflict: \"event\" vs \"concept\". Which is more detailed? Both are single words. Could consider \"concept\" maybe more specific? Or \"event\" maybe more generic? Hard to say. Could pick \"concept\" because it's more descriptive? Or maybe \"event\" is more recent? Not sure. The description is present in B, null in A, so keep description. For list fields none. So final JSON: name \"Diskussion\", type \"concept\" (choose B), description \"The specific discussion topic about AEGIS's adaptive nature as a dynamic opponent\". Return exact JSON format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 192,
+   "completion_tokens": 240,
+   "total_tokens": 432,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 233,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

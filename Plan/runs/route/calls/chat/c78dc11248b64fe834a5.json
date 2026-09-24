@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 4.8,
+ "content": "",
+ "response": {
+  "id": "gen-1790275896-B3M2j0e77lIgj6vj1NxP",
+  "object": "chat.completion",
+  "created": 1790275896,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "Let me analyze this text to identify entities with independent meaning. I need to look for specific names, places, concepts, and other meaningful references that have independent meaning in the text.\n\nLooking at the text:\n\n1. **AEGIS-Fokus** - This appears to be a specific system or concept name\n2. **Kael** - This is a character name\n3. **LogOS** - This appears to be a system or entity name\n4. **Mnemosyne** - This appears to be a name (possibly a character or entity)\n5. **Cerberus** - This appears to be a name (possibly a character or entity)\n6. **Guardians** - This appears to be a group/entity name\n7. **SOC-Kollapsfolgen 19** - This appears to be a reference to a specific source or document\n\nLet me also check for other potential entities:\n- \"System\" appears multiple times but seems to be a generic term\n- \"Entropie\" and \"Homöostase\" are concepts but seem to be used generically\n- \"Risse\" appears but seems to be used generically\n- \"Kernwelten\" appears but seems to be a generic term\n\nThe entities I should extract are those with specific names that have independent meaning:\n1. AEGIS-Fokus - appears to be a system/concept\n2. Kael - character name\n3. LogOS - system/entity name\n4. Mnemosyne - name\n5. Cerberus - name\n6. Guardians - group name\n7. SOC-Kollapsfolgen 19 - reference/source\n\nLet me format these properly for the DataSchemaSet function.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_2n35tswb2w8w",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"AEGIS-Fokus\", \"type\": \"concept\"}, {\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"LogOS\", \"type\": \"organization\"}, {\"name\": \"Mnemosyne\", \"type\": \"person\"}, {\"name\": \"Cerberus\", \"type\": \"person\"}, {\"name\": \"Guardians\", \"type\": \"organization\"}, {\"name\": \"SOC-Kollapsfolgen 19\", \"type\": \"document\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze this text to identify entities with independent meaning. I need to look for specific names, places, concepts, and other meaningful references that have independent meaning in the text.\n\nLooking at the text:\n\n1. **AEGIS-Fokus** - This appears to be a specific system or concept name\n2. **Kael** - This is a character name\n3. **LogOS** - This appears to be a system or entity name\n4. **Mnemosyne** - This appears to be a name (possibly a character or entity)\n5. **Cerberus** - This appears to be a name (possibly a character or entity)\n6. **Guardians** - This appears to be a group/entity name\n7. **SOC-Kollapsfolgen 19** - This appears to be a reference to a specific source or document\n\nLet me also check for other potential entities:\n- \"System\" appears multiple times but seems to be a generic term\n- \"Entropie\" and \"Homöostase\" are concepts but seem to be used generically\n- \"Risse\" appears but seems to be used generically\n- \"Kernwelten\" appears but seems to be a generic term\n\nThe entities I should extract are those with specific names that have independent meaning:\n1. AEGIS-Fokus - appears to be a system/concept\n2. Kael - character name\n3. LogOS - system/entity name\n4. Mnemosyne - name\n5. Cerberus - name\n6. Guardians - group name\n7. SOC-Kollapsfolgen 19 - reference/source\n\nLet me format these properly for the DataSchemaSet function.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 624,
+   "completion_tokens": 422,
+   "total_tokens": 1046,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 347,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

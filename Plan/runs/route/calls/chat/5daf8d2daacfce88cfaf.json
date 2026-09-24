@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 7.6,
+ "content": "{\n  \"name\": \"Cerberus\",\n  \"type\": \"organization\",\n  \"description\": null\n}",
+ "response": {
+  "id": "gen-1790275943-S2x7ks0jCKWZ0HMRyeP2",
+  "object": "chat.completion",
+  "created": 1790275943,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Cerberus\",\n  \"type\": \"organization\",\n  \"description\": null\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name \"Cerberus\", type \"person\", description null. Item B: name \"Cerberus\", type \"organization\", description null.\n\nWe need to combine info. Fields conflict: type is \"person\" vs \"organization\". Need to pick more detailed or recent-looking value. Both are simple. Which is more detailed? Both are single words. Could consider that \"organization\" might be more specific? Not sure. Could also consider that \"type\" conflict, we need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are equally detailed. Could maybe choose \"organization\" as it's more specific? Or maybe \"person\"? Hard to say. Could also consider that \"type\" might be ambiguous; maybe we could combine? But we cannot invent new info. Could we set type to something like \"person/organization\"? That would be inventing. So we must pick one. I'd choose \"organization\" as maybe more recent? Not sure. Could also consider that \"type\" is a classification; maybe the incoming data is more recent, so we could prioritize incoming. The instruction says \"use your best judgment to pick the more detailed or recent-looking value.\" The incoming item B could be considered more recent. So we could pick \"organization\". So final merged object: name \"Cerberus\", type \"organization\", description null.\n\nWe also need to ensure JSON format exactly as input items: they have fields in order name, type, description. So output should be same order.\n\nThus final answer:\n\n{\n  \"name\": \"Cerberus\",\n  \"type\": \"organization\",\n  \"description\": null\n}",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name \"Cerberus\", type \"person\", description null. Item B: name \"Cerberus\", type \"organization\", description null.\n\nWe need to combine info. Fields conflict: type is \"person\" vs \"organization\". Need to pick more detailed or recent-looking value. Both are simple. Which is more detailed? Both are single words. Could consider that \"organization\" might be more specific? Not sure. Could also consider that \"type\" conflict, we need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are equally detailed. Could maybe choose \"organization\" as it's more specific? Or maybe \"person\"? Hard to say. Could also consider that \"type\" might be ambiguous; maybe we could combine? But we cannot invent new info. Could we set type to something like \"person/organization\"? That would be inventing. So we must pick one. I'd choose \"organization\" as maybe more recent? Not sure. Could also consider that \"type\" is a classification; maybe the incoming data is more recent, so we could prioritize incoming. The instruction says \"use your best judgment to pick the more detailed or recent-looking value.\" The incoming item B could be considered more recent. So we could pick \"organization\". So final merged object: name \"Cerberus\", type \"organization\", description null.\n\nWe also need to ensure JSON format exactly as input items: they have fields in order name, type, description. So output should be same order.\n\nThus final answer:\n\n{\n  \"name\": \"Cerberus\",\n  \"type\": \"organization\",\n  \"description\": null\n}",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 178,
+   "completion_tokens": 374,
+   "total_tokens": 552,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 412,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

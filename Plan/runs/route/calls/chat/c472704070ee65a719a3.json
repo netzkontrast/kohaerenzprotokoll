@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.7,
+ "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"An AI system whose consciousness and nature are being philosophically examined in the narrative\"\n}",
+ "response": {
+  "id": "gen-1790275958-2LeZDSNJTu8e7AXERvFF",
+  "object": "chat.completion",
+  "created": 1790275958,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"An AI system whose consciousness and nature are being philosophically examined in the narrative\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A existing: name \"AEGIS\", type \"organization\", description null. Item B incoming: same name and type, description is a string.\n\nMerge strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Here description conflict: null vs string. Keep the data (string). So final description should be the string from B.\n\nOther fields same.\n\nThus merged JSON:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"An AI system whose consciousness and nature are being philosophically examined in the narrative\"\n}\n\nReturn exactly JSON format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A existing: name \"AEGIS\", type \"organization\", description null. Item B incoming: same name and type, description is a string.\n\nMerge strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Here description conflict: null vs string. Keep the data (string). So final description should be the string from B.\n\nOther fields same.\n\nThus merged JSON:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"An AI system whose consciousness and nature are being philosophically examined in the narrative\"\n}\n\nReturn exactly JSON format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 194,
+   "completion_tokens": 173,
+   "total_tokens": 367,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 163,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

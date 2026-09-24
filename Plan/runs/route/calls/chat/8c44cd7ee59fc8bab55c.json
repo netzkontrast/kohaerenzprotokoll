@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.7,
+ "content": "{\n  \"name\": \"EP-Intrusion\",\n  \"type\": \"event\",\n  \"description\": null\n}",
+ "response": {
+  "id": "gen-1790275935-Xju84EEzV4R6cTncnqUD",
+  "object": "chat.completion",
+  "created": 1790275935,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"EP-Intrusion\",\n  \"type\": \"event\",\n  \"description\": null\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name EP-Intrusion, type concept, description null. Item B: name EP-Intrusion, type event, description null.\n\nMerge strategy: combine info. Fields conflict: name same, description both null, type differs. Use best judgment to pick more detailed or recent-looking value. Which is more appropriate? Possibly \"event\" is more specific? Or \"concept\"? Hard to say. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are simple. Could consider \"event\" as more recent? Or maybe \"type\" should be \"event\"? There's no other info. I'd pick \"event\" as it's more specific? Or maybe \"concept\" is more generic. I'd choose \"event\" as likely more recent. So final merged object: name EP-Intrusion, type event, description null.\n\nReturn JSON exactly as input items format (i.e., same keys order? Probably not required but keep same order). So output:\n\n{\n  \"name\": \"EP-Intrusion\",\n  \"type\": \"event\",\n  \"description\": null\n}\n\nThat's it.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name EP-Intrusion, type concept, description null. Item B: name EP-Intrusion, type event, description null.\n\nMerge strategy: combine info. Fields conflict: name same, description both null, type differs. Use best judgment to pick more detailed or recent-looking value. Which is more appropriate? Possibly \"event\" is more specific? Or \"concept\"? Hard to say. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are simple. Could consider \"event\" as more recent? Or maybe \"type\" should be \"event\"? There's no other info. I'd pick \"event\" as it's more specific? Or maybe \"concept\" is more generic. I'd choose \"event\" as likely more recent. So final merged object: name EP-Intrusion, type event, description null.\n\nReturn JSON exactly as input items format (i.e., same keys order? Probably not required but keep same order). So output:\n\n{\n  \"name\": \"EP-Intrusion\",\n  \"type\": \"event\",\n  \"description\": null\n}\n\nThat's it.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 182,
+   "completion_tokens": 268,
+   "total_tokens": 450,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 266,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

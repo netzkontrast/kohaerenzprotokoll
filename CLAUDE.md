@@ -29,15 +29,27 @@ author, work half-done, what failed — and it is the handover between sessions.
 
 ### A fresh container has none of the derived things
 
-A cloud session starts from a clean clone. Everything git-ignored is absent, and
-each has one command that rebuilds it:
+A cloud session starts from a clean clone. Everything git-ignored is absent.
+**`scripts/install.sh` rebuilds all of it but the qmd models**, and
+`.claude/hooks/session-start.sh` runs it at every cloud session start —
+synchronously, so no step races an install, and never blocking the session on a
+failed component. `scripts/install.sh --check` says what is present,
+`--list` names the components, `scripts/install.sh <name>` installs one. The
+first run here took about a minute with uv's cache already warm — a cold
+container also downloads torch for `grawiki`, unmeasured; a second run is 4s.
+The log is `.install.log`.
 
-| absent at start | rebuild | needed for |
+| absent at start | rebuild (`scripts/install.sh <name>`) | needed for |
 |---|---|---|
-| `Plan/derived/` | `python3 scripts/derive.py` (about 3s) | `corpus.py`'s index path |
-| `.venv-tools`, `.venv-dspy`, `.venv-dspytools`, `.venv-typesafe`, `.venv-mflow` | the commands under *Installing anything* | only the step that names each |
-| qmd, its models and index | `scripts/setup_qmd.sh` | searching; nothing in the pipeline |
-| `jev-decide` | under *Installing anything* | the vendored `jev*` skills in API mode |
+| `Plan/derived/` | `derived` — `python3 scripts/derive.py`, about 3s | `corpus.py`'s index path |
+| `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki`, `.venv-semantica`, `.venv-mflow` | `tools`, `typesafe`, `dspy`, `dspytools`, `grawiki`, `semantica`, `mflow` | only the step that names each |
+| `jev-decide` | `jev` | the vendored `jev*` skills in API mode |
+| `graphify` CLI, with its `openai` extra | `graphify`, pinned to `4c73561` | the vendored `graphify` skill |
+| `cgr` (code-graph-rag) | `cgr` | nothing in the pipeline |
+| `he`, `he-mcp` (Hyper-Extract) | `hyperextract`, pinned to `395039e` | the `hyper-extract` MCP server in `.mcp.json` and the vendored `hyper*` skills |
+| OpenCode and the oh-my-openagent plugin | `omo` — `~/.config/opencode/opencode.json`, `~/.omo/omo.jsonc`; no provider sign-in | nothing in the pipeline; a second agent harness |
+| qmd package and the `/usr/local/bin/qmd` shim | `qmd` — `scripts/setup_qmd.sh --package` | searching; nothing in the pipeline |
+| qmd's models (~2.1 GB), index and embeddings | `qmd-models` — `scripts/setup_qmd.sh`; **not** run at session start | vector search and `qmd query` |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
 | `Plan/derived/ui/` | `python3 scripts/ui.py` | the project app's canvas files, to publish |
 
@@ -655,8 +667,9 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
-Five venvs are defined, all git-ignored, each for one reason. **None survives a
-container**; each is rebuilt by the commands below when a step needs it:
+Seven venvs are defined, all git-ignored, each for one reason. **None survives a
+container**; `scripts/install.sh` rebuilds each, and the commands below are what
+it runs:
 
 | venv | python | why |
 |---|---|---|
@@ -664,6 +677,8 @@ container**; each is rebuilt by the commands below when a step needs it:
 | `.venv-dspy` | 3.11 | DSPy 3.3.1 with numpy — every `scripts/` step that calls a model or its fixture |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
+| `.venv-grawiki` | **3.12** | `grawiki[falkordblite,viz]` from `netzkontrast/grawiki` at `920d181`, which refuses 3.11; about 2 GB with CPU torch |
+| `.venv-semantica` | 3.12 | `semantica==0.7.0`, the base package without extras — a knowledge-graph library with provenance tracking; about 480 MB |
 | `.venv-mflow` | 3.11 | `mflow-ai`, M-flow's graph memory — nothing calls it |
 
 ```bash
@@ -708,6 +723,48 @@ The route chosen for them is **A, real Jev**. Both keys are present in the
 environment's settings as of 2026-09-23, never in chat or a file here. Every call still
 needs the author's yes before corpus text is sent (see above).
 
+**Four more vendored folders are Notion skills**: `knowledge-capture`,
+`meeting-intelligence`, `research-documentation` and `spec-to-implementation`,
+copied unchanged (plus its `LICENSE`, MIT) from `netzkontrast/notion-skills`
+commit `e1bab42f8337b93b833eb01d9edcde067125690f`, path
+`plugins/notion-skills/skills/`. They are vendored rather than installed as a
+plugin because that repository's `.claude-plugin/marketplace.json` fails
+`claude plugin validate` — its `skills` field lists bare names where paths are
+expected — so a settings-registered plugin would not load.
+
+Their `NOTION_API_TOKEN` configuration does not apply here: Notion is reached
+through the claude.ai Notion connector (`mcp__Notion__*`), which carries its own
+auth, and no token is written to a file. Notion is outside the two layers: no
+script reads it, and nothing in `Wiki/` or `Sources/` may cite a Notion page.
+Anything sent there is corpus text leaving the repository, so the same rule as
+Jev applies — the author's yes first.
+
+**`.claude/skills/knowledge-graph-extract` is vendored too**, copied unchanged
+(plus its `LICENSE`, MIT) from `netzkontrast/knowledge-graph-extract` commit
+`542fffaeaf18f4db6eb3f32c7a93c2c54822f67c`. It has a model read a folder of
+documents into subject–relation–object triples, with four standard-library
+scripts to validate them and write Cypher. Its manifest passes
+`claude plugin validate`; it is copied rather than registered only so all
+third-party skills sit in one place, pinned the same way.
+
+A triple it writes is a model's reading, in the same standing as an entity list:
+it may not create a page, write a `[[…]]` link, supply a count, or merge two
+surfaces — a guessed edge is indistinguishable from a stated one once it is in
+the graph (see *The wiki links*). Its output directory goes outside `Wiki/` and
+`Sources/`. Nothing in the pipeline calls it yet.
+
+**`.claude/skills/graphify` is the skill `graphify install --project` writes**,
+from `netzkontrast/graphify` commit `4c735618f3d56fd622c2049771584621c31ba9ff`
+(graphify 0.9.67, Apache-2.0 with MIT and NOTICE copied beside it). It drives the
+`graphify` CLI, which is not in the repository — see the table at the top. Only
+the skill folder was kept. The same install also appends rules to `CLAUDE.md`
+and registers `PreToolUse` hooks on `Bash|Grep` and `Read|Glob` that run
+`graphify hook-guard`; neither is here, because in a fresh container the binary
+is absent and every one of those calls would run a failing hook, and the rules
+would route questions to a graph ahead of `read.py`, `corpus.py` and qmd.
+Its `INFERRED` edges are a model's reading under the same limits as
+`knowledge-graph-extract`, and `graphify-out/` is git-ignored.
+
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only
 from a person, and they do different halves of it:
 
@@ -748,6 +805,96 @@ reachable, and measured against this repository —
 `Plan/concept/continuous-improvement_2026-09-17.md` has what each is for and in
 what order.
 
+`grawiki` is a library, not a skill: a model reads chunks of a document into a
+graph held in FalkorDBLite, a local file with no server. It stands where
+`knowledge-graph-extract` stands — the same author's framework, of which that
+skill is the counterpart — and under the same limits: its graph is a model's
+reading and supplies no page, link or count. `--torch-backend cpu` is
+deliberate: `chonkie[st]` pulls sentence-transformers, and a container has no GPU.
+
+`code-graph-rag` (`cgr`) is a uv tool on Python 3.12. Without
+`--with "transformers>=4.40"` the resolver falls back to transformers 4.12.2,
+whose tokenizers needs a Rust build that fails.
+
+`semantica` is a library in the same family: context graphs with provenance
+and reasoning over them. Only the base package is installed — its LLM, document
+and embedding extras are not — so it builds and queries graphs a caller hands
+it and extracts nothing by itself.
+
+All three are installed and start; none has been run against the corpus, and
+nothing in the pipeline calls them. Their graphs stand under the same limits as
+`knowledge-graph-extract`: no page, link or count comes from one.
+
+**Hyper-Extract** (`netzkontrast/Hyper-Extract` at
+`395039ea49709b279971631a47569b931818abbb`, Apache-2.0) is three things here:
+
+- **`he`**, a uv tool on Python 3.12 with the `mcp`, `ingest` and `anthropic`
+  extras. `he parse` has a model read documents into a *Knowledge Abstract* —
+  a graph, hypergraph, list or record set shaped by a YAML template — and
+  `he template validate` checks a template without any model.
+- **`he-mcp`**, registered as the `hyper-extract` server in `.mcp.json`. Its
+  nine tools read and export an existing Knowledge Abstract (`list_templates`,
+  `info`, `search`, `ask`, `export_obsidian|graphml|csv|jsonld|cypher`); none of
+  them extracts. In a brand-new container the server can start before the
+  session hook has installed `he-mcp` — reconnect it with `/mcp`.
+- **Seven template-design skills**: `hyper-extract` (the entry point) and
+  `hyperextract-brainstorm`, `-record-designer`, `-graph-designer`,
+  `-yaml-validator`, `-template-optimizer`, `-multilingual`. Upstream nests them
+  in one `hyperextract-skills/` folder, which Claude Code does not discover, so
+  each is its own top-level folder with the prefix added; every file is
+  unchanged. Two of the bundled cases, `battle-analysis.yaml` and
+  `biography-events.yaml`, fail `he template validate` (HE-T001, not parseable)
+  as shipped.
+
+No provider is configured. `he` reads `~/.he/config.toml` and falls back to
+`OPENAI_API_KEY` and `OPENAI_BASE_URL`; the key goes in the environment's
+settings or `he config`, never in this repository. `he parse`, `search` and
+`ask` send text to that provider, so the Jev rule applies — the author's yes
+before corpus text goes. A Knowledge Abstract is a model's reading under the
+same limits as `knowledge-graph-extract`: no page, link or count comes from it,
+and it is written outside `Wiki/` and `Sources/`.
+
+**Four project templates exist and none has run**: `Plan/hyperextract/`
+(`TermCensus`, `LocationRegistry`, `TermReadings`, `StatedRelations`), each
+copying the shape of something already here so code can score it, each marked
+provisional. `python3 scripts/templates.py check` holds them to Hyper-Extract's
+validator, to loading as `he parse` loads them — the validator passed a field
+that loading rejects — and to five rules of this project: no line field (P26), no
+model merge (P13), an explicit merge strategy, the provisional header, and no
+corpus name in any text a model is sent. `selftest` shows each check failing on
+its defect. `Plan/concept/hyperextract-templates_2026-09-24.md` has the design,
+the optimiser's report and how each is scored.
+
+**oh-my-openagent** is a different kind of thing from everything above: not a
+library or a skill for Claude Code but a plugin for another agent harness,
+[OpenCode](https://opencode.ai). `scripts/install.sh omo` installs
+`opencode-ai@1.18.32` with npm and runs the plugin's own installer at `4.19.4`
+with the author's answers (2026-09-24): OpenCode, Claude Max 20×, ChatGPT Plus,
+Gemini, no Copilot. That writes `"oh-my-openagent@latest"` into
+`~/.config/opencode/opencode.json` — so OpenCode loads whatever is newest, not
+the pin — and the agent → model routing into `~/.omo/omo.jsonc`: `sisyphus` on
+`anthropic/claude-opus-5`, `oracle` on `openai/gpt-5.6-sol`, and so on down its
+roster. Both files are outside the repository and regenerated per container.
+
+What it does not do, and why:
+
+- **No provider is signed in.** It runs with `--skip-auth`; `opencode auth login`
+  is a browser OAuth flow a container cannot finish, and its tokens would live
+  in `~/.local/share/opencode/auth.json`, which the container loses. OpenCode
+  with this plugin is usable where the author signs in — their own machine —
+  and here only as far as `doctor` and `opencode agent list`.
+- **`config migrate` is not run.** At 4.19.4, `doctor` reports the installer's
+  own `variant`/`fallback_models` keys as deprecated and names `config migrate`
+  as the fix; the migration rewrites agents to `models`, which the same
+  validator then rejects, and `doctor` goes from warnings (exit 0) to eight
+  errors (exit 1). The installer's output is kept as it writes it.
+- `doctor` also warns that `sg` (ast-grep) and `gh` are absent. Neither is
+  installed.
+
+Its telemetry is on by default; `OMO_SEND_ANONYMOUS_TELEMETRY=0` turns it off.
+Anything an OpenCode agent reads from the corpus goes to the providers above,
+so the Jev rule applies to it as to everything else here.
+
 **M-flow is installed on its own**, from the fork `netzkontrast/m_flow`, which
 has no commits of its own. Its head, `0d585cd` of 2026-08-03, is an upstream
 commit:
@@ -785,7 +932,7 @@ every piece is a pattern of tens of lines, ported with its source named.
 
 | script | what it guarantees |
 |---|---|
-| `lmrun.py` | the only way a model is called: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision |
+| `lmrun.py` | how `pairs.py` and `graphrag.py` call a model: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision |
 | `lm_fixture.py` | an offline `dspy.BaseLM`; `offline()` hides every `*_API_KEY` and replaces `litellm.completion` with a refusal, because a scanned repository's unmocked test made a live call from this container |
 | `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor**, not only one that fell since the last row, and a `vetoed` row fails whatever its score |
 | `pairs.py` | one-term-or-two: `fold()` first, a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
@@ -800,6 +947,17 @@ a third party, and the author has not said yes to it. `scripts/rlm_ingest.py`
 now requires `--approval` for the same reason, turns its cache off, sets a call
 budget, hands the model `find_line` and `count` as tools, and measures how far
 into the document its verified citations reach.
+
+**Not every model call goes through `lmrun.py`.** `rlm_ingest.py` builds its own
+`dspy.LM` with the same two refusals — cache off, `--approval` required.
+`bilingual.py` and `jev_entities.py` call OpenRouter and Jev directly, with
+their own cache, and were written before it. `scripts/route.py` is the door for third-party tools and
+for direct calls under decision 007: free models only, the consent file where
+`lmrun` takes `approval=`, every call recorded and replayable offline, and a
+repeat made fresh by `attempt > 0` rather than by turning the record off (P18).
+One rule — no corpus text leaves without the author's decision — now has three
+encodings, which is the drift P6 names; which one the others should call is open
+in `NOW.md`.
 
 ## Changing your mind
 

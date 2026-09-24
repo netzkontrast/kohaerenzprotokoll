@@ -15,10 +15,13 @@ Two rules are this project's own:
 - **One encoding per skill (P6).** A project skill lives in `.agents/skills/`
   and `.claude/skills/<name>` is a symlink to it. A real folder with the same
   name is a second copy, and two copies drift on the first edit.
-- **Vendored skills are checked, never rewritten.** The `jev*` folders are
-  copied unchanged from `wuyoscar/jev-skill` v0.2.0. Their findings are
-  reported under their own heading and do not fail the run: fixing them here
-  would make them no longer the vendored thing.
+- **Vendored skills are checked, never rewritten.** Four collections are copied
+  unchanged from upstream, each pinned in `CLAUDE.md`: the `jev*` folders from
+  `wuyoscar/jev-skill` v0.2.0; the four Notion skills from
+  `netzkontrast/notion-skills`; `knowledge-graph-extract`; `graphify`; and the
+  `hyper-extract` / `hyperextract-*` folders from `netzkontrast/Hyper-Extract`.
+  Their findings are reported under their own heading and do not fail the run:
+  fixing them here would make them no longer the vendored thing.
 
     python3 scripts/check_skills.py            # exit 1 on a project-skill defect
     python3 scripts/check_skills.py --json
@@ -35,7 +38,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PROJECT = ROOT / ".agents" / "skills"
 CLAUDE = ROOT / ".claude" / "skills"
-VENDORED = re.compile(r"^jev(-|$)")
+VENDORED = re.compile(r"^(jev(-|$)|knowledge-capture$|meeting-intelligence$|research-documentation$|"
+                      r"spec-to-implementation$|knowledge-graph-extract$|graphify$|hyper-?extract(-|$))")
 
 SUPPORTED = {"name", "description", "when_to_use", "argument-hint",
              "disable-model-invocation", "user-invocable", "allowed-tools", "model",
