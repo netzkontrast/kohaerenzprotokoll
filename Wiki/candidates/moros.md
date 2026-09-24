@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -42,3 +42,7 @@ Its Riss type: „Gravitational" ^[koharenz-protokoll-konzept-konsolidiert-2026-
 
 Two proposed places, both labelled: „als mögliche Moros-Begegnung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L274] (`[V]`,
 KW2) and „als mögliche Moros-Anschluss-Stelle" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L375] (`[S]`, KW3).
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „Kollaps" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L249], correlate „Big Freeze" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L250], somatics „Katatonie" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L251], arc „→ Drachenkampf" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L252].
