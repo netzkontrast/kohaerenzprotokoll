@@ -143,6 +143,8 @@ def run(dry_run: bool, model: str | None, approval: str | None) -> list[dict]:
             pred = rlm(question=case["query"] + "\nFind existing page IDs using the tools. "
                        "Inspect evidence. Submit at most eight IDs; if none fit, submit [].")
         result = evaluate(pred.page_ids, isolated, case["gold"])
+        result["steps"] = len(getattr(pred, "trajectory", []) or [])
+        result["model_requests"] = len(lm.requests) if dry_run else len(lm.history)
         result["forced"] = getattr(pred, "final_reasoning", "") == "Extract forced final output"
         if dry_run:
             result["status"] = "fixture — no accuracy measured"
