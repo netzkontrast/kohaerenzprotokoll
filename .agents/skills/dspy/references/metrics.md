@@ -78,8 +78,10 @@ one, `rule:plural`, which decides 44 <!--state:pairs.plural_correct-->
 model row: its rows are `rule:fold`, `rule:plural` and `graphrag.py bench`'s
 retrieval methods.
 
-**The human ceiling is F1 ≈ 0.66, and both scripts that score a model list say
-so.** `entities.py cmd_score()` computes
+**The two-reader ceiling is F1 ≈ 0.66, and both scripts that score a model list
+say so.** Both readers were Claude sessions (P27, corrected 2026-09-24), and F1
+between two lists moves with how much each lists: `scripts/agree.py` prints
+containment beside it. `entities.py cmd_score()` computes
 precision/recall/F1 for a model's entity list against a reader's, then prints
 `"— two readers scored 0.66 (P27)"` on the same line
 (`scripts/entities.py`) and lists both difference sets by name, never a bare

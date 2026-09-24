@@ -181,9 +181,9 @@ the task — one returned a 404, the other was restricted to another harness.
 A model good at extraction can be bad at merging. Model choice comes from a
 benchmark against *that step's* fixture and *that step's* metric.
 
-**P27 — Establish the human ceiling before scoring a model.**
+**P27 — Establish the two-reader ceiling before scoring a model.**
 A gold set is one reading, not the truth, and a metric that treats it as truth
-measures agreement with one person. *Evidence:* two independent readings of one
+measures agreement with one reader. *Evidence:* two independent readings of one
 document, same process, neither seeing the other, produced **131 and 113
 candidates with 80 shared** — precision 0.71, recall 0.61, **F1 0.66**. A second
 pair on another document gave 109 against 143, and one of the two raised a
@@ -191,6 +191,12 @@ conflict the other never saw. So a model at 0.66 is **at** the ceiling, not two
 thirds right, and one clearly above it is most likely fitted to a single reader.
 Report both difference lists by name: a miss is not automatically an error and an
 invention is not automatically wrong.
+*Corrected 2026-09-24:* every reader behind these numbers was a Claude session,
+so this was called the *human* ceiling in error; no reading by the author
+exists. And F1 mixes seeing with selecting: two blind readers told to list
+exhaustively agreed at 0.82–0.93 on four documents while each held 97–100 % of
+a selective list it scored 0.11–0.52 against. Report containment beside F1 —
+`scripts/agree.py` prints both (`Plan/learnings/extract-terms.md`).
 
 **P17 — Benchmark the real thing.**
 Score the actual program with the actual metric a real run is judged by. A

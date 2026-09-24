@@ -68,6 +68,7 @@ encodings of one rule drift apart on the first edit (P6).
 |---|---|---|
 | `capture.py` | Opens a document's run: profile and probes first, then — only once `03-candidates.md` has been written by hand — the counts. | `Plan/runs/<slug>/01-profile.txt`, `02-probes.txt`, `probes.json`, a `03-candidates.md` header if none exists; `--count`: `04-counts.txt`, `counts.json` |
 | `read.py` | The document with every line prefixed by the file line a citation names. `--find "<words>"` answers with the citation, or refuses and names the nearest line. | — |
+| `agree.py` | Two or more candidate lists of one document compared pairwise, as P27 says: F1, how much of each list the other holds, the terms one list holds only inside a longer surface of the other, and the forms a list writes that the document does not. `--names` prints who has what. | — |
 
 ## Reconciling against the wiki
 
