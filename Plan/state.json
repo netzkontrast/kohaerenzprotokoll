@@ -106,6 +106,22 @@
       "value": 17,
       "how": "cited quotations that do not resolve, scripts/quotes.py"
     },
+    "readme.decisions_drift": {
+      "value": 0,
+      "how": "Plan/decisions/README.md against the decision files: missed plus dangling"
+    },
+    "readme.plan_drift": {
+      "value": 0,
+      "how": "Plan/README.md against the folders in Plan/: missed plus dangling"
+    },
+    "readme.scripts_drift": {
+      "value": 0,
+      "how": "scripts/README.md against the files in scripts/: missed plus dangling"
+    },
+    "readme.skills_drift": {
+      "value": 0,
+      "how": ".agents/skills/README.md against the project skills: missed plus dangling"
+    },
     "rules.count": {
       "value": 4,
       "how": "modules in scripts/rules/ satisfying the contract"
@@ -134,9 +150,17 @@
       "value": 0,
       "how": "landed files that are a near-copy of another"
     },
+    "sources.repeated_titles": {
+      "value": 35,
+      "how": "titles on more than one manifest row \u2014 a shared title is not a copy"
+    },
     "sources.total": {
       "value": 613,
       "how": "rows in Sources/manifest.jsonl"
+    },
+    "sources.without_frontmatter": {
+      "value": 23,
+      "how": "landed files that do not open with the eight lines of provenance"
     },
     "trainset.fold_baseline_pct": {
       "value": 58,
@@ -177,6 +201,10 @@
     "wiki.unmarked": {
       "value": 145,
       "how": "a page's term written in another page's prose without being marked a link"
+    },
+    "wiki.zero_readings": {
+      "value": 1,
+      "how": "term pages whose frontmatter says readings: 0 \u2014 a term only asked about"
     }
   }
 }
