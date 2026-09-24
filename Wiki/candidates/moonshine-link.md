@@ -1,0 +1,31 @@
+---
+term: Moonshine-Link
+status: candidate
+sources: 2
+readings: 2
+conflict: none
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+gathered: "2026-09-24"
+---
+
+# Moonshine-Link
+
+**The connection between [[kael|Kael]] and [[juna|Juna]] that [[aegis|AEGIS]] cannot see.**
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+> „Eine nicht-lokale, sub-protokolläre Verbindung zwischen Kael und Juna." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L252]
+
+„Für AEGIS ontologisch unsichtbar." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L256] What it gives: „Der Link liefert
+Kael Gnosis (direkte intuitive Einsicht), nicht Episteme (analytisches Wissen)."
+^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L260] Its body inside the system is [[silas|Silas]].
+
+Its boundaries are an open point by the document's own list — „Moonshine-Boundary-Conditions"
+(L1242), with a recommendation, not a lock.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+It is the relationship throughline of Storyform A — „RS: A = Physics
+(Moonshine-Link)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L168] — and its boundary is open there too:
+„Moonshine-Boundary (was überträgt der Link, was nicht)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L480]. That
+document's reconciliation withheld the page for that reason; this one defines it.
