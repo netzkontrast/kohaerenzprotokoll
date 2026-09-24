@@ -228,6 +228,12 @@ RLM probe did run. The current search tool finds no page for the literal
 English queries `bleeding knuckles` or `protocol`; whether translation,
 broader browsing, or a different model fixes this is unmeasured. No result
 supports claiming RLM beats the search baseline.
+The first tool iteration also hid the relevant Kael quotations: `inspect_page`
+returned only its first six verified citations, while the knuckle passages
+are later. `rlm_retrieval.py` now offers `search_quotes(page_id, words)` over
+all verified citations on a page, capped at eight matches. Its selftest
+reproduces the miss and verifies the new tool finds those passages. This is a
+tool-access correction; it has not been re-run against a real model.
 
 **The plural rule exists, and `fold()` has not adopted it.** `fold()` removes
 the article, case, diacritics and punctuation and nothing morphological, and
