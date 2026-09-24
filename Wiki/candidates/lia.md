@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -42,3 +42,7 @@ Its Riss type is shared with Isabelle — „(Flight, Lia/Isabelle)" ^[koharenz-
 
 KW2's spatial Risse: „Spatiale Risse** (Lia/Isabelle-Trigger)" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L236] — shared
 with [[isabelle|Isabelle]], as in the konsolidiertes Konzept.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „Ambivalent" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L237], correlate „Superposition" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L238], somatics „offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L239], arc „→ Superposition verlassen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L240].
