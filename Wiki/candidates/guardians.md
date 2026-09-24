@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-16"
 ---
 
@@ -252,3 +252,9 @@ The two: Mnemosyne, „Erinnerungs-Hüterin" ^[koharenz-protokoll-konzept-konsol
 „Mit der Reduktion auf zwei Guardians sind die KW-Domänen entkoppelt von 1:1-Guardian-Zuweisung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462]
 
 The author decided C6 for five on 2026-09-24; this is a second canon-era source for two, recorded and not applied.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+„2 Guardians (Mnemosyne + Erasure-Pol)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13] — in the filter it names
+for its quarry, the „Steinbruch", where there were five. And „KEIN Guardian-1:1" ^[kapitel-kompendium-gather-2026-05-31-md.md:L158]. A fifth 2026
+statement for two; the author decided five on 2026-09-24.
