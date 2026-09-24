@@ -99,28 +99,17 @@ before opening the source document. This matches the shape of the task itself �
 
 ## Splits and folds
 
-**Stratified, seeded by id, never shuffled.**
-
-```python
-def folds(labelled: list[dict], k: int) -> list[list[dict]]:
-    """Stratified by decision, deterministic by id: the same rows, the same folds."""
-    out: list[list[dict]] = [[] for _ in range(k)]
-    for decision in trainset.DECIDED:
-        group = sorted((r for r in labelled if r["decision"] == decision),
-                       key=lambda r: baseline.digest(r["id"]))
-        for i, r in enumerate(group):
-            out[i % k].append(r)
-    return [f for f in out if f]
-```
-
-(`scripts/pairs.py`). `baseline.digest()` is `sha256(json.dumps(parts,
-sort_keys=True))[:12]` (`scripts/baseline.py`) — a stable hash of the id,
-not a shuffle a person could game by reordering the ledger, and "the same rows,
-the same folds" on every run (`scripts/pairs.py`). Each fold is compiled
-against `program.deepcopy()`, trained on every *other* fold's rows, and scored
-only on its own held-out rows (`scripts/pairs.py`). Grouping by
-`decision` before hashing means a small fold still holds both `one-term` and
-`two-terms` rows, never all of one class.
+**Stratified by decision and grouped by surface pair.** `pairs.py pair_key()`
+sorts the two `wiki_index.fold()` keys so reversed pairs and spelling variants
+have one identity. `folds()` hashes each group key with `baseline.digest()`
+and assigns the entire group to a fold with the fewest rows of that decision;
+a contradictory label within a group raises before any compile. Ledger order
+does not change the partition. Seven pairs repeat among the 66 current model
+rows, and the older row-by-id split exposed ten held-out rows alongside
+their duplicate in training. Each fold is compiled against
+`program.deepcopy()`, trained on every *other* fold's rows, and scored only
+on its held-out rows (`scripts/pairs.py`). Decision-specific row counts guide
+the assignment; the fold need not contain both classes on a small dataset.
 
 **Canaries are pinned to evaluation by being removed from the model pool.**
 `selftest.MUST_NOT_MERGE`'s six pairs — four since the start, and two since
@@ -128,8 +117,9 @@ decision 010 put `Spiel`/`Spieler` and `Logo`/`LogOS` one step past the plural
 rule's reach — are hard-coded in `scripts/selftest.py`. **One also occurs in the
 ledger:** J5 is `Negentropie` / `Entropie`. Previously `pairs.py` trained on J5
 while describing every canary as held out. `model_rows()` now removes every
-exact canary pair, regardless of order, before splitting or training. The
-program is checked on all six after every fold and after the final compile.
+canary pair by its unordered, folded key, including spelling variants, before
+splitting or training. The program is checked on all six after every fold and
+after the final compile.
 `score --rule` still scores the complete ledger, so its denominator differs
 from the model run's. The local dry run reports the model pool size explicitly.
 
@@ -177,8 +167,10 @@ rows that fold never trained on.
 
 ## Difficulty tiers and hard negatives
 
-**The canary set doubles as this repository's hard-negative set** — see
-*Splits and folds*, above; not repeated here (P6).
+**Canaries stay outside training; labelled hard negatives remain inside.**
+The canaries are separately tested after every compile. `labeled_demos()`
+reserves two of eight slots for different-term lookalikes drawn from the
+training fold (see the tiering policy below).
 
 **`fold()`'s own boundary is discovered, not designed.** `trainset.py`'s
 docstring names the three actual misses precisely: `J4`, `Kern-Welten` /
@@ -344,11 +336,11 @@ behaviour, verified above: `valset = trainset[cutoff:]` takes the *last* 80% of
 whatever order the caller handed it, keeping only the first 20% to train on
 (`dspy:teleprompt/mipro_optimizer_v2.py:326`). A dataset that grows by
 appending silently reshapes its own valset. `pairs.py folds()` refuses that
-part: the hash key is the row's own `id`, not its position, so appended
-judgements are dealt across every fold instead of piling into one. It does not
-keep folds stable as the ledger grows. `folds()` deals round-robin over hash
-order, so a new row shifts every row that sorts after it: one appended
-judgement moved 15 of 57 rows to another fold (measured 2026-09-24). Two runs
+part: the hash key is the unordered, folded pair, not its position, so appended
+judgements are dealt across folds instead of piling into one. It does not
+keep folds stable as the ledger grows: the row-count balancing can shift
+existing groups when a new group enters the sorted order. The earlier
+row-by-id version moved 15 of 57 rows on one append (measured 2026-09-24). Two runs
 at different ledger sizes trained on different partitions, which is one more
 reason `baseline.compare` will not compare across a changed trainset hash
 until the floor is re-scored.
@@ -364,7 +356,7 @@ past leakage specifically: an invariant that is re-verified on every run rather
 than asserted once and trusted (`scripts/judgements.py`).
 
 **What this repository's own construction already prevents, by mechanism
-rather than by rule.** Fold membership by id-hash, so a judgement's position in
+rather than by rule.** Fold membership by pair-key hash, so a judgement's position in
 the file never decides its fold; canaries excluded from the labelled pool
 entirely, not merely held out of a split; `pairs.py` reading the ledger live so
 a cached export can never silently diverge from what a judgement replay checks

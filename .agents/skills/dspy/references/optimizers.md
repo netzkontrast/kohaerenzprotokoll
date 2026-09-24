@@ -76,10 +76,11 @@ That is not stylistic — see BootstrapFewShot below for the trap this avoids,
 which `InferRules` inherits and `SIMBA` mostly does not.
 
 **Pinned, stratified folds; canaries never trained on.** `folds(labelled, k)`
-sorts each decision class by `baseline.digest(id)` and deals round-robin into
-`k` buckets (`scripts/pairs.py`), so the same model rows always land in the
-same folds regardless of run order. `model_rows()` excludes the exact canary
-pairs first, including J5, which is present in the judgement ledger. `canaries()`
+groups repeated unordered, spelling-folded pairs and balances decision counts
+across `k` folds (`scripts/pairs.py`), so ledger order does not change the
+partition and no pair occurs in training and holdout. `model_rows()` excludes
+the folded canary pairs first, including J5, which is present in the judgement
+ledger. `canaries()`
 returns `selftest.MUST_NOT_MERGE`; they are asked once per
 compiled program, after every fold and again after the final full compile
 (`scripts/pairs.py`, `canaries()` and the loop after the final compile).
