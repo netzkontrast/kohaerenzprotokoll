@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 3
+sources: 4
 pages: ["kael"]
 ---
 
@@ -48,3 +48,12 @@ Risse in der Stadtgeometrie" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-0
 But the synopsis is not a chapter line. The Kap 1 line itself gives „Sensorik:
 sterile Leere, Ozon, weißes Licht." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962] — no knuckles. So this document
 places the image at the novel's opening without placing it in Kap 1.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**Document 7's side, in the document document 7 ranks highest.** „Kap 1 bleibt
+spurlos" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]; the thread lives in Kap 0 alone, „Knöckel-Eruption, Nyx"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L182]. Document 7's wording — „der Faden lebt in Kap 0 allein
+(Knöchel-Eruption, Nyx), Kap 1 bleibt spurlos"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459] — follows this one closely, with the
+spelling of `Knöchel` corrected.
