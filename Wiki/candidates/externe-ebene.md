@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -93,3 +93,9 @@ Basisrealität Köln" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.
 The other canon-era source writes „Externe Ebene (Köln 2026 — nie Bühne, nur
 Erinnerungsfragment, Telefonton, Geruch)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226]. One referent, two names
 (judgement J54).
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„VI.7 Die Externe Ebene — Köln 2026" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L539]. „Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L540]
+
+Its sub-locations: „Junas Ankerpunkt, Garten der stillen Präsenz, Quelle des Flüsterns, Unkartiertes Territorium." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L546]
