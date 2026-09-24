@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -45,3 +45,7 @@ Appearances and POV share are the document's open question OQ-E (L451).
 
 The mirror [[alters|Alters]] of Akt III-A: „Silas = Coheron-Echo, Oblivion = Erason-Operator"
 ^[kapitel-kompendium-gather-2026-05-31-md.md:L222].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Proposed, not locked: „Silas erstmals POV-fähig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857] in Kap 31 (`[V]`).
