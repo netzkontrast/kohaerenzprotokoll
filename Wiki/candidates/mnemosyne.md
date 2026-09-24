@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 8
+readings: 8
+conflict: C4, C6
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -80,3 +80,60 @@ One location carries her name: `Mnemosynes Gedächtnispalast`, „Strukturierte
 
 This document calls Mnemosyne a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] and never a `Guardian`. See
 [[guardians]].
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**One of two [[guardians|Guardians]] — and the name of a world and a server as well.**
+
+> „zwei Guardians (Mnemosyne + Erasure-Pol)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+It is the first Guardian hit in the climax: „Mnemosyne als erste betroffene
+Guardian" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381].
+
+**The same word names three things in this document**, which it does not relate:
+the Guardian above, the second Kern-Welt — „KW2 Mnemosyne-Archipel" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L220] —
+and the setting of Vortex 1, „Mnemosyne-Server-Architektur (KW2)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370].
+`Mnemosyne-Archipel` and `Mnemosyne-Server-Architektur` are kept as their own
+terms (J28), without pages.
+
+Earlier readings on this page make Mnemosyne one of five [[guardians|Guardians]] paired with a
+world; this one makes it one of two and denies the pairing. See `C6`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The one Guardian who still acts, and the setting of the climax.**
+
+> „Mnemosyne ist die zweite große Stimme jenseits von Kael — und die einzige
+> Guardian-Figur, die im aktuellen Kanon noch eigenständig agiert." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L186]
+
+She administers KW2 and is „das Hardware-Setting des Vortex" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L186]; [[logos|LogOS]] is
+„in Mnemosyne absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51]. Her voice is unlike AEGIS': „Sprache: flüssig,
+metaphernreich, oft poetisch ohne dies zu wissen." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L198] Her offer to Kael:
+„Mnemosyne kann Kael „den Schmerz löschen"." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L202]
+
+This is the first source that makes her the Erinnerungs-Wächterin by title
+(„Mnemosyne (Erinnerungs-Wächterin)", L182) — see `q4-waechter-four-bearers`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Mnemosyne — Erinnerungs-Hüterin." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L216] One of the two Guardians this document keeps.
+
+„Mnemosynes Tragik: sie bewahrt Trauma als Daten, weil sie den emotionalen Kontext nicht erfassen kann" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L216]. „Mnemosyne dominiert klar" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] in KW2, the Mnemosyne-Archipel (L483).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+One of the two [[guardians|Guardians]] it keeps (L13). Her world is the Vortex-1 setting:
+„Setting: Mnemosyne-Server-Architektur (KW2)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L232].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Mnemosyne dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L49]
+Her temptation is placed: „Ihre Versuchung („den Schmerz löschen") ist in KW2 lokal
+verankert." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L205] In KW3: „Mnemosyne fehlt hier weitgehend." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L390] And the
+only Guardian allowed on stage: „Keine Guardians als Figuren** außer Mnemosyne"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L914].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+One of the two: „5 Guardians → 2 (Mnemosyne + Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810] In Vortex 1,
+Beat 4: „Mnemosyne ist die erste Guardian, die betroffen ist." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L598]

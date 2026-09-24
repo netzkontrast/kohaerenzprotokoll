@@ -1,11 +1,11 @@
 ---
 term: AEGIS' four sub-functions
 status: candidate
-sources: 1
-readings: 0
+sources: 2
+readings: 1
 conflict: none
 covers: ["Zero-Trust", "Cognitive Firewall", "Integrity Guardian", "SIS"]
-ingested: ["entropie-aegis"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -47,3 +47,12 @@ Three plausible readings exist and this page picks none: *Security Information
 System*, *System Integrity Service*, *Simulated Identity Substrate*. **All three
 are guesses and are recorded as guesses**, so that a real expansion can be
 recognised when it arrives.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**What Zero-Trust might do, answered as a proposal.** The page's source guessed:
+„Ist Zero-Trust eine Methode, um die Ausbreitung von „entropischen" Fehlern zu
+verhindern?" ^[entropie-aegis.md:L65]. This document, in a background question it labels `[V]`, has AEGIS
+enforce separation between the worlds by „Zero-Trust-Boundary-Protocols"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L702], to stop „Cross-Contamination". A compound, two terms (J66); placed here
+because it states a use of the Zero-Trust function.

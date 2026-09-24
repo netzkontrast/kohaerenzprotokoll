@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -17,7 +17,7 @@ Seven pages ask some form of this, and it has been open since document 1.
 |---|---|
 | Kern-Welten named | **four** — [[konstrukt-stadt|Konstrukt-Stadt]], [[resonanz-landschaft|Resonanz-Landschaft]], [[grenzfeste|Grenzfeste]], [[moeglichkeits-garten|Möglichkeits-Garten]] ^[guardians-und-kern-welten-konzept.md:L35] |
 | whether four is all of them | **not stated by any read source** |
-| alters | the [[alters|Alters]] page records the corpus's largest disagreement |
+| [[alters]] | the [[alters|Alters]] page records the corpus's largest disagreement |
 | the correspondence | raised by document 1, unanswered by three documents since |
 
 The premise that makes it matter is stated: [[kael|Kael]]'s fragmented psyche is
@@ -72,10 +72,68 @@ and with any other number.
 
 ### The correspondence is suggested by arrangement and stated nowhere
 
-One Alter per level, four levels, four Alters — the shape of a one-to-one rule,
+One Alter per level, four levels, four [[alters|Alters]] — the shape of a one-to-one rule,
 written as four examples. The document never says a Kern-Welt corresponds to an
 Alter, and it also names NPCs per level in the same clauses, which a strict
 correspondence would not.
 
 **Q3 therefore splits.** The world count has an answer to check against the next
 source; the alter count and the correspondence are where they were.
+
+## 2026-09-24 — a canon-era document counts the Alters and names them
+
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` gives the number in a heading and closes the list in a table:
+
+> „System Kael (TSDP-Architektur, 13 Alter)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L253]
+
+Thirteen rows follow (L260–L272), and fifteen other names are struck:
+„Dekanonisiert (NIE als aktive Charaktere)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L278]. See [[alters]].
+
+**The world count agrees** — four [[kern-welten|Kern-Welten]], „Plus zwei Ebenen außerhalb der KW"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226], the same six as document 6.
+
+**The correspondence is denied, for [[guardians|Guardians]], and not addressed for [[alters|Alters]].**
+The matrix heading says „KEIN Guardian-1:1" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]; it says nothing of an
+Alter per world, and it assigns each world a mode and an act instead.
+
+So Q3 has a count for both halves from one source each, and the correspondence
+question is still open. Whether the 13 of 2026 supersede the [[alters|Alters]] named in
+2025 is not the wiki's to decide — two of them (`Limina`, `Echo`) are on this
+document's struck list.
+
+## 2026-09-24 — the character bible fixes thirteen as a rule
+
+„13 Alters, exakt. Nicht 11, nicht 14." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1180] Two canon-era sources agree on
+the number and the roster. **The correspondence half is still open**: this
+document assigns each Kern-Welt a mode and each Alter a Riss-Typ, and relates
+none of them one-to-one.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Thirteen Alters again — „V.2 Die 13 Alter (kanonisch)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L352] — and four
+Kern-Welten, „vier verschiedenen Logikregimen (KW1–KW4)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L459].
+
+**The correspondence half gets a negative answer for the worlds and [[guardians|Guardians]],
+not for the [[alters|Alters]].** „Die vier Kernwelten sind Akt-Marker, nicht je ein
+Guardian-Reich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] Worlds are given to sides of the split rather than to
+Alters — KW1 „Domäne der ANP-Vermeidung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L464], KW3 where „die
+EP-Protektoren" dominate ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L501] — and each EP Alter gets a Riss type
+(L551–L568). No world is one Alter's.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**The count had a history**: its quarry had „20 Kernwelten" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13], and the
+filter made them „4 KW als Akt-Marker" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. No Alter count here.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**No world is an Alter's, and no world is a meaning.** „Manifestation von Kaels
+innerer Welt." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L57] — all four, as filters: „Die Welten sind Filter, nicht
+Orte." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L955] And explicitly against a one-to-one reading: „Keine
+Welt-Allegorie." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L922] Alters are placed by trigger (L236, L448) and by
+dominance (L301), never one per world.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„20 Kernwelten → 4 (KW1–KW4 als Akt-Marker)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L809], and thirteen Alters in the
+table (L184). No correspondence stated.

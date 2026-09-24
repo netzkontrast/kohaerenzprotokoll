@@ -57,6 +57,11 @@ echo "<a short German instruction about doc 6>" | \
 python3 scripts/route.py ledger                    # cost $0.000000, 0 charged
 ```
 
+Then, with the proxy running, one request carrying `tools` and a forced
+`tool_choice` — the shape grawiki and Hyper-Extract send. If no free model in the
+rotation answers it with a `tool_calls` message, those two testers will be
+**not reached**, and that is known before they start rather than after.
+
 ## Step 2 — one scorer for every tool
 
 Add `score <slug> --names <file.json>` to `scripts/entities.py`: the names file has
@@ -105,13 +110,20 @@ to `Plan/concept/tool-review_<date>/<tool>.md`.
 | 7 | Notion MCP + Notion skills | read-only; no corpus text; the skills judged on paper against how `NOW.md` and the decisions are kept |
 | 8 | install.sh + session hook | `--check`, one component's reinstall timed; review only |
 
-Configuration already confirmed: Hyper-Extract takes any OpenAI-compatible
-endpoint through its vLLM provider — `he config llm -p vllm -u
-http://127.0.0.1:8787/v1 -k route:hyperextract:<doc> -m <any>`, and the same for
-`he config embedder` — and writes `~/.he/config.toml`, which then holds no real
-key. graphify parses code with tree-sitter and no model; whether its `openai`
-backend honours a base URL is unconfirmed. `cgr index` and `cgr check` need no
-model. grawiki uses pydantic-ai, whose OpenAI provider takes a `base_url`.
+**What each tool needs, read from the installed code on 2026-09-24** — by one
+reader, with file and line for every fact; what it could not confirm is marked.
+The proxy passes `tools` and `tool_choice` through; **whether a free model honours
+a forced tool call is unmeasured**, and grawiki and Hyper-Extract both force one —
+so Step 1 sends one such call before any tester starts.
+
+| tool | point it at the proxy | known blocker, and what to do |
+|---|---|---|
+| grawiki | `OPENAI_BASE_URL=http://127.0.0.1:8787/v1`, `OPENAI_API_KEY=route:grawiki:<slug>` — no constructor argument takes them; chat model written `openai/<name>` (slash — the docs' colon form fails), embeddings `openai:<name>` | the default sentence chunker needs no embedding model; that FalkorDBLite's bundled server starts in this container is **unconfirmed** |
+| Hyper-Extract | `he config llm -p openai -u <proxy> -k route:hyperextract:<slug> -m free` and the same for `embedder`; `vllm` works too | **every `he parse` loads tiktoken's `cl100k_base`, even with `--no-index`**, and would download it: set `TIKTOKEN_CACHE_DIR` to `.venv-dspytools/lib/python3.12/site-packages/litellm/litellm_core_utils/tokenizers`, whose copy matches tiktoken's hash. Never name a model `gpt-5.6-sol`, `*-pro`, `*codex*` or `gpt-6*`: langchain then calls `/v1/responses`, which the proxy does not serve. Expect many calls per document — 2048-character chunks, separate node and edge calls |
+| graphify | `OPENAI_BASE_URL`, `OPENAI_API_KEY=route:graphify:<slug>`, `--backend openai --model free` | needed its `openai` extra — **fixed in `install.sh`** (the component now checks the import). Markdown always takes the model pass; `graphify extract <dir> --code-only` is the no-model mode for `scripts/` |
+| cgr | `ORCHESTRATOR_PROVIDER=litellm_proxy`, `…_ENDPOINT=<proxy>`, `…_API_KEY=route:cgr:-`; the same for `CYPHER_*` | **cannot read markdown at all** — code only. `cgr index` and `verify-index` need no model and no database; `check`, `export` and `start` need Memgraph on :7687 — not reached unless docker runs it. Its startup probe `GET /health` is **served by the proxy since this plan** |
+| semantica | no model: `semantica.kg.GraphBuilder`, `semantica.provenance.ProvenanceManager`, `semantica.deduplication.DuplicateDetector`, `semantica.conflicts.ConflictDetector` | **conflict detection is never mechanised and surfaces are never merged by a model here** (`CLAUDE.md`): `ConflictDetector` and `EntityMerger` may only be measured — what they would flag — never let into the record. `GraphBuilderWithProvenance` stamps every entity `graph_construction`, not the document: use `ProvenanceManager` |
+| OpenCode + oh-my-openagent | a `provider.route` block (`@ai-sdk/openai-compatible`, `baseURL` = proxy) via `OPENCODE_CONFIG_CONTENT`; `opencode run -m route/free` | **with the plugin loaded, calls can leave the proxy**: after a model error it falls back to the real models in `~/.omo/omo.jsonc`, sisyphus's subagents use theirs, and it contacts npm and models.dev itself. So the task stays non-corpus, and a second run with `OPENCODE_PURE=1` separates the harness from the plugin |
 
 **Tester output** (schema): `tool`, `reached` (yes / partial / no), `runs`
 (document, command, outcome, seconds), `scores` (document, gold, model, shared,

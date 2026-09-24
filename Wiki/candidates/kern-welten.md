@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 4
-readings: 3
-conflict: none
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 10
+readings: 9
+conflict: C6, C9
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -115,8 +115,8 @@ Document 4 gives five [[guardians|Guardians]] and four worlds by name, with [[lo
 with [[guardians|Guardians]] and no world names. **Neither document contains both halves.**
 
 If `LogOS` here is [[logos]] there — which `fold()` decides mechanically, and which
-nothing has contradicted — then `KW1` is `konstrukt-stadt` and `KW3` is
-`grenzfeste`. **That sentence is this page's inference, attributed to no source**,
+nothing has contradicted — then `KW1` is [[konstrukt-stadt]] and `KW3` is
+[[grenzfeste]]. **That sentence is this page's inference, attributed to no source**,
 and it is written down so that the next document can confirm or break it rather
 than so that anything may rely on it now.
 
@@ -155,9 +155,9 @@ with document 4's Guardian↔world names, the join reads:
 
 | number | Guardian | world name, from document 4 |
 |---|---|---|
-| KW1 | LogOS | `konstrukt-stadt` |
+| KW1 | [[logos|LogOS]] | [[konstrukt-stadt]] |
 | KW2 | [[mnemosyne|Mnemosyne]] | [[resonanz-landschaft]] |
-| KW3 | Cerberus | `grenzfeste` |
+| KW3 | [[cerberus|Cerberus]] | [[grenzfeste]] |
 | KW4 | [[kairos|Kairos]]/[[sophia|Sophia]] | [[moeglichkeits-garten]] |
 
 **That table is still this page's inference and not any document's claim.** Two
@@ -202,3 +202,101 @@ that is unknown.
 Whether one Kern-Welt corresponds to one alter is **not** settled. Each level is
 „Assoziiert mit Alters wie Limina" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172] and three like it — *wie*, not *und*,
 so the roster is open at every level. See `q3-how-many-kern-welten-and-alters`.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Four, each with two names, and „KEINE Geographie"** ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214].
+
+> „Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]
+
+| KW | name(s) | mode / domain | style | act |
+|---|---|---|---|---|
+| KW1 | „Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219] | Rationalisierung, ANP-Vermeidung | P, Stilebene 1 | Akt I |
+| KW2 | „Mnemosyne-Archipel" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L220] | Trauma-Erinnerung, EP-Domäne | parakonsistent, Stilebene 2 | Akt II Mitte, Vortex 1 |
+| KW3 | „Cerberus-Labyrinth / Überwelt-Nexus" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L221] | Hypervigilanz, Verteidigung | NP-hart, Stilebene 2+ | Akt II/III |
+| KW4 | „Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L222] | Integration; lebende Widersprüche; Vortex-Quelle | generativ, Stilebene 3 | Akt III |
+
+**And two levels outside them:** „Plus zwei Ebenen außerhalb der KW: Überwelt
+(AEGIS' Operationsraum) · Externe Ebene (Köln 2026 — nie Bühne, nur
+Erinnerungsfragment, Telefonton, Geruch)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226]. Four plus two — the same
+six the frame [[realitaetsebenen]] holds, though this document never uses that word.
+
+**Where it differs from earlier readings on this page.** KW2 and KW3 carry
+different names here than the worlds `guardians-und-kern-welten-konzept` paired
+with [[mnemosyne|Mnemosyne]] and [[cerberus|Cerberus]] (`Resonanz-Landschaft`, `Grenzfeste`), and the
+bearers' names have become parts of the world names while the pairing itself is
+denied. Recorded in conflict `C6`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**Four, named as the other canon-era source names them, with one exception.**
+
+| KW | name | Guardian column | line |
+|---|---|---|--:|
+| KW1 | „KW1 — Logos-Prime" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51] | „(LogOS, in Mnemosyne absorbiert)" | 51 |
+| KW2 | „KW2 — Mnemosyne-Archipel" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L52] | Mnemosyne | 52 |
+| KW3 | „KW3 — Cerberus-Labyrinth" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L53] | „(Cerberus, in Erasure-Pol absorbiert)" | 53 |
+| KW4 | „KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54] | „(Kairos/Sophia, latent)" | 54 |
+
+The exception is what contains them: „der Konstrukt-Stadt, gesteuert von AEGIS —
+die in vier Kernwelten unterteilt ist" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L44]. See `C9`.
+
+## Decided by the author, 2026-09-24 — the Konstrukt-Stadt is KW1
+
+„Ne stop - es ist nur kw1" (conflict `C9`, corrected the same day after a first
+answer recorded it as the whole simulation). The [[konstrukt-stadt|Konstrukt-Stadt]] is **KW1**, one
+of the four Kern-Welten. The Charakter-Bibel's reading of it as the whole
+simulation stays above as what that document said.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] Four logic regimes, „die psychologische Landschaften sind" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L459].
+
+Each heading carries both generations of names:
+
+- „VI.2 KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L463] — consistent with the author's C9 decision
+- „VI.3 KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L483]
+- „VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L500]
+- „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517] — with the Möglichkeits-Garten a sub-location inside it (L530); conflict C5
+
+„KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] The four ascend in complexity class (L572–L573).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**Twenty became four.** The filter it names: „20 Kernwelten / 5 Guardians /
+41-mit-Reset → **4 KW als Akt-Marker**" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. And the matrix heading:
+„Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L158].
+
+Names: KW1 „Konstrukt-Stadt (Logos-Prime)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L163], KW2 „Mnemosyne-Archipel" ^[kapitel-kompendium-gather-2026-05-31-md.md:L164], KW3 „Cerberus-Labyrinth / Überwelt-Nexus" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165], KW4
+„Resonanz-Kontinuum / Möglichkeits-Garten" ^[kapitel-kompendium-gather-2026-05-31-md.md:L166] — the same KW4 name as
+document 7, a world and not a place in one. „Plus zwei Ebenen außerhalb der KW"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L170]: the Überwelt and the Externe Ebene.
+
+**KW3's second name is the [[ueberwelt|Überwelt]]'s**, glossed „Maschinenraum hinter dem
+Rendering" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165], while L170 puts the Überwelt outside the worlds. The document
+does not relate the two (J63).
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Eine Realität mit vier Logikregimen." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L45] „Akt-Marker, nicht Guardian-Reiche."
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L49] And what they are made of: „Manifestation von Kaels innerer Welt." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L57]
+— „Die Welten sind Filter, nicht Orte." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L955]
+
+Names: KW1 „Konstrukt-Stadt / Logos-Prime" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L23], KW2 „Mnemosyne-Archipel" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L24],
+KW3 „Cerberus-Labyrinth" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L25], KW4 „KW4 — Kairos-Potentialis / Möglichkeits-Garten
+/ Resonanz-Kontinuum" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L26]. The old names stay „mythologisch-strukturell, nicht
+personell" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61].
+
+KW3 has no second name here and no [[nexus|Nexus]]; the [[nexus|Nexus]] sits between KW4 and the
+[[externe-ebene|Externe Ebene]] (L462). The tension document 10 carried (J63) is not in this one.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Wichtig: Die Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L401]
+The quarry filter: „20 Kernwelten → 4 (KW1–KW4 als Akt-Marker)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L809] Names:
+KW1 „Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L404], „KW3 — Cerberus-Labyrinth /
+Überwelt-Nexus." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L410], „KW4 — Resonanz-Kontinuum / Kairos-Potentialis /
+Möglichkeits-Garten." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L413]
+
+**KW3's second name is back**: „Überwelt-Nexus", as in the Kapitel-Kompendium and
+unlike „Kernwelten vollständig" of the same date (J63).

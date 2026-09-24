@@ -1,0 +1,341 @@
+---
+written_by: hand, while reading (Claude, in session)
+document: kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md
+---
+
+# Candidates — written while reading
+
+- Begriffs- und Konzept-Companion
+- Storyform-Dokument
+- Provenienz-Konvention
+- Dual-Kernel-Theorie
+- DKT
+- Kohärenz-Kernel
+- K₁
+- Kollaps-Kernel
+- K₀
+- PAL
+- Page-Wootters
+- Egan-Rigor
+- Coheronen
+- Coheron
+- Atom der Persistenz
+- Erason
+- Erasonen
+- Zeitpfeil
+- Erasure-Sweeps
+- Erasure-Logs
+- Mutuale Information
+- MI
+- Atemporalität
+- Moonshine-Link
+- Silas
+- Erasure
+- Landauer-Prinzip
+- Hitze-Polaritätsregel
+- kaltes Ozon
+- Konstrukt-Stadt
+- 21°C
+- Persistenzgleichung
+- η
+- Reversibilitätskoeffizient
+- Pufferkapazität
+- Bekenstein-Schranke
+- Holographisches Prinzip
+- KW3
+- PAL-Konstruktion
+- Chaitin-Konstante
+- Ω
+- Juna
+- Nichts-Rauschen
+- Liebe als Naturgesetz
+- Drei ontologische Schichten
+- K₁-Reinform
+- Śūnyatā
+- K₀-Existenz
+- Zeit-Prinzip
+- kosmologische Konstante
+- Große Inversion
+- Truth-Rotation
+- Vortex 1
+- Suppression-Versagen
+- Formel-Inversion
+- Wir-AEGIS
+- Ende-Prinzip
+- Tonale Achse
+- Korrelat-Achse
+- ANP/EP-Achse
+- Oblivion
+- AEGIS
+- Erason-Operator
+- Erason-Architektur
+- Identitäts-Architektur
+- Trennungsprotokoll
+- Bewahrung-Funktion
+- Kael
+- Vor-Trennungs-Erinnerung
+- Alters
+- ontologische Anomalie
+- Tragische Unschuldsstruktur
+- Genesis-4-Beat-Sequenz
+- Einheit
+- Ursprungs-Ich
+- Potentialmeer
+- Cluster
+- Funktionalisierung
+- Qualia
+- Systemfehler
+- Selbstamputat
+- Komponente 734
+- Wir-AEGIS-plural
+- Kap 0
+- Vortex 2
+- Schicht 1
+- Ursprungs-Ich (Juna)
+- TSDP
+- Tertiäre Strukturelle Dissoziation der Persönlichkeit
+- DID
+- Crew-Menü
+- ANP
+- EP
+- IFS
+- Amnesie-Terror
+- Apparently Normal Part
+- Emotional Part
+- Lex
+- Alex
+- Rhys
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Argus
+- ISH
+- Internal Self Helper
+- ANP/EP-Phobie
+- Phantom-Resonanz
+- Telefon-Stille
+- Doppeltes Trauma
+- Basisrealität Köln
+- Fragmentierungsnacht
+- KW2
+- DKT-Korrelat
+- Spiegel-Alter
+- Juna-Echo
+- AEGIS-Echo
+- OQ-E
+- Funktionale Multiplizität
+- Strange-Attractor-Form
+- Wir-Geflecht
+- Mosaik-AEGIS
+- Plurale Kohärenz
+- OQ-A
+- Sisyphos-Falle
+- Multiplizitäts-Schleier
+- Glitches
+- Stilcode-Einbrüche
+- Dekanonisierte Alter
+- Index
+- Nox
+- Echo
+- Flicker
+- Limina
+- Praetor
+- Eos
+- Elara
+- Aris
+- Mina
+- Lyra
+- Soren
+- Tariq
+- Nova
+- Sentinel
+- Steinbruch
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Luhmann
+- Abwehrarchitektur
+- Zwei Guardians
+- Guardians
+- Mnemosyne
+- Erinnerungs-Hüterin
+- Mnemosyne-Archipel
+- Erasure-Pol
+- Löschungs-Exekutive
+- Cerberus
+- LogOS
+- Kairos
+- Drei Protokolle
+- Suppressionsprotokoll
+- Kohärenzprotokoll
+- Re-Containment-Protokoll
+- AEGIS-Log-Format
+- Algorithmische Melancholie
+- Lebende Reliquie
+- Gödel-Gambit
+- Phoenix Collapse
+- Gödel-Aussage
+- Witness-Funktion
+- Grammatik-Regel
+- Deus ex Machina
+- Junas Erscheinungsmodi
+- Abwesenheits-Phase
+- Präsenz-Phase
+- Stille-Beat
+- Quanten-Verschränkungs-Witness
+- Cryptographic Zero-Knowledge Verifier
+- Husserlian Spectator
+- Monstrous Moonshine
+- Leech-Lattice
+- Vertex Operator Algebra
+- Z₂-Orbifold
+- Doppel-IC-Funktion
+- Klein-c-Symmetrie
+- Compassion Fatigue
+- Juna-Seed
+- Kernwelten
+- Logikregime
+- Überwelt
+- Externe Ebene
+- Akt-Marker
+- KW1
+- Logos-Prime
+- Kants Phaenomena
+- Computational Class
+- Stilebene
+- Parakonsistent
+- Tarski-Hierarchie
+- Cerberus-Labyrinth
+- Überwelt-Nexus
+- EP-Protektoren
+- NP-hart
+- KW4
+- Resonanz-Kontinuum
+- Kairos-Potentialis
+- Möglichkeits-Garten
+- Maschinenraum hinter dem Rendering
+- Verschränkungs-Insel
+- Köln 2026
+- Substrat-Durchbruch
+- Risse
+- Heat Spike
+- Dramatica
+- Throughline
+- MC
+- IC
+- OS
+- RS
+- Class
+- Domain
+- Diagonal-Rule
+- Concern
+- Dynamic Pair
+- MC Resolve
+- MC Growth
+- MC Approach
+- Be-er
+- Do-er
+- MC Problem-Solving Style
+- Mental Sex
+- Story Driver
+- Story Limit
+- Story Outcome
+- Story Judgment
+- Signpost
+- Archetypen
+- Crucial Element
+- Dual-Storyform
+- Heuristics of Integration
+- Klein-c-Inversion
+- Klein-Vierer-Gruppe
+- Per-Chapter-Dual-POV
+- Hard-Routing
+- Soft-Layering
+- Bridge-Frequenz
+- Slot 16
+- Zwei Uhren
+- Synthese (c)
+- Drei narrative Modi
+- Heldinnenreise innen
+- Zyklischer Modus
+- Heldenreise außen
+- Genesis-Prolog
+- Geheilte Genesis
+- Modus-Wechsel
+- Heldinnenreise
+- Murdock/Schmidt
+- Kishōtenketsu
+- Stadien-Systeme
+- 13 Meta-Stadien
+- Doppel-Vortex
+- Trügerischer Sieg
+- Convergence
+- Mnemosyne-Server-Architektur
+- Pivot
+- Dialetheic Choice
+- The Silence
+- Rotation
+- Lebende Dialetheia
+- Dialetheismus
+- Gärtner
+- Plurale Apotheose
+- Genesis-Klammer
+- Ouroboros-Klammer
+- Erstsatz-Lock
+- Doppellesbares Finale
+- Reset
+- Transfiguration
+- Naht zu Kap 1
+- Blutungs-Faden
+- Knöchel
+- Knöchel-Eruption
+- OQ-Knöchel
+- Fünf Genesis-Motive
+- Genesis-Echo-Disziplin
+- Foreshadowing-Programm
+- Lesersteuerung
+- Iser'sche Leerstellen
+- Reader-as-Substrate
+- Polyphonie
+- Somatischer Filter
+- Stilebenen
+- Vier-Ebenen-Schreibmodus
+- Genre-Modus
+- Kant
+- Autopoiesis
+- Gödels Unvollständigkeit
+- Halteproblem
+- Metzinger
+- Husserl
+- Heidegger
+- aletheia
+- Wahrheitstheorien-Achse
+- Kohärenztheorie
+- Korrespondenztheorie
+- Wheeler
+- NCP
+- Storypoint
+- Storybeat
+- Moment
+- Dynamics
+- Phasen-Architektur
+- OQs
+- Provenienz-Marker
+- 12 Protokolle
+- Quellen-Hierarchie
+- Kapitel-Kompendium
+- Entscheidungs-Logs
+- Konsolidiertes Konzept
+- Storyweaving-Startdokument
+- Phoenix-Mode
+- Working Principles
+- Story-First
+
+## Observations
+
+* L2: „Dieses File ist erläuternd, nicht normativ. Bei Konflikt gewinnt das
+  Storyform-Dokument." And L817 states a source hierarchy, newer wins.
+* L143–L149: four Genesis beats, with Komponente 734 made in beat 3.
+* L410: „KW3 — Cerberus-Labyrinth / Überwelt-Nexus" again.
+* L804–L814: the quarry filter, including „12 Protokolle → 3".

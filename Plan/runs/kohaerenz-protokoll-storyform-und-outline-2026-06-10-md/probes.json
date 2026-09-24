@@ -1,0 +1,243 @@
+{
+  "document": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+  "drive_id": "1eQH_wJzbKGe7cDsaCdLODT9R-9fLsIYU9sD-L7BXDfs",
+  "step": "probes",
+  "at": "2026-09-24",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 57,
+  "backslash_escapes": 419,
+  "typographic_marks": 251,
+  "ascii_quotes": 45,
+  "inflection_families": {
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storypoint",
+      "Storypoints",
+      "Storyweaving"
+    ],
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemischer",
+      "Systemlog",
+      "Systemlüge",
+      "Systemverwerfungen",
+      "Systemänderung"
+    ],
+    "doppe": [
+      "Doppeldeutigkeit",
+      "Doppellesbar",
+      "Doppellesbares",
+      "Doppelstruktur",
+      "Doppeltes"
+    ],
+    "wiede": [
+      "Wieder",
+      "Wiederbegegnung",
+      "Wiedergeburt",
+      "Wiederholung",
+      "Wiederkehr"
+    ],
+    "erzäh": [
+      "Erzähl",
+      "Erzähler",
+      "Erzählform",
+      "Erzählhaltung"
+    ],
+    "fragm": [
+      "Fragmentation",
+      "Fragmente",
+      "Fragmentierung",
+      "Fragmentierungsnacht"
+    ],
+    "grund": [
+      "Grund",
+      "Grundentscheidung",
+      "Grundlage",
+      "Grundlegung"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitels",
+      "Kapiteltitel",
+      "Kapitelzeilen"
+    ],
+    "nicht": [
+      "NICHT",
+      "Nicht",
+      "Nichtlokalität",
+      "Nichts"
+    ],
+    "opera": [
+      "Operationsraum",
+      "Operative",
+      "Operativität",
+      "Operator"
+    ],
+    "schwe": [
+      "Schweben",
+      "Schwelle",
+      "Schwellen",
+      "Schwellwert"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationsgrenze",
+      "Simulationsgrenzen",
+      "Simultanklang"
+    ],
+    "trenn": [
+      "Trennung",
+      "Trennungs",
+      "Trennungsprotokoll",
+      "Trennungsprotokolls"
+    ],
+    "unter": [
+      "Unterdrückung",
+      "Unterdrückungs",
+      "Unterstützung",
+      "Unterton"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektur",
+      "Archiv"
+    ],
+    "bewah": [
+      "Bewahrung",
+      "Bewahrungs",
+      "Bewahrungsform"
+    ],
+    "daten": [
+      "Daten",
+      "Datenknoten",
+      "Datenlast"
+    ],
+    "draft": [
+      "Draft",
+      "Drafting",
+      "Drafts"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungs",
+      "Entschluss"
+    ],
+    "ersch": [
+      "Erscheinung",
+      "Erscheinungsmodi",
+      "Erschöpfung"
+    ],
+    "eskal": [
+      "Eskalation",
+      "Eskalations",
+      "Eskalierende"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionen"
+    ],
+    "hitze": [
+      "Hitze",
+      "Hitzen",
+      "Hitzeschlieren"
+    ],
+    "inter": [
+      "Interesse",
+      "Interface",
+      "Intervention"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Sein",
+      "Dasein"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Herz",
+      "Herzschlag"
+    ],
+    [
+      "Kant",
+      "Kanten"
+    ],
+    [
+      "Slot",
+      "Slots"
+    ],
+    [
+      "Akte",
+      "Exakte"
+    ],
+    [
+      "Akte",
+      "Kontakte"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Akte",
+      "Charakterwechsel"
+    ],
+    [
+      "Alle",
+      "ALLE"
+    ],
+    [
+      "Alle",
+      "Allegorie"
+    ],
+    [
+      "Zwei",
+      "Zweit"
+    ],
+    [
+      "Zwei",
+      "Zweifel"
+    ],
+    [
+      "Stil",
+      "Stille"
+    ],
+    [
+      "Stil",
+      "Stilcode"
+    ],
+    [
+      "Stil",
+      "Stilkanon"
+    ],
+    [
+      "Stil",
+      "Stilebene"
+    ],
+    [
+      "Meta",
+      "Metaphernverbot"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Ende",
+      "Endes"
+    ]
+  ]
+}

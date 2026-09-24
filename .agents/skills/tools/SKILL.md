@@ -205,7 +205,7 @@ hand today, and **only the ones marked ✓ exist**.
 | `ingest <slug>` | phase 2, with its three refusals | **to build** — `capture.py` holds two of the three |
 | `reconcile <slug>` | phase 3 | ✓ `reconcile.py` does the pre-classification; the rest is by hand |
 | `account <subject>` | the recursive verb over `document`, `term`, `pair`, `corpus`, `order` | ✓ `account.py` |
-| `ask <question>` | a cited answer from the wiki, `path:line` behind every claim | **to build** — the process diagram ends here and nothing implements it |
+| `ask <question>` | attributed evidence from the wiki, `doc:line` behind every quotation | ✓ retrieval: `graphrag.py ask`. It returns quotations, never prose; `--answer` lets a model pick evidence numbers, needs `--approval` |
 | `promote <term>` | a person's review, candidate → `Wiki/terms/` | **to build**, and it is a person's gate, not a command that decides |
 
 **Write no command for a step that has not been done by hand twice.** The
@@ -220,8 +220,10 @@ ledger specified in three places whose directory does not exist.
 - **Phase 1 is not automated at all.** A person reads the question pages and
   writes the qmd query. This is the step where the loop currently needs a human
   to turn the crank.
-- **`ask` does not exist**, so the wiki cannot yet answer a question with
-  citations — which is what it is for.
+- **`ask` retrieves but does not answer.** `graphrag.py ask` returns verified
+  quotations from the graph; turning them into prose would merge sources, which
+  a page may not do either. Whether an answer ever becomes more than chosen
+  quotations is the author's call.
 - **`promote` does not exist**, and `Wiki/terms/` therefore does not exist:
   nothing has been promoted, and there is no rule yet for what happens when a new
   source contradicts a page a person signed off.

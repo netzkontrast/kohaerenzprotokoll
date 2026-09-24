@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-23",
+  "generated": "2026-09-24",
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 6,
+      "value": 13,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 6,
+      "value": 13,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 6,
+      "value": 13,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -30,6 +30,34 @@
       "value": 317,
       "how": "entity rows whose cited file line contains the entity"
     },
+    "graph.edges": {
+      "value": 1161,
+      "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
+    },
+    "graph.evidence": {
+      "value": 1219,
+      "how": "quotations on term pages, the unit scripts/graphrag.py serves"
+    },
+    "graph.evidence_verified": {
+      "value": 1104,
+      "how": "of those, verified against their line by quotes.verdict"
+    },
+    "graph.nodes": {
+      "value": 122,
+      "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
+    },
+    "graphrag.cases": {
+      "value": 17,
+      "how": "retrieval cases the wiki labels itself: questions and conflicts"
+    },
+    "graphrag.recall_ppr": {
+      "value": 64,
+      "how": "graphrag bench mean recall@8 in whole percent, personalized PageRank"
+    },
+    "graphrag.recall_seeds": {
+      "value": 42,
+      "how": "graphrag bench mean recall@8 in whole percent, seeds alone \u2014 the floor"
+    },
     "judgements.disagree": {
       "value": 0,
       "how": "judgements where code now contradicts the record"
@@ -39,19 +67,39 @@
       "how": "judgements a rule now claims and still agrees with"
     },
     "judgements.total": {
-      "value": 45,
+      "value": 68,
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
       "value": true,
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
+    "pairs.fold_correct": {
+      "value": 33,
+      "how": "of those, decided correctly by fold() \u2014 the floor"
+    },
+    "pairs.labelled": {
+      "value": 57,
+      "how": "labelled one-term-or-two pairs derived from the judgement ledger"
+    },
+    "proposals.entities": {
+      "value": 226,
+      "how": "entities from entity lists that verify as readings, graph.proposals()"
+    },
+    "proposals.entities_paged": {
+      "value": 28,
+      "how": "of those, entities whose fold is a wiki page surface"
+    },
+    "proposals.glosses": {
+      "value": 182,
+      "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
+    },
     "quotes.checked": {
-      "value": 572,
+      "value": 1859,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 203,
+      "value": 489,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -62,16 +110,24 @@
       "value": 4,
       "how": "modules in scripts/rules/ satisfying the contract"
     },
+    "sources.canon_era": {
+      "value": 33,
+      "how": "manifest rows with an index_date from 2026-05-01 on \u2014 the canon-era documents"
+    },
+    "sources.canon_era_landed": {
+      "value": 33,
+      "how": "of those, rows landed in Sources/drive/"
+    },
     "sources.distinct": {
-      "value": 346,
+      "value": 371,
       "how": "landed files minus near-copies, scripts/duplicates.py at 0.8"
     },
     "sources.folded": {
-      "value": 63,
+      "value": 67,
       "how": "rows in Sources/duplicates.jsonl \u2014 fetched, then found to be a copy"
     },
     "sources.landed": {
-      "value": 346,
+      "value": 371,
       "how": "manifest rows carrying an export_path \u2014 the files on disk"
     },
     "sources.near_copies": {
@@ -79,7 +135,7 @@
       "how": "landed files that are a near-copy of another"
     },
     "sources.total": {
-      "value": 617,
+      "value": 613,
       "how": "rows in Sources/manifest.jsonl"
     },
     "trainset.fold_baseline_pct": {
@@ -91,35 +147,35 @@
       "how": "candidate lists written while reading, not reconstructed"
     },
     "trainset.surface_pairs": {
-      "value": 36,
+      "value": 57,
       "how": "labelled one-term/two-terms examples in the ledger"
     },
     "wiki.conflicts": {
-      "value": 5,
+      "value": 12,
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
-      "value": 114,
+      "value": 125,
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 17,
+      "value": 27,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
-      "value": 56,
+      "value": 92,
       "how": "pages counted by the derived Wiki/index.json"
     },
     "wiki.questions": {
-      "value": 4,
+      "value": 5,
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 207,
+      "value": 329,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 73,
+      "value": 145,
       "how": "a page's term written in another page's prose without being marked a link"
     }
   }

@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 4
+sources: 6
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -28,26 +28,26 @@ external connection — attached to different entities.
 
 ## Why this is a conflict and not two facts
 
-Because the two cannot both be the whole account. If the Guardians are parts of
-AEGIS, then AEGIS' single categorical blindness and the Guardians' five distinct
+Because the two cannot both be the whole account. If the [[guardians|Guardians]] are parts of
+[[aegis|AEGIS]], then [[aegis|AEGIS]]' single categorical blindness and the [[guardians|Guardians]]' five distinct
 blindnesses are descriptions of one system at two scales, and the interesting
-claim is that they compose. If the Guardians are separate, the corpus has two
+claim is that they compose. If the [[guardians|Guardians]] are separate, the corpus has two
 systems with the same design flaw and no stated relation.
 
 **And neither document mentions the other's bearer.** `AEGIS` occurs **zero
 times** in `guardians-und-kern-welten-konzept` — in 5,839 words about the system
-that AEGIS, elsewhere, is said to run.
+that [[aegis|AEGIS]], elsewhere, is said to run.
 
 ## What the read sample says
 
 Document 1 is the only read source that puts them in one sentence, and it makes
-the Guardians AEGIS' instruments:
+the [[guardians|Guardians]] [[aegis|AEGIS]]' instruments:
 
 > „Dies prägt auch das Handeln der Guardians als spezialisierte Agenten dieses
 > Entropie-Managements." ^[entropie-aegis.md:L93]
 
 That is suggestive and it is one dependent clause. It does not say whether a
-Guardian is a component of AEGIS, a peer, or an earlier design.
+Guardian is a component of [[aegis|AEGIS]], a peer, or an earlier design.
 
 ## The corpus is not silent — and that is a finding about the process
 
@@ -109,7 +109,7 @@ of a chapter whose entire subject is that it is not settled.** Chapter 20:
 
 It was recorded as **two documents that do not know about each other**. With a
 third read, it is better described as **a question the corpus is deliberately
-holding open**: this document places the Guardians inside AEGIS in every sentence
+holding open**: this document places the [[guardians|Guardians]] inside [[aegis|AEGIS]] in every sentence
 where it has to phrase the relation at all, and then builds a chapter out of
 asking whether that is all they are.
 
@@ -166,3 +166,16 @@ narrower and no closer to closing.**
 
 Document 6 never writes `Guardian`. Everything above says `Wächter`, and whether
 those are one term is `q4-waechter-four-bearers`, not this record.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position 1's bearer: AEGIS' blindness, stated as places and timing, not as the
+[[guardians|Guardians]]'. The [[externe-ebene|Externe Ebene]] holds „das, was AEGIS nicht erfassen kann;
+konzeptueller Ort" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L667], and AEGIS registers transitions late because
+„Coheron-Übergänge sind atemporal" (L736). The Guardians get no blind spot here.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+AEGIS' blindness, as a law: „AEGIS ist strukturell blind für sie." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L49] — for
+what is atemporal. And why: autopoiesis, „Das erklärt, warum es Juna semantisch
+nicht erfassen kann" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L729]. The Guardians get no blind spot.

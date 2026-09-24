@@ -4,7 +4,7 @@ subject: AEGIS
 kind: expansion of an acronym
 status: open
 first_seen: "2026-09-16"
-sources: 2
+sources: 4
 pages: ["aegis"]
 ---
 
@@ -60,3 +60,23 @@ step proposes; it never resolves.
 
 - Is position 2 a third thing, or position 3 under a technical description?
 - Does any source use `Entropic Gatekeeper` and a substrate reading together?
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**Position 1's expansion, in a canon-era source**, and nothing said about the
+others:
+
+> „AEGIS — Autonomous Entropic Gatekeeper for Integrity Systems — ist kein
+> Schurke." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L202]
+
+It does not state which expansion it supersedes, so it is not what *What would
+resolve this* asks for. But it bears on the second open question — the gatekeeper
+and something like a substrate in one source: „AEGIS ist Kaels eigene
+Abwehrarchitektur, die zur Welt geworden ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208] A defence that *became*
+the world is not the substrate reality emerges from in position 3; whether it is
+close enough is a reading for the author.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+Position 1 again, as an entry heading: „AEGIS — Autonomous Entropic Gatekeeper for
+Integrity Systems." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299] No other expansion; nothing on which it supersedes.

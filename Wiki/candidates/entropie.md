@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 4
-readings: 4
+sources: 10
+readings: 10
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -132,3 +132,45 @@ profile field name the document repeats seventeen times —
 
 `Negentropie` does not occur. Neither does any account of where entropy comes
 from, what raises it, or what the numbers on the monitor are measured in.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Entropie is K₀, and it is [[aegis|AEGIS]]' own nature, unknown to [[aegis|AEGIS]].**
+
+> „AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
+
+The document calls this „Die große Inversion" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25] and the mechanical source of the
+climax ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]. It does not define Entropie further here; it says its physics
+lives elsewhere — „Was dieses Dokument bewusst NICHT enthält: DKT-Physik im
+Detail" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L13].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**What [[aegis|AEGIS]] is, against what it believes.** The paradox table: „AEGIS =
+Kohärenz-Kernel (K1)" against „AEGIS = Entropie-Architektur (K0)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L105].
+And the mechanism: „Das System produziert die Entropie, die zu bekämpfen es
+behauptet." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L98]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**AEGIS is entropy.** „Tatsächlich ist AEGIS die Entropie." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32] The inversion table sets „AEGIS = Entropie-Architektur (K₀)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L124] against what AEGIS believes, and „Kontrolle erzeugt Landauer-Abwärme = mehr Entropie" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L128].
+
+„AEGIS kämpft gegen die Entropie, die es selbst erzeugt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L135]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The inversion again: AEGIS „*ist* aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+B's premise: operative closure „generiert die Entropie, die er bekämpft" — „Wer
+Kontradiktionen löscht statt integriert, generiert die Entropie, die er bekämpft."
+^[dramatica-dual-storyform-status-2026-05-07-md.md:L218]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**Entropy as the condition of events, not chaos.** K₀: „Das Prinzip irreversibler
+Berechnung und Entropie." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] „K₀ ist nicht Chaos, sondern die Bedingung für
+Ereignisse überhaupt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] — „K₀ ist das, was ein Universum bewohnbar macht."
+^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] Conflict C2: a fourth sense, neither disorder to fight nor the matrix
+things come from, but what makes time and learning possible.

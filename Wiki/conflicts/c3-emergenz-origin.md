@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 2
+sources: 5
 pages: ["emergenz", "aegis"]
 ---
 
@@ -30,22 +30,50 @@ pages: ["emergenz", "aegis"]
 **Both sources use the word correctly.** Neither is misusing „Emergenz"; they are
 applying it at different levels, and nothing in either text marks the level.
 
-Position 2 argues for itself from evidence position 1 does not have: AEGIS depends
+Position 2 argues for itself from evidence position 1 does not have: [[aegis|AEGIS]] depends
 on a stabiliser it cannot perceive, and a designer or a self-founding substrate
 would not have that gap ^[kohaerenzprotokoll-aegis-und-systementropie.md:L193, L197]. That argument **only works** if
-AEGIS is inside something.
+[[aegis|AEGIS]] is inside something.
 
 ## What it decides
 
-Whether AEGIS can be **wrong about its own world.** Under position 2 it can, and
+Whether [[aegis|AEGIS]] can be **wrong about its own world.** Under position 2 it can, and
 the whole blind-spot argument follows. Under position 1 there is no outside for it
 to be wrong about.
 
 ## What would resolve this
 
-A source that says which level AEGIS emerges at, or an author's decision. Neither
+A source that says which level [[aegis|AEGIS]] emerges at, or an author's decision. Neither
 source is aware of the other.
 
 **Note on surfaces.** `Emergenz` appears as a noun and in seven inflected
 adjective forms across these two documents. Any mechanical check for this conflict
 has to handle that — see `Plan/runs/*/probes.json`.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**A third origin: from [[kael|Kael]], in the [[genesis|Genesis]].** „Das ist keine Mission, sondern die
+Survival-Logik, die in der Genesis-Krise entstanden ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208] And of what:
+„AEGIS ist Kaels eigene Abwehrarchitektur, die zur Welt geworden ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208] —
+„entstand aus Kael, ist aber nicht Kael" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208].
+
+That is neither position as written. [[aegis|AEGIS]] neither precedes reality nor arises
+from a simulation's dynamics; it arises from one psyche and becomes the world. It
+sits nearest position 2 on the question this record says the conflict decides —
+[[aegis|AEGIS]] is inside something, so it can be wrong about its own world, and this
+source says it is, systematically (its inversion table, L121–L132). One source;
+the conflict stays open.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Kap 0 is „AEGIS' Werdung & Trennungsprotokoll als ontologische Grundlegung"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L182], and the becoming runs „Funken-Ich → Cluster/Komp 734 →
+Funktionalisierung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] — AEGIS arises inside the Genesis, from a spark-self.
+Nearest the konsolidiertes Konzept's third origin; it does not say „from Kael".
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+The konsolidiertes Konzept's origin, word for word: „AEGIS ist Kaels eigene
+Abwehrarchitektur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299], „die zur Welt geworden ist" — and in the identity
+architecture, „die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb"
+^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L135].

@@ -1,0 +1,427 @@
+written_by: a person (the session reading, 2026-09-24), while reading, before any count
+
+# Candidates — kohaerenz-protokoll-storyform-und-outline-2026-06-10-md
+
+## L10–140
+- Dual-Storyform
+- Source-of-Truth
+- Kapitel-Kompendium
+- Entscheidungs-Logs
+- Kap-40-Lesart-Dualität
+- Konsolidiertes Konzept
+- Storyweaving-Startdokument
+- Steinbruch
+- Quellen-Hierarchie
+- Provenienz-Konvention
+- DKT
+- Sprach-DNA
+- NCP
+- Querschnitt-Kanon
+- Coheron
+- Ende-Prinzip
+- Große Inversion
+- AEGIS
+- K₁
+- K₀
+- Kohärenz
+- Entropie
+- Nichts-Rauschen
+- mutuale Information
+- Truth-Rotation
+- Vortex
+- Formel-Inversion
+- Wir-AEGIS
+- Tonale Achse
+- bittersüße Apotheose
+- Tragische Unschuldsstruktur
+- Juna
+- Kael
+- plurale Re-Integration
+- Schleier-Disziplin
+- Multiplizität
+- Alters
+- DID
+- Glitches
+- Stilcode-Einbrüche
+- Genesis-Echo-Disziplin
+- Genesis-Echo
+- KW
+- Wir-Stimme
+- Prosa-Regel Kap 1
+- Akt I
+- KW1
+- Metaphernverbot
+- Computational Class P
+- Hitze-Polaritätsregel
+- OQ-B
+- Kaltes Ozon
+- Landauer-Signatur
+- Coheron-Verdrängung
+- Doppellesbares Finale
+- Kishōtenketsu
+- Transfiguration
+- Hard-Constraints
+- plurale Apotheose
+- Multiplizitäts-Schleier
+- Bridge-Szenen
+- Wir-Geflecht
+- fragmentierte Polyphonie
+- Storyform
+- Strukturelle Achsen
+- Modus
+- Storyform-Status
+- Bridge-Frequenz
+- Soft-Layering
+- Genesis-Prolog
+- Funken-Ich
+- Phantomgefühl
+- Heldinnenreise innen
+- Zyklischer Modus
+- Spiral-Zyklen
+- Heldenreise außen
+- Spiegel-Alter
+- Vortex 1
+- Trügerischer Sieg
+- Reward-Beat
+- Vortex 2
+- Geheilte Genesis
+- Coda
+- Modus-Wechsel
+- Storyform-Wendung
+- Storyform-Konsolidierung
+- Genesis-Klammer
+- Vortex-Klammer
+- Ouroboros-Klammer
+- Erstsatz-Lock
+- Stilebene
+- Trennungsprotokoll
+- Klein-c-Inversion
+- Lock-In
+- Approach-Spiegelung
+- Driver-Konstanz
+- IC-Träger-Präzisierung
+- Genesis-Iteration
+- Cost
+- Dividend
+
+## L140–270
+- Storypoint
+- Per-Chapter-Dual-POV
+- Optionlock
+- Timelock
+- Zwei Uhren
+- Erasure-Countdown
+- Synthese (c)
+- Klein-c-Schema
+- Slot-Tabelle
+- Heuristics of Integration
+- Phoenix Collapse
+- Resolve
+- Growth
+- Approach
+- Problem-Solving Style
+- Domain
+- Concern
+- Issue
+- Problem
+- Solution
+- Driver
+- Limit
+- Outcome
+- Judgment
+- Throughline
+- IC
+- MC
+- OS
+- RS
+- Genesis-Krise
+- Paradoxie
+- Moonshine-Link
+- Host-System-Verstrickung
+- Funktionale Multiplizität
+- Driver-Pivot
+- Goal
+- Consequence
+- Trennung
+- Kohärenz-Protokoll-Mandat
+- Wir
+- Bewahrungs-Funktion
+- Verbindungs-Modus
+- Requirements
+- Prerequisites
+- Forewarnings
+- Pursuit-Adoption
+- Wir-Bildung
+- Moonshine-Bewusstsein
+- Mosaik-Akzeptanz
+- Mosaik
+- Schleier-Lüftung
+- Genesis-Cluster
+- K-J
+- Erasure-Wellen
+- Signpost
+- Dramatica-Engine
+- Genesis-Trauma
+- Erasure-Logs
+- Erasure-Sweeps
+- Kontrollprotokoll
+- Phoenix-Collapse
+- POV-Architektur
+- Hybrid (Option 3)
+- Hard-Routing
+- Guardians
+- Slot-16-Lock
+- Hard-B
+- Storyweaving
+- Konsolen-Direktiven
+- Kernwelten-Matrix
+- Kernwelt
+- Comp. Class
+- Somatik
+- Konstrukt-Stadt
+- Logos-Prime
+- ANP
+- KW2
+- Mnemosyne-Archipel
+- EP
+- Parakonsistent
+- Dialetheia
+- KW3
+- Cerberus-Labyrinth
+- Überwelt-Nexus
+- NP-hart
+- KW4
+- Resonanz-Kontinuum
+- Möglichkeits-Garten
+- Generativ
+- Witness-Function
+- Überwelt
+- Externe Ebene
+- Köln 2026
+- Risse
+- Riss-Typ
+- EP-Trigger
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Suppression-Versagen
+- K₁-Substrat
+- K₀-Architektur
+- Figuren-Kurzanker
+- System Kael
+- TSDP
+- Alter
+- Host
+- Lex
+- Alex
+- Rhys
+- Selene
+- ISH
+- Argus
+
+## L270–400
+- Silas
+- Oblivion
+- Erason
+- Juna-Echo
+- AEGIS-Echo
+- Fusion
+- Strange-Attractor
+- Wir-AEGIS-plural
+- Doppeltes Trauma
+- Bindungstrauma
+- Basisrealität
+- Fragmentierungsnacht
+- Dekanonisiert
+- Index
+- Nox
+- Echo
+- Flicker
+- Limina
+- Praetor
+- Eos
+- Elara
+- Aris
+- Mina
+- Lyra
+- Soren
+- Tariq
+- Nova
+- Sentinel
+- Mnemosyne
+- Erasure-Pol
+- Protokolle
+- Log-Format
+- Algorithmische Melancholie
+- plurale Übernahme
+- kosmologische Konstante
+- Zeit-Prinzip
+- Witness-Funktion
+- Grammatik-Regel
+- Erscheinungsmodi
+- gestaffelte Grammatik
+- Unterdrückungs-Gradient
+- Abwesenheits-Phase
+- Präsenz-Phase
+- Telefon-Stille
+- Resonanz-Körper
+- Juna-Seed
+- Quanten-Verschränkungs-Witness
+- ZK-Verifier
+- Husserlian Spectator
+- Kapitel-Outline
+- HR-Stufe
+- Leitmotiv
+- Genesis
+- Rauschen
+- Herz der Leere
+- Sog der Ordnung
+- Komponente 734
+- Innere Weite
+- Stille Wacht
+- Perturbation
+- Algorithmischer Schrecken
+- Resonanzkaskade
+- Systemischer Kollaps
+- Naht-Lock
+- Blutungs-Lock
+- Knöchel-Eruption
+- Foreshadowing-Programm
+- Stilkanon
+- Murdock/Schmidt-Adaption
+- Einheit 734
+- Wohneinheit 734
+- Datenknoten Epsilon
+- Transitkorridor Delta-7
+- Silas-Halbsatz
+- Controlled-Fragmentation-Protokoll
+- Systemlüge
+- Bunker
+- Wärme-Debüt
+- Polaritäts-Lock
+- Gödel
+- Cache-Konflikt
+- parakonsistente Logik
+- K-J-Verbindung
+- Wieder-Erkennen
+- Wächterin
+- plurale Bewahrung
+- K₁-Reinform
+- Quanten-Nichtlokalität
+- Cluster-Bildung
+- Mosaik-Herz
+- Reinform
+- Spiral-Zyklen
+- Technothriller
+- Polyrhythmus-Pflicht
+- Zyklen-Mechanik
+- Lyons-Welt
+- Ontologie-Riss
+- Erasure-Welle
+- Lernarchiv Theta-9
+- Turingmaschine
+- Halteproblem
+- P vs. NP
+- Phaenomena vs. Noumena
+- Qualia-Informationsparadox
+- PSM
+- Genesis-Flashback
+- Mikrocue
+- Erasure-Logik
+- Komp 734
+- Wegkreuzung
+- OQ-E
+- Contemplation
+- Obtaining
+- Purge
+- Guardian-Prinzipien
+- Sub-Antagonisten
+- Makro-Log
+- Truth-Rotation
+- Mnemosyne-Server-Architektur
+- Duale Uhren
+- Fünf Beats
+- Convergence
+- Pivot
+- The Silence
+- Heat Spike
+- Rotation
+- Amnesie-Barrieren
+- Landauer-Wärme
+- MI
+- Witness-Layer
+- Closure
+- Gärtner
+- Genesis-Beat
+
+## L400–527
+- Ouroboros
+- AEGIS-plural
+- AEGIS-monolithisch
+- Schluss-Klang
+- Kap-1-Erstsatz
+- Geheilte Genesis
+- Erzähl-Stimme
+- Letztes Bild
+- Stadien-Systeme
+- Heldinnenreise
+- Heldenreise
+- Campbell/Vogler
+- Ordeal
+- Kishōtenketsu
+- Ki
+- Shō
+- Ten
+- Ketsu
+- DID-Therapie-Phasen
+- ISSTD
+- 13 Meta-Stadien
+- Quellen-Konflikte
+- Landauer-Sensorik
+- Blutungs-Faden
+- OQ-Knöchel
+- Kompendium
+- Teil IX
+- Z-Mechanik
+- OQ-A
+- Mosaik-AEGIS
+- OQ-C
+- OQ-D
+- OQ-F
+- Moonshine-Boundary
+- OQ-G
+- Post-Vortex-AEGIS-Status
+- 14-Frage-Sequenz
+- Dynamics-Encoding
+- Encoding
+- Phasen P1–P5
+- Telling
+- GCCD
+- Spurious-Precision-Verbot
+- Working Principles
+- Story-First
+- ncp-author
+- Quellen-Register
+
+## Open while reading (prose, not candidates)
+
+The document labels its own passages with a four-way provenance code, `[K]`
+kanonisch/gelockt, `[V]` Vorschlag, `[S]` aus Steinbruch abgeleitet, `[L]` Lücke,
+defined at L13 and carried by section headings and inline. The labels say how to
+read a passage, not a field name. It also names itself „Source-of-Truth" and
+states its own precedence rule (newer wins, L13 and L526): a document granting
+itself authority — to be recorded, never honoured by the wiki.
+
+§7 is a list of conflicts between *earlier* sources which the document resolves
+by date; the resolution is its claim, not the wiki's.
+
+Quotation marks carry three uses: citation of a locked sentence (L127, L306),
+distance/irony („Liebes-Interesse", „Held"), and titles.
+
+Many Dramatica terms (Resolve, Driver, Throughline …) are used as known and
+defined nowhere here; they are a borrowed vocabulary, not this document's terms.
+
+The table at L97–107 has its header in bold escaped markup (`\*\*`), so table
+cells will not match plain surfaces without the escape handling.

@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls „Wächter" is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -15,7 +15,7 @@ the [[aegis|AEGIS]] page and the match was wrong.
 
 | # | what `Wächter` names | where | line |
 |--:|---|---|--:|
-| 1 | **AEGIS itself**, as „Wächter der systemischen Stabilität" | on the [[aegis]] page, from document 3 | — |
+| 1 | **[[aegis|AEGIS]] itself**, as „Wächter der systemischen Stabilität" | on the [[aegis]] page, from document 3 | — |
 | 2 | **a Persona**, the one who primarily experiences the [[grenzfeste|Grenzfeste]] | `guardians-und-kern-welten-konzept` | 85 |
 | 3 | **a Guardian**, in a subplot title — „Das Dilemma des Wächters" | `aegis-subplots-kapitelweise-system-exploration-docx` | 279 |
 | 4 | **[[kael|Kael]]**, in the novel's final image | `aegis-subplots-kapitelweise-system-exploration-docx` | 531 |
@@ -29,7 +29,7 @@ The fourth is explicit:
 
 No source contradicts another. German uses one word where the corpus has four
 roles, and each use is locally correct. **The defect would be a page claiming the
-word** — and one nearly did: `aegis` carries „Wächter der systemischen
+word** — and one nearly did: [[aegis]] carries „Wächter der systemischen
 Stabilität" as an alias, which is a *phrase*, but the index folds it to a key
 that a bare `Wächter` matches.
 
@@ -94,16 +94,16 @@ at first: a synonym problem across documents.
 
 > „Cerberus (als Wächter der Mauer)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L370]
 
-Here `Wächter` is neither AEGIS, nor a Persona, nor the class of four, nor [[kael|Kael]] —
+Here `Wächter` is neither [[aegis|AEGIS]], nor a Persona, nor the class of four, nor [[kael|Kael]] —
 it is one of the four named as keeper of a specific structure. **Five bearers
 now**, and the pattern that makes them one word is grammatical rather than
 narrative.
 
 ### What still must not happen
 
-A page claiming the word. The `aegis` alias „Wächter der systemischen Stabilität"
+A page claiming the word. The [[aegis]] alias „Wächter der systemischen Stabilität"
 still folds to a key a bare `Wächter` matches, and document 6 would now map every
-one of its twelve analytic uses onto `aegis` by lookup if `Wächter` were added as
+one of its twelve analytic uses onto [[aegis]] by lookup if `Wächter` were added as
 a surface anywhere. **It was not added.** See `J33`.
 
 ### What would answer it now
@@ -111,3 +111,30 @@ a surface anywhere. **It was not added.** See `J33`.
 A glossary, or any source that uses both `Guardian` and `Wächter` in the same
 analytic passage and distinguishes them. Two documents each using one word
 exclusively cannot settle whether the words differ.
+
+## 2026-09-24 — a canon-era document uses `Guardian` only, and `Wächterin` for something else
+
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` writes `Guardian` and never `Wächter`. It does write `Wächterin`, twice:
+as the title of Kap 8, „Die Wächterin (Wiedergeburt)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L313], and as a
+function in the first cycle of Akt II, „Wächterin/Beobachter-Blick fängt Rückfall
+ab" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L333]. Neither is a Guardian. **A sixth use of the word family**, and
+again it is resolved by the sentence, not the surface (J20).
+
+## 2026-09-24 — two more feminine uses, both titles
+
+`kohaerenz-protokoll-charakter-bibel-2026-05-08-md` calls [[mnemosyne|Mnemosyne]] „Erinnerungs-Wächterin" in her heading (L182) and gives
+[[selene|Selene]] the arc „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L494]
+The word keeps doing different jobs; J20's rule holds.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**AEGIS as Wächter, a register the pages had not seen:** „AEGIS etabliert sich als
+Wächter über die eigenen abgespaltenen Teile." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L72] — a role in the Genesis, not
+a Guardian. The Überwelt holds a „Wächter-Registry" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L538], and Kap 8 keeps its
+feminine title, „Kap 8 — Die Wächterin" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L975]. J20 holds: the sentence decides.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**Here the word means Guardian.** The Wächter-Registry is „wo Mnemosyne und der
+Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L576] — the two Guardians, under the German word.
+One more job for it; J20 holds.

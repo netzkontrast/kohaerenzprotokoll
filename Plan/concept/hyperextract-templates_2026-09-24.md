@@ -91,8 +91,9 @@ proved each check could fail and never that it could pass.
 
 ```bash
 .venv-grawiki/bin/python scripts/route.py serve --port 8787 &     # free models + local embeddings
-he config llm      -p vllm -u http://127.0.0.1:8787/v1 -k route:hyperextract:<slug>:<attempt> -m free
-he config embedder -p vllm -u http://127.0.0.1:8787/v1 -k route:hyperextract:<slug> -m local
+export TIKTOKEN_CACHE_DIR=$PWD/.venv-dspytools/lib/python3.12/site-packages/litellm/litellm_core_utils/tokenizers
+he config llm      -p openai -u http://127.0.0.1:8787/v1 -k route:hyperextract:<slug>:<attempt> -m free
+he config embedder -p openai -u http://127.0.0.1:8787/v1 -k route:hyperextract:<slug> -m local
 he parse Sources/drive/<slug>.md -t Plan/hyperextract/TermCensus.yaml -l en \
     -o Plan/runs/tooltest/hyperextract/<slug>/TermCensus --source <slug> --no-index
 ```
@@ -100,9 +101,14 @@ he parse Sources/drive/<slug>.md -t Plan/hyperextract/TermCensus.yaml -l en \
 `he config` writes `~/.he/config.toml` globally, so the key — which names the
 document for the router's consent check — is set again per document and per
 attempt (P18: two attempts, since `route.py` replays an identical call from its
-record). **Unconfirmed until it runs:** whether the `vllm` provider accepts an
-arbitrary model name (the proxy ignores it either way) and whether `--no-index`
-still builds the embedder — which is why the embedder is configured at all.
+record). Read from the installed code since this page was first written: `openai`
+and `vllm` are both safe providers, and `anthropic` or `google` would ignore the
+base URL; **every `he parse` loads tiktoken's `cl100k_base` even with
+`--no-index`**, because the embedder is always built — the `TIKTOKEN_CACHE_DIR`
+line serves a copy whose hash matches instead of downloading it; and a model name
+like `gpt-5.6-sol` or anything `*-pro` would send langchain to `/v1/responses`,
+which the proxy does not serve — hence `-m free`. **Still unmeasured:** whether a
+free model answers the forced tool call Hyper-Extract sends for each chunk.
 
 ## Where they could enter the loop — for the tool review's synthesis to judge
 

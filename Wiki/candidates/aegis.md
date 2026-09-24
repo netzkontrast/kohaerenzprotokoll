@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 4
-readings: 5
-conflict: C1
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 11
+readings: 12
+conflict: C1, C8
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -147,3 +147,103 @@ reflektiert." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L59]
 
 That last pair is the alias this page already carries, offered here as two
 readings a depiction could take rather than as a claim about which is true.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**The first read source from the canon era, and it labels itself canon.** It marks
+this passage `[K]` and names itself the novel's „Source-of-Truth" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L11]; that is its
+claim about its own authority, recorded and not adopted.
+
+**The inversion both storyforms rest on:**
+
+> „AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
+
+**Never a villain**, as a hard rule for the prose:
+
+> „AEGIS = unschuldig im Bösen (verwaltet, bedroht nicht), nie Bösewicht." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L42]
+
+**What AEGIS is, and what it is made of:**
+
+> „die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb — Bewahrung
+> ohne Resonanz-Fähigkeit, tragisch unschuldig" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+> „Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei
+> Protokolle, verbindliches Log-Format." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+The two storyforms of the novel are AEGIS divided — „die zwei Storyforms sind die
+zwei Hälften, in die AEGIS sich im Trennungsprotokoll zerschnitten hat"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L135]. See [[trennungsprotokoll]].
+
+**How it ends.** „AEGIS-monolithisch erlischt; AEGIS-plural entsteht
+(Kael-als-Wir wird neue AEGIS, aber wesensanders)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412]. The final form's
+name is open by the document's own table — „Naming der finalen Form (Wir-AEGIS /
+Mosaik-AEGIS / …)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L475] — so `Wir-AEGIS` is recorded here and gets no
+page (judgement J47).
+
+**Voice:** third person, as logs — „AEGIS und die zwei Guardians sprechen in 3.
+Person" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
+
+This is the first read source that states the [[guardians|Guardians]]' relation to AEGIS as
+architecture rather than inside a question — see `q1-guardians-and-aegis` and
+conflict `C6`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The name expanded, a directive, three protocols, and a Storyform slot that
+disagrees with the other canon-era source.**
+
+> „AEGIS (Autonomous Entropic Gatekeeper for Integrity Systems) ist keine KI im
+> konventionellen Sinne." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L72]
+
+> „hervorgegangen aus Kael, aber nicht identisch mit Kael. Diese Unterscheidung
+> ist nicht-verhandelbar." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L72]
+
+„AEGIS ist kein Bösewicht. AEGIS ist eine Tragödie." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L76] Its Primal
+Directive is the Kap-0 sentence: „AEGIS ist, was AEGIS verhindert, dass es nicht
+ist." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L80]
+
+**Three protocols, reduced from twelve** — „Drei Protokolle (von ursprünglich 12
+reduziert)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L125]: „Suppressionsprotokoll" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L131], „Kohärenzprotokoll"
+^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L132], „Re-Containment-Protokoll" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L133].
+
+**Storyform B:** „Resolve = Steadfast (bleibt klassisch logisch, bis zum Ende).
+Approach = Be-er" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L156]. The other canon-era source's slot table gives B's
+Approach as Do-er — „| Approach | Be-er | Do-er |" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L154]. Conflict `C8`.
+
+Its end is [[algorithmische-melancholie|Algorithmische Melancholie]].
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**The entropy it believes it fights.** „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32]
+
+„AEGIS — Autonomous Entropic Gatekeeper for Integrity Systems — ist kein Schurke." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L202] Its self-definition: „AEGIS ist, was AEGIS verhindert, dass es nicht ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L205] And its origin: „AEGIS ist Kaels eigene Abwehrarchitektur, die zur Welt geworden ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208]
+
+Three protocols — the same three names as the character bible — Suppressionsprotokoll, Kohärenzprotokoll, Re-Containment-Protokoll (L226–L228). A binding log format follows (L230–L254), and „AEGIS spricht nie in Prosa." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L257]
+
+Its fate: „AEGIS-monolithisch erlischt; AEGIS-plural entsteht." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L265] The name of the plural form is the document's own open question OQ-A ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1199], so it has no page (judgement J47).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+„AEGIS *glaubt* K₁ (Kohärenz) zu sein, *ist* aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
+„AEGIS = unschuldig im Bösen" ^[kapitel-kompendium-gather-2026-05-31-md.md:L52]. B's cost: „AEGIS-monolithisch erlischt"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L148], in Kap 36.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+In KW1: „AEGIS ist Umgebungsbedingung — keine Figur in KW1." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L179] In the
+Überwelt: „AEGIS hat kein Innen — er ist autopoietisch geschlossen." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L611]
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Do-er, from this day.** „A: Be-er (vorher Do-er). B: Do-er (vorher Be-er)." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L29]
+— the lock-in the storyform-und-outline cites. AEGIS' doing is named: „AEGIS'
+Tragödie sind die 12 Protokolle, Erasure-Sweeps, Guardian-Deployments (*Tun*)."
+^[dramatica-dual-storyform-status-2026-05-07-md.md:L97] And its resolve: „AEGIS bleibt bis zum Ende bei Logic, adoptiert nie
+Feeling." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L222] Conflict C8.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„AEGIS — Autonomous Entropic Gatekeeper for Integrity Systems." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299]
+Autopoietic, which is why it cannot grasp [[juna|Juna]]: „Das erklärt, warum es Juna
+semantisch nicht erfassen kann" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L729]. Its Approach: „A=Be-er (passt zu Mind),
+B=Do-er (passt zu Universe)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L472] — conflict C8.

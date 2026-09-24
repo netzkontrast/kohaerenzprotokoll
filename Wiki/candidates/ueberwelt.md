@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 3
-readings: 3
+sources: 8
+readings: 8
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -52,8 +52,8 @@ collapse sequence:
 > \"Überwelt\" erlebt Realitätsverzerrungen, Kommunikationsausfälle, Versagen
 > zentraler Simulationsdienste" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L167]
 
-So the containment relation the first source gave by position — Kern-Welten
-*inside* the same system — is confirmed as a layering: Kern-Welten first, Überwelt
+So the containment relation the first source gave by position — [[kern-welten|Kern-Welten]]
+*inside* the same system — is confirmed as a layering: [[kern-welten|Kern-Welten]] first, Überwelt
 after.
 
 **This source prefers `Simulation` (44 times) to `Überwelt` (3).** One thing, two
@@ -67,12 +67,12 @@ sharpest statement of what the Überwelt is in anything read:
 > „Die AEGIS-Überwelt sollte konsequenterweise nicht nur als ein 'Ort' gestaltet
 > werden, sondern als manifestiertes *Interface* oder *Betriebssystem*." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49]
 
-It is one of the six [[realitaetsebenen|Realitätsebenen]] and the only one whose `Domäne` is AEGIS:
+It is one of the six [[realitaetsebenen|Realitätsebenen]] and the only one whose `Domäne` is [[aegis|AEGIS]]:
 
 > „Digitale, informationsbasierte Ebene. Zentrum der Systemkontrolle, abstrakt,
 > funktional. Sitz von AEGIS und den Wächtern in ihrer Systemfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
 
-Its architecture is required to express AEGIS' values: „Ihre Architektur muss
+Its architecture is required to express [[aegis|AEGIS]]' values: „Ihre Architektur muss
 Funktion, Datenfluss und Kontrolle priorisieren" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49], and the same sentence
 names them — „die Kernprinzipien von AEGIS – Ordnung, Integrität, Effizienz"
 ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49]. See [[aegis]].
@@ -86,7 +86,7 @@ names them — „die Kernprinzipien von AEGIS – Ordnung, Integrität, Effizie
 first two `Explorative V2` — invented by this document, which says so per row.
 
 Two of them are the system's working parts rather than scenery: the monitor
-where entropy is watched (see [[system-monitor]]) and a chamber where AEGIS
+where entropy is watched (see [[system-monitor]]) and a chamber where [[aegis|AEGIS]]
 „aktiv Entropie managt oder umwandelt" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L229]. See [[entropie]].
 
 ### `Simulation` is used here, and it is not this level
@@ -99,4 +99,41 @@ words and they do not coincide:** `Überwelt` 27 times for the digital level, an
 
 **So a third document now uses `Simulation` without meaning the Überwelt**, which
 is evidence on the judgement `J30` left unresolved: here the Simulation contains
-the Kern-Welten and the Überwelt both, and is not a synonym for either.
+the [[kern-welten|Kern-Welten]] and the Überwelt both, and is not a synonym for either.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**[[aegis|AEGIS]]' operating space, outside the four worlds.**
+
+> „Plus zwei Ebenen außerhalb der KW: Überwelt (AEGIS' Operationsraum)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226]
+
+The word also occurs inside KW3's second name, „Cerberus-Labyrinth /
+Überwelt-Nexus" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L221]. The document does not relate the two, and a compound
+is not a surface of its head (J28).
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„VI.6 Die Überwelt — AEGIS' Maschinenraum" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L534]. „Hier residieren die zwei Guardians als abstrakte Entitäten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L535]. Sub-locations include the Wächter-Registry (L538).
+
+**And it is where Kap 1 wakes.** the sterile setting of KW1 „ist die Innere Weite (Überwelt)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L837] of Kap 0 — the same sentence in the chapter outline (L962). Its origin: „AEGIS schuf die Überwelt einst, um sich selbst zu optimieren" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L692].
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Outside the worlds: „Überwelt (Operationsraum von AEGIS)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L170]. **And inside
+one, as a name**: KW3 is „Cerberus-Labyrinth / Überwelt-Nexus", „Maschinenraum
+hinter dem Rendering" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165]. The document gives both and relates neither (J63).
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Hier residieren die zwei Guardians (Mnemosyne + Erasure-Pol) als abstrakte
+Entitäten" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L502]; the Wächter-Registry is „wo Mnemosyne und der Erasure-Pol
+verzeichnet sind" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L576]. „AEGIS hat kein Innen — er ist autopoietisch
+geschlossen." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L611] „Keine Heimat von Juna." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L612] Its Risse: „Risse
+erscheinen hier als Datenkorruption oder Signalrauschen" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L524]. Explicit as a
+setting only in Kap 33 (L805).
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„AEGIS' Operationsraum / Maschinenraum hinter dem Rendering." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L416] — the gloss
+the Kapitel-Kompendium gave to KW3's „Überwelt-Nexus", given here to the Überwelt
+itself, while KW3 carries the name again (L410; J63).

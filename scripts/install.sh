@@ -46,7 +46,7 @@ COMPONENTS=(
   "grawiki|.venv-grawiki (python 3.12) — grawiki[falkordblite,viz], CPU torch"
   "semantica|.venv-semantica (python 3.12) — semantica $SEMANTICA_VERSION, base package"
   "jev|jev-decide CLI (uv tool) — the vendored jev* skills in API mode"
-  "graphify|graphify CLI (uv tool) — the vendored graphify skill"
+  "graphify|graphify CLI with its openai extra (uv tool) — the vendored graphify skill"
   "cgr|code-graph-rag CLI (uv tool, python 3.12) — cgr"
   "hyperextract|he and he-mcp (uv tool, python 3.12) — Hyper-Extract, the hyper-extract MCP server"
   "omo|OpenCode $OPENCODE_VERSION (npm -g) with the oh-my-openagent $OMO_VERSION plugin; no provider sign-in"
@@ -75,7 +75,7 @@ present() {
     grawiki)    .venv-grawiki/bin/python -c "import grawiki, redislite" 2>/dev/null ;;
     semantica)  .venv-semantica/bin/python -c "import importlib.metadata as m; assert m.version('semantica') == '$SEMANTICA_VERSION'; import semantica" 2>/dev/null ;;
     jev)        have jev-decide ;;
-    graphify)   have graphify ;;
+    graphify)   have graphify && "$(dirname "$(readlink -f "$(command -v graphify)")")/python" -c "import openai" 2>/dev/null ;;
     cgr)        have cgr ;;
     hyperextract) have he && have he-mcp ;;
     omo)        have opencode && grep -q oh-my-openagent ~/.config/opencode/opencode.json 2>/dev/null \
@@ -134,8 +134,10 @@ install_one() {
       local rc=$?; rm -rf "$src"; return $rc ;;
     graphify)
       need_uv || return 1
-      uv tool install -q --python 3.12 \
-        "graphifyy @ git+https://github.com/netzkontrast/graphify@$GRAPHIFY_REF" ;;
+      # the openai extra: without it every document pass fails on import, and a base URL
+      # is only honoured through it; --force replaces an install that lacks it
+      uv tool install -q --force --python 3.12 \
+        "graphifyy[openai] @ git+https://github.com/netzkontrast/graphify@$GRAPHIFY_REF" ;;
     cgr)
       need_uv || return 1
       # Without the transformers floor the resolver backtracks to 4.12.2, whose

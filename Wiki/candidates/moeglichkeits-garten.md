@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 2
-readings: 2
+sources: 8
+readings: 8
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -62,7 +62,7 @@ each section is a `Guardian/Welt-Paar`.
 How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to one alter, and
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
-containment of the Kern-Welten (document 3) is not answerable here.
+containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.
 
 ## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18 — and conflict C5
 
@@ -88,12 +88,12 @@ and the profile describes a region:
 
 „Tore zu anderen Bereichen von KW4" puts the garden **inside** KW4, with gates
 leading to the rest of it. Document 4 makes the Möglichkeits-Garten one of four
-Kern-Welten — KW4 entire, „eine Realität", paired to [[kairos|Kairos]] & [[sophia|Sophia]].
+[[kern-welten|Kern-Welten]] — KW4 entire, „eine Realität", paired to [[kairos|Kairos]] & [[sophia|Sophia]].
 
 ### The two cannot both be the whole account
 
 That is `Wiki/conflicts/c5-garten-scale.md`. The content agrees almost word for
-word — growth, potential, branching paths, Kairos/Sophia, the Orakel/Muse Alter —
+word — growth, potential, branching paths, [[kairos|Kairos]]/[[sophia|Sophia]], the Orakel/Muse Alter —
 and the **scale** does not: a Realität in one source, a Bereich with gates to
 other Bereiche in the other.
 
@@ -102,3 +102,48 @@ name: `Möglichkeits-Garten` in document 4, `Garten der Möglichkeiten` here, wi
 zero occurrences of the hyphenated form in this document.
 
 **Nothing is merged and nothing is chosen.** See the conflict record.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**A name of KW4 — a world, not a place in one.**
+
+> „KW4 Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L222]
+
+Its mode is „Integration; lebende Widersprüche; Vortex-Quelle" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L222], it is
+written in [[juna|Juna]]'s style level, and it dominates Akt III. **This speaks to `C5`**,
+which asks whether the garden is a world or a place inside one: this source gives
+it as a second name of the fourth Kern-Welt, alongside `Resonanz-Kontinuum`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**KW4's only name here.** „KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54], mode
+„Integration, Generativ" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54]. Selene waits there: „Selene wartet im
+Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L494] A fourth source
+on the world side of `C5`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**Both a name for KW4 and a place inside it.** The heading: „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517]. The sub-locations: „Sub-Lokalitäten: Möglichkeits-Garten, Nexus, Mosaik-Herz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L530].
+
+Judgement J35 made the two surfaces one term; this document nests one inside the other (J61). A reading for conflict C5.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**KW4's name, not a place in it**: „Resonanz-Kontinuum / Möglichkeits-Garten"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L166], „Integration; lebende Widersprüche; Vortex-Quelle" ^[kapitel-kompendium-gather-2026-05-31-md.md:L166]. The same
+reading as document 7; a reading for C5 on the world side. `Garten der
+Möglichkeiten` does not occur.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**Both scales, both canonical.** A name of KW4 — „KW4 — Kairos-Potentialis /
+Möglichkeits-Garten / Resonanz-Kontinuum" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L26], „Andere kanonische Namen:
+„Möglichkeits-Garten", „Resonanz-Kontinuum"." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404] — and a canonical place in
+it: „überwucherte Ruinenarchitektur; Funktionale Multiplizität als Erlebnis"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L461]. The same double reading as the konsolidiertes Konzept. Conflict C5.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+A name of KW4: „KW4 — Resonanz-Kontinuum / Kairos-Potentialis /
+Möglichkeits-Garten." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L413] No place of that name inside it. Conflict C5, world
+side.

@@ -479,6 +479,8 @@ class Proxy(BaseHTTPRequestHandler):
         return purpose, check_doc(parts[2] if len(parts) > 2 else None), attempt
 
     def do_GET(self):  # noqa: N802
+        if self.path.rstrip("/").endswith("/health"):  # cgr's litellm_proxy provider asks this first
+            return self._send(200, {"status": "ok"})
         if self.path.rstrip("/").endswith("/models"):
             data = [{"id": m, "object": "model", "owned_by": "openrouter-free"} for m in rotation()]
             data.append({"id": f"local/{EMBED_MODEL}", "object": "model", "owned_by": "local"})
@@ -771,6 +773,8 @@ def cmd_selftest() -> int:
             check("a stream request gets server-sent events ending in [DONE]",
                   s == 200 and events[-1] == "[DONE]" and json.loads(events[0])["choices"][0]["delta"]["content"] == "sieben")
             check("a caller that does not name itself is refused", post("/chat/completions", msgs, "sk-real")[0] == 401)
+            with urllib.request.urlopen(f"http://127.0.0.1:{srv.server_address[1]}/health", timeout=10) as r:
+                check("GET /health answers 200 (cgr's litellm_proxy checks it)", r.status == 200)
             check("a caller declaring a document outside the consent is refused",
                   post("/chat/completions", msgs, f"route:selftest:{outsider}")[0] == 403)
             srv.shutdown()

@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-17"
 ---
 
@@ -28,11 +28,18 @@ stabilisierende Element" and triggers the cascade ^[kohaerenzprotokoll-aegis-und
 
 ## Surfaces
 
-`Kael-Julia-Bindung` 16 times, then **`K-J-Bindung`** 5 times from ^[L151]
+`Kael-Julia-Bindung` 16 times, then **`K-J-Bindung`** 5 times from ^[kohaerenzprotokoll-aegis-und-systementropie.md:L151]
 onward. One term, two surfaces, **nothing announces the switch.**
 
 ## What is not decided here
 
 Its mechanism. The source lists resonance, entanglement and ontological anchoring
-as candidates ^[L110–115] and settles on none, then names the gap as its own
-open question ^[L239].
+as candidates ^[kohaerenzprotokoll-aegis-und-systementropie.md:L110–115] and settles on none, then names the gap as its own
+open question ^[kohaerenzprotokoll-aegis-und-systementropie.md:L239].
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The document does not use this compound. It states the rename its first half
+depends on — „Julia→**Juna**" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13] — among the substitutions it made to the
+„Steinbruch" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. Whether this page should be renamed is still judgement J13's
+question; that it names [[juna|Juna]] by an earlier name now has a source.

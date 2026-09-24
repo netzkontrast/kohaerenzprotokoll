@@ -1,0 +1,332 @@
+written_by: a person (the session reading, 2026-09-24), while reading, before any count
+
+# Candidates — kohaerenz-protokoll-charakter-bibel-2026-05-08-md
+
+## L10–330
+- Charakter-Bibel
+- Dramatica-Storyweaving
+- Reset-Doc
+- Outline-Revision
+- Dual-POV-Lock-In
+- Lese-Anweisung
+- Werkbank
+- Identität
+- Funktion
+- Phänomenologie
+- Konsistenz-Anker
+- Guardians
+- TSDP
+- Welt-Architektur
+- Konstrukt-Stadt
+- AEGIS
+- Kernwelt
+- Computational Class
+- KW1
+- Logos-Prime
+- ANP
+- Atemzählung
+- Stilebene
+- LogOS
+- KW2
+- Mnemosyne-Archipel
+- EP
+- Parakonsistent
+- Mnemosyne
+- KW3
+- Cerberus-Labyrinth
+- NP-Hard
+- Cerberus
+- Erasure-Pol
+- KW4
+- Möglichkeits-Garten
+- Generativ
+- Kairos
+- Sophia
+- Guardian-Reduktion
+- Erinnerungs-Wächterin
+- Vortex
+- Löschungs-Exekutive
+- Basisrealität
+- Köln 2026
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- autopoietisch
+- operativ geschlossenes System
+- Ursprungs-Ich
+- Genesis-Krise
+- Primal Directive
+- Entropie
+- Ontologische Blindheit
+- Qualia
+- Resonanz
+- Erasure
+- Suppression
+- Kontrollprotokoll
+- Landauer-Hitze
+- Kernparadoxon
+- Fehlausgerichtete Kohärenz
+- Kohärenz-Kernel
+- K1
+- Entropie-Architektur
+- K0
+- Nichts-Rauschen
+- MI
+- Coheron
+- Trennung
+- Kohärenz Protokoll
+- Kohärenz-Protokoll
+- Einheit
+- Trennungsprotokoll
+- Kohärenz Protokoll 1.0
+- Komponente 734
+- Protokolle
+- Suppressionsprotokoll
+- Kohärenzprotokoll
+- Re-Containment-Protokoll
+- Risse
+- Operative Interiorität
+- DKT-Statuszeilen
+- DKT
+- Anomalie-Flag
+- Persistenz-Score
+- Klassifizierungs-Sprache
+- Einheit 521-Beta
+- Gaslighting durch Reklassifizierung
+- Storyform A
+- Heuristics of Integration
+- OS
+- Storyform B
+- Phoenix Collapse
+- MC
+- Steadfast
+- Be-er
+- Algorithmische Melancholie
+- Gödel-Gambit
+- lebende Reliquie
+- Cache-Inkohärenz
+- Mnemosynes Versuchung
+- Juna
+- Witness-Funktion
+- lebende Gödel-Aussage
+- Chaitin-Konstante
+- Zero-Knowledge-Verifier
+- Disinterested Spectator
+- IC
+- Interferenz-Engine
+- Erscheinungsregel
+- Negativräumlich
+- Erason-Bilanz
+- Erason
+- Phantom-Resonanz
+- Host-Feld
+- Telefon-Stille
+- Mutual Information
+- Silas
+- Resonanzkörper
+- Oblivion
+- Landauer-Spike
+- Schreibregel
+- Moonshine-Link
+- Prehension
+- Vertex Operator Algebra
+- Leech-Lattice
+- Z2-Involution
+- twisted modules
+- K1-Zeitlinie
+- Gnosis
+- Episteme
+- Block-4-Anker
+- K1-Substrat
+- Vortex-Quelle
+- Dialetheia
+- Ouroboros
+- Revelation-Timing
+- Garten der Stillen Präsenz
+- Kael
+- System Kael
+- Schicht 1
+- Bindungstrauma
+- Schicht 2
+- Fragmentierungsnacht
+- Alters
+- Archivar Klasse II
+- Wohneinheit 734-K
+- Host
+- Kern-Direktive
+- K1-Dominanz
+- Going on with Normal Life
+- Kern-Phobie
+- EP-Phobie
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Vermeidungsprotokolle
+- Lex
+- verlorene Sekunden
+- Knöchel
+- Zähl-Manie
+
+## L330–700
+- DKT-Korrelat
+- Hubble-Volumen
+- Big Rip
+- Beobachtungshorizont
+- Riss-Modus
+- Change
+- Growth
+- Holistic
+- Falsehood
+- Pursuit
+- Avoidance
+- lebende Paradoxie
+- Multiplizitäts-Schleier
+- Funktionale Multiplizität
+- Final Fusion
+- ANPs
+- Apparently Normal Parts
+- Rationalist
+- Kernmotivation
+- Kernphobien
+- Halteproblem
+- Gödel
+- Somatik
+- Beziehungsmuster
+- Arc
+- Alex
+- Protektor
+- Asymptotische Freiheit
+- Bunker-Topologie
+- Rhys
+- Caregiver
+- Maxwellscher Dämon
+- Wärmesenke
+- Kudzu-Eskalation
+- Selene
+- Integrator
+- ISH
+- Internal Self-Helper
+- Wormholes
+- Entanglement Islands
+- Mediator
+- Argus
+- Meta-Kognitiv
+- Sonder-Kategorie
+- Fraktale
+- Zeno-Effekt
+- Depersonalisierung
+- EPs
+- Emotional Parts
+- Fight
+- CPT-Verletzung
+- Freeze
+- Planck-Skala
+- Temporal-Stutter
+- Ambivalent
+- Quantensuperposition
+- Relational-Drift
+- Sexualisiert
+- Fight-via-Control
+- Pauli-Ausschluss
+- Synästhesie
+- Kollaps
+- Big Freeze
+- Hitzetod
+
+## L700–1000
+- Drachenkampf
+- Spiegel-Alters
+- Juna-Echo
+- Coheron-Echo
+- Tunneling
+- Echo-Prosa
+- Gödel-Gambit
+- Landauer-Signal
+- AEGIS-Echo
+- Löschlogik
+- Erason-Operator
+- Lösch-Prosa
+- Amnesie
+- Strukturelle Dissoziation der Persönlichkeit
+- Tertiäre Strukturelle Dissoziation
+- Phobien als Klebstoff
+- Cache-Kohärenz
+- Dissoziative Amnesie
+- Universal Reboot
+- Kompetenzwechsel
+- DIS-Therapie
+- Plural-Bewegung
+- Polyphonie
+- Choralität
+- Mosaik
+- Crew-Menü
+- Sprach- und Stilarchitektur
+- Stilebene 1
+- Stilebene 2
+- Stilebene 3
+- Syntax-Signatur
+- Fraktale Zeitstruktur
+- Coheronen
+- Erasonen
+- Landauer
+- Beziehungsmatrix
+- Spiegel-Konflikt
+- Riss-Mandate
+
+## L1000–1309
+- Flight
+- Collapse
+- Spiegel-Risse
+- Welt-Risse
+- Show-don't-Tell
+- Lesersteuerung
+- Phantom-Bilanz
+- Refragmentierung
+- Distanzierte Intimität
+- Egan-Falle
+- Reader-Substrat-Funktion
+- Temporal Scrambling
+- Pronomen-Dramaturgie
+- Foreshadowing-Architektur
+- Landauer-Strang
+- Gödel-Strang
+- Bekenstein-Strang
+- Dasein-Strang
+- Euler-Strang
+- Cosmic Horror
+- Vortex-Architektur
+- Convergence
+- Pivot
+- Heat-Spike
+- Rotation
+- Driver-Pivot
+- Erzähl-Hoheit
+- Witness-Function
+- Quantenverschränkung
+- Hard Rules
+- Soft Guardrails
+- Mikrocue
+- Soft-Layering
+- Hard-Routing
+- Post-Vortex-AEGIS-Status
+- Moonshine-Boundary
+- Genesis-Beat
+- Dialetheismus
+
+## Open while reading (prose, not candidates)
+
+A profile template of eleven fields (Funktion, Kernmotivation, Kernphobien,
+DKT-Korrelat, Riss, Somatik, Sprache / Syntax, Beziehungsmuster, Arc,
+Konsistenz-Anker) instantiated for twelve Alters (§6–§8), plus Kael, AEGIS,
+Mnemosyne, Juna with their own shapes. The repeated labels are the profile.
+
+Stance: an operative workbench („keine Datenbank … eine Werkbank", L21), dated
+2026-05-08, which states „Aktueller Kanon" and marks gaps as „(Lücke — bewusst
+offen)" and open points as „Offene Frage Reset-Doc Appendix C". Proposals are
+marked „Vorschlag". No [K]/[V] code.
+
+Things that stand against the other canon-era document read (for reconciliation,
+not for the census): Juna's one direct scene „ca. Kap 33" (L280); AEGIS Approach
+in B = Be-er (L156); Konstrukt-Stadt as the whole simulation (L44); five
+Guardians reduced to two with absorption stated (L58); knuckles bleeding in Kap 1
+as the first Landauer trace (L1112).

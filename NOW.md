@@ -9,6 +9,95 @@ python3 scripts/state.py            # everything, derived now
 python3 scripts/state.py --prose    # fail on any stale number in this file
 ```
 
+## Questions for the author — noted, not waited on
+
+**The author's instruction, 2026-09-24: „Notiere in Zukunft einfach deine Fragen
+und setze fort"**, and the same day: „Sammle alle Fragen und fahre fort". Every
+open question is collected here, with where it came from; the work continues.
+When an answer arrives it is recorded where the question lives (a conflict
+record, a `Wiki/questions/` page, a decision file) and the line here goes.
+
+**Decided so far:** **C6** — five Guardians (LogOS, Mnemosyne, Cerberus, Kairos,
+Sophia). **C9** — the Konstrukt-Stadt is KW1. **Decision 006** — every draft is
+back in question; no date or claim to be canon settles anything.
+
+### The novel — where the sources disagree
+
+Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations.
+
+| | question | the positions (source, date) |
+|---|---|---|
+| **C1** | What does AEGIS stand for? | *Autonomous Entropic Gatekeeper for Integrity Systems* (`entropie-aegis` 2025-04-17; konsolidiertes Konzept 2026-05-08) · *Autogenic Emergent General Intelligence System* and *Autonomous Entropic Generative Integrity Substrate* (`aegis-emergenz-aus-der-leere` 2025-04-19) |
+| **C2** | What does `Entropie` mean in the novel? | disorder AEGIS fights (`entropie-aegis`) · „schöpferische Matrix", the space things arise from (reported by `aegis-emergenz-aus-der-leere` as a postulate's) · AEGIS *is* the entropy it fights (konsolidiertes Konzept) |
+| **C3** | Where does AEGIS come from? | from nothing, before reality (`aegis-emergenz-aus-der-leere`) · from inside the simulation's dynamics (`kohaerenzprotokoll-aegis-und-systementropie`) · from Kael's defence in the Genesis, then became the world (konsolidiertes Konzept) |
+| **C4** | Whose is the blind spot — AEGIS' alone, or each Guardian's? | AEGIS' categorical blindness (`kohaerenzprotokoll-aegis-und-systementropie`) · five Guardians, five blind spots (`guardians-und-kern-welten-konzept`) |
+| **C5** | Is the Möglichkeits-Garten a whole Kern-Welt or a place inside KW4 — and what is KW4 called? | a Kern-Welt (`guardians-und-kern-welten-konzept`; storyform-und-outline 2026-06-10) · a location in KW4 (`roman-lokalitaeten-konzept-und-ausarbeitung`) · both: KW4 „Kairos-Potentialis (Garten der Möglichkeiten)" with a Möglichkeits-Garten inside it (konsolidiertes Konzept) |
+| **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) · the Kapitel-Kompendium, which C7's record expected to settle it, places none · „Kernwelten vollständig": Kap 33 is her *effect*, Kap 38 her appearance — perhaps not a conflict at all |
+| **C8** | AEGIS' Approach in Storyform B — Be-er or Do-er? | Be-er (Charakter-Bibel) · Do-er (storyform-und-outline; konsolidiertes Konzept; Kapitel-Kompendium) · the lock-in of 2026-05-07 mirrored it to Do-er and names Be-er as the value before — the character bible, a day later, carries the old value |
+| **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) |
+| **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) |
+| **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) · both orders and a fourth beat (Kapitel-Kompendium) |
+
+C1–C5 come from the 2025 research documents and have not been put to the author
+before this list.
+
+### The novel — what no source settles
+
+- **Q5 — pairing.** Five Guardians, four Kern-Welten: one per world (2025, Kairos
+  and Sophia sharing KW4), or „KEIN Guardian-1:1" (2026)?
+- **Q5 — the Erasure-Pol.** Every 2026 source has one, and the name is its own
+  open question („Name offen, Forschungsfrage"). A sixth figure, a function of the
+  five, or the name for what Cerberus, LogOS and Kairos do together?
+- **Q5 — where Sophia went.** The 2026 sources absorb the others three different
+  ways (LogOS into Mnemosyne, or into the Erasure-Pol; Kairos latent, or into the
+  Erasure-Pol) and place Sophia nowhere.
+- **Q1 — the Guardians and AEGIS.** Three canon-era sources make the Guardians
+  components inside AEGIS' architecture. With five restored, is that still so?
+- **Q3 — correspondence.** Four Kern-Welten and thirteen Alters: does any world
+  belong to one Alter, or are the worlds act markers only?
+- **Q4 — `Wächter`.** The word names Guardians, AEGIS, Mnemosyne, Selene, a
+  chapter title and a registry. Is one of them *the* Wächter?
+- **Q2 — the eight protocols** (ANI, ARS, ECR, PMS, RSA, SNK, ZTV,
+  Nullpunkt-Protokoll) exist only as objects of one source's criticism. Are any of
+  them the novel's vocabulary?
+- **Mosaik-Herz — one thing or two?** A Kap-11 story beat (storyform-und-outline,
+  Kapitel-Kompendium, konsolidiertes Konzept) and a Kap-34 place where Kael accepts
+  Juna (konsolidiertes Konzept, „Kernwelten vollständig").
+- **The world names after C6.** With five Guardians restored, do Cerberus-Labyrinth
+  and Kairos-Potentialis name their Guardians again, or stay „mythologisch"
+  as „Kernwelten vollständig" proposes (its L946–L947)?
+- **The Ursprungs-Ich and Juna (J68).** The glossary glosses the separated
+  original self as Juna — „das Ursprungs-Ich (Juna)" — while its Genesis has the
+  Ursprungs-Ich resonate *with* Juna. The konsolidiertes Konzept writes the same
+  gloss. Is Juna the Ursprungs-Ich, or what it met?
+- **The final form's name.** Wir-AEGIS / Mosaik-AEGIS / Plurale Kohärenz / Das Wir
+  / namenlos — the konsolidiertes Konzept's own OQ-A (L1199). No page until it is
+  named.
+- **`kael-julia-bindung` (J13).** One document says `Kael-Julia-Bindung`, nine say
+  `Kael-Juna-Verbindung`. The Kapitel-Kompendium now states „Julia→Juna" as a rename
+  it applied to its quarry (L13). Should the page be renamed, and is the older
+  `Kael-Julia-Bindung` a term of its own or only the old name?
+- **Juna's names.** `juna.md` is titled by a name the first read sources do not
+  use, and `Partnerin` may be a third surface for her.
+
+### The process — the author's call, with the detail under *Open decisions*
+
+- **Model runs.** Three runs are one command each and wait on a yes, because
+  each sends corpus words to OpenRouter: `pairs.py run --optimizer labeled`,
+  `graphrag.py ask --answer`, `rlm_ingest.py`.
+- **TypeSafe/Jev beyond the two uses already approved.**
+- **How far `ask` may go** — chosen quotations only, or also a framing sentence
+  marked as the model's.
+- **A reviewed page and a new source that contradicts it** — needed before the
+  first promotion.
+- **The quote convention** — a quotation carries its reference in the same table
+  cell, or the checker learns tables. Until then those quotations stay unchecked.
+- **How much morphology `fold()` may claim** — plurals and inflections are its
+  systematic misses.
+- **`GOAL.md` against the working agreement** — the manuscript, NCP files and
+  claude.ai exports as sources; a conflict detector; the `kg/`/`kp` layout;
+  status tags and tiers on pages.
+
 ## Open decisions — these are judgement, not measurement
 
 **How far the yes to TypeSafe reaches.** On 2026-09-23 the author said yes twice.
@@ -32,6 +121,15 @@ its plan is
 `Plan/concept/tool-review-plan_2026-09-24.md`. The two replaced the question's examples because only they
 have a genuine reader's `03-candidates.md`; the decision file says why.
 
+**Three encodings of one rule.** „No corpus text leaves without the author's
+decision" is held by `lmrun.py` (`approval=`), by `rlm_ingest.py` (`--approval`,
+its own `dspy.LM`) and by `scripts/route.py` (the consent file of decision 006),
+while `bilingual.py` and `jev_entities.py` call out directly. They met in one
+merge and agree today; P6 says they will not stay agreed. Which one the others
+should call — and whether `route.py`'s record-and-replay or `lmrun`'s
+cache-off is the rule for a measured repeat (P18 either way) — is a decision,
+not a refactor.
+
 **Both Jev keys are present** in the environment (checked 2026-09-23, presence
 only). That removes the technical block and none of the permission one above. A key pasted in chat earlier in
 the session that installed this should be treated as spent and rotated.
@@ -52,7 +150,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-203 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+489 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -89,6 +187,97 @@ inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
 `AEGIS`/`Rest-AEGIS`. `fold()` strips the German definite article and does
 nothing else. **The next improvement is a rule, not a model**, and writing it is
 a decision about how much morphology a safe deterministic rule may claim.
+
+**Which model runs are allowed — the toolchain is built and has called no
+model.** On 2026-09-23 the author asked for the wiki to become a knowledge base
+and a knowledge graph for GraphRAG, and for everything usable from the nine DSPy
+repositories to be ported. It is (`CLAUDE.md`, *The knowledge graph* and
+*Calling a model*). Three runs are now one command each, and each sends corpus
+words to OpenRouter, so each waits on its own yes — `--approval` is required
+and refused when empty:
+
+- `pairs.py run --optimizer labeled` — the cheapest rung, on the residual
+  `fold()` leaves. Cost: the surface pairs and their rules, a few thousand tokens.
+- `graphrag.py ask "…" --answer` — a model picks evidence numbers. Cost: the
+  question and eight quotations per call.
+- `rlm_ingest.py <slug>` — a whole document. Needs Deno as well.
+
+**How far `ask` may go.** `graphrag.py` returns verified quotations and never
+prose, because prose over two sources is a merge (P13). Whether an answer should
+ever be more than chosen quotations — a framing sentence, a summary marked as
+the model's — is the author's to decide, and nothing builds it until then.
+
+**Where `GOAL.md` and this repository's rules disagree — the author's to settle
+before Phase 0 of the goal starts.** `GOAL.md` is now the project's general
+goal. Four places where it and the working agreement cannot both hold as
+written:
+
+- **The novel's sources — decided for Drive, open for the rest.** The author
+  said on 2026-09-23 that the sources are all in `Sources/`: the manifest
+  catalogues every Drive document, the canon-era ones included, so they land
+  through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
+  from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
+  2026-09-24 (see *Landed* below); seven are read — documents 7 to 13, below. Still open: the
+  manuscript and the NCP files, which are not Drive documents and sit only under
+  `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
+- **Conflict detection.** The goal wants a detector: deterministic comparison per
+  predicate, then model adjudication of candidates, with quotations. `CLAUDE.md`
+  says conflict detection is never mechanised, because a guesser reproduced the
+  `Zero-Trust` false conflict. The goal's deterministic half may fit P1; its
+  model half is the open question.
+- **Layout.** The goal specifies `kg/`, `wiki/`, `tools/kpkg/`, a `kp` CLI and
+  `SPEC.md`. This repository has `Sources/`, `Wiki/`, `scripts/` and two layers
+  (P20). `graph.py` and `graphrag.py` already cover part of `kg/` and `kp ask`.
+- **Status tags.** The goal's `[K] [V] [S] [L] [D] [M]` and tiers T0–T5 do not
+  exist on any page here; the wiki's pages carry readings attributed by source
+  and date. Whether they are added, and how they map, is a schema decision (P4:
+  no field without instances).
+
+## Handover — the next session starts here
+
+Run `python3 scripts/selftests.py` first; it builds nothing and says in one line
+per suite what holds. In a fresh container the DSPy suites report `not run`
+with the command that creates `.venv-dspy`.
+
+**Two handovers met here in one merge, and neither waits on the other.** The list
+below is the graph and retrieval work. The other is the **tool review** the author
+approved on 2026-09-24 — test every tool installed that day against documents 5
+and 6 through `scripts/route.py`, and review what the loop could use — in
+`Plan/concept/tool-review-plan_2026-09-24.md`, to be run straight through. It
+needs free models and Jev under decision 006; everything below needs no model.
+
+In order, and none of it needs a model:
+
+1. **More retrieval cases.** `graphrag.py bench` has
+   17 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   pages. The `## Open` sections (`relations.py --open`) are a second source;
+   write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
+   has why and the next four steps after it.
+2. **The morphology rule** — once its reach is decided (above), it is one entry
+   in `pairs.py`'s `RULES` and `pairs.py score --rule <name> --record` puts it on
+   the ledger against `fold()`'s floor.
+3. **qmd as a second seed source for `graphrag.py`**, measured on the bench
+   against folded seeding — the floor row is already in `Plan/runs/baselines.jsonl`.
+4. **Record routing failures** — each time an agent loaded the wrong skill or
+   none. Five to twenty of them are job 4's dataset; there are none, so it has
+   not started.
+5. **English retrieval cases, to measure the glosses.** `graphrag.py ask --gloss`
+   routes `Core Worlds` to `kern-welten` through a gloss the corpus writes, and
+   the bench cannot see it — every case names a German term. The four questions
+   asked in English, by hand, are the cheapest honest test.
+6. **The entity layer grows with the entity lists, not by itself.** Only lists
+   that verify as readings feed `graph.proposals()`, and only one unread
+   document has one. The full entity run (above, *Half-done*) is what makes
+   `graphrag.py`'s unread-document routes worth having.
+
+Two things the build found, fixed in place:
+
+- `Plan/trainsets/surface-pairs.jsonl` had gone stale — 17 rows against a
+  ledger that had grown. Re-exported; `pairs.py` reads the ledger live.
+- `graph.py`'s first pairing of quotations to citations disagreed with
+  `quotes.py` (14 unresolved against 4). The pairing moved into
+  `quotes.pairs` / `quotes.verdict` and both use it; `quotes.py`'s own numbers
+  did not change.
 
 ## Half-done — the entity lists
 
@@ -211,6 +400,120 @@ high tier into it is the next step, and it is a person's.
 
 ## Next document — not yet chosen
 
+**The thirteenth is done: `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-09-24.** 326 candidates, 7 new
+pages (the physics, and `hitze-polaritaetsregel` and `genesis` for C11 and C12),
+readings on 43 pages, twelve conflicts and three questions moved, J68. It ranks
+itself below the storyform document; recorded, not applied.
+`Wiki/compare/reconcile-14-kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md` has the record.
+
+**The twelfth is done: `dramatica-dual-storyform-status-2026-05-07-md`, 2026-09-24.** 206 candidates, no pages,
+readings on 16 pages. **C8 is explained**: this is the lock-in that mirrored the
+Approach, and the character bible's Be-er is its „vorher". C2, C11, C12 and Q1 also
+moved. `Wiki/compare/reconcile-13-dramatica-dual-storyform-status-2026-05-07-md.md` has the record.
+
+**The eleventh is done: `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-09-24.** 294 candidates, 7 new
+pages (places with a canonical chapter anchor), readings on 42 pages, eight
+conflicts and four questions moved, J64–J67.
+`Wiki/compare/reconcile-12-kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md` has the record.
+
+- **C7 may not be a conflict**: Kap 33's garden is Juna's effect, Kap 38 her
+  appearance. Put to the author.
+- **Two facilities joined by rule** (J64, J65): Therapie-Schnittstelle Gamma is
+  the page's Alpha, Datenverarbeitungsknoten Epsilon the page's 7G.
+- **Mosaik-Herz** is a Kap-11 beat and a Kap-34 place — a new question.
+
+**The tenth is done: `kapitel-kompendium-gather-2026-05-31-md`, 2026-09-24.** 277 candidates, no new pages
+(a gather places, it does not define), readings on 28 pages, ten conflicts and two
+questions moved, J63. `Wiki/compare/reconcile-11-kapitel-kompendium-gather-2026-05-31-md.md` has the record.
+
+- **It names its own filter**: „Michael→Kael · Julia→Juna · 20 Kernwelten / 5
+  Guardians → 4 KW, 2 Guardians" (L13). Two renames the wiki had inferred from
+  dates are now stated.
+- **C7's record was wrong** to call this document not in `Sources/`; corrected
+  there. It does not settle C7 — it places no direct appearance for Juna.
+- **C11** — its first Riss is „Landauer-Hitze/Ozon", and its date is the day after
+  the 2026-05-30 cold-ozone lock. Document 7's line for the same Riss is this
+  sentence with `Hitze` replaced.
+- **C12** — it holds both orders of the Genesis and counts a fourth beat.
+- **KW3 is also „Überwelt-Nexus"** (L165) while the Überwelt is outside the worlds
+  (L170) — a tension inside one document, recorded on the pages (J63).
+- **Every open record was read against it** (the new ingest step): five were
+  unchanged and are listed in `reconcile.json`.
+
+**The ninth is done: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-09-24.** 446 candidates, 2 new pages
+(`erason`, `persistenzgleichung`), readings on 45 pages, two new conflicts (C11,
+C12), and C5–C10 and Q5 moved. `Wiki/compare/reconcile-10-koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md` has the record.
+
+What it found:
+
+- **The two 2026-05-08 documents disagree with each other** — on C7 and C8 this
+  one sides with document 7, and on C12 with neither. No date can order them.
+- **C11 is a conflict document 7 had already recorded** against „an outline of
+  2026-05-08", quoted in this document's exact words. The wiki now holds both
+  sides.
+- **C5 got the source the list below asked for**: `Garten der Möglichkeiten` names
+  KW4 and `Möglichkeits-Garten` is a place inside it, in one document (L517,
+  L530). One source at two scales is a reading, so J35 holds (J61).
+- **Q5** — a third absorption: LogOS, Cerberus and Kairos into the Erasure-Pol.
+  Sophia is placed nowhere.
+- It claims to be „autoritative Spec" (L1395). Recorded, not applied.
+
+What it leaves: 26 canon-era rows landed and unread (after document 13). Its own open table
+(OQ-A … OQ-G, L1198–L1218) names what a later document would have to settle —
+the name of the plural AEGIS, Juna's modes, the mirror Alters' chapters.
+
+**The eighth is done: `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-09-24.** 302 candidates,
+16 new pages (the twelve Alters, `moonshine-link`, `telefon-stille`,
+`algorithmische-melancholie`, `cache-kohaerenz`), readings on 22 pages, and four
+new conflicts. `Wiki/compare/reconcile-09-kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md` has the record.
+
+**Discussion items it raises** — each a place where the two canon-era documents
+disagree. **Decision 006 (the author, 2026-09-24): every draft is back in
+question and must be discussed; `Sources/` is the new baseline.** So no date and
+no source's claim to be canon settles any of these; each is discussed with the
+author and closes when the author decides it:
+
+- **C6** — **decided by the author, 2026-09-24: five Guardians** (LogOS,
+  Mnemosyne, Cerberus, Kairos, Sophia). Their pairing with the Kern-Welten and
+  the Erasure-Pol are open in **Q5**.
+- **C7** — Juna's direct appearance: once, ca. Kap 33 (Charakter-Bibel), or
+  first in Kap 38 (storyform-und-outline)?
+- **C8** — AEGIS' Approach in Storyform B: Be-er or Do-er?
+- **C9** — **decided by the author, 2026-09-24: the Konstrukt-Stadt is KW1**
+  (a first answer, recorded as „the whole simulation", was corrected the same day).
+- **C10** — do Kael's knuckles bleed in Kap 1?
+
+What it leaves for the next document: the consolidated concept
+(`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, landed, unread) is the
+same date as the character bible and is named by document 7 as a source; it may
+speak to C7–C10.
+
+**The seventh is done: `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-09-24**, the first canon-era document and the
+one the author's goal names as normative. 388 candidates, 4 new pages
+(`coheron`, `nichts-rauschen`, `trennungsprotokoll`, `landauer-signatur`), readings
+on 17 pages, conflict **C6** (two Guardians against five, and „KEIN
+Guardian-1:1"), and Q1, Q3, Q4 and C5 moved. `Wiki/compare/reconcile-08-kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md`
+has the record, including the rule that kept 271 new terms from becoming pages.
+
+What it leaves for the next document:
+
+- **C6** wants a canon-era source relating the two Guardian arrangements. The
+  character bible (`kohaerenz-protokoll-charakter-bibel-2026-05-08-md`) and the
+  consolidated concept (`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`)
+  are landed and unread; the document names the concept as one of its sources.
+- **The 12 Alters** beside Kael have no pages, by the document's own statement
+  that its figures are „outline-relevante Kurzanker". The character bible is
+  where they would get readings.
+- **This document ranks its sources and resolves three conflicts among them
+  (§7)**, none of which the wiki can see yet: the sources it resolves between
+  are the Kapitel-Kompendium and the 2026-05-30 decision logs, which are not in
+  `Sources/` (the logs are claude.ai exports, `GOAL.md` Anhang C1).
+
+**Found while reconciling it, not caused by it:** `link.py` proposes 33 links on
+pages this document did not touch — pending on the branch before it was read.
+They were left alone so this document's commits change only what it caused; a
+link pass over them is a separate commit.
+
 The sixth is done. It was chosen because `kern-welten` asked for `KW2` or `KW4`
 and Q4 asked for `Wächter` in an analytic sentence, and it supplied both.
 
@@ -280,6 +583,18 @@ source document.
 
 ## Landed
 
+**The canon-era documents, 2026-09-24, on the author's yes.** `sources.py fetch
+--since 2026-05-01 --include-md` landed the 29 remaining rows dated May 2026 or
+later, none failing. 26 were `md`, which `fetch` skipped before: the two new flags
+are opt-in, and `md` takes the same text route that landed the four `md` rows on
+2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
+bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
+in another escaping — so 37 canon-era rows became 33, all landed. **Five are read**,
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`,
+`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, `dramatica-dual-storyform-status-2026-05-07-md`
+and `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, as documents 7 to 13 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
+documents) has not been compared against the landed files.
+
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe
 SDK and project skill (`.agents/skills/typesafe`), the Jev concept, the vendored
 `jev*` skills, `scripts/entities.py`, the entity pilot and the saved workflow.
@@ -287,5 +602,6 @@ Nothing from it is in flight; what it left open is under the headings above.
 
 ## Not open
 
-The novel. The `Legacy/` shelf. The 247 `plot-outline` rows, the 39 `md` and the
-one `mp3` — deferred by decision, not forgotten.
+The novel. The `Legacy/` shelf. The 242 unlanded rows, all dated before May 2026:
+231 `plot-outline`, 10 `md` in `storyform` and `kernkonzept`, and the one `mp3` —
+deferred by decision, not forgotten.
