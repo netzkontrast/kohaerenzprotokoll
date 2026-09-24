@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 8.2,
+ "content": "",
+ "response": {
+  "id": "gen-1790275850-T67XONNqpNENbOfGjakt",
+  "object": "chat.completion",
+  "created": 1790275850,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text carefully:\n\nThe text is about research examples of real complex systems (power grids, ecosystems) that show fragile stability or are vulnerable to sudden collapses. It includes a subplot idea about \"The perfect facade gets cracks\" where Kael visits an area known for perfect order and predictability, witnesses a localized collapse, and finds evidence of a larger cleanup operation.\n\nLet me identify entities with independent meaning:\n\n1. **KW1** - This appears to be a location/zone mentioned\n2. **AEGIS/Guardians** - This is an organization/entity that maintains stability\n3. **Kael** - This is a person (the main character)\n4. **power grids** - This is a type of system mentioned in the research examples\n5. **ecosystems** - This is another type of system mentioned in the research examples\n\nLet me check if there are any other entities:\n- \"Stromnetze\" (power grids) - already covered\n- \"Ökosysteme\" (ecosystems) - already covered\n- \"AEGIS\" - already covered\n- \"Guardians\" - part of AEGIS/Guardians\n- \"KW1\" - already covered\n- \"system\" - this is too generic\n- \"data streams\" - too generic\n- \"lights\" - too generic\n- \"automated systems\" - too generic\n- \"cleanup operation\" - too generic\n\nThe entities I identified have independent meaning and are meaningful for understanding the text content. They are not pure pronouns or generic terms.\n\nLet me format this properly using the DataSchemaSet function.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_qtgc6kngamd4",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"AEGIS/Guardians\", \"type\": \"organization\"}, {\"name\": \"KW1\", \"type\": \"location\"}, {\"name\": \"power grids\", \"type\": \"object\"}, {\"name\": \"ecosystems\", \"type\": \"object\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text carefully:\n\nThe text is about research examples of real complex systems (power grids, ecosystems) that show fragile stability or are vulnerable to sudden collapses. It includes a subplot idea about \"The perfect facade gets cracks\" where Kael visits an area known for perfect order and predictability, witnesses a localized collapse, and finds evidence of a larger cleanup operation.\n\nLet me identify entities with independent meaning:\n\n1. **KW1** - This appears to be a location/zone mentioned\n2. **AEGIS/Guardians** - This is an organization/entity that maintains stability\n3. **Kael** - This is a person (the main character)\n4. **power grids** - This is a type of system mentioned in the research examples\n5. **ecosystems** - This is another type of system mentioned in the research examples\n\nLet me check if there are any other entities:\n- \"Stromnetze\" (power grids) - already covered\n- \"Ökosysteme\" (ecosystems) - already covered\n- \"AEGIS\" - already covered\n- \"Guardians\" - part of AEGIS/Guardians\n- \"KW1\" - already covered\n- \"system\" - this is too generic\n- \"data streams\" - too generic\n- \"lights\" - too generic\n- \"automated systems\" - too generic\n- \"cleanup operation\" - too generic\n\nThe entities I identified have independent meaning and are meaningful for understanding the text content. They are not pure pronouns or generic terms.\n\nLet me format this properly using the DataSchemaSet function.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 497,
+   "completion_tokens": 398,
+   "total_tokens": 895,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 387,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

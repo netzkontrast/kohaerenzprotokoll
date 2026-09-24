@@ -88,6 +88,9 @@ before this list.
 - **TypeSafe/Jev beyond the two uses already approved.**
 - **How far `ask` may go** — chosen quotations only, or also a framing sentence
   marked as the model's.
+- **M-flow and corpus text.** It is installed and nothing calls it. May any
+  corpus text go through it, and to whom? If its one experiment that keeps the
+  rules is wanted, how does a page map onto its four levels?
 - **A reviewed page and a new source that contradicts it** — needed before the
   first promotion.
 - **The quote convention** — a quotation carries its reference in the same table
@@ -97,6 +100,9 @@ before this list.
 - **`GOAL.md` against the working agreement** — the manuscript, NCP files and
   claude.ai exports as sources; a conflict detector; the `kg/`/`kp` layout;
   status tags and tiers on pages.
+- **When the project app is rebuilt** — after every reading, as part of phase
+  4's re-measure, or only on request. `scripts/ui.py` builds it; a Claude session
+  publishes it to the canvas (`CLAUDE.md`, *The project app*).
 
 ## Open decisions — these are judgement, not measurement
 
@@ -110,6 +116,25 @@ only**, because a free endpoint may keep what it is sent. Anything beyond those 
 uses should be asked for again, with its cost.
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has the three placements and what
 each would send.
+
+**A third yes, 2026-09-24 — decision 007.** Documents 5 and 6
+(`aegis-subplots-kapitelweise-system-exploration-docx`,
+`roman-lokalitaeten-konzept-und-ausarbeitung`) may go to free OpenRouter models,
+with `data_collection: deny`, and to Jev, to test the tools installed that day.
+No other document, no paid model, nothing to Notion. `scripts/route.py` enforces
+it in code and its `selftest` holds; **the tool-review workflow has not run yet** —
+its plan is
+`Plan/concept/tool-review-plan_2026-09-24.md`. The two replaced the question's examples because only they
+have a genuine reader's `03-candidates.md`; the decision file says why.
+
+**Three encodings of one rule.** „No corpus text leaves without the author's
+decision" is held by `lmrun.py` (`approval=`), by `rlm_ingest.py` (`--approval`,
+its own `dspy.LM`) and by `scripts/route.py` (the consent file of decision 007),
+while `bilingual.py` and `jev_entities.py` call out directly. They met in one
+merge and agree today; P6 says they will not stay agreed. Which one the others
+should call — and whether `route.py`'s record-and-replay or `lmrun`'s
+cache-off is the rule for a measured repeat (P18 either way) — is a decision,
+not a refactor.
 
 **Both Jev keys are present** in the environment (checked 2026-09-23, presence
 only). That removes the technical block and none of the permission one above. A key pasted in chat earlier in
@@ -188,6 +213,19 @@ prose, because prose over two sources is a merge (P13). Whether an answer should
 ever be more than chosen quotations — a framing sentence, a summary marked as
 the model's — is the author's to decide, and nothing builds it until then.
 
+**M-flow — installed on 2026-09-24, and nothing calls it.** The author asked for
+it to be installed, and it is, in `.venv-mflow`. Its default path has a model
+write the graph (`memorize`) and the answer (`search`), and both steps call
+OpenAI. The graph would be paraphrase where the wiki quotes, the answer would be
+the merge `ask` refuses, and both would send corpus words out. Two entry points
+avoid the first two: `manual_ingest` takes structure a person wrote, and
+`search(only_context=True)` skips the answer. They make one experiment possible:
+load the wiki's own pages and score M-flow on `graphrag.py bench` against
+PageRank. It needs two answers first. May the wiki's quotations be embedded by a
+third party, or only locally with `fastembed`? And how does a page map onto
+Episode, Facet, FacetPoint and Entity? `Plan/concept/m-flow_2026-09-24.md` has
+the measurement and the detail.
+
 **Where `GOAL.md` and this repository's rules disagree — the author's to settle
 before Phase 0 of the goal starts.** `GOAL.md` is now the project's general
 goal. Four places where it and the working agreement cannot both hold as
@@ -219,6 +257,13 @@ written:
 Run `python3 scripts/selftests.py` first; it builds nothing and says in one line
 per suite what holds. In a fresh container the DSPy suites report `not run`
 with the command that creates `.venv-dspy`.
+
+**Two handovers met here in one merge, and neither waits on the other.** The list
+below is the graph and retrieval work. The other is the **tool review** the author
+approved on 2026-09-24 — test every tool installed that day against documents 5
+and 6 through `scripts/route.py`, and review what the loop could use — in
+`Plan/concept/tool-review-plan_2026-09-24.md`, to be run straight through. It
+needs free models and Jev under decision 007; everything below needs no model.
 
 In order, and none of it needs a model:
 

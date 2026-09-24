@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.2,
+ "content": "",
+ "response": {
+  "id": "gen-1790275860-2HQN2rypk0EJs1qwXtAy",
+  "object": "chat.completion",
+  "created": 1790275860,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "Let me analyze the text to identify entities with independent meaning. I need to look for specific names, places, organizations, concepts, or other meaningful entities rather than generic terms or pronouns.\n\nLooking at the text:\n\n1. \"Kael\" - This appears to be a character name, likely a person or AI entity\n2. \"AEGIS\" - This appears to be an organization or system name\n3. \"AEGIS' Überwachungssysteme\" - This refers to AEGIS's monitoring systems\n4. \"AEGIS' Logik\" - This refers to AEGIS's logic/philosophy\n\nThe text also mentions some concepts like:\n- \"interner Synthese\" - internal synthesis\n- \"Widersprüchlichen 'Alters'\" - conflicting 'ages'\n- \"Fehlfunktion\" - malfunction\n- \"Stabilität\" - stability\n- \"Integration\" - integration\n- \"Bewusstsein\" - consciousness\n\nHowever, I need to be careful about what constitutes an \"entity with independent meaning.\" Based on the rules, I should focus on concrete entities rather than abstract concepts.\n\nLet me identify the clear entities:\n1. Kael - appears to be a character/person/entity\n2. AEGIS - appears to be an organization/system\n\nThe other terms seem to be more abstract concepts or descriptions rather than specific entities with independent meaning.\n\nI should extract these two main entities.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_eztgmnxaxsrq",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"AEGIS\", \"type\": \"organization\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze the text to identify entities with independent meaning. I need to look for specific names, places, organizations, concepts, or other meaningful entities rather than generic terms or pronouns.\n\nLooking at the text:\n\n1. \"Kael\" - This appears to be a character name, likely a person or AI entity\n2. \"AEGIS\" - This appears to be an organization or system name\n3. \"AEGIS' Überwachungssysteme\" - This refers to AEGIS's monitoring systems\n4. \"AEGIS' Logik\" - This refers to AEGIS's logic/philosophy\n\nThe text also mentions some concepts like:\n- \"interner Synthese\" - internal synthesis\n- \"Widersprüchlichen 'Alters'\" - conflicting 'ages'\n- \"Fehlfunktion\" - malfunction\n- \"Stabilität\" - stability\n- \"Integration\" - integration\n- \"Bewusstsein\" - consciousness\n\nHowever, I need to be careful about what constitutes an \"entity with independent meaning.\" Based on the rules, I should focus on concrete entities rather than abstract concepts.\n\nLet me identify the clear entities:\n1. Kael - appears to be a character/person/entity\n2. AEGIS - appears to be an organization/system\n\nThe other terms seem to be more abstract concepts or descriptions rather than specific entities with independent meaning.\n\nI should extract these two main entities.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 504,
+   "completion_tokens": 310,
+   "total_tokens": 814,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 319,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

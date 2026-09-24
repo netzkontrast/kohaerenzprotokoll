@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.5,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character who breaks rendering to see underlying simulation structure\"\n}",
+ "response": {
+  "id": "gen-1790275929-NvRhvZUIMdbMdRF9nW1G",
+  "object": "chat.completion",
+  "created": 1790275929,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character who breaks rendering to see underlying simulation structure\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have same keys: name, type, description. The description differs. Need to combine information, pick more detailed or recent-looking value. Both descriptions are similar but different phrasing. Which is more detailed? \"The analyst who identifies and exploits system weaknesses\" vs \"Character who breaks rendering to see underlying simulation structure\". Both are descriptive. Could combine? But description is a single string field, not a list. We cannot combine two strings into one unless we pick one. Use best judgment to pick more detailed or recent-looking. Hard to say which is more recent. The incoming might be newer? Could be considered more detailed? The second description mentions \"breaks rendering to see underlying simulation structure\" which seems more specific. So choose that. Or maybe combine? But rule says if fields conflict, pick more detailed or recent-looking. So choose the more detailed: the second description. So final JSON will have name \"Kael\", type \"person\", description \"Character who breaks rendering to see underlying simulation structure\". Keep same format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have same keys: name, type, description. The description differs. Need to combine information, pick more detailed or recent-looking value. Both descriptions are similar but different phrasing. Which is more detailed? \"The analyst who identifies and exploits system weaknesses\" vs \"Character who breaks rendering to see underlying simulation structure\". Both are descriptive. Could combine? But description is a single string field, not a list. We cannot combine two strings into one unless we pick one. Use best judgment to pick more detailed or recent-looking. Hard to say which is more recent. The incoming might be newer? Could be considered more detailed? The second description mentions \"breaks rendering to see underlying simulation structure\" which seems more specific. So choose that. Or maybe combine? But rule says if fields conflict, pick more detailed or recent-looking. So choose the more detailed: the second description. So final JSON will have name \"Kael\", type \"person\", description \"Character who breaks rendering to see underlying simulation structure\". Keep same format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 195,
+   "completion_tokens": 248,
+   "total_tokens": 443,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 289,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

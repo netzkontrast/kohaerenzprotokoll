@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 8.1,
+ "content": "",
+ "response": {
+  "id": "gen-1790275413-Th4k3t1UktTi0v4vClv3",
+  "object": "chat.completion",
+  "created": 1790275413,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "Let me carefully extract a knowledge graph from this text about Behavioral AI, AEGIS, and anomaly detection.\n\nThe text contains several key concepts:\n1. Behavioral AI / Anomaly Detection (AEGIS)\n2. User and Entity Behavior Analytics (UEBA)\n3. Psychological models of dissociation (TSDP)\n4. Kael's behavior and coping mechanisms\n5. AEGIS's internal monitoring and classification\n\nI need to extract distinct entities/concepts and create meaningful relationships. The text is in English with some German context (AEGIS, Kael), so I should keep the terms as they are since they appear to be proper names.\n\nLet me identify the nodes:\n\n1. **AEGIS** - The AI system (Person? Organization? Or System? I think \"System\" or \"AI System\" would be appropriate)\n2. **Behavioral AI** - A concept/technique\n3. **Anomaly Detection** - A concept/technique\n4. **User and Entity Behavior Analytics (UEBA)** - A research technique\n5. **Dissociation (TSDP)** - Psychological model\n6. **Kael** - Character/person\n7. **Internal Withdrawal** - Coping mechanism/concept\n8. **Compartmentalization** - Coping mechanism/concept\n9. **Baseline** - Technical concept\n10. **Deviation** - Technical concept\n11. **Entropy Score** - System metric\n\nNow let me identify relationships:\n\n1. AEGIS observes Kael's behavior\n2. AEGIS establishes baseline for Kael's behavior\n3. AEGIS classifies internal states based on deviations from expected norms\n\n\n4. Behavioral AI uses anomaly detection techniques\n5. UEBA is a technique for detecting insider threats\n6. TSDP explains how external behavior can mask internal turmoil\n7. AEGIS might initially misinterpret Kael's state through this lens\n8. Narrative shifts to abstract representation of AEGIS monitoring\n9. AEGIS classifies Kael's coping mechanisms as non-critical deviations\n10. Data is logged and correlated in the diagnostic protocol\n\nI'll expand the relationships to provide more detailed connections between the AI system, research techniques, and Kael's behavioral monitoring. The graph reveals complex interactions between technological surveillance, psychological modeling, and individual behavior analysis.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "ExtractedKnowledgeGraph_dzfwwsp8a5n3",
+       "function": {
+        "name": "ExtractedKnowledgeGraph",
+        "arguments": "{\"nodes\": [{\"label\": \"AI System\", \"name\": \"AEGIS\", \"semantic_key\": \"ai-system_aegis\"}, {\"label\": \"Technique\", \"name\": \"Behavioral AI\", \"semantic_key\": \"technique_behavioral-ai\"}, {\"label\": \"Technique\", \"name\": \"Anomaly Detection\", \"semantic_key\": \"technique_anomaly-detection\"}, {\"label\": \"Research Technique\", \"name\": \"User and Entity Behavior Analytics (UEBA)\", \"semantic_key\": \"research-technique_ueba\"}, {\"label\": \"Psychological Model\", \"name\": \"Dissociation (TSDP)\", \"semantic_key\": \"psychological-model_dissociation\"}, {\"label\": \"Person\", \"name\": \"Kael\", \"semantic_key\": \"person_kael\"}, {\"label\": \"Coping Mechanism\", \"name\": \"Internal Withdrawal\", \"semantic_key\": \"coping-mechanism_internal-withdrawal\"}, {\"label\": \"Coping Mechanism\", \"name\": \"Compartmentalization\", \"semantic_key\": \"coping-mechanism_compartmentalization\"}, {\"label\": \"Concept\", \"name\": \"Baseline\", \"semantic_key\": \"concept_baseline\"}, {\"label\": \"Concept\", \"name\": \"Deviation\", \"semantic_key\": \"concept_deviation\"}, {\"label\": \"Metric\", \"name\": \"Entropy Score\", \"semantic_key\": \"metric_entropy-score\"}], \"relationships\": [{\"source\": \"AEGIS\", \"target\": \"Kael\", \"label\": \"beobachtet\", \"properties\": {}}, {\"source\": \"AEGIS\", \"target\": \"Baseline\", \"label\": \"etabliert\", \"properties\": {}}, {\"source\": \"AEGIS\", \"target\": \"Deviation\", \"label\": \"klassifiziert\", \"properties\": {}}, {\"source\": \"Behavioral AI\", \"target\": \"Anomaly Detection\", \"label\": \"verwendet\", \"properties\": {}}, {\"source\": \"User and Entity Behavior Analytics (UEBA)\", \"target\": \"Insider Threat Detection\", \"label\": \"erkennt\", \"properties\": {}}, {\"source\": \"Dissociation (TSDP)\", \"target\": \"Kael\", \"label\": \"könnte AEGIS falsch interpretieren\", \"properties\": {}}, {\"source\": \"AEGIS\", \"target\": \"Internal Withdrawal\", \"label\": \"klassifiziert\", \"properties\": {\"category\": \"nicht-kritische Abweichung\"}}, {\"source\": \"AEGIS\", \"target\": \"Compartmentalization\", \"label\": \"klassifiziert\", \"properties\": {\"category\": \"unterschwelliges emotionales Rauschen\"}}, {\"source\": \"AEGIS\", \"target\": \"Entropy Score\", \"label\": \"weist zu\", \"properties\": {\"value\": \"niedrig\"}}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me carefully extract a knowledge graph from this text about Behavioral AI, AEGIS, and anomaly detection.\n\nThe text contains several key concepts:\n1. Behavioral AI / Anomaly Detection (AEGIS)\n2. User and Entity Behavior Analytics (UEBA)\n3. Psychological models of dissociation (TSDP)\n4. Kael's behavior and coping mechanisms\n5. AEGIS's internal monitoring and classification\n\nI need to extract distinct entities/concepts and create meaningful relationships. The text is in English with some German context (AEGIS, Kael), so I should keep the terms as they are since they appear to be proper names.\n\nLet me identify the nodes:\n\n1. **AEGIS** - The AI system (Person? Organization? Or System? I think \"System\" or \"AI System\" would be appropriate)\n2. **Behavioral AI** - A concept/technique\n3. **Anomaly Detection** - A concept/technique\n4. **User and Entity Behavior Analytics (UEBA)** - A research technique\n5. **Dissociation (TSDP)** - Psychological model\n6. **Kael** - Character/person\n7. **Internal Withdrawal** - Coping mechanism/concept\n8. **Compartmentalization** - Coping mechanism/concept\n9. **Baseline** - Technical concept\n10. **Deviation** - Technical concept\n11. **Entropy Score** - System metric\n\nNow let me identify relationships:\n\n1. AEGIS observes Kael's behavior\n2. AEGIS establishes baseline for Kael's behavior\n3. AEGIS classifies internal states based on deviations from expected norms\n\n\n4. Behavioral AI uses anomaly detection techniques\n5. UEBA is a technique for detecting insider threats\n6. TSDP explains how external behavior can mask internal turmoil\n7. AEGIS might initially misinterpret Kael's state through this lens\n8. Narrative shifts to abstract representation of AEGIS monitoring\n9. AEGIS classifies Kael's coping mechanisms as non-critical deviations\n10. Data is logged and correlated in the diagnostic protocol\n\nI'll expand the relationships to provide more detailed connections between the AI system, research techniques, and Kael's behavioral monitoring. The graph reveals complex interactions between technological surveillance, psychological modeling, and individual behavior analysis.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1688,
+   "completion_tokens": 893,
+   "total_tokens": 2581,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 542,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

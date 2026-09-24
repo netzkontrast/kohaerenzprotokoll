@@ -14,12 +14,20 @@ that creates it, and the exit status says so.
 
 from __future__ import annotations
 
+import shutil
 import subprocess
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 VENV = ROOT / ".venv-dspy" / "bin" / "python"
+# kind -> (interpreter, or None for this one; what must exist; how to reach it)
+KINDS = {
+    "dspy": (VENV, VENV, ".venv-dspy absent — scripts/install.sh dspy"),
+    "typesafe": (ROOT / ".venv-typesafe" / "bin" / "python", ROOT / ".venv-typesafe" / "bin" / "python",
+                 ".venv-typesafe absent — scripts/install.sh typesafe"),
+    "he": (None, "he", "Hyper-Extract absent — scripts/install.sh hyperextract"),
+}
 
 # (name, interpreter, arguments). "dspy" means .venv-dspy.
 SUITES = [
@@ -30,8 +38,12 @@ SUITES = [
     ("baseline ledger", "std", ["scripts/baseline.py", "selftest"]),
     ("graph", "std", ["scripts/graph.py", "--selftest"]),
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
+    ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
+    ("route: price, consent, record", "typesafe", ["scripts/route.py", "selftest"]),
+    ("templates: checks fail", "he", ["scripts/templates.py", "selftest"]),
+    ("templates, live", "he", ["scripts/templates.py", "check"]),
     ("dspy surface", "dspy", ["scripts/check_dspy_surface.py"]),
     ("dspy skill, selftest", "dspy", ["scripts/check_dspy_skill.py", "--selftest"]),
     ("dspy skill, live", "dspy", ["scripts/check_dspy_skill.py"]),
@@ -46,12 +58,13 @@ SUITES = [
 def main() -> int:
     held = failed = unrun = 0
     for name, kind, args in SUITES:
-        if kind == "dspy" and not VENV.exists():
-            print(f"  not run  {name:<26} .venv-dspy absent — uv venv --python 3.11 .venv-dspy && "
-                  "uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'")
+        interpreter, needs, remedy = KINDS.get(kind, (None, None, ""))
+        present = needs is None or (shutil.which(needs) if isinstance(needs, str) else needs.exists())
+        if not present:
+            print(f"  not run  {name:<26} {remedy}")
             unrun += 1
             continue
-        python = str(VENV) if kind == "dspy" else sys.executable
+        python = str(interpreter) if interpreter else sys.executable
         proc = subprocess.run([python, *args], cwd=ROOT, capture_output=True, text=True, timeout=900)
         last = (proc.stdout.strip().splitlines() or proc.stderr.strip().splitlines() or ["(no output)"])[-1]
         if proc.returncode == 0:

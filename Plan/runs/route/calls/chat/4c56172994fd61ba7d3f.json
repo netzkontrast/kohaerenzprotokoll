@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.9,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"A character who observes and interacts with AEGIS, attempting to understand its nature\"\n}",
+ "response": {
+  "id": "gen-1790275972-6h7Cqd9Gpj2yzaw53kYU",
+  "object": "chat.completion",
+  "created": 1790275972,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"A character who observes and interacts with AEGIS, attempting to understand its nature\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have name, type, description. The description conflicts. Need to pick more detailed or recent-looking value. Both are similar length. Which is more detailed? Item A: \"The character who interacts with the Guardians and presents them with conflicting situations\". Item B: \"A character who observes and interacts with AEGIS, attempting to understand its nature\". Both are similar. Could combine? But description is a single string field, not a list. We cannot combine descriptions; we need to pick one. Use best judgment: maybe pick the more recent-looking? Hard to know. Could choose the one that includes more specifics: Item B mentions AEGIS, which is a specific organization, maybe more detailed. So choose Item B's description. Also ensure other fields same. So merged object same as both but description from B.\n\nReturn JSON exactly as input items format (no extra fields). So output:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"A character who observes and interacts with AEGIS, attempting to understand its nature\"\n}\n\nThat's it.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have name, type, description. The description conflicts. Need to pick more detailed or recent-looking value. Both are similar length. Which is more detailed? Item A: \"The character who interacts with the Guardians and presents them with conflicting situations\". Item B: \"A character who observes and interacts with AEGIS, attempting to understand its nature\". Both are similar. Could combine? But description is a single string field, not a list. We cannot combine descriptions; we need to pick one. Use best judgment: maybe pick the more recent-looking? Hard to know. Could choose the one that includes more specifics: Item B mentions AEGIS, which is a specific organization, maybe more detailed. So choose Item B's description. Also ensure other fields same. So merged object same as both but description from B.\n\nReturn JSON exactly as input items format (no extra fields). So output:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"A character who observes and interacts with AEGIS, attempting to understand its nature\"\n}\n\nThat's it.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 206,
+   "completion_tokens": 268,
+   "total_tokens": 474,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 281,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

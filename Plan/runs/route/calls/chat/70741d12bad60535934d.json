@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 8.5,
+ "content": "",
+ "response": {
+  "id": "gen-1790275476-MvptEAYjvfDZ5Vzyk0L1",
+  "object": "chat.completion",
+  "created": 1790275476,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "I need to analyze the provided text to extract a knowledge graph. The text is quite complex and technical, discussing concepts related to AEGIS (behavioral AI), anomaly detection, UEBA, dissociation, and a subplot about monitoring processes.\n\nLet me break down the key elements:\n\n1. **Main Concept**: \"Behavioral AI / Anomaly Detection.5\" - AEGIS monitors Kael's behavior, establishes a baseline, and classifies internal states based on deviations from expected norms, possibly using predictive models to anticipate future instability.\n\n2. **Research Topics**:\n   - UEBA techniques for detecting insider threats or anomalous user states\n   - Psychological models of dissociation (TSDP) and how outer behavior can mask inner turmoil\n\n3. **Subplot**: The narrative shifts to an abstract representation of AEGIS's monitoring process, tracking Kael's coping mechanisms as data points.\n\nKey entities and relationships:\n- AEGIS (AI system)\n- Kael (person)\n- Behavioral AI / Anomaly Detection (concept)\n- User and Entity Behavior Analytics (UEBA) (technique)\n- Baseline (technical concept)\n- Internal states (concept)\n- Psychological models (concept)\n- Dissociation (psychological concept)\n\nLet me now create a compact knowledge graph with at most 5 relationships, making sure to include all referenced nodes:\n\n1. AEGIS (Organization/Technology - AI system)\n2. Kael (Person - character being monitored)\n3. Behavioral AI / Anomaly Detection (Concept)\n4. User and Entity Behavior Analytics (UEBA) (Technique/Concept)\n5. Psychological Models (Concept)\n\nRelationships:\n1. AEGIS implements Behavioral AI / Anomaly Detection\n2. AEGIS monitors Kael\n3. Behavioral AI / Anomaly Detection uses UEBA techniques\n4. Psychological Models help understand behavioral anomalies\n5. UEBA establishes baselines for monitoring\n\nLet me now format this according to the requirements with German labels and names where appropriate.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "ExtractedKnowledgeGraph_0e2jnecxaknh",
+       "function": {
+        "name": "ExtractedKnowledgeGraph",
+        "arguments": "{\"nodes\": [{\"label\": \"Konzept\", \"name\": \"Verhaltensbasierte KI / Anomalieerkennung\", \"semantic_key\": \"concept_behavioral-ai-anomaly-detection\"}, {\"label\": \"Organisation\", \"name\": \"AEGIS\", \"semantic_key\": \"organization_aegis\"}, {\"label\": \"Person\", \"name\": \"Kael\", \"semantic_key\": \"person_kael\"}, {\"label\": \"Konzept\", \"name\": \"User and Entity Behavior Analytics (UEBA)\", \"semantic_key\": \"concept_ueba\"}, {\"label\": \"Konzept\", \"name\": \"Psychologische Modelle der Dissoziation\", \"semantic_key\": \"concept_psychological-dissociation\"}], \"relationships\": [{\"source\": \"AEGIS\", \"target\": \"Verhaltensbasierte KI / Anomalieerkennung\", \"label\": \"implementiert\", \"properties\": {}}, {\"source\": \"AEGIS\", \"target\": \"Kael\", \"label\": \"überwacht\", \"properties\": {}}, {\"source\": \"Verhaltensbasierte KI / Anomalieerkennung\", \"target\": \"User and Entity Behavior Analytics (UEBA)\", \"label\": \"verwendet\", \"properties\": {}}, {\"source\": \"Psychologische Modelle der Dissoziation\", \"target\": \"Dissoziation\", \"label\": \"erklärt\", \"properties\": {}}, {\"source\": \"User and Entity Behavior Analytics (UEBA)\", \"target\": \"Kael\", \"label\": \"anwendet auf\", \"properties\": {}}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I need to analyze the provided text to extract a knowledge graph. The text is quite complex and technical, discussing concepts related to AEGIS (behavioral AI), anomaly detection, UEBA, dissociation, and a subplot about monitoring processes.\n\nLet me break down the key elements:\n\n1. **Main Concept**: \"Behavioral AI / Anomaly Detection.5\" - AEGIS monitors Kael's behavior, establishes a baseline, and classifies internal states based on deviations from expected norms, possibly using predictive models to anticipate future instability.\n\n2. **Research Topics**:\n   - UEBA techniques for detecting insider threats or anomalous user states\n   - Psychological models of dissociation (TSDP) and how outer behavior can mask inner turmoil\n\n3. **Subplot**: The narrative shifts to an abstract representation of AEGIS's monitoring process, tracking Kael's coping mechanisms as data points.\n\nKey entities and relationships:\n- AEGIS (AI system)\n- Kael (person)\n- Behavioral AI / Anomaly Detection (concept)\n- User and Entity Behavior Analytics (UEBA) (technique)\n- Baseline (technical concept)\n- Internal states (concept)\n- Psychological models (concept)\n- Dissociation (psychological concept)\n\nLet me now create a compact knowledge graph with at most 5 relationships, making sure to include all referenced nodes:\n\n1. AEGIS (Organization/Technology - AI system)\n2. Kael (Person - character being monitored)\n3. Behavioral AI / Anomaly Detection (Concept)\n4. User and Entity Behavior Analytics (UEBA) (Technique/Concept)\n5. Psychological Models (Concept)\n\nRelationships:\n1. AEGIS implements Behavioral AI / Anomaly Detection\n2. AEGIS monitors Kael\n3. Behavioral AI / Anomaly Detection uses UEBA techniques\n4. Psychological Models help understand behavioral anomalies\n5. UEBA establishes baselines for monitoring\n\nLet me now format this according to the requirements with German labels and names where appropriate.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1688,
+   "completion_tokens": 641,
+   "total_tokens": 2329,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 485,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

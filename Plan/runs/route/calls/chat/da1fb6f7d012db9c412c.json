@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.2,
+ "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"A dynamic and learning opponent system in what appears to be a game or security context\"\n}",
+ "response": {
+  "id": "gen-1790275923-M6O9I5zqhaxRfugKJz1J",
+  "object": "chat.completion",
+  "created": 1790275923,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"A dynamic and learning opponent system in what appears to be a game or security context\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have same name, type, description. Need to combine information. If fields conflict, pick more detailed or recent-looking value. Both descriptions differ. Which is more detailed? Item A: \"A dynamic and learning opponent system in what appears to be a game or security context\". Item B: \"The directive system or organization that Guardians are designed to serve\". Both are somewhat different. Which is more detailed? Hard to say. Could combine? But rule 5: Do not invent new information not present in the inputs. So we cannot create a combined description that merges both. We need to pick one. Use best judgment to pick more detailed or recent-looking value. Both are similar length. Maybe pick the one that seems more comprehensive? Item A mentions \"dynamic and learning opponent system in what appears to be a game or security context\". That seems more descriptive. Item B is shorter. So choose Item A's description. Also ensure fields are same. So output JSON with name, type, description (from A). No extra fields. Return exact JSON format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have same name, type, description. Need to combine information. If fields conflict, pick more detailed or recent-looking value. Both descriptions differ. Which is more detailed? Item A: \"A dynamic and learning opponent system in what appears to be a game or security context\". Item B: \"The directive system or organization that Guardians are designed to serve\". Both are somewhat different. Which is more detailed? Hard to say. Could combine? But rule 5: Do not invent new information not present in the inputs. So we cannot create a combined description that merges both. We need to pick one. Use best judgment to pick more detailed or recent-looking value. Both are similar length. Maybe pick the one that seems more comprehensive? Item A mentions \"dynamic and learning opponent system in what appears to be a game or security context\". That seems more descriptive. Item B is shorter. So choose Item A's description. Also ensure fields are same. So output JSON with name, type, description (from A). No extra fields. Return exact JSON format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 207,
+   "completion_tokens": 263,
+   "total_tokens": 470,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 278,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

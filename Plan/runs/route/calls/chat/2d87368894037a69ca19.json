@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 5.5,
+ "content": "{\n  \"name\": \"LogOS\",\n  \"type\": \"organization\",\n  \"description\": \"Character or entity involved in subplot idea to be outsmarted\"\n}",
+ "response": {
+  "id": "gen-1790275935-zHnmoKZmWe2MZlpWVZG2",
+  "object": "chat.completion",
+  "created": 1790275935,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"LogOS\",\n  \"type\": \"organization\",\n  \"description\": \"Character or entity involved in subplot idea to be outsmarted\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name \"LogOS\", type \"person\", description \"Character or entity involved in subplot idea to be outsmarted\". Item B: name \"LogOS\", type \"organization\", description null.\n\nWe need to combine info. Fields conflict: type differs (person vs organization). Need to pick more detailed or recent-looking value. Both are simple. Which is more detailed? Possibly \"person\" is more specific? Or \"organization\" maybe more recent? Hard to say. Could consider that description is present in A, null in B, so keep description from A. For type conflict, we need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are single words. Could consider that \"organization\" might be more recent? Not sure. Could also consider that \"person\" is more specific? But both are categories. Maybe we can combine? But we cannot invent new info. We need to pick one. I'd choose \"organization\" because maybe the incoming data is newer? Or we could keep \"person\"? The instruction says \"more detailed or recent-looking\". Both are equally detailed. Could consider that \"organization\" might be more recent because it's in incoming? But we don't know. I'd pick \"organization\" as it's the incoming data, maybe more recent. So final type = \"organization\". Name stays same. Description from A.\n\nThus merged JSON:\n\n{\n  \"name\": \"LogOS\",\n  \"type\": \"organization\",\n  \"description\": \"Character or entity involved in subplot idea to be outsmarted\"\n}\n\nReturn exactly that JSON.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name \"LogOS\", type \"person\", description \"Character or entity involved in subplot idea to be outsmarted\". Item B: name \"LogOS\", type \"organization\", description null.\n\nWe need to combine info. Fields conflict: type differs (person vs organization). Need to pick more detailed or recent-looking value. Both are simple. Which is more detailed? Possibly \"person\" is more specific? Or \"organization\" maybe more recent? Hard to say. Could consider that description is present in A, null in B, so keep description from A. For type conflict, we need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are single words. Could consider that \"organization\" might be more recent? Not sure. Could also consider that \"person\" is more specific? But both are categories. Maybe we can combine? But we cannot invent new info. We need to pick one. I'd choose \"organization\" because maybe the incoming data is newer? Or we could keep \"person\"? The instruction says \"more detailed or recent-looking\". Both are equally detailed. Could consider that \"organization\" might be more recent because it's in incoming? But we don't know. I'd pick \"organization\" as it's the incoming data, maybe more recent. So final type = \"organization\". Name stays same. Description from A.\n\nThus merged JSON:\n\n{\n  \"name\": \"LogOS\",\n  \"type\": \"organization\",\n  \"description\": \"Character or entity involved in subplot idea to be outsmarted\"\n}\n\nReturn exactly that JSON.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 190,
+   "completion_tokens": 376,
+   "total_tokens": 566,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 396,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

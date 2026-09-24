@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.4,
+ "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"The main system/organization that assesses connections (internal/external) as threats to its control and ordered isolation\"\n}",
+ "response": {
+  "id": "gen-1790275921-jOQojbg0fP6SPN4CYjzN",
+  "object": "chat.completion",
+  "created": 1790275921,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"The main system/organization that assesses connections (internal/external) as threats to its control and ordered isolation\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A existing, Item B incoming. Merge strategy: combine info, conflict resolution: pick more detailed or recent-looking value. If one has null/missing and other has data, keep data. For list fields combine unique elements. No inventing new info. Return result in exact JSON format of input items.\n\nWe have fields: name, type, description. Both have same name and type. Description: Item A has null, Item B has a string. So we keep the data from B. So merged object should have name \"AEGIS\", type \"organization\", description as B's description.\n\nReturn JSON exactly as input items format: likely same ordering? Input items have name, type, description. So output should be:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"The main system/organization that assesses connections (internal/external) as threats to its control and ordered isolation\"\n}\n\nMake sure no extra fields. Return as JSON.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A existing, Item B incoming. Merge strategy: combine info, conflict resolution: pick more detailed or recent-looking value. If one has null/missing and other has data, keep data. For list fields combine unique elements. No inventing new info. Return result in exact JSON format of input items.\n\nWe have fields: name, type, description. Both have same name and type. Description: Item A has null, Item B has a string. So we keep the data from B. So merged object should have name \"AEGIS\", type \"organization\", description as B's description.\n\nReturn JSON exactly as input items format: likely same ordering? Input items have name, type, description. So output should be:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"The main system/organization that assesses connections (internal/external) as threats to its control and ordered isolation\"\n}\n\nMake sure no extra fields. Return as JSON.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 199,
+   "completion_tokens": 252,
+   "total_tokens": 451,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 246,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

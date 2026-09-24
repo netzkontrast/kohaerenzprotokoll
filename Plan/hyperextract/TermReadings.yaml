@@ -1,0 +1,45 @@
+# TermReadings — the passages where one document says something about a term.
+#
+# provisional — first design, 2026-09-24; never run on the corpus
+# derived from: the notes (Sources/notes/<slug>.md), which quote each reading with its line
+# measured against: the lines the note for the same document cites. A quote is placed by
+#   read.py --find (P26), never by the model; a quote it refuses is reported, not repaired.
+# may not: write a note, a reading or a page; merge readings — it is a list and never merges
+#   (P13); or settle a stance for the record — stance is read per passage by a person
+#   (decision 004), so the model's label only orders what a person reads first
+# retire when: for two documents its quotes land on none of the note's cited lines
+language: en
+name: TermReadings
+type: list
+tags: [readings, quotes, german]
+description: 'Passages in one German research document that say something about a term, each copied verbatim.'
+
+output:
+  description: 'One record per passage that defines, characterises, questions or qualifies a term.'
+  fields:
+    - name: term
+      type: str
+      description: 'The term the passage is about, as the document writes it.'
+      required: true
+    - name: quote
+      type: str
+      description: 'The passage, copied verbatim; one to three sentences.'
+      required: true
+    - name: stance
+      type: str
+      description: 'asserts: states it as so. hedges: qualifies it as possible, likely or provisional. asks: poses it as a question. cites: reports what an outside source says.'
+      required: true
+
+guideline:
+  target: 'You read one German research document and collect, verbatim, the passages that say something about its terms, so that a person can read them side by side.'
+  rules:
+    - 'Copy each passage character for character; never paraphrase it, shorten it inside a sentence, or translate it.'
+    - 'A passage that defines or characterises a term counts; one that only mentions it does not.'
+    - 'Keep every passage as its own record, even when two say the same thing or contradict each other.'
+    - 'Judge the stance from the passage alone, never from what the document says elsewhere about the same term.'
+
+options:
+  fields_for_search: [term, quote]
+
+display:
+  label: '{term}: {stance}'

@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 3.3,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"character\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system.\"\n}",
+ "response": {
+  "id": "gen-1790275979-t3Af5d4kqVBXoPURZbci",
+  "object": "chat.completion",
+  "created": 1790275979,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"character\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system.\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have name \"Kael\". Fields: name, type, description.\n\nWe need to combine info. If fields conflict, pick more detailed or recent-looking value. Here type differs: \"character\" vs \"person\". Which is more detailed? Both are simple. Could consider \"person\" maybe more specific? Or \"character\" is a type of entity. Hard to decide. Could maybe combine? But rule says if conflict, pick more detailed or recent-looking. Both are single words. Could maybe choose \"person\" as more specific? Or \"character\" is also a type. Could maybe keep both? But fields are singular. Probably choose \"person\" as it's more specific? Or maybe \"character\" is more detailed? The description also differs. We need to combine descriptions? Possibly merge them? The description fields are strings. Could combine them? The rule says combine information from both items. For description, we could combine them into a single description that includes both perspectives. But rule 5: Do not invent new information not present in the inputs. Combining descriptions is not inventing new info, just merging. So we can produce a description that includes both statements. Could be something like: \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system.\" That merges both.\n\nFor type conflict, we need to pick one. Could maybe choose \"person\" as more specific? Or maybe \"character\" is more detailed? The description mentions \"character who deliberately performs actions...\" So type \"character\" aligns with description. But also \"person\" is generic. I'd pick \"character\" because description mentions \"character\". So keep type \"character\". That seems consistent.\n\nThus final JSON:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"character\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system.\"\n}\n\nMake sure JSON format exactly as input items (no extra fields). Return that.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have name \"Kael\". Fields: name, type, description.\n\nWe need to combine info. If fields conflict, pick more detailed or recent-looking value. Here type differs: \"character\" vs \"person\". Which is more detailed? Both are simple. Could consider \"person\" maybe more specific? Or \"character\" is a type of entity. Hard to decide. Could maybe combine? But rule says if conflict, pick more detailed or recent-looking. Both are single words. Could maybe choose \"person\" as more specific? Or \"character\" is also a type. Could maybe keep both? But fields are singular. Probably choose \"person\" as it's more specific? Or maybe \"character\" is more detailed? The description also differs. We need to combine descriptions? Possibly merge them? The description fields are strings. Could combine them? The rule says combine information from both items. For description, we could combine them into a single description that includes both perspectives. But rule 5: Do not invent new information not present in the inputs. Combining descriptions is not inventing new info, just merging. So we can produce a description that includes both statements. Could be something like: \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system.\" That merges both.\n\nFor type conflict, we need to pick one. Could maybe choose \"person\" as more specific? Or maybe \"character\" is more detailed? The description mentions \"character who deliberately performs actions...\" So type \"character\" aligns with description. But also \"person\" is generic. I'd pick \"character\" because description mentions \"character\". So keep type \"character\". That seems consistent.\n\nThus final JSON:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"character\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening. Character who deliberately performs actions to be monitored by AEGIS and investigates the surveillance system.\"\n}\n\nMake sure JSON format exactly as input items (no extra fields). Return that.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 214,
+   "completion_tokens": 510,
+   "total_tokens": 724,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 568,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

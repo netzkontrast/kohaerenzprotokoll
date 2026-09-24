@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "hyper-extract": {
+      "type": "stdio",
+      "command": "he-mcp",
+      "args": []
+    }
+  }
+}

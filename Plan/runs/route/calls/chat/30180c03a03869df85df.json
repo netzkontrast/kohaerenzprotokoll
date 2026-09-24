@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 12.7,
+ "content": "{\n  \"nodes\": [\n    {\n      \"label\": \"Organization\",\n      \"name\": \"AEGIS\",\n      \"semantic_key\": \"organization_aegis\",\n      \"properties\": {\n        \"Funktion\": \"Entropiemanagement\"\n      }\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"Shannon-Informationsentropie\",\n      \"semantic_key\": \"concept_shannon-information-entropy\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"thermodynamische Entropie\",\n      \"semantic_key\": \"concept_thermodynamic-entropy\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Person\",\n      \"name\": \"Kael\",\n      \"semantic_key\": \"person_kael\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"EP-Intrusion\",\n      \"semantic_key\": \"concept_ep-intrusion\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Organization\",\n      \"name\": \"Systemmonitor\",\n      \"semantic_key\": \"organization_system-monitor\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"Datenkorruption\",\n      \"semantic_key\": \"concept_data-corruption\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"Hochentropie-Warnungen\",\n      \"semantic_key\": \"concept_high-entropy-warnings\",\n      \"properties\": {}\n    }\n  ],\n  \"relationships\": [\n    {\n      \"source\": \"AEGIS\",\n      \"target\": \"Entropiemanagement\",\n      \"label\": \"implementiert\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Shannon-Informationsentropie\",\n      \"target\": \"thermodynamische Entropie\",\n      \"label\": \"verknüpft_mit\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Informationverlust\",\n      \"target\": \"thermodynamische Entropie\",\n      \"label\": \"entspricht\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Kael\",\n      \"target\": \"EP-Intrusion\",\n      \"label\": \"erfährt\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Kael\",\n      \"target\": \"Systeminstabilität\",\n      \"label\": \"löst_aus\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Systemmonitor\",\n      \"target\": \"Datenkorruption\",\n      \"label\": \"zeigt_an\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Systemmonitor\",\n      \"target\": \"Hochentropie-Warnungen\",\n      \"label\": \"zeigt_an\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Kael\",\n      \"target\": \"Systeminstabilität\",\n      \"label\": \"verursacht_perturbation\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"AEGIS\",\n      \"target\": \"Kael\",\n      \"label\": \"klassifiziert_psychological_komplexität_als\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Kael\",\n      \"target\": \"Datenkorruption\",\n      \"label\": \"markiert_als\",\n      \"properties\": {}\n    }\n  ]\n}",
+ "response": {
+  "id": "gen-1790275424-fdTXL9fCQFotK8iAQZBT",
+  "object": "chat.completion",
+  "created": 1790275424,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"nodes\": [\n    {\n      \"label\": \"Organization\",\n      \"name\": \"AEGIS\",\n      \"semantic_key\": \"organization_aegis\",\n      \"properties\": {\n        \"Funktion\": \"Entropiemanagement\"\n      }\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"Shannon-Informationsentropie\",\n      \"semantic_key\": \"concept_shannon-information-entropy\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"thermodynamische Entropie\",\n      \"semantic_key\": \"concept_thermodynamic-entropy\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Person\",\n      \"name\": \"Kael\",\n      \"semantic_key\": \"person_kael\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"EP-Intrusion\",\n      \"semantic_key\": \"concept_ep-intrusion\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Organization\",\n      \"name\": \"Systemmonitor\",\n      \"semantic_key\": \"organization_system-monitor\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"Datenkorruption\",\n      \"semantic_key\": \"concept_data-corruption\",\n      \"properties\": {}\n    },\n    {\n      \"label\": \"Concept\",\n      \"name\": \"Hochentropie-Warnungen\",\n      \"semantic_key\": \"concept_high-entropy-warnings\",\n      \"properties\": {}\n    }\n  ],\n  \"relationships\": [\n    {\n      \"source\": \"AEGIS\",\n      \"target\": \"Entropiemanagement\",\n      \"label\": \"implementiert\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Shannon-Informationsentropie\",\n      \"target\": \"thermodynamische Entropie\",\n      \"label\": \"verknüpft_mit\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Informationverlust\",\n      \"target\": \"thermodynamische Entropie\",\n      \"label\": \"entspricht\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Kael\",\n      \"target\": \"EP-Intrusion\",\n      \"label\": \"erfährt\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Kael\",\n      \"target\": \"Systeminstabilität\",\n      \"label\": \"löst_aus\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Systemmonitor\",\n      \"target\": \"Datenkorruption\",\n      \"label\": \"zeigt_an\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Systemmonitor\",\n      \"target\": \"Hochentropie-Warnungen\",\n      \"label\": \"zeigt_an\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Kael\",\n      \"target\": \"Systeminstabilität\",\n      \"label\": \"verursacht_perturbation\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"AEGIS\",\n      \"target\": \"Kael\",\n      \"label\": \"klassifiziert_psychological_komplexität_als\",\n      \"properties\": {}\n    },\n    {\n      \"source\": \"Kael\",\n      \"target\": \"Datenkorruption\",\n      \"label\": \"markiert_als\",\n      \"properties\": {}\n    }\n  ]\n}",
+     "refusal": null,
+     "reasoning": "The user wants me to extract a knowledge graph from the given text. Let me break down the text and identify key entities and relationships.\n\nKey entities mentioned:\n- AEGIS (the AI system)\n- Entropy management (AEGIS core function)\n- Shannon information entropy\n- Thermodynamic entropy\n- Information loss equals entropy gain\n- Kael (character)\n- EP intrusion (inner experience)\n- System instability\n- Visual disturbances\n- Audio disturbances\n- Temporary malfunctions\n- System monitor\n- Data corruption markings\n- High entropy warnings\n- Diagnostic protocols\n- Low-level containment protocols\n- Cognitive complexity\n- System noise\n\nRelationships and connections:\n- AEGIS core function: entropy management\n- Shannon information entropy related to thermodynamic entropy\n- Information loss corresponds to entropy gain\n- Kael internal state (EP intrusion) triggers system instability\n- Visual disturbances, audio disturbances, temporary malfunctions around Kael\n- System monitor shows data corruption markings or high entropy warnings\n- AEGIS initiates diagnostic/low-level containment protocols around Kael\n- AEGIS misclassifies psychological complexity as data corruption\n- Kael's entropy acts as perturbation stressing the system\n\nLet me create nodes and relationships following the guidelines:\n- At most 5 relationships\n- Include every referenced node\n- Use German for node names and relationship labels where possible\n- Keep labels and names separate\n\nNodes:\n1. AEGIS (Organization/System)\n2. Entropiemanagement (Concept)\n3. Shannon-Informationsentropie (Concept)\n4. Thermodynamische Entropie (Concept)\n5. Kael (Person)\n6. EP-Intrusion (Concept)\n7. Systeminstabilität (Concept)\n8. Systemmonitor (Organization/System)\n9. Datenkorruption (Concept)\n10. Hochentropie-Warnungen (Concept)\n\nI'll limit relationships to 5 while ensuring comprehensive coverage of the key connections between these nodes. The relationships highlight the intricate interactions between the AI system, entropy concepts, and Kael's internal experiences.\n\nRelationships connect:\n- AEGIS relates to entropy management\n- Shannon entropy links to thermodynamic entropy\n- Information loss corresponds to entropy gain\n- Kael's internal state triggers system instability\n- System monitor reveals data corruption and high entropy\n\nI'll translate labels to German to maintain linguistic consistency with the original text.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to extract a knowledge graph from the given text. Let me break down the text and identify key entities and relationships.\n\nKey entities mentioned:\n- AEGIS (the AI system)\n- Entropy management (AEGIS core function)\n- Shannon information entropy\n- Thermodynamic entropy\n- Information loss equals entropy gain\n- Kael (character)\n- EP intrusion (inner experience)\n- System instability\n- Visual disturbances\n- Audio disturbances\n- Temporary malfunctions\n- System monitor\n- Data corruption markings\n- High entropy warnings\n- Diagnostic protocols\n- Low-level containment protocols\n- Cognitive complexity\n- System noise\n\nRelationships and connections:\n- AEGIS core function: entropy management\n- Shannon information entropy related to thermodynamic entropy\n- Information loss corresponds to entropy gain\n- Kael internal state (EP intrusion) triggers system instability\n- Visual disturbances, audio disturbances, temporary malfunctions around Kael\n- System monitor shows data corruption markings or high entropy warnings\n- AEGIS initiates diagnostic/low-level containment protocols around Kael\n- AEGIS misclassifies psychological complexity as data corruption\n- Kael's entropy acts as perturbation stressing the system\n\nLet me create nodes and relationships following the guidelines:\n- At most 5 relationships\n- Include every referenced node\n- Use German for node names and relationship labels where possible\n- Keep labels and names separate\n\nNodes:\n1. AEGIS (Organization/System)\n2. Entropiemanagement (Concept)\n3. Shannon-Informationsentropie (Concept)\n4. Thermodynamische Entropie (Concept)\n5. Kael (Person)\n6. EP-Intrusion (Concept)\n7. Systeminstabilität (Concept)\n8. Systemmonitor (Organization/System)\n9. Datenkorruption (Concept)\n10. Hochentropie-Warnungen (Concept)\n\nI'll limit relationships to 5 while ensuring comprehensive coverage of the key connections between these nodes. The relationships highlight the intricate interactions between the AI system, entropy concepts, and Kael's internal experiences.\n\nRelationships connect:\n- AEGIS relates to entropy management\n- Shannon entropy links to thermodynamic entropy\n- Information loss corresponds to entropy gain\n- Kael's internal state triggers system instability\n- System monitor reveals data corruption and high entropy\n\nI'll translate labels to German to maintain linguistic consistency with the original text.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1683,
+   "completion_tokens": 1176,
+   "total_tokens": 2859,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 612,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

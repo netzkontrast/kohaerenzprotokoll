@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "created": "2026-09-24T18:55:31Z",
+  "docs_dir": "/home/user/kohaerenzprotokoll/Sources/drive",
+  "schema_file": null,
+  "max_triplets_per_doc": 15,
+  "note": "bounded excerpt (lines 1-150 of 620); a full-document attempt (~30k tokens) stayed connected/streaming past 13 minutes on the free-model rotation and was killed -- see review",
+  "documents": [
+    {
+      "path": "aegis-subplots-kapitelweise-system-exploration-docx.md",
+      "unit": "line",
+      "lines": 620,
+      "status": "in_progress",
+      "chunks": [
+        {
+          "id": 1,
+          "start_line": 1,
+          "end_line": 150,
+          "status": "in_progress",
+          "triplets": 0
+        }
+      ]
+    }
+  ]
+}

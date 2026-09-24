@@ -1,0 +1,51 @@
+# TermCensus — the terms of one document, as the document writes them.
+#
+# provisional — first design, 2026-09-24; never run on the corpus
+# derived from: the reader's lists (Plan/runs/<slug>/03-candidates.md) and the entity-lists
+#   reader prompt (.claude/workflows/entity-lists.js), whose entity kinds it keeps
+# may not: seed or replace a reader's 03-candidates.md, create a page, supply a count,
+#   or merge two surfaces. No field carries a line: names in, lines by code (P26).
+# retire when: on documents 5 and 6 it scores below the Haiku entity lists against the
+#   same gold (entities.py score: F1 0.25 and 0.69)
+language: en
+name: TermCensus
+type: set
+tags: [census, terms, german]
+description: 'Every candidate term of one German research document behind a hard-SF novel, written exactly as the document writes it.'
+
+output:
+  description: 'The set of terms this one document uses as terms.'
+  fields:
+    - name: term
+      type: str
+      description: 'The term, character for character as the document writes it.'
+      required: true
+    - name: type
+      type: str
+      description: 'One of: person, place, organisation, system, concept, technology, event, work, other.'
+      required: true
+    - name: scope
+      type: str
+      description: 'world: a term of the fictional world or of the project writing it. lens: an outside work, author, theory or real-world concept the document uses as a comparison or a method.'
+      required: true
+
+guideline:
+  target: 'You read one German research document behind a hard-SF novel and list the terms it uses as terms. You describe this document and nothing else.'
+  rules:
+    - 'Copy each term exactly: case, hyphens, umlauts, digits and spacing as written. Never translate it, never add an article, never append a gloss or an expansion in brackets.'
+    - 'An abbreviation, a plural or a variant spelling the document uses is its own entry, never folded into another.'
+    - 'Undo export escaping and emphasis: Wort\-Teil in the file is the term Wort-Teil, and **Begriff** is Begriff.'
+    - 'A reference number the export glued to a word is not part of the term; a number that belongs to a name is. When unsure, keep the number.'
+    - 'Not a term: ordinary German or English vocabulary, a repeated template or table label, a heading, a capital that only starts a sentence, a section number.'
+    - 'List a lens entry even when it only serves as a comparison: mark it lens rather than leaving it out.'
+    - 'Never add a term this text does not contain, even one you know belongs to the same world.'
+
+identifiers:
+  item_id: term
+
+options:
+  merge_strategy: merge_field
+  fields_for_search: [term]
+
+display:
+  label: '{term} ({type})'

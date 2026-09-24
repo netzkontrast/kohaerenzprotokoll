@@ -1,0 +1,48 @@
+{
+  "entities": [
+    {
+      "term": "AEGIS",
+      "scope": "world"
+    },
+    {
+      "term": "Erwartete Logik",
+      "scope": "world"
+    },
+    {
+      "term": "Externe Ebene/EP",
+      "scope": "world"
+    },
+    {
+      "term": "Guardian",
+      "scope": "world"
+    },
+    {
+      "term": "Informationstheoretische Entropie",
+      "scope": "world"
+    },
+    {
+      "term": "Kaels EP-Intrusion",
+      "scope": "world"
+    },
+    {
+      "term": "LogOS",
+      "scope": "world"
+    },
+    {
+      "term": "Logischer Pfad",
+      "scope": "world"
+    },
+    {
+      "term": "Systematische Korrektur",
+      "scope": "world"
+    },
+    {
+      "term": "Thermodynamische Entropie",
+      "scope": "world"
+    },
+    {
+      "term": "Werkzeug",
+      "scope": "world"
+    }
+  ]
+}

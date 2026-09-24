@@ -412,8 +412,7 @@ ANY_MARKER = re.compile(r"<!--\s*state:([a-z_.]+)\s*-->")
 IN_CODE = re.compile(r"`[^`\n]*`")
 
 
-SKIP = {"Legacy", ".venv-tools", ".venv-dspy", ".venv-dspytools", ".qmd",
-        ".tools-node", ".git", "worktrees", "node_modules"}
+SKIP = {"Legacy", ".qmd", ".tools-node", ".git", "worktrees", "node_modules"}
 
 
 def marked_files() -> list[Path]:
@@ -425,9 +424,14 @@ def marked_files() -> list[Path]:
     deduplicated, and the check stayed green — because it never looked. A guard
     with a hardcoded file list fails silently the first time someone writes a
     marker somewhere new, which is the one moment it was built for.
+
+    Venvs are skipped by prefix, as `qmd_coverage.py` does. A list of their names
+    went stale the same way: it missed `.venv-typesafe`, and it read 96
+    markdown files from inside `.venv-mflow`, the day that venv was created.
     """
     return sorted(p for p in ROOT.rglob("*.md")
-                  if not SKIP & set(p.relative_to(ROOT).parts))
+                  if not any(part in SKIP or part.startswith(".venv")
+                             for part in p.relative_to(ROOT).parts))
 
 
 def check_prose(paths: list[Path]) -> list[dict]:

@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 3.6,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character associated with AEGIS who may communicate or coordinate with Juna/V\"\n}",
+ "response": {
+  "id": "gen-1790275961-tOtjO9fMQK46TnJq7mlo",
+  "object": "chat.completion",
+  "created": 1790275961,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character associated with AEGIS who may communicate or coordinate with Juna/V\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name \"Kael\", type \"character\", description: \"Perceived threat that AEGIS is trying to neutralize through escalating defensive measures\". Item B: name \"Kael\", type \"person\", description: \"Character associated with AEGIS who may communicate or coordinate with Juna/V\". Need to combine.\n\nFields: name same, keep. type conflict: \"character\" vs \"person\". Which is more detailed? Both are categories. Could pick \"person\" as more specific? Or maybe \"character\" is a type of entity. The instruction: If fields conflict, use best judgment to pick more detailed or recent-looking value. Which is more detailed? \"person\" is a broader category, \"character\" is a type of entity. Hard to say. Could combine? But we cannot invent new info. Probably choose \"person\" as it's more generic? Or \"character\" is more specific? I'd lean to \"person\" because it's a real entity. But both are similar. Could also keep both? Not allowed to invent new fields. Could maybe pick \"person\" as it's more recent? Not sure. The incoming might be newer. So choose \"person\". Description: combine? Both describe different aspects. Could merge them into one description that includes both? But rule 5: Do not invent new information not present in the inputs. Merging descriptions could be considered combining info, but we need to produce a single description field. Could we combine them with a separator? That would be inventing new text not present. Better to keep one description, maybe choose the more detailed? Both are similar length. Could pick the one from Item B because it's more recent? Or maybe combine them with \"and\"? That would be new. So we need to pick one. Choose the more detailed? Both are similar. I'd pick the description from Item B as it's more recent. So final JSON: name \"Kael\", type \"person\", description \"Character associated with AEGIS who may communicate or coordinate with Juna/V\". That satisfies merging.\n\nReturn exact JSON format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name \"Kael\", type \"character\", description: \"Perceived threat that AEGIS is trying to neutralize through escalating defensive measures\". Item B: name \"Kael\", type \"person\", description: \"Character associated with AEGIS who may communicate or coordinate with Juna/V\". Need to combine.\n\nFields: name same, keep. type conflict: \"character\" vs \"person\". Which is more detailed? Both are categories. Could pick \"person\" as more specific? Or maybe \"character\" is a type of entity. The instruction: If fields conflict, use best judgment to pick more detailed or recent-looking value. Which is more detailed? \"person\" is a broader category, \"character\" is a type of entity. Hard to say. Could combine? But we cannot invent new info. Probably choose \"person\" as it's more generic? Or \"character\" is more specific? I'd lean to \"person\" because it's a real entity. But both are similar. Could also keep both? Not allowed to invent new fields. Could maybe pick \"person\" as it's more recent? Not sure. The incoming might be newer. So choose \"person\". Description: combine? Both describe different aspects. Could merge them into one description that includes both? But rule 5: Do not invent new information not present in the inputs. Merging descriptions could be considered combining info, but we need to produce a single description field. Could we combine them with a separator? That would be inventing new text not present. Better to keep one description, maybe choose the more detailed? Both are similar length. Could pick the one from Item B because it's more recent? Or maybe combine them with \"and\"? That would be new. So we need to pick one. Choose the more detailed? Both are similar. I'd pick the description from Item B as it's more recent. So final JSON: name \"Kael\", type \"person\", description \"Character associated with AEGIS who may communicate or coordinate with Juna/V\". That satisfies merging.\n\nReturn exact JSON format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 206,
+   "completion_tokens": 465,
+   "total_tokens": 671,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 500,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

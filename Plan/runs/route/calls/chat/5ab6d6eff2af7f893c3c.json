@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.6,
+ "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"System mentioned under pressure in the text\"\n}",
+ "response": {
+  "id": "gen-1790275958-Uj7oA6MyfXrLNrEOvaTE",
+  "object": "chat.completion",
+  "created": 1790275958,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"System mentioned under pressure in the text\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have name \"AEGIS\", type \"organization\". Item A description is null, Item B description is \"System mentioned under pressure in the text\". According to strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Here description conflict: null vs text. Keep the data (non-null). So final description should be \"System mentioned under pressure in the text\". No other fields. Return JSON exactly as input items format (i.e., same keys order? Probably preserve order as in input? Usually maintain same order as original? Could combine both but order maybe name, type, description. Both have same order. So final JSON:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"System mentioned under pressure in the text\"\n}\n\nReturn that.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have name \"AEGIS\", type \"organization\". Item A description is null, Item B description is \"System mentioned under pressure in the text\". According to strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Here description conflict: null vs text. Keep the data (non-null). So final description should be \"System mentioned under pressure in the text\". No other fields. Return JSON exactly as input items format (i.e., same keys order? Probably preserve order as in input? Usually maintain same order as original? Could combine both but order maybe name, type, description. Both have same order. So final JSON:\n\n{\n  \"name\": \"AEGIS\",\n  \"type\": \"organization\",\n  \"description\": \"System mentioned under pressure in the text\"\n}\n\nReturn that.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 187,
+   "completion_tokens": 209,
+   "total_tokens": 396,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 210,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

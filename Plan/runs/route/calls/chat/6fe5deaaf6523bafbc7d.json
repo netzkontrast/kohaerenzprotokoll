@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 19.2,
+ "content": "",
+ "response": {
+  "id": "gen-1790275528-KPtpOifhCvRICiVaVL8c",
+  "object": "chat.completion",
+  "created": 1790275528,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "error",
+    "native_finish_reason": "error",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "I need to extract a knowledge graph from the German text provided. Let me read through the text carefully to understand its content and identify key entities, concepts, and relationships.\n\nThe text appears to be discussing:\n\n1. Architecture that prioritizes function, data flow, and control, possibly appearing sterile or overwhelming compared to rich core worlds\n2. AEGIS core principles: order, integrity, efficiency (visual and structural embodiment)\n3. Different \"player types\" metaphor applicable to Alters' personalities: discoverers, performance-oriented, socializers, disruptive/defensive killers\n4. How these types interact with core world environments reflecting motivations\n5. Spatial representation of abstract concepts like time, emotions, power, data through visual metaphors\n6. Research on space as cognitive scaffold for abstract concept learning\n7. Artistic techniques using positive/negative space, form language, composition\n8. Minimalism using geometric forms and spatial relationships for essence/purity\n9. Glitch Art visualizing data corruption, errors, and digital entropy\n\nLet me identify distinct entities/concepts that should become nodes:\n- Architecture (function, data flow, control)\n- Core Worlds\n- AEGIS\n- Order (principle)\n- Integrity (principle) \n- Efficiency (principle)\n- Player types: discoverers, performance-oriented, socializers, killers\n- Alters (personalities)\n- Limina (mentioned as something discoverers seek to understand)\n- Nox (killer type)\n- Cerberus (killer type/domain)\n- Abstract concepts: time, emotions, power, data\n- Spatial representation\n- Cognitive scaffold\n- Art techniques: positive/negative space, form language, composition\n- Minimalism\n- Geometric forms\n- Glitch Art\n- Data corruption\n- Digital entropy\n- Error/failure\n\nFor relationships, I need to find meaningful connections:\n- Architecture prioritizes function, data flow, control\n- AEGIS embodies order, integrity, efficiency\n- Player types can be mapped to Alters personalities\n\n\n- Discoverers seek understanding of Limina\n- Performance-oriented pursue internal goals\n- Socializers focus on internal relationships\n- Killers are disruptive or defensive\n- Core world interactions reflect underlying motivations\n- Abstract concepts get spatial representations\n- Space serves as cognitive scaffold for learning\n- Art uses visual techniques to convey abstract ideas\n- Minimalism employs geometric forms for essence/purity\n- Glitch Art creates visual language from digital failures\n\nI'll focus on capturing the core conceptual relationships while keeping the graph concise and informative. The connections highlight how different elements interact and inform each other, revealing deeper insights about representation, motivation, and artistic expression.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "ExtractedKnowledgeGraph_w4n06wcm7h9v",
+       "function": {
+        "name": "ExtractedKnowledgeGraph",
+        "arguments": "{\"nodes\": [{\"label\": \"Concept\", \"name\": \"Architektur\", \"semantic_key\": \"concept_architecture\", \"properties\": {\"funktionalit\\\\u00e4t\": \"priorisiert\", \"datenfluss\": \"priorisiert\", \"kontrolle\": \"priorisiert\"}}}, {\"label\": \"Place\", \"name\": \"Kern-Welten\", \"semantic_key\": \"place_core-worlds\", \"properties\": {\"kontrast\": \"im Vergleich zu AEGIS\"}}}, {\"label\": \"Organization\", \"name\": \"AEGIS\", \"semantic_key\": \"organization_aegis\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Ordnung\", \"semantic_key\": \"concept_order\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Integrit\\\\u00e4t\", \"semantic_key\": \"concept_integrity\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Effizienz\", \"semantic_key\": \"concept_efficiency\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Spielertypen-Metapher\", \"semantic_key\": \"concept_player-types-metaphor\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Alter-Pers\\u00f6nlichkeiten\", \"semantic_key\": \"concept_alter-personalities\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Entdecker\", \"semantic_key\": \"concept_discoverers\", \"properties\": {\"motivation\": \"Suche nach Verstehen\", \"beispiel\": \"Limina\"}}}, {\"label\": \"Concept\", \"name\": \"Leistungsorientierte\", \"semantic_key\": \"concept_performance-oriented\", \"properties\": {\"motivation\": \"Verfolgung interner Ziele\"}}}, {\"label\": \"Concept\", \"name\": \"Sozialisierer\", \"semantic_key\": \"concept_socializers\", \"properties\": {\"motivation\": \"Fokus auf interne Beziehungen\"}}}, {\"label\": \"Concept\", \"name\": \"Killer\", \"semantic_key\": \"concept_killers\", \"properties\": {\"art\": \"st\\u00f6rend oder defensiv\", \"beispiele\": \"Nox, Aspekte von Cerberus'}}}, {\"label\": \"Place\", \"name\": \"Limina\", \"semantic_key\": \"place_limina\", \"properties\": {}}}, {\"label\": \"Place\", \"name\": \"Nox\", \"semantic_key\": \"place_nox\", \"properties\": {}}}, {\"label\": \"Place\", \"name\": \"Cerberus\", \"semantic_key\": \"place_cerberus\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Abstrakte Konzepte\", \"semantic_key\": \"concept_abstract-concepts\", \"properties\": {\"beispiele\": \"Zeit, Emotionen, Macht, Daten\"}}}, {\"label\": \"Concept\", \"name\": \"Räumliche Repräsentation\", \"semantic_key\": \"concept_spatial-representation\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Kognitives Ger\\u00fchst\", \"semantic_key\": \"concept_cognitive-scaffold\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Positive-Negativ-Raum\", \"semantic_key\": \"concept_positive-negative-space\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Formensprache\", \"semantic_key\": \"concept_form-language\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Komposition\", \"semantic_key\": \"concept_composition\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Minimalismus\", \"semantic_key\": \"concept_minimalism\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Geometrische Formen\", \"semantic_key\": \"concept_geometric-forms\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Glitch Art\", \"semantic_key\": \"concept_glitch-art\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Datenkorruption\", \"semantic_key\": \"concept_data-corruption\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Digitale Entropie\", \"semantic_key\": \"concept_digital-entropy\", \"properties\": {}}}, {\"label\": \"Concept\", \"name\": \"Fehler\", \"semantic_key\": \"concept_error\", \"properties\": {}}], \"relationships\": [{\"source\": \"Architektur\", \"target\": \"Kern-Welten\", \"label\": \"kontrastiert_mit\", \"properties\": {\"intensität\": \"steril, abstrakt, überwältigend\"}}}, {\"source\": \"AEGIS\", \"target\": \"Ordnung\", \"label\": \"verkörpert\", \"properties\": {}}}, {\"source\": \"AEGIS\", \"target\": \"Integrität\", \"label\": \"verkörpert\", \"properties\": {}}}, {\"source\": \"AEGIS\", \"target\": \"Effizienz\", \"label\": \"verkörpert\", \"properties\": {}}}, {\"source\": \"Spielertypen-Metapher\", \"target\": \"Alter-Persönlichkeiten\", \"label\": \"lässt_sich_anwenden_auf\", \"properties\": {}}}, {\"source\": \"Entdecker\", \"target\": \"Alter-Persönlichkeiten\", \"label\": \"repräsentiert_einen_Typ_von\", \"properties\": {}}}, {\"source\": \"Leistungsorientierte\", \"target\": \"Alter-Persönlichkeiten\", \"label\": \"repräsentiert_einen_Typ_von\", \"properties\": {}}}, {\"source\": \"Sozialisierer\", \"target\": \"Alter-Persönlichkeiten\", \"label\": \"repräsentiert_einen_Typ_von\", \"properties\": {}}}, {\"source\": \"Killer\", \"target\": \"Alter-Persönlichkeiten\", \"label\": \"repräsentiert_einen_Typ_von\", \"properties\": {}}}, {\"source\": \"Entdecker\", \"target\": \"Limina\", \"label\": \"sucht_verstehen_von\", \"properties\": {}}}, {\"source\": \"Abstrakte Konzepte\", \"target\": \"Räumliche Repräsentation\", \"label\": \"werden_durch\", \"properties\": {}}}, {\"source\": \"Räumliche Repräsentation\", \"target\": \"Kognitives Gerüst\", \"label\": \"dient_als\", \"properties\": {}}}, {\"source\": \"Positive-Negativ-Raum\", \"target\": \"Abstrakte Konzepte\", \"label\": \"stellt_dar\", \"properties\": {}}}, {\"source\": \"Formensprache\", \"target\": \"Abstrakte Konzepte\", \"label\": \"stellt_dar\", \"properties\": {}}}, {\"source\": \"Komposition\", \"target\": \"Abstrakte Konzepte\", \"label\": \"stellt_dar\", \"properties\": {}}}, {\"source\": \"Minimalismus\", \"target\": \"Geometrische Formen\", \"label\": \"verwendet\", \"properties\": {}}}, {\"source\": \"Minimalismus\", \"target\": \"Räumliche Beziehungen\", \"label\": \"thematisiert_mit\", \"properties\": {\"thema\": \"Essenz, Reinheit\"}}}, {\"source\": \"Glitch Art\", \"target\": \"Datenkorruption\", \"label\": \"visualisiert\", \"properties\": {}}}, {\"source\": \"Glitch Art\", \"target\": \"Digitalen Entropie\", \"label\": \"visualisiert\", \"properties\": {}}}, {\"source\": \"Glitch Art\", \"target\": \"Fehler\", \"label\": \"visualisiert\", \"properties\": {}}]}}\n]"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I need to extract a knowledge graph from the German text provided. Let me read through the text carefully to understand its content and identify key entities, concepts, and relationships.\n\nThe text appears to be discussing:\n\n1. Architecture that prioritizes function, data flow, and control, possibly appearing sterile or overwhelming compared to rich core worlds\n2. AEGIS core principles: order, integrity, efficiency (visual and structural embodiment)\n3. Different \"player types\" metaphor applicable to Alters' personalities: discoverers, performance-oriented, socializers, disruptive/defensive killers\n4. How these types interact with core world environments reflecting motivations\n5. Spatial representation of abstract concepts like time, emotions, power, data through visual metaphors\n6. Research on space as cognitive scaffold for abstract concept learning\n7. Artistic techniques using positive/negative space, form language, composition\n8. Minimalism using geometric forms and spatial relationships for essence/purity\n9. Glitch Art visualizing data corruption, errors, and digital entropy\n\nLet me identify distinct entities/concepts that should become nodes:\n- Architecture (function, data flow, control)\n- Core Worlds\n- AEGIS\n- Order (principle)\n- Integrity (principle) \n- Efficiency (principle)\n- Player types: discoverers, performance-oriented, socializers, killers\n- Alters (personalities)\n- Limina (mentioned as something discoverers seek to understand)\n- Nox (killer type)\n- Cerberus (killer type/domain)\n- Abstract concepts: time, emotions, power, data\n- Spatial representation\n- Cognitive scaffold\n- Art techniques: positive/negative space, form language, composition\n- Minimalism\n- Geometric forms\n- Glitch Art\n- Data corruption\n- Digital entropy\n- Error/failure\n\nFor relationships, I need to find meaningful connections:\n- Architecture prioritizes function, data flow, control\n- AEGIS embodies order, integrity, efficiency\n- Player types can be mapped to Alters personalities\n\n\n- Discoverers seek understanding of Limina\n- Performance-oriented pursue internal goals\n- Socializers focus on internal relationships\n- Killers are disruptive or defensive\n- Core world interactions reflect underlying motivations\n- Abstract concepts get spatial representations\n- Space serves as cognitive scaffold for learning\n- Art uses visual techniques to convey abstract ideas\n- Minimalism employs geometric forms for essence/purity\n- Glitch Art creates visual language from digital failures\n\nI'll focus on capturing the core conceptual relationships while keeping the graph concise and informative. The connections highlight how different elements interact and inform each other, revealing deeper insights about representation, motivation, and artistic expression.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2095,
+   "completion_tokens": 2091,
+   "total_tokens": 4186,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 705,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

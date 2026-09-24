@@ -1,0 +1,88 @@
+{
+  "entities": [
+    {
+      "term": "AEGIS-Überwelt",
+      "scope": "world"
+    },
+    {
+      "term": "Audiodesign",
+      "scope": "world"
+    },
+    {
+      "term": "Bartles Typologie",
+      "scope": "world"
+    },
+    {
+      "term": "Betriebssystem",
+      "scope": "world"
+    },
+    {
+      "term": "Charakterdesign",
+      "scope": "world"
+    },
+    {
+      "term": "Cyberspace",
+      "scope": "world"
+    },
+    {
+      "term": "Entdecker",
+      "scope": "world"
+    },
+    {
+      "term": "Immersive virtuelle Umgebungen",
+      "scope": "world"
+    },
+    {
+      "term": "Interface",
+      "scope": "world"
+    },
+    {
+      "term": "Kael",
+      "scope": "world"
+    },
+    {
+      "term": "Leistungsorientierte",
+      "scope": "world"
+    },
+    {
+      "term": "Matrix",
+      "scope": "world"
+    },
+    {
+      "term": "Narrative Umgebungen",
+      "scope": "world"
+    },
+    {
+      "term": "Neuromancer",
+      "scope": "world"
+    },
+    {
+      "term": "Schlüsselelemente der Gestaltung",
+      "scope": "world"
+    },
+    {
+      "term": "Sozialisierer",
+      "scope": "world"
+    },
+    {
+      "term": "UI-Design",
+      "scope": "world"
+    },
+    {
+      "term": "Umgebungserschaffung",
+      "scope": "world"
+    },
+    {
+      "term": "Westworld",
+      "scope": "world"
+    },
+    {
+      "term": "William Gibson",
+      "scope": "world"
+    },
+    {
+      "term": "\\'Killer\\'",
+      "scope": "world"
+    }
+  ]
+}

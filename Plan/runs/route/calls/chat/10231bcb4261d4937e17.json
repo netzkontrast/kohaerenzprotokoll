@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 4.1,
+ "content": "",
+ "response": {
+  "id": "gen-1790274684-UoebnXt3lJhzAaX5P1Vt",
+  "object": "chat.completion",
+  "created": 1790274684,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to extract the location name from a sentence: \"Der Schauplatz heißt Nebelhafen und liegt im Norden.\"\n\nLooking at the sentence, I can see:\n- \"Der Schauplatz heißt Nebelhafen\" - this is saying the location is called \"Nebelhafen\"\n- \"und liegt im Norden\" - and is in the north\n\nSo the location name being referred to is \"Nebelhafen\".\n\nI have access to a function called \"record_place\" that can record a place with a name parameter. This seems appropriate for this task - I can record \"Nebelhafen\" as the location name.\n\nThe required parameter is \"name\" and I can extract \"Nebelhafen\" from the text.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "record_place_57cf8c2psxf0",
+       "function": {
+        "name": "record_place",
+        "arguments": "{\"name\": \"Nebelhafen\"}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to extract the location name from a sentence: \"Der Schauplatz heißt Nebelhafen und liegt im Norden.\"\n\nLooking at the sentence, I can see:\n- \"Der Schauplatz heißt Nebelhafen\" - this is saying the location is called \"Nebelhafen\"\n- \"und liegt im Norden\" - and is in the north\n\nSo the location name being referred to is \"Nebelhafen\".\n\nI have access to a function called \"record_place\" that can record a place with a name parameter. This seems appropriate for this task - I can record \"Nebelhafen\" as the location name.\n\nThe required parameter is \"name\" and I can extract \"Nebelhafen\" from the text.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 44,
+   "completion_tokens": 155,
+   "total_tokens": 199,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 156,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

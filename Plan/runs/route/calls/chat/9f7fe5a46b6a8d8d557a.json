@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 4.6,
+ "content": "",
+ "response": {
+  "id": "gen-1790275894-A8TjXWE1plA5swrFzePD",
+  "object": "chat.completion",
+  "created": 1790275894,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\n+ *Diskussion:* Zeigt die unmittelbaren, dramatischen Konsequenzen der Kernkonfrontation. Schafft ein Gefühl der Ungewissheit und potenziellen Gefahr im unmittelbaren Nachspiel. Setzt die Bühne für die Erkundung der längerfristigen Folgen in den nächsten Kapiteln. Die Art der Reaktion gibt Hinweise darauf, ob AEGIS zerstört, beschädigt oder nur neu gestartet wurde.\n\nI need to extract entities that have independent meaning. Let me go through the text and identify potential entities:\n\n1. \"Diskussion\" - This appears to be a heading/section title, could be an entity\n2. \"Kernkonfrontation\" - This seems like a specific event/concept, could be an entity\n3. \"AEGIS\" - This appears to be a proper noun, likely an organization or system, definitely an entity\n\nLet me think about what constitutes an entity with independent meaning:\n- Proper names of people, organizations, locations, events, products, services\n- Specific concepts or phenomena\n- Not generic terms or pronouns\n\nLooking at the text:\n- \"Diskussion\" - This is a section heading, could be considered an entity as it refers to a specific discussion/topic\n- \"Kernkonfrontation\" - This refers to a specific confrontation/event, so it has independent meaning\n- \"AEGIS\" - This is clearly a proper noun referring to some system/organization\n\nOther terms like \"unmittelbaren\", \"dramatischen\", \"Gefühl\", \"Ungewissheit\", \"potenziellen Gefahr\", \"Nachspiel\", \"Bühne\", \"Kapiteln\", \"Art\", \"Reaktion\", \"hinweise\", \"zerstört\", \"beschädigt\", \"neu gestartet\" are all generic German words without independent meaning as entities.\n\nSo the entities I should extract are:\n1. Diskussion - type: concept/discussion\n2. Kernkonfrontation - type: event\n3. AEGIS - type: organization/system\n\nLet me format this properly for the DataSchemaSet function.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_awbr5xmjw0kc",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Diskussion\", \"type\": \"concept\"}, {\"name\": \"Kernkonfrontation\", \"type\": \"event\"}, {\"name\": \"AEGIS\", \"type\": \"organization\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\n+ *Diskussion:* Zeigt die unmittelbaren, dramatischen Konsequenzen der Kernkonfrontation. Schafft ein Gefühl der Ungewissheit und potenziellen Gefahr im unmittelbaren Nachspiel. Setzt die Bühne für die Erkundung der längerfristigen Folgen in den nächsten Kapiteln. Die Art der Reaktion gibt Hinweise darauf, ob AEGIS zerstört, beschädigt oder nur neu gestartet wurde.\n\nI need to extract entities that have independent meaning. Let me go through the text and identify potential entities:\n\n1. \"Diskussion\" - This appears to be a heading/section title, could be an entity\n2. \"Kernkonfrontation\" - This seems like a specific event/concept, could be an entity\n3. \"AEGIS\" - This appears to be a proper noun, likely an organization or system, definitely an entity\n\nLet me think about what constitutes an entity with independent meaning:\n- Proper names of people, organizations, locations, events, products, services\n- Specific concepts or phenomena\n- Not generic terms or pronouns\n\nLooking at the text:\n- \"Diskussion\" - This is a section heading, could be considered an entity as it refers to a specific discussion/topic\n- \"Kernkonfrontation\" - This refers to a specific confrontation/event, so it has independent meaning\n- \"AEGIS\" - This is clearly a proper noun referring to some system/organization\n\nOther terms like \"unmittelbaren\", \"dramatischen\", \"Gefühl\", \"Ungewissheit\", \"potenziellen Gefahr\", \"Nachspiel\", \"Bühne\", \"Kapiteln\", \"Art\", \"Reaktion\", \"hinweise\", \"zerstört\", \"beschädigt\", \"neu gestartet\" are all generic German words without independent meaning as entities.\n\nSo the entities I should extract are:\n1. Diskussion - type: concept/discussion\n2. Kernkonfrontation - type: event\n3. AEGIS - type: organization/system\n\nLet me format this properly for the DataSchemaSet function.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 280,
+   "completion_tokens": 477,
+   "total_tokens": 757,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 485,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

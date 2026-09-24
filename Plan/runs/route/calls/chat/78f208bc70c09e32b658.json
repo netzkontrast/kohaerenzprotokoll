@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.3,
+ "content": "",
+ "response": {
+  "id": "gen-1790274689-jzSVXtcjgNzAIVHNml7M",
+  "object": "chat.completion",
+  "created": 1790274689,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to extract the place name from the text \"Der Schauplatz heißt Nebelhafen und liegt im Norden.\"\n\nLooking at the text, I can see that it says \"Der Schauplatz heißt Nebelhafen und liegt im Norden.\" This translates to \"The venue is called Nebelhafen and is located in the north.\"\n\nSo the place name appears to be \"Nebelhafen\".\n\nI have access to a function called \"record_place\" that takes a \"name\" parameter. The user wants me to extract the place name, so I should use this function to record \"Nebelhafen\" as the place name.\n\nLet me call the function with \"Nebelhafen\" as the name parameter.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "record_place_7snhjmaytgm8",
+       "function": {
+        "name": "record_place",
+        "arguments": "{\"name\": \"Nebelhafen\"}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to extract the place name from the text \"Der Schauplatz heißt Nebelhafen und liegt im Norden.\"\n\nLooking at the text, I can see that it says \"Der Schauplatz heißt Nebelhafen und liegt im Norden.\" This translates to \"The venue is called Nebelhafen and is located in the north.\"\n\nSo the place name appears to be \"Nebelhafen\".\n\nI have access to a function called \"record_place\" that takes a \"name\" parameter. The user wants me to extract the place name, so I should use this function to record \"Nebelhafen\" as the place name.\n\nLet me call the function with \"Nebelhafen\" as the name parameter.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 44,
+   "completion_tokens": 151,
+   "total_tokens": 195,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 154,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

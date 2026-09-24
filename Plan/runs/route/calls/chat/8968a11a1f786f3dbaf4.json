@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 4.8,
+ "content": "",
+ "response": {
+  "id": "gen-1790275898-jcoz8QVW4JfwRdSqVJdR",
+  "object": "chat.completion",
+  "created": 1790275898,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "Let me analyze the text to identify all entities with independent meaning. I need to look for specific names, places, organizations, concepts, and other meaningful references that are not just generic terms or pronouns.\n\nLooking at the text:\n\n1. **AEGIS-Fokus** - This appears to be a section title, but \"AEGIS\" itself is a proper noun/entity\n2. **AEGIS** - This is clearly a proper noun, likely an organization or system\n3. **Guardians** - This appears to be a proper noun, likely referring to a group within AEGIS\n4. **Kael** - This is a proper name, likely a character\n\nLet me go through the text more systematically:\n\n- \"AEGIS-Fokus\" - This seems to be a section title, but \"AEGIS\" is the main entity\n- \"AEGIS (or parts of it)\" - AEGIS is clearly an entity\n- \"surviving fragments/Guardians\" - Guardians is an entity\n- \"Kael\" - This is a proper name\n- \"AEGIS\" appears multiple times as the main subject\n- \"Guardians\" appears as a subgroup within AEGIS\n\nThe text also mentions concepts like:\n- \"Resilience / Adaptive Reorganization / Emergent Order\" - These are concepts/tropes, not entities with independent meaning\n- \"distributed systems or networks\" - These are generic terms, not specific entities\n- \"routing protocols on the internet\" - These are generic technical terms\n\nSo the entities I should extract are:\n1. AEGIS - organization/system\n2. Guardians - subgroup within AEGIS  \n3. Kael - person\n\nLet me double-check if there are any other proper nouns:\n- No specific locations mentioned\n- No other organizations mentioned\n- No specific products or services mentioned\n- No events mentioned (other than general concepts)\n\nThe entities should be:\n1. AEGIS - organization/system\n2. Guardians - subgroup/persona within AEGIS\n3. Kael - person",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_5wwc7cx1b3a4",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"AEGIS\", \"type\": \"organization\"}, {\"name\": \"Guardians\", \"type\": \"organization\"}, {\"name\": \"Kael\", \"type\": \"person\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze the text to identify all entities with independent meaning. I need to look for specific names, places, organizations, concepts, and other meaningful references that are not just generic terms or pronouns.\n\nLooking at the text:\n\n1. **AEGIS-Fokus** - This appears to be a section title, but \"AEGIS\" itself is a proper noun/entity\n2. **AEGIS** - This is clearly a proper noun, likely an organization or system\n3. **Guardians** - This appears to be a proper noun, likely referring to a group within AEGIS\n4. **Kael** - This is a proper name, likely a character\n\nLet me go through the text more systematically:\n\n- \"AEGIS-Fokus\" - This seems to be a section title, but \"AEGIS\" is the main entity\n- \"AEGIS (or parts of it)\" - AEGIS is clearly an entity\n- \"surviving fragments/Guardians\" - Guardians is an entity\n- \"Kael\" - This is a proper name\n- \"AEGIS\" appears multiple times as the main subject\n- \"Guardians\" appears as a subgroup within AEGIS\n\nThe text also mentions concepts like:\n- \"Resilience / Adaptive Reorganization / Emergent Order\" - These are concepts/tropes, not entities with independent meaning\n- \"distributed systems or networks\" - These are generic terms, not specific entities\n- \"routing protocols on the internet\" - These are generic technical terms\n\nSo the entities I should extract are:\n1. AEGIS - organization/system\n2. Guardians - subgroup within AEGIS  \n3. Kael - person\n\nLet me double-check if there are any other proper nouns:\n- No specific locations mentioned\n- No other organizations mentioned\n- No specific products or services mentioned\n- No events mentioned (other than general concepts)\n\nThe entities should be:\n1. AEGIS - organization/system\n2. Guardians - subgroup/persona within AEGIS\n3. Kael - person",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 607,
+   "completion_tokens": 454,
+   "total_tokens": 1061,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 446,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

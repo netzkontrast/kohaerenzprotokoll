@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 5.1,
+ "content": "",
+ "response": {
+  "id": "gen-1790275888-9vqHRtgXmr2T6N7oUAsg",
+  "object": "chat.completion",
+  "created": 1790275888,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\n+ *Diskussion:* Erhöht dramatisch den Einsatz und das Machtlevel des Konflikts. Schafft eine surreale, alptraumhafte und höchst gefährliche Umgebung für Kael. Zeigt das Ausmaß von AEGIS' Kontrolle über die Simulation, wenn es unter Druck gerät. Führt neue, formidable Gegner ein. AEGIS setzt seine Simulations-Engine 72 und seine Fähigkeiten zur Realitätsformung 3 in vollem Umfang als Waffe ein.\n\nI need to identify entities that have independent meaning and are meaningful for understanding the text content. I should not treat pure pronouns, generic terms, or non-referential phrases as entities.\n\nLet me go through the text and identify potential entities:\n\n1. \"Diskussion\" - This appears to be a section heading, likely referring to a discussion about something. It could be an entity.\n\n2. \"Kael\" - This is a proper name, likely a character. This should be an entity.\n\n3. \"AEGIS\" - This is a proper name, likely an organization or system. This should be an entity.\n\n4. \"Simulations-Engine 72\" - This appears to be a specific system or component. This should be an entity.\n\n5. \"Realitätsformung 3\" - This appears to be a specific capability or system. This should be an entity.\n\n6. \"Konflikt\" - This is a generic term referring to conflict in general. This should not be an entity as it's a generic term.\n\n7. \"Umgebung\" - This is a generic term referring to environment. This should not be an entity.\n\n8. \"Gegner\" - This is a generic term referring to opponents/enemies. This should not be an entity.\n\nLet me also check for any other potential entities:\n\n- \"Einsatz\" - This is a generic term referring to deployment/commitment. Not an entity.\n- \"Machtlevel\" - This is a generic term referring to power level. Not an entity.\n- \"Simulation\" - This is a generic term referring to simulation. Not an entity.\n- \"Waffe\" - This is a generic term referring to weapon. Not an entity.\n\nSo the entities I should extract are:\n1. Diskussion - type: concept/discussion\n2. Kael - type: person\n3. AEGIS - type: organization/system\n4. Simulations-Engine 72 - type: object/system\n5. Realitätsformung 3 - type: object/ability\n\nLet me format these according to the function schema:\n- name: the entity name\n- type: the entity type (person/organization/location/object/concept/event/product/service/other, etc.)\n- description: brief description of the entity identity, meaning, or role in the text (optional)\n\nThe function expects an array of items with name and type as required parameters.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_mrnw65cycm2a",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Diskussion\", \"type\": \"concept\"}, {\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"AEGIS\", \"type\": \"organization\"}, {\"name\": \"Simulations-Engine 72\", \"type\": \"object\"}, {\"name\": \"Realitätsformung 3\", \"type\": \"object\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\n+ *Diskussion:* Erhöht dramatisch den Einsatz und das Machtlevel des Konflikts. Schafft eine surreale, alptraumhafte und höchst gefährliche Umgebung für Kael. Zeigt das Ausmaß von AEGIS' Kontrolle über die Simulation, wenn es unter Druck gerät. Führt neue, formidable Gegner ein. AEGIS setzt seine Simulations-Engine 72 und seine Fähigkeiten zur Realitätsformung 3 in vollem Umfang als Waffe ein.\n\nI need to identify entities that have independent meaning and are meaningful for understanding the text content. I should not treat pure pronouns, generic terms, or non-referential phrases as entities.\n\nLet me go through the text and identify potential entities:\n\n1. \"Diskussion\" - This appears to be a section heading, likely referring to a discussion about something. It could be an entity.\n\n2. \"Kael\" - This is a proper name, likely a character. This should be an entity.\n\n3. \"AEGIS\" - This is a proper name, likely an organization or system. This should be an entity.\n\n4. \"Simulations-Engine 72\" - This appears to be a specific system or component. This should be an entity.\n\n5. \"Realitätsformung 3\" - This appears to be a specific capability or system. This should be an entity.\n\n6. \"Konflikt\" - This is a generic term referring to conflict in general. This should not be an entity as it's a generic term.\n\n7. \"Umgebung\" - This is a generic term referring to environment. This should not be an entity.\n\n8. \"Gegner\" - This is a generic term referring to opponents/enemies. This should not be an entity.\n\nLet me also check for any other potential entities:\n\n- \"Einsatz\" - This is a generic term referring to deployment/commitment. Not an entity.\n- \"Machtlevel\" - This is a generic term referring to power level. Not an entity.\n- \"Simulation\" - This is a generic term referring to simulation. Not an entity.\n- \"Waffe\" - This is a generic term referring to weapon. Not an entity.\n\nSo the entities I should extract are:\n1. Diskussion - type: concept/discussion\n2. Kael - type: person\n3. AEGIS - type: organization/system\n4. Simulations-Engine 72 - type: object/system\n5. Realitätsformung 3 - type: object/ability\n\nLet me format these according to the function schema:\n- name: the entity name\n- type: the entity type (person/organization/location/object/concept/event/product/service/other, etc.)\n- description: brief description of the entity identity, meaning, or role in the text (optional)\n\nThe function expects an array of items with name and type as required parameters.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 295,
+   "completion_tokens": 662,
+   "total_tokens": 957,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 662,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

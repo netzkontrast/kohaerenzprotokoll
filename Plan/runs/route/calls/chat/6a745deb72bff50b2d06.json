@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 4.3,
+ "content": "",
+ "response": {
+  "id": "gen-1790275849-ciRpDstlaThzms1DtBav",
+  "object": "chat.completion",
+  "created": 1790275849,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\nText: \"+ *Diskussion:* Dies erzeugt ein Gefühl der Paranoia und verstärkt das Thema der ständigen Überwachung, ohne eine offensichtliche Kamera zu benötigen. Es baut die Welt als instrumentierten Raum auf, der von AEGIS kontrolliert wird. Es hebt die prädiktiven Fähigkeiten des Systems basierend auf Beobachtung hervor.5 Die Umgebung selbst wird Teil des Kontroll- und Überwachungsapparates, ein Werkzeug zur Realitätsformung.3\"\n\nI need to identify entities that have independent meaning and are meaningful for understanding the text content. I should not treat pure pronouns, generic terms, or non-referential phrases as entities.\n\nLet me go through the text and identify potential entities:\n\n1. \"Diskussion\" - This appears to be a section heading, likely an entity (type: concept/event)\n2. \"Paranoia\" - This is a concept/concept (type: concept)\n3. \"ständige Überwachung\" - This is a concept (type: concept)\n4. \"Kamera\" - This is an object (type: object)\n5. \"Welt\" - This is a concept/location (type: concept/location)\n6. \"AEGIS\" - This appears to be an organization/system (type: organization)\n7. \"System\" - This is a concept (type: concept)\n8. \"Beobachtung\" - This is a concept (type: concept)\n9. \"Umgebung\" - This is a location/concept (type: location/concept)\n10. \"Kontroll- und Überwachungsapparat\" - This is a concept/object (type: concept/object)\n11. \"Realitätsformung\" - This is a concept (type: concept)\n\nLet me be more careful and filter out what should and shouldn't be included:\n\n- \"Diskussion\" - This is a section heading, could be considered an entity (concept/event)\n- \"Paranoia\" - This is a psychological concept, meaningful entity (concept)\n- \"ständige Überwachung\" - This is a key theme in the text, meaningful entity (concept)\n- \"Kamera\" - This is mentioned as something that's not needed, but it's still a meaningful object (object)\n- \"Welt\" - This refers to the world being constructed, meaningful entity (concept/location)\n- \"AEGIS\" - This is a specific system/organization that controls things, definitely an entity (organization)\n- \"System\" - This refers to the predictive system, meaningful entity (concept)\n- \"Beobachtung\" - This is mentioned as the basis for predictive abilities, meaningful entity (concept)\n- \"Umgebung\" - This is described as becoming part of the control apparatus, meaningful entity (location/concept)\n- \"Kontroll- und Überwachungsapparat\" - This is described as a tool for reality formation, meaningful entity (concept/object)\n- \"Realitätsformung\" - This is the final concept about reality being shaped, meaningful entity (concept)\n\nI think all of these are meaningful entities that contribute to understanding the text. Let me organize them properly:\n\n1. Diskussion - concept/event\n2. Paranoia - concept\n3. ständige Überwachung - concept\n4. Kamera - object\n5. Welt - concept/location\n6. AEGIS - organization\n7. System - concept\n8. Beobachtung - concept\n9. Umgebung - location/concept\n10. Kontroll- und Überwachungsapparat - concept/object\n11. Realitätsformung - concept\n\nI'll use the DataSchemaSet function to return these entities.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_qc88gm40a224",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Diskussion\", \"type\": \"event\"}, {\"name\": \"Paranoia\", \"type\": \"concept\"}, {\"name\": \"ständige Überwachung\", \"type\": \"concept\"}, {\"name\": \"Kamera\", \"type\": \"object\"}, {\"name\": \"Welt\", \"type\": \"location\"}, {\"name\": \"AEGIS\", \"type\": \"organization\"}, {\"name\": \"System\", \"type\": \"concept\"}, {\"name\": \"Beobachtung\", \"type\": \"concept\"}, {\"name\": \"Umgebung\", \"type\": \"location\"}, {\"name\": \"Kontroll- und Überwachungsapparat\", \"type\": \"object\"}, {\"name\": \"Realitätsformung\", \"type\": \"concept\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text:\n\nText: \"+ *Diskussion:* Dies erzeugt ein Gefühl der Paranoia und verstärkt das Thema der ständigen Überwachung, ohne eine offensichtliche Kamera zu benötigen. Es baut die Welt als instrumentierten Raum auf, der von AEGIS kontrolliert wird. Es hebt die prädiktiven Fähigkeiten des Systems basierend auf Beobachtung hervor.5 Die Umgebung selbst wird Teil des Kontroll- und Überwachungsapparates, ein Werkzeug zur Realitätsformung.3\"\n\nI need to identify entities that have independent meaning and are meaningful for understanding the text content. I should not treat pure pronouns, generic terms, or non-referential phrases as entities.\n\nLet me go through the text and identify potential entities:\n\n1. \"Diskussion\" - This appears to be a section heading, likely an entity (type: concept/event)\n2. \"Paranoia\" - This is a concept/concept (type: concept)\n3. \"ständige Überwachung\" - This is a concept (type: concept)\n4. \"Kamera\" - This is an object (type: object)\n5. \"Welt\" - This is a concept/location (type: concept/location)\n6. \"AEGIS\" - This appears to be an organization/system (type: organization)\n7. \"System\" - This is a concept (type: concept)\n8. \"Beobachtung\" - This is a concept (type: concept)\n9. \"Umgebung\" - This is a location/concept (type: location/concept)\n10. \"Kontroll- und Überwachungsapparat\" - This is a concept/object (type: concept/object)\n11. \"Realitätsformung\" - This is a concept (type: concept)\n\nLet me be more careful and filter out what should and shouldn't be included:\n\n- \"Diskussion\" - This is a section heading, could be considered an entity (concept/event)\n- \"Paranoia\" - This is a psychological concept, meaningful entity (concept)\n- \"ständige Überwachung\" - This is a key theme in the text, meaningful entity (concept)\n- \"Kamera\" - This is mentioned as something that's not needed, but it's still a meaningful object (object)\n- \"Welt\" - This refers to the world being constructed, meaningful entity (concept/location)\n- \"AEGIS\" - This is a specific system/organization that controls things, definitely an entity (organization)\n- \"System\" - This refers to the predictive system, meaningful entity (concept)\n- \"Beobachtung\" - This is mentioned as the basis for predictive abilities, meaningful entity (concept)\n- \"Umgebung\" - This is described as becoming part of the control apparatus, meaningful entity (location/concept)\n- \"Kontroll- und Überwachungsapparat\" - This is described as a tool for reality formation, meaningful entity (concept/object)\n- \"Realitätsformung\" - This is the final concept about reality being shaped, meaningful entity (concept)\n\nI think all of these are meaningful entities that contribute to understanding the text. Let me organize them properly:\n\n1. Diskussion - concept/event\n2. Paranoia - concept\n3. ständige Überwachung - concept\n4. Kamera - object\n5. Welt - concept/location\n6. AEGIS - organization\n7. System - concept\n8. Beobachtung - concept\n9. Umgebung - location/concept\n10. Kontroll- und Überwachungsapparat - concept/object\n11. Realitätsformung - concept\n\nI'll use the DataSchemaSet function to return these entities.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 289,
+   "completion_tokens": 864,
+   "total_tokens": 1153,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 818,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

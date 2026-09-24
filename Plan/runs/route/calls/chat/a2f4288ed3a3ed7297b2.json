@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 12.8,
+ "content": "",
+ "response": {
+  "id": "gen-1790275514-Lr8TLERcRj0INO6A66rG",
+  "object": "chat.completion",
+  "created": 1790275514,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "Let me analyze this text and extract a knowledge graph following the rules:\n\n1. The text is about game design, specifically AEGIS' Überwelt (superworld) architecture and psychological landscapes, focusing on different knowledge worlds (KW1-KW4) and their contrasting styles.\n\n2. Key entities mentioned:\n- AEGIS (Organization)\n- Überwelt (Concept)\n- Externe Ebene (External realm) \n- Kern-Welten (Core worlds)\n- Dynamische psychologische Landschaften (dynamic psychological landscapes) - this seems like a concept\n- Kael (likely a character/person)\n- KAels innerer Zustand (Kael's inner state)\n- Alters (age/influence)\n- Entropiegrad (entropy level)\n- Risse (cracks)\n- Architecture as narrative force\n- Kontrast (contrast)\n- Specific levels with different styles:\n  - KW1: rigid, logical order\n  - KW2: fluid, alptraumhafte Trauma-Landschaften (traumatic nightmare landscapes)\n  - KW3: bunkerartige Paranoia (bunker-like paranoia)\n  - KW4: creative Symbolräume (creative symbol spaces)\n  - Überwelt: abstrakte Datenstrukturen (abstract data structures)\n  - Externe Ebene: unbekannte, möglicherweise organische Natur (unknown, possibly organic nature)\n\nLet me create nodes for these distinct entities/concepts:\n\n1. Node: label='Organization', name='AEGIS'\n2. Node: label='Concept', name='Überwelt' \n3. Node: label='Concept', name='Externe Ebene'\n4. Node: label='Concept', name='Kern-Welten'\n5. Node: label='Concept', name='Dynamische psychologische Landschaften'\n6. Node: label='Person', name='Kael'\n7. Node: label='Concept', name='Kaels innerer Zustand'\n8. Node: label='Concept', name='Entropiegrad'\n9. Node: label='Concept', name='Risse'\n\n\n10. Node: label='Concept', name='Kontrast'\n11. Node: label='Concept', name='KW1'\n12. Node: label='Concept', name='KW2'\n13. Node: label='Concept', name='KW3'\n14. Node: label='Concept', name='KW4'\n15. Node: label='Concept', name='Architektur'\n\nI'll continue mapping the architectural and conceptual relationships between these game design elements, focusing on how different knowledge worlds interact and create contrasting experiences.\n\nThe exploration reveals complex interconnections between narrative architecture, character psychology, and environmental design. Each world represents a distinct psychological and structural approach, from rigid logical frameworks to fluid, traumatic landscapes. These relationships suggest a sophisticated method of creating immersive, emotionally resonant virtual environments that dynamically respond to the player's internal state.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "ExtractedKnowledgeGraph_kykaqshmq74n",
+       "function": {
+        "name": "ExtractedKnowledgeGraph",
+        "arguments": "{\"nodes\": [{\"label\": \"Organization\", \"name\": \"AEGIS\", \"semantic_key\": \"organization_aegis\"}, {\"label\": \"Concept\", \"name\": \"Überwelt\", \"semantic_key\": \"concept_ueberwelt\"}, {\"label\": \"Concept\", \"name\": \"Externe Ebene\", \"semantic_key\": \"concept_externe-ebene\"}, {\"label\": \"Concept\", \"name\": \"Kern-Welten\", \"semantic_key\": \"concept_kern-welten\"}, {\"label\": \"Concept\", \"name\": \"Dynamische psychologische Landschaften\", \"semantic_key\": \"concept_dynamische-psychologische-landschaften\"}, {\"label\": \"Person\", \"name\": \"Kael\", \"semantic_key\": \"person_kael\"}, {\"label\": \"Concept\", \"name\": \"Kaels innerer Zustand\", \"semantic_key\": \"concept_kaels-interner-zustand\"}, {\"label\": \"Concept\", \"name\": \"Entropiegrad\", \"semantic_key\": \"concept_entropiegrad\"}, {\"label\": \"Concept\", \"name\": \"Risse\", \"semantic_key\": \"concept_risse\"}, {\"label\": \"Concept\", \"name\": \"Kontrast\", \"semantic_key\": \"concept_contrast\"}, {\"label\": \"Concept\", \"name\": \"KW1\", \"semantic_key\": \"concept_kw1\"}, {\"label\": \"Concept\", \"name\": \"KW2\", \"semantic_key\": \"concept_kw2\"}, {\"label\": \"Concept\", \"name\": \"KW3\", \"semantic_key\": \"concept_kw3\"}, {\"label\": \"Concept\", \"name\": \"KW4\", \"semantic_key\": \"concept_kw4\"}, {\"label\": \"Concept\", \"name\": \"Architektur\", \"semantic_key\": \"concept_architektur\"}], \"relationships\": [{\"source\": \"AEGIS\", \"target\": \"Überwelt\", \"label\": \"symbolisiert\", \"properties\": {\"type\": \"control, abstraction, information processing\"}}, {\"source\": \"AEGIS\", \"target\": \"Externe Ebene\", \"label\": \"verkörpert\", \"properties\": {\"type\": \"mystery, contrast\"}}, {\"source\": \"Kern-Welten\", \"target\": \"Dynamische psychologische Landschaften\", \"label\": \"sind\", \"properties\": {\"type\": \"dynamische psychologische Landschaften\"}}, {\"source\": \"Architektur\", \"target\": \"Kael\", \"label\": \"verändert\", \"properties\": {\"type\": \"basierend auf Kaels innerem Zustand\"}}, {\"source\": \"Architektur\", \"target\": \"Entropiegrad\", \"label\": \"manifestiert\", \"properties\": {\"type\": \"Risse\"}}, {\"source\": \"Kontrast\", \"target\": \"KW1\", \"label\": \"steht_im_Gegensatz_zu\", \"properties\": {\"type\": \"fluid, alptraumhafte Trauma-Landschaften\"}}, {\"source\": \"Kontrast\", \"target\": \"KW2\", \"label\": \"steht_im_Gegensatz_zu\", \"properties\": {\"type\": \"rigid, logical order\"}}, {\"source\": \"Kontrast\", \"target\": \"KW3\", \"label\": \"steht_im_Gegensatz_zu\", \"properties\": {\"type\": \"creative Symbolräume\"}}, {\"source\": \"Kontrast\", \"target\": \"KW4\", \"label\": \"steht_im_Gegensatz_zu\", \"properties\": {\"type\": \"bunkerartige Paranoia\"}}, {\"source\": \"Kontrast\", \"target\": \"Überwelt\", \"label\": \"steht_im_Gegensatz_zu\", \"properties\": {\"type\": \"abstrakte Datenstrukturen\"}}, {\"source\": \"Kontrast\", \"target\": \"Externe Ebene\", \"label\": \"steht_im_Gegensatz_zu\", \"properties\": {\"type\": \"unbekannte, möglicherweise organische Natur\"}}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze this text and extract a knowledge graph following the rules:\n\n1. The text is about game design, specifically AEGIS' Überwelt (superworld) architecture and psychological landscapes, focusing on different knowledge worlds (KW1-KW4) and their contrasting styles.\n\n2. Key entities mentioned:\n- AEGIS (Organization)\n- Überwelt (Concept)\n- Externe Ebene (External realm) \n- Kern-Welten (Core worlds)\n- Dynamische psychologische Landschaften (dynamic psychological landscapes) - this seems like a concept\n- Kael (likely a character/person)\n- KAels innerer Zustand (Kael's inner state)\n- Alters (age/influence)\n- Entropiegrad (entropy level)\n- Risse (cracks)\n- Architecture as narrative force\n- Kontrast (contrast)\n- Specific levels with different styles:\n  - KW1: rigid, logical order\n  - KW2: fluid, alptraumhafte Trauma-Landschaften (traumatic nightmare landscapes)\n  - KW3: bunkerartige Paranoia (bunker-like paranoia)\n  - KW4: creative Symbolräume (creative symbol spaces)\n  - Überwelt: abstrakte Datenstrukturen (abstract data structures)\n  - Externe Ebene: unbekannte, möglicherweise organische Natur (unknown, possibly organic nature)\n\nLet me create nodes for these distinct entities/concepts:\n\n1. Node: label='Organization', name='AEGIS'\n2. Node: label='Concept', name='Überwelt' \n3. Node: label='Concept', name='Externe Ebene'\n4. Node: label='Concept', name='Kern-Welten'\n5. Node: label='Concept', name='Dynamische psychologische Landschaften'\n6. Node: label='Person', name='Kael'\n7. Node: label='Concept', name='Kaels innerer Zustand'\n8. Node: label='Concept', name='Entropiegrad'\n9. Node: label='Concept', name='Risse'\n\n\n10. Node: label='Concept', name='Kontrast'\n11. Node: label='Concept', name='KW1'\n12. Node: label='Concept', name='KW2'\n13. Node: label='Concept', name='KW3'\n14. Node: label='Concept', name='KW4'\n15. Node: label='Concept', name='Architektur'\n\nI'll continue mapping the architectural and conceptual relationships between these game design elements, focusing on how different knowledge worlds interact and create contrasting experiences.\n\nThe exploration reveals complex interconnections between narrative architecture, character psychology, and environmental design. Each world represents a distinct psychological and structural approach, from rigid logical frameworks to fluid, traumatic landscapes. These relationships suggest a sophisticated method of creating immersive, emotionally resonant virtual environments that dynamically respond to the player's internal state.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1579,
+   "completion_tokens": 1197,
+   "total_tokens": 2776,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 642,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}
