@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -120,3 +120,9 @@ it as a second name of the fourth Kern-Welt, alongside `Resonanz-Kontinuum`.
 „Integration, Generativ" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54]. Selene waits there: „Selene wartet im
 Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L494] A fourth source
 on the world side of `C5`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**Both a name for KW4 and a place inside it.** The heading: „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517]. The sub-locations: „Sub-Lokalitäten: Möglichkeits-Garten, Nexus, Mosaik-Herz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L530].
+
+Judgement J35 made the two surfaces one term; this document nests one inside the other (J61). A reading for conflict C5.
