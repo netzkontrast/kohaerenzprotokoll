@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,11 @@ One of the thirteen [[alters|Alters]] — EP, „Fight" in its heading ^[kohaere
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10, one table row
 
 Its roster row gives category `EP`, function `Fight` and arc `→ konstruktiver Schutz` ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L265]. Recorded in that document's reconciliation as not promoted, and attached here now that a profile exists.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Nyx (Fight)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L384], correlate „CPT-Verletzung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L385], somatics „Adrenalin, Tunnelblick" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L386], arc „→ Konstruktiver Schutz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L387].
+
+From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 entstanden:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439] lists it.
+
+Its Riss type: „Kinetisch" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L555], „Aufprall, Bersten, Vibration" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L556].
