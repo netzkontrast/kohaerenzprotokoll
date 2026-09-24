@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 7
-readings: 6
+sources: 8
+readings: 7
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -260,3 +260,18 @@ Each heading carries both generations of names:
 - „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517] — with the Möglichkeits-Garten a sub-location inside it (L530); conflict C5
 
 „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] The four ascend in complexity class (L572–L573).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**Twenty became four.** The filter it names: „20 Kernwelten / 5 Guardians /
+41-mit-Reset → **4 KW als Akt-Marker**" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. And the matrix heading:
+„Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L158].
+
+Names: KW1 „Konstrukt-Stadt (Logos-Prime)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L163], KW2 „Mnemosyne-Archipel" ^[kapitel-kompendium-gather-2026-05-31-md.md:L164], KW3 „Cerberus-Labyrinth / Überwelt-Nexus" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165], KW4
+„Resonanz-Kontinuum / Möglichkeits-Garten" ^[kapitel-kompendium-gather-2026-05-31-md.md:L166] — the same KW4 name as
+document 7, a world and not a place in one. „Plus zwei Ebenen außerhalb der KW"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L170]: the Überwelt and the Externe Ebene.
+
+**KW3's second name is the [[ueberwelt|Überwelt]]'s**, glossed „Maschinenraum hinter dem
+Rendering" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165], while L170 puts the Überwelt outside the worlds. The document
+does not relate the two (J63).
