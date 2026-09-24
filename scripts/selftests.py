@@ -33,6 +33,8 @@ SUITES = [
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
     ("dspy surface", "dspy", ["scripts/check_dspy_surface.py"]),
+    ("dspy skill, selftest", "dspy", ["scripts/check_dspy_skill.py", "--selftest"]),
+    ("dspy skill, live", "dspy", ["scripts/check_dspy_skill.py"]),
     ("lm fixture", "dspy", ["scripts/lm_fixture.py"]),
     ("lmrun", "dspy", ["scripts/lmrun.py"]),
     ("pairs dry-run", "dspy", ["scripts/pairs.py", "run", "--optimizer", "labeled", "--dry-run"]),
@@ -46,7 +48,7 @@ def main() -> int:
     for name, kind, args in SUITES:
         if kind == "dspy" and not VENV.exists():
             print(f"  not run  {name:<26} .venv-dspy absent — uv venv --python 3.11 .venv-dspy && "
-                  "uv pip install --python .venv-dspy/bin/python 'dspy[numpy]==3.3.1'")
+                  "uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'")
             unrun += 1
             continue
         python = str(VENV) if kind == "dspy" else sys.executable
