@@ -162,8 +162,8 @@ which it must fail, and with a third state, *could not score*, that never become
 ```yaml
 name: dspy              # provisional
 # may not: send corpus text anywhere, write into Sources/ or Wiki/, decide a
-#          near match or a conflict, or state a DSPy behaviour its check could
-#          see and does not
+#          near match or a conflict, or mark a DSPy behaviour [checked] when
+#          no probe runs it
 # retire when: a DSPy upgrade leaves more probes failing than holding, then
 #          rewrite it from the installed package rather than patch it
 ```
