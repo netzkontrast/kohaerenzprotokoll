@@ -829,3 +829,45 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L58: „ein nicht-näher-spezifizierter Erasure-Pol als Löschungs-Exekutive“.
 
 **Result.** TWO terms. No page: the document itself calls it unspecified.
+
+## J60 — Autonomous Entropic Gatekeeper for Integrity Systems / AEGIS
+
+**one-term** · koharenz-protokoll-konzept-konsolidiert-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** an acronym and the expansion the same sentence gives it are one term
+- **mechanised by:** `nothing`
+- **features:** acronym, expansion
+
+**Question.** the name AEGIS spelled out
+
+**What was done.** L202: „AEGIS — Autonomous Entropic Gatekeeper for Integrity Systems — ist kein Schurke.“
+
+**Result.** ONE term: the sentence gives the expansion as the acronym's apposition.
+
+## J61 — Garten der Möglichkeiten / Möglichkeits-Garten
+
+**one-term** · koharenz-protokoll-konzept-konsolidiert-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a source using two surfaces of one term at two scales is a reading about scale, not a term boundary — the same as J51
+- **mechanised by:** `nothing`
+- **features:** nesting, two-scales
+
+**Question.** whether one document nesting two surfaces splits them
+
+**What was done.** L517 names KW4 „Kairos-Potentialis (Garten der Möglichkeiten)“; L530 lists „Möglichkeits-Garten“ as a sub-location of KW4.
+
+**Result.** ONE term, J35 holds. The nesting is a reading on C5, the conflict about exactly this scale.
+
+## J62 — Landauer-Abwärme / Landauer-Signatur
+
+**two-terms** · koharenz-protokoll-konzept-konsolidiert-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a passage is placed by what it states, not by the surface it uses; a cause and its sensory rendering are two terms (J53)
+- **mechanised by:** `nothing`
+- **features:** shared-head, cause-and-rendering
+
+**Question.** where the passage on Landauer heat is placed
+
+**What was done.** L135: the Abwärme „manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse“; document 7 L458 calls that rendering the Landauer-Signatur.
+
+**Result.** TWO terms. The heat is the cause, the signature its rendering; the passage is a reading on landauer-signatur because it states the rendering.
