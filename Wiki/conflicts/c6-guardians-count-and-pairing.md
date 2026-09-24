@@ -2,7 +2,7 @@
 id: C6
 subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
-status: open
+status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
 sources: 4
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
@@ -83,3 +83,20 @@ sources wird die neue Ausgangslage." (decision 006)
 No position above is retired by its date or by a source's claim to be canon.
 This record is now an **item for discussion** with the author; it closes when the
 author decides it, and the decision will be written here with its date.
+
+## 2026-09-24 — decided by the author: five Guardians
+
+Asked „Sollen die fünf wiederkommen, bleibt es bei zwei, oder ist es etwas
+Drittes?", the author answered **five**, and confirmed: *five Guardians — LogOS,
+Mnemosyne, Cerberus, Kairos and Sophia*.
+
+**What this decides:** the count and the names. The 2026 readings of two
+Guardians and of absorption („in Mnemosyne absorbiert", „in Erasure-Pol
+absorbiert", „latent") stay on the pages as what those documents said, dated, and
+are no longer the arrangement.
+
+**What it does not decide:** how the five relate to the four Kern-Welten. The
+2025 sources pair them (Kairos and Sophia sharing one world); the 2026 source says
+„KEIN Guardian-1:1". That is now its own question, `q5-guardians-and-kern-welten`.
+Nor does it decide the `Erasure-Pol`, which the 2026 sources name and the five do
+not include.
