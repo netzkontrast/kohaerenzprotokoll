@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 6
-readings: 7
+sources: 7
+readings: 8
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -211,3 +211,13 @@ Approach = Be-er" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L156]. 
 Approach as Do-er — „| Approach | Be-er | Do-er |" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L154]. Conflict `C8`.
 
 Its end is [[algorithmische-melancholie|Algorithmische Melancholie]].
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**The entropy it believes it fights.** „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32]
+
+„AEGIS — Autonomous Entropic Gatekeeper for Integrity Systems — ist kein Schurke." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L202] Its self-definition: „AEGIS ist, was AEGIS verhindert, dass es nicht ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L205] And its origin: „AEGIS ist Kaels eigene Abwehrarchitektur, die zur Welt geworden ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208]
+
+Three protocols — the same three names as the character bible — Suppressionsprotokoll, Kohärenzprotokoll, Re-Containment-Protokoll (L226–L228). A binding log format follows (L230–L254), and „AEGIS spricht nie in Prosa." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L257]
+
+Its fate: „AEGIS-monolithisch erlischt; AEGIS-plural entsteht." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L265] The name of the plural form is the document's own open question OQ-A ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1199], so it has no page (judgement J47).
