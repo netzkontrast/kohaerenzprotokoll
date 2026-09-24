@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 5
+sources: 6
 pages: ["trennungsprotokoll"]
 ---
 
@@ -56,3 +56,10 @@ them both ways.
 ## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
 Four: Kap 0 is „Vier-Beat-Genesis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826]. It does not order them.
+
+## 2026-09-24 — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Three, with the question open, the day before.** „Aktuell 3 Beats: Einheit →
+Trennungsprotokoll → Kael=Komp 734. Braucht es einen vierten?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L408] — one of four
+points carried from a „Reset-Doc 2026-04-30" (L401). The next day the character
+bible answered it no and the konsolidiertes Konzept answered it with a fourth beat.
