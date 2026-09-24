@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -20,15 +20,15 @@ of them and gives each its own physics.
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
-**Grundkonzept:** „eine Realität, die vollständig auf rationalen Prinzipien, expliziten Regeln und logischer Architektur basiert" ^[L35]
+**Grundkonzept:** „eine Realität, die vollständig auf rationalen Prinzipien, expliziten Regeln und logischer Architektur basiert" ^[guardians-und-kern-welten-konzept.md:L35]
 
-**Regeln/Physik/Logik:** „streng kausal, deterministisch und regelbasiert" ^[L36]
+**Regeln/Physik/Logik:** „streng kausal, deterministisch und regelbasiert" ^[guardians-und-kern-welten-konzept.md:L36]
 
-Primarily experienced by the **Architekt**-Persona ^[L35].
+Primarily experienced by the **Architekt**-Persona ^[guardians-und-kern-welten-konzept.md:L35].
 
 ### How Risse manifest here
 
-„Logische Widersprüche werden greifbar" ^[L39]
+„Logische Widersprüche werden greifbar" ^[guardians-und-kern-welten-konzept.md:L39]
 
 This is the world's own governing principle turned against itself — logic made inconsistent.
 The document states one claim about `Risse` four times, in four vocabularies;
@@ -36,7 +36,7 @@ see [[risse|Risse]].
 
 ### Partnerin-Echos here
 
-„unerklärliche Abweichungen von der Logik, die sich jedoch qualitativ anders…" ^[L40]
+„unerklärliche Abweichungen von der Logik, die sich jedoch qualitativ anders…" ^[guardians-und-kern-welten-konzept.md:L40]
 
 Every world gets this field, and it is where the [[partnerin|Partnerin]] is characterised —
 by effect, never by identity. See [[partnerin|Partnerin]].
@@ -51,4 +51,21 @@ each section is a `Guardian/Welt-Paar`.
 How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to one alter, and
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
-containment of the Kern-Welten (document 3) is not answerable here.
+containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**KW1, with a second name, and the whole of Akt I.**
+
+> „KW1 Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219]
+
+Mode „Rationalisierung, ANP-Vermeidung" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219], computational class P, the
+coldest style level, and dominant through chapters 1–13. The novel opens here:
+Kap 1 is „Erwachen in der Konstrukt-Stadt" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306], a „steril perfekt
+geordneter Alltag" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306].
+
+For the prose it is a rule, not a place: „KW1 = absolutes Metaphernverbot,
+assertorische Sätze, Computational Class P" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L59].
+
+`Logos-Prime` is recorded as an alias of this world and not as a surface of
+[[logos|LogOS]] (judgement J49).
