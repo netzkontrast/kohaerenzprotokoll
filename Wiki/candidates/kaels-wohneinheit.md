@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -75,3 +75,8 @@ A sub-location of KW1, a third number: „Sub-Lokalitäten: Kaels Wohneinheit 73
 
 The first stop of [[kael|Kael]]'s day: „Wohneinheit 734 → Datenknoten Epsilon →
 Transitkorridor Delta-7" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]. One term by J50.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] — and on its console „Einheit 734" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152]. One term by J50.
