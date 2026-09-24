@@ -1,0 +1,542 @@
+{
+  "document": "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+  "drive_id": "1vE2HJbmPyKXz2ptSYe2WEmqIU5mkh5EInUsKpo8OeC8",
+  "step": "reconcile",
+  "at": "2026-09-24",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 76,
+    "conflicts": 10
+  },
+  "state_after": {
+    "pages": 78,
+    "conflicts": 12
+  },
+  "pre_classification": {
+    "candidates": 444,
+    "decisions": 463,
+    "decided_by_lookup": 355,
+    "needs_judgement": 108
+  },
+  "new_terms": [
+    "erason",
+    "persistenzgleichung"
+  ],
+  "new_terms_rule": "a physics term gets a page when Teil II — which the document calls the literal physical law of the novel's world (L107) — defines it in a flat passage: Erason (L113), Persistenzgleichung (L140–L146). Coheron already had a page.",
+  "not_promoted_rule": "311 new terms by lookup, 2 became pages. The rest are the document's own structure (Teil, Schicht, Beat labels), Dramatica slot vocabulary, borrowed theory in its home sense (Gödel, Chaitin, Bekenstein, Husserl, Luhmann, Metzinger), sub-locations named once in a list (Datenverarbeitungsknoten Epsilon, Mosaik-Herz, Wächter-Registry), AEGIS log fields, and names the document marks as open (Wir-AEGIS OQ-A L1199, Erasure-Pol L217 — J47, J59).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        32,
+        202,
+        205,
+        208,
+        257,
+        265,
+        1199
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alex",
+      "lines": [
+        369,
+        370,
+        371,
+        372,
+        439
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        262,
+        1032
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        65,
+        352,
+        425,
+        428
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "argus",
+      "lines": [
+        409,
+        410,
+        411,
+        412,
+        439
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        217,
+        500
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        38,
+        110,
+        159,
+        518
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        32,
+        124,
+        128,
+        135
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        539,
+        540,
+        546
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        500,
+        501
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        210,
+        216,
+        217,
+        462
+      ],
+      "attribution": "premise",
+      "note": "two, with LogOS and Kairos absorbed into the Erasure-Pol — Q5"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        399,
+        400,
+        401,
+        402,
+        436,
+        560,
+        566,
+        568
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        61,
+        66,
+        273,
+        282,
+        316,
+        327,
+        340,
+        425
+      ],
+      "attribution": "premise",
+      "note": "first direct appearance Kap 38 — C7"
+    },
+    {
+      "page": "junas-ankerpunkt",
+      "lines": [
+        546
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kael",
+      "lines": [
+        29,
+        64,
+        348,
+        359,
+        360,
+        439,
+        962
+      ],
+      "attribution": "premise",
+      "note": "opening image with bleeding knuckles, not in the Kap 1 line — C10"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        479
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        462,
+        517
+      ],
+      "attribution": "premise",
+      "note": "absorbed into the Erasure-Pol; KW4 no longer its realm"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        459,
+        462,
+        463,
+        483,
+        500,
+        517
+      ],
+      "attribution": "premise",
+      "note": "Akt-Marker, not Guardian realms; both generations of names"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        389,
+        390,
+        391,
+        392,
+        436,
+        558,
+        559
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        55,
+        116,
+        227
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        463,
+        470,
+        473,
+        482,
+        961
+      ],
+      "attribution": "premise",
+      "note": "KW1, consistent with the C9 decision"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        135,
+        972,
+        1032
+      ],
+      "attribution": "premise",
+      "note": "Landauer warmth in Kap 6 and Kap 36 — C11"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        364,
+        365,
+        366,
+        367,
+        439
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        394,
+        395,
+        396,
+        397,
+        436,
+        560,
+        561
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        217
+      ],
+      "attribution": "premise",
+      "note": "absorbed into the Erasure-Pol, not Mnemosyne — Q5"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        216,
+        462
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        517,
+        530
+      ],
+      "attribution": "premise",
+      "note": "a name of KW4 and a place inside it — C5"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        157,
+        298,
+        312,
+        313
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moros",
+      "lines": [
+        404,
+        405,
+        406,
+        407,
+        436,
+        564,
+        565
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        428,
+        482,
+        518
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        530
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        32,
+        55,
+        159
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        384,
+        385,
+        386,
+        387,
+        439,
+        555,
+        556
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        419,
+        420,
+        448
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        71
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        457,
+        459,
+        1267
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        483,
+        484
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        374,
+        375,
+        376,
+        377,
+        439
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        38,
+        548,
+        571,
+        800
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "selene",
+      "lines": [
+        379,
+        380,
+        381,
+        382,
+        439
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        158,
+        414,
+        415,
+        447
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        210
+      ],
+      "attribution": "premise",
+      "note": "one occurrence; its function not placed — Q5"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        316,
+        1007
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        73,
+        439
+      ],
+      "attribution": "premise",
+      "note": "third of four Genesis beats — C12"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        534,
+        535,
+        692,
+        837
+      ],
+      "attribution": "premise",
+      "note": "the Kap-1 setting is the Überwelt of Kap 0"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [
+    "C11",
+    "C12"
+  ],
+  "conflicts_changed": [
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "C10"
+  ],
+  "questions_changed": [
+    "Q5"
+  ],
+  "judgements": [
+    "J60",
+    "J61",
+    "J62"
+  ],
+  "decided_by_existing_rules": "Wir-AEGIS/AEGIS by J47; Coheronen/Coheron by J56; Kohärenzprotokoll/Kohärenz by J57; Rauschen/Nichts-Rauschen by J51; Trennung/Trennungsprotokoll by J52; Erasure-Pol/Erasure by J59; Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis against their bearers by J49; Kaels Wohneinheit 734 by J50/J58; Wächter by J20; compound against head (Genesis-*, Vortex-*, Juna-Echo, Stille-*, Resonanz-*, Kohärenz-Kernel, Entropie-Architektur and their kind) two terms by J16/J28.",
+  "attached_from_earlier_runs": {},
+  "found_by_rule_not_by_census": [
+    "landauer-signatur"
+  ],
+  "baseline_moved": false
+}
