@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -65,3 +65,9 @@ The roster is on [[alters]].
 „Im Roman: zwingend Funktionale Multiplizität. Final Fusion ist AEGIS' Ziel,
 nicht das Heilungsziel." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L840] **And a chapter for it**: „Das Achievement
 der Funktionalen Multiplizität ist Kap 33." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L844]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Resolution: Funktionale Multiplizität, niemals Fusion." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L428] „Kein Alter wird eliminiert. Kein Alter wird zu einem Ich. Sie werden ein Wir" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L428].
+
+Practised in KW4: „Hier wird die Funktionale Multiplizität eingeübt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L518] Kept from the reader until the thirteenth chapter: „Multiplizitäts-Schleier hält bis Ch13." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L482]
