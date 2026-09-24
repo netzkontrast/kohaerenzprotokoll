@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+sources: 3
+readings: 3
+conflict: C12
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -41,7 +41,15 @@ bleibt, als Preis, nicht mehr als Tragödie" ^[kohaerenz-protokoll-storyform-und
 > „Trennungsprotokoll — autopoietisch getrieben, paradox-belastet, initiiert AEGIS
 > das „Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L118]
 
-It makes Kael: „Kael = Komponente 734 — der Akt der Trennung erzeugt die
+It makes [[kael|Kael]]: „Kael = Komponente 734 — der Akt der Trennung erzeugt die
 Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L119] And it made the Alters: „AEGIS'
 Trennungsprotokoll nutzte die existierende Bruchstelle und fragmentierte Kael in
 die dreizehn Alters." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L307]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**The third of four Genesis beats** — „Beat 3 — Trennungsprotokoll." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L73] The character bible counts three and makes it the second; conflict C12.
+
+„Aus Panik führt es ein algorithmisches Selbstamputat aus." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L73]
+
+It also stands in Kael's biography, in the night of the second trauma layer: „AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie" und führt das Trennungsprotokoll aus." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439]
