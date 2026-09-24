@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -77,3 +77,8 @@ Traumabearbeitung (Akt II–III-A), Integration/Funktionale [[multiplizitaet|Mul
 Neither the word nor the diagnosis before Kap 13 (L44). The ISSTD therapy phases
 are background only — „Als *Hintergrund* präsent, **nicht** als Hauptachse"
 ^[kapitel-kompendium-gather-2026-05-31-md.md:L268].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+The diagnosis the novel uses is not DID but TSDP: „Klinische Diagnose-Modell der
+Kael-Struktur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162] — „(nicht „DID lite" oder „Crew-Menü")" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162].
