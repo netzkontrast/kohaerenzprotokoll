@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -81,3 +81,15 @@ reconciles the two.
 
 It is also the ground of [[kael|Kael]]'s first trauma layer: „Schicht 1 = Bindungstrauma
 Basisrealität Köln" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L277].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**Called the Basisrealität here, described in the same words.**
+
+> „Die Basisrealität — Köln 2026. Es gibt eine Welt jenseits der Simulation. Sie
+> kommt nie als Bühne in Erscheinung, nur als Erinnerungsfragment, als
+> Telefonton, als Geruch." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L62]
+
+The other canon-era source writes „Externe Ebene (Köln 2026 — nie Bühne, nur
+Erinnerungsfragment, Telefonton, Geruch)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226]. One referent, two names
+(judgement J54).
