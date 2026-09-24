@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 3
+sources: 4
 pages: ["trennungsprotokoll"]
 ---
 
@@ -43,3 +43,12 @@ sources wird die neue Ausgangslage." (decision 006)
 No position above is retired by its date or by a source's claim to be canon.
 This record is an **item for discussion** with the author; it closes when the
 author decides it, and the decision will be written here with its date.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**Both of this conflict's orders, in one document.** Kap 0: „Funken-Ich →
+Cluster/Komp 734 → Funktionalisierung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182], then Krise and
+[[trennungsprotokoll|Trennungsprotokoll]] — 734 before. Kap 18–22: „Einheit → Trennungsprotokoll → Kael =
+Komp 734" ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] — 734 after, the character bible's three beats. And a fourth:
+„Genesis-Beat 4 (Wir-AEGIS-plural) vollzogen" ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]. It counts four and orders
+them both ways.
