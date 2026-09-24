@@ -82,9 +82,9 @@ on this page — including the other canon-era source, „KW1 Konstrukt-Stadt
 (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219] — makes the Konstrukt-Stadt KW1. Conflict `C9`, a
 scale disagreement like `C5`.
 
-## Decided by the author, 2026-09-24 — the Konstrukt-Stadt is the whole simulation
+## Decided by the author, 2026-09-24 — the Konstrukt-Stadt is KW1
 
-„Die ganze Simulation" (conflict `C9`): the simulated world AEGIS runs, divided
-into the four [[kern-welten|Kern-Welten]] — not KW1. The readings above that name it as KW1 stay as
-their documents wrote them. What KW1 is called is open in `q5-guardians-and-kern-welten`.
-
+„Ne stop - es ist nur kw1" (conflict `C9`, corrected the same day after a first
+answer recorded it as the whole simulation). The Konstrukt-Stadt is **KW1**, one
+of the four Kern-Welten. The Charakter-Bibel's reading of it as the whole
+simulation stays above as what that document said.
