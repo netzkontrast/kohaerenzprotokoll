@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -135,7 +135,7 @@ from, what raises it, or what the numbers on the monitor are measured in.
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
-**Entropie is K₀, and it is [[aegis|AEGIS]]' own nature, unknown to AEGIS.**
+**Entropie is K₀, and it is [[aegis|AEGIS]]' own nature, unknown to [[aegis|AEGIS]].**
 
 > „AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
 
@@ -143,3 +143,10 @@ The document calls this „Die große Inversion" ^[kohaerenz-protokoll-storyform
 climax ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]. It does not define Entropie further here; it says its physics
 lives elsewhere — „Was dieses Dokument bewusst NICHT enthält: DKT-Physik im
 Detail" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L13].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**What AEGIS is, against what it believes.** The paradox table: „AEGIS =
+Kohärenz-Kernel (K1)" against „AEGIS = Entropie-Architektur (K0)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L105].
+And the mechanism: „Das System produziert die Entropie, die zu bekämpfen es
+behauptet." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L98]
