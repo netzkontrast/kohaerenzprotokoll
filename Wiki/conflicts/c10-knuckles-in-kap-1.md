@@ -76,4 +76,4 @@ Kapitel-Kompendium is the document that set document 7's side.
 ohne dass er weiß warum" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125] — in the Host's profile. No chapter entry has the
 knuckles, neither Kap 0 (L211–L241) nor Kap 1, whose sensory line is „sterile Leere,
 Ozon, weißes Licht, 21°C" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]. So neither the character bible's Kap 1 nor the
-Kapitel-Kompendium's Kap-0 lock; the image belongs to Kael, not to a chapter.
+Kapitel-Kompendium's Kap-0 lock; the image belongs to [[kael|Kael]], not to a chapter.

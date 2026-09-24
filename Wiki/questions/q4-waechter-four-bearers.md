@@ -128,7 +128,7 @@ The word keeps doing different jobs; J20's rule holds.
 
 ## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
-**AEGIS as Wächter, a register the pages had not seen:** „AEGIS etabliert sich als
+**[[aegis|AEGIS]] as Wächter, a register the pages had not seen:** „AEGIS etabliert sich als
 Wächter über die eigenen abgespaltenen Teile." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L72] — a role in the Genesis, not
 a Guardian. The Überwelt holds a „Wächter-Registry" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L538], and Kap 8 keeps its
 feminine title, „Kap 8 — Die Wächterin" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L975]. J20 holds: the sentence decides.

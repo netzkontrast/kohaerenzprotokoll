@@ -135,4 +135,4 @@ Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810
 
 „Die zwei Guardians (auf 2 reduziert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L158] — a 2026 source for two, recorded
 after the author's decision for five; it changes nothing in that decision. What it
-says of the other three and Sophia is in Q5.
+says of the other three and [[sophia|Sophia]] is in Q5.

@@ -170,5 +170,5 @@ are parts of it.
 
 ## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
-Antagonists beneath AEGIS: „Guardians als Sub-Antagonisten (Mnemosyne,
+Antagonists beneath [[aegis|AEGIS]]: „Guardians als Sub-Antagonisten (Mnemosyne,
 Erasure-Pol)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005]. Whether they are its components is not stated.

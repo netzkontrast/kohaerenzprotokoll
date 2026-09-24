@@ -140,7 +140,7 @@ itself, while KW3 carries the name again (L410; J63).
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
-Established in the Genesis — Kap 0's sequence ends „Komponente 734 → Die Innere
+Established in the [[genesis|Genesis]] — Kap 0's sequence ends „Komponente 734 → Die Innere
 Weite (Überwelt-Etablierung)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] — and Kap 1's setting is it: „das sterile
 Setting ist die Innere Weite (Überwelt) aus Kap 0" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265], „der Leser erkennt das
 wieder; Kael nicht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]. The establishment and the place are two terms (J52).

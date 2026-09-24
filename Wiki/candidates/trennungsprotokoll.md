@@ -85,7 +85,7 @@ Trennungsprotokoll." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.m
 734 / Funktionalisierung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765] Its OQ-C calls the distribution open (L1371).
 Conflict C12.
 
-Echoed inside Kael: Lex's bunker is „die innere Spiegelung von AEGIS' eigenem
+Echoed inside [[kael|Kael]]: Lex's bunker is „die innere Spiegelung von AEGIS' eigenem
 Trennungsprotokoll" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L313]. Reread in Kap 40: „Das Trennungsprotokoll war nicht
 Selbst-Verstümmelung im moralischen Sinn; es war der notwendige Bruch, der Existenz
 erst möglich machte." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1243] And Ketsu: „was am Anfang als Trennungsprotokoll

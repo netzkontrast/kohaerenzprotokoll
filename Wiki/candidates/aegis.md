@@ -255,7 +255,7 @@ expansion (J60). „Keine Schurke — die operative Hälfte, die nach dem
 Trennungsprotokoll übrig blieb." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117] „Trägt die Bewahrung-Funktion ohne
 Resonanz-Fähigkeit." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117]
 
-**The Genesis' first self becomes the Wächter.** In Kap 0: „AEGIS (Ursprungs-Ich →
+**The [[genesis|Genesis]]' first self becomes the Wächter.** In Kap 0: „AEGIS (Ursprungs-Ich →
 Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237]. Here the Ursprungs-Ich is AEGIS; the glossary glossed it as
 [[juna|Juna]] (J68). C3, Q4.
 

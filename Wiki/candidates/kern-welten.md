@@ -304,7 +304,7 @@ unlike „Kernwelten vollständig" of the same date (J63).
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 „Welt-Architektur (die vier Kernwelten)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L167]: KW1 Logos-Prime, KW2
-Mnemosyne-Archipel, KW3 Cerberus-Labyrinth, KW4 Möglichkeits-Garten (L172–L175),
+Mnemosyne-Archipel, KW3 Cerberus-Labyrinth, KW4 [[moeglichkeits-garten|Möglichkeits-Garten]] (L172–L175),
 each with a mode, a computational class, a somatic cue, a style level and a
 Guardian. KW1 is „Rationalisierung, ANP-Domäne" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172] and KW2 „Trauma-Erinnerung,
 EP-Domäne" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L173]: two worlds answer to classes of [[alters|Alters]], not to single

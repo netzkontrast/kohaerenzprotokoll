@@ -101,5 +101,5 @@ Kairos-Funktionen sind hier absorbiert." ^[koharenz-protokoll-strukturierter-out
 absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172], „(Cerberus, in Erasure-Pol absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L174],
 „(Kairos/Sophia, latent)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175]. Cerberus agrees; LogOS and Kairos do not.
 
-**Sophia is placed**: latent, in KW4 — the first read 2026 source to say where she
+**[[sophia|Sophia]] is placed**: latent, in KW4 — the first read 2026 source to say where she
 went.
