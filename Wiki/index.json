@@ -1,8 +1,8 @@
 {
   "built": "2026-09-24",
   "by": "scripts/wiki_index.py",
-  "pages": 60,
-  "conflicts": 6,
+  "pages": 76,
+  "conflicts": 10,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -55,11 +55,40 @@
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
+      ],
+      "sources": 6,
+      "readings": 7,
+      "conflict": "C1, C8"
+    },
+    "alex": {
+      "title": "Alex",
+      "surfaces": [
+        "Alex",
+        "alex"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 5,
-      "readings": 6,
-      "conflict": "C1"
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "algorithmische-melancholie": {
+      "title": "Algorithmische Melancholie",
+      "surfaces": [
+        "Algorithmische Melancholie",
+        "algorithmische-melancholie"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
     },
     "alters": {
       "title": "Alters",
@@ -70,10 +99,11 @@
       "ingested": [
         "entropie-aegis",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 3,
-      "readings": 2,
+      "sources": 4,
+      "readings": 3,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -100,6 +130,20 @@
       ],
       "sources": 1,
       "readings": 1,
+      "conflict": "none"
+    },
+    "argus": {
+      "title": "Argus",
+      "surfaces": [
+        "Argus",
+        "argus"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "ars": {
@@ -129,6 +173,19 @@
       "readings": 2,
       "conflict": "C4"
     },
+    "cache-kohaerenz": {
+      "title": "Cache-Kohärenz",
+      "surfaces": [
+        "Cache-Kohärenz",
+        "cache-kohaerenz"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "cerberus": {
       "title": "Cerberus",
       "surfaces": [
@@ -137,11 +194,12 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
-      "conflict": "none"
+      "sources": 3,
+      "readings": 3,
+      "conflict": "C4, C6"
     },
     "coheron": {
       "title": "Coheron",
@@ -150,10 +208,11 @@
         "coheron"
       ],
       "ingested": [
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -266,10 +325,11 @@
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "C2"
     },
     "externe-ebene": {
@@ -281,10 +341,11 @@
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -328,11 +389,26 @@
         "guardians-und-kern-welten-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
+      ],
+      "sources": 6,
+      "readings": 6,
+      "conflict": "C4, C6"
+    },
+    "isabelle": {
+      "title": "Isabelle",
+      "surfaces": [
+        "Isabelle",
+        "isabelle"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 5,
-      "readings": 5,
-      "conflict": "C4,"
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
     },
     "juna": {
       "title": "Juna",
@@ -344,11 +420,12 @@
       "ingested": [
         "entropie-aegis",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 3,
-      "readings": 3,
-      "conflict": "none"
+      "sources": 4,
+      "readings": 4,
+      "conflict": "C7"
     },
     "junas-ankerpunkt": {
       "title": "Junas Ankerpunkt",
@@ -387,11 +464,12 @@
       "ingested": [
         "entropie-aegis",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 3,
-      "readings": 3,
-      "conflict": "none"
+      "sources": 4,
+      "readings": 4,
+      "conflict": "C10"
     },
     "kaels-wohneinheit": {
       "title": "Kaels Wohneinheit 1.0",
@@ -402,10 +480,11 @@
       ],
       "ingested": [
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "kairos": {
@@ -416,11 +495,12 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
-      "conflict": "none"
+      "sources": 3,
+      "readings": 3,
+      "conflict": "C4, C6"
     },
     "kern-welten": {
       "title": "Kern-Welten",
@@ -435,11 +515,26 @@
         "guardians-und-kern-welten-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
+      ],
+      "sources": 6,
+      "readings": 5,
+      "conflict": "C6, C9"
+    },
+    "kiko": {
+      "title": "Kiko",
+      "surfaces": [
+        "Kiko",
+        "kiko"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 5,
-      "readings": 4,
-      "conflict": "C6"
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
     },
     "kohaerenz-programm": {
       "title": "Kohärenz-Programm",
@@ -462,10 +557,11 @@
       ],
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "konstrukt-stadt": {
@@ -477,11 +573,12 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
-      "conflict": "none"
+      "sources": 3,
+      "readings": 3,
+      "conflict": "C9"
     },
     "landauer-signatur": {
       "title": "Landauer-Signatur",
@@ -496,6 +593,34 @@
       "readings": 1,
       "conflict": "none"
     },
+    "lex": {
+      "title": "Lex",
+      "surfaces": [
+        "Lex",
+        "lex"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "lia": {
+      "title": "Lia",
+      "surfaces": [
+        "Lia",
+        "lia"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
     "logos": {
       "title": "LogOS",
       "surfaces": [
@@ -504,11 +629,12 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
-      "conflict": "none"
+      "sources": 3,
+      "readings": 3,
+      "conflict": "C4, C6"
     },
     "mnemosyne": {
       "title": "Mnemosyne",
@@ -519,11 +645,12 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 3,
-      "readings": 3,
-      "conflict": "C4,"
+      "sources": 4,
+      "readings": 4,
+      "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
       "title": "Möglichkeits-Garten",
@@ -536,11 +663,40 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
+      ],
+      "sources": 4,
+      "readings": 4,
+      "conflict": "C5"
+    },
+    "moonshine-link": {
+      "title": "Moonshine-Link",
+      "surfaces": [
+        "Moonshine-Link",
+        "moonshine-link"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
-      "conflict": "C5"
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "moros": {
+      "title": "Moros",
+      "surfaces": [
+        "Moros",
+        "moros"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
     },
     "multiplizitaet": {
       "title": "Multiplizität",
@@ -551,10 +707,11 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -592,10 +749,11 @@
         "nichts-rauschen"
       ],
       "ingested": [
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -610,6 +768,34 @@
       "sources": 1,
       "readings": 1,
       "conflict": "none yet"
+    },
+    "nyx": {
+      "title": "Nyx",
+      "surfaces": [
+        "Nyx",
+        "nyx"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "oblivion": {
+      "title": "Oblivion",
+      "surfaces": [
+        "Oblivion",
+        "oblivion"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
     },
     "partnerin": {
       "title": "Partnerin",
@@ -707,6 +893,20 @@
       "readings": 1,
       "conflict": "none"
     },
+    "rhys": {
+      "title": "Rhys",
+      "surfaces": [
+        "Rhys",
+        "rhys"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
     "risse": {
       "title": "Risse",
       "surfaces": [
@@ -719,10 +919,11 @@
         "entropie-aegis",
         "guardians-und-kern-welten-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none yet"
     },
     "rsa": {
@@ -752,6 +953,34 @@
       "readings": 1,
       "conflict": "none"
     },
+    "selene": {
+      "title": "Selene",
+      "surfaces": [
+        "Selene",
+        "selene"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "silas": {
+      "title": "Silas",
+      "surfaces": [
+        "Silas",
+        "silas"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
     "snk": {
       "title": "SNK — Strukturierte Nicht-Kontrolle",
       "surfaces": [
@@ -773,11 +1002,12 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
-      "conflict": "none"
+      "sources": 3,
+      "readings": 3,
+      "conflict": "C4, C6"
     },
     "system-monitor": {
       "title": "Der Große System-Monitor",
@@ -792,6 +1022,20 @@
       ],
       "sources": 1,
       "readings": 1,
+      "conflict": "none"
+    },
+    "telefon-stille": {
+      "title": "Telefon-Stille",
+      "surfaces": [
+        "Telefon-Stille",
+        "telefon-stille"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -814,10 +1058,11 @@
         "trennungsprotokoll"
       ],
       "ingested": [
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "ueberraum": {
@@ -899,14 +1144,19 @@
     "kontrollinstanz": "aegis",
     "wachterdersystemischenstabilitat": "aegis",
     "blinderhausmeister": "aegis",
+    "alex": "alex",
+    "algorithmischemelancholie": "algorithmische-melancholie",
     "alters": "alters",
     "aniauerenichtidentifikation": "ani",
     "ani": "ani",
     "archivdesungesagten": "archiv-des-ungesagten",
+    "argus": "argus",
     "arsautopoietischereentrysegmentierung": "ars",
     "ars": "ars",
     "ontologischerblinderfleck": "blinder-fleck",
     "blinderfleck": "blinder-fleck",
+    "cachekoharenz": "cache-kohaerenz",
+    "cachekohaerenz": "cache-kohaerenz",
     "cerberus": "cerberus",
     "coheron": "coheron",
     "datenverarbeitungsknoten7g": "datenverarbeitungsknoten-7g",
@@ -932,6 +1182,7 @@
     "systemgrenze": "grosse-mauer",
     "grossemauer": "grosse-mauer",
     "guardians": "guardians",
+    "isabelle": "isabelle",
     "julia": "juna",
     "juna": "juna",
     "junasankerpunkt": "junas-ankerpunkt",
@@ -944,17 +1195,22 @@
     "kairos": "kairos",
     "kernwelt": "kern-welten",
     "kernwelten": "kern-welten",
+    "kiko": "kiko",
     "koharenzprogramm": "kohaerenz-programm",
     "kohaerenzprogramm": "kohaerenz-programm",
     "koharenz": "kohaerenz",
     "kohaerenz": "kohaerenz",
     "konstruktstadt": "konstrukt-stadt",
     "landauersignatur": "landauer-signatur",
+    "lex": "lex",
+    "lia": "lia",
     "logos": "logos",
     "mnemosyne": "mnemosyne",
     "moglichkeitsgarten": "moeglichkeits-garten",
     "nexusvorstufe": "moeglichkeits-garten",
     "moeglichkeitsgarten": "moeglichkeits-garten",
+    "moonshinelink": "moonshine-link",
+    "moros": "moros",
     "multiplizitat": "multiplizitaet",
     "funktionalemultiplizitat": "multiplizitaet",
     "multiplizitaet": "multiplizitaet",
@@ -962,6 +1218,8 @@
     "nexus": "nexus",
     "nichtsrauschen": "nichts-rauschen",
     "nullpunktprotokoll": "nullpunkt-protokoll",
+    "nyx": "nyx",
+    "oblivion": "oblivion",
     "partnerin": "partnerin",
     "bewusstseinsinstanzen": "personas",
     "persona": "personas",
@@ -975,6 +1233,7 @@
     "sechsrealitatsebenen": "realitaetsebenen",
     "realitaetsebenen": "realitaetsebenen",
     "resonanzlandschaft": "resonanz-landschaft",
+    "rhys": "rhys",
     "glitch": "risse",
     "glitches": "risse",
     "risse": "risse",
@@ -982,12 +1241,15 @@
     "rsa": "rsa",
     "schleuse7": "schleuse-7",
     "schleuse7kontrollpunkt": "schleuse-7",
+    "selene": "selene",
+    "silas": "silas",
     "snkstrukturiertenichtkontrolle": "snk",
     "snk": "snk",
     "sophia": "sophia",
     "groesystemmonitor": "system-monitor",
     "groersystemmonitor": "system-monitor",
     "systemmonitor": "system-monitor",
+    "telefonstille": "telefon-stille",
     "therapieschnittstellealpha": "therapie-schnittstelle-alpha",
     "trennungsprotokoll": "trennungsprotokoll",
     "ueberraum": "ueberraum",
@@ -1006,6 +1268,13 @@
       "subject": "AEGIS",
       "pages": [
         "aegis"
+      ],
+      "status": "open"
+    },
+    "C10": {
+      "subject": "the bleeding knuckles",
+      "pages": [
+        "kael"
       ],
       "status": "open"
     },
@@ -1059,6 +1328,28 @@
         "cerberus",
         "kairos",
         "sophia",
+        "kern-welten"
+      ],
+      "status": "open"
+    },
+    "C7": {
+      "subject": "Juna's direct appearance",
+      "pages": [
+        "juna"
+      ],
+      "status": "open"
+    },
+    "C8": {
+      "subject": "AEGIS' Approach in Storyform B",
+      "pages": [
+        "aegis"
+      ],
+      "status": "open"
+    },
+    "C9": {
+      "subject": "Konstrukt-Stadt",
+      "pages": [
+        "konstrukt-stadt",
         "kern-welten"
       ],
       "status": "open"
