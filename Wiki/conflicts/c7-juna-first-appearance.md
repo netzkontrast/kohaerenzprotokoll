@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 5
+sources: 6
 pages: ["juna"]
 ---
 
@@ -78,3 +78,11 @@ direct appearance is Kap 38: „Direkt erst ab **Vortex 1 Beat 4** und in Kap 38
 It does not say the character bible meant effect by „spürbare aber
 nicht-beschriebene Präsenz" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L280]. Whether it did — whether C7 is a conflict at all or
 two descriptions of one plan — is the question for the author.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+Document 7's side, with the verb split. The grammar rule says she never appears:
+„Juna „erscheint" nicht; ihre Wirkung wird wahrnehmbar" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L363]. The chapter plan
+gives her first appearance to Kap 38: „Stille-Beat: Junas erste direkte Erscheinung
+— sie ist einfach da, ohne Worte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611]. The glossary explains document 7 and
+ranks itself below it (L2).
