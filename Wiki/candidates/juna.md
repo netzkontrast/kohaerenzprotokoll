@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -182,3 +182,20 @@ paradox wird" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L31]; before, �
 in *beiden* Storyforms (DOPPEL-IC)." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L121] Her mode in A: „Telefon-Stille als
 Anker = pure Präsenz, keine Aktion." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L202] How she appears is open: „Wie taucht
 Juna auf?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L407]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**Two uses of „erscheinen" in one glossary.** The grammar rule: „Juna „erscheint"
+nicht; ihre Wirkung wird wahrnehmbar" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L363]. The chapter plan: „direkt in Kap 38
+(Stille-Beat als erste direkte Erscheinung)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L370], „Stille-Beat: Junas erste
+direkte Erscheinung — sie ist einfach da, ohne Worte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611]. Conflict C7, on
+document 7's side.
+
+**And a gloss that makes her the Ursprungs-Ich**: the [[trennungsprotokoll|Trennungsprotokoll]] „die das
+Ursprungs-Ich (Juna) ins Nichts-Rauschen verbannt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L155] — while in the Genesis
+beats the Ursprungs-Ich resonates *with* Juna: „Cluster/Funktionalisierung —
+Resonanz mit Juna erzeugt Qualia" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L147]. Two terms (J68); a question for the
+author.
+
+Her layer: „Juna als Zeit-Prinzip — kosmologische Konstante, die zwischen den
+Schichten wirkt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L75]. The rename: „Julia → Juna (analog)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L808]
