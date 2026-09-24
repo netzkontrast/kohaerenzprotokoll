@@ -35,10 +35,13 @@ vor, es entscheidet nie, und nichts verlässt den Container ohne Ja." Scripts
 hold it, and `CLAUDE.md`, *Calling a model — the DSPy toolchain*, says what each
 one guarantees. What to run:
 
-- **a model call** goes through `lmrun.call` inside
+- **a DSPy model call** goes through `lmrun.call` inside
   `dspy.context(lm=lmrun.make_lm(...))`. It refuses a cached LM and a real LM
   without `approval=`, and records one line per call under
   `Plan/runs/<subject>/lm/` with a status, never a score;
+- **a third-party tool, or a call outside DSPy**, goes through
+  `scripts/route.py`: free models only, the consent file of decision 007, and
+  every call recorded so it replays offline;
 - **a dry run** goes through `lm_fixture.offline(FixtureLM(...))`, which cannot
   reach the network;
 - **a scored run** becomes a row through `baseline.py`, and
@@ -47,9 +50,13 @@ one guarantees. What to run:
   suite that could not run says `not run`, never `held`.
 
 **Nothing leaves the container without the author's yes for that run.** Three
-runs are built and waiting on one: `pairs.py run --optimizer labeled`,
+DSPy runs are built and waiting on one: `pairs.py run --optimizer labeled`,
 `graphrag.py ask --answer`, and `rlm_ingest.py`. `NOW.md` says what each would
-send. The dry run of each is free:
+send. Decision 007 lets documents 5 and 6 go to free models and Jev through
+`route.py`, to test the tools installed that day; it says nothing about these
+three. The rule has three encodings — `lmrun.py`, `rlm_ingest.py`, `route.py` —
+and which one the others should call is open (`NOW.md`). The dry run of each
+DSPy run is free:
 
 ```bash
 .venv-dspy/bin/python scripts/pairs.py run --optimizer labeled --dry-run
@@ -57,18 +64,20 @@ send. The dry run of each is free:
 python3 scripts/selftests.py                 # every suite, one line each
 ```
 
-A fresh container has no `.venv-dspy`:
+A cloud session builds `.venv-dspy` at start, through `scripts/install.sh`:
+DSPy 3.3.1 with numpy (SIMBA raises without it) and Deno (`dspy.RLM`'s
+sandbox), `dspy-skills` and `drg-kg`. By hand:
 
 ```bash
-uv venv --python 3.11 .venv-dspy
-uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'   # numpy: SIMBA; deno: dspy.RLM
+scripts/install.sh --check dspy    # present or not, changes nothing
+scripts/install.sh dspy            # build it
 ```
 
 ## Where to look, by what you are about to do
 
 | you are about to | read | run |
 |---|---|---|
-| call a model at all | `references/operations.md` | `lmrun.call` inside `dspy.context(lm=lmrun.make_lm(...))` |
+| call a model at all | `references/operations.md` | `lmrun.call` inside `dspy.context(lm=lmrun.make_lm(...))`; a third-party tool: `route.py` |
 | write or change a signature, a module, an adapter | `references/api.md` | `check_dspy_skill.py` |
 | write a metric, a judge, a scorer | `references/metrics.md` | `baseline.py selftest` |
 | choose or run an optimizer | `references/optimizers.md` | `pairs.py score`, then `pairs.py run --dry-run` |

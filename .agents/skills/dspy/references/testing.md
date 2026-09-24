@@ -43,34 +43,26 @@ cases hold (answer+record, refuse network, exhausted script)`".
 
 ### The suites `scripts/selftests.py` runs
 
-Sixteen named suites, nine standard-library and seven needing `.venv-dspy`
-(`scripts/selftests.py`):
+`SUITES` in `scripts/selftests.py` is the list, and `KINDS` beside it says what
+each kind of suite needs: this interpreter, `.venv-dspy`, `.venv-typesafe`
+(`route.py`'s own selftest) or Hyper-Extract's `he` (the template checks). The
+seven that need `.venv-dspy` are the DSPy ones:
 
-| kind | suite | command |
-|---|---|---|
-| std | quotes, find, fold | `scripts/selftest.py` |
-| std | entities matcher | `scripts/entities.py selftest` |
-| std | skills | `scripts/check_skills.py --selftest` |
-| std | skills, live | `scripts/check_skills.py` |
-| std | baseline ledger | `scripts/baseline.py selftest` |
-| std | graph | `scripts/graph.py --selftest` |
-| std | graphrag | `scripts/graphrag.py selftest` |
-| std | rlm_ingest tools, reach | `scripts/rlm_ingest.py --selftest` |
-| std | prose numbers | `scripts/state.py --prose` |
-| dspy | dspy surface | `check_dspy_surface.py` |
-| dspy | dspy skill, selftest | `check_dspy_skill.py --selftest` |
-| dspy | dspy skill, live | `check_dspy_skill.py` |
-| dspy | lm fixture | `lm_fixture.py` |
-| dspy | lmrun | `lmrun.py` |
-| dspy | pairs dry-run | `pairs.py run --optimizer labeled --dry-run` |
-| dspy | graphrag answer dry-run | `graphrag.py ask "Nexus Überraum" --answer --dry-run` |
+| suite | command |
+|---|---|
+| dspy surface | `check_dspy_surface.py` |
+| dspy skill, selftest | `check_dspy_skill.py --selftest` |
+| dspy skill, live | `check_dspy_skill.py` |
+| lm fixture | `lm_fixture.py` |
+| lmrun | `lmrun.py` |
+| pairs dry-run | `pairs.py run --optimizer labeled --dry-run` |
+| graphrag answer dry-run | `graphrag.py ask "Nexus Überraum" --answer --dry-run` |
 
-`python3 scripts/selftests.py` runs every std suite with `sys.executable` and
-every dspy suite with `.venv-dspy/bin/python`, 900s timeout each, and prints
-one line per suite — `held`, `FAILED`, or, when `.venv-dspy` does not exist,
-`not run` with the exact `uv venv`/`uv pip install` command that creates it
-(`scripts/selftests.py`). It never runs a suite partially: a `.venv-dspy`
-suite is skipped whole when the interpreter is absent, not attempted and
+`python3 scripts/selftests.py` runs each suite under its kind's interpreter,
+900s timeout each, and prints one line per suite — `held`, `FAILED`, or, when
+what the kind needs is absent, `not run` with the `scripts/install.sh`
+component that provides it (`scripts/selftests.py`). It never runs a suite
+partially: one whose interpreter is absent is skipped whole, not attempted and
 marked failed.
 
 **Two scripts that call a real model have no suite here at all.** `bilingual.py`
@@ -88,7 +80,7 @@ taken*.
 same shape as `lmrun.call`'s `unreachable` status and `baseline.compare`'s
 `unscored` verdict: none of the three ever collapses into a pass. The exit
 status enforces it — `scripts/selftests.py` returns `1` whenever
-`failed or unrun` is non-zero, so a fresh container with no `.venv-dspy` fails
+`failed or unrun` is non-zero, so a container without `.venv-dspy` fails
 `python3 scripts/selftests.py` exactly as if seven suites had failed, not as
 if they had been skipped politely. Reading `not run` as green is the mistake
 P23 is written against: a guard's blind spot has to be counted, never folded

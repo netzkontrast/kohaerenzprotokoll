@@ -13,7 +13,7 @@ does with it.
 
 ### `lmrun.call`'s record, field by field
 
-Every real model call in this repository goes through
+Every model call `pairs.py` and `graphrag.py` make goes through
 `lmrun.call(program, *, step, subject="lm", approval=None, german=(), out_dir=None, **inputs)`,
 and each call appends exactly one JSON object to
 `Plan/runs/<subject>/lm/<step>.jsonl` (`scripts/lmrun.py`):
@@ -38,8 +38,8 @@ and each call appends exactly one JSON object to
 
 1. **Cache on refuses.** `if getattr(lm, "cache", True): raise RuntimeError(...)` —
    a cached call replays its first completion, and repeats measure nothing
-   (P18). `lmrun.make_lm()` is the only sanctioned way to build a real LM here,
-   and it forces `cache=False` explicitly (`kwargs.pop("cache", None)` then
+   (P18). `lmrun.make_lm()` is how `pairs.py` and `graphrag.py` build a real
+   LM, and it forces `cache=False` explicitly (`kwargs.pop("cache", None)` then
    `dspy.LM(model, cache=False, **kwargs)`).
 2. **No `approval=` refuses.** A non-fixture LM with nothing passed to
    `approval=` raises, naming that the author's decision has to be named
@@ -68,8 +68,11 @@ record, no four-way status, no German-language check on its own output — its
 own artifact is `03-candidates-rlm.md`, with its own header line recording
 `cost`, `approval`, `verified`, `reach` and `forced` in place of `lmrun`'s
 JSONL row (`scripts/rlm_ingest.py`). `rlm.md` has what those fields
-mean; the point here is that this repository currently has **two** approval
-gates for real model calls, not one, and they do not share a record format.
+mean. With `scripts/route.py` — the door for third-party tools and direct
+calls under decision 007, which records every call for offline replay — the
+rule „no corpus text leaves without the author's decision" has **three**
+encodings, with three record formats; which one the others should call is open
+(`NOW.md`, *Three encodings of one rule*).
 
 **What `unreachable` covers, since the 2026-09-24 fix.** `_unreachable(error)`
 walks the exception's `__cause__`/`__context__` chain and matches it against

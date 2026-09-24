@@ -123,12 +123,9 @@ a full-coverage one, and `judge()` on a forced case versus a complete one
 
 `dspy.RLM`'s default `interpreter_factory` needs Deno. Installed DSPy 3.3.1
 declares the extra `deno<3.0.0,>=2.4.5; extra == "deno"` in its own package
-metadata (verified in `.venv-dspy` here, 2026-09-24). This repository's line:
-
-```bash
-uv venv --python 3.11 .venv-dspy
-uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'   # numpy: SIMBA; deno: dspy.RLM
-```
+metadata (verified in `.venv-dspy` here, 2026-09-24). `scripts/install.sh dspy`
+installs `dspy[deno,numpy]==3.3.1`, and every cloud session runs it at start;
+`scripts/install.sh --check dspy` reports a venv without Deno as absent.
 
 **`which deno` can read empty while `dspy.RLM` still runs.**
 `_find_deno_executable()` prefers the Deno binary the `deno` PyPI package

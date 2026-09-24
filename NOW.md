@@ -315,9 +315,6 @@ needing a model:
   the tools and the reach. `dspy[deno]` now installs the sandbox, and
   `check_dspy_skill.py`'s `rlm-runs-offline` probe is the shape one would take
   (P5).
-- **Two approval gates, two record formats.** `rlm_ingest.py` builds its own
-  `dspy.LM` and never goes through `lmrun.call`, so a real RLM run would leave
-  no `Plan/runs/<subject>/lm/` record.
 - **Two baseline rows lag.** `rule:fold` was last recorded at n=49 against
   57 <!--state:pairs.labelled--> labelled pairs, `graphrag-retrieval` at 14
   cases against 17 <!--state:graphrag.cases-->. `pairs.py score --rule fold
@@ -334,9 +331,6 @@ needing a model:
 - **The path check covers one skill.** Extending it to every skill needs a
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
-- **A rebuilt `.venv-dspy` lacks `dspy_skills` and `drg-kg`.** `rlm_ingest.py`
-  needs the first to run and the second for `--score`; *Installing anything*
-  in `CLAUDE.md` has both lines.
 
 ## Half-done — the entity lists
 
