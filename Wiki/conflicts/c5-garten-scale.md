@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 2
+sources: 3
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -61,7 +61,7 @@ either source.
   and a garden in the same sentence with a containment word.
 - Any source using both spellings.
 - Document 4's `Nexus-Vorstufe` alias resolved: that document's own heading calls
-  this world a transition zone toward the Nexus, which already makes it something
+  this world a transition zone toward the [[nexus|Nexus]], which already makes it something
   other than a plain Kern-Welt in its own source. If so, the scale question may
   be one document's rather than two documents'. See [[nexus]].
 
@@ -69,3 +69,15 @@ either source.
 
 `c3-emergenz-origin`, which is about where a thing comes from. This is about how
 big a thing is, and it is the first conflict of that kind in the wiki.
+
+## 2026-09-24 — a third source gives it as a name of the fourth world
+
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` names KW4 twice over:
+
+> „KW4 Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L222]
+
+So on the scale question this source sides with the world reading of document 4,
+and it adds a second name for that world. It uses neither `Garten der
+Möglichkeiten` nor any containment word. **The conflict stays open**: one more
+source for one side is not a settlement, and this source's own claim to be
+„Source-of-Truth" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L11] is its claim, not the wiki's.
