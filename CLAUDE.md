@@ -41,9 +41,8 @@ The log is `.install.log`.
 
 | absent at start | rebuild (`scripts/install.sh <name>`) | needed for |
 |---|---|---|
-
 | `Plan/derived/` | `derived` — `python3 scripts/derive.py`, about 3s | `corpus.py`'s index path |
-| `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki`, `.venv-semantica` | `tools`, `typesafe`, `dspy`, `dspytools`, `grawiki`, `semantica` | only the step that names each |
+| `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki`, `.venv-semantica`, `.venv-mflow` | `tools`, `typesafe`, `dspy`, `dspytools`, `grawiki`, `semantica`, `mflow` | only the step that names each |
 | `jev-decide` | `jev` | the vendored `jev*` skills in API mode |
 | `graphify` CLI, with its `openai` extra | `graphify`, pinned to `4c73561` | the vendored `graphify` skill |
 | `cgr` (code-graph-rag) | `cgr` | nothing in the pipeline |
@@ -638,7 +637,7 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
-Six venvs are defined, all git-ignored, each for one reason. **None survives a
+Seven venvs are defined, all git-ignored, each for one reason. **None survives a
 container**; `scripts/install.sh` rebuilds each, and the commands below are what
 it runs:
 
@@ -650,6 +649,7 @@ it runs:
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
 | `.venv-grawiki` | **3.12** | `grawiki[falkordblite,viz]` from `netzkontrast/grawiki` at `920d181`, which refuses 3.11; about 2 GB with CPU torch |
 | `.venv-semantica` | 3.12 | `semantica==0.7.0`, the base package without extras — a knowledge-graph library with provenance tracking; about 480 MB |
+| `.venv-mflow` | 3.11 | `mflow-ai`, M-flow's graph memory — nothing calls it |
 
 ```bash
 uv venv --python 3.11 .venv-dspy
@@ -864,6 +864,34 @@ What it does not do, and why:
 Its telemetry is on by default; `OMO_SEND_ANONYMOUS_TELEMETRY=0` turns it off.
 Anything an OpenCode agent reads from the corpus goes to the providers above,
 so the Jev rule applies to it as to everything else here.
+
+**M-flow is installed on its own**, from the fork `netzkontrast/m_flow`, which
+has no commits of its own. Its head, `0d585cd` of 2026-08-03, is an upstream
+commit:
+
+```bash
+uv venv --python 3.11 .venv-mflow
+uv pip install --python .venv-mflow/bin/python "mflow-ai @ git+https://github.com/netzkontrast/m_flow"
+.venv-mflow/bin/mflow --help                # runs with no key and no network
+```
+
+It is not in `.venv-dspy`, because resolved beside DSPy 3.3.1 it moves four of
+DSPy's packages down, `pydantic` 2.13.5 → 2.12.5 among them. It builds a
+four-level graph — Episode → Facet → FacetPoint → Entity — in file-based Kuzu,
+LanceDB and SQLite, and by its own account scores each Episode by the cheapest
+path of evidence to the query. **Its default path breaks two rules this wiki
+keeps:** `memorize` has a model write the Facets and FacetPoints, and `search`
+has a model write the answer. Both steps call OpenAI by default, for the model
+and for the embeddings, so running either on corpus text sends that text to a
+third party. That waits on the author's yes. Its own unit suite passes 1232 of
+1235, run against the installed package with every key hidden and the network
+dead. One test is skipped, and the two failures time out retrying the embedding
+call. Even `mflow add` refuses without a model key, because every pipeline run
+first probes the model and the embeddings with the word „test". It writes only
+inside the venv. **Nothing calls it.**
+`Plan/concept/m-flow_2026-09-24.md` has the measurement, the two entry points
+that keep the rules (`manual_ingest` and `search(only_context=True)`), and the
+experiment that would decide whether it earns a place.
 
 ## Calling a model — the DSPy toolchain
 

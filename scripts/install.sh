@@ -44,6 +44,7 @@ COMPONENTS=(
   "dspy|.venv-dspy — DSPy $DSPY_VERSION, dspy-skills, strictyaml, drg-kg[extract]"
   "dspytools|.venv-dspytools (python 3.12) — dspytools"
   "grawiki|.venv-grawiki (python 3.12) — grawiki[falkordblite,viz], CPU torch"
+  "mflow|.venv-mflow (python 3.11) — mflow-ai from netzkontrast/m_flow; nothing calls it"
   "semantica|.venv-semantica (python 3.12) — semantica $SEMANTICA_VERSION, base package"
   "jev|jev-decide CLI (uv tool) — the vendored jev* skills in API mode"
   "graphify|graphify CLI with its openai extra (uv tool) — the vendored graphify skill"
@@ -73,6 +74,7 @@ present() {
     dspy)       .venv-dspy/bin/python -c "import dspy, dspy_skills, strictyaml, drg; assert dspy.__version__ == '$DSPY_VERSION'" 2>/dev/null ;;
     dspytools)  [[ -x .venv-dspytools/bin/dspytools ]] ;;
     grawiki)    .venv-grawiki/bin/python -c "import grawiki, redislite" 2>/dev/null ;;
+    mflow)      [[ -x .venv-mflow/bin/mflow ]] ;;
     semantica)  .venv-semantica/bin/python -c "import importlib.metadata as m; assert m.version('semantica') == '$SEMANTICA_VERSION'; import semantica" 2>/dev/null ;;
     jev)        have jev-decide ;;
     graphify)   have graphify && "$(dirname "$(readlink -f "$(command -v graphify)")")/python" -c "import openai" 2>/dev/null ;;
@@ -122,6 +124,11 @@ install_one() {
       # a fraction of the CUDA one and a cloud container has no GPU.
       uv pip install -q --python .venv-grawiki/bin/python --torch-backend cpu \
         "grawiki[falkordblite,viz] @ git+https://github.com/netzkontrast/grawiki@$GRAWIKI_REF" ;;
+    mflow)
+      need_uv || return 1
+      # its own venv: beside DSPy 3.3.1 it moves four of DSPy's packages down (CLAUDE.md)
+      [[ -x .venv-mflow/bin/python ]] || uv venv -q --python 3.11 .venv-mflow || return 1
+      uv pip install -q --python .venv-mflow/bin/python "mflow-ai @ git+https://github.com/netzkontrast/m_flow" ;;
     semantica)
       need_uv || return 1
       [[ -x .venv-semantica/bin/python ]] || uv venv -q --python 3.12 .venv-semantica || return 1

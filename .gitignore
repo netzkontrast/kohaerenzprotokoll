@@ -45,3 +45,4 @@ graphify-out/
 .install.log
 .venv-grawiki/
 .venv-semantica/
+.venv-mflow/

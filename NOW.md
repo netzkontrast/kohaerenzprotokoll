@@ -88,6 +88,9 @@ before this list.
 - **TypeSafe/Jev beyond the two uses already approved.**
 - **How far `ask` may go** — chosen quotations only, or also a framing sentence
   marked as the model's.
+- **M-flow and corpus text.** It is installed and nothing calls it. May any
+  corpus text go through it, and to whom? If its one experiment that keeps the
+  rules is wanted, how does a page map onto its four levels?
 - **A reviewed page and a new source that contradicts it** — needed before the
   first promotion.
 - **The quote convention** — a quotation carries its reference in the same table
@@ -206,6 +209,19 @@ and refused when empty:
 prose, because prose over two sources is a merge (P13). Whether an answer should
 ever be more than chosen quotations — a framing sentence, a summary marked as
 the model's — is the author's to decide, and nothing builds it until then.
+
+**M-flow — installed on 2026-09-24, and nothing calls it.** The author asked for
+it to be installed, and it is, in `.venv-mflow`. Its default path has a model
+write the graph (`memorize`) and the answer (`search`), and both steps call
+OpenAI. The graph would be paraphrase where the wiki quotes, the answer would be
+the merge `ask` refuses, and both would send corpus words out. Two entry points
+avoid the first two: `manual_ingest` takes structure a person wrote, and
+`search(only_context=True)` skips the answer. They make one experiment possible:
+load the wiki's own pages and score M-flow on `graphrag.py bench` against
+PageRank. It needs two answers first. May the wiki's quotations be embedded by a
+third party, or only locally with `fastembed`? And how does a page map onto
+Episode, Facet, FacetPoint and Entity? `Plan/concept/m-flow_2026-09-24.md` has
+the measurement and the detail.
 
 **Where `GOAL.md` and this repository's rules disagree — the author's to settle
 before Phase 0 of the goal starts.** `GOAL.md` is now the project's general
