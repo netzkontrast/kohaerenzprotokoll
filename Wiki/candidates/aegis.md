@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 8
-readings: 9
+sources: 9
+readings: 10
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -227,3 +227,8 @@ Its fate: „AEGIS-monolithisch erlischt; AEGIS-plural entsteht." ^[koharenz-pro
 „AEGIS *glaubt* K₁ (Kohärenz) zu sein, *ist* aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
 „AEGIS = unschuldig im Bösen" ^[kapitel-kompendium-gather-2026-05-31-md.md:L52]. B's cost: „AEGIS-monolithisch erlischt"
 ^[kapitel-kompendium-gather-2026-05-31-md.md:L148], in Kap 36.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+In KW1: „AEGIS ist Umgebungsbedingung — keine Figur in KW1." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L179] In the
+Überwelt: „AEGIS hat kein Innen — er ist autopoietisch geschlossen." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L611]
