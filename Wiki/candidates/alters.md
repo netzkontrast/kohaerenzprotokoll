@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 2
-readings: 1
+sources: 3
+readings: 2
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -77,3 +77,41 @@ Alters` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L225], whose profile ca
 The count and the correspondence. Four named across four worlds looks like a
 one-to-one rule and the document does not state one — „wie" leaves every level's
 roster open, and [[kael|Kael]]'s own [[personas|Personas]] are never enumerated.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**A closed roster of thirteen, and fifteen names struck from it.** This is the
+first read source that counts the Alters and names every one.
+
+> „System Kael (TSDP-Architektur, 13 Alter)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L253]
+
+| category | Alter | function | source line |
+|---|---|---|--:|
+| ANP | [[kael|Kael]] (Host) | amnestische Oberfläche | 260 |
+| ANP | Lex | Rationalist | 261 |
+| ANP | Alex | Protector | 262 |
+| ANP | Rhys | Caregiver | 263 |
+| ANP | Selene | ISH | 264 |
+| EP | Nyx | Fight | 265 |
+| EP | Kiko | Freeze | 266 |
+| EP | Lia | Ambivalent | 267 |
+| EP | Isabelle | Sexualisiert | 268 |
+| EP | Moros | Kollaps | 269 |
+| Sonder | Argus | Meta-Kognitiv | 270 |
+| Spiegel | Silas | Juna-Echo ([[coheron|Coheron]]) | 271 |
+| Spiegel | Oblivion | AEGIS-Echo (Erason) | 272 |
+
+> „Dekanonisiert (NIE als aktive Charaktere): Index, Nox, Echo, Flicker, Limina,
+> Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel."
+> ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L278]
+
+**Four of those fifteen are the Alters this page recorded from
+`roman-lokalitaeten-konzept-und-ausarbeitung`** — `Limina`, `Echo`, `Nox` —
+and that document's fourth, `Orakel/Muse`, is on neither list. Two sources, a
+year apart; this one labels its list `[K]` and says the removed names are never
+active. The page records both and decides nothing.
+
+Every Alter speaks in first person — „Alle 13 Alter sprechen in 1. Person"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206]. No page is created per Alter: the document says its figure entries
+are only „outline-relevante Kurzanker" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L13], and the character bible it
+defers to is landed and unread.
