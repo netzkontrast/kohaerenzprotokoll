@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -162,3 +162,9 @@ Reaktion auf Risse, dynamisches Patching der Simulation." ^[kohaerenz-protokoll-
 „Wärme manifestiert sich als Risse." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L38] And the reading turns on the Vortex: „Für den Roman sind sie das Atmen der Realität" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L571].
 
 `Glitches` is this document's word for them in the Kernwelten — „Jede Glitch in den Kernwelten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L800].
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The first one is Kap 2: „Riss = Landauer-Hitze/Ozon (Verdrängung wird sichtbar)"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L191]. Before the word is allowed, the multiplicity shows only in them: „In
+Akt I spürt der Leser sie nur über Glitches" ^[kapitel-kompendium-gather-2026-05-31-md.md:L44].
