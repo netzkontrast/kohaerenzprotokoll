@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      33
+  backslash escapes      284
+  typographic marks      81
+  ascii quotes           24
+
+# inflection families -- one term, several surfaces
+  story    Story, Storyform, Storyforming, Storyforms, Storypoint, Storypoints, Storyweaving
+  doppe    DOPPEL, Doppelfiguren, Doppelklangs, Doppelrolle, Doppelstruktur
+  kapit    Kapitel, Kapitelbereich, Kapiteln, Kapitels, Kapitelzuordnung
+  mecha    Mechanik, Mechaniken, Mechanische, Mechanismus
+  ersch    Erscheinungen, Erscheinungsmodi, Erschöpfung
+  opera    Operationen, Operative, Operator
+  optio    Option, Optionen, Optionlock
+  aktio    Aktion, Aktionen
+  algor    Algorithmische, Algorithmischer
+  alter    Alter, Alters
+  antwo    Antwort, Antworten
+  archi    Archipel, Architektur
+  barri    Barriere, Barrieren
+  bridg    Bridge, Bridges
+  chara    Charakter, Charaktere
+  defau    Default, Defaultmodus
+  diale    Dialetheia, Dialetheic
+  dynam    Dynamic, Dynamics
+  entsc    Entscheidung, Entscheidungen
+  eskal    Eskalation, Eskalierende
+  fanta    Fantasie, Fantasy
+  frage    Frage, Fragen
+  funkt    Funktion, Funktionale
+  gesch    Geschlossenheit, Geschrieben
+  guard    Guardian, Guardians
+
+# substring pairs -- never one term, often merged by accident
+  Nach < Nachher
+  Satz < Absatz
+  Akte < Fakten
+  Akte < Charakter
+  Akte < Charaktere
+  Riss < Risse
+  Chat < Chats
+  Plot < Subplots
+  Link < Links
+  Beat < Beats
+  Slot < Slots
+  Juna < Junas
+  Doku < Dokumente
+  Doku < Originaldokumente
+  Form < Storyform
+  Form < Storyforms
+  Form < Information
+  Form < Storyforming
+  Plus < Plusquamperfekt
+  Soft < Software

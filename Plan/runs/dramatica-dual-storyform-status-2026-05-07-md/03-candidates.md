@@ -1,0 +1,222 @@
+---
+written_by: hand, while reading (Claude, in session)
+document: dramatica-dual-storyform-status-2026-05-07-md
+---
+
+# Candidates — written while reading
+
+- Dramatica
+- Dual-Storyform
+- Lock-In
+- Storyforming-Audit
+- Per-Chapter-Architektur
+- Phase 1
+- MC Throughline-Encoding
+- Phillips/Huntley
+- Hull/Subtxt
+- Per-Chapter-Dual-POV-Architektur
+- Option 3
+- Hybrid
+- Approach
+- Be-er
+- Do-er
+- Legality-Verletzung
+- Dramatica Hard Rule
+- Driver-Pivot
+- Driver
+- Decision
+- Action
+- Vortex
+- Storyform-Übergang
+- IC-Träger
+- Kael
+- Mind/Conscious
+- lebende Paradoxie
+- AEGIS
+- Juna
+- Hard-Routing
+- Bridge-Szenen
+- Soft-Layering
+- Polyphonie
+- post-Dramatica-Innovation
+- Universe
+- Mind
+- Physics
+- Psychology
+- Throughlines
+- MC
+- IC
+- OS
+- RS
+- Diagonal-Rule
+- Static-Pair
+- Process-Pair
+- MC Concern
+- Memory
+- Progress
+- MC Issue
+- Falsehood
+- Fact
+- Variation-Quad
+- MC Problem
+- MC Solution
+- Dynamic Pair
+- Avoidance
+- Pursuit
+- Logic
+- Feeling
+- Resolve
+- Change
+- Steadfast
+- Outcome
+- Judgment
+- Success
+- Failure
+- Happy Ending
+- Tragedy
+- Klein-c-Inversion
+- Truth-Rotation
+- Story-Engine
+- Funktionale Multiplizität
+- 12 Protokolle
+- Erasure-Sweeps
+- Guardian-Deployments
+- Phoenix Collapse
+- First Driver
+- Last Driver
+- Phoenix-Collapse
+- Memory-Slots
+- DOPPEL-IC
+- Synthese-Doku
+- Universe / Past
+- Genesis-Krise
+- Witness-Funktion
+- Gödel-Eigenschaft
+- Vortex-Inversion
+- IC-Asymmetrie
+- Grand Argument Story
+- Subplots
+- Outcome
+- Limit
+- 5D-Interferenzmuster
+- Optionlock
+- Timelock
+- Zwei Uhren
+- Erasure-Countdown
+- Alters
+- Integrationsoptionen
+- Storyweaving
+- Heuristics of Integration
+- K1
+- K0
+- Growth
+- Start
+- Stop
+- Problem-Solving Style
+- Holistic
+- Linear
+- Story Limit
+- Story Outcome
+- Story Judgment
+- MC Domain
+- Fixed Attitude
+- Situation
+- MC-Träger
+- IC Domain
+- IC Concern
+- Past
+- Conscious
+- OS Domain
+- Manipulation Simulation
+- kybernetischer Krieg
+- RS Domain
+- Moonshine-Link
+- Host/System-Manipulation
+- Premise
+- Trauma
+- ANP-Funktion
+- Telefon-Stille
+- Guardians
+- Moonshine-Brücke
+- Mutual Information
+- Risse
+- Operative Geschlossenheit
+- Erasure-Logik
+- Entropie
+- Algorithmische Melancholie
+- Protokoll-Deployments
+- Bug
+- Trennungsprotokolle
+- Mnemosyne-Archipel
+- Host
+- Convergence
+- Dialetheic Choice
+- ANP/EP-Barrieren
+- Silence
+- Dialetheia
+- Heat-Spike
+- Landauer
+- Rotation
+- Stroke
+- Landauer-Hitze
+- Default-Modus
+- POV
+- ANP-K1
+- Lex
+- Alex
+- Rhys
+- Selene
+- EPs
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Argus
+- Meta-Kognition
+- Juna-POV
+- Erscheinungsmodi
+- Spiegel-Alters
+- Silas
+- Oblivion
+- Lesersteuerung
+- Coheron-Echo
+- Erason-Operator
+- Riss-Szenen
+- Vortex-Vorläufer
+- Genesis-Flashbacks
+- Mikrocue-Kit
+- Sensorik-Shifts
+- Syntax-Brüche
+- Footnote-Disruption
+- Tempus-Verschiebungen
+- Kursive Einschübe
+- Bridge-Frequenz
+- Multiplizitäts-Schleier
+- Juna-Seed
+- FM-Achievement
+- Mudding
+- Memory Slot 5
+- Reset-Doc
+- Appendix C
+- Post-Vortex-AEGIS-Status
+- Moonshine-Boundary
+- Junas Erscheinungsmodi-Anker
+- Genesis 4.Beat
+- Einheit
+- Trennungsprotokoll
+- Komp 734
+- Telling-Phase
+- Struktur-Kanon-Markdown
+- Synthese-PDF
+- Szenen-Keime
+- Block 4
+- Pilot-Encoding-Kapitel
+
+## Observations
+
+* L29 is the lock-in the storyform-und-outline cites: „Approach-Werte beider
+  Storyforms gespiegelt. A: Be-er (vorher Do-er). B: Do-er (vorher Be-er)."
+* L416 asks for the canon documents outside the chat to be updated to it.
+* L408: „Aktuell 3 Beats … Braucht es einen vierten?"
+* L278, L295: Beat 4 is the Landauer heat spike.

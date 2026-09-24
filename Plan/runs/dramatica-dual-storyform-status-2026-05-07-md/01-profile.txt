@@ -1,0 +1,14 @@
+# dramatica-dual-storyform-status-2026-05-07-md
+  lines                474  (frontmatter ends at 9)
+  body words           3582
+  headings             30   bold-only lines 2
+  table rows           89   code fences 0
+  question marks       18
+  backslash escapes    284
+  typographic marks    81   ascii quotes 24
+  invisible characters none
+  math symbol lines    14
+  glued ref numbers    33
+  repeated labels      none
+  longest line         609 chars
+
