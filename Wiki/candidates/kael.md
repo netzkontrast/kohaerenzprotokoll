@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-16"
 ---
 
@@ -158,3 +158,10 @@ document 7's side, from the document document 7 names as its highest source.
 Rolle: Komponente 734, Archivar Klasse II" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L156]. The knuckles: „Kap-0-Lock:
 dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] — conflict C10, on
 document 7's side.
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+Be-er in A — „Kaels Heilung ist Funktionale Multiplizität (*Sein*), keine externe
+Handlungssequenz." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L97] — and, from this day, the IC of B: „Kael ist der
+strukturelle IC-Träger in B" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L31], „Kael ist der "Bug, der nicht gefixt werden
+kann."" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L226]
