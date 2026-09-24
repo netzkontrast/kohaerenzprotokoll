@@ -4,7 +4,7 @@ question: Five Guardians, four Kern-Welten — is each Guardian paired with a wo
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
 documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
-conflict: C6
+conflict: C6, C9
 gathered: "2026-09-24"
 ---
 
@@ -37,3 +37,10 @@ Left open when the author decided C6 (five Guardians, 2026-09-24).
 ## What would answer it
 
 The author.
+
+## 2026-09-24 — C9 decided, and it sharpens the naming half
+
+The author decided the Konstrukt-Stadt is the whole simulation (C9). So KW1 needs
+a name of its own; the 2026 sources give „Logos-Prime", the 2025 ones gave none
+but the Konstrukt-Stadt. Still open, with the pairing and the Erasure-Pol.
+
