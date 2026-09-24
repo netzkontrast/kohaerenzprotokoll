@@ -19,9 +19,10 @@ scanned repository supplied:
   only about the rest. A model is never given the chance to undo a rule's merge.
   The model still *trains* on every labelled row outside the held-out fold,
   including the pairs the rule answers.
-- **Pinned, stratified folds.** Canaries are never training data. The labelled
-  rows are split by decision into k folds deterministically by id, and each
-  row is scored by a program compiled without it.
+- **Pinned, stratified folds.** Canaries are never training data. All judgements
+  of the same unordered, folded surface pair stay in one fold. Groups are
+  assigned by decision with row counts balanced across folds; each row is
+  scored by a program compiled without that pair.
 - **Hard negatives in the labeled rung.** Among *training* rows, two labelled
   lookalikes that are different terms get reserved demo slots. `LabeledFewShot`
   uses `sample=False` to preserve that choice; the never-merge canaries remain
@@ -152,14 +153,30 @@ def canaries() -> list[tuple[str, str]]:
     return list(MUST_NOT_MERGE)
 
 
+def pair_key(row: dict) -> tuple[str, str]:
+    """The two surfaces are unordered; fold() ignores their spelling variants."""
+    return tuple(sorted((fold(row["first"]), fold(row["second"]))))
+
+
 def folds(labelled: list[dict], k: int) -> list[list[dict]]:
-    """Stratified by decision, deterministic by id: the same rows, the same folds."""
+    """Keep repeated surface pairs together, while balancing decision counts."""
+    if k < 2:
+        raise ValueError("fold count must be at least two")
+    groups: dict[tuple[str, str], list[dict]] = {}
+    for row in labelled:
+        groups.setdefault(pair_key(row), []).append(row)
+    for key, group in groups.items():
+        if len({r["decision"] for r in group}) != 1:
+            raise ValueError(f"conflicting judgements for surface pair {key!r}")
     out: list[list[dict]] = [[] for _ in range(k)]
+    counts = [{decision: 0 for decision in trainset.DECIDED} for _ in range(k)]
     for decision in trainset.DECIDED:
-        group = sorted((r for r in labelled if r["decision"] == decision),
-                       key=lambda r: baseline.digest(r["id"]))
-        for i, r in enumerate(group):
-            out[i % k].append(r)
+        ordered = sorted((group for group in groups.values() if group[0]["decision"] == decision),
+                         key=lambda group: baseline.digest(pair_key(group[0])))
+        for group in ordered:
+            i = min(range(k), key=lambda index: (counts[index][decision], len(out[index]), index))
+            out[i].extend(sorted(group, key=lambda r: r["id"]))
+            counts[i][decision] += len(group)
     return [f for f in out if f]
 
 
@@ -230,6 +247,8 @@ def selftest() -> tuple[list[str], int]:
         failures.append("a canary reached the model trainset")
     for held in folds(labelled, 5):
         training = [r for r in labelled if r["id"] not in {h["id"] for h in held}]
+        if {pair_key(r) for r in held} & {pair_key(r) for r in training}:
+            failures.append("a held-out surface pair reached training")
         demos = labeled_demos(training)
         if {r["id"] for r in demos} & {r["id"] for r in held}:
             failures.append("a held-out row reached the labeled demos")
@@ -237,7 +256,21 @@ def selftest() -> tuple[list[str], int]:
             failures.append("a fold's demos omitted hard negatives")
         if demos != labeled_demos(list(reversed(training))):
             failures.append("demo choice depends on ledger order")
-    return failures, len(merges) + 1 + len(too_far) + 3
+    if {frozenset(r["id"] for r in held) for held in folds(labelled, 5)} != \
+            {frozenset(r["id"] for r in held) for held in folds(list(reversed(labelled)), 5)}:
+        failures.append("fold assignments depend on ledger order")
+    # A future contradictory judgement must stop a run before any model calls.
+    contradiction = dict(labelled[0], id="conflicting-test",
+                         decision="two-terms" if labelled[0]["decision"] == "one-term"
+                         else "one-term")
+    try:
+        folds(labelled + [contradiction], 5)
+    except ValueError as exc:
+        if "conflicting judgements" not in str(exc):
+            failures.append(f"unexpected conflict error: {exc}")
+    else:
+        failures.append("contradictory judgements reached model folds")
+    return failures, len(merges) + 1 + len(too_far) + 6
 
 
 # --- the model half: imported only when a model is asked for ---------------------
@@ -360,6 +393,7 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
 
     entry = baseline.row(TASK, f"{'dry-run:' if dry_run else ''}rule:{rule}+{name}:{model or 'fixture'}",
                          outcomes, program=[inspect.getsource(first), inspect.getsource(fold),
+                                            inspect.getsource(pair_key), inspect.getsource(folds),
                                             *([inspect.getsource(is_hard_negative),
                                                inspect.getsource(labeled_demos)]
                                               if name == "labeled" else []), compiled_states],
