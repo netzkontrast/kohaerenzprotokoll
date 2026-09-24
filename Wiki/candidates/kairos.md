@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -97,3 +97,8 @@ Absorbed into the Erasure-Pol (L217), where the character bible called it latent
 
 Named as not active: „LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive
 Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] „Kairos und Sophia** als Guardians sind dekanonisiert" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404]; „Kanonisch ist „Kairos-Potentialis" als mythologische Welt-Bezeichnung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+Absorbed into the Erasure-Pol: „Die alten Cerberus-, LogOS-, Kairos-Funktionen
+sind hier absorbiert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L306] — as in the konsolidiertes Konzept.
