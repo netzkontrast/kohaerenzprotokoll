@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 2
+sources: 3
 pages: ["entropie"]
 ---
 
@@ -54,3 +54,19 @@ these it is. **[[entropie|Entropie]] carries `MISSING` for exactly that.**
 - Is sense 2 the project's, or only the postulate's, as reported by a critic?
 - Does the project's working sense in source 1 match any of the three external
   senses it commissions?
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**A third reading, which keeps sense 1 and turns it on AEGIS.** Entropy is still
+what AEGIS fights — and AEGIS is it:
+
+> „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32]
+
+„AEGIS kämpft gegen die Entropie, die es selbst erzeugt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L135] What AEGIS
+takes for the hostile chaos, the Nichts-Rauschen, is instead „die atemporale
+Vereinigung aller mutualen Information" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32] — so the „schöpferische Matrix" of
+sense 2 has a counterpart here, under another name and not called entropy.
+
+This is the first read source that states the project's own sense flatly, in a
+table of what AEGIS believes against „Was tatsächlich gilt" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L122]. It is one
+source; the conflict stays open.
