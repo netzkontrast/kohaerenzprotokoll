@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -42,3 +42,8 @@ Kael meets the Überwelt implicitly in Vortex 1, „(Algorithmische Melancholie)
 Vortex 1's fifth beat, „Rotation** (Algorithmische Melancholie)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L279], and an open
 question from the Reset-Doc: „Was *ist* AEGIS in Algorithmischer Melancholie?"
 ^[dramatica-dual-storyform-status-2026-05-07-md.md:L405]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+[[aegis|AEGIS]]' state after Vortex 1, Beat 5: „Lebende Reliquie: operativ aktiv, aber ohne
+Selbstreferenzfähigkeit" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L347].
