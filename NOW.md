@@ -217,6 +217,18 @@ German compounds that nothing has tested. The fixture is nearly free: every
 `Wiki/questions/` page and conflict record already says „a search finds this in
 `<slug>`". Plan: `Plan/concept/skills_2026-09-17.md`.
 
+**The first inline RLM retrieval trial did not return an answer (2026-09-25).**
+With the author's explicit consent, `scripts/rlm_retrieval.py` sent only the
+`C10` and `Q2` questions and any requested wiki titles/verified quotations to
+OpenRouter's free Nemotron model. Both cases had baseline recall 0 because
+they found no seed. Both RLM calls reached `max_iters=5` without submitting;
+DSPy forced final extraction, returned no page IDs, and the runner recorded
+each as *unscored*, not recall 0. The Deno sandbox and an independent offline
+RLM probe did run. The current search tool finds no page for the literal
+English queries `bleeding knuckles` or `protocol`; whether translation,
+broader browsing, or a different model fixes this is unmeasured. No result
+supports claiming RLM beats the search baseline.
+
 **The plural rule exists, and `fold()` has not adopted it.** `fold()` removes
 the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
