@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -139,6 +139,18 @@ view rather than a second account.
 
 **Each kind has an Alter as its trigger** — a table of five rows, L237 to L241,
 headed „EP-Trigger → Riss-Typ" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L230]: Nyx kinetisch, Kiko temporal, Lia/Isabelle
-spatial, Moros gravitational, Isabelle sensorisch. The first Riss of the novel is
+spatial, [[moros|Moros]] gravitational, [[isabelle|Isabelle]] sensorisch. The first Riss of the novel is
 Kap 2, glossed „Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird
 sichtbar)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]. See [[landauer-signatur]].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**Five modes, two mirrors, four worlds.** The §12 table (L1003–L1008) gives each
+dissociative mode its bearer and distortion — Fight/Nyx kinetisch, Freeze/[[kiko|Kiko]]
+temporal, Flight/„Kiko (zweite Funktion), Lia" spatial, Collapse/Moros gravitativ,
+Sexualisiert/Isabelle sensorisch. Two more for the mirrors — „Silas
+(Coheron-Echo): Relational/warm" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1016] and „Oblivion (Erason-Operator):
+Temporal/gravitativ" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1017] — and one per world (L1025–L1028).
+
+A Riss is also [[aegis|AEGIS]]' third protocol's trigger: „Re-Containment-Protokoll —
+Reaktion auf Risse, dynamisches Patching der Simulation." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L133]
