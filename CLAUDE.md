@@ -35,7 +35,7 @@ each has one command that rebuilds it:
 | absent at start | rebuild | needed for |
 |---|---|---|
 | `Plan/derived/` | `python3 scripts/derive.py` (about 3s) | `corpus.py`'s index path |
-| `.venv-tools`, `.venv-dspy`, `.venv-dspytools`, `.venv-typesafe` | the commands under *Installing anything* | only the step that names each |
+| `.venv-tools`, `.venv-dspy`, `.venv-dspytools`, `.venv-typesafe`, `.venv-mflow` | the commands under *Installing anything* | only the step that names each |
 | qmd, its models and index | `scripts/setup_qmd.sh` | searching; nothing in the pipeline |
 | `jev-decide` | under *Installing anything* | the vendored `jev*` skills in API mode |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
@@ -625,7 +625,7 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
-Four venvs are defined, all git-ignored, each for one reason. **None survives a
+Five venvs are defined, all git-ignored, each for one reason. **None survives a
 container**; each is rebuilt by the commands below when a step needs it:
 
 | venv | python | why |
@@ -634,6 +634,7 @@ container**; each is rebuilt by the commands below when a step needs it:
 | `.venv-dspy` | 3.11 | DSPy 3.3.1 with numpy — every `scripts/` step that calls a model or its fixture |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
+| `.venv-mflow` | 3.11 | `mflow-ai`, M-flow's graph memory — nothing calls it |
 
 ```bash
 uv venv --python 3.11 .venv-dspy
@@ -716,6 +717,34 @@ uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://git
 reachable, and measured against this repository —
 `Plan/concept/continuous-improvement_2026-09-17.md` has what each is for and in
 what order.
+
+**M-flow is installed on its own**, from the fork `netzkontrast/m_flow`, which
+has no commits of its own. Its head, `0d585cd` of 2026-08-03, is an upstream
+commit:
+
+```bash
+uv venv --python 3.11 .venv-mflow
+uv pip install --python .venv-mflow/bin/python "mflow-ai @ git+https://github.com/netzkontrast/m_flow"
+.venv-mflow/bin/mflow --help                # runs with no key and no network
+```
+
+It is not in `.venv-dspy`, because resolved beside DSPy 3.3.1 it moves four of
+DSPy's packages down, `pydantic` 2.13.5 → 2.12.5 among them. It builds a
+four-level graph — Episode → Facet → FacetPoint → Entity — in file-based Kuzu,
+LanceDB and SQLite, and by its own account scores each Episode by the cheapest
+path of evidence to the query. **Its default path breaks two rules this wiki
+keeps:** `memorize` has a model write the Facets and FacetPoints, and `search`
+has a model write the answer. Both steps call OpenAI by default, for the model
+and for the embeddings, so running either on corpus text sends that text to a
+third party. That waits on the author's yes. Its own unit suite passes 1232 of
+1235, run against the installed package with every key hidden and the network
+dead. One test is skipped, and the two failures time out retrying the embedding
+call. Even `mflow add` refuses without a model key, because every pipeline run
+first probes the model and the embeddings with the word „test". It writes only
+inside the venv. **Nothing calls it.**
+`Plan/concept/m-flow_2026-09-24.md` has the measurement, the two entry points
+that keep the rules (`manual_ingest` and `search(only_context=True)`), and the
+experiment that would decide whether it earns a place.
 
 ## Calling a model — the DSPy toolchain
 
