@@ -1,0 +1,15 @@
+  derived       Plan/derived/ — corpus.py's index path (python3 scripts/derive.py)
+  tools         .venv-tools — markitdown, for sources.py land
+  typesafe      .venv-typesafe — typesafe-sdk, for bilingual.py and jev_entities.py
+  dspy          .venv-dspy — DSPy 3.3.1, dspy-skills, strictyaml, drg-kg[extract]
+  dspytools     .venv-dspytools (python 3.12) — dspytools
+  grawiki       .venv-grawiki (python 3.12) — grawiki[falkordblite,viz], CPU torch
+  mflow         .venv-mflow (python 3.11) — mflow-ai from netzkontrast/m_flow; nothing calls it
+  semantica     .venv-semantica (python 3.12) — semantica 0.7.0, base package
+  jev           jev-decide CLI (uv tool) — the vendored jev* skills in API mode
+  graphify      graphify CLI with its openai extra (uv tool) — the vendored graphify skill
+  cgr           code-graph-rag CLI (uv tool, python 3.12) — cgr
+  hyperextract  he and he-mcp (uv tool, python 3.12) — Hyper-Extract, the hyper-extract MCP server
+  omo           OpenCode 1.18.32 (npm -g) with the oh-my-openagent 4.19.4 plugin; no provider sign-in
+  qmd           qmd package in .tools-node and the /usr/local/bin/qmd shim
+  qmd-models    qmd's ~2.1 GB models, index and embeddings — not in the default set

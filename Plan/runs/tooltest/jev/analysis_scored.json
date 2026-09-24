@@ -1,0 +1,730 @@
+[
+ {
+  "id": "J20",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Wächter",
+   "Guardian"
+  ],
+  "person": "judgement",
+  "jev_score_a1": 1.58,
+  "jev_score_a2": 1.43,
+  "jev_conf_a1": 0.37,
+  "jev_conf_a2": 0.14,
+  "jev_probs_a1": {
+   "0": 0.06,
+   "1": 0.29,
+   "2": 0.65
+  },
+  "jev_probs_a2": {
+   "0": 0.11,
+   "1": 0.35,
+   "2": 0.54
+  },
+  "jev_noul_a1": 0.17,
+  "jev_noul_a2": 0.15,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": false
+ },
+ {
+  "id": "J21",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Entropie-Score",
+   "globaler Entropie-Score"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.28,
+  "jev_score_a2": 1.25,
+  "jev_conf_a1": 0.2,
+  "jev_conf_a2": 0.26,
+  "jev_probs_a1": {
+   "0": 0.13,
+   "1": 0.46,
+   "2": 0.41
+  },
+  "jev_probs_a2": {
+   "0": 0.13,
+   "1": 0.5,
+   "2": 0.37
+  },
+  "jev_noul_a1": 0.22,
+  "jev_noul_a2": 0.22,
+  "jev_decision_a1": "judgement",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": true
+ },
+ {
+  "id": "J22",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Guardian",
+   "IntegrityGuardian"
+  ],
+  "person": "two-terms",
+  "jev_score_a1": 1.17,
+  "jev_score_a2": 1.21,
+  "jev_conf_a1": 0.45,
+  "jev_conf_a2": 0.44,
+  "jev_probs_a1": {
+   "0": 0.1,
+   "1": 0.63,
+   "2": 0.27
+  },
+  "jev_probs_a2": {
+   "0": 0.08,
+   "1": 0.63,
+   "2": 0.29
+  },
+  "jev_noul_a1": 0.16,
+  "jev_noul_a2": 0.16,
+  "jev_decision_a1": "judgement",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": true
+ },
+ {
+  "id": "J23",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Guardian",
+   "Guardians"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.9,
+  "jev_score_a2": 1.88,
+  "jev_conf_a1": 0.85,
+  "jev_conf_a2": 0.82,
+  "jev_probs_a1": {
+   "0": 0.02,
+   "1": 0.06,
+   "2": 0.92
+  },
+  "jev_probs_a2": {
+   "0": 0.02,
+   "1": 0.08,
+   "2": 0.9
+  },
+  "jev_noul_a1": 0.25,
+  "jev_noul_a2": 0.24,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "one-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J24",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Riss",
+   "Risse"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.84,
+  "jev_score_a2": 1.85,
+  "jev_conf_a1": 0.76,
+  "jev_conf_a2": 0.78,
+  "jev_probs_a1": {
+   "0": 0.04,
+   "1": 0.08,
+   "2": 0.88
+  },
+  "jev_probs_a2": {
+   "0": 0.04,
+   "1": 0.08,
+   "2": 0.88
+  },
+  "jev_noul_a1": 0.39,
+  "jev_noul_a2": 0.41,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "one-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J25",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Alter",
+   "Alters"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 0.57,
+  "jev_score_a2": 0.6,
+  "jev_conf_a1": 0.14,
+  "jev_conf_a2": 0.1,
+  "jev_probs_a1": {
+   "0": 0.63,
+   "1": 0.17,
+   "2": 0.2
+  },
+  "jev_probs_a2": {
+   "0": 0.62,
+   "1": 0.15,
+   "2": 0.23
+  },
+  "jev_noul_a1": 0.47,
+  "jev_noul_a2": 0.47,
+  "jev_decision_a1": "judgement",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": true
+ },
+ {
+  "id": "J26",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Kernwelt 1",
+   "Kern-Welt"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.63,
+  "jev_score_a2": 1.61,
+  "jev_conf_a1": 0.45,
+  "jev_conf_a2": 0.41,
+  "jev_probs_a1": {
+   "0": 0.07,
+   "1": 0.23,
+   "2": 0.7
+  },
+  "jev_probs_a2": {
+   "0": 0.08,
+   "1": 0.24,
+   "2": 0.68
+  },
+  "jev_noul_a1": 0.14,
+  "jev_noul_a2": 0.15,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "one-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J27",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Entropie",
+   "Prä-Entropie"
+  ],
+  "person": "two-terms",
+  "jev_score_a1": 0.52,
+  "jev_score_a2": 0.53,
+  "jev_conf_a1": 0.22,
+  "jev_conf_a2": 0.21,
+  "jev_probs_a1": {
+   "0": 0.53,
+   "1": 0.42,
+   "2": 0.05
+  },
+  "jev_probs_a2": {
+   "0": 0.53,
+   "1": 0.41,
+   "2": 0.06
+  },
+  "jev_noul_a1": 0.16,
+  "jev_noul_a2": 0.18,
+  "jev_decision_a1": "judgement",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": true
+ },
+ {
+  "id": "J28",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Entropie",
+   "Entropiemanagement"
+  ],
+  "person": "judgement",
+  "jev_score_a1": 0.51,
+  "jev_score_a2": 0.63,
+  "jev_conf_a1": 0.23,
+  "jev_conf_a2": 0.34,
+  "jev_probs_a1": {
+   "0": 0.51,
+   "1": 0.47,
+   "2": 0.02
+  },
+  "jev_probs_a2": {
+   "0": 0.41,
+   "1": 0.56,
+   "2": 0.03
+  },
+  "jev_noul_a1": 0.19,
+  "jev_noul_a2": 0.18,
+  "jev_decision_a1": "judgement",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": true
+ },
+ {
+  "id": "J29",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "AEGIS",
+   "Rest-AEGIS"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 0.49,
+  "jev_score_a2": 0.47,
+  "jev_conf_a1": 0.26,
+  "jev_conf_a2": 0.3,
+  "jev_probs_a1": {
+   "0": 0.54,
+   "1": 0.42,
+   "2": 0.04
+  },
+  "jev_probs_a2": {
+   "0": 0.56,
+   "1": 0.41,
+   "2": 0.03
+  },
+  "jev_noul_a1": 0.46,
+  "jev_noul_a2": 0.38,
+  "jev_decision_a1": "two-terms",
+  "jev_decision_a2": "two-terms",
+  "repeat_agree": true
+ },
+ {
+  "id": "J30",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Simulation",
+   "Simulations-Engine"
+  ],
+  "person": "judgement",
+  "jev_score_a1": 0.31,
+  "jev_score_a2": 0.31,
+  "jev_conf_a1": 0.53,
+  "jev_conf_a2": 0.54,
+  "jev_probs_a1": {
+   "0": 0.78,
+   "1": 0.13,
+   "2": 0.09
+  },
+  "jev_probs_a2": {
+   "0": 0.79,
+   "1": 0.12,
+   "2": 0.09
+  },
+  "jev_noul_a1": 0.9,
+  "jev_noul_a2": 0.89,
+  "jev_decision_a1": "not-a-term",
+  "jev_decision_a2": "not-a-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J31",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Teil 1",
+   "Teil 2"
+  ],
+  "person": "not-a-term",
+  "jev_score_a1": 0.42,
+  "jev_score_a2": 0.56,
+  "jev_conf_a1": 0.37,
+  "jev_conf_a2": 0.16,
+  "jev_probs_a1": {
+   "0": 0.75,
+   "1": 0.09,
+   "2": 0.16
+  },
+  "jev_probs_a2": {
+   "0": 0.67,
+   "1": 0.09,
+   "2": 0.24
+  },
+  "jev_noul_a1": 0.95,
+  "jev_noul_a2": 0.95,
+  "jev_decision_a1": "not-a-term",
+  "jev_decision_a2": "not-a-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J32",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Kernsystem",
+   "Kernsystemprotokoll"
+  ],
+  "person": "two-terms",
+  "jev_score_a1": 0.42,
+  "jev_score_a2": 0.41,
+  "jev_conf_a1": 0.37,
+  "jev_conf_a2": 0.38,
+  "jev_probs_a1": {
+   "0": 0.63,
+   "1": 0.31,
+   "2": 0.06
+  },
+  "jev_probs_a2": {
+   "0": 0.65,
+   "1": 0.29,
+   "2": 0.06
+  },
+  "jev_noul_a1": 0.13,
+  "jev_noul_a2": 0.14,
+  "jev_decision_a1": "two-terms",
+  "jev_decision_a2": "two-terms",
+  "repeat_agree": true
+ },
+ {
+  "id": "J33",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Wächter",
+   "Guardians"
+  ],
+  "person": "judgement",
+  "jev_score_a1": 1.17,
+  "jev_score_a2": 1.23,
+  "jev_conf_a1": 0.0,
+  "jev_conf_a2": 0.0,
+  "jev_probs_a1": {
+   "0": 0.31,
+   "1": 0.2,
+   "2": 0.49
+  },
+  "jev_probs_a2": {
+   "0": 0.29,
+   "1": 0.2,
+   "2": 0.51
+  },
+  "jev_noul_a1": 0.61,
+  "jev_noul_a2": 0.6,
+  "jev_decision_a1": "not-a-term",
+  "jev_decision_a2": "not-a-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J34",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Kairos",
+   "Kairos/Sophia"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.52,
+  "jev_score_a2": 1.55,
+  "jev_conf_a1": 0.28,
+  "jev_conf_a2": 0.32,
+  "jev_probs_a1": {
+   "0": 0.05,
+   "1": 0.39,
+   "2": 0.5599999999999999
+  },
+  "jev_probs_a2": {
+   "0": 0.05,
+   "1": 0.35,
+   "2": 0.6
+  },
+  "jev_noul_a1": 0.13,
+  "jev_noul_a2": 0.12,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "one-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J35",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Möglichkeits-Garten",
+   "Garten der Möglichkeiten"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.64,
+  "jev_score_a2": 1.64,
+  "jev_conf_a1": 0.46,
+  "jev_conf_a2": 0.46,
+  "jev_probs_a1": {
+   "0": 0.1,
+   "1": 0.16,
+   "2": 0.74
+  },
+  "jev_probs_a2": {
+   "0": 0.1,
+   "1": 0.16,
+   "2": 0.74
+  },
+  "jev_noul_a1": 0.28,
+  "jev_noul_a2": 0.29,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "one-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J36",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Nexus",
+   "Nexus-Interface"
+  ],
+  "person": "judgement",
+  "jev_score_a1": 1.24,
+  "jev_score_a2": 1.34,
+  "jev_conf_a1": 0.26,
+  "jev_conf_a2": 0.2,
+  "jev_probs_a1": {
+   "0": 0.13,
+   "1": 0.51,
+   "2": 0.36
+  },
+  "jev_probs_a2": {
+   "0": 0.09,
+   "1": 0.47,
+   "2": 0.44
+  },
+  "jev_noul_a1": 0.37,
+  "jev_noul_a2": 0.37,
+  "jev_decision_a1": "judgement",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": true
+ },
+ {
+  "id": "J37",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Kern-Welt",
+   "KW1"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.39,
+  "jev_score_a2": 1.41,
+  "jev_conf_a1": 0.09,
+  "jev_conf_a2": 0.12,
+  "jev_probs_a1": {
+   "0": 0.12,
+   "1": 0.37,
+   "2": 0.51
+  },
+  "jev_probs_a2": {
+   "0": 0.13,
+   "1": 0.33,
+   "2": 0.54
+  },
+  "jev_noul_a1": 0.46,
+  "jev_noul_a2": 0.48,
+  "jev_decision_a1": "judgement",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": true
+ },
+ {
+  "id": "J38",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Limina",
+   "Liminale Räume"
+  ],
+  "person": "two-terms",
+  "jev_score_a1": 1.35,
+  "jev_score_a2": 1.24,
+  "jev_conf_a1": 0.02,
+  "jev_conf_a2": 0.0,
+  "jev_probs_a1": {
+   "0": 0.21,
+   "1": 0.24,
+   "2": 0.55
+  },
+  "jev_probs_a2": {
+   "0": 0.24,
+   "1": 0.29,
+   "2": 0.47
+  },
+  "jev_noul_a1": 0.26,
+  "jev_noul_a2": 0.28,
+  "jev_decision_a1": "judgement",
+  "jev_decision_a2": "judgement",
+  "repeat_agree": true
+ },
+ {
+  "id": "J39",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Simulation",
+   "Überwelt"
+  ],
+  "person": "two-terms",
+  "jev_score_a1": 0.04,
+  "jev_score_a2": 0.04,
+  "jev_conf_a1": 0.94,
+  "jev_conf_a2": 0.94,
+  "jev_probs_a1": {
+   "0": 0.97,
+   "1": 0.03,
+   "2": 0.0
+  },
+  "jev_probs_a2": {
+   "0": 0.97,
+   "1": 0.03,
+   "2": 0.0
+  },
+  "jev_noul_a1": 0.45,
+  "jev_noul_a2": 0.49,
+  "jev_decision_a1": "two-terms",
+  "jev_decision_a2": "two-terms",
+  "repeat_agree": true
+ },
+ {
+  "id": "J40",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Lokalitäten-Profil",
+   "Konzept/Zweck"
+  ],
+  "person": "not-a-term",
+  "jev_score_a1": 0.31,
+  "jev_score_a2": 0.24,
+  "jev_conf_a1": 0.53,
+  "jev_conf_a2": 0.64,
+  "jev_probs_a1": {
+   "0": 0.8,
+   "1": 0.09,
+   "2": 0.11
+  },
+  "jev_probs_a2": {
+   "0": 0.83,
+   "1": 0.09,
+   "2": 0.08
+  },
+  "jev_noul_a1": 0.93,
+  "jev_noul_a2": 0.91,
+  "jev_decision_a1": "not-a-term",
+  "jev_decision_a2": "not-a-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J41",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Die Große Mauer",
+   "Grenzfeste"
+  ],
+  "person": "two-terms",
+  "jev_score_a1": 0.4,
+  "jev_score_a2": 0.4,
+  "jev_conf_a1": 0.4,
+  "jev_conf_a2": 0.39,
+  "jev_probs_a1": {
+   "0": 0.7,
+   "1": 0.21,
+   "2": 0.09
+  },
+  "jev_probs_a2": {
+   "0": 0.69,
+   "1": 0.22,
+   "2": 0.09
+  },
+  "jev_noul_a1": 0.37,
+  "jev_noul_a2": 0.35,
+  "jev_decision_a1": "two-terms",
+  "jev_decision_a2": "two-terms",
+  "repeat_agree": true
+ },
+ {
+  "id": "J42",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Realitätsebenen",
+   "Kern-Welten"
+  ],
+  "person": "two-terms",
+  "jev_score_a1": 0.26,
+  "jev_score_a2": 0.29,
+  "jev_conf_a1": 0.6,
+  "jev_conf_a2": 0.56,
+  "jev_probs_a1": {
+   "0": 0.8,
+   "1": 0.14,
+   "2": 0.06
+  },
+  "jev_probs_a2": {
+   "0": 0.77,
+   "1": 0.16,
+   "2": 0.07
+  },
+  "jev_noul_a1": 0.22,
+  "jev_noul_a2": 0.27,
+  "jev_decision_a1": "two-terms",
+  "jev_decision_a2": "two-terms",
+  "repeat_agree": true
+ },
+ {
+  "id": "J43",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Orakel",
+   "Orakel/Muse"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.64,
+  "jev_score_a2": 1.69,
+  "jev_conf_a1": 0.46,
+  "jev_conf_a2": 0.53,
+  "jev_probs_a1": {
+   "0": 0.04,
+   "1": 0.28,
+   "2": 0.68
+  },
+  "jev_probs_a2": {
+   "0": 0.03,
+   "1": 0.25,
+   "2": 0.72
+  },
+  "jev_noul_a1": 0.13,
+  "jev_noul_a2": 0.14,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "one-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J44",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Anomalie",
+   "Anomalien"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.95,
+  "jev_score_a2": 1.92,
+  "jev_conf_a1": 0.93,
+  "jev_conf_a2": 0.88,
+  "jev_probs_a1": {
+   "0": 0.01,
+   "1": 0.02,
+   "2": 0.97
+  },
+  "jev_probs_a2": {
+   "0": 0.02,
+   "1": 0.03,
+   "2": 0.95
+  },
+  "jev_noul_a1": 0.12,
+  "jev_noul_a2": 0.14,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "one-term",
+  "repeat_agree": true
+ },
+ {
+  "id": "J45",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Riss",
+   "Risse"
+  ],
+  "person": "one-term",
+  "jev_score_a1": 1.95,
+  "jev_score_a2": 1.92,
+  "jev_conf_a1": 0.93,
+  "jev_conf_a2": 0.88,
+  "jev_probs_a1": {
+   "0": 0.01,
+   "1": 0.02,
+   "2": 0.97
+  },
+  "jev_probs_a2": {
+   "0": 0.02,
+   "1": 0.03,
+   "2": 0.95
+  },
+  "jev_noul_a1": 0.11,
+  "jev_noul_a2": 0.11,
+  "jev_decision_a1": "one-term",
+  "jev_decision_a2": "one-term",
+  "repeat_agree": true
+ }
+]

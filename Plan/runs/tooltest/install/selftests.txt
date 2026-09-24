@@ -1,0 +1,20 @@
+  held     quotes, find, fold         17 of 17 cases hold (6 quotation, 4 citation, 7 fold)
+  held     entities matcher             ok  holds('McLaughlin-Graph') on 'des McLaughlin-Graphen': False
+  held     skills                     check_skills: 6 of 6 cases hold
+  held     skills, live                 hyperextract-yaml-validator: name 'yaml-validator' is not the folder name 'hyperextract-
+  held     baseline ledger            baseline: 7 of 7 cases hold
+  held     graph                      graph: 6 of 6 cases hold (clean, broken edge, unlanded doc, no proposal in the core, every
+  held     graphrag                   graphrag: 9 of 9 cases hold (MMR defect and floor, leave-out, no seed, gloss off/on/ambigu
+  held     ui app                     ui: every check reported its defect (clean build, 6 markup, 2 data, 1 syntax)
+  held     rlm_ingest tools, reach    rlm_ingest: 4 of 4 offline cases hold (find_line, refusal, count, reach)
+  held     prose numbers              0 prose claims contradict the repository.
+  held     route: price, consent, record all hold
+  held     templates: checks fail     all hold
+  held     templates, live            4 template(s), 7 checks each: 0 failed, 0 not reached
+  held     dspy surface               DSPy 3.3.1: 17 of 17 surface checks hold
+  held     lm fixture                 lm_fixture: 3 of 3 cases hold (answer+record, refuse network, exhausted script)
+  held     lmrun                      lmrun: 9 of 9 cases hold (4 statuses, empty field, English caught, cache refused, approval
+  held     pairs dry-run              }
+  held     graphrag answer dry-run    - Probelauf — keine echte Auswahl
+
+18 held, 0 failed, 0 not run, of 18 suites

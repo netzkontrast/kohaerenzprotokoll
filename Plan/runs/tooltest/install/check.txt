@@ -1,0 +1,15 @@
+  derived       ok
+  tools         ok
+  typesafe      ok
+  dspy          ok
+  dspytools     ok
+  grawiki       ok
+  mflow         ok
+  semantica     ok
+  jev           ok
+  graphify      ok
+  cgr           ok
+  hyperextract  ok
+  omo           ok
+  qmd           ok
+  qmd-models    MISSING

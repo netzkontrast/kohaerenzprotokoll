@@ -122,9 +122,11 @@ each would send.
 `roman-lokalitaeten-konzept-und-ausarbeitung`) may go to free OpenRouter models,
 with `data_collection: deny`, and to Jev, to test the tools installed that day.
 No other document, no paid model, nothing to Notion. `scripts/route.py` enforces
-it in code and its `selftest` holds; **the tool-review workflow has not run yet** —
-its plan is
-`Plan/concept/tool-review-plan_2026-09-24.md`. The two replaced the question's examples because only they
+it in code and its `selftest` holds. **The tool review ran on 2026-09-24**, at
+$0 over 339 priced calls: `Plan/concept/tool-review_2026-09-24.md`. No
+extraction tool reached a usable result on this corpus — best F1 0.16 against
+the Haiku floor of 0.25 — and none closes the loop's three gaps; its six
+questions for the author are there, not repeated here. The two replaced the question's examples because only they
 have a genuine reader's `03-candidates.md`; the decision file says why.
 
 **Three encodings of one rule.** „No corpus text leaves without the author's
@@ -258,12 +260,12 @@ Run `python3 scripts/selftests.py` first; it builds nothing and says in one line
 per suite what holds. In a fresh container the DSPy suites report `not run`
 with the command that creates `.venv-dspy`.
 
-**Two handovers met here in one merge, and neither waits on the other.** The list
-below is the graph and retrieval work. The other is the **tool review** the author
-approved on 2026-09-24 — test every tool installed that day against documents 5
-and 6 through `scripts/route.py`, and review what the loop could use — in
-`Plan/concept/tool-review-plan_2026-09-24.md`, to be run straight through. It
-needs free models and Jev under decision 007; everything below needs no model.
+**The tool review has run** (`Plan/concept/tool-review_2026-09-24.md`). What it
+leaves as work, none of it needing a model: three defects in `scripts/route.py`
+(it shadows the stdlib `profile` module, its timeout is soft — 510 s seen — and
+it writes one ledger row per call, not per attempt), and the four Hyper-Extract
+templates, which `he parse` cannot load from a path — `templates.py check` stays
+green over that, because it only validates and loads.
 
 In order, and none of it needs a model:
 

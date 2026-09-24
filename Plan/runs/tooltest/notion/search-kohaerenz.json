@@ -1,0 +1,23 @@
+{
+  "command": "mcp__Notion__notion-get-tool-access {} ; mcp__Notion__notion-search {\"query\": \"Kohärenz\"}",
+  "note": "read-only, query is a generic project word, no corpus text sent",
+  "tool_access_summary": {
+    "search": "available",
+    "ai_search": "plan_required (Business/Enterprise upsell) — fell back to legacy search",
+    "create_pages": "available (not used — task is read-only)",
+    "update_page": "available (not used — task is read-only)"
+  },
+  "search_results_titles": [
+    "📖 Kohärenz Protokoll (workspace root page, last edited 2026-09-24T17:08)",
+    "🔍 Kohärenz-Prüfung (2026-03-26)",
+    "📝 Szene vorbereiten (2026-03-26)",
+    "🎭 Alter-Stimme aktivieren (2026-03-26)",
+    "⚖️ Konflikt klären (2026-03-26)",
+    "📖 Kapitel planen (2026-03-26)",
+    "📊 Projekt-Dashboard (2026-03-26)",
+    "🧵 Foreshadowing-Audit (2026-03-26)",
+    "🗺️ Entitäten-Landkarte (2026-03-26)",
+    "🔮 Canon-Status ändern (2026-03-26)"
+  ],
+  "observation": "The workspace already holds a Notion-native 'operative Gehirn' for this novel, dated 2026-03-26 (predates this repository's current wiki work) with a page whose own description says it is explicitly NOT meant as an archive/wiki ('dient nicht als Archiv oder Wiki, sondern als Arbeitsumgebung'). Page titles were read; page bodies were not fetched (fetch would not be corpus text, but was not needed to answer the review question and the task scopes this to search + SKILL.md reading)."
+}

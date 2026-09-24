@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.1,
+ "content": "",
+ "response": {
+  "id": "gen-1790277493-EmrQ9eT0e0DL7aRp9qyd",
+  "object": "chat.completion",
+  "created": 1790277493,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "No route.py files found. Let me search more broadly for any route.py file in the codebase.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "bash_e79nj7ct9mhn",
+       "function": {
+        "name": "bash",
+        "arguments": "{\"command\": \"find /workspace -name \\\"*.py\\\" -type f | head -20\"}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "No route.py files found. Let me search more broadly for any route.py file in the codebase.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 14902,
+   "completion_tokens": 41,
+   "total_tokens": 14943,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 23,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.4,
+ "content": "",
+ "response": {
+  "id": "gen-1790277373-AAYlSlurVIildvHra9uy",
+  "object": "chat.completion",
+  "created": 1790277373,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "I can see there are many files with \"route\" in the name, but I don't see a `scripts/route.py` file in the root directory. Let me check if there's a scripts directory or if the user is referring to a different file path.\n\nLet me search more broadly for any route.py files that might be in scripts directories.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "bash_86dqyz2b7p3z",
+       "function": {
+        "name": "bash",
+        "arguments": "{\"command\": \"find . -type f -name \\\"*.py\\\" | grep -i \\\"route\\\" | head -20\"}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I can see there are many files with \"route\" in the name, but I don't see a `scripts/route.py` file in the root directory. Let me check if there's a scripts directory or if the user is referring to a different file path.\n\nLet me search more broadly for any route.py files that might be in scripts directories.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 42105,
+   "completion_tokens": 95,
+   "total_tokens": 42200,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 78,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}
