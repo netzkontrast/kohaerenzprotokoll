@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-16"
 ---
 
@@ -71,3 +71,9 @@ der Funktionalen Multiplizität ist Kap 33." ^[kohaerenz-protokoll-charakter-bib
 „Resolution: Funktionale Multiplizität, niemals Fusion." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L428] „Kein Alter wird eliminiert. Kein Alter wird zu einem Ich. Sie werden ein Wir" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L428].
 
 Practised in KW4: „Hier wird die Funktionale Multiplizität eingeübt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L518] Kept from the reader until the thirteenth chapter: „Multiplizitäts-Schleier hält bis Ch13." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L482]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Withheld from the reader: „Multiplizität wird im Roman nicht ausgesprochen bis"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L44] about Kap 10. And the end state, as the third DID-therapy phase: „Phase 3
+Integration/funktionale Multiplizität (Vortex/Resolution)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L268].
