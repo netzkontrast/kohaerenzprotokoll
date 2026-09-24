@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -35,3 +35,7 @@ Its roster row gives category `ANP`, function `ISH` and arc `→ Mediatorin` ^[k
 Roster row: „Selene (ISH)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L379], correlate „Wormholes, Entanglement Islands" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L380], somatics „Hände entspannen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L381], arc „→ Mediatorin" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L382].
 
 The only Alter across both layers: „Schicht-übergreifend: Selene." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+KW4: „Hier zeigt sich Selene erstmals als Architektin innerer Harmonie." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L488]
