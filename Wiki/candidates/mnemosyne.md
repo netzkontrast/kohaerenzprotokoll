@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -132,3 +132,8 @@ Her temptation is placed: „Ihre Versuchung („den Schmerz löschen") ist in K
 verankert." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L205] In KW3: „Mnemosyne fehlt hier weitgehend." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L390] And the
 only Guardian allowed on stage: „Keine Guardians als Figuren** außer Mnemosyne"
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L914].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+One of the two: „5 Guardians → 2 (Mnemosyne + Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810] In Vortex 1,
+Beat 4: „Mnemosyne ist die erste Guardian, die betroffen ist." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L598]
