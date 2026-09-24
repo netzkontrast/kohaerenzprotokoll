@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 2
+sources: 3
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -45,3 +45,15 @@ sources wird die neue Ausgangslage." (decision 006)
 No position above is retired by its date or by a source's claim to be canon.
 This record is an **item for discussion** with the author; it closes when the
 author decides it, and the decision will be written here with its date.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**Heat, dated after the lock.** The first Riss, Kap 2: „Riss = Landauer-Hitze/Ozon
+(Verdrängung wird sichtbar)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L191], and the central question's answer ends
+„Verdrängung erzeugt Hitze" ^[kapitel-kompendium-gather-2026-05-31-md.md:L21]. Its stated date, „Stand: 2026-05-31"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L13], is a day after the 2026-05-30 lock that document 7 says overrides warmth.
+Document 7's own line for the same Riss swaps `Hitze` for „kaltes Ozon"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]. Its Kap 6 (L195) names no Landauer trace at all.
+
+So the lock is later than one source's heat and earlier than another's; which
+the author meant to hold is the question.
