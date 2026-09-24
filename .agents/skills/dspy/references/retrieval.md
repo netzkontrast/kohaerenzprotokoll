@@ -404,7 +404,7 @@ identical to passing everything" — the fix is prompt assembly from
 `selected_idxs` only, roughly ten lines
 (`dspy-agent-skills:skills/dspy-refrag/SKILL.md:43-51`). This matches the
 toolchain's own conclusion for every package scanned: nothing was installed —
-"the value is a pattern of tens of lines, and the package would bring a DSPy
+"the value is a pattern of 10–60 lines, and the package would bring a DSPy
 pin, a Python floor, a key requirement or a runtime this project does not need"
 (`Plan/concept/dspy-toolchain_2026-09-23.md`).
 

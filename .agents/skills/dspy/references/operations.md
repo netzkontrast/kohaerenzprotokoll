@@ -457,9 +457,10 @@ the same as the real one but answers with none of its optimization.
 (`dspy-agent-skills:skills/dspy-local-runtime/SKILL.md:27-57`, `dspy-agent-skills:skills/dspy-local-runtime/reference.md:11-42`).
 **Its `copy()` strips what the CLI cannot honour rather than erroring on it**:
 `temperature`, `max_tokens` and `rollout_id` are dropped silently in both
-`__init__` and `copy()` — "strip, never error, on `rollout_id` and
-`temperature` in `copy()`, because `BestOfN`, `Refine` and any per-attempt
-sampler call `lm.copy(rollout_id=…, temperature=…)`" — `n>1` raises
+`__init__` and `copy()` — "Strip, never error, on `rollout_id` and
+`temperature` in `copy()`", because "`BestOfN`, `Refine` and TetraFrame call
+`lm.copy(rollout_id=…, temperature=…)` and must not crash"
+(`dspy-agent-skills:skills/dspy-local-runtime/SKILL.md:34,106`) — `n>1` raises
 `ValueError`, and `cache=True` raises `ValueError("ClaudeLM cannot cache: the
 CLI has no deterministic sampling to cache against")`
 (`dspy-agent-skills:skills/dspy-local-runtime/reference.md:44-51`):
@@ -479,8 +480,8 @@ def copy(self, **kwargs):
 `usage_tracker.add_usage` a second time (see *Cost and usage*, above).
 **Backend selection**: `DSPY_LOCAL_BACKEND` is `api`, `claude-cli` or `auto`
 (the default); in `auto`, an `ANTHROPIC_API_KEY`/`OPENAI_API_KEY` selects the
-API, else `claude` on `PATH` selects the CLI, else the API anyway, "so that it
-fails loudly at first call" rather than silently picking neither
+API, else `claude` on `PATH` selects the CLI, else the API anyway — "no key,
+no CLI → fail loudly at first call" — rather than silently picking neither
 (`dspy-agent-skills:skills/dspy-local-runtime/SKILL.md:64-78`). **Budget
 guidance, in calls rather than tokens**: one `Predict` costs roughly 5–10s;
 `Evaluate` on 20 examples costs 2–4 minutes at `num_threads=1` ("the processes
@@ -569,8 +570,8 @@ scored slightly worse and the ledger says so rather than smoothing it (P24,
 
 | thing | why not | source |
 |---|---|---|
-| `MIPROv2`, `BootstrapFewShotWithRandomSearch`, synthetic data generation | want 100+ / 50+ examples; `dspy-agents` itself ran `MIPROv2` on 50 rows while its own `AGENTS.md` still claimed "~28" | `Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken* |
-| `dspy-rlm-hooks`, wholesale | monkeypatches private DSPy internals and its own security note says to pin the pair; its speculative `llm_query`/`llm_query_batched` calls spend real, paid sub-LM calls **outside** `max_llm_calls` — "only claimed calls count against the logical budget", bounded only by a separate `max_dispatches_per_turn=2048` — the exact kind of surprise a cost-control section exists to prevent | `dspy-agent-skills:skills/dspy-rlm-hooks/reference.md:47-48`, verified by that reader against the installed package's own `speculation/integration/registry.py:92-127,146-157` |
+| `MIPROv2`, `BootstrapFewShotWithRandomSearch`, synthetic data generation | want 100+ / 50+ examples; `dspy-agents` itself ran `MIPROv2` on 50 rows while its own README still said "~28 examples" (`dspy-agents:README.md:74`) | `Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken* |
+| `dspy-rlm-hooks`, wholesale | monkeypatches private DSPy internals and its own security note says to pin the pair; its speculative `llm_query`/`llm_query_batched` calls spend real, paid sub-LM calls **outside** `max_llm_calls` — speculative calls do not consume the logical budget, which counts only model-requested calls — bounded only by a separate `max_dispatches_per_turn=2048` — the exact kind of surprise a cost-control section exists to prevent | `dspy-agent-skills:skills/dspy-rlm-hooks/reference.md:47-48`, verified by that reader against the installed package's own `speculation/integration/registry.py:92-127,146-157` |
 | async and streamed calls (`dspy.asyncify`, `dspy.streamify`) | nothing here uses them; `lmrun.call` is synchronous on purpose — one call, one record (`api.md`) | `api.md`, *Asynchronous and streamed calls* |
 | wiring any of the four MLflow integrations above | no MLflow dependency is installed; `lmrun.py`'s own JSONL plays that role today (*Callbacks and tracing*, above) | this repository's own state |
 | content-hash invalidation as its own mechanism | catalogued, not built; `baseline.digest()` hashes what it is handed, not a file on disk, so it is the nearest instance rather than the thing itself — waits for a second cached derived output that actually needs invalidating | `Plan/concept/dspy-toolchain_2026-09-23.md`, *Layer 3* |

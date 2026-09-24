@@ -41,7 +41,7 @@ to `optimizers.md`, `metrics.md` and `data.md`, as the RLM and RAG halves of
 | Critique → repair a text artifact | `dspy-optimizer` | Evaluator → Refiner → Merger → Validator patches a `### Block`-structured prompt string | `MockLLM` and the callback shape are kept; the loop itself is refused — job 4 uses `gepa.optimize_anything` (`text-artifacts.md`), which rewrites the whole file under a metric instead of patching named blocks by an unheld-out validator |
 | Eleven "techniques used by top AI startups" | `dspy-advanced-prompting` | long instruction text as an **input field** around a `ChainOfThought`, per technique | ten of eleven are prompt text with no DSPy leverage at all; only hard-negative demo tiering is a mechanism, and `pairs.py`'s canary pairs already are that mechanism |
 | Schema as prompt: optimize a field description, score the downstream extraction | `dspydantic` | a rewriter `ChainOfThought`, scored by plugging its output into a separate extraction call | the shape is job 4's shape exactly (`text-artifacts.md`); the evaluator registry and n-based optimizer choice are catalogued, every specific number is left behind |
-| Seven applications by task shape; a checked build loop | `dspy-book-use-cases`, `dspy-advanced-workflow`, `dspy-context-engineering-book` | gold-answer / no-gold / lookup / arithmetic routing; baseline-before-optimizer; routers as functions | mirrors this repository's own layered toolchain and `scripts/entities.py`/qmd's collection routing; "ship honest failures" and "read the GEPA diff before accepting" are taken as working method, not code |
+| Seven applications by task shape; a checked build loop | `dspy-book-use-cases`, `dspy-advanced-workflow`, `dspy-context-engineering-book` | gold-answer / no-gold / lookup / arithmetic routing; baseline-before-optimizer; routers as functions | mirrors this repository's own layered toolchain and `scripts/entities.py`/qmd's collection routing; shipping honest failures and reading a GEPA result's diff before accepting it are taken as working method, not code |
 
 ---
 
@@ -317,7 +317,8 @@ naming no contradiction at all (0.25) still lets the run score **0.893**
 
 **Mapping onto this repository.** The shape maps well onto conflicts already
 recorded: C6 (five Guardians versus two) or C11 (Landauer warmth) are exactly
-"contested decisions with two camps." P/not-P are the two sources' readings,
+the case the skill is for — "a contested decision" where a decision "has two
+camps" (`dspy-agent-skills:skills/dspy-tetraframe/SKILL.md:3,9`). P/not-P are the two sources' readings,
 attributed; *both* is a typed split the sources already state themselves —
 document 11 puts the character bible's Kap-33 garden down as Juna's *effect*
 and her Kap-38 appearance as a `temporal_split` of C7; *neither* is "the
@@ -388,7 +389,7 @@ where code could be. Objection coverage is 1.0 when nothing was objected at all
 — the anti-pattern the skill itself names and its own code commits
 (`dspy-agent-skills:skills/dspy-autodialectics/SKILL.md:183`, `example_autodialectics.py:223`).
 An empty `Output(text="")` scores **low slop** (0.825), because the "status
-completed with under 50 characters" indicator the reference promises is not in
+completed with < 50 chars of output" indicator the reference promises is not in
 the code (`dspy-agent-skills:skills/dspy-autodialectics/reference.md:97`;
 `example_autodialectics.py:176-177`) — P19's "assert non-empty output" in
 another costume.
@@ -449,7 +450,7 @@ edge that already exists (a no-op) is HIGH
 (`dspy-agent-skills:skills/dspy-deep-refine/example_deep_refine.py:96-111`, probe
 `DR1`). `replace_node` does not even merge — it only relabels, so two nodes end
 up labelled "Kael" and every later action naming Kael is LOW, contradicting the
-reference's own "merge into an existing node if present, rewiring edges"
+reference's own "merge into an existing `new` node if present, rewiring edges"
 (`dspy-agent-skills:skills/dspy-deep-refine/reference.md:137`;
 `example_deep_refine.py:138-141`). `max_hops > 4` crashes with `IndexError`
 (`example_deep_refine.py:23,206`), and the trainset applies proposals to
@@ -680,8 +681,8 @@ compares only against the *previous* run and skips a `None` metric, so a
 compiled program that silently fell back to zero-shot (`dspy.load` needing
 `allow_pickle=True` since 3.1.0, unhandled) reported "ok" for months
 (`dspy-agents:dspy_optimize/baselines/thresholds.py:150-214,186-187`,
-measured) — exactly the "compare against a floor, not only the last row" fix
-`baseline.py compare` already makes. `Agentic-Dspy-Rag`'s classify → route →
+measured) — the case `baseline.py` was built for: "`compare` checks against the
+floor, not only the previous row" (`scripts/baseline.py`). `Agentic-Dspy-Rag`'s classify → route →
 retrieve → rerank → generate shape is catalogued for `ask`: `graphrag.py`
 already does classify (seed by folded surfaces) → route (personalised
 PageRank) → quote (verified quotations only), and its multi-step mode's own
@@ -831,9 +832,10 @@ is this exact problem, and `dspy-book-coding-agents` already shows the shape
 this repository actually uses: `gepa.optimize_anything` over the whole file
 text, evaluated by a mix of deterministic checks (weighted above any judge) and
 a judge (`text-artifacts.md` has the mechanics; the one fact worth repeating
-here is `dspy-book-coding-agents`'s own discipline for reading a result: "read
-the regression list, hand-restore what was discarded, diff against the current
-file" — regression, not net delta, is what a promotion decision needs
+here is `dspy-book-coding-agents`'s own discipline for reading a result:
+"print the regression list, and hand-restore what the optimizer discarded. Then
+diff against your current file"
+(`dspy-agent-skills:skills/dspy-book-coding-agents/SKILL.md:125-126`) — regression, not net delta, is what a promotion decision needs
 (`dspy-agent-skills:skills/dspy-book-coding-agents/SKILL.md:116-130`)). The
 self-critique-with-failure-history pattern (never propose the same rejected
 fix twice) and worked examples living in the instruction rather than as demos
@@ -844,8 +846,9 @@ are both portable ideas independent of the rest of the loop.
 itself — validating on the training set, a free-text `operation` field that
 crashes uncaught, and case-sensitive block matching are all exactly what P26
 and P23 already rule out, and `gepa.optimize_anything` over the whole artifact
-is the shape this repository has chosen instead. Kept: "read the regressions
-before accepting a rewrite."
+is the shape this repository has chosen instead. Kept: reading the
+regressions before accepting a rewrite — the chapter's own heading, "Read the
+regressions" (`dspy-agent-skills:skills/dspy-book-coding-agents/SKILL.md:116`).
 
 ---
 
@@ -936,8 +939,8 @@ Domain context has to live in the docstring or an input field — never a class
 name — which is exactly what job 4's evaluator must assert about its own
 candidate text (`SKILL.md`'s `description` field, not its filename). The
 leakage bugs this pack's own maintainers found and fixed are worth reading in
-full because every one of them is "you scored something other than what you
-shipped": validation data leaked into training through an off-by-one guard; an
+full because every one of them scored something other than what was
+shipped: validation data leaked into training through an off-by-one guard; an
 empty validation set silently fell back to the training set; prompt-phase
 candidates were scored against the *original* descriptions instead of the
 phase-one optimized ones; and the baseline was scored **without** few-shot

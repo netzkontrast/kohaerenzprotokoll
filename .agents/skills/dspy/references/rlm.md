@@ -412,10 +412,10 @@ final answer, and a check that `contradictions` is non-empty whenever
 sub-results disagree (`dspy-agent-skills:skills/dspy-rlm-workflow/reference.md:143`,
 `SKILL.md:178`).
 
-The shape is sound and reusable — fail fast, weight cheap checks first, and a
-verifier's feedback must name which sub-problem or module failed, "so GEPA
-has something to learn from"
-(`dspy-agent-skills:skills/dspy-rlm-workflow/reference.md:104-106`,
+The shape is sound and reusable — fail fast, weight cheap checks first, and
+feedback that must "say *which sub-problem or module* failed and *what good
+looks like*", because "A verifier that returns only a float — GEPA has nothing
+to learn from" (`dspy-agent-skills:skills/dspy-rlm-workflow/reference.md:104-106`,
 `SKILL.md:176`) — but the part that would let a model *resolve* a
 disagreement, not only report one, is exactly what P13 forbids here: a term
 page holds every reading, attributed, and never merges. Nothing here compiles
@@ -633,7 +633,7 @@ nothing in `scripts/rlm_ingest.py` claims otherwise.
 | Hooks, speculation | refused | see above |
 | The full rlm-workflow pipeline | catalogued, not built | waits for a synthesis task over several already-read sources; a document here is read whole, by design |
 | GEPA compiling the RLM itself | catalogued, not built | an RLM has exactly two predictors, `generate_action` and `extract` (`dspy:predict/rlm.py:181-182`); GEPA on it would rewrite DSPy's own REPL template, not only a task instruction. Waits on the same gate as any real RLM run: "two or three more hand-read documents" before extraction is trainable (`Plan/concept/dspy-toolchain_2026-09-23.md`, `.claude/skills/tools/SKILL.md`) |
-| A corpus-scale RLM loop ("idea E") | catalogued, not built | `llm_query_batched` over many documents for one term — "What does the corpus say about AEGIS?" is exactly the RLM case, sized at 315 documents / 41 sub-calls without reading anything (`Plan/concept/rlm-the-real-one_2026-09-17.md`). Explicitly "not worth doing before the hand pass finishes" (`:98-101`) |
+| A corpus-scale RLM loop ("idea E") | catalogued, not built | `llm_query_batched` over many documents for one term — "What does the corpus say about AEGIS?" is exactly the RLM case, sized at 315 documents / 41 sub-calls without reading anything (`Plan/concept/rlm-the-real-one_2026-09-17.md`). Explicitly: "None of it is worth doing before the hand pass finishes" (`:98-101`) |
 | Making a term, not a document, the unit of work ("idea D") | rejected | "a term-first pass reads many documents through one lens, which is exactly the contamination the census exists to prevent. The unit stays the document" (`Plan/concept/rlm-transfer_2026-09-17.md`) |
 | `SHOW_VARS()`-style self-report | catalogued, not built | telling a reader what the derived cache already knows, the way an RLM's REPL can inspect its own environment (`Plan/concept/rlm-the-real-one_2026-09-17.md`) |
 | The pre-2026-09-23 `rlm` package (`pip install rlms`) | superseded | read once, 2026-09-17, before this repository adopted `dspy.RLM`; its `context`/`llm_query`/`rlm_query`/`SHOW_VARS` shape is where "idea E" and `SHOW_VARS()` above came from, but the package was never installed and nothing in `scripts/` depends on it |

@@ -7,7 +7,8 @@ allowed-tools: Bash(python3 scripts/*), Bash(.venv-dspy/bin/python scripts/*), B
 # DSPy, as this repository uses it
 
 Nine DSPy repositories under `netzkontrast/` were read in full on 2026-09-24,
-at the commits in `references/repos.md`, by one reader each. Every fact they
+at the commits in `references/repos.md`: four readers for `dspy-agent-skills`,
+the largest, and one for each other repository or pair of them. Every fact they
 contain was written down with the line it came from. The notes are in
 `Plan/concept/dspy-extract_2026-09-24/`. This skill is those facts, sorted by
 what an agent here is about to do. Every claim about DSPy itself was checked
@@ -95,8 +96,8 @@ scripts/install.sh dspy            # build it
 Each is checked against DSPy 3.3.1 or cited to its source, in the file named.
 
 1. **`dspy.LM` caches by default**, so a repeated call replays its first answer
-   and repeats measure nothing (P18). `lmrun.make_lm()` builds every real LM with
-   `cache=False`. → `api.md`
+   and repeats measure nothing (P18). `lmrun.make_lm()` builds its LM with
+   `cache=False`, and `rlm_ingest.py` builds its own the same way. → `api.md`
 2. **`dspy.Evaluate` reports a percentage, and scores a crash as a wrong
    answer**: `failure_score` 0.0, counted in the mean. An unreachable model scores
    0% (P15). [checked: evaluate-failure-is-zero] Nothing here reads its aggregate
@@ -108,7 +109,8 @@ Each is checked against DSPy 3.3.1 or cited to its source, in the file named.
    [checked: bootstrap-keeps-wrong-demos-on-prediction] Hand `.score` to the
    bootstrap family; only GEPA takes the Prediction, which is what `pairs.py`
    does. → `optimizers.md`
-5. **GEPA needs `reflection_lm` at construction**, and `auto="light"` means about
+5. **GEPA needs `reflection_lm` at construction**
+   [checked: gepa-asserts-reflection-lm], and `auto="light"` means about
    380 + 4 × valset metric calls for one predictor.
    [checked: gepa-light-budget] Without a valset it selects on the trainset. →
    `optimizers.md`
@@ -155,7 +157,7 @@ which it must fail, and with a third state, *could not score*, that never become
 ## What this skill may not do
 
 - Send corpus text to any model without the author's yes for that run. The
-  scripts refuse it without `--approval`; the skill does not route around them.
+  scripts refuse it without an approval; the skill does not route around them.
 - Let a model's output into `Sources/` or `Wiki/`, decide a near match, detect a
   conflict, infer a link, or merge two readings. Where a pattern from the nine
   repositories does one of these, `patterns.md` says so and it is not taken.

@@ -109,9 +109,10 @@ structured extraction via a per-field `ChainOfThought` rewriter, scored by a
 *separate* extraction call compared field by field.
 
 **Took → lives here.** No code installed — one task is on the optimizer
-ladder so far, so its ideas are catalogued below. "Check every DSPy kwarg
-against `inspect.signature` before running" is already `check_dspy_surface.py`'s
-rule, and dspydantic is the sharpest evidence why.
+ladder so far, so its ideas are catalogued below. The reader's rule, "Check
+every DSPy kwarg against `inspect.signature` before you run"
+(`Plan/concept/dspy-extract_2026-09-24/dspydantic.md`), is already `check_dspy_surface.py`'s,
+and dspydantic is the sharpest evidence why.
 
 **Waits / refused.** An evaluator registry (`EvaluatorFactory`) waits for a
 second evaluator in use (`metrics.md`); optimizer-chosen-from-`n` waits for a
@@ -201,7 +202,7 @@ check `final_reasoning == "Extract forced final output"`, the same check
 ## `dspy-optimizer`
 
 github.com/netzkontrast/dspy-optimizer. Read at `a07b3b7`, 2025-07-27, "test:
-fix tests with updated strategies" — license MIT, © 2025 Niels van Galen
+:white_check_mark: fix tests with updated strategies" — license MIT, © 2025 Niels van Galen
 Last. DSPy `>=2.6.27` (`uv.lock` pins 2.6.27); Python `>=3.12`. **Holds on
 3.3.1?** The code and 38 of 43 tests run unmodified; the other 5 (MLflow)
 need `mlflow` installed — with mlflow 3.16.1 all 43 pass. Measured across
@@ -241,8 +242,9 @@ every comma, so `"80,50"` parses to 8050.0. Missed that a model-typed
 identifier (`PatchOperation("Append")`) crashes the run uncaught.
 
 **Matters most here.** (1) A validator that passes on an empty dataset is the
-same shape as `dspy-agents`' skipped-metric monitor below — `baseline.py`'s
-"never let *could not check* collapse into *ok*" rule covers both (P23). (2)
+same shape as `dspy-agents`' skipped-metric monitor below — P23, "never let
+'could not check' collapse into 'checked'" (`PRINCIPLES.md`), covers both, and
+`baseline.py` keeps it as its `unscored` verdict. (2)
 Any identifier a model writes into a typed slot needs to be a `Literal` built
 by code, or a free string crashes or mis-patches the run — `pairs.py`'s
 `Literal["one-term","two-terms"]` is the same lesson. (3) A test that fakes
@@ -296,8 +298,9 @@ thresholds is `"ok"`. Never measured: `dspy-agents:README.md:56` — "28
 doc-grounded Q/A pairs"; the dataset has held 50 rows since commit
 `8cc8eaf`, and nothing re-derives the documented count against the file.
 
-**2026-09-23 report, corrected.** Read `"total_calls": 0` as "the model was
-never called meaningfully" — it is a dead counter, never incremented on
+**2026-09-23 report, corrected.** Read `"total_calls": 0` as a compile
+"without ever calling the model meaningfully"
+(`Plan/concept/dspy-repos_2026-09-23/dspy-agents.md`) — it is a dead counter, never incremented on
 either DSPy version. Said there is "no absolute floor check" — there is one
 for the eval but not the compile step, so a compile scoring 0.0 is "ok".
 Missed the `dspy.load` break entirely, so its own recommendations would

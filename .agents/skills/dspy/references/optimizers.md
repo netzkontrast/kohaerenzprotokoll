@@ -213,9 +213,10 @@ select between. Its own numbers are a reason for caution before building one
 anyway: it is an n-only rule with no floor check baked in, and dspydantic's
 own single-pass flow reverts to the un-optimized field description whenever
 the optimized one does not score strictly higher — which is also why its
-regression test for "no boilerplate leaked into the optimized text"
-(`META_INSTRUCTION_PATTERNS`) passes whether or not the fix works: a reverted,
-untouched original trivially contains no boilerplate either
+regression test — "Assert that optimized descriptions are actual descriptions,
+not meta-instructions" (`dspydantic:tests/integration/test_miprov2_descriptions.py:291`,
+`META_INSTRUCTION_PATTERNS`) — passes whether or not the fix works: a reverted,
+untouched original trivially contains no meta-instruction either
 (`dspydantic:tests/integration/test_miprov2_descriptions.py:19-26,288-300`,
 `[trap]`). An auto-selected optimizer still needs the same floor check
 `baseline.compare` already does by hand.
@@ -243,9 +244,10 @@ train / 80-row locked test, one `exact_match` metric): val 63.33, **test 67.50
 (54/80), +13.75** over the unoptimized baseline, $0, 0.0 s
 (`dspy-agent-skills:skills/dspy-book-optimizers/reference.md:36`, `[number]`).
 Free, and the same test score as the much more expensive `BootstrapFewShot`
-run below on the same data — "if putting `k` labelled pairs in a prompt does
-not beat the deterministic rule, no amount of reflection will fix it"
-(`Plan/concept/optimizers-and-data_2026-09-17.md`).
+run below on the same data — "If putting 16 labelled pairs in a prompt does
+not beat 65%, the problem is the task's framing and no amount of reflection
+will fix it" (`Plan/concept/optimizers-and-data_2026-09-17.md`, written at
+16 pairs and a 65% floor).
 
 **In this repository**, `pairs.py`'s `labeled` rung is `k=min(8, train_size)`
 — the one rung `pairs.py score` names as the cheapest model call waiting on
@@ -549,9 +551,9 @@ and nothing re-derived the count — the exact shape of stale claim `CLAUDE.md`'
 **Measured** (book chapter, `auto='light'`, `max_bootstrapped_demos=2,
 max_labeled_demos=2, seed=42`): val 76.67, **test 66.25 (53/80), +12.50**,
 cost **≥$0.3052**, 270.8 s — a **10.42-point validation-to-test gap**, the
-chapter's own worked example of "report the held-out number, not the
-validation number"
-(`dspy-agent-skills:skills/dspy-book-optimizers/reference.md:41,69-72`,
+chapter's own worked example of "Report the held-out number."
+(`dspy-agent-skills:skills/dspy-book-optimizers/SKILL.md:65-67`,
+`dspy-agent-skills:skills/dspy-book-optimizers/reference.md:41,69-72`,
 `[number]`).
 
 **Not taken here**: "100+ examples" is the threshold `dspy-agent-skills` and
@@ -736,9 +738,9 @@ run from the last checkpoint." One of the nine repositories built exactly on
 this and got burned: `dspy-auto-gepa` always reuses
 `<artifact_dir>/<name>/gepa_logs`, so a second `run(force=True)` on the same
 task **loaded the prior state, made 4 student calls and 0 reflection calls,
-and re-promoted the old best** — its own docs' claim that `force=True`
-"always retrains from scratch" is false
-(`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:325-329`,
+and re-promoted the old best** — its own docs' comment on `run(force=True)`,
+"Always retrain from scratch", is false (`dspy-auto-gepa:docs/basic.md:67`,
+`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:325-329`,
 `dspy:teleprompt/gepa/gepa.py:305-307`, `[trap]`). `pairs.py` does not pass
 `log_dir` at all, so this trap does not currently apply here, but any future
 use of `log_dir` needs a fresh directory per run, recorded, the same way a
