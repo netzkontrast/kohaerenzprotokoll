@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-24"
 ---
 
@@ -38,3 +38,7 @@ It has a chapter: „Kap 24 — Telefon-Stille (Wiederkehrendes K-J-Thema)" ^[ko
 
 The only way the [[externe-ebene|Externe Ebene]] is felt before Kap 38: „Bis Kap 38 nur als Echo /
 Resonanz / Telefon-Stille spürbar." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630]
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+„Telefon-Stille als Anker = pure Präsenz, keine Aktion." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L202]
