@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls „Wächter" is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -29,7 +29,7 @@ The fourth is explicit:
 
 No source contradicts another. German uses one word where the corpus has four
 roles, and each use is locally correct. **The defect would be a page claiming the
-word** — and one nearly did: `aegis` carries „Wächter der systemischen
+word** — and one nearly did: [[aegis]] carries „Wächter der systemischen
 Stabilität" as an alias, which is a *phrase*, but the index folds it to a key
 that a bare `Wächter` matches.
 
@@ -111,3 +111,11 @@ a surface anywhere. **It was not added.** See `J33`.
 A glossary, or any source that uses both `Guardian` and `Wächter` in the same
 analytic passage and distinguishes them. Two documents each using one word
 exclusively cannot settle whether the words differ.
+
+## 2026-09-24 — a canon-era document uses `Guardian` only, and `Wächterin` for something else
+
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` writes `Guardian` and never `Wächter`. It does write `Wächterin`, twice:
+as the title of Kap 8, „Die Wächterin (Wiedergeburt)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L313], and as a
+function in the first cycle of Akt II, „Wächterin/Beobachter-Blick fängt Rückfall
+ab" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L333]. Neither is a Guardian. **A sixth use of the word family**, and
+again it is resolved by the sentence, not the surface (J20).
