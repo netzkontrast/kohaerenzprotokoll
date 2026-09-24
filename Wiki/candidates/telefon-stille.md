@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -42,3 +42,9 @@ Resonanz / Telefon-Stille spürbar." ^[kohaerenz-protokoll-kernwelten-vollstaend
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
 „Telefon-Stille als Anker = pure Präsenz, keine Aktion." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L202]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+What it is: „Erinnerung an ein Telefongespräch vor zwanzig Jahren, in dem keine
+Worte gesprochen wurden" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L373]. „Die Stille ist die reinste Form des Coheron:
+atemporal, unauslöschlich, ewig." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L373]
