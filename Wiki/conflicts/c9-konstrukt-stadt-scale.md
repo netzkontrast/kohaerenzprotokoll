@@ -2,7 +2,7 @@
 id: C9
 subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
-status: open
+status: decided — by the author, 2026-09-24: the whole simulation
 first_seen: "2026-09-24"
 sources: 2
 pages: ["konstrukt-stadt", "kern-welten"]
@@ -34,3 +34,17 @@ sources wird die neue Ausgangslage." (decision 006)
 No position above is retired by its date or by a source's claim to be canon.
 This record is now an **item for discussion** with the author; it closes when the
 author decides it, and the decision will be written here with its date.
+
+## 2026-09-24 — decided by the author: the whole simulation
+
+Asked whether the Konstrukt-Stadt is KW1 or the whole simulation, the author
+answered: **„Die ganze Simulation"** — position 2, the reading of `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`:
+
+> „Das Kohärenz Protokoll spielt in einer simulierten Welt — der Konstrukt-Stadt,
+> gesteuert von AEGIS — die in vier Kernwelten unterteilt ist." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L44]
+
+The readings that make it KW1 stay on the pages as what their documents said.
+
+**What it leaves open:** what KW1 is called, now that the Konstrukt-Stadt is not
+its name. The same source calls KW1 „Logos-Prime" (L51); the author has not said
+so, and the question sits with the other world names in `q5-guardians-and-kern-welten`.
