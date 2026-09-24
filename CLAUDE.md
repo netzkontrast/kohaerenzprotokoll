@@ -534,6 +534,20 @@ script reads it, and nothing in `Wiki/` or `Sources/` may cite a Notion page.
 Anything sent there is corpus text leaving the repository, so the same rule as
 Jev applies — the author's yes first.
 
+**`.claude/skills/knowledge-graph-extract` is vendored too**, copied unchanged
+(plus its `LICENSE`, MIT) from `netzkontrast/knowledge-graph-extract` commit
+`542fffaeaf18f4db6eb3f32c7a93c2c54822f67c`. It has a model read a folder of
+documents into subject–relation–object triples, with four standard-library
+scripts to validate them and write Cypher. Its manifest passes
+`claude plugin validate`; it is copied rather than registered only so all
+third-party skills sit in one place, pinned the same way.
+
+A triple it writes is a model's reading, in the same standing as an entity list:
+it may not create a page, write a `[[…]]` link, supply a count, or merge two
+surfaces — a guessed edge is indistinguishable from a stated one once it is in
+the graph (see *The wiki links*). Its output directory goes outside `Wiki/` and
+`Sources/`. Nothing in the pipeline calls it yet.
+
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only
 from a person, and they do different halves of it:
 
