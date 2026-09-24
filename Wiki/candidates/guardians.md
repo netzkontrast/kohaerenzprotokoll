@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-16"
 ---
 
@@ -267,3 +267,10 @@ They live in the [[ueberwelt|Überwelt]]: „Hier residieren die zwei Guardians 
 Erasure-Pol) als abstrakte Entitäten" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L502].
 
 A sixth 2026 source for two, recorded after the author's decision for five.
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Instruments of [[aegis|AEGIS]]' doing.** „Guardian-Deployments" among [[aegis|AEGIS]]' acts (L97); A's
+overall story is „die Manipulation der simulierten Welt durch AEGIS+Guardians"
+^[dramatica-dual-storyform-status-2026-05-07-md.md:L206], B's is „Erasure-Sweeps, Guardian-Operationen, das Mnemosyne-Archipel als
+Schlachtfeld" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L230]. No count is given.
