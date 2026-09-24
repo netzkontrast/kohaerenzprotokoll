@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-24"
 ---
 
@@ -37,3 +37,8 @@ Roster row: „Nyx (Fight)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08
 From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 entstanden:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439] lists it.
 
 Its Riss type: „Kinetisch" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L555], „Aufprall, Bersten, Vibration" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L556].
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The Kap-0 eruption is hers: „Knöckel-Eruption, Nyx" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182], and „Kap 1 bleibt
+spurlos" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]. Conflict C10.
