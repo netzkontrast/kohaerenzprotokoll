@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 5.9,
+ "content": "scripts/route.py is an OpenRouter proxy system that routes tool calls through free AI models while enforcing strict data policies, consent rules, and comprehensive logging. It provides command-line interfaces for model probing, serving as a proxy for third-party tools, maintaining audit ledgers, checking document consent, and running automated self-tests. The module implements three critical safeguards: using only declared free models with zero pricing, verifying document consent before transmission, and recording every call for offline replay and auditing purposes. It additionally provides local multilingual embedding through a sentence transformer model since no free remote embedding models accept the data policy, while also handling caching, rate limiting, and cost prevention. Finally, it serves as a security layer that prevents exposure of real API keys by routing all calls through OpenRouter with data_collection=deny and using a single authenticated endpoint for third-party tool integration.",
+ "response": {
+  "id": "gen-1790277463-2WrI0xqqmSoF6OHJHVlf",
+  "object": "chat.completion",
+  "created": 1790277463,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "scripts/route.py is an OpenRouter proxy system that routes tool calls through free AI models while enforcing strict data policies, consent rules, and comprehensive logging. It provides command-line interfaces for model probing, serving as a proxy for third-party tools, maintaining audit ledgers, checking document consent, and running automated self-tests. The module implements three critical safeguards: using only declared free models with zero pricing, verifying document consent before transmission, and recording every call for offline replay and auditing purposes. It additionally provides local multilingual embedding through a sentence transformer model since no free remote embedding models accept the data policy, while also handling caching, rate limiting, and cost prevention. Finally, it serves as a security layer that prevents exposure of real API keys by routing all calls through OpenRouter with data_collection=deny and using a single authenticated endpoint for third-party tool integration.",
+     "refusal": null,
+     "reasoning": "The user wants me to explain in five sentences what scripts/route.py does. I need to read the file and provide a concise explanation. Let me analyze the content:\n\nFrom the file content, I can see:\n\n1. The file is named `route.py` and has a detailed docstring at the top\n2. It's about creating \"one door for every model call a tool makes — priced, consented and recorded before it is sent\"\n3. It has multiple commands: models, serve, ledger, guard, selftest, complete, jev\n4. It's used as a proxy system that routes calls through OpenRouter to free models\n5. It has consent checks, guards against unauthorized documents, and records everything\n6. It implements rate limiting, cost checking, and caching\n\nI need to summarize this in exactly 5 sentences.\n\nLet me craft the 5-sentence summary:\n\n1. scripts/route.py is an OpenRouter proxy system that routes tool calls through free AI models while ensuring they follow data policies and consent rules.\n\n2. The module provides command-line tools for model probing, serving as a proxy for third-party tools, maintaining call ledgers, checking document consent, and conducting self-tests.\n\n3. It implements three key safeguards: using only declared free models, verifying document consent before sending, and recording every call for offline replay and auditing.\n\n4. The system caches responses, enforces rate limits on free models, prevents charged calls, and provides local embedding through a multilingual sentence transformer.\n\n5. As a security layer, it ensures no real API keys are exposed by using OpenRouter's data_collection=deny policy and routing all calls through a single authenticated endpoint.\n\nThis captures the essence of what the file does in 5 sentences.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to explain in five sentences what scripts/route.py does. I need to read the file and provide a concise explanation. Let me analyze the content:\n\nFrom the file content, I can see:\n\n1. The file is named `route.py` and has a detailed docstring at the top\n2. It's about creating \"one door for every model call a tool makes — priced, consented and recorded before it is sent\"\n3. It has multiple commands: models, serve, ledger, guard, selftest, complete, jev\n4. It's used as a proxy system that routes calls through OpenRouter to free models\n5. It has consent checks, guards against unauthorized documents, and records everything\n6. It implements rate limiting, cost checking, and caching\n\nI need to summarize this in exactly 5 sentences.\n\nLet me craft the 5-sentence summary:\n\n1. scripts/route.py is an OpenRouter proxy system that routes tool calls through free AI models while ensuring they follow data policies and consent rules.\n\n2. The module provides command-line tools for model probing, serving as a proxy for third-party tools, maintaining call ledgers, checking document consent, and conducting self-tests.\n\n3. It implements three key safeguards: using only declared free models, verifying document consent before sending, and recording every call for offline replay and auditing.\n\n4. The system caches responses, enforces rate limits on free models, prevents charged calls, and provides local embedding through a multilingual sentence transformer.\n\n5. As a security layer, it ensures no real API keys are exposed by using OpenRouter's data_collection=deny policy and routing all calls through a single authenticated endpoint.\n\nThis captures the essence of what the file does in 5 sentences.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 52321,
+   "completion_tokens": 516,
+   "total_tokens": 52837,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 437,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

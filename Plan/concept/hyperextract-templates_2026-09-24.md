@@ -98,6 +98,16 @@ he parse Sources/drive/<slug>.md -t Plan/hyperextract/TermCensus.yaml -l en \
     -o Plan/runs/tooltest/hyperextract/<slug>/TermCensus --source <slug> --no-index
 ```
 
+**Correction, measured by the tool review the same day: this command does not
+run.** `he parse` resolves `-t` with `Template.get()` (`hyperextract/cli/cli.py:332`)
+and exits when no gallery template has that name; the branch that copies a
+`.yaml` file into the output folder (`cli.py:394`) comes after that exit and is
+never reached. This page first said `-t` takes a file path, from reading that
+later branch alone. Only `he template validate` takes a path. So the four
+templates have not run; running them needs them copied into the installed
+package's `templates/presets/<domain>/`, where the gallery finds them —
+`tool-review_2026-09-24/hyperextract.md` has the detail.
+
 `he config` writes `~/.he/config.toml` globally, so the key — which names the
 document for the router's consent check — is set again per document and per
 attempt (P18: two attempts, since `route.py` replays an identical call from its

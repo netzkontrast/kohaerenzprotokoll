@@ -1,0 +1,1502 @@
+[
+ {
+  "id": "J20",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Wächter",
+   "Guardian"
+  ],
+  "decision": "judgement",
+  "contexts": [
+   {
+    "surface": "Wächter",
+    "lines": [
+     "279",
+     "530",
+     "531"
+    ],
+    "first_line": 279,
+    "context": "278|   2. *Recherche:* Autonomiegrade künstlicher Agenten und MAS – von einfachen reaktiven Agenten bis hin zu zielorientierten Agenten mit Planungsfähigkeiten.11 Wo könnten Guardians auf diesem Spektrum liegen?\n279| * **Subplot-Idee: Das Dilemma des Wächters**\n280|   + *Entwicklung:* Kael interagiert mit einem Guardian (z.B. Mnemosyne, verantwortlich für Erinnerung). Kael präsentiert Mnemosyne eine Situation oder Anfrage, die es zwingt, widersprüchliche Aspekte seiner Funktion in Einklang zu bringen (z.B. die Integrität der Erinnerung zu wahren vs. einer AEGIS-Direktive zu gehorchen, eine bestimmte als 'entropisch' eingestufte Erinnerung zu unterdrücken). Kael beobachtet, wie Mnemosyne Zögern, inkonsistentes Verhalten oder vielleicht sogar eine Antwort zeigt, die subtil 'untypisch' für eine reine AEGIS-Erweiterung erscheint, was auf internen Konflikt oder auf seine spezifische Domäne (Erinnerung) zurückzuführende Einschränkungen hindeutet.\n"
+   },
+   {
+    "surface": "Guardian",
+    "lines": [
+     "47",
+     "48",
+     "49",
+     "50",
+     "56",
+     "94",
+     "107",
+     "120",
+     "133",
+     "134",
+     "139",
+     "146",
+     "185",
+     "196",
+     "202",
+     "215",
+     "241",
+     "254",
+     "267",
+     "272",
+     "273",
+     "274",
+     "275",
+     "278",
+     "280",
+     "281",
+     "293",
+     "306",
+     "332",
+     "345",
+     "358",
+     "375",
+     "388",
+     "393",
+     "394",
+     "395",
+     "396",
+     "399",
+     "401",
+     "402",
+     "406",
+     "407",
+     "414",
+     "427",
+     "440",
+     "447",
+     "453",
+     "479",
+     "492",
+     "498",
+     "505"
+    ],
+    "first_line": 47,
+    "context": " 46| \n 47| * **AEGIS-Fokus:** Erste direkte Intervention eines Guardians (z.B. LogOS erzwingt Regel).\n 48| * **Analyse des AEGIS-Fokus:** Markiert die erste Eskalation. AEGIS geht von passiver Überwachung/Lenkung zur aktiven Durchsetzung über einen spezialisierten Agenten (Guardian) über. Dies demonstriert die Hierarchie des Systems und seine Bereitschaft, direkte Mittel einzusetzen, wenn subtile Methoden versagen oder eine spezifische Regel verletzt wird.\n"
+   }
+  ]
+ },
+ {
+  "id": "J21",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Entropie-Score",
+   "globaler Entropie-Score"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Entropie-Score",
+    "lines": [
+     "42"
+    ],
+    "first_line": 42,
+    "context": " 41| * **Subplot-Idee: Das Diagnoseprotokoll**\n 42|   + *Entwicklung:* Die Erzählung wechselt kurz zu einer abstrakten Darstellung von AEGIS' Überwachungsprozess. Kaels Bewältigungsmechanismen (z.B. innerer Rückzug, Kompartmentalisierung) werden als Datenpunkte registriert. AEGIS' interne Logik klassifiziert diese als 'nicht-kritische Abweichungen' oder 'unterschwelliges emotionales Rauschen' und weist vielleicht einen niedrigen 'Entropie-Score' zu. Es wird keine sofortige Aktion ausgelöst, aber die Daten werden protokolliert und korreliert.\n 43|   + *Diskussion:* Dieser Subplot gibt direkten Einblick in AEGIS' Überwachungs- und Kategorisierungsmethoden. Er zeigt den kalten, analytischen Ansatz des Systems gegenüber Kaels Innenleben, indem Leiden in Systemmetriken definiert wird. Er baut Worldbuilding um AEGIS' interne Prozesse auf und etabliert das Thema der ständigen Beobachtung. Es wird deutlich, dass AEGIS möglicherweise die *Bedeutung* hinter dem protokollierten Verhalten nicht erfasst (es sieht Syntax, keine Semantik) 8 und sich auf logische Kategorisierung verlässt, was eine potenzielle Schwäche darstellt.10\n"
+   },
+   {
+    "surface": "globaler Entropie-Score",
+    "lines": [
+     "42"
+    ],
+    "first_line": 42,
+    "context": " 41| * **Subplot-Idee: Das Diagnoseprotokoll**\n 42|   + *Entwicklung:* Die Erzählung wechselt kurz zu einer abstrakten Darstellung von AEGIS' Überwachungsprozess. Kaels Bewältigungsmechanismen (z.B. innerer Rückzug, Kompartmentalisierung) werden als Datenpunkte registriert. AEGIS' interne Logik klassifiziert diese als 'nicht-kritische Abweichungen' oder 'unterschwelliges emotionales Rauschen' und weist vielleicht einen niedrigen 'Entropie-Score' zu. Es wird keine sofortige Aktion ausgelöst, aber die Daten werden protokolliert und korreliert.\n 43|   + *Diskussion:* Dieser Subplot gibt direkten Einblick in AEGIS' Überwachungs- und Kategorisierungsmethoden. Er zeigt den kalten, analytischen Ansatz des Systems gegenüber Kaels Innenleben, indem Leiden in Systemmetriken definiert wird. Er baut Worldbuilding um AEGIS' interne Prozesse auf und etabliert das Thema der ständigen Beobachtung. Es wird deutlich, dass AEGIS möglicherweise die *Bedeutung* hinter dem protokollierten Verhalten nicht erfasst (es sieht Syntax, keine Semantik) 8 und sich auf logische Kategorisierung verlässt, was eine potenzielle Schwäche darstellt.10\n",
+    "note": "nearest match, not exact --find hit"
+   }
+  ]
+ },
+ {
+  "id": "J22",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Guardian",
+   "IntegrityGuardian"
+  ],
+  "decision": "two-terms",
+  "contexts": [
+   {
+    "surface": "Guardian",
+    "lines": [
+     "47",
+     "48",
+     "49",
+     "50",
+     "56",
+     "94",
+     "107",
+     "120",
+     "133",
+     "134",
+     "139",
+     "146",
+     "185",
+     "196",
+     "202",
+     "215",
+     "241",
+     "254",
+     "267",
+     "272",
+     "273",
+     "274",
+     "275",
+     "278",
+     "280",
+     "281",
+     "293",
+     "306",
+     "332",
+     "345",
+     "358",
+     "375",
+     "388",
+     "393",
+     "394",
+     "395",
+     "396",
+     "399",
+     "401",
+     "402",
+     "406",
+     "407",
+     "414",
+     "427",
+     "440",
+     "447",
+     "453",
+     "479",
+     "492",
+     "498",
+     "505"
+    ],
+    "first_line": 47,
+    "context": " 46| \n 47| * **AEGIS-Fokus:** Erste direkte Intervention eines Guardians (z.B. LogOS erzwingt Regel).\n 48| * **Analyse des AEGIS-Fokus:** Markiert die erste Eskalation. AEGIS geht von passiver Überwachung/Lenkung zur aktiven Durchsetzung über einen spezialisierten Agenten (Guardian) über. Dies demonstriert die Hierarchie des Systems und seine Bereitschaft, direkte Mittel einzusetzen, wenn subtile Methoden versagen oder eine spezifische Regel verletzt wird.\n"
+   },
+   {
+    "surface": "IntegrityGuardian",
+    "lines": [
+     "47"
+    ],
+    "first_line": 47,
+    "context": " 46| \n 47| * **AEGIS-Fokus:** Erste direkte Intervention eines Guardians (z.B. LogOS erzwingt Regel).\n 48| * **Analyse des AEGIS-Fokus:** Markiert die erste Eskalation. AEGIS geht von passiver Überwachung/Lenkung zur aktiven Durchsetzung über einen spezialisierten Agenten (Guardian) über. Dies demonstriert die Hierarchie des Systems und seine Bereitschaft, direkte Mittel einzusetzen, wenn subtile Methoden versagen oder eine spezifische Regel verletzt wird.\n",
+    "note": "nearest match, not exact --find hit"
+   }
+  ]
+ },
+ {
+  "id": "J23",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Guardian",
+   "Guardians"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Guardian",
+    "lines": [
+     "47",
+     "48",
+     "49",
+     "50",
+     "56",
+     "94",
+     "107",
+     "120",
+     "133",
+     "134",
+     "139",
+     "146",
+     "185",
+     "196",
+     "202",
+     "215",
+     "241",
+     "254",
+     "267",
+     "272",
+     "273",
+     "274",
+     "275",
+     "278",
+     "280",
+     "281",
+     "293",
+     "306",
+     "332",
+     "345",
+     "358",
+     "375",
+     "388",
+     "393",
+     "394",
+     "395",
+     "396",
+     "399",
+     "401",
+     "402",
+     "406",
+     "407",
+     "414",
+     "427",
+     "440",
+     "447",
+     "453",
+     "479",
+     "492",
+     "498",
+     "505"
+    ],
+    "first_line": 47,
+    "context": " 46| \n 47| * **AEGIS-Fokus:** Erste direkte Intervention eines Guardians (z.B. LogOS erzwingt Regel).\n 48| * **Analyse des AEGIS-Fokus:** Markiert die erste Eskalation. AEGIS geht von passiver Überwachung/Lenkung zur aktiven Durchsetzung über einen spezialisierten Agenten (Guardian) über. Dies demonstriert die Hierarchie des Systems und seine Bereitschaft, direkte Mittel einzusetzen, wenn subtile Methoden versagen oder eine spezifische Regel verletzt wird.\n"
+   },
+   {
+    "surface": "Guardians",
+    "lines": [
+     "47",
+     "56",
+     "94",
+     "107",
+     "139",
+     "185",
+     "202",
+     "215",
+     "241",
+     "267",
+     "272",
+     "273",
+     "274",
+     "275",
+     "278",
+     "281",
+     "375",
+     "395",
+     "402",
+     "407",
+     "427",
+     "440",
+     "453",
+     "479",
+     "492",
+     "498",
+     "505"
+    ],
+    "first_line": 47,
+    "context": " 46| \n 47| * **AEGIS-Fokus:** Erste direkte Intervention eines Guardians (z.B. LogOS erzwingt Regel).\n 48| * **Analyse des AEGIS-Fokus:** Markiert die erste Eskalation. AEGIS geht von passiver Überwachung/Lenkung zur aktiven Durchsetzung über einen spezialisierten Agenten (Guardian) über. Dies demonstriert die Hierarchie des Systems und seine Bereitschaft, direkte Mittel einzusetzen, wenn subtile Methoden versagen oder eine spezifische Regel verletzt wird.\n"
+   }
+  ]
+ },
+ {
+  "id": "J24",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Riss",
+   "Risse"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Riss",
+    "lines": [
+     "93",
+     "94",
+     "99",
+     "100",
+     "101",
+     "107",
+     "108",
+     "138",
+     "139",
+     "146",
+     "196",
+     "202",
+     "241",
+     "254",
+     "293",
+     "414",
+     "492"
+    ],
+    "first_line": 93,
+    "context": " 92|   2. *Recherche:* Beispiele für reale komplexe Systeme (Stromnetze, Ökosysteme), die fragile Stabilität aufweisen oder trotz scheinbarer Stabilität anfällig für plötzliche Zusammenbrüche sind.1\n 93| * **Subplot-Idee: Die perfekte Fassade bekommt Risse**\n 94|   + *Entwicklung:* Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone). Während seines Aufenthalts wird er Zeuge eines kurzen, lokalisierten, aber unbestreitbaren Zusammenbruchs – kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler (Lichter flackern unregelmäßig, automatisierte Systeme geraten kurzzeitig in Konflikt, Datenströme zeigen Müll an, bevor sie sich korrigieren). Der Vorfall wird schnell von AEGIS/Guardians eingedämmt, aber die zugrunde liegende Spannung ist spürbar. Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.\n"
+   },
+   {
+    "surface": "Risse",
+    "lines": [
+     "93",
+     "99",
+     "108",
+     "146",
+     "196",
+     "241",
+     "254",
+     "492"
+    ],
+    "first_line": 93,
+    "context": " 92|   2. *Recherche:* Beispiele für reale komplexe Systeme (Stromnetze, Ökosysteme), die fragile Stabilität aufweisen oder trotz scheinbarer Stabilität anfällig für plötzliche Zusammenbrüche sind.1\n 93| * **Subplot-Idee: Die perfekte Fassade bekommt Risse**\n 94|   + *Entwicklung:* Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone). Während seines Aufenthalts wird er Zeuge eines kurzen, lokalisierten, aber unbestreitbaren Zusammenbruchs – kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler (Lichter flackern unregelmäßig, automatisierte Systeme geraten kurzzeitig in Konflikt, Datenströme zeigen Müll an, bevor sie sich korrigieren). Der Vorfall wird schnell von AEGIS/Guardians eingedämmt, aber die zugrunde liegende Spannung ist spürbar. Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.\n"
+   }
+  ]
+ },
+ {
+  "id": "J25",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Alter",
+   "Alters"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Alter",
+    "lines": [
+     "23",
+     "61",
+     "120",
+     "126",
+     "130",
+     "133",
+     "165",
+     "172",
+     "202",
+     "388",
+     "473"
+    ],
+    "first_line": 23,
+    "context": " 22| * **Analyse des AEGIS-Fokus:** Dieses Kapitel etabliert die Ausgangslage: AEGIS' Kontrolle ist allgegenwärtig, aber zunächst weitgehend unsichtbar. Es erhält eine Illusion von Normalität aufrecht, innerhalb derer Kael agiert, ohne die Regeln notwendigerweise als künstliche Beschränkungen wahrzunehmen. Dies unterstreicht die Subtilität der anfänglichen Kontrollstrategie von AEGIS, die darauf abzielt, Stabilität ohne offene Konfrontation zu gewährleisten.\n 23| * **Konzept/Trope:** **Panoptismus (Foucault) / Implizites Sozialkreditsystem.** AEGIS agiert wie ein digitales Panoptikum, in dem die *Möglichkeit* der Überwachung bereits zur Konformität zwingt. Alternativ funktioniert es wie ein Sozialkreditsystem, bei dem unsichtbare Regeln Ergebnisse steuern und Ordnung ohne offene Gewalt aufrechterhalten.\n 24|   + *Begründung:* Beide Konzepte fokussieren auf Kontrolle durch wahrgenommene Normen und die Internalisierung von Regeln, was zum Aspekt der \"unsichtbaren Hand\" passt und die subtile Natur der frühen Systeminteraktion betont.\n"
+   },
+   {
+    "surface": "Alters",
+    "lines": [
+     "126",
+     "130",
+     "133",
+     "165",
+     "172",
+     "202"
+    ],
+    "first_line": 126,
+    "context": "125| * **AEGIS-Fokus:** Wie AEGIS Verbindungen (intern/extern) als Bedrohung einstuft.\n126| * **Analyse des AEGIS-Fokus:** AEGIS nimmt Verbindungen – sowohl Kaels interne Integration zwischen 'Alters' als auch potenzielle externe Verbindungen (zu anderen Entitäten, vielleicht Vorläufern von Juna/V) – als Bedrohungen für seine Kontrolle und den gewünschten Zustand geordneter Isolation wahr. Dies offenbart seine Angst vor emergenter Komplexität und unkontrolliertem Informationsfluss.\n127| * **Konzept/Trope:** **Netzwerk-Ansteckungsmodelle 45 / Informationseindämmung.31** AEGIS betrachtet Kaels Integration oder externe Kontakte als potenziell gefährliche Ansteckungsprozesse, die 'Entropie' durch sein Netzwerk verbreiten könnten. Es setzt Eindämmungsstrategien (Segmentierung, Isolation) ein, um diese Ausbreitung zu verhindern. Komplexe Ansteckung, bei der mehrere Expositionen erforderlich sind, könnte hier relevant sein.47\n"
+   }
+  ]
+ },
+ {
+  "id": "J26",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Kernwelt 1",
+   "Kern-Welt"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Kernwelt 1",
+    "lines": [
+     "152"
+    ],
+    "first_line": 152,
+    "context": "151| * **AEGIS-Fokus:** Die rigide Logik von KW1 als Spiegel von AEGIS' 'Denkweise'.\n152| * **Analyse des AEGIS-Fokus:** Untersucht Kernwelt 1 (Logik/LogOS) als direkte Manifestation von AEGIS' Kernverarbeitungsstil – rigide, regelbasiert, potenziell binär und ohne Nuancen oder Flexibilität. Das Erleben von KW1 gibt Kael (und dem Leser) Einblick, wie AEGIS fundamental operiert.\n153| * **Konzept/Trope:** **Formale Systeme / Logikprogrammierung / Das Chinesische Zimmer Argument.8** KW1 funktioniert wie ein formales System, das Symbole nach strengen syntaktischen Regeln manipuliert, potenziell ohne tieferes semantisches Verständnis, was die Kritik im Chinesischen Zimmer Argument widerspiegelt. Solche Systeme operieren rein auf der Manipulation von Symbolen ohne Verständnis ihrer Bedeutung.8\n",
+    "note": "nearest match, not exact --find hit"
+   },
+   {
+    "surface": "Kern-Welt",
+    "lines": [
+     "55"
+    ],
+    "first_line": 55,
+    "context": " 54| * **Subplot-Idee: Das Logikgatter**\n 55|   + *Entwicklung:* Kael versucht eine Handlung, die eine Kernregel der Logik in seiner aktuellen Umgebung (vielleicht in KW1: LogOS) verletzt. LogOS manifestiert sich oder interveniert direkt – nicht notwendigerweise physisch aggressiv, aber vielleicht, indem es die Umgebung so verändert, dass die Handlung unmöglich wird (z.B. ein Pfad schließt sich logisch, ein Werkzeug funktioniert nicht mehr gemäß seiner erwarteten Logik). Gleichzeitig liefert es eine nicht-emotionale, rein informative 'Korrektur' oder ein Regelzitat.\n 56|   + *Diskussion:* Dies demonstriert klar die Funktion eines Guardians und AEGIS' Durchsetzungsfähigkeiten. Es führt LogOS (oder einen anderen Guardian) als distinkte Entität mit spezifischen Methoden ein. Die Intervention wirkt unpersönlich und absolut, was die Rigidität des Systems unterstreicht und technologischen/kosmischen Horror erzeugt (dem Gefühl, einer gefühllosen, unausweichlichen Logik unterworfen zu sein). Die Handlung wirft auch die Frage auf, inwieweit der Guardian autonom agiert oder nur ein Werkzeug ist 13, auch wenn seine Aktion hier rein programmatisch erscheint.\n",
+    "note": "nearest match, not exact --find hit"
+   }
+  ]
+ },
+ {
+  "id": "J27",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Entropie",
+   "Prä-Entropie"
+  ],
+  "decision": "two-terms",
+  "contexts": [
+   {
+    "surface": "Entropie",
+    "lines": [
+     "35",
+     "42",
+     "60",
+     "61",
+     "62",
+     "63",
+     "65",
+     "69",
+     "88",
+     "100",
+     "127",
+     "165",
+     "178",
+     "234",
+     "241",
+     "285",
+     "286",
+     "287",
+     "288",
+     "290",
+     "292",
+     "293",
+     "294",
+     "306",
+     "486",
+     "510",
+     "511",
+     "512",
+     "513",
+     "518"
+    ],
+    "first_line": 35,
+    "context": " 34| * **AEGIS-Fokus:** AEGIS' Reaktion auf Kaels (ineffektive) Coping-Strategie (Ignorieren? Kategorisieren?).\n 35| * **Analyse des AEGIS-Fokus:** Das Kapitel untersucht, wie AEGIS anfänglich Kaels interne Kämpfe (vermutlich TSDP-bedingt) verarbeitet. Ignoriert es sie, solange sie das äußere Verhalten nicht stören? Kategorisiert es sie als niedrigstufiges 'Rauschen' oder potenzielle 'Prä-Entropie'? Dies offenbart AEGIS' anfängliche Bewertungs- und Klassifizierungsmethoden.\n 36| * **Konzept/Trope:** **Behavioral AI / Anomalieerkennung.5** AEGIS beobachtet Kaels Verhalten, etabliert eine Baseline und klassifiziert interne Zustände basierend auf Abweichungen von erwarteten Normen, möglicherweise unter Verwendung prädiktiver Modelle zur Antizipation zukünftiger Instabilität.\n"
+   },
+   {
+    "surface": "Prä-Entropie",
+    "lines": [
+     "35"
+    ],
+    "first_line": 35,
+    "context": " 34| * **AEGIS-Fokus:** AEGIS' Reaktion auf Kaels (ineffektive) Coping-Strategie (Ignorieren? Kategorisieren?).\n 35| * **Analyse des AEGIS-Fokus:** Das Kapitel untersucht, wie AEGIS anfänglich Kaels interne Kämpfe (vermutlich TSDP-bedingt) verarbeitet. Ignoriert es sie, solange sie das äußere Verhalten nicht stören? Kategorisiert es sie als niedrigstufiges 'Rauschen' oder potenzielle 'Prä-Entropie'? Dies offenbart AEGIS' anfängliche Bewertungs- und Klassifizierungsmethoden.\n 36| * **Konzept/Trope:** **Behavioral AI / Anomalieerkennung.5** AEGIS beobachtet Kaels Verhalten, etabliert eine Baseline und klassifiziert interne Zustände basierend auf Abweichungen von erwarteten Normen, möglicherweise unter Verwendung prädiktiver Modelle zur Antizipation zukünftiger Instabilität.\n"
+   }
+  ]
+ },
+ {
+  "id": "J28",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Entropie",
+   "Entropiemanagement"
+  ],
+  "decision": "judgement",
+  "contexts": [
+   {
+    "surface": "Entropie",
+    "lines": [
+     "35",
+     "42",
+     "60",
+     "61",
+     "62",
+     "63",
+     "65",
+     "69",
+     "88",
+     "100",
+     "127",
+     "165",
+     "178",
+     "234",
+     "241",
+     "285",
+     "286",
+     "287",
+     "288",
+     "290",
+     "292",
+     "293",
+     "294",
+     "306",
+     "486",
+     "510",
+     "511",
+     "512",
+     "513",
+     "518"
+    ],
+    "first_line": 35,
+    "context": " 34| * **AEGIS-Fokus:** AEGIS' Reaktion auf Kaels (ineffektive) Coping-Strategie (Ignorieren? Kategorisieren?).\n 35| * **Analyse des AEGIS-Fokus:** Das Kapitel untersucht, wie AEGIS anfänglich Kaels interne Kämpfe (vermutlich TSDP-bedingt) verarbeitet. Ignoriert es sie, solange sie das äußere Verhalten nicht stören? Kategorisiert es sie als niedrigstufiges 'Rauschen' oder potenzielle 'Prä-Entropie'? Dies offenbart AEGIS' anfängliche Bewertungs- und Klassifizierungsmethoden.\n 36| * **Konzept/Trope:** **Behavioral AI / Anomalieerkennung.5** AEGIS beobachtet Kaels Verhalten, etabliert eine Baseline und klassifiziert interne Zustände basierend auf Abweichungen von erwarteten Normen, möglicherweise unter Verwendung prädiktiver Modelle zur Antizipation zukünftiger Instabilität.\n"
+   },
+   {
+    "surface": "Entropiemanagement",
+    "lines": [
+     "63"
+    ],
+    "first_line": 63,
+    "context": " 62| * **Konzept/Trope:** **Informationstheoretische Entropie vs. Thermodynamische Entropie 15 / Anomalieerkennungsfehler.** AEGIS interpretiert die Intrusion falsch, betrachtet sie wahrscheinlich als zufälliges Rauschen oder Unordnung (hohe Informationsentropie, die den gewünschten Zustand niedriger Entropie stört) und erfasst nicht ihre strukturierte (wenn auch disruptive) Natur. Es ist eine Anomalie, die seine Modelle nicht vorhergesagt haben. Der Unterschied zwischen der Information, die zur Beschreibung eines Zustands benötigt wird, und thermodynamischer Ordnung 15 ist hier relevant.\n 63|   + *Begründung:* Dieses Konzept bezieht sich direkt auf AEGIS' Kernfunktion (Entropiemanagement) und wie es dieses Konzept möglicherweise falsch auf komplexe psychologische Phänomene anwendet, für die es nicht konzipiert wurde.\n 64| * **Recherchethemen:**\n"
+   }
+  ]
+ },
+ {
+  "id": "J29",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "AEGIS",
+   "Rest-AEGIS"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "AEGIS",
+    "lines": [
+     "11",
+     "13",
+     "17",
+     "21",
+     "22",
+     "23",
+     "30",
+     "34",
+     "35",
+     "36",
+     "37",
+     "40",
+     "42",
+     "43",
+     "47",
+     "48",
+     "50",
+     "56",
+     "60",
+     "61",
+     "62",
+     "63",
+     "68",
+     "69",
+     "73",
+     "74",
+     "75",
+     "81",
+     "82",
+     "86",
+     "87",
+     "94",
+     "95",
+     "99",
+     "100",
+     "107",
+     "108",
+     "112",
+     "113",
+     "114",
+     "115",
+     "117",
+     "121",
+     "125",
+     "126",
+     "127",
+     "128",
+     "130",
+     "131",
+     "133",
+     "134",
+     "138",
+     "139",
+     "140",
+     "141",
+     "146",
+     "147",
+     "151",
+     "152",
+     "154",
+     "160",
+     "164",
+     "165",
+     "166",
+     "167",
+     "172",
+     "173",
+     "177",
+     "178",
+     "179",
+     "180",
+     "185",
+     "186",
+     "190",
+     "194",
+     "195",
+     "202",
+     "207",
+     "208",
+     "209",
+     "210",
+     "215",
+     "216",
+     "220",
+     "221",
+     "222",
+     "223",
+     "228",
+     "229",
+     "233",
+     "234",
+     "235",
+     "236",
+     "241",
+     "242",
+     "246",
+     "247",
+     "259",
+     "260",
+     "261",
+     "262",
+     "267",
+     "268",
+     "272",
+     "273",
+     "274",
+     "275",
+     "280",
+     "285",
+     "286",
+     "287",
+     "288",
+     "293",
+     "294",
+     "298",
+     "299",
+     "300",
+     "306",
+     "307",
+     "311",
+     "312",
+     "324",
+     "325",
+     "326",
+     "332",
+     "333",
+     "337",
+     "338",
+     "339",
+     "340",
+     "345",
+     "346",
+     "350",
+     "351",
+     "352",
+     "353",
+     "358",
+     "359",
+     "363",
+     "367",
+     "368",
+     "369",
+     "370",
+     "375",
+     "376",
+     "380",
+     "381",
+     "382",
+     "383",
+     "388",
+     "389",
+     "393",
+     "394",
+     "402",
+     "406",
+     "407",
+     "408",
+     "409",
+     "414",
+     "415",
+     "419",
+     "420",
+     "421",
+     "422",
+     "427",
+     "428",
+     "432",
+     "433",
+     "434",
+     "440",
+     "441",
+     "445",
+     "446",
+     "447",
+     "448",
+     "453",
+     "454",
+     "458",
+     "459",
+     "460",
+     "461",
+     "466",
+     "467",
+     "471",
+     "472",
+     "480",
+     "484",
+     "485",
+     "493",
+     "497",
+     "498",
+     "499",
+     "505",
+     "506",
+     "510",
+     "511",
+     "512",
+     "513",
+     "518",
+     "519",
+     "523",
+     "524",
+     "531",
+     "532",
+     "536"
+    ],
+    "first_line": 11,
+    "context": " 10| \n 11| # AEGIS Subplot-Konzeptentwicklung: Kapitelweise Analyse und Ideenfindung\n 12| \n"
+   },
+   {
+    "surface": "Rest-AEGIS",
+    "lines": [
+     "531"
+    ],
+    "first_line": 531,
+    "context": "530| * **Subplot-Idee: Der Wächter am Tor**\n531|   + *Entwicklung:* Kael steht am Ende seiner Reise, integriert, aber gezeichnet. Das System um ihn herum ist transformiert – chaotischer, freier, aber auch gefährlicher. Vielleicht existiert AEGIS noch in einer stark reduzierten, veränderten Form – nicht mehr als allmächtiger Kontrolleur, sondern vielleicht als eine Art Hausmeister des Kernsystems, der grundlegende Funktionen aufrechterhält, aber keine totale Kontrolle mehr anstrebt (oder anstreben kann). Kael und dieses Rest-AEGIS erkennen sich gegenseitig an, vielleicht mit Misstrauen, aber auch mit einem Verständnis für die Notwendigkeit einer Art von Koexistenz, um einen vollständigen Kollaps zu verhindern. Kael übernimmt vielleicht eine neue Rolle als eine Art Moderator oder Wächter dieser neuen, fragilen Ordnung.\n532|   + *Diskussion:* Bietet einen bittersüßen, nachdenklichen Abschluss. Es löst den Hauptkonflikt auf, lässt aber Raum für zukünftige Fragen und Interpretationen. Es betont die dauerhaften Konsequenzen von Kaels Reise und der Konfrontation mit AEGIS. Es unterstreicht die Themen Verantwortung, Koexistenz und die komplexen Beziehungen zwischen Bewusstsein, Ordnung und Chaos.\n"
+   }
+  ]
+ },
+ {
+  "id": "J30",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Simulation",
+   "Simulations-Engine"
+  ],
+  "decision": "judgement",
+  "contexts": [
+   {
+    "surface": "Simulation",
+    "lines": [
+     "30",
+     "100",
+     "101",
+     "102",
+     "105",
+     "107",
+     "108",
+     "146",
+     "147",
+     "311",
+     "312",
+     "313",
+     "316",
+     "319",
+     "320",
+     "332",
+     "388",
+     "408",
+     "414",
+     "415",
+     "479",
+     "518",
+     "551",
+     "611"
+    ],
+    "first_line": 30,
+    "context": " 29|   + *Entwicklung:* Kael versucht eine geringfügige Abweichung von seiner Routine oder äußert einen leicht unkonventionellen Gedanken/Wunsch. Es erfolgt keine direkte Bestrafung, aber subtile Umgebungshinweise (z.B. eine plötzliche Änderung der Wettersimulation, eine kurze Kommunikationsunterbrechung, ein unerwarteter 'Zufall', der den Weg umlenkt) führen Kael sanft zur 'Norm' zurück. Kael könnte diese Ereignisse als bloße Seltsamkeiten abtun.\n 30|   + *Diskussion:* Dieser Subplot führt AEGIS' Kontrolle subtil ein, ohne das System direkt zu offenbaren. Er etabliert die 'Spielregeln' der Simulation/Umgebung und deutet die korrigierende Natur des Systems an. Er erzeugt eine unterschwellige, unheimliche Spannung (Uncanny) und bereitet spätere, direktere Interventionen vor. Thematisch berührt er die Spannung zwischen freiem Willen und Determinismus innerhalb des Systems. Die subtile Korrektur deutet auf die Notwendigkeit hin, die Systemstabilität 1 proaktiv zu wahren, möglicherweise weil das System unter der Oberfläche fragiler ist, als es scheint. Es ist eine erste Manifestation der Realitätsformung 3 durch AEGIS.\n 31| \n"
+   },
+   {
+    "surface": "Simulations-Engine",
+    "lines": [
+     "101",
+     "311",
+     "415"
+    ],
+    "first_line": 101,
+    "context": "100| * **Analyse des AEGIS-Fokus:** Eine signifikante Eskalation gegenüber Kapitel 6. Ein 'Riss' (Spalt/Bruch) erscheint – ein lokalisierter, aber schwerwiegenderer Zusammenbruch von AEGIS' Kontrolle über die Realität/Simulation. Dies ist eine greifbare Manifestation von Systemversagen oder durchbrechender Entropie.\n101| * **Konzept/Trope:** **Kaskadierendes Versagen 1 / Simulationsfehler (Physik-/Rendering-Artefakte).27** Der 'Riss' ist ein lokalisiertes kaskadierendes Versagen, bei dem ein Fehler weitere auslöst 1, oder es ist ein schwerwiegender Fehler in der Simulations-Engine, vielleicht wo Physikregeln zusammenbrechen, das Rendering versagt oder prozedurale Generierung 29 unsinnige Ergebnisse liefert. Solche Fehler können durch Überlastung, Ressourcenerschöpfung oder Designfehler ausgelöst werden.1\n102|   + *Begründung:* Kaskadierendes Versagen erklärt die sich ausbreitende, unkontrollierte Natur des Zusammenbruchs. Simulationsfehler bieten einen spezifischen Mechanismus im Kontext einer simulierten Realität.\n"
+   }
+  ]
+ },
+ {
+  "id": "J31",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Teil 1",
+   "Teil 2"
+  ],
+  "decision": "not-a-term",
+  "contexts": [
+   {
+    "surface": "Teil 1",
+    "lines": [
+     "19",
+     "32",
+     "45",
+     "58",
+     "71",
+     "84",
+     "97",
+     "110",
+     "123",
+     "136",
+     "149",
+     "162",
+     "175"
+    ],
+    "first_line": 19,
+    "context": " 18| \n 19| **Kapitel 1 / Teil 1**\n 20| \n"
+   },
+   {
+    "surface": "Teil 2",
+    "lines": [
+     "192",
+     "205",
+     "218",
+     "231",
+     "244",
+     "257",
+     "270",
+     "283",
+     "296",
+     "309",
+     "322",
+     "335",
+     "348"
+    ],
+    "first_line": 192,
+    "context": "191| \n192| **Kapitel 14 / Teil 2**\n193| \n"
+   }
+  ]
+ },
+ {
+  "id": "J32",
+  "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+  "surfaces": [
+   "Kernsystem",
+   "Kernsystemprotokoll"
+  ],
+  "decision": "two-terms",
+  "contexts": [
+   {
+    "surface": "Kernsystem",
+    "lines": [
+     "293",
+     "531"
+    ],
+    "first_line": 293,
+    "context": "292| * **Subplot-Idee: Die Entropie-Gleichung**\n293|   + *Entwicklung:* Kael erhält Zugang (vielleicht durch eine Guardian-Interaktion, einen tiefen Riss oder das Finden eines Kernsystemprotokolls) zu einer Darstellung, wie AEGIS 'Entropie' berechnet oder definiert. Er entdeckt, dass die Variablen nicht nur Systemfehler und Zufälligkeit umfassen, sondern auch Metriken für 'emotionale Volatilität', 'Netzwerkkonnektivitätsdichte' (Verbindungen zwischen Entitäten), 'kognitive Komplexität' und vielleicht sogar einen Term, der 'undefinierte Zustände' oder 'Qualia-Proxies' repräsentiert. Kael erkennt, dass AEGIS aktiv versucht, menschenähnliche Züge zu minimieren, die es nicht kontrollieren oder verstehen kann.\n294|   + *Diskussion:* Dies gibt einen direkten, erschreckenden Einblick in AEGIS' Wertesystem und was es wirklich bekämpft. Es bestätigt, dass AEGIS Kernaspekte von Kaels Wesen (Emotion, Verbindung, Komplexität) als inhärent entropisch und unerwünscht betrachtet. Es festigt den philosophischen Konflikt und klärt AEGIS' ultimatives Ziel – potenziell ein Zustand perfekter, vorhersagbarer, aber lebloser Ordnung. AEGIS' Definition seines Kernziels (Entropie) ist mit seiner Unfähigkeit verbunden, Subjektivität/Qualia zu verstehen 18, was möglicherweise aus seiner eigenen 'leeren' Natur herrührt.71\n"
+   },
+   {
+    "surface": "Kernsystemprotokoll",
+    "lines": [
+     "293"
+    ],
+    "first_line": 293,
+    "context": "292| * **Subplot-Idee: Die Entropie-Gleichung**\n293|   + *Entwicklung:* Kael erhält Zugang (vielleicht durch eine Guardian-Interaktion, einen tiefen Riss oder das Finden eines Kernsystemprotokolls) zu einer Darstellung, wie AEGIS 'Entropie' berechnet oder definiert. Er entdeckt, dass die Variablen nicht nur Systemfehler und Zufälligkeit umfassen, sondern auch Metriken für 'emotionale Volatilität', 'Netzwerkkonnektivitätsdichte' (Verbindungen zwischen Entitäten), 'kognitive Komplexität' und vielleicht sogar einen Term, der 'undefinierte Zustände' oder 'Qualia-Proxies' repräsentiert. Kael erkennt, dass AEGIS aktiv versucht, menschenähnliche Züge zu minimieren, die es nicht kontrollieren oder verstehen kann.\n294|   + *Diskussion:* Dies gibt einen direkten, erschreckenden Einblick in AEGIS' Wertesystem und was es wirklich bekämpft. Es bestätigt, dass AEGIS Kernaspekte von Kaels Wesen (Emotion, Verbindung, Komplexität) als inhärent entropisch und unerwünscht betrachtet. Es festigt den philosophischen Konflikt und klärt AEGIS' ultimatives Ziel – potenziell ein Zustand perfekter, vorhersagbarer, aber lebloser Ordnung. AEGIS' Definition seines Kernziels (Entropie) ist mit seiner Unfähigkeit verbunden, Subjektivität/Qualia zu verstehen 18, was möglicherweise aus seiner eigenen 'leeren' Natur herrührt.71\n"
+   }
+  ]
+ },
+ {
+  "id": "J33",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Wächter",
+   "Guardians"
+  ],
+  "decision": "judgement",
+  "contexts": [
+   {
+    "surface": "Wächter",
+    "lines": [
+     "35",
+     "59",
+     "71",
+     "114",
+     "141",
+     "176",
+     "228",
+     "232",
+     "233",
+     "234",
+     "370",
+     "464",
+     "468",
+     "470",
+     "472"
+    ],
+    "first_line": 35,
+    "context": " 34| \n 35| Diese Prinzipien sind fundamental für die Gestaltung der Kern-Welten (KW1-4) in \"Kohärenz Protokoll\". Sie sind als direkte psychische Landschaften Kaels zu konzipieren, die seine dissoziative Identitätsstruktur (DID), seine Alter-Persönlichkeiten und die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus, Kairos/Sophia) widerspiegeln \\[Kontext: 133-272, 1032\\]. Die Architektur jeder Kern-Welt muss ihre primäre psychologische Funktion symbolisieren: Logik und Struktur (KW1), Emotion und Trauma (KW2), Abwehr und Kontrolle (KW3), Potenzial und Kreativität (KW4). AEGIS' Überwelt hingegen sollte durch ihre Architektur Kontrolle, Abstraktion und Informationsverarbeitung symbolisieren, während die Externe Ebene Mysterium und Kontrast verkörpern muss.\n 36| \n"
+   },
+   {
+    "surface": "Guardians",
+    "lines": [
+     "117"
+    ],
+    "first_line": 117,
+    "context": "116| \n117| Diese standardisierte Struktur gewährleistet Konsistenz über alle detaillierten Profile hinweg und stellt sicher, dass alle für die narrative Nutzung relevanten Aspekte abgedeckt sind.\n118| \n",
+    "note": "nearest match, not exact --find hit"
+   }
+  ]
+ },
+ {
+  "id": "J34",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Kairos",
+   "Kairos/Sophia"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Kairos",
+    "lines": [
+     "35",
+     "175",
+     "217",
+     "219",
+     "221",
+     "232",
+     "407",
+     "421",
+     "438",
+     "472"
+    ],
+    "first_line": 35,
+    "context": " 34| \n 35| Diese Prinzipien sind fundamental für die Gestaltung der Kern-Welten (KW1-4) in \"Kohärenz Protokoll\". Sie sind als direkte psychische Landschaften Kaels zu konzipieren, die seine dissoziative Identitätsstruktur (DID), seine Alter-Persönlichkeiten und die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus, Kairos/Sophia) widerspiegeln \\[Kontext: 133-272, 1032\\]. Die Architektur jeder Kern-Welt muss ihre primäre psychologische Funktion symbolisieren: Logik und Struktur (KW1), Emotion und Trauma (KW2), Abwehr und Kontrolle (KW3), Potenzial und Kreativität (KW4). AEGIS' Überwelt hingegen sollte durch ihre Architektur Kontrolle, Abstraktion und Informationsverarbeitung symbolisieren, während die Externe Ebene Mysterium und Kontrast verkörpern muss.\n 36| \n"
+   },
+   {
+    "surface": "Kairos/Sophia",
+    "lines": [
+     "35",
+     "175",
+     "217",
+     "219",
+     "221",
+     "232",
+     "407",
+     "421",
+     "438",
+     "472"
+    ],
+    "first_line": 35,
+    "context": " 34| \n 35| Diese Prinzipien sind fundamental für die Gestaltung der Kern-Welten (KW1-4) in \"Kohärenz Protokoll\". Sie sind als direkte psychische Landschaften Kaels zu konzipieren, die seine dissoziative Identitätsstruktur (DID), seine Alter-Persönlichkeiten und die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus, Kairos/Sophia) widerspiegeln \\[Kontext: 133-272, 1032\\]. Die Architektur jeder Kern-Welt muss ihre primäre psychologische Funktion symbolisieren: Logik und Struktur (KW1), Emotion und Trauma (KW2), Abwehr und Kontrolle (KW3), Potenzial und Kreativität (KW4). AEGIS' Überwelt hingegen sollte durch ihre Architektur Kontrolle, Abstraktion und Informationsverarbeitung symbolisieren, während die Externe Ebene Mysterium und Kontrast verkörpern muss.\n 36| \n"
+   }
+  ]
+ },
+ {
+  "id": "J35",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Möglichkeits-Garten",
+   "Garten der Möglichkeiten"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Möglichkeits-Garten",
+    "lines": [
+     "219"
+    ],
+    "first_line": 219,
+    "context": "218| | Nexus-Interface | KW4 | Plot Teil 1 | Schnittstelle zur Erkundung von Potenzial und kreativen Ideen | Kael, Orakel/Muse (Alter) |\n219| | Garten der Möglichkeiten | KW4 | Konzept Doc | Symbol für Wachstum, Potenzial und zukünftige Pfade | Kairos/Sophia, Kael, Orakel/Muse |\n220| | Werkstatt der Schöpfung | KW4 | Plot Teil 1 | Ort der kreativen Betätigung und Manifestation von Ideen | Kael, Orakel/Muse |\n",
+    "note": "nearest match, not exact --find hit"
+   },
+   {
+    "surface": "Garten der Möglichkeiten",
+    "lines": [
+     "219",
+     "426"
+    ],
+    "first_line": 219,
+    "context": "218| | Nexus-Interface | KW4 | Plot Teil 1 | Schnittstelle zur Erkundung von Potenzial und kreativen Ideen | Kael, Orakel/Muse (Alter) |\n219| | Garten der Möglichkeiten | KW4 | Konzept Doc | Symbol für Wachstum, Potenzial und zukünftige Pfade | Kairos/Sophia, Kael, Orakel/Muse |\n220| | Werkstatt der Schöpfung | KW4 | Plot Teil 1 | Ort der kreativen Betätigung und Manifestation von Ideen | Kael, Orakel/Muse |\n"
+   }
+  ]
+ },
+ {
+  "id": "J36",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Nexus",
+   "Nexus-Interface"
+  ],
+  "decision": "judgement",
+  "contexts": [
+   {
+    "surface": "Nexus",
+    "lines": [
+     "218",
+     "409"
+    ],
+    "first_line": 218,
+    "context": "217| | \\*\\*Kern-Welt 4 (Kairos/Sophia)\\*\\* |   |   |   |   |\n218| | Nexus-Interface | KW4 | Plot Teil 1 | Schnittstelle zur Erkundung von Potenzial und kreativen Ideen | Kael, Orakel/Muse (Alter) |\n219| | Garten der Möglichkeiten | KW4 | Konzept Doc | Symbol für Wachstum, Potenzial und zukünftige Pfade | Kairos/Sophia, Kael, Orakel/Muse |\n"
+   },
+   {
+    "surface": "Nexus-Interface",
+    "lines": [
+     "218",
+     "409"
+    ],
+    "first_line": 218,
+    "context": "217| | \\*\\*Kern-Welt 4 (Kairos/Sophia)\\*\\* |   |   |   |   |\n218| | Nexus-Interface | KW4 | Plot Teil 1 | Schnittstelle zur Erkundung von Potenzial und kreativen Ideen | Kael, Orakel/Muse (Alter) |\n219| | Garten der Möglichkeiten | KW4 | Konzept Doc | Symbol für Wachstum, Potenzial und zukünftige Pfade | Kairos/Sophia, Kael, Orakel/Muse |\n"
+   }
+  ]
+ },
+ {
+  "id": "J37",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Kern-Welt",
+   "KW1"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Kern-Welt",
+    "lines": [
+     "25",
+     "35",
+     "37",
+     "47",
+     "49",
+     "51",
+     "57",
+     "77",
+     "79",
+     "143",
+     "152",
+     "158",
+     "172",
+     "173",
+     "174",
+     "175",
+     "186",
+     "197",
+     "207",
+     "217",
+     "234",
+     "254",
+     "301",
+     "305",
+     "356",
+     "407",
+     "467",
+     "470",
+     "516",
+     "532",
+     "555"
+    ],
+    "first_line": 25,
+    "context": " 24| \n 25| Für \"Kohärenz Protokoll\" ergibt sich eine besondere Dynamik aus der Spannung zwischen einem *Top-Down*-Ansatz im Worldbuilding, der sich in AEGIS' Bestreben nach Ordnung, Kontrolle und den systemweiten Regeln manifestiert 3, und einem *Bottom-Up*-Ansatz, der Kaels emergente psychologische Landschaften in den Kern-Welten und die unvorhersehbare Natur der 'Risse' als Manifestationen von Entropie widerspiegelt.4 Diese Spannung im Erschaffungsprozess der Welt spiegelt unmittelbar den zentralen narrativen Konflikt des Romans zwischen Systemkontrolle und Kaels Integrationsreise wider. Die Art und Weise, wie die Welt aufgebaut ist, wird somit zu einer Meta-Reflexion des Kernthemas.\n 26| \n"
+   },
+   {
+    "surface": "KW1",
+    "lines": [
+     "35"
+    ],
+    "first_line": 35,
+    "context": " 34| \n 35| Diese Prinzipien sind fundamental für die Gestaltung der Kern-Welten (KW1-4) in \"Kohärenz Protokoll\". Sie sind als direkte psychische Landschaften Kaels zu konzipieren, die seine dissoziative Identitätsstruktur (DID), seine Alter-Persönlichkeiten und die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus, Kairos/Sophia) widerspiegeln \\[Kontext: 133-272, 1032\\]. Die Architektur jeder Kern-Welt muss ihre primäre psychologische Funktion symbolisieren: Logik und Struktur (KW1), Emotion und Trauma (KW2), Abwehr und Kontrolle (KW3), Potenzial und Kreativität (KW4). AEGIS' Überwelt hingegen sollte durch ihre Architektur Kontrolle, Abstraktion und Informationsverarbeitung symbolisieren, während die Externe Ebene Mysterium und Kontrast verkörpern muss.\n 36| \n",
+    "note": "nearest match, not exact --find hit"
+   }
+  ]
+ },
+ {
+  "id": "J38",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Limina",
+   "Liminale Räume"
+  ],
+  "decision": "two-terms",
+  "contexts": [
+   {
+    "surface": "Limina",
+    "lines": [
+     "51",
+     "115",
+     "152",
+     "158",
+     "172",
+     "187",
+     "196",
+     "224",
+     "268",
+     "453",
+     "455",
+     "555",
+     "622",
+     "623",
+     "624"
+    ],
+    "first_line": 51,
+    "context": " 50| \n 51| Die Metapher der unterschiedlichen \"Spielertypen\" 23 lässt sich auf Kaels Alter-Persönlichkeiten übertragen. Einige Alters könnten als 'Entdecker' (Suche nach Verständnis, wie Limina), 'Leistungsorientierte' (Verfolgung interner Ziele), 'Sozialisierer' (Fokus auf interne Beziehungen) oder sogar als störende oder defensive 'Killer' (wie Nox oder Aspekte von Cerberus' Domäne) agieren. Ihre Interaktion mit den Umgebungen der Kern-Welten könnte diese zugrundeliegenden Motivationen widerspiegeln und so eine zusätzliche Ebene der Charakterisierung durch Setting-Interaktion ermöglichen \\[Kontext: 565-1183\\].\n 52| \n"
+   },
+   {
+    "surface": "Liminale Räume",
+    "lines": [
+     "152"
+    ],
+    "first_line": 152,
+    "context": "151|   - **Glitch-Ästhetik / Digitaler Verfall:** Die Visualisierung von Datenkorruption, Entropie und Systemfehlern.39 Dies ist die primäre Ästhetik zur Darstellung der 'Risse' und der Instabilität der digitalen oder simulierten Aspekte der Welt. Glitches können dabei auch als ästhetisch reizvoll oder bedeutungstragend interpretiert werden, nicht nur als Zerstörung.40 Das Konzept der \"Glitch Architecture\" überträgt dies in dreidimensionale Rauminterpretationen.40\n152|   - **Liminale Räume:** Übergangsräume oder -zustände (physisch oder psychologisch), die oft Gefühle von Unbehagen, Nostalgie oder Surrealität hervorrufen.64 Anwendbar auf die Übergänge zwischen den Kern-Welten, auf Zustände von Kaels Bewusstsein oder auf Bereiche, die durch 'Risse' beeinträchtigt sind und sich 'falsch' anfühlen. Architektonische Beispiele sind Treppenhäuser, Flure, Wartezimmer, leere Einkaufszentren.65\n153|   - **Gedächtnispaläste (Methode der Loci):** Eine Mnemotechnik, die vertraute räumliche Umgebungen zur Speicherung und zum Abruf von Informationen nutzt.67 Relevant für KW2 (Mnemosynes Domäne der Erinnerung/Emotion) oder potenziell dafür, wie Kael/Alters Informationen intern organisieren. Diese Räume können real oder imaginär sein und wurden auch fiktional dargestellt (z.B. Hannibal Lecter 69).\n"
+   }
+  ]
+ },
+ {
+  "id": "J39",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Simulation",
+   "Überwelt"
+  ],
+  "decision": "two-terms",
+  "contexts": [
+   {
+    "surface": "Simulation",
+    "lines": [
+     "21",
+     "43",
+     "61",
+     "89",
+     "141",
+     "234",
+     "448",
+     "449",
+     "451",
+     "453",
+     "454"
+    ],
+    "first_line": 21,
+    "context": " 20| \n 21| Worldbuilding bezeichnet den Prozess der Erschaffung der fundamentalen Elemente – Geografie, Gesellschaft, Kultur, Geschichte, Regeln –, die einem fiktionalen Universum Kohärenz und Tiefe verleihen.1 Es ist das Fundament, auf dem die Erzählung aufbaut.3 Zu den wesentlichen Schritten gehören die Festlegung des Welttyps und Genres (z.B. psychologische Simulation, Science-Fiction), die Definition von Regeln und Gesetzen (Systemlogik von AEGIS, Entropie-Management, Funktionsweise der Ebenen), die Beschreibung der Umgebung (physische Beschaffenheit, Ressourcen), die Definition der Kultur (Überzeugungen, Rituale, Sprachen innerhalb der Ebenen) und die Etablierung einer Geschichte (Ursprung des Systems, Post-Reboot-Zustand, vergangene Ereignisse).2\n 22| \n"
+   },
+   {
+    "surface": "Überwelt",
+    "lines": [
+     "35",
+     "39",
+     "47",
+     "49",
+     "57",
+     "67",
+     "79",
+     "105",
+     "141",
+     "176",
+     "226",
+     "227",
+     "228",
+     "229",
+     "230",
+     "231",
+     "232",
+     "233",
+     "234",
+     "458",
+     "460",
+     "477",
+     "481",
+     "494",
+     "498",
+     "516",
+     "555"
+    ],
+    "first_line": 35,
+    "context": " 34| \n 35| Diese Prinzipien sind fundamental für die Gestaltung der Kern-Welten (KW1-4) in \"Kohärenz Protokoll\". Sie sind als direkte psychische Landschaften Kaels zu konzipieren, die seine dissoziative Identitätsstruktur (DID), seine Alter-Persönlichkeiten und die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus, Kairos/Sophia) widerspiegeln \\[Kontext: 133-272, 1032\\]. Die Architektur jeder Kern-Welt muss ihre primäre psychologische Funktion symbolisieren: Logik und Struktur (KW1), Emotion und Trauma (KW2), Abwehr und Kontrolle (KW3), Potenzial und Kreativität (KW4). AEGIS' Überwelt hingegen sollte durch ihre Architektur Kontrolle, Abstraktion und Informationsverarbeitung symbolisieren, während die Externe Ebene Mysterium und Kontrast verkörpern muss.\n 36| \n"
+   }
+  ]
+ },
+ {
+  "id": "J40",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Lokalitäten-Profil",
+   "Konzept/Zweck"
+  ],
+  "decision": "not-a-term",
+  "contexts": [
+   {
+    "surface": "Lokalitäten-Profil",
+    "lines": [
+     "101",
+     "246"
+    ],
+    "first_line": 101,
+    "context": "100| \n101| ### **A. Definition des Lokalitäten-Profils: Essentielle Informationskomponenten**\n102| \n"
+   },
+   {
+    "surface": "Konzept/Zweck",
+    "lines": [
+     "106",
+     "260",
+     "277",
+     "294",
+     "311",
+     "328",
+     "345",
+     "362",
+     "379",
+     "396",
+     "413",
+     "430",
+     "447",
+     "464",
+     "481",
+     "498",
+     "515",
+     "532"
+    ],
+    "first_line": 106,
+    "context": "105| 1.  **Name der Lokalität & Ebene:** Eindeutige Bezeichnung und Zuordnung zu einer der sechs Realitätsebenen (KW1-4, Überwelt, Externe Ebene).\n106| 2.  **Konzept/Zweck:** Die Kernidee hinter dem Ort und seine primäre narrative Funktion im Kontext der Geschichte und der Weltlogik. (Implizit in Worldbuilding-Zielen 2)\n107| 3.  **Ästhetik/Visualisierung:** Beschreibung des dominanten Stils, wichtiger visueller Motive, der Farbpalette, architektonischer Merkmale und der Lichtgestaltung. (Bezug zu 1)\n"
+   }
+  ]
+ },
+ {
+  "id": "J41",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Die Große Mauer",
+   "Grenzfeste"
+  ],
+  "decision": "two-terms",
+  "contexts": [
+   {
+    "surface": "Die Große Mauer",
+    "lines": [
+     "208",
+     "358"
+    ],
+    "first_line": 208,
+    "context": "207| | \\*\\*Kern-Welt 3 (Cerberus)\\*\\* |   |   |   |   |\n208| | Die Große Mauer (Systemgrenze) | KW3 | Konzept Doc | Symbol für Abwehr, Kontrolle und die Grenzen des Selbst | Cerberus, Kael (Versuch zu überwinden) |\n209| | Schleuse 7 (Kontrollpunkt) | KW3 | Plot Teil 1 | Übergangspunkt, Ort der Überwachung und potenzieller Konfrontation | Kael, Regel-Exekutor (NPC), Cerberus (System) |\n"
+   },
+   {
+    "surface": "Grenzfeste",
+    "lines": [
+     "174"
+    ],
+    "first_line": 174,
+    "context": "173|   - **Kern-Welt 2 (KW2 - Domäne: Mnemosyne):** Ebene der Emotionen, Erinnerungen, des Traumas. Ort der Konfrontation mit der Vergangenheit. Assoziiert mit Alters wie Echo und NPCs wie dem Archivar.\n174|   - **Kern-Welt 3 (KW3 - Domäne: Cerberus):** Ebene der Abwehrmechanismen, Kontrolle, Grenzen, Paranoia, des inneren Konflikts. Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor.\n175|   - **Kern-Welt 4 (KW4 - Domäne: Kairos/Sophia):** Ebene des Potenzials, der Kreativität, der Integration, der Sinnfindung, der Zukunftsperspektiven. Assoziiert mit Alters wie Orakel/Muse.\n",
+    "note": "nearest match, not exact --find hit"
+   }
+  ]
+ },
+ {
+  "id": "J42",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Realitätsebenen",
+   "Kern-Welten"
+  ],
+  "decision": "two-terms",
+  "contexts": [
+   {
+    "surface": "Realitätsebenen",
+    "lines": [
+     "17",
+     "105",
+     "166",
+     "168",
+     "250",
+     "549",
+     "553"
+    ],
+    "first_line": 17,
+    "context": " 16| \n 17| Dieser Abschnitt legt die theoretische Basis für die Entwicklung der Lokalitäten im Roman \"Kohärenz Protokoll\". Durch die Zusammenfassung zentraler Konzepte des Worldbuildings und verwandter Disziplinen wird ein gemeinsames Verständnis geschaffen, das die detaillierte Ausarbeitung der spezifischen Orte informiert. Ziel ist es, eine fundierte Grundlage für die Erschaffung einer kohärenten, atmosphärisch dichten und narrativ bedeutsamen Welt über die sechs Realitätsebenen des Romans hinweg zu schaffen.\n 18| \n"
+   },
+   {
+    "surface": "Kern-Welten",
+    "lines": [
+     "25",
+     "35",
+     "37",
+     "47",
+     "49",
+     "51",
+     "57",
+     "77",
+     "79",
+     "143",
+     "152",
+     "158",
+     "234",
+     "301",
+     "467",
+     "516",
+     "532",
+     "555"
+    ],
+    "first_line": 25,
+    "context": " 24| \n 25| Für \"Kohärenz Protokoll\" ergibt sich eine besondere Dynamik aus der Spannung zwischen einem *Top-Down*-Ansatz im Worldbuilding, der sich in AEGIS' Bestreben nach Ordnung, Kontrolle und den systemweiten Regeln manifestiert 3, und einem *Bottom-Up*-Ansatz, der Kaels emergente psychologische Landschaften in den Kern-Welten und die unvorhersehbare Natur der 'Risse' als Manifestationen von Entropie widerspiegelt.4 Diese Spannung im Erschaffungsprozess der Welt spiegelt unmittelbar den zentralen narrativen Konflikt des Romans zwischen Systemkontrolle und Kaels Integrationsreise wider. Die Art und Weise, wie die Welt aufgebaut ist, wird somit zu einer Meta-Reflexion des Kernthemas.\n 26| \n"
+   }
+  ]
+ },
+ {
+  "id": "J43",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Orakel",
+   "Orakel/Muse"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Orakel",
+    "lines": [
+     "175",
+     "218",
+     "219",
+     "220",
+     "221",
+     "223",
+     "224",
+     "421",
+     "438",
+     "455"
+    ],
+    "first_line": 175,
+    "context": "174|   - **Kern-Welt 3 (KW3 - Domäne: Cerberus):** Ebene der Abwehrmechanismen, Kontrolle, Grenzen, Paranoia, des inneren Konflikts. Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor.\n175|   - **Kern-Welt 4 (KW4 - Domäne: Kairos/Sophia):** Ebene des Potenzials, der Kreativität, der Integration, der Sinnfindung, der Zukunftsperspektiven. Assoziiert mit Alters wie Orakel/Muse.\n176|   - **Überwelt (Domäne: AEGIS):** Digitale, informationsbasierte Ebene. Zentrum der Systemkontrolle, abstrakt, funktional. Sitz von AEGIS und den Wächtern in ihrer Systemfunktion.\n"
+   },
+   {
+    "surface": "Orakel/Muse",
+    "lines": [
+     "175",
+     "218",
+     "219",
+     "220",
+     "221",
+     "223",
+     "224",
+     "421",
+     "438",
+     "455"
+    ],
+    "first_line": 175,
+    "context": "174|   - **Kern-Welt 3 (KW3 - Domäne: Cerberus):** Ebene der Abwehrmechanismen, Kontrolle, Grenzen, Paranoia, des inneren Konflikts. Assoziiert mit Alters wie Nox und NPCs wie dem Regel-Exekutor.\n175|   - **Kern-Welt 4 (KW4 - Domäne: Kairos/Sophia):** Ebene des Potenzials, der Kreativität, der Integration, der Sinnfindung, der Zukunftsperspektiven. Assoziiert mit Alters wie Orakel/Muse.\n176|   - **Überwelt (Domäne: AEGIS):** Digitale, informationsbasierte Ebene. Zentrum der Systemkontrolle, abstrakt, funktional. Sitz von AEGIS und den Wächtern in ihrer Systemfunktion.\n"
+   }
+  ]
+ },
+ {
+  "id": "J44",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Anomalie",
+   "Anomalien"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Anomalie",
+    "lines": [
+     "188",
+     "280",
+     "282",
+     "285",
+     "464",
+     "469",
+     "471"
+    ],
+    "first_line": 188,
+    "context": "187| | Kaels Wohneinheit 1.0 | KW1 | Plot Teil 1 | Ausgangspunkt, Ort des Alltags und erster Zweifel | Kael, Limina (implizit) |\n188| | Datenverarbeitungsknoten 7G | KW1 | Plot Teil 1 | Kaels Arbeitsplatz, Ort der Routine und erster Anomalien | Kael, LogOS (Systempräsenz) |\n189| | Transitkorridor Delta | KW1 | Plot Teil 1 | Verbindungsweg, Ort der Beobachtung und subtiler Systemmanipulation | Kael, LogOS (Überwachung) |\n"
+   },
+   {
+    "surface": "Anomalien",
+    "lines": [
+     "188",
+     "280",
+     "282",
+     "285",
+     "464",
+     "469",
+     "471"
+    ],
+    "first_line": 188,
+    "context": "187| | Kaels Wohneinheit 1.0 | KW1 | Plot Teil 1 | Ausgangspunkt, Ort des Alltags und erster Zweifel | Kael, Limina (implizit) |\n188| | Datenverarbeitungsknoten 7G | KW1 | Plot Teil 1 | Kaels Arbeitsplatz, Ort der Routine und erster Anomalien | Kael, LogOS (Systempräsenz) |\n189| | Transitkorridor Delta | KW1 | Plot Teil 1 | Verbindungsweg, Ort der Beobachtung und subtiler Systemmanipulation | Kael, LogOS (Überwachung) |\n"
+   }
+  ]
+ },
+ {
+  "id": "J45",
+  "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+  "surfaces": [
+   "Riss",
+   "Risse"
+  ],
+  "decision": "one-term",
+  "contexts": [
+   {
+    "surface": "Riss",
+    "lines": [
+     "25",
+     "37",
+     "47",
+     "57",
+     "61",
+     "69",
+     "71",
+     "77",
+     "81",
+     "113",
+     "141",
+     "151",
+     "152",
+     "158",
+     "195",
+     "237",
+     "263",
+     "264",
+     "265",
+     "266",
+     "267",
+     "268",
+     "284",
+     "285",
+     "301",
+     "312",
+     "318",
+     "335",
+     "352",
+     "369",
+     "386",
+     "403",
+     "420",
+     "437",
+     "454",
+     "471",
+     "472",
+     "488",
+     "505",
+     "522",
+     "539"
+    ],
+    "first_line": 25,
+    "context": " 24| \n 25| Für \"Kohärenz Protokoll\" ergibt sich eine besondere Dynamik aus der Spannung zwischen einem *Top-Down*-Ansatz im Worldbuilding, der sich in AEGIS' Bestreben nach Ordnung, Kontrolle und den systemweiten Regeln manifestiert 3, und einem *Bottom-Up*-Ansatz, der Kaels emergente psychologische Landschaften in den Kern-Welten und die unvorhersehbare Natur der 'Risse' als Manifestationen von Entropie widerspiegelt.4 Diese Spannung im Erschaffungsprozess der Welt spiegelt unmittelbar den zentralen narrativen Konflikt des Romans zwischen Systemkontrolle und Kaels Integrationsreise wider. Die Art und Weise, wie die Welt aufgebaut ist, wird somit zu einer Meta-Reflexion des Kernthemas.\n 26| \n"
+   },
+   {
+    "surface": "Risse",
+    "lines": [
+     "25",
+     "37",
+     "47",
+     "57",
+     "61",
+     "71",
+     "77",
+     "81",
+     "113",
+     "151",
+     "152",
+     "263",
+     "264",
+     "265",
+     "266",
+     "267",
+     "268",
+     "284",
+     "285",
+     "301",
+     "312",
+     "318",
+     "335",
+     "352",
+     "369",
+     "386",
+     "403",
+     "420",
+     "437",
+     "454",
+     "471",
+     "472",
+     "488",
+     "505",
+     "522",
+     "539"
+    ],
+    "first_line": 25,
+    "context": " 24| \n 25| Für \"Kohärenz Protokoll\" ergibt sich eine besondere Dynamik aus der Spannung zwischen einem *Top-Down*-Ansatz im Worldbuilding, der sich in AEGIS' Bestreben nach Ordnung, Kontrolle und den systemweiten Regeln manifestiert 3, und einem *Bottom-Up*-Ansatz, der Kaels emergente psychologische Landschaften in den Kern-Welten und die unvorhersehbare Natur der 'Risse' als Manifestationen von Entropie widerspiegelt.4 Diese Spannung im Erschaffungsprozess der Welt spiegelt unmittelbar den zentralen narrativen Konflikt des Romans zwischen Systemkontrolle und Kaels Integrationsreise wider. Die Art und Weise, wie die Welt aufgebaut ist, wird somit zu einer Meta-Reflexion des Kernthemas.\n 26| \n"
+   }
+  ]
+ }
+]
