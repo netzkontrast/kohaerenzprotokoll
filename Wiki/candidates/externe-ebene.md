@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -69,5 +69,15 @@ system failure also the name of a doorway. See [[risse]], [[junas-ankerpunkt]].
 ### Open
 
 Whether this level is inside the system it contrasts with. The document counts it
-as one of six and simultaneously places it outside AEGIS' rules, and never
+as one of six and simultaneously places it outside [[aegis|AEGIS]]' rules, and never
 reconciles the two.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Cologne, 2026 — and never a stage.**
+
+> „Externe Ebene (Köln 2026 — nie Bühne, nur Erinnerungsfragment, Telefonton,
+> Geruch)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226]
+
+It is also the ground of [[kael|Kael]]'s first trauma layer: „Schicht 1 = Bindungstrauma
+Basisrealität Köln" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L277].
