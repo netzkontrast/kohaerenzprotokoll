@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -39,7 +39,7 @@ documents that do not mention each other.
 purpose.**
 
 Every sentence in it that has to phrase the relation puts a Guardian inside
-AEGIS — „agiert als spezialisierter Agent innerhalb eines größeren Systems"
+[[aegis|AEGIS]] — „agiert als spezialisierter Agent innerhalb eines größeren Systems"
 ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L49], „eine reine AEGIS-Erweiterung" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]. So *components*
 is the reading this document supports, and *peers* and *a design it replaced*
 get no support from it at all.
@@ -114,3 +114,20 @@ numbering now joins document 4's named worlds to document 5's numbers for all
 four. See [[kern-welten]]. That makes the two documents describe one arrangement —
 which sharpens C4 rather than resolving it, because document 4 still never
 mentions AEGIS.
+
+## 2026-09-24 — a canon-era document states it as architecture
+
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` is the first read source to state the relation outside a question, which
+is what this page said would answer it:
+
+> „Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei
+> Protokolle, verbindliches Log-Format." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+The [[guardians|Guardians]] are part of AEGIS' architecture, stated flat, in a passage the
+document labels canon. **For this source, the answer is *components*.** It also
+says there are two of them, not five — conflict `C6` — so the question it
+answers is about a different set of Guardians than the one the earlier pages
+describe.
+
+**Q1 stays open**, narrower: *components* now has a direct statement from one
+source; whether it holds for the five of 2025 is C6's question, and the author's.
