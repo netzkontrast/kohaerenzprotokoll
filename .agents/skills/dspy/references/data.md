@@ -12,7 +12,7 @@ not repeated.
 **The judgement ledger is the trainset, and it was not built to be one.**
 `Plan/runs/judgements.jsonl` holds 68 <!--state:judgements.total--> records,
 written "to keep mechanised rules checkable"
-(`scripts/judgements.py:1-19`). Each record already carries the two surfaces,
+(`scripts/judgements.py`). Each record already carries the two surfaces,
 a decision, and — the part that makes it a dataset — `rule`, the person's own
 sentence for why. A real record:
 
@@ -25,16 +25,16 @@ sentence for why. A real record:
 (`Plan/runs/judgements.jsonl`, record J4). `trainset.py`'s own framing: "GEPA's
 entry in the optimizer table does not ask for a number of examples — it asks
 that 'failures can be described in words, not just scored'. This ledger was
-already written that way, for a different reason." (`scripts/trainset.py:1-9`).
+already written that way, for a different reason." (`scripts/trainset.py`).
 `surface_pairs()` reads every `records()` entry whose decision is
 `one-term`/`two-terms` and whose `surfaces` has exactly two entries, and returns
 `{id, first, second, document, decision, rule, features}` per row
-(`scripts/trainset.py:52-68`).
+(`scripts/trainset.py`).
 
 **`trainset.py --export` writes a file, and `pairs.py` does not read it.**
 `Plan/trainsets/surface-pairs.jsonl` exists on disk (written 2026-09-24, 57
 rows). But `pairs.py rows()` calls `trainset.surface_pairs()` directly
-(`scripts/pairs.py:66-67`), never the export. This is deliberate, and it is a
+(`scripts/pairs.py`), never the export. This is deliberate, and it is a
 correction of a real defect: "The design says job 1 has 'n = 26' … The exported
 file had gone stale because nothing compared it to the ledger; `pairs.py` now
 reads the ledger live and never the export."
@@ -49,14 +49,14 @@ seen" (`CLAUDE.md`, *Every step keeps its artifact*). `capture.candidate_terms()
 reads only the `- term` lines out of it, deliberately excluding prose bullets
 such as an "open while reading" section, because those scored 0 occurrences and
 looked exactly like a term the document did not contain
-(`scripts/capture.py:51-66`). This is what `rlm_ingest.py score()` and
+(`scripts/capture.py`). This is what `rlm_ingest.py score()` and
 `entities.py cmd_score()` both score a model's list against.
 
 **A reconstruction is refused as gold, in two different scripts.** `rlm_ingest.py`
 writes `03-candidates-rlm.md`, never `03-candidates.md`: "the gold list is
 written by a reader while reading; a model's list is the thing gold is used to
 score, and the two must never be able to become each other"
-(`scripts/rlm_ingest.py:40-43`). `entities.py cmd_score()` reads the first
+(`scripts/rlm_ingest.py`). `entities.py cmd_score()` reads the first
 section of a `03-candidates.md` file and refuses it outright if it contains the
 word "Reconstructed":
 
@@ -66,22 +66,22 @@ if "Reconstructed" in gold_text.split("\n## ")[0]:
     return 1
 ```
 
-(`scripts/entities.py:367-369`). `trainset.blocked()` reports the same refusal
+(`scripts/entities.py`). `trainset.blocked()` reports the same refusal
 at the level of a whole task: as of the first four documents, every candidate
 list was "a reconstruction written after the counts, not while reading …
 `capture.py` refuses to count before a list exists, so document 5 onward can
 produce real ones — these cannot"
-(`scripts/trainset.py:104-108`; `CLAUDE.md`, *Every step keeps its artifact*).
+(`scripts/trainset.py`; `CLAUDE.md`, *Every step keeps its artifact*).
 
 ## Examples
 
 **`with_inputs` is the one place a program's inputs are declared** — `api.md`
 has the general rule and the `Prediction` truthiness consequence. Concretely:
 `pairs.py run()` builds `dspy.Example(**r).with_inputs("first", "second")` from
-each trainset row (`scripts/pairs.py:147`). `first` and `second` — the two
+each trainset row (`scripts/pairs.py`). `first` and `second` — the two
 surfaces — are what `SameTerm` receives; `decision`, `rule`, `document`, `id`
 and `features` stay labels, read only by the metric through
-`example.toDict()` (`scripts/pairs.py:115`).
+`example.toDict()` (`scripts/pairs.py`).
 
 **What leaks.** Nothing here leaks by the usual route — a label left inside
 `with_inputs` — because `with_inputs("first", "second")` never names `decision`
@@ -118,12 +118,12 @@ def folds(labelled: list[dict], k: int) -> list[list[dict]]:
     return [f for f in out if f]
 ```
 
-(`scripts/pairs.py:74-82`). `baseline.digest()` is `sha256(json.dumps(parts,
-sort_keys=True))[:12]` (`scripts/baseline.py:50-53`) — a stable hash of the id,
+(`scripts/pairs.py`). `baseline.digest()` is `sha256(json.dumps(parts,
+sort_keys=True))[:12]` (`scripts/baseline.py`) — a stable hash of the id,
 not a shuffle a person could game by reordering the ledger, and "the same rows,
-the same folds" on every run (`scripts/pairs.py:75`). Each fold is compiled
+the same folds" on every run (`scripts/pairs.py`). Each fold is compiled
 against `program.deepcopy()`, trained on every *other* fold's rows, and scored
-only on its own held-out rows (`scripts/pairs.py:165-169`). Grouping by
+only on its own held-out rows (`scripts/pairs.py`). Grouping by
 `decision` before hashing means a small fold still holds both `one-term` and
 `two-terms` rows, never all of one class.
 
@@ -132,7 +132,7 @@ only on its own held-out rows (`scripts/pairs.py:165-169`). Grouping by
 are hard-coded in `scripts/selftest.py`, so `surface_pairs()` never returns them
 and `folds()` never places one in any fold. They are checked once, after every
 fold is scored, against the program compiled on the *full* 57
-<!--state:pairs.labelled--> rows (`scripts/pairs.py:183-193`). This is stronger
+<!--state:pairs.labelled--> rows (`scripts/pairs.py`). This is stronger
 than "held out of training" — a book-style seeded split can still put a canary
 in the training set by chance; here it is structurally impossible.
 
@@ -146,20 +146,20 @@ pairs — inside the GEPA floor, barely, and well under MIPROv2's. `pairs.py`'s
 five-fold default already leaves roughly 45–46 rows to train each fold and 11–12
 to score it — thin by the book's own numbers, which is exactly why `SIMBA`'s
 `bsize` is overridden per fold to `min(train_size, 16)` rather than left at its
-default of 32 (`scripts/pairs.py:132`; `api.md` has the DSPy-level assertion
+default of 32 (`scripts/pairs.py`; `api.md` has the DSPy-level assertion
 this avoids).
 
 **Optimizers pick their own split when none is given, and each picks
 differently** — re-verified here against the installed 3.3.1 package: GEPA with
 no `valset` sets `valset = valset or trainset`
-(`dspy:dspy/teleprompt/gepa/gepa.py:571`); MIPROv2 with no `valset` takes
+(`dspy:teleprompt/gepa/gepa.py:571`); MIPROv2 with no `valset` takes
 `valset_size = min(1000, max(1, int(len(trainset) * 0.80)))` off the end
-(`dspy:dspy/teleprompt/mipro_optimizer_v2.py:326`); `BetterTogether`'s default
+(`dspy:teleprompt/mipro_optimizer_v2.py:326`); `BetterTogether`'s default
 `valset_ratio` is `0.1`, taken off the *front* of the trainset when no `valset`
-is passed (`dspy:dspy/teleprompt/bettertogether.py:206,320-345`); `InferRules`
+is passed (`dspy:teleprompt/bettertogether.py:206,320-345`); `InferRules`
 splits `int(0.5 * len(trainset))`, unshuffled, first half for rule induction and
 second half to select among the candidate rules
-(`dspy:dspy/teleprompt/infer_rules.py:25`). None of these shuffles. This is exactly why `pairs.py` never lets an
+(`dspy:teleprompt/infer_rules.py:25`). None of these shuffles. This is exactly why `pairs.py` never lets an
 optimizer choose its own valset: every fold handed to `.compile()` is explicit,
 from `folds()`, above.
 
@@ -188,7 +188,7 @@ docstring names the three actual misses precisely: `J4`, `Kern-Welten` /
 `Kern-Welt` — "folding is deliberately not stemming; a stemmer aggressive
 enough to merge a plural also merges `Negentropie` with `Entropie`"; `J6`,
 `J14`, a slash inside a heading, for which "no rule exists"
-(`scripts/trainset.py:15-24`). "So the 18% gap is the boundary of what a safe
+(`scripts/trainset.py`). "So the 18% gap is the boundary of what a safe
 deterministic rule can claim, not a defect in it." **That sentence is stale as
 a number, current as a shape.** It was written when the ledger held 17 rows
 (14/17 = 82%, an 18% gap); `fold()` now decides 33
@@ -320,7 +320,7 @@ GEPA's Pareto-selection valset and the score `compare()` reports on are
 literally `ds.val is ds.test → True` whenever no explicit `val` is given and
 the split leaves one row per side — which the repository's own README
 quickstart does, at n=2
-(`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:242-246`; `README.md:89-92`,
+(`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:242-246`; `README.md`,
 verified). The article-level version of the same trap: "the committed scores
 are GEPA's own cached full-valset evaluations … That is the number the
 optimizers chapter says not to report" — the invoice example's own committed
@@ -335,7 +335,7 @@ valset" (`dspy-agents`, reading against its own `compile_rag.py`, which loads a
 JSONL in file order with no shuffle) — the reason is MIPROv2's own default
 behaviour, verified above: `valset = trainset[cutoff:]` takes the *last* 80% of
 whatever order the caller handed it, keeping only the first 20% to train on
-(`dspy:dspy/teleprompt/mipro_optimizer_v2.py:326`). A dataset that grows by
+(`dspy:teleprompt/mipro_optimizer_v2.py:326`). A dataset that grows by
 appending silently reshapes its own valset. This is exactly the shape
 `pairs.py folds()` refuses: a
 new judgement appended to `Plan/runs/judgements.jsonl` changes `folds()`'
@@ -351,7 +351,7 @@ by id and that each approach draws its six predictions only from holdout ids —
 `reference.md:57-63`). `judgements.py`'s replay (`agrees` / `DISAGREES` /
 `judgement`) is this repository's version of the same discipline generalised
 past leakage specifically: an invariant that is re-verified on every run rather
-than asserted once and trusted (`scripts/judgements.py:46-58`).
+than asserted once and trusted (`scripts/judgements.py`).
 
 **What this repository's own construction already prevents, by mechanism
 rather than by rule.** Fold membership by id-hash, so a judgement's position in
@@ -377,7 +377,7 @@ a leak one of the nine had.
 - **`KNNFewShot`** — refused for job 1 originally ("needs a `dspy.Embedder`"),
   and reopened as a possibility rather than closed: "qmd now has a local
   embedding model, so this becomes cheap if step 0–2 disappoint"
-  (`Plan/concept/optimizers-and-data_2026-09-17.md:29-34`, quoted in
+  (`Plan/concept/optimizers-and-data_2026-09-17.md`, quoted in
   `Plan/concept/dspy-toolchain_2026-09-23.md`). The one item here closer to
   *waiting* than *refused*.
 - **A model-proposed edge or gloss entering the trainset or the wiki as data**

@@ -29,7 +29,7 @@ each repository's own version, with its line.
 
 github.com/netzkontrast/dspy-agent-skills (fork of `intertwine/dspy-agent-skills`),
 `9d13f98`, 2026-09-16, "Merge pull request #6 …" — MIT, © 2026 Bryan Young;
-ported third-party skills carry their own licences (`README.md:201-214`).
+ported third-party skills carry their own licences (`README.md`).
 DSPy `>=3.3.0,<3.4` (validated 3.3.1); Python not pinned, verified with
 3.11.15. **Holds on 3.3.1?** Mostly — 633 tests and every dry-run pass,
 `check_dspy_surface.py` says "OK," but several *taught* call shapes fail

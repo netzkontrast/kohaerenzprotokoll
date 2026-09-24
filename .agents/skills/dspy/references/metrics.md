@@ -17,7 +17,7 @@ def metric(example, pred, trace=None, pred_name=None, pred_trace=None):
     return dspy.Prediction(score=judged["score"], feedback=judged["feedback"])
 ```
 
-`scripts/pairs.py:114-116`. `score_one` itself is standard library, returns a
+`scripts/pairs.py`. `score_one` itself is standard library, returns a
 plain `dict`, not a `Prediction` — the wrapping happens once, at the metric
 boundary, in `pairs.py`:
 
@@ -33,40 +33,40 @@ def score_one(gold: dict, predicted: str):
     }
 ```
 
-`scripts/trainset.py:86-94`. **The feedback on a miss is not generated — it is
+`scripts/trainset.py`. **The feedback on a miss is not generated — it is
 the recorded human's own sentence for why**, read out of `gold["rule"]`, which
 came from a person deciding that exact pair in `Plan/runs/judgements.jsonl`. No
-model writes this text and none can fake it (`scripts/trainset.py:26-31`).
+model writes this text and none can fake it (`scripts/trainset.py`).
 
 **Could-not-score is `null`, never `0`.** `baseline.row()` takes an `outcomes`
 map of `{id: 1 | 0 | fraction | None}` and computes `scored = [v for v in
-outcomes.values() if v is not None]` (`scripts/baseline.py:56-68`) — an example
+outcomes.values() if v is not None]` (`scripts/baseline.py`) — an example
 nothing could answer is invisible to the mean, not a zero inside it. `pairs.py
 run()` writes exactly this: a held-out row scores `None` when every repeat
-through `lmrun.call` came back `unanswered` (`scripts/pairs.py:176-182`).
+through `lmrun.call` came back `unanswered` (`scripts/pairs.py`).
 `baseline.compare()` reports `"unscored"` when the latest row's score is `None`
 at all, and `"warn"` — never a passing score — when `scored < n`
-(`scripts/baseline.py:92-96`).
+(`scripts/baseline.py`).
 
 **The canary veto is separate from the score, and it wins regardless of it.**
 `selftest.MUST_NOT_MERGE` — four pairs, `Negentropie`/`Entropie` first — is asked
 of every rule and every compiled program, never trained on
-(`scripts/selftest.py:73-78`). `score_rule()` checks a deterministic rule
+(`scripts/selftest.py`). `score_rule()` checks a deterministic rule
 candidate against the canaries and records `vetoed=bool(merged)`
-(`scripts/pairs.py:85-94`); `run()` does the same against the final compiled
-program (`scripts/pairs.py:183-197`). `baseline.compare()` returns `"fail"` for
-a vetoed row whatever its score (`scripts/baseline.py:97-98`) — a candidate that
+(`scripts/pairs.py`); `run()` does the same against the final compiled
+program (`scripts/pairs.py`). `baseline.compare()` returns `"fail"` for
+a vetoed row whatever its score (`scripts/baseline.py`) — a candidate that
 merges the canary is disqualified, not docked `1/n`, because `dspy.GEPA`
 optimizes a mean and would otherwise treat the merge as noise.
 
 **The floor is a named row, not "whatever ran last."** `compare(task, floor=)`
 defaults to the task's first recorded row and requires the trainset hash to
-match before comparing (`scripts/baseline.py:99-109`); `--floor` names a
+match before comparing (`scripts/baseline.py`); `--floor` names a
 different candidate. Right now that floor is `fold()` itself, scored through
 `score_rule("fold")`: **57 <!--state:pairs.labelled--> labelled pairs; `fold()`
 decides 33 <!--state:pairs.fold_correct--> of them (58%).** `trainset.py`'s own
 words: "Anything that does not beat this is not worth a call"
-(`scripts/trainset.py:23`). No optimizer rung has run against a real model yet
+(`scripts/trainset.py`). No optimizer rung has run against a real model yet
 (`CLAUDE.md`, *Calling a model*), so `Plan/runs/baselines.jsonl` today holds
 only rule rows, never a model row.
 
@@ -74,12 +74,12 @@ only rule rows, never a model row.
 it beside their own number.** `entities.py cmd_score()` computes
 precision/recall/F1 for a model's entity list against a reader's, then prints
 `"— two readers scored 0.66 (P27)"` on the same line
-(`scripts/entities.py:379`) and lists both difference sets by name, never a bare
-delta (`scripts/entities.py:380-381`, P27). `rlm_ingest.py score()` does the
+(`scripts/entities.py`) and lists both difference sets by name, never a bare
+delta (`scripts/entities.py`, P27). `rlm_ingest.py score()` does the
 same through `drg-kg`'s `_score_sets` and adds: "A miss is not automatically an
 error and an invention is not automatically wrong: the reader's list is one
 reader. Two independent readings of one document differed by 109 against 143
-candidates." (`scripts/rlm_ingest.py:342-344`). Neither script treats the "gold"
+candidates." (`scripts/rlm_ingest.py`). Neither script treats the "gold"
 list as truth — a model at 0.66 is *at* the ceiling, and one clearly above it is
 most likely fitted to a single reader (P27).
 
@@ -95,10 +95,10 @@ a percentage is not a fraction — are in `api.md`; this section is about what t
 None` after `pred_trace`, "supplied at scoring time when a `dspy.Flex` submodule
 is being optimized. Declare this parameter to score against how an answer was
 produced … rather than only whether it was correct. Unlike `trace`, it is
-populated during candidate *scoring*." (`dspy:dspy/teleprompt/gepa/gepa.py:28-49`).
+populated during candidate *scoring*." (`dspy:teleprompt/gepa/gepa.py:28-49`).
 The return type widens to `ScoreWithFeedback`, a `Prediction` subclass adding
 `objective_scores: dict[str, float] | None`
-(`dspy:dspy/teleprompt/gepa/gepa_utils.py:57-60`). Nothing here declares a sixth
+(`dspy:teleprompt/gepa/gepa_utils.py:57-60`). Nothing here declares a sixth
 parameter or uses `dspy.Flex`.
 
 **A dict crashes `dspy.Evaluate`.** [checked: metric-dict-crashes] A metric
@@ -118,13 +118,13 @@ metric to `BootstrapFewShot` or its relatives: `bool(dspy.Prediction(score=0.0))
 is `True`, so a bootstrap-family optimizer that filters demos by truthiness keeps
 every wrong one. Measured: an all-wrong run kept 4 of 4 wrong demos with a
 `Prediction` metric, 0 of 4 with a float metric, and 0 with `metric_threshold=0.5`
-added back (`dspy:dspy/teleprompt/bootstrap.py:204-212`, verified offline).
+added back (`dspy:teleprompt/bootstrap.py:204-212`, verified offline).
 `dspy-agent-skills:skills/dspy-optimizer-selection/SKILL.md:121`'s "everything
 else (the score is read)" is wrong about this exact case. `pairs.py`'s own
 `optimizer()` already gets this right without stating the rule: `bootstrap`,
 `inferrules` and `simba` each wrap the metric as `lambda e, p, t=None: metric(e,
 p).score` (a bare float), and only `gepa` receives the `Prediction`-returning
-`metric` directly (`scripts/pairs.py:126,129,132,135`). See `optimizers.md` for
+`metric` directly (`scripts/pairs.py`). See `optimizers.md` for
 the ladder-wide consequence.
 
 **Feedback is text an optimizer can act on, not a number.** A binary metric
@@ -156,11 +156,11 @@ waits for a multi-predictor program.
 local doctrine — it is the one finding that repeats across all nine
 repositories, and it is this project's own founding defect restated nine times:
 a coverage term returning 1.0 when passed no gold, never once passed any
-(`scripts/selftest.py:1-11`). `scripts/baseline.py selftest()` proves `compare()`
+(`scripts/selftest.py`). `scripts/baseline.py selftest()` proves `compare()`
 itself can fail for each of its own reasons — `unscored`, `fail` (does not beat
 the floor), `fail` (vetoed), `ok`, `warn` (not fully scored), `warn` (trainset
 changed) — asserting the *reason string*, not just the verdict
-(`scripts/baseline.py:117-140`). `scripts/selftest.py`'s `MUST_NOT_MERGE` /
+(`scripts/baseline.py`). `scripts/selftest.py`'s `MUST_NOT_MERGE` /
 `MUST_MERGE` do the same for `fold()`, and `quotes.py` / `read.py --find` carry
 six quotation and three citation cases built the same way. `testing.md` has the
 full inventory; this section says why the doctrine exists rather than restating
@@ -292,7 +292,7 @@ answers make zero judge calls) — is the same shape as two things already built
 here: `pairs.py`'s rule-first routing (above), and `rlm_ingest.py`'s two-tier
 verification, where a candidate must first cite a line that actually contains
 it (Tier 1) before its *reach* across the document is even measured (Tier 2)
-(`scripts/rlm_ingest.py:143-152,225-237`). Cheap check first, expensive check
+(`scripts/rlm_ingest.py`). Cheap check first, expensive check
 second, in both cases.
 
 ## Composite and rubric scores
@@ -322,7 +322,7 @@ still scores 0.893 overall
 verified: probes T5, T5b, T6) — one number hides which check failed, exactly
 what P11 forbids. `baseline.py`'s own reporting — `score`, `scored` and `n`
 always printed together, never folded into one figure
-(`scripts/baseline.py:143-150`) — is this repository's answer to P11 at the
+(`scripts/baseline.py`) — is this repository's answer to P11 at the
 metric-ledger level, not inside a single metric function.
 
 **Two encodings of "mean of nothing" disagree, inside one repository.** The
@@ -340,7 +340,7 @@ encoding per rule, and a self-test that proves which one is intended.
 | `dspy-agent-skills` (`drg-kg`) | `_score_sets` / `_prf(tp, fp, fn)` | precision, recall, F1 over `Counter`-matched keys, `strip().lower()`'d | **0.0**, never 1.0, on an empty comparison — the one evaluator among all nine repositories verified to get this right, and the one this repository actually calls (`entities.py score`, `rlm_ingest.py score`) |
 | `dspy-optimizer` | `Registry` / `get(name)` | `exact_match`, `numeric` (decimal-comma bug — `data.md`) | `scorer(example, prediction) -> bool`, 2-argument, first non-input label only; fails **closed** on a missing key (`dspy-optimizer:dspy_optimizer/strategies/scoring/common.py:25-33`) |
 | `dspy-agents` | threshold rules in `thresholds.py` | `min`, `max`, `max_drop`, `max_pct_drop`, `max_pct_increase`, per metric | a metric with no current value **skips its rule** rather than failing it (`dspy-agents:dspy_optimize/baselines/thresholds.py:186-187`) |
-| this repository | `pairs.RULES` | `fold` (one entry today) | not a registry of evaluators but of deterministic *rules*, scored the same way through `score_rule()`; "Its reach is the author's decision, not this file's" (`scripts/pairs.py:42-45`) |
+| this repository | `pairs.RULES` | `fold` (one entry today) | not a registry of evaluators but of deterministic *rules*, scored the same way through `score_rule()`; "Its reach is the author's decision, not this file's" (`scripts/pairs.py`) |
 | this repository | `baseline.compare()`'s verdicts | `ok`, `warn`, `fail`, `unscored` | the state this repository reports a check in, contrasted with `dspy-agents`' two-state (fail / not-fail) drift rules above |
 
 ## The table of checks that cannot fail
@@ -382,7 +382,7 @@ table, one row per repository with the line."
 | `dspy-agent-skills` (`drg-kg`, via its skill) | extraction with no LM configured | documented to return an **empty graph** confidently unless `DRG_REQUIRE_LM=1`; the note found this path unreachable in practice once auto-config runs — a claim that did not reproduce, recorded either way (`dspy-agent-skills:skills/dspy-drg-kg/SKILL.md:90-103`; `drg/extract/__init__.py:190-203`, verified: two installs) |
 | `dspy-agent-skills` (TARA, via its skill) | the context-quality gate at the final retry | **always outputs**, even below threshold — the example's own printed "only total<20 escalates" is false at its own numbers (`dspy-agent-skills:skills/dspy-tara-rag/example_tara.py:81-86,137-139`; upstream `loop.py:318-333`) |
 | `dspy-agent-skills` (core) | the CI regression gate | `assert result.score >= 0.75` passes for **any score of 0.75% or more**, because `.score` is a 0–100 percentage (`dspy-agent-skills:skills/dspy-evaluation-harness/SKILL.md:104`, verified: behav2.py) |
-| `dspy-agent-skills` (core) | `BootstrapFewShot` reading a `Prediction` metric | `bool(dspy.Prediction(score=0.0))` is `True`, so every wrong demo is kept as if it passed (`dspy:dspy/teleprompt/bootstrap.py:204-212`, verified: bfs.py) — see *The contract*, above |
+| `dspy-agent-skills` (core) | `BootstrapFewShot` reading a `Prediction` metric | `bool(dspy.Prediction(score=0.0))` is `True`, so every wrong demo is kept as if it passed (`dspy:teleprompt/bootstrap.py:204-212`, verified: bfs.py) — see *The contract*, above |
 
 ## Not taken
 

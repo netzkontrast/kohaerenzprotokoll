@@ -34,7 +34,7 @@ explicitly rather than relying on the default. Nothing here does; `FixtureLM`
 has never needed to, because every caller of it uses the legacy `messages=`
 form.
 
-`scripts/lm_fixture.py:136-167` is its own self-test, three cases: the fixture
+`scripts/lm_fixture.py` is its own self-test, three cases: the fixture
 answers and records the exact request it was sent; a real `dspy.LM`
 constructed *inside* `offline()` is refused, and every hidden key is restored
 afterward; an exhausted scripted list raises rather than repeating.
@@ -44,7 +44,7 @@ cases hold (answer+record, refuse network, exhausted script)`".
 ### The suites `scripts/selftests.py` runs
 
 Sixteen named suites, nine standard-library and seven needing `.venv-dspy`
-(`scripts/selftests.py:25-43`):
+(`scripts/selftests.py`):
 
 | kind | suite | command |
 |---|---|---|
@@ -69,7 +69,7 @@ Sixteen named suites, nine standard-library and seven needing `.venv-dspy`
 every dspy suite with `.venv-dspy/bin/python`, 900s timeout each, and prints
 one line per suite — `held`, `FAILED`, or, when `.venv-dspy` does not exist,
 `not run` with the exact `uv venv`/`uv pip install` command that creates it
-(`scripts/selftests.py:46-64`). It never runs a suite partially: a `.venv-dspy`
+(`scripts/selftests.py`). It never runs a suite partially: a `.venv-dspy`
 suite is skipped whole when the interpreter is absent, not attempted and
 marked failed.
 
@@ -87,7 +87,7 @@ taken*.
 **A suite that did not run has not passed (P15).** It is a third state, the
 same shape as `lmrun.call`'s `unreachable` status and `baseline.compare`'s
 `unscored` verdict: none of the three ever collapses into a pass. The exit
-status enforces it — `scripts/selftests.py:63-64` returns `1` whenever
+status enforces it — `scripts/selftests.py` returns `1` whenever
 `failed or unrun` is non-zero, so a fresh container with no `.venv-dspy` fails
 `python3 scripts/selftests.py` exactly as if seven suites had failed, not as
 if they had been skipped politely. Reading `not run` as green is the mistake
@@ -116,7 +116,7 @@ for expected, lm, needles in cases:
 ```
 
 Four things make this reusable for a new step (generalised from
-`scripts/lmrun.py:187-246` and `scripts/lm_fixture.py:136-167`, not from any
+`scripts/lmrun.py` and `scripts/lm_fixture.py`, not from any
 of the nine repositories):
 
 1. **The offline fixture answers the real program**, not a rewritten copy of
@@ -229,7 +229,7 @@ script references a `--run-e2e` flag no `conftest.py` defines
 `pytest`, unflagged (`dspy-auto-gepa:tests/test_auto_gepa.py:538-560`).
 
 **This is the reason `lm_fixture.offline()` does three things, not one**
-(`scripts/lm_fixture.py:1-21,116-133`): it is not enough to configure the
+(`scripts/lm_fixture.py`): it is not enough to configure the
 fixture as the active LM, because a step (or, as here, a test) can build its
 own `dspy.LM` and call it directly, bypassing `dspy.settings.lm` entirely.
 `offline()` therefore also:
@@ -287,12 +287,12 @@ default is noticed rather than silently inherited), `dspy.SIMBA`'s `bsize`
 default still `32`, `dspy.track_usage` still present, `dspy.GEPA()` without
 `reflection_lm` still raising, `gepa.optimize_anything` still importable and
 still taking `evaluator=`, and `numpy` importable. **17 checks in total**
-(`scripts/check_dspy_surface.py:34-107,114`): 9 named callables plus 8
+(`scripts/check_dspy_surface.py`): 9 named callables plus 8
 behavioural assertions (version, three defaults, the `GEPA` gotcha, `gepa`
 importability, `numpy`, and `example_param_ok()`'s own self-check on a good
 and a bad evaluator signature). It asserts *only* what is called — "a surface
 check that asserts things nobody uses is a second, drifting description of
-DSPy" (`scripts/check_dspy_surface.py:9-15`).
+DSPy" (`scripts/check_dspy_surface.py`).
 
 **`scripts/check_dspy_skill.py`** asserts what **this skill's Markdown files
 teach**, in three unrelated parts, run over every `.md` file under
@@ -306,13 +306,13 @@ teach**, in three unrelated parts, run over every `.md` file under
 2. **Behaviour** — every sentence ending `[checked: <id>]` names a probe in
    `PROBES`, run offline against `lm_fixture`. The check is two-way: a mark
    with no matching probe fails, and a probe cited by no mark also fails
-   (`scripts/check_dspy_skill.py:404-422`) — so the marks and the probes
+   (`scripts/check_dspy_skill.py`) — so the marks and the probes
    **cannot drift apart silently** (P23). A probe that needs Deno and finds it
    absent returns `NotRun(...)`, counted separately from held and from failed.
 3. **Paths** — every backticked path this skill names under `scripts/`,
    `Plan/`, `Wiki/`, `Sources/`, `.agents/` or `.claude/` must exist, and a
    cited line number must be inside the file
-   (`scripts/check_dspy_skill.py:427-440`).
+   (`scripts/check_dspy_skill.py`).
 
 Its own `--selftest` is **9 cases**, each a skill built to break one rule and
 checked for the exact reason it must fail: a wrong parameter name, a wrong
@@ -321,7 +321,7 @@ default, an unreadable surface line, a correct line wrongly flagged (surface,
 reported `not run` rather than held (behaviour, 3 cases); a missing file, a
 line past the end of a file (paths, 2 cases) —
 `.venv-dspy/bin/python scripts/check_dspy_skill.py --selftest` prints "`9 of
-9 cases hold`" (`scripts/check_dspy_skill.py:463-505`).
+9 cases hold`" (`scripts/check_dspy_skill.py`).
 
 **The lesson both scripts encode is `dspy-agent-skills`' own.** Its
 `dspy.RLM` rename (`max_iterations` → `max_iters`, `interpreter` →
@@ -329,7 +329,7 @@ line past the end of a file (paths, 2 cases) —
 existed at all — and that check had asserted **seven of eight** symbols and
 missed the one that broke, which is exactly the shape `check_dspy_surface.py`
 was built to close here: assert only what is called, but assert *all* of it
-(`scripts/check_dspy_skill.py:4-7`; the CHANGELOG entry itself is
+(`scripts/check_dspy_skill.py`; the CHANGELOG entry itself is
 `dspy-agent-skills`'s own document, not reproduced here — the point survives
 without it). A renamed keyword does not fail at import; it fails mid-run, or
 worse, is swallowed by `**kwargs`.
@@ -340,7 +340,7 @@ worse, is swallowed by `**kwargs`.
 `coverage()` term, which returned `1.0` whenever it was passed no gold
 fragments and was never passed any** — two live runs scored `0.987` and
 `0.967` on a number that could not fall for missing anything
-(`scripts/selftest.py:1-11`). The nine repositories were read for exactly this
+(`scripts/selftest.py`). The nine repositories were read for exactly this
 shape, and it recurs in four ways.
 
 **Faked forward.** Every test in `dspy-session`'s suite replaces
@@ -464,8 +464,8 @@ provenanced the same way — a mistake, then a case that names it:**
 
 | script | the mistake | the case that now names it |
 |---|---|---|
-| `scripts/lmrun.py` | `call()` re-raised DSPy 3.3's own `LMTransportError` instead of recording `unreachable`, because its first nine offline cases never raised that exact type | a tenth case, added 2026-09-24, that raises `dspy.LMTransportError` directly and asserts `status == "unreachable"` (`scripts/lmrun.py:206-210`) |
-| `scripts/rlm_ingest.py` | a run forced to stop by `max_iters` could be read as a completed census | `judge(1.0, [], [], 1.0, forced=True)` must **not** start with "a reading" (`scripts/rlm_ingest.py:386-389`) |
+| `scripts/lmrun.py` | `call()` re-raised DSPy 3.3's own `LMTransportError` instead of recording `unreachable`, because its first nine offline cases never raised that exact type | a tenth case, added 2026-09-24, that raises `dspy.LMTransportError` directly and asserts `status == "unreachable"` (`scripts/lmrun.py`) |
+| `scripts/rlm_ingest.py` | a run forced to stop by `max_iters` could be read as a completed census | `judge(1.0, [], [], 1.0, forced=True)` must **not** start with "a reading" (`scripts/rlm_ingest.py`) |
 | `scripts/wiki_index.py` / `scripts/reconcile.py` | `fold()`'s own docstring claimed behaviour it did not have, repeated in two other files | `scripts/judgements.py` replays all 68 recorded near-match decisions against the current code and reports `agrees`/`DISAGREES`/`judgement` |
 
 **And note what a green replay of recorded judgements does *not* prove**:

@@ -33,7 +33,7 @@ has never produced a **false merge**; every miss is the safe direction. That is
 the reason the ladder is rule-first: a model is only ever asked about the
 residual `fold()` calls `two-terms`, so it can only be asked to *find* a merge
 `fold()` missed, never given the chance to *undo* one `fold()` made correctly
-(`scripts/pairs.py:14-18`).
+(`scripts/pairs.py`).
 
 `scripts/trainset.py`'s own module docstring still quotes an older
 measurement — 14/17 = 82%, misses J4/J6/J14 — from
@@ -47,7 +47,7 @@ the script, not to trust the comment beside it.
 ### The five rungs, exactly as `pairs.py` builds them
 
 `pairs.py optimizer(name, metric, train_size, reflection_lm)` constructs one
-of five, by name, at `scripts/pairs.py:121-137`:
+of five, by name, at `scripts/pairs.py`:
 
 | rung | construction in `pairs.py` | changes | LM calls (order of magnitude) |
 |---|---|---|---|
@@ -59,14 +59,14 @@ of five, by name, at `scripts/pairs.py:121-137`:
 
 **`.score` goes to every optimizer except GEPA.** `program_and_metric()`'s
 `metric` returns the full `dspy.Prediction(score=judged["score"],
-feedback=judged["feedback"])` (`scripts/pairs.py:114-118`); every rung but
+feedback=judged["feedback"])` (`scripts/pairs.py`); every rung but
 GEPA is handed a lambda that reads `.score` back out into a bare float first.
 That is not stylistic — see BootstrapFewShot below for the trap this avoids,
 which `InferRules` inherits and `SIMBA` mostly does not.
 
 **Pinned, stratified folds; canaries never trained on.** `folds(labelled, k)`
 sorts each decision class by `baseline.digest(id)` and deals round-robin into
-`k` buckets (`scripts/pairs.py:74-82`), so the same 57 rows always land in the
+`k` buckets (`scripts/pairs.py`), so the same 57 rows always land in the
 same folds regardless of run order. `canaries()` returns
 `selftest.MUST_NOT_MERGE` (`Negentropie`/`Entropie` first) — these never enter
 `labelled`, so they never enter a fold or a trainset; they are asked, once per
@@ -89,12 +89,12 @@ per held-out row and records the fraction of hits
 
 `--dry-run` builds a single `lm_fixture.FixtureLM` that answers every call
 with `fill(decision="two-terms", rule="Probelauf: immer zwei Begriffe.")`
-(`scripts/pairs.py:150-154`) and uses that **same fixture object as the
+(`scripts/pairs.py`) and uses that **same fixture object as the
 reflection LM too** (`reflection_lm = lm if dry_run else ...`,
-`scripts/pairs.py:160`) — so GEPA's own reflection calls are answered by it as
+`scripts/pairs.py`) — so GEPA's own reflection calls are answered by it as
 well, reached because `fill()` reads whatever output fields a prompt asks for
 from `ChatAdapter`'s rendered system message and answers each one
-(`scripts/lm_fixture.py:63-71`).
+(`scripts/lm_fixture.py`).
 
 Run live here, offline, 2026-09-24 (`.venv-dspy/bin/python scripts/pairs.py
 run --optimizer <name> --dry-run`), all five rungs score **exactly
@@ -136,7 +136,7 @@ rollouts`** — exactly `auto_budget(1, 6, 57) = 608` (see GEPA below).
 ### What a real run needs
 
 `run(dry_run=False, ...)` requires **both** `--model` and `--approval "<the
-author's decision>"` or refuses (`scripts/pairs.py:156-157`); `lmrun.make_lm`
+author's decision>"` or refuses (`scripts/pairs.py`); `lmrun.make_lm`
 builds the LM with `cache=False`, and `lmrun.call` separately refuses a cached
 LM and refuses a real LM with no `approval=`. Exactly one such run is
 catalogued and waiting: `pairs.py run --optimizer labeled` — the cheapest
@@ -152,7 +152,7 @@ a real model as of 2026-09-24.**
 vetoed, outcomes, cost, at, note`. `compare(task, floor)` reads `("ok" |
 "warn" | "fail" | "unscored", reasons)` for the **newest** row of a task
 against the row named by `floor` (default: the task's first row) —
-`scripts/baseline.py:85-114`:
+`scripts/baseline.py`:
 
 - `unscored` — the newest row's `score` is `None` (0 of `n` examples could be
   scored).
@@ -209,7 +209,7 @@ a person's recorded rule, never a model), but the shape to repeat if a judge
 metric is ever built (`metrics.md`).
 
 **No automatic selector is built here.** `dspydantic`'s `_auto_select_optimizer`
-is catalogued in `Plan/concept/dspy-toolchain_2026-09-23.md:335` as a pattern
+is catalogued in `Plan/concept/dspy-toolchain_2026-09-23.md` as a pattern
 worth taking **once more than one task sits on the ladder** — today there is
 exactly one (`one-term-or-two`), so an auto-selector would have nothing to
 select between. Its own numbers are a reason for caution before building one
@@ -248,7 +248,7 @@ train / 80-row locked test, one `exact_match` metric): val 63.33, **test 67.50
 Free, and the same test score as the much more expensive `BootstrapFewShot`
 run below on the same data — "if putting `k` labelled pairs in a prompt does
 not beat the deterministic rule, no amount of reflection will fix it"
-(`Plan/concept/optimizers-and-data_2026-09-17.md:137-139`).
+(`Plan/concept/optimizers-and-data_2026-09-17.md`).
 
 **In this repository**, `pairs.py`'s `labeled` rung is `k=min(8, train_size)`
 — the one rung `pairs.py score` names as the cheapest model call waiting on
@@ -276,7 +276,7 @@ scored by a bare-`float`-returning metric kept **0**; the same
 `Prediction`-returning metric with an explicit `metric_threshold=0.5` also
 kept 0. This is why every non-GEPA rung of `pairs.py`'s ladder is handed
 `lambda e, p, t=None: metric(e, p).score` instead of the raw five-argument
-metric (`scripts/pairs.py:126,130,132`) — GEPA is the one place the full
+metric (`scripts/pairs.py`) — GEPA is the one place the full
 `Prediction` object is read by name (`.score`, `.feedback`), never by
 truthiness. **Affected the same way:** `BootstrapFewShotWithRandomSearch`,
 `KNNFewShot`'s bootstrap step, `InferRules` (a subclass, below), MIPROv2's
@@ -299,7 +299,7 @@ filtered (`dspy-agents:dspy_optimize/compile_rag.py`, cross-confirmed at
 `dspy:teleprompt/bootstrap.py:212`).
 
 **Recompiling.** A fresh `.deepcopy()` per compile (what `pairs.py` does per
-fold, `scripts/pairs.py:168-169`) never stacks demos across runs — three
+fold, `scripts/pairs.py`) never stacks demos across runs — three
 successive compiles from a clean copy each leave exactly the new demos, the
 original untouched. Compiling an **already-compiled** student object directly
 raises `AssertionError: Student must be uncompiled.`
@@ -344,7 +344,7 @@ $0.62 run below, for less than half GEPA's gain.
 one; this project's residual after `fold()` is 24 of 57. Absent from
 `pairs.py`'s ladder and from `Plan/concept/optimizers-and-data_2026-09-17.md`'s
 ruled-in table by name (grouped with MIPROv2 and synthetic data generation
-under the same "100+/50+ examples" reason, `Plan/concept/dspy-toolchain_2026-09-23.md:351`).
+under the same "100+/50+ examples" reason, `Plan/concept/dspy-toolchain_2026-09-23.md`).
 
 ## KNNFewShot
 
@@ -382,7 +382,7 @@ hashed n-gram embedder (no API key, no cost): val 71.67, **test 72.50 (58/80),
 optimizer's test score except GEPA's
 (`dspy-agent-skills:skills/dspy-book-optimizers/reference.md:39`, `[number]`).
 
-**Not taken here, waiting**: `Plan/concept/optimizers-and-data_2026-09-17.md:29-34`
+**Not taken here, waiting**: `Plan/concept/optimizers-and-data_2026-09-17.md`
 rules it out for needing a `dspy.Embedder` — "though qmd now has a local
 embedding model, so this becomes cheap if step 0–2 disappoint." It is a
 waiting item, not a refusal: the condition it is waiting for is the cheaper
@@ -417,7 +417,7 @@ second half to choose among the candidates.** [checked: inferrules-halves-trains
 `train_size = int(0.5*len(trainset)); trainset, valset =
 trainset[:train_size], trainset[train_size:]`
 (`dspy:teleprompt/infer_rules.py:24-26`). `pairs.py`'s InferRules rung never
-passes a `valset` (`scripts/pairs.py:128-130`), so every real run on this
+passes a `valset` (`scripts/pairs.py`), so every real run on this
 ledger is silently halved this way: at the 24-row residual (57 labelled minus
 33 `fold()` already answers, canaries excluded before this point), that is 12
 rows to write rules from and 12 to pick a winner among — with **no canary
@@ -432,7 +432,7 @@ is directly comparable to a human one — does the model find the same rule ("a
 leading German definite article is never a term boundary"), and if an induced
 rule survives, it becomes a `fold()` candidate that `judgements.py` can
 replay against every recorded decision
-(`Plan/concept/optimizers-and-data_2026-09-17.md:36-58`).
+(`Plan/concept/optimizers-and-data_2026-09-17.md`).
 
 **Not in any of the twelve book runs**, and not in any of the nine
 repositories' optimizer-selection tables — `dspy-agent-skills`'s core slice
@@ -586,7 +586,7 @@ textual rule from a reflective call); both strategies run when `max_demos>0`
 confirmed here, offline, against the installed package: `SIMBA(bsize=32).compile(...,
 trainset=<20 examples>)` raises `AssertionError: Trainset too small: 20 <
 32`. This is exactly why `pairs.py`'s SIMBA rung overrides the default —
-`bsize=min(train_size, 16)` (`scripts/pairs.py:132-133`) — since every fold's
+`bsize=min(train_size, 16)` (`scripts/pairs.py`) — since every fold's
 training portion of this 57-row ledger is well under 32.
 
 **SIMBA's own metric wrapper is looser than `dspy.Evaluate`'s, and fails
@@ -874,7 +874,7 @@ all twelve runs**
 
 **Not taken here**: "not this shape of problem" — no weight-optimizable
 model in play, and BetterTogether's default weight stage needs one
-(`Plan/concept/optimizers-and-data_2026-09-17.md:29-34`).
+(`Plan/concept/optimizers-and-data_2026-09-17.md`).
 
 ## BootstrapFinetune
 
@@ -898,7 +898,7 @@ unique in the twelve-row table — see *The measured comparison*, below.
 
 **Not taken here**: needs a fine-tunable model; this project's models are
 free, hosted OpenRouter models, not fine-tunable through this path
-(`Plan/concept/optimizers-and-data_2026-09-17.md:29-34`).
+(`Plan/concept/optimizers-and-data_2026-09-17.md`).
 
 ## Ensemble
 
@@ -928,7 +928,7 @@ call, forever**, not once at compile time.
 **Not taken here**: "nothing to ensemble yet" — Ensemble needs several
 already-compiled candidate programs to combine, and this project has not
 compiled even one
-(`Plan/concept/optimizers-and-data_2026-09-17.md:29-34`).
+(`Plan/concept/optimizers-and-data_2026-09-17.md`).
 
 ## AvatarOptimizer
 
@@ -959,7 +959,7 @@ no `Avatar`; the nearest tool-using modules are `ReAct` and `RLM`, neither of
 which this optimizer targets).
 
 **Not taken here**: "not this shape of problem"
-(`Plan/concept/optimizers-and-data_2026-09-17.md:29-34`), written before this
+(`Plan/concept/optimizers-and-data_2026-09-17.md`), written before this
 defect was found — now doubly true, since the package currently makes the
 decision on its own.
 
@@ -1088,12 +1088,12 @@ field — on `session.to_examples()`; every example's `history` is silently
 dropped at the adapter (a warning fires; nothing stops the run), so GEPA
 reflects on each turn as if it were a single, contextless exchange. Calling
 `session.update_module(optimized)` afterwards adds history back in, but to a
-module GEPA never optimized *with* it (`README.md:686-709`, `[trap]`). And a
+module GEPA never optimized *with* it (`README.md`, `[trap]`). And a
 compiled or forked session's deep copy includes the accumulated
 `_default_state.turns`, so a freshly "optimized" program still continues the
 *old* conversation it was copied from — the README's own worked answer
 literally references an earlier turn ("just like we did for x²")
-(`README.md:376-382`, `[pattern]`).
+(`README.md`, `[pattern]`).
 
 ## Non-DSPy optimizers in the nine repositories
 
@@ -1179,7 +1179,7 @@ teacher/student distinction is cosmetic
 |---|---|
 | `MIPROv2` | "100+" examples in every source that gives a threshold; residual here is 24 of 57 — see MIPROv2, above |
 | `BootstrapFewShotWithRandomSearch` ("random search") | "50+" examples; its own measured cost (8 candidates, $0.88, 1119 s) exceeds GEPA's for less than half the gain — see the section above |
-| synthetic data generation | grouped with the two above in `Plan/concept/dspy-toolchain_2026-09-23.md:351` under the same "100+/50+" reason. `dspy-auto-gepa`'s `AutoData` is the nine repositories' own instance of this: it generates rows with an LLM from seed examples, but its allowed output values come **only from the seed rows** (a `Literal` type annotation is ignored; no seed of a class means no rows of that class ever get generated — `dspy-auto-gepa:src/dspy_auto_gepa/data.py:43-57,86,90`, `[trap]`), and its judge **never rejects a row** — scores are recorded, never thresholded, so a synthetically generated row scored 0.0 for quality is accepted anyway (`dspy-auto-gepa:src/dspy_auto_gepa/generator.py:1193-1227,1399-1403`, `[trap]`). Synthetic rows would not, by themselves, fix this project's undersized residual with a check this project would trust |
+| synthetic data generation | grouped with the two above in `Plan/concept/dspy-toolchain_2026-09-23.md` under the same "100+/50+" reason. `dspy-auto-gepa`'s `AutoData` is the nine repositories' own instance of this: it generates rows with an LLM from seed examples, but its allowed output values come **only from the seed rows** (a `Literal` type annotation is ignored; no seed of a class means no rows of that class ever get generated — `dspy-auto-gepa:src/dspy_auto_gepa/data.py:43-57,86,90`, `[trap]`), and its judge **never rejects a row** — scores are recorded, never thresholded, so a synthetically generated row scored 0.0 for quality is accepted anyway (`dspy-auto-gepa:src/dspy_auto_gepa/generator.py:1193-1227,1399-1403`, `[trap]`). Synthetic rows would not, by themselves, fix this project's undersized residual with a check this project would trust |
 | LLM-drafted metrics | `dspy-toolchain_2026-09-23.md:350`: "the rule a program is scored by is written by a person; the `metric=Path(...)` bypass is the only path used." `dspy-auto-gepa` is the instance this refuses: by default it has `dspy.RLM` **draft a `metric.py` file** from a natural-language spec — a 215-line prompt of rules and three worked examples is the model's only instruction (`dspy-auto-gepa:src/dspy_auto_gepa/metric_builder.py:9-233,229-233,286-294`, `[pattern]`) — unless a human-written `metric=Path(...)` is passed instead, which is the only path this project would ever take. Its own documented "generate, review, then run" workflow does not survive a retrain: `run(force=True)` regenerates the metric file again, silently discarding a human's edit (`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:388-394`, `[trap]`) — a sharp illustration of why a metric stays a person's file, never a step that reruns |
 | `BootstrapFinetune`, `BetterTogether`, `Ensemble`, `AvatarOptimizer` | each has its own reason in its own section above — a need for a fine-tunable model, nothing yet to ensemble, or (`AvatarOptimizer`) a defect in the installed package itself |
 | `COPRO` | neither ruled in nor ruled out — an omission in this project's own concept doc, not a decision; see COPRO, above |

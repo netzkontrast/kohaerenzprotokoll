@@ -18,30 +18,30 @@ describing something `graphrag.py` calls.
 
 ### `graphrag.py`, end to end
 
-Four steps, run by `retrieve()` (`scripts/graphrag.py:189-256`):
+Four steps, run by `retrieve()` (`scripts/graphrag.py`):
 
 | step | function | mechanism |
 |---|---|---|
-| 1. seed | `seeds()` `scripts/graphrag.py:101-130` | folded containment via `fold()` — no embeddings, nothing guessed |
-| 2. spread | `pagerank()` `scripts/graphrag.py:133-158` | personalized PageRank over `graph.py`'s typed edges |
-| 3. select | `select_mmr()` `scripts/graphrag.py:161-186` | MMR with a relevance floor — the *Selection* section below |
+| 1. seed | `seeds()` `scripts/graphrag.py` | folded containment via `fold()` — no embeddings, nothing guessed |
+| 2. spread | `pagerank()` `scripts/graphrag.py` | personalized PageRank over `graph.py`'s typed edges |
+| 3. select | `select_mmr()` `scripts/graphrag.py` | MMR with a relevance floor — the *Selection* section below |
 | 4. return | the dict `retrieve()` builds | quotations, conflicts, questions, documents, unread routes — never prose |
 
-**Seeding** (`scripts/graphrag.py:101-130`): for every term page, for every
+**Seeding** (`scripts/graphrag.py`): for every term page, for every
 surface `wiki_index` folds to it, a folded substring match scores
 `1.0 + len(f)/100` (a small bonus for the longer surface); failing that, a
 bare token overlap scores `0.5 × (shared tokens / that surface's own tokens)`.
 The best-scoring surface per page wins. **`fold()` is not a stemmer**: it
 strips the leading article, case and diacritics, but `Kern-Welt` and
-`Kern-Welten` do not fold together (`scripts/wiki_index.py:60-67`), so a plural
+`Kern-Welten` do not fold together (`scripts/wiki_index.py`), so a plural
 question does not, by itself, seed its singular's page — `fold()`'s systematic
 misses are plurals and inflections (`NOW.md`, *`fold()`'s real baseline*). With
 `glosses` (only in the `ppr+gloss` method), a corpus-stated `A (B)` pairing can
 also seed the German page at a fixed `GLOSS_WEIGHT=0.6`, but only when nothing
 scored higher — "a gloss routes, it does not name"
-(`scripts/graphrag.py:98`).
+(`scripts/graphrag.py`).
 
-**Spreading** (`scripts/graphrag.py:133-158`): every typed edge becomes two
+**Spreading** (`scripts/graphrag.py`): every typed edge becomes two
 directed walk edges (both ways), weighted by `WEIGHTS`; personalized PageRank
 restarts at the seed distribution, walks `ITERATIONS=40` fixed steps (no
 convergence check), and returns dangling mass to the seeds rather than losing
@@ -62,7 +62,7 @@ it.
 **Selecting**: the evidence pool is every quotation with `status == "verified"`
 (plus `"unchecked"` under `--unchecked`) on the top 8 ranked term-pages.
 Each candidate's relevance is `0.5 × node_rank + 0.5 × cosine(query, quote)`
-(`scripts/graphrag.py:209`) — half how central the *page* is in the graph, half
+(`scripts/graphrag.py`) — half how central the *page* is in the graph, half
 how much the *specific quotation* lexically overlaps the question. `select_mmr`
 then picks up to `BUDGET` of them; redundancy is cosine similarity between
 candidate quotations, never against the query.
@@ -74,11 +74,11 @@ conflict, if any), `evidence` (quote, `doc`, `line`, `status`, `page`,
 `section`, `relevance`), `not_selected` and `below_floor` counts, `conflicts`,
 `questions`, `documents` the rank reached, and `unread_routes` — unread
 documents naming a ranked term, from `graph.proposals()`'s entity layer, "a
-model chose the name, code placed the line" (`scripts/graphrag.py:224-225`).
+model chose the name, code placed the line" (`scripts/graphrag.py`).
 
 **No synthesis.** "`Agentic-Dspy-Rag`'s synthesizer merges sources into
 unattributed prose, which is the operation this wiki exists to refuse"
-(`scripts/graphrag.py:26-28`, P13). Every quotation is printed verbatim with
+(`scripts/graphrag.py`, P13). Every quotation is printed verbatim with
 its `doc:line`; nothing here writes a sentence that spans two sources.
 
 ### `--answer`: the one model step, and it cannot quote
@@ -94,17 +94,17 @@ class ChooseEvidence(dspy.Signature):
     chosen: list[int] = dspy.OutputField(desc="Nummern der Belege, die antworten")
     gaps: list[str] = dspy.OutputField(desc="was die Belege nicht beantworten")
 ```
-`scripts/graphrag.py:306-314`. The model sees the evidence numbered and
+`scripts/graphrag.py`. The model sees the evidence numbered and
 quoted; it returns `chosen: list[int]` and `gaps: list[str]`, never text. Code
 prints the quotations those numbers point at — "a model that cannot type a
 quotation cannot misquote one" (P26, applied to answering). An out-of-range
 number is dropped and named in `invalid_numbers`, never silently kept.
 
 Runs through `lmrun.call`, so the cache is off and the call is recorded
-(`scripts/graphrag.py:326-329`). `--dry-run` uses `lm_fixture.FixtureLM` with a
+(`scripts/graphrag.py`). `--dry-run` uses `lm_fixture.FixtureLM` with a
 scripted `chat(chosen="[1, 2, 99]", ...)` reply and writes into a throwaway
 temp directory — "a rehearsal leaves no record in `Plan/runs/`"
-(`scripts/graphrag.py:323`). A real run needs `--model` and `--approval`, or
+(`scripts/graphrag.py`). A real run needs `--model` and `--approval`, or
 the call is refused with a usage message (exit 2). Run live here:
 
 ```
@@ -150,9 +150,9 @@ does not exist yet (see *Not taken*).
 
 ### `bench`: what it scores, and what it does not
 
-`cases()` (`scripts/graphrag.py:339-349`) reads the wiki's own labels: each
+`cases()` (`scripts/graphrag.py`) reads the wiki's own labels: each
 question's `raised_by` pages and each conflict's `pages` become gold sets.
-`without()` (`scripts/graphrag.py:352-356`) removes the case's own node and
+`without()` (`scripts/graphrag.py`) removes the case's own node and
 edges first, so a case cannot retrieve itself. `bench()` scores three methods
 — `seeds` (folded containment alone, the floor), `ppr` (personalized
 PageRank), `ppr+gloss` — as `recall@8 = |got ∩ gold| / |gold|` over the top 8
@@ -196,7 +196,7 @@ python3 scripts/graphrag.py selftest                   # 9 of 9 cases hold, exit
 back a typed `Hit` — `collection`, `path` resolved to a real file, `line`,
 `score`, `title`, `snippet` — plus `hit.document()`, the one handoff into
 `subject.py`'s measured world. **A `Hit` carries where to look and no claim
-about the corpus** (`scripts/qmd.py:14,89-90`); the module deliberately makes
+about the corpus** (`scripts/qmd.py`); the module deliberately makes
 the search→measurement handoff a visible step rather than something a caller
 can skip. This is BM25/vector search over the repository's markdown, sitting
 entirely outside `graphrag.py`'s pipeline: qmd never appears in
@@ -206,7 +206,7 @@ entirely outside `graphrag.py`'s pipeline: qmd never appears in
 this as the load-bearing rule and measures it: `Kernwelt` occurs in 144 of 346
 landed documents, but a 40-hit search list is not that census — the line that
 defines `KW1` sits at line 152 of its document and is outside the top 40,
-because BM25 favours short, early chunks (`.claude/skills/qmd/SKILL.md:20-31`).
+because BM25 favours short, early chunks (`.claude/skills/qmd/SKILL.md`).
 **Nothing in the wiki-building pipeline depends on qmd**: `reconcile.py`
 answers by lookup against `Wiki/index.json`, so its cost stays
 `O(census) + O(judgement)`, never `O(corpus)`; a qmd hit finds candidates to
@@ -294,7 +294,7 @@ images of each other under λ ↦ 1−λ
 | floor field | `min_score` | `min_relevance` | `min_relevance` |
 | floor applied inside MMR? | **no** — only in the `SIMILARITY` strategy | yes, before the loop | yes, before the loop |
 
-`select_mmr`'s body, verbatim (`scripts/graphrag.py:161-186`):
+`select_mmr`'s body, verbatim (`scripts/graphrag.py`):
 
 ```python
 def select_mmr(relevance, similar, budget=BUDGET,
@@ -314,7 +314,7 @@ def select_mmr(relevance, similar, budget=BUDGET,
 ```
 Identical in shape to `dspy-agent-skills:scaffolding/kp_canon_retriever.py:92-143`,
 generalised to take precomputed relevance and a similarity callable instead of
-raw vectors (`scripts/graphrag.py:166-169`). **Even upstream gets its own
+raw vectors (`scripts/graphrag.py`). **Even upstream gets its own
 convention backwards once**: `dspy-refrag`'s own `example_usage()` labels
 `diversity_lambda=0.7` "High diversity," but by its own formula (line 166 of
 `sensor_advanced.py`) λ=0.7 weights relevance more and redundancy less — that
@@ -355,21 +355,21 @@ correctly filters under the `SIMILARITY` strategy
 (`Plan/concept/dspy-extract_2026-09-24/details-drg-mmr.md`, B.1, B.2). So
 "vendor `sensor_advanced.py`" (`dspy-agent-skills:skills/dspy-refrag/SKILL.md:143`)
 does not by itself hand you a working floor for MMR — `graphrag.py`'s
-pre-loop filter (`scripts/graphrag.py:175`) is not upstream's; it is
+pre-loop filter (`scripts/graphrag.py`) is not upstream's; it is
 `kp_canon_retriever.py`'s own addition, ported forward.
 
 ### Does `graphrag.py`'s docstring match its code?
 
 **Yes, and it did not always.** The module docstring now states the fixture
 boundary precisely: "at every λ from 0.5 to 0.8 — on this file's own selftest
-fixture from 0.55" (`scripts/graphrag.py:19-21`), and `select_mmr`'s own
+fixture from 0.55" (`scripts/graphrag.py`), and `select_mmr`'s own
 docstring states the formula and the upstream contrast directly: "The score is
 `(1 - λ) · relevance - λ · redundancy`: λ weights diversity. Upstream
 dspy-refrag writes `λ · relevance - (1 - λ) · redundancy` and never applies its
-`min_score` inside MMR" (`scripts/graphrag.py:170-173`). The
+`min_score` inside MMR" (`scripts/graphrag.py`). The
 `DIVERSITY_LAMBDA` comment states the two conventions' relationship rather than
 comparing raw numbers: "λ weights diversity here and relevance in upstream
-dspy-refrag, so this is upstream's 0.35" (`scripts/graphrag.py:70-71`).
+dspy-refrag, so this is upstream's 0.35" (`scripts/graphrag.py`).
 
 That correction is the direct output of the verification in
 `Plan/concept/dspy-extract_2026-09-24/details-drg-mmr.md` (section B), which
@@ -591,9 +591,9 @@ missing or empty (`dspy-agents:skills/rag/lancedb_runtime.py:143-199`).
 
 `graphrag.py`'s own fusion avoids the un-normalized-hybrid trap by
 construction rather than by design intent: `node_rank` is divided by the
-ranked set's own peak (`scripts/graphrag.py:200,208`) and `cosine()` returns a
+ranked set's own peak (`scripts/graphrag.py`) and `cosine()` returns a
 value in `[0, 1]` for the non-negative term-count vectors it is given
-(`scripts/graphrag.py:90-93`), so the `0.5/0.5` blend combines two quantities
+(`scripts/graphrag.py`), so the `0.5/0.5` blend combines two quantities
 on the same scale.
 
 ## Knowledge graphs
@@ -601,7 +601,7 @@ on the same scale.
 ### `graph.py`: the typed graph this repository actually has
 
 Every node and edge is read out of files that already exist; nothing is
-extracted or inferred by a model (`scripts/graph.py:1-8`, decision 005).
+extracted or inferred by a model (`scripts/graph.py`, decision 005).
 
 | node | from |
 |---|---|
@@ -620,12 +620,12 @@ extracted or inferred by a model (`scripts/graph.py:1-8`, decision 005).
 | `asks` | a question's `documents:` |
 | `concerns` | a question's `conflict:` |
 
-**Every edge carries `via: file:line`** (`scripts/graph.py:143-144`), and
-`evidence_of()` (`scripts/graph.py:84-123`) attaches every page's quotations
+**Every edge carries `via: file:line`** (`scripts/graph.py`), and
+`evidence_of()` (`scripts/graph.py`) attaches every page's quotations
 with the same verdict `quotes.py` itself checks with (`quotes.pairs` /
 `quotes.verdict`, unified after the graph's own first pairing found 14
 unresolved where the checker found 4 — `NOW.md`). `--check`
-(`scripts/graph.py:290-300`) compares the graph against the filesystem (P7,
+(`scripts/graph.py`) compares the graph against the filesystem (P7,
 P8): an edge to a page that does not exist, a document no manifest row lands.
 Exports: `--json`, `--graphml`, `--triples`, `--around <term> --hops N
 [--mermaid]`.
@@ -643,21 +643,21 @@ already hold. Repair it by fixing the page and re-deriving, never by hand
 ### `graph.proposals()`: entities and glosses, kept apart
 
 A second layer, explicitly never merged into `build()`'s graph
-(`scripts/graph.py:318-320` asserts, in `--selftest`, that `names` and
+(`scripts/graph.py` asserts, in `--selftest`, that `names` and
 `folds_to` edges never leak into the core edge set). Two kinds:
 
 - **entities** — every name in a `Plan/entities/<slug>.md` list that passes
   `entities.py verify()` as a reading, with the document line that names it —
-  "a model chose the name, code placed the line" (`scripts/graph.py:215-220`).
+  "a model chose the name, code placed the line" (`scripts/graph.py`).
   An entity whose fold matches a page surface gets a `folds_to` edge.
 - **glosses** — from `Plan/runs/bilingual/stated.jsonl`, the `A (B)` shape
   written in `GLOSS_MIN_DOCS=2`+ documents where exactly one side is a page
   surface. **The relation is unjudged** — `Kael (Host)` is a role, not a
   synonym — so a gloss may route a question to a page (`--gloss`) and is
   always labelled as a gloss; it never merges a surface into a page
-  (`scripts/graph.py:221-228`, P13). A surface glossing two different pages
+  (`scripts/graph.py`, P13). A surface glossing two different pages
   (`Ordnung` → Kohärenz and AEGIS) is dropped: "says nothing about which"
-  (`scripts/graph.py:281-286`).
+  (`scripts/graph.py`).
 
 **Current counts**: 226 <!--state:proposals.entities--> entities from lists
 that verify as readings, 28 <!--state:proposals.entities_paged--> of them
@@ -678,7 +678,7 @@ chunks or 25 entities (`dspy-agent-skills:skills/dspy-drg-kg/SKILL.md:128-135`).
 
 **This repository is installed for exactly one module — the evaluation
 scorer — never extraction**: `from drg.evaluation._runner import _score_sets`
-(`scripts/rlm_ingest.py:317-332`, its `score()` function). `_prf` is
+(`scripts/rlm_ingest.py`, its `score()` function). `_prf` is
 non-vacuous by construction — `precision = tp/(tp+fp)`,
 `recall = tp/(tp+fn)`, `f1 = 2pr/(p+r)`, each `0.0` on an empty denominator
 (`dspy-agent-skills:das-rlm-rag.md`, *Code worth keeping*) — unlike the retired
@@ -711,11 +711,11 @@ release ever routes the scorer through `drg.config`
 prose already wrote; no edge was invented"
 (`Plan/decisions/005-the-wiki-links.md`). The same rule, restated for the
 typed graph: "a guessed edge is indistinguishable from a stated one once it is
-in the graph" (`scripts/graph.py:6-8`). It is checked, not only asserted:
+in the graph" (`scripts/graph.py`). It is checked, not only asserted:
 `graph.py --selftest` fails if the proposal layer's `names`/`folds_to` edges
-ever appear in `build()`'s core edge types (`scripts/graph.py:318-320`), and
+ever appear in `build()`'s core edge types (`scripts/graph.py`), and
 `graphrag.py selftest` checks the entity-route case separately
-(`scripts/graphrag.py:409-414`). This is why `drg-kg`'s extraction and graph
+(`scripts/graphrag.py`). This is why `drg-kg`'s extraction and graph
 layers stay unused here even though the package is installed: a canon link is
 written by a person, never inferred by a model.
 

@@ -8,7 +8,7 @@ is the entry point built for exactly that shape: a candidate is a string or a
 `dict[str, str]`, scored by a plain Python function against data, evolved by
 the same reflective-mutation loop GEPA runs internally, with no DSPy program
 wrapped around it. This repository calls this work **job 4**
-(`Plan/concept/dspy-toolchain_2026-09-23.md:307-323`).
+(`Plan/concept/dspy-toolchain_2026-09-23.md`).
 
 `api.md` has the one-line, mechanically-checked call signature (under the
 comment naming this file). This file has the mechanics behind it, what fails
@@ -37,11 +37,11 @@ gepa.optimize_anything.EvaluatorWrapper(evaluator_fn, single_instance_mode, capt
 
 **What does not exist: a dataset, an evaluator, a run.** `scripts/check_dspy_surface.py`'s
 `example_param_ok()` is the whole of job 4 today —
-`Plan/concept/dspy-toolchain_2026-09-23.md:307-323` records it as "guard only —
+`Plan/concept/dspy-toolchain_2026-09-23.md` records it as "guard only —
 no routing failures recorded, so no dataset (P4)". `NOW.md`'s handover, item 4:
 "**Record routing failures** — each time an agent loaded the wrong skill or
 none. Five to twenty of them are job 4's dataset; there are none, so it has
-not started." (`NOW.md:235-237`). The number is not arbitrary: it is the
+not started." (`NOW.md`). The number is not arbitrary: it is the
 chapter's own rule for the benchmark job 4 would build —
 "**The dataset is 5 to 20 hand-captured real failures**, not synthetic volume.
 You are encoding what actually goes wrong."
@@ -52,7 +52,7 @@ next action, and it is free — it needs no model, no key, no `.venv-dspy`.
 `check_skills.py` is also why job 4 has a validator to run its output through
 before it has a dataset: "job 4 optimizes exactly this field; a validator must
 exist before anything rewrites it"
-(`Plan/concept/dspy-toolchain_2026-09-23.md:150-151`).
+(`Plan/concept/dspy-toolchain_2026-09-23.md`).
 
 ## The recipe: `optimize_anything` step by step
 
@@ -76,9 +76,10 @@ result = optimize_anything(
 )
 print(result.best_candidate)      # the new file text
 ```
-`dspy-agent-skills:skills/dspy-book-coding-agents/SKILL.md:26-51`. Names
-verified against `gepa` 0.1.4 here; an LM called with `messages=` returns a
-list of strings (`gepa:optimize_anything.py:1215-1219` shows the same shape).
+`dspy-agent-skills:skills/dspy-book-coding-agents/SKILL.md:26-51`. Every name
+in the import line is real in `gepa` 0.1.4, verified here; `TASK_LM` is the
+book's own thin wrapper, not part of `gepa` — `[0]` indexes its returned list
+of completion strings, the shape any evaluator built the same way must expect.
 The book pins `gepa==0.1.1`; DSPy 3.3.1 declares `gepa[dspy]==0.1.4` as a
 dependency, so this repository already has 0.1.4 in `.venv-dspy` with no extra
 install, and everything below is checked against **0.1.4**, not the book's
@@ -158,7 +159,7 @@ def example_param_ok(evaluator) -> bool:
     names = list(inspect.signature(evaluator).parameters)
     return len(names) >= 2 and names[1] == "example"
 ```
-(`scripts/check_dspy_surface.py:56-62`.) Its docstring names the shape most
+(`scripts/check_dspy_surface.py`.) Its docstring names the shape most
 worth remembering: "the data is dropped silently and the crash comes layers
 later" describes the loud row above from the outside — the drop happens at
 the filter, the crash surfaces however many frames later the exception is
@@ -189,8 +190,9 @@ only two ways in — at least one is required
 outside the \`\`\` blocks."
 (`gepa:optimize_anything.py:520-614`, the template builder in full; the exact
 instruction at `gepa:optimize_anything.py:608-610`). `seed_candidate=None`
-("seedless mode") requires `objective` and a reflection LM
-(`gepa:optimize_anything.py:1266-1274`).
+("seedless mode") requires `objective` (`gepa:optimize_anything.py:1266-1271`)
+and, once the LLM actually has to write that first draft, a reflection LM
+(`gepa:optimize_anything.py:1371-1375`).
 
 **The template already wraps the candidate and the answer in one ``` fence
 each — a second, hand-written "no markdown fences" instruction fights it, not
@@ -205,7 +207,8 @@ start = lm_out.find("```") + 3         # the FIRST ``` anywhere in the answer
 end = lm_out.rfind("```")              # the LAST ``` anywhere in the answer
 content = lm_out[start:end]            # everything strictly between them
 ```
-(`gepa:strategies/instruction_proposal.py:127-146`, trimmed.) **A `SKILL.md`
+(`gepa:strategies/instruction_proposal.py:127-129,146`, trimmed — the lines in
+between handle an incomplete fence, not shown.) **A `SKILL.md`
 that itself contains a fenced code block — every file in this skill does — is
 exactly the input this breaks.** If the reflection model reproduces the whole
 file, including its own internal ```bash example, wrapped in the outer fence
@@ -248,9 +251,11 @@ does guard.
 **`ReflectionConfig.reflection_lm` defaults to `"openai/gpt-5.1"`**
 (`gepa:optimize_anything.py:742`), converted through `make_litellm_lm` the
 moment it is a string — a **live, paid call to OpenAI** the instant a
-`GEPAConfig()` is built without overriding it, even if every other field is
-set (the docstring's own example only overrides `engine.max_metric_calls`;
-`gepa:optimize_anything.py:894-900`). **This is the opposite of `dspy.GEPA`,
+`GEPAConfig()` is built without overriding it. The function's own
+"Single-task search" docstring example does exactly this: it sets only
+`config=GEPAConfig(engine=EngineConfig(max_metric_calls=500))`, leaving
+`reflection` untouched — `reflection_lm` stays at the live default
+(`gepa:optimize_anything.py:1221-1225`). **This is the opposite of `dspy.GEPA`,
 which asserts `reflection_lm is not None` at *construction* and has no default
 model to fall back to** — already stated in `SKILL.md`'s facts-that-bite,
 item 5, whose behavioural probe belongs to `optimizers.md`. `optimize_anything`
@@ -343,7 +348,7 @@ def parse_verdict(text: str) -> bool:
         raise ValueError(f"judge returned no parseable verdict: {text[:60]!r}")
     return match.group(1).upper() == "PASS"
 ```
-(`dspy-agent-skills:skills/dspy-book-coding-agents/example_artifact_optimizer.py:23,82-86`.)
+(`dspy-agent-skills:skills/dspy-book-coding-agents/example_artifact_optimizer.py:23,82-87`.)
 "Carried over from running tests to checking conventions — binary, no Likert
 scale to drift on" (`SKILL.md:91-94`). This is the same rule P15 states for
 this repository generally: a judge that cannot parse its own verdict has not
@@ -372,7 +377,9 @@ verified with `example_artifact_optimizer.py --dry-run` in this session
 A dict returned as `side_info` in place of a plain reason is also worth
 guarding directly: `side_info_is_useful()` there accepts a dict only if some
 key's name contains "reason" or "judge" — a naming heuristic, not a content
-check (`example_artifact_optimizer.py:103-106`); do not mistake passing it for
+check
+(`dspy-agent-skills:skills/dspy-book-coding-agents/example_artifact_optimizer.py:103-106`);
+do not mistake passing it for
 having supplied a real judge rationale.
 
 **Steps, applied to a skill pack**
@@ -398,7 +405,7 @@ three of those five steps need no model and no key.
 
 **"A `SKILL.md` is not a program"** — job 4's own framing for why it needs the
 second row rather than the first
-(`Plan/concept/dspy-toolchain_2026-09-23.md:307-314`). The `dspy-agent-skills`
+(`Plan/concept/dspy-toolchain_2026-09-23.md`). The `dspy-agent-skills`
 reader's version of the same rule: "When the artifact is prose rather than a
 DSPy program, there is nothing to compile, so GEPA's standalone entry point
 takes the file's text as the candidate." "If you do have signatures, use
@@ -413,7 +420,7 @@ routed to `dspy.GEPA`, not `optimize_anything`
 is the whole optimize step
 (`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:330-343`) — so it has no path
 for a bare text artifact
-(`Plan/concept/dspy-toolchain_2026-09-23.md:309-311`).
+(`Plan/concept/dspy-toolchain_2026-09-23.md`).
 
 **`dspydantic` cannot drive GEPA either, in the other direction: its own
 metric shape does not fit GEPA's contract.** Its field-description optimizer's
@@ -453,40 +460,30 @@ cls = type(f"Optimize{model_name}FieldDescription", (dspy.Signature,), {
 ```
 (`dspydantic:src/dspydantic/module.py:67-92`, trimmed.)
 
-**The comment is wrong, measured.** "Dynamic class name gives the proposer
-domain signal for free" claims the class name (`OptimizeInvoiceFieldDescription`)
-carries context at no cost. It does not: **in DSPy 3.3.1 a signature's class
-name never reaches the LM, in any call the proposer or the task predictor
-makes** — only the docstring and the input field values do
-(`dspydantic:src/dspydantic/module.py:73`, contradicted by its own repository's
-measurement of every proposer request). For job 4 the rule is the same shape
-in reverse: **put the skill's domain in the instruction text — the `objective`
-string, the docstring, an input field — never in a Python identifier, a
-variable name, or a dynamically-built class name.** Nothing downstream reads
-those.
+**The comment is wrong, measured — `patterns.md`'s "Schema as prompt" has the
+full count.** "Dynamic class name gives the proposer domain signal for free"
+claims the class name (`OptimizeInvoiceFieldDescription`) carries context at
+no cost. It does not: **in DSPy 3.3.1 a signature's class name never reaches
+the LM, in any call the proposer or the task predictor makes** — only the
+docstring and the input field values do
+(`dspydantic:src/dspydantic/module.py:67-73`, contradicted by its own
+repository's measurement of every proposer request). For job 4 the rule is
+the same shape in reverse: **put the skill's domain in the instruction text —
+the `objective` string, the docstring, an input field — never in a Python
+identifier, a variable name, or a dynamically-built class name.** Nothing
+downstream reads those.
 
-**Which optimizer, chosen purely by example count, with no model call:**
-```python
-def _auto_select_optimizer(self) -> str:
-    num_examples = len(self.examples)
-    if num_examples <= 2:
-        return "miprov2zeroshot"       # avoids a BootstrapFewShot bug
-    elif num_examples < 20:
-        return "bootstrapfewshot"
-    else:
-        return "bootstrapfewshotwithrandomsearch"
-```
-(`dspydantic:src/dspydantic/optimizer.py:512-533`, trimmed; runs on 3.3.1.)
-No branch reaches GEPA — consistent with the metric shape above. For 5 to 20
-job-4 cases this rule would pick `bootstrapfewshot`, which is not what job 4
-needs: BootstrapFewShot tunes **demos** for a program, it does not rewrite the
-instruction text itself, so it is the wrong tool for optimizing a
-`description` string even before the metric-arity mismatch rules it out.
+`optimizers.md` has `dspydantic`'s `_auto_select_optimizer` in full
+(`dspydantic:src/dspydantic/optimizer.py:512-533`) — for 5 to 20 job-4 cases
+its rule would pick `bootstrapfewshot`, which is not what job 4 needs even
+before the metric-arity mismatch above rules it out: BootstrapFewShot tunes
+**demos** for a program, it does not rewrite the instruction text itself.
 
 **What its own numbers show: nothing measured.** The headline claims —
 "Typical improvement: 10-30% higher accuracy", "Accuracy: 68% → 94%" — carry
 no run, seed, or log. Its `ABLATION_RESULTS.md` looks like a benchmark but its
-source script says otherwise in its own comment: `examples/ablation_benchmark_mock.py`
+source script says otherwise in its own comment:
+`dspydantic:examples/ablation_benchmark_mock.py`
 never calls `optimize()` ("We're not actually running optimize()"), and
 hardcodes `baseline_score = 0.75`, a `quality_factor = 1.2` for the sequential
 mode, and the compile counts it reports
@@ -523,7 +520,7 @@ patch = PromptPatch(target_block=refiner_output.target_block,
 so nothing stops the model writing `"Append"`, and nothing in `optimize()`
 catches the `ValueError` that follows — one bad field crashes the whole run
 (`dspy-optimizer:dspy_optimizer/optimizer.py:139-146`,
-`dspy_optimizer/refiner/signature.py:137-138`). **A bare `str` field lets a
+`dspy-optimizer:dspy_optimizer/refiner/signature.py:137-138`). **A bare `str` field lets a
 close-enough answer through the type system and crash somewhere else
 instead.** Declared as `Literal["append", "replace"]`, the same wrong value
 would fail at **parse time** — an `unparsed` result, the same status
@@ -543,14 +540,14 @@ in.
 
 Two separate packages make a `SKILL.md` reachable by a ReAct agent instead of
 only by a person, installed for that purpose and not yet called by anything
-(`CLAUDE.md:716-719`, "Installing anything").
+(`CLAUDE.md`, "Installing anything").
 
 **The runtime half — `dspy-skills-implementation-`, installed `--no-deps` into
 `.venv-dspy`, plus `strictyaml`.** `dspy_skills.SkillManager([Path(".agents/skills")])`
 discovers every skill here; `generate_skills_prompt_block(manager)` renders
 the `<available_skills>` block a ReAct agent is given, **built from the
 `description` field and nothing else**; `activate(name)` reads one skill's
-full `SKILL.md` (`CLAUDE.md:695-700`). This repository's one live caller is
+full `SKILL.md` (`CLAUDE.md`). This repository's one live caller is
 `scripts/rlm_ingest.py`:
 ```python
 def briefing(skill: str = "ingest") -> tuple[str, str]:
@@ -561,7 +558,7 @@ def briefing(skill: str = "ingest") -> tuple[str, str]:
     loaded = manager.activate(skill)
     return generate_skills_prompt_block(manager), read_instructions(loaded.path)
 ```
-(`scripts/rlm_ingest.py:155-161`.) This is why the description is job 4's
+(`scripts/rlm_ingest.py`.) This is why the description is job 4's
 target and not the body of the file: it is the only part of a skill any agent
 sees before choosing it — `SkillManager` never reads further until `activate`
 is called. `--no-deps` matters because the package declares
@@ -572,7 +569,7 @@ would move `.venv-dspy` off the pinned DSPy 3.3.1.
 `.claude/skills/` are real, unlinked folders specifically so that
 `SkillManager`'s discovery — which walks `.agents/skills/`, not
 `.claude/skills/` — never renders them into an agent's prompt at all
-(`CLAUDE.md:664-668`; `scripts/check_skills.py:15-21`). A project skill that
+(`CLAUDE.md`; `scripts/check_skills.py`). A project skill that
 were a real folder instead of the required symlink would have the opposite
 problem: `check_skills.py`'s `links()` check would fail it, but nothing about
 `SkillManager` itself would notice either copy drifting from the other.
@@ -586,7 +583,7 @@ DSPYTOOLS_SKILLS_DIR=$PWD/.agents/skills .venv-dspytools/bin/dspytools skills li
 (`CLAUDE.md`, "Installing anything".) Installed, reachable, not called by
 anything here — "Nothing in the pipeline calls any of the three yet. They are
 installed, reachable, and measured against this repository."
-(`CLAUDE.md:716-718`; the third is `drg-kg`, unrelated to job 4).
+(`CLAUDE.md`; the third is `drg-kg`, unrelated to job 4).
 
 **A naming collision worth flagging.** `dspy-agent-skills` also ships a skill
 called `dspy-tools-cli` (`skills/dspy-tools-cli/`), teaching an agent to call
@@ -600,7 +597,7 @@ not conflate the two when reading the notes.
 
 | idea | from | waits for |
 |---|---|---|
-| running `optimize_anything` on `.agents/skills/dspy`'s own descriptions | `dspy-agent-skills` | 5–20 recorded routing failures (P4) — `NOW.md:235-237`, above |
+| running `optimize_anything` on `.agents/skills/dspy`'s own descriptions | `dspy-agent-skills` | 5–20 recorded routing failures (P4) — `NOW.md`, above |
 | `dspy-auto-gepa` for this job | — | nothing: it only drives `dspy.GEPA` over a `dspy.Module`, and job 4's artifact is not one |
 | `dspydantic`'s optimizer stack (`BootstrapFewShot`/`MIPROv2ZeroShot`) for a `description` field | `dspydantic` | nothing planned: its metric cannot drive GEPA and its own numbers are unmeasured; `optimize_anything` already fits without it |
 | block-structured patching of `SKILL.md`'s own `##` sections, instead of regenerating the whole file | `dspy-optimizer` | a job-4 loop that exists at all; the `Literal`-built-block-name lesson applies regardless of whether patching itself is adopted |

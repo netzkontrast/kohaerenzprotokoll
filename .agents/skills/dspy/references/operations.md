@@ -16,7 +16,7 @@ does with it.
 Every real model call in this repository goes through
 `lmrun.call(program, *, step, subject="lm", approval=None, german=(), **inputs)`,
 and each call appends exactly one JSON object to
-`Plan/runs/<subject>/lm/<step>.jsonl` (`scripts/lmrun.py:113-184`):
+`Plan/runs/<subject>/lm/<step>.jsonl` (`scripts/lmrun.py`):
 
 | field | where it comes from | why |
 |---|---|---|
@@ -34,7 +34,7 @@ and each call appends exactly one JSON object to
 ### The approval rule
 
 `call()` builds in three refusals no scanned repository enforces on its own
-(`scripts/lmrun.py:1-46,113-126`):
+(`scripts/lmrun.py`):
 
 1. **Cache on refuses.** `if getattr(lm, "cache", True): raise RuntimeError(...)` —
    a cached call replays its first completion, and repeats measure nothing
@@ -57,23 +57,23 @@ and each call appends exactly one JSON object to
 architectural fact, not an oversight to describe away (P2). Its `run()`
 function builds its own `dspy.LM(model, api_key=api_key(), api_base=BASE,
 max_tokens=16000, temperature=0, cache=False)` and calls `dspy.RLM(...)`
-directly (`scripts/rlm_ingest.py:240-253`). It carries its own, separate
+directly (`scripts/rlm_ingest.py`). It carries its own, separate
 approval gate — a bare `raise SystemExit(...)` when `--approval` is missing,
-checked before anything is built (`scripts/rlm_ingest.py:243-245`) — and its
+checked before anything is built (`scripts/rlm_ingest.py`) — and its
 own key handling: `api_key()` reads `OPENROUTER_API_KEY` from the environment
 first and only falls back to a line in a git-ignored `.env` file if that is
-absent, never printing either (`scripts/rlm_ingest.py:104-112`). Because the
+absent, never printing either (`scripts/rlm_ingest.py`). Because the
 call bypasses `lmrun.call`, it produces **no** `Plan/runs/<subject>/lm/`
 record, no four-way status, no German-language check on its own output — its
 own artifact is `03-candidates-rlm.md`, with its own header line recording
 `cost`, `approval`, `verified`, `reach` and `forced` in place of `lmrun`'s
-JSONL row (`scripts/rlm_ingest.py:286-297`). `rlm.md` has what those fields
+JSONL row (`scripts/rlm_ingest.py`). `rlm.md` has what those fields
 mean; the point here is that this repository currently has **two** approval
 gates for real model calls, not one, and they do not share a record format.
 
 **What `unreachable` covers, since the 2026-09-24 fix.** `_unreachable(error)`
 walks the exception's `__cause__`/`__context__` chain and matches it against
-two things (`scripts/lmrun.py:92-110`): DSPy 3.3's own typed types,
+two things (`scripts/lmrun.py`): DSPy 3.3's own typed types,
 `_NO_ANSWER = tuple(getattr(dspy, n) for n in ("LMProviderError",
 "LMTransportError") if hasattr(dspy, n))`, plus a name-set fallback —
 `NetworkRefused` (the fixture's own), `APIConnectionError`, `NotFoundError`,
@@ -89,7 +89,7 @@ offline selftest cases only ever raised the fixture's own `NetworkRefused`; a
 live run hit `dspy.LMTransportError` for the first time and `call()`
 **re-raised it instead of recording `unreachable`**. The tenth selftest case,
 added the same day, constructs `dspy.LMTransportError` directly and asserts
-the classification now holds (`scripts/lmrun.py:206-210`). `LMConfigurationError`
+the classification now holds (`scripts/lmrun.py`). `LMConfigurationError`
 and `LMUnsupportedFeatureError` are deliberately **not** in either set — those
 are this repository's own mistakes, and `call()` still lets them propagate.
 
@@ -97,7 +97,7 @@ are this repository's own mistakes, and `call()` still lets them propagate.
 `.venv-dspy/bin/python scripts/lmrun.py` prints "`lmrun: 10 of 10 cases hold
 (4 statuses, DSPy's own transport error, empty field, English caught, cache
 refused, approval refused, short text unmeasured)`"
-(`scripts/lmrun.py:187-257`). Three real runs are one command away and each
+(`scripts/lmrun.py`). Three real runs are one command away and each
 waits on the author's yes for that specific run: `pairs.py run --optimizer
 labeled`, `graphrag.py ask "…" --answer`, and `rlm_ingest.py <slug>`. `NOW.md`
 names what each would send.
@@ -105,7 +105,7 @@ names what each would send.
 ## Cost and usage
 
 **`lmrun.call` wraps each call individually** in its own
-`with dspy.track_usage() as usage:` block (`scripts/lmrun.py:130-131`), so
+`with dspy.track_usage() as usage:` block (`scripts/lmrun.py`), so
 `usage.get_total_tokens()` and the summed `cost` from `lm.history[before:]`
 belong to exactly the one call the record describes — never to a program, a
 session or a thread pool. This scoping is deliberate, and the nine
@@ -143,7 +143,7 @@ response measured back as `{'prompt_tokens': 24, 'completion_tokens': 2,
 (`dspy-agent-skills:skills/dspy-local-runtime/example_local_runtime.py:113-114`;
 `api.md` has `BaseLM`'s own usage-recording rule). `lm_fixture.FixtureLM`
 never adds usage itself — its response object carries `usage={"prompt_tokens":
-0, ...}` and lets `BaseLM` record that once (`scripts/lm_fixture.py:106-113`).
+0, ...}` and lets `BaseLM` record that once (`scripts/lm_fixture.py`).
 
 **Two other repositories' usage accounting is disconnected from DSPy
 entirely.** `dspydantic`'s `api_calls`/`total_tokens` are `len(lm.history)`
@@ -181,7 +181,7 @@ entry — `prompt`, `messages`, `kwargs`, `response`, `outputs`, `usage`,
 `cost`, `model`, `model_type`, `response_model`, `timestamp`, `uuid` — are
 `api.md`'s to describe; this repository reads the same list `lmrun.call`
 already reads: `raw` and `finish_reason` come straight off `entry["response"]`
-before any parsing is trusted (`scripts/lmrun.py:143-148`). `GLOBAL_HISTORY`
+before any parsing is trusted (`scripts/lmrun.py`). `GLOBAL_HISTORY`
 (`from dspy.clients.base_lm import GLOBAL_HISTORY`) caps at 10,000 entries and
 drops the oldest first — `dspy-agent-skills`' own production skill calls it
 "a debugging window, not an audit log"
@@ -211,7 +211,7 @@ what changes once the answer is meant to be trusted for real.
 exception it catches — `_unreachable(exc)` first, then `"Adapter" in
 type(exc).__name__ or "parse" in str(exc).lower()` for `unparsed` — and
 **re-raises anything that matches neither** rather than folding an unknown
-failure into a status (`scripts/lmrun.py:132-140`). `dspy-agent-skills`' own
+failure into a status (`scripts/lmrun.py`). `dspy-agent-skills`' own
 book-production chapter states the same rule in prose — "A bare catch turns
 your own bugs into silent fallbacks to a weaker model" — and then breaks it
 one function away, wrapping its own handler in `except Exception as exc:
@@ -285,7 +285,7 @@ free`, OpenRouter's own Free Models Router, was one candidate in this
 repository's own `lm-bench` comparison; it serves a *different underlying
 model* on every call, yet "DSPy's cache keys on the prompt, not on the model
 that answered, so a cached hit silently replays whichever model happened to
-answer first" (`Plan/quality/lm-bench_2026-09-16.md:29-49`) — a model chosen
+answer first" (`Plan/quality/lm-bench_2026-09-16.md`) — a model chosen
 this way would need the cache off to measure reliability for that reason
 specifically, not only for P18's general one; it is not what `rlm_ingest.py`
 defaults to (`nvidia/nemotron-3-super-120b-a12b:free`, chosen precisely
@@ -322,12 +322,12 @@ redirect a reloaded program's calls to a different endpoint (`api.md`).
 
 **`baseline.digest()` hashes the program itself, never a tag someone bumps.**
 `digest(*parts) -> hashlib.sha256(json.dumps(parts, sort_keys=True, ...))
-[:12]` (`scripts/baseline.py:50-53`) is what `baseline.row()` calls on
+[:12]` (`scripts/baseline.py`) is what `baseline.row()` calls on
 whatever a candidate's `program`/`trainset` arguments actually are, so
 `program_hash` changes exactly when the instructions, demos or rule source
 change and not otherwise — ported in spirit, not in code, from `dspy-agents`'
 `_program_artifact_signature` (`dspy-agents:dspy_config.py:45-86`;
-`scripts/baseline.py:1-30`).
+`scripts/baseline.py`).
 
 **Content-hash invalidation, and one repository's version of it that is not
 actually a content hash.** `dspy-agents` keys its artifact directory, offline
@@ -489,7 +489,7 @@ run this repository has made against the corpus so far — a `max_iters=4`
 census of a document with a known miscount trap — and a single trivial call
 through that bridge was measured at **$0.078**, because the bridge re-creates
 prompt cache per process
-(`Plan/concept/rlm-measured-on-the-trap_2026-09-17.md:9-17,78-81`). "An RLM
+(`Plan/concept/rlm-measured-on-the-trap_2026-09-17.md`). "An RLM
 loop is many such calls. Budget before looping" is this repository's own
 conclusion from that one number, not a claim carried in from any of the nine.
 
@@ -497,7 +497,7 @@ conclusion from that one number, not a claim carried in from any of the nine.
 
 `scripts/baseline.py` and `Plan/runs/baselines.jsonl` are ported, reshaped,
 from `dspy-agents`' `dspy_optimize/baselines/{store,monitor,thresholds}.py`
-(`scripts/baseline.py:1-35`). A row is append-only:
+(`scripts/baseline.py`). A row is append-only:
 
 ```
 task, candidate, program_hash, trainset_hash, n, scored, correct,
@@ -509,22 +509,22 @@ An example that could not be scored (unreachable, unparsed) is `null` in
 `outcomes`, never `0` and never `1` (P15, P23) — `baseline.row()` builds
 `scored = [v for v in outcomes.values() if v is not None]` explicitly, and
 `score` is `None` outright when nothing could be scored
-(`scripts/baseline.py:56-68`). **`vetoed` fails `compare()` whatever the
+(`scripts/baseline.py`). **`vetoed` fails `compare()` whatever the
 score**: `dspy.GEPA` optimizes a mean, so a candidate that merges the
 `Negentropie`/`Entropie` canary otherwise loses only `1/n` — a veto refuses
 the whole candidate instead of docking it a fraction
-(`scripts/baseline.py:15-18,97-98`).
+(`scripts/baseline.py`).
 
 **The floor this repository added.** `dspy-agents`' own monitor compares each
 run only with the one immediately before it — so a run logged at `score=0.0,
 total_calls=0` becomes a normal new baseline, and a pipeline broken from its
 very first row can never alert
 (`dspy-agents:dspy_optimize/baselines/monitor.py:20-86`, cited via
-`scripts/baseline.py:19-24`). `baseline.compare(task, floor=None)` checks
+`scripts/baseline.py`). `baseline.compare(task, floor=None)` checks
 against **the floor**, not only the previous row: the floor defaults to the
 task's first recorded row (here, always the deterministic rule) or an
 explicitly named `--floor` candidate
-(`scripts/baseline.py:85-114`). Its rule evaluation order for the drift piece,
+(`scripts/baseline.py`). Its rule evaluation order for the drift piece,
 ported from the same source: absolute floor first, then a comparison against
 the best earlier score within a `TOLERANCE = 0.02` — a `warn`, not silent
 passing, if the newest row is below the best row seen so far. The three
