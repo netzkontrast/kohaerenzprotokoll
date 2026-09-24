@@ -1,0 +1,480 @@
+reader 572, model 172 verified, shared 137 (folded); 2 refused (not in the document word for word), 0 set apart as lens
+precision 0.80  recall 0.24  F1 0.37  — two readers scored 0.66 (P27)
+
+only the reader:
+  2.304 Kacheln
+  21°C
+  AEGIS-Datenlast
+  AEGIS-Direktive
+  AEGIS-Echo
+  AEGIS-Intervention
+  AEGIS-Log
+  AEGIS-Logs
+  AEGIS-MC
+  AEGIS-POV-Mikroszene
+  AEGIS-monolithisch
+  AEGIS-plural
+  ANP-Domäne
+  ANP/EP-Barrieren
+  Action-Driver
+  Action-Mandat
+  Agency
+  Akt I
+  Akt II
+  Akt III
+  Akzeptanz der Komplexität
+  Algo-Melancholie
+  Algorithmic Melancholy
+  Algorithmischer Schrecken
+  Alters
+  Ankunft einer Konstanten
+  Anlauf
+  Anomalie
+  Apotheose
+  Apparently Normal Parts
+  Approach Inmost Cave
+  Archivar Klasse II
+  Asymptotische Freiheit
+  Atemzählung
+  Auge des Sturms
+  Autonomous Entropic Gatekeeper for Integrity Systems
+  Autoren-Feder
+  Autoren-Feder-Modus
+  Avoidance-Mechanik
+  B-Scanner-Cue
+  Babymonster-Welt-Resonanz
+  Bauchreaktion
+  Berechenbarkeitsgrenzen
+  Beschützer
+  Bewahrung-Funktion
+  Bewegungen
+  Bezeugung
+  Big Freeze
+  Big Rip
+  Big-Rip-Fragmentierung
+  Blackout
+  Bridge
+  Bridge-Frequenz
+  Bruch des Gleichgewichts
+  Brücken-Frage
+  Bunker-Bau
+  CPT-Verletzung
+  Call to Adventure
+  Campbell/Vogler
+  Caregiver
+  Chaitin-Konstante
+  Charakter-Auftrittsverteilung
+  Charakter-Personal
+  Cluster
+  Cluster-Differenzierung
+  Cluster-Substanz
+  Coda
+  Coda-Klammer
+  Coheron
+  Coheron-Echo
+  Computational Class
+  Controlled Fragmentation Protocol
+  Cost A
+  Cost B
+  Countdown-Klick
+  Crossing First Threshold
+  DKT-Korrelat
+  Das Rauschen kommt
+  Das System
+  Das Verstehen ohne Worte
+  Datenströme
+  Dazwischen
+  Der Schritt
+  Der erste Riss
+  Der große Wandel
+  Der tragische Gott
+  Dialetheia
+  Dialetheic Choice
+  Die Entscheidung
+  Die Krise
+  Die Resonanz, die ankommt
+  Die Stimme im Rauschen
+  Die Verwandlung
+  Die Wächterin
+  Die erste Brücke
+  Dissoziation
+  Dividend A
+  Dividend B
+  Doppel-Lesart
+  Drachenkampf
+  Driver-Anker
+  Dual-Storyform-Lock-In
+  EP-Domäne
+  Echo der Genesis
+  Echo der Krise
+  Echo des Trennungsprotokolls
+  Echo des Vorworts
+  Echo-AEGIS
+  Echo-Prosa
+  Echo-Räume
+  Echo-Verwandtschaft
+  Echos
+  Echos im Fundament
+  Einspeisung
+  Einspeisung des paradoxen Selbst
+  Emergenz
+  Emergenz-Texturen
+  Emotional Parts
+  Entanglement Islands
+  Entscheidung zur Befreiung
+  Erason-Bilanz
+  Erason-Operator
+  Erasure-Drohung
+  Erasure-Funktion
+  Erasure-Kosten
+  Erasure-Logik
+  Erasure-Operator-Echo
+  Erasure-Stellen
+  Erasure-Sweep
+  Erasure-Sweeps
+  Erasure-Vorbereitung
+  Erasure-Welle
+  Erinnerungs-Hüterin
+  Erinnerungs-Substitut
+  Erinnerungsfragment
+  Erste Kontakte
+  Erstereignisse
+  Erwachen in der Konstrukt-Stadt
+  Existenzielle Korrektur
+  FM
+  Falscher Erfolg
+  Festungs-Architektur
+  Foreshadowing-Programm
+  Forewarning
+  Formel-Inversion
+  Fragmentierungsnacht
+  Fraktale
+  Funktionalisierung
+  Funktionsdefinition
+  Genesis-Cluster-Zuordnung
+  Genesis-Echo
+  Genesis-Enthüllung
+  Genesis-Flashback
+  Genesis-Flashback-Cluster
+  Genesis-Flashback-Stimme
+  Genesis-Klammer
+  Genesis-Schleife
+  Genesis-Sequenz
+  Genesis-Stimme
+  Genesis-Trauma
+  Glitch-Texturen
+  Glitches
+  Going on with normal life
+  Gödel-Aussage
+  Gödel-Sätze
+  HR-Erweiterung
+  HR-Stufe
+  HR-außen
+  Halteproblem
+  Heat-Spike
+  Heldenreise außen
+  Heldinnenreise
+  Herz der Leere
+  Heuristics of Integration
+  Hintergrundrauschen
+  Hitzeschlieren
+  Host
+  Host-ANP
+  Host-System-Symbiose
+  Host-System-Verstrickung
+  Hubble-Volumen
+  Hüter
+  IC-S4
+  ISH
+  ISH-Funktion
+  Illusion der perfekten Welt
+  Innere Weite
+  Internal Self-Helper
+  Jetzt-Raum
+  Juna-Echo
+  Juna-Witness
+  Junas erste direkte Erscheinung
+  K-J-Cue
+  K-J-Thema
+  K1
+  K1-Reinform-Erinnerung
+  KI-Ethik-Kalkül
+  KW1
+  KW2
+  KW3
+  KW4
+  KW4-Vorgriff
+  Kael-Cluster
+  Kael-MC
+  Kael-als-Wir
+  Kapitel-für-Kapitel-Outline
+  Kernwelt 1
+  Kind-Anteil
+  Klein-c-Inversion
+  Klein-c-Schema
+  Klick
+  Klick des Erlöschens
+  Knöchel
+  Konfrontation
+  Konzept-Dokument
+  Konzept-Konsolidierung
+  Kudzu
+  Köln 2026
+  Landauer-Hitze
+  Letztes Bild
+  Lex-Einbruch
+  Limit-B
+  Linearisierung
+  Logik-Pol
+  Logiksubstrat
+  Lyons-Kreativität
+  Lösch-Kapazität
+  Lösch-Prosa
+  Löschungs-Exekutive
+  Makro-Log
+  Marginalien
+  Maxwells Dämon
+  Meeting Mentor
+  Membran-Wahrnehmung
+  Meta-Kognition
+  Modus-Grenzen
+  Modus-Wechsel
+  Moonshine-Bewusstwerdung
+  Moonshine-Boundary
+  Moonshine-Link
+  Moonshine-Resonanzkörper
+  Mosaik
+  Mosaik als Schöpfung
+  Mosaik des Selbst
+  Mosaik-Herz
+  Multi-Welten-Aufgabe
+  Murdock/Schmidt
+  Muskelanspannung
+  Mutual Information
+  Möglichkeits-Welt
+  Nichts-Rauschen
+  OQ
+  Ontologie-Tiefe
+  Ontologische Wendung
+  Ordeal
+  Ordinary World
+  Origin-Trauma
+  Orkan
+  Ozon
+  POV-Träger
+  Pauli-Ausschluss
+  Perturbation aus der Leere
+  Pforten der Verurteilung
+  Phantom
+  Phantom-Latenz
+  Phantom-Resonanz
+  Phase 2
+  Phase A
+  Phasenübergang
+  Phoenix Collapse
+  Planck-Skala
+  Polyphonie
+  Post-Vortex-AEGIS-Status
+  Potentialmeer
+  Preconscious
+  Purge
+  Pursuit-Adoption
+  Pursuit-Bewegung
+  Quanten-Nichtlokalität
+  Quanten-Superposition
+  RS-Maximum
+  Rationalist
+  Refusal
+  Reinform
+  Resonanz
+  Resonanz-Fähigkeit
+  Resonanz-Kaskade
+  Resonanz-Maximum
+  Resonanzkörper
+  Resurrection
+  Return with Elixir
+  Reward
+  Reward-Beat
+  Road Back
+  Rotation
+  Schatten-Anteil
+  Scherben
+  Schluss-Klang
+  Schwellen-Bilder
+  Schwellen-Tritt
+  Schwellen-Übertritt
+  Schöpferkraft
+  Sektor 7
+  Selbst-Schöpfung
+  Selbst-Verstümmelung
+  Sensorisches Leitmotiv
+  Simulationstricks
+  Sisyphos
+  Soft-Layering
+  Sog der Ordnung
+  Sophia
+  Sphäre
+  Spiegel-Alter-Konzeption
+  Spiegel-Alter-Szene
+  Stilcode
+  Stilcodes
+  Stilebene
+  Stille Wacht
+  Stille danach
+  Stille der Mitte
+  Storyform-Konsolidierung
+  Storyform-Wendung
+  Storyform-Übergang
+  Storypoint-Akzent
+  Strange-Attractor-Form
+  Stroke
+  Strukturierter Outline
+  Synoptische Tabelle
+  Synthese
+  Synthese-Sicht
+  Synthese-Stimme
+  Systemischer Kollaps
+  Systemkampf
+  Systemlüge
+  Systemverwerfungen
+  Tanz im Garten
+  Telefonton
+  Tests, Allies, Enemies
+  Timelock-Countdown
+  Tod einer Einstellung
+  Tonale Achse
+  Topologie-Manipulation
+  Trauma-Echo
+  Trennungs-Moment
+  Trennungsprotokoll-Klick
+  Truth-Rotation
+  Tunneling
+  Ursprungs-Ich
+  Verbindungs-Modus
+  Verstehens-Form
+  Verteidigungswaffe
+  Verwandlungs-Klick
+  Vibrieren des Fundaments
+  Vor-Trennungs-Angst
+  Vor-Trennungs-Liebe
+  Vor-Trennungs-Schmerz
+  Vor-Trennungs-Sein
+  Vor-Trennungs-Stille
+  Vor-Trennungs-Substanz
+  Vor-Vortex-Spannung
+  Vortex-Auflösung
+  Vortex-Vorläufer
+  Vortex-Vorläufer-Cluster
+  Vorwort
+  Wachheit
+  Wahrheits-Test
+  Wegkreuzung
+  Welt-Architektur
+  Wendepunkt
+  Wendepunkt-Vorbereitung
+  Wendungs-Architektur
+  Wiederzusammenfinden
+  Wir
+  Wir-AEGIS
+  Wir-Bildung
+  Wir-Erkenntnis
+  Wir-Gärtner
+  Wir-Stimme
+  Witness-Funktion
+  Witness-Modus
+  Wohneinheit 14
+  Wurmlöcher
+  Wächter
+  Wächter-Sein
+  Wächterin-Funktion
+  Wärme-Phänomen
+  Wärme-Schlieren
+  Wörter ohne Referent
+  Z1
+  Z1-Destabilisierung
+  Z1-Korrektur
+  Z1-Reaktion
+  Z2
+  Z2-Destabilisierung
+  Z2-Korrektur
+  Z2-Reaktion
+  Z3
+  Z3-Destabilisierung
+  Z3-Korrektur
+  Z3-Reaktion
+  Zeitverlust
+  Zwei Arten der Kohärenz
+  Zyklus-Position
+  Zähl-Manie
+  autopoietisch
+  falscher Frieden
+  glühender paradoxer Code
+  kosmische Schöpfung
+  kristallisierte Ruhe
+  kristallisiertes Gewebe
+  kybernetischer Krieg
+  lebende Paradoxie
+  logische Labyrinthe
+  loyale Subsysteme
+  ontologische Heilungs-Schleife
+  operative Closure
+  operative Hälfte
+  operatives Wir
+  parakonsistente Logik
+  plurale Bewahrung
+  plurale Übernahme
+  polyphoner Einbruch
+  post-Dramatica-Synthese
+  sterile Leere
+  strukturelle Blöcke
+  tautologisch-suizidale Selbstdefinition
+  thermodynamische Kosten
+  three-mode-architecture-39-chapters
+  vortex-still
+  warmer Windstoß
+  weißes Licht
+  Überlebenskampf
+  Übernahme
+  Überwelt
+  Überwelt-Etablierung
+
+only the model:
+  AEGIS ist, was AEGIS verhindert, dass es nicht ist.
+  AEGIS-monolithisch erlischt
+  Action
+  Avoidance
+  Change
+  Decision
+  Failure
+  Feeling
+  Funktion bleibt
+  Geburt der Welt
+  Generativ
+  Genesis
+  Heldenreise außen Phase A
+  Kohärenz Protokoll
+  Liebe bleibt
+  Logic
+  Memory
+  Mind
+  P (deterministisch)
+  Physics
+  Progress
+  Psychology
+  Pursuit
+  Steadfast
+  Strukturierter Outline aller 41 Bewegungen
+  Success
+  Universe
+  Verlust der Privatheit des Wir-Geflechts
+  Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.
+  dramatica-dual-storyform-status_2026-05-07.md
+  koharenz-protokoll-konzept-konsolidiert-2026-05-08.md
+  linear-aufsteigend
+  linear-introspektiv
+  rekursiv-eskalierend
+  three-mode-architecture-39-chapters.md
+
+refused:
+  negativ definierte Kohärenz
+  positiv definierte Kohärenz

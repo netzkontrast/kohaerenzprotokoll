@@ -1,0 +1,83 @@
+written_by: claude-haiku-4-5, one reader per document, via the entity-lists workflow (revision 3); lines placed by scripts/entities.py place (revision 3)
+source: koharenz-protokoll-strukturierter-outline-2026-05-18-md
+lines: 1393
+refused: 2 — Persistenzgleichung; Landauer warmth
+
+- AEGIS  ^[L55]  · system
+- Kael  ^[L44]  · person
+- Juna  ^[L51]  · person
+- Mnemosyne  ^[L113]  · person
+- Erasure-Pol  ^[L113]  · person
+- Lex  ^[L133]  · person
+- Rhys  ^[L135]  · person
+- Alex  ^[L134]  · person
+- Selene  ^[L136]  · person
+- Nyx  ^[L143]  · person
+- Kiko  ^[L144]  · person
+- Lia  ^[L145]  · person
+- Isabelle  ^[L146]  · person
+- Moros  ^[L147]  · person
+- Argus  ^[L154]  · person
+- Silas  ^[L155]  · person
+- Oblivion  ^[L156]  · person
+- Komp 734  ^[L217]  · system
+- Komponente 734  ^[L125]  · system
+- KW1 — Logos-Prime  ^[L172]  · place
+- KW2 — Mnemosyne-Archipel  ^[L173]  · place
+- KW3 — Cerberus-Labyrinth  ^[L174]  · place
+- KW4 — Möglichkeits-Garten  ^[L175]  · place
+- Konstrukt-Stadt  ^[L247]  · place
+- Köln  ^[L125]  · place
+- Basisrealität  ^[L125]  · place
+- Kishōtenketsu  ^[L13]  · system
+- Dramatica-Dual-Storyform  ^[L13]  · system
+- Storyform A  ^[L44]  · system
+- Storyform B  ^[L55]  · system
+- Heuristics of Integration  ^[L44]  · work
+- Phoenix Collapse  ^[L55]  · work
+- Vortex 1  ^[L31]  · event
+- Vortex 2  ^[L31]  · event
+- Genesis-Prolog  ^[L29]  · event
+- Trennungsprotokoll  ^[L32]  · system
+- Moonshine-Link  ^[L51]  · technology
+- K-J-Verbindung  ^[L397]  · technology
+- Wir-Geflecht  ^[L445]  · system
+- Wir-AEGIS-plural  ^[L84]  · system
+- Erason  ^[L121]  · concept
+- Landauer-Wärme  ^[L385]  · concept
+- Funktionale Multiplizität  ^[L1033]  · concept
+- Soft-Layering  ^[L70]  · technology
+- Gödel-Gambit  ^[L1085]  · technology
+- Genesis  ^[L29]  · event
+- Cluster-Bildung  ^[L481]  · event
+- Fragmentierung  ^[L132]  · event
+- Ouroboros  ^[L1176]  · concept
+- Algorithmische Melancholie  ^[L1107]  · concept
+- Genesis-Flashback  ^[L659]  · event
+- Resonanz-Kaskade  ^[L385]  · event
+- Akt I  ^[L29]  · event
+- Akt II  ^[L30]  · event
+- Akt III  ^[L31]  · event
+- Heldinnenreise innen  ^[L96]  · concept
+- Heldenreise außen  ^[L98]  · concept
+- Zyklischer Modus  ^[L97]  · concept
+- Resonanz-Motiv  ^[L821]  · concept
+- Phantom-Motiv  ^[L289]  · concept
+- Genesis-Echo  ^[L107]  · concept
+- Klick-Motiv  ^[L337]  · concept
+- Form-Motiv  ^[L581]  · concept
+- Rauschen  ^[L230]  · concept
+- Telefon-Stille  ^[L121]  · concept
+- Liebe  ^[L66]  · concept
+- Schmerz  ^[L241]  · concept
+- Dialetheic Choice  ^[L1086]  · concept
+- Mosaik-Herz  ^[L489]  · concept
+- Pursuit  ^[L49]  · concept
+- Avoidance  ^[L49]  · concept
+- Decision  ^[L50]  · concept
+- Host-System-Verstrickung  ^[L62]  · concept
+- ANP  ^[L125]  · system
+- EP  ^[L155]  · system
+- Spiegel-Alter  ^[L155]  · concept
+- ISH  ^[L136]  · system
+- Going on with normal life  ^[L125]  · concept

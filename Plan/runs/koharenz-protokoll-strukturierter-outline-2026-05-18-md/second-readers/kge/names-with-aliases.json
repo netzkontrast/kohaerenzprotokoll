@@ -1,0 +1,1206 @@
+{
+ "source": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+ "written_by": "same, entity names and their aliases",
+ "entities": [
+  {
+   "term": "Strukturierter Outline aller 41 Bewegungen",
+   "kind": "Document"
+  },
+  {
+   "term": "koharenz-protokoll-konzept-konsolidiert-2026-05-08.md",
+   "kind": "Document"
+  },
+  {
+   "term": "dramatica-dual-storyform-status_2026-05-07.md",
+   "kind": "Document"
+  },
+  {
+   "term": "three-mode-architecture-39-chapters.md",
+   "kind": "Document"
+  },
+  {
+   "term": "Storyweaving-Startdokument",
+   "kind": "Document"
+  },
+  {
+   "term": "Kohärenz Protokoll",
+   "kind": "Novel"
+  },
+  {
+   "term": "Kishōtenketsu",
+   "kind": "StructuralLevel"
+  },
+  {
+   "term": "Dramatica-Dual-Storyform",
+   "kind": "StructuralLevel"
+  },
+  {
+   "term": "Drei narrative Modi",
+   "kind": "StructuralLevel"
+  },
+  {
+   "term": "Ki",
+   "kind": "KishotenketsuPhase"
+  },
+  {
+   "term": "Shō",
+   "kind": "KishotenketsuPhase"
+  },
+  {
+   "term": "Ten",
+   "kind": "KishotenketsuPhase"
+  },
+  {
+   "term": "Ketsu",
+   "kind": "KishotenketsuPhase"
+  },
+  {
+   "term": "Genesis-Prolog",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Heldinnenreise innen",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Zyklischer Modus",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Heldenreise außen Phase A",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Vortex 1",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Trügerischer Sieg",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Vortex 2",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Geheilte Genesis",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Doppel-Vortex",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "linear-introspektiv",
+   "kind": "NarrativeMode"
+  },
+  {
+   "term": "rekursiv-eskalierend",
+   "kind": "NarrativeMode"
+  },
+  {
+   "term": "linear-aufsteigend",
+   "kind": "NarrativeMode"
+  },
+  {
+   "term": "Synthese (c)",
+   "kind": "Concept"
+  },
+  {
+   "term": "Storyform A",
+   "kind": "Storyform"
+  },
+  {
+   "term": "Storyform B",
+   "kind": "Storyform"
+  },
+  {
+   "term": "Kap 0",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 1",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 2",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 3",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 4",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 5",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 6",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 7",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 8",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 9",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 10",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 11",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 12",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 13",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 14",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 15",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 16",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 17",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 18",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 19",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 20",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 21",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 22",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 23",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 24",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 25",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 26",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 27",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 28",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 29",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 30",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 31",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 32",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 33",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 34",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 35",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 36",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 37",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 38",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 39",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Kap 40",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Change",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Be-er",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Mind",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Memory",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Avoidance",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Pursuit",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Decision",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Optionlock",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Success",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Psychology",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Physics",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Steadfast",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Do-er",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Universe",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Progress",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Logic",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Feeling",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Action",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Timelock",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Failure",
+   "kind": "DramaticaElement"
+  },
+  {
+   "term": "Verlust der Privatheit des Wir-Geflechts",
+   "kind": "StorypointValue"
+  },
+  {
+   "term": "Liebe bleibt",
+   "kind": "StorypointValue"
+  },
+  {
+   "term": "AEGIS-monolithisch erlischt",
+   "kind": "StorypointValue"
+  },
+  {
+   "term": "Funktion bleibt",
+   "kind": "StorypointValue"
+  },
+  {
+   "term": "AEGIS",
+   "kind": "Character"
+  },
+  {
+   "term": "Juna",
+   "kind": "Character"
+  },
+  {
+   "term": "Kael",
+   "kind": "Character"
+  },
+  {
+   "term": "Lex",
+   "kind": "Character"
+  },
+  {
+   "term": "Alex",
+   "kind": "Character"
+  },
+  {
+   "term": "Rhys",
+   "kind": "Character"
+  },
+  {
+   "term": "Selene",
+   "kind": "Character"
+  },
+  {
+   "term": "Nyx",
+   "kind": "Character"
+  },
+  {
+   "term": "Kiko",
+   "kind": "Character"
+  },
+  {
+   "term": "Lia",
+   "kind": "Character"
+  },
+  {
+   "term": "Isabelle",
+   "kind": "Character"
+  },
+  {
+   "term": "Moros",
+   "kind": "Character"
+  },
+  {
+   "term": "Argus",
+   "kind": "Character"
+  },
+  {
+   "term": "Silas",
+   "kind": "Character"
+  },
+  {
+   "term": "Oblivion",
+   "kind": "Character"
+  },
+  {
+   "term": "Mnemosyne",
+   "kind": "Character"
+  },
+  {
+   "term": "Erasure-Pol",
+   "kind": "Character"
+  },
+  {
+   "term": "LogOS",
+   "kind": "Character"
+  },
+  {
+   "term": "Cerberus",
+   "kind": "Character"
+  },
+  {
+   "term": "Kairos",
+   "kind": "Character"
+  },
+  {
+   "term": "Komponente 734",
+   "kind": "Character"
+  },
+  {
+   "term": "Wir-AEGIS-plural",
+   "kind": "Character"
+  },
+  {
+   "term": "Wir-Geflecht",
+   "kind": "Character"
+  },
+  {
+   "term": "Funken-Ich",
+   "kind": "Character"
+  },
+  {
+   "term": "AEGIS ist, was AEGIS verhindert, dass es nicht ist.",
+   "kind": "Formula"
+  },
+  {
+   "term": "Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.",
+   "kind": "Formula"
+  },
+  {
+   "term": "Trennungsprotokoll",
+   "kind": "Event"
+  },
+  {
+   "term": "Genesis-Krise",
+   "kind": "Event"
+  },
+  {
+   "term": "Bindungstrauma",
+   "kind": "Event"
+  },
+  {
+   "term": "Genesis",
+   "kind": "Event"
+  },
+  {
+   "term": "Stress-Test Delta-7",
+   "kind": "Event"
+  },
+  {
+   "term": "Cache-Konflikt",
+   "kind": "Event"
+  },
+  {
+   "term": "Cluster-Bildung",
+   "kind": "Event"
+  },
+  {
+   "term": "Gödel-Gambit",
+   "kind": "Event"
+  },
+  {
+   "term": "Genesis 4. Beat",
+   "kind": "Event"
+  },
+  {
+   "term": "Telefon-Stille",
+   "kind": "Motif"
+  },
+  {
+   "term": "Rauschen",
+   "kind": "Motif"
+  },
+  {
+   "term": "Form-Motiv",
+   "kind": "Motif"
+  },
+  {
+   "term": "Klick-Motiv",
+   "kind": "Motif"
+  },
+  {
+   "term": "Phantom-Motiv",
+   "kind": "Motif"
+  },
+  {
+   "term": "Resonanz-Motiv",
+   "kind": "Motif"
+  },
+  {
+   "term": "Gärtner",
+   "kind": "Role"
+  },
+  {
+   "term": "Sub-Antagonisten",
+   "kind": "Role"
+  },
+  {
+   "term": "ANPs",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "EPs",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Sonderfiguren",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Spiegel-Alter",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Guardians",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Logos-Prime",
+   "kind": "Place"
+  },
+  {
+   "term": "Mnemosyne-Archipel",
+   "kind": "Place"
+  },
+  {
+   "term": "Cerberus-Labyrinth",
+   "kind": "Place"
+  },
+  {
+   "term": "Möglichkeits-Garten",
+   "kind": "Place"
+  },
+  {
+   "term": "Konstrukt-Stadt",
+   "kind": "Place"
+  },
+  {
+   "term": "Basisrealität",
+   "kind": "Place"
+  },
+  {
+   "term": "Köln",
+   "kind": "Place"
+  },
+  {
+   "term": "Lyons-Welt",
+   "kind": "Place"
+  },
+  {
+   "term": "Kernwelten",
+   "kind": "WorldGroup"
+  },
+  {
+   "term": "P (deterministisch)",
+   "kind": "ComputationalClass"
+  },
+  {
+   "term": "Parakonsistent",
+   "kind": "ComputationalClass"
+  },
+  {
+   "term": "NP-Hard",
+   "kind": "ComputationalClass"
+  },
+  {
+   "term": "Generativ",
+   "kind": "ComputationalClass"
+  },
+  {
+   "term": "negativ definierte Kohärenz",
+   "kind": "Concept"
+  },
+  {
+   "term": "positiv definierte Kohärenz",
+   "kind": "Concept"
+  },
+  {
+   "term": "Algorithmische Melancholie",
+   "kind": "Concept"
+  },
+  {
+   "term": "K-J-Verbindung",
+   "kind": "Concept"
+  },
+  {
+   "term": "Bunker",
+   "kind": "Concept"
+  },
+  {
+   "term": "Ouroboros",
+   "kind": "Concept"
+  },
+  {
+   "term": "Geburt der Welt",
+   "kind": "Concept"
+  },
+  {
+   "term": "Erasure",
+   "kind": "Concept"
+  },
+  {
+   "term": "Landauer-Wärme",
+   "kind": "Concept"
+  },
+  {
+   "term": "Multiplizitäts-Schleier-Disziplin",
+   "kind": "Concept"
+  },
+  {
+   "term": "Funktionale Multiplizität",
+   "kind": "Concept"
+  },
+  {
+   "term": "Moonshine",
+   "kind": "Concept"
+  },
+  {
+   "term": "Mosaik-Bildung",
+   "kind": "Concept"
+  },
+  {
+   "term": "OQ-A",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "OQ-B",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "OQ-C",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "OQ-D",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "OQ-E",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "OQ-F",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "OQ-G",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "Kohärenz Protokoll — Strukturierter Outline aller 41 Bewegungen",
+   "kind": "Document"
+  },
+  {
+   "term": "Outline-Stand 2026-05-18",
+   "kind": "Document"
+  },
+  {
+   "term": "Konzept-Dokument 2026-05-08",
+   "kind": "Document"
+  },
+  {
+   "term": "Konzept-Konsolidierung",
+   "kind": "Document"
+  },
+  {
+   "term": "Roman",
+   "kind": "Novel"
+  },
+  {
+   "term": "Ebene 1",
+   "kind": "StructuralLevel"
+  },
+  {
+   "term": "Dual-Storyform",
+   "kind": "StructuralLevel"
+  },
+  {
+   "term": "Ebene 2",
+   "kind": "StructuralLevel"
+  },
+  {
+   "term": "Ebene 3",
+   "kind": "StructuralLevel"
+  },
+  {
+   "term": "Ki (起)",
+   "kind": "KishotenketsuPhase"
+  },
+  {
+   "term": "Shō (承)",
+   "kind": "KishotenketsuPhase"
+  },
+  {
+   "term": "Ten (転)",
+   "kind": "KishotenketsuPhase"
+  },
+  {
+   "term": "Ketsu (結)",
+   "kind": "KishotenketsuPhase"
+  },
+  {
+   "term": "Akt I",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Akt II",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Akt III Phase A",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Vortex 1 (operativ)",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Vortex 2 (ontologisch)",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Coda",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "Geheilte Genesis (Coda)",
+   "kind": "StructuralBlock"
+  },
+  {
+   "term": "linear-aufsteigend mit eingebettetem Vortex",
+   "kind": "NarrativeMode"
+  },
+  {
+   "term": "Heuristics of Integration",
+   "kind": "Storyform"
+  },
+  {
+   "term": "Phoenix Collapse",
+   "kind": "Storyform"
+  },
+  {
+   "term": "Erwachen in der Konstrukt-Stadt",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Der erste Riss",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Bunker-Bau",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Pforten der Verurteilung",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Auge des Sturms",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Echos im Fundament",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Die Stimme im Rauschen",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Die Wächterin",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Wir",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Die erste Brücke",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Mosaik des Selbst",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Stille der Mitte",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Tanz im Garten",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Bruch des Gleichgewichts",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z1-Destabilisierung: Trigger",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z1-Reaktion: Bunker reaktiv",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z1-Korrektur: Wächterin",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z2-Reaktion + AEGIS-Intervention",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z2-Korrektur: Lyons-Kreativität",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z3-Reaktion + Genesis-Flashback (Komp 734)",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Z3-Korrektur: Mosaik als Schöpfung",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Telefon-Stille (K-J-Thema wiederkehrend)",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Wendepunkt-Vorbereitung",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Wendepunkt: Entscheidung zur Befreiung",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Ordinary World: Entschlossenheit",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Call to Adventure: AEGIS' Eskalation / Juna in Gefahr",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Refusal: Letzte Zweifel, Trauma-Echo",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Meeting Mentor: K-J Verbindung Kulmination",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Crossing First Threshold: Angriff auf AEGIS",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Tests, Allies, Enemies: Systemkampf",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Approach Inmost Cave: Vordringen zu AEGIS' Kern",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Konfrontation: Zwei Arten der Kohärenz",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Vortex 1 Beat 4–5: Stille, Übergang",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Der Gärtner / Trügerischer Sieg",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Die Resonanz, die ankommt",
+   "kind": "Chapter"
+  },
+  {
+   "term": "Verlust der Privatheit des Wir",
+   "kind": "StorypointValue"
+  },
+  {
+   "term": "Liebe bleibt — Junas Verbindungs-Modus",
+   "kind": "StorypointValue"
+  },
+  {
+   "term": "Funktion bleibt durch plurale Übernahme",
+   "kind": "StorypointValue"
+  },
+  {
+   "term": "Funktion bleibt — plurale Übernahme",
+   "kind": "StorypointValue"
+  },
+  {
+   "term": "Autonomous Entropic Gatekeeper for Integrity Systems",
+   "kind": "Character"
+  },
+  {
+   "term": "Der tragische Gott",
+   "kind": "Character"
+  },
+  {
+   "term": "Die, die nicht beschrieben wird",
+   "kind": "Character"
+  },
+  {
+   "term": "Das System",
+   "kind": "Character"
+  },
+  {
+   "term": "Kael (Host)",
+   "kind": "Character"
+  },
+  {
+   "term": "Lex (Rationalist)",
+   "kind": "Character"
+  },
+  {
+   "term": "Alex (Beschützer)",
+   "kind": "Character"
+  },
+  {
+   "term": "Rhys (Caregiver)",
+   "kind": "Character"
+  },
+  {
+   "term": "Internal Self-Helper",
+   "kind": "Character"
+  },
+  {
+   "term": "Selene (ISH)",
+   "kind": "Character"
+  },
+  {
+   "term": "Wächterin",
+   "kind": "Character"
+  },
+  {
+   "term": "Nyx (Fight)",
+   "kind": "Character"
+  },
+  {
+   "term": "Kiko (Freeze)",
+   "kind": "Character"
+  },
+  {
+   "term": "Lia (Ambivalent)",
+   "kind": "Character"
+  },
+  {
+   "term": "Isabelle (Sexualisiert)",
+   "kind": "Character"
+  },
+  {
+   "term": "Moros (Kollaps)",
+   "kind": "Character"
+  },
+  {
+   "term": "Argus (Meta-Kognition)",
+   "kind": "Character"
+  },
+  {
+   "term": "Silas (Juna-Echo)",
+   "kind": "Character"
+  },
+  {
+   "term": "Oblivion (AEGIS-Echo)",
+   "kind": "Character"
+  },
+  {
+   "term": "Erinnerungs-Hüterin",
+   "kind": "Character"
+  },
+  {
+   "term": "Löschungs-Exekutive",
+   "kind": "Character"
+  },
+  {
+   "term": "Komp 734",
+   "kind": "Character"
+  },
+  {
+   "term": "AEGIS-plural",
+   "kind": "Character"
+  },
+  {
+   "term": "Wir-AEGIS",
+   "kind": "Character"
+  },
+  {
+   "term": "Wir",
+   "kind": "Character"
+  },
+  {
+   "term": "Fragmentierungsnacht",
+   "kind": "Event"
+  },
+  {
+   "term": "Genese",
+   "kind": "Event"
+  },
+  {
+   "term": "Cluster-Differenzierung",
+   "kind": "Event"
+  },
+  {
+   "term": "Das Rauschen",
+   "kind": "Motif"
+  },
+  {
+   "term": "Form",
+   "kind": "Motif"
+  },
+  {
+   "term": "Klick",
+   "kind": "Motif"
+  },
+  {
+   "term": "Phantom",
+   "kind": "Motif"
+  },
+  {
+   "term": "Resonanz",
+   "kind": "Motif"
+  },
+  {
+   "term": "Apparently Normal Parts",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Die fünf ANPs",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Die fünf EPs",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Emotional Parts",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Drei Sonderfiguren",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "Die zwei Guardians",
+   "kind": "CharacterGroup"
+  },
+  {
+   "term": "KW1",
+   "kind": "Place"
+  },
+  {
+   "term": "KW1 — Logos-Prime",
+   "kind": "Place"
+  },
+  {
+   "term": "Kernwelt 1",
+   "kind": "Place"
+  },
+  {
+   "term": "KW2",
+   "kind": "Place"
+  },
+  {
+   "term": "KW2 — Mnemosyne-Archipel",
+   "kind": "Place"
+  },
+  {
+   "term": "KW3",
+   "kind": "Place"
+  },
+  {
+   "term": "KW3 — Cerberus-Labyrinth",
+   "kind": "Place"
+  },
+  {
+   "term": "KW4",
+   "kind": "Place"
+  },
+  {
+   "term": "KW4 — Möglichkeits-Garten",
+   "kind": "Place"
+  },
+  {
+   "term": "Basisrealität — Köln 2026",
+   "kind": "Place"
+  },
+  {
+   "term": "die vier Kernwelten",
+   "kind": "WorldGroup"
+  },
+  {
+   "term": "Algo-Melancholie",
+   "kind": "Concept"
+  },
+  {
+   "term": "K-J Verbindung",
+   "kind": "Concept"
+  },
+  {
+   "term": "Landauer-Hitze",
+   "kind": "Concept"
+  },
+  {
+   "term": "FM",
+   "kind": "Concept"
+  },
+  {
+   "term": "Naming der finalen Form",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "Junas Erscheinungsmodi-Anker",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "Genesis-Cluster-Zuordnung Akt II",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "MC Symptom/Response in beiden Storyforms",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "Spiegel-Alter-Konzeption (Silas, Oblivion)",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "Moonshine-Boundary",
+   "kind": "OpenQuestion"
+  },
+  {
+   "term": "Post-Vortex-AEGIS-Status",
+   "kind": "OpenQuestion"
+  }
+ ]
+}

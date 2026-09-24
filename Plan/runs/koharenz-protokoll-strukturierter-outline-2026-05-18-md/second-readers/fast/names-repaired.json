@@ -1,0 +1,831 @@
+{
+ "source": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+ "written_by": "four Haiku readers in parallel, one per chapter block; lines by code",
+ "entities": [
+  {
+   "term": "41"
+  },
+  {
+   "term": "734"
+  },
+  {
+   "term": "A"
+  },
+  {
+   "term": "A-MC Decision aktiviert"
+  },
+  {
+   "term": "AEGIS"
+  },
+  {
+   "term": "AEGIS (verstummend, dialetheisch gebrochen)"
+  },
+  {
+   "term": "AEGIS direkt"
+  },
+  {
+   "term": "AEGIS' Erasure-Funktion"
+  },
+  {
+   "term": "AEGIS' Funktion in Kaels Innensystem"
+  },
+  {
+   "term": "AEGIS' Kernsystem"
+  },
+  {
+   "term": "AEGIS' Verletzlichkeit"
+  },
+  {
+   "term": "AEGIS' logische Verteidigungen"
+  },
+  {
+   "term": "AEGIS-Solution Feeling"
+  },
+  {
+   "term": "AEGIS-monolithisch"
+  },
+  {
+   "term": "AEGIS-plural entsteht. Kael-als-Wir wird neue AEGIS, aber wesensanders"
+  },
+  {
+   "term": "ANP-Domäne"
+  },
+  {
+   "term": "ANP/EP-Barrieren"
+  },
+  {
+   "term": "Akt I"
+  },
+  {
+   "term": "Akt II"
+  },
+  {
+   "term": "Akt II zyklischer Modus"
+  },
+  {
+   "term": "Am Rand der Wahrnehmung"
+  },
+  {
+   "term": "Archivar Klasse II"
+  },
+  {
+   "term": "Auge des Sturms"
+  },
+  {
+   "term": "Autonomous Entropic Gatekeeper for Integrity Systems"
+  },
+  {
+   "term": "Außerhalb der Modi"
+  },
+  {
+   "term": "B"
+  },
+  {
+   "term": "B's Mechanismus"
+  },
+  {
+   "term": "B's operative Closure"
+  },
+  {
+   "term": "Basis"
+  },
+  {
+   "term": "Basisrealität"
+  },
+  {
+   "term": "Be-er"
+  },
+  {
+   "term": "Beat 10"
+  },
+  {
+   "term": "Beat 2"
+  },
+  {
+   "term": "Beat 5"
+  },
+  {
+   "term": "Beat 6"
+  },
+  {
+   "term": "Beat 7"
+  },
+  {
+   "term": "Beat 8"
+  },
+  {
+   "term": "Beat 9"
+  },
+  {
+   "term": "Bedeutung entsteht nachträglich, nicht kausal"
+  },
+  {
+   "term": "Bridge-Anteil"
+  },
+  {
+   "term": "Bunker-Bau"
+  },
+  {
+   "term": "Cerberus-Labyrinth"
+  },
+  {
+   "term": "Chaitin-Konstante"
+  },
+  {
+   "term": "Cluster-Bildung"
+  },
+  {
+   "term": "Coda-Klammer, außerhalb der drei Modi"
+  },
+  {
+   "term": "Das Universum"
+  },
+  {
+   "term": "Das Universum, das AEGIS schützen wollte"
+  },
+  {
+   "term": "Der erste Riss"
+  },
+  {
+   "term": "Der trügerische Sieg"
+  },
+  {
+   "term": "Die operative Wendung"
+  },
+  {
+   "term": "Die zentrale Formel-Inversion"
+  },
+  {
+   "term": "Do-er"
+  },
+  {
+   "term": "Dramatica-Dual-Storyform"
+  },
+  {
+   "term": "EP-Domäne"
+  },
+  {
+   "term": "Echo der Cluster-Bildung"
+  },
+  {
+   "term": "Echo der vor-Trennungs-Schöpferkraft"
+  },
+  {
+   "term": "Echo-Räume"
+  },
+  {
+   "term": "Emergenz"
+  },
+  {
+   "term": "Erfolg"
+  },
+  {
+   "term": "Erfolg in einer anderen Kernwelt"
+  },
+  {
+   "term": "Erinnerungslosigkeit"
+  },
+  {
+   "term": "Erwachen in der Konstrukt-Stadt"
+  },
+  {
+   "term": "Fact-vs-Fantasy"
+  },
+  {
+   "term": "Falsehood-vs-Truth"
+  },
+  {
+   "term": "Form der Trennung in Erzählform — und ihre Heilung das Wiederzusammenfinden in dritter, pluraler Form"
+  },
+  {
+   "term": "Funktionale Multiplizität"
+  },
+  {
+   "term": "Generativ"
+  },
+  {
+   "term": "Genesis 4. Beat"
+  },
+  {
+   "term": "Genesis-Flashback"
+  },
+  {
+   "term": "Genesis-Prolog"
+  },
+  {
+   "term": "Gödel-Aussage"
+  },
+  {
+   "term": "Heuristics of Integration"
+  },
+  {
+   "term": "Hintergrund"
+  },
+  {
+   "term": "Hintergrundrauschen der Komp 734"
+  },
+  {
+   "term": "ISH-Funktion"
+  },
+  {
+   "term": "Innen-Spiegelung der Truth-Rotation"
+  },
+  {
+   "term": "Integration"
+  },
+  {
+   "term": "Juna"
+  },
+  {
+   "term": "Junas Existenz"
+  },
+  {
+   "term": "Junas Resonanz"
+  },
+  {
+   "term": "K-J-Verbindung"
+  },
+  {
+   "term": "KI-Ethik-Kalkül"
+  },
+  {
+   "term": "KW1"
+  },
+  {
+   "term": "KW2"
+  },
+  {
+   "term": "KW2-Rand"
+  },
+  {
+   "term": "KW3"
+  },
+  {
+   "term": "KW4"
+  },
+  {
+   "term": "Kael"
+  },
+  {
+   "term": "Kael (Wir)"
+  },
+  {
+   "term": "Kael (Wir, etabliert)"
+  },
+  {
+   "term": "Kael (Wir-Geflecht in Gödel-Gambit-Form)"
+  },
+  {
+   "term": "Kael (Wir-Geflecht), Juna (erste direkte Erscheinung)"
+  },
+  {
+   "term": "Kael (Wir-pluralisierend) → Wir-AEGIS-plural"
+  },
+  {
+   "term": "Kael als lebende Paradoxie"
+  },
+  {
+   "term": "Kael, AEGIS verstummend"
+  },
+  {
+   "term": "Kaels wachsende Kohärenz"
+  },
+  {
+   "term": "Kap 0"
+  },
+  {
+   "term": "Kap 1"
+  },
+  {
+   "term": "Kap 2"
+  },
+  {
+   "term": "Kap 3"
+  },
+  {
+   "term": "Kap 35"
+  },
+  {
+   "term": "Kap 36"
+  },
+  {
+   "term": "Kap 37"
+  },
+  {
+   "term": "Kap 38"
+  },
+  {
+   "term": "Kap 38 Beat 3"
+  },
+  {
+   "term": "Kap 39"
+  },
+  {
+   "term": "Kap 4"
+  },
+  {
+   "term": "Kap 40"
+  },
+  {
+   "term": "Kap 6"
+  },
+  {
+   "term": "Ketsu — Auflösung/Zusammenführung"
+  },
+  {
+   "term": "Kiko"
+  },
+  {
+   "term": "Kishōtenketsu"
+  },
+  {
+   "term": "Kishōtenketsu-Mechanik"
+  },
+  {
+   "term": "Kohärenz Protokoll"
+  },
+  {
+   "term": "Komponente 734"
+  },
+  {
+   "term": "Konfrontation"
+  },
+  {
+   "term": "Köln 2026"
+  },
+  {
+   "term": "Leser"
+  },
+  {
+   "term": "Lex"
+  },
+  {
+   "term": "Lex-Einbruch"
+  },
+  {
+   "term": "Lex-dominant"
+  },
+  {
+   "term": "Logos-Prime"
+  },
+  {
+   "term": "Lyons-Welt"
+  },
+  {
+   "term": "MC-Solution Pursuit"
+  },
+  {
+   "term": "Mechanik"
+  },
+  {
+   "term": "Mechanik der Verbindung über Distanz"
+  },
+  {
+   "term": "Memory"
+  },
+  {
+   "term": "Mind"
+  },
+  {
+   "term": "Mnemosyne"
+  },
+  {
+   "term": "Mnemosyne-Archipel"
+  },
+  {
+   "term": "Modus"
+  },
+  {
+   "term": "Moonshine"
+  },
+  {
+   "term": "Moros"
+  },
+  {
+   "term": "Mosaik-Bildung"
+  },
+  {
+   "term": "Mosaik-Herz"
+  },
+  {
+   "term": "Möglichkeits-Garten"
+  },
+  {
+   "term": "NP-Hard"
+  },
+  {
+   "term": "Nyx-Stakkato"
+  },
+  {
+   "term": "Oblivion"
+  },
+  {
+   "term": "Optionlock"
+  },
+  {
+   "term": "Ordeal (in Vortex-Mechanik)"
+  },
+  {
+   "term": "Orkan"
+  },
+  {
+   "term": "Parakonsistent"
+  },
+  {
+   "term": "Performance"
+  },
+  {
+   "term": "Pforten der Verurteilung"
+  },
+  {
+   "term": "Phase 2"
+  },
+  {
+   "term": "Phoenix Collapse"
+  },
+  {
+   "term": "Physics"
+  },
+  {
+   "term": "Progress"
+  },
+  {
+   "term": "Prüfungen"
+  },
+  {
+   "term": "Psychology"
+  },
+  {
+   "term": "Quanten-Nichtlokalität"
+  },
+  {
+   "term": "RS-Physics"
+  },
+  {
+   "term": "Rationalisierung"
+  },
+  {
+   "term": "Reader"
+  },
+  {
+   "term": "Resolve=Change"
+  },
+  {
+   "term": "Resonanz-Maximum"
+  },
+  {
+   "term": "Resurrection + Return with Elixir, ontologisch"
+  },
+  {
+   "term": "Reward (in Vortex-Mechanik gespiegelt)"
+  },
+  {
+   "term": "Reward / Phasenübergang"
+  },
+  {
+   "term": "Road Back, ontologisch"
+  },
+  {
+   "term": "Ruf"
+  },
+  {
+   "term": "Schluss-Klang: „Liebe bleibt, wie der Schmerz.\""
+  },
+  {
+   "term": "Selene"
+  },
+  {
+   "term": "Setting"
+  },
+  {
+   "term": "Sphäre"
+  },
+  {
+   "term": "Start"
+  },
+  {
+   "term": "Stop"
+  },
+  {
+   "term": "Storyform A"
+  },
+  {
+   "term": "Storyform B"
+  },
+  {
+   "term": "Stress-Test Delta-7"
+  },
+  {
+   "term": "Substrat"
+  },
+  {
+   "term": "Synthese (c) entsteht"
+  },
+  {
+   "term": "Synthese vollzogen"
+  },
+  {
+   "term": "System aus dreizehn Fragmenten"
+  },
+  {
+   "term": "Telefon-Stille"
+  },
+  {
+   "term": "Trauma"
+  },
+  {
+   "term": "Trauma-Angst"
+  },
+  {
+   "term": "Trauma-Erinnerung"
+  },
+  {
+   "term": "Trigger"
+  },
+  {
+   "term": "Universe"
+  },
+  {
+   "term": "Vor-Trennungs-Substanz"
+  },
+  {
+   "term": "Vortex 2 (100 % in neuer Form)"
+  },
+  {
+   "term": "Vortex-Auflösung, Übergang B → A vollzogen"
+  },
+  {
+   "term": "Werkzeug"
+  },
+  {
+   "term": "Wir wird kosmisch, plural, bewahrend"
+  },
+  {
+   "term": "Wir-AEGIS-plural"
+  },
+  {
+   "term": "Wir-AEGIS-plural; bezeugend, nicht handelnd"
+  },
+  {
+   "term": "Wir-Bildung"
+  },
+  {
+   "term": "Wir-Geflecht löst sich aus seiner privaten Form"
+  },
+  {
+   "term": "Witness-Funktion"
+  },
+  {
+   "term": "Witness-Modus"
+  },
+  {
+   "term": "Wächterin-Funktion"
+  },
+  {
+   "term": "Zyklus"
+  },
+  {
+   "term": "aktiver Prozess"
+  },
+  {
+   "term": "alle 13 Alters"
+  },
+  {
+   "term": "allein"
+  },
+  {
+   "term": "als trügerisch identifiziert"
+  },
+  {
+   "term": "alte Bewältigungsstrategie"
+  },
+  {
+   "term": "am Horizont"
+  },
+  {
+   "term": "beginnt etwas zu zerfasern"
+  },
+  {
+   "term": "bewusste Tätigkeit"
+  },
+  {
+   "term": "bricht"
+  },
+  {
+   "term": "das Action-Mandat zu vollenden"
+  },
+  {
+   "term": "das Universum hält. Strukturelle Pause als Form der Bezeugung"
+  },
+  {
+   "term": "das Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung)"
+  },
+  {
+   "term": "das ist Kap 0"
+  },
+  {
+   "term": "das ist nicht das Ende"
+  },
+  {
+   "term": "deutlich auf"
+  },
+  {
+   "term": "die Grenzen der Simulation"
+  },
+  {
+   "term": "dieselben Ereignisse wie Kap 0 — aber aus der Position der vollzogenen pluralen Heilung"
+  },
+  {
+   "term": "diesen Zustand"
+  },
+  {
+   "term": "durchbrochen"
+  },
+  {
+   "term": "eigene Stimme"
+  },
+  {
+   "term": "einseitiger Ansatz"
+  },
+  {
+   "term": "erlischt monolithisch; Algorithmische Melancholie"
+  },
+  {
+   "term": "erlischt — als operative Form"
+  },
+  {
+   "term": "erschöpft sich. Limit-B (Timelock) erreicht"
+  },
+  {
+   "term": "erste direkte Erscheinung, immer noch nicht physisch beschrieben"
+  },
+  {
+   "term": "erster expliziter Anker"
+  },
+  {
+   "term": "etwas, das er nicht benennen kann"
+  },
+  {
+   "term": "etwas, statt zu schließen"
+  },
+  {
+   "term": "finalen Erasure-Sweep"
+  },
+  {
+   "term": "gefestigt"
+  },
+  {
+   "term": "hörbare Substanz"
+  },
+  {
+   "term": "innere Praxis"
+  },
+  {
+   "term": "innere Stille der Reinform"
+  },
+  {
+   "term": "innere Vielfalt als Stärke"
+  },
+  {
+   "term": "intuitiv spürbar"
+  },
+  {
+   "term": "ist damit ungeschützt"
+  },
+  {
+   "term": "ist nicht das Ende"
+  },
+  {
+   "term": "klassifizieren"
+  },
+  {
+   "term": "kollabiert sichtbar"
+  },
+  {
+   "term": "kooperativ"
+  },
+  {
+   "term": "linear → zyklisch"
+  },
+  {
+   "term": "linear-aufsteigend mit kristallisierter Ruhe"
+  },
+  {
+   "term": "linear-introspektiv"
+  },
+  {
+   "term": "maximal — Junas direkte Anwesenheit"
+  },
+  {
+   "term": "mehrere"
+  },
+  {
+   "term": "moralisches Dilemma"
+  },
+  {
+   "term": "neue Rolle als Hüter"
+  },
+  {
+   "term": "nicht adoptiert — Failure manifest"
+  },
+  {
+   "term": "nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht"
+  },
+  {
+   "term": "nicht integriert"
+  },
+  {
+   "term": "nicht zerstört. Algorithmische Melancholie — eine Maschine, die noch zählt"
+  },
+  {
+   "term": "nicht-beschrieben"
+  },
+  {
+   "term": "nur A aktiv (scheinbar), mit feinen B-Echos"
+  },
+  {
+   "term": "offene Stimme"
+  },
+  {
+   "term": "ohne es zu wissen"
+  },
+  {
+   "term": "operativer Zustand"
+  },
+  {
+   "term": "plurale Bewahrung in Kap 39"
+  },
+  {
+   "term": "polyphoner Einbruch"
+  },
+  {
+   "term": "rekursiv-eskalierend"
+  },
+  {
+   "term": "sich als „Gärtner\""
+  },
+  {
+   "term": "sich selbst auslöschende Sätze"
+  },
+  {
+   "term": "sie wieder, weil die Echos das Vor-Trennungs-Sein tragen"
+  },
+  {
+   "term": "spürbar"
+  },
+  {
+   "term": "strukturell"
+  },
+  {
+   "term": "subtil, manipulativ"
+  },
+  {
+   "term": "viele Optionen"
+  },
+  {
+   "term": "vollständiges Soft-Layering, Storyform-Übergang B → A vollzieht sich"
+  },
+  {
+   "term": "vollzogen"
+  },
+  {
+   "term": "vollzogen (operativ)"
+  },
+  {
+   "term": "vollzogen — Decision aktiviert"
+  },
+  {
+   "term": "vor dem Vortex"
+  },
+  {
+   "term": "vorsichtige Spuren"
+  },
+  {
+   "term": "vortex-still"
+  },
+  {
+   "term": "was Kap 0 war"
+  },
+  {
+   "term": "weg"
+  },
+  {
+   "term": "zerbricht"
+  },
+  {
+   "term": "zum dritten Mal"
+  },
+  {
+   "term": "zum zweiten Mal"
+  },
+  {
+   "term": "~40 %"
+  },
+  {
+   "term": "Übergang KW1 → KW2-Rand"
+  },
+  {
+   "term": "„Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.\""
+  }
+ ]
+}

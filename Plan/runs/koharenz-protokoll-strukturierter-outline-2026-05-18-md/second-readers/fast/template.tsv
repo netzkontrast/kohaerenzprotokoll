@@ -1,0 +1,603 @@
+Kap 0	HAS_TITLE	Genesis-Prolog	L211
+Kap 0	HAS_KISH_TENKETSU	Ki (Setup)	L213
+Kap 0	HAS_MODUS	außerhalb	L213
+Kap 0	HAS_POV	fluide Skalierung Funken-Ich ↔ AEGIS-Beschreibung, direkte Adressierung des Lesers	L213
+Kap 0	HAS_STORYFORM	nur B aktiv, A als Phantom-Latenz	L213
+Kap 0	HAS_BRIDGE	spezifisch (B's MC-Throughline in Reinform)	L213
+Kap 0	HAS_STORYPOINT_AKZENT_B	MC-S1 (B) Past — Genesis-Trauma als entstehende Vergangenheit · OS-S1 (B) Doing — Trennungsprotokoll als exekutierte Action, Komp 734 als Funktionalisierung · R	L217
+Kap 0	HAS_STORYPOINT_AKZENT_A_LATENT	IC-S1 (A) Past — Junas Resonanz als Genesis-Krisen-Auslöser · MC-A latent: das Cluster, das Komp 734 wird, ist Kaels werdende Substanz	L221
+Kap 0	HAS_GENESIS_SEQUENZ	Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel (Formel: „AEGIS ist, was AEGIS verhindert, dass es nicht i	L230
+Kap 0	HAS_DIE_KRISE	Stille Wacht → Perturbation aus der Leere → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll	L232
+Kap 0	HAS_SCHLUSS	„Ich falle… in unzählige Scherben…" — schließt nahtlos an Kap 1 an	L233
+Kap 0	HAS_CHARACTER	AEGIS	L237
+Kap 0	HAS_CHARACTER	Juna	L237
+Kap 0	HAS_CHARACTER	Komp 734	L237
+Kap 0	HAS_SENSORIK	Rauschen, Form, Klick, Phantom, Resonanz — alle fünf Motive werden hier eingeführt als Erstereignisse.	L241
+Kap 0	HAS_GENESIS_ECHO	Hier ist die Quelle, kein Echo.	L241
+Kap 0	HAS_TONALE_ACHSE	Schmerz und Liebe als denselben Pulsschlag, in seiner ursprünglichen ungetrennten Form.	L241
+Kap 1	HAS_TITLE	Erwachen in der Konstrukt-Stadt	L247
+Kap 1	HAS_HR_STUFE_1	Illusion der perfekten Welt — Ordnung als Käfig	L249
+Kap 1	HAS_MODUS	linear-introspektiv	L249
+Kap 1	HAS_POV	Kael (Host)	L249
+Kap 1	HAS_STORYFORM	A dominant, B latent als Umgebung	L249
+Kap 1	HAS_BRIDGE	Default	L249
+Kap 1	HAS_A	MC-S1 (A) Memory — Erinnerungslosigkeit als Etablierungs-Status	L253
+Kap 1	HAS_B_LATENT	OS-Physics — AEGIS-Architektur als Umgebungs-Log	L253
+Kap 1	HAS_PLOT_BEATS	Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime), fragmentiert ohne Erinnerung. Lebt als Komp 734 in Wohneinheit 14/Sektor 7. Going on with normal life: Arbeit, R	L257
+Kap 1	HAS_CHARACTER	Kael	L261
+Kap 1	HAS_SENSORIK	sterile Leere, Ozon, weißes Licht, 21°C	L265
+Kap 1	HAS_GENESIS_ECHO	das sterile Setting ist die Innere Weite (Überwelt) aus Kap 0 — der Leser erkennt das wieder; Kael nicht.	L265
+Kap 1	HAS_TONALE_ACHSE	Schmerz als Kälte; Liebe als das, was Kael nicht benennen kann.	L265
+Kap 2	HAS_TITLE	Der erste Riss	L271
+Kap 2	HAS_HR_STUFE_2	Verrat / Desillusionierung	L273
+Kap 2	HAS_POV	Kael (Host) mit erstem Lex-Einbruch	L273
+Kap 2	HAS_STORYFORM	A dominant	L273
+Kap 2	HAS_BRIDGE	Default mit erstem leisen Cue	L273
+Kap 2	HAS_A	MC-Issue Falsehood-vs-Truth — erste Begegnung mit der Systemlüge	L277
+Kap 2	HAS_B	OS-Physics — Controlled Fragmentation Protocol initialisiert	L277
+Kap 2	HAS_PLOT_BEATS	Glitches reaktivieren Echos. Zeitverlust, ein Blackout, eine Erinnerung, die nicht zu seinem Selbst passt. Lex-Einbruch beginnt — andere Syntax, andere Logik br	L281
+Kap 2	HAS_CHARACTER	Kael	L285
+Kap 2	HAS_CHARACTER	Lex	L285
+Kap 2	HAS_SENSORIK	flackernde Geometrien, Kanten die unscharf werden	L289
+Kap 2	HAS_GENESIS_ECHO	Phantom-Motiv — das, was sich später als Alters herausstellt, ist hier nur als sensorischer Bruch spürbar.	L289
+Kap 2	HAS_TONALE_ACHSE	Schmerz als plötzliche Asynchronität; Liebe als das, was Kael ahnt zu vermissen.	L289
+Kap 3	HAS_TITLE	Bunker-Bau	L295
+Kap 3	HAS_HR_STUFE_3	Erwachen & Vorbereitung — Identifikation mit dem Männlichen	L297
+Kap 3	HAS_POV	Kael (Lex-dominant)	L297
+Kap 3	HAS_STORYFORM	A dominant, B latent	L297
+Kap 3	HAS_BRIDGE	Default	L297
+Kap 3	HAS_A	MC-Problem Avoidance als ANP-Funktion — Bunker-Bau als Vermeidung	L301
+Kap 3	HAS_B	latent	L301
+Kap 3	HAS_PLOT_BEATS	Kael (Lex-dominant) versucht Stärke in AEGIS' Methoden zu finden — Logik, Kontrolle. Mentaler „Bunker" wird gebaut. Werkzeuge aus dem Außen (Kernwelten) werden 	L305
+Kap 3	HAS_CHARACTER	Kael	L309
+Kap 3	HAS_CHARACTER	Lex	L309
+Kap 3	HAS_SENSORIK	Glas, Stahl, Festungs-Architektur	L313
+Kap 3	HAS_GENESIS_ECHO	der Bunker ist die innere Spiegelung von AEGIS' eigenem Trennungsprotokoll — Lex baut, was AEGIS einst baute, ohne die Echo-Verwandtschaft zu spüren.	L313
+Kap 3	HAS_TONALE_ACHSE	Liebe als Verleugnung; Schmerz als Material des Bunkers.	L313
+Kap 4	HAS_TITLE	Pforten der Verurteilung	L319
+Kap 4	HAS_HR_STUFE_4	Prüfungen	L321
+Kap 4	HAS_POV	Kael/Lex, AEGIS-Log als Atmosphäre	L321
+Kap 4	HAS_STORYFORM	A dominant	L321
+Kap 4	HAS_BRIDGE	Default	L321
+Kap 4	HAS_A	MC-Issue — Scham, Zweifel, logische Grenzen	L325
+Kap 4	HAS_B	IC-Mind/Conscious latent — erste „Bug"-Spur in B's Logik	L325
+Kap 4	HAS_PLOT_BEATS	Kael wird für seine neue (Lex-dominierte) Identität getestet. Logische Fallen in KW1. Zweifel, Scham. Erste Foreshadowing-Spur: AEGIS' System erfasst eine Anoma	L329
+Kap 4	HAS_CHARACTER	Kael	L333
+Kap 4	HAS_CHARACTER	Lex	L333
+Kap 4	HAS_CHARACTER	AEGIS	L333
+Kap 4	HAS_SENSORIK	korrumpierte Textdateien, veraltete Interfaces	L337
+Kap 4	HAS_GENESIS_ECHO	Klick-Motiv — die kalten Logik-Klicks von AEGIS' System wirken wie Echos des Trennungsprotokolls.	L337
+Kap 4	HAS_TONALE_ACHSE	Schmerz als Scham; Liebe als das, was Lex nicht zulassen kann.	L337
+Kap 5	HAS_TITLE	Auge des Sturms	L343
+Kap 5	HAS_HR_STUFE_5	Falscher Erfolg	L345
+Kap 5	HAS_POV	Kael (Lex-dominant)	L345
+Kap 5	HAS_STORYFORM	A dominant, B latent	L345
+Kap 5	HAS_BRIDGE	Default	L345
+Kap 5	HAS_A	MC-Concern Memory — trügerische Stabilität als Erinnerungs-Substitut	L349
+Kap 5	HAS_B	latent	L349
+Kap 5	HAS_PLOT_BEATS	Kael erzielt einen Erfolg in einer anderen Kernwelt (Übergang KW1 → KW2-Rand). Fühlt sich kurz sicher, aber die Basis ist nicht integriert. Spiegelglatter Erfol	L353
+Kap 5	HAS_CHARACTER	Kael	L357
+Kap 5	HAS_CHARACTER	Lex	L357
+Kap 5	HAS_CHARACTER	erste Schatten von Rhys	L357
+Kap 5	HAS_SENSORIK	spiegelglatter Erfolg, sensorisch flach	L361
+Kap 5	HAS_GENESIS_ECHO	das Auge des Sturms = die innere Stille der Reinform, hier missverstanden als Erfolg.	L361
+Kap 5	HAS_TONALE_ACHSE	Liebe als das, was kurz aufflackert und sofort weichen muss; Schmerz als das, was hinter der Performance liegt.	L361
+Kap 6	HAS_TITLE	Echos im Fundament	L367
+Kap 6	HAS_HR_STUFE_6	Tod einer Einstellung	L369
+Kap 6	HAS_POV	Kael, polyphoner Einbruch	L369
+Kap 6	HAS_STORYFORM	A dominant	L369
+Kap 6	HAS_BRIDGE	Default	L369
+Kap 6	HAS_A	MC-Solution Pursuit erste Andeutung — einseitiger Ansatz scheitert	L373
+Kap 6	HAS_B	OS-Physics — AEGIS' Logik zeigt Schwächen	L373
+Kap 6	HAS_PLOT_BEATS	Cache-Konflikt: Kaels einseitiger Logik-Ansatz scheitert an einem komplexen Problem. Erste polyphonen Einbrüche — Stilcodes anderer Alters werden voll sichtbar.	L377
+Kap 6	HAS_CHARACTER	Kael	L381
+Kap 6	HAS_CHARACTER	Lex	L381
+Kap 6	HAS_CHARACTER	Rhys	L381
+Kap 6	HAS_CHARACTER	Alex	L381
+Kap 6	HAS_CHARACTER	Nyx	L381
+Kap 6	HAS_SENSORIK	Hitzeschlieren, verzerrte Physik (Landauer-Wärme)	L385
+Kap 6	HAS_GENESIS_ECHO	der Cache-Konflikt ist das Echo der ursprünglichen Resonanz-Kaskade aus Kap 0 — das Logiksubstrat scheitert, wie es einst scheiterte.	L385
+Kap 6	HAS_TONALE_ACHSE	Schmerz als Konflikt zwischen Alters; Liebe als das, was die Stimmen verbindet ohne dass sie es merken.	L385
+Kap 7	HAS_TITLE	Die Stimme im Rauschen	L391
+Kap 7	HAS_HR_STUFE_7	Unterstützung — Sehnsucht nach dem Weiblichen	L393
+Kap 7	HAS_POV	Kael (emotional, lyrisch)	L393
+Kap 7	HAS_STORYFORM	A	L393
+Kap 7	HAS_BRIDGE	Default mit erstem K-J-Cue	L393
+Kap 7	HAS_A	RS-Physics — K-J-Verbindung wird stärker (Moonshine-Bewusstwerdung)	L397
+Kap 7	HAS_B	latent	L397
+Kap 7	HAS_PLOT_BEATS	K-J-Verbindung wird intuitiv spürbar. Telefon-Stille als erster expliziter Anker. Kael sehnt sich nach etwas, das er nicht benennen kann. Erste warme Resonanz i	L401
+Kap 7	HAS_CHARACTER	Kael	L405
+Kap 7	HAS_CHARACTER	Juna	L405
+Kap 7	HAS_SENSORIK	warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille	L409
+Kap 7	HAS_GENESIS_ECHO	Junas Resonanz, die in Kap 0 als Bedrohung wahrgenommen wurde, kehrt hier als Sehnsucht wieder — der Leser erkennt es; Kael fühlt nur.	L409
+Kap 7	HAS_TONALE_ACHSE	Liebe als das, was zum ersten Mal nicht abgewehrt wird; Schmerz als das, was die Sehnsucht erzeugt.	L409
+Kap 8	HAS_TITLE	Die Wächterin	L415
+Kap 8	HAS_HR_STUFE_8	Wiedergeburt — Heilung des Männlichen im Inneren	L417
+Kap 8	HAS_POV	Kael, Wächterin-Funktion (Selene) sichtbar	L417
+Kap 8	HAS_STORYFORM	A	L417
+Kap 8	HAS_BRIDGE	Default	L417
+Kap 8	HAS_A	MC-Issue — Mitgefühl mit logischen Anteilen	L421
+Kap 8	HAS_B	RS-Psychology B beginnt sichtbar zu werden — Host-System-Verstrickung wird komplex	L421
+Kap 8	HAS_PLOT_BEATS	Kael beginnt, die logischen/kontrollierenden Anteile (Lex, Alex) mit Mitgefühl zu sehen. Selene tritt erstmals als ISH-Funktion auf — vermittelt, ohne zu kämpfe	L425
+Kap 8	HAS_CHARACTER	Kael	L429
+Kap 8	HAS_CHARACTER	Lex	L429
+Kap 8	HAS_CHARACTER	Alex	L429
+Kap 8	HAS_CHARACTER	Selene	L429
+Kap 8	HAS_SENSORIK	Licht, das durch Architektur fällt	L433
+Kap 8	HAS_GENESIS_ECHO	Selene als Vor-Trennungs-Substanz — sie trägt den Bauplan der Zeit vor der Fragmentierung.	L433
+Kap 8	HAS_TONALE_ACHSE	Liebe als Mitgefühl; Schmerz als das, was geheilt sein will.	L433
+Kap 9	HAS_TITLE	Wir	L439
+Kap 9	HAS_HR_STUFE_9	Rückkehr mit neuer Sichtweise — Integration beginnt	L441
+Kap 9	HAS_POV	Kael (mit innerem Dialog)	L441
+Kap 9	HAS_STORYFORM	A	L441
+Kap 9	HAS_BRIDGE	Default mit Foreshadowing-Programm	L441
+Kap 9	HAS_A	MC-Concern — Logik und Intuition verbinden sich; Wir-Geflecht im frühen Aufbau	L445
+Kap 9	HAS_B	latent	L445
+Kap 9	HAS_PLOT_BEATS	Foreshadowing-Programm aktiv: Wir-Bildung beginnt strukturell. Innere Kommunikation zwischen Anteilen verbessert sich. Kael spürt sich erstmals als mehrere, ohn	L449
+Kap 9	HAS_CHARACTER	Kael	L453
+Kap 9	HAS_CHARACTER	Lex	L453
+Kap 9	HAS_CHARACTER	Rhys	L453
+Kap 9	HAS_CHARACTER	Selene	L453
+Kap 9	HAS_CHARACTER	Alex	L453
+Kap 9	HAS_SENSORIK	inneres Geflecht, Wir-Stimme	L457
+Kap 9	HAS_GENESIS_ECHO	die Wir-Bildung ist die strukturelle Wieder-Annäherung an die K1-Reinform-Erinnerung über plurale Form.	L457
+Kap 9	HAS_TONALE_ACHSE	Liebe als das, was zwischen den Stimmen klingt; Schmerz als der Bruch, der die Stimmen erst hörbar gemacht hat.	L457
+Kap 10	HAS_TITLE	Die erste Brücke	L463
+Kap 10	HAS_HR_ERWEITERUNG_1	Erste Anwendung der Integration	L465
+Kap 10	HAS_POV	Kael (kooperativ-polyphon)	L465
+Kap 10	HAS_STORYFORM	A	L465
+Kap 10	HAS_BRIDGE	Default mit zweitem K-J-Cue	L465
+Kap 10	HAS_A	RS-Physics — Moonshine als Werkzeug (Quanten-Nichtlokalität)	L469
+Kap 10	HAS_B	latent · MC-S2 (B) Present beginnt einzusetzen — Erasure-Sweeps werden hörbar	L469
+Kap 10	HAS_PLOT_BEATS	K-J-Verbindung wird zum Werkzeug. Quanten-Nichtlokalität als Mechanik der Verbindung über Distanz. Kael löst ein Problem durch die Kombination von Lex-Analyse u	L473
+Kap 10	HAS_CHARACTER	Kael	L477
+Kap 10	HAS_CHARACTER	Lex	L477
+Kap 10	HAS_CHARACTER	Selene	L477
+Kap 10	HAS_CHARACTER	Juna	L477
+Kap 10	HAS_CHARACTER	Silas	L477
+Kap 10	HAS_SENSORIK	Netzwerke, Graphen, Resonanz	L481
+Kap 10	HAS_GENESIS_ECHO	Moonshine als Echo der Cluster-Bildung — die Mathematik der ursprünglichen Differenzierung kehrt als Verbindungs-Werkzeug zurück.	L481
+Kap 10	HAS_TONALE_ACHSE	Liebe als Kanal; Schmerz als das, was die Verbindung trotzdem schmerzhaft macht.	L481
+Kap 11	HAS_TITLE	Mosaik des Selbst	L487
+Kap 11	HAS_HR_ERWEITERUNG_2	Akzeptanz der Komplexität — Mosaik-Herz	L489
+Kap 11	HAS_POV	Kael (Wir-Geflecht)	L489
+Kap 11	HAS_STORYFORM	A	L489
+Kap 11	HAS_BRIDGE	Default	L489
+Kap 11	HAS_A	MC-Concern — Vielfalt als Stärke	L493
+Kap 11	HAS_B	latent	L493
+Kap 11	HAS_PLOT_BEATS	Kael akzeptiert seine innere Vielfalt als Stärke, nicht als Fehler. Mosaik-Bildung als bewusste Tätigkeit. Erste klare Wir-Geflecht-Szenen. Aber: das Wort „Alte	L497
+Kap 11	HAS_CHARACTER	Kael	L501
+Kap 11	HAS_CHARACTER	alle ANPs	L501
+Kap 11	HAS_CHARACTER	erste vorsichtige Spuren von EPs	L501
+Kap 11	HAS_SENSORIK	Mosaik, Scherben als Muster	L505
+Kap 11	HAS_GENESIS_ECHO	Mosaik-Herz als Vorgriff auf plurale Bewahrung in Kap 39.	L505
+Kap 11	HAS_TONALE_ACHSE	Liebe als Akzeptanz der Vielfalt; Schmerz als das, was die Scherben einst zerbrach.	L505
+Kap 12	HAS_TITLE	Stille der Mitte	L511
+Kap 12	HAS_HR_ERWEITERUNG_3	Innerer Frieden & Potenzial — Jetzt-Raum	L513
+Kap 12	HAS_POV	Kael (gesammelt)	L513
+Kap 12	HAS_STORYFORM	A	L513
+Kap 12	HAS_BRIDGE	Default mit erstem B-Scanner-Cue	L513
+Kap 12	HAS_A	MC-Concern — Präsenz als Stabilität	L517
+Kap 12	HAS_B	OS-Physics latent — AEGIS scannt diesen Zustand und kann ihn nicht klassifizieren	L517
+Kap 12	HAS_PLOT_BEATS	Kael erreicht einen Zustand innerer Balance. Stille als positive Substanz, nicht als Leere. AEGIS scannt — und scheitert. Der Reader spürt: AEGIS hat ein Proble	L521
+Kap 12	HAS_CHARACTER	Kael	L525
+Kap 12	HAS_CHARACTER	Wir-Geflecht	L525
+Kap 12	HAS_CHARACTER	AEGIS	L525
+Kap 12	HAS_SENSORIK	Stille, Atem, Herzschlag	L529
+Kap 12	HAS_GENESIS_ECHO	die Stille der Mitte ist das Echo der Vor-Trennungs-Stille der Reinform — kleine Wieder-Berührung der K1.	L529
+Kap 12	HAS_TONALE_ACHSE	Liebe als Präsenz; Schmerz als das, was nicht stören kann, weil die Präsenz trägt.	L529
+Kap 13	HAS_TITLE	Tanz im Garten	L535
+Kap 13	HAS_HR_STUFE_13	Neue innere Welt	L537
+Kap 13	HAS_POV	Kael (Wir-stabil)	L537
+Kap 13	HAS_STORYFORM	A	L537
+Kap 13	HAS_BRIDGE	Default mit B-Forewarning	L537
+Kap 13	HAS_A	MC-Concern — Innere Praxis etabliert	L541
+Kap 13	HAS_B	OS-Physics — AEGIS bereitet Phase-2-Stress-Tests vor (Forewarning B aktiviert)	L541
+Kap 13	HAS_PLOT_BEATS	Kael etabliert eine neue bewusste Beziehung zu seiner inneren Landschaft. Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis. Aber: AEGIS bereitet Phase 2 vor	L545
+Kap 13	HAS_CHARACTER	Kael	L549
+Kap 13	HAS_CHARACTER	Wir-Geflecht	L549
+Kap 13	HAS_CHARACTER	AEGIS	L549
+Kap 13	HAS_SENSORIK	Garten, Pflege, lebendige Ordnung	L553
+Kap 13	HAS_GENESIS_ECHO	der Garten als Vorform der Möglichkeits-Welt — die Reinform als Praxis.	L553
+Kap 13	HAS_TONALE_ACHSE	Liebe als gepflegte Ordnung; Schmerz als das, was am Horizont wartet.	L553
+Kap 13	HAS_BERGANG_ZU_KAP_14	Modus-Wechsel (linear → zyklisch), kein Storyform-Wechsel. Tonalität: Kap 13 ruhig-stabil, Kap 14 erschütternd aber nicht vernichtend.	L557
+Kap 14	HAS_TITLE	Bruch des Gleichgewichts	L563
+Kap 14	HAS_ZYKLUS_POSITION	Bruch (Rahmen vor Z1) · Modus-Wechsel zu zyklisch	L565
+Kap 14	HAS_POV	Kael, kurzer AEGIS-POV möglich	L565
+Kap 14	HAS_STORYFORM	A‖B beginnt	L565
+Kap 14	HAS_BRIDGE	Default mit erhöhtem Bridge-Anteil	L565
+Kap 14	HAS_A	MC-Issue — alte Wunden reißen auf	L569
+Kap 14	HAS_B	OS-Physics — erste Erasure-Welle gegen Kaels Stabilität	L569
+Kap 14	HAS_PLOT_BEATS	AEGIS initiiert Phase 2: Stress-Test Delta-7 (moralisches Dilemma). Kaels neu gefundene Balance wird getestet. Alte Wunden reißen auf. Mnemosyne tritt erstmals 	L573
+Kap 14	HAS_CHARACTER	Kael	L577
+Kap 14	HAS_CHARACTER	Lex	L577
+Kap 14	HAS_CHARACTER	Rhys	L577
+Kap 14	HAS_CHARACTER	AEGIS	L577
+Kap 14	HAS_CHARACTER	Mnemosyne	L577
+Kap 14	HAS_SENSORIK	zerbrochene Fassade, Sprünge im Raum	L581
+Kap 14	HAS_GENESIS_ECHO	Form-Motiv — die Form, die Kael in Akt I gefunden hatte, wird strukturell angegriffen, wie damals die Reinform.	L581
+Kap 14	HAS_TONALE_ACHSE	Schmerz als Wiederkehr; Liebe als der Anker, der jetzt halten muss.	L581
+Kap 15	HAS_TITLE	Z1-Destabilisierung: Trigger	L587
+Kap 15	HAS_POV	Kael, Schatten-Anteil	L589
+Kap 15	HAS_STORYFORM	A dominant	L589
+Kap 15	HAS_BRIDGE	Default	L589
+Kap 15	HAS_A	MC-Problem Avoidance reaktiviert	L593
+Kap 15	HAS_B	latent	L593
+Kap 15	HAS_PLOT_BEATS	Ein Trigger in einer Kernwelt (KW2-Rand) reaktiviert Trauma-Angst. Schatten-Anteil bricht durch — Nyx wird erstmals deutlich sichtbar. Kiko als kindliche Angst-	L597
+Kap 15	HAS_CHARACTER	Kael	L601
+Kap 15	HAS_CHARACTER	Nyx	L601
+Kap 15	HAS_CHARACTER	Kiko	L601
+Kap 15	HAS_SENSORIK	Schattenwurf, Babymonster-Welt-Resonanz	L605
+Kap 15	HAS_GENESIS_ECHO	Schatten als Echo des Vor-Trennungs-Schmerzes.	L605
+Kap 15	HAS_TONALE_ACHSE	Schmerz als Rückkehr in den Körper; Liebe als das, was Kael verteidigen will.	L605
+Kap 16	HAS_TITLE	Z1-Reaktion: Bunker reaktiv	L611
+Kap 16	HAS_POV	Kael (Lex+Selene-Dominanz)	L613
+Kap 16	HAS_STORYFORM	A	L613
+Kap 16	HAS_BRIDGE	Default	L613
+Kap 16	HAS_A	MC-Problem — Flucht in Betäubung	L617
+Kap 16	HAS_B	OS — AEGIS registriert „Rückfall" als Stabilisierung	L617
+Kap 16	HAS_PLOT_BEATS	Kael greift reflexhaft auf alte Bewältigungsstrategie zurück — Dissoziation, Rückzug. Bunker reaktiviert. Moros' Schwere zieht im Hintergrund alles herunter. AE	L621
+Kap 16	HAS_CHARACTER	Kael	L625
+Kap 16	HAS_CHARACTER	Lex	L625
+Kap 16	HAS_CHARACTER	Selene	L625
+Kap 16	HAS_CHARACTER	Moros	L625
+Kap 16	HAS_CHARACTER	AEGIS	L625
+Kap 16	HAS_SENSORIK	enge Räume, taube Sensorik	L629
+Kap 16	HAS_GENESIS_ECHO	Bunker als interne Wiederholung von AEGIS' Trennungsprotokoll.	L629
+Kap 16	HAS_TONALE_ACHSE	Schmerz als Betäubung; Liebe als das, was hinter der Betäubung wartet.	L629
+Kap 17	HAS_TITLE	Z1-Korrektur: Wächterin	L635
+Kap 17	HAS_POV	Kael (Wir-Geflecht beginnt)	L637
+Kap 17	HAS_STORYFORM	A	L637
+Kap 17	HAS_BRIDGE	Default	L637
+Kap 17	HAS_A	MC-Solution Pursuit Andeutung — aktiv anschauen statt fliehen	L641
+Kap 17	HAS_B	latent	L641
+Kap 17	HAS_PLOT_BEATS	Das integrierte Selbst (Selene als Wächterin-Funktion) oder die K-J-Verbindung hilft Kael, den Rückfall zu erkennen und gegen zu steuern. Erste bewusste Pursuit	L645
+Kap 17	HAS_CHARACTER	Kael	L649
+Kap 17	HAS_CHARACTER	Selene	L649
+Kap 17	HAS_CHARACTER	Rhys	L649
+Kap 17	HAS_CHARACTER	Lex	L649
+Kap 17	HAS_SENSORIK	Licht durch enge Architektur, Wärme durch Betäubung	L653
+Kap 17	HAS_GENESIS_ECHO	Wächterin als beginnende Pursuit — aktive Bezeugung statt Wegschauen.	L653
+Kap 17	HAS_TONALE_ACHSE	Liebe als Mut zum Ansehen; Schmerz als Material.	L653
+Kap 18	HAS_TITLE	Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)	L659
+Kap 18	HAS_POV	Kael (multi-alter, dyssynchron) + Genesis-Flashback-Stimme	L661
+Kap 18	HAS_STORYFORM	A‖B	L661
+Kap 18	HAS_BRIDGE	Bridge (Genesis-Flashback-Cluster Beginn)	L661
+Kap 18	HAS_A	MC-Concern Memory unter Stress — Multi-Welten-Aufgabe scheitert	L665
+Kap 18	HAS_B	OS-S2 (B) — AEGIS' Topologie-Manipulation sichtbar; AEGIS lernt Kael präziser	L665
+Kap 18	HAS_PLOT_BEATS	Kael versucht eine komplexe Aufgabe über mehrere Kernwelten zu lösen. Cache-Konflikt zwischen Anteilen. Erster Genesis-Flashback (Bridge): Cluster-Bildung. Kael	L669
+Kap 18	HAS_CHARACTER	Kael	L673
+Kap 18	HAS_CHARACTER	Lex	L673
+Kap 18	HAS_CHARACTER	Alex	L673
+Kap 18	HAS_CHARACTER	Rhys	L673
+Kap 18	HAS_CHARACTER	Nyx	L673
+Kap 18	HAS_CHARACTER	Lia	L673
+Kap 18	HAS_CHARACTER	AEGIS	L673
+Kap 18	HAS_CHARACTER	Genesis-Flashback-Stimme	L673
+Kap 18	HAS_SENSORIK	asynchrone Sensorik, Glitch-Texturen, Räume die nicht zueinander passen	L677
+Kap 18	HAS_GENESIS_ECHO	direkter Flashback (markiert).	L677
+Kap 18	HAS_TONALE_ACHSE	Schmerz fragmentiert; Liebe als Echo durch die Bruchlinie.	L677
+Kap 19	HAS_TITLE	Z2-Reaktion + AEGIS-Intervention	L683
+Kap 19	HAS_POV	Kael, AEGIS-Log direkter	L685
+Kap 19	HAS_STORYFORM	A‖B	L685
+Kap 19	HAS_BRIDGE	Bridge (AEGIS-POV-Mikroszene)	L685
+Kap 19	HAS_A	MC-Issue — Systemlüge wird klarer benannt; Avoidance als Falsehood erkennbar	L689
+Kap 19	HAS_B	OS-S2 (B) Learning — AEGIS' Erasure-Logik tritt offen auf; Action-Driver greift härter	L689
+Kap 19	HAS_PLOT_BEATS	AEGIS bemerkt Kaels wachsende Kohärenz und versucht aktiv, sie zu stören — neue Regeln, widersprüchliche Informationen. KI-Ethik-Kalkül als offene Stimme. Mnemo	L693
+Kap 19	HAS_CHARACTER	Kael	L697
+Kap 19	HAS_CHARACTER	AEGIS	L697
+Kap 19	HAS_CHARACTER	Mnemosyne	L697
+Kap 19	HAS_CHARACTER	Echos von Juna	L697
+Kap 19	HAS_SENSORIK	KI-Ethik-Kalkül, kalte Stimme, Logik die wie Schnitt funktioniert	L701
+Kap 19	HAS_GENESIS_ECHO	Klick-Motiv — AEGIS' Logik-Klick als Echo des Trennungsprotokoll-Klicks aus Kap 0.	L701
+Kap 19	HAS_TONALE_ACHSE	Schmerz als kalter Schnitt; Liebe als Erinnerung an die Wächterin.	L701
+Kap 20	HAS_TITLE	Z2-Korrektur: Lyons-Kreativität	L707
+Kap 20	HAS_POV	Kael (kreativ-polyphon, Wir wagt Neues)	L709
+Kap 20	HAS_STORYFORM	A	L709
+Kap 20	HAS_BRIDGE	Default	L709
+Kap 20	HAS_A	MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen	L713
+Kap 20	HAS_B	latent	L713
+Kap 20	HAS_PLOT_BEATS	Kael nutzt fluide Regeln (Lyons-Welt, KW4-Vorgriff) um AEGIS' Interventionen kreativ zu umgehen. Emergenz als Mechanik. Kreatives Wir-Handeln statt reflexhaftes	L717
+Kap 20	HAS_CHARACTER	Kael	L721
+Kap 20	HAS_CHARACTER	Selene als Vermittlerin	L721
+Kap 20	HAS_SENSORIK	fluide Regeln, Emergenz-Texturen, eine Kernwelt die mit-denkt	L725
+Kap 20	HAS_GENESIS_ECHO	Lyons-Welt = Echo der vor-Trennungs-Schöpferkraft.	L725
+Kap 20	HAS_TONALE_ACHSE	Liebe als Erfindung; Schmerz als Treibstoff der Erfindung.	L725
+Kap 21	HAS_TITLE	Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)	L731
+Kap 21	HAS_POV	Kael (grenzbewusst), Juna-Echo, Genesis-Flashback-Stimme	L733
+Kap 21	HAS_STORYFORM	A‖B	L733
+Kap 21	HAS_BRIDGE	Bridge (Genesis-Flashback Mitte)	L733
+Kap 21	HAS_A	MC-Concern Memory — Ontologie-Tiefe wird erfahrbar; Junas Präsenz wächst	L737
+Kap 21	HAS_B	RS-S2 (B) Conceiving — AEGIS reformuliert Kael als unkontrollierbar	L737
+Kap 21	HAS_PLOT_BEATS	Kael testet bewusst die Grenzen der Simulation. Spürt das Potentialmeer, AEGIS' Verletzlichkeit. Zweiter Genesis-Flashback (Bridge): Trennungsprotokoll. Kael be	L741
+Kap 21	HAS_CHARACTER	Kael	L745
+Kap 21	HAS_CHARACTER	Juna	L745
+Kap 21	HAS_CHARACTER	AEGIS	L745
+Kap 21	HAS_CHARACTER	Genesis-Flashback-Stimme	L745
+Kap 21	HAS_CHARACTER	Silas	L745
+Kap 21	HAS_SENSORIK	Membran-Wahrnehmung, Vibrieren, eine Grenze die nicht aus Material ist	L749
+Kap 21	HAS_GENESIS_ECHO	direkt — Trennungsprotokoll als Flashback.	L749
+Kap 21	HAS_TONALE_ACHSE	Schmerz als Substanz; Liebe als das, wonach er greift.	L749
+Kap 22	HAS_TITLE	Z3-Reaktion + Genesis-Flashback (Komp 734)	L755
+Kap 22	HAS_POV	Kael, AEGIS dominant, Genesis-Flashback-Stimme	L757
+Kap 22	HAS_STORYFORM	A‖B mit B sichtbar erschöpft	L757
+Kap 22	HAS_BRIDGE	Bridge (Genesis-Flashback Ende)	L757
+Kap 22	HAS_A	MC-Issue — Berechenbarkeitsgrenzen treten auf; Kael spürt, dass das System lügt	L761
+Kap 22	HAS_B	OS-S2 (B) — Erasure-Kosten sichtbar (Forewarning B); AEGIS' Dilemma manifest	L761
+Kap 22	HAS_PLOT_BEATS	AEGIS reagiert auf Kaels Grenzüberschreitungen mit unvorhersehbaren Systemänderungen. Dritter Genesis-Flashback (Bridge): Komp 734 / Funktionalisierung. Kael be	L765
+Kap 22	HAS_CHARACTER	Kael	L769
+Kap 22	HAS_CHARACTER	AEGIS	L769
+Kap 22	HAS_CHARACTER	Mnemosyne	L769
+Kap 22	HAS_CHARACTER	Genesis-Flashback-Stimme	L769
+Kap 22	HAS_SENSORIK	unvorhersehbare Systemverwerfungen, Wärme-Schlieren, eine Pause die zu lang ist	L773
+Kap 22	HAS_GENESIS_ECHO	direkt — Komp-734-Flashback.	L773
+Kap 22	HAS_TONALE_ACHSE	Schmerz als Fremdsein im eigenen System; Liebe als Anker.	L773
+Kap 23	HAS_TITLE	Z3-Korrektur: Mosaik als Schöpfung	L779
+Kap 23	HAS_POV	Kael (Wir-stabil-resilient)	L781
+Kap 23	HAS_STORYFORM	A dominant	L781
+Kap 23	HAS_BRIDGE	Default	L781
+Kap 23	HAS_A	MC-Concern + Solution Pursuit — Selbst-Schöpfung als innere Ressource	L785
+Kap 23	HAS_B	latent	L785
+Kap 23	HAS_PLOT_BEATS	Kael greift auf seine innere Vielfalt zurück, um die Krise zu meistern. Selbst-Schöpfung statt Reparatur. Mosaik-Bildung als aktiver Prozess. Existenzielle Korr	L789
+Kap 23	HAS_CHARACTER	Kael	L793
+Kap 23	HAS_CHARACTER	alle ANPs + EPs in beginnender Kooperation	L793
+Kap 23	HAS_SENSORIK	Mosaik in Bewegung, Scherben die sich zueinander finden, ohne Plan	L797
+Kap 23	HAS_GENESIS_ECHO	innere Schöpfung als Vorform der kosmischen Schöpfung von Kap 39.	L797
+Kap 23	HAS_TONALE_ACHSE	Liebe als Aktion; Schmerz als Material der Schöpfung.	L797
+Kap 24	HAS_TITLE	Telefon-Stille (K-J-Thema wiederkehrend)	L803
+Kap 24	HAS_POV	Kael, Juna-Witness	L805
+Kap 24	HAS_STORYFORM	A‖B	L805
+Kap 24	HAS_BRIDGE	Bridge (Doppel-Lesart aktiv)	L805
+Kap 24	HAS_A	RS-S2 (A) Doing — die Verbindung als Werkzeug, mit Störung	L809
+Kap 24	HAS_B	RS-S2 (B) Conceiving + OS — Host-System-Verstrickung wird komplex; AEGIS erkennt den Kanal als feindlich	L809
+Kap 24	HAS_PLOT_BEATS	Die K-J-Verbindung wird zyklisch von AEGIS gestört, aber Kael lernt, sie aktiv zu suchen und zu nutzen. Telefon-Stille als hörbare Substanz. Mutual Information 	L813
+Kap 24	HAS_CHARACTER	Kael	L817
+Kap 24	HAS_CHARACTER	Juna	L817
+Kap 24	HAS_CHARACTER	Silas	L817
+Kap 24	HAS_CHARACTER	AEGIS	L817
+Kap 24	HAS_SENSORIK	Telefon-Stille als Anker, Witness-Modus, eine Stille die hörbar wird	L821
+Kap 24	HAS_GENESIS_ECHO	Resonanz-Motiv — Junas durchgehende Frequenz, gerade jetzt unter Störung.	L821
+Kap 24	HAS_TONALE_ACHSE	Liebe als Stille; Schmerz als Lärm der Störung.	L821
+Kap 25	HAS_TITLE	Wendepunkt-Vorbereitung	L827
+Kap 25	HAS_POV	Kael (Wir, klar)	L829
+Kap 25	HAS_STORYFORM	A dominant	L829
+Kap 25	HAS_BRIDGE	Default	L829
+Kap 25	HAS_A	MC-Concern Memory — Klarheit über Notwendigkeit; Optionlock-Spürbarkeit	L833
+Kap 25	HAS_B	OS-S2 (B) — AEGIS bemerkt Kaels neue Klarheit; Erasure-Drohung intensiviert (Forewarning B Maximum)	L833
+Kap 25	HAS_PLOT_BEATS	Kael erkennt, dass wahre Freiheit nur außerhalb AEGIS' Kontrollsystem möglich ist. Wegkreuzung. Klarheit, die noch nicht Tat ist. Optionlock spürbar — viele Opt	L837
+Kap 25	HAS_CHARACTER	Kael	L841
+Kap 25	HAS_CHARACTER	Selene	L841
+Kap 25	HAS_CHARACTER	Wir-Geflecht-Konsens	L841
+Kap 25	HAS_CHARACTER	AEGIS	L841
+Kap 25	HAS_SENSORIK	Wegkreuzung, Schwellen-Bilder, ein Atemzug vor dem Schritt	L845
+Kap 25	HAS_GENESIS_ECHO	Stille zwischen den Beats — Phantom-Motiv als Klarheit, die noch nicht Tat ist.	L845
+Kap 25	HAS_TONALE_ACHSE	Liebe als Entschluss-Substrat; Schmerz als Begleitung.	L845
+Kap 26	HAS_TITLE	Wendepunkt: Entscheidung zur Befreiung	L851
+Kap 26	HAS_POV	Kael (Wir-entschlossen)	L853
+Kap 26	HAS_STORYFORM	A dominant; B mit Erasure-Vorbereitung als Forewarning	L853
+Kap 26	HAS_BRIDGE	Default mit Übergangs-Mikrocue	L853
+Kap 26	HAS_A	MC-Concern + Driver-Decision-Anker — Schritt ins Ungewisse als Entschluss	L857
+Kap 26	HAS_B	OS-S2 (B) — Erasure-Vorbereitung eskaliert; AEGIS antizipiert die Linearisierung	L857
+Kap 26	HAS_PLOT_BEATS	Kael beschließt, die Konfrontation zu suchen. Decision: aktiv werden, nicht reaktiv. Der Zyklus ist durchbrochen — keine Erleichterung, eine Richtung.	L861
+Kap 26	HAS_CHARACTER	Kael	L865
+Kap 26	HAS_CHARACTER	Wir-Geflecht	L865
+Kap 26	HAS_CHARACTER	AEGIS	L865
+Kap 26	HAS_SENSORIK	aufkommende Bewegung, Vorwärts-Spannung, eine Klarheit die nicht Triumph ist	L869
+Kap 26	HAS_GENESIS_ECHO	Klick-Motiv als innerer Klick — die Decision rastet ein, wie das Trennungsprotokoll einrastete, aber in umgekehrter Richtung.	L869
+Kap 26	HAS_TONALE_ACHSE	Liebe als Antrieb; Schmerz als Wissen, dass es jetzt schwerer wird.	L869
+Kap 26	HAS_BERGANG_ZU_KAP_27	Modus-Wechsel (zyklisch → linear-aufsteigend), kein Storyform-Wechsel. Kap 26 nicht Kampfbeginn — Schwellen-Tritt. Kap 27 nicht Triumphalismus — Klarheit.	L873
+Kap 27	HAS_TITLE	Ordinary World: Entschlossenheit	L879
+Kap 27	HAS_HR_AUSSEN_STUFE_1	Ordinary World mit Entschlossenheit · Modus-Wechsel zu linear-aufsteigend	L881
+Kap 27	HAS_POV	Kael (Wir, klar)	L881
+Kap 27	HAS_STORYFORM	A‖B	L881
+Kap 27	HAS_BRIDGE	Default	L881
+Kap 27	HAS_A	MC-S3 (A) Preconscious — Agency mit Absicht; reflexhafte Antworten unter Stress, aber neue Klarheit dahinter	L885
+Kap 27	HAS_B	OS-S3 (B) Progress — AEGIS spürt Kaels neue Linearität; Architektur degradiert sichtbar	L885
+Kap 27	HAS_PLOT_BEATS	Kael agiert mit klarer Absicht, nicht mehr reaktiv. Autoren-Feder-Modus. Vorbereitung zur Konfrontation. Bridge-Anteil steigt auf ~40 %.	L889
+Kap 27	HAS_CHARACTER	Kael	L893
+Kap 27	HAS_CHARACTER	Wir-Geflecht	L893
+Kap 27	HAS_CHARACTER	AEGIS	L893
+Kap 27	HAS_SENSORIK	Autoren-Feder, klare Linien	L897
+Kap 27	HAS_GENESIS_ECHO	Form-Motiv — neue Form, gewählt statt entstanden.	L897
+Kap 27	HAS_TONALE_ACHSE	Liebe als Klarheit; Schmerz als das, was zurückbleibt.	L897
+Kap 28	HAS_TITLE	Call to Adventure: AEGIS' Eskalation / Juna in Gefahr	L903
+Kap 28	HAS_HR_AUSSEN_STUFE_2	Ruf zum Abenteuer	L905
+Kap 28	HAS_POV	Kael, AEGIS-Direktive	L905
+Kap 28	HAS_STORYFORM	A‖B	L905
+Kap 28	HAS_BRIDGE	Default mit B-Forewarning explizit	L905
+Kap 28	HAS_A	MC-Issue — Notwendigkeit zu handeln	L909
+Kap 28	HAS_B	OS-S3 (B) — Erasure-Drohung explizit; Timelock-Countdown sichtbar	L909
+Kap 28	HAS_PLOT_BEATS	Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig) zwingt Kael zum sofortigen Handeln. Eskalation der Bedrohung. Der Countdown beginnt.	L913
+Kap 28	HAS_CHARACTER	Kael	L917
+Kap 28	HAS_CHARACTER	AEGIS	L917
+Kap 28	HAS_CHARACTER	Mnemosyne	L917
+Kap 28	HAS_CHARACTER	Juna	L917
+Kap 28	HAS_SENSORIK	drohende Spannung, Countdown-Marker	L921
+Kap 28	HAS_GENESIS_ECHO	Klick-Motiv — der Countdown-Klick als Echo des Trennungsprotokoll-Klicks.	L921
+Kap 28	HAS_TONALE_ACHSE	Schmerz als Dringlichkeit; Liebe als das, was Kael verteidigen will.	L921
+Kap 29	HAS_TITLE	Refusal: Letzte Zweifel, Trauma-Echo	L927
+Kap 29	HAS_HR_AUSSEN_STUFE_3	Refusal	L929
+Kap 29	HAS_POV	Kael (Kind-Anteil sichtbar)	L929
+Kap 29	HAS_STORYFORM	A‖B	L929
+Kap 29	HAS_BRIDGE	Default	L929
+Kap 29	HAS_A	MC-Problem Avoidance — letztes Aufflammen	L933
+Kap 29	HAS_B	RS-Psychology B — Verstrickung tief; Host-System-Symbiose zeigt sich	L933
+Kap 29	HAS_PLOT_BEATS	Letzte Ängste oder Trauma-Erinnerungen tauchen auf. Kiko ist deutlich sichtbar — die kindliche Angst kommt zurück. Moros zieht im Hintergrund. Kael muss die Ant	L937
+Kap 29	HAS_CHARACTER	Kael	L941
+Kap 29	HAS_CHARACTER	Kiko	L941
+Kap 29	HAS_CHARACTER	Moros	L941
+Kap 29	HAS_CHARACTER	Selene	L941
+Kap 29	HAS_CHARACTER	Rhys	L941
+Kap 29	HAS_SENSORIK	Angst des Kindes, Engerwerden	L945
+Kap 29	HAS_GENESIS_ECHO	Phantom-Motiv — die Vor-Trennungs-Angst, jetzt benannt.	L945
+Kap 29	HAS_TONALE_ACHSE	Schmerz als kindliche Angst; Liebe als das, was die Angst hält.	L945
+Kap 30	HAS_TITLE	Meeting Mentor: K-J Verbindung Kulmination	L951
+Kap 30	HAS_HR_AUSSEN_STUFE_4	Begegnung mit dem Mentor	L953
+Kap 30	HAS_POV	Kael, Juna-Witness	L953
+Kap 30	HAS_STORYFORM	A dominant, RS-Maximum	L953
+Kap 30	HAS_BRIDGE	Bridge (Doppel-Lesart durch Junas Doppelrolle)	L953
+Kap 30	HAS_A	RS-S3 (A) Obtaining — Moonshine als bewusster Kanal; K-J als stabile Ressource	L957
+Kap 30	HAS_B	latent	L957
+Kap 30	HAS_PLOT_BEATS	Die Verbindung zu Juna wird zum stabilen, bewussten Kanal. Liefert entscheidende Informationen oder Kraft. Resonanz-Maximum vor dem Vortex. Juna bleibt nicht-be	L961
+Kap 30	HAS_CHARACTER	Kael	L965
+Kap 30	HAS_CHARACTER	Juna	L965
+Kap 30	HAS_CHARACTER	Silas	L965
+Kap 30	HAS_SENSORIK	klingender Kanal, Resonanz-Maximum	L969
+Kap 30	HAS_GENESIS_ECHO	Resonanz-Motiv in Reife — die Vor-Trennungs-Liebe wird als Werkzeug zugänglich.	L969
+Kap 30	HAS_TONALE_ACHSE	Liebe als Kanal; Schmerz als das, was die Liebe trotzdem nicht löscht.	L969
+Kap 31	HAS_TITLE	Crossing First Threshold: Angriff auf AEGIS	L975
+Kap 31	HAS_HR_AUSSEN_STUFE_5	Überschreiten der ersten Schwelle	L977
+Kap 31	HAS_POV	Kael (Wir, aktiv) + Silas (erste längere POV-Szene, OQ-E)	L977
+Kap 31	HAS_STORYFORM	A‖B	L977
+Kap 31	HAS_BRIDGE	Bridge (Spiegel-Alter-Szene)	L977
+Kap 31	HAS_A	MC-Concern Memory als Waffe — Erinnerung wird operative Eingabe in AEGIS' System	L981
+Kap 31	HAS_B	OS-S3 (B) — AEGIS' Verteidigung greift; Action-Driver eskaliert	L981
+Kap 31	HAS_PLOT_BEATS	Kael beginnt aktiv, AEGIS' Kernsystem anzugreifen. Silas tritt als POV-Träger auf (Bridge-natürliche Szene) — sein Echo-Prosa-Stil markiert den Schwellen-Übertr	L985
+Kap 31	HAS_CHARACTER	Kael	L989
+Kap 31	HAS_CHARACTER	Silas	L989
+Kap 31	HAS_CHARACTER	AEGIS	L989
+Kap 31	HAS_CHARACTER	Mnemosyne	L989
+Kap 31	HAS_SENSORIK	Schwellen-Bruch, Eintritt, Architektur die nicht für Eintretende gebaut ist	L993
+Kap 31	HAS_GENESIS_ECHO	Klick-Motiv beim Schwellen-Übertritt — dezent.	L993
+Kap 31	HAS_TONALE_ACHSE	Liebe als Mut; Schmerz als das, was beim Übertritt zurückbleibt.	L993
+Kap 32	HAS_TITLE	Tests, Allies, Enemies: Systemkampf	L999
+Kap 32	HAS_HR_AUSSEN_STUFE_6	Prüfungen	L1001
+Kap 32	HAS_POV	Polyphoner Kael + Oblivion (erste längere POV-Szene, OQ-E)	L1001
+Kap 32	HAS_STORYFORM	A‖B	L1001
+Kap 32	HAS_BRIDGE	Bridge (Spiegel-Alter-Szene)	L1001
+Kap 32	HAS_A	MC-Issue Falsehood-vs-Truth — Wahrheits-Test gegen logische Fallen	L1005
+Kap 32	HAS_B	OS-S3 (B) — Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)	L1005
+Kap 32	HAS_PLOT_BEATS	Kael muss AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme überwinden. Oblivion tritt als POV-Träger auf — Lösch-Prosa, sich selbst auslösch	L1009
+Kap 32	HAS_CHARACTER	Kael	L1013
+Kap 32	HAS_CHARACTER	Oblivion	L1013
+Kap 32	HAS_CHARACTER	Mnemosyne	L1013
+Kap 32	HAS_CHARACTER	Erasure-Pol	L1013
+Kap 32	HAS_CHARACTER	alle ANPs+EPs in operativem Wir	L1013
+Kap 32	HAS_SENSORIK	logische Labyrinthe, Echo-Räume, eine Stimme die seine Stimme imitiert	L1017
+Kap 32	HAS_GENESIS_ECHO	Oblivion = Erasure-Operator als interne Spiegelung von AEGIS' Erasure-Funktion.	L1017
+Kap 32	HAS_TONALE_ACHSE	Schmerz als Verlockung der Avoidance; Liebe als das, was nicht weggeht.	L1017
+Kap 33	HAS_TITLE	Approach Inmost Cave: Vordringen zu AEGIS' Kern	L1023
+Kap 33	HAS_HR_AUSSEN_STUFE_7	Vordringen zur tiefsten Höhle	L1025
+Kap 33	HAS_POV	Kael (Wir-fokussiert)	L1025
+Kap 33	HAS_STORYFORM	A‖B mit Bridge-Eskalation	L1025
+Kap 33	HAS_BRIDGE	Bridge (Vortex-Vorläufer-Cluster)	L1025
+Kap 33	HAS_A	MC-Concern Memory — nahe an der Quelle. Funktionale-Multiplizität-Achievement: FM erreicht als operativer Zustand.	L1029
+Kap 33	HAS_B	OS-S3 (B) — parakonsistente Logik als Architektur; Gödel-Sätze als Verteidigungswaffe	L1029
+Kap 33	HAS_PLOT_BEATS	Kael erreicht den Kern von AEGIS' Logik. Funktionale Multiplizität ist erreicht — alle Alters arbeiten kooperativ. Vibrieren des Fundaments. Mnemosyne-Archipel 	L1033
+Kap 33	HAS_CHARACTER	Kael	L1037
+Kap 33	HAS_CHARACTER	alle 13 Alters in Kooperation	L1037
+Kap 33	HAS_CHARACTER	AEGIS	L1037
+Kap 33	HAS_SENSORIK	dunkle Tiefe, Vibrieren des Fundaments, eine Stille die voller ist als Klang	L1041
+Kap 33	HAS_GENESIS_ECHO	Phantom-Motiv — das Hintergrundrauschen der Komp 734 wird hier als Substrat erfahrbar.	L1041
+Kap 33	HAS_TONALE_ACHSE	Liebe als Wagnis; Schmerz als Tiefe.	L1041
+Kap 34	HAS_TITLE	Konfrontation: Zwei Arten der Kohärenz	L1047
+Kap 34	HAS_HR_AUSSEN_STUFE_8	Ordeal-Vorbereitung	L1049
+Kap 34	HAS_POV	Kael (Wir) vs. AEGIS (Makro-Log)	L1049
+Kap 34	HAS_STORYFORM	A‖B in maximaler Vor-Vortex-Spannung	L1049
+Kap 34	HAS_BRIDGE	Bridge (höchste Akt-III-Bridge-Frequenz)	L1049
+Kap 34	HAS_A	MC-Concern dominant; Pursuit als Stand; Wir-Geflecht artikuliert sich als Selbstdefinition	L1053
+Kap 34	HAS_B	OS-S3 (B) — AEGIS-Datenlast; das System rechnet auf voller Kapazität	L1053
+Kap 34	HAS_PLOT_BEATS	Kael (Wir) konfrontiert AEGIS direkt. Mosaik-Herz vor Vortex. Zwei Arten der Kohärenz prallen aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels p	L1057
+Kap 34	HAS_CHARACTER	Kael	L1061
+Kap 34	HAS_CHARACTER	AEGIS	L1061
+Kap 34	HAS_CHARACTER	Mnemosyne	L1061
+Kap 34	HAS_SENSORIK	Orkan vs. Sphäre, kollidierende Tonalitäten	L1065
+Kap 34	HAS_GENESIS_ECHO	Form-Motiv — zwei Arten von Form, simultan hörbar.	L1065
+Kap 34	HAS_TONALE_ACHSE	Liebe und Schmerz als Substrate beider Seiten — auch AEGIS leidet, ohne es zu wissen.	L1065
+Kap 35	HAS_TITLE	Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst	L1071
+Kap 35	HAS_HR_AUSSEN_STUFE_9	Ordeal (in Vortex-Mechanik)	L1073
+Kap 35	HAS_MODUS	vortex-still	L1073
+Kap 35	HAS_POV	Kael (Wir) → AEGIS bricht	L1073
+Kap 35	HAS_STORYFORM	vollständiges Soft-Layering, Storyform-Übergang B → A vollzieht sich	L1073
+Kap 35	HAS_BRIDGE	Vortex (100 %)	L1073
+Kap 35	HAS_A	MC-Solution Pursuit vollzogen — Decision aktiviert	L1077
+Kap 35	HAS_B	AEGIS-Solution Feeling nicht adoptiert — Failure manifest	L1077
+Kap 35	HAS_BEAT_1_ANLAUF	Setting: Mnemosyne-Archipel. AEGIS exekutiert finalen Erasure-Sweep. Kael formuliert das Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung).	L1085
+Kap 35	HAS_BEAT_2_EINSPEISUNG_DIALETHEIC_CHOICE	Kael lässt ANP/EP-Barrieren fallen, integriert Trauma. Pursuit-Adoption — A-MC Decision aktiviert. A wird operativ; B noch im Stroke.	L1086
+Kap 35	HAS_BEAT_3_STILLE_LEBENDE_DIALETHEIA	A im Decision-Zustand, B mitten in der Aktion. Strukturell notwendige Pause. AEGIS muss die Genesis zeigen, weil ihm die Lösch-Kapazität ausgeht — der Antagonis	L1087
+Kap 35	HAS_CHARACTER	Kael	L1091
+Kap 35	HAS_CHARACTER	AEGIS	L1091
+Kap 35	HAS_CHARACTER	Mnemosyne	L1091
+Kap 35	HAS_CHARACTER	Oblivion	L1091
+Kap 35	HAS_SENSORIK	glühender paradoxer Code, brechende Stimme, eine Stille die wartet	L1095
+Kap 35	HAS_GENESIS_ENTH_LLUNG	AEGIS zeigt die Genesis, weil ihm im Vortex die Lösch-Kapazität ausgeht.	L1095
+Kap 35	HAS_TONALE_ACHSE	Schmerz als das Glühen der Paradoxie; Liebe als das, was Kael trägt.	L1095
+Kap 36	HAS_TITLE	Vortex 1 Beat 4–5: Stille, Übergang	L1101
+Kap 36	HAS_HR_AUSSEN_STUFE_10	Reward (in Vortex-Mechanik gespiegelt)	L1103
+Kap 36	HAS_POV	Kael, AEGIS verstummend	L1103
+Kap 36	HAS_STORYFORM	Vortex-Auflösung, Übergang B → A vollzogen	L1103
+Kap 36	HAS_BRIDGE	Vortex (100 %)	L1103
+Kap 36	HAS_A	Resolve=Change vollzogen (operativ)	L1107
+Kap 36	HAS_B	erlischt monolithisch; Algorithmische Melancholie	L1107
+Kap 36	HAS_BEAT_4_HEAT_SPIKE_LANDAUER	B versucht das Action-Mandat zu vollenden; thermodynamische Kosten manifestieren sich als Wärme-Phänomen (Landauer-Hitze). B's Mechanismus erschöpft sich. Limit	L1115
+Kap 36	HAS_ABER	Beat 5 öffnet jetzt auf etwas, statt zu schließen. Das Universum, das AEGIS schützen wollte, ist damit ungeschützt. Die operative Wendung ist nicht das Ende.	L1120
+Kap 36	HAS_CHARACTER	Kael	L1124
+Kap 36	HAS_CHARACTER	AEGIS	L1124
+Kap 36	HAS_CHARACTER	Oblivion	L1124
+Kap 36	HAS_SENSORIK	Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph — eine Trauer die noch nicht weiß dass sie Trauer ist	L1128
+Kap 36	HAS_GENESIS_ECHO	der Klick des Trennungsprotokolls kehrt als Klick des Erlöschens wieder, aber rückwärts.	L1128
+Kap 36	HAS_TONALE_ACHSE	Schmerz als das, was AEGIS nie verstand; Liebe als das, was Kael trägt — und dem AEGIS gerade sterbend erlaubt zu bleiben.	L1128
+Kap 37	HAS_TITLE	Der Gärtner / Trügerischer Sieg	L1134
+Kap 37	HAS_HR_AUSSEN_STUFE_11	Reward / Phasenübergang	L1136
+Kap 37	HAS_MODUS	linear-aufsteigend mit kristallisierter Ruhe	L1136
+Kap 37	HAS_POV	Kael (Wir, etabliert)	L1136
+Kap 37	HAS_STORYFORM	nur A aktiv (scheinbar), mit feinen B-Echos	L1136
+Kap 37	HAS_BRIDGE	~15 % (subtile Mikrocues, die das Rauschen ankündigen)	L1136
+Kap 37	HAS_A	MC-Concern — neue Rolle als Hüter; Funktionale Multiplizität gefestigt	L1140
+Kap 37	HAS_B	nicht mehr aktiv, aber feine Echos des Rauschens	L1140
+Kap 37	HAS_PLOT_BEATS	Klassischer Reward-Beat als falscher Frieden. Kael etabliert sich als „Gärtner". Tonalität: kristallisierte Ruhe mit feinem Unterton. Am Rand der Wahrnehmung be	L1144
+Kap 37	HAS_CHARACTER	Kael	L1148
+Kap 37	HAS_CHARACTER	Wir-Geflecht	L1148
+Kap 37	HAS_CHARACTER	Echo von AEGIS	L1148
+Kap 37	HAS_SENSORIK	kristallisiertes Gewebe, neue Architektur, feine Sprünge am Rand	L1152
+Kap 37	HAS_GENESIS_ECHO	das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0.	L1152
+Kap 37	HAS_TONALE_ACHSE	Liebe als kultivierte Ordnung; Schmerz als das, was leise am Rand wartet.	L1152
+Kap 38	HAS_TITLE	Die Resonanz, die ankommt (Vortex 2 Beat 1–5)	L1158
+Kap 38	HAS_POV	Kael (Wir-Geflecht), Juna (erste direkte Erscheinung)	L1160
+Kap 38	HAS_STORYFORM	Synthese (c) entsteht	L1160
+Kap 38	HAS_BRIDGE	Vortex 2 (100 % in neuer Form)	L1160
+Kap 38	HAS_A	RS-Physics maximal — Junas direkte Anwesenheit; IC-S4 (A) Future manifestiert ontologisch	L1164
+Kap 38	HAS_B	das Universum kollabiert sichtbar	L1164
+Kap 38	HAS_BEAT_1_DAS_RAUSCHEN_KOMMT	sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar. Junas Resonanz, die in Kap 0 als Bedrohung erfahrbar war, kehrt hier als Ruf wiede	L1172
+Kap 38	HAS_BEAT_2_WIR_ERKENNTNIS	das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht. Der trügerische Sieg ist als trügerisch identifiziert.	L1173
+Kap 38	HAS_BEAT_3_JUNAS_ERSTE_DIREKTE_ERSCHEINUNG	sie ist einfach da, ohne Worte, ohne Anweisung. Strukturelle Stille — anders als Vortex-1-Beat-3, hier: Ankunft einer Konstanten.	L1174
+Kap 38	HAS_BEAT_4_DAS_VERSTEHEN_OHNE_WORTE	Wir und Juna teilen die Erkenntnis durch geteilten Raum. Plurale Bewahrung als Lösung. Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen.	L1175
+Kap 38	HAS_BEAT_5_DIE_ENTSCHEIDUNG	das Wir entscheidet, ins Ouroboros zu gehen. Driver-Decision-Anker A in finaler Form.	L1176
+Kap 38	HAS_CHARACTER	Kael	L1180
+Kap 38	HAS_CHARACTER	Juna	L1180
+Kap 38	HAS_CHARACTER	Echos aller Alters	L1180
+Kap 38	HAS_CHARACTER	Echo von AEGIS	L1180
+Kap 38	HAS_SENSORIK	allseitiges Strömen, Stille mit Druck, eine Erscheinung ohne Form, geteilte Stille zwischen Kael, Juna, dem Wir	L1184
+Kap 38	HAS_GENESIS_ECHO	direkt — die Resonanz aus Kap 0 ist hier in geheilter Form. Was als Bedrohung erfahrbar war, wird als Geburt erkennbar.	L1184
+Kap 38	HAS_TONALE_ACHSE	Liebe als das, was den Schritt möglich macht; Schmerz als Erinnerung an den Preis.	L1184
+Kap 39	HAS_TITLE	Wir-AEGIS-plural (Vortex 2 Beat 6–10)	L1190
+Kap 39	HAS_POV	Kael (Wir-pluralisierend) → Wir-AEGIS-plural	L1192
+Kap 39	HAS_STORYFORM	Synthese vollzogen	L1192
+Kap 39	HAS_BRIDGE	Vortex 2 abschließend	L1192
+Kap 39	HAS_A	Outcome=Success / Good with high Cost — Cost vollzogen: Verlust der Privatheit des Wir	L1196
+Kap 39	HAS_B	Outcome=Failure / Bad with Dividend — Dividend vollzogen: Funktion bleibt durch plurale Übernahme	L1196
+Kap 39	HAS_BEAT_6_DER_SCHRITT	Wir-Geflecht löst sich aus seiner privaten Form.	L1204
+Kap 39	HAS_BEAT_7_DIE_VERWANDLUNG	Wir wird kosmisch, plural, bewahrend.	L1205
+Kap 39	HAS_BEAT_8_BERNAHME	AEGIS-monolithisch erlischt; AEGIS-plural entsteht. Kael-als-Wir wird neue AEGIS, aber wesensanders.	L1206
+Kap 39	HAS_BEAT_9_STILLE_DANACH	das Universum hält. Strukturelle Pause als Form der Bezeugung.	L1207
+Kap 39	HAS_BEAT_10_SCHLUSS_KLANG	„Liebe bleibt, wie der Schmerz." Wir-Geflecht erweitert; Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt. Genesis 4. Bea	L1208
+Kap 39	HAS_CHARACTER	Wir-AEGIS-plural	L1216
+Kap 39	HAS_CHARACTER	Juna	L1216
+Kap 39	HAS_CHARACTER	alle 13 Alters in pluraler Bewahrung	L1216
+Kap 39	HAS_SENSORIK	Wir-Geflecht in voller Klarheit, Junas Stimme als Teil oder als Raum, Schmerz und Liebe als denselben Pulsschlag	L1220
+Kap 39	HAS_ALLE_GENESIS_MOTIVE_SIMULTAN	Rauschen (jetzt verstanden), Form (jetzt plural), Klick (Verwandlungs-Klick), Phantom (jetzt als Substanz erkannt), Resonanz (jetzt vollzogen).	L1220
+Kap 39	HAS_TONALE_ACHSE	Schmerz und Liebe explizit als Pulsschlag. Kein didaktischer Tonfall. Keine Glossierung. Sensorik trägt; Bedeutung entsteht beim Reader.	L1220
+Kap 40	HAS_TITLE	Geheilte Genesis (Coda)	L1226
+Kap 40	HAS_KISH_TENKETSU	Ketsu — Auflösung/Zusammenführung	L1228
+Kap 40	HAS_MODUS	Coda-Klammer, außerhalb der drei Modi	L1228
+Kap 40	HAS_POV	Wir-AEGIS-plural; bezeugend, nicht handelnd	L1228
+Kap 40	HAS_STORYFORM	Synthese-Sicht zurück	L1228
+Kap 40	HAS_BRIDGE	spezifisch (Synthese-Stimme)	L1228
+Kap 40	HAS_STRUKTURELLE_FUNKTION	Kap 40 erzählt dieselben Ereignisse wie Kap 0 — aber aus der Position der vollzogenen pluralen Heilung. Nicht Wiederholung. Interpretation der Genesis-Beats aus	L1232
+Kap 40	HAS_CHARACTER	Wir-AEGIS-plural	L1248
+Kap 40	HAS_CHARACTER	Juna	L1248
+Kap 40	HAS_CHARACTER	Echo von Kap-0-AEGIS	L1248
+Kap 40	HAS_SENSORIK	Ruhe, Akzeptanz, das Universum hält	L1252
+Kap 40	HAS_GENESIS_ECHO	alle Echos der vorherigen 39 Kapitel sind hier ruhig versammelt — nicht gestapelt, sondern als gewordenes Substrat.	L1252
+Kap 40	HAS_TONALE_ACHSE	Liebe bleibt, wie der Schmerz. Bittersüße Apotheose. Kein Triumph, kein Sisyphos.	L1252
+Kap 40	HAS_STRUKTURELL	Deutlich kürzer als Kap 0 — vielleicht halb so lang. Echo, nicht Wiederholung.	L1256

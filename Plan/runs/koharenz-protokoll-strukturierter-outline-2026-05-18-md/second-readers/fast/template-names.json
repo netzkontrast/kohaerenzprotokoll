@@ -1,0 +1,348 @@
+{
+ "source": "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+ "written_by": "template_parse.py, no model",
+ "entities": [
+  {
+   "term": "AEGIS"
+  },
+  {
+   "term": "Alex"
+  },
+  {
+   "term": "Approach Inmost Cave: Vordringen zu AEGIS' Kern"
+  },
+  {
+   "term": "Auge des Sturms"
+  },
+  {
+   "term": "Bruch des Gleichgewichts"
+  },
+  {
+   "term": "Bunker-Bau"
+  },
+  {
+   "term": "Call to Adventure: AEGIS' Eskalation / Juna in Gefahr"
+  },
+  {
+   "term": "Crossing First Threshold: Angriff auf AEGIS"
+  },
+  {
+   "term": "Der Gärtner / Trügerischer Sieg"
+  },
+  {
+   "term": "Der erste Riss"
+  },
+  {
+   "term": "Die Resonanz, die ankommt (Vortex 2 Beat 1–5)"
+  },
+  {
+   "term": "Die Stimme im Rauschen"
+  },
+  {
+   "term": "Die Wächterin"
+  },
+  {
+   "term": "Die erste Brücke"
+  },
+  {
+   "term": "Echo von AEGIS"
+  },
+  {
+   "term": "Echo von Kap-0-AEGIS"
+  },
+  {
+   "term": "Echos aller Alters"
+  },
+  {
+   "term": "Echos im Fundament"
+  },
+  {
+   "term": "Echos von Juna"
+  },
+  {
+   "term": "Erasure-Pol"
+  },
+  {
+   "term": "Erwachen in der Konstrukt-Stadt"
+  },
+  {
+   "term": "Geheilte Genesis (Coda)"
+  },
+  {
+   "term": "Genesis-Flashback-Stimme"
+  },
+  {
+   "term": "Genesis-Prolog"
+  },
+  {
+   "term": "Juna"
+  },
+  {
+   "term": "Kael"
+  },
+  {
+   "term": "Kap 0"
+  },
+  {
+   "term": "Kap 1"
+  },
+  {
+   "term": "Kap 10"
+  },
+  {
+   "term": "Kap 11"
+  },
+  {
+   "term": "Kap 12"
+  },
+  {
+   "term": "Kap 13"
+  },
+  {
+   "term": "Kap 14"
+  },
+  {
+   "term": "Kap 15"
+  },
+  {
+   "term": "Kap 16"
+  },
+  {
+   "term": "Kap 17"
+  },
+  {
+   "term": "Kap 18"
+  },
+  {
+   "term": "Kap 19"
+  },
+  {
+   "term": "Kap 2"
+  },
+  {
+   "term": "Kap 20"
+  },
+  {
+   "term": "Kap 21"
+  },
+  {
+   "term": "Kap 22"
+  },
+  {
+   "term": "Kap 23"
+  },
+  {
+   "term": "Kap 24"
+  },
+  {
+   "term": "Kap 25"
+  },
+  {
+   "term": "Kap 26"
+  },
+  {
+   "term": "Kap 27"
+  },
+  {
+   "term": "Kap 28"
+  },
+  {
+   "term": "Kap 29"
+  },
+  {
+   "term": "Kap 3"
+  },
+  {
+   "term": "Kap 30"
+  },
+  {
+   "term": "Kap 31"
+  },
+  {
+   "term": "Kap 32"
+  },
+  {
+   "term": "Kap 33"
+  },
+  {
+   "term": "Kap 34"
+  },
+  {
+   "term": "Kap 35"
+  },
+  {
+   "term": "Kap 36"
+  },
+  {
+   "term": "Kap 37"
+  },
+  {
+   "term": "Kap 38"
+  },
+  {
+   "term": "Kap 39"
+  },
+  {
+   "term": "Kap 4"
+  },
+  {
+   "term": "Kap 40"
+  },
+  {
+   "term": "Kap 5"
+  },
+  {
+   "term": "Kap 6"
+  },
+  {
+   "term": "Kap 7"
+  },
+  {
+   "term": "Kap 8"
+  },
+  {
+   "term": "Kap 9"
+  },
+  {
+   "term": "Kiko"
+  },
+  {
+   "term": "Komp 734"
+  },
+  {
+   "term": "Konfrontation: Zwei Arten der Kohärenz"
+  },
+  {
+   "term": "Lex"
+  },
+  {
+   "term": "Lia"
+  },
+  {
+   "term": "Meeting Mentor: K-J Verbindung Kulmination"
+  },
+  {
+   "term": "Mnemosyne"
+  },
+  {
+   "term": "Moros"
+  },
+  {
+   "term": "Mosaik des Selbst"
+  },
+  {
+   "term": "Nyx"
+  },
+  {
+   "term": "Oblivion"
+  },
+  {
+   "term": "Ordinary World: Entschlossenheit"
+  },
+  {
+   "term": "Pforten der Verurteilung"
+  },
+  {
+   "term": "Refusal: Letzte Zweifel, Trauma-Echo"
+  },
+  {
+   "term": "Rhys"
+  },
+  {
+   "term": "Selene"
+  },
+  {
+   "term": "Selene als Vermittlerin"
+  },
+  {
+   "term": "Silas"
+  },
+  {
+   "term": "Stille der Mitte"
+  },
+  {
+   "term": "Tanz im Garten"
+  },
+  {
+   "term": "Telefon-Stille (K-J-Thema wiederkehrend)"
+  },
+  {
+   "term": "Tests, Allies, Enemies: Systemkampf"
+  },
+  {
+   "term": "Vortex 1 Beat 1–3: Einspeisung des paradoxen Selbst"
+  },
+  {
+   "term": "Vortex 1 Beat 4–5: Stille, Übergang"
+  },
+  {
+   "term": "Wendepunkt-Vorbereitung"
+  },
+  {
+   "term": "Wendepunkt: Entscheidung zur Befreiung"
+  },
+  {
+   "term": "Wir"
+  },
+  {
+   "term": "Wir-AEGIS-plural"
+  },
+  {
+   "term": "Wir-AEGIS-plural (Vortex 2 Beat 6–10)"
+  },
+  {
+   "term": "Wir-Geflecht"
+  },
+  {
+   "term": "Wir-Geflecht-Konsens"
+  },
+  {
+   "term": "Z1-Destabilisierung: Trigger"
+  },
+  {
+   "term": "Z1-Korrektur: Wächterin"
+  },
+  {
+   "term": "Z1-Reaktion: Bunker reaktiv"
+  },
+  {
+   "term": "Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)"
+  },
+  {
+   "term": "Z2-Korrektur: Lyons-Kreativität"
+  },
+  {
+   "term": "Z2-Reaktion + AEGIS-Intervention"
+  },
+  {
+   "term": "Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)"
+  },
+  {
+   "term": "Z3-Korrektur: Mosaik als Schöpfung"
+  },
+  {
+   "term": "Z3-Reaktion + Genesis-Flashback (Komp 734)"
+  },
+  {
+   "term": "alle 13 Alters in Kooperation"
+  },
+  {
+   "term": "alle 13 Alters in pluraler Bewahrung"
+  },
+  {
+   "term": "alle ANPs"
+  },
+  {
+   "term": "alle ANPs + EPs in beginnender Kooperation"
+  },
+  {
+   "term": "alle ANPs+EPs in operativem Wir"
+  },
+  {
+   "term": "erste Schatten von Rhys"
+  },
+  {
+   "term": "erste vorsichtige Spuren von EPs"
+  }
+ ]
+}
