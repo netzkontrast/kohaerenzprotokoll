@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -66,3 +66,7 @@ In the glossary's Alter table: role „Juna-Echo" ^[kohaerenz-protokoll-begriffe
 Function „Internalisiertes Nachbild der Bindung, Moonshine-Resonanzkörper im System" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L155], correlate „Coheron-Echo, Tunneling" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L155], position „Spiegel-Alter (weder ANP noch EP)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L155].
 
 Kap 31: „Silas tritt als POV-Träger auf" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L985] — a proposal, by the document's OQ-E: „Kap 31 (Silas-POV), Kap 32 (Oblivion-POV) sind Vorschläge" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1373].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- mirror alter called a Coheron echo, with details open: „Silas (Coheron-Echo)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]
