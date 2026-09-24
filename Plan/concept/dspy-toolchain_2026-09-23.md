@@ -13,7 +13,7 @@ corrections left beside what the build proved wrong.*
 | 0.2 skill check | `scripts/check_skills.py` | built — 4 project + 11 vendored skills clean; `--selftest` 6 cases |
 | 0.3 offline LM | `scripts/lm_fixture.py` | built — `FixtureLM`, `fill()` answers any optimizer's own fields, `offline()` refuses the network |
 | 0.4 a failing case per metric | each script's `selftest`; `scripts/selftests.py` runs all 14 suites | built |
-| 1.1 run record | `scripts/lmrun.py` | built — 9 offline cases |
+| 1.1 run record | `scripts/lmrun.py` | built — 10 offline cases; the tenth (2026-09-24) raises DSPy 3.3's own `LMTransportError`, which the first nine never did, and `call()` re-raised it instead of recording `unreachable` |
 | 1.2 baseline ledger | `scripts/baseline.py`, `Plan/runs/baselines.jsonl` | built — floor rows recorded for both tasks |
 | job 1 harness | `scripts/pairs.py` | built — all five optimizers dry-run; **no real-model run** |
 | job 3 changes | `scripts/rlm_ingest.py` | built — cache off, budget, tools, reach, `--approval`; **not run live** (needs Deno and a yes) |
