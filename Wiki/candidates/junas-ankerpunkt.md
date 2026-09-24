@@ -1,10 +1,10 @@
 ---
 term: Junas Ankerpunkt
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -59,3 +59,9 @@ lokalisieren" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L471] — which m
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
 One occurrence, the first sub-location of the Externe Ebene — Köln 2026: „Junas Ankerpunkt, Garten der stillen Präsenz, Quelle des Flüsterns, Unkartiertes Territorium." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L546]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„spezifischer Ort/Zustand in Köln, an dem Junas Verbindung manifest wird" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L664],
+Kap 38, with the lock open: „Konkreter Ort (Plattenbau? S-Bahn-Station?
+Telefonzelle?)." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L939]
