@@ -230,6 +230,8 @@ ledger specified in three places whose directory does not exist.
 - **Extraction is not trainable**: one usable gold candidate list. Two or three
   more hand-read documents come first.
 
-`references/commands.md` has every script's full surface and its artifacts.
+`references/commands.md` has every script's full surface and its artifacts, and
+`scripts/README.md` is the map of the folder — one entry per file, what it is
+for and what it writes.
 For where DSPy could enter this loop and what data that needs first, read
 `Plan/concept/optimizers-and-data_2026-09-17.md`.

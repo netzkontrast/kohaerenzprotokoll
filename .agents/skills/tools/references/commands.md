@@ -19,7 +19,7 @@ any document is half-processed.
 |---|---|
 | `read.py <slug> [--from N --to M]` | the document to stdout, each line prefixed `NNN\|` |
 | `read.py <slug> --find "<words>"` | `^[Lnn]`, or a refusal naming the nearest lines — exit 1 |
-| `capture.py <slug>` | `Plan/runs/<slug>/01-profile.txt`, `02-probes.txt`, `run.md` |
+| `capture.py <slug>` | `Plan/runs/<slug>/01-profile.txt`, `02-probes.txt`, `probes.json`, and a `03-candidates.md` header if none exists. No script writes `run.md` |
 | `capture.py <slug> --count` | `04-counts.txt`, `counts.json` — refuses without `03-candidates.md` |
 | `profile.py <slug>` | structural facts to stdout |
 | `profile.py --frontmatter <slug>` | the census header, drawn from the manifest so no identifier is ever typed |
@@ -104,7 +104,7 @@ python3 scripts/trainset.py
 ### Every self-test at once
 
 ```bash
-python3 scripts/selftests.py        # 14 suites, one line each: held / FAILED / not run
+python3 scripts/selftests.py        # every suite, one line each: held / FAILED / not run
 ```
 
 It runs each suite under its own interpreter and reports a DSPy suite whose
@@ -153,7 +153,7 @@ python3 scripts/baseline.py show | compare <task> [--floor NAME] | selftest
 python3 scripts/check_skills.py [--selftest]
 ```
 
-- `lmrun.call` is the only way a model is called here: cache off, a record per
+- `lmrun.call` is how `pairs.py` and `graphrag.py` call a model: cache off, a record per
   call in `Plan/runs/<subject>/lm/<step>.jsonl`, status `answered` / `refused`
   / `unparsed` / `unreachable`, and a real model refused without `approval=`.
 - `pairs.py` scores a rule, or a compiled program **on the residual the rule
@@ -163,6 +163,45 @@ python3 scripts/check_skills.py [--selftest]
   one that fell since the last row.
 - `--dry-run` everywhere uses `lm_fixture.offline()`: API keys hidden,
   `litellm.completion` replaced by a refusal.
+
+```bash
+.venv-dspy/bin/python scripts/rlm_ingest.py <slug> --approval "<decision>"   # a real model run
+.venv-dspy/bin/python scripts/rlm_ingest.py <slug> --score                   # against the human list
+python3 scripts/rlm_ingest.py --selftest                                     # tools and reach, offline
+```
+
+`rlm_ingest.py` reads one document with `dspy.RLM` and writes
+`Plan/runs/<slug>/03-candidates-rlm.md`, marked a reading or a reconstruction by
+how many of its candidates cite a line that holds them.
+
+## Entity lists by Jev
+
+Both need `.venv-typesafe`, and every call sends text to a third-party API, so a
+real run waits on the author's yes. `--replay` answers from the cached calls with
+no key and no network.
+
+```bash
+.venv-typesafe/bin/python scripts/bilingual.py all [--replay]
+.venv-typesafe/bin/python scripts/bilingual.py stated|entities|propose|pairs|write [--replay]
+.venv-typesafe/bin/python scripts/jev_entities.py <slug> [--replay]
+```
+
+- `bilingual.py` writes each stage to `Plan/runs/bilingual/<stage>.jsonl`,
+  caches every call under `Plan/runs/bilingual/calls/`, and writes
+  `Plan/entities/bilingual.md` and `.jsonl`.
+- `jev_entities.py` writes `Plan/runs/jev/<slug>/`, its `list.md` in the
+  `Plan/entities` format. A test of a route, not a pipeline step.
+
+## The project app
+
+```bash
+python3 scripts/ui.py              # derive, run the invariants, write Plan/derived/ui/
+python3 scripts/ui.py --check      # also check what was written, the way the canvas reads it
+python3 scripts/ui.py selftest     # each check handed the defect it exists to name
+```
+
+Writes nothing outside `Plan/derived/ui/`. Publishing is a Claude session's
+Artifact call, never the script's.
 
 ## Fetching
 
@@ -200,9 +239,35 @@ resolve*. `quotes.py` checks with them and `graph.py` serves evidence from them.
 ## Setup
 
 ```bash
-scripts/setup_qmd.sh [--check]
+scripts/install.sh [<component> ...]   # everything a fresh container lacks, but qmd-models
+scripts/install.sh --check | --list
+scripts/setup_qmd.sh [--check | --package]
 ```
 
-Installs what git cannot carry: the npm package, the three GGUF models, the
-SQLite index and the embeddings. The configuration itself is committed at
+`install.sh` is what the cloud session-start hook runs: every venv, the uv
+tools, `Plan/derived/` and qmd's package, each skipped when present. A failed
+component is reported and the rest still run.
+
+`setup_qmd.sh` installs what git cannot carry for search: the npm package and
+the path shim (`--package` stops there), the three GGUF models, the SQLite
+index and the embeddings. The configuration itself is committed at
 `.qmd/index.yml`.
+
+## Model calls by third-party tools
+
+```bash
+python3 scripts/route.py models             # probe free models under the data policy
+python3 scripts/route.py serve [--port N]   # OpenAI-compatible proxy for third-party tools
+python3 scripts/route.py ledger             # what was called, by whom, at what cost
+python3 scripts/route.py guard <slug>       # would this document's text be refused?
+python3 scripts/route.py selftest           # offline: no key, no network
+echo PROMPT | python3 scripts/route.py complete --purpose P --doc SLUG
+python3 scripts/templates.py check [FILE ...]   # default: Plan/hyperextract/*.yaml
+python3 scripts/templates.py selftest           # every check shown to fail on its defect
+```
+
+- `route.py` sends only to OpenRouter models whose every listed price is 0,
+  refuses a document `Plan/runs/route/consent.json` does not name, and records
+  every call under `Plan/runs/route/` so a run replays offline.
+- `templates.py` needs `he` (`scripts/install.sh hyperextract`) and writes
+  nothing.
