@@ -125,8 +125,10 @@ No other document, no paid model, nothing to Notion. `scripts/route.py` enforces
 it in code and its `selftest` holds. **The tool review ran on 2026-09-24**, at
 $0 over 339 priced calls: `Plan/concept/tool-review_2026-09-24.md`. No
 extraction tool reached a usable result on this corpus — best F1 0.16 against
-the Haiku floor of 0.25 — and none closes the loop's three gaps; its six
-questions for the author are there, not repeated here. The two replaced the question's examples because only they
+the Haiku floor of 0.25 — and none closes the loop's three gaps. Its six
+questions, the templates page's four and the three-encodings question below were
+**answered by the session on the author's delegation** — decision 008, each
+reversible by the author. The two replaced the question's examples because only they
 have a genuine reader's `03-candidates.md`; the decision file says why.
 
 **Three encodings of one rule.** „No corpus text leaves without the author's
@@ -136,7 +138,8 @@ while `bilingual.py` and `jev_entities.py` call out directly. They met in one
 merge and agree today; P6 says they will not stay agreed. Which one the others
 should call — and whether `route.py`'s record-and-replay or `lmrun`'s
 cache-off is the rule for a measured repeat (P18 either way) — is a decision,
-not a refactor.
+not a refactor. **Decision 008: no refactor now**, revisit when one of them
+changes its rule and the others do not.
 
 **Both Jev keys are present** in the environment (checked 2026-09-23, presence
 only). That removes the technical block and none of the permission one above. A key pasted in chat earlier in
