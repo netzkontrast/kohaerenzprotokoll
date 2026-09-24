@@ -57,10 +57,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 7,
-      "readings": 8,
+      "sources": 8,
+      "readings": 9,
       "conflict": "C1, C8"
     },
     "alex": {
@@ -104,10 +105,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 5,
-      "readings": 4,
+      "sources": 6,
+      "readings": 5,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -216,10 +218,11 @@
       "ingested": [
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -247,10 +250,11 @@
       "ingested": [
         "entropie-aegis",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "ecr": {
@@ -334,10 +338,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C2"
     },
     "erason": {
@@ -364,10 +369,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -414,10 +420,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C4, C6"
     },
     "isabelle": {
@@ -447,10 +454,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -475,10 +483,11 @@
         "kael-julia-bindung"
       ],
       "ingested": [
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "kael": {
@@ -493,10 +502,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -510,10 +520,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "kairos": {
@@ -547,10 +558,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 7,
-      "readings": 6,
+      "sources": 8,
+      "readings": 7,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -591,10 +603,11 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none yet"
     },
     "konstrukt-stadt": {
@@ -608,10 +621,11 @@
         "guardians-und-kern-welten-konzept",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -622,10 +636,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "C11"
     },
     "lex": {
@@ -685,10 +700,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -704,10 +720,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "C5"
     },
     "moonshine-link": {
@@ -719,10 +736,11 @@
       "ingested": [
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "moros": {
@@ -751,10 +769,11 @@
         "entropie-aegis",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -780,10 +799,11 @@
       "ingested": [
         "guardians-und-kern-welten-konzept",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "nichts-rauschen": {
@@ -795,10 +815,11 @@
       "ingested": [
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -823,10 +844,11 @@
       "ingested": [
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "oblivion": {
@@ -838,10 +860,11 @@
       "ingested": [
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "partnerin": {
@@ -864,10 +887,11 @@
         "persistenzgleichung"
       ],
       "ingested": [
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "personas": {
@@ -985,10 +1009,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none yet"
     },
     "rsa": {
@@ -1042,10 +1067,11 @@
       "ingested": [
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "snk": {
@@ -1129,10 +1155,11 @@
       "ingested": [
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "C12"
     },
     "ueberraum": {
@@ -1160,10 +1187,11 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kapitel-kompendium-gather-2026-05-31-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
