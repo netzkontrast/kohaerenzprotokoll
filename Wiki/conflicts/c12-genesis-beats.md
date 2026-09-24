@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 7
+sources: 8
 pages: ["trennungsprotokoll"]
 ---
 
@@ -71,3 +71,15 @@ bible answered it no and the konsolidiertes Konzept answered it with a fourth be
 Ich wird Komponente 734." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L148] The konsolidiertes Konzept counts four with 734
 in beat 2; the character bible three with 734 in beat 3. The [[genesis]] page now
 holds every version.
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**Both orders and a fourth beat, two weeks before the Kapitel-Kompendium.** Kap 0:
+„Komponente 734 → Die Innere Weite (Überwelt-Etablierung)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230], then the crisis
+ending „Systemischer Kollaps → Trennungsprotokoll" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L232] — 734 before. The
+flashbacks: Cluster-Bildung in Kap 18 (L669), the Trennungsprotokoll in Kap 21
+(L741), then „Dritter Genesis-Flashback (Bridge): Komp 734 / Funktionalisierung."
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765] — 734 after. Kap 39: „Genesis 4. Beat vollzogen." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1208] Its own OQ-C
+calls the distribution open: „Kap 18, 21, 22 als Flashback-Träger gesetzt; exakte
+Beat-Verteilung offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371]. The Kapitel-Kompendium gives the same two orders
+and the same fourth beat.
