@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-24"
 ---
 
@@ -49,3 +49,8 @@ The mirror [[alters|Alters]] of Akt III-A: „Silas = Coheron-Echo, Oblivion = E
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
 Proposed, not locked: „Silas erstmals POV-fähig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857] in Kap 31 (`[V]`).
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+A bridge figure by nature: „Silas=Coheron-Echo, Oblivion=Erason-Operator" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L332]
+— in their POV scenes both storyforms are true at once (L332).
