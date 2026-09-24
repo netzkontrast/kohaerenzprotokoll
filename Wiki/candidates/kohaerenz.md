@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-17"
 ---
 
@@ -66,3 +66,7 @@ Kohärenz-Protokoll ist Kaels Heilungsweg." ^[kohaerenz-protokoll-charakter-bibe
 Schicht 1 of three: „Pure Kohärenz, ungetrennt, zeitlos." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L55] Consciousness is „die subjektive Signatur der Kohärenz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L116].
 
 The title's protocol is called a misnomer: „AEGIS' Kohärenzprotokoll ist Entropie-Erzeugung; Kaels Heilung ist das eigentliche Kohärenzprotokoll." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L227] — the `Kohärenzprotokoll` itself is kept as its own term (J57).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+What AEGIS believes itself to be: „AEGIS *glaubt* K₁ (Kohärenz) zu sein" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
