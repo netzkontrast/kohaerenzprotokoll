@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls „Wächter" is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -101,7 +101,7 @@ narrative.
 
 ### What still must not happen
 
-A page claiming the word. The `aegis` alias „Wächter der systemischen Stabilität"
+A page claiming the word. The [[aegis]] alias „Wächter der systemischen Stabilität"
 still folds to a key a bare `Wächter` matches, and document 6 would now map every
 one of its twelve analytic uses onto `aegis` by lookup if `Wächter` were added as
 a surface anywhere. **It was not added.** See `J33`.
@@ -119,3 +119,9 @@ as the title of Kap 8, „Die Wächterin (Wiedergeburt)" ^[kohaerenz-protokoll-s
 function in the first cycle of Akt II, „Wächterin/Beobachter-Blick fängt Rückfall
 ab" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L333]. Neither is a Guardian. **A sixth use of the word family**, and
 again it is resolved by the sentence, not the surface (J20).
+
+## 2026-09-24 — two more feminine uses, both titles
+
+`kohaerenz-protokoll-charakter-bibel-2026-05-08-md` calls [[mnemosyne|Mnemosyne]] „Erinnerungs-Wächterin" in her heading (L182) and gives
+[[selene|Selene]] the arc „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L494]
+The word keeps doing different jobs; J20's rule holds.
