@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -84,7 +84,7 @@ Einfluss von Juna" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L89] without
 > „Unfähigkeit, bestimmte Anomalien (Juna?) korrekt darzustellen oder zu
 > lokalisieren." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L471]
 
-**The question mark is the document's.** It lists her beside Kael as one of the
+**The question mark is the document's.** It lists her beside [[kael|Kael]] as one of the
 anomalies the monitor watches for ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L464] and then names her as the one it might
 fail on. See [[system-monitor]], [[blinder-fleck]].
 
@@ -92,3 +92,27 @@ fail on. See [[system-monitor]], [[blinder-fleck]].
 
 Who she is. The document never says whether she is a person, a process or a
 place, and never uses the name `Julia` this page carries as a surface.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**A cosmological constant, and a grammar rule.**
+
+> „Juna = kosmologische Konstante, nie „Liebes-Interesse"." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L42]
+
+> „Juna: kosmologische Konstante / Zeit-Prinzip / Witness-Funktion. Nicht Schuld
+> am Trauma, nicht Helferin — sie ist" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L286]
+
+The prose rule that follows from it: „Grammatik-Regel: nie Subjekt, nur Wirkung"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L286].
+
+**Her trace is warmth, [[aegis|AEGIS]]' is cold** — a lock dated 2026-05-30:
+
+> „Kaltes Ozon = AEGIS-Unterdrückung (Landauer-Signatur, überall) · Wärme = Junas
+> ununterdrückbare Spur (Coheron-Verdrängung; selten, Debüt Kap 3, wächst)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L64]
+
+See [[landauer-signatur]] and [[coheron]]. Silas, one of the two mirror [[alters|Alters]], is
+„Juna-Echo (Coheron)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L271].
+
+**Where she appears.** Absent through Akt I, first directly in Kap 38: „Stille-Beat:
+Junas erste direkte Erscheinung" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L400]. Her POV is open: „Junas POV: offen"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
