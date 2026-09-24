@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-24"
 ---
 
@@ -39,3 +39,8 @@ It is [[silas|Silas]]' counterpart; its functional sibling is [[mnemosyne|Mnemos
 Roster row: „Oblivion (AEGIS-Echo)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L419], correlate „Erason-Operator" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L420].
 
 „Oblivion als Erason-Operator: er trägt einen Splitter von AEGIS in Kael." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448] „Er löscht, was Kael nicht aushält." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+„Silas = Coheron-Echo, Oblivion = Erason-Operator" ^[kapitel-kompendium-gather-2026-05-31-md.md:L222], the mirror Alters of
+Akt III-A.
