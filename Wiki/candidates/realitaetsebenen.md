@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -42,12 +42,12 @@ template —
 
 **Five levels have a `Domäne`; one has a `Verbindung`.** The document makes that
 distinction in the label itself and never comments on it: [[juna|Juna]] is not the
-domain-holder of the Externe Ebene the way [[logos|LogOS]] is of KW1 — she is what connects
+domain-holder of the [[externe-ebene|Externe Ebene]] the way [[logos|LogOS]] is of KW1 — she is what connects
 to it.
 
 Every one of the document's 51 locations is assigned to exactly one of the six,
-and the distribution is even: KW1 10, KW2 9, KW3 9, KW4 8, Überwelt 8,
-Externe Ebene 7.
+and the distribution is even: KW1 10, KW2 9, KW3 9, KW4 8, [[ueberwelt|Überwelt]] 8,
+[[externe-ebene|Externe Ebene]] 7.
 
 ### The levels are meant to contrast, and the document says so
 
@@ -72,6 +72,12 @@ source, and it is cataloguing rather than defining.
 **What a level *is*.** The document assigns, contrasts and populates the six and
 never says what makes something a Realitätsebene rather than a place inside one.
 
-**Whether the Externe Ebene is inside the same system as the other five.** It is
+**Whether the [[externe-ebene|Externe Ebene]] is inside the same system as the other five.** It is
 counted as one of the six and simultaneously described as external and not
 subject to AEGIS' rules ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L519].
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Teil VI — Lokalitäten: Die sechs Realitätsebenen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L457] — the four Kernwelten, the Überwelt and the Externe Ebene. „Die Romanwelt ist ontologisch geschichtet, nicht topologisch." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L459]
+
+„Keine Multiverse-Geschichte." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1267]
