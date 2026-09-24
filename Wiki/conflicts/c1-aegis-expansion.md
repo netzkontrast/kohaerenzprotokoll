@@ -4,7 +4,7 @@ subject: AEGIS
 kind: expansion of an acronym
 status: open
 first_seen: "2026-09-16"
-sources: 4
+sources: 5
 pages: ["aegis"]
 ---
 
@@ -80,3 +80,8 @@ close enough is a reading for the author.
 
 Position 1 again, as an entry heading: „AEGIS — Autonomous Entropic Gatekeeper for
 Integrity Systems." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299] No other expansion; nothing on which it supersedes.
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Position 1: „Autonomous Entropic Gatekeeper for Integrity Systems." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117] No other
+expansion.
