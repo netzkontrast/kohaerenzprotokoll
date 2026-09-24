@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -108,3 +108,8 @@ KW1, „Konstrukt-Stadt / Logos-Prime" ^[kohaerenz-protokoll-kernwelten-vollstae
 decision. „Temperatur.** **Konstant 21°C.** Jede Abweichung ist Riss-Vorzeichen."
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L113] — and its smell: „Ozon (Landauer-Suppression-Spur, *kalt-elektrisch*) +
 Desinfektionsmittel." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L110]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+KW1, „Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L404] — as decided (C9). Its 21°C is „die
+thermodynamische Bilanzgrenze" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L52].
