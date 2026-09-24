@@ -288,9 +288,9 @@ a warm cache here.
 second one from `braid-dspy`'s sibling repository.** `openrouter/openrouter/
 free`, OpenRouter's own Free Models Router, was one candidate in this
 repository's own `lm-bench` comparison; it serves a *different underlying
-model* on every call, yet "DSPy's cache keys on the prompt, not on the model
-that answered, so a cached hit silently replays whichever model happened to
-answer first" (`Plan/quality/lm-bench_2026-09-16.md`) — a model chosen
+model* on every call, yet "DSPy keys its cache on the prompt, not on the model
+that answered, so a cached hit replays whichever model answered first"
+(`Plan/quality/lm-bench_2026-09-16.md`) — a model chosen
 this way would need the cache off to measure reliability for that reason
 specifically, not only for P18's general one; it is not what `rlm_ingest.py`
 defaults to (`nvidia/nemotron-3-super-120b-a12b:free`, chosen precisely
@@ -341,8 +341,8 @@ manual `*_CACHE_TAG`
 (`dspy-agents:dspy_config.py:45-86`, `dspy-agents:skills/rag/offline_docs.py:39-82`,
 `dspy-agents:apps/agentos_api/app.py:250-272`) —
 this is **path-and-metadata** namespacing, not a hash of the artifact's
-content, and the `dspy-agent-skills` reader's own corrected report calls the
-distinction out directly: "it is also unnecessary for correctness, because
+content, and the `dspy-agents` reader's corrected report
+(`Plan/concept/dspy-extract_2026-09-24/agents-rag.md`) calls the distinction out directly: "it is also unnecessary for correctness, because
 DSPy's cache key is already the sha256 of the full request." `dspydantic`
 shows what happens when a version stamp is trusted instead of a content
 check: `version("dspydantic")` falls back to a hardcoded `"0.1.2"` via

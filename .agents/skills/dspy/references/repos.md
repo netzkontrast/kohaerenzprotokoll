@@ -72,7 +72,9 @@ final retry regardless of score, P15), all 32 skills as a dependency
 `dspy-agent-skills:skills/dspy-evaluation-harness/SKILL.md:104` — `assert
 result.score >= 0.75` passes for any score ≥ 0.75%, since `.score` is 0–100.
 Never measured: `dspy-agent-skills:skills/dspy-gepa-optimizer/SKILL.md`
-§2.15/§3 — "20–50 well-chosen beats 500 bland": the pack's own examples show
+§2.15/§3 — "20–50 well-chosen examples often beats 500 bland ones"
+(`dspy-agent-skills:skills/dspy-optimizer-selection/reference.md:74-78`): the
+pack's own examples show
 gains inside baseline spreads as large as the gains, scored on GEPA's own
 selection set, never held out.
 
@@ -408,8 +410,9 @@ the repository; its only cited source is a vendor blog post, not a paper.
 
 **2026-09-23 report, corrected.** Called the library "not verified against
 DSPy 3.3.1" — now verified, all 185 tests pass, only the docs use
-`dspy.OpenAI`. Praised `BraidOptimizer` as "a clean wrapper of DSPy
-optimizers" — it compiles `module.plan`, which the default `forward` never
+`dspy.OpenAI`. Praised `BraidOptimizer` as "a clean example of 'wrap DSPy's optimizer API
+rather than reinvent it'" (`Plan/concept/dspy-repos_2026-09-23/braid-dspy.md`)
+— it compiles `module.plan`, which the default `forward` never
 calls, so every optimization is a no-op on the path that actually runs.
 Missed that a retry with identical inputs is a cache hit (3 retries, 1 real
 completion).

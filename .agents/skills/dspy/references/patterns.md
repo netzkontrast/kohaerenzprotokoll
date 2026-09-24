@@ -321,8 +321,8 @@ the case the skill is for — "a contested decision" where a decision "has two
 camps" (`dspy-agent-skills:skills/dspy-tetraframe/SKILL.md:3,9`). P/not-P are the two sources' readings,
 attributed; *both* is a typed split the sources already state themselves —
 document 11 puts the character bible's Kap-33 garden down as Juna's *effect*
-and her Kap-38 appearance as a `temporal_split` of C7; *neither* is "the
-conflict is misframed" (P14). `discriminators` names the unread document that
+and her Kap-38 appearance as a `temporal_split` of C7; *neither* would say
+the conflict is misframed (P14). `discriminators` names the unread document that
 would settle it. The output stays a discussion item — decision 006 already
 settled that no run, however framed, resolves anything.
 
@@ -443,8 +443,8 @@ else:
 valid trace, or a successful review is **not** approval"
 (`dspy-agent-skills:skills/dspy-deep-refine/SKILL.md:32,120-122`).
 
-**Code versus docs.** The grading measures "well-formed against the graph", not
-"right": `replace_node(Juna → Kael)` — merging two entities — is graded **HIGH**
+**Code versus docs.** The grading measures whether an action is well-formed
+against the graph, not whether it is right: `replace_node(Juna → Kael)` — merging two entities — is graded **HIGH**
 because the source node exists; deleting an existing edge is HIGH; inserting an
 edge that already exists (a no-op) is HIGH
 (`dspy-agent-skills:skills/dspy-deep-refine/example_deep_refine.py:96-111`, probe
@@ -466,9 +466,11 @@ axes onto this repository's three records, never onto graph edits:
 lists already route a question to unread documents that name it, with the
 line); *incorrectness* → a conflict record, never resolved by the loop (P13,
 P14); *redundancy* → a one-term-or-two judgement for `scripts/pairs.py` and
-`Plan/runs/judgements.jsonl`. `refine_metric`'s "does the question become
-answerable" has a direct analogue already built: `graphrag.py bench`'s 17
-labelled cases, recall@8 42% from seeds alone and 64% with PageRank — measured
+`Plan/runs/judgements.jsonl`. `refine_metric`'s check of whether the question
+becomes answerable has a direct analogue already built: `graphrag.py bench`'s
+17 <!--state:graphrag.cases--> labelled cases, recall@8
+42 <!--state:graphrag.recall_seeds-->% from seeds alone and
+64 <!--state:graphrag.recall_ppr-->% with PageRank — measured
 by retrieval over verified quotations, not by applying edits.
 
 **Verdict.** The *actions* are refused outright: `insert_edge` is an inferred
@@ -537,7 +539,7 @@ residual. Refused: automatic signal extraction from any transcript.
 **Mechanism.** `dspy-session` wraps any `dspy.Module` in `Session`. Each call
 records a `Turn{index, inputs, outputs, history_snapshot: dspy.History,
 score}`, snapshotted at call time and never rewritten later — the snapshot is
-the whole point: "later turns never change it"
+the whole point: later turns never change it
 (`dspy-session:dspy_session/session.py:61-69,689-696`). `to_examples()`
 turns turns into independent `dspy.Example`s, cutting a trajectory at the first
 failing turn under `strict_trajectory` "because later turns may rely on a
@@ -549,8 +551,9 @@ stateless, an optional consolidator distilling L1 into an `l2_memory` string
 `get_child_l1_ledger`, `get_execution_trace`) are the only sanctioned ways one
 node reads another's state, and the design rule is explicit: **"Push, Don't
 Peek."** "If Node A needs Node B's data, Node B must push it as an explicit
-output." Hidden side channels "break optimizer causality"
-(`dspy-session:docs/api-usage-examples.md:975-1111`).
+output." Hidden side channels break optimizer causality: "When the optimizer
+tries to figure out why the writer hallucinated, the causal trace is broken.
+Optimization fails silently." (`dspy-session:docs/api-usage-examples.md:975-1111`).
 
 **Code versus docs — the load-bearing gaps.** A Session-wrapped predictor's
 closure captures the *original* predictor's bound `forward`, so after
@@ -660,8 +663,9 @@ returned "sunny in Oslo"
 (`dspy-agent-skills:skills/dspy-book-agents/example_agent_budget.py:87-92`).
 Substring routing fails the same way, silently: offline scripted intents show
 `"comparative"`, `"Multi-Step"`, `"Multistep"`, `"Not Comparative"` (negated)
-and `"Multi-step (Comparative)"` (wrong branch order) all misrouting into the
-`else` default with no error
+and `"Multi-step (Comparative)"` misrouting with no error: the first three
+fall into the `else` default, and the last two reach the comparative agent,
+because its substring test runs first
 (`Agentic-Dspy-Rag:src/agentic_rag/components/agents.py:109-123`, measured).
 Both are P15's "never reached" masquerading as "answered", produced by exactly
 the free-text pattern `pairs.py`'s `Literal["one-term","two-terms"]` was built
@@ -912,8 +916,8 @@ per-field `ChainOfThought` rewrites one description at a time
 and the metric plugs the rewritten schema into a **separate** extraction call
 and scores that downstream result field by field
 (`dspydantic:src/dspydantic/module.py:50-95`;
-`src/dspydantic/optimizer.py:617-691`). "Optimize a rewriter, score
-downstream" — the optimizer's demos and instructions belong to the rewriter,
+`src/dspydantic/optimizer.py:617-691`). Optimize a rewriter, score
+downstream: the optimizer's demos and instructions belong to the rewriter,
 but the artifact that ships is one rewriter output, judged by what it does one
 step removed. Acceptance is coordinate ascent with a rolling baseline: fields
 sorted deepest first, one compiled alone at a time holding the rest fixed,
@@ -1034,8 +1038,8 @@ measured) — the deterministic-gate-before-the-judge pattern is right; its own
 worked example still has a units bug. And GEPA's own optimized instructions
 memorised gold answers verbatim from the training rows in two of the three
 committed runs (4 of 15 training answers appearing in one learned instruction,
-0 of the held-out 10) — "read the instruction diff before accepting a GEPA
-result" is offered as the corrective, not a promise that GEPA generalises
+0 of the held-out 10) — reading the instruction diff before accepting a GEPA
+result is offered as the corrective, not a promise that GEPA generalises
 (`dspy-agent-skills:examples/*/optimized_program.json`, measured against the
 committed artifacts).
 

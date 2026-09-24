@@ -616,6 +616,15 @@ and cannot go stale in a list.
 
 ## Known failing
 
+**`scripts/qmd_coverage.py` cannot fail while a collection is rooted at `.`.**
+It counts a file as covered when the file lies under any collection's root
+path, and the `decisions` and `all` collections are rooted at `.`, narrowed
+only by their patterns. So every markdown file passes, including `scripts/`
+and `.agents/skills/`, which no pattern indexes. Found by reading the script
+and `.qmd/index.yml` on 2026-09-24, and not run: that container had no qmd
+binary. The fix is to test a file against each collection's pattern, not its
+root.
+
 **17 <!--state:quotes.unresolved--> quotations do not resolve to the line they
 cite.** All predate `scripts/quotes.py`; every page written since is clean. An
 independent design (`dspy-wiki-compile`) weights this axis heaviest of six, at

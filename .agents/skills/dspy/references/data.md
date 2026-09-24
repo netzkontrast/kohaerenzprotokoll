@@ -243,10 +243,11 @@ repository actually has.
 ## Error notes as feedback
 
 **The book's recipe is this repository's `rule` field, independently arrived
-at.** "Annotate each error with prediction, gold and the mechanism … the
-dataset ships the diagnosis, not just the label."
+at.** "Each error gets annotated with what the model predicted, what was
+correct, and why it went wrong as a mechanism", so that "the dataset ships the
+diagnosis, not just the label"
 (`dspy-agent-skills:skills/dspy-book-datasets/SKILL.md:63-71`,
-`reference.md:55-75`). Every `rule` in `Plan/runs/judgements.jsonl` is exactly
+`dspy-agent-skills:skills/dspy-book-eight-steps/reference.md:31`). Every `rule` in `Plan/runs/judgements.jsonl` is exactly
 this — not "one-term" but *why*: `"a German plural ending is not a term
 boundary"` (J4), `"a slash inside a heading is an alias or a role, never a term
 boundary"` (J14). `trainset.score_one`'s feedback string on a miss reads this
@@ -255,9 +256,9 @@ calibration protocol in `metrics.md` (*Judges*) asks a judge-label pass to build
 different reason before either recipe was read.
 
 **Corrections as trainset rows, the pattern `judgements.jsonl` already
-matches.** `dspy-agent-skills`'s reflect-loop pattern: "a HIGH correction with
-the input that triggered it → `dspy.Example(inputs…, expected_behavior,
-forbidden_behavior, feedback)` appended to the program's trainset"
+matches.** `dspy-agent-skills`'s reflect-loop pattern: "HIGH correction with a failing
+input" → "`dspy.Example(inputs…, expected_behavior, forbidden_behavior,
+feedback)` appended to the program's trainset"
 (`dspy-agent-skills:skills/dspy-reflect-loop/reference.md:103-110`).
 `Plan/runs/judgements.jsonl` rows becoming `pairs.py`'s labelled pairs is this
 same shape, with one difference worth stating rather than glossing over: a
@@ -280,8 +281,9 @@ synthesized topic is far better training data than a synthesized joke"
 (`dspy-agent-skills:skills/dspy-book-datasets/SKILL.md:109-112`,
 `reference.md:99-110`). `dspy-auto-gepa`'s `AutoData` is a full synthetic
 generator with three generation paths (targeted, split, signature); none of its
-paths reject a low-judge-score row — "the judge never rejects a row"
-(`dspy-auto-gepa:src/dspy_auto_gepa/generator.py:1193-1227,1399-1403`) — and six
+paths reject a low-judge-score row — the judge never rejects a row
+(`dspy-auto-gepa:src/dspy_auto_gepa/generator.py:1193-1227,1399-1403`;
+`Plan/concept/dspy-extract_2026-09-24/auto-gepa.md`) — and six
 of its config flags (`validators_enabled`, `diversity_enabled`,
 `rejection_sampling_enabled`, `balance_tolerance`, `oversample_factor`,
 `diversity_threshold`'s range check aside) are read nowhere in the package
@@ -325,18 +327,20 @@ literally `ds.val is ds.test → True` whenever no explicit `val` is given and
 the split leaves one row per side — which the repository's own README
 quickstart does, at n=2
 (`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:242-246`; `README.md`,
-verified). The article-level version of the same trap: "the committed scores
-are GEPA's own cached full-valset evaluations … That is the number the
-optimizers chapter says not to report" — the invoice example's own committed
+verified). The article-level version of the same trap: "The committed scores
+are GEPA's own cached full-valset evaluations (used for candidate selection)",
+the number the optimizers chapter says not to report ("Report the held-out
+number.", `dspy-agent-skills:skills/dspy-book-optimizers/SKILL.md:67`) — the
+invoice example's own committed
 `results.json` records that its genuinely fresh re-evaluation "could not
 complete"
 (`dspy-agent-skills:articles/03-inside-the-examples.md:112`;
 `skills/dspy-book-optimizers/SKILL.md:65-67`; `examples/03-invoice-extraction/results.json`).
 
-**Row order decides the split.** `dspy-agents` names the consequence directly:
-"Appending new domains at the end of the file sends them all to MIPROv2's
-valset" (`dspy-agents`, reading against its own `compile_rag.py`, which loads a
-JSONL in file order with no shuffle) — the reason is MIPROv2's own default
+**Row order decides the split.** The `dspy-agents` reader named the
+consequence: "Appending new domains at the end of the file sends them all to
+MIPROv2's valset" (`Plan/concept/dspy-extract_2026-09-24/agents-rag.md`, on `dspy-agents`' own
+`compile_rag.py`, which loads a JSONL in file order with no shuffle) — the reason is MIPROv2's own default
 behaviour, verified above: `valset = trainset[cutoff:]` takes the *last* 80% of
 whatever order the caller handed it, keeping only the first 20% to train on
 (`dspy:teleprompt/mipro_optimizer_v2.py:326`). A dataset that grows by

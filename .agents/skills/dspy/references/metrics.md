@@ -148,7 +148,7 @@ branch on `pred_name`, never on `trace`, because `trace is not None` also fires
 inside `BootstrapFewShot` where `pred_trace` is unset and subscripting it raises
 — is `dspy-agent-skills:skills/dspy-book-metrics/reference.md:143-163`, and the
 reverse mistake is measured: a metric that tests `if trace is None and pred_name
-is None` breaks `BootstrapFewShot` outright, "aborts after 10 metric errors"
+is None` breaks `BootstrapFewShot` outright: it aborts after 10 metric errors
 (`dspy-agent-skills:skills/dspy-book-metrics/reference.md:145-155`; the limit is
 `max_errors=10`, `dspy:dsp/utils/settings.py:32`, `dspy:teleprompt/bootstrap.py:216-220`; verified:
 `boot1.py`, `gepa1.py`). `pairs.py`'s `SameTerm` is a single `dspy.Predict`, so
@@ -277,14 +277,16 @@ if not swap else "B"))`
 (`dspy-agent-skills:skills/dspy-book-coding-agents/reference.md:46-64`) — the
 pattern to reuse if a pairwise judge is ever built here.
 
-**When a pattern table beats a judge.** "~18 compiled regex patterns for known
-tells … strict (any hit scores 0), feedback naming the matched patterns and hit
-count … It costs nothing, never drifts, and the feedback is more specific than a
+**When a pattern table beats a judge.** "The quickstart notebook replaces the
+LLM judge with a table of roughly eighteen compiled regex patterns for known
+tells, scoring zero on any hit and naming the matched patterns in its feedback
+string. It costs nothing, never drifts, and the feedback is more specific than a
 judge's. Reach for a judge when the quality you want cannot be written as a
 pattern — not before."
 (`dspy-agent-skills:skills/dspy-book-eight-steps/SKILL.md:76-84`,
 `reference.md:80-90`). This repository already has its own instance of exactly
-this rule, built before the recipe was read: `fold()` decides 33 of 57
+this rule, built before the recipe was read: `fold()` decides
+33 <!--state:pairs.fold_correct--> of 57
 <!--state:pairs.labelled--> pairs for free, and `pairs.py` sends a model only
 the residual it calls two-terms (P1).
 
