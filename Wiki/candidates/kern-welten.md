@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 6
-readings: 5
+sources: 7
+readings: 6
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -244,6 +244,19 @@ die in vier Kernwelten unterteilt ist" ^[kohaerenz-protokoll-charakter-bibel-202
 ## Decided by the author, 2026-09-24 — the Konstrukt-Stadt is KW1
 
 „Ne stop - es ist nur kw1" (conflict `C9`, corrected the same day after a first
-answer recorded it as the whole simulation). The Konstrukt-Stadt is **KW1**, one
+answer recorded it as the whole simulation). The [[konstrukt-stadt|Konstrukt-Stadt]] is **KW1**, one
 of the four Kern-Welten. The Charakter-Bibel's reading of it as the whole
 simulation stays above as what that document said.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Die vier Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] Four logic regimes, „die psychologische Landschaften sind" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L459].
+
+Each heading carries both generations of names:
+
+- „VI.2 KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L463] — consistent with the author's C9 decision
+- „VI.3 KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L483]
+- „VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L500]
+- „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517] — with the Möglichkeits-Garten a sub-location inside it (L530); conflict C5
+
+„KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] The four ascend in complexity class (L572–L573).
