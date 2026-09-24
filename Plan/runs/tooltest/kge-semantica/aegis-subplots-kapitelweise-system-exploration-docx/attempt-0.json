@@ -1,0 +1,125 @@
+{
+  "unreached": "google/gemma-4-26b-a4b-it:free: rate-limited; google/gemma-4-31b-it:free: rate-limited; qwen/qwen3.8-27b:free: rate-limited; z-ai/glm-5.2:free: rate-limited",
+  "tried": [
+    {
+      "model": "cohere/north-mini-code:free",
+      "status": 200,
+      "why": "empty",
+      "seconds": 11.4
+    },
+    {
+      "model": "inclusionai/ling-3.0-flash-sante:free",
+      "status": 400,
+      "why": "error",
+      "seconds": 0.5
+    },
+    {
+      "model": "inclusionai/ling-3.0-flash-fin:free",
+      "status": 400,
+      "why": "error",
+      "seconds": 0.6
+    },
+    {
+      "model": "dots-studio/dots-3-note-preview:free",
+      "status": 200,
+      "why": "empty",
+      "seconds": 12.3
+    },
+    {
+      "model": "nex-agi/nex-n2.5-mini:free",
+      "status": 200,
+      "why": "empty",
+      "seconds": 8.7
+    },
+    {
+      "model": "nex-agi/nex-n2.5-pro:free",
+      "status": 0,
+      "why": "unreached",
+      "seconds": 115.1
+    },
+    {
+      "model": "google/gemma-4-26b-a4b-it:free",
+      "status": 429,
+      "why": "rate-limited",
+      "seconds": 0.6
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "status": 429,
+      "why": "rate-limited",
+      "seconds": 0.4
+    },
+    {
+      "model": "qwen/qwen3.8-27b:free",
+      "status": 429,
+      "why": "rate-limited",
+      "seconds": 0.4
+    },
+    {
+      "model": "z-ai/glm-5.2:free",
+      "status": 429,
+      "why": "rate-limited",
+      "seconds": 0.5
+    },
+    {
+      "model": "cohere/north-mini-code:free",
+      "status": 200,
+      "why": "empty",
+      "seconds": 11.6
+    },
+    {
+      "model": "inclusionai/ling-3.0-flash-sante:free",
+      "status": 400,
+      "why": "error",
+      "seconds": 0.4
+    },
+    {
+      "model": "inclusionai/ling-3.0-flash-fin:free",
+      "status": 400,
+      "why": "error",
+      "seconds": 0.4
+    },
+    {
+      "model": "dots-studio/dots-3-note-preview:free",
+      "status": 200,
+      "why": "empty",
+      "seconds": 14.5
+    },
+    {
+      "model": "nex-agi/nex-n2.5-mini:free",
+      "status": 200,
+      "why": "empty",
+      "seconds": 10.0
+    },
+    {
+      "model": "nex-agi/nex-n2.5-pro:free",
+      "status": 200,
+      "why": "empty",
+      "seconds": 311.5
+    },
+    {
+      "model": "google/gemma-4-26b-a4b-it:free",
+      "status": 429,
+      "why": "rate-limited",
+      "seconds": 0.5
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "status": 429,
+      "why": "rate-limited",
+      "seconds": 0.5
+    },
+    {
+      "model": "qwen/qwen3.8-27b:free",
+      "status": 429,
+      "why": "rate-limited",
+      "seconds": 0.4
+    },
+    {
+      "model": "z-ai/glm-5.2:free",
+      "status": 429,
+      "why": "rate-limited",
+      "seconds": 0.5
+    }
+  ]
+}

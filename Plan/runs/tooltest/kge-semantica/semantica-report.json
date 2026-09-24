@@ -1,0 +1,24 @@
+{
+  "aegis-subplots-kapitelweise-system-exploration-docx": {
+    "entities_loaded": 0,
+    "triples_loaded": 0
+  },
+  "roman-lokalitaeten-konzept-und-ausarbeitung": {
+    "entities_loaded": 0,
+    "triples_loaded": 0
+  },
+  "graph": {
+    "entities_in": 0,
+    "entities_out": 0,
+    "metadata": {
+      "num_entities": 0,
+      "num_relationships": 0,
+      "temporal_enabled": false,
+      "timestamp": "2026-09-24T19:12:52.557280",
+      "entity_resolution_applied": true,
+      "rejected_relationships": 0
+    }
+  },
+  "duplicates": [],
+  "conflicts": []
+}

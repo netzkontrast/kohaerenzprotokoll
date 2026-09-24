@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "/home/user/kohaerenzprotokoll/scripts/route.py", line 862, in <module>
+    sys.exit(main(sys.argv[1:]))
+             ^^^^^^^^^^^^^^^^^^
+  File "/home/user/kohaerenzprotokoll/scripts/route.py", line 837, in main
+    srv = serve(a.port)
+          ^^^^^^^^^^^^^
+  File "/home/user/kohaerenzprotokoll/scripts/route.py", line 568, in serve
+    return ThreadingHTTPServer(("127.0.0.1", port), Proxy)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socketserver.py", line 456, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.11/http/server.py", line 140, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.11/socketserver.py", line 472, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use

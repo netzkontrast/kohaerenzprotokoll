@@ -1,0 +1,482 @@
+[
+  {
+    "id": "knowledge-graph-extract + semantica#1",
+    "tool": "knowledge-graph-extract + semantica",
+    "step": "2-ingest",
+    "proposal": "Park knowledge-graph-extract as a candidate-term/relation seeder for a person to read, never as a census or page source; re-test running alone (not concurrent with other testers) before deciding further.",
+    "evidence": "validate_triples.py and generate_cypher.py work correctly on both real and empty triples.jsonl; the only measured blocker was contention on the shared free-model pool (route.py ledger showed hyperextract made 241 chat calls and grawiki 20, concurrently with this test, exhausting the 6-model free rotation so every kge call was rate-limited -- a 27-token non-json probe still answered in 1.2s under the same conditions, showing the router itself works).",
+    "may_not": "create a Wiki/candidates/ page, write a [[link]], supply a count, or resolve a conflict -- it is a model's reading like any entity list.",
+    "stored_verdict": "trial",
+    "jev_score": 1.79,
+    "jev_confidence": 0.68,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.21,
+      "2": 0.79
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "knowledge-graph-extract + semantica#2",
+    "tool": "knowledge-graph-extract + semantica",
+    "step": "2-ingest (side track, never automated)",
+    "proposal": "Do not adopt semantica's DuplicateDetector or ConflictDetector into any automated step; they may only ever be run offline to print a list for a person to look at.",
+    "evidence": "A synthetic offline smoke test (AEGIS vs Aegis vs Kael, no model, no network) shows DuplicateDetector correctly flags the casing duplicate (similarity 0.9, confidence 1.0, reasons exact_name_match+same_type) and ConflictDetector correctly flags nothing where nothing conflicts -- both work exactly as documented.",
+    "may_not": "merge two surfaces, write to Wiki/conflicts/, or gate a reconciliation decision -- CLAUDE.md states conflict detection is never mechanised here and merging deletes the disagreement the wiki exists to record (P13/P14).",
+    "stored_verdict": "park",
+    "jev_score": 1.41,
+    "jev_confidence": 0.32,
+    "jev_probabilities": {
+      "0": 0.02,
+      "1": 0.55,
+      "2": 0.43
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "knowledge-graph-extract + semantica#3",
+    "tool": "knowledge-graph-extract + semantica",
+    "step": "route (side track)",
+    "proposal": "Make route.py's per-model timeout an actual hard deadline (subprocess/thread-killable, or stop letting _post's broad except Exception swallow a deliberate deadline signal) so an unreached verdict arrives predictably instead of sometimes taking 500+ seconds against a 45-70s configured timeout.",
+    "evidence": "One kge attempt logged 510.3s against a 45-70s per-model timeout; a signal.alarm-based hard deadline added on top was silently absorbed by _post's except Exception as just another 'tried' entry rather than aborting the call.",
+    "may_not": "change what counts as free, consented, or recorded -- purely about how fast an unreached verdict surfaces.",
+    "stored_verdict": "trial",
+    "jev_score": 1.77,
+    "jev_confidence": 0.66,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.23,
+      "2": 0.77
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "grawiki#1",
+    "tool": "grawiki",
+    "step": "2-ingest / knowledge-graph extraction",
+    "proposal": "Do not use grawiki's GraphRAG.ingest_text as a substitute for scripts/profile.py's census step.",
+    "evidence": "3/3 ingests (doc 5 x2 attempts, doc 6 x1) all failed knowledge-graph extraction on every chunk with the same instructor.exceptions.InstructorRetryException ('Instructor does not support multiple tool calls, use List[Model] instead'); 0 entity/relationship nodes persisted across all three runs despite 61/61/53 structural (document+chunk) nodes persisting fine. See Plan/runs/tooltest/grawiki/*/result-*.json.",
+    "may_not": "Even once fixed, its output is a model's reading under the same limits as knowledge-graph-extract: no page, [[link]], count, merge, or conflict call may come from it.",
+    "stored_verdict": "park",
+    "jev_score": 1.99,
+    "jev_confidence": 0.99,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.99
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "grawiki#2",
+    "tool": "grawiki",
+    "step": "route.py / shared infrastructure",
+    "proposal": "Fix scripts/route.py's sys.path.insert(0, ROOT/\"scripts\") (line 67), which shadows the stdlib profile module with this project's scripts/profile.py and breaks /v1/embeddings for any caller needing the local embedder (grawiki, and potentially others).",
+    "evidence": "Direct reproduction: `python3 -c \"import sys; sys.path.insert(0,'scripts'); import route; route.embed(['x'],...)\"` raises ImportError from sentence-transformers -> transformers -> torch._dynamo -> `import cProfile` -> `import profile` resolving to scripts/profile.py. Standalone `sentence_transformers` import outside that sys.path succeeds instantly. Worked around per-tester without editing scripts/route.py by pre-importing sentence_transformers before the path insert (Plan/runs/tooltest/grawiki/run_proxy_debug.py, not a repo change).",
+    "may_not": "This finding is about the router, not grawiki itself; fixing it is outside this review's write scope (Plan/runs/tooltest/grawiki/ and the review file only).",
+    "stored_verdict": "trial",
+    "jev_score": 1.93,
+    "jev_confidence": 0.9,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.06,
+      "2": 0.94
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "grawiki#3",
+    "tool": "grawiki",
+    "step": "search (side track)",
+    "proposal": "Revisit FalkorDBLite (db.query, db.vector_search, db.fulltext_search) as a second local graph/vector index beside qmd, once extraction is fixed enough to populate it.",
+    "evidence": "FalkorDBLite itself started and served with no problem in this container across all three runs; only the LLM-side entity extraction failed, not the graph store.",
+    "may_not": "Cannot be evaluated further until extraction actually writes entities; currently there is nothing in the graph beyond structural document/chunk nodes to query.",
+    "stored_verdict": "trial",
+    "jev_score": 0.87,
+    "jev_confidence": 0.71,
+    "jev_probabilities": {
+      "0": 0.16,
+      "1": 0.81,
+      "2": 0.03
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "Hyper-Extract (he, he-mcp) with the four project templates in Plan/hyperextract/#1",
+    "tool": "Hyper-Extract (he, he-mcp) with the four project templates in Plan/hyperextract/",
+    "step": "2-ingest / 3-reconcile / ask",
+    "proposal": "park TermCensus, LocationRegistry, TermReadings, StatedRelations until he parse -t can load a file-path template",
+    "evidence": "8/8 identical instant failures; hyperextract/cli/cli.py:331 calls Template.get() which only resolves Gallery entries or method/*, never a path -- confirmed by reading the installed package source and by list_templates returning only the 40 built-ins",
+    "may_not": "be worked around inside Plan/runs/tooltest/hyperextract/; this review did not edit the shared installed package",
+    "stored_verdict": "park",
+    "jev_score": 1.98,
+    "jev_confidence": 0.97,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.01,
+      "2": 0.99
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "Hyper-Extract (he, he-mcp) with the four project templates in Plan/hyperextract/#2",
+    "tool": "Hyper-Extract (he, he-mcp) with the four project templates in Plan/hyperextract/",
+    "step": "2-ingest",
+    "proposal": "once a template can load, re-run TermCensus and score with entities.py score --names against the same gold used here",
+    "evidence": "general/set stand-in proved he parse, the router, the free model and entities.py score --names all work end to end (259 items, cost $0, F1 pipeline runs)",
+    "may_not": "be treated as scoring TermCensus itself -- general/set has no exact-copy guideline",
+    "stored_verdict": "trial",
+    "jev_score": 1.04,
+    "jev_confidence": 0.47,
+    "jev_probabilities": {
+      "0": 0.16,
+      "1": 0.65,
+      "2": 0.19
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "Hyper-Extract (he, he-mcp) with the four project templates in Plan/hyperextract/#3",
+    "tool": "Hyper-Extract (he, he-mcp) with the four project templates in Plan/hyperextract/",
+    "step": "3-reconcile",
+    "proposal": "keep score_location_registry.py (Plan/runs/tooltest/hyperextract/score_location_registry.py) for when LocationRegistry can run; it already parses document 6's 51-row master table from L185 correctly",
+    "evidence": "script output not shown here since no LocationRegistry KA exists yet, but table parsing checked by eye against the source lines",
+    "may_not": "score anything until a LocationRegistry Knowledge Abstract exists",
+    "stored_verdict": "trial",
+    "jev_score": 0.9,
+    "jev_confidence": 0.58,
+    "jev_probabilities": {
+      "0": 0.19,
+      "1": 0.72,
+      "2": 0.09
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "Hyper-Extract (he, he-mcp) with the four project templates in Plan/hyperextract/#4",
+    "tool": "Hyper-Extract (he, he-mcp) with the four project templates in Plan/hyperextract/",
+    "step": "ask",
+    "proposal": "park he-mcp / he info / he search as a read layer, since it has nothing of this project's shape to serve",
+    "evidence": "read side worked (info/search, 2.7s search, 7.4s index build) only against the general/set stand-in KA, not against any project template output",
+    "may_not": "be treated as if it validated TermReadings' 'ask' use case",
+    "stored_verdict": "park",
+    "jev_score": 1.58,
+    "jev_confidence": 0.37,
+    "jev_probabilities": {
+      "0": 0.01,
+      "1": 0.41,
+      "2": 0.58
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "graphify + code-graph-rag (cgr)#1",
+    "tool": "graphify + code-graph-rag (cgr)",
+    "step": "0-check",
+    "proposal": "Run `graphify extract scripts --code-only` periodically as a no-model architecture snapshot; use it to check claims like \"subject.py is the substrate every script asks\" in code, not just prose.",
+    "evidence": "3.3s; 781 nodes/1685 edges/24 communities; subject.py ranks in the top 10 files by edge degree (100 edges), behind route.py/state.py/sources.py/entities.py/bilingual.py/graphrag.py/graph.py/qmd.py, ahead of capture.py.",
+    "may_not": "touch Wiki/ or Sources/, supply a wiki count, or have its 40 INFERRED (indirect_call/calls/uses) edges treated as stated fact -- even the no-model pass guesses some dynamic-call targets.",
+    "stored_verdict": "trial",
+    "jev_score": 1.75,
+    "jev_confidence": 0.62,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.25,
+      "2": 0.75
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "graphify + code-graph-rag (cgr)#2",
+    "tool": "graphify + code-graph-rag (cgr)",
+    "step": "2-ingest (side track, document reading)",
+    "proposal": "Use graphify's document mode (--backend openai via the router) to extract a term/relation reading of a landed document.",
+    "evidence": "Two clean attempts through the consented proxy, both correctly labelled and within decision 007, neither answered within the run's ~25-minute budget; zero ledger rows under purpose=graphify while concurrent testers (grawiki, hyperextract) completed 260+ calls on the same proxy in the same window, so the block is specific to this call chain, not the router.",
+    "may_not": "create a page, [[link]], count, or detect a conflict even if it had produced output -- it would be a model's reading under the same limits as knowledge-graph-extract.",
+    "stored_verdict": "park",
+    "jev_score": 1.27,
+    "jev_confidence": 0.27,
+    "jev_probabilities": {
+      "0": 0.11,
+      "1": 0.51,
+      "2": 0.38
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "graphify + code-graph-rag (cgr)#3",
+    "tool": "graphify + code-graph-rag (cgr)",
+    "step": "0-check",
+    "proposal": "Run `cgr index` + `cgr verify-index` on scripts/ as a second, independently-built structural cross-check alongside graphify's code-only pass.",
+    "evidence": "14.7s; 1315 nodes, 3464 relationships; verify-index passed against its own sha256 manifest; needs no model and no database.",
+    "may_not": "read Wiki/ or Sources/ at all -- cgr cannot read markdown, confirmed by its command surface.",
+    "stored_verdict": "trial",
+    "jev_score": 1.59,
+    "jev_confidence": 0.39,
+    "jev_probabilities": {
+      "0": 0.01,
+      "1": 0.38,
+      "2": 0.61
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "graphify + code-graph-rag (cgr)#4",
+    "tool": "graphify + code-graph-rag (cgr)",
+    "step": "0-check",
+    "proposal": "Adopt cgr check (dangling callers, arity findings, new duplicates, new import cycles) as one more invariant once it is reachable.",
+    "evidence": "cgr --help's own description of `check`; matches the shape of the existing seven 0-check scripts (red/green, names what's wrong) -- but untested here, this is a reading of --help text only.",
+    "may_not": "replace any of the existing seven checks, which need no stateful service; check needs Memgraph, which nothing else on the 0-check list requires.",
+    "stored_verdict": "park",
+    "jev_score": 0.15,
+    "jev_confidence": 0.78,
+    "jev_probabilities": {
+      "0": 0.86,
+      "1": 0.14,
+      "2": 0.0
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "Jev (typesafe judge layer), via scripts/route.py jev#1",
+    "tool": "Jev (typesafe judge layer), via scripts/route.py jev",
+    "step": "3-reconcile (the judgement bucket)",
+    "proposal": "Use a batched Score (two-terms/judgement/one-term) + Noul (not-a-term) call per document, pairs indexed in one state, two attempts required, only on consented documents, as a triage ranking ahead of the judgement bucket -- never to decide it.",
+    "evidence": "16/26 = 0.615 overall agreement with the person's recorded decisions; only 2/5 = 0.40 on the judgement class itself (the case it would most need to be good at); 25/26 = 0.962 repeat consistency across two fresh attempts; 0 refused/unreached over 4 calls; 46,182 input tokens for the full 26-row test, unpriced but token-bounded; Jev's disagreements skew toward its own middle level (8 of 10), consistent with it reporting genuine uncertainty from a short one-line-each-side context rather than mis-scoring.",
+    "may_not": "decide a near match, be written into judgements.jsonl's mechanised_by field (not deterministic -- 0.962 not 1.0 repeat consistency), create a page, a [[link]], a count, or a conflict; run on any document outside decision 007's consent without a fresh consent row.",
+    "stored_verdict": "trial",
+    "jev_score": 1.74,
+    "jev_confidence": 0.61,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.26,
+      "2": 0.74
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "OpenCode 1.18.32 + oh-my-openagent#1",
+    "tool": "OpenCode 1.18.32 + oh-my-openagent",
+    "step": "route",
+    "proposal": "Never run oh-my-openagent unsupervised against this repository; OPENCODE_PURE=1 is the only mode to use.",
+    "evidence": "run1-attempt2 (plugin loaded) ran an unprompted `find / -name route.py` and then read /home/user/kohaerenzprotokoll/scripts/route.py with no permission prompt (empty stderr); the pure run's identical read attempt outside cwd was auto-rejected (\"permission requested: external_directory ... auto-rejecting\").",
+    "may_not": "this is one prompt's evidence of a permission default, not a security audit of the plugin",
+    "stored_verdict": "adopt",
+    "jev_score": 1.56,
+    "jev_confidence": 0.35,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.43,
+      "2": 0.5700000000000001
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "OpenCode 1.18.32 + oh-my-openagent#2",
+    "tool": "OpenCode 1.18.32 + oh-my-openagent",
+    "step": "route",
+    "proposal": "OpenCode's custom provider.route block is a working non-corpus front end to scripts/route.py serve.",
+    "evidence": "grep '\"purpose\": \"opencode-omo\"' Plan/runs/route/ledger.jsonl: 34 rows, all outcome ok, 0 refused/unreached/charged, all answered by cohere/north-mini-code:free; -m route/free held even under the plugin's own renamed agent (log: providerID=route modelID=free agent=\"Sisyphus - ultraworker\").",
+    "may_not": "no consented document text was sent in these runs, so route.py's twelve-word shingle guard and guard <slug> refusal are unexercised for OpenCode specifically",
+    "stored_verdict": "trial",
+    "jev_score": 1.78,
+    "jev_confidence": 0.67,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.21,
+      "2": 0.79
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "OpenCode 1.18.32 + oh-my-openagent#3",
+    "tool": "OpenCode 1.18.32 + oh-my-openagent",
+    "step": "0-check",
+    "proposal": "Do not adopt OpenCode + oh-my-openagent as a second harness for any pipeline phase touching Sources/ or Wiki/.",
+    "evidence": "opencode.log: 'server unavailable key=grep_app type=remote status=failed' -- the plugin reaches for an external service on its own; combined with the unrestricted file read above, its default posture does not match route.py's three guards (free-only, consent, recorded).",
+    "may_not": "no corpus text was given to it in this review, so this is not evidence it would leak corpus text -- only that nothing gates what it can read or contact by default",
+    "stored_verdict": "park",
+    "jev_score": 1.21,
+    "jev_confidence": 0.66,
+    "jev_probabilities": {
+      "0": 0.01,
+      "1": 0.77,
+      "2": 0.22
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "Notion MCP connector (mcp__Notion__*) + four vendored Notion skills (knowledge-capture, meeting-intelligence, research-documentation, spec-to-implementation)#1",
+    "tool": "Notion MCP connector (mcp__Notion__*) + four vendored Notion skills (knowledge-capture, meeting-intelligence, research-documentation, spec-to-implementation)",
+    "step": "notion-connector-as-destination",
+    "proposal": "Do not route any repository artifact into Notion as a second original; if ever used, only as a one-way mechanical push of already-committed markdown (a derived read mirror), never a skill choosing what to write.",
+    "evidence": "search(\"Kohärenz\") found a pre-existing, disconnected Notion planning surface for this novel (2026-03-26, root page + 9 children) whose own text says it is not meant as archive/wiki; CLAUDE.md states nothing in Wiki/ or Sources/ may cite a Notion page.",
+    "may_not": "be cited from Wiki/ or Sources/; carry a number scripts/state.py can check; supply a count, link, page-promotion, surface-merge or conflict-detection -- per CLAUDE.md's limits on any model reading.",
+    "stored_verdict": "park",
+    "jev_score": 1.31,
+    "jev_confidence": 0.43,
+    "jev_probabilities": {
+      "0": 0.04,
+      "1": 0.62,
+      "2": 0.34
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "Notion MCP connector (mcp__Notion__*) + four vendored Notion skills (knowledge-capture, meeting-intelligence, research-documentation, spec-to-implementation)#2",
+    "tool": "Notion MCP connector (mcp__Notion__*) + four vendored Notion skills (knowledge-capture, meeting-intelligence, research-documentation, spec-to-implementation)",
+    "step": "knowledge-capture / research-documentation for decisions and questions",
+    "proposal": "Keep Plan/decisions/*.md and NOW.md's Questions-for-the-author section as the sole home for decisions and discussion capture; do not adopt the Notion skills for this.",
+    "evidence": "Both skills' SKILL.md Requirements/Configuration sections assume a Notion API token and named database IDs this project does not configure (Notion is reached only via the claude.ai connector); their output would be outside git, so it could carry no commit naming its source document and no scripts/state.py check.",
+    "may_not": "create a Wiki/ page, write a [[link]], supply a count, merge two surfaces, or detect a conflict -- conflict detection is never mechanised.",
+    "stored_verdict": "park",
+    "jev_score": 0.96,
+    "jev_confidence": 0.33,
+    "jev_probabilities": {
+      "0": 0.24,
+      "1": 0.56,
+      "2": 0.2
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.78,
+    "jev_input_tokens": 6398
+  },
+  {
+    "id": "Notion MCP connector (mcp__Notion__*) + four vendored Notion skills (knowledge-capture, meeting-intelligence, research-documentation, spec-to-implementation)#3",
+    "tool": "Notion MCP connector (mcp__Notion__*) + four vendored Notion skills (knowledge-capture, meeting-intelligence, research-documentation, spec-to-implementation)",
+    "step": "meeting-intelligence / spec-to-implementation",
+    "proposal": "No trial.",
+    "evidence": "NOW.md states explicitly: 'There is no board, no status field and no backlog.' Neither skill's premise (meeting database, attendee database, task/estimate tracking) matches anything this repository does.",
+    "may_not": "n/a -- no matching repository object exists for either skill to act on.",
+    "stored_verdict": "park",
+    "jev_score": 0.57,
+    "jev_confidence": 0.15,
+    "jev_probabilities": {
+      "0": 0.65,
+      "1": 0.13,
+      "2": 0.22
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.64,
+    "jev_input_tokens": 1344
+  },
+  {
+    "id": "install.sh + .claude/hooks/session-start.sh#1",
+    "tool": "install.sh + .claude/hooks/session-start.sh",
+    "step": "0-check",
+    "proposal": "Adopt the hook/install.sh pair as-is: synchronous session-start install, --check as the pre-flight gate one layer below account.py order.",
+    "evidence": "--check: 14/15 ok with the one documented exception (qmd-models); selftests.py 18/18 held after whatever install.sh last did in this container; forced jev reinstall 1.8s real, agreeing with the script's own 2s self-report.",
+    "may_not": "This review cannot certify the cold-container worst case that CLAUDE.md itself already flags as unmeasured (grawiki's CPU-torch pull); adopting the current shape is not a claim about that number.",
+    "stored_verdict": "adopt",
+    "jev_score": 1.17,
+    "jev_confidence": 0.74,
+    "jev_probabilities": {
+      "0": 0.0,
+      "1": 0.83,
+      "2": 0.17
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.64,
+    "jev_input_tokens": 1344
+  },
+  {
+    "id": "install.sh + .claude/hooks/session-start.sh#2",
+    "tool": "install.sh + .claude/hooks/session-start.sh",
+    "step": "0-check",
+    "proposal": "Time one real cold container start end to end to either back or replace CLAUDE.md's 'about a minute plus an unmeasured torch pull' line.",
+    "evidence": "This container's uv/npm caches and vendored clone histories were all already warm; the only reinstall I could force (jev) is too cheap (one small git clone + uv tool install) to bound grawiki's multi-hundred-MB pull.",
+    "may_not": "Not itself a measurement of the cold path -- names what to measure, does not supply the number.",
+    "stored_verdict": "trial",
+    "jev_score": 0.53,
+    "jev_confidence": 0.21,
+    "jev_probabilities": {
+      "0": 0.54,
+      "1": 0.39,
+      "2": 0.07
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.64,
+    "jev_input_tokens": 1344
+  },
+  {
+    "id": "install.sh + .claude/hooks/session-start.sh#3",
+    "tool": "install.sh + .claude/hooks/session-start.sh",
+    "step": "0-check",
+    "proposal": "Give qmd-models' present() check the same exact-value rigor as the other components (it currently shells out to scripts/setup_qmd.sh --check rather than checking a size/count directly, install.sh line 79) if that shell-out is ever shown to dominate --check's 8.4s total.",
+    "evidence": "--check's total wall time (8.438s) already includes this one non-import-based check; this review did not isolate its individual cost.",
+    "may_not": "Speculative until isolated; not backed by a per-component timing breakdown.",
+    "stored_verdict": "park",
+    "jev_score": 0.47,
+    "jev_confidence": 0.3,
+    "jev_probabilities": {
+      "0": 0.54,
+      "1": 0.45,
+      "2": 0.01
+    },
+    "jev_responded": true,
+    "jev_model": "jev-1.13.0",
+    "jev_seconds": 0.64,
+    "jev_input_tokens": 1344
+  }
+]

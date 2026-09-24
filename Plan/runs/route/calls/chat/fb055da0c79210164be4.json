@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.9,
+ "content": "",
+ "response": {
+  "id": "gen-1790277375-IQJwn7nQT4wqMUBz7iEJ",
+  "object": "chat.completion",
+  "created": 1790277375,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user is asking me to explain what \"scripts/route.py\" does in five sentences. I need to read that file first, but the initial read failed because it wasn't found at the path I tried. Let me check if there's a scripts directory and if there's a route.py file there.\n\nLet me search for the scripts directory and the route.py file more systematically.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "bash_9cc74xznykm4",
+       "function": {
+        "name": "bash",
+        "arguments": "{\"command\": \"find . -path \\\"*/scripts/route.py\\\" -type f 2>/dev/null\"}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user is asking me to explain what \"scripts/route.py\" does in five sentences. I need to read that file first, but the initial read failed because it wasn't found at the path I tried. Let me check if there's a scripts directory and if there's a route.py file there.\n\nLet me search for the scripts directory and the route.py file more systematically.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 42157,
+   "completion_tokens": 98,
+   "total_tokens": 42255,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 89,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,16 @@
+{
+ "model": "jev-1.13.0",
+ "seconds": 0.8,
+ "input_tokens": 332,
+ "answers": {
+  "test-1": {
+   "score": 0.66,
+   "confidence": 0.01,
+   "probabilities": {
+    "0": 0.63,
+    "1": 0.08,
+    "2": 0.29
+   }
+  }
+ }
+}

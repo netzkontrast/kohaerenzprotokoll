@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.9,
+ "content": "Explaining scripts/route.py",
+ "response": {
+  "id": "gen-1790277329-O3pqgJ2mMvQWdab5Ommc",
+  "object": "chat.completion",
+  "created": 1790277329,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "Explaining scripts/route.py",
+     "refusal": null,
+     "reasoning": "We need to generate a title for the conversation: \"Explain in five sentences what scripts/route.py does.\"\n\nWe must follow rules: output a single line ≤50 characters, no explanations, same language as user (English). Title must be grammatically correct, no tool names, focus on main topic. The user wants an explanation of a file scripts/route.py. So title could be something like \"Explaining scripts/route.py functionality\". But need ≤50 characters. \"scripts/route.py explanation\" is short. But maybe \"Explaining scripts/route.py\". That's 28 characters. That's good. Must not include \"summarizing\" or \"generating\". It's okay. No tools. Title should reflect the request: explanation of route.py. So \"Explaining scripts/route.py\". That seems fine.\n\nCheck length: characters count: \"Explaining scripts/route.py\" -> count: E(1) xplaining(8) =9, space=10, scripts(15)=6? Actually let's count: \"Explaining\" (10 letters), space (1) =11, \"scripts\" (7) =18, \"/\" (1) =19, \"route.py\" (8) =27. So 27 characters. Good.\n\nThus output that title.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to generate a title for the conversation: \"Explain in five sentences what scripts/route.py does.\"\n\nWe must follow rules: output a single line ≤50 characters, no explanations, same language as user (English). Title must be grammatically correct, no tool names, focus on main topic. The user wants an explanation of a file scripts/route.py. So title could be something like \"Explaining scripts/route.py functionality\". But need ≤50 characters. \"scripts/route.py explanation\" is short. But maybe \"Explaining scripts/route.py\". That's 28 characters. That's good. Must not include \"summarizing\" or \"generating\". It's okay. No tools. Title should reflect the request: explanation of route.py. So \"Explaining scripts/route.py\". That seems fine.\n\nCheck length: characters count: \"Explaining scripts/route.py\" -> count: E(1) xplaining(8) =9, space=10, scripts(15)=6? Actually let's count: \"Explaining\" (10 letters), space (1) =11, \"scripts\" (7) =18, \"/\" (1) =19, \"route.py\" (8) =27. So 27 characters. Good.\n\nThus output that title.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 506,
+   "completion_tokens": 259,
+   "total_tokens": 765,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 261,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.3,
+ "content": "",
+ "response": {
+  "id": "gen-1790277388-lfZ3i44LJHywPzd7nFFV",
+  "object": "chat.completion",
+  "created": 1790277388,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "It seems there's a file called \"route_serve.log\" but not \"route.py\". Let me search for route-related Python files more thoroughly to see if there's a script with a similar name.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "bash_h3a8hkr87mkk",
+       "function": {
+        "name": "bash",
+        "arguments": "{\"command\": \"find /tmp -name \\\"*.py\\\" -exec grep -l \\\"scripts/route\\\" {} \\\\; 2>/dev/null | head -5\"}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "It seems there's a file called \"route_serve.log\" but not \"route.py\". Let me search for route-related Python files more thoroughly to see if there's a script with a similar name.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 45366,
+   "completion_tokens": 76,
+   "total_tokens": 45442,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 45,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

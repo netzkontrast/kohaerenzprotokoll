@@ -1,0 +1,68 @@
+{
+ "model": "inclusionai/ling-3.0-flash-sante:free",
+ "provider": "Novita",
+ "seconds": 1.2,
+ "content": "ready",
+ "response": {
+  "id": "gen-1790276960-Y6A5OTrZ2aFw66D5C3JK",
+  "object": "chat.completion",
+  "created": 1790276960,
+  "model": "inclusionai/ling-3.0-flash-sante:free",
+  "provider": "Novita",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "ready",
+     "refusal": null,
+     "reasoning": "The user wants me to reply with the single word \"ready\".",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to reply with the single word \"ready\".",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 27,
+   "completion_tokens": 16,
+   "total_tokens": 43,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 14,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": [
+  {
+   "model": "cohere/north-mini-code:free",
+   "status": 200,
+   "why": "empty",
+   "seconds": 0.7
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.1,
+ "content": "",
+ "response": {
+  "id": "gen-1790277476-5238XdiCqfuQnGpxdhJI",
+  "object": "chat.completion",
+  "created": 1790277476,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to explain what scripts/route.py does in five sentences. I need to read the file to understand its contents and then provide a concise explanation.\n\nLet me first read the scripts/route.py file to understand what it does.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "read_webzrgfcfjmg",
+       "function": {
+        "name": "read",
+        "arguments": "{\"filePath\": \"/workspace/scripts/route.py\"}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to explain what scripts/route.py does in five sentences. I need to read the file to understand its contents and then provide a concise explanation.\n\nLet me first read the scripts/route.py file to understand what it does.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 14886,
+   "completion_tokens": 57,
+   "total_tokens": 14943,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 60,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}
