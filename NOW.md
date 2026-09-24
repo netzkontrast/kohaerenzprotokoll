@@ -26,6 +26,13 @@ Decided so far: **C6** — five Guardians. **C9** — the Konstrukt-Stadt is KW1
 - **C7** — Juna's direct appearance: once, ca. Kap 33, or first in Kap 38?
 - **C8** — AEGIS' Approach in Storyform B: Be-er or Do-er?
 - **C10** — do Kael's knuckles bleed in Kap 1?
+- **C11** — Landauer heat in Kap 6 (and Kap 36): warm, or cold ozone as the
+  2026-05-30 lock says?
+- **C12** — the Genesis: three beats (Charakter-Bibel) or four (konsolidiertes
+  Konzept, and document 7)? And does Komponente 734 come before the
+  Trennungsprotokoll or out of it?
+- **Q5** — Sophia: the consolidated concept names her once and places her
+  function nowhere. Where does it go?
 - **C1–C5** — from the 2025 research documents; not yet put to the author.
 
 ## Open decisions — these are judgement, not measurement
@@ -61,7 +68,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-298 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+329 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -128,7 +135,7 @@ written:
   catalogues every Drive document, the canon-era ones included, so they land
   through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
   from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
-  2026-09-24 (see *Landed* below); two are read — documents 7 and 8, below. Still open: the
+  2026-09-24 (see *Landed* below); three are read — documents 7, 8 and 9, below. Still open: the
   manuscript and the NCP files, which are not Drive documents and sit only under
   `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
@@ -153,7 +160,7 @@ with the command that creates `.venv-dspy`.
 In order, and none of it needs a model:
 
 1. **More retrieval cases.** `graphrag.py bench` has
-   15 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   17 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
    pages. The `## Open` sections (`relations.py --open`) are a second source;
    write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
    has why and the next four steps after it.
@@ -304,6 +311,28 @@ high tier into it is the next step, and it is a person's.
 
 ## Next document — not yet chosen
 
+**The ninth is done: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-09-24.** 446 candidates, 2 new pages
+(`erason`, `persistenzgleichung`), readings on 45 pages, two new conflicts (C11,
+C12), and C5–C10 and Q5 moved. `Wiki/compare/reconcile-10-koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md` has the record.
+
+What it found:
+
+- **The two 2026-05-08 documents disagree with each other** — on C7 and C8 this
+  one sides with document 7, and on C12 with neither. No date can order them.
+- **C11 is a conflict document 7 had already recorded** against „an outline of
+  2026-05-08", quoted in this document's exact words. The wiki now holds both
+  sides.
+- **C5 got the source the list below asked for**: `Garten der Möglichkeiten` names
+  KW4 and `Möglichkeits-Garten` is a place inside it, in one document (L517,
+  L530). One source at two scales is a reading, so J35 holds (J61).
+- **Q5** — a third absorption: LogOS, Cerberus and Kairos into the Erasure-Pol.
+  Sophia is placed nowhere.
+- It claims to be „autoritative Spec" (L1395). Recorded, not applied.
+
+What it leaves: 30 canon-era rows landed and unread. Its own open table
+(OQ-A … OQ-G, L1198–L1218) names what a later document would have to settle —
+the name of the plural AEGIS, Juna's modes, the mirror Alters' chapters.
+
 **The eighth is done: `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-09-24.** 302 candidates,
 16 new pages (the twelve Alters, `moonshine-link`, `telefon-stille`,
 `algorithmische-melancholie`, `cache-kohaerenz`), readings on 22 pages, and four
@@ -431,9 +460,9 @@ later, none failing. 26 were `md`, which `fetch` skipped before: the two new fla
 are opt-in, and `md` takes the same text route that landed the four `md` rows on
 2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
-in another escaping — so 37 canon-era rows became 33, all landed. **Two are read**,
-`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` and `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, as
-documents 7 and 8 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
+in another escaping — so 37 canon-era rows became 33, all landed. **Three are read**,
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md` and
+`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, as documents 7, 8 and 9 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
 documents) has not been compared against the landed files.
 
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe

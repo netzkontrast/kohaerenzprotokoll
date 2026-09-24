@@ -154,9 +154,9 @@ term in prose without marking it — more than three times the marked links.
 `aegis`, the most central term in the corpus, was an orphan with its name
 standing unmarked in other pages 68 times.
 
-Decision 005 closed it. The wiki now carries 282 <!--state:wiki.relations-->
-links across 76 <!--state:wiki.pages--> pages, 18 <!--state:wiki.orphans-->
-orphans and 87 <!--state:wiki.unmarked--> mentions the pass may not touch,
+Decision 005 closed it. The wiki now carries 290 <!--state:wiki.relations-->
+links across 78 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans-->
+orphans and 108 <!--state:wiki.unmarked--> mentions the pass may not touch,
 because their first occurrence sits inside a quotation or a citation line.
 
 So DRG's extraction and graph modules stay unused, and its evaluation module is

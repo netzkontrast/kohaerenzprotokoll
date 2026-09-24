@@ -3,15 +3,15 @@
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 8,
+      "value": 9,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 8,
+      "value": 9,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 8,
+      "value": 9,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -31,31 +31,31 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 691,
+      "value": 799,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 662,
+      "value": 848,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 574,
+      "value": 759,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 99,
+      "value": 104,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
-      "value": 15,
+      "value": 17,
       "how": "retrieval cases the wiki labels itself: questions and conflicts"
     },
     "graphrag.recall_ppr": {
-      "value": 62,
+      "value": 60,
       "how": "graphrag bench mean recall@8 in whole percent, personalized PageRank"
     },
     "graphrag.recall_seeds": {
-      "value": 44,
+      "value": 42,
       "how": "graphrag bench mean recall@8 in whole percent, seeds alone \u2014 the floor"
     },
     "judgements.disagree": {
@@ -67,7 +67,7 @@
       "how": "judgements a rule now claims and still agrees with"
     },
     "judgements.total": {
-      "value": 59,
+      "value": 62,
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
@@ -75,11 +75,11 @@
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
     "pairs.fold_correct": {
-      "value": 29,
+      "value": 30,
       "how": "of those, decided correctly by fold() \u2014 the floor"
     },
     "pairs.labelled": {
-      "value": 49,
+      "value": 52,
       "how": "labelled one-term-or-two pairs derived from the judgement ledger"
     },
     "proposals.entities": {
@@ -95,11 +95,11 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 986,
+      "value": 1248,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 298,
+      "value": 329,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -139,7 +139,7 @@
       "how": "rows in Sources/manifest.jsonl"
     },
     "trainset.fold_baseline_pct": {
-      "value": 59,
+      "value": 58,
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
@@ -147,11 +147,11 @@
       "how": "candidate lists written while reading, not reconstructed"
     },
     "trainset.surface_pairs": {
-      "value": 49,
+      "value": 52,
       "how": "labelled one-term/two-terms examples in the ledger"
     },
     "wiki.conflicts": {
-      "value": 10,
+      "value": 12,
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
@@ -159,11 +159,11 @@
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 18,
+      "value": 19,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
-      "value": 76,
+      "value": 78,
       "how": "pages counted by the derived Wiki/index.json"
     },
     "wiki.questions": {
@@ -171,11 +171,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 282,
+      "value": 290,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 87,
+      "value": 108,
       "how": "a page's term written in another page's prose without being marked a link"
     }
   }
