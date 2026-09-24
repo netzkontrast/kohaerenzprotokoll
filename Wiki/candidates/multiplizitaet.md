@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -41,3 +41,21 @@ reading both.
 
 Recorded as an alias rather than a second term, provisionally. **If a source
 turns out to distinguish them, this page is wrong and splits.**
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**The goal is plural, never one.**
+
+> „Funktionale Multiplizität, niemals Fusion. Kein Alter wird eliminiert, keines
+> wird zu einem Ich" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L276]
+
+Storyform A's premise ends there: „Kael erreicht Funktionale Multiplizität"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L172]. `Funktionale Multiplizität` is recorded as this term with a qualifier
+of scope (J21).
+
+**And it is hidden from the reader for a third of the book** — the „Schleier-Disziplin" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L46]:
+
+> „Multiplizität wird im Roman nicht ausgesprochen bis ~Kap 10; vor Kap 13 keine
+> Klartext-Diagnose (kein „Alters", kein „DID")." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L46]
+
+The roster is on [[alters]].
