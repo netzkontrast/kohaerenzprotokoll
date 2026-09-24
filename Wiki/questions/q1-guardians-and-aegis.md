@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -140,9 +140,9 @@ became two (`C6`).
 
 ## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
-**Components, placed inside AEGIS' own architecture.** The two [[guardians|Guardians]] are
+**Components, placed inside [[aegis|AEGIS]]' own architecture.** The two [[guardians|Guardians]] are
 listed under „III.2 Architektur (post-Reset, kanonisch)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L209], a section of the
-part on AEGIS, and they live where AEGIS works: „Hier residieren die zwei
+part on [[aegis|AEGIS]], and they live where [[aegis|AEGIS]] works: „Hier residieren die zwei
 Guardians als abstrakte Entitäten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L535] — the Überwelt, „AEGIS' Maschinenraum"
 ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L534]. They speak as AEGIS does: „AEGIS und die zwei Guardians sprechen in 3.
 Person" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L425].
@@ -155,3 +155,9 @@ how five sit inside this architecture, this source cannot say.
 **Components, registered.** „Hier residieren die zwei Guardians (Mnemosyne +
 Erasure-Pol) als abstrakte Entitäten" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L502] — in AEGIS' Überwelt — and the
 Wächter-Registry is „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L576].
+
+## 2026-09-24 — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Instruments.** „Guardian-Deployments" are among AEGIS' acts (L97), and the overall
+story is „die Manipulation der simulierten Welt durch AEGIS+Guardians" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L206].
+Something AEGIS deploys is not its peer.
