@@ -745,3 +745,87 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** Landauer-Signatur is defined here (L64); Entropie-Signatur is a coinage inside a question in another document.
 
 **Result.** TWO terms.
+
+## J54 — Basisrealität / Externe Ebene
+
+**one-term** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** two names given the same place and the same attributes in the same words are one term
+- **mechanised by:** `nothing`
+- **features:** same-description, cross-document
+
+**Question.** the Basisrealität of this document and the Externe Ebene of the other canon-era source
+
+**What was done.** L62: „Die Basisrealität — Köln 2026 … nur als Erinnerungsfragment, als Telefonton, als Geruch.“ The other: „Externe Ebene (Köln 2026 — nie Bühne, nur Erinnerungsfragment, Telefonton, Geruch)“.
+
+**Result.** ONE term. Same place, same four attributes, word for word.
+
+## J55 — Kael / System Kael
+
+**judgement** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a name the source uses for a whole and one of its members is resolved by the sentence, never by the surface
+- **mechanised by:** `nothing`
+- **features:** one-surface-two-referents, whole-and-member
+
+**Question.** this document uses the bare name for both the system and the host
+
+**What was done.** L298: „Kael ist ein System“; L315: „Kael auch eine spezifische ANP-Instanz: der Host“.
+
+**Result.** JUDGEMENT per sentence. J48 held for the other document, which wrote System Kael; here the bare name carries both, and the page records both, attributed.
+
+## J56 — Coheron / Coheronen
+
+**one-term** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a German plural is not a term boundary
+- **mechanised by:** `nothing`
+- **features:** german-plural
+
+**Question.** the plural as a candidate
+
+**What was done.** Coheronen at L256 and L913, the singular elsewhere.
+
+**Result.** ONE term.
+
+## J57 — Kohärenz / Kohärenzprotokoll
+
+**two-terms** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming a protocol is not the property it is named for
+- **mechanised by:** `nothing`
+- **features:** compound, three-referents
+
+**Question.** the word names K1, the novel, AEGIS' second protocol and Kael's healing
+
+**What was done.** L105 K1; L113 the title and „Das eigentliche Kohärenz-Protokoll ist Kaels Heilungsweg“; L132 the protocol.
+
+**Result.** TWO terms at least; the protocol and the title stay on kohaerenz as readings, no page.
+
+## J58 — Wohneinheit 734-K / Kaels Wohneinheit 1.0
+
+**one-term** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a dwelling is identified by its occupant and its place; a differing number is a reading, not a new term
+- **mechanised by:** `nothing`
+- **features:** numbered-instance, same-occupant
+
+**Question.** a third number for the dwelling
+
+**What was done.** L311: „Wohneinheit 14/Sektor 7/Wohneinheit 734-K“, Kael's address in the simulation.
+
+**Result.** ONE term, as J50.
+
+## J59 — Erasure-Pol / Erasure
+
+**two-terms** · kohaerenz-protokoll-charakter-bibel-2026-05-08-md · 2026-09-24 · replay: `judgement`
+
+- **rule:** a compound naming an entity is not a surface of the property it contains
+- **mechanised by:** `nothing`
+- **features:** compound, role
+
+**Question.** a Guardian named after the act
+
+**What was done.** L58: „ein nicht-näher-spezifizierter Erasure-Pol als Löschungs-Exekutive“.
+
+**Result.** TWO terms. No page: the document itself calls it unspecified.
