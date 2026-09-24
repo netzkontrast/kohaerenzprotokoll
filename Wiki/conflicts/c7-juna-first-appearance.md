@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 3
+sources: 4
 pages: ["juna"]
 ---
 
@@ -54,3 +54,15 @@ stillen Präsenz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L54
 scene — without a scene in it.
 
 Two sources of the same date now disagree; the count of sides is not a settlement.
+
+## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**A correction to this record, and no answer.** *What would settle it* above names
+„the Kapitel-Kompendium of 2026-05-31 (named by the later document as its highest
+source; not in `Sources/`)". **That was wrong when this document landed with the
+canon era on 2026-09-24**: it is `kapitel-kompendium-gather-2026-05-31-md`, and it is now read.
+
+It does not settle C7. No chapter line gives [[juna|Juna]] a direct appearance, and its
+Vortex 2 (L240) does not mention one. What it says of her in the novel's run is
+the rule „nie Subjekt, nur Wirkung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] and a forewarning, „Junas zunehmende
+Stille" ^[kapitel-kompendium-gather-2026-05-31-md.md:L152]. The question stays with the author.
