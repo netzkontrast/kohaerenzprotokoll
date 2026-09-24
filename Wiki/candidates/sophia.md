@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -83,3 +83,7 @@ and says why: „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerbe
 Kairos, Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The earlier readings on this
 page are what this document calls earlier drafts. Recorded, not applied — see
 `C6`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**One occurrence**, in the list of the old five: „Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L210] The absorption sentence (L217) names three of the four others and not Sophia. Where Sophia's function went, this document does not say. Q5.
