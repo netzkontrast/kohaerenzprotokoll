@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -60,3 +60,9 @@ A bridge figure by nature: „Silas=Coheron-Echo, Oblivion=Erason-Operator" ^[dr
 In the glossary's Alter table: role „Juna-Echo" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L261], correlate „Coheron-Echo (Tunneling)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L262], somatics „offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L263], arc „unbewusst → wachsend → offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L264].
 
 „Silas trägt einen Splitter von Juna in Kael." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L276]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Function „Internalisiertes Nachbild der Bindung, Moonshine-Resonanzkörper im System" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L155], correlate „Coheron-Echo, Tunneling" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L155], position „Spiegel-Alter (weder ANP noch EP)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L155].
+
+Kap 31: „Silas tritt als POV-Träger auf" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L985] — a proposal, by the document's OQ-E: „Kap 31 (Silas-POV), Kap 32 (Oblivion-POV) sind Vorschläge" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1373].
