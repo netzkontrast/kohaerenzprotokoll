@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,11 @@ One of the thirteen [[alters|Alters]] — EP, „Ambivalent / Kind" in its headi
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10, one table row
 
 Its roster row gives category `EP`, function `Ambivalent` and arc `→ Superposition verlassen` ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L267]. Recorded in that document's reconciliation as not promoted, and attached here now that a profile exists.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Lia (Ambivalent)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L394], correlate „Superposition" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L395], somatics „offen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L396], arc „→ Superposition verlassen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L397].
+
+From the first trauma layer: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L436]
+
+Its Riss type is shared with Isabelle — „(Flight, Lia/Isabelle)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L560], „Spatial" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L561] — a trigger name the roster does not give Lia.
