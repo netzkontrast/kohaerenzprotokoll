@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 3
-readings: 2
+sources: 4
+readings: 3
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -89,17 +89,17 @@ first read source that counts the Alters and names every one.
 |---|---|---|--:|
 | ANP | [[kael|Kael]] (Host) | amnestische Oberfläche | 260 |
 | ANP | Lex | Rationalist | 261 |
-| ANP | Alex | Protector | 262 |
-| ANP | Rhys | Caregiver | 263 |
-| ANP | Selene | ISH | 264 |
+| ANP | [[alex|Alex]] | Protector | 262 |
+| ANP | [[rhys|Rhys]] | Caregiver | 263 |
+| ANP | [[selene|Selene]] | ISH | 264 |
 | EP | Nyx | Fight | 265 |
-| EP | Kiko | Freeze | 266 |
+| EP | [[kiko|Kiko]] | Freeze | 266 |
 | EP | Lia | Ambivalent | 267 |
-| EP | Isabelle | Sexualisiert | 268 |
-| EP | Moros | Kollaps | 269 |
-| Sonder | Argus | Meta-Kognitiv | 270 |
-| Spiegel | Silas | Juna-Echo ([[coheron|Coheron]]) | 271 |
-| Spiegel | Oblivion | AEGIS-Echo (Erason) | 272 |
+| EP | [[isabelle|Isabelle]] | Sexualisiert | 268 |
+| EP | [[moros|Moros]] | Kollaps | 269 |
+| Sonder | [[argus|Argus]] | Meta-Kognitiv | 270 |
+| Spiegel | [[silas|Silas]] | Juna-Echo ([[coheron|Coheron]]) | 271 |
+| Spiegel | [[oblivion|Oblivion]] | AEGIS-Echo (Erason) | 272 |
 
 > „Dekanonisiert (NIE als aktive Charaktere): Index, Nox, Echo, Flicker, Limina,
 > Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel."
@@ -115,3 +115,18 @@ Every Alter speaks in first person — „Alle 13 Alter sprechen in 1. Person"
 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206]. No page is created per Alter: the document says its figure entries
 are only „outline-relevante Kurzanker" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L13], and the character bible it
 defers to is landed and unread.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The same thirteen, each profiled.** „13 Alters, exakt. Nicht 11, nicht 14."
+^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1180] The fifteen struck names are the same list as the other canon-era
+source's ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1180].
+
+Each of the twelve beside [[kael|Kael]] now has a page from this document's profile:
+[[lex]], [[alex]], [[rhys]], [[selene]], [[argus]], [[nyx]], [[kiko]], [[lia]],
+[[isabelle]], [[moros]], [[silas]], [[oblivion]]. Five somatic fields are open by
+the document's own mark, „(Lücke — bewusst offen)" — Argus, Silas, Oblivion among
+them (L510, L730, L766).
+
+Its frame is TSDP: „Tertiäre Strukturelle Dissoziation: mehrere ANPs und mehrere
+EPs. Genau Kaels Fall." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L818]
