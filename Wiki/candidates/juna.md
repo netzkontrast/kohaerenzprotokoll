@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -163,3 +163,14 @@ the one name replaced the other; it is one source.
 **No direct appearance is placed.** No chapter line here gives Juna one, and
 Vortex 2 (L240) does not mention it — nothing for conflict C7, from the document
 C7's record named as what would settle it.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**Kap 33 is her effect, Kap 38 her appearance.** The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]],
+Kap 33: „Setting der Juna-Wirkung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L480]. The Externe Ebene: „Direkt erst ab
+**Vortex 1 Beat 4** und in Kap 38 (Juna erscheint)." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630] A reading for
+conflict C7 that places the character bible's Kap-33 garden and document 7's Kap 38
+in one scheme.
+
+„nie als grammatisches Subjekt" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L684]. Kap 3: „erste Wärme-Spur (Junas
+Coheron-Debüt)" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829].
