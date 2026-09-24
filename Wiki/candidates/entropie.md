@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -166,3 +166,11 @@ The inversion again: AEGIS „*ist* aber K₀ (Entropie)" ^[kapitel-kompendium-g
 B's premise: operative closure „generiert die Entropie, die er bekämpft" — „Wer
 Kontradiktionen löscht statt integriert, generiert die Entropie, die er bekämpft."
 ^[dramatica-dual-storyform-status-2026-05-07-md.md:L218]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**Entropy as the condition of events, not chaos.** K₀: „Das Prinzip irreversibler
+Berechnung und Entropie." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] „K₀ ist nicht Chaos, sondern die Bedingung für
+Ereignisse überhaupt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] — „K₀ ist das, was ein Universum bewohnbar macht."
+^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] Conflict C2: a fourth sense, neither disorder to fight nor the matrix
+things come from, but what makes time and learning possible.
