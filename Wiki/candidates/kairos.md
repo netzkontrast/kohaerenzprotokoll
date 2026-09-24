@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -92,3 +92,8 @@ page are what this document calls earlier drafts. Recorded, not applied — see
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
 Absorbed into the Erasure-Pol (L217), where the character bible called it latent. Its world is renamed away from it: „KW4 ist nicht mehr „Kairos-Reich", sondern emergenter Möglichkeitsraum." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] — and still headed „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Named as not active: „LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive
+Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] „Kairos und Sophia** als Guardians sind dekanonisiert" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404]; „Kanonisch ist „Kairos-Potentialis" als mythologische Welt-Bezeichnung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404].
