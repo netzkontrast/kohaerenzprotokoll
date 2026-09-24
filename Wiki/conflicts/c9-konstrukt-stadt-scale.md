@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 4
+sources: 5
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -75,3 +75,7 @@ Recorded; the decision stands.
 ## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 
 Consistent with the decision: KW1 „Konstrukt-Stadt (Logos-Prime)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L163].
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Consistent with the decision: KW1 is „Konstrukt-Stadt / Logos-Prime" (L23, L83).
