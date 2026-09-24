@@ -27,3 +27,12 @@ pages: ["kael"]
 „Kap-40-Notiz (2026-05-30)", not this document — and resolves it by date. The
 wiki now holds one side of what it resolved, from a third source. Its resolution
 is its claim.
+
+## 2026-09-24 — the author: every draft is back in question
+
+„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+sources wird die neue Ausgangslage." (decision 006)
+
+No position above is retired by its date or by a source's claim to be canon.
+This record is now an **item for discussion** with the author; it closes when the
+author decides it, and the decision will be written here with its date.
