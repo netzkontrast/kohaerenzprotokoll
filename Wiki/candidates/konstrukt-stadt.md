@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -113,3 +113,12 @@ Desinfektionsmittel." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-m
 
 KW1, „Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L404] — as decided (C9). Its 21°C is „die
 thermodynamische Bilanzgrenze" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L52].
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+The name stands once, in Kap 1's title: „Erwachen in der Konstrukt-Stadt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L247].
+The chapter's first beat names the world: „Kael erwacht in Kernwelt 1 (KW1 —
+Logos-Prime), fragmentiert ohne Erinnerung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] — the city of the title is KW1
+of the beat, as the author decided C9. Its sensory line: „sterile Leere, Ozon,
+weißes Licht, 21°C" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265], and „das sterile Setting ist die Innere Weite
+(Überwelt) aus Kap 0" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265].
