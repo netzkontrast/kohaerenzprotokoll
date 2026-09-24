@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 8
-readings: 7
+sources: 9
+readings: 8
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -275,3 +275,17 @@ document 7, a world and not a place in one. „Plus zwei Ebenen außerhalb der K
 **KW3's second name is the [[ueberwelt|Überwelt]]'s**, glossed „Maschinenraum hinter dem
 Rendering" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165], while L170 puts the Überwelt outside the worlds. The document
 does not relate the two (J63).
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Eine Realität mit vier Logikregimen." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L45] „Akt-Marker, nicht Guardian-Reiche."
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L49] And what they are made of: „Manifestation von Kaels innerer Welt." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L57]
+— „Die Welten sind Filter, nicht Orte." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L955]
+
+Names: KW1 „Konstrukt-Stadt / Logos-Prime" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L23], KW2 „Mnemosyne-Archipel" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L24],
+KW3 „Cerberus-Labyrinth" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L25], KW4 „KW4 — Kairos-Potentialis / Möglichkeits-Garten
+/ Resonanz-Kontinuum" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L26]. The old names stay „mythologisch-strukturell, nicht
+personell" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61].
+
+KW3 has no second name here and no [[nexus|Nexus]]; the [[nexus|Nexus]] sits between KW4 and the
+[[externe-ebene|Externe Ebene]] (L462). The tension document 10 carried (J63) is not in this one.
