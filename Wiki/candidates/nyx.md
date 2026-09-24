@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -42,3 +42,8 @@ Its Riss type: „Kinetisch" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-0
 
 The Kap-0 eruption is hers: „Knöckel-Eruption, Nyx" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182], and „Kap 1 bleibt
 spurlos" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]. Conflict C10.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+KW3 is theirs with [[alex|Alex]]: „Hier dominieren die **EP-Protektoren** (Alex, Nyx) und die
+**Erasure-Pol-Logik**" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L301].
