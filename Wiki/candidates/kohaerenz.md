@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -40,7 +40,7 @@ two poles with symbols:
 
 > „AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
 
-[[kael|Kael]]'s storyform carries K₁ and AEGIS' K₀ (the slot table header, L151), and the
+[[kael|Kael]]'s storyform carries K₁ and [[aegis|AEGIS]]' K₀ (the slot table header, L151), and the
 climax makes it visible:
 
 > „Truth-Rotation: AEGIS = K₀ / Kael = K₁ wird sichtbar" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370]
@@ -51,3 +51,12 @@ K₀-Architektur drückt" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10
 **What the document takes K₁ to be, in its own physics:** the „Nichts-Rauschen" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
 that AEGIS mistakes for chaos „ist die atemporale Vereinigung aller mutualen
 Information" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]. See [[nichts-rauschen]].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**K1, and the name of three things.** AEGIS believes itself „Kohärenz-Kernel
+(K1)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L105]. The word also names the novel, which the document calls „eine
+tragische Fehlbezeichnung" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L113], and the second of AEGIS' protocols,
+„Kohärenzprotokoll" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L132]. Its own gloss: „Das eigentliche
+Kohärenz-Protokoll ist Kaels Heilungsweg." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L113] Kept as separate terms
+(judgement J57).
