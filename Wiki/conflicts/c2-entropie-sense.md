@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 4
+sources: 5
 pages: ["entropie"]
 ---
 
@@ -73,5 +73,10 @@ source; the conflict stays open.
 
 ## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 
-A second source for the third sense: AEGIS „*glaubt* K₁ (Kohärenz) zu sein, *ist*
+A second source for the third sense: [[aegis|AEGIS]] „*glaubt* K₁ (Kohärenz) zu sein, *ist*
 aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25], labelled `[K]`. The conflict stays open.
+
+## 2026-09-24 — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+The third sense again, as B's premise: „Wer Kontradiktionen löscht statt
+integriert, generiert die Entropie, die er bekämpft." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L218]
