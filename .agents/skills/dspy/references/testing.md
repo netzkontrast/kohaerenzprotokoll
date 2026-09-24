@@ -26,7 +26,7 @@ loop against a fixture that was never told those calls were coming.
 
 `FixtureLM` does not set `forward_contract` explicitly, so it runs under the
 implicit default, `"legacy"` — `forward(prompt=None, messages=None, **kwargs)`
-returning an OpenAI-shaped response. `session-optimizer.md` (`[optimizer]`
+returning an OpenAI-shaped response. `Plan/concept/dspy-extract_2026-09-24/session-optimizer.md` (`[optimizer]`
 item, `BaseLM.forward_contract`) names the alternative, `"typed_lm"`
 (`forward(request: dspy.LMRequest) -> dspy.LMResponse`, called inside
 `dspy.context(experimental=True)`), and recommends declaring the contract
@@ -120,7 +120,7 @@ Four things make this reusable for a new step (generalised from
 of the nine repositories):
 
 1. **The offline fixture answers the real program**, not a rewritten copy of
-   its logic — that is what `das-rlm-rag.md`'s *dry-runs that test a
+   its logic — that is what `Plan/concept/dspy-extract_2026-09-24/das-rlm-rag.md`'s *dry-runs that test a
    plain-Python model of the package* names as the failure to avoid (below).
 2. **Assert on the record, not only on the parsed output** — `status`,
    `problems`, and, for a script with its own header line (`rlm_ingest.py`,
@@ -150,7 +150,7 @@ repositories, verified by their readers against DSPy 3.3.1.
 adapter=None)`** answers from a list of dicts (served in order, then
 `{"answer": "No more responses"}`), or a dict keyed by a substring of the last
 message, and honours `n` so `config={"n": 5}` yields five completions
-(`session-optimizer.md`, `[session]` item; `dspy:utils/dummies.py:16-160`).
+(`Plan/concept/dspy-extract_2026-09-24/session-optimizer.md`, `[session]` item; `dspy:utils/dummies.py:16-160`).
 Because it formats every answer through the configured adapter before
 returning it, an answer built this way parses on the first try by
 construction — useful for exercising a program's logic, useless for
@@ -169,7 +169,7 @@ builds. **It runs unmodified on 3.3.1, and its own suite's `response_text` is
 set to a JSON object**, which `ChatAdapter` cannot parse: every predictor call
 under it costs **two** LM calls through the `JSONAdapter` fallback, and the
 suite's history assertions inspect the *fallback's* messages, not the first
-attempt's (`session-optimizer.md`, `[optimizer]`/TEST items;
+attempt's (`Plan/concept/dspy-extract_2026-09-24/session-optimizer.md`, `[optimizer]`/TEST items;
 `dspy-optimizer:tests/dspy_optimizer/test_evaluator.py:41-47`). ChatAdapter-
 formatted text costs one call; the fixture's own default "mocked response"
 string raises `AdapterParseError` outright. `check_dspy_skill.py`'s own probe
@@ -323,16 +323,17 @@ line past the end of a file (paths, 2 cases) —
 `.venv-dspy/bin/python scripts/check_dspy_skill.py --selftest` prints "`9 of
 9 cases hold`" (`scripts/check_dspy_skill.py`).
 
-**The lesson both scripts encode is `dspy-agent-skills`' own.** Its
-`dspy.RLM` rename (`max_iterations` → `max_iters`, `interpreter` →
-`interpreter_factory`, in 3.3.0) was caught only because a surface check
-existed at all — and that check had asserted **seven of eight** symbols and
-missed the one that broke, which is exactly the shape `check_dspy_surface.py`
-was built to close here: assert only what is called, but assert *all* of it
-(`scripts/check_dspy_skill.py`; the CHANGELOG entry itself is
-`dspy-agent-skills`'s own document, not reproduced here — the point survives
-without it). A renamed keyword does not fail at import; it fails mid-run, or
-worse, is swallowed by `**kwargs`.
+**The lesson both scripts encode is `dspy-agent-skills`' own.** DSPy 3.3.0
+renamed `dspy.RLM`'s `max_iterations` to `max_iters` and moved `interpreter`
+to `interpreter_factory`, and one of that repository's examples failed on the
+3.3.x line from the day it shipped: its surface check asserted eight surfaces —
+GEPA, BetterTogether, Evaluate, LM, SIMBA, Embedder, Refine and BestOfN — and
+never `dspy.RLM`, and the one dry run that did exercise it had its failure
+"recorded as known rather than fixed"
+(`dspy-agent-skills:docs/CHANGELOG.md:7-9,22-25`). That is the shape
+`check_dspy_surface.py` was built to close here: assert only what is called,
+but assert *all* of it. A renamed keyword does not fail at import; it fails
+mid-run, or worse, is swallowed by `**kwargs`.
 
 ## Tests that cannot fail
 
@@ -384,7 +385,7 @@ the literal string `"--dry-run"` appears somewhere in an example's source:
 the 33 examples themselves execute — that was checked separately, by hand, and
 the CHANGELOG's "all 33 dry-runs pass on 3.3.1" is the record of that manual
 run, not of the suite (`dspy-agent-skills:docs/CHANGELOG.md:93-97`, cited via
-the `das-patterns` note). The same repository's coverage-gate story appears
+`Plan/concept/dspy-extract_2026-09-24/das-patterns.md`). The same repository's coverage-gate story appears
 the other way round in `braid-dspy`: `pytest` genuinely runs 185 tests offline,
 but among them `assert len(labeled_edges) >= 0`, `assert score >= 0.0`, and
 `assert "error" in result or …` (where every returned dict happens to carry an
@@ -466,7 +467,7 @@ provenanced the same way — a mistake, then a case that names it:**
 |---|---|---|
 | `scripts/lmrun.py` | `call()` re-raised DSPy 3.3's own `LMTransportError` instead of recording `unreachable`, because its first nine offline cases never raised that exact type | a tenth case, added 2026-09-24, that raises `dspy.LMTransportError` directly and asserts `status == "unreachable"` (`scripts/lmrun.py`) |
 | `scripts/rlm_ingest.py` | a run forced to stop by `max_iters` could be read as a completed census | `judge(1.0, [], [], 1.0, forced=True)` must **not** start with "a reading" (`scripts/rlm_ingest.py`) |
-| `scripts/wiki_index.py` / `scripts/reconcile.py` | `fold()`'s own docstring claimed behaviour it did not have, repeated in two other files | `scripts/judgements.py` replays all 68 recorded near-match decisions against the current code and reports `agrees`/`DISAGREES`/`judgement` |
+| `scripts/wiki_index.py` / `scripts/reconcile.py` | `fold()`'s own docstring claimed behaviour it did not have, repeated in two other files | `scripts/judgements.py` replays all 68 <!--state:judgements.total--> recorded near-match decisions against the current code and reports `agrees`/`DISAGREES`/`judgement` |
 
 **And note what a green replay of recorded judgements does *not* prove**:
 `fold()` was correct the whole time `reconcile.py`'s own intra-list check
@@ -481,10 +482,10 @@ rule; it is a floor, not a ceiling.
 
 | thing | why not | source |
 |---|---|---|
-| a mock `CodeInterpreter` that lets `dspy.RLM` run with **no Deno at all** | this repository's own offline RLM probe still needs Deno present — `p_rlm_runs_offline` (`[checked: rlm-runs-offline]`) returns `NotRun(...)` and is not counted as held when `import deno` fails, exactly like `check_dspy_skill.py`'s other Deno-gated probes; the idea exists as a recipe in the notes, not as code here | catalogued from `das-rlm-rag.md`, "A mock `CodeInterpreter` makes RLM testable without Deno" |
+| a mock `CodeInterpreter` that lets `dspy.RLM` run with **no Deno at all** | this repository's own offline RLM probe still needs Deno present — `p_rlm_runs_offline` (`[checked: rlm-runs-offline]`) returns `NotRun(...)` and is not counted as held when `import deno` fails, exactly like `check_dspy_skill.py`'s other Deno-gated probes; the idea exists as a recipe in the notes, not as code here | catalogued from `Plan/concept/dspy-extract_2026-09-24/das-rlm-rag.md`, "A mock `CodeInterpreter` makes RLM testable without Deno" |
 | installing `dspy-rlm-hooks` for its testing conveniences | it monkeypatches private DSPy internals and carries its own duplicate copy of DSPy's iteration loop, silently shadowed the day DSPy's own loop changes; its own security note says to pin the pair | `Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken* |
 | any of the nine repositories as a test dependency | every reader reached the same conclusion independently: the value is a pattern of tens of lines, and the package would bring a pin, a Python floor or a runtime this project does not need | `Plan/concept/dspy-toolchain_2026-09-23.md` |
-| a selftest for `bilingual.py` or `jev_entities.py` | not built; both scripts call Jev, not DSPy, and both have `--replay` (a different guarantee — see *In this repository*, above) rather than a fixture-driven failing case | this-repo.md, TEST |
+| a selftest for `bilingual.py` or `jev_entities.py` | not built; both scripts call Jev, not DSPy, and both have `--replay` (a different guarantee — see *In this repository*, above) rather than a fixture-driven failing case | `Plan/concept/dspy-extract_2026-09-24/this-repo.md`, TEST |
 | `TARA`'s progressive-leniency retry ladder as a pattern for a gate here | it lowers the acceptance bar on every retry until something passes; the right terminal state for a canon-facing gate — refuse rather than settle for less — is still an open question, not a decision to route around with a looser bar (P15) | `Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken* |
 
 The evaluator registry — `dspydantic`'s `EvaluatorFactory`/

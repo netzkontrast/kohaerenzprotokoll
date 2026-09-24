@@ -18,8 +18,8 @@ pairs** in `Plan/runs/judgements.jsonl`, each with `first`, `second`, a gold
 feedback string with no extra work. `scripts/trainset.py`'s `surface_pairs()`
 turns the ledger into rows; `score_one()` returns `{score, feedback}` for one
 prediction; `fold_baseline()` scores the repository's own deterministic rule
-first. Read fully: `scripts/pairs.py`, `scripts/baseline.py`,
-`scripts/trainset.py`, `scripts/check_dspy_surface.py`.
+first. The code is `scripts/pairs.py`, `scripts/baseline.py`,
+`scripts/trainset.py` and `scripts/check_dspy_surface.py`.
 
 ### The floor is `fold()`, and nothing is worth a call below it
 
@@ -35,14 +35,11 @@ residual `fold()` calls `two-terms`, so it can only be asked to *find* a merge
 `fold()` missed, never given the chance to *undo* one `fold()` made correctly
 (`scripts/pairs.py`).
 
-`scripts/trainset.py`'s own module docstring still quotes an older
-measurement — 14/17 = 82%, misses J4/J6/J14 — from
-`Plan/concept/trainset-and-the-baseline_2026-09-17.md`, written when the
-ledger held 17 rows. The ledger has grown to 57 since; running the script
-today is what the docstring's own number no longer is. This is the shape
-`CLAUDE.md`'s *Changing your mind* names: a claim that was true when written
-and is not re-derived is a claim quietly going stale, and the fix is to run
-the script, not to trust the comment beside it.
+`scripts/trainset.py`'s docstring keeps the first measurement — 14/17 = 82%,
+misses J4/J6/J14, from `Plan/concept/trainset-and-the-baseline_2026-09-17.md`,
+when the ledger held 17 rows — dated, beside the rule that held since: every
+miss is in the safe direction. Until 2026-09-24 it stated the 82% as current.
+The number to use is the one the script prints.
 
 ### The five rungs, exactly as `pairs.py` builds them
 
@@ -71,7 +68,7 @@ same folds regardless of run order. `canaries()` returns
 `selftest.MUST_NOT_MERGE` (`Negentropie`/`Entropie` first) — these never enter
 `labelled`, so they never enter a fold or a trainset; they are asked, once per
 compiled program, after every fold and again after the final full compile
-(`scripts/pairs.py:70-71, 183-193`).
+(`scripts/pairs.py`, `canaries()` and the loop after the final compile).
 
 **A canary merge vetoes the run, whatever its score.** If the fold-held rule
 already says `one-term` for a canary pair the veto fires without a call at all
@@ -141,8 +138,8 @@ builds the LM with `cache=False`, and `lmrun.call` separately refuses a cached
 LM and refuses a real LM with no `approval=`. Exactly one such run is
 catalogued and waiting: `pairs.py run --optimizer labeled` — the cheapest
 rung, on the residual after `fold()` — named in `NOW.md` as one of three
-model calls the author has not yet said yes to (`this-repo:NOW.md:85-87`,
-`extract/this-repo.md` `[decided]`). **None of the five rungs has run against
+model calls the author has not yet said yes to (`NOW.md`, *Which model runs
+are allowed*). **None of the five rungs has run against
 a real model as of 2026-09-24.**
 
 ### What `baseline.py compare` says

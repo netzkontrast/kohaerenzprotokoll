@@ -14,7 +14,7 @@ does with it.
 ### `lmrun.call`'s record, field by field
 
 Every real model call in this repository goes through
-`lmrun.call(program, *, step, subject="lm", approval=None, german=(), **inputs)`,
+`lmrun.call(program, *, step, subject="lm", approval=None, german=(), out_dir=None, **inputs)`,
 and each call appends exactly one JSON object to
 `Plan/runs/<subject>/lm/<step>.jsonl` (`scripts/lmrun.py`):
 
@@ -85,9 +85,10 @@ folds every `LMProviderError` and `LMTransportError` into `status=
 exactly this shape when nothing came back at all.
 [checked: refused-connection-is-transport-error] **Until 2026-09-24 the
 `_NO_ANSWER` tuple did not include DSPy's own types**, because the first nine
-offline selftest cases only ever raised the fixture's own `NetworkRefused`; a
-live run hit `dspy.LMTransportError` for the first time and `call()`
-**re-raised it instead of recording `unreachable`**. The tenth selftest case,
+offline selftest cases only ever raised the fixture's own `NetworkRefused`. A
+probe against a closed local port — no model has ever been called here — raised
+`dspy.LMTransportError`, and `call()` **re-raised it instead of recording
+`unreachable`**. The tenth selftest case,
 added the same day, constructs `dspy.LMTransportError` directly and asserts
 the classification now holds (`scripts/lmrun.py`). `LMConfigurationError`
 and `LMUnsupportedFeatureError` are deliberately **not** in either set — those
@@ -120,7 +121,7 @@ deep copied across threads so that each thread tracks its own usage",
 `dspy.Evaluate(num_threads=8)` inside `track_usage()` recorded `{}` for 50
 calls; `num_threads=1` and a plain loop both recorded the true `750 = 50 × 15`
 (`dspy-agents:dspy_config.py`, `[agents]` item, and its cross-repo
-`agents-rag.md` corrected-report note that "Item 9 … praise `dspy.track_usage()`
+`Plan/concept/dspy-extract_2026-09-24/agents-rag.md` corrected-report note that "Item 9 … praise `dspy.track_usage()`
 as directly reusable, miss that it undercounts"). `lmrun.call` never runs
 under `num_threads>1` for exactly this reason — one call, one tracker block.
 

@@ -14,7 +14,7 @@ not repeated.
 written "to keep mechanised rules checkable"
 (`scripts/judgements.py`). Each record already carries the two surfaces,
 a decision, and — the part that makes it a dataset — `rule`, the person's own
-sentence for why. A real record:
+sentence for why. A real record, cut to the fields used here:
 
 ```json
 {"id": "J4", "surfaces": ["Kern-Welten", "Kern-Welt"], "decision": "one-term",
@@ -32,8 +32,9 @@ already written that way, for a different reason." (`scripts/trainset.py`).
 (`scripts/trainset.py`).
 
 **`trainset.py --export` writes a file, and `pairs.py` does not read it.**
-`Plan/trainsets/surface-pairs.jsonl` exists on disk (written 2026-09-24, 57
-rows). But `pairs.py rows()` calls `trainset.surface_pairs()` directly
+`Plan/trainsets/surface-pairs.jsonl` is a snapshot of the ledger from the last
+time the export ran: the committed one holds 36 rows while the ledger yields
+57 <!--state:pairs.labelled-->. `pairs.py rows()` calls `trainset.surface_pairs()` directly
 (`scripts/pairs.py`), never the export. This is deliberate, and it is a
 correction of a real defect: "The design says job 1 has 'n = 26' … The exported
 file had gone stale because nothing compared it to the ledger; `pairs.py` now
@@ -143,8 +144,8 @@ adversarial inputs."
 (`dspy-agent-skills:skills/dspy-evaluation-harness/SKILL.md:74-77`).
 This repository's largest trainset is 57 <!--state:pairs.labelled--> labelled
 pairs — inside the GEPA floor, barely, and well under MIPROv2's. `pairs.py`'s
-five-fold default already leaves roughly 45–46 rows to train each fold and 11–12
-to score it — thin by the book's own numbers, which is exactly why `SIMBA`'s
+five-fold default leaves 45–47 rows to train each fold and 10–12 to score it
+(measured 2026-09-24) — thin by the book's own numbers, which is exactly why `SIMBA`'s
 `bsize` is overridden per fold to `min(train_size, 16)` rather than left at its
 default of 32 (`scripts/pairs.py`; `api.md` has the DSPy-level assertion
 this avoids).
@@ -191,18 +192,19 @@ enough to merge a plural also merges `Negentropie` with `Entropie`"; `J6`,
 (`scripts/trainset.py`). "So the 18% gap is the boundary of what a safe
 deterministic rule can claim, not a defect in it." **That sentence is stale as
 a number, current as a shape.** It was written when the ledger held 17 rows
-(14/17 = 82%, an 18% gap); `fold()` now decides 33
-<!--state:pairs.fold_correct--> of 57 <!--state:pairs.labelled--> — a 42% gap,
-not 18%. The one growth step this repository measured at the time, 17 rows to
+(14/17 = 82%); `fold()` now decides 33 <!--state:pairs.fold_correct--> of
+57 <!--state:pairs.labelled-->, and the docstring dates its first number and
+points at the live one. The one growth step measured at the time, 17 rows to
 26, kept the *shape* of every new miss the same: "Every new miss is a plural or
 an inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
 `AEGIS`/`Rest-AEGIS`. `fold()` strips the German definite article and does
-nothing else." (`NOW.md`). Whether every miss from 26 rows to the current 57 is
-still that same shape is not measured here; what still holds is the identity of
-the three original boundary cases (J4, J6, J14), not the fraction. This file
-does not correct `trainset.py`'s own docstring — a description that outruns
-what the repository currently measures is the same defect there as it would be
-here (P2). This is a *found* difficulty
+nothing else." (`NOW.md`). Read one by one at 57 rows (2026-09-24), the
+direction still holds and the kinds have widened: all 24 misses are pairs the
+person called one term and `fold()` kept apart, never the reverse; eight are
+plurals or inflections, and the rest are slashes (four), renames (four), a
+prefix or modifier (two), reordered paraphrases (two), a numbered instance, an
+abbreviation and an acronym's expansion (three), and one synonym.
+`python3 scripts/trainset.py` prints each. This is a *found* difficulty
 tier, in contrast with the book's *designed* three tiers — clear (baseline
 should pass), boundary (might fail), ambiguous (hard for any model), with
 ambiguous cases logged separately as `needs_clarification` rather than forced
@@ -246,8 +248,8 @@ dataset ships the diagnosis, not just the label."
 this — not "one-term" but *why*: `"a German plural ending is not a term
 boundary"` (J4), `"a slash inside a heading is an alias or a role, never a term
 boundary"` (J14). `trainset.score_one`'s feedback string on a miss reads this
-field back verbatim (*In this repository*, above) — the same channel MET-11's
-calibration protocol asks a judge-label pass to build, already built here for a
+field back verbatim (*In this repository*, above) — the same channel the
+calibration protocol in `metrics.md` (*Judges*) asks a judge-label pass to build, already built here for a
 different reason before either recipe was read.
 
 **Corrections as trainset rows, the pattern `judgements.jsonl` already
@@ -336,12 +338,15 @@ JSONL in file order with no shuffle) — the reason is MIPROv2's own default
 behaviour, verified above: `valset = trainset[cutoff:]` takes the *last* 80% of
 whatever order the caller handed it, keeping only the first 20% to train on
 (`dspy:teleprompt/mipro_optimizer_v2.py:326`). A dataset that grows by
-appending silently reshapes its own valset. This is exactly the shape
-`pairs.py folds()` refuses: a
-new judgement appended to `Plan/runs/judgements.jsonl` changes `folds()`'
-output — because the hash key is the row's own `id`, not its position — only by
-adding one row to whichever fold its hash lands in, never by reshaping a whole
-tail of the file into one fold.
+appending silently reshapes its own valset. `pairs.py folds()` refuses that
+part: the hash key is the row's own `id`, not its position, so appended
+judgements are dealt across every fold instead of piling into one. It does not
+keep folds stable as the ledger grows. `folds()` deals round-robin over hash
+order, so a new row shifts every row that sorts after it: one appended
+judgement moved 15 of 57 rows to another fold (measured 2026-09-24). Two runs
+at different ledger sizes trained on different partitions, which is one more
+reason `baseline.compare` will not compare across a changed trainset hash
+until the floor is re-scored.
 
 **A leakage guard as a regression test, not only a stated rule.** The book's
 invoice benchmark asserts, as `unittest`, that train and holdout are disjoint
@@ -358,19 +363,19 @@ rather than by rule.** Fold membership by id-hash, so a judgement's position in
 the file never decides its fold; canaries excluded from the labelled pool
 entirely, not merely held out of a split; `pairs.py` reading the ledger live so
 a cached export can never silently diverge from what a judgement replay checks
-against (*In this repository*, above); and `entities.py`/`rlm_ingest.py`
-refusing a "gold" file that says "Reconstructed" of itself. None of these is
+against (*In this repository*, above); `entities.py score` refusing a "gold"
+file that says "Reconstructed" of itself; and `rlm_ingest.py` writing its own
+list under a name the gold list never has. None of these is
 copied from a nine-repository pattern — each is this repository's own answer to
 a leak one of the nine had.
 
 ## Not taken
 
-- **`MIPROv2`, `BootstrapFewShotWithRandomSearch`** — refused. Both assume
-  50–100+ examples; this repository's largest trainset is 57
-  <!--state:pairs.labelled--> pairs. `MIPROv2`'s own maintainers ran it on 50
-  examples while their documentation asked for roughly 28
-  (`dspy-agents`, cited in `Plan/concept/dspy-toolchain_2026-09-23.md`,
-  *Deliberately not taken*).
+- **`MIPROv2`, `BootstrapFewShotWithRandomSearch`** — refused. They want
+  100+ and 50+ examples; this repository's largest trainset is 57
+  <!--state:pairs.labelled--> pairs. `dspy-agents` ran MIPROv2 on 50 examples
+  while its own documentation said about 28
+  (`Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken*).
 - **Synthetic data generation of any kind** — refused (`AutoData`-style,
   `FactGeneration`-style, or otherwise). Every row must trace to a person's
   judgement or a landed source document; see *Synthetic data*, above.

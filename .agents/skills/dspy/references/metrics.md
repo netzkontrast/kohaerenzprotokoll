@@ -42,8 +42,9 @@ model writes this text and none can fake it (`scripts/trainset.py`).
 map of `{id: 1 | 0 | fraction | None}` and computes `scored = [v for v in
 outcomes.values() if v is not None]` (`scripts/baseline.py`) — an example
 nothing could answer is invisible to the mean, not a zero inside it. `pairs.py
-run()` writes exactly this: a held-out row scores `None` when every repeat
-through `lmrun.call` came back `unanswered` (`scripts/pairs.py`).
+run()` writes exactly this: a held-out row `fold()` does not settle goes to the
+model, and scores `None` when no repeat through `lmrun.call` came back
+`answered` (`scripts/pairs.py`).
 `baseline.compare()` reports `"unscored"` when the latest row's score is `None`
 at all, and `"warn"` — never a passing score — when `scored < n`
 (`scripts/baseline.py`).
@@ -60,23 +61,26 @@ merges the canary is disqualified, not docked `1/n`, because `dspy.GEPA`
 optimizes a mean and would otherwise treat the merge as noise.
 
 **The floor is a named row, not "whatever ran last."** `compare(task, floor=)`
-defaults to the task's first recorded row and requires the trainset hash to
-match before comparing (`scripts/baseline.py`); `--floor` names a
+defaults to the task's first recorded row, and when the trainset hash differs
+it answers `warn` — "re-score the floor before comparing" — instead of a
+verdict (`scripts/baseline.py`); `--floor` names a
 different candidate. Right now that floor is `fold()` itself, scored through
 `score_rule("fold")`: **57 <!--state:pairs.labelled--> labelled pairs; `fold()`
 decides 33 <!--state:pairs.fold_correct--> of them (58%).** `trainset.py`'s own
 words: "Anything that does not beat this is not worth a call"
 (`scripts/trainset.py`). No optimizer rung has run against a real model yet
-(`CLAUDE.md`, *Calling a model*), so `Plan/runs/baselines.jsonl` today holds
-only rule rows, never a model row.
+(`CLAUDE.md`, *Calling a model*), so `Plan/runs/baselines.jsonl` holds no
+model row: its rows are `rule:fold` and `graphrag.py bench`'s retrieval
+methods.
 
-**The human ceiling is F1 ≈ 0.66, and both scripts that score a model list print
-it beside their own number.** `entities.py cmd_score()` computes
+**The human ceiling is F1 ≈ 0.66, and both scripts that score a model list say
+so.** `entities.py cmd_score()` computes
 precision/recall/F1 for a model's entity list against a reader's, then prints
 `"— two readers scored 0.66 (P27)"` on the same line
 (`scripts/entities.py`) and lists both difference sets by name, never a bare
-delta (`scripts/entities.py`, P27). `rlm_ingest.py score()` does the
-same through `drg-kg`'s `_score_sets` and adds: "A miss is not automatically an
+delta (`scripts/entities.py`, P27). `rlm_ingest.py score()` scores through
+`drg-kg`'s `_score_sets`, prints both difference lists, and gives P27's second
+measurement instead of the 0.66: "A miss is not automatically an
 error and an invention is not automatically wrong: the reader's list is one
 reader. Two independent readings of one document differed by 109 against 143
 candidates." (`scripts/rlm_ingest.py`). Neither script treats the "gold"

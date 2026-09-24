@@ -34,8 +34,9 @@ bare token overlap scores `0.5 × (shared tokens / that surface's own tokens)`.
 The best-scoring surface per page wins. **`fold()` is not a stemmer**: it
 strips the leading article, case and diacritics, but `Kern-Welt` and
 `Kern-Welten` do not fold together (`scripts/wiki_index.py`), so a plural
-question does not, by itself, seed its singular's page — `fold()`'s systematic
-misses are plurals and inflections (`NOW.md`, *`fold()`'s real baseline*). With
+question does not, by itself, seed its singular's page — plurals and
+inflections are among `fold()`'s recorded misses, and
+`python3 scripts/trainset.py` prints each. With
 `glosses` (only in the `ppr+gloss` method), a corpus-stated `A (B)` pairing can
 also seed the German page at a fixed `GLOSS_WEIGHT=0.6`, but only when nothing
 scored higher — "a gloss routes, it does not name"
@@ -178,10 +179,11 @@ seeding; it does not say the retriever is good"
 (`Plan/concept/graphrag_2026-09-23.md`).
 
 **The recorded baseline lags the live number.** `Plan/runs/baselines.jsonl`'s
-last `graphrag-retrieval` row was written at `n=14` (seeds 45.3%, ppr 62.0%);
-documents 11–13 since added C11, C12 and Q5, growing the live bench to the 17
-cases above, without a matching `graphrag.py bench --record` run
-(`Plan/concept/dspy-extract_2026-09-24/this-repo.md`, RAG section). The state
+last `graphrag-retrieval` row was written at `n=14` (seeds 45.3%, ppr 62.0%),
+after document 8's C7–C10. Document 9 then raised C11 and C12, and the
+author's C6 decision added Q5 (`CLAUDE.md`, *The knowledge graph*), growing
+the live bench to the 17 cases above without a matching
+`graphrag.py bench --record` run. The state
 above is what `python3 scripts/state.py` and a fresh `graphrag.py bench` both
 report right now; the ledger is a point-in-time row, not the live number.
 
