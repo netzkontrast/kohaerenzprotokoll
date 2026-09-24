@@ -33,7 +33,7 @@ Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations
 | **C4** | Whose is the blind spot — AEGIS' alone, or each Guardian's? | AEGIS' categorical blindness (`kohaerenzprotokoll-aegis-und-systementropie`) · five Guardians, five blind spots (`guardians-und-kern-welten-konzept`) |
 | **C5** | Is the Möglichkeits-Garten a whole Kern-Welt or a place inside KW4 — and what is KW4 called? | a Kern-Welt (`guardians-und-kern-welten-konzept`; storyform-und-outline 2026-06-10) · a location in KW4 (`roman-lokalitaeten-konzept-und-ausarbeitung`) · both: KW4 „Kairos-Potentialis (Garten der Möglichkeiten)" with a Möglichkeits-Garten inside it (konsolidiertes Konzept) |
 | **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) · the Kapitel-Kompendium, which C7's record expected to settle it, places none · „Kernwelten vollständig": Kap 33 is her *effect*, Kap 38 her appearance — perhaps not a conflict at all |
-| **C8** | AEGIS' Approach in Storyform B — Be-er or Do-er? | Be-er (Charakter-Bibel) · Do-er (storyform-und-outline; konsolidiertes Konzept; Kapitel-Kompendium) |
+| **C8** | AEGIS' Approach in Storyform B — Be-er or Do-er? | Be-er (Charakter-Bibel) · Do-er (storyform-und-outline; konsolidiertes Konzept; Kapitel-Kompendium) · the lock-in of 2026-05-07 mirrored it to Do-er and names Be-er as the value before — the character bible, a day later, carries the old value |
 | **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) |
 | **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) |
 | **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) · both orders and a fourth beat (Kapitel-Kompendium) |
@@ -127,7 +127,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-422 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+448 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -194,7 +194,7 @@ written:
   catalogues every Drive document, the canon-era ones included, so they land
   through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
   from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
-  2026-09-24 (see *Landed* below); five are read — documents 7 to 11, below. Still open: the
+  2026-09-24 (see *Landed* below); six are read — documents 7 to 12, below. Still open: the
   manuscript and the NCP files, which are not Drive documents and sit only under
   `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
@@ -370,6 +370,11 @@ high tier into it is the next step, and it is a person's.
 
 ## Next document — not yet chosen
 
+**The twelfth is done: `dramatica-dual-storyform-status-2026-05-07-md`, 2026-09-24.** 206 candidates, no pages,
+readings on 16 pages. **C8 is explained**: this is the lock-in that mirrored the
+Approach, and the character bible's Be-er is its „vorher". C2, C11, C12 and Q1 also
+moved. `Wiki/compare/reconcile-13-dramatica-dual-storyform-status-2026-05-07-md.md` has the record.
+
 **The eleventh is done: `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-09-24.** 294 candidates, 7 new
 pages (places with a canonical chapter anchor), readings on 42 pages, eight
 conflicts and four questions moved, J64–J67.
@@ -417,7 +422,7 @@ What it found:
   Sophia is placed nowhere.
 - It claims to be „autoritative Spec" (L1395). Recorded, not applied.
 
-What it leaves: 28 canon-era rows landed and unread (after document 11). Its own open table
+What it leaves: 27 canon-era rows landed and unread (after document 12). Its own open table
 (OQ-A … OQ-G, L1198–L1218) names what a later document would have to settle —
 the name of the plural AEGIS, Juna's modes, the mirror Alters' chapters.
 
@@ -550,7 +555,8 @@ are opt-in, and `md` takes the same text route that landed the four `md` rows on
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
 in another escaping — so 37 canon-era rows became 33, all landed. **Five are read**,
 `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`,
-`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md` and `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, as documents 7 to 11 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
+`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` and `dramatica-dual-storyform-status-2026-05-07-md`,
+as documents 7 to 12 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
 documents) has not been compared against the landed files.
 
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe

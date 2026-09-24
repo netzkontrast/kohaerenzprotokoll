@@ -3,15 +3,15 @@
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 11,
+      "value": 12,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 11,
+      "value": 12,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 11,
+      "value": 12,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -31,19 +31,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 989,
+      "value": 1023,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 1039,
+      "value": 1070,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 938,
+      "value": 967,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 113,
+      "value": 114,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -51,7 +51,7 @@
       "how": "retrieval cases the wiki labels itself: questions and conflicts"
     },
     "graphrag.recall_ppr": {
-      "value": 60,
+      "value": 59,
       "how": "graphrag bench mean recall@8 in whole percent, personalized PageRank"
     },
     "graphrag.recall_seeds": {
@@ -95,11 +95,11 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 1562,
+      "value": 1632,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 422,
+      "value": 448,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
@@ -171,11 +171,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 305,
+      "value": 306,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 132,
+      "value": 133,
       "how": "a page's term written in another page's prose without being marked a link"
     }
   }

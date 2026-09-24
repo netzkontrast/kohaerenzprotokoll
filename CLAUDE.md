@@ -68,8 +68,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, five of them
-read (documents 7 to 11).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, six of them
+read (documents 7 to 12).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -99,11 +99,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**11 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **11
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **11
+**12 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **12
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **12
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-three `worldbuilding`, one `aegis`, one `storyform`, one `charaktere`, one
-`kernkonzept` and one `plot-outline` — the last five from the canon era.
+three `worldbuilding`, one `aegis`, two `storyform`, one `charaktere`, one
+`kernkonzept` and one `plot-outline` — the last six from the canon era.
 
 `Wiki/candidates/` holds **85 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **12 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
@@ -125,6 +125,7 @@ has been promoted.
 | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` | 2 | 45 | 2 |
 | `kapitel-kompendium-gather-2026-05-31-md` | 0 | 28 | 0 |
 | `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` | 7 | 42 | 0 |
+| `dramatica-dual-storyform-status-2026-05-07-md` | 0 | 16 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -188,6 +189,11 @@ positions have a place in one plan. It holds the Möglichkeits-Garten at both
 scales (C5), applies document 7's cold-ozone lock and keeps Landauer warmth for
 the transition out of KW1 (C11). Seven places got pages by a rule it supplies: a
 canonical sub-location with a specific chapter.
+
+**The twelfth is the Dramatica lock-in of 2026-05-07, and it explains C8.** It
+mirrors the Approach — „A: Be-er (vorher Do-er). B: Do-er (vorher Be-er)" — and
+says the older documents still have to follow. The character bible, dated the next
+day, carries the „vorher". An explanation, not a decision: the author decides.
 
 `Plan/runs/judgements.jsonl` holds **67 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
@@ -361,7 +367,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**305 <!--state:wiki.relations--> links across
+**306 <!--state:wiki.relations--> links across
 85 <!--state:wiki.pages--> pages, 25 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -380,7 +386,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 132 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+The 133 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
 occurrence sits inside a quotation, a citation line or a heading — places the
 pass may not touch, so that part is a measurement and not a backlog. The rest,
 `link.py` would mark on pages no reading has touched since the page was last
@@ -391,14 +397,14 @@ in a commit that names its source.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **113 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **989 <!--state:graph.edges--> edges** (`links`,
+citations and builds **114 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1023 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1039 <!--state:graph.evidence-->
-of them, **938 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1070 <!--state:graph.evidence-->
+of them, **967 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -422,7 +428,7 @@ python3 scripts/graphrag.py bench              # recall against the wiki's own l
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
 **42 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-60 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+59 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
 step, on seventeen cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12) and the author's C6
 decision an eighth (Q5); on the original nine the numbers were 40 and 58.
@@ -691,7 +697,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 305 <!--state:wiki.relations-->.
+links. It has 306 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
