@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 3
+sources: 4
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -57,3 +57,16 @@ Document 7's own line for the same Riss swaps `Hitze` for „kaltes Ozon"
 
 So the lock is later than one source's heat and earlier than another's; which
 the author meant to hold is the question.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**Document 7's lock, applied, with the warmth moved to the transitions.** KW1's
+ozone is „Landauer-Suppression-Spur, *kalt-elektrisch*" — „Ozon
+(Landauer-Suppression-Spur, *kalt-elektrisch*) + Desinfektionsmittel." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L110]
+Warmth debuts with [[juna|Juna]] in Kap 3, „erste Wärme-Spur (Junas Coheron-Debüt)"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]. But the thermal Riss from KW1 to KW2 has „Landauer-Wärme spürbar"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L764], and „Genau diese Wärme ist das *Substrat des Übergangs*." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L706] Kap 6
+names no Landauer trace (L832).
+
+So a third arrangement: cold ozone in KW1, [[juna|Juna]]'s warmth from Kap 3, Landauer
+warmth at the transition out of KW1 (Kap 13→14). Same date as document 7.
