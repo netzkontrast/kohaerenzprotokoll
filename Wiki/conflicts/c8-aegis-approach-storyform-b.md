@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 5
+sources: 6
 pages: ["aegis"]
 ---
 
@@ -71,3 +71,8 @@ not a decision: whether the lock holds is the author's (decision 006). The dates
 now read: lock 2026-05-07 (Do-er), character bible 2026-05-08 (Be-er, pre-lock),
 konsolidiertes Konzept 2026-05-08, Kapitel-Kompendium 2026-05-31 and
 storyform-und-outline 2026-06-10 (Do-er).
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„A=Be-er (passt zu Mind), B=Do-er (passt zu Universe)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L472] The lock-in's
+values, with the Dramatica rule as the reason.
