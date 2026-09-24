@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -141,3 +141,9 @@ Möglichkeits-Garten / Resonanz-Kontinuum" ^[kohaerenz-protokoll-kernwelten-voll
 „Möglichkeits-Garten", „Resonanz-Kontinuum"." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404] — and a canonical place in
 it: „überwucherte Ruinenarchitektur; Funktionale Multiplizität als Erlebnis"
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L461]. The same double reading as the konsolidiertes Konzept. Conflict C5.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+A name of KW4: „KW4 — Resonanz-Kontinuum / Kairos-Potentialis /
+Möglichkeits-Garten." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L413] No place of that name inside it. Conflict C5, world
+side.
