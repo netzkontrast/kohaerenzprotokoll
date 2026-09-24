@@ -142,7 +142,8 @@ session = sessionify(dspy.Predict(RAGAnswer), exclude_fields={"context"}, max_tu
 `exclude_fields` drops a named input from what the model sees as history while
 `turn.inputs` still records it for training data; `history_input_fields` is the
 allow-list form, and where a field is in both, `exclude_fields` wins
-(`dspy-session:README.md:239-299`, `dspy_session/session.py:1024-1034`). Each
+(`dspy-session:README.md:239-299`,
+`dspy-session:dspy_session/session.py:1024-1034`). Each
 `--answer` call builds its own numbered-evidence prompt fresh from `pack`, with
 no accumulated turns to bloat — the pattern waits for a multi-turn `ask`, which
 does not exist yet (see *Not taken*).
@@ -246,7 +247,8 @@ dspy.EmbeddingsWithScores(corpus, embedder, k=5, callbacks=None, cache=False, br
   `corpus_embeddings.npy` and, if built, `faiss_index.bin`.
   `Embeddings.from_saved(path, embedder)` is a **classmethod**
   (`dspy:retrievers/embeddings.py:209-210`) — `dspy-agent-skills`'s own
-  `reference.md:18` calls it a staticmethod, which is wrong.
+  `dspy-agent-skills:skills/dspy-retrieval/reference.md:18` calls it a
+  staticmethod, which is wrong.
 - **An index manifest** (recipe, not built here): persist embedding model id,
   chunk-rule version, corpus hash and build time beside the index, and compare
   on load — "mismatch means rebuild — never 'probably fine'"; nothing raises if
@@ -317,11 +319,11 @@ convention backwards once**: `dspy-refrag`'s own `example_usage()` labels
 `diversity_lambda=0.7` "High diversity," but by its own formula (line 166 of
 `sensor_advanced.py`) λ=0.7 weights relevance more and redundancy less — that
 is *less* diverse than the 0.5 default, not more
-(`Plan/concept/dspy-extract_2026-09-24/details-drg-mmr.md`, B.1). The pack's own
-`reference.md:56` makes the matching error in the other direction, describing
-upstream's `diversity_lambda` as "higher favours diversity over relevance,"
-which is true of the pack's own port and false of the file it is documenting
-(`dspy-agent-skills:skills/dspy-refrag/reference.md:56`).
+(`Plan/concept/dspy-extract_2026-09-24/details-drg-mmr.md`, B.1). The pack's
+own `dspy-agent-skills:skills/dspy-refrag/reference.md:56` makes the matching
+error in the other direction, describing upstream's `diversity_lambda` as
+"higher favours diversity over relevance," which is true of the pack's own
+port and false of the file it is documenting.
 
 ### The measured failure without a floor
 
@@ -418,7 +420,8 @@ repositories describe two shapes for when that stops being enough:
   retrieval budget.
 
 Both from `dspy-agent-skills:skills/dspy-book-agents/SKILL.md:83-94`,
-`reference.md:72-85`. **Dedupe between hops, or hop two re-retrieves hop one**:
+`dspy-agent-skills:skills/dspy-book-agents/reference.md:72-85`. **Dedupe
+between hops, or hop two re-retrieves hop one**:
 `list(dict.fromkeys(existing + new))`
 (`dspy-agent-skills:skills/dspy-book-agents/example_agent_budget.py:95-97`).
 `dspy-retrieval`'s own multi-hop recipe adds: generate the next query from the
@@ -437,8 +440,9 @@ research (`dspy-agent-skills:skills/dspy-book-agents/example_agent_budget.py:19`
 `Agentic-Dspy-Rag`'s pipeline: optional history condensation → classify intent
 → route → inside the chosen agent, expand the query (up to 3 rephrasings) →
 retrieve (k=20 per query, pooled and deduplicated) → rerank (a second
-bi-encoder) → generate (`Agentic-Dspy-Rag:src/agentic_rag/components/agents.py:18-59`,
-`main.py:113-153`). The routing itself:
+bi-encoder) → generate
+(`Agentic-Dspy-Rag:src/agentic_rag/components/agents.py:18-59`,
+`Agentic-Dspy-Rag:src/agentic_rag/main.py:113-152`). The routing itself:
 
 ```python
 def forward(self, question):
@@ -459,7 +463,8 @@ Both the classifier prompt and a later rephraser prompt are smuggled in as the
 *value* of an input field rather than the signature's instructions, so neither
 can be optimized and the field carries no constraint
 (`Agentic-Dspy-Rag:src/agentic_rag/components/agents.py:109-110`,
-`data_modules.py:46-47`). Measured offline, with scripted classifier outputs:
+`Agentic-Dspy-Rag:src/agentic_rag/components/data_modules.py:46-47`). Measured
+offline, with scripted classifier outputs:
 
 | classifier output | routed to | correct? |
 |---|---|---|
@@ -524,8 +529,9 @@ different numbers**: `effective_threshold = max(quality_threshold - retry*5,
 below 20 is ever routed away," but its own shipped example computes 22 total
 routed away at retry 3, so the floor of 20 is reached only at retry 4
 (`dspy-agent-skills:skills/dspy-tara-rag/SKILL.md:68-83`,
-`example_tara.py:81-86,115,137-139`). Upstream's real behaviour is looser
-still: `self-corrective-rag`'s loop always outputs a context on the final
+`dspy-agent-skills:skills/dspy-tara-rag/example_tara.py:81-86,115,137-139`).
+Upstream's real behaviour is looser still: `self-corrective-rag`'s loop always
+outputs a context on the final
 retry, and on diminishing returns, regardless of score — `route_to_agent`
 only fires at zero passages
 (`dspy-agent-skills:das-rlm-rag.md` TRAP, *TARA outputs any context*). "Decide
