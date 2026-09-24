@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 10
-readings: 11
+sources: 11
+readings: 12
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -240,3 +240,10 @@ In KW1: „AEGIS ist Umgebungsbedingung — keine Figur in KW1." ^[kohaerenz-pro
 Tragödie sind die 12 Protokolle, Erasure-Sweeps, Guardian-Deployments (*Tun*)."
 ^[dramatica-dual-storyform-status-2026-05-07-md.md:L97] And its resolve: „AEGIS bleibt bis zum Ende bei Logic, adoptiert nie
 Feeling." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L222] Conflict C8.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„AEGIS — Autonomous Entropic Gatekeeper for Integrity Systems." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299]
+Autopoietic, which is why it cannot grasp [[juna|Juna]]: „Das erklärt, warum es Juna
+semantisch nicht erfassen kann" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L729]. Its Approach: „A=Be-er (passt zu Mind),
+B=Do-er (passt zu Universe)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L472] — conflict C8.
