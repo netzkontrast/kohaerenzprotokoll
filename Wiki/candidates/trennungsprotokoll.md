@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-24"
 ---
 
@@ -53,3 +53,11 @@ die dreizehn Alters." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L30
 „Aus Panik führt es ein algorithmisches Selbstamputat aus." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L73]
 
 It also stands in Kael's biography, in the night of the second trauma layer: „AEGIS liest die massive Fluktuation aus Schicht 1 als „fatale System-Entropie" und führt das Trennungsprotokoll aus." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**Both orders in one document.** Kap 0: „Funken-Ich → Cluster/Komp 734 →
+Funktionalisierung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] and only then Krise and Trennungsprotokoll — 734
+first. The flashback cluster of Kap 18–22: „Einheit → Trennungsprotokoll → Kael =
+Komp 734" ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] — 734 its result. And Vortex 2: „Genesis-Beat 4 (Wir-AEGIS-plural)
+vollzogen" ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]. A reading for conflict C12 that holds both of its sides.
