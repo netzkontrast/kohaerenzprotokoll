@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -24,7 +24,7 @@ die zwei Hälften, in die AEGIS sich im Trennungsprotokoll zerschnitten hat"
 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L135] — and [[aegis|AEGIS]] is what remained: „die operative Hälfte, die nach dem
 Trennungsprotokoll übrig blieb" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282].
 
-**It is also Kael's second trauma layer:** „Schicht 2 =
+**It is also [[kael|Kael]]'s second trauma layer:** „Schicht 2 =
 Fragmentierungsnacht/Trennungsprotokoll" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L277], from which eight of the
 thirteen [[alters|Alters]] come.
 
@@ -33,3 +33,15 @@ bleibt, als Preis, nicht mehr als Tragödie" ^[kohaerenz-protokoll-storyform-und
 
 `Trennung` alone — the separation as a state — is kept as its own term
 (judgement J52).
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The second of three Genesis beats, and [[aegis|AEGIS]]' first protocol.**
+
+> „Trennungsprotokoll — autopoietisch getrieben, paradox-belastet, initiiert AEGIS
+> das „Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L118]
+
+It makes Kael: „Kael = Komponente 734 — der Akt der Trennung erzeugt die
+Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L119] And it made the Alters: „AEGIS'
+Trennungsprotokoll nutzte die existierende Bruchstelle und fragmentierte Kael in
+die dreizehn Alters." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L307]
