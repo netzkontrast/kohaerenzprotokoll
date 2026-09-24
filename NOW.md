@@ -32,11 +32,11 @@ Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations
 | **C3** | Where does AEGIS come from? | from nothing, before reality (`aegis-emergenz-aus-der-leere`) · from inside the simulation's dynamics (`kohaerenzprotokoll-aegis-und-systementropie`) · from Kael's defence in the Genesis, then became the world (konsolidiertes Konzept) |
 | **C4** | Whose is the blind spot — AEGIS' alone, or each Guardian's? | AEGIS' categorical blindness (`kohaerenzprotokoll-aegis-und-systementropie`) · five Guardians, five blind spots (`guardians-und-kern-welten-konzept`) |
 | **C5** | Is the Möglichkeits-Garten a whole Kern-Welt or a place inside KW4 — and what is KW4 called? | a Kern-Welt (`guardians-und-kern-welten-konzept`; storyform-und-outline 2026-06-10) · a location in KW4 (`roman-lokalitaeten-konzept-und-ausarbeitung`) · both: KW4 „Kairos-Potentialis (Garten der Möglichkeiten)" with a Möglichkeits-Garten inside it (konsolidiertes Konzept) |
-| **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) · the Kapitel-Kompendium, which C7's record expected to settle it, places none · „Kernwelten vollständig": Kap 33 is her *effect*, Kap 38 her appearance — perhaps not a conflict at all |
+| **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) · the Kapitel-Kompendium, which C7's record expected to settle it, places none · „Kernwelten vollständig": Kap 33 is her *effect*, Kap 38 her appearance — perhaps not a conflict at all · the strukturierter Outline (2026-05-18): Kap 38 Beat 3, stated five times, nothing in Kap 33 |
 | **C8** | AEGIS' Approach in Storyform B — Be-er or Do-er? | Be-er (Charakter-Bibel) · Do-er (storyform-und-outline; konsolidiertes Konzept; Kapitel-Kompendium) · the lock-in of 2026-05-07 mirrored it to Do-er and names Be-er as the value before — the character bible, a day later, carries the old value |
-| **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) |
-| **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) |
-| **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) · both orders and a fourth beat (Kapitel-Kompendium) |
+| **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) · **a trait, in no chapter**: the Host's bleeding knuckles stand in his profile, in neither Kap 0 nor Kap 1 (strukturierter Outline 2026-05-18) |
+| **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) · warmth in Kap 6 and Kap 36, in the konsolidiertes Konzept's words (strukturierter Outline 2026-05-18) |
+| **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) · both orders and a fourth beat (Kapitel-Kompendium, and already the strukturierter Outline of 2026-05-18) |
 
 C1–C5 come from the 2025 research documents and have not been put to the author
 before this list.
@@ -50,7 +50,10 @@ before this list.
   five, or the name for what Cerberus, LogOS and Kairos do together?
 - **Q5 — where Sophia went.** The 2026 sources absorb the others three different
   ways (LogOS into Mnemosyne, or into the Erasure-Pol; Kairos latent, or into the
-  Erasure-Pol) and place Sophia nowhere.
+  Erasure-Pol). The strukturierter Outline (2026-05-18) holds two of them at once
+  — LogOS into the Erasure-Pol (L161) and into Mnemosyne (L172), Kairos absorbed
+  and latent — and is the first read 2026 source to place Sophia: „(Kairos/Sophia,
+  latent)" in KW4 (L175). Its OQ table has no row for the Erasure-Pol's open name.
 - **Q1 — the Guardians and AEGIS.** Three canon-era sources make the Guardians
   components inside AEGIS' architecture. With five restored, is that still so?
 - **Q3 — correspondence.** Four Kern-Welten and thirteen Alters: does any world
@@ -62,17 +65,28 @@ before this list.
   them the novel's vocabulary?
 - **Mosaik-Herz — one thing or two?** A Kap-11 story beat (storyform-und-outline,
   Kapitel-Kompendium, konsolidiertes Konzept) and a Kap-34 place where Kael accepts
-  Juna (konsolidiertes Konzept, „Kernwelten vollständig").
+  Juna (konsolidiertes Konzept, „Kernwelten vollständig"). The strukturierter
+  Outline has both chapters too — Kap 11's stage and „Mosaik-Herz vor Vortex" in
+  Kap 34 — and does not say whether they are one.
 - **The world names after C6.** With five Guardians restored, do Cerberus-Labyrinth
   and Kairos-Potentialis name their Guardians again, or stay „mythologisch"
   as „Kernwelten vollständig" proposes (its L946–L947)?
 - **The Ursprungs-Ich and Juna (J68).** The glossary glosses the separated
   original self as Juna — „das Ursprungs-Ich (Juna)" — while its Genesis has the
   Ursprungs-Ich resonate *with* Juna. The konsolidiertes Konzept writes the same
-  gloss. Is Juna the Ursprungs-Ich, or what it met?
+  gloss. Is Juna the Ursprungs-Ich, or what it met? **A third answer (J75)**: the
+  strukturierter Outline makes AEGIS the Ursprungs-Ich — „AEGIS (Ursprungs-Ich →
+  Wächter)" (L237) — and ends „Kael ist als das erkannt, was AEGIS einmal war"
+  (L1241).
 - **The final form's name.** Wir-AEGIS / Mosaik-AEGIS / Plurale Kohärenz / Das Wir
   / namenlos — the konsolidiertes Konzept's own OQ-A (L1199). No page until it is
-  named.
+  named. The strukturierter Outline's OQ-A says the same: `Wir-AEGIS-plural` is a
+  working term, to be settled in Kap 39 (L1369; J73).
+- **KW3 has no chapter.** In the strukturierter Outline every other world is a
+  setting somewhere (KW1 in Kap 1 and 4, KW2 at Kap 5 and 15 and as the climax
+  archipelago, KW4 anticipated in Kap 13 and 20); the Cerberus-Labyrinth stands
+  only in the world table (L174). A gap in that plan, or deliberate? Found by the
+  graphify reader, checked against the lines.
 - **`kael-julia-bindung` (J13).** One document says `Kael-Julia-Bindung`, nine say
   `Kael-Juna-Verbindung`. The Kapitel-Kompendium now states „Julia→Juna" as a rename
   it applied to its quarry (L13). Should the page be renamed, and is the older
@@ -100,6 +114,16 @@ before this list.
 - **`GOAL.md` against the working agreement** — the manuscript, NCP files and
   claude.ai exports as sources; a conflict detector; the `kg/`/`kp` layout;
   status tags and tiers on pages.
+- **The new tools as second readers** — on every document read, on some, or not
+  again? Document 14's three cost 747k subagent tokens together;
+  knowledge-graph-extract alone, the best of them, 268k and 35 minutes, or about
+  90 seconds split four ways in parallel. No corpus text leaves: the model is
+  Claude. Their output stays a model's reading (below, *The new tools as second
+  readers*).
+- **A chapter table from code.** For a document whose chapters share a template, a
+  parser reads every chapter's POV, cast, sensory motif and tonal axis with its
+  line in milliseconds. Is the chapter the unit to start keeping (decision 001's
+  own condition, `GOAL.md`'s *Kapitel*)? Nothing is built beyond the one-off.
 - **When the project app is rebuilt** — after every reading, as part of phase
   4's re-measure, or only on request. `scripts/ui.py` builds it; a Claude session
   publishes it to the canvas (`CLAUDE.md`, *The project app*).
@@ -302,12 +326,35 @@ Two things the build found, fixed in place:
   `quotes.pairs` / `quotes.verdict` and both use it; `quotes.py`'s own numbers
   did not change.
 
+## The new tools as second readers — document 14, 2026-09-24
+
+The author's instruction for this session was „nutze die neuen Tools". Of the
+tools installed on 2026-09-24, two could be used on a new document without asking
+anew: **graphify** and **knowledge-graph-extract** are driven by the agent itself,
+so with Claude as the model no corpus text goes to a third party (decision 007
+covers only documents 5 and 6 for the rest). Both, and the Haiku entity list,
+read document 14 **after** its candidate list was committed, as second readers.
+`Plan/runs/koharenz-protokoll-strukturierter-outline-2026-05-18-md/second-readers/README.md` has everything; the short of it:
+
+- **knowledge-graph-extract reached a result** where the tool review's free models
+  could not: 174 entities, 200 triplets, F1 **0.37** against the reader's list
+  (precision 0.80), the best of the three. graphify 0.24, the entity list 0.19 —
+  low recall by construction against a 572-entry list.
+- **graphify's AMBIGUOUS edges found four of the document's inner tensions on its
+  own**, and its reader three the census had missed (now in the census, checked
+  and attributed).
+- **Speed** (the author asked): 35 minutes was one agent on one chunk, not token
+  volume. Four Haiku readers in parallel took 91 seconds for the same tokens and
+  kept the rules worse (F1 0.16–0.21); a template parser got every chapter's
+  fields with lines in 6 ms. The session model in parallel blocks is unmeasured.
+- Nothing any of them produced entered a page, link, count or judgement.
+
 ## Half-done — the entity lists
 
-`scripts/entities.py` works; the lists it searches exist for four documents.
-4 <!--state:entities.lists--> lists exist and 3 <!--state:entities.readings-->
-pass verification — 317 <!--state:entities.rows_verified--> of
-317 <!--state:entities.rows--> rows cite a line holding the entity.
+`scripts/entities.py` works; the lists it searches exist for five documents.
+5 <!--state:entities.lists--> lists exist and 4 <!--state:entities.readings-->
+pass verification — 395 <!--state:entities.rows_verified--> of
+395 <!--state:entities.rows--> rows cite a line holding the entity.
 
 **Revision 3 made the rule structural, and it held.** The reader returns names
 only, into `Plan/entities/names/<slug>.json`; `entities.py place` writes every
@@ -320,7 +367,15 @@ on the same four slugs, 2026-09-23:
 | `kohaerenz-protokoll` | 82 | 13 | **one line unread** | — |
 | `ki-agenten-kohaerenz-und-prompt-generierung` | 68 | 22 | reading | — |
 | `roman-lokalitaeten-konzept-und-ausarbeitung` | 97 | 0 | reading | 0.67 → 0.69 |
+| `koharenz-protokoll-strukturierter-outline-2026-05-18-md` (2026-09-24, document 14) | 78 | 2 | reading | — → 0.19 |
 
+- **Document 14's list was made after its reader's list was committed**, with the
+  workflow's prompt verbatim, as a second reader. Of its two refusals one is a
+  translation (`Landauer warmth`) and one is a term **the document does not
+  contain at all**, `Persistenzgleichung` — named from outside the document, and
+  stopped by `place`. Its reader reported 98 entities; the file holds 80. F1 0.19
+  against a reader's list of 572 is a recall of 0.11 by construction; its
+  precision is 0.81.
 - **Every row verifies because no row was typed.** The refusals are the forms
   revision 2 would have written anyway: `McLaughlin-Graph` where the text has
   `McLaughlin-Graphen`, `Nicht-Lokalität`, `Koherentz Lücke`. They are listed in
@@ -422,6 +477,31 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 high tier into it is the next step, and it is a person's.
 
 ## Next document — not yet chosen
+
+**The fourteenth is done: `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-09-24.** 576 candidates,
+no pages (an outline places; it defines little it does not also name as known),
+readings on 43 pages, ten conflicts and four questions moved, J69–J75.
+`Wiki/compare/reconcile-15-koharenz-protokoll-strukturierter-outline-2026-05-18-md.md` has the record. Chosen because it
+spoke to more open records than any other unread canon-era document.
+
+- **C10 gains a third position**: the knuckles are a standing trait of the Host,
+  in no chapter.
+- **Q5**: Sophia is placed, latent in KW4; LogOS and Kairos are absorbed two ways
+  in one document.
+- **C12**: both Genesis orders and a fourth beat, two weeks before the
+  Kapitel-Kompendium has the same.
+- **J75**: the Ursprungs-Ich glossed as AEGIS — a third answer to J68.
+- Reading it found **the quotation check blind to chapter numbers**; fixed, with
+  three self-test cases that fail on the old code.
+- **The tools installed on 2026-09-24 read it too**, as second readers after the
+  candidate list was committed — see *The new tools as second readers* below.
+
+What it leaves: 25 canon-era rows landed and unread. By the open records, the
+strongest next candidates are `koharenz-protokoll-konzept-iteration-genesis-md`
+(C12 and J75: 79 lines on the Genesis) and
+`kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md` (C11: 14 lines with
+Ozon, the most of any unread document) — a grep over the unread canon era,
+orientation only.
 
 **The thirteenth is done: `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-09-24.** 326 candidates, 7 new
 pages (the physics, and `hitze-polaritaetsregel` and `genesis` for C11 and C12),
@@ -612,10 +692,11 @@ later, none failing. 26 were `md`, which `fetch` skipped before: the two new fla
 are opt-in, and `md` takes the same text route that landed the four `md` rows on
 2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
-in another escaping — so 37 canon-era rows became 33, all landed. **Five are read**,
+in another escaping — so 37 canon-era rows became 33, all landed. **Eight are read**,
 `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`,
-`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, `dramatica-dual-storyform-status-2026-05-07-md`
-and `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, as documents 7 to 13 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
+`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, `dramatica-dual-storyform-status-2026-05-07-md`,
+`kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md` and `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, as documents 7 to 14 — see *Next document*.
+(This line said „Five are read" over a list of seven until 2026-09-24.) The copy under `Legacy/Canon/` (six of the 2026-06-10
 documents) has not been compared against the landed files.
 
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe

@@ -227,11 +227,14 @@ ledger specified in three places whose directory does not exist.
 - **`promote` does not exist**, and `Wiki/terms/` therefore does not exist:
   nothing has been promoted, and there is no rule yet for what happens when a new
   source contradicts a page a person signed off.
-- **Extraction is not yet trained.** Nine `Plan/runs/<slug>/03-candidates.md`
-  carry no reconstruction mark — documents 5 to 13 — and four are reconstructions
+- **Extraction is not yet trained.** Ten `Plan/runs/<slug>/03-candidates.md`
+  carry no reconstruction mark — documents 5 to 14 — and four are reconstructions
   (counted 2026-09-24 by each file's header; this line said „one" until then).
-  Only documents 5 and 6 have been scored against, and no extractor tested so far
-  reaches the Haiku floor on them (`Plan/concept/tool-review_2026-09-24.md`).
+  Documents 5, 6 and 14 have been scored against. On 5 and 6 no extractor tested
+  reached the Haiku floor (`Plan/concept/tool-review_2026-09-24.md`); on 14,
+  knowledge-graph-extract with Claude as the model scored F1 0.37 where the Haiku
+  list scored 0.19 — one document, one attempt
+  (`Plan/runs/koharenz-protokoll-strukturierter-outline-2026-05-18-md/second-readers/README.md`).
 
 `references/commands.md` has every script's full surface and its artifacts.
 For where DSPy could enter this loop and what data that needs first, read

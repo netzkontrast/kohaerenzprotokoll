@@ -295,3 +295,16 @@ that has not been done by hand twice* — one thing earned it.
 | Jev ordering the `judgement` bucket | **not ported** | done by hand once, by the tester. Its only permitted input, documents 5 and 6, is already decided; a second instance needs a new document and a consent row (question 3 above). A command waits for that |
 | graphify's code-only snapshot | **not ported** | run by hand a second time: 862 nodes and 1,848 edges, against 781 and 1,685 in the test — `scripts/` changed between. It describes; nothing in it can fail. The one rule it could hold, that no script reads `Legacy/` (P21), is a `grep` |
 | `cgr`, semantica, grawiki, knowledge-graph-extract, Hyper-Extract, Notion, OpenCode | **not ported** | nothing usable measured — the sections above |
+
+## Later the same day — two of the unreached, reached with Claude as the model
+
+knowledge-graph-extract and graphify's document mode are **not reached** above
+because the free-model router could not serve them. Both skills have the host
+agent read, so with Claude as the model they need no router and send no text to a
+third party. Run that way on document 14 — a new canon-era document, after its
+reader's list was committed — both reached a result: knowledge-graph-extract
+200 triplets, F1 0.37 against the reader's list (precision 0.80); graphify 674
+edges, F1 0.24, with four of the document's inner tensions as AMBIGUOUS edges.
+That changes this page's „not reached" for those two, and none of its other
+verdicts. `Plan/runs/koharenz-protokoll-strukturierter-outline-2026-05-18-md/second-readers/README.md` has the measurements,
+including what made the 35-minute run faster.
