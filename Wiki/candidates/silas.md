@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -32,3 +32,11 @@ Three acts: „Unbewusste Resonanz." ^[kohaerenz-protokoll-charakter-bibel-2026-
 „Bewusste Öffnung." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L744] He is the [[moonshine-link|Moonshine-Link]]'s body inside the system,
 and his conflict with [[oblivion|Oblivion]] is physical: „Jedes Mal, wenn Oblivion etwas
 erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L753]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Silas (Juna-Echo)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L414], correlate „Coheron-Echo (atemporal → Tunneling)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L415].
+
+„Silas als Coheron-Echo: er trägt einen Splitter von Juna in Kael." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447] „Er spürt, was AEGIS nicht sieht." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447] „Silas „tunnelt" nicht durch Mauern — er war nie in der Zeit, die diese Mauern definiert." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L158]
+
+Appearances and POV share are the document's open question OQ-E (L451).
