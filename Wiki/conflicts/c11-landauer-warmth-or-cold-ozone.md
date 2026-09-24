@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 5
+sources: 6
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -78,3 +78,10 @@ warmth at the transition out of KW1 (Kap 13→14). Same date as document 7.
 cue gives warmth to [[kael|Kael]] and cool to [[aegis|AEGIS]]: „Kaels warme Kontemplation kippt für
 einen Atemzug in AEGIS-Kühle und zurück" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L344]. Three weeks before the
 2026-05-30 lock, and in line with it; nothing here on Kap 6.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+The rule, restated as a glossary entry: „Kaltes Ozon (scharf, elektrisch) =
+AEGIS-Unterdrückung / Landauer-Signatur." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L428] „Wärme = Junas ununterdrückbare
+Spur (Coheron-Verdrängung)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L429] It now has its own page,
+[[hitze-polaritaetsregel]], which gathers where it is kept and where not.
