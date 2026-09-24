@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 6
+sources: 7
 pages: ["trennungsprotokoll"]
 ---
 
@@ -63,3 +63,11 @@ Four: Kap 0 is „Vier-Beat-Genesis" ^[kohaerenz-protokoll-kernwelten-vollstaend
 Trennungsprotokoll → Kael=Komp 734. Braucht es einen vierten?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L408] — one of four
 points carried from a „Reset-Doc 2026-04-30" (L401). The next day the character
 bible answered it no and the konsolidiertes Konzept answered it with a fourth beat.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**A third arrangement.** Four beats, and Komponente 734 made in the third: „Trennungsprotokoll
+— algorithmisches Selbstamputat: Fühlen wird ausgelagert, Denken gerettet. Aus dem
+Ich wird Komponente 734." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L148] The konsolidiertes Konzept counts four with 734
+in beat 2; the character bible three with 734 in beat 3. The [[genesis]] page now
+holds every version.
