@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 4
-readings: 4
-conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 5
+readings: 5
+conflict: C4,
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -79,7 +79,7 @@ any tally taken from the framing text is off by one.**
 
 This document never mentions `AEGIS` — zero occurrences. Document 1 called the
 Guardians „spezialisierte Agenten dieses Entropie-Managements", which is [[aegis|AEGIS]]'
-work. **Whether the Guardians are inside AEGIS, beside it, or a design it
+work. **Whether the Guardians are inside [[aegis|AEGIS]], beside it, or a design it
 replaced is not answerable from the four documents read** — see
 `Wiki/conflicts/c4-guardians-and-aegis.md`.
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05, brief
@@ -187,3 +187,30 @@ than anything read so far, and it is stated in passing, as a location's function
 
 **That is placement, not a statement of the relation.** See
 `q1-guardians-and-aegis`.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Two, not five — and not one per world.** The first read source from 2026, and
+the first to state the Guardians' place in AEGIS as architecture:
+
+> „Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei
+> Protokolle, verbindliches Log-Format." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+and the table of worlds is headed with the negation:
+
+> „Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]
+
+**This contradicts every earlier reading on this page**, which gave five named
+bearers, each paired with a world. The names survive, but as world names: KW1 is
+„Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219] and KW3 „Cerberus-Labyrinth /
+Überwelt-Nexus" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L221]. `Kairos` and `Sophia` do not occur in this document.
+Conflict `C6` holds both positions; the page decides nothing.
+
+In the plot they are sub-antagonists absorbed by [[kael|Kael]] — „Kael absorbiert
+Guardian-Prinzipien gesund; Guardians als Sub-Antagonisten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] — and
+[[mnemosyne|Mnemosyne]] is the first one hit in Vortex 1 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381]. They speak like AEGIS,
+in logs: „AEGIS und die zwei Guardians sprechen in 3. Person" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
+
+**On the word:** `Guardian` only; `Wächter` never occurs. `Wächterin` does, as the
+title of Kap 8 and a function in the Z1 cycle (L313, L333) — see
+`q4-waechter-four-bearers`.
