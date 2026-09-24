@@ -958,8 +958,8 @@ for direct calls under decision 007: free models only, the consent file where
 `lmrun` takes `approval=`, every call recorded and replayable offline, and a
 repeat made fresh by `attempt > 0` rather than by turning the record off (P18).
 One rule — no corpus text leaves without the author's decision — now has three
-encodings, which is the drift P6 names; which one the others should call is open
-in `NOW.md`.
+encodings, which is the drift P6 names. Decision 008 keeps all three as they are
+until one changes its rule and the others do not.
 
 **`.agents/skills/dspy` is where the knowledge behind these scripts lives**,
 sorted by the job at hand: API, optimizers, metrics, data, testing, RLM,
