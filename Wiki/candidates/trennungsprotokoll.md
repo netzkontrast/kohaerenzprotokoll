@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -36,7 +36,7 @@ bleibt, als Preis, nicht mehr als Tragödie" ^[kohaerenz-protokoll-storyform-und
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
-**The second of three Genesis beats, and [[aegis|AEGIS]]' first protocol.**
+**The second of three [[genesis|Genesis]] beats, and [[aegis|AEGIS]]' first protocol.**
 
 > „Trennungsprotokoll — autopoietisch getrieben, paradox-belastet, initiiert AEGIS
 > das „Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L118]
@@ -67,3 +67,10 @@ vollzogen" ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]. A reading for con
 **Three beats, and the question of a fourth**, a day before the two 2026-05-08
 sources answered it differently: „Aktuell 3 Beats: Einheit → Trennungsprotokoll →
 Kael=Komp 734. Braucht es einen vierten?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L408] Conflict C12.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**Beat 3 of four, and Komponente 734 made in it**: „Trennungsprotokoll —
+algorithmisches Selbstamputat: Fühlen wird ausgelagert, Denken gerettet. Aus dem
+Ich wird Komponente 734." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L148] — four beats with the three-beat order of the
+character bible. Conflict C12.
