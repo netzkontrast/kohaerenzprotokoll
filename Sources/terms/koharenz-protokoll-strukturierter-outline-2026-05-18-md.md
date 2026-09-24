@@ -765,3 +765,18 @@ compounds, `Kap 1`–`Kap 4` inside `Kap 10`–`Kap 40`.
 - **Juna's first direct appearance is placed once and repeated**: Kap 38 Beat 3
   in the cast section (L121), the entry (L1174), the synoptic table (L1305), the
   transitions (L1335) and the closing sentences (L1385).
+
+### Found by a second reader, checked against the lines
+
+The graphify extraction (below `Plan/runs/koharenz-protokoll-strukturierter-outline-2026-05-18-md/second-readers/`) ran after this census's
+candidate list was committed, and raised three things this reading had not. Each
+was checked against the document before it was written here.
+
+- **An open name with no open question.** The Erasure-Pol's „Name offen (OQ)"
+  ^[L161] has no row in the OQ table, whose seven rows are OQ-A to OQ-G
+  (L1369–L1375).
+- **One world has no chapter.** „KW3 — Cerberus-Labyrinth" ^[L174] stands only
+  in the world table; every other world is a chapter setting somewhere.
+- **Kap 26 on the boundary.** The synoptic table gives it „Shō → Ten" ^[L1293],
+  while Shō is „Akt II zyklischer Modus (Kap 14–26)" ^[L30] and Ten „Akt III
+  Phase A bis Vortex 2 Beat 4 (Kap 27 bis Mitte Kap 38)" ^[L31].
