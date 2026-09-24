@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -34,7 +34,7 @@ What it means:
 > Standardisierung symbolisiert den Verlust von Individualität im System."
 > ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L263]
 
-And how the `Risse` arrive here — the first ones Kael sees, and they are small:
+And how the `Risse` arrive here — the first ones [[kael|Kael]] sees, and they are small:
 
 > „Subtil beginnend: Flackern des Lichts, kurzzeitige visuelle Verzerrungen an
 > Wänden (Glitch-Ästhetik 39), unerklärliche Geräusche, Objekte, die kurzzeitig
@@ -61,3 +61,8 @@ the reader should notice and Kael should not, and once as „Komponente 734" ^[k
 Kap 0 genesis sequence ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298]. **This page is `Kaels Wohneinheit 1.0`**; the
 dwelling is the same by the sentence (Kael's start in KW1), the number is not, and
 the page records both (judgement J50).
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+„Wohneinheit 14/Sektor 7/Wohneinheit 734-K" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L311] — a fuller address than
+the other canon-era source's „Wohneinheit 734", for the same dwelling (J50).
