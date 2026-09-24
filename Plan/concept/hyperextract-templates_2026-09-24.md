@@ -2,7 +2,7 @@
 
 *2026-09-24. Everything below is designed and checked; **nothing has been run on the
 corpus.** The run belongs to the tool review (`tool-review-plan_2026-09-24.md`),
-under decision 006: documents 5 and 6, free models, through `scripts/route.py`.*
+under decision 007: documents 5 and 6, free models, through `scripts/route.py`.*
 
 The author asked the template optimizer for a Hyper-Extract plan for this
 project. There were no templates to optimise, so the skill chain ran from the
@@ -87,7 +87,7 @@ exists for, and the clean fixture passing `validate` and `load` — the second h
 was added after the first `check` failed every good template: the self-test had
 proved each check could fail and never that it could pass.
 
-## How they run — next session, under decision 006
+## How they run — next session, under decision 007
 
 ```bash
 .venv-grawiki/bin/python scripts/route.py serve --port 8787 &     # free models + local embeddings

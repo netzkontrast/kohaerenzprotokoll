@@ -111,7 +111,7 @@ uses should be asked for again, with its cost.
 `Plan/concept/jev-in-ingestion_2026-09-23.md` has the three placements and what
 each would send.
 
-**A third yes, 2026-09-24 — decision 006.** Documents 5 and 6
+**A third yes, 2026-09-24 — decision 007.** Documents 5 and 6
 (`aegis-subplots-kapitelweise-system-exploration-docx`,
 `roman-lokalitaeten-konzept-und-ausarbeitung`) may go to free OpenRouter models,
 with `data_collection: deny`, and to Jev, to test the tools installed that day.
@@ -123,7 +123,7 @@ have a genuine reader's `03-candidates.md`; the decision file says why.
 
 **Three encodings of one rule.** „No corpus text leaves without the author's
 decision" is held by `lmrun.py` (`approval=`), by `rlm_ingest.py` (`--approval`,
-its own `dspy.LM`) and by `scripts/route.py` (the consent file of decision 006),
+its own `dspy.LM`) and by `scripts/route.py` (the consent file of decision 007),
 while `bilingual.py` and `jev_entities.py` call out directly. They met in one
 merge and agree today; P6 says they will not stay agreed. Which one the others
 should call — and whether `route.py`'s record-and-replay or `lmrun`'s
@@ -244,7 +244,7 @@ below is the graph and retrieval work. The other is the **tool review** the auth
 approved on 2026-09-24 — test every tool installed that day against documents 5
 and 6 through `scripts/route.py`, and review what the loop could use — in
 `Plan/concept/tool-review-plan_2026-09-24.md`, to be run straight through. It
-needs free models and Jev under decision 006; everything below needs no model.
+needs free models and Jev under decision 007; everything below needs no model.
 
 In order, and none of it needs a model:
 

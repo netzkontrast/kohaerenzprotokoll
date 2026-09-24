@@ -13,7 +13,7 @@ Four author answers bind it (asked, not assumed — P0):
 
 | question | answer |
 |---|---|
-| which text may leave | two documents already in the wiki → **documents 5 and 6** (decision 006 says why these two) |
+| which text may leave | two documents already in the wiki → **documents 5 and 6** (decision 007 says why these two) |
 | budget | **free OpenRouter models only**; Jev per call |
 | checkpoint | **straight through** once the router passes its selftest and one real call; the author reviews on PR #58 |
 | Notion | reviews stay **in the repository**; Notion is tested read-only |
@@ -25,7 +25,7 @@ oh-my-openagent, `install.sh` + the session hook; `jev-decide` as the judge.
 
 ## Done
 
-- **Decision 006** and `Plan/runs/route/consent.json`, its one machine encoding.
+- **Decision 007** and `Plan/runs/route/consent.json`, its one machine encoding.
 - **`scripts/route.py`**, the cost router — free only (listed price 0, and a
   charged call stops the run), consent (a declared document outside it, or twelve
   consecutive words of any landed document outside it, is refused before

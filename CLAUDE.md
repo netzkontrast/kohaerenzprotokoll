@@ -894,7 +894,7 @@ into the document its verified citations reach.
 `dspy.LM` with the same two refusals — cache off, `--approval` required.
 `bilingual.py` and `jev_entities.py` call OpenRouter and Jev directly, with
 their own cache, and were written before it. `scripts/route.py` is the door for third-party tools and
-for direct calls under decision 006: free models only, the consent file where
+for direct calls under decision 007: free models only, the consent file where
 `lmrun` takes `approval=`, every call recorded and replayable offline, and a
 repeat made fresh by `attempt > 0` rather than by turning the record off (P18).
 One rule — no corpus text leaves without the author's decision — now has three

@@ -1,4 +1,4 @@
-# 006 — Two documents may go to free models and Jev, to test the new tools
+# 007 — Two documents may go to free models and Jev, to test the new tools
 
 **Date:** 2026-09-24 · **Decided by:** the author, answering two questions · **Status:** chosen, enforced by `scripts/route.py`
 

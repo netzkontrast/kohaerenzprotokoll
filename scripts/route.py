@@ -14,7 +14,7 @@ Three guards are code, not prose (P1), and each says what it could not check (P2
 - **Free only.** A model is used only if its listed prompt and completion prices are
   both 0 — read from OpenRouter's catalogue, never inferred from a `:free` name —
   and a response that reports `usage.cost > 0` stops the run.
-- **Consent.** `Plan/runs/route/consent.json` (decision 006) names the documents
+- **Consent.** `Plan/runs/route/consent.json` (decision 007) names the documents
   that may be sent. A call declaring any other document is refused, and so is any
   request containing twelve consecutive words of a landed document outside the
   consent. Blind to: paraphrase, translation, and runs shorter than twelve words.
@@ -118,7 +118,7 @@ def check_doc(doc: str | None) -> str | None:
     allowed = consent()["documents"]
     if doc not in allowed:
         raise Refused(f"{doc!r} is outside the consent ({rel(paths()['consent'])}); "
-                      f"decision 006 allows {', '.join(allowed)}")
+                      f"decision 007 allows {', '.join(allowed)}")
     return doc
 
 
@@ -327,7 +327,7 @@ def chat(request: dict, *, purpose: str, doc: str | None = None, prefer: str | N
         if cost:
             ledger(kind="chat", purpose=purpose, doc=doc, key=key, cached=False, outcome="charged",
                    model=model, cost=cost)
-            raise Refused(f"{model} charged {cost} although listed free — stopping (decision 006)")
+            raise Refused(f"{model} charged {cost} although listed free — stopping (decision 007)")
         choice = resp["choices"][0]
         msg = choice.get("message") or {}
         content = msg.get("content") or ""
