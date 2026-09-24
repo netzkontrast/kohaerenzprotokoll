@@ -1,10 +1,10 @@
 ---
 term: Verschränkungs-Insel
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -20,3 +20,7 @@ in which the [[ueberwelt|Überwelt]] is explicit (L805). Kap 33 also holds the G
 Präsenz (L859).
 
 The konsolidiertes Konzept names it the same way (L538), not attached.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Verschränkungs-Insel im Approach Inmost Cave (Kap 33)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L416]
