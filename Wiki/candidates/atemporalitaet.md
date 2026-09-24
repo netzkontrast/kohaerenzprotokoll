@@ -1,0 +1,24 @@
+---
+term: Atemporalität
+status: candidate
+sources: 1
+readings: 1
+conflict: none
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+gathered: "2026-09-24"
+---
+
+# Atemporalität
+
+**Why [[aegis|AEGIS]] cannot see [[juna|Juna]], [[silas|Silas]] or the [[moonshine-link|Moonshine-Link]].**
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Generalschlüssel der DKT-Mechanik" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L49]: Coheronen are atemporal, Erasonen make
+time, [[aegis|AEGIS]]' architecture is temporal — „AEGIS ist strukturell blind für sie."
+^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L49] Three consequences follow in the same entry: the Moonshine-Link is
+invisible rather than hidden, [[silas|Silas]] was never in the time that defines the walls,
+and erasure does not apply to what is atemporal (L49).
+
+The konsolidiertes Konzept gives the same chain as „II.4 Atemporalität als
+Generalschlüssel" (L147 of that document), not attached.
