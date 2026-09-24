@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-16"
 ---
 
@@ -174,3 +174,11 @@ in one scheme.
 
 „nie als grammatisches Subjekt" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L684]. Kap 3: „erste Wärme-Spur (Junas
 Coheron-Debüt)" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829].
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+IC in A only, from this day: „Juna ist die irreduzible Quelle, durch die Kael
+paradox wird" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L31]; before, „Die Memory-Slots vor 2026-05-07 hatten Juna als IC
+in *beiden* Storyforms (DOPPEL-IC)." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L121] Her mode in A: „Telefon-Stille als
+Anker = pure Präsenz, keine Aktion." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L202] How she appears is open: „Wie taucht
+Juna auf?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L407]
