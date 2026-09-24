@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,12 @@ It is the relationship throughline of Storyform A — „RS: A = Physics
 (Moonshine-Link)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L168] — and its boundary is open there too:
 „Moonshine-Boundary (was überträgt der Link, was nicht)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L480]. That
 document's reconciliation withheld the page for that reason; this one defines it.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Der Moonshine-Link ist keine poetische Metapher für Quantenverschränkung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L298] Its boundaries:
+
+- „Übertragbar: mutuale Information, atemporale Resonanz, Zeugenschaft" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L312]
+- „Nicht übertragbar: materielle Daten, klassische Nachrichten, Rettungsaktionen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L313]
+
+„Der Moonshine-Link ist nicht versteckt — er ist unsichtbar" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L157], because AEGIS' sensors measure change and Coheronen have none.
