@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -37,3 +37,8 @@ Roster row: „Lia (Ambivalent)" ^[koharenz-protokoll-konzept-konsolidiert-2026-
 From the first trauma layer: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L436]
 
 Its Riss type is shared with Isabelle — „(Flight, Lia/Isabelle)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L560], „Spatial" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L561] — a trigger name the roster does not give Lia.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+KW2's spatial Risse: „Spatiale Risse** (Lia/Isabelle-Trigger)" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L236] — shared
+with [[isabelle|Isabelle]], as in the konsolidiertes Konzept.
