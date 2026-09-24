@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 4
+sources: 5
 pages: ["juna"]
 ---
 
@@ -66,3 +66,15 @@ It does not settle C7. No chapter line gives [[juna|Juna]] a direct appearance, 
 Vortex 2 (L240) does not mention one. What it says of her in the novel's run is
 the rule „nie Subjekt, nur Wirkung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] and a forewarning, „Junas zunehmende
 Stille" ^[kapitel-kompendium-gather-2026-05-31-md.md:L152]. The question stays with the author.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**A scheme in which both earlier positions have a place.** Kap 33's garden is the
+character bible's scene, but as effect: „Setting der Juna-Wirkung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L480]. The
+direct appearance is Kap 38: „Direkt erst ab **Vortex 1 Beat 4** und in Kap 38
+(Juna erscheint)." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630], and the transition table: „Juna erscheint direkt"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L727].
+
+It does not say the character bible meant effect by „spürbare aber
+nicht-beschriebene Präsenz" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L280]. Whether it did — whether C7 is a conflict at all or
+two descriptions of one plan — is the question for the author.
