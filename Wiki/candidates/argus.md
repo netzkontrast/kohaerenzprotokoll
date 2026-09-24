@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,9 @@ One of the thirteen [[alters|Alters]] — Sonder-Kategorie, „Meta-Kognitiv" in
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10, one table row
 
 Its roster row gives category `Sonder`, function `Meta-Kognitiv` and arc `→ konstruktive Kritik` ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L270]. Recorded in that document's reconciliation as not promoted, and attached here now that a profile exists.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Argus (Meta-Kognitiv)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L409], correlate „Fraktale" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L410], somatics „offen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L411], arc „→ Konstruktive Kritik" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L412].
+
+From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 entstanden:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439] lists it.
