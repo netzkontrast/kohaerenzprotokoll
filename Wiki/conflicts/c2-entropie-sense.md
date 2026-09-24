@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 5
+sources: 6
 pages: ["entropie"]
 ---
 
@@ -80,3 +80,13 @@ aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25], labelle
 
 The third sense again, as B's premise: „Wer Kontradiktionen löscht statt
 integriert, generiert die Entropie, die er bekämpft." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L218]
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**A fourth sense: entropy as the condition of events.** K₀ is „Das Prinzip
+irreversibler Berechnung und Entropie." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] — and „K₀ ist nicht Chaos, sondern
+die Bedingung für Ereignisse überhaupt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37], „K₀ ist das, was ein Universum
+bewohnbar macht." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] Neither the disorder AEGIS fights (position 1) nor the
+matrix things come from (position 2): what makes time, learning and experience
+possible. The glossary also keeps the third: [[aegis|AEGIS]] believes itself K₁ and is K₀
+(L82).
