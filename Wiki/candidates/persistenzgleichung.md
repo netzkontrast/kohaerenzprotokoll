@@ -1,10 +1,10 @@
 ---
 term: Persistenzgleichung
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,8 @@ what happens when a temporal measuring system meets atemporal phenomena.
 
 The page exists by the same rule as [[erason]]: a flat definition in Teil II, the
 document's physics.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Placed in Kap 1, as theory: „Persistenz-Gleichung η (von AEGIS als Stabilität
+fehlgelesen)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190].
