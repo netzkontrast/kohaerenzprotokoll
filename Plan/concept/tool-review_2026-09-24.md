@@ -281,3 +281,17 @@ Work continues without these answers, per the instruction of 2026-09-24.
    check` and the other Memgraph-backed commands. The expected value is low
    (Jev 0.15 on that recommendation), so the question is whether it is worth
    an environment change at all.
+
+## What was ported, 2026-09-24 — and what was not
+
+The author asked for the tools worth it to be ported. Measured against this
+page's own evidence and the tools skill's rule — *write no command for a step
+that has not been done by hand twice* — one thing earned it.
+
+| candidate | decision | why |
+|---|---|---|
+| `scripts/route.py`, the three defects above | **fixed** | every future model call goes through it. `profile` now loads from the standard library before `scripts/` is on the path — reproduced as a 501 before, 384-dimensional embeddings after; each attempt has a hard deadline and a call a total one of 600 s; every failed attempt writes its own ledger row, shown as `retries`. `selftest`: 29 cases hold, three new |
+| `entities.py score --names` | **already in** | ported during the test; it reproduced the Haiku lists exactly |
+| Jev ordering the `judgement` bucket | **not ported** | done by hand once, by the tester. Its only permitted input, documents 5 and 6, is already decided; a second instance needs a new document and a consent row (question 3 above). A command waits for that |
+| graphify's code-only snapshot | **not ported** | run by hand a second time: 862 nodes and 1,848 edges, against 781 and 1,685 in the test — `scripts/` changed between. It describes; nothing in it can fail. The one rule it could hold, that no script reads `Legacy/` (P21), is a `grep` |
+| `cgr`, semantica, grawiki, knowledge-graph-extract, Hyper-Extract, Notion, OpenCode | **not ported** | nothing usable measured — the sections above |

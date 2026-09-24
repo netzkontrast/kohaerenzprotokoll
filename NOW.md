@@ -261,11 +261,10 @@ per suite what holds. In a fresh container the DSPy suites report `not run`
 with the command that creates `.venv-dspy`.
 
 **The tool review has run** (`Plan/concept/tool-review_2026-09-24.md`). What it
-leaves as work, none of it needing a model: three defects in `scripts/route.py`
-(it shadows the stdlib `profile` module, its timeout is soft — 510 s seen — and
-it writes one ledger row per call, not per attempt), and the four Hyper-Extract
-templates, which `he parse` cannot load from a path — `templates.py check` stays
-green over that, because it only validates and loads.
+leaves as work: the four Hyper-Extract templates, which `he parse` cannot load
+from a path — `templates.py check` stays green over that, because it only
+validates and loads. The three `route.py` defects it found are fixed, and what
+was worth porting from the tools is decided — the review's closing section.
 
 In order, and none of it needs a model:
 
