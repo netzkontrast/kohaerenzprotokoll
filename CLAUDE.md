@@ -107,7 +107,7 @@ last two from the canon era.
 
 `Wiki/candidates/` holds **76 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **10 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
-**4 <!--state:wiki.questions-->**, and
+**5 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
 has been promoted.
@@ -359,8 +359,8 @@ places the pass may not touch, so that number is a measurement and not a backlog
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **98 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **680 <!--state:graph.edges--> edges** (`links`,
+citations and builds **99 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **692 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
@@ -386,14 +386,14 @@ python3 scripts/graphrag.py ask "Wie hängen die Guardians mit AEGIS zusammen?"
 python3 scripts/graphrag.py bench              # recall against the wiki's own labels
 ```
 
-`bench` scores retrieval on the 14 <!--state:graphrag.cases--> cases the wiki
+`bench` scores retrieval on the 15 <!--state:graphrag.cases--> cases the wiki
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
-**45 <!--state:graphrag.recall_seeds-->% from the seeds alone and
+**44 <!--state:graphrag.recall_seeds-->% from the seeds alone and
 62 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
-step, on fourteen cases whose labels were written by the same hand as the
-pages. Documents 7 and 8 added five of them (C6–C10); on the original nine the
-numbers were 40 and 58.
+step, on fifteen cases whose labels were written by the same hand as the
+pages. Documents 7 and 8 added five of them (C6–C10) and the author's C6
+decision a sixth (Q5); on the original nine the numbers were 40 and 58.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`

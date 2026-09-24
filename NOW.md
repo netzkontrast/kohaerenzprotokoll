@@ -42,7 +42,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-285 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+291 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -134,7 +134,7 @@ with the command that creates `.venv-dspy`.
 In order, and none of it needs a model:
 
 1. **More retrieval cases.** `graphrag.py bench` has
-   14 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   15 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
    pages. The `## Open` sections (`relations.py --open`) are a second source;
    write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
    has why and the next four steps after it.
@@ -296,8 +296,9 @@ question and must be discussed; `Sources/` is the new baseline.** So no date and
 no source's claim to be canon settles any of these; each is discussed with the
 author and closes when the author decides it:
 
-- **C6** — five Guardians paired with worlds (2025), or two and no pairing
-  (2026)? The Charakter-Bibel's „Frühere Drafts" no longer retires the five.
+- **C6** — **decided by the author, 2026-09-24: five Guardians** (LogOS,
+  Mnemosyne, Cerberus, Kairos, Sophia). Their pairing with the Kern-Welten and
+  the Erasure-Pol are open in **Q5**.
 - **C7** — Juna's direct appearance: once, ca. Kap 33 (Charakter-Bibel), or
   first in Kap 38 (storyform-und-outline)?
 - **C8** — AEGIS' Approach in Storyform B: Be-er or Do-er?
