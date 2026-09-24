@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -129,3 +129,11 @@ Klasse II. Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-cha
 first Landauer trace in Kap 1: „Erste Spur Kap 1 (Knöchel bluten ohne Grund)."
 ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1112] The other locks the bleeding to Kap 0 alone — „der Faden lebt in Kap
 0 allein (Knöchel-Eruption, Nyx)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459]. Conflict `C10`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Kael ist ein System aus dreizehn Fragmenten einer dissoziierten Psyche" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L348], and „die fühlende Hälfte, die AEGIS sich abgeschnitten hat" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L64].
+
+The novel's opening image, as this document gives it: „Ein Mann erwacht in einer sterilen Stadt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L29] — „er weiß nicht, warum seine Knöchel bluten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L29]. It is the synopsis, not a chapter line; the Kap 1 line names „sterile Leere, Ozon, weißes Licht" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962]. A reading for conflict C10, on the character bible's side.
+
+Roster row: „Kael (Host)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L359], correlate „Hubble-Volumen / Big Rip" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L360]. Trauma layer: „Kael (amnestische Oberfläche)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439], from the second.
