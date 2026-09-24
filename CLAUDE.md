@@ -154,7 +154,11 @@ document 7 said they would need. It also disagrees with document 7 in four
 places (C7–C10): where Juna appears, AEGIS' Approach in Storyform B, what the
 Konstrukt-Stadt is, and whether Kael's knuckles bleed in Kap 1. **Two canon-era
 sources disagreeing is the case the wiki exists for**, and document 7's „newer
-wins" would settle all four; the wiki records both and the dates.
+wins" would settle all four; the wiki records both and the dates. **And the
+author has said it must not be settled that way**: „Alle alten Entwürfe kommen
+wieder in Frage und müssen diskutiert werden — sources wird die neue
+Ausgangslage" (decision 006). Every conflict is a discussion item, and no
+document's date or claim to be canon retires another.
 
 `Plan/runs/judgements.jsonl` holds **59 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and

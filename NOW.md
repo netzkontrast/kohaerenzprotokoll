@@ -42,7 +42,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-280 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+285 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -290,11 +290,14 @@ high tier into it is the next step, and it is a person's.
 `algorithmische-melancholie`, `cache-kohaerenz`), readings on 22 pages, and four
 new conflicts. `Wiki/compare/reconcile-09-kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md` has the record.
 
-**Decisions it puts to the author** — each a place where the two canon-era
-documents disagree, and each one document 7's „newer wins" would settle by date:
+**Discussion items it raises** — each a place where the two canon-era documents
+disagree. **Decision 006 (the author, 2026-09-24): every draft is back in
+question and must be discussed; `Sources/` is the new baseline.** So no date and
+no source's claim to be canon settles any of these; each is discussed with the
+author and closes when the author decides it:
 
-- **C6** — now explained by a source: „Frühere Drafts hatten fünf Guardians …
-  Aktueller Kanon: zwei". Does that retire the 2025 readings?
+- **C6** — five Guardians paired with worlds (2025), or two and no pairing
+  (2026)? The Charakter-Bibel's „Frühere Drafts" no longer retires the five.
 - **C7** — Juna's direct appearance: once, ca. Kap 33 (Charakter-Bibel), or
   first in Kap 38 (storyform-und-outline)?
 - **C8** — AEGIS' Approach in Storyform B: Be-er or Do-er?

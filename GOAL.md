@@ -148,7 +148,9 @@ Mach zuerst eine Inventur. Welche Zugänge hast du tatsächlich (Drive-MCP, GitH
 | `M` | Memory und Briefing (Anhang A) |
 | `X` | Anderes Projekt (Album) |
 
-**Entscheidungslogik pro Konflikt:**
+> **Ausgesetzt am 2026-09-24 (Entscheidung 006, Autor):** „Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden — sources wird die neue Ausgangslage." Die Tiers unten beschreiben höchstens, *woher* ein Dokument kommt, nie, *ob* es gilt. Keine Regel entscheidet einen Konflikt automatisch; jeder wird mit dem Autor diskutiert. Das gilt ausdrücklich auch für T5 „Steinbruch" und für jede Selbstauskunft einer Quelle („Source-of-Truth", „Aktueller Kanon", „Frühere Drafts").
+
+**Entscheidungslogik pro Konflikt (ausgesetzt, siehe oben):**
 1. Höherer Tier gewinnt.
 2. Bei gleichem Tier gewinnt das jüngere Datum.
 3. Wenn die ältere Quelle einen expliziten Lock trägt und die neuere ihn nicht ausdrücklich aufhebt, entsteht ein **Autor-Konflikt**, nicht eine automatische Auflösung.
