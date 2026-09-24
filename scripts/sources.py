@@ -464,8 +464,13 @@ def cmd_fetch(args: argparse.Namespace) -> int:
         todo = [r for r in todo if r.get("category") == args.category]
     if args.tier:
         todo = [r for r in todo if r.get("tier") == args.tier]
-    unsupported = {f for f in (r.get("format") for r in todo) if f not in SUPPORTED_FORMATS}
-    todo = [r for r in todo if r.get("format") in SUPPORTED_FORMATS][:args.limit]
+    if args.since:
+        todo = [r for r in todo if (r.get("index_date") or "") >= args.since]
+    # md takes the text route, as the four md rows landed on 2026-09-16 did.
+    # Opt-in, because the connector does not list md as supported.
+    formats = SUPPORTED_FORMATS | ({"md"} if args.include_md else set())
+    unsupported = {f for f in (r.get("format") for r in todo) if f not in formats}
+    todo = [r for r in todo if r.get("format") in formats][:args.limit]
 
     if not todo:
         print("nothing to fetch for that selection")
@@ -505,6 +510,9 @@ def main(argv: list[str] | None = None) -> int:
     fetch.add_argument("--tier")
     fetch.add_argument("--force", action="store_true")
     fetch.add_argument("--today")
+    fetch.add_argument("--since", help="only rows whose index_date is on or after this date")
+    fetch.add_argument("--include-md", action="store_true",
+                       help="also fetch md rows, through the text route")
     fetch.set_defaults(fn=cmd_fetch)
 
     nxt = sub.add_parser("next", help="the next drive_ids to fetch")
