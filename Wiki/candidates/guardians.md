@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -274,3 +274,11 @@ A sixth 2026 source for two, recorded after the author's decision for five.
 overall story is „die Manipulation der simulierten Welt durch AEGIS+Guardians"
 ^[dramatica-dual-storyform-status-2026-05-07-md.md:L206], B's is „Erasure-Sweeps, Guardian-Operationen, das Mnemosyne-Archipel als
 Schlachtfeld" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L230]. No count is given.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Post-Reset-Architektur (frühere fünf Guardians sind dekanonisiert, in den zwei
+aufgegangen)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L302], and in the quarry filter „5 Guardians → 2 (Mnemosyne +
+Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810] — with their weight lowered: „„Guardians als zentrale
+Antagonisten" → Sub-Aspekte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L814]. A seventh 2026 source for two, after the
+author's decision for five.
