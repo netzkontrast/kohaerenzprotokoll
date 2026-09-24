@@ -396,6 +396,18 @@ is neither.**
 
 ## The ceiling: two readers of one document agree at F1 0.66
 
+> **Corrected 2026-09-24, and re-measured — see *Blind re-readings* at the end of
+> this file.** Both readers were Claude sessions, not people: the two readings
+> sat on two worktree branches, and every candidate list in `Plan/runs/` was
+> committed by a Claude session (the commit of document 5's census speaks of
+> „my own quotations"). No reading by the author is recorded anywhere, so this
+> is the agreement of two Claude readings and `PRINCIPLES.md` called it the
+> *human* ceiling in error. And 0.66 mixes two things: what each reader saw,
+> and how much each chose to list. Two blind readers told to list exhaustively
+> agree at 0.82–0.93 on four documents, and each holds 97–100 % of the
+> committed list's content — what differs between readers is the selection,
+> not the seeing.
+
 **Measured 2026-09-17, and it is the number every later score has to be read
 against.** Two independent readings of
 `orte-konzept-fuer-kohaerenz-protokoll` — same document, same process, neither
@@ -552,3 +564,80 @@ repeats either, the questions to add are:
 - Does the document repeat a fixed template? Do its instances agree with its
   definition, field name by field name?
 - Does a candidate's occurrence count separate the document's registers?
+
+## Blind re-readings, 2026-09-24 — what F1 between two lists measures
+
+**Asked because the author asked how well reading works, and the honest answer
+was that nothing had measured it.** Eleven of the thirteen candidate lists have
+no second reading, and the two „gold" ones (documents 5 and 6) were written by
+a Claude session like the other eleven — `written_by: a reader` and
+`written_by: … (Claude, in session)` name the same kind of reader.
+
+So four read documents were read again, blind, twice each: a Claude subagent per
+reading, given `Plan/briefings/extract.md`, `01-profile.txt`, `02-probes.txt`
+and `read.py` and nothing else, told to list exhaustively and to keep every
+surface as the document writes it, returning the list rather than writing it.
+The eight lists are `Plan/runs/<slug>/03-candidates-blind-{1,2}.md`, each line
+citing its first occurrence; code confirmed 6,463 of 6,477 citations
+(`entities.holds`). Every reader reached the last line. Every one reported the
+same contamination — `CLAUDE.md` describes all four documents by slug, and it is
+loaded into every session before any rule can stop it.
+
+```bash
+python3 scripts/agree.py <slug>            # every list in the run, pairwise
+python3 scripts/agree.py <slug> --names    # and who has what, by name
+```
+
+| document | lines | committed | blind 1 / 2 | F1 blind ~ blind | F1 blind ~ committed | committed held by a blind list | … counting a longer surface |
+|---|--:|--:|--:|--:|--:|--:|--:|
+| 5 `aegis-subplots-…` | 619 | 51 | 695 / 738 | **0.83** | 0.11 / 0.11 | 82 % / 82 % | 98 % / 98 % |
+| 6 `roman-lokalitaeten-…` | 630 | 109 | 621 / 569 | **0.82** | 0.27 / 0.31 | 92 % / 95 % | 100 % / 100 % |
+| 7 `…storyform-und-outline…` | 526 | 387 | 1,236 / 1,070 | **0.90** | 0.43 / 0.49 | 91 % / 92 % | 99 % / 99 % |
+| 10 `kapitel-kompendium-…` | 307 | 275 | 707 / 680 | **0.93** | 0.52 / 0.52 | 93 % / 90 % | 98 % / 97 % |
+
+Candidates are counted after `fold()`. „Counting a longer surface" adds the
+committed terms a blind list holds only inside a longer one — `Juna` in
+`Juna/V`, `DKT` in `DKT-Physik`, `Kairos` in `Kairos/Sophia`.
+
+What it says:
+
+- **The seeing reproduces; the selecting is what differs.** Each blind reader
+  holds 97–100 % of the committed list once surface cuts are counted. What is
+  left over is inflection (`mutuale Information` where the text has
+  `mutualen Information`), the one-letter `V`, and forms **the committed list
+  wrote and the document never does**: `Genesis-Klammer` and `Vortex-Klammer`
+  from „Zwei Klammern: Genesis (…) · Vortex (…)" (document 10, L92),
+  `Kern-Welt` where document 5 writes only `Kernwelt` and `Kernwelten`. Two to five of those in
+  each committed list; zero to four in each blind one.
+- **So F1 between two lists measures the inclusion policy as much as the
+  reading.** 0.11 against 0.83 on one document is the difference between a list
+  of 51 and one of 700, not between a careless and a careful reader. The
+  asymmetric number — how much of A does B hold — separates the two, and
+  `agree.py` prints it beside F1.
+- **Near-exhaustive lists converge, which is less than it sounds.** When both
+  readers list nearly every noun phrase, agreement near 0.9 is what saturation
+  looks like. It shows the reading is stable; it does not show that the
+  selection a census needs is. 2026-09-17's 0.66 was two *selective* lists (131
+  and 113), and whether their difference was seeing or selecting was never
+  asked — nobody printed containment.
+- **The density jump from document 6 to 7 is both the document and the
+  reader.** The same blind instruction lists about twice as much per line on
+  documents 7 and 10 (203–235 per 100 lines) as on 5 and 6 (90–119). The
+  committed lists rose about sixfold (8–17 to 74–90), because their selection
+  went from 7–18 % of an exhaustive list to 34–40 %. A different session read
+  documents 7–13, and it listed more.
+- **Nothing here measures a person.** No reading by the author exists. Whether
+  a Claude reader selects what the author would select is the open question,
+  and one document read by the author, blind, answers it. `NOW.md` holds it.
+
+Cost: eight readers, 1,054,880 subagent tokens, 25 minutes at two agents at a
+time (the container has four CPUs). The prompt is the saved run
+`blind-rereading`; its text is in the session transcript, not the repository.
+
+Two things the readers found on the way. `read.py --from 1` starts printing at
+the first body line, so the frontmatter is never shown — right for a census,
+and three of eight readers noted it in `unread`, which is how an honest list
+should say it. And `capture.candidate_terms` drops a candidate holding `, ` or
+`. ` as prose: 2–11 per blind list (`Falsehood vs. Truth`, `Show, don't
+tell`). The rule is right for the prose bullets it was built for, and every
+list here passes through it alike.

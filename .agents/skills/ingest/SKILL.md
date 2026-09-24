@@ -48,10 +48,13 @@ afterwards — four reconstructed lists exist, are marked as reconstructions, an
 one document, neither seeing the other, produced **131 and 113 candidates with 80
 shared** — F1 **0.66** against each other; a second pair gave 109 against 143,
 and one of the two raised a conflict the other never saw. So „the model scored
-0.7" means nothing on its own: **0.66 is the human ceiling**, and a score clearly
-above it is most likely fitted to one reader. When you compare lists, print both
+0.7" means nothing on its own: **0.66 is the two-reader ceiling**, and a score
+clearly above it is most likely fitted to one reader. Both readers were Claude
+sessions; no reading by the author exists. When you compare lists, print both
 difference lists by name — a miss is not automatically an error and an invention
-is not automatically wrong.
+is not automatically wrong — and how much of each the other holds, because F1
+falls with a longer list however well both read: `python3 scripts/agree.py
+<slug>`.
 
 ## 1 · Open the run
 

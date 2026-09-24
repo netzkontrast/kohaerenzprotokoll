@@ -15,6 +15,7 @@ One directory per document, and beside them the ledgers every run appends to.
 | `02-probes.txt` | export damage, inflection families, substring pairs | `scripts/capture.py` |
 | **`03-candidates.md`** | **written while reading, before any counting** — its `written_by:` line says who | **a reader** |
 | `04-counts.txt` | occurrences of everything in 03 | `scripts/capture.py --count` |
+| `03-candidates-blind-<n>.md` | a blind re-reading, for measuring how far two readings agree — never gold, never the census's list; `scripts/agree.py <slug>` compares it | a Claude subagent that saw only the briefing, 01, 02 and `read.py` |
 | `05-verify.txt` | every number that went into prose, re-checked | a person, with commands |
 | `run.md` | timings, and what is missing | a person |
 | `probes.json`, `counts.json` | the same steps, machine-readable (`CONVENTIONS.md`) | `scripts/capture.py` |
@@ -68,6 +69,14 @@ they are what `scripts/state.py` counts as gold:
 2 <!--state:trainset.gold_candidate_lists--> lists. From document 7 on, the list
 was written by the session doing the reading, before any count, and its
 `written_by:` line says so; it is not counted as gold.
+
+**The reader of documents 5 and 6 was a Claude session too** — the commit of
+document 5's census speaks of „my own quotations". What separates their lists
+from 7–13 is the word in `written_by:`, not who read, and no list here was
+written by the author. Four documents were read again blind on 2026-09-24
+(`03-candidates-blind-<n>.md`): each blind reader held 97–100 % of the
+committed list's content, and the lists differed in how much each chose to
+list (`Plan/learnings/extract-terms.md`, *Blind re-readings*).
 
 ## Superseded finished artifacts
 
