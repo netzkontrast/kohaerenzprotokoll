@@ -41,6 +41,7 @@ The log is `.install.log`.
 | `graphify` CLI | `graphify`, pinned to `4c73561` | the vendored `graphify` skill |
 | `cgr` (code-graph-rag) | `cgr` | nothing in the pipeline |
 | `he`, `he-mcp` (Hyper-Extract) | `hyperextract`, pinned to `395039e` | the `hyper-extract` MCP server in `.mcp.json` and the vendored `hyper*` skills |
+| OpenCode and the oh-my-openagent plugin | `omo` — `~/.config/opencode/opencode.json`, `~/.omo/omo.jsonc`; no provider sign-in | nothing in the pipeline; a second agent harness |
 | qmd package and the `/usr/local/bin/qmd` shim | `qmd` — `scripts/setup_qmd.sh --package` | searching; nothing in the pipeline |
 | qmd's models (~2.1 GB), index and embeddings | `qmd-models` — `scripts/setup_qmd.sh`; **not** run at session start | vector search and `qmd query` |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
@@ -663,6 +664,36 @@ settings or `he config`, never in this repository. `he parse`, `search` and
 before corpus text goes. A Knowledge Abstract is a model's reading under the
 same limits as `knowledge-graph-extract`: no page, link or count comes from it,
 and it is written outside `Wiki/` and `Sources/`.
+
+**oh-my-openagent** is a different kind of thing from everything above: not a
+library or a skill for Claude Code but a plugin for another agent harness,
+[OpenCode](https://opencode.ai). `scripts/install.sh omo` installs
+`opencode-ai@1.18.32` with npm and runs the plugin's own installer at `4.19.4`
+with the author's answers (2026-09-24): OpenCode, Claude Max 20×, ChatGPT Plus,
+Gemini, no Copilot. That writes `"oh-my-openagent@latest"` into
+`~/.config/opencode/opencode.json` — so OpenCode loads whatever is newest, not
+the pin — and the agent → model routing into `~/.omo/omo.jsonc`: `sisyphus` on
+`anthropic/claude-opus-5`, `oracle` on `openai/gpt-5.6-sol`, and so on down its
+roster. Both files are outside the repository and regenerated per container.
+
+What it does not do, and why:
+
+- **No provider is signed in.** It runs with `--skip-auth`; `opencode auth login`
+  is a browser OAuth flow a container cannot finish, and its tokens would live
+  in `~/.local/share/opencode/auth.json`, which the container loses. OpenCode
+  with this plugin is usable where the author signs in — their own machine —
+  and here only as far as `doctor` and `opencode agent list`.
+- **`config migrate` is not run.** At 4.19.4, `doctor` reports the installer's
+  own `variant`/`fallback_models` keys as deprecated and names `config migrate`
+  as the fix; the migration rewrites agents to `models`, which the same
+  validator then rejects, and `doctor` goes from warnings (exit 0) to eight
+  errors (exit 1). The installer's output is kept as it writes it.
+- `doctor` also warns that `sg` (ast-grep) and `gh` are absent. Neither is
+  installed.
+
+Its telemetry is on by default; `OMO_SEND_ANONYMOUS_TELEMETRY=0` turns it off.
+Anything an OpenCode agent reads from the corpus goes to the providers above,
+so the Jev rule applies to it as to everything else here.
 
 ## Changing your mind
 

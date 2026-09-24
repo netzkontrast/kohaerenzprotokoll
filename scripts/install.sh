@@ -30,6 +30,11 @@ GRAPHIFY_REF="4c735618f3d56fd622c2049771584621c31ba9ff"
 GRAWIKI_REF="920d181b7e82943f3557ce4debaaabfdeb924cde"
 HYPEREXTRACT_REF="395039ea49709b279971631a47569b931818abbb"
 SEMANTICA_VERSION="0.7.0"
+OPENCODE_VERSION="1.18.32"
+OMO_VERSION="4.19.4"
+# The author's answers to the oh-my-openagent installer (2026-09-24): which
+# subscriptions exist decides which model each agent is routed to.
+OMO_FLAGS=(--platform=opencode --claude=max20 --openai=yes --gemini=yes --copilot=no)
 
 # name | what it is for — the order is the install order
 COMPONENTS=(
@@ -44,6 +49,7 @@ COMPONENTS=(
   "graphify|graphify CLI (uv tool) — the vendored graphify skill"
   "cgr|code-graph-rag CLI (uv tool, python 3.12) — cgr"
   "hyperextract|he and he-mcp (uv tool, python 3.12) — Hyper-Extract, the hyper-extract MCP server"
+  "omo|OpenCode $OPENCODE_VERSION (npm -g) with the oh-my-openagent $OMO_VERSION plugin; no provider sign-in"
   "qmd|qmd package in .tools-node and the /usr/local/bin/qmd shim"
   "qmd-models|qmd's ~2.1 GB models, index and embeddings — not in the default set"
 )
@@ -72,6 +78,8 @@ present() {
     graphify)   have graphify ;;
     cgr)        have cgr ;;
     hyperextract) have he && have he-mcp ;;
+    omo)        have opencode && grep -q oh-my-openagent ~/.config/opencode/opencode.json 2>/dev/null \
+                  && [[ -f ~/.omo/omo.jsonc ]] ;;
     qmd)        [[ -x .tools-node/node_modules/.bin/qmd ]] && [[ -x /usr/local/bin/qmd ]] ;;
     qmd-models) scripts/setup_qmd.sh --check 2>/dev/null | grep -q "embeddings *complete" ;;
     *)          return 2 ;;
@@ -138,6 +146,14 @@ install_one() {
       need_uv || return 1
       uv tool install -q --python 3.12 \
         "hyperextract[mcp,ingest,anthropic] @ git+https://github.com/netzkontrast/Hyper-Extract@$HYPEREXTRACT_REF" ;;
+    omo)
+      have opencode || npm install -g -s "opencode-ai@$OPENCODE_VERSION" || return 1
+      have bunx || { echo "bunx is not on PATH — oh-my-openagent's installer needs Bun" >&2; return 1; }
+      # --skip-auth: signing in to a provider is a browser OAuth flow a
+      # container cannot finish (opencode auth login, on the author's machine).
+      # Not `config migrate`: at 4.19.4 it rewrites agents to a key its own
+      # validator rejects, and doctor goes from warnings to failure.
+      (cd /tmp && bunx "oh-my-openagent@$OMO_VERSION" install --no-tui "${OMO_FLAGS[@]}" --skip-auth >/dev/null) ;;
     qmd)
       scripts/setup_qmd.sh --package ;;
     qmd-models)
