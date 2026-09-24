@@ -24,11 +24,12 @@ corrections left beside what the build proved wrong.*
 **Corrections the build made to this design.** The design says job 1 has
 „n = 26" and `fold()` scores „65%". Both were true of
 `Plan/trainsets/surface-pairs.jsonl` as last exported, which held 17 rows; the
-judgement ledger itself had grown. Re-exported, it holds
-57 <!--state:pairs.labelled--> pairs and `fold()` decides
-33 <!--state:pairs.fold_correct--> — 58%. When this was written it was 36 and 21,
-58%, which `NOW.md` had already measured; the judgements of documents 7–9 added
-the rest.
+judgement ledger itself had grown. Re-exported when this was written, it held
+36 pairs and `fold()` decided 21 — 58%, which `NOW.md` had already measured. The
+ledger now yields 57 <!--state:pairs.labelled--> pairs and `fold()` decides
+33 <!--state:pairs.fold_correct-->, still 58%; the judgements of documents 7–9
+added the rest, and the committed export still holds 36 (corrected 2026-09-24:
+this sentence had put the ledger's live count on the export).
 The exported file had gone stale because nothing compared it to the ledger;
 `pairs.py` now reads the ledger live and never the export.
 
