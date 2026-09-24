@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -62,7 +62,7 @@ each section is a `Guardian/Welt-Paar`.
 How many [[kern-welten|Kern-Welten]] exist in total, whether each corresponds to one alter, and
 how these four relate to the worlds documents 1 and 3 refer to without naming.
 **`AEGIS` does not occur in this document**, so the relation to [[aegis|AEGIS]]'
-containment of the Kern-Welten (document 3) is not answerable here.
+containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable here.
 
 ## Reading — `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18 — and conflict C5
 
@@ -93,7 +93,7 @@ Kern-Welten — KW4 entire, „eine Realität", paired to [[kairos|Kairos]] & [[
 ### The two cannot both be the whole account
 
 That is `Wiki/conflicts/c5-garten-scale.md`. The content agrees almost word for
-word — growth, potential, branching paths, Kairos/Sophia, the Orakel/Muse Alter —
+word — growth, potential, branching paths, [[kairos|Kairos]]/[[sophia|Sophia]], the Orakel/Muse Alter —
 and the **scale** does not: a Realität in one source, a Bereich with gates to
 other Bereiche in the other.
 
@@ -102,3 +102,14 @@ name: `Möglichkeits-Garten` in document 4, `Garten der Möglichkeiten` here, wi
 zero occurrences of the hyphenated form in this document.
 
 **Nothing is merged and nothing is chosen.** See the conflict record.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**A name of KW4 — a world, not a place in one.**
+
+> „KW4 Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L222]
+
+Its mode is „Integration; lebende Widersprüche; Vortex-Quelle" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L222], it is
+written in [[juna|Juna]]'s style level, and it dominates Akt III. **This speaks to `C5`**,
+which asks whether the garden is a world or a place inside one: this source gives
+it as a second name of the fourth Kern-Welt, alongside `Resonanz-Kontinuum`.
