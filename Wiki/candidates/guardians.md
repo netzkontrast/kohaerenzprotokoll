@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 5
-readings: 5
-conflict: C4,
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 6
+readings: 6
+conflict: C4, C6
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -84,7 +84,7 @@ replaced is not answerable from the four documents read** — see
 `Wiki/conflicts/c4-guardians-and-aegis.md`.
 ## Reading — `aegis-subplots-kapitelweise-system-exploration-docx`, 2025-08-05, brief
 
-**The first document to place the Guardians relative to AEGIS in so many words —
+**The first document to place the Guardians relative to [[aegis|AEGIS]] in so many words —
 and it does so while arguing that the placement is the open question.**
 
 Its structural language is consistent and puts them inside. A Guardian
@@ -214,3 +214,23 @@ in logs: „AEGIS und die zwei Guardians sprechen in 3. Person" ^[kohaerenz-prot
 **On the word:** `Guardian` only; `Wächter` never occurs. `Wächterin` does, as the
 title of Kap 8 and a function in the Z1 cycle (L313, L333) — see
 `q4-waechter-four-bearers`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The first read source to relate the two arrangements**, and it does it as the
+corpus's own history:
+
+> „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos,
+> Sophia). Aktueller Kanon: zwei — Mnemosyne als Erinnerungs-Wächterin
+> (Klimax-Setting des Vortex Kap 35–36) und ein nicht-näher-spezifizierter
+> Erasure-Pol als Löschungs-Exekutive." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]
+
+> „Die anderen sind nicht "weg", sondern in diese beiden absorbiert oder zu
+> thematischen Funktionen geworden, die kein eigener Wille mehr brauchen." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]
+
+The world table says where each went: [[logos|LogOS]] „in Mnemosyne absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51],
+[[cerberus|Cerberus]] „in Erasure-Pol absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L53], [[kairos|Kairos]]/[[sophia|Sophia]] „latent" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54].
+
+**This explains C6 in a source's own words, and does not settle it.** Two
+canon-era documents now say two; this one calls the five „Frühere Drafts". Whether
+that retires the earlier readings on this page is the author's call — see `C6`.
