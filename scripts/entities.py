@@ -356,8 +356,15 @@ def cmd_missing(min_docs: int) -> int:
     return 0
 
 
-def cmd_score(slug: str) -> int:
-    """P27: two difference lists by name, never one number on its own."""
+def cmd_score(slug: str, names: str | None = None) -> int:
+    """P27: two difference lists by name, never one number on its own.
+
+    With `names`, any tool's output is scored the same way: a names file in the
+    shape `place` reads, each name placed by `first_line` exactly as `place` does,
+    so a name the document does not contain word for word — a translation, a
+    paraphrase — is refused and counted, never scored (P19, P26). A name whose
+    `scope` is not `world` (an outside work the document uses as a lens) is set
+    apart: the readers' lists hold this world's terms only."""
     from wiki_index import fold
     gold_path = ROOT / "Plan" / "runs" / slug / "03-candidates.md"
     if not gold_path.exists():
@@ -369,16 +376,38 @@ def cmd_score(slug: str) -> int:
         return 1
     gold = {fold(l[2:].split("^[")[0]): l[2:].split("^[")[0].strip()
             for l in gold_text.splitlines() if l.startswith("- ")}
-    entry = verify(lists([slug])[0])
-    model = {fold(r["term"]): r["term"] for r in entry["rows"] if r["verified"]}
+    refused: list[str] = []
+    lens: list[str] = []
+    if names:
+        doc = subject.document(slug)
+        model = {}
+        for item in json.loads(Path(names).read_text(encoding="utf-8")).get("entities", []):
+            term = " ".join(str(item.get("term", "")).split())
+            if not term:
+                continue
+            if item.get("scope", "world") != "world":
+                lens.append(term)
+            elif first_line(doc, term) is None:
+                refused.append(term)
+            else:
+                model.setdefault(fold(term), term)
+    else:
+        entry = verify(lists([slug])[0])
+        model = {fold(r["term"]): r["term"] for r in entry["rows"] if r["verified"]}
     both = gold.keys() & model.keys()
     p = len(both) / len(model) if model else 0.0
     r = len(both) / len(gold) if gold else 0.0
     f = 2 * p * r / (p + r) if p + r else 0.0
-    print(f"reader {len(gold)}, model {len(model)} verified, shared {len(both)} (folded)")
+    print(f"reader {len(gold)}, model {len(model)} verified, shared {len(both)} (folded)"
+          + (f"; {len(refused)} refused (not in the document word for word), {len(lens)} set apart as lens"
+             if names else ""))
     print(f"precision {p:.2f}  recall {r:.2f}  F1 {f:.2f}  — two readers scored 0.66 (P27)\n")
     print("only the reader:\n  " + "\n  ".join(sorted(gold[k] for k in gold.keys() - both)))
     print("\nonly the model:\n  " + "\n  ".join(sorted(model[k] for k in model.keys() - both)))
+    if refused:
+        print("\nrefused:\n  " + "\n  ".join(sorted(set(refused))))
+    if lens:
+        print("\nlens, not scored:\n  " + "\n  ".join(sorted(set(lens))))
     return 0
 
 
@@ -427,7 +456,9 @@ def main(argv: list[str]) -> int:
     sub.add_parser("matrix")
     m = sub.add_parser("missing")
     m.add_argument("--min-docs", type=int, default=10)
-    sub.add_parser("score").add_argument("slug")
+    sc = sub.add_parser("score")
+    sc.add_argument("slug")
+    sc.add_argument("--names", help="score this names file instead of the model list on disk")
     sub.add_parser("selftest")
     pl = sub.add_parser("place")
     pl.add_argument("slug")
@@ -444,7 +475,7 @@ def main(argv: list[str]) -> int:
     if a.cmd == "missing":
         return cmd_missing(a.min_docs)
     if a.cmd == "score":
-        return cmd_score(a.slug)
+        return cmd_score(a.slug, a.names)
     if a.cmd == "place":
         return cmd_place(a.slug, a.names)
     return cmd_selftest()

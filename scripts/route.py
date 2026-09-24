@@ -11,8 +11,8 @@ The cost rule, in the order work is tried:
 
 Three guards are code, not prose (P1), and each says what it could not check (P23):
 
-- **Free only.** A model is used only if its listed prompt and completion prices are
-  both 0 — read from OpenRouter's catalogue, never inferred from a `:free` name —
+- **Free only.** A model is used only if it is OpenRouter's declared `:free` variant
+  AND every price its catalogue lists is 0 — neither the name nor the price alone —
   and a response that reports `usage.cost > 0` stops the run.
 - **Consent.** `Plan/runs/route/consent.json` (decision 007) names the documents
   that may be sent. A call declaring any other document is refused, and so is any
@@ -205,7 +205,14 @@ def store(kind: str, key: str, rec: dict) -> None:
 # ── OpenRouter ────────────────────────────────────────────────────────────────
 
 def is_free(model: dict) -> bool:
-    """Listed price 0 for prompt and completion, and for every other listed price."""
+    """Listed price 0 for every listed price, AND OpenRouter's declared `:free` variant.
+
+    Price alone let in, on 2026-09-24, two music models (google/lyria-3-*), a
+    meta-router that picks its own model (openrouter/free) and a stealth preview —
+    none of them a text model whose terms anyone checked. The `:free` tier is the
+    one OpenRouter declares; a name alone is never enough either."""
+    if not str(model.get("id", "")).endswith(":free"):
+        return False
     pricing = model.get("pricing") or {}
     if "prompt" not in pricing or "completion" not in pricing:
         return False
@@ -692,8 +699,10 @@ def cmd_selftest() -> int:
         _post = fake
         try:
             print("price")
-            check("listed 0/0 is free", is_free({"pricing": {"prompt": "0", "completion": "0"}}))
-            check("any non-zero price is not", not is_free({"pricing": {"prompt": "0", "completion": "0",
+            check("listed 0/0 with :free is free", is_free({"id": "a:free", "pricing": {"prompt": "0", "completion": "0"}}))
+            check("price 0 without :free is not (music models, meta-routers, stealth previews)",
+                  not is_free({"id": "google/lyria-3-pro-preview", "pricing": {"prompt": "0", "completion": "0"}}))
+            check("any non-zero price is not", not is_free({"id": "a:free", "pricing": {"prompt": "0", "completion": "0",
                                                                          "request": "0.001"}}))
             check("no pricing is not free", not is_free({"id": "x:free"}))
             print("consent")
