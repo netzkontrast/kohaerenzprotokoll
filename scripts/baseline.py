@@ -20,8 +20,12 @@ call. That sentence needs somewhere to live that is not a person's memory.
   from `netzkontrast/dspy-agents` `dspy_optimize/baselines/monitor.py`, whose
   monitor compared each run only with the one before — so a run logged at
   `score=0.0, total_calls=0` became a normal baseline and a pipeline broken from
-  its first run could never alert. Here the floor is the task's first row by
-  default (the deterministic rule), or the candidate named by `--floor`.
+  its first run could never alert. Here the floor is the task's first candidate
+  by default (the deterministic rule), or the candidate named by `--floor` — its
+  newest row scored on the same trainset as the row being judged, so re-scoring
+  the floor after the trainset grows is what clears the warning. Until
+  2026-09-24 it was the floor candidate's *oldest* row: `compare` advised „re-score
+  the floor before comparing", and re-scoring could never satisfy it.
 - **`program_hash`** is a hash of what the program *is* (instructions, demos,
   rule source), never a tag someone bumps — `dspy-agents`
   `_program_artifact_signature`.
@@ -98,10 +102,11 @@ def compare(task: str, floor: str | None = None, ledger: Path = LEDGER) -> tuple
                        "the score is over the rest")
     if latest["vetoed"]:
         return "fail", reasons + [f"{latest['candidate']} broke a never-merge canary"]
-    floors = [r for r in history if r["candidate"] == floor] if floor else history[:1]
+    floors = [r for r in history if r["candidate"] == (floor or history[0]["candidate"])]
     if not floors:
         return "fail", reasons + [f"no row for floor {floor!r}"]
-    base = floors[0]
+    same = [r for r in floors if r["trainset_hash"] == latest["trainset_hash"]]
+    base = (same or floors)[-1]
     if latest is not base and base["trainset_hash"] != latest["trainset_hash"]:
         reasons.append(f"trainset changed since the floor ({base['trainset_hash']} → "
                        f"{latest['trainset_hash']}): re-score the floor before comparing")
@@ -109,17 +114,20 @@ def compare(task: str, floor: str | None = None, ledger: Path = LEDGER) -> tuple
     if latest is not base and latest["score"] <= base["score"]:
         return "fail", reasons + [f"{latest['candidate']} {latest['score']:.3f} does not beat the floor "
                                   f"{base['candidate']} {base['score']:.3f}"]
-    earlier = [r for r in history[:-1] if r["score"] is not None and not r["vetoed"]]
+    earlier = [r for r in history[:-1] if r["score"] is not None and not r["vetoed"]
+               and r["trainset_hash"] == latest["trainset_hash"]]
     best = max(earlier, key=lambda r: r["score"], default=None)
     if best and latest["score"] < best["score"] - TOLERANCE:
-        return "warn", reasons + [f"below the best earlier row, {best['candidate']} {best['score']:.3f}"]
+        return "warn", reasons + [f"below the best earlier row on this trainset, "
+                                  f"{best['candidate']} {best['score']:.3f}"]
     return ("warn" if reasons else "ok"), reasons
 
 
-def selftest() -> list[str]:
-    """Each verdict produced, each for its own reason."""
+def selftest() -> tuple[list[str], int]:
+    """Each verdict produced, each for its own reason: (failures, cases run)."""
     import tempfile
     failures = []
+    total = 0
     with tempfile.TemporaryDirectory() as tmp:
         ledger = Path(tmp) / "b.jsonl"
         t = ["a", "b", "c", "d"]
@@ -135,11 +143,31 @@ def selftest() -> list[str]:
         for expected, entry, needle in cases:
             append(entry, ledger)
             verdict, why = compare("x", ledger=ledger)
+            total += 1
             if verdict != expected or (needle and not any(needle in w for w in why)):
                 failures.append(f"{entry['candidate']}: expected {expected} naming {needle!r}, got {verdict} {why}")
+
+        # Both judged `warn` before 2026-09-24. A floor re-scored on the grown
+        # trainset is the one compared against, not the floor's first row ...
+        grown = Path(tmp) / "grown.jsonl"
+        t2 = t + ["e"]
+        append(row("y", "fold", {"a": 1, "b": 1, "c": 0, "d": 0}, program="fold", trainset=t), grown)
+        append(row("y", "fold", {"a": 1, "b": 1, "c": 0, "d": 0, "e": 0}, program="fold", trainset=t2), grown)
+        append(row("y", "m6", {"a": 1, "b": 1, "c": 1, "d": 0, "e": 0}, program="m6", trainset=t2), grown)
+        # ... and a score on another trainset is never the best to fall below.
+        other = Path(tmp) / "other.jsonl"
+        append(row("z", "m7", {"a": 1, "b": 1, "c": 1, "d": 1}, program="m7", trainset=t), other)
+        append(row("z", "fold", {"a": 1, "b": 1, "c": 0, "d": 0, "e": 0}, program="fold", trainset=t2), other)
+        append(row("z", "m8", {"a": 1, "b": 1, "c": 1, "d": 0, "e": 0}, program="m8", trainset=t2), other)
+        for task, where, floor in (("y", grown, None), ("z", other, "fold")):
+            verdict, why = compare(task, floor, ledger=where)
+            total += 1
+            if verdict != "ok":
+                failures.append(f"{task}: expected ok against the floor on the same trainset, got {verdict} {why}")
+    total += 1
     if digest({"a": 1, "b": 2}) != digest({"b": 2, "a": 1}):
         failures.append("digest depends on key order")
-    return failures
+    return failures, total
 
 
 def main(argv: list[str]) -> int:
@@ -159,10 +187,10 @@ def main(argv: list[str]) -> int:
             print(f"  {w}")
         return {"ok": 0, "warn": 0}.get(verdict, 1)
     if argv[0] == "selftest":
-        problems = selftest()
+        problems, total = selftest()
         for p in problems:
             print(f"  FAIL  {p}")
-        print(f"baseline: {7 - len(problems)} of 7 cases hold")
+        print(f"baseline: {total - len(problems)} of {total} cases hold")
         return 1 if problems else 0
     print(__doc__)
     return 2

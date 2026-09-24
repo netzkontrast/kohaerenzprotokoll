@@ -83,8 +83,8 @@ before this list.
 ### The process — the author's call, with the detail under *Open decisions*
 
 - **Model runs.** Three runs are one command each and wait on a yes, because
-  each sends corpus words to OpenRouter: `pairs.py run --optimizer labeled`,
-  `graphrag.py ask --answer`, `rlm_ingest.py`.
+  each sends corpus words to OpenRouter: `pairs.py run --optimizer labeled
+  --rule plural`, `graphrag.py ask --answer`, `rlm_ingest.py`.
 - **TypeSafe/Jev beyond the two uses already approved.**
 - **How far `ask` may go** — chosen quotations only, or also a framing sentence
   marked as the model's.
@@ -95,8 +95,10 @@ before this list.
   first promotion.
 - **The quote convention** — a quotation carries its reference in the same table
   cell, or the checker learns tables. Until then those quotations stay unchecked.
-- **How much morphology `fold()` may claim** — plurals and inflections are its
-  systematic misses.
+- **Whether `fold()` adopts the plural rule** — decision 010 set its reach on
+  your delegation, as a scored rule in `pairs.py` that the pipeline does not use.
+  Adopting it changes what every reconciliation merges by lookup; widening it to
+  `Alter`/`Altern`, which the corpus uses as one term, is the same question.
 - **`GOAL.md` against the working agreement** — the manuscript, NCP files and
   claude.ai exports as sources; a conflict detector; the `kg/`/`kp` layout;
   status tags and tiers on pages.
@@ -194,13 +196,26 @@ German compounds that nothing has tested. The fixture is nearly free: every
 `Wiki/questions/` page and conflict record already says „a search finds this in
 `<slug>`". Plan: `Plan/concept/skills_2026-09-17.md`.
 
-**`fold()`'s real baseline is 65%, not 82%, and the misses are systematic.**
-Adding thirteen judgements took the trainset from 17 to 26 balanced examples and
-the baseline fell from 14/17 to 17/26. Every new miss is a plural or an
-inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
-`AEGIS`/`Rest-AEGIS`. `fold()` strips the German definite article and does
-nothing else. **The next improvement is a rule, not a model**, and writing it is
-a decision about how much morphology a safe deterministic rule may claim.
+**The plural rule exists, and `fold()` has not adopted it.** `fold()` strips the
+German definite article and does nothing else, and every pair it misses is one a
+person called one term. Decision 010, taken on the author's delegation, set the
+reach of a rule that also passes a plural ending: `pairs.RULES["plural"]`
+decides 41 <!--state:pairs.plural_correct--> of 57 <!--state:pairs.labelled-->
+pairs where `fold()` decides 33 <!--state:pairs.fold_correct-->, with no false
+merge, no canary merged, no two pages joined and 23 new merges across all 13
+candidate lists, each a singular and its plural. It is a ledger row and the rule
+a model run asks first; reconciliation still uses `fold()` alone. Whether
+`fold()` adopts it is the author's, above.
+
+**What the plural rule leaves cannot be learned from the input the model is
+given.** Of the 16 pairs left, the session reads seven as rules a program could
+state (slash aliases, an acronym's expansion, a numbered instance) and nine as
+decided from the passage — `Basisrealität`/`Externe Ebene`,
+`Therapie-Schnittstelle Gamma`/`Alpha`. `pairs.py`'s signature takes the two
+surfaces and nothing else, so a model can only guess those nine. Carrying the
+lines each judgement cites into the input
+(`Plan/concept/continuous-improvement_2026-09-17.md`, step 1) comes before any
+model run can learn them — and it widens what that run would send.
 
 **Which model runs are allowed — the toolchain is built and has called no
 model.** On 2026-09-23 the author asked for the wiki to become a knowledge base
@@ -210,8 +225,9 @@ repositories to be ported. It is (`CLAUDE.md`, *The knowledge graph* and
 words to OpenRouter, so each waits on its own yes — `--approval` is required
 and refused when empty:
 
-- `pairs.py run --optimizer labeled` — the cheapest rung, on the residual
-  `fold()` leaves. Cost: the surface pairs and their rules, a few thousand tokens.
+- `pairs.py run --optimizer labeled --rule plural` — the cheapest rung, asked
+  only about the pairs the plural rule leaves; its floor is `rule:plural`, not
+  `rule:fold`. Cost: the surface pairs and their rules, a few thousand tokens.
 - `graphrag.py ask "…" --answer` — a model picks evidence numbers. Cost: the
   question and eight quotations per call.
 - `rlm_ingest.py <slug>` — a whole document. Needs Deno as well.
@@ -279,9 +295,10 @@ In order, and none of it needs a model:
    pages. The `## Open` sections (`relations.py --open`) are a second source;
    write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
    has why and the next four steps after it.
-2. **The morphology rule** — once its reach is decided (above), it is one entry
-   in `pairs.py`'s `RULES` and `pairs.py score --rule <name> --record` puts it on
-   the ledger against `fold()`'s floor.
+2. **The evidence into the pair input.** The plural rule is on the ledger
+   (decision 010); what it leaves was decided from passages the program is not
+   shown (above). Each judgement's `action` names its lines, and `read.py`
+   serves them — as input, never as a label.
 3. **qmd as a second seed source for `graphrag.py`**, measured on the bench
    against folded seeding — the floor row is already in `Plan/runs/baselines.jsonl`.
 4. **Record routing failures** — each time an agent loaded the wrong skill or
@@ -326,11 +343,6 @@ model:
   the tools and the reach. `dspy[deno]` now installs the sandbox, and
   `check_dspy_skill.py`'s `rlm-runs-offline` probe is the shape one would take
   (P5).
-- **Two baseline rows lag.** `rule:fold` was last recorded at n=49 against
-  57 <!--state:pairs.labelled--> labelled pairs, `graphrag-retrieval` at 14
-  cases against 17 <!--state:graphrag.cases-->. `pairs.py score --rule fold
-  --record` and `graphrag.py bench --record` bring them level; `baseline.py
-  compare` warns until then.
 - **Folds move as the ledger grows.** `folds()` deals round-robin over hash
   order, and one appended judgement moved 15 of 57 rows to another fold
   (measured). Whether a stable assignment is worth less balanced folds is open.

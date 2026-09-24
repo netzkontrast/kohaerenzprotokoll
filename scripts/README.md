@@ -120,8 +120,8 @@ skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 | `check_dspy_skill.py` | Asserts what the `dspy` skill teaches against the DSPy installed here: every parameter and default it writes down, one offline probe per behaviour it marks checked, every path it names. Needs `.venv-dspy`. | — |
 | `check_dspy_surface.py` | Asserts each DSPy parameter this repository passes, by `inspect.signature`. Needs `.venv-dspy`. | — |
 | `trainset.py` | The judgement ledger as labelled pairs, and the `fold()` baseline any model has to beat. | `--export`: `Plan/trainsets/` |
-| `pairs.py` | One term or two: scores a rule, or a compiled program on what the rule leaves, and asks every candidate the never-merge canaries. `score` is standard library; `run` needs `.venv-dspy`. | `--record`: `Plan/runs/baselines.jsonl` |
-| `baseline.py` | The append-only score ledger. `compare` fails a candidate that does not beat the floor. | `Plan/runs/baselines.jsonl`, for its callers |
+| `pairs.py` | One term or two: scores a rule (`fold`, or `plural`, decision 010), or a compiled program on what the rule leaves, and asks every candidate the never-merge canaries. `score` and `selftest` are standard library; `run` needs `.venv-dspy`. | `--record`: `Plan/runs/baselines.jsonl` |
+| `baseline.py` | The append-only score ledger. `compare` fails a candidate that does not beat the floor, taken as the floor candidate's newest row on the same trainset. | `Plan/runs/baselines.jsonl`, for its callers |
 | `rlm_ingest.py` | Reads one document with `dspy.RLM`, carrying this repository's skills. A real run needs `.venv-dspy` and `--approval`; `--selftest` is standard library. | `Plan/runs/<slug>/03-candidates-rlm.md` |
 
 ## Third-party extraction

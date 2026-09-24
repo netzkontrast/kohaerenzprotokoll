@@ -82,6 +82,10 @@
       "value": 57,
       "how": "labelled one-term-or-two pairs derived from the judgement ledger"
     },
+    "pairs.plural_correct": {
+      "value": 41,
+      "how": "of those, decided correctly by the plural rule of decision 010 \u2014 the floor a model must beat"
+    },
     "proposals.entities": {
       "value": 226,
       "how": "entities from entity lists that verify as readings, graph.proposals()"

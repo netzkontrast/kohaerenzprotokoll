@@ -1105,7 +1105,8 @@ recur, independently, enough times that they are worth naming once:
   `dspy-wiki-compile`'s `create` is a lookup, not a judgement; this
   repository's `reconcile.py` already answers 68 of 109 candidates by lookup
   against `Wiki/index.json` before any judgement is spent, and `pairs.py`
-  runs `fold()` first for the same reason.
+  runs a rule first — `fold()`, or the plural rule of decision 010 — for the
+  same reason.
 - **Gate before the expensive or irreversible step.** The video generator's
   `Refine` before a paid render; `lmrun.py`'s `approval=` before any real
   model call reaches a third party.

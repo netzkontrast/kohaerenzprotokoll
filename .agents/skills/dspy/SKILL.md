@@ -51,8 +51,8 @@ one guarantees. What to run:
   suite that could not run says `not run`, never `held`.
 
 **Nothing leaves the container without the author's yes for that run.** Three
-DSPy runs are built and waiting on one: `pairs.py run --optimizer labeled`,
-`graphrag.py ask --answer`, and `rlm_ingest.py`. `NOW.md` says what each would
+DSPy runs are built and waiting on one: `pairs.py run --optimizer labeled
+--rule plural`, `graphrag.py ask --answer`, and `rlm_ingest.py`. `NOW.md` says what each would
 send. Decision 007 lets documents 5 and 6 go to free models and Jev through
 `route.py`, to test the tools installed that day; it says nothing about these
 three. The rule has three encodings — `lmrun.py`, `rlm_ingest.py`, `route.py` —

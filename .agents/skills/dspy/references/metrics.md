@@ -61,17 +61,22 @@ merges the canary is disqualified, not docked `1/n`, because `dspy.GEPA`
 optimizes a mean and would otherwise treat the merge as noise.
 
 **The floor is a named row, not "whatever ran last."** `compare(task, floor=)`
-defaults to the task's first recorded row, and when the trainset hash differs
-it answers `warn` — "re-score the floor before comparing" — instead of a
-verdict (`scripts/baseline.py`); `--floor` names a
-different candidate. Right now that floor is `fold()` itself, scored through
+defaults to the task's first recorded candidate and takes that candidate's
+newest row on the same trainset; when there is none it answers `warn` —
+"re-score the floor before comparing" — instead of a verdict
+(`scripts/baseline.py`). Until 2026-09-24 it took the candidate's oldest row,
+so re-scoring could never clear that warning (`optimizers.md`, *What
+`baseline.py compare` says*). `--floor` names a
+different candidate. The first floor is `fold()` itself, scored through
 `score_rule("fold")`: **57 <!--state:pairs.labelled--> labelled pairs; `fold()`
 decides 33 <!--state:pairs.fold_correct--> of them (58%).** `trainset.py`'s own
 output: "Anything that does not beat this is not worth an LM call."
-(`scripts/trainset.py`). No optimizer rung has run against a real model yet
+(`scripts/trainset.py`). A model run after the plural rule answers to a higher
+one, `rule:plural`, which decides 41 <!--state:pairs.plural_correct-->
+(decision 010). No optimizer rung has run against a real model yet
 (`CLAUDE.md`, *Calling a model*), so `Plan/runs/baselines.jsonl` holds no
-model row: its rows are `rule:fold` and `graphrag.py bench`'s retrieval
-methods.
+model row: its rows are `rule:fold`, `rule:plural` and `graphrag.py bench`'s
+retrieval methods.
 
 **The human ceiling is F1 ≈ 0.66, and both scripts that score a model list say
 so.** `entities.py cmd_score()` computes
@@ -287,8 +292,9 @@ pattern — not before."
 `reference.md:80-90`). This repository already has its own instance of exactly
 this rule, built before the recipe was read: `fold()` decides
 33 <!--state:pairs.fold_correct--> of 57
-<!--state:pairs.labelled--> pairs for free, and `pairs.py` sends a model only
-the residual it calls two-terms (P1).
+<!--state:pairs.labelled--> pairs for free, the plural rule of decision 010
+decides 41 <!--state:pairs.plural_correct-->, and `pairs.py` sends a model only
+the residual the rule named by `--rule` calls two-terms (P1).
 
 **Deterministic gate before the judge.** The financial-analyst recipe — parse
 the number, a close-enough check that never calls the judge on a wrong or

@@ -39,6 +39,7 @@ SUITES = [
     ("skills", "std", ["scripts/check_skills.py", "--selftest"]),
     ("skills, live", "std", ["scripts/check_skills.py"]),
     ("baseline ledger", "std", ["scripts/baseline.py", "selftest"]),
+    ("pairs: rules and veto", "std", ["scripts/pairs.py", "selftest"]),
     ("graph", "std", ["scripts/graph.py", "--selftest"]),
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
     ("ui app", "std", ["scripts/ui.py", "selftest"]),
@@ -54,6 +55,8 @@ SUITES = [
     ("lm fixture", "dspy", ["scripts/lm_fixture.py"]),
     ("lmrun", "dspy", ["scripts/lmrun.py"]),
     ("pairs dry-run", "dspy", ["scripts/pairs.py", "run", "--optimizer", "labeled", "--dry-run"]),
+    ("pairs dry-run, plural first", "dspy",
+     ["scripts/pairs.py", "run", "--optimizer", "labeled", "--rule", "plural", "--dry-run"]),
     ("graphrag answer dry-run", "dspy",
      ["scripts/graphrag.py", "ask", "Nexus Überraum", "--answer", "--dry-run"]),
 ]

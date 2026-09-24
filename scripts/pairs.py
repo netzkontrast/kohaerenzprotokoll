@@ -12,10 +12,12 @@ scanned repository supplied:
   the candidate is `vetoed` in `Plan/runs/baselines.jsonl`, whatever its
   accuracy — `dspy.GEPA` optimizes a mean, and `dspy-auto-gepa`'s `promote()`
   saves whatever training produced, so otherwise a merged canary costs 1/n.
-- **Rule first, model on the residual.** `fold()` has never produced a false
-  merge on this set; every miss is a pair it calls two terms. So a hybrid
-  answers `one-term` wherever the rule does and asks a model only about the
-  rest. A model is never given the chance to undo a rule's merge.
+- **Rule first, model on the residual.** Neither rule in `RULES` has produced a
+  false merge on this set; every miss is a pair it calls two terms. So a hybrid
+  answers `one-term` wherever the rule named by `--rule` does and asks a model
+  only about the rest. A model is never given the chance to undo a rule's merge.
+  The model still *trains* on every labelled row outside the held-out fold,
+  including the pairs the rule answers.
 - **Pinned, stratified folds.** Canaries are never training data. The labelled
   rows are split by decision into k folds deterministically by id, and each
   row is scored by a program compiled without it.
@@ -34,19 +36,22 @@ set to the training size, at most 16, because its default of 32 exceeded the
 whole set when this was written and `dspy-book-optimizers` measured it scoring
 *below* its baseline while costing the most of twelve.
 
-    python3 scripts/pairs.py score [--rule fold] [--record]     # standard library, offline
-    .venv-dspy/bin/python scripts/pairs.py run --optimizer labeled --dry-run
-    .venv-dspy/bin/python scripts/pairs.py run --optimizer inferrules \\
+    python3 scripts/pairs.py score [--rule fold|plural] [--record]   # standard library, offline
+    python3 scripts/pairs.py selftest                               # the veto, shown failing
+    .venv-dspy/bin/python scripts/pairs.py run --optimizer labeled [--rule plural] --dry-run
+    .venv-dspy/bin/python scripts/pairs.py run --optimizer inferrules --rule plural \\
         --model openrouter/… --approval "<the author's decision>" [--folds 5] [--repeats 3] [--record]
 
-A new deterministic rule — the morphology rule `NOW.md` names — is one entry in
-`RULES` and is scored by `score --rule <name>`. **Its reach is the author's
-decision, not this file's**, so `RULES` holds only what the repository already
-decides.
+A new deterministic rule is one entry in `RULES`, scored by `score --rule <name>`
+and asked first by `run --rule <name>`, so a model sees only what the rule leaves.
+**A rule's reach is a decision, not this file's**, so `RULES` holds only what the
+repository has decided: `fold()`, and the plural rule whose reach decision 010
+set on the author's delegation.
 """
 
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -58,8 +63,38 @@ from selftest import MUST_NOT_MERGE  # noqa: E402
 from wiki_index import fold  # noqa: E402
 
 TASK = "one-term-or-two"
+
+
+def plural(a: str, b: str, endings: tuple[str, ...] = ("s", "es", "e", "en", "n"),
+           written: bool = True) -> str:
+    """`fold()`, and a plural ending is not a term boundary (J4, J23), within the
+    reach decision 010 gives it: an ending from a closed set appended to the whole
+    shorter surface, `-n` only after `-e`, a stem of at least four letters, and the
+    ending written in lower case in the longer surface.
+
+    Not a stemmer: nothing is ever removed from the shorter surface, so
+    `Negentropie`/`Entropie`, which differ at the front, stay apart. `-er` is not
+    an ending here because it also makes a noun of a verb: `Spiel`/`Spieler`.
+    The lower-case test is what keeps `Logo` out of the Guardian `LogOS`, which
+    `fold()` spells `logos`. `endings` and `written` exist so that the selftest
+    can hand the canary veto a rule that reaches too far."""
+    fa, fb = fold(a), fold(b)
+    if fa == fb:
+        return "one-term"
+    (short, _), (longer, raw) = sorted(((fa, a), (fb, b)), key=lambda p: len(p[0]))
+    ending = longer[len(short):]
+    if len(short) < 4 or not longer.startswith(short) or ending not in endings:
+        return "two-terms"
+    if ending == "n" and not short.endswith("e"):
+        return "two-terms"          # Alter/Altern stays a person's call (decision 010)
+    if written and not re.sub(r"\W+$", "", raw).endswith(ending):
+        return "two-terms"
+    return "one-term"
+
+
 RULES = {
     "fold": lambda a, b: "one-term" if fold(a) == fold(b) else "two-terms",
+    "plural": plural,
 }
 
 
@@ -82,16 +117,50 @@ def folds(labelled: list[dict], k: int) -> list[list[dict]]:
     return [f for f in out if f]
 
 
+def merged_canaries(rule) -> list[tuple[str, str]]:
+    """The never-merge pairs a rule merges. Any one of them vetoes it."""
+    return [(a, b) for a, b in canaries() if rule(a, b) == "one-term"]
+
+
 def score_rule(name: str) -> dict:
+    import inspect
     rule = RULES[name]
     labelled = rows()
     outcomes = {r["id"]: int(trainset.score_one(r, rule(r["first"], r["second"]))["score"])
                 for r in labelled}
-    merged = [(a, b) for a, b in canaries() if rule(a, b) == "one-term"]
-    import inspect
-    return baseline.row(TASK, f"rule:{name}", outcomes, program=inspect.getsource(rule),
+    merged = merged_canaries(rule)
+    # fold()'s own source is part of every rule's identity. Until 2026-09-24 only
+    # the rule's source was hashed, so a change inside fold() left the hash as it was.
+    return baseline.row(TASK, f"rule:{name}", outcomes,
+                        program=[inspect.getsource(rule), inspect.getsource(fold)],
                         trainset=labelled, vetoed=bool(merged),
                         note=f"canaries merged: {merged}" if merged else "no canary merged")
+
+
+def selftest() -> tuple[list[str], int]:
+    """The plural rule merges the plurals the ledger's judgements merged and no
+    canary; a rule reaching one step further is vetoed, each for its own reason.
+    Without the last two cases nothing would show the veto can fire on this rule:
+    the four canaries before decision 010 were out of any plural rule's reach."""
+    failures = []
+    merges = [("Kern-Welt", "Kern-Welten"), ("Guardian", "Guardians"), ("Riss", "Risse"),
+              ("Alter", "Alters"), ("Anomalie", "Anomalien"), ("Coheron", "Coheronen"),
+              ("Glitch", "Glitches")]
+    for a, b in merges:
+        if plural(a, b) != "one-term":
+            failures.append(f"plural kept {a!r} and {b!r} apart")
+    if merged_canaries(plural):
+        failures.append(f"plural merged {merged_canaries(plural)}")
+    too_far = {
+        "an -er ending": (lambda a, b: plural(a, b, endings=("s", "es", "e", "en", "n", "er")),
+                          ("Spiel", "Spieler")),
+        "an ending not written in lower case": (lambda a, b: plural(a, b, written=False),
+                                                ("Logo", "LogOS")),
+    }
+    for why, (rule, pair) in too_far.items():
+        if pair not in merged_canaries(rule):
+            failures.append(f"{why}: the veto did not fire on {pair}")
+    return failures, len(merges) + 1 + len(too_far)
 
 
 # --- the model half: imported only when a model is asked for ---------------------
@@ -138,11 +207,13 @@ def optimizer(name: str, metric, train_size: int, reflection_lm=None):
 
 
 def run(name: str, model: str | None, approval: str | None, k: int, repeats: int,
-        dry_run: bool, record: bool, reflection: str | None) -> dict:
+        dry_run: bool, record: bool, reflection: str | None, rule: str = "fold") -> dict:
+    import inspect
     import tempfile
     import dspy
     from lmrun import call, make_lm
 
+    first = RULES[rule]           # asked before the model, so the model sees only its residual
     labelled = rows()
     examples = {r["id"]: dspy.Example(**r).with_inputs("first", "second") for r in labelled}
     program, metric = program_and_metric()
@@ -169,7 +240,7 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
                 program.deepcopy(), trainset=train)
             compiled_states.append(compiled.dump_state())
             for r in held:
-                if RULES["fold"](r["first"], r["second"]) == "one-term":
+                if first(r["first"], r["second"]) == "one-term":
                     outcomes[r["id"]] = float(r["decision"] == "one-term")   # the rule answers
                     continue
                 hits = []
@@ -184,7 +255,7 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
         final = optimizer(name, metric, len(examples), reflection_lm).compile(
             program.deepcopy(), trainset=list(examples.values()))
         for a, b in canaries():
-            if RULES["fold"](a, b) == "one-term":
+            if first(a, b) == "one-term":
                 merged.append((a, b))
                 continue
             pred, rec = call(final, step=f"pairs-{name}-canary", subject="surface-pairs",
@@ -192,8 +263,10 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
             if rec["status"] == "answered" and str(pred.decision) == "one-term":
                 merged.append((a, b))
 
-    entry = baseline.row(TASK, f"{'dry-run:' if dry_run else ''}{name}:{model or 'fixture'}", outcomes,
-                         program=compiled_states, trainset=labelled, vetoed=bool(merged),
+    entry = baseline.row(TASK, f"{'dry-run:' if dry_run else ''}rule:{rule}+{name}:{model or 'fixture'}",
+                         outcomes, program=[inspect.getsource(first), inspect.getsource(fold),
+                                            compiled_states],
+                         trainset=labelled, vetoed=bool(merged),
                          note=f"k={k} repeats={repeats}; canaries merged: {merged}")
     if record and not dry_run:
         baseline.append(entry)
@@ -204,8 +277,18 @@ def main(argv: list[str]) -> int:
     def opt(flag, default=None):
         return argv[argv.index(flag) + 1] if flag in argv else default
 
+    rule = opt("--rule", "fold")
+    if rule not in RULES:
+        raise SystemExit(f"unknown rule {rule!r}: {', '.join(RULES)}")
+    if argv[:1] == ["selftest"]:
+        problems, total = selftest()
+        for p in problems:
+            print(f"  FAIL  {p}")
+        print(f"pairs: {total - len(problems)} of {total} cases hold "
+              f"(plural merges, no canary merged, the veto fires on -er and on case)")
+        return 1 if problems else 0
     if argv[:1] == ["score"]:
-        name = opt("--rule", "fold")
+        name = rule
         entry = score_rule(name)
         print(f"{entry['candidate']}: {entry['correct']}/{entry['scored']} = {entry['score']:.1%} "
               f"on {entry['n']} labelled pairs; {entry['note']}")
@@ -217,7 +300,7 @@ def main(argv: list[str]) -> int:
     if argv[:1] == ["run"]:
         entry = run(opt("--optimizer", "labeled"), opt("--model"), opt("--approval"),
                     int(opt("--folds", "5")), int(opt("--repeats", "1")),
-                    "--dry-run" in argv, "--record" in argv, opt("--reflection-model"))
+                    "--dry-run" in argv, "--record" in argv, opt("--reflection-model"), rule)
         print(json.dumps({k: entry[k] for k in ("candidate", "n", "scored", "correct", "score",
                                                 "vetoed", "note")}, ensure_ascii=False, indent=1))
         return 1 if entry["vetoed"] else 0

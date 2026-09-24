@@ -178,14 +178,14 @@ pages are always returned. "It says the graph adds something over lexical
 seeding; it does not say the retriever is good"
 (`Plan/concept/graphrag_2026-09-23.md`).
 
-**The recorded baseline lags the live number.** `Plan/runs/baselines.jsonl`'s
-last `graphrag-retrieval` row was written at `n=14` (seeds 45.3%, ppr 62.0%),
-after document 8's C7–C10. Document 9 then raised C11 and C12, and the
-author's C6 decision added Q5 (`CLAUDE.md`, *The knowledge graph*), growing
-the live bench to the 17 cases above without a matching
-`graphrag.py bench --record` run. The state
-above is what `python3 scripts/state.py` and a fresh `graphrag.py bench` both
-report right now; the ledger is a point-in-time row, not the live number.
+**The recorded baseline is a point in time, not the live number.**
+`Plan/runs/baselines.jsonl`'s `graphrag-retrieval` rows were written at `n=14`
+(seeds 45.3%, ppr 62.0%) after document 8's C7–C10; document 9's C11 and C12
+and the author's C6 decision (Q5) then grew the bench to 17 without a record,
+and the rows caught up on 2026-09-24 (seeds 41.9%, ppr 64.3%). They fall behind
+again whenever a question or conflict is added, until `graphrag.py bench
+--record` runs; the state above is what `python3 scripts/state.py` and a fresh
+`graphrag.py bench` both report right now.
 
 ```bash
 python3 scripts/graphrag.py bench [--k 8] [--record]   # --record appends to Plan/runs/baselines.jsonl

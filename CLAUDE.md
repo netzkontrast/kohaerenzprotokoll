@@ -360,7 +360,7 @@ comparison on the same normalised line, so a citation `--find` produced passes
 number instead of typing it is what stops one.
 
 **And `python3 scripts/selftest.py` proves they can fail.** Six quotation cases,
-four citation cases and seven `fold()` pairs, each carrying the exact defect the
+four citation cases and nine `fold()` pairs, each carrying the exact defect the
 checker must name, so a case that fails for the wrong reason fails the test.
 Nobody had ever seen any of them fail — which is the shape of the retired
 pipeline's worst defect: a coverage term that returned 1.0 whenever no gold
@@ -935,14 +935,16 @@ every piece is a pattern of tens of lines, ported with its source named.
 |---|---|
 | `lmrun.py` | how `pairs.py` and `graphrag.py` call a model: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision |
 | `lm_fixture.py` | an offline `dspy.BaseLM`; `offline()` hides every `*_API_KEY` and replaces `litellm.completion` with a refusal, because a scanned repository's unmocked test made a live call from this container |
-| `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor**, not only one that fell since the last row, and a `vetoed` row fails whatever its score |
-| `pairs.py` | one-term-or-two: `fold()` first, a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
+| `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor** — the floor candidate's newest row on the same trainset — not only one that fell since the last row, and a `vetoed` row fails whatever its score |
+| `pairs.py` | one-term-or-two: a rule first (`fold()`, or the plural rule of decision 010), a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
 | `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
 **57 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
-33 <!--state:pairs.fold_correct--> of them.** Every optimizer on the ladder —
+33 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
+decides 41 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
+`fold()`, so reconciliation is unchanged. Every optimizer on the ladder —
 `labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
 `--dry-run`. **None has run against a real model**: that sends corpus words to
 a third party, and the author has not said yes to it. `scripts/rlm_ingest.py`
