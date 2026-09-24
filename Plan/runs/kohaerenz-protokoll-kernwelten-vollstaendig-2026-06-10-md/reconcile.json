@@ -1,0 +1,471 @@
+{
+  "document": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+  "drive_id": "1Ycr3aIlcR3OAhNY_QbGKI8-e_QUELj21kuNgVIly5zc",
+  "step": "reconcile",
+  "at": "2026-09-24",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 78,
+    "conflicts": 12
+  },
+  "state_after": {
+    "pages": 85,
+    "conflicts": 12
+  },
+  "pre_classification": {
+    "candidates": 290,
+    "decisions": 320,
+    "decided_by_lookup": 229,
+    "needs_judgement": 91
+  },
+  "new_terms": [
+    "sektor-04",
+    "archiv-der-grenzen",
+    "mnemosyne-server-architektur",
+    "evaluierungseinheit",
+    "verschraenkungs-insel",
+    "garten-der-stillen-praesenz",
+    "mosaik-herz"
+  ],
+  "new_terms_rule": "a place gets a page when this document lists it as a canonical ([K]) sub-location and its Kapitel-Anker names specific chapters — not „Kap 1 ff.“, not an act, not „querschnittlich“. That is the document's own sharpest statement about a place: a function and a chapter. Seven rows qualify beyond the four that already had pages.",
+  "not_promoted_rule": "190 new terms by lookup; seven became pages. Not promoted: [S] and [V] rows (the quarry and proposals — the document's own labels say they are not settled), canonical rows anchored to a whole act or „ff.“, sensory and somatic labels, Riss classes, log fields, and borrowed theory (Tarski, Merleau-Ponty, Iser, Polanyi).",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        702
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        179,
+        611
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alex",
+      "lines": [
+        301
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        610
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "archiv-des-ungesagten",
+      "lines": [
+        276
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        13,
+        61,
+        946
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        400,
+        736
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "datenverarbeitungsknoten-7g",
+      "lines": [
+        153
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        400
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        622,
+        630,
+        692
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        61,
+        502
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        236,
+        448
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        480,
+        630,
+        684,
+        829
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "junas-ankerpunkt",
+      "lines": [
+        664,
+        939
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kael",
+      "lines": [
+        141,
+        156,
+        179
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        152
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        61,
+        404
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        23,
+        24,
+        25,
+        26,
+        45,
+        49,
+        57,
+        61,
+        955
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        236
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        83,
+        110,
+        113
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        110,
+        706,
+        764,
+        829
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lex",
+      "lines": [
+        126
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        236
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        23,
+        61,
+        167,
+        827
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        49,
+        205,
+        390,
+        914
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        26,
+        404,
+        461
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        714
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moros",
+      "lines": [
+        274,
+        375
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        461
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        462
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        301
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        278,
+        858
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "persistenzgleichung",
+      "lines": [
+        524
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        67
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        444,
+        746
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "selene",
+      "lines": [
+        488
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        857
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        61,
+        404
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        630
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "therapie-schnittstelle-alpha",
+      "lines": [
+        167
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        502,
+        524,
+        576,
+        611,
+        612
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "vergessener-schrein",
+      "lines": [
+        272
+      ],
+      "attribution": "premise",
+      "note": ""
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C9",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "no expansion of AEGIS",
+    "C2": "only a [V] room, „Entropie-Ausgleichs-Kammer“",
+    "C3": "no origin of AEGIS",
+    "C8": "no storyform slots",
+    "Q2": "none of the protocols by name; Zero-Trust-Boundary-Protocols went to aegis-teilfunktionen (J66)"
+  },
+  "judgements": [
+    "J64",
+    "J65",
+    "J66",
+    "J67"
+  ],
+  "decided_by_existing_rules": "Wohneinheit 734 / Einheit 734 by J50; Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis by J49; Coheronen by J56; Alter by J46; Riss classes and AEGIS-* compounds against their heads by J16/J28; AEGIS-Kern-Nexus by J63; Wir-AEGIS-plural by J47.",
+  "attached_from_earlier_runs": {
+    "roman-lokalitaeten-konzept-und-ausarbeitung": [
+      "garten-der-stillen-praesenz"
+    ],
+    "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+      "garten-der-stillen-praesenz"
+    ],
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+      "garten-der-stillen-praesenz",
+      "mosaik-herz"
+    ],
+    "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+      "mosaik-herz"
+    ],
+    "kapitel-kompendium-gather-2026-05-31-md": [
+      "mosaik-herz"
+    ]
+  },
+  "found_by_rule_not_by_census": [
+    "therapie-schnittstelle-alpha",
+    "datenverarbeitungsknoten-7g",
+    "aegis-teilfunktionen",
+    "landauer-signatur"
+  ],
+  "baseline_moved": false
+}

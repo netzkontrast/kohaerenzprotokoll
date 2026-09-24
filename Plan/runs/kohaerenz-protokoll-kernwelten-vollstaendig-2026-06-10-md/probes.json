@@ -1,0 +1,262 @@
+{
+  "document": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+  "drive_id": "1Ycr3aIlcR3OAhNY_QbGKI8-e_QUELj21kuNgVIly5zc",
+  "step": "probes",
+  "at": "2026-09-24",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 42,
+  "backslash_escapes": 1104,
+  "typographic_marks": 172,
+  "ascii_quotes": 47,
+  "inflection_families": {
+    "daten": [
+      "Daten",
+      "Datencluster",
+      "Datenfriedhof",
+      "Datenkorruption",
+      "Datenstrom",
+      "Datenströme",
+      "Datenverarbeitungs",
+      "Datenverarbeitungsknoten",
+      "Datenvisualisierung"
+    ],
+    "archi": [
+      "Archipel",
+      "Architekt",
+      "Architektin",
+      "Architektonische",
+      "Architektur",
+      "Archiv",
+      "Archivar",
+      "Archivs"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollierte",
+      "Kontrollpunkt",
+      "Kontrollpunkte",
+      "Kontrollraum",
+      "Kontrollzentrum"
+    ],
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemantwort",
+      "Systemhum",
+      "Systemprozessen",
+      "Systemrauschen",
+      "Systemregeln"
+    ],
+    "erinn": [
+      "Erinnern",
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungs",
+      "Erinnerungslandschaft"
+    ],
+    "konst": [
+      "Konstant",
+      "Konstantes",
+      "Konstruierbarkeit",
+      "Konstrukt",
+      "Konstruktionen"
+    ],
+    "überg": [
+      "Übergang",
+      "Übergangs",
+      "Übergangsort",
+      "Übergänge",
+      "Übergängen"
+    ],
+    "überw": [
+      "Überwachungs",
+      "Überwachungsposten",
+      "Überwachungssysteme",
+      "Überwelt",
+      "Überwuchert"
+    ],
+    "exter": [
+      "EXTERNE",
+      "Externe",
+      "Externen",
+      "Externer"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionen"
+    ],
+    "gener": [
+      "Generativ",
+      "Generative",
+      "Generisch",
+      "Generische"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsfluss",
+      "Informationsparadox"
+    ],
+    "klass": [
+      "Klasse",
+      "Klassen",
+      "Klassisch",
+      "Klassische"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzentrische",
+      "Konzept",
+      "Konzepte"
+    ],
+    "logik": [
+      "Logik",
+      "Logikparadoxien",
+      "Logikpfaden",
+      "Logikregimen"
+    ],
+    "mater": [
+      "Material",
+      "Materialeigenschaft",
+      "Materialien",
+      "Materialität"
+    ],
+    "multi": [
+      "Multi",
+      "Multiplizität",
+      "Multiplizitäts",
+      "Multiverse"
+    ],
+    "mögli": [
+      "Möglicherweise",
+      "Möglichkeit",
+      "Möglichkeits",
+      "Möglichkeitsraum"
+    ],
+    "roman": [
+      "Roman",
+      "RomanLokalitatenKonzeptUndAusarbeitung",
+      "Romanrealität",
+      "Romantisierung"
+    ],
+    "schwe": [
+      "Schweben",
+      "Schwebende",
+      "Schwelle",
+      "Schwellen"
+    ],
+    "versc": [
+      "Verschiebung",
+      "Verschiebungen",
+      "Verschluss",
+      "Verschränkungs"
+    ],
+    "algor": [
+      "Algorithmik",
+      "Algorithmische",
+      "Algorithmisches"
+    ],
+    "anker": [
+      "Anker",
+      "Ankerpunkt",
+      "Ankerpunkte"
+    ],
+    "arbei": [
+      "Arbeitsbereich",
+      "Arbeitsplatz",
+      "Arbeitsraum"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungs",
+      "Bedrohungsanalyse"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Name",
+      "Namen"
+    ],
+    [
+      "Name",
+      "Eigennamen"
+    ],
+    [
+      "Name",
+      "Ornamentik"
+    ],
+    [
+      "Name",
+      "Charaktername"
+    ],
+    [
+      "Anti",
+      "Romantisierung"
+    ],
+    [
+      "Text",
+      "Texts"
+    ],
+    [
+      "Text",
+      "Texte"
+    ],
+    [
+      "Text",
+      "Textur"
+    ],
+    [
+      "Text",
+      "Texturen"
+    ],
+    [
+      "Text",
+      "Bodentexturen"
+    ],
+    [
+      "Logs",
+      "Dialogs"
+    ],
+    [
+      "Türe",
+      "Türen"
+    ],
+    [
+      "Türe",
+      "Lektüre"
+    ],
+    [
+      "Spur",
+      "Spuren"
+    ],
+    [
+      "Ecke",
+      "Becken"
+    ],
+    [
+      "Auch",
+      "Bauch"
+    ],
+    [
+      "Auch",
+      "Bauchreaktionen"
+    ],
+    [
+      "Eine",
+      "Reine"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Bahn",
+      "Autobahn"
+    ]
+  ]
+}
