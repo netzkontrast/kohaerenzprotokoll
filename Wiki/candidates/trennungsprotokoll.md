@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-24"
 ---
 
@@ -61,3 +61,9 @@ Funktionalisierung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] and only 
 first. The flashback cluster of Kap 18–22: „Einheit → Trennungsprotokoll → Kael =
 Komp 734" ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] — 734 its result. And Vortex 2: „Genesis-Beat 4 (Wir-AEGIS-plural)
 vollzogen" ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]. A reading for conflict C12 that holds both of its sides.
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Three beats, and the question of a fourth**, a day before the two 2026-05-08
+sources answered it differently: „Aktuell 3 Beats: Einheit → Trennungsprotokoll →
+Kael=Komp 734. Braucht es einen vierten?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L408] Conflict C12.
