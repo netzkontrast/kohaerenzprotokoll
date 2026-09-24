@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -81,3 +81,9 @@ subject to AEGIS' rules ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L519].
 „Teil VI — Lokalitäten: Die sechs Realitätsebenen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L457] — the four Kernwelten, the Überwelt and the Externe Ebene. „Die Romanwelt ist ontologisch geschichtet, nicht topologisch." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L459]
 
 „Keine Multiverse-Geschichte." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1267]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Sechs Ebenen" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L67]: four Kern-Welten, the Überwelt and the Externe Ebene, one
+table with status, domain and act (L69–L77). The word `Realitätsebenen` itself
+does not occur.
