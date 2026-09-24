@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls „Wächter" is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -138,3 +138,10 @@ feminine title, „Kap 8 — Die Wächterin" ^[koharenz-protokoll-konzept-konsol
 **Here the word means Guardian.** The Wächter-Registry is „wo Mnemosyne und der
 Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L576] — the two Guardians, under the German word.
 One more job for it; J20 holds.
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Two bearers in one document. [[aegis|AEGIS]] in Kap 0: „AEGIS (Ursprungs-Ich →
+Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237]. [[selene|Selene]]'s function: „Selene (Wächterin-Funktion klar)"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L649], in chapters titled „Die Wächterin" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L415] (Kap 8) and „Z1-Korrektur:
+Wächterin" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635] (Kap 17). J20 holds: the sentence decides.
