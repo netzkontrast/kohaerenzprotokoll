@@ -30,6 +30,7 @@ SUITES = [
     ("baseline ledger", "std", ["scripts/baseline.py", "selftest"]),
     ("graph", "std", ["scripts/graph.py", "--selftest"]),
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
+    ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
     ("dspy surface", "dspy", ["scripts/check_dspy_surface.py"]),
