@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -147,10 +147,18 @@ sichtbar)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]. S
 
 **Five modes, two mirrors, four worlds.** The §12 table (L1003–L1008) gives each
 dissociative mode its bearer and distortion — Fight/Nyx kinetisch, Freeze/[[kiko|Kiko]]
-temporal, Flight/„Kiko (zweite Funktion), Lia" spatial, Collapse/Moros gravitativ,
-Sexualisiert/Isabelle sensorisch. Two more for the mirrors — „Silas
+temporal, Flight/„Kiko (zweite Funktion), Lia" spatial, Collapse/[[moros|Moros]] gravitativ,
+Sexualisiert/[[isabelle|Isabelle]] sensorisch. Two more for the mirrors — „Silas
 (Coheron-Echo): Relational/warm" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1016] and „Oblivion (Erason-Operator):
 Temporal/gravitativ" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1017] — and one per world (L1025–L1028).
 
 A Riss is also [[aegis|AEGIS]]' third protocol's trigger: „Re-Containment-Protokoll —
 Reaktion auf Risse, dynamisches Patching der Simulation." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L133]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Risse sind die diegetisch sichtbare Manifestation der Inversion." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L548] Each type has an EP trigger (L551–L568): Nyx kinetic, Kiko temporal, Lia/Isabelle spatial, Moros gravitational, Isabelle sensory — Isabelle stands in two rows.
+
+„Wärme manifestiert sich als Risse." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L38] And the reading turns on the Vortex: „Für den Roman sind sie das Atmen der Realität" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L571].
+
+`Glitches` is this document's word for them in the Kernwelten — „Jede Glitch in den Kernwelten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L800].
