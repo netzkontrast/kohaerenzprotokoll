@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -86,5 +86,13 @@ scale disagreement like `C5`.
 
 „Ne stop - es ist nur kw1" (conflict `C9`, corrected the same day after a first
 answer recorded it as the whole simulation). The Konstrukt-Stadt is **KW1**, one
-of the four Kern-Welten. The Charakter-Bibel's reading of it as the whole
+of the four [[kern-welten|Kern-Welten]]. The Charakter-Bibel's reading of it as the whole
 simulation stays above as what that document said.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**KW1** — „VI.2 KW1 — Die Konstrukt-Stadt (Logos-Prime)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L463]. Consistent with the author's decision on C9.
+
+„Temperatur: konstant 21°C — bis sie es nicht mehr ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L470] „Computational Class P." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L473] Sub-locations: Kaels Wohneinheit 734, Datenverarbeitungsknoten Epsilon, Transitkorridor Delta-7 and Sektor 04 (L479). „KW1 dominiert Akt I (Ch1–13)." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L482]
+
+Kap 1 is titled for it — „Kap 1 — Erwachen in der Konstrukt-Stadt" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L961] — and the same outline calls its setting the Überwelt of Kap 0 (L962).
