@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -165,3 +165,12 @@ Be-er in A — „Kaels Heilung ist Funktionale Multiplizität (*Sein*), keine e
 Handlungssequenz." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L97] — and, from this day, the IC of B: „Kael ist der
 strukturelle IC-Träger in B" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L31], „Kael ist der "Bug, der nicht gefixt werden
 kann."" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L226]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „amnestische Oberfläche" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L195], correlate „Hubble-Volumen / Big Rip" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L196], somatics „Zeitverlust + Zittern" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L197], arc „Funktionale Multiplizität" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L198].
+
+„Kael ist nicht „von AEGIS erschaffen", sondern die fühlende Hälfte, die AEGIS
+sich abgeschnitten hat." — the Identitäts-Architektur (L136). The knuckles: „Lock
+Kompendium 2026-05-31: der Faden lebt in Kap 0 allein — Kap 1 bleibt spurlos."
+^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638] Conflict C10.
