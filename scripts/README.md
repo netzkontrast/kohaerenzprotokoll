@@ -124,7 +124,7 @@ skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 | `pairs.py` | One term or two: scores a rule (`fold`, or `plural`, decision 010), or a compiled program on what the rule leaves, and asks every candidate the never-merge canaries. `score` and `selftest` are standard library; `run` needs `.venv-dspy`. | `--record`: `Plan/runs/baselines.jsonl` |
 | `baseline.py` | The append-only score ledger. `compare` fails a candidate that does not beat the floor, taken as the floor candidate's newest row on the same trainset. | `Plan/runs/baselines.jsonl`, for its callers |
 | `rlm_ingest.py` | Reads one document with `dspy.RLM`, carrying this repository's skills. A real run needs `.venv-dspy` and `--approval`; `--selftest` is standard library. | `Plan/runs/<slug>/03-candidates-rlm.md` |
-| `rlm_retrieval.py` | Bounded RLM retrieval trial on the two benchmark cases with no lexical seed (`C10`, `Q2`). Removes each case node so its gold edges cannot leak; validates page IDs against the graph. `--selftest` and `--dry-run` are offline. A real run needs a model key and `--approval`; it prints a comparison but writes no wiki pages. | stdout only |
+| `rlm_retrieval.py` | Bounded RLM retrieval trial on the two benchmark cases with no lexical seed (`C10`, `Q2`). Removes each case node so its gold edges cannot leak; validates page IDs against the graph. `search_quotes` finds cited evidence beyond the first six quotations on a page. `--selftest` and `--dry-run` are offline. A real run needs a model key and `--approval`; it prints a comparison but writes no wiki pages. | stdout only |
 
 ## Third-party extraction
 
