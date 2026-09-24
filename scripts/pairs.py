@@ -22,6 +22,10 @@ scanned repository supplied:
 - **Pinned, stratified folds.** Canaries are never training data. The labelled
   rows are split by decision into k folds deterministically by id, and each
   row is scored by a program compiled without it.
+- **Hard negatives in the labeled rung.** Among *training* rows, two labelled
+  lookalikes that are different terms get reserved demo slots. `LabeledFewShot`
+  uses `sample=False` to preserve that choice; the never-merge canaries remain
+  outside training even when one also appears in the judgement ledger.
 - **Repeats with the cache off** (P18): `--repeats N` scores each held-out row
   N times through `lmrun.call`; its outcome is the fraction correct.
 - **The metric is five-argument from day one**
@@ -54,6 +58,7 @@ set on the author's delegation.
 import json
 import re
 import sys
+from difflib import SequenceMatcher
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -101,6 +106,46 @@ RULES = {
 
 def rows() -> list[dict]:
     return trainset.surface_pairs()
+
+
+def model_rows() -> list[dict]:
+    """A canary may exist in the ledger; it still cannot train the model."""
+    held_out = {tuple(sorted(pair)) for pair in canaries()}
+    return [r for r in rows() if tuple(sorted((r["first"], r["second"]))) not in held_out]
+
+
+def is_hard_negative(row: dict) -> bool:
+    """A distinct-term judgement whose surfaces are visibly easy to conflate."""
+    return row["decision"] == "two-terms" and bool(
+        {"substring", "compound", "prefix", "shared-stem", "near-match:index",
+         "proper-name-containment", "word-order"}.intersection(row["features"]))
+
+
+def labeled_demos(training: list[dict], k: int = 8) -> list[dict]:
+    """Reserve two slots for labelled lookalikes that are different terms.
+
+    Only the caller's training fold is visible. A hard negative shares a stem,
+    substring, prefix or compound with its counterpart in the person's ledger;
+    similarity orders those examples, never guesses their label. Canaries have
+    already been removed by model_rows().
+    """
+    held_out = {tuple(sorted(pair)) for pair in canaries()}
+    training = [r for r in training
+                if tuple(sorted((r["first"], r["second"]))) not in held_out]
+    hard = [r for r in training if is_hard_negative(r)]
+    hard.sort(key=lambda r: (-SequenceMatcher(None, fold(r["first"]),
+                                                  fold(r["second"])).ratio(), r["id"]))
+    selected = hard[:min(2, k)]
+    remaining = [r for r in training if r["id"] not in {s["id"] for s in selected}]
+    # Both decisions remain represented even when the hard examples fill the
+    # negative side. Stable IDs, not ledger insertion order, choose the rest.
+    remaining.sort(key=lambda r: baseline.digest(r["id"]))
+    if len(selected) < k and not any(r["decision"] == "one-term" for r in selected):
+        positive = next((r for r in remaining if r["decision"] == "one-term"), None)
+        if positive:
+            selected.append(positive)
+            remaining.remove(positive)
+    return (selected + remaining)[:k]
 
 
 def canaries() -> list[tuple[str, str]]:
@@ -179,7 +224,20 @@ def selftest() -> tuple[list[str], int]:
     for why, (rule, pair) in too_far.items():
         if pair not in merged_canaries(rule):
             failures.append(f"{why}: the veto did not fire on {pair}")
-    return failures, len(merges) + 1 + len(too_far)
+    labelled = model_rows()
+    if any(tuple(sorted((r["first"], r["second"]))) in
+           {tuple(sorted(pair)) for pair in canaries()} for r in labelled):
+        failures.append("a canary reached the model trainset")
+    for held in folds(labelled, 5):
+        training = [r for r in labelled if r["id"] not in {h["id"] for h in held}]
+        demos = labeled_demos(training)
+        if {r["id"] for r in demos} & {r["id"] for r in held}:
+            failures.append("a held-out row reached the labeled demos")
+        if sum(is_hard_negative(r) for r in demos) < 2:
+            failures.append("a fold's demos omitted hard negatives")
+        if demos != labeled_demos(list(reversed(training))):
+            failures.append("demo choice depends on ledger order")
+    return failures, len(merges) + 1 + len(too_far) + 3
 
 
 # --- the model half: imported only when a model is asked for ---------------------
@@ -233,7 +291,7 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
     from lmrun import call, make_lm
 
     first = RULES[rule]           # asked before the model, so the model sees only its residual
-    labelled = rows()
+    labelled = model_rows()  # includes no canary, even when a canary has a ledger row
     examples = {r["id"]: dspy.Example(**r).with_inputs("first", "second") for r in labelled}
     program, metric = program_and_metric()
 
@@ -252,12 +310,23 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
     outcomes: dict[str, float | None] = {}
     compiled_states = []
     canary_failures = []
+    demo_ids = []
     with context:
         for fold_number, held in enumerate(folds(labelled, k), 1):
             held_ids = {r["id"] for r in held}
-            train = [examples[i] for i in examples if i not in held_ids]
-            compiled = optimizer(name, metric, len(train), reflection_lm).compile(
-                program.deepcopy(), trainset=train)
+            training = [r for r in labelled if r["id"] not in held_ids]
+            train = [examples[r["id"]] for r in training]
+            if name == "labeled":
+                chosen = labeled_demos(training)
+                demo_ids.append([r["id"] for r in chosen])
+                compiled = optimizer(name, metric, len(chosen), reflection_lm).compile(
+                    program.deepcopy(), trainset=[examples[r["id"]] for r in chosen],
+                    sample=False)
+                if [d.id for d in compiled.predictors()[0].demos] != demo_ids[-1]:
+                    raise RuntimeError("LabeledFewShot did not keep the selected demos")
+            else:
+                compiled = optimizer(name, metric, len(train), reflection_lm).compile(
+                    program.deepcopy(), trainset=train)
             compiled_states.append(compiled.dump_state())
             canary_failures.extend(f"fold {fold_number}: {failure}" for failure in
                                    check_program_canaries(compiled, first, name=name,
@@ -274,17 +343,29 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
                     if rec["status"] == "answered":
                         hits.append(trainset.score_one(r, str(pred.decision))["score"])
                 outcomes[r["id"]] = round(sum(hits) / len(hits), 3) if hits else None
-        final = optimizer(name, metric, len(examples), reflection_lm).compile(
-            program.deepcopy(), trainset=list(examples.values()))
+        if name == "labeled":
+            chosen = labeled_demos(labelled)
+            demo_ids.append([r["id"] for r in chosen])
+            final = optimizer(name, metric, len(chosen), reflection_lm).compile(
+                program.deepcopy(), trainset=[examples[r["id"]] for r in chosen],
+                sample=False)
+            if [d.id for d in final.predictors()[0].demos] != demo_ids[-1]:
+                raise RuntimeError("final LabeledFewShot demos differ from the selection")
+        else:
+            final = optimizer(name, metric, len(examples), reflection_lm).compile(
+                program.deepcopy(), trainset=list(examples.values()))
         canary_failures.extend(f"final: {failure}" for failure in
                                check_program_canaries(final, first, name=name,
                                                      approval=approval, out_dir=out_dir))
 
     entry = baseline.row(TASK, f"{'dry-run:' if dry_run else ''}rule:{rule}+{name}:{model or 'fixture'}",
                          outcomes, program=[inspect.getsource(first), inspect.getsource(fold),
-                                            compiled_states],
+                                            *([inspect.getsource(is_hard_negative),
+                                               inspect.getsource(labeled_demos)]
+                                              if name == "labeled" else []), compiled_states],
                          trainset=labelled, vetoed=bool(canary_failures),
-                         note=f"k={k} repeats={repeats}; canary failures: {canary_failures}")
+                         note=f"k={k} repeats={repeats}; labeled demos per fold and final: "
+                              f"{demo_ids}; canary failures: {canary_failures}")
     if record and not dry_run:
         baseline.append(entry)
     return entry
