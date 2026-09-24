@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -112,7 +112,7 @@ not simply equate them.
 
 ### And one passage inverts the term
 
-On the Externe Ebene, the place through which [[juna|Juna]] reaches [[kael|Kael]]
+On the [[externe-ebene|Externe Ebene]], the place through which [[juna|Juna]] reaches [[kael|Kael]]
 
 > „könnte ein \"Riss\" aus Sicht des Systems sein." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L522]
 
@@ -128,3 +128,17 @@ outside it.** One clause, hedged, undeveloped. See [[junas-ankerpunkt]],
 Nothing here contradicts the earlier readings. It is a mechanism where they gave
 manifestations, and the inversion is the document reporting a second point of
 view rather than a second account.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Symptom to [[aegis|AEGIS]], breath to the novel.**
+
+> „Risse sind für AEGIS Symptom (Suppression-Versagen); für den Roman das Atmen
+> der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt."
+> ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L245]
+
+**Each kind has an Alter as its trigger** — a table of five rows, L237 to L241,
+headed „EP-Trigger → Riss-Typ" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L230]: Nyx kinetisch, Kiko temporal, Lia/Isabelle
+spatial, Moros gravitational, Isabelle sensorisch. The first Riss of the novel is
+Kap 2, glossed „Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird
+sichtbar)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]. See [[landauer-signatur]].
