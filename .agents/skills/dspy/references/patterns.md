@@ -147,7 +147,8 @@ def same_lm(a, b) -> bool:
 then runs `ReviewArtifact(artifact, evidence, difficulty) → Review{score 1..10,
 overstated: list[Overstated{quote, why, evidence_needed}], unsupported,
 strengths, weaknesses}` under `with dspy.context(lm=self.reviewer_lm):`
-(`dspy-agent-skills:skills/dspy-adversarial-review/example_adversarial_review.py:129-151,458`).
+(`dspy-agent-skills:skills/dspy-adversarial-review/example_adversarial_review.py:129-151`,
+`dspy-agent-skills:skills/dspy-adversarial-review/SKILL.md:53-69`).
 `demotion(review, demote_at=3)` returns `"contested"` at three or more
 overstated claims — "a status change, never an edit"
 (`dspy-agent-skills:skills/dspy-adversarial-review/example_adversarial_review.py:72-74`).

@@ -1168,7 +1168,7 @@ teacher calls — (`SYNTHETIC`), or appends fixed generic text (`CHAIN`,
 ever given its own LM via `Module.set_lm` (available since before 3.3.1), so
 both run on whatever `dspy.settings.lm` happens to be configured — the
 teacher/student distinction is cosmetic
-(`dspy-advanced-prompting:model_distillation.py:54-57,93-98,162,178-255,284,317-336,338-354`,
+(`dspy-advanced-prompting:src/techniques/model_distillation.py:54-57,93-98,162,178-255,284,317-336,338-354`,
 `[trap]`). Its loop also stops after exactly one iteration by construction:
 `quality_retention = 0.88 / 0.95` is two hardcoded constants, always
 `0.9263`, permanently above the default `quality_threshold=0.9`.

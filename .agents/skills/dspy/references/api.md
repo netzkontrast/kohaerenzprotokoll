@@ -243,7 +243,7 @@ compiles `program.deepcopy()` per fold), `dump_state()` / `load_state()` (what
   parses, so it costs two calls before the error: `Agentic-Dspy-Rag`'s
   classifier answering `comparative` for `Comparative` would fail loudly this
   way, where its substring routing misrouted it silently
-  (`Agentic-Dspy-Rag:agents.py:109-123`, re-run by its reader on 3.3.1).
+  (`Agentic-Dspy-Rag:src/agentic_rag/components/agents.py:109-123`, re-run by its reader on 3.3.1).
 - `JSONAdapter` uses native structured output where the provider has it;
   `XMLAdapter` writes tags; `TwoStepAdapter(extraction_model)` lets one model
   answer freely and a second, which must be a `dspy.BaseLM`, extract the

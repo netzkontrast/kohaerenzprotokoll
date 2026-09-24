@@ -350,8 +350,8 @@ suite of 102 passing tests cannot see any of the four real defects the reader
 found by probing with `DummyLM` instead: `None`-filled history in a composed
 program, a copy or fork still calling the *original* predictor's closure, lost
 history inside `dspy.Parallel` workers, or `dspy.RLM`'s outright failure under
-the session wrapper (`dspy-session:tests/test_session.py:50-62`;
-`dspy-session:tests/test_readme_usage.py:16-28`). `braid-dspy`'s suite is the
+the session wrapper (`dspy-session:dspy_session/tests/test_session.py:50-62`;
+`dspy-session:dspy_session/tests/test_readme_usage.py:16-28`). `braid-dspy`'s suite is the
 same shape taken to its limit: **no test in it configures an LM or uses
 `DummyLM` at all** — the LM path is exercised only as the "No LM is loaded"
 error string, and three of its own example scripts print plausible-looking

@@ -152,12 +152,12 @@ including cache hits, and it **misses every call made through `lm.copy()`**:
 measured, `MIPROv2`'s own `GroundedProposer` calls
 `self.prompt_model.copy(rollout_id=...)`, and a real run logged 290 requests
 against a reported `api_calls=200`
-(`dspydantic:optimizer.py:1521-1529,2007-2018`; `dspy:propose/grounded_proposer.py:395`).
+(`dspydantic:src/dspydantic/optimizer.py:1521-1529,2007-2018`; `dspy:propose/grounded_proposer.py:395`).
 `braid-dspy` does not read `lm.history`, DSPy's tracker, or LiteLLM's usage at
 all — every phase is priced from a hand-typed `TokenUsage(500, 200)` regardless
 of what the call actually used, and a phase such as `"critic"` that the price
 table has no bucket for is silently priced at zero
-(`braid-dspy:metrics.py:14-25,191-247`).
+(`braid-dspy:braid/metrics.py:14-25,191-247`).
 
 **Per-agent cost, done once, correctly, and once, incorrectly, in the same
 repository.** `dspy-agents` turns `track_usage=True` on globally
@@ -169,7 +169,7 @@ receives it instead (`dspy-agents:dspy_config.py:207-208`; `api.md`'s
 `track_usage` line). The same repository's Agno-side tool logger reads
 `result.metrics`, which a plain string-returning DSPy tool never has, so its
 own runtime dashboard shows DSPy token usage as unlogged even with
-`track_usage=True` set (`dspy-agents:observability.py:392-401`,
+`track_usage=True` set (`dspy-agents:apps/agentos_api/observability.py:392-401`,
 `[agents]` item). This is the shape `lmrun.call`'s per-call scoping avoids by
 never nesting: one call, one `with dspy.track_usage()`, one record, and no
 outer block for the inner one to feed silently into.
@@ -262,13 +262,13 @@ exactly this mechanism internally.
 only hide cost — it hides correctness.** `braid-dspy`'s generator retries a
 bad answer up to three times against the *same* input; with the default
 `cache=True` that measured as **one** real completion behind three "attempts"
-(`braid-dspy:generator.py:103-108,141-156`). `dspydantic`'s single-pass
+(`braid-dspy:braid/generator.py:103-108,141-156`). `dspydantic`'s single-pass
 optimizer has the sharper version of the same trap: the descriptions it
 *returns* come from one program call and the score it *reports* comes from a
 different one; with the cache on the two happen to coincide because identical
 inputs hit the cache, and with the cache off — this repository's default for
 every real LM — they were measured to differ outright, returning one rewrite
-while scoring another (`dspydantic:optimizer.py:1988-2005`, verified by the
+while scoring another (`dspydantic:src/dspydantic/optimizer.py:1874-1882,1924-1963`, verified by the
 `dspydantic` reader's own offline probe against the installed package).
 `dspy-agent-skills`' own words for the general case: "Cached calls report no
 new usage — which is why a benchmark run with a warm cache looks free and
@@ -333,7 +333,8 @@ change and not otherwise — ported in spirit, not in code, from `dspy-agents`'
 actually a content hash.** `dspy-agents` keys its artifact directory, offline
 docs and Agno toolkit caches by `sha1(rel_path + mtime_ns + size)[:12]` plus a
 manual `*_CACHE_TAG`
-(`dspy-agents:dspy_config.py:45-86,offline_docs.py:39-82,app.py:250-272`) —
+(`dspy-agents:dspy_config.py:45-86`, `dspy-agents:skills/rag/offline_docs.py:39-82`,
+`dspy-agents:apps/agentos_api/app.py:250-272`) —
 this is **path-and-metadata** namespacing, not a hash of the artifact's
 content, and the `dspy-agent-skills` reader's own corrected report calls the
 distinction out directly: "it is also unnecessary for correctness, because
@@ -343,10 +344,10 @@ check: `version("dspydantic")` falls back to a hardcoded `"0.1.2"` via
 `importlib.metadata` when the package is not pip-installed (a source
 checkout, for instance), while `__version__` in the code reads `"0.1.6"` —
 persisted files silently under-report their own provenance
-(`dspydantic:prompter.py:18-23,persistence.py:35-40,128-162`). Worse,
+(`dspydantic:src/dspydantic/prompter.py:18-23`, `dspydantic:src/dspydantic/persistence.py:35-40,128-162`). Worse,
 `dspydantic.load()` never compares the saved `model_schema` against the model
 class passed in at all, so a field renamed since the file was saved is
-ignored rather than flagged (`dspydantic:prompter.py:220-221`). **Content-hash
+ignored rather than flagged (`dspydantic:src/dspydantic/prompter.py:220-221`). **Content-hash
 invalidation as its own mechanism is catalogued here, not built**: nothing in
 this repository currently invalidates a cached derived artifact by hashing
 its content rather than its path; `baseline.digest()` is the nearest instance,
@@ -361,14 +362,14 @@ a real MLflow server in this project (`mlflow` is absent from `.venv-dspy`).
 
 | repository | what it logs | what it loses |
 |---|---|---|
-| `dspy-agent-skills` (`dspy-production` skill) | `mlflow.dspy.autolog(log_traces=True, log_traces_from_compile=True, log_traces_from_eval=True, log_compiles=True, log_evals=True)` — "everything on in development and CI; inference traces only, sampled, in production" | untested here; `dspy-agent-skills:skills/dspy-production/SKILL.md:162-173,reference.md:146-159` |
-| `dspy-agent-skills` (`dspy-book-production` skill) | a span tree per call (module → adapter format → raw request/response → adapter parse → output); `compile()` creates one parent run plus a child run per evaluation holding candidate program state, score and traces; an MCP server exposes "26 tools, 11 of them trace tools" for search and for logging **feedback** (a judgment) or an **expectation** (curatable ground truth) | none named, but: "always pass an explicit field list when searching traces … or the default full span tree exhausts the context window after a few results" — the note calls this the single most useful operational detail in the chapter; `dspy-agent-skills:skills/dspy-book-production/SKILL.md:86-109,reference.md:62-97` |
-| `dspy-session` | `log_session()` logs params (`history_field`, `history_policy`, `max_turns`, a **class name**, never the LM), per-turn `history_length`, and `session_state.json`/`turns.json`/`examples.json` as artifacts | **no tokens and no cost, ever**; `mlflow_turn_logger`'s own `TurnLogger` guards `turn_score` on `turn.score is not None`, which inside `on_turn` is never true, so a score is never logged either — the committed `mlflow.db` in that repository holds only `history_length` and `total_turns` at every step; `dspy-session:integrations/mlflow.py:71-187,238-319` |
+| `dspy-agent-skills` (`dspy-production` skill) | `mlflow.dspy.autolog(log_traces=True, log_traces_from_compile=True, log_traces_from_eval=True, log_compiles=True, log_evals=True)` — "everything on in development and CI; inference traces only, sampled, in production" | untested here; `dspy-agent-skills:skills/dspy-production/SKILL.md:162-173`, `dspy-agent-skills:skills/dspy-production/reference.md:146-159` |
+| `dspy-agent-skills` (`dspy-book-production` skill) | a span tree per call (module → adapter format → raw request/response → adapter parse → output); `compile()` creates one parent run plus a child run per evaluation holding candidate program state, score and traces; an MCP server exposes "26 tools, 11 of them trace tools" for search and for logging **feedback** (a judgment) or an **expectation** (curatable ground truth) | none named, but: "always pass an explicit field list when searching traces … or the default full span tree exhausts the context window after a few results" — the note calls this the single most useful operational detail in the chapter; `dspy-agent-skills:skills/dspy-book-production/SKILL.md:86-109`, `dspy-agent-skills:skills/dspy-book-production/reference.md:62-97` |
+| `dspy-session` | `log_session()` logs params (`history_field`, `history_policy`, `max_turns`, a **class name**, never the LM), per-turn `history_length`, and `session_state.json`/`turns.json`/`examples.json` as artifacts | **no tokens and no cost, ever**; `mlflow_turn_logger`'s own `TurnLogger` guards `turn_score` on `turn.score is not None`, which inside `on_turn` is never true, so a score is never logged either — the committed `mlflow.db` in that repository holds only `history_length` and `total_turns` at every step; `dspy-session:dspy_session/integrations/mlflow.py:71-187,238-319` |
 | `dspy-optimizer` | `MLflowCallback` logs `is_valid` metrics and the patch op/target/text on a successful merge | it reads keys — `initial_prompt`, `merger_strategy`, `score`, `new_prompt`, `optimizer` — that the real optimize loop **never writes**, so driven by a real run it logs an empty `params` dict and never the prompt text or the model name at all; `dspy-optimizer:dspy_optimizer/callback/mlflow_callback.py:35-125` |
 
 Both `dspy-session` and `dspy-optimizer` also pass MLflow 3's deprecated
 `artifact_path=` to `Model.log`/`log_model`, independently
-(`dspy-session:integrations/mlflow.py:182-185,340-344`;
+(`dspy-session:dspy_session/integrations/mlflow.py:182-185,340-344`;
 `dspy-optimizer:dspy_optimizer/callback/mlflow_callback.py:120-123`).
 
 `api.md` has the full `BaseCallback` hook list
@@ -395,7 +396,7 @@ can show.
 `dspy-agent-skills`' book-production chapter's own serving pattern: load and
 `dspy.asyncify` the program once at process start (a FastAPI `lifespan`),
 never per request
-(`dspy-agent-skills:skills/dspy-book-production/SKILL.md:23-39,reference.md:6-24`).
+(`dspy-agent-skills:skills/dspy-book-production/SKILL.md:23-39`, `dspy-agent-skills:skills/dspy-book-production/reference.md:6-24`).
 Its worker-count guidance is Little's law applied to the provider's own rate
 limit, not the CPU count — `in_flight ≈ (requests_per_minute / 60) ×
 mean_latency_seconds`, so 60 rpm at 2s latency wants about 2 workers, 3000 rpm
@@ -404,7 +405,7 @@ at 1.5s wants about 75
 Its own stated fix for a missing artifact is the one worth carrying: "a
 service silently serving an uncompiled program is worse than one that refuses
 to boot"
-(`dspy-agent-skills:skills/dspy-book-production/SKILL.md:44-47,reference.md:26-28`).
+(`dspy-agent-skills:skills/dspy-book-production/SKILL.md:44-47`, `dspy-agent-skills:skills/dspy-book-production/reference.md:26-28`).
 
 **A different repository's own code is the counter-example, in production.**
 `dspy-agents`' `get_rag_program()` wraps `dspy.load(artifacts_path)` in a bare
@@ -448,7 +449,7 @@ the same as the real one but answers with none of its optimization.
 `session_id` and `total_cost_usd`; `parse_result` maps `input_tokens` to
 `prompt_tokens` and raises on `is_error`; system messages are joined into
 `--system-prompt` and every other turn rendered `role: content`
-(`dspy-agent-skills:skills/dspy-local-runtime/SKILL.md:27-57,reference.md:11-42`).
+(`dspy-agent-skills:skills/dspy-local-runtime/SKILL.md:27-57`, `dspy-agent-skills:skills/dspy-local-runtime/reference.md:11-42`).
 **Its `copy()` strips what the CLI cannot honour rather than erroring on it**:
 `temperature`, `max_tokens` and `rollout_id` are dropped silently in both
 `__init__` and `copy()` — "strip, never error, on `rollout_id` and
@@ -575,7 +576,7 @@ matters here specifically: "Running GEPA with the same `log_dir` will resume
 the run from the last checkpoint" — `dspy-auto-gepa` measured its own
 `force=True` flag doing nothing as a result, loading old state and making 4
 student calls and 0 reflection calls instead of retraining
-(`dspy-auto-gepa:gepa.py:305-307,runner.py:325-329`;
+(`dspy:teleprompt/gepa/gepa.py:305-307`, `dspy-auto-gepa:src/dspy_auto_gepa/runner.py:325-329`;
 `dspy-agent-skills:skills/dspy-gepa-optimizer/SKILL.md`'s own examples give
 the same warning independently). `pairs.py`'s `GEPA` rung has not yet run
 against a real model; when it does, its `log_dir` has to be fresh per attempt

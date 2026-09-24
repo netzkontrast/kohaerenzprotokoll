@@ -534,7 +534,7 @@ Upstream's real behaviour is looser still: `self-corrective-rag`'s loop always
 outputs a context on the final
 retry, and on diminishing returns, regardless of score — `route_to_agent`
 only fires at zero passages
-(`dspy-agent-skills:das-rlm-rag.md` TRAP, *TARA outputs any context*). "Decide
+(`Plan/concept/dspy-extract_2026-09-24/das-rlm-rag.md` TRAP, *TARA outputs any context*). "Decide
 deliberately whether 'eventually accept something mediocre' is the behaviour
 you want" (`dspy-agent-skills:skills/dspy-tara-rag/SKILL.md:82-83`) — this is
 P15's distinction stated as a design choice: a retry ladder that ends by
@@ -681,7 +681,7 @@ scorer — never extraction**: `from drg.evaluation._runner import _score_sets`
 (`scripts/rlm_ingest.py`, its `score()` function). `_prf` is
 non-vacuous by construction — `precision = tp/(tp+fp)`,
 `recall = tp/(tp+fn)`, `f1 = 2pr/(p+r)`, each `0.0` on an empty denominator
-(`dspy-agent-skills:das-rlm-rag.md`, *Code worth keeping*) — unlike the retired
+(`Plan/concept/dspy-extract_2026-09-24/das-rlm-rag.md`, *Code worth keeping*) — unlike the retired
 pipeline's `coverage()`, which returned 1.0 on no gold at all.
 
 **What happens on import, measured freshly against `drg-kg==0.0.0.dev51`**:
