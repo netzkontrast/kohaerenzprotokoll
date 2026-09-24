@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -72,3 +72,11 @@ Kapitel-Kompendium does the same.
 Three or four; and whether Komponente 734 precedes the [[trennungsprotokoll|Trennungsprotokoll]] or is its
 result. C12. „Kernwelten vollständig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L11] says only „Vier-Beat-Genesis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (L826 of that
 document).
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- vier Beats in Kap 0: „hat strukturell vier Beats“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L200]
+- 734 before the separation: „Komp 734, Innere Weite“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L205]
+- the separation as beat 3: „Trennungsprotokoll (Krise)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L206]
+- the fourth beat in Kap 39: „Wir-AEGIS-plural (in Kap 39 vollzogen)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L207]
+- flashback allocation is explicitly provisional: „Aber das sind Vorschläge“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790]
