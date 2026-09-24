@@ -42,7 +42,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-291 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+296 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -302,7 +302,8 @@ author and closes when the author decides it:
 - **C7** — Juna's direct appearance: once, ca. Kap 33 (Charakter-Bibel), or
   first in Kap 38 (storyform-und-outline)?
 - **C8** — AEGIS' Approach in Storyform B: Be-er or Do-er?
-- **C9** — the Konstrukt-Stadt: the whole simulation, or KW1?
+- **C9** — **decided by the author, 2026-09-24: the whole simulation.** KW1's
+  own name is open in Q5.
 - **C10** — do Kael's knuckles bleed in Kap 1?
 
 What it leaves for the next document: the consolidated concept

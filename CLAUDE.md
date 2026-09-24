@@ -360,12 +360,12 @@ places the pass may not touch, so that number is a measurement and not a backlog
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **99 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **692 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **691 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 660 <!--state:graph.evidence-->
+Its evidence is every quotation on a term page: 662 <!--state:graph.evidence-->
 of them, **574 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
