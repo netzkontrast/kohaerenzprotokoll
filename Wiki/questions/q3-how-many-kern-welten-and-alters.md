@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -107,3 +107,15 @@ document's struck list.
 the number and the roster. **The correspondence half is still open**: this
 document assigns each Kern-Welt a mode and each Alter a Riss-Typ, and relates
 none of them one-to-one.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Thirteen Alters again — „V.2 Die 13 Alter (kanonisch)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L352] — and four
+Kern-Welten, „vier verschiedenen Logikregimen (KW1–KW4)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L459].
+
+**The correspondence half gets a negative answer for the worlds and Guardians,
+not for the Alters.** „Die vier Kernwelten sind Akt-Marker, nicht je ein
+Guardian-Reich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] Worlds are given to sides of the split rather than to
+Alters — KW1 „Domäne der ANP-Vermeidung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L464], KW3 where „die
+EP-Protektoren" dominate ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L501] — and each EP Alter gets a Riss type
+(L551–L568). No world is one Alter's.
