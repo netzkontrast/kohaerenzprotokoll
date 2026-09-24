@@ -66,6 +66,10 @@ before this list.
 - **The world names after C6.** With five Guardians restored, do Cerberus-Labyrinth
   and Kairos-Potentialis name their Guardians again, or stay „mythologisch"
   as „Kernwelten vollständig" proposes (its L946–L947)?
+- **The Ursprungs-Ich and Juna (J68).** The glossary glosses the separated
+  original self as Juna — „das Ursprungs-Ich (Juna)" — while its Genesis has the
+  Ursprungs-Ich resonate *with* Juna. The konsolidiertes Konzept writes the same
+  gloss. Is Juna the Ursprungs-Ich, or what it met?
 - **The final form's name.** Wir-AEGIS / Mosaik-AEGIS / Plurale Kohärenz / Das Wir
   / namenlos — the konsolidiertes Konzept's own OQ-A (L1199). No page until it is
   named.
@@ -127,7 +131,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-448 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+489 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -194,7 +198,7 @@ written:
   catalogues every Drive document, the canon-era ones included, so they land
   through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
   from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
-  2026-09-24 (see *Landed* below); six are read — documents 7 to 12, below. Still open: the
+  2026-09-24 (see *Landed* below); seven are read — documents 7 to 13, below. Still open: the
   manuscript and the NCP files, which are not Drive documents and sit only under
   `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
@@ -370,6 +374,12 @@ high tier into it is the next step, and it is a person's.
 
 ## Next document — not yet chosen
 
+**The thirteenth is done: `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-09-24.** 326 candidates, 7 new
+pages (the physics, and `hitze-polaritaetsregel` and `genesis` for C11 and C12),
+readings on 43 pages, twelve conflicts and three questions moved, J68. It ranks
+itself below the storyform document; recorded, not applied.
+`Wiki/compare/reconcile-14-kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md` has the record.
+
 **The twelfth is done: `dramatica-dual-storyform-status-2026-05-07-md`, 2026-09-24.** 206 candidates, no pages,
 readings on 16 pages. **C8 is explained**: this is the lock-in that mirrored the
 Approach, and the character bible's Be-er is its „vorher". C2, C11, C12 and Q1 also
@@ -422,7 +432,7 @@ What it found:
   Sophia is placed nowhere.
 - It claims to be „autoritative Spec" (L1395). Recorded, not applied.
 
-What it leaves: 27 canon-era rows landed and unread (after document 12). Its own open table
+What it leaves: 26 canon-era rows landed and unread (after document 13). Its own open table
 (OQ-A … OQ-G, L1198–L1218) names what a later document would have to settle —
 the name of the plural AEGIS, Juna's modes, the mirror Alters' chapters.
 
@@ -555,8 +565,8 @@ are opt-in, and `md` takes the same text route that landed the four `md` rows on
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
 in another escaping — so 37 canon-era rows became 33, all landed. **Five are read**,
 `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`,
-`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` and `dramatica-dual-storyform-status-2026-05-07-md`,
-as documents 7 to 12 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
+`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, `dramatica-dual-storyform-status-2026-05-07-md`
+and `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, as documents 7 to 13 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
 documents) has not been compared against the landed files.
 
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe
