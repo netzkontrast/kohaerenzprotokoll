@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 2
+sources: 3
 pages: ["kael"]
 ---
 
@@ -36,3 +36,15 @@ sources wird die neue Ausgangslage." (decision 006)
 No position above is retired by its date or by a source's claim to be canon.
 This record is now an **item for discussion** with the author; it closes when the
 author decides it, and the decision will be written here with its date.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**A reading for the character bible's side, and a weaker one than it looks.** The
+document's synopsis opens: „Ein Mann erwacht in einer sterilen Stadt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L29] —
+„er weiß nicht, warum seine Knöchel bluten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L29]. And its physics lists them
+among the Landauer traces: „Temperaturspitzen, Ozon-Geruch, blutende Knöchel,
+Risse in der Stadtgeometrie" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L135].
+
+But the synopsis is not a chapter line. The Kap 1 line itself gives „Sensorik:
+sterile Leere, Ozon, weißes Licht." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962] — no knuckles. So this document
+places the image at the novel's opening without placing it in Kap 1.
