@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-16"
 ---
 
@@ -148,3 +148,18 @@ Her link to [[kael|Kael]] is the [[moonshine-link|Moonshine-Link]]; her anchor, 
 **Her first direct appearance is Kap 38** — „Ihre erste direkte Erscheinung in Kap 38 ist die Klimax dieser Modi, nicht ein neuer Modus." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L327] This sides with document 7 in conflict C7.
 
 Until then: „Telefon-Stille ist der Hauptanker." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L316] And „Juna-Seed seit Ch1, aber namenlos." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L340] Her POV: „Junas POV: offen." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L425]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**Julia→Juna, stated.** „Julia→**Juna**" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13] is one of the substitutions the
+document says it applied to the „Steinbruch" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13] on the way to canon. The page's
+question whether `Julia` and `Juna` are one entity now has a source that says
+the one name replaced the other; it is one source.
+
+„Juna = kosmologische Konstante, nie „Liebes-Interesse"" ^[kapitel-kompendium-gather-2026-05-31-md.md:L52], and in Kap 7
+„Juna-Regel:** nie Subjekt, nur Wirkung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L196]. Among A's forewarnings:
+„Junas zunehmende Stille" ^[kapitel-kompendium-gather-2026-05-31-md.md:L152].
+
+**No direct appearance is placed.** No chapter line here gives Juna one, and
+Vortex 2 (L240) does not mention it — nothing for conflict C7, from the document
+C7's record named as what would settle it.
