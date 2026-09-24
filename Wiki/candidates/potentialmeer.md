@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-17"
 ---
 
@@ -44,3 +44,7 @@ eingebunden ins Nichts-Rauschen." ^[kohaerenz-protokoll-begriffe-und-konzepte-20
 
 Kap 21: „Kael testet bewusst die Grenzen der Simulation. Spürt das Potentialmeer,
 AEGIS' Verletzlichkeit." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L741]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- sensed at simulation boundaries in chapter 21: „spürt Potentialmeer“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588]
