@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -33,3 +33,9 @@ Its roster row gives category `Spiegel`, function `AEGIS-Echo (Erason)` and arc 
 AEGIS does not know it exists: „AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L788]
 It is [[silas|Silas]]' counterpart; its functional sibling is [[mnemosyne|Mnemosyne]] —
 „Mnemosyne verwaltet, Oblivion löscht." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L791]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Oblivion (AEGIS-Echo)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L419], correlate „Erason-Operator" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L420].
+
+„Oblivion als Erason-Operator: er trägt einen Splitter von AEGIS in Kael." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448] „Er löscht, was Kael nicht aushält." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448]
