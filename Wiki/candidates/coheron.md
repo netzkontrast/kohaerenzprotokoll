@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -54,3 +54,8 @@ Silas' DKT-Korrelat is „Coheron-Echo" ^[kohaerenz-protokoll-charakter-bibel-20
 
 „Liebe ist Coheron; Coheronen sind atemporal" ^[kapitel-kompendium-gather-2026-05-31-md.md:L21] — the central question's
 answer, and „Verdrängung erzeugt Hitze" ^[kapitel-kompendium-gather-2026-05-31-md.md:L21].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Einzige Zone, in der neue Coheronen entstehen können" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L400] — KW4. And in the
+transitions: AEGIS registers them late, because „Coheron-Übergänge sind atemporal" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L736].
