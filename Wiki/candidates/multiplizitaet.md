@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-16"
 ---
 
@@ -82,3 +82,8 @@ Integration/funktionale Multiplizität (Vortex/Resolution)" ^[kapitel-kompendium
 
 Practised in KW4, in the [[moeglichkeits-garten|Möglichkeits-Garten]]: „überwucherte Ruinenarchitektur;
 Funktionale Multiplizität als Erlebnis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L461].
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+The reason [[kael|Kael]] is a Be-er: „Kaels Heilung ist Funktionale Multiplizität (*Sein*),
+keine externe Handlungssequenz." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L97]
