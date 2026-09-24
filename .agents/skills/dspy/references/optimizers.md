@@ -77,12 +77,20 @@ which `InferRules` inherits and `SIMBA` mostly does not.
 
 **Pinned, stratified folds; canaries never trained on.** `folds(labelled, k)`
 sorts each decision class by `baseline.digest(id)` and deals round-robin into
-`k` buckets (`scripts/pairs.py`), so the same 57 rows always land in the
-same folds regardless of run order. `canaries()` returns
-`selftest.MUST_NOT_MERGE` (`Negentropie`/`Entropie` first) — these never enter
-`labelled`, so they never enter a fold or a trainset; they are asked, once per
+`k` buckets (`scripts/pairs.py`), so the same model rows always land in the
+same folds regardless of run order. `model_rows()` excludes the exact canary
+pairs first, including J5, which is present in the judgement ledger. `canaries()`
+returns `selftest.MUST_NOT_MERGE`; they are asked once per
 compiled program, after every fold and again after the final full compile
 (`scripts/pairs.py`, `canaries()` and the loop after the final compile).
+
+**The labeled rung uses explicit demos.** DSPy 3.3.1 samples `k` rows with a
+fixed seed by default; `pairs.py` instead reserves two of eight slots for
+ledger-labelled lookalikes that are distinct terms, then adds a positive and
+stable-ID examples from that fold's training rows. It compiles with
+`sample=False`, asserts that the predictor received those IDs, and records
+them in the baseline note. This selection applies only to `labeled`; the
+other optimizers retain their own training behavior.
 
 **A canary merge vetoes the run, whatever its score.** If the rule named by
 `--rule` already says `one-term` for a canary pair the veto fires without a call

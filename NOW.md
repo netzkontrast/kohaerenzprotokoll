@@ -99,6 +99,13 @@ before this list.
 - **Model runs.** Three runs are one command each and wait on a yes, because
   each sends corpus words to OpenRouter: `pairs.py run --optimizer labeled
   --rule plural`, `graphrag.py ask --answer`, `rlm_ingest.py`.
+- **DSPy labeled demo selection, 2026-09-24.** The offline `pairs.py` run now
+  excludes every exact never-merge canary from model training, including J5
+  (`Negentropie`/`Entropie`) which the ledger also contains. Its labeled rung
+  puts two other documented hard negatives in each fold's eight demos and
+  records the chosen IDs. This repairs the claimed holdout and makes the
+  selection inspectable; it does not establish a quality gain without a
+  separately approved model run.
 - **TypeSafe/Jev beyond the two uses already approved.**
 - **How far `ask` may go** — chosen quotations only, or also a framing sentence
   marked as the model's.

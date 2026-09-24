@@ -966,7 +966,7 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `lmrun.py` | how `pairs.py` and `graphrag.py` call a model: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision |
 | `lm_fixture.py` | an offline `dspy.BaseLM`; `offline()` hides every `*_API_KEY` and replaces `litellm.completion` with a refusal, because a scanned repository's unmocked test made a live call from this container |
 | `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor** — the floor candidate's newest row on the same trainset — not only one that fell since the last row, and a `vetoed` row fails whatever its score |
-| `pairs.py` | one-term-or-two: a rule first (`fold()`, or the plural rule of decision 010), a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
+| `pairs.py` | one-term-or-two: a rule first (`fold()`, or the plural rule of decision 010), a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries; J5 is excluded from model training, and the `labeled` rung reserves two demo slots for other hard negatives |
 | `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
