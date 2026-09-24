@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -69,3 +69,11 @@ Wärme-Phänomen — Landauer-Hitze als somatischer Filter." ^[dramatica-dual-st
 document 7's lock keeps. And a bridge-scene cue: „Kaels warme Kontemplation kippt
 für einen Atemzug in AEGIS-Kühle und zurück" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L344] — warm for Kael, cool for
 [[aegis|AEGIS]], three weeks before the 2026-05-30 lock. Conflict C11.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+**The heat rule, restated.** „Kaltes Ozon (scharf, elektrisch) =
+AEGIS-Unterdrückung / Landauer-Signatur." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L428] „Wärme = Junas ununterdrückbare
+Spur (Coheron-Verdrängung)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L429] And in §1: the signatures are „kaltes Ozon,
+scharf, elektrisch (nicht Wärme; siehe Hitze-Polaritätsregel)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L52]. Conflict
+C11, document 7's side; the rule now has its own page, [[hitze-polaritaetsregel]].
