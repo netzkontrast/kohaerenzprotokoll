@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 9
-readings: 8
+sources: 10
+readings: 9
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -289,3 +289,14 @@ personell" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61].
 
 KW3 has no second name here and no [[nexus|Nexus]]; the [[nexus|Nexus]] sits between KW4 and the
 [[externe-ebene|Externe Ebene]] (L462). The tension document 10 carried (J63) is not in this one.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Wichtig: Die Kernwelten sind Akt-Marker, nicht je ein Guardian-Reich." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L401]
+The quarry filter: „20 Kernwelten → 4 (KW1–KW4 als Akt-Marker)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L809] Names:
+KW1 „Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L404], „KW3 — Cerberus-Labyrinth /
+Überwelt-Nexus." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L410], „KW4 — Resonanz-Kontinuum / Kairos-Potentialis /
+Möglichkeits-Garten." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L413]
+
+**KW3's second name is back**: „Überwelt-Nexus", as in the Kapitel-Kompendium and
+unlike „Kernwelten vollständig" of the same date (J63).
