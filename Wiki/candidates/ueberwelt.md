@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -131,3 +131,9 @@ verzeichnet sind" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md
 geschlossen." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L611] „Keine Heimat von Juna." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L612] Its Risse: „Risse
 erscheinen hier als Datenkorruption oder Signalrauschen" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L524]. Explicit as a
 setting only in Kap 33 (L805).
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„AEGIS' Operationsraum / Maschinenraum hinter dem Rendering." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L416] — the gloss
+the Kapitel-Kompendium gave to KW3's „Überwelt-Nexus", given here to the Überwelt
+itself, while KW3 carries the name again (L410; J63).
