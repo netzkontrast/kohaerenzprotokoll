@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-17"
 ---
 
@@ -99,3 +99,8 @@ Erinnerungsfragment, Telefonton, Geruch)" ^[kohaerenz-protokoll-storyform-und-ou
 „VI.7 Die Externe Ebene — Köln 2026" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L539]. „Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L540]
 
 Its sub-locations: „Junas Ankerpunkt, Garten der stillen Präsenz, Quelle des Flüsterns, Unkartiertes Territorium." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L546]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Outside the worlds, and never a stage: „nie Bühne, nur als Erinnerungsfragment,
+Telefonton, Geruch" ^[kapitel-kompendium-gather-2026-05-31-md.md:L170].
