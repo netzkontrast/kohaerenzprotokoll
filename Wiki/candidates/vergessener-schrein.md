@@ -1,10 +1,10 @@
 ---
 term: Vergessener Schrein
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 aliases: ["Vergessener Schrein (Trauma-Lokus)", "Trauma-Lokus"]
 gathered: "2026-09-17"
 ---
@@ -49,3 +49,9 @@ Trauma" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L311] and never names i
 Whether `Echo` is the trauma, a witness to it, or its bearer — the profile calls
 Echo „als Verkörperung des Traumas/der Emotion" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L319], which is two answers in
 one slash.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Kept from the quarry, labelled `[S]`: „zentrales Trauma-Symbol mit
+Dornen-Verschluss" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L272], „kompatibel als Lokus für Schicht-1-Trauma-Konfrontation"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L272].
