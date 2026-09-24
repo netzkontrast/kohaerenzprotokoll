@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -116,3 +116,9 @@ is not a surface of its head (J28).
 „VI.6 Die Überwelt — AEGIS' Maschinenraum" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L534]. „Hier residieren die zwei Guardians als abstrakte Entitäten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L535]. Sub-locations include the Wächter-Registry (L538).
 
 **And it is where Kap 1 wakes.** the sterile setting of KW1 „ist die Innere Weite (Überwelt)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L837] of Kap 0 — the same sentence in the chapter outline (L962). Its origin: „AEGIS schuf die Überwelt einst, um sich selbst zu optimieren" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L692].
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Outside the worlds: „Überwelt (Operationsraum von AEGIS)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L170]. **And inside
+one, as a name**: KW3 is „Cerberus-Labyrinth / Überwelt-Nexus", „Maschinenraum
+hinter dem Rendering" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165]. The document gives both and relates neither (J63).
