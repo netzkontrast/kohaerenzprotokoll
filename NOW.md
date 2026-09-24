@@ -32,11 +32,11 @@ Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations
 | **C3** | Where does AEGIS come from? | from nothing, before reality (`aegis-emergenz-aus-der-leere`) · from inside the simulation's dynamics (`kohaerenzprotokoll-aegis-und-systementropie`) · from Kael's defence in the Genesis, then became the world (konsolidiertes Konzept) |
 | **C4** | Whose is the blind spot — AEGIS' alone, or each Guardian's? | AEGIS' categorical blindness (`kohaerenzprotokoll-aegis-und-systementropie`) · five Guardians, five blind spots (`guardians-und-kern-welten-konzept`) |
 | **C5** | Is the Möglichkeits-Garten a whole Kern-Welt or a place inside KW4 — and what is KW4 called? | a Kern-Welt (`guardians-und-kern-welten-konzept`; storyform-und-outline 2026-06-10) · a location in KW4 (`roman-lokalitaeten-konzept-und-ausarbeitung`) · both: KW4 „Kairos-Potentialis (Garten der Möglichkeiten)" with a Möglichkeits-Garten inside it (konsolidiertes Konzept) |
-| **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) |
-| **C8** | AEGIS' Approach in Storyform B — Be-er or Do-er? | Be-er (Charakter-Bibel) · Do-er (storyform-und-outline; konsolidiertes Konzept) |
-| **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) |
-| **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) |
-| **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) |
+| **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) · the Kapitel-Kompendium, which C7's record expected to settle it, places none |
+| **C8** | AEGIS' Approach in Storyform B — Be-er or Do-er? | Be-er (Charakter-Bibel) · Do-er (storyform-und-outline; konsolidiertes Konzept; Kapitel-Kompendium) |
+| **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) |
+| **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) |
+| **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) · both orders and a fourth beat (Kapitel-Kompendium) |
 
 C1–C5 come from the 2025 research documents and have not been put to the author
 before this list.
@@ -64,7 +64,9 @@ before this list.
   / namenlos — the konsolidiertes Konzept's own OQ-A (L1199). No page until it is
   named.
 - **`kael-julia-bindung` (J13).** One document says `Kael-Julia-Bindung`, nine say
-  `Kael-Juna-Verbindung`. Is „Julia" a slip, an earlier name, or someone else?
+  `Kael-Juna-Verbindung`. The Kapitel-Kompendium now states „Julia→Juna" as a rename
+  it applied to its quarry (L13). Should the page be renamed, and is the older
+  `Kael-Julia-Bindung` a term of its own or only the old name?
 - **Juna's names.** `juna.md` is titled by a name the first read sources do not
   use, and `Partnerin` may be a third surface for her.
 
@@ -119,7 +121,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-330 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+374 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -186,7 +188,7 @@ written:
   catalogues every Drive document, the canon-era ones included, so they land
   through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
   from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
-  2026-09-24 (see *Landed* below); three are read — documents 7, 8 and 9, below. Still open: the
+  2026-09-24 (see *Landed* below); four are read — documents 7 to 10, below. Still open: the
   manuscript and the NCP files, which are not Drive documents and sit only under
   `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
@@ -362,6 +364,24 @@ high tier into it is the next step, and it is a person's.
 
 ## Next document — not yet chosen
 
+**The tenth is done: `kapitel-kompendium-gather-2026-05-31-md`, 2026-09-24.** 277 candidates, no new pages
+(a gather places, it does not define), readings on 28 pages, ten conflicts and two
+questions moved, J63. `Wiki/compare/reconcile-11-kapitel-kompendium-gather-2026-05-31-md.md` has the record.
+
+- **It names its own filter**: „Michael→Kael · Julia→Juna · 20 Kernwelten / 5
+  Guardians → 4 KW, 2 Guardians" (L13). Two renames the wiki had inferred from
+  dates are now stated.
+- **C7's record was wrong** to call this document not in `Sources/`; corrected
+  there. It does not settle C7 — it places no direct appearance for Juna.
+- **C11** — its first Riss is „Landauer-Hitze/Ozon", and its date is the day after
+  the 2026-05-30 cold-ozone lock. Document 7's line for the same Riss is this
+  sentence with `Hitze` replaced.
+- **C12** — it holds both orders of the Genesis and counts a fourth beat.
+- **KW3 is also „Überwelt-Nexus"** (L165) while the Überwelt is outside the worlds
+  (L170) — a tension inside one document, recorded on the pages (J63).
+- **Every open record was read against it** (the new ingest step): five were
+  unchanged and are listed in `reconcile.json`.
+
 **The ninth is done: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-09-24.** 446 candidates, 2 new pages
 (`erason`, `persistenzgleichung`), readings on 45 pages, two new conflicts (C11,
 C12), and C5–C10 and Q5 moved. `Wiki/compare/reconcile-10-koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md` has the record.
@@ -380,7 +400,7 @@ What it found:
   Sophia is placed nowhere.
 - It claims to be „autoritative Spec" (L1395). Recorded, not applied.
 
-What it leaves: 30 canon-era rows landed and unread. Its own open table
+What it leaves: 29 canon-era rows landed and unread (after document 10). Its own open table
 (OQ-A … OQ-G, L1198–L1218) names what a later document would have to settle —
 the name of the plural AEGIS, Juna's modes, the mirror Alters' chapters.
 
@@ -511,9 +531,9 @@ later, none failing. 26 were `md`, which `fetch` skipped before: the two new fla
 are opt-in, and `md` takes the same text route that landed the four `md` rows on
 2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
-in another escaping — so 37 canon-era rows became 33, all landed. **Three are read**,
-`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md` and
-`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, as documents 7, 8 and 9 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
+in another escaping — so 37 canon-era rows became 33, all landed. **Four are read**,
+`kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`,
+`koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` and `kapitel-kompendium-gather-2026-05-31-md`, as documents 7 to 10 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10
 documents) has not been compared against the landed files.
 
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe

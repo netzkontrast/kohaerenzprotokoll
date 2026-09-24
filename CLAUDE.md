@@ -68,8 +68,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, three of them
-read (documents 7, 8 and 9).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, four of them
+read (documents 7 to 10).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -99,11 +99,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**9 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **9
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **9
+**10 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **10
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **10
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-two `worldbuilding`, one `aegis`, one `storyform`, one `charaktere` and one
-`kernkonzept` — the last three from the canon era.
+two `worldbuilding`, one `aegis`, one `storyform`, one `charaktere`, one
+`kernkonzept` and one `plot-outline` — the last four from the canon era.
 
 `Wiki/candidates/` holds **78 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **12 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
@@ -123,6 +123,7 @@ has been promoted.
 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` | 4 | 17 | 1 |
 | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md` | 16 | 22 | 4 |
 | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` | 2 | 45 | 2 |
+| `kapitel-kompendium-gather-2026-05-31-md` | 0 | 28 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -171,7 +172,15 @@ case no precedence rule by date can settle.** Two pages came from it, both
 flat definitions from the physics it calls the literal law of the novel's world:
 `erason` and `persistenzgleichung`.
 
-`Plan/runs/judgements.jsonl` holds **62 <!--state:judgements.total--> judgements**
+**The tenth is the Kapitel-Kompendium, and it names its own filter.** A gather,
+chapter by chapter, that labels every passage and says what it changed on the way
+from its quarry: „Michael→Kael · Julia→Juna · 20 Kernwelten / 5 Guardians → 4 KW,
+2 Guardians". So two renames the wiki had inferred from dates are now stated by a
+source. Conflict C7's record named it as what would settle C7 and called it not in
+`Sources/`; it was landed, and it does not settle C7 — it places no direct
+appearance for Juna. **It added no pages**: a gather places, it does not define.
+
+`Plan/runs/judgements.jsonl` holds **63 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -343,7 +352,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**290 <!--state:wiki.relations--> links across
+**291 <!--state:wiki.relations--> links across
 78 <!--state:wiki.pages--> pages, 19 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -373,14 +382,14 @@ in a commit that names its source.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **104 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **802 <!--state:graph.edges--> edges** (`links`,
+citations and builds **105 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **861 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 848 <!--state:graph.evidence-->
-of them, **759 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 913 <!--state:graph.evidence-->
+of them, **822 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -673,7 +682,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 290 <!--state:wiki.relations-->.
+links. It has 291 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
@@ -700,8 +709,8 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**52 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
-30 <!--state:pairs.fold_correct--> of them.** Every optimizer on the ladder —
+**53 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+31 <!--state:pairs.fold_correct--> of them.** Every optimizer on the ladder —
 `labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
 `--dry-run`. **None has run against a real model**: that sends corpus words to
 a third party, and the author has not said yes to it. `scripts/rlm_ingest.py`

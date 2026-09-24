@@ -25,7 +25,7 @@ Kein vorheriger Kontext überlebt. Alles, was du weißt, musst du aus den Quelle
 > - Einen abgeleiteten Knowledge Graph (`scripts/graph.py`) und GraphRAG-Retrieval (`scripts/graphrag.py`), die nur zurückgeben, was die Seiten belegen.
 > - Eine DSPy-Werkzeugkette, die bisher kein Modell aufgerufen hat.
 >
-> **Was fehlt, ist der Roman im Graph.** Alle Drive-Quellen, auch die Kanon-Stände 2026-05/06, sind in `Sources/manifest.jsonl` katalogisiert. Alle 33 <!--state:sources.canon_era--> Einträge ab Mai 2026 sind seit 2026-09-24 als Volltext gelandet, 33 <!--state:sources.canon_era_landed--> davon (§2). Gelesen sind bisher drei: `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md` und `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` (2026-09-24, Dokumente 7, 8 und 9), mit Census, Note und Abgleich. Sie widersprechen einander an sechs Stellen (C7–C12), zwei davon zwischen Dokumenten desselben Datums. Manuskript und NCP sind keine Drive-Dokumente, sie liegen unter `Legacy/`. Die Einheit des bisherigen Wikis ist der *Begriff*. Dieser Auftrag verlangt zusätzlich *Kapitel*, *Locks* und *Plot*. Genau diesen Fall nennt Entscheidung 001 als Grund, sie zu revidieren: „if most questions are about chapters and plot rather than terms, the unit is wrong“.
+> **Was fehlt, ist der Roman im Graph.** Alle Drive-Quellen, auch die Kanon-Stände 2026-05/06, sind in `Sources/manifest.jsonl` katalogisiert. Alle 33 <!--state:sources.canon_era--> Einträge ab Mai 2026 sind seit 2026-09-24 als Volltext gelandet, 33 <!--state:sources.canon_era_landed--> davon (§2). Gelesen sind bisher vier: `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` und `kapitel-kompendium-gather-2026-05-31-md` (2026-09-24, Dokumente 7 bis 10), mit Census, Note und Abgleich. Sie widersprechen einander an sechs Stellen (C7–C12), zwei davon zwischen Dokumenten desselben Datums. Manuskript und NCP sind keine Drive-Dokumente, sie liegen unter `Legacy/`. Die Einheit des bisherigen Wikis ist der *Begriff*. Dieser Auftrag verlangt zusätzlich *Kapitel*, *Locks* und *Plot*. Genau diesen Fall nennt Entscheidung 001 als Grund, sie zu revidieren: „if most questions are about chapters and plot rather than terms, the unit is wrong“.
 
 ---
 
@@ -197,9 +197,9 @@ SPEC.md               # Phase 0
 > | Soll | Existiert als | Deckt ab |
 > |---|---|---|
 > | `kg/sources/manifest.jsonl`, `kg/raw/` | `Sources/manifest.jsonl`, `Sources/drive/*.md`, `Sources/duplicates.jsonl` | Katalog, Checksummen, Dedupe. Legacy-Kanon und Manuskript fehlen. |
-> | `claims.jsonl` | `Sources/terms/*.md` (Census), `Sources/notes/*.md` (Notes mit `^[Lnn]`-Zitaten) für 9 <!--state:documents.with_census--> Dokumente | Aussagen mit Zitat und Zeile. Noch ohne Prädikat-Vokabular. |
-> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 104 <!--state:graph.nodes--> Knoten, 802 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
-> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 226 <!--state:proposals.entities--> Entitäten aus Leselisten; 62 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
+> | `claims.jsonl` | `Sources/terms/*.md` (Census), `Sources/notes/*.md` (Notes mit `^[Lnn]`-Zitaten) für 10 <!--state:documents.with_census--> Dokumente | Aussagen mit Zitat und Zeile. Noch ohne Prädikat-Vokabular. |
+> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 105 <!--state:graph.nodes--> Knoten, 861 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
+> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 226 <!--state:proposals.entities--> Entitäten aus Leselisten; 63 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
 > | `conflicts.jsonl` | `Wiki/conflicts/c1…c5` (Entscheidung 003: ein Record pro Streitfall, append-only) | 12 <!--state:wiki.conflicts--> Records. Kein Detektor, bisher jeder von einer Person gelesen. |
 > | `questions.jsonl` | `Wiki/questions/q1…q4`, dazu jede `## Open`-Sektion einer Seite | 5 <!--state:wiki.questions--> Fragen-Seiten und die offenen Aussagen, die `relations.py --open` erntet. |
 > | `wiki/konzepte/` | `Wiki/candidates/*.md` | 78 <!--state:wiki.pages--> Seiten, noch keine promoviert (`Wiki/terms/` existiert nicht). |
@@ -569,8 +569,8 @@ Nach jeder Phase: Commit, kurzer Statusbericht an den Autor, ein Eintrag in `lea
 > | Phase | Stand |
 > |---|---|
 > | 0 · Recon und Spec | Zugangs-Inventur weitgehend erledigt (§2 oben): Drive läuft über den Katalog in `Sources/`. Offen: `agency`, die claude.ai-Exporte, die Entscheidungen in Anhang C. `SPEC.md` existiert nicht. |
-> | 1 · Ingest und Katalog | **Katalog vollständig** (`Sources/manifest.jsonl`, 613 <!--state:sources.total--> Einträge), gelandet und dedupliziert sind 371 <!--state:sources.landed-->. **Die Kanon-Stände sind gelandet** (2026-09-24): 33 <!--state:sources.canon_era_landed--> von 33 <!--state:sources.canon_era--> Einträgen ab Mai 2026. Gelesen sind davon drei, `storyform-und-outline`, die `charakter-bibel` und das `konzept-konsolidiert` (2026-09-24). Außerhalb des Katalogs fehlen die claude.ai-Exporte und der Weg für Manuskript und NCP (C1). |
-> | 2 · Claims und Entitäten | Für 9 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
+> | 1 · Ingest und Katalog | **Katalog vollständig** (`Sources/manifest.jsonl`, 613 <!--state:sources.total--> Einträge), gelandet und dedupliziert sind 371 <!--state:sources.landed-->. **Die Kanon-Stände sind gelandet** (2026-09-24): 33 <!--state:sources.canon_era_landed--> von 33 <!--state:sources.canon_era--> Einträgen ab Mai 2026. Gelesen sind davon vier, `storyform-und-outline`, die `charakter-bibel`, das `konzept-konsolidiert` und das `kapitel-kompendium` (2026-09-24). Außerhalb des Katalogs fehlen die claude.ai-Exporte und der Weg für Manuskript und NCP (C1). |
+> | 2 · Claims und Entitäten | Für 10 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
 > | 3 · Konflikte | 12 <!--state:wiki.conflicts--> Records von Hand. Kein Detektor, keine Fixture aus Anhang B getestet. |
 > | 4 · Plot-Modell | Nicht begonnen. Die Kapitel-Köpfe im Manuskript (`Outline`, `Beats`, `Locks`) sind der naheliegende erste Datensatz. |
 > | 5 · Selbstfragen | Fragen-Seiten und `## Open`-Sektionen existieren, kein Loop. |
@@ -774,7 +774,7 @@ python3 scripts/pairs.py score                    # „ein Begriff oder zwei“ 
 - Kontext-Builder mit Token-Budget ↔ `kp context <kap> --budget`
 - Dramatica-Anbindung (Spec §8.5) ↔ §5.2
 
-Ihr Hinweis zur deutschen Flexion beim Alias-Matching trifft genau die Lücke, die hier `fold()` und `pairs.py` messen: 30 <!--state:pairs.fold_correct--> von 52 <!--state:pairs.labelled--> Paaren.
+Ihr Hinweis zur deutschen Flexion beim Alias-Matching trifft genau die Lücke, die hier `fold()` und `pairs.py` messen: 31 <!--state:pairs.fold_correct--> von 53 <!--state:pairs.labelled--> Paaren.
 
 `CLAUDE.md` beschreibt jedes Werkzeug. Den Katalog der guten, noch nicht gebauten Ideen führt `PRINCIPLES.md`. Die neun DSPy-Repositories, aus denen die Werkzeugkette portiert ist, sind in `Plan/concept/dspy-toolchain_2026-09-23.md` ausgewertet.
 
