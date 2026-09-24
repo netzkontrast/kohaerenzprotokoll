@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-24"
 ---
 
@@ -50,3 +50,8 @@ Akt III-A.
 Proposed, not locked: „Oblivion erstmals POV-fähig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L858] in Kap 32 (`[V]`),
 and a KW2 place named for him and [[mnemosyne|Mnemosyne]], „Mnemosyne ↔ Oblivion-Schnittstelle"
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L278] (`[V]`).
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+„Silas=Coheron-Echo, Oblivion=Erason-Operator" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L332] — a double figure whose POV
+scenes carry both storyforms (L332).
