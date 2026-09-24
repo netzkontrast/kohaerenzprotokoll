@@ -83,3 +83,13 @@ flashbacks: Cluster-Bildung in Kap 18 (L669), the [[trennungsprotokoll|Trennungs
 calls the distribution open: „Kap 18, 21, 22 als Flashback-Träger gesetzt; exakte
 Beat-Verteilung offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371]. The Kapitel-Kompendium gives the same two orders
 and the same fourth beat.
+
+## 2026-09-24 — audit: `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` holds both orders too
+
+Row 3 records only this document's fourth beat. The record audit of 2026-09-24
+(`Plan/runs/record-audit-2026-09-24/`) read it again against this record, and
+it orders the beats both ways, as the Kapitel-Kompendium and the strukturierter
+Outline above do. Kap 0 runs „Komponente 734 → Innere Weite" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298]
+and then a crisis ending „Systemischer Kollaps → Trennungsprotokoll" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298]
+— 734 before. Its OQ-C sets the flashbacks „Kap 18 (Cluster-Bildung) · Kap 21
+(Trennungsprotokoll) · Kap 22 (Komp 734)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L477] — 734 after.
