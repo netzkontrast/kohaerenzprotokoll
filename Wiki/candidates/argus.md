@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -40,3 +40,7 @@ From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 ents
 
 His scenes carry A with an overlay: „Argus (Meta-Kognition)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L318], „A, mit
 Kommentar-Überlagerung" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L318].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „Meta-Kognitiv" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L255], correlate „Fraktale" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L256], somatics „offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L257], arc „→ konstruktive Kritik" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L258].
