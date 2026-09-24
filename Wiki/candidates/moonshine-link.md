@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -55,3 +55,7 @@ A's relationship throughline is physical: „die Moonshine-Brücke ist eine echt
 Anstrengung, ein physikalisches Phänomen" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L210]. Its boundary is one of four
 points carried open from the Reset-Doc: „Wo genau ist die Grenze des
 Moonshine-Links?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L406]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Die nicht-lokale, von AEGIS' Sensorik nicht erfassbare Verbindung Kael↔Juna." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L384] — nicht versteckt, sondern unsichtbar.
