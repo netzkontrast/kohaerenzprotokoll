@@ -30,7 +30,7 @@ And they are [[aegis|AEGIS]]' failure made visible:
 
 ## Note on „nun"
 
-„können **nun** als […] interpretiert werden" — the word marks this as a *new*
+„können **nun** als […] interpretiert werden" ^[entropie-aegis.md:L94] — the word marks this as a *new*
 reading of an existing term. The Risse existed in the project before this
 document; what is new on 2025-04-17 is explaining them by entropy.
 
@@ -50,15 +50,15 @@ principle turned against itself.**
 
 | world | how a Riss shows | line |
 |---|---|--:|
-| [[konstrukt-stadt|Konstrukt-Stadt]] | „Logische Widersprüche werden greifbar" | 39 |
-| [[resonanz-landschaft|Resonanz-Landschaft]] | „Plötzliche, heftige emotionale Stürme" | 64 |
-| [[grenzfeste|Grenzfeste]] | „unerklärliche Sicherheitslücken" | 89 |
-| [[moeglichkeits-garten|Möglichkeits-Garten]] | „unkontrollierbare, destruktive Transformationen" | 128 |
+| [[konstrukt-stadt|Konstrukt-Stadt]] | „Logische Widersprüche werden greifbar" ^[guardians-und-kern-welten-konzept.md:L39] | 39 |
+| [[resonanz-landschaft|Resonanz-Landschaft]] | „Plötzliche, heftige emotionale Stürme" ^[guardians-und-kern-welten-konzept.md:L64] | 64 |
+| [[grenzfeste|Grenzfeste]] | „unerklärliche Sicherheitslücken" ^[guardians-und-kern-welten-konzept.md:L89] | 89 |
+| [[moeglichkeits-garten|Möglichkeits-Garten]] | „unkontrollierbare, destruktive Transformationen" ^[guardians-und-kern-welten-konzept.md:L128] | 128 |
 
 Logic made inconsistent, emotion made dissonant, security made porous, growth
 made destructive. That is a single claim about `Risse`, stated four times in
 four vocabularies — and it is more specific than document 1's „direkte
-Manifestationen einer Zunahme von Entropie", without contradicting it.
+Manifestationen einer Zunahme von Entropie" ^[entropie-aegis.md:L94], without contradicting it.
 
 ### `Glitches` confirmed as the same thing
 
@@ -90,7 +90,7 @@ document draws the consequence itself:
 > auf nicht verarbeitbare Stimuli \"glitcht\"." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L81]
 
 That is compatible with document 1's „direkte Manifestationen einer Zunahme von
-Entropie" and with document 4's four world-specific manifestations, and it
+Entropie" ^[entropie-aegis.md:L94] and with document 4's four world-specific manifestations, and it
 supplies the mechanism neither of them states.
 
 ### The register differs by level, and one level is not digital at all
@@ -147,7 +147,7 @@ sichtbar)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]. S
 
 **Five modes, two mirrors, four worlds.** The §12 table (L1003–L1008) gives each
 dissociative mode its bearer and distortion — Fight/Nyx kinetisch, Freeze/[[kiko|Kiko]]
-temporal, Flight/„Kiko (zweite Funktion), Lia" spatial, Collapse/[[moros|Moros]] gravitativ,
+temporal, Flight/„Kiko (zweite Funktion), Lia" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1006] spatial, Collapse/[[moros|Moros]] gravitativ,
 Sexualisiert/[[isabelle|Isabelle]] sensorisch. Two more for the mirrors — „Silas
 (Coheron-Echo): Relational/warm" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1016] and „Oblivion (Erason-Operator):
 Temporal/gravitativ" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1017] — and one per world (L1025–L1028).

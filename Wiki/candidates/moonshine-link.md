@@ -20,7 +20,7 @@ gathered: "2026-09-24"
 Kael Gnosis (direkte intuitive Einsicht), nicht Episteme (analytisches Wissen)."
 ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L260] Its body inside the system is [[silas|Silas]].
 
-Its boundaries are an open point by the document's own list — „Moonshine-Boundary-Conditions"
+Its boundaries are an open point by the document's own list — „Moonshine-Boundary-Conditions" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1242]
 (L1242), with a recommendation, not a lock.
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10

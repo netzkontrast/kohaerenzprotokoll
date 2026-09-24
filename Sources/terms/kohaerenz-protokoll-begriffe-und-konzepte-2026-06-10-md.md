@@ -36,7 +36,7 @@ candidates: 326
 
 **852 lines and no structure the profile can see**: 0 headings, 0 table rows. The
 export flattened it. Its sections survive as plain lines — „1 · Physik und
-Ontologie (DKT)" (L30) to „16 · Workflow-Meta" (L767) — and each entry is one line
+Ontologie (DKT)" ^[L30] (L30) to „16 · Workflow-Meta" ^[L767] (L767) — and each entry is one line
 beginning with its term and a full stop, often followed by `[K]`. The Alter table
 arrives **one cell per line, tab-indented** (L187–L270). No backslash escapes; this
 export is clean.
@@ -44,11 +44,11 @@ export is clean.
 ## Stance — a glossary that ranks itself below another document
 
 „Erklärt jeden Begriff aus kohaerenz-protokoll_storyform-und-outline_2026-06-10.md
-so, dass eine KI das Konzept ohne Vorwissen vollständig erfassen kann" (L2), and
+so, dass eine KI das Konzept ohne Vorwissen vollständig erfassen kann" ^[L2] (L2), and
 „Dieses File ist erläuternd, nicht normativ. Bei Konflikt gewinnt das
-Storyform-Dokument." (L2) It carries the same labels as that document: **110
+Storyform-Dokument." ^[L2] (L2) It carries the same labels as that document: **110
 `[K]`, 5 `[V]`, 2 `[S]`, 3 `[L]`.** One `könnte`, no other hedge. It also states a
-source hierarchy, „bei Konflikt gewinnt das Neuere" (L817).
+source hierarchy, „bei Konflikt gewinnt das Neuere" ^[L817] (L817).
 
 ## Candidates
 
@@ -389,32 +389,32 @@ has no frontmatter.
 
 | term | word | incl. compounds | what it means |
 |---|--:|--:|---|
-| `Cerberus`, `LogOS`, `Kairos` | 0 | 1–3 | only as a hyphen suspension, „Die alten Cerberus-, LogOS-, Kairos-Funktionen" (L306), or in world names |
+| `Cerberus`, `LogOS`, `Kairos` | 0 | 1–3 | only as a hyphen suspension, „Die alten Cerberus-, LogOS-, Kairos-Funktionen" ^[L306] (L306), or in world names |
 
 ## Surfaces — one thing wearing several names
 
 - **Each world has two or three names in its entry**: „KW1 — Konstrukt-Stadt
-  (Logos-Prime)" (L404), „KW3 — Cerberus-Labyrinth / Überwelt-Nexus" (L410), „KW4 —
-  Resonanz-Kontinuum / Kairos-Potentialis / Möglichkeits-Garten" (L413).
+  (Logos-Prime)" ^[L404] (L404), „KW3 — Cerberus-Labyrinth / Überwelt-Nexus" ^[L410] (L410), „KW4 —
+  Resonanz-Kontinuum / Kairos-Potentialis / Möglichkeits-Garten" ^[L413] (L413).
 - **`K₁`/`Kohärenz-Kernel`**, **`K₀`/`Kollaps-Kernel`** (L34, L37).
 - **`Ursprungs-Ich (Juna)`** (L155): the separated original self is glossed as Juna.
 
 ## Boundaries — one name wearing several things
 
 - **`Überwelt-Nexus`** is KW3's second name (L410), while the Überwelt is one of
-  „zwei Ebenen außerhalb" (L401).
-- **`Juna „erscheint" nicht`** (L363) and „direkt in Kap 38 (Stille-Beat als erste
-  direkte Erscheinung)" (L370) — the grammar rule and the chapter plan use the
+  „zwei Ebenen außerhalb" ^[L401] (L401).
+- **`Juna „erscheint" ^[L363] nicht`** (L363) and „direkt in Kap 38 (Stille-Beat als erste
+  direkte Erscheinung)" ^[L370] (L370) — the grammar rule and the chapter plan use the
   verb differently.
 
 ## Gaps — used as known, defined nowhere here
 
-The „Storyform-Dokument §3/§5/§6" it cites for tables (L422, L557), „Anhang-B"
-(L592), „Ouroboros-Konzeit H.5" (L625), `canon-meta.md`, `open-questions.md`,
+The `Storyform-Dokument §3/§5/§6` it cites for tables (L422, L557), „Anhang-B" ^[L592]
+(L592), „Ouroboros-Konzeit H.5" ^[L625] (L625), `canon-meta.md`, `open-questions.md`,
 `progress.md` (L817).
 
 ## Self-consistency
 
-The two readings of the verb „erscheinen" above; otherwise consistent, and every
+The two readings of the verb `erscheinen` above; otherwise consistent, and every
 entry marked `[K]` restates rather than sets — „Locks und Constraints werden hier
-referenziert, nicht neu gesetzt" (L2).
+referenziert, nicht neu gesetzt" ^[L2] (L2).

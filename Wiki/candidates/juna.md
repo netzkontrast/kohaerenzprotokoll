@@ -185,7 +185,7 @@ Juna auf?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L407]
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
-**Two uses of „erscheinen" in one glossary.** The grammar rule: „Juna „erscheint"
+**Two uses of `erscheinen` in one glossary.** The grammar rule: „Juna „erscheint"
 nicht; ihre Wirkung wird wahrnehmbar" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L363]. The chapter plan: „direkt in Kap 38
 (Stille-Beat als erste direkte Erscheinung)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L370], „Stille-Beat: Junas erste
 direkte Erscheinung — sie ist einfach da, ohne Worte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611]. Conflict C7, on

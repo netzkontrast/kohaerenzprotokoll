@@ -38,7 +38,7 @@ source; a shared head noun is not a shared referent (judgement J53).
 
 Here Landauer heat is visible everywhere, and warm: „diese Abwärme manifestiert sich diegetisch als Temperaturspitzen, Ozon-Geruch, blutende Knöchel, Risse in der Stadtgeometrie" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L135]. Ozone is in it, cold is not. Conflict C11.
 
-Kap 36 is „Vortex 1 Beats 4–5" (L1031), and document 7 keeps the warmth spike for Vortex 1, Beat 4 — so the two may disagree about Kap 6 alone. The records hold both; which reading governs is the author's call.
+Kap 36 is „Vortex 1 Beats 4–5" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1031] (L1031), and document 7 keeps the warmth spike for Vortex 1, Beat 4 — so the two may disagree about Kap 6 alone. The records hold both; which reading governs is the author's call.
 
 The passage names the heat (`Landauer-Abwärme`), the page names its rendering; they are two terms (J62), and the passage is placed here because what it describes is the rendering.
 

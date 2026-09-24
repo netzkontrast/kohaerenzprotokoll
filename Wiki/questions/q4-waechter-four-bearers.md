@@ -1,6 +1,6 @@
 ---
 id: Q4
-question: Which of the four things the corpus calls „Wächter" is the term, and how do the pages avoid claiming the word?
+question: Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
 documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
@@ -15,9 +15,9 @@ the [[aegis|AEGIS]] page and the match was wrong.
 
 | # | what `Wächter` names | where | line |
 |--:|---|---|--:|
-| 1 | **[[aegis|AEGIS]] itself**, as „Wächter der systemischen Stabilität" | on the [[aegis]] page, from document 3 | — |
+| 1 | **[[aegis|AEGIS]] itself**, as „Wächter der systemischen Stabilität" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] | on the [[aegis]] page, from document 3 | — |
 | 2 | **a Persona**, the one who primarily experiences the [[grenzfeste|Grenzfeste]] | `guardians-und-kern-welten-konzept` | 85 |
-| 3 | **a Guardian**, in a subplot title — „Das Dilemma des Wächters" | `aegis-subplots-kapitelweise-system-exploration-docx` | 279 |
+| 3 | **a Guardian**, in a subplot title — „Das Dilemma des Wächters" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L279] | `aegis-subplots-kapitelweise-system-exploration-docx` | 279 |
 | 4 | **[[kael|Kael]]**, in the novel's final image | `aegis-subplots-kapitelweise-system-exploration-docx` | 531 |
 
 The fourth is explicit:
@@ -30,7 +30,7 @@ The fourth is explicit:
 No source contradicts another. German uses one word where the corpus has four
 roles, and each use is locally correct. **The defect would be a page claiming the
 word** — and one nearly did: [[aegis]] carries „Wächter der systemischen
-Stabilität" as an alias, which is a *phrase*, but the index folds it to a key
+Stabilität" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] as an alias, which is a *phrase*, but the index folds it to a key
 that a bare `Wächter` matches.
 
 ## The pattern, which is what makes this worth a page
@@ -58,9 +58,9 @@ is never resolved by the surface.
 
 ## 2026-09-17 — document 6 breaks the register pattern, which was the test this page named
 
-This page said what would answer it: „Any document using `Wächter` in an
+This page said what would answer it: *Any document using `Wächter` in an
 analytic sentence would break the register pattern and make it a plain synonym
-problem."
+problem.*
 
 `roman-lokalitaeten-konzept-und-ausarbeitung` does exactly that, and further.
 
@@ -81,8 +81,8 @@ the four bearers, their domains and their infrastructure:
 
 ### So the register hypothesis is wrong, and it was a measurement
 
-„The English word is the analytic register and the German one the fictional
-register" held on one document and fails on the next. **The distribution tracks
+*The English word is the analytic register and the German one the fictional
+register* held on one document and fails on the next. **The distribution tracks
 the document, not the register** — document 5 is an English-leaning subplot brief
 and document 6 is a German worldbuilding catalogue, and each uses one word
 throughout.
@@ -101,7 +101,7 @@ narrative.
 
 ### What still must not happen
 
-A page claiming the word. The [[aegis]] alias „Wächter der systemischen Stabilität"
+A page claiming the word. The [[aegis]] alias „Wächter der systemischen Stabilität" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15]
 still folds to a key a bare `Wächter` matches, and document 6 would now map every
 one of its twelve analytic uses onto [[aegis]] by lookup if `Wächter` were added as
 a surface anywhere. **It was not added.** See `J33`.
@@ -122,7 +122,7 @@ again it is resolved by the sentence, not the surface (J20).
 
 ## 2026-09-24 — two more feminine uses, both titles
 
-`kohaerenz-protokoll-charakter-bibel-2026-05-08-md` calls [[mnemosyne|Mnemosyne]] „Erinnerungs-Wächterin" in her heading (L182) and gives
+`kohaerenz-protokoll-charakter-bibel-2026-05-08-md` calls [[mnemosyne|Mnemosyne]] „Erinnerungs-Wächterin" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L182] in her heading (L182) and gives
 [[selene|Selene]] the arc „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L494]
 The word keeps doing different jobs; J20's rule holds.
 

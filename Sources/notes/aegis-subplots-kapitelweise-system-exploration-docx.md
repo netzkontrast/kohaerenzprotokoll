@@ -104,13 +104,13 @@ should keep:
 **A `Riss` is failure; `Realitätsverformung` is intent.** The document separates
 them explicitly, which matters because both look the same from inside.
 
-## What AEGIS means by „Entropie" is posed as unanswered
+## What AEGIS means by `Entropie` is posed as unanswered
 
 > „Was *meint* es mit 'Entropie'? Ist es nur Chaos und Fehler, oder repräsentiert
 > es etwas Tieferes – Komplexität, Verbindung, Emotion, subjektive Erfahrung oder
 > sogar die 'Leere', die in seiner potenziellen Definition erwähnt wird?" ^[L286]
 
-„die in seiner potenziellen Definition erwähnt wird" is the document pointing at
+„die in seiner potenziellen Definition erwähnt wird" ^[L286] is the document pointing at
 a definition it does not have in front of it. **It is asking another document's
 question**, without naming it.
 
@@ -139,7 +139,7 @@ alone:
 
 The document never says what the slash means — two names for one entity, two
 entities always paired, or a name and an initial. It consistently calls the
-referent „die Anomalie" and places it **outside** the system: a threat „von *außerhalb* seiner kontrollierten Umgebung" ^[L420].
+referent „die Anomalie" ^[L420] and places it **outside** the system: a threat „von *außerhalb* seiner kontrollierten Umgebung" ^[L420].
 
 ## The ending states a term the wiki does not have
 

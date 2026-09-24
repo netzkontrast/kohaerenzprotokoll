@@ -35,7 +35,7 @@ What a Coheron is in the physics proper. The document excludes that on purpose:
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
-**What [[aegis|AEGIS]] takes for an error.** „Juna = Systemfehler" is [[aegis|AEGIS]]' belief; „Juna
+**What [[aegis|AEGIS]] takes for an error.** `Juna = Systemfehler` is [[aegis|AEGIS]]' belief; „Juna
 = echtes Coheron (Verbindung, die nie zerstört werden kann)" is what holds
 ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L108]. Why AEGIS cannot see them: „weil AEGIS' Sensorik strukturell temporal
 arbeitet und Coheronen atemporal sind" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L256]. The closing formula is the one

@@ -38,7 +38,7 @@ The whole document turns on one paradox stated up front ^[L15]:
 
 > AEGIS tolerates Kael's DID as *manageable* local entropy, but the catastrophe
 > is triggered by the loss of the Kael–Julia bond — a connection that is
-> **„für AEGIS selbst *prinzipiell unsichtbar*"**.
+> **„für AEGIS selbst *prinzipiell unsichtbar*" ^[L15]**.
 
 Everything else is the machinery that makes that paradox hold.
 
@@ -78,12 +78,12 @@ blind spot ^[L197].
 ### Entropie — a third sense, and this one is precise
 
 Where document 1 had entropy as disorder to be fought and document 2 as
-„schöpferische Matrix", this one gives it an operational definition:
+„schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126], this one gives it an operational definition:
 
 > Shannon entropy — „Maß für den mittleren Informationsgehalt oder die
 > Unsicherheit bezüglich des Zustands eines Systems" ^[L25]
 
-and `Kohärenz` as its complement — „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" und „über die *Redundanz*" ^[L27].
+and `Kohärenz` as its complement — „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" ^[L27] und „über die *Redundanz*" ^[L27].
 
 It then names six metrics AEGIS actually watches ^[L31–35, L91–96]: rate of
 logical contradictions, data-structure integrity, prediction deviation, resource
@@ -95,12 +95,12 @@ sharpest single artefact in the three documents.
 
 | term | reading | line |
 |---|---|---|
-| `Kael-Julia-Bindung` | „fundamentale Kohärenzstruktur", not a psychological relation | L104 |
+| `Kael-Julia-Bindung` | „fundamentale Kohärenzstruktur" ^[L104], not a psychological relation | L104 |
 | `Potentialmeer` | tied to Bohm's *implizite Ordnung* and the quantum potential | L106 |
 | `Externe Ebene` | the ontological layer the bond is anchored in, outside the simulation | L58, L124 |
 | `Ontologischer blinder Fleck` | AEGIS' categorial — not accidental — inability to perceive the bond | L53–61 |
 | `Maximale Entropie-Katastrophe` | total loss of structure; not noise but the end of pattern | L171 |
-| `Protokoll v1.4` | AEGIS' escalation protocol, ending in a „Universal Reboot" | L173–183 |
+| `Protokoll v1.4` | AEGIS' escalation protocol, ending in a „Universal Reboot" ^[L183] | L173–183 |
 | `Negentropie` | what the bond supplies, offsetting DID's entropy | L122 |
 | `DID` | localized, quantifiable, *manageable* noise — complexity, not incoherence | L41–47 |
 
@@ -138,13 +138,13 @@ talking to itself through a research tool.
 **So a result document contains two kinds of statement, and they are marked.**
 What the project already believed, and what the research concluded. The
 distinction is invisible unless the marker is carried into the note — and a term
-page that recorded „die Bindung ist eine fundamentale Kohärenzstruktur" as a
+page that recorded `die Bindung ist eine fundamentale Kohärenzstruktur` as a
 research finding would be citing the project as evidence for its own premise.
 
 **12 of the 346 landed documents use the marker**, so this is a corpus-wide
 convention and not a quirk of one document.
 
-> Corrected. This read „24 of the 409 landed documents" until `dedupe.py` folded
+> Corrected. This read `24 of the 409 landed documents` until `dedupe.py` folded
 > Drive's duplicate exports away. Both numbers came from the same probe on the
 > same day; the corpus was 409 files and 346 documents, and the marker sat in
 > documents Drive happened to hold twice. **The claim was inflated by exactly the

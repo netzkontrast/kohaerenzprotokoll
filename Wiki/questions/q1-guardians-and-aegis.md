@@ -12,8 +12,8 @@ gathered: "2026-09-17"
 
 **Eleven pages ask this.** It is the most repeated open question in the wiki, and
 until now it was repeated rather than asked: each Guardian page and each
-Kern-Welt page carries some form of „`AEGIS` does not occur in this document, so
-the relation is not answerable from what has been read."
+Kern-Welt page carries some form of *`AEGIS` does not occur in this document, so
+the relation is not answerable from what has been read.*
 
 ## What the read documents say
 
@@ -107,8 +107,8 @@ So Q1 narrows again and does not close. Two documents now support *components*;
 neither states it outside a design instruction or a location's function, and
 *peers* and *a design it replaced* still have no support from anything read.
 
-**One thing it does close.** C4's „`KW2` und `KW4` appearing anywhere would also
-help, since the numbering is the one place the two documents nearly touch" is
+**One thing it does close.** C4's *`KW2` und `KW4` appearing anywhere would also
+help, since the numbering is the one place the two documents nearly touch* is
 satisfied: KW2 and KW4 appear 28 and 18 times here with their bearers, and the
 numbering now joins document 4's named worlds to document 5's numbers for all
 four. See [[kern-welten]]. That makes the two documents describe one arrangement —
@@ -158,7 +158,7 @@ Wächter-Registry is „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[koh
 
 ## 2026-09-24 — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
-**Instruments.** „Guardian-Deployments" are among [[aegis|AEGIS]]' acts (L97), and the overall
+**Instruments.** „Guardian-Deployments" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L97] are among [[aegis|AEGIS]]' acts (L97), and the overall
 story is „die Manipulation der simulierten Welt durch AEGIS+Guardians" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L206].
 Something [[aegis|AEGIS]] deploys is not its peer.
 

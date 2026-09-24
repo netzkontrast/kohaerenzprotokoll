@@ -21,7 +21,7 @@ the same nine fields. Nothing else read so far names Kairos at all.
 
 ### Blinder Fleck — **contextual**
 
-He reads her correctly as energy and possibility and misses necessity: he sees „die *Gelegenheit*" but not „die *Notwendigkeit* ihrer spezifischen Reintegration" ^[guardians-und-kern-welten-konzept.md:L105].
+He reads her correctly as energy and possibility and misses necessity: he sees „die *Gelegenheit*" ^[guardians-und-kern-welten-konzept.md:L105] but not „die *Notwendigkeit* ihrer spezifischen Reintegration" ^[guardians-und-kern-welten-konzept.md:L105].
 
 The document's closing claim makes this structural rather than incidental:
 „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians logisch aus

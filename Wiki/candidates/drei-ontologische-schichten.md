@@ -22,6 +22,6 @@ gathered: "2026-09-24"
 3. „Juna als Zeit-Prinzip — kosmologische Konstante, die zwischen den Schichten
    wirkt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L75].
 
-The konsolidiertes Konzept has the same three as „I.1 Die drei Schichten" (L51 of
+The konsolidiertes Konzept has the same three as „I.1 Die drei Schichten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L51] (L51 of
 that document), not attached. Not to be confused with the two *trauma* layers,
 also called „Schicht" in both documents.

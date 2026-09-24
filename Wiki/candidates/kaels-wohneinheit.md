@@ -65,7 +65,7 @@ the page records both (judgement J50).
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
 „Wohneinheit 14/Sektor 7/Wohneinheit 734-K" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L311] — a fuller address than
-the other canon-era source's „Wohneinheit 734", for the same dwelling (J50).
+the other canon-era source's `Wohneinheit 734`, for the same dwelling (J50).
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 

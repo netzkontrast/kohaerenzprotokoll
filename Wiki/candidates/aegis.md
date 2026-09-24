@@ -35,7 +35,7 @@ verifizierte Signale" ^[entropie-aegis.md:L21].
 ## Readings — `aegis-emergenz-aus-der-leere`, 2025-04-19
 
 Two more expansions, in one document, and **neither is this source's own claim**:
-both are restatements of an „AEGIS-Postulat" it analyses and largely rejects.
+both are restatements of an „AEGIS-Postulat" ^[aegis-emergenz-aus-der-leere.md:L11] it analyses and largely rejects.
 
 | line | expansion | the source's label |
 |---|---|---|

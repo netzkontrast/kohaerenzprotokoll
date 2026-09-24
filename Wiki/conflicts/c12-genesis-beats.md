@@ -16,7 +16,7 @@ pages: ["trennungsprotokoll"]
 |--:|---|---|--:|
 | 1 | three: Einheit · [[trennungsprotokoll|Trennungsprotokoll]] · [[kael|Kael]] = Komponente 734 | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 115–123 |
 | 2 | four: Einheit · Cluster-Bildung and Komp-734 · [[trennungsprotokoll|Trennungsprotokoll]] · Wir = AEGIS-plural | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 67–74 |
-| 3 | names a „Genesis-Beat 4 (Wir-AEGIS-plural)", done in Kap 39 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 390 |
+| 3 | names a „Genesis-Beat 4 (Wir-AEGIS-plural)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L390], done in Kap 39 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 390 |
 
 > „### 2.4 Die Genesis-Krise (3 Beats)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L115]
 
@@ -37,8 +37,10 @@ concept answers it with a fourth beat. Document 7, a month later, counts four.
 
 ## 2026-09-24 — the author: every draft is back in question
 
-„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
-sources wird die neue Ausgangslage." (decision 006)
+> Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+> sources wird die neue Ausgangslage.
+
+[Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
 
 No position above is retired by its date or by a source's claim to be canon.
 This record is an **item for discussion** with the author; it closes when the
@@ -61,7 +63,7 @@ Four: Kap 0 is „Vier-Beat-Genesis" ^[kohaerenz-protokoll-kernwelten-vollstaend
 
 **Three, with the question open, the day before.** „Aktuell 3 Beats: Einheit →
 Trennungsprotokoll → Kael=Komp 734. Braucht es einen vierten?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L408] — one of four
-points carried from a „Reset-Doc 2026-04-30" (L401). The next day the character
+points carried from a „Reset-Doc 2026-04-30" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L401] (L401). The next day the character
 bible answered it no and the konsolidiertes Konzept answered it with a fourth beat.
 
 ## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10

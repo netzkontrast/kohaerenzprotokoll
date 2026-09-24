@@ -15,15 +15,14 @@ new_readings: 43
 `python3 scripts/reconcile.py kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`
 
 326 candidates, 338 decisions — **274 by lookup, 64 to judgement.** Document 13,
-the „Begriffs- und Konzept-Companion" of 2026-06-10: one line per term, 110 `[K]`,
+the „Begriffs- und Konzept-Companion" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L1] of 2026-06-10: one line per term, 110 `[K]`,
 written to explain the storyform-und-outline to a reader without context.
 
 ## What kind of document this is
 
 **A glossary that ranks itself below another document**: „Dieses File ist
 erläuternd, nicht normativ. Bei Konflikt gewinnt das Storyform-Dokument."
-^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L2] — and one that states a source hierarchy, „bei Konflikt gewinnt das
-Neuere" (L817). **Both recorded, neither applied** (decision 006). A glossary's
+^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L2] — and one that states a source hierarchy, `bei Konflikt gewinnt das Neuere` (L817). **Both recorded, neither applied** (decision 006). A glossary's
 sentences restate; they do not set locks, and it says so (L2).
 
 ## Seven pages, by two rules the document supplies
@@ -47,22 +46,22 @@ Every lookup hit, the thirteen Alters from its table, plus `landauer-signatur`,
 
 | | this document | line |
 |---|---|--:|
-| C2 | **a fourth sense**: K₀ „nicht Chaos, sondern die Bedingung für Ereignisse überhaupt" | 37 |
-| C10 | names the lock's source: „Lock Kompendium 2026-05-31" — the Kapitel-Kompendium set document 7's side | 638 |
+| C2 | **a fourth sense**: K₀ „nicht Chaos, sondern die Bedingung für Ereignisse überhaupt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] | 37 |
+| C10 | names the lock's source: „Lock Kompendium 2026-05-31" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638] — the Kapitel-Kompendium set document 7's side | 638 |
 | C12 | a third arrangement: four beats, 734 made in beat 3 | 148 |
-| C7 | the verb split: Juna „erscheint" nicht (grammar), first appears Kap 38 (plan) | 363, 611 |
-| Q1 | Guardians lowered to „Sub-Aspekte" | 814 |
+| C7 | the verb split: Juna „erscheint" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L363] nicht (grammar), first appears Kap 38 (plan) | 363, 611 |
+| Q1 | Guardians lowered to „Sub-Aspekte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L814] | 814 |
 
 ## A new question
 
 The Trennungsprotokoll „die das Ursprungs-Ich (Juna) ins Nichts-Rauschen
-verbannt" (L155), while two entries earlier the Ursprungs-Ich resonates *with*
+verbannt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L155] (L155), while two entries earlier the Ursprungs-Ich resonates *with*
 Juna (L147). Two terms (J68); a question for the author.
 
 ## KW3's second name is back
 
-„KW3 — Cerberus-Labyrinth / Überwelt-Nexus." (L410), as in the Kapitel-Kompendium
-and unlike „Kernwelten vollständig" of the same date. J63 holds.
+„KW3 — Cerberus-Labyrinth / Überwelt-Nexus." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L410] (L410), as in the Kapitel-Kompendium
+and unlike „Kernwelten vollständig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L11] of the same date. J63 holds.
 
 ## Judgements
 

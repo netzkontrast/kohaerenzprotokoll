@@ -17,11 +17,11 @@ gathered: "2026-09-17"
 
 | Guardian | line | the sentence opens |
 |---|--:|---|
-| [[logos|LogOS]] | 29 | „Im Überraum manifestiert sich LogOS" |
-| [[mnemosyne|Mnemosyne]] | 54 | „Im Überraum erscheint Mnemosyne" |
-| [[cerberus|Cerberus]] | 79 | „Im Überraum könnte Cerberus" |
-| [[kairos|Kairos]] | 106 | „Im Überraum könnte Kairos" |
-| [[sophia|Sophia]] | 118 | „Im Überraum könnte Sophia" |
+| [[logos|LogOS]] | 29 | „Im Überraum manifestiert sich LogOS" ^[guardians-und-kern-welten-konzept.md:L29] |
+| [[mnemosyne|Mnemosyne]] | 54 | „Im Überraum erscheint Mnemosyne" ^[guardians-und-kern-welten-konzept.md:L54] |
+| [[cerberus|Cerberus]] | 79 | „Im Überraum könnte Cerberus" ^[guardians-und-kern-welten-konzept.md:L79] |
+| [[kairos|Kairos]] | 106 | „Im Überraum könnte Kairos" ^[guardians-und-kern-welten-konzept.md:L106] |
+| [[sophia|Sophia]] | 118 | „Im Überraum könnte Sophia" ^[guardians-und-kern-welten-konzept.md:L118] |
 
 Five for five. The term appears nowhere else in the document.
 

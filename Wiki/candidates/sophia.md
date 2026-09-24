@@ -65,7 +65,7 @@ measurement, because it is a fact about this surface:
 | `Kairos/Sophia` | 10 |
 
 Document 4 distinguishes the two and gives Sophia her own „ruhige, leuchtende
-Präsenz". This document offers nothing to set against that — it simply never
+Präsenz" ^[guardians-und-kern-welten-konzept.md:L118]. This document offers nothing to set against that — it simply never
 takes the pair apart.
 
 ### Note

@@ -41,17 +41,17 @@ arrive as `SYSTEM\_KAEL`, so a matcher on the plain names finds nothing.
 
 ## Stance — a consolidation that labels its places
 
-„Vollständige Konsolidierung aller Welt-Informationen für das Drafting" (L13).
+„Vollständige Konsolidierung aller Welt-Informationen für das Drafting" ^[L13] (L13).
 The same line defines four labels and a filter: `[K]` kanonisch, `[V]` Vorschlag,
 `[S]` Steinbruch-gefiltert, `[L]` Lücke. Counted over every escaping: **30 `[K]`,
 28 `[V]`, 22 `[S]`, 10 `[L]`.** Most sub-location tables come in two halves, a
-„Kanonisch" one and a „Steinbruch-gefiltert" one, and the label is per row.
+„Kanonisch" ^[L145] one and a „Steinbruch-gefiltert" ^[L13] one, and the label is per row.
 Hedging is almost absent (`vermutlich` 1, `Möglicherweise` 1); open points are a
-table, „§14 · Offene Punkte" (L933).
+table, „§14 · Offene Punkte" ^[L933] (L933).
 
 **It names what it filtered out.** The old location concepts „enthalten \~50
 Orte, viele davon mit dekanonisierten Charakteren (Echo, Nox, Limina als Alter;
-LogOS, Cerberus, Kairos, Sophia als aktive Guardians)" (L13); world names stay,
+LogOS, Cerberus, Kairos, Sophia als aktive Guardians)" ^[L13] (L13); world names stay,
 figures go.
 
 ## Candidates
@@ -362,34 +362,34 @@ frontmatter ends at L9.
 | term | word | incl. compounds | what it means |
 |---|--:|--:|---|
 | `SYSTEM_KAEL`, `EXTERNE_AUFMERKSAMKEITS_METRIK`, `JUNA_VEKTOR`, `PARADOX_INDEX` | 0 | 0 | escaped, `SYSTEM\_KAEL` (L544 ff.) |
-| `Realitätsebenen` | 0 | 0 | the document says „Sechs Ebenen" (L13, L67), never this word |
-| `Crew-Setting` | 0 | 0 | „Spiel-/Crew-/Crawler-Setting" (L63) — a hyphen list |
+| `Realitätsebenen` | 0 | 0 | the document says „Sechs Ebenen" ^[L13] (L13, L67), never this word |
+| `Crew-Setting` | 0 | 0 | „Spiel-/Crew-/Crawler-Setting" ^[L63] (L63) — a hyphen list |
 | `Coheron` | 0 | 6 | only plural or compounds, `Coheronen`, `Coheron-Debüt` |
 | `K₀`, `Hyperalert`, `Foreshadowing`, `Cache-Konflikt`, `Slot-16`, `Polanyi`, `Sprach-DNA`, `Logikregime`, `Schicht-1-Trauma` | 0 | ≥1 | only inside compounds or hyphen chains |
 
 ## Surfaces — one thing wearing several names
 
 - **KW4 has three names**, all canonical: „KW4 — Kairos-Potentialis /
-  Möglichkeits-Garten / Resonanz-Kontinuum" (L26, L396), „Andere kanonische
-  Namen: „Möglichkeits-Garten", „Resonanz-Kontinuum"" (L404).
-- **KW1 has two**: „Konstrukt-Stadt / Logos-Prime" (L23, L83).
-- **The Wohneinheit is also „Einheit 734"** on Kael's console (L152).
+  Möglichkeits-Garten / Resonanz-Kontinuum" ^[L26] (L26, L396), „Andere kanonische
+  Namen: „Möglichkeits-Garten" ^[L404], „Resonanz-Kontinuum"" ^[L404] (L404).
+- **KW1 has two**: „Konstrukt-Stadt / Logos-Prime" ^[L23] (L23, L83).
+- **The Wohneinheit is also „Einheit 734" ^[L152]** on Kael's console (L152).
 - **`Verschränkungs-Insel` and `Jenseits-des-Ereignishorizonts-Bereich`** name
   one place (L577).
 
 ## Boundaries — one name wearing several things
 
 - **`Möglichkeits-Garten` is a world and a place in it.** A name of KW4 (L396)
-  and „Der Möglichkeits-Garten" among KW4's canonical sub-locations (L461).
+  and „Der Möglichkeits-Garten" ^[L461] among KW4's canonical sub-locations (L461).
 - **`Nexus`** is the canonical transition place „zwischen KW4 und Externer
-  Ebene" (L462) and part of the Überwelt's „AEGIS-Kern-Nexus" (L588, `[S]`).
+  Ebene" ^[L462] (L462) and part of the Überwelt's „AEGIS-Kern-Nexus" ^[L588] (L588, `[S]`).
 - **World names are kept, figures are not**: „Cerberus-Labyrinth heißt so, aber
-  Cerberus existiert nicht als Figur" (L13).
+  Cerberus existiert nicht als Figur" ^[L13] (L13).
 
 ## Gaps — used as known, defined nowhere here
 
-The „Anteile-Profil" and „Welt-Doku" it cites by section (L236, L773), „Slot-16"
-(L831), „Iser-Wheelerian" (L626), `OrteKonzeptFurKoharenzProtokoll.md` and
+The „Anteile-Profil" ^[L283] and „Welt-Doku" ^[L773] it cites by section (L236, L773), „Slot-16"
+(L831), „Iser-Wheelerian" ^[L626] (L626), `OrteKonzeptFurKoharenzProtokoll.md` and
 `RomanLokalitatenKonzeptUndAusarbeitung.md` (L13), the Mnemosyne-Server image
 it leaves open (L254).
 
@@ -398,5 +398,5 @@ it leaves open (L254).
 - Kap 33 is both a Überwelt setting (L577, L805) and the Garten der stillen
   Präsenz, which is listed in KW4 (L480) and in the Externe Ebene (L665) — the
   document marks it a cross-reference both times.
-- Ozone is „kalt-elektrisch" in KW1 (L110), and the transition out of KW1 is a
-  thermal Riss with „Landauer-Wärme spürbar" (L764).
+- Ozone is „kalt-elektrisch" ^[L110] in KW1 (L110), and the transition out of KW1 is a
+  thermal Riss with „Landauer-Wärme spürbar" ^[L764] (L764).

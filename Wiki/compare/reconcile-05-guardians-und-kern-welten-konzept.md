@@ -85,7 +85,7 @@ one). **`AEGIS` occurs zero times here**, in 5,839 words about the system it is
 elsewhere said to run.
 
 A corpus-wide search finds a passage that appears to settle it — „Modelliert den
-Guardian als funktionale Komponente innerhalb der AEGIS-Architektur" — in
+Guardian als funktionale Komponente innerhalb der AEGIS-Architektur" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L50] — in
 `aegis-subplots-kapitelweise-system-exploration-docx`, which has **no census, no note
 and no reconciliation.**
 

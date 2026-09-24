@@ -31,9 +31,9 @@ for, none supplied:
 
 | sense | asked at |
 |---|---|
-| thermodynamic — „Maß für Unordnung/Zustandsvielfalt", Zweiter Hauptsatz | L29 |
-| information-theoretic — Shannon, „Maß für Unsicherheit, Informationsgehalt, Rauschen, Redundanz" | L31 |
-| metaphorical — „psychische Entropie", entropy in social systems | L33 |
+| thermodynamic — „Maß für Unordnung/Zustandsvielfalt" ^[entropie-aegis.md:L29], Zweiter Hauptsatz | L29 |
+| information-theoretic — Shannon, „Maß für Unsicherheit, Informationsgehalt, Rauschen, Redundanz" ^[entropie-aegis.md:L31] | L31 |
+| metaphorical — „psychische Entropie" ^[entropie-aegis.md:L33], entropy in social systems | L33 |
 
 So this source supports **four distinct things called entropy** and defines none
 of them: three it names as external and asks about, and a fourth — its own
@@ -41,7 +41,7 @@ working sense — that it uses throughout without ever naming as separate.
 
 ## What this page must not say
 
-„This source defines entropy as the transition from order to disorder." It does
+`This source defines entropy as the transition from order to disorder.` It does
 not. It *assumes* that, and asks what entropy is. A page that recorded the
 assumption as a definition would attribute to this document the one thing it
 explicitly says it does not have.
@@ -100,11 +100,11 @@ uses to see it:
 
 | instrument | where | line |
 |---|---|--:|
-| „Entropiegrad", which increases and manifests as `Risse` | a Kern-Welt's changing architecture | 37 |
-| „Entropielevel" | on the system monitor, beside Systemintegrität | 464 |
-| „Entropie-Hotspots in Echtzeit" | the monitor's live visualisation | 465 |
-| „Entropie-Indikatoren" | the monitor's landmarks | 470 |
-| „Entropie-Ausgleichs-Kammer" | a location in the [[ueberwelt|Überwelt]] | 229 |
+| „Entropiegrad" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L37], which increases and manifests as `Risse` | a Kern-Welt's changing architecture | 37 |
+| „Entropielevel" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L464] | on the system monitor, beside Systemintegrität | 464 |
+| „Entropie-Hotspots in Echtzeit" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L465] | the monitor's live visualisation | 465 |
+| „Entropie-Indikatoren" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L470] | the monitor's landmarks | 470 |
+| „Entropie-Ausgleichs-Kammer" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L229] | a location in the [[ueberwelt|Überwelt]] | 229 |
 
 The chamber is the only place in the read corpus where entropy management is
 given a mechanism rather than a name:
@@ -117,7 +117,7 @@ given a mechanism rather than a name:
 > Kampf gegen den Zerfall. Symbol für die (vielleicht vergebliche) Anstrengung,
 > perfekte Ordnung zu erzwingen." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L484]
 
-**„hypothetischer" and „vielleicht vergebliche" are the document's own hedges**,
+**„hypothetischer" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L481] and „vielleicht vergebliche" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L484] are the document's own hedges**,
 and the chamber's row is marked `Explorative V2` — invented here. So this is a
 proposal about how the management works, not a report of it.
 
@@ -147,7 +147,7 @@ Detail" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L13].
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
 **What [[aegis|AEGIS]] is, against what it believes.** The paradox table: „AEGIS =
-Kohärenz-Kernel (K1)" against „AEGIS = Entropie-Architektur (K0)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L105].
+Kohärenz-Kernel (K1)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L105] against „AEGIS = Entropie-Architektur (K0)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L105].
 And the mechanism: „Das System produziert die Entropie, die zu bekämpfen es
 behauptet." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L98]
 
@@ -163,7 +163,7 @@ The inversion again: AEGIS „*ist* aber K₀ (Entropie)" ^[kapitel-kompendium-g
 
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
-B's premise: operative closure „generiert die Entropie, die er bekämpft" — „Wer
+B's premise: operative closure „generiert die Entropie, die er bekämpft" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L218] — „Wer
 Kontradiktionen löscht statt integriert, generiert die Entropie, die er bekämpft."
 ^[dramatica-dual-storyform-status-2026-05-07-md.md:L218]
 

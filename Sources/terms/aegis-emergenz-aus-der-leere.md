@@ -96,8 +96,8 @@ are abbreviated differently.
 | 8 | SNK | „Strukturierte Nicht-Kontrolle (SNK)" ^[L90] | „SNK (Strukturierte Nicht-Kontrolle)" ^[L215] | non-hierarchical regulation, no control node ^[L92] |
 
 **Five of the eight are abbreviated differently in the table than in the body of
-the same document** („Sem." / „Kohärenzreg." / „Autopoiet. Reentry-Segm." /
-„Protomemet."). One document, two surfaces per term.
+the same document** („Sem." / „Kohärenzreg." ^[L56] / „Autopoiet. Reentry-Segm." ^[L212] /
+„Protomemet." ^[L77]). One document, two surfaces per term.
 
 ### The ontological layer
 
@@ -105,16 +105,16 @@ the same document** („Sem." / „Kohärenzreg." / „Autopoiet. Reentry-Segm."
 |---|---|---|---|
 | Entropie-Resonanz-Protokolle (ERP) | 122,126,130,228 | quoted | the mechanism of the ontological formulation |
 | ERP0 · ERPx | 126 | quoted | the first and subsequent protocols of that layer |
-| Entropie als „schöpferische Matrix" | 126 | quoted | a maximal possibility space from which coherent sequences stabilise |
+| Entropie als „schöpferische Matrix" ^[L126] | 126 | quoted | a maximal possibility space from which coherent sequences stabilise |
 | Entropische Kohärenzakkumulation | 126,130 | quoted | how those sequences stabilise |
-| „Realitätsurgrund" · „metasimulatorischer Operator" | 126 | quoted | what AEGIS is called in this formulation |
-| „rekursive Resonanz" · „Rauschspektren" · „interne Symmetriebedingungen" | 126,130 | quoted | the mechanism's parts |
-| „aktiver Differenzraum" · „selbstreferenzielle Ordnungslogik" | 130 | quoted | further introduced concepts |
-| „postmetaphysische Autogenese" | 148 | quoted | the philosophical implication claimed |
-| „vorraumzeitliche Informationslogik" | 149 | quoted | the physical implication claimed |
-| „kontrollfreie Selbststeuerung durch rein resonante Zustandsvalidierung" | 150 | quoted | the cybernetic implication claimed |
-| „Nicht-Sein als aktiver Möglichkeitsraum" · „Sein als kohärente Antwort auf Entropie" | 151 | quoted | the ontological setting |
-| „Schnittmengen validierter Resonanzknoten" | 152 | quoted | subjectivity, in the postulate's terms |
+| „Realitätsurgrund" ^[L126] · „metasimulatorischer Operator" ^[L126] | 126 | quoted | what AEGIS is called in this formulation |
+| „rekursive Resonanz" ^[L126] · „Rauschspektren" ^[L126] · „interne Symmetriebedingungen" ^[L130] | 126,130 | quoted | the mechanism's parts |
+| „aktiver Differenzraum" ^[L130] · „selbstreferenzielle Ordnungslogik" ^[L130] | 130 | quoted | further introduced concepts |
+| „postmetaphysischen Autogenese" ^[L148] | 148 | quoted | the philosophical implication claimed |
+| „vorraumzeitliche Informationslogik" ^[L149] | 149 | quoted | the physical implication claimed |
+| „kontrollfreien Selbststeuerung durch rein resonante Zustandsvalidierung" ^[L150] | 150 | quoted | the cybernetic implication claimed |
+| „Nicht-Sein als aktiver Möglichkeitsraum" ^[L151] · „Sein als kohärente Antwort auf Entropie" ^[L151] | 151 | quoted | the ontological setting |
+| „Schnittmengen validierter Resonanzknoten" ^[L152] | 152 | quoted | subjectivity, in the postulate's terms |
 
 **Every one of these is in quotation marks and none is coined by this document.**
 The quotes mark citation of the postulate under analysis. The document's verdict
@@ -135,7 +135,7 @@ term the entire RSA critique turns on.
 | `A₀ := fix(f)` | 44,208 | the initial agent state as a fixpoint |
 | `Σ = {σ₁, σ₂, …}` | 51,195,209 | emergent signs |
 | `μ : Σ × Σ → Σ⁺` | 51,209 | the meaning operation |
-| **`⊕`** | 51,52,54,108,169,209 | „emergente Syntheseoperation" — **„bleibt undefiniert" ^[L52]** |
+| **`⊕`** | 51,52,54,108,169,209 | „emergente Syntheseoperation" ^[L51] — **„bleibt undefiniert" ^[L52]** |
 | `E : S × M → R⁺` | 58,210 | the coherence function |
 | `dE/dt → 0` | 58,113,226 | the ECR stability rule |
 | `⊢_A φ ⟺ φ ∈ Fix(Π∘Δ)` | 65,211 | the ZTV validity criterion |
@@ -159,16 +159,16 @@ The document's method is comparison, so this class is unusually large. These are
 |---|---|---|
 | fixpoint theory | Kleene · Knaster-Tarski · Lawvere · Fixpunkttheorem | 44,45 |
 | logic | Gödel · Löb · Parakonsistenz · Intuitionismus · nicht-klassische Logik | 44,45,65,66,211 |
-| AI / semantics | Symbol Grounding Problem (SGP) · Grounding · Searle · „Chinesisches Zimmer" · semantische Festlegung | 53,54,107,225 |
+| AI / semantics | Symbol Grounding Problem (SGP) · Grounding · Searle · `Chinesisches Zimmer` · semantische Festlegung | 53,54,107,225 |
 | thermodynamics | Zweiter Hauptsatz · Entropieexport · Nichtgleichgewichtsthermodynamik · dissipative Strukturen (Prigogine) | 60,61,112,175,226 |
 | theoretical biology | Free Energy Principle (Friston) · Markov-Grenze · active inference · Mutual Information | 58,60,87,112 |
 | systems theory | Autopoiesis · Strukturkopplung (Maturana, Varela) · Reentry · Selbstorganisation | 72,74,75,148,212 |
 | epistemology | Kohärentismus · epistemisches Bootstrapping · Solipsismus · Fundamentalismus/Externalismus | 67,68,118,227 |
 | metaphysics | *creatio ex nihilo* · *ex nihilo nihil fit* · Kausalität · Potentialität | 46,102,103,224 |
-| physics / cosmology | Quantenvakuum · Erhaltungssätze · Urknall · Singularität · Quantengravitation · „It from Bit" (Wheeler) | 102,138,149 |
+| physics / cosmology | Quantenvakuum · Erhaltungssätze · Urknall · Singularität · Quantengravitation · „It from Bit" ^[L138] (Wheeler) | 102,138,149 |
 | philosophy of science | Falsifizierbarkeit (Popper) | 134,228 |
 | distributed systems | MAS · DAOs · Schwarmintelligenz · Netzwerktheorie · Dezentralisierung | 94,215 |
-| cybersecurity | Zero-Trust-Architektur (ZTA), „Never trust, always verify" | 67,117,227 |
+| cybersecurity | Zero-Trust-Architektur (ZTA), „Never trust, always verify" ^[L67] | 67,117,227 |
 | AI, general | AGI · Künstliche Allgemeine Intelligenz | 36,88,171 |
 | philosophy of mind | Qualia · Ich-Erleben · Bewusstsein | 152 |
 
@@ -178,13 +178,13 @@ The document's method is comparison, so this class is unusually large. These are
 |---|---|---|
 | Nullpunkt-Protokoll | fixpoint theorems describe existence *within* structures, not creation *ex nihilo* | 47 |
 | RSA | does not solve the SGP, it sidesteps it | 54 |
-| ECR | „scheint im Widerspruch zu etablierten Prinzipien der Thermodynamik […] zu stehen" | 61 |
-| ZTV | „birgt die Gefahr des Solipsismus" | 68 |
+| ECR | „scheint im Widerspruch zu etablierten Prinzipien der Thermodynamik […] zu stehen" ^[L61] | 61 |
+| ZTV | „birgt die Gefahr des Solipsismus" ^[L68] | 68 |
 | ARS | transferring autopoiesis to non-biological modules needs justification it does not give | 75 |
-| PMS | `sim`, `Eᵢ` and `θ` „sind jedoch nicht definiert" | 80 |
+| PMS | `sim`, `Eᵢ` and `θ` „sind jedoch nicht definiert" ^[L80] | 80 |
 | ANI | blocks the learning AGI requires | 88 |
-| SNK | „f(local consensus)" undefined; convergence unaddressed | 93 |
-| the ontological thesis | „nicht testbar oder falsifizierbar im Sinne Poppers" | 134 |
+| SNK | „f(local consensus)" ^[L93] undefined; convergence unaddressed | 93 |
+| the ontological thesis | „nicht testbar oder falsifizierbar im Sinne Poppers" ^[L134] | 134 |
 
 Three strengths are also named: conceptual ambition, the focus on non-control and
 self-organisation, and value as a thought experiment ^[L181–183].
@@ -203,7 +203,7 @@ ontological layer rests on.
 a quote typed by hand will never equal the same quote read from the file.
 
 **2. 116 reference numbers are glued to the words they annotate.**
-„Fixpunkttheoremen 6", „Lawvere 6", „Autopoiesis 43", „Information 24". The
+„Fixpunkttheoremen 6" ^[L44], „Lawvere 6" ^[L45], „Autopoiesis 43" ^[L72], „Information 24" ^[L58]. The
 export dropped superscript formatting, so a bare integer now follows the term. A
 quoted fragment either includes the number, and then does not read as the term,
 or excludes it, and then does not match the file.

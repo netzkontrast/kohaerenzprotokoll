@@ -8,7 +8,7 @@ sources: 9
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
-# C6 — five Guardians, one per world; or two, and „KEIN Guardian-1:1"
+# C6 — five Guardians, one per world; or two, and `KEIN Guardian-1:1`
 
 **Append-only.** This record decides nothing.
 
@@ -18,7 +18,7 @@ pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern
 |--:|---|---|---|--:|
 | 1 | five named — [[logos|LogOS]], [[mnemosyne|Mnemosyne]], [[cerberus|Cerberus]], [[kairos|Kairos]], [[sophia|Sophia]] | yes, four pairs; [[kairos|Kairos]] and [[sophia|Sophia]] share one world | `guardians-und-kern-welten-konzept`, 2025-04-17 | 35, 96 |
 | 2 | four bearers, one per KW1–KW4 | yes, as domain bearers of the numbered worlds | `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18 | 35, 172–175 |
-| 3 | **two** — [[mnemosyne|Mnemosyne]] and an Erasure-Pol | **no** — „KEIN Guardian-1:1" | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 214, 282 |
+| 3 | **two** — [[mnemosyne|Mnemosyne]] and an Erasure-Pol | **no** — „KEIN Guardian-1:1" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214] | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 214, 282 |
 
 > „Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei
 > Protokolle, verbindliches Log-Format." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
@@ -37,7 +37,7 @@ paired [[mnemosyne|Mnemosyne]] with `Resonanz-Landschaft` and [[cerberus|Cerberu
 ## Why this is a conflict and not two facts
 
 Both describe the same four-world frame, and they cannot both be the account of
-who guards it. The 2026 document says „post-Reset", which suggests a design that
+who guards it. The 2026 document says `post-Reset`, which suggests a design that
 replaced an earlier one — **the wiki does not infer that**; it records the word.
 
 ## What this document claims about precedence — recorded, not applied
@@ -72,13 +72,15 @@ the [[guardians|Guardians]]' place as [[aegis|AEGIS]]' architecture, which Q1 as
 (L51–L54). **So the three positions are now one account and its history, as two
 canon-era sources give it.** What this record said would settle it — a source
 relating the two versions — has arrived. What it cannot do is make the 2025
-readings wrong: whether „Frühere Drafts" retires them is the author's decision,
+readings wrong: whether „Frühere Drafts" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58] retires them is the author's decision,
 and the record stays open for it.
 
 ## 2026-09-24 — the author: every draft is back in question
 
-„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
-sources wird die neue Ausgangslage." (decision 006)
+> Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+> sources wird die neue Ausgangslage.
+
+[Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md)
 
 No position above is retired by its date or by a source's claim to be canon.
 This record is now an **item for discussion** with the author; it closes when the
@@ -86,18 +88,18 @@ author decides it, and the decision will be written here with its date.
 
 ## 2026-09-24 — decided by the author: five Guardians
 
-Asked „Sollen die fünf wiederkommen, bleibt es bei zwei, oder ist es etwas
-Drittes?", the author answered **five**, and confirmed: *five [[guardians|Guardians]] — [[logos|LogOS]],
+Asked *Sollen die fünf wiederkommen, bleibt es bei zwei, oder ist es etwas
+Drittes?*, the author answered **five**, and confirmed: *five [[guardians|Guardians]] — [[logos|LogOS]],
 [[mnemosyne|Mnemosyne]], [[cerberus|Cerberus]], [[kairos|Kairos]] and [[sophia|Sophia]]*.
 
 **What this decides:** the count and the names. The 2026 readings of two
-[[guardians|Guardians]] and of absorption („in Mnemosyne absorbiert", „in Erasure-Pol
-absorbiert", „latent") stay on the pages as what those documents said, dated, and
+[[guardians|Guardians]] and of absorption (`in Mnemosyne absorbiert`, *in Erasure-Pol
+absorbiert*, „latent") stay on the pages as what those documents said, dated, and
 are no longer the arrangement.
 
 **What it does not decide:** how the five relate to the four [[kern-welten|Kern-Welten]]. The
 2025 sources pair them ([[kairos|Kairos]] and [[sophia|Sophia]] sharing one world); the 2026 source says
-„KEIN Guardian-1:1". That is now its own question, `q5-guardians-and-kern-welten`.
+`KEIN Guardian-1:1`. That is now its own question, `q5-guardians-and-kern-welten`.
 Nor does it decide the `Erasure-Pol`, which the 2026 sources name and the five do
 not include.
 

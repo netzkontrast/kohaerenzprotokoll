@@ -21,7 +21,7 @@ gathered: "2026-09-24"
 mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
 
 **It frames the novel.** Rauschen is the first thing in the Kap 0 [[genesis]]
-sequence („Rauschen → Herz der Leere", L298), and it returns in Kap 37: „das
+sequence („Rauschen → Herz der Leere" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298], L298), and it returns in Kap 37: „das
 Rauschen, das hier beginnt, ist das Nichts-Rauschen" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386]. In Vortex 1 it
 goes silent — „Nichts-Rauschen wird absolute Stille" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L380].
 
@@ -34,7 +34,7 @@ this. The document writes both and says so for Kap 37 only; the two are kept apa
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
 The same identity as the other canon-era source, as a table row: „Nichts-Rauschen
-= feindliches Chaos" is what [[aegis|AEGIS]] believes, „Nichts-Rauschen = atemporale
+= feindliches Chaos" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L106] is what [[aegis|AEGIS]] believes, „Nichts-Rauschen = atemporale
 Vereinigung aller MI" is what holds ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L106].
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08

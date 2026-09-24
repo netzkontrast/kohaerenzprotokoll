@@ -40,15 +40,15 @@ numbers are section numbers and dates.
 
 ## Stance — an audit report that dates its own corrections
 
-„Status & Lock-In Bericht", „**Datum:** 2026-05-07" (L13). It reports three
+„Status & Lock-In Bericht" ^[L11], „**Datum:** 2026-05-07" ^[L13] (L13). It reports three
 corrections to an earlier specification and one decision, and marks each changed
-value in its full table with „⚠ korr 2026-05-07" (L174, L176, L188) — **4 ⚠,
+value in its full table with „⚠ korr 2026-05-07" ^[L174] (L174, L176, L188) — **4 ⚠,
 11 ✓, 3 ❌** as verdict marks. No hedging word occurs; what is open is a section,
-„V. Was offen bleibt vor Phase 1" (L385), with its own sub-list of four points
-carried from a „Reset-Doc 2026-04-30" (L401).
+„V. Was offen bleibt vor Phase 1" ^[L385] (L385), with its own sub-list of four points
+carried from a „Reset-Doc 2026-04-30" ^[L401] (L401).
 
 It is also a record of what it asks others to change: „Canon-Dokumente außerhalb
-dieses Chats nachziehen" (L410).
+dieses Chats nachziehen" ^[L410] (L410).
 
 ## Candidates
 
@@ -276,20 +276,19 @@ frontmatter ends at L9.
 - **`Phoenix Collapse` and `Phoenix-Collapse`** (L97, L117).
 - **`K1`/`K0`** in headings and table heads (L171, L192), never subscript.
 - **The two storyforms by name and by reading**: „Storyform A — Heuristics of
-  Integration (K1-Reading)" (L192), „Storyform B — Phoenix Collapse (K0-Reading)"
+  Integration (K1-Reading)" ^[L192] (L192), „Storyform B — Phoenix Collapse (K0-Reading)" ^[L216]
   (L216).
 
 ## Boundaries — one name wearing several things
 
-- **`Driver`** is both the Dramatica storypoint (Decision/Action) and, in „Driver-
-  Treue" and „Driver-Mechanik", what drives a scene (L117, L274).
-- **`Memory`** is a Dramatica Concern (L181) and the assistant's „Memory-Slots"
+- **`Driver`** is both the Dramatica storypoint (Decision/Action) and, in `Driver-Treue` ^[L117] and „Driver-Mechanik" ^[L274], what drives a scene (L117, L274).
+- **`Memory`** is a Dramatica Concern (L181) and the assistant's „Memory-Slots" ^[L121]
   (L121, L455).
 
 ## Gaps — used as known, defined nowhere here
 
-The „Synthese-Doku" and „Synthese-PDF" (L121, L417), the „Reset-Doc 2026-04-30"
-(L401), „Memory Slot 5" and slots 8–17 (L397, L455–L465), „Block 4" (L445); „12 Protokolle" is named, not listed (L97).
+The „Synthese-Doku" ^[L121] and „Synthese-PDF" ^[L417] (L121, L417), the „Reset-Doc 2026-04-30" ^[L401]
+(L401), „Memory Slot 5" ^[L397] and slots 8–17 (L397, L455–L465), „Block 4" (L445); `12 Protokolle` is named, not listed (L97).
 
 ## Self-consistency
 

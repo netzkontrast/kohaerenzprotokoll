@@ -189,15 +189,12 @@ disagree. There is no such rule.
 **`juna.md` is titled by a name none of the read sources uses**, and `partnerin`
 may be a third surface for the same entity. Nothing read links them.
 
-**Whether the quote convention or the quote checker changes.**
-493 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
-they carry no citation on their own line — usually a table cell whose line number
-sits in another column. One of the two has to give.
-
-Document 6 made this worse in a useful way: writing the citation *into* the table
-cell fixes it, and doing that for nine new pages was the difference between 0 and
-9 unchecked on them. The convention that would close this is „a quotation carries
-its reference in the same cell", and nothing has decided it.
+**The quote convention is in use.** A research-source quotation carries its
+citation on the same line and inside its table cell. Source labels and the
+wiki's own working sentences use code or emphasis; recorded author decisions
+link to their decision record. The checker reports 0
+<!--state:quotes.unchecked--> quotations without a resolvable source citation.
+`python3 scripts/quotes.py --unchecked` lists any new gaps with file and line.
 
 **Eight pages carry five identical sentences each — measured, not yet decided.**
 `ani` `ars` `ecr` `pms` `rsa` `snk` `ztv` `nullpunkt-protokoll` are the eight
@@ -738,11 +735,11 @@ and `.qmd/index.yml` on 2026-09-24, and not run: that container had no qmd
 binary. The fix is to test a file against each collection's pattern, not its
 root.
 
-**Citation resolution is complete:** 0 <!--state:quotes.unresolved--> quotations
-fail `scripts/quotes.py`. The corrections were checked against the source lines
-and committed per source or Wiki page. The checker still reports 493
-<!--state:quotes.unchecked--> quotations it cannot verify; those need their own
-citation convention, described under *Open decisions*.
+**Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
+quotations fail `scripts/quotes.py`, and 0 <!--state:quotes.unchecked-->
+research-source quotations lack a resolvable citation. The checker audits
+research-source wording; an author's recorded decision links to its decision
+record and is not treated as a quotation from a research document.
 
 ## Landed
 

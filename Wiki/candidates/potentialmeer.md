@@ -18,7 +18,7 @@ gathered: "2026-09-17"
 
 **The phrase is marked `[User Query]`** — the project supplied it. What the
 research adds is the identification with Bohm: the bond would be „eine
-stabilisierte Manifestation dieser zugrundeliegenden, vernetzten Potentialität",
+stabilisierte Manifestation dieser zugrundeliegenden, vernetzten Potentialität" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L106],
 a structure within the Holomovement ^[kohaerenzprotokoll-aegis-und-systementropie.md:L106].
 
 The consequence for [[aegis|AEGIS]] is the point: it operates „ausschließlich innerhalb der
