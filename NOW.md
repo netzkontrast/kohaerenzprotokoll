@@ -107,9 +107,9 @@ written:
 - **The novel's sources — decided for Drive, open for the rest.** The author
   said on 2026-09-23 that the sources are all in `Sources/`: the manifest
   catalogues every Drive document, the canon-era ones included, so they land
-  through `sources.py` like any other. 37 <!--state:sources.canon_era--> rows date
-  from May 2026 on and 8 <!--state:sources.canon_era_landed--> are landed —
-  landing the rest is the first step of the goal's Phase 1. Still open: the
+  through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
+  from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
+  2026-09-24 (see *Landed* below); none has been read yet. Still open: the
   manuscript and the NCP files, which are not Drive documents and sit only under
   `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
@@ -354,6 +354,17 @@ source document.
 
 ## Landed
 
+**The canon-era documents, 2026-09-24, on the author's yes.** `sources.py fetch
+--since 2026-05-01 --include-md` landed the 29 remaining rows dated May 2026 or
+later, none failing. 26 were `md`, which `fetch` skipped before: the two new flags
+are opt-in, and `md` takes the same text route that landed the four `md` rows on
+2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
+bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
+in another escaping — so 37 canon-era rows became 33, all landed. **None is read:**
+no census, note or reconciliation. Which to read first is the author's call, and
+`GOAL.md` §2 lists them. The copy under `Legacy/Canon/` (six of the 2026-06-10
+documents) has not been compared against the landed files.
+
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe
 SDK and project skill (`.agents/skills/typesafe`), the Jev concept, the vendored
 `jev*` skills, `scripts/entities.py`, the entity pilot and the saved workflow.
@@ -361,5 +372,6 @@ Nothing from it is in flight; what it left open is under the headings above.
 
 ## Not open
 
-The novel. The `Legacy/` shelf. The 247 `plot-outline` rows, the 39 `md` and the
-one `mp3` — deferred by decision, not forgotten.
+The novel. The `Legacy/` shelf. The 242 unlanded rows, all dated before May 2026:
+231 `plot-outline`, 10 `md` in `storyform` and `kernkonzept`, and the one `mp3` —
+deferred by decision, not forgotten.

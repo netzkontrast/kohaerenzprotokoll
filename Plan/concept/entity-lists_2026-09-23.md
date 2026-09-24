@@ -5,7 +5,7 @@ four-document pilot ran and failed verification; the full run has not happened.*
 
 ## The goal they have to serve
 
-The repository builds a wiki of term pages from 346 <!--state:sources.landed--> research documents. A person
+The repository builds a wiki of term pages from 371 <!--state:sources.landed--> research documents. A person
 reads one document at a time, and six have been read. Two things limit that loop
 and neither is reading speed:
 

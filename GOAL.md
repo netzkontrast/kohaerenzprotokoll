@@ -20,12 +20,12 @@ Kein vorheriger Kontext überlebt. Alles, was du weißt, musst du aus den Quelle
 
 > **Ist-Stand 2026-09-23 — du fängst nicht bei null an.** Seit dem Reset (Entscheidung `Plan/decisions/001-reset-to-two-layers.md`, 2026-09-16) baut dieses Repository ein Begriffs-Wiki aus den Drive-Quellen, mit denselben Grundsätzen, die dieser Auftrag verlangt: Provenienz auf jeder Aussage, kein stilles Glätten, Konflikte als eigene Records, abgeleitetes Wissen markiert. Es gibt:
 >
-> - `Sources/`: 617 <!--state:sources.total--> Drive-Dokumente im Manifest, 346 <!--state:sources.landed--> als Markdown gelandet und dedupliziert.
+> - `Sources/`: 613 <!--state:sources.total--> Drive-Dokumente im Manifest, 371 <!--state:sources.landed--> als Markdown gelandet und dedupliziert.
 > - `Wiki/`: 56 <!--state:wiki.pages--> Begriffsseiten, 5 <!--state:wiki.conflicts--> Konflikt-Records und 4 <!--state:wiki.questions--> Fragen-Seiten, jede Aussage mit Zitat und Zeilennummer.
 > - Einen abgeleiteten Knowledge Graph (`scripts/graph.py`) und GraphRAG-Retrieval (`scripts/graphrag.py`), die nur zurückgeben, was die Seiten belegen.
 > - Eine DSPy-Werkzeugkette, die bisher kein Modell aufgerufen hat.
 >
-> **Was fehlt, ist der Roman im Graph.** Alle Drive-Quellen, auch die Kanon-Stände 2026-05/06, sind in `Sources/manifest.jsonl` katalogisiert. Von den 37 <!--state:sources.canon_era--> Einträgen ab Mai 2026 sind aber erst 8 <!--state:sources.canon_era_landed--> als Volltext gelandet (§2). Manuskript und NCP sind keine Drive-Dokumente, sie liegen unter `Legacy/`. Die Einheit des bisherigen Wikis ist der *Begriff*. Dieser Auftrag verlangt zusätzlich *Kapitel*, *Locks* und *Plot*. Genau diesen Fall nennt Entscheidung 001 als Grund, sie zu revidieren: „if most questions are about chapters and plot rather than terms, the unit is wrong“.
+> **Was fehlt, ist der Roman im Graph.** Alle Drive-Quellen, auch die Kanon-Stände 2026-05/06, sind in `Sources/manifest.jsonl` katalogisiert. Alle 33 <!--state:sources.canon_era--> Einträge ab Mai 2026 sind seit 2026-09-24 als Volltext gelandet, 33 <!--state:sources.canon_era_landed--> davon (§2). Gelesen hat sie noch niemand: keiner hat Census, Note oder Abgleich. Manuskript und NCP sind keine Drive-Dokumente, sie liegen unter `Legacy/`. Die Einheit des bisherigen Wikis ist der *Begriff*. Dieser Auftrag verlangt zusätzlich *Kapitel*, *Locks* und *Plot*. Genau diesen Fall nennt Entscheidung 001 als Grund, sie zu revidieren: „if most questions are about chapters and plot rather than terms, the unit is wrong“.
 
 ---
 
@@ -88,29 +88,29 @@ Mach zuerst eine Inventur. Welche Zugänge hast du tatsächlich (Drive-MCP, GitH
 - Viele Docs heißen `*.md`: Das ist Markdown, das in ein Google Doc eingefügt wurde.
 - Das Album-Projekt „The Agency System“ (Suno-Lyrics, 13 Konzeptalben) liegt im selben Ordner. Klassifiziere es als eigenes Projekt (Tier `X`). Es dient nur als tonale Referenz und ist nie Kanon.
 
-> **Ist-Stand 2026-09-23 — alle Quellen sind in `Sources/` (Autor, 2026-09-23).** `Sources/manifest.jsonl` ist der vollständige Katalog der Drive-Quellen. Eine globale Drive-Suche und der Blick in andere Ordner entfallen. Zu jedem Dokument gibt es eine `drive_id`, und `python3 scripts/sources.py` landet es von dort nach `Sources/drive/<slug>.md`. Der Katalog hat 617 <!--state:sources.total--> Einträge, davon sind 346 <!--state:sources.landed--> gelandet. 63 <!--state:sources.folded--> Duplikat-Exporte stehen in `Sources/duplicates.jsonl`. Die Dedupe über md5 und Normalisierung ist gebaut (`scripts/dedupe.py`, `scripts/duplicates.py`).
+> **Ist-Stand 2026-09-23 — alle Quellen sind in `Sources/` (Autor, 2026-09-23).** `Sources/manifest.jsonl` ist der vollständige Katalog der Drive-Quellen. Eine globale Drive-Suche und der Blick in andere Ordner entfallen. Zu jedem Dokument gibt es eine `drive_id`, und `python3 scripts/sources.py` landet es von dort nach `Sources/drive/<slug>.md`. Der Katalog hat 613 <!--state:sources.total--> Einträge, davon sind 371 <!--state:sources.landed--> gelandet. 67 <!--state:sources.folded--> Duplikat-Exporte stehen in `Sources/duplicates.jsonl`. Die Dedupe über md5 und Normalisierung ist gebaut (`scripts/dedupe.py`, `scripts/duplicates.py`).
 >
-> **Die Kanon-Stände sind katalogisiert, aber größtenteils nicht gelandet.** Von 37 <!--state:sources.canon_era--> Einträgen ab 2026-05-01 sind 8 <!--state:sources.canon_era_landed--> als Volltext da. Die übrigen gehören meist zur Kategorie `plot-outline`, die mit dem Roman zurückgestellt worden ist. Ihr Landen ist ein `sources.py`-Lauf, keine Suche.
+> **Die Kanon-Stände sind gelandet (2026-09-24, auf Ja des Autors).** Von 33 <!--state:sources.canon_era--> Einträgen ab 2026-05-01 sind 33 <!--state:sources.canon_era_landed--> als Volltext da. 29 kamen in einem Lauf `sources.py fetch --since 2026-05-01 --include-md`, 26 davon im Format `md` über denselben Textweg wie die vier `md`-Zeilen vom 2026-09-16. Vorher waren es 37 Einträge: vier waren Kopien und sind nach `Sources/duplicates.jsonl` gewandert (`dedupe.py`, Entscheidung pro Gruppe in `Plan/runs/dedupe.json`). Drei davon waren `-2`-Exporte mit 2 Byte Unterschied, einer (`25-wegkreuzung-md`) der gleiche Kapitel-25-Text in anderer Escape-Form.
 >
 > | Dokument im Auftrag | Slug in `Sources/manifest.jsonl` | gelandet |
 > |---|---|:-:|
-> | Kapitel-Kompendium 2026-05-31 | `kapitel-kompendium-gather-2026-05-31-md` | nein |
-> | Strukturierter Outline 2026-05-18 | `koharenz-protokoll-strukturierter-outline-2026-05-18-md` (+ `-2`) | nein |
+> | Kapitel-Kompendium 2026-05-31 | `kapitel-kompendium-gather-2026-05-31-md` | **ja** |
+> | Strukturierter Outline 2026-05-18 | `koharenz-protokoll-strukturierter-outline-2026-05-18-md` (`-2` gefaltet) | **ja** |
 > | Konsolidiertes Konzept 2026-05-08 | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` | **ja** |
-> | Konzept-Master, Konzept-Iteration Genesis 05-08 | `kohaerenz-protokoll-konzept-master-md`, `koharenz-protokoll-konzept-iteration-genesis-md` | nein |
-> | Lock-In-Status 2026-05-07 | `dramatica-dual-storyform-status-2026-05-07-md` (+ `-2`) | nein |
-> | Charakter-Bibel 2026-05-08 | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md` | nein |
-> | Sprach-DNA 2026-05-13 | `koharenz-protokoll-sprach-dna-2026-05-13-md` | nein |
-> | Quartett: `storyform-und-outline` 06-10 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` | nein |
-> | Quartett: `kernwelten-vollstaendig` 06-10 | `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` | nein |
+> | Konzept-Master, Konzept-Iteration Genesis 05-08 | `kohaerenz-protokoll-konzept-master-md`, `koharenz-protokoll-konzept-iteration-genesis-md` | **ja** |
+> | Lock-In-Status 2026-05-07 | `dramatica-dual-storyform-status-2026-05-07-md` (`-2` gefaltet) | **ja** |
+> | Charakter-Bibel 2026-05-08 | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md` | **ja** |
+> | Sprach-DNA 2026-05-13 | `koharenz-protokoll-sprach-dna-2026-05-13-md` | **ja** |
+> | Quartett: `storyform-und-outline` 06-10 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` | **ja** |
+> | Quartett: `kernwelten-vollstaendig` 06-10 | `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` | **ja** |
 > | Quartett: `philosophie-im-detail` 06-10 | `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md` | **ja** |
 > | `begriffe-und-konzepte` 06-10 | `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md` | **ja** |
-> | `welt-sensorik-drafting` 06-10 | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md` | nein |
-> | `anteile-profile-sprach-dna` 06-10 | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md` | nein |
-> | Plot-Konkretisierung 13 Ideen/F1 06-10 | `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` | nein |
-> | `kap0v1annotiert`, Kap-0/40-Fassungen 05-08 | `kap0-v1-annotiert-md`, `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` | nein |
-> | Session-Stand 2026-09-14 (Kap-25-Vertiefung) | `2026-09-14-kap25-vertiefung-md`, `kp-kap25-2026-09-14-md`, `25-wegkreuzung-md` | nein |
-> | Quelle für B1 („39 Kapitel“) | `three-mode-architecture-39-chapters-md` | nein |
+> | `welt-sensorik-drafting` 06-10 | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md` | **ja** |
+> | `anteile-profile-sprach-dna` 06-10 | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md` | **ja** |
+> | Plot-Konkretisierung 13 Ideen/F1 06-10 | `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` | **ja** |
+> | `kap0v1annotiert`, Kap-0/40-Fassungen 05-08 | `kap0-v1-annotiert-md`, `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md` (`-2` gefaltet), `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` | **ja** |
+> | Session-Stand 2026-09-14 (Kap-25-Vertiefung) | `2026-09-14-kap25-vertiefung-md`, `kp-kap25-2026-09-14-md` (`25-wegkreuzung-md` hineingefaltet) | **ja** |
+> | Quelle für B1 („39 Kapitel“) | `three-mode-architecture-39-chapters-md` | **ja** |
 >
 > **Nicht im Katalog, weil es keine Drive-Dokumente sind oder sie nie auf Drive lagen:**
 >
@@ -567,7 +567,7 @@ Nach jeder Phase: Commit, kurzer Statusbericht an den Autor, ein Eintrag in `lea
 > | Phase | Stand |
 > |---|---|
 > | 0 · Recon und Spec | Zugangs-Inventur weitgehend erledigt (§2 oben): Drive läuft über den Katalog in `Sources/`. Offen: `agency`, die claude.ai-Exporte, die Entscheidungen in Anhang C. `SPEC.md` existiert nicht. |
-> | 1 · Ingest und Katalog | **Katalog vollständig** (`Sources/manifest.jsonl`, 617 <!--state:sources.total--> Einträge), gelandet und dedupliziert sind 346 <!--state:sources.landed-->. **Es fehlen die Volltexte der Kanon-Stände:** von 37 <!--state:sources.canon_era--> Einträgen ab Mai 2026 erst 8 <!--state:sources.canon_era_landed-->. Das ist der erste Arbeitsschritt: `sources.py` für diese Zeilen. Außerhalb des Katalogs fehlen die claude.ai-Exporte und der Weg für Manuskript und NCP (C1). |
+> | 1 · Ingest und Katalog | **Katalog vollständig** (`Sources/manifest.jsonl`, 613 <!--state:sources.total--> Einträge), gelandet und dedupliziert sind 371 <!--state:sources.landed-->. **Die Kanon-Stände sind gelandet** (2026-09-24): 33 <!--state:sources.canon_era_landed--> von 33 <!--state:sources.canon_era--> Einträgen ab Mai 2026. Gelesen ist davon noch keiner. Außerhalb des Katalogs fehlen die claude.ai-Exporte und der Weg für Manuskript und NCP (C1). |
 > | 2 · Claims und Entitäten | Für 6 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
 > | 3 · Konflikte | 5 <!--state:wiki.conflicts--> Records von Hand. Kein Detektor, keine Fixture aus Anhang B getestet. |
 > | 4 · Plot-Modell | Nicht begonnen. Die Kapitel-Köpfe im Manuskript (`Outline`, `Beats`, `Locks`) sind der naheliegende erste Datensatz. |

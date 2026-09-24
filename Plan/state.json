@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23",
+  "generated": "2026-09-24",
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
@@ -111,23 +111,23 @@
       "how": "modules in scripts/rules/ satisfying the contract"
     },
     "sources.canon_era": {
-      "value": 37,
+      "value": 33,
       "how": "manifest rows with an index_date from 2026-05-01 on \u2014 the canon-era documents"
     },
     "sources.canon_era_landed": {
-      "value": 8,
+      "value": 33,
       "how": "of those, rows landed in Sources/drive/"
     },
     "sources.distinct": {
-      "value": 346,
+      "value": 371,
       "how": "landed files minus near-copies, scripts/duplicates.py at 0.8"
     },
     "sources.folded": {
-      "value": 63,
+      "value": 67,
       "how": "rows in Sources/duplicates.jsonl \u2014 fetched, then found to be a copy"
     },
     "sources.landed": {
-      "value": 346,
+      "value": 371,
       "how": "manifest rows carrying an export_path \u2014 the files on disk"
     },
     "sources.near_copies": {
@@ -135,7 +135,7 @@
       "how": "landed files that are a near-copy of another"
     },
     "sources.total": {
-      "value": 617,
+      "value": 613,
       "how": "rows in Sources/manifest.jsonl"
     },
     "trainset.fold_baseline_pct": {

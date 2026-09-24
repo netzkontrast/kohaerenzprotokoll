@@ -53,22 +53,25 @@ The standard-library scripts — `state.py`, `quotes.py`, `read.py`,
 There is no third layer. Everything else the project used to have is parked
 under `Legacy/` and read by nothing.
 
-`Sources/manifest.jsonl` is the spine: 617 rows, each with `drive_id`, `title`,
+`Sources/manifest.jsonl` is the spine: 613 rows, each with `drive_id`, `title`,
 `slug`, `category`, `tier` and, once landed, `export_path` and two checksums.
 Anything derived traces back to a `drive_id`.
 
-`Sources/duplicates.jsonl` holds the 63 rows that left it — the same shape plus
+`Sources/duplicates.jsonl` holds the 67 rows that left it — the same shape plus
 `duplicate_of`. Two files, two questions: the manifest says what is in the
 corpus, and this says what Drive also holds and why it is not here. It exists so
 that „not in the manifest" never has to mean „nobody knows".
 
 ## State, as of 2026-09-17
 
-**346 <!--state:sources.landed--> of 617 <!--state:sources.total--> source documents are landed.** The 271 that are not are the 247
-`plot-outline` rows, deferred with the novel, plus the 39 `md` and one `mp3` that
-have no route. Every category the wiki needs is complete.
+**371 <!--state:sources.landed--> of 613 <!--state:sources.total--> source documents are landed.** The 242 that are not all date from before May
+2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
+and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
+so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, none yet
+read.
 
-**Those 346 files are 346 <!--state:sources.distinct--> distinct documents, and
+**Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
 export, a docx export, a `kopie` of each, a second run of both — and each landed
 under its own `drive_id`. 409 files were 346 documents, so **every count phrased
@@ -76,8 +79,9 @@ as "N of 409" was counting copies.** Only 2 pairs were byte-identical, so
 checksums found almost none of it.
 
 `python3 scripts/dedupe.py` folded the
-63 <!--state:sources.folded--> extra files away. The file left `Sources/drive/`,
-the row left the manifest — 680 rows became 617 — and the full row moved to
+67 <!--state:sources.folded--> extra files away. The file left `Sources/drive/`,
+the row left the manifest — 680 rows became 617, and the canon-era landing's four
+copies took it to 613 — and the full row moved to
 `Sources/duplicates.jsonl`, which is what `sources.py next` filters against so a
 folded document is never fetched again. `python3 scripts/duplicates.py` now
 reports 0 <!--state:sources.near_copies--> near-copies and its job is to keep
@@ -520,9 +524,11 @@ python3 scripts/sources.py land --drive-id <id> --consume
 which parses the spill, normalizes, writes `Sources/drive/<slug>.md`, records
 both checksums into the manifest and verifies. Never open the spill yourself.
 
-44 of the 617 rows are markdown or audio, which the connector does not list as
-supported — though 4 of the 43 `md` rows landed anyway, so the list is not the
-whole truth. The remaining 39 and the one `mp3` stay deferred by decision.
+40 of the 613 rows are markdown or audio, which the connector does not list as
+supported — but `md` comes through the text route: 26 of the 39 `md` rows are
+landed, 4 on 2026-09-16 and 22 more on 2026-09-24 with
+`fetch --since 2026-05-01 --include-md`. `--include-md` is opt-in. The other 13
+`md` and the one `mp3` stay deferred by decision.
 `Plan/learnings/fetch.md` has the format census and the heading measurement.
 
 ## Installing anything
