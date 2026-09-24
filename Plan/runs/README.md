@@ -73,9 +73,9 @@ on, the session reading the document wrote the list before any count, and its
 the criterion a list fails.
 
 **The reader of documents 5 and 6 was a Claude session too** — the commit of
-document 5's census speaks of „my own quotations". What separates their lists
-from 7–13 is the word in `written_by:`, not who read, and no list here was
-written by the author. Four documents were read again blind on 2026-09-24
+document 5's census speaks of „my own quotations". Every list here, gold or
+not, was written by a Claude session, and none by the author — which is why
+`gold.py` asks what a list is rather than who wrote it. Four documents were read again blind on 2026-09-24
 (`03-candidates-blind-<n>.md`): each blind reader held 97–100 % of the
 committed list's content, and the lists differed in how much each chose to
 list (`Plan/learnings/extract-terms.md`, *Blind re-readings*).

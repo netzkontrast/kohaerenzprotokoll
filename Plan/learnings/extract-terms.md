@@ -569,9 +569,11 @@ repeats either, the questions to add are:
 
 **Asked because the author asked how well reading works, and the honest answer
 was that nothing had measured it.** Eleven of the thirteen candidate lists have
-no second reading, and the two „gold" ones (documents 5 and 6) were written by
-a Claude session like the other eleven — `written_by: a reader` and
-`written_by: … (Claude, in session)` name the same kind of reader.
+no second reading, and the two lists then counted as gold (documents 5 and 6)
+were written by a Claude session like the other eleven — `written_by: a reader`
+and `written_by: … (Claude, in session)` name the same kind of reader. Decision
+009, the same day, made gold a rule about the list rather than its writer
+(`scripts/gold.py`).
 
 So four read documents were read again, blind, twice each: a Claude subagent per
 reading, given `Plan/briefings/extract.md`, `01-profile.txt`, `02-probes.txt`
