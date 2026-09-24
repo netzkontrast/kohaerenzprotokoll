@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 4
-readings: 5
+sources: 5
+readings: 6
 conflict: C1
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -147,3 +147,42 @@ reflektiert." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L59]
 
 That last pair is the alias this page already carries, offered here as two
 readings a depiction could take rather than as a claim about which is true.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**The first read source from the canon era, and it labels itself canon.** It marks
+this passage `[K]` and names itself the novel's „Source-of-Truth" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L11]; that is its
+claim about its own authority, recorded and not adopted.
+
+**The inversion both storyforms rest on:**
+
+> „AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
+
+**Never a villain**, as a hard rule for the prose:
+
+> „AEGIS = unschuldig im Bösen (verwaltet, bedroht nicht), nie Bösewicht." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L42]
+
+**What AEGIS is, and what it is made of:**
+
+> „die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb — Bewahrung
+> ohne Resonanz-Fähigkeit, tragisch unschuldig" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+> „Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei
+> Protokolle, verbindliches Log-Format." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+The two storyforms of the novel are AEGIS divided — „die zwei Storyforms sind die
+zwei Hälften, in die AEGIS sich im Trennungsprotokoll zerschnitten hat"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L135]. See [[trennungsprotokoll]].
+
+**How it ends.** „AEGIS-monolithisch erlischt; AEGIS-plural entsteht
+(Kael-als-Wir wird neue AEGIS, aber wesensanders)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412]. The final form's
+name is open by the document's own table — „Naming der finalen Form (Wir-AEGIS /
+Mosaik-AEGIS / …)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L475] — so `Wir-AEGIS` is recorded here and gets no
+page (judgement J47).
+
+**Voice:** third person, as logs — „AEGIS und die zwei Guardians sprechen in 3.
+Person" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
+
+This is the first read source that states the [[guardians|Guardians]]' relation to AEGIS as
+architecture rather than inside a question — see `q1-guardians-and-aegis` and
+conflict `C6`.
