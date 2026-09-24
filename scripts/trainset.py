@@ -42,7 +42,6 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-LEDGER = ROOT / "Plan" / "runs" / "judgements.jsonl"
 OUT = ROOT / "Plan" / "trainsets"
 sys.path.insert(0, str(ROOT / "scripts"))
 

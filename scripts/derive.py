@@ -27,13 +27,12 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-MANIFEST = ROOT / "Sources" / "manifest.jsonl"
-DERIVED = ROOT / "Plan" / "derived"
 EXCEPTIONS = ROOT / "Plan" / "rules" / "exceptions.jsonl"
 
 sys.path.insert(0, str(ROOT / "scripts"))
 import subject  # noqa: E402
 from rules import load  # noqa: E402
+from subject import DERIVED  # noqa: E402
 
 
 def documents() -> list[dict]:
@@ -49,22 +48,8 @@ def exceptions() -> dict[tuple[str, str], str]:
     """(document, rule) -> reason. A skip nobody can see is a skip nobody fixes."""
     if not EXCEPTIONS.exists():
         return {}
-    out = {}
-    for line in EXCEPTIONS.read_text(encoding="utf-8").splitlines():
-        if not line.strip():
-            continue
-        row = json.loads(line)
-        out[(row["document"], row["rule"])] = row.get("reason", "no reason recorded")
-    return out
-
-
-def cache_path(slug: str) -> Path:
-    return DERIVED / f"{slug}.json"
-
-
-def read_cache(slug: str) -> dict:
-    path = cache_path(slug)
-    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    return {(row["document"], row["rule"]): row.get("reason", "no reason recorded")
+            for row in subject.read_jsonl(EXCEPTIONS)}
 
 
 def stale_reason(cached: dict, doc: dict, rule) -> str | None:
@@ -87,7 +72,7 @@ def run(force: bool = False, dry: bool = False) -> dict:
     started = time.time()
 
     for doc in documents():
-        cached = read_cache(doc["slug"])
+        cached = subject.derived(doc["slug"])
         changed = False
         for rule in rules:
             key = (doc["slug"], rule.NAME)
@@ -97,9 +82,7 @@ def run(force: bool = False, dry: bool = False) -> dict:
             if not rule.applies(doc):
                 counts["out_of_scope"] += 1
                 continue
-            reason = None if force else stale_reason(cached, doc, rule)
-            if force:
-                reason = "forced"
+            reason = "forced" if force else stale_reason(cached, doc, rule)
             if reason is None:
                 counts["cached"] += 1
                 continue
@@ -114,7 +97,7 @@ def run(force: bool = False, dry: bool = False) -> dict:
                 changed = True
         if changed and not dry:
             DERIVED.mkdir(parents=True, exist_ok=True)
-            cache_path(doc["slug"]).write_text(
+            (DERIVED / f"{doc['slug']}.json").write_text(
                 json.dumps(cached, ensure_ascii=False, separators=(",", ":")) + "\n",
                 encoding="utf-8",
             )
@@ -148,10 +131,4 @@ def main(argv: list[str]) -> int:
 
 
 if __name__ == "__main__":
-    try:
-        import signal
-
-        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
-    except (ImportError, AttributeError, ValueError):
-        pass
-    raise SystemExit(main(sys.argv[1:]))
+    subject.cli(main)
