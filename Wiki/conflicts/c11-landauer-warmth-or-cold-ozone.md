@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 7
+sources: 8
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -96,3 +96,13 @@ Spur (Coheron-Verdrängung)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-0
 (Landauer → ∞)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1115]. Ozone once, in Kap 1's list (L265). Twelve days before the
 2026-05-30 lock; it names the konsolidiertes Konzept as the source that wins a
 conflict (L1393).
+
+## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+A separate iteration gives Kap 6 „Hitzeschlieren, verzerrte Physik
+(Landauer-Wärme)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528]
+and Kap 36 „Landauer-Wärme als Schluss-Markierung“
+^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]. It also gives Kap 1
+„Ozon, weißes Licht, Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508],
+without equating that ozone with the warm Landauer effect. This is another
+source for the warm position in Kap 6 and 36, not a resolution of C11.
