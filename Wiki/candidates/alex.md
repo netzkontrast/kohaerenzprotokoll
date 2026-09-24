@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -35,3 +35,8 @@ Its roster row gives category `ANP`, function `Protector` and arc `→ Wachstum`
 Roster row: „Alex (Protector)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L369], correlate „Asymptotische Freiheit" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L370], somatics „Hypertonus, Bruxismus" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L371], arc „→ Wachstum" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L372].
 
 From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 entstanden:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439] lists it.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Hier dominieren die **EP-Protektoren** (Alex, Nyx) und die **Erasure-Pol-Logik**"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L301] — KW3.
