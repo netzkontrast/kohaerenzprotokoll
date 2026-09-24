@@ -29,6 +29,7 @@ JEV_TAG="v0.2.0"
 GRAPHIFY_REF="4c735618f3d56fd622c2049771584621c31ba9ff"
 GRAWIKI_REF="920d181b7e82943f3557ce4debaaabfdeb924cde"
 HYPEREXTRACT_REF="395039ea49709b279971631a47569b931818abbb"
+SEMANTICA_VERSION="0.7.0"
 
 # name | what it is for — the order is the install order
 COMPONENTS=(
@@ -38,6 +39,7 @@ COMPONENTS=(
   "dspy|.venv-dspy — DSPy $DSPY_VERSION, dspy-skills, strictyaml, drg-kg[extract]"
   "dspytools|.venv-dspytools (python 3.12) — dspytools"
   "grawiki|.venv-grawiki (python 3.12) — grawiki[falkordblite,viz], CPU torch"
+  "semantica|.venv-semantica (python 3.12) — semantica $SEMANTICA_VERSION, base package"
   "jev|jev-decide CLI (uv tool) — the vendored jev* skills in API mode"
   "graphify|graphify CLI (uv tool) — the vendored graphify skill"
   "cgr|code-graph-rag CLI (uv tool, python 3.12) — cgr"
@@ -65,6 +67,7 @@ present() {
     dspy)       .venv-dspy/bin/python -c "import dspy, dspy_skills, strictyaml, drg; assert dspy.__version__ == '$DSPY_VERSION'" 2>/dev/null ;;
     dspytools)  [[ -x .venv-dspytools/bin/dspytools ]] ;;
     grawiki)    .venv-grawiki/bin/python -c "import grawiki, redislite" 2>/dev/null ;;
+    semantica)  .venv-semantica/bin/python -c "import importlib.metadata as m; assert m.version('semantica') == '$SEMANTICA_VERSION'; import semantica" 2>/dev/null ;;
     jev)        have jev-decide ;;
     graphify)   have graphify ;;
     cgr)        have cgr ;;
@@ -111,6 +114,10 @@ install_one() {
       # a fraction of the CUDA one and a cloud container has no GPU.
       uv pip install -q --python .venv-grawiki/bin/python --torch-backend cpu \
         "grawiki[falkordblite,viz] @ git+https://github.com/netzkontrast/grawiki@$GRAWIKI_REF" ;;
+    semantica)
+      need_uv || return 1
+      [[ -x .venv-semantica/bin/python ]] || uv venv -q --python 3.12 .venv-semantica || return 1
+      uv pip install -q --python .venv-semantica/bin/python "semantica==$SEMANTICA_VERSION" ;;
     jev)
       need_uv || return 1
       local src; src="$(mktemp -d)"

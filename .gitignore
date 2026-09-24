@@ -44,3 +44,4 @@ Plan/derived/
 graphify-out/
 .install.log
 .venv-grawiki/
+.venv-semantica/

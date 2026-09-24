@@ -36,7 +36,7 @@ The log is `.install.log`.
 |---|---|---|
 
 | `Plan/derived/` | `derived` — `python3 scripts/derive.py`, about 3s | `corpus.py`'s index path |
-| `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki` | `tools`, `typesafe`, `dspy`, `dspytools`, `grawiki` | only the step that names each |
+| `.venv-tools`, `.venv-typesafe`, `.venv-dspy`, `.venv-dspytools`, `.venv-grawiki`, `.venv-semantica` | `tools`, `typesafe`, `dspy`, `dspytools`, `grawiki`, `semantica` | only the step that names each |
 | `jev-decide` | `jev` | the vendored `jev*` skills in API mode |
 | `graphify` CLI | `graphify`, pinned to `4c73561` | the vendored `graphify` skill |
 | `cgr` (code-graph-rag) | `cgr` | nothing in the pipeline |
@@ -484,7 +484,7 @@ shells out to that interpreter for the one thing that needs it, so the tool
 keeps running whether or not the venv exists and says exactly how to create it
 when it does not.
 
-Five venvs are defined, all git-ignored, each for one reason. **None survives a
+Six venvs are defined, all git-ignored, each for one reason. **None survives a
 container**; `scripts/install.sh` rebuilds each, and the commands below are what
 it runs:
 
@@ -495,6 +495,7 @@ it runs:
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
 | `.venv-grawiki` | **3.12** | `grawiki[falkordblite,viz]` from `netzkontrast/grawiki` at `920d181`, which refuses 3.11; about 2 GB with CPU torch |
+| `.venv-semantica` | 3.12 | `semantica==0.7.0`, the base package without extras — a knowledge-graph library with provenance tracking; about 480 MB |
 
 ```bash
 uv venv --python 3.12 .venv-dspytools
@@ -625,8 +626,14 @@ deliberate: `chonkie[st]` pulls sentence-transformers, and a container has no GP
 `--with "transformers>=4.40"` the resolver falls back to transformers 4.12.2,
 whose tokenizers needs a Rust build that fails.
 
-Both are installed and start; neither has been run against the corpus, and
-nothing in the pipeline calls them.
+`semantica` is a library in the same family: context graphs with provenance
+and reasoning over them. Only the base package is installed — its LLM, document
+and embedding extras are not — so it builds and queries graphs a caller hands
+it and extracts nothing by itself.
+
+All three are installed and start; none has been run against the corpus, and
+nothing in the pipeline calls them. Their graphs stand under the same limits as
+`knowledge-graph-extract`: no page, link or count comes from one.
 
 **Hyper-Extract** (`netzkontrast/Hyper-Extract` at
 `395039ea49709b279971631a47569b931818abbb`, Apache-2.0) is three things here:
