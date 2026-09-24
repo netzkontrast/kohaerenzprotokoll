@@ -1,10 +1,10 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -34,5 +34,11 @@ this. The document writes both and says so for Kap 37 only; the two are kept apa
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
 The same identity as the other canon-era source, as a table row: „Nichts-Rauschen
-= feindliches Chaos" is what AEGIS believes, „Nichts-Rauschen = atemporale
+= feindliches Chaos" is what [[aegis|AEGIS]] believes, „Nichts-Rauschen = atemporale
 Vereinigung aller MI" is what holds ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L106].
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„das Nichts-Rauschen — ist in Wahrheit die atemporale Vereinigung aller mutualen Information. Es ist Liebe als Naturgesetz." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32]
+
+It is the first of three simultaneous layers: „Schicht 1 — Nichts-Rauschen / K1-Reinform." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L55] And it is where Juna was sent: „Deshalb konnte AEGIS Juna ins Nichts-Rauschen verbannen, aber nicht löschen." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L159]
