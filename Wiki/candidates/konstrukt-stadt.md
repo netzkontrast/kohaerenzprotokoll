@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 3
+readings: 3
+conflict: C9
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -69,3 +69,15 @@ assertorische Sätze, Computational Class P" ^[kohaerenz-protokoll-storyform-und
 
 `Logos-Prime` is recorded as an alias of this world and not as a surface of
 [[logos|LogOS]] (judgement J49).
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**Here the Konstrukt-Stadt is the whole simulation, and KW1 is Logos-Prime.**
+
+> „Das Kohärenz Protokoll spielt in einer simulierten Welt — der Konstrukt-Stadt,
+> gesteuert von AEGIS — die in vier Kernwelten unterteilt ist." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L44]
+
+The world table's first row is „KW1 — Logos-Prime" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51]. Every other reading
+on this page — including the other canon-era source, „KW1 Konstrukt-Stadt
+(Logos-Prime)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L219] — makes the Konstrukt-Stadt KW1. Conflict `C9`, a
+scale disagreement like `C5`.
