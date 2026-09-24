@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -92,7 +92,7 @@ Thirteen rows follow (L260–L272), and fifteen other names are struck:
 **The world count agrees** — four [[kern-welten|Kern-Welten]], „Plus zwei Ebenen außerhalb der KW"
 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L226], the same six as document 6.
 
-**The correspondence is denied, for [[guardians|Guardians]], and not addressed for Alters.**
+**The correspondence is denied, for [[guardians|Guardians]], and not addressed for [[alters|Alters]].**
 The matrix heading says „KEIN Guardian-1:1" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]; it says nothing of an
 Alter per world, and it assigns each world a mode and an act instead.
 
@@ -100,3 +100,10 @@ So Q3 has a count for both halves from one source each, and the correspondence
 question is still open. Whether the 13 of 2026 supersede the Alters named in
 2025 is not the wiki's to decide — two of them (`Limina`, `Echo`) are on this
 document's struck list.
+
+## 2026-09-24 — the character bible fixes thirteen as a rule
+
+„13 Alters, exakt. Nicht 11, nicht 14." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1180] Two canon-era sources agree on
+the number and the roster. **The correspondence half is still open**: this
+document assigns each Kern-Welt a mode and each Alter a Riss-Typ, and relates
+none of them one-to-one.
