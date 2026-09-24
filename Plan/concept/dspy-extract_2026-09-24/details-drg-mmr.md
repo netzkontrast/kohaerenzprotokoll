@@ -12,7 +12,7 @@ a live model call: every probe ran with `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY`
 monkey-patched to raise before any drg-related import. No file under
 `/home/user/kohaerenzprotokoll`, `/home/user/dspy-agent-skills`, or any other
 repository under `/home/user` was modified; all scratch work is under
-`/tmp/claude-0/.../scratchpad/`.
+`<scratchpad>/`.
 
 ---
 
@@ -55,7 +55,7 @@ this commit). All source paths below are inside this venv's
 `*_API_KEY` unset as above; `litellm.completion`/`.acompletion` replaced by a
 function that records the call and raises, installed *before* `dspy` or `drg`
 is imported. Script:
-`/tmp/claude-0/.../scratchpad/extract/probe_drg/probe.py`. Full run:
+`<scratchpad>/extract/probe_drg/probe.py`. Full run:
 
 | stage | `dspy.settings.lm` | `DRGCHECK_SENTINEL` in `os.environ` | litellm called? |
 |---|---|---|---|
@@ -201,7 +201,7 @@ fallbacks, ranked:
 
 | | upstream refrag | dspy-agent-skills (`kp_canon_retriever.py`) | kohaerenzprotokoll (`graphrag.py`) |
 |---|---|---|---|
-| file | `dspy-refrag@a8688133`, `src/dspy_refrag/sensor_advanced.py` (cloned at `/tmp/claude-0/.../scratchpad/src/dspy-refrag`, confirmed commit `a8688133a3fb642866b78463fe499a5c42783549`, clean vs. HEAD) | `/home/user/dspy-agent-skills/scaffolding/kp_canon_retriever.py` | `/home/user/kohaerenzprotokoll/scripts/graphrag.py` |
+| file | `dspy-refrag@a8688133`, `src/dspy_refrag/sensor_advanced.py` (cloned at `<scratchpad>/src/dspy-refrag`, confirmed commit `a8688133a3fb642866b78463fe499a5c42783549`, clean vs. HEAD) | `/home/user/dspy-agent-skills/scaffolding/kp_canon_retriever.py` | `/home/user/kohaerenzprotokoll/scripts/graphrag.py` |
 | function | `AdvancedSensor._select_mmr` (def at `:129`, formula `:166`, `lambda_param` at `:148`) | `select_mmr` (def `:92-95`, formula `:138`) | `select_mmr` (def `:158-160`, formula `:175`) |
 | formula | `mmr = λ·relevance − (1−λ)·redundancy` | `score = (1−λ)·relevance − λ·redundancy` | `score = (1−λ)·relevance − λ·redundancy` |
 | λ weights | **relevance** (higher λ → less diverse) | **redundancy-avoidance / diversity** (higher λ → more diverse) | same as kp_canon_retriever — **diversity** |
@@ -223,7 +223,7 @@ backwards.
 
 ### B.2 — offline sweep against graphrag.py's own live code
 
-Script: `/tmp/claude-0/.../scratchpad/extract/probe_mmr/sweep.py`, run with
+Script: `<scratchpad>/extract/probe_mmr/sweep.py`, run with
 `.venv-dspy`'s interpreter (`sys.dont_write_bytecode = True`, no files
 written under `/home/user`), importing the real
 `scripts/graphrag.py:select_mmr` — not a re-implementation. Two fixtures,
