@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -85,7 +85,7 @@ records that nothing read says how the two entities relate.
 
 ## 2026-09-17 — document 6 assumes the answer and never states it
 
-`roman-lokalitaeten-konzept-und-ausarbeitung` places the four inside AEGIS'
+`roman-lokalitaeten-konzept-und-ausarbeitung` places the four inside [[aegis|AEGIS]]'
 level and does it in passing, as facts about locations:
 
 > „Sitz von AEGIS und den Wächtern in ihrer Systemfunktion."
@@ -126,8 +126,14 @@ is what this page said would answer it:
 The [[guardians|Guardians]] are part of AEGIS' architecture, stated flat, in a passage the
 document labels canon. **For this source, the answer is *components*.** It also
 says there are two of them, not five — conflict `C6` — so the question it
-answers is about a different set of Guardians than the one the earlier pages
+answers is about a different set of [[guardians|Guardians]] than the one the earlier pages
 describe.
 
 **Q1 stays open**, narrower: *components* now has a direct statement from one
 source; whether it holds for the five of 2025 is C6's question, and the author's.
+
+## 2026-09-24 — the character bible places Mnemosyne inside AEGIS' architecture
+
+„Sie agiert innerhalb AEGIS' Architektur, weil sie keine andere Sprache hat."
+^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L210] A second canon-era source for *components*, and it says why the five
+became two (`C6`).
