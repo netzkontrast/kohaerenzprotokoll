@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-24"
 ---
 
@@ -40,3 +40,8 @@ Roster row: „Silas (Juna-Echo)" ^[koharenz-protokoll-konzept-konsolidiert-2026
 „Silas als Coheron-Echo: er trägt einen Splitter von Juna in Kael." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447] „Er spürt, was AEGIS nicht sieht." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447] „Silas „tunnelt" nicht durch Mauern — er war nie in der Zeit, die diese Mauern definiert." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L158]
 
 Appearances and POV share are the document's open question OQ-E (L451).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The mirror [[alters|Alters]] of Akt III-A: „Silas = Coheron-Echo, Oblivion = Erason-Operator"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L222].
