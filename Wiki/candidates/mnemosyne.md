@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 3
+readings: 3
+conflict: C4,
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -80,3 +80,21 @@ One location carries her name: `Mnemosynes Gedächtnispalast`, „Strukturierte
 
 This document calls Mnemosyne a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] and never a `Guardian`. See
 [[guardians]].
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**One of two [[guardians|Guardians]] — and the name of a world and a server as well.**
+
+> „zwei Guardians (Mnemosyne + Erasure-Pol)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
+
+It is the first Guardian hit in the climax: „Mnemosyne als erste betroffene
+Guardian" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381].
+
+**The same word names three things in this document**, which it does not relate:
+the Guardian above, the second Kern-Welt — „KW2 Mnemosyne-Archipel" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L220] —
+and the setting of Vortex 1, „Mnemosyne-Server-Architektur (KW2)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370].
+`Mnemosyne-Archipel` and `Mnemosyne-Server-Architektur` are kept as their own
+terms (J28), without pages.
+
+Earlier readings on this page make Mnemosyne one of five Guardians paired with a
+world; this one makes it one of two and denies the pairing. See `C6`.
