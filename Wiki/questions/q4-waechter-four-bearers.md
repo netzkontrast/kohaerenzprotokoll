@@ -164,3 +164,12 @@ would answer it now* asks for — and the passage does not distinguish them.
 row (L333), Kap 17 carries „Zyklus-Funktion: Z1-Wächterin" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342], and
 the working titles of Teil IX list „Z1-Bunker, Z1-Wächterin" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]. The same
 function as L333, so no new bearer.
+
+## 2026-09-24 — audit: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, Kap 31
+
+The entry for this document above gives [[aegis|AEGIS]] as Wächter, the Registry and
+Kap 8. It left out the Guardians: Kap 31, „Auflösung der Guardians" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1021], has
+„Guardians als Sub-Antagonisten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022] and „Sensorik: Wächter, die in
+Lichtstaub aufgehen." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022] — the line document 7 later carries as its
+leitmotif. Both words, one referent, not distinguished. Found by the record
+audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M16).
