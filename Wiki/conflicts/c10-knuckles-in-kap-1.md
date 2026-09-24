@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 6
+sources: 7
 pages: ["kael"]
 ---
 
@@ -69,3 +69,11 @@ spurlos." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] I
 in Kap 0 allein — Kap 1 bleibt spurlos." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638] — and what stays: „Die Wiederkehr
 am Ende bleibt gesetzt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638], detail open as „OQ-Knöchel" (L638). So the
 Kapitel-Kompendium is the document that set document 7's side.
+
+## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+**A third position: a trait, not a chapter event.** „Knöchel die manchmal bluten
+ohne dass er weiß warum" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125] — in the Host's profile. No chapter entry has the
+knuckles, neither Kap 0 (L211–L241) nor Kap 1, whose sensory line is „sterile Leere,
+Ozon, weißes Licht, 21°C" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]. So neither the character bible's Kap 1 nor the
+Kapitel-Kompendium's Kap-0 lock; the image belongs to Kael, not to a chapter.
