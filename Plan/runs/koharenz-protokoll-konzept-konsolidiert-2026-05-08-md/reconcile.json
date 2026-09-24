@@ -518,6 +518,9 @@
     "C12"
   ],
   "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
     "C5",
     "C6",
     "C7",
@@ -526,6 +529,9 @@
     "C10"
   ],
   "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4",
     "Q5"
   ],
   "judgements": [
@@ -538,5 +544,17 @@
   "found_by_rule_not_by_census": [
     "landauer-signatur"
   ],
-  "baseline_moved": false
+  "baseline_moved": false,
+  "second_pass": {
+    "at": "2026-09-24",
+    "why": "collecting the author's questions found that this document also speaks to C1, C2, C3, Q1, Q3 and Q4; the first pass had updated only the conflicts its own new readings pointed at",
+    "added": [
+      "C1",
+      "C2",
+      "C3",
+      "Q1",
+      "Q3",
+      "Q4"
+    ]
+  }
 }

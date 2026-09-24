@@ -74,3 +74,24 @@ LogOS into Mnemosyne and Kairos latent. Sophia is named once and placed nowhere.
 ## Judgements
 
 J60–J62. The rest of the 108 were decided by J16, J20, J28, J47, J49–J52, J56–J59.
+
+## Second pass, 2026-09-24 — six records the first pass missed
+
+Collecting the author's questions found this document speaking to three
+conflicts and three questions the first pass had not touched, because none of its
+new readings pointed at them:
+
+| | what it adds | line |
+|---|---|--:|
+| C1 | position 1's expansion, *Entropic Gatekeeper*, in a canon-era source | 202 |
+| C2 | a third sense: AEGIS *is* the entropy it fights | 32, 135 |
+| C3 | a third origin: from Kael's defence, in the Genesis | 208 |
+| Q1 | the two Guardians inside AEGIS' architecture and machine room | 209, 535 |
+| Q3 | thirteen Alters, four worlds as act markers, no world one Alter's | 352, 462 |
+| Q4 | AEGIS itself as `Wächter` in the Genesis | 72 |
+
+**What the miss says about the step:** reconciliation walks from the census to
+the pages, and a conflict record is reached only through a page the new readings
+touch. A record whose subject the document restates without a new surface is not
+reached at all. Checking every open record against each new document is the fix,
+and it is cheap: there are twelve conflicts and five questions.
