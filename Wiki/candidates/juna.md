@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -138,3 +138,13 @@ The other puts her first direct appearance in Kap 38: „Stille-Beat: Junas erst
 direkte Erscheinung" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L400]. Conflict `C7`.
 
 Her link to [[kael|Kael]] is the [[moonshine-link|Moonshine-Link]]; her anchor, the [[telefon-stille|Telefon-Stille]].
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Juna ist kein Charakter im konventionellen Sinn, sondern eine strukturelle Position." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L273] Layer three of three: „Schicht 3 — Juna als Zeit-Prinzip." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L61] Her DKT correlate: „Junas DKT-Korrelat ist Coheron" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L282].
+
+„Juna ist die ontologische Anomalie aus der Genesis, deren Resonanz das Trennungsprotokoll auslöste." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L66]
+
+**Her first direct appearance is Kap 38** — „Ihre erste direkte Erscheinung in Kap 38 ist die Klimax dieser Modi, nicht ein neuer Modus." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L327] This sides with document 7 in conflict C7.
+
+Until then: „Telefon-Stille ist der Hauptanker." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L316] And „Juna-Seed seit Ch1, aber namenlos." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L340] Her POV: „Junas POV: offen." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L425]
