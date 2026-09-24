@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 4
+sources: 5
 pages: ["kael"]
 ---
 
@@ -57,3 +57,8 @@ spurlos" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]; the thread lives in
 (Knöchel-Eruption, Nyx), Kap 1 bleibt spurlos"
 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459] — follows this one closely, with the
 spelling of `Knöchel` corrected.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Document 7's side, as a lock: „Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt
+spurlos." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] It adds „Wiederkehr am Ende offen" (L141).
