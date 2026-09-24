@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -90,3 +90,21 @@ and he cannot see it: „Kael selbst hat hier normalerweise keinen Zugang."
 
 **Everything above about what the worlds do is design instruction** („zu
 konzipieren", „sollte"). The location assignments are not.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+> „Kael = fragmentierte Subjektivität auf dem Weg zur pluralen Re-Integration, nie
+> „Held"." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L42]
+
+**Kael is the Host of thirteen, not the thirteen.** The document distinguishes
+the system from the Alter: „System Kael (TSDP-Architektur, 13 Alter)"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L253], and Kael's own row is „amnestische Oberfläche" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L260]. The roster
+is on [[alters]]; `System Kael` and `Kael` are two terms here (judgement J48).
+
+**He carries K₁** — „AEGIS = K₀ / Kael = K₁ wird sichtbar" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] — and
+becomes the new [[aegis|AEGIS]] in plural form: „Kael-als-Wir wird neue AEGIS, aber
+wesensanders" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412].
+
+**He writes the book.** The first sentence of Kap 1 is the last he writes in Kap 39:
+„erster Satz = letzter Satz, den Kael schreibt — „Das Licht ist schon da, als ich
+erwache."" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L127].
