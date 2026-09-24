@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-17"
 ---
 
@@ -92,3 +92,9 @@ page are what this document calls earlier drafts. Recorded, not applied — see
 
 Named as not active: „LogOS, Cerberus, Kairos, Sophia existieren nicht als aktive
 Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] „Kairos und Sophia** als Guardians sind dekanonisiert" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404]. No world keeps her name.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Once, in the world table's Guardian column for KW4: „(Kairos/Sophia, latent)"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175]. Not among the functions the Erasure-Pol absorbs (L161). Q5 — where Sophia
+went: latent, here.
