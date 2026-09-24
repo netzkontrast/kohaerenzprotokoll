@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -70,3 +70,7 @@ A passage saying whether the Nexus-Interface leads to the Nexus, is named after
 it, or is unrelated. This document offers no link: its profile never mentions a
 higher level, and document 4's Nexus is never reached from a Kern-Welt by an
 interface.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+One occurrence, a sub-location of KW4: „Sub-Lokalitäten: Möglichkeits-Garten, Nexus, Mosaik-Herz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L530].
