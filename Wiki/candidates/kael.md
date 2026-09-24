@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -151,3 +151,10 @@ konkrete Falschheit" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] in place
 **On the knuckles: Kap 0 only.** „Kap 1 bleibt spurlos" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] — the thread
 lives in Kap 0, „Knöckel-Eruption, Nyx" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]. A reading for conflict C10, on
 document 7's side, from the document document 7 names as its highest source.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Kael (Host)** ist die einzige Innensicht." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L179] His role: „Kaels formelle
+Rolle: Komponente 734, Archivar Klasse II" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L156]. The knuckles: „Kap-0-Lock:
+dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] — conflict C10, on
+document 7's side.
