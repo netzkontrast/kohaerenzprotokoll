@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-24"
 ---
 
@@ -64,3 +64,9 @@ transitions: AEGIS registers them late, because „Coheron-Übergänge sind atem
 
 „Atom der Persistenz" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L40]. „Liebe ist physikalisch unzerstörbar, weil
 Zerstörung ein Vorher/Nachher voraussetzt." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L40]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+[[juna|Juna]] in Kap 0: „Juna (als unbenannte Resonanz, atemporales Coheron)"
+^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237]. [[silas|Silas]]'s correlate: „Coheron-Echo, Tunneling" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L155], and in Kap
+31 „Silas (Coheron-Echo)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L989].
