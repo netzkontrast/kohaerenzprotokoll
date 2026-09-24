@@ -41,6 +41,7 @@ from __future__ import annotations
 
 import re
 import sys
+from bisect import bisect_right
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -88,12 +89,17 @@ def normalise(text: str) -> str:
     Normalising all four is what makes a genuine failure -- a word that was never
     in the document -- the only thing left to report.
     """
-    return GLUED_REF.sub("", unglued(text)).strip()
+    return GLUED_REF.sub("", unmarked(text)).strip()
 
 
-def unglued(text: str) -> str:
-    """`normalise` without its footnote rule: escaping, emphasis, wrapping and
-    attribution markers are context-free; a number is not debris until shown to be."""
+def unmarked(text: str) -> str:
+    """The context-free part of `normalise`: escaping, emphasis, wrapping, markers.
+
+    `entities.py` compares names with this and without the footnote rule, which
+    needs the same context on both sides and a name does not carry it. Both are
+    built here so neither can gain a step the other lacks. `missing_number`
+    compares a quotation's numbers the same way, for the same reason.
+    """
     text = ESCAPE.sub(r"\1", text)
     text = EMPHASIS.sub("", text)
     return MARKER.sub("", WRAP.sub(" ", text))
@@ -109,9 +115,9 @@ def missing_number(line: str, quote: str) -> str | None:
     extra numbers on the line — footnote debris among them — are allowed, so a
     quote that correctly drops a footnote still resolves.
     """
-    have = NUMBER.findall(unglued(line))
+    have = NUMBER.findall(unmarked(line))
     cursor = 0
-    for number in NUMBER.findall(unglued(quote)):
+    for number in NUMBER.findall(unmarked(quote)):
         try:
             cursor = have.index(number, cursor) + 1
         except ValueError:
@@ -132,7 +138,7 @@ def on_line(line: str, quote: str, parts: list[str] | None = None) -> str | None
 
 def source_line(slug: str, number: int) -> str | None:
     doc = document(slug)
-    lines = doc.body.split("\n")
+    lines = doc.lines()
     index = number - doc.offset
     return lines[index] if 0 <= index < len(lines) else None
 
@@ -159,6 +165,19 @@ def missing_part(line: str, parts: list[str]) -> str | None:
     return None
 
 
+def line_starts(text: str) -> list[int]:
+    """The offset each line of `text` starts at, then one past the end."""
+    starts = [0]
+    for line in text.split("\n"):
+        starts.append(starts[-1] + len(line) + 1)
+    return starts
+
+
+def line_of(starts: list[int], pos: int) -> int:
+    """The 0-based line holding character `pos` of the text `starts` describes."""
+    return bisect_right(starts, pos) - 1
+
+
 def pairs(text: str) -> list[tuple[re.Match, list[str]]]:
     """Every quotation in `text`, with the references that belong to it.
 
@@ -166,36 +185,25 @@ def pairs(text: str) -> list[tuple[re.Match, list[str]]]:
     `graph.py` serves its quotations as evidence from it, so the two can never
     disagree about which reference a quotation carries.
     """
-    starts = [0]
-    for line in text.split("\n"):
-        starts.append(starts[-1] + len(line) + 1)
-
-    def line_of(pos: int) -> int:
-        lo, hi = 0, len(starts) - 1
-        while lo < hi - 1:
-            mid = (lo + hi) // 2
-            if starts[mid] <= pos:
-                lo = mid
-            else:
-                hi = mid
-        return lo
+    starts = line_starts(text)
 
     # A line may carry several quotes and one reference -- a table row often does.
     # The reference belongs to the quote nearest it, and the others on that line
     # are uncited rather than wrong. Pairing by nearest position says so.
     owner: dict[int, list[str]] = {}
     quotes = list(QUOTE.finditer(text))
+    spans = [(line_of(starts, q.start()), line_of(starts, q.end())) for q in quotes]
     lines = text.split("\n")
     for m in CITE.finditer(text):
-        row = line_of(m.start())
+        row = line_of(starts, m.start())
         # A blockquote puts its citation on the line after the quote closes:
         #     > „…text…"
         #     > ^[slug.md:L137]
         # so a reference alone on its line also claims the quote ending just above.
         body = lines[row].lstrip("> ").strip() if row < len(lines) else ""
         rows = {row, row - 1} if body.startswith("^[") else {row}
-        same = [q for q in quotes
-                if line_of(q.start()) in rows or line_of(q.end()) in rows]
+        same = [q for q, (first, last) in zip(quotes, spans)
+                if first in rows or last in rows]
         if not same:
             continue
         nearest = min(same, key=lambda q: min(abs(q.start() - m.start()), abs(q.end() - m.start())))
@@ -219,9 +227,10 @@ def verdict(refs: list[str], default_slug: str | None, quote: str) -> tuple[str,
     return "unresolved", failures[0]
 
 
-def check_file(path: Path, default_slug: str | None) -> tuple[list[dict], int]:
+def check_file(path: Path, default_slug: str | None,
+               text: str | None = None) -> tuple[list[dict], int]:
     problems, unchecked = [], 0
-    for match, near in pairs(path.read_text(encoding="utf-8")):
+    for match, near in pairs(path.read_text(encoding="utf-8") if text is None else text):
         status, why = verdict(near, default_slug, match.group("quote"))
         if status == "unchecked":
             unchecked += 1
@@ -254,7 +263,7 @@ def resolve(raw: str, default_slug: str | None, quote: str) -> str | None:
     return f"not on that line: {missing[:60]!r}"
 
 
-def slug_of(path: Path) -> str | None:
+def slug_of(path: Path, text: str | None = None) -> str | None:
     """Which document a file's bare ^[Lnn] refers to.
 
     A census or a note says so in `source:`. A wiki page does not -- it says
@@ -263,7 +272,7 @@ def slug_of(path: Path) -> str | None:
     a page carries several, a bare reference is ambiguous and is **not** checked
     rather than checked against a guess.
     """
-    head = path.read_text(encoding="utf-8")[:900]
+    head = (path.read_text(encoding="utf-8") if text is None else text)[:900]
     match = re.search(r"^source:\s*Sources/drive/([A-Za-z0-9\-]+)\.md", head, re.M)
     if match:
         return match.group(1)
@@ -276,31 +285,49 @@ def slug_of(path: Path) -> str | None:
     return path.stem if any(d.slug == path.stem for d in documents()) else None
 
 
-def main(argv: list[str]) -> int:
-    if argv:
-        targets = [Path(argv[0]).resolve()]
-    else:
+def tally(targets: list[Path] | None = None) -> dict:
+    """Check every quotation in `targets` — by default every census, note and wiki file.
+
+    `{checked, unresolved, unchecked, problems: [(path, problem)]}`. The one count:
+    `main` prints it, and `state.py` and `ui.py` read it here instead of parsing
+    the printout, which returned 0 unresolved without a word the day the wording
+    changed.
+    """
+    if targets is None:
         targets = sorted(
             list((ROOT / "Sources" / "notes").glob("*.md"))
             + list((ROOT / "Sources" / "terms").glob("*.md"))
             + list((ROOT / "Wiki").rglob("*.md"))
         )
-    checked = failed = uncited = 0
+    checked = uncited = 0
+    problems: list[tuple[Path, dict]] = []
     for path in targets:
-        default = slug_of(path)
-        problems, skipped = check_file(path, default)
-        checked += len(QUOTE.findall(path.read_text(encoding="utf-8"))) - skipped
+        text = path.read_text(encoding="utf-8")
+        found, skipped = check_file(path, slug_of(path, text), text)
+        checked += len(QUOTE.findall(text)) - skipped
         uncited += skipped
-        for problem in problems:
-            failed += 1
-            where = path.relative_to(ROOT) if path.is_relative_to(ROOT) else path
-            print(f"UNRESOLVED  {where}  ^[{problem['ref']}]")
-            print(f"            „{problem['quote']}…\"")
-            print(f"            {problem['why']}")
-    print(f"\n{checked} cited quotes checked, {failed} unresolved; "
-          f"{uncited} quotes had no citation on their own line, or none naming a\ndocument that could be resolved, and were not checked."
-          f"\nA bare ^[Lnn] resolves against the file's own `source:`.")
-    return 1 if failed else 0
+        problems += [(path, problem) for problem in found]
+    return {"checked": checked, "unresolved": len(problems), "unchecked": uncited,
+            "problems": problems}
+
+
+def summary(counts: dict, wrap: str = " ") -> str:
+    """The tally as one sentence: what `main` ends with, and the line ui.py shows."""
+    return (f"{counts['checked']} cited quotes checked, {counts['unresolved']} unresolved; "
+            f"{counts['unchecked']} quotes had no citation on their own line, or none naming a"
+            f"{wrap}document that could be resolved, and were not checked.")
+
+
+def main(argv: list[str]) -> int:
+    result = tally([Path(argv[0]).resolve()] if argv else None)
+    for path, problem in result["problems"]:
+        where = path.relative_to(ROOT) if path.is_relative_to(ROOT) else path
+        print(f"UNRESOLVED  {where}  ^[{problem['ref']}]")
+        print(f"            „{problem['quote']}…\"")
+        print(f"            {problem['why']}")
+    print("\n" + summary(result, wrap="\n")
+          + "\nA bare ^[Lnn] resolves against the file's own `source:`.")
+    return 1 if result["unresolved"] else 0
 
 
 if __name__ == "__main__":

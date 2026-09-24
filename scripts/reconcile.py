@@ -41,6 +41,7 @@ INDEX = ROOT / "Wiki" / "index.json"
 RUNS = ROOT / "Plan" / "runs"
 
 sys.path.insert(0, str(ROOT / "scripts"))
+import subject  # noqa: E402
 from wiki_index import fold  # noqa: E402
 
 
@@ -252,10 +253,4 @@ def main(argv: list[str]) -> int:
 
 
 if __name__ == "__main__":
-    try:
-        import signal
-
-        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
-    except (ImportError, AttributeError, ValueError):
-        pass
-    raise SystemExit(main(sys.argv[1:]))
+    subject.cli(main)

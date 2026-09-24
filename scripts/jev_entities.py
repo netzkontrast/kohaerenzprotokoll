@@ -30,6 +30,9 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "scripts"))
+import subject  # noqa: E402
+
 OUT = ROOT / "Plan" / "runs" / "jev"
 WINDOW = 40        # lines of state per request
 MAX_Q = 80         # questions per request; a window with more is split
@@ -52,29 +55,25 @@ FALSE = ("ordinary German or English vocabulary, a sentence-initial capitalised 
          "merely describes something without naming it")
 
 
-def lines_of(slug: str) -> list[str]:
-    return (ROOT / "Sources" / "drive" / f"{slug}.md").read_text(encoding="utf-8").splitlines()
+def body_of(doc: subject.Document) -> tuple[list[str], int]:
+    """(the body's lines, the file line the first of them is) — the boundary is subject.py's.
 
-
-def body_start(lines: list[str]) -> int:
-    """First file line (1-based) after the frontmatter."""
-    if lines and lines[0] == "---":
-        for i, l in enumerate(lines[1:], 2):
-            if l == "---":
-                return i + 1
-    return 1
+    `splitlines()`, not `doc.lines()`: a window's text is part of its request's
+    cache key, and the recorded requests were cut without the empty line a final
+    newline leaves, so `--replay` finds them only if it stays that way.
+    """
+    return doc.body.splitlines(), doc.offset
 
 
 def clean(s: str) -> str:
     return s.strip().strip(":.,;*").strip()
 
 
-def candidates(lines: list[str]) -> dict[str, dict]:
+def candidates(lines: list[str], start: int) -> dict[str, dict]:
     """{surface: {line, n}} — first file line and count, both mechanical."""
     found: dict[str, dict] = {}
     count: Counter = Counter()
-    start = body_start(lines)
-    for no, text in enumerate(lines[start - 1:], start):
+    for no, text in enumerate(lines, start):
         surfaces = [m.group(0) for m in TOKEN.finditer(text)]
         for m in SPAN.finditer(text):
             s = clean(next(g for g in m.groups() if g))
@@ -90,17 +89,17 @@ def candidates(lines: list[str]) -> dict[str, dict]:
     return found
 
 
-def requests(slug: str, lines: list[str], cands: dict[str, dict]) -> list[dict]:
-    start = body_start(lines)
+def requests(slug: str, lines: list[str], start: int, cands: dict[str, dict]) -> list[dict]:
+    last = start - 1 + len(lines)
     by_window: dict[int, list[str]] = {}
     for s, d in cands.items():
         by_window.setdefault((d["line"] - start) // WINDOW, []).append(s)
     out = []
     for w, names in sorted(by_window.items()):
         a = start + w * WINDOW
-        b = min(a + WINDOW, len(lines) + 1)
+        b = min(a + WINDOW, last + 1)
         state = {"document": slug,
-                 "lines": "\n".join(f"L{i:03d}| {lines[i - 1]}" for i in range(a, b))}
+                 "lines": "\n".join(f"L{i:03d}| {lines[i - start]}" for i in range(a, b))}
         for k in range(0, len(names), MAX_Q):
             chunk = names[k:k + MAX_Q]
             qs = {f"q{i}": {"surface": s, "text": QUESTION.format(c=s, line=cands[s]["line"])}
@@ -143,9 +142,10 @@ def main(argv: list[str]) -> int:
         print(__doc__)
         return 2
     slug = slugs[0]
-    lines = lines_of(slug)
-    cands = candidates(lines)
-    reqs = requests(slug, lines, cands)
+    lines, start = body_of(subject.document(slug))
+    cands = candidates(lines, start)
+    reqs = requests(slug, lines, start, cands)
+    last = start - 1 + len(lines)
     cache = OUT / slug / "calls"
     cache.mkdir(parents=True, exist_ok=True)
     t = time.time()
@@ -158,10 +158,10 @@ def main(argv: list[str]) -> int:
     kept = ranked[:CAP]
     model = next((r["model"] for r in recs if "model" in r), "?")
     body = [f"written_by: script candidates + {model} Noul per candidate, via scripts/jev_entities.py",
-            f"source: {slug}", f"lines: {len(lines)}", ""]
+            f"source: {slug}", f"lines: {last}", ""]
     body += [f"- {s}  ^[L{cands[s]['line']}]  · p={p[s]:.2f} n={cands[s]['n']}" for s in kept]
     (OUT / slug / "list.md").write_text("\n".join(body) + "\n", encoding="utf-8")
-    stats = {"slug": slug, "lines": len(lines), "candidates": len(cands), "requests": len(reqs),
+    stats = {"slug": slug, "lines": last, "candidates": len(cands), "requests": len(reqs),
              "unreached": len(unreached), "judged": len(p), "yes": len(ranked), "kept": len(kept),
              "input_tokens": sum(r.get("input_tokens", 0) for r in recs),
              "output_tokens": sum(r.get("output_tokens", 0) for r in recs),

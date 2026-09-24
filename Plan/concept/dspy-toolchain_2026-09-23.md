@@ -13,7 +13,7 @@ corrections left beside what the build proved wrong.*
 | 0.2 skill check | `scripts/check_skills.py` | built — 4 project + 11 vendored skills clean; `--selftest` 6 cases |
 | 0.3 offline LM | `scripts/lm_fixture.py` | built — `FixtureLM`, `fill()` answers any optimizer's own fields, `offline()` refuses the network |
 | 0.4 a failing case per metric | each script's `selftest`; `scripts/selftests.py` runs all 14 suites | built |
-| 1.1 run record | `scripts/lmrun.py` | built — 9 offline cases |
+| 1.1 run record | `scripts/lmrun.py` | built — 10 offline cases; the tenth (2026-09-24) raises DSPy 3.3's own `LMTransportError`, which the first nine never did, and `call()` re-raised it instead of recording `unreachable` |
 | 1.2 baseline ledger | `scripts/baseline.py`, `Plan/runs/baselines.jsonl` | built — floor rows recorded for both tasks |
 | job 1 harness | `scripts/pairs.py` | built — all five optimizers dry-run; **no real-model run** |
 | job 3 changes | `scripts/rlm_ingest.py` | built — cache off, budget, tools, reach, `--approval`; **not run live** (needs Deno and a yes) |
@@ -24,11 +24,12 @@ corrections left beside what the build proved wrong.*
 **Corrections the build made to this design.** The design says job 1 has
 „n = 26" and `fold()` scores „65%". Both were true of
 `Plan/trainsets/surface-pairs.jsonl` as last exported, which held 17 rows; the
-judgement ledger itself had grown. Re-exported, it holds
-63 <!--state:pairs.labelled--> pairs and `fold()` decides
-36 <!--state:pairs.fold_correct--> — 58%. When this was written it was 36 and 21,
-58%, which `NOW.md` had already measured; the judgements of documents 7–9 added
-the rest.
+judgement ledger itself had grown. Re-exported when this was written, it held
+36 pairs and `fold()` decided 21 — 58%, which `NOW.md` had already measured. The
+ledger now yields 63 <!--state:pairs.labelled--> pairs and `fold()` decides
+36 <!--state:pairs.fold_correct-->, 57%; the judgements of documents 7–9 and 14
+added the rest, and the committed export still holds 36 (corrected 2026-09-24:
+this sentence had put the ledger's live count on the export).
 The exported file had gone stale because nothing compared it to the ledger;
 `pairs.py` now reads the ledger live and never the export.
 

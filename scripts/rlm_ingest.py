@@ -64,6 +64,11 @@ from here — those are decisions, and an ingest proposes rather than resolves.
   whole corpus document to OpenRouter (`NOW.md`).
 - **The key comes from the environment**, as `CLAUDE.md` says, and from `.env`
   only as a fallback.
+- **A forced answer is never a reading** (2026-09-24). When `max_iters` runs
+  out, `dspy.RLM` has an extract step build the outputs from the trajectory and
+  sets `final_reasoning` to „Extract forced final output"; the list looks like
+  any other. The header now says `forced: yes`, and the verdict is PARTLY
+  RECONSTRUCTED whatever the list cites.
 
 Usage:
     .venv-dspy/bin/python scripts/rlm_ingest.py <slug> --approval "<decision>"
@@ -201,6 +206,22 @@ No commentary, no numbering, no counts."""
 
 CITED = re.compile(r"^-\s*(?P<term>.+?)\s*\^\[L(?P<line>\d+)\]\s*$")
 
+# dspy.RLM's own marker when max_iters runs out: it then asks an extract step to
+# build the outputs from the trajectory, and the answer looks like any other
+# (DSPy 3.3.1 dspy/predict/rlm.py; measured offline, check_dspy_skill.py
+# `rlm-forced-final-output`). That is the reconstruction this file exists to refuse.
+FORCED = "Extract forced final output"
+
+
+def judge(share: float, unread: list, uncited: list, reach_share: float, forced: bool) -> str:
+    """The header's verdict. A forced answer is never a reading, whatever it cites."""
+    if forced:
+        return "PARTLY RECONSTRUCTED — the REPL ran out of iterations and DSPy forced the answer"
+    from gold import IN_DOCUMENT  # the bar a list must clear to be a reading of the document
+    if share >= IN_DOCUMENT and not unread and not uncited and reach_share >= 0.9:
+        return "a reading — every candidate carries a line that holds it, and they reach the end"
+    return "PARTLY RECONSTRUCTED — treat as a draft, not as a reading"
+
 
 def verified(slug: str, rows: list[tuple[str, int]]) -> tuple[list[str], list[str]]:
     """(candidates whose cited line really contains them, the rest). Tier 1."""
@@ -260,9 +281,8 @@ def run(slug: str, model: str, iters: int, calls: int, sub_model: str | None,
     share = len(good) / total if total else 0.0
     lines_of = dict(rows)
     tier2 = reach(slug, [lines_of[t] for t in good if t in lines_of])
-    quality = ("a reading — every candidate carries a line that holds it, and they reach the end"
-               if share >= 0.9 and not unread and not uncited and tier2["share"] >= 0.9
-               else "PARTLY RECONSTRUCTED — treat as a draft, not as a reading")
+    forced = str(getattr(result, "final_reasoning", "")) == FORCED
+    quality = judge(share, unread, uncited, tier2["share"], forced)
 
     out = RUNS / slug / "03-candidates-rlm.md"
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -272,6 +292,7 @@ def run(slug: str, model: str, iters: int, calls: int, sub_model: str | None,
         f"verified: {len(good)} of {total} candidates cite a line that contains them\n"
         f"reach: verified citations go to L{tier2['furthest']} of L{tier2['last']} "
         f"({tier2['share']:.0%}), in {tier2['tenths']} of 10 tenths of the document\n"
+        f"forced: {'yes — the REPL ran out of iterations and DSPy extracted this answer from the trajectory' if forced else 'no'}\n"
         f"cost: {tokens}\n"
         f"approval: {approval}\n\n"
         f"# Candidates (model) — {slug}\n\n"
@@ -289,6 +310,8 @@ def run(slug: str, model: str, iters: int, calls: int, sub_model: str | None,
           f"({len(bad)} unverified, {len(uncited)} uncited) -> {out.relative_to(ROOT)}")
     if unread:
         print("the model reported unread parts:", "; ".join(unread)[:200])
+    if forced:
+        print(f"the REPL ran out of its {iters} iterations; the answer was forced, not submitted")
     return out
 
 
@@ -305,6 +328,9 @@ def score(slug: str) -> int:
     for path in (gold_path, pred_path):
         if not path.exists():
             raise SystemExit(f"missing {path.relative_to(ROOT)}")
+    from gold import refusal
+    if refused := refusal(slug):
+        raise SystemExit(refused)
     gold = candidate_terms(gold_path.read_text(encoding="utf-8"))
     pred = candidate_terms(pred_path.read_text(encoding="utf-8"))
     metric = _score_sets(gold, pred, key_fn=fold)
@@ -361,9 +387,14 @@ def selftest() -> int:
     full = reach(slug, [doc.offset + (last - doc.offset) * k // 10 for k in range(11)])
     if early["share"] >= 0.9 or full["share"] < 0.99 or full["tenths"] != 10:
         failures.append(f"reach misjudged: early {early}, full {full}")
+    if judge(1.0, [], [], 1.0, forced=True).startswith("a reading"):
+        failures.append("a forced final output was judged a reading")
+    if not judge(1.0, [], [], 1.0, forced=False).startswith("a reading"):
+        failures.append("a complete, cited, far-reaching list was not judged a reading")
     for f in failures:
         print(f"  FAIL  {f}")
-    print(f"rlm_ingest: {4 - len(failures)} of 4 offline cases hold (find_line, refusal, count, reach)")
+    print(f"rlm_ingest: {6 - len(failures)} of 6 offline cases hold "
+          "(find_line, refusal, count, reach, forced answer, a reading)")
     return 1 if failures else 0
 
 

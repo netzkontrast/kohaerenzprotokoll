@@ -42,7 +42,7 @@ count. It is the only artifact of a run a program cannot produce, and the only
 thing anything automated can ever be scored against. `capture.py --count` already
 refuses without it. Do not weaken that refusal, and do not reconstruct the list
 afterwards — four reconstructed lists exist, are marked as reconstructions, and
-`trainset.py` refuses them.
+`scripts/gold.py` rules none of them gold.
 
 **And a gold list is one reading, not the truth.** Two independent readings of
 one document, neither seeing the other, produced **131 and 113 candidates with 80
@@ -260,16 +260,18 @@ dropped, and a mostly-unverified list names itself in `written_by:`. An
 incomplete reading is a fact and usable. A complete-looking reconstruction is
 neither.
 
-**Never write `03-candidates.md` from a model.** A model's list goes to
-`03-candidates-rlm.md` and states `written_by:`, which `state.py` reads. The gold
-list and the thing gold scores must not be able to become each other, and the
-prose is not enough to tell them apart: „does the head contain 'reconstruct'"
+**Never write `03-candidates.md` from a model run.** A model run's list goes to
+`03-candidates-rlm.md`, where `scripts/gold.py` never looks. The gold list and
+the thing gold scores must not be able to become each other, and the prose is
+not enough to tell them apart: „does the head contain 'reconstruct'"
 once passed a model's list and failed a list whose prose *denied* being a
 reconstruction.
 
 **Never grade your own candidate list.** Extraction's independence is what makes
 reconciliation safe, and a self-scored recall term is that same defect moved one
-step along. If a model produced the list, say so in the run; it is not gold.
+step along. A list the session writes while reading, before any count, is a
+reading like a person's, and `scripts/gold.py` rules on it by what it is, not by
+who wrote it (decision 009); its `written_by:` line says who did.
 
 **Never describe a step that does not exist.** The predecessor declared a section
 abolished that 41 pages still carry, specified a `Wiki/contradictions/` ledger no

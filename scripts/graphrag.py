@@ -16,9 +16,11 @@ built so that the thing it returns cannot misstate a source:
    Relevance **with a relevance floor**, ported from
    `netzkontrast/dspy-agent-skills` `scaffolding/kp_canon_retriever.py`
    (itself from `dspy-refrag`, MIT). The floor is not optional: measured there,
-   plain MMR picks an unrelated passage over a relevant near-duplicate at every
-   λ from 0.5 to 0.8, because zero relevance with zero redundancy outscores
-   high relevance with high redundancy.
+   on its four-passage fixture, plain MMR picks an unrelated passage over a
+   relevant near-duplicate at every λ from 0.5 to 0.8 — on this file's own
+   selftest fixture from 0.55 — because zero relevance with zero redundancy
+   outscores high relevance with high redundancy
+   (`Plan/concept/dspy-extract_2026-09-24/details-drg-mmr.md`).
 4. **Return** — the quotations verbatim with document and line, the conflicts
    that touch the ranked pages, the open questions that do, and the documents
    the mass flowed to. **No synthesis** (P13): `Agentic-Dspy-Rag`'s synthesizer
@@ -65,7 +67,8 @@ DAMPING = 0.85
 ITERATIONS = 40
 TOP_TERMS = 8
 BUDGET = 8
-DIVERSITY_LAMBDA = 0.65   # kp_canon_retriever's measured default, above upstream's 0.5
+DIVERSITY_LAMBDA = 0.65   # kp_canon_retriever's measured default. λ weights diversity here and
+                          # relevance in upstream dspy-refrag, so this is upstream's 0.35
 MIN_RELEVANCE = 0.15      # the floor; 0.0 reproduces unguarded MMR
 MIN_SURFACE = 4           # a shorter fold is a substring of far too much
 STOP = set("aber alle auch dass dem den der des die das ein eine einem einen einer eines "
@@ -164,7 +167,10 @@ def select_mmr(relevance: list[float], similar, budget: int = BUDGET,
     `select_mmr` (itself dspy-refrag `sensor_advanced.py`, MIT), generalised to
     take precomputed relevance and a similarity function. Candidates below
     `min_relevance` are excluded *before* selection — see the module docstring
-    for why the floor is the part that matters.
+    for why the floor is the part that matters. The score is
+    `(1 - λ) · relevance - λ · redundancy`: λ weights diversity. Upstream
+    dspy-refrag writes `λ · relevance - (1 - λ) · redundancy` and never applies
+    its `min_score` inside MMR.
     """
     remaining = [i for i, r in enumerate(relevance) if r >= min_relevance]
     chosen: list[int] = []

@@ -695,7 +695,7 @@ it runs:
 | venv | python | why |
 |---|---|---|
 | `.venv-tools` | 3.11 | markitdown and its converters, for `sources.py land` |
-| `.venv-dspy` | 3.11 | DSPy 3.3.1 with numpy — every `scripts/` step that calls a model or its fixture |
+| `.venv-dspy` | 3.11 | DSPy 3.3.1 with numpy and Deno — every `scripts/` step that calls a model or its fixture |
 | `.venv-dspytools` | **3.12** | `dspytools`, which refuses 3.11 |
 | `.venv-typesafe` | 3.11 | `typesafe-sdk`, for Jev — `scripts/jev_entities.py` (a test) and `scripts/bilingual.py` |
 | `.venv-grawiki` | **3.12** | `grawiki[falkordblite,viz]` from `netzkontrast/grawiki` at `920d181`, which refuses 3.11; about 2 GB with CPU torch |
@@ -704,8 +704,9 @@ it runs:
 
 ```bash
 uv venv --python 3.11 .venv-dspy
-uv pip install --python .venv-dspy/bin/python 'dspy[numpy]==3.3.1'   # SIMBA raises without numpy
-.venv-dspy/bin/python scripts/check_dspy_surface.py                   # the surface this repo calls
+uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'   # SIMBA raises without numpy; dspy.RLM needs Deno
+.venv-dspy/bin/python scripts/check_dspy_surface.py                        # the surface this repo calls
+.venv-dspy/bin/python scripts/check_dspy_skill.py                          # the DSPy the dspy skill teaches
 ```
 
 ```bash
@@ -966,6 +967,7 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor**, not only one that fell since the last row, and a `vetoed` row fails whatever its score |
 | `pairs.py` | one-term-or-two: `fold()` first, a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
 | `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
+| `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
 **63 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
@@ -985,8 +987,15 @@ for direct calls under decision 007: free models only, the consent file where
 `lmrun` takes `approval=`, every call recorded and replayable offline, and a
 repeat made fresh by `attempt > 0` rather than by turning the record off (P18).
 One rule — no corpus text leaves without the author's decision — now has three
-encodings, which is the drift P6 names; which one the others should call is open
-in `NOW.md`.
+encodings, which is the drift P6 names. Decision 008 keeps all three as they are
+until one changes its rule and the others do not.
+
+**`.agents/skills/dspy` is where the knowledge behind these scripts lives**,
+sorted by the job at hand: API, optimizers, metrics, data, testing, RLM,
+retrieval, text artifacts, operations, patterns, and an index of the nine
+repositories. On 2026-09-24 the nine repositories were read again, in full, for
+everything they contain rather than for ideas; the readers' notes are in
+`Plan/concept/dspy-extract_2026-09-24/`.
 
 ## Changing your mind
 
@@ -1113,7 +1122,9 @@ seen.
 the baseline anything automated gets scored against. The first four documents
 have none — it was never written down — so their reconstructions are marked as
 reconstructions and **cannot serve as a gold set.** `Plan/runs/README.md` says so
-plainly rather than papering over it.
+plainly rather than papering over it. **Which lists are gold is decided by rule**
+in `scripts/gold.py` (decision 009): written while reading, counted, unchanged
+since the count, and of its document — whoever wrote it.
 
 ## Learnings
 

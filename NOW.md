@@ -154,6 +154,9 @@ questions, the templates page's four and the three-encodings question below were
 **answered by the session on the author's delegation** — decision 008, each
 reversible by the author. The two replaced the question's examples because only they
 have a genuine reader's `03-candidates.md`; the decision file says why.
+Decision 009 has since ruled the session's lists for documents 7 to 14 gold as
+well. Decision 007's consent, as decision 008 extended it, still names only
+documents 5 and 6.
 
 **Three encodings of one rule.** „No corpus text leaves without the author's
 decision" is held by `lmrun.py` (`approval=`), by `rlm_ingest.py` (`--approval`,
@@ -265,7 +268,7 @@ written:
   catalogues every Drive document, the canon-era ones included, so they land
   through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
   from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
-  2026-09-24 (see *Landed* below); seven are read — documents 7 to 13, below. Still open: the
+  2026-09-24 (see *Landed* below); eight are read — documents 7 to 14, below. Still open: the
   manuscript and the NCP files, which are not Drive documents and sit only under
   `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
@@ -320,7 +323,8 @@ In order, and none of it needs a model:
 Two things the build found, fixed in place:
 
 - `Plan/trainsets/surface-pairs.jsonl` had gone stale — 17 rows against a
-  ledger that had grown. Re-exported; `pairs.py` reads the ledger live.
+  ledger that had grown. Re-exported then; it has drifted again since (below),
+  and `pairs.py` reads the ledger live, never the export.
 - `graph.py`'s first pairing of quotations to citations disagreed with
   `quotes.py` (14 unresolved against 4). The pairing moved into
   `quotes.pairs` / `quotes.verdict` and both use it; `quotes.py`'s own numbers
@@ -348,6 +352,55 @@ read document 14 **after** its candidate list was committed, as second readers.
   kept the rules worse (F1 0.16–0.21); a template parser got every chapter's
   fields with lines in 6 ms. The session model in parallel blocks is unmeasured.
 - Nothing any of them produced entered a page, link, count or judgement.
+
+## The `dspy` skill — landed, and what checking it against the code left open
+
+`.agents/skills/dspy` (netzkontrast/kohaerenzprotokoll#60) holds what the nine
+DSPy repositories contain, re-read in full on 2026-09-24 and sorted by the job
+at hand; `scripts/check_dspy_skill.py` holds it to the installed DSPy 3.3.1.
+Building it fixed, in place: `lmrun.call` re-raised DSPy 3.3's own
+`LMTransportError` instead of recording `unreachable`; `rlm_ingest.py` could
+call an answer DSPy forced out of an exhausted REPL a reading; `graphrag.py`'s λ
+comment compared two opposite conventions; `trainset.py`, `pairs.py` and
+`check_dspy_surface.py` stated numbers two ledgers old; and `install.sh` built
+`.venv-dspy` without the numpy and Deno extras. Every quotation in the skill
+was checked once against its source, and each whose words were not the
+source's was corrected; that check is not a standing one, because the nine
+clones it reads are not in a fresh container. Open, none of it needing a
+model:
+
+- **`rlm_ingest.py` has no offline run of its RLM loop.** Its selftest covers
+  the tools and the reach. `dspy[deno]` now installs the sandbox, and
+  `check_dspy_skill.py`'s `rlm-runs-offline` probe is the shape one would take
+  (P5).
+- **One baseline row lags.** `rule:fold` was last recorded at n=49 against
+  63 <!--state:pairs.labelled--> labelled pairs; `pairs.py score --rule fold
+  --record` brings it level, and `baseline.py compare` warns until then.
+  `graphrag-retrieval` was recorded level at 17 <!--state:graphrag.cases--> cases
+  after document 14.
+- **Folds move as the ledger grows.** `folds()` deals round-robin over hash
+  order, and one appended judgement moved 15 of 57 rows to another fold
+  (measured). Whether a stable assignment is worth less balanced folds is open.
+- **The export holds 36 rows.** Nothing reads `Plan/trainsets/surface-pairs.jsonl`;
+  refreshing it by hand or demoting it is a construct question.
+- **The DSPy surface has two encodings.** `check_dspy_surface.py`'s `USED` list
+  and the skill's `surface` blocks both assert parameters by
+  `inspect.signature` (P6).
+- **The path check covers one skill.** Extending it to every skill needs a
+  convention first: `ingest` and `tools` name `Wiki/contradictions/` and
+  `Wiki/terms/`, which do not exist, on purpose.
+- **Gold is decided by rule, and the rule rests on one untested assumption.**
+  `scripts/gold.py` (decision 009) rules 10 <!--state:trainset.gold_candidate_lists-->
+  candidate lists gold. On 2026-09-24, eight of them were written by the session
+  that read the document, and none of those eight has a second reading of the
+  same kind — document 14's three second readers were models asked for 50 to 200
+  names or triplets, not an exhaustive list, so their F1 (best 0.37) does not
+  test it. The
+  assumption is that a session's reading disagrees with another reading no more
+  than two readings did before (F1 0.66, P27). One second, independent reading
+  of a document from 7 to 14 would test it. The lists of documents 5 and 6 have
+  been scored against by the tool review (best F1 0.16), and document 14's by its
+  second readers.
 
 ## Half-done — the entity lists
 
@@ -661,6 +714,15 @@ premise is that a task is derived from measured state, so it cannot be forgotten
 and cannot go stale in a list.
 
 ## Known failing
+
+**`scripts/qmd_coverage.py` cannot fail while a collection is rooted at `.`.**
+It counts a file as covered when the file lies under any collection's root
+path, and the `decisions` and `all` collections are rooted at `.`, narrowed
+only by their patterns. So every markdown file passes, including `scripts/`
+and `.agents/skills/`, which no pattern indexes. Found by reading the script
+and `.qmd/index.yml` on 2026-09-24, and not run: that container had no qmd
+binary. The fix is to test a file against each collection's pattern, not its
+root.
 
 **17 <!--state:quotes.unresolved--> quotations do not resolve to the line they
 cite.** All predate `scripts/quotes.py`; every page written since is clean. An

@@ -24,23 +24,22 @@ Usage:
 
 from __future__ import annotations
 
-import json
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-LEDGER = ROOT / "Plan" / "runs" / "judgements.jsonl"
 
 sys.path.insert(0, str(ROOT / "scripts"))
+import subject  # noqa: E402
+from subject import JUDGEMENTS as LEDGER  # noqa: E402
 from wiki_index import fold  # noqa: E402
 
 
 def records() -> list[dict]:
-    """The ledger, parsed. The only place that reads the file."""
+    """The ledger, parsed by `subject.judgements` — and here, no ledger is an exit."""
     if not LEDGER.exists():
         sys.exit(f"no ledger at {LEDGER.relative_to(ROOT)}")
-    return [json.loads(line) for line in LEDGER.read_text(encoding="utf-8").splitlines()
-            if line.strip()]
+    return subject.judgements()
 
 
 def replay(record: dict) -> tuple[str, str]:
@@ -152,10 +151,4 @@ def main(argv: list[str]) -> int:
 
 
 if __name__ == "__main__":
-    try:
-        import signal
-
-        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
-    except (ImportError, AttributeError, ValueError):
-        pass
-    raise SystemExit(main(sys.argv[1:]))
+    subject.cli(main)

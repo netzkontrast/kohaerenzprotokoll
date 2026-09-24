@@ -45,10 +45,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
-import subprocess
 import sys
 from datetime import date
+from functools import cache
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -69,15 +70,19 @@ def measure(key: str, how: str):
 
 # ---------------------------------------------------------------- sources
 
+# Several measurements share one expensive reading. Each such reading is cached
+# for the run, so a derive computes it once rather than once per measurement —
+# three identical graphrag benches were most of a derive's seven seconds.
+
+@cache
+def _manifest_rows() -> list[dict]:
+    import subject
+    return subject.rows()
+
+
 @measure("sources.total", "rows in Sources/manifest.jsonl")
 def _sources_total() -> int:
-    return sum(1 for line in (ROOT / "Sources" / "manifest.jsonl").read_text(
-        encoding="utf-8").splitlines() if line.strip())
-
-
-def _manifest_rows():
-    return [json.loads(line) for line in (ROOT / "Sources" / "manifest.jsonl").read_text(
-        encoding="utf-8").splitlines() if line.strip()]
+    return len(_manifest_rows())
 
 
 @measure("sources.canon_era", "manifest rows with an index_date from 2026-05-01 on — the canon-era documents")
@@ -93,10 +98,8 @@ def _canon_era_landed() -> int:
 
 @measure("sources.folded", "rows in Sources/duplicates.jsonl — fetched, then found to be a copy")
 def _sources_folded() -> int:
-    path = ROOT / "Sources" / "duplicates.jsonl"
-    if not path.exists():
-        return 0
-    return sum(1 for line in path.read_text(encoding="utf-8").splitlines() if line.strip())
+    import subject
+    return len(subject.duplicates())
 
 
 @measure("sources.landed", "manifest rows carrying an export_path — the files on disk")
@@ -114,6 +117,18 @@ def _sources_distinct() -> int:
 def _sources_near_copies() -> int:
     from duplicates import groups
     return sum(len(g) - 1 for g in groups(0.8))
+
+
+@measure("sources.without_frontmatter", "landed files that do not open with the eight lines of provenance")
+def _sources_without_frontmatter() -> int:
+    return sum(1 for r in _manifest_rows() if r.get("export_path")
+               and not (ROOT / r["export_path"]).read_text(encoding="utf-8").startswith("---\n"))
+
+
+@measure("sources.repeated_titles", "titles on more than one manifest row — a shared title is not a copy")
+def _sources_repeated_titles() -> int:
+    from collections import Counter
+    return sum(1 for n in Counter(r["title"] for r in _manifest_rows()).values() if n > 1)
 
 
 # ---------------------------------------------------------------- documents
@@ -135,6 +150,7 @@ def _reconciled() -> int:
 
 # ---------------------------------------------------------------- entities
 
+@cache
 def _entity_lists() -> list[dict]:
     import entities
     return [entities.verify(e) for e in entities.lists()]
@@ -162,20 +178,33 @@ def _e_rows_verified() -> int:
 
 # ---------------------------------------------------------------- wiki
 
+@cache
+def _index() -> dict:
+    """The index as it stands on disk — measured, not rebuilt."""
+    return json.loads(INDEX.read_text(encoding="utf-8"))
+
+
 @measure("wiki.pages", "pages counted by the derived Wiki/index.json")
 def _wiki_pages() -> int:
-    return json.loads(INDEX.read_text(encoding="utf-8"))["pages"]
+    return _index()["pages"]
 
 
 @measure("wiki.conflicts", "conflict records counted by the derived Wiki/index.json")
 def _wiki_conflicts() -> int:
-    return json.loads(INDEX.read_text(encoding="utf-8"))["conflicts"]
+    return _index()["conflicts"]
 
 
 @measure("wiki.questions", "question pages in Wiki/questions/, excluding the README")
 def _wiki_questions() -> int:
     return len([p for p in (ROOT / "Wiki" / "questions").glob("*.md")
                 if p.stem != "README"])
+
+
+@measure("wiki.zero_readings", "term pages whose frontmatter says readings: 0 — a term only asked about")
+def _wiki_zero_readings() -> int:
+    from wiki_index import frontmatter
+    return sum(1 for p in (ROOT / "Wiki" / "candidates").glob("*.md")
+               if frontmatter(p.read_text(encoding="utf-8")).get("readings") == "0")
 
 
 @measure("wiki.relations", "a page naming another page as `slug`, scripts/relations.py")
@@ -229,6 +258,7 @@ def _graph_evidence_verified() -> int:
     return sum(1 for v in build()["evidence"].values() for e in v if e["status"] == "verified")
 
 
+@cache
 def _bench() -> dict:
     from graphrag import bench
     out = {}
@@ -271,26 +301,35 @@ def _prop_glosses() -> int:
     return len(proposals()["glosses"])
 
 
+@cache
+def _surface_pairs() -> list[dict]:
+    from trainset import surface_pairs
+    return surface_pairs()
+
+
+@cache
+def _fold_baseline() -> dict:
+    from trainset import fold_baseline
+    return fold_baseline(_surface_pairs())
+
+
 @measure("pairs.labelled", "labelled one-term-or-two pairs derived from the judgement ledger")
 def _pairs_labelled() -> int:
-    from trainset import surface_pairs
-    return len(surface_pairs())
+    return len(_surface_pairs())
 
 
 @measure("pairs.fold_correct", "of those, decided correctly by fold() — the floor")
 def _pairs_fold_correct() -> int:
-    from trainset import fold_baseline, surface_pairs
-    return fold_baseline(surface_pairs())["correct"]
+    return _fold_baseline()["correct"]
 
 
 # ---------------------------------------------------------------- checks
 
+@cache
 def _verdicts() -> list[str]:
     """One replay of the whole ledger, shared by the three measurements."""
-    if not hasattr(_verdicts, "cached"):
-        from judgements import replay, records
-        _verdicts.cached = [replay(r)[0] for r in records()]
-    return _verdicts.cached
+    from judgements import replay, records
+    return [replay(r)[0] for r in records()]
 
 
 @measure("judgements.total", "records in Plan/runs/judgements.jsonl")
@@ -335,53 +374,80 @@ def _rules() -> int:
     return len(load())
 
 
+@cache
 def _quotes() -> dict:
-    """One quotes.py run, reused by the three measurements that need it."""
-    if not hasattr(_quotes, "cached"):
-        out = subprocess.run([sys.executable, str(ROOT / "scripts" / "quotes.py")],
-                             capture_output=True, text=True, cwd=ROOT).stdout
-        found = re.search(r"(\d+) cited quotes checked, (\d+) unresolved; (\d+)", out)
-        _quotes.cached = {"checked": int(found.group(1)), "unresolved": int(found.group(2)),
-                          "unchecked": int(found.group(3))} if found else \
-                         {"checked": 0, "unresolved": 0, "unchecked": 0}
-    return _quotes.cached
+    """One quotes.py tally, reused by the three measurements that need it."""
+    from quotes import tally
+    return tally()
 
 
 # ---------------------------------------------------------------- trainsets
 
 @measure("trainset.surface_pairs", "labelled one-term/two-terms examples in the ledger")
 def _ts_pairs() -> int:
-    from trainset import surface_pairs
-    return len(surface_pairs())
+    return len(_surface_pairs())
 
 
 @measure("trainset.fold_baseline_pct", "what fold() scores on them — beat this or do not call an LM")
 def _ts_base() -> int:
-    from trainset import surface_pairs, fold_baseline
-    return round(fold_baseline(surface_pairs())["accuracy"] * 100)
+    return round(_fold_baseline()["accuracy"] * 100)
 
 
-@measure("trainset.gold_candidate_lists", "candidate lists written while reading, not reconstructed")
+@measure("trainset.gold_candidate_lists", "candidate lists scripts/gold.py rules gold (decision 009)")
 def _ts_gold() -> int:
-    """A list says who wrote it. Absent that, the old substring test decides.
+    """Asked of scripts/gold.py, the one place the rule lives.
 
-    The test used to be „does the first 300 characters contain 'reconstruct'",
-    which is a claim about wording rather than about provenance: a list whose
-    prose *denies* being a reconstruction matches it, and a model's list that
-    never says the word passes as gold. The four lists from documents 1-4 predate
-    the marker and still fall back to the substring, because for them the
-    substring is what the file actually says.
+    This used to be two tests of wording: the word "reader" in a `written_by:`
+    line, else no "reconstruct" in the first 300 characters. It counted 2 while
+    `trainset.blocked()`, with its own test, counted 9 usable — one question, two
+    answers. Gold is now decided by what a list is, not by how its header reads.
     """
-    runs = ROOT / "Plan" / "runs"
-    gold = 0
-    for path in runs.glob("*/03-candidates.md"):
-        head = path.read_text(encoding="utf-8")[:300]
-        written_by = re.search(r"^written_by:\s*(.+)$", head, re.M)
-        if written_by:
-            gold += "reader" in written_by.group(1).lower()
-        elif "reconstruct" not in head.lower():
-            gold += 1
-    return gold
+    from gold import gold_slugs
+    return len(gold_slugs())
+
+
+# ---------------------------------------------------------------- index READMEs
+
+def _index_drift(readme: Path, entries: set[str], form: str) -> int:
+    """How far an index README has drifted from what it indexes: entries it does
+    not name, plus names in the index's own form that match no entry. Each such
+    README carries the result, 0, under its marker, so `--prose` fails the day a
+    file arrives unlisted or leaves still listed."""
+    if not readme.exists():
+        return len(entries)
+    named = {m for m in re.findall(r"`([^`\n]+)`", readme.read_text(encoding="utf-8"))
+             if re.fullmatch(form, m)}
+    return len(entries - named) + len(named - entries)
+
+
+@measure("readme.scripts_drift", "scripts/README.md against the files in scripts/: missed plus dangling")
+def _readme_scripts() -> int:
+    base = ROOT / "scripts"
+    entries = {p.relative_to(base).as_posix() for p in base.rglob("*")
+               if p.is_file() and "__pycache__" not in p.parts and p.name != "README.md"}
+    return _index_drift(base / "README.md", entries, r"(?:rules/)?[\w.-]+\.(?:py|sh|js|html)")
+
+
+@measure("readme.skills_drift", ".agents/skills/README.md against the project skills: missed plus dangling")
+def _readme_skills() -> int:
+    base = ROOT / ".agents" / "skills"
+    entries = {f"{p.parent.name}/SKILL.md" for p in base.glob("*/SKILL.md")}
+    return _index_drift(base / "README.md", entries, r"[\w-]+/SKILL\.md")
+
+
+@measure("readme.decisions_drift", "Plan/decisions/README.md against the decision files: missed plus dangling")
+def _readme_decisions() -> int:
+    base = ROOT / "Plan" / "decisions"
+    entries = {p.name for p in base.glob("*.md") if p.name != "README.md"}
+    return _index_drift(base / "README.md", entries, r"\d{3}-[\w-]+\.md")
+
+
+@measure("readme.plan_drift", "Plan/README.md against the folders in Plan/: missed plus dangling")
+def _readme_plan() -> int:
+    base = ROOT / "Plan"
+    # Plan/derived/ is git-ignored and absent until derive.py runs; it is named either way.
+    entries = {f"Plan/{p.name}/" for p in base.iterdir() if p.is_dir()} | {"Plan/derived/"}
+    return _index_drift(base / "README.md", entries, r"Plan/[\w-]+/")
 
 
 # ---------------------------------------------------------------- driver
@@ -428,10 +494,17 @@ def marked_files() -> list[Path]:
     Venvs are skipped by prefix, as `qmd_coverage.py` does. A list of their names
     went stale the same way: it missed `.venv-typesafe`, and it read 96
     markdown files from inside `.venv-mflow`, the day that venv was created.
+    A skipped directory is not entered at all: filtering after the walk meant
+    reading every directory of every venv first, thousands for `.venv-dspy`.
     """
-    return sorted(p for p in ROOT.rglob("*.md")
-                  if not any(part in SKIP or part.startswith(".venv")
-                             for part in p.relative_to(ROOT).parts))
+    def skipped(name: str) -> bool:
+        return name in SKIP or name.startswith(".venv")
+
+    found = []
+    for folder, dirs, files in os.walk(ROOT):
+        dirs[:] = [d for d in dirs if not skipped(d)]
+        found += [Path(folder) / f for f in files if f.endswith(".md") and not skipped(f)]
+    return sorted(found)
 
 
 def check_prose(paths: list[Path]) -> list[dict]:
@@ -442,13 +515,16 @@ def check_prose(paths: list[Path]) -> list[dict]:
         if not path.exists():
             continue
         text = path.read_text(encoding="utf-8")
+        if "state:" not in text:
+            continue    # both patterns need the literal; most files have none
         # A marker nothing could read is reported rather than skipped. One inside
         # backticks is prose *about* markers -- this page explains its own format --
         # and is not a claim in either direction, so both loops step over it. The
         # relaxed number pattern would otherwise bind `<!--state:key-->` to whatever
         # digit happened to stand a line above it.
         code = [(m.start(), m.end()) for m in IN_CODE.finditer(text)]
-        readable = {m.start("key") for m in MARKER.finditer(text)}
+        markers = list(MARKER.finditer(text))
+        readable = {m.start("key") for m in markers}
         for stray in ANY_MARKER.finditer(text):
             if stray.start(1) in readable:
                 continue
@@ -456,7 +532,7 @@ def check_prose(paths: list[Path]) -> list[dict]:
                 continue
             problems.append({"file": path, "key": stray.group(1),
                              "why": "no number this check can read stands before it"})
-        for match in MARKER.finditer(text):
+        for match in markers:
             if any(a <= match.start("key") < b for a, b in code):
                 continue    # documentation of the format, not a claim
             key = match.group("key")

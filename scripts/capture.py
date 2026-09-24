@@ -28,7 +28,6 @@ import json
 import re
 import subprocess
 import sys
-import unicodedata
 from datetime import date
 from pathlib import Path
 
@@ -37,15 +36,17 @@ RUNS = ROOT / "Plan" / "runs"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import subject  # noqa: E402
-PROFILE = ROOT / "scripts" / "profile.py"
-MANIFEST = ROOT / "Sources" / "manifest.jsonl"
+from rules import export_damage  # noqa: E402
+from wiki_index import mention  # noqa: E402
 
-INVISIBLE = {"\u200b", "\u200c", "\u200d", "\u2060", "\ufeff"}
-TYPOGRAPHIC = "\u201e\u201c\u201d\u2018\u2019\u2013\u2014"
-GLUED_REF = re.compile(r"([A-ZÄÖÜ][A-Za-zäöüß\-]{3,})\s(\d{1,2})\b")
-ESCAPE = re.compile(r"\\([\[\]*\"_])")
+# profile.py runs as its own process: imported here, `profile` would shadow the
+# standard library's module of that name, which cProfile imports.
+PROFILE = ROOT / "scripts" / "profile.py"
+
 WORD = re.compile(r"[A-ZÄÖÜ][A-Za-zäöüß]{3,}")
 PROSE = re.compile(r"\*\*|`|\. |, ")
+# The declaration every reconstructed candidate list carries. scripts/gold.py reads it too.
+RECONSTRUCTED = "Reconstructed, not original"
 
 
 def candidate_terms(markdown: str) -> list[str]:
@@ -106,8 +107,10 @@ def surfaces(term: str, text: str) -> list[tuple[str, int]]:
     """
     if len(term) < 4 or " " in term:
         return []
+    literal = re.escape(term)
+    # The lookbehind after the literal, as in `wiki_index.mention`: same spans, faster.
     found = collections.Counter(
-        re.findall(rf"(?<![\w-]){re.escape(term)}[\w-]+", text, re.IGNORECASE))
+        re.findall(rf"{literal}(?<![\w-]{literal})[\w-]+", text, re.IGNORECASE))
     return sorted(((f, n) for f, n in found.items() if f.lower() != term.lower()),
                   key=lambda p: -p[1])[:4]
 
@@ -126,9 +129,7 @@ def count_both(term: str, text: str) -> tuple[int, int]:
     Counting only whole words would have lost the compounds. So both, always,
     and the reader sees the ratio.
     """
-    escaped = re.escape(term)
-    word = len(re.findall(rf"(?<![\w-]){escaped}(?![\w-])", text))
-    return word, len(re.findall(escaped, text))
+    return len(mention(term).findall(text)), text.count(term)
 
 
 def drive_id_of(slug: str) -> str:
@@ -156,8 +157,8 @@ def write_json(run: Path, slug: str, step: str, payload: dict, by: str) -> None:
     (run / f"{step}.json").write_text(json.dumps(obj, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
-def body_of(slug: str) -> tuple[Path, str, int]:
-    """Path, body, and the file line the body starts on -- from `subject`.
+def body_of(slug: str) -> tuple[str, int]:
+    """The body, and the file line it starts on -- from `subject`.
 
     The offset is returned rather than assumed because citations count from line 1
     of the file while extraction skips the frontmatter. Reporting a body-local line
@@ -169,7 +170,7 @@ def body_of(slug: str) -> tuple[Path, str, int]:
         doc = subject.document(slug)
     except KeyError as exc:
         sys.exit(str(exc))
-    return doc.path, doc.body, doc.offset
+    return doc.body, doc.offset
 
 
 def inflection_families(text: str, minimum: int = 2) -> list[tuple[str, list[str]]]:
@@ -182,8 +183,13 @@ def inflection_families(text: str, minimum: int = 2) -> list[tuple[str, list[str
 
 
 def substring_pairs(text: str, limit: int = 20) -> list[tuple[str, str]]:
-    """Distinct capitalised words where one contains the other: never one term."""
-    words = sorted(set(WORD.findall(text)), key=len)
+    """Distinct capitalised words where one contains the other: never one term.
+
+    Ties in length are broken by the word. Sorting by length alone left them in
+    set order, which changes with every process, and the cut at `limit` then kept
+    a different twenty pairs on each run of the same document.
+    """
+    words = sorted(set(WORD.findall(text)), key=lambda w: (len(w), w))
     pairs = []
     for i, short in enumerate(words):
         for long in words[i + 1 :]:
@@ -194,45 +200,46 @@ def substring_pairs(text: str, limit: int = 20) -> list[tuple[str, str]]:
     return pairs
 
 
-def probes(text: str) -> str:
-    """Everything deterministic that has ever defeated an exact match here."""
-    invisible = {c: text.count(c) for c in INVISIBLE if c in text}
+def probes(damage: dict, families: list[tuple[str, list[str]]],
+           pairs: list[tuple[str, str]]) -> str:
+    """Everything deterministic that has ever defeated an exact match here.
+
+    The export damage is `rules/export_damage.py`'s, so this file, `probes.json`
+    and the derived cache cannot count it three different ways.
+    """
+    invisible = damage["invisible_characters"]
     out = [
         "# export damage",
-        f"  invisible characters   {', '.join(f'U+{ord(c):04X} x{n}' for c, n in invisible.items()) or 'none'}",
-        f"  glued ref numbers      {len(GLUED_REF.findall(text))}",
-        f"  backslash escapes      {len(ESCAPE.findall(text))}",
-        f"  typographic marks      {sum(text.count(c) for c in TYPOGRAPHIC)}",
-        f"  ascii quotes           {text.count(chr(34))}",
+        f"  invisible characters   {', '.join(f'{c} x{n}' for c, n in invisible.items()) or 'none'}",
+        f"  glued ref numbers      {damage['glued_ref_numbers']}",
+        f"  backslash escapes      {damage['backslash_escapes']}",
+        f"  typographic marks      {damage['typographic_marks']}",
+        f"  ascii quotes           {damage['ascii_quotes']}",
         "",
         "# inflection families -- one term, several surfaces",
     ]
-    families = inflection_families(text)
-    out += [f"  {stem:8} {', '.join(words)}" for stem, words in families[:25]] or ["  none"]
+    out += [f"  {stem:8} {', '.join(words)}" for stem, words in families] or ["  none"]
     out += ["", "# substring pairs -- never one term, often merged by accident"]
-    pairs = substring_pairs(text)
     out += [f"  {short} < {long}" for short, long in pairs] or ["  none"]
     return "\n".join(out)
 
 
 def capture(slug: str) -> Path:
-    path, text, _ = body_of(slug)
+    text, _ = body_of(slug)
     run = RUNS / slug
     run.mkdir(parents=True, exist_ok=True)
     profile = subprocess.run(
         [sys.executable, str(PROFILE), slug], capture_output=True, text=True, check=True
     ).stdout
     (run / "01-profile.txt").write_text(profile, encoding="utf-8")
-    (run / "02-probes.txt").write_text(probes(text) + "\n", encoding="utf-8")
-    invisible = {f"U+{ord(c):04X}": text.count(c) for c in INVISIBLE if c in text}
+    damage = export_damage.derive({"body": text})
+    families = inflection_families(text)[:25]
+    pairs = substring_pairs(text)
+    (run / "02-probes.txt").write_text(probes(damage, families, pairs) + "\n", encoding="utf-8")
     write_json(run, slug, "probes", {
-        "invisible_characters": invisible,
-        "glued_ref_numbers": len(GLUED_REF.findall(text)),
-        "backslash_escapes": len(ESCAPE.findall(text)),
-        "typographic_marks": sum(text.count(c) for c in TYPOGRAPHIC),
-        "ascii_quotes": text.count(chr(34)),
-        "inflection_families": {stem: words for stem, words in inflection_families(text)[:25]},
-        "substring_pairs": [list(pair) for pair in substring_pairs(text)],
+        **damage,
+        "inflection_families": dict(families),
+        "substring_pairs": [list(pair) for pair in pairs],
     }, by="scripts/capture.py")
     if not (run / "03-candidates.md").exists():
         (run / "03-candidates.md").write_text(
@@ -246,15 +253,16 @@ def capture(slug: str) -> Path:
 
 
 def count(slug: str) -> Path:
-    path, text, offset = body_of(slug)
+    text, offset = body_of(slug)
     run = RUNS / slug
     candidates_file = run / "03-candidates.md"
     if not candidates_file.exists():
         sys.exit(f"write {candidates_file} first -- counting before proposing decides what gets seen")
-    terms = candidate_terms(candidates_file.read_text(encoding="utf-8"))
+    candidates = candidates_file.read_text(encoding="utf-8")
+    terms = candidate_terms(candidates)
     if not terms:
         sys.exit(f"{candidates_file} has no `- term` lines yet")
-    prose = read_as_prose(candidates_file.read_text(encoding="utf-8"))
+    prose = read_as_prose(candidates)
     if prose:
         print(f"{len(prose)} `- ` line(s) read as prose, not counted: " + " · ".join(prose))
     lines = text.split("\n")
@@ -269,28 +277,23 @@ def count(slug: str) -> Path:
     ]
     out.append("#   word = the term standing alone; in = anywhere, compounds included")
     out.append("")
+    counts = {}
     for term in terms:
         hits = [i + offset for i, line in enumerate(lines) if term in line]
         word, inside = count_both(term, text)
+        counts[term] = {"n": word, "n_including_compounds": inside, "lines": hits}
         flag = "  <-- substring" if inside > 2 * max(word, 1) else ""
         out.append(f"  {term:30} {word:4} word {inside:5} in   {hits[:6]}{flag}")
         for form, n in surfaces(term, text):
             out.append(f"  {'':30} {n:4}      as {form}")
     (run / "04-counts.txt").write_text("\n".join(out) + "\n", encoding="utf-8")
-    reconstructed = "Reconstructed, not original" in candidates_file.read_text(encoding="utf-8")
+    reconstructed = RECONSTRUCTED in candidates
     write_json(run, slug, "counts", {
         "candidate_source": "reconstructed-from-census" if reconstructed else "written-while-reading",
         "usable_as_baseline": not reconstructed,
         "line_base": "file, from line 1, as a citation writes it",
         "read_as_prose": prose,
-        "counts": {
-            term: {
-                "n": count_both(term, text)[0],
-                "n_including_compounds": count_both(term, text)[1],
-                "lines": [i + offset for i, line in enumerate(lines) if term in line],
-            }
-            for term in terms
-        },
+        "counts": counts,
     }, by="scripts/capture.py")
     return run
 
@@ -309,10 +312,4 @@ def main(argv: list[str]) -> int:
 
 
 if __name__ == "__main__":
-    try:
-        import signal
-
-        signal.signal(signal.SIGPIPE, signal.SIG_DFL)
-    except (ImportError, AttributeError, ValueError):
-        pass
-    raise SystemExit(main(sys.argv[1:]))
+    subject.cli(main)

@@ -64,11 +64,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
-from subject import documents  # noqa: E402
+from subject import DUPLICATES, MANIFEST, documents, duplicates, rows, write_jsonl  # noqa: E402
 from duplicates import groups  # noqa: E402
 
-MANIFEST = ROOT / "Sources" / "manifest.jsonl"
-DUPLICATES = ROOT / "Sources" / "duplicates.jsonl"
 DECISION = ROOT / "Plan" / "runs" / "dedupe.json"
 URL = re.compile(r"https?://|https?\s")
 ENDLIST = re.compile(r"\bend list\b", re.I)
@@ -120,9 +118,7 @@ def rank(doc, title: str) -> tuple:
 
 
 def titles() -> dict[str, str]:
-    return {r["slug"]: r.get("title", "")
-            for r in (json.loads(line) for line in
-                      MANIFEST.read_text(encoding="utf-8").splitlines() if line.strip())}
+    return {r["slug"]: r.get("title", "") for r in rows()}
 
 
 def decide(threshold: float) -> list[dict]:
@@ -144,11 +140,8 @@ def decide(threshold: float) -> list[dict]:
 
 def apply(decided: list[dict]) -> tuple[int, int]:
     folded = {f["slug"]: d["keep"] for d in decided for f in d["fold"]}
-    rows = [json.loads(line) for line in MANIFEST.read_text(encoding="utf-8").splitlines()
-            if line.strip()]
-
     kept, dropped, unlinked = [], [], 0
-    for row in rows:
+    for row in rows():
         keeper = folded.get(row.get("slug", ""))
         if not keeper:
             kept.append(row)
@@ -162,16 +155,10 @@ def apply(decided: list[dict]) -> tuple[int, int]:
     DECISION.parent.mkdir(parents=True, exist_ok=True)
     DECISION.write_text(json.dumps(decided, ensure_ascii=False, indent=2) + "\n",
                         encoding="utf-8")
-    existing = ([json.loads(line) for line in
-                 DUPLICATES.read_text(encoding="utf-8").splitlines() if line.strip()]
-                if DUPLICATES.exists() else [])
+    existing = duplicates()
     known = {r.get("drive_id") for r in existing}
-    DUPLICATES.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n"
-                                  for r in existing + [d for d in dropped
-                                                       if d.get("drive_id") not in known]),
-                          encoding="utf-8")
-    MANIFEST.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in kept),
-                        encoding="utf-8")
+    write_jsonl(DUPLICATES, existing + [d for d in dropped if d.get("drive_id") not in known])
+    write_jsonl(MANIFEST, kept)
     return len(dropped), unlinked
 
 
@@ -194,7 +181,7 @@ def main() -> int:
         return 0
     marked, removed = apply(decided)
     print(f"moved {marked} rows to {DUPLICATES.relative_to(ROOT)} and removed {removed} "
-          f"files; {len(open(MANIFEST, encoding='utf-8').readlines())} rows remain")
+          f"files; {len(rows())} rows remain")
     print(f"decision recorded in {DECISION.relative_to(ROOT)}")
     return 0
 

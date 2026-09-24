@@ -28,7 +28,7 @@ try:
 except ImportError:
     sys.exit("no DSPy in this interpreter. Create it:\n"
              "  uv venv --python 3.11 .venv-dspy\n"
-             f"  uv pip install --python .venv-dspy/bin/python 'dspy[numpy]=={PIN}'\n"
+             f"  uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]=={PIN}'\n"
              "then run this with .venv-dspy/bin/python")
 
 # (what, callable, parameters used here, who uses them)
@@ -62,6 +62,17 @@ def example_param_ok(evaluator) -> bool:
     return len(names) >= 2 and names[1] == "example"
 
 
+def gepa_needs_reflection_lm() -> str | None:
+    """`dspy.GEPA` asserts at construction that it has a reflection LM or an
+    instruction proposer. None while that holds, else what moved. One
+    encoding: `check_dspy_skill.py` cites it as `gepa-asserts-reflection-lm`."""
+    try:
+        dspy.GEPA(metric=lambda *a, **k: 0.0, auto="light")
+    except AssertionError:
+        return None
+    return "dspy.GEPA constructed without reflection_lm — the gotcha it guards moved"
+
+
 def run() -> list[str]:
     failures = []
     if dspy.__version__ != PIN:
@@ -77,16 +88,13 @@ def run() -> list[str]:
         failures.append("dspy.LM cache default changed — lmrun.py sets cache=False explicitly; re-read why")
     bsize = inspect.signature(dspy.SIMBA).parameters["bsize"].default
     if bsize != 32:
-        failures.append(f"dspy.SIMBA bsize default is {bsize}, the ladder note assumes 32 (> n=26)")
+        failures.append(f"dspy.SIMBA bsize default is {bsize}; pairs.py caps it because 32 exceeded the set")
     if not hasattr(dspy, "track_usage"):
         failures.append("dspy.track_usage is gone — lmrun.py records cost through it")
 
     # Construction-time gotchas: asserted by behaviour, not by reading.
-    try:
-        dspy.GEPA(metric=lambda *a: 0, auto="light")
-        failures.append("dspy.GEPA constructed without reflection_lm — the gotcha it guards moved")
-    except AssertionError:
-        pass
+    if moved := gepa_needs_reflection_lm():
+        failures.append(moved)
 
     try:
         import gepa.optimize_anything as oa

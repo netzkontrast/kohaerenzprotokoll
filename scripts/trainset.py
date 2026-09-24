@@ -9,8 +9,12 @@ This ledger was already written that way, for a different reason.
 
 ## The baseline, measured before anything is optimized
 
-The deterministic rule in the repository — `fold()` equality — scores
-**14/17 = 82%** on the labelled records. The three it misses are not bugs:
+The deterministic rule in the repository — `fold()` equality — scored
+**14/17 = 82%** on the labelled records when this was written (2026-09-17). The
+number has fallen as the ledger grew (`NOW.md` has each step), and the script
+prints the live one; what held throughout is the direction: every miss is a
+pair the person called one term and `fold()` kept apart, never the reverse. The
+three it missed then are not bugs:
 
 | id | pair | why fold() will not decide it |
 |---|---|---|
@@ -42,7 +46,6 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-LEDGER = ROOT / "Plan" / "runs" / "judgements.jsonl"
 OUT = ROOT / "Plan" / "trainsets"
 sys.path.insert(0, str(ROOT / "scripts"))
 
@@ -96,20 +99,18 @@ def score_one(gold: dict, predicted: str):
 
 def blocked() -> list[dict]:
     """Tasks that cannot be trained yet, with the reason stated rather than implied."""
-    runs = ROOT / "Plan" / "runs"
-    lists = list(runs.glob("*/03-candidates.md"))
-    reconstructions = [p for p in lists
-                       if "reconstruct" in p.read_text(encoding="utf-8")[:300].lower()]
+    from gold import verdicts
+    lists = verdicts()
     return [
         {"task": "extract candidate terms from a document",
-         "examples": len(lists), "usable": len(lists) - len(reconstructions),
-         "why": "every candidate list so far is a reconstruction written after the "
-                "counts, not while reading. capture.py refuses to count before a list "
-                "exists, so document 5 onward can produce real ones — these cannot."},
+         "examples": len(lists), "usable": sum(v["gold"] for v in lists),
+         "why": "a list is usable only when scripts/gold.py rules it gold: written while "
+                "reading, counted, unchanged since the count, and of the document "
+                "(decision 009). The first four documents' lists are reconstructions."},
         {"task": "is this a conflict",
          "examples": len(list((ROOT / "Wiki" / "conflicts").glob("*.md"))) + 1,
          "usable": 0,
-         "why": "four conflicts and one recorded false positive (Zero-Trust). Too few, "
+         "why": "the recorded conflicts and one false positive (Zero-Trust). Too few, "
                 "and conflict detection is deliberately never mechanised."},
     ]
 
@@ -125,7 +126,7 @@ def main() -> int:
     print(f"one-term-or-two: {len(rows)} labelled examples")
     print(f"  {sum(1 for r in rows if r['decision'] == 'one-term')} one-term, "
           f"{sum(1 for r in rows if r['decision'] == 'two-terms')} two-terms")
-    print(f"  all {sum(1 for r in rows if r['rule'])} carry a stated rule — GEPA feedback")
+    print(f"  {sum(1 for r in rows if r['rule'])} of {len(rows)} carry a stated rule — GEPA feedback")
     print(f"\nbaseline (fold() equality, the rule already in the repository):")
     print(f"  {base['correct']}/{base['total']} = {base['accuracy']:.0%}")
     for miss in base["misses"]:
