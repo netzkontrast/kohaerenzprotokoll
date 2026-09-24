@@ -1,0 +1,223 @@
+{
+  "document": "kapitel-kompendium-gather-2026-05-31-md",
+  "drive_id": "1y4iD-rFr7-km9rCVAbvdzbA1J3zO2j3ljh2LTsIzKN0",
+  "step": "probes",
+  "at": "2026-09-24",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 21,
+  "backslash_escapes": 334,
+  "typographic_marks": 152,
+  "ascii_quotes": 29,
+  "inflection_families": {
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms",
+      "Storypoint",
+      "Storypoints",
+      "Storyweaving"
+    ],
+    "wiede": [
+      "Wieder",
+      "Wiederbegegnung",
+      "Wiedergeburt",
+      "Wiederholtes",
+      "Wiederholung",
+      "Wiederkehr"
+    ],
+    "erinn": [
+      "Erinnern",
+      "Erinnerns",
+      "Erinnerung",
+      "Erinnerungsfragment"
+    ],
+    "erzäh": [
+      "Erzähl",
+      "Erzähler",
+      "Erzählhaltung",
+      "Erzählung"
+    ],
+    "nicht": [
+      "NICHT",
+      "Nicht",
+      "Nichtlokalität",
+      "Nichts"
+    ],
+    "opera": [
+      "Operationsraum",
+      "Operative",
+      "Operativität",
+      "Operator"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektur",
+      "Archiv"
+    ],
+    "haupt": [
+      "Haupt",
+      "Hauptachse",
+      "Hauptsatz"
+    ],
+    "inner": [
+      "Innere",
+      "Inneren",
+      "Innermost"
+    ],
+    "proje": [
+      "Projekt",
+      "Projektion",
+      "Projektwissen"
+    ],
+    "prosa": [
+      "PROSA",
+      "Prosa",
+      "Prosatext"
+    ],
+    "regel": [
+      "REGEL",
+      "Regel",
+      "Regelsystems"
+    ],
+    "schwe": [
+      "Schweben",
+      "Schwelle",
+      "Schwellen"
+    ],
+    "tonal": [
+      "Tonal",
+      "Tonale",
+      "Tonalität"
+    ],
+    "trenn": [
+      "Trennung",
+      "Trennungs",
+      "Trennungsprotokoll"
+    ],
+    "verbi": [
+      "Verbinden",
+      "Verbindung",
+      "Verbindungs"
+    ],
+    "verte": [
+      "Verteidigung",
+      "Verteidigungs",
+      "Verteilung"
+    ],
+    "absch": [
+      "Abschluss",
+      "Abschottung"
+    ],
+    "achse": [
+      "Achse",
+      "Achsen"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteilen"
+    ],
+    "auftr": [
+      "Auftritte",
+      "Auftrittskapitel"
+    ],
+    "außen": [
+      "Außen",
+      "Außenstufen"
+    ],
+    "bewah": [
+      "Bewahrung",
+      "Bewahrungs"
+    ],
+    "block": [
+      "Block",
+      "Blocker"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Form",
+      "Formel"
+    ],
+    [
+      "Form",
+      "Format"
+    ],
+    [
+      "Form",
+      "Reinform"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationsparadox"
+    ],
+    [
+      "Post",
+      "Signpost"
+    ],
+    [
+      "Post",
+      "Signposts"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Comp",
+      "Computational"
+    ],
+    [
+      "Tanz",
+      "Akzeptanz"
+    ],
+    [
+      "Lock",
+      "Block"
+    ],
+    [
+      "Lock",
+      "Blocker"
+    ],
+    [
+      "Lock",
+      "Timelock"
+    ],
+    [
+      "Lock",
+      "Optionlock"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Welt",
+      "Überwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Satz",
+      "Erstsatz"
+    ]
+  ]
+}

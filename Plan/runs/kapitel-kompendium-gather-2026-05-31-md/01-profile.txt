@@ -1,0 +1,14 @@
+# kapitel-kompendium-gather-2026-05-31-md
+  lines                308  (frontmatter ends at 9)
+  body words           3419
+  headings             17   bold-only lines 5
+  table rows           55   code fences 0
+  question marks       5
+  backslash escapes    334
+  typographic marks    152   ascii quotes 29
+  invisible characters none
+  math symbol lines    13
+  glued ref numbers    21
+  repeated labels      Story x13, Genesis-Echo x6, Theorie x6, Philo x3, Schleier x3
+  longest line         731 chars
+

@@ -1,0 +1,309 @@
+{
+  "document": "kapitel-kompendium-gather-2026-05-31-md",
+  "drive_id": "1y4iD-rFr7-km9rCVAbvdzbA1J3zO2j3ljh2LTsIzKN0",
+  "step": "reconcile",
+  "at": "2026-09-24",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 78,
+    "conflicts": 12
+  },
+  "state_after": {
+    "pages": 78,
+    "conflicts": 12
+  },
+  "pre_classification": {
+    "candidates": 275,
+    "decisions": 274,
+    "decided_by_lookup": 213,
+    "needs_judgement": 61
+  },
+  "new_terms": [],
+  "new_terms_rule": "none. A gather compiles what other documents define; its own statements are placements (which chapter, which order), and every term it places already has a page or is structure (the thirteen Heldinnenreise stages, the Stadien systems, Kishōtenketsu labels).",
+  "not_promoted_rule": "185 new terms by lookup, none became a page: chapter stage names, the Stadien systems and their gaps, Dramatica slot vocabulary, the planned file series of §7, and places named once in a chapter line (Lernarchiv Theta-9, Mosaik-Herz, Datenknoten Epsilon).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        25,
+        52,
+        148
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        44,
+        186
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        21
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "did",
+      "lines": [
+        268
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        25
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        170
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        13,
+        158
+      ],
+      "attribution": "premise",
+      "note": "two, from five in its quarry"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        13,
+        52,
+        152,
+        196
+      ],
+      "attribution": "premise",
+      "note": "Julia→Juna stated; no direct appearance placed — C7"
+    },
+    {
+      "page": "kael-julia-bindung",
+      "lines": [
+        13
+      ],
+      "attribution": "premise",
+      "note": "its first half's rename, stated"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        13,
+        182,
+        190
+      ],
+      "attribution": "premise",
+      "note": "Michael→Kael stated; Kap 1 spurlos — C10"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        190
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        13,
+        158,
+        163,
+        164,
+        165,
+        166,
+        170
+      ],
+      "attribution": "premise",
+      "note": "20 became 4; KW3 as Überwelt-Nexus"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        25
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        38,
+        163
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        13,
+        191
+      ],
+      "attribution": "premise",
+      "note": "Landauer-Hitze, the sentence document 7 rewrote — C11"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        232
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        166
+      ],
+      "attribution": "premise",
+      "note": "KW4's name — C5"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        123,
+        196,
+        199
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        44,
+        268
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        165
+      ],
+      "attribution": "premise",
+      "note": "only as Überwelt-Nexus — J63"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        25
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        182
+      ],
+      "attribution": "premise",
+      "note": "the Kap-0 eruption — C10"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        222
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "persistenzgleichung",
+      "lines": [
+        190
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        44,
+        191
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        222
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        182,
+        215,
+        240
+      ],
+      "attribution": "premise",
+      "note": "both Genesis orders — C12"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        165,
+        170
+      ],
+      "attribution": "premise",
+      "note": "outside the worlds and KW3's second name — J63"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "no expansion of AEGIS",
+    "C4": "no blind spot",
+    "Q1": "two Guardians, no relation to AEGIS stated",
+    "Q2": "none of the eight protocols occurs",
+    "Q4": "Wächter does not occur"
+  },
+  "judgements": [
+    "J63"
+  ],
+  "decided_by_existing_rules": "Michael→kael and Julia→juna by the pages' aliases; Wohneinheit 734 by J50; Riss by J24; Coheronen by J56; Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth by J49; Rauschen by J51; Trennung by J52; Wir-AEGIS-plural by J47; Landauer-Hitze placed on landauer-signatur by J62; compound against head (Juna-Regel, Vortex 1/2, Erason-Operator, Mosaik-Herz, Resonanz-Kontinuum and their kind) two terms by J16/J28.",
+  "attached_from_earlier_runs": {},
+  "found_by_rule_not_by_census": [
+    "landauer-signatur",
+    "kael-julia-bindung"
+  ],
+  "baseline_moved": false
+}
