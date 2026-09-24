@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -87,3 +87,7 @@ Funktionale Multiplizität als Erlebnis" ^[kohaerenz-protokoll-kernwelten-vollst
 
 The reason [[kael|Kael]] is a Be-er: „Kaels Heilung ist Funktionale Multiplizität (*Sein*),
 keine externe Handlungssequenz." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L97]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Die Resolution des Systems Kael — niemals Fusion." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L280]
