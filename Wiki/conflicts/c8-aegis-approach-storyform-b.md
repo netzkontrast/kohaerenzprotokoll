@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 4
+sources: 5
 pages: ["aegis"]
 ---
 
@@ -51,3 +51,23 @@ So the two 2026-05-08 documents disagree with each other here.
 
 Do-er. The slot table's columns are A ([[kael|Kael]]) and B ([[aegis|AEGIS]]) (L106), and its row reads
 „Approach | Be-er | Do-er" ^[kapitel-kompendium-gather-2026-05-31-md.md:L109]. A third source for document 7's side.
+
+## 2026-09-24 — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**The lock-in itself, and it explains the character bible's value.** „Approach-Werte
+beider Storyforms gespiegelt." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L29] „A: Be-er (vorher Do-er). B: Do-er (vorher
+Be-er)." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L29] Its reason is Dramatica's rule that a Be-er belongs in Mind or
+Psychology and a Do-er in Physics or Universe (L81).
+
+So the character bible's „Approach = Be-er"
+^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L156] for AEGIS is **this document's
+„vorher"** — the value before the lock. And this document says the older texts had
+yet to be changed: „Reset-Doc / Struktur-Kanon-Markdown** — Approach-Werte
+spiegeln" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L416], „Die Originaldokumente liegen außerhalb meines Zugriffs"
+^[dramatica-dual-storyform-status-2026-05-07-md.md:L421].
+
+That is an explanation, as the character bible's own sentence was for C6. It is
+not a decision: whether the lock holds is the author's (decision 006). The dates
+now read: lock 2026-05-07 (Do-er), character bible 2026-05-08 (Be-er, pre-lock),
+konsolidiertes Konzept 2026-05-08, Kapitel-Kompendium 2026-05-31 and
+storyform-und-outline 2026-06-10 (Do-er).
