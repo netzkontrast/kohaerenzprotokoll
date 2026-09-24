@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -33,3 +33,8 @@ Telefon-Stille (ruht bis Vortex, eingelöst Kap 39)" ^[kohaerenz-protokoll-story
 „Telefon-Stille ist der Hauptanker." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L316] — first of Juna's permitted modes, the others Witness-Modus, Resonanz, Echo and appearances at the Risse (L319–L323), with more left open as OQ-B (L324).
 
 It has a chapter: „Kap 24 — Telefon-Stille (Wiederkehrendes K-J-Thema)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1007].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+The only way the [[externe-ebene|Externe Ebene]] is felt before Kap 38: „Bis Kap 38 nur als Echo /
+Resonanz / Telefon-Stille spürbar." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630]
