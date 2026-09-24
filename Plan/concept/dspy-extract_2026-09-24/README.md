@@ -22,6 +22,7 @@ has itself measured and decided about models.
 | `auto-gepa.md` | `dspy-auto-gepa` 80a5402 | default model |
 | `braid-prompting.md` | `braid-dspy` c50c5b1, `dspy-advanced-prompting` facc1ad | default model |
 | `this-repo.md` | this repository's own record on models: `Plan/`, the scripts, the skills | Sonnet |
+| `details-drg-mmr.md` | two details settled for the port: drg-kg's import side effects, the MMR λ convention | Sonnet |
 
 `00-brief.md` is the brief every reader of the nine got, verbatim.
 
