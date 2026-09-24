@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 7
-readings: 6
+sources: 8
+readings: 7
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -152,3 +152,10 @@ POV routing by Alter group (L314–L320): the ANP-K1 group ([[kael|Kael]], Lex, 
 person; „Argus (Meta-Kognition)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L318] A with commentary; the mirror Alters
 alternate. One group row names ten Alters at once, so it is recorded here and not
 on each Alter's page.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+„Die 13 Alter (kanonisch, mit DKT-Korrelat)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L184], under TSDP, the „Klinische
+Diagnose-Modell der Kael-Struktur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162]. ANP: „Im System Kael: Kael (Host),
+Lex, Alex, Rhys, Selene." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L165] EP: „Im System Kael: Nyx, Kiko, Lia, Isabelle,
+Moros." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L168] Fifteen decanonised names are listed again (L292).
