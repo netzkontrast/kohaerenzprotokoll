@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 3
-readings: 3
-conflict: none
+sources: 4
+readings: 4
+conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -108,3 +108,24 @@ wesensanders" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412]
 **He writes the book.** The first sentence of Kap 1 is the last he writes in Kap 39:
 „erster Satz = letzter Satz, den Kael schreibt — „Das Licht ist schon da, als ich
 erwache."" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L127].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The name names the system and the host, and the document says both.**
+
+> „Kael ist nicht ein Mensch. Kael ist ein System — dreizehn Fragmente einer
+> dissoziierten Psyche" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L298]
+
+> „Innerhalb des TSDP-Systems ist Kael auch eine spezifische ANP-Instanz: der
+> Host." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L315]
+
+Which is meant is decided by the sentence, not the surface (judgement J55).
+
+In the simulation: „Innerhalb der Simulation ist Kael Komponente 734. Archivar
+Klasse II. Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L311]
+
+**One symptom the other canon-era source forbids in Kap 1.** This document lists
+„Knöchel, die manchmal bluten (er weiß nicht, warum)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L322] and puts the
+first Landauer trace in Kap 1: „Erste Spur Kap 1 (Knöchel bluten ohne Grund)."
+^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1112] The other locks the bleeding to Kap 0 alone — „der Faden lebt in Kap
+0 allein (Knöchel-Eruption, Nyx)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459]. Conflict `C10`.
