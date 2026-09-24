@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 4
-readings: 3
+sources: 5
+readings: 4
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -99,7 +99,7 @@ first read source that counts the Alters and names every one.
 | EP | [[moros|Moros]] | Kollaps | 269 |
 | Sonder | [[argus|Argus]] | Meta-Kognitiv | 270 |
 | Spiegel | [[silas|Silas]] | Juna-Echo ([[coheron|Coheron]]) | 271 |
-| Spiegel | [[oblivion|Oblivion]] | AEGIS-Echo (Erason) | 272 |
+| Spiegel | [[oblivion|Oblivion]] | AEGIS-Echo ([[erason|Erason]]) | 272 |
 
 > „Dekanonisiert (NIE als aktive Charaktere): Index, Nox, Echo, Flicker, Limina,
 > Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel."
@@ -125,8 +125,16 @@ source's ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1180].
 Each of the twelve beside [[kael|Kael]] now has a page from this document's profile:
 [[lex]], [[alex]], [[rhys]], [[selene]], [[argus]], [[nyx]], [[kiko]], [[lia]],
 [[isabelle]], [[moros]], [[silas]], [[oblivion]]. Five somatic fields are open by
-the document's own mark, „(Lücke — bewusst offen)" — Argus, Silas, Oblivion among
+the document's own mark, „(Lücke — bewusst offen)" — [[argus|Argus]], [[silas|Silas]], [[oblivion|Oblivion]] among
 them (L510, L730, L766).
 
 Its frame is TSDP: „Tertiäre Strukturelle Dissoziation: mehrere ANPs und mehrere
 EPs. Genau Kaels Fall." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L818]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„V.2 Die 13 Alter (kanonisch)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L352] — the same thirteen as the character bible, and the same fifteen struck names (L431).
+
+„sie sind die latenten Echos der ursprünglichen Cluster-Fragmente aus der Genesis" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L65]. Two trauma layers made them: four from the first (L436), eight from the second, Selene across both (L439).
+
+„Alle 13 Alter sprechen in 1. Person." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L425] „Resolution: Funktionale Multiplizität, niemals Fusion." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L428]
