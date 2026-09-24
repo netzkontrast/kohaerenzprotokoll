@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -70,3 +70,8 @@ the other canon-era source's „Wohneinheit 734", for the same dwelling (J50).
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
 A sub-location of KW1, a third number: „Sub-Lokalitäten: Kaels Wohneinheit 734" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L479]. One term with the other numbers, by J50 and J58.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The first stop of [[kael|Kael]]'s day: „Wohneinheit 734 → Datenknoten Epsilon →
+Transitkorridor Delta-7" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]. One term by J50.
