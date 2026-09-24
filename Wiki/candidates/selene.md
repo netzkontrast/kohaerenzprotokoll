@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -39,3 +39,9 @@ The only Alter across both layers: „Schicht-übergreifend: Selene." ^[koharenz
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
 KW4: „Hier zeigt sich Selene erstmals als Architektin innerer Harmonie." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L488]
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „ISH/Mediator" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L219], correlate „Wormholes, Entanglement Islands" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L220], somatics „Hände entspannen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L221], arc „→ Mediatorin" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L222].
+
+„ISH — Internal Self Helper." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L171] „Im System Kael: Selene." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L171]
