@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24",
+  "generated": "2026-09-25",
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
@@ -35,11 +35,11 @@
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 1420,
+      "value": 1418,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 1305,
+      "value": 1307,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
@@ -99,15 +99,15 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 2222,
+      "value": 2217,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 489,
+      "value": 493,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {
-      "value": 17,
+      "value": 0,
       "how": "cited quotations that do not resolve, scripts/quotes.py"
     },
     "readme.decisions_drift": {

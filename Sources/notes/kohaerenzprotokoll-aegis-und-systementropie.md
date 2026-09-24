@@ -83,8 +83,7 @@ Where document 1 had entropy as disorder to be fought and document 2 as
 > Shannon entropy — „Maß für den mittleren Informationsgehalt oder die
 > Unsicherheit bezüglich des Zustands eines Systems" ^[L25]
 
-and `Kohärenz` as its complement — „niedrige Entropie, hohe Vorhersagbarkeit,
-logische Konsistenz […] messbar über die *Redundanz*" ^[L27].
+and `Kohärenz` as its complement — „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" und „über die *Redundanz*" ^[L27].
 
 It then names six metrics AEGIS actually watches ^[L31–35, L91–96]: rate of
 logical contradictions, data-structure integrity, prediction deviation, resource
@@ -112,8 +111,7 @@ sensor limits, method limits, the **Qualia problem**, an **ontological barrier**
 (Bohm's implicate/explicate order), and a violation of **Ashby's Law of
 Requisite Variety**. The last is the load-bearing one:
 
-> „AEGIS fehlt die \"erforderliche Varietät\", um die Kael-Julia-Bindung zu
-> modellieren" ^[L59]
+> „AEGIS fehlt die \"erforderliche Varietät\" (Requisite Variety) 21, um die Kael-Julia-Bindung zu modellieren" ^[L59]
 
 and the conclusion is stated as a category claim, not a gap:
 
@@ -122,7 +120,7 @@ and the conclusion is stated as a category claim, not a gap:
 
 ## Its metaphor is a definition
 
-> „mächtiger, aber blinder Hausmeister eines fragilen Ökosystems" ^[L207]
+> „mächtigen, aber blinden Hausmeisters eines fragilen Ökosystems" ^[L207]
 
 The document marks this as `[User Query]`, so it came *from* the brief and is
 being confirmed, not coined. Worth recording with that provenance: the project
@@ -202,7 +200,7 @@ Full measurement and what it does not settle: `Wiki/candidates/kael.md` and
   findings.** `Ontologischer blinder Fleck` is the opposite — the research built
   it, from Ashby and Bohm and the qualia problem, and it is the document's own
   contribution.
-- The „Weitere Konzeptionelle Entwicklung" list ^[L238–242] is a clean `MISSING`
+- The „Weitere Konzeptionelle Entwicklung" list ^[L234,L238–240] is a clean `MISSING`
   set: the mechanism of the bond, the properties of the Externe Ebene, and the
   escalation stages of v1.4 are all named as undefined *by the document that
   depends on them*.

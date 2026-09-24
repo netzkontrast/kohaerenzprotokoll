@@ -40,7 +40,7 @@ where the struggle happens.
 ## Open
 
 What the Überwelt is *made of*, who else is in it, and how it relates to the
-non-digital „externe Ebene" the brief asks about ^[entropie-aegis.md:L71]. None
+„externen, nicht-digitalen Ebene" the brief asks about ^[entropie-aegis.md:L71]. None
 of it is here.
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19

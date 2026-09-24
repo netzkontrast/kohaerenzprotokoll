@@ -67,8 +67,7 @@ comparison does not rediscover it.
 
 ## `Kohärenz` is the only term in all four, and it now has three contexts
 
-- **system stability**, measurable — „niedrige Entropie, hohe Vorhersagbarkeit,
-  logische Konsistenz […] messbar über die *Redundanz*" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27]
+- **system stability**, measurable — „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" und „über die *Redundanz*" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27]
 - **truth by self-consistency** — the ZTV validity criterion, criticised as
   „extreme Form des epistemischen Kohärentismus" ^[aegis-emergenz-aus-der-leere.md:L67]
 - **the name of the system itself** — „Kohärenz-Programm", six times

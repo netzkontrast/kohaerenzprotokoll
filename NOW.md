@@ -190,7 +190,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-489 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+493 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -738,27 +738,11 @@ and `.qmd/index.yml` on 2026-09-24, and not run: that container had no qmd
 binary. The fix is to test a file against each collection's pattern, not its
 root.
 
-**17 <!--state:quotes.unresolved--> quotations do not resolve to the line they
-cite.** All predate `scripts/quotes.py`; every page written since is clean. An
-independent design (`dspy-wiki-compile`) weights this axis heaviest of six, at
-0.30 — so on that reading these are the highest-value open item here, not
-cleanup.
-
-`scripts/read.py --find` splits them into two piles that need different work:
-
-- **6 carry the document's own words and point at the wrong place.** Five cite a
-  line the phrase is not on; one is a table column holding a bare `128` where a
-  `^[L128]` belongs, so the checker paired the quote with the row above.
-- **11 quote words the document does not contain on any line.** The nearest line
-  is usually the cited one, at 37–79% in common — German declension bent to fit
-  an English sentence, inside quotation marks.
-
-**Neither pile is mechanical, and the tempting one is the trap.** „blinder
-Hausmeister" on `Wiki/candidates/aegis.md` cites L207 and those exact words are
-at L221 — but L207 carries the metaphor the page is actually reading, in the
-genitive. Repointing the number would make the citation resolve and the page
-wrong. Each correction is a reading decision, one commit per page naming its
-source document.
+**Citation resolution is complete:** 0 <!--state:quotes.unresolved--> quotations
+fail `scripts/quotes.py`. The corrections were checked against the source lines
+and committed per source or Wiki page. The checker still reports 493
+<!--state:quotes.unchecked--> quotations it cannot verify; those need their own
+citation convention, described under *Open decisions*.
 
 ## Landed
 
