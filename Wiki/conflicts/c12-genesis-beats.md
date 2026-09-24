@@ -1,0 +1,45 @@
+---
+id: C12
+subject: the Genesis — three beats or four
+kind: one sequence, counted and ordered differently by two sources of the same date
+status: open
+first_seen: "2026-09-24"
+sources: 3
+pages: ["trennungsprotokoll"]
+---
+
+# C12 — three Genesis beats, or four
+
+**Append-only.** This record decides nothing.
+
+| # | beats | source | line |
+|--:|---|---|--:|
+| 1 | three: Einheit · [[trennungsprotokoll|Trennungsprotokoll]] · [[kael|Kael]] = Komponente 734 | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 115–123 |
+| 2 | four: Einheit · Cluster-Bildung and Komp-734 · [[trennungsprotokoll|Trennungsprotokoll]] · Wir = AEGIS-plural | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 67–74 |
+| 3 | names a „Genesis-Beat 4 (Wir-AEGIS-plural)", done in Kap 39 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 390 |
+
+> „### 2.4 Die Genesis-Krise (3 Beats)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L115]
+
+> „(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktueller
+> Lock-In: nein, drei reichen.)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L123]
+
+> „I.3 Die Genesis als Vier-Beat-Sequenz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L67]
+
+> „Beat 4 — Wir = AEGIS-plural." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L74]
+
+**Two things differ, not one.** The count, and the order: the three-beat version
+makes Komponente 734 the *result* of the [[trennungsprotokoll|Trennungsprotokoll]], the four-beat version
+places the Komp-734 functionalisation *before* it (L72, then L73).
+
+Both are dated 2026-05-08, so no date orders them. The character bible names the
+open question (Reset-Doc Appendix C) and answers it „nein"; the consolidated
+concept answers it with a fourth beat. Document 7, a month later, counts four.
+
+## 2026-09-24 — the author: every draft is back in question
+
+„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+sources wird die neue Ausgangslage." (decision 006)
+
+No position above is retired by its date or by a source's claim to be canon.
+This record is an **item for discussion** with the author; it closes when the
+author decides it, and the decision will be written here with its date.
