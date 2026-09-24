@@ -9,8 +9,12 @@ This ledger was already written that way, for a different reason.
 
 ## The baseline, measured before anything is optimized
 
-The deterministic rule in the repository — `fold()` equality — scores
-**14/17 = 82%** on the labelled records. The three it misses are not bugs:
+The deterministic rule in the repository — `fold()` equality — scored
+**14/17 = 82%** on the labelled records when this was written (2026-09-17). The
+number has fallen as the ledger grew (`NOW.md` has each step), and the script
+prints the live one; what held throughout is the direction: every miss is a
+pair the person called one term and `fold()` kept apart, never the reverse. The
+three it missed then are not bugs:
 
 | id | pair | why fold() will not decide it |
 |---|---|---|
@@ -108,7 +112,7 @@ def blocked() -> list[dict]:
         {"task": "is this a conflict",
          "examples": len(list((ROOT / "Wiki" / "conflicts").glob("*.md"))) + 1,
          "usable": 0,
-         "why": "four conflicts and one recorded false positive (Zero-Trust). Too few, "
+         "why": "the recorded conflicts and one false positive (Zero-Trust). Too few, "
                 "and conflict detection is deliberately never mechanised."},
     ]
 
@@ -124,7 +128,7 @@ def main() -> int:
     print(f"one-term-or-two: {len(rows)} labelled examples")
     print(f"  {sum(1 for r in rows if r['decision'] == 'one-term')} one-term, "
           f"{sum(1 for r in rows if r['decision'] == 'two-terms')} two-terms")
-    print(f"  all {sum(1 for r in rows if r['rule'])} carry a stated rule — GEPA feedback")
+    print(f"  {sum(1 for r in rows if r['rule'])} of {len(rows)} carry a stated rule — GEPA feedback")
     print(f"\nbaseline (fold() equality, the rule already in the repository):")
     print(f"  {base['correct']}/{base['total']} = {base['accuracy']:.0%}")
     for miss in base["misses"]:

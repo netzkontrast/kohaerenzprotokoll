@@ -19,6 +19,10 @@ It is not the manual:
 
 A script not listed as writing only prints, and is safe to run at any time.
 
+**This page is checked, not remembered.** 0 <!--state:readme.scripts_drift-->
+files in `scripts/` are missing from it or listed here without existing, and
+`python3 scripts/state.py --prose` fails the day that number is not 0.
+
 ## Setting up a container
 
 | file | does | writes |
@@ -103,14 +107,16 @@ encodings of one rule drift apart on the first edit (P6).
 
 No corpus text is sent to a model without the author's decision, and every model
 step runs offline — a `--dry-run`, a `--replay`, or a `selftest`. The rule has
-three encodings, `lmrun.py`, `rlm_ingest.py` and `route.py`; which one the others
-should call is open in `NOW.md`.
+three encodings, `lmrun.py`, `rlm_ingest.py` and `route.py`, and decision 008
+keeps them apart until one changes its rule and the others do not. The `dspy`
+skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 
 | file | does | writes |
 |---|---|---|
 | `route.py` | One door for a third-party tool's model calls and for direct ones: free OpenRouter models only, the consent file naming which documents may be sent, every call recorded and replayable offline. `serve` is an OpenAI-compatible proxy a tool is pointed at; `guard <slug>` says whether a document's text would be refused. Jev calls need `.venv-typesafe`. | `Plan/runs/route/` — `ledger.jsonl`, `calls/`, `models.json` |
 | `lmrun.py` | How `pairs.py` and `graphrag.py` call a model through DSPy: cache off, one record per call, a real model refused without `approval=`. Needs `.venv-dspy`. | `Plan/runs/<subject>/lm/<step>.jsonl` |
 | `lm_fixture.py` | An offline `dspy.BaseLM`, and `offline()`, which also hides every API key and makes `litellm` refuse. Needs `.venv-dspy`. | — |
+| `check_dspy_skill.py` | Asserts what the `dspy` skill teaches against the DSPy installed here: every parameter and default it writes down, one offline probe per behaviour it marks checked, every path it names. Needs `.venv-dspy`. | — |
 | `check_dspy_surface.py` | Asserts each DSPy parameter this repository passes, by `inspect.signature`. Needs `.venv-dspy`. | — |
 | `trainset.py` | The judgement ledger as labelled pairs, and the `fold()` baseline any model has to beat. | `--export`: `Plan/trainsets/` |
 | `pairs.py` | One term or two: scores a rule, or a compiled program on what the rule leaves, and asks every candidate the never-merge canaries. `score` is standard library; `run` needs `.venv-dspy`. | `--record`: `Plan/runs/baselines.jsonl` |

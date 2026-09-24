@@ -296,11 +296,49 @@ In order, and none of it needs a model:
 Two things the build found, fixed in place:
 
 - `Plan/trainsets/surface-pairs.jsonl` had gone stale — 17 rows against a
-  ledger that had grown. Re-exported; `pairs.py` reads the ledger live.
+  ledger that had grown. Re-exported then; it has drifted again since (below),
+  and `pairs.py` reads the ledger live, never the export.
 - `graph.py`'s first pairing of quotations to citations disagreed with
   `quotes.py` (14 unresolved against 4). The pairing moved into
   `quotes.pairs` / `quotes.verdict` and both use it; `quotes.py`'s own numbers
   did not change.
+
+## The `dspy` skill — landed, and what checking it against the code left open
+
+`.agents/skills/dspy` (netzkontrast/kohaerenzprotokoll#60) holds what the nine
+DSPy repositories contain, re-read in full on 2026-09-24 and sorted by the job
+at hand; `scripts/check_dspy_skill.py` holds it to the installed DSPy 3.3.1.
+Building it fixed, in place: `lmrun.call` re-raised DSPy 3.3's own
+`LMTransportError` instead of recording `unreachable`; `rlm_ingest.py` could
+call an answer DSPy forced out of an exhausted REPL a reading; `graphrag.py`'s λ
+comment compared two opposite conventions; `trainset.py`, `pairs.py` and
+`check_dspy_surface.py` stated numbers two ledgers old; and `install.sh` built
+`.venv-dspy` without the numpy and Deno extras. Every quotation in the skill
+was checked once against its source, and each whose words were not the
+source's was corrected; that check is not a standing one, because the nine
+clones it reads are not in a fresh container. Open, none of it needing a
+model:
+
+- **`rlm_ingest.py` has no offline run of its RLM loop.** Its selftest covers
+  the tools and the reach. `dspy[deno]` now installs the sandbox, and
+  `check_dspy_skill.py`'s `rlm-runs-offline` probe is the shape one would take
+  (P5).
+- **Two baseline rows lag.** `rule:fold` was last recorded at n=49 against
+  57 <!--state:pairs.labelled--> labelled pairs, `graphrag-retrieval` at 14
+  cases against 17 <!--state:graphrag.cases-->. `pairs.py score --rule fold
+  --record` and `graphrag.py bench --record` bring them level; `baseline.py
+  compare` warns until then.
+- **Folds move as the ledger grows.** `folds()` deals round-robin over hash
+  order, and one appended judgement moved 15 of 57 rows to another fold
+  (measured). Whether a stable assignment is worth less balanced folds is open.
+- **The export holds 36 rows.** Nothing reads `Plan/trainsets/surface-pairs.jsonl`;
+  refreshing it by hand or demoting it is a construct question.
+- **The DSPy surface has two encodings.** `check_dspy_surface.py`'s `USED` list
+  and the skill's `surface` blocks both assert parameters by
+  `inspect.signature` (P6).
+- **The path check covers one skill.** Extending it to every skill needs a
+  convention first: `ingest` and `tools` name `Wiki/contradictions/` and
+  `Wiki/terms/`, which do not exist, on purpose.
 
 ## Half-done — the entity lists
 
@@ -582,6 +620,15 @@ and cannot go stale in a list.
 
 ## Known failing
 
+**`scripts/qmd_coverage.py` cannot fail while a collection is rooted at `.`.**
+It counts a file as covered when the file lies under any collection's root
+path, and the `decisions` and `all` collections are rooted at `.`, narrowed
+only by their patterns. So every markdown file passes, including `scripts/`
+and `.agents/skills/`, which no pattern indexes. Found by reading the script
+and `.qmd/index.yml` on 2026-09-24, and not run: that container had no qmd
+binary. The fix is to test a file against each collection's pattern, not its
+root.
+
 **17 <!--state:quotes.unresolved--> quotations do not resolve to the line they
 cite.** All predate `scripts/quotes.py`; every page written since is clean. An
 independent design (`dspy-wiki-compile`) weights this axis heaviest of six, at
@@ -612,7 +659,7 @@ later, none failing. 26 were `md`, which `fetch` skipped before: the two new fla
 are opt-in, and `md` takes the same text route that landed the four `md` rows on
 2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
-in another escaping — so 37 canon-era rows became 33, all landed. **Five are read**,
+in another escaping — so 37 canon-era rows became 33, all landed. **Seven are read**,
 `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`,
 `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, `dramatica-dual-storyform-status-2026-05-07-md`
 and `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, as documents 7 to 13 — see *Next document*. The copy under `Legacy/Canon/` (six of the 2026-06-10

@@ -119,6 +119,18 @@ def _sources_near_copies() -> int:
     return sum(len(g) - 1 for g in groups(0.8))
 
 
+@measure("sources.without_frontmatter", "landed files that do not open with the eight lines of provenance")
+def _sources_without_frontmatter() -> int:
+    return sum(1 for r in _manifest_rows() if r.get("export_path")
+               and not (ROOT / r["export_path"]).read_text(encoding="utf-8").startswith("---\n"))
+
+
+@measure("sources.repeated_titles", "titles on more than one manifest row — a shared title is not a copy")
+def _sources_repeated_titles() -> int:
+    from collections import Counter
+    return sum(1 for n in Counter(r["title"] for r in _manifest_rows()).values() if n > 1)
+
+
 # ---------------------------------------------------------------- documents
 
 @measure("documents.with_census", "files in Sources/terms/")
@@ -186,6 +198,13 @@ def _wiki_conflicts() -> int:
 def _wiki_questions() -> int:
     return len([p for p in (ROOT / "Wiki" / "questions").glob("*.md")
                 if p.stem != "README"])
+
+
+@measure("wiki.zero_readings", "term pages whose frontmatter says readings: 0 — a term only asked about")
+def _wiki_zero_readings() -> int:
+    from wiki_index import frontmatter
+    return sum(1 for p in (ROOT / "Wiki" / "candidates").glob("*.md")
+               if frontmatter(p.read_text(encoding="utf-8")).get("readings") == "0")
 
 
 @measure("wiki.relations", "a page naming another page as `slug`, scripts/relations.py")
@@ -395,6 +414,50 @@ def _ts_gold() -> int:
         elif "reconstruct" not in head.lower():
             gold += 1
     return gold
+
+
+# ---------------------------------------------------------------- index READMEs
+
+def _index_drift(readme: Path, entries: set[str], form: str) -> int:
+    """How far an index README has drifted from what it indexes: entries it does
+    not name, plus names in the index's own form that match no entry. Each such
+    README carries the result, 0, under its marker, so `--prose` fails the day a
+    file arrives unlisted or leaves still listed."""
+    if not readme.exists():
+        return len(entries)
+    named = {m for m in re.findall(r"`([^`\n]+)`", readme.read_text(encoding="utf-8"))
+             if re.fullmatch(form, m)}
+    return len(entries - named) + len(named - entries)
+
+
+@measure("readme.scripts_drift", "scripts/README.md against the files in scripts/: missed plus dangling")
+def _readme_scripts() -> int:
+    base = ROOT / "scripts"
+    entries = {p.relative_to(base).as_posix() for p in base.rglob("*")
+               if p.is_file() and "__pycache__" not in p.parts and p.name != "README.md"}
+    return _index_drift(base / "README.md", entries, r"(?:rules/)?[\w.-]+\.(?:py|sh|js|html)")
+
+
+@measure("readme.skills_drift", ".agents/skills/README.md against the project skills: missed plus dangling")
+def _readme_skills() -> int:
+    base = ROOT / ".agents" / "skills"
+    entries = {f"{p.parent.name}/SKILL.md" for p in base.glob("*/SKILL.md")}
+    return _index_drift(base / "README.md", entries, r"[\w-]+/SKILL\.md")
+
+
+@measure("readme.decisions_drift", "Plan/decisions/README.md against the decision files: missed plus dangling")
+def _readme_decisions() -> int:
+    base = ROOT / "Plan" / "decisions"
+    entries = {p.name for p in base.glob("*.md") if p.name != "README.md"}
+    return _index_drift(base / "README.md", entries, r"\d{3}-[\w-]+\.md")
+
+
+@measure("readme.plan_drift", "Plan/README.md against the folders in Plan/: missed plus dangling")
+def _readme_plan() -> int:
+    base = ROOT / "Plan"
+    # Plan/derived/ is git-ignored and absent until derive.py runs; it is named either way.
+    entries = {f"Plan/{p.name}/" for p in base.iterdir() if p.is_dir()} | {"Plan/derived/"}
+    return _index_drift(base / "README.md", entries, r"Plan/[\w-]+/")
 
 
 # ---------------------------------------------------------------- driver

@@ -30,9 +30,9 @@ scanned repository supplied:
 
 The optimizer ladder is `optimizers-and-data_2026-09-17.md`'s:
 `labeled` → `bootstrap` → `inferrules` → `simba` → `gepa`. SIMBA's `bsize` is
-set to the training size, because its default of 32 exceeds the whole set and
-`dspy-book-optimizers` measured it scoring *below* its baseline while costing
-the most of twelve.
+set to the training size, at most 16, because its default of 32 exceeded the
+whole set when this was written and `dspy-book-optimizers` measured it scoring
+*below* its baseline while costing the most of twelve.
 
     python3 scripts/pairs.py score [--rule fold] [--record]     # standard library, offline
     .venv-dspy/bin/python scripts/pairs.py run --optimizer labeled --dry-run
