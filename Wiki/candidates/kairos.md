@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 2
-readings: 2
-conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+sources: 3
+readings: 3
+conflict: C4, C6
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -68,7 +68,7 @@ under the heading `Kern-Welt 4 (KW4 - Domäne: Kairos/Sophia)` ^[roman-lokalitae
 > „Kairos/Sophia (als Prinzip der Zeit/Möglichkeit)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L438]
 
 The first treats the pair as one principle; the second gives it two aspects and
-slashes those as well. Document 4 states two distinct Guardians sharing one
+slashes those as well. Document 4 states two distinct [[guardians|Guardians]] sharing one
 domain; **this document never separates them at all**, which is consistent with
 that and is not a second statement of it.
 
@@ -76,3 +76,15 @@ that and is not a second statement of it.
 
 This document calls Kairos/Sophia a `Wächter` ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35] and never a `Guardian`. See
 [[guardians]], [[sophia]].
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**No longer a Guardian of its own, by this source's account.** The world table
+gives its place in one cell:
+
+> „(Kairos/Sophia, latent)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54]
+
+and says why: „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus,
+Kairos, Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The earlier readings on this
+page are what this document calls earlier drafts. Recorded, not applied — see
+`C6`.
