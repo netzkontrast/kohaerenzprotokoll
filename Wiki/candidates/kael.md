@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-16"
 ---
 
@@ -137,3 +137,17 @@ first Landauer trace in Kap 1: „Erste Spur Kap 1 (Knöchel bluten ohne Grund).
 The novel's opening image, as this document gives it: „Ein Mann erwacht in einer sterilen Stadt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L29] — „er weiß nicht, warum seine Knöchel bluten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L29]. It is the synopsis, not a chapter line; the Kap 1 line names „sterile Leere, Ozon, weißes Licht" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962]. A reading for conflict C10, on the character bible's side.
 
 Roster row: „Kael (Host)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L359], correlate „Hubble-Volumen / Big Rip" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L360]. Trauma layer: „Kael (amnestische Oberfläche)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439], from the second.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**The rename, stated by a source.** The document names the filter it applied to
+its „Steinbruch" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]: „Michael→**Kael**" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]. Earlier documents showed the cut by
+date; this one says it.
+
+Kap 1 is Kael's ordinary day: „Wohneinheit 734 → Datenknoten Epsilon →
+Transitkorridor Delta-7" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190], „Ordnung als Käfig" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190], and „Eine einzige
+konkrete Falschheit" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] in place of any mention of amnesia.
+
+**On the knuckles: Kap 0 only.** „Kap 1 bleibt spurlos" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] — the thread
+lives in Kap 0, „Knöckel-Eruption, Nyx" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]. A reading for conflict C10, on
+document 7's side, from the document document 7 names as its highest source.
