@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 7
-readings: 8
+sources: 8
+readings: 9
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -221,3 +221,9 @@ Its end is [[algorithmische-melancholie|Algorithmische Melancholie]].
 Three protocols — the same three names as the character bible — Suppressionsprotokoll, Kohärenzprotokoll, Re-Containment-Protokoll (L226–L228). A binding log format follows (L230–L254), and „AEGIS spricht nie in Prosa." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L257]
 
 Its fate: „AEGIS-monolithisch erlischt; AEGIS-plural entsteht." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L265] The name of the plural form is the document's own open question OQ-A ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1199], so it has no page (judgement J47).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+„AEGIS *glaubt* K₁ (Kohärenz) zu sein, *ist* aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
+„AEGIS = unschuldig im Bösen" ^[kapitel-kompendium-gather-2026-05-31-md.md:L52]. B's cost: „AEGIS-monolithisch erlischt"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L148], in Kap 36.
