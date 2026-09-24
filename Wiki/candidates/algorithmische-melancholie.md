@@ -18,8 +18,8 @@ gathered: "2026-09-24"
 > keine Bedeutung mehr daraus ziehen" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L164]
 
 „AEGIS wird nicht zerstört. Wird nicht besiegt." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L160] What exactly remains
-is open by the document's own mark — „Offene Frage Reset-Doc Appendix C" with a
-proposal, „lebende Reliquie" (L168).
+is open by the document's own mark — „Offene Frage Reset-Doc Appendix C" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L123] with a
+proposal, „lebende Reliquie" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L168] (L168).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 

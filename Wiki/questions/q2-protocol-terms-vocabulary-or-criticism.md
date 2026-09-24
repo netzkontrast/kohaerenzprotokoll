@@ -14,9 +14,9 @@ seven terms and did nothing but evaluate them:
 
 [[ani|ANI — Äußere Nicht-Identifikation]] · [[ars|ARS — Autopoietische Reentry-Segmentierung]] · [[ecr|ECR — Entropische Kohärenzregulation]] · [[nullpunkt-protokoll|Nullpunkt-Protokoll]] · [[pms|PMS — Protomemetische Speicherbildung]] · [[rsa|RSA — Rekursive semantische Autogenese]] · [[snk|SNK — Strukturierte Nicht-Kontrolle]]
 
-Each page says the same thing: *„Whether any later source uses this protocol as
+Each page says the same thing: **Whether any later source uses this protocol as
 project vocabulary rather than as something being evaluated. Until one does, the
-term exists here only as an object of criticism."*
+term exists here only as an object of criticism.**
 
 ## Why this is one question and not seven
 

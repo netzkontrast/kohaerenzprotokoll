@@ -70,5 +70,5 @@ Kapitel-Kompendium does the same.
 ## Open
 
 Three or four; and whether Komponente 734 precedes the [[trennungsprotokoll|Trennungsprotokoll]] or is its
-result. C12. „Kernwelten vollständig" says only „Vier-Beat-Genesis" (L826 of that
+result. C12. „Kernwelten vollständig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L11] says only „Vier-Beat-Genesis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (L826 of that
 document).

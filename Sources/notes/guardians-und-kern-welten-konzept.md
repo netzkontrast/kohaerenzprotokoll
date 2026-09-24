@@ -29,7 +29,7 @@ is not thereby a document that tells you how to read it.
 One claim carries the document, and it is structural rather than narrative ^[L137]:
 
 > „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians **logisch aus
-> dessen Domäne und Funktion erwächst**"
+> dessen Domäne und Funktion erwächst**" ^[L137]
 
 Every Guardian is blind to the `Partnerin`, and each is blind *differently*,
 because each blindness is derived from that Guardian's own domain. The document
@@ -41,7 +41,7 @@ are not variations on one failure — the document distinguishes three kinds:
 | LogOS | the Partnerin „da sie nicht in seine Datenstrukturen oder logischen Operatoren passt" ^[L28] | **categorical** — „ein fundamentaler *Kategorienfehler*, der in LogOS' Design verankert ist" ^[L28] |
 | Mnemosyne | „sieht die *Wunde*, verwechselt sie aber mit einer *Narbe*" ^[L53] | **misreading** — a present breach read as a past loss |
 | Cerberus | „potenzielle Bedrohung, unbekannte Intrusion, Vektor für Instabilität" ^[L78] | **misreading** — the unknown classified as hostile by default |
-| Kairos | sees „die *Gelegenheit*", not „die *Notwendigkeit* ihrer spezifischen Reintegration" ^[L105] | **contextual** — potential without necessity |
+| Kairos | sees „die *Gelegenheit*" ^[L105], not „die *Notwendigkeit* ihrer spezifischen Reintegration" ^[L105] | **contextual** — potential without necessity |
 | Sophia | „fehlt ihr die entscheidende Information" ^[L117] | **missing data** — „keine kategorische wie bei LogOS oder eine Fehlinterpretation wie bei Mnemosyne/Cerberus" ^[L117] |
 
 **The document types its own taxonomy** ^[L117]: categorical, misinterpretation,
@@ -73,7 +73,7 @@ sits in the field describing why a Guardian *cannot* reach it.
 
 ## `Nexus` / `Überraum` — two names, same sentences
 
-Every Guardian has a field called „Repräsentation im **Nexus**", and every filled
+Every Guardian has a field called „Repräsentation im **Nexus**" ^[L29], and every filled
 instance of that field opens „Im **Überraum**…" ^[L29, L54, L79, L106, L118].
 `Nexus` 11 occurrences, `Überraum` 5. **The document never states they are one
 space**, and the pattern is too regular to be accident — a field name in one
@@ -87,9 +87,9 @@ state is that the manifestation differs per world:
 
 | world | how a Riss shows | line |
 |---|---|---|
-| Konstrukt-Stadt | „Logische Widersprüche werden greifbar" | 39 |
-| Resonanz-Landschaft | „Plötzliche, heftige emotionale Stürme" | 64 |
-| Grenzfeste | „unerklärliche Sicherheitslücken" | 89 |
+| Konstrukt-Stadt | „Logische Widersprüche werden greifbar" ^[L39] | 39 |
+| Resonanz-Landschaft | „Plötzliche, heftige emotionale Stürme" ^[L64] | 64 |
+| Grenzfeste | „unerklärliche Sicherheitslücken" ^[L89] | 89 |
 | Möglichkeits-Garten | `unkontrollierbare, destruktive Transformationen` ^[L128] | 128 |
 
 Each is the world's own principle turned against itself — logic made
@@ -122,12 +122,12 @@ string probe finds only 3 of those 15, because the export writes the marker as
 five Guardians named. The document resolves this itself ^[L96]:
 
 > „Kairos und Sophia werden als zwei distinkte, aber komplementäre Guardians
-> dargestellt, die gemeinsam über diese Domäne wachen."
+> dargestellt, die gemeinsam über diese Domäne wachen." ^[L96]
 
 So the count is not an error — four *pairs*, five Guardians, one shared world.
 But it is a trap for any tally taken from the framing text, and the section
 headings make it worse: ^[L98] „A. Guardian Kairos" and ^[L110] „A. Guardian
-Sophia" are **both `### A.`** under section IV. Heading-based addressing collides
+Sophia" ^[L110] are **both `### A.`** under section IV. Heading-based addressing collides
 there, and the duplicate is in the source, not the export.
 
 ## What this document is not

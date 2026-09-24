@@ -36,7 +36,7 @@ Präsenz, Quelle des Flüsterns, Unkartiertes Territorium." ^[koharenz-protokoll
 „Setting der Juna-Wirkung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L480] — listed under KW4 as a „Cross-Reference zur
 Externen Ebene" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L480], and under the Externe Ebene as `[K]`, Kap 33, with a
 cross-reference back to the KW4 [[nexus|Nexus]] (L665). **Wirkung, not appearance**: [[juna|Juna]]
-„erscheint" only in Kap 38 (L630). Conflict C7.
+„erscheint" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630] only in Kap 38 (L630). Conflict C7.
 
 ## Open
 

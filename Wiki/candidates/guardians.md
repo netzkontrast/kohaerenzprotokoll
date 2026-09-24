@@ -78,7 +78,7 @@ any tally taken from the framing text is off by one.**
 ### Still open, and now sharper
 
 This document never mentions `AEGIS` — zero occurrences. Document 1 called the
-Guardians „spezialisierte Agenten dieses Entropie-Managements", which is [[aegis|AEGIS]]'
+Guardians „spezialisierte Agenten dieses Entropie-Managements" ^[entropie-aegis.md:L93], which is [[aegis|AEGIS]]'
 work. **Whether the Guardians are inside [[aegis|AEGIS]], beside it, or a design it
 replaced is not answerable from the four documents read** — see
 `Wiki/conflicts/c4-guardians-and-aegis.md`.
@@ -232,7 +232,7 @@ The world table says where each went: [[logos|LogOS]] „in Mnemosyne absorbiert
 [[cerberus|Cerberus]] „in Erasure-Pol absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L53], [[kairos|Kairos]]/[[sophia|Sophia]] „latent" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54].
 
 **This explains C6 in a source's own words, and does not settle it.** Two
-canon-era documents now say two; this one calls the five „Frühere Drafts". Whether
+canon-era documents now say two; this one calls the five „Frühere Drafts" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. Whether
 that retires the earlier readings on this page is the author's call — see `C6`.
 
 ## Decided by the author, 2026-09-24 — five
@@ -256,7 +256,7 @@ The author decided C6 for five on 2026-09-24; this is a second canon-era source 
 ## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 
 „2 Guardians (Mnemosyne + Erasure-Pol)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L13] — in the filter it names
-for its quarry, the „Steinbruch", where there were five. And „KEIN Guardian-1:1" ^[kapitel-kompendium-gather-2026-05-31-md.md:L158]. A fifth 2026
+for its quarry, the `Steinbruch`, where there were five. And „KEIN Guardian-1:1" ^[kapitel-kompendium-gather-2026-05-31-md.md:L158]. A fifth 2026
 statement for two; the author decided five on 2026-09-24.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
@@ -270,7 +270,7 @@ A sixth 2026 source for two, recorded after the author's decision for five.
 
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
-**Instruments of [[aegis|AEGIS]]' doing.** „Guardian-Deployments" among [[aegis|AEGIS]]' acts (L97); A's
+**Instruments of [[aegis|AEGIS]]' doing.** „Guardian-Deployments" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L97] among [[aegis|AEGIS]]' acts (L97); A's
 overall story is „die Manipulation der simulierten Welt durch AEGIS+Guardians"
 ^[dramatica-dual-storyform-status-2026-05-07-md.md:L206], B's is „Erasure-Sweeps, Guardian-Operationen, das Mnemosyne-Archipel als
 Schlachtfeld" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L230]. No count is given.

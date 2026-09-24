@@ -27,7 +27,7 @@ And the same idea as the frame of the central conflict:
 > ^[entropie-aegis.md:L96]
 
 The second is closer to a claim — but it is a *proposal for how to frame the
-conflict* („kann nun auch […] gerahmt werden"), which in a brief is still a
+conflict* („kann nun auch […] gerahmt werden" ^[entropie-aegis.md:L96]), which in a brief is still a
 premise offered for research, not a finding.
 
 ## Why the page exists with no reading

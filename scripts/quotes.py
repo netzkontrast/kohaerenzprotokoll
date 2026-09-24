@@ -35,6 +35,7 @@ same order, with the footnote rule off (`missing_number`).
 Usage:
     python3 scripts/quotes.py            # every note, census and wiki page
     python3 scripts/quotes.py <path>     # one file
+    python3 scripts/quotes.py --unchecked [path]  # list every unchecked quotation
 """
 
 from __future__ import annotations
@@ -319,7 +320,27 @@ def summary(counts: dict, wrap: str = " ") -> str:
 
 
 def main(argv: list[str]) -> int:
-    result = tally([Path(argv[0]).resolve()] if argv else None)
+    show_unchecked = "--unchecked" in argv
+    paths = [arg for arg in argv if arg != "--unchecked"]
+    if len(paths) > 1:
+        raise SystemExit("usage: quotes.py [--unchecked] [path]")
+    targets = [Path(paths[0]).resolve()] if paths else None
+    result = tally(targets)
+    if show_unchecked:
+        if targets is None:
+            targets = sorted(list((ROOT / "Sources" / "notes").glob("*.md"))
+                             + list((ROOT / "Sources" / "terms").glob("*.md"))
+                             + list((ROOT / "Wiki").rglob("*.md")))
+        for path in targets:
+            source = path.read_text(encoding="utf-8")
+            starts = line_starts(source)
+            default = slug_of(path, source)
+            for match, refs in pairs(source):
+                if verdict(refs, default, match.group("quote"))[0] == "unchecked":
+                    where = path.relative_to(ROOT) if path.is_relative_to(ROOT) else path
+                    row = line_of(starts, match.start()) + 1
+                    fragment = WRAP.sub(" ", match.group("quote"))[:100]
+                    print(f"UNCHECKED  {where}:{row}  {fragment!r}  refs={refs!r}")
     for path, problem in result["problems"]:
         where = path.relative_to(ROOT) if path.is_relative_to(ROOT) else path
         print(f"UNRESOLVED  {where}  ^[{problem['ref']}]")

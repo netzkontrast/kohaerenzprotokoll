@@ -100,7 +100,7 @@ mit minimalem Selbsterleben." ^[L71]
 
 ## Storyform B
 
-The slot table gives B's approach as Do-er — the row „MC Approach" (L602) reads
+The slot table gives B's approach as Do-er — the row „MC Approach" ^[L602] (L602) reads
 Be-er for A and Do-er for B (L603–L604) — and the inversion section repeats it:
 „B's Do-er-Modus ist außen-orientiert: das, was die Funktion wurde" ^[L669].
 

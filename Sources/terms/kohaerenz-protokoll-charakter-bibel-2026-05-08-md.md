@@ -45,17 +45,17 @@ figures.
 ## Stance — a workbench that says what is current
 
 It names its own kind: „Dieses Dokument ist keine Datenbank. Es ist eine
-**Werkbank**." (L21). It dates itself 2026-05-08 and gives its sources — a
-„Reset-Doc 2026-04-30", an „Outline-Revision 2026-05-01", a „Dual-POV-Lock-In
-2026-05-07" (L13).
+**Werkbank**." ^[L21] (L21). It dates itself 2026-05-08 and gives its sources — a
+„Reset-Doc 2026-04-30" ^[L13], an „Outline-Revision 2026-05-01" ^[L13], a „Dual-POV-Lock-In
+2026-05-07" ^[L13] (L13).
 
 Its assertions are flat; its uncertainty is marked, in words rather than a code:
 
 | marker | occurrences | what it marks |
 |---|--:|---|
-| `Lücke` | 13 | a field left open on purpose, „(Lücke — bewusst offen)" |
+| `Lücke` | 13 | a field left open on purpose, „(Lücke — bewusst offen)" ^[L510] |
 | `Vorschlag` | 5 | a proposed filling for such a gap |
-| `Offene Frage` | 2 | a question deferred to „Reset-Doc Appendix C" |
+| `Offene Frage` | 2 | a question deferred to `Reset-Doc Appendix C` |
 | `Aktueller Kanon` | 2 | a statement of what is current, against earlier drafts |
 
 Hedging words are rare: `könnte` 2, `potenziell` 2, none of the others.
@@ -375,22 +375,21 @@ lines.
 
 | term | word | incl. compounds | what it means |
 |---|--:|--:|---|
-| `Operative Interiorität` | 0 | 0 | only the dative „Operativer Interiorität" (L141) |
-| `Strukturelle Dissoziation der Persönlichkeit` | 0 | 0 | only „der Strukturellen Dissoziation der Persönlichkeit" (L805) |
+| `Operative Interiorität` | 0 | 0 | only the dative „Operativer Interiorität" ^[L141] (L141) |
+| `Strukturelle Dissoziation der Persönlichkeit` | 0 | 0 | only „der Strukturellen Dissoziation der Persönlichkeit" ^[L805] (L805) |
 | `Erason` | 0 | 4 | only in compounds — `Erason-Bilanz`, `Erason-Operator` — and the plural `Erasonen` |
 | `Ouroboros` | 0 | 1 | only `Ouroboros-Schluss` (L272) and `ouroboros-fähig` |
 | `Witness-Function` | 0 | 1 | once, in a heading; the body writes `Witness-Funktion` |
 
 ## Surfaces — one thing wearing several names
 
-- **Kael is two things and the document says so**: „Kael ist ein **System**"
-  (L298) and „der **Host**" (L315). Headings mark the two: §5.1 „Das System
-  (Host und Gesamtarchitektur)" and §5.2 „Kael als Host-ANP (im engeren Sinne)".
+- **Kael is two things and the document says so**: „Kael ist ein **System**" ^[L298]
+  (L298) and „der **Host**" ^[L315] (L315). Headings mark the two: §5.1 „Das System
+  (Host und Gesamtarchitektur)" ^[L294] and §5.2 „Kael als Host-ANP (im engeren Sinne)" ^[L313].
 - **`Kohärenz Protokoll` names three things**: the novel (L113), AEGIS' origin
-  act „Kohärenz Protokoll 1.0" (L118), and the second of AEGIS' three protocols,
-  `Kohärenzprotokoll` (L132), which the document calls „das eigentliche
-  ‚Kohärenz Protokoll' des Romantitels". And L113: „Das eigentliche
-  Kohärenz-Protokoll ist Kaels Heilungsweg." Four uses, three referents.
+  act „Kohärenz Protokoll 1.0" ^[L118] (L118), and the second of AEGIS' three protocols,
+  `Kohärenzprotokoll` (L132), which the document calls the novel's „Kohärenz Protokoll" ^[L132]. And L113: „Das eigentliche
+  Kohärenz-Protokoll ist Kaels Heilungsweg." ^[L113] Four uses, three referents.
 - **`Witness-Funktion` / `Witness-Function`** (L227, L1158).
 - **Riss kinds are named twice**, as `Riss-Typ` and inside `DKT-Korrelat` fields;
   the §12 table (L1003–L1008) restates them.
@@ -398,17 +397,17 @@ lines.
 ## Gaps — used as known, defined nowhere here
 
 `DKT` (used throughout, the physics the document leans on), `TSDP` (expanded at
-L805 only as the theory's German name), `Reset-Doc` and its „Appendix C",
+L805 only as the theory's German name), `Reset-Doc` and its `Appendix C`,
 `Gödel-Gambit` (L160, L1113), `η` (L142, L913), `Block-4-Anker` (L262, L1200).
 
 ## Self-consistency
 
-- **„13 Alters, exakt"** (L1180): §6 lists five ANPs, §7 five EPs, §6.5 one
+- **„13 Alters, exakt" ^[L1180]** (L1180): §6 lists five ANPs, §7 five EPs, §6.5 one
   Sonder, §8 two Spiegel — with Kael as Host counted among the ANPs (L313). 13.
-- **Flight has two bearers**: the §12 table gives „Kiko (zweite Funktion), Lia"
+- **Flight has two bearers**: the §12 table gives „Kiko (zweite Funktion), Lia" ^[L1006]
   (L1006), while Kiko's own profile is Freeze.
 - **The achievement of Funktionale Multiplizität is placed at Kap 33** (L844) and
-  „Kap 39: Auflösung — aber nicht Verschmelzung" (L850): consistent within the
+  „Kap 39: Auflösung — aber nicht Verschmelzung" ^[L850] (L850): consistent within the
   document.
 
 ## What the extraction ran into

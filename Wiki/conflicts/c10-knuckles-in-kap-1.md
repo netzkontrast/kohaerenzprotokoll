@@ -24,14 +24,16 @@ pages: ["kael"]
 > ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459]
 
 **The later source records this conflict itself** (§7.2) — against a
-„Kap-40-Notiz (2026-05-30)", not this document — and resolves it by date. The
+„Kap-40-Notiz (2026-05-30)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459], not this document — and resolves it by date. The
 wiki now holds one side of what it resolved, from a third source. Its resolution
 is its claim.
 
 ## 2026-09-24 — the author: every draft is back in question
 
-„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
-sources wird die neue Ausgangslage." (decision 006)
+> Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+> sources wird die neue Ausgangslage.
+
+[Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
 
 No position above is retired by its date or by a source's claim to be canon.
 This record is now an **item for discussion** with the author; it closes when the
@@ -61,13 +63,13 @@ spelling of `Knöchel` corrected.
 ## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
 Document 7's side, as a lock: „Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt
-spurlos." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] It adds „Wiederkehr am Ende offen" (L141).
+spurlos." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] It adds „Wiederkehr am Ende offen" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] (L141).
 
 ## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 **It names the lock and its source**: „Lock Kompendium 2026-05-31: der Faden lebt
 in Kap 0 allein — Kap 1 bleibt spurlos." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638] — and what stays: „Die Wiederkehr
-am Ende bleibt gesetzt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638], detail open as „OQ-Knöchel" (L638). So the
+am Ende bleibt gesetzt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638], detail open as „OQ-Knöchel" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638] (L638). So the
 Kapitel-Kompendium is the document that set document 7's side.
 
 ## 2026-09-24 — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18

@@ -15,7 +15,7 @@ new_readings: 42
 `python3 scripts/reconcile.py kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`
 
 290 candidates, 320 decisions — **229 by lookup, 91 to judgement.** Document 11,
-„Kernwelten vollständig", 2026-06-10: all six levels consolidated for drafting,
+„Kernwelten vollständig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L11], 2026-06-10: all six levels consolidated for drafting,
 each sub-location table split into a canonical half and a filtered quarry half,
 labelled per row — 30 `[K]`, 28 `[V]`, 22 `[S]`, 10 `[L]`.
 
@@ -43,15 +43,15 @@ Every lookup hit, plus four reached by rule: `therapie-schnittstelle-alpha`
 |---|---|--:|
 | C4 | AEGIS' blindness as places and timing; the Guardians get none | 667, 736 |
 | C5 | the Möglichkeits-Garten as KW4's name **and** a `[K]` place in KW4 | 26, 404, 461 |
-| C6 | „Keine fünf-Guardian-Architektur" — after the author decided five | 61 |
+| C6 | „Keine fünf-Guardian-Architektur" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] — after the author decided five | 61 |
 | C7 | **Kap 33 is Juna's effect, Kap 38 her appearance** — a scheme with room for both earlier positions | 480, 630, 727 |
 | C9 | KW1 = Konstrukt-Stadt / Logos-Prime, as decided | 23, 83 |
-| C10 | a „Kap-0-Lock": Kap 1 spurlos | 141 |
+| C10 | a „Kap-0-Lock" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141]: Kap 1 spurlos | 141 |
 | C11 | cold ozone in KW1, Juna's warmth from Kap 3, Landauer warmth at the KW1→KW2 transition | 110, 829, 764, 706 |
-| C12 | „Vier-Beat-Genesis", unordered | 826 |
+| C12 | „Vier-Beat-Genesis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826], unordered | 826 |
 | Q1 | the two Guardians inside the Überwelt, in a registry | 502, 576 |
-| Q3 | worlds as filters of Kael's inner world; „Keine Welt-Allegorie" | 57, 955, 922 |
-| Q4 | `Wächter` = Guardian, in „Wächter-Registry" | 576 |
+| Q3 | worlds as filters of Kael's inner world; „Keine Welt-Allegorie" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L922] | 57, 955, 922 |
+| Q4 | `Wächter` = Guardian, in „Wächter-Registry" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L576] | 576 |
 | Q5 | Sophia decanonised by name; world names kept as mythology | 404, 61 |
 
 **Read and not changed:** C1, C2 (a `[V]` room name only), C3, C8, Q2.
@@ -64,7 +64,7 @@ on the page and in `NOW.md`'s questions.
 
 ## And one tension it drops
 
-Document 10's KW3 „Überwelt-Nexus" does not occur. Here the Nexus is the `[K]`
+Document 10's KW3 `Überwelt-Nexus` does not occur. Here the Nexus is the `[K]`
 place between KW4 and the Externe Ebene (L462).
 
 ## Judgements

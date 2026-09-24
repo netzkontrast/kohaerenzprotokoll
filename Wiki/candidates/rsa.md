@@ -10,13 +10,13 @@ gathered: "2026-09-16"
 
 # RSA — Rekursive semantische Autogenese
 
-One of eight protocols of an „AEGIS-Postulat" that the only source **analyses
+One of eight protocols of an „AEGIS-Postulat" ^[L11] that the only source **analyses
 rather than authors**. So every reading is doubly attributed: what the postulate
 claims, and what this source says about the claim.
 
 ## What the postulate claims — **Beschreibung** ^[aegis-emergenz-aus-der-leere.md:L51]
 
-autonomous generation of meaning without an external semantic source, through „reflexive Interferenz" between emergent signs.
+autonomous generation of meaning without an external semantic source, through „reflexive Interferenz" ^[L51] between emergent signs.
 
 That label marks the postulate's content, **not this document's position**.
 Asserting it of this source would attribute to it the thing it goes on to reject.

@@ -47,10 +47,10 @@ and to single fields:
 
 | label | meaning, as the document writes it | occurrences |
 |---|---|--:|
-| `[K]` | „kanonisch/gelockt" | 27 |
-| `[V]` | „Vorschlag, P1–P5-validierungspflichtig (Dramatica-Engine)" | 6 |
-| `[S]` | „aus Steinbruch abgeleitet, auf Kanon gefiltert" | 10 |
-| `[L]` | „Lücke, noch zu setzen" | 8 |
+| `[K]` | „kanonisch/gelockt" ^[L13] | 27 |
+| `[V]` | „Vorschlag, P1–P5-validierungspflichtig (Dramatica-Engine)" ^[L13] | 6 |
+| `[S]` | „aus Steinbruch abgeleitet, auf Kanon gefiltert" ^[L13] | 10 |
+| `[L]` | „Lücke, noch zu setzen" ^[L13] | 8 |
 
 **Zero hedging words** — no `könnte`, `vielleicht`, `möglicherweise`,
 `potenziell`, `wahrscheinlich`, `vermutlich` in 6,157 words. Its uncertainty is
@@ -59,8 +59,8 @@ each. A sentence here is read as asserted unless its section or field carries
 `[V]`, `[S]` or `[L]`; `[S]`/`[L]` mark *detail* inside otherwise `[K]` structure
 (L294, L320, L353).
 
-**It names itself „Source-of-Truth" (L11)** and states its own precedence: „bei
-Konflikt gewinnt das Neuere" (L13, again L526), with a ranked list of five earlier
+**It names itself „Source-of-Truth" ^[L11] (L11)** and states its own precedence: „bei
+Konflikt gewinnt das Neuere" ^[L13] (L13, again L526), with a ranked list of five earlier
 sources. §7 then resolves three conflicts between those earlier sources by that
 rule. Both are the document's claims about authority, recorded as what it says.
 
@@ -469,9 +469,9 @@ names the day it was locked.
 
 | term | word | incl. compounds | what it means |
 |---|--:|--:|---|
-| `Große Inversion` | 0 | 0 | written „Die große Inversion" (L25), lower-case adjective |
-| `mutuale Information` | 0 | 0 | only the dative „mutualen Information" (L25) |
-| `plurale Re-Integration` | 0 | 0 | only „pluralen Re-Integration" (L42) |
+| `Große Inversion` | 0 | 0 | written „Die große Inversion" ^[L25] (L25), lower-case adjective |
+| `mutuale Information` | 0 | 0 | only the dative „mutualen Information" ^[L25] (L25) |
+| `plurale Re-Integration` | 0 | 0 | only „pluralen Re-Integration" ^[L42] (L42) |
 | `DKT` | 0 | 1 | only inside `DKT-Physik` (L13), used as known |
 | `NCP` | 0 | 3 | only in `NCP-JSON`, `NCP-Datei`, `Phase-1-NCP-Encoding` |
 | `Storypoint` | 0 | 5 | only the plural and compounds |
@@ -484,10 +484,10 @@ names the day it was locked.
 - **The final plural form has four surfaces**: `Wir-AEGIS`, `Wir-AEGIS-plural`,
   `AEGIS-plural`, and its counterpart `AEGIS-monolithisch`. The document says the
   name is undecided — OQ-A „Naming der finalen Form (Wir-AEGIS / Mosaik-AEGIS /
-  …)" (L475).
+  …)" ^[L475] (L475).
 - **Komponente 734 / Komp 734 / Einheit 734 / Wohneinheit 734** (L298, L347,
   L306): the number recurs as a component in Kap 0, a dwelling in Kap 1, a console
-  line, and a flashback title. The Kap-1 use is marked „Reader-only-Echo" (L306);
+  line, and a flashback title. The Kap-1 use is marked „Reader-only-Echo" ^[L306] (L306);
   whether the four are one referent the document does not say.
 - **Witness**: `Witness-Function` (L222), `Witness-Funktion` (L286),
   `Witness-Modus` (L349), `Witness-Layer 1–3` (L380–L382).
@@ -511,10 +511,10 @@ names the day it was locked.
 
 ## Self-consistency
 
-- **„13 Alter"** (L206, L253): the §4 table lists 13 rows (L260–L272) — five ANP,
+- **„13 Alter" ^[L253]** (L206, L253): the §4 table lists 13 rows (L260–L272) — five ANP,
   five EP, one Sonder, two Spiegel. Consistent.
-- **„41 Bewegungen"** (L91): chapters 0–40 are 41. Consistent.
-- **„Vortex 2 Kap 1"** (L438) is a local count inside the outer hero's journey,
+- **„41 Bewegungen" ^[L91]** (L91): chapters 0–40 are 41. Consistent.
+- **„Vortex 2 Kap 1" ^[L438]** (L438) is a local count inside the outer hero's journey,
   not chapter 1 of the novel.
 - **Kap 14–18 carry two title layers**, and §7.3 (L460) says so itself.
 
@@ -526,6 +526,6 @@ names the day it was locked.
    rows above are errors of the list, not absences.
 3. **Table headers in escaped bold** — a matcher that does not strip `\*` misses
    the slot names in the header row.
-4. **A dense proper-name register**: 13 Alter, 15 names „dekanonisiert" (L278),
+4. **A dense proper-name register**: 13 Alter, 15 names `dekanonisiert` (L278),
    four Kernwelten with two names each, titles for 41 chapters. Chapter titles
    were not listed as candidates; the §4 names and the named places were.

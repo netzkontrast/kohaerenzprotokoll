@@ -49,7 +49,7 @@ did not invent.
 
 Whether this is the same structure another source calls a Kern-Welt in
 its own right. The wiki holds [[grenzfeste]] as KW3 entire — a „Schutzraum,
-Quarantänezone oder Kontrollzentrum" — and this document never writes
+Quarantänezone oder Kontrollzentrum" ^[guardians-und-kern-welten-konzept.md:L85] — and this document never writes
 `Grenzfeste` once. A wall around a fortress and a fortress are not the same term,
 and nothing read says they are related.
 

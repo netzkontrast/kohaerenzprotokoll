@@ -15,14 +15,14 @@ sources use it; one of them uses it both ways.
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
-Kap 11, „Mosaik des Selbst": „„Mosaik-Herz" — Vielfalt als Stärke." — „Vielfalt als
+Kap 11, „Mosaik des Selbst" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L316]: „„Mosaik-Herz" — Vielfalt als Stärke." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L316] — „Vielfalt als
 Stärke" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L316]. A story element of the chapter, not a place.
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
 **Both.** In the chapter plan, „Kap 11: Mosaik-Herz als Vorgriff auf plurale
 Bewahrung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L841]; and among KW4's places, „Sub-Lokalitäten:
-Möglichkeits-Garten, Nexus, Mosaik-Herz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L530], „(Ch34, vor Vortex)".
+Möglichkeits-Garten, Nexus, Mosaik-Herz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L530], „(Ch34, vor Vortex)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L530].
 
 ## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 

@@ -27,7 +27,7 @@ pages: ["emergenz", "aegis"]
 
 ## Why this is harder to see than C1
 
-**Both sources use the word correctly.** Neither is misusing „Emergenz"; they are
+**Both sources use the word correctly.** Neither is misusing `Emergenz`; they are
 applying it at different levels, and nothing in either text marks the level.
 
 Position 2 argues for itself from evidence position 1 does not have: [[aegis|AEGIS]] depends
@@ -69,12 +69,12 @@ the conflict stays open.
 Kap 0 is „AEGIS' Werdung & Trennungsprotokoll als ontologische Grundlegung"
 ^[kapitel-kompendium-gather-2026-05-31-md.md:L182], and the becoming runs „Funken-Ich → Cluster/Komp 734 →
 Funktionalisierung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] — AEGIS arises inside the Genesis, from a spark-self.
-Nearest the konsolidiertes Konzept's third origin; it does not say „from Kael".
+Nearest the konsolidiertes Konzept's third origin; it does not say `from Kael`.
 
 ## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 The konsolidiertes Konzept's origin, word for word: „AEGIS ist Kaels eigene
-Abwehrarchitektur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299], „die zur Welt geworden ist" — and in the identity
+Abwehrarchitektur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299], „die zur Welt geworden ist" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L299] — and in the identity
 architecture, „die operative Hälfte, die nach dem Trennungsprotokoll übrig blieb"
 ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L135].
 

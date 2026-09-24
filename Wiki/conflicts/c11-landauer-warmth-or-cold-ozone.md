@@ -14,7 +14,7 @@ pages: ["landauer-signatur", "risse"]
 
 | # | the Landauer trace | source | line |
 |--:|---|---|--:|
-| 1 | warmth — „Hitzeschlieren, Landauer-Wärme" in Kap 6, „Landauer-Wärme als Schluss-Markierung" in Kap 36 | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 972, 1032 |
+| 1 | warmth — „Hitzeschlieren, Landauer-Wärme" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] in Kap 6, „Landauer-Wärme als Schluss-Markierung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1032] in Kap 36 | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 972, 1032 |
 | 2 | cold ozone everywhere; warmth is [[juna|Juna]]'s alone, the spike kept for Vortex 1, Beat 4 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 64, 458 |
 
 > „Sensorik: Hitzeschlieren, Landauer-Wärme." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
@@ -28,7 +28,7 @@ Polaritäts-Lock 2026-05-30 (neuer, gewinnt) rendert die Landauer-Signatur als
 kaltes Ozon" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458]. It quotes an outline of 2026-05-08 in exactly the words
 of rows 972 and 1032 above; it does not name the file.
 
-**It may be narrower than it looks.** Kap 36 is „Vortex 1 Beats 4–5" (L1031), and
+**It may be narrower than it looks.** Kap 36 is „Vortex 1 Beats 4–5" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1031] (L1031), and
 the later source keeps the warmth spike for Vortex 1, Beat 4. So the two may
 disagree about Kap 6 and not about Kap 36 — a reading, not a settlement. The
 earlier source's physics also makes the heat visible generally, as „Temperaturspitzen,
@@ -39,8 +39,10 @@ The later source's resolution is its claim. The wiki does not apply it
 
 ## 2026-09-24 — the author: every draft is back in question
 
-„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
-sources wird die neue Ausgangslage." (decision 006)
+> Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+> sources wird die neue Ausgangslage.
+
+[Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
 
 No position above is retired by its date or by a source's claim to be canon.
 This record is an **item for discussion** with the author; it closes when the
@@ -61,7 +63,7 @@ the author meant to hold is the question.
 ## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
 **Document 7's lock, applied, with the warmth moved to the transitions.** KW1's
-ozone is „Landauer-Suppression-Spur, *kalt-elektrisch*" — „Ozon
+ozone is „Landauer-Suppression-Spur, *kalt-elektrisch*" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L110] — „Ozon
 (Landauer-Suppression-Spur, *kalt-elektrisch*) + Desinfektionsmittel." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L110]
 Warmth debuts with [[juna|Juna]] in Kap 3, „erste Wärme-Spur (Junas Coheron-Debüt)"
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]. But the thermal Riss from KW1 to KW2 has „Landauer-Wärme spürbar"
@@ -74,7 +76,7 @@ warmth at the transition out of KW1 (Kap 13→14). Same date as document 7.
 ## 2026-09-24 — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
 **Before the lock, the same polarity.** Beat 4 is the heat spike: „Heat-Spike**
-(Landauer→∞)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L278], „Landauer-Hitze als somatischer Filter" (L295). And a bridge
+(Landauer→∞)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L278], „Landauer-Hitze als somatischer Filter" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L295] (L295). And a bridge
 cue gives warmth to [[kael|Kael]] and cool to [[aegis|AEGIS]]: „Kaels warme Kontemplation kippt für
 einen Atemzug in AEGIS-Kühle und zurück" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L344]. Three weeks before the
 2026-05-30 lock, and in line with it; nothing here on Kap 6.

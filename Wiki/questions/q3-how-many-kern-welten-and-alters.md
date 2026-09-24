@@ -54,7 +54,7 @@ never qualified, and every one of the document's 51 locations is assigned to
 exactly one of the six. The four are numbered KW1–KW4, each with a domain bearer
 and a psychological function ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172–L175].
 
-**So „four named worlds is not four worlds" now has an answer from one source:
+**So `four named worlds is not four worlds` now has an answer from one source:
 four is the count, because the frame that holds them has six members and two of
 them are not [[kern-welten|Kern-Welten]].** One source, cataloguing rather than defining, and
 nothing contradicts it. See [[realitaetsebenen]].

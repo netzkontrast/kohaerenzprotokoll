@@ -28,8 +28,8 @@ And the counter-move, which matters more:
 
 ## Three surfaces in one document
 
-`DID` ^[L63, L67, L69, L81], „dissoziative Identitätsstruktur" ^[L95], and
-„psychische Fragmentierung" ^[L67]. All three are the same thing here.
+`DID` ^[L63, L67, L69, L81], „dissoziative Identitätsstruktur" ^[entropie-aegis.md:L95], and
+„psychische Fragmentierung" ^[entropie-aegis.md:L67] ^[L67]. All three are the same thing here.
 
 ## The distinction the document keeps open
 
@@ -81,4 +81,4 @@ are background only — „Als *Hintergrund* präsent, **nicht** als Hauptachse"
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 The diagnosis the novel uses is not DID but TSDP: „Klinische Diagnose-Modell der
-Kael-Struktur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162] — „(nicht „DID lite" oder „Crew-Menü")" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162].
+Kael-Struktur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162] — „(nicht „DID lite" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162] oder „Crew-Menü")" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162].

@@ -14,8 +14,8 @@ pages: ["juna"]
 
 | # | where | source | line |
 |--:|---|---|--:|
-| 1 | once, „ca. Kap 33, Garten der Stillen Präsenz" | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 280 |
-| 2 | „Junas erste direkte Erscheinung" as beat 3 of Kap 38 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 400 |
+| 1 | once, „ca. Kap 33, Garten der Stillen Präsenz" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L280] | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 280 |
+| 2 | „Junas erste direkte Erscheinung" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L400] as beat 3 of Kap 38 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 400 |
 
 > „Im gesamten Roman taucht Juna einmal in einer Szene auf, in der sie als
 > spürbare aber nicht-beschriebene Präsenz existiert (ca. Kap 33, Garten der
@@ -26,15 +26,17 @@ pages: ["juna"]
 
 Both are canon-era; the later one would win by its own precedence rule, which
 the wiki does not apply. The earlier one hedges with „ca."; the later one has no
-Kap-33 scene of that name at all — its Kap 33 is „Approach Inmost Cave" (L365).
+Kap-33 scene of that name at all — its Kap 33 is „Approach Inmost Cave" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L365] (L365).
 
 **What would settle it:** the author, or the Kapitel-Kompendium of 2026-05-31
 (named by the later document as its highest source; not in `Sources/`).
 
 ## 2026-09-24 — the author: every draft is back in question
 
-„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
-sources wird die neue Ausgangslage." (decision 006)
+> Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+> sources wird die neue Ausgangslage.
+
+[Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
 
 No position above is retired by its date or by a source's claim to be canon.
 This record is now an **item for discussion** with the author; it closes when the
@@ -58,8 +60,8 @@ Two sources of the same date now disagree; the count of sides is not a settlemen
 ## 2026-09-24 — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 
 **A correction to this record, and no answer.** *What would settle it* above names
-„the Kapitel-Kompendium of 2026-05-31 (named by the later document as its highest
-source; not in `Sources/`)". **That was wrong when this document landed with the
+*the Kapitel-Kompendium of 2026-05-31 (named by the later document as its highest
+source; not in `Sources/`)*. **That was wrong when this document landed with the
 canon era on 2026-09-24**: it is `kapitel-kompendium-gather-2026-05-31-md`, and it is now read.
 
 It does not settle C7. No chapter line gives [[juna|Juna]] a direct appearance, and its

@@ -441,13 +441,13 @@ in a commit that names its source.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **123 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1258 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **1267 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1418 <!--state:graph.evidence-->
-of them, **1307 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1402 <!--state:graph.evidence-->
+of them, **1402 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;

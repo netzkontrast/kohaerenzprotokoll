@@ -86,9 +86,9 @@ and the profile describes a region:
 > symbolisieren), Brunnen der Reflexion, Aussichtspunkte, Tore zu anderen
 > Bereichen von KW4." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L436]
 
-„Tore zu anderen Bereichen von KW4" puts the garden **inside** KW4, with gates
+„Tore zu anderen Bereichen von KW4" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L436] puts the garden **inside** KW4, with gates
 leading to the rest of it. Document 4 makes the Möglichkeits-Garten one of four
-[[kern-welten|Kern-Welten]] — KW4 entire, „eine Realität", paired to [[kairos|Kairos]] & [[sophia|Sophia]].
+[[kern-welten|Kern-Welten]] — KW4 entire, `eine Realität`, paired to [[kairos|Kairos]] & [[sophia|Sophia]].
 
 ### The two cannot both be the whole account
 
@@ -138,7 +138,7 @@ Möglichkeiten` does not occur.
 
 **Both scales, both canonical.** A name of KW4 — „KW4 — Kairos-Potentialis /
 Möglichkeits-Garten / Resonanz-Kontinuum" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L26], „Andere kanonische Namen:
-„Möglichkeits-Garten", „Resonanz-Kontinuum"." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404] — and a canonical place in
+„Möglichkeits-Garten" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404], „Resonanz-Kontinuum"." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404] — and a canonical place in
 it: „überwucherte Ruinenarchitektur; Funktionale Multiplizität als Erlebnis"
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L461]. The same double reading as the konsolidiertes Konzept. Conflict C5.
 

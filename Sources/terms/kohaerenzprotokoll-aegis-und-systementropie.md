@@ -46,11 +46,11 @@ answers**, not something the research concluded:
 | passage | line |
 |---|---|
 | the central paradox itself | 15 |
-| „Seele=Info" | 23 |
-| the bond as „fundamentale Kohärenzstruktur" | 104 |
-| „aus dem Potentialmeer geschöpft" | 106, 124 |
-| the „blinder Hausmeister" metaphor | 207 |
-| the „Universal Reboot" | 183 |
+| „Seele=Info" ^[L23] | 23 |
+| the bond as „fundamentale Kohärenzstruktur" ^[L104] | 104 |
+| „aus dem Potentialmeer geschöpft" ^[L106] | 106, 124 |
+| the „blinder Hausmeister" ^[L221] metaphor | 207 |
+| the „Universal Reboot" ^[L183] | 183 |
 
 So the document holds two kinds of statement and says which is which, line by
 line. Its unmarked text states conclusions; its marked text is the project's own
@@ -72,7 +72,7 @@ and 9 tables are facts about this file.*
 | Kael-Julia-Bindung | 16 | 17,51,55,57,59,65,… | defined | „fundamentale Kohärenzstruktur" ^[L104] `[User Query]`, not a psychological relation |
 | K-J-Bindung | 5 | 151,193,197,199,207 | — | **the same term, abbreviated, in the document's later half** |
 | Entropie | 60 | throughout | **defined** | Shannon: „Maß für den mittleren Informationsgehalt oder die Unsicherheit" ^[L25] |
-| Kohärenz | 25 | throughout | defined | its complement — „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" und „über die *Redundanz*" ^[L27] |
+| Kohärenz | 25 | throughout | defined | its complement — „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" ^[L27] und „über die *Redundanz*" ^[L27] |
 | Simulation | 44 | throughout | known | the reality AEGIS governs and sits inside |
 | DID / Dissoziative Identitätsstörung | 26 | 15,17,39,41,43,46,… | defined-by-reading | „lokalisierte Anomalien" — manageable, quantifiable, containable ^[L41–47] |
 | Kern-Welten | 7 | 31,41,45,49,141,165 | known | Kael's inner worlds; destabilise first in the collapse ^[L165] |

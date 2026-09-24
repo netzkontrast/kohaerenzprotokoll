@@ -18,8 +18,8 @@ Left open when the author decided C6 (five [[guardians|Guardians]], 2026-09-24).
 |---|---|--:|
 | four Guardian/world pairs; [[kairos|Kairos]] and [[sophia|Sophia]] share one world | `guardians-und-kern-welten-konzept`, 2025-04-17 | 96 |
 | each KW has a domain bearer — [[logos|LogOS]], [[mnemosyne|Mnemosyne]], [[cerberus|Cerberus]], [[kairos|Kairos]]/[[sophia|Sophia]] | `roman-lokalitaeten-konzept-und-ausarbeitung`, 2025-04-18 | 35 |
-| „KEIN Guardian-1:1"; the worlds carry the old names | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 214 |
-| a Guardian column per world, with the others „absorbiert" or „latent" | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 51–54 |
+| „KEIN Guardian-1:1" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]; the worlds carry the old names | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 214 |
+| a Guardian column per world, with the others „absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51] or „latent" | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 51–54 |
 
 > „Kernwelten-Matrix (Akt-Marker, KEINE Geographie, KEIN Guardian-1:1)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L214]
 
@@ -41,7 +41,7 @@ The author.
 ## 2026-09-24 — C9 decided, and it sharpens the naming half
 
 The author decided the [[konstrukt-stadt|Konstrukt-Stadt]] is the whole simulation (C9). So KW1 needs
-a name of its own; the 2026 sources give „Logos-Prime", the 2025 ones gave none
+a name of its own; the 2026 sources give `Logos-Prime`, the 2025 ones gave none
 but the [[konstrukt-stadt|Konstrukt-Stadt]]. Still open, with the pairing and the Erasure-Pol.
 
 ## 2026-09-24 — withdrawn: KW1 keeps its name
@@ -68,7 +68,7 @@ On the pairing it says the worlds carry no Guardian — „Akt-Marker, nicht je 
 Guardian-Reich" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] — and still gives presence: „Mnemosyne dominiert klar" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462]
 in KW2, and the Erasure-Pol runs through KW1 and KW3.
 
-**Its name is its own open question** — „Name offen, Forschungsfrage". With five
+**Its name is its own open question** — „Name offen, Forschungsfrage" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217]. With five
 [[guardians|Guardians]] decided, the question for the author sharpens: if the Erasure-Pol's
 function is [[cerberus|Cerberus]]', [[logos|LogOS]]' and [[kairos|Kairos]]' together, is it a sixth figure, or the
 name for what three of the five do?

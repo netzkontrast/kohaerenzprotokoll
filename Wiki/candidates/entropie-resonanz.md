@@ -17,14 +17,14 @@ source rejects most bluntly.
 ## What the postulate claims — restated ^[aegis-emergenz-aus-der-leere.md:L122, L126]
 
 [[aegis|AEGIS]] generates reality itself „mittels sogenannter \"Entropie-Resonanz-Protokolle
-(ERP)\"" ^[L122]. Entropy is read as a „schöpferische Matrix" — a maximal
-possibility space — from which „rekursive Resonanz" stabilises coherent state
+(ERP)\"" ^[L122]. Entropy is read as a „schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126] — a maximal
+possibility space — from which „rekursive Resonanz" ^[aegis-emergenz-aus-der-leere.md:L126] stabilises coherent state
 sequences ^[L126]. The protocols run from `ERP0`, a signature formed from the „Leere" ^[L126], through replicative coherence checking to self-scaling emergence.
 
 ## What the source says about it ^[aegis-emergenz-aus-der-leere.md:L130]
 
 > „vage, idiosynkratisch und entbehren einer klaren Definition oder Verankerung
-> in etablierten physikalischen oder mathematischen Theorien"
+> in etablierten physikalischen oder mathematischen Theorien" ^[aegis-emergenz-aus-der-leere.md:L130]
 
 and on the whole ontological thesis:
 

@@ -130,8 +130,8 @@ third. `KW2` and `KW4` appearing anywhere would settle most of it at once.
 **All four, numbered, with a domain bearer and a function each — and the page's
 own inference is now complete.**
 
-The previous reading ended with: „`KW2` und `KW4` appearing anywhere would settle
-most of it at once." They appear here 28 and 18 times, and the recapitulation
+The previous reading ended with: *`KW2` und `KW4` appearing anywhere would settle
+most of it at once.* They appear here 28 and 18 times, and the recapitulation
 gives every one of the four its bearer ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L172–L175]:
 
 | shorthand | bearer | function, as this document states it |
@@ -188,7 +188,7 @@ It is [[kael|Kael]]'s, and it is reactive:
 > „Die Kern-Welten als psychische Landschaften sollten inhärent auf Kaels
 > Gedanken, Emotionen und die Präsenz seiner Alters reagieren." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L77]
 
-Both sentences are design instructions („zu konzipieren", „sollten"), which is
+Both sentences are design instructions („zu konzipieren" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35], „sollten"), which is
 what most of this document's prose about the world is. The numbering and the
 domain assignment are not.
 
@@ -233,17 +233,17 @@ denied. Recorded in conflict `C6`.
 
 | KW | name | Guardian column | line |
 |---|---|---|--:|
-| KW1 | „KW1 — Logos-Prime" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51] | „(LogOS, in Mnemosyne absorbiert)" | 51 |
+| KW1 | „KW1 — Logos-Prime" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51] | „(LogOS, in Mnemosyne absorbiert)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51] | 51 |
 | KW2 | „KW2 — Mnemosyne-Archipel" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L52] | Mnemosyne | 52 |
-| KW3 | „KW3 — Cerberus-Labyrinth" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L53] | „(Cerberus, in Erasure-Pol absorbiert)" | 53 |
-| KW4 | „KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54] | „(Kairos/Sophia, latent)" | 54 |
+| KW3 | „KW3 — Cerberus-Labyrinth" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L53] | „(Cerberus, in Erasure-Pol absorbiert)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L53] | 53 |
+| KW4 | „KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54] | „(Kairos/Sophia, latent)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54] | 54 |
 
 The exception is what contains them: „der Konstrukt-Stadt, gesteuert von AEGIS —
 die in vier Kernwelten unterteilt ist" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L44]. See `C9`.
 
 ## Decided by the author, 2026-09-24 — the Konstrukt-Stadt is KW1
 
-„Ne stop - es ist nur kw1" (conflict `C9`, corrected the same day after a first
+*Ne stop - es ist nur kw1* ([conflict C9](../conflicts/c9-konstrukt-stadt-scale.md), corrected the same day after a first
 answer recorded it as the whole simulation). The [[konstrukt-stadt|Konstrukt-Stadt]] is **KW1**, one
 of the four Kern-Welten. The Charakter-Bibel's reading of it as the whole
 simulation stays above as what that document said.
@@ -298,8 +298,8 @@ KW1 „Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-begriffe-und-konzept
 Überwelt-Nexus." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L410], „KW4 — Resonanz-Kontinuum / Kairos-Potentialis /
 Möglichkeits-Garten." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L413]
 
-**KW3's second name is back**: „Überwelt-Nexus", as in the Kapitel-Kompendium and
-unlike „Kernwelten vollständig" of the same date (J63).
+**KW3's second name is back**: `Überwelt-Nexus`, as in the Kapitel-Kompendium and
+unlike „Kernwelten vollständig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L11] of the same date (J63).
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

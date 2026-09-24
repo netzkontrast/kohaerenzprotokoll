@@ -66,12 +66,12 @@ Seventeen, and four of them change something the wiki had recorded as open.
 |---|---|
 | `kern-welten` | **all four numbered, with a domain bearer each.** The page's own inference — KW1 is `konstrukt-stadt`, KW3 is `grenzfeste` — is now complete for all four and confirmed for the two it could be checked on |
 | `guardians` | **`Wächter` twelve times analytically and `Guardian` not once.** The four bearers named in one parenthesis |
-| `risse` | **the first mechanism anything read has given.** „eine Form der Umgebungsreaktion auf Systemstress oder steigende Entropie" — the environment misfiring, not something arriving |
+| `risse` | **the first mechanism anything read has given.** „eine Form der Umgebungsreaktion auf Systemstress oder steigende Entropie" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L77] — the environment misfiring, not something arriving |
 | `alters` | four named, one per level, each with „wie" — **this page's first reading ever** |
 | `ueberwelt` | Interface or Betriebssystem rather than a place; `Simulation` used in the same file for something larger |
 | `externe-ebene` | labelled `Verbindung: Juna` where the other five levels read `Domäne` |
 | `entropie` | instrumented — Entropiegrad, Entropielevel, Entropie-Hotspots, Entropie-Indikatoren, Ausgleichs-Kammer |
-| `aegis` | „Ordnung, Integrität, Effizienz", and „Allwissenheit (oder den Anspruch darauf)" |
+| `aegis` | „Ordnung, Integrität, Effizienz" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L49], and „Allwissenheit (oder den Anspruch darauf)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L467] |
 | `kael` · `juna` | the Kern-Welten are his; she is the sixth level's connection and the monitor may not be able to localise her |
 | `logos` · `mnemosyne` · `cerberus` · `kairos` · `sophia` | a numbered world and a stated domain each |
 | `moeglichkeits-garten` | a region inside KW4 with gates to other regions of KW4 — `C5` |
@@ -91,9 +91,9 @@ it, and none of them closed.
 
 | record | the test it wrote | what arrived |
 |---|---|---|
-| `kern-welten` | „`KW2` and `KW4` appearing anywhere would settle most of it at once" | both, 28 and 18 times, with bearers |
+| `kern-welten` | *`KW2` and `KW4` appearing anywhere would settle most of it at once* | both, 28 and 18 times, with bearers |
 | `c4-guardians-and-aegis` | the same sentence, for the same reason | the same evidence — and document 4 still never mentions AEGIS |
-| `q4-waechter-four-bearers` | „Any document using `Wächter` in an analytic sentence would break the register pattern" | twelve analytic uses, and zero `Guardian` |
+| `q4-waechter-four-bearers` | *Any document using `Wächter` in an analytic sentence would break the register pattern* | twelve analytic uses, and zero `Guardian` |
 
 **Q4's is the one worth dwelling on, because the thing it broke was a
 measurement.** The register hypothesis — English is the analytic word, German the
@@ -110,7 +110,7 @@ introduces its Alter with „wie".
 ## One conflict raised
 
 `C5` — a Kern-Welt in document 4 is a region inside that Kern-Welt here, with
-„Tore zu anderen Bereichen von KW4". **It is the wiki's first conflict about
+„Tore zu anderen Bereichen von KW4" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L436]. **It is the wiki's first conflict about
 scale rather than about content**, and everything except the scale agrees.
 
 ## Judgements
