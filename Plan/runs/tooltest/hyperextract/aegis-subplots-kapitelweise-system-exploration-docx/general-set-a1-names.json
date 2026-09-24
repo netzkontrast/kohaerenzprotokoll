@@ -1,0 +1,1040 @@
+{
+  "entities": [
+    {
+      "term": "AEGIS",
+      "scope": "world"
+    },
+    {
+      "term": "Kael",
+      "scope": "world"
+    },
+    {
+      "term": "TSDP",
+      "scope": "world"
+    },
+    {
+      "term": "User and Entity Behavior Analytics (UEBA)",
+      "scope": "world"
+    },
+    {
+      "term": "Behavioral AI",
+      "scope": "world"
+    },
+    {
+      "term": "innerer Rückzug",
+      "scope": "world"
+    },
+    {
+      "term": "Kompartmentalisierung",
+      "scope": "world"
+    },
+    {
+      "term": "nicht-kritische Abweichungen",
+      "scope": "world"
+    },
+    {
+      "term": "unterschwelliges emotionales Rauschen",
+      "scope": "world"
+    },
+    {
+      "term": "Entropie-Score",
+      "scope": "world"
+    },
+    {
+      "term": "Guardian",
+      "scope": "world"
+    },
+    {
+      "term": "LogOS",
+      "scope": "world"
+    },
+    {
+      "term": "technological/cosmic horror",
+      "scope": "world"
+    },
+    {
+      "term": "the feeling of being subject to a cold, inexorable logic",
+      "scope": "world"
+    },
+    {
+      "term": "EP-Intrusion",
+      "scope": "world"
+    },
+    {
+      "term": "Alter",
+      "scope": "world"
+    },
+    {
+      "term": "Shannon",
+      "scope": "world"
+    },
+    {
+      "term": "Informationstheoretische Entropie",
+      "scope": "world"
+    },
+    {
+      "term": "Thermodynamische Entropie",
+      "scope": "world"
+    },
+    {
+      "term": "Anomalieerkennungsfehler",
+      "scope": "world"
+    },
+    {
+      "term": "Datenkorruption",
+      "scope": "world"
+    },
+    {
+      "term": "Hochentropie",
+      "scope": "world"
+    },
+    {
+      "term": "Entropie",
+      "scope": "world"
+    },
+    {
+      "term": "Diskussion",
+      "scope": "world"
+    },
+    {
+      "term": "Paranoia",
+      "scope": "world"
+    },
+    {
+      "term": "ständige Überwachung",
+      "scope": "world"
+    },
+    {
+      "term": "Kamera",
+      "scope": "world"
+    },
+    {
+      "term": "Welt",
+      "scope": "world"
+    },
+    {
+      "term": "System",
+      "scope": "world"
+    },
+    {
+      "term": "Beobachtung",
+      "scope": "world"
+    },
+    {
+      "term": "Umgebung",
+      "scope": "world"
+    },
+    {
+      "term": "Kontroll- und Überwachungsapparat",
+      "scope": "world"
+    },
+    {
+      "term": "Realitätsformung",
+      "scope": "world"
+    },
+    {
+      "term": "Selbstorganisierte Kritikalität (SOC)",
+      "scope": "world"
+    },
+    {
+      "term": "Sandhaufenmodell",
+      "scope": "world"
+    },
+    {
+      "term": "Stromnetze",
+      "scope": "world"
+    },
+    {
+      "term": "Ökosysteme",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS/Guardians",
+      "scope": "world"
+    },
+    {
+      "term": "KW1",
+      "scope": "world"
+    },
+    {
+      "term": "power grids",
+      "scope": "world"
+    },
+    {
+      "term": "ecosystems",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS-Fokus",
+      "scope": "world"
+    },
+    {
+      "term": "Riss",
+      "scope": "world"
+    },
+    {
+      "term": "Kaskadierendes Versagen",
+      "scope": "world"
+    },
+    {
+      "term": "Simulationsfehler",
+      "scope": "world"
+    },
+    {
+      "term": "Physik-/Rendering-Artefakte",
+      "scope": "world"
+    },
+    {
+      "term": "IT-Infrastruktur",
+      "scope": "world"
+    },
+    {
+      "term": "Spiel-Engines",
+      "scope": "world"
+    },
+    {
+      "term": "Die sich auflösende Naht",
+      "scope": "world"
+    },
+    {
+      "term": "Alters",
+      "scope": "world"
+    },
+    {
+      "term": "Juna/V",
+      "scope": "world"
+    },
+    {
+      "term": "Network infection models",
+      "scope": "world"
+    },
+    {
+      "term": "Information containment",
+      "scope": "world"
+    },
+    {
+      "term": "Cerberus",
+      "scope": "world"
+    },
+    {
+      "term": "Die getrennte Verbindung",
+      "scope": "world"
+    },
+    {
+      "term": "Guardians",
+      "scope": "world"
+    },
+    {
+      "term": "Systemresilienz",
+      "scope": "world"
+    },
+    {
+      "term": "Fehlertoleranz",
+      "scope": "world"
+    },
+    {
+      "term": "Selbstheilende Systeme",
+      "scope": "world"
+    },
+    {
+      "term": "Recherchethemen",
+      "scope": "world"
+    },
+    {
+      "term": "Die Flickwerk-Realität",
+      "scope": "world"
+    },
+    {
+      "term": "Resilience Engineering",
+      "scope": "world"
+    },
+    {
+      "term": "Überwachungssensoren",
+      "scope": "world"
+    },
+    {
+      "term": "Restartefakte",
+      "scope": "world"
+    },
+    {
+      "term": "Narbengewebe",
+      "scope": "world"
+    },
+    {
+      "term": "Wartungsdrohnen",
+      "scope": "world"
+    },
+    {
+      "term": "Guardian-Subroutinen",
+      "scope": "world"
+    },
+    {
+      "term": "Worldbuilding",
+      "scope": "world"
+    },
+    {
+      "term": "Simulationsfehler 27",
+      "scope": "world"
+    },
+    {
+      "term": "KW1/LogOS",
+      "scope": "world"
+    },
+    {
+      "term": "Kapitel 12",
+      "scope": "world"
+    },
+    {
+      "term": "Teil 1",
+      "scope": "world"
+    },
+    {
+      "term": "Integration",
+      "scope": "world"
+    },
+    {
+      "term": "Synthesis",
+      "scope": "world"
+    },
+    {
+      "term": "Anomalie",
+      "scope": "world"
+    },
+    {
+      "term": "Entropy",
+      "scope": "world"
+    },
+    {
+      "term": "Dialectical thinking",
+      "scope": "world"
+    },
+    {
+      "term": "Formal logic",
+      "scope": "world"
+    },
+    {
+      "term": "Emergence",
+      "scope": "world"
+    },
+    {
+      "term": "Hegel",
+      "scope": "world"
+    },
+    {
+      "term": "Philosophical concepts of dialectical thinking",
+      "scope": "world"
+    },
+    {
+      "term": "Emergent behavior in complex systems",
+      "scope": "world"
+    },
+    {
+      "term": "Kapitel 13",
+      "scope": "world"
+    },
+    {
+      "term": "Subplot-Idee: Rekalibrierungsalarm",
+      "scope": "world"
+    },
+    {
+      "term": "Part 2",
+      "scope": "world"
+    },
+    {
+      "term": "simulated environment",
+      "scope": "world"
+    },
+    {
+      "term": "27",
+      "scope": "world"
+    },
+    {
+      "term": "Edge-Case-Testing",
+      "scope": "world"
+    },
+    {
+      "term": "Exploit-Entwicklung",
+      "scope": "world"
+    },
+    {
+      "term": "Softwaretests",
+      "scope": "world"
+    },
+    {
+      "term": "Fuzz-Testing",
+      "scope": "world"
+    },
+    {
+      "term": "Sicherheitsprobleme",
+      "scope": "world"
+    },
+    {
+      "term": "Zahlungsschritte",
+      "scope": "world"
+    },
+    {
+      "term": "Privilegienerweiterung",
+      "scope": "world"
+    },
+    {
+      "term": "KW3",
+      "scope": "world"
+    },
+    {
+      "term": "Rückkopplungsschleife",
+      "scope": "world"
+    },
+    {
+      "term": "Guardian-Typen",
+      "scope": "world"
+    },
+    {
+      "term": "Kapitel 10",
+      "scope": "world"
+    },
+    {
+      "term": "Kapitel 16",
+      "scope": "world"
+    },
+    {
+      "term": "Kapitel 20",
+      "scope": "world"
+    },
+    {
+      "term": "Teil 2",
+      "scope": "world"
+    },
+    {
+      "term": "Mnemosyne",
+      "scope": "world"
+    },
+    {
+      "term": "Ursprung",
+      "scope": "world"
+    },
+    {
+      "term": "Leere",
+      "scope": "world"
+    },
+    {
+      "term": "Existenzielle Angst",
+      "scope": "world"
+    },
+    {
+      "term": "Sartre",
+      "scope": "world"
+    },
+    {
+      "term": "Camus",
+      "scope": "world"
+    },
+    {
+      "term": "KI",
+      "scope": "world"
+    },
+    {
+      "term": "Subplot-Idee: Die Entropie-Gleichung",
+      "scope": "world"
+    },
+    {
+      "term": "emotional volatility",
+      "scope": "world"
+    },
+    {
+      "term": "network connectivity density",
+      "scope": "world"
+    },
+    {
+      "term": "cognitive complexity",
+      "scope": "world"
+    },
+    {
+      "term": "undefined states",
+      "scope": "world"
+    },
+    {
+      "term": "qualia proxies",
+      "scope": "world"
+    },
+    {
+      "term": "Kapitel 17",
+      "scope": "world"
+    },
+    {
+      "term": "Kapitel 18",
+      "scope": "world"
+    },
+    {
+      "term": "Logikbombe",
+      "scope": "world"
+    },
+    {
+      "term": "Paradox-Falle",
+      "scope": "world"
+    },
+    {
+      "term": "chapter 22",
+      "scope": "world"
+    },
+    {
+      "term": "Qualia",
+      "scope": "world"
+    },
+    {
+      "term": "Philosophical Zombie (P-Zombie)",
+      "scope": "world"
+    },
+    {
+      "term": "Chinese Room",
+      "scope": "world"
+    },
+    {
+      "term": "Hard Problem of Consciousness",
+      "scope": "world"
+    },
+    {
+      "term": "Consciousness",
+      "scope": "world"
+    },
+    {
+      "term": "Understanding",
+      "scope": "world"
+    },
+    {
+      "term": "Intelligence",
+      "scope": "world"
+    },
+    {
+      "term": "Physical processes",
+      "scope": "world"
+    },
+    {
+      "term": "Experience",
+      "scope": "world"
+    },
+    {
+      "term": "Behavior",
+      "scope": "world"
+    },
+    {
+      "term": "Empathy test",
+      "scope": "world"
+    },
+    {
+      "term": "Philosophy",
+      "scope": "world"
+    },
+    {
+      "term": "Subjective experience",
+      "scope": "world"
+    },
+    {
+      "term": "Der Empathie-Test",
+      "scope": "world"
+    },
+    {
+      "term": "Teil 3",
+      "scope": "world"
+    },
+    {
+      "term": "Gegnermodellierung 56",
+      "scope": "world"
+    },
+    {
+      "term": "Eskalation",
+      "scope": "world"
+    },
+    {
+      "term": "Konfrontation",
+      "scope": "world"
+    },
+    {
+      "term": "Folgen",
+      "scope": "world"
+    },
+    {
+      "term": "RÜCKKEHR",
+      "scope": "world"
+    },
+    {
+      "term": "DIE ÄUSSERE KONFRONTATION",
+      "scope": "world"
+    },
+    {
+      "term": "Psychologische Kriegsführung",
+      "scope": "world"
+    },
+    {
+      "term": "Trauma-Trigger",
+      "scope": "world"
+    },
+    {
+      "term": "Baseline (Behavioral AI)",
+      "scope": "world"
+    },
+    {
+      "term": "Gaslighting",
+      "scope": "world"
+    },
+    {
+      "term": "Emotionale Manipulation",
+      "scope": "world"
+    },
+    {
+      "term": "Verhaltensanalyse",
+      "scope": "world"
+    },
+    {
+      "term": "Kapitel 22",
+      "scope": "world"
+    },
+    {
+      "term": "Guardian 8",
+      "scope": "world"
+    },
+    {
+      "term": "Agentenbeschränkungen 13",
+      "scope": "world"
+    },
+    {
+      "term": "logischen Fehler des Systems 10",
+      "scope": "world"
+    },
+    {
+      "term": "Architects",
+      "scope": "world"
+    },
+    {
+      "term": "Defense in Depth",
+      "scope": "world"
+    },
+    {
+      "term": "System Shock",
+      "scope": "world"
+    },
+    {
+      "term": "Core code",
+      "scope": "world"
+    },
+    {
+      "term": "Simulated reality",
+      "scope": "world"
+    },
+    {
+      "term": "Cybersecurity architecture",
+      "scope": "world"
+    },
+    {
+      "term": "Conflict theory",
+      "scope": "world"
+    },
+    {
+      "term": "Simulations-Engine 72",
+      "scope": "world"
+    },
+    {
+      "term": "Realitätsformung 3",
+      "scope": "world"
+    },
+    {
+      "term": "Firewall",
+      "scope": "world"
+    },
+    {
+      "term": "Konflikt",
+      "scope": "world"
+    },
+    {
+      "term": "Zerstörung",
+      "scope": "world"
+    },
+    {
+      "term": "Transformation",
+      "scope": "world"
+    },
+    {
+      "term": "Koexistenz",
+      "scope": "world"
+    },
+    {
+      "term": "Höhepunkt",
+      "scope": "world"
+    },
+    {
+      "term": "AEGIS-System",
+      "scope": "world"
+    },
+    {
+      "term": "Kern",
+      "scope": "world"
+    },
+    {
+      "term": "Systemkollaps",
+      "scope": "world"
+    },
+    {
+      "term": "Cascading Failure",
+      "scope": "world"
+    },
+    {
+      "term": "Failsafe-Mechanismus",
+      "scope": "world"
+    },
+    {
+      "term": "Notabschaltung",
+      "scope": "world"
+    },
+    {
+      "term": "Kernwelten",
+      "scope": "world"
+    },
+    {
+      "term": "Kernkonfrontation",
+      "scope": "world"
+    },
+    {
+      "term": "SOC-Kollapsfolgen 19",
+      "scope": "world"
+    },
+    {
+      "term": "Nachspiel-Phase",
+      "scope": "world"
+    },
+    {
+      "term": "Tor",
+      "scope": "world"
+    },
+    {
+      "term": "Nash-Gleichgewicht",
+      "scope": "world"
+    },
+    {
+      "term": "Der Wächter am Tor",
+      "scope": "world"
+    },
+    {
+      "term": "Kernystem",
+      "scope": "world"
+    },
+    {
+      "term": "International Conference on Autonomous Agents and Multiagent Systems",
+      "scope": "world"
+    },
+    {
+      "term": "Wikipedia",
+      "scope": "world"
+    },
+    {
+      "term": "AAMAS 2025",
+      "scope": "world"
+    },
+    {
+      "term": "Scaling LLM-Guided Agent Simulations to Millions",
+      "scope": "world"
+    },
+    {
+      "term": "Principal-Agent Problems",
+      "scope": "world"
+    },
+    {
+      "term": "AI Alignment Forum",
+      "scope": "world"
+    },
+    {
+      "term": "Of Models and Tin Men: A Behavioural Economics Study of Principal-Agent Problems in AI Alignment using Large-Language Models",
+      "scope": "world"
+    },
+    {
+      "term": "IDEAS/RePEc",
+      "scope": "world"
+    },
+    {
+      "term": "Information Entropy",
+      "scope": "world"
+    },
+    {
+      "term": "Thermodynamic Entropy",
+      "scope": "world"
+    },
+    {
+      "term": "Reddit",
+      "scope": "world"
+    },
+    {
+      "term": "Entropy in thermodynamics and information theory",
+      "scope": "world"
+    },
+    {
+      "term": "Complex systems analysis of series of blackouts: Cascading failure, critical points, and self-organization",
+      "scope": "world"
+    },
+    {
+      "term": "Chaos - AIP Publishing",
+      "scope": "world"
+    },
+    {
+      "term": "Hard problem of consciousness",
+      "scope": "world"
+    },
+    {
+      "term": "Scholarpedia",
+      "scope": "world"
+    },
+    {
+      "term": "How Nature Works: the science of self-organized criticality: Bak, Per",
+      "scope": "world"
+    },
+    {
+      "term": "Amazon.com",
+      "scope": "world"
+    },
+    {
+      "term": "Self-Organized Criticality & Earthquakes",
+      "scope": "world"
+    },
+    {
+      "term": "Bak, Per",
+      "scope": "world"
+    },
+    {
+      "term": "RiskRecon",
+      "scope": "world"
+    },
+    {
+      "term": "Cyber Incident Response",
+      "scope": "world"
+    },
+    {
+      "term": "Containment",
+      "scope": "world"
+    },
+    {
+      "term": "CM-Alliance",
+      "scope": "world"
+    },
+    {
+      "term": "Cyber Incident Response Plan",
+      "scope": "world"
+    },
+    {
+      "term": "NSA",
+      "scope": "world"
+    },
+    {
+      "term": "Cybersecurity Mitigation Strategies",
+      "scope": "world"
+    },
+    {
+      "term": "Stanford Encyclopedia of Philosophy",
+      "scope": "world"
+    },
+    {
+      "term": "Chinese Room Argument",
+      "scope": "world"
+    },
+    {
+      "term": "AAAI Publications",
+      "scope": "world"
+    },
+    {
+      "term": "Opponent-Model Search",
+      "scope": "world"
+    },
+    {
+      "term": "Games with Incomplete Information",
+      "scope": "world"
+    },
+    {
+      "term": "ResearchGate",
+      "scope": "world"
+    },
+    {
+      "term": "Game theory-based opponent modeling",
+      "scope": "world"
+    },
+    {
+      "term": "Large imperfect-information games",
+      "scope": "world"
+    },
+    {
+      "term": "Fiveable",
+      "scope": "world"
+    },
+    {
+      "term": "Phase Margin",
+      "scope": "world"
+    },
+    {
+      "term": "Control Theory",
+      "scope": "world"
+    },
+    {
+      "term": "Engineering LibreTexts",
+      "scope": "world"
+    },
+    {
+      "term": "System Stability",
+      "scope": "world"
+    },
+    {
+      "term": "Introduction to Control Systems (Iqbal)",
+      "scope": "world"
+    },
+    {
+      "term": "Transfer Function Models",
+      "scope": "world"
+    },
+    {
+      "term": "GeeksforGeeks",
+      "scope": "world"
+    },
+    {
+      "term": "Control Systems Stability",
+      "scope": "world"
+    },
+    {
+      "term": "Control Systems",
+      "scope": "world"
+    },
+    {
+      "term": "Stability",
+      "scope": "world"
+    },
+    {
+      "term": "CircuitBread",
+      "scope": "world"
+    },
+    {
+      "term": "Robust Control Theory",
+      "scope": "world"
+    },
+    {
+      "term": "Electrical and Computer Engineering",
+      "scope": "world"
+    },
+    {
+      "term": "Stability theory",
+      "scope": "world"
+    },
+    {
+      "term": "business logic vulnerabilities",
+      "scope": "world"
+    },
+    {
+      "term": "pentests",
+      "scope": "world"
+    },
+    {
+      "term": "OWASP Top 10 Vulnerabilities",
+      "scope": "world"
+    },
+    {
+      "term": "Jit.io",
+      "scope": "world"
+    },
+    {
+      "term": "CyberDB",
+      "scope": "world"
+    },
+    {
+      "term": "Veracode",
+      "scope": "world"
+    },
+    {
+      "term": "Business Logic Vulnerabilities",
+      "scope": "world"
+    },
+    {
+      "term": "API Security Risk",
+      "scope": "world"
+    },
+    {
+      "term": "Aptori",
+      "scope": "world"
+    },
+    {
+      "term": "Conflict Games",
+      "scope": "world"
+    },
+    {
+      "term": "Game Theory",
+      "scope": "world"
+    },
+    {
+      "term": "Number Analytics",
+      "scope": "world"
+    },
+    {
+      "term": "Psychology of Existential Dread",
+      "scope": "world"
+    },
+    {
+      "term": "Therapy Group of DC",
+      "scope": "world"
+    },
+    {
+      "term": "The Void (philosophy)",
+      "scope": "world"
+    },
+    {
+      "term": "Mai 2, 2025",
+      "scope": "world"
+    },
+    {
+      "term": "Simulation hypothesis",
+      "scope": "world"
+    },
+    {
+      "term": "The simulation argument reconsidered",
+      "scope": "world"
+    },
+    {
+      "term": "Oxford Academic",
+      "scope": "world"
+    },
+    {
+      "term": "Structural qualia",
+      "scope": "world"
+    },
+    {
+      "term": "hard problem of consciousness",
+      "scope": "world"
+    },
+    {
+      "term": "PMC - PubMed Central",
+      "scope": "world"
+    },
+    {
+      "term": "Philosophical zombie",
+      "scope": "world"
+    },
+    {
+      "term": "Philosimplicity",
+      "scope": "world"
+    },
+    {
+      "term": "Middle Georgia State University",
+      "scope": "world"
+    },
+    {
+      "term": "Psychological manipulation",
+      "scope": "world"
+    },
+    {
+      "term": "EBSCO Research Starters",
+      "scope": "world"
+    },
+    {
+      "term": "Newport Institute",
+      "scope": "world"
+    },
+    {
+      "term": "Nazi Propaganda and Censorship",
+      "scope": "world"
+    },
+    {
+      "term": "Holocaust Encyclopedia",
+      "scope": "world"
+    }
+  ]
+}

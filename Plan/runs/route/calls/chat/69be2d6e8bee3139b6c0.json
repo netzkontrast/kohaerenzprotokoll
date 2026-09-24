@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.7,
+ "content": "",
+ "response": {
+  "id": "gen-1790275871-2wYXtnuflE6AJsH2PuyK",
+  "object": "chat.completion",
+  "created": 1790275871,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "Let me analyze the text to identify entities with independent meaning. I need to look for specific names, places, organizations, concepts, and other meaningful references rather than generic terms or pronouns.\n\nLooking at the text:\n\n1. \"Autonomiegrade künstlicher Agenten und MAS\" - This is a concept/topic, not a specific entity\n2. \"einfache reaktive Agenten\" - generic terms\n3. \"zielorientierte Agenten mit Planungsfähigkeiten\" - generic terms\n4. \"Guardians\" - This appears to be a specific entity/group, likely referring to the Guardians from the Mass Effect universe\n5. \"Mnemosyne\" - This is a specific name, appears to be a Guardian responsible for memory\n6. \"AEGIS\" - This appears to be an organization or system\n7. \"Kael\" - This is a specific name, appears to be a character\n8. \"entropisch\" - This is a descriptive term, not an entity\n9. \"Prinzip-Agent-Beziehung\" - This is a concept, not a specific entity\n\nThe entities I can identify with independent meaning are:\n- Guardians (as a group)\n- Mnemosyne (specific Guardian)\n- AEGIS (organization/system)\n- Kael (character)\n\nLet me structure this properly for the DataSchemaSet function.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_k4x0wdm8dgas",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Guardians\", \"type\": \"organization\", \"description\": \"The collective group of guardian entities being discussed in the subplot\"}, {\"name\": \"Mnemosyne\", \"type\": \"person\", \"description\": \"A specific Guardian responsible for memory functions\"}, {\"name\": \"AEGIS\", \"type\": \"organization\", \"description\": \"The directive system or organization that Guardians are designed to serve\"}, {\"name\": \"Kael\", \"type\": \"person\", \"description\": \"The character who interacts with the Guardians and presents them with conflicting situations\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze the text to identify entities with independent meaning. I need to look for specific names, places, organizations, concepts, and other meaningful references rather than generic terms or pronouns.\n\nLooking at the text:\n\n1. \"Autonomiegrade künstlicher Agenten und MAS\" - This is a concept/topic, not a specific entity\n2. \"einfache reaktive Agenten\" - generic terms\n3. \"zielorientierte Agenten mit Planungsfähigkeiten\" - generic terms\n4. \"Guardians\" - This appears to be a specific entity/group, likely referring to the Guardians from the Mass Effect universe\n5. \"Mnemosyne\" - This is a specific name, appears to be a Guardian responsible for memory\n6. \"AEGIS\" - This appears to be an organization or system\n7. \"Kael\" - This is a specific name, appears to be a character\n8. \"entropisch\" - This is a descriptive term, not an entity\n9. \"Prinzip-Agent-Beziehung\" - This is a concept, not a specific entity\n\nThe entities I can identify with independent meaning are:\n- Guardians (as a group)\n- Mnemosyne (specific Guardian)\n- AEGIS (organization/system)\n- Kael (character)\n\nLet me structure this properly for the DataSchemaSet function.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 541,
+   "completion_tokens": 375,
+   "total_tokens": 916,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 291,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

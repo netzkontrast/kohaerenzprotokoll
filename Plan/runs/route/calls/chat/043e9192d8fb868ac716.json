@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.3,
+ "content": "{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"The collective group of guardian entities being discussed in the subplot\"\n}",
+ "response": {
+  "id": "gen-1790275965-Nk5SLhLvqeHDn5auaIL8",
+  "object": "chat.completion",
+  "created": 1790275965,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"The collective group of guardian entities being discussed in the subplot\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects. Both have same fields: name, type, description. Name and type identical. Description: Item A has null, Item B has a string. According to strategy, if one has null and other has data, keep the data. So final description should be the string from Item B.\n\nWe should return JSON with same fields. No extra fields. So output:\n\n{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"The collective group of guardian entities being discussed in the subplot\"\n}\n\nMake sure formatting matches input (no trailing commas). Provide as JSON.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects. Both have same fields: name, type, description. Name and type identical. Description: Item A has null, Item B has a string. According to strategy, if one has null and other has data, keep the data. So final description should be the string from Item B.\n\nWe should return JSON with same fields. No extra fields. So output:\n\n{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"The collective group of guardian entities being discussed in the subplot\"\n}\n\nMake sure formatting matches input (no trailing commas). Provide as JSON.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 189,
+   "completion_tokens": 162,
+   "total_tokens": 351,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 147,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

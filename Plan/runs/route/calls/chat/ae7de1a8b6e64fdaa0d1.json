@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.7,
+ "content": "{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"Standard security entities within AEGIS simulation that are deemed inadequate for the current threat\"\n}",
+ "response": {
+  "id": "gen-1790275981-FM1JRkBXlCVlh7bYgiKv",
+  "object": "chat.completion",
+  "created": 1790275981,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"Standard security entities within AEGIS simulation that are deemed inadequate for the current threat\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A existing, Item B incoming. Merge strategy: combine info, if fields conflict, pick more detailed or recent-looking value. If one has null/missing and other has data, keep data. For list fields combine unique elements (none here). Do not invent new info. Return result in exact JSON format of input items.\n\nWe have fields: name, type, description. Both have same name and type. Description: Item A has a description string, Item B has null. So keep the non-null description from Item A. So merged object should have name \"Guardians\", type \"organization\", description \"Standard security entities within AEGIS simulation that are deemed inadequate for the current threat\". That's it.\n\nReturn JSON exactly as input items format (i.e., pretty printed? Probably same style). Provide merged JSON.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A existing, Item B incoming. Merge strategy: combine info, if fields conflict, pick more detailed or recent-looking value. If one has null/missing and other has data, keep data. For list fields combine unique elements (none here). Do not invent new info. Return result in exact JSON format of input items.\n\nWe have fields: name, type, description. Both have same name and type. Description: Item A has a description string, Item B has null. So keep the non-null description from Item A. So merged object should have name \"Guardians\", type \"organization\", description \"Standard security entities within AEGIS simulation that are deemed inadequate for the current threat\". That's it.\n\nReturn JSON exactly as input items format (i.e., pretty printed? Probably same style). Provide merged JSON.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 193,
+   "completion_tokens": 213,
+   "total_tokens": 406,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 215,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

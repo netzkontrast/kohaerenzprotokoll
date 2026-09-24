@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 9.6,
+ "content": "",
+ "response": {
+  "id": "gen-1790275514-GD3dDChvKkpr73pdhlD5",
+  "object": "chat.completion",
+  "created": 1790275514,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants a knowledge graph from the provided text. I should follow the guidelines:\n\n1. Build a compact knowledge graph from the text\n2. Return at most 5 relationships\n3. Include every referenced node\n4. Output in German (since the text is already in German)\n5. Use appropriate node labels (Person, Concept, Organization, Place, etc.)\n6. Use relationship labels as verb-like connectors in German\n7. Follow all the rules specified\n\nLet me analyze the text to identify the main entities and relationships:\n\nFrom the text, I can identify these key entities:\n- Worldbuilding-Techniken (Concept)\n- Kernprinzipien (Concept)  \n- Roman \"Kohärenz Protokoll\" (Concept/Work)\n- AEGIS (likely an organization/systems)\n- sechs Realitätsebenen (Concept)\n- psychologische Simulation (Genre/Concept)\n- Science-Fiction (Genre/Concept)\n- Entropie-Management (Concept)\n- Überzeugungen (Concept)\n- Rituale (Concept)\n- Sprachen (Concept)\n- Post-Reboot-Zustand (Concept)\n- Ursprung des Systems (Concept)\n- vergangene Ereignisse (Concept)\n\nKey relationships I can extract:\n1. Worldbuilding-Techniken → umfasst → Kernprinzipien\n2. Roman \"Kohärenz Protokoll\" → basiert auf → Worldbuilding-Techniken\n3. AEGIS → definiert → Regeln und Gesetze\n4. sechs Realitätsebenen → sind Teil von → Worldbuilding-Techniken\n5. psychologische Simulation → ist ein Welttyp von → Worldbuilding-Techniken\n6. Entropie-Management → ist Teil von → Regeln und Gesetze\n\nBut I need to be more careful and follow the rules. Let me be more systematic:\n\nEntities mentioned:\n- Worldbuilding-Techniken (label: Concept)\n- Kernprinzipien (label: Concept) \n- Roman \"Kohärenz Protokoll\" (label: Concept)\n\n\n- AEGIS (label: Organization)\n- sechs Realitätsebenen (label: Concept)\n- psychologische Simulation (label: Concept)\n- Science-Fiction (label: Concept)\n- Entropie-Management (label: Concept)\n- Überzeugungen (label: Concept)\n- Rituale (label: Concept)\n- Sprachen (label: Concept)\n- Post-Reboot-Zustand (label: Concept)\n- Ursprung des Systems (label: Concept)\n- vergangene Ereignisse (label: Concept)\n\nI continue analyzing the relationships, focusing on how these concepts interconnect. The relationships reveal the complex structure of worldbuilding techniques and their various components. Each entity plays a unique role in understanding the broader context of the \"Kohärenz Protokoll\" and its underlying principles.\n\nThe relationships suggest a intricate network of interconnected concepts that provide a comprehensive framework for understanding the theoretical foundation of worldbuilding in this specific narrative context.\n\nI'm analyzing the structural relationships between key entities, focusing on how specific elements connect to broader concepts. The relationships highlight a systematic approach to understanding the underlying mechanisms of the fictional universe, with each entity playing a distinct role in defining the narrative's fundamental principles.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "ExtractedKnowledgeGraph_2d8nwp0f9shd",
+       "function": {
+        "name": "ExtractedKnowledgeGraph",
+        "arguments": "{\"nodes\": [{\"label\": \"Concept\", \"name\": \"Worldbuilding-Techniken\", \"semantic_key\": \"concept_worldbuilding-techniken\", \"properties\": {}}, {\"label\": \"Concept\", \"name\": \"Kernprinzipien\", \"semantic_key\": \"concept_kernprinzipien\", \"properties\": {}}, {\"label\": \"Concept\", \"name\": \"Roman Kohärenz Protokoll\", \"semantic_key\": \"concept_roman-koh\\u00e4renz-protokoll\", \"properties\": {}}, {\"label\": \"Organization\", \"name\": \"AEGIS\", \"semantic_key\": \"organization_aegissystem\", \"properties\": {}}, {\"label\": \"Concept\", \"name\": \"sechs Realitätsebenen\", \"semantic_key\": \"concept_sechs-realit\\u00e4tsebenen\", \"properties\": {}}, {\"label\": \"Concept\", \"name\": \"psychologische Simulation\", \"semantic_key\": \"concept_psychologische-simulation\", \"properties\": {}}, {\"label\": \"Concept\", \"name\": \"Entropie-Management\", \"semantic_key\": \"concept_entropie-management\", \"properties\": {}}], \"relationships\": [{\"source\": \"Worldbuilding-Techniken\", \"target\": \"Kernprinzipien\", \"label\": \"umfasst\", \"properties\": {}}, {\"source\": \"Worldbuilding-Techniken\", \"target\": \"Roman Kohärenz Protokoll\", \"label\": \"wendet_an\", \"properties\": {}}, {\"source\": \"AEGIS\", \"target\": \"sechs Realitätsebenen\", \"label\": \"definiert\", \"properties\": {}}, {\"source\": \"psychologische Simulation\", \"target\": \"Worldbuilding-Techniken\", \"label\": \"ist_Welttyp_von\", \"properties\": {}}, {\"source\": \"Entropie-Management\", \"target\": \"AEGIS\", \"label\": \"ist_regel_von\", \"properties\": {}}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants a knowledge graph from the provided text. I should follow the guidelines:\n\n1. Build a compact knowledge graph from the text\n2. Return at most 5 relationships\n3. Include every referenced node\n4. Output in German (since the text is already in German)\n5. Use appropriate node labels (Person, Concept, Organization, Place, etc.)\n6. Use relationship labels as verb-like connectors in German\n7. Follow all the rules specified\n\nLet me analyze the text to identify the main entities and relationships:\n\nFrom the text, I can identify these key entities:\n- Worldbuilding-Techniken (Concept)\n- Kernprinzipien (Concept)  \n- Roman \"Kohärenz Protokoll\" (Concept/Work)\n- AEGIS (likely an organization/systems)\n- sechs Realitätsebenen (Concept)\n- psychologische Simulation (Genre/Concept)\n- Science-Fiction (Genre/Concept)\n- Entropie-Management (Concept)\n- Überzeugungen (Concept)\n- Rituale (Concept)\n- Sprachen (Concept)\n- Post-Reboot-Zustand (Concept)\n- Ursprung des Systems (Concept)\n- vergangene Ereignisse (Concept)\n\nKey relationships I can extract:\n1. Worldbuilding-Techniken → umfasst → Kernprinzipien\n2. Roman \"Kohärenz Protokoll\" → basiert auf → Worldbuilding-Techniken\n3. AEGIS → definiert → Regeln und Gesetze\n4. sechs Realitätsebenen → sind Teil von → Worldbuilding-Techniken\n5. psychologische Simulation → ist ein Welttyp von → Worldbuilding-Techniken\n6. Entropie-Management → ist Teil von → Regeln und Gesetze\n\nBut I need to be more careful and follow the rules. Let me be more systematic:\n\nEntities mentioned:\n- Worldbuilding-Techniken (label: Concept)\n- Kernprinzipien (label: Concept) \n- Roman \"Kohärenz Protokoll\" (label: Concept)\n\n\n- AEGIS (label: Organization)\n- sechs Realitätsebenen (label: Concept)\n- psychologische Simulation (label: Concept)\n- Science-Fiction (label: Concept)\n- Entropie-Management (label: Concept)\n- Überzeugungen (label: Concept)\n- Rituale (label: Concept)\n- Sprachen (label: Concept)\n- Post-Reboot-Zustand (label: Concept)\n- Ursprung des Systems (label: Concept)\n- vergangene Ereignisse (label: Concept)\n\nI continue analyzing the relationships, focusing on how these concepts interconnect. The relationships reveal the complex structure of worldbuilding techniques and their various components. Each entity plays a unique role in understanding the broader context of the \"Kohärenz Protokoll\" and its underlying principles.\n\nThe relationships suggest a intricate network of interconnected concepts that provide a comprehensive framework for understanding the theoretical foundation of worldbuilding in this specific narrative context.\n\nI'm analyzing the structural relationships between key entities, focusing on how specific elements connect to broader concepts. The relationships highlight a systematic approach to understanding the underlying mechanisms of the fictional universe, with each entity playing a distinct role in defining the narrative's fundamental principles.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1678,
+   "completion_tokens": 936,
+   "total_tokens": 2614,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 757,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.2,
+ "content": "{\n  \"name\": \"Stromnetze\",\n  \"type\": \"organization\",\n  \"description\": null\n}",
+ "response": {
+  "id": "gen-1790275940-EbHPTzP2s49rgXW3FP7W",
+  "object": "chat.completion",
+  "created": 1790275940,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Stromnetze\",\n  \"type\": \"organization\",\n  \"description\": null\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name \"Stromnetze\", type \"organization\", description null. Item B: name \"Stromnetze\", type \"location\", description null.\n\nWe need to combine info. Fields conflict: type differs. Use best judgment to pick more detailed or recent-looking value. Both are simple. Which is more likely? \"organization\" vs \"location\". Hard to say. Could consider that \"type\" maybe should be \"organization\" if it's an entity? But both could be valid. We need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are equally detailed. Could consider that \"organization\" is more specific? Or maybe \"location\" is more specific? Not sure. Could also consider that \"type\" maybe should be \"organization\" because it's an entity? But \"Stromnetze\" could be a power grid (network) which is a location? Actually \"Stromnetze\" means power lines, could be a network (organization) or location. Hard.\n\nWe could also consider that \"type\" maybe should be \"organization\" because it's an entity. I'd pick \"organization\". Also description both null, keep null.\n\nThus merged object: name \"Stromnetze\", type \"organization\", description null.\n\nReturn JSON exactly as input format (no extra fields). So output:\n\n{\n  \"name\": \"Stromnetze\",\n  \"type\": \"organization\",\n  \"description\": null\n}\n\nThat's it.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name \"Stromnetze\", type \"organization\", description null. Item B: name \"Stromnetze\", type \"location\", description null.\n\nWe need to combine info. Fields conflict: type differs. Use best judgment to pick more detailed or recent-looking value. Both are simple. Which is more likely? \"organization\" vs \"location\". Hard to say. Could consider that \"type\" maybe should be \"organization\" if it's an entity? But both could be valid. We need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are equally detailed. Could consider that \"organization\" is more specific? Or maybe \"location\" is more specific? Not sure. Could also consider that \"type\" maybe should be \"organization\" because it's an entity? But \"Stromnetze\" could be a power grid (network) which is a location? Actually \"Stromnetze\" means power lines, could be a network (organization) or location. Hard.\n\nWe could also consider that \"type\" maybe should be \"organization\" because it's an entity. I'd pick \"organization\". Also description both null, keep null.\n\nThus merged object: name \"Stromnetze\", type \"organization\", description null.\n\nReturn JSON exactly as input format (no extra fields). So output:\n\n{\n  \"name\": \"Stromnetze\",\n  \"type\": \"organization\",\n  \"description\": null\n}\n\nThat's it.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 182,
+   "completion_tokens": 345,
+   "total_tokens": 527,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 353,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

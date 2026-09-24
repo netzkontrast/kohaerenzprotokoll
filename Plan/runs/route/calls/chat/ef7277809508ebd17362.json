@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 3.2,
+ "content": "{\n  \"name\": \"Mnemosyne\",\n  \"type\": \"person\",\n  \"description\": \"A specific Guardian responsible for memory functions\"\n}",
+ "response": {
+  "id": "gen-1790275948-yEEncbB4QoFSBSsEpPBd",
+  "object": "chat.completion",
+  "created": 1790275948,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Mnemosyne\",\n  \"type\": \"person\",\n  \"description\": \"A specific Guardian responsible for memory functions\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A has description \"A specific Guardian responsible for memory functions\". Item B has description null. According to strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Here description conflict: A has a non-null description, B has null. So keep A's description. Other fields same. So merged result should be same as Item A essentially. Ensure JSON format same as input items (i.e., keys order? Probably preserve order as in Item A). So output:\n\n{\n  \"name\": \"Mnemosyne\",\n  \"type\": \"person\",\n  \"description\": \"A specific Guardian responsible for memory functions\"\n}\n\nNo extra fields.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A has description \"A specific Guardian responsible for memory functions\". Item B has description null. According to strategy: combine info, if fields conflict, pick more detailed or recent-looking value. Here description conflict: A has a non-null description, B has null. So keep A's description. Other fields same. So merged result should be same as Item A essentially. Ensure JSON format same as input items (i.e., keys order? Probably preserve order as in Item A). So output:\n\n{\n  \"name\": \"Mnemosyne\",\n  \"type\": \"person\",\n  \"description\": \"A specific Guardian responsible for memory functions\"\n}\n\nNo extra fields.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 187,
+   "completion_tokens": 175,
+   "total_tokens": 362,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 173,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

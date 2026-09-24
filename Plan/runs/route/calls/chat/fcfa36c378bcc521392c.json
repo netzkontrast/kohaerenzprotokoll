@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.3,
+ "content": "{\n  \"name\": \"Wikipedia\",\n  \"type\": \"platform\",\n  \"description\": \"Online encyclopedia platform\"\n}",
+ "response": {
+  "id": "gen-1790275966-c27ur99AoeQ1Vw9rQVa9",
+  "object": "chat.completion",
+  "created": 1790275966,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Wikipedia\",\n  \"type\": \"platform\",\n  \"description\": \"Online encyclopedia platform\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name \"Wikipedia\", type \"organization\", description \"Online encyclopedia platform\". Item B: name \"Wikipedia\", type \"platform\", description null.\n\nWe need to combine info. Fields conflict: type differs. Use best judgment to pick more detailed or recent-looking value. Which is more appropriate? Both are similar. \"organization\" vs \"platform\". Which is more detailed? \"platform\" maybe more specific? Could consider that \"type\" maybe should be \"organization\" as it's broader? But we need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are single words. \"platform\" maybe more recent? Not sure. Could consider that \"organization\" is more generic, \"platform\" is more specific. \"platform\" could be considered more detailed. So choose \"platform\". Description: Item A has \"Online encyclopedia platform\", Item B has null. Keep data, so keep \"Online encyclopedia platform\". Name same.\n\nThus merged object: name \"Wikipedia\", type \"platform\", description \"Online encyclopedia platform\". Return JSON format exactly as input items (i.e., same keys order? Not required but likely preserve order as in A then B? The merged should have same fields. Probably order: name, type, description.\n\nThus output:\n\n{\n  \"name\": \"Wikipedia\",\n  \"type\": \"platform\",\n  \"description\": \"Online encyclopedia platform\"\n}",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name \"Wikipedia\", type \"organization\", description \"Online encyclopedia platform\". Item B: name \"Wikipedia\", type \"platform\", description null.\n\nWe need to combine info. Fields conflict: type differs. Use best judgment to pick more detailed or recent-looking value. Which is more appropriate? Both are similar. \"organization\" vs \"platform\". Which is more detailed? \"platform\" maybe more specific? Could consider that \"type\" maybe should be \"organization\" as it's broader? But we need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are single words. \"platform\" maybe more recent? Not sure. Could consider that \"organization\" is more generic, \"platform\" is more specific. \"platform\" could be considered more detailed. So choose \"platform\". Description: Item A has \"Online encyclopedia platform\", Item B has null. Keep data, so keep \"Online encyclopedia platform\". Name same.\n\nThus merged object: name \"Wikipedia\", type \"platform\", description \"Online encyclopedia platform\". Return JSON format exactly as input items (i.e., same keys order? Not required but likely preserve order as in A then B? The merged should have same fields. Probably order: name, type, description.\n\nThus output:\n\n{\n  \"name\": \"Wikipedia\",\n  \"type\": \"platform\",\n  \"description\": \"Online encyclopedia platform\"\n}",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 179,
+   "completion_tokens": 327,
+   "total_tokens": 506,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 362,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

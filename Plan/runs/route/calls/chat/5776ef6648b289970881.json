@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 16.6,
+ "content": "",
+ "response": {
+  "id": "gen-1790275904-itUN8Jgdycah6EEtcOQv",
+  "object": "chat.completion",
+  "created": 1790275904,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "I need to extract entities with independent meaning from this text. Let me analyze each item:\n\n1. \"Cyber Incident Response: Containment - RiskRecon, Zugriff am Mai 2, 2025, <https://blog.riskrecon.com/cyber-incident-response-containment>\"\n   - RiskRecon (organization)\n   - Cyber Incident Response (concept)\n   - Containment (concept)\n\n2. \"What are the 6 Phases in a Cyber Incident Response Plan?, Zugriff am Mai 2, 2025, <https://www.cm-alliance.com/cybersecurity-blog/what-are-the-6-phases-in-a-cyber-incident-response-plan>\"\n   - CM-Alliance (organization)\n   - Cyber Incident Response Plan (concept)\n\n3. \"NSA'S Top Ten Cybersecurity Mitigation Strategies, Zugriff am Mai 2, 2025, <https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf>\"\n   - NSA (organization)\n   - Cybersecurity Mitigation Strategies (concept)\n\n4. \"The Chinese Room Argument (Stanford Encyclopedia of Philosophy/Spring 2010 Edition), Zugriff am Mai 2, 2025, <https://plato.stanford.edu/archIves/spr2010/entries/chinese-room/>\"\n   - Stanford Encyclopedia of Philosophy (organization)\n   - Chinese Room Argument (concept)\n\n5. \"Hard problem of consciousness - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Hard_problem_of_consciousness>\"\n   - Wikipedia (organization)\n   - Hard problem of consciousness (concept)\n\n6. \"Opponent-Model Search in Games with Incomplete Information - AAAI Publications, Zugriff am Mai 2, 2025, <https://ojs.aaai.org/index.php/AAAI/article/view/28844/29606>\"\n   - AAAI Publications (organization)\n   - Opponent-Model Search (concept)\n   - Games with Incomplete Information (concept)\n\n7. \"Game theory-based opponent modeling in large imperfect-information games, Zugriff am Mai 2, 2025, <https://www.researchgate.net/publication/221454773_Game_theory-based_opponent_modeling_in_large_imperfect-information_games>\"\n   - ResearchGate (organization)\n   - Game theory-based opponent modeling (concept)\n   - Large imperfect-information games (concept)\n\n8. \"Key Concepts of Phase Margin to Know for Control Theory - Fiveable, Zugriff am Mai 2, 2025, <https://fiveable.me/lists/key-concepts-of-phase-margin>\"\n   - Fiveable (organization)\n   - Phase Margin (concept)\n   - Control Theory (concept)\n\n9. \"2.3: System Stability - Engineering LibreTexts, Zugriff am Mai 2, 2025, [https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Introduction_to_Control_Systems_(Iqbal)/02%3A_Transfer_Function_Models/2.03%3A_System_Stability](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Introduction_to_Control_Systems_%28Iqbal%29/02%3A_Transfer_Function_Models/2.03%3A_System_Stability)\"\n   - Engineering LibreTexts (organization)\n   - System Stability (concept)\n   - Introduction to Control Systems (Iqbal) (book/work)\n   - Transfer Function Models (concept)\n\n10. \"Control Systems – Stability | GeeksforGeeks, Zugriff am Mai 2, 2025, <https://www.geeksforgeeks.org/control-systems-stability/>\"\n    - GeeksforGeeks (organization)\n    - Control Systems Stability (concept)\n\nI'll focus on extracting key entities from the text, identifying organizations, concepts, and specific works. The goal is to capture the core elements that provide meaningful context to the information presented.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_aewnxx3rf3hp",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"RiskRecon\", \"type\": \"organization\"}, {\"name\": \"Cyber Incident Response\", \"type\": \"concept\"}, {\"name\": \"Containment\", \"type\": \"concept\"}, {\"name\": \"CM-Alliance\", \"type\": \"organization\"}, {\"name\": \"Cyber Incident Response Plan\", \"type\": \"concept\"}, {\"name\": \"NSA\", \"type\": \"organization\"}, {\"name\": \"Cybersecurity Mitigation Strategies\", \"type\": \"concept\"}, {\"name\": \"Stanford Encyclopedia of Philosophy\", \"type\": \"organization\"}, {\"name\": \"Chinese Room Argument\", \"type\": \"concept\"}, {\"name\": \"Wikipedia\", \"type\": \"organization\"}, {\"name\": \"Hard problem of consciousness\", \"type\": \"concept\"}, {\"name\": \"AAAI Publications\", \"type\": \"organization\"}, {\"name\": \"Opponent-Model Search\", \"type\": \"concept\"}, {\"name\": \"Games with Incomplete Information\", \"type\": \"concept\"}, {\"name\": \"ResearchGate\", \"type\": \"organization\"}, {\"name\": \"Game theory-based opponent modeling\", \"type\": \"concept\"}, {\"name\": \"Large imperfect-information games\", \"type\": \"concept\"}, {\"name\": \"Fiveable\", \"type\": \"organization\"}, {\"name\": \"Phase Margin\", \"type\": \"concept\"}, {\"name\": \"Control Theory\", \"type\": \"concept\"}, {\"name\": \"Engineering LibreTexts\", \"type\": \"organization\"}, {\"name\": \"System Stability\", \"type\": \"concept\"}, {\"name\": \"Introduction to Control Systems (Iqbal)\", \"type\": \"work\"}, {\"name\": \"Transfer Function Models\", \"type\": \"concept\"}, {\"name\": \"GeeksforGeeks\", \"type\": \"organization\"}, {\"name\": \"Control Systems Stability\", \"type\": \"concept\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I need to extract entities with independent meaning from this text. Let me analyze each item:\n\n1. \"Cyber Incident Response: Containment - RiskRecon, Zugriff am Mai 2, 2025, <https://blog.riskrecon.com/cyber-incident-response-containment>\"\n   - RiskRecon (organization)\n   - Cyber Incident Response (concept)\n   - Containment (concept)\n\n2. \"What are the 6 Phases in a Cyber Incident Response Plan?, Zugriff am Mai 2, 2025, <https://www.cm-alliance.com/cybersecurity-blog/what-are-the-6-phases-in-a-cyber-incident-response-plan>\"\n   - CM-Alliance (organization)\n   - Cyber Incident Response Plan (concept)\n\n3. \"NSA'S Top Ten Cybersecurity Mitigation Strategies, Zugriff am Mai 2, 2025, <https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf>\"\n   - NSA (organization)\n   - Cybersecurity Mitigation Strategies (concept)\n\n4. \"The Chinese Room Argument (Stanford Encyclopedia of Philosophy/Spring 2010 Edition), Zugriff am Mai 2, 2025, <https://plato.stanford.edu/archIves/spr2010/entries/chinese-room/>\"\n   - Stanford Encyclopedia of Philosophy (organization)\n   - Chinese Room Argument (concept)\n\n5. \"Hard problem of consciousness - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Hard_problem_of_consciousness>\"\n   - Wikipedia (organization)\n   - Hard problem of consciousness (concept)\n\n6. \"Opponent-Model Search in Games with Incomplete Information - AAAI Publications, Zugriff am Mai 2, 2025, <https://ojs.aaai.org/index.php/AAAI/article/view/28844/29606>\"\n   - AAAI Publications (organization)\n   - Opponent-Model Search (concept)\n   - Games with Incomplete Information (concept)\n\n7. \"Game theory-based opponent modeling in large imperfect-information games, Zugriff am Mai 2, 2025, <https://www.researchgate.net/publication/221454773_Game_theory-based_opponent_modeling_in_large_imperfect-information_games>\"\n   - ResearchGate (organization)\n   - Game theory-based opponent modeling (concept)\n   - Large imperfect-information games (concept)\n\n8. \"Key Concepts of Phase Margin to Know for Control Theory - Fiveable, Zugriff am Mai 2, 2025, <https://fiveable.me/lists/key-concepts-of-phase-margin>\"\n   - Fiveable (organization)\n   - Phase Margin (concept)\n   - Control Theory (concept)\n\n9. \"2.3: System Stability - Engineering LibreTexts, Zugriff am Mai 2, 2025, [https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Introduction_to_Control_Systems_(Iqbal)/02%3A_Transfer_Function_Models/2.03%3A_System_Stability](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Introduction_to_Control_Systems_%28Iqbal%29/02%3A_Transfer_Function_Models/2.03%3A_System_Stability)\"\n   - Engineering LibreTexts (organization)\n   - System Stability (concept)\n   - Introduction to Control Systems (Iqbal) (book/work)\n   - Transfer Function Models (concept)\n\n10. \"Control Systems – Stability | GeeksforGeeks, Zugriff am Mai 2, 2025, <https://www.geeksforgeeks.org/control-systems-stability/>\"\n    - GeeksforGeeks (organization)\n    - Control Systems Stability (concept)\n\nI'll focus on extracting key entities from the text, identifying organizations, concepts, and specific works. The goal is to capture the core elements that provide meaningful context to the information presented.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 731,
+   "completion_tokens": 1073,
+   "total_tokens": 1804,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 842,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

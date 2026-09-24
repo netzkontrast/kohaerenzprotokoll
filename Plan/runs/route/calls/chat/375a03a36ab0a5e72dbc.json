@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.6,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing\"\n}",
+ "response": {
+  "id": "gen-1790275974-UC6zJu1DylyTUOq7Mzeg",
+  "object": "chat.completion",
+  "created": 1790275974,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have same name, type, description. Need to combine information. For description conflict, pick more detailed or recent-looking value. Both descriptions are different. Which is more detailed? Item A: \"Character experiencing system-wide changes after core confrontation\". Item B: \"Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing\". Item B seems more detailed, includes more specifics. So we should keep B's description (or combine? The instruction: If fields conflict, use best judgment to pick more detailed or recent-looking value. So we pick B's description.\n\nThus merged object: name \"Kael\", type \"person\", description from B.\n\nReturn JSON exactly as input items format (i.e., same keys order? Probably preserve order as in A? But we can keep same order: name, type, description. Use B's description.\n\nThus output:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing\"\n}\n\nThat's it.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have same name, type, description. Need to combine information. For description conflict, pick more detailed or recent-looking value. Both descriptions are different. Which is more detailed? Item A: \"Character experiencing system-wide changes after core confrontation\". Item B: \"Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing\". Item B seems more detailed, includes more specifics. So we should keep B's description (or combine? The instruction: If fields conflict, use best judgment to pick more detailed or recent-looking value. So we pick B's description.\n\nThus merged object: name \"Kael\", type \"person\", description from B.\n\nReturn JSON exactly as input items format (i.e., same keys order? Probably preserve order as in A? But we can keep same order: name, type, description. Use B's description.\n\nThus output:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"person\",\n  \"description\": \"Character who observes new phenomena in the unstable environment after AEGIS's fall and experiences creative flourishing\"\n}\n\nThat's it.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 204,
+   "completion_tokens": 272,
+   "total_tokens": 476,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 291,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

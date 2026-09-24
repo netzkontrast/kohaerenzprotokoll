@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 6.2,
+ "content": "{\n  \"name\": \"Teil 3\",\n  \"type\": \"concept\",\n  \"description\": null\n}",
+ "response": {
+  "id": "gen-1790275950-3br5T2U2N5d33mCYMgJM",
+  "object": "chat.completion",
+  "created": 1790275950,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Teil 3\",\n  \"type\": \"concept\",\n  \"description\": null\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name \"Teil 3\", type \"event\", description null. Item B: name \"Teil 3\", type \"concept\", description null.\n\nWe need to combine info. Fields conflict: type differs. Use best judgment to pick more detailed or recent-looking value. Both are simple. Which is more detailed? Both are single words. Could consider \"concept\" vs \"event\". Hard to decide. Maybe pick \"concept\" as it's more generic? Or \"event\"? Could consider that \"type\" maybe should be \"event\" if existing? But we need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are equally detailed. Could consider that \"concept\" might be more recent? Not sure. Could also consider that \"type\" maybe should be \"event\" if existing? But we have no other context. Could also combine? But type is a single value, not list. So we must pick one. I'd choose \"concept\" as it's more generic? Or \"event\"? I'd lean to \"concept\" because it's more recent? Actually no clue. Could also consider that \"type\" maybe should be \"event\" because it's existing? But the instruction says use best judgment to pick more detailed or recent-looking. Both equal. Could maybe keep both? But format expects a single value. Could maybe keep \"event\" because it's existing? But merging incoming might update. Usually incoming overrides. So I'd pick \"concept\" as incoming overrides. So final merged object: name \"Teil 3\", type \"concept\", description null.\n\nThus output JSON exactly as input format (no extra fields). So:\n\n{\n  \"name\": \"Teil 3\",\n  \"type\": \"concept\",\n  \"description\": null\n}\n\nReturn that.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name \"Teil 3\", type \"event\", description null. Item B: name \"Teil 3\", type \"concept\", description null.\n\nWe need to combine info. Fields conflict: type differs. Use best judgment to pick more detailed or recent-looking value. Both are simple. Which is more detailed? Both are single words. Could consider \"concept\" vs \"event\". Hard to decide. Maybe pick \"concept\" as it's more generic? Or \"event\"? Could consider that \"type\" maybe should be \"event\" if existing? But we need to pick one. The instruction: \"If fields conflict, use your best judgment to pick the more detailed or recent-looking value.\" Both are equally detailed. Could consider that \"concept\" might be more recent? Not sure. Could also consider that \"type\" maybe should be \"event\" if existing? But we have no other context. Could also combine? But type is a single value, not list. So we must pick one. I'd choose \"concept\" as it's more generic? Or \"event\"? I'd lean to \"concept\" because it's more recent? Actually no clue. Could also consider that \"type\" maybe should be \"event\" because it's existing? But the instruction says use best judgment to pick more detailed or recent-looking. Both equal. Could maybe keep both? But format expects a single value. Could maybe keep \"event\" because it's existing? But merging incoming might update. Usually incoming overrides. So I'd pick \"concept\" as incoming overrides. So final merged object: name \"Teil 3\", type \"concept\", description null.\n\nThus output JSON exactly as input format (no extra fields). So:\n\n{\n  \"name\": \"Teil 3\",\n  \"type\": \"concept\",\n  \"description\": null\n}\n\nReturn that.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 180,
+   "completion_tokens": 403,
+   "total_tokens": 583,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 419,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

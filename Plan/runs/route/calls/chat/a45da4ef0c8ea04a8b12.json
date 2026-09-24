@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 2.5,
+ "content": "{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"The collective group of guardian entities being discussed in the subplot\"\n}",
+ "response": {
+  "id": "gen-1790275944-culPAYIGYEPccyeSdXVv",
+  "object": "chat.completion",
+  "created": 1790275944,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"The collective group of guardian entities being discussed in the subplot\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Both have same name, type, description. The description differs. According to strategy: combine information, if fields conflict, pick more detailed or recent-looking value. Both descriptions are similar but different phrasing. Which is more detailed? Both are similar length. Could combine? But description is a single string field, not a list. Should we pick one? Probably choose the more detailed or recent-looking. Both are similar. Could pick the one from incoming? Or maybe combine? But cannot invent new info. Could maybe keep both? But field is a string, cannot combine. So we need to pick one. Which is more detailed? The incoming description: \"The collective group of guardian entities being discussed in the subplot\". The existing: \"Another organization or group mentioned in the surveillance system context\". Both are similar. Could pick the incoming as more recent. So final JSON will have name, type, description from incoming. Or maybe we could combine by picking the longer? Both same length. Could pick the incoming. So final JSON:\n\n{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"The collective group of guardian entities being discussed in the subplot\"\n}\n\nReturn exactly that.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Both have same name, type, description. The description differs. According to strategy: combine information, if fields conflict, pick more detailed or recent-looking value. Both descriptions are similar but different phrasing. Which is more detailed? Both are similar length. Could combine? But description is a single string field, not a list. Should we pick one? Probably choose the more detailed or recent-looking. Both are similar. Could pick the one from incoming? Or maybe combine? But cannot invent new info. Could maybe keep both? But field is a string, cannot combine. So we need to pick one. Which is more detailed? The incoming description: \"The collective group of guardian entities being discussed in the subplot\". The existing: \"Another organization or group mentioned in the surveillance system context\". Both are similar. Could pick the incoming as more recent. So final JSON will have name, type, description from incoming. Or maybe we could combine by picking the longer? Both same length. Could pick the incoming. So final JSON:\n\n{\n  \"name\": \"Guardians\",\n  \"type\": \"organization\",\n  \"description\": \"The collective group of guardian entities being discussed in the subplot\"\n}\n\nReturn exactly that.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 199,
+   "completion_tokens": 289,
+   "total_tokens": 488,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 321,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

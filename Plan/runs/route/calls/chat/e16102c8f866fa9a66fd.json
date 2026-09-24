@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.7,
+ "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"character\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening\"\n}",
+ "response": {
+  "id": "gen-1790275927-Y3hbkcqcZg0KGqyawGRM",
+  "object": "chat.completion",
+  "created": 1790275927,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"Kael\",\n  \"type\": \"character\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening\"\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name \"Kael\", type \"person\", description null. Item B: name \"Kael\", type \"character\", description a string.\n\nMerge strategy: combine info. If fields conflict, pick more detailed or recent-looking value. For name same, keep. For type conflict: \"person\" vs \"character\". Which is more detailed? Both are simple. Could pick \"character\" maybe because it's more specific? Or maybe \"person\" is more generic. The description is present only in B, so keep that. So final merged object: name \"Kael\", type maybe \"character\"? Or could combine? Probably pick \"character\". So final JSON:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"character\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening\"\n}\n\nReturn exactly JSON format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name \"Kael\", type \"person\", description null. Item B: name \"Kael\", type \"character\", description a string.\n\nMerge strategy: combine info. If fields conflict, pick more detailed or recent-looking value. For name same, keep. For type conflict: \"person\" vs \"character\". Which is more detailed? Both are simple. Could pick \"character\" maybe because it's more specific? Or maybe \"person\" is more generic. The description is present only in B, so keep that. So final merged object: name \"Kael\", type maybe \"character\"? Or could combine? Probably pick \"character\". So final JSON:\n\n{\n  \"name\": \"Kael\",\n  \"type\": \"character\",\n  \"description\": \"An entity with internal integration between 'Alters' and potential external connections that AEGIS perceives as threatening\"\n}\n\nReturn exactly JSON format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 198,
+   "completion_tokens": 237,
+   "total_tokens": 435,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 217,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 5.2,
+ "content": "",
+ "response": {
+  "id": "gen-1790275900-AzGE4Ix950rCb674Oku5",
+  "object": "chat.completion",
+  "created": 1790275900,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text carefully and extract meaningful entities.\n\nLooking at the text, I can identify several entities:\n\n1. **AEGIS** - This appears to be a system or organization in the context\n2. **Kael** - This appears to be a character/person\n3. **System** - This appears to be referring to the same system as AEGIS, or possibly a broader system\n4. **Tor** - This appears in the subplot idea \"The Guardian at the Gate\"\n\nLet me check if there are any other entities:\n- \"Balance\" - This is a concept, not an entity with independent meaning\n- \"Equilibrium\" - This is also a concept\n- \"Conflict\" - This is a concept\n- \"Nash Equilibrium\" - This is a concept/theory\n- \"Gate\" - This could be an entity, but it's part of \"The Guardian at the Gate\" which seems like a subplot title\n\nThe entities I should extract are:\n1. AEGIS - organization/system\n2. Kael - person/character  \n3. System - system/organization\n4. Tor - location/object (from the subplot idea)\n\nLet me use the DataSchemaSet function to extract these entities.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_9kb5120jpp1q",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"AEGIS\", \"type\": \"organization\"}, {\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"System\", \"type\": \"organization\"}, {\"name\": \"Tor\", \"type\": \"location\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text carefully and extract meaningful entities.\n\nLooking at the text, I can identify several entities:\n\n1. **AEGIS** - This appears to be a system or organization in the context\n2. **Kael** - This appears to be a character/person\n3. **System** - This appears to be referring to the same system as AEGIS, or possibly a broader system\n4. **Tor** - This appears in the subplot idea \"The Guardian at the Gate\"\n\nLet me check if there are any other entities:\n- \"Balance\" - This is a concept, not an entity with independent meaning\n- \"Equilibrium\" - This is also a concept\n- \"Conflict\" - This is a concept\n- \"Nash Equilibrium\" - This is a concept/theory\n- \"Gate\" - This could be an entity, but it's part of \"The Guardian at the Gate\" which seems like a subplot title\n\nThe entities I should extract are:\n1. AEGIS - organization/system\n2. Kael - person/character  \n3. System - system/organization\n4. Tor - location/object (from the subplot idea)\n\nLet me use the DataSchemaSet function to extract these entities.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 511,
+   "completion_tokens": 305,
+   "total_tokens": 816,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 283,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -1,0 +1,61 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.7,
+ "content": "{\n  \"name\": \"LogOS\",\n  \"type\": \"organization\",\n  \"description\": null\n}",
+ "response": {
+  "id": "gen-1790275933-ZGDsfcXP7wDWeE4iv5l5",
+  "object": "chat.completion",
+  "created": 1790275933,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "complete",
+    "message": {
+     "role": "assistant",
+     "content": "{\n  \"name\": \"LogOS\",\n  \"type\": \"organization\",\n  \"description\": null\n}",
+     "refusal": null,
+     "reasoning": "We need to merge two JSON objects representing same entity. Item A: name \"LogOS\", type \"system\", description null. Item B: name \"LogOS\", type \"organization\", description null.\n\nWe need to combine info. Fields conflict: type differs. Use best judgment to pick more detailed or recent-looking value. Both are simple strings. Which is more appropriate? Possibly \"organization\" is more specific? Or maybe \"system\"? Hard to say. Could consider that \"type\" might be more likely \"organization\"? Or maybe we should keep both? But we need a single value. The instruction: If fields conflict, use best judgment to pick the more detailed or recent-looking value. Both are equally detailed. Could consider that \"organization\" is more generic? \"system\" is also generic. Could maybe pick \"organization\" because it's more likely for a name \"LogOS\"? Not sure. Could also consider that \"type\" might be \"system\" if it's a system. But both plausible. Could maybe combine? But we cannot invent new info. We need to pick one. I'd choose \"organization\" as maybe more recent? Or maybe \"system\"? The incoming item might be newer, so its type \"organization\" could be more recent. So pick \"organization\". Name same, description null both. So final JSON: name \"LogOS\", type \"organization\", description null.\n\nReturn exact JSON format.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to merge two JSON objects representing same entity. Item A: name \"LogOS\", type \"system\", description null. Item B: name \"LogOS\", type \"organization\", description null.\n\nWe need to combine info. Fields conflict: type differs. Use best judgment to pick more detailed or recent-looking value. Both are simple strings. Which is more appropriate? Possibly \"organization\" is more specific? Or maybe \"system\"? Hard to say. Could consider that \"type\" might be more likely \"organization\"? Or maybe we should keep both? But we need a single value. The instruction: If fields conflict, use best judgment to pick the more detailed or recent-looking value. Both are equally detailed. Could consider that \"organization\" is more generic? \"system\" is also generic. Could maybe pick \"organization\" because it's more likely for a name \"LogOS\"? Not sure. Could also consider that \"type\" might be \"system\" if it's a system. But both plausible. Could maybe combine? But we cannot invent new info. We need to pick one. I'd choose \"organization\" as maybe more recent? Or maybe \"system\"? The incoming item might be newer, so its type \"organization\" could be more recent. So pick \"organization\". Name same, description null both. So final JSON: name \"LogOS\", type \"organization\", description null.\n\nReturn exact JSON format.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 178,
+   "completion_tokens": 308,
+   "total_tokens": 486,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 328,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

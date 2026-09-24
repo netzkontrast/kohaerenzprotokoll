@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 10.8,
+ "content": "",
+ "response": {
+  "id": "gen-1790275905-ZnXwoK9OSVDmJ1f4MmFX",
+  "object": "chat.completion",
+  "created": 1790275905,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "I need to extract entities with independent meaning from this text. Let me analyze each line:\n\n1. \"The Void (philosophy) - Wikipedia, Zugriff am Mai 2, 2025, [https://en.wikipedia.org/wiki/The\\_Void\\_(philosophy)](https://en.wikipedia.org/wiki/The_Void_%28philosophy%29)\"\n   - The Void (philosophy) - This is an entity (philosophical concept)\n   - Wikipedia - This is an entity (website/platform)\n   - Mai 2, 2025 - This is a date, not really an entity with independent meaning\n   - URL - not an entity\n\n2. \"Simulation hypothesis - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Simulation_hypothesis>\"\n   - Simulation hypothesis - entity (philosophical concept)\n   - Wikipedia - entity\n\n3. \"The simulation argument reconsidered - Oxford Academic, Zugriff am Mai 2, 2025, <https://academic.oup.com/analysis/article-abstract/84/1/23/7331156>\"\n   - The simulation argument reconsidered - entity (philosophical concept/article)\n   - Oxford Academic - entity (publisher/platform)\n\n4. \"Structural qualia: a solution to the hard problem of consciousness - PMC - PubMed Central, Zugriff am Mai 2, 2025, <https://pmc.ncbi.nlm.nih.gov/articles/PMC3957492/>\"\n   - Structural qualia - entity (philosophical concept)\n   - hard problem of consciousness - entity (philosophical concept)\n   - PMC - PubMed Central - entity (database/platform)\n\n5. \"Philosophical zombie - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Philosophical_zombie>\"\n   - Philosophical zombie - entity (philosophical concept)\n   - Wikipedia - entity\n\n6. \"What are Philosophical Zombies? - Philosimplicity, Zugriff am Mai 2, 2025, <http://philosimplicity.com/blog/2018/03/12/p-zombies-materialism-and-qualia/>\"\n   - Philosophical Zombies - entity (philosophical concept)\n   - Philosimplicity - entity (website/blog)\n\n7. \"Gaslighting: What Is It And How Do We Fight Back? - Middle Georgia State University, Zugriff am Mai 2, 2025, <https://www.mga.edu/news/2023/04/what-is-gaslighting-and-how-to-fight-back.php>\"\n   - Gaslighting - entity (psychological concept)\n   - Middle Georgia State University - entity (educational institution)\n\n8. \"Psychological manipulation | EBSCO Research Starters, Zugriff am Mai 2, 2025, <https://www.ebsco.com/research-starters/health-and-medicine/psychological-manipulation>\"\n   - Psychological manipulation - entity (psychological concept)\n   - EBSCO Research Starters - entity (platform/database)\n\n9. \"Identifying Gaslighting: Signs, Examples, and Seeking Help - Newport Institute, Zugriff am Mai 2, 2025, <https://www.newportinstitute.com/resources/mental-health/what_is_gaslighting_abuse/>\"\n   - Gaslighting - entity (psychological concept)\n   - Newport Institute - entity (organization/educational institution)\n\n10. \"Nazi Propaganda and Censorship | Holocaust Encyclopedia, Zugriff am Mai 2, 2025, <https://encyclopedia.ushmm.org/content/en/article/nazi-propaganda-and-censorship>\"\n    - Nazi Propaganda and Censorship - entity (historical concept)\n    - Holocaust Encyclopedia - entity (reference source)\n\nI should extract the meaningful entities, focusing on the concepts, organizations, and platforms that have independent meaning. I'll skip the dates and URLs as they don't have independent meaning in this context.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_hd4x838ka1d0",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"The Void (philosophy)\", \"type\": \"concept\"}, {\"name\": \"Wikipedia\", \"type\": \"platform\"}, {\"name\": \"Simulation hypothesis\", \"type\": \"concept\"}, {\"name\": \"The simulation argument reconsidered\", \"type\": \"concept\"}, {\"name\": \"Oxford Academic\", \"type\": \"publisher\"}, {\"name\": \"Structural qualia\", \"type\": \"concept\"}, {\"name\": \"hard problem of consciousness\", \"type\": \"concept\"}, {\"name\": \"PMC - PubMed Central\", \"type\": \"database\"}, {\"name\": \"Philosophical zombie\", \"type\": \"concept\"}, {\"name\": \"Philosimplicity\", \"type\": \"website\"}, {\"name\": \"Gaslighting\", \"type\": \"concept\"}, {\"name\": \"Middle Georgia State University\", \"type\": \"educational institution\"}, {\"name\": \"Psychological manipulation\", \"type\": \"concept\"}, {\"name\": \"EBSCO Research Starters\", \"type\": \"platform\"}, {\"name\": \"Newport Institute\", \"type\": \"organization\"}, {\"name\": \"Nazi Propaganda and Censorship\", \"type\": \"concept\"}, {\"name\": \"Holocaust Encyclopedia\", \"type\": \"reference source\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I need to extract entities with independent meaning from this text. Let me analyze each line:\n\n1. \"The Void (philosophy) - Wikipedia, Zugriff am Mai 2, 2025, [https://en.wikipedia.org/wiki/The\\_Void\\_(philosophy)](https://en.wikipedia.org/wiki/The_Void_%28philosophy%29)\"\n   - The Void (philosophy) - This is an entity (philosophical concept)\n   - Wikipedia - This is an entity (website/platform)\n   - Mai 2, 2025 - This is a date, not really an entity with independent meaning\n   - URL - not an entity\n\n2. \"Simulation hypothesis - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Simulation_hypothesis>\"\n   - Simulation hypothesis - entity (philosophical concept)\n   - Wikipedia - entity\n\n3. \"The simulation argument reconsidered - Oxford Academic, Zugriff am Mai 2, 2025, <https://academic.oup.com/analysis/article-abstract/84/1/23/7331156>\"\n   - The simulation argument reconsidered - entity (philosophical concept/article)\n   - Oxford Academic - entity (publisher/platform)\n\n4. \"Structural qualia: a solution to the hard problem of consciousness - PMC - PubMed Central, Zugriff am Mai 2, 2025, <https://pmc.ncbi.nlm.nih.gov/articles/PMC3957492/>\"\n   - Structural qualia - entity (philosophical concept)\n   - hard problem of consciousness - entity (philosophical concept)\n   - PMC - PubMed Central - entity (database/platform)\n\n5. \"Philosophical zombie - Wikipedia, Zugriff am Mai 2, 2025, <https://en.wikipedia.org/wiki/Philosophical_zombie>\"\n   - Philosophical zombie - entity (philosophical concept)\n   - Wikipedia - entity\n\n6. \"What are Philosophical Zombies? - Philosimplicity, Zugriff am Mai 2, 2025, <http://philosimplicity.com/blog/2018/03/12/p-zombies-materialism-and-qualia/>\"\n   - Philosophical Zombies - entity (philosophical concept)\n   - Philosimplicity - entity (website/blog)\n\n7. \"Gaslighting: What Is It And How Do We Fight Back? - Middle Georgia State University, Zugriff am Mai 2, 2025, <https://www.mga.edu/news/2023/04/what-is-gaslighting-and-how-to-fight-back.php>\"\n   - Gaslighting - entity (psychological concept)\n   - Middle Georgia State University - entity (educational institution)\n\n8. \"Psychological manipulation | EBSCO Research Starters, Zugriff am Mai 2, 2025, <https://www.ebsco.com/research-starters/health-and-medicine/psychological-manipulation>\"\n   - Psychological manipulation - entity (psychological concept)\n   - EBSCO Research Starters - entity (platform/database)\n\n9. \"Identifying Gaslighting: Signs, Examples, and Seeking Help - Newport Institute, Zugriff am Mai 2, 2025, <https://www.newportinstitute.com/resources/mental-health/what_is_gaslighting_abuse/>\"\n   - Gaslighting - entity (psychological concept)\n   - Newport Institute - entity (organization/educational institution)\n\n10. \"Nazi Propaganda and Censorship | Holocaust Encyclopedia, Zugriff am Mai 2, 2025, <https://encyclopedia.ushmm.org/content/en/article/nazi-propaganda-and-censorship>\"\n    - Nazi Propaganda and Censorship - entity (historical concept)\n    - Holocaust Encyclopedia - entity (reference source)\n\nI should extract the meaningful entities, focusing on the concepts, organizations, and platforms that have independent meaning. I'll skip the dates and URLs as they don't have independent meaning in this context.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 627,
+   "completion_tokens": 957,
+   "total_tokens": 1584,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 825,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

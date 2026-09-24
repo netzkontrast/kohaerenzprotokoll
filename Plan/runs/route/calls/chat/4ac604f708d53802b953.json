@@ -1,0 +1,72 @@
+{
+ "model": "cohere/north-mini-code:free",
+ "provider": "Cohere",
+ "seconds": 1.7,
+ "content": "",
+ "response": {
+  "id": "gen-1790275864-xCVRXyUeC4lNPPu5MkYh",
+  "object": "chat.completion",
+  "created": 1790275864,
+  "model": "cohere/north-mini-code:free",
+  "provider": "Cohere",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "tool_calls",
+    "native_finish_reason": "tool_call",
+    "message": {
+     "role": "assistant",
+     "content": null,
+     "refusal": null,
+     "reasoning": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text carefully:\n\nThe text is about a subplot idea where Kael is testing AEGIS' reactions. Let me identify meaningful entities:\n\n1. \"Kael\" - This appears to be a character name, likely a person\n2. \"AEGIS\" - This appears to be a system name, likely an organization or system\n3. \"System\" - This refers to AEGIS system\n4. \"positive feedback loop\" - This is a concept/technical term\n5. \"stability thresholds\" - This is a technical concept\n6. \"control logic\" - This is a technical concept\n\nLet me be more careful about what constitutes an \"entity with independent meaning\":\n\n1. \"Kael\" - Person entity ✓\n2. \"AEGIS\" - Organization/System entity ✓\n3. \"positive feedback loop\" - This is more of a concept/phrase, not really an entity with independent meaning\n4. \"stability thresholds\" - This is a technical concept, not really an entity\n5. \"control logic\" - This is a technical concept, not really an entity\n\nThe text also mentions:\n- \"system\" (referring to AEGIS)\n- \"reactions\" (but this is generic)\n- \"parameters\" (generic)\n- \"sensitivity\" (generic)\n\nI think the main entities are:\n1. Kael (person)\n2. AEGIS (organization/system)\n\nLet me double-check if there are any other meaningful entities:\n- \"system\" could be considered an entity, but it's too generic\n- \"feedback\" is too generic\n- \"thresholds\" is too generic\n- \"logic\" is too generic\n\nSo I think the main entities are Kael and AEGIS.",
+     "tool_calls": [
+      {
+       "type": "function",
+       "index": 0,
+       "id": "DataSchemaSet_78e0ew6aajpv",
+       "function": {
+        "name": "DataSchemaSet",
+        "arguments": "{\"items\": [{\"name\": \"Kael\", \"type\": \"person\"}, {\"name\": \"AEGIS\", \"type\": \"organization\"}]}"
+       }
+      }
+     ],
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify all entities with independent meaning from the given text. Let me analyze the text carefully:\n\nThe text is about a subplot idea where Kael is testing AEGIS' reactions. Let me identify meaningful entities:\n\n1. \"Kael\" - This appears to be a character name, likely a person\n2. \"AEGIS\" - This appears to be a system name, likely an organization or system\n3. \"System\" - This refers to AEGIS system\n4. \"positive feedback loop\" - This is a concept/technical term\n5. \"stability thresholds\" - This is a technical concept\n6. \"control logic\" - This is a technical concept\n\nLet me be more careful about what constitutes an \"entity with independent meaning\":\n\n1. \"Kael\" - Person entity ✓\n2. \"AEGIS\" - Organization/System entity ✓\n3. \"positive feedback loop\" - This is more of a concept/phrase, not really an entity with independent meaning\n4. \"stability thresholds\" - This is a technical concept, not really an entity\n5. \"control logic\" - This is a technical concept, not really an entity\n\nThe text also mentions:\n- \"system\" (referring to AEGIS)\n- \"reactions\" (but this is generic)\n- \"parameters\" (generic)\n- \"sensitivity\" (generic)\n\nI think the main entities are:\n1. Kael (person)\n2. AEGIS (organization/system)\n\nLet me double-check if there are any other meaningful entities:\n- \"system\" could be considered an entity, but it's too generic\n- \"feedback\" is too generic\n- \"thresholds\" is too generic\n- \"logic\" is too generic\n\nSo I think the main entities are Kael and AEGIS.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 508,
+   "completion_tokens": 396,
+   "total_tokens": 904,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 384,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}
