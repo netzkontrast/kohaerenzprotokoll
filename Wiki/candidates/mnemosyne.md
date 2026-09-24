@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -124,3 +124,11 @@ This is the first source that makes her the Erinnerungs-Wächterin by title
 
 One of the two [[guardians|Guardians]] it keeps (L13). Her world is the Vortex-1 setting:
 „Setting: Mnemosyne-Server-Architektur (KW2)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L232].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+„Mnemosyne dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L49]
+Her temptation is placed: „Ihre Versuchung („den Schmerz löschen") ist in KW2 lokal
+verankert." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L205] In KW3: „Mnemosyne fehlt hier weitgehend." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L390] And the
+only Guardian allowed on stage: „Keine Guardians als Figuren** außer Mnemosyne"
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L914].
