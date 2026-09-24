@@ -99,16 +99,14 @@ def score_one(gold: dict, predicted: str):
 
 def blocked() -> list[dict]:
     """Tasks that cannot be trained yet, with the reason stated rather than implied."""
-    runs = ROOT / "Plan" / "runs"
-    lists = list(runs.glob("*/03-candidates.md"))
-    reconstructions = [p for p in lists
-                       if "reconstruct" in p.read_text(encoding="utf-8")[:300].lower()]
+    from gold import verdicts
+    lists = verdicts()
     return [
         {"task": "extract candidate terms from a document",
-         "examples": len(lists), "usable": len(lists) - len(reconstructions),
-         "why": "every candidate list so far is a reconstruction written after the "
-                "counts, not while reading. capture.py refuses to count before a list "
-                "exists, so document 5 onward can produce real ones — these cannot."},
+         "examples": len(lists), "usable": sum(v["gold"] for v in lists),
+         "why": "a list is usable only when scripts/gold.py rules it gold: written while "
+                "reading, counted, unchanged since the count, and of the document "
+                "(decision 009). The first four documents' lists are reconstructions."},
         {"task": "is this a conflict",
          "examples": len(list((ROOT / "Wiki" / "conflicts").glob("*.md"))) + 1,
          "usable": 0,

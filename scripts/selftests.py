@@ -43,6 +43,7 @@ SUITES = [
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
     ("ui app", "std", ["scripts/ui.py", "selftest"]),
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
+    ("gold lists", "std", ["scripts/gold.py", "selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
     ("route: price, consent, record", "typesafe", ["scripts/route.py", "selftest"]),
     ("templates: checks fail", "he", ["scripts/templates.py", "selftest"]),

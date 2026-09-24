@@ -385,10 +385,11 @@ def cmd_score(slug: str, names: str | None = None) -> int:
     if not gold_path.exists():
         print(f"no reader's list for {slug}")
         return 1
-    gold_text = gold_path.read_text(encoding="utf-8")
-    if "Reconstructed" in gold_text.split("\n## ")[0]:
-        print(f"{slug}'s list is a reconstruction and cannot serve as gold")
+    from gold import refusal
+    if refused_as_gold := refusal(slug):
+        print(refused_as_gold)
         return 1
+    gold_text = gold_path.read_text(encoding="utf-8")
     gold = {fold(l[2:].split("^[")[0]): l[2:].split("^[")[0].strip()
             for l in gold_text.splitlines() if l.startswith("- ")}
     refused: list[str] = []

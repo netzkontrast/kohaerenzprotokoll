@@ -130,6 +130,9 @@ questions, the templates page's four and the three-encodings question below were
 **answered by the session on the author's delegation** — decision 008, each
 reversible by the author. The two replaced the question's examples because only they
 have a genuine reader's `03-candidates.md`; the decision file says why.
+Decision 009 has since ruled the session's lists for documents 7 to 13 gold as
+well. Decision 007's consent, as decision 008 extended it, still names only
+documents 5 and 6.
 
 **Three encodings of one rule.** „No corpus text leaves without the author's
 decision" is held by `lmrun.py` (`approval=`), by `rlm_ingest.py` (`--approval`,
@@ -339,6 +342,14 @@ model:
 - **The path check covers one skill.** Extending it to every skill needs a
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
+- **Gold is decided by rule, and the rule rests on one untested assumption.**
+  `scripts/gold.py` (decision 009) rules 9 <!--state:trainset.gold_candidate_lists-->
+  candidate lists gold. On 2026-09-24, seven of them were written by the session
+  that read the document, and none of those seven has a second reading. The
+  assumption is that a session's reading disagrees with another reading no more
+  than two readings did before (F1 0.66, P27). One second, independent reading
+  of a document from 7 to 13 would test it. Only the lists of documents 5 and 6
+  have been scored against, by the tool review (best F1 0.16).
 
 ## Half-done — the entity lists
 

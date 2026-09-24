@@ -9,7 +9,7 @@ is read by something later, which is why the shape matters.
 |---|---|---|
 | `01-profile.txt` | `capture.py <slug>` | structural facts, deterministic |
 | `02-probes.txt` | `capture.py <slug>` | export damage and surface families |
-| `03-candidates.md` | **a person, while reading** | the gold list |
+| `03-candidates.md` | **a reader — a person or the session — while reading** | the gold list, when `scripts/gold.py` rules it so |
 | `04-counts.txt`, `counts.json` | `capture.py --count` | two numbers per term, plus surfaces |
 | `reconcile-pre.json` | `reconcile.py <slug>` | lookup versus judgement |
 | `reconcile.json` | a person | what the run left |
