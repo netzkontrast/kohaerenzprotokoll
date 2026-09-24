@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -33,3 +33,7 @@ Its roster row gives category `ANP`, function `Caregiver` and arc `→ Akzeptanz
 Roster row: „Rhys (Caregiver)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L374], correlate „Maxwellscher Dämon" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L375], somatics „Schweiß, fiebrige Hände" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L376], arc „→ Akzeptanz (Anker Akt I → Kudzu Akt II)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L377].
 
 From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 entstanden:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439] lists it.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „Caregiver" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L213], correlate „Maxwellscher Dämon" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L214], somatics „Schweiß, fiebrige Hände" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L215], arc „→ Akzeptanz" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L216].
