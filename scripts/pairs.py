@@ -111,8 +111,7 @@ def rows() -> list[dict]:
 
 def model_rows() -> list[dict]:
     """A canary may exist in the ledger; it still cannot train the model."""
-    held_out = {tuple(sorted(pair)) for pair in canaries()}
-    return [r for r in rows() if tuple(sorted((r["first"], r["second"]))) not in held_out]
+    return without_canaries(rows())
 
 
 def is_hard_negative(row: dict) -> bool:
@@ -130,9 +129,7 @@ def labeled_demos(training: list[dict], k: int = 8) -> list[dict]:
     similarity orders those examples, never guesses their label. Canaries have
     already been removed by model_rows().
     """
-    held_out = {tuple(sorted(pair)) for pair in canaries()}
-    training = [r for r in training
-                if tuple(sorted((r["first"], r["second"]))) not in held_out]
+    training = without_canaries(training)
     hard = [r for r in training if is_hard_negative(r)]
     hard.sort(key=lambda r: (-SequenceMatcher(None, fold(r["first"]),
                                                   fold(r["second"])).ratio(), r["id"]))
@@ -156,6 +153,12 @@ def canaries() -> list[tuple[str, str]]:
 def pair_key(row: dict) -> tuple[str, str]:
     """The two surfaces are unordered; fold() ignores their spelling variants."""
     return tuple(sorted((fold(row["first"]), fold(row["second"]))))
+
+
+def without_canaries(labelled: list[dict]) -> list[dict]:
+    """Exclude every spelling of a never-merge pair before model training."""
+    held_out = {pair_key({"first": a, "second": b}) for a, b in canaries()}
+    return [r for r in labelled if pair_key(r) not in held_out]
 
 
 def folds(labelled: list[dict], k: int) -> list[list[dict]]:
@@ -242,9 +245,13 @@ def selftest() -> tuple[list[str], int]:
         if pair not in merged_canaries(rule):
             failures.append(f"{why}: the veto did not fire on {pair}")
     labelled = model_rows()
-    if any(tuple(sorted((r["first"], r["second"]))) in
-           {tuple(sorted(pair)) for pair in canaries()} for r in labelled):
+    if any(pair_key(r) in {pair_key({"first": a, "second": b}) for a, b in canaries()}
+           for r in labelled):
         failures.append("a canary reached the model trainset")
+    variant = {"id": "canary-variant", "first": "die Negentropie",
+               "second": "ENTROPIE", "decision": "two-terms", "features": []}
+    if without_canaries([variant]) or labeled_demos([variant], k=1):
+        failures.append("a spelling variant of a canary reached training or demos")
     for held in folds(labelled, 5):
         training = [r for r in labelled if r["id"] not in {h["id"] for h in held}]
         if {pair_key(r) for r in held} & {pair_key(r) for r in training}:
@@ -270,7 +277,7 @@ def selftest() -> tuple[list[str], int]:
             failures.append(f"unexpected conflict error: {exc}")
     else:
         failures.append("contradictory judgements reached model folds")
-    return failures, len(merges) + 1 + len(too_far) + 6
+    return failures, len(merges) + 1 + len(too_far) + 7
 
 
 # --- the model half: imported only when a model is asked for ---------------------
@@ -393,7 +400,8 @@ def run(name: str, model: str | None, approval: str | None, k: int, repeats: int
 
     entry = baseline.row(TASK, f"{'dry-run:' if dry_run else ''}rule:{rule}+{name}:{model or 'fixture'}",
                          outcomes, program=[inspect.getsource(first), inspect.getsource(fold),
-                                            inspect.getsource(pair_key), inspect.getsource(folds),
+                                            inspect.getsource(pair_key), inspect.getsource(without_canaries),
+                                            inspect.getsource(folds),
                                             *([inspect.getsource(is_hard_negative),
                                                inspect.getsource(labeled_demos)]
                                               if name == "labeled" else []), compiled_states],
