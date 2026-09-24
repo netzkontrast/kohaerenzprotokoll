@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -37,3 +37,8 @@ Roster row: „Moros (Kollaps)" ^[koharenz-protokoll-konzept-konsolidiert-2026-0
 From the first trauma layer: „Aus Schicht 1 entstanden: Kiko, Lia, Isabelle, Moros." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L436]
 
 Its Riss type: „Gravitational" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L564], „Gewicht, Sinken, Kompression" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L565].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Two proposed places, both labelled: „als mögliche Moros-Begegnung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L274] (`[V]`,
+KW2) and „als mögliche Moros-Anschluss-Stelle" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L375] (`[S]`, KW3).
