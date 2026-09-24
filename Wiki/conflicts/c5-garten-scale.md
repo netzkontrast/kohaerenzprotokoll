@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 6
+sources: 7
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -114,3 +114,8 @@ kanonische Namen: „Möglichkeits-Garten", „Resonanz-Kontinuum"." ^[kohaerenz
 place in KW4, marked `[K]`: „Der Möglichkeits-Garten", „überwucherte
 Ruinenarchitektur; Funktionale Multiplizität als Erlebnis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L461]. The second
 source, after the konsolidiertes Konzept, to hold the world and the place at once.
+
+## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+The world side: „KW4 — Resonanz-Kontinuum / Kairos-Potentialis /
+Möglichkeits-Garten." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L413] No place of that name inside KW4.
