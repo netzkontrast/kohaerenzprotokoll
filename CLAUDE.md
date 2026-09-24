@@ -518,6 +518,22 @@ The route chosen for them is **A, real Jev**. Both keys are present in the
 environment's settings as of 2026-09-23, never in chat or a file here. Every call still
 needs the author's yes before corpus text is sent (see above).
 
+**Four more vendored folders are Notion skills**: `knowledge-capture`,
+`meeting-intelligence`, `research-documentation` and `spec-to-implementation`,
+copied unchanged (plus its `LICENSE`, MIT) from `netzkontrast/notion-skills`
+commit `e1bab42f8337b93b833eb01d9edcde067125690f`, path
+`plugins/notion-skills/skills/`. They are vendored rather than installed as a
+plugin because that repository's `.claude-plugin/marketplace.json` fails
+`claude plugin validate` — its `skills` field lists bare names where paths are
+expected — so a settings-registered plugin would not load.
+
+Their `NOTION_API_TOKEN` configuration does not apply here: Notion is reached
+through the claude.ai Notion connector (`mcp__Notion__*`), which carries its own
+auth, and no token is written to a file. Notion is outside the two layers: no
+script reads it, and nothing in `Wiki/` or `Sources/` may cite a Notion page.
+Anything sent there is corpus text leaving the repository, so the same rule as
+Jev applies — the author's yes first.
+
 Two packages make a `SKILL.md` written here reachable from DSPy rather than only
 from a person, and they do different halves of it:
 
