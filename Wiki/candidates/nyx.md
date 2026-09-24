@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -47,3 +47,7 @@ spurlos" ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]. Conflict C10.
 
 KW3 is theirs with [[alex|Alex]]: „Hier dominieren die **EP-Protektoren** (Alex, Nyx) und die
 **Erasure-Pol-Logik**" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L301].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „Fight" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L225], correlate „CPT-Verletzung" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L226], somatics „Adrenalin, Tunnelblick" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L227], arc „→ konstruktiver Schutz" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L228].
