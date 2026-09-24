@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -40,3 +40,7 @@ From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 ents
 
 „Hier dominieren die **EP-Protektoren** (Alex, Nyx) und die **Erasure-Pol-Logik**"
 ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L301] — KW3.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „Protector" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L207], correlate „Asymptotische Freiheit" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L208], somatics „Hypertonus, Bruxismus" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L209], arc „→ Wachstum" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L210].
