@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -40,3 +40,7 @@ From the second trauma layer, the Fragmentierungsnacht — „Aus Schicht 2 ents
 
 KW1's somatic default carries him: „Lex' Hypoventilation als unterschwelliger
 Default" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L126].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „Rationalist" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L201], correlate „Gödel + Halteproblem" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L202], somatics „Hypoventilation, Kälte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L203], arc „→ Intuition" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L204].
