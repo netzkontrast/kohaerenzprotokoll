@@ -69,7 +69,11 @@ change before a model run can learn them, and it is not a model either.
   `fold()` has always missed in.
 - **A stemmer.** It merges `Negentropie` with `Entropie`, which is why `fold()`
   is not one. This rule never removes anything from the shorter surface.
-- **Umlaut plurals** (`Stadt`/`Städte`). No instance in the ledger (P4).
+- **A rule of its own for umlaut plurals.** None is needed as far as the rule
+  reaches: `fold()` strips diacritics, so `Mutter`/`Mütter` already fold
+  together, and `Satz`/`Sätze` differ only by `-e` after folding —
+  `Gödel-Satz`/`Gödel-Sätze` is one of the 28 above. (This line first said umlaut
+  plurals were left out; the candidate lists showed the rule taking one.)
 - **Putting the rule into `fold()` now.** That changes what every reconciliation
   merges by lookup, and the author named `fold()`'s morphology as the question.
   The ledger row is the evidence that question now has, not its answer.

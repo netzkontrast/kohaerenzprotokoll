@@ -220,8 +220,9 @@ German compounds that nothing has tested. The fixture is nearly free: every
 `Wiki/questions/` page and conflict record already says „a search finds this in
 `<slug>`". Plan: `Plan/concept/skills_2026-09-17.md`.
 
-**The plural rule exists, and `fold()` has not adopted it.** `fold()` strips
-the German definite article and does nothing else, and every pair it misses is one a person called one term. Decision 010, taken on the
+**The plural rule exists, and `fold()` has not adopted it.** `fold()` removes
+the article, case, diacritics and punctuation and nothing morphological, and
+every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
 `pairs.RULES["plural"]` decides 44 <!--state:pairs.plural_correct--> of
 63 <!--state:pairs.labelled--> pairs where `fold()` decides
