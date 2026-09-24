@@ -234,3 +234,9 @@ The world table says where each went: [[logos|LogOS]] „in Mnemosyne absorbiert
 **This explains C6 in a source's own words, and does not settle it.** Two
 canon-era documents now say two; this one calls the five „Frühere Drafts". Whether
 that retires the earlier readings on this page is the author's call — see `C6`.
+
+## Decided by the author, 2026-09-24 — five
+
+**Five Guardians: LogOS, Mnemosyne, Cerberus, Kairos, Sophia** (conflict `C6`).
+The readings above stay as their documents wrote them. How the five relate to the
+four Kern-Welten, and what the Erasure-Pol is, are open in `q5-guardians-and-kern-welten`.
