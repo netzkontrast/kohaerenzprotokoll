@@ -1,0 +1,495 @@
+{
+  "document": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+  "drive_id": "1yzp2ak--2ifktNL2ShyD1p0AWDy--JKTrFPKi_V8cAM",
+  "step": "reconcile",
+  "at": "2026-09-24",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 85,
+    "conflicts": 12
+  },
+  "state_after": {
+    "pages": 92,
+    "conflicts": 12
+  },
+  "pre_classification": {
+    "candidates": 326,
+    "decisions": 338,
+    "decided_by_lookup": 274,
+    "needs_judgement": 64
+  },
+  "new_terms": [
+    "dkt",
+    "kohaerenz-kernel",
+    "kollaps-kernel",
+    "atemporalitaet",
+    "drei-ontologische-schichten",
+    "hitze-polaritaetsregel",
+    "genesis"
+  ],
+  "new_terms_rule": "two rules, both from the document. (1) Its §1, „Physik und Ontologie (DKT)“, is the physics the storyform document said lived elsewhere and whose pages that reconciliation withheld: a [K] entry there that defines a project construct gets a page — DKT, Kohärenz-Kernel, Kollaps-Kernel, Atemporalität, Drei ontologische Schichten. Borrowed theory in the novel's sense (Landauer, Bekenstein, PAL, Chaitin) does not (J11). (2) A [K] entry whose subject is an open conflict record gets a page — Hitze-Polaritätsregel (C11), Genesis-4-Beat-Sequenz as `genesis` (C12) — and gathers every earlier source's version.",
+  "not_promoted_rule": "about 250 new terms by lookup; seven became pages. The rest: [K] entries in §3–§16 that restate what pages already hold (Identitäts-Architektur, TSDP/ANP/EP/ISH, Spiegel-Alter, Drei Protokolle, Witness-Funktion), Dramatica vocabulary (§8), craft and workflow (§10, §13–§16), philosophical anchors (§15), and names the document marks open (Wir-AEGIS, OQ-A).",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        299,
+        472,
+        729
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alex",
+      "lines": [
+        207,
+        208,
+        209,
+        210
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        347
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        162,
+        165,
+        168,
+        184
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "argus",
+      "lines": [
+        255,
+        256,
+        257,
+        258
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        306
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        40
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "did",
+      "lines": [
+        162
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        37
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "erason",
+      "lines": [
+        43
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        419
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        302,
+        810,
+        814
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        243,
+        244,
+        245,
+        246
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        75,
+        147,
+        155,
+        363,
+        370,
+        611,
+        808
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kael",
+      "lines": [
+        195,
+        196,
+        197,
+        198,
+        638
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        306
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        401,
+        404,
+        410,
+        413,
+        809
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        231,
+        232,
+        233,
+        234
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        52,
+        404
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        52,
+        428,
+        429
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lex",
+      "lines": [
+        201,
+        202,
+        203,
+        204
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        237,
+        238,
+        239,
+        240
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        306
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne-server-architektur",
+      "lines": [
+        595
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        598,
+        810
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        413
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        384
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moros",
+      "lines": [
+        249,
+        250,
+        251,
+        252
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        280
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        410
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        73
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        225,
+        226,
+        227,
+        228
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        267,
+        268,
+        269,
+        270,
+        277
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "persistenzgleichung",
+      "lines": [
+        55
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        146
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        213,
+        214,
+        215,
+        216
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        422
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "selene",
+      "lines": [
+        171,
+        219,
+        220,
+        221,
+        222
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        261,
+        262,
+        263,
+        264,
+        276
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        373
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        148
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        416
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "verschraenkungs-insel",
+      "lines": [
+        416
+      ],
+      "attribution": "premise",
+      "note": ""
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "Q2": "„12 Protokolle → 3“ is AEGIS' protocols, not the postulate's eight",
+    "Q4": "Wächter does not occur"
+  },
+  "judgements": [
+    "J68"
+  ],
+  "decided_by_existing_rules": "Autonomous Entropic Gatekeeper for Integrity Systems by J60; Zwei Guardians by J21 (a leading count does not split a term); Wir-AEGIS, Mosaik-AEGIS by J47; Kohärenz-Kernel, Kohärenzprotokoll, Plurale Kohärenz, Kohärenztheorie against Kohärenz by J57; Coheronen, Erasonen by the plural rule (J56); Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis by J49; Überwelt-Nexus by J63; Juna-* and AEGIS-* compounds by J16/J28.",
+  "attached_from_earlier_runs": {
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+      "dkt",
+      "genesis"
+    ],
+    "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+      "hitze-polaritaetsregel"
+    ],
+    "kohaerenz-protokoll-charakter-bibel-2026-05-08-md": [
+      "genesis"
+    ],
+    "kapitel-kompendium-gather-2026-05-31-md": [
+      "genesis"
+    ],
+    "dramatica-dual-storyform-status-2026-05-07-md": [
+      "genesis"
+    ]
+  },
+  "found_by_rule_not_by_census": [
+    "landauer-signatur",
+    "nexus",
+    "entropie"
+  ],
+  "baseline_moved": false
+}
