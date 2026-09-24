@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-16"
 ---
 
@@ -218,3 +218,10 @@ side.
 „Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht."
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1385] In Kap 39: „Junas Stimme erscheint als Teil des Geflechts oder als Raum,
 in dem das Geflecht klingt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1208]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- time principle and external anchor: „Juna als Zeit-Prinzip“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L52]
+- resonance as world birth: „Junas Resonanz brachte die Zeit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L56]
+- hologram or echo in chapter 3: „als Hologramm/Echo, das verschwindet“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
+- first direct appearance in chapter 38: „Junas erste direkte Erscheinung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]
