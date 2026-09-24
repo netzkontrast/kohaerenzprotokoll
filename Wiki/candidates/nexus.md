@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -86,3 +86,8 @@ Only in a compound, as KW3's second name — „Cerberus-Labyrinth / Überwelt-N
 **A place between two levels**: „Übergangsort zwischen KW4 und Externer Ebene; reine
 Information als Aufenthaltsraum" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L462], labelled `[K]`. The Überwelt has an
 „AEGIS-Kern-Nexus" (L588, `[S]`) — a compound, two terms (J63's rule).
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+Only as KW3's second name: „KW3 — Cerberus-Labyrinth / Überwelt-Nexus." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L410]
+(J63)
