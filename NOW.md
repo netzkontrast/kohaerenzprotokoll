@@ -385,10 +385,11 @@ source's was corrected; that check is not a standing one, because the nine
 clones it reads are not in a fresh container. Open, none of it needing a
 model:
 
-- **`rlm_ingest.py` has no offline run of its RLM loop.** Its selftest covers
-  the tools and the reach. `dspy[deno]` now installs the sandbox, and
-  `check_dspy_skill.py`'s `rlm-runs-offline` probe is the shape one would take
-  (P5).
+- **`rlm_ingest.py` has an offline RLM loop check.** `--loop-selftest` drives
+  the real DSPy action and extract loop through a scripted interpreter and
+  fixture LM, verifying submission and forced output without network or corpus.
+  It does not exercise the Deno sandbox; `check_dspy_skill.py`'s
+  `rlm-runs-offline` probe covers that only when its runtime cache is present.
 - **Folds move as the ledger grows.** `folds()` deals round-robin over hash
   order, and one appended judgement moved 15 of 57 rows to another fold
   (measured). Whether a stable assignment is worth less balanced folds is open.
