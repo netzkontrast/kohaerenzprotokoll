@@ -25,3 +25,12 @@ pages: ["konstrukt-stadt", "kern-welten"]
 
 Source 2 stands alone. Its own table never pairs Konstrukt-Stadt with KW1; it
 names KW1 only „Logos-Prime" (L51).
+
+## 2026-09-24 — the author: every draft is back in question
+
+„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+sources wird die neue Ausgangslage." (decision 006)
+
+No position above is retired by its date or by a source's claim to be canon.
+This record is now an **item for discussion** with the author; it closes when the
+author decides it, and the decision will be written here with its date.
