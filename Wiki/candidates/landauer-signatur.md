@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-24"
 ---
 
@@ -60,3 +60,12 @@ And the thermal Riss from KW1 to KW2: „Landauer-Wärme spürbar" ^[kohaerenz-p
 diese Wärme ist das *Substrat des Übergangs*." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L706] Kap 6 names no Landauer
 trace (L832). Document 7's lock, applied — with the Landauer warmth kept for the
 transition. Conflict C11.
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Heat at Beat 4, and the polarity before the lock.** Vortex 1, Beat 4: „Heat-Spike**
+(Landauer→∞)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L278], „B's verzögerter Action-Stroke wird sichtbar als
+Wärme-Phänomen — Landauer-Hitze als somatischer Filter." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L295] — the one warmth
+document 7's lock keeps. And a bridge-scene cue: „Kaels warme Kontemplation kippt
+für einen Atemzug in AEGIS-Kühle und zurück" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L344] — warm for Kael, cool for
+[[aegis|AEGIS]], three weeks before the 2026-05-30 lock. Conflict C11.
