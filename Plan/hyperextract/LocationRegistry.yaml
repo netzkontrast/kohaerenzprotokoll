@@ -1,0 +1,58 @@
+# LocationRegistry — the named places one document tabulates or profiles.
+#
+# provisional — first design, 2026-09-24; never run on the corpus
+# derived from: document 6's own master table (roman-lokalitaeten-konzept-und-ausarbeitung
+#   L185: Location Name | Reality Level | Source | Narrative Relevance/Function | Key
+#   Associated Characters). The five fields are that document's columns, not a preference.
+# applies to: a document that tabulates or profiles places, and no other
+# may not: create a page, decide which places get one (that rule came from document 6
+#   itself — CLAUDE.md, the sixth reconciliation), supply a count, or assign a level
+# retire when: the next document that tabulates places does not fit these five columns
+language: en
+name: LocationRegistry
+type: set
+tags: [gazetteer, locations, german]
+description: 'The named places one German research document tabulates or profiles, with the level, source, function and characters it gives each.'
+
+output:
+  description: 'One record per named place.'
+  fields:
+    - name: name
+      type: str
+      description: 'The place name as the document writes it.'
+      required: true
+    - name: level
+      type: str
+      description: 'The level, layer or world the document assigns the place to, as written; empty if it assigns none.'
+      required: false
+    - name: source
+      type: str
+      description: 'The provenance the document states for the place, copied as written; empty if it states none.'
+      required: false
+    - name: function
+      type: str
+      description: 'The narrative function the document states for the place, in its own words.'
+      required: false
+    - name: characters
+      type: list
+      description: 'Characters or bearers the document associates with the place, names as written.'
+      required: false
+
+guideline:
+  target: 'You read one German document that lists or profiles the places of a fictional world, and record each named place with what this document says about it.'
+  rules:
+    - 'Only places the document names; a place described without a name is not recorded.'
+    - 'Copy names, levels and sources exactly as written; never translate or normalise them.'
+    - 'A place that appears only as a comparison with an outside work is not a place of this world: leave it out.'
+    - 'Where the document states nothing, leave the field empty; never fill it from general knowledge or from another place.'
+    - 'Shorten a function only by cutting words, never by rephrasing it.'
+
+identifiers:
+  item_id: name
+
+options:
+  merge_strategy: merge_field
+  fields_for_search: [name, function]
+
+display:
+  label: '{name} ({level})'

@@ -1,0 +1,73 @@
+# StatedRelations — relations one document states in a sentence, each with that sentence.
+#
+# provisional — first design, 2026-09-24; never run on the corpus
+# derived from: no gold. The wiki's [[links]] mark terms a page names and are untyped, so
+#   nothing here measures a typed relation. This is a trial that lets the graph tools
+#   (knowledge-graph-extract, grawiki, graphify) be compared on equal terms.
+# may not: become a [[link]] — a link is never inferred (CLAUDE.md) — detect a conflict,
+#   or supply a count. A relation whose quote read.py --find cannot place is dropped by code.
+# retire when: on documents 5 and 6 a person keeps none of its relations as a candidate edge
+language: en
+name: StatedRelations
+type: graph
+tags: [relations, evidence, german]
+description: 'Relations between terms that one German research document states outright, each with the sentence that states it.'
+
+output:
+  description: 'Terms and the relations the text states between them.'
+  entities:
+    description: 'Terms that take part in a stated relation.'
+    fields:
+      - name: name
+        type: str
+        description: 'The term as the document writes it.'
+        required: true
+      - name: type
+        type: str
+        description: 'One of: person, place, organisation, system, concept, technology, event, work, other.'
+        required: true
+  relations:
+    description: 'A relation that one sentence of the text states.'
+    fields:
+      - name: source
+        type: str
+        description: 'The term the statement is about.'
+        required: true
+      - name: target
+        type: str
+        description: 'The term it relates the source to.'
+        required: true
+      - name: type
+        type: str
+        description: 'The relation in one to three English words joined by underscores, such as part_of, controls, located_in.'
+        required: true
+      - name: quote
+        type: str
+        description: 'The sentence that states the relation, copied verbatim.'
+        required: true
+
+guideline:
+  target: 'You read one German research document behind a hard-SF novel and record only the relations it states outright, each with the sentence that states it.'
+  rules_for_entities:
+    - 'Copy each name exactly as written: case, hyphens, umlauts; never translate.'
+    - 'Record a term only when it takes part in a stated relation.'
+  rules_for_relations:
+    - 'Record a relation only when one sentence of the document states it; never infer one from proximity, a shared topic, or general knowledge.'
+    - 'Copy the quote character for character from that sentence; if it cannot be copied exactly, do not record the relation.'
+    - 'A sentence that states the relation as a question, a possibility or a hedge does not count.'
+    - 'A comparison with an outside work is not a relation between terms of this world.'
+
+identifiers:
+  entity_id: name
+  relation_id: '{source}|{type}|{target}'
+  relation_members:
+    source: source
+    target: target
+
+options:
+  entity_merge_strategy: merge_field
+  relation_merge_strategy: keep_existing
+
+display:
+  entity_label: '{name} ({type})'
+  relation_label: '{type}'

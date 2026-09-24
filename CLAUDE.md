@@ -665,6 +665,17 @@ before corpus text goes. A Knowledge Abstract is a model's reading under the
 same limits as `knowledge-graph-extract`: no page, link or count comes from it,
 and it is written outside `Wiki/` and `Sources/`.
 
+**Four project templates exist and none has run**: `Plan/hyperextract/`
+(`TermCensus`, `LocationRegistry`, `TermReadings`, `StatedRelations`), each
+copying the shape of something already here so code can score it, each marked
+provisional. `python3 scripts/templates.py check` holds them to Hyper-Extract's
+validator, to loading as `he parse` loads them — the validator passed a field
+that loading rejects — and to five rules of this project: no line field (P26), no
+model merge (P13), an explicit merge strategy, the provisional header, and no
+corpus name in any text a model is sent. `selftest` shows each check failing on
+its defect. `Plan/concept/hyperextract-templates_2026-09-24.md` has the design,
+the optimiser's report and how each is scored.
+
 **oh-my-openagent** is a different kind of thing from everything above: not a
 library or a skill for Claude Code but a plugin for another agent harness,
 [OpenCode](https://opencode.ai). `scripts/install.sh omo` installs

@@ -98,7 +98,7 @@ to `Plan/concept/tool-review_<date>/<tool>.md`.
 |---|---|---|
 | 1 | knowledge-graph-extract + semantica | free-model extraction in the skill's format → `validate_triples.py`, `generate_cypher.py`; load the triples into semantica with provenance and test its dedup and conflict API; score subjects and objects |
 | 2 | grawiki | ingest documents 5 and 6 into FalkorDBLite through the proxy; score its entities |
-| 3 | Hyper-Extract | a template designed with the `hyperextract-*` skills (a gazetteer for 6, a brief for 5); `he parse` through the proxy (LLM and local embedder); `he-mcp` info, search, export; score |
+| 3 | Hyper-Extract | the four checked templates in `Plan/hyperextract/` (`hyperextract-templates_2026-09-24.md`): `he parse` each through the proxy (LLM and local embedder); `he-mcp` info, search, export; scored by code as that page says — `LocationRegistry` against document 6's own master table |
 | 4 | graphify + cgr | the AST graph of `scripts/` with no model; graphify's document mode on 5 and 6 through the proxy if its backend honours a base URL; `cgr index` and `cgr check` on `scripts/` |
 | 5 | Jev | the **26** near-match judgements in `Plan/runs/judgements.jsonl` whose `document` is 5 or 6 (12 one-term, 7 two-terms, 5 judgement, 2 not-a-term) as the typesafe skill's entity-alignment shape — a three-level Score *one term / related, a person decides / two terms*, plus a Noul for not-a-term; agreement per class, both difference lists; `judgement` rows map to the middle level |
 | 6 | OpenCode + oh-my-openagent | a custom OpenAI-compatible provider pointed at the proxy — **not** the built-in `openrouter` provider, which would bypass the guard; `opencode run` on a non-corpus task; does the plugin's routing override `--model`? |
