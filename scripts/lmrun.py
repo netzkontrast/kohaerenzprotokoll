@@ -97,6 +97,8 @@ def _is_fixture(lm) -> bool:
 # (auth, billing, rate limit, server, timeout, invalid request, context window)
 # or `LMTransportError` means no answer came back. `LMConfigurationError` and
 # `LMUnsupportedFeatureError` are this repository's own mistakes and still raise.
+# The name set below stays for what DSPy does not wrap: the fixture's own
+# `NetworkRefused`, and anything raised outside `dspy.LM.forward`.
 _NO_ANSWER = tuple(getattr(dspy, n) for n in ("LMProviderError", "LMTransportError") if hasattr(dspy, n))
 
 

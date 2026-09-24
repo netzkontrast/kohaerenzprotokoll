@@ -47,6 +47,9 @@ except ImportError:
              "  uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'\n"
              "then run this with .venv-dspy/bin/python")
 
+from check_dspy_surface import gepa_needs_reflection_lm  # noqa: E402  — one encoding of that gotcha
+from lm_fixture import FixtureLM, chat, fill, offline  # noqa: E402
+
 BLOCK = re.compile(r"```surface\n(.*?)```", re.S)
 MARK = re.compile(r"\[checked: ([a-z0-9-]+)\]")
 PATH = re.compile(r"`((?:scripts|Plan|Wiki|Sources|\.agents|\.claude)/[^`\s:]*)(?::(\d+)(?:-(\d+))?)?`")
@@ -121,17 +124,11 @@ def surface(texts: dict[str, str]) -> tuple[int, int, list[str]]:
 
 # --- 2 · behaviour -------------------------------------------------------------------
 
-def _fixture():
-    from lm_fixture import FixtureLM, chat, fill, offline
-    return FixtureLM, chat, fill, offline
-
-
 def _devset(n=4):
     return [dspy.Example(q=str(i), a="ja").with_inputs("q") for i in range(n)]
 
 
 def _evaluate(metric, program=None):
-    FixtureLM, chat, _, offline = _fixture()
     with offline(FixtureLM(lambda messages: chat(a="ja"))):
         return dspy.Evaluate(devset=_devset(), metric=metric, num_threads=1)(program or dspy.Predict("q -> a"))
 
@@ -166,14 +163,6 @@ def p_metric_prediction_aggregates():
     return None if score == 100.0 else f"a Prediction(score, feedback) metric aggregated to {score!r}"
 
 
-def p_gepa_asserts_reflection_lm():
-    try:
-        dspy.GEPA(metric=lambda *a, **k: 0.0, auto="light")
-    except AssertionError:
-        return None
-    return "dspy.GEPA was constructed with neither reflection_lm nor instruction_proposer"
-
-
 def p_gepa_light_budget():
     gepa = dspy.GEPA(metric=lambda *a, **k: 0.0, auto="light", reflection_lm=dspy.LM("openai/probe", cache=False))
     got = {n: gepa.auto_budget(1, 6, n) for n in (26, 45, 57)}
@@ -190,7 +179,6 @@ def p_labeledfewshot_fixed_seed():
 
 
 def p_bootstrap_keeps_wrong_demos_on_prediction():
-    FixtureLM, _, fill, offline = _fixture()
     train = [dspy.Example(q=str(i), a="richtig").with_inputs("q") for i in range(4)]
     kept = {}
     for name, metric in (("prediction", lambda e, p, t=None: dspy.Prediction(score=float(p.a == e.a))),
@@ -213,7 +201,6 @@ def p_simba_trainset_below_bsize():
 
 
 def p_inferrules_halves_trainset():
-    FixtureLM, _, fill, offline = _fixture()
     seen: dict[str, list[str]] = {}
 
     class Spy(dspy.InferRules):
@@ -234,7 +221,6 @@ def p_inferrules_halves_trainset():
 
 
 def p_chat_adapter_json_fallback():
-    FixtureLM, _, _, offline = _fixture()
     lm = FixtureLM(lambda messages: '{"a": "x"}')
     with offline(lm):
         answer = dspy.Predict("q -> a")(q="?").a
@@ -244,7 +230,6 @@ def p_chat_adapter_json_fallback():
 
 
 def p_unparseable_is_adapter_error():
-    FixtureLM, _, _, offline = _fixture()
     with offline(FixtureLM(lambda messages: "kein format")):
         try:
             dspy.Predict("q -> a")(q="?")
@@ -257,7 +242,6 @@ def p_unparseable_is_adapter_error():
 
 def p_literal_out_of_set_unparsed():
     from typing import Literal
-    FixtureLM, chat, _, offline = _fixture()
 
     class Decide(dspy.Signature):
         """Decide."""
@@ -303,7 +287,6 @@ def p_numpy_typing_after_dspy():
 
 
 def p_track_usage_misses_threads():
-    FixtureLM, chat, _, offline = _fixture()
 
     class Counted(FixtureLM):
         def forward(self, prompt=None, messages=None, **kwargs):
@@ -358,12 +341,18 @@ def p_example_reaches_evaluator_by_name():
     return "an evaluator without an `example` parameter was called without error"
 
 
-def p_rlm_runs_offline():
+def _need_deno() -> NotRun | None:
+    """dspy.RLM runs in a Deno sandbox, and the `dspy[deno]` extra installs the runtime."""
     try:
-        import deno  # noqa: F401  — the runtime `dspy[deno]` installs
+        import deno  # noqa: F401
     except ImportError:
         return NotRun("no Deno — uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'")
-    FixtureLM, chat, _, offline = _fixture()
+    return None
+
+
+def p_rlm_runs_offline():
+    if (skip := _need_deno()) is not None:
+        return skip
     step = chat(reasoning="Ich lese.", code="SUBMIT(candidates='- Kern-Welt  ^[L1]')")
     with offline(FixtureLM(lambda messages: step)):
         out = dspy.RLM("document: str, task: str -> candidates: str", max_iters=2, max_llm_calls=3)(
@@ -372,17 +361,15 @@ def p_rlm_runs_offline():
 
 
 def p_rlm_forced_final_output():
-    try:
-        import deno  # noqa: F401
-    except ImportError:
-        return NotRun("no Deno — uv pip install --python .venv-dspy/bin/python 'dspy[deno,numpy]==3.3.1'")
-    FixtureLM, _, fill, offline = _fixture()
+    from rlm_ingest import FORCED  # the constant rlm_ingest.judge() reads
+    if (skip := _need_deno()) is not None:
+        return skip
     never_submits = fill(reasoning="Ich lese weiter.", code="print(len(document))",
                          candidates="- Kern-Welt  ^[L1]")
     with offline(FixtureLM(never_submits)):
         out = dspy.RLM("document: str, task: str -> candidates: str", max_iters=1, max_llm_calls=3)(
             document="L1| Die Kern-Welt ist eine Welt.", task="list the terms")
-    if out.final_reasoning != "Extract forced final output":
+    if out.final_reasoning != FORCED:
         return f"an RLM out of iterations reported final_reasoning {out.final_reasoning!r}"
     return None if out.candidates == "- Kern-Welt  ^[L1]" else "the forced answer did not look like an answer"
 
@@ -397,7 +384,6 @@ class _EveryAttemptFails(dspy.Module):
 
 
 def p_refine_none_when_all_fail():
-    FixtureLM, _, fill, offline = _fixture()
     got = {}
     for cls in (dspy.BestOfN, dspy.Refine):
         for n in (2, 3):
@@ -416,7 +402,7 @@ PROBES = {
     "evaluate-failure-is-zero": p_evaluate_failure_is_zero,
     "metric-dict-crashes": p_metric_dict_crashes,
     "metric-prediction-aggregates": p_metric_prediction_aggregates,
-    "gepa-asserts-reflection-lm": p_gepa_asserts_reflection_lm,
+    "gepa-asserts-reflection-lm": gepa_needs_reflection_lm,
     "gepa-light-budget": p_gepa_light_budget,
     "labeledfewshot-fixed-seed": p_labeledfewshot_fixed_seed,
     "simba-trainset-below-bsize": p_simba_trainset_below_bsize,
@@ -461,7 +447,7 @@ def behaviour(texts: dict[str, str], probes: dict = PROBES) -> tuple[int, int, l
 # --- 3 · paths -----------------------------------------------------------------------
 
 def paths(texts: dict[str, str], root: Path = ROOT) -> tuple[int, list[str]]:
-    seen, problems = set(), []
+    seen, problems, lengths = set(), [], {}
     for source, text in texts.items():
         for match in PATH.finditer(text):
             path, line = match.group(1), match.group(2)
@@ -471,8 +457,11 @@ def paths(texts: dict[str, str], root: Path = ROOT) -> tuple[int, list[str]]:
             target = root / path
             if not target.exists():
                 problems.append(f"{source}: `{path}` does not exist")
-            elif line and target.is_file() and int(line) > len(target.read_text(encoding="utf-8").splitlines()):
-                problems.append(f"{source}: `{path}:{line}` is past the end of the file")
+            elif line and target.is_file():
+                if target not in lengths:
+                    lengths[target] = len(target.read_text(encoding="utf-8").splitlines())
+                if int(line) > lengths[target]:
+                    problems.append(f"{source}: `{path}:{line}` is past the end of the file")
     return len(seen), problems
 
 
@@ -496,9 +485,16 @@ def run(folder: Path = SKILL) -> tuple[list[str], list[str]]:
     return lines, s_problems + b_problems + p_problems
 
 
-def selftest() -> list[str]:
-    """Each check fails on a skill built to break it, for the reason it names."""
-    failures = []
+def selftest() -> tuple[int, list[str]]:
+    """(cases run, failures). Each check fails on a skill built to break it, for the reason it names."""
+    ran, failures = 0, []
+
+    def expect(ok: bool, failure: str) -> None:
+        nonlocal ran
+        ran += 1
+        if not ok:
+            failures.append(failure)
+
     bad = {
         "a.md": "```surface\n"
                 "dspy.RLM(signature, max_iters=20)\n"
@@ -511,44 +507,44 @@ def selftest() -> list[str]:
     }
     _, _, problems = surface(bad)
     for needle in ("no parameter 'max_iterations'", "cache defaults to True", "unreadable surface line"):
-        if not any(needle in p for p in problems):
-            failures.append(f"surface: expected a problem naming {needle!r}, got {problems}")
-    if any("max_iters" in p for p in problems):
-        failures.append("surface: a correct line was reported")
+        expect(any(needle in p for p in problems), f"surface: expected a problem naming {needle!r}, got {problems}")
+    expect(not any("max_iters" in p for p in problems), "surface: a correct line was reported")
     _, _, problems = behaviour(bad, probes={"held": lambda: None, "unrun": lambda: NotRun("x")})
     for needle in ("no-such-probe", "'held' is cited nowhere"):
-        if not any(needle in p for p in problems):
-            failures.append(f"behaviour: expected a problem naming {needle!r}, got {problems}")
+        expect(any(needle in p for p in problems), f"behaviour: expected a problem naming {needle!r}, got {problems}")
     held, unrun, problems = behaviour({"a.md": "[checked: unrun] [checked: held]"},
                                       probes={"held": lambda: None, "unrun": lambda: NotRun("no runtime")})
-    if (held, unrun) != (1, 1) or not any("not run" in p for p in problems):
-        failures.append(f"behaviour: a probe that could not run was not reported as not run ({held}, {unrun})")
+    expect((held, unrun) == (1, 1) and any("not run" in p for p in problems),
+           f"behaviour: a probe that could not run was not reported as not run ({held}, {unrun})")
     _, problems = paths(bad)
     for needle in ("no_such_script.py` does not exist", "past the end"):
-        if not any(needle in p for p in problems):
-            failures.append(f"paths: expected a problem naming {needle!r}, got {problems}")
-    return failures
+        expect(any(needle in p for p in problems), f"paths: expected a problem naming {needle!r}, got {problems}")
+    return ran, failures
+
+
+def report(problems: list[str]) -> int:
+    for p in problems:
+        print(f"  FAIL  {p}")
+    return 1 if problems else 0
 
 
 def main(argv: list[str]) -> int:
     if "--selftest" in argv:
-        problems = selftest()
-        for p in problems:
-            print(f"  FAIL  {p}")
-        print(f"check_dspy_skill: {9 - len(problems)} of 9 cases hold "
+        ran, problems = selftest()
+        status = report(problems)
+        print(f"check_dspy_skill: {ran - len(problems)} of {ran} cases hold "
               "(surface: wrong name, wrong default, unreadable, correct line; behaviour: unknown mark, "
               "uncited probe, not run; paths: missing file, line past the end)")
-        return 1 if problems else 0
+        return status
     if not SKILL.exists():
         print(f"no skill at {SKILL.relative_to(ROOT)}")
         return 1
     lines, problems = run()
-    for p in problems:
-        print(f"  FAIL  {p}")
+    status = report(problems)
     for line in lines:
         print(line)
     print(f"DSPy {dspy.__version__}: the dspy skill {'holds' if not problems else 'does NOT hold'}")
-    return 1 if problems else 0
+    return status
 
 
 if __name__ == "__main__":

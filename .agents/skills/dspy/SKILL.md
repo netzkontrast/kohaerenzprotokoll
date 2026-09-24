@@ -28,21 +28,23 @@ holds two things:
   each one already exists as code;
 - the DSPy knowledge needed to write the code that keeps them.
 
-## Before any model call: what is code here, not advice
+## Before any model call
 
 The project goal puts it in one line (`GOAL.md`, rule 13): „Ein Modell schlägt
-vor, es entscheidet nie, und nichts verlässt den Container ohne Ja." These
-scripts are how it holds:
+vor, es entscheidet nie, und nichts verlässt den Container ohne Ja." Scripts
+hold it, and `CLAUDE.md`, *Calling a model — the DSPy toolchain*, says what each
+one guarantees. What to run:
 
-| guard | where | what it refuses or reports |
-|---|---|---|
-| every call is recorded | `scripts/lmrun.py` | an LM with the cache on; a real LM without `approval=` naming the author's decision. Every call gets a status — `answered`, `refused`, `unparsed` or `unreachable` — never a score |
-| every model step has an offline twin | `scripts/lm_fixture.py` | `offline()` hides every `*_API_KEY` and makes `litellm.completion` raise, so a dry run cannot reach the network |
-| every scored run is a ledger row | `scripts/baseline.py` | a candidate that does not beat the floor, and a `vetoed` row, whatever its score |
-| the never-merge canaries | `scripts/pairs.py` | a candidate that merges `Negentropie`/`Entropie`, or any pair in `selftest.MUST_NOT_MERGE` |
-| the DSPy surface the scripts call | `scripts/check_dspy_surface.py` | a renamed or removed parameter, a changed default the scripts depend on |
-| the DSPy this skill teaches | `scripts/check_dspy_skill.py` | a false parameter or default, a behaviour that stopped holding, a path that does not exist |
-| every checker can fail | `scripts/selftests.py` | a suite that did not run is `not run`, never `held` |
+- **a model call** goes through `lmrun.call` inside
+  `dspy.context(lm=lmrun.make_lm(...))`. It refuses a cached LM and a real LM
+  without `approval=`, and records one line per call under
+  `Plan/runs/<subject>/lm/` with a status, never a score;
+- **a dry run** goes through `lm_fixture.offline(FixtureLM(...))`, which cannot
+  reach the network;
+- **a scored run** becomes a row through `baseline.py`, and
+  `python3 scripts/baseline.py compare <task>` says whether it beats the floor;
+- **`python3 scripts/selftests.py`** runs every check, one line each, and a
+  suite that could not run says `not run`, never `held`.
 
 **Nothing leaves the container without the author's yes for that run.** Three
 runs are built and waiting on one: `pairs.py run --optimizer labeled`,

@@ -748,14 +748,8 @@ into the document its verified citations reach.
 sorted by the job at hand: API, optimizers, metrics, data, testing, RLM,
 retrieval, text artifacts, operations, patterns, and an index of the nine
 repositories. On 2026-09-24 the nine repositories were read again, in full, for
-everything they contain rather than for ideas. The readers' notes are in
-`Plan/concept/dspy-extract_2026-09-24/`. Re-checking the API against the
-installed package found two defects here, both fixed the same day:
-
-- `lmrun.py` re-raised DSPy 3.3's own `LMTransportError` instead of recording
-  `unreachable`.
-- `rlm_ingest.py` could have called a forced RLM answer (`final_reasoning ==
-  "Extract forced final output"`) a reading.
+everything they contain rather than for ideas; the readers' notes are in
+`Plan/concept/dspy-extract_2026-09-24/`.
 
 ## Changing your mind
 
