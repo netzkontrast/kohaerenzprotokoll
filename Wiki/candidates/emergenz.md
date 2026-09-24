@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -64,3 +64,8 @@ word correctly and mean opposite things by it, and what it decides is whether
 `Emergenz` has a settled meaning outside this project, which normally keeps a term
 from drifting. **It did not help here** — the drift is in what the word is applied
 to, not in the word.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+A property of KW4, not of [[aegis|AEGIS]]: „Emergenz statt Erhaltung" — „Einzige Zone, in der
+neue Coheronen entstehen können" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L400].
