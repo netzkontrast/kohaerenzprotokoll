@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 4
+sources: 5
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -28,15 +28,15 @@ external connection — attached to different entities.
 
 ## Why this is a conflict and not two facts
 
-Because the two cannot both be the whole account. If the Guardians are parts of
-AEGIS, then AEGIS' single categorical blindness and the Guardians' five distinct
+Because the two cannot both be the whole account. If the [[guardians|Guardians]] are parts of
+[[aegis|AEGIS]], then [[aegis|AEGIS]]' single categorical blindness and the [[guardians|Guardians]]' five distinct
 blindnesses are descriptions of one system at two scales, and the interesting
-claim is that they compose. If the Guardians are separate, the corpus has two
+claim is that they compose. If the [[guardians|Guardians]] are separate, the corpus has two
 systems with the same design flaw and no stated relation.
 
 **And neither document mentions the other's bearer.** `AEGIS` occurs **zero
 times** in `guardians-und-kern-welten-konzept` — in 5,839 words about the system
-that AEGIS, elsewhere, is said to run.
+that [[aegis|AEGIS]], elsewhere, is said to run.
 
 ## What the read sample says
 
@@ -166,3 +166,10 @@ narrower and no closer to closing.**
 
 Document 6 never writes `Guardian`. Everything above says `Wächter`, and whether
 those are one term is `q4-waechter-four-bearers`, not this record.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position 1's bearer: AEGIS' blindness, stated as places and timing, not as the
+Guardians'. The [[externe-ebene|Externe Ebene]] holds „das, was AEGIS nicht erfassen kann;
+konzeptueller Ort" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L667], and AEGIS registers transitions late because
+„Coheron-Übergänge sind atemporal" (L736). The Guardians get no blind spot here.
