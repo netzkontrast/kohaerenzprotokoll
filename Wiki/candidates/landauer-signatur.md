@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-24"
 ---
 
@@ -41,3 +41,12 @@ Here Landauer heat is visible everywhere, and warm: „diese Abwärme manifestie
 Kap 36 is „Vortex 1 Beats 4–5" (L1031), and document 7 keeps the warmth spike for Vortex 1, Beat 4 — so the two may disagree about Kap 6 alone. The records hold both; which reading governs is the author's call.
 
 The passage names the heat (`Landauer-Abwärme`), the page names its rendering; they are two terms (J62), and the passage is placed here because what it describes is the rendering.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+**Heat, and the sentence document 7 rewrote.** Kap 2: „Riss = Landauer-Hitze/Ozon
+(Verdrängung wird sichtbar)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L191]. Document 7's line for the first Riss reads
+„Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird sichtbar)"
+^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307] — the same
+sentence with `Hitze` replaced. This document's stated date, „Stand: 2026-05-31"
+^[kapitel-kompendium-gather-2026-05-31-md.md:L13], is the day after the 2026-05-30 lock document 7 cites; it still writes heat. Conflict C11.
