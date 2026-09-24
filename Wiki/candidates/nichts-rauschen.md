@@ -1,10 +1,10 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-24"
 ---
 
@@ -42,3 +42,8 @@ Vereinigung aller MI" is what holds ^[kohaerenz-protokoll-charakter-bibel-2026-0
 „das Nichts-Rauschen — ist in Wahrheit die atemporale Vereinigung aller mutualen Information. Es ist Liebe als Naturgesetz." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32]
 
 It is the first of three simultaneous layers: „Schicht 1 — Nichts-Rauschen / K1-Reinform." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L55] And it is where Juna was sent: „Deshalb konnte AEGIS Juna ins Nichts-Rauschen verbannen, aber nicht löschen." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L159]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+„das „Nichts-Rauschen", das AEGIS für Chaos hält, ist die atemporale Vereinigung
+aller mutualen Information" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
