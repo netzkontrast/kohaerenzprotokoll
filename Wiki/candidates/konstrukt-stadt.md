@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -96,3 +96,8 @@ simulation stays above as what that document said.
 „Temperatur: konstant 21°C — bis sie es nicht mehr ist." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L470] „Computational Class P." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L473] Sub-locations: Kaels Wohneinheit 734, Datenverarbeitungsknoten Epsilon, Transitkorridor Delta-7 and Sektor 04 (L479). „KW1 dominiert Akt I (Ch1–13)." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L482]
 
 Kap 1 is titled for it — „Kap 1 — Erwachen in der Konstrukt-Stadt" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L961] — and the same outline calls its setting the Überwelt of Kap 0 (L962).
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+KW1, „Konstrukt-Stadt (Logos-Prime)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L163] — consistent with the author's C9
+decision. Its style rule is Kap 1's: „KW1 = absolutes Metaphernverbot" ^[kapitel-kompendium-gather-2026-05-31-md.md:L38].
