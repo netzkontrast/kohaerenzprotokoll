@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -132,3 +132,14 @@ profile field name the document repeats seventeen times —
 
 `Negentropie` does not occur. Neither does any account of where entropy comes
 from, what raises it, or what the numbers on the monitor are measured in.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Entropie is K₀, and it is [[aegis|AEGIS]]' own nature, unknown to AEGIS.**
+
+> „AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
+
+The document calls this „Die große Inversion" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25] and the mechanical source of the
+climax ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]. It does not define Entropie further here; it says its physics
+lives elsewhere — „Was dieses Dokument bewusst NICHT enthält: DKT-Physik im
+Detail" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L13].
