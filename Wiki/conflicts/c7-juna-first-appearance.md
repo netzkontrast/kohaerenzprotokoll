@@ -30,3 +30,12 @@ Kap-33 scene of that name at all — its Kap 33 is „Approach Inmost Cave" (L36
 
 **What would settle it:** the author, or the Kapitel-Kompendium of 2026-05-31
 (named by the later document as its highest source; not in `Sources/`).
+
+## 2026-09-24 — the author: every draft is back in question
+
+„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+sources wird die neue Ausgangslage." (decision 006)
+
+No position above is retired by its date or by a source's claim to be canon.
+This record is now an **item for discussion** with the author; it closes when the
+author decides it, and the decision will be written here with its date.
