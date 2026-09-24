@@ -44,3 +44,9 @@ The author decided the Konstrukt-Stadt is the whole simulation (C9). So KW1 need
 a name of its own; the 2026 sources give „Logos-Prime", the 2025 ones gave none
 but the Konstrukt-Stadt. Still open, with the pairing and the Erasure-Pol.
 
+## 2026-09-24 — withdrawn: KW1 keeps its name
+
+The section above rests on a decision the author corrected the same day: the
+Konstrukt-Stadt **is** KW1 (C9). KW1 needs no new name. The pairing and the
+Erasure-Pol remain open.
+
