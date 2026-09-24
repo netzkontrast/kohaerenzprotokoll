@@ -74,17 +74,18 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 import graph  # noqa: E402
+import quotes  # noqa: E402
+import selftests  # noqa: E402
 import state  # noqa: E402
 import subject  # noqa: E402
 import wiki_index  # noqa: E402
+from account import account_order  # noqa: E402
 
 HERE = ROOT / "scripts"
 TEMPLATE = HERE / "ui.html"
 COMPONENT = HERE / "ui.js"
 OUT = ROOT / "Plan" / "derived" / "ui"
-PAGES = ROOT / "Wiki" / "candidates"
-CONFLICTS = ROOT / "Wiki" / "conflicts"
-QUESTIONS = ROOT / "Wiki" / "questions"
+PAGES, CONFLICTS, QUESTIONS = subject.PAGES, subject.CONFLICTS, subject.QUESTIONS
 COMPARE = ROOT / "Wiki" / "compare"
 RUNS_DIR = ROOT / "Plan" / "runs"
 DECISIONS = ROOT / "Plan" / "decisions"
@@ -381,7 +382,14 @@ INVARIANTS = ["scripts/account.py order", "scripts/state.py --prose", "scripts/j
 
 
 def run_invariants(measured: dict) -> list[list[str]]:
-    """[command, held | red | not run, what it said]. Only commands that write nothing run."""
+    """[command, held | red | not run, what it said]. Only commands that write nothing run.
+
+    Three answers are already in hand and are taken rather than run again and
+    read back from the printout: the judgement replay and the quotation tally
+    `state.py` measured, and the order `account.py` derives in-process.
+    `account.py order` exits 0 whether or not the order holds, so its exit code
+    could only ever say „held".
+    """
     out = []
     for cmd in INVARIANTS:
         if cmd == "scripts/judgements.py":
@@ -390,6 +398,17 @@ def run_invariants(measured: dict) -> list[list[str]]:
                         f"{total} judgements: {agree} agree, {dis} DISAGREE, {total - agree - dis} still judgement "
                         "— the replay scripts/state.py performs, since running this rewrites Plan/runs/judgements.md"])
             continue
+        if cmd == "scripts/quotes.py":
+            counts = {k: measured[f"quotes.{k}"] for k in ("checked", "unresolved", "unchecked")}
+            out.append([cmd, "held" if counts["unresolved"] == 0 else "red", quotes.summary(counts)])
+            continue
+        if cmd == "scripts/account.py order":
+            order = account_order()
+            out.append([cmd, "held" if order["holds"] else "red",
+                        "holds — every document with a census has a note and a reconciliation, in order"
+                        if order["holds"] else "; ".join(f"{v['document']}: {v['detail']}"
+                                                         for v in order["violations"])])
+            continue
         proc = subprocess.run([sys.executable, *cmd.split()], cwd=ROOT, capture_output=True, text=True, timeout=600)
         lines = [ln.strip() for ln in (proc.stdout + proc.stderr).splitlines() if ln.strip()] or ["(no output)"]
         joined = " ".join(lines)
@@ -397,14 +416,7 @@ def run_invariants(measured: dict) -> list[list[str]]:
             out.append([cmd, "not run", "qmd is not installed in this container — scripts/setup_qmd.sh rebuilds it"])
             continue
         line = lines[-1]
-        if cmd == "scripts/account.py order":
-            line = ("holds — every document with a census has a note and a reconciliation, in order"
-                    if '"holds": true' in joined else line)
-        elif cmd == "scripts/quotes.py":
-            k = next((n for n, ln in enumerate(lines) if "cited quotes checked" in ln), None)
-            if k is not None:
-                line = lines[k] + (" " + lines[k + 1] if k + 1 < len(lines) and not lines[k].endswith(".") else "")
-        elif cmd == "scripts/relations.py":
+        if cmd == "scripts/relations.py":
             line = "; ".join(re.sub(r"\s+", " ", ln) for ln in lines
                              if re.match(r"^(relations|orphans|isolated|unmarked)\b", ln))
             line += "" if "BROKEN" in joined else "; no broken links"
@@ -415,13 +427,8 @@ def run_invariants(measured: dict) -> list[list[str]]:
 
 
 def run_selftests() -> list[list[str]]:
-    proc = subprocess.run([sys.executable, "scripts/selftests.py"], cwd=ROOT, capture_output=True, text=True, timeout=1800)
-    rows = []
-    for line in proc.stdout.splitlines():
-        m = re.match(r"^\s+(held|FAILED|not run)\s+(.+?)\s{2,}(.*)$", line)
-        if m:
-            rows.append([m.group(1), m.group(2).strip(), m.group(3).strip()])
-    return rows
+    """[held | FAILED | not run, suite, what it said last], one per suite, from selftests.run."""
+    return [[status, name, said.strip()] for status, name, said in selftests.run()]
 
 
 # ---------------------------------------------------------------- export
@@ -724,7 +731,7 @@ def export(checks: bool = True) -> dict:
              fmts.index(r.get("format", "")), r.get("index_date", ""), 1 if r.get("export_path") else 0,
              read.index(r["slug"]) if r["slug"] in read else -1, sections.index(r.get("index_section", ""))]
             for r in manifest]
-    folded = sum(1 for line in (ROOT / "Sources" / "duplicates.jsonl").read_text(encoding="utf-8").splitlines() if line.strip())
+    folded = measured["sources.folded"]
 
     head = subprocess.run(["git", "log", "-1", "--format=%h %cs"], cwd=ROOT, capture_output=True, text=True).stdout.split()
     return {
@@ -1027,20 +1034,21 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
 
 # ---------------------------------------------------------------- selftest
 
-def selftest() -> list[str]:
-    """Each check, handed the defect it exists to name. A case that passes for the
-    wrong reason fails: the problem must be reported, and in the right words."""
-    failures = []
+def selftest() -> tuple[list[str], list[str]]:
+    """(failures, cases not run). Each check, handed the defect it exists to name. A
+    case that passes for the wrong reason fails: the problem must be reported, and in
+    the right words. A case that could not run is said to have not run (P15)."""
+    failures, unrun = [], []
     with tempfile.TemporaryDirectory() as tmp:
         out = Path(tmp)
         data = build(out, checks=False)
-        problems, notes = check(out, data)
+        problems, _ = check(out, data)
         if problems:
             failures.append("the clean build is not clean: " + "; ".join(problems[:5]))
         template = TEMPLATE.read_text(encoding="utf-8")
         anchor = '<div style="flex-grow: 1;"></div>'
         if anchor not in template:
-            return failures + ["the selftest's anchor is gone from scripts/ui.html"]
+            return failures + ["the selftest's anchor is gone from scripts/ui.html"], unrun
         markup_cases = [
             ("button in button", anchor.replace("</div>", '<button type="button"><button type="button">x</button></button></div>'),
              "inside <button>"),
@@ -1070,17 +1078,19 @@ def selftest() -> list[str]:
             if not syntax:
                 failures.append("a syntax error in the component: not reported by node --check")
         else:
-            notes.append("node absent: the syntax case did not run")
-    return failures
+            unrun.append("node absent: the syntax case did not run")
+    return failures, unrun
 
 
 # ---------------------------------------------------------------- main
 
 def main(argv: list[str]) -> int:
     if argv[:1] == ["selftest"]:
-        failures = selftest()
+        failures, unrun = selftest()
         for f in failures:
             print(f"  FAILED  {f}")
+        for u in unrun:
+            print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
               "(clean build, 6 markup, 2 data, 1 syntax)")
         return 1 if failures else 0

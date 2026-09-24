@@ -17,7 +17,10 @@ from __future__ import annotations
 import shutil
 import subprocess
 import sys
+from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+from typing import Iterator
 
 ROOT = Path(__file__).resolve().parents[1]
 VENV = ROOT / ".venv-dspy" / "bin" / "python"
@@ -54,24 +57,38 @@ SUITES = [
 ]
 
 
+def run_suite(suite: tuple[str, str, list[str]]) -> tuple[str, str, str]:
+    """(held | FAILED | not run, the suite's name, what it said last) for one suite."""
+    name, kind, args = suite
+    interpreter, needs, remedy = KINDS.get(kind, (None, None, ""))
+    present = needs is None or (shutil.which(needs) if isinstance(needs, str) else needs.exists())
+    if not present:
+        return "not run", name, remedy
+    python = str(interpreter) if interpreter else sys.executable
+    proc = subprocess.run([python, *args], cwd=ROOT, capture_output=True, text=True, timeout=900)
+    last = (proc.stdout.strip().splitlines() or proc.stderr.strip().splitlines() or ["(no output)"])[-1]
+    return ("held" if proc.returncode == 0 else "FAILED"), name, last[:90]
+
+
+def run(workers: int = 4) -> Iterator[tuple[str, str, str]]:
+    """Every suite's row, in the order of SUITES, each as soon as it and those before it are done.
+
+    The suites are independent and each runs in its own process, so up to
+    `workers` run at once. Measured here: 65 seconds one after another before,
+    16 four at a time, the suites' own speedups included. `ui.py` takes these
+    rows as they are rather than parsing the lines `main` prints, which dropped
+    any suite whose name outgrew the column.
+    """
+    with ThreadPoolExecutor(workers) as pool:
+        yield from pool.map(run_suite, SUITES)
+
+
 def main() -> int:
-    held = failed = unrun = 0
-    for name, kind, args in SUITES:
-        interpreter, needs, remedy = KINDS.get(kind, (None, None, ""))
-        present = needs is None or (shutil.which(needs) if isinstance(needs, str) else needs.exists())
-        if not present:
-            print(f"  not run  {name:<26} {remedy}")
-            unrun += 1
-            continue
-        python = str(interpreter) if interpreter else sys.executable
-        proc = subprocess.run([python, *args], cwd=ROOT, capture_output=True, text=True, timeout=900)
-        last = (proc.stdout.strip().splitlines() or proc.stderr.strip().splitlines() or ["(no output)"])[-1]
-        if proc.returncode == 0:
-            held += 1
-            print(f"  held     {name:<26} {last[:90]}")
-        else:
-            failed += 1
-            print(f"  FAILED   {name:<26} {last[:90]}")
+    counts: Counter = Counter()
+    for status, name, said in run():
+        print(f"  {status:<9}{name:<26} {said}", flush=True)
+        counts[status] += 1
+    held, failed, unrun = counts["held"], counts["FAILED"], counts["not run"]
     print(f"\n{held} held, {failed} failed, {unrun} not run, of {len(SUITES)} suites")
     return 1 if failed or unrun else 0
 
