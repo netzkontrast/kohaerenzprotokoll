@@ -60,7 +60,7 @@ def locate(doc: Document, quote: str) -> list[int]:
         return []
     return [doc.offset + index
             for index, line in enumerate(doc.lines())
-            if quotes.missing_part(quotes.normalise(line), parts) is None]
+            if quotes.on_line(line, quote, parts) is None]
 
 
 def spans(doc: Document, quote: str) -> list[tuple[int, int]]:
@@ -71,11 +71,13 @@ def spans(doc: Document, quote: str) -> list[tuple[int, int]]:
     turns that into an instruction: cite one line, or quote a fragment.
     """
     parts = quotes.parts_of(quote)
-    lines = [quotes.normalise(line) for line in doc.lines()]
+    raw = doc.lines()
+    lines = [quotes.normalise(line) for line in raw]
     found = []
     for index in range(len(lines) - 1):
         joined = f"{lines[index]} {lines[index + 1]}".strip()
-        if parts and quotes.missing_part(joined, parts) is None:
+        if (parts and quotes.missing_part(joined, parts) is None
+                and quotes.missing_number(f"{raw[index]} {raw[index + 1]}", quote) is None):
             found.append((doc.offset + index, doc.offset + index + 1))
     return found
 

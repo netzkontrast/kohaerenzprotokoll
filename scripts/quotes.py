@@ -25,6 +25,13 @@ An ellipsis (`…` or `[…]`) splits the quote and every part must resolve, in
 order, on that line. A quote spanning two lines is reported as unresolved rather
 than silently searched for nearby: the line number is part of the claim.
 
+**A number is compared on its own.** The footnote rule below drops a number of
+one or two digits after a word on both sides, so for the words alone „Kap 33
+Beat 3" and „Kap 38 Beat 3" were the same sentence. In a chapter outline that
+is every chapter, beat and world number: 268 on one document, not one of them a
+footnote. So every number the quote writes must also stand on the line, in the
+same order, with the footnote rule off (`missing_number`).
+
 Usage:
     python3 scripts/quotes.py            # every note, census and wiki page
     python3 scripts/quotes.py <path>     # one file
@@ -46,7 +53,10 @@ WRAP = re.compile(r"\s*\n\s*(?:>\s*)?|\s{2,}")
 # The footnote numbers the export glues to the word they annotate -- the same
 # damage `rules/export_damage.py` counts. A quote reproduces the sentence; the
 # number was never part of it, so it is dropped from the source side too.
-GLUED_REF = re.compile(r"(?<=[A-Za-zäöüßÄÖÜ)\"]) ?\d{1,2}(?=[\s,.;:)])|(?<=[a-zäöüß]\.)\d{1,2}(?= )")
+# The end of the text is a boundary like a space: without it a quote ending in
+# „Kap 38" kept the number its line had dropped, and could never resolve. What
+# the words no longer see, `missing_number` compares.
+GLUED_REF = re.compile(r"(?<=[A-Za-zäöüßÄÖÜ)\"]) ?\d{1,2}(?=[\s,.;:)]|$)|(?<=[a-zäöüß]\.)\d{1,2}(?= |$)")
 # An inline attribution marker is not part of the sentence it annotates -- it is
 # derived separately by `rules/attribution.py`. A quote that reproduces the
 # sentence and drops the marker is quoting correctly, so it is dropped from the
@@ -78,17 +88,53 @@ def normalise(text: str) -> str:
     Normalising all four is what makes a genuine failure -- a word that was never
     in the document -- the only thing left to report.
     """
+    return GLUED_REF.sub("", unglued(text)).strip()
+
+
+def unglued(text: str) -> str:
+    """`normalise` without its footnote rule: escaping, emphasis, wrapping and
+    attribution markers are context-free; a number is not debris until shown to be."""
     text = ESCAPE.sub(r"\1", text)
     text = EMPHASIS.sub("", text)
-    text = MARKER.sub("", WRAP.sub(" ", text))
-    return GLUED_REF.sub("", text).strip()
+    return MARKER.sub("", WRAP.sub(" ", text))
+
+
+NUMBER = re.compile(r"\d+")
+
+
+def missing_number(line: str, quote: str) -> str | None:
+    """The first number the quote writes that the raw line does not, in order.
+
+    The footnote rule is kept off here: a number the quote writes is a claim, and
+    extra numbers on the line — footnote debris among them — are allowed, so a
+    quote that correctly drops a footnote still resolves.
+    """
+    have = NUMBER.findall(unglued(line))
+    cursor = 0
+    for number in NUMBER.findall(unglued(quote)):
+        try:
+            cursor = have.index(number, cursor) + 1
+        except ValueError:
+            return f"the number {number}"
+    return None
+
+
+def on_line(line: str, quote: str, parts: list[str] | None = None) -> str | None:
+    """Is the quote on this one raw line? None if so, else what is missing.
+
+    The one comparison `resolve` asks of a cited line and `read.py --find` asks of
+    every line, so the two directions cannot disagree: the words in order after
+    normalising, then the numbers in order without the footnote rule.
+    """
+    gap = missing_part(normalise(line), parts if parts is not None else parts_of(quote))
+    return gap if gap is not None else missing_number(line, quote)
 
 
 def source_line(slug: str, number: int) -> str | None:
     doc = document(slug)
     lines = doc.body.split("\n")
     index = number - doc.offset
-    return normalise(lines[index]) if 0 <= index < len(lines) else None
+    return lines[index] if 0 <= index < len(lines) else None
 
 
 def parts_of(quote: str) -> list[str]:
@@ -200,8 +246,8 @@ def resolve(raw: str, default_slug: str | None, quote: str) -> str | None:
         return "line is past the end of the document"
     parts = parts_of(quote)
     missing = "quote is empty after normalising"
-    for clean in [line for line in span if line is not None]:
-        gap = missing_part(clean, parts)
+    for raw in [line for line in span if line is not None]:
+        gap = on_line(raw, quote, parts)
         if gap is None:
             return None
         missing = gap

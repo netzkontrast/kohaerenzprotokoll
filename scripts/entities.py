@@ -128,16 +128,16 @@ def plain(text: str) -> str:
 
     `quotes.normalise` drops a number of one or two digits glued to a word, because
     the export glues footnote numbers on (`formen.10`). A quote carries the same
-    context on both sides, so the rule is symmetric there. A name does not: on the
+    context on both sides, so the rule is symmetric there — and blind to the
+    number, which is why `quotes.missing_number` now compares numbers on their
+    own. A name does not: on the
     line `(KW2),` loses its `2` while the bare name `KW2` keeps it, so a name ending
     in a digit could never match — and stripping it from the name as well would
     make `KW1` to `KW4` one name. Escaping, emphasis, wrapping and attribution
     markers are context-free and stay.
     """
     import quotes
-    text = quotes.ESCAPE.sub(r"\1", text)
-    text = quotes.EMPHASIS.sub("", text)
-    return quotes.MARKER.sub("", quotes.WRAP.sub(" ", text)).strip()
+    return quotes.unglued(text).strip()
 
 
 def holds(line: str, term: str) -> bool:

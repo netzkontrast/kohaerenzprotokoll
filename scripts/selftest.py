@@ -62,7 +62,18 @@ FIND_CASES = [
      [272], None),
     ("declension-refused", "Die Natur einer Guardians", [], 272),
     ("fabricated-refused", "Jeder Guardian gehorcht AEGIS ohne Ausnahme", [], None),
+    ("number-refused", "Untersucht Kernwelt 3 (Logik/LogOS)", [], 152),
+    # A quote ending in a number: the line dropped it and the quote kept it,
+    # so this was refused as „95% in common" until the end counted as a boundary.
+    ("number-at-end-locates", "Untersucht Kernwelt 1", [152], None),
 ]
+
+# A number is part of the claim. The footnote rule drops a number after a word
+# on both sides, so this read as the line's „Kernwelt 1" until numbers were
+# compared on their own (2026-09-24: a chapter outline carries 268 such numbers
+# and not one footnote). The failure must be about the number, not the words.
+NUMBER_CASE = ('> „Untersucht Kernwelt 3 (Logik/LogOS) als direkte Manifestation von\n'
+               '> AEGIS\' Kernverarbeitungsstil" ^[L152]')
 
 # A quote crossing two lines cannot be cited at all, and must be told so rather
 # than resolved against either half.
@@ -101,6 +112,15 @@ def check_quotes() -> list[str]:
             failures.append(
                 f"{needle}: expected {'resolve' if must_resolve else 'UNRESOLVED'}, "
                 f"got {'resolve' if resolved else 'UNRESOLVED'}")
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "fixture.md"
+        path.write_text(f"---\nsource: Sources/drive/{DOC}.md\n---\n\n{NUMBER_CASE}\n",
+                        encoding="utf-8")
+        problems, _ = quotes.check_file(path, DOC)
+    if not problems:
+        failures.append("number: a wrong number resolved")
+    elif "number 3" not in problems[0]["why"]:
+        failures.append(f"number: unresolved for another reason — {problems[0]['why']}")
     return failures
 
 
@@ -138,12 +158,12 @@ def check_fold() -> list[str]:
 
 def main() -> int:
     failures = check_quotes() + check_find() + check_fold()
-    total = (len(QUOTE_CASES) + len(FIND_CASES) + 1
+    total = (len(QUOTE_CASES) + 1 + len(FIND_CASES) + 1
              + len(MUST_NOT_MERGE) + len(MUST_MERGE))
     for line in failures:
         print(f"  FAIL  {line}")
     print(f"\n{total - len(failures)} of {total} cases hold "
-          f"({len(QUOTE_CASES)} quotation, {len(FIND_CASES) + 1} citation, "
+          f"({len(QUOTE_CASES) + 1} quotation, {len(FIND_CASES) + 1} citation, "
           f"{len(MUST_NOT_MERGE) + len(MUST_MERGE)} fold)")
     if failures:
         print("\nA failure here means a checker other work depends on is not "
