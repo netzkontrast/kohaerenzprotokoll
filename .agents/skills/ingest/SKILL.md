@@ -191,6 +191,14 @@ already wrote and never touches a line carrying a `^[` citation — run `quotes.
 after it anyway, because the first such pass put a link inside two quotations and
 that is how it was found.
 
+**Then read every open conflict and question against the document, not only the
+ones its readings reached.** Reconciliation walks from the census to the pages,
+so a record is reached only through a page a new reading touched. Document 9
+restated the subjects of C1, C2, C3, Q1, Q3 and Q4 without a new surface, and the
+first pass reached none of them; collecting the author's questions found all six.
+The list is short — `ls Wiki/conflicts Wiki/questions` — and each record's
+subject line is enough to ask whether the document speaks to it.
+
 Write `Plan/runs/<slug>/reconcile.json` with `state_before` and `state_after`, and
 `Wiki/compare/reconcile-NN-<slug>.md` as the prose record. `references/artifacts.md`
 has the exact fields. Then:
