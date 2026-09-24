@@ -93,3 +93,15 @@ Outline above do. Kap 0 runs „Komponente 734 → Innere Weite" ^[kohaerenz-pro
 and then a crisis ending „Systemischer Kollaps → Trennungsprotokoll" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298]
 — 734 before. Its OQ-C sets the flashbacks „Kap 18 (Cluster-Bildung) · Kap 21
 (Trennungsprotokoll) · Kap 22 (Komp 734)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L477] — 734 after.
+
+## 2026-09-24 — audit: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` holds both orders too
+
+Row 2 gives this document's four beats with 734 before the [[trennungsprotokoll|Trennungsprotokoll]]
+(L72, then L73). Its chapter outline orders the flashbacks the other way:
+„Kael bekommt fragmentierte Genesis-Erinnerungen: das Cluster, das
+Trennungsprotokoll, Komp 734." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L878] — then Kap 18 „Genesis-Flashback:
+Cluster-Bildung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L996], Kap 21 „Genesis-Flashback: Trennungsprotokoll" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1002],
+Kap 22 „Genesis-Flashback: Komp 734" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1004] — 734 after. The same layout this
+record reads as *both orders* in the Kapitel-Kompendium and the strukturierter
+Outline, in the document that row 2 cites for the first order. Found by the
+record audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M12).
