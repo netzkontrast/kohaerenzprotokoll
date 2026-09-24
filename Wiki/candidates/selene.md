@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -29,3 +29,9 @@ One of the thirteen [[alters|Alters]] — ANP, „Integrator / ISH" in its headi
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10, one table row
 
 Its roster row gives category `ANP`, function `ISH` and arc `→ Mediatorin` ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L264]. Recorded in that document's reconciliation as not promoted, and attached here now that a profile exists.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Roster row: „Selene (ISH)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L379], correlate „Wormholes, Entanglement Islands" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L380], somatics „Hände entspannen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L381], arc „→ Mediatorin" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L382].
+
+The only Alter across both layers: „Schicht-übergreifend: Selene." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L439]
