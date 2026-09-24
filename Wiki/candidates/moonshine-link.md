@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -44,3 +44,7 @@ document's reconciliation withheld the page for that reason; this one defines it
 Kap 7: „Moonshine als Verlernen der Trennung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L196]. Kap 10: „K-J-Verbindung
 erstmals als Werkzeug" ^[kapitel-kompendium-gather-2026-05-31-md.md:L199]. The relationship throughline of A is „Physics
 (Moonshine-Link)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L123].
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+One of three ways between worlds: „Modus C — Über Resonanz (Moonshine-Link)." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L714], active from Kap 7.
