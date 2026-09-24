@@ -1,8 +1,8 @@
 {
-  "built": "2026-09-17",
+  "built": "2026-09-24",
   "by": "scripts/wiki_index.py",
-  "pages": 56,
-  "conflicts": 5,
+  "pages": 60,
+  "conflicts": 6,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -54,10 +54,11 @@
         "entropie-aegis",
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 4,
-      "readings": 5,
+      "sources": 5,
+      "readings": 6,
       "conflict": "C1"
     },
     "alters": {
@@ -68,10 +69,11 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 1,
+      "sources": 3,
+      "readings": 2,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -141,6 +143,19 @@
       "readings": 2,
       "conflict": "none"
     },
+    "coheron": {
+      "title": "Coheron",
+      "surfaces": [
+        "Coheron",
+        "coheron"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "datenverarbeitungsknoten-7g": {
       "title": "Datenverarbeitungsknoten 7G",
       "surfaces": [
@@ -165,10 +180,11 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "ecr": {
@@ -249,10 +265,11 @@
         "entropie-aegis",
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "C2"
     },
     "externe-ebene": {
@@ -263,10 +280,11 @@
       ],
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "grenzfeste": {
@@ -309,11 +327,12 @@
         "entropie-aegis",
         "guardians-und-kern-welten-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 4,
-      "readings": 4,
-      "conflict": "none yet"
+      "sources": 5,
+      "readings": 5,
+      "conflict": "C4,"
     },
     "juna": {
       "title": "Juna",
@@ -324,10 +343,11 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "junas-ankerpunkt": {
@@ -366,10 +386,11 @@
       ],
       "ingested": [
         "entropie-aegis",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "kaels-wohneinheit": {
@@ -380,10 +401,11 @@
         "kaels-wohneinheit"
       ],
       "ingested": [
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "kairos": {
@@ -412,11 +434,12 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "guardians-und-kern-welten-konzept",
         "aegis-subplots-kapitelweise-system-exploration-docx",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 4,
-      "readings": 3,
-      "conflict": "none"
+      "sources": 5,
+      "readings": 4,
+      "conflict": "C6"
     },
     "kohaerenz-programm": {
       "title": "Kohärenz-Programm",
@@ -438,10 +461,11 @@
         "kohaerenz"
       ],
       "ingested": [
-        "kohaerenzprotokoll-aegis-und-systementropie"
+        "kohaerenzprotokoll-aegis-und-systementropie",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "konstrukt-stadt": {
@@ -452,7 +476,21 @@
         "konstrukt-stadt"
       ],
       "ingested": [
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none"
+    },
+    "landauer-signatur": {
+      "title": "Landauer-Signatur",
+      "surfaces": [
+        "Landauer-Signatur",
+        "landauer-signatur"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
       "sources": 1,
       "readings": 1,
@@ -480,11 +518,12 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
-      "conflict": "none"
+      "sources": 3,
+      "readings": 3,
+      "conflict": "C4,"
     },
     "moeglichkeits-garten": {
       "title": "Möglichkeits-Garten",
@@ -496,10 +535,11 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "C5"
     },
     "multiplizitaet": {
@@ -510,10 +550,11 @@
         "multiplizitaet"
       ],
       "ingested": [
-        "entropie-aegis"
+        "entropie-aegis",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -542,6 +583,19 @@
       ],
       "sources": 2,
       "readings": 2,
+      "conflict": "none"
+    },
+    "nichts-rauschen": {
+      "title": "Nichts-Rauschen",
+      "surfaces": [
+        "Nichts-Rauschen",
+        "nichts-rauschen"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 1,
+      "readings": 1,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -664,10 +718,11 @@
       "ingested": [
         "entropie-aegis",
         "guardians-und-kern-welten-konzept",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "rsa": {
@@ -752,6 +807,19 @@
       "readings": 1,
       "conflict": "none"
     },
+    "trennungsprotokoll": {
+      "title": "Trennungsprotokoll",
+      "surfaces": [
+        "Trennungsprotokoll",
+        "trennungsprotokoll"
+      ],
+      "ingested": [
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "none"
+    },
     "ueberraum": {
       "title": "Überraum",
       "surfaces": [
@@ -775,10 +843,11 @@
       "ingested": [
         "entropie-aegis",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "roman-lokalitaeten-konzept-und-ausarbeitung"
+        "roman-lokalitaeten-konzept-und-ausarbeitung",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -839,6 +908,7 @@
     "ontologischerblinderfleck": "blinder-fleck",
     "blinderfleck": "blinder-fleck",
     "cerberus": "cerberus",
+    "coheron": "coheron",
     "datenverarbeitungsknoten7g": "datenverarbeitungsknoten-7g",
     "did": "did",
     "diddissoziativeidentitatsstruktur": "did",
@@ -879,6 +949,7 @@
     "koharenz": "kohaerenz",
     "kohaerenz": "kohaerenz",
     "konstruktstadt": "konstrukt-stadt",
+    "landauersignatur": "landauer-signatur",
     "logos": "logos",
     "mnemosyne": "mnemosyne",
     "moglichkeitsgarten": "moeglichkeits-garten",
@@ -889,6 +960,7 @@
     "multiplizitaet": "multiplizitaet",
     "negentropie": "negentropie",
     "nexus": "nexus",
+    "nichtsrauschen": "nichts-rauschen",
     "nullpunktprotokoll": "nullpunkt-protokoll",
     "partnerin": "partnerin",
     "bewusstseinsinstanzen": "personas",
@@ -917,6 +989,7 @@
     "groersystemmonitor": "system-monitor",
     "systemmonitor": "system-monitor",
     "therapieschnittstellealpha": "therapie-schnittstelle-alpha",
+    "trennungsprotokoll": "trennungsprotokoll",
     "ueberraum": "ueberraum",
     "uberraum": "ueberraum",
     "simulation": "ueberwelt",
@@ -974,6 +1047,19 @@
         "kairos",
         "sophia",
         "realitaetsebenen"
+      ],
+      "status": "open"
+    },
+    "C6": {
+      "subject": "Guardians and Kern-Welten",
+      "pages": [
+        "guardians",
+        "mnemosyne",
+        "logos",
+        "cerberus",
+        "kairos",
+        "sophia",
+        "kern-welten"
       ],
       "status": "open"
     }
