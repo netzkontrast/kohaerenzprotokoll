@@ -40,6 +40,7 @@ The log is `.install.log`.
 | `jev-decide` | `jev` | the vendored `jev*` skills in API mode |
 | `graphify` CLI | `graphify`, pinned to `4c73561` | the vendored `graphify` skill |
 | `cgr` (code-graph-rag) | `cgr` | nothing in the pipeline |
+| `he`, `he-mcp` (Hyper-Extract) | `hyperextract`, pinned to `395039e` | the `hyper-extract` MCP server in `.mcp.json` and the vendored `hyper*` skills |
 | qmd package and the `/usr/local/bin/qmd` shim | `qmd` — `scripts/setup_qmd.sh --package` | searching; nothing in the pipeline |
 | qmd's models (~2.1 GB), index and embeddings | `qmd-models` — `scripts/setup_qmd.sh`; **not** run at session start | vector search and `qmd query` |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
@@ -626,6 +627,35 @@ whose tokenizers needs a Rust build that fails.
 
 Both are installed and start; neither has been run against the corpus, and
 nothing in the pipeline calls them.
+
+**Hyper-Extract** (`netzkontrast/Hyper-Extract` at
+`395039ea49709b279971631a47569b931818abbb`, Apache-2.0) is three things here:
+
+- **`he`**, a uv tool on Python 3.12 with the `mcp`, `ingest` and `anthropic`
+  extras. `he parse` has a model read documents into a *Knowledge Abstract* —
+  a graph, hypergraph, list or record set shaped by a YAML template — and
+  `he template validate` checks a template without any model.
+- **`he-mcp`**, registered as the `hyper-extract` server in `.mcp.json`. Its
+  nine tools read and export an existing Knowledge Abstract (`list_templates`,
+  `info`, `search`, `ask`, `export_obsidian|graphml|csv|jsonld|cypher`); none of
+  them extracts. In a brand-new container the server can start before the
+  session hook has installed `he-mcp` — reconnect it with `/mcp`.
+- **Seven template-design skills**: `hyper-extract` (the entry point) and
+  `hyperextract-brainstorm`, `-record-designer`, `-graph-designer`,
+  `-yaml-validator`, `-template-optimizer`, `-multilingual`. Upstream nests them
+  in one `hyperextract-skills/` folder, which Claude Code does not discover, so
+  each is its own top-level folder with the prefix added; every file is
+  unchanged. Two of the bundled cases, `battle-analysis.yaml` and
+  `biography-events.yaml`, fail `he template validate` (HE-T001, not parseable)
+  as shipped.
+
+No provider is configured. `he` reads `~/.he/config.toml` and falls back to
+`OPENAI_API_KEY` and `OPENAI_BASE_URL`; the key goes in the environment's
+settings or `he config`, never in this repository. `he parse`, `search` and
+`ask` send text to that provider, so the Jev rule applies — the author's yes
+before corpus text goes. A Knowledge Abstract is a model's reading under the
+same limits as `knowledge-graph-extract`: no page, link or count comes from it,
+and it is written outside `Wiki/` and `Sources/`.
 
 ## Changing your mind
 

@@ -28,6 +28,7 @@ DSPY_VERSION="3.3.1"
 JEV_TAG="v0.2.0"
 GRAPHIFY_REF="4c735618f3d56fd622c2049771584621c31ba9ff"
 GRAWIKI_REF="920d181b7e82943f3557ce4debaaabfdeb924cde"
+HYPEREXTRACT_REF="395039ea49709b279971631a47569b931818abbb"
 
 # name | what it is for — the order is the install order
 COMPONENTS=(
@@ -40,12 +41,13 @@ COMPONENTS=(
   "jev|jev-decide CLI (uv tool) — the vendored jev* skills in API mode"
   "graphify|graphify CLI (uv tool) — the vendored graphify skill"
   "cgr|code-graph-rag CLI (uv tool, python 3.12) — cgr"
+  "hyperextract|he and he-mcp (uv tool, python 3.12) — Hyper-Extract, the hyper-extract MCP server"
   "qmd|qmd package in .tools-node and the /usr/local/bin/qmd shim"
   "qmd-models|qmd's ~2.1 GB models, index and embeddings — not in the default set"
 )
 DEFAULT_SKIP="qmd-models"
 
-say() { printf '  %-12s %s\n' "$1" "$2"; }
+say() { printf '  %-13s %s\n' "$1" "$2"; }
 have() { command -v "$1" >/dev/null 2>&1; }
 
 need_uv() {
@@ -66,6 +68,7 @@ present() {
     jev)        have jev-decide ;;
     graphify)   have graphify ;;
     cgr)        have cgr ;;
+    hyperextract) have he && have he-mcp ;;
     qmd)        [[ -x .tools-node/node_modules/.bin/qmd ]] && [[ -x /usr/local/bin/qmd ]] ;;
     qmd-models) scripts/setup_qmd.sh --check 2>/dev/null | grep -q "embeddings *complete" ;;
     *)          return 2 ;;
@@ -124,6 +127,10 @@ install_one() {
       # tokenizers 0.10.3 needs a Rust build that fails; 3.11 is refused outright.
       uv tool install -q --python 3.12 "code-graph-rag[treesitter-full,semantic]" \
         --with "transformers>=4.40" ;;
+    hyperextract)
+      need_uv || return 1
+      uv tool install -q --python 3.12 \
+        "hyperextract[mcp,ingest,anthropic] @ git+https://github.com/netzkontrast/Hyper-Extract@$HYPEREXTRACT_REF" ;;
     qmd)
       scripts/setup_qmd.sh --package ;;
     qmd-models)
