@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 9
-readings: 10
+sources: 10
+readings: 11
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -232,3 +232,11 @@ Its fate: „AEGIS-monolithisch erlischt; AEGIS-plural entsteht." ^[koharenz-pro
 
 In KW1: „AEGIS ist Umgebungsbedingung — keine Figur in KW1." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L179] In the
 Überwelt: „AEGIS hat kein Innen — er ist autopoietisch geschlossen." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L611]
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**Do-er, from this day.** „A: Be-er (vorher Do-er). B: Do-er (vorher Be-er)." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L29]
+— the lock-in the storyform-und-outline cites. AEGIS' doing is named: „AEGIS'
+Tragödie sind die 12 Protokolle, Erasure-Sweeps, Guardian-Deployments (*Tun*)."
+^[dramatica-dual-storyform-status-2026-05-07-md.md:L97] And its resolve: „AEGIS bleibt bis zum Ende bei Logic, adoptiert nie
+Feeling." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L222] Conflict C8.
