@@ -95,11 +95,11 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 985,
+      "value": 986,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
-      "value": 296,
+      "value": 298,
       "how": "quotations with no citation on their own line"
     },
     "quotes.unresolved": {

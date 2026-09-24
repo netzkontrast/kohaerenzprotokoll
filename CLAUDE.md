@@ -835,7 +835,9 @@ later without re-deriving the reasoning.
 ## Tracking work
 
 `NOW.md` holds what is open right now, one page, and things leave it when they
-are done. `Plan/decisions/` holds one short file per decision, permanently —
+are done. **Questions for the author are noted there, under their own heading, and
+work continues without waiting for the answer** — the author's instruction of
+2026-09-24. `Plan/decisions/` holds one short file per decision, permanently —
 what was chosen, what was rejected, what would change our mind. Git holds
 everything that happened. There is no board, no status field and no backlog.
 

@@ -9,6 +9,25 @@ python3 scripts/state.py            # everything, derived now
 python3 scripts/state.py --prose    # fail on any stale number in this file
 ```
 
+## Questions for the author — noted, not waited on
+
+**The author's instruction, 2026-09-24: „Notiere in Zukunft einfach deine Fragen
+und setze fort."** A question goes here, with where it came from, and the work
+continues. Nothing stops for an answer; when one arrives, it is recorded where
+the question lives (a conflict record, a `Wiki/questions/` page) and the line
+here goes.
+
+Decided so far: **C6** — five Guardians. **C9** — the Konstrukt-Stadt is KW1.
+
+- **Q5** — the five Guardians and the four Kern-Welten: paired one per world
+  (2025, Kairos and Sophia sharing one), or „KEIN Guardian-1:1" (2026)?
+- **Q5** — the Erasure-Pol: a sixth Guardian, a function of one of the five, or
+  gone?
+- **C7** — Juna's direct appearance: once, ca. Kap 33, or first in Kap 38?
+- **C8** — AEGIS' Approach in Storyform B: Be-er or Do-er?
+- **C10** — do Kael's knuckles bleed in Kap 1?
+- **C1–C5** — from the 2025 research documents; not yet put to the author.
+
 ## Open decisions — these are judgement, not measurement
 
 **How far the yes to TypeSafe reaches.** On 2026-09-23 the author said yes twice.
@@ -42,7 +61,7 @@ disagree. There is no such rule.
 may be a third surface for the same entity. Nothing read links them.
 
 **Whether the quote convention or the quote checker changes.**
-296 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
+298 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
 they carry no citation on their own line — usually a table cell whose line number
 sits in another column. One of the two has to give.
 
@@ -302,8 +321,8 @@ author and closes when the author decides it:
 - **C7** — Juna's direct appearance: once, ca. Kap 33 (Charakter-Bibel), or
   first in Kap 38 (storyform-und-outline)?
 - **C8** — AEGIS' Approach in Storyform B: Be-er or Do-er?
-- **C9** — **decided by the author, 2026-09-24: the whole simulation.** KW1's
-  own name is open in Q5.
+- **C9** — **decided by the author, 2026-09-24: the Konstrukt-Stadt is KW1**
+  (a first answer, recorded as „the whole simulation", was corrected the same day).
 - **C10** — do Kael's knuckles bleed in Kap 1?
 
 What it leaves for the next document: the consolidated concept
