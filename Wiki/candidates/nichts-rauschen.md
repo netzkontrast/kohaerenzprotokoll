@@ -1,10 +1,10 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -20,7 +20,7 @@ gathered: "2026-09-24"
 [[aegis|AEGIS]]' mistake about it is the source of the climax: „Diese Verwechslung ist die
 mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
 
-**It frames the novel.** Rauschen is the first thing in the Kap 0 genesis
+**It frames the novel.** Rauschen is the first thing in the Kap 0 [[genesis]]
 sequence („Rauschen → Herz der Leere", L298), and it returns in Kap 37: „das
 Rauschen, das hier beginnt, ist das Nichts-Rauschen" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386]. In Vortex 1 it
 goes silent — „Nichts-Rauschen wird absolute Stille" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L380].
@@ -47,3 +47,8 @@ It is the first of three simultaneous layers: „Schicht 1 — Nichts-Rauschen /
 
 „das „Nichts-Rauschen", das AEGIS für Chaos hält, ist die atemporale Vereinigung
 aller mutualen Information" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25].
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+The first layer: „Nichts-Rauschen / K₁-Reinform — pure Kohärenz, ungetrennt,
+zeitlos." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L73] „AEGIS und Kael sind hier eines." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L73]
