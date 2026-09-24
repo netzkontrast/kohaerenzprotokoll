@@ -1,0 +1,711 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>@TITLE@</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&amp;family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&amp;display=swap">
+<style>
+body{margin:0;background:#F3F0E8}
+.kp-hov:hover{background:#EFEADF !important}
+.kp-link:hover{text-decoration-color:#2B4C8C !important}
+.kp-app button:focus-visible,.kp-app a:focus-visible,.kp-app input:focus-visible{outline:2px solid #2B4C8C;outline-offset:2px}
+a{color:#2B4C8C}a:hover{color:#1D3566}
+</style>
+</helmet>
+<div class="kp-app" style="width: 1440px; height: 900px; display: flex; overflow: hidden; position: relative; background: #F3F0E8; color: #1C1B18; font-family: 'IBM Plex Sans', 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 1.45;">
+<nav aria-label="Project" style="width: 232px; flex-shrink: 0; display: flex; flex-direction: column; box-sizing: border-box; padding: 26px 14px 18px; background: #EAE5D8; border-right: 1px solid #D6CFBE;">
+<div style="display: flex; flex-direction: column; gap: 8px; padding: 0 10px 24px;">
+<div style="font-family: 'Newsreader', Georgia, serif; font-size: 26px; line-height: 1.02; font-weight: 600; letter-spacing: -0.02em; color: #1C1B18;">Kohärenz<br>Protokoll</div>
+<div style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: #645F53;">Wiki · Korpus · Graph</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 2px;">
+<button type="button" onClick="{{nav.now.go}}" aria-current="{{nav.now.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.now.bd}}; background: {{nav.now.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.now.fw}}; text-align: left; cursor: pointer;">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.now.ic}};"><rect x="3.5" y="3.5" width="7" height="7" rx="1.2"></rect><rect x="13.5" y="3.5" width="7" height="4.5" rx="1.2"></rect><rect x="13.5" y="11" width="7" height="9.5" rx="1.2"></rect><rect x="3.5" y="13.5" width="7" height="7" rx="1.2"></rect></svg>
+<span style="flex-grow: 1;">Now</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.now.n}}</span>
+</button>
+<button type="button" onClick="{{nav.wiki.go}}" aria-current="{{nav.wiki.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.wiki.bd}}; background: {{nav.wiki.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.wiki.fw}}; text-align: left; cursor: pointer;">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.wiki.ic}};"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H11v16H5.5A1.5 1.5 0 0 1 4 18.5z"></path><path d="M20 5.5A1.5 1.5 0 0 0 18.5 4H13v16h5.5a1.5 1.5 0 0 0 1.5-1.5z"></path></svg>
+<span style="flex-grow: 1;">Wiki</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.wiki.n}}</span>
+</button>
+<button type="button" onClick="{{nav.conflicts.go}}" aria-current="{{nav.conflicts.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.conflicts.bd}}; background: {{nav.conflicts.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.conflicts.fw}}; text-align: left; cursor: pointer;">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.conflicts.ic}};"><path d="M4 7.5h11"></path><path d="M12 4.5l3 3-3 3"></path><path d="M20 16.5H9"></path><path d="M12 13.5l-3 3 3 3"></path></svg>
+<span style="flex-grow: 1;">Conflicts</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.conflicts.n}}</span>
+</button>
+<button type="button" onClick="{{nav.questions.go}}" aria-current="{{nav.questions.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.questions.bd}}; background: {{nav.questions.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.questions.fw}}; text-align: left; cursor: pointer;">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.questions.ic}};"><circle cx="12" cy="12" r="8.5"></circle><path d="M9.6 9.5a2.5 2.5 0 0 1 4.8.9c0 1.7-2.4 2.1-2.4 3.6"></path><path d="M12 17.1v.2"></path></svg>
+<span style="flex-grow: 1;">Questions</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.questions.n}}</span>
+</button>
+<button type="button" onClick="{{nav.graph.go}}" aria-current="{{nav.graph.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.graph.bd}}; background: {{nav.graph.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.graph.fw}}; text-align: left; cursor: pointer;">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.graph.ic}};"><circle cx="6" cy="7" r="2.3"></circle><circle cx="18" cy="6" r="2.3"></circle><circle cx="12" cy="17.5" r="2.3"></circle><path d="M7 9.1l3.9 6.3"></path><path d="M16.9 8.1L13.1 15.4"></path><path d="M8.3 6.8l7.4-.6"></path></svg>
+<span style="flex-grow: 1;">Graph</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.graph.n}}</span>
+</button>
+<button type="button" onClick="{{nav.corpus.go}}" aria-current="{{nav.corpus.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.corpus.bd}}; background: {{nav.corpus.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.corpus.fw}}; text-align: left; cursor: pointer;">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.corpus.ic}};"><path d="M8 3.5h6.5l4 4v12.5a.5.5 0 0 1-.5.5H8a.5.5 0 0 1-.5-.5V4a.5.5 0 0 1 .5-.5z"></path><path d="M14.5 3.5v4h4"></path><path d="M4.5 7v13a1 1 0 0 0 1 1H14"></path></svg>
+<span style="flex-grow: 1;">Corpus</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.corpus.n}}</span>
+</button>
+<button type="button" onClick="{{nav.process.go}}" aria-current="{{nav.process.cur}}" class="kp-hov" style="display: flex; align-items: center; gap: 12px; width: 100%; min-height: 44px; padding: 0 12px; box-sizing: border-box; border-radius: 8px; border: 1px solid {{nav.process.bd}}; background: {{nav.process.bg}}; color: #1C1B18; font-family: inherit; font-size: 14.5px; font-weight: {{nav.process.fw}}; text-align: left; cursor: pointer;">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex-shrink: 0; color: {{nav.process.ic}};"><path d="M19.5 12a7.5 7.5 0 0 1-12.9 5.2"></path><path d="M4.5 12a7.5 7.5 0 0 1 12.9-5.2"></path><path d="M17.8 3.6v3.6h-3.6"></path><path d="M6.2 20.4v-3.6h3.6"></path></svg>
+<span style="flex-grow: 1;">Process</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{nav.process.n}}</span>
+</button>
+</div>
+<div style="flex-grow: 1;"></div>
+<button type="button" onClick="{{goChecks}}" class="kp-hov" style="display: flex; flex-direction: column; gap: 8px; width: 100%; padding: 14px 10px 12px; box-sizing: border-box; border: 0; border-top: 1px solid #D6CFBE; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Invariants</span>
+<sc-for list="{{railChecks}}" as="c" hint-placeholder-count="5">
+<span style="display: flex; align-items: center; gap: 8px; width: 100%; font-size: 12.5px;">
+<span style="width: 7px; height: 7px; border-radius: 4px; flex-shrink: 0; background: {{c.dot}};"></span>
+<span style="flex-grow: 1; color: #4A463E;">{{c.label}}</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: {{c.fg}};">{{c.val}}</span>
+</span>
+</sc-for>
+</button>
+<div style="padding: 8px 10px 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; line-height: 1.6; color: #645F53;">snapshot {{meta.commit}} · {{meta.date}}</div>
+</nav>
+<div style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column;">
+<header style="height: 76px; flex-shrink: 0; display: flex; align-items: center; gap: 24px; padding: 0 28px 0 32px; box-sizing: border-box; border-bottom: 1px solid #DDD6C6; position: relative; z-index: 20;">
+<div style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column; gap: 3px;">
+<h1 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 29px; line-height: 1.1; font-weight: 500; letter-spacing: -0.015em;">{{top.title}}</h1>
+<p style="margin: 0; font-size: 13px; color: #645F53; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{top.sub}}</p>
+</div>
+<div style="position: relative; width: 380px; flex-shrink: 0;">
+<label for="{{ids.search}}" style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;">Search the whole project</label>
+<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#645F53" stroke-width="2" stroke-linecap="round" aria-hidden="true" style="position: absolute; left: 13px; top: 14px; pointer-events: none;"><circle cx="11" cy="11" r="6.5"></circle><path d="M20 20l-4.2-4.2"></path></svg>
+<input id="{{ids.search}}" type="search" value="{{q}}" onChange="{{onQ}}" onKeyDown="{{onQKey}}" placeholder="Search pages, conflicts, sources, rules…" autocomplete="off" style="width: 100%; height: 44px; box-sizing: border-box; padding: 0 14px 0 38px; border-radius: 8px; border: 1px solid #C9C0AC; background: #FBFAF6; color: #1C1B18; font-family: inherit; font-size: 14px;">
+<sc-if value="{{sr.show}}" hint-placeholder-val="{{ false }}">
+<div style="position: absolute; right: 0; top: 52px; width: 520px; max-height: 620px; overflow-y: auto; box-sizing: border-box; padding: 8px; display: flex; flex-direction: column; gap: 8px; background: #FBFAF6; border: 1px solid #C9C0AC; border-radius: 10px; box-shadow: 0 20px 48px rgba(28, 27, 24, 0.16);">
+<sc-for list="{{sr.groups}}" as="grp" hint-placeholder-count="2">
+<div style="display: flex; flex-direction: column; gap: 1px;">
+<div style="padding: 6px 8px 4px; margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">{{grp.label}} · {{grp.n}}</div>
+<sc-for list="{{grp.items}}" as="it" hint-placeholder-count="3">
+<button type="button" onClick="{{it.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 12px; width: 100%; min-height: 44px; padding: 8px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; width: 52px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: {{it.kc}};">{{it.k}}</span>
+<span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px;">
+<span style="font-size: 14px; line-height: 1.3;">{{it.t}}</span>
+<span style="font-size: 12px; color: #645F53; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{it.s}}</span>
+</span>
+</button>
+</sc-for>
+</div>
+</sc-for>
+<sc-if value="{{sr.none}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; padding: 14px 8px; font-size: 13px; color: #645F53;">Nothing in the project matches „{{q}}“.</p></sc-if>
+</div>
+</sc-if>
+</div>
+</header>
+<div style="flex-grow: 1; min-height: 0; display: flex; flex-direction: column; position: relative;">
+<sc-if value="{{is.now}}" hint-placeholder-val="{{ true }}">
+<div style="flex-grow: 1; min-height: 0; display: flex; flex-direction: column; gap: 20px; padding: 24px 28px 24px 32px; box-sizing: border-box;">
+<div style="display: flex; align-items: flex-end; gap: 32px;">
+<p style="margin: 0; flex-grow: 1; max-width: 940px; font-family: 'Newsreader', Georgia, serif; font-size: 30px; line-height: 1.22; letter-spacing: -0.01em; color: #1C1B18;"><span>{{now.l1}}</span><span style="color: #4A463E;">{{now.l2}}</span><span style="color: #B0341E;">{{now.l3}}</span></p>
+<p style="margin: 0; flex-shrink: 0; text-align: right; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; line-height: 1.7; color: #645F53;">snapshot of commit {{meta.commit}}<br>{{meta.date}} · numbers from scripts/state.py</p>
+</div>
+<div style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px;">
+<sc-for list="{{now.tiles}}" as="t" hint-placeholder-count="6">
+<button type="button" onClick="{{t.go}}" class="kp-hov" style="display: flex; flex-direction: column; align-items: flex-start; gap: 8px; min-height: 134px; padding: 14px 16px 16px; box-sizing: border-box; border-radius: 10px; border: 1px solid #DDD6C6; background: #FBFAF6; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">{{t.label}}</span>
+<span style="display: flex; align-items: baseline; gap: 7px; flex-wrap: wrap;"><span style="font-family: 'Newsreader', Georgia, serif; font-size: 38px; line-height: 1; font-weight: 500; color: {{t.color}};">{{t.big}}</span><span style="font-size: 12.5px; color: #4A463E;">{{t.unit}}</span></span>
+<span style="display: flex; width: 100%; height: 4px; border-radius: 2px; overflow: hidden; background: #E6E0D2;"><span style="width: {{t.pct}}%; background: {{t.color}};"></span></span>
+<span style="font-size: 12.5px; line-height: 1.4; color: #4A463E;">{{t.sub}}</span>
+</button>
+</sc-for>
+</div>
+<div style="flex-grow: 1; min-height: 0; display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1.05fr) minmax(0, 0.9fr); gap: 14px;">
+<section aria-label="For the author" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden;">
+<div style="display: flex; align-items: baseline; gap: 10px; padding: 14px 18px 12px; border-bottom: 1px solid #E6E0D2;">
+<h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500;">For the author</h2>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">NOW.md · noted, not waited on</span>
+</div>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 6px 8px 16px;">
+<sc-for list="{{now.agenda}}" as="a" hint-placeholder-count="6">
+<button type="button" onClick="{{a.go}}" class="kp-hov" style="display: flex; align-items: flex-start; gap: 12px; width: 100%; padding: 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; width: 32px; padding-top: 2px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; font-weight: 500; color: {{a.idc}};">{{a.id}}</span>
+<span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column; gap: 3px;">
+<span style="font-size: 14px; line-height: 1.45;">@RUNSFLAT(a.q)@</span>
+<span style="font-size: 12px; color: #645F53;">{{a.meta}}</span>
+</span>
+<span style="flex-shrink: 0; margin-top: 1px; padding: 2px 8px; border-radius: 10px; font-size: 11.5px; background: {{a.stBg}}; color: {{a.stFg}};">{{a.st}}</span>
+</button>
+</sc-for>
+<h3 style="margin: 16px 10px 8px; margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">What no source settles</h3>
+<ul style="margin: 0; padding: 0 12px 0 30px; display: flex; flex-direction: column; gap: 9px; font-size: 13.5px; line-height: 1.5;">
+<sc-for list="{{now.unsettled}}" as="u" hint-placeholder-count="4"><li>@RUNS(u.runs)@</li></sc-for>
+</ul>
+</div>
+</section>
+<section aria-label="Reading log" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden;">
+<div style="display: flex; align-items: baseline; gap: 10px; padding: 14px 18px 12px; border-bottom: 1px solid #E6E0D2;">
+<h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500;">Reading log</h2>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{now.logSub}}</span>
+</div>
+<div aria-hidden="true" style="display: grid; grid-template-columns: 40px minmax(0, 1fr) 44px 50px 44px; gap: 8px; padding: 8px 18px 4px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase; color: #645F53;"><span></span><span>document</span><span style="text-align: right;">pages</span><span style="text-align: right;">readings</span><span style="text-align: right;">confl.</span></div>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 0 8px 12px;">
+<sc-for list="{{now.log}}" as="d" hint-placeholder-count="8">
+<button type="button" onClick="{{d.go}}" class="kp-hov" style="display: grid; grid-template-columns: 40px minmax(0, 1fr) 44px 50px 44px; gap: 8px; align-items: center; width: 100%; min-height: 44px; padding: 6px 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="justify-self: start; flex-shrink: 0; padding: 1px 5px; border-radius: 4px; border: 1px solid #2B4C8C; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; background: {{d.sigBg}}; color: {{d.sigFg}};">{{d.sig}}</span>
+<span style="min-width: 0; display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{d.title}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53;">{{d.date}} · {{d.cat}}</span></span>
+<span style="display: flex; flex-direction: column; align-items: flex-end; gap: 3px;"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px;">{{d.t}}</span><span style="display: block; height: 3px; border-radius: 2px; background: #1C1B18; width: {{d.tw}}%;"></span></span>
+<span style="display: flex; flex-direction: column; align-items: flex-end; gap: 3px;"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px;">{{d.r}}</span><span style="display: block; height: 3px; border-radius: 2px; background: #2B4C8C; width: {{d.rw}}%;"></span></span>
+<span style="display: flex; flex-direction: column; align-items: flex-end; gap: 3px;"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px;">{{d.c}}</span><span style="display: block; height: 3px; border-radius: 2px; background: #B0341E; width: {{d.cw}}%;"></span></span>
+</button>
+</sc-for>
+</div>
+</section>
+<section aria-label="Next session" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden;">
+<div style="display: flex; align-items: baseline; gap: 10px; padding: 14px 18px 12px; border-bottom: 1px solid #E6E0D2;">
+<h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500;">Next session starts here</h2>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">NOW.md</span>
+</div>
+<ol style="flex-grow: 1; min-height: 0; overflow-y: auto; margin: 0; padding: 12px 18px 14px 38px; display: flex; flex-direction: column; gap: 10px; font-size: 13px; line-height: 1.5;">
+<sc-for list="{{now.handover}}" as="h" hint-placeholder-count="4"><li>@RUNS(h.runs)@</li></sc-for>
+</ol>
+<button type="button" onClick="{{goChecks}}" class="kp-hov" style="display: flex; align-items: center; gap: 10px; width: 100%; min-height: 46px; padding: 0 18px; box-sizing: border-box; border: 0; border-top: 1px solid #E6E0D2; background: transparent; cursor: pointer; font-family: inherit; font-size: 12.5px; color: #4A463E; text-align: left;"><span style="width: 7px; height: 7px; flex-shrink: 0; border-radius: 4px; background: {{now.stDot}};"></span><span style="flex-grow: 1;">Self-tests: {{now.selftests}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #2B4C8C;">Invariants →</span></button>
+</section>
+</div>
+</div>
+</sc-if>
+<sc-if value="{{is.process}}" hint-placeholder-val="{{ false }}">
+<div role="tablist" aria-label="Process views" style="display: flex; gap: 2px; padding: 6px 28px 0 32px; flex-shrink: 0; border-bottom: 1px solid #DDD6C6;">
+<sc-for list="{{proc.tabs}}" as="t" hint-placeholder-count="6">
+<button type="button" role="tab" aria-selected="{{t.on}}" onClick="{{t.go}}" style="height: 44px; padding: 0 14px; margin-bottom: -1px; border: 0; border-bottom: 2px solid {{t.bd}}; background: transparent; cursor: pointer; font-family: inherit; font-size: 14px; font-weight: {{t.fw}}; color: {{t.fg}};">{{t.label}}</button>
+</sc-for>
+</div>
+</sc-if>
+<sc-if value="{{is.readerLayout}}" hint-placeholder-val="{{ false }}">
+<div style="flex-grow: 1; min-height: 0; display: flex;">
+<sc-if value="{{is.left}}" hint-placeholder-val="{{ false }}">
+<div style="width: 300px; flex-shrink: 0; min-height: 0; display: flex; flex-direction: column; border-right: 1px solid #DDD6C6;">
+<sc-if value="{{is.wiki}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 12px; padding: 16px 16px 14px; border-bottom: 1px solid #DDD6C6;">
+<label for="{{ids.wq}}" style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;">Filter the wiki's pages</label>
+<input id="{{ids.wq}}" type="search" value="{{w.q}}" onChange="{{w.onQ}}" placeholder="Filter by term or surface…" autocomplete="off" style="width: 100%; height: 40px; box-sizing: border-box; padding: 0 12px; border-radius: 8px; border: 1px solid #C9C0AC; background: #FBFAF6; color: #1C1B18; font-family: inherit; font-size: 14px;">
+<div role="group" aria-label="Which pages" style="display: flex; flex-wrap: wrap; gap: 6px;">
+<sc-for list="{{w.filters}}" as="f" hint-placeholder-count="4">
+<button type="button" onClick="{{f.go}}" aria-pressed="{{f.on}}" style="display: flex; align-items: center; gap: 6px; height: 32px; padding: 0 11px; border-radius: 16px; font-family: inherit; font-size: 12.5px; cursor: pointer; border: 1px solid {{f.bd}}; background: {{f.bg}}; color: {{f.fg}};">{{f.label}}<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; opacity: 0.75;">{{f.n}}</span></button>
+</sc-for>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px;">
+<span style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Read in document</span>
+<div role="group" aria-label="Read in document" style="display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 4px;">
+<sc-for list="{{w.docs}}" as="d" hint-placeholder-count="13">
+<button type="button" onClick="{{d.go}}" aria-pressed="{{d.on}}" title="{{d.title}}" style="height: 30px; padding: 0; border-radius: 5px; border: 1px solid #2B4C8C; background: {{d.bg}}; color: {{d.fg}}; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; cursor: pointer;">{{d.sig}}</button>
+</sc-for>
+</div>
+</div>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{w.count}}</span>
+</div>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 8px 24px; display: flex; flex-direction: column; gap: 2px;">
+<sc-for list="{{w.list}}" as="p" hint-placeholder-count="12">
+<button type="button" onClick="{{p.go}}" aria-current="{{p.cur}}" class="kp-hov" style="display: flex; flex-direction: column; gap: 3px; width: 100%; padding: 9px 12px; box-sizing: border-box; border-radius: 7px; border: 1px solid {{p.bd}}; background: {{p.bg}}; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="display: flex; align-items: baseline; gap: 8px; width: 100%;">
+<span style="flex-grow: 1; min-width: 0; font-family: 'Newsreader', Georgia, serif; font-size: 16.5px; line-height: 1.25; overflow-wrap: anywhere;">{{p.t}}</span>
+<sc-if value="{{p.hasC}}" hint-placeholder-val="{{ false }}"><span title="Contested in these conflict records" style="flex-shrink: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #B0341E;">{{p.cids}}</span></sc-if>
+</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{p.meta}}</span>
+</button>
+</sc-for>
+<sc-if value="{{w.empty}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; font-size: 13px; color: #645F53; padding: 12px;">No page matches this filter.</p></sc-if>
+</div>
+</sc-if>
+<sc-if value="{{is.conflicts}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 18px 18px 14px; border-bottom: 1px solid #DDD6C6;">
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 19px;">{{cl.head}}</span>
+<span style="font-size: 12.5px; line-height: 1.45; color: #645F53;">{{cl.sub}}</span>
+</div>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 8px 24px; display: flex; flex-direction: column; gap: 2px;">
+<sc-for list="{{cl.list}}" as="it" hint-placeholder-count="8">
+<button type="button" onClick="{{it.go}}" aria-current="{{it.cur}}" class="kp-hov" style="display: grid; grid-template-columns: 38px minmax(0, 1fr); gap: 4px 8px; width: 100%; padding: 10px 12px; box-sizing: border-box; border-radius: 7px; border: 1px solid {{it.bd}}; background: {{it.bg}}; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 13px; font-weight: 500; color: {{it.idc}}; padding-top: 1px;">{{it.id}}</span>
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 15.5px; line-height: 1.3;">{{it.main}}</span>
+<span></span>
+<span style="display: flex; align-items: center; gap: 8px; font-size: 12px; color: #645F53;"><span style="padding: 1px 8px; border-radius: 10px; font-size: 11px; background: {{it.stBg}}; color: {{it.stFg}};">{{it.st}}</span><span style="min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{it.sub}}</span></span>
+</button>
+</sc-for>
+</div>
+</sc-if>
+<sc-if value="{{is.questions}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 18px 18px 14px; border-bottom: 1px solid #DDD6C6;">
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 19px;">Open questions</span>
+<span style="font-size: 12.5px; line-height: 1.45; color: #645F53;">A question page is one that several term pages raise and no source read so far answers. It is where the answer will land.</span>
+</div>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 8px 24px; display: flex; flex-direction: column; gap: 2px;">
+<sc-for list="{{ql.list}}" as="it" hint-placeholder-count="5">
+<button type="button" onClick="{{it.go}}" aria-current="{{it.cur}}" class="kp-hov" style="display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 8px; width: 100%; padding: 10px 12px; box-sizing: border-box; border-radius: 7px; border: 1px solid {{it.bd}}; background: {{it.bg}}; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 13px; font-weight: 500; color: #B0341E; padding-top: 1px;">{{it.id}}</span>
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 15.5px; line-height: 1.3;">{{it.main}}</span>
+</button>
+</sc-for>
+<div style="margin: 14px 12px 6px; margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Noted for the author</div>
+<button type="button" onClick="{{ql.agenda.go}}" aria-current="{{ql.agenda.cur}}" class="kp-hov" style="display: grid; grid-template-columns: 34px minmax(0, 1fr); gap: 8px; width: 100%; padding: 10px 12px; box-sizing: border-box; border-radius: 7px; border: 1px solid {{ql.agenda.bd}}; background: {{ql.agenda.bg}}; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; color: #645F53; padding-top: 2px;">{{ql.agenda.n}}</span>
+<span style="display: flex; flex-direction: column; gap: 2px;"><span style="font-family: 'Newsreader', Georgia, serif; font-size: 15.5px; line-height: 1.3;">Everything waiting on the author</span><span style="font-size: 12px; color: #645F53;">NOW.md — conflicts, unsettled questions, process decisions</span></span>
+</button>
+</div>
+</sc-if>
+<sc-if value="{{is.procList}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 18px 18px 14px; border-bottom: 1px solid #DDD6C6;">
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 19px;">{{pl.head}}</span>
+<span style="font-size: 12.5px; line-height: 1.45; color: #645F53;">{{pl.sub}}</span>
+</div>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 8px 8px 24px; display: flex; flex-direction: column; gap: 2px;">
+<sc-for list="{{pl.items}}" as="it" hint-placeholder-count="8">
+<sc-if value="{{it.isGroup}}" hint-placeholder-val="{{ false }}"><div style="padding: 14px 12px 4px; margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">{{it.t}}</div></sc-if>
+<sc-if value="{{it.isBtn}}" hint-placeholder-val="{{ true }}">
+<button type="button" onClick="{{it.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; width: 100%; padding: 9px 12px; box-sizing: border-box; border-radius: 7px; border: 1px solid {{it.bd}}; background: {{it.bg}}; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; width: 34px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px; color: {{it.kc}};">{{it.k}}</span>
+<span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px;"><span style="font-size: 14px; line-height: 1.35;">{{it.t}}</span><sc-if value="{{it.hasS}}" hint-placeholder-val="{{ false }}"><span style="font-size: 11.5px; color: #645F53;">{{it.s}}</span></sc-if></span>
+</button>
+</sc-if>
+<sc-if value="{{it.isLink}}" hint-placeholder-val="{{ false }}">
+<a href="{{it.href}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; padding: 8px 12px; border-radius: 7px; text-decoration: none; color: #1C1B18; font-size: 13.5px; line-height: 1.35;"><span style="flex-shrink: 0; width: 22px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{it.k}}</span><span style="flex-grow: 1; min-width: 0;">{{it.t}}</span></a>
+</sc-if>
+</sc-for>
+</div>
+</sc-if>
+</div>
+</sc-if>
+<div ref="{{readerRef}}" style="flex-grow: 1; min-width: 0; overflow-y: auto; background: #FBFAF6;">
+<article style="max-width: {{rd.maxW}}px; margin: 0 auto; padding: 34px 44px 96px; display: flex; flex-direction: column; gap: 14px;">
+<header style="display: flex; flex-direction: column; gap: 12px; padding-bottom: 18px; border-bottom: 1px solid #E6E0D2;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; letter-spacing: 0.03em; color: #645F53; overflow-wrap: anywhere;">{{rd.kicker}}</span>
+<h2 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: {{rd.tsz}}px; line-height: 1.1; font-weight: 500; letter-spacing: -0.02em; color: #1C1B18;">{{rd.title}}</h2>
+<sc-if value="{{rd.hasSub}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; font-size: 16px; line-height: 1.5; color: #4A463E;">{{rd.sub}}</p></sc-if>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+<sc-for list="{{rd.chips}}" as="c" hint-placeholder-count="3"><span style="display: inline-flex; align-items: center; height: 24px; padding: 0 10px; border-radius: 12px; font-size: 12px; background: {{c.bg}}; color: {{c.fg}}; border: 1px solid {{c.bd}};">{{c.x}}</span></sc-for>
+</div>
+</header>
+<sc-if value="{{is.loop}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 14px; padding-top: 10px;">
+<h3 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 21px; font-weight: 500;">From Drive to an answer, in seven steps</h3>
+<div style="display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden; background: #F3F0E8;">
+<sc-for list="{{loop.steps}}" as="st" hint-placeholder-count="7">
+<div style="position: relative; display: flex; flex-direction: column; gap: 6px; padding: 14px 12px 16px; border-left: 1px solid {{st.bl}};">
+<sc-if value="{{st.arrow}}" hint-placeholder-val="{{ false }}"><span aria-hidden="true" style="position: absolute; left: -7px; top: 13px; width: 13px; height: 15px; background: #F3F0E8; color: #9A9384; font-size: 13px; line-height: 15px; text-align: center;">›</span></sc-if>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: {{st.vc}};">{{st.n}} · {{st.verb}}</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #4A463E; overflow-wrap: anywhere;">{{st.path}}</span>
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 32px; line-height: 1; font-weight: 500; color: {{st.color}};">{{st.big}}</span>
+<span style="font-size: 12px; line-height: 1.4; color: #4A463E;">{{st.cap}}</span>
+<span style="margin-top: auto; padding-top: 4px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; line-height: 1.45; color: #645F53;">{{st.how}}</span>
+</div>
+</sc-for>
+</div>
+<h3 style="margin: 14px 0 0; font-family: 'Newsreader', Georgia, serif; font-size: 21px; font-weight: 500;">The loop, phase by phase</h3>
+<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px;">
+<sc-for list="{{loop.phases}}" as="ph" hint-placeholder-count="6">
+<div style="display: flex; flex-direction: column; gap: 8px; padding: 16px 16px 18px; border: 1px solid #DDD6C6; border-radius: 10px; background: #FBFAF6;">
+<span style="display: flex; align-items: baseline; gap: 10px;"><span style="font-family: 'Newsreader', Georgia, serif; font-size: 30px; line-height: 1; color: #B0341E;">{{ph.n}}</span><span style="font-size: 15px; font-weight: 600;">{{ph.t}}</span></span>
+<span style="font-size: 13.5px; line-height: 1.5; color: #1C1B18;">{{ph.d}}</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; line-height: 1.6; color: #2B4C8C; white-space: pre-line;">{{ph.cmd}}</span>
+</div>
+</sc-for>
+</div>
+</div>
+</sc-if>
+<sc-if value="{{is.checks}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden; background: #FBFAF6; margin-top: 10px;">
+<div aria-hidden="true" style="display: grid; grid-template-columns: 84px minmax(0, 1.15fr) minmax(0, 1.4fr); gap: 16px; padding: 10px 16px; background: #EFEBE1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: #645F53;"><span>now</span><span>command · red means</span><span>what it said, run against this snapshot</span></div>
+<sc-for list="{{chk.rows}}" as="c" hint-placeholder-count="8">
+<div style="display: grid; grid-template-columns: 84px minmax(0, 1.15fr) minmax(0, 1.4fr); gap: 16px; padding: 14px 16px; border-top: 1px solid #E6E0D2; align-items: start;">
+<span style="justify-self: start; padding: 2px 9px; border-radius: 10px; font-size: 11.5px; font-weight: 500; background: {{c.bg}}; color: {{c.fg}};">{{c.st}}</span>
+<span style="display: flex; flex-direction: column; gap: 5px; min-width: 0;"><code style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12.5px; color: #1C1B18; overflow-wrap: anywhere;">{{c.cmd}}</code><span style="font-size: 12.5px; line-height: 1.45; color: #645F53;">Red means: @RUNS(c.red)@</span></span>
+<span style="font-size: 13px; line-height: 1.5; color: #1C1B18; overflow-wrap: anywhere;">{{c.line}}</span>
+</div>
+</sc-for>
+</div>
+</sc-if>
+<sc-for list="{{rd.secs}}" as="s" hint-placeholder-count="3">
+<section id="{{s.anchor}}" style="display: flex; flex-direction: column; gap: 12px; padding-top: {{s.pt}}px; scroll-margin-top: 12px;">
+<sc-if value="{{s.hasHead}}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; flex-direction: column; gap: 4px; padding-top: 18px; border-top: 1px solid #E6E0D2;">
+<h3 style="margin: 0; display: flex; align-items: baseline; gap: 10px; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.3; font-weight: 500; color: #1C1B18;">
+<sc-if value="{{s.hasSig}}" hint-placeholder-val="{{ false }}"><span title="{{s.sigTitle}}" style="position: relative; top: -2px; flex-shrink: 0; padding: 1px 5px; border-radius: 4px; border: 1px solid #2B4C8C; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; background: {{s.sigBg}}; color: {{s.sigFg}};">{{s.sig}}</span></sc-if>
+<span style="flex-grow: 1; min-width: 0;">@RUNS(s.head)@</span>
+</h3>
+<sc-if value="{{s.hasSig}}" hint-placeholder-val="{{ false }}"><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53; overflow-wrap: anywhere;">{{s.slug}}</span></sc-if>
+</div>
+</sc-if>
+<sc-for list="{{s.blocks}}" as="b" hint-placeholder-count="3">
+<sc-if value="{{b.isP}}" hint-placeholder-val="{{ true }}"><p style="margin: 0; font-size: 15px; line-height: 1.66; color: #1C1B18;">@RUNS(b.runs)@</p></sc-if>
+<sc-if value="{{b.isH}}" hint-placeholder-val="{{ false }}"><h4 style="margin: 8px 0 0; font-size: 14.5px; line-height: 1.4; font-weight: 600; color: #1C1B18;">@RUNS(b.runs)@</h4></sc-if>
+<sc-if value="{{b.isQ}}" hint-placeholder-val="{{ false }}"><blockquote style="margin: 2px 0; padding: 2px 0 2px 20px; border-left: 1px solid #C9C0AC; font-family: 'Newsreader', Georgia, serif; font-size: 17.5px; line-height: 1.5; color: #2A2823;">@RUNS(b.runs)@</blockquote></sc-if>
+<sc-if value="{{b.isUL}}" hint-placeholder-val="{{ false }}"><ul style="margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 7px; font-size: 15px; line-height: 1.6;"><sc-for list="{{b.items}}" as="it" hint-placeholder-count="3"><li>@RUNS(it.runs)@</li></sc-for></ul></sc-if>
+<sc-if value="{{b.isOL}}" hint-placeholder-val="{{ false }}"><ol style="margin: 0; padding-left: 24px; display: flex; flex-direction: column; gap: 7px; font-size: 15px; line-height: 1.6;"><sc-for list="{{b.items}}" as="it" hint-placeholder-count="3"><li>@RUNS(it.runs)@</li></sc-for></ol></sc-if>
+<sc-if value="{{b.isTB}}" hint-placeholder-val="{{ false }}">
+<div style="border: 1px solid #DDD6C6; border-radius: 8px; overflow: hidden; font-size: 13px; line-height: 1.5; color: #1C1B18; background: #FBFAF6;">
+<div style="display: grid; grid-template-columns: {{b.head.cols}}; background: #EFEBE1;">
+<sc-for list="{{b.head.cells}}" as="c" hint-placeholder-count="3"><div style="padding: 8px 10px; font-size: 12px; font-weight: 600; text-align: {{c.ta}}; overflow-wrap: anywhere;">@RUNS(c.runs)@</div></sc-for>
+</div>
+<sc-for list="{{b.rows}}" as="row" hint-placeholder-count="3">
+<div style="display: grid; grid-template-columns: {{row.cols}}; border-top: 1px solid #E6E0D2;">
+<sc-for list="{{row.cells}}" as="c" hint-placeholder-count="3"><div style="padding: 8px 10px; text-align: {{c.ta}}; overflow-wrap: anywhere;">@RUNS(c.runs)@</div></sc-for>
+</div>
+</sc-for>
+</div>
+</sc-if>
+<sc-if value="{{b.isPre}}" hint-placeholder-val="{{ false }}"><pre style="margin: 0; padding: 12px 14px; border-radius: 8px; background: #EFEBE1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; line-height: 1.55; white-space: pre; overflow-x: auto; color: #2A2823;">{{b.x}}</pre></sc-if>
+</sc-for>
+</section>
+</sc-for>
+</article>
+</div>
+<sc-if value="{{is.rail}}" hint-placeholder-val="{{ false }}">
+<aside aria-label="Context" style="width: 300px; flex-shrink: 0; min-height: 0; overflow-y: auto; box-sizing: border-box; padding: 22px 20px 40px; border-left: 1px solid #DDD6C6;">
+<sc-if value="{{is.wiki}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 24px;">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">On this page · {{wr.tocN}}</h3>
+<div style="display: flex; flex-direction: column; gap: 1px;">
+<sc-for list="{{wr.toc}}" as="t" hint-placeholder-count="4">
+<a href="{{t.href}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 8px; padding: 6px 8px; border-radius: 6px; text-decoration: none; color: #1C1B18; font-size: 13px; line-height: 1.35;">
+<sc-if value="{{t.hasSig}}" hint-placeholder-val="{{ false }}"><span style="flex-shrink: 0; padding: 1px 5px; border-radius: 4px; border: 1px solid #2B4C8C; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; background: {{t.sigBg}}; color: {{t.sigFg}};">{{t.sig}}</span></sc-if>
+<span style="flex-grow: 1; min-width: 0;">{{t.label}}</span>
+</a>
+</sc-for>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Read in</h3>
+<sc-for list="{{wr.reads}}" as="d" hint-placeholder-count="3">
+<button type="button" onClick="{{d.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; width: 100%; padding: 8px 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; padding: 1px 5px; border-radius: 4px; border: 1px solid #2B4C8C; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; background: {{d.sigBg}}; color: {{d.sigFg}};">{{d.sig}}</span>
+<span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 13px; line-height: 1.35; overflow-wrap: anywhere;">{{d.t}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53;">{{d.s}}</span></span>
+</button>
+</sc-for>
+</div>
+<sc-if value="{{wr.hasCx}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Contested in</h3>
+<sc-for list="{{wr.cx}}" as="c" hint-placeholder-count="1">
+<button type="button" onClick="{{c.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; width: 100%; padding: 8px 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; width: 30px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; font-weight: 500; color: #B0341E;">{{c.id}}</span>
+<span style="flex-grow: 1; min-width: 0; font-size: 13px; line-height: 1.4;">{{c.t}}</span>
+</button>
+</sc-for>
+</div>
+</sc-if>
+<sc-if value="{{wr.hasQx}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Raised in</h3>
+<sc-for list="{{wr.qx}}" as="c" hint-placeholder-count="1">
+<button type="button" onClick="{{c.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; width: 100%; padding: 8px 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; width: 30px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; font-weight: 500; color: #B0341E;">{{c.id}}</span>
+<span style="flex-grow: 1; min-width: 0; font-size: 13px; line-height: 1.4;">{{c.t}}</span>
+</button>
+</sc-for>
+</div>
+</sc-if>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Links to · {{wr.outN}}</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{wr.out}}" as="c" hint-placeholder-count="4"><button type="button" onClick="{{c.go}}" class="kp-hov" style="min-height: 30px; padding: 3px 11px; border-radius: 15px; border: 1px solid #C9C0AC; background: #FBFAF6; cursor: pointer; font-family: 'Newsreader', Georgia, serif; font-size: 14.5px; line-height: 1.3; color: #1C1B18; text-align: left;">{{c.t}}</button></sc-for></div>
+<sc-if value="{{wr.outNone}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; font-size: 13px; color: #645F53;">This page links to no other page.</p></sc-if>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Linked from · {{wr.inN}}</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{wr.inn}}" as="c" hint-placeholder-count="4"><button type="button" onClick="{{c.go}}" class="kp-hov" style="min-height: 30px; padding: 3px 11px; border-radius: 15px; border: 1px solid #C9C0AC; background: #FBFAF6; cursor: pointer; font-family: 'Newsreader', Georgia, serif; font-size: 14.5px; line-height: 1.3; color: #1C1B18; text-align: left;">{{c.t}}</button></sc-for></div>
+<sc-if value="{{wr.inNone}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; font-size: 13px; color: #645F53;">An orphan: nothing links here yet.</p></sc-if>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Quotations on this page · {{wr.evN}}</h3>
+<div style="display: flex; height: 8px; border-radius: 4px; overflow: hidden; background: #E6E0D2;"><span style="width: {{wr.evV}}%; background: #2B4C8C;"></span><span style="width: {{wr.evU}}%; background: #B8AF9B;"></span><span style="width: {{wr.evX}}%; background: #B0341E;"></span></div>
+<div style="display: flex; flex-direction: column; gap: 4px; font-size: 12.5px; color: #4A463E;">
+<span style="display: flex; align-items: center; gap: 8px;"><span style="width: 8px; height: 8px; border-radius: 2px; background: #2B4C8C;"></span><span style="flex-grow: 1;">verified against their line</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px;">{{wr.ev0}}</span></span>
+<span style="display: flex; align-items: center; gap: 8px;"><span style="width: 8px; height: 8px; border-radius: 2px; background: #B8AF9B;"></span><span style="flex-grow: 1;">no checkable citation</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px;">{{wr.ev1}}</span></span>
+<span style="display: flex; align-items: center; gap: 8px;"><span style="width: 8px; height: 8px; border-radius: 2px; background: #B0341E;"></span><span style="flex-grow: 1;">do not resolve</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px;">{{wr.ev2}}</span></span>
+</div>
+</div>
+<sc-if value="{{wr.hasSf}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Surfaces folded to this page</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 4px;"><sc-for list="{{wr.sf}}" as="x" hint-placeholder-count="4"><span style="padding: 2px 7px; border-radius: 4px; background: #EFEBE1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #3A3730;">{{x.x}}</span></sc-for></div>
+</div>
+</sc-if>
+<button type="button" onClick="{{wr.graph}}" class="kp-hov" style="display: flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 0 14px; border-radius: 8px; border: 1px solid #2B4C8C; background: #FBFAF6; color: #2B4C8C; cursor: pointer; font-family: inherit; font-size: 13.5px; font-weight: 500;">Show this page in the graph</button>
+</div>
+</sc-if>
+<sc-if value="{{is.conflicts}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 24px;">
+<sc-if value="{{cr.hasNp}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">The question · NOW.md</h3>
+<p style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 19px; line-height: 1.3; color: #1C1B18;">@RUNS(cr.q)@</p>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">The positions</h3>
+<p style="margin: 0; font-size: 13.5px; line-height: 1.55; color: #1C1B18;">@RUNS(cr.pos)@</p>
+</div>
+</sc-if>
+<sc-if value="{{cr.decided}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Decided by the author</h3>
+<p style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 17px; line-height: 1.4; color: #1C1B18;">{{cr.status}}</p>
+</div>
+</sc-if>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Pages it contests · {{cr.pagesN}}</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{cr.pages}}" as="c" hint-placeholder-count="3"><button type="button" onClick="{{c.go}}" class="kp-hov" style="min-height: 30px; padding: 3px 11px; border-radius: 15px; border: 1px solid #C9C0AC; background: #FBFAF6; cursor: pointer; font-family: 'Newsreader', Georgia, serif; font-size: 14.5px; line-height: 1.3; color: #1C1B18; text-align: left;">{{c.t}}</button></sc-for></div>
+</div>
+<sc-if value="{{cr.hasQs}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Questions it touches</h3>
+<sc-for list="{{cr.qs}}" as="c" hint-placeholder-count="1">
+<button type="button" onClick="{{c.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; width: 100%; padding: 8px 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; width: 30px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; font-weight: 500; color: #B0341E;">{{c.id}}</span>
+<span style="flex-grow: 1; min-width: 0; font-size: 13px; line-height: 1.4;">{{c.t}}</span>
+</button>
+</sc-for>
+</div>
+</sc-if>
+<div style="display: flex; flex-direction: column; gap: 6px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Record</h3>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; line-height: 1.6; color: #4A463E; overflow-wrap: anywhere;">{{cr.path}}</span>
+<span style="font-size: 12.5px; color: #645F53;">first seen {{cr.first}} · {{cr.src}} sources</span>
+</div>
+</div>
+</sc-if>
+<sc-if value="{{is.questions}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 24px;">
+<sc-if value="{{qr.isQ}}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Raised by · {{qr.raisedN}} pages</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{qr.raised}}" as="c" hint-placeholder-count="3"><button type="button" onClick="{{c.go}}" class="kp-hov" style="min-height: 30px; padding: 3px 11px; border-radius: 15px; border: 1px solid #C9C0AC; background: #FBFAF6; cursor: pointer; font-family: 'Newsreader', Georgia, serif; font-size: 14.5px; line-height: 1.3; color: #1C1B18; text-align: left;">{{c.t}}</button></sc-for></div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Documents it asks · {{qr.docsN}}</h3>
+<sc-for list="{{qr.docs}}" as="d" hint-placeholder-count="3">
+<button type="button" onClick="{{d.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; width: 100%; padding: 8px 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; padding: 1px 5px; border-radius: 4px; border: 1px solid #2B4C8C; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; background: {{d.sigBg}}; color: {{d.sigFg}};">{{d.sig}}</span>
+<span style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 13px; line-height: 1.35; overflow-wrap: anywhere;">{{d.t}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53;">{{d.s}}</span></span>
+</button>
+</sc-for>
+</div>
+<sc-if value="{{qr.hasConf}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Conflicts it concerns</h3>
+<sc-for list="{{qr.conf}}" as="c" hint-placeholder-count="1">
+<button type="button" onClick="{{c.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; width: 100%; padding: 8px 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="flex-shrink: 0; width: 30px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 12px; font-weight: 500; color: #B0341E;">{{c.id}}</span>
+<span style="flex-grow: 1; min-width: 0; font-size: 13px; line-height: 1.4;">{{c.t}}</span>
+</button>
+</sc-for>
+</div>
+</sc-if>
+<div style="display: flex; flex-direction: column; gap: 6px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Record</h3>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; line-height: 1.6; color: #4A463E; overflow-wrap: anywhere;">{{qr.path}}</span>
+</div>
+</sc-if>
+<sc-if value="{{qr.isAgenda}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Noted, not waited on · NOW.md</h3>
+<p style="margin: 0; font-size: 13.5px; line-height: 1.55; color: #1C1B18;">@RUNS(qr.intro)@</p>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">On the list</h3>
+<p style="margin: 0; font-size: 13.5px; line-height: 1.5; color: #1C1B18;">{{qr.counts}}</p>
+</div>
+</sc-if>
+</div>
+</sc-if>
+</aside>
+</sc-if>
+</div>
+</sc-if>
+<sc-if value="{{is.graph}}" hint-placeholder-val="{{ false }}">
+<div style="flex-grow: 1; min-height: 0; display: flex;">
+<div style="flex-grow: 1; min-width: 0; display: flex; flex-direction: column; gap: 12px; padding: 14px 24px 18px 32px; box-sizing: border-box;">
+<div role="group" aria-label="Edge types" style="display: flex; align-items: center; gap: 6px; flex-wrap: wrap;">
+<sc-for list="{{g.types}}" as="t" hint-placeholder-count="7">
+<button type="button" onClick="{{t.go}}" aria-pressed="{{t.on}}" style="display: flex; align-items: center; gap: 6px; height: 32px; padding: 0 9px; border-radius: 16px; border: 1px solid {{t.bd}}; background: {{t.bg}}; opacity: {{t.op}}; cursor: pointer; font-family: inherit; font-size: 12.5px; color: #1C1B18;">
+<svg width="18" height="6" viewBox="0 0 18 6" aria-hidden="true"><line x1="0" y1="3" x2="18" y2="3" stroke="{{t.color}}" stroke-width="2" stroke-dasharray="{{t.dash}}"></line></svg>
+<span>{{t.label}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{t.n}}</span>
+</button>
+</sc-for>
+</div>
+<div style="position: relative; width: 852px; height: 740px; flex-shrink: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 12px; overflow: hidden;">
+<svg width="852" height="740" viewBox="0 0 852 740" aria-hidden="true" style="position: absolute; left: 0; top: 0;">
+<ellipse cx="426" cy="370" rx="392" ry="336" fill="none" stroke="#E6E0D2" stroke-width="1" stroke-dasharray="2 5"></ellipse>
+<sc-for list="{{g.edges}}" as="e" hint-placeholder-count="0"><line x1="{{e.x1}}" y1="{{e.y1}}" x2="{{e.x2}}" y2="{{e.y2}}" stroke="{{e.c}}" stroke-width="{{e.w}}" stroke-opacity="{{e.o}}" stroke-dasharray="{{e.d}}"></line></sc-for>
+</svg>
+<sc-for list="{{g.nodes}}" as="n" hint-placeholder-count="0">
+<button type="button" onClick="{{n.go}}" onMouseEnter="{{n.enter}}" onMouseLeave="{{n.leave}}" aria-label="{{n.aria}}" aria-pressed="{{n.on}}" style="position: absolute; left: {{n.x}}px; top: {{n.y}}px; width: {{n.hit}}px; height: {{n.hit}}px; margin-left: {{n.off}}px; margin-top: {{n.off}}px; padding: 0; border: 0; background: transparent; display: flex; align-items: center; justify-content: center; cursor: pointer; opacity: {{n.op}}; z-index: {{n.z}};">
+<span style="flex-shrink: 0; display: flex; align-items: center; justify-content: center; width: {{n.sz}}px; height: {{n.sz}}px; box-sizing: border-box; border-radius: {{n.rad}}; background: {{n.bg}}; border: {{n.bw}}px solid {{n.bc}}; transform: rotate({{n.rot}}deg);"><span style="transform: rotate({{n.unrot}}deg); font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10px; font-weight: 500; line-height: 1; color: {{n.tc}};">{{n.inner}}</span></span>
+<sc-if value="{{n.showR}}" hint-placeholder-val="{{ false }}"><span style="position: absolute; left: 100%; top: 50%; transform: translateY(-50%); white-space: nowrap; padding: 1px 5px; border-radius: 4px; background: rgba(251, 250, 246, 0.92); font-size: {{n.lfs}}px; font-weight: {{n.lfw}}; line-height: 1.3; color: #1C1B18; pointer-events: none;">{{n.label}}</span></sc-if>
+<sc-if value="{{n.showL}}" hint-placeholder-val="{{ false }}"><span style="position: absolute; right: 100%; top: 50%; transform: translateY(-50%); white-space: nowrap; padding: 1px 5px; border-radius: 4px; background: rgba(251, 250, 246, 0.92); font-size: {{n.lfs}}px; font-weight: {{n.lfw}}; line-height: 1.3; color: #1C1B18; pointer-events: none;">{{n.label}}</span></sc-if>
+</button>
+</sc-for>
+</div>
+</div>
+<aside aria-label="Selected node" style="width: 300px; flex-shrink: 0; min-height: 0; overflow-y: auto; box-sizing: border-box; padding: 18px 20px 40px; border-left: 1px solid #DDD6C6; display: flex; flex-direction: column; gap: 22px;">
+<div style="display: flex; align-items: center; gap: 10px;"><span style="flex-grow: 1; margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Labels</span><button type="button" onClick="{{g.toggleLabels}}" aria-pressed="{{g.labelsOn}}" class="kp-hov" style="height: 32px; padding: 0 12px; border-radius: 16px; border: 1px solid #C9C0AC; background: #FBFAF6; cursor: pointer; font-family: inherit; font-size: 12.5px; color: #1C1B18;">{{g.labelsLabel}}</button></div>
+<sc-if value="{{g.hasSel}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53; overflow-wrap: anywhere;">{{g.rail.kind}}</span>
+<h2 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 26px; line-height: 1.15; font-weight: 500;">{{g.rail.title}}</h2>
+<p style="margin: 0; font-size: 13px; line-height: 1.5; color: #4A463E;">{{g.rail.sub}}</p>
+<div style="display: flex; gap: 8px;">
+<button type="button" onClick="{{g.rail.open}}" style="flex-grow: 1; min-height: 44px; padding: 0 14px; border-radius: 8px; border: 1px solid #1C1B18; background: #1C1B18; color: #FBFAF6; cursor: pointer; font-family: inherit; font-size: 13.5px; font-weight: 500;">{{g.rail.openLabel}}</button>
+<button type="button" onClick="{{g.rail.clear}}" class="kp-hov" style="min-height: 44px; padding: 0 14px; border-radius: 8px; border: 1px solid #C9C0AC; background: #FBFAF6; color: #1C1B18; cursor: pointer; font-family: inherit; font-size: 13.5px;">Clear</button>
+</div>
+</div>
+<sc-for list="{{g.rail.groups}}" as="grp" hint-placeholder-count="3">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">{{grp.label}} · {{grp.n}}</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{grp.items}}" as="it" hint-placeholder-count="3"><button type="button" onClick="{{it.go}}" class="kp-hov" style="min-height: 30px; padding: 3px 10px; border-radius: 15px; border: 1px solid {{it.bc}}; background: #FBFAF6; cursor: pointer; font-family: inherit; font-size: 12.5px; line-height: 1.35; color: #1C1B18; text-align: left;">{{it.t}}</button></sc-for></div>
+</div>
+</sc-for>
+</sc-if>
+<sc-if value="{{g.noSel}}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+<h2 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 24px; line-height: 1.2; font-weight: 500;">Documents on the rim, in reading order</h2>
+<p style="margin: 0; font-size: 13.5px; line-height: 1.55; color: #4A463E;">D1 sits at the top, then clockwise. Each page is pulled toward the pages it links and the documents that read it. Nothing here is inferred: every edge is a line in a file.</p>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Shapes</h3>
+<div style="display: flex; flex-direction: column; gap: 7px; font-size: 13px; color: #1C1B18;">
+<span style="display: flex; align-items: center; gap: 10px;"><span style="width: 14px; height: 14px; border-radius: 7px; background: #1C1B18;"></span>Page — size by its links</span>
+<span style="display: flex; align-items: center; gap: 10px;"><span style="width: 14px; height: 14px; border-radius: 3px; border: 1px solid #2B4C8C; background: #E4E9F2; box-sizing: border-box;"></span>Document, 2025 research</span>
+<span style="display: flex; align-items: center; gap: 10px;"><span style="width: 14px; height: 14px; border-radius: 3px; background: #2B4C8C;"></span>Document, 2026 canon era</span>
+<span style="display: flex; align-items: center; gap: 10px;"><span style="width: 11px; height: 11px; margin: 0 1.5px; transform: rotate(45deg); background: #B0341E;"></span>Conflict — dark once decided</span>
+<span style="display: flex; align-items: center; gap: 10px;"><span style="width: 14px; height: 14px; border-radius: 7px; border: 2.5px solid #B0341E; box-sizing: border-box;"></span>Question</span>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Most linked pages</h3>
+<sc-for list="{{g.top}}" as="it" hint-placeholder-count="6">
+<button type="button" onClick="{{it.go}}" class="kp-hov" style="display: flex; align-items: baseline; gap: 10px; width: 100%; padding: 8px 10px; box-sizing: border-box; border: 0; border-radius: 6px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18; padding: 6px 10px;"><span style="flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 15px;">{{it.t}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{it.d}}</span></button>
+</sc-for>
+</div>
+</sc-if>
+</aside>
+</div>
+</sc-if>
+<sc-if value="{{is.corpus}}" hint-placeholder-val="{{ false }}">
+<div style="flex-grow: 1; min-height: 0; display: flex;">
+<div style="flex-grow: 1; min-width: 0; min-height: 0; display: flex; flex-direction: column;">
+<div style="display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 14px; padding: 18px 24px 12px 32px; flex-shrink: 0;">
+<section aria-label="Rows by category" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden; padding: 12px 14px 12px;">
+<div style="display: flex; align-items: baseline; gap: 10px; padding: 0 4px 8px;"><h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500; font-size: 17px;">By category</h2><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53;">landed / rows · click to filter</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;">
+<sc-for list="{{cp.cats}}" as="c" hint-placeholder-count="13">
+<button type="button" onClick="{{c.go}}" aria-pressed="{{c.on}}" title="{{c.desc}}" style="display: grid; grid-template-columns: 136px minmax(0, 1fr) 72px; gap: 10px; align-items: center; width: 100%; min-height: 19px; padding: 1px 4px; box-sizing: border-box; border-radius: 4px; border: 1px solid {{c.bd}}; background: {{c.bg}}; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{c.name}}</span>
+<span style="display: flex; height: 9px;"><span style="width: {{c.lw}}%; background: #2B4C8C; border-radius: 2px 0 0 2px;"></span><span style="width: {{c.uw}}%; background: #D9D2C1; border-radius: 0 2px 2px 0;"></span></span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; text-align: right; color: #4A463E;">{{c.n}}</span>
+</button>
+</sc-for>
+</div>
+</section>
+<section aria-label="Rows by month" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden; padding: 12px 14px 10px;">
+<div style="display: flex; align-items: baseline; gap: 10px; padding: 0 4px 8px;"><h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500; font-size: 17px;">By month of the Drive index</h2><span style="display: flex; align-items: center; gap: 6px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53;"><span style="width: 9px; height: 9px; background: #F6E4DC; border: 1px solid #E8C2B4;"></span>canon era</span></div>
+<div style="flex-grow: 1; display: flex; align-items: flex-end; gap: 3px; min-height: 180px; padding: 0 4px;">
+<sc-for list="{{cp.months}}" as="m" hint-placeholder-count="18">
+<div title="{{m.title}}" style="flex-grow: 1; flex-basis: 0; min-width: 0; align-self: stretch; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; gap: 2px; padding: 0 1px; background: {{m.band}}; border-radius: 3px;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 9.5px; color: #645F53;">{{m.n}}</span>
+<span style="width: 100%; height: {{m.uh}}px; background: #D9D2C1; border-radius: 2px 2px 0 0;"></span>
+<span style="width: 100%; height: {{m.lh}}px; background: #2B4C8C;"></span>
+<span style="height: 12px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 9.5px; color: #4A463E;">{{m.label}}</span>
+<span style="height: 12px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 9px; color: #645F53;">{{m.year}}</span>
+</div>
+</sc-for>
+</div>
+</section>
+</div>
+<div style="display: flex; align-items: center; gap: 8px; padding: 0 24px 12px 32px; flex-shrink: 0; flex-wrap: wrap;">
+<div style="width: 280px;">
+<label for="{{ids.cq}}" style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;">Filter the corpus by title or slug</label>
+<input id="{{ids.cq}}" type="search" value="{{cp.q}}" onChange="{{cp.onQ}}" placeholder="Filter by title or slug…" autocomplete="off" style="width: 100%; height: 40px; box-sizing: border-box; padding: 0 12px; border-radius: 8px; border: 1px solid #C9C0AC; background: #FBFAF6; color: #1C1B18; font-family: inherit; font-size: 14px;">
+</div>
+<div role="group" aria-label="Which rows" style="display: flex; gap: 6px; flex-wrap: wrap;">
+<sc-for list="{{cp.filters}}" as="f" hint-placeholder-count="5">
+<button type="button" onClick="{{f.go}}" aria-pressed="{{f.on}}" style="display: flex; align-items: center; gap: 6px; height: 32px; padding: 0 11px; border-radius: 16px; font-family: inherit; font-size: 12.5px; cursor: pointer; border: 1px solid {{f.bd}}; background: {{f.bg}}; color: {{f.fg}};">{{f.label}}<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; opacity: 0.75;">{{f.n}}</span></button>
+</sc-for>
+</div>
+<sc-if value="{{cp.hasCat}}" hint-placeholder-val="{{ false }}"><button type="button" onClick="{{cp.clearCat}}" style="display: flex; align-items: center; gap: 6px; height: 32px; padding: 0 11px; border-radius: 16px; font-family: inherit; font-size: 12.5px; cursor: pointer; border: 1px solid #2B4C8C; background: #E4E9F2; color: #2B4C8C;">{{cp.catName}}<span aria-hidden="true">×</span><span style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;">clear the category filter</span></button></sc-if>
+<span style="flex-grow: 1;"></span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;">{{cp.count}}</span>
+</div>
+<div style="flex-grow: 1; min-height: 0; overflow-y: auto; padding: 0 24px 24px 32px;">
+<div aria-hidden="true" style="display: grid; grid-template-columns: 76px minmax(0, 1fr) 150px 92px 52px; gap: 12px; padding: 6px 12px; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase; color: #645F53; border-bottom: 1px solid #DDD6C6;"><span>status</span><span>title · slug</span><span>category</span><span>indexed</span><span>format</span></div>
+<sc-for list="{{cp.rows}}" as="row" hint-placeholder-count="10">
+<button type="button" onClick="{{row.go}}" aria-current="{{row.cur}}" class="kp-hov" style="display: grid; grid-template-columns: 76px minmax(0, 1fr) 150px 92px 52px; gap: 12px; align-items: center; width: 100%; min-height: 48px; padding: 6px 12px; box-sizing: border-box; border: 1px solid {{row.bd}}; border-radius: 6px; background: {{row.bg}}; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
+<span style="justify-self: start; padding: 1px 6px; border-radius: 4px; border: 1px solid {{row.sBd}}; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; background: {{row.sBg}}; color: {{row.sFg}};">{{row.st}}</span>
+<span style="min-width: 0; display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 13.5px; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{row.t}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{row.slug}}</span></span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #4A463E; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{row.cat}}</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #4A463E;">{{row.date}}</span>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #4A463E;">{{row.fmt}}</span>
+</button>
+</sc-for>
+<sc-if value="{{cp.more}}" hint-placeholder-val="{{ false }}"><button type="button" onClick="{{cp.showAll}}" class="kp-hov" style="margin-top: 10px; width: 100%; min-height: 44px; border-radius: 8px; border: 1px solid #C9C0AC; background: #FBFAF6; cursor: pointer; font-family: inherit; font-size: 13.5px; color: #1C1B18;">Show all {{cp.n}} rows</button></sc-if>
+</div>
+</div>
+<aside aria-label="Selected document" style="width: 300px; flex-shrink: 0; min-height: 0; overflow-y: auto; box-sizing: border-box; padding: 22px 20px 40px; border-left: 1px solid #DDD6C6; display: flex; flex-direction: column; gap: 22px;">
+<sc-if value="{{cp.rail.has}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 8px;">
+<sc-if value="{{cp.rail.isRead}}" hint-placeholder-val="{{ false }}"><span style="flex-shrink: 0; padding: 1px 5px; border-radius: 4px; border: 1px solid #2B4C8C; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; font-size: 12px; background: {{cp.rail.sigBg}}; color: {{cp.rail.sigFg}};">{{cp.rail.sig}}</span></sc-if>
+<span style="flex-grow: 1; font-size: 12.5px; font-weight: 500; color: {{cp.rail.statusFg}};">{{cp.rail.status}}</span>
+<button type="button" onClick="{{cp.rail.close}}" aria-label="Close the document" class="kp-hov" style="width: 32px; height: 32px; padding: 0; border-radius: 6px; border: 1px solid #C9C0AC; background: #FBFAF6; cursor: pointer; color: #1C1B18; font-size: 16px; line-height: 1;">×</button>
+</div>
+<h2 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 23px; line-height: 1.2; font-weight: 500; overflow-wrap: anywhere;">{{cp.rail.title}}</h2>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53; overflow-wrap: anywhere;">{{cp.rail.slug}}</span>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{cp.rail.chips}}" as="c" hint-placeholder-count="4"><span style="display: inline-flex; align-items: center; height: 24px; padding: 0 9px; border-radius: 12px; font-size: 12px; background: {{c.bg}}; color: {{c.fg}}; border: 1px solid {{c.bd}};">{{c.x}}</span></sc-for></div>
+<span style="font-size: 12.5px; line-height: 1.45; color: #645F53;">{{cp.rail.sec}}</span>
+</div>
+<sc-if value="{{cp.rail.isRead}}" hint-placeholder-val="{{ false }}">
+<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px;">
+<sc-for list="{{cp.rail.stats}}" as="st" hint-placeholder-count="3"><div style="display: flex; flex-direction: column; gap: 2px; padding: 10px; border: 1px solid #DDD6C6; border-radius: 8px; background: #FBFAF6;"><span style="font-family: 'Newsreader', Georgia, serif; font-size: 26px; line-height: 1;">{{st.v}}</span><span style="font-size: 11.5px; line-height: 1.3; color: #645F53;">{{st.k}}</span></div></sc-for>
+</div>
+<sc-if value="{{cp.rail.hasNote}}" hint-placeholder-val="{{ false }}">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">What reading it found · Wiki/compare/</h3>
+<sc-for list="{{cp.rail.note}}" as="np" hint-placeholder-count="1"><p style="margin: 0; font-size: 13.5px; line-height: 1.55; color: #1C1B18;">@RUNS(np.runs)@</p></sc-for>
+<sc-if value="{{cp.rail.hasRec}}" hint-placeholder-val="{{ false }}"><button type="button" onClick="{{cp.rail.openRec}}" class="kp-hov" style="align-self: flex-start; min-height: 36px; padding: 0 12px; border-radius: 8px; border: 1px solid #C9C0AC; background: #FBFAF6; color: #1C1B18; cursor: pointer; font-family: inherit; font-size: 13px;">Read the reconciliation record</button></sc-if>
+</div>
+</sc-if>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Pages that read it · {{cp.rail.pagesN}}</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{cp.rail.pages}}" as="c" hint-placeholder-count="4"><button type="button" onClick="{{c.go}}" class="kp-hov" style="min-height: 30px; padding: 3px 11px; border-radius: 15px; border: 1px solid #C9C0AC; background: #FBFAF6; cursor: pointer; font-family: 'Newsreader', Georgia, serif; font-size: 14.5px; line-height: 1.3; color: #1C1B18; text-align: left;">{{c.t}}</button></sc-for></div>
+</div>
+<button type="button" onClick="{{cp.rail.graph}}" class="kp-hov" style="min-height: 44px; padding: 0 14px; border-radius: 8px; border: 1px solid #2B4C8C; background: #FBFAF6; color: #2B4C8C; cursor: pointer; font-family: inherit; font-size: 13.5px; font-weight: 500;">Show this document in the graph</button>
+</sc-if>
+</sc-if>
+<sc-if value="{{cp.rail.none}}" hint-placeholder-val="{{ true }}">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+<h2 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 24px; line-height: 1.2; font-weight: 500;">The manifest is the spine</h2>
+<p style="margin: 0; font-size: 13.5px; line-height: 1.55; color: #4A463E;">Every row traces back to a Drive document. Landed files are immutable; anything derived names the document it came from. Select a row to see what reading it found.</p>
+</div>
+<div style="display: flex; flex-direction: column; gap: 2px;">
+<sc-for list="{{cp.rail.facts}}" as="x" hint-placeholder-count="6"><div style="display: flex; align-items: baseline; gap: 10px; padding: 7px 0; border-bottom: 1px solid #E6E0D2;"><span style="flex-grow: 1; font-size: 13px; color: #4A463E;">{{x.k}}</span><span style="font-family: 'Newsreader', Georgia, serif; font-size: 19px;">{{x.v}}</span></div></sc-for>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Formats</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{cp.rail.fmts}}" as="x" hint-placeholder-count="4"><span style="padding: 3px 8px; border-radius: 4px; background: #EFEBE1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px;">{{x.k}} {{x.v}}</span></sc-for></div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<h3 style="margin: 0; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; color: #645F53;">Tiers</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{cp.rail.tiers}}" as="x" hint-placeholder-count="2"><span style="padding: 3px 8px; border-radius: 4px; background: #EFEBE1; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px;">{{x.k}} {{x.v}}</span></sc-for></div>
+</div>
+</sc-if>
+</aside>
+</div>
+</sc-if>
+</div>
+</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='@PROPS@'>
+@JS@
+</script>
+</body>
+</html>

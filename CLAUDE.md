@@ -39,9 +39,10 @@ each has one command that rebuilds it:
 | qmd, its models and index | `scripts/setup_qmd.sh` | searching; nothing in the pipeline |
 | `jev-decide` | under *Installing anything* | the vendored `jev*` skills in API mode |
 | `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY` | the environment's settings, never a file or the chat | a real Jev call |
+| `Plan/derived/ui/` | `python3 scripts/ui.py` | the project app's canvas files, to publish |
 
 The standard-library scripts — `state.py`, `quotes.py`, `read.py`,
-`reconcile.py`, `account.py`, `entities.py` — need none of these.
+`reconcile.py`, `account.py`, `entities.py`, `ui.py` — need none of these.
 
 ## Two layers
 
@@ -407,7 +408,7 @@ in a commit that names its source.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **122 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1161 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **1163 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
@@ -530,6 +531,35 @@ python3 scripts/qmd_coverage.py # non-zero if a directory is in no collection
 **A file in no collection is absent from every search and nothing says so.** That
 is why coverage is checked rather than remembered. The configuration itself lives
 in the committed `.qmd/index.yml`; **never run `qmd init` here**, it overwrites it.
+
+## The project app — the repository as one interactive canvas
+
+`python3 scripts/ui.py` derives the whole project into one app: the pages,
+conflicts, questions and reconciliation records, the graph, the manifest, the
+invariants as they ran, the decisions, the principles, `NOW.md` and `GOAL.md`.
+It writes them as the files of a claude.ai Design canvas into
+`Plan/derived/ui/`, git-ignored like everything derived. **It infers nothing**:
+a page is rendered from its own markdown, a relation is a `graph.py` edge, a
+count is a `state.py` measurement, and a reading-log row is the document's own
+`reconcile.json`.
+
+```bash
+python3 scripts/ui.py              # derive, run the invariants, write the canvas files
+python3 scripts/ui.py --check      # also check what was written, the way the canvas reads it
+python3 scripts/ui.py selftest     # each check handed the defect it exists to name
+```
+
+The app's source is `scripts/ui.html` and `scripts/ui.js`. `--check` exists
+because the canvas reports none of this: an expression in a `{{hole}}` fails
+silently, and a button inside a button or an unclosed element becomes a
+different tree when the page is parsed.
+
+**A script cannot publish it.** A Claude session does, with its Artifact tool, to
+the canvas at https://claude.ai/artifact/1EyhQkX3MpiRTw3TxjTjYL, which is private
+to the author. A data refresh sends `project/Main.dc.html` alone, so the canvas
+keeps the author's arrangement. The app is a snapshot and names its commit on its
+rail; whether it is rebuilt after every reading is a question for the author
+(`NOW.md`).
 
 ## Entity lists — a model's reading per document, and a search over all of them
 

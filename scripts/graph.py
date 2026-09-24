@@ -194,8 +194,9 @@ def build() -> dict:
             edge(key, "raised_by", f"term:{page}", f"{_rel(path)}:{_line_of(text, 'raised_by:')}")
         for doc in meta.get("documents", []) or []:
             edge(key, "asks", doc_node(doc), f"{_rel(path)}:{_line_of(text, 'documents:')}")
-        conflict = str(meta.get("conflict", ""))
-        if re.fullmatch(r"C\d+", conflict):
+        # A question may name several conflicts (Q5: `C6, C9`); it concerns each.
+        # Matching the whole value as one id kept one edge of three.
+        for conflict in re.findall(r"\bC\d+\b", str(meta.get("conflict", ""))):
             edge(key, "concerns", f"conflict:{conflict}", f"{_rel(path)}:{_line_of(text, 'conflict:')}")
 
     return {"nodes": nodes, "edges": edges, "evidence": evidence}
@@ -318,6 +319,11 @@ def selftest() -> list[str]:
     core = {e["type"] for e in build()["edges"]}
     if core & {"names", "folds_to"}:
         failures.append("proposal edges leaked into the core graph")
+    named = sum(len(re.findall(r"\bC\d+\b", str(wiki_index.frontmatter(p.read_text(encoding="utf-8")).get("conflict", ""))))
+                for p in QUESTIONS.glob("q*.md"))
+    concerns = sum(1 for e in build()["edges"] if e["type"] == "concerns")
+    if concerns != named:
+        failures.append(f"questions name {named} conflicts, graph.py holds {concerns} concerns edges")
     links = sum(1 for e in build()["edges"] if e["type"] == "links")
     import relations
     if links != len(relations.graph()["edges"]):
@@ -391,8 +397,8 @@ def main(argv: list[str]) -> int:
         problems = selftest()
         for p in problems:
             print(f"  FAIL  {p}")
-        print(f"graph: {5 - len(problems)} of 5 cases hold (clean, broken edge, unlanded doc, "
-              "no proposal in the core, agrees with relations.py)")
+        print(f"graph: {6 - len(problems)} of 6 cases hold (clean, broken edge, unlanded doc, "
+              "no proposal in the core, every conflict a question names, agrees with relations.py)")
         return 1 if problems else 0
     graph = build()
     if "--json" in argv:

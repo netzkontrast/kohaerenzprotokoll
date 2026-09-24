@@ -100,6 +100,9 @@ before this list.
 - **`GOAL.md` against the working agreement** — the manuscript, NCP files and
   claude.ai exports as sources; a conflict detector; the `kg/`/`kp` layout;
   status tags and tiers on pages.
+- **When the project app is rebuilt** — after every reading, as part of phase
+  4's re-measure, or only on request. `scripts/ui.py` builds it; a Claude session
+  publishes it to the canvas (`CLAUDE.md`, *The project app*).
 
 ## Open decisions — these are judgement, not measurement
 
