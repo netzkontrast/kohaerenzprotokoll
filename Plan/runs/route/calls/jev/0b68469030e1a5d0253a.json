@@ -1,0 +1,163 @@
+{
+ "model": "jev-1.13.0",
+ "seconds": 1.0,
+ "input_tokens": 12240,
+ "answers": {
+  "J20_score": {
+   "score": 1.43,
+   "confidence": 0.14,
+   "probabilities": {
+    "0": 0.11,
+    "1": 0.35,
+    "2": 0.54
+   }
+  },
+  "J20_noul": {
+   "noul": 0.15
+  },
+  "J21_score": {
+   "score": 1.25,
+   "confidence": 0.26,
+   "probabilities": {
+    "0": 0.13,
+    "1": 0.5,
+    "2": 0.37
+   }
+  },
+  "J21_noul": {
+   "noul": 0.22
+  },
+  "J22_score": {
+   "score": 1.21,
+   "confidence": 0.44,
+   "probabilities": {
+    "0": 0.08,
+    "1": 0.63,
+    "2": 0.29
+   }
+  },
+  "J22_noul": {
+   "noul": 0.16
+  },
+  "J23_score": {
+   "score": 1.88,
+   "confidence": 0.82,
+   "probabilities": {
+    "0": 0.02,
+    "1": 0.08,
+    "2": 0.9
+   }
+  },
+  "J23_noul": {
+   "noul": 0.24
+  },
+  "J24_score": {
+   "score": 1.85,
+   "confidence": 0.78,
+   "probabilities": {
+    "0": 0.04,
+    "1": 0.08,
+    "2": 0.88
+   }
+  },
+  "J24_noul": {
+   "noul": 0.41
+  },
+  "J25_score": {
+   "score": 0.6,
+   "confidence": 0.1,
+   "probabilities": {
+    "0": 0.62,
+    "1": 0.15,
+    "2": 0.23
+   }
+  },
+  "J25_noul": {
+   "noul": 0.47
+  },
+  "J26_score": {
+   "score": 1.61,
+   "confidence": 0.41,
+   "probabilities": {
+    "0": 0.08,
+    "1": 0.24,
+    "2": 0.68
+   }
+  },
+  "J26_noul": {
+   "noul": 0.15
+  },
+  "J27_score": {
+   "score": 0.53,
+   "confidence": 0.21,
+   "probabilities": {
+    "0": 0.53,
+    "1": 0.41,
+    "2": 0.06
+   }
+  },
+  "J27_noul": {
+   "noul": 0.18
+  },
+  "J28_score": {
+   "score": 0.63,
+   "confidence": 0.34,
+   "probabilities": {
+    "0": 0.41,
+    "1": 0.56,
+    "2": 0.03
+   }
+  },
+  "J28_noul": {
+   "noul": 0.18
+  },
+  "J29_score": {
+   "score": 0.47,
+   "confidence": 0.3,
+   "probabilities": {
+    "0": 0.56,
+    "1": 0.41,
+    "2": 0.03
+   }
+  },
+  "J29_noul": {
+   "noul": 0.38
+  },
+  "J30_score": {
+   "score": 0.31,
+   "confidence": 0.54,
+   "probabilities": {
+    "0": 0.79,
+    "1": 0.12,
+    "2": 0.09
+   }
+  },
+  "J30_noul": {
+   "noul": 0.89
+  },
+  "J31_score": {
+   "score": 0.56,
+   "confidence": 0.16,
+   "probabilities": {
+    "0": 0.67,
+    "1": 0.09,
+    "2": 0.24
+   }
+  },
+  "J31_noul": {
+   "noul": 0.95
+  },
+  "J32_score": {
+   "score": 0.41,
+   "confidence": 0.38,
+   "probabilities": {
+    "0": 0.65,
+    "1": 0.29,
+    "2": 0.06
+   }
+  },
+  "J32_noul": {
+   "noul": 0.14
+  }
+ }
+}
