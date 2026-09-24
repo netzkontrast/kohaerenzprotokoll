@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 4
+sources: 5
 pages: ["trennungsprotokoll"]
 ---
 
@@ -52,3 +52,7 @@ Cluster/Komp 734 → Funktionalisierung" ^[kapitel-kompendium-gather-2026-05-31-
 Komp 734" ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] — 734 after, the character bible's three beats. And a fourth:
 „Genesis-Beat 4 (Wir-AEGIS-plural) vollzogen" ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]. It counts four and orders
 them both ways.
+
+## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Four: Kap 0 is „Vier-Beat-Genesis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826]. It does not order them.
