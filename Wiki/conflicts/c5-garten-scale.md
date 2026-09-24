@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 3
+sources: 4
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -81,3 +81,20 @@ and it adds a second name for that world. It uses neither `Garten der
 Möglichkeiten` nor any containment word. **The conflict stays open**: one more
 source for one side is not a settlement, and this source's own claim to be
 „Source-of-Truth" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L11] is its claim, not the wiki's.
+
+## 2026-09-24 — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**This source holds both scales at once.** The fourth world's heading:
+
+> „VI.5 KW4 — Kairos-Potentialis (Garten der Möglichkeiten)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L517]
+
+and, eleven lines later, inside that world:
+
+> „Sub-Lokalitäten: Möglichkeits-Garten, Nexus, Mosaik-Herz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L530]
+
+So `Garten der Möglichkeiten` names the world and `Möglichkeits-Garten` a place in
+it — the two spellings the conflict is about, split by scale within one document.
+Judgement J35 made them one term; this document is the first to use them for two
+scales side by side (J61). That is a reading, and it does not move J35: one source
+distinguishing two surfaces once does not make them two terms everywhere (J51).
+The conflict stays open.
