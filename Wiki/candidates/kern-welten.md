@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 5
-readings: 4
-conflict: C6
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 6
+readings: 5
+conflict: C6, C9
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -155,9 +155,9 @@ with document 4's Guardian↔world names, the join reads:
 
 | number | Guardian | world name, from document 4 |
 |---|---|---|
-| KW1 | [[logos|LogOS]] | `konstrukt-stadt` |
+| KW1 | [[logos|LogOS]] | [[konstrukt-stadt]] |
 | KW2 | [[mnemosyne|Mnemosyne]] | [[resonanz-landschaft]] |
-| KW3 | [[cerberus|Cerberus]] | `grenzfeste` |
+| KW3 | [[cerberus|Cerberus]] | [[grenzfeste]] |
 | KW4 | [[kairos|Kairos]]/[[sophia|Sophia]] | [[moeglichkeits-garten]] |
 
 **That table is still this page's inference and not any document's claim.** Two
@@ -223,6 +223,20 @@ six the frame [[realitaetsebenen]] holds, though this document never uses that w
 
 **Where it differs from earlier readings on this page.** KW2 and KW3 carry
 different names here than the worlds `guardians-und-kern-welten-konzept` paired
-with [[mnemosyne|Mnemosyne]] and Cerberus (`Resonanz-Landschaft`, `Grenzfeste`), and the
+with [[mnemosyne|Mnemosyne]] and [[cerberus|Cerberus]] (`Resonanz-Landschaft`, `Grenzfeste`), and the
 bearers' names have become parts of the world names while the pairing itself is
 denied. Recorded in conflict `C6`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**Four, named as the other canon-era source names them, with one exception.**
+
+| KW | name | Guardian column | line |
+|---|---|---|--:|
+| KW1 | „KW1 — Logos-Prime" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51] | „(LogOS, in Mnemosyne absorbiert)" | 51 |
+| KW2 | „KW2 — Mnemosyne-Archipel" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L52] | Mnemosyne | 52 |
+| KW3 | „KW3 — Cerberus-Labyrinth" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L53] | „(Cerberus, in Erasure-Pol absorbiert)" | 53 |
+| KW4 | „KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L54] | „(Kairos/Sophia, latent)" | 54 |
+
+The exception is what contains them: „der Konstrukt-Stadt, gesteuert von AEGIS —
+die in vier Kernwelten unterteilt ist" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L44]. See `C9`.
