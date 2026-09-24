@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -49,14 +49,20 @@ The [[risse|Risse]] are where K₁ shows through: „die Stelle, an der K₁-Sub
 K₀-Architektur drückt" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L245].
 
 **What the document takes K₁ to be, in its own physics:** the „Nichts-Rauschen" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
-that AEGIS mistakes for chaos „ist die atemporale Vereinigung aller mutualen
+that [[aegis|AEGIS]] mistakes for chaos „ist die atemporale Vereinigung aller mutualen
 Information" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]. See [[nichts-rauschen]].
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
-**K1, and the name of three things.** AEGIS believes itself „Kohärenz-Kernel
+**K1, and the name of three things.** [[aegis|AEGIS]] believes itself „Kohärenz-Kernel
 (K1)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L105]. The word also names the novel, which the document calls „eine
 tragische Fehlbezeichnung" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L113], and the second of AEGIS' protocols,
 „Kohärenzprotokoll" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L132]. Its own gloss: „Das eigentliche
 Kohärenz-Protokoll ist Kaels Heilungsweg." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L113] Kept as separate terms
 (judgement J57).
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Schicht 1 of three: „Pure Kohärenz, ungetrennt, zeitlos." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L55] Consciousness is „die subjektive Signatur der Kohärenz" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L116].
+
+The title's protocol is called a misnomer: „AEGIS' Kohärenzprotokoll ist Entropie-Erzeugung; Kaels Heilung ist das eigentliche Kohärenzprotokoll." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L227] — the `Kohärenzprotokoll` itself is kept as its own term (J57).
