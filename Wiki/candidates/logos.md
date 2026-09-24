@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -85,3 +85,9 @@ and says why: „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerbe
 Kairos, Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The earlier readings on this
 page are what this document calls earlier drafts. Recorded, not applied — see
 `C6`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Named once as one of the old five (L210), and once as absorbed: „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217] — into the Erasure-Pol, where the character bible put LogOS into Mnemosyne. Q5.
+
+KW1's heading carries `Logos-Prime` as a second name (L463), a world named after the bearer (J49).
