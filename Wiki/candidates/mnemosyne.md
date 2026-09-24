@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 3
-readings: 3
-conflict: C4,
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 4
+readings: 4
+conflict: C4, C6
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -96,5 +96,20 @@ and the setting of Vortex 1, „Mnemosyne-Server-Architektur (KW2)" ^[kohaerenz-
 `Mnemosyne-Archipel` and `Mnemosyne-Server-Architektur` are kept as their own
 terms (J28), without pages.
 
-Earlier readings on this page make Mnemosyne one of five Guardians paired with a
+Earlier readings on this page make Mnemosyne one of five [[guardians|Guardians]] paired with a
 world; this one makes it one of two and denies the pairing. See `C6`.
+
+## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The one Guardian who still acts, and the setting of the climax.**
+
+> „Mnemosyne ist die zweite große Stimme jenseits von Kael — und die einzige
+> Guardian-Figur, die im aktuellen Kanon noch eigenständig agiert." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L186]
+
+She administers KW2 and is „das Hardware-Setting des Vortex" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L186]; [[logos|LogOS]] is
+„in Mnemosyne absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L51]. Her voice is unlike AEGIS': „Sprache: flüssig,
+metaphernreich, oft poetisch ohne dies zu wissen." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L198] Her offer to Kael:
+„Mnemosyne kann Kael „den Schmerz löschen"." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L202]
+
+This is the first source that makes her the Erinnerungs-Wächterin by title
+(„Mnemosyne (Erinnerungs-Wächterin)", L182) — see `q4-waechter-four-bearers`.
