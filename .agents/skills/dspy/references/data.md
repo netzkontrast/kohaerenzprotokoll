@@ -289,10 +289,9 @@ content synthetically. Every row of `pairs.py`'s trainset traces to a person's
 decision in `Plan/runs/judgements.jsonl`; every document behind `Sources/terms/`
 and `Sources/notes/` traces to a `drive_id` in `Sources/manifest.jsonl`
 (`CLAUDE.md`, *Two layers*). The corpus-text approval gate applies to
-generation the same way it applies to judgement: "Nothing leaves the container
-without the author's yes for that run"
-(`CLAUDE.md`, *Calling a model — the DSPy toolchain*), and no run has asked for
-synthetic generation. The nearest thing to enrichment this repository has is
+generation the same way it applies to judgement — „Korpustext an OpenRouter
+oder TypeSafe braucht jeweils eine eigene Zustimmung des Autors" (`GOAL.md`,
+rule 13) — and no run has asked for synthetic generation. The nearest thing to enrichment this repository has is
 `scripts/bilingual.py`'s gloss proposals in `Plan/runs/bilingual/stated.jsonl`
 — code finds glosses the corpus already writes, Jev judges which surfaces are
 entities, a free model proposes an English counterpart from the German name

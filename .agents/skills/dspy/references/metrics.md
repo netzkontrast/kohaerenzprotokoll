@@ -67,7 +67,7 @@ verdict (`scripts/baseline.py`); `--floor` names a
 different candidate. Right now that floor is `fold()` itself, scored through
 `score_rule("fold")`: **57 <!--state:pairs.labelled--> labelled pairs; `fold()`
 decides 33 <!--state:pairs.fold_correct--> of them (58%).** `trainset.py`'s own
-words: "Anything that does not beat this is not worth a call"
+output: "Anything that does not beat this is not worth an LM call."
 (`scripts/trainset.py`). No optimizer rung has run against a real model yet
 (`CLAUDE.md`, *Calling a model*), so `Plan/runs/baselines.jsonl` holds no
 model row: its rows are `rule:fold` and `graphrag.py bench`'s retrieval

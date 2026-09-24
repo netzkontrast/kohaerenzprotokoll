@@ -1,7 +1,7 @@
 # Patterns built on DSPy, mapped onto this repository
 
-Twelve DSPy programs and program-shaped skills, read across seven of the nine
-repositories, organised by what they are *for* rather than by which repository
+Fourteen patterns built on DSPy, from eight of the nine repositories,
+organised by what they are *for* rather than by which repository
 wrote them. `api.md` has the DSPy facts these patterns lean on; `optimizers.md`
 has GEPA/MIPROv2/SIMBA mechanics; `text-artifacts.md` has `gepa.optimize_anything`
 in full — this file points there rather than repeating them.
@@ -20,9 +20,9 @@ in place) has no instance here (`NOW.md`, "A reviewed page has no rule yet";
 `Plan/concept/wiki-compile-second-opinion_2026-09-17.md`). P1, P12–P15 and P26
 of `PRINCIPLES.md` are cited inline throughout rather than restated here.
 
-Two of the nine repositories are absent from this file on purpose: `dspy-auto-gepa`
-and the RLM/RAG halves of `dspy-agent-skills` belong to `optimizers.md`,
-`rlm.md` and `retrieval.md`. `repos.md` has commits and versions.
+One repository is absent from this file on purpose: `dspy-auto-gepa` belongs
+to `optimizers.md`, `metrics.md` and `data.md`, as the RLM and RAG halves of
+`dspy-agent-skills` belong to `rlm.md` and `retrieval.md`. `repos.md` has commits and versions.
 
 ## What was taken, waits, or was refused — at a glance
 
@@ -35,7 +35,7 @@ and the RLM/RAG halves of `dspy-agent-skills` belong to `optimizers.md`,
 | Keep a program run honest | `dspy-autodialectics` | immutable contract → thesis/antithesis/synthesis → deterministic verify → slop score → champion/challenger gate | canary-veto-plus-floor is already built, stricter, in `scripts/baseline.py` and `scripts/pairs.py`; its `Verify` trusting the optimized program's own report is the trap to avoid |
 | Repair a knowledge base from an unanswerable question | `dspy-deep-refine` | judge answerable → abduce → propose graph edits → apply only after review and explicit approval | the loop's three axes map onto `Wiki/questions/`, `Wiki/conflicts/` and `Plan/runs/judgements.jsonl`; its *actions* (`insert_edge`/`replace_node`/`delete_edge`) are refused outright — an inferred edge breaks decision 005, a merge breaks P13 |
 | Turn a correction into a gold example | `dspy-reflect-loop` | signal extraction, a fingerprinted ledger, promotion after ≥ 2 contexts and a human | `Plan/runs/judgements.jsonl` plus `scripts/judgements.py` already do this by identity rather than substring; nothing here extracts a signal from a transcript without the author's yes (P0) |
-| Multi-turn state as a typed wrapper | `dspy-session` | `Session`/`Turn`/`History`, `with_memory`, "Push, Don't Peek" | nothing here is a multi-turn agent; the frozen-`Turn` shape is the pattern `lmrun.py`'s per-call record already follows; wrapping `dspy.RLM` in a session is refused explicitly (`CLAUDE.md`, "Never wraps `dspy.RLM` in a `History`-carrying session") |
+| Multi-turn state as a typed wrapper | `dspy-session` | `Session`/`Turn`/`History`, `with_memory`, "Push, Don't Peek" | nothing here is a multi-turn agent; the frozen-`Turn` shape is the pattern `lmrun.py`'s per-call record already follows; wrapping `dspy.RLM` in a session is refused explicitly (`Plan/concept/dspy-toolchain_2026-09-23.md`, "Never wraps `dspy.RLM` in a `History`-carrying session") |
 | Tool-using agents, MCP, subagents | `dspy-agents`, `Agentic-Dspy-Rag`, `dspy-book-agents` | Agno-wrapped DSPy tools; MCP lifecycle; classify → route → retrieve → rerank → generate | the baseline store's shape is kept, fixed to a floor plus veto, in `scripts/baseline.py`; classify-then-quote is catalogued for `ask`, waiting on `ask` existing at all (`graphrag.py`); substring routing on free text is the anti-pattern `pairs.py`'s `Literal` decision already avoids |
 | A model's plan as a checked graph | `braid-dspy` | one `Predict` writes a Mermaid flowchart, code parses and Kahn-orders it, a second `Predict` executes node by node | catalogued as "a procedure as a checked graph"; waits for a procedure whose order is in dispute — `scripts/account.py`'s decompositions are the named candidate (`Plan/concept/dspy-toolchain_2026-09-23.md`) |
 | Critique → repair a text artifact | `dspy-optimizer` | Evaluator → Refiner → Merger → Validator patches a `### Block`-structured prompt string | `MockLLM` and the callback shape are kept; the loop itself is refused — job 4 uses `gepa.optimize_anything` (`text-artifacts.md`), which rewrites the whole file under a metric instead of patching named blocks by an unheld-out validator |
@@ -573,8 +573,8 @@ against 3.3.1). `dspy.RLM` compounds this: on 3.3.1 wrapping it in a
 History-injecting session fails immediately with `ValueError: Unexpected
 inputs not declared in the signature: ['history']`
 (`dspy-session:dspy_session/session.py:1460-1488`, measured) — which is
-exactly why `CLAUDE.md` states, as a rule about `lmrun.py`, "Never wraps
-`dspy.RLM` in a `History`-carrying session."
+exactly why `Plan/concept/dspy-toolchain_2026-09-23.md` states, as a rule
+about `lmrun.py`, "Never wraps `dspy.RLM` in a `History`-carrying session"
 
 Metric plumbing hides failure the same way three other families in this file
 do: `score()` spends one real metric call probing its arity before scoring
