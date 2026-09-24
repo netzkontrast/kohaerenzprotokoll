@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -100,7 +100,7 @@ It can also describe a Guardian's behaviour as untypical for
 
 > „eine reine AEGIS-Erweiterung" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 
-which only makes sense if being an AEGIS extension is the default reading.
+which only makes sense if being an [[aegis|AEGIS]] extension is the default reading.
 
 ### But the whole of chapter 20 exists to put that under pressure
 
@@ -149,7 +149,7 @@ The four bearers are given in a parenthesis, in the same order as the levels:
 > „die Domänen der jeweiligen Wächter (LogOS, Mnemosyne, Cerberus,
 > Kairos/Sophia)" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35]
 
-They are seated in AEGIS' level:
+They are seated in [[aegis|AEGIS]]' level:
 
 > „Sitz von AEGIS und den Wächtern in ihrer Systemfunktion." ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176]
 
@@ -179,7 +179,7 @@ tracks the document rather than the register. See
 
 ### On the relation to AEGIS, this document assumes rather than argues
 
-Every placement puts the Wächter inside AEGIS' domain, and the document never
+Every placement puts the Wächter inside [[aegis|AEGIS]]' domain, and the document never
 raises the question that document 5 built a chapter out of. It lists them beside
 AEGIS as „Nutzer/Beobachter" of the system monitor ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L472], and it gives AEGIS a
 registry of their parameters ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233] — which is a stronger form of containment
@@ -191,7 +191,7 @@ than anything read so far, and it is stated in passing, as a location's function
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
 **Two, not five — and not one per world.** The first read source from 2026, and
-the first to state the Guardians' place in AEGIS as architecture:
+the first to state the Guardians' place in [[aegis|AEGIS]] as architecture:
 
 > „Architektur (post-Reset): zwei Guardians (Mnemosyne + Erasure-Pol), drei
 > Protokolle, verbindliches Log-Format." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282]
@@ -237,6 +237,18 @@ that retires the earlier readings on this page is the author's call — see `C6`
 
 ## Decided by the author, 2026-09-24 — five
 
-**Five Guardians: LogOS, Mnemosyne, Cerberus, Kairos, Sophia** (conflict `C6`).
+**Five Guardians: [[logos|LogOS]], [[mnemosyne|Mnemosyne]], [[cerberus|Cerberus]], [[kairos|Kairos]], [[sophia|Sophia]]** (conflict `C6`).
 The readings above stay as their documents wrote them. How the five relate to the
-four Kern-Welten, and what the Erasure-Pol is, are open in `q5-guardians-and-kern-welten`.
+four [[kern-welten|Kern-Welten]], and what the Erasure-Pol is, are open in `q5-guardians-and-kern-welten`.
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+**Two.** „Die alten Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia) und zwölf Protokolle. Das war Lore-Last." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L210]
+
+The two: Mnemosyne, „Erinnerungs-Hüterin" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L216], and a pole named for its function — „Erasure-Pol (Name offen, Forschungsfrage)." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217]
+
+**It absorbs differently from the character bible.** „Die alten Cerberus-, LogOS-, Kairos-Funktionen sind in diesem Pol absorbiert." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L217] The character bible puts LogOS into Mnemosyne and leaves Kairos and Sophia latent; this document places LogOS and Kairos in the Erasure-Pol and says nothing of Sophia. Q5.
+
+„Mit der Reduktion auf zwei Guardians sind die KW-Domänen entkoppelt von 1:1-Guardian-Zuweisung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462]
+
+The author decided C6 for five on 2026-09-24; this is a second canon-era source for two, recorded and not applied.
