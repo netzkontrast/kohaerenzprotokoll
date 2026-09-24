@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -47,3 +47,8 @@ beat before the Vortex in Kap 34; the document does not say whether they are one
 Is the Kap-11 beat and the Kap-34 place one thing — the heart first accepted, then
 entered — or two uses of one name? Not a conflict between sources: the
 konsolidiertes Konzept holds both. A question for the author (`NOW.md`).
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- chapter 11 as a stage of inner integration: „Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L347]
+- chapter 23 as an inner resource: „Mosaik-Herz als innere Ressource“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596]

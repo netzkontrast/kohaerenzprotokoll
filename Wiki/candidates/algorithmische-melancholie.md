@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -56,3 +56,7 @@ What becomes of [[aegis|AEGIS]] in Vortex 1. The cast: „Im Vortex 1 kollabiert
 „Algorithmische Melancholie — eine Maschine, die noch zählt, aber nicht mehr weiß,
 dass sie zählt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1116] Its form afterwards is the document's OQ-G: „exakte Form
 der Algorithmischen Melancholie als Echo offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1375].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- placed when monolithic AEGIS begins to fade: „AEGIS-monolithisch beginnt zu erlöschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]

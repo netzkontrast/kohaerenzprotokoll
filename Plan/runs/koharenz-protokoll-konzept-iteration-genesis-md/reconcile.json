@@ -1,0 +1,256 @@
+{
+  "document": "koharenz-protokoll-konzept-iteration-genesis-md",
+  "drive_id": "1IdzTF-9xY5O2Y4daCO4gwl9tOORCpyLjQiPv3JYoJb0",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 92,
+    "conflicts": 12
+  },
+  "state_after": {
+    "pages": 93,
+    "conflicts": 12
+  },
+  "pre_classification": {
+    "candidates": 58,
+    "decisions": 63,
+    "decided_by_lookup": 52,
+    "needs_judgement": 11
+  },
+  "new_terms": [
+    "k0-existenz"
+  ],
+  "new_readings": [
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        68,
+        206
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "juna",
+      "lines": [
+        52,
+        56,
+        516,
+        656
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        802
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "alters",
+      "lines": [
+        72
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        588
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        528,
+        648
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "erason",
+      "lines": [
+        798
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        295
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "k0-existenz",
+      "lines": [
+        48,
+        52
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "k1-reinform",
+      "lines": [
+        44,
+        52
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        798
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "kael",
+      "lines": [
+        72,
+        76
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        347,
+        596
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        648
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        743
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "silas",
+      "lines": [
+        798
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        235
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "lex",
+      "lines": [
+        512
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        80,
+        84,
+        196
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        44
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        200,
+        205,
+        206,
+        207,
+        790
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        798
+      ],
+      "attribution": "premise",
+      "note": "The source’s own stated or proposed reading; see source note for limits."
+    }
+  ],
+  "new_surfaces": [
+    {
+      "page": "nichts-rauschen",
+      "surface": "K1-Reinform",
+      "evidence": "L44, explicit slash name for Schicht 1"
+    }
+  ],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C7",
+    "C8",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "J68/J75: no explicit Ursprungs-Ich in this source"
+  ],
+  "judgements": [
+    "J47",
+    "J22",
+    "J23",
+    "J73",
+    "J76",
+    "J77",
+    "J78",
+    "J79"
+  ],
+  "not_promoted": [
+    "Zeit-Prinzip: a role of Juna (L52)",
+    "Wir-AEGIS: final name open (L770–782)",
+    "Komponente 734: Kael designation (L205)",
+    "Genesis-Echo and Flashback: narrative devices (L353, L389)",
+    "Vortex 1 and 2: chapter structure (L405–449)",
+    "Witness-Modus, K-J-Verbindung: named without a separate definition (L720, L243)"
+  ],
+  "found_by_rule_not_by_census": [
+    "Ursprungs-Ich: absent as a surface; no identity claimed"
+  ],
+  "baseline_moved": false
+}

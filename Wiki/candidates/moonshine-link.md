@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -70,3 +70,7 @@ Cluster-Bildung — die Mathematik der ursprünglichen Differenzierung kehrt als
 Verbindungs-Werkzeug zurück" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L481] (J71: the sentence decides). Its boundary is
 open here too: „Moonshine-Boundary" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1374], „Übertragungs-Mechanik offen"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1374].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- the source proposes resonance and recognition rather than information transfer as a boundary: „er überträgt Resonanz, nicht Information“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L802]

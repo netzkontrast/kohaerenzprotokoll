@@ -1,0 +1,114 @@
+# counts for 58 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Nichts-Rauschen                   8 word     8 in   [44, 204, 294, 310, 588, 636]
+  K1-Reinform                      12 word    15 in   [44, 48, 52, 60, 72, 204]
+                                    3      as K1-Reinform-Erinnerung
+  K0-Existenz                       3 word     3 in   [48, 838, 865]
+  Juna                             17 word    52 in   [52, 56, 60, 76, 116, 128]  <-- substring
+                                   28      as Junas
+                                    1      as Junas-Verbindungs-Modus
+                                    1      as Junas-Doppelrolle
+                                    1      as Juna-Ahnung
+  Zeit-Prinzip                      3 word     3 in   [52, 838, 865]
+  Kernwelten                        6 word     8 in   [52, 76, 235, 311, 321, 716]
+                                    1      as Kernwelten-Architektur
+                                    1      as Kernwelten-Manipulation
+  AEGIS                            88 word   129 in   [44, 48, 56, 60, 68, 72]
+                                    6      as AEGIS-monolithisch
+                                    3      as AEGIS-Beschreibung
+                                    2      as AEGIS-Intervention
+                                    2      as AEGIS-plural
+  Kael                             66 word    84 in   [44, 52, 70, 72, 76, 93]
+                                   14      as Kaels
+                                    1      as Kael-Juna-Verbindung
+                                    1      as Kael-als-Wir
+                                    1      as Kael-POV
+  Genesis                          16 word    90 in   [13, 27, 54, 60, 92, 94]  <-- substring
+                                   27      as Genesis-Echo
+                                    6      as Genesis-Cluster
+                                    4      as Genesis-Integration
+                                    3      as Genesis-Krise
+  Cluster                           5 word    18 in   [60, 204, 205, 281, 368, 389]  <-- substring
+                                    2      as Cluster-Bildung
+                                    1      as Cluster-Fragmente
+                                    1      as Cluster-Werdung
+  Echos                            13 word    17 in   [60, 72, 76, 185, 219, 284]
+  Vor-Trennungs-Erinnerung          3 word     3 in   [60, 72, 116]
+  Trennungsprotokoll               10 word    17 in   [68, 142, 206, 211, 239, 264]
+                                    5      as Trennungsprotokolls
+                                    1      as Trennungsprotokolle
+                                    1      as Trennungsprotokoll-Beat
+  Alters                            7 word     7 in   [72, 247, 311, 325, 329, 536]
+  Wir-Bildung                       4 word     4 in   [72, 540, 718, 748]
+  Wir-AEGIS                         7 word    14 in   [111, 124, 196, 207, 286, 469]
+                                    6      as Wir-AEGIS-plural
+                                    1      as Wir-AEGIS-Form
+  plurale Bewahrung                 5 word     5 in   [239, 436, 548, 724, 763]
+  Funken-Ich                        4 word     5 in   [204, 264, 312, 504, 690]
+                                    1      as Funken-Ich-Erleben
+  Komponente 734                    1 word     1 in   [295]
+  Innere Weite                      4 word     4 in   [205, 295, 357, 508]
+  Überwelt                          4 word     5 in   [235, 295, 357, 508, 556]
+                                    1      as Überwelt-Etablierung
+  Dual-Storyform                    2 word     2 in   [140, 861]
+  Klein-c-Inversion                 4 word     4 in   [142, 177, 179, 861]
+  Storyform A                       1 word     1 in   [148]
+  Storyform B                       1 word     1 in   [148]
+  Heuristics of Integration         1 word     1 in   [148]
+  Phoenix Collapse                  1 word     1 in   [148]
+  Moonshine-Link                    3 word     4 in   [171, 243, 544, 802]
+                                    1      as Moonshine-Links
+  Telefon-Stille                   10 word    10 in   [243, 311, 532, 598, 600, 719]
+  Wir-Geflecht                     11 word    13 in   [243, 434, 445, 449, 540, 656]
+                                    1      as Wir-Geflecht-POV
+                                    1      as Wir-Geflecht-Bildung
+  Genesis-Flashback                 2 word     7 in   [281, 368, 389, 576, 588, 592]  <-- substring
+                                    3      as Genesis-Flashbacks
+                                    2      as Genesis-Flashback-Cluster
+  Genesis-Echo                     27 word    33 in   [353, 500, 508, 512, 516, 520]
+                                    3      as Genesis-Echos
+                                    1      as Genesis-Echo-Stapelung
+                                    1      as Genesis-Echo-Programm
+                                    1      as Genesis-Echo-Disziplin
+  Resonanzkaskade                   2 word     2 in   [297, 644]
+  Landauer-Wärme                    3 word     3 in   [528, 648, 716]
+  Landauer-Hitze                    1 word     1 in   [412]
+  Erasure                           0 word     9 in   [223, 239, 368, 560, 580, 592]  <-- substring
+                                    2      as Erasure-Welle
+                                    1      as Erasure-Aufwand
+                                    1      as Erasure-Sweeps
+                                    1      as Erasure-Bewegung
+  Guardian                          0 word     5 in   [239, 626, 628, 731]  <-- substring
+                                    3      as Guardians
+                                    1      as Guardian-Operationen
+                                    1      as Guardian-Prinzipien
+  Vortex 1                          9 word    10 in   [223, 239, 267, 283, 405, 642]
+  Vortex 2                          8 word     8 in   [223, 227, 235, 267, 285, 425]
+  Mosaik-Herz                       4 word     4 in   [347, 385, 596, 775]
+  Ouroboros                         2 word     2 in   [437, 656]
+  Erason                            0 word     1 in   [798]
+                                    1      as Erason-Operator
+  Coheron                           0 word     1 in   [798]
+                                    1      as Coheron-Echo
+  Silas                             2 word     2 in   [401, 798]
+  Oblivion                          2 word     2 in   [401, 798]
+  Wächterin                         4 word     4 in   [383, 534, 570, 572]
+  Lex                               2 word     4 in   [512, 520, 524, 693]
+  McLaughlin-Welt                   1 word     1 in   [524]
+  Lyons-Welt                        1 word     2 in   [384, 582]
+                                    1      as Lyons-Welt-Kreativität
+  Jetzt-Raum                        2 word     2 in   [348, 552]
+  Potentialmeer                     1 word     2 in   [588]
+                                    1      as Potentialmeers
+  Algorithmische Melancholie        1 word     1 in   [648]
+  Witness-Modus                     4 word     4 in   [227, 600, 720]
+  K-J-Verbindung                    6 word     6 in   [343, 359, 532, 544, 600, 624]
+  Cache-Konflikt                    7 word     9 in   [342, 358, 372, 384, 528, 574]
+                                    1      as Cache-Konflikt-Metapher
+                                    1      as Cache-Konflikt-Metaphorik
+  Genesis-Krise                     3 word     3 in   [169, 227, 393]
+  Trennungs-Spiegel                 1 word     1 in   [177]
+  geheilte Genesis                  1 word     1 in   [94]

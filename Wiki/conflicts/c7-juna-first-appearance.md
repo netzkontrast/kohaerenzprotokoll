@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 7
+sources: 8
 pages: ["juna"]
 ---
 
@@ -97,3 +97,14 @@ da, ohne Worte, ohne Anweisung." ^[koharenz-protokoll-strukturierter-outline-202
 transitions and the closing sentences (L1305, L1335, L1385). Kap 33's entry does not
 name her (L1037). The konsolidiertes Konzept's side, ten days after it and
 integrating it (L1393); ten days after the character bible too.
+
+## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+The Kap-3 proposal says „Kael sieht Juna zum ersten Mal — als Hologramm/Echo“
+^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516], while the Vortex-2
+plan calls Kap 38 „Junas erste direkte Erscheinung“
+^[koharenz-protokoll-konzept-iteration-genesis-md.md:L435]. Its writing rule
+explicitly distinguishes prior echoes and effects from direct appearance
+^[koharenz-protokoll-konzept-iteration-genesis-md.md:L743]. This adds an early
+*visual echo* to the question of what “appearance” means; the author still
+needs to decide whether Kap 33 is an appearance or an effect.

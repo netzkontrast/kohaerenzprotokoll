@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-16"
 ---
 
@@ -195,3 +195,8 @@ Kap 1: „Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime), fragmentiert ohne
 Erinnerung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] Kap 39: „Kael-als-Wir wird neue AEGIS, aber wesensanders."
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1206] Kap 40: „Das Cluster, das Komp 734 wurde, ist als das erkannt, was Kael
 wurde" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- the subjective remainder of the separation: „das, was nach der Trennung subjektiv übrig blieb“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L72]
+- recognises Juna through the echoes: „Kael Juna *wiedererkennt*“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L76]

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      107
+  backslash escapes      166
+  typographic marks      290
+  ascii quotes           104
+
+# inflection families -- one term, several surfaces
+  wiede    Wieder, Wiedergeburt, Wiederholung, Wiederholungen, Wiederkehrende, Wiederkehrendes, Wiederverbindung, Wiederzusammenfinden
+  erzäh    Erzähl, Erzähler, Erzählform, Erzählhaltung, Erzählmodus, Erzählt, Erzählung
+  syste    System, Systemischer, Systemkollaps, Systemlüge, Systemverwerfungen, Systemänderung, Systemänderungen
+  story    Story, Storyform, Storyforming, Storyforms, Storypoint, Storyweaving
+  trenn    Trennung, Trennungen, Trennungs, Trennungsprotokoll, Trennungsprotokolle, Trennungsprotokolls
+  entsc    Entscheidung, Entscheidungen, Entschlossenheit, Entschluss
+  erinn    Erinnerung, Erinnerungen, Erinnerungs, Erinnerungslosigkeit
+  ersch    Erscheinung, Erscheinungen, Erscheinungsmodi, Erschöpfung
+  fragm    Fragmentation, Fragmente, Fragmentiert, Fragmentierung
+  mögli    Möglich, Mögliche, Möglichkeit, Möglichkeitsbedingung
+  physi    Physics, Physik, Physiker, Physische
+  plura    Plural, Plurale, Pluralisierung, Pluralität
+  simul    Simulation, Simulationen, Simulationsgrenzen, Simulationstricks
+  spieg    Spiegel, Spiegeln, Spiegelung, Spiegelungen
+  struk    Struktur, Strukturell, Strukturelle, Strukturprinzipien
+  tonal    Tonal, Tonalität, Tonalitäten, Tonalitäts
+  unter    Unterstruktur, Unterstützung, Untersuchung, Unterton
+  verst    Verstehen, Verstrickung, Verständnis, Verstümmelung
+  wahrh    Wahrheit, Wahrheiten, Wahrheits, Wahrheitsspur
+  algor    Algorithmische, Algorithmischer, Algorithmus
+  antei    Anteil, Anteile, Anteilen
+  bewah    Bewahren, Bewahrung, Bewahrungs
+  bewus    Bewusstheit, Bewusstsein, Bewusstwerdung
+  daten    Daten, Datenaustausch, Datenlast
+  diese    Diese, Dieser, Dieses
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Akten
+  Akte < Kontakte
+  Akte < Charakter
+  Atem < Atemraum
+  Back < Flashback
+  Back < Flashbacks
+  Beat < Beats
+  Bild < Bilder
+  Bild < Bildung
+  Code < Stilcode
+  Code < Stilcodes
+  Echo < Echos
+  Eine < Keine
+  Eine < Seine
+  Ende < Endes
+  Ende < Bleibende
+  Ende < Wendepunkt
+  Ende < Umfassendes
+  Ende < Wiederkehrende
+  Ende < Wiederkehrendes

@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 7
+sources: 8
 pages: ["aegis"]
 ---
 
@@ -85,3 +85,11 @@ The lock-in's values, eleven days after it: B „Resolve: Steadfast · Growth: S
 Approach: Do-er · Style: Linear" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L59], A „Resolve: Change · Growth: Start ·
 Approach: Be-er · Style: Holistic" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L48]. It names the lock-in as its storyform
 source (L13, L1393).
+
+## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+The Storyform-B table assigns „Do-er“ to MC Approach
+^[koharenz-protokoll-konzept-iteration-genesis-md.md:L152], and explains it as
+the outward mode of the operational half ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L186].
+This supports the Do-er position, while the character bible's Be-er entry
+remains part of the record.

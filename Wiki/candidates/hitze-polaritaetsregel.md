@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -34,3 +34,8 @@ The konsolidiertes Konzept and the Kapitel-Kompendium give Landauer *heat* befor
 and after the lock; „Kernwelten vollständig" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L11] applies the rule in KW1 and keeps
 Landauer warmth for the transition out of it. [[landauer-signatur]] has each
 reading; C11 has the record.
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- Landauer warmth at chapter 6: „Landauer-Wärme“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528]
+- Landauer warmth at chapter 36: „Landauer-Wärme als Schluss-Markierung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]

@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 11
-readings: 10
+sources: 12
+readings: 11
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -310,3 +310,7 @@ Guardian. KW1 is „Rationalisierung, ANP-Domäne" ^[koharenz-protokoll-struktur
 EP-Domäne" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L173]: two worlds answer to classes of [[alters|Alters]], not to single
 ones (Q3). Kap 1: „Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] (J26).
 The base reality lies outside: „Existiert jenseits der Simulation." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L179]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- staged as a manipulated setting, in the source’s proposed storyform: „Die Kernwelten als manipulierte Bühne“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L235]
