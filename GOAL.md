@@ -21,7 +21,7 @@ Kein vorheriger Kontext überlebt. Alles, was du weißt, musst du aus den Quelle
 > **Ist-Stand 2026-09-23 — du fängst nicht bei null an.** Seit dem Reset (Entscheidung `Plan/decisions/001-reset-to-two-layers.md`, 2026-09-16) baut dieses Repository ein Begriffs-Wiki aus den Drive-Quellen, mit denselben Grundsätzen, die dieser Auftrag verlangt: Provenienz auf jeder Aussage, kein stilles Glätten, Konflikte als eigene Records, abgeleitetes Wissen markiert. Es gibt:
 >
 > - `Sources/`: 613 <!--state:sources.total--> Drive-Dokumente im Manifest, 371 <!--state:sources.landed--> als Markdown gelandet und dedupliziert.
-> - `Wiki/`: 92 <!--state:wiki.pages--> Begriffsseiten, 12 <!--state:wiki.conflicts--> Konflikt-Records und 5 <!--state:wiki.questions--> Fragen-Seiten, jede Aussage mit Zitat und Zeilennummer.
+> - `Wiki/`: 93 <!--state:wiki.pages--> Begriffsseiten, 12 <!--state:wiki.conflicts--> Konflikt-Records und 5 <!--state:wiki.questions--> Fragen-Seiten, jede Aussage mit Zitat und Zeilennummer.
 > - Einen abgeleiteten Knowledge Graph (`scripts/graph.py`) und GraphRAG-Retrieval (`scripts/graphrag.py`), die nur zurückgeben, was die Seiten belegen.
 > - Eine DSPy-Werkzeugkette, die bisher kein Modell aufgerufen hat.
 >
@@ -197,12 +197,12 @@ SPEC.md               # Phase 0
 > | Soll | Existiert als | Deckt ab |
 > |---|---|---|
 > | `kg/sources/manifest.jsonl`, `kg/raw/` | `Sources/manifest.jsonl`, `Sources/drive/*.md`, `Sources/duplicates.jsonl` | Katalog, Checksummen, Dedupe. Legacy-Kanon und Manuskript fehlen. |
-> | `claims.jsonl` | `Sources/terms/*.md` (Census), `Sources/notes/*.md` (Notes mit `^[Lnn]`-Zitaten) für 14 <!--state:documents.with_census--> Dokumente | Aussagen mit Zitat und Zeile. Noch ohne Prädikat-Vokabular. |
-> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 123 <!--state:graph.nodes--> Knoten, 1267 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
-> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 300 <!--state:proposals.entities--> Entitäten aus Leselisten; 75 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
+> | `claims.jsonl` | `Sources/terms/*.md` (Census), `Sources/notes/*.md` (Notes mit `^[Lnn]`-Zitaten) für 15 <!--state:documents.with_census--> Dokumente | Aussagen mit Zitat und Zeile. Noch ohne Prädikat-Vokabular. |
+> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 125 <!--state:graph.nodes--> Knoten, 1312 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
+> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 300 <!--state:proposals.entities--> Entitäten aus Leselisten; 79 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
 > | `conflicts.jsonl` | `Wiki/conflicts/c1…c5` (Entscheidung 003: ein Record pro Streitfall, append-only) | 12 <!--state:wiki.conflicts--> Records. Kein Detektor, bisher jeder von einer Person gelesen. |
 > | `questions.jsonl` | `Wiki/questions/q1…q4`, dazu jede `## Open`-Sektion einer Seite | 5 <!--state:wiki.questions--> Fragen-Seiten und die offenen Aussagen, die `relations.py --open` erntet. |
-> | `wiki/konzepte/` | `Wiki/candidates/*.md` | 92 <!--state:wiki.pages--> Seiten, noch keine promoviert (`Wiki/terms/` existiert nicht). |
+> | `wiki/konzepte/` | `Wiki/candidates/*.md` | 93 <!--state:wiki.pages--> Seiten, noch keine promoviert (`Wiki/terms/` existiert nicht). |
 > | `kp ask` | `python3 scripts/graphrag.py ask "…"` | Gibt nur belegte Zitate zurück, nie Prosa. `--answer` lässt ein Modell nur Belegnummern wählen. |
 > | Provenienz-Prüfung | `scripts/quotes.py`, `scripts/read.py --find`, `scripts/selftest.py` | 0 <!--state:quotes.unresolved--> Zitate bleiben unaufgelöst; nicht einzeln zitierte Tabellenzellen sind noch ungeprüft. |
 > | `kp refresh`, Inkrementalität | `scripts/state.py` (abgeleitete Zahlen), `Plan/runs/<slug>/reconcile.json` (`state_before` → `state_after`), `scripts/account.py order` | Ob ein Schritt erledigt ist, ist eine Messung. Nicht sha256-gesteuert pro Claim. |
@@ -570,7 +570,7 @@ Nach jeder Phase: Commit, kurzer Statusbericht an den Autor, ein Eintrag in `lea
 > |---|---|
 > | 0 · Recon und Spec | Zugangs-Inventur weitgehend erledigt (§2 oben): Drive läuft über den Katalog in `Sources/`. Offen: `agency`, die claude.ai-Exporte, die Entscheidungen in Anhang C. `SPEC.md` existiert nicht. |
 > | 1 · Ingest und Katalog | **Katalog vollständig** (`Sources/manifest.jsonl`, 613 <!--state:sources.total--> Einträge), gelandet und dedupliziert sind 371 <!--state:sources.landed-->. **Die Kanon-Stände sind gelandet** (2026-09-24): 33 <!--state:sources.canon_era_landed--> von 33 <!--state:sources.canon_era--> Einträgen ab Mai 2026. Gelesen sind davon acht, `storyform-und-outline`, die `charakter-bibel`, das `konzept-konsolidiert`, das `kapitel-kompendium`, `kernwelten-vollstaendig`, der `dramatica-dual-storyform-status`, die `begriffe-und-konzepte` und der `strukturierter-outline` (2026-09-24). Außerhalb des Katalogs fehlen die claude.ai-Exporte und der Weg für Manuskript und NCP (C1). |
-> | 2 · Claims und Entitäten | Für 14 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
+> | 2 · Claims und Entitäten | Für 15 <!--state:documents.with_census--> Recherche-Dokumente als Census und Note. Kein Prädikat-Vokabular, keine Kanon-Quelle. |
 > | 3 · Konflikte | 12 <!--state:wiki.conflicts--> Records von Hand. Kein Detektor, keine Fixture aus Anhang B getestet. |
 > | 4 · Plot-Modell | Nicht begonnen. Die Kapitel-Köpfe im Manuskript (`Outline`, `Beats`, `Locks`) sind der naheliegende erste Datensatz. |
 > | 5 · Selbstfragen | Fragen-Seiten und `## Open`-Sektionen existieren, kein Loop. |
@@ -774,7 +774,7 @@ python3 scripts/pairs.py score                    # „ein Begriff oder zwei“ 
 - Kontext-Builder mit Token-Budget ↔ `kp context <kap> --budget`
 - Dramatica-Anbindung (Spec §8.5) ↔ §5.2
 
-Ihr Hinweis zur deutschen Flexion beim Alias-Matching trifft genau die Lücke, die hier `fold()` und `pairs.py` messen: 36 <!--state:pairs.fold_correct--> von 63 <!--state:pairs.labelled--> Paaren.
+Ihr Hinweis zur deutschen Flexion beim Alias-Matching trifft genau die Lücke, die hier `fold()` und `pairs.py` messen: 40 <!--state:pairs.fold_correct--> von 67 <!--state:pairs.labelled--> Paaren.
 
 `CLAUDE.md` beschreibt jedes Werkzeug. Den Katalog der guten, noch nicht gebauten Ideen führt `PRINCIPLES.md`. Die neun DSPy-Repositories, aus denen die Werkzeugkette portiert ist, sind in `Plan/concept/dspy-toolchain_2026-09-23.md` ausgewertet.
 
