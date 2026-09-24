@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -55,3 +55,9 @@ and a KW2 place named for him and [[mnemosyne|Mnemosyne]], „Mnemosyne ↔ Obli
 
 „Silas=Coheron-Echo, Oblivion=Erason-Operator" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L332] — a double figure whose POV
 scenes carry both storyforms (L332).
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+In the glossary's Alter table: role „AEGIS-Echo" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L267], correlate „Erason-Operator" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L268], somatics „offen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L269], arc „Automat → Bewusstsein → Entscheidung" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L270].
+
+„Oblivion trägt einen Splitter von AEGIS in Kael." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L277]
