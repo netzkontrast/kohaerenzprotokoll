@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -49,3 +49,7 @@ In the glossary's Alter table: role „Rationalist" ^[kohaerenz-protokoll-begrif
 
 Function „Logik, Analyse, Intellektualisierung" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L133], correlate „Gödel + Halteproblem" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L133], arc „kalte Logik → Intuition" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L133]. First in Kap 2: „Lex-Einbruch beginnt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281]; dominant in Kap 3–5; in Kap 6 „Kaels einseitiger
 Logik-Ansatz scheitert an einem komplexen Problem." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- first interventions in chapter 2: „Erste Lex-Einbrüche“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L512]
