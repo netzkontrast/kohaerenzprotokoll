@@ -146,9 +146,10 @@ Every command below except `score` needs `.venv-dspy` (DSPy 3.3.1 with numpy).
 .venv-dspy/bin/python scripts/check_dspy_surface.py     # the DSPy surface this repo calls
 .venv-dspy/bin/python scripts/lm_fixture.py             # the offline LM refuses the network
 .venv-dspy/bin/python scripts/lmrun.py                  # the call record's four statuses
-python3 scripts/pairs.py score [--rule fold] [--record]  # a rule on one-term-or-two, stdlib
-.venv-dspy/bin/python scripts/pairs.py run --optimizer labeled|bootstrap|inferrules|simba|gepa --dry-run
-.venv-dspy/bin/python scripts/pairs.py run --optimizer … --model M --approval "…" [--folds 5] [--repeats 3] [--record]
+python3 scripts/pairs.py score [--rule fold|plural] [--record]  # a rule on one-term-or-two, stdlib
+python3 scripts/pairs.py selftest                        # the plural rule, and the veto shown failing
+.venv-dspy/bin/python scripts/pairs.py run --optimizer labeled|bootstrap|inferrules|simba|gepa [--rule plural] --dry-run
+.venv-dspy/bin/python scripts/pairs.py run --optimizer … --rule plural --model M --approval "…" [--folds 5] [--repeats 3] [--record]
 python3 scripts/baseline.py show | compare <task> [--floor NAME] | selftest
 python3 scripts/check_skills.py [--selftest]
 ```

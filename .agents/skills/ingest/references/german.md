@@ -24,8 +24,13 @@ counted answers a different question each time it runs.
 and including compounds — and lists the inflected surfaces it found.
 **A term at `0 word` is written differently in this document, not absent.**
 
-Every baseline miss `fold()` currently has is a plural or an inflection. That is
-the open morphology question and it is not closed.
+Eight of the 27 labelled pairs `fold()` misses are plurals or inflections
+(2026-09-24); the rest are slashes, renames, modifiers, abbreviations and
+indices.
+Decision 010 set the reach of a plural rule for the eight — a scored rule in
+`pairs.py`, which reconciliation does not use — so the morphology question is
+narrower, and not closed: whether `fold()` adopts that rule is the author's
+(`NOW.md`).
 
 ## The German definite article is never a term boundary
 

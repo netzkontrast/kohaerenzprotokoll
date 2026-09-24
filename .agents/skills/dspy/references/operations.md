@@ -557,12 +557,13 @@ and only the absolute floor on `compiled_em_rate` can ever fire
 
 | task | growth | score |
 |---|---|---|
-| `one-term-or-two rule:fold` | n=36 → 44 → 49 → 57 | 58.3% → 61.4% → 59.2% → 57.9% |
-| `graphrag-retrieval` seeds | n=9 → 10 → 14 | 39.5% → 38.4% → 45.3% |
-| `graphrag-retrieval` ppr | n=9 → 10 → 14 | 57.8% → 56.3% → 62.0% |
+| `one-term-or-two rule:fold` | n=36 → 44 → 49 → 57 → 63 | 58.3% → 61.4% → 59.2% → 57.9% → 57.1% |
+| `one-term-or-two rule:plural` | n=57 → 63 | 71.9% → 69.8% (decision 010) |
+| `graphrag-retrieval` seeds | n=9 → 10 → 14 → 17 | 39.5% → 38.4% → 45.3% → 41.9% |
+| `graphrag-retrieval` ppr | n=9 → 10 → 14 → 17 | 57.8% → 56.3% → 62.0% → 62.9% |
 
 Every growth step here moved the score, sometimes down — the fold task's
-59.2% → 57.9% step is the floor doing exactly its job: a larger, harder set
+59.2% → 57.9% → 57.1% steps are the floor doing exactly its job: a larger, harder set
 scored slightly worse and the ledger says so rather than smoothing it (P24,
 "done is a measurement, not a flag").
 

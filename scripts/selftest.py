@@ -80,12 +80,18 @@ NUMBER_CASE = ('> „Untersucht Kernwelt 3 (Logik/LogOS) als direkte Manifestati
 SPAN_CASE = ("die Illusion von Normalität (Implizite Kontrolle). "
              "Analyse des AEGIS-Fokus", (21, 22))
 
-# fold() must NOT merge these. Each is a distinction the wiki rests on.
+# fold() must NOT merge these. Each is a distinction the wiki rests on, and
+# scripts/pairs.py asks every rule and every model the same pairs as a veto.
 MUST_NOT_MERGE = [
     ("Negentropie", "Entropie"),        # the canary: opposites
     ("Guardian", "Guardians-Subroutine-Log"),
     ("Kern-Welt", "Kern-Programm"),
     ("Riss", "Rissbildung-Protokoll"),
+    # Two words the corpus uses, each within one step of the plural rule's reach
+    # (decision 010): -er makes a player of a game, and case-blind -s would put
+    # a visual logo on the Guardian page fold() spells `logos`.
+    ("Spiel", "Spieler"),
+    ("Logo", "LogOS"),
 ]
 
 # fold() must merge these. Each is a rule the ledger records.

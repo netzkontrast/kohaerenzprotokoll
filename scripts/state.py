@@ -323,6 +323,13 @@ def _pairs_fold_correct() -> int:
     return _fold_baseline()["correct"]
 
 
+@measure("pairs.plural_correct", "of those, decided correctly by the plural rule of decision 010 — the floor a model must beat")
+def _pairs_plural_correct() -> int:
+    from pairs import plural
+    from trainset import score_one
+    return int(sum(score_one(r, plural(r["first"], r["second"]))["score"] for r in _surface_pairs()))
+
+
 # ---------------------------------------------------------------- checks
 
 @cache

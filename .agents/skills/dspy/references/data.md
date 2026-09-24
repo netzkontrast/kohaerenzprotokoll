@@ -123,7 +123,9 @@ only on its own held-out rows (`scripts/pairs.py`). Grouping by
 `two-terms` rows, never all of one class.
 
 **Canaries are pinned to evaluation by never being in the pool at all.**
-`selftest.MUST_NOT_MERGE`'s four pairs are not `judgements.jsonl` records — they
+`selftest.MUST_NOT_MERGE`'s six pairs — four since the start, and two since
+decision 010 put `Spiel`/`Spieler` and `Logo`/`LogOS` one step past the plural
+rule's reach — are not `judgements.jsonl` records — they
 are hard-coded in `scripts/selftest.py`, so `surface_pairs()` never returns them
 and `folds()` never places one in any fold. They are checked once, after every
 fold is scored, against the program compiled on the *full* 63

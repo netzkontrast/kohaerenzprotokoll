@@ -27,13 +27,27 @@ first. The code is `scripts/pairs.py`, `scripts/baseline.py`,
 model. `trainset.fold_baseline()` and `pairs.score_rule("fold")` both score it
 the same way: **36 <!--state:pairs.fold_correct--> of 63 <!--state:pairs.labelled-->
 labelled pairs**, run live 2026-09-24 (`python3 scripts/pairs.py score` prints
-`rule:fold: 33/57 = 57.9% on 57 labelled pairs`). All 24 misses have the same
+`rule:fold: 36/63 = 57.1% on 63 labelled pairs`). All 27 misses have the same
 shape — gold `one-term`, `fold()` says `two-terms` — so on this ledger `fold()`
 has never produced a **false merge**; every miss is the safe direction. That is
 the reason the ladder is rule-first: a model is only ever asked about the
-residual `fold()` calls `two-terms`, so it can only be asked to *find* a merge
-`fold()` missed, never given the chance to *undo* one `fold()` made correctly
+residual `fold()` calls `two-terms` — on 2026-09-24, 59 of the 63 pairs, 27 of
+them gold `one-term` — so it can only be asked to *find* a merge `fold()`
+missed, never given the chance to *undo* one `fold()` made correctly
 (`scripts/pairs.py`).
+
+**The plural rule raises the floor, without a model.** Decision 010 set, on the
+author's delegation, the reach of `pairs.RULES["plural"]`: `fold()`, plus a
+plural ending — `-s` `-es` `-e` `-en`, `-n` only after `-e` — on a stem of four
+letters or more, written in lower case. It decides
+**44 <!--state:pairs.plural_correct--> of 63 <!--state:pairs.labelled-->**,
+with no false merge and no canary merged. It is a row on the ledger and not part
+of `fold()`: reconciliation still merges by `fold()` alone.
+`pairs.py run --rule plural` asks it before the model, which then sees 51 pairs,
+19 of them gold `one-term` (2026-09-24), and a run on that residual has to beat
+`rule:plural`, not `rule:fold` (`python3 scripts/baseline.py compare
+one-term-or-two --floor rule:plural`). Eleven of those nineteen were decided
+from the passage, which `SameTerm`'s two input fields do not carry (`NOW.md`).
 
 `scripts/trainset.py`'s docstring keeps the first measurement — 14/17 = 82%,
 misses J4/J6/J14, from `Plan/concept/trainset-and-the-baseline_2026-09-17.md`,
@@ -70,9 +84,14 @@ same folds regardless of run order. `canaries()` returns
 compiled program, after every fold and again after the final full compile
 (`scripts/pairs.py`, `canaries()` and the loop after the final compile).
 
-**A canary merge vetoes the run, whatever its score.** If the fold-held rule
-already says `one-term` for a canary pair the veto fires without a call at all
-(`RULES["fold"](a, b) == "one-term"`); otherwise the compiled program is asked.
+**A canary merge vetoes the run, whatever its score.** If the rule named by
+`--rule` already says `one-term` for a canary pair the veto fires without a call
+at all (`first = RULES[rule]`, `first(a, b) == "one-term"`); otherwise the
+compiled program is asked. Two canaries sit one step past the plural rule's
+reach — `Spiel`/`Spieler` (`-er`) and `Logo`/`LogOS` (an ending in upper case) —
+and `python3 scripts/pairs.py selftest` hands the veto a rule that takes each
+step and shows it fire; before decision 010 no canary was within any plural
+rule's reach.
 `baseline.row(..., vetoed=bool(merged))` records it, and `baseline.compare`
 fails a vetoed row unconditionally (below). This exists because `dspy.GEPA`
 optimizes a mean score: a candidate that merges the one pair that must never
@@ -96,6 +115,9 @@ from `ChatAdapter`'s rendered system message and answers each one
 Run live here, offline, 2026-09-24 (`.venv-dspy/bin/python scripts/pairs.py
 run --optimizer <name> --dry-run`), all five rungs score **exactly
 `0.5789` (33/57), 0 canaries merged, exit 0** — identical to `fold()` itself.
+Later the same day, at 63 pairs, the `labeled` rung gave `0.5714` (36/63), and
+with `--rule plural` `0.6984` (44/63) — each rule's own score, by the same
+construction.
 That is not a coincidence to be proud of: the fixture always answers
 `two-terms`, and every one of `fold()`'s 24 misses is a case where the gold
 answer is `one-term` and `fold()` (hence the fixture) says `two-terms`, so a
@@ -136,8 +158,8 @@ rollouts`** — exactly `auto_budget(1, 6, 57) = 608` (see GEPA below).
 author's decision>"` or refuses (`scripts/pairs.py`); `lmrun.make_lm`
 builds the LM with `cache=False`, and `lmrun.call` separately refuses a cached
 LM and refuses a real LM with no `approval=`. Exactly one such run is
-catalogued and waiting: `pairs.py run --optimizer labeled` — the cheapest
-rung, on the residual after `fold()` — named in `NOW.md` as one of three
+catalogued and waiting: `pairs.py run --optimizer labeled --rule plural` — the
+cheapest rung, on the residual after the plural rule — named in `NOW.md` as one of three
 model calls the author has not yet said yes to (`NOW.md`, *Which model runs
 are allowed*). **None of the five rungs has run against
 a real model as of 2026-09-24.**
@@ -148,19 +170,20 @@ a real model as of 2026-09-24.**
 `task, candidate, program_hash, trainset_hash, n, scored, correct, score,
 vetoed, outcomes, cost, at, note`. `compare(task, floor)` reads `("ok" |
 "warn" | "fail" | "unscored", reasons)` for the **newest** row of a task
-against the row named by `floor` (default: the task's first row) —
-`scripts/baseline.py`:
+against the newest row of the candidate named by `floor` (default: the task's
+first candidate) scored on the same trainset — `scripts/baseline.py`:
 
 - `unscored` — the newest row's `score` is `None` (0 of `n` examples could be
   scored).
 - `fail` — the row is `vetoed` (a canary merged), **or** its score does not
   beat the floor's, whatever the score.
-- `warn` — the trainset changed since the floor row was scored (compare the
+- `warn` — the floor candidate has no row on this trainset (compare the
   hashes, re-score the floor first), or some examples were not scored, or the
-  score fell more than `TOLERANCE = 0.02` below the best earlier row.
+  score fell more than `TOLERANCE = 0.02` below the best earlier row on the same
+  trainset.
 - `ok` — beats the floor, nothing else flagged.
 
-Run live here, 2026-09-24 (no ledger write — `compare` only reads):
+Run live here, 2026-09-24, before one fix:
 
 ```
 $ python3 scripts/baseline.py compare one-term-or-two --floor rule:fold
@@ -168,13 +191,27 @@ warn
   trainset changed since the floor (ea786421cb69 → 8164aef4b827): re-score the floor before comparing
 ```
 
-The ledger's newest `rule:fold` row was scored at `n=49`; the live ledger is
-now 57. This is `compare`'s trainset-hash check doing exactly what it is for:
-a floor scored on yesterday's rows cannot certify today's without saying so.
-`baseline.digest` hashes what a program or trainset **is** (`program_hash` of
-`fold`'s own source is identical across all three recorded `rule:fold` rows —
-`43807fbbefd8` — because the rule has not changed), never a version someone
-bumps by hand.
+`ea786421cb69` is the `n=36` row of 2026-09-23: `compare` took the floor
+candidate's **oldest** row, so re-scoring the floor — what the message asks
+for — appended a row `compare` never read, and the warning could not be
+cleared. And behind that sat a second defect the first one hid: it measured a
+fall against the best row on *any* trainset, so with only the floor fixed, the
+floor re-scored at 57 pairs (57.9%) would still have been flagged as below its
+own 61.4% at 44. Both are fixed, and `baseline.py selftest` carries one case
+for each, each failing against the old code. After `pairs.py score --rule fold --record`
+and `--rule plural --record`:
+
+```
+$ python3 scripts/baseline.py compare one-term-or-two --floor rule:fold
+ok
+```
+
+`baseline.digest` hashes what a program or trainset **is**, never a version
+someone bumps by hand. For a rule row that now includes `fold()`'s own source:
+until 2026-09-24 only the lambda that calls `fold()` was hashed —
+`43807fbbefd8` on every `rule:fold` row — so a change inside `fold()` would
+have left the hash as it was. The row recorded that day carries
+`9e29d450e8b8`, although `fold()` did not change.
 
 ## Choosing an optimizer
 
@@ -340,7 +377,9 @@ max_labeled_demos=2, num_threads=1`: val 61.67, **test 65.00 (52/80), +11.25**,
 $0.62 run below, for less than half GEPA's gain.
 
 **Not taken here**: "50+ examples" is the threshold in every source that gives
-one; this project's residual after `fold()` is 24 of 57. Absent from
+one; this project compiles on 49 to 51 labelled pairs per fold, 63 in all
+(2026-09-24) — at the threshold rather than past it, and the cost measured above
+buys less than half GEPA's gain. Absent from
 `pairs.py`'s ladder and from `Plan/concept/optimizers-and-data_2026-09-17.md`'s
 ruled-in table by name (grouped with MIPROv2 and synthetic data generation
 under the same "100+/50+ examples" reason, `Plan/concept/dspy-toolchain_2026-09-23.md`).
@@ -417,11 +456,15 @@ second half to choose among the candidates.** [checked: inferrules-halves-trains
 trainset[:train_size], trainset[train_size:]`
 (`dspy:teleprompt/infer_rules.py:24-26`). `pairs.py`'s InferRules rung never
 passes a `valset` (`scripts/pairs.py`), so every real run on this
-ledger is silently halved this way: at the 24-row residual (57 labelled minus
-33 `fold()` already answers, canaries excluded before this point), that is 12
-rows to write rules from and 12 to pick a winner among — with **no canary
-held back at all**, because `pairs.py`'s canary check runs separately, after
-compile, on the final program.
+ledger is silently halved this way. What it halves is the compile trainset —
+every labelled row outside the held-out fold, the pairs the rule answers
+included — not the residual a model is asked about: on 2026-09-24, 49 to 51 of
+the 63 rows per fold, so 24 or 25 to write rules from and the rest to pick a
+winner among, and 31 of 63 in the final compile. (Until 2026-09-24 this
+paragraph said „the 24-row residual … 12 rows … and 12"; `pairs.py` asks a
+model about the 59 pairs `fold()` calls two terms, 27 of them gold `one-term`,
+and trains it on all.) **No canary is held back at all**, because `pairs.py`'s
+canary check runs separately, after compile, on the final program.
 
 **This is the rung this project's own concept doc singles out, and it is
 absent from `dspy-agent-skills`'s own selection table.** The reason is
@@ -557,7 +600,8 @@ chapter's own worked example of "Report the held-out number."
 `[number]`).
 
 **Not taken here**: "100+ examples" is the threshold `dspy-agent-skills` and
-this project's own concept doc both give; residual here is 24. `dspydantic`'s
+this project's own concept doc both give; this project compiles on 63 labelled
+pairs, 49 to 51 per fold. `dspydantic`'s
 auto-selector places MIPROv2 (zero-shot) only at the **opposite** end, n≤2 —
 a different regime entirely from "100+", not a disagreement about this
 project's size.
@@ -1176,7 +1220,7 @@ teacher/student distinction is cosmetic
 
 | thing | why, and what already covers it |
 |---|---|
-| `MIPROv2` | "100+" examples in every source that gives a threshold; residual here is 24 of 57 — see MIPROv2, above |
+| `MIPROv2` | "100+" examples in every source that gives a threshold; the compile trainset here is 63 labelled pairs, 49 to 51 per fold — see MIPROv2, above |
 | `BootstrapFewShotWithRandomSearch` ("random search") | "50+" examples; its own measured cost (8 candidates, $0.88, 1119 s) exceeds GEPA's for less than half the gain — see the section above |
 | synthetic data generation | grouped with the two above in `Plan/concept/dspy-toolchain_2026-09-23.md` under the same "100+/50+" reason. `dspy-auto-gepa`'s `AutoData` is the nine repositories' own instance of this: it generates rows with an LLM from seed examples, but its allowed output values come **only from the seed rows** (a `Literal` type annotation is ignored; no seed of a class means no rows of that class ever get generated — `dspy-auto-gepa:src/dspy_auto_gepa/data.py:43-57,86,90`, `[trap]`), and its judge **never rejects a row** — scores are recorded, never thresholded, so a synthetically generated row scored 0.0 for quality is accepted anyway (`dspy-auto-gepa:src/dspy_auto_gepa/generator.py:1193-1227,1399-1403`, `[trap]`). Synthetic rows would not, by themselves, fix this project's undersized residual with a check this project would trust |
 | LLM-drafted metrics | `Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken*: "the rule a program is scored by is written by a person; the `metric=Path(...)` bypass is the only path used." `dspy-auto-gepa` is the instance this refuses: by default it has `dspy.RLM` **draft a `metric.py` file** from a natural-language spec — a 215-line prompt of rules and three worked examples is the model's only instruction (`dspy-auto-gepa:src/dspy_auto_gepa/metric_builder.py:9-233,229-233,286-294`, `[pattern]`) — unless a human-written `metric=Path(...)` is passed instead, which is the only path this project would ever take. Its own documented "generate, review, then run" workflow does not survive a retrain: `run(force=True)` regenerates the metric file again, silently discarding a human's edit (`dspy-auto-gepa:src/dspy_auto_gepa/runner.py:388-394`, `[trap]`) — a sharp illustration of why a metric stays a person's file, never a step that reruns |
