@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -50,3 +50,13 @@ The passage names the heat (`Landauer-Abwärme`), the page names its rendering; 
 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307] — the same
 sentence with `Hitze` replaced. This document's stated date, „Stand: 2026-05-31"
 ^[kapitel-kompendium-gather-2026-05-31-md.md:L13], is the day after the 2026-05-30 lock document 7 cites; it still writes heat. Conflict C11.
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+**Cold ozone, and heat at the transitions — both in one document.** KW1: „Ozon
+(Landauer-Suppression-Spur, *kalt-elektrisch*) + Desinfektionsmittel." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L110]
+Juna's warmth debuts in Kap 3: „erste Wärme-Spur (Junas Coheron-Debüt)" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829].
+And the thermal Riss from KW1 to KW2: „Landauer-Wärme spürbar" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L764]; „Genau
+diese Wärme ist das *Substrat des Übergangs*." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L706] Kap 6 names no Landauer
+trace (L832). Document 7's lock, applied — with the Landauer warmth kept for the
+transition. Conflict C11.
