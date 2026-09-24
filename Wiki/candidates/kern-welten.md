@@ -240,3 +240,10 @@ denied. Recorded in conflict `C6`.
 
 The exception is what contains them: „der Konstrukt-Stadt, gesteuert von AEGIS —
 die in vier Kernwelten unterteilt ist" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L44]. See `C9`.
+
+## Decided by the author, 2026-09-24 — the Konstrukt-Stadt is the whole simulation
+
+„Die ganze Simulation" (conflict `C9`): the simulated world AEGIS runs, divided
+into the four Kern-Welten — not KW1. The readings above that name it as KW1 stay as
+their documents wrote them. What KW1 is called is open in `q5-guardians-and-kern-welten`.
+
