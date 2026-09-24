@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -22,7 +22,7 @@ The master list gives four facts in one row ^[roman-lokalitaeten-konzept-und-aus
 | Realitätsebene | `KW1` |
 | where the name came from | `Plot Teil 1` |
 | function, in brief | „Ausgangspunkt, Ort des Alltags und erster Zweifel" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L187] |
-| associated characters | Kael, Limina (implizit) |
+| associated characters | [[kael|Kael]], Limina (implizit) |
 
 Teil IV profiles it. What it is:
 
@@ -49,3 +49,15 @@ Whether `Limina` is present here in any sense a scene could show — the
 row says `implizit` and the profile says „vielleicht unbewusst" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L268].
 
 What „1.0" enumerates. No `Wohneinheit 2.0` occurs anywhere in this document.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+**Numbered 734 here, and the start of Kap 1.**
+
+> „Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306]
+
+— the route of Kael's first day in KW1. The number recurs, once as a console line
+the reader should notice and Kael should not, and once as „Komponente 734" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] in the
+Kap 0 genesis sequence ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298]. **This page is `Kaels Wohneinheit 1.0`**; the
+dwelling is the same by the sentence (Kael's start in KW1), the number is not, and
+the page records both (judgement J50).
