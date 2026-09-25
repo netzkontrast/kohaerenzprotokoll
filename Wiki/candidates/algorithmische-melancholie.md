@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -75,3 +75,12 @@ In AEGIS' first-person chapter a residual value no category takes: „Debüt der
 
 In Vortex 1, Kap 35–36: „Beat 5: AEGIS' Stimme erlischt; Algorithmische Melancholie folgt." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L193] — after
 [[aegis|AEGIS]]' one break, „im Vortex-Beat 5" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L37].
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„AEGIS' finaler Zustand nach dem Vortex." ^[kohaerenz-protokoll-konzept-master-md.md:L486]
+„Definition: ein parakonsistent gewordenes System, das Widersprüche prozessieren kann, aber keine Bedeutung mehr daraus ziehen." ^[kohaerenz-protokoll-konzept-master-md.md:L486]
+„Es lebt weiter. Es funktioniert. Es ist nur leer." ^[kohaerenz-protokoll-konzept-master-md.md:L486] Against the alternatives:
+„AEGIS-Tod: zu einfach, evakuiert das tragische Pathos." ^[kohaerenz-protokoll-konzept-master-md.md:L494] and „AEGIS-Heilung: zu sentimental" ^[kohaerenz-protokoll-konzept-master-md.md:L495].
+Proposed, the anchor still open: „lebende Reliquie — operativ aktiv, aber ohne Selbstreferenzfähigkeit" ^[kohaerenz-protokoll-konzept-master-md.md:L500].
+In the Vortex, Beat 5: „B's operative Closure zerbricht, A bleibt allein" ^[kohaerenz-protokoll-konzept-master-md.md:L856].
