@@ -1207,3 +1207,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L56 describes the mirror Alters as „Internalisierte Außenkräfte (Juna ↔ AEGIS) im System": the arrow sets the two outside forces against each other
 
 **Result.** two terms — the joined form names a relation between two pages, and is an alias of neither; each name keeps its own page
+
+## J87 — Anteil / Alter
+
+**judgement** · koharenz-protokoll-sprach-dna-2026-05-13-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a common noun a source uses for a page's referent is resolved by the sentence, never by the surface (J20, J55, J67)
+- **mechanised by:** `nothing`
+- **features:** common-noun, two-vocabularies, not-flagged-by-lookup
+
+**Question.** one term or two?
+
+**What was done.** L13 names what the document profiles as „Stimmen, Anteile, Stilebenen und Akt-Modi“; L21 and L125 use `Anteil` for the voice a switch arrives at; the thirteen voices L67–L165 are the alters page's referent; L69 names `Alter` only as a word Kael's Akt I may not use
+
+**Result.** judgement — here `Anteil` names the system's parts, the referent of the alters page, and `Alter` is only mentioned as a word; a reading on alters. But `Anteil` is also an ordinary German noun, a share, and as a surface it would claim every share in the corpus
