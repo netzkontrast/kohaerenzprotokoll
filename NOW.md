@@ -37,6 +37,8 @@ Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations
 | **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) · **a trait, in no chapter**: the Host's bleeding knuckles stand in his profile, in neither Kap 0 nor Kap 1 (strukturierter Outline 2026-05-18) · Kap 0 alone, four times, dated to the Kompendium's lock of 2026-05-31 (drafting manual 2026-06-10) · Kap 0 only, in Kael's profile (Alter profiles 2026-06-10) |
 | **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) · warmth in Kap 6 and Kap 36, in the konsolidiertes Konzept's words (strukturierter Outline 2026-05-18) · **one document on both sides**: the drafting manual (2026-06-10) locks cold ozone as the Landauer-Signatur and names its first foreshadowing strand `Landauer`, „Hitze als Symptom der Wahrheitsvertuschung“, accumulating in Kap 6 (J81) · **heat three ways in one document** (Alter profiles 2026-06-10): Juna's Coheron-Spur, Silas' warmth as the only diegetic warmth under the same lock, and Landauer heat from the Silas–Oblivion conflict |
 | **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) · both orders and a fourth beat (Kapitel-Kompendium, and already the strukturierter Outline of 2026-05-18) · four beats restated, Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural, 734 no beat (drafting manual 2026-06-10) · four beats cited to the Kompendium, and Alex arising in the fragmentation (Alter profiles 2026-06-10) |
+| **C14** | Does AEGIS get a first-person chapter? | third person, no inside (Charakter-Bibel; konsolidiertes Konzept, both 2026-05-08; Kernwelten vollständig) · one chapter in Kap 5–8 with a first-person inner view, an exception locked 2026-05-30 (storyform-und-outline; begriffe-und-konzepte) · both, unrelated (welt-sensorik, with „nie Ich") · third person and never prose, its debut in that very chapter (Anteile-Profile, which says it is filtered on the 2026-05-30 iterations) |
+| **C15** | Who carries Flight, the spatial riss? | Kiko as her second function, and Lia (Charakter-Bibel 2026-05-08; Anteile-Profile 2026-06-10) · Lia and Isabelle (konsolidiertes Konzept, the bible's date; storyform-und-outline, Kernwelten vollständig, begriffe-und-konzepte, all 2026-06-10) · both, in two tables (welt-sensorik) |
 
 C1–C5 come from the 2025 research documents and have not been put to the author
 before this list.
@@ -120,6 +122,14 @@ before this list.
   The six cited positions are in `Wiki/conflicts/c13-externe-ebene-beyond-the-simulation.md`.
 
 ### The process — the author's call, with the detail under *Open decisions*
+
+- **Two sessions are reading the same documents.** Documents 16 and 17 were each
+  read twice on 2026-09-25, in the same order, because both handovers named the
+  same next document. Main took one session's readings; the second readings
+  found C13, C14, C15 and C11's missing bible entry, and their lists are kept as
+  blind re-readings (`Plan/learnings/extract-terms.md`). If several sessions are
+  meant to read, which one takes which document is yours to divide — nothing in
+  `NOW.md` does it yet.
 
 - **Decision 011 — confirm or narrow.** On „Use dspy Optimierung on the
   Scripts" and „Add openrouter free Models in the mix" the session let DSPy
@@ -362,7 +372,7 @@ was worth porting from the tools is decided — the review's closing section.
 In order, and none of it needs a model:
 
 1. **More retrieval cases.** `graphrag.py bench` has
-   18 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   20 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
    pages. The `## Open` sections (`relations.py --open`) are a second source;
    write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
    has why and the next four steps after it.
@@ -613,6 +623,12 @@ high tier into it is the next step, and it is a person's.
 - **The roster**: thirteen named, fifteen names excluded by name (L95), `Limina` among them.
 
 Next, by the open records: `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` for C11 and C12 (291 lines; 8 lines with `Ozon`, 8 with `734`, `grep -c`, orientation only). Of the four files the drafting manual calls a quartet, all four are now read.
+
+**A second reading of it, the same day** (pull request #88), found two conflicts
+this reading's pages held and no record did — **C14**, whether AEGIS gets a
+first-person chapter, and **C15**, who carries Flight — and gave C11 the character
+bible's entry. Its list is kept as `03-candidates-blind-1.md`: F1 0.52 against
+the committed one, which it holds 92 % of.
 
 ### Previous document — drafting manual
 

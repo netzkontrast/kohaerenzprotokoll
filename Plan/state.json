@@ -31,7 +31,7 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 1536,
+      "value": 1541,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
@@ -43,19 +43,19 @@
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 128,
+      "value": 130,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
-      "value": 18,
+      "value": 20,
       "how": "retrieval cases the wiki labels itself: questions and conflicts"
     },
     "graphrag.recall_ppr": {
-      "value": 65,
+      "value": 67,
       "how": "graphrag bench mean recall@8 in whole percent, personalized PageRank"
     },
     "graphrag.recall_seeds": {
-      "value": 45,
+      "value": 48,
       "how": "graphrag bench mean recall@8 in whole percent, seeds alone \u2014 the floor"
     },
     "judgements.disagree": {
@@ -99,7 +99,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 3323,
+      "value": 3340,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -191,7 +191,7 @@
       "how": "labelled one-term/two-terms examples in the ledger"
     },
     "wiki.conflicts": {
-      "value": 13,
+      "value": 15,
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
