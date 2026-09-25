@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -82,3 +82,9 @@ In KW4: „Selene dominiert in ANP-Modus; Wir-Stimme tritt erstmals ganz auf." ^
 
 „ANP | Selene (ISH) | Wurmlöcher | Hände entspannen | → Mediator" ^[kohaerenz-protokoll-konzept-master-md.md:L392]
 One of the ANPs, the „interne Verfechter der Kohärenztheorie" ^[kohaerenz-protokoll-konzept-master-md.md:L274]; in the consistency matrix with Alex and Rhys: „K₁-Buffer (somatisch/relational)" ^[kohaerenz-protokoll-konzept-master-md.md:L954].
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform, unnamed in the prose
+
+„Es gibt einen Punkt, an dem die Mauer und das, was sie schützt, dasselbe geworden sind. Vielleicht ist dieser Punkt jetzt." ^[kap0-v1-annotiert-md.md:L469]
+„Selene-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: maßvoll, Pausen als Element, *Vielleicht*-Häufung, integrativ." ^[kap0-v1-annotiert-md.md:L473]
+The writer's doubt: „Beurteilung: Grenzfall — Selenes Stimme ist erlaubt zu ahnen, aber die Aussage ist klar." ^[kap0-v1-annotiert-md.md:L473]
