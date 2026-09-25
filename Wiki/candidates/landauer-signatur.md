@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -109,3 +109,12 @@ character bible's strand in its words — „Landauer-Strang: Hitze als Symptom 
 The transition out of KW1 is a thermal riss: „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418].
 Which signature Kap 6's Cache-Konflikt carries, the document does not say.
 Conflict C11: a fourth arrangement, of document 7's date.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Named twice: as ozone, and as the heat of an inner struggle.** The first foreshadowing level opens
+„Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042]. And when [[oblivion|Oblivion]] erases what
+[[silas|Silas]] has just received, „entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
+„Diese Hitze ist der somatische Fingerabdruck ihres Kampfes — und zugleich das Landauer-Signal, das der Leser (ohne es zu benennen) als Zeichen der Wahrheitsvertuschung zu lesen lernt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
+The world riss out of KW1 is thermal: „KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890]
+Nothing on Kap 6. Conflict C11.
