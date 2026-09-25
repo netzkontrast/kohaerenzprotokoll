@@ -66,11 +66,12 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 15,
-      "readings": 16,
-      "conflict": "C1, C8"
+      "sources": 16,
+      "readings": 17,
+      "conflict": "C1, C8, C14"
     },
     "alex": {
       "title": "Alex",
@@ -86,10 +87,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -107,10 +109,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none"
     },
     "alters": {
@@ -131,10 +134,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 12,
-      "readings": 11,
+      "sources": 13,
+      "readings": 12,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -191,10 +195,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "ars": {
@@ -266,10 +271,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "C4, C6"
     },
     "coheron": {
@@ -340,10 +346,11 @@
       "ingested": [
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "drei-ontologische-schichten": {
@@ -541,10 +548,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "C12"
     },
     "grenzfeste": {
@@ -600,10 +608,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 15,
-      "readings": 15,
+      "sources": 16,
+      "readings": 16,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -617,10 +626,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "C11"
     },
     "isabelle": {
@@ -637,11 +647,12 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 8,
-      "readings": 8,
-      "conflict": "none"
+      "sources": 9,
+      "readings": 9,
+      "conflict": "C15"
     },
     "juna": {
       "title": "Juna",
@@ -663,10 +674,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -735,10 +747,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -806,10 +819,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 14,
-      "readings": 13,
+      "sources": 15,
+      "readings": 14,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -826,11 +840,12 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 8,
-      "readings": 8,
-      "conflict": "none"
+      "sources": 9,
+      "readings": 9,
+      "conflict": "C15"
     },
     "kohaerenz-kernel": {
       "title": "Kohärenz-Kernel (K₁)",
@@ -910,10 +925,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -931,10 +947,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "C11"
     },
     "lex": {
@@ -952,10 +969,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none"
     },
     "lia": {
@@ -972,11 +990,12 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 8,
-      "readings": 8,
-      "conflict": "none"
+      "sources": 9,
+      "readings": 9,
+      "conflict": "C15"
     },
     "logos": {
       "title": "LogOS",
@@ -993,10 +1012,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -1031,10 +1051,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -1056,10 +1077,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C5"
     },
     "moonshine-link": {
@@ -1079,10 +1101,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "none"
     },
     "moros": {
@@ -1099,10 +1122,11 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -1143,10 +1167,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -1231,11 +1256,12 @@
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 9,
-      "readings": 9,
-      "conflict": "none"
+      "sources": 10,
+      "readings": 10,
+      "conflict": "C10"
     },
     "oblivion": {
       "title": "Oblivion",
@@ -1254,11 +1280,12 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 11,
-      "readings": 11,
-      "conflict": "none"
+      "sources": 12,
+      "readings": 12,
+      "conflict": "C11"
     },
     "partnerin": {
       "title": "Partnerin",
@@ -1393,10 +1420,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "risse": {
@@ -1425,7 +1453,7 @@
       ],
       "sources": 14,
       "readings": 14,
-      "conflict": "none yet"
+      "conflict": "C11, C15"
     },
     "rsa": {
       "title": "RSA — Rekursive semantische Autogenese",
@@ -1481,10 +1509,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "silas": {
@@ -1504,11 +1533,12 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 11,
-      "readings": 11,
-      "conflict": "none"
+      "sources": 12,
+      "readings": 12,
+      "conflict": "C11"
     },
     "snk": {
       "title": "SNK — Strukturierte Nicht-Kontrolle",
@@ -1573,10 +1603,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -1609,10 +1640,11 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "C12"
     },
     "ueberraum": {
@@ -1873,7 +1905,8 @@
     "C10": {
       "subject": "the bleeding knuckles",
       "pages": [
-        "kael"
+        "kael",
+        "nyx"
       ],
       "status": "open"
     },
@@ -1881,7 +1914,10 @@
       "subject": "the Landauer heat, warm or cold",
       "pages": [
         "landauer-signatur",
-        "risse"
+        "risse",
+        "hitze-polaritaetsregel",
+        "silas",
+        "oblivion"
       ],
       "status": "open"
     },
