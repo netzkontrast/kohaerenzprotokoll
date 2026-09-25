@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -79,3 +79,7 @@ The somatic filter is still open: „**Somatik-Lücken.** Lia, Isabelle, Argus, 
 After the first bond breaks: „Bleib. Nein, geh — bleib, geh nicht — komm zurück, ich… nein, ich will nicht, dass du… komm doch zurück." ^[kap0-v1-annotiert-md.md:L229]
 „Lia-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: Approach-Avoidance auf Satzebene, abgebrochene Sätze, Widersprüche im selben Satz, Ellipsen." ^[kap0-v1-annotiert-md.md:L233]
 Again in the Resonanzkaskade: „Bleib. Geh. Bleib doch. Geh nicht. Komm wieder." ^[kap0-v1-annotiert-md.md:L797] — „Lia-Vorform wieder." ^[kap0-v1-annotiert-md.md:L801]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — one line
+
+In the roster by storyform, as an EP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Nothing else in the document names Lia.
