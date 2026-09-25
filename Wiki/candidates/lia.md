@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -50,3 +50,8 @@ In the glossary's Alter table: role „Ambivalent" ^[kohaerenz-protokoll-begriff
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Function „Approach-Avoidance, ewige Superposition" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L145], correlate „Quanten-Superposition" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L145], arc „Superposition → Sicherheit finden" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L145]. Language „beginnt Sätze, gibt sie auf, Ellipsen, Widersprüche im selben Satz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L145]. Named in Kap 18's polyphony (L673) and among the EPs of Kap 18–22 (L1351).
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A spatial riss trigger twice, with different partners: with [[kiko|Kiko]] in the trigger table, „Kiko/Lia (Flight)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L406], and with [[isabelle|Isabelle]] in KW2, „Temporale Risse (Kiko-Trigger), spatiale Risse (Lia/Isabelle-Trigger)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]
+„Kiko ist nicht niedlich, Lia ist nicht launisch, Isabelle wird nicht gerettet, Moros ist nicht depressiv." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235]
