@@ -20,6 +20,15 @@ asked of the program compiled on all 63 — once each in these runs but the last
 `dots`, and as often as a held-out pair since the fix below. The metric is the person's decision,
 with the person's recorded rule as feedback.
 
+**That is the harness these rows were measured on, not the one `pairs.py` is
+now.** Main's PRs #77–#79, merged into this branch after the runs, take the
+ledger's canary pair J5 out of the model's rows altogether, keep a repeated
+surface pair inside one fold, reserve two of the `labeled` rung's demos for
+lookalikes the ledger keeps apart, and ask the canaries of every fold's program;
+and the ledger has since grown to 67 pairs. Every row below carries the hash of
+its own 63-pair trainset, and `report` reads each row against its own pairs. A
+rerun is a new row on a new trainset, not a correction of these.
+
 **The models, under decision 011** (written for these runs):
 
 | model | route | notes |
