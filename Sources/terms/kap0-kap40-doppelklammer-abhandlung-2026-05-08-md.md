@@ -313,7 +313,7 @@ Kap 39 is named twice (L161, L173), no other chapter between the frames by numbe
 **Warmth is Juna's trace in Kap 0.** The `Wärme-Spur` is Setzung 2: „In der
 Resonanzkaskade in Kap 0 muss das Funken-Ich für einen Augenblick die Substanz der
 Resonanz spüren" ^[L556]. The words to be carried over are named: „Wenn in Kap 0 "Wärme, die es nicht geben kann" steht, dann muss in Kap 40 "die Wärme, die nicht hätte sein können" als Echo erscheinen." ^[L319]
-No cold, no ozone and no Landauer stand in the document (`05-verify.txt`).
+No ozone and no Landauer stand in the document (`05-verify.txt`). Cold does, three times, always as AEGIS' manner and never as a sensation — „kalten Funktionalität" ^[L120], „die kalte Bürokratie" ^[L331], and set against the warmth: „Diese Asymmetrie — AEGIS als kalte Filterung, Funken-Ich als für einen Moment offenes Erleben — ist die Konfliktsituation der Krise-Sequenz." ^[L442]
 
 **The Vermittler-Stimme is argued to be the plural We.** „Sie ist Wir-AEGIS-plural — die Stimme, die *am Ende* entstanden ist und die *jetzt zurückblickt*." ^[L227]
 Three alternatives are rejected by name (L235, L239, L243), Juna among them:
