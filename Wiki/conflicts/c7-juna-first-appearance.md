@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 13
+sources: 14
 pages: ["juna"]
 ---
 
@@ -150,3 +150,10 @@ Before it she is an effect only: „Junas Kanal" ^[kp-plot-konkretisierung-13-id
 Kap 33 is not named. The document says it consolidates the character bible and the
 konsolidiertes Konzept (L13) — the source of Kap 33 and a source of Kap 38 — and does not say
 that it chose between them.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**No chapter: a revelation in Akt II, and her modes of appearance left open.**
+„Revelation-Timing: KW2/KW3 (Akt II), nicht früher." ^[kohaerenz-protokoll-konzept-master-md.md:L571] Among its open points:
+„Andere Modi (Erscheinungen in der Stadt, im Traum, im Spiegel) müssen festgelegt werden" ^[kohaerenz-protokoll-konzept-master-md.md:L994]. Kap 33 and
+Kap 38 are not named. The same date as the character bible (Kap 33) and the konsolidiertes Konzept (Kap 38).
