@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -47,3 +47,9 @@ Function „Bindung, Fürsorge, soziale Harmonie" ^[koharenz-protokoll-strukturi
 „Rhys (Caregiver)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L268]. DKT correlate: „Maxwellscher Dämon / Wärmesenke." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L282] Riss: „Wärme-Akkumulation, fiebrige Hände." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L286]
 Arc: „Kudzu-Eskalation in Akt II" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L310] — his care becomes smothering. The central ANP conflict is his with
 Selene: „Zentraler ANP-ANP-Konflikt des Buchs." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L822]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Rhys (ANP / Caregiver)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L91]. „Bindung, Fürsorge, Harmonie-Versuch. Hält zusammen, was AEGIS zerschnitten hat." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L93]
+„Rhys' Stimme bleibt warm auch unter Druck." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L93] With [[isabelle|Isabelle]] he collides
+„am Punkt authentischer Bindung" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233].
