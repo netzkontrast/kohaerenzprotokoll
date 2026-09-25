@@ -24,7 +24,7 @@ proposal, „lebende Reliquie" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
 „Schicksal: Algorithmische Melancholie → plurale Übernahme." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L282] It sets
-in at the end of Vortex 1: „AEGIS' operative Closure bricht; Algorithmische
+in at the end of [[vortex|Vortex]] 1: „AEGIS' operative Closure bricht; Algorithmische
 Melancholie setzt ein" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L382].
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08

@@ -120,10 +120,10 @@ The Sprach-DNA names no speaker.
 
 **How far it reaches.** The Vorwort and the Dazwischen, and possibly anywhere in the
 39 chapters, at chapter openings, endings or act transitions (konsolidiertes Konzept,
-Konzept-Iteration Genesis, Abhandlung L263). The Sprach-DNA has the Genesis-Prolog
+Konzept-Iteration [[genesis|Genesis]], Abhandlung L263). The Sprach-DNA has the Genesis-Prolog
 and the Coda, and only occasionally act transitions (L29). The Kap-0 draft has it
 end at the Dazwischen and vanish from the crisis on (L497, L549). Its narrator filter
-over AEGIS remains (L1109): the draft cannot tell it apart from AEGIS' own voice, and
+over [[aegis|AEGIS]] remains (L1109): the draft cannot tell it apart from AEGIS' own voice, and
 the Abhandlung calls such an outside commentator in the crisis a defect (L422).
 
 **How it addresses the reader.** The draft's Vorwort addresses the reader as `Sie`

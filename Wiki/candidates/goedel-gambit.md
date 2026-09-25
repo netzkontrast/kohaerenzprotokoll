@@ -124,7 +124,7 @@ Silas is its transmitter in the character bible and the Alter profiles.
 
 **Where it falls.** Kap 35–36 (the character bible L160, the analysis L106,
 L261); Kap 30/35 (the character bible L1113); begun in Kap 30 and peaking in
-Vortex 1 (Kernwelten L856, philosophy L302, drafting manual L446); prepared in
+[[vortex|Vortex]] 1 (Kernwelten L856, philosophy L302, drafting manual L446); prepared in
 Vortex Beat 1, Kap 35 (konsolidiertes Konzept, three-mode architecture, chapter
 outline); performed in Vortex Beat 2 (philosophy L723).
 

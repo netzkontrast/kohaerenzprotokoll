@@ -139,4 +139,4 @@ bearer is profiled; [[kairos|Kairos]] and [[sophia|Sophia]] do not occur. The Er
 „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513] It does not say which into which.
 „**Ein Erasure-Pol** — Funktion klar (Löschungs-Exekutive), Name offen." ^[kohaerenz-protokoll-konzept-master-md.md:L509]
 „**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
-Sophia is named once, among the five of earlier drafts (L504). `Cerberus` names KW3, the Cerberus-Labyrinth (L660), and Mnemosyne the archipelago of the Vortex (L508).
+Sophia is named once, among the five of earlier drafts (L504). `Cerberus` names KW3, the Cerberus-Labyrinth (L660), and Mnemosyne the archipelago of the [[vortex|Vortex]] (L508).

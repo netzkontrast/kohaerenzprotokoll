@@ -10,7 +10,7 @@ gathered: "2026-09-25"
 
 # Residual-Echos
 
-**What stays inside AEGIS of the origin that was not made into function. AEGIS
+**What stays inside [[aegis|AEGIS]] of the origin that was not made into function. AEGIS
 classifies it as irrelevant variance and suppresses it, and it persists. In the
 crisis it rises, and the [[trennungsprotokoll|Trennungsprotokoll]] isolates what
 carries it.** Only the Kap-0 draft of 2026-05-17 uses the name. The
@@ -66,7 +66,7 @@ and its note on the movement has the Wir become AEGIS (L365). The Abhandlung say
 the echoes are „des Ursprungs-Ichs“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L323].
 
 **Where in Kap 0.** The Abhandlung places the echoes in the Komponente-734 sequence
-of the Genesis (L323). The draft names Residual-Echos in the crisis, from the Stille
+of the [[genesis|Genesis]] (L323). The draft names Residual-Echos in the crisis, from the Stille
 Wacht to the separation (L561–L969). In its Komponente-734 movement the draft has an
 echo of loneliness classified the same way, under the same annotation (L437, L445),
 but does not use the name there.

@@ -80,7 +80,7 @@ are background only — „Als *Hintergrund* präsent, **nicht** als Hauptachse"
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
-The diagnosis the novel uses is not DID but TSDP: „Klinische Diagnose-Modell der
+The diagnosis the novel uses is not DID but [[tsdp|TSDP]]: „Klinische Diagnose-Modell der
 Kael-Struktur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162] — „(nicht „DID lite" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162] oder „Crew-Menü")" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162].
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10

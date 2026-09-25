@@ -70,7 +70,7 @@ Kael=Komp 734. Braucht es einen vierten?" ^[dramatica-dual-storyform-status-2026
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
-**Beat 3 of four, and Komponente 734 made in it**: „Trennungsprotokoll —
+**Beat 3 of four, and [[komponente-734|Komponente 734]] made in it**: „Trennungsprotokoll —
 algorithmisches Selbstamputat: Fühlen wird ausgelagert, Denken gerettet. Aus dem
 Ich wird Komponente 734." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L148] — four beats with the three-beat order of the
 character bible. Conflict C12.

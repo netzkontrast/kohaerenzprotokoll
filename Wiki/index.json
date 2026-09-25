@@ -1,7 +1,7 @@
 {
   "built": "2026-09-25",
   "by": "scripts/wiki_index.py",
-  "pages": 94,
+  "pages": 105,
   "conflicts": 15,
   "terms": {
     "aegis-metriken": {
@@ -289,6 +289,25 @@
       "readings": 11,
       "conflict": "C4, C6"
     },
+    "chaitin-konstante": {
+      "title": "Chaitin-Konstante",
+      "surfaces": [
+        "Chaitin-Konstante",
+        "chaitin-konstante"
+      ],
+      "ingested": [
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-konzept-master-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+      ],
+      "sources": 7,
+      "readings": 7,
+      "conflict": "none yet"
+    },
     "coheron": {
       "title": "Coheron",
       "surfaces": [
@@ -553,6 +572,28 @@
       "readings": 5,
       "conflict": "none"
     },
+    "genesis-klammer": {
+      "title": "Genesis-Klammer",
+      "surfaces": [
+        "Genesis-Klammer",
+        "genesis-klammer"
+      ],
+      "ingested": [
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kapitel-kompendium-gather-2026-05-31-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+      ],
+      "sources": 10,
+      "readings": 10,
+      "conflict": "none yet"
+    },
     "genesis": {
       "title": "Genesis",
       "surfaces": [
@@ -576,6 +617,31 @@
       "sources": 12,
       "readings": 12,
       "conflict": "C12"
+    },
+    "goedel-gambit": {
+      "title": "Gödel-Gambit",
+      "surfaces": [
+        "Gödel-Gambit",
+        "goedel-gambit"
+      ],
+      "ingested": [
+        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+      ],
+      "sources": 13,
+      "readings": 13,
+      "conflict": "none yet"
     },
     "grenzfeste": {
       "title": "Grenzfeste",
@@ -883,6 +949,29 @@
       "readings": 11,
       "conflict": "C15"
     },
+    "kishotenketsu": {
+      "title": "Kishōtenketsu",
+      "surfaces": [
+        "Kishōtenketsu",
+        "kishotenketsu"
+      ],
+      "ingested": [
+        "ki-prompt-analyse-hard-problem-of-consciousness",
+        "three-mode-architecture-39-chapters-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kapitel-kompendium-gather-2026-05-31-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"
+      ],
+      "sources": 11,
+      "readings": 11,
+      "conflict": "none yet"
+    },
     "kohaerenz-kernel": {
       "title": "Kohärenz-Kernel (K₁)",
       "surfaces": [
@@ -947,6 +1036,37 @@
       "sources": 2,
       "readings": 2,
       "conflict": "none"
+    },
+    "komponente-734": {
+      "title": "Komponente 734",
+      "surfaces": [
+        "Komponente 734",
+        "komponente-734"
+      ],
+      "ingested": [
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "dramatica-dual-storyform-status-2026-05-07-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kapitel-kompendium-gather-2026-05-31-md",
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"
+      ],
+      "sources": 19,
+      "readings": 19,
+      "conflict": "C12"
     },
     "konstrukt-stadt": {
       "title": "Konstrukt-Stadt",
@@ -1349,6 +1469,33 @@
       "readings": 14,
       "conflict": "C11"
     },
+    "ouroboros-struktur": {
+      "title": "Ouroboros-Struktur",
+      "surfaces": [
+        "Ouroboros-Struktur",
+        "ouroboros-struktur"
+      ],
+      "ingested": [
+        "ki-prompt-analyse-hard-problem-of-consciousness",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kapitel-kompendium-gather-2026-05-31-md",
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"
+      ],
+      "sources": 15,
+      "readings": 15,
+      "conflict": "none yet"
+    },
     "partnerin": {
       "title": "Partnerin",
       "surfaces": [
@@ -1454,6 +1601,20 @@
       "sources": 4,
       "readings": 4,
       "conflict": "none"
+    },
+    "residual-echos": {
+      "title": "Residual-Echos",
+      "surfaces": [
+        "Residual-Echos",
+        "residual-echos"
+      ],
+      "ingested": [
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+        "kap0-v1-annotiert-md"
+      ],
+      "sources": 2,
+      "readings": 2,
+      "conflict": "none yet"
     },
     "resonanz-landschaft": {
       "title": "Resonanz-Landschaft",
@@ -1699,6 +1860,19 @@
       "readings": 3,
       "conflict": "none"
     },
+    "thermodynamischer-phaenomenalismus": {
+      "title": "Thermodynamischer Phänomenalismus",
+      "surfaces": [
+        "Thermodynamischer Phänomenalismus",
+        "thermodynamischer-phaenomenalismus"
+      ],
+      "ingested": [
+        "ki-prompt-analyse-hard-problem-of-consciousness"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": "C11"
+    },
     "trennungsprotokoll": {
       "title": "Trennungsprotokoll",
       "surfaces": [
@@ -1742,6 +1916,30 @@
       ],
       "sources": 8,
       "readings": 8,
+      "conflict": "none yet"
+    },
+    "tsdp": {
+      "title": "TSDP",
+      "surfaces": [
+        "TSDP",
+        "tsdp"
+      ],
+      "ingested": [
+        "aegis-subplots-kapitelweise-system-exploration-docx",
+        "an-inquiry-into-the-unresolved-questions-and-thematic-tensio",
+        "roman-konzept-dualitaet-kohaerenz-spannung",
+        "charakter-kompilation-fuer-kohaerenz-protokoll",
+        "ki-prompt-analyse-hard-problem-of-consciousness",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "kohaerenz-protokoll-konzept-master-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+      ],
+      "sources": 12,
+      "readings": 12,
       "conflict": "none yet"
     },
     "ueberraum": {
@@ -1797,6 +1995,26 @@
       "readings": 2,
       "conflict": "none"
     },
+    "vermittler-stimme": {
+      "title": "Vermittler-Stimme",
+      "surfaces": [
+        "Vermittler-Stimme",
+        "vermittler-stimme"
+      ],
+      "ingested": [
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md",
+        "kap0-v1-annotiert-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+      ],
+      "sources": 8,
+      "readings": 8,
+      "conflict": "none yet"
+    },
     "verschraenkungs-insel": {
       "title": "Verschränkungs-Insel",
       "surfaces": [
@@ -1811,6 +2029,35 @@
       "sources": 3,
       "readings": 3,
       "conflict": "none"
+    },
+    "vortex": {
+      "title": "Vortex",
+      "surfaces": [
+        "Vortex",
+        "vortex"
+      ],
+      "ingested": [
+        "dramatica-dual-storyform-status-2026-05-07-md",
+        "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-konzept-master-md",
+        "three-mode-architecture-39-chapters-md",
+        "worldbuilding-konzept-kohaerenzprotokoll-md",
+        "koharenz-protokoll-sprach-dna-2026-05-13-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kapitel-kompendium-gather-2026-05-31-md",
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+        "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md"
+      ],
+      "sources": 17,
+      "readings": 17,
+      "conflict": "C7, C11, C14"
     },
     "ztv": {
       "title": "ZTV — Vertrauenlose Validierung",
@@ -1863,6 +2110,7 @@
     "cachekoharenz": "cache-kohaerenz",
     "cachekohaerenz": "cache-kohaerenz",
     "cerberus": "cerberus",
+    "chaitinkonstante": "chaitin-konstante",
     "coheron": "coheron",
     "datenverarbeitungsknoten7g": "datenverarbeitungsknoten-7g",
     "did": "did",
@@ -1888,7 +2136,10 @@
     "externeebene": "externe-ebene",
     "gartenderstillenprasenz": "garten-der-stillen-praesenz",
     "gartenderstillenpraesenz": "garten-der-stillen-praesenz",
+    "genesisklammer": "genesis-klammer",
     "genesis": "genesis",
+    "godelgambit": "goedel-gambit",
+    "goedelgambit": "goedel-gambit",
     "grenzfeste": "grenzfeste",
     "groemauer": "grosse-mauer",
     "groemauersystemgrenze": "grosse-mauer",
@@ -1912,6 +2163,7 @@
     "kernwelt": "kern-welten",
     "kernwelten": "kern-welten",
     "kiko": "kiko",
+    "kishotenketsu": "kishotenketsu",
     "koharenzkernel": "kohaerenz-kernel",
     "koharenzkernelk1": "kohaerenz-kernel",
     "kohaerenzkernel": "kohaerenz-kernel",
@@ -1921,6 +2173,7 @@
     "kohaerenz": "kohaerenz",
     "kollapskernelk0": "kollaps-kernel",
     "kollapskernel": "kollaps-kernel",
+    "komponente734": "komponente-734",
     "konstruktstadt": "konstrukt-stadt",
     "landauersignatur": "landauer-signatur",
     "lex": "lex",
@@ -1944,6 +2197,7 @@
     "nullpunktprotokoll": "nullpunkt-protokoll",
     "nyx": "nyx",
     "oblivion": "oblivion",
+    "ouroborosstruktur": "ouroboros-struktur",
     "partnerin": "partnerin",
     "persistenzgleichung": "persistenzgleichung",
     "bewusstseinsinstanzen": "personas",
@@ -1957,6 +2211,7 @@
     "realitatsebenen": "realitaetsebenen",
     "sechsrealitatsebenen": "realitaetsebenen",
     "realitaetsebenen": "realitaetsebenen",
+    "residualechos": "residual-echos",
     "resonanzlandschaft": "resonanz-landschaft",
     "rhys": "rhys",
     "glitch": "risse",
@@ -1977,8 +2232,11 @@
     "systemmonitor": "system-monitor",
     "telefonstille": "telefon-stille",
     "therapieschnittstellealpha": "therapie-schnittstelle-alpha",
+    "thermodynamischerphanomenalismus": "thermodynamischer-phaenomenalismus",
+    "thermodynamischerphaenomenalismus": "thermodynamischer-phaenomenalismus",
     "trennungsprotokoll": "trennungsprotokoll",
     "truthrotation": "truth-rotation",
+    "tsdp": "tsdp",
     "ueberraum": "ueberraum",
     "uberraum": "ueberraum",
     "simulation": "ueberwelt",
@@ -1987,8 +2245,10 @@
     "traumalokus": "vergessener-schrein",
     "vergessenerschrein": "vergessener-schrein",
     "vergessenerschreintraumalokus": "vergessener-schrein",
+    "vermittlerstimme": "vermittler-stimme",
     "verschrankungsinsel": "verschraenkungs-insel",
     "verschraenkungsinsel": "verschraenkungs-insel",
+    "vortex": "vortex",
     "ztvvertrauenlosevalidierung": "ztv",
     "ztv": "ztv"
   },

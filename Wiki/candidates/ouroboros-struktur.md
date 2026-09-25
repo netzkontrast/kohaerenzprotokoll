@@ -70,7 +70,7 @@ Kap 38: „das Wir entscheidet, ins Ouroboros zu gehen. Driver-Decision-Anker A 
 
 ## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 
-Beside the two brackets, Genesis and Vortex:
+Beside the two brackets, [[genesis|Genesis]] and [[vortex|Vortex]]:
 „Plus die **innere Ouroboros-Klammer** Kap 1 ↔ Kap 39 (erster Satz = letzter Satz, den Kael schreibt" ^[kapitel-kompendium-gather-2026-05-31-md.md:L92].
 In Kap 39: „**Ouroboros:** Kael schreibt als letzten Satz den gelockten Kap-1-Erstsatz." ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]
 
@@ -84,7 +84,7 @@ A glossary section, „12 · Genesis-Klammer und Ouroboros-Struktur" ^[kohaerenz
 „Ouroboros-Klammer (innere). [K] Kap 1 ↔ Kap 39: erster Satz = letzter Satz, den Kael schreibt (Ouroboros-Konzeit H.5)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L625]
 It works on one word: „Mechanismus arbeitet auf Lexem-Ebene" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L625], the word `da`.
 Its third test for the sentence: „schreibbar als bewusst verfasste erste Zeile." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L625]
-Kap 0 ↔ Kap 40 is the Genesis-Klammer, a separate entry (L622). Of Kap 40's two readings, the conflict-grammar one takes the [[truth-rotation|Truth-Rotation]] as a restart:
+Kap 0 ↔ Kap 40 is the [[genesis-klammer|Genesis-Klammer]], a separate entry (L622). Of Kap 40's two readings, the conflict-grammar one takes the [[truth-rotation|Truth-Rotation]] as a restart:
 „der Kreis schließt sich, die Welt beginnt erneut" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L631] — the other,
 „Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L632]
 Kap 38 ends in the „Entscheidung zum Ouroboros." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611]
@@ -135,7 +135,7 @@ A proposal (`[V]`) that gives the Kap-39 writing a history: „Die Ouroboros-Vor
 **What repeats.** An image: the last image of Ch39 is the first of Ch1, a
 telephone ringing (konsolidiertes Konzept L1303–L1306, Worldbuilding-Konzept
 L847–L851), and the character bible names the Telefon-Stille as a possible
-Ouroboros ending (L272). A sentence: Kael writes the locked first sentence of
+Ouroboros ending (L272). A sentence: [[kael|Kael]] writes the locked first sentence of
 Kap 1 as his last (Kapitel-Kompendium, glossary, storyform outline, drafting
 manual, Plot-Konkretisierung). The storyform outline has both in one Kap-39 beat
 (L414); the philosophy document writes the image and the sentence side by side

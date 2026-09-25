@@ -301,7 +301,7 @@ person or an alter's first (L805). That touches **C14**.
   them. [[mnemosyne-server-architektur|Mnemosyne-Server-Architektur]] has a page of its own.
 - What AEGIS is after Beat 5 (OQ-G in several sources) — the
   [[algorithmische-melancholie|Algorithmische Melancholie]] page holds its readings.
-- The Gödel-Gambit: the glossary calls it the Vortex 1 mechanism, and the
+- The [[goedel-gambit|Gödel-Gambit]]: the glossary calls it the Vortex 1 mechanism, and the
   philosophy document places it in Beat 2 (its L723).
 
 Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.

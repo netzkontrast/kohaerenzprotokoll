@@ -40,7 +40,7 @@ without the name.
 Mosaik-Herz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489], with the echo „Mosaik-Herz als Vorgriff auf plurale Bewahrung
 in Kap 39" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L505]. Kap 34: „Kael (Wir) konfrontiert AEGIS direkt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057]
 „Mosaik-Herz vor Vortex." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057] A stage of the inner journey in Kap 11 and a
-beat before the Vortex in Kap 34; the document does not say whether they are one.
+beat before the [[vortex|Vortex]] in Kap 34; the document does not say whether they are one.
 
 ## Open
 

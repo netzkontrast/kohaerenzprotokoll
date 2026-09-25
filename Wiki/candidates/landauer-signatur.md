@@ -20,7 +20,7 @@ A lock of 2026-05-30, and it makes the first [[risse|Riss]] of the novel visible
 cold — „Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird sichtbar)"
 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]. Warmth belongs to [[juna|Juna]] alone ([[coheron]]).
 
-**One exception, kept on purpose.** In Vortex 1, Beat 4, „Landauer-Wärme spiked
+**One exception, kept on purpose.** In [[vortex|Vortex]] 1, Beat 4, „Landauer-Wärme spiked
 unmöglich" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381] — the one point where suppression fails physically.
 
 **The document records a conflict among its own sources here and resolves it by
