@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -85,3 +85,10 @@ Transitkorridor Delta-7" ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]. One
 
 Kap 1: „Lebt als Komp 734 in Wohneinheit 14/Sektor 7." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] — a fourth number
 for the dwelling; one term by J50.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+As `Wohneinheit 734` (J50): „Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L101].
+Its chapter anchor carries the Kap-1 console line — „Kap 1 (einmal als Konsolen-Zeile" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L101]
+„Einheit 734" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L101]. The same console line is listed elsewhere in the document as
+„Komponente 734 als Konsolen-Zeile (Kael reagiert nicht)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L661] (J80).
