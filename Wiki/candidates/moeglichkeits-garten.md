@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -170,3 +170,10 @@ sub-location table lists a `Möglichkeits-Garten` inside it:
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
 Where Selene waits: „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**KW4's name.** „KW4 — Möglichkeits-Garten. Generativ. Hände öffnen sich." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225]
+„Poetisch, zeitlos. Junas Atmosphäre kommt hier durch." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] Selene dominates it, and the Wir-Stimme
+is first whole there (L225). The whole Kern-Welt; no place inside it is named (C5). Its style level,
+Akt III, is „Kernwelt 4 + Juna" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L189], Kap 27–39.
