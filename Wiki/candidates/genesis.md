@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -94,3 +94,11 @@ It names a Genesis conflict of its own: „Konzept-Konflikt offen — beim näch
 The open point on the Genesis: „Aktueller Lock-In: vier Beats (Kompendium 2026-05-31)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] — and Alex
 „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219], so „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219].
 „Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] (C12). Oblivion in Akt II re-lives „AEGIS' eigene Genesis-Krise" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L787].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+Told by the narrator, who „Erscheint im Genesis-Prolog und in der Coda, vereinzelt an Akt-Übergängen." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L29]
+The voice moves „zwischen 1. Person Funkens-Sicht und 3. Person AEGIS-Beschreibung" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L29] (J76).
+Its sample: „Was du jetzt liest, ist nicht das, was geschah." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L29]
+And [[juna|Juna]]: „Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
+No beat and no Komponente 734 (C12).
