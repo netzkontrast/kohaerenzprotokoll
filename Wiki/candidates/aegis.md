@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 14
-readings: 15
-conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+sources: 15
+readings: 16
+conflict: C1, C8, C14
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -283,3 +283,24 @@ reveal table: „Juna strukturell" ^[kohaerenz-protokoll-welt-sensorik-drafting-
 The truth the reader must never be told outright: „AEGIS hat die Geburt für den Tod gehalten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1051].
 Its voice is a hard rule: „R-8 — AEGIS spricht nie metaphorisch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1079] and „AEGIS verwendet nie das Wort „Ich"." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1236]
 At Kap 39 it „erlischt monolithisch, lebt plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L594]; the final form is written `Wir-AEGIS-plural` (J73).
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Third person, never prose — and a debut in the Hard-B chapter without the first person.**
+„AEGIS spricht nie in Prosa." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L944] „Wenn AEGIS auftaucht, dann als Log, Protokoll, Systemstimme — nie mit moralischem Vokabular." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L944]
+The rule is headed `3. Person` (L944). A binding log format follows (L952–L988), in which
+[[juna|Juna]]'s vector has three permitted entries: not representable, an axiom violation, or null (L976).
+„Slot-16-Lock: in Kap 1 keine AEGIS-Stimme; UI-Direktiven (Konsolen-Zeilen) bleiben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]
+„AEGIS' Stimme debütiert im Hard-B-Etablierungskapitel (Kap 5–8, Position offen)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]
+Document 7 gives that chapter a first-person inner view; this document gives AEGIS
+no person but the third. Conflict C14.
+
+**What it cannot reach, inside [[kael|Kael]].** [[silas|Silas]]: „AEGIS kann ihn strukturell nicht erfassen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699]
+[[oblivion|Oblivion]], its inner executor: „Aber: AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]
+Oblivion in Akt II „Beginnt AEGIS' eigene Genesis-Krise nachzuerleben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L787] After the Vortex,
+a proposal with its lock outstanding (OQ-G): „Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
+[[selene|Selene]] is its greatest threat — „ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357] —
+and only [[argus|Argus]] can name its core error (L667). [[lex|Lex]] is its product: „AEGIS' Versuch, Trauma durch fehlerfreie Logik zu eliminieren." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]
+C4, [[blinder-fleck]].
+
+Never expanded (C1 not touched); its Approach not given (C8 not touched).
