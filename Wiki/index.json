@@ -2,7 +2,7 @@
   "built": "2026-09-25",
   "by": "scripts/wiki_index.py",
   "pages": 93,
-  "conflicts": 12,
+  "conflicts": 13,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -64,10 +64,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 13,
-      "readings": 14,
+      "sources": 14,
+      "readings": 15,
       "conflict": "C1, C8"
     },
     "alex": {
@@ -82,10 +83,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -102,10 +104,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "alters": {
@@ -124,10 +127,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 10,
-      "readings": 9,
+      "sources": 11,
+      "readings": 10,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -150,10 +154,11 @@
         "archiv-der-grenzen"
       ],
       "ingested": [
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "archiv-des-ungesagten": {
@@ -222,10 +227,11 @@
       ],
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "guardians-und-kern-welten-konzept"
+        "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "C4"
     },
     "cache-kohaerenz": {
@@ -254,10 +260,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C4, C6"
     },
     "coheron": {
@@ -274,10 +281,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -288,10 +296,11 @@
       ],
       "ingested": [
         "roman-lokalitaeten-konzept-und-ausarbeitung",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "did": {
@@ -308,10 +317,11 @@
         "kohaerenzprotokoll-aegis-und-systementropie",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kapitel-kompendium-gather-2026-05-31-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none yet"
     },
     "dkt": {
@@ -335,10 +345,11 @@
         "drei-ontologische-schichten"
       ],
       "ingested": [
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "ecr": {
@@ -442,10 +453,11 @@
       "ingested": [
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "evaluierungseinheit": {
@@ -455,10 +467,11 @@
         "evaluierungseinheit"
       ],
       "ingested": [
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "externe-ebene": {
@@ -476,11 +489,12 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 9,
-      "readings": 9,
-      "conflict": "none yet"
+      "sources": 10,
+      "readings": 10,
+      "conflict": "C13"
     },
     "garten-der-stillen-praesenz": {
       "title": "Garten der stillen Präsenz",
@@ -492,10 +506,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "genesis": {
@@ -511,10 +526,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C12"
     },
     "grenzfeste": {
@@ -526,10 +542,11 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "grosse-mauer": {
@@ -566,25 +583,28 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
       "title": "Hitze-Polaritätsregel",
       "surfaces": [
         "Hitze-Polaritätsregel",
+        "Polaritätsregel",
         "hitze-polaritaetsregel"
       ],
       "ingested": [
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "C11"
     },
     "isabelle": {
@@ -599,10 +619,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "juna": {
@@ -623,10 +644,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -638,10 +660,11 @@
       "ingested": [
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "k0-existenz": {
@@ -651,10 +674,11 @@
         "k0-existenz"
       ],
       "ingested": [
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": ""
     },
     "kael-julia-bindung": {
@@ -667,10 +691,11 @@
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
         "kapitel-kompendium-gather-2026-05-31-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none yet"
     },
     "kael": {
@@ -691,10 +716,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -711,10 +737,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "kairos": {
@@ -730,10 +757,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -756,10 +784,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 12,
-      "readings": 11,
+      "sources": 13,
+      "readings": 12,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -774,10 +803,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "kohaerenz-kernel": {
@@ -852,10 +882,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -871,10 +902,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C11"
     },
     "lex": {
@@ -890,10 +922,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "lia": {
@@ -908,10 +941,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "logos": {
@@ -927,10 +961,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -941,10 +976,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "mnemosyne": {
@@ -962,10 +998,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -985,10 +1022,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "C5"
     },
     "moonshine-link": {
@@ -1006,10 +1044,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none"
     },
     "moros": {
@@ -1024,10 +1063,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -1042,10 +1082,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -1064,10 +1105,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -1096,10 +1138,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "nichts-rauschen": {
@@ -1116,10 +1159,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -1148,10 +1192,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "oblivion": {
@@ -1169,10 +1214,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none"
     },
     "partnerin": {
@@ -1273,10 +1319,11 @@
       "ingested": [
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "none"
     },
     "resonanz-landschaft": {
@@ -1288,10 +1335,11 @@
       ],
       "ingested": [
         "guardians-und-kern-welten-konzept",
-        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "rhys": {
@@ -1330,10 +1378,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "none yet"
     },
     "rsa": {
@@ -1370,10 +1419,11 @@
         "sektor-04"
       ],
       "ingested": [
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "selene": {
@@ -1409,10 +1459,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none"
     },
     "snk": {
@@ -1440,10 +1491,11 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -1475,10 +1527,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -1509,10 +1562,11 @@
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "C12"
     },
     "ueberraum": {
@@ -1545,10 +1599,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -1575,10 +1630,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "ztv": {
@@ -1665,6 +1721,7 @@
     "grossemauer": "grosse-mauer",
     "guardians": "guardians",
     "hitzepolaritatsregel": "hitze-polaritaetsregel",
+    "polaritatsregel": "hitze-polaritaetsregel",
     "hitzepolaritaetsregel": "hitze-polaritaetsregel",
     "isabelle": "isabelle",
     "julia": "juna",
@@ -1786,6 +1843,13 @@
       "subject": "the Genesis — three beats or four",
       "pages": [
         "trennungsprotokoll"
+      ],
+      "status": "open"
+    },
+    "C13": {
+      "subject": "the Externe Ebene — beyond the simulation, or not outside it",
+      "pages": [
+        "externe-ebene"
       ],
       "status": "open"
     },
