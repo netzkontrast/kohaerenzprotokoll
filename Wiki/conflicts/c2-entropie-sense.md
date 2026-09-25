@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 7
+sources: 8
 pages: ["entropie"]
 ---
 
@@ -104,3 +104,12 @@ project's own sense flatly, in a table*: the bible, of the same date, has
 nearly the same table, and it was read first. Found by the record audit of
 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 8-M2); the conflict stays
 open.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Two senses in one document, and the table the character bible also has.**
+„AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[kohaerenz-protokoll-konzept-master-md.md:L63] Its table of what AEGIS
+believes against what holds (L220–L226) has „AEGIS = K₀ (Entropie-Architektur)" ^[kohaerenz-protokoll-konzept-master-md.md:L221] and
+„Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223]; the section names it the
+[[truth-rotation|Truth-Rotation]] (L212). Beside it, the kernel's own sense: „K₀ ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107]
+The same date as the character bible and the konsolidiertes Konzept, whose entries above hold the same table.
