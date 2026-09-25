@@ -76,4 +76,4 @@ Juna's anchor: „Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaer
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 „In Wohneinheit 734 existiert ein Anschluss, den kein Bauplan führt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64] It never rings; Kael speaks into it in Kap 7,
-it is „gewartet" in Kap 24, and „In Kap 39 kommt durch sie die Einlösung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]. The idea's aim: „den Telefon-Stille-Anker als wiederholbares Szenen-Ritual statt als Einmal-Symbol" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64].
+it is „gewartet" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64] in Kap 24, and „In Kap 39 kommt durch sie die Einlösung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]. The idea's aim: „den Telefon-Stille-Anker als wiederholbares Szenen-Ritual statt als Einmal-Symbol" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64].
