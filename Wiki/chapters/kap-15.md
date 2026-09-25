@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -44,6 +44,16 @@ Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-prot
 - Story: „Trigger reaktiviert Trauma-Angst.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990]
 - Storyform: „A: MC-Problem Avoidance reaktiviert. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990]
 - Sensorik: „Sensorik: Schattenwurf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L990]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Z1-Destabilisierung — Trigger" ^[three-mode-architecture-39-chapters-md.md:L259]
+Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
+
+- Bearer / POV: „Kael, Schatten-Anteil" ^[three-mode-architecture-39-chapters-md.md:L259]
+- Storyform A: „MC-Problem Avoidance reaktiviert" ^[three-mode-architecture-39-chapters-md.md:L259]
+- Storyform B: „latent" ^[three-mode-architecture-39-chapters-md.md:L259]
+- Leitmotif: „Schattenwurf, Babymonster-Welt-Resonanz" ^[three-mode-architecture-39-chapters-md.md:L259]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

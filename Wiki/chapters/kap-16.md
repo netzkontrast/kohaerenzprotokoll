@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -43,6 +43,16 @@ Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-prot
 - Story: „Flucht in Betäubung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L992]
 - Storyform: „A: MC-Problem. B: OS, AEGIS registriert "Stabilisierung".“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L992]
 - Sensorik: „Sensorik: enge Räume, taube Sensorik.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L992]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Z1-Reaktion — Bunker reaktiv" ^[three-mode-architecture-39-chapters-md.md:L260]
+Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
+
+- Bearer / POV: „Kael (Lex+Selene-Dominanz)" ^[three-mode-architecture-39-chapters-md.md:L260]
+- Storyform A: „MC-Problem: Flucht in Betäubung" ^[three-mode-architecture-39-chapters-md.md:L260]
+- Storyform B: „OS: AEGIS registriert Rückfall als "Stabilisierung"" ^[three-mode-architecture-39-chapters-md.md:L260]
+- Leitmotif: „enge Räume, taube Sensorik" ^[three-mode-architecture-39-chapters-md.md:L260]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

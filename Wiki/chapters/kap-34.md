@@ -1,9 +1,9 @@
 ---
 chapter: 34
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
-records: []
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+records: ["C14"]
 gathered: "2026-09-25"
 ---
 
@@ -45,6 +45,16 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Storyform: „A: MC-Concern dominant; Pursuit als Stand. B: OS-Physics, AEGIS-Datenlast.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1028]
 - Sensorik: „Sensorik: Orkan vs. Sphäre.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1028]
 - Tone: „Orkan-energetisch (33–34)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L928]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Konfrontation — Zwei Arten der Kohärenz" ^[three-mode-architecture-39-chapters-md.md:L339]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael (Wir) vs. AEGIS (Makro-Log)" ^[three-mode-architecture-39-chapters-md.md:L339]
+- Storyform A: „MC-Concern dominant; Pursuit als Stand" ^[three-mode-architecture-39-chapters-md.md:L339]
+- Storyform B: „OS-Physics: AEGIS-Datenlast" ^[three-mode-architecture-39-chapters-md.md:L339]
+- Leitmotif: „Orkan vs. Sphäre, kollidierende Tonalitäten" ^[three-mode-architecture-39-chapters-md.md:L339]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

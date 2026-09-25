@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,16 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 Position: „| \*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorbereitung Vortex)" ^[kohaerenz-protokoll-konzept-master-md.md:L661]
 
 - Bridge scenes: „Vortex-Vorläufer ab \~Kap 28." ^[kohaerenz-protokoll-konzept-master-md.md:L890] — the chapter hedged by a tilde.
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Call to Adventure — AEGIS' Eskalation / Juna in Gefahr" ^[three-mode-architecture-39-chapters-md.md:L333]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael, AEGIS-Direktive" ^[three-mode-architecture-39-chapters-md.md:L333]
+- Storyform A: „MC-Issue: Notwendigkeit zu handeln" ^[three-mode-architecture-39-chapters-md.md:L333]
+- Storyform B: „OS-Physics: Erasure-Drohung explizit" ^[three-mode-architecture-39-chapters-md.md:L333]
+- Leitmotif: „drohende Spannung, Countdown-Marker" ^[three-mode-architecture-39-chapters-md.md:L333]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

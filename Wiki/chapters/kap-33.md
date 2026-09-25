@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,16 @@ Position: „| \*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorb
 - Kael: „Funktionale Multiplizität wird **Kapitel 33** erreicht (Outline-Rev 2026-05-01)." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
 - Storyform A: „Kael erreicht Funktionale Multiplizität (Kap 33), nicht Final Fusion." ^[kohaerenz-protokoll-konzept-master-md.md:L829]
 - The Vortex after it: „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Approach Inmost Cave — Vordringen zu AEGIS' Kern" ^[three-mode-architecture-39-chapters-md.md:L338]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael (Wir-fokussiert)" ^[three-mode-architecture-39-chapters-md.md:L338]
+- Storyform A: „MC-Concern: nahe an der Quelle" ^[three-mode-architecture-39-chapters-md.md:L338]
+- Storyform B: „OS-Physics: parakonsistente Logik / Gödel-Sätze als Architektur" ^[three-mode-architecture-39-chapters-md.md:L338]
+- Leitmotif: „dunkle Tiefe, Vibrieren des Fundaments" ^[three-mode-architecture-39-chapters-md.md:L338]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

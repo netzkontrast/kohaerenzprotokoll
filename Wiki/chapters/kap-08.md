@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: ["C14", "Q4"]
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,16 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Storyform: „A: MC-Issue. B: RS-Psychology beginnt sichtbar zu werden.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L976]
 - Sensorik: „Sensorik: Licht, das durch Architektur fällt.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L976]
 - Voices: „voll ausgeprägt ab Kap 8–10“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Wiedergeburt — Heilung des Männlichen im Inneren" ^[three-mode-architecture-39-chapters-md.md:L185]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael, Wächterin" ^[three-mode-architecture-39-chapters-md.md:L185]
+- Storyform A: „MC-Issue: Mitgefühl mit logischen Anteilen" ^[three-mode-architecture-39-chapters-md.md:L185]
+- Storyform B: „RS-Psychology in B beginnt sichtbar zu werden" ^[three-mode-architecture-39-chapters-md.md:L185]
+- Leitmotif: „Licht, das durch Architektur fällt" ^[three-mode-architecture-39-chapters-md.md:L185]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

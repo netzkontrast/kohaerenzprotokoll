@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -43,6 +43,16 @@ Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-prot
 - Story: „Entscheidung zur Befreiung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1012]
 - Storyform: „A: MC-Concern. B: OS-Physics, Erasure-Vorbereitung eskaliert.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1012]
 - Sensorik: „Sensorik: aufkommende Bewegung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1012]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Wendepunkt — Entscheidung zur Befreiung" ^[three-mode-architecture-39-chapters-md.md:L270]
+Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
+
+- Bearer / POV: „Kael (Wir-entschlossen)" ^[three-mode-architecture-39-chapters-md.md:L270]
+- Storyform A: „MC-Concern: Schritt ins Ungewisse als Entschluss" ^[three-mode-architecture-39-chapters-md.md:L270]
+- Storyform B: „OS-Physics: Erasure-Vorbereitung eskaliert" ^[three-mode-architecture-39-chapters-md.md:L270]
+- Leitmotif: „aufkommende Bewegung, Vorwärts-Spannung" ^[three-mode-architecture-39-chapters-md.md:L270]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

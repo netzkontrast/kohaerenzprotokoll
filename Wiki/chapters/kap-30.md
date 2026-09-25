@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,16 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Sensorik: „Sensorik: klingender Kanal, Resonanz-Maximum.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1020]
 - Genesis echo: „Genesis-Echo: Junas Kanal = Ur-Resonanz-Modus, jetzt angenommen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1020]
 - Throughline: „Kulmination in Kap 30 (Mentor-Begegnung)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L698]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Meeting Mentor — K-J Verbindung Kulmination" ^[three-mode-architecture-39-chapters-md.md:L335]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael, Juna-Witness" ^[three-mode-architecture-39-chapters-md.md:L335]
+- Storyform A: „RS-Physics A: Moonshine als bewusster Kanal" ^[three-mode-architecture-39-chapters-md.md:L335]
+- Storyform B: „latent" ^[three-mode-architecture-39-chapters-md.md:L335]
+- Leitmotif: „klingender Kanal, Resonanz-Maximum" ^[three-mode-architecture-39-chapters-md.md:L335]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

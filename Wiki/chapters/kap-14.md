@@ -1,9 +1,9 @@
 ---
 chapter: 14
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
-records: []
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+records: ["C14"]
 gathered: "2026-09-25"
 ---
 
@@ -47,6 +47,16 @@ Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-prot
 - Storyform: „A: MC-Issue. B: OS-Physics, erste Erasure-Welle.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L988]
 - Sensorik: „Sensorik: zerbrochene Fassade, Sprünge im Raum.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L988]
 - Frame: „eingerahmt von Bruch (Kap 14)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L844]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Bruch des Gleichgewichts" ^[three-mode-architecture-39-chapters-md.md:L258]
+Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
+
+- Bearer / POV: „Kael, kurzer AEGIS-POV möglich" ^[three-mode-architecture-39-chapters-md.md:L258]
+- Storyform A: „MC-Issue Falsehood-vs-Truth: alte Wunden reißen auf" ^[three-mode-architecture-39-chapters-md.md:L258]
+- Storyform B: „OS-Physics: erste Erasure-Welle gegen Kaels Stabilität" ^[three-mode-architecture-39-chapters-md.md:L258]
+- Leitmotif: „zerbrochene Fassade, Sprünge im Raum" ^[three-mode-architecture-39-chapters-md.md:L258]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
