@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -83,3 +83,7 @@ The riss: „Collapse (Moros) | gravitational" ^[kohaerenz-protokoll-konzept-mas
 „Es ist sinnlos. Es war immer schon sinnlos. Es wird nichts mehr kommen — und doch geschieht es" ^[kap0-v1-annotiert-md.md:L149]
 „Moros-Vorform als Tonalität etabliert (*sinnlos, immer schon, nichts mehr kommen*) ohne Etikett." ^[kap0-v1-annotiert-md.md:L153] Its signature: „Die Moros- Stimme ist syntaktisch erkennbar durch Kreislogik" ^[kap0-v1-annotiert-md.md:L153].
 It returns in the Resonanzkaskade: „Es ist sinnlos. Es war immer sinnlos. Es wird nichts mehr kommen. Nichts. Nichts mehr. Nichts." ^[kap0-v1-annotiert-md.md:L813] — „Moros-Vorform wieder (Rückkehr aus Bewegung 1)." ^[kap0-v1-annotiert-md.md:L817]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — one line
+
+In the roster by storyform, as an EP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Nothing else in the document names Moros.
