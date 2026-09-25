@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-16"
 ---
 
@@ -237,3 +237,16 @@ In Akt I, no DKT terms and neither `Alter` nor `Fragment` in his words (L69), an
 „Multiplizitäts-Schleier bis Kap 13." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L69] In KW1, „Dominanz von Kael-Host und Lex." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] (J70.)
 
 His field has no knuckles; they bleed in [[nyx|Nyx]]'s sample (L117, C10).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Der Mann heißt Kael. Er ist kein einzelner Mensch, sondern ein System: dreizehn Fragmente einer dissoziierten Psyche, partitioniert durch ein Trauma, das in zwei Schichten existiert." ^[kohaerenz-protokoll-konzept-master-md.md:L55]
+The premise opens on Kael: „Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[kohaerenz-protokoll-konzept-master-md.md:L51] — in no chapter (C10).
+
+Under the [[truth-rotation|Truth-Rotation]]: „Kael = die echte K₁-Reorganisation unter K₀-Druck" ^[kohaerenz-protokoll-konzept-master-md.md:L226]; „Die echte Kohärenz-Arbeit leistet Kael, indem er seine Alters in Funktionale Multiplizität führt" ^[kohaerenz-protokoll-konzept-master-md.md:L230].
+In the Genesis Kael is the remainder: „**Kael = Komponente 734** — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465] (C12).
+
+In the roster: „ANP | Kael (Host) | Hubble-Volumen" ^[kohaerenz-protokoll-konzept-master-md.md:L388]. In the truth table: „\*\*Kael (Integrator)\*\* | Synthese durch Funktionale Multiplizität" ^[kohaerenz-protokoll-konzept-master-md.md:L306].
+„Kaels Integration ist eine *gelebte Dialetheia*: er ist gleichzeitig fragmentiert *und* kohärent, gleichzeitig dreizehn *und* eins." ^[kohaerenz-protokoll-konzept-master-md.md:L330]
+In the storyform Kael is MC of A and IC of B: „| \*\*IC-Träger\*\* | \*\*Juna\*\* | \*\*Kael (lebende Paradoxie)\*\* |" ^[kohaerenz-protokoll-konzept-master-md.md:L823]; „Be-er-Modus heißt: Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel." ^[kohaerenz-protokoll-konzept-master-md.md:L833]
+At the end: „Kael bleibt am Ende dreizehn — er hat nur gelernt, das auszuhalten." ^[kohaerenz-protokoll-konzept-master-md.md:L1074]
