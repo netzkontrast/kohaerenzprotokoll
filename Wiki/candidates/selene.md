@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -77,3 +77,8 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 „Selene drängt nie. Wenn sie auftaucht, ist es spät." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L101]
 In KW4: „Selene dominiert in ANP-Modus; Wir-Stimme tritt erstmals ganz auf." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] The EPs read her as a threat,
 „Identitätsverlust durch Integration" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233].
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Selene (ISH)" ^[kohaerenz-protokoll-konzept-master-md.md:L392]: correlate „Wurmlöcher" ^[kohaerenz-protokoll-konzept-master-md.md:L392], somatics „Hände entspannen" ^[kohaerenz-protokoll-konzept-master-md.md:L392], arc „Mediator" ^[kohaerenz-protokoll-konzept-master-md.md:L392].
+The integrator in this document is [[kael|Kael]] — „Kael (Integrator)" ^[kohaerenz-protokoll-konzept-master-md.md:L306].
