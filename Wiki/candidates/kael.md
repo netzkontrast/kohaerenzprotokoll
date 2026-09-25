@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-16"
 ---
 
@@ -215,3 +215,14 @@ The Host, profiled as one of thirteen: „Komponente 734, Archivar Klasse II, Wo
 „Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] (C10). His arc:
 „Resolve = Change (adoptiert Pursuit am Klimax Kap 35)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] „Be-er-Modus:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] — Storyform A's main character.
 „Kael darf in Akt I nicht wissen, dass er ein System ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Kael (Host / MC in Storyform A)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L67]: „Alltagsbewusstsein-Träger." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L69] — with `Going on with Normal Life`
+as his avoidance protocol (L69). The first person, present tense, sober and short (L69).
+„Zähl-Manie als somatischer Tic" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L69]: tiles, degrees, the seconds of a breath (L69).
+„Beschreibt nie eigenes Empfinden direkt — Welt um sich, Empfinden zwischen den Zeilen." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L69]
+In Akt I, no DKT terms and neither `Alter` nor `Fragment` in his words (L69), and
+„Multiplizitäts-Schleier bis Kap 13." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L69] In KW1, „Dominanz von Kael-Host und Lex." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] (J70.)
+
+His field has no knuckles; they bleed in [[nyx|Nyx]]'s sample (L117, C10).
