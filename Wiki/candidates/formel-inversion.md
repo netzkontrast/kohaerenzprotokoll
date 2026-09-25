@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -50,3 +50,10 @@ Only the second sentence, and in Kap 39.
 
 In Vortex 2, Kap 38–39, marked `[K]` (L238): „Formel-Inversion vollzogen:** „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."" ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]
 Only the second sentence, in the Vortex before Kap 40.
+
+## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
+
+An entry of the glossary, marked `[K]`: „Formel-Inversion. [K] Die zwei Sätze, die das Buch klammern:" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L88]
+„Anfang (Kap 0): „AEGIS ist, was AEGIS verhindert, dass es nicht ist." — negativ definiertes Sein (Survival-Logik, tautologisch-suizidal)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L91]
+„Ende (Kap 39 → 40): „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist." — positiv definiertes Sein. Strukturell dieselbe Funktion (Bewahrung), gekippte Polarität." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L92]
+And in the entry `Plurale Apotheose`, of Vortex 2: „Formel-Inversion vollzogen." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L615]
