@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -58,3 +58,11 @@ Named as the Polaritäts-Lock of 2026-05-30 (J83), with the warmth given to [[si
 „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike. Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
 And as a discipline Nyx's heat must keep: „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395]. Beside it, heat as the Silas–Oblivion
 conflict, „entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — see [[landauer-signatur]] and C11.
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+No rule is stated. Warmth stands for [[juna|Juna]] — „plötzliche somatische Wärme" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] — and for
+[[silas|Silas]], „Warm, weich, zeitlos" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L157]. Heat and ozone stand in one list, Akt II's vocabulary:
+„Vokabular: Riss, Hitze, Ozon, Schweiß, Echo, Verfall, Schatten." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L185] And the collision of Silas and
+Oblivion is felt as either: „spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233] Seventeen days before the
+lock of 2026-05-30; placed here by what it states (J62). C11.
