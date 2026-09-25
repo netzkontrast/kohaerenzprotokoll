@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -207,3 +207,11 @@ A reset lock: „Hauptfigur ist Kael" ^[kohaerenz-protokoll-welt-sensorik-drafti
 „Kaels formelle Rolle: Komponente 734, Archivar Klasse II" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L105]. The reader knows from Kap 0
 „dass Kael Komp 734 ist" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L572]. The Kap-1 opening sentence is his last in Kap 39:
 „Das Licht ist schon da, als ich erwache." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L633].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+The Host, profiled as one of thirteen: „Komponente 734, Archivar Klasse II, Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]
+„Hubble-Volumen / Big Rip." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L117] His Riss: „Horizont-Erosion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L121] His knuckles, „Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] —
+„Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] (C10). His arc:
+„Resolve = Change (adoptiert Pursuit am Klimax Kap 35)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] „Be-er-Modus:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] — Storyform A's main character.
+„Kael darf in Akt I nicht wissen, dass er ein System ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157]
