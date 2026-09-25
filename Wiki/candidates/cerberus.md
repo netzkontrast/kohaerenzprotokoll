@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -116,3 +116,7 @@ Erasure-Pol absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-
 
 Only in KW3's name, „KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L169] (J49); no Cerberus as a
 Guardian. Its dominant logic is „die Erasure-Pol-Logik" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+Absorbed: „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016] — in the Erasure-Pol (Q5).
