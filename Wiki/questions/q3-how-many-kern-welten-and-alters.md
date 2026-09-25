@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -176,3 +176,9 @@ document states no number.
 „Kaels System (kanonisch — exakt 13 Alters)" ^[kohaerenz-protokoll-konzept-master-md.md:L383]
 „**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
 The consistency matrix gives Lex `P (KW1)`, Alex, Rhys and Selene `KW1–KW2`, the five EPs `Parakonsistent (KW2)`, Silas `KW3–KW4`, Oblivion `KW1–KW3`, Argus `Universal`, and Kael „Spannt KW1→KW4" ^[kohaerenz-protokoll-konzept-master-md.md:L952] (L952–L958). Ranges, not one world per alter; and a world is not a Guardian's.
+
+## 2026-09-25 — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+**No count and no world — and a name no roster holds.**
+The echoes of Kap 0 are the Wir's voices in Kap 40: „In Kap 40 sind diese Echos die Stimmen des Wir — Lex, Nyx, Kiko, Mira, alle." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327]
+`Mira` stands in no other landed document (`corpus.py count Mira`: 1 document, 1 occurrence; `Plan/runs/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md/05-verify.txt`), and in none of the rosters of thirteen above. The document gives it nothing but the name. No Kern-Welt is named.

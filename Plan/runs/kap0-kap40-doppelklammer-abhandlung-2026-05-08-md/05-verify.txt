@@ -76,3 +76,9 @@ grep -w treats a hyphen as a word boundary, so the `Wärme` line count above
 includes the seven `Wärme-Spur` lines.
 
 No `Guardian`, `Sophia`, `Landauer` or `Ozon` stands in the document.
+$ python3 scripts/corpus.py count Mira
+term                          docs     occ  first      last        categories
+Mira                             1       1  2026-05-08 2026-05-08  plot-outline:1
+
+matching: whole-word  (--substring for the other)
+370 documents, answered from the derived surface index — no document was opened
