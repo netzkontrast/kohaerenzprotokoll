@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["juna"]
 ---
 
@@ -121,3 +121,12 @@ Kapitel-Kompendium, „nie Subjekt, nur Wirkung" ^[kapitel-kompendium-gather-202
 earlier, a plan gave her a point of view. This record held nothing from this
 document. Found by the record audit of 2026-09-24
 (`Plan/runs/record-audit-2026-09-24/`, 12-M2).
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Effect in Kap 33, appearance in Kap 38 — the reading `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` gave.**
+The Garten der stillen Präsenz, in the Externe Ebene, is the
+„Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327]; in the reveal timeline, Kap 38:
+„Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]. And a rule that makes the distinction grammatical:
+„R-10 — Juna ist nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087] Another source for Kap 38; like
+`kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, it gives Kap 33 an effect rather than an appearance.
