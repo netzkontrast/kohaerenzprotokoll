@@ -148,7 +148,7 @@ Wächterin" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635] (
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**The word in two compounds of the Überwelt, and the registry's are the
+**The word in two compounds of the [[ueberwelt|Überwelt]], and the registry's are the
 Guardians.** „Wächter-Konsolen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L286] in its look; and the Wächter-Registry,
 „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. J20 holds: the
 sentence decides, and this one lists the two [[guardians|Guardians]].

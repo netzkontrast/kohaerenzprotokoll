@@ -117,5 +117,5 @@ Erasure-Pol absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-
 **Only as a world's name.** The name occurs only inside KW3's: „KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L169] (J49). The reset locks keep two Guardians,
 „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183], and
 say nothing of what became of the others — no absorption into the Erasure-Pol
-here. The author's C6 decision, five Guardians, stands; this document is the
+here. The author's C6 decision, five [[guardians|Guardians]], stands; this document is the
 two-Guardian side (C6, Q5).

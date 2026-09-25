@@ -115,4 +115,4 @@ latent)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175]. Two
 „Beides ist dekanonisiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] KW4 keeps the name: „KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L225] (J49). The reset locks keep two
 Guardians, „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183],
 and say nothing of what became of Kairos — no absorption here. The author's C6
-decision, five Guardians, stands; this document is the two-Guardian side (C6, Q5).
+decision, five [[guardians|Guardians]], stands; this document is the two-Guardian side (C6, Q5).

@@ -151,4 +151,4 @@ Four worlds as act markers — „KW1–4 sind Akt-Marker, nicht je ein Guardian
 — and thirteen Alters by a roster lock, „exakter Roster (siehe Anteile-Profil); dekanonisierte Namen *nie* verwenden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1185].
 The correspondence runs to classes again: KW1 is the „Domäne der ANP-Vermeidung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46],
 in KW3 „Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171],
-and KW2's Risse are triggered by [[kiko|Kiko]], [[lia|Lia]] and [[isabelle|Isabelle]] (L148). Not one world per Alter.
+and KW2's [[risse|Risse]] are triggered by [[kiko|Kiko]], [[lia|Lia]] and [[isabelle|Isabelle]] (L148). Not one world per Alter.

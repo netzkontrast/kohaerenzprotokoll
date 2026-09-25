@@ -45,6 +45,6 @@ Aktivität (Erasure-Sweeps, Erasure-Logs)." ^[kohaerenz-protokoll-begriffe-und-k
 
 Only in [[oblivion|Oblivion]]'s correlate: „Oblivion (Erason-Operator)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410],
 whose riss is „fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410].
-AEGIS' activity is `Erasure` throughout — Sweeps in the Überwelt, a wave and a
+[[aegis|AEGIS]]' activity is `Erasure` throughout — Sweeps in the [[ueberwelt|Überwelt]], a wave and a
 second phase in Kap 14, balances it knows (L282, L574, L586) — and the document
 does not tie that word to this one.

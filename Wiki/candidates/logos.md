@@ -115,4 +115,4 @@ name: „KW1 — Logos-Prime" ^[koharenz-protokoll-strukturierter-outline-2026-0
 „Beides ist dekanonisiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] KW1 keeps the name: „KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44] (J49). The reset locks keep two
 Guardians, „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183],
 and say nothing of what became of LogOS — no absorption here. The author's C6
-decision, five Guardians, stands; this document is the two-Guardian side (C6, Q5).
+decision, five [[guardians|Guardians]], stands; this document is the two-Guardian side (C6, Q5).

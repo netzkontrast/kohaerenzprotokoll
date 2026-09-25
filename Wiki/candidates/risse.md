@@ -197,7 +197,7 @@ sensory line: „flackernde Geometrien, Kanten die unscharf werden" ^[koharenz-p
 „*Für AEGIS:* Symptom (Suppression-Versagen). *Für den Roman:* das Atmen der Realität — die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L397]
 
 **Two typologies.** By the Alter who triggers them (§3.1): [[nyx|Nyx]] kinetic,
-[[kiko|Kiko]] temporal, Kiko and [[lia|Lia]] spatial, [[moros|Moros]] gravitational,
+[[kiko|Kiko]] temporal, [[kiko|Kiko]] and [[lia|Lia]] spatial, [[moros|Moros]] gravitational,
 [[isabelle|Isabelle]] sensory, [[silas|Silas]] relational and warm, [[oblivion|Oblivion]]
 temporal and gravitational (L404–L410). By world (§3.2): KW1 logical, the
 transition out of KW1 thermal, KW2 watery and mnemonic, KW3 paranoid, KW4

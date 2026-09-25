@@ -113,7 +113,7 @@ holding open**: this document places the [[guardians|Guardians]] inside [[aegis|
 where it has to phrase the relation at all, and then builds a chapter out of
 asking whether that is all they are.
 
-The two earlier positions are unaffected. Document 1's blind spot is AEGIS';
+The two earlier positions are unaffected. Document 1's blind spot is [[aegis|AEGIS]]';
 document 4's is each Guardian's; and this document supplies a third frame — the
 principal–agent problem — in which **both can be true at once**, because a
 delegated agent has its own domain and its own limits:

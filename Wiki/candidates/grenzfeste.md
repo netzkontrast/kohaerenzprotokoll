@@ -64,7 +64,7 @@ The konsolidiertes Konzept's heading again, `[K]`: „KW3 — Cerberus-Labyrinth
 „Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171]
 **Its chapters**: „Späte Akt II (Kap 23–28)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175] „Ewiges Dämmerlicht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L179]
 „Computational Class: NP-Hard — die Suche nach Sicherheit ist kombinatorisch unbeherrschbar." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L193]
-Its Risse are spatial, gravitational and kinetic (L205):
+Its [[risse|Risse]] are spatial, gravitational and kinetic (L205):
 „Sicherheitssysteme, die ihre eigenen Erbauer einsperren." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L205]
 Sub-locations: the Zitadelle / Inneres Bollwerk, the Wartungsschächte, the
 unguarded gates and — a proposal — the [[evaluierungseinheit|Evaluierungseinheit]]

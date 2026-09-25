@@ -109,6 +109,6 @@ lock attributed to the konsolidiertes Konzept: „Einheit → Cluster → Trennu
 as a lock of 2026-05-31 from the Kompendium: „vier Beats (mit Wir-AEGIS-plural als Beat 4)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1212].
 The second beat is `Cluster`, not 734. Kap 0's crisis ends in the
 [[trennungsprotokoll|Trennungsprotokoll]] (L627). It also reports, from the Kap-0 annotation, an
-Alex-Vorform choreographed before the Trennungsprotokoll (L1461) — a voice before
+Alex-Vorform choreographed before the [[trennungsprotokoll|Trennungsprotokoll]] (L1461) — a voice before
 the separation, which it leaves open as its own §14.4. It does not place 734
 before or after.

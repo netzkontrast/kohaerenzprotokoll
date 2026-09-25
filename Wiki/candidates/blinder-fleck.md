@@ -67,7 +67,7 @@ Only [[logos|LogOS]]' is the *categorical* kind that document 3 argues for [[aeg
 
 ### Unmerged — see C4
 
-Document 3 argues the categorical blind spot for **AEGIS**; this one argues five
+Document 3 argues the categorical blind spot for **[[aegis|AEGIS]]**; this one argues five
 for **the [[guardians|Guardians]]**, and neither document mentions the other's bearer. Whether
 these are one system at two scales is not answerable from what has been read.
 
@@ -77,7 +77,7 @@ nothing.
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
 **AEGIS' blindness, named three ways — and no Guardian's.** §6.1 gives each of
-three layers — reader, Kael, AEGIS — a column for what it is blind to. AEGIS':
+three layers — reader, [[kael|Kael]], AEGIS — a column for what it is blind to. AEGIS':
 „Juna strukturell (atemporal, nicht messbar), K₁-Reinform (klassifiziert als „uncorrelated noise"), die eigene Genesis (verdrängt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
 In Kap 38, when [[juna|Juna]] appears, it is „strukturell blind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593].
 A blindness of kind, then, to what cannot be measured, and a blindness it made:

@@ -71,7 +71,7 @@ the first reading's world in nearly its words.
 „Assoziativ, emotional. Realität formt sich nach innerem Zustand." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L136]
 „Computational Class: Parakonsistent." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L136] „Widersprüche koexistieren, ohne dass das System in Trivialismus kippt (Tarski-Hierarchie hält)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L136]
 
-Its Risse are temporal and spatial, triggered by [[kiko|Kiko]], [[lia|Lia]] and
+Its [[risse|Risse]] are temporal and spatial, triggered by [[kiko|Kiko]], [[lia|Lia]] and
 [[isabelle|Isabelle]] (L148): „Türen, die in Erinnerungen führen, die nie geschehen sind — und doch wahr sind." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]
 Sub-locations: [[archiv-der-grenzen|Das Archiv der Grenzen]], the Wald des
 Flüsterns and the Ozean-Becken (middle of Akt II), the

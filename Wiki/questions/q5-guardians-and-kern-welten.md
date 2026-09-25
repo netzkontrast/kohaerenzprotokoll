@@ -110,5 +110,5 @@ went.
 „Die alten Drafts sprechen teils von „6 Realitätsebenen", teils von Guardian-zugeordneten Welten (KW1=LogOS, KW4=Kairos/Sophia)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
 „Beides ist dekanonisiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] Two Guardians: „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183].
 The Erasure-Pol has no name here and its name is not marked open; nothing says
-where [[logos|LogOS]], [[cerberus|Cerberus]], [[kairos|Kairos]] or [[sophia|Sophia]] went. Sophia occurs
+where [[logos|LogOS]], [[cerberus|Cerberus]], [[kairos|Kairos]] or [[sophia|Sophia]] went. [[sophia|Sophia]] occurs
 only inside the assignment it retires.
