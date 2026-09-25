@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 8
-covers_documents: 6
-new_findings_last_document: 3
+version: 9
+covers_documents: 7
+new_findings_last_document: 2
 ---
 
 # Briefing — before extracting a document
@@ -95,6 +95,9 @@ wraps is judged by its first line alone.
 - Is anything inflected — a noun the document only ever uses as an adjective?
 - Does a summary table, abstract or heading abbreviate a term the body spells out?
 - Does the document switch to a short form partway through?
+- Does a label, a diagram or an open point clip a word — `Komp` for `Komponente`,
+  `-Op` for `-Operator`? List the clipped form as written; it counts where the
+  full one does not.
 - Is there a term whose *idea* recurs where the *word* does not?
 - Does the document write a suspended compound — „Funktions-, Phobie- … und
   Beziehungs-Profil"? Only the last member is written whole; list what is
@@ -167,6 +170,10 @@ Numbers written from memory have been wrong three times so far, and one
 in a sentence, **and write the commands and their output to
 `Plan/runs/<slug>/05-verify.txt`** — a verification nobody can see is a claim
 that it happened.
+
+**A re-count needs a word boundary.** A `grep` for a stem finds every longer word
+that contains it — `heiß` is in `heißt` — so a count with the wrong pattern repeats
+the error with a command beside it. Use `grep -w`, or `\b` on both sides.
 
 ## 5 · Record afterwards
 

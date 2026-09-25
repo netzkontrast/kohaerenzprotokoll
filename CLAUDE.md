@@ -81,8 +81,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, thirteen of them
-read (documents 7 to 19).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, fourteen of them
+read (documents 7 to 20).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -112,14 +112,14 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**19 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **19
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **19
+**20 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **20
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **20
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-four `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, two
-`kernkonzept`, three `plot-outline` and one `theorie-psychologie` — the last thirteen
+four `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, three
+`kernkonzept`, three `plot-outline` and one `theorie-psychologie` — the last fourteen
 from the canon era.
 
-`Wiki/candidates/` holds **93 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+`Wiki/candidates/` holds **94 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 **5 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
@@ -128,8 +128,8 @@ has been promoted.
 
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
-**315 <!--state:chapters.readings--> readings** from the eight read documents
-that go chapter by chapter; `Wiki/overview/` lays the chapters and the plot's
+**321 <!--state:chapters.readings--> readings** from the eight read documents
+that go chapter by chapter and one that does not, the Master-Report; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
 | document | new terms | new readings | new conflicts |
@@ -153,6 +153,7 @@ shape side by side. See *Chapters and the plot*, below.
 | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md` | 0 | 38 | 0 |
 | `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` | 0 | 31 | 0 |
 | `koharenz-protokoll-sprach-dna-2026-05-13-md` | 0 | 32 | 0 |
+| `kohaerenz-protokoll-konzept-master-md` | 1 | 47 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -289,7 +290,23 @@ knuckles in Nyx's voice, in no chapter (C10). **No pages, readings on 32.** It w
 beside the eighteenth on purpose: the other session's handover had named that one, and
 the two sessions had already read documents 16 and 17 twice each.
 
-`Plan/runs/judgements.jsonl` holds **88 <!--state:judgements.total--> judgements**
+**The twentieth is the Master-Report, the fourth read source dated 2026-05-08.** The
+theory of the novel in seventeen parts, which calls every earlier document a quarry and
+itself the foundation — recorded, not applied. Where the other three sources of its date
+disagree it takes no side as a block: the character bible's three Genesis beats (C12),
+the others' Do-er for AEGIS (C8), the konsolidiertes Konzept's Lia and Isabelle for
+Flight, marked implicit (C15), and for Juna neither Kap 33 nor Kap 38 — „Revelation-Timing:
+KW2/KW3 (Akt II), nicht früher" (C7). **One page, `truth-rotation`, by the document's own
+rule**: its physics is „literales Naturgesetz der Romanwelt", five of the six sections of
+that physics already had pages, and the sixth, the Truth-Rotation, had none though seven
+read documents list it; the page gathered all seven. Readings on 47 pages. It counts „39
+Kapitel, 3 Akte" with one Vortex and a Resolution — no Kap 0, no Kap 40, no second Vortex
+(`Wiki/overview/plot.md`). **Its chapter step found two tool defects**: `chapters.py` read
+the escaped approximate range `Kap 14–\\\~20` as a single Kap 14, and `link.py` marked
+another occurrence of an already-linked term on every run, against its own docstring.
+Both are fixed, each with self-test cases the old code fails.
+
+`Plan/runs/judgements.jsonl` holds **91 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -410,8 +427,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 30 <!--state:sweep.decided--> so far,
-14 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 31 <!--state:sweep.decided--> so far,
+15 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -480,8 +497,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**361 <!--state:wiki.relations--> links across
-93 <!--state:wiki.pages--> pages, 28 <!--state:wiki.orphans--> of them with
+**385 <!--state:wiki.relations--> links across
+94 <!--state:wiki.pages--> pages, 27 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -499,12 +516,13 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 188 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
-occurrence sits inside a quotation, a citation line or a heading — places the
-pass may not touch, so that part is a measurement and not a backlog. The rest,
-`link.py` would mark on pages no reading has touched since the page was last
-linked; they wait for the next reading on that page, because a page changes only
-in a commit that names its source.
+The 193 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+mention sits inside a quotation, a citation line or a heading — places the pass
+may not touch, so they are a measurement and not a backlog: `link.py` proposes
+none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
+marked the next free occurrence of each term, linked or not, so each reading's
+pass added one more link to terms its pages already linked; it now skips a term
+the page links (`python3 scripts/link.py selftest`).
 
 ### Chapters and the plot
 
@@ -536,20 +554,22 @@ them. The count sees `Kap N` written singly; a range and a numbered list without
 where it names chapters, with its readings on those pages.
 
 **Reading the chapter outlines side by side corrected a claim.** `NOW.md` said
-every read source but one ended at Kap 39; seven of the eight count a Kap 40.
+every read source but one ended at Kap 39; seven of the eight count a Kap 40. The
+Master-Report, read after them, is a 2026 source that does not: „39 Kapitel, 3
+Akte, Vortex Kap 35–36".
 
 ### The knowledge graph, and retrieval over it
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **132 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1690 <!--state:graph.edges--> edges** (`links`,
+citations and builds **134 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1829 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 2039 <!--state:graph.evidence-->
-of them, **2039 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 2295 <!--state:graph.evidence-->
+of them, **2295 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -573,7 +593,7 @@ python3 scripts/graphrag.py bench              # recall against the wiki's own l
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
 **47 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-66 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+67 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
 step, on twenty cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12), the author's C6
 decision an eighth (Q5), document 16 a ninth (C13) and document 17 two
@@ -581,7 +601,8 @@ more (C14, C15); on the original nine the numbers were 40 and 58.
 Document 19 moved them from 48 and 67 by giving C11 three more pages: its
 gold set grew from two pages to five, and the case fell from 1.0 to 0.6 with
 PageRank. The fall is that label growing; on the labels that did not change,
-retrieval rose — C6 from 0.29 to 0.43.
+retrieval rose — C6 from 0.29 to 0.43. Document 20 moved PageRank from 66 to 67
+on labels it did not change: C4 from 0.56 to 0.67 and Q5 from 0.29 to 0.43.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`
@@ -931,7 +952,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 361 <!--state:wiki.relations-->.
+links. It has 385 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
@@ -1078,7 +1099,7 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**74 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+**77 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
 43 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
 decides 51 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —

@@ -805,3 +805,36 @@ the document's world stands inside a voice's `Vokabular` or `Mikro` — Nyx's
 wiki records such a sentence where it bears on a record (C10, C11), and declines a
 page reading where the word is only listed (`risse`, `erason`), as it declines a
 term that stands only inside a question.
+
+
+## Document 20 — `kohaerenz-protokoll-konzept-master-md`, 2026-09-25
+
+A concept report of 1124 lines, most of its assignments in 126 table rows whose
+cells the export escaped (345 backslash escapes). 485 candidates, found through
+the escapes by reading, not by the count.
+
+- **A grep for a stem finds longer words.** The first verification of the heat
+  vocabulary counted `heiß` on 4 lines; three of them were `heißt` (L55, L143,
+  L833). With a word boundary it is 1 (L1039). The briefing asked every number in
+  prose to be re-counted, and a re-count with the wrong pattern repeats the error
+  with a command beside it. `05-verify.txt` has both.
+- **A clipped word is a surface the list must hold as written.** A diagram labels
+  Oblivion `Erason-Op/Spiegel` (L186) and two tables write `Erason-Operator` (L400,
+  L958); an open point writes `Komp 734` (L998) for `Komponente 734` (L465). Each
+  counts where the other does not. The reconciliation made them one term each
+  (J90, J91); the census lists both surfaces.
+- **A term seven read documents list is still not a page by itself.**
+  `Truth-Rotation` stood in the censuses of seven read documents, and none of their
+  reconciliations made it a page. The glossary even defines it with a `[K]` entry
+  — in its §2, outside the rule its reconciliation applied, which took pages from
+  its §1 only. This document defines it in the section it calls the literal law of
+  the novel's world (L37, L87), so its rule gave the page, and the page gathered all
+  seven. The count of documents was the reason to look; a document's rule was the
+  reason to create.
+
+Two tool findings came after the census, in the chapter step and the link pass —
+`chapters.py` read the escaped approximate range `Kap 14–\\\~20` (L659) as a
+single mention of Kap 14, and `link.py` marked another occurrence of a term the
+page already linked on every run. Both are fixed with self-test cases the old code
+fails (`CLAUDE.md`, the twentieth paragraph).
+
