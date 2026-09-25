@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -73,3 +73,12 @@ these are one system at two scales is not answerable from what has been read.
 
 `Wiki/conflicts/c4-guardians-and-aegis.md` holds both positions and decides
 nothing.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**[[aegis|AEGIS]]' blindness reaches into [[kael|Kael]], and one Guardian lacks something.** [[silas|Silas]]:
+„AEGIS kann ihn strukturell nicht erfassen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] His riss: „AEGIS kann diesen Riss nicht kategorisieren — er sieht aus wie ein Sensor-Fehler, nicht wie eine Anomalie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
+[[oblivion|Oblivion]]: „Aber: AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778] [[juna|Juna]]'s vector in its log has three permitted
+entries — not representable, an axiom violation, or null (L976).
+And [[mnemosyne|Mnemosyne]], a Guardian: „Sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
+A lack, not called a blind spot. C4.
