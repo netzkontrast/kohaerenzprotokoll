@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C2
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -78,4 +78,9 @@ Gathered when the page opened: the census had listed the term.
 The glossary's entry, labelled `[K]`: „Der Moment im Vortex 1 (Kap 35–36), in dem die Lesart kippt: AEGIS = K₀ / Kael = K₁ wird sichtbar." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L85]
 „Die Phänomenologie der Risse bleibt unverändert" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L85]. And the reading it allows at the end:
 „Leser, die auf Konflikt und Mechanik fokussieren, lesen die Truth-Rotation als Neustart" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L631].
+Gathered when the page opened: the census had listed the term.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+In its chapter table, Kap 35, Vortex 1: „Truth-Rotation sichtbar" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L591].
 Gathered when the page opened: the census had listed the term.
