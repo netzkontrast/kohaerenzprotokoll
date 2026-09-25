@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -202,3 +202,9 @@ Alter. Mnemosyne is titled „Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-pr
 
 **`Wächterin` once, for [[mnemosyne|Mnemosyne]], beside `Guardian`.**
 „Mnemosyne (Guardian / Erinnerungs-Wächterin)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L43]. J20 holds.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**The word three ways.** [[aegis|AEGIS]] sees itself as „Hüterin der Ordnung" ^[kohaerenz-protokoll-konzept-master-md.md:L55]; [[mnemosyne|Mnemosyne]] is
+„Erinnerungs-Wächter" ^[kohaerenz-protokoll-konzept-master-md.md:L508]; and an open point asks about the „Wächter-Zwiespalt-Soziopolitik" ^[kohaerenz-protokoll-konzept-master-md.md:L1002] between
+Mnemosyne and the Erasure-Pol. J20 holds.
