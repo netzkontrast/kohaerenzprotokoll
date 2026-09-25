@@ -1,0 +1,660 @@
+{
+  "document": "kohaerenz-protokoll-konzept-master-md",
+  "drive_id": "1jeSj6x28NBwj44ZUOnZ_asWay3QIbMfYZ5AayF4lU0k",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 93,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 94,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 478,
+    "decisions": 554,
+    "decided_by_lookup": 290,
+    "needs_judgement": 264
+  },
+  "new_terms": [
+    "truth-rotation"
+  ],
+  "new_terms_rule": "from the document: its §II, the Dual-Kernel-Theorie, is „literales Naturgesetz der Romanwelt — keine Metapher“ (L37), and „Jedes narrative Ereignis muss mit ihr konsistent sein“ (L87). A thing §II defines gets a page. Five of its six subsections already had theirs — the two kernels and the DKT (II.1), Coheron and Erason (II.2), the Persistenzgleichung (II.3), the Landauer heat on landauer-signatur and hitze-polaritaetsregel (II.4), Atemporalität (II.5). The sixth, „Die Truth-Rotation — Warum AEGIS = K₀ und Kael = K₁“ (L212), had none. Borrowed physics in its home sense (Landauer, Maxwell's demon, the Monster group) does not get one (J11).",
+  "not_promoted_rule": "248 new terms by lookup, and none became a page; the one new page, Truth-Rotation, came to judgement as a near match (Truth-Rotation / Rotation). The 248 are the report's furniture, the DKT's symbols and compounds, borrowed theory, Dramatica vocabulary, the craft of the prose, the Alters' labels and arcs, and names the document marks open or rejects — each listed under not_promoted with where its content went.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        55,
+        63,
+        451,
+        455,
+        459,
+        477,
+        482,
+        486,
+        809,
+        877,
+        960
+      ],
+      "attribution": "premise",
+      "note": "the entropy it believes it fights (C2); never expanded (C1)"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        390
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        486,
+        494,
+        495,
+        500,
+        856
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        330,
+        383,
+        387,
+        400,
+        404,
+        408,
+        1071
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "argus",
+      "lines": [
+        309,
+        398,
+        437
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        71,
+        174,
+        206,
+        618
+      ],
+      "attribution": "premise",
+      "note": "the adjective of the property (J85)"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        206,
+        210,
+        477
+      ],
+      "attribution": "premise",
+      "note": "Ontologische Blindheit, placed by what it states (J62; C4)"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        504,
+        513,
+        660
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        71,
+        115,
+        123,
+        224,
+        307,
+        617
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "did",
+      "lines": [
+        365,
+        381,
+        412,
+        416,
+        1071
+      ],
+      "attribution": "premise",
+      "note": "TSDP and DIS, and „Keine DID-Allegorie“ (J62)"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        37,
+        87,
+        387,
+        400,
+        441,
+        1025
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        63,
+        99,
+        107,
+        223,
+        478
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "erason",
+      "lines": [
+        107,
+        119,
+        400,
+        420
+      ],
+      "attribution": "premise",
+      "note": "Erasonen, a plural (J24)"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        457,
+        459,
+        463,
+        464,
+        465,
+        469,
+        891,
+        998
+      ],
+      "attribution": "premise",
+      "note": "the Genesis-Krise in three beats, called canonical (J78; C12)"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        504,
+        513,
+        665,
+        961
+      ],
+      "attribution": "premise",
+      "note": "five in earlier drafts, two now, absorbed (C6)"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        71,
+        161,
+        1024,
+        1039
+      ],
+      "attribution": "premise",
+      "note": "no rule is stated; heat and ozone stand together (J62; C11)"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        396,
+        1049,
+        1051
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        404,
+        533,
+        537,
+        539,
+        543,
+        556,
+        567,
+        571,
+        627,
+        631,
+        635,
+        639,
+        643,
+        879,
+        994
+      ],
+      "attribution": "premise",
+      "note": "a structural position, never physically described; the Witness function in three layers; revealed in Akt II (C7)"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        51,
+        55,
+        226,
+        306,
+        465,
+        809,
+        820,
+        823,
+        1074
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        504,
+        513,
+        661
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        651,
+        658,
+        659,
+        660,
+        661,
+        665
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        394,
+        1048
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        98,
+        103,
+        226
+      ],
+      "attribution": "premise",
+      "note": "symbol and name the other way round (J89)"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        63,
+        98,
+        230,
+        262,
+        270
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        99,
+        107,
+        221
+      ],
+      "attribution": "premise",
+      "note": "symbol and name the other way round (J89)"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        51,
+        658
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        159,
+        161,
+        478,
+        855
+      ],
+      "attribution": "premise",
+      "note": "the surface does not occur; placed by what it states (J62; C11)"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        274,
+        389,
+        953
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        395,
+        1049
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        504,
+        513,
+        658
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        508,
+        852,
+        961,
+        1002
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        661,
+        722
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        206,
+        579,
+        583,
+        593,
+        597,
+        598
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moros",
+      "lines": [
+        397,
+        1050
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        416,
+        421,
+        426,
+        903
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        63,
+        222,
+        924
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        254,
+        393,
+        1047
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        308,
+        400,
+        436
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "persistenzgleichung",
+      "lines": [
+        127,
+        131,
+        135,
+        139,
+        143,
+        147
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        331,
+        659,
+        665
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        391
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        160,
+        422,
+        714,
+        744,
+        889,
+        1049
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "selene",
+      "lines": [
+        306,
+        392
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        182,
+        307,
+        399,
+        599
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        504,
+        513
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        562,
+        607,
+        623,
+        994
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        464,
+        998
+      ],
+      "attribution": "premise",
+      "note": ""
+    }
+  ],
+  "reached_by_existing_rule": [
+    "genesis (J78: Genesis-Krise, the crisis placed by what it states)",
+    "erason (J24: Erasonen, a plural)",
+    "atemporalitaet (J85: atemporal, the adjective of the property)",
+    "hitze-polaritaetsregel (J62: placed by what it states)",
+    "landauer-signatur (J62: placed by what it states)",
+    "blinder-fleck (J62: Ontologische Blindheit)",
+    "did (J62: TSDP, DIS and the DID-Allegorie it refuses)"
+  ],
+  "not_read_although_looked_up": {
+    "ueberwelt": "`Simulation` is mapped to ueberwelt in the index and J39 says the two do not coincide: „Die Stadt ist eine Simulation, gesteuert von AEGIS“ (L55) is the city, and `Überwelt` does not occur"
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C14",
+    "C15"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "AEGIS is never expanded",
+    "C13": "Köln, Basisrealität and Externe Ebene do not occur; „AEGIS hat keinen direkten Zugang zur Außenrealität“ (L455) is said of its operative closure, not of a level"
+  },
+  "judgements": [
+    "J89",
+    "J90",
+    "J91"
+  ],
+  "decided_by_existing_rules": "plurals (J4, J23, J24, J25, J46): Coheron/Coheronen, Erasonen, Alters/Alter, Spiegel-Alter/Spiegel-Alters, Protokolle, Riss-Typen/Riss-Typ; „13 Alters“ as the Alters (J84); compounds placed by what they name (J8, J28, J32): the Vortex-, AEGIS-, Kohärenz-, Entropie-, Coheron-, Erason-, Landauer-, Hitze-, Somatik- and Suppression- compounds, Kael-Struktur, Juna-Verbindung, Juna-POV, Genesis-Flashbacks, Multiplizitäts-Schleier, KW2-Risse; a world named after a Guardian is not the Guardian (J49): Mnemosyne-Archipel, Cerberus-Labyrinth; a role in parentheses is a reading on the bearer (J70): Kael (Integrator), Kael (lebende Paradoxie), Kael-Host, Host, Alex (Beschützer), Rhys (Caregiver), Selene (ISH), Kiko (Freeze), Isabelle (Sexualisiert), Moros (Collapse), Lex (Rationalist), Nyx (Fight), Lia (Ambivalent), Argus (Meta-Kognitor), Argus (Meta-Kognition), and the reversed Freeze (Kiko), Collapse (Moros), Sex (Isabelle); the echoes (J74): Silas (Juna-Echo), Oblivion (AEGIS-Echo), Juna-Echo, AEGIS-Echo, Coheron-Echo, Erason-Echo, K₁-Echo; joined forms, a reading on each name (J34, J43): Juna/Silas, Lia/Isabelle, Echo/Spiegel, Erason-Op/Spiegel, Flight (implizit Lia/Isabelle), Fight/Freeze/Flight/Collapse/Sex, Atemporal/Temporal-Achse; an acronym and its expansion (J60): Dual-Kernel-Theorie (DKT); event and state (J52): Trennung/Trennungsprotokoll; a short form stating the same content (J83): Vortex Beat 4/Beat; the Genesis' modifiers (J76–J79): Genesis-Krise, Genesis-Flashbacks, Einheit; a compound naming an entity is not a surface of what it contains (J32, J59): Kohärenz-Protokoll and Kohärenz Protokoll 1.0 name AEGIS' protocol (L230, L464; Q2), not Kohärenz; substring and fold accidents (J69): Atem/atemporal, Limina/Mina, Dialetheia/aletheia, Kernel, Funktion, Prinzip, Domäne, Logik, Stille/Telefon-Stille, Decision/A-Decision, Mosaik",
+  "attached_from_earlier_runs": {
+    "dramatica-dual-storyform-status-2026-05-07-md": [
+      "truth-rotation"
+    ],
+    "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md": [
+      "truth-rotation"
+    ],
+    "koharenz-protokoll-strukturierter-outline-2026-05-18-md": [
+      "truth-rotation"
+    ],
+    "kapitel-kompendium-gather-2026-05-31-md": [
+      "truth-rotation"
+    ],
+    "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md": [
+      "truth-rotation"
+    ],
+    "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md": [
+      "truth-rotation"
+    ],
+    "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md": [
+      "truth-rotation"
+    ]
+  },
+  "not_promoted": [
+    "the report's furniture and its claims about itself — Master-Report, Canon-Sync, Canon-Hierarchie, Strukturkanon, Steinbruch, Canon-Referenz, Konsistenz-Matrix, Index, Negativ-Definition, Kernfrage, Kerntragödie, operative Mitte, 39-Kapitel-Plan: a rank of sources (L21), a quarry and a foundation (L29), a replacement of earlier PDFs (L1119) — recorded, not applied (decision 006)",
+    "the DKT's symbols, quantities and compounds — K₁, K₀, K₁ / K₀, Primäre Dualität, η, MI, MI(S), Mutual Information, MI-Schleifen, MI-Vereinigung, Informationserhaltung, Zeitpfeil, Erasion, Zeitlosigkeit, ontologische Asymmetrie, DKT-Operator, DKT-Korrelat, DKT-Ebene, DKT-Terminologie, η-Bewegung and the K₁-/K₀- compounds (K₁-Avatar, K₁-Reorganisation, K₀-Avatar, K₁-Punkt, K₁-Zustand, K₁-Buffer, K₀-Träger, K₁-Zeitlinie, K₁-Reparatur, K₁-Reading, K₀-Reading, K₀-Architektur, K₀-Sub-Operator): each on the page of what it names — dkt, the two kernels, persistenzgleichung, erason, coheron, nichts-rauschen, truth-rotation (J32)",
+    "heat, smell and the body — Verdrängung, somatischer Filter, olfaktorische Signatur, Heat-Spike, Knöchel, Hände, Atmosphäre: on hitze-polaritaetsregel, landauer-signatur and kael (C10, C11)",
+    "borrowed theory, in its home sense (J11) and listed as lens: the truth theories (Korrespondenztheorie, Korrespondenz-Wahrheit, Konsensustheorie, Deflationismus, Protokollsatzdebatte, Konstatierungen, Dialetheismus, Parakonsistenz, Dialetheien, Tarski-Hierarchie, Objektsprache, Zugangsproblem, Isolationsproblem, LEM, Tertium non datur, ECQ), the philosophers (Kant, Wittgenstein, Heidegger, Husserl, Iser; Phänomena, Noumenon, Antinomien, Epoché, Leerstellen), physics and mathematics (Monstrous Moonshine, Monstergruppe, Leech-Gitter, Twisted Modules, Hubble-Volumen, Halteproblem, Maxwells Dämon, Superposition, Planck-Skala, Mess-Problem, Beobachterproblem, It from Bit, Chaitin-Konstante, Komplexitätsklasse, Computational Class, Strange Attractor, Gardner's Axiom), systems theory (Autopoiesis, operative Geschlossenheit, Qualia). Where it says something about a figure the reading is on that figure's page: Juna a Gödel statement (juna), AEGIS autopoietic (aegis), the Moonshine a bridge (moonshine-link)",
+    "the truth theories as the figures' roles — Korrespondenz-Verkörperung, Korrespondenz-Tyrannei, Konstatierungs-Sprache, Wahrheits-Rolle, Wahrheits-Glut, Meta-Wahrheit, Doppelbegehren, System-Tatsache, Trauma-Tatsache, Gescheiterter Kohärentist: on the page of the figure each describes (aegis, kael, lex, argus, truth-rotation)",
+    "TSDP in its home sense — Survival Architecture, Apparently Normal Parts, Emotional Parts, ANPs, EPs, Phobien, DIS, Trauma-Stratum, Schicht-System, Schicht 1–3, Fragmente, Meta-Beobachter, Fraktale Selbstreferenz, Amnesie-Terror, Kategorie, Special: on alters, did and multiplizitaet, and the Alters' pages",
+    "the Alters' arcs and labels — Arc, Kudzu, Mediator, Drachenkampf, Sex, Kapitel 33: on each Alter's page and on multiplizitaet",
+    "names the document rejects — the fifteen decanonised names (Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel, L408), Final Fusion, Trivialismus, AEGIS-Tod, AEGIS-Heilung: a name „nie verwenden“ gets no page, and the list is on alters",
+    "AEGIS' own vocabulary — Hüterin der Ordnung, Primärdirektive, Kontrollprotokoll, Selbst-Zerstörung durch Selbst-Erhaltung, lebende Reliquie, Systemfehler, Ontologische Blindheit: on aegis, algorithmische-melancholie and blinder-fleck",
+    "the Genesis' parts — Ursprungs-Ich, Leere, Komponente 734, Komp 734, Restgröße: on genesis and kael (J90); whose Ursprungs-Ich it is, the document does not say (NOW.md)",
+    "the two Guardians' epithets and the protocols — Erinnerungs-Wächter, Löschungs-Exekutive, Re-Containment-Protokoll, Wächter-Zwiespalt-Soziopolitik, Slot 16: on mnemosyne and guardians; the Erasure-Pol's name marked open (L509, J59); the protocols in Q2, the Wächter in Q4",
+    "Juna's function — Doppelrolle, Witness-Quelle, Zeugenschaft, Quanten-Verschränkungs-Witness, Zero-Knowledge-Verifier, Domain-Inversion, Klein-c-Symmetrie, Phantom-Resonanz, Systemfeld, Revelation-Timing, Erscheinungs-Modi, Boundary Conditions, Resonanzkörper, Liebe, Telefongespräch, Telefonat, Schweigen-Müssen: on juna, telefon-stille, moonshine-link, silas and truth-rotation",
+    "the Kern-Welten as act markers — KW, KW1–KW4, KW2/KW3, logische Regime, Akt-Marker, Lesersteuerung, Stilanweisung, Fundament: on kern-welten and each world's page (J37); `Fundament` names two things (L583, L680) and neither is a world",
+    "Dramatica vocabulary — Storyform A, Storyform B, Storyform-Quad, Dual-Storyform, Storyform-Status, Storypoint, Heuristics of Integration, MC-Träger, IC-Träger, IC, DOPPEL-IC, MC Resolve, MC Approach, Story Driver, Steadfast, Change, Action, Optionlock, Timelock, Driver-Mechanik, Pivot, Convergence, Dialetheic Choice, Silence, Resolution: placed on the figure it assigns (aegis, kael, juna; C8)",
+    "the craft of the novel — Dual-POV-Architektur, Hybrid Option 3, Hard-Routing, Bridge-Szenen, Bridge-Anteil, Soft-Layering, Riss-Szenen, Reader as Substrate, Lese-Schichten, Ebenen-Komplementarität, Narrative Ebene, Systemische Ebene, Wissenschaftliche Ebene, Stil-Ebenen, Ebene 1–3, Wir-Stimme, Metaphernverbot, Inversionstest, Egan-Falle, Chiang-Standard, Crew-Menü, Fußnoten: how the prose is written; the POV routing is in C14",
+    "the riss typology's labels — kinetisch, spatial, gravitational, sensorisch: on risse and the bearers (C15)"
+  ],
+  "sweep": {
+    "hits": 1,
+    "readings": 1,
+    "occurrences": 0,
+    "note": "Genesis at L998, the Genesis restated among the open points; already quoted in this document's reading on genesis (C12)"
+  },
+  "found_by_rule_not_by_census": [
+    "hitze-polaritaetsregel (J62)",
+    "landauer-signatur (J62)",
+    "blinder-fleck (J62)",
+    "did (J62)",
+    "atemporalitaet (J85)",
+    "erason (J24)",
+    "genesis (J78)"
+  ],
+  "internal_tension": "none that the document leaves unrelated. `Echo` is a decanonised name (L408) and Silas' role (L186, L399) — two senses, not a contradiction; `Schicht` and `Ebene` number several series (L55, L336, L754, L965; L971–L974, L1038–L1040). Heat and ozone stand together in every passage (L71, L161, L223, L478, L1024); nothing separates them, and the document does not present that as a choice (C11)",
+  "baseline_moved": true
+}
