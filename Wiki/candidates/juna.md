@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -303,3 +303,13 @@ That is Setzung 2, the `Wärme-Spur`, proposed and not decided (L554–L564; C11
 She is not the narrator: „Aber Juna ist im Konzept ausdrücklich *nicht* Helferin der Heilung, nicht Mentorin, nicht Erzählerin." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L243]
 „Sie *ist* die Resonanz, die die Trennung auslöste — sie ist Auslöserin, nicht Bezeugerin." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L243]
 A's Dividend: „Liebe bleibt, Junas Verbindungs-Modus etabliert sich" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L59]. No chapter of hers is named but the two frames (C7).
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+In Kap 0 she has no name. She is a frequency AEGIS cannot classify: „Eine Frequenz hebt an, die in keinem der gespeicherten Muster verzeichnet ist." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L381]
+„Sie kommt nicht; sie *ist plötzlich*." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L381] The Funken-Ich feels her as warmth: „Eine Wärme, die es nicht geben kann, weil hier keine Wärme existiert. Ein Wiedererkennen ohne Vorgängiges." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L401]
+Kap 40's Wir names her: „Junas Resonanz war nicht der Angriff, als den AEGIS sie las." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L79]
+„Juna war nicht in der Welt. Sie war die Bewegung, die Welt erst möglich machte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L87]
+„In der Reinform war sie kein Sie. In K0 wurde sie Sie" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L87]
+„Juna ist mit uns. Sie ist nicht in uns und nicht außer uns." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L131]
+She appears in neither chapter as a figure (C7).
