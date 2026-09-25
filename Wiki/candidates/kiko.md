@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,3 +74,9 @@ A Fundsache from Köln triggers her Riss type: „das Ticket trägt ein Datum, d
 „Kiko ist traumatisiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L125]
 „Wenn die Sprache komplexer wird, ist das ein anderer Anteil oder ein Heilungs-Marker." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L125]
 Her label is `Freeze`; no voice in the document carries `Flight` (C15).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„EP | Kiko (Freeze) | Planck-Skala | Sich klein machen | → Vertrauen" ^[kohaerenz-protokoll-konzept-master-md.md:L394]
+The riss: „Freeze (Kiko) | temporal" ^[kohaerenz-protokoll-konzept-master-md.md:L1048]. The voice in Akt I: „Kiko kindlich." ^[kohaerenz-protokoll-konzept-master-md.md:L1032]
+Kiko carries Freeze and nothing else here; Flight is given to Lia and Isabelle, implicitly (L1049; C15).
