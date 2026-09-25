@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -64,3 +64,18 @@ beat, „Das Rauschen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - timeless K1 purity, where AEGIS and Kael are not separate: „Nichts-Rauschen / K1-Reinform“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L44]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The first event of the Rauschen motif: „Nichts-Rauschen vor jeder Form" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523] —
+„K₁-Reinform; was AEGIS für Chaos hält, ist Vereinigung aller MI" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523]. Its
+waypoints run from „Anfang (Kap 0): pure Reinform-Stille." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535] through
+„Akt I: spürbar als das, was AEGIS unterdrückt (Ozon-Reaktion)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535] to
+„Kap 37: das Rauschen, das wieder beginnt unter dem trügerischen Frieden." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535],
+„Kap 38: das Rauschen kommt von allen Seiten." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535] and
+„Kap 40: das Rauschen, *erkannt* als Substrat von Verbindung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535]
+The motif is `Rauschen`, its first event the Nichts-Rauschen; the document equates
+them there and nowhere else (J51).
+
+AEGIS cannot see it: the K₁-Reinform, „klassifiziert als „uncorrelated noise"" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
+Its layer, from the konsolidiertes Konzept: „K₁-Reinform / K₀-Existenz / Juna als Zeit-Prinzip" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1175].
