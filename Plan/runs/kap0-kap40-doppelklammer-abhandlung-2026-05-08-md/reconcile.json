@@ -1,0 +1,303 @@
+{
+  "document": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+  "drive_id": "1I0S5RTWwY9MTTSiuZ5p1pp0JoGjbi0G0PiBghqEwZFU",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 105,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 181,
+    "decisions": 189,
+    "decided_by_lookup": 112,
+    "needs_judgement": 77
+  },
+  "new_terms": [
+    {
+      "page": "formel-inversion",
+      "lines": [
+        201,
+        337,
+        343,
+        344,
+        348,
+        352,
+        356
+      ],
+      "why": "the document heads a mirror point with it (V.5) and defines it by the sentence pair and „die mechanische Achse der gesamten Klammer“ (L348); 8 documents use the name (corpus.py count), all eight read, six of whose readers listed it and none of whose records say why it had no page. Gathered from all eight, one commit each"
+    }
+  ],
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        67,
+        78,
+        80,
+        87,
+        100,
+        104,
+        138,
+        193,
+        311,
+        343,
+        344
+      ],
+      "attribution": "proposal",
+      "note": "MC of Storyform B, Phoenix Collapse, Do-er, steadfast; the fatal choice Logic over Feeling in the Trennungsprotokoll; the formula and its inversion; AEGIS-monolithisch goes out and the Wir takes over the function (J47, J73)"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        43,
+        54,
+        56,
+        58,
+        63,
+        95,
+        96,
+        100,
+        104,
+        138,
+        189,
+        239
+      ],
+      "attribution": "proposal",
+      "note": "MC of A (Mind/Memory), IC of B (Mind/Conscious); the Singular-Selbst as A's cost; rejected as the Vorwort's voice"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        59,
+        140,
+        150,
+        243,
+        307,
+        311,
+        315,
+        319
+      ],
+      "attribution": "proposal",
+      "note": "the time principle between the layers; IC of A, the Driver of B's action; her resonance felt as warmth in Kap 0 (Setzung 2); Auslöserin, not Bezeugerin"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        58,
+        197,
+        327,
+        335
+      ],
+      "attribution": "proposal",
+      "note": "A's cost; the Echos become the Wir's voices in Kap 40 — Lex, Nyx, Kiko and Mira, a name in no other landed document"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        120,
+        154,
+        158,
+        159,
+        160,
+        161,
+        165,
+        169,
+        173
+      ],
+      "attribution": "proposal",
+      "note": "four beats; Beat 1 told nowhere, Beats 2 and 3 in Kap 0, Beat 4 in Kap 39; the birth of the separation itself (C12)"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        87,
+        120,
+        160,
+        181,
+        307
+      ],
+      "attribution": "proposal",
+      "note": "beat 3, the logic choice; A cut out of B; answer to Juna's resonance classified as attack"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        134,
+        138,
+        148,
+        177,
+        181
+      ],
+      "attribution": "proposal",
+      "note": "layer 1, Nichts-Rauschen / K1-Reinform, written Reinform after (J83); before any storyform, not narratable; the plural end is not the Reinform"
+    },
+    {
+      "page": "k0-existenz",
+      "lines": [
+        139,
+        149,
+        150,
+        181
+      ],
+      "attribution": "proposal",
+      "note": "layer 2; the conflict space of both storyforms, where the 39 chapters play"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        112
+      ],
+      "attribution": "proposal",
+      "note": "where the Ursprungs-Ich is before Kap 0; not defined"
+    },
+    {
+      "page": "drei-ontologische-schichten",
+      "lines": [
+        132,
+        134,
+        138,
+        139,
+        140,
+        144,
+        150
+      ],
+      "attribution": "proposal",
+      "note": "the three layers, attributed to „Das Konzept“, each given a storyform position; placed by what the passage states (J62)"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        327,
+        335
+      ],
+      "attribution": "proposal",
+      "note": "one of the Wir's voices in Kap 40"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        327,
+        335
+      ],
+      "attribution": "proposal",
+      "note": "one of the Wir's voices in Kap 40"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        327,
+        335
+      ],
+      "attribution": "proposal",
+      "note": "one of the Wir's voices in Kap 40"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        315,
+        319,
+        442
+      ],
+      "attribution": "proposal",
+      "note": "no rule stated; warmth as the substance of Juna's resonance in Kap 0, cold as AEGIS' manner; placed by what it states (J62), C11"
+    }
+  ],
+  "already_read_by_the_scan": {
+    "genesis-klammer": "reading of 2026-09-25 stands; Doppel-Klammer made its alias (J94); scan note now names this reconciliation",
+    "vermittler-stimme": "reading stands; scan note updated",
+    "residual-echos": "reading stands (Echos placed by what they state, J62); scan note updated",
+    "komponente-734": "reading stands; scan note updated",
+    "ouroboros-struktur": "cited under Where the sources differ, no reading — the document never names the Ouroboros; scan note updated"
+  },
+  "reached_by_existing_rule": [
+    "nichts-rauschen (J83: Reinform, the head of K1-Reinform used alone)",
+    "aegis (J47, J73: AEGIS-monolithisch is AEGIS; Wir-AEGIS-plural and Wir-AEGIS one term among themselves, no page)",
+    "juna (J70: Juna als Zeit-Prinzip, a bearer with a role)",
+    "residual-echos (J62: placed by what the passage states)",
+    "drei-ontologische-schichten (J62)",
+    "hitze-polaritaetsregel (J62)"
+  ],
+  "not_read_although_looked_up": {
+    "risse": "`Riss` here is the Genesis' split (L315) and a crack in Kap 0's prose (L331), neither the world's Risse; placed by what it states (J62)",
+    "mosaik-herz": "`Mosaik` is the carried shards of Kap 40 (L327, L384), not the Kap-11 beat or the Kap-34 place (J53)",
+    "entropie-resonanz": "`Resonanz` is Juna's (J53)",
+    "resonanz-landschaft": "`Resonanz` is Juna's (J53)",
+    "evaluierungseinheit": "`Einheit` is the Genesis' first beat — substring",
+    "kaels-wohneinheit": "substring",
+    "kohaerenz": "sweep: the title and two other senses — occurrence"
+  },
+  "new_surfaces": [
+    "Doppel-Klammer → genesis-klammer (J94)"
+  ],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C7",
+    "C8",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q3"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "AEGIS not expanded",
+    "C2": "Entropie does not occur",
+    "C3": "no emergence",
+    "C4": "`epistemologische Blindheit` only in a draft's vocabulary the document rejects (L422)",
+    "C5": "no Garten",
+    "C6": "no Guardian",
+    "C9": "no Konstrukt-Stadt",
+    "C10": "no knuckles",
+    "C13": "no Basisrealität, Externe Ebene or Köln",
+    "C15": "no riss type",
+    "Q1": "no Guardian",
+    "Q2": "Protokoll only in the title",
+    "Q4": "no Wächter",
+    "Q5": "no Guardian, no Kern-Welt"
+  },
+  "judgements": [
+    "J94"
+  ],
+  "decided_by_existing_rules": "intra-list groups placed by what each names (J8, J16, J28): Genesis-Coda-Architektur, Genesis-Sequenz and Genesis-Vier-Beat-Sequenz are the frame, the Kap-0 sequence and the beat list, readings on genesis-klammer and genesis (J76); Komponente-734-Sequenz a sequence named for 734, a reading on komponente-734 (J76); Resonanzkaskade, Resonanzkörper, Echo-Stimme, Echo des Vorworts, Echo der Krise, Verwandlungs-Klick, Notfall-Einrasten, Wendungs-Achse, Spiegelscherben, Setzung 1–3, Doppel-Skelett vor Prosa and gewendete Klammer are the document's own devices, no page; Funke / Funken-Ich, Funktionseinheit / Funktionseinheiten, Cluster / Cluster-Bildung one referent each, plurals and heads (J24, J83); Einheit / Funktionseinheit / plurale Einheit a substring, three things; Judgment ... Cost / Cost and Dividend / Judgment Bad with Dividend Dramatica fields, lens",
+  "not_promoted": [
+    "Ursprungs-Ich (L112, L158, L323): in 53 landed documents (corpus.py count) and six read ones, and no page. Here only named as Beat 1's subject; the document that defines it should open its page",
+    "Funken-Ich (12 standing alone): the fluid first person of Kap 0 (L112, L315, L430); in 8 documents. A narrator's position in a draft, not defined here",
+    "Wärme-Spur (L315, L432–L434, L556): Setzung 2, a proposal from a chat turn; in 3 documents. On juna, hitze-polaritaetsregel and C11",
+    "Wir-AEGIS-plural, Wir-AEGIS, AEGIS-plural: no page while the name is marked open (J47, J73); read on aegis",
+    "AEGIS-monolithisch: AEGIS in its singular form (J47), read on aegis",
+    "Vor-Trennungs-Liebe (L311, L426, L438): in 2 documents; what Juna's resonance is, read on juna",
+    "Spiegelpunkte, Doppel-Skelett, Echo-Beat, Skelett-Tabelle, Bewegung-für-Bewegung-Schreiben, Pilot-Beat, Stimme-Kalibrierung, Wendungs-Achse: the writing method of chapter VII, a procedure for the author; each in this document only",
+    "Heuristics of Integration, Phoenix Collapse, Storyform A/B, MC, IC and the Dramatica fields: the storyforms, lens; recorded on kael, aegis, juna and C8",
+    "Mira (L327): one line, a name among the Wir's voices; in no other landed document — on alters and Q3",
+    "Vermittler-Schema, Konzept-Mandat, Pilot-Encoding-Sitzung: references to documents and sessions not shown",
+    "operationale Geschlossenheit, autopoietische Selbstorganisation, Paradoxon der Fehlausgerichteten Kohärenz, epistemologische Blindheit: a draft's vocabulary the document rejects (L422) — occurrences",
+    "Kawabata, Lem, Le Guin, Tarkowski: a comparison (L604)"
+  ],
+  "sweep": {
+    "hits": 1,
+    "readings": 0,
+    "occurrences": 1,
+    "note": "Kohärenz L17, the title; L138 and L422 other senses"
+  },
+  "found_by_rule_not_by_census": [
+    "drei-ontologische-schichten (J62: III.1 is the three layers)",
+    "hitze-polaritaetsregel (J62)"
+  ],
+  "internal_tension": "It counts the book as a 41-Kapitel-Architektur (L124) and calls the chapters between the frames 39 (L29, L263). Beat 4 is Kap 39 and Kap 40 is not Beat 4 (L173), yet the second formula falls in Kap 40 (L344, L352). It gives Kap 40's last line „laut Konzept“ (L368), and the two concept documents of its date read end on „Wir tragen die Welt“. It names its own origin as a chat — „vom letzten Turn“ (L315, L418)",
+  "chapters": {
+    "readings_on": [
+      0,
+      39,
+      40
+    ],
+    "left_off": {}
+  },
+  "baseline_moved": false
+}

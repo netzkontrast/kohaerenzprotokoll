@@ -1,7 +1,7 @@
 {
   "built": "2026-09-25",
   "by": "scripts/wiki_index.py",
-  "pages": 105,
+  "pages": 106,
   "conflicts": 15,
   "terms": {
     "aegis-metriken": {
@@ -69,10 +69,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 18,
-      "readings": 19,
+      "sources": 19,
+      "readings": 20,
       "conflict": "C1, C8, C14"
     },
     "alex": {
@@ -141,10 +142,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 14,
-      "readings": 13,
+      "sources": 15,
+      "readings": 14,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -397,10 +399,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "ecr": {
@@ -555,6 +558,26 @@
       "readings": 12,
       "conflict": "C13"
     },
+    "formel-inversion": {
+      "title": "Formel-Inversion",
+      "surfaces": [
+        "Formel-Inversion",
+        "formel-inversion"
+      ],
+      "ingested": [
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "kapitel-kompendium-gather-2026-05-31-md",
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"
+      ],
+      "sources": 8,
+      "readings": 8,
+      "conflict": "none yet"
+    },
     "garten-der-stillen-praesenz": {
       "title": "Garten der stillen Präsenz",
       "surfaces": [
@@ -575,6 +598,7 @@
     "genesis-klammer": {
       "title": "Genesis-Klammer",
       "surfaces": [
+        "Doppel-Klammer",
         "Genesis-Klammer",
         "genesis-klammer"
       ],
@@ -612,10 +636,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C12"
     },
     "goedel-gambit": {
@@ -718,10 +743,11 @@
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
-        "koharenz-protokoll-sprach-dna-2026-05-13-md"
+        "koharenz-protokoll-sprach-dna-2026-05-13-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C11"
     },
     "isabelle": {
@@ -769,10 +795,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -799,10 +826,11 @@
       ],
       "ingested": [
         "koharenz-protokoll-konzept-iteration-genesis-md",
-        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"
+        "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": ""
     },
     "kael-julia-bindung": {
@@ -844,10 +872,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 16,
-      "readings": 16,
+      "sources": 17,
+      "readings": 17,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -943,10 +972,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C15"
     },
     "kishotenketsu": {
@@ -1134,10 +1164,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "none"
     },
     "lia": {
@@ -1400,10 +1431,11 @@
         "koharenz-protokoll-konzept-iteration-genesis-md",
         "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -1437,10 +1469,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C10"
     },
     "oblivion": {
@@ -1565,10 +1598,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
-        "koharenz-protokoll-konzept-iteration-genesis-md"
+        "koharenz-protokoll-konzept-iteration-genesis-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -1892,10 +1926,11 @@
         "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
         "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
         "koharenz-protokoll-sprach-dna-2026-05-13-md",
-        "kohaerenz-protokoll-konzept-master-md"
+        "kohaerenz-protokoll-konzept-master-md",
+        "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"
       ],
-      "sources": 13,
-      "readings": 13,
+      "sources": 14,
+      "readings": 14,
       "conflict": "C12"
     },
     "truth-rotation": {
@@ -2134,8 +2169,10 @@
     "erason": "erason",
     "evaluierungseinheit": "evaluierungseinheit",
     "externeebene": "externe-ebene",
+    "formelinversion": "formel-inversion",
     "gartenderstillenprasenz": "garten-der-stillen-praesenz",
     "gartenderstillenpraesenz": "garten-der-stillen-praesenz",
+    "doppelklammer": "genesis-klammer",
     "genesisklammer": "genesis-klammer",
     "genesis": "genesis",
     "godelgambit": "goedel-gambit",

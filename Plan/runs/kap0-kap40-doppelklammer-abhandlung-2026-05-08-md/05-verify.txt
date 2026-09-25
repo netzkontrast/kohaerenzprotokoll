@@ -82,3 +82,10 @@ Mira                             1       1  2026-05-08 2026-05-08  plot-outline:
 
 matching: whole-word  (--substring for the other)
 370 documents, answered from the derived surface index — no document was opened
+$ python3 scripts/corpus.py count Formel-Inversion Ursprungs-Ich
+term                          docs     occ  first      last        categories
+Formel-Inversion                 8      13  2026-05-08 2026-06-10  plot-outline:5, charaktere:1, kernkonzept:1, storyform:1
+Ursprungs-Ich                   53     201  2025-04-29 2026-05-18  aegis:14, kernkonzept:12, theorie-physik:5, theorie-philosophie:4
+
+matching: whole-word  (--substring for the other)
+370 documents, answered from the derived surface index — no document was opened
