@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -80,3 +80,7 @@ The somatic filter is open (L1006).
 „Bemerkenswert ist, dass das Cluster nicht mehr nur reagiert. Es antizipiert." ^[kap0-v1-annotiert-md.md:L305]
 „Argus-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: distanziert, meta-kommentar, klinisch (*Bemerkenswert ist, dass*, *Es fällt auf*)." ^[kap0-v1-annotiert-md.md:L309]
 „Argus' Funktion (Meta-Beobachtung des eigenen Funktionierens) ist hier präzise gesetzt." ^[kap0-v1-annotiert-md.md:L309]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+„Argus (Meta-Kognition) → A, mit Kommentar-Überlagerung" ^[three-mode-architecture-39-chapters-md.md:L138]
