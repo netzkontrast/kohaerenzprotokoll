@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 8
+sources: 9
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -133,3 +133,12 @@ later* than the KW4 heading. It is thirteen: the heading is at L517, the line at
 L530. The quotation, its line and the reading — a place inside KW4 — stand.
 Found by the record audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`,
 9-A15).
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Both scales, one document.** KW4's heading gives the garden as the world's third
+name — „KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L225] — and
+KW4's sub-location table has a `Möglichkeits-Garten` inside it,
+„überwucherter Ruinengarten; Setting der inneren Praxis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L272]. The same shape as the
+konsolidiertes Konzept's, with the world called `Kairos-Potentialis` again (J61). It
+does not write `Garten der Möglichkeiten`.
