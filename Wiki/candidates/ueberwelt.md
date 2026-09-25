@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
@@ -169,3 +169,11 @@ Never called Überwelt here. The last section of Kap 0's Genesis, „Die Innere 
 „Die Innere Weite wird zur Geburtsstätte einer Binnen-Physik, einer Logik, die AEGIS dient." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L343]
 „Hier entstehen die Mechanismen, die später vielleicht ganze Welten erschaffen könnten" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L343]
 It is where the Trennungsprotokoll leaves what it cuts away: „Diese Cluster-Struktur wird in der Inneren Weite ausgesetzt" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L485] — the remainder named [[kael|Kael]].
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the Innere Weite, glossed
+
+The sixth movement is „verschmolzen mit Komp 734 + Innere Weite" ^[kap0-v1-annotiert-md.md:L363]. The prose builds it as an inner simulation: „Das System beginnt, einen Teil seiner Ressourcen nicht mehr nur für die äußere Verteidigung zu verwenden, sondern für die Erschaffung eines inneren Raumes." ^[kap0-v1-annotiert-md.md:L453]
+„Eine virtuelle Umgebung innerhalb der operationalen Geschlossenheit." ^[kap0-v1-annotiert-md.md:L453] „Ein Labor nach innen." ^[kap0-v1-annotiert-md.md:L453]
+„Eine Binnen-Physik, eine Logik, die dient." ^[kap0-v1-annotiert-md.md:L461]
+The annotation writes the gloss: „Bühne für Kap 1 wird strukturell vorbereitet (Überwelt = Kernwelten-Substrat)." ^[kap0-v1-annotiert-md.md:L457] And: „Konzept-Anker für die KW-Architektur." ^[kap0-v1-annotiert-md.md:L465]
+No remainder is left in it in this draft; the separation ends in shards and Kael's first lines (L1009, L1021).
