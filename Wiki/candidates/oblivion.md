@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 11
-readings: 11
-conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+sources: 12
+readings: 12
+conflict: C11
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -84,3 +84,12 @@ After Vortex 1, an open point: „lebende Reliquie + Oblivion-Übernahme intern"
 „Oblivion (AEGIS-Echo)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L741]: „Internalisierte Löschlogik." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L743] DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]
 „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]. Post-Vortex, OQ-G: „Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
 Anchor: „Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L793]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Oblivion (Spiegel / AEGIS-Echo)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L163] (J74).
+„Internalisierte Löschlogik. Der Grund, warum die Amnesie von innen funktioniert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L165]
+„Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L165]
+„Seine Kapitel sind strukturell anders: Lücken, abgebrochene Wörter, weggeätzte Stellen." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L165]
+„Was nach dem Vortex mit ihm geschieht, ist offen (OQ)." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L165]
+Every switch between his voice and [[silas|Silas]]' „erzeugt Landauer-Wärme im Text" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233] (C11).
