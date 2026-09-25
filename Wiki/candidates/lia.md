@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -67,3 +67,8 @@ Anchor: „Lia ist nicht „launisch"." ^[kohaerenz-protokoll-anteile-profile-sp
 „Trägt das unlösbare Paradoxon Komm-her/Geh-weg. Sehnsucht, die verbrennt." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L133]
 „Lia ist nicht launisch. Sie ist gespalten." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L133]
 Her label is `Ambivalent`; no voice in the document carries `Flight` (C15).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Lia (Ambivalent)" ^[kohaerenz-protokoll-konzept-master-md.md:L395]: correlate superposition, arc „Verlassen der Superposition" ^[kohaerenz-protokoll-konzept-master-md.md:L395].
+In the riss typology: „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] — spatial, with [[isabelle|Isabelle]], marked implicit (C15).
