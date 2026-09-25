@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 14
+sources: 15
 pages: ["juna"]
 ---
 
@@ -159,3 +159,10 @@ that it chose between them.
 Its open points: „**Junas Erscheinungs-Modi.** Telefon-Stille ist *ein* Anker." ^[kohaerenz-protokoll-konzept-master-md.md:L994] „Andere Modi (Erscheinungen in der Stadt, im Traum, im Spiegel) müssen festgelegt werden, bevor Encoding-Phase startet" ^[kohaerenz-protokoll-konzept-master-md.md:L994]
 And a point of view it both leaves open and routes: „Junas POV ist offen (Reset-Doc Appendix C)." ^[kohaerenz-protokoll-konzept-master-md.md:L404], „Juna-POV (selten)" ^[kohaerenz-protokoll-konzept-master-md.md:L879].
 Neither Kap 33 nor Kap 38 is named. Whether its Akt-II revelation is an appearance, an effect or the reader's discovery, it does not say — a position this record has not held, earlier than both chapters.
+
+## 2026-09-25 — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+**Juna in Kap 0 and Kap 40 only, as resonance — no appearance is placed.**
+„Junas Resonanz ist die ontologisch zentralste Stelle des gesamten Romans." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L307] In Kap 0 she is felt, not seen: in the Krise-Sequenz „als Vibration, fremde Frequenz" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L307].
+She is not the narrator, and not a helper: „Aber Juna ist im Konzept ausdrücklich *nicht* Helferin der Heilung, nicht Mentorin, nicht Erzählerin." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L243]
+No chapter between the frames is named for her. Read and unchanged: neither Kap 33 nor Kap 38.
