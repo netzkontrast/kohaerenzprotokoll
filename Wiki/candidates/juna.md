@@ -277,3 +277,6 @@ Kap 33 is not named (C7).
 **When**: „Revelation-Timing: KW2/KW3 (Akt II), nicht früher." ^[kohaerenz-protokoll-konzept-master-md.md:L571] Her other modes are open —
 „Andere Modi (Erscheinungen in der Stadt, im Traum, im Spiegel) müssen festgelegt werden" ^[kohaerenz-protokoll-konzept-master-md.md:L994]. No chapter (C7).
 Her point of view: „Junas POV ist offen (Reset-Doc Appendix C)." ^[kohaerenz-protokoll-konzept-master-md.md:L404] — and a rare „Juna-POV (selten)" ^[kohaerenz-protokoll-konzept-master-md.md:L879].
+**What she does**: „Witness-Funktion: sie bezeugt, ohne zu intervenieren" ^[kohaerenz-protokoll-konzept-master-md.md:L539] — „Die Witness-Funktion ist eine Komposit-Mechanik, die drei Disziplinarschichten in einer einzigen Instanz versöhnt" ^[kohaerenz-protokoll-konzept-master-md.md:L627]:
+an entanglement witness, a zero-knowledge verifier with [[kael|Kael]] as prover, and Husserl's disinterested spectator (L631, L635, L639).
+„Juna trägt alle drei Schichten simultan." ^[kohaerenz-protokoll-konzept-master-md.md:L643] „Sie bezeugt nur, dass das Problem real ist." ^[kohaerenz-protokoll-konzept-master-md.md:L567]
