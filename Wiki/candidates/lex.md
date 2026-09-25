@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -59,3 +59,13 @@ Logik-Ansatz scheitert an einem komplexen Problem." ^[koharenz-protokoll-struktu
 In KW1 his breath is the Host's default: „Lex' Hypoventilation als unterschwelliger Default-Modus." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L79]
 The Gödel strand's first trace is his: „Lex-Kap-Momente Akt I, widersprüchliche Klassifikationen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L446].
 From the Sprach-DNA it keeps: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1233]
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Direktes Produkt des Trennungsprotokolls — AEGIS' Versuch, Trauma durch fehlerfreie Logik zu eliminieren." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]
+Second trauma layer (L86). „Lex ist die innere Inkarnation der formalen Unentscheidbarkeit." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L180]
+His riss: „Wenn Lex bricht, läuft sein Algorithmus in Rekursionen, die nicht terminieren." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L184]
+Somatics as the character bible gives them: „Hypoventilation, taktile Taubheit, Bradykardie, Kälte." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L188]
+The anchor whole: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211] „Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211]
+Maximal conflict with [[nyx|Nyx]] (L808). ↔ [[juna|Juna]]: „klassifiziert sie als Datenanomalie, versucht sie zu rationalisieren — scheitert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L203]
+Kap 1 forbids his mode: „Kein Lex-Modus. Kein Nyx-Imperativ. Keine Wir-Andeutung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L926]
