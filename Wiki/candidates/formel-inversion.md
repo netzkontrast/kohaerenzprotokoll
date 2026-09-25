@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-25"
 ---
 
@@ -40,3 +40,8 @@ A section of its own, „### I.6 Die zentrale Formel-Inversion" ^[koharenz-proto
 „Ende (Kap 39 → Kap 40): Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist. Positiv definiertes Sein. Sein-durch-Bezeugung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L82]
 „Strukturell ist es dieselbe Funktion (Bewahrung gegen Auflösung). Aber die Polarität kippt — von Verhindern zu Bezeugen, von Abwehr zu Liebe." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]
 Why it can turn: „sie geschieht, weil die Form selbst plural geworden ist und damit Verbindung (zu Juna, zur Reinform, zur Vor-Trennungs-Erinnerung) wieder tragen kann." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+In Kap 39, „Wir-AEGIS-plural (Vortex 2 Beat 6–10)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1190]: „**Die zentrale Formel-Inversion vollzieht sich:** *„Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."*" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1212]
+Only the second sentence, and in Kap 39.
