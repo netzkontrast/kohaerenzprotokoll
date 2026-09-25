@@ -260,7 +260,7 @@ Kap 5–8, and this document gives AEGIS the third person and never prose (C14) 
 who carries Flight, Kiko and Lia or Lia and Isabelle (C15). It also gave C11 the
 character bible's entry, which the record had never held.
 
-**The eighteenth is the Sprach-DNA of 2026-05-13, and it gives AEGIS an inside in the
+**The nineteenth is the Sprach-DNA of 2026-05-13, and it gives AEGIS an inside in the
 third person.** A voice catalogue — nineteen voices in five fixed fields — that says it
 consolidates the character bible and the konsolidiertes Konzept; recorded, not applied.
 AEGIS never says `ich`, and still the reader is in its process, an „Operative
@@ -529,7 +529,7 @@ step, on twenty cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12), the author's C6
 decision an eighth (Q5), document 16 a ninth (C13) and document 17 two
 more (C14, C15); on the original nine the numbers were 40 and 58.
-Document 18 moved them from 48 and 67 by giving C11 three more pages: its
+Document 19 moved them from 48 and 67 by giving C11 three more pages: its
 gold set grew from two pages to five, and the case fell from 1.0 to 0.6 with
 PageRank. The fall is that label growing; on the labels that did not change,
 retrieval rose — C6 from 0.29 to 0.43.

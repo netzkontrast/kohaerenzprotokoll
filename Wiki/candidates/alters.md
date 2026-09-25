@@ -187,7 +187,7 @@ excluded outright: „Dekanonisiert (NIE als aktive Charaktere):" ^[kohaerenz-pr
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 
 Thirteen voices inside the system, [[kael|Kael]] to [[oblivion|Oblivion]] (L67–L165), each with its ANP or EP
-label, and the document's word for them is `Anteil` (J87):
+label, and the document's word for them is `Anteil` (J88):
 „Der Leser erkennt den neuen Anteil ausschließlich an Syntax und Vokabular." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L21]
 „Dissoziation ist Amnesie-Terror, niemals Crew-Menü." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L21] The word `Alter` stays out of Kael's
 Akt I, with `Fragment` and the DKT terms (L69). Together they become the Wir:

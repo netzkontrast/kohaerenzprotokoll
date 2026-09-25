@@ -135,7 +135,7 @@ before this list.
   blind re-readings (`Plan/learnings/extract-terms.md`). If several sessions are
   meant to read, which one takes which document is yours to divide — nothing in
   `NOW.md` does it yet. Until you do, this session took a document the other
-  one's handover did not name: the Sprach-DNA of 2026-05-13 (document 18), while
+  one's handover did not name: the Sprach-DNA of 2026-05-13 (document 19), while
   that handover names `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`.
 
 - **Decision 011 — confirm or narrow.** On „Use dspy Optimierung on the
@@ -624,7 +624,7 @@ high tier into it is the next step, and it is a person's.
 
 ## Next document — Sprach-DNA reconciled
 
-**The eighteenth document is done: `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-09-25.** 194 candidates under decision 012's list rule, no pages, readings on 32 pages, eight conflicts and four questions moved, J87, one sweep hit (the title, an occurrence). `Wiki/compare/reconcile-19-koharenz-protokoll-sprach-dna-2026-05-13-md.md` has the record. Taken out of order: the other session's handover names `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, and documents 16 and 17 had each been read twice.
+**The nineteenth document is done: `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-09-25.** 194 candidates under decision 012's list rule, no pages, readings on 32 pages, eight conflicts and four questions moved, J88, one sweep hit (the title, an occurrence). `Wiki/compare/reconcile-20-koharenz-protokoll-sprach-dna-2026-05-13-md.md` has the record. Taken out of order: the other session's handover names `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, and documents 16 and 17 had each been read twice.
 
 - **C14**: AEGIS in the third person, never `ich`, with an „Operative Interiorität“ (L37) — a third form beside the older sources' no inner view and the lock's first person.
 - **C11**: Landauer warmth „spürbar als Ozon-Geruch oder Hitzeschlieren“ (L233) — both sides in one sentence, before the lock.

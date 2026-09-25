@@ -1208,7 +1208,7 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 
 **Result.** two terms — the joined form names a relation between two pages, and is an alias of neither; each name keeps its own page
 
-## J87 — Anteil / Alter
+## J88 — Anteil / Alter
 
 **judgement** · koharenz-protokoll-sprach-dna-2026-05-13-md · 2026-09-25 · replay: `judgement`
 

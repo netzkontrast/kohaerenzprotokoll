@@ -10,12 +10,12 @@ new_pages: 0
 new_readings: 32
 ---
 
-# Reconciliation 19 — `koharenz-protokoll-sprach-dna-2026-05-13-md` against the wiki
+# Reconciliation 20 — `koharenz-protokoll-sprach-dna-2026-05-13-md` against the wiki
 
 `python3 scripts/reconcile.py koharenz-protokoll-sprach-dna-2026-05-13-md`
 
 194 candidates, 199 decisions — **135 by lookup, 64 to judgement**, and one sweep hit.
-Document 18, „Kohärenz Protokoll — Sprach-DNA" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L11] of 2026-05-13: nineteen
+Document 19, „Kohärenz Protokoll — Sprach-DNA" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L11] of 2026-05-13: nineteen
 voices in five fixed fields, then a style level per act and a style per Kern-Welt. It says
 what it consolidates — the character bible and the konsolidiertes Konzept among four
 (L13) — and that claim is recorded, not applied (decision 006).
@@ -62,7 +62,7 @@ C15 in particular: no voice carries a `Flight` label, and the word does not occu
 
 ## Judgements
 
-J87 (`Anteil` and `Alter`): the document's word for the system's parts is `Anteil`
+J88 (`Anteil` and `Alter`): the document's word for the system's parts is `Anteil`
 (L21, L125) and it names `Alter` only as a word Kael's Akt I may not use (L69). One
 referent — but `Anteil` is also an ordinary noun, so the sentence decides and no surface
 is added (J20, J55, J67). Every other near match was decided by a recorded rule, named in

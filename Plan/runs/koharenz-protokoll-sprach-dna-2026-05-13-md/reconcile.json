@@ -347,7 +347,7 @@
   ],
   "reached_by_existing_rule": [
     "guardians (J23: Guardian)",
-    "alters (J25, J46: Alter; J87: Anteil)",
+    "alters (J25, J46: Alter; J88: Anteil)",
     "kern-welten (J37: KW1–KW4)",
     "genesis (J76: Genesis-Prolog names the device, its content a reading)",
     "multiplizitaet (J28: Multiplizitäts-Schleier, named after it)",
@@ -390,7 +390,7 @@
     "Q2": "none of the eight protocols occurs"
   },
   "judgements": [
-    "J87"
+    "J88"
   ],
   "decided_by_existing_rules": "plurals (J4, J23, J24, J25, J46): Kernwelt/Kernwelten, Hard Rules/Hard Rule, Stimme/Stimmen, Anteile/Anteil, Guardian, Alter; compounds placed by what they name (J8, J28, J32): Mikro-Profile/Mikro, the Stimme-, AEGIS-, Echo-, Resonanz-, Stille-, Log- and Kernwelt- compounds, Funktion/Bewahrung-Funktion, Fight/Fight-via-Control, Juna/JUNA_VEKTOR, Landauer-Wärme/Wärme, Ozon-Geruch/Ozon, Hitzeschlieren/Hitze, Hitze/Hitze-Polaritätsregel, Erason-Bilanz/Erason; a qualifying prefix (J27): Stilebenen/Akt-Stilebenen, Containment/Re-Containment; a short form stating the same content (J83): Vortex-Beat 5/Beat 5; a bearer's role (J70): Kael-Host, Host; the echoes (J74): Juna-Echo, AEGIS-Echo; a slash in a heading (J14) and a world name that is not its bearer (J49): Konstrukt-Stadt / Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth; a numbered instance (J37): KW1–KW4; a state whose name is open (J47, J73): Wir-AEGIS-plural; a narrative device (J76): Genesis-Prolog; a shared head (J10): Resonanz against Entropie-Resonanz and Resonanz-Landschaft; one equation is not a merge (J51): Rauschen/Nichts-Rauschen; matches only after folding cuts words (J69): Akt I/Akt II/Akt III, Funktion, Anomalie, Fragment, Kollaps/Kollaps-Kernel.",
   "not_promoted": [
