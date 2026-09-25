@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -153,3 +153,8 @@ The prologue as written: a Vorwort, „### Genesis — Bewegung 1: Das Rauschen"
 The writer places it in the concept's count: „Die Genesis-4-Beat-Sequenz ist umgesetzt mit Beat 1–3 in diesem Prolog, Beat 4 (Wir-AEGIS-plural) erst in Kap 39." ^[kap0-v1-annotiert-md.md:L1185]
 „Kap 0 ist nicht der "Auftakt zum Konflikt", sondern eine ontologische Etablierung." ^[kap0-v1-annotiert-md.md:L1177]
 Kap 40, in the concept, as the writer reads it: „Im Konzept ist Kap 40 als *geheilte Genesis* nach der einen Werdung spezifiziert, nicht als Zeuge einer wiederholten Werdung." ^[kap0-v1-annotiert-md.md:L1189]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — flashbacks in Kap 18–22
+
+No Kap 0; the Genesis is told back, in the middle of Part 2: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
+„Diese Flashbacks sind Bridge-Szenen — beide Storyforms simultan wahr." ^[three-mode-architecture-39-chapters-md.md:L278] The crisis is hinted, not told: „AEGIS' Motivation noch nicht voll enthüllt (Genesis-Krise wird angedeutet, nicht ausgesprochen)" ^[three-mode-architecture-39-chapters-md.md:L504]
