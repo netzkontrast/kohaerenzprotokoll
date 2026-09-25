@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -56,3 +56,8 @@ Function „Proaktive toxische Kontrolle, Inversion der Opfer-Position" ^[kohare
 In KW2 „spatiale Risse (Lia/Isabelle-Trigger)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]; in the trigger table the sensory Riss
 (Sex) — „Übersättigung, Haut, Geruch, Geschmack, Synästhesie" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L408]. Sprach-DNA:
 „Isabelle wird nicht gerettet" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Isabelle (Sexualisiert / Fight-via-Control) — Schicht 1" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L525]. DKT correlate: „Pauli-Ausschluss." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L539] Riss:
+„Sensorisch — Texturen verschmelzen, Synästhesie, Haut-Hyperreaktivität." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L543] Anchor: „Isabelle wird nicht gerettet" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L570].
