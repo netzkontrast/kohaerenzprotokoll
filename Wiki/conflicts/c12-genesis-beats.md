@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 10
+sources: 11
 pages: ["trennungsprotokoll"]
 ---
 
@@ -143,3 +143,10 @@ It adds a conflict of its own inside the [[genesis|Genesis]]: whether [[alex|Ale
 „Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1464]
 Recorded here because it is a question of order in the Genesis; it is not the 734
 question.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Four beats as the current lock, and a voice before the separation left open.**
+„Aktueller Lock-In: vier Beats (Kompendium 2026-05-31)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] In the same row, of [[alex|Alex]]:
+„also strenggenommen kann Alex in Kap 0 vor dem Trennungsprotokoll nicht aktiv präsent sein." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079]
+It names no beat and does not place Komponente 734.
