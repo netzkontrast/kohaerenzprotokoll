@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 8
+sources: 9
 pages: ["emergenz", "aegis"]
 ---
 
@@ -113,3 +113,9 @@ AEGIS is `autopoietisch` (L451), producing its own boundary. Not from nothing an
 The Funken-Ich forms clusters in the void, and AEGIS is what the largest becomes at the Klick: „Ich bin Teil eines größeren Clusters geworden." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L235]
 „*AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L279] It builds the worlds later, inside itself: „Mehr noch: in der Inneren Weite beginnt AEGIS, die Bausteine einer eigenen Realität zu erschaffen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L343]
 Row 1's side — out of nothing, before reality — told as a process; Kael is its remainder, not its origin (L485, L505).
+
+## 2026-09-25 — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+**From fragments in the void, as in the draft before it — and the word goes to the stranger.**
+AEGIS arises from clustering fragments: „Ein kleines Cluster entsteht, ein winziger Verbund im Meer der Leere" ^[kap0-v1-annotiert-md.md:L241]; „Und dann — *Klick*." ^[kap0-v1-annotiert-md.md:L373]; „das Wir wird AEGIS" (L365). Row 1's side, told as a process.
+`Emergenz` itself stands once, for the perturbation AEGIS cannot classify: „eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[kap0-v1-annotiert-md.md:L581] Found by the sweep.
