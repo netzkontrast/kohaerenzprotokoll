@@ -20,11 +20,10 @@
 
 ### C13 — Basisrealität / Externe Ebene (inside or outside the simulation)
 
-- „Entität/Anomalie der Externen Ebene" ^[L284] — external entity/anomaly.
+- „Entität/Anomalie der" ^[L284] — external entity.
 
 ## New to the wiki
 
-- „externe Entität/Anomalie der Externen Ebene" ^[L284] — Juna defined as external entity.
 - „nicht-lokale, sub-protokollarische Verbindung" ^[L286] — non-local connection.
 - „Primal Directive:" ^[L296] — AEGIS' core directive.
 - „kanonischen Anteile (System Kael)" ^[L46] — canonical 11-alter system.
