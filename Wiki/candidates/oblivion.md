@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -71,3 +71,10 @@ Kap 32: „Oblivion tritt als POV-Träger auf" ^[koharenz-protokoll-strukturiert
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - mirror alter called an Erason operator, with details open: „Oblivion (Erason-Operator)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+In the trigger table „Oblivion (Erason-Operator)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410], whose Riss is
+„temporal/gravitativ" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410]: „fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410].
+Beside Mnemosyne: „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L719] — „funktionell verwandt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L719].
+After Vortex 1, an open point: „lebende Reliquie + Oblivion-Übernahme intern" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1430].
