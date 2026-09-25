@@ -78,7 +78,7 @@ Kernwelt die mit-denkt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-m
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
-**Emergence in a Guardian's domain, not in AEGIS' origin.** [[kairos|Kairos]]' domain is
+**Emergence in a Guardian's domain, not in [[aegis|AEGIS]]' origin.** [[kairos|Kairos]]' domain is
 „Potenzial, Kreativität, Transformation, Emergenz, das Unvorhersehbare" ^[guardians-und-kern-welten-konzept.md:L100], and his
 mandate the „Förderung des kreativen Potenzials, der transformativen Möglichkeiten und emergenter Phänomene innerhalb des Systems" ^[guardians-und-kern-welten-konzept.md:L101].
 Emergence as something inside the system to be fostered, the sense the 2026
