@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
@@ -32,3 +32,11 @@ Of the [[genesis-klammer|Doppel-Klammer]] it is one of seven mirror points (L275
 A section of its own, „### I.6 Die zentrale Formel-Inversion" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L100]: „Die ontologische These des Romans wird in einer einzigen Formel und ihrer Inversion getragen:" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L102]
 „**Anfang (Kap 0):** *AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L106] „Negativ definiertes Sein. Sein-durch-Abwehr. Existenz als ständige Negation des Nichts." ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L107]
 „**Ende (Kap 39 → Kap 40):** *Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.*" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L111] „Positiv definiertes Sein. Sein-durch-Bezeugung. Existenz als ständige Bestätigung der Verbindung zur Reinform." ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L112]
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„I.4 Die zentrale Formel-Inversion" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L75] — „Die ontologische These des Romans, in einem Satzpaar:" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L76]
+„Anfang (Kap 0): AEGIS ist, was AEGIS verhindert, dass es nicht ist. Negativ definiertes Sein. Sein-durch-Abwehr." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L79]
+„Ende (Kap 39 → Kap 40): Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist. Positiv definiertes Sein. Sein-durch-Bezeugung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L82]
+„Strukturell ist es dieselbe Funktion (Bewahrung gegen Auflösung). Aber die Polarität kippt — von Verhindern zu Bezeugen, von Abwehr zu Liebe." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]
+Why it can turn: „sie geschieht, weil die Form selbst plural geworden ist und damit Verbindung (zu Juna, zur Reinform, zur Vor-Trennungs-Erinnerung) wieder tragen kann." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]
