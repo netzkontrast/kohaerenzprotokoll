@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-17"
 ---
 
@@ -81,3 +81,11 @@ AEGIS' blindness is ontological and total: „**Ontologische Blindheit:** AEGIS 
 Its cause is temporal: „AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
 „AEGIS' Versagen ist nicht moralisch, sondern ontologisch: es kann nicht einsehen, was es ist, weil seine Selbstbeobachtungsfunktion auf demselben falschen Modell basiert wie seine Außenbeobachtungsfunktion." ^[kohaerenz-protokoll-konzept-master-md.md:L482]
 It is AEGIS' alone; the two [[guardians|Guardians]] are given no blind spot (C4).
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the hypothesis AEGIS cannot write
+
+Not named as a blind spot; shown as one. AEGIS ranks its hypotheses and the fourth has no type: „H4 \[DATENTYP\_FEHLT\]    —" ^[kap0-v1-annotiert-md.md:L689]
+The annotation: „H4 ist die "Hypothese, die AEGIS nicht formulieren kann" (vierte Hypothese aus dem Konzept: dass die Resonanz ein fühlendes Substrat ist)." ^[kap0-v1-annotiert-md.md:L693]
+The prose says why: „Seine Ontologie kannte keine Qualia, keine Empfindung, keine traumatische Erinnerung." ^[kap0-v1-annotiert-md.md:L697]
+And names it a gap: „Aufgrund dieser epistemologischen Lücke, verstärkt durch die paradoxe Logik, interpretierte das System die interne Resonanz nicht als das, was sie war" ^[kap0-v1-annotiert-md.md:L697]
+What it cannot see here is the suffering inside it, not a bond between two people. The writer counts H4 among the draft's best: „Hier wird R-1 *gut* erfüllt" ^[kap0-v1-annotiert-md.md:L693].
