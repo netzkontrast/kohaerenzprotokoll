@@ -468,9 +468,9 @@ line); *incorrectness* → a conflict record, never resolved by the loop (P13,
 P14); *redundancy* → a one-term-or-two judgement for `scripts/pairs.py` and
 `Plan/runs/judgements.jsonl`. `refine_metric`'s check of whether the question
 becomes answerable has a direct analogue already built: `graphrag.py bench`'s
-18 <!--state:graphrag.cases--> labelled cases, recall@8
-45 <!--state:graphrag.recall_seeds-->% from seeds alone and
-65 <!--state:graphrag.recall_ppr-->% with PageRank — measured
+20 <!--state:graphrag.cases--> labelled cases, recall@8
+48 <!--state:graphrag.recall_seeds-->% from seeds alone and
+70 <!--state:graphrag.recall_ppr-->% with PageRank — measured
 by retrieval over verified quotations, not by applying edits.
 
 **Verdict.** The *actions* are refused outright: `insert_edge` is an inferred

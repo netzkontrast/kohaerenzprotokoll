@@ -3,15 +3,15 @@
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 16,
+      "value": 17,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 16,
+      "value": 17,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 16,
+      "value": 17,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -31,31 +31,31 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 1451,
+      "value": 1617,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 1663,
+      "value": 1877,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 1663,
+      "value": 1877,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 127,
+      "value": 130,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
-      "value": 18,
+      "value": 20,
       "how": "retrieval cases the wiki labels itself: questions and conflicts"
     },
     "graphrag.recall_ppr": {
-      "value": 65,
+      "value": 70,
       "how": "graphrag bench mean recall@8 in whole percent, personalized PageRank"
     },
     "graphrag.recall_seeds": {
-      "value": 45,
+      "value": 48,
       "how": "graphrag bench mean recall@8 in whole percent, seeds alone \u2014 the floor"
     },
     "judgements.disagree": {
@@ -99,7 +99,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 3088,
+      "value": 3591,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -183,7 +183,7 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 12,
+      "value": 13,
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
@@ -191,7 +191,7 @@
       "how": "labelled one-term/two-terms examples in the ledger"
     },
     "wiki.conflicts": {
-      "value": 13,
+      "value": 15,
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
@@ -199,7 +199,7 @@
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 28,
+      "value": 27,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
@@ -211,11 +211,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 343,
+      "value": 420,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 157,
+      "value": 160,
       "how": "a page's term written in another page's prose without being marked a link"
     },
     "wiki.zero_readings": {

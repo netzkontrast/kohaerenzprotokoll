@@ -1,7 +1,7 @@
 ---
 step: extract
-version: 6
-covers_documents: 4
+version: 7
+covers_documents: 5
 new_findings_last_document: 2
 ---
 
@@ -87,6 +87,9 @@ has a page for it, and nothing the wiki knows depends on this list.
 - Does a summary table, abstract or heading abbreviate a term the body spells out?
 - Does the document switch to a short form partway through?
 - Is there a term whose *idea* recurs where the *word* does not?
+- Does the document write a suspended compound — „Funktions-, Phobie- … und
+  Beziehungs-Profil"? Only the last member is written whole; list what is
+  written, and expect an expanded member to count zero.
 
 **Boundaries — is one name wearing several things?**
 
@@ -116,6 +119,10 @@ has a page for it, and nothing the wiki knows depends on this list.
 
 - Does a stated count match the content? Does the document flag it?
 - Are heading labels unique? Do any collide?
+- Does it name a conflict among its own sources? A conflict it reports has two
+  sides, and only one of them may be in front of you.
+- Does one word number more than one series — levels, layers, stages — so that
+  „2" means two different things in two tables?
 - Is every candidate written as *this* document writes it? A `0 word 0 in` after
   a reading is a name that came from somewhere else — memory of another source is
   the easiest contamination to miss.
@@ -126,6 +133,8 @@ has a page for it, and nothing the wiki knows depends on this list.
 - Reference numbers glued to the words they annotate, from dropped superscripts?
 - Backslash escaping inside terms and quotation marks?
 - Typographic and ASCII quote glyphs mixed in one file?
+- Emphasis inside a phrase — `*funktional* wütend`? The count reads the marked
+  line, so the phrase counts zero; the quotation check reads it unmarked.
 
 Each of these defeats exact matching and quote verification **silently**.
 
