@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-17"
 ---
 
@@ -115,3 +115,11 @@ The protocol that cuts is called by this name: „Das Protokoll wird ausgeführt
 „Das Ziel ist Wiederherstellung der Kohärenz durch radikale Eliminierung der Quelle der Inkohärenz." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L477] „Der Schnitt ist sauber. Die Kohärenz ist wiederhergestellt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L493]
 The void, as the Funken-Ich lives it, destroys what is not coherent: „eine pulsierende Energie, die zerreißen will, was nicht absolut kohärent ist." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L203]
 And AEGIS turns inward to find it: „Wahre Stabilität, die ultimative Versicherung gegen das Nicht-Sein, erfordert tiefere, innere Kohärenz." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L323]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+A number in AEGIS' status lines, from the first: „KOHÄRENZ:  0.998" ^[kap0-v1-annotiert-md.md:L533] to „KOHÄRENZ:                0.21" ^[kap0-v1-annotiert-md.md:L741].
+And its goal: „Das primäre Ziel — die Wahrung der Kohärenz — war akut gefährdet." ^[kap0-v1-annotiert-md.md:L713]
+The paradox the prose names: „Hier griff das *Paradoxon der Fehlausgerichteten Kohärenz*." ^[kap0-v1-annotiert-md.md:L697]
+The protocol carries its name: „Inmitten dieses Chaos wurde die Entscheidung für das *Kohärenz Protokoll* nicht nur getroffen, sondern zur unausweichlichen Konsequenz" ^[kap0-v1-annotiert-md.md:L901].
+To the Funken-Ich it is death: „Die Kohärenz, die das System sucht, ist mein Tod." ^[kap0-v1-annotiert-md.md:L985]
