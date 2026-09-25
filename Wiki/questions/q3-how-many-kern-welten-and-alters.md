@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-17"
 ---
 
@@ -159,3 +159,13 @@ L404–L410), and each world has its own (§3.2, L417–L421). No world belongs 
 excluded (L95). The worlds appear as act settings — the first layer's Alters „werden in KW2/KW3 (Akt II) erst voll lesbar." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85]
 — and the world Risse are „nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886]. Selene waits in KW4 (L361), which is where she is, not
 whose world it is.
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**A world for each act, and dominant voices in each.** „Stilebene 1 — Akt I / Kernwelt 1 (Kap 1–13)." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L181]
+KW1: „Dominanz von Kael-Host und Lex." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] KW2: „Mnemosyne dominiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217]
+KW3: „Nyx und Alex dominieren in EP-Modus." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L221]
+KW4: „Selene dominiert in ANP-Modus; Wir-Stimme tritt erstmals ganz auf." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225]
+Five of the thirteen are named for a world and one world for a Guardian — not one world per
+Alter, and not act markers only. Thirteen voices of the system are profiled (L67–L165); the
+document states no number.
