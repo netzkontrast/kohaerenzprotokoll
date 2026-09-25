@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -84,3 +84,9 @@ mandate the „Förderung des kreativen Potenzials, der transformativen Möglich
 Emergence as something inside the system to be fostered, the sense the 2026
 sources above give KW4, a year before them. Not conflict `C3`'s question, which is
 where [[aegis|AEGIS]] comes from. Found by the sweep (decision 012).
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Kap 20, „Z2-Lyons-Kreativität" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L345], with the leitmotif
+„fluide Regeln, Emergenz." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L345] — the chapter the strukturierter Outline above
+calls „Emergenz als Mechanik." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] Found by the sweep (decision 012).
