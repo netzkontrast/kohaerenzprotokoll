@@ -161,11 +161,12 @@ def sweep(slug: str, index: dict, candidates: list[str]) -> list[dict]:
     letter, digit or hyphen on either side.
 
     Measured 2026-09-25 over the fifteen read documents: 24 hits a page held no
-    reading for. Read one by one, 12 were readings the lookup had missed —
+    reading for. Read one by one, 10 were readings the lookup had missed —
     `Guardian` listed where the page's surface is `Guardians`, `Emergenz` on a
-    world rather than on AEGIS, a chapter title — and 12 were not: the novel's
-    title, a book title in a reference, a word in another sense, a term the
-    document's own rule kept out (`Plan/runs/sweep.jsonl` has each).
+    world rather than on AEGIS, a second sense of `Kohärenz` — and 14 were not:
+    the novel's title, a book title in a reference, a word in another sense, a
+    chapter title a page had chosen not to attach, a term the document's own
+    rule kept out (`Plan/runs/sweep.jsonl` has each).
 
     What it does not see: an inflected form the page does not carry as a
     surface, a surface inside a compound (`Guardian-Prinzipien`), and a name

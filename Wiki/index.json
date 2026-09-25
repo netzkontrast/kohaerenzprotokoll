@@ -364,10 +364,13 @@
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "guardians-und-kern-welten-konzept",
+        "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 7,
+      "readings": 7,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -566,10 +569,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 12,
-      "readings": 12,
+      "sources": 13,
+      "readings": 13,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -787,10 +791,11 @@
         "kohaerenz-kernel"
       ],
       "ingested": [
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"
       ],
-      "sources": 1,
-      "readings": 1,
+      "sources": 2,
+      "readings": 2,
       "conflict": "none"
     },
     "kohaerenz-programm": {
@@ -818,10 +823,13 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "entropie-aegis",
+        "aegis-emergenz-aus-der-leere",
+        "guardians-und-kern-welten-konzept"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -1064,10 +1072,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -1330,10 +1339,11 @@
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
         "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
-        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "none yet"
     },
     "rsa": {
