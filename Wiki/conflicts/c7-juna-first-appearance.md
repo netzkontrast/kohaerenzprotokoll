@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["juna"]
 ---
 
@@ -108,3 +108,12 @@ explicitly distinguishes prior echoes and effects from direct appearance
 ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L743]. This adds an early
 *visual echo* to the question of what “appearance” means; the author still
 needs to decide whether Kap 33 is an appearance or an effect.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Effect in Kap 33, appearance in Kap 38 — the Kernwelten document's arrangement,
+of the same date.** The Garten der stillen Präsenz is „Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327];
+the reveal timeline has Kap 38 as „Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]; her first
+explicit manifestation is Kap 7, „Die Stimme im Rauschen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L474]. Her modes,
+as the resolution of OQ-B in the log of 2026-05-30: „gestaffelte Grammatik; Abwesenheits-Phase Akt I → Präsenz-Phase Akt II+; zwei Anker (Telefon-Stille, Silas)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1195].
+Whether Kap 33 is an appearance or an effect stays the author's question.
