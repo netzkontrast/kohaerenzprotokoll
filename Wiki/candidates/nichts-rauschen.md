@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -76,3 +76,10 @@ K₁-Reinform as „uncorrelated noise" ^[kohaerenz-protokoll-welt-sensorik-draf
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 Kap 33, at the core, the first assignment of the universe: „Berührung der K₁-Reinform" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229].
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+The chaos AEGIS protects the system from, „die formlose Leere — ist in Wahrheit die Vereinigung aller mutualen Information" ^[kohaerenz-protokoll-konzept-master-md.md:L63].
+„Es ist Liebe als Naturgesetz." ^[kohaerenz-protokoll-konzept-master-md.md:L63] In the rotation's table, what AEGIS believes against what holds:
+„Nichts-Rauschen = feindliches Chaos" ^[kohaerenz-protokoll-konzept-master-md.md:L222] and „Nichts-Rauschen = atemporale MI-Vereinigung" ^[kohaerenz-protokoll-konzept-master-md.md:L222].
+For the reader: „Erleben der Desorientierung und des Nichts-Rauschens" ^[kohaerenz-protokoll-konzept-master-md.md:L924].
