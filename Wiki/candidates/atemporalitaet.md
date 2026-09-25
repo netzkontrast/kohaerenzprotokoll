@@ -1,10 +1,10 @@
 ---
 term: Atemporalität
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -27,3 +27,9 @@ Generalschlüssel" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1
 
 As the adjective (J85): „Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77]; Silas „Atemporal → Tunneling." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699]
 „Silas ist die einzige Alter, deren Existenz zeitfrei ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] „AEGIS kann Silas strukturell nicht erfassen (atemporal)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L860].
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Liebe ist Coheron. Coheron ist atemporal. Zerstörung braucht Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L71] (J85)
+The axis: „ATEMPORAL (Coheron-Domäne)" ^[kohaerenz-protokoll-konzept-master-md.md:L174] against the temporal domain of erasons. „AEGIS' gesamte Sensorik ist temporal" ^[kohaerenz-protokoll-konzept-master-md.md:L206],
+so „AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[kohaerenz-protokoll-konzept-master-md.md:L206] The telephone call: „Es ist atemporal — der Moment ist in allen Zeitpunkten gleichzeitig." ^[kohaerenz-protokoll-konzept-master-md.md:L618]
