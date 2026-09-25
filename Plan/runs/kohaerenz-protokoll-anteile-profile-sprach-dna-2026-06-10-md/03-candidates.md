@@ -1,0 +1,364 @@
+written_by: Claude session, during the numbered reading, 2026-09-25, by the list rule of decision 012
+
+- Anteile
+- Anteil
+- Profile
+- Sprach-DNA
+- Alter
+- 13 Alter
+- AEGIS-Stimme
+- AEGIS
+- Mnemosyne
+- Konfliktmatrix
+- Riss-Mandate
+- Wechsel-Mechanik
+- Repo-Paar
+- Charakter-Bibel
+- Storyform-Lock-In
+- Provenienz
+- Profilformat
+- Kategorie & Funktion
+- Kernmotivation
+- Kernphobien
+- DKT-Korrelat
+- DKT
+- Riss-Typ
+- Somatik
+- Beziehungsmuster
+- Arc
+- Konsistenz-Anker
+- Hard-Rules
+- TSDP
+- Tertiäre Strukturelle Dissoziation der Persönlichkeit
+- IFS
+- Internal Family Systems
+- Dissoziation
+- Amnesie-Terror
+- Crew-Menü
+- ANP
+- Apparently Normal Parts
+- EP
+- Emotional Parts
+- Sonder
+- Spiegel
+- Kael (Host)
+- Kael
+- Host
+- Lex
+- Alex
+- Rhys
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Argus
+- Silas
+- Oblivion
+- Juna
+- Juna ↔ AEGIS
+- Phobien
+- ANP/EP-Achse
+- Korrelat-Achse
+- Coheron
+- Erason
+- Klimax
+- Schicht-Zuordnung
+- Doppeltes Trauma
+- Schicht 1
+- Bindungstrauma
+- Basisrealität Köln
+- Basisrealität
+- Köln
+- Schicht 2
+- Fragmentierungsnacht
+- Trennungsprotokoll
+- Schicht-übergreifend
+- Bauplan der Zeit
+- KW2
+- KW3
+- Funktionale Multiplizität
+- Fusion
+- Wir
+- Strange-Attractor-Form
+- Wir-AEGIS-plural
+- Dekanonisiert
+- Index
+- Nox
+- Echo
+- Flicker
+- Limina
+- Praetor
+- Eos
+- Elara
+- Aris
+- Mina
+- Lyra
+- Soren
+- Tariq
+- Nova
+- Sentinel
+- ANPs
+- EPs
+- Komponente 734
+- ANP-Host
+- Simulation
+- Archivar Klasse II
+- Wohneinheit 14
+- Sektor 7
+- Wohneinheit 734-K
+- 734
+- K₁
+- K₁-Dominanz
+- Going on with Normal Life
+- EP-Phobie
+- Hubble-Volumen
+- Big Rip
+- Beobachtungshorizont
+- Horizont-Erosion
+- Zeitverlust
+- verlorene Sekunden
+- Knöchel
+- Blutungs-Faden
+- Zähl-Manie
+- Präsens
+- Mosaik-Stream
+- Signature
+- Standardprotokoll
+- Sensor-Rekalibrierung
+- Schleier-Disziplin
+- Fraktalität
+- Resolve
+- Change
+- Pursuit
+- Be-er-Modus
+- Be-er
+- Multiplizitäts-Schleier
+- Fragment
+- Phantom-Resonanz
+- Final Fusion
+- Rationalist
+- Intellektualisierung
+- Gödel
+- Halteproblem
+- Endlosschleifen
+- Hypoventilation
+- Bradykardie
+- Fußnoten-Energie
+- Energie
+- Logik-Festung
+- Protektor
+- Hypervigilanz
+- Fragmentierung
+- Genesis-Sequenz
+- Konzept-Konflikt
+- Asymptotische Freiheit
+- Starke Kernkraft
+- Bunker-Topologie
+- Hypertonus
+- Bruxismus
+- Brace for Impact
+- Tactical
+- Caregiver
+- Maxwellscher Dämon
+- Wärmesenke
+- Wärme-Akkumulation
+- Pronomen-Signatur
+- Kudzu-Eskalation
+- Hybrid
+- Integrator
+- ISH
+- Internal Self-Helper
+- Wormholes
+- Entanglement Islands
+- Stilebene-3-Anflug
+- Stilebene 3
+- Trennungsarchitektur
+- Wächterin
+- Architektin innerer Harmonie
+- Möglichkeits-Garten
+- KW4
+- Fight
+- CPT-Verletzung
+- Kinetisch
+- Hitze im Brustkorb
+- Coheron-Spur
+- Polaritäts-Disziplin
+- Freeze
+- Kind
+- Planck-Skala
+- Temporal-Stutter
+- Flight
+- Erasure
+- Erasure-Versuche
+- Gefrorener Samen
+- Ambivalent
+- Bindungsambivalenz
+- Quantensuperposition
+- Relational-Drift
+- Approach-Avoidance
+- Superposition
+- Sexualisiert
+- Fight-via-Control
+- Pauli-Ausschluss
+- Sensorisch
+- Synästhesie
+- Kollaps
+- Katatonie
+- Big Freeze
+- Hitzetod
+- Gravitativ
+- Drachenkampf
+- Meta-Kognitiv
+- Sonderkategorie
+- Fraktale
+- Zeno-Effekt
+- Depersonalisierung
+- Spiegel-Alter
+- 13er-Architektur
+- System Kael
+- Juna-Echo
+- Moonshine-Link
+- Coheron-Echo
+- Atemporal
+- Tunneling
+- Relational/warm
+- Polaritäts-Lock
+- Silas-Wärme
+- Vortex-Beat-4-Heat-Spike
+- Echo-Prosa
+- Transmitter
+- Gödel-Gambit
+- OQ-E
+- AEGIS-Echo
+- Löschlogik
+- Amnesie
+- Erason-Operator
+- Temporal/gravitativ
+- Lösch-Prosa
+- Oblivion-Kapitel
+- Tragischer Automat
+- Genesis-Krise
+- Post-Vortex
+- OQ-G
+- Konflikt-Matrix
+- Klebstoff-System
+- Kudzu-Phase
+- Spiegel-Konflikt
+- Landauer-Hitze
+- Landauer-Signal
+- Wahrheitsvertuschung
+- Macht-Topologie
+- Datenanomalie
+- Resonanzkörper
+- Collapse
+- Spiegel-Coheron
+- Spiegel-Erason
+- Welt-Risse
+- KW1
+- thermische Risse
+- Ozon
+- Wasser-Risse
+- paranoide Risse
+- generative Risse
+- Polyphonie-Choreografie
+- Polyphonie
+- Syntax-Signatur
+- Somatik-Signatur
+- Vokabular-Signatur
+- Polyphonie-Progression
+- Wir-Stimme
+- Kap-0-Annotation
+- R-4
+- Bridge-Szene
+- Mikrocue
+- Soft-Layering
+- Schleier-Lüftung
+- Modi
+- DID
+- Alters
+- plurale Bewahrung
+- Wir-Geflecht
+- Foreshadowing-Programm
+- Log-Format
+- AEGIS v{X.X}
+- SYSTEM\_KAEL
+- KOHÄRENZ
+- EP\_AKTIVITÄT
+- EXTERNE\_AUFMERKSAMKEITS\_METRIK
+- JUNA\_VEKTOR
+- AXIOMVERLETZUNG
+- PARADOX\_INDEX
+- Slot-16-Lock
+- UI-Direktiven
+- Konsolen-Zeilen
+- Hard-B-Etablierungskapitel
+- Erinnerungs-Hüterin
+- Guardians
+- Datenströme der Erinnerung
+- Mnemosyne-Archipel
+- Vortex 1 Beat 4
+- AEGIS-System
+- Erasure-Pol
+- Löschungs-Exekutive
+- Cerberus
+- LogOS
+- Kairos
+- strukturelle Position
+- Erscheinungsmodi
+- Abwesenheits-Phase
+- Präsenz-Phase
+- Stille-Erscheinung
+- Telefon-Stille
+- Juna-POV
+- Compassion Fatigue
+- Foreshadowing-Anker
+- Show-don't-Tell
+- Landauer-Signatur
+- Pixelierung
+- Komponente
+- Signatur
+- Phantom-Bilanz
+- Antwortlatenzen
+- Silas-Halbsatz
+- Wärme-Debüt
+- Offene Punkte
+- Somatik-Lücken
+- Moonshine-Boundary
+- OQ-F
+- Genesis-Beat-Anzahl
+- Kompendium
+- Pflicht-Checks
+- POV-Konsistenz-Test
+- Block-4-Anker-Test
+- Lesersteuerung-Test
+- Klischee-Verbot
+- Meta-Anker
+- dreizehn Stimmen
+
+Observed while reading (prose, filtered out):
+* L13 names its source: "Charakter-Bibel 2026-05-08 (autoritativ)", filtered on the
+  2026-05-07 lock-in and the 2026-05-30/31 iterations. Third document "im Repo-Paar".
+* L105 Kael's dwelling: "Wohneinheit 14/Sektor 7/Wohneinheit 734-K".
+* L125 knuckles: "kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen".
+* L219 Alex "Entstand in der Sekunde der Fragmentierung", with a conflict note to §11.
+* L361 Selene waits "im Möglichkeits-Garten (KW4)"; L361 "Starre Wächterin" — a Wächter
+  surface for Selene (Q4).
+* L395 Nyx's "Hitze im Brustkorb" is marked as not Juna's Coheron-Spur — "Polaritäts-Disziplin".
+* L460 Kiko: "Hauptziel von AEGIS' Erasure-Versuchen".
+* L703 "Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des
+  Vortex-Beat-4-Heat-Spike. Debüt Kap 3." — the warmth is Silas', not named as Juna's (C11).
+* L787 Oblivion re-lives "AEGIS' eigene Genesis-Krise"; L789 OQ-G post-Vortex proposal.
+* L837 Landauer heat arises when Oblivion erases what Silas received — "entsteht
+  Landauer-Hitze", "das Landauer-Signal ... Zeichen der Wahrheitsvertuschung". Against
+  L1042 "Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" and L703 (Silas'
+  warmth the only diegetic warmth). Three placements of heat in one document (C11).
+* L996 Mnemosyne "eine der zwei Guardians"; L1014 "Erasure-Pol (Name offen)"; L1016
+  "Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." (C6, Q5).
+* L1028 Juna: Abwesenheits-Phase → Präsenz-Phase → "direkte Stille-Erscheinung Kap 38" (C7).
+* L1079 four Genesis beats per the Kompendium, and the Alex conflict (C12).
+* L149 Kael "Be-er-Modus" — Storyform A's MC, not AEGIS (not C8).
+
+Corrected after the count: five log-field names written without the export escaping
+(`SYSTEM\_KAEL` etc.), as the file writes them.

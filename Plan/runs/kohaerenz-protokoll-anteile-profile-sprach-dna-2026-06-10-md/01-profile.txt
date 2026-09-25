@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md
+  lines                1130  (frontmatter ends at 9)
+  body words           6399
+  headings             42   bold-only lines 28
+  table rows           78   code fences 0
+  question marks       12
+  backslash escapes    457
+  typographic marks    222   ascii quotes 70
+  invisible characters none
+  math symbol lines    14
+  glued ref numbers    24
+  repeated labels      Syntax x11, Vokabular x11, Energie x8, AEGIS x7, Beispiele x7, Rhys x7, Nyx x6, Lex x5, Beispiel x4, Kael (Host) x4, Isabelle x3, Juna x3, Kiko x3, Kiko, Lia x3, Lia x3, Selene x3
+  longest line         769 chars
+

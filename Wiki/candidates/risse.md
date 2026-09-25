@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none yet
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -202,9 +202,15 @@ Found by the sweep (decision 012).
 for the novel „das Atmen der Realität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L397].
 
 Two typologies. Per trigger (§3.1), each EP-Alter drives one kind of Riss — Nyx
-kinetic, [[kiko|Kiko]] temporal, Kiko/Lia spatial, [[moros|Moros]] gravitative, [[isabelle|Isabelle]] sensory, [[silas|Silas]]
+kinetic, [[kiko|Kiko]] temporal, [[kiko|Kiko]]/Lia spatial, [[moros|Moros]] gravitative, [[isabelle|Isabelle]] sensory, [[silas|Silas]]
 „relational/warm" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409], Oblivion „temporal/gravitativ" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410]. Per world (§3.2): KW1 logical,
 the KW1→KW2 transition thermal — „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418] — KW2 „wässrig / mnemonisch" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L419],
 KW3 paranoid, KW4 generative.
 
 A composition rule: „Ein Riss-Typ pro Szene." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L425] „Der Leser bekommt nie eine technische Erklärung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L427]
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+Each Alter has a Riss type (§7): „Wenn ein Alter flutet, verändert sich nicht nur die Stimme, sondern die Welt des Texts." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L869]
+Beside them, „Plus Welt-Risse (Akt-spezifisch, nicht alter-getrieben):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886] KW1 → KW2 thermal,
+„KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890] Found by the sweep (decision 012).

@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 10
+sources: 11
 pages: ["juna"]
 ---
 
@@ -130,3 +130,8 @@ The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]], in the [[extern
 „Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]. And a rule that makes the distinction grammatical:
 „R-10 — Juna ist nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087] Another source for Kap 38; like
 `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, it gives Kap 33 an effect rather than an appearance.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Kap 38, as a locked mode.** „Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]
+— „gelockt 2026-05-30" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]. Kap 33 is not named. The Kap-38 side, with the date of the lock that set it.

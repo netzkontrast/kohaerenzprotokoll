@@ -81,8 +81,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, ten of them
-read (documents 7 to 16).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, eleven of them
+read (documents 7 to 17).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -112,11 +112,12 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**16 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **16
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **16
+**17 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **17
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **17
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
 four `worldbuilding`, one `aegis`, two `storyform`, two `charaktere`, two
-`kernkonzept` and two `plot-outline` — the last ten from the canon era.
+`kernkonzept`, two `plot-outline` and one `theorie-psychologie` — the last eleven
+from the canon era.
 
 `Wiki/candidates/` holds **93 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **13 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
@@ -143,6 +144,7 @@ has been promoted.
 | `koharenz-protokoll-strukturierter-outline-2026-05-18-md` | 0 | 43 | 0 |
 | `koharenz-protokoll-konzept-iteration-genesis-md` | 1 | 22 | 0 |
 | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md` | 0 | 53 | 0 |
+| `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md` | 0 | 38 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -243,7 +245,16 @@ states two Guardians and retires the Guardian-world pairing by name (C6, Q5);
 the author's decision for five stands. **No pages, readings on 53**: a manual's
 vocabulary is its method, and its world lands on pages that exist.
 
-`Plan/runs/judgements.jsonl` holds **84 <!--state:judgements.total--> judgements**
+**The seventeenth is the Alter profiles, and it places heat three ways.** „Anteile,
+Profile, Sprach-DNA" profiles the thirteen Alters from the character bible, which it
+calls „autoritativ" — recorded, not applied. It gives warmth to Silas, Juna's echo
+inside the system, under the same 2026-05-30 lock that gives it to Juna. It also
+makes Landauer heat the mark of the Silas–Oblivion conflict, and keeps heat as
+Juna's trace in its foreshadowing list. All three go into C11. It is the first
+document read under decision 012's list rule, and the sweep found one reading
+the list had missed. **No pages, readings on 38.**
+
+`Plan/runs/judgements.jsonl` holds **86 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -364,8 +375,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 27 <!--state:sweep.decided--> so far,
-13 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 28 <!--state:sweep.decided--> so far,
+14 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -434,7 +445,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**343 <!--state:wiki.relations--> links across
+**348 <!--state:wiki.relations--> links across
 93 <!--state:wiki.pages--> pages, 28 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -453,7 +464,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 157 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+The 184 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
 occurrence sits inside a quotation, a citation line or a heading — places the
 pass may not touch, so that part is a measurement and not a backlog. The rest,
 `link.py` would mark on pages no reading has touched since the page was last
@@ -464,14 +475,14 @@ in a commit that names its source.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **127 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1451 <!--state:graph.edges--> edges** (`links`,
+citations and builds **128 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1536 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1663 <!--state:graph.evidence-->
-of them, **1663 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1806 <!--state:graph.evidence-->
+of them, **1806 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -848,7 +859,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 343 <!--state:wiki.relations-->.
+links. It has 348 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
@@ -995,9 +1006,9 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**71 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
-41 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
-decides 49 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
+**73 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+42 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
+decides 50 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —
 `labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
 `--dry-run`. **On 2026-09-25 it ran on real models for the first time**, under

@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -190,4 +190,10 @@ stands in both. Found by the record audit of 2026-09-24
 Überwelt — „Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282] — „als abstrakte Entitäten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282], and
 Mnemosyne is „die einzige Stimme im AEGIS-System" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]. The Wächter-Registry
 lists „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. Closest yet to „inside",
-and still no sentence says the Guardians are parts of AEGIS.
+and still no sentence says the [[guardians|Guardians]] are parts of [[aegis|AEGIS]].
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**For AEGIS, and inside its system.** Mnemosyne „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996], and
+„Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1012] The Erasure-Pol is
+„Löschungs-Exekutive." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016] Working for AEGIS and within its system — still not the word *component*.

@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -60,3 +60,8 @@ Function „Kampf, Aggression, Verteidigung" ^[koharenz-protokoll-strukturierter
 
 The kinetic Riss (Fight): „Tempo, Stoß, Beschleunigung, Splitter, Vibration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L404]. A conflict
 the chapter template asks after: „Lex↔Nyx?" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L951]
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Nyx (Fight) — Schicht 2" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L373]. DKT correlate: „CPT-Verletzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L387]. Riss: „Kinetisch — Geschwindigkeit, Stoß, Beschleunigung, Splitter, Vibration." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L391]
+Her „Hitze im Brustkorb" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] is set apart from Juna's trace, „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] (C11).

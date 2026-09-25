@@ -699,3 +699,21 @@ A drafting manual of 1503 lines, read in one pass by the session; 542 candidates
   foreshadowing strand, named `Landauer`, is themed as heat (L445). A reading
   that meets an open conflict inside one source records both lines and the
   tension, not a side (C11, J81).
+
+## Document 17 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-09-25
+
+The first document read under decision 012's list rule: 336 candidates in 1130
+lines, against 542 in 1503 for document 16 read without it.
+
+- **The sweep found one reading the list had missed, and it was a surface choice.**
+  The list had `Welt-Risse` and every kind of Riss, never bare `Risse`, and the
+  page's surface is `Risse`. Decision 012 predicted this shape: a reader lists the
+  compound the document writes, and the wiki's page is named for the head.
+- **The count's zeros were export escaping again**: five log-field names
+  (`SYSTEM\_KAEL` …) written without the backslashes the file carries. No name from
+  another document this time — the briefing question added after document 16 was
+  asked while reading.
+- **A repeated label that is a field name is not a term.** The profile measures
+  `Syntax` ×11, `Vokabular` ×11, `Energie` ×8: the fields of one template, filled
+  once per Alter. The list keeps the ten profile fields once each, as the
+  document's own terms, and of the sub-labels only `Energie`.

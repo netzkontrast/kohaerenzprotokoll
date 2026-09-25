@@ -1,10 +1,10 @@
 ---
 term: LogOS
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -113,3 +113,7 @@ name: „KW1 — Logos-Prime" ^[koharenz-protokoll-strukturierter-outline-2026-0
 
 Only as a world assignment the document retires: „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] —
 „Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]. KW1 is named `Logos-Prime` (J49).
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+Absorbed: „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016] — in the Erasure-Pol (Q5).

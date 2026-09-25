@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -303,7 +303,7 @@ Q5.
 
 Kap 31, „Auflösung der Guardians" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L626], with what [[kael|Kael]] takes from them: „Kael absorbiert Guardian-Prinzipien gesund: Logik ohne Kälte, Schutz ohne Paranoia." ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
 Beside it, „Guardians als Sub-Antagonisten" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628], and the sensory line „Wächter, die in Lichtstaub aufgehen und in Kael fließen" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
-— the line documents 7 and 9 end at *aufgehen*; here they flow into Kael. Its
+— the line documents 7 and 9 end at *aufgehen*; here they flow into [[kael|Kael]]. Its
 Genesis echo: „Kael nimmt schon AEGIS-Funktionen pluralisiert an" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]. The census listed
 `Guardian` and the page's surface is `Guardians`, so the lookup did not reach this
 page. Found by the sweep (decision 012).
@@ -317,3 +317,9 @@ retired with them: the old drafts had „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaere
 
 The author decided C6 for five Guardians on 2026-09-24. This document, dated
 2026-06-10, is recorded as stating two; it does not reopen the decision.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+Two: Mnemosyne is „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996], and the other is the
+Erasure-Pol, „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1014], into which „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016]
+The author decided C6 for five on 2026-09-24; recorded, not reopened.

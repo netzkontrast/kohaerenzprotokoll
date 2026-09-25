@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 14
-readings: 15
+sources: 15
+readings: 16
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -283,3 +283,9 @@ reveal table: „Juna strukturell" ^[kohaerenz-protokoll-welt-sensorik-drafting-
 The truth the reader must never be told outright: „AEGIS hat die Geburt für den Tod gehalten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1051].
 Its voice is a hard rule: „R-8 — AEGIS spricht nie metaphorisch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1079] and „AEGIS verwendet nie das Wort „Ich"." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1236]
 At Kap 39 it „erlischt monolithisch, lebt plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L594]; the final form is written `Wir-AEGIS-plural` (J73).
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+Outside the thirteen: „AEGIS spricht nie in Prosa." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L944] It appears as log or protocol, with a fixed log format
+(L952–L988). In Kap 1 „keine AEGIS-Stimme" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]; its voice debuts in the Hard-B chapter, Kap 5–8 (L992).
+Its echo inside the system is [[oblivion|Oblivion]]; its greatest threat, [[selene|Selene]] (L853).

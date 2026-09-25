@@ -1,10 +1,10 @@
 ---
 term: Atemporalität
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -22,3 +22,8 @@ and erasure does not apply to what is atemporal (L49).
 
 The konsolidiertes Konzept gives the same chain as „II.4 Atemporalität als
 Generalschlüssel" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L147] (L147 of that document), not attached.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+As the adjective (J85): „Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77]; Silas „Atemporal → Tunneling." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699]
+„Silas ist die einzige Alter, deren Existenz zeitfrei ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] „AEGIS kann Silas strukturell nicht erfassen (atemporal)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L860].

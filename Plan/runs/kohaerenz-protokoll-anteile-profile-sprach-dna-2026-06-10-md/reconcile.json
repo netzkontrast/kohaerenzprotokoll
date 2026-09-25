@@ -1,0 +1,480 @@
+{
+  "document": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+  "drive_id": "1XIqf4EMsqxp9nNjkScYoMYA6Z9vR8tB_zUCBBNnfWgE",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 93,
+    "conflicts": 13
+  },
+  "state_after": {
+    "pages": 93,
+    "conflicts": 13
+  },
+  "pre_classification": {
+    "candidates": 334,
+    "decisions": 343,
+    "decided_by_lookup": 236,
+    "needs_judgement": 107
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A profile catalogue of figures the wiki already has pages for: all thirteen Alters, AEGIS, Mnemosyne, Juna. Its other candidates are profile fields (Kernphobien, DKT-Korrelat, Riss-Typ, Sprach-DNA …), the borrowed physics each Alter is mapped to — lens in the sense of decision 012's rule, applied per Alter and recorded on the Alter pages — the switching rules, the log format's field names, and fifteen names it lists only to exclude them. None is defined as a thing in the world beyond one profile line.",
+  "new_readings": [
+    {
+      "page": "kael",
+      "lines": [
+        105,
+        117,
+        121,
+        125,
+        149,
+        157
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lex",
+      "lines": [
+        168,
+        180,
+        184,
+        211
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alex",
+      "lines": [
+        219,
+        231,
+        235,
+        262
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        268,
+        282,
+        286,
+        310,
+        822
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "selene",
+      "lines": [
+        320,
+        322,
+        334,
+        357,
+        361,
+        365
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        373,
+        387,
+        391,
+        395
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        423,
+        437,
+        441,
+        460,
+        468
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        474,
+        488,
+        492,
+        519
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        525,
+        539,
+        543,
+        570
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moros",
+      "lines": [
+        576,
+        586,
+        590,
+        594,
+        621
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "argus",
+      "lines": [
+        629,
+        631,
+        643,
+        647,
+        667
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        685,
+        687,
+        699,
+        703,
+        731,
+        735,
+        837
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        741,
+        743,
+        755,
+        778,
+        789,
+        793
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        944,
+        992
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        778,
+        994,
+        996,
+        1000,
+        1004
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        996,
+        1014,
+        1016
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        1016
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        1016
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        1016
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        77,
+        1024,
+        1028,
+        1029,
+        1042
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        77,
+        699,
+        881
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "erason",
+      "lines": [
+        77,
+        755
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        77,
+        699,
+        860
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        86,
+        168
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        219,
+        787,
+        1079
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        91,
+        157,
+        915
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        361
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        687,
+        731,
+        1077
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "did",
+      "lines": [
+        42,
+        928
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        95,
+        683
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        1029,
+        1094
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        703,
+        837,
+        1042
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        395,
+        703,
+        837
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        869,
+        886,
+        890
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        105
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        85
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        85,
+        886
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        28,
+        117,
+        755,
+        948
+      ],
+      "attribution": "premise",
+      "note": ""
+    }
+  ],
+  "reached_by_existing_rule": [
+    "kaels-wohneinheit (J58)",
+    "externe-ebene (J54)",
+    "kern-welten (J37)",
+    "genesis (J76-J79 rule; Genesis-Beat-Anzahl, Genesis-Sequenz)",
+    "atemporalitaet (J85)",
+    "hitze-polaritaetsregel (J83: Polaritäts-Lock)"
+  ],
+  "not_read_although_looked_up": {
+    "ueberwelt": "Simulation at L105 („Innerhalb der Simulation\") — an occurrence; J39 keeps Simulation apart from the Überwelt",
+    "kohaerenz": "KOHÄRENZ at L968 is a field name in AEGIS' log template, not a statement about Kohärenz"
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C6",
+    "C7",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "no expansion of AEGIS",
+    "C2": "Entropie does not occur",
+    "C3": "AEGIS' origin is not stated; only Oblivion re-living „AEGIS' eigene Genesis-Krise\" (L787)",
+    "C5": "the Möglichkeits-Garten only as where Selene waits, KW4 (L361); Garten der Möglichkeiten does not occur",
+    "C8": "Be-er at L149 is Kael's, Storyform A; AEGIS' approach is not given",
+    "C9": "Konstrukt-Stadt does not occur",
+    "Q2": "none of the eight protocols occurs",
+    "C13": "writes Basisrealität Köln as the ground of the first trauma layer (L85) and does not place Köln inside or outside the simulation"
+  },
+  "judgements": [
+    "J85",
+    "J86"
+  ],
+  "decided_by_existing_rules": "compounds placed by what they name (J8, J28, J32): the Alter-, AEGIS-, Juna-, Coheron-, Silas-, Spiegel- and Signatur- compounds; Alter/Alters (J25, J46); 13 Alter (J84); Kael (Host) as a role on Kael (J70); System Kael (J48, J55); Wir-AEGIS-plural (J47, J73); Mnemosyne-Archipel (J49); Erason-Operator as a role (J7); Erasure-Pol (J59); Genesis-Sequenz, Genesis-Krise (J76–J79); matches only after folding cuts words (J69): Limina/Mina, Mina/K₁-Dominanz, Index/PARADOX_INDEX, Depersonalisierung/Personas, Fragment/psychische Fragmentierung, Kollaps/Kollaps-Kernel.",
+  "not_promoted": [
+    "the fifteen decanonised names (L95): named only to exclude them — Limina among them, which the kaels-wohneinheit page carries from a 2025 source",
+    "the log format and its fields (L952–L988)",
+    "the ten profile fields (L25–L34) and the three signatures of §8.1",
+    "the DKT correlates per Alter (Hubble-Volumen, Halteproblem, Maxwellscher Dämon, Planck-Skala …): lens, on each Alter's page",
+    "Fusion / Final Fusion, Wir-Stimme, Polyphonie-Progression: the novel's form, not its world",
+    "Compassion Fatigue (L1030): a proposed profile for an open Juna-POV"
+  ],
+  "sweep": {
+    "hits": 1,
+    "readings": 1,
+    "occurrences": 0,
+    "note": "Risse at L890 — the census listed Welt-Risse and each kind, never bare Risse"
+  },
+  "found_by_rule_not_by_census": [
+    "kaels-wohneinheit (J58)",
+    "externe-ebene (J54)"
+  ],
+  "internal_tension": "heat placed three ways: Juna's Coheron-Spur (L1042), Silas' warmth as the only diegetic warmth (L703), Landauer heat from the Silas–Oblivion conflict (L837); recorded in C11",
+  "baseline_moved": false
+}

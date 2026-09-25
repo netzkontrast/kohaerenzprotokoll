@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -55,3 +55,8 @@ Function „Approach-Avoidance, ewige Superposition" ^[koharenz-protokoll-strukt
 
 In KW2 „spatiale Risse (Lia/Isabelle-Trigger)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]; with Kiko, the spatial Riss (Flight) ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L406].
 Sprach-DNA: „Lia ist nicht launisch" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Lia (Ambivalent / Kind) — Schicht 1" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L474]. DKT correlate: „Quantensuperposition." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L488] Riss: „Relational-Drift" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L492].
+Anchor: „Lia ist nicht „launisch"." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L519]

@@ -3,15 +3,15 @@
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 16,
+      "value": 17,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 16,
+      "value": 17,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 16,
+      "value": 17,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -31,19 +31,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 1451,
+      "value": 1536,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 1663,
+      "value": 1806,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 1663,
+      "value": 1806,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 127,
+      "value": 128,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -67,7 +67,7 @@
       "how": "judgements a rule now claims and still agrees with"
     },
     "judgements.total": {
-      "value": 84,
+      "value": 86,
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
@@ -75,15 +75,15 @@
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
     "pairs.fold_correct": {
-      "value": 41,
+      "value": 42,
       "how": "of those, decided correctly by fold() \u2014 the floor"
     },
     "pairs.labelled": {
-      "value": 71,
+      "value": 73,
       "how": "labelled one-term-or-two pairs derived from the judgement ledger"
     },
     "pairs.plural_correct": {
-      "value": 49,
+      "value": 50,
       "how": "of those, decided correctly by the plural rule of decision 010 \u2014 the floor a model must beat"
     },
     "proposals.entities": {
@@ -99,7 +99,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 3088,
+      "value": 3323,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -167,7 +167,7 @@
       "how": "landed files that do not open with the eight lines of provenance"
     },
     "sweep.decided": {
-      "value": 27,
+      "value": 28,
       "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
     },
     "sweep.open": {
@@ -175,7 +175,7 @@
       "how": "sweep hits in read documents that no reading and no ledger row settles \u2014 decision 012"
     },
     "sweep.readings": {
-      "value": 13,
+      "value": 14,
       "how": "of those, readings the lookup had missed, now on their pages"
     },
     "trainset.fold_baseline_pct": {
@@ -183,11 +183,11 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 12,
+      "value": 13,
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {
-      "value": 71,
+      "value": 73,
       "how": "labelled one-term/two-terms examples in the ledger"
     },
     "wiki.conflicts": {
@@ -211,11 +211,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 343,
+      "value": 348,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 157,
+      "value": 184,
       "how": "a page's term written in another page's prose without being marked a link"
     },
     "wiki.zero_readings": {

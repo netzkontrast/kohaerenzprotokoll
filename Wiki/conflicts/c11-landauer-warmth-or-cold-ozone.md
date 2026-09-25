@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -137,3 +137,19 @@ transition has a thermal Riss, „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz
 does not relate the strand to the lock. The strand and the signature are two terms (J81);
 whether the strand's *heat* is the lock's cold ozone is this record's question, asked
 again by one document of itself.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Heat placed three ways in one document, none of them the other two.**
+
+1. The foreshadowing layer: „Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] — the cold-ozone
+   lock's own division.
+2. Silas: „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike. Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
+   The same lock and the same Kap-3 debut, with the warmth given to [[juna|Juna]]'s echo inside the system rather than to Juna.
+3. The Silas–Oblivion conflict: „jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
+   „Diese Hitze ist der somatische Fingerabdruck ihres Kampfes" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — *Landauer heat*, the word the lock files under
+   cold ozone, read as the sign of „Wahrheitsvertuschung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837], the theme the drafting manual gives its
+   `Landauer` strand.
+
+And Nyx's chest heat is excluded by name: „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395]. Like the drafting manual, it holds the lock and a
+Landauer heat side by side; this one adds an origin for the heat inside the system.
