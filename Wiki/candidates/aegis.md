@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 17
-readings: 18
+sources: 18
+readings: 19
 conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -315,3 +315,15 @@ heard only as „leere Log-Fragmente, abgeschnittene Hex-IDs" ^[koharenz-protoko
 Inside the system its echo is [[oblivion|Oblivion]] (L163, J74); its core flaw is first recognised by
 [[argus|Argus]] (L109); and [[rhys|Rhys]] „Hält zusammen, was AEGIS zerschnitten hat." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L93]
 Not expanded (C1); its Approach not given (C8).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**The entropy it believes it fights.** „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[kohaerenz-protokoll-konzept-master-md.md:L63]
+— the [[truth-rotation|Truth-Rotation]] (C2). „Die Stadt ist eine Simulation, gesteuert von AEGIS — einer autopoietischen KI, die sich selbst als Hüterin der Ordnung begreift." ^[kohaerenz-protokoll-konzept-master-md.md:L55]
+„AEGIS ist autopoietisch" ^[kohaerenz-protokoll-konzept-master-md.md:L451], and closed: „Junas Existenz ist für AEGIS strukturell unkommunikabel" ^[kohaerenz-protokoll-konzept-master-md.md:L455].
+Its origin: the [[genesis|Genesis]] crisis is „Die ursprüngliche Trauma-Episode in AEGIS' Entstehung." ^[kohaerenz-protokoll-konzept-master-md.md:L459] (C3, C12)
+„Ontologische Blindheit: AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477] (C4)
+„AEGIS' Versagen ist nicht moralisch, sondern ontologisch" ^[kohaerenz-protokoll-konzept-master-md.md:L482].
+Storyform B's main character, a Do-er: „MC Approach | Be-er | Do-er" ^[kohaerenz-protokoll-konzept-master-md.md:L809] (C8); in the third person,
+„AEGIS — 3. Person | B" ^[kohaerenz-protokoll-konzept-master-md.md:L877] (C14). In the matrix, „außerhalb TSDP (Spiegel-Doppel von Kael auf System-Ebene)" ^[kohaerenz-protokoll-konzept-master-md.md:L960].
+Its end is [[algorithmische-melancholie|Algorithmische Melancholie]] (L486). Not expanded (C1).
