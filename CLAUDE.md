@@ -119,7 +119,7 @@ four `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, three
 `kernkonzept`, three `plot-outline` and one `theorie-psychologie` — the last fourteen
 from the canon era.
 
-`Wiki/candidates/` holds **94 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+`Wiki/candidates/` holds **105 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **15 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 **5 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
@@ -315,10 +315,26 @@ each with self-test cases the old code fails.
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
-**`python3 scripts/account.py order` holds** — `true`
-<!--state:order.holds-->. Every document with a census has a note and a
-reconciliation, each ran against the state the previous one left, and the wiki
-matches what the newest run recorded leaving.
+**`python3 scripts/account.py order` does not hold** — `false`
+<!--state:order.holds-->, and that is correct. Every document with a census has a
+note and a reconciliation, and each ran against the state the previous one left.
+But the wiki no longer matches what the newest run recorded leaving: 94 pages,
+where it now holds 105. The eleven pages of the 2026-09-25 scan (below) were
+written outside a reconciliation, and the check names exactly that. It was not
+loosened to excuse them. The next document reconciled through `ingest` starts
+from 105 pages, records the state it leaves, and makes it hold again.
+
+**The 2026-09-25 scan added eleven pages outside the pipeline.** Following qmd
+searches over the open records, ten unread documents each got a triage scan
+from one Haiku reader (`Plan/runs/haiku-scan-2026-09-25/`). The raw scans cited
+44 of 152 quotations to lines that did not hold them, and they resolve only after
+a second pass. Page writers then quoted the ten scanned documents and the twenty
+read ones directly, never through a scan, to write `vortex`, `goedel-gambit`,
+`ouroboros-struktur`, `komponente-734`, `vermittler-stimme`, `genesis-klammer`,
+`residual-echos`, `chaitin-konstante`, `kishotenketsu`, `tsdp` and
+`thermodynamischer-phaenomenalismus`. Each page ends by saying that the scanned
+documents have no census and no reconciliation. What the pages found and no
+record holds is in `NOW.md`.
 
 ### Do not trust the numbers above — they are checked
 
@@ -502,8 +518,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**372 <!--state:wiki.relations--> links across
-94 <!--state:wiki.pages--> pages, 27 <!--state:wiki.orphans--> of them with
+**455 <!--state:wiki.relations--> links across
+105 <!--state:wiki.pages--> pages, 28 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -521,7 +537,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 227 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 255 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -569,14 +585,14 @@ Vortex — two of `plot.md`'s claims about every 2026 plan, corrected there.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **134 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1814 <!--state:graph.edges--> edges** (`links`,
+citations and builds **154 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **2136 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 2360 <!--state:graph.evidence-->
-of them, **2360 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 3046 <!--state:graph.evidence-->
+of them, **3046 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -600,7 +616,7 @@ python3 scripts/graphrag.py bench              # recall against the wiki's own l
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
 **47 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-66 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+65 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
 step, on twenty cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12), the author's C6
 decision an eighth (Q5), document 16 a ninth (C13) and document 17 two
@@ -609,13 +625,18 @@ Document 19 moved them from 48 and 67 by giving C11 three more pages: its
 gold set grew from two pages to five, and the case fell from 1.0 to 0.6 with
 PageRank. The fall is that label growing; on the labels that did not change,
 retrieval rose — C6 from 0.29 to 0.43.
+The eleven pages of the 2026-09-25 scan moved PageRank recall from 0.659 to 0.649,
+measured against the tree before them. The only case that fell was C11, from 0.6
+to 0.4: `vortex` and `thermodynamischer-phaenomenalismus` both concern C11 and now
+rank in its top eight, and neither is in its record's `pages`. That is the label
+lagging the graph. It is not retrieval getting worse.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`
 reads what a model chose or the corpus merely co-states, and each item says so.
 **300 <!--state:proposals.entities--> entities** come from the entity lists that
 verify as readings — a model chose the name, code placed the line — and
-49 <!--state:proposals.entities_paged--> of them fold to a page. **182
+53 <!--state:proposals.entities_paged--> of them fold to a page. **195
 <!--state:proposals.glosses--> glosses** come from
 `Plan/runs/bilingual/stated.jsonl`: `A (B)` written in two or more documents,
 one side a page surface, and a surface glossing two pages dropped. A gloss's
@@ -958,7 +979,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 372 <!--state:wiki.relations-->.
+links. It has 455 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"

@@ -39,19 +39,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 1814,
+      "value": 2136,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 2360,
+      "value": 3046,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 2360,
+      "value": 3046,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 134,
+      "value": 154,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -59,7 +59,7 @@
       "how": "retrieval cases the wiki labels itself: questions and conflicts"
     },
     "graphrag.recall_ppr": {
-      "value": 66,
+      "value": 65,
       "how": "graphrag bench mean recall@8 in whole percent, personalized PageRank"
     },
     "graphrag.recall_seeds": {
@@ -79,7 +79,7 @@
       "how": "records in Plan/runs/judgements.jsonl"
     },
     "order.holds": {
-      "value": true,
+      "value": false,
       "how": "scripts/account.py order \u2014 the pipeline's dependency order"
     },
     "pairs.fold_correct": {
@@ -99,15 +99,15 @@
       "how": "entities from entity lists that verify as readings, graph.proposals()"
     },
     "proposals.entities_paged": {
-      "value": 49,
+      "value": 53,
       "how": "of those, entities whose fold is a wiki page surface"
     },
     "proposals.glosses": {
-      "value": 182,
+      "value": 195,
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 7505,
+      "value": 8191,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -207,15 +207,15 @@
       "how": "conflict records counted by the derived Wiki/index.json"
     },
     "wiki.open_statements": {
-      "value": 128,
+      "value": 198,
       "how": "statements under an Open heading, the question harvest"
     },
     "wiki.orphans": {
-      "value": 27,
+      "value": 28,
       "how": "pages nothing links to \u2014 the relation layer's gap"
     },
     "wiki.pages": {
-      "value": 94,
+      "value": 105,
       "how": "pages counted by the derived Wiki/index.json"
     },
     "wiki.questions": {
@@ -223,11 +223,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 372,
+      "value": 455,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 227,
+      "value": 255,
       "how": "a page's term written in another page's prose without being marked a link"
     },
     "wiki.zero_readings": {

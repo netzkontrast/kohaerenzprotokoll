@@ -1004,6 +1004,14 @@ and cannot go stale in a list.
 
 ## Known failing
 
+**`account.py order` is red, correctly.** The eleven pages of the 2026-09-25
+scan were written outside a reconciliation. The wiki holds 105 pages, and the
+newest reconciliation, the konzept master report, recorded leaving 94. The check
+was left as it is. The next document reconciled through `ingest` starts from
+105 pages and records the state it leaves, and then the chain holds again. If
+that document is one of the ten scanned, its reconciliation also gives the pages
+that quote it the census they now lack.
+
 **The qmd coverage check reads collection patterns.** The previous version
 treated a collection rooted at `.` as covering all descendants, even when its
 pattern excluded them. It now checks `.qmd/index.yml`'s path and glob for each
