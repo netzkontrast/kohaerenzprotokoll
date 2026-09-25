@@ -15,7 +15,7 @@ new_readings: 53
 `python3 scripts/reconcile.py kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`
 
 539 candidates after folding, 595 decisions — **346 by lookup, 249 to judgement.**
-Document 16, „Welt, Sensorik, Drafting-Disziplin" of 2026-06-10, calls itself the
+Document 16, „Welt, Sensorik, Drafting-Disziplin" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L11] of 2026-06-10, calls itself the
 „Viertes Dokument im Repo-Quartett." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L13] It is a drafting manual: a world bible per
 level, sensory lookups, Riss types, foreshadowing strands, a reveal timeline, hard
 rules and a master index of locks with their dates and sources. It claims
@@ -44,7 +44,7 @@ and was located by `read.py`'s own comparison, not typed.
 
 Not given a reading: `rhys` and `selene` occur only in a template's question,
 „Rhys↔Selene?" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L951]; `kohaerenz` only as the name of a protocol (J57); `michael`
-is a surface of `kael`, whose reading carries „Kein Michael" (L1188).
+is a surface of `kael`, whose reading carries  (L1188).
 
 ## What moved
 
@@ -66,7 +66,7 @@ is a surface of `kael`, whose reading carries „Kein Michael" (L1188).
   appearance („Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]).
 - **C5** — both scales again: a name of KW4 and a place inside it.
 - **C4, C9, Q1–Q4** — AEGIS' blindness; KW1 as decided; the Guardians inside
-  AEGIS' Überwelt without the word „component"; three protocols, none of Q2's eight;
+  AEGIS' Überwelt without the word *component*; three protocols, none of Q2's eight;
   thirteen Alters and four worlds as act markers; `Wächter` only in compounds.
 - **KW3 has chapters here** — „Späte Akt II (Kap 23–28)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175] — the gap `NOW.md`
   recorded for the strukturierter Outline is that document's, not the plan's.
