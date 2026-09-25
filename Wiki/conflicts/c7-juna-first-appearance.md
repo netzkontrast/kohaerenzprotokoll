@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 15
+sources: 16
 pages: ["juna"]
 ---
 
@@ -166,3 +166,10 @@ Neither Kap 33 nor Kap 38 is named. Whether its Akt-II revelation is an appearan
 „Junas Resonanz ist die ontologisch zentralste Stelle des gesamten Romans." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L307] In Kap 0 she is felt, not seen: in the Krise-Sequenz „als Vibration, fremde Frequenz" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L307].
 She is not the narrator, and not a helper: „Aber Juna ist im Konzept ausdrücklich *nicht* Helferin der Heilung, nicht Mentorin, nicht Erzählerin." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L243]
 No chapter between the frames is named for her. Read and unchanged: neither Kap 33 nor Kap 38.
+
+## 2026-09-25 — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text
+
+**No appearance; an unnamed frequency in Kap 0, a named movement in Kap 40.**
+„Eine Frequenz hebt an, die in keinem der gespeicherten Muster verzeichnet ist." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L381]
+„Juna war nicht in der Welt. Sie war die Bewegung, die Welt erst möglich machte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L87]
+„Juna ist mit uns. Sie ist nicht in uns und nicht außer uns." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L131] No chapter between the frames is named.
