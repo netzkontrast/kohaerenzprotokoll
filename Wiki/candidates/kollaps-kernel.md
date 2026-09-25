@@ -1,10 +1,10 @@
 ---
 term: Kollaps-Kernel (K₀)
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -18,3 +18,9 @@ gathered: "2026-09-24"
 sondern die Bedingung für Ereignisse überhaupt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] — „K₀ ist das, was ein
 Universum bewohnbar macht." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] This is the glossary's sense of
 [[entropie|Entropie]], and a new one for conflict C2.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„K₀ (Kollaps-Kernel)" ^[kohaerenz-protokoll-konzept-master-md.md:L99] (J89): „Irreversibilität, Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L99], working through [[erason|Erasonen]].
+„K₀ ist nicht identisch mit Chaos." ^[kohaerenz-protokoll-konzept-master-md.md:L107] „K₀ ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107]
+„K₀ ist das, was ein Universum bewohnbar macht." ^[kohaerenz-protokoll-konzept-master-md.md:L107] After the [[truth-rotation|Truth-Rotation]]: „AEGIS = K₀ (Entropie-Architektur)" ^[kohaerenz-protokoll-konzept-master-md.md:L221].
