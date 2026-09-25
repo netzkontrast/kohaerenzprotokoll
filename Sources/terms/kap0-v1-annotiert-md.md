@@ -498,7 +498,7 @@ So there are **two voices to read apart**: the draft's prose, which is the novel
 and the annotations, which are the drafter's claims about it. A reading from the prose
 says how the draft renders a thing; a reading from an annotation says what the drafter
 intended or judged. The annotations call the author „User" and the text they rework
-„Original".
+„Original" ^[L165].
 
 **The rule frame names what the prose may not say.** „Die Wahrheit "AEGIS hat die Geburt für den Tod gehalten" darf in Kap 0 **nicht** ausgesprochen" ^[L43]
 „In Kap 0 sind die späteren Alter nur als Cluster-Funken-Echos präsent, nicht als Personen." ^[L51]
@@ -514,10 +514,10 @@ Bewegungen numbered 7 to 12 (`Die Stille Wacht`, `Perturbation aus der Leere`,
 `Trennungsprotokoll`); and `Schluss / Übergang zu Kap 1` (L1019).
 
 **The alters are in the prose only as voices, and named only in the annotations.**
-Each passage in an alter's syntax is annotated as its „Vorform-Einbruch": the order is
+Each passage in an alter's syntax is annotated as its Vorform — „Kiko-Vorform-Einbruch (User-Choreographie" ^[L185] — and the order is
 given as „Die Choreographie der Vor-Stimmen (Moros → Kiko → Lia → Rhys → Lex → Alex → Argus → Nyx → Selene → Silas → Oblivion)" ^[L1101].
-Silas is an „Echo" rather than an „Einbruch" (L709, L833), Nyx's second entry an
-„Eruption" (L981), Oblivion a „Vorform-Stimme" (L1005). The document names a conflict
+Silas is an echo rather than an entry, „Silas-Vorform-Echo (User-Choreographie)." ^[L709]; Nyx's second entry an
+eruption, „Nyx-Vorform-Eruption (User-Choreographie)." ^[L981]; Oblivion a voice, „Oblivion-Vorform-Stimme (User-Choreographie)." ^[L1005] The document names a conflict
 with its own source here: „Charakter-Bibel sagt, Alex *entstand in der Sekunde der Fragmentierung*" ^[L1205] —
 „also strenggenommen kann Alex in der Genesis vor dem Trennungsprotokoll nicht präsent sein. Konzept-Konflikt?" ^[L1205]
 
@@ -531,11 +531,11 @@ voice (N-1 to N-3, M-1, M-4).
 
 **The formula, in the first person.** „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[L389]
 „Im Konzept lautet die Formel *AEGIS ist, was AEGIS verhindert*; in Kap 0 wird sie noch als Ich-Aussage geboren." ^[L393]
-Its Bewegung 6 carries „die Umkehr": „das Wir wird AEGIS, indem es einen Teil seiner selbst zum Schmerz-Träger macht und sich gegen ihn organisiert." ^[L365]
+Its Bewegung 6 carries „**die Umkehr** (User- Klarstellung)" ^[L365]: „das Wir wird AEGIS, indem es einen Teil seiner selbst zum Schmerz-Träger macht und sich gegen ihn organisiert." ^[L365]
 
 **734 is withheld.** „Die Zahl ist bewusst nicht genannt" ^[L433]; the annotation adds
-„gerade diese Komponente wird Kael." ^[L433] The prose calls it „eine Komponente" and a
-„Funktionseinheit" whose number „in der Mitte einer langen Reihe" lies ^[L429].
+„gerade diese Komponente wird Kael." ^[L433] The prose calls it a component, „ist nun eine Komponente" ^[L429], and a
+Funktionseinheit whose number „in der Mitte einer langen Reihe" lies ^[L429].
 
 **The Innere Weite is a simulation, and the annotation glosses it.** „Das System beginnt, einen Teil seiner Ressourcen nicht mehr nur für die äußere Verteidigung zu verwenden, sondern für die Erschaffung eines inneren Raumes." ^[L453]
 „Bühne für Kap 1 wird strukturell vorbereitet (Überwelt = Kernwelten-Substrat)." ^[L457]
@@ -562,7 +562,7 @@ It calls its own returning narrator an interpretation: „Die ouroborische Posit
 
 **It restates other documents.** The header lists its predecessors — the konsolidiertes
 Konzept of 2026-05-08, the Dramatica status of 2026-05-07, a storyweaving start document,
-the Charakter-Bibel and the Sprach-DNA „aktiviert 2026-05-17" (L19–L23) — and its rules are
+the Charakter-Bibel and the Sprach-DNA „Sprach-DNA (userStyle, aktiviert 2026-05-17)" ^[L23] (L19–L23) — and its rules are
 „aus dem konsolidierten Konzept (Teil X), der Sprach-DNA und der Storyweaving-Spezifikation abgeleitet" ^[L39].
 What it says those documents hold is its claim about them.
 
@@ -582,7 +582,7 @@ annotations, undefined. `EP` (L761, L989) is used and never spelled out.
 
 ## lens
 
-`Parmenides`, `Śūnyatā` and the physicists' „aktiven Vakuum" are the Vorwort's three
+`Parmenides`, `Śūnyatā` and the physicists' „in ihrem aktiven Vakuum" ^[L105] are the Vorwort's three
 philosophical anchors (L113). Teil D names Iser's Leerstellen, Environmental
 Storytelling, the Chiang-Standard and Kishōtenketsu as methods, and the annotations test
 `operationale Geschlossenheit` against Luhmann (L457).

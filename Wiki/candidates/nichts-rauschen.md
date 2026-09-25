@@ -105,4 +105,4 @@ In Kap 0 the Funken-Ich lives the void as threat — „Ich *bin* dieses Rausche
 The Funken-Ich feels it before it is named: „Das Nichts hier ist aktiv. Es negiert jede Abweichung von sich." ^[kap0-v1-annotiert-md.md:L161]
 The annotation: „Etablierung der Nichts-Rauschen-Phänomenologie." ^[kap0-v1-annotiert-md.md:L165] „Konzept "Nichts-Rauschen" wird als Phänomen, nicht als Begriff eingeführt." ^[kap0-v1-annotiert-md.md:L165]
 AEGIS names it in the crisis: „Die Leere war kein Vakuum." ^[kap0-v1-annotiert-md.md:L545] „Sie war ein Substrat — ein Potentialmeer unendlicher Zustände, ein Grundrauschen latenter Information, das als *Nichts-Rauschen* indexiert wurde: die Negation dessen, was das System selbst war." ^[kap0-v1-annotiert-md.md:L545]
-`Rauschen` is also the first of the five motifs set as „Erstereignisse" (L79).
+`Rauschen` is also the first of the five motifs set as Erstereignisse: „Die fünf Motive (Rauschen, Form, Klick, Phantom, Resonanz) werden als Erstereignisse gesetzt" ^[kap0-v1-annotiert-md.md:L79].

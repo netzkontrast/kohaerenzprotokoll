@@ -117,5 +117,5 @@ Row 1's side — out of nothing, before reality — told as a process; Kael is i
 ## 2026-09-25 — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
 
 **From fragments in the void, as in the draft before it — and the word goes to the stranger.**
-AEGIS arises from clustering fragments: „Ein kleines Cluster entsteht, ein winziger Verbund im Meer der Leere" ^[kap0-v1-annotiert-md.md:L241]; „Und dann — *Klick*." ^[kap0-v1-annotiert-md.md:L373]; „das Wir wird AEGIS" (L365). Row 1's side, told as a process.
+AEGIS arises from clustering fragments: „Ein kleines Cluster entsteht, ein winziger Verbund im Meer der Leere" ^[kap0-v1-annotiert-md.md:L241]; „Und dann — *Klick*." ^[kap0-v1-annotiert-md.md:L373]; „das Wir wird AEGIS" ^[kap0-v1-annotiert-md.md:L365]. Row 1's side, told as a process.
 `Emergenz` itself stands once, for the perturbation AEGIS cannot classify: „eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[kap0-v1-annotiert-md.md:L581] Found by the sweep.

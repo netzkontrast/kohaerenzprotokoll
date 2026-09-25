@@ -188,4 +188,4 @@ The echoes of Kap 0 are the Wir's voices in Kap 40: „In Kap 40 sind diese Echo
 **Thirteen as a reading to avoid, eleven voices, no world.**
 „Der Leser darf nicht in "13-Personen-Lesart" versetzt werden." ^[kap0-v1-annotiert-md.md:L51]
 The voices of Kap 0, in the writer's order: „Die Choreographie der Vor-Stimmen (Moros → Kiko → Lia → Rhys → Lex → Alex → Argus → Nyx → Selene → Silas → Oblivion)" ^[kap0-v1-annotiert-md.md:L1101] — eleven, and the writer doubts Alex (L1205).
-No Kern-Welt is named; an annotation calls the [[ueberwelt|Überwelt]] „Kernwelten-Substrat" (L457).
+No Kern-Welt is named; an annotation calls the [[ueberwelt|Überwelt]] „Überwelt = Kernwelten-Substrat" ^[kap0-v1-annotiert-md.md:L457].

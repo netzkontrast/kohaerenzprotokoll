@@ -81,5 +81,5 @@ The riss: „Collapse (Moros) | gravitational" ^[kohaerenz-protokoll-konzept-mas
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform, unnamed in the prose
 
 „Es ist sinnlos. Es war immer schon sinnlos. Es wird nichts mehr kommen — und doch geschieht es" ^[kap0-v1-annotiert-md.md:L149]
-„Moros-Vorform als Tonalität etabliert (*sinnlos, immer schon, nichts mehr kommen*) ohne Etikett." ^[kap0-v1-annotiert-md.md:L153] Its signature: „Kreislogik" and „Selbstnegation" (L153).
+„Moros-Vorform als Tonalität etabliert (*sinnlos, immer schon, nichts mehr kommen*) ohne Etikett." ^[kap0-v1-annotiert-md.md:L153] Its signature: „Die Moros- Stimme ist syntaktisch erkennbar durch Kreislogik" ^[kap0-v1-annotiert-md.md:L153].
 It returns in the Resonanzkaskade: „Es ist sinnlos. Es war immer sinnlos. Es wird nichts mehr kommen. Nichts. Nichts mehr. Nichts." ^[kap0-v1-annotiert-md.md:L813] — „Moros-Vorform wieder (Rückkehr aus Bewegung 1)." ^[kap0-v1-annotiert-md.md:L817]

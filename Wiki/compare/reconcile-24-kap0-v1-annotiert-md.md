@@ -54,7 +54,7 @@ The page's blind spot, shown rather than named.
 writes the first sentence in the first person — „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389] —
 „weil das Ich gerade in dem Akt zu AEGIS wird" ^[kap0-v1-annotiert-md.md:L393].
 
-**`genesis-klammer`'s scan reading said this draft came „before any Kap 40"**. The read draft
+**`genesis-klammer`'s scan reading said this draft came before any Kap 40**. The read draft
 of Kap 40 and Kap 0 is dated nine days earlier, so the sentence is corrected. The scan's
 other readings — `komponente-734`, `residual-echos`, `kishotenketsu`, `ouroboros-struktur`,
 `vermittler-stimme` — were checked against the full reading and stand.

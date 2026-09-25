@@ -19,7 +19,7 @@ reads_as: an annotated first draft of Kap 0 dated 2026-05-17 — ten hard rules,
 Two voices, read apart. The draft's prose is the novel's text; each bracketed
 annotation after it is the drafter's claim about that text — what it is meant to do,
 what it risks, which rule it breaks. The annotations call the author „User", their
-choices „User-Entscheidung Runde 2/3/4", and the text they rework „Original". A reading
+choices by round — „User-Entscheidung Runde 2" ^[L365], „User-Entscheidung Runde 4" ^[L549] — and the text they rework „Original" ^[L165]. A reading
 below names which voice it is from.
 
 ## The rules Kap 0 must keep (Teil A)
