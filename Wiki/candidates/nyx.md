@@ -102,4 +102,4 @@ As the separation runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Kn�
 
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
-An EP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Her style code „Nyx fragmentiert-bildhaft" (L198); in Part 2 the prose swings to „fragmentiertem Ausbruch (Nyx, Trigger-Szenen)" ^[three-mode-architecture-39-chapters-md.md:L230].
+An EP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Her style code „Nyx fragmentiert-bildhaft" ^[three-mode-architecture-39-chapters-md.md:L198]; in Part 2 the prose swings to „fragmentiertem Ausbruch (Nyx, Trigger-Szenen)" ^[three-mode-architecture-39-chapters-md.md:L230].
