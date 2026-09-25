@@ -290,7 +290,7 @@ His own lines carry no knuckles; the Nyx line before them does (C10). He is the 
 
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
-Storyform A's main character, „A = *Heuristics of Integration* / Kael-MC" (L23), and B's impact character, „in B ist Kael IC-Träger (lebende Paradoxie)" ^[three-mode-architecture-39-chapters-md.md:L96].
-Every chapter is his, stage by stage: Kap 1 „Illusion der perfekten Welt — Ordnung als Käfig" ^[three-mode-architecture-39-chapters-md.md:L178] with „Kael (Host)" as bearer. Part 1's narrator: „Fragmentiert, staccato, kühl. Kael (Host) als unzuverlässiger Erzähler. Ozon-Geruch, blendendes Licht, absolute Stille." ^[three-mode-architecture-39-chapters-md.md:L167]
+Storyform A's main character, „A = *Heuristics of Integration* / Kael-MC" ^[three-mode-architecture-39-chapters-md.md:L23], and B's impact character, „in B ist Kael IC-Träger (lebende Paradoxie)" ^[three-mode-architecture-39-chapters-md.md:L96].
+Every chapter is his, stage by stage: Kap 1 „Illusion der perfekten Welt — Ordnung als Käfig" ^[three-mode-architecture-39-chapters-md.md:L178] with „Kael (Host)" ^[three-mode-architecture-39-chapters-md.md:L178] as bearer. Part 1's narrator: „Fragmentiert, staccato, kühl. Kael (Host) als unzuverlässiger Erzähler. Ozon-Geruch, blendendes Licht, absolute Stille." ^[three-mode-architecture-39-chapters-md.md:L167]
 His Genesis comes in flashbacks: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 At the end: „Return with Elixir / Kishōtenketsu Ten→Ketsu" ^[three-mode-architecture-39-chapters-md.md:L344], „Kael (offen, ambivalent)" ^[three-mode-architecture-39-chapters-md.md:L344]. No knuckles stand in the document (`Plan/runs/three-mode-architecture-39-chapters-md/05-verify.txt`).
