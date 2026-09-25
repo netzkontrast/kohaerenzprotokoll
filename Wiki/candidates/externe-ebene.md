@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -129,3 +129,8 @@ der Basisrealität Köln" ^[koharenz-protokoll-strukturierter-outline-2026-05-18
 Its sub-locations: [[junas-ankerpunkt|Junas Ankerpunkt]] (`[L]`), the
 [[garten-der-stillen-praesenz|Garten der stillen Präsenz]], the „Quelle des Flüsterns" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L328] and an
 „Unkartiertes Territorium" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L329].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+As the ground of the first trauma layer (J54): „Schicht 1 (Bindungstrauma Basisrealität Köln):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] Kiko, Lia,
+Isabelle, Moros.
