@@ -1,0 +1,133 @@
+{
+ "step": "pairs-labeled-route-dots-studio-dots-3-note-preview-free",
+ "rule_first": "plural",
+ "canaries_merged": [],
+ "at": "2026-09-25T08:54:50+00:00",
+ "instructions": "Sind die beiden Oberflächenformen derselbe Begriff im Korpus (one-term)\noder zwei verschiedene Begriffe (two-terms)? Ein bestimmter Artikel ist nie\neine Begriffsgrenze. Ein Kompositum wird nach dem eingeordnet, was es\nbenennt, nie nach seinem Kopf. Gegensätze wie Negentropie/Entropie sind nie\nein Begriff. Nenne die Regel, nach der du entscheidest.",
+ "demos": 8,
+ "state": {
+  "traces": [],
+  "train": [],
+  "demos": [
+   {
+    "id": "J65",
+    "first": "Datenverarbeitungsknoten Epsilon",
+    "second": "Datenverarbeitungsknoten 7G",
+    "document": "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+    "decision": "one-term",
+    "rule": "a facility is identified by its function and its world; a differing letter or number is a reading, not a new term",
+    "features": [
+     "designator",
+     "same-function",
+     "same-world"
+    ]
+   },
+   {
+    "id": "J29",
+    "first": "AEGIS",
+    "second": "Rest-AEGIS",
+    "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+    "decision": "one-term",
+    "rule": "a prefix naming a later state of the same bearer does not make a new term",
+    "features": [
+     "prefix",
+     "state-of-a-thing"
+    ]
+   },
+   {
+    "id": "J59",
+    "first": "Erasure-Pol",
+    "second": "Erasure",
+    "document": "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
+    "decision": "two-terms",
+    "rule": "a compound naming an entity is not a surface of the property it contains",
+    "features": [
+     "compound",
+     "role"
+    ]
+   },
+   {
+    "id": "J68",
+    "first": "Ursprungs-Ich",
+    "second": "Juna",
+    "document": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+    "decision": "two-terms",
+    "rule": "a gloss that one passage writes and another passage of the same source contradicts is a reading, never a merge (J51)",
+    "features": [
+     "gloss",
+     "contradicting-use"
+    ]
+   },
+   {
+    "id": "J34",
+    "first": "Kairos",
+    "second": "Kairos/Sophia",
+    "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+    "decision": "one-term",
+    "rule": "a slash between two names the wiki already has is an alias, not a term boundary",
+    "features": [
+     "slash",
+     "never-separated"
+    ]
+   },
+   {
+    "id": "J3",
+    "first": "Die Grenzfeste",
+    "second": "Grenzfeste",
+    "document": "guardians-und-kern-welten-konzept",
+    "decision": "one-term",
+    "rule": "strip leading der/die/das before folding",
+    "features": [
+     "near-match:intra-list",
+     "german-article-prefix",
+     "worldbuilding"
+    ]
+   },
+   {
+    "id": "J19",
+    "first": "Die Konstrukt-Stadt",
+    "second": "Konstrukt-Stadt",
+    "document": "guardians-und-kern-welten-konzept",
+    "decision": "one-term",
+    "rule": "a leading German definite article is never a term boundary",
+    "features": [
+     "article",
+     "exact-fold-match"
+    ]
+   },
+   {
+    "id": "J42",
+    "first": "Realitätsebenen",
+    "second": "Kern-Welten",
+    "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+    "decision": "two-terms",
+    "rule": "a set is not its largest subset",
+    "features": [
+     "class-and-member"
+    ]
+   }
+  ],
+  "signature": {
+   "instructions": "Sind die beiden Oberflächenformen derselbe Begriff im Korpus (one-term)\noder zwei verschiedene Begriffe (two-terms)? Ein bestimmter Artikel ist nie\neine Begriffsgrenze. Ein Kompositum wird nach dem eingeordnet, was es\nbenennt, nie nach seinem Kopf. Gegensätze wie Negentropie/Entropie sind nie\nein Begriff. Nenne die Regel, nach der du entscheidest.",
+   "fields": [
+    {
+     "prefix": "First:",
+     "description": "${first}"
+    },
+    {
+     "prefix": "Second:",
+     "description": "${second}"
+    },
+    {
+     "prefix": "Decision:",
+     "description": "${decision}"
+    },
+    {
+     "prefix": "Rule:",
+     "description": "die Regel, in einem Satz"
+    }
+   ]
+  },
+  "lm": null
+ }
+}

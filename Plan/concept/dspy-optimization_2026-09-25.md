@@ -17,7 +17,7 @@ the 51 it leaves — **19 the ledger calls one term, 32 it calls two**. Five
 stratified folds, so every pair is scored by a program compiled without it; each
 held-out pair asked three times with no cache (P18); the six never-merge canaries
 asked of the program compiled on all 63 — once each in these runs but the last,
-as often as a held-out pair since the fix below. The metric is the person's decision,
+`dots`, and as often as a held-out pair since the fix below. The metric is the person's decision,
 with the person's recorded rule as feedback.
 
 **The models, under decision 011** (written for these runs):
@@ -28,7 +28,7 @@ with the person's recorded rule as feedback.
 | Claude Sonnet | `claude-cli/sonnet` | GEPA's reflection model, thinking on |
 | `google/gemma-4-31b-it:free` | `route/…` — `route.py`, pinned | **not reached**: „temporarily rate-limited upstream" on every attempt for the two minutes it was tried (07:45–07:47 UTC), its provider's shared free pool exhausted; stopped, no row (P15) |
 | `nex-agi/nex-n2.5-mini:free` | `route/…` | all 153 held-out calls answered, one after an empty first attempt; 6–98 s a call as the morning went on |
-| `dots-studio/dots-3-note-preview:free` | `route/…` | *(see the table)* |
+| `dots-studio/dots-3-note-preview:free` | `route/…` | all 153 held-out and 18 canary calls answered; median 26 s a call, at most 59 s |
 
 Free models got what `pairs.py` sends — two term surfaces, the person's rule
 sentences, the program's instructions and demos — and never a line of a
@@ -51,7 +51,7 @@ a **false merge** is a two-term pair merged in at least one repeat.
 | + InferRules, Haiku | 0.857 | 11.00 | 31.00 | J47 (3 of 3) | $5.40 |
 | + GEPA (200 calls a compile), Haiku, Sonnet reflecting | 0.847 | 10.33 | 31.00 | J74 (3 of 3) | $5.38 |
 | + LabeledFewShot, `nex-n2.5-mini:free` | 0.741 | 10.33 | 24.34 | **17 pairs**, J5 `Negentropie`/`Entropie` among them | $0 |
-| + LabeledFewShot, `dots-3-note-preview:free` | *(pending)* | | | | $0 |
+| + LabeledFewShot, `dots-3-note-preview:free` | 0.836 | **14.33** | 26.33 | 9 pairs; J48, J59, J74 in every repeat | $0 |
 
 SIMBA was not run; see *What was not run*.
 
@@ -134,6 +134,15 @@ was not vetoed, because the veto asked each canary once, of the final program,
 and that one answer was „two terms". **Fixed**: a canary is now asked as often
 as a held-out pair, and a ledger row that is a canary pair vetoes the run when
 any repeat merges it; `pairs.py report` flags the rows recorded before the fix.
+
+**The other free model found the most merges of any row, and paid for them the
+same way.** `dots-3-note-preview` found 14.33 of the 19 — more than any Claude
+rung, with or without evidence — and merged nine pairs the ledger keeps apart,
+three in every repeat: J48 `Kael`/`System Kael`, J59 `Erasure-Pol`/`Erasure` and
+J74. It was the one run under the fixed veto, asked each canary three times, and
+merged none. Both free models trade precision for recall far more steeply than
+Claude does: of the pairs the ledger keeps apart, Haiku's plain rungs merged one;
+`dots` merged nine and `nex` seventeen.
 
 ## What was not run
 
