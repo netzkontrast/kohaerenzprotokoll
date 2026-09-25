@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -78,3 +78,9 @@ In the trigger table „Oblivion (Erason-Operator)" ^[kohaerenz-protokoll-welt-s
 „temporal/gravitativ" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410]: „fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410].
 Beside Mnemosyne: „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L719] — „funktionell verwandt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L719].
 After Vortex 1, an open point: „lebende Reliquie + Oblivion-Übernahme intern" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1430].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Oblivion (AEGIS-Echo)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L741]: „Internalisierte Löschlogik." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L743] DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]
+„Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]. Post-Vortex, OQ-G: „Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
+Anchor: „Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L793]
