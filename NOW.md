@@ -636,6 +636,8 @@ high tier into it is the next step, and it is a person's.
 - **`quotes.py` cannot check a quotation that begins with a number standing after a word on its line.** The footnote rule drops „41“ from „die 41 Bewegungen“ on the line side but not from the quote „41 Bewegungen“, so a correct quotation fails. Worked around by quoting the word before; not fixed. A fix needs a self-test case that fails on the current code.
 - **Two lines of the reader's observations were counted as candidates.** `capture.py` reads a `- ` line with a comma as prose and one without as a term, so observations belong in paragraphs, not bullets. The list stays as counted: the census says 581 and names the two.
 
+**Kap-2 evidence pilot.** [`Plan/concept/chapter-evidence-pilot_2026-09-25.md`](Plan/concept/chapter-evidence-pilot_2026-09-25.md) compares the existing draft, dated chapter plan, F1 proposal and read-only NCP. The return of sequence 114, the 204/211 spatial discrepancy and the foreign syntax are already in prose. F1-1 — whether work deviations necessarily are K₁ traces — remains an author decision; the draft does not establish that ontology.
+
 Next, by the open records: `kap0-v1-annotiert-md` (1237 lines, 2026-05-17) — the file this document cites for Kap 0, the `DATENTYP_FEHLT` line and 734's placement, with 45 lines holding `Bewegung` (`grep -c`, orientation only). The drafting manual's Alex conflict sits in its „Bewegung 4“ (C12). Then the Kap 40 question above: `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`.
 
 ### Previous document — Alter profiles
