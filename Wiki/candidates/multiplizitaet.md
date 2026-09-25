@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -112,3 +112,12 @@ KW4 is where „Hier wird Funktionale Multiplizität eingeübt." ^[kohaerenz-pro
 „FM-Achievement: funktionale Multiplizität als Zustand" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L590]. A reset lock:
 „Funktionale Multiplizität, niemals Verschmelzung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1186] — „Kein Final Fusion" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1186].
 Until Kap 13 the „Multiplizitäts-Schleier hält bis Kap 13." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L50]
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Funktionale Multiplizität, niemals Fusion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91] „Kein Alter wird eliminiert. Kein Alter wird zu einem Ich." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91]
+„Sie werden ein dynamisches Wir (Strange-Attractor-Form)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91]
+In Akt III the voices are a choir: „Aber das Wir ist Komposition, nicht Verschmelzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L915] —
+„Lex hört sich auch im Wir anders an als Nyx." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L915]
+Kap 13, „Multiplizitäts-Schleier fällt intern." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L930]; Kap 25–26, „Schleier ist offen benannt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L932]
+Its ethics: „kein Alter darf in einen anderen verschwimmen, kein Alter darf eliminiert werden, kein Alter darf zur Karikatur werden." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1129]
