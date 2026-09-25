@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -82,3 +82,9 @@ are background only — „Als *Hintergrund* präsent, **nicht** als Hauptachse"
 
 The diagnosis the novel uses is not DID but TSDP: „Klinische Diagnose-Modell der
 Kael-Struktur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162] — „(nicht „DID lite" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162] oder „Crew-Menü")" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L162].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The DID architecture must first read as „Cosmic Horror" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L466];
+on reread every trace must read as a symptom. Hard rule R-3: the terms
+„Alter, Fragment, ANP, EP, TSDP, DID" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1059] do not fall in Akt I.
