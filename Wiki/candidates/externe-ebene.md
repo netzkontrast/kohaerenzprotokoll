@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C13
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -139,3 +139,10 @@ Two sources describe Köln 2026 as beyond the simulation; four sources say it is
 As the ground of the first trauma layer (J54): „Schicht 1 (Bindungstrauma Basisrealität Köln):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] Kiko, Lia,
 [[isabelle|Isabelle]], [[moros|Moros]]. It writes `Basisrealität` and does not place Köln inside or outside the
 simulation, so it takes no side in C13.
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — present only as objects
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Schicht 1 (Köln) betritt nie die Bühne" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60] — it leaves objects instead. Its Kanon-Prüfung: „Externe Ebene nur als Fragment/Geruch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60].
+Of the warm places mapped in Akt II: „der Leser, der die Externe Ebene kennt, fällt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84] It does not say where the Externe Ebene lies (C13).

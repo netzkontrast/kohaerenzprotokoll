@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -62,6 +62,12 @@ her arc.
 DKT correlate: „Wormholes + Entanglement Islands." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L334] Arc: „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
 „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361] For AEGIS she is „die größte Bedrohung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357].
 „Selene ist auch nicht Juna" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — coordination from Kap 9
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„ab Kap 9: Arbeitsteilung an der Konsole wird koordiniert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L217]; signature „vermittelnde Übergänge zwischen Stilcodes" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L217].
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

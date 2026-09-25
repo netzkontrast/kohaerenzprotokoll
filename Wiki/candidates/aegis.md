@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 16
-readings: 17
+sources: 17
+readings: 18
 conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -289,6 +289,15 @@ At Kap 39 it „erlischt monolithisch, lebt plural" ^[kohaerenz-protokoll-welt-s
 Outside the thirteen: „AEGIS spricht nie in Prosa." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L944] It appears as log or protocol, with a fixed log format
 (L952–L988). In Kap 1 „keine AEGIS-Stimme" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]; its voice debuts in the Hard-B chapter, Kap 5–8 (L992).
 Its echo inside the system is [[oblivion|Oblivion]]; its greatest threat, [[selene|Selene]] (L853).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — administration, never threat
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„AEGIS bleibt Verwaltung, nie Bedrohung." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52] Its blindness, made mechanical: „es kann einen Innentäter nicht denken, weil es kein Innen kennt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72] (C4).
+The Hard-B-Kapitel, „Slot 16, Position Kap 5–8 [K]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96]: „AEGIS führt eine Routine-Konsolidierung durch — erste Person, Protokollform" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96],
+and „AEGIS-1.-Person nur hier in Akt I" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96] (C14). In Akt I otherwise „ausschließlich Konsolen-Direktiven" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L220].
+Lock row: „AEGIS nie Bösewitz; tragische Unschuld" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L241].
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

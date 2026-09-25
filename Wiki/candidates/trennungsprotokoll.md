@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -108,6 +108,13 @@ Genesis-4-Beat it is the third beat (L1174). The document's own open conflict:
 Schicht 2 is the „Fragmentierungsnacht / Trennungsprotokoll" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L86]: Kael, Lex, Alex, Rhys, Nyx, Argus, Silas,
 Oblivion (L86). Lex is its „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]. Whether Alex can be present before it
 is open (L219, L1079; C12).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — repeated as administration
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Kael's job is „dieselbe Funktion wie das Trennungsprotokoll, skaliert auf Dezimalstellen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L116]; „die Trennung wird täglich als Verwaltungsakt re-inszeniert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L116].
+Every confirmation ends in a click, „das Geräusch des Trennungsprotokolls als Alltagsgeräusch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129]. Flashback in Kap 21 ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]; Kap 40 echoes it as „Bewegung 4" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229].
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

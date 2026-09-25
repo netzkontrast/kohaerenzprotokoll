@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -94,6 +94,16 @@ It names a Genesis conflict of its own: „Konzept-Konflikt offen — beim näch
 The open point on the Genesis: „Aktueller Lock-In: vier Beats (Kompendium 2026-05-31)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] — and Alex
 „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219], so „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219].
 „Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] (C12). Oblivion in Akt II re-lives „AEGIS' eigene Genesis-Krise" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L787].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — Kap 0 and three flashbacks
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Kap 0: „Komponente 734 wird konsolidiert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164]. The flashbacks, as chapter beats:
+„Genesis-Flashback Cluster-Bildung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 18, „Genesis-Flashback Trennungsprotokoll" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 21,
+and in Kap 22 „Genesis-Flashback Komp 734" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]. Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] —
+a movement numbered in a series the document does not lay out: it uses the same word for its 41 chapter units ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L159] (C12).
+The Genesis motif „Klick" gets a body in Akt I: „das Geräusch des Trennungsprotokolls als Alltagsgeräusch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129].
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C10
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -65,6 +65,12 @@ the chapter template asks after: „Lex↔Nyx?" ^[kohaerenz-protokoll-welt-senso
 
 „Nyx (Fight) — Schicht 2" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L373]. DKT correlate: „CPT-Verletzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L387]. Riss: „Kinetisch — Geschwindigkeit, Stoß, Beschleunigung, Splitter, Vibration." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L391]
 Her „Hitze im Brustkorb" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] is set apart from Juna's trace, „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] (C11).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the hand that stops
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„der erste nicht ausgeführte Ausgleich (Kap 6): die Hand stoppt vor dem Klick" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216]; signature „Verben der Verweigerung, Stakkato" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216].
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

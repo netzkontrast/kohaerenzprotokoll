@@ -1,7 +1,7 @@
 ---
 step: extract
 version: 8
-covers_documents: 5
+covers_documents: 6
 new_findings_last_document: 3
 ---
 
@@ -72,16 +72,18 @@ selection is where they differ, so it follows a rule:
 - **Write each surface as the document writes it.** Where the document joins two
   names, `A/B` or `A (B)`, list the joined form and each name.
 
-**The list is read line by line, and punctuation decides what is a term.** A `- `
-line with a period and a space, or a comma and a space, is prose — so a term with
-an ordinal (`1. Person`) cannot be listed: count it by hand in `05-verify.txt`. A
-prose bullet that wraps is judged by its first line alone, so give that line a
-comma.
-
 Do not open the wiki to decide what to list; the census describes this document
 and nothing else. After it is frozen, `reconcile.py` sweeps the text for every
 surface of every page. So a term you judged ordinary is still found if the wiki
 has a page for it, and nothing the wiki knows depends on this list.
+
+**Write observations as paragraphs, never as `- ` bullets.** The count tells a
+term from a sentence by punctuation, so a bulleted sentence without a comma is
+counted as a candidate. A term that carries a comma — a title, `A, B` — is left
+out of the count, and the count's header names it.
+A term with an ordinal is left out the same way — a period and a space make
+`1. Person` a sentence — so count it by hand in `05-verify.txt`. A bullet that
+wraps is judged by its first line alone.
 
 ## 2 · Questions to carry while reading
 

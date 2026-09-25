@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 8
+sources: 9
 pages: ["aegis"]
 ---
 
@@ -62,6 +62,12 @@ Decision 006 (2026-09-24) applies to this record as to C1–C13: no position abo
 is retired by its date or by a source's claim to be canon. It is an **item for
 discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
+
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+**One chapter in Kap 5–8, in the first person — the lock's side, worked out as a plot.** „Das Hard-B-Kapitel (Slot 16, Position Kap 5–8 [K])" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96]:
+„AEGIS führt eine Routine-Konsolidierung durch — erste Person, Protokollform" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96], and „AEGIS-1.-Person nur hier in Akt I" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96].
+In the cast table AEGIS' „Stimme debütiert im Hard-B-Kapitel" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L220]. „Formel-Grammatik gewahrt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96], „keine Ich-Formel" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96] — a first person that does not say „ich" as a formula.
 
 ## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

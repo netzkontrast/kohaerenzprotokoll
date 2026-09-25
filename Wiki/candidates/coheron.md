@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -85,3 +85,9 @@ means „Liebe als Coheron; Korrelat-Achse" ^[kohaerenz-protokoll-welt-sensorik-
 
 One pole of the Korrelat-Achse: „Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77]
 Silas' DKT correlate is „Coheron-Echo." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699]; his Riss mode is „Spiegel-Coheron" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L881].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — Silas' warmth
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Silas as „Coheron-Echo" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80]; warmth „nur als Coheron-Spur" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80].

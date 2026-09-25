@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-16"
 ---
 
@@ -117,6 +117,12 @@ Until Kap 13 the „Multiplizitäts-Schleier hält bis Kap 13." ^[kohaerenz-prot
 
 „Funktionale Multiplizität, niemals Fusion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91] „Kein Alter wird eliminiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91] The Wir is
 „Komposition, nicht Verschmelzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L915]. The veil: „Multiplizitäts-Schleier hält bis Kap 13." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — never spoken
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+The counter-register is „schleier-konform (ein Register gegen sich selbst spricht Multiplizität nie aus)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L56].
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

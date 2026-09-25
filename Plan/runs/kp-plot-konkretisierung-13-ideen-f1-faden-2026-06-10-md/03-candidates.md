@@ -1,0 +1,606 @@
+written_by: Claude session, during the numbered reading, 2026-09-25, by the list rule of decision 012
+
+- Plot-Konkretisierung
+- Plot-Faden
+- F1
+- Source-of-Truth-Outline
+- Handlungs-Generatoren
+- Provenienz-Konvention
+- [K]
+- [V]
+- [S]
+- [L]
+- NCP-Mutation
+- NCP
+- Story-First
+- Kap-1-Draft v0.3
+- v0.3
+- Quellen-Hierarchie
+- Kap 16 — Die Diktatur der Komplexität
+- P vs. NP (lens)
+- Detail-Opferung
+- Zopf
+- Apparat-Zopf
+- Juna-Zopf
+- Verlust/Beweis-Zopf
+- OS
+- MC
+- IC
+- RS
+- A:RS
+- A:IC
+- B:MC-Progress
+- A:MC-Problem→Solution
+- A:MC-Concern Memory
+- Polaritätsregel
+- Moonshine
+- Schichten-Architektur
+- Genesis-Cluster
+- Der Sachbearbeiter der Abweichung
+- Kael
+- Sequenz-Prüfen
+- Sequenz-Prüfung
+- Datenströme
+- Abweichungen
+- Risse
+- K₁-Spuren
+- K₁
+- K₀-Architektur
+- K₀
+- Erasure
+- Akt II
+- Akt I
+- Kap 0
+- Karriere-Leiter
+- Bestandspflege
+- Beförderung Kap 5
+- Konsolidierungs-Freigabe
+- AEGIS
+- Datenknoten Epsilon
+- Genesis-Motiv „Klick"
+- Klick
+- Genesis
+- Das Gegenregister
+- Gegenregister
+- Sequenz 114
+- Sequenz 251
+- Amnesie
+- Gegenbuchhaltung
+- Konsole
+- Bunker-Bau
+- Bunker
+- Festung
+- Register
+- Oblivion
+- AEGIS-Sweeps
+- plurale Verteilung
+- Avoidance vs. Pursuit (lens)
+- MacGuffin (lens)
+- schleier-konform
+- Schleier
+- Multiplizität
+- KW1-Metaphernverbot
+- KW1
+- Fundsachen aus einer Stadt ohne Namen
+- Fundsachen
+- Schicht 1
+- Köln
+- Bahn-Ticket
+- Kinderhaarspange
+- Haarspange
+- EP
+- Riss-Typ
+- EP-Riss-Tabelle
+- Kiko
+- temporal
+- Moros
+- gravitational
+- Kiste
+- Wartungsfenster
+- Mosaik-Ordnung
+- Externe Ebene
+- Genesis-Echo
+- Die Leitung, die in keinem Plan steht
+- Telefon-Stille
+- Telefon-Stille-Anker
+- Wohneinheit 734
+- Anschluss
+- Leitung
+- Juna
+- Abwesenheits-Phase
+- Junas Abwesenheits-Phase
+- Einlösung
+- Juna-Grammatik
+- Stille
+- Wärme
+- Erasure-Sweeps
+- Sweep
+- Stadtereignis
+- Quartier
+- Anteil
+- Zyklen
+- Z-Mechanik
+- Z1
+- Z2
+- Z3
+- erste Erasure-Welle
+- Zyklus-Takt
+- Voll-Konsolidierungs-Drohung
+- Purge
+- Sweep-Frequenz
+- duale Timelock-Uhr
+- Timelock
+- Wartung
+- Hard-Constraint 2
+- Hard-Constraint
+- Das fehlgeleitete Ticket
+- Technothriller-Kipp
+- Wartungs-Ticket
+- Kennung
+- Lernarchiv Theta-9
+- Theta-9
+- Unterlassung
+- Halteproblem-Dossier
+- Halteproblem (lens)
+- Komplexitäts-Budget
+- Rendering vs. Prozess-Kern
+- Rendering
+- Prozess-Kern
+- Selbstdiagnose des Systems
+- Innentäter
+- tragische Unschuld
+- Wahrheits-Test
+- Theta-9-Zugang
+- Routing-Fehler
+- Oblivions Hand
+- Oblivion-Arc
+- Spiegel-Alter
+- Charakterwechsel
+- Tat-Signatur
+- OQ-E
+- POV-Anteile
+- Der Mann, der entgegenkommt
+- Silas
+- Halbsatz
+- Lüftungsrauschen
+- Transitkorridor Delta-7
+- interner Resonanz-Körper
+- Coheron-Echo
+- Coheron
+- Wärme-Debüt
+- POV-Richtwert
+- Juna-Spur
+- Juna-Auftritt
+- Coheron-Spur
+- Richtungs-Choreographie
+- Die Wärme-Kartographie
+- Wärme-Kartographie
+- Moonshine-Bewusstsein
+- Wärmestellen
+- Lex
+- Kartograph
+- Stadtplan
+- Grundriss
+- Logos-Prime
+- Kanal
+- Moonshine-Link
+- Schicht-1-Brücke
+- Genesis-Echo-Disziplin
+- OQ-F
+- Seriennummer 734
+- Kap-22-Reveal
+- Genesis-Flashback
+- Komp 734
+- Komponente 734
+- Wartungshistorie
+- Fehlerklasse
+- Quarantäne-Vermerk
+- Einheit 734
+- Dossier
+- Reader-only-Echo-Mechanik
+- Kap-1-Konsolen-Zeile
+- Hard-Constraint 10
+- Zwei Geschenke
+- Guardian-Auflösung
+- Guardians
+- Mnemosyne
+- Archiv
+- Erasure-Pol
+- Erasure-Logik
+- Mnemosyne-Dossiers
+- Auflösung der Guardians
+- Versuchungs-Dramaturgie
+- Zwei-Guardian-Kanon
+- Lichtstaub-Leitmotiv
+- Lichtstaub
+- Eine Löschung, von innen
+- Hard-B-Kapitel
+- Slot 16
+- Routine-Konsolidierung
+- Protokollform
+- Restwert
+- Rundungsfehler
+- Ausnahme
+- Algorithmische Melancholie
+- Buchungsproblem
+- Pinnung
+- Weaving
+- Slot-16-Lock
+- AEGIS-1.-Person
+- Formel-Grammatik
+- Ich-Formel
+- Der korrupte Bericht
+- Ouroboros-Vorbereitung
+- Ouroboros
+- Berufs-Delikt
+- Pflichtberichte
+- Validatoren
+- Log-Format
+- Erstsatz
+- Kap-39-Schreib-Moment
+- Autoren-Feder
+- Log-Modus
+- Kishōtenketsu (lens)
+- Ketsu
+- Plot-Faden F1
+- Andockstellen
+- Formel-Inversion
+- Gesamtstatus
+- P1–P5
+- Autor-Bestätigung
+- Querschnitt-Kanon
+- Prämisse
+- Sachbearbeiter
+- Zeuge
+- Faden-These
+- Reader-only
+- Mikro-Risse
+- Substrat
+- Architektur
+- Trennungsprotokoll
+- fühlende Hälfte
+- operative Hälfte
+- Unterdrückungs-Apparat
+- Trennung
+- Verwaltungsakt
+- Kanon-Lehre
+- Mikro-Inversion
+- Berufsbiographie
+- Roman-These
+- Klick-Disziplin
+- Kap-0-Erstereignis
+- Klick-Szene
+- Echo-Disziplin
+- Kap 36 (Beat 5)
+- Kap 40
+- Ozon
+- Ozon-Kopplung
+- kaltes Ozon
+- Landauer-Signatur
+- Polaritäts-Lock
+- Schicht-2-Beat
+- 80/20-Lock
+- Datenknoten
+- Diegetisches Vokabular
+- Diegetischer Begriff
+- Konsolidierung
+- Ausgleich
+- Abweichung
+- Erinnerungs-Datensatz
+- Bestand
+- Bestandspflege, Stufe 2
+- Apparat
+- Anomalie
+- KW1-konform
+- Metaphernverbot
+- assertorisch
+- Computational Class P
+- Tonale Prüfung
+- Liebe bleibt, wie der Schmerz
+- Fehlstelle
+- Reibungslosigkeit
+- Faden-Achse
+- 41 Bewegungen
+- Block
+- Faden-Phase
+- Ereignis-Klasse
+- Kopplung
+- Genesis-Prolog
+- Latenz
+- Begriffs-Saat
+- Der gute Angestellte
+- Audit
+- Die andere Seite des Schalters
+- Der zögernde Angestellte
+- Doppel-Antrag
+- Der Innentäter
+- Die Niederlegung
+- Verteilte Sicherung
+- Bestätigungs-Stopp
+- Akt III-A
+- Der Deserteur
+- Rechte-Krieg
+- Vortex 1
+- Der Apparat kollabiert auf sein Ziel
+- duale Uhren
+- Kap 37
+- Der Gärtner als Sachbearbeiter
+- Gärtner
+- Schlange
+- Rauschen
+- Vortex 2
+- Die Übernahme der Funktion
+- Coda
+- Bezeugung statt Buchung
+- Storyform-Anbindung
+- Storypoint
+- Faden-Konkretion
+- A:MC-Problem Avoidance
+- Avoidance
+- A:MC-Solution Pursuit
+- Pursuit
+- A:MC-Issue Falsehood vs. Truth
+- Falsehood vs. Truth
+- A:MC-Concern Memory
+- Memory
+- Goal
+- Erinnerung als bewusster Besitz
+- B:OS Physics / kybernetischer Krieg
+- kybernetischer Krieg
+- Rechte-System
+- Routing
+- Administrations-Konflikt
+- B:MC Progress / Timelock
+- Sweep-Takt
+- Warteschlange
+- Verwaltungsstau
+- Optionlock
+- Diegetische Lösung
+- Options-Pool
+- Restbestand
+- Anhang-B
+- B-Cost / A-Cost
+- B-Cost
+- A-Cost
+- Wir
+- Verlust der Privatheit des Wir
+- privates Register
+- Schauplatz- und Mechanik-Spec
+- Konsolen
+- Zuweisung
+- Restzahl
+- Bestätigungsgeräusch
+- Stufen
+- Stufe 1
+- Stufe 2
+- Stufe 3
+- Knoten
+- Steinbruch
+- Arbeiter
+- NPCs
+- Regel-Exekutor
+- AEGIS-Stimmen-Lock
+- Direktiven-Sprache
+- Direktive
+- Junas einzige Berührung des Fadens
+- Datentyp-Feld
+- Kap-0-Statuszeile
+- [DATENTYP_FEHLT]
+- DATENTYP_FEHLT
+- Lücke
+- Antrag
+- Grammatik-Regel
+- OQ-G
+- Abstimmungspflicht
+- Figuren im Faden
+- Faden-Funktion
+- Signatur
+- Kael (Host)
+- Host
+- Atemzählung
+- Argus
+- Nyx
+- Selene
+- Stilcodes
+- Über-Erfüllung
+- Beweis-Löschung
+- Korridor
+- Rechteverwaltung
+- Validator
+- Konsolen-Direktiven
+- Kap-1-Lock
+- VERSALIEN-Zeilen
+- Bilanz-Syntax
+- unbedienbarer Datensatz
+- gerichtete Stille
+- Kapitel-Beats
+- Faden ruht
+- eine Szene = ein Konzept
+- Protokollteil
+- kap0-v1-Revisionsplan
+- Abweichung 114
+- EINHEIT 734 ENTLASTET
+- Rücklauf
+- Entwurfsordner
+- Lex-Einbruch
+- Doppel-Buchführung
+- Heimweg
+- Bestätigungslatenz
+- Prüf-Dialog
+- Leitmotiv-Einlösung
+- korrumpierte Textdateien
+- falscher Erfolg
+- Sensorisch flach
+- Stufe-2-Zuweisung
+- Spiegelszene
+- Cache-Konflikt
+- Arbeitsunfall
+- Polaritäts-Filter
+- §7-Konflikt 1
+- Dienstschluss
+- Pursuit-Vorform
+- Mitgefühl mit dem Apparat
+- Wächterin-Stufe
+- Werkzeug-Debüt
+- Die Ordnung des Verworfenen
+- Mosaik
+- Mosaik-Akzeptanz
+- Stille der Mitte
+- VERWEILEN ZULÄSSIG
+- Lebendige Ordnung
+- Teil-1-Schluss
+- Lektüre I
+- Z1-Trigger
+- Lektüre II
+- Posten-Liste
+- Budget-Instrument
+- Z1-Bunker
+- Fremderledigung
+- Lektüre III
+- Kant (lens)
+- Genesis-Flashback Cluster-Bildung
+- Cluster-Bildung
+- Selbst-Bestand
+- Pursuit-Bewegung
+- Bestandsführung
+- Genesis-Flashback Trennungsprotokoll
+- Z3-Ontologie-Riss
+- Verwaltungs-Paradox
+- Mosaik als Schöpfung
+- plurale Bewahrung
+- Foreshadowing-Programm
+- Schwelle, nicht Konfrontation
+- EINHEIT 734: AUSGEFALLEN
+- DIREKT-KONSOLIDIERUNG
+- Direkt-Konsolidierung
+- Erasure-Vorbereitung
+- neue Linearität
+- Format-Anomalie
+- VOLL-KONSOLIDIERUNG, STADTGEBIET
+- Purge-Drohung
+- A-Consequence
+- Degradation
+- Kind-Anteil
+- Junas Kanal
+- Vollarchiv-Rechte
+- Formulare
+- Wahrheits-Test
+- Am Kern
+- Kern
+- Wurzel der Schlange
+- K₁-Reinform
+- Konfrontation
+- Makro-Log
+- offener Posten
+- Datenlast
+- Kap 35 (Beats 1–3)
+- Pivot
+- Pivot-Marker
+- Vortex-Encoding
+- dialetheische Wahl
+- Nicht-Bedienung
+- Kap 36 (Beats 4–5)
+- Heat Spike
+- Landauer-Wärme-Ort
+- Landauer-Wärme
+- Landauer
+- MI-dicht
+- Rotation
+- Alter
+- sanfter Apparat
+- Rauschen-Vorzeichen
+- Resolution-Glättung
+- Junas Erscheinung
+- Bewegung 4
+- doppellesbar
+- Lock-Konformitäts-Prüfung
+- Kap-1-Locks
+- Silas-Halbsatz
+- Schleier-Disziplin
+- Mehrstimmigkeit
+- Arbeits-Anomalie
+- Klick-Regel
+- Selbstdiagnose
+- Fehlklassifikation
+- Liebes-Interesse
+- Wir-Etablierung
+- Bridge
+- Vokabular-Tabelle
+- Doppellesbares Finale
+- Kap-40-Klick
+- Reset-Bestätigung
+- Transfigurations-Erklärung
+- Slot-16
+- Hard-B
+- Vielheit
+- Reader-Inferenz
+- Quellen-Konflikte & Risiken
+- v0.3-Souveränität
+- ontologische Festlegung
+- Render-Fehler
+- Klick-Motiv-Inflation
+- Kap-1-Dichte
+- Optionlock-Diegese
+- Pool-Zählung
+- Encoding-Entscheidung
+- A-Limit
+- P5 (Dynamics)
+- ncp-author
+- Steinbruch-Filter
+- Therapie-Schnittstelle
+- LogOS
+- Limina
+- dekanonisierte Namen
+- Offene Punkte des Fadens
+- OQ-F1
+- F1-1
+- F1-2
+- F1-3
+- F1-4
+- F1-5
+- F1-6
+- DKT-Kanon
+- DKT
+- Junas Verwaltungs-Spur
+- Moonshine-Boundary
+- Post-Vortex-Status
+- Stufen-Terminologie
+- Sprach-DNA
+- Sprach-DNA-Dossier
+- C.3-Revisionsplan
+- kap0-v1-annotiert
+- Phoenix-Mode
+- Steelman
+- Inversion
+- First-Principles
+- Render-Artefakte
+- Phase-1-Encoding-Sitzung
+- A-MC-Throughline
+- Szenen-Keime
+- Skill-Kette
+- Quellen-Register
+- Source-of-Truth-Outline 2026-06-10
+- CH-01_Erwachen-Zyklus_Draft-v0_3.md
+- Erwachen-Zyklus
+- CH-01_Erwachen-Zyklus_Briefing.md
+- 0 %-Bridge-Status
+- Komp-734-Setzung
+- Motiv-Erstereignisse
+- Kapitel-Kompendium_Gather_2026-05-31.md
+- Kapitel-Kompendium
+- KW-Matrix
+- Orte-Konzepte
+- Vorschlags-Ebene
+
+## Observations while reading
+
+- The document labels itself [V] throughout, [K] only where it cites; lines 17 and 291 say nothing here is canon. Every reading from it is a proposal's reading of the locks it cites, except where it cites [K].
+- Line 21: its source hierarchy is „neuere Quelle gewinnt; v0.3 schlägt Theorie" — a precedence claim, recorded not applied.
+- The novel here has Kap 0–40 and „41 Bewegungen" (L159, L223); Kap 40 is a Coda. A chapter count to check against the other sources.
+- Heat: L133 Landauer-Signatur = kaltes Ozon [K, Polaritäts-Lock]; L229 Kap 6 „Sensorik kalt/Ozon"; Kap 36 Beat 4 „Heat Spike [K, einziger kanonischer Landauer-Wärme-Ort]"; L239 „Landauer-Wärme ausschließlich Beat 4". Silas' warmth as Coheron-Echo (L80), Wärme-Debüt Kap 3.
+- Genesis: Kap 0 „Komponente 734 wird konsolidiert" (L164); flashbacks Cluster-Bildung Kap 18, Trennungsprotokoll Kap 21, Komp 734 Kap 22 (L229); Kap 40 echoes the Trennungsprotokoll as „Bewegung 4".
+- Guardians: „Zwei-Guardian-Kanon" (L92): Mnemosyne and the Erasure-Pol. LogOS/Limina named as dekanonisierte Namen (L255).
+- Juna: Kap 38 Beat 3 „Junas Erscheinung [K]" (L229); Kap 30 Junas Kanal.
+- AEGIS first person: Hard-B-Kapitel, Slot 16, position Kap 5–8 [K], „erste Person, Protokollform" (L96), „AEGIS-1.-Person nur hier in Akt I".
+- „Einheit 734" / „Wohneinheit 734": the console line is Kael's dwelling and the Komponente 734's serial at once (L64, L88) — the document makes the ambiguity a plot.
+- Quotation marks mark console/diegetic text and cited locks; VERSALIEN lines are console output.

@@ -228,7 +228,7 @@ ledger specified in three places whose directory does not exist.
   nothing has been promoted, and there is no rule yet for what happens when a new
   source contradicts a page a person signed off.
 - **Extraction is not yet trained.** `scripts/gold.py` rules
-  14 <!--state:trainset.gold_candidate_lists--> `Plan/runs/<slug>/03-candidates.md`
+  15 <!--state:trainset.gold_candidate_lists--> `Plan/runs/<slug>/03-candidates.md`
   gold — documents 5 to 14 — and none of the four reconstructions (decision 009;
   this line said „one" until 2026-09-24). Documents 5, 6 and 14 have been scored
   against. On 5 and 6 no extractor tested reached the Haiku floor

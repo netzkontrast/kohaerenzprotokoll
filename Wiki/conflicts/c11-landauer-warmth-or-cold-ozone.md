@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 12
+sources: 13
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -163,6 +163,16 @@ And its Silas–Oblivion conflict makes the heat Landauer's: „Jedes Mal, wenn 
 C10's row 1 and the second a reading on [[silas]] since document 8; this record
 held neither. Three weeks before the 2026-05-30 lock, like the konsolidiertes
 Konzept of the same day.
+
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+**The cold side, with one place for Landauer warmth — and Kap 6 filtered cold on purpose.**
+The document is `[V]` throughout; each `[K]` below is its citation of a lock.
+Cold ozone after every Ausgleich: „Landauer-Signatur = kaltes Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133], and „der Arbeitsplatz ist die kälteste Zone der Stadt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
+Kap 6: „Sensorik kalt/Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], marked as a filter against „§7-Konflikt 1 des Source-of-Truth" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] — so it knows Kap 6's heat as a conflict and applies the cold side.
+Kap 36 Beat 4: „Heat Spike [K, einziger kanonischer Landauer-Wärme-Ort]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]; the lock table: „Landauer-Wärme ausschließlich Beat 4" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239].
+[[silas|Silas]] carries warmth as the Coheron-Echo: „Polaritätsregel exakt (Wärme nur als Coheron-Spur)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80], debut in Kap 3.
+Heat as the [[silas|Silas]]–[[oblivion|Oblivion]] conflict does not occur. Of the three ways the Anteile-Profile place heat, this document holds two — the lock and Silas — and relates them.
 
 ## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

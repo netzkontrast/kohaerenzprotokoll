@@ -1,0 +1,594 @@
+# reconcile-pre — kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md
+  wiki: 93 pages, 15 conflicts (index built 2026-09-25)
+  8 surface groups folded to one term first
+  571 candidates, 575 decisions — **309 by lookup, 266 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (26) — page exists, this document is not on it yet — a reading
+  Kael                                 kael
+  Risse                                risse
+  AEGIS                                aegis
+  Genesis                              genesis
+  Oblivion                             oblivion
+  Multiplizität                        multiplizitaet
+  Kiko                                 kiko
+  Moros                                moros
+  Externe Ebene                        externe-ebene
+  Telefon-Stille                       telefon-stille
+  Juna                                 juna
+  Silas                                silas
+  Coheron                              coheron
+  Lex                                  lex
+  Moonshine-Link                       moonshine-link
+  Guardians                            guardians
+  Mnemosyne                            mnemosyne
+  Algorithmische Melancholie           algorithmische-melancholie
+  Trennungsprotokoll                   trennungsprotokoll
+  Landauer-Signatur                    landauer-signatur
+  Argus                                argus
+  Nyx                                  nyx
+  Selene                               selene
+  K₁-Reinform                          nichts-rauschen
+  LogOS                                logos
+  DKT                                  dkt
+
+## new_term (283) — no page, no near match — a new page
+  Plot-Konkretisierung                 
+  F1                                   
+  Handlungs-Generatoren                
+  Provenienz-Konvention                
+  [K]                                  
+  [V]                                  
+  [S]                                  
+  [L]                                  
+  NCP-Mutation                         
+  NCP                                  
+  Story-First                          
+  Kap-1-Draft v0.3                     
+  v0.3                                 
+  Quellen-Hierarchie                   
+  Kap 16 — Die Diktatur der Komplexität 
+  Detail-Opferung                      
+  OS                                   
+  MC                                   
+  IC                                   
+  RS                                   
+  A:RS                                 
+  A:IC                                 
+  A:MC-Problem→Solution                
+  Sequenz-Prüfen                       
+  Sequenz-Prüfung                      
+  Datenströme                          
+  K₁-Spuren                            
+  K₁                                   
+  K₀                                   
+  Karriere-Leiter                      
+  Beförderung Kap 5                    
+  Sequenz 114                          
+  Sequenz 251                          
+  Amnesie                              
+  Gegenbuchhaltung                     
+  Festung                              
+  plurale Verteilung                   
+  MacGuffin (lens)                     
+  KW1                                  
+  Köln                                 
+  Bahn-Ticket                          
+  EP                                   
+  Riss-Typ                             
+  EP-Riss-Tabelle                      
+  gravitational                        
+  Kiste                                
+  Anschluss                            
+  Leitung                              
+  Stadtereignis                        
+  Quartier                             
+  Zyklen                               
+  Z-Mechanik                           
+  Z1                                   
+  Z2                                   
+  Z3                                   
+  Zyklus-Takt                          
+  Das fehlgeleitete Ticket             
+  Technothriller-Kipp                  
+  Unterlassung                         
+  Halteproblem (lens)                  
+  Komplexitäts-Budget                  
+  Rendering                            
+  Innentäter                           
+  tragische Unschuld                   
+  Charakterwechsel                     
+  OQ-E                                 
+  interner Resonanz-Körper             
+  POV-Richtwert                        
+  Richtungs-Choreographie              
+  Stadtplan                            
+  Grundriss                            
+  OQ-F                                 
+  Seriennummer 734                     
+  Kap-22-Reveal                        
+  Komponente 734                       
+  Fehlerklasse                         
+  Quarantäne-Vermerk                   
+  Zwei Geschenke                       
+  Guardian-Auflösung                   
+  Versuchungs-Dramaturgie              
+  Zwei-Guardian-Kanon                  
+  Protokollform                        
+  Restwert                             
+  Rundungsfehler                       
+  Ausnahme                             
+  Buchungsproblem                      
+  Pinnung                              
+  Weaving                              
+  Formel-Grammatik                     
+  Ich-Formel                           
+  Der korrupte Bericht                 
+  Berufs-Delikt                        
+  Pflichtberichte                      
+  Log-Format                           
+  Erstsatz                             
+  Kap-39-Schreib-Moment                
+  Autoren-Feder                        
+  Log-Modus                            
+  Andockstellen                        
+  Gesamtstatus                         
+  P1–P5                                
+  Autor-Bestätigung                    
+  Querschnitt-Kanon                    
+  Prämisse                             
+  Zeuge                                
+  Faden-These                          
+  Substrat                             
+  fühlende Hälfte                      
+  operative Hälfte                     
+  Verwaltungsakt                       
+  Kanon-Lehre                          
+  Berufsbiographie                     
+  Roman-These                          
+  Kap 36 (Beat 5)                      
+  Polaritäts-Lock                      
+  Schicht-2-Beat                       
+  80/20-Lock                           
+  Diegetisches Vokabular               
+  Diegetischer Begriff                 
+  Ausgleich                            
+  Erinnerungs-Datensatz                
+  KW1-konform                          
+  assertorisch                         
+  Computational Class P                
+  Tonale Prüfung                       
+  Fehlstelle                           
+  Reibungslosigkeit                    
+  Faden-Achse                          
+  41 Bewegungen                        
+  Block                                
+  Faden-Phase                          
+  Ereignis-Klasse                      
+  Begriffs-Saat                        
+  Der gute Angestellte                 
+  Audit                                
+  Der zögernde Angestellte             
+  Die Niederlegung                     
+  Verteilte Sicherung                  
+  Bestätigungs-Stopp                   
+  Der Deserteur                        
+  Rechte-Krieg                         
+  Vortex 1                             
+  duale Uhren                          
+  Kap 37                               
+  Vortex 2                             
+  Die Übernahme der Funktion           
+  Coda                                 
+  Bezeugung statt Buchung              
+  Storyform-Anbindung                  
+  Storypoint                           
+  Faden-Konkretion                     
+  Memory                               
+  Goal                                 
+  Erinnerung als bewusster Besitz      
+  Rechte-System                        
+  Administrations-Konflikt             
+  Verwaltungsstau                      
+  Diegetische Lösung                   
+  Options-Pool                         
+  Anhang-B                             
+  Wir                                  
+  Verlust der Privatheit des Wir       
+  Schauplatz- und Mechanik-Spec        
+  Restzahl                             
+  Bestätigungsgeräusch                 
+  Stufe 1                              
+  Stufe 3                              
+  NPCs                                 
+  Regel-Exekutor                       
+  Datentyp-Feld                        
+  [DATENTYP_FEHLT]                     
+  Lücke                                
+  Grammatik-Regel                      
+  OQ-G                                 
+  Abstimmungspflicht                   
+  Figuren im Faden                     
+  Faden-Funktion                       
+  Atemzählung                          
+  Stilcodes                            
+  Über-Erfüllung                       
+  Beweis-Löschung                      
+  Rechteverwaltung                     
+  VERSALIEN-Zeilen                     
+  Bilanz-Syntax                        
+  unbedienbarer Datensatz              
+  Kapitel-Beats                        
+  Faden ruht                           
+  eine Szene = ein Konzept             
+  Protokollteil                        
+  Rücklauf                             
+  Entwurfsordner                       
+  Lex-Einbruch                         
+  Doppel-Buchführung                   
+  Heimweg                              
+  Prüf-Dialog                          
+  korrumpierte Textdateien             
+  falscher Erfolg                      
+  Sensorisch flach                     
+  Spiegelszene                         
+  Cache-Konflikt                       
+  Arbeitsunfall                        
+  Polaritäts-Filter                    
+  §7-Konflikt 1                        
+  Dienstschluss                        
+  Wächterin-Stufe                      
+  Werkzeug-Debüt                       
+  Die Ordnung des Verworfenen          
+  VERWEILEN ZULÄSSIG                   
+  Lebendige Ordnung                    
+  Teil-1-Schluss                       
+  Z1-Trigger                           
+  Posten-Liste                         
+  Budget-Instrument                    
+  Fremderledigung                      
+  Kant (lens)                          
+  Z3-Ontologie-Riss                    
+  Verwaltungs-Paradox                  
+  plurale Bewahrung                    
+  Foreshadowing-Programm               
+  neue Linearität                      
+  A-Consequence                        
+  Degradation                          
+  Formulare                            
+  Konfrontation                        
+  Makro-Log                            
+  offener Posten                       
+  Datenlast                            
+  Kap 35 (Beats 1–3)                   
+  Vortex-Encoding                      
+  dialetheische Wahl                   
+  Nicht-Bedienung                      
+  Kap 36 (Beats 4–5)                   
+  Heat Spike                           
+  MI-dicht                             
+  Rotation                             
+  Resolution-Glättung                  
+  Bewegung 4                           
+  Lock-Konformitäts-Prüfung            
+  Mehrstimmigkeit                      
+  Fehlklassifikation                   
+  Liebes-Interesse                     
+  Wir-Etablierung                      
+  Vokabular-Tabelle                    
+  Reset-Bestätigung                    
+  Transfigurations-Erklärung           
+  Vielheit                             
+  Reader-Inferenz                      
+  Quellen-Konflikte & Risiken          
+  v0.3-Souveränität                    
+  ontologische Festlegung              
+  Render-Fehler                        
+  Kap-1-Dichte                         
+  Pool-Zählung                         
+  Encoding-Entscheidung                
+  A-Limit                              
+  P5 (Dynamics)                        
+  ncp-author                           
+  Limina                               
+  dekanonisierte Namen                 
+  Offene Punkte des Fadens             
+  OQ-F1                                
+  F1-1                                 
+  F1-2                                 
+  F1-3                                 
+  F1-4                                 
+  F1-5                                 
+  F1-6                                 
+  DKT-Kanon                            
+  Post-Vortex-Status                   
+  C.3-Revisionsplan                    
+  Phoenix-Mode                         
+  Steelman                             
+  First-Principles                     
+  Render-Artefakte                     
+  Phase-1-Encoding-Sitzung             
+  A-MC-Throughline                     
+  Szenen-Keime                         
+  Skill-Kette                          
+  Motiv-Erstereignisse                 
+  KW-Matrix                            
+  Orte-Konzepte                        
+  Vorschlags-Ebene                     
+  Quotation marks mark console/diegetic text and cited locks; VERSALIEN lines are console output. 
+
+## needs_judgement (266) — NEAR a known surface — one term or two?
+  Plot-Faden  /  Plot-Faden F1                 near: each other
+  Source-of-Truth-Outline  /  Source-of-Truth-Outline 2026-06-10 near: each other
+  Zopf  /  Apparat-Zopf                        near: each other
+  Zopf  /  Juna-Zopf                           near: each other
+  Zopf  /  Verlust/Beweis-Zopf                 near: each other
+  Apparat-Zopf  /  Apparat                     near: each other
+  Juna-Zopf  /  Juna                           near: each other
+  B:MC-Progress  /  B:MC Progress / Timelock   near: each other
+  Moonshine  /  Moonshine-Bewusstsein          near: each other
+  Moonshine  /  Moonshine-Link                 near: each other
+  Moonshine  /  Moonshine-Boundary             near: each other
+  Schichten-Architektur  /  Architektur        near: each other
+  Genesis-Cluster  /  Genesis                  near: each other
+  Der Sachbearbeiter der Abweichung  /  Sachbearbeiter near: each other
+  Der Sachbearbeiter der Abweichung  /  Abweichung near: each other
+  Der Sachbearbeiter der Abweichung  /  Arbeiter near: each other
+  Kael  /  Kael (Host)                         near: each other
+  Abweichungen  /  Abweichung                  near: each other
+  Risse  /  Mikro-Risse                        near: each other
+  K₀-Architektur  /  Architektur               near: each other
+  Erasure  /  Erasure-Sweeps                   near: each other
+  Erasure  /  erste Erasure-Welle              near: each other
+  Erasure  /  Erasure-Pol                      near: each other
+  Erasure  /  Erasure-Logik                    near: each other
+  Erasure  /  Erasure-Vorbereitung             near: each other
+  Akt II  /  Akt I                             near: each other
+  Akt II  /  Akt III-A                         near: each other
+  Akt I  /  Akt III-A                          near: each other
+  Kap 0  /  Kap-0-Erstereignis                 near: each other
+  Kap 0  /  Kap-0-Statuszeile                  near: each other
+  Kap 0  /  kap0-v1-Revisionsplan              near: each other
+  Kap 0  /  kap0-v1-annotiert                  near: each other
+  Bestandspflege  /  Bestand                   near: each other
+  Konsolidierungs-Freigabe  /  Konsolidierung  near: each other
+  AEGIS  /  AEGIS-Sweeps                       near: each other
+  AEGIS  /  AEGIS-1.-Person                    near: each other
+  AEGIS  /  AEGIS-Stimmen-Lock                 near: each other
+  Datenknoten Epsilon  /  Datenknoten          near: each other
+  Datenknoten Epsilon  /  Knoten               near: each other
+  Genesis-Motiv „Klick"  /  Klick              near: each other
+  Genesis-Motiv „Klick"  /  Genesis            near: each other
+  Klick  /  Klick-Disziplin                    near: each other
+  Klick  /  Klick-Szene                        near: each other
+  Klick  /  Klick-Regel                        near: each other
+  Klick  /  Kap-40-Klick                       near: each other
+  Klick  /  Klick-Motiv-Inflation              near: each other
+  Genesis  /  Genesis-Echo                     near: each other
+  Genesis  /  Genesis-Echo-Disziplin           near: each other
+  Genesis  /  Genesis-Flashback                near: each other
+  Genesis  /  Genesis-Prolog                   near: each other
+  Genesis  /  Genesis-Flashback Cluster-Bildung near: each other
+  Genesis  /  Genesis-Flashback Trennungsprotokoll near: each other
+  Das Gegenregister  /  Register               near: each other
+  Konsole  /  Kap-1-Konsolen-Zeile             near: each other
+  Konsole  /  Konsolen                         near: each other
+  Konsole  /  Konsolen-Direktiven              near: each other
+  Bunker-Bau  /  Bunker                        near: each other
+  Bunker  /  Z1-Bunker                         near: each other
+  Register  /  privates Register               near: each other
+  Register  /  Quellen-Register                near: each other
+  Oblivion  /  Oblivions Hand                  near: each other
+  Oblivion  /  Oblivion-Arc                    near: each other
+  AEGIS-Sweeps  /  Sweep                       near: each other
+  schleier-konform  /  Schleier                near: each other
+  Schleier  /  Schleier-Disziplin              near: each other
+  KW1-Metaphernverbot  /  Metaphernverbot      near: each other
+  Fundsachen aus einer Stadt ohne Namen  /  Fundsachen near: each other
+  Schicht 1  /  Schicht-1-Brücke               near: each other
+  Kinderhaarspange  /  Haarspange              near: each other
+  Wartungsfenster  /  Wartung                  near: each other
+  Mosaik-Ordnung  /  Mosaik                    near: each other
+  Genesis-Echo  /  Genesis-Echo-Disziplin      near: each other
+  Telefon-Stille  /  Telefon-Stille-Anker      near: each other
+  Telefon-Stille  /  Stille                    near: each other
+  Telefon-Stille-Anker  /  Stille              near: each other
+  Wohneinheit 734  /  Einheit 734              near: each other
+  Juna  /  Junas Abwesenheits-Phase            near: each other
+  Juna  /  Juna-Grammatik                      near: each other
+  Juna  /  Juna-Spur                           near: each other
+  Juna  /  Juna-Auftritt                       near: each other
+  Juna  /  Junas einzige Berührung des Fadens  near: each other
+  Juna  /  Junas Kanal                         near: each other
+  Juna  /  Junas Erscheinung                   near: each other
+  Juna  /  Junas Verwaltungs-Spur              near: each other
+  Juna  /  Juna: Kap 38 Beat 3 „Junas Erscheinung [K]" (L229); Kap 30 Junas Kanal. near: each other
+  Abwesenheits-Phase  /  Junas Abwesenheits-Phase near: each other
+  Einlösung  /  Leitmotiv-Einlösung            near: each other
+  Stille  /  gerichtete Stille                 near: each other
+  Stille  /  Stille der Mitte                  near: each other
+  Wärme  /  Wärme-Debüt                        near: each other
+  Wärme  /  Die Wärme-Kartographie             near: each other
+  Wärme  /  Wärmestellen                       near: each other
+  Wärme  /  Landauer-Wärme-Ort                 near: each other
+  Wärme  /  Landauer-Wärme                     near: each other
+  Erasure-Sweeps  /  Sweep                     near: each other
+  Sweep  /  Sweep-Frequenz                     near: each other
+  Sweep  /  Sweep-Takt                         near: each other
+  Anteil  /  POV-Anteile                       near: each other
+  Anteil  /  Kind-Anteil                       near: each other
+  Voll-Konsolidierungs-Drohung  /  Konsolidierung near: each other
+  Purge  /  Purge-Drohung                      near: each other
+  duale Timelock-Uhr  /  Timelock              near: each other
+  Timelock  /  B:MC Progress / Timelock        near: each other
+  Wartung  /  Wartungs-Ticket                  near: each other
+  Wartung  /  Wartungshistorie                 near: each other
+  Hard-Constraint 2  /  Hard-Constraint        near: each other
+  Hard-Constraint  /  Hard-Constraint 10       near: each other
+  Lernarchiv Theta-9  /  Theta-9               near: each other
+  Lernarchiv Theta-9  /  Archiv                near: each other
+  Theta-9  /  Theta-9-Zugang                   near: each other
+  Halteproblem-Dossier  /  Dossier             near: each other
+  Prozess-Kern  /  Kern                        near: each other
+  Selbstdiagnose des Systems  /  Selbstdiagnose near: each other
+  Routing-Fehler  /  Routing                   near: each other
+  Spiegel-Alter  /  Alter                      near: each other
+  Tat-Signatur  /  Signatur                    near: each other
+  Silas  /  Silas-Halbsatz                     near: each other
+  Halbsatz  /  Silas-Halbsatz                  near: each other
+  Lüftungsrauschen  /  Rauschen                near: each other
+  Transitkorridor Delta-7  /  Korridor         near: each other
+  Coheron-Echo  /  Coheron                     near: each other
+  Coheron  /  Coheron-Spur                     near: each other
+  Die Wärme-Kartographie  /  Kartograph        near: each other
+  Logos-Prime  /  LogOS                        near: each other
+  Kanal  /  Junas Kanal                        near: each other
+  Kanal  /  Juna: Kap 38 Beat 3 „Junas Erscheinung [K]" (L229); Kap 30 Junas Kanal. near: each other
+  Genesis-Echo-Disziplin  /  Echo-Disziplin    near: each other
+  Genesis-Flashback  /  Genesis-Flashback Cluster-Bildung near: each other
+  Genesis-Flashback  /  Genesis-Flashback Trennungsprotokoll near: each other
+  Komp 734  /  Komp-734-Setzung                near: each other
+  Einheit 734  /  EINHEIT 734 ENTLASTET        near: each other
+  Einheit 734  /  EINHEIT 734: AUSGEFALLEN     near: each other
+  Dossier  /  Mnemosyne-Dossiers               near: each other
+  Dossier  /  Sprach-DNA-Dossier               near: each other
+  Reader-only-Echo-Mechanik  /  Reader-only    near: each other
+  Kap-1-Konsolen-Zeile  /  Konsolen            near: each other
+  Guardians  /  Auflösung der Guardians        near: each other
+  Mnemosyne  /  Mnemosyne-Dossiers             near: each other
+  Archiv  /  Vollarchiv-Rechte                 near: each other
+  Lichtstaub-Leitmotiv  /  Lichtstaub          near: each other
+  Hard-B-Kapitel  /  Hard-B                    near: each other
+  Slot 16  /  Slot-16-Lock                     near: each other
+  Routine-Konsolidierung  /  Konsolidierung    near: each other
+  Ouroboros-Vorbereitung  /  Ouroboros         near: each other
+  Validatoren  /  Validator                    near: each other
+  Kishōtenketsu (lens)  /  Ketsu               near: each other
+  Formel-Inversion  /  Inversion               near: each other
+  Sachbearbeiter  /  Der Gärtner als Sachbearbeiter near: each other
+  Sachbearbeiter  /  Arbeiter                  near: each other
+  Trennungsprotokoll  /  Trennung              near: each other
+  Trennungsprotokoll  /  Genesis-Flashback Trennungsprotokoll near: each other
+  Unterdrückungs-Apparat  /  Apparat           near: each other
+  Trennung  /  Genesis-Flashback Trennungsprotokoll near: each other
+  Mikro-Inversion  /  Inversion                near: each other
+  Kap 40  /  Kap-40-Klick                      near: each other
+  Ozon  /  Ozon-Kopplung                       near: each other
+  Ozon  /  kaltes Ozon                         near: each other
+  Ozon-Kopplung  /  Kopplung                   near: each other
+  Landauer-Signatur  /  Signatur               near: each other
+  Landauer-Signatur  /  Landauer               near: each other
+  Datenknoten  /  Knoten                       near: each other
+  Konsolidierung  /  DIREKT-KONSOLIDIERUNG     near: each other
+  Abweichung  /  Abweichung 114                near: each other
+  Bestand  /  Restbestand                      near: each other
+  Bestand  /  Selbst-Bestand                   near: each other
+  Bestand  /  Bestandsführung                  near: each other
+  Apparat  /  Der Apparat kollabiert auf sein Ziel near: each other
+  Apparat  /  Mitgefühl mit dem Apparat        near: each other
+  Apparat  /  sanfter Apparat                  near: each other
+  Anomalie  /  Format-Anomalie                 near: each other
+  Anomalie  /  Arbeits-Anomalie                near: each other
+  Latenz  /  Bestätigungslatenz                near: each other
+  Die andere Seite des Schalters  /  Alter     near: each other
+  Doppel-Antrag  /  Antrag                     near: each other
+  Der Gärtner als Sachbearbeiter  /  Gärtner   near: each other
+  Der Gärtner als Sachbearbeiter  /  Arbeiter  near: each other
+  Schlange  /  Warteschlange                   near: each other
+  Schlange  /  Wurzel der Schlange             near: each other
+  Rauschen  /  Rauschen-Vorzeichen             near: each other
+  A:MC-Problem Avoidance  /  Avoidance         near: each other
+  A:MC-Solution Pursuit  /  Pursuit            near: each other
+  Pursuit  /  Pursuit-Vorform                  near: each other
+  Pursuit  /  Pursuit-Bewegung                 near: each other
+  B:OS Physics / kybernetischer Krieg  /  kybernetischer Krieg near: each other
+  Optionlock  /  Optionlock-Diegese            near: each other
+  B-Cost / A-Cost  /  B-Cost                   near: each other
+  B-Cost / A-Cost  /  A-Cost                   near: each other
+  Konsolen  /  Konsolen-Direktiven             near: each other
+  Zuweisung  /  Stufe-2-Zuweisung              near: each other
+  Stufen  /  Stufen-Terminologie               near: each other
+  Stufe 2  /  Stufe-2-Zuweisung                near: each other
+  Steinbruch  /  Steinbruch-Filter             near: each other
+  Direktiven-Sprache  /  Direktive             near: each other
+  Direktive  /  Konsolen-Direktiven            near: each other
+  Kael (Host)  /  Host                         near: each other
+  Kap-1-Lock  /  Kap-1-Locks                   near: each other
+  Mosaik  /  Mosaik-Akzeptanz                  near: each other
+  Mosaik  /  Mosaik als Schöpfung              near: each other
+  Lektüre I  /  Lektüre II                     near: each other
+  Lektüre I  /  Lektüre III                    near: each other
+  Lektüre II  /  Lektüre III                   near: each other
+  Genesis-Flashback Cluster-Bildung  /  Cluster-Bildung near: each other
+  Junas Kanal  /  Juna: Kap 38 Beat 3 „Junas Erscheinung [K]" (L229); Kap 30 Junas Kanal. near: each other
+  Am Kern  /  Kern                             near: each other
+  Pivot  /  Pivot-Marker                       near: each other
+  Landauer-Wärme-Ort  /  Landauer-Wärme        near: each other
+  Landauer-Wärme-Ort  /  Landauer              near: each other
+  Landauer-Wärme  /  Landauer                  near: each other
+  Junas Erscheinung  /  Juna: Kap 38 Beat 3 „Junas Erscheinung [K]" (L229); Kap 30 Junas Kanal. near: each other
+  doppellesbar  /  Doppellesbares Finale       near: each other
+  Bridge  /  0 %-Bridge-Status                 near: each other
+  Sprach-DNA  /  Sprach-DNA-Dossier            near: each other
+  CH-01_Erwachen-Zyklus_Draft-v0_3.md  /  Erwachen-Zyklus near: each other
+  Erwachen-Zyklus  /  CH-01_Erwachen-Zyklus_Briefing.md near: each other
+  Kapitel-Kompendium_Gather_2026-05-31.md  /  Kapitel-Kompendium near: each other
+  Juna-Zopf                                    near: juna→juna
+  Polaritätsregel                              near: hitzepolaritatsregel→hitze-polaritaetsregel
+  Moonshine                                    near: moonshinelink→moonshine-link
+  Genesis-Cluster                              near: genesis→genesis
+  Genesis-Motiv „Klick"                        near: genesis→genesis
+  AEGIS-Sweeps                                 near: aegis→aegis
+  temporal                                     near: atemporalitaet→atemporalitaet, atemporalitat→atemporalitaet
+  Genesis-Echo                                 near: genesis→genesis
+  Telefon-Stille-Anker                         near: telefonstille→telefon-stille
+  Junas Abwesenheits-Phase                     near: juna→juna
+  Juna-Grammatik                               near: juna→juna
+  Stille                                       near: gartenderstillenpraesenz→garten-der-stillen-praesenz, gartenderstillenprasenz→garten-der-stillen-praesenz, telefonstille→telefon-stille
+  Kennung                                      near: mustererkennunganomaliedetektion→aegis-metriken
+  Oblivions Hand                               near: oblivion→oblivion
+  Oblivion-Arc                                 near: oblivion→oblivion
+  Coheron-Echo                                 near: coheron→coheron
+  Juna-Spur                                    near: juna→juna
+  Juna-Auftritt                                near: juna→juna
+  Coheron-Spur                                 near: coheron→coheron
+  Logos-Prime                                  near: logos→logos
+  Genesis-Echo-Disziplin                       near: genesis→genesis
+  Genesis-Flashback                            near: genesis→genesis
+  Archiv                                       near: archivdergrenzen→archiv-der-grenzen, archivdesungesagten→archiv-des-ungesagten
+  Mnemosyne-Dossiers                           near: mnemosyne→mnemosyne
+  Auflösung der Guardians                      near: guardians→guardians
+  AEGIS-1.-Person                              near: aegis→aegis
+  Mikro-Risse                                  near: risse→risse
+  Architektur                                  near: mnemosyneserverarchitektur→mnemosyne-server-architektur
+  Trennung                                     near: trennungsprotokoll→trennungsprotokoll
+  Abweichung                                   near: vorhersagbarkeitsabweichungswerte→aegis-metriken
+  Anomalie                                     near: mustererkennunganomaliedetektion→aegis-metriken
+  Genesis-Prolog                               near: genesis→genesis
+  Die andere Seite des Schalters               near: alters→alters
+  Rauschen                                     near: nichtsrauschen→nichts-rauschen
+  Knoten                                       near: datenverarbeitungsknoten7g→datenverarbeitungsknoten-7g
+  AEGIS-Stimmen-Lock                           near: aegis→aegis
+  Junas einzige Berührung des Fadens           near: juna→juna
+  Signatur                                     near: entropiesignatur→entropie-signatur, landauersignatur→landauer-signatur
+  Kael (Host)                                  near: kael→kael
+  Mosaik                                       near: mosaikherz→mosaik-herz
+  Genesis-Flashback Cluster-Bildung            near: genesis→genesis
+  Genesis-Flashback Trennungsprotokoll         near: genesis→genesis, trennungsprotokoll→trennungsprotokoll
+  Junas Kanal                                  near: juna→juna
+  Kern                                         near: dualkerneltheoriedkt→dkt, kernwelt→kern-welten, kernwelten→kern-welten, kohaerenzkernel→kohaerenz-kernel, koharenzkernel→kohaerenz-kernel, koharenzkernelk1→kohaerenz-kernel, kollapskernel→kollaps-kernel, kollapskernelk0→kollaps-kernel
+  Landauer                                     near: landauersignatur→landauer-signatur
+  Alter                                        near: alters→alters
+  Junas Erscheinung                            near: juna→juna
+  Silas-Halbsatz                               near: silas→silas
+  Therapie-Schnittstelle                       near: therapieschnittstellealpha→therapie-schnittstelle-alpha
+  Junas Verwaltungs-Spur                       near: juna→juna
+  Juna: Kap 38 Beat 3 „Junas Erscheinung [K]" (L229); Kap 30 Junas Kanal. near: juna→juna
+
+## in_document_not_in_census (1) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Kohärenz                             kohaerenz                    L11
+

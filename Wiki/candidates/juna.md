@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-16"
 ---
 
@@ -242,6 +242,14 @@ The document's last line: „Juna ist nicht in der Welt. Juna ist die Bewegung, 
 Anchors: „Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029] Heat as her trace:
 „Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] (C11). Inside the system her echo is Silas; on the Korrelat-Achse,
 „Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — an effect until Kap 38
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Never the subject of a sentence: not that she calls, but „die Stille steht im Raum" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]. In the thread she is a record with an empty type field,
+„die Lücke, die AEGIS nicht sehen kann" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206], and otherwise not in it: „Juna im Faden ausschließlich als unbedienbares leeres Feld" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L242].
+Kap 30 has „Junas Kanal" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]. Her appearance is Kap 38 Beat 3: „Ab Beat 3 (Junas Erscheinung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (C7).
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

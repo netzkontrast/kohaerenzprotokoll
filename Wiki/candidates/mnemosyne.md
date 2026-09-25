@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-17"
 ---
 
@@ -167,6 +167,12 @@ She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-draft
 „Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L994]: „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996] (C6).
 „Verwaltet die Datenströme der Erinnerung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] „Setting des Klimax:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] the Mnemosyne-Archipel (L1000).
 „Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004] „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the complete archive as a gift
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Mnemosyne öffnet das vollständige Archiv — jede Erinnerung, lückenlos, sofort, als Flut" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]. In Kap 31, administratively: „Mnemosyne bietet Vollarchiv-Rechte" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229].
 
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 

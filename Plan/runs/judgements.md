@@ -1208,6 +1208,20 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 
 **Result.** two terms — the joined form names a relation between two pages, and is an alias of neither; each name keeps its own page
 
+## J87 — A:RS / ARS
+
+**two-terms** · kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md · 2026-09-25 · replay: `agrees`
+
+- **rule:** punctuation inside an abbreviation is part of it: a colon joins a storyform to its throughline, and removing it makes a different word
+- **mechanised by:** `wiki_index.fold`
+- **features:** storyform-notation, fold-collision
+
+**Question.** one term or two?
+
+**What was done.** L41 lists what the Juna braid carries: „A:RS, A:IC, Polaritätsregel, Moonshine" — Storyform A's Relationship Story and Impact Character. fold() removed the colon and the lookup filed A:RS as a new reading on the page of ARS, one of the eight protocols
+
+**Result.** two terms — a throughline label is not the protocol its letters spell; fold() now keeps the colon, and no page surface contains one
+
 ## J88 — Anteil / Alter
 
 **judgement** · koharenz-protokoll-sprach-dna-2026-05-13-md · 2026-09-25 · replay: `judgement`
