@@ -1235,3 +1235,45 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L13 names what the document profiles as „Stimmen, Anteile, Stilebenen und Akt-Modi“; L21 and L125 use `Anteil` for the voice a switch arrives at; the thirteen voices L67–L165 are the alters page's referent; L69 names `Alter` only as a word Kael's Akt I may not use
 
 **Result.** judgement — here `Anteil` names the system's parts, the referent of the alters page, and `Alter` is only mentioned as a word; a reading on alters. But `Anteil` is also an ordinary German noun, a share, and as a surface it would claim every share in the corpus
+
+## J89 — K₁ (Kohärenz-Kernel) / Kohärenz-Kernel (K₁)
+
+**one-term** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a symbol and the name a parenthesis gives it are one term in either order (J60 for an acronym and its expansion)
+- **mechanised by:** `nothing`
+- **features:** symbol-and-name, parenthesis-order, near-match:intra-list
+
+**Question.** one term or two?
+
+**What was done.** L98 and L99 head the kernel table's rows „K₁ (Kohärenz-Kernel)" and „K₀ (Kollaps-Kernel)", symbol first; the pages are titled with the name first, `Kohärenz-Kernel (K₁)` and `Kollaps-Kernel (K₀)`; each row states the page's content — reversibility and information preservation, irreversibility and entropy
+
+**Result.** one term each — a reading on kohaerenz-kernel and on kollaps-kernel; no new surface
+
+## J90 — Komp 734 / Komponente 734
+
+**one-term** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a clipped word (Komp for Komponente, Op for Operator) that names what the full form names in the same document is one term with it; the referent decides, not the letters (J83 for a compound's head used alone)
+- **mechanised by:** `nothing`
+- **features:** clipped-word, near-match:intra-list
+
+**Question.** one term or two?
+
+**What was done.** L465 names Kael „Komponente 734" as the Genesis' third beat; L998 restates the same three beats as „Einheit → Trennungsprotokoll → Kael=Komp 734"
+
+**Result.** one term — the clipped word names the same designation in a restatement of the same sequence; both are Kael's, placed on kael and genesis
+
+## J91 — Erason-Op / Erason-Operator
+
+**one-term** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** the rule of J90: a clipped word naming what the full form names in the same document is one term with it
+- **mechanised by:** `nothing`
+- **features:** clipped-word, diagram-label, near-match:intra-list
+
+**Question.** one term or two?
+
+**What was done.** the diagram at L182–L186 labels Oblivion „(Erason-Op/Spiegel)" under its name, and the Alter table (L400) and the consistency matrix (L958) give Oblivion the function `Erason-Operator`
+
+**Result.** one term — Oblivion's role, clipped in a diagram label; a reading on oblivion, not on erason (J32: a compound is placed by what it names)
