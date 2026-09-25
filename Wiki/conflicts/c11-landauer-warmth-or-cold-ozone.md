@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -118,3 +118,22 @@ and Kap 36 „Landauer-Wärme als Schluss-Markierung“
 „Ozon, weißes Licht, Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L508],
 without equating that ozone with the warm Landauer effect. This is another
 source for the warm position in Kap 6 and 36, not a resolution of C11.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**The cold-ozone side, locked — and a heat strand named Landauer beside it.**
+§2.1 files the Landauer-Signatur under cold ozone: „AEGIS-Unterdrückung / Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346],
+„Überall, von Kap 1 an. Default-Signatur der Erasure-Aktivität." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346] Warmth is
+„Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347]. „Nach Kap 1 die beiden Hitzen nie wieder vermischen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]
+„Einzige kanonische Ausnahme: Vortex 1 Beat 4" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]. The lock index dates it to the
+decision log: „kaltes Ozon = AEGIS; Wärme = Juna; nach Kap 1 nie mischen; Wärme-Debüt Kap 3" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1196],
+source „Log 2026-05-30" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1195] — „dito" in the next row ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1196].
+
+**Inside the same document**, foreshadowing strand 1 is named `Landauer` with the theme
+„Hitze als Symptom der Wahrheitsvertuschung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445], accumulating in
+„Kap 6 (Cache-Konflikt), Kap 19 (AEGIS-Eskalation)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445] — Kap 6 again, the chapter the
+warm position places its Landauer-Wärme in, though without the word. And the KW1→KW2
+transition has a thermal Riss, „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418]. The document
+does not relate the strand to the lock. The strand and the signature are two terms (J81);
+whether the strand's *heat* is the lock's cold ozone is this record's question, asked
+again by one document of itself.

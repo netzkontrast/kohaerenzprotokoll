@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -225,3 +225,12 @@ in dem das Geflecht klingt." ^[koharenz-protokoll-strukturierter-outline-2026-05
 - resonance as world birth: „Junas Resonanz brachte die Zeit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L56]
 - hologram or echo in chapter 3: „als Hologramm/Echo, das verschwindet“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
 - first direct appearance in chapter 38: „Junas erste direkte Erscheinung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+Kap 33 holds her effect and Kap 38 her appearance: the [[garten-der-stillen-praesenz|Garten der stillen Präsenz]] is the
+„Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327], and at Kap 38 „Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593] (C7).
+Her grammar is a rule: „R-10 — Juna ist nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087] — „Grammatisch und
+ontologisch" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087]. Her trace is warmth, „Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347] (C11).
+Her modes: „gestaffelte Grammatik; Abwesenheits-Phase Akt I → Präsenz-Phase Akt II+" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1195].
+The document's last line: „Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1502]

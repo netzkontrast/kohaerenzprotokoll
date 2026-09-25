@@ -2,7 +2,7 @@
 step: extract
 version: 6
 covers_documents: 4
-new_findings_last_document: 5
+new_findings_last_document: 2
 ---
 
 # Briefing — before extracting a document
@@ -102,6 +102,8 @@ has a page for it, and nothing the wiki knows depends on this list.
   citation of something else. Both occur; nothing announces which.
 - Which candidates appear **only inside a question**? Those have no reading.
 - Which appear only as something the document restates before rejecting?
+- Does the document restate *other* documents — an index of locks, a list of
+  sources with dates? That is this document's claim about them, not their text.
 
 **Gaps — what is assumed?**
 
@@ -114,6 +116,9 @@ has a page for it, and nothing the wiki knows depends on this list.
 
 - Does a stated count match the content? Does the document flag it?
 - Are heading labels unique? Do any collide?
+- Is every candidate written as *this* document writes it? A `0 word 0 in` after
+  a reading is a name that came from somewhere else — memory of another source is
+  the easiest contamination to miss.
 
 **Export damage — what did the conversion do?**
 

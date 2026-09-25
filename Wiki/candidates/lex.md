@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -53,3 +53,8 @@ Logik-Ansatz scheitert an einem komplexen Problem." ^[koharenz-protokoll-struktu
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - first interventions in chapter 2: „Erste Lex-Einbrüche“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L512]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+KW1's somatic default names him: „Lex' Hypoventilation als unterschwelliger Default-Modus." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L79]
+A hard rule of the Sprach-DNA: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1233]

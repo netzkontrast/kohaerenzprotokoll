@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -39,3 +39,15 @@ reading; C11 has the record.
 
 - Landauer warmth at chapter 6: „Landauer-Wärme“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528]
 - Landauer warmth at chapter 36: „Landauer-Wärme als Schluss-Markierung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+§2.1, labelled locked: „Zwei thermische Signaturen, sensorisch strikt zu trennen:" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L339]
+cold ozone, „AEGIS-Unterdrückung / Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346], „Überall, von Kap 1 an. Default-Signatur der Erasure-Aktivität." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346];
+warmth, „Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347], debuting in Kap 3, „Selten, wächst über das Buch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347]
+„Nach Kap 1 die beiden Hitzen nie wieder vermischen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351] „Einzige kanonische Ausnahme: Vortex 1 Beat 4" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351].
+Restated as a hard rule, „Kaltes Ozon (AEGIS) ≠ Wärme (Juna)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1067], and in the lock index with its date:
+„kaltes Ozon = AEGIS; Wärme = Juna; nach Kap 1 nie mischen; Wärme-Debüt Kap 3" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1196].
+
+The same document names its first foreshadowing strand `Landauer`, with the theme
+„Hitze als Symptom der Wahrheitsvertuschung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445] — see [[landauer-signatur]] and C11.

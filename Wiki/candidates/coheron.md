@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,3 +74,9 @@ Zerstörung ein Vorher/Nachher voraussetzt." ^[kohaerenz-protokoll-begriffe-und-
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - named as the domain of Silas, without further definition: „Silas (Coheron-Echo)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+KW4 is the „Einzige Zone, in der" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] new Coheronen can arise ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227]. The Resonanz motif
+means „Liebe als Coheron; Korrelat-Achse" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L527]. Juna's warmth is a
+„Coheron-Verdrängung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347], and Silas is the „Silas (Coheron-Echo)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409].

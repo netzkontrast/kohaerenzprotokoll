@@ -1,0 +1,617 @@
+{
+  "document": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "drive_id": "1qD41Bh12bM9tbu_v2IauIE3ngq5_H5PIGXbhsO8CVbg",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 93,
+    "conflicts": 12
+  },
+  "state_after": {
+    "pages": 93,
+    "conflicts": 12
+  },
+  "pre_classification": {
+    "candidates": 539,
+    "decisions": 595,
+    "decided_by_lookup": 346,
+    "needs_judgement": 249
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A drafting manual: most of its 542 candidates are its own method — templates, checks, hard rules, genre modes, lock labels, repository layout (§9–§13). Its world vocabulary (§1–§8) lands on pages that exist. What it names without a page is either a sub-location with no chapter anchor or function beyond one table cell (Transitkorridor Delta-7, Wald des Flüsterns, Ozean-Becken, Zitadelle, Wartungsschächte, Die unbewachten Tore, Quelle des Flüsterns, Unkartiertes Territorium), a narrative device (the five strands, the Genesis motifs, the anchors, Ouroboros, Reveal-Disziplin), a restated lock whose source is another document, or a name the wiki has already declined (Wir-AEGIS-plural, J47/J73; Komponente 734; Erasure-Pol, J59). The rule of document 11 — a canonical sub-location with a chapter anchor — admits Transitkorridor Delta-7 („Kap 1 ff.\", L103) and the Archivar-Klasse-II-Arbeitsraum (L105); both are one table row, Kael's routine and his post, and were left as not_promoted rather than opened from one row.",
+  "new_readings": [
+    {
+      "page": "ueberwelt",
+      "lines": [
+        175,
+        280,
+        282,
+        297,
+        298,
+        299
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        305,
+        307,
+        311,
+        315,
+        328,
+        329
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        397,
+        409,
+        410,
+        418,
+        419,
+        425,
+        427
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        40,
+        42
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        44,
+        46,
+        50,
+        54,
+        67,
+        71
+      ],
+      "attribution": "premise",
+      "note": "KW1, Logos-Prime (C9)"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        282,
+        574,
+        594,
+        1051,
+        1079,
+        1236
+      ],
+      "attribution": "premise",
+      "note": "its blindness (C4); voice rules R-8"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        63,
+        346,
+        382,
+        445
+      ],
+      "attribution": "premise",
+      "note": "filed under cold ozone; strand 1 'Landauer' themed as heat (C11, J81)"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        79,
+        1233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        104
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        111,
+        113,
+        136
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        148,
+        405,
+        406,
+        1235
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        148,
+        406,
+        1235
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        148,
+        408,
+        1235
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        404,
+        951
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moros",
+      "lines": [
+        407,
+        1235
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        409,
+        496,
+        498
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        410,
+        719,
+        1430
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        298,
+        692,
+        696,
+        700,
+        704,
+        1183
+      ],
+      "attribution": "premise",
+      "note": "one of two Guardians; the temptation (§8)"
+    },
+    {
+      "page": "archiv-der-grenzen",
+      "lines": [
+        159,
+        1211
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne-server-architektur",
+      "lines": [
+        162,
+        1427
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        169,
+        171,
+        175,
+        193
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "evaluierungseinheit",
+      "lines": [
+        219
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        225,
+        227,
+        272
+      ],
+      "attribution": "premise",
+      "note": "a name of KW4 and a place inside it (C5, J61)"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        227
+      ],
+      "attribution": "premise",
+      "note": "a different sense: emergence of new Coherons in KW4"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        50,
+        227,
+        590,
+        1186
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        273
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        274
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        42,
+        282,
+        1183
+      ],
+      "attribution": "premise",
+      "note": "two Guardians, the five and the world pairing named as decanonised (C6, Q5)"
+    },
+    {
+      "page": "verschraenkungs-insel",
+      "lines": [
+        299
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "junas-ankerpunkt",
+      "lines": [
+        326,
+        1441
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        327,
+        347,
+        593,
+        1087,
+        1195,
+        1502
+      ],
+      "attribution": "premise",
+      "note": "effect in Kap 33, appearance in Kap 38 (C7); R-10"
+    },
+    {
+      "page": "garten-der-stillen-praesenz",
+      "lines": [
+        327
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        339,
+        346,
+        347,
+        351,
+        445,
+        1067,
+        1196
+      ],
+      "attribution": "premise",
+      "note": "the lock restated three times; a Landauer strand themed as heat in the same document (C11)"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        384,
+        449,
+        477,
+        478
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "did",
+      "lines": [
+        466,
+        1059
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        523,
+        574
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        227,
+        347,
+        409,
+        527
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        627,
+        628,
+        1461
+      ],
+      "attribution": "premise",
+      "note": "end of the Kap-0 crisis; Alex-Vorform before it (C12)"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        516,
+        1174,
+        1212,
+        1462
+      ],
+      "attribution": "premise",
+      "note": "Genesis-4-Beat restated without 734; the document's own Alex conflict (C12)"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        592
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "drei-ontologische-schichten",
+      "lines": [
+        1175
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "k0-existenz",
+      "lines": [
+        46,
+        1175
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kael",
+      "lines": [
+        105,
+        572,
+        633,
+        1188
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alex",
+      "lines": [
+        1234,
+        1460,
+        1461,
+        1462
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        101,
+        661
+      ],
+      "attribution": "premise",
+      "note": "as Wohneinheit 734 (J50); the console line placed both ways (J80)"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        42,
+        117,
+        175,
+        231
+      ],
+      "attribution": "premise",
+      "note": "four worlds as act markers (Q3, Q5)"
+    },
+    {
+      "page": "datenverarbeitungsknoten-7g",
+      "lines": [
+        102
+      ],
+      "attribution": "premise",
+      "note": "as Datenverarbeitungsknoten Epsilon (J65)"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        42
+      ],
+      "attribution": "premise",
+      "note": "only in the retired world pairing (J49)"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        42
+      ],
+      "attribution": "premise",
+      "note": "only in the retired world pairing (J49)"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        42
+      ],
+      "attribution": "premise",
+      "note": "only in the retired world pairing"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        169,
+        171
+      ],
+      "attribution": "premise",
+      "note": "only in KW3's name (J49)"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        589,
+        1429
+      ],
+      "attribution": "premise",
+      "note": "OQ-F only"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        1059,
+        1185
+      ],
+      "attribution": "premise",
+      "note": "13 Alter, exact roster (J84, Q3)"
+    }
+  ],
+  "reached_by_existing_rule": [
+    "kaels-wohneinheit",
+    "kern-welten",
+    "datenverarbeitungsknoten-7g",
+    "logos",
+    "kairos",
+    "sophia",
+    "cerberus",
+    "moonshine-link",
+    "alters"
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C9",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "the acronym is never expanded",
+    "C2": "Entropie does not occur",
+    "C3": "AEGIS' origin is not stated; only that it represses its own Genesis (L574) and „rekonstruiert sich erinnerungslos\" in Kap 0 (L581)",
+    "C8": "the Approach is deferred to the storyform document (L1164)"
+  },
+  "judgements": [
+    "J80",
+    "J81",
+    "J82",
+    "J83",
+    "J84"
+  ],
+  "decided_by_existing_rules": "compounds of a known head placed by what they name (J8, J28, J32): the Risse types, AEGIS-*, Erasure-*, Juna-*, Telefon-*, Silas-*, Coheron-*, Vortex-1-*, the Lock labels; Genesis-* modifiers (J76–J79); world names built from bearers' names (J49: Logos-Prime, Kairos-Potentialis, Cerberus-Labyrinth, Mnemosyne-Archipel); Überwelt-Nexus (J63); Wir-AEGIS-plural (J47, J73); Coheronen (J56); Erasure-Pol (J59); Nichts-Rauschen/Rauschen (J51); Kael-Host as a role on Kael (J70); matches that exist only after folding cuts words (J69: Form/K1-Reinform, Einheit/Evaluierungseinheit, η-Werte/Vorhersagbarkeitsabweichungswerte, Fragment/psychische Fragmentierung).",
+  "not_promoted": [
+    "Transitkorridor Delta-7: one table row, Kap 1 ff. (L103)",
+    "Archivar-Klasse-II-Arbeitsraum / Archivar Klasse II: Kael's post, one row (L105)",
+    "Komponente 734: Kael's designation and a foreshadowing anchor (L105, L482–L489); a reading on kael",
+    "Wir-AEGIS-plural: the final name is open elsewhere (J47, J73); L594, L1173",
+    "Mnemosynes Versuchung / Anti-Heilung: a drafting mechanism of §8, recorded on mnemosyne",
+    "Wald des Flüsterns, Ozean-Becken, Mnemosynes Audienz-Raum [V]: KW2 rows (L160–L163)",
+    "Zitadelle / Inneres Bollwerk, Wartungsschächte, Die unbewachten Tore: KW3 rows without chapter (L216–L218)",
+    "Quelle des Flüsterns, Unkartiertes Territorium: Externe-Ebene rows (L328–L329)",
+    "the five foreshadowing strands Landauer, Gödel, Bekenstein, Dasein, Euler (L445–L449): narrative devices (J81)",
+    "the five Genesis motifs Rauschen, Form, Klick, Phantom, Resonanz (L523–L527): narrative devices",
+    "R-1 … R-10 and the hard constraints: drafting rules (§10, §12.6)",
+    "Drei Protokolle — Suppression / Kohärenz / Re-Containment (L1184): recorded on Q2; no page defines them",
+    "13 Meta-Stadien: [V], „Nicht autor-bestätigt\" (L1469)"
+  ],
+  "found_by_rule_not_by_census": [
+    "kaels-wohneinheit (J50)",
+    "datenverarbeitungsknoten-7g (J65)"
+  ],
+  "internal_tension": "strand 1 'Landauer' is themed „Hitze als Symptom der Wahrheitsvertuschung\" (L445) while §2.1 files the Landauer-Signatur under cold ozone (L346); recorded in C11",
+  "baseline_moved": true,
+  "baseline_note": "fold() equality 60% → 58% (trainset.fold_baseline_pct); labelled pairs 67 → 71. J81 is a two-terms pair fold() and the plural rule both get right (40 → 41, 48 → 49); J82–J84 are one-term pairs neither sees — a leading numeral and a short form decided by content. No false merge by either rule. J80 is judgement and not labelled."
+}

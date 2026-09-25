@@ -153,7 +153,7 @@ two counts. Found by the record audit of 2026-09-24, which read the document
 against every record (`Plan/runs/record-audit-2026-09-24/`), and checked here
 line by line.
 
-**It writes `Wächter`, for the Guardians, in the same line as `Guardian`.** Kap
+**It writes `Wächter`, for the [[guardians|Guardians]], in the same line as `Guardian`.** Kap
 31 is „Auflösung der Guardians" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363], and that line ends
 „Leitmotiv: Wächter, die in Lichtstaub aufgehen." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] Its analytic clause
 says „Guardians als Sub-Antagonisten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]; the leitmotif names the same
@@ -182,3 +182,9 @@ line for one bearer, not distinguished — the line documents 7 and 9 carry, wit
 the Wächter now flowing into [[kael|Kael]]. Found by the sweep of decision 012 on the
 [[guardians]] page; recorded here by its rule 3, since the document takes a
 position on this question and the record held nothing from it.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Two compounds, no bare Wächter.** The Überwelt has „Wächter-Konsolen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L286] and a
+`Wächter-Registry`, „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. The word
+is not used on its own; the registry's entries are the two Guardians.

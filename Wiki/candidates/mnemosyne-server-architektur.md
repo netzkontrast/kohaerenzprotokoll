@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne-Server-Architektur
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -25,3 +25,9 @@ konsolidiertes Konzept (L496) and the Kapitel-Kompendium (L232), not attached.
 
 Vortex 1, Beat 1: „AEGIS isoliert Kaels Fragmente in der
 Mnemosyne-Server-Architektur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L595].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The KW2 Vortex setting at Kap 35–36, and its image is open: „Vortex-Setting; primäres Bild noch offen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L162]
+— „Inselgruppe? Server-Halle? Memorialarchitektur? Zirbeldrüse?" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L162]. Listed again as
+encoding-blocking: „beim Vortex-1-Encoding festzulegen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1427].

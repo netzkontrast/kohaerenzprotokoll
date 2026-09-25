@@ -1,10 +1,10 @@
 ---
 term: Datenverarbeitungsknoten 7G
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -54,3 +54,7 @@ Ort der Pflichterfüllung" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06
 Konzept and the Kapitel-Kompendium name the same place Epsilon (L479 and L190 of
 those documents); their readings were not attached when they were read, because
 no rule then joined the two names.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+As „Datenverarbeitungsknoten Epsilon" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L102] (J65): „Kaels Arbeitsplatz; sterile Funktionalität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L102].

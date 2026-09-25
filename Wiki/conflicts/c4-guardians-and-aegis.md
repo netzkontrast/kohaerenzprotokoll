@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 7
+sources: 8
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -113,7 +113,7 @@ holding open**: this document places the [[guardians|Guardians]] inside [[aegis|
 where it has to phrase the relation at all, and then builds a chapter out of
 asking whether that is all they are.
 
-The two earlier positions are unaffected. Document 1's blind spot is AEGIS';
+The two earlier positions are unaffected. Document 1's blind spot is [[aegis|AEGIS]]';
 document 4's is each Guardian's; and this document supplies a third frame — the
 principal–agent problem — in which **both can be true at once**, because a
 delegated agent has its own domain and its own limits:
@@ -188,3 +188,12 @@ atemporal. And why: autopoiesis, „Das erklärt, warum es Juna semantisch nicht
 erfassen kann" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1369], because „Juna existiert außerhalb der axiomatischen Basis
 von AEGIS." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1369] This record held nothing from this document. Found by the
 record audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M1).
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**AEGIS' blindness, and none named for a Guardian.** In the reveal table AEGIS is
+blind to „Juna strukturell" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574], to the K₁-Reinform, and to „die eigene Genesis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
+No Guardian is given a blind spot. The two [[guardians|Guardians]] it names sit in the [[ueberwelt|Überwelt]],
+„Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282], and Mnemosyne is
+„die einzige Stimme im AEGIS-System" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696] who knows more than AEGIS. Nearest to
+the first position: a blindness of AEGIS', not one per Guardian.

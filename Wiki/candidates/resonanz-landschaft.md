@@ -1,10 +1,10 @@
 ---
 term: Resonanz-Landschaft
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Die Resonanz-Landschaft"]
 gathered: "2026-09-17"
 ---
@@ -56,3 +56,8 @@ containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable he
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
 A second name for KW2: „VI.3 KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L483] — written without the hyphen. „Erinnerung als Schauplatz, nicht als Inhalt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L484]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The name is KW2's second: „KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L111].
+„Erinnerung als Schauplatz, nicht als Inhalt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L113] Its logic is „Assoziativ, emotional." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L136]

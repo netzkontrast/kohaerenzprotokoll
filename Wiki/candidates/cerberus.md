@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -111,3 +111,8 @@ Absorbed into the Erasure-Pol, stated twice and the same: „Die alten Cerberus-
 LogOS-, Kairos-Funktionen sind hier absorbiert." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161] and „(Cerberus, in
 Erasure-Pol absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L174]. KW3 keeps the name: „KW3 — Cerberus-Labyrinth"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L174] (J49). Q5.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+Only in KW3's name, „KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L169] (J49); no Cerberus as a
+Guardian. Its dominant logic is „die Erasure-Pol-Logik" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171].

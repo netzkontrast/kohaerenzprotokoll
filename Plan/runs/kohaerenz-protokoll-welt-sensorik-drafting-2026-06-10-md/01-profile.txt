@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md
+  lines                1503  (frontmatter ends at 9)
+  body words           7655
+  headings             62   bold-only lines 19
+  table rows           246   code fences 0
+  question marks       52
+  backslash escapes    1172
+  typographic marks    167   ascii quotes 50
+  invisible characters none
+  math symbol lines    16
+  glued ref numbers    48
+  repeated labels      none
+  longest line         754 chars
+

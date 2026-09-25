@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -108,3 +108,8 @@ sind hier absorbiert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md
 Absorbed into the Erasure-Pol — „Die alten Cerberus-, LogOS-, Kairos-Funktionen
 sind hier absorbiert." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161] — and, in the world table, latent: „(Kairos/Sophia,
 latent)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175]. Two states in one document. Q5.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+Only as a world assignment the document retires: „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] —
+„Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]. KW4 is named `Kairos-Potentialis` (J49).

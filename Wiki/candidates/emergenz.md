@@ -4,7 +4,7 @@ status: candidate
 sources: 7
 readings: 7
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -95,3 +95,9 @@ calls „Emergenz als Mechanik." ^[koharenz-protokoll-strukturierter-outline-202
 
 KW4, a month before Kernwelten vollständig says it in the same words: „Einzige Zone, in der neue Coheronen entstehen können — Emergenz statt Erhaltung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L518]
 Found by the sweep (decision 012).
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A different sense from the page's first readings: here emergence is what KW4 alone
+allows. „Einzige Zone, in der" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] „neue Coheronen entstehen können — Emergenz statt
+Erhaltung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227].
