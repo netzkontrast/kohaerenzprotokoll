@@ -1,0 +1,14 @@
+# kap0-kap40-doppelklammer-abhandlung-2026-05-08-md
+  lines                617  (frontmatter ends at 9)
+  body words           6428
+  headings             37   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       11
+  backslash escapes    0
+  typographic marks    135   ascii quotes 124
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    25
+  repeated labels      Konsequenz, falls angenommen x3, Konsequenz, falls verworfen x3, These x3
+  longest line         761 chars
+

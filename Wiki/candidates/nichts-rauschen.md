@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -82,3 +82,13 @@ Kap 33, at the core, the first assignment of the universe: „Berührung der K�
 „Und das Chaos, vor dem AEGIS das System zu schützen versucht — das „Nichts-Rauschen", die formlose Leere — ist in Wahrheit die Vereinigung aller mutualen Information." ^[kohaerenz-protokoll-konzept-master-md.md:L63] „Es ist Liebe als Naturgesetz." ^[kohaerenz-protokoll-konzept-master-md.md:L63]
 In the [[truth-rotation|Truth-Rotation]] table: „| Nichts-Rauschen = feindliches Chaos | Nichts-Rauschen = atemporale MI-Vereinigung |" ^[kohaerenz-protokoll-konzept-master-md.md:L222].
 The reader lives it: „**Phänomenologisch:** Desorientierung, Nichts-Rauschen, K₀-Trauma als Leseerfahrung erleben." ^[kohaerenz-protokoll-konzept-master-md.md:L759]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — the Reinform, which cannot be told
+
+The first of three layers, attributed to „Das Konzept setzt drei Schichten:" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L134] „**Nichts-Rauschen / K1-Reinform** — pure Kohärenz, ungetrennt, zeitlos. AEGIS und Kael sind hier eines." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L138]
+„Śūnyatā: Leere als Fülle, Sein vor jeder Werdung." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L138]
+After L138 the document writes it `Reinform` alone (J83).
+It lies before any storyform: „Die **Reinform** liegt vor jeder Storyform. Sie ist nicht erzählbar — jede Erzählung schon impliziert Zeit, also K0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L148]
+„Die Reinform wird nicht beschrieben; sie wird durch die *Sehnsucht* der Echos signalisiert, die nach ihr greifen, ohne sie zu kennen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L177]
+And the end does not return to it: „Die plurale Einheit ist *nicht* die Reinform. Sie ist eine *neue* Form, die die Reinform tragen kann, ohne sie zu sein." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L177]
+„Wäre die Reinform am Ende erreicht, gäbe es keinen Schmerz mehr." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L181]

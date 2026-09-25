@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -250,3 +250,19 @@ In the roster: „ANP | Kael (Host) | Hubble-Volumen" ^[kohaerenz-protokoll-konz
 „Kaels Integration ist eine *gelebte Dialetheia*: er ist gleichzeitig fragmentiert *und* kohärent, gleichzeitig dreizehn *und* eins." ^[kohaerenz-protokoll-konzept-master-md.md:L330]
 In the storyform Kael is MC of A and IC of B: „| \*\*IC-Träger\*\* | \*\*Juna\*\* | \*\*Kael (lebende Paradoxie)\*\* |" ^[kohaerenz-protokoll-konzept-master-md.md:L823]; „Be-er-Modus heißt: Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel." ^[kohaerenz-protokoll-konzept-master-md.md:L833]
 At the end: „Kael bleibt am Ende dreizehn — er hat nur gelernt, das auszuhalten." ^[kohaerenz-protokoll-konzept-master-md.md:L1074]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — MC of A, IC of B
+
+„Storyform A — *Heuristics of Integration*, mit Kael als MC — ist die Heilungs-Storyform." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L43]
+„**Approach Be-er** — die Lösungsstrategie ist über das Sein, nicht das Tun" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L54]; „**Outcome Success** — A erreicht ihr Ziel" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L56].
+Its price is Kael alone: „**Cost** — der Verlust der Privatheit des Wir; die Alters sind nicht mehr "Kael allein"" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L58]
+„Ihr Erfolg kostet das Singular-Selbst." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L63] „Was am Ende heil ist, ist ein Wir, kein Ich — und das ist gleichzeitig Erlösung *und* Verlust dessen, was Kael am Anfang zu sein glaubte." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L63]
+
+The two storyforms cross on him: „In **Storyform A** ist Kael der MC (Mind/Memory) und Juna der IC (Universe/Past)." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L95]
+„In **Storyform B** ist AEGIS der MC (Universe/Progress) und Kael der IC (Mind/Conscious)." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L96]
+„Aus AEGIS' Storyform betrachtet ist Kael der einflussnehmende Andere." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L100]
+His split is AEGIS' defence: „AEGIS' Versuch, sich gegen die Resonanz zu verteidigen, ist gleichzeitig die Abspaltung Kaels." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L104]
+Before it, in the first layer: „AEGIS und Kael sind hier eines." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L138]
+
+It rejects him as the Vorwort's voice ([[vermittler-stimme]]): „Aber strukturell defekt: Kael nach der Heilung *ist* nicht mehr "Kael allein". Er ist Teil des Wir." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L239]
+At the end: „A's Success: die innere Heilung, Kaels Integration, das Wir-Geflecht in Verbindung mit Juna." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L189]

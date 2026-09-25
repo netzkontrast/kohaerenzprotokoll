@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 14
-readings: 13
+sources: 15
+readings: 14
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -200,3 +200,11 @@ The count is fixed in a heading: „Kaels System (kanonisch — exakt 13 Alters)
 Fifteen names are excluded: „**Decanonisiert (nie verwenden):** Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-konzept-master-md.md:L408]
 The mirror alters take over part of the Guardians' work: „2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
 Each alter has a physics correlate, and the document says how to read it: „Diese Korrelate sind *strukturell*, nicht ersetzend." ^[kohaerenz-protokoll-konzept-master-md.md:L441]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — the Echos become their voices
+
+Storyform A's price: „**Cost** — der Verlust der Privatheit des Wir; die Alters sind nicht mehr "Kael allein"" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L58]
+In Kap 0 they are what AEGIS files as noise, and in Kap 40 the Wir: „In Kap 40 sind diese Echos die Stimmen des Wir — Lex, Nyx, Kiko, Mira, alle." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327] (see [[residual-echos]]).
+`Mira` stands in no other landed document (`corpus.py count Mira`: 1 document, 1 occurrence).
+Kap 40's voice carries them unmarked: „ein Atemzug klingt nach Lex, einer nach Nyx, einer nach Kiko —, ohne dass es als Polyphonie markiert wird." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L335]
+The healed form holds them apart: „Sie sind verbunden, aber unterscheidbar — wie Kael und seine Alters in der gehealten Form." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L197]

@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -80,3 +80,8 @@ Her label is `Freeze`; no voice in the document carries `Flight` (C15).
 „EP | Kiko (Freeze) | Planck-Skala | Sich klein machen | → Vertrauen" ^[kohaerenz-protokoll-konzept-master-md.md:L394]
 The riss: „Freeze (Kiko) | temporal" ^[kohaerenz-protokoll-konzept-master-md.md:L1048]. The voice in Akt I: „Kiko kindlich." ^[kohaerenz-protokoll-konzept-master-md.md:L1032]
 Kiko carries Freeze and nothing else here; Flight is given to Lia and [[isabelle|Isabelle]], implicitly (L1049; C15).
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — one of the Wir's voices in Kap 40
+
+Named, not profiled: „In Kap 40 sind diese Echos die Stimmen des Wir — Lex, Nyx, Kiko, Mira, alle." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327] — the echoes AEGIS filed as noise in Kap 0 ([[residual-echos]]).
+Kap 40's voice lets each be heard without a label: „ein Atemzug klingt nach Lex, einer nach Nyx, einer nach Kiko —, ohne dass es als Polyphonie markiert wird." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L335]

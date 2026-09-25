@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["aegis"]
 ---
 
@@ -100,3 +100,10 @@ remains part of the record.
 „| MC Approach | \*\*Be-er\*\* | \*\*Do-er\*\* |" ^[kohaerenz-protokoll-konzept-master-md.md:L809], MC of B being AEGIS (L820).
 „Do-er-Modus: AEGIS' Antworten sind Aktionen — Erasure-Sweeps, Protokoll-Deployments, Guardian-Aktivierungen." ^[kohaerenz-protokoll-konzept-master-md.md:L841]
 Its status: `Canon-Sync 2026-05-07`, listing „Storyform Lock-In, Approach-Korrektur" ^[kohaerenz-protokoll-konzept-master-md.md:L21]. The same value and the same date as the Dramatica lock-in's mirrored Approach; one more source of 2026-05-08 carrying the new value where the character bible of that day carries the old.
+
+## 2026-09-25 — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+**Do-er in B, Be-er in A — the lock-in's values, with the mirror as the frame's axis.**
+„**Approach Do-er** — die Lösungsstrategie ist über das Tun" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L78] for Storyform B, „**Approach Be-er** — die Lösungsstrategie ist über das Sein, nicht das Tun" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L54] for A.
+The document builds Kap 0 and Kap 40 on the pair: „Kap 0 ist Driver Action / Approach Do-er." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L392] „Kap 40 ist Driver Decision / Approach Be-er." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L396]
+No correction is named; it gives the values of the Dramatica lock-in of 2026-05-07 without citing it. The side of the master report and against the character bible, all three dated 2026-05-08.

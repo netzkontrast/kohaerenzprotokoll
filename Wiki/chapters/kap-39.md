@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -51,6 +51,10 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Sensorik: „Sensorik: Wir-Geflecht erweitert; Junas Stimme als Teil/als Raum; Schmerz und Liebe als denselben Pulsschlag.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1038]
 - Genesis echo: „Genesis 4. Beat vollzogen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1038] · „Beat 4 — Wir = AEGIS-plural. In Kap 39 vollzogen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L74]
 - Throughline: „sie löst sich in Kap 39, wenn klar wird, dass Kael und AEGIS ontologisch dasselbe sind.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L701]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+- Genesis: „**Wir = AEGIS-plural** — in Kap 39 vollzogen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L161] · „Beat 4 ist Kap 39." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

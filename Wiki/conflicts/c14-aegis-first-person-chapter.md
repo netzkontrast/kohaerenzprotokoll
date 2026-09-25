@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 10
+sources: 11
 pages: ["aegis"]
 ---
 
@@ -87,3 +87,10 @@ No chapter in Kap 5–8 is named.
 „Alle 13 erzählen in der 1. Person. AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-konzept-master-md.md:L404]
 In the routing table: „AEGIS — 3. Person | B" ^[kohaerenz-protokoll-konzept-master-md.md:L877].
 No first-person chapter and no inner view is named. The side of the character bible and the konsolidiertes Konzept, its date.
+
+## 2026-09-25 — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+**Kap 0 in the first person — the Funken-Ich's, scaling into description of AEGIS; no AEGIS chapter is named.**
+Its diagnosis of a Kap-0 draft asks for the first voice back: „Beide Defekte verschwinden, wenn die Krise wieder in der ersten Stimme geschrieben wird — fluide skalierend zwischen Funken-Ich-Erleben und AEGIS-Beschreibung-in-Bildern, ohne theoretischen Beobachter dazwischen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L430]
+Kap 0 ends on „"Ich falle... in unzählige Scherben…"" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L364], the Funken-Ich's. And it forbids the draft to have AEGIS spoken about in theory: „AEGIS würde *operational sein*, nicht *operational geschlossen klassifiziert werden*." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L422]
+The Funken-Ich is the origin AEGIS comes from, before the [[trennungsprotokoll|Trennungsprotokoll]]; whether its first person is AEGIS' is not said. The [[vermittler-stimme|Vermittler-Stimme]] is argued to be Wir-AEGIS-plural (L227). It speaks to the question of an inside for AEGIS without naming AEGIS' voice in chapters 1–39.

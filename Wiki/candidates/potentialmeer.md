@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -48,3 +48,9 @@ AEGIS' Verletzlichkeit." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - sensed at simulation boundaries in chapter 21: „spürt Potentialmeer“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — where the Ursprungs-Ich is, before Kap 0
+
+One line, among what comes before Storyform B is active: „Es gibt das Ursprungs-Ich im Potentialmeer, das Funken-Ich in der Werdung, das frühe Cluster, den Sog der Ordnung" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]
+„alles das ist nicht "B in Aktion", sondern *die Werdung der Voraussetzungen für B*." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]
+The Potentialmeer is not defined here; the first beat's other party is the Reinform (L158; [[nichts-rauschen]]).

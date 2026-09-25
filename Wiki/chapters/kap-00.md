@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 7
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 8
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 records: ["C3", "C10", "C12"]
 gathered: "2026-09-25"
 ---
@@ -43,6 +43,20 @@ Position: „VIII.3 Kap 0 — Genesis komplett“ ^[koharenz-protokoll-konzept-k
 - Link to Kap 1: „Dieser Schluss schließt nahtlos an Kap 1 an — Kael erwacht in Kernwelt 1 ohne Erinnerung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L793]
 - Storyform: „spezifisch — B's eigene MC-Throughline“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L756] · „nur B aktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L757]
 - Formula: „Anfang (Kap 0): AEGIS ist, was AEGIS verhindert, dass es nicht ist.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L79]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+Position: „Kap 0 ist die Genesis der Storyform-Trennung." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L29]
+
+- Storyform: „Kap 0 ist die einzige Bewegung in der gesamten 41-Kapitel-Architektur, in der die Storyforms *sich erzeugen*, statt schon erzeugt zu sein." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L124] · „Vor Kap 0 gibt es noch *keine* B-Storyform im aktiven Sinn." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]
+- Genesis: „Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] · „In Kap 0 wird Beat 1 nicht erzählt" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L165]
+- Vorwort: „Der Erzähler des Vorworts in Kap 0 spricht den Leser direkt an." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L211] · proposed: „Die Vermittler-Stimme im Vorwort von Kap 0 *ist* Wir-AEGIS-plural" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L544]
+- Crisis: „In Kap 0 wird sie in der Krise-Sequenz (Resonanzkaskade) erlebt" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L307] · proposed: „in dem es Wärme spürt, Wiedererkennen, Heim." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315]
+- Echos: „In Kap 0, in der Komponente-734-Sequenz, erscheinen die Echos des Ursprungs-Ichs" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L323]
+- Formula: „Kap 0: *AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L343] · „In Kap 0 ist das der Klick — der Moment des großen Wandels, das fallende Glas, das Einrasten." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L352]
+- Ending: „"Ich falle... in unzählige Scherben…"" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L364]
+- Storyform accent: „Kap 0 ist Driver Action / Approach Do-er." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L392] · „Konsequenz für Kap 0: ein Text der Verben." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L400]
+- Method: written with Kap 40, move by move — „*dann sofort* die korrespondierende Echo-Bewegung in Kap 40" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L500]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -106,5 +120,5 @@ Position: „Genesis-Prolog | 0 | Latenz“ ^[kp-plot-konkretisierung-13-ideen-f
 
 ## Where the sources differ
 
-- **Genesis beats.** „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L787] (konsolidiertes Konzept) · „Genesis-Sequenz: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] (strukturierter Outline) · „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (Kernwelten vollständig) — five named stages, six, or four beats. (C12)
-- **Storyform A.** „nur B aktiv, A als Phantom-Latenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L213] (strukturierter Outline) · „nur B (MC-S1 Past); A als Phantomgefühl“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] (Kapitel-Kompendium) — A named a latency or a phantom feeling.
+- **Genesis beats.** „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L787] (konsolidiertes Konzept) · „Genesis-Sequenz: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] (strukturierter Outline) · „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (Kernwelten vollständig) · „Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] (Doppel-Klammer Abhandlung) — five named stages, six, four beats, or two of four. (C12)
+- **Storyform A.** „nur B aktiv, A als Phantom-Latenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L213] (strukturierter Outline) · „nur B (MC-S1 Past); A als Phantomgefühl“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] (Kapitel-Kompendium) — A named a latency or a phantom feeling. The Doppel-Klammer Abhandlung, citing a `Storyweaving-Dokument` for the phantom reading, says B is not active either until the Klick: „Das ist nicht falsch, aber es verdeckt eine subtilere Wahrheit: Vor Kap 0 gibt es noch *keine* B-Storyform im aktiven Sinn." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]

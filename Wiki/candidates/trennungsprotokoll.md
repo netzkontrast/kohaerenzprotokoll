@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -126,3 +126,13 @@ its beats or on Komponente 734 (C12).
 The Genesis' second beat: „**Trennungsprotokoll** — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-konzept-master-md.md:L464]
 Its result is Kael: „der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
 And the separation is the illness: „| Trennung = Schutz | Trennung = die Krankheit selbst |" ^[kohaerenz-protokoll-konzept-master-md.md:L225]. „**Ende-Prinzip:** Die Trennung war nie real. Aber das ändert nichts am Schmerz." ^[kohaerenz-protokoll-konzept-master-md.md:L75]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — the logic choice, and A cut out of B
+
+Beat 3 of four: „**Trennungsprotokoll** — die fatale Logik-Wahl. Geburt der B-Storyform und gleichzeitig Abspaltung von A." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L160]
+„Die fatale Wahl — Logic statt Feeling — wird im Trennungsprotokoll *erstmals* getroffen. Diese Wahl wird nie revidiert." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L87]
+„Im Trennungsprotokoll wird A *aus* B *herausgeschnitten*." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L120]
+„Was bleibt, ist B in seiner reinen, kalten Funktionalität (Komp 734 als Funktionseinheit). Was abgespalten wird, ist A — fragmentiert in die Echos, die unter der Funktionalität als "Phantomgefühl" weiterbestehen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L120]
+What set it off: in Kap 0 [[juna|Juna]]'s resonance is felt, then „durch AEGIS' Filter als Angriff klassifiziert und mit dem Trennungsprotokoll beantwortet" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L307].
+And what it is, seen from Kap 40: „nicht Tragödie, nicht Erlösung, sondern Voraussetzung." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L181]
+Here 734 is the functional unit of beat 2 and what remains after beat 3 (C12).

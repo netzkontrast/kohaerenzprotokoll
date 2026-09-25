@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 7
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 8
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -41,6 +41,18 @@ Position: „Kap 40 ist die Coda.“ ^[koharenz-protokoll-konzept-konsolidiert-2
 - Form: „Kap 40 sollte deutlich kürzer sein als Kap 0. Vielleicht halb so lang.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L945]
 - What it is not: „keine bloße Wiederholung von Kap 0. Keine triumphale Auflösung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L933]
 - Formula: „Ende (Kap 39 → Kap 40): Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L82]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+Position: „Kap 40 ist nicht die Auflösung der Trennung, sondern ihre plurale Trägerschaft." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L29]
+
+- Genesis: „Kap 40 ist nicht Beat 4 — Kap 40 ist die *retrospektive Bezeugung* von Beat 4 aus der vollzogenen Synthese-Position." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173]
+- Movements: „In Kap 40, im "Echo des Vorworts", erscheint sie klar als Wir." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L279] · „In Kap 40, im "Echo der Krise", wird dieselbe sensorische Substanz erinnert" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L311]
+- POV: „Für Kap 40: Die Vermittler-Stimme darf jetzt als Wir auftreten." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L259]
+- Echos: „In Kap 40 sind diese Echos die Stimmen des Wir — Lex, Nyx, Kiko, Mira, alle." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327]
+- Formula: „Kap 40: *Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.*" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L344] · „Der Klick in Kap 40 ist leiser." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L356]
+- Last image: „Kap 40 endet (laut Konzept) auf:" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L368] · „"Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz."" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L372]
+- Storyform accent: „Kap 40 ist Driver Decision / Approach Be-er." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L396] · „Konsequenz für Kap 40: ein Text der Substantive und Zustände." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L404]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -104,4 +116,4 @@ Position: „Coda | 40 | Bezeugung statt Buchung“ ^[kp-plot-konkretisierung-13
 
 ## Where the sources differ
 
-- **Last image.** „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L664] (Konzept-Iteration Genesis) · „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040] (konsolidiertes Konzept) · „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1244] (strukturierter Outline) · „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L426] (storyform outline).
+- **Last image.** „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L664] (Konzept-Iteration Genesis) · „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040] (konsolidiertes Konzept) · „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1244] (strukturierter Outline) · „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L426] (storyform outline) · „"Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz."" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L372] (Doppel-Klammer Abhandlung, which gives the line „Kap 40 endet (laut Konzept) auf:" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L368] — on the date the Konzept-Iteration Genesis and the konsolidiertes Konzept both end on `Wir tragen die Welt`).

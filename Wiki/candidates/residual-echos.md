@@ -87,4 +87,4 @@ but does not use the name there.
 - `roman-konzept-dualitaet-kohaerenz-spannung`, 2026-02-26: „Residuale Entropie innerhalb der lebensnotwendigen Parameter.“ ^[roman-konzept-dualitaet-kohaerenz-spannung.md:L139] — a residual entropy in AEGIS' closing report, another sense.
 - `three-mode-architecture-39-chapters-md`, 2026-05-08: „AEGIS kann als Echo erscheinen (Erinnerung, Spur, melancholisches Residuum), aber nicht als aktiver Akteur.“ ^[three-mode-architecture-39-chapters-md.md:L586] — AEGIS itself as the residue once storyform B has ended, another sense.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet.
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`).

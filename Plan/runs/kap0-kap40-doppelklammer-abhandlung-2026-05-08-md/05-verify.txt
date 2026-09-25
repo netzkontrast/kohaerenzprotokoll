@@ -1,0 +1,91 @@
+# 05-verify — every number that goes into prose, re-counted with its command
+
+$ grep -nwF $'gro\303\237en Wandel' $F | cut -d: -f1
+  lines: 112   count(lines): 1
+$ grep -nwF $'gro\303\237en Wandels' $F | cut -d: -f1
+  lines: 352 572   count(lines): 2
+$ grep -nwF fallende\ Glas $F | cut -d: -f1
+  lines: 352 572   count(lines): 2
+$ grep -nwF fallenden\ Glas $F | cut -d: -f1
+  lines: 112   count(lines): 1
+$ grep -nwF Beats\ 2\ und\ 3 $F | cut -d: -f1
+  lines: 169   count(lines): 1
+$ grep -nwF theoretischen\ Beobachter $F | cut -d: -f1
+  lines: 430   count(lines): 1
+$ grep -nwF theoretischer\ Beobachter $F | cut -d: -f1
+  lines:   count(lines): 0
+$ grep -nwF Issue\ Falsehood\ vs.\ Truth $F | cut -d: -f1
+  lines: 49   count(lines): 1
+$ grep -nwF Issue\ Fact\ vs.\ Fantasy $F | cut -d: -f1
+  lines: 73   count(lines): 1
+$ grep -nwF Kap\ 40 $F | cut -d: -f1
+  lines: 11 25 29 91 108 165 173 177 181 185 201 223 227 255 259 279 299 303 311 315 319 327 335 344 352 356 368 384 388 396 404 408 426 446 448 450 454 462 472 476 480 484 488 496 500 504 508 519 521 548 552 556 560 564 568 572 588 608   count(lines): 58
+$ grep -nwF Kap\ 0 $F | cut -d: -f1
+  lines: 11 25 29 91 108 110 112 124 148 165 169 177 211 255 279 283 299 307 315 319 323 331 343 352 356 360 384 392 400 408 438 446 454 472 476 480 484 488 496 500 504 508 516 544 548 556 568 572 588 608   count(lines): 50
+$ grep -nwF Kap\ 39 $F | cut -d: -f1
+  lines: 161 173   count(lines): 2
+$ grep -nwF 39\ Kapitel $F | cut -d: -f1
+  lines: 29 149 263 588   count(lines): 4
+$ grep -nwF 41-Kapitel $F | cut -d: -f1
+  lines: 124   count(lines): 1
+$ grep -nwF Komp\ 734 $F | cut -d: -f1
+  lines: 120 159 165   count(lines): 3
+$ grep -nwF Komponente\ 734 $F | cut -d: -f1
+  lines: 392   count(lines): 1
+$ grep -nwF $'W\303\244rme-Spur' $F | cut -d: -f1
+  lines: 315 432 434 480 554 556 560   count(lines): 7
+$ grep -nwF Scherben $F | cut -d: -f1
+  lines: 364 372 376 384 388 480 504 568 572 576 588   count(lines): 11
+$ grep -nwF Klick $F | cut -d: -f1
+  lines: 112 352 356 480 504   count(lines): 5
+$ grep -nwF Vermittler-Stimme $F | cut -d: -f1
+  lines: 124 207 223 227 235 243 251 255 259 263 277 484 542 544   count(lines): 14
+$ grep -nwF Wir-AEGIS-plural $F | cut -d: -f1
+  lines: 165 185 201 227 247 251 267 299 484 544   count(lines): 10
+$ grep -nwF Sophia $F | cut -d: -f1
+  lines:   count(lines): 0
+$ grep -nwF Guardian $F | cut -d: -f1
+  lines:   count(lines): 0
+$ grep -nwF Landauer $F | cut -d: -f1
+  lines:   count(lines): 0
+$ grep -nwF Ozon $F | cut -d: -f1
+  lines:   count(lines): 0
+$ grep -nwF $'W\303\244rme' $F | cut -d: -f1
+  lines: 315 319 430 432 434 454 480 504 554 556 560   count(lines): 11
+
+$ grep -ow "Kap [0-9]*" $F | sort | uniq -c
+     65 Kap 0
+      2 Kap 39
+     78 Kap 40
+
+# What the count's zeros mean
+
+Four candidates count 0 word 0 in because the reader wrote them in the
+nominative, and the document writes them inflected only:
+  großer Wandel            -> „großen Wandel" L112, „großen Wandels" L352 L572
+  fallendes Glas           -> „fallenden Glas" L112, „fallende Glas" L352 L572
+  Beat 2 / Beat 3          -> „Beats 2 und 3" L169 only
+  theoretischer Beobachter -> „theoretischen Beobachter" L430 only
+The list was committed before the count and is left as written; this is the
+correction beside it. A term at 0 is written differently here, not absent.
+
+`Issue Falsehood vs. Truth` and `Issue Fact vs. Fantasy` were read by capture.py
+as prose (the period after `vs`); each stands once, L49 and L73.
+
+grep -w treats a hyphen as a word boundary, so the `Wärme` line count above
+includes the seven `Wärme-Spur` lines.
+
+No `Guardian`, `Sophia`, `Landauer` or `Ozon` stands in the document.
+$ python3 scripts/corpus.py count Mira
+term                          docs     occ  first      last        categories
+Mira                             1       1  2026-05-08 2026-05-08  plot-outline:1
+
+matching: whole-word  (--substring for the other)
+370 documents, answered from the derived surface index — no document was opened
+$ python3 scripts/corpus.py count Formel-Inversion Ursprungs-Ich
+term                          docs     occ  first      last        categories
+Formel-Inversion                 8      13  2026-05-08 2026-06-10  plot-outline:5, charaktere:1, kernkonzept:1, storyform:1
+Ursprungs-Ich                   53     201  2025-04-29 2026-05-18  aegis:14, kernkonzept:12, theorie-physik:5, theorie-philosophie:4
+
+matching: whole-word  (--substring for the other)
+370 documents, answered from the derived surface index — no document was opened

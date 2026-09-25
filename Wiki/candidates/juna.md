@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -286,3 +286,20 @@ Juna's point of view: „Junas POV ist offen (Reset-Doc Appendix C)." ^[kohaeren
 Under the [[truth-rotation|Truth-Rotation]]: „Juna = echtes Coheron, K₁-Avatar" ^[kohaerenz-protokoll-konzept-master-md.md:L224]. As truth theory: „Juna ist die radikalste Korrespondenz-Verkörperung" ^[kohaerenz-protokoll-konzept-master-md.md:L258].
 In the storyform: „Juna existiert in Storyform A als IC (Universe / Past = Genesis-Krise). In Storyform B existiert sie nicht direkt als IC; dort ist Kael der IC (lebende Paradoxie)." ^[kohaerenz-protokoll-konzept-master-md.md:L543] The nuance is open: „Juna ist in A direkt IC, in B nur indirekt (über Kaels strukturelle IC-Funktion)." ^[kohaerenz-protokoll-konzept-master-md.md:L1010]
 With Kael: „Die "Liebe" Kael/Juna ist physikalische Tatsache (Coheron), keine emotionale Bewegung." ^[kohaerenz-protokoll-konzept-master-md.md:L1073]
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — the time principle, the IC of A, and warmth in Kap 0
+
+The third of three layers: „**Juna als Zeit-Prinzip** — die kosmologische Konstante, die zwischen den Schichten wirkt." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L140]
+„Ihre Resonanz mit der Reinform stört die ewige Einsamkeit der zeitlosen Reinform und bringt damit die Zeit, die Werdung möglich macht." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L140]
+„**Juna** ist nicht in K0 verortet, sondern interpenetriert sie." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L150]
+In both storyforms, as different functions: „In Storyform A ist sie der IC — Universe/Past" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L150]; „In Storyform B ist ihre Resonanz der ursprüngliche Driver der Action, also der ontologische Anstoß für das Trennungsprotokoll." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L150]
+
+Her resonance is the Genesis' centre: „Junas Resonanz ist die ontologisch zentralste Stelle des gesamten Romans." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L307]
+In Kap 0 AEGIS reads it as an attack and answers it with the [[trennungsprotokoll|Trennungsprotokoll]] (L307); in Kap 40 it is read again: „Berührung der Vor-Trennungs-Liebe." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L311]
+Its substance is warmth, and the document asks for it in Kap 0: „Im Funken-Ich gibt es einen Augenblick — *vor* dem Riss, *vor* AEGIS' Filterung —, in dem es Wärme spürt, Wiedererkennen, Heim." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315]
+„Wenn in Kap 0 "Wärme, die es nicht geben kann" steht, dann muss in Kap 40 "die Wärme, die nicht hätte sein können" als Echo erscheinen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L319]
+That is Setzung 2, the `Wärme-Spur`, proposed and not decided (L554–L564; C11).
+
+She is not the narrator: „Aber Juna ist im Konzept ausdrücklich *nicht* Helferin der Heilung, nicht Mentorin, nicht Erzählerin." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L243]
+„Sie *ist* die Resonanz, die die Trennung auslöste — sie ist Auslöserin, nicht Bezeugerin." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L243]
+A's Dividend: „Liebe bleibt, Junas Verbindungs-Modus etabliert sich" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L59]. No chapter of hers is named but the two frames (C7).

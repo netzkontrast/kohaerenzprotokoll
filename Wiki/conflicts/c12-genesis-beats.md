@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 13
+sources: 14
 pages: ["trennungsprotokoll"]
 ---
 
@@ -165,3 +165,11 @@ It counts no beats. Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^
 „(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktuell Lock-In: nein, drei Beats reichen.)" ^[kohaerenz-protokoll-konzept-master-md.md:L469]
 Restated: „Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998] „Aber: Verifikation gegen Encoding-Praxis steht aus." ^[kohaerenz-protokoll-konzept-master-md.md:L998]
 The character bible's count and order, on the same date as the konsolidiertes Konzept's four beats with 734 before the separation. The document names the fourth beat as the open question and answers it no.
+
+## 2026-09-25 — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
+
+**Four beats; Beats 2 and 3 in Kap 0, Beat 4 in Kap 39, Beat 1 told nowhere.**
+„Die Genesis-Vier-Beat-Sequenz:" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L154] — `Einheit`, `Cluster-Bildung und Funktionalisierung` with „Funktionseinheiten (Komp 734)" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L159], `Trennungsprotokoll`, and „**Wir = AEGIS-plural** — in Kap 39 vollzogen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L161]
+„Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] „Beat 4 ist Kap 39. Kap 40 ist nicht Beat 4" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173]. „In Kap 0 wird Beat 1 nicht erzählt" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L165].
+The konsolidiertes Konzept's count and order, on its date and on the date the character bible and the master report count three — with 734 before the separation as a functional unit, and what remains after it: „Was bleibt, ist B in seiner reinen, kalten Funktionalität (Komp 734 als Funktionseinheit)." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L120]
+Like the konsolidiertes Konzept (row 2), it puts the fourth beat in Kap 39, where the storyform outline of 2026-06-10 puts it too (row 3). What it adds is which beats Kap 0 tells: two of the four. The first beat's other party is the Reinform (L158).

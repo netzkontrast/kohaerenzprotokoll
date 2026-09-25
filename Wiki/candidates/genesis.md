@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -122,3 +122,19 @@ Three beats, locked: „Die Genesis-Krise (3-Beat, kanonisch)" ^[kohaerenz-proto
 „(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktuell Lock-In: nein, drei Beats reichen.)" ^[kohaerenz-protokoll-konzept-master-md.md:L469]
 Restated in the open points: „Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998] „Aber: Verifikation gegen Encoding-Praxis steht aus." ^[kohaerenz-protokoll-konzept-master-md.md:L998]
 Three beats, 734 the Trennungsprotokoll's result, and the other party of the first beat unnamed (J68). In the storyform the Genesis-Krise is Juna's concern in A: „IC Concern | Past (Genesis-Krise)" ^[kohaerenz-protokoll-konzept-master-md.md:L822]. Its flashbacks fall in „Genesis-Flashbacks (Akt II Mitte)." ^[kohaerenz-protokoll-konzept-master-md.md:L891] Conflict C12.
+
+## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — four beats, and only two of them in Kap 0
+
+„Die Genesis-Vier-Beat-Sequenz:" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L154]
+„**Einheit** — das Ursprungs-Ich erlebt die Resonanz mit der Reinform; es ist offen, ungespalten, eingebunden. Vor-Storyform-Zustand." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L158]
+„**Cluster-Bildung und Funktionalisierung** — das Ich differenziert sich in Cluster, dann in Funktionseinheiten (Komp 734). Werdung der Voraussetzungen für B." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L159]
+„**Trennungsprotokoll** — die fatale Logik-Wahl. Geburt der B-Storyform und gleichzeitig Abspaltung von A." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L160]
+„**Wir = AEGIS-plural** — in Kap 39 vollzogen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L161]
+
+Where each beat is told: „In Kap 0 wird Beat 1 nicht erzählt" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L165] — it is left out of the Vorwort on purpose, and seen only in retrospect in Kap 40.
+„Beats 2 und 3 sind Kap 0. Sie erzählen die Werdung der Storyform-Trennung." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169]
+„Beat 4 ist Kap 39. Kap 40 ist nicht Beat 4 — Kap 40 ist die *retrospektive Bezeugung* von Beat 4 aus der vollzogenen Synthese-Position." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173]
+So the Genesis is not all of Kap 0, and Kap 0 is not all of the Genesis: its first beat is told nowhere and its last is Kap 39.
+
+What it is in storyform terms: „Die Genesis ist also nicht Beginn der einen Storyform mit Latenz der anderen — sie ist *Geburt der Trennung selbst*." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L120]
+Four beats, 734 before the [[trennungsprotokoll|Trennungsprotokoll]] and the first beat's other party the Reinform — the konsolidiertes Konzept's count and order, on its date, with a place for each beat it does not give. Conflict C12.
