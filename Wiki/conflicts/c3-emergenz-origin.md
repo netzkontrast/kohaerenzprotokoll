@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 6
+sources: 7
 pages: ["emergenz", "aegis"]
 ---
 
@@ -99,3 +99,10 @@ Hälfte, die AEGIS sich abgeschnitten hat" ^[koharenz-protokoll-konzept-konsolid
 the document gives both, a split in the Trennungsprotokoll and „entstand aus
 Kael" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208], 145 lines apart. Recorded, not reconciled. Found by the record audit of
 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M5).
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**AEGIS comes out of the Genesis crisis, and Kael out of AEGIS' act.** „Die ursprüngliche Trauma-Episode in AEGIS' Entstehung." ^[kohaerenz-protokoll-konzept-master-md.md:L459]
+In its second beat AEGIS initiates the separation (L464), and „der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
+So AEGIS precedes [[kael|Kael]] here; nothing has AEGIS arise from Kael's defence. In the matrix it is
+„Spiegel-Doppel von Kael auf System-Ebene" ^[kohaerenz-protokoll-konzept-master-md.md:L960]. Nearest to the third position, and not the same.
