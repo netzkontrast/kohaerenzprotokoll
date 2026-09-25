@@ -1,0 +1,268 @@
+{
+  "document": "kohaerenz-protokoll-konzept-master-md",
+  "drive_id": "1jeSj6x28NBwj44ZUOnZ_asWay3QIbMfYZ5AayF4lU0k",
+  "step": "probes",
+  "at": "2026-09-25",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 22,
+  "backslash_escapes": 345,
+  "typographic_marks": 139,
+  "ascii_quotes": 57,
+  "inflection_families": {
+    "beoba": [
+      "Beobachtbar",
+      "Beobachten",
+      "Beobachter",
+      "Beobachterproblem",
+      "Beobachtet",
+      "Beobachtung",
+      "Beobachtungsakt"
+    ],
+    "korre": [
+      "Korrektur",
+      "Korrekturen",
+      "Korrelat",
+      "Korrelate",
+      "Korrespondenz",
+      "Korrespondenztheorie",
+      "Korrespondenzwahrheit"
+    ],
+    "konst": [
+      "Konstante",
+      "Konstatierungen",
+      "Konstatierungs",
+      "Konstitutiv",
+      "Konstrukt",
+      "Konstruktion"
+    ],
+    "roman": [
+      "Roman",
+      "Romane",
+      "Romans",
+      "Romantitel",
+      "Romantitels",
+      "Romanwelt"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbeobachtungsfunktion",
+      "Selbstdefinition",
+      "Selbstkorrigierende",
+      "Selbstreferenz",
+      "Selbstreferenzfähigkeit"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen",
+      "Strukturkanon",
+      "Strukturmerkmal"
+    ],
+    "syste": [
+      "System",
+      "Systemfehler",
+      "Systemfeld",
+      "Systemische",
+      "Systems",
+      "Systemversagen"
+    ],
+    "klass": [
+      "Klasse",
+      "Klassifikation",
+      "Klassifikationssystems",
+      "Klassisch",
+      "Klassischer"
+    ],
+    "kohär": [
+      "Kohärentist",
+      "Kohärenz",
+      "Kohärenzprotokoll",
+      "Kohärenztheoretiker",
+      "Kohärenztheorie"
+    ],
+    "opera": [
+      "Operation",
+      "Operationen",
+      "Operativ",
+      "Operative",
+      "Operator"
+    ],
+    "phäno": [
+      "Phänomen",
+      "Phänomena",
+      "Phänomene",
+      "Phänomenologie",
+      "Phänomenologisch"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforming",
+      "Storyforms",
+      "Storypoint"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheits",
+      "Wahrheitstheorie",
+      "Wahrheitstheorien",
+      "Wahrheitstypen"
+    ],
+    "bewus": [
+      "Bewusstes",
+      "Bewusstsein",
+      "Bewusstseinen",
+      "Bewusstseins"
+    ],
+    "diale": [
+      "Dialetheia",
+      "Dialetheic",
+      "Dialetheien",
+      "Dialetheismus"
+    ],
+    "doppe": [
+      "DOPPEL",
+      "Doppel",
+      "Doppelbegehren",
+      "Doppelrolle"
+    ],
+    "erken": [
+      "Erkenntnis",
+      "Erkenntnisfähigkeit",
+      "Erkenntnisse",
+      "Erkenntnistheoretische"
+    ],
+    "erzäh": [
+      "Erzähler",
+      "Erzählmechanik",
+      "Erzählstruktur",
+      "Erzählung"
+    ],
+    "kompl": [
+      "Komplementarität",
+      "Komplexität",
+      "Komplexitätsklasse",
+      "Komplexitätsklassen"
+    ],
+    "konse": [
+      "Konsens",
+      "Konsensustheorie",
+      "Konsequenz",
+      "Konsequenzen"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptioneller"
+    ],
+    "lösch": [
+      "Löschung",
+      "Löschungs",
+      "Löschungsereignisse",
+      "Löschungsprotokolle"
+    ],
+    "parad": [
+      "Paradox",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon"
+    ],
+    "proto": [
+      "PROTOKOLL",
+      "Protokoll",
+      "Protokolle",
+      "Protokollsatzdebatte"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychological",
+      "Psychologie",
+      "Psychology"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Aber",
+      "Habermas"
+    ],
+    [
+      "Akte",
+      "Akten"
+    ],
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charakterlogik"
+    ],
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Allegorie"
+    ],
+    [
+      "Arch",
+      "Archipel"
+    ],
+    [
+      "Arch",
+      "Hierarchie"
+    ],
+    [
+      "Arch",
+      "Architektur"
+    ],
+    [
+      "Arch",
+      "Architecture"
+    ],
+    [
+      "Arch",
+      "Hierarchische"
+    ],
+    [
+      "Aris",
+      "Aristoteles"
+    ],
+    [
+      "Atem",
+      "ATEMPORAL"
+    ],
+    [
+      "Atem",
+      "Atemporal"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "CERN",
+      "Concern"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ]
+  ]
+}

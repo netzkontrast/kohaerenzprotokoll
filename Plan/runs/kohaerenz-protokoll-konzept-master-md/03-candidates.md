@@ -1,0 +1,523 @@
+written_by: a reader (a Claude session), while reading, before any count — under the list rule of decision 012
+
+# Candidates — kohaerenz-protokoll-konzept-master-md
+
+Written while reading the document once through, top to bottom, with file line
+numbers from `read.py`. One `- term` per line; the prose sections are filtered out.
+
+The document calls itself a „Konzeptioneller Master-Report" and „Fundament", with
+earlier PDFs as „Steinbruch" (L29). It carries a status line, „Canon-Sync
+2026-05-07", and a canon hierarchy of its own (L21). Both are recorded as its
+claims about itself. It has no passage labels of the `[K]`/`[V]` kind; it marks
+its open points by name — „Offene Frage Reset-Doc Appendix C", „Final Lock-In
+offen", „Name offen".
+
+## the world — figures
+
+- Kael
+- Kael (Host)
+- Kael-Host
+- Host
+- Kael (Integrator)
+- AEGIS
+- Juna
+- Silas
+- Silas (Juna-Echo)
+- Oblivion
+- Oblivion (AEGIS-Echo)
+- Lex
+- Lex (Rationalist)
+- Alex
+- Alex (Beschützer)
+- Rhys
+- Rhys (Caregiver)
+- Selene
+- Selene (ISH)
+- Nyx
+- Nyx (Fight)
+- Kiko
+- Kiko (Freeze)
+- Lia
+- Lia (Ambivalent)
+- Isabelle
+- Isabelle (Sexualisiert)
+- Moros
+- Moros (Collapse)
+- Argus
+- Argus (Meta-Kognition)
+- Argus (Meta-Kognitor)
+- Guardians
+- Mnemosyne
+- Erasure-Pol
+- LogOS
+- Cerberus
+- Kairos
+- Sophia
+- Alters
+- Spiegel-Alters
+- Spiegel-Alter
+- Ursprungs-Ich
+- Komponente 734
+- Komp 734
+- Kael-Struktur
+- Leser (5. Position)
+- 5. Position
+
+## the world — places and regimes
+
+- Kernwelten
+- KW
+- KW1
+- KW2
+- KW3
+- KW4
+- KW1 — Konstrukt-Stadt
+- Konstrukt-Stadt
+- KW2 — Resonanz-Landschaft
+- Resonanz-Landschaft
+- KW3 — Cerberus-Labyrinth
+- Cerberus-Labyrinth
+- KW4 — Möglichkeits-Garten
+- Möglichkeits-Garten
+- Mnemosyne-Archipel
+- Stadt
+- Simulation
+- Strange Attractor
+- Fundament
+- Leere
+
+## the world — events and objects
+
+- Genesis-Krise
+- Einheit
+- Trennungsprotokoll
+- Kohärenz Protokoll 1.0
+- Telefongespräch
+- Telefonat
+- Telefon-Stille
+- Vortex
+- Vortex Beat 4
+- Convergence
+- Dialetheic Choice
+- Silence
+- Heat-Spike
+- Rotation
+- Risse
+- Riss-Szenen
+- Erasure-Sweeps
+- Erasure-Sweep
+- Erasure
+- Hochlast-Erasure
+- Ozon
+- Ozon-Geruch
+- Knöchel
+- Hitze
+- Landauer-Wärme
+- Landauer-Hitze
+- Erason-Hitze
+- Wir-Stimme
+- Algorithmische Melancholie
+- lebende Reliquie
+- Phoenix Collapse
+- Phoenix-Collapse
+- Genesis-Flashbacks
+- Vortex-Vorläufer
+- Gödel-Knoten
+
+## the physics — DKT
+
+- Dual-Kernel-Theorie
+- Dual-Kernel-Theorie (DKT)
+- DKT
+- DKT-Operator
+- DKT-Korrelat
+- DKT-Struktur
+- DKT-Architektur
+- DKT-Ebene
+- DKT-Terminologie
+- Primäre Dualität
+- K₁
+- K₀
+- K₁ (Kohärenz-Kernel)
+- K₀ (Kollaps-Kernel)
+- Kohärenz-Kernel
+- Kollaps-Kernel
+- Kernel
+- Kernels
+- Coheron
+- Coheronen
+- Erason
+- Erasonen
+- Erasion
+- Erason-Domäne
+- Coheron-Domäne
+- Erason-Druck
+- Erason-Bilanz
+- Erason-Operator
+- Erason-Op
+- Erason-Arch
+- Erason-Echo
+- Coheron-Echo
+- Erason-Logik
+- MI
+- Mutual Information
+- mutuale Information
+- MI-Schleifen
+- MI-Vereinigung
+- Persistenzgleichung
+- η
+- Kohärenz-Effizienz
+- Suppressions-Konstante
+- Suppressions-Bandbreite
+- Landauer-Prinzip
+- Landauer
+- Atemporal/Temporal-Achse
+- ATEMPORAL
+- TEMPORAL
+- atemporal
+- Moonshine-Link
+- Nichts-Rauschen
+- Truth-Rotation
+- K₁-Avatar
+- K₀-Avatar
+- K₁-Reorganisation
+- K₁-Buffer
+- K₀-Träger
+- K₁-Echo
+- K₀-Operator-Spiegel
+- K₀-Architektur
+- K₀-Sub-Operator
+- K₁-Substrat
+- K₁-Substrat-Quelle
+- K₁-Substrat-Funktion
+- K₁-Reparatur
+- K₀-Erasure
+- K₀-Erasure-Felder
+- Entropie-Architektur
+- Entropie-Protokoll
+- Twisted Modules
+
+## the system — AEGIS and its protocols
+
+- Kohärenz Protokoll
+- Kohärenz-Protokoll
+- Protokolle
+- Suppressionsprotokoll
+- Kohärenzprotokoll
+- Re-Containment-Protokoll
+- Löschungsprotokolle
+- Kontrollprotokoll
+- Reparaturprotokolle
+- Überwachungsprotokolle
+- Primärdirektive
+- Ontologische Blindheit
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Selbst-Zerstörung durch Selbst-Erhaltung
+- Kerntragödie
+- Guardian-Aktivierungen
+- Protokoll-Deployments
+- Löschungs-Exekutive
+- Erinnerungs-Wächter
+- Wächter-Zwiespalt-Soziopolitik
+- Gescheiterter Kohärentist
+- Hüterin der Ordnung
+
+## the psychology — TSDP and Kael's system
+
+- TSDP
+- TSDP-Architektur
+- TSDP-Klassifikation
+- Strukturelle Dissoziation
+- Tertiäre Strukturelle Dissoziation
+- Survival Architecture
+- ANP
+- ANPs
+- EP
+- EPs
+- Apparently Normal Parts
+- Emotional Parts
+- Phobien
+- Funktionale Multiplizität
+- Final Fusion
+- Riss-Typen
+- Riss-Typ
+- Riss-Typologie
+- Alter-Typ
+- Fight
+- Freeze
+- Flight
+- Collapse
+- Sex
+- kinetisch
+- temporal
+- spatial
+- gravitational
+- sensorisch
+- Flight (implizit Lia/Isabelle)
+- Fight/Freeze/Flight/Collapse/Sex
+- Somatik
+- Somatik-Lücken
+- somatischer Filter
+- Somatischer Filter
+- Multiplizitäts-Schleier
+- Amnesie-Terror
+- Crew-Menü
+- Special
+- Spiegel
+- Integrator
+- Trauma-Stratum
+- Time-loss
+- Bruxismus
+- Hypertonus
+- Hypoventilation
+- Katatonie
+- Drachenkampf
+- Kudzu
+- Akt-II-Anker
+- Fraktalität
+- Decanonisiert
+- Index
+- Nox
+- Echo
+- Flicker
+- Limina
+- Praetor
+- Eos
+- Elara
+- Aris
+- Mina
+- Lyra
+- Soren
+- Tariq
+- Nova
+- Sentinel
+
+## Juna
+
+- Witness-Funktion
+- Witness-Funktion (3-Layer)
+- Witness-Quelle
+- Zeugenschaft
+- lebende Gödel-Aussage
+- Gödel-Aussage
+- Chaitin-Konstante
+- strukturelle Position
+- Phantom-Resonanz
+- Telefon-Stille als Anker
+- Revelation-Timing
+- Erscheinungs-Modi
+- Junas Erscheinungs-Modi
+- Doppelrolle
+- Quanten-Verschränkungs-Witness
+- Zero-Knowledge-Verifier
+- uninteressiertes Schauen
+- Husserlsches uninteressiertes Schauen
+- Boundary Conditions
+- K₀-blinde Seiten
+
+## storyform — the document's Dramatica vocabulary
+
+- Dramatica Dual-Storyform
+- Dual-Storyform
+- Storyform A
+- Storyform B
+- Storyform-Quad
+- Heuristics of Integration
+- Heuristics of Integration (K₁-Reading)
+- Phoenix Collapse (K₀-Reading)
+- K₁-Reading
+- K₀-Reading
+- Klein-c-Symmetrie
+- Domain-Inversion
+- Vortex-Inversion
+- MC
+- IC
+- OS
+- RS
+- MC-Träger
+- IC-Träger
+- IC-Träger-B-Klärung
+- DOPPEL-IC
+- lebende Paradoxie
+- Be-er
+- Do-er
+- Be-er-Modus
+- Do-er-Modus
+- Approach-Korrektur
+- Driver-Architektur
+- Driver-Flip
+- Driver-Treue
+- Storyform Lock-In
+- Lock-In
+- Final Lock-In
+- A-Decision
+- interior pivot
+- Pivot
+- Hybrid Option 3
+- Per-Chapter Dual-POV-Architektur
+- Hard-Routing
+- Soft-Layering
+- Bridge-Szenen
+- Bridge-Frequenz
+- Bridge-Anteil
+- Resolution
+- Akt I
+- Akt II
+- Akt III
+- A:MC
+- B:IC
+- A:IC
+- B:MC
+- B:OS
+- A:Sub-MC
+- A:Innenwelt
+- A:Kommentar
+- B:Witness-Quelle
+- Bridge
+
+## the writing — the document's rules for the prose
+
+- Lesersteuerung
+- Lesersteuerung = supreme principle
+- Reader as Substrate
+- Mosaikstruktur
+- Mosaikbau
+- Mosaik
+- Fußnoten
+- Leerstellen
+- Lese-Schichten
+- Ebenen-Komplementarität
+- Narrative Ebene
+- Systemische Ebene
+- Wissenschaftliche Ebene
+- Konsistenz-Matrix
+- Stil-Ebenen
+- Ebene 1
+- Ebene 2
+- Ebene 3
+- Polyphonie
+- Polyphonie nach Akt
+- Computational Class
+- Computational Classes
+- Computational-Class-Progression
+- Computational-Class als Stil-Marker
+- Akt-Marker
+- Stilanweisung
+- Konstatierungs-Sprache
+- Metaphernverbot
+- Egan-Falle
+- Chiang-Standard
+- Egan-Standard
+- Prosa-Prinzipien
+- Encoding
+- Encoding-Phase
+- Weaving
+- Telling-Phase
+- Schicht 1
+- Schicht 2
+- Schicht 3
+- Schicht-System
+- Atem
+- Bauch
+- Muskel
+- Hände
+- Atem-Somatik
+- Bauch-Somatik
+- Muskel-Somatik
+- Hand-Somatik
+- NP-Hard-Stilistik
+- Ende-Prinzip
+- Kernfrage
+- Negativ-Definition
+- Canon-Sync
+- Canon-Hierarchie
+- Steinbruch
+- Reset-Doc
+- Reset-Doc Appendix C
+- Memory Edits
+- Memory Slot 5
+- Slot 16
+- Strukturkanon
+- Synthese-PDF
+- Outline-Rev 2026-05-01
+- Master-Report
+
+## lens
+
+- Wahrheitstheorien
+- Korrespondenztheorie
+- Kohärenztheorie
+- Konsensustheorie
+- Deflationismus
+- Dialetheismus
+- Dialetheismus/Parakonsistenz
+- Dialetheia
+- Dialetheien
+- gelebte Dialetheia
+- lebende Dialetheia
+- parakonsistente Logik
+- Parakonsistent
+- Trivialismus
+- Inversionstest
+- LEM
+- ECQ
+- Tertium non datur
+- Tarski-Hierarchie
+- Objektsprache
+- Metasprache
+- Meta-Metasprache
+- Isolationsproblem
+- Zugangsproblem
+- Protokollsatzdebatte
+- Wiener-Kreis-Debatte
+- Konstatierungen
+- Autopoiesis
+- autopoietisch
+- operative Geschlossenheit
+- operativ geschlossen
+- Irritationen
+- Gödel
+- Halteproblem
+- Unvollständigkeitssatz
+- Monstrous Moonshine
+- Monstergruppe
+- j-Funktion
+- Vertex-Operator-Algebren
+- VOA
+- Leech-Gitter
+- Orbifold-Konstruktion
+- Z₂-Involution
+- Phänomena
+- Noumena
+- Noumenon
+- Antinomien
+- Tractatus
+- aletheia
+- adaequatio
+- Epoché
+- Mess-Problem
+- Kopenhagen
+- Many-Worlds
+- De Broglie-Bohm
+- GRW
+- Relationale QM
+- It from Bit
+- Hubble-Volumen
+- Asymptotische Freiheit
+- Maxwells Dämon
+- Wurmlöcher
+- CPT-Verletzung
+- Planck-Skala
+- Superposition
+- Pauli-Ausschluss
+- Big Freeze
+- Fraktale
+- Komplexitätsklassen
+- Komplexitätsklasse
+- P (Polynomialzeit)
+- NP-Hard
+- Generativ
+- Gardner's Axiom
+- DIS
+- Plural-Bewegung
+- ISH
