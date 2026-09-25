@@ -49,7 +49,7 @@ Only the second sentence, and in Kap 39.
 ## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 
 In Vortex 2, Kap 38–39, marked `[K]` (L238): „Formel-Inversion vollzogen:** „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."" ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]
-Only the second sentence, in the Vortex before Kap 40.
+Only the second sentence, in the [[vortex|Vortex]] before Kap 40.
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 

@@ -82,4 +82,4 @@ Warmth is what the Funken-Ich feels of [[juna|Juna]]'s resonance before AEGIS' f
 „Im Funken-Ich gibt es einen Augenblick — *vor* dem Riss, *vor* AEGIS' Filterung —, in dem es Wärme spürt, Wiedererkennen, Heim." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315]
 „Wenn in Kap 0 "Wärme, die es nicht geben kann" steht, dann muss in Kap 40 "die Wärme, die nicht hätte sein können" als Echo erscheinen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L319]
 Its origin is named as a chat turn: „Das ist die Wärme-Spur, die in der Probe vom letzten Turn vorgeschlagen wurde." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315] It is Setzung 2, to be confirmed (L554–L564).
-Warmth as Juna's trace, in the Genesis, three weeks before the lock of 2026-05-30; placed here by what it states (J62). C11.
+Warmth as Juna's trace, in the [[genesis|Genesis]], three weeks before the lock of 2026-05-30; placed here by what it states (J62). C11.
