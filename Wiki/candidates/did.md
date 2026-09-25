@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-16"
 ---
 
@@ -93,3 +93,10 @@ on reread every trace must read as a symptom. Hard rule R-3: the terms
 
 The model is „TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42], with IFS for healing.
 „Dissoziation = Amnesie-Terror, niemals Crew-Menü." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42] In Kap 8–10 „Noch kein „DID", kein „Alters"." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L928]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+The clinical model is TSDP: „Die Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP, van der Hart, Nijenhuis, Steele 2006) postuliert, dass Trauma die Persönlichkeit in Subsysteme spaltet" ^[kohaerenz-protokoll-konzept-master-md.md:L365].
+„**Tertiäre Strukturelle Dissoziation:** Mehrere ANPs *und* mehrere EPs. Typisch für DIS / komplexes Trauma." ^[kohaerenz-protokoll-konzept-master-md.md:L381]
+It is meant clinically, not as an allegory: „**Keine DID-Allegorie.** Kaels Alters sind nicht Symbole für "Persönlichkeitsanteile, die wir alle haben" — sie sind diagnostisch konkret und phänomenologisch genau." ^[kohaerenz-protokoll-konzept-master-md.md:L1071]
+And its aim is not fusion: „**Im Roman: zwingend Funktionale Multiplizität, niemals Final Fusion.**" ^[kohaerenz-protokoll-konzept-master-md.md:L416]
