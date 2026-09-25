@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -62,3 +62,9 @@ The document names his origin as open. The character bible's version — „Alex
 „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219] — flagged in the same line: „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219]
 (C12). DKT correlate: „Asymptotische Freiheit (Starke Kernkraft)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L231] Riss: „Militärisch-räumlich, Bunker-Topologie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L235]
 Anchor: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L262]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Alex (ANP / Protektor)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L83]. „Hypervigilanz, physischer Schutz, Bedrohungs-Assessment." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L85]
+„Alex spricht nie über Gefühle in der 1. Person." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L85] Dominant with [[nyx|Nyx]] in KW3:
+„Nyx und Alex dominieren in EP-Modus." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L221] Nothing on when he arose (C12).

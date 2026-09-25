@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -66,3 +66,9 @@ Sprach-DNA: „Moros ist nicht depressiv" ^[kohaerenz-protokoll-welt-sensorik-dr
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 „die Haarspange macht den Boden schwer (Moros → gravitational)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Moros (EP / Kollaps)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L147]. „Absolute Resignation. Der Zustand, vor dem alle anderen Phobie haben." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L149]
+„Nicht depressiv im klinischen Sinne — katatonisch." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L149]
+„Wenn Moros lange genug präsent ist, schreibt der Roman selbst langsamer." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L149]

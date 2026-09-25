@@ -1,0 +1,67 @@
+# 05-verify.txt — commands and their output, for every number the prose uses
+
+$ grep -n '1\. Person' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+29 69 77 85 93 101 109 117 125 133 141 149 157 165 173   (lines: 15)
+$ grep -n '3\. Person' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+29 37 45 53   (lines: 4)
+$ grep -n 'Flight' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+  (lines: 0)
+$ grep -n 'Sophia' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+  (lines: 0)
+$ grep -n 'Kairos' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+  (lines: 0)
+$ grep -n 'Cerberus' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+221   (lines: 1)
+$ grep -n 'Logos' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+213   (lines: 1)
+$ grep -n '734' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+  (lines: 0)
+$ grep -n 'Genesis' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+29   (lines: 1)
+$ grep -n 'Entropie' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+  (lines: 0)
+$ grep -n 'Basisrealität' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+  (lines: 0)
+$ grep -n 'Ursprungs' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+  (lines: 0)
+$ grep -n 'Landauer' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+233   (lines: 1)
+$ grep -n 'Ozon' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+185 233   (lines: 2)
+$ grep -n 'Hitze\|heiß' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+117 185 233   (lines: 3)
+$ grep -n 'Wärme\|Warm\|warm' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+61 93 141 157 233   (lines: 5)
+$ grep -n 'Knöchel' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+117   (lines: 1)
+$ grep -n 'Kap 38' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+61 201   (lines: 2)
+$ grep -n 'Kap 33' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+  (lines: 0)
+$ grep -n 'Guardian' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+43 51   (lines: 2)
+$ grep -n 'Wächter' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | cut -c1-12
+43   (lines: 1)
+
+# The point of view, by hand — the list cannot hold „1. Person" (its filter reads „. " as prose)
+$ grep -o '1\. Person[^.;,]*' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md | wc -l
+16      # in 15 lines: L29 (the narrator's „1. Person Funkens-Sicht"), L69 … L165 one per voice,
+        # L85 twice (Alex: „1. Person." and „in der 1. Person"), L173 „1. Person Plural"
+$ grep -o '3\. Person[^.;,]*' Sources/drive/koharenz-protokoll-sprach-dna-2026-05-13-md.md
+3. Person AEGIS-Beschreibung     # L29, the narrator
+3. Person personal               # L37, AEGIS
+3. Person personal               # L45, Mnemosyne
+3. Person                        # L53, the Erasure-Pol, „Voraussichtlich"
+# Argus, L109: „1. Person, aber distanziert wie 3." — not matched, and not a third-person voice.
+# Juna, L61: „Niemals POV."
+
+# The count was run twice. The first run read one prose bullet of 03-candidates.md as a term:
+# its first line carried neither „, " nor „. ", and capture.candidate_terms reads line by line,
+# so a wrapped bullet is judged by its first line alone. It counted 0 and would have entered
+# the census as a term. The bullet was reworded (a comma after „Four works"), and --count re-run:
+$ diff of the term sets, first run against second
+first 195, second 194; only in the first: „Four works are named as what the document consolidates (L13): a character"
+# No term was added or dropped. The first run's counts.json is not kept.
+
+$ python3 scripts/gold.py koharenz-protokoll-sprach-dna-2026-05-13-md
+gold True · failed [] · terms 194 · in_document 1.0

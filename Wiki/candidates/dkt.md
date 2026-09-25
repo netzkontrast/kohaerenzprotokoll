@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -37,3 +37,10 @@ Alter: from Kael's „Hubble-Volumen / Big Rip." ^[kohaerenz-protokoll-anteile-p
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 The thread's premise, „Abweichungen = K₁-Spuren" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L262], is coupled to the „DKT-Kanon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L262] and blocks the thread until confirmed.
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+A hard rule for the prose: „Erste 50 Seiten: null DKT-Terminologie — nur Phänomenologie." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L21]
+In [[kael|Kael]]'s Akt I, no DKT terms (L69). [[mnemosyne|Mnemosyne]] may use its status lines:
+„DKT-Statuszeilen erlaubt, aber sparsam und in poetischer Einbettung." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45]
+The theory itself is not spelled out; `DKT` stands only in compounds.

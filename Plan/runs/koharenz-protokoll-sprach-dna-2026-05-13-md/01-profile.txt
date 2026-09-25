@@ -1,0 +1,14 @@
+# koharenz-protokoll-sprach-dna-2026-05-13-md
+  lines                250  (frontmatter ends at 9)
+  body words           2411
+  headings             25   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       4
+  backslash escapes    5
+  typographic marks    78   ascii quotes 23
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    24
+  repeated labels      Funktion x19, Konsistenz-Anker x19, Mikro x19, POV / Syntax x19, Vokabular x19
+  longest line         806 chars
+

@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -70,3 +70,11 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 „liebt die Arbeit — der beste Sachbearbeiter des Knotens, tragisch; später Kartograph und Vergleicher" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L214].
 The warm-place map: „Akt-II-Schatzsuche mit Lex als Kartograph" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]. His first intrusion is a note in Kael's drafts, „erster Lex-Einbruch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 2.
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Lex (ANP / Rationalist)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L75]. „Logik, Analyse, Intellektualisierung als Schutz vor EPs." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L77]
+„Lex flucht nie. Lex weint nie. Lex argumentiert mit Syllogismen, auch wenn das System brennt." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L77]
+„Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L77]
+Dominant in KW1 with the Host (L213); hypotactic even inside the Wir (L173); in the sharpest collision with
+[[nyx|Nyx]]: „Maximaler Konflikt zwischen Lex und Nyx" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233].

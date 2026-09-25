@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 7
-covers_documents: 4
-new_findings_last_document: 2
+version: 8
+covers_documents: 6
+new_findings_last_document: 3
 ---
 
 # Briefing — before extracting a document
@@ -81,6 +81,9 @@ has a page for it, and nothing the wiki knows depends on this list.
 term from a sentence by punctuation, so a bulleted sentence without a comma is
 counted as a candidate. A term that carries a comma — a title, `A, B` — is left
 out of the count, and the count's header names it.
+A term with an ordinal is left out the same way — a period and a space make
+`1. Person` a sentence — so count it by hand in `05-verify.txt`. A bullet that
+wraps is judged by its first line alone.
 
 ## 2 · Questions to carry while reading
 
@@ -110,6 +113,9 @@ out of the count, and the count's header names it.
   citation of something else. Both occur; nothing announces which.
 - Which candidates appear **only inside a question**? Those have no reading.
 - Which appear only as something the document restates before rejecting?
+- Does the document write samples in a voice, or lists of words a voice uses? A
+  term that stands only there is diction — a reading needs a sentence about the
+  thing, the same way a term inside a question has none.
 - Does the document restate *other* documents — an index of locks, a list of
   sources with dates? That is this document's claim about them, not their text.
 

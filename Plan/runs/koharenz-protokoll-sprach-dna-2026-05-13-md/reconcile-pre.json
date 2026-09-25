@@ -1,0 +1,984 @@
+{
+  "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "step": "reconcile-pre",
+  "at": "2026-09-25",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-25",
+  "state": {
+    "pages": 93,
+    "conflicts": 15
+  },
+  "candidates": 194,
+  "decisions": 199,
+  "same_surface": {},
+  "decided_mechanically": 135,
+  "needs_judgement": 64,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "DKT",
+        "page": "dkt",
+        "readings": 3
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 9
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 16
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 11
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 13
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 13
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 9
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 8
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 6
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 7
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 7
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 9
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 8
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 8
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 8
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 8
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 11
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 11
+      },
+      {
+        "candidate": "Kernwelt",
+        "page": "kern-welten",
+        "readings": 13
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 13
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 9
+      },
+      {
+        "candidate": "Möglichkeits-Garten",
+        "page": "moeglichkeits-garten",
+        "readings": 11
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 11
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 10
+      },
+      {
+        "candidate": "Telefon-Stille",
+        "page": "telefon-stille",
+        "readings": 10
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Sprach-DNA"
+      },
+      {
+        "candidate": "Stilebene 1"
+      },
+      {
+        "candidate": "Stilebene 2"
+      },
+      {
+        "candidate": "Stilebene 3"
+      },
+      {
+        "candidate": "Akt-Modi"
+      },
+      {
+        "candidate": "Amnesie-Terror"
+      },
+      {
+        "candidate": "Crew-Menü"
+      },
+      {
+        "candidate": "DKT-Terminologie"
+      },
+      {
+        "candidate": "DKT-Statuszeilen"
+      },
+      {
+        "candidate": "DKT-Begriffe"
+      },
+      {
+        "candidate": "POV / Syntax"
+      },
+      {
+        "candidate": "Vokabular"
+      },
+      {
+        "candidate": "Konsistenz-Anker"
+      },
+      {
+        "candidate": "OQ"
+      },
+      {
+        "candidate": "Coda"
+      },
+      {
+        "candidate": "Funkens-Sicht"
+      },
+      {
+        "candidate": "operative Hälfte"
+      },
+      {
+        "candidate": "Operative Interiorität"
+      },
+      {
+        "candidate": "Klammer-Statuszeilen"
+      },
+      {
+        "candidate": "Makro-Log"
+      },
+      {
+        "candidate": "Hex-IDs"
+      },
+      {
+        "candidate": "Lösch-Prosa"
+      },
+      {
+        "candidate": "chorische Polyphonie"
+      },
+      {
+        "candidate": "Wir"
+      },
+      {
+        "candidate": "Bewahrungsform"
+      },
+      {
+        "candidate": "Geflecht"
+      },
+      {
+        "candidate": "Trügerischer Sieg"
+      },
+      {
+        "candidate": "Beziehungs-Kollisionsmatrix"
+      },
+      {
+        "candidate": "Stilbruch"
+      },
+      {
+        "candidate": "Anwendungs-Reflex"
+      },
+      {
+        "candidate": "Zähl-Manie"
+      },
+      {
+        "candidate": "Vermeidungs-Protokoll"
+      },
+      {
+        "candidate": "Alltagsbewusstsein-Träger"
+      },
+      {
+        "candidate": "Heilungs-Marker"
+      },
+      {
+        "candidate": "Heilungsweg"
+      },
+      {
+        "candidate": "Textur-Signatur"
+      },
+      {
+        "candidate": "Kernfehler"
+      },
+      {
+        "candidate": "Bruch-Wirkung"
+      },
+      {
+        "candidate": "Triggerbrüche"
+      },
+      {
+        "candidate": "Metaphernverbot"
+      },
+      {
+        "candidate": "Atemzählung"
+      },
+      {
+        "candidate": "Bauch-Somatik"
+      },
+      {
+        "candidate": "Muskel-Somatik"
+      },
+      {
+        "candidate": "EP-Modus"
+      },
+      {
+        "candidate": "ANP-Modus"
+      },
+      {
+        "candidate": "Erinnerungs-Wächterin"
+      },
+      {
+        "candidate": "Erasure-Pol"
+      },
+      {
+        "candidate": "Löschungs-Exekutive"
+      },
+      {
+        "candidate": "Gegen-Pol"
+      },
+      {
+        "candidate": "kosmologische Konstante"
+      },
+      {
+        "candidate": "Witness"
+      },
+      {
+        "candidate": "Rationalist"
+      },
+      {
+        "candidate": "Protektor"
+      },
+      {
+        "candidate": "Caregiver"
+      },
+      {
+        "candidate": "Integrator"
+      },
+      {
+        "candidate": "Meta-Kognitiv"
+      },
+      {
+        "candidate": "Sonder-Kategorie"
+      },
+      {
+        "candidate": "Freeze"
+      },
+      {
+        "candidate": "Kind"
+      },
+      {
+        "candidate": "Ambivalent"
+      },
+      {
+        "candidate": "Sexualisiert"
+      },
+      {
+        "candidate": "Spiegel"
+      },
+      {
+        "candidate": "Komponente"
+      },
+      {
+        "candidate": "Subjekt"
+      },
+      {
+        "candidate": "KW1"
+      },
+      {
+        "candidate": "KW2"
+      },
+      {
+        "candidate": "KW3"
+      },
+      {
+        "candidate": "KW4"
+      },
+      {
+        "candidate": "fraktale Korridore"
+      },
+      {
+        "candidate": "Sektor 7"
+      },
+      {
+        "candidate": "Kacheln"
+      },
+      {
+        "candidate": "Splitter"
+      },
+      {
+        "candidate": "Anruf"
+      },
+      {
+        "candidate": "Substrat"
+      },
+      {
+        "candidate": "Persistenz-Score"
+      },
+      {
+        "candidate": "Paradox-Index"
+      },
+      {
+        "candidate": "η-Bewegung"
+      },
+      {
+        "candidate": "Sweep"
+      },
+      {
+        "candidate": "Quarantäne"
+      },
+      {
+        "candidate": "Patch"
+      },
+      {
+        "candidate": "AXIOMVERLETZUNG"
+      },
+      {
+        "candidate": "Trauma-Schichten"
+      },
+      {
+        "candidate": "Bauplan der Zeit"
+      },
+      {
+        "candidate": "Storyform A"
+      },
+      {
+        "candidate": "Storyform B"
+      },
+      {
+        "candidate": "Vortex 1"
+      },
+      {
+        "candidate": "Vortex 2"
+      },
+      {
+        "candidate": "Beat 3"
+      },
+      {
+        "candidate": "Kap 0"
+      },
+      {
+        "candidate": "Kap 9"
+      },
+      {
+        "candidate": "Kap 13"
+      },
+      {
+        "candidate": "Kap 37"
+      },
+      {
+        "candidate": "Kap 38"
+      },
+      {
+        "candidate": "Kap 39"
+      },
+      {
+        "candidate": "Kap 40"
+      },
+      {
+        "candidate": "Dissoziation"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "ISH"
+      },
+      {
+        "candidate": "Internal Self-Helper"
+      },
+      {
+        "candidate": "MC"
+      },
+      {
+        "candidate": "IC"
+      },
+      {
+        "candidate": "Going on with Normal Life"
+      },
+      {
+        "candidate": "Hypervigilanz"
+      },
+      {
+        "candidate": "Approach-Avoidance"
+      },
+      {
+        "candidate": "Final Fusion"
+      },
+      {
+        "candidate": "Computational Class P"
+      },
+      {
+        "candidate": "NP-Hard"
+      },
+      {
+        "candidate": "Halteproblem"
+      },
+      {
+        "candidate": "Loops"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Mikro-Profile  /  Mikro",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Stimme  /  Stimmen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Stimme  /  Erzähler-Stimme",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Stimme  /  AEGIS-Stimme",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Stimme  /  Wir-Stimme",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Stilebenen  /  Akt-Stilebenen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hard Rules  /  Hard Rule",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Funktion  /  Bewahrung-Funktion",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS-Log-Format  /  AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS-Stimme  /  AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Log-Fragmente  /  Fragment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo-Prosa  /  Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wir-AEGIS-plural  /  AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelt-Stile  /  Kernwelt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Landauer-Wärme  /  Wärme",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ozon-Geruch  /  Ozon",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Hitzeschlieren  /  Hitze",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  AEGIS-Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Mnemosyne  /  Mnemosyne-Archipel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Juna-Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  JUNA\\_VEKTOR",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Host",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Host  /  Kael-Host",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Fight  /  Fight-via-Control",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna-Echo  /  Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS-Echo  /  Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteile  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kernwelt  /  Kernwelten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Konstrukt-Stadt / Logos-Prime  /  Konstrukt-Stadt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Konstrukt-Stadt / Logos-Prime  /  Logos-Prime",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Resonanzkörper  /  Resonanz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Phantom-Resonanz  /  Resonanz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Telefon-Stille  /  Stille",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Containment  /  Re-Containment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt I  /  Akt II",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt I  /  Akt III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Akt II  /  Akt III",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Vortex-Beat 5  /  Beat 5",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Funktion",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegisteilfunktionen",
+            "page": "aegis-teilfunktionen"
+          },
+          {
+            "surface": "funktionalemultiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Prolog",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Log-Format",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Stimme",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Wir-AEGIS-plural",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kernwelt-Stile",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          }
+        ]
+      },
+      {
+        "candidate": "Multiplizitäts-Schleier",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mustererkennunganomaliedetektion",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Host",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kollaps",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kollapskernel",
+            "page": "kollaps-kernel"
+          },
+          {
+            "surface": "kollapskernelk0",
+            "page": "kollaps-kernel"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "AEGIS-Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Alter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "alters",
+            "page": "alters"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragment",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Konstrukt-Stadt / Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "konstruktstadt",
+            "page": "konstrukt-stadt"
+          },
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mnemosyne-Archipel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyne",
+            "page": "mnemosyne"
+          }
+        ]
+      },
+      {
+        "candidate": "Cerberus-Labyrinth",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cerberus",
+            "page": "cerberus"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Erason-Bilanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "erason",
+            "page": "erason"
+          }
+        ]
+      },
+      {
+        "candidate": "Resonanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanz",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "resonanzlandschaft",
+            "page": "resonanz-landschaft"
+          }
+        ]
+      },
+      {
+        "candidate": "Stille",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "gartenderstillenpraesenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "gartenderstillenprasenz",
+            "page": "garten-der-stillen-praesenz"
+          },
+          {
+            "surface": "telefonstille",
+            "page": "telefon-stille"
+          }
+        ]
+      },
+      {
+        "candidate": "Rauschen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Hitze",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "hitzepolaritaetsregel",
+            "page": "hitze-polaritaetsregel"
+          },
+          {
+            "surface": "hitzepolaritatsregel",
+            "page": "hitze-polaritaetsregel"
+          }
+        ]
+      },
+      {
+        "candidate": "JUNA\\_VEKTOR",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

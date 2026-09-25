@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 10
-readings: 10
-conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 11
+readings: 11
+conflict: C10
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -71,3 +71,12 @@ Her „Hitze im Brustkorb" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 „der erste nicht ausgeführte Ausgleich (Kap 6): die Hand stoppt vor dem Klick" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216]; signature „Verben der Verweigerung, Stakkato" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Nyx (EP / Fight)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L115]. „Kinetische Gegenreaktion, Aggression. Schutz der Verletzlichen durch Angriff." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L117]
+Her vocabulary: „Viszeral-kinetisch — Knöchel, bluten, Hitze, Brust, Splitter, Riss, Schlag, lauf." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L117]
+Her sample: „Die Luft ist heiß. Knöchel bluten. Ich sehe den Riss." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L117]
+So the bleeding knuckles stand in Nyx's voice, in no chapter — conflict C10, whose other sources put
+them on [[kael|Kael]] in Kap 1 or Kap 0.
+„Funktional wütend — Wut als Werkzeug, nicht als Identität." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L117] Dominant with [[alex|Alex]] in KW3 (L221).

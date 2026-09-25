@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      24
+  backslash escapes      5
+  typographic marks      78
+  ascii quotes           23
+
+# inflection families -- one term, several surfaces
+  beoba    Beobachten, Beobachtung, Beobachtungen
+  erinn    Erinnerung, Erinnerungen, Erinnerungs
+  heilu    Heilung, Heilungs, Heilungsweg
+  inter    Interiorität, Internal, Internalisierte
+  klass    Klassifikation, Klassifizieren, Klassische
+  lösch    Lösch, Löschlogik, Löschungs
+  maxim    Maximal, Maximale, Maximaler
+  metap    Metapher, Metaphern, Metaphernverbot
+  mögli    Mögliche, Möglichen, Möglichkeits
+  negat    Negation, Negationen, Negativräumlich
+  sanft    Sanfte, Sanftes, Sanftheit
+  schwe    Schweiß, Schwelle, Schwere
+  senso    Sensorisch, Sensorische, Sensorischer
+  stile    Stile, Stilebene, Stilebenen
+  syste    System, Systemkritik, Systemübersicht
+  anoma    Anomale, Anomalie
+  antei    Anteil, Anteile
+  archi    Archipel, Architektur
+  bedro    Bedrohung, Bedrohungs
+  befeh    Befehl, Befehlsform
+  besch    Beschreibt, Beschreibung
+  bewah    Bewahrung, Bewahrungsform
+  bilde    Bilder, Bildern
+  bitte    Bitte, Bittersüß
+  direk    Direkt, Direkte
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Akteur
+  Akte < Charakter
+  Atem < Atemporale
+  Atem < Atemzählung
+  Auch < Bauch
+  Drei < Zweitausenddreihundertvier
+  Echo < Echos
+  Eine < Keine
+  Eine < Seine
+  Erst < Erste
+  Erst < Erster
+  Erst < Erstarrung
+  Erst < Erststellung
+  Form < Format
+  Form < Storyform
+  Form < Sonderform
+  Form < Befehlsform
+  Form < Information
+  Form < Bewahrungsform
+  JUNA < Juna

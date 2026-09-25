@@ -3,7 +3,7 @@ id: Q5
 question: Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
-documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 conflict: C6, C9
 gathered: "2026-09-24"
 ---
@@ -124,3 +124,11 @@ Mnemosyne-Archipel, the climax (L1000).
 
 **Two Guardians, LogOS a decanonised name, no absorption described.** „Zwei-Guardian-Kanon exakt bedient" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]; LogOS appears only as „LogOS/Limina-Vokabular (dekanonisierte Namen)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L255].
 The Erasure-Pol is named and its name is not marked as open (^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92], ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]). [[sophia|Sophia]], [[kairos|Kairos]] and [[cerberus|Cerberus]] do not occur; the only world named is KW1.
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**A Guardian dominant in the world named for her; the other names on worlds only.**
+„KW2 — Mnemosyne-Archipel. Parakonsistent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] „Mnemosyne dominiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217]
+KW1 is `Konstrukt-Stadt / Logos-Prime` (L213) and KW3 `Cerberus-Labyrinth` (L221), and neither
+bearer is profiled; [[kairos|Kairos]] and [[sophia|Sophia]] do not occur. The Erasure-Pol's name is open:
+„Kalter Gegen-Pol zu Mnemosyne. (Name offen — OQ.)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L53]

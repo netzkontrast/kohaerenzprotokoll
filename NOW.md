@@ -31,13 +31,13 @@ Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations
 | **C2** | What does `Entropie` mean in the novel? | disorder AEGIS fights (`entropie-aegis`) · „schöpferische Matrix", the space things arise from (reported by `aegis-emergenz-aus-der-leere` as a postulate's) · AEGIS *is* the entropy it fights (konsolidiertes Konzept) |
 | **C3** | Where does AEGIS come from? | from nothing, before reality (`aegis-emergenz-aus-der-leere`) · from inside the simulation's dynamics (`kohaerenzprotokoll-aegis-und-systementropie`) · from Kael's defence in the Genesis, then became the world (konsolidiertes Konzept) |
 | **C4** | Whose is the blind spot — AEGIS' alone, or each Guardian's? | AEGIS' categorical blindness (`kohaerenzprotokoll-aegis-und-systementropie`) · five Guardians, five blind spots (`guardians-und-kern-welten-konzept`) |
-| **C5** | Is the Möglichkeits-Garten a whole Kern-Welt or a place inside KW4 — and what is KW4 called? | a Kern-Welt (`guardians-und-kern-welten-konzept`; storyform-und-outline 2026-06-10) · a location in KW4 (`roman-lokalitaeten-konzept-und-ausarbeitung`) · both: KW4 „Kairos-Potentialis (Garten der Möglichkeiten)" with a Möglichkeits-Garten inside it (konsolidiertes Konzept) |
-| **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) · the Kapitel-Kompendium, which C7's record expected to settle it, places none · „Kernwelten vollständig": Kap 33 is her *effect*, Kap 38 her appearance — perhaps not a conflict at all · the strukturierter Outline (2026-05-18): Kap 38 Beat 3, stated five times, nothing in Kap 33 · the drafting manual (2026-06-10): Kap 33 „Setting der Juna-Wirkung“, Kap 38 „Juna erscheint direkt“ — the same split as „Kernwelten vollständig“ · the Alter profiles (2026-06-10): „direkte Stille-Erscheinung Kap 38“, a mode locked 2026-05-30 · the Plot-Konkretisierung (2026-06-10, a proposal): Kap 38 Beat 3, with only effects before it — a line, a channel, a record with no type |
+| **C5** | Is the Möglichkeits-Garten a whole Kern-Welt or a place inside KW4 — and what is KW4 called? | a Kern-Welt (`guardians-und-kern-welten-konzept`; storyform-und-outline 2026-06-10) · a location in KW4 (`roman-lokalitaeten-konzept-und-ausarbeitung`) · both: KW4 „Kairos-Potentialis (Garten der Möglichkeiten)" with a Möglichkeits-Garten inside it (konsolidiertes Konzept) · KW4 named „Möglichkeits-Garten“, the whole world, no place inside it (Sprach-DNA (2026-05-13)) |
+| **C7** | When does Juna first appear directly? | once, ca. Kap 33, Garten der Stillen Präsenz (Charakter-Bibel 2026-05-08) · first in Kap 38 (storyform-und-outline; konsolidiertes Konzept) · the Kapitel-Kompendium, which C7's record expected to settle it, places none · „Kernwelten vollständig": Kap 33 is her *effect*, Kap 38 her appearance — perhaps not a conflict at all · the strukturierter Outline (2026-05-18): Kap 38 Beat 3, stated five times, nothing in Kap 33 · the drafting manual (2026-06-10): Kap 33 „Setting der Juna-Wirkung“, Kap 38 „Juna erscheint direkt“ — the same split as „Kernwelten vollständig“ · the Alter profiles (2026-06-10): „direkte Stille-Erscheinung Kap 38“, a mode locked 2026-05-30 · the Plot-Konkretisierung (2026-06-10, a proposal): Kap 38 Beat 3, with only effects before it — a line, a channel, a record with no type · Kap 38, from a document that names the Kap-33 source among what it consolidates (Sprach-DNA (2026-05-13)) |
 | **C8** | AEGIS' Approach in Storyform B — Be-er or Do-er? | Be-er (Charakter-Bibel) · Do-er (storyform-und-outline; konsolidiertes Konzept; Kapitel-Kompendium) · the lock-in of 2026-05-07 mirrored it to Do-er and names Be-er as the value before — the character bible, a day later, carries the old value |
-| **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) · **a trait, in no chapter**: the Host's bleeding knuckles stand in his profile, in neither Kap 0 nor Kap 1 (strukturierter Outline 2026-05-18) · Kap 0 alone, four times, dated to the Kompendium's lock of 2026-05-31 (drafting manual 2026-06-10) · Kap 0 only, in Kael's profile (Alter profiles 2026-06-10) |
-| **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) · warmth in Kap 6 and Kap 36, in the konsolidiertes Konzept's words (strukturierter Outline 2026-05-18) · **one document on both sides**: the drafting manual (2026-06-10) locks cold ozone as the Landauer-Signatur and names its first foreshadowing strand `Landauer`, „Hitze als Symptom der Wahrheitsvertuschung“, accumulating in Kap 6 (J81) · **heat three ways in one document** (Alter profiles 2026-06-10): Juna's Coheron-Spur, Silas' warmth as the only diegetic warmth under the same lock, and Landauer heat from the Silas–Oblivion conflict · **the cold side as a plot** (Plot-Konkretisierung 2026-06-10, a proposal): cold ozone after every Ausgleich, Kap 6 „Sensorik kalt/Ozon“ filtered against the Source-of-Truth's §7 conflict, Kap 36 Beat 4 the „einziger kanonischer Landauer-Wärme-Ort“, Silas' warmth the Coheron-Echo |
+| **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) · **a trait, in no chapter**: the Host's bleeding knuckles stand in his profile, in neither Kap 0 nor Kap 1 (strukturierter Outline 2026-05-18) · Kap 0 alone, four times, dated to the Kompendium's lock of 2026-05-31 (drafting manual 2026-06-10) · Kap 0 only, in Kael's profile (Alter profiles 2026-06-10) · the bleeding knuckles in Nyx's voice, in no chapter; the Host's field has none (Sprach-DNA (2026-05-13)) |
+| **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) · warmth in Kap 6 and Kap 36, in the konsolidiertes Konzept's words (strukturierter Outline 2026-05-18) · **one document on both sides**: the drafting manual (2026-06-10) locks cold ozone as the Landauer-Signatur and names its first foreshadowing strand `Landauer`, „Hitze als Symptom der Wahrheitsvertuschung“, accumulating in Kap 6 (J81) · **heat three ways in one document** (Alter profiles 2026-06-10): Juna's Coheron-Spur, Silas' warmth as the only diegetic warmth under the same lock, and Landauer heat from the Silas–Oblivion conflict · **the cold side as a plot** (Plot-Konkretisierung 2026-06-10, a proposal): cold ozone after every Ausgleich, Kap 6 „Sensorik kalt/Ozon“ filtered against the Source-of-Truth's §7 conflict, Kap 36 Beat 4 the „einziger kanonischer Landauer-Wärme-Ort“, Silas' warmth the Coheron-Echo · **Landauer warmth „spürbar als Ozon-Geruch oder Hitzeschlieren“** — both sides as one thing's two renderings, seventeen days before the lock (Sprach-DNA (2026-05-13)) |
 | **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) · both orders and a fourth beat (Kapitel-Kompendium, and already the strukturierter Outline of 2026-05-18) · four beats restated, Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural, 734 no beat (drafting manual 2026-06-10) · four beats cited to the Kompendium, and Alex arising in the fragmentation (Alter profiles 2026-06-10) · no beats counted; 734 consolidated in Kap 0, flashbacks Cluster → Trennungsprotokoll → 734 in Kap 18/21/22, and Kap 40 echoing the Trennungsprotokoll as „Bewegung 4“ (Plot-Konkretisierung 2026-06-10) |
-| **C14** | Does AEGIS get a first-person chapter? | third person, no inside (Charakter-Bibel; konsolidiertes Konzept, both 2026-05-08; Kernwelten vollständig) · one chapter in Kap 5–8 with a first-person inner view, an exception locked 2026-05-30 (storyform-und-outline; begriffe-und-konzepte) · both, unrelated (welt-sensorik, with „nie Ich") · third person and never prose, its debut in that very chapter (Anteile-Profile, which says it is filtered on the 2026-05-30 iterations) · one chapter in Kap 5–8, „erste Person, Protokollform“, worked out as a routine consolidation (Plot-Konkretisierung 2026-06-10, a proposal) |
+| **C14** | Does AEGIS get a first-person chapter? | third person, no inside (Charakter-Bibel; konsolidiertes Konzept, both 2026-05-08; Kernwelten vollständig) · one chapter in Kap 5–8 with a first-person inner view, an exception locked 2026-05-30 (storyform-und-outline; begriffe-und-konzepte) · both, unrelated (welt-sensorik, with „nie Ich") · third person and never prose, its debut in that very chapter (Anteile-Profile, which says it is filtered on the 2026-05-30 iterations) · one chapter in Kap 5–8, „erste Person, Protokollform“, worked out as a routine consolidation (Plot-Konkretisierung 2026-06-10, a proposal) · third person, never `ich`, with an „Operative Interiorität“ — the reader inside its process (Sprach-DNA (2026-05-13), between the 2026-05-08 sources and the lock) |
 | **C15** | Who carries Flight, the spatial riss? | Kiko as her second function, and Lia (Charakter-Bibel 2026-05-08; Anteile-Profile 2026-06-10) · Lia and Isabelle (konsolidiertes Konzept, the bible's date; storyform-und-outline, Kernwelten vollständig, begriffe-und-konzepte, all 2026-06-10) · both, in two tables (welt-sensorik) |
 
 C1–C5 come from the 2025 research documents and have not been put to the author
@@ -51,7 +51,9 @@ before this list.
   KW4=Kairos/Sophia" — „Beides ist dekanonisiert"; the worlds are act markers (L42).
 - **Q5 — the Erasure-Pol.** Every 2026 source has one, and the name is its own
   open question („Name offen, Forschungsfrage"). A sixth figure, a function of the
-  five, or the name for what Cerberus, LogOS and Kairos do together?
+  five, or the name for what Cerberus, LogOS and Kairos do together? The Sprach-DNA
+  (2026-05-13) labels it `Guardian` beside Mnemosyne, „Name offen — OQ“ (L53), and
+  has Mnemosyne dominate KW2, the world named for her (L217).
 - **Q5 — where Sophia went.** The 2026 sources absorb the others three different
   ways (LogOS into Mnemosyne, or into the Erasure-Pol; Kairos latent, or into the
   Erasure-Pol). The strukturierter Outline (2026-05-18) holds two of them at once
@@ -91,14 +93,17 @@ before this list.
 - **The final form's name.** Wir-AEGIS / Mosaik-AEGIS / Plurale Kohärenz / Das Wir
   / namenlos — the konsolidiertes Konzept's own OQ-A (L1199). No page until it is
   named. The strukturierter Outline's OQ-A says the same: `Wir-AEGIS-plural` is a
-  working term, to be settled in Kap 39 (L1369; J73).
+  working term, to be settled in Kap 39 (L1369; J73). The Sprach-DNA (2026-05-13)
+  uses it without marking it open: in Kap 39 the Wir becomes „pluralen
+  Bewahrungsform (Wir-AEGIS-plural)“ (L173).
 - **KW3 has no chapter.** In the strukturierter Outline every other world is a
   setting somewhere (KW1 in Kap 1 and 4, KW2 at Kap 5 and 15 and as the climax
   archipelago, KW4 anticipated in Kap 13 and 20); the Cerberus-Labyrinth stands
   only in the world table (L174). A gap in that plan, or deliberate? Found by the
   graphify reader, checked against the lines. The drafting manual (2026-06-10)
   gives KW3 „Späte Akt II (Kap 23–28)" and the Überwelt-Nexus in Kap 33 (L175),
-  so the gap is that outline's, not every plan's.
+  so the gap is that outline's, not every plan's. So does the Sprach-DNA
+  (2026-05-13): Kernwelten 2–3 are Akt II, Kap 14–26 (L185).
 - **`kael-julia-bindung` (J13).** One document says `Kael-Julia-Bindung`, nine say
   `Kael-Juna-Verbindung`. The Kapitel-Kompendium now states „Julia→Juna" as a rename
   it applied to its quarry (L13). Should the page be renamed, and is the older
@@ -140,7 +145,11 @@ before this list.
   found C13, C14, C15 and C11's missing bible entry, and their lists are kept as
   blind re-readings (`Plan/learnings/extract-terms.md`). If several sessions are
   meant to read, which one takes which document is yours to divide — nothing in
-  `NOW.md` does it yet.
+  `NOW.md` does it yet. Until you do, this session took a document the other
+  one's handover did not name: the Sprach-DNA of 2026-05-13 (document 19), while
+  that session read `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`
+  (document 18). The readings did not overlap; they met on 24 pages and seven
+  records, and the merge appended one after the other.
 
 - **Decision 011 — confirm or narrow.** On „Use dspy Optimierung on the
   Scripts" and „Add openrouter free Models in the mix" the session let DSPy
@@ -410,8 +419,9 @@ In order, and none of it needs a model:
    args. The rule for what enters a record is in
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
-   nothing** (decision 012, rule 2). The fifteen read documents are settled:
-   24 hits, 10 readings, 14 occurrences, in `Plan/runs/sweep.jsonl`.
+   nothing** (decision 012, rule 2). Every read document is settled:
+   30 <!--state:sweep.decided--> hits, 14 <!--state:sweep.readings--> of them
+   readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
 
@@ -486,7 +496,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 14 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 15 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -625,7 +635,19 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — Plot-Konkretisierung reconciled
+## Next document — Sprach-DNA reconciled
+
+**The nineteenth document is done: `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-09-25.** 194 candidates under decision 012's list rule, no pages, readings on 32 pages, eight conflicts and four questions moved, J88, one sweep hit (the title, an occurrence). `Wiki/compare/reconcile-20-koharenz-protokoll-sprach-dna-2026-05-13-md.md` has the record. Read while the other session read `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` (document 18, below), which its handover had named: documents 16 and 17 had each been read twice. Main took that reading first, so this one is document 19, reconciliation 20 and J88.
+
+- **C14**: AEGIS in the third person, never `ich`, with an „Operative Interiorität“ (L37) — a third form beside the older sources' no inner view and the lock's first person.
+- **C11**: Landauer warmth „spürbar als Ozon-Geruch oder Hitzeschlieren“ (L233) — both sides in one sentence, before the lock.
+- **C7** Kap 38; **C10** the knuckles in Nyx's voice; **C5** KW4 is the garden; **Q3** a dominant voice per world, one of them Mnemosyne.
+- **Both sessions found the same two tool defects on the same day**, neither knowing of the other: a prose bullet read as a candidate, and a quotation that begins with a number after a word (document 18's bullets below; `Plan/learnings/extract-terms.md`).
+- **The list cannot hold `1. Person`**: a `- ` line with a period and a space is read as prose, so the document's point-of-view vocabulary was counted by hand (`05-verify.txt`).
+
+Next, by the open records: `kohaerenz-protokoll-konzept-master-md` (1123 lines, 2026-05-08) — `Ozon`, `Landauer`, `734`, `Flight`, `Knöchel`, `Be-er`/`Do-er` and `Erasure` all occur (`grep -ci`, orientation only), so it can speak to C8, C10, C11, C12, C14, C15 and Q5. The other session's handover (document 18, below) names `kap0-v1-annotiert-md` and two Kap 40 files, not this one.
+
+### Previous document — Plot-Konkretisierung
 
 **The eighteenth document is done: `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-09-25.** 581 candidates, no pages, readings on 31 pages, six conflicts and two questions moved, J87, one sweep hit (the title, an occurrence). `Wiki/compare/reconcile-19-kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md` has the record. Chosen for C11 and C12. **It is a proposal**: everything is `[V]` unless it cites a `[K]` lock, and every reading from it opens by saying so.
 

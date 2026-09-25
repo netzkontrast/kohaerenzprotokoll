@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 10
+sources: 11
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -212,3 +212,11 @@ what it cannot see.
 **AEGIS' blindness, made mechanical; the Guardians' is not named.** AEGIS reads Kael's intrusion as „Selbstdiagnose des Systems" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72] —
 „es kann einen Innentäter nicht denken, weil es kein Innen kennt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]. Juna's record is „die Lücke, die AEGIS nicht sehen kann" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206].
 The two Guardians offer gifts in good faith (^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]); no Guardian is given a blind spot.
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**AEGIS' core flaw, seen first from inside — and no blind spot named for a Guardian.**
+[[argus|Argus]]: „Systemkritik, Beobachtung der Beobachtung. Erster Erkenner von AEGIS' Kernfehler." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L109]
+What the flaw is, the document does not say. [[mnemosyne|Mnemosyne]] works in AEGIS' architecture
+„weil sie keine andere Sprache hat" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45] — a lack, not called a blind spot. Nearest to the
+first position, as far as it goes.

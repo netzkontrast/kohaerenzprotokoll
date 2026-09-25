@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 15
-readings: 14
+sources: 16
+readings: 15
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -332,3 +332,22 @@ world Risse are per act, „nicht alter-getrieben" ^[kohaerenz-protokoll-anteile
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 The thread's words are chosen for KW1: „Alle Begriffe sind wörtlich-administrativ und damit KW1-konform (Metaphernverbot, assertorisch, Computational Class P [K])." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L153]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+A style per act, each tied to worlds and chapters:
+„Stilebene 1 — Akt I / Kernwelt 1 (Kap 1–13)." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L181]
+„Stilebene 2 — Akt II / Kernwelten 2–3 (Kap 14–26)." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L185]
+„Stilebene 3 — Akt III / Kernwelt 4 + Juna (Kap 27–39)." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L189]
+
+And a style per world, „horizontale Achse durch die Akte" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L211], each with its dominant voices (J37):
+
+| KW | name | who dominates |
+|---|---|---|
+| KW1 | „KW1 — Konstrukt-Stadt / Logos-Prime." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] | „Dominanz von Kael-Host und Lex." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] |
+| KW2 | „KW2 — Mnemosyne-Archipel. Parakonsistent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] | „Mnemosyne dominiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] |
+| KW3 | „KW3 — Cerberus-Labyrinth. NP-Hard." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L221] | „Nyx und Alex dominieren in EP-Modus." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L221] |
+| KW4 | „KW4 — Möglichkeits-Garten. Generativ." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] | „Selene dominiert in ANP-Modus; Wir-Stimme tritt erstmals ganz auf." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] |
+
+Two worlds are dominated by [[alters|Alters]], one by a Guardian, one by an Alter and the Wir (Q3, Q5).
+KW3 has chapters here: Kernwelten 2–3 are Akt II, Kap 14–26.

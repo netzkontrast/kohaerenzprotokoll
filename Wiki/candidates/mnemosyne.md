@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-17"
 ---
 
@@ -173,3 +173,14 @@ She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-draft
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 „Mnemosyne öffnet das vollständige Archiv — jede Erinnerung, lückenlos, sofort, als Flut" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]. In Kap 31, administratively: „Mnemosyne bietet Vollarchiv-Rechte" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Mnemosyne (Guardian / Erinnerungs-Wächterin)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L43] — `Wächterin` beside `Guardian` (J20, Q4).
+„Bewahrung und Umverwaltung von Trauma-Erinnerungen. Klimax-Setting des Vortex 1." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45] The third person,
+in long flowing sentences, with water, current and sediment for vocabulary (L45).
+
+„Mnemosyne weiß mehr, als sie sagt — aber sie ist nicht heimlich Verbündete; sie operiert in AEGIS' Architektur, weil sie keine andere Sprache hat." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45]
+(Q1.) Her temptation, to erase the pain, „klingt sanft und ist die perfideste Falle" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45].
+Her world: „KW2 — Mnemosyne-Archipel. Parakonsistent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] „Mnemosyne dominiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] (J49, Q5.)
+Her counter-pole is the Erasure-Pol, „Kalter Gegen-Pol zu Mnemosyne." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L53]
