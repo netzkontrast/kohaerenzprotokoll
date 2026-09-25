@@ -1,0 +1,61 @@
+{
+ "model": "nex-agi/nex-n2.5-mini:free",
+ "provider": "Nex AGI",
+ "seconds": 1.7,
+ "content": "[[ ## decision ## ]]\ntwo-terms\n\n[[ ## rule ## ]]\nein Protokoll und Kohärenz bezeichnen unterschiedliche Konzepte\n\n[[ ## completed ## ]]",
+ "response": {
+  "id": "gen-1790322539-5sPkWhToUJMo4A7pWW95",
+  "object": "chat.completion",
+  "created": 1790322539,
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "provider": "Nex AGI",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "[[ ## decision ## ]]\ntwo-terms\n\n[[ ## rule ## ]]\nein Protokoll und Kohärenz bezeichnen unterschiedliche Konzepte\n\n[[ ## completed ## ]]",
+     "refusal": null,
+     "reasoning": "\nWe need answer per exact structure. Need decide German compounds. First \"Das Seelen-Kohärenz-Protokoll\" = The soul-coherence protocol. Second \"Kohärenz\" = coherence. Is same concept in corpus? Compound includes Kohärenz as component, but instruction says \"Ein Kompositum wird nach dem eingeordnet, was es benennt, nie nach seinem Kopf.\" Means compound classified according to what it denotes, never its head. Need infer aliases vs distinct. First is protocol, second coherence. Clearly two terms. Need rule one sentence likely German. Need output fields. Ensure decision literal exactly. Could say \"ein Protokoll und Kohärenz bezeichnen unterschiedliche Konzepte.\" Ending completed. Need perhaps no extra.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "\nWe need answer per exact structure. Need decide German compounds. First \"Das Seelen-Kohärenz-Protokoll\" = The soul-coherence protocol. Second \"Kohärenz\" = coherence. Is same concept in corpus? Compound includes Kohärenz as component, but instruction says \"Ein Kompositum wird nach dem eingeordnet, was es benennt, nie nach seinem Kopf.\" Means compound classified according to what it denotes, never its head. Need infer aliases vs distinct. First is protocol, second coherence. Clearly two terms. Need rule one sentence likely German. Need output fields. Ensure decision literal exactly. Could say \"ein Protokoll und Kohärenz bezeichnen unterschiedliche Konzepte.\" Ending completed. Need perhaps no extra.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 907,
+   "completion_tokens": 197,
+   "total_tokens": 1104,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 768,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 179,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

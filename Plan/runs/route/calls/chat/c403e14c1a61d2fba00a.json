@@ -1,0 +1,61 @@
+{
+ "model": "nex-agi/nex-n2.5-mini:free",
+ "provider": "Nex AGI",
+ "seconds": 3.9,
+ "content": "[[ ## decision ## ]]\ntwo-terms\n\n[[ ## rule ## ]]\nUnterschiedliche Einheiten- und Versionsnummern weisen auf verschiedene Wohn единицы hin.\n\n[[ ## completed ## ]]",
+ "response": {
+  "id": "gen-1790322614-5lUR1bbpc0N9CCNWi80A",
+  "object": "chat.completion",
+  "created": 1790322614,
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "provider": "Nex AGI",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "[[ ## decision ## ]]\ntwo-terms\n\n[[ ## rule ## ]]\nUnterschiedliche Einheiten- und Versionsnummern weisen auf verschiedene Wohn единицы hin.\n\n[[ ## completed ## ]]",
+     "refusal": null,
+     "reasoning": "\nWe need answer exact structure decision/rule/completed. Need determine same concept? \"Wohneinheit 734-K\" vs \"Kaels Wohneinheit 1.0\". Likely two terms? Need infer corpus/task. We have no wiki context. Need classify surface forms same concept or distinct. One is unit 734-K, another Kaels unit 1.0. Likely two distinct dwelling units. Rule sentence in German. Need ensure no extra completed text? User asks starting fields ending marker. Prior assistant omitted completed content perhaps marker alone. We should output.\n\nNeed carefully decide. \"Wohneinheit 734-K\" and \"Kaels Wohneinheit 1.0\": both could refer to same physical unit? One designation \"734-K\", another \"Kaels Wohneinheit 1.0\" perhaps alias? Need understand fictional corpus perhaps game. Could be names. Need classify based on wording. They ask same concept in corpus. Specific article ignored, comp based on what names, opposites never term. Examples indicate aliases normalization. Here identifiers differ substantially. \"Kaels Wohneinheit 1.0\" means Kaels dwelling unit 1.0; \"Wohneinheit 734-K\" distinct numbered unit. Unless 734-K is Kaels's unit and 1.0 is version? No evidence. two-terms.\n\nRule in one sentence, German. \"Bezeichnungen mit unterschiedlichen eindeutigen Einheiten- bzw. Versionsnummern bezeichnen verschiedene Einheiten.\" Need perhaps article not boundary. Let's formulate concise. Output exact.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "\nWe need answer exact structure decision/rule/completed. Need determine same concept? \"Wohneinheit 734-K\" vs \"Kaels Wohneinheit 1.0\". Likely two terms? Need infer corpus/task. We have no wiki context. Need classify surface forms same concept or distinct. One is unit 734-K, another Kaels unit 1.0. Likely two distinct dwelling units. Rule sentence in German. Need ensure no extra completed text? User asks starting fields ending marker. Prior assistant omitted completed content perhaps marker alone. We should output.\n\nNeed carefully decide. \"Wohneinheit 734-K\" and \"Kaels Wohneinheit 1.0\": both could refer to same physical unit? One designation \"734-K\", another \"Kaels Wohneinheit 1.0\" perhaps alias? Need understand fictional corpus perhaps game. Could be names. Need classify based on wording. They ask same concept in corpus. Specific article ignored, comp based on what names, opposites never term. Examples indicate aliases normalization. Here identifiers differ substantially. \"Kaels Wohneinheit 1.0\" means Kaels dwelling unit 1.0; \"Wohneinheit 734-K\" distinct numbered unit. Unless 734-K is Kaels's unit and 1.0 is version? No evidence. two-terms.\n\nRule in one sentence, German. \"Bezeichnungen mit unterschiedlichen eindeutigen Einheiten- bzw. Versionsnummern bezeichnen verschiedene Einheiten.\" Need perhaps article not boundary. Let's formulate concise. Output exact.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 934,
+   "completion_tokens": 377,
+   "total_tokens": 1311,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 347,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}
