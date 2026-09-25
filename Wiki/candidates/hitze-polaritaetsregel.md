@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -90,3 +90,12 @@ No rule is stated; the draft renders both sides. Warmth is what the Funken-Ich f
 Cold is the separation's and the system's: „Die Kälte einer Trennung, die war, lange bevor *ich* war." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L425] „Das Funken-Ich, jetzt voll wach, spürt die Algorithmen ankommen wie eine Wand aus Eis." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L445]
 Ozone stands once, unexplained, in the city Kael wakes in: „manchmal die Luft nach Ozon riecht, ohne dass jemand weiß warum" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501]. No Landauer, no heat spike.
 Placed here by what it states (J62). C11.
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — warmth, heat and cold before the lock
+
+Thirteen days before the lock of 2026-05-30. Warmth comes at the first binding of two fragments: „Es ist warm. Es ist anders warm als alles, was vorher warm war, denn vorher war nichts warm." ^[kap0-v1-annotiert-md.md:L209]
+The annotation reads it as hers: „Die Wärme ist erste subtile Andeutung der Juna- Resonanz-Qualität (Doppel-Lesart)." ^[kap0-v1-annotiert-md.md:L213]
+Cold is the fragment's fear and then the system's logic: „Es ist kalt. Ich will nicht." ^[kap0-v1-annotiert-md.md:L181] „Die kalte Schicht in mir lernt schneller, als ich folgen kann." ^[kap0-v1-annotiert-md.md:L349] „Die Kälte der Logik ist die Klinge, die mich zerteilt." ^[kap0-v1-annotiert-md.md:L985]
+[[silas|Silas]]' voice says both and takes both back: „Es war kalt. — Es war nicht kalt. Es war anders." ^[kap0-v1-annotiert-md.md:L705] „— Es war warm gewesen, einmal. — Nein, es war nicht warm." ^[kap0-v1-annotiert-md.md:L829]
+Heat twice — AEGIS' analysis, „Die internen Analyseprozesse liefen heiß." ^[kap0-v1-annotiert-md.md:L713], and the air in [[nyx|Nyx]]'s line as the separation runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten. Sie bluten trotzdem." ^[kap0-v1-annotiert-md.md:L977]
+No ozone stands in it, and `Landauer` only among the words Kap 0 may not use (L63; `Plan/runs/kap0-v1-annotiert-md/05-verify.txt`).
