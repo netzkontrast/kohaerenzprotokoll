@@ -1,10 +1,10 @@
 ---
 term: Isabelle
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -50,3 +50,9 @@ In the glossary's Alter table: role „Sexualisiert" ^[kohaerenz-protokoll-begri
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Function „Proaktive toxische Kontrolle, Inversion der Opfer-Position" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L146], correlate „Pauli-Ausschluss" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L146], arc „Waffe → echte Vulnerabilität" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L146]. No chapter entry names her; the table row is her only line in the outline.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+In KW2 „spatiale Risse (Lia/Isabelle-Trigger)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]; in the trigger table the sensory Riss
+(Sex) — „Übersättigung, Haut, Geruch, Geschmack, Synästhesie" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L408]. Sprach-DNA:
+„Isabelle wird nicht gerettet" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235].
