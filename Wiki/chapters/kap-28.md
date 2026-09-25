@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -44,6 +44,12 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Story: „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
 - Storyform: „A: MC-Issue. B: OS-Physics, Erasure-Drohung explizit.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
 - Sensorik: „Sensorik: drohende Spannung, Countdown-Marker.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1016]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Position: „Akt III | 27–34“ ^[kohaerenz-protokoll-konzept-master-md.md:L905] · „KW4 — Möglichkeits-Garten | Akt III (Kap 27–34, Vorbereitung Vortex)“ ^[kohaerenz-protokoll-konzept-master-md.md:L661]
+
+- Bridge scenes: „Vortex-Vorläufer ab \~Kap 28“ ^[kohaerenz-protokoll-konzept-master-md.md:L890] · „Vortex-Vorläufer eskalieren“ ^[kohaerenz-protokoll-konzept-master-md.md:L905]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -100,5 +106,5 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 ## Where the sources differ
 
 - **The trigger: Purge and Juna, or one of them.** „AEGIS droht mit Purge, Juna in Gefahr.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L616] (Konzept-Iteration Genesis) · „Purge-Drohung, Juna in Gefahr; A-Consequence akut (ewige Fragmentierung droht)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360] (storyform outline) · „Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig) zwingt Kael zum sofortigen Handeln.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L913] (strukturierter Outline).
-- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] with „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung).
+- **Act.** „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] with „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796] (Kernwelten vollständig) · „Phase A (Kap 27–34) — Akt III äußere Konfrontation.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L886] (konsolidiertes Konzept) · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (storyform outline) · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] (Plot-Konkretisierung) · „Akt III | 27–34“ ^[kohaerenz-protokoll-konzept-master-md.md:L905] (Master-Report).
 - **Title.** „AEGIS' Eskalation“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis) · „Call to Adventure: AEGIS' Eskalation / Juna in Gefahr“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L903] (strukturierter Outline) · „Consequence akut“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L226] (Kapitel-Kompendium); the second opens with the Genesis document's stage name, „HR-Stufe 2: Call to Adventure“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L614] (Konzept-Iteration Genesis).

@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,13 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Stage: „Pforten der Verurteilung — Prüfungen (logische Grenzen, Scham, Zweifel)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L822]
 - Storyform: „A: MC-Issue. B: IC-Mind/Conscious latent“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L968]
 - Sensorik: „Sensorik: korrumpierte Textdateien.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L968]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Position: „Akt I | 1–13“ ^[kohaerenz-protokoll-konzept-master-md.md:L903] · „KW1 — Konstrukt-Stadt | Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-konzept-master-md.md:L658]
+
+- Risse: „Diese strukturelle Unvorhersagbarkeit ist die Quelle der KW2-Risse (Kap 4 / Kap 13 entsprechend).“ ^[kohaerenz-protokoll-konzept-master-md.md:L714]
+- Kael: „Kael als Brücke: sein Beobachten kollabiert die Simulation in spezifische Realitäten (Kap 4, 13 — Gödel-Knoten als Mess-Problem-Avatare).“ ^[kohaerenz-protokoll-konzept-master-md.md:L788]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

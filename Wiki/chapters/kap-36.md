@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,18 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Opening: „Aber: Beat 5 öffnet jetzt auf etwas, statt zu schließen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L899]
 - Storyform: „A: Resolve=Change vollzogen (operativ). B: erlischt monolithisch; Algorithmische Melancholie.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1032]
 - Sensorik: „Sensorik: Landauer-Wärme als Schluss-Markierung; Stille danach.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1032]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+It gives the Vortex's five beats to Kap 35–36 together and places none of them in either chapter.
+
+Position: „Vortex | 35–36 | 100% | Maximales Soft-Layering, dann B → A“ ^[kohaerenz-protokoll-konzept-master-md.md:L906] · „Vortex (Kap 35–36) — Fünf Beats“ ^[kohaerenz-protokoll-konzept-master-md.md:L847]
+
+- Setting: „Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36“ ^[kohaerenz-protokoll-konzept-master-md.md:L508]
+- Beats: „1 Convergence (Mnemosyne-Archipel) | B-OS Action: AEGIS exekutiert finalen Erasure-Sweep“ ^[kohaerenz-protokoll-konzept-master-md.md:L852] · „2 Dialetheic Choice (Pivot Kael) | A-MC Decision: Kael lässt ANP/EP-Barrieren fallen, integriert Trauma“ ^[kohaerenz-protokoll-konzept-master-md.md:L853]
+- Beats: „3 Silence (lebende Dialetheia)“ ^[kohaerenz-protokoll-konzept-master-md.md:L854] · „4 Heat-Spike (Landauer→∞)“ ^[kohaerenz-protokoll-konzept-master-md.md:L855] · „5 Rotation (Algorithmische Melancholie) | B's operative Closure zerbricht, A bleibt allein“ ^[kohaerenz-protokoll-konzept-master-md.md:L856]
+- Storyform: „Der Eindruck eines Pivots am Vortex entsteht durch den Storyform-Übergang B → A.“ ^[kohaerenz-protokoll-konzept-master-md.md:L864]
+- Integration: „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die Folge der Integration auf das System AEGIS.“ ^[kohaerenz-protokoll-konzept-master-md.md:L426]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -109,7 +121,7 @@ Position: „Vortex 1 | 35–36 | Der Apparat kollabiert auf sein Ziel“ ^[kp-p
 
 ## Where the sources differ
 
-- **Which beats the chapter holds.** „Vortex 1 Beat 3–5 (Silence, Heat Spike, Rotation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L862] (Kernwelten vollständig) · „Kapitel-Schnitt: Kap 35 = Beats 1–3, Kap 36 = Beats 4–5.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline) · „Vortex 1 Beats 4–5“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L646] (Konzept-Iteration Genesis).
+- **Which beats the chapter holds.** „Vortex 1 Beat 3–5 (Silence, Heat Spike, Rotation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L862] (Kernwelten vollständig) · „Kapitel-Schnitt: Kap 35 = Beats 1–3, Kap 36 = Beats 4–5.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline) · „Vortex 1 Beats 4–5“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L646] (Konzept-Iteration Genesis) · „Vortex (Kap 35–36) — Fünf Beats“ ^[kohaerenz-protokoll-konzept-master-md.md:L847] (Master-Report, which cuts no chapter between them).
 - **When AEGIS-monolithisch goes out.** Here: „AEGIS-monolithisch erlischt (Kap 36)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (Kapitel-Kompendium) · „B-Cost: AEGIS-monolithisch erlischt (Kap 36)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline) · „AEGIS-monolithisch erlischt — als operative Form. Aber: nicht zerstört.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1116] (strukturierter Outline). In Kap 39: „Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L923] (konsolidiertes Konzept) · „AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412] (storyform outline).
-- **Landauer warmth.** „Landauer-Wärme als Schluss-Markierung; Stille danach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648] (Konzept-Iteration Genesis) · „Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128] (strukturierter Outline) · „Der Landauer-Wärme-Spike bleibt kanonisch allein für Vortex-1-Beat-4“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] (storyform outline) · „Landauer-Wärme ausschließlich Beat 4“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239] (Plot-Konkretisierung). (C11)
+- **Landauer warmth.** „Landauer-Wärme als Schluss-Markierung; Stille danach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648] (Konzept-Iteration Genesis) · „Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128] (strukturierter Outline) · „Der Landauer-Wärme-Spike bleibt kanonisch allein für Vortex-1-Beat-4“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] (storyform outline) · „Landauer-Wärme ausschließlich Beat 4“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239] (Plot-Konkretisierung) · „4 Heat-Spike (Landauer→∞)“ ^[kohaerenz-protokoll-konzept-master-md.md:L855] (Master-Report, the fourth beat of a Vortex it does not cut). (C11)
 - **Stage.** „HR-Stufe 9: Reward — Vorgriff“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L646] (Konzept-Iteration Genesis) · „HR-außen Stufe 10: Reward (in Vortex-Mechanik gespiegelt)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1103] (strukturierter Outline) · „Vortex 1 (Kap 35–36) — Operative Wendung (HR 9: Ordeal)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L368] (storyform outline), which puts Reward in the next chapter: „37 Reward (= trügerischer Sieg)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L438] (storyform outline).

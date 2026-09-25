@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,13 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Title elsewhere: „Kap 33 (Das Fundament) — direkte Berührung der K1-Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1095]
 - Tone: „Orkan-energetisch (33–34)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L928]
 - Characters: „Oblivion als Erason-Operator“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448] · „mit POV-Anteilen ab Kap 32 oder 33“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Position: „Akt III | 27–34“ ^[kohaerenz-protokoll-konzept-master-md.md:L905] · „KW4 — Möglichkeits-Garten | Akt III (Kap 27–34, Vorbereitung Vortex)“ ^[kohaerenz-protokoll-konzept-master-md.md:L661]
+
+- Story: „Funktionale Multiplizität wird Kapitel 33 erreicht (Outline-Rev 2026-05-01).“ ^[kohaerenz-protokoll-konzept-master-md.md:L426] · „Kael erreicht Funktionale Multiplizität (Kap 33), nicht Final Fusion.“ ^[kohaerenz-protokoll-konzept-master-md.md:L829]
+- Vortex: „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die Folge der Integration auf das System AEGIS.“ ^[kohaerenz-protokoll-konzept-master-md.md:L426]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
