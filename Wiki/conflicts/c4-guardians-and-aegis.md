@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 8
+sources: 9
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -197,3 +197,12 @@ No Guardian is given a blind spot. The two [[guardians|Guardians]] it names sit 
 „Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282], and Mnemosyne is
 „die einzige Stimme im AEGIS-System" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696] who knows more than AEGIS. Nearest to
 the first position: a blindness of AEGIS', not one per Guardian.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**AEGIS' blindness, located in the mirrors.** Silas: „AEGIS kann ihn strukturell nicht erfassen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] His Riss
+„sieht aus wie ein Sensor-Fehler, nicht wie eine Anomalie" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]. Oblivion is AEGIS' inner enforcer, and
+„AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778] And the one who sees AEGIS' flaw is an Alter:
+„Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L667] No blind spot is named for
+Mnemosyne or the Erasure-Pol. On the first position's side — AEGIS' blindness — with the system's parts as
+what it cannot see.
