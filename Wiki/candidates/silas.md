@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -77,3 +77,19 @@ In the trigger table „Silas (Coheron-Echo)" ^[kohaerenz-protokoll-welt-sensori
 „Oberflächen werden unerwartet weich und warm" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409]. His anchor is a half sentence locked for
 Kap 1 — „Etwas in der Frequenz der Lüftung schien zu—" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L496] — and in Akt III he becomes
 „Silas wird zum aktiven Transmitter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L498]. The exact chapters stay open (OQ-E, L1428).
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Internalisiertes Nachbild der Bindung, die AEGIS nicht vollständig löschen konnte." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687]
+„Resonanzkörper des Moonshine-Links innerhalb des Systems Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687] Motivation and phobias are gaps,
+`[L]` (L691, L695); somatics a proposal from the character bible (L707).
+„Silas ist die einzige Alter, deren Existenz zeitfrei ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] — [[atemporalitaet]].
+
+**The polarity lock stands in his riss field.** „Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
+„Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703] — the debut this document also gives [[juna|Juna]]'s trace (L1042). [[hitze-polaritaetsregel]].
+His struggle with [[oblivion|Oblivion]] makes „Landauer-Hitze" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — C11.
+
+Akt I, Kap 1's lock: „Etwas in der Frequenz der Lüftung schien zu—" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L729] Akt III:
+„Wird zum aktiven Transmitter für das Gödel-Gambit." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] POV from about Kap 31/32, OQ-E (L731, L1075).
+One of Juna's two anchors: „Anker: Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029]
+„Silas ist nicht Juna. Silas ist ein Echo." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L735]
