@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 15
-readings: 16
+sources: 16
+readings: 17
 conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -289,3 +289,20 @@ At Kap 39 it „erlischt monolithisch, lebt plural" ^[kohaerenz-protokoll-welt-s
 Outside the thirteen: „AEGIS spricht nie in Prosa." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L944] It appears as log or protocol, with a fixed log format
 (L952–L988). In Kap 1 „keine AEGIS-Stimme" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]; its voice debuts in the Hard-B chapter, Kap 5–8 (L992).
 Its echo inside the system is [[oblivion|Oblivion]]; its greatest threat, [[selene|Selene]] (L853).
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**The third person, never `ich` — and an inside that only operates.** The heading:
+„AEGIS (operative Hälfte / MC in Storyform B)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L35]. „Bewahrung-Funktion ohne Resonanz. Tragisch unschuldig." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L37]
+Its point of view is `3. Person personal`, and it never says `ich` (L37). What the reader gets instead:
+„Operative Interiorität — der Leser ist im Prozess, aber der Prozess kennt nur Klassifikation, Messung, Maßnahme." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L37]
+„Keine Metapher, kein moralisches Vokabular, keine Empfindung, kein Witz." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L37] Its sample is a log line,
+„Maßnahme: Re-Containment eskaliert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L37] No chapter in Kap 5–8 is named for it (C14).
+
+**It breaks once.** „Bricht nur einmal, im Vortex-Beat 5." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L37] In Vortex 1:
+„Beat 5: AEGIS' Stimme erlischt; Algorithmische Melancholie folgt." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L193] In the false victory of Kap 37 it is
+heard only as „leere Log-Fragmente, abgeschnittene Hex-IDs" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L197].
+
+Inside the system its echo is [[oblivion|Oblivion]] (L163, J74); its core flaw is first recognised by
+[[argus|Argus]] (L109); and [[rhys|Rhys]] „Hält zusammen, was AEGIS zerschnitten hat." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L93]
+Not expanded (C1); its Approach not given (C8).
