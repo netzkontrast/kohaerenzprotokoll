@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-25"
 ---
 
@@ -45,3 +45,8 @@ Why it can turn: „sie geschieht, weil die Form selbst plural geworden ist und 
 
 In Kap 39, „Wir-AEGIS-plural (Vortex 2 Beat 6–10)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1190]: „**Die zentrale Formel-Inversion vollzieht sich:** *„Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."*" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1212]
 Only the second sentence, and in Kap 39.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+In Vortex 2, Kap 38–39, marked `[K]` (L238): „Formel-Inversion vollzogen:** „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."" ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]
+Only the second sentence, in the Vortex before Kap 40.
