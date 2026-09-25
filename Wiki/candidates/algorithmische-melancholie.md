@@ -1,10 +1,10 @@
 ---
 term: Algorithmische Melancholie
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -83,3 +83,8 @@ Against the alternatives: „**AEGIS-Tod:** zu einfach, evakuiert das tragische 
 „Ewige berechnete Sinnlosigkeit." ^[kohaerenz-protokoll-konzept-master-md.md:L496]
 Open: „Vorgeschlagen: lebende Reliquie — operativ aktiv, aber ohne Selbstreferenzfähigkeit; eine Maschine, die noch zählt, aber nicht mehr weiß, dass sie zählt." ^[kohaerenz-protokoll-konzept-master-md.md:L500] „Anchor noch offen." ^[kohaerenz-protokoll-konzept-master-md.md:L500]
 It is the Vortex's fifth beat: „| \*\*5 Rotation\*\* (Algorithmische Melancholie) |" ^[kohaerenz-protokoll-konzept-master-md.md:L856], and Storyform B's end: „AEGIS scheitert tragisch in Algorithmische Melancholie." ^[kohaerenz-protokoll-konzept-master-md.md:L837]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Kap 36, Vortex Beats 4–5: „B: erlischt; Algorithmische Melancholie" ^[three-mode-architecture-39-chapters-md.md:L341].
+After it AEGIS appears only „als Echo, in Algorithmischer Melancholie" ^[three-mode-architecture-39-chapters-md.md:L440].
