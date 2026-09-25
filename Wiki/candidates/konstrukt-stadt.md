@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -147,3 +147,8 @@ Its language: „prägt den Stil von KW1 (Konstatierungs-Sprache: kurze, atomare
 „KW1 ist die Domäne der Phänomena: das, was AEGIS' "kognitiver Apparat" durchlässt." ^[kohaerenz-protokoll-konzept-master-md.md:L690]
 „**Ebene 1 (KW1):** kalt, steril, assertorisch, Metaphernverbot." ^[kohaerenz-protokoll-konzept-master-md.md:L1038]
 KW1 is the whole Akt I here (C9).
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+Where Kael wakes, named in Kap 0's last lines as what comes next: „der sich gleich in eine Konstrukt-Stadt erwachen wird, wo die Temperatur immer einundzwanzig Grad ist und manchmal die Luft nach Ozon riecht, ohne dass jemand weiß warum" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501]
+It is not called a Kern-Welt here; the Kernwelten are named eight lines before, as future work (L493). C11 for the ozone.
