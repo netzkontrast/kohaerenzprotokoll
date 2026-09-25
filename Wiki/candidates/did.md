@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-16"
 ---
 
@@ -93,3 +93,10 @@ on reread every trace must read as a symptom. Hard rule R-3: the terms
 
 The model is „TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42], with IFS for healing.
 „Dissoziation = Amnesie-Terror, niemals Crew-Menü." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42] In Kap 8–10 „Noch kein „DID", kein „Alters"." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L928]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+Its frame is TSDP: „Die Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP, van der Hart, Nijenhuis, Steele 2006)" ^[kohaerenz-protokoll-konzept-master-md.md:L365].
+„Tertiäre Strukturelle Dissoziation: Mehrere ANPs und mehrere EPs. Typisch für DIS / komplexes Trauma." ^[kohaerenz-protokoll-konzept-master-md.md:L381]
+„Die ältere DIS-Therapie-Tradition (Putnam u. a.) zielte auf Final Fusion" ^[kohaerenz-protokoll-konzept-master-md.md:L412] — refused (L416).
+„Keine DID-Allegorie." ^[kohaerenz-protokoll-konzept-master-md.md:L1071] „sie sind diagnostisch konkret und phänomenologisch genau" ^[kohaerenz-protokoll-konzept-master-md.md:L1071]. Placed by what it states (J62).
