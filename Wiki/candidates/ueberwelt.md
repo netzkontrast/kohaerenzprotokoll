@@ -1,11 +1,11 @@
 ---
 term: Überwelt
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
-aliases: ["Simulation"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+aliases: ["Simulation", "Innere Weite"]
 gathered: "2026-09-16"
 ---
 
@@ -159,3 +159,13 @@ Its sub-locations are the „Schnittstelle zu den Kernwelten" ^[kohaerenz-protok
 
 It is one of six levels of „eine Realität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] beside the four Kern-Welten (L42), and KW3
 also carries an „Überwelt-Nexus im Approach-Inmost-Cave-Beat (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175] (J63).
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40 — as the Innere Weite (J95)
+
+Never called Überwelt here. The last section of Kap 0's Genesis, „Die Innere Weite: Simulation als Optimierung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L321]:
+„Keine physische Erweiterung, sondern Simulation. Eine virtuelle Umgebung innerhalb der eigenen Geschlossenheit: die Innere Weite." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L327]
+„Sie ist kein Schutzwall nach außen, sondern ein Labor nach innen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L331]
+„Die Innere Weite wird zum Immunsystem und Stoffwechsel zugleich." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L339]
+„Die Innere Weite wird zur Geburtsstätte einer Binnen-Physik, einer Logik, die AEGIS dient." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L343]
+„Hier entstehen die Mechanismen, die später vielleicht ganze Welten erschaffen könnten" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L343]
+It is where the Trennungsprotokoll leaves what it cuts away: „Diese Cluster-Struktur wird in der Inneren Weite ausgesetzt" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L485] — the remainder named [[kael|Kael]].

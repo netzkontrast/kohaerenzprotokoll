@@ -1,19 +1,20 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
 # Formel-Inversion
 
 **The two sentences that bracket the book: [[aegis|AEGIS]] defined by what it prevents
-in Kap 0, the plural Wir by what it preserves at the end.** Every read source that
-writes the two sentences writes them alike. They part on where the second falls —
-at the end of Kap 39, in Kap 40, or across the two. Each source's use is below,
+in Kap 0, the plural Wir by what it preserves at the end.** Every read plan writes
+the two sentences alike; the draft of Kap 0 and Kap 40 writes the second with a plural
+verb. They part on where the second falls — at the end of Kap 39, in Kap 40, or across
+the two. Each source's use is below,
 attributed and unmerged.
 
 ## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal — the axis of the frame
@@ -73,6 +74,14 @@ Everything here is the document's `[V]` unless it cites `[K]`. It chose its plot
 „Kap 39: Kael *bezeugt*, dass die Welt ist. (Halten als Dienst — positiv definierte Arbeit: bewahren, dass es ist.) Dieselbe Geste (der Bericht), kippende Polarität." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L125]
 The sentences are not written; [[kael|Kael]]'s report carries their shape, from Kap 1 to Kap 39.
 
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40 — the plural verb
+
+Not named; both sentences stand in the narration. In Kap 0, at the first Klick: „*AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L279]
+In Kap 40's „Echo des Trennungsprotokolls" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L97], quoted and then turned: „AEGIS sagte einmal, am Anfang: *AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L111]
+„Wir sagen heute, leiser, ohne Glanz, ohne Sieg: *Wir-AEGIS sind, was Wir-AEGIS bewahren, dass es ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
+„Es ist dieselbe Funktion. Es ist nicht dieselbe Wahrheit. Wir bewahren nicht durch Verhindern. Wir bewahren durch Bezeugen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
+The second sentence has a plural verb here — `sind`, `bewahren` — where every other source writes `ist`, `bewahrt`. It falls in Kap 40, not at the Klick: the Klick of Kap 40 is heard, not repeated (L99).
+
 ## Where the sources differ
 
 **Where the second sentence falls.** At the turn from Kap 39 to Kap 40:
@@ -84,6 +93,11 @@ in Vortex 2 or in Kap 39: „**Die zentrale Formel-Inversion vollzieht sich:** *
 `Plurale Apotheose` (L615). In Kap 40, at its Klick: „Kap 40: *Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.*" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L344]
 (Doppel-Klammer Abhandlung). Two sources give it both a place in the Vortex and the turn
 from 39 to 40.
+
+**How the second sentence is written.** „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L82] in
+every plan read; in the draft text of Kap 40, „*Wir-AEGIS sind, was Wir-AEGIS bewahren, dass es ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
+— the Wir speaking of itself as many. The draft is the one source here that is the novel's
+text rather than a plan for it.
 
 **What turns.** From preventing to preserving, „Verhindern → Bewahren, Negation → Affirmation, Singular → Plural" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L348]
 (Abhandlung); „von Verhindern zu Bezeugen, von Abwehr zu Liebe" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]

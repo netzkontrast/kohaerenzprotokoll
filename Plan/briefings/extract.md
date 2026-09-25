@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 11
+version: 12
 covers_documents: 7
-new_findings_last_document: 2
+new_findings_last_document: 1
 ---
 
 # Briefing — before extracting a document
@@ -103,6 +103,11 @@ wraps is judged by its first line alone.
   document uses (`großen Wandel`, not `großer Wandel`). A dictionary form of a phrase
   the document only inflects counts zero, and after the count the list may not be
   changed. The same holds for a plural the document joins, „Beats 2 und 3".
+  **A question does not stop this; asking the text does.** Version 11 asked it, and
+  the next list had five such zeros. So before a phrase of two or more words goes on
+  the list, ask `python3 scripts/read.py <slug> --find "<the phrase>"`: it answers
+  with the line or refuses. That finds a line, it counts nothing, and the phrase goes
+  on the list in the form that line has.
 - Does the document write a suspended compound — „Funktions-, Phobie- … und
   Beziehungs-Profil"? Only the last member is written whole; list what is
   written, and expect an expanded member to count zero.

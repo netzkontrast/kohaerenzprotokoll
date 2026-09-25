@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 17
-readings: 16
+sources: 18
+readings: 17
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -362,3 +362,8 @@ KW1 [[konstrukt-stadt|Konstrukt-Stadt]], Akt I, Kap 1–13, `P (Polynomialzeit)`
 „Es gibt nicht mehrere parallele Realitäten, durch die Kael reist; es gibt eine Realität mit verschiedenen Logikregimen (KW1–KW4)." ^[kohaerenz-protokoll-konzept-master-md.md:L1072]
 
 The consistency matrix nonetheless gives the alters world ranges — Lex `P (KW1)`, Alex, Rhys and Selene `KW1–KW2`, the EPs `Parakonsistent (KW2)`, Silas `KW3–KW4`, Oblivion `KW1–KW3`, and Kael „Spannt KW1→KW4" ^[kohaerenz-protokoll-konzept-master-md.md:L952] (L952–L958; Q3).
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+Named once, as what AEGIS will build after the Trennungsprotokoll to keep the frequency out: „AEGIS wird in den nächsten Iterationen Welten bauen, in denen Frequenzen wie diese nicht vorkommen können. Es wird Kernwelten geben, die diese Aufgabe übernehmen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L493]
+No count and no names.

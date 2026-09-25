@@ -887,3 +887,24 @@ What the scan's pages held up: the four readings the scan had written from this 
 (`genesis-klammer`, `vermittler-stimme`, `residual-echos`, `komponente-734`) quote it
 correctly and needed no change but their closing note. The scan's page writers quoted
 the document directly, never through a scan, and it shows.
+
+## Document 22 — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-09-25
+
+The first read document that is the novel's text: a first draft of Kap 40 and Kap 0,
+written in that order. 97 candidates, no page, readings on 17 pages, one alias (J95,
+`Innere Weite` → `ueberwelt`). Prose changes what a reading is: every line is a voice's,
+and the census says which — the Funken-Ich's first person, AEGIS in the third, Kap 40's
+Wir.
+
+**The nominative defect came back one document after the briefing asked about it.** Five
+zeros — `retrograde Schreibordnung`, `ontologische Klammer`, `aktives Vakuum`,
+`selbstverstärkende Schleifen`, `zweiter Klick` — written by the reader who had added the
+question that morning. A question read before the document does not reach a habit applied
+while writing a list. Briefing version 12 turns it into a step: a phrase goes on the list
+after `read.py --find` has returned its line, and in that line's form. `--find` locates;
+it counts nothing, so the list stays ahead of the count.
+
+**A draft can settle what a plan only proposed, or seem to.** The Doppel-Klammer
+Abhandlung's three Setzungen are all in the draft of the same date. Whether the draft
+followed the decision or the decision described the draft, no source read says. The
+readings say what each document does, and the question stays the author's.

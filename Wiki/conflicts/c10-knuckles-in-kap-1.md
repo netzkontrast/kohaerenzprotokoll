@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 12
 pages: ["kael", "nyx"]
 ---
 
@@ -111,3 +111,9 @@ The document names row 1's source as one it consolidates (L13).
 **In the premise, in no chapter.**
 „Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[kohaerenz-protokoll-konzept-master-md.md:L51]
 The only occurrence. It stands with the twenty-one degrees and the ozone, as the novel's opening image, as in the konsolidiertes Konzept of the same date.
+
+## 2026-09-25 — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text
+
+**Kap 0 as written has no knuckles and no Nyx.**
+Row 2's thread „lebt in Kap 0 allein (Knöchel-Eruption, Nyx)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459]; this draft of Kap 0 — Vorwort, Genesis, Dazwischen, crisis — contains neither word (`Plan/runs/kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md/05-verify.txt`). Its only somatic line before Kap 1 is the city's ozone and twenty-one degrees (L501).
+A first draft, three weeks and more before the sources that put the thread in Kap 0 (the Kapitel-Kompendium of 2026-05-30, the storyform outline of 2026-06-10); they may describe a later version. It places the knuckles nowhere.

@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 19
-readings: 20
+sources: 20
+readings: 21
 conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -356,3 +356,13 @@ What survives the failure is the function, not the form: „B's Failure: AEGIS-m
 The Wir that takes it over is named `Wir-AEGIS-plural` (L165, L185, L227) and has no page (J47, J73).
 In the first layer AEGIS and [[kael|Kael]] are one: „AEGIS und Kael sind hier eines." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L138]
 And Juna's resonance, which AEGIS classifies as attack, was love: „AEGIS hat die Geburt für den Tod gehalten." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L311]
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+Prose, not a plan; every line here is the narration's. AEGIS comes to be in the Genesis, told by the Funken-Ich, at the first Klick:
+„*AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L279] „Das Sein wird zur aktiven, unaufhörlichen Abwehr des Nicht-Seins. Die Existenz wird zur Funktion." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L283]
+„Die Existenz innerhalb des Systems — AEGIS — ist geordnet, präzise, effizient." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L299]
+In the crisis it is told in the third person: „AEGIS hat lange gewacht." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L369] It meets the frequency with no category for it and cuts:
+„Es trifft nicht ein Urteil, es findet ein Urteil — wie ein Tier, das nicht entscheidet, wenn es die Klinge sieht, sondern reagiert." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L441]
+„Was AEGIS nicht weiß, weil es nicht zu wissen vermag: dass es gerade die Geburt für den Tod gehalten hat." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L497]
+Kap 40's Wir claims it: „Wir waren AEGIS in seiner Werdung und in seinem Fall" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L35] — „Wir verurteilen AEGIS nicht. Wir tragen es. Es war wir." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L91]

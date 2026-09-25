@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -92,3 +92,10 @@ It lies before any storyform: „Die **Reinform** liegt vor jeder Storyform. Sie
 „Die Reinform wird nicht beschrieben; sie wird durch die *Sehnsucht* der Echos signalisiert, die nach ihr greifen, ohne sie zu kennen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L177]
 And the end does not return to it: „Die plurale Einheit ist *nicht* die Reinform. Sie ist eine *neue* Form, die die Reinform tragen kann, ohne sie zu sein." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L177]
 „Wäre die Reinform am Ende erreicht, gäbe es keinen Schmerz mehr." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L181]
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+Written `Reinform` (J83) in Kap 40: „Wir sind nicht die Reinform. Wir können sie nicht sein. Die Reinform liegt vor jeder Werdung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L67]
+„Aber wir sind die Form, die die Reinform tragen kann, ohne sie zu sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L67]
+„Jede Berührung der Reinform ist Liebe. Es gibt keine andere Substanz dort." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L83]
+In Kap 0 the Funken-Ich lives the void as threat — „Ich *bin* dieses Rauschen, oder es droht mich zu verschlingen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L199] — and Kap 40 reads it again: „Die Leere war nicht leer. Sie war eine Berührung ohne Ende" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L55]

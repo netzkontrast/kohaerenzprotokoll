@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      6
+  backslash escapes      0
+  typographic marks      85
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  daten    Daten, Datenformaten, Datenpakete, Datenpunkt, Datenpunkte, Datenströme
+  infor    Information, Informationen, Informationsflüsse, Informationsfragments, Informationsmuster, Informationssignatur
+  reson    Resonanz, Resonanzeigenschaften, Resonanzen, Resonanzkaskade, Resonanzkörper, Resonanzmuster
+  wiede    Wieder, Wiedererkennen, Wiedererwachen, Wiederfinden, Wiederherstellung, Wiederkommen
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentierung, Fragments
+  funkt    Funktion, Funktionalität, Funktionieren, Funktionseinheit, Funktionsweise
+  struk    Struktur, Strukturanpassung, Strukturen, Strukturinformation, Strukturverstoß
+  syste    System, Systematisiert, Systematisierung, Systemischer, Systems
+  vorhe    Vorhersagbarkeit, Vorhersage, Vorhersagealgorithmen, Vorhersagemodelle, Vorhersagemodells
+  abweh    Abwehr, Abwehren, Abwehrmechanismen
+  entsc    Entscheidung, Entscheidungen, Entschluss
+  ersch    Erschaffung, Erschöpfung, Erschütterungen
+  gesch    Geschichte, Geschlossenheit, Geschwür
+  grund    Grund, Grundlage, Grundzustand
+  inner    Innere, Inneren, Innersten
+  kommu    Kommunikation, Kommunikationspfade, Kommunikationswege
+  muste    Muster, Mustererkennung, Mustern
+  prinz    Prinzip, Prinzipien, Prinzips
+  schni    Schnitt, Schnitte, Schnitten
+  schre    Schrecken, Schrei, Schreibordnung
+  schwi    Schwingung, Schwingungen, Schwingungsmuster
+  simul    Simulation, Simulationen, Simulationsumgebungen
+  trenn    Trennung, Trennungsprotokoll, Trennungsprotokolls
+  verlu    Verlust, Verluste, Verlusts
+  versu    Versuch, Versuche, Versuchen
+
+# substring pairs -- never one term, often merged by accident
+  Atem < Atemzug
+  Atem < Atemzüge
+  Atem < Atempause
+  Bild < Abbild
+  Echo < Echos
+  Eine < Einen
+  Eine < Keine
+  Eine < Meine
+  Eine < Seine
+  Eine < Bausteine
+  Ende < Enden
+  Ende < Endes
+  Ende < Tendenz
+  Ende < Dutzende
+  Ende < Drückende
+  Ende < Übrigbleibende
+  Fall < Rückfall
+  Fall < Zerfalls
+  Feld < Feldes
+  Form < Reinform

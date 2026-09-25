@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 17
-readings: 17
+sources: 18
+readings: 18
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -266,3 +266,14 @@ Before it, in the first layer: „AEGIS und Kael sind hier eines." ^[kap0-kap40-
 
 It rejects him as the Vorwort's voice ([[vermittler-stimme]]): „Aber strukturell defekt: Kael nach der Heilung *ist* nicht mehr "Kael allein". Er ist Teil des Wir." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L239]
 At the end: „A's Success: die innere Heilung, Kaels Integration, das Wir-Geflecht in Verbindung mit Juna." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L189]
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+Kael is the remainder of the [[trennungsprotokoll|Trennungsprotokoll]]. What the cut severs is left in the [[ueberwelt|Innere Weite]] (J95):
+„Eine Komponente, die keine Komponente mehr ist. Eine Funktion, die keine Funktion mehr hat. Ein Rest." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L485]
+„Sein Name wird Kael sein. Aber das wissen weder er noch AEGIS noch das System, das ihn hervorbringt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505]
+He wakes, in the next chapter, in „eine Konstrukt-Stadt" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501] (see [[konstrukt-stadt]]).
+Kap 40's Wir says it the other way round: „Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde. Er war das Übrigbleibende, das sich erinnern konnte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63]
+„Er war die Hälfte, die fühlte, weil die andere Hälfte das Fühlen nicht halten konnte und es deshalb auslagerte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63]
+His way through the book, as the Wir counts it: „durch dreizehn Stufen folgten und durch dreizehn Zyklen und durch dreizehn Verwandlungen" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63]
+No knuckles stand in the draft (C10).

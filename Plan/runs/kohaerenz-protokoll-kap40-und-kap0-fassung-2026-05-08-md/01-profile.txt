@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md
+  lines                514  (frontmatter ends at 9)
+  body words           6545
+  headings             26   bold-only lines 0
+  table rows           0   code fences 0
+  question marks       10
+  backslash escapes    0
+  typographic marks    85   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    6
+  repeated labels      none
+  longest line         948 chars
+

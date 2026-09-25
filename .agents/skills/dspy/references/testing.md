@@ -459,7 +459,7 @@ provenanced the same way — a mistake, then a case that names it:**
 |---|---|---|
 | `scripts/lmrun.py` | `call()` re-raised DSPy 3.3's own `LMTransportError` instead of recording `unreachable`, because its first nine offline cases never raised that exact type | a tenth case, added 2026-09-24, that raises `dspy.LMTransportError` directly and asserts `status == "unreachable"` (`scripts/lmrun.py`) |
 | `scripts/rlm_ingest.py` | a run forced to stop by `max_iters` could be read as a completed census | `judge(1.0, [], [], 1.0, forced=True)` must **not** start with "a reading" (`scripts/rlm_ingest.py`) |
-| `scripts/wiki_index.py` / `scripts/reconcile.py` | `fold()`'s own docstring claimed behaviour it did not have, repeated in two other files | `scripts/judgements.py` replays all 94 <!--state:judgements.total--> recorded near-match decisions against the current code and reports `agrees`/`DISAGREES`/`judgement` |
+| `scripts/wiki_index.py` / `scripts/reconcile.py` | `fold()`'s own docstring claimed behaviour it did not have, repeated in two other files | `scripts/judgements.py` replays all 95 <!--state:judgements.total--> recorded near-match decisions against the current code and reports `agrees`/`DISAGREES`/`judgement` |
 
 **And note what a green replay of recorded judgements does *not* prove**:
 `fold()` was correct the whole time `reconcile.py`'s own intra-list check

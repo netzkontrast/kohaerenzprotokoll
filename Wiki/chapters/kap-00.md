@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 8
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+sources: 9
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 records: ["C3", "C10", "C12"]
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,19 @@ Position: „Kap 0 ist die Genesis der Storyform-Trennung." ^[kap0-kap40-doppelk
 - Ending: „"Ich falle... in unzählige Scherben…"" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L364]
 - Storyform accent: „Kap 0 ist Driver Action / Approach Do-er." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L392] · „Konsequenz für Kap 0: ein Text der Verben." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L400]
 - Method: written with Kap 40, move by move — „*dann sofort* die korrespondierende Echo-Bewegung in Kap 40" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L500]
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text
+
+Title: „Kapitel 0 — Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L161]
+
+- Form: prose, a first draft, written after Kap 40 — „Kapitel 0 danach, mit dem Resonanzkörper im Atem." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L17]
+- Sections: Vorwort · Genesis (Das Rauschen, Herz der Leere, Erste Kontakte, Sog der Ordnung, Überlebenskampf, „Der große Wandel: Nicht-Sein verhindern" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L261], „Komponente 734: Funktion an der Grenze" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L297], „Die Innere Weite: Simulation als Optimierung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L321]) · „Dazwischen" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L357] · „Die Krise" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L365] (Stille Wacht, Erste Berührung, Resonanzkaskade, Algorithmischer Schrecken, Systemischer Kollaps, Trennungsprotokoll)
+- POV: the Funken-Ich in the first person — „Ich *bin* dieses Rauschen, oder es droht mich zu verschlingen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L199] · AEGIS in the third — „AEGIS hat lange gewacht." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L369]
+- Formula: „*AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L279]
+- Crisis: „Eine Wärme, die es nicht geben kann, weil hier keine Wärme existiert." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L401] · „*Heim.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L405]
+- Separation: „Der zweite Klick." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L469] · „Es heißt Kohärenz. Sein Inhalt ist Trennung." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L465]
+- Seam to Kap 1: „der sich gleich in eine Konstrukt-Stadt erwachen wird, wo die Temperatur immer einundzwanzig Grad ist und manchmal die Luft nach Ozon riecht" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501] · „Sein Name wird Kael sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505]
+- Ending: „Ich falle." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L509] „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -120,5 +133,6 @@ Position: „Genesis-Prolog | 0 | Latenz“ ^[kp-plot-konkretisierung-13-ideen-f
 
 ## Where the sources differ
 
-- **Genesis beats.** „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L787] (konsolidiertes Konzept) · „Genesis-Sequenz: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] (strukturierter Outline) · „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (Kernwelten vollständig) · „Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] (Doppel-Klammer Abhandlung) — five named stages, six, four beats, or two of four. (C12)
+- **Genesis beats.** „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L787] (konsolidiertes Konzept) · „Genesis-Sequenz: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] (strukturierter Outline) · „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (Kernwelten vollständig) · „Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] (Doppel-Klammer Abhandlung) — five named stages, six, four beats, or two of four. The draft text writes eight sections, the last two „Komponente 734: Funktion an der Grenze" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L297] and „Die Innere Weite: Simulation als Optimierung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L321], and counts no beats. (C12)
 - **Storyform A.** „nur B aktiv, A als Phantom-Latenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L213] (strukturierter Outline) · „nur B (MC-S1 Past); A als Phantomgefühl“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] (Kapitel-Kompendium) — A named a latency or a phantom feeling. The Doppel-Klammer Abhandlung, citing a `Storyweaving-Dokument` for the phantom reading, says B is not active either until the Klick: „Das ist nicht falsch, aber es verdeckt eine subtilere Wahrheit: Vor Kap 0 gibt es noch *keine* B-Storyform im aktiven Sinn." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]
+- **The knuckles.** The thread „lebt in Kap 0 allein (Knöchel-Eruption, Nyx)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459] (storyform outline); the draft text of Kap 0, three weeks and more earlier, has neither knuckles nor Nyx, and ends on „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513] (C10)

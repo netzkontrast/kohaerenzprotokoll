@@ -1,0 +1,316 @@
+{
+  "document": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+  "drive_id": "1AklqkYs_GOA-CdFkIv836LQZPVS_FmpIbN-8PlqU7d4",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 95,
+    "decisions": 103,
+    "decided_by_lookup": 53,
+    "needs_judgement": 50
+  },
+  "new_terms": [],
+  "why_no_new_terms": "The draft is the novel's text: it renders what the pages already name. Its one defined thing, the Innere Weite, is glossed as the Überwelt by three read sources and already read there (J95); its section names (Stille Wacht, Erste Berührung, Algorithmischer Schrecken, …) are the crisis sequence the plans list, and belong on the chapter page",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        35,
+        91,
+        279,
+        283,
+        299,
+        369,
+        441,
+        497
+      ],
+      "attribution": "draft text",
+      "note": "comes to be at the first Klick in the Funken-Ich's telling; told in the third person in the crisis; the Wir of Kap 40 claims it"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        63,
+        485,
+        501,
+        505
+      ],
+      "attribution": "draft text",
+      "note": "the Trennungsprotokoll's remainder, left in the Innere Weite and named in Kap 0's last lines; in Kap 40 the cluster cut out of 734; thirteen stages, cycles, transformations"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        79,
+        87,
+        131,
+        381,
+        401
+      ],
+      "attribution": "draft text",
+      "note": "an unnamed frequency in Kap 0, felt as warmth; named in Kap 40 as the movement that makes the world possible"
+    },
+    {
+      "page": "komponente-734",
+      "lines": [
+        59,
+        63,
+        299,
+        311,
+        389,
+        437
+      ],
+      "attribution": "draft text",
+      "note": "the Funken-Ich's functional form after the first Klick and before the crisis; its echo „Ich bin hier.“"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        103,
+        465,
+        469,
+        473,
+        477,
+        485
+      ],
+      "attribution": "draft text",
+      "note": "the protocol named Kohärenz; the second Klick; what it severs becomes Kael"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        49,
+        59,
+        261,
+        297,
+        321,
+        467
+      ],
+      "attribution": "draft text",
+      "note": "Kap 0's Genesis as written, eight sections; no beats counted; 734 before the separation (C12)"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        203,
+        323,
+        465,
+        477,
+        493
+      ],
+      "attribution": "draft text",
+      "note": "the protocol is called Kohärenz and its content is separation"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        493
+      ],
+      "attribution": "draft text",
+      "note": "named once, as the worlds AEGIS will build to keep the frequency out"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        501
+      ],
+      "attribution": "draft text",
+      "note": "where Kael wakes: twenty-one degrees, ozone nobody can explain"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        321,
+        327,
+        331,
+        339,
+        343,
+        485
+      ],
+      "attribution": "draft text",
+      "note": "the Innere Weite, AEGIS' inner simulation space where the remainder is left (J95)"
+    },
+    {
+      "page": "residual-echos",
+      "lines": [
+        35,
+        211,
+        295,
+        307,
+        421,
+        481
+      ],
+      "attribution": "draft text",
+      "note": "the echoes of the origin, processed, waking in the crisis, torn apart by the protocol (J62)"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        55,
+        67,
+        83,
+        199
+      ],
+      "attribution": "draft text",
+      "note": "the Reinform in Kap 40 (J83), and the void as the Funken-Ich lives it"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        315
+      ],
+      "attribution": "draft text",
+      "note": "exported at the border (sweep)"
+    },
+    {
+      "page": "genesis-klammer",
+      "lines": [
+        17,
+        25,
+        49,
+        73,
+        75,
+        97,
+        121,
+        123,
+        147,
+        401,
+        513
+      ],
+      "attribution": "draft text",
+      "note": "the frame as written, Kap 40 first; the echoes by name; the words carried over"
+    },
+    {
+      "page": "vermittler-stimme",
+      "lines": [
+        25,
+        27,
+        31,
+        35,
+        165,
+        169,
+        189,
+        359
+      ],
+      "attribution": "draft text",
+      "note": "the Vorwort's voice, and Kap 40's „Das waren wir.“"
+    },
+    {
+      "page": "formel-inversion",
+      "lines": [
+        97,
+        111,
+        115,
+        279
+      ],
+      "attribution": "draft text",
+      "note": "both sentences in the narration, the second with a plural verb"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        401,
+        425,
+        445,
+        501
+      ],
+      "attribution": "draft text",
+      "note": "warmth, cold and ozone as the draft renders them; no rule (J62)"
+    }
+  ],
+  "reached_by_existing_rule": [
+    "nichts-rauschen (J83: Reinform)",
+    "residual-echos (J62)",
+    "hitze-polaritaetsregel (J62)",
+    "ueberwelt (J95, new: Innere Weite)",
+    "genesis-klammer and vermittler-stimme (J62: the frame and its voice, as written)",
+    "formel-inversion (J62: the sentences, not the name)"
+  ],
+  "not_read_although_looked_up": {
+    "mosaik-herz": "`Mosaik` is the carried shards (J53)",
+    "therapie-schnittstelle-alpha": "`Schnitt` — substring",
+    "did": "`Fragment` is the Funken-Ich's, not a dissociative part — substring",
+    "archiv-der-grenzen": "`Grenze` is AEGIS' border — substring",
+    "grosse-mauer": "`Grenze` — the draft's border is the system itself (L291), not the Große Mauer; shared head (J53)",
+    "entropie-resonanz": "`Protokoll` — substring",
+    "nullpunkt-protokoll": "substring",
+    "protokoll-v14": "substring"
+  },
+  "new_surfaces": [
+    "Innere Weite → ueberwelt (J95)"
+  ],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C2",
+    "C3",
+    "C7",
+    "C10",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [],
+  "records_read_and_not_changed": {
+    "C1": "AEGIS not expanded",
+    "C4": "no Guardian, no blind spot named",
+    "C5": "no Garten",
+    "C6": "no Guardian",
+    "C8": "no Dramatica terms",
+    "C9": "Konstrukt-Stadt named, its scale not stated",
+    "C13": "no Basisrealität, Externe Ebene or Köln",
+    "C15": "no riss type",
+    "Q1": "no Guardian",
+    "Q2": "`Protokoll` names the Trennungsprotokoll only",
+    "Q3": "thirteen stages, cycles and transformations — not alters; no world count",
+    "Q4": "no Wächter",
+    "Q5": "no Guardian"
+  },
+  "judgements": [
+    "J95"
+  ],
+  "decided_by_existing_rules": "intra-list pairs: the section titles and their short forms (Der große Wandel: Nicht-Sein verhindern / Der große Wandel, Komponente 734: Funktion an der Grenze / Komponente 734, Die Innere Weite: Simulation als Optimierung / Innere Weite, Kapitel 0 — Genesis / Genesis) are a heading and its subject, placed on the subject's page (J76); Funke / Funken / Funken-Ich, Echos / Echo der Einsamkeit, Klick / zweiter Klick one referent each (J24, J83); Wir / Wir-AEGIS no page (J47, J73)",
+  "not_promoted": [
+    "Innere Weite: an alias of ueberwelt (J95), not a page",
+    "Funken-Ich: the narrator of the Genesis (8 documents); a voice, read on aegis, komponente-734 and C14",
+    "Kap 0's section names (Stille Wacht, Erste Berührung, Resonanzkaskade, Algorithmischer Schrecken, Systemischer Kollaps, Das Rauschen, Herz der Leere, Erste Kontakte, Sog der Ordnung, Überlebenskampf, Dazwischen): the chapter's structure, on kap-00",
+    "Binnen-Physik, Angst-Vibration, Instabilitätsvibration, Vorhersagealgorithmen, selbstverstärkende Schleifen, Triade, Hilfslinie, Nicht-Nicht-Existenz, Echo-Kaskaden: the narration's images, each in this document",
+    "Wärme, Heim, Wiedererkennen ohne Vorgängiges, Scherben, Mosaik, Klick, fallendes Glas: the frame's key words, read on genesis-klammer and hitze-polaritaetsregel",
+    "Śūnyatā, Parmenides, aktives Vakuum: the Vorwort's references (L173)",
+    "einundzwanzig Grad, Ozon: the Konstrukt-Stadt's air, read there and in C11"
+  ],
+  "sweep": {
+    "hits": 2,
+    "readings": 2,
+    "occurrences": 0,
+    "note": "Entropie L315 (reading on entropie), Simulation L321 (the reading on ueberwelt is by Innere Weite, J95)"
+  },
+  "found_by_rule_not_by_census": [
+    "entropie (sweep)",
+    "genesis-klammer (J62)",
+    "vermittler-stimme (J62)",
+    "formel-inversion (J62)",
+    "hitze-polaritaetsregel (J62)",
+    "ueberwelt (J95)"
+  ],
+  "internal_tension": "Kael arises twice: in Kap 0 as the remainder the Trennungsprotokoll cuts from the subsystems that hosted the Funken-Ich (L473, L485, L505), in Kap 40 as „das Cluster, das aus Komponente 734 herausgetrennt wurde“ (L63). The Vorwort's „wir“ is general, Kap 40's is the plural Wir, and Kap 40 says the Vorwort's was already it (L27–L35). Kap 40 ends twice, on the shards and on „Das Universum hält“",
+  "setzungen_of_the_abhandlung": "all three are in the draft: the voice is the Wir (L31), the warmth is in the Resonanzkaskade (L401) and echoed (L75), the shards follow two falling glasses and are carried without a mirror (L271, L473, L513, L123, L127). The draft does not name the treatise",
+  "chapters": {
+    "readings_on": [
+      0,
+      40
+    ],
+    "left_off": {
+      "1": "Kap 0's last lines name where Kael wakes, not Kap 1"
+    }
+  },
+  "baseline_moved": false
+}

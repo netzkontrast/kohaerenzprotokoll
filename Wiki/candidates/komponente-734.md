@@ -1,10 +1,10 @@
 ---
 term: Komponente 734
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C12
-ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["charakter-kompilation-fuer-kohaerenz-protokoll", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "three-mode-architecture-39-chapters-md", "worldbuilding-konzept-kohaerenzprotokoll-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
@@ -152,6 +152,13 @@ The Kap-22 reveal as a find: „Im Theta-9 stößt Kael auf die Spezifikation de
 „Wartungshistorie, Fehlerklasse, Quarantäne-Vermerk.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
 „Die Kennung ist die seiner Wohneinheit“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]; „Er wohnt in der Akte seiner eigenen Quarantäne.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
 „Kael liest nur eine Nummer, legt das Dossier zurück und kann nicht mehr schlafen; der Leser trägt die volle Last.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+734 is what the Funken-Ich becomes after the first Klick, before any crisis: „Das, was einst ein Ich-Fragment war, ist nun Komponente 734, eine Funktionseinheit, identifiziert durch spezifische Resonanzeigenschaften und Rolle im Gesamtprozess." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L299]
+Its echo speaks once and is filtered: „*Ich bin hier.* Die Worte formen sich nicht, sie sind nicht nötig" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L311]
+In the crisis it is where the frequency is felt first, „Komponente 734, an ihrem Posten, spürt es zuerst." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L389], and the source of the anomaly: „Quelle: die Komponente selbst." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L437]
+Kap 40: „Komponente 734 wurde, was sie wurde, weil das die einzige Form war, in der wir damals weiter sein konnten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L59] Kael is „das Cluster, das aus Komponente 734 herausgetrennt wurde" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63] — 734 before the Trennungsprotokoll, Kael after it (C12).
 
 ## Where the sources differ
 

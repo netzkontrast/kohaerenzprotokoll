@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -138,3 +138,11 @@ So the Genesis is not all of Kap 0, and Kap 0 is not all of the Genesis: its fir
 
 What it is in storyform terms: „Die Genesis ist also nicht Beginn der einen Storyform mit Latenz der anderen — sie ist *Geburt der Trennung selbst*." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L120]
 Four beats, 734 before the [[trennungsprotokoll|Trennungsprotokoll]] and the first beat's other party the Reinform — the konsolidiertes Konzept's count and order, on its date, with a place for each beat it does not give. Conflict C12.
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+Kap 0 as written: a Vorwort, a Genesis in eight sections — Das Rauschen, Herz der Leere, Erste Kontakte, Sog der Ordnung, Überlebenskampf, „Der große Wandel: Nicht-Sein verhindern" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L261], „Komponente 734: Funktion an der Grenze" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L297], „Die Innere Weite: Simulation als Optimierung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L321] — a Dazwischen, and a crisis in six sections ending in „Trennungsprotokoll" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L467].
+No beats are counted. The order puts 734 before the separation, as the four-beat sources do: clusters, the Klick and the formula, 734 as a functional unit, the [[ueberwelt|Innere Weite]] — then the crisis, the [[trennungsprotokoll|Trennungsprotokoll]], and [[kael|Kael]] as its remainder (L485, L505).
+Kap 40, „Echo der Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L49], retells it: „Die Cluster bildeten sich. Wir lernten zu greifen, zu halten, zu klassifizieren." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L59]
+„Wir lernten den Klick, der eine Bindung ist, und den Klick, der eine Trennung ist, und wir verstanden lange nicht den Unterschied." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L59]
+Conflict C12.

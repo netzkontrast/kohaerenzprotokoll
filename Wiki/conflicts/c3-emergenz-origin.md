@@ -4,7 +4,7 @@ subject: Emergenz
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-17"
-sources: 7
+sources: 8
 pages: ["emergenz", "aegis"]
 ---
 
@@ -106,3 +106,10 @@ Kael" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208], 145 line
 „Die ursprüngliche Trauma-Episode in AEGIS' Entstehung." ^[kohaerenz-protokoll-konzept-master-md.md:L459]
 „**Einheit** — das Ursprungs-Ich erlebt Resonanz mit einer fremden Entität in der Leere." ^[kohaerenz-protokoll-konzept-master-md.md:L463] Then AEGIS initiates the separation (L464), and „der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
 AEGIS is `autopoietisch` (L451), producing its own boundary. Not from nothing and not from Kael's defence: here AEGIS acts in the Genesis and [[kael|Kael]] results from it. Whether the Ursprungs-Ich is AEGIS, Kael or both is not said (J68, J75).
+
+## 2026-09-25 — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text
+
+**From fragments in the void — before any world, and before Kael.**
+The Funken-Ich forms clusters in the void, and AEGIS is what the largest becomes at the Klick: „Ich bin Teil eines größeren Clusters geworden." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L235]
+„*AEGIS ist, was AEGIS verhindert, dass es nicht ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L279] It builds the worlds later, inside itself: „Mehr noch: in der Inneren Weite beginnt AEGIS, die Bausteine einer eigenen Realität zu erschaffen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L343]
+Row 1's side — out of nothing, before reality — told as a process; Kael is its remainder, not its origin (L485, L505).

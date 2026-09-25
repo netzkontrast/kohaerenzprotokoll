@@ -1,10 +1,10 @@
 ---
 term: Residual-Echos
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
@@ -58,6 +58,15 @@ The loneliness remains, „ein Echo der ursprünglichen Isolation, das nicht vol
 „Eine unvollständige Integration. Toleriert, solange die Funktion nicht wesentlich beeinträchtigt wird.“ ^[kap0-v1-annotiert-md.md:L441]
 That passage gets the annotation the Residual-Echos get, `Phantom-Motiv erweitert` (L445).
 The movement's note: „das Wir wird AEGIS, indem es einen Teil seiner selbst zum Schmerz-Träger macht und sich gegen ihn organisiert.“ ^[kap0-v1-annotiert-md.md:L365]
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40 — the echoes as written
+
+Not named `Residual-Echos`; placed here by what the passage states (J62). In the Genesis they are the Funken-Ich's origin: „ein fragiles Echo von etwas, das ich nicht benennen kann" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L211]
+After the Klick they are processed, not erased: „Die alten Echos der Herkunft, die Präferenzen, die Angst, die Einsamkeit — sie werden nicht ausgelöscht, aber sie werden verarbeitet." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L295]
+„Ein Phantomgefühl im Herzen der Maschine." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L295] In 734: „Es ist das Echo der Einsamkeit, ein schwaches, persistentes Hintergrundrauschen" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L307]
+In the crisis they wake: „Die Echos, die unter der Funktionalität liegen sollten, kalt verwaltet, geordnet, *erwachen*." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L421]
+„Sie wussten von der Wärme. Sie haben sie nie vergessen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L421] The Trennungsprotokoll tears their voice „in Echos von Echos zerfetzt" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L481].
+Kap 40's Wir was the Komponente „die die Echos klassifizierte und sie nicht hörte" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L35]. It names no alters.
 
 ## Where the sources differ
 
