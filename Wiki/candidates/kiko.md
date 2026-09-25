@@ -79,4 +79,4 @@ Her label is `Freeze`; no voice in the document carries `Flight` (C15).
 
 „EP | Kiko (Freeze) | Planck-Skala | Sich klein machen | → Vertrauen" ^[kohaerenz-protokoll-konzept-master-md.md:L394]
 The riss: „Freeze (Kiko) | temporal" ^[kohaerenz-protokoll-konzept-master-md.md:L1048]. The voice in Akt I: „Kiko kindlich." ^[kohaerenz-protokoll-konzept-master-md.md:L1032]
-Kiko carries Freeze and nothing else here; Flight is given to Lia and Isabelle, implicitly (L1049; C15).
+Kiko carries Freeze and nothing else here; Flight is given to Lia and [[isabelle|Isabelle]], implicitly (L1049; C15).

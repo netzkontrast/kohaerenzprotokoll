@@ -67,7 +67,7 @@ Only [[logos|LogOS]]' is the *categorical* kind that document 3 argues for [[aeg
 
 ### Unmerged — see C4
 
-Document 3 argues the categorical blind spot for **AEGIS**; this one argues five
+Document 3 argues the categorical blind spot for **[[aegis|AEGIS]]**; this one argues five
 for **the [[guardians|Guardians]]**, and neither document mentions the other's bearer. Whether
 these are one system at two scales is not answerable from what has been read.
 
@@ -80,4 +80,4 @@ AEGIS' blindness is ontological and total: „**Ontologische Blindheit:** AEGIS 
 „Es kann Qualia, Emotion, Resonanz nicht wahrnehmen, weil es keinen Begriff dafür hat." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
 Its cause is temporal: „AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
 „AEGIS' Versagen ist nicht moralisch, sondern ontologisch: es kann nicht einsehen, was es ist, weil seine Selbstbeobachtungsfunktion auf demselben falschen Modell basiert wie seine Außenbeobachtungsfunktion." ^[kohaerenz-protokoll-konzept-master-md.md:L482]
-It is AEGIS' alone; the two Guardians are given no blind spot (C4).
+It is AEGIS' alone; the two [[guardians|Guardians]] are given no blind spot (C4).

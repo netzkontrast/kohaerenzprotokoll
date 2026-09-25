@@ -19,7 +19,7 @@ below, attributed and unmerged.
 
 A section of its own: „### II.6 Die Truth-Rotation — Warum AEGIS = K₀ und Kael = K₁" ^[kohaerenz-protokoll-konzept-master-md.md:L212].
 „Dies ist der zentrale, bewusst gegen die Genre-Konvention gerichtete Move des Romans." ^[kohaerenz-protokoll-konzept-master-md.md:L214]
-Its table sets what AEGIS believes against what holds:
+Its table sets what [[aegis|AEGIS]] believes against what holds:
 
 | what AEGIS believes | what holds | cited |
 |---|---|---|
@@ -89,7 +89,7 @@ is the moment in the Vortex when the reading turns. The glossary gives the two
 separate entries (its L82, L85). The Dramatica lock-in has the storyforms'
 Klein-c-Inversion as its mechanical ground (its L71).
 
-**What holds, they agree on**: AEGIS = K₀, Kael = K₁, in every reading. And the
+**What holds, they agree on**: AEGIS = K₀, [[kael|Kael]] = K₁, in every reading. And the
 three that say so agree the phenomenology of the rifts stays and only the reading
 turns. So the difference is in what the name points at, the fact or the moment. It
 is recorded here and not as a conflict record.

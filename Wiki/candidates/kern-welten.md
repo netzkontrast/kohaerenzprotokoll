@@ -355,7 +355,7 @@ KW3 has chapters here: Kernwelten 2–3 are Akt II, Kap 14–26.
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
 „Die vier Kernwelten (KW) sind nicht Orte, sondern *logische Regime*. Pro Akt dominiert ein Regime:" ^[kohaerenz-protokoll-konzept-master-md.md:L651]
-KW1 Konstrukt-Stadt, Akt I, Kap 1–13, `P (Polynomialzeit)`; KW2 Resonanz-Landschaft, Akt II, Kap 14–~20, paraconsistent; KW3 Cerberus-Labyrinth, Akt II, Kap ~20–26, `NP-Hard`; KW4 Möglichkeits-Garten, Akt III, Kap 27–34, generative (L658–L661).
+KW1 [[konstrukt-stadt|Konstrukt-Stadt]], Akt I, Kap 1–13, `P (Polynomialzeit)`; KW2 [[resonanz-landschaft|Resonanz-Landschaft]], Akt II, Kap 14–~20, paraconsistent; KW3 Cerberus-Labyrinth, Akt II, Kap ~20–26, `NP-Hard`; KW4 [[moeglichkeits-garten|Möglichkeits-Garten]], Akt III, Kap 27–34, generative (L658–L661).
 „**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
 „Die Computational-Class-Progression KW1 → KW4 ist eine **Stilanweisung für den Leser**, keine Welt-Mechanik." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
 „**Strange Attractor ≠ Ort.** Das "Fundament" der Romanwelt ist kein KW, sondern ein Strange Attractor — ein Prozess, kein Platz." ^[kohaerenz-protokoll-konzept-master-md.md:L680]

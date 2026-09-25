@@ -181,4 +181,4 @@ The report's first physical truth: „**AEGIS glaubt, die Kohärenz zu sein. Tat
 In the kernel table Entropie is K₀'s principle: „| \*\*K₀ (Kollaps-Kernel)\*\* | Irreversibilität, Entropie |" ^[kohaerenz-protokoll-konzept-master-md.md:L99]. And K₀ „ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107]
 Control makes more of it: „Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223]. „Das System produziert die Entropie, die zu bekämpfen es behauptet." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
 Storyform B's premise: „Wer Kontradiktionen löscht statt integriert, generiert die Entropie, die er bekämpft." ^[kohaerenz-protokoll-konzept-master-md.md:L837]
-Three senses in one document — AEGIS itself, K₀'s principle, and what AEGIS produces — and it relates them through the [[truth-rotation|Truth-Rotation]]. Conflict C2.
+Three senses in one document — [[aegis|AEGIS]] itself, K₀'s principle, and what AEGIS produces — and it relates them through the [[truth-rotation|Truth-Rotation]]. Conflict C2.
