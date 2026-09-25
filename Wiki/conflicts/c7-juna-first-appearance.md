@@ -113,7 +113,7 @@ needs to decide whether Kap 33 is an appearance or an effect.
 
 **A POV row for [[juna|Juna]], the day before the character bible.** The lock-in's
 routing table lists „Juna-POV (selten, Erscheinungsmodi offen)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L319] as a
-POV instance of its own, dominated by Storyform A: rare scenes with Juna as
+POV instance of its own, dominated by Storyform A: rare scenes with [[juna|Juna]] as
 their subject, while how she appears stays open — „Wie taucht Juna auf?"
 ^[dramatica-dual-storyform-status-2026-05-07-md.md:L407], which the [[juna]] page holds. It places no chapter, so it speaks
 less to Kap 33 against Kap 38 than to the rule this record holds from the

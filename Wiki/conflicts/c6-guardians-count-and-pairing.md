@@ -163,5 +163,5 @@ It says nothing of where the other three and [[sophia|Sophia]] went (Q5).
 „3. Person personal, flüssig-poetisch (eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996]
 The other is the Erasure-Pol, its name open (L1014), with the old functions of [[cerberus|Cerberus]],
 [[logos|LogOS]] and [[kairos|Kairos]] absorbed (L1016). It pairs no Guardian with a world; the climax's
-setting carries Mnemosyne's name (L1000). Recorded after the author's decision for five;
+setting carries [[mnemosyne|Mnemosyne]]'s name (L1000). Recorded after the author's decision for five;
 it changes nothing in that decision.

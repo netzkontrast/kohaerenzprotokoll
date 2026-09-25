@@ -12,7 +12,7 @@ pages: ["aegis"]
 
 **Append-only.** This record decides nothing.
 
-| # | AEGIS' voice | source | line |
+| # | [[aegis|AEGIS]]' voice | source | line |
 |--:|---|---|--:|
 | 1 | third person, `personal`; never `ich` | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 137, 174 |
 | 2 | third person, as logs, no subjective inner view; never in prose | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 257, 425 |

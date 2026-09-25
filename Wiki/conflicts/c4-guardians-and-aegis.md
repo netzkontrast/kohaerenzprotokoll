@@ -137,7 +137,7 @@ shortcut.
 
 A document that states the relation outside a question: an architecture
 description, an origin account, or any passage where a Guardian acts against
-AEGIS or is described as predating it. `KW2` and `KW4` appearing anywhere would
+[[aegis|AEGIS]] or is described as predating it. `KW2` and `KW4` appearing anywhere would
 also help, since the numbering is the one place the two documents nearly touch.
 
 ## 2026-09-17 — document 6 supplies the numbering this record asked for

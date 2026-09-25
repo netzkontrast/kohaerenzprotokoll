@@ -76,7 +76,7 @@ nothing.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**AEGIS' blindness, named three ways — and no Guardian's.** §6.1 gives each of
+**[[aegis|AEGIS]]' blindness, named three ways — and no Guardian's.** §6.1 gives each of
 three layers — reader, [[kael|Kael]], AEGIS — a column for what it is blind to. AEGIS':
 „Juna strukturell (atemporal, nicht messbar), K₁-Reinform (klassifiziert als „uncorrelated noise"), die eigene Genesis (verdrängt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
 In Kap 38, when [[juna|Juna]] appears, it is „strukturell blind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593].

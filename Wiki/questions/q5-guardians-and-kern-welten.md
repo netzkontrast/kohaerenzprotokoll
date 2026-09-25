@@ -118,5 +118,5 @@ only inside the assignment it retires.
 **The konsolidiertes Konzept's absorption, not its named authority's.** „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1014]:
 „Löschungs-Exekutive. Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016]
 So [[logos|LogOS]] into the Erasure-Pol — where the character bible, which this document names as its
-authoritative source (L13), puts LogOS into [[mnemosyne|Mnemosyne]] and keeps [[kairos|Kairos]] latent.
+authoritative source (L13), puts [[logos|LogOS]] into [[mnemosyne|Mnemosyne]] and keeps [[kairos|Kairos]] latent.
 [[sophia|Sophia]] does not occur. The Erasure-Pol's name is marked open again.
