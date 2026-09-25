@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 7
-readings: 7
-conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+sources: 8
+readings: 8
+conflict: C15
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -55,3 +55,15 @@ Function „Erstarrung, klein-werden, kindliche Angst" ^[koharenz-protokoll-stru
 In KW2 „Temporale Risse (Kiko-Trigger)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]; in the trigger table Kiko drives the temporal
 Riss (Freeze) and, with Lia, the spatial one (Flight) ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L405] ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L406]. Sprach-DNA:
 „Kiko ist nicht niedlich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Trägt den reinen Terror der frühen Vernachlässigung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L425] First trauma layer (L85).
+
+**Two riss types.** „Temporal-Stutter — Zeit stockt, Echo, Déjà-vu, Sekunden, die kleiner sind als ihre Definition." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L441]
+„Zweite Funktion: Flight (mit Lia geteilt) — spatial." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L441] The mandate table gives Flight to
+„Kiko (zweite Funktion), Lia" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L878] — the character bible's pair; the konsolidiertes Konzept and three
+sources of this date pair [[lia|Lia]] with [[isabelle|Isabelle]]. Conflict C15.
+
+„Hauptziel von AEGIS' Erasure-Versuchen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L460]
+„Ihre Sätze sind nicht süß — sie sind verstümmelt durch Angst." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L468]
