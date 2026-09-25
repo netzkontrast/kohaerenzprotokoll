@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 13
+sources: 14
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -185,3 +185,12 @@ and [[silas|Silas]]' (L157). No signature is named, no chapter and no lock. The 
 seventeen days before the lock of 2026-05-30 and names the character bible as a source (L13),
 whose sentence on the same conflict gives `Landauer-Hitze` (the character bible's own entry
 in this record, found by a second reading of the Anteile-Profile).
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Heat and ozone, both, as marks of one displacement.** „Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
+„Der Ozon-Geruch in den ANP-Szenen ist die olfaktorische Signatur der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L161]
+„Jeder Akt der Erhaltung (Erasure, Suppression, Kontrollprotokoll) erzeugt Landauer-Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
+The prose rule holds both: „Somatischer Filter: Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
+Vortex Beat 4 is the heat spike (L162, L855). Warmth is not given to [[juna|Juna]]; nothing is locked. Three weeks before
+the lock of 2026-05-30.
