@@ -96,3 +96,8 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - Plot beats: „Ein Tag ohne Zuweisung. Die Schlange steht auf null und bleibt auf null.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Plot beats: „Kael sitzt am leeren Arbeitsplatz und atmet (Stille der Mitte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - AEGIS: „AEGIS scannt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als einzige Spur: die Direktive“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „VERWEILEN ZULÄSSIG“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+
+## Where the sources differ
+
+- **AEGIS' scan.** „B: OS-Physics latent — AEGIS scannt diesen Zustand, klassifiziert ihn als anomale Kohärenz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L552] (Konzept-Iteration Genesis) · „OS-Physics latent — AEGIS scannt diesen Zustand und kann ihn nicht klassifizieren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L517] (strukturierter Outline).
+- **What the chapter is.** „Riss-Eskalation“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838] · „thermische Risse häufen sich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838] (Kernwelten vollständig) · „Kael erreicht einen Zustand innerer Balance. Stille als positive Substanz, nicht als Leere.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L521] (strukturierter Outline) · „innere Stabilität gefunden; ein gehaltener Moment“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (Kapitel-Kompendium).

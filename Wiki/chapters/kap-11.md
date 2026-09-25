@@ -101,3 +101,7 @@ Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisie
 - Plot beats: „Die Ordnung des Verworfenen — Kael ordnet seine gelesenen Bestände neu: nicht chronologisch, als Muster.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Leitmotiv: „Mosaik als Tätigkeit, nicht als Wort“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Mosaik-Akzeptanz]`)
 - Idea 3: „11 (Mosaik-Ordnung der Kiste)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]
+
+## Where the sources differ
+
+- **Title.** „Mosaik des Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L487] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept, storyform outline) · „Akzeptanz der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (Kapitel-Kompendium). The Kompendium's title is the strukturierter Outline's stage name: „HR-Erweiterung 2: Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489] (strukturierter Outline).

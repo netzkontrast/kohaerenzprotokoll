@@ -94,3 +94,8 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 - World: „Erasure-Vorbereitung eskaliert“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Plot beats: „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - World: „Ab Kap 26 steigt sie.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)
+
+## Where the sources differ
+
+- **What meets Kael as he steps out.** „Bevor er handeln kann, macht AEGIS einen präventiven Schritt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] · „ein Guardian wird eingesetzt, um Kael abzufangen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L358] (aegis-subplots) · „Kap 26 nicht Kampfbeginn — Schwellen-Tritt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L873] (strukturierter Outline) · „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung).
+- **Title.** „Schritt ins Ungewisse“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L606] (Konzept-Iteration Genesis) · „Wendepunkt: Entscheidung zur Befreiung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L851] (strukturierter Outline) · „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium), one title for Kap 25 and Kap 26.

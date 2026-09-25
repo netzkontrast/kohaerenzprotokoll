@@ -88,3 +88,8 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - World: „Z3-Ontologie-Riss“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Verwaltungs-Paradox: Wie konsolidiert man, was nie geführt wurde?“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 3: „21 (Antrag auf etwas“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]
 - Lock conformity: „Kap 18/21/22 trennen Flashback und Faden-Ereignis in separate Szenen.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L240]
+
+## Where the sources differ
+
+- **Storyform, B's relationship throughline.** „B: RS-Physics, Moonshine-Spüren des Potentialmeers“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588] (Konzept-Iteration Genesis) · „A: MC-Concern, Juna-Echo. B: RS-Physics, Moonshine-Spüren.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1002] (konsolidiertes Konzept) · „RS-S2 (B) Conceiving — AEGIS reformuliert Kael als unkontrollierbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L737] (strukturierter Outline).
+- **Title.** „Membran“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L586] (Konzept-Iteration Genesis) · „Z3-Simulationsgrenze + Genesis-Flashback“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1001] (konsolidiertes Konzept) · „Z3-Destabilisierung + Genesis-Flashback (Trennungsprotokoll)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L731] (strukturierter Outline); the last opens with the Genesis document's stage name, „Z3-Destabilisierung, Genesis-Cluster Mitte“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L586] (Konzept-Iteration Genesis).

@@ -96,3 +96,7 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 - Genesis echo: „genau ein Genesis-Echo“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 4: „In Kap 24 wird die Leitung zyklisch“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]
 - Idea 2: „die plurale Verteilung rettet es (Kap 24)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L56]
+
+## Where the sources differ
+
+- **Title.** „Telefon-Stille“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] (Konzept-Iteration Genesis) · „wiederkehrendes K-J-Thema“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L217] (Kapitel-Kompendium); the Kompendium's title is the Genesis document's stage name, „Wiederkehrendes K-J-Thema“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L598] (Konzept-Iteration Genesis), and the strukturierter Outline joins the two: „Telefon-Stille (K-J-Thema wiederkehrend)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L803] (strukturierter Outline).

@@ -99,3 +99,7 @@ Position: „Vortex 2 | 38–39 | Die Übernahme der Funktion“ ^[kp-plot-konkr
 - Plot beats: „Das Rauschen kommt als unendliche Zuweisung — alles beantragt zugleich seine Bewahrung; das Wir erkennt: Kein Apparat reicht“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Beat 2]`)
 - Thread: „Ab Beat 3 (Junas Erscheinung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „ruht der Faden vollständig.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - World: „In Kap 38 ist sie ohne Zahl.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)
+
+## Where the sources differ
+
+- **What the chaos is.** „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] (aegis-subplots) · „Beat 1 — Das Rauschen kommt: sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1172] (strukturierter Outline) · „das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L399] (storyform outline).

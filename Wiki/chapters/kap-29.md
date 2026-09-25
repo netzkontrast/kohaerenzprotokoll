@@ -82,3 +82,7 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170]
 
 - Thread: „Faden ruht (Kind-Anteil“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „ist eine bewusste Setzung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L225]
+
+## Where the sources differ
+
+- **Title.** „Angst des Kindes“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis) · „Refusal: Letzte Zweifel, Trauma-Echo“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L927] (strukturierter Outline); the second opens with the Genesis document's stage name, „HR-Stufe 3: Refusal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L618] (Konzept-Iteration Genesis).

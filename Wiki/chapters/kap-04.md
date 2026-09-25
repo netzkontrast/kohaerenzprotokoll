@@ -100,3 +100,8 @@ Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-1
 - Leitmotiv: „Leitmotiv-Einlösung: korrumpierte Textdateien“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Zuweisungen, deren Inhalt beim Öffnen zerfällt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Characters: „Ein Regel-Exekutor“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L202] (marked `[S]`) · „taucht erst im Audit (Kap 4) auf, als Stimme der Konsole, nicht als Person“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L202]
 - Lock: „auch in Kap 4 bleibt es bei Direktiven-Sprache“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L202]
+
+## Where the sources differ
+
+- **Kael's first bug trace.** „B: IC-Mind/Conscious latent — erste Bug-Spur in Kael“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L520] (Konzept-Iteration Genesis, Kap 4) · „B:IC-S1 (Kael = unfixbarer Bug)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] (Kapitel-Kompendium, its Kap 1).
+- **Title.** „Die unentscheidbare Zone“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L518] (Konzept-Iteration Genesis) · „Pforten der Verurteilung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L319] (strukturierter Outline; also Kapitel-Kompendium, and in short form konsolidiertes Konzept and storyform outline) — the Konzept-Iteration's stage „HR-Stufe 4: Pforten der Verurteilung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L518] is the others' title, whose stage is „HR-Stufe 4: Prüfungen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L321].

@@ -101,3 +101,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Idea 6: „Lese-Rechte auf das Lernarchiv Theta-9“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72] (marked `[K, Kap 14]`) · „Er meldet den Fehler nicht — die erste aktive Unterlassung des Romans.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]
 - World: „Ab Kap 14 sinkt sie nicht mehr auf null.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)
 - Idea 11: „und 14 (Mnemosyne-Dossiers)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]
+
+## Where the sources differ
+
+- **Title.** „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563] (strukturierter Outline; so too Konzept-Iteration Genesis, konsolidiertes Konzept) · „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (Kapitel-Kompendium; so too storyform outline). The storyform outline keeps the first as its Teil-IX working title, „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] (storyform outline); the second is the Kernwelten document's place for the chapter, „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840] (Kernwelten vollständig).

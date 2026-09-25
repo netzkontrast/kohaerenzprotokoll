@@ -86,3 +86,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 
 - Plot beats: „Konfrontation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „AEGIS' Makro-Log listet Kael als offenen Posten; das Wir antwortet nicht im Log-Format.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - AEGIS: „Datenlast“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Bilanz, die nicht schließt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+
+## Where the sources differ
+
+- **Stage.** „HR-Stufe 7 fortgesetzt: Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L638] (Konzept-Iteration Genesis) · „HR-außen Stufe 8: Ordeal-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1049] (strukturierter Outline) · „(HR 8: Ordeal-Annäherung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L366] (storyform outline).

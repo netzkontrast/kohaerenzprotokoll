@@ -103,3 +103,7 @@ Position: „Kap 37 | 37 | Der Gärtner als Sachbearbeiter“ ^[kp-plot-konkreti
 - Plot beats: „Am Rand: Die Schlange füllt sich mit Einträgen, deren Absender das Rauschen ist“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Rauschen-Vorzeichen; keine Resolution-Glättung]`)
 - Lock conformity: „Keine Resolution-Glättung Kap 37“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L244] · „Der sanfte Apparat zerfasert sichtbar (Rauschen-Absender).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L244]
 - Open point: „vor RS-/Kap-37-Encoding“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L264]
+
+## Where the sources differ
+
+- **World, within one document.** „KW4 (trügerische Pastorale)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L863] · „der trügerischen Pastorale Kap 37, die anders verortet ist“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L408] (both Kernwelten vollständig; the second in its KW4 section).

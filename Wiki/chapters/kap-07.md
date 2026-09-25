@@ -104,3 +104,8 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 - Idea 4: „In Kap 7 spricht er zum ersten Mal hinein.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]
 - Idea 2: „7 (Pause)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L56]
 - Hard-B: „Hard-B-Kapitel (Position in 5–8, Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+
+## Where the sources differ
+
+- **The warm gust.** „warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L409] (strukturierter Outline, Kap 7) · „warmer Windstoß in eisiger Welt, fremde Melodie“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516] (Konzept-Iteration Genesis, its Kap 3) — the same image in Kap 7 or in Kap 3.
+- **Title.** „Unterstützung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (Kapitel-Kompendium) · „Die Stimme im Rauschen“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L530] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the strukturierter Outline's stage „HR-Stufe 7: Unterstützung — Sehnsucht nach dem Weiblichen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L393].

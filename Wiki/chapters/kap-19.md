@@ -85,3 +85,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Plot beats: „der Apparat beginnt, ihm seine eigene Vergangenheit zur Konsolidierung vorzulegen (Erasure-Logik offen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Storyform: „der Options-Pool wird sichtbar und zählbar: §2 Optionlock-Diegese“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 11: „Vorklang 19 (Erasure-Logik offen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] (marked `[K]`)
+
+## Where the sources differ
+
+- **Title.** „KI-Ethik“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L578] (Konzept-Iteration Genesis) · „Z2-Reaktion + AEGIS-Intervention“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L683] (strukturierter Outline; „Z2-AEGIS-Intervention“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L997] konsolidiertes Konzept, so too storyform outline). The first is the strukturierter Outline's sensory note: „KI-Ethik-Kalkül, kalte Stimme, Logik die wie Schnitt funktioniert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L701] (strukturierter Outline).

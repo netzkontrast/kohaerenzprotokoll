@@ -86,3 +86,8 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - Plot beats: „Der Wahrheits-Test“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „in der Schlange erscheinen Bestände mit Kaels Signatur, die er nie angelegt hat: Fälschungen seiner Fälschungen, in Oblivions makelloser Hand.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Plot beats: „Er muss die eigene Unordnung von der perfekten Kopie seiner Unordnung unterscheiden — und erkennt seine an den Fehlern.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 6: „32 (der Wahrheits-Test prüft genau diese Rechte)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]
+
+## Where the sources differ
+
+- **Guardians.** „OS-S3 (B) — Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005] (strukturierter Outline) in Kap 32 · the chapter before is „Auflösung der Guardians“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] (storyform outline).
+- **Title.** „Logische Labyrinthe“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L630] (Konzept-Iteration Genesis) · „Tests, Allies, Enemies: Systemkampf“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L999] (strukturierter Outline). The strukturierter Outline's title opens with the stage name the storyform outline gives the chapter: „(HR 6: Tests, Allies, Enemies)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364] (storyform outline).

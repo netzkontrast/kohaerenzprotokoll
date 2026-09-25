@@ -377,6 +377,47 @@ written:
   and date. Whether they are added, and how they map, is a schema decision (P4:
   no field without instances).
 
+## Chapters and plot — started 2026-09-25 (decision 013)
+
+**Built:** a page per chapter, Kap 0–40, with every chapter-by-chapter source's
+reading of it, and `## Where the sources differ` on 40 of the 41 (Kap 23 has none).
+`Wiki/overview/chapters.md` puts every title side by side; `Wiki/overview/plot.md`
+the book's shape. `scripts/chapters.py` checks them and counts what is missing.
+
+**The differences that matter most for the plot**, each on its chapter page with
+both sides quoted — noted for the author, none settled:
+
+- **The book's shape** (`plot.md`): the storyform turn at 34/35 or 35/36; Akt III
+  from Kap 27 or, in Kernwelten vollständig, Kap 29; Ten from Kap 27 or from Vortex 1.
+- **Kap 1**: what `734` numbers — Kael's designation, or his unit in Sektor 04.
+- **Kap 3**: Juna's first trace as a hologram Kael sees (Konzept-Iteration Genesis)
+  or as warmth (storyform outline) — C7 already holds the first.
+- **Kap 5 and 10**: KW1, the KW1→KW2 edge, or the McLaughlin world.
+- **Kap 6 and 36**: Landauer warmth or cold ozone, chapter by chapter (C11).
+- **Kap 13**: KW1 in transition with inner practice, or KW3's Evaluierungseinheit
+  „wo Personae kollabieren" (Kernwelten vollständig).
+- **Kap 18 and 20**: where the Genesis flashbacks begin, and which beat Kap 18
+  carries (C12).
+- **Kap 22**: does Kael recognise himself as Komp 734, or only read a number — a
+  flashback with its own voice, or a scene with a file?
+- **Kap 28**: Purge and Juna in danger together, or one of them, OQ-B-dependent.
+- **Kap 31–32 and 36**: the Guardians dissolved in Kap 31, sub-antagonists in Kap 32,
+  or Mnemosyne the first Guardian affected in Kap 36.
+- **Kap 35/36**: Vortex 1 split 1–3 / 4–5 or 1–2 / 3–5 — the Silence beat changes
+  chapter; and what Beat 2 and Beat 3 are.
+- **Kap 36 or 39**: when AEGIS-monolithisch goes out.
+- **Kap 40**: „Wir tragen die Welt" or „Wir tragen die Scherben".
+
+**Titles.** Most chapters carry two to four titles. Every Kapitel-Kompendium title
+in Akt I but Kap 4 and 5 is the strukturierter Outline's HR-Stufe name, and the
+Konzept-Iteration Genesis names Kap 2–5 differently from all the rest.
+
+**Next, in order:** the 84 <!--state:chapters.missing--> chapter mentions no page
+holds yet (`chapters.py missing` — the character bible's Kap-33 scene, the drafting
+manual's reveal timeline, the Alter profiles' debuts); then the unread
+Kap-0/Kap-40 documents of 2026-05-08; then chapters in `graph.py` and `ui.py` if
+the author wants them (*Questions for the author*).
+
 ## Handover — the next session starts here
 
 Run `python3 scripts/selftests.py` first; it builds nothing and says in one line

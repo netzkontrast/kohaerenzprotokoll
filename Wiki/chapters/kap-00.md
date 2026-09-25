@@ -103,3 +103,8 @@ Position: „Genesis-Prolog | 0 | Latenz“ ^[kp-plot-konkretisierung-13-ideen-f
 - Leitmotiv: „Kap-0-Erstereignis“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129] (marked `[K]`, the Genesis motif of the click)
 - Juna trace: „Echo der kanonischen Kap-0-Statuszeile“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206] (marked `[K]`)
 - Open point: „Kap-0-Begriffs-Saat“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L266] · „nur falls der C.3-Revisionsplan ohnehin an der Stelle arbeitet; keine Neueinfügung erzwingen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L266]
+
+## Where the sources differ
+
+- **Genesis beats.** „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L787] (konsolidiertes Konzept) · „Genesis-Sequenz: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] (strukturierter Outline) · „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (Kernwelten vollständig) — five named stages, six, or four beats. (C12)
+- **Storyform A.** „nur B aktiv, A als Phantom-Latenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L213] (strukturierter Outline) · „nur B (MC-S1 Past); A als Phantomgefühl“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] (Kapitel-Kompendium) — A named a latency or a phantom feeling.

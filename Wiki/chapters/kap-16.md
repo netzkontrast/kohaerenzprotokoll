@@ -93,3 +93,7 @@ Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-
 - Plot beats: „Lektüre II — das Komplexitäts-Budget“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, P vs. NP]`) · „Er findet die Posten-Liste, was die Stadt an Detail opfert — und seine eigene Abteilung als Budget-Instrument.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Characters: „Oblivion reicht in dieser Nacht drei Berichte ein, die Kael nie geschrieben hat (Idee 7; Z1-Bunker“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Fremderledigung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 6: „Kap 15–17 werden Lektüre-Kapitel mit Risiko statt Essay-Kapitel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]
+
+## Where the sources differ
+
+- **Title.** „Z1-Reaktion: Bunker reaktiv“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L611] (strukturierter Outline; „Z1-Bunker reaktiv“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L991] konsolidiertes Konzept, „Bunker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L566] Konzept-Iteration Genesis) · „Die Diktatur der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (Kapitel-Kompendium; so too storyform outline, and cited by the Plot-Konkretisierung). The storyform outline keeps the first as „(Zyklus-Funktion: Z1-Bunker reaktiv)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341] (storyform outline).

@@ -95,3 +95,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - Plot beats: „Am Kern: die Wurzel der Schlange — die erste Zuweisung des Universums, das Original (Berührung der K₁-Reinform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Juna trace: „Daneben, unangetastet seit Kap 18: der Datensatz ohne Datentyp.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Idea 10: „33 (am Kern: das Original-Dokument)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+
+## Where the sources differ
+
+- **Title.** „Das Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis) · „Approach Inmost Cave“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1025] (konsolidiertes Konzept) · „Approach Inmost Cave: Vordringen zu AEGIS' Kern“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1023] (strukturierter Outline). The konsolidiertes Konzept's title is the stage the Konzept-Iteration Genesis names for the chapter, „HR-Stufe 7: Approach Inmost Cave“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L634] (Konzept-Iteration Genesis), and the konsolidiertes Konzept also writes „Kap 33 (Das Fundament) — direkte Berührung der K1-Reinform“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1095] (konsolidiertes Konzept).

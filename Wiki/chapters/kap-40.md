@@ -101,3 +101,7 @@ Position: „Coda | 40 | Bezeugung statt Buchung“ ^[kp-plot-konkretisierung-13
 - Lock: „Kein Satz adjudiziert; doppellesbar bleibt gewahrt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Leitmotiv: „in Kap 40 erscheint er genau einmal wieder — ohne Ozon“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129]
 - Lock conformity: „Kap-40-Klick ohne Ozon ist sensorisch, nicht erklärend; keine Reset-Bestätigung, keine Transfigurations-Erklärung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L246]
+
+## Where the sources differ
+
+- **Last image.** „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L664] (Konzept-Iteration Genesis) · „Letztes Bild: Wir tragen die Welt; Liebe bleibt, wie der Schmerz; das Universum hält.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1040] (konsolidiertes Konzept) · „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1244] (strukturierter Outline) · „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L426] (storyform outline).

@@ -96,3 +96,7 @@ Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13
 - Plot beats: „Junas Kanal“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „außerhalb des Apparats etabliert; der Faden notiert nur: Der Kanal hat keine Kennung, der Apparat kann ihn nicht zuweisen, also existiert er für ihn nicht.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Lock: „Nie Subjekt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
 - Idea 9: „30 (der Kanal folgt der Karte)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]
+
+## Where the sources differ
+
+- **Title.** „Junas Kanal“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L622] (Konzept-Iteration Genesis) · „Meeting Mentor: K-J Verbindung Kulmination“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L951] (strukturierter Outline) · „K-J-Verbindung als bewusster Kanal“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L227] (Kapitel-Kompendium); the second opens with the Genesis document's stage name, „HR-Stufe 4: Meeting Mentor“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L622] (Konzept-Iteration Genesis).

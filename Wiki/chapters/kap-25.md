@@ -90,3 +90,7 @@ Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13
 
 - Plot beats: „Die Niederlegung — Kael bestätigt nichts mehr. Kein Wort, keine Geste; die Schlange wächst einfach.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
 - Plot beats: „Schwelle, nicht Konfrontation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+
+## Where the sources differ
+
+- **Title.** „Wegkreuzung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602] (Konzept-Iteration Genesis) · „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L827] (strukturierter Outline) · „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium); the second is the Genesis document's stage name, „Wendepunkt-Vorbereitung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L602], the third its position for two chapters, „Wendepunkt zur Befreiung (Kap 25–26)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L364] (Konzept-Iteration Genesis), and the Kompendium gives the one title to both: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (Kapitel-Kompendium).
