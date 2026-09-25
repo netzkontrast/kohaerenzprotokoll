@@ -1,10 +1,10 @@
 ---
 term: Kairos
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-17"
 ---
 
@@ -117,3 +117,8 @@ Only as a world assignment the document retires: „KW1=LogOS, KW4=Kairos/Sophia
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
 Absorbed: „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016] — in the Erasure-Pol (Q5).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)." ^[kohaerenz-protokoll-konzept-master-md.md:L504] Absorbed in
+[[mnemosyne|Mnemosyne]] and the Erasure-Pol (L513). KW4 is the Möglichkeits-Garten (L661) (Q5).
