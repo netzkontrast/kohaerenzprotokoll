@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -63,3 +63,11 @@ A hard rule of the Sprach-DNA: „Lex flucht nie. Lex weint nie." ^[kohaerenz-pr
 
 „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168] DKT correlate: „Gödel + Halteproblem." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L180]. Riss: „Endlosschleifen, fraktale Selbst-Widerlegung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L184].
 Consistency anchor: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Lex (ANP / Rationalist)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L75]. „Logik, Analyse, Intellektualisierung als Schutz vor EPs." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L77]
+„Lex flucht nie. Lex weint nie. Lex argumentiert mit Syllogismen, auch wenn das System brennt." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L77]
+„Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L77]
+Dominant in KW1 with the Host (L213); hypotactic even inside the Wir (L173); in the sharpest collision with
+[[nyx|Nyx]]: „Maximaler Konflikt zwischen Lex und Nyx" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233].
