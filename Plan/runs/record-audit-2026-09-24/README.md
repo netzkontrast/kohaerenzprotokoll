@@ -10,7 +10,7 @@ spoke to.
 
 ## How it ran
 
-The saved workflow `record-audit`, one agent at a time per role:
+The workflow `record-audit`, now saved as `.claude/workflows/record-audit.js`:
 
 1. **One auditor per document** read all twelve conflict records and five
    question records, then the document's reconciliation record. It checked
@@ -28,8 +28,10 @@ The saved workflow `record-audit`, one agent at a time per role:
 Every auditor read its document to the last line. 21 agents, 3,725,408 subagent
 tokens, 65 minutes at two agents at a time. `audit.json` holds every
 attribution checked, every finding, both verdicts and the outcome per finding.
-The records the auditors read already carried document 14's readings, because
-`main` moved while the run was going.
+`main` moved during the run: the auditors of documents 7–12 read the records
+before document 14's readings were merged, and the auditor of document 13 and
+every skeptic read them after. A gap document 14's reconciliation had filled in
+the meantime would reach the text skeptic as already held.
 
 ## What it found
 
@@ -74,17 +76,23 @@ the source document.
 | finding | file | from |
 |---|---|---|
 | 7-A50, 7-A51, 7-M8 — `Wächter` does occur, in Kap 31's line with `Guardian`; `Wächterin` four times | `Wiki/questions/q4-waechter-four-bearers.md`, `Wiki/candidates/guardians.md` | document 7 |
-| 7-M6 — both orders of the Genesis | `Wiki/conflicts/c12-genesis-beats.md` | document 7 |
+| 7-M6 — Kap 0 puts 734 before the Trennungsprotokoll, the flashbacks after it | `Wiki/conflicts/c12-genesis-beats.md` | document 7 |
 | 7-A33 — its Quellen-Register names the outline it overrides | `Wiki/conflicts/c11-landauer-warmth-or-cold-ozone.md` | document 7 |
-| 8-M2 — AEGIS is the entropy it fights, a month before C2's „first" | `Wiki/conflicts/c2-entropie-sense.md` | document 8 |
+| 8-M2 — AEGIS is the entropy it fights, in the source read before the one C2 called the first | `Wiki/conflicts/c2-entropie-sense.md` | document 8 |
 | 9-M1 — AEGIS' blindness as a law | `Wiki/conflicts/c4-guardians-and-aegis.md` | document 9 |
 | 9-M5 — „die operative Hälfte", in a locked section | `Wiki/conflicts/c3-emergenz-origin.md` | document 9 |
-| 9-M12 — both orders of the Genesis | `Wiki/conflicts/c12-genesis-beats.md` | document 9 |
+| 9-M12 — its flashbacks recall 734 after the Trennungsprotokoll | `Wiki/conflicts/c12-genesis-beats.md` | document 9 |
 | 9-M16 — `Wächter` beside `Guardian` in Kap 31 | `Wiki/questions/q4-waechter-four-bearers.md` | document 9 |
 | 9-A15 — thirteen lines, not eleven | `Wiki/conflicts/c5-garten-scale.md` | document 9 |
 | 9-A22 — „nicht je ein Guardian-Reich", and Mnemosyne „dominiert klar in KW2" on the same line | `Wiki/conflicts/c6-guardians-count-and-pairing.md` | document 9 |
 | 12-M2 — a Juna-POV row in the routing table | `Wiki/conflicts/c7-juna-first-appearance.md` | document 12 |
 | 12-A23 — the objective story „in A" | `Wiki/questions/q1-guardians-and-aegis.md` | document 12 |
+
+**The two C12 entries were reworded after merging `main`.** An entry of
+2026-09-25, from `koharenz-protokoll-konzept-iteration-genesis-md`, reads a
+flashback's order as the order of recollection, not of events. The audit's
+entries had counted it as an order of events, as C12's entry for the
+strukturierter Outline does. Both now give both readings and decide neither.
 
 The other split findings are in `audit.json` with both reasons, and none was
 written: in each, one skeptic showed the point already held, or not on the

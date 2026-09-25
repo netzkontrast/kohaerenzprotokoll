@@ -447,8 +447,8 @@ conflicts, questions) and **1312 <!--state:graph.edges--> edges** (`links`,
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1436 <!--state:graph.evidence-->
-of them, **1436 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1438 <!--state:graph.evidence-->
+of them, **1438 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -1138,6 +1138,22 @@ reconstructions and **cannot serve as a gold set.** `Plan/runs/README.md` says s
 plainly rather than papering over it. **Which lists are gold is decided by rule**
 in `scripts/gold.py` (decision 009): written while reading, counted, unchanged
 since the count, and of its document — whoever wrote it.
+
+**Every reader so far has been Claude**, the gold lists and P27's two readers
+included; no reading by the author is recorded. Two saved workflows measure the
+reading itself, and both ran once on 2026-09-24:
+
+- **`.claude/workflows/blind-rereading.js`** has a document read again, blind.
+  `python3 scripts/agree.py <slug>` compares the lists by F1, and by how much of
+  each the other holds, because F1 falls with a longer list however well both
+  read. Two blind readers agreed at 0.82–0.93 on documents 5, 6, 7 and 10, and
+  each held 97–100 % of the committed list. Readers differ in what they select,
+  not in what they see (`Plan/learnings/extract-terms.md`, *Blind re-readings*).
+- **`.claude/workflows/record-audit.js`** checks what the conflict and question
+  records attribute to a document, and what they miss. On documents 7–13, 274
+  of 289 attributions were faithful. Of 83 findings, both skeptics upheld 9.
+  Those nine, and five misstatements the text skeptic confirmed, are now in the
+  records (`Plan/runs/record-audit-2026-09-24/`).
 
 ## Learnings
 
