@@ -1,0 +1,893 @@
+---
+written_by: hand, while reading (Claude, in session)
+document: kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md
+---
+
+# Candidates — written while reading
+
+Written by hand while reading, **before any counting**. One line per
+candidate. This is the only artifact of the run a program cannot produce, and
+the baseline any model gets scored against.
+
+- Kohärenz Protokoll
+- Anteile
+- Anteil
+- Profile
+- Sprach-DNA
+- 13 Alter
+- Alter
+- AEGIS-Stimme
+- AEGIS
+- Mnemosyne
+- Funktions-Profil
+- Phobie-Profil
+- DKT-Profil
+- Somatik-Profil
+- Sprach-Profil
+- Beziehungs-Profil
+- Konfliktmatrix
+- system-interne Konfliktmatrix
+- Riss-Mandate
+- Wechsel-Mechanik
+- Repo-Paar
+- storyform-und-outline_2026-06-10.md
+- begriffe-und-konzepte_2026-06-10.md
+- Quelle
+- Charakter-Bibel 2026-05-08
+- Charakter-Bibel
+- autoritativ
+- Storyform-Lock-In 2026-05-07
+- Storyform-Lock-In
+- Iterationen 2026-05-30/31
+- Provenienz
+- [K]
+- [V]
+- [L]
+- kanonisch
+- Vorschlag/offen
+- Lücke
+- Hard-Rule
+- Stimmen werden nie gelabelt
+- Syntax
+- Lexikon
+- Somatik
+- Lese-Anleitung
+- Profilformat
+- Anteils-Profil
+- Felder
+- Kategorie & Funktion
+- Kernmotivation
+- Kernphobien
+- DKT-Korrelat
+- DKT
+- Riss-Typ
+- Realitätsbruch
+- ko-somatisch
+- Syntax-Signatur
+- Beispiel-Vokabular
+- Beispiel-Sätze
+- Beziehungsmuster
+- Arc
+- Drei-Akte-Bogen
+- Trauma-Fixierung
+- funktionale Form
+- Konsistenz-Anker
+- Hard-Rules
+- Architektur-Übersicht
+- TSDP
+- Tertiäre Strukturelle Dissoziation der Persönlichkeit
+- van der Hart
+- Nijenhuis
+- Steele
+- Heilungsmodell
+- IFS
+- Internal Family Systems
+- Diagnose-Form
+- Spiel-Inszenierung
+- Dissoziation
+- Amnesie-Terror
+- Crew-Menü
+- Kategorien
+- Sonderkategorien
+- ANP
+- Apparently Normal Parts
+- Alltagsbewusstsein
+- Trauma-Vermeidung
+- Kael (Host)
+- Kael
+- Host
+- Lex
+- Alex
+- Rhys
+- Selene
+- EP
+- Emotional Parts
+- Trauma-Träger
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Sonder
+- Meta-Position
+- Argus
+- Spiegel
+- Internalisierte Außenkräfte
+- Juna
+- Silas
+- Oblivion
+- Phobien als Klebstoff
+- Phobien
+- phobische Vermeidungsstrategien
+- Phobie der ANPs vor den EPs
+- Trauma-Auslöser
+- Bindung
+- Intimität
+- innere Erfahrung
+- Kooperation
+- Integration
+- Zwei Achsen
+- ANP/EP-Achse
+- Trauma-Spaltung
+- Korrelat-Achse
+- Atemporal
+- Coheron
+- Temporal
+- Erason
+- Klimax
+- Schicht-Zuordnung
+- Doppeltes Trauma
+- Schicht 1
+- Bindungstrauma
+- Basisrealität Köln
+- Basisrealität
+- Köln
+- Akt I
+- KW2
+- KW3
+- Akt II
+- Schicht 2
+- Fragmentierungsnacht
+- Trennungsprotokoll
+- Schicht-übergreifend
+- Bauplan der Zeit
+- Resolution
+- Funktionale Multiplizität
+- Fusion
+- Wir
+- Strange-Attractor-Form
+- Kap 39
+- plurale Bewahrungsform
+- Wir-AEGIS-plural
+- Dekanonisiert
+- Index
+- Nox
+- Echo
+- Flicker
+- Limina
+- Praetor
+- Eos
+- Elara
+- Aris
+- Mina
+- Lyra
+- Soren
+- Tariq
+- Nova
+- Sentinel
+- Komponente 734
+- ANP-Host
+- soziale Fassade
+- Simulation
+- Archivar Klasse II
+- Wohneinheit 14/Sektor 7
+- Wohneinheit 734-K
+- Zahl 734
+- Kap 2
+- Kap 10
+- Kap 25
+- K₁-Dominanz
+- K₁
+- Going on with Normal Life
+- Atemzählung
+- EP-Phobie
+- Schicht-1-Material
+- Schicht-2-Material
+- Hubble-Volumen
+- Big Rip
+- Beobachtungshorizont
+- Beobachtungsfeld
+- Horizont-Erosion
+- Zeitverlust
+- Zittern
+- Amnesie
+- verlorene Sekunden
+- Knöchel
+- Blutungs-Faden
+- Kap 0
+- Zähl-Manie
+- somatischer Tic
+- POV
+- 1. Person
+- Präsens
+- Lock
+- Mosaik-Stream
+- Mikro-Stockungen
+- Kacheln
+- Grad
+- Atemsekunden
+- Standardabweichung
+- Korridor
+- Protokoll
+- Sektor
+- Standardprotokoll
+- Sensor-Rekalibrierung
+- Signature
+- Lücken statt Erinnerung
+- Zeitverlust-Sprünge
+- Absatz-Cuts
+- Selbstbefehl
+- AEGIS-Register
+- System-Verstrickung
+- Tabu in Akt I
+- Lex-hypotaktischer Modus
+- Schleier-Disziplin
+- Fraktalität
+- Akt III
+- Resolve
+- Change
+- Pursuit
+- Kap 35
+- Be-er-Modus
+- Multiplizitäts-Schleier
+- Kap 13
+- Fragment
+- Held
+- Phantom-Resonanz
+- Kap 1
+- Final Fusion
+- Rationalist
+- Logik
+- Analyse
+- Intellektualisierung
+- Direktes Produkt des Trennungsprotokolls
+- Logische Ordnung
+- Vorhersagbarkeit
+- Chaos
+- Emotionen
+- Irrationalität
+- Kontrollverlust
+- Gödel
+- Halteproblem
+- formale Unentscheidbarkeit
+- Endlosschleifen
+- fraktale Selbst-Widerlegung
+- Rekursionen
+- Hypoventilation
+- taktile Taubheit
+- Bradykardie
+- Kälte
+- Hypotaktisch
+- Subordinatsätze
+- Bedingungslogik
+- Qualifikatoren
+- Kausale Konjunktionen
+- Energie
+- Fußnoten-Energie
+- Bedingungsgefüge
+- Pulszyklen
+- Datenanomalie
+- Logik-Festung
+- Intuition
+- Syllogismen
+- Protektor
+- Hypervigilanz
+- physischer Schutz
+- Entstand in der Sekunde der Fragmentierung
+- Fragmentierung
+- Konzept-Konflikt-Hinweis
+- Genesis-Sequenz
+- Schutz der Verletzlichen
+- Hilflosigkeit
+- Stillstand
+- Asymptotische Freiheit
+- Starke Kernkraft
+- Militärisch-räumlich
+- Bunker-Topologie
+- Gefahrenkarte
+- Hypertonus
+- Bruxismus
+- Abwehrbereitschaft
+- Brace for Impact
+- Schlaflosigkeit
+- imperativ
+- Tactical
+- Befehle
+- Verb-Erststellung
+- räumliche Awareness
+- Bedrohungs-Assessment
+- Befehlsform
+- Triaden
+- Beschützer-Funktion
+- Über-Kontrolle
+- kollegial-konfliktuös
+- Verteidiger
+- Starre Kontrolle
+- Wachstum zulassen
+- Kopf runter
+- Bleib hinter mir
+- Caregiver
+- Fürsorge
+- soziale Harmonie
+- Verbindung
+- Harmonie
+- Linderung des Schmerzes
+- Konflikt
+- Dysregulation
+- Isolation
+- Ablehnung
+- Maxwellscher Dämon
+- Wärmesenke
+- Energiekosten
+- Wärme-Akkumulation
+- fiebrige Hände
+- Schwitzen
+- Brustschwere
+- Erschöpfung
+- Tinnitus
+- Geräuschempfindlichkeit
+- weiche Eröffnungen
+- Diminutive
+- sanfte Negationen
+- Pronomen-Signatur
+- Fragen als Fürsorge
+- Trostquelle
+- Sehnsucht
+- Misstrauen
+- authentische Bindung
+- Kudzu-Eskalation
+- Hybrid
+- Akzeptanz
+- Loslassen
+- Integrator
+- ISH
+- Internal Self-Helper
+- Vermittlung
+- Systemübersicht
+- Trauma-Schichten
+- Systemstabilität
+- kooperatives Verhältnis
+- Destabilisierung
+- Mediator-Rolle
+- Blockade
+- Hybrid-Arc
+- Gesamtsystem
+- Wormholes
+- Entanglement Islands
+- Quantensprünge
+- Rettende Sprünge
+- Erscheinen-an-anderem-Ort
+- bewusstes Stillen
+- Erstarrung
+- Maß-voll
+- integrativ
+- Meta-Beobachtungen
+- sanftes Reframing
+- Muster-Sprache
+- Pausen als Element
+- Stilebene-3-Anflug
+- Stilebene 3
+- Akt-III-Ton
+- Junas Stilebene 3
+- Puffer
+- größte Bedrohung
+- Trennungsarchitektur
+- Starre Wächterin
+- Wächterin
+- Architektin innerer Harmonie
+- Möglichkeits-Garten
+- KW4
+- Anwesenheit
+- Fight
+- Kinetische Gegenreaktion
+- Aggression
+- Verteidigung
+- nicht-prozessierte Wut
+- Wut
+- Opfer
+- Verletzlichkeit
+- Unterwerfung
+- CPT-Verletzung
+- Symmetriebruch
+- Materie
+- Antimaterie
+- Asymmetrie
+- Kinetisch
+- Adrenalin-Hochzustand
+- Tunnelblick
+- geballte Fäuste
+- Muskeltonus
+- Hitze im Brustkorb
+- innere Aktivierung
+- Junas Coheron-Spur
+- Polaritäts-Disziplin
+- Stakkato
+- Satzfragmente
+- Konnektoren
+- viszerale Bilder
+- Triade Sieben
+- Antagonismus
+- Verachtung
+- Harmoniestreben
+- Naivität
+- maximaler Hass
+- Destruktive Wut
+- konstruktiver Schutz
+- weiblich-wütend
+- Klischee
+- funktional wütend
+- Heilung
+- Freeze
+- Kind
+- Sich-klein-machen
+- Sprachlosigkeit
+- frühe Vernachlässigung
+- Terror
+- Eisige Kälte der Isolation
+- Sicherheit
+- Verlassenwerden
+- Alleinsein
+- Kritik
+- Strafe
+- Planck-Skala
+- Raumbegriff
+- Temporal-Stutter
+- Déjà-vu
+- Flight
+- spatial
+- Weinen ohne Geräusch
+- Daumen in der Hand verstecken
+- Kindlich
+- Wiederholung
+- Sensorischer Fokus
+- Präsens-Angst
+- Ellipsen
+- Lückentexte
+- Nähe-Geschwister
+- Verrats-Trigger
+- Hauptziel von AEGIS' Erasure-Versuchen
+- Erasure-Versuche
+- Gefrorener Samen
+- Keimen von Vertrauen
+- niedlich
+- Heilungs-Marker
+- Ambivalent
+- Bindungsambivalenz
+- Komm her / Geh weg
+- Nähe
+- Verrat
+- emotionale Überflutung
+- Bindung-die-verbrennt
+- Quantensuperposition
+- Beobachtung
+- Relational-Drift
+- Sprunghafter Puls
+- Ruhelosigkeit
+- Approach-Avoidance
+- Widersprüche im selben Satz
+- Angst-Trigger
+- Schutz-Ambivalenz
+- Ewige Superposition
+- Sicherheit finden
+- launisch
+- gespalten
+- Sexualisiert
+- Fight-via-Control
+- Proaktive toxische Kontrolle
+- Sexualisierung als Waffe gegen Ohnmacht
+- Ohnmacht
+- Inversion der Opfer-Position
+- Aggressorin
+- Macht zurückerobern
+- Kontrolle über Intimität
+- Vulnerabilität
+- Kontrollverlust in Intimität
+- Pauli-Ausschluss
+- Fermionen
+- Quantenzustand
+- Sensorisch
+- Synästhesie
+- Haut-Hyperreaktivität
+- Kontrollierte Bewegung
+- Pose-bewusst
+- Kalt-glühend
+- grenz-auflösend
+- Texturen
+- Kontrolle als Verführung
+- kalt-witzig
+- Härte-Register
+- Macht-Topologie
+- echte Vulnerabilität
+- gerettet
+- Kollaps
+- Absolute Resignation
+- Aufgeben
+- Katatonie-Tendenz
+- kindliches Nervensystem
+- Tod als Erschöpfung
+- Phobie-Muster
+- Big Freeze
+- Universum-Hitzetod
+- Gravitativ
+- Katatonie
+- Bleierne Glieder
+- Verstummen
+- Apnoe
+- Implosiv
+- Kreislogik der Scham
+- Selbst-Negation
+- Gravitations-Sog
+- Inevitabilität
+- Wiederholung als Rhythmus des Kollapses
+- Alarm
+- Akt-II-Szene
+- Drachenkampf
+- Information
+- depressiv
+- katatonisch
+- Sonder-Kategorie
+- Meta-Kognitiv
+- Systemkritik
+- Mustererkennung
+- Fehler in AEGIS' Algorithmus
+- Fehlervermeidung
+- Wahrheits-Diagnose
+- Dysfunktion
+- Imperfektion
+- Analyse-Paralyse
+- Fraktale
+- Selbstähnliche Beobachtung
+- Zeno-Effekt
+- trockene Augen
+- Migräne
+- außer sich
+- Depersonalisierung
+- klinisch
+- Meta-Kommentare
+- Präzision ohne Affekt
+- Textuelle Sonderform
+- Fußnoten
+- Marginalien
+- Beobachter-Position
+- Stör-Signal
+- Kernfehler
+- Destruktive Kritik
+- konstruktive Kritik
+- Mittäterschaft
+- Schärfe
+- Spiegel-Alter
+- narratives Herz
+- 13er-Architektur
+- System Kael
+- ouroboros-fähig
+- Juna-Echo
+- Internalisiertes Nachbild der Bindung
+- Resonanzkörper
+- Moonshine-Link
+- Bin ich echt oder nur ein Echo?
+- Coheron-Echo
+- Tunneling
+- zeitfrei
+- Relational/warm
+- Sensor-Fehler
+- Anomalie
+- Polaritäts-Lock 2026-05-30
+- Silas-Wärme
+- diegetische Wärme
+- Vortex-Beat-4-Heat-Spike
+- Heat-Spike
+- Debüt Kap 3
+- Kap 3
+- Wärme in den Händen ohne erkennbaren Grund
+- Tiefenempfindung
+- Geruchserinnerungen ohne Geruchsquelle
+- Echo-Prosa
+- Selbstkorrigierende Sätze
+- Wiederholung mit Verschiebung
+- Verbunden, aber nicht identisch
+- maximaler innerer Konflikt
+- Unbewusste Resonanz
+- Harmloses Rauschen
+- Debüt-Halbsatz
+- Etwas in der Frequenz der Lüftung schien zu—
+- Identitätskrise
+- Bewusste Öffnung
+- aktiver Transmitter
+- Gödel-Gambit
+- Selbstaufgabe
+- Selbstfindung
+- POV-Anteile
+- Kap 31/32
+- OQ-E
+- heimliche Heldin
+- AEGIS-Echo
+- Internalisierte Löschlogik
+- fünfte Kolonne
+- Amnesie von innen
+- Erason-Operator
+- aktiv löscht
+- Fehlende Zeit
+- abrupte Schnitte
+- Dinge fallen nach oben
+- lokales Schwerefeld
+- Schwindel ohne Grund
+- Verlust des Zeitsinns
+- Lösch-Prosa
+- Sich selbst auslöschende Sätze
+- Leerzeilen
+- Typografische Sonderform
+- Oblivion-Kapitel
+- innerer Vollstrecker
+- AEGIS-konform
+- Innen-Ebene
+- System-Ebene
+- Tragischer Automat
+- Erwachendes Bewusstsein
+- Genesis-Krise
+- Die Wahl
+- Weiterlöschen
+- Stehenlassen
+- Kohärenz bewahren
+- Wahrheit zulassen
+- Kap 32/33
+- Post-Vortex
+- OQ-G
+- Lock ausstehend
+- Funktion, die zur Frage geworden ist
+- Systeminterne Konflikte
+- Konflikt-Matrix
+- Vektoren
+- ANP↔EP-Phobien
+- Trauma-Substrat
+- ANP↔ANP-Konflikte
+- Strategie-Reibungen
+- EP↔EP-Dynamiken
+- Trauma-Resonanzen
+- Spiegel-Konflikt
+- Klebstoff-System
+- maximaler Konflikt
+- phobische Vermeidung
+- Logik vs. Ambivalenz
+- Kontroll-Erotik
+- Konflikt-Phobie
+- generalisierte EP-Phobie
+- Logik vs. Empathie
+- Frontlinie
+- Risiko-Einschätzung
+- Fürsorge vs. Loslassen
+- Kudzu-Phase
+- zentraler ANP-ANP-Konflikt
+- Kritik an Strategien
+- Schutz mit Verachtung
+- Landauer-Hitze
+- somatischer Fingerabdruck
+- Landauer-Signal
+- Wahrheitsvertuschung
+- Sonderfälle
+- Externe Beziehungs-Vektoren
+- feindlich-pragmatisch
+- natürlicher Resonanzraum
+- Antagonist auf Korrelat-Achse
+- Riss-Mandate (Wechsel-Mechanik im Text)
+- dissoziativer Bruch
+- flutet
+- Modus
+- Träger-Alter
+- Verzerrung
+- Sensorische Signatur
+- Collapse
+- Spiegel-Coheron
+- Spiegel-Erason
+- Welt-Risse
+- KW1
+- thermische Risse
+- Hitze-Spitzen
+- Ozon
+- Wasser-Risse
+- paranoide Risse
+- generative Risse
+- Polyphonie-Choreografie
+- Header
+- Sprecher-Tags
+- Somatik-Signatur
+- Vokabular-Signatur
+- Hypotaxe
+- Parataxe
+- Ellipse
+- Imperativ
+- Pronomen-Pattern
+- Polyphonie-Progression
+- Akt-Architektur
+- fragmentiert
+- staccato
+- Sprach-Drifts
+- transitional
+- Stimmen bluten ineinander
+- chorisch
+- Wir-Stimme
+- Komposition, nicht Verschmelzung
+- Choreografie-Risiko
+- Kap-0-Annotation
+- R-4-Risiko
+- R-4
+- Bewegung
+- viele Stimmen
+- Bridge-Szene
+- Mikrocue-Punkte
+- Soft-Layering
+- Einbruchs-Regeln
+- Atmosphärische Verschiebungen
+- Bewusstseins-Aussetzer
+- Wahrnehmungs-Shift
+- Silas-Halbsatz
+- Lex-Modus
+- Nyx-Imperativ
+- Wir-Andeutung
+- Stilcode-Verschiebungen
+- Sub-Stimmen
+- Klartext
+- Erste interne Schleier-Lüftung
+- Modi
+- DID
+- Alters
+- Foreshadowing-Programm plurale Bewahrung
+- plurale Bewahrung
+- Wir-Geflecht-Etablierung
+- Kap 9
+- Schleier ist offen benannt
+- Kap 25–26
+- Kap 35–36
+- 100 % Soft-Layering
+- Simultanklang
+- System-Stimmen
+- Stimme der Funktion
+- POV-Regel
+- 3. Person
+- Prosa
+- Log
+- Systemstimme
+- moralisches Vokabular
+- Sprache der Funktion
+- Bürokratisch
+- DKT-Statuszeilen
+- Log-Format
+- AEGIS v{X.X} // LOG_{0xHEX}
+- ZEITSTEMPEL
+- EREIGNIS
+- SYSTEM_KAEL
+- KOHÄRENZ
+- TEMP
+- EP_AKTIVITÄT
+- EXTERNE_AUFMERKSAMKEITS_METRIK
+- JUNA_VEKTOR
+- NICHT DARSTELLBAR
+- AXIOMVERLETZUNG
+- PARADOX_INDEX
+- MASSNAHME
+- ENDE LOG
+- Keine Metaphern
+- affektives Vokabular
+- Slot-16-Lock
+- UI-Direktiven
+- Konsolen-Zeilen
+- Hard-B-Etablierungskapitel
+- Kap 5–8
+- Erinnerungs-Hüterin
+- 3. Person personal
+- flüssig-poetisch
+- Guardians
+- zwei Guardians
+- Datenströme der Erinnerung
+- Setting des Klimax
+- Mnemosyne-Archipel
+- Tragik
+- Erste Guardian, die im Vortex 1 Beat 4 betroffen ist
+- Vortex 1 Beat 4
+- Instanz im AEGIS-System
+- Erasure-Pol
+- Name offen
+- Löschungs-Exekutive
+- Cerberus
+- LogOS
+- Kairos
+- register-nah an AEGIS
+- keine Stimme, sondern Wirkung
+- strukturelle Position
+- Grammatik-Regel
+- nie Subjekt, nur Wirkung
+- Erscheinungsmodi
+- Abwesenheits-Phase
+- Präsenz-Phase
+- direkte Stille-Erscheinung
+- Kap 38
+- Telefon-Stille
+- interner Resonanzkörper
+- Juna-POV
+- Compassion Fatigue
+- ängstlicher Bindungsstil
+- unzuverlässige Erzählerin
+- Foreshadowing-Anker
+- sprachliche Spuren
+- Drei Ebenen des Show-don't-Tell
+- Ebene 1
+- Landauer-Signatur
+- Hitze
+- Telefon-Anker
+- Kühle
+- Pixelierung
+- Staub-Bewegung
+- Ebene 2
+- Sprachliche Spuren
+- Komponente
+- Signatur
+- Phantom-Bilanz
+- Drei Antwortlatenzen
+- Stilbrüche
+- Reveal
+- Ebene 3
+- Strukturelle Markierungen
+- Wärme-Debüt
+- Ruheanker
+- Vortex
+- Offene Punkte
+- Somatik-Lücken
+- Encoding-Durchgang
+- Spiegel-Alter-Auftrittskapitel
+- Akt-III-Encoding
+- Post-Vortex-AEGIS-Status
+- Oblivion-Übernahme
+- Kap-37–40-Encoding
+- Moonshine-Boundary
+- OQ-F
+- Knotenpunkte
+- Genesis-Beat-Anzahl
+- Alex-Präsenz
+- Lock-In
+- vier Beats
+- Kompendium 2026-05-31
+- Reviewer-Frage
+- Argus typografisch
+- Kap-1-Lock 2026-05-30
+- Pflicht-Checks
+- Drei Werkzeuge gegen Drift
+- Charakter-Bibel 17.3
+- POV-Konsistenz-Test
+- Block-4-Anker-Test
+- Lesersteuerung-Test
+- Konsistenz-Anker-Konzentrat
+- Klischee-Verbot
+- Meta-Anker
+- Schluss-Hinweis
+- Boden
+- dreizehn Stimmen
+- Karikatur
+- ethische Linie
+
+## Open while reading
+
+Not candidates — what the read ran into, for the census. Only `- ` lines above
+are read as candidates.
+
+1. One template per Alter, ten fields announced as nine (§0: „neun Felder" over a
+   numbered list of ten). Labels `[K]` per field, `[L]` where a field is a gap.
+2. Its source is named and ranked: the Charakter-Bibel 2026-05-08 „autoritativ",
+   filtered on the lock-in of 2026-05-07 and the iterations of 2026-05-30/31.
+3. It restates locks (Silas' half sentence, the polarity lock, the first-person
+   AEGIS ban, Juna's modes) with their dates.
+4. Lia's riss is „Relational-Drift" in her profile and „spatial" (Flight, with
+   Kiko) in the riss table; Kiko carries both Freeze and Flight.
+5. Silas' warmth is „die einzige diegetische Wärme" outside the Beat-4 spike, and
+   the Silas–Oblivion conflict makes „Landauer-Hitze"; Nyx's chest heat is marked
+   as not Juna's trace; Juna's trace is „Hitze" in the show-don't-tell list.
+6. AEGIS' POV rule is third person and never prose; its voice debuts in Kap 5–8.
+7. It names the Alex conflict twice (L219, L1079) and leaves it open.

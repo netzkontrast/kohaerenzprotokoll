@@ -1,0 +1,253 @@
+{
+  "document": "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md",
+  "drive_id": "1XIqf4EMsqxp9nNjkScYoMYA6Z9vR8tB_zUCBBNnfWgE",
+  "step": "probes",
+  "at": "2026-09-25",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 24,
+  "backslash_escapes": 457,
+  "typographic_marks": 222,
+  "ascii_quotes": 70,
+  "inflection_families": {
+    "syste": [
+      "SYSTEM",
+      "System",
+      "Systemantwort",
+      "Systeminterne",
+      "Systemkritik",
+      "Systems",
+      "Systemstabilität",
+      "Systemstimme",
+      "Systemübersicht"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstaufgabe",
+      "Selbstbefehl",
+      "Selbstfindung",
+      "Selbstkorrigierende",
+      "Selbstähnliche"
+    ],
+    "sonde": [
+      "Sonder",
+      "Sonderfall",
+      "Sonderform",
+      "Sonderfälle",
+      "Sonderkategorie",
+      "Sonderkategorien"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtung",
+      "Beobachtungen",
+      "Beobachtungsfeld",
+      "Beobachtungshorizont"
+    ],
+    "senso": [
+      "Sensor",
+      "Sensorik",
+      "Sensorisch",
+      "Sensorische",
+      "Sensorischer"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils"
+    ],
+    "archi": [
+      "Archipel",
+      "Architektin",
+      "Architektur",
+      "Archivar"
+    ],
+    "besch": [
+      "Beschleunigung",
+      "Beschreibung",
+      "Beschützer",
+      "Beschützerin"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungen",
+      "Beziehungs",
+      "Beziehungsmuster"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungsambivalenz",
+      "Bindungsstil",
+      "Bindungstrauma"
+    ],
+    "brust": [
+      "Brust",
+      "Brustkorb",
+      "Brustschwere",
+      "Brustöffnung"
+    ],
+    "daten": [
+      "Daten",
+      "Datenanomalie",
+      "Datenpunkte",
+      "Datenströme"
+    ],
+    "ersch": [
+      "Erscheinen",
+      "Erscheinung",
+      "Erscheinungsmodi",
+      "Erschöpfung"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionen",
+      "Funktions"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungs",
+      "Heilungsmodell",
+      "Heilungsweg"
+    ],
+    "kontr": [
+      "Kontroll",
+      "Kontrolle",
+      "Kontrollierte",
+      "Kontrollverlust"
+    ],
+    "lücke": [
+      "Lücke",
+      "Lücken",
+      "Lückenhafte",
+      "Lückentexte"
+    ],
+    "reson": [
+      "Resonanz",
+      "Resonanzen",
+      "Resonanzkörper",
+      "Resonanzraum"
+    ],
+    "sprac": [
+      "Sprach",
+      "Sprache",
+      "Sprachliche",
+      "Sprachlosigkeit"
+    ],
+    "verme": [
+      "Vermeidet",
+      "Vermeidung",
+      "Vermeidungsstrategien",
+      "Vermeidungsstruktur"
+    ],
+    "versu": [
+      "Versuch",
+      "Versuche",
+      "Versuchen",
+      "Versucht"
+    ],
+    "aktiv": [
+      "AKTIVIT",
+      "Aktivierung",
+      "Aktivität"
+    ],
+    "alter": [
+      "ALTER",
+      "Alter",
+      "Alters"
+    ],
+    "auftr": [
+      "Auftreten",
+      "Auftritt",
+      "Auftrittskapitel"
+    ],
+    "bewus": [
+      "Bewusste",
+      "Bewusstsein",
+      "Bewusstseins"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Charakter"
+    ],
+    [
+      "Akte",
+      "Charaktere"
+    ],
+    [
+      "Atem",
+      "Atemporal"
+    ],
+    [
+      "Atem",
+      "Atemzählung"
+    ],
+    [
+      "Atem",
+      "Atemsekunden"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Drei",
+      "Zweitausenddreihundertvier"
+    ],
+    [
+      "ENDE",
+      "Ende"
+    ],
+    [
+      "ENDE",
+      "Tendenz"
+    ],
+    [
+      "ENDE",
+      "Fehlende"
+    ],
+    [
+      "ENDE",
+      "Rettende"
+    ],
+    [
+      "ENDE",
+      "Wachsendes"
+    ],
+    [
+      "ENDE",
+      "Erwachendes"
+    ],
+    [
+      "ENDE",
+      "Schmerzende"
+    ],
+    [
+      "ENDE",
+      "Selbstkorrigierende"
+    ],
+    [
+      "Ende",
+      "Tendenz"
+    ],
+    [
+      "Ende",
+      "Fehlende"
+    ],
+    [
+      "Ende",
+      "Rettende"
+    ],
+    [
+      "Ende",
+      "Wachsendes"
+    ],
+    [
+      "Ende",
+      "Erwachendes"
+    ]
+  ]
+}
