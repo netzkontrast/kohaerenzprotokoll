@@ -42,3 +42,10 @@ only inside a critique.** Nothing in the page schema says how to mark that.
 Any later source using one of the seven as its own vocabulary — asserting with it
 rather than about it. One instance answers it for that term; a category of
 documents read without any instance answers it for the family.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**None of the eight occurs.** The document counts the novel's protocols:
+„Suppression / Kohärenz / Re-Containment (frühere zwölf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1184]. None
+of ANI, ARS, ECR, PMS, RSA, SNK, ZTV or Nullpunkt-Protokoll is among the three; whether
+any was among the retired twelve it does not say.
