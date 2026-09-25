@@ -66,7 +66,8 @@ selection is where they differ, so it follows a rule:
 - **List** a word the document uses as its own term: it defines it, marks it
   (`[K]`, `[V]` …), sets it in bold, or heads a section or a table column with it.
 - **List** a borrowed concept the document applies to the world, and mark it as
-  lens: under a `## lens` heading, or with `(lens)` after it.
+  lens: under a `## lens` heading. Not with `(lens)` after it — the count keeps
+  the suffix as part of the term and finds it nowhere.
 - **Leave out** a noun in its ordinary sense, a phrase of the argument, and the
   title of a cited work.
 - **Write each surface as the document writes it.** Where the document joins two
