@@ -63,12 +63,5 @@ the chapter template asks after: „Lex↔Nyx?" ^[kohaerenz-protokoll-welt-senso
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Wo Kiko in Schicht 1 erstarrte, brennt Nyx in Schicht 2 alles nieder." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L375]
-
-**Her heat is not [[juna|Juna]]'s.** The character bible's „Hitze im Brustkorb" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] now carries a
-qualification: „diese Hitze ist innere Aktivierung, nicht Junas Coheron-Spur — Polaritäts-Disziplin beachten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395]
-— [[hitze-polaritaetsregel]].
-
-Riss kinetic (L391, L876). ↔ [[aegis|AEGIS]]: „maximaler Hass" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L409]; ↔ [[lex|Lex]], maximal conflict (L808).
-„Sie ist funktional wütend — Wut als Werkzeug, nicht als Identität." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L417]
-„Wenn sie ruhig wird, ist das nicht Heilung — es ist Erschöpfung oder ein anderer Anteil ist vorne." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L417]
+„Nyx (Fight) — Schicht 2" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L373]. DKT correlate: „CPT-Verletzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L387]. Riss: „Kinetisch — Geschwindigkeit, Stoß, Beschleunigung, Splitter, Vibration." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L391]
+Her „Hitze im Brustkorb" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] is set apart from Juna's trace, „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] (C11).

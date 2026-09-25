@@ -10,487 +10,297 @@
   },
   "state_after": {
     "pages": 93,
-    "conflicts": 15
+    "conflicts": 13
   },
   "pre_classification": {
-    "candidates": 847,
-    "decisions": 853,
-    "decided_by_lookup": 508,
-    "needs_judgement": 345
+    "candidates": 334,
+    "decisions": 343,
+    "decided_by_lookup": 236,
+    "needs_judgement": 107
   },
-  "pre_classification_note": "reconcile-pre.json was re-run against main's wiki after the merge of 2026-09-25 that took main's reading of document 16; its state field counts C14 and C15, which this document added. The first run, on this branch's own reading of document 16, printed 93 pages and 13 conflicts and the same 847 / 853 / 508 / 345, and so did this one.",
   "new_terms": [],
-  "why_no_new_terms": "A catalogue of the thirteen Alters, each of which already has a page, with the voices outside them — AEGIS, Mnemosyne, Juna — which have pages too. Document 7's rule applies: a page needs a [K] reading of something in the world, and every [K] figure here has one. The fourth voice, the Erasure-Pol, carries its name as open, 'Erasure-Pol (Name offen)' (L1014), so it gets no page (J47). The rest is the profile template and its craft — the Sprach-DNA, the riss mandates, the switching rules, the log format, the checks — borrowed theory in its home sense (TSDP, IFS, ISH, Compassion Fatigue, and the eleven physics correlates from Hubble-Volumen to Fraktale), or names used as known (Gödel-Gambit, Slot 16, Moonshine-Link).",
-  "not_promoted": [
-    {
-      "term": "Erasure-Pol",
-      "lines": [
-        1014,
-        1016,
-        1020
-      ],
-      "why": "the name is marked open, 'Name offen' (J47); its absorption is Q5's"
-    },
-    {
-      "term": "Fragmentierungsnacht",
-      "lines": [
-        86
-      ],
-      "why": "the second trauma layer, written beside the Trennungsprotokoll with a slash; §1 carries no [K] label, so document 7's rule does not reach it here. It recurs in the character bible (L307), the konsolidiertes Konzept (L439), the storyform document (L277) and the glossary (L181) — a candidate page for the next document that labels it"
-    },
-    {
-      "term": "Doppeltes Trauma / Schicht 1 / Schicht 2",
-      "lines": [
-        81,
-        85,
-        86,
-        87
-      ],
-      "why": "the two trauma layers; readings on each Alter, on trennungsprotokoll and on externe-ebene; unlabelled here (see Fragmentierungsnacht)"
-    },
-    {
-      "term": "Korrelat-Achse",
-      "lines": [
-        77,
-        861
-      ],
-      "why": "the vertical axis; its poles have pages (coheron, erason, atemporalitaet), where it is read"
-    },
-    {
-      "term": "Spiegel-Alter",
-      "lines": [
-        56,
-        681,
-        683
-      ],
-      "why": "a category of two, read on silas, oblivion and alters"
-    },
-    {
-      "term": "Sonderkategorie",
-      "lines": [
-        55,
-        627,
-        631
-      ],
-      "why": "a category of one, read on argus"
-    },
-    {
-      "term": "TSDP",
-      "lines": [
-        42,
-        157
-      ],
-      "why": "the clinical model in its home sense, read on did"
-    },
-    {
-      "term": "IFS / ISH",
-      "lines": [
-        42,
-        322
-      ],
-      "why": "clinical models in their home sense, read on did and selene"
-    },
-    {
-      "term": "Riss-Mandate",
-      "lines": [
-        867,
-        869
-      ],
-      "why": "a craft table, read on risse"
-    },
-    {
-      "term": "Polyphonie-Progression",
-      "lines": [
-        911,
-        913,
-        914,
-        915
-      ],
-      "why": "craft, read on alters and multiplizitaet"
-    },
-    {
-      "term": "AEGIS-Log-Format",
-      "lines": [
-        952,
-        956,
-        968,
-        976,
-        980
-      ],
-      "why": "craft, read on aegis"
-    },
-    {
-      "term": "Wir-AEGIS-plural",
-      "lines": [
-        91,
-        934
-      ],
-      "why": "used as a name, not marked open here; the page waits for the author (J47, J73)"
-    },
-    {
-      "term": "Strange-Attractor-Form",
-      "lines": [
-        91
-      ],
-      "why": "physics lens, read on multiplizitaet"
-    },
-    {
-      "term": "Kudzu-Eskalation",
-      "lines": [
-        310,
-        822
-      ],
-      "why": "a metaphor for Rhys' Akt II, read on rhys"
-    },
-    {
-      "term": "the fifteen de-canonised names",
-      "lines": [
-        95
-      ],
-      "why": "'NIE als aktive Charaktere' by the document's own rule; the list is read on alters"
-    },
-    {
-      "term": "the eleven physics correlates",
-      "lines": [
-        117,
-        180,
-        231,
-        282,
-        334,
-        387,
-        437,
-        488,
-        539,
-        590,
-        643
-      ],
-      "why": "borrowed theory in its home sense, read on each Alter and on dkt"
-    },
-    {
-      "term": "Compassion Fatigue",
-      "lines": [
-        1030
-      ],
-      "why": "a clinical profile for a POV that is open, read on juna"
-    },
-    {
-      "term": "Slot 16 / Hard-B-Etablierungskapitel",
-      "lines": [
-        992
-      ],
-      "why": "a label that partitions the book (J31), read on aegis and in C14"
-    },
-    {
-      "term": "Block-4-Anker-Test",
-      "lines": [
-        1094
-      ],
-      "why": "craft, read on telefon-stille"
-    },
-    {
-      "term": "Phantom-Resonanz",
-      "lines": [
-        159
-      ],
-      "why": "one occurrence, read on kael"
-    }
-  ],
+  "why_no_new_terms": "A profile catalogue of figures the wiki already has pages for: all thirteen Alters, AEGIS, Mnemosyne, Juna. Its other candidates are profile fields (Kernphobien, DKT-Korrelat, Riss-Typ, Sprach-DNA …), the borrowed physics each Alter is mapped to — lens in the sense of decision 012's rule, applied per Alter and recorded on the Alter pages — the switching rules, the log format's field names, and fifteen names it lists only to exclude them. None is defined as a thing in the world beyond one profile line.",
   "new_readings": [
-    {
-      "page": "aegis",
-      "lines": [
-        168,
-        357,
-        667,
-        699,
-        778,
-        787,
-        789,
-        944,
-        952,
-        976,
-        992
-      ],
-      "attribution": "premise",
-      "note": "third person, never prose, a Hard-B debut without the first person"
-    },
-    {
-      "page": "mnemosyne",
-      "lines": [
-        996,
-        1000,
-        1004,
-        1008,
-        1012
-      ],
-      "attribution": "premise",
-      "note": "a poetic third person, and a tragedy of lack"
-    },
-    {
-      "page": "dkt",
-      "lines": [
-        28,
-        117,
-        590,
-        699,
-        755,
-        948
-      ],
-      "attribution": "premise",
-      "note": "a physical correlate for every Alter"
-    },
     {
       "page": "kael",
       "lines": [
-        86,
         105,
+        117,
+        121,
         125,
-        133,
-        140,
-        145,
         149,
-        157,
-        159,
-        813
+        157
       ],
       "attribution": "premise",
-      "note": "the Host's profile, the knuckles locked to Kap 0"
+      "note": ""
     },
     {
       "page": "lex",
       "lines": [
-        86,
         168,
         180,
         184,
-        188,
-        203,
-        211,
-        808,
-        926
+        211
       ],
       "attribution": "premise",
-      "note": "a product of the Trennungsprotokoll"
+      "note": ""
     },
     {
       "page": "alex",
       "lines": [
-        86,
         219,
+        231,
         235,
-        258,
-        262,
-        1079
+        262
       ],
       "attribution": "premise",
-      "note": "his origin stated, with the document's own reservation"
+      "note": ""
     },
     {
       "page": "rhys",
       "lines": [
-        86,
-        270,
+        268,
         282,
         286,
-        306,
         310,
-        703,
         822
       ],
       "attribution": "premise",
-      "note": "a warm riss, and the book's central ANP conflict"
+      "note": ""
     },
     {
       "page": "selene",
       "lines": [
-        87,
+        320,
         322,
-        353,
+        334,
         357,
         361,
         365
       ],
       "attribution": "premise",
-      "note": "waiting in the Möglichkeits-Garten, not Juna"
+      "note": ""
     },
     {
       "page": "nyx",
       "lines": [
-        375,
+        373,
+        387,
         391,
-        395,
-        409,
-        417,
-        808,
-        876
+        395
       ],
       "attribution": "premise",
-      "note": "her heat set apart from Juna's"
+      "note": ""
     },
     {
       "page": "kiko",
       "lines": [
-        85,
-        425,
+        423,
+        437,
         441,
         460,
-        468,
-        878
+        468
       ],
       "attribution": "premise",
-      "note": "Flight as her second function"
+      "note": ""
     },
     {
       "page": "lia",
       "lines": [
-        85,
+        474,
+        488,
         492,
-        496,
-        504,
-        519,
-        878,
-        1074
+        519
       ],
       "attribution": "premise",
-      "note": "a relational riss, Flight with Kiko, somatics as a proposal"
+      "note": ""
     },
     {
       "page": "isabelle",
       "lines": [
-        85,
-        527,
+        525,
+        539,
         543,
-        547,
-        562,
-        570,
-        878,
-        1074
+        570
       ],
       "attribution": "premise",
-      "note": "one riss, sensory, and no Flight"
+      "note": ""
     },
     {
       "page": "moros",
       "lines": [
-        85,
-        582,
+        576,
         586,
         590,
         594,
-        613,
         621
       ],
       "attribution": "premise",
-      "note": "the state the others fear"
+      "note": ""
     },
     {
       "page": "argus",
       "lines": [
-        86,
+        629,
         631,
+        643,
         647,
-        651,
-        667,
-        675,
-        1080
+        667
       ],
       "attribution": "premise",
-      "note": "the only voice that can name AEGIS' core error"
+      "note": ""
     },
     {
       "page": "silas",
       "lines": [
+        685,
         687,
-        691,
-        695,
         699,
         703,
-        707,
-        729,
         731,
         735,
-        837,
-        1029,
-        1042,
-        1075
+        837
       ],
       "attribution": "premise",
-      "note": "the polarity lock in his riss field"
+      "note": ""
     },
     {
       "page": "oblivion",
       "lines": [
+        741,
         743,
         755,
-        759,
         778,
-        787,
-        788,
         789,
-        793,
-        1075
+        793
       ],
       "attribution": "premise",
-      "note": "AEGIS' fifth column, unknown to AEGIS"
+      "note": ""
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        944,
+        992
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        778,
+        994,
+        996,
+        1000,
+        1004
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        996,
+        1014,
+        1016
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        1016
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        1016
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        1016
+      ],
+      "attribution": "premise",
+      "note": ""
     },
     {
       "page": "juna",
       "lines": [
-        365,
-        735,
-        976,
+        77,
         1024,
         1028,
         1029,
-        1030,
         1042
       ],
       "attribution": "premise",
-      "note": "not a part, a structural position; direct appearance Kap 38"
+      "note": ""
     },
     {
       "page": "coheron",
       "lines": [
         77,
-        395,
         699,
-        881,
-        1042
+        881
       ],
       "attribution": "premise",
-      "note": "the atemporal pole of the Korrelat-Achse"
+      "note": ""
     },
     {
       "page": "erason",
       "lines": [
         77,
-        755,
-        882
+        755
       ],
       "attribution": "premise",
-      "note": "the temporal pole, and Oblivion's correlate"
+      "note": ""
+    },
+    {
+      "page": "atemporalitaet",
+      "lines": [
+        77,
+        699,
+        860
+      ],
+      "attribution": "premise",
+      "note": ""
     },
     {
       "page": "trennungsprotokoll",
       "lines": [
         86,
-        168,
-        219
+        168
       ],
       "attribution": "premise",
-      "note": "the second trauma layer's night"
+      "note": ""
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        219,
+        787,
+        1079
+      ],
+      "attribution": "premise",
+      "note": ""
     },
     {
       "page": "multiplizitaet",
       "lines": [
         91,
-        915,
-        930,
-        932,
-        1129
+        157,
+        915
       ],
       "attribution": "premise",
-      "note": "never fusion, a composed Wir"
+      "note": ""
     },
     {
       "page": "moeglichkeits-garten",
@@ -498,7 +308,7 @@
         361
       ],
       "attribution": "premise",
-      "note": "where Selene waits, KW4 in parentheses"
+      "note": ""
     },
     {
       "page": "moonshine-link",
@@ -508,102 +318,64 @@
         1077
       ],
       "attribution": "premise",
-      "note": "Silas as its body, OQ-F with a proposal"
+      "note": ""
     },
     {
       "page": "did",
       "lines": [
         42,
-        157,
         928
       ],
       "attribution": "premise",
-      "note": "the model named TSDP, and a word that waits"
+      "note": ""
     },
     {
       "page": "alters",
       "lines": [
-        13,
-        21,
-        25,
-        53,
-        85,
-        86,
-        87,
         95,
-        913,
-        915
+        683
       ],
       "attribution": "premise",
-      "note": "the thirteen in four categories and two layers"
-    },
-    {
-      "page": "kohaerenz",
-      "lines": [
-        788,
-        968
-      ],
-      "attribution": "premise",
-      "note": "a percentage in AEGIS' log, and what erasing keeps"
-    },
-    {
-      "page": "guardians",
-      "lines": [
-        996,
-        1004,
-        1014,
-        1016
-      ],
-      "attribution": "premise",
-      "note": "two, Mnemosyne and the Erasure-Pol"
-    },
-    {
-      "page": "cerberus",
-      "lines": [
-        1014,
-        1016
-      ],
-      "attribution": "premise",
-      "note": "its function absorbed into the Erasure-Pol"
-    },
-    {
-      "page": "logos",
-      "lines": [
-        13,
-        1016
-      ],
-      "attribution": "premise",
-      "note": "into the Erasure-Pol, not Mnemosyne"
-    },
-    {
-      "page": "kairos",
-      "lines": [
-        13,
-        1016
-      ],
-      "attribution": "premise",
-      "note": "into the Erasure-Pol"
+      "note": ""
     },
     {
       "page": "telefon-stille",
       "lines": [
         1029,
-        1042,
-        1063,
         1094
       ],
       "attribution": "premise",
-      "note": "Juna's anchor, and a check before every scene"
+      "note": ""
     },
     {
       "page": "landauer-signatur",
       "lines": [
+        703,
         837,
-        890,
         1042
       ],
       "attribution": "premise",
-      "note": "ozone, and the heat of Silas and Oblivion"
+      "note": ""
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        395,
+        703,
+        837
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        869,
+        886,
+        890
+      ],
+      "attribution": "premise",
+      "note": ""
     },
     {
       "page": "kaels-wohneinheit",
@@ -611,104 +383,58 @@
         105
       ],
       "attribution": "premise",
-      "note": "the character bible's address"
+      "note": ""
     },
     {
-      "page": "hitze-polaritaetsregel",
+      "page": "externe-ebene",
       "lines": [
-        286,
-        395,
-        703,
-        837,
-        890,
-        1042
+        85
       ],
       "attribution": "premise",
-      "note": "the lock in Silas' field, Nyx's heat set apart, Rhys' left"
-    },
-    {
-      "page": "risse",
-      "lines": [
-        29,
-        121,
-        492,
-        647,
-        869,
-        878,
-        881,
-        886,
-        890
-      ],
-      "attribution": "premise",
-      "note": "a riss type per Alter, the mandates, world rifts"
-    },
-    {
-      "page": "genesis",
-      "lines": [
-        787,
-        1079
-      ],
-      "attribution": "premise",
-      "note": "four beats, and Alex before the separation"
+      "note": ""
     },
     {
       "page": "kern-welten",
       "lines": [
         85,
-        361,
-        886,
-        890,
-        1000
+        886
       ],
       "attribution": "premise",
-      "note": "where the first layer becomes readable, and act rifts"
+      "note": ""
     },
     {
-      "page": "externe-ebene",
+      "page": "dkt",
       "lines": [
-        85,
-        105
+        28,
+        117,
+        755,
+        948
       ],
       "attribution": "premise",
-      "note": "Basisrealität Köln as the first layer's ground"
-    },
-    {
-      "page": "blinder-fleck",
-      "lines": [
-        699,
-        703,
-        778,
-        976,
-        1004
-      ],
-      "attribution": "premise",
-      "note": "AEGIS' blindness inside Kael, and a Guardian's lack"
-    },
-    {
-      "page": "atemporalitaet",
-      "lines": [
-        77,
-        699
-      ],
-      "attribution": "premise",
-      "note": "the chain for one Alter, Silas"
+      "note": ""
     }
   ],
-  "new_surfaces": [],
-  "new_conflicts": [
-    "C14",
-    "C15"
+  "reached_by_existing_rule": [
+    "kaels-wohneinheit (J58)",
+    "externe-ebene (J54)",
+    "kern-welten (J37)",
+    "genesis (J76-J79 rule; Genesis-Beat-Anzahl, Genesis-Sequenz)",
+    "atemporalitaet (J85)",
+    "hitze-polaritaetsregel (J83: Polaritäts-Lock)"
   ],
-  "new_conflict_note": "C14 — whether AEGIS gets a first-person chapter: a lock of 2026-05-30 gives one chapter in Kap 5–8 a first-person inner view, which document 7 and the glossary carry; the older sources, the Kernwelten document and this one give AEGIS the third person and no inside. C15 — who carries Flight: Kiko and Lia in the character bible, the drafting manual's trigger table and this document; Lia and Isabelle in the konsolidiertes Konzept, document 7, the Kernwelten document, the glossary and the drafting manual's KW2. Both found while adding readings; in each, most rows were already on pages with no record.",
+  "not_read_although_looked_up": {
+    "ueberwelt": "Simulation at L105 („Innerhalb der Simulation\") — an occurrence; J39 keeps Simulation apart from the Überwelt",
+    "kohaerenz": "KOHÄRENZ at L968 is a field name in AEGIS' log template, not a statement about Kohärenz"
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
   "conflicts_changed": [
     "C4",
-    "C5",
     "C6",
     "C7",
     "C10",
     "C11",
-    "C12",
-    "C13"
+    "C12"
   ],
   "questions_changed": [
     "Q1",
@@ -717,50 +443,38 @@
     "Q5"
   ],
   "records_read_and_not_changed": {
-    "C1": "AEGIS is never expanded",
+    "C1": "no expansion of AEGIS",
     "C2": "Entropie does not occur",
-    "C3": "AEGIS' origin is not stated; Oblivion relives 'AEGIS' eigene Genesis-Krise' (L787), which says nothing about what AEGIS emerged from",
-    "C8": "no Approach value for AEGIS; Kael's is Be-er (L149), which is Storyform A's slot",
-    "C9": "the Konstrukt-Stadt does not occur",
-    "Q2": "none of the seven protocol terms occurs"
+    "C3": "AEGIS' origin is not stated; only Oblivion re-living „AEGIS' eigene Genesis-Krise\" (L787)",
+    "C5": "the Möglichkeits-Garten only as where Selene waits, KW4 (L361); Garten der Möglichkeiten does not occur",
+    "C8": "Be-er at L149 is Kael's, Storyform A; AEGIS' approach is not given",
+    "C9": "Konstrukt-Stadt does not occur",
+    "Q2": "none of the eight protocols occurs",
+    "C13": "writes Basisrealität Köln as the ground of the first trauma layer (L85) and does not place Köln inside or outside the simulation"
   },
-  "judgements": [],
-  "decided_by_existing_rules": "Titles and table-row labels containing terms by J9 (the document's title, 'Alex-Präsenz', 'Argus typografisch', 'Genesis-Beat-Anzahl', 'Spiegel-Alter-Auftrittskapitel'). Compounds placed by what they name by J16 and J28 — AEGIS-* (AEGIS-Stimme, -Register, -Echo, -konform, the log header), Juna-*/Junas * (Coheron-Spur, Stilebene 3, -Echo, -POV, JUNA_VEKTOR), Silas-*, Oblivion-*, Coheron-Echo, Spiegel-Coheron, Erason-Operator, Spiegel-Erason, Welt-/thermische/Wasser-/paranoide/generative Risse, Multiplizitäts-Schleier. Kael (Host), ANP-Host and System Kael by J70. 13 Alter and Alter by J84; zwei Guardians by J82. Plurals by J23–J25, J44–J46 (Anteile, Hard-Rules, Phobien). Mnemosyne-Archipel by J49. Genesis-Sequenz, -Krise and -Beat-Anzahl by J76–J79, the passages placed by what they state (J62). Basisrealität Köln on externe-ebene by J54. Wohneinheit 14/Sektor 7/Wohneinheit 734-K on kaels-wohneinheit by J50. Protokoll, Signatur, Sektor, Kollaps and Fragment(ierung) against pages whose head they share by J10, J52 and J53. Labels that partition — Akt I–III, Kap N, Schicht 1/2, Stilebene N, OQ-E/F/G, R-4, Slot 16, Block-4 — by J31. Four same-surface groups folded mechanically before any lookup.",
-  "lookup_hits_not_placed": {
-    "ueberwelt (via its alias Simulation)": "'Innerhalb der Simulation' (L105) is where Kael's role is held, not AEGIS' Überwelt — J30, J39, again"
-  },
-  "near_matches_not_placed": {
-    "kael-julia-bindung (via Bindung)": "Silas is the afterimage of 'der Bindung' (L687) without the sentence saying whose; the character bible's same sentence is not on the page either (J13)",
-    "aegis-metriken (via Analyse, Vorhersagbarkeit, Mustererkennung, Anomalie)": "Lex's and Argus' traits and a riss that looks to AEGIS like a sensor error, not an anomaly (L703) — none is one of AEGIS' metrics (J10, J28)",
-    "kollaps-kernel (via Kollaps)": "Moros' collapse is a dissociative mode, not K₀ (J10)",
-    "personas (via Depersonalisierung)": "a match only after folding cuts a word (J69)",
-    "sektor-04 (via Sektor)": "Sektor 7 is Kael's address, not Sektor 04 (J10, J53)",
-    "did (via Fragment, Fragmentierung)": "the Fragmentierungsnacht is an event, not the disorder (J52); did is read through DID (L928)",
-    "entropie-signatur (via Signatur)": "a shared head noun (J10); Landauer-Signatur was placed by lookup",
-    "entropie-resonanz, nullpunkt-protokoll, protokoll-v14, trennungsprotokoll (via Protokoll)": "the bare word in Kael's vocabulary and AEGIS' voice (J10, J57); the Trennungsprotokoll was placed by its own lookup",
-    "mnemosyne (via Mnemosyne-Archipel)": "a world named from its bearer is not the bearer (J49); the climax's setting is read on mnemosyne and kern-welten as a sentence about each"
-  },
-  "found_by_rule_not_by_census": [
-    "kaels-wohneinheit",
-    "hitze-polaritaetsregel",
-    "risse",
-    "genesis",
-    "kern-welten",
-    "externe-ebene",
-    "blinder-fleck",
-    "atemporalitaet"
+  "judgements": [
+    "J85",
+    "J86"
+  ],
+  "decided_by_existing_rules": "compounds placed by what they name (J8, J28, J32): the Alter-, AEGIS-, Juna-, Coheron-, Silas-, Spiegel- and Signatur- compounds; Alter/Alters (J25, J46); 13 Alter (J84); Kael (Host) as a role on Kael (J70); System Kael (J48, J55); Wir-AEGIS-plural (J47, J73); Mnemosyne-Archipel (J49); Erason-Operator as a role (J7); Erasure-Pol (J59); Genesis-Sequenz, Genesis-Krise (J76–J79); matches only after folding cuts words (J69): Limina/Mina, Mina/K₁-Dominanz, Index/PARADOX_INDEX, Depersonalisierung/Personas, Fragment/psychische Fragmentierung, Kollaps/Kollaps-Kernel.",
+  "not_promoted": [
+    "the fifteen decanonised names (L95): named only to exclude them — Limina among them, which the kaels-wohneinheit page carries from a 2025 source",
+    "the log format and its fields (L952–L988)",
+    "the ten profile fields (L25–L34) and the three signatures of §8.1",
+    "the DKT correlates per Alter (Hubble-Volumen, Halteproblem, Maxwellscher Dämon, Planck-Skala …): lens, on each Alter's page",
+    "Fusion / Final Fusion, Wir-Stimme, Polyphonie-Progression: the novel's form, not its world",
+    "Compassion Fatigue (L1030): a proposed profile for an open Juna-POV"
   ],
   "sweep": {
-    "in_document_not_in_census": [
-      {
-        "page": "risse",
-        "surface": "Risse",
-        "line": 890,
-        "already_read": false
-      }
-    ],
-    "note": "one hit, the world rifts at L890, which this document's reading of risse covers; settled by that reading, nothing to record in Plan/runs/sweep.jsonl"
+    "hits": 1,
+    "readings": 1,
+    "occurrences": 0,
+    "note": "Risse at L890 — the census listed Welt-Risse and each kind, never bare Risse"
   },
-  "baseline_moved": false,
-  "baseline_note": "no new judgement; fold() stays at 41 and the plural rule at 49 of 71 labelled pairs"
+  "found_by_rule_not_by_census": [
+    "kaels-wohneinheit (J58)",
+    "externe-ebene (J54)"
+  ],
+  "internal_tension": "heat placed three ways: Juna's Coheron-Spur (L1042), Silas' warmth as the only diegetic warmth (L703), Landauer heat from the Silas–Oblivion conflict (L837); recorded in C11",
+  "baseline_moved": false
 }

@@ -80,16 +80,7 @@ Kap 1 — „Etwas in der Frequenz der Lüftung schien zu—" ^[kohaerenz-protok
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Internalisiertes Nachbild der Bindung, die AEGIS nicht vollständig löschen konnte." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687]
-„Resonanzkörper des Moonshine-Links innerhalb des Systems Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687] Motivation and phobias are gaps,
-`[L]` (L691, L695); somatics a proposal from the character bible (L707).
-„Silas ist die einzige Alter, deren Existenz zeitfrei ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] — [[atemporalitaet]].
-
-**The polarity lock stands in his riss field.** „Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
-„Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703] — the debut this document also gives [[juna|Juna]]'s trace (L1042). [[hitze-polaritaetsregel]].
-His struggle with [[oblivion|Oblivion]] makes „Landauer-Hitze" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — C11.
-
-Akt I, Kap 1's lock: „Etwas in der Frequenz der Lüftung schien zu—" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L729] Akt III:
-„Wird zum aktiven Transmitter für das Gödel-Gambit." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] POV from about Kap 31/32, OQ-E (L731, L1075).
-One of Juna's two anchors: „Anker: Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029]
-„Silas ist nicht Juna. Silas ist ein Echo." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L735]
+„Silas (Juna-Echo)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L685]: „Resonanzkörper des Moonshine-Links innerhalb des Systems Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687] DKT correlate:
+„Coheron-Echo." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] His warmth, dated: „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike. Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
+In Akt III „Wird zum aktiven Transmitter für das Gödel-Gambit." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] Anchor: „Silas ist nicht Juna." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L735]
+His conflict with Oblivion makes heat: „entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] (C11).

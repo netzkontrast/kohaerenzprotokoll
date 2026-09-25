@@ -81,13 +81,6 @@ After Vortex 1, an open point: „lebende Reliquie + Oblivion-Übernahme intern"
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Internalisierte Löschlogik." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L743] „AEGIS' fünfte Kolonne im System — der Grund, warum die Amnesie von innen funktioniert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L743]
-„Die einzige Alter, die aktiv löscht." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755] Riss temporal and gravitational (L759).
-↔ [[aegis|AEGIS]]: „innerer Vollstrecker." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778] „Aber: AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]
-„Oblivion ist autonom, in seinem Mandat aber AEGIS-konform." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]
-
-Akt II: „Beginnt AEGIS' eigene Genesis-Krise nachzuerleben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L787] Akt III, the choice:
-„Wenn Oblivion aufhört zu löschen, bricht Kaels Amnesie zusammen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L788]. POV from about Kap 32/33, OQ-E (L788, L1075).
-After the Vortex, OQ-G, a proposal: „Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
-„Lock ausstehend." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
-„Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L793]
+„Oblivion (AEGIS-Echo)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L741]: „Internalisierte Löschlogik." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L743] DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]
+„Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]. Post-Vortex, OQ-G: „Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
+Anchor: „Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L793]

@@ -180,16 +180,6 @@ Hard rule R-3 keeps the word out of Akt I: „Alter, Fragment, ANP, EP, TSDP, DI
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**Thirteen, in four categories, with the Host among them.** „Vollständige Liste aller 13 Alter (plus AEGIS-Stimme + Mnemosyne)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L13]:
-five ANPs — [[kael|Kael]] (Host), [[lex|Lex]], [[alex|Alex]], [[rhys|Rhys]], [[selene|Selene]]; five EPs — [[nyx|Nyx]], [[kiko|Kiko]],
-[[lia|Lia]], [[isabelle|Isabelle]], [[moros|Moros]]; [[argus|Argus]] alone in the Sonder-Kategorie; [[silas|Silas]] and
-[[oblivion|Oblivion]] the mirrors (L53–L56).
-
-Two trauma layers: „Schicht 1 (Bindungstrauma Basisrealität Köln): Kiko · Lia · Isabelle · Moros." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] The other
-eight in Schicht 2, the Fragmentierungsnacht (L86); [[selene|Selene]] across both (L87).
-
-Every profile has ten fields in a fixed order (L25–L34); a gap is marked where it stands:
-„Lückenhafte Felder sind explizit so markiert — keine stillen Annahmen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L21] The fifteen de-canonised names are its
-siblings' list: „Dekanonisiert (NIE als aktive Charaktere): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95]
-„Stimmen werden nie gelabelt oder angekündigt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L13] „Akt I (Kap 1–13): fragmentiert, staccato." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L913]
-„Akt III (Kap 27–39): chorisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L915]
+Thirteen, listed by category (L53–L56): five ANPs, five EPs, [[argus|Argus]], and the two mirrors. Fifteen names are
+excluded outright: „Dekanonisiert (NIE als aktive Charaktere):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95] „Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95]
+(Q3). „Die Spiegel-Alter sind das narrative Herz der 13er-Architektur." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L683]

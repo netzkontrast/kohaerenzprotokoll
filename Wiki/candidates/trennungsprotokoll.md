@@ -105,8 +105,6 @@ Genesis-4-Beat it is the third beat (L1174). The document's own open conflict:
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**The second trauma layer is its night**: „Fragmentierungsnacht / Trennungsprotokoll" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L86] — [[kael|Kael]] (Host), [[lex|Lex]],
-[[alex|Alex]], [[rhys|Rhys]], [[nyx|Nyx]], [[argus|Argus]], [[silas|Silas]] and [[oblivion|Oblivion]] (L86).
-[[lex|Lex]] is its „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]. Whether [[alex|Alex]] can be present before it:
-„in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein — offen, siehe §11." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219]
-C12, [[genesis]].
+Schicht 2 is the „Fragmentierungsnacht / Trennungsprotokoll" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L86]: Kael, Lex, Alex, Rhys, Nyx, Argus, Silas,
+Oblivion (L86). Lex is its „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]. Whether Alex can be present before it
+is open (L219, L1079; C12).

@@ -194,8 +194,6 @@ and still no sentence says the [[guardians|Guardians]] are parts of [[aegis|AEGI
 
 ## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**Working for [[aegis|AEGIS]], inside its system, and sounding otherwise.** [[mnemosyne|Mnemosyne]] is
-„eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996], and
-„Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1012]
-The Erasure-Pol: „3. Person, register-nah an AEGIS (bürokratisch)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1020] An instance of the
-system that works for it — neither component nor peer in so many words.
+**For AEGIS, and inside its system.** Mnemosyne „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996], and
+„Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1012] The Erasure-Pol is
+„Löschungs-Exekutive." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016] Working for AEGIS and within its system — still not the word *component*.

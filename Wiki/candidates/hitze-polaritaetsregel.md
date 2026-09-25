@@ -54,10 +54,7 @@ The same document names its first foreshadowing strand `Landauer`, with the them
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**The rule as a lock in [[silas|Silas]]' riss field.** „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
-„Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703] [[nyx|Nyx]]'s chest heat is set apart by it: „diese Hitze ist innere Aktivierung, nicht Junas Coheron-Spur — Polaritäts-Disziplin beachten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395].
-The thermal world riss carries its name: „KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890]
-
-**Two heats it leaves as they are**: [[rhys|Rhys]]' riss, „Wärme-Akkumulation, fiebrige Hände." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L286], and the
-„Landauer-Hitze" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] of Silas' struggle with [[oblivion|Oblivion]]. The warmth that debuts in Kap 3 is Silas' in his field
-and „Junas Coheron-Spur ab Kap 3" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] in the foreshadowing — one, if Silas is [[juna|Juna]]'s echo.
+Named as the Polaritäts-Lock of 2026-05-30 (J83), with the warmth given to [[silas|Silas]]:
+„Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike. Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
+And as a discipline Nyx's heat must keep: „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395]. Beside it, heat as the Silas–Oblivion
+conflict, „entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — see [[landauer-signatur]] and C11.

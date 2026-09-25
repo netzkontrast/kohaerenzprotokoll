@@ -133,6 +133,5 @@ The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]], in the [[extern
 
 ## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**Kap 38, as the third of her modes, locked 2026-05-30.**
-„Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]
-Nothing on Kap 33. Its rule for every scene of hers: „Grammatik-Regel: nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024]
+**Kap 38, as a locked mode.** „Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]
+— „gelockt 2026-05-30" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]. Kap 33 is not named. The Kap-38 side, with the date of the lock that set it.

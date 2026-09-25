@@ -1,0 +1,362 @@
+# reconcile-pre — kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md
+  wiki: 93 pages, 12 conflicts (index built 2026-09-25)
+  2 surface groups folded to one term first
+  334 candidates, 343 decisions — **236 by lookup, 107 need judgement**
+
+  a new_term is only new against what the index can see —
+  run `python3 scripts/wiki_index.py --check` for what it cannot.
+
+## already_there (0) — already recorded from this document — nothing to do
+
+## new_reading (33) — page exists, this document is not on it yet — a reading
+  AEGIS                                aegis
+  Mnemosyne                            mnemosyne
+  DKT                                  dkt
+  Kael                                 kael
+  Lex                                  lex
+  Alex                                 alex
+  Rhys                                 rhys
+  Selene                               selene
+  Nyx                                  nyx
+  Kiko                                 kiko
+  Lia                                  lia
+  Isabelle                             isabelle
+  Moros                                moros
+  Argus                                argus
+  Silas                                silas
+  Oblivion                             oblivion
+  Juna                                 juna
+  Coheron                              coheron
+  Erason                               erason
+  Trennungsprotokoll                   trennungsprotokoll
+  Funktionale Multiplizität            multiplizitaet
+  Simulation                           ueberwelt
+  Möglichkeits-Garten                  moeglichkeits-garten
+  Moonshine-Link                       moonshine-link
+  DID                                  did
+  Alters                               alters
+  KOHÄRENZ                             kohaerenz
+  Guardians                            guardians
+  Cerberus                             cerberus
+  LogOS                                logos
+  Kairos                               kairos
+  Telefon-Stille                       telefon-stille
+  Landauer-Signatur                    landauer-signatur
+
+## new_term (203) — no page, no near match — a new page
+  Profile                              
+  Sprach-DNA                           
+  Konfliktmatrix                       
+  Riss-Mandate                         
+  Wechsel-Mechanik                     
+  Repo-Paar                            
+  Charakter-Bibel                      
+  Storyform-Lock-In                    
+  Provenienz                           
+  Profilformat                         
+  Kategorie & Funktion                 
+  Kernmotivation                       
+  DKT-Korrelat                         
+  Riss-Typ                             
+  Beziehungsmuster                     
+  Arc                                  
+  Konsistenz-Anker                     
+  Hard-Rules                           
+  TSDP                                 
+  IFS                                  
+  Internal Family Systems              
+  Crew-Menü                            
+  ANP                                  
+  Apparently Normal Parts              
+  EP                                   
+  Emotional Parts                      
+  ANP/EP-Achse                         
+  Korrelat-Achse                       
+  Klimax                               
+  Schicht-Zuordnung                    
+  Doppeltes Trauma                     
+  Schicht 1                            
+  Bindungstrauma                       
+  Schicht 2                            
+  Schicht-übergreifend                 
+  Bauplan der Zeit                     
+  KW2                                  
+  KW3                                  
+  Wir                                  
+  Strange-Attractor-Form               
+  Dekanonisiert                        
+  Nox                                  
+  Flicker                              
+  Praetor                              
+  Eos                                  
+  Elara                                
+  Aris                                 
+  Lyra                                 
+  Soren                                
+  Tariq                                
+  Nova                                 
+  Sentinel                             
+  ANPs                                 
+  EPs                                  
+  Archivar Klasse II                   
+  Wohneinheit 14                       
+  Sektor 7                             
+  Wohneinheit 734-K                    
+  734                                  
+  K₁                                   
+  Going on with Normal Life            
+  EP-Phobie                            
+  Hubble-Volumen                       
+  Big Rip                              
+  Beobachtungshorizont                 
+  Horizont-Erosion                     
+  Zeitverlust                          
+  verlorene Sekunden                   
+  Knöchel                              
+  Blutungs-Faden                       
+  Zähl-Manie                           
+  Präsens                              
+  Mosaik-Stream                        
+  Standardprotokoll                    
+  Sensor-Rekalibrierung                
+  Schleier-Disziplin                   
+  Fraktalität                          
+  Resolve                              
+  Change                               
+  Pursuit                              
+  Phantom-Resonanz                     
+  Rationalist                          
+  Intellektualisierung                 
+  Halteproblem                         
+  Endlosschleifen                      
+  Hypoventilation                      
+  Bradykardie                          
+  Logik-Festung                        
+  Protektor                            
+  Hypervigilanz                        
+  Konzept-Konflikt                     
+  Asymptotische Freiheit               
+  Starke Kernkraft                     
+  Bunker-Topologie                     
+  Hypertonus                           
+  Bruxismus                            
+  Brace for Impact                     
+  Tactical                             
+  Caregiver                            
+  Maxwellscher Dämon                   
+  Wärmesenke                           
+  Wärme-Akkumulation                   
+  Kudzu-Eskalation                     
+  Hybrid                               
+  Integrator                           
+  ISH                                  
+  Internal Self-Helper                 
+  Wormholes                            
+  Entanglement Islands                 
+  Trennungsarchitektur                 
+  Wächterin                            
+  Architektin innerer Harmonie         
+  KW4                                  
+  CPT-Verletzung                       
+  Kinetisch                            
+  Hitze im Brustkorb                   
+  Polaritäts-Disziplin                 
+  Kind                                 
+  Planck-Skala                         
+  Temporal-Stutter                     
+  Flight                               
+  Gefrorener Samen                     
+  Ambivalent                           
+  Bindungsambivalenz                   
+  Relational-Drift                     
+  Approach-Avoidance                   
+  Sexualisiert                         
+  Pauli-Ausschluss                     
+  Sensorisch                           
+  Synästhesie                          
+  Katatonie                            
+  Hitzetod                             
+  Drachenkampf                         
+  Meta-Kognitiv                        
+  Fraktale                             
+  Zeno-Effekt                          
+  13er-Architektur                     
+  Tunneling                            
+  Relational/warm                      
+  Polaritäts-Lock                      
+  Vortex-Beat-4-Heat-Spike             
+  Transmitter                          
+  OQ-E                                 
+  Löschlogik                           
+  Lösch-Prosa                          
+  Tragischer Automat                   
+  Post-Vortex                          
+  OQ-G                                 
+  Klebstoff-System                     
+  Kudzu-Phase                          
+  Landauer-Hitze                       
+  Landauer-Signal                      
+  Wahrheitsvertuschung                 
+  Macht-Topologie                      
+  Datenanomalie                        
+  Resonanzkörper                       
+  Collapse                             
+  KW1                                  
+  Ozon                                 
+  Wir-Stimme                           
+  Kap-0-Annotation                     
+  R-4                                  
+  Bridge-Szene                         
+  Mikrocue                             
+  Soft-Layering                        
+  Schleier-Lüftung                     
+  plurale Bewahrung                    
+  Wir-Geflecht                         
+  Foreshadowing-Programm               
+  Log-Format                           
+  EP\_AKTIVITÄT                        
+  EXTERNE\_AUFMERKSAMKEITS\_METRIK     
+  AXIOMVERLETZUNG                      
+  Slot-16-Lock                         
+  UI-Direktiven                        
+  Konsolen-Zeilen                      
+  Hard-B-Etablierungskapitel           
+  Erinnerungs-Hüterin                  
+  Datenströme der Erinnerung           
+  Vortex 1 Beat 4                      
+  Löschungs-Exekutive                  
+  strukturelle Position                
+  Abwesenheits-Phase                   
+  Präsenz-Phase                        
+  Stille-Erscheinung                   
+  Compassion Fatigue                   
+  Foreshadowing-Anker                  
+  Show-don't-Tell                      
+  Pixelierung                          
+  Phantom-Bilanz                       
+  Antwortlatenzen                      
+  Wärme-Debüt                          
+  Offene Punkte                        
+  Moonshine-Boundary                   
+  OQ-F                                 
+  Kompendium                           
+  Pflicht-Checks                       
+  POV-Konsistenz-Test                  
+  Block-4-Anker-Test                   
+  Lesersteuerung-Test                  
+  Klischee-Verbot                      
+  Meta-Anker                           
+  dreizehn Stimmen                     
+
+## needs_judgement (107) — NEAR a known surface — one term or two?
+  Anteile  /  Anteil                           near: each other
+  Alter  /  13 Alter                           near: each other
+  Alter  /  Spiegel-Alter                      near: each other
+  Alter  /  Alters                             near: each other
+  AEGIS-Stimme  /  AEGIS                       near: each other
+  AEGIS  /  Juna ↔ AEGIS                       near: each other
+  AEGIS  /  Wir-AEGIS-plural                   near: each other
+  AEGIS  /  AEGIS-Echo                         near: each other
+  AEGIS  /  AEGIS v{X.X}                       near: each other
+  AEGIS  /  AEGIS-System                       near: each other
+  Mnemosyne  /  Mnemosyne-Archipel             near: each other
+  Kernphobien  /  Phobien                      near: each other
+  Somatik  /  Somatik-Signatur                 near: each other
+  Somatik  /  Somatik-Lücken                   near: each other
+  Tertiäre Strukturelle Dissoziation der Persönlichkeit  /  Dissoziation near: each other
+  Amnesie-Terror  /  Amnesie                   near: each other
+  Sonder  /  Sonderkategorie                   near: each other
+  Spiegel  /  Spiegel-Alter                    near: each other
+  Spiegel  /  Spiegel-Konflikt                 near: each other
+  Spiegel  /  Spiegel-Coheron                  near: each other
+  Spiegel  /  Spiegel-Erason                   near: each other
+  Kael (Host)  /  Kael                         near: each other
+  Kael (Host)  /  Host                         near: each other
+  Kael  /  System Kael                         near: each other
+  Host  /  ANP-Host                            near: each other
+  Silas  /  Silas-Wärme                        near: each other
+  Silas  /  Silas-Halbsatz                     near: each other
+  Oblivion  /  Oblivion-Kapitel                near: each other
+  Juna  /  Juna ↔ AEGIS                        near: each other
+  Juna  /  Juna-Echo                           near: each other
+  Juna  /  JUNA\_VEKTOR                        near: each other
+  Juna  /  Juna-POV                            near: each other
+  Coheron  /  Coheron-Spur                     near: each other
+  Coheron  /  Coheron-Echo                     near: each other
+  Coheron  /  Spiegel-Coheron                  near: each other
+  Erason  /  Erason-Operator                   near: each other
+  Erason  /  Spiegel-Erason                    near: each other
+  Basisrealität Köln  /  Basisrealität         near: each other
+  Basisrealität Köln  /  Köln                  near: each other
+  Fragmentierungsnacht  /  Fragment            near: each other
+  Fragmentierungsnacht  /  Fragmentierung      near: each other
+  Fusion  /  Final Fusion                      near: each other
+  Index  /  PARADOX\_INDEX                     near: each other
+  Echo  /  Juna-Echo                           near: each other
+  Echo  /  Coheron-Echo                        near: each other
+  Echo  /  Echo-Prosa                          near: each other
+  Echo  /  AEGIS-Echo                          near: each other
+  Echo  /  Polyphonie-Choreografie             near: each other
+  Limina  /  Mina                              near: each other
+  Mina  /  K₁-Dominanz                         near: each other
+  Komponente 734  /  Komponente                near: each other
+  Signature  /  Signatur                       near: each other
+  Be-er-Modus  /  Be-er                        near: each other
+  Fragment  /  Fragmentierung                  near: each other
+  Gödel  /  Gödel-Gambit                       near: each other
+  Fußnoten-Energie  /  Energie                 near: each other
+  Pronomen-Signatur  /  Signatur               near: each other
+  Stilebene-3-Anflug  /  Stilebene 3           near: each other
+  Fight  /  Fight-via-Control                  near: each other
+  Freeze  /  Big Freeze                        near: each other
+  Erasure  /  Erasure-Versuche                 near: each other
+  Erasure  /  Erasure-Pol                      near: each other
+  Quantensuperposition  /  Superposition       near: each other
+  Gravitativ  /  Temporal/gravitativ           near: each other
+  Polyphonie-Choreografie  /  Polyphonie       near: each other
+  Polyphonie  /  Polyphonie-Progression        near: each other
+  Syntax-Signatur  /  Signatur                 near: each other
+  Somatik-Signatur  /  Signatur                near: each other
+  Vokabular-Signatur  /  Signatur              near: each other
+  Modi  /  Erscheinungsmodi                    near: each other
+  Landauer-Signatur  /  Signatur               near: each other
+  Alter                                        near: alters→alters
+  AEGIS-Stimme                                 near: aegis→aegis
+  Kael (Host)                                  near: kael→kael
+  Juna ↔ AEGIS                                 near: aegis→aegis, juna→juna
+  Wir-AEGIS-plural                             near: aegis→aegis
+  Multiplizitäts-Schleier                      near: multiplizitat→multiplizitaet
+  Fragment                                     near: psychischefragmentierung→did
+  Fragmentierung                               near: psychischefragmentierung→did
+  Genesis-Sequenz                              near: genesis→genesis
+  Coheron-Spur                                 near: coheron→coheron
+  Kollaps                                      near: kollapskernel→kollaps-kernel, kollapskernelk0→kollaps-kernel
+  Depersonalisierung                           near: persona→personas
+  System Kael                                  near: kael→kael
+  Juna-Echo                                    near: juna→juna
+  Coheron-Echo                                 near: coheron→coheron
+  Atemporal                                    near: atemporalitaet→atemporalitaet, atemporalitat→atemporalitaet
+  Silas-Wärme                                  near: silas→silas
+  AEGIS-Echo                                   near: aegis→aegis
+  Erason-Operator                              near: erason→erason
+  Oblivion-Kapitel                             near: oblivion→oblivion
+  Genesis-Krise                                near: genesis→genesis
+  Spiegel-Coheron                              near: coheron→coheron
+  Spiegel-Erason                               near: erason→erason
+  Welt-Risse                                   near: risse→risse
+  thermische Risse                             near: risse→risse
+  Wasser-Risse                                 near: risse→risse
+  paranoide Risse                              near: risse→risse
+  generative Risse                             near: risse→risse
+  AEGIS v{X.X}                                 near: aegis→aegis
+  JUNA\_VEKTOR                                 near: juna→juna
+  Mnemosyne-Archipel                           near: mnemosyne→mnemosyne
+  AEGIS-System                                 near: aegis→aegis
+  Juna-POV                                     near: juna→juna
+  Signatur                                     near: entropiesignatur→entropie-signatur, landauersignatur→landauer-signatur
+  Silas-Halbsatz                               near: silas→silas
+  Genesis-Beat-Anzahl                          near: genesis→genesis
+
+## in_document_not_in_census (1) — a page's surface stands alone in the text and no candidate matches it: a reading, or an occurrence? Record the call in Plan/runs/sweep.jsonl
+  Risse                                risse                        L890
+

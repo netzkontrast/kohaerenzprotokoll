@@ -83,7 +83,5 @@ means „Liebe als Coheron; Korrelat-Achse" ^[kohaerenz-protokoll-welt-sensorik-
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**The atemporal pole of the Korrelat-Achse**: „Korrelat-Achse (vertikal): Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77]
-[[silas|Silas]]' correlate: „Coheron-Echo. Atemporal → Tunneling." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] His riss is the „Spiegel-Coheron" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L881],
-relational and warm. [[juna|Juna]]'s trace is „Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042], and [[nyx|Nyx]]'s chest heat is
-marked as not that (L395).
+One pole of the Korrelat-Achse: „Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77]
+Silas' DKT correlate is „Coheron-Echo." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699]; his Riss mode is „Spiegel-Coheron" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L881].

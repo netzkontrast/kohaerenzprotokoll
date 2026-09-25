@@ -3,7 +3,7 @@ term: Risse
 status: candidate
 sources: 14
 readings: 14
-conflict: C11, C15
+conflict: none yet
 ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
@@ -211,14 +211,6 @@ A composition rule: „Ein Riss-Typ pro Szene." ^[kohaerenz-protokoll-welt-senso
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**A riss type for every [[alters|Alter]]**, in the profile's fifth field: „Riss-Typ — Welche Form von Realitätsbruch erzeugt er, wenn er flutet?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L29]
-From [[kael|Kael]]'s „Horizont-Erosion" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L121] to [[argus|Argus]]' „Zeno-Effekt" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L647].
-
-The mandates (§7): „Wenn ein Alter flutet, verändert sich nicht nur die Stimme, sondern die Welt des Texts." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L869]
-Seven modes, the character bible's table — Flight to „Kiko (zweite Funktion), Lia" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L878] (conflict C15) — and
-the two mirrors, relational and warm for [[silas|Silas]], temporal and gravitational for [[oblivion|Oblivion]] (L881–L882).
-World rifts, „Akt-spezifisch, nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886]: thermal from KW1 to KW2, water in KW2, paranoid in KW3,
-generative in KW4 (L890–L893).
-
-[[lia|Lia]]'s riss is „Relational-Drift" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L492] in her profile and spatial Flight in the table; the ANPs and
-[[argus|Argus]] have riss types in their profiles and no mandate.
+Each Alter has a Riss type (§7): „Wenn ein Alter flutet, verändert sich nicht nur die Stimme, sondern die Welt des Texts." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L869]
+Beside them, „Plus Welt-Risse (Akt-spezifisch, nicht alter-getrieben):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886] KW1 → KW2 thermal,
+„KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890] Found by the sweep (decision 012).

@@ -45,10 +45,10 @@ and spatial (rows 1 and 7). And in the two sources that profile Lia, her own ris
 is neither: „Relational-Drift — Beziehungen verschieben sich, ohne dass jemand sich bewegt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L492]
 — in the character bible's words (its L622).
 
-**Found while reconciling `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`.** Rows 1 to 4 and
-row 6 were already readings on [[risse]], [[kiko]], [[lia]] and [[isabelle]], each attributed;
-row 5 stood in the glossary line [[risse]] cites for something else; no record held
-the disagreement.
+**Found by a second reading of `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`** (pull request #88).
+Rows 1 to 4, 6 and 7 were already readings on [[risse]], [[kiko]], [[lia]] and
+[[isabelle]], each attributed; row 5 stood in the glossary line [[risse]] cites
+for something else; no record held the disagreement.
 
 ## The author: every draft is back in question
 

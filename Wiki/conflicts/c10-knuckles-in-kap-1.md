@@ -93,7 +93,6 @@ storyform document and the glossary, with the same named source.
 
 ## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**The character bible's trait, with the lock written into it.** In the Host's somatics:
-„Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] — „Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125].
-The trait is row 1's source's and the strukturierter Outline's; the chapter is row 2's.
-The knuckles are not among its foreshadowing anchors (L1042–L1063).
+**Kap 0 only — in the Host's profile.** „Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125], „er weiß nicht, warum" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125],
+„Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125]. The profile trait of the
+strukturierter Outline and the Kap-0 lock of the Kompendium, in one line.

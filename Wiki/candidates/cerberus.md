@@ -119,5 +119,4 @@ Guardian. Its dominant logic is „die Erasure-Pol-Logik" ^[kohaerenz-protokoll-
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-Named once, as a function absorbed with [[logos|LogOS]]' and [[kairos|Kairos]]': „Löschungs-Exekutive. Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016]
-— into the Erasure-Pol, „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1014]. C6, Q5.
+Absorbed: „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016] — in the Erasure-Pol (Q5).

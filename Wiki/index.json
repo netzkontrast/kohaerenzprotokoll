@@ -70,7 +70,7 @@
       ],
       "sources": 15,
       "readings": 16,
-      "conflict": "C1, C8, C14"
+      "conflict": "C1, C8"
     },
     "alex": {
       "title": "Alex",
@@ -232,11 +232,10 @@
       ],
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "guardians-und-kern-welten-konzept",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "guardians-und-kern-welten-konzept"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 2,
+      "readings": 2,
       "conflict": "C4"
     },
     "cache-kohaerenz": {
@@ -642,7 +641,7 @@
       ],
       "sources": 8,
       "readings": 8,
-      "conflict": "C15"
+      "conflict": "none"
     },
     "juna": {
       "title": "Juna",
@@ -831,7 +830,7 @@
       ],
       "sources": 8,
       "readings": 8,
-      "conflict": "C15"
+      "conflict": "none"
     },
     "kohaerenz-kernel": {
       "title": "Kohärenz-Kernel (K₁)",
@@ -876,11 +875,10 @@
         "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
         "entropie-aegis",
         "aegis-emergenz-aus-der-leere",
-        "guardians-und-kern-welten-konzept",
-        "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"
+        "guardians-und-kern-welten-konzept"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -978,7 +976,7 @@
       ],
       "sources": 8,
       "readings": 8,
-      "conflict": "C15"
+      "conflict": "none"
     },
     "logos": {
       "title": "LogOS",
@@ -1427,7 +1425,7 @@
       ],
       "sources": 14,
       "readings": 14,
-      "conflict": "C11, C15"
+      "conflict": "none yet"
     },
     "rsa": {
       "title": "RSA — Rekursive semantische Autogenese",

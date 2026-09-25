@@ -237,14 +237,8 @@ The document's last line: „Juna ist nicht in der Welt. Juna ist die Bewegung, 
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**Not a part of the system, and not a voice.** „Juna ist kein Anteil im System Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024]
-„Sie ist keine Stimme im klassischen Sinn — sie ist eine strukturelle Position, deren Wirkung im Text erscheint." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024]
-„Grammatik-Regel: nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024]
-
-**Her modes, locked 2026-05-30, end in Kap 38**: „Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]
-Conflict C7. „Anker: Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029]
-Her POV is open, `[L]`: „falls eingesetzt, mit Compassion Fatigue + ängstlicher Bindungsstil + temporär unzuverlässige Erzählerin." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1030]
-
-Two [[alters|Alters]] are said not to be her: [[selene|Selene]] — „Selene ist im System, Juna ist außerhalb." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365] —
-and [[silas|Silas]], her echo (L735). Her trace: „Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042]. In [[aegis|AEGIS]]' log her
-vector has three permitted entries: not representable, an axiom violation, or null (L976).
+„Juna ist kein Anteil im System Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024] „Grammatik-Regel: nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024] Her modes, locked
+2026-05-30: „Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028] (C7).
+Anchors: „Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029] Heat as her trace:
+„Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] (C11). Inside the system her echo is Silas; on the Korrelat-Achse,
+„Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77].

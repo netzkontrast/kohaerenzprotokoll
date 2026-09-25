@@ -169,5 +169,4 @@ sub-location table lists a `Möglichkeits-Garten` inside it:
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-One sentence, with a parenthesis: „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
-Whether `(KW4)` names the garden or where it lies, the sentence does not say — C5.
+Where Selene waits: „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]

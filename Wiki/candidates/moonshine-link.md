@@ -82,7 +82,6 @@ welcher Reichweite" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.m
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-[[silas|Silas]] is its body inside the system: „Resonanzkörper des Moonshine-Links innerhalb des Systems Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687]
-In Akt III he „Entscheidet sich, den Moonshine-Link vollständig zu öffnen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731]
-OQ-F: „Wer kann den Link spüren, wann, mit welcher räumlichen Reichweite?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1077]
+Silas is its „Resonanzkörper des Moonshine-Links innerhalb des Systems Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687] In Akt III he
+„Entscheidet sich, den Moonshine-Link vollständig zu öffnen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] The boundary is OQ-F:
 „Vorschlag: Silas zuerst, andere Alter im Verlauf von Akt II; räumlich global, phänomenal nur an Knotenpunkten." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1077]

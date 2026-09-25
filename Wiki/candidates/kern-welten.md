@@ -324,8 +324,5 @@ KW3 „Späte Akt II (Kap 23–28)." ^[kohaerenz-protokoll-welt-sensorik-draftin
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**Where the first trauma layer becomes readable, and rifts by act.** [[kiko|Kiko]], [[lia|Lia]], [[isabelle|Isabelle]] and
-[[moros|Moros]] „sind in Akt I aktiv (als Hintergrund-Druck), werden in KW2/KW3 (Akt II) erst voll lesbar." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85]
-The world rifts are „Akt-spezifisch, nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886]: KW1 → KW2 thermal, KW2 water, KW3 paranoid,
-KW4 generative (L890–L893). [[selene|Selene]] waits in KW4 (L361); the climax is set in KW2's archipelago:
-„Setting des Klimax: der Mnemosyne-Archipel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] No world is given an Alter or a Guardian (Q3).
+The first layer's Alters „werden in KW2/KW3 (Akt II) erst voll lesbar." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] Selene waits in KW4 (L361). The
+world Risse are per act, „nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886] — no world belongs to an Alter (Q3).

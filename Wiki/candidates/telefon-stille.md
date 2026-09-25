@@ -68,6 +68,5 @@ The anchor tracker: first explicit at Kap 7, at Kap 39 „eingelöst. Telefon-St
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-One of [[juna|Juna]]'s two anchors: „Anker: Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029]
-A check before any Alter is written: „Block-4-Anker-Test (Telefon-Stille): Trägt die Szene den Anker oder bricht sie ihn?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1094]
-On the first foreshadowing level „Stille (Telefon-Anker)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042]; on the third, „Telefon-Stille als Ruheanker bis Vortex." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1063]
+Juna's anchor: „Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029] A check before any Alter scene:
+„Block-4-Anker-Test (Telefon-Stille):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1094] „Trägt die Szene den Anker oder bricht sie ihn?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1094]

@@ -210,17 +210,8 @@ A reset lock: „Hauptfigur ist Kael" ^[kohaerenz-protokoll-welt-sensorik-drafti
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**The Host, and one of the thirteen**, in the second trauma layer (L86).
-„Innerhalb der Simulation: Komponente 734, Archivar Klasse II, Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]
-— the character bible's address ([[kaels-wohneinheit]]).
-
-**The knuckles: the character bible's trait, with the lock written into it.** „Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125]
-— „Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125]. Conflict C10.
-
-„1. Person, Präsens dominiert (Lock)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L133] A self-command in [[aegis|AEGIS]]' register is the
-„frühester, unbenannter Hinweis auf System-Verstrickung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L140]. Arc: „Resolve = Change (adoptiert Pursuit am Klimax Kap 35)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149]
-„Be-er-Modus: löst nicht durch externe Handlung, sondern durch internen Zustandswechsel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149]
-
-„Kael darf in Akt I nicht wissen, dass er ein System ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157] „Kael darf Juna spüren, ohne sie zu erkennen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L159]
-„Spätestens ab Kap 1: Phantom-Resonanz, ein Wort ohne Referent." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L159]
-„Kael flieht vor allen EPs gleichermaßen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L813] „Kael spürt Oblivion nie direkt — nur die Lücken, die Oblivion hinterlässt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L145]
+The Host, profiled as one of thirteen: „Komponente 734, Archivar Klasse II, Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]
+„Hubble-Volumen / Big Rip." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L117] His Riss: „Horizont-Erosion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L121] His knuckles, „Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] —
+„Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] (C10). His arc:
+„Resolve = Change (adoptiert Pursuit am Klimax Kap 35)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] „Be-er-Modus:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] — Storyform A's main character.
+„Kael darf in Akt I nicht wissen, dass er ein System ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157]

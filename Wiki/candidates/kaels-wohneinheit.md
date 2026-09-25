@@ -95,5 +95,4 @@ Its chapter anchor carries the Kap-1 console line — „Kap 1 (einmal als Konso
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-The character bible's address, in its words: „Innerhalb der Simulation: Komponente 734, Archivar Klasse II, Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]
-One term with the other numbers (J50).
+As „Wohneinheit 734-K" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105] (J58), with two more numbers in one line: „Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]

@@ -155,6 +155,7 @@ L404–L410), and each world has its own (§3.2, L417–L421). No world belongs 
 
 ## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**Thirteen, and worlds that answer to layers and acts.** „Vollständige Liste aller 13 Alter (plus AEGIS-Stimme + Mnemosyne)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L13].
-The first trauma layer's four „werden in KW2/KW3 (Akt II) erst voll lesbar." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] The world rifts are
-„Akt-spezifisch, nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886]. [[selene|Selene]] waits in KW4 (L361). Not one world per Alter.
+**Thirteen, named; none belongs to a world.** Five ANPs, five EPs, [[argus|Argus]], two mirrors (L53–L56), and fifteen names
+excluded (L95). The worlds appear as act settings — the first layer's Alters „werden in KW2/KW3 (Akt II) erst voll lesbar." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85]
+— and the world Risse are „nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886]. Selene waits in KW4 (L361), which is where she is, not
+whose world it is.

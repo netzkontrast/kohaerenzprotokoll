@@ -1179,3 +1179,31 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L1185 is a lock row „13 Alter" whose content is „exakter Roster (siehe Anteile-Profil)"
 
 **Result.** one term — the numeral counts the Alters; a reading for Q3
+
+## J85 — Atemporal / Atemporalität
+
+**one-term** · kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** an adjective the document uses as the label of a property the wiki has a noun page for is a surface of that noun, when the passage predicates the same property
+- **mechanised by:** `nothing`
+- **features:** adjective-of-noun, axis-label
+
+**Question.** one term or two?
+
+**What was done.** L77 labels one pole of the Korrelat-Achse „Atemporal/Coheron (Silas ↔ Juna)", and L699 writes of Silas „Atemporal → Tunneling", „deren Existenz zeitfrei ist"; the page's Atemporalität is the property of existing outside time
+
+**Result.** one term — the adjective names the same property of the same bearers; a reading on the page
+
+## J86 — Juna ↔ AEGIS / AEGIS
+
+**two-terms** · kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** an arrow between two names states a relation, never an alias — unlike a slash between two names the wiki has (J34, J43)
+- **mechanised by:** `nothing`
+- **features:** joined-form, relation-arrow
+
+**Question.** one term or two?
+
+**What was done.** L56 describes the mirror Alters as „Internalisierte Außenkräfte (Juna ↔ AEGIS) im System": the arrow sets the two outside forces against each other
+
+**Result.** two terms — the joined form names a relation between two pages, and is an alias of neither; each name keeps its own page

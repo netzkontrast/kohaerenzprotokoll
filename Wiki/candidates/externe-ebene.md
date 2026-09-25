@@ -136,6 +136,6 @@ Two sources describe Köln 2026 as beyond the simulation; four sources say it is
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-Named once, as `Basisrealität`, for where the first trauma layer lies: „Schicht 1 (Bindungstrauma Basisrealität Köln)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85].
-[[kael|Kael]]'s role is given „Innerhalb der Simulation" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]; where Köln lies relative to it the document
-does not say. C13: the name of the two sources that place it beyond, without their position.
+As the ground of the first trauma layer (J54): „Schicht 1 (Bindungstrauma Basisrealität Köln):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] Kiko, Lia,
+[[isabelle|Isabelle]], [[moros|Moros]]. It writes `Basisrealität` and does not place Köln inside or outside the
+simulation, so it takes no side in C13.

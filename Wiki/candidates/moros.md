@@ -58,10 +58,5 @@ Sprach-DNA: „Moros ist nicht depressiv" ^[kohaerenz-protokoll-welt-sensorik-dr
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-First trauma layer (L85). „Nicht Tod als Wunsch — Tod als Erschöpfung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L582]
-„Moros ist der Zustand, vor dem alle anderen Phobie haben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L586]
-Correlate „Big Freeze. Universum-Hitzetod." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L590]; riss gravitational (L594).
-„Moros ist nicht depressiv im klinischen Sinne. Er ist katatonisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L621]
-„Wenn Moros lange genug präsent ist, schreibt der Roman selbst langsamer." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L621]
-Only [[selene|Selene]] bears him without fighting (L613); [[rhys|Rhys]] tries to rescue him and fails,
-„zentrale Akt-II-Szene" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L613].
+„Moros (Kollaps) — Schicht 1" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L576]. DKT correlate: „Big Freeze. Universum-Hitzetod." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L590] Riss: „Gravitativ — Schwere, Sinken, Kompression" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L594].
+„Moros ist der Zustand, vor dem alle anderen Phobie haben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L586] Anchor: „Moros ist nicht depressiv im klinischen Sinne." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L621]

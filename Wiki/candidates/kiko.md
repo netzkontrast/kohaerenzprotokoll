@@ -3,7 +3,7 @@ term: Kiko
 status: candidate
 sources: 8
 readings: 8
-conflict: C15
+conflict: none
 ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
@@ -58,12 +58,5 @@ Riss (Freeze) and, with Lia, the spatial one (Flight) ^[kohaerenz-protokoll-welt
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Trägt den reinen Terror der frühen Vernachlässigung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L425] First trauma layer (L85).
-
-**Two riss types.** „Temporal-Stutter — Zeit stockt, Echo, Déjà-vu, Sekunden, die kleiner sind als ihre Definition." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L441]
-„Zweite Funktion: Flight (mit Lia geteilt) — spatial." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L441] The mandate table gives Flight to
-„Kiko (zweite Funktion), Lia" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L878] — the character bible's pair; the konsolidiertes Konzept and three
-sources of this date pair [[lia|Lia]] with [[isabelle|Isabelle]]. Conflict C15.
-
-„Hauptziel von AEGIS' Erasure-Versuchen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L460]
-„Ihre Sätze sind nicht süß — sie sind verstümmelt durch Angst." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L468]
+„Kiko (Freeze / Kind) — Schicht 1" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L423]. DKT correlate: „Planck-Skala." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L437] Riss: „Temporal-Stutter" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L441], and a second
+function, Flight, shared with Lia. „Hauptziel von AEGIS' Erasure-Versuchen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L460] Anchor: „Kiko ist nicht „niedlich"." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L468]

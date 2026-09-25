@@ -700,53 +700,20 @@ A drafting manual of 1503 lines, read in one pass by the session; 542 candidates
   that meets an open conflict inside one source records both lines and the
   tension, not a side (C11, J81).
 
-## Document 16, read twice — two full readings of one document, 2026-09-25
-
-Two sessions read document 16 on the same day, neither knowing of the other. One
-list is the committed `03-candidates.md`, written under decision 012's selective
-rule; the other, written before that rule reached its branch, is kept as
-`03-candidates-blind-1.md`. `python3 scripts/agree.py` on the pair: **1072
-candidates against 539, F1 0.63; the longer list holds 94 % of the committed one,
-which holds 47 % of it.** The same shape as the blind re-readings of 2026-09-24,
-at full scale and without a workflow: two readers see nearly the same things and
-differ in how much they write down. The second reading also found a conflict the
-first did not (C13), which main took — so a second full reading is worth more in
-its reconciliation than in its list.
-
 ## Document 17 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-09-25
 
-A catalogue of 1130 lines: thirteen profiles on one template, then tables.
-**863 candidates written while reading, 851 counted** — `capture.py` read twelve
-as prose, each holding `, ` or `. ` — about 77 per 100 body lines, an exhaustive
-list in the pre-decision-012 sense. `gold.py` rules it gold; 96.2 % of its terms
-occur in the document. The sweep found one surface it lacked, the world rifts on
-`risse`, which its reading covered.
+The first document read under decision 012's list rule: 336 candidates in 1130
+lines, against 542 in 1503 for document 16 read without it.
 
-- **The count found 32 zeros and none was an absence.** Ten are the reader's
-  nominative for a declined form (`frühe Vernachlässigung` for „der frühen
-  Vernachlässigung"), one is capitalised in the text. Eleven are escaped — two
-  file names, three labels (`\[K\]`), six field names of the log format
-  (`JUNA\_VEKTOR`). Six are the reader's expansions of a **suspended compound**:
-  „Funktions-, Phobie-, DKT-, Somatik-, Sprach- und Beziehungs-Profil" writes only
-  the last whole, and `Schicht-1- oder Schicht-2-Material` only the second. Three
-  stand only with emphasis inside them — `*funktional* wütend`,
-  `Kontrolle *über* Intimität`, `die Amnesie *von innen*` — because
-  `capture.py --count` reads the marked line where `quotes.py` and the sweep read
-  it unmarked. And `Kap 10` stands only as the 10 of „(Kap 2, 10, 25)". Thirteen
-  more stand only inside compounds or inflected — `Cerberus`, `LogOS` and
-  `Kairos` only in „Cerberus-/LogOS-/Kairos-Funktionen".
-- **A document that names its quarry is reconciled as a difference.** It says its
-  source is the character bible, „gefiltert auf" the 2026-05-30 iterations, and
-  most of its profiles repeat the bible's words. The findings were where it
-  departs: it keeps the bible's Flight pair against three sources of its own date
-  (C15), gives AEGIS the third person against the lock it says it is filtered on
-  (C14), writes the lock into the bible's knuckles (C10), and takes the
-  konsolidiertes Konzept's absorption of LogOS rather than the bible's (Q5). The
-  census stays blind to the bible; the comparison belongs to reconciliation,
-  where it was made.
-- **Four questions the briefing did not carry**, now in `Plan/briefings/extract.md`
-  (version 7): suspended compounds and emphasis inside a phrase from this
-  document, and — from the second reading of document 16 — a conflict a document
-  reports among its own sources, and one word numbering several series (`Ebene`
-  for levels, style levels and the three levels of show-don't-tell).
-
+- **The sweep found one reading the list had missed, and it was a surface choice.**
+  The list had `Welt-Risse` and every kind of Riss, never bare `Risse`, and the
+  page's surface is `Risse`. Decision 012 predicted this shape: a reader lists the
+  compound the document writes, and the wiki's page is named for the head.
+- **The count's zeros were export escaping again**: five log-field names
+  (`SYSTEM\_KAEL` …) written without the backslashes the file carries. No name from
+  another document this time — the briefing question added after document 16 was
+  asked while reading.
+- **A repeated label that is a field name is not a term.** The profile measures
+  `Syntax` ×11, `Vokabular` ×11, `Energie` ×8: the fields of one template, filled
+  once per Alter. The list keeps the ten profile fields once each, as the
+  document's own terms, and of the sub-labels only `Energie`.

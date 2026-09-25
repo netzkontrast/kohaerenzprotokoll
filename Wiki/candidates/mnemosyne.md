@@ -164,14 +164,6 @@ She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-draft
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„3. Person personal, flüssig-poetisch (eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996]
-„Verwaltet die Datenströme der Erinnerung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] „Setting des Klimax: der Mnemosyne-Archipel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000]
-
-**Her tragedy is a lack.** „Sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
-„Sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
-„Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
-
-„Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1012] — an instance in
-the AEGIS system (Q1). With [[oblivion|Oblivion]]: „Mnemosyne verwaltet, Oblivion löscht — funktionell verwandt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1008]
-Her offer to erase [[kael|Kael]]'s pain, which the drafting manual makes her centre, does not occur here;
-nor does the word antagonist.
+„Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L994]: „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996] (C6).
+„Verwaltet die Datenströme der Erinnerung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] „Setting des Klimax:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] the Mnemosyne-Archipel (L1000).
+„Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004] „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778].

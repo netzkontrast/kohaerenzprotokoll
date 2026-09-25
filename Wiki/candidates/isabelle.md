@@ -3,7 +3,7 @@ term: Isabelle
 status: candidate
 sources: 8
 readings: 8
-conflict: C15
+conflict: none
 ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
@@ -59,11 +59,5 @@ In KW2 „spatiale Risse (Lia/Isabelle-Trigger)" ^[kohaerenz-protokoll-welt-sens
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-First trauma layer (L85). „Proaktive toxische Kontrolle. Sexualisierung als Waffe gegen Ohnmacht." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L527]
-
-**One riss, sensory, and no Flight**: „Sensorisch — Texturen verschmelzen, Synästhesie, Haut-Hyperreaktivität." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L543]
-The mandate table gives Flight to [[kiko|Kiko]] and [[lia|Lia]] (L878). Conflict C15.
-Her somatics stand in the profile without a label (L547) and count as a proposal in §11 (L1074).
-
-„Isabelle versteht Macht-Topologie besser als jede andere Alter" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L562] — usable and dangerous for [[aegis|AEGIS]].
-„Ihr Heilungsweg führt durch sie selbst — sie muss erkennen, dass Vulnerabilität auch eine Form von Macht ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L570]
+„Isabelle (Sexualisiert / Fight-via-Control) — Schicht 1" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L525]. DKT correlate: „Pauli-Ausschluss." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L539] Riss:
+„Sensorisch — Texturen verschmelzen, Synästhesie, Haut-Hyperreaktivität." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L543] Anchor: „Isabelle wird nicht gerettet" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L570].

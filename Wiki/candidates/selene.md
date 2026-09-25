@@ -58,14 +58,7 @@ her arc.
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Einzige Alter, die den Bauplan der Zeit vor beiden Trauma-Schichten trägt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L322] Across both layers (L87).
-
-**Where she waits**: „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
-„Selene drängt nie. Wenn sie auftaucht, ist es spät." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365]
-
-**Not [[juna|Juna]]**: „Selene ist auch nicht Juna, obwohl beide einen ruhigen, präsenten Ton haben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365]
-„Selene ist im System, Juna ist außerhalb." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365] Alone among the ANPs her voice carries
-„eine Vorahnung des Akt-III-Tons (Junas Stilebene 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L353].
-
-„Selene ist die größte Bedrohung für AEGIS" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357]; the only one who bears [[moros|Moros]] without
-fighting (L357). Arc as in the character bible: „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361] (Q4)
+„Selene (Integrator / ISH)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L320]: „Einzige Alter, die den Bauplan der Zeit" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L322] before both trauma layers carries it (L322).
+DKT correlate: „Wormholes + Entanglement Islands." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L334] Arc: „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
+„Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361] For AEGIS she is „die größte Bedrohung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357].
+„Selene ist auch nicht Juna" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365].

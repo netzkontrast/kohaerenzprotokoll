@@ -191,5 +191,5 @@ is not used on its own; the registry's entries are the two [[guardians|Guardians
 
 ## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**The word once, in [[selene|Selene]]'s arc** — the character bible's: „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
-[[mnemosyne|Mnemosyne]]'s heading is „Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L994]. J20 holds.
+**Two more bearers.** Selene's arc: „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361] — the feminine, for an
+Alter. Mnemosyne is titled „Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L994], a Hüterin, not a Wächterin.

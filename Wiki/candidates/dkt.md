@@ -28,9 +28,6 @@ glossary calls „PAL" (L31, L61).
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**Every [[alters|Alter]] has a correlate in the world's physics.** The profile's fourth field:
-„DKT-Korrelat — Welche physikalische Mechanik der Romanwelt entspricht ihm?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L28]
-Thirteen answers. Two are in the DKT's own vocabulary — [[silas|Silas]]' „Coheron-Echo" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] and
-[[oblivion|Oblivion]]'s „Erason-Operator" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755] — and eleven come from physics at large, from
-[[kael|Kael]]'s „Hubble-Volumen / Big Rip" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L117] to [[moros|Moros]]' „Big Freeze. Universum-Hitzetod." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L590]
-[[aegis|AEGIS]]' style admits „DKT-Statuszeilen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L948].
+Every profile has a „DKT-Korrelat — Welche physikalische Mechanik der Romanwelt entspricht ihm?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L28] Thirteen correlates, one per
+Alter: from Kael's „Hubble-Volumen / Big Rip." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L117] to Oblivion's „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755] AEGIS may use
+„DKT-Statuszeilen erlaubt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L948]

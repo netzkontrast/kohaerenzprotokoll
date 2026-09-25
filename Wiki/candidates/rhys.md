@@ -44,14 +44,6 @@ Function „Bindung, Fürsorge, soziale Harmonie" ^[koharenz-protokoll-strukturi
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Versucht verzweifelt, die von AEGIS zerschnittenen Verbindungen zusammenzuhalten." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L270] Second trauma layer (L86).
-„Rhys versucht, Information zu sortieren ohne Energiekosten — und scheitert thermodynamisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L282]
-
-**His riss is warmth.** „Wärme-Akkumulation, fiebrige Hände." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L286] „Wenn Rhys flutet, beginnt der Text zu schwitzen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L286]
-The same document calls [[silas|Silas]]' warmth the only diegetic warmth outside the Vortex spike (L703)
-and does not relate the two — [[hitze-polaritaetsregel]].
-
-Arc: „Anker in Akt I → Kudzu-Eskalation in Akt II → Akzeptanz in Akt III." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L310]
-„Rhys ist zunächst der einzige unproblematisch gute Anteil." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L310] With [[selene|Selene]], an
-alliance in his profile (L306) and the „Zentraler ANP-ANP-Konflikt des Buchs." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L822]; the arc puts the
-conflict in Akt II (L310). He tries to rescue [[moros|Moros]] and fails, „zentrale Szene Akt II" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L306].
+„Rhys (Caregiver)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L268]. DKT correlate: „Maxwellscher Dämon / Wärmesenke." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L282] Riss: „Wärme-Akkumulation, fiebrige Hände." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L286]
+Arc: „Kudzu-Eskalation in Akt II" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L310] — his care becomes smothering. The central ANP conflict is his with
+Selene: „Zentraler ANP-ANP-Konflikt des Buchs." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L822]

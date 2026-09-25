@@ -51,10 +51,6 @@ Function „konstruktive Selbst-Kritik, Meta-Beobachter" ^[koharenz-protokoll-st
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Sonderkategorie (weder ANP noch EP im engeren Sinn)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L631] Second trauma layer (L86).
-„Der einzige, der den Fehler in AEGIS' Algorithmus registriert hat — als Erster." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L631]
-„Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L667]
-His riss: „Wo Argus zu lange schaut, friert die Story ein." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L647]
-Somatics a proposal from the character bible, `[L]`: „Vor Verwendung verbindlich setzen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L651]
-In the margins, as an option: „Marginalien-/Fußnoten-Inszenierung als Option, nicht verbindlich." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1080]
-„Argus hat keinen Witz, sondern Schärfe." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L675]
+„Argus (Meta-Kognitiv)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L629], a special category, „weder ANP noch EP im engeren Sinn" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L631]. DKT correlate: „Fraktale." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L643]
+Riss: „Zeno-Effekt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L647] „Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L667]
+His somatics are `[L]`, a proposal from the character bible (L651).

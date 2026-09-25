@@ -43,6 +43,5 @@ Aktivität (Erasure-Sweeps, Erasure-Logs)." ^[kohaerenz-protokoll-begriffe-und-k
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-The temporal pole of the Korrelat-Achse, with [[oblivion|Oblivion]] and [[aegis|AEGIS]] (L77).
-[[oblivion|Oblivion]]'s correlate: „Erason-Operator. Die einzige Alter, die aktiv löscht." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]
-His riss is the „Spiegel-Erason" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L882]: „fehlende Zeit, abrupte Schnitte, Dinge fallen nach oben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L882].
+The other pole of the Korrelat-Achse: „Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77]
+Oblivion's DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755] „Die einzige Alter, die aktiv löscht." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]

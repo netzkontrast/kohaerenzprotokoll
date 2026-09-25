@@ -116,7 +116,4 @@ Only as a world assignment the document retires: „KW1=LogOS, KW4=Kairos/Sophia
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-Named once, as a function absorbed into the Erasure-Pol with [[cerberus|Cerberus]]' and [[kairos|Kairos]]':
-„Löschungs-Exekutive. Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016]
-The character bible, which this document names as its authority (L13), absorbs LogOS into [[mnemosyne|Mnemosyne]]
-instead — Q5. C6.
+Absorbed: „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016] — in the Erasure-Pol (Q5).

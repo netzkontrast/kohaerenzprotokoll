@@ -105,9 +105,8 @@ terms (J81); the strand's theme is recorded in C11.
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**Named twice: as ozone, and as the heat of an inner struggle.** The first foreshadowing level opens
-„Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042]. And when [[oblivion|Oblivion]] erases what
-[[silas|Silas]] has just received, „entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
-„Diese Hitze ist der somatische Fingerabdruck ihres Kampfes — und zugleich das Landauer-Signal, das der Leser (ohne es zu benennen) als Zeichen der Wahrheitsvertuschung zu lesen lernt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
-The world riss out of KW1 is thermal: „KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890]
-Nothing on Kap 6. Conflict C11.
+Three placements of heat in one document. In the foreshadowing layer, ozone is the signature:
+„Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042]. In the Silas–Oblivion conflict, heat is:
+„jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
+„Diese Hitze ist der somatische Fingerabdruck ihres Kampfes" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]. And Silas' warmth is
+„die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]. The document does not relate them (C11).

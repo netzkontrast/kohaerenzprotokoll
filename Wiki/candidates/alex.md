@@ -59,11 +59,6 @@ The document names his origin as open. The character bible's version — „Alex
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-**The character bible's side, stated directly, with a reservation on the same line.**
-„Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219] — „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein — offen, siehe §11." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219]
-§11 keeps it open beside the Genesis count: „also strenggenommen kann Alex in Kap 0 vor dem Trennungsprotokoll nicht aktiv präsent sein." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079]
-„Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] The Kap-0 annotation's side is still only reported (above).
-
-Second trauma layer (L86). „Wenn Alex flutet, wird die Welt zur Gefahrenkarte." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L235]
-„Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L262] Its examples are `Kopf runter` and
-`Bleib hinter mir`, never `Ich liebe dich` (L262). „Alex muss lernen, dass Schutz manchmal heißt, nicht zu schützen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L258]
+„Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219] — flagged in the same line: „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219]
+(C12). DKT correlate: „Asymptotische Freiheit (Starke Kernkraft)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L231] Riss: „Militärisch-räumlich, Bunker-Topologie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L235]
+Anchor: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L262]

@@ -61,10 +61,5 @@ A hard rule of the Sprach-DNA: „Lex flucht nie. Lex weint nie." ^[kohaerenz-pr
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Direktes Produkt des Trennungsprotokolls — AEGIS' Versuch, Trauma durch fehlerfreie Logik zu eliminieren." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]
-Second trauma layer (L86). „Lex ist die innere Inkarnation der formalen Unentscheidbarkeit." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L180]
-His riss: „Wenn Lex bricht, läuft sein Algorithmus in Rekursionen, die nicht terminieren." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L184]
-Somatics as the character bible gives them: „Hypoventilation, taktile Taubheit, Bradykardie, Kälte." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L188]
-The anchor whole: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211] „Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211]
-Maximal conflict with [[nyx|Nyx]] (L808). ↔ [[juna|Juna]]: „klassifiziert sie als Datenanomalie, versucht sie zu rationalisieren — scheitert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L203]
-Kap 1 forbids his mode: „Kein Lex-Modus. Kein Nyx-Imperativ. Keine Wir-Andeutung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L926]
+„Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168] DKT correlate: „Gödel + Halteproblem." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L180]. Riss: „Endlosschleifen, fraktale Selbst-Widerlegung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L184].
+Consistency anchor: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211]

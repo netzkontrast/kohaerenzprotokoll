@@ -115,9 +115,5 @@ Until Kap 13 the „Multiplizitäts-Schleier hält bis Kap 13." ^[kohaerenz-prot
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-„Funktionale Multiplizität, niemals Fusion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91] „Kein Alter wird eliminiert. Kein Alter wird zu einem Ich." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91]
-„Sie werden ein dynamisches Wir (Strange-Attractor-Form)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91]
-In Akt III the voices are a choir: „Aber das Wir ist Komposition, nicht Verschmelzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L915] —
-„Lex hört sich auch im Wir anders an als Nyx." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L915]
-Kap 13, „Multiplizitäts-Schleier fällt intern." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L930]; Kap 25–26, „Schleier ist offen benannt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L932]
-Its ethics: „kein Alter darf in einen anderen verschwimmen, kein Alter darf eliminiert werden, kein Alter darf zur Karikatur werden." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1129]
+„Funktionale Multiplizität, niemals Fusion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91] „Kein Alter wird eliminiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L91] The Wir is
+„Komposition, nicht Verschmelzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L915]. The veil: „Multiplizitäts-Schleier hält bis Kap 13." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157]
