@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: ["C6"]
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,16 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Genesis echo: „Genesis-Echo: proleptische Vorform der Wir-AEGIS-plural.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022]
 - Foreshadowing: „Kael nimmt schon AEGIS-Funktionen pluralisiert an“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1094]
 - Characters: „Silas als Coheron-Echo“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447] · „mit POV-Anteilen ab Kap 31 oder 32“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Crossing First Threshold — Angriff auf AEGIS" ^[three-mode-architecture-39-chapters-md.md:L336]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael (Wir, aktiv)" ^[three-mode-architecture-39-chapters-md.md:L336]
+- Storyform A: „MC-Concern Memory als Waffe" ^[three-mode-architecture-39-chapters-md.md:L336]
+- Storyform B: „OS-Physics: AEGIS' Verteidigung greift" ^[three-mode-architecture-39-chapters-md.md:L336]
+- Leitmotif: „Schwellen-Bruch, Eintritt" ^[three-mode-architecture-39-chapters-md.md:L336]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

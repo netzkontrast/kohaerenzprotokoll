@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,16 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Storyform: „A: MC-Concern. B: OS-Physics latent, AEGIS scannt diesen Zustand.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L984]
 - Sensorik: „Sensorik: Stille, Atem, Herzschlag.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L984]
 - Genesis echo: „Genesis-Echo: kleine Wieder-Berührung der K1-Reinform.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L984]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Stille der Mitte — Jetzt-Raum" ^[three-mode-architecture-39-chapters-md.md:L189]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael (gesammelt)" ^[three-mode-architecture-39-chapters-md.md:L189]
+- Storyform A: „MC-Concern: Präsenz als Stabilität" ^[three-mode-architecture-39-chapters-md.md:L189]
+- Storyform B: „OS-Physics latent: AEGIS scannt diesen Zustand" ^[three-mode-architecture-39-chapters-md.md:L189]
+- Leitmotif: „Stille, Atem, Herzschlag" ^[three-mode-architecture-39-chapters-md.md:L189]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

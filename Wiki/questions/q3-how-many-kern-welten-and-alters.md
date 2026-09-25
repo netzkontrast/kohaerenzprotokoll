@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-17"
 ---
 
@@ -189,3 +189,9 @@ The echoes of Kap 0 are the Wir's voices in Kap 40: „In Kap 40 sind diese Echo
 „Der Leser darf nicht in "13-Personen-Lesart" versetzt werden." ^[kap0-v1-annotiert-md.md:L51]
 The voices of Kap 0, in the writer's order: „Die Choreographie der Vor-Stimmen (Moros → Kiko → Lia → Rhys → Lex → Alex → Argus → Nyx → Selene → Silas → Oblivion)" ^[kap0-v1-annotiert-md.md:L1101] — eleven, and the writer doubts Alex (L1205).
 No Kern-Welt is named; an annotation calls the [[ueberwelt|Überwelt]] „Überwelt = Kernwelten-Substrat" ^[kap0-v1-annotiert-md.md:L457].
+
+## 2026-09-25 — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+**Thirteen by storyform, and no world counted.**
+„ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135], the two „Spiegel-Alters (Silas = Coheron-Echo, Oblivion = Erason-Operator)" ^[three-mode-architecture-39-chapters-md.md:L137] and Argus (L138): thirteen with Kael.
+Worlds only as „Kernwelt (B-Welt)" ^[three-mode-architecture-39-chapters-md.md:L245] and „KW2-KW3-Phase" ^[three-mode-architecture-39-chapters-md.md:L151]; no world is an alter's.

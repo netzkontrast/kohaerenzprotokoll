@@ -1,9 +1,9 @@
 ---
 chapter: 32
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
-records: []
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+records: ["Q1"]
 gathered: "2026-09-25"
 ---
 
@@ -45,6 +45,16 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Storyform: „A: MC-Issue, Wahrheits-Test. B: OS-Physics, kybernetische Manöver.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1024]
 - Sensorik: „Sensorik: logische Labyrinthe, Echo-Räume.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1024]
 - Characters: „mit POV-Anteilen ab Kap 31 oder 32“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L447] · „Oblivion als Erason-Operator“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448] · „mit POV-Anteilen ab Kap 32 oder 33“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L448]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Tests, Allies, Enemies — Systemkampf" ^[three-mode-architecture-39-chapters-md.md:L337]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Polyphoner Kael, Spiegel-Alter aktiv" ^[three-mode-architecture-39-chapters-md.md:L337]
+- Storyform A: „MC-Issue: Wahrheits-Test gegen logische Fallen" ^[three-mode-architecture-39-chapters-md.md:L337]
+- Storyform B: „OS-Physics: Guardians als Sub-Antagonisten" ^[three-mode-architecture-39-chapters-md.md:L337]
+- Leitmotif: „logische Labyrinthe, Echo-Räume" ^[three-mode-architecture-39-chapters-md.md:L337]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: ["C11", "C14"]
 gathered: "2026-09-25"
 ---
@@ -47,6 +47,16 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Storyform: „A: MC-Solution Pursuit erste Andeutung. B: OS-Physics, AEGIS' Logik zeigt Schwächen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
 - Sensorik: „Sensorik: Hitzeschlieren, Landauer-Wärme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
 - Genesis echo: „Genesis-Echo: Cache-Konflikt = Echo der ursprünglichen Resonanz-Kaskade.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Tod einer Einstellung — Cache-Konflikt" ^[three-mode-architecture-39-chapters-md.md:L183]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael, polyphoner Einbruch" ^[three-mode-architecture-39-chapters-md.md:L183]
+- Storyform A: „MC-Solution Pursuit erste Andeutung: einseitiger Ansatz scheitert" ^[three-mode-architecture-39-chapters-md.md:L183]
+- Storyform B: „OS-Physics: AEGIS' Logik zeigt Schwächen" ^[three-mode-architecture-39-chapters-md.md:L183]
+- Leitmotif: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)" ^[three-mode-architecture-39-chapters-md.md:L183]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -107,6 +117,6 @@ Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkret
 
 ## Where the sources differ
 
-- **Landauer sensorics.** „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] (Konzept-Iteration Genesis; also strukturierter Outline) · „Sensorik: Hitzeschlieren, Landauer-Wärme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] (konsolidiertes Konzept) · „Sensorik der Landauer-Signatur nach Polaritäts-Lock: kalt/Ozon“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311] (storyform outline) · „Sensorik kalt/Ozon (Polaritäts-Filter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung). (C11)
+- **Landauer sensorics.** „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L528] (Konzept-Iteration Genesis; also strukturierter Outline and the 39-chapter spec) · „Sensorik: Hitzeschlieren, Landauer-Wärme.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] (konsolidiertes Konzept) · „Sensorik der Landauer-Signatur nach Polaritäts-Lock: kalt/Ozon“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311] (storyform outline) · „Sensorik kalt/Ozon (Polaritäts-Filter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Plot-Konkretisierung). (C11)
 - **When the other Alters' style codes are full.** „Erste polyphonen Einbrüche — Stilcodes anderer Alters werden voll sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377] (strukturierter Outline, Kap 6) · „voll ausgeprägt ab Kap 8–10“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810] (konsolidiertes Konzept) · „voll-polyphon erst Akt II“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L927] (Kernwelten vollständig).
 - **Title.** „Tod einer Einstellung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (Kapitel-Kompendium) · „Echos im Fundament“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L526] (Konzept-Iteration Genesis; also konsolidiertes Konzept, strukturierter Outline, storyform outline) — the Kompendium's title is the others' stage „HR-Stufe 6: Tod einer Einstellung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L369].

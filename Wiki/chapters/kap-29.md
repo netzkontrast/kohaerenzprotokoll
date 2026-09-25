@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -44,6 +44,16 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Story: „Kind-Anteil sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1018]
 - Storyform: „A: MC-Problem Avoidance, letztes Aufflammen. B: RS-Psychology, Verstrickung tief.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1018]
 - Sensorik: „Sensorik: Angst des Kindes, Engerwerden.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1018]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Refusal — letzte Zweifel, Trauma-Echo" ^[three-mode-architecture-39-chapters-md.md:L334]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael (Kind-Anteil sichtbar)" ^[three-mode-architecture-39-chapters-md.md:L334]
+- Storyform A: „MC-Problem Avoidance: letztes Aufflammen" ^[three-mode-architecture-39-chapters-md.md:L334]
+- Storyform B: „RS-Psychology B: Verstrickung tief" ^[three-mode-architecture-39-chapters-md.md:L334]
+- Leitmotif: „Angst des Kindes, Engerwerden" ^[three-mode-architecture-39-chapters-md.md:L334]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 17
+sources: 18
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -222,3 +222,9 @@ Heat stands twice, neither of them hers: „Die internen Analyseprozesse liefen 
 Cold is the logic that cuts: „Die Kälte der Logik ist die Klinge, die mich zerteilt." ^[kap0-v1-annotiert-md.md:L985] [[silas|Silas]] says both and takes both back (L705, L829).
 No ozone stands in it, and `Landauer` only in the rule that keeps the word out of the first fifty pages: „Keine Coheronen, keine Erasonen, kein η, kein Landauer." ^[kap0-v1-annotiert-md.md:L63] (`Plan/runs/kap0-v1-annotiert-md/05-verify.txt`).
 Warmth as Juna's is the lock's side, thirteen days early; heat beside the knuckles is the pairing C10's row 1 calls the Landauer strand.
+
+## 2026-09-25 — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+**Warmth in Kap 6 and Kap 36 — row 1's side, in nearly row 1's words, on row 1's date.**
+Kap 6: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)" ^[three-mode-architecture-39-chapters-md.md:L183]. Kap 36: „Landauer-Wärme als Schluss-Markierung; Stille danach" ^[three-mode-architecture-39-chapters-md.md:L341]; its Beat 4 „wird sichtbar als Wärme-Phänomen (Landauer-Hitze als somatischer Filter)" ^[three-mode-architecture-39-chapters-md.md:L359].
+Ozone is Part 1's air and has nothing to do with Landauer: „Ozon-Geruch, blendendes Licht, absolute Stille." ^[three-mode-architecture-39-chapters-md.md:L167] There is no cold ozone, and warmth is not Juna's (`Plan/runs/three-mode-architecture-39-chapters-md/05-verify.txt`).

@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-16"
 ---
 
@@ -100,3 +100,8 @@ The clinical model is TSDP: „Die Theorie der Strukturellen Dissoziation der Pe
 „**Tertiäre Strukturelle Dissoziation:** Mehrere ANPs *und* mehrere EPs. Typisch für DIS / komplexes Trauma." ^[kohaerenz-protokoll-konzept-master-md.md:L381]
 It is meant clinically, not as an allegory: „**Keine DID-Allegorie.** Kaels Alters sind nicht Symbole für "Persönlichkeitsanteile, die wir alle haben" — sie sind diagnostisch konkret und phänomenologisch genau." ^[kohaerenz-protokoll-konzept-master-md.md:L1071]
 And its aim is not fusion: „**Im Roman: zwingend Funktionale Multiplizität, niemals Final Fusion.**" ^[kohaerenz-protokoll-konzept-master-md.md:L416]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — the word withheld
+
+Named only as a word the prose withholds: „Der Reader spürt sie über Glitches, Stimmverschiebungen, ungewollte Handlungen — aber das Wort "Alters" oder "DID" fällt nicht." ^[three-mode-architecture-39-chapters-md.md:L171]
+„Klartext-Diagnose vor Kap 10 zerstört den Modus." ^[three-mode-architecture-39-chapters-md.md:L598]

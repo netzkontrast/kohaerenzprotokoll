@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -57,6 +57,16 @@ Position: „| \*\*KW1 — Konstrukt-Stadt\*\* | Akt I (Kap 1–13) | P (Polynom
 - Risse: „Diese strukturelle Unvorhersagbarkeit ist die Quelle der KW2-Risse (Kap 4 / Kap 13 entsprechend)." ^[kohaerenz-protokoll-konzept-master-md.md:L714]
 - Kael: „**Kael als Brücke:** sein Beobachten kollabiert die Simulation in spezifische Realitäten (Kap 4, 13 — Gödel-Knoten als Mess-Problem-Avatare)." ^[kohaerenz-protokoll-konzept-master-md.md:L788]
 - Multiplicity: „Multiplizitäts-Schleier hält bis Kap 13" ^[kohaerenz-protokoll-konzept-master-md.md:L903]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Tanz im Garten — neue innere Welt" ^[three-mode-architecture-39-chapters-md.md:L190]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael (Wir-stabil)" ^[three-mode-architecture-39-chapters-md.md:L190]
+- Storyform A: „MC-Concern: Innere Praxis etabliert" ^[three-mode-architecture-39-chapters-md.md:L190]
+- Storyform B: „OS-Physics: AEGIS bereitet Phase-2-Stress-Tests vor" ^[three-mode-architecture-39-chapters-md.md:L190]
+- Leitmotif: „Garten, Pflege, lebendige Ordnung" ^[three-mode-architecture-39-chapters-md.md:L190]
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — one rule
 

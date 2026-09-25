@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 records: ["C11"]
 gathered: "2026-09-25"
 ---
@@ -60,6 +60,17 @@ Position: „39 Kapitel, 3 Akte, Vortex Kap 35–36" ^[kohaerenz-protokoll-konze
 - Heat: „Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure (Vortex Beat 4: Heat-Spike → ∞)." ^[kohaerenz-protokoll-konzept-master-md.md:L162]
 - Storyform: „**Pivot ≠ Driver-Flip.**" ^[kohaerenz-protokoll-konzept-master-md.md:L864] „Der Eindruck eines Pivots am Vortex entsteht durch den Storyform-Übergang B → A." ^[kohaerenz-protokoll-konzept-master-md.md:L864]
 - Not the integration: „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Vortex Beat 4–5 — Stille, Übergang" ^[three-mode-architecture-39-chapters-md.md:L341]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael, AEGIS verstummend" ^[three-mode-architecture-39-chapters-md.md:L341]
+- Storyform A: „A: Resolve=Change vollzogen" ^[three-mode-architecture-39-chapters-md.md:L341]
+- Storyform B: „B: erlischt; Algorithmische Melancholie" ^[three-mode-architecture-39-chapters-md.md:L341]
+- Leitmotif: „Landauer-Wärme als Schluss-Markierung; Stille danach" ^[three-mode-architecture-39-chapters-md.md:L341]
+- Beats: „Beat 4 — verzögerter B-Action-Stroke wird sichtbar als Wärme-Phänomen (Landauer-Hitze als somatischer Filter)" ^[three-mode-architecture-39-chapters-md.md:L359] · „Beat 5 — Auflösung: A bleibt; B wird als gewesen markiert; Übergang zu Kap 37–39" ^[three-mode-architecture-39-chapters-md.md:L360]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
@@ -122,5 +133,5 @@ Position: „Vortex 1 | 35–36 | Der Apparat kollabiert auf sein Ziel“ ^[kp-p
 
 - **Which beats the chapter holds.** „Vortex 1 Beat 3–5 (Silence, Heat Spike, Rotation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L862] (Kernwelten vollständig) · „Kapitel-Schnitt: Kap 35 = Beats 1–3, Kap 36 = Beats 4–5.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline) · „Vortex 1 Beats 4–5“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L646] (Konzept-Iteration Genesis). · „Vortex (Kap 35–36) — Fünf Beats“ ^[kohaerenz-protokoll-konzept-master-md.md:L847], with no chapter given to any beat (master report).
 - **When AEGIS-monolithisch goes out.** Here: „AEGIS-monolithisch erlischt (Kap 36)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (Kapitel-Kompendium) · „B-Cost: AEGIS-monolithisch erlischt (Kap 36)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline) · „AEGIS-monolithisch erlischt — als operative Form. Aber: nicht zerstört.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1116] (strukturierter Outline). In Kap 39: „Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L923] (konsolidiertes Konzept) · „AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412] (storyform outline).
-- **Landauer warmth.** „Landauer-Wärme als Schluss-Markierung; Stille danach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648] (Konzept-Iteration Genesis) · „Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128] (strukturierter Outline) · „Der Landauer-Wärme-Spike bleibt kanonisch allein für Vortex-1-Beat-4“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] (storyform outline) · „Landauer-Wärme ausschließlich Beat 4“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239] (Plot-Konkretisierung). (C11)
+- **Landauer warmth.** „Landauer-Wärme als Schluss-Markierung; Stille danach“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L648] (Konzept-Iteration Genesis; also the 39-chapter spec) · „Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128] (strukturierter Outline) · „Der Landauer-Wärme-Spike bleibt kanonisch allein für Vortex-1-Beat-4“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] (storyform outline) · „Landauer-Wärme ausschließlich Beat 4“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239] (Plot-Konkretisierung). (C11)
 - **Stage.** „HR-Stufe 9: Reward — Vorgriff“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L646] (Konzept-Iteration Genesis) · „HR-außen Stufe 10: Reward (in Vortex-Mechanik gespiegelt)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1103] (strukturierter Outline) · „Vortex 1 (Kap 35–36) — Operative Wendung (HR 9: Ordeal)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L368] (storyform outline), which puts Reward in the next chapter: „37 Reward (= trügerischer Sieg)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L438] (storyform outline).

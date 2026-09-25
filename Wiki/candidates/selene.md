@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -88,3 +88,8 @@ One of the ANPs, the „interne Verfechter der Kohärenztheorie" ^[kohaerenz-pro
 „Es gibt einen Punkt, an dem die Mauer und das, was sie schützt, dasselbe geworden sind. Vielleicht ist dieser Punkt jetzt." ^[kap0-v1-annotiert-md.md:L469]
 „Selene-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: maßvoll, Pausen als Element, *Vielleicht*-Häufung, integrativ." ^[kap0-v1-annotiert-md.md:L473]
 The writer's doubt: „Beurteilung: Grenzfall — Selenes Stimme ist erlaubt zu ahnen, aber die Aussage ist klar." ^[kap0-v1-annotiert-md.md:L473]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+An ANP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Her style code „Selene kühl-präzise" ^[three-mode-architecture-39-chapters-md.md:L198]; with Lex she carries the „kontemplativer Präzision (Lex, Selene)" ^[three-mode-architecture-39-chapters-md.md:L230] of Part 2, and Kap 16 is „Kael (Lex+Selene-Dominanz)" ^[three-mode-architecture-39-chapters-md.md:L260].
+A Wächterin stands in Kap 8, „Kael, Wächterin" ^[three-mode-architecture-39-chapters-md.md:L185], and in Kap 17, „Z1-Korrektur — Wächterin" ^[three-mode-architecture-39-chapters-md.md:L261] — unnamed here (Q4).

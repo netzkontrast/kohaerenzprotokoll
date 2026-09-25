@@ -2,7 +2,7 @@
 step: extract
 version: 13
 covers_documents: 7
-new_findings_last_document: 2
+new_findings_last_document: 0
 ---
 
 # Briefing — before extracting a document

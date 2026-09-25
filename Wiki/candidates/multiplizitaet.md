@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-16"
 ---
 
@@ -145,3 +145,8 @@ The veil before it: „Multiplizitäts-Schleier hält bis Kap 13" ^[kohaerenz-pr
 „**R-3 — Multiplizitäts-Schleier hält bis Kap 13.**" ^[kap0-v1-annotiert-md.md:L51] „In Kap 0 sind die späteren Alter nur als Cluster-Funken-Echos präsent, nicht als Personen." ^[kap0-v1-annotiert-md.md:L51]
 The writer fears the draft lifts it early, three voices in one movement: „Es könnte den Leser in einen "viele Stimmen"-Modus versetzen, der R-3 (Multiplizitäts-Schleier) prä-emptiv lüftet." ^[kap0-v1-annotiert-md.md:L309]
 And asks whether the Wir's structural presence already does: „Oder lüftet schon die *strukturelle* Präsenz den Multiplizitäts-Schleier zu früh?" ^[kap0-v1-annotiert-md.md:L1209]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+„Schleier-Disziplin: erst ab \~Kap 8–10 erste explizite Hinweise, vor Kap 13 keine Klartext-Diagnose." ^[three-mode-architecture-39-chapters-md.md:L171] The exit condition of Part 1: „Multiplizitäts-Schleier hält bis \~Kap 10, bricht kontrolliert auf" ^[three-mode-architecture-39-chapters-md.md:L212].
+At the end of Part 2: „Multiplizität ist jetzt offen benannt, nicht mehr Schleier" ^[three-mode-architecture-39-chapters-md.md:L295]. Kap 38: „MC-Concern: Funktionale Multiplizität gesichert" ^[three-mode-architecture-39-chapters-md.md:L343]

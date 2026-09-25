@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -64,3 +64,7 @@ One of the ANPs, the „interne Verfechter der Kohärenztheorie" ^[kohaerenz-pro
 In the first cluster: „Wenn du möchtest — könnten wir kurz halten. Nur einen Moment. Es muss nichts geschehen. Wir bleiben einfach." ^[kap0-v1-annotiert-md.md:L249]
 „Rhys-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: weiche Eröffnung (*Wenn du möchtest*), Wir-vor-Ich, sanfte Negation (*es muss nichts geschehen*), körperbewusst (*halten, tragen*)." ^[kap0-v1-annotiert-md.md:L253]
 „Rhys ist die einzige Vor- form, die das tut." ^[kap0-v1-annotiert-md.md:L253] — address someone, the reader or another fragment.
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — one line
+
+In the roster by storyform, as an ANP: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Nothing else in the document names Rhys.

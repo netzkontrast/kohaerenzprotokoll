@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -60,6 +60,17 @@ Position: „39 Kapitel, 3 Akte, Vortex Kap 35–36" ^[kohaerenz-protokoll-konze
 - Heat: „Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure (Vortex Beat 4: Heat-Spike → ∞)." ^[kohaerenz-protokoll-konzept-master-md.md:L162]
 - Storyform: „**Pivot ≠ Driver-Flip.**" ^[kohaerenz-protokoll-konzept-master-md.md:L864] „Der Eindruck eines Pivots am Vortex entsteht durch den Storyform-Übergang B → A." ^[kohaerenz-protokoll-konzept-master-md.md:L864]
 - Not the integration: „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Vortex Beat 1–3 — Einspeisung des paradoxen Selbst" ^[three-mode-architecture-39-chapters-md.md:L340]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael (Wir) → AEGIS bricht" ^[three-mode-architecture-39-chapters-md.md:L340]
+- Storyform A: „A: MC-Solution Pursuit vollzogen" ^[three-mode-architecture-39-chapters-md.md:L340]
+- Storyform B: „B: AEGIS-Solution Feeling nicht adoptiert — Failure manifest" ^[three-mode-architecture-39-chapters-md.md:L340]
+- Leitmotif: „glühender paradoxer Code, brechende Stimme" ^[three-mode-architecture-39-chapters-md.md:L340]
+- Beats: „Beat 1 — Anlauf: Kael formuliert sein Wir als lebenden Widerspruch (Gödel-Gambit-Vorbereitung) und tritt damit vor AEGIS" ^[three-mode-architecture-39-chapters-md.md:L354] · „Beat 3 — Stille: minimal, sensorisch, ohne Ereignisse; kein Driver schiebt; das narrative Gewicht hängt" ^[three-mode-architecture-39-chapters-md.md:L356]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

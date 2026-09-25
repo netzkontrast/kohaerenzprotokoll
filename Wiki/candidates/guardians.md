@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-16"
 ---
 
@@ -352,3 +352,8 @@ They are not tied to worlds: „**Wichtig:** Die Kernwelten sind *Akt-Marker*, n
 In the consistency matrix both are `K₀-Sub-Operator`, „Kohärenz-Exekutiv" ^[kohaerenz-protokoll-konzept-master-md.md:L961], in Storyform B's OS (L961–L962). Told in the third person (L404).
 One open point asks how the two relate: „**Wächter-Zwiespalt-Soziopolitik.** Slot 16 Punkt: Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[kohaerenz-protokoll-konzept-master-md.md:L1002]
 The author's decision for five (C6) stands; this is one more source for two.
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — once, unnamed
+
+Once, in Storyform B's column for Kap 32, „Tests, Allies, Enemies — Systemkampf" ^[three-mode-architecture-39-chapters-md.md:L337]: „OS-Physics: Guardians als Sub-Antagonisten" ^[three-mode-architecture-39-chapters-md.md:L337].
+None is named or counted, and no world is given one (`Plan/runs/three-mode-architecture-39-chapters-md/05-verify.txt`).

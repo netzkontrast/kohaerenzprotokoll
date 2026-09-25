@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-16"
 ---
 
@@ -323,3 +323,10 @@ In the crisis she is the perturbation AEGIS cannot classify: „Junas Resonanz e
 Its status line: „Informationsdichte: gleichzeitig 1.0 / 0.0" ^[kap0-v1-annotiert-md.md:L597]
 The writer strikes the one sentence that says it outright — „Etwas in der Struktur kannte diese Berührung." ^[kap0-v1-annotiert-md.md:L637] — and asks the Doppel-Lesart be carried by the Resonanzkaskade's echoes, „(deren *Wärme* unausgesprochen bleibt)" ^[kap0-v1-annotiert-md.md:L641].
 She appears in no chapter as a figure (C7).
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — a witness, an echo, in danger; no appearance placed
+
+„in A ist Juna IC-Trägerin" ^[three-mode-architecture-39-chapters-md.md:L96]; a POV „Juna-POV (selten) → A" ^[three-mode-architecture-39-chapters-md.md:L139].
+By chapter: an echo in Kap 21, „Kael (grenzbewusst), Juna-Echo" ^[three-mode-architecture-39-chapters-md.md:L265]; a witness in Kap 24, „Kael, Juna-Witness" ^[three-mode-architecture-39-chapters-md.md:L268], with „Telefon-Stille als Anker, Witness-Modus" ^[three-mode-architecture-39-chapters-md.md:L268]; in danger in Kap 28, „Call to Adventure — AEGIS' Eskalation / Juna in Gefahr" ^[three-mode-architecture-39-chapters-md.md:L333]; and in Kap 30 the „Meeting Mentor — K-J Verbindung Kulmination" ^[three-mode-architecture-39-chapters-md.md:L335].
+Left open on purpose: „Junas Natur nicht aufgelöst (Echo? Erinnerung? externe Präsenz?)" ^[three-mode-architecture-39-chapters-md.md:L494] „Junas-Doppelrolle (Witness in A, Quelle der Irreduzibilität für B) noch nicht disambiguiert" ^[three-mode-architecture-39-chapters-md.md:L506]
+No chapter places her appearance (C7).

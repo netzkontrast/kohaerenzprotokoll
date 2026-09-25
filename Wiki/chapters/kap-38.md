@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: ["C7"]
 gathered: "2026-09-25"
 ---
@@ -50,6 +50,15 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Storyform: „A: RS-Physics maximal, Junas direkte Anwesenheit. B: das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036]
 - Sensorik: „Sensorik: Stille mit anwachsendem Druck, dann Junas Stimme als Raum statt als Klang.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036]
 - Genesis echo: „Genesis-Echo: Junas Erscheinung = Ankommen der ursprünglichen Resonanz, diesmal nicht abgewehrt.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1036]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Resurrection — finale Wendung" ^[three-mode-architecture-39-chapters-md.md:L343]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael (Wir-erleuchtet)" ^[three-mode-architecture-39-chapters-md.md:L343]
+- Storyform A: „MC-Concern: Funktionale Multiplizität gesichert" ^[three-mode-architecture-39-chapters-md.md:L343]
+- Leitmotif: „Wir-Geflecht in voller Klarheit" ^[three-mode-architecture-39-chapters-md.md:L343]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,0 +1,220 @@
+{
+  "document": "three-mode-architecture-39-chapters-md",
+  "drive_id": "1Jor2IW3lMrd1VOLSis1Wx2v3b4i9OZFhNT2jwCXaXJc",
+  "step": "probes",
+  "at": "2026-09-25",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 99,
+  "backslash_escapes": 164,
+  "typographic_marks": 185,
+  "ascii_quotes": 48,
+  "inflection_families": {
+    "erzäh": [
+      "Erzähler",
+      "Erzählerischer",
+      "Erzählhaltung",
+      "Erzählhaltungs",
+      "Erzählmodus",
+      "Erzähltonalität"
+    ],
+    "wiede": [
+      "Wiederbegegnung",
+      "Wiedergeburt",
+      "Wiederholung",
+      "Wiederholungen",
+      "Wiederkehrendes",
+      "Wiederverbindung"
+    ],
+    "story": [
+      "Storyform",
+      "Storyforms",
+      "Storypoint",
+      "Storypoints",
+      "Storyweaving"
+    ],
+    "syste": [
+      "System",
+      "Systemkampf",
+      "Systemlüge",
+      "Systemverwerfungen",
+      "Systemänderung"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entschlossenheit",
+      "Entschluss",
+      "Entschlussfassung"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungs",
+      "Erinnerungslosigkeit"
+    ],
+    "multi": [
+      "Multi",
+      "Multiplizität",
+      "Multiplizitäts"
+    ],
+    "phase": [
+      "Phase",
+      "Phasen",
+      "Phasenübergang"
+    ],
+    "sicht": [
+      "Sicht",
+      "Sichtbarmachens",
+      "Sichtweise"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationsgrenze",
+      "Simulationsgrenzen"
+    ],
+    "stimm": [
+      "Stimme",
+      "Stimmen",
+      "Stimmverschiebungen"
+    ],
+    "tonal": [
+      "Tonalität",
+      "Tonalitäten",
+      "Tonalitäts"
+    ],
+    "wahrh": [
+      "Wahrheit",
+      "Wahrheiten",
+      "Wahrheits"
+    ],
+    "algor": [
+      "Algorithmische",
+      "Algorithmischer"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteilen"
+    ],
+    "auffl": [
+      "Aufflackern",
+      "Aufflammen"
+    ],
+    "auflö": [
+      "Auflösung",
+      "Auflösungs"
+    ],
+    "bedeu": [
+      "Bedeutung",
+      "Bedeutungs"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtung"
+    ],
+    "bridg": [
+      "Bridge",
+      "Bridges"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialoge"
+    ],
+    "dokum": [
+      "Dokument",
+      "Dokuments"
+    ],
+    "ebene": [
+      "Ebene",
+      "Ebenen"
+    ],
+    "einbr": [
+      "Einbruch",
+      "Einbrüche"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Fallen"
+    ],
+    [
+      "Anti",
+      "Quantitäts"
+    ],
+    [
+      "Atem",
+      "Atemraum"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Code",
+      "Stilcode"
+    ],
+    [
+      "Code",
+      "Stilcodes"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Ende",
+      "Pendel"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Wiederkehrendes"
+    ],
+    [
+      "Exit",
+      "Komplexität"
+    ],
+    [
+      "Form",
+      "Reinform"
+    ],
+    [
+      "Form",
+      "Storyform"
+    ],
+    [
+      "Form",
+      "Storyforms"
+    ],
+    [
+      "Herz",
+      "Herzens"
+    ],
+    [
+      "Herz",
+      "Herzschlag"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ]
+  ]
+}

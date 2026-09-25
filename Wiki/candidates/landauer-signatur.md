@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -136,3 +136,8 @@ Its consequences for the world:
 And the prose rule: „**Somatischer Filter:** Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
 
 Here the signature is heat **and** ozone, both from AEGIS' erasure, and no line sets a warm trace against a cold one. Heat is displacement: „Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71] Conflict C11.
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Warm, in two chapters. Kap 6: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)" ^[three-mode-architecture-39-chapters-md.md:L183]. Kap 36: „Landauer-Wärme als Schluss-Markierung; Stille danach" ^[three-mode-architecture-39-chapters-md.md:L341], in its Beat 4: „Beat 4 — verzögerter B-Action-Stroke wird sichtbar als Wärme-Phänomen (Landauer-Hitze als somatischer Filter)" ^[three-mode-architecture-39-chapters-md.md:L359].
+Ozone is Part 1's air, not the Landauer trace: „Ozon-Geruch, blendendes Licht, absolute Stille." ^[three-mode-architecture-39-chapters-md.md:L167] No cold stands in it beyond `kühl` as a tone (`Plan/runs/three-mode-architecture-39-chapters-md/05-verify.txt`).

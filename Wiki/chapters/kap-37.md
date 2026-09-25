@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,16 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 - Storyform: „A: MC-Concern, neue Rolle als Hüter. B: scheinbar nicht aktiv, aber feine Echos des Rauschens.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034] · „nur A scheinbar, mit feinen B-Echos als Rauschen-Vorzeichen“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L772]
 - Sensorik: „Sensorik: kristallisiertes Gewebe, feine Sprünge am Rand.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034]
 - Genesis echo: „Genesis-Echo: das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1034]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Reward / Phasenübergang — Der Gärtner" ^[three-mode-architecture-39-chapters-md.md:L342]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael (Wir, etabliert)" ^[three-mode-architecture-39-chapters-md.md:L342]
+- Storyform A: „MC-Concern: neue Rolle als Hüter" ^[three-mode-architecture-39-chapters-md.md:L342]
+- Storyform B: „— (B nicht mehr aktiv)" ^[three-mode-architecture-39-chapters-md.md:L342]
+- Leitmotif: „kristallisiertes Gewebe, neue Architektur" ^[three-mode-architecture-39-chapters-md.md:L342]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -54,6 +54,16 @@ Position: „| \*\*KW1 — Konstrukt-Stadt\*\* | Akt I (Kap 1–13) | P (Polynom
 
 - Risse: „Diese strukturelle Unvorhersagbarkeit ist die Quelle der KW2-Risse (Kap 4 / Kap 13 entsprechend)." ^[kohaerenz-protokoll-konzept-master-md.md:L714]
 - Kael: „**Kael als Brücke:** sein Beobachten kollabiert die Simulation in spezifische Realitäten (Kap 4, 13 — Gödel-Knoten als Mess-Problem-Avatare)." ^[kohaerenz-protokoll-konzept-master-md.md:L788]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Pforten der Verurteilung — Prüfungen" ^[three-mode-architecture-39-chapters-md.md:L181]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael/Lex, AEGIS-Log" ^[three-mode-architecture-39-chapters-md.md:L181]
+- Storyform A: „MC-Issue: Scham, Zweifel, logische Grenzen" ^[three-mode-architecture-39-chapters-md.md:L181]
+- Storyform B: „IC-Mind/Conscious latent — erste "Bug"-Spur" ^[three-mode-architecture-39-chapters-md.md:L181]
+- Leitmotif: „korrumpierte Textdateien, veraltete Interfaces" ^[three-mode-architecture-39-chapters-md.md:L181]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

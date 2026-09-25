@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 16
+sources: 17
 pages: ["trennungsprotokoll"]
 ---
 
@@ -190,3 +190,9 @@ The konsolidiertes Konzept's order, as text, on its date — against the charact
 The component comes before the crisis, in the sixth movement, „verschmolzen mit Komp 734 + Innere Weite" ^[kap0-v1-annotiert-md.md:L363]; its number is withheld, and „gerade diese Komponente wird Kael." ^[kap0-v1-annotiert-md.md:L433]
 No remainder is cut away and named: the separation ends in „Ich falle… in unzählige Scherben…" ^[kap0-v1-annotiert-md.md:L1009] and Kael's first lines follow (L1021).
 So between the two drafts of Kap 0 the order changed: on 2026-05-08 Kael is what the protocol cuts out of 734 (the entry above), on 2026-05-17 he is the component itself — the character bible's `Kael = Komponente 734`, with the konsolidiertes Konzept's four beats.
+
+## 2026-09-25 — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+**Three steps, 734 last — the character bible's order, as flashbacks.**
+„Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
+It uses neither the word „Beat" nor a count, and has no Kap 0 to hold a Genesis. Row 1's sequence, told back in the middle of the book.

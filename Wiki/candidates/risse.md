@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C11, C15
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -231,3 +231,9 @@ Five types, one per defence: „Die fünf Riss-Typen (Fight/Freeze/Flight/Collap
 The riss table: „Fight (Nyx)" ^[kohaerenz-protokoll-konzept-master-md.md:L1047] kinetisch, „Freeze (Kiko)" ^[kohaerenz-protokoll-konzept-master-md.md:L1048] temporal, „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] spatial, „Collapse (Moros)" ^[kohaerenz-protokoll-konzept-master-md.md:L1050] gravitational, „Sex (Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1051] sensorisch (C15).
 Riss scenes are bridge scenes: „Riss-Szenen (ontologische K₀-in-K₁-Einbrüche)." ^[kohaerenz-protokoll-konzept-master-md.md:L889] The reader meets them as footnotes: „Widersprüchliche Fußnoten als systemische Risse" ^[kohaerenz-protokoll-konzept-master-md.md:L744].
 And one of the three protocols answers them: „**Re-Containment-Protokoll** — Reaktion auf Rissen, dynamisches Patching." ^[kohaerenz-protokoll-konzept-master-md.md:L523]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Storyform B's progress shows as cracks: „Progress (B) zeigt sich nun als wachsende AEGIS-Risse, die der Reader zunehmend bemerkt." ^[three-mode-architecture-39-chapters-md.md:L122]
+A riss scene is a bridge, the other storyform flickering in: „Bridges sind Riss-Szenen (kurzes Aufflackern der B-Lesart in einer A-Szene), keine kompletten B-Szenen." ^[three-mode-architecture-39-chapters-md.md:L202] Kap 2 is „Verrat / Desillusionierung — der erste Riss" ^[three-mode-architecture-39-chapters-md.md:L179].
+The multiplicity shows in Part 1 through glitches: „Der Reader spürt sie über Glitches, Stimmverschiebungen, ungewollte Handlungen" ^[three-mode-architecture-39-chapters-md.md:L171] — found by the sweep.

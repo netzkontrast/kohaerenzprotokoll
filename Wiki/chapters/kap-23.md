@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,16 @@ Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-prot
 - Sensorik: „Sensorik: Mosaik-Bildung als aktiver Prozess.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1006]
 - Genesis echo: „Genesis-Echo: innere Schöpfung als Vorform kosmischer Schöpfung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1006]
 - Title elsewhere: „Kap 23 (Mosaik-Schöpfung)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1093]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Z3-Korrektur — Mosaik als Schöpfung" ^[three-mode-architecture-39-chapters-md.md:L267]
+Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
+
+- Bearer / POV: „Kael (Wir-stabil-resilient)" ^[three-mode-architecture-39-chapters-md.md:L267]
+- Storyform A: „MC-Concern: Selbst-Schöpfung als innere Ressource" ^[three-mode-architecture-39-chapters-md.md:L267]
+- Storyform B: „latent" ^[three-mode-architecture-39-chapters-md.md:L267]
+- Leitmotif: „Mosaik-Bildung als aktiver Prozess" ^[three-mode-architecture-39-chapters-md.md:L267]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

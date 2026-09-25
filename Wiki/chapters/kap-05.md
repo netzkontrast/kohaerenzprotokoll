@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: ["C14"]
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,16 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Stage: „Auge des Sturms — falscher Erfolg (trügerische Stabilität)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L823]
 - Storyform: „A: MC-Concern Memory. B: latent.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L970]
 - Sensorik: „Sensorik: spiegelglatter Erfolg, sensorisch flach.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L970]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Auge des Sturms — falscher Erfolg" ^[three-mode-architecture-39-chapters-md.md:L182]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael (Lex-dominant)" ^[three-mode-architecture-39-chapters-md.md:L182]
+- Storyform A: „MC-Concern Memory: trügerische Stabilität" ^[three-mode-architecture-39-chapters-md.md:L182]
+- Storyform B: „latent" ^[three-mode-architecture-39-chapters-md.md:L182]
+- Leitmotif: „spiegelglatter Erfolg, sensorisch flach" ^[three-mode-architecture-39-chapters-md.md:L182]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 19
-readings: 19
+sources: 20
+readings: 20
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-16"
 ---
 
@@ -287,3 +287,10 @@ annotated „Die Knöchel-Referenz ist ein direktes Foreshadow des Kael-Akt-I-An
 After „Ich falle… in unzählige Scherben…" ^[kap0-v1-annotiert-md.md:L1009] Kap 0 ends in his voice: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[kap0-v1-annotiert-md.md:L1021] „Ich bin pünktlich." ^[kap0-v1-annotiert-md.md:L1025]
 „*Ich bin pünktlich* als Schlussbild — die Funktionsfähigkeit ist hergestellt; was verloren ging, wird nicht bemerkt." ^[kap0-v1-annotiert-md.md:L1029]
 His own lines carry no knuckles; the Nyx line before them does (C10). He is the component, not a remainder of it (C12).
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Storyform A's main character, „A = *Heuristics of Integration* / Kael-MC" ^[three-mode-architecture-39-chapters-md.md:L23], and B's impact character, „in B ist Kael IC-Träger (lebende Paradoxie)" ^[three-mode-architecture-39-chapters-md.md:L96].
+Every chapter is his, stage by stage: Kap 1 „Illusion der perfekten Welt — Ordnung als Käfig" ^[three-mode-architecture-39-chapters-md.md:L178] with „Kael (Host)" ^[three-mode-architecture-39-chapters-md.md:L178] as bearer. Part 1's narrator: „Fragmentiert, staccato, kühl. Kael (Host) als unzuverlässiger Erzähler. Ozon-Geruch, blendendes Licht, absolute Stille." ^[three-mode-architecture-39-chapters-md.md:L167]
+His Genesis comes in flashbacks: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
+At the end: „Return with Elixir / Kishōtenketsu Ten→Ketsu" ^[three-mode-architecture-39-chapters-md.md:L344], „Kael (offen, ambivalent)" ^[three-mode-architecture-39-chapters-md.md:L344]. No knuckles stand in the document (`Plan/runs/three-mode-architecture-39-chapters-md/05-verify.txt`).

@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 10
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
+sources: 11
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -55,6 +55,17 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 ## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
 
 - Genesis: „**Wir = AEGIS-plural** — in Kap 39 vollzogen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L161] · „Beat 4 ist Kap 39." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Return with Elixir / Kishōtenketsu Ten→Ketsu" ^[three-mode-architecture-39-chapters-md.md:L344]
+Position: „Heldenreise außen" ^[three-mode-architecture-39-chapters-md.md:L50]
+
+- Bearer / POV: „Kael (offen, ambivalent)" ^[three-mode-architecture-39-chapters-md.md:L344]
+- Storyform A: „A-Outcome: Success / Good — aber rekursiv" ^[three-mode-architecture-39-chapters-md.md:L344]
+- Leitmotif: „das System ist kohärent, aber unvollständig; Zyklus-Andeutung" ^[three-mode-architecture-39-chapters-md.md:L344]
+- Ending: „Kein Erzähler-Kommentar in Kap 39, der dem Reader die Auflösung vorgibt." ^[three-mode-architecture-39-chapters-md.md:L384]
+- After it: no Kap 40 — „Drei Modi, zwei Storyforms, ein Vortex." ^[three-mode-architecture-39-chapters-md.md:L634]
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — one line
 
@@ -126,4 +137,5 @@ Position: „Vortex 2 | 38–39 | Die Übernahme der Funktion“ ^[kp-plot-konkr
 
 - **When AEGIS-monolithisch goes out.** Here: „AEGIS-monolithisch erlischt; AEGIS-plural entsteht. Kael-als-Wir wird neue AEGIS, aber wesensanders.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1206] (strukturierter Outline) · „AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412] (storyform outline). In Kap 36: „AEGIS-monolithisch erlischt (Kap 36)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (Kapitel-Kompendium) · „B-Cost: AEGIS-monolithisch erlischt (Kap 36)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (storyform outline).
 - **What becomes of AEGIS.** „Kael und dieses Rest-AEGIS erkennen sich gegenseitig an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531] · „vielleicht als eine Art Hausmeister des Kernsystems“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L531] (aegis-subplots) · „Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L923] (konsolidiertes Konzept).
+- **The last chapter, or not.** Here the book ends: „Return with Elixir / Kishōtenketsu Ten→Ketsu“ ^[three-mode-architecture-39-chapters-md.md:L344], after one Vortex and with B silent since Kap 36 (the 39-chapter spec); most plans read here follow it with a Kap 40 (`Wiki/overview/plot.md`).
 - **Beat numbering.** „Wir-AEGIS-plural (Vortex 2 Beat 6–10)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1190] (strukturierter Outline) · „Beat 3: AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L447] · „Beat 4: die Stille danach — das Universum hält“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L448] (Konzept-Iteration Genesis).

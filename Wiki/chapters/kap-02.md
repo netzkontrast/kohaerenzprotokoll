@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,6 +48,16 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Storyform: „A: MC-Issue Falsehood-vs-Truth: erste Begegnung mit Systemlüge. B: OS-Physics, Controlled Fragmentation Protocol initialisiert.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L964]
 - Sensorik: „Sensorik: flackernde Geometrien, Kanten, die unscharf werden.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L964]
 - Voices: „mit ersten Stilcode-Einbrüchen anderer Alters ab Kap 2–3“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L810]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Verrat / Desillusionierung — der erste Riss" ^[three-mode-architecture-39-chapters-md.md:L179]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael, mit Lex-Einbruch" ^[three-mode-architecture-39-chapters-md.md:L179]
+- Storyform A: „MC-Issue Falsehood-vs-Truth: erste Begegnung mit Systemlüge" ^[three-mode-architecture-39-chapters-md.md:L179]
+- Storyform B: „OS-Physics: Controlled Fragmentation Protocol initialisiert" ^[three-mode-architecture-39-chapters-md.md:L179]
+- Leitmotif: „flackernde Geometrien, Kanten, die unscharf werden" ^[three-mode-architecture-39-chapters-md.md:L179]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

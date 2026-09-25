@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-17"
 ---
 
@@ -59,3 +59,7 @@ The Potentialmeer is not defined here; the first beat's other party is the Reinf
 
 In AEGIS' telling of the void: „Sie war ein Substrat — ein Potentialmeer unendlicher Zustände, ein Grundrauschen latenter Information, das als *Nichts-Rauschen* indexiert wurde: die Negation dessen, was das System selbst war." ^[kap0-v1-annotiert-md.md:L545]
 The perturbation comes out of it: „Kein Objekt, das sich durch den Raum bewegte, sondern eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[kap0-v1-annotiert-md.md:L581]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Kap 21, Cycle 3's destabilisation at the simulation's limit: „RS-Physics: Moonshine-Spüren des Potentialmeers" ^[three-mode-architecture-39-chapters-md.md:L265].

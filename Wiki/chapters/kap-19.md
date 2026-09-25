@@ -1,9 +1,9 @@
 ---
 chapter: 19
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
-records: []
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+records: ["C12"]
 gathered: "2026-09-25"
 ---
 
@@ -44,6 +44,17 @@ Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-prot
 - Story: „Systemlüge wird klarer.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L998]
 - Storyform: „A: MC-Issue. B: OS-Physics, Erasure-Logik tritt offen auf.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L998]
 - Sensorik: „Sensorik: kalte Stimme, Ethik-Kalkül.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L998]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Z2-Reaktion + AEGIS-Intervention" ^[three-mode-architecture-39-chapters-md.md:L263]
+Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
+
+- Bearer / POV: „Kael, AEGIS-Log direkter" ^[three-mode-architecture-39-chapters-md.md:L263]
+- Storyform A: „MC-Issue: Systemlüge wird klarer benannt" ^[three-mode-architecture-39-chapters-md.md:L263]
+- Storyform B: „OS-Physics: AEGIS' Erasure-Logik tritt offen auf" ^[three-mode-architecture-39-chapters-md.md:L263]
+- Leitmotif: „KI-Ethik-Kalkül, kalte Stimme" ^[three-mode-architecture-39-chapters-md.md:L263]
+- Genesis flashbacks: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

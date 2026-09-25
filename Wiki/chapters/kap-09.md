@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -51,6 +51,16 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Genesis echo: „Genesis-Echo: Wir-Bildung = strukturelle Annäherung an K1-Reinform.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L978]
 - Leitmotiv: „dem Moment der Wir-Bildung in Kap 9“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1058]
 - Lock: „Keine Wir-Geflecht-Etablierung vor Kap 9.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1276]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Rückkehr mit neuer Sichtweise — Integration beginnt" ^[three-mode-architecture-39-chapters-md.md:L186]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael (mit innerem Dialog)" ^[three-mode-architecture-39-chapters-md.md:L186]
+- Storyform A: „MC-Concern: Logik und Intuition verbinden sich" ^[three-mode-architecture-39-chapters-md.md:L186]
+- Storyform B: „latent" ^[three-mode-architecture-39-chapters-md.md:L186]
+- Leitmotif: „inneres Geflecht, Wir-Stimme" ^[three-mode-architecture-39-chapters-md.md:L186]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

@@ -1,9 +1,9 @@
 ---
 chapter: 22
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
-records: ["C12"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
+records: ["C12", "C14"]
 gathered: "2026-09-25"
 ---
 
@@ -46,6 +46,17 @@ Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-prot
 - Genesis flashback: „Genesis-Flashback: Komp 734. Berechenbarkeitsgrenzen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1004]
 - Storyform: „A: MC-Issue. B: OS-Physics, Erasure-Kosten sichtbar.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1004]
 - Sensorik: „Sensorik: unvorhersehbare Systemverwerfungen.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1004]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Z3-Reaktion — AEGIS-Eskalation" ^[three-mode-architecture-39-chapters-md.md:L266]
+Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
+
+- Bearer / POV: „Kael, AEGIS dominant" ^[three-mode-architecture-39-chapters-md.md:L266]
+- Storyform A: „MC-Issue: Berechenbarkeitsgrenzen" ^[three-mode-architecture-39-chapters-md.md:L266]
+- Storyform B: „OS-Physics: AEGIS' Dilemma sichtbar (Erasure-Kosten)" ^[three-mode-architecture-39-chapters-md.md:L266]
+- Leitmotif: „unvorhersehbare Systemverwerfungen" ^[three-mode-architecture-39-chapters-md.md:L266]
+- Genesis flashbacks: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

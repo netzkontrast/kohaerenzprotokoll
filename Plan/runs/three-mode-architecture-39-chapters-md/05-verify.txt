@@ -1,0 +1,39 @@
+# 05-verify — three-mode-architecture-39-chapters-md, 2026-09-25
+
+zeros: none (04-counts.txt); 3 bullets read as prose, counted here:
+  Tests, Allies, Enemies: lines 337 
+  Orkan vs. Sphäre: lines 339 
+  Drei Modi, zwei Storyforms, ein Vortex: lines 634 
+
+## words (grep -nwi, word-bounded)
+$ Ozon: 2  lines: 167 178 
+$ Ozon-Geruch: 1  lines: 167 
+$ warm: 0  lines: 
+$ Wärme: 3  lines: 183 341 359 
+$ kalt: 0  lines: 
+$ kühl: 3  lines: 48 167 198 
+$ Landauer: 3  lines: 183 341 359 
+$ Landauer-Wärme: 2  lines: 183 341 
+$ Landauer-Hitze: 1  lines: 359 
+$ Hitze: 1  lines: 359 
+$ Knöchel: 0  lines: 
+$ Juna: 6  lines: 96 139 265 268 333 335 
+$ Guardians: 1  lines: 337 
+$ Guardian: 0  lines: 
+$ Sophia: 0  lines: 
+$ Mnemosyne: 0  lines: 
+$ Kap: 71  lines: 73 81 82 83 84 99 101 151 171 177 198 206 
+$ Kapitel: 28  lines: 11 13 17 18 19 23 37 41 47 60 69 73 
+$ Kap 0: 0  lines: 
+$ Kap 40: 0  lines: 
+$ Kapitel 40: 0  lines: 
+$ Genesis: 8  lines: 62 151 226 278 291 467 504 505 
+$ Vortex: 28  lines: 23 63 64 83 99 101 123 147 206 303 307 311 
+$ Vortex 2: 0  lines: 
+$ Erasure-Pol: 0  lines: 
+$ 734: 1  lines: 278 
+$ Flight: 0  lines: 
+$ Be-er: 0  lines: 
+$ Do-er: 0  lines: 
+$ Datum: 0  lines: 
+$ 2026: 2  lines: 7 8 

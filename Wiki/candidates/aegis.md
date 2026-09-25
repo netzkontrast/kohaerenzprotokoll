@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 21
-readings: 22
+sources: 22
+readings: 23
 conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -381,3 +381,10 @@ The prose: „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-anno
 
 **What the prose may not say about it** is the rule the draft is built around: „Die Wahrheit "AEGIS hat die Geburt für den Tod gehalten" darf in Kap 0 **nicht** ausgesprochen" ^[kap0-v1-annotiert-md.md:L43].
 Its blind spot is shown as a hypothesis it cannot write: H4, „(vierte Hypothese aus dem Konzept: dass die Resonanz ein fühlendes Substrat ist)" ^[kap0-v1-annotiert-md.md:L693].
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+A workflow spec for encoding, in rules and tables. AEGIS is Storyform B's main character — „B = *Phoenix Collapse* / AEGIS-MC" ^[three-mode-architecture-39-chapters-md.md:L23] — and in B „ist Kael IC-Träger (lebende Paradoxie)" ^[three-mode-architecture-39-chapters-md.md:L96].
+No POV of its own in Part 1: „Keine eigene POV-Szene aus AEGIS-Sicht in Teil 1." ^[three-mode-architecture-39-chapters-md.md:L202] Then „Kael, kurzer AEGIS-POV möglich" ^[three-mode-architecture-39-chapters-md.md:L258] in Kap 14, „Kael, AEGIS dominant" ^[three-mode-architecture-39-chapters-md.md:L266] in Kap 22, and in Kap 34 „Kael (Wir) vs. AEGIS (Makro-Log)" ^[three-mode-architecture-39-chapters-md.md:L339]. Whether that POV is a first person or a third, the spec does not say.
+Kap 33 is „Approach Inmost Cave — Vordringen zu AEGIS' Kern" ^[three-mode-architecture-39-chapters-md.md:L338], its architecture „parakonsistente Logik / Gödel-Sätze als Architektur" ^[three-mode-architecture-39-chapters-md.md:L338].
+In Kap 36 „B: erlischt; Algorithmische Melancholie" ^[three-mode-architecture-39-chapters-md.md:L341]; after it „AEGIS spricht nicht mehr (oder allenfalls als Echo, niemals als aktiver Driver)." ^[three-mode-architecture-39-chapters-md.md:L380]

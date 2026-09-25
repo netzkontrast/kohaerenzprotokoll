@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -107,3 +107,8 @@ Its mathematics: „Eine VOA über dem Leech-Gitter (Rang 24) als "Fundament" de
 „Das ist Egan-Standard, nicht Magie." ^[kohaerenz-protokoll-konzept-master-md.md:L589]
 What it carries is open: „Übertragbar: mutuale Information, atemporale Resonanz, "Zeugenschaft"." ^[kohaerenz-protokoll-konzept-master-md.md:L597] „Nicht übertragbar: Materielle Daten, klassische Nachrichten, Rettungsaktionen." ^[kohaerenz-protokoll-konzept-master-md.md:L598] „Final Lock-In offen." ^[kohaerenz-protokoll-konzept-master-md.md:L603]
 It is Storyform A's RS domain: „| RS Domain | Physics (Moonshine-Link) |" ^[kohaerenz-protokoll-konzept-master-md.md:L825].
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Storyform A's relationship story: „A: Physics / Moonshine-Link; B: Psychology / Host-System-Verstrickung" ^[three-mode-architecture-39-chapters-md.md:L98].
+It grows by chapter — Kap 7 „RS-Physics: K-J-Verbindung wird stärker (Moonshine-Bewusstwerdung)" ^[three-mode-architecture-39-chapters-md.md:L184], Kap 10 „RS-Physics: Moonshine als Werkzeug (Quanten-Nichtlokalität)" ^[three-mode-architecture-39-chapters-md.md:L187], Kap 21 „RS-Physics: Moonshine-Spüren des Potentialmeers" ^[three-mode-architecture-39-chapters-md.md:L265], and Kap 30 „RS-Physics A: Moonshine als bewusster Kanal" ^[three-mode-architecture-39-chapters-md.md:L335].

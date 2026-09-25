@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -46,6 +46,17 @@ Position: „VIII.5 Teil 2 (Kap 14–26) — Zyklischer Modus“ ^[koharenz-prot
 - Genesis flashback: „Genesis-Flashback: Trennungsprotokoll. Ontologie-Tiefe.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1002]
 - Storyform: „A: MC-Concern, Juna-Echo. B: RS-Physics, Moonshine-Spüren.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1002]
 - Sensorik: „Sensorik: Membran-Wahrnehmung, Vibrieren.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1002]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Z3-Destabilisierung — Simulationsgrenze" ^[three-mode-architecture-39-chapters-md.md:L265]
+Position: „Zyklisch" ^[three-mode-architecture-39-chapters-md.md:L49]
+
+- Bearer / POV: „Kael (grenzbewusst), Juna-Echo" ^[three-mode-architecture-39-chapters-md.md:L265]
+- Storyform A: „MC-Concern: Ontologie-Tiefe" ^[three-mode-architecture-39-chapters-md.md:L265]
+- Storyform B: „RS-Physics: Moonshine-Spüren des Potentialmeers" ^[three-mode-architecture-39-chapters-md.md:L265]
+- Leitmotif: „Membran-Wahrnehmung, Vibrieren" ^[three-mode-architecture-39-chapters-md.md:L265]
+- Genesis flashbacks: „Etwa Kap 18–22 ist die natürliche Heimat der Genesis-Flashbacks (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[three-mode-architecture-39-chapters-md.md:L278]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

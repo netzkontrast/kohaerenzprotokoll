@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,16 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Sensorik: „Sensorik: Netzwerke, Resonanz.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980]
 - Genesis echo: „Genesis-Echo: Moonshine als Echo der Cluster-Bildung.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L980]
 - Reader: „Multiplizität wird im Roman nicht ausgesprochen bis ~Kap 10.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L813]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Title: „Erste Anwendung der Integration" ^[three-mode-architecture-39-chapters-md.md:L187]
+Position: „Heldinnenreise innen" ^[three-mode-architecture-39-chapters-md.md:L48]
+
+- Bearer / POV: „Kael (kooperativ-polyphon)" ^[three-mode-architecture-39-chapters-md.md:L187]
+- Storyform A: „RS-Physics: Moonshine als Werkzeug (Quanten-Nichtlokalität)" ^[three-mode-architecture-39-chapters-md.md:L187]
+- Storyform B: „latent" ^[three-mode-architecture-39-chapters-md.md:L187]
+- Leitmotif: „Netzwerke, Graphen, Resonanz" ^[three-mode-architecture-39-chapters-md.md:L187]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

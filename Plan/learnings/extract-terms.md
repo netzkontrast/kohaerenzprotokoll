@@ -939,3 +939,28 @@ called it earlier than any Kap 40, and the read draft of Kap 40 is nine days old
 claim about order needs the dates of every read source, and the scan's writers had them
 only for the documents read then.
 
+## Document 24 — `three-mode-architecture-39-chapters-md`, 2026-09-25
+
+A workflow spec for encoding 39 chapters, mostly tables. 338 candidates, no page,
+readings on 29 pages and on all 39 chapter pages, no new judgement.
+
+**No finding the briefing did not anticipate, and no zero.** Version 13's steps held: every
+phrase asked of `read.py --find` first, and the three bullets the count reads as prose
+counted by hand. That is the first document since version 10 with nothing new for the
+briefing, so `new_findings_last_document` is 0.
+
+**A table numbered without `Kap` is a chapter outline nothing counts.** `chapters.py
+missing` sees `Kap N` written singly; this document's 39 rows begin `| 1 |`. The readings
+were built from the rows, one per chapter, each cell quoted with its line. An outline in
+table form should be read from its table, whatever the count says.
+
+**An escaped tilde breaks a quotation.** The export writes `\\\~10 %`; a quotation
+that carries it fails `quotes.py`, and one that stops before it passes. Quote the cell up
+to the escape and give the number beside it.
+
+**Identity by shared words, not by a claim.** Another plan names „Das Spec-Dokument vom
+2026-05-08 (drei Modi, 39 Kapitel)"; this document names no date. The identification
+rests on the manifest's date, the matching description, and cells that stand word for
+word in the other plan. The reconciliation records it as its own inference, not as the
+document's statement.
+

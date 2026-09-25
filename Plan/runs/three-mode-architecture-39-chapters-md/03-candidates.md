@@ -1,0 +1,373 @@
+# Candidates — three-mode-architecture-39-chapters-md
+
+written_by: Claude session (claude/now-md-7v804q), 2026-09-25, while reading, before any count
+rule: decision 012 — the briefing's list rule, version 13
+
+Written in the order read. Observations are paragraphs; every `- ` line is a term.
+
+## Lines 1–230
+
+A workflow spec, a companion to a generic workflow spec it names and does not include.
+39 chapters in three narrative modes of thirteen each, orthogonal to the dual storyform;
+the Vortex at Kap 35–36, a Resolution 37–39 with only A. Tables per part. No Kap 0 and
+no Kap 40 so far. Every phrase below was asked of `read.py --find` first.
+
+- Drei-Modi-Architektur
+- Heldinnenreise
+- Zyklus
+- Heldenreise
+- 39 Kapitel
+- Workflow-Spec
+- Teil 1
+- Teil 2
+- Teil 3
+- Zyklischer Erzählmodus
+- narrative Modi
+- Storyform
+- Storyforms
+- Dual-Storyform-Architektur
+- Heuristics of Integration
+- Kael-MC
+- Phoenix Collapse
+- AEGIS-MC
+- Storyform-Übergang
+- Vortex
+- Kapitel 35–36
+- Storypoints
+- Encoding-Heuristiken
+- Modus-Übergänge
+- Narrative Modi
+- Dual-Storyform
+- Bridge-Frequenz
+- Heldinnenreise innen
+- Zyklisch
+- Heldenreise außen
+- Akt
+- Bridge-Anteil
+- Storyform-Status
+- Reinform
+- Multiplizitäts-Schleier
+- Kollision der Wahrheiten
+- Genesis-Flashbacks
+- Bridge-Cluster
+- Vortex-Vorläufer
+- Spiegel-Alter
+- Soft-Layering
+- Resolution
+- Default-Hard-Routing
+- Bridge-Szenen
+- Stufen-Encoding
+- Akt-Architektur
+- Modus-Grenzen
+- Storyform-Grenzen
+- Modus-Wechsel
+- Storyform-Wendung
+- Storyform-Konsolidierung
+- Akt-III-Architektur
+- Encoding-Disziplin
+- P1
+- P7
+- MC-Throughline-Encoding
+- IC-Throughline-Encoding
+- IC-Träger
+- IC-Trägerin
+- Juna
+- Kael
+- AEGIS
+- OS-Throughline-Encoding
+- Psychology
+- Physics
+- RS-Throughline-Encoding
+- Moonshine-Link
+- Host-System-Verstrickung
+- Dynamics-Encoding
+- Storyweaving
+- Kapitel-Map
+- Klimax-/Inversions-Architektur
+- Vortex-Beats
+- Resolution-Kette
+- MC-Concern
+- Memory
+- Progress
+- AEGIS-Risse
+- Erasure-Countdown
+- Stage 1
+- Storyform-Träger
+- Per-Chapter-Architektur
+- Option 3 Hybrid
+- ANP-K1-Träger
+- EPs
+- Lex
+- Alex
+- Rhys
+- Selene
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Spiegel-Alters
+- Silas
+- Coheron-Echo
+- Oblivion
+- Erason-Operator
+- Argus
+- Meta-Kognition
+- Juna-POV
+- Bridge
+- KW2-KW3-Phase
+- Murdock/Schmidt
+- Riss-Szenen
+- Kael (Host)
+- Host
+- Ozon-Geruch
+- Reader-Leerstellen
+- Multiplizität
+- Alters
+- DID
+- Schleier-Disziplin
+- Pro-Kapitel-Tabelle
+- Illusion der perfekten Welt
+- Ordnung als Käfig
+- Umgebungs-Log
+- Verrat / Desillusionierung
+- der erste Riss
+- Lex-Einbruch
+- Falsehood-vs-Truth
+- Systemlüge
+- Controlled Fragmentation Protocol
+- Erwachen & Vorbereitung
+- Identifikation mit dem Männlichen
+- Avoidance
+- Bunker-Bau
+- ANP-Funktion
+- Pforten der Verurteilung
+- AEGIS-Log
+- IC-Mind/Conscious
+- Auge des Sturms
+- falscher Erfolg
+- Tod einer Einstellung
+- Cache-Konflikt
+- Pursuit
+- Hitzeschlieren
+- Landauer-Wärme
+- Unterstützung
+- Sehnsucht nach dem Weiblichen
+- RS-Physics
+- K-J-Verbindung
+- Moonshine-Bewusstwerdung
+- Wiedergeburt
+- Wächterin
+- RS-Psychology
+- Rückkehr mit neuer Sichtweise
+- Wir-Stimme
+- Erste Anwendung der Integration
+- Moonshine
+- Akzeptanz der Komplexität
+- Mosaik-Herz
+- Stille der Mitte
+- Jetzt-Raum
+- Tanz im Garten
+- Phase-2-Stress-Tests
+- Stufen-Folge
+- Stilcodes
+- B-Latenz
+- Storyform-A-Bogen
+- Resolve=Change
+- Exit-Bedingung
+- Destabilisierung
+- Reaktion
+- Korrektur
+- Bruch
+- K-J-Thema
+- Wendepunkt zur Befreiung
+- spiralförmige Eskalation
+- Polyphonie
+- Erasure-Bewegung
+- Cache-Konflikt-Metapher
+- AEGIS-Protokoll-Register
+
+## Lines 230–450
+
+Three cycles of three, Kap 15–23, framed by Kap 14, 24 and 25–26. The Genesis flashbacks
+sit in Kap 18–22 as „Einheit → Trennungsprotokoll → Kael=Komp 734" (L278) — three steps,
+734 last. Part 3 is Kap 27–39 with one Vortex in Kap 35–36, five beats, and Landauer warmth
+in Kap 6 and in Kap 36 Beat 4. Kap 32 has the Guardians as sub-antagonists; Kap 28 AEGIS'
+escalation and Juna in danger. The resolution is Kishōtenketsu Ten→Ketsu in Kap 39; no
+Kap 40 is named.
+
+- Reader-Leerstelle
+- Zyklus 1
+- Zyklus 2
+- Zyklus 3
+- Eskalations-Marker
+- Kernwelt
+- B-Welt
+- Trauma-Angst
+- Bunker
+- Dissoziation
+- Beobachter-Blick
+- Multi-Welten-Aufgabe
+- Anteilen
+- AEGIS-Intervention
+- Lyons-Welt-Kreativität
+- Simulationsgrenzen
+- Ontologie-Riss
+- Selbst-Schöpfung
+- Bruch des Gleichgewichts
+- AEGIS-POV
+- Erasure-Welle
+- Z1-Destabilisierung
+- Schatten-Anteil
+- Babymonster-Welt-Resonanz
+- Z1-Reaktion
+- Z1-Korrektur
+- Wir-Geflecht
+- Z2-Destabilisierung
+- Topologie-Manipulation
+- Glitch-Texturen
+- Z2-Reaktion
+- Erasure-Logik
+- KI-Ethik-Kalkül
+- Z2-Korrektur
+- Lyons-Kreativität
+- Emergenz-Texturen
+- Z3-Destabilisierung
+- Simulationsgrenze
+- Juna-Echo
+- Potentialmeers
+- Z3-Reaktion
+- AEGIS-Eskalation
+- Berechenbarkeitsgrenzen
+- Erasure-Kosten
+- Z3-Korrektur
+- Mosaik als Schöpfung
+- Wiederkehrendes K-J-Thema
+- Juna-Witness
+- OS-Psychology
+- Telefon-Stille
+- Witness-Modus
+- Wendepunkt-Vorbereitung
+- Wegkreuzung
+- Wendepunkt
+- Entscheidung zur Befreiung
+- Spiral-Eskalation
+- Genesis-Flashback-Cluster
+- Einheit
+- Trennungsprotokoll
+- Komp 734
+- Kael=Komp 734
+- Mikrocue-Punkte
+- Mudding
+- Polyrhythmus-Disziplin
+- Mikrocue
+- Akt III
+- Makro-Log
+- Beat 5
+- Kishōtenketsu-Ende
+- Ten
+- Ketsu
+- Sisyphos-Erkenntnis
+- Heilung-durch-Reset
+- Phase A
+- Ordinary World
+- Ruf zum Abenteuer
+- Refusal
+- Mentor
+- Inmost Cave
+- Ordeal-Vorbereitung
+- Phase B
+- Phase C
+- Reward
+- Resurrection
+- Return with Elixir
+- Call to Adventure
+- AEGIS' Eskalation
+- Juna in Gefahr
+- AEGIS-Direktive
+- Erasure-Drohung
+- Trauma-Echo
+- Kind-Anteil
+- Meeting Mentor
+- K-J Verbindung Kulmination
+- Crossing First Threshold
+- Angriff auf AEGIS
+- Tests, Allies, Enemies
+- Systemkampf
+- Guardians
+- Sub-Antagonisten
+- Approach Inmost Cave
+- AEGIS' Kern
+- parakonsistente Logik
+- Gödel-Sätze
+- Konfrontation
+- Zwei Arten der Kohärenz
+- AEGIS-Datenlast
+- Orkan vs. Sphäre
+- Vortex Beat 1–3
+- Einspeisung des paradoxen Selbst
+- AEGIS-Solution Feeling
+- Failure
+- Vortex Beat 4–5
+- Algorithmische Melancholie
+- Algorithmischer Melancholie
+- Phasenübergang
+- Der Gärtner
+- Hüter
+- Funktionale Multiplizität
+- A-Outcome
+- Success / Good
+- Vortex-Beat-Mechanik
+- Beat 1
+- Anlauf
+- Gödel-Gambit-Vorbereitung
+- Beat 2
+- Einspeisung
+- Beat 3
+- Stille
+- Driver
+- Beat 4
+- B-Action-Stroke
+- Wärme-Phänomen
+- Landauer-Hitze
+- somatischer Filter
+- Auflösung
+- Stille-Szene
+- Vortex-Soft-Layering
+- Resolution-Stille
+- Kishōtenketsu
+- Modus-Übergänge szenisch operationalisiert
+- Übergang Teil 1 → Teil 2
+- Was wechselt
+- Mechanik
+- Reader-Wirkung
+- Übergang Vortex → Resolution
+
+## Lines 450–647
+
+The document places its storyform boundary twice. §1.2 calls „Kap 34 → 35" the actual
+storyform turn (L83), and the closing notes put it at 36/37 (L634). It has no date in its
+text, no Kap 0 and no Kap 40, and no chapter is marked as a flashback outside Kap 18–22.
+Juna's nature is left open in part 1 (L494), and her double role in part 2 (L506).
+
+- Tonalitäts-Progression
+- Genesis-Cluster
+- Anti-Patterns
+- Drei Modi, zwei Storyforms, ein Vortex
+- Storyform-Grenze
+- Genesis-Krise
+- Junas-Doppelrolle
+- Witness
+- Quelle der Irreduzibilität
+- Irreduzibilität
+- Sisyphos
+- Polyphonie-Entwicklung
+- Modus-Dominanz
+- Storyform-Exklusivität
+- Closing Notes
+- generischen Workflow-Spec
+
+## lens
+
+- Murdock
+- Campbell/Vogler
