@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 8
+sources: 9
 pages: ["entropie"]
 ---
 
@@ -112,3 +112,8 @@ open.
 In the kernel table Entropie is K₀'s principle: „| \*\*K₀ (Kollaps-Kernel)\*\* | Irreversibilität, Entropie |" ^[kohaerenz-protokoll-konzept-master-md.md:L99]; and „K₀ ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107] „K₀ ist das, was ein Universum bewohnbar macht." ^[kohaerenz-protokoll-konzept-master-md.md:L107]
 And what AEGIS produces by fighting it: „Das System produziert die Entropie, die zu bekämpfen es behauptet." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
 The same side as the konsolidiertes Konzept (AEGIS *is* the entropy it fights), with the glossary's fourth sense (the condition of events) beside it, and the document relates the two as the [[truth-rotation|Truth-Rotation]] (L212–L226).
+
+## 2026-09-25 — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text
+
+**Once, as what AEGIS exports.**
+„gezielter Export von Entropie — das ist ihre Seinsweise." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L315] — 734's work at the border. Disorder expelled to keep order; the first sense. Found by the sweep.
