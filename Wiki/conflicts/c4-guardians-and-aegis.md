@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 8
+sources: 9
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -197,3 +197,10 @@ No Guardian is given a blind spot. The two [[guardians|Guardians]] it names sit 
 „Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282], and Mnemosyne is
 „die einzige Stimme im AEGIS-System" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696] who knows more than AEGIS. Nearest to
 the first position: a blindness of AEGIS', not one per Guardian.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**[[aegis|AEGIS]] blind inward, and a Guardian lacking — neither called a blind spot.**
+[[silas|Silas]]: „AEGIS kann ihn strukturell nicht erfassen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] [[oblivion|Oblivion]]: „Aber: AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]
+[[mnemosyne|Mnemosyne]]: „Sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
+Both of the record's bearers in one document, and a limit for each.
