@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -84,3 +84,11 @@ After Vortex 1, an open point: „lebende Reliquie + Oblivion-Übernahme intern"
 „Oblivion (AEGIS-Echo)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L741]: „Internalisierte Löschlogik." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L743] DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]
 „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]. Post-Vortex, OQ-G: „Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
 Anchor: „Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L793]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — Oblivions Hand
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Kael findet morgens Dinge erledigt, die er nicht getan hat" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L76] — flawlessly. Akt I comfort, Akt II „Sabotage von innen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L76],
+Akt III the decision, cited as „Oblivion-Arc: Automat → Bewusstsein → Entscheidung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L76].
+Cast table: „Perfektion ohne Erleben; Einträge ohne Zeitstempel" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L218].
