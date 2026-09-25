@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -65,3 +65,7 @@ the chapter template asks after: „Lex↔Nyx?" ^[kohaerenz-protokoll-welt-senso
 
 „Nyx (Fight) — Schicht 2" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L373]. DKT correlate: „CPT-Verletzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L387]. Riss: „Kinetisch — Geschwindigkeit, Stoß, Beschleunigung, Splitter, Vibration." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L391]
 Her „Hitze im Brustkorb" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] is set apart from Juna's trace, „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] (C11).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** F1 proposes Nyx’s first refusal as a hand that stops before confirming a contradictory assignment in Kap 6 (L229). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216]

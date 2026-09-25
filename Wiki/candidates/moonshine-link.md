@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -85,3 +85,7 @@ welcher Reichweite" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.m
 Silas is its „Resonanzkörper des Moonshine-Links innerhalb des Systems Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687] In Akt III he
 „Entscheidet sich, den Moonshine-Link vollständig zu öffnen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] The boundary is OQ-F:
 „Vorschlag: Silas zuerst, andere Alter im Verlauf von Akt II; räumlich global, phänomenal nur an Knotenpunkten." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1077]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** Idea 9 proposes mapping warm spots as a practical use of the link; their pattern would form the floor plan of an apartment in the external layer. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]

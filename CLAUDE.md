@@ -81,8 +81,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, eleven of them
-read (documents 7 to 17).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, twelve of them
+read (documents 7 to 18).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -112,11 +112,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**17 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **17
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **17
+**18 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **18
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **18
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
 four `worldbuilding`, one `aegis`, two `storyform`, two `charaktere`, two
-`kernkonzept`, two `plot-outline` and one `theorie-psychologie` — the last eleven
+`kernkonzept`, three `plot-outline` and one `theorie-psychologie` — the last twelve
 from the canon era.
 
 `Wiki/candidates/` holds **93 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
@@ -259,6 +259,14 @@ Kap 5–8, and this document gives AEGIS the third person and never prose (C14) 
 who carries Flight, Kiko and Lia or Lia and Isabelle (C15). It also gave C11 the
 character bible's entry, which the record had never held.
 
+**The eighteenth is the F1 plot proposal.** Its thirteen ideas and the
+Kap-0–40 thread are labelled `[V]` by the source itself. Twenty-five existing
+pages record its proposals; C6, C11, C12 and C14 gain positions without being
+resolved. A read-only Kap-2 pilot compares the source with the existing draft,
+chapter plan and NCP. The draft already shows F1's returning value and foreign
+syntax, while the proposed equation between work deviations and K₁ traces
+remains F1-1, an author decision (`Plan/concept/chapter-evidence-pilot_2026-09-25.md`).
+
 `Plan/runs/judgements.jsonl` holds **86 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
@@ -380,7 +388,7 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 28 <!--state:sweep.decided--> so far,
+is recorded in `Plan/runs/sweep.jsonl`: 31 <!--state:sweep.decided--> so far,
 14 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
@@ -480,14 +488,14 @@ in a commit that names its source.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **130 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1541 <!--state:graph.edges--> edges** (`links`,
+citations and builds **131 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1591 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1806 <!--state:graph.evidence-->
-of them, **1806 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1814 <!--state:graph.evidence-->
+of them, **1814 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;

@@ -1,0 +1,455 @@
+{
+  "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "step": "reconcile-pre",
+  "at": "2026-09-25",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-25",
+  "state": {
+    "pages": 93,
+    "conflicts": 15
+  },
+  "candidates": 90,
+  "decisions": 92,
+  "same_surface": {},
+  "decided_mechanically": 76,
+  "needs_judgement": 16,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 13
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 16
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 14
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 11
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 8
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 8
+      },
+      {
+        "candidate": "Telefon-Stille",
+        "page": "telefon-stille",
+        "readings": 10
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 11
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 11
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 11
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 11
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 15
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 9
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 10
+      },
+      {
+        "candidate": "Genesis",
+        "page": "genesis",
+        "readings": 9
+      },
+      {
+        "candidate": "Landauer-Signatur",
+        "page": "landauer-signatur",
+        "readings": 9
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 9
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 7
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 9
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 7
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 13
+      },
+      {
+        "candidate": "Mosaik-Herz",
+        "page": "mosaik-herz",
+        "readings": 7
+      },
+      {
+        "candidate": "K₁-Reinform",
+        "page": "nichts-rauschen",
+        "readings": 8
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Plot-Faden F1"
+      },
+      {
+        "candidate": "Apparat-Zopf"
+      },
+      {
+        "candidate": "Verlust/Beweis-Zopf"
+      },
+      {
+        "candidate": "K₀-Architektur"
+      },
+      {
+        "candidate": "K₁-Spuren"
+      },
+      {
+        "candidate": "Sequenz-Prüfung"
+      },
+      {
+        "candidate": "Ausgleich"
+      },
+      {
+        "candidate": "Bestandspflege"
+      },
+      {
+        "candidate": "Konsolidierungs-Freigabe"
+      },
+      {
+        "candidate": "Gegenregister"
+      },
+      {
+        "candidate": "Bunker"
+      },
+      {
+        "candidate": "Fundsachen"
+      },
+      {
+        "candidate": "Schicht 1"
+      },
+      {
+        "candidate": "EP-Riss-Tabelle"
+      },
+      {
+        "candidate": "Leitung"
+      },
+      {
+        "candidate": "Wohneinheit 734"
+      },
+      {
+        "candidate": "Wartungsfenster"
+      },
+      {
+        "candidate": "Z1"
+      },
+      {
+        "candidate": "Z2"
+      },
+      {
+        "candidate": "Z3"
+      },
+      {
+        "candidate": "Wartungs-Ticket"
+      },
+      {
+        "candidate": "Lernarchiv Theta-9"
+      },
+      {
+        "candidate": "Halteproblem-Dossier"
+      },
+      {
+        "candidate": "Komplexitäts-Budget"
+      },
+      {
+        "candidate": "Rendering"
+      },
+      {
+        "candidate": "Prozess-Kern"
+      },
+      {
+        "candidate": "Wärme-Kartographie"
+      },
+      {
+        "candidate": "Komponente 734"
+      },
+      {
+        "candidate": "Hard-B-Kapitel"
+      },
+      {
+        "candidate": "Restwert"
+      },
+      {
+        "candidate": "Ausnahme"
+      },
+      {
+        "candidate": "Ouroboros"
+      },
+      {
+        "candidate": "Autoren-Feder"
+      },
+      {
+        "candidate": "Klick"
+      },
+      {
+        "candidate": "Ozon-Kopplung"
+      },
+      {
+        "candidate": "Datenknoten Epsilon"
+      },
+      {
+        "candidate": "Bestände"
+      },
+      {
+        "candidate": "Zuweisung"
+      },
+      {
+        "candidate": "Warteschlange"
+      },
+      {
+        "candidate": "DATENTYP_FEHLT"
+      },
+      {
+        "candidate": "Optionlock"
+      },
+      {
+        "candidate": "Timelock"
+      },
+      {
+        "candidate": "Avoidance"
+      },
+      {
+        "candidate": "Pursuit"
+      },
+      {
+        "candidate": "Memory"
+      },
+      {
+        "candidate": "Voll-Konsolidierung"
+      },
+      {
+        "candidate": "Vortex 1"
+      },
+      {
+        "candidate": "Vortex 2"
+      },
+      {
+        "candidate": "Schicht 2"
+      },
+      {
+        "candidate": "Lichtstaub"
+      },
+      {
+        "candidate": "Regel-Exekutor"
+      },
+      {
+        "candidate": "Phoenix-Mode (lens)"
+      },
+      {
+        "candidate": "Kant (lens)"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Sachbearbeiter der Abweichung  /  Abweichung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna-Zopf  /  Juna",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "AEGIS  /  Wir-AEGIS-plural",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erasure  /  Erasure-Sweeps",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Erasure  /  Erasure-Pol",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Genesis  /  Genesis-Flashback",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kohärenz Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Juna-Zopf",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Abweichung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "vorhersagbarkeitsabweichungswerte",
+            "page": "aegis-metriken"
+          }
+        ]
+      },
+      {
+        "candidate": "Coheron-Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "coheron",
+            "page": "coheron"
+          }
+        ]
+      },
+      {
+        "candidate": "Logos-Prime",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "logos",
+            "page": "logos"
+          }
+        ]
+      },
+      {
+        "candidate": "Polaritätsregel",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "hitzepolaritatsregel",
+            "page": "hitze-polaritaetsregel"
+          }
+        ]
+      },
+      {
+        "candidate": "Wir-AEGIS-plural",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Flashback",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Rauschen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Therapie-Schnittstelle",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "therapieschnittstellealpha",
+            "page": "therapie-schnittstelle-alpha"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "logos",
+      "surface": "LogOS",
+      "line": 255,
+      "already_read": false
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 56,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -167,3 +167,7 @@ She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-draft
 „Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L994]: „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996] (C6).
 „Verwaltet die Datenströme der Erinnerung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] „Setting des Klimax:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] the Mnemosyne-Archipel (L1000).
 „Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004] „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** Idea 11 proposes a double offer in Kap 31: Mnemosyne grants a complete archive while the Erasure-Pol offers deletion. The source calls this a two-Guardian design, which does not revise the author’s five-Guardian decision (C6). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]

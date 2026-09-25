@@ -1,0 +1,705 @@
+{
+  "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "drive_id": "1eXLH3uMOZGVXUNK9CQPxBw4hgmCvtfp6Bio4WB3NP8M",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 93,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 93,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 90,
+    "decisions": 92,
+    "decided_by_lookup": 76,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "Every unmatched surface names a plot device, a chapter action, a lens or an unsettled proposed name in a document that explicitly marks its additions [V]. No independently defined novel-world term is promoted from an occurrence. The full unmatched list and line locations are retained below.",
+  "new_readings": [
+    {
+      "page": "kael",
+      "lines": [
+        52,
+        229
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        96,
+        220
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "risse",
+      "lines": [
+        52,
+        251
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        60
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        60
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "moros",
+      "lines": [
+        60
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        64
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        76
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "silas",
+      "lines": [
+        80
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        84
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        92
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        92
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        96
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        116
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        229
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        133,
+        229,
+        239
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "lex",
+      "lines": [
+        214,
+        229
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "argus",
+      "lines": [
+        215
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        216
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "selene",
+      "lines": [
+        217
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "juna",
+      "lines": [
+        206
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        229
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        229
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        133,
+        239
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        88
+      ],
+      "attribution": "proposal",
+      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C6",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [],
+  "judgements": [
+    "J47",
+    "J51",
+    "J76",
+    "J83"
+  ],
+  "not_promoted": [
+    {
+      "surface": "Plot-Faden F1",
+      "lines": [
+        11,
+        106
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Apparat-Zopf",
+      "lines": [
+        40
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Verlust/Beweis-Zopf",
+      "lines": [
+        42
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "K₀-Architektur",
+      "lines": [
+        52
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "K₁-Spuren",
+      "lines": [
+        52,
+        116,
+        251,
+        262
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Sequenz-Prüfung",
+      "lines": [
+        52,
+        198,
+        283
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Ausgleich",
+      "lines": [
+        133,
+        144,
+        192,
+        216,
+        283
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Bestandspflege",
+      "lines": [
+        52,
+        148,
+        198,
+        229,
+        265
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Konsolidierungs-Freigabe",
+      "lines": [
+        52,
+        198
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Gegenregister",
+      "lines": [
+        54,
+        72,
+        76,
+        165,
+        183,
+        188,
+        229,
+        237
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Bunker",
+      "lines": [
+        56,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Fundsachen",
+      "lines": [
+        58,
+        60
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Schicht 1",
+      "lines": [
+        60
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "EP-Riss-Tabelle",
+      "lines": [
+        60
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Leitung",
+      "lines": [
+        62,
+        64,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Wohneinheit 734",
+      "lines": [
+        64
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Wartungsfenster",
+      "lines": [
+        60,
+        66,
+        146,
+        185,
+        220,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Z1",
+      "lines": [
+        68,
+        72,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Z2",
+      "lines": [
+        68,
+        72
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Z3",
+      "lines": [
+        68,
+        72,
+        84,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Wartungs-Ticket",
+      "lines": [
+        72
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Lernarchiv Theta-9",
+      "lines": [
+        72
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Halteproblem-Dossier",
+      "lines": [
+        72,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Komplexitäts-Budget",
+      "lines": [
+        72,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Rendering",
+      "lines": [
+        72,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Prozess-Kern",
+      "lines": [
+        72,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Wärme-Kartographie",
+      "lines": [
+        82
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Komponente 734",
+      "lines": [
+        88,
+        164
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Hard-B-Kapitel",
+      "lines": [
+        96,
+        166,
+        220,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Restwert",
+      "lines": [
+        96,
+        149,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Ausnahme",
+      "lines": [
+        96,
+        149,
+        218,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Ouroboros",
+      "lines": [
+        100
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Autoren-Feder",
+      "lines": [
+        100,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Klick",
+      "lines": [
+        52,
+        129,
+        167,
+        174,
+        182,
+        197,
+        216,
+        229,
+        240,
+        246,
+        252,
+        267
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Ozon-Kopplung",
+      "lines": [
+        133
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Datenknoten Epsilon",
+      "lines": [
+        52,
+        192,
+        287
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Bestände",
+      "lines": [
+        72,
+        184,
+        198,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Zuweisung",
+      "lines": [
+        196,
+        206,
+        215,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Warteschlange",
+      "lines": [
+        186,
+        196,
+        253
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "DATENTYP_FEHLT",
+      "lines": [],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Optionlock",
+      "lines": [
+        187,
+        229,
+        254
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Timelock",
+      "lines": [
+        68,
+        186
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Avoidance",
+      "lines": [
+        56,
+        181,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Pursuit",
+      "lines": [
+        56,
+        182,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Memory",
+      "lines": [
+        42,
+        184
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Voll-Konsolidierung",
+      "lines": [
+        68
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Vortex 1",
+      "lines": [
+        171
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Vortex 2",
+      "lines": [
+        173
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Schicht 2",
+      "lines": [],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Lichtstaub",
+      "lines": [
+        92,
+        229
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Regel-Exekutor",
+      "lines": [
+        202,
+        255,
+        287
+      ],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Phoenix-Mode (lens)",
+      "lines": [],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    },
+    {
+      "surface": "Kant (lens)",
+      "lines": [],
+      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
+    }
+  ],
+  "found_by_rule_not_by_census": [
+    "hitze-polaritaetsregel",
+    "kaels-wohneinheit"
+  ],
+  "baseline_moved": false,
+  "sweep": {
+    "readings": 0,
+    "occurrences": 3,
+    "open": 0
+  }
+}

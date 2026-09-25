@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -62,3 +62,7 @@ her arc.
 DKT correlate: „Wormholes + Entanglement Islands." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L334] Arc: „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
 „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361] For AEGIS she is „die größte Bedrohung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357].
 „Selene ist auch nicht Juna" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** F1 proposes coordinated work at the console starting in Kap 9, while Kael experiences it as an ordinary good day rather than a conscious plural self (L229). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L217]

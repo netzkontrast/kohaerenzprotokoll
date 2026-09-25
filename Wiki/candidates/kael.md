@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -215,3 +215,7 @@ The Host, profiled as one of thirteen: „Komponente 734, Archivar Klasse II, Wo
 „Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] (C10). His arc:
 „Resolve = Change (adoptiert Pursuit am Klimax Kap 35)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] „Be-er-Modus:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] — Storyform A's main character.
 „Kael darf in Akt I nicht wissen, dass er ein System ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** F1 proposes that Kael’s daily sequence checks smooth the very deviations he will later investigate; the job becomes an administrative version of Erasure. The proposal says Kap 1 stays unchanged, while Kap 2–5 would extend the routine (L229). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52]

@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -108,3 +108,7 @@ Genesis-4-Beat it is the third beat (L1174). The document's own open conflict:
 Schicht 2 is the „Fragmentierungsnacht / Trennungsprotokoll" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L86]: Kael, Lex, Alex, Rhys, Nyx, Argus, Silas,
 Oblivion (L86). Lex is its „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]. Whether Alex can be present before it
 is open (L219, L1079; C12).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** F1 interprets Kael’s routine smoothing as a daily administrative reenactment of the separation. This is a proposed analogy; the source does not give an event order for the protocol and component 734 (C12). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L116]

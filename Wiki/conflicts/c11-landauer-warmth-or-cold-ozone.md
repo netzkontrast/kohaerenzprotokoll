@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 12
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -163,3 +163,7 @@ And its Silas–Oblivion conflict makes the heat Landauer's: „Jedes Mal, wenn 
 C10's row 1 and the second a reading on [[silas]] since document 8; this record
 held neither. Three weeks before the 2026-05-30 lock, like the konsolidiertes
 Konzept of the same day.
+
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**A proposed plot mechanism applying the cold-ozone split.** Each administrative adjustment would leave „eine Spur kalten Ozons“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]. The proposed F1 chapter table has a `Heat Spike` at Kap 36, Beat 4 (L229); its lock table reserves Landauer warmth for that beat (L239). Silas leaves slight warmth at other locations (L80). The document labels its additions `[V]` (L17, L108, L291); it does not decide the conflicting readings of Kap 6 or the source of Silas–Oblivion heat.

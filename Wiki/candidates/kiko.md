@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -60,3 +60,7 @@ Riss (Freeze) and, with Lia, the spatial one (Flight) ^[kohaerenz-protokoll-welt
 
 „Kiko (Freeze / Kind) — Schicht 1" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L423]. DKT correlate: „Planck-Skala." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L437] Riss: „Temporal-Stutter" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L441], and a second
 function, Flight, shared with Lia. „Hauptziel von AEGIS' Erasure-Versuchen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L460] Anchor: „Kiko ist nicht „niedlich"." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L468]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** A proposed ticket that carries an impossible date is tied to Kiko’s temporal Riss in the collection of lost objects. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]

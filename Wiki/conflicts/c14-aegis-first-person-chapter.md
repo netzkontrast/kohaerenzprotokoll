@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 7
+sources: 8
 pages: ["aegis"]
 ---
 
@@ -62,3 +62,7 @@ Decision 006 (2026-09-24) applies to this record as to C1–C13: no position abo
 is retired by its date or by a source's claim to be canon. It is an **item for
 discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
+
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**The first-person side, as a scene proposal.** Idea 12 specifies „erste Person, Protokollform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96] for one Hard-B chapter in Kap 5–8. F1 then says Act-I AEGIS otherwise appears through console directives, with a voice debut in that chapter (L220). The source labels all its additions `[V]` (L17) even when it reports the first-person rule as `[K]`; its proposal does not retire the third-person positions above.

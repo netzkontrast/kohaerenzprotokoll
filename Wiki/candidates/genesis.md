@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -94,3 +94,9 @@ It names a Genesis conflict of its own: „Konzept-Konflikt offen — beim näch
 The open point on the Genesis: „Aktueller Lock-In: vier Beats (Kompendium 2026-05-31)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] — and Alex
 „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219], so „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219].
 „Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] (C12). Oblivion in Akt II re-lives „AEGIS' eigene Genesis-Krise" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L787].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+> „Genesis-Flashback Komp 734“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+
+**Proposal `[V]`.** The F1 chapter table places proposed flashback scenes at Kap 18, 21 and 22 and a single click in Kap 40. Those positions are an order of telling, not evidence of the original Genesis event order (C12). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]

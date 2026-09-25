@@ -1,0 +1,140 @@
+# counts for 90 candidates
+# line numbers are FILE lines, as a citation writes them
+# 2 `- ` line(s) read as prose and not counted: Falsehood vs. Truth · P vs. NP (lens)
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz Protokoll                1 word     1 in   [11]
+  Plot-Faden F1                     2 word     2 in   [11, 106]
+  Sachbearbeiter der Abweichung     2 word     2 in   [50, 106]
+  Apparat-Zopf                      1 word     1 in   [40]
+  Juna-Zopf                         1 word     1 in   [41]
+  Verlust/Beweis-Zopf               1 word     1 in   [42]
+  Kael                             51 word    65 in   [29, 52, 56, 60, 64, 68]
+                                   14      as Kaels
+  AEGIS                            21 word    25 in   [52, 56, 68, 72, 96, 100]
+                                    1      as AEGIS-Sweeps
+                                    1      as AEGIS-1
+                                    1      as AEGIS-Stimmen-Lock
+                                    1      as AEGIS-Stimme
+  Erasure                           4 word    13 in   [52, 68, 92, 116, 144, 146]  <-- substring
+                                    2      as Erasure-Welle
+                                    2      as Erasure-Pol
+                                    2      as Erasure-Logik
+                                    1      as Erasure-Sweeps
+  K₀-Architektur                    1 word     1 in   [52]
+  K₁-Spuren                         4 word     4 in   [52, 116, 251, 262]
+  Risse                             1 word     2 in   [52, 116]
+  Sequenz-Prüfung                   3 word     3 in   [52, 198, 283]
+  Abweichung                        7 word    14 in   [50, 52, 106, 116, 124, 133]
+                                    7      as Abweichungen
+  Ausgleich                         5 word     5 in   [133, 144, 192, 216, 283]
+                                    1      as ausgleicht
+                                    1      as ausgleichen
+  Bestandspflege                    5 word     5 in   [52, 148, 198, 229, 265]
+  Konsolidierungs-Freigabe          2 word     2 in   [52, 198]
+  Gegenregister                     8 word     9 in   [54, 72, 76, 165, 183, 188]
+                                    1      as Gegenregister-Einträge
+  Bunker                            1 word     4 in   [56, 229]  <-- substring
+                                    2      as Bunker-Bau
+  Fundsachen                        2 word     2 in   [58, 60]
+  Schicht 1                         1 word     1 in   [60]
+  Externe Ebene                     2 word     2 in   [60, 84]
+  Kiko                              1 word     1 in   [60]
+  Moros                             1 word     1 in   [60]
+  EP-Riss-Tabelle                   1 word     1 in   [60]
+  Leitung                           4 word     4 in   [62, 64, 229]
+  Telefon-Stille                    2 word     3 in   [64, 229]
+                                    1      as Telefon-Stille-Anker
+  Wohneinheit 734                   1 word     1 in   [64]
+  Wartungsfenster                   6 word     7 in   [60, 66, 146, 185, 220, 229]
+                                    1      as Wartungsfensters
+  Erasure-Sweeps                    1 word     1 in   [68]
+  Z1                                2 word     4 in   [68, 72, 229]
+  Z2                                2 word     2 in   [68, 72]
+  Z3                                3 word     4 in   [68, 72, 84, 229]
+  Wartungs-Ticket                   1 word     1 in   [72]
+  Lernarchiv Theta-9                1 word     1 in   [72]
+  Halteproblem-Dossier              2 word     2 in   [72, 229]
+  Komplexitäts-Budget               2 word     2 in   [72, 229]
+  Rendering                         2 word     2 in   [72, 229]
+  Prozess-Kern                      2 word     2 in   [72, 229]
+  Oblivion                          5 word     8 in   [56, 74, 76, 218, 229]
+                                    2      as Oblivions
+                                    1      as Oblivion-Arc
+  Silas                             4 word     5 in   [80, 219, 236]
+                                    1      as Silas-Halbsatz
+  Coheron-Echo                      1 word     1 in   [80]
+  Wärme-Kartographie                1 word     1 in   [82]
+  Moonshine-Link                    1 word     1 in   [84]
+  Logos-Prime                       1 word     1 in   [84]
+  Komponente 734                    2 word     2 in   [88, 164]
+  Mnemosyne                         2 word     3 in   [92, 229]
+                                    1      as Mnemosyne-Dossiers
+  Erasure-Pol                       2 word     2 in   [92, 229]
+  Guardians                         2 word     2 in   [92]
+  Hard-B-Kapitel                    6 word     6 in   [96, 166, 220, 229]
+  Algorithmische Melancholie        0 word     0 in   []
+  Restwert                          3 word     3 in   [96, 149, 229]
+  Ausnahme                          6 word     6 in   [96, 149, 218, 229]
+  Ouroboros                         0 word     1 in   [100]
+                                    1      as Ouroboros-Vorbereitung
+  Autoren-Feder                     2 word     2 in   [100, 229]
+  Trennungsprotokoll                2 word     4 in   [116, 129, 229]
+                                    2      as Trennungsprotokolls
+  Genesis                           1 word    16 in   [42, 52, 60, 84, 88, 96]  <-- substring
+                                    5      as Genesis-Flashback
+                                    4      as Genesis-Echo
+                                    3      as Genesis-Motiv
+                                    1      as Genesis-Cluster
+  Klick                            13 word    21 in   [52, 129, 167, 174, 182, 197]
+                                    2      as klicken
+                                    1      as Klick-Disziplin
+                                    1      as Klick-Szene
+                                    1      as Klicken
+  Landauer-Signatur                 1 word     1 in   [133]
+  Ozon-Kopplung                     1 word     1 in   [133]
+  Polaritätsregel                   4 word     4 in   [41, 64, 80, 239]
+  Datenknoten Epsilon               3 word     3 in   [52, 192, 287]
+  Bestände                          7 word     8 in   [72, 184, 198, 229]
+  Zuweisung                         7 word    12 in   [196, 206, 215, 229]
+                                    4      as Zuweisungen
+  Warteschlange                     2 word     3 in   [186, 196, 253]
+                                    1      as Warteschlangen-Zahl
+  Lex                               2 word     4 in   [84, 214, 229]
+  Argus                             1 word     1 in   [215]
+  Nyx                               2 word     2 in   [216, 229]
+  Selene                            1 word     1 in   [217]
+  Juna                              3 word    12 in   [41, 64, 80, 206, 221, 229]  <-- substring
+                                    5      as Junas
+                                    1      as Juna-Zopf
+                                    1      as Juna-Grammatik
+                                    1      as Juna-Spur
+  DATENTYP_FEHLT                    0 word     0 in   []
+  Optionlock                        1 word     3 in   [187, 229, 254]  <-- substring
+                                    2      as Optionlock-Diegese
+  Timelock                          1 word     2 in   [68, 186]
+                                    1      as Timelock-Uhr
+  Avoidance                         4 word     4 in   [56, 181, 229]
+  Pursuit                           2 word     4 in   [56, 182, 229]
+                                    1      as Pursuit-Vorform
+                                    1      as Pursuit-Bewegung
+  Memory                            2 word     2 in   [42, 184]
+  Voll-Konsolidierung               0 word     1 in   [68]
+                                    1      as Voll-Konsolidierungs-Drohung
+  Vortex 1                          1 word     1 in   [171]
+  Vortex 2                          1 word     1 in   [173]
+  Wir-AEGIS-plural                  0 word     0 in   []
+  Mosaik-Herz                       0 word     0 in   []
+  Schicht 2                         0 word     0 in   []
+  Genesis-Flashback                 5 word     5 in   [88, 229]
+  K₁-Reinform                       1 word     1 in   [229]
+  Rauschen                          3 word     5 in   [172, 229, 244]
+                                    1      as Rauschen-Vorzeichen
+                                    1      as Rauschen-Absender
+  Lichtstaub                        1 word     2 in   [92, 229]
+                                    1      as Lichtstaub-Leitmotiv
+  Therapie-Schnittstelle            1 word     1 in   [255]
+  Regel-Exekutor                    3 word     3 in   [202, 255, 287]
+  Phoenix-Mode (lens)               0 word     0 in   []
+  Kant (lens)                       0 word     0 in   []

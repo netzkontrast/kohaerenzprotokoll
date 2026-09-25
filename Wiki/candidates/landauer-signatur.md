@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -110,3 +110,9 @@ Three placements of heat in one document. In the foreshadowing layer, ozone is t
 „jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
 „Diese Hitze ist der somatische Fingerabdruck ihres Kampfes" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]. And Silas' warmth is
 „die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]. The document does not relate them (C11).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+> „eine Spur kalten Ozons“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
+
+**Proposal `[V]`.** F1 proposes cold ozone after each adjustment at Kael’s workplace; its lock table reserves Landauer warmth for Vortex 1 Beat 4 (L239). Silas’ warmth appears elsewhere (L80). The document is itself `[V]` except for quoted anchors (L17), so C11 stays open. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]

@@ -11,6 +11,13 @@ python3 scripts/state.py --prose    # fail on any stale number in this file
 
 ## Questions for the author — noted, not waited on
 
+**F1-1 — are Kael's workplace deviations necessarily K₁ traces?** The newly
+reconciled plot proposal calls that equation an ontological commitment requiring
+an author decision before F1 is encoded (source L251, L262). The Kap-2 draft
+shows a returning value and a spatial discrepancy, but does not establish their
+cause. The read-only [Kap-2 evidence pilot](Plan/concept/chapter-evidence-pilot_2026-09-25.md)
+records both without rewriting the chapter or NCP.
+
 **The author's instruction, 2026-09-24: „Notiere in Zukunft einfach deine Fragen
 und setze fort"**, and the same day: „Sammle alle Fragen und fahre fort". Every
 open question is collected here, with where it came from; the work continues.
@@ -475,7 +482,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 13 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 14 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -614,7 +621,21 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — Alter profiles reconciled
+## Latest document — F1 plot proposal reconciled
+
+**The eighteenth document is done:**
+`kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` was read and reconciled
+on 2026-09-25. Its 13 plot ideas and F1 chapter sequence remain `[V]`; 25
+existing term pages gained attributed proposal readings, and C6, C11, C12 and
+C14 gained source positions. [Reconciliation 19](Wiki/compare/reconcile-19-kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md)
+and the Kap-2 pilot hold the detail. C11 and C12 remain open: this source
+applies cold ozone and places a 734 reveal in Kap 22 without deciding the
+competing earlier readings. The Kap-2 prose already contains the returning
+value, spatial contradiction and foreign syntax. Next: choose an independent
+source for a remaining conflict or use this chapter pilot to define the first
+read-only chapter index; decide F1-1 before encoding its proposed ontology.
+
+### Previous document — Alter profiles
 
 **The seventeenth document is done: `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-09-25.** 336 candidates under decision 012's list rule, no pages, readings on 38 pages, six conflicts and four questions moved, J85–J86, one sweep hit (a reading). `Wiki/compare/reconcile-18-kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md` has the record. It is the file document 16 pointed to for the Alex conflict and the roster.
 

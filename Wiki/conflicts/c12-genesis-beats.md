@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 12
 pages: ["trennungsprotokoll"]
 ---
 
@@ -150,3 +150,7 @@ question.
 Alex „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219] — so „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219].
 „Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] Komponente 734 is Kael's designation (L105), not placed in the Genesis. The same
 [[alex|Alex]] conflict the drafting manual names (its §14.4), here from the profile's side.
+
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**The proposal relates two uses of 734 without ordering the Genesis events.** Kap 22 would show the specification of `Komponente 734` as a file found in Theta-9; the proposal says the number is also Kael's dwelling designation (L88). The F1 table locates flashbacks at Kap 18, 21 and 22 (L229), an order of revelation rather than an explicit order of formation. A Kap-0 `Konsolidierung` of 734 is proposed in the thread table (L164). This source does not settle whether the component formed before or after the `Trennungsprotokoll`.

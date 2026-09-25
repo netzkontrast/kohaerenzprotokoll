@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -54,3 +54,7 @@ Function „konstruktive Selbst-Kritik, Meta-Beobachter" ^[koharenz-protokoll-st
 „Argus (Meta-Kognitiv)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L629], a special category, „weder ANP noch EP im engeren Sinn" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L631]. DKT correlate: „Fraktale." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L643]
 Riss: „Zeno-Effekt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L647] „Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L667]
 His somatics are `[L]`, a proposal from the character bible (L651).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** F1 proposes Argus as the first to notice repeated patterns in assignments, conveyed through questions that need no question mark. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L215]

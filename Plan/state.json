@@ -3,15 +3,15 @@
   "by": "scripts/state.py",
   "measurements": {
     "documents.reconciled": {
-      "value": 17,
+      "value": 18,
       "how": "run directories holding a reconcile.json"
     },
     "documents.with_census": {
-      "value": 17,
+      "value": 18,
       "how": "files in Sources/terms/"
     },
     "documents.with_note": {
-      "value": 17,
+      "value": 18,
       "how": "files in Sources/notes/"
     },
     "entities.lists": {
@@ -31,19 +31,19 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 1541,
+      "value": 1591,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 1806,
+      "value": 1814,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 1806,
+      "value": 1814,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
-      "value": 130,
+      "value": 131,
       "how": "nodes in scripts/graph.py's typed graph \u2014 terms, documents, conflicts, questions"
     },
     "graphrag.cases": {
@@ -99,7 +99,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 3340,
+      "value": 3355,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -167,7 +167,7 @@
       "how": "landed files that do not open with the eight lines of provenance"
     },
     "sweep.decided": {
-      "value": 28,
+      "value": 31,
       "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
     },
     "sweep.open": {
@@ -183,7 +183,7 @@
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
     },
     "trainset.gold_candidate_lists": {
-      "value": 13,
+      "value": 14,
       "how": "candidate lists scripts/gold.py rules gold (decision 009)"
     },
     "trainset.surface_pairs": {

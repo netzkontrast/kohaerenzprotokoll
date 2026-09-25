@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -63,3 +63,7 @@ A hard rule of the Sprach-DNA: „Lex flucht nie. Lex weint nie." ^[kohaerenz-pr
 
 „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168] DKT correlate: „Gödel + Halteproblem." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L180]. Riss: „Endlosschleifen, fraktale Selbst-Widerlegung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L184].
 Consistency anchor: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+**Proposal `[V]`.** F1 proposes Lex as the worker who enjoys precise classification, later mapping and comparing data. In the Kap-2 beat a notation with alien syntax is the proposed first sign of his work (L229). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L214]

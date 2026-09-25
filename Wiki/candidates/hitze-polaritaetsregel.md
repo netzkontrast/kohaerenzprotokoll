@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -58,3 +58,9 @@ Named as the Polaritäts-Lock of 2026-05-30 (J83), with the warmth given to [[si
 „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike. Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
 And as a discipline Nyx's heat must keep: „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395]. Beside it, heat as the Silas–Oblivion
 conflict, „entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — see [[landauer-signatur]] and C11.
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+
+> „Landauer-Signatur = kaltes Ozon“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
+
+**Proposal `[V]`.** F1 places cold ozone after administrative adjustments and excludes warmth from the data node before Act II. Its lock table reserves Landauer warmth for Vortex 1 Beat 4 (L239); the rule is attributed to earlier sources, and C11 remains open. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
