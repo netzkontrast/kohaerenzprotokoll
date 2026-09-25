@@ -3,7 +3,7 @@ id: Q5
 question: Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
-documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 conflict: C6, C9
 gathered: "2026-09-24"
 ---
@@ -140,3 +140,10 @@ bearer is profiled; [[kairos|Kairos]] and [[sophia|Sophia]] do not occur. The Er
 „**Ein Erasure-Pol** — Funktion klar (Löschungs-Exekutive), Name offen." ^[kohaerenz-protokoll-konzept-master-md.md:L509]
 „**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
 Sophia is named once, among the five of earlier drafts (L504). `Cerberus` names KW3, the Cerberus-Labyrinth (L660), and Mnemosyne the archipelago of the [[vortex|Vortex]] (L508).
+
+## 2026-09-25 — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+**No Guardian — and the Erasure-Pol as a voice.**
+The sweep of the separation: „Sweep läuft. Sektor 4 leer. Sektor 5 leer. Sektor 6 leer. Nächster Sektor in Vorbereitung." ^[kap0-v1-annotiert-md.md:L953]
+Annotated: „Erasure-Pol-Stimme (Lösch-Vollzug, bürokratisch-knapp)." ^[kap0-v1-annotiert-md.md:L957]
+The function the other sources give it, deletion carried out, heard in Kap 0 before there are worlds. No Guardian, world or name for the pole stands in the document.
