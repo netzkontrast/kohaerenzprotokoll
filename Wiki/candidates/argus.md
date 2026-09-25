@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -48,3 +48,13 @@ In the glossary's Alter table: role „Meta-Kognitiv" ^[kohaerenz-protokoll-begr
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Function „konstruktive Selbst-Kritik, Meta-Beobachter" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L154], correlate „Fraktale" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L154], language „klinisch, distanziert, Meta-Kommentar in Marginalien" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L154], position „Sonderfall — überall unbequem" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L154]. No chapter entry names him; the table row is his only line in the outline.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Sonderkategorie (weder ANP noch EP im engeren Sinn)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L631] Second trauma layer (L86).
+„Der einzige, der den Fehler in AEGIS' Algorithmus registriert hat — als Erster." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L631]
+„Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L667]
+His riss: „Wo Argus zu lange schaut, friert die Story ein." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L647]
+Somatics a proposal from the character bible, `[L]`: „Vor Verwendung verbindlich setzen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L651]
+In the margins, as an option: „Marginalien-/Fußnoten-Inszenierung als Option, nicht verbindlich." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1080]
+„Argus hat keinen Witz, sondern Schärfe." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L675]
