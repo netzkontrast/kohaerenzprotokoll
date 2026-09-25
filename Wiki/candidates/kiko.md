@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -85,3 +85,9 @@ Kiko carries Freeze and nothing else here; Flight is given to Lia and [[isabelle
 
 Named, not profiled: „In Kap 40 sind diese Echos die Stimmen des Wir — Lex, Nyx, Kiko, Mira, alle." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327] — the echoes AEGIS filed as noise in Kap 0 ([[residual-echos]]).
 Kap 40's voice lets each be heard without a label: „ein Atemzug klingt nach Lex, einer nach Nyx, einer nach Kiko —, ohne dass es als Polyphonie markiert wird." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L335]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform, unnamed in the prose
+
+„Es ist kalt. Ich will nicht. Wo ist — nichts da. Wo ist — nichts. Ich. Bin. Klein." ^[kap0-v1-annotiert-md.md:L181]
+„Kiko-Vorform-Einbruch (User-Choreographie: *leiser Kiko-Einbruch der kindlichen Sensorik des Druck-Spürens*)." ^[kap0-v1-annotiert-md.md:L185] „Syntax-Signatur: kindlich- einfache Wörter, kurze Sätze, Wiederholung, Ellipsen" ^[kap0-v1-annotiert-md.md:L185]
+In the Resonanzkaskade: „Es ist kalt. Es ist wieder kalt. Wo ist — wo war es — wo war ich. Wo war wer. Wo." ^[kap0-v1-annotiert-md.md:L781] — „Kiko-Vorform wieder (Wiedererkennen der Stimme aus Herz der Leere)." ^[kap0-v1-annotiert-md.md:L785]
