@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 12
+sources: 13
 pages: ["trennungsprotokoll"]
 ---
 
@@ -157,3 +157,10 @@ Alex „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteil
 Kap 0: „Komponente 734 wird konsolidiert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164]. The three flashbacks as chapter beats: „Genesis-Flashback Cluster-Bildung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 18,
 „Genesis-Flashback Trennungsprotokoll" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 21, and in Kap 22 „Genesis-Flashback Komp 734" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] — the narrative order in which 734 comes last.
 It counts no beats. Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], the numbering the drafting manual uses for a movement of Kap 0; this document uses the same word for its 41 chapter units (^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L159]) and lists no movements.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Three beats, called canonical, and Komponente 734 the third.** „Die Genesis-Krise (3-Beat, kanonisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L457]:
+unity, the Trennungsprotokoll, and „Kael = Komponente 734 — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
+„Aktuell Lock-In: nein, drei Beats reichen." ^[kohaerenz-protokoll-konzept-master-md.md:L469] Restated among the open points with the verification still
+outstanding (L998). The character bible's order, on its date.
