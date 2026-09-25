@@ -91,5 +91,5 @@ The writer's doubt: „Beurteilung: Grenzfall — Selenes Stimme ist erlaubt zu 
 
 ## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
 
-An ANP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Her style code „Selene kühl-präzise" (L198); with Lex she carries the „kontemplativer Präzision (Lex, Selene)" ^[three-mode-architecture-39-chapters-md.md:L230] of Part 2, and Kap 16 is „Kael (Lex+Selene-Dominanz)" ^[three-mode-architecture-39-chapters-md.md:L260].
+An ANP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135]. Her style code „Selene kühl-präzise" ^[three-mode-architecture-39-chapters-md.md:L198]; with Lex she carries the „kontemplativer Präzision (Lex, Selene)" ^[three-mode-architecture-39-chapters-md.md:L230] of Part 2, and Kap 16 is „Kael (Lex+Selene-Dominanz)" ^[three-mode-architecture-39-chapters-md.md:L260].
 A Wächterin stands in Kap 8, „Kael, Wächterin" ^[three-mode-architecture-39-chapters-md.md:L185], and in Kap 17, „Z1-Korrektur — Wächterin" ^[three-mode-architecture-39-chapters-md.md:L261] — unnamed here (Q4).
