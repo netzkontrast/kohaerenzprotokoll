@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -57,3 +57,10 @@ An entry of the glossary, marked `[K]`: „Formel-Inversion. [K] Die zwei Sätze
 „Anfang (Kap 0): „AEGIS ist, was AEGIS verhindert, dass es nicht ist." — negativ definiertes Sein (Survival-Logik, tautologisch-suizidal)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L91]
 „Ende (Kap 39 → 40): „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist." — positiv definiertes Sein. Strukturell dieselbe Funktion (Bewahrung), gekippte Polarität." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L92]
 And in the entry `Plurale Apotheose`, of Vortex 2: „Formel-Inversion vollzogen." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L615]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+„**Formel-Inversion (Mechanik des Endes).**" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L29]
+„Kap 0: *„AEGIS ist, was AEGIS verhindert, dass es nicht ist."* (negativ definiertes Sein)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L33]
+„Kap 39 → 40: *„Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."* (positiv definiertes Sein) Strukturell dieselbe Funktion (Bewahrung), kippende Polarität." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L34]
+In Vortex 2, Kap 38–39, marked `[K]` (L388): „**Formel-Inversion vollzogen.**" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L390]
