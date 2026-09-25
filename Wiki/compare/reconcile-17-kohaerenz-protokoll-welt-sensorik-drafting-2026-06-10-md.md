@@ -44,7 +44,7 @@ and was located by `read.py`'s own comparison, not typed.
 
 Not given a reading: `rhys` and `selene` occur only in a template's question,
 „Rhys↔Selene?" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L951]; `kohaerenz` only as the name of a protocol (J57); `michael`
-is a surface of `kael`, whose reading carries  (L1188).
+is a surface of `kael`, whose reading carries the lock row `Kein Michael` (L1188).
 
 ## What moved
 
