@@ -1,10 +1,10 @@
 ---
 term: Genesis-Klammer
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 aliases: ["Doppel-Klammer"]
 gathered: "2026-09-25"
 ---
@@ -128,6 +128,13 @@ Its table pairs each Kap-0 movement with its echo and names what changes: the Vo
 counterpart — „kein Schluss-Bild in Kap 0 außer Scherben-Fall“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L629] —
 „Auftakt → Resolution-ohne-Erklärung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L629].
 In its lock index: „Kap 0 ↔ Kap 40 zusammen denken; Kap 40 ist Echo, nicht Wiederholung“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1176].
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+The frame as written, Kap 40 first: „Die Kapitel folgen der ontologischen Klammer, nicht der Lese-Ordnung. Kapitel 40 zuerst, weil das Echo den Originalton trägt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L17]
+Kap 40's movements are echoes of Kap 0's: „Echo des Vorworts" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L25], „Echo der Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L49], „Echo der Krise" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L73], „Echo des Trennungsprotokolls" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L97], and „Letztes Bild" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L121].
+Words carried from one to the other: „Eine Wärme, die es nicht geben kann" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L401] in Kap 0, „Es war Wärme, die nicht hätte sein können" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L75] in Kap 40; „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513] and „Wir tragen die Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123]
+Kap 40's last image carries both endings the other sources give: „Wir tragen die Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123] and „Das Universum hält. Wir sind die, die es halten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L147]
 
 ## Where the sources differ
 
