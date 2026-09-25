@@ -50,9 +50,10 @@ Whether a first-person inner view that never says `Ich` is what the lock means,
 no source says.
 
 **Found while reconciling `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`.** [[aegis]] held
-rows 2, 5 and 6 and document 7's third-person rule. Row 1, document 7's lock and
-row 4 stood in their documents and on no page, and no record held the
-disagreement.
+the third-person side — rows 2 and 5, document 7's rule on L206, and row 6's
+never `Ich`. The first-person side stood in the documents and on no page: the
+lock of rows 3 and 4, and row 6's first-person view (its L583). Row 1 was on no
+page either, and no record held the disagreement.
 
 ## The author: every draft is back in question
 
