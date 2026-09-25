@@ -1,10 +1,10 @@
 ---
 term: Potentialmeer
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-17"
 ---
 
@@ -54,3 +54,8 @@ AEGIS' Verletzlichkeit." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-
 One line, among what comes before Storyform B is active: „Es gibt das Ursprungs-Ich im Potentialmeer, das Funken-Ich in der Werdung, das frühe Cluster, den Sog der Ordnung" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]
 „alles das ist nicht "B in Aktion", sondern *die Werdung der Voraussetzungen für B*." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]
 The Potentialmeer is not defined here; the first beat's other party is the Reinform (L158; [[nichts-rauschen]]).
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+In AEGIS' telling of the void: „Sie war ein Substrat — ein Potentialmeer unendlicher Zustände, ein Grundrauschen latenter Information, das als *Nichts-Rauschen* indexiert wurde: die Negation dessen, was das System selbst war." ^[kap0-v1-annotiert-md.md:L545]
+The perturbation comes out of it: „Kein Objekt, das sich durch den Raum bewegte, sondern eine Manifestation, eine Emergenz aus dem Potentialmeer selbst." ^[kap0-v1-annotiert-md.md:L581]
