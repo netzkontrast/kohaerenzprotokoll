@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -63,3 +63,10 @@ A hard rule of the Sprach-DNA: „Lex flucht nie. Lex weint nie." ^[kohaerenz-pr
 
 „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168] DKT correlate: „Gödel + Halteproblem." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L180]. Riss: „Endlosschleifen, fraktale Selbst-Widerlegung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L184].
 Consistency anchor: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the best clerk of the node
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„liebt die Arbeit — der beste Sachbearbeiter des Knotens, tragisch; später Kartograph und Vergleicher" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L214].
+The warm-place map: „Akt-II-Schatzsuche mit Lex als Kartograph" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]. His first intrusion is a note in Kael's drafts, „erster Lex-Einbruch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 2.
