@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["trennungsprotokoll"]
 ---
 
@@ -101,3 +101,14 @@ It explicitly calls this chapter allocation a proposal ^[koharenz-protokoll-konz
 A later memory need not reproduce event order. This source therefore supports
 734-before-separation in the event sequence; it does not decide which of the
 other sources' alternative sequences the author chooses.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Four beats, from two of its sources, and no Komponente 734 among them.** As a
+lock attributed to the konsolidiertes Konzept: „Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174];
+as a lock of 2026-05-31 from the Kompendium: „vier Beats (mit Wir-AEGIS-plural als Beat 4)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1212].
+The second beat is `Cluster`, not 734. Kap 0's crisis ends in the
+[[trennungsprotokoll|Trennungsprotokoll]] (L627). It also reports, from the Kap-0 annotation, an
+Alex-Vorform choreographed before the Trennungsprotokoll (L1461) — a voice before
+the separation, which it leaves open as its own §14.4. It does not place 734
+before or after.
