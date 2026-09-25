@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -45,3 +45,10 @@ Aktivität (Erasure-Sweeps, Erasure-Logs)." ^[kohaerenz-protokoll-begriffe-und-k
 
 The other pole of the Korrelat-Achse: „Atemporal/Coheron (Silas ↔ Juna) ↔ Temporal/Erason (Oblivion ↔ AEGIS)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77]
 Oblivion's DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755] „Die einzige Alter, die aktiv löscht." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Erasonen sind irreversible Löschungsereignisse. Sie erzeugen den Zeitpfeil." ^[kohaerenz-protokoll-konzept-master-md.md:L119] (J24, a plural)
+„Jede Erasion ist ein Vorher/Nachher — die Information existierte, dann existiert sie nicht mehr." ^[kohaerenz-protokoll-konzept-master-md.md:L119]
+„Ohne Erasonen gibt es keine Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L107] [[oblivion|Oblivion]] is the „Erason-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L400].
+A final fusion would make heat: „Erason-Hitze erzeugen würde" ^[kohaerenz-protokoll-konzept-master-md.md:L420].
