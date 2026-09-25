@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -130,3 +130,11 @@ weißes Licht, 21°C" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.
 Its temperature is „konstant 21°C" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] — „bis sie es nicht mehr ist" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] — and the number is
 „diegetische Bilanzgrenze; jede Abweichung ist Signal." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] Its logic: „Computational Class P" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L71].
 The Konstrukt-Stadt *is* KW1 here, as the author decided for C9.
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**KW1** — „KW1 — Konstrukt-Stadt / Logos-Prime." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] Consistent with the author's decision on C9;
+`Logos-Prime` again as a second name (J49).
+„Computational Class P. Sterile Geometrie. Atemzählung als Somatik." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213]
+„Metaphernverbot. Dominanz von Kael-Host und Lex." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] Its style level, Akt I, Kap 1–13:
+„Kalt, steril, geometrisch." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L181]
