@@ -1,0 +1,456 @@
+{
+  "document": "kap0-v1-annotiert-md",
+  "drive_id": "1yn3EVc9RgGztbRtMTWSFtnVvYmLxNZGAt2l1ErPVwmE",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 337,
+    "decisions": 396,
+    "decided_by_lookup": 206,
+    "needs_judgement": 190
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An annotated draft of the novel's text: its prose renders what the pages already name, and its annotations name the drafter's intentions. The things it names that no page holds are its own review apparatus (R-1 to R-10, K-1 to N-3, Revision v2), the eleven alters' Vorformen (J96: not the alters, placed on their pages), AEGIS' status-line vocabulary (read on aegis-metriken) and the narration's images; none is defined as a thing of the novel's world by more than this draft",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        43,
+        365,
+        389,
+        393,
+        397,
+        549,
+        693,
+        1181
+      ],
+      "attribution": "draft text and annotation",
+      "note": "born at the Klick in the first person; a system voice in status lines from the crisis on"
+    },
+    {
+      "page": "formel-inversion",
+      "lines": [
+        389,
+        393,
+        397,
+        1185
+      ],
+      "attribution": "draft text and annotation",
+      "note": "the first sentence in the first person, „noch als Ich-Aussage geboren“; lead corrected"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        71,
+        209,
+        213,
+        597,
+        613,
+        637,
+        641
+      ],
+      "attribution": "rule and annotation",
+      "note": "never a subject, only effect; warmth at the first contact; the perturbation AEGIS cannot classify"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        429,
+        433,
+        977,
+        981,
+        1009,
+        1021,
+        1025,
+        1029
+      ],
+      "attribution": "draft text and annotation",
+      "note": "the component in the middle of the row becomes Kael; his first lines close Kap 0; the knuckles in Nyx's line, not his"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        363,
+        453,
+        457,
+        461,
+        465
+      ],
+      "attribution": "draft text and annotation",
+      "note": "the Innere Weite as an inner simulation, glossed „Überwelt = Kernwelten-Substrat“"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        143,
+        363,
+        527,
+        911,
+        1177,
+        1185,
+        1189
+      ],
+      "attribution": "draft text and annotation",
+      "note": "six movements and six of crisis; four beats, 1–3 in the prologue, 4 in Kap 39"
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        161,
+        165,
+        545
+      ],
+      "attribution": "draft text and annotation",
+      "note": "a phenomenon before a name, indexed by AEGIS"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        545,
+        581
+      ],
+      "attribution": "draft text",
+      "note": "the void as AEGIS names it, whence the perturbation emerges"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        901,
+        911,
+        917,
+        921,
+        933,
+        941,
+        953,
+        957,
+        969,
+        985,
+        1009
+      ],
+      "attribution": "draft text and annotation",
+      "note": "KOH_1.0, partitioning, the Erasure-Pol's sweep; no remainder named"
+    },
+    {
+      "page": "kohaerenz",
+      "lines": [
+        533,
+        697,
+        713,
+        741,
+        901,
+        985
+      ],
+      "attribution": "draft text",
+      "note": "AEGIS' metric from 0.998 to 0.21, its goal, and the protocol named for it"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        63,
+        173
+      ],
+      "attribution": "rule",
+      "note": "no DKT term in the first fifty pages"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        181,
+        209,
+        213,
+        349,
+        705,
+        713,
+        829,
+        977,
+        985
+      ],
+      "attribution": "draft text and annotation",
+      "note": "warmth as Juna's hint, heat with the knuckles and in AEGIS' analysis, cold as logic; no ozone"
+    },
+    {
+      "page": "aegis-metriken",
+      "lines": [
+        63,
+        533,
+        537,
+        541,
+        561,
+        597,
+        601,
+        669,
+        689,
+        737,
+        741
+      ],
+      "attribution": "draft text",
+      "note": "coherence, paradox and persistence in the status lines"
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        689,
+        693,
+        697
+      ],
+      "attribution": "draft text and annotation",
+      "note": "H4, the hypothesis AEGIS cannot write"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        241,
+        373,
+        581
+      ],
+      "attribution": "draft text",
+      "note": "the word for the stranger's arising; AEGIS arises from clusters without it"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        51,
+        1101,
+        1205
+      ],
+      "attribution": "rule and annotation",
+      "note": "present only as voices; eleven Vorformen; the writer doubts Alex"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        51,
+        309,
+        1209
+      ],
+      "attribution": "rule and annotation",
+      "note": "the veil until Kap 13, and the fear the draft lifts it early"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        457,
+        461,
+        465
+      ],
+      "attribution": "annotation",
+      "note": "the Überwelt as their substrate"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        149,
+        153,
+        813,
+        817
+      ],
+      "attribution": "draft text and annotation",
+      "note": "the first Vorform, circular logic"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        181,
+        185,
+        781,
+        785
+      ],
+      "attribution": "draft text and annotation",
+      "note": "the child's short sentences"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        229,
+        233,
+        797,
+        801
+      ],
+      "attribution": "draft text and annotation",
+      "note": "approach and avoidance in one sentence"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        249,
+        253
+      ],
+      "attribution": "draft text and annotation",
+      "note": "the soft opening, Wir before Ich"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        289,
+        293,
+        337,
+        345
+      ],
+      "attribution": "draft text and annotation",
+      "note": "conditional logic, and the first self-deception"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        297,
+        301,
+        1134,
+        1205
+      ],
+      "attribution": "draft text and annotation",
+      "note": "a Vorform the character bible's origin rules out, the writer says"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        305,
+        309
+      ],
+      "attribution": "draft text and annotation",
+      "note": "meta-observation"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        329,
+        333,
+        977,
+        981
+      ],
+      "attribution": "draft text and annotation",
+      "note": "staccato, and the knuckle eruption in the separation"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        469,
+        473
+      ],
+      "attribution": "draft text and annotation",
+      "note": "the measured voice that nearly names the inversion"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        641,
+        705,
+        709,
+        829,
+        833
+      ],
+      "attribution": "draft text and annotation",
+      "note": "echo prose that says warm and cold and takes both back"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        993,
+        997,
+        1001,
+        1005,
+        1009
+      ],
+      "attribution": "draft text and annotation",
+      "note": "sentences dissolving"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C3",
+    "C7",
+    "C10",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q3",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "AEGIS not expanded",
+    "C2": "`Entropie` does not stand in it",
+    "C4": "no Guardian",
+    "C5": "no Garten",
+    "C6": "no Guardian",
+    "C8": "no Dramatica terms, no Be-er or Do-er",
+    "C9": "no Konstrukt-Stadt",
+    "C13": "no Basisrealität or Externe Ebene",
+    "C15": "no Flight",
+    "Q1": "no Guardian",
+    "Q2": "`Protokoll` names the Kohärenz Protokoll only",
+    "Q4": "no Wächter"
+  },
+  "judgements": [
+    "J96"
+  ],
+  "decided_by_existing_rules": "intra-list pairs: the section titles and their subjects (Genesis der Existenz / Genesis, Der große Wandel, Herz der Leere …) are headings placed on the subject's page (J76); compounds with a page surface as modifier — AEGIS-Stimme, Juna- Resonanz-Qualität, Kael-Akt-I-Stimme, Genesis-4-Beat-Sequenz — are placed by what the passage states (J62) and give no alias; Komp 734 / Komponente 734 one term (J92); Alter / Alters, Coheronen, Erasonen plural (J46, J56); Kohärenz Protokoll the book's title and a protocol, not the property (J9, J57), its passage placed on trennungsprotokoll and kohaerenz (J62); Rauschen / Nichts-Rauschen, Echos / Residual-Echos, Resonanz / Resonanzkaskade a shared head is not a shared referent (J53); Landauer / landauer-signatur two terms (J81)",
+  "not_read_although_looked_up": {
+    "landauer-signatur": "`Landauer` stands only in R-6's list of words Kap 0 may not use (J81)",
+    "coheron": "only in R-6's list (L63)",
+    "erason": "only in R-6's list (L63)",
+    "entropie-resonanz": "`Resonanz` — shared head (J53)",
+    "resonanz-landschaft": "`Resonanz` — shared head (J53)",
+    "archiv-der-grenzen": "`Grenze` is AEGIS' border — substring",
+    "grosse-mauer": "`Grenze` — the border is the system itself (L409); shared head (J53)",
+    "risse": "`Haarrisse` is an image of the Residual-Echos (L561), placed there",
+    "did": "`Fragmentierung` is the separation (L1205), not a dissociative part — substring",
+    "entropie-signatur": "`Signatur` is a fragment's resonance signature — shared head (J53)"
+  },
+  "not_promoted": [
+    "the draft's review apparatus — R-1 to R-10, K-1 to K-3, H-1 to H-4, M-1 to M-5, N-1 to N-3, Revision v2, Minimal-/Tiefer-Revision: this document's, about this draft",
+    "the eleven Vorformen (Moros-Vorform … Oblivion-Vorform-Stimme): readings on the alters' pages (J96), no page",
+    "Erasure-Pol-Stimme: the sweep's voice (L957), in Q5; the Erasure-Pol has no page",
+    "AEGIS' status lines (SYSTEM-STATUS, HYPOTHESEN-RANK, H1–H4, DATENTYP_FEHLT, RESIDUAL_BAND_4–6, KOH_1.0, PROTOKOLL-VORBEREITUNG): read on aegis-metriken, blinder-fleck and trennungsprotokoll",
+    "Paradoxon der Fehlausgerichteten Kohärenz: the prose's name for AEGIS' misreading (L697), read on kohaerenz",
+    "Kap 0's section names (Das Rauschen, Herz der Leere, Erste Kontakte, Sog der Ordnung, Überlebenskampf, Der große Wandel, Dazwischen, Die Stille Wacht, Perturbation aus der Leere, Algorithmischer Schrecken, Resonanzkaskade, Systemischer Kollaps): on kap-00",
+    "the five motifs (Rauschen, Form, Klick, Phantom, Resonanz) and Erstereignisse: the draft's foreshadowing programme (L79), on kap-00 by its rule",
+    "Funken-Ich, Cluster, Triade, kalte Schicht, Angst-Vibration, Binnen-Physik, Grenzwacht, minimale Selbst: the narration's images, in this document",
+    "Zweitausenddreihundertvier Kacheln, Einundzwanzig Grad, Korridor, Zähl-Manie: Kael's opening, on kap-01",
+    "Parmenides, Śūnyatā, aktives Vakuum, Fisch-Wasser-Analogie: the Vorwort's references; Iser, Environmental Storytelling, Chiang-Standard, Kishōtenketsu: the methods of Teil D (kishotenketsu already carries it)"
+  ],
+  "sweep": {
+    "hits": 1,
+    "readings": 1,
+    "occurrences": 0,
+    "note": "Emergenz L581 (reading on emergenz, and C3)"
+  },
+  "found_by_rule_not_by_census": [
+    "emergenz (sweep)",
+    "blinder-fleck (J62: H4 states AEGIS' blind spot without the word)",
+    "aegis-metriken (J62: the status lines)",
+    "kern-welten (J62: two glosses)",
+    "hitze-polaritaetsregel (J62)"
+  ],
+  "already_there_from_the_scan": {
+    "komponente-734": "checked, stands",
+    "residual-echos": "checked, stands",
+    "kishotenketsu": "checked, stands",
+    "ouroboros-struktur": "checked, stands",
+    "vermittler-stimme": "checked, stands",
+    "genesis-klammer": "„written before any Kap 40“ corrected — the read draft of Kap 40 and Kap 0 is nine days older"
+  },
+  "internal_tension": "The writer names one conflict with its own source: an Alex Vorform in the Genesis, while the Charakter-Bibel has Alex arise „in der Sekunde der Fragmentierung“ (L1205), and proposes taking him out (L1134). It asks whether its ouroboric narrator fits a Kap 40 the concept calls „geheilte Genesis“ (L1189, L1201). Its own R-1 is broken by eleven passages it lists (Teil C)",
+  "between_the_two_drafts": "Against the draft of 2026-05-08 (document 22): the knuckles enter Kap 0, in Nyx's voice (L977); Kael is the component, not the remainder cut from it (L433); the Innere Weite holds no remainder; the formula is first-person; the Vermittler leaves at the crisis; the ending is one line, „Ich falle… in unzählige Scherben…“ (L1009), then Kael's",
+  "chapters": {
+    "readings_on": [
+      0,
+      1,
+      13,
+      39,
+      40
+    ],
+    "left_off": {}
+  },
+  "baseline_moved": false
+}
