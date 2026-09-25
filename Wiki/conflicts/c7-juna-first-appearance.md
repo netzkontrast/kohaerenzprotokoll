@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 12
 pages: ["juna"]
 ---
 
@@ -135,3 +135,9 @@ The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]], in the [[extern
 
 **Kap 38, as a locked mode.** „Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]
 — „gelockt 2026-05-30" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]. Kap 33 is not named. The Kap-38 side, with the date of the lock that set it.
+
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+**Kap 38 Beat 3, with an effect before it.** „Ab Beat 3 (Junas Erscheinung [K]) ruht der Faden vollständig." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+Before it she is an effect only: „Junas Kanal" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 30, a telephone line in Kap 7, 24 and 39 (^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]), and a record with no type from Kap 18,
+„Juna im Faden ausschließlich als unbedienbares leeres Feld" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L242]. Kap 33 has „der Datensatz ohne Datentyp" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], untouched since Kap 18 — her effect at the core, not her appearance.
