@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,15 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Umgebungskontrollen werden offen feindselig oder restriktiv, zuvor zugängliche Bereiche werden abgeriegelt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „Guardians wechseln von Überwachung/Korrektur zu aktiver Jagd oder Eindämmung von Kael“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
 - Story: „seinen neuen Status als 'kritische Bedrohung' oder 'abtrünnige Entität'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L375]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Ordinary World: Entschlossenheit“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L879]
+Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L193]
+
+- Stage: „HR-außen Stufe 1: Ordinary World mit Entschlossenheit“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L881]
+- POV: „POV: Kael (Wir, klar)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L881]
+- Plot beats: „Kael agiert mit klarer Absicht, nicht mehr reaktiv. Autoren-Feder-Modus. Vorbereitung zur Konfrontation.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L889]
+- Storyform: „OS-S3 (B) Progress — AEGIS spürt Kaels neue Linearität; Architektur degradiert sichtbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L885]
+- Characters: „Wir-Geflecht (alle Alters in funktionaler Multiplizität), AEGIS (countdown-bewusst)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L893]
+- Sensorik: „Autoren-Feder, klare Linien“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L897]

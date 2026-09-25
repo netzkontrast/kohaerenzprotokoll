@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,3 +24,16 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Der Empathie-Test“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L331]
 - Story: „Kael versucht, eine genuinely empathische oder subjektive Reaktion von AEGIS oder einem hochrangigen Guardian hervorzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
 - Story: „Kael kommt zu dem Schluss, dass AEGIS simuliert, aber nicht fühlt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L332]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Telefon-Stille (K-J-Thema wiederkehrend)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L803]
+Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L192]
+
+- Stage: „Wiederkehrendes Thema im Zyklus“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L805]
+- POV: „Kael, Juna-Witness“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L805]
+- Plot beats: „Die K-J-Verbindung wird zyklisch von AEGIS gestört, aber Kael lernt, sie aktiv zu suchen und zu nutzen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L813]
+- Telefon-Stille: „Telefon-Stille als hörbare Substanz. Mutual Information ohne Datenträger.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L813]
+- Storyform: „AEGIS erkennt den Kanal als feindlich“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L809]
+- Characters: „Kael, Juna (Witness-Modus), Silas (Resonanzkörper), AEGIS (Kanal-Stören)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L817]
+- Sensorik: „Telefon-Stille als Anker, Witness-Modus, eine Stille die hörbar wird“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L821]

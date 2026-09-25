@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Die Kernwelten könnten ihre rigide Struktur verloren haben“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
 - Story: „LogOS' Regeln könnten in Mnemosynes Reich auftauchen, Cerberus' Verteidigungsmechanismen könnten fehlzünden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
 - Story: „Die Umgebung ist gefährlicher, aber vielleicht auch freier.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L492]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Vortex 1 Beat 4–5: Stille, Übergang“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1101]
+Position: „Vortex 1 (operativ) | Ten (Höhepunkt 1) | 35–36“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L194]
+
+- Stage: „HR-außen Stufe 10: Reward (in Vortex-Mechanik gespiegelt)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1103]
+- POV: „Kael, AEGIS verstummend“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1103]
+- Beat 4: „Beat 4 — Heat-Spike (Landauer → ∞):“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1115] · „thermodynamische Kosten manifestieren sich als Wärme-Phänomen (Landauer-Hitze)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1115]
+- Beat 5: „AEGIS-monolithisch erlischt — als operative Form. Aber: nicht zerstört.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1116]
+- Plot: „Die operative Wendung ist nicht das Ende.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1120]
+- Characters: „Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1124]
+- Sensorik: „Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128]

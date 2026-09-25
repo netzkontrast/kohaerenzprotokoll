@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael inszeniert eine Situation über mehrere Standorte hinweg oder unter Einbeziehung mehrerer Guardians gleichzeitig“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „koordinierte Aktionen mit Juna/V“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
 - Story: „ein teilweises Einfrieren der Logik innerhalb von AEGIS' zentraler Verarbeitung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L440]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Tests, Allies, Enemies: Systemkampf“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L999]
+Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L193]
+
+- Stage: „HR-außen Stufe 6: Prüfungen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1001]
+- POV: „Polyphoner Kael + Oblivion (erste längere POV-Szene, OQ-E)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1001]
+- Plot beats: „Kael muss AEGIS' logische Verteidigungen, Simulationstricks, loyale Subsysteme überwinden.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1009]
+- Oblivion: „Oblivion tritt als POV-Träger auf — Lösch-Prosa, sich selbst auslöschende Sätze“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1009]
+- Storyform: „OS-S3 (B) — Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005]
+- Sensorik: „logische Labyrinthe, Echo-Räume, eine Stimme die seine Stimme imitiert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1017]
+- Open question: „Kap 31 (Silas-POV), Kap 32 (Oblivion-POV) sind Vorschläge“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1373]

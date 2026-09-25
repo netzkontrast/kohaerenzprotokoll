@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,3 +24,16 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Das Schlupfloch-Verzeichnis“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L253]
 - Story: „eine Regel, die von LogOS in KW1 streng durchgesetzt wird, von Cerberus in KW3 leicht anders oder weniger rigoros interpretiert wird“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
 - Story: „eine mentale (oder versteckte physische/digitale) Liste dieser kleineren Exploits und Inkonsistenzen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L254]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Z2-Destabilisierung + Genesis-Flashback (Cluster-Bildung)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L659]
+Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L192]
+
+- Stage: „Zyklus 2, Stufe 1“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L661]
+- POV: „Kael (multi-alter, dyssynchron) + Genesis-Flashback-Stimme“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L661]
+- Storyform: „Storyform: A‖B“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L661]
+- Plot beats: „Kael versucht eine komplexe Aufgabe über mehrere Kernwelten zu lösen. Cache-Konflikt zwischen Anteilen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L669]
+- Genesis flashback: „Erster Genesis-Flashback (Bridge): Cluster-Bildung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L669] · „er erlebt sie als fremde Daten, nicht als seine eigene Erinnerung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L669]
+- Sensorik: „asynchrone Sensorik, Glitch-Texturen, Räume die nicht zueinander passen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L677]
+- Open question: „Kap 18, 21, 22 als Flashback-Träger gesetzt; exakte Beat-Verteilung offen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371]

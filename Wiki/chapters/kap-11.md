@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,3 +26,16 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael wird in KW1 mit einem Problem oder einer Aufgabe konfrontiert, die eine Lösung erfordert, die auf Empathie, Intuition oder Kontextverständnis basiert“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „was zu absurden, falschen oder endlos schleifenden Ergebnissen führt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
 - Story: „Kael findet möglicherweise eine Lösung, indem er einen 'nicht-logischen' (aus KW1s Perspektive) Ansatz anwendet“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L159]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Mosaik des Selbst“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L487]
+Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L191]
+
+- Stage: „HR-Erweiterung 2: Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489]
+- POV: „POV: Kael (Wir-Geflecht)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L489]
+- Plot beats: „Kael akzeptiert seine innere Vielfalt als Stärke, nicht als Fehler. Mosaik-Bildung als bewusste Tätigkeit.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L497]
+- Discipline: „Aber: das Wort … fällt nicht. Die Multiplizitäts-Schleier-Disziplin hält.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L497]
+- Characters: „alle ANPs (Lex, Alex, Rhys, Selene), erste vorsichtige Spuren von EPs (Kiko sehr leise)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L501]
+- Sensorik: „Mosaik, Scherben als Muster“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L505]
+- Genesis echo: „Mosaik-Herz als Vorgriff auf plurale Bewahrung in Kap 39.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L505]

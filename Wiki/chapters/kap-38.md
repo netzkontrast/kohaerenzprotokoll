@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,3 +24,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Subplot idea: „Das kreative Chaos“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L517]
 - Story: „In der instabilen Umgebung nach AEGIS' Fall (oder Schwächung)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518] · „neue, seltsame 'Lebensformen' oder Strukturen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
 - Story: „Die 'Entropie', die AEGIS fürchtete, erweist sich als Quelle für Neues und Unerwartetes“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L518]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Die Resonanz, die ankommt (Vortex 2 Beat 1–5)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1158]
+Position: „Vortex 2 (ontologisch) | Ten → Ketsu | 38–39“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L196]
+
+- Stage: „HR-außen Stufe 12 (Road Back, ontologisch):“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1160]
+- POV: „Kael (Wir-Geflecht), Juna (erste direkte Erscheinung)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1160]
+- Beat 1: „Beat 1 — Das Rauschen kommt: sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1172]
+- Beat 2: „Der trügerische Sieg ist als trügerisch identifiziert.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1173]
+- Beat 3: „Beat 3 — Junas erste direkte Erscheinung: sie ist einfach da, ohne Worte, ohne Anweisung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1174]
+- Beat 4–5: „Plurale Bewahrung als Lösung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1175] · „das Wir entscheidet, ins Ouroboros zu gehen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1176]
+- Genesis echo: „die Resonanz aus Kap 0 ist hier in geheilter Form“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1184]

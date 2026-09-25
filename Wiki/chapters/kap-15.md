@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „Kael führt absichtlich Aktionen durch, von denen er weiß, dass AEGIS sie überwacht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Story: „Er beginnt, eine mentale (oder tatsächliche) Karte des Überwachungsnetzes zu erstellen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L215]
 - Discussion: „Dieser Subplot macht Kael zu einem aktiven Ermittler des Systems.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L216]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Z1-Destabilisierung: Trigger“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L587]
+Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L192]
+
+- Stage: „Zyklus 1, Stufe 1“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L589]
+- POV: „Kael, Schatten-Anteil“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L589]
+- Plot beats: „Ein Trigger in einer Kernwelt (KW2-Rand) reaktiviert Trauma-Angst.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L597] · „Nyx wird erstmals deutlich sichtbar.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L597]
+- Characters: „Kiko als kindliche Angst-Reaktion im Hintergrund.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L597]
+- Storyform: „MC-Problem Avoidance reaktiviert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L593]
+- Sensorik: „Schattenwurf, Babymonster-Welt-Resonanz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L605]

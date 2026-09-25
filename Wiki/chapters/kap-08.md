@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael versucht, auf eine spezifische traumatische Erinnerung zuzugreifen oder sie abzurufen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „nicht vergessen, aber vielleicht 'verschwommen', 'korrumpiert' oder emotional 'gedämpft'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
 - Story: „vielleicht interveniert ein Guardian wie Mnemosyne subtil, um Kaels Gedanken umzulenken“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120] · „Kael könnte 'Lücken' oder Inkonsistenzen in seiner eigenen Erzählung finden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L120]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Die Wächterin“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L415]
+Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L191]
+
+- Stage: „HR-Stufe 8: Wiedergeburt — Heilung des Männlichen im Inneren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L417]
+- POV: „Kael, Wächterin-Funktion (Selene) sichtbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L417]
+- Plot beats: „Kael beginnt, die logischen/kontrollierenden Anteile (Lex, Alex) mit Mitgefühl zu sehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425]
+- Selene: „Selene tritt erstmals als ISH-Funktion auf — vermittelt, ohne zu kämpfen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425]
+- Discipline: „Erste Wir-Stimme-Andeutung. Das Wort Alters fällt nicht.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425]
+- Storyform: „RS-Psychology B beginnt sichtbar zu werden — Host-System-Verstrickung wird komplex“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L421]
+- Sensorik: „Licht, das durch Architektur fällt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L433]

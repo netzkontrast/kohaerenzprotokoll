@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Kael durchdringt AEGIS' letzte Verteidigungsanlagen und erreicht einen konzeptuellen oder simulierten Raum, der AEGIS' Kern repräsentiert.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Hier konfrontiert Kael die ultimative Quelle des Paradoxons (Kapitel 17)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
 - Story: „Die Konfrontation könnte weniger ein Kampf als ein Moment des Verstehens, der Intervention oder des Erzwingens einer fundamentalen Wahl für AEGIS sein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L466]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Konfrontation: Zwei Arten der Kohärenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1047]
+Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L193]
+
+- Stage: „HR-außen Stufe 8: Ordeal-Vorbereitung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1049]
+- POV: „Kael (Wir) vs. AEGIS (Makro-Log)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1049]
+- Plot beats: „Kael (Wir) konfrontiert AEGIS direkt. Mosaik-Herz vor Vortex.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057]
+- Plot beats: „AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte (bezeugende). Orkan vs. Sphäre.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057]
+- Storyform: „A‖B in maximaler Vor-Vortex-Spannung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1049]
+- Characters: „Mnemosyne (am Setting)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1061]
+- Tonale Achse: „auch AEGIS leidet, ohne es zu wissen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1065]

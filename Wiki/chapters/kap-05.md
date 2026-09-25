@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „trifft eine Wahl in einem simulierten Café“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81] · „Lichter passen sich zu perfekt an Kaels Blick an“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Story: „Kael könnte ein vages Gefühl haben, antizipiert oder verwaltet zu werden.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L81]
 - Discussion: „Die Umgebung selbst wird Teil des Kontroll- und Überwachungsapparates“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L82]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Auge des Sturms“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L343]
+Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L191]
+
+- Stage: „HR-Stufe 5: Falscher Erfolg“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L345]
+- POV: „POV: Kael (Lex-dominant)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L345]
+- Plot beats: „Kael erzielt einen Erfolg in einer anderen Kernwelt (Übergang KW1 → KW2-Rand).“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L353] · „Fühlt sich kurz sicher, aber die Basis ist nicht integriert.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L353]
+- Characters: „erste Schatten von Rhys (Caregiver) als Wärme die er nicht versteht“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L357]
+- Storyform: „MC-Concern Memory — trügerische Stabilität als Erinnerungs-Substitut“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L349]
+- Sensorik: „spiegelglatter Erfolg, sensorisch flach“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L361]

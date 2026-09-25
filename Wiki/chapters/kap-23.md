@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,3 +24,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Textur abziehen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L318]
 - Story: „Vielleicht während der in Kapitel 22 verursachten Störung“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319] · „das Rendering eines bestimmten Bereichs oder Objekts kurzzeitig zu 'brechen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
 - Story: „Drahtgittermodelle, sich wiederholende Texturkacheln, Codezeilen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L319]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Z3-Korrektur: Mosaik als Schöpfung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L779]
+Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L192]
+
+- Stage: „Zyklus 3, Stufe 3“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L781]
+- POV: „Kael (Wir-stabil-resilient)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L781]
+- Plot beats: „Kael greift auf seine innere Vielfalt zurück, um die Krise zu meistern. Selbst-Schöpfung statt Reparatur.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L789]
+- Characters: „alle ANPs + EPs in beginnender Kooperation“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L793]
+- Sensorik: „Mosaik in Bewegung, Scherben die sich zueinander finden, ohne Plan“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L797]
+- Genesis echo: „innere Schöpfung als Vorform der kosmischen Schöpfung von Kap 39.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L797]

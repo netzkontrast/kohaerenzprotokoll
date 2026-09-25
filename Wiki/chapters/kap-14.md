@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Punkte verbinden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L201]
 - Story: „Ausgelöst durch die Ereignisse von Teil 1“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
 - Story: „Etwas betreibt diesen Ort. Etwas Intelligentes.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202] · „Er gibt ihm einen Namen (oder erfährt seinen Namen): AEGIS.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L202]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Bruch des Gleichgewichts“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L563]
+Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L192]
+
+- Stage: „Zyklus-Position: Bruch (Rahmen vor Z1)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L565]
+- POV: „Kael, kurzer AEGIS-POV möglich“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L565]
+- Storyform: „A‖B beginnt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L565]
+- Plot beats: „AEGIS initiiert Phase 2: Stress-Test Delta-7 (moralisches Dilemma). Kaels neu gefundene Balance wird getestet.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573]
+- Mnemosyne: „Mnemosyne tritt erstmals deutlich auf — sie agiert subtil, manipulativ“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573]
+- Sensorik: „zerbrochene Fassade, Sprünge im Raum“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L581]

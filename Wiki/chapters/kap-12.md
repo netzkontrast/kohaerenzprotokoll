@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,15 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael erreicht einen kleinen, aber signifikanten Moment der internen Synthese oder Kooperation zwischen zwei zuvor widersprüchlichen 'Alters'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „Man könnte sehen, wie AEGIS versucht, Kael zu 'debuggen'“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
 - Story: „AEGIS könnte sogar versuchen, den vorherigen Konfliktzustand wiederherzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L172]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Stille der Mitte“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L511]
+Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L191]
+
+- Stage: „HR-Erweiterung 3: Innerer Frieden & Potenzial — Jetzt-Raum“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L513]
+- POV: „POV: Kael (gesammelt)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L513]
+- Plot beats: „Kael erreicht einen Zustand innerer Balance. Stille als positive Substanz, nicht als Leere.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L521]
+- AEGIS: „AEGIS scannt — und scheitert. Der Reader spürt: AEGIS hat ein Problem.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L521]
+- Storyform: „OS-Physics latent — AEGIS scannt diesen Zustand und kann ihn nicht klassifizieren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L517]
+- Sensorik: „Stille, Atem, Herzschlag“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L529]

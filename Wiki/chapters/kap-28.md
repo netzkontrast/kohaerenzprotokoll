@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „um Bedingungen nachzubilden, die mit vergangenen Traumata verbunden sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Alternativ könnte AEGIS einen Guardian wie Mnemosyne verwenden“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388] · „(Umkehrung der Effekte aus Kapitel 8)“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
 - Story: „Kael kämpft darum, seinen integrierten Zustand gegen diesen Ansturm aufrechtzuerhalten.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L388]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Call to Adventure: AEGIS' Eskalation / Juna in Gefahr“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L903]
+Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L193]
+
+- Stage: „HR-außen Stufe 2: Ruf zum Abenteuer“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L905]
+- POV: „Kael, AEGIS-Direktive“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L905]
+- Plot beats: „Ein Ereignis (AEGIS droht mit Purge, oder Juna ist bedroht — OQ-B-abhängig) zwingt Kael zum sofortigen Handeln.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L913]
+- Plot beats: „Eskalation der Bedrohung. Der Countdown beginnt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L913]
+- Storyform: „Erasure-Drohung explizit; Timelock-Countdown sichtbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L909]
+- Characters: „Kael, AEGIS (drohend, direkt), Mnemosyne, Juna (Bedrohungs-Resonanz)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L917]
+- Sensorik: „drohende Spannung, Countdown-Marker“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L921]

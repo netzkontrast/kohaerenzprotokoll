@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -26,3 +26,16 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „bemerkt Kael subtile Anzeichen von Systeminstabilität um sich herum“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68] · „Vielleicht geringfügige visuelle Störungen, Audiostörungen oder temporäre Fehlfunktionen nahegelegener automatisierter Systeme.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Story: „Diagnose- oder niedrigstufige Eindämmungsprotokolle“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L68]
 - Discussion: „sein innerer Zustand destabilisiert nun aktiv das System“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L69]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Pforten der Verurteilung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L319]
+Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L191]
+
+- Stage: „HR-Stufe 4: Prüfungen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L321]
+- POV: „Kael/Lex, AEGIS-Log als Atmosphäre“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L321]
+- Plot beats: „Kael wird für seine neue (Lex-dominierte) Identität getestet. Logische Fallen in KW1.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L329]
+- Foreshadowing: „AEGIS' System erfasst eine Anomalie, kann sie aber nicht klassifizieren (Kael als Bug).“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L329]
+- Storyform: „IC-Mind/Conscious latent — erste … Spur in B's Logik“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L325]
+- Sensorik: „korrumpierte Textdateien, veraltete Interfaces“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L337]
+- Genesis echo: „Klick-Motiv — die kalten Logik-Klicks von AEGIS' System wirken wie Echos des Trennungsprotokolls“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L337]

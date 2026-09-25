@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,15 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „AEGIS setzt einen neuen Typ von Guardian ein“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414] · „'Architekten' mit tieferem Zugriff auf den Kerncode der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „Wände verschieben sich, die Physik biegt sich unvorhersehbar“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
 - Story: „absichtliche, gezielte Realitätsverformung als Waffe“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L414]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Meeting Mentor: K-J Verbindung Kulmination“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L951]
+Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L193]
+
+- Stage: „HR-außen Stufe 4: Begegnung mit dem Mentor“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L953]
+- POV: „Kael, Juna-Witness“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L953]
+- Storyform: „A dominant, RS-Maximum“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L953]
+- Plot beats: „Die Verbindung zu Juna wird zum stabilen, bewussten Kanal.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961] · „Resonanz-Maximum vor dem Vortex.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961]
+- Juna: „Juna bleibt nicht-beschrieben — nur die Telefon-Stille wird zur klingenden Substanz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961]
+- Sensorik: „klingender Kanal, Resonanz-Maximum“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L969]

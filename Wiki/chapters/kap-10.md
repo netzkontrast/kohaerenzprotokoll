@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht den Ort des vorherigen 'Risses' (aus Kapitel 7) erneut.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „Die Realität scheint zusammengeflickt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Story: „seltsame Restartefakte oder 'Narbengewebe' im Gewebe der Simulation“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146] · „spezialisierte 'Wartungsdrohnen' oder Guardian-Subroutinen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L146]
 - Discussion: „AEGIS' Reparaturen möglicherweise nicht perfekt sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L147]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Die erste Brücke“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L463]
+Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L191]
+
+- Stage: „HR-Erweiterung 1: Erste Anwendung der Integration“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L465]
+- POV: „Kael (kooperativ-polyphon)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L465]
+- Storyform: „RS-Physics — Moonshine als Werkzeug (Quanten-Nichtlokalität)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L469] · „MC-S2 (B) Present beginnt einzusetzen — Erasure-Sweeps werden hörbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L469]
+- Plot beats: „Kael löst ein Problem durch die Kombination von Lex-Analyse und intuitiver K-J-Verbindung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L473]
+- Foreshadowing: „Die Zahl 734 taucht zum zweiten Mal auf — somatisch verankert, ohne erklärt zu werden.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L473]
+- Characters: „Juna (durch Wirkung), Silas (latente Resonanz)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L477]
+- Sensorik: „Netzwerke, Graphen, Resonanz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L481]

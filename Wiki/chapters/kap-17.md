@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Story: „identifiziert Kael zwei Kerndirektiven von AEGIS, die unter bestimmten Bedingungen widersprüchlich sind“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
 - Story: „Direktive A: "Bewahre bewusste Integrität innerhalb stabiler Parameter."“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241] · „Direktive B: "Eliminiere alle Quellen unvorhersehbarer Entropie."“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
 - Story: „was AEGIS in eine logische Zwickmühle zwingt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L241]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Z1-Korrektur: Wächterin“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635]
+Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L192]
+
+- Stage: „Zyklus 1, Stufe 3“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L637]
+- POV: „Kael (Wir-Geflecht beginnt)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L637]
+- Plot beats: „Das integrierte Selbst (Selene als Wächterin-Funktion) oder die K-J-Verbindung hilft Kael, den Rückfall zu erkennen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645]
+- Storyform: „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645]
+- Characters: „Kael, Selene (Wächterin-Funktion klar), Rhys, Lex“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L649]
+- Sensorik: „Licht durch enge Architektur, Wärme durch Betäubung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L653]

@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „Juna/V schafft es, eine stabile Verbindung oder einen Eintrittspunkt in AEGIS' simulierte Realität herzustellen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „AEGIS reagiert mit Verwirrung und Alarm“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
 - Story: „wodurch unbeabsichtigt eine sichere Zone für Kael und Juna/V zur Kommunikation oder Koordination entsteht“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L427]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Crossing First Threshold: Angriff auf AEGIS“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L975]
+Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L193]
+
+- Stage: „HR-außen Stufe 5: Überschreiten der ersten Schwelle“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L977]
+- POV: „Kael (Wir, aktiv) + Silas (erste längere POV-Szene, OQ-E)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L977]
+- Plot beats: „Kael beginnt aktiv, AEGIS' Kernsystem anzugreifen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L985]
+- Silas: „Silas tritt als POV-Träger auf (Bridge-natürliche Szene) — sein Echo-Prosa-Stil markiert den Schwellen-Übertritt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L985]
+- World: „Mnemosyne-Archipel beginnt sich am Horizont zu zeigen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L985]
+- Sensorik: „Schwellen-Bruch, Eintritt, Architektur die nicht für Eintretende gebaut ist“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L993]
+- Open question: „Kap 31 (Silas-POV), Kap 32 (Oblivion-POV) sind Vorschläge“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1373]

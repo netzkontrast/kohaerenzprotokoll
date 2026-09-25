@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 1: INNERE REISE (Kapitel 1-13)“ ^[aegis-subplots-kapitelweis
 - Story: „Kael besucht ein Gebiet, das für seine perfekte Ordnung und Vorhersagbarkeit bekannt ist (vielleicht innerhalb von KW1 oder einer stark regulierten Zone).“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „kein 'Riss', aber vielleicht eine plötzliche Kaskade kleinerer Systemfehler“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94] · „Der Vorfall wird schnell von AEGIS/Guardians eingedämmt“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
 - Story: „Vielleicht findet Kael Restspuren einer größeren 'Aufräumaktion'.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L94]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Echos im Fundament“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L367]
+Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L191]
+
+- Stage: „HR-Stufe 6: Tod einer Einstellung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L369]
+- POV: „Kael, polyphoner Einbruch“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L369]
+- Plot beats: „Cache-Konflikt: Kaels einseitiger Logik-Ansatz scheitert an einem komplexen Problem.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377]
+- Alters: „Erste polyphonen Einbrüche — Stilcodes anderer Alters werden voll sichtbar. Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377]
+- Storyform: „OS-Physics — AEGIS' Logik zeigt Schwächen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L373]
+- Sensorik: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L385]
+- Genesis echo: „der Cache-Konflikt ist das Echo der ursprünglichen Resonanz-Kaskade aus Kap 0“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L385]

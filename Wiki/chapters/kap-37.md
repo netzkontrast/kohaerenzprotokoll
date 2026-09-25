@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -25,3 +25,16 @@ Position: „TEIL 3: DIE ÄUSSERE KONFRONTATION & RÜCKKEHR (Kapitel 27-39)“ ^
 - Story: „überlebende Guardians, lokale 'Ordnungsinseln' zu schaffen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „vielleicht eine rudimentäre Form von AEGIS, die versucht, aus den Trümmern wiederaufzubauen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
 - Story: „Kael muss entscheiden, ob diese Neuorganisation eine Bedrohung oder eine Chance darstellt.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L505]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Der Gärtner / Trügerischer Sieg“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1134]
+Position: „Trügerischer Sieg | Ten (Pause) | 37“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L195]
+
+- Stage: „HR-außen Stufe 11: Reward / Phasenübergang“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1136]
+- POV: „POV: Kael (Wir, etabliert)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1136]
+- Storyform: „nur A aktiv (scheinbar), mit feinen B-Echos“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1136]
+- Plot beats: „Klassischer Reward-Beat als falscher Frieden. Kael etabliert sich als … Gärtner“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1144]
+- Plot beats: „Am Rand der Wahrnehmung beginnt etwas zu zerfasern.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1144]
+- Sensorik: „kristallisiertes Gewebe, neue Architektur, feine Sprünge am Rand“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1152]
+- Genesis echo: „das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1152]

@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 1
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx"]
+sources: 2
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -24,3 +24,15 @@ Position: „TEIL 2: DIE META-EBENE & ZYKLEN (Kapitel 14-26)“ ^[aegis-subplots
 - Subplot idea: „Die Reaktionsschwelle sondieren“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L227]
 - Story: „Kael testet systematisch AEGIS' Reaktionen.“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228] · „geringfügige Regelverstöße, Ausdruck spezifischer Emotionen, Versuch verbotener Verbindungen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
 - Story: „Er könnte entdecken, dass einige Aktionen unverhältnismäßig große Reaktionen hervorrufen“ ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L228]
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+Title: „Z1-Reaktion: Bunker reaktiv“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L611]
+Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L192]
+
+- Stage: „Zyklus 1, Stufe 2“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L613]
+- POV: „Kael (Lex+Selene-Dominanz)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L613]
+- Plot beats: „Kael greift reflexhaft auf alte Bewältigungsstrategie zurück — Dissoziation, Rückzug. Bunker reaktiviert.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L621]
+- Characters: „Moros' Schwere zieht im Hintergrund alles herunter.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L621]
+- AEGIS: „AEGIS interpretiert den Rückfall fälschlich als Stabilisierung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L621]
+- Sensorik: „enge Räume, taube Sensorik“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L629]
