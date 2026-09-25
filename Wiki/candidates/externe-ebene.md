@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -120,3 +120,26 @@ As „Basisrealität — Köln 2026." ^[koharenz-protokoll-strukturierter-outlin
 Kommt nie als Bühne in Erscheinung — nur als Erinnerungsfragment, Telefonton,
 Geruch." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L179] [[kael|Kael]]'s first trauma layer lies there, „Bindungstrauma in
 der Basisrealität Köln" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+„Externe Ebene — Köln 2026" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L305], labelled `[K]`. „Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L307]
+„Die Realität, die der Roman selbst ist." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L307] „Der Substrat-Durchbruch (referenziert ca. Kap 36, näher festzulegen)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L307]
+
+„Profan, banal, präzise." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L311] „Plattenbauten, S-Bahn-Geräusche, ein Telefon, das klingelt und nicht klingelt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L311]
+„Köln 2026 ist nie Bühne im normalen Sinn." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L315] „Erscheint nur als Erinnerungsfragment, Telefonton, Geruch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L315]
+
+Sub-locations: [[junas-ankerpunkt|Junas Ankerpunkt]], `[L]`; the
+[[garten-der-stillen-praesenz|Garten der stillen Präsenz]], „Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327];
+the Quelle des Flüsterns, „Ursprungsort der Resonanz" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L328]; and the
+Unkartiertes Territorium, „das, was nicht erfasst werden konnte" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L329].
+
+## Where the readings disagree — conflict C13
+
+**Beyond the simulation, or not outside it.** Under the name `Basisrealität`
+(J54), the character bible writes „Es gibt eine Welt jenseits der Simulation." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L62]
+and the strukturierter Outline „Existiert jenseits der Simulation." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L179]
+The konsolidiertes Konzept, of the character bible's date, writes
+„Kein „außerhalb der Simulation", sondern die andere Seite des Spiegels." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L540]
+— and three sources of 2026-06-10, this one among them, the same sentence. The
+page names the disagreement and stops; C13 has the lines.
