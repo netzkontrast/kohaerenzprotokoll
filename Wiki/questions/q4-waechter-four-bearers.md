@@ -173,3 +173,9 @@ Kap 8. It left out the Guardians: Kap 31, „Auflösung der Guardians" ^[koharen
 Lichtstaub aufgehen." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022] — the line document 7 later carries as its
 leitmotif. Both words, one referent, not distinguished. Found by the record
 audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M16).
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Two compounds, no bare Wächter.** The Überwelt has „Wächter-Konsolen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L286] and a
+`Wächter-Registry`, „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. The word
+is not used on its own; the registry's entries are the two Guardians.
