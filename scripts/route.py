@@ -89,7 +89,8 @@ _POOL = ThreadPoolExecutor(32)
 COOL = 60             # seconds a rate-limited model is skipped while others remain
 PIN_WAIT = 10         # seconds a pinned call waits before asking its rate-limited model again
 PIN_DEADLINE = 240    # seconds for one pinned call: a free model's shared upstream pool can stay
-                      # exhausted for an hour (gemma-4-31b, 2026-09-25), and waiting is not answering
+                      # exhausted however long it is tried (gemma-4-31b, every attempt for two
+                      # minutes, 2026-09-25), and waiting is not answering
 PROBE = "Antworte nur mit dem Wort: Kohärenz"
 REPLAY = False
 LOCK = threading.Lock()

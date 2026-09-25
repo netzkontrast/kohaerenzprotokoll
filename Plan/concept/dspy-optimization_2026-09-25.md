@@ -16,7 +16,8 @@ rule of decision 010 answers first and decides 44; a model is asked only about
 the 51 it leaves — **19 the ledger calls one term, 32 it calls two**. Five
 stratified folds, so every pair is scored by a program compiled without it; each
 held-out pair asked three times with no cache (P18); the six never-merge canaries
-asked of the program compiled on all 63. The metric is the person's decision,
+asked of the program compiled on all 63 — once each in these runs but the last,
+as often as a held-out pair since the fix below. The metric is the person's decision,
 with the person's recorded rule as feedback.
 
 **The models, under decision 011** (written for these runs):
@@ -25,8 +26,8 @@ with the person's recorded rule as feedback.
 |---|---|---|
 | Claude Haiku 4.5 | `claude-cli/haiku` — `scripts/claude_lm.py`, first party | thinking off; the task model of every rung |
 | Claude Sonnet | `claude-cli/sonnet` | GEPA's reflection model, thinking on |
-| `google/gemma-4-31b-it:free` | `route/…` — `route.py`, pinned | **not reached**: „temporarily rate-limited upstream" for the whole attempt, its provider's shared free pool exhausted. Stopped after 22 attempts; no row (P15) |
-| `nex-agi/nex-n2.5-mini:free` | `route/…` | answered every call; 6–98 s a call as the morning went on |
+| `google/gemma-4-31b-it:free` | `route/…` — `route.py`, pinned | **not reached**: „temporarily rate-limited upstream" on every attempt for the two minutes it was tried (07:45–07:47 UTC), its provider's shared free pool exhausted; stopped, no row (P15) |
+| `nex-agi/nex-n2.5-mini:free` | `route/…` | all 153 held-out calls answered, one after an empty first attempt; 6–98 s a call as the morning went on |
 | `dots-studio/dots-3-note-preview:free` | `route/…` | *(see the table)* |
 
 Free models got what `pairs.py` sends — two term surfaces, the person's rule
@@ -73,10 +74,11 @@ surface of each is not in the pair's document, so code placed no line for it.
 J29 `AEGIS`/`Rest-AEGIS` and J70 `Kael-MC`/`Kael` were missed by every plain rung
 and found by every repeat with evidence, where both stand on one line. The
 facility letters J64/J65, which `NOW.md` counted among the pairs decided from the
-passage, were found by Bootstrap in every repeat and by no other Claude rung; why is not
-measured, because that run's fold programs were not kept. (The pair-by-pair table
-is `pairs.py report`'s rows read per id; this paragraph first said all of these
-were missed by every plain rung, from the first rung alone.)
+passage, were found by Bootstrap in every repeat, J65 by GEPA too, and by no
+other Claude rung; why is not measured, because those runs' fold programs were
+not kept. (The pair-by-pair table is `pairs.py report`'s rows read per id; this
+paragraph first said all of these were missed by every plain rung, from the
+first rung alone.)
 
 **Evidence lines raise recall and cost precision, and the cost is instructive.**
 `--evidence` adds, beside the two surfaces, the lines of the pair's document that
@@ -124,8 +126,8 @@ exactly three new candidates in every fold and two in the final compile on all
 „New program candidate index"); `auto="light"` would allow about 580 calls.
 
 **A free model's score hid seventeen false merges.** `nex-n2.5-mini` beat the
-floor on score, 0.741 against 0.698, by finding as many merges as Haiku's first
-rung while merging seventeen pairs the ledger keeps apart at least once —
+floor on score, 0.741 against 0.698, by finding about as many merges as Haiku's
+first rung, 10.33 against 10.67, while merging seventeen pairs the ledger keeps apart at least once —
 `Realitätsebenen`/`Kern-Welten`, `Logos-Prime`/`LogOS`, and **J5
 `Negentropie`/`Entropie`**, the founding canary, in one repeat of three. The run
 was not vetoed, because the veto asked each canary once, of the final program,
@@ -136,15 +138,16 @@ any repeat merges it; `pairs.py report` flags the rows recorded before the fix.
 ## What was not run
 
 - **SIMBA.** At `pairs.py`'s settings it is about 3,200 Haiku calls a run,
-  roughly $8. No paper measures it; the one measured run in the skill made its
+  roughly $8 — estimated from its parameters, not measured. No paper measures it; the one measured run in the skill made its
   task worse at the highest cost of twelve; and the account's usage limit was
   reached once during this work. It is one command:
   `pairs.py run --optimizer simba --rule plural --model claude-cli/haiku
   --approval "decision 011" --repeats 3 --threads 4 --record`.
 - **GEPA at `auto="light"`** — about 3,500 Haiku calls a run; the run above used
   `--gepa-calls 200`, a stated budget on the same folds.
-- **Any upper rung on a free model.** GEPA or SIMBA needs thousands of calls, and
-  OpenRouter's free tier allows about a thousand a day across all free models.
+- **Any upper rung on a free model.** GEPA or SIMBA needs thousands of calls; a
+  free model here answered in 6–98 s a call, which makes a run hours long, and
+  OpenRouter limits free requests a day (a published limit, not measured here).
 
 ## What it cost
 
@@ -172,8 +175,9 @@ these calls, reached the account's usage limit once, on 2026-09-24.
   second model would have been answered from the first model's recording. Found
   by reading the new record files, fixed before the second model ran, and held by
   a self-test case.
-- **A pinned model can be gone for an hour**: gemma's upstream pool never
-  answered. A pinned call now gives up after 240 s, and a run after six
+- **A pinned model can be gone for as long as it is tried**: gemma's upstream
+  pool answered none of the attempts over two minutes. A pinned call now gives up
+  after 240 s, and a run after six
   unreachable calls in a row, recording nothing (P15).
 - **`pairs.py` asserted German on the `rule` field**, whose demos are the
   ledger's English rules; every answer was flagged. It asserts English now.
