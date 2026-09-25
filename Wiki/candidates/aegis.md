@@ -288,4 +288,4 @@ At Kap 39 it „erlischt monolithisch, lebt plural" ^[kohaerenz-protokoll-welt-s
 
 Outside the thirteen: „AEGIS spricht nie in Prosa." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L944] It appears as log or protocol, with a fixed log format
 (L952–L988). In Kap 1 „keine AEGIS-Stimme" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]; its voice debuts in the Hard-B chapter, Kap 5–8 (L992).
-Its echo inside the system is Oblivion; its greatest threat, Selene (L853).
+Its echo inside the system is [[oblivion|Oblivion]]; its greatest threat, [[selene|Selene]] (L853).

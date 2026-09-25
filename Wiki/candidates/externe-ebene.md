@@ -133,4 +133,4 @@ Its sub-locations: [[junas-ankerpunkt|Junas Ankerpunkt]] (`[L]`), the
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
 As the ground of the first trauma layer (J54): „Schicht 1 (Bindungstrauma Basisrealität Köln):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] Kiko, Lia,
-Isabelle, Moros.
+[[isabelle|Isabelle]], [[moros|Moros]].

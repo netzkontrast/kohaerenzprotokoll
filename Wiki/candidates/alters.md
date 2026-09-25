@@ -180,6 +180,6 @@ Hard rule R-3 keeps the word out of Akt I: „Alter, Fragment, ANP, EP, TSDP, DI
 
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
-Thirteen, listed by category (L53–L56): five ANPs, five EPs, Argus, and the two mirrors. Fifteen names are
+Thirteen, listed by category (L53–L56): five ANPs, five EPs, [[argus|Argus]], and the two mirrors. Fifteen names are
 excluded outright: „Dekanonisiert (NIE als aktive Charaktere):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95] „Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95]
 (Q3). „Die Spiegel-Alter sind das narrative Herz der 13er-Architektur." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L683]

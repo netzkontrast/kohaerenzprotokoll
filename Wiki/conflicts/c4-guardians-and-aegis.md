@@ -137,7 +137,7 @@ shortcut.
 
 A document that states the relation outside a question: an architecture
 description, an origin account, or any passage where a Guardian acts against
-AEGIS or is described as predating it. `KW2` and `KW4` appearing anywhere would
+[[aegis|AEGIS]] or is described as predating it. `KW2` and `KW4` appearing anywhere would
 also help, since the numbering is the one place the two documents nearly touch.
 
 ## 2026-09-17 — document 6 supplies the numbering this record asked for
@@ -204,5 +204,5 @@ the first position: a blindness of AEGIS', not one per Guardian.
 „sieht aus wie ein Sensor-Fehler, nicht wie eine Anomalie" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]. Oblivion is AEGIS' inner enforcer, and
 „AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778] And the one who sees AEGIS' flaw is an Alter:
 „Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L667] No blind spot is named for
-Mnemosyne or the Erasure-Pol. On the first position's side — AEGIS' blindness — with the system's parts as
+[[mnemosyne|Mnemosyne]] or the Erasure-Pol. On the first position's side — AEGIS' blindness — with the system's parts as
 what it cannot see.

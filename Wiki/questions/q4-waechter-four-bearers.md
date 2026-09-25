@@ -187,7 +187,7 @@ position on this question and the record held nothing from it.
 
 **Two compounds, no bare Wächter.** The Überwelt has „Wächter-Konsolen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L286] and a
 `Wächter-Registry`, „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. The word
-is not used on its own; the registry's entries are the two Guardians.
+is not used on its own; the registry's entries are the two [[guardians|Guardians]].
 
 ## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 

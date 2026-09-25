@@ -141,7 +141,7 @@ It adds a conflict of its own inside the [[genesis|Genesis]]: whether [[alex|Ale
 (the `Charakter-Bibel`, L1460) or before it — „Alex-Vorform wird in Bewegung 4 vor dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461] —
 „Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462]. It proposes
 „Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1464]
-Recorded here because it is a question of order in the Genesis; it is not the 734
+Recorded here because it is a question of order in the [[genesis|Genesis]]; it is not the 734
 question.
 
 ## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
@@ -149,4 +149,4 @@ question.
 **Four beats, cited to the Kompendium, and Alex against them.** „Aktueller Lock-In: vier Beats (Kompendium 2026-05-31)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079]
 Alex „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219] — so „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219].
 „Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] Komponente 734 is Kael's designation (L105), not placed in the Genesis. The same
-Alex conflict the drafting manual names (its §14.4), here from the profile's side.
+[[alex|Alex]] conflict the drafting manual names (its §14.4), here from the profile's side.

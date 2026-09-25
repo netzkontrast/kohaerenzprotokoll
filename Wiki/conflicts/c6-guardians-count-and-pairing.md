@@ -164,5 +164,5 @@ what the document says and changes neither the decision nor the status.
 
 **Two, and whom the Erasure-Pol absorbed.** Mnemosyne is „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996];
 the other is the „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1014], in which „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016]
-Sophia is not named. A source of 2026-06-10 for the two-Guardian side, filtered from the character bible
+[[sophia|Sophia]] is not named. A source of 2026-06-10 for the two-Guardian side, filtered from the character bible
 (L13); the author's decision for five stands.

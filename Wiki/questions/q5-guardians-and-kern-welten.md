@@ -117,5 +117,5 @@ retired pairing; no absorption is described.
 
 **The third absorption again, and Sophia absent.** „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016]
 — in the Erasure-Pol, whose name is open („Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1014]). The konsolidiertes Konzept's version.
-Sophia does not occur in the document. No Guardian is paired with a world; Mnemosyne's setting is the
+[[sophia|Sophia]] does not occur in the document. No Guardian is paired with a world; [[mnemosyne|Mnemosyne]]'s setting is the
 Mnemosyne-Archipel, the climax (L1000).

@@ -202,7 +202,7 @@ Found by the sweep (decision 012).
 for the novel „das Atmen der Realität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L397].
 
 Two typologies. Per trigger (§3.1), each EP-Alter drives one kind of Riss — Nyx
-kinetic, [[kiko|Kiko]] temporal, Kiko/Lia spatial, [[moros|Moros]] gravitative, [[isabelle|Isabelle]] sensory, [[silas|Silas]]
+kinetic, [[kiko|Kiko]] temporal, [[kiko|Kiko]]/Lia spatial, [[moros|Moros]] gravitative, [[isabelle|Isabelle]] sensory, [[silas|Silas]]
 „relational/warm" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409], Oblivion „temporal/gravitativ" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L410]. Per world (§3.2): KW1 logical,
 the KW1→KW2 transition thermal — „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418] — KW2 „wässrig / mnemonisch" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L419],
 KW3 paranoid, KW4 generative.

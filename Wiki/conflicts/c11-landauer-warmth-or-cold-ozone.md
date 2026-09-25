@@ -145,7 +145,7 @@ again by one document of itself.
 1. The foreshadowing layer: „Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] — the cold-ozone
    lock's own division.
 2. Silas: „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike. Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
-   The same lock and the same Kap-3 debut, with the warmth given to Juna's echo inside the system rather than to Juna.
+   The same lock and the same Kap-3 debut, with the warmth given to [[juna|Juna]]'s echo inside the system rather than to Juna.
 3. The Silas–Oblivion conflict: „jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
    „Diese Hitze ist der somatische Fingerabdruck ihres Kampfes" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — *Landauer heat*, the word the lock files under
    cold ozone, read as the sign of „Wahrheitsvertuschung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837], the theme the drafting manual gives its
