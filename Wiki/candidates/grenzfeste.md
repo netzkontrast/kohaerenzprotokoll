@@ -1,10 +1,10 @@
 ---
 term: Grenzfeste
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["guardians-und-kern-welten-konzept", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Die Grenzfeste"]
 gathered: "2026-09-17"
 ---
@@ -56,3 +56,9 @@ containment of the [[kern-welten|Kern-Welten]] (document 3) is not answerable he
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 
 A second name for KW3: „VI.4 KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L500]. „Konzept: Welt der Verteidigung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L501]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+KW3's second name: „KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L169]. „Welt der Verteidigung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171]
+„Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171] Its act:
+„Späte Akt II (Kap 23–28)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175] Its logic, „Computational Class: NP-Hard" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L193].
