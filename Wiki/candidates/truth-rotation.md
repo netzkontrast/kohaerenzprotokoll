@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: C2
-ingested: ["kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md"]
 gathered: "2026-09-25"
 ---
 
@@ -37,3 +37,10 @@ After it, AEGIS is „ein gescheiterter Kohärenztheoretiker" ^[kohaerenz-protok
 
 What `Entropie` means is conflict C2; this is the sense in which AEGIS is the entropy it
 fights.
+
+## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+Its ground is the inversion of the two storyforms: „Diese Inversion ist die mechanische Grundlage der späteren Truth-Rotation." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L71]
+„Diese Klein-c-Symmetrie ist die formale Basis der Truth-Rotation" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L260] — both readings of one plot
+are legal, and „der Roman entscheidet erst am Vortex, welche die operative Wahrheit ist." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L260]
+Gathered when the page opened: the census had listed the term (L71, L149, L260).
