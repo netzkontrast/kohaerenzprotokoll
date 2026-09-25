@@ -327,9 +327,11 @@ Drive ──fetch──→ Sources/drive/*.md ──┬──extract──→ So
 ```
 
 Written out in full in `Plan/concept/wiki-process_2026-09-16.md`. The short
-version: **a census lists every candidate term in one document, exhaustively.**
-A note harvests what that document says about the terms that matter, quoting with
-line numbers.
+version: **a census lists the candidate terms of one document by a written rule**
+— what it names in the novel's world, the words it uses as its own terms, the
+borrowed concepts it applies (decision 012; the rule is in the briefing). A note
+harvests what that document says about the terms that matter, quoting with line
+numbers.
 
 **A census describes one document and nothing else** — no count, comparison or
 expectation from another source. `scripts/profile.py` makes that identical
@@ -356,6 +358,16 @@ decided mechanically, 4 to judgement.** Document 6 is the scale test: 109
 candidates against 46 pages, **68 decided by lookup and 55 sent to judgement**,
 and the wiki's size entered none of it. Reasoning:
 `Plan/concept/reconciliation-by-lookup_2026-09-17.md`.
+
+**And it sweeps the text for everything the wiki already knows** (decision 012).
+A lookup matches only what the census listed, so `reconcile.py` also searches
+the document for every surface of every page, standing alone. Each page the text
+names without a matching candidate is decided: a reading, which goes on the
+page, or an occurrence, such as a title, a reference or another sense. The call
+is recorded in `Plan/runs/sweep.jsonl`: 24 <!--state:sweep.decided--> so far,
+10 <!--state:sweep.readings--> of them readings the lookup had missed, and
+0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
+asks the index, never the pages, so its cost is code's.
 
 **A reference on a wiki page names its document.** A bare `^[Lnn]` resolves
 against the page's single `ingested:` entry and stops being checked the moment a
@@ -422,7 +434,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**339 <!--state:wiki.relations--> links across
+**343 <!--state:wiki.relations--> links across
 93 <!--state:wiki.pages--> pages, 28 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -441,7 +453,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 154 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+The 157 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
 occurrence sits inside a quotation, a citation line or a heading — places the
 pass may not touch, so that part is a measurement and not a backlog. The rest,
 `link.py` would mark on pages no reading has touched since the page was last
@@ -453,13 +465,13 @@ in a commit that names its source.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **126 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1420 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **1450 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1640 <!--state:graph.evidence-->
-of them, **1640 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1663 <!--state:graph.evidence-->
+of them, **1663 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -836,7 +848,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 339 <!--state:wiki.relations-->.
+links. It has 343 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"

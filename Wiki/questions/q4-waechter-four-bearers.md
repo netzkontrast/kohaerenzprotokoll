@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -173,6 +173,15 @@ Kap 8. It left out the Guardians: Kap 31, „Auflösung der Guardians" ^[koharen
 Lichtstaub aufgehen." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022] — the line document 7 later carries as its
 leitmotif. Both words, one referent, not distinguished. Found by the record
 audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M16).
+
+## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+**Kap 31 again, and further.** „Guardians als Sub-Antagonisten" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628] and
+„Wächter, die in Lichtstaub aufgehen und in Kael fließen" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628], in one
+line for one bearer, not distinguished — the line documents 7 and 9 carry, with
+the Wächter now flowing into [[kael|Kael]]. Found by the sweep of decision 012 on the
+[[guardians]] page; recorded here by its rule 3, since the document takes a
+position on this question and the record held nothing from it.
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 

@@ -21,6 +21,7 @@ decision files are missing from it or listed here without existing, and
 | `009-gold-lists-by-rule.md` | 2026-09-24 | Which candidate lists are gold is decided by rule, in `scripts/gold.py` |
 | `010-the-plural-rule-by-delegation.md` | 2026-09-24 | A plural ending is not a term boundary, within a stated reach — a scored rule in `pairs.py`, not in `fold()` |
 | `011-dspy-runs-on-claude-and-free-models.md` | 2026-09-25 | DSPy runs may use Claude through `claude -p` (first party), and OpenRouter's free models through `route.py`, pinned — never with a line of a document |
+| `012-reading-questions-answered-by-delegation.md` | 2026-09-25 | No human anchor; a census is selective by a written rule and reconciliation sweeps the text for every term the wiki knows; a record holds one entry per document with a position |
 
 A decision the author still has to make is not here: it is a question under
 `NOW.md`, *Questions for the author*, until it is answered.

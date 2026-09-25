@@ -644,6 +644,36 @@ should say it. And `capture.candidate_terms` drops a candidate holding `, ` or
 tell`). The rule is right for the prose bullets it was built for, and every
 list here passes through it alike.
 
+## The sweep, 2026-09-25 — what the censuses missed that the wiki already knew
+
+Decision 012 made a census selective, by a rule now in the briefing, and gave
+reconciliation the recall: `reconcile.py` searches the text for every surface of
+every page, standing alone, and lists each page the text names that no
+candidate matches. Run over the fifteen read documents, it found **24 pages
+named in a document that held no reading from it**. Each was read at its line
+and recorded in `Plan/runs/sweep.jsonl`:
+
+| decision | hits | what they were |
+|---|--:|---|
+| reading | 10 | Kohärenz in documents 1, 2 and 4 (in 4 a second sense, emotional, Mnemosyne's charge); Emergenz in documents 4, 7 and 9 (Kairos' domain, Kap 20's leitmotif, KW4); the belief table for the Kohärenz-Kernel in 9; Guardians, Multiplizität and Glitch in 15 |
+| occurrence | 14 | the novel's title (4); `Simulation`, which J39 keeps apart from the Überwelt (3); a book title in a reference list; `Genesis` and `Nexus` in their ordinary senses; Bohm's „Realitätsebene"; a lens term document 5's own rule keeps out; a chapter title the page had chosen not to attach; a place row restating document 6 |
+
+What it says:
+
+- **The censuses missed about one reading in every one and a half documents.**
+  Eight of the ten were terms the census never listed, all words that also
+  have an ordinary use: `Kohärenz`, `Emergenz`, `Multiplizität`, `Glitch`. The
+  other two were listed in a form the page does not carry: `Guardian` where the
+  page has `Guardians`, and `Kohärenz-Kernel` where it had only
+  `Kohärenz-Kernel (K₁)`, whose slug folds with `ae` where the word folds with
+  `a`. The page has the alias now; the plural stays decision 010's question.
+- **Precision is low and that is fine.** 14 of 24 hits were not readings, and
+  each took one line to dismiss. The sweep's job is to make the reconciler look,
+  not to decide.
+- **Code can find where a known term stands; only reading can tell whether it is
+  a reading there.** That split is P1's, and it is why the ledger records a
+  reason in words for every occurrence.
+
 ## Document 16 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-09-25
 
 A drafting manual of 1503 lines, read in one pass by the session; 542 candidates.

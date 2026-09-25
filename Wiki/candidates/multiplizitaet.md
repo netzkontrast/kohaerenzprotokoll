@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -99,6 +99,12 @@ operativer Zustand." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.m
 held in Kap 37: „Funktionale Multiplizität gefestigt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1140]. Before it, a
 discipline of the prose: „Die Multiplizitäts-Schleier-Disziplin hält." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L497]
 (J28 — named after multiplicity, not it).
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+The same withholding the Kapitel-Kompendium states — „Die Multiplizität wird im Roman nicht ausgesprochen bis" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L329]
+about Kap 10 — with what the reader of Kap 0 already knows: „Aber der Leser, der Kap 0 gelesen hat, weiß, dass die Echos die Alters sind, die Alters die Vor-Trennungs-Spuren." ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L329]
+Found by the sweep (decision 012).
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
