@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-17"
 ---
 
@@ -108,3 +108,10 @@ Here Kohärenz is first a truth theory: „**Die Wahrheitstheorien** (Korrespond
 AEGIS embodies it: „**Im Roman:** AEGIS ist die radikalste Kohärenz-Verkörperung. AEGIS' Wahrheit ist: was ins System passt, ist wahr." ^[kohaerenz-protokoll-konzept-master-md.md:L270] So do the ANPs (L274).
 And AEGIS only believes itself coherence: „**AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.**" ^[kohaerenz-protokoll-konzept-master-md.md:L63]
 „Die echte Kohärenz-Arbeit leistet Kael, indem er seine Alters in Funktionale Multiplizität führt" ^[kohaerenz-protokoll-konzept-master-md.md:L230] — the [[truth-rotation|Truth-Rotation]].
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+The protocol that cuts is called by this name: „Das Protokoll wird ausgeführt werden. Es heißt Kohärenz. Sein Inhalt ist Trennung." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L465]
+„Das Ziel ist Wiederherstellung der Kohärenz durch radikale Eliminierung der Quelle der Inkohärenz." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L477] „Der Schnitt ist sauber. Die Kohärenz ist wiederhergestellt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L493]
+The void, as the Funken-Ich lives it, destroys what is not coherent: „eine pulsierende Energie, die zerreißen will, was nicht absolut kohärent ist." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L203]
+And AEGIS turns inward to find it: „Wahre Stabilität, die ultimative Versicherung gegen das Nicht-Sein, erfordert tiefere, innere Kohärenz." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L323]
