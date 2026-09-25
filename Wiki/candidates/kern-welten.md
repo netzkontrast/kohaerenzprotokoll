@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 14
-readings: 13
+sources: 15
+readings: 14
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -326,3 +326,9 @@ KW3 „Späte Akt II (Kap 23–28)." ^[kohaerenz-protokoll-welt-sensorik-draftin
 
 The first layer's Alters „werden in KW2/KW3 (Akt II) erst voll lesbar." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] Selene waits in KW4 (L361). The
 world Risse are per act, „nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886] — no world belongs to an Alter (Q3).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — KW1's vocabulary
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+The thread's words are chosen for KW1: „Alle Begriffe sind wörtlich-administrativ und damit KW1-konform (Metaphernverbot, assertorisch, Computational Class P [K])." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L153]
