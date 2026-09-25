@@ -1305,3 +1305,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** the diagram at L182–L186 labels Oblivion „(Erason-Op/Spiegel)“ under its name; the Alter table (L400) and the consistency matrix (L958) give Oblivion the function `Erason-Operator`. Recorded by a second, independent reading (pull request #94)
 
 **Result.** one term — Oblivion's role, clipped in a diagram label; a reading on oblivion, not on erason (J32)
+
+## J94 — Doppel-Klammer / Genesis-Klammer
+
+**one-term** · kap0-kap40-doppelklammer-abhandlung-2026-05-08-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** two names for one structure identified by the same parts it spans (here Kap 0 and Kap 40) are one term; a source that gives the name to one of the parts is a reading on the page, not a second term
+- **mechanised by:** `nothing`
+- **features:** title-name, frame, two-chapters
+
+**Question.** one term or two?
+
+**What was done.** L11 heads the document „Die Doppel-Klammer Kap 0 / Kap 40“ and L25 defines it as the two chapters, „ein einziger Atem in zwei Richtungen“; the genesis-klammer page, written by the 2026-09-25 scan, already reads this document as its own and names `Doppel-Klammer` as its name for the frame. Every other read source that names the frame of Kap 0 and Kap 40 calls it `Genesis-Klammer`; the strukturierter Outline gives that name to Kap 0 alone
+
+**Result.** one term — the same two chapters as one frame, under two names; `Doppel-Klammer` becomes an alias of genesis-klammer. `Klammer` alone (18 times standing alone here, 04-counts.txt) stays a common noun and gets no alias
