@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -317,3 +317,10 @@ retired with them: the old drafts had „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaere
 
 The author decided C6 for five Guardians on 2026-09-24. This document, dated
 2026-06-10, is recorded as stating two; it does not reopen the decision.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Two, as voices outside the thirteen.** [[mnemosyne|Mnemosyne]] is „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996],
+and the „Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004] The other: „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1014] —
+„Löschungs-Exekutive. Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016]
+Recorded after the author's decision for five (C6); the absorption is Q5's.
