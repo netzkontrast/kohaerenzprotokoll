@@ -3,7 +3,7 @@ id: Q5
 question: Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
-documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 conflict: C6, C9
 gathered: "2026-09-24"
 ---
@@ -132,3 +132,10 @@ The Erasure-Pol is named and its name is not marked as open (^[kp-plot-konkretis
 KW1 is `Konstrukt-Stadt / Logos-Prime` (L213) and KW3 `Cerberus-Labyrinth` (L221), and neither
 bearer is profiled; [[kairos|Kairos]] and [[sophia|Sophia]] do not occur. The Erasure-Pol's name is open:
 „Kalter Gegen-Pol zu Mnemosyne. (Name offen — OQ.)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L53]
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Absorbed in both, and no world for any.** „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+It does not say which into which. „Ein Erasure-Pol — Funktion klar (Löschungs-Exekutive), Name offen." ^[kohaerenz-protokoll-konzept-master-md.md:L509]
+[[sophia|Sophia]] is named among the five of earlier drafts (L504). The worlds are act markers (L665); KW1's name carries
+no Logos here (L658).
