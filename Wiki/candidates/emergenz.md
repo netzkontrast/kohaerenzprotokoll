@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -90,3 +90,8 @@ where [[aegis|AEGIS]] comes from. Found by the sweep (decision 012).
 Kap 20, „Z2-Lyons-Kreativität" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L345], with the leitmotif
 „fluide Regeln, Emergenz." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L345] — the chapter the strukturierter Outline above
 calls „Emergenz als Mechanik." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] Found by the sweep (decision 012).
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+KW4, a month before Kernwelten vollständig says it in the same words: „Einzige Zone, in der neue Coheronen entstehen können — Emergenz statt Erhaltung." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L518]
+Found by the sweep (decision 012).
