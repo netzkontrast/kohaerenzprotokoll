@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -70,3 +70,10 @@ Kap 31: „Silas tritt als POV-Träger auf" ^[koharenz-protokoll-strukturierter-
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - mirror alter called a Coheron echo, with details open: „Silas (Coheron-Echo)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+In the trigger table „Silas (Coheron-Echo)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409], whose Riss is „relational/warm" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409]:
+„Oberflächen werden unerwartet weich und warm" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409]. His anchor is a half sentence locked for
+Kap 1 — „Etwas in der Frequenz der Lüftung schien zu—" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L496] — and in Akt III he becomes
+„Silas wird zum aktiven Transmitter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L498]. The exact chapters stay open (OQ-E, L1428).
