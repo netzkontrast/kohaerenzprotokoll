@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["aegis"]
 ---
 
@@ -93,3 +93,10 @@ The Storyform-B table assigns „Do-er“ to MC Approach
 the outward mode of the operational half ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L186].
 This supports the Do-er position, while the character bible's Be-er entry
 remains part of the record.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Do-er in B, Be-er in A, under the lock-in of 2026-05-07 — which its status line calls an Approach correction.**
+„| MC Approach | \*\*Be-er\*\* | \*\*Do-er\*\* |" ^[kohaerenz-protokoll-konzept-master-md.md:L809], MC of B being AEGIS (L820).
+„Do-er-Modus: AEGIS' Antworten sind Aktionen — Erasure-Sweeps, Protokoll-Deployments, Guardian-Aktivierungen." ^[kohaerenz-protokoll-konzept-master-md.md:L841]
+Its status: `Canon-Sync 2026-05-07`, listing „Storyform Lock-In, Approach-Korrektur" ^[kohaerenz-protokoll-konzept-master-md.md:L21]. The same value and the same date as the Dramatica lock-in's mirrored Approach; one more source of 2026-05-08 carrying the new value where the character bible of that day carries the old.
