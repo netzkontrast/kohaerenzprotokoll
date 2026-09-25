@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      25
+  backslash escapes      0
+  typographic marks      135
+  ascii quotes           124
+
+# inflection families -- one term, several surfaces
+  erzäh    Erzähler, Erzählerin, Erzählform, Erzählgegenstand, Erzählmodus, Erzählung
+  funkt    Funktion, Funktionalisierung, Funktionalität, Funktionen, Funktionseinheit, Funktionseinheiten
+  spieg    Spiegel, Spiegelglas, Spiegelpunkte, Spiegelscherben, Spiegelung
+  bezeu    Bezeugen, Bezeuger, Bezeugerin, Bezeugung
+  story    Story, Storyform, Storyforms, Storyweaving
+  subst    Substantiv, Substantive, Substanz, Substrat
+  wiede    Wiederaufnahme, Wiedererkennen, Wiederholung, Wiederlesen
+  alter    Alternative, Alternativen, Alters
+  bewah    Bewahren, Bewahrung, Bewahrungs
+  heilu    Heilung, Heilungs, Heilungsweg
+  konfl    Konflikte, Konfliktraum, Konfliktsituation
+  lösun    Lösung, Lösungen, Lösungsstrategie
+  reson    Resonanz, Resonanzkaskade, Resonanzkörper
+  schre    Schreibarbeit, Schreiben, Schreibmethode
+  selbs    Selbst, Selbstorganisation, Selbstzerstörung
+  stimm    Stimm, Stimme, Stimmen
+  trenn    Trennung, Trennungs, Trennungsprotokoll
+  versu    Versuch, Versuchen, Versuchung
+  atemz    Atemzug, Atemzüge
+  beide    Beide, Beides
+  beweg    Bewegung, Bewegungen
+  bezug    Bezug, Bezugspunkt
+  bilde    Bilder, Bildern
+  daten    Datenpunkt, Datenpunkte
+  defek    Defekt, Defekte
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Alles
+  Atem < Atems
+  Atem < Atemzug
+  Atem < Atemzüge
+  Auge < Augenblick
+  Beat < Beats
+  Bild < Bilder
+  Bild < Bildern
+  Bild < Bildung
+  Dual < Dualität
+  Echo < Echos
+  Eine < Keine
+  Eine < Verfeinerung
+  Ende < Enden
+  Erst < Zerstörung
+  Erst < Selbstzerstörung
+  Form < Formel
+  Form < Reinform
+  Form < Storyform
+  Form < Erzählform
