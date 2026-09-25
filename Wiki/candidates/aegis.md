@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 13
-readings: 14
+sources: 14
+readings: 15
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -275,3 +275,11 @@ That form's name `Wir-AEGIS-plural` „ist Arbeitsbegriff; in Kap 39 zu finalisi
 - operational remainder after the separation: „das, was nach der Trennung funktional übrig blieb“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L80]
 - tragic preservation, not villainy: „das Sein zu halten“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L84]
 - the two storyforms require a plural third form: „Die Inversion auf jedem Pol ist die Form der Trennung selbst“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L196]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The Überwelt is AEGIS' „Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282] What AEGIS is blind to, in the
+reveal table: „Juna strukturell" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574], K₁-Reinform, and „die eigene Genesis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574] (C4).
+The truth the reader must never be told outright: „AEGIS hat die Geburt für den Tod gehalten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1051].
+Its voice is a hard rule: „R-8 — AEGIS spricht nie metaphorisch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1079] and „AEGIS verwendet nie das Wort „Ich"." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1236]
+At Kap 39 it „erlischt monolithisch, lebt plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L594]; the final form is written `Wir-AEGIS-plural` (J73).
