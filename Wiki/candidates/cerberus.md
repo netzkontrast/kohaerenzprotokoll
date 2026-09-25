@@ -1,10 +1,10 @@
 ---
 term: Cerberus
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -111,3 +111,11 @@ Absorbed into the Erasure-Pol, stated twice and the same: „Die alten Cerberus-
 LogOS-, Kairos-Funktionen sind hier absorbiert." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L161] and „(Cerberus, in
 Erasure-Pol absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L174]. KW3 keeps the name: „KW3 — Cerberus-Labyrinth"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L174] (J49). Q5.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Only as a world's name.** The name occurs only inside KW3's: „KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L169] (J49). The reset locks keep two Guardians,
+„Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183], and
+say nothing of what became of the others — no absorption into the Erasure-Pol
+here. The author's C6 decision, five Guardians, stands; this document is the
+two-Guardian side (C6, Q5).
