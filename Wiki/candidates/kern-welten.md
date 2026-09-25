@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 12
-readings: 11
+sources: 13
+readings: 12
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -314,3 +314,10 @@ The base reality lies outside: „Existiert jenseits der Simulation." ^[koharenz
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - staged as a manipulated setting, in the source’s proposed storyform: „Die Kernwelten als manipulierte Bühne“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L235]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+Four worlds of one reality: „eine Realität mit vier Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus Überwelt und Externe Ebene" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42].
+„KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]. Each has an act, a Stilebene and a
+computational class: KW1 Akt I, Class P; KW2 „Mittlere Akt II (Kap 14–22). Vortex 1 (Kap 35–36)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L117];
+KW3 „Späte Akt II (Kap 23–28)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175]; KW4 „Akt III (Kap 29–34, 37–39 in modifizierter Form)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L231]
