@@ -860,3 +860,30 @@ The two readings made one opposite call: the second read the report onto
 `hitze-polaritaetsregel` by J62, the first declined it because no polarity rule is
 stated. The first stands; the disagreement is the kind a person decides.
 
+
+## Document 21 — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-09-25
+
+A treatise of 617 lines, no tables, no escapes: nine chapters arguing that Kap 0 and
+Kap 40 are one frame, ending in three `Setzungen` it asks to have confirmed. 183
+candidates under decision 012's list rule, one new page (`formel-inversion`), readings
+on 14 pages. It was one of the ten documents the 2026-09-25 scan quoted without a
+census; five pages already carried it.
+
+Two findings, both procedural and both now questions in the briefing (version 11):
+
+- **A phrase written in the dictionary form counts zero.** `großer Wandel`, `fallendes
+  Glas`, `theoretischer Beobachter` — the document writes `großen Wandel`, `fallenden
+  Glas`, `theoretischen Beobachter`; and `Beat 2`, `Beat 3` stand only as „Beats 2 und
+  3". Four zeros, all the reader's own normalisation. The list was committed before the
+  count and not changed; `05-verify.txt` has the forms. The briefing said to write a
+  surface as the document writes it, and the reader did — for single words.
+- **An absence is the one claim `quotes.py` cannot check.** The census said „No cold, no
+  ozone and no Landauer stand in the document"; `05-verify.txt` had counted `Ozon` and
+  `Landauer` and not `kalt`, which stands three times, each AEGIS' manner. The claim
+  reached a page and a conflict record before a grep for the C11 entry found it; all three
+  were corrected before the reconciliation closed.
+
+What the scan's pages held up: the four readings the scan had written from this document
+(`genesis-klammer`, `vermittler-stimme`, `residual-echos`, `komponente-734`) quote it
+correctly and needed no change but their closing note. The scan's page writers quoted
+the document directly, never through a scan, and it shows.

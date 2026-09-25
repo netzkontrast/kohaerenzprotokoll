@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 10
+version: 11
 covers_documents: 7
-new_findings_last_document: 4
+new_findings_last_document: 2
 ---
 
 # Briefing — before extracting a document
@@ -99,6 +99,10 @@ wraps is judged by its first line alone.
   `-Op` for `-Operator`? List the clipped form as written; it counts where the
   full one does not.
 - Is there a term whose *idea* recurs where the *word* does not?
+- Is a candidate a phrase — an adjective with its noun? Write it in the case the
+  document uses (`großen Wandel`, not `großer Wandel`). A dictionary form of a phrase
+  the document only inflects counts zero, and after the count the list may not be
+  changed. The same holds for a plural the document joins, „Beats 2 und 3".
 - Does the document write a suspended compound — „Funktions-, Phobie- … und
   Beziehungs-Profil"? Only the last member is written whole; list what is
   written, and expect an expanded member to count zero.
@@ -125,6 +129,11 @@ wraps is judged by its first line alone.
   claim about what came before it.
 - Does the document restate *other* documents — an index of locks, a list of
   sources with dates? That is this document's claim about them, not their text.
+
+- Will you say something is **absent**? „No ozone", „nothing cold" — an absence cannot
+  be quoted, so `quotes.py` never checks it. Count every word the claim names, with a
+  word boundary, into `05-verify.txt`, including the adjective (`kalt`) as well as the
+  noun.
 
 **Gaps — what is assumed?**
 
