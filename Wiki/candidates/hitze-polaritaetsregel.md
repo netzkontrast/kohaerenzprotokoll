@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-24"
 ---
 
@@ -83,3 +83,10 @@ Warmth is what the Funken-Ich feels of [[juna|Juna]]'s resonance before AEGIS' f
 „Wenn in Kap 0 "Wärme, die es nicht geben kann" steht, dann muss in Kap 40 "die Wärme, die nicht hätte sein können" als Echo erscheinen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L319]
 Its origin is named as a chat turn: „Das ist die Wärme-Spur, die in der Probe vom letzten Turn vorgeschlagen wurde." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L315] It is Setzung 2, to be confirmed (L554–L564).
 Warmth as Juna's trace, in the [[genesis|Genesis]], three weeks before the lock of 2026-05-30; placed here by what it states (J62). C11.
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+No rule is stated; the draft renders both sides. Warmth is what the Funken-Ich feels of Juna's frequency: „Eine Wärme, die es nicht geben kann, weil hier keine Wärme existiert." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L401]
+Cold is the separation's and the system's: „Die Kälte einer Trennung, die war, lange bevor *ich* war." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L425] „Das Funken-Ich, jetzt voll wach, spürt die Algorithmen ankommen wie eine Wand aus Eis." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L445]
+Ozone stands once, unexplained, in the city Kael wakes in: „manchmal die Luft nach Ozon riecht, ohne dass jemand weiß warum" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501]. No Landauer, no heat spike.
+Placed here by what it states (J62). C11.
