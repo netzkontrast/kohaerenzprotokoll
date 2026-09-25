@@ -1,10 +1,10 @@
 ---
 term: Dual-Kernel-Theorie (DKT)
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -31,3 +31,10 @@ glossary calls „PAL" (L31, L61).
 Every profile has a „DKT-Korrelat — Welche physikalische Mechanik der Romanwelt entspricht ihm?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L28] Thirteen correlates, one per
 Alter: from Kael's „Hubble-Volumen / Big Rip." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L117] to Oblivion's „Erason-Operator." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L755] AEGIS may use
 „DKT-Statuszeilen erlaubt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L948]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+A hard rule for the prose: „Erste 50 Seiten: null DKT-Terminologie — nur Phänomenologie." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L21]
+In Kael's Akt I, no DKT terms (L69). [[mnemosyne|Mnemosyne]] may use its status lines:
+„DKT-Statuszeilen erlaubt, aber sparsam und in poetischer Einbettung." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45]
+The theory itself is not spelled out; `DKT` stands only in compounds.
