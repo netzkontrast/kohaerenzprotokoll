@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      58
+  backslash escapes      583
+  typographic marks      214
+  ascii quotes           47
+
+# inflection families -- one term, several surfaces
+  arbei    Arbeit, Arbeiter, Arbeits, Arbeitsgang, Arbeitsplatz, Arbeitsplatzes, Arbeitsschritten, Arbeitsszene, Arbeitsteilung, Arbeitsunfall
+  daten    DATENTYP, Datenknoten, Datenlast, Datensatz, Datensatzes, Datenströme, Datensätze, Datentyp
+  bestä    Bestände, Bestätigen, Bestätigtes, Bestätigung, Bestätigungs, Bestätigungsgeräusch, Bestätigungslatenz
+  gegen    Gegenbuchhaltung, Gegenmaßnahme, Gegenregister, Gegenrichtung, Gegenspiel, Gegenteil, Gegenüber
+  konso    KONSOLIDIERUNG, Konsole, Konsolen, Konsolidierung, Konsolidierungs
+  story    Story, Storyform, Storyforms, Storypoint, Storypoints
+  verwa    Verwaltung, Verwaltungs, Verwaltungsakt, Verwaltungsform, Verwaltungsstau
+  wartu    Wartung, Wartungs, Wartungsfenster, Wartungsfensters, Wartungshistorie
+  diege    Diegese, Diegetische, Diegetischer, Diegetisches
+  direk    DIREKT, Direkt, Direktive, Direktiven
+  fehle    Fehlen, Fehler, Fehlerklasse, Fehlern
+  stadt    STADTGEBIET, Stadt, Stadtereignis, Stadtplan
+  unter    Unterbau, Unterdrückung, Unterdrückungs, Unterlassung
+  begri    Begriff, Begriffe, Begriffs
+  beruf    Beruf, Berufs, Berufsbiographie
+  besta    Bestand, Bestandsführung, Bestandspflege
+  buchu    Buchung, Buchungs, Buchungsproblem
+  eintr    Eintrag, Einträge, Einträgen
+  erinn    Erinnern, Erinnerung, Erinnerungs
+  erste    Erste, Erstereignis, Erstereignisse
+  frage    Frage, Fragen, Fragezeichen
+  gesch    Geschehens, Geschenke, Geschäft
+  klick    Klick, Klicken, Klicks
+  kompl    Komplexe, Komplexität, Komplexitäts
+  konkr    Konkret, Konkretion, Konkretisierung
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Aktenfund
+  Akte < Artefakte
+  Akte < Charakterwechsel
+  Akte < Charakterschwäche
+  Alle < Alles
+  Alle < AUSGEFALLEN
+  Atem < Atemzählung
+  Beat < Beats
+  Bild < Bildung
+  Buch < Buchung
+  Buch < Buchungs
+  Buch < Buchführung
+  Buch < Buchführungs
+  Buch < Buchungsproblem
+  Buch < Gegenbuchhaltung
+  Eine < Keine
+  Eine < Kleinen
+  Ende < Render
+  Ende < Absender
+  Ende < Rendering

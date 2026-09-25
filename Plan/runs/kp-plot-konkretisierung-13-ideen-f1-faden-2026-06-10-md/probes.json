@@ -1,0 +1,254 @@
+{
+  "document": "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md",
+  "drive_id": "1eXLH3uMOZGVXUNK9CQPxBw4hgmCvtfp6Bio4WB3NP8M",
+  "step": "probes",
+  "at": "2026-09-25",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 58,
+  "backslash_escapes": 583,
+  "typographic_marks": 214,
+  "ascii_quotes": 47,
+  "inflection_families": {
+    "arbei": [
+      "Arbeit",
+      "Arbeiter",
+      "Arbeits",
+      "Arbeitsgang",
+      "Arbeitsplatz",
+      "Arbeitsplatzes",
+      "Arbeitsschritten",
+      "Arbeitsszene",
+      "Arbeitsteilung",
+      "Arbeitsunfall"
+    ],
+    "daten": [
+      "DATENTYP",
+      "Datenknoten",
+      "Datenlast",
+      "Datensatz",
+      "Datensatzes",
+      "Datenströme",
+      "Datensätze",
+      "Datentyp"
+    ],
+    "bestä": [
+      "Bestände",
+      "Bestätigen",
+      "Bestätigtes",
+      "Bestätigung",
+      "Bestätigungs",
+      "Bestätigungsgeräusch",
+      "Bestätigungslatenz"
+    ],
+    "gegen": [
+      "Gegenbuchhaltung",
+      "Gegenmaßnahme",
+      "Gegenregister",
+      "Gegenrichtung",
+      "Gegenspiel",
+      "Gegenteil",
+      "Gegenüber"
+    ],
+    "konso": [
+      "KONSOLIDIERUNG",
+      "Konsole",
+      "Konsolen",
+      "Konsolidierung",
+      "Konsolidierungs"
+    ],
+    "story": [
+      "Story",
+      "Storyform",
+      "Storyforms",
+      "Storypoint",
+      "Storypoints"
+    ],
+    "verwa": [
+      "Verwaltung",
+      "Verwaltungs",
+      "Verwaltungsakt",
+      "Verwaltungsform",
+      "Verwaltungsstau"
+    ],
+    "wartu": [
+      "Wartung",
+      "Wartungs",
+      "Wartungsfenster",
+      "Wartungsfensters",
+      "Wartungshistorie"
+    ],
+    "diege": [
+      "Diegese",
+      "Diegetische",
+      "Diegetischer",
+      "Diegetisches"
+    ],
+    "direk": [
+      "DIREKT",
+      "Direkt",
+      "Direktive",
+      "Direktiven"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehlerklasse",
+      "Fehlern"
+    ],
+    "stadt": [
+      "STADTGEBIET",
+      "Stadt",
+      "Stadtereignis",
+      "Stadtplan"
+    ],
+    "unter": [
+      "Unterbau",
+      "Unterdrückung",
+      "Unterdrückungs",
+      "Unterlassung"
+    ],
+    "begri": [
+      "Begriff",
+      "Begriffe",
+      "Begriffs"
+    ],
+    "beruf": [
+      "Beruf",
+      "Berufs",
+      "Berufsbiographie"
+    ],
+    "besta": [
+      "Bestand",
+      "Bestandsführung",
+      "Bestandspflege"
+    ],
+    "buchu": [
+      "Buchung",
+      "Buchungs",
+      "Buchungsproblem"
+    ],
+    "eintr": [
+      "Eintrag",
+      "Einträge",
+      "Einträgen"
+    ],
+    "erinn": [
+      "Erinnern",
+      "Erinnerung",
+      "Erinnerungs"
+    ],
+    "erste": [
+      "Erste",
+      "Erstereignis",
+      "Erstereignisse"
+    ],
+    "frage": [
+      "Frage",
+      "Fragen",
+      "Fragezeichen"
+    ],
+    "gesch": [
+      "Geschehens",
+      "Geschenke",
+      "Geschäft"
+    ],
+    "klick": [
+      "Klick",
+      "Klicken",
+      "Klicks"
+    ],
+    "kompl": [
+      "Komplexe",
+      "Komplexität",
+      "Komplexitäts"
+    ],
+    "konkr": [
+      "Konkret",
+      "Konkretion",
+      "Konkretisierung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Aktenfund"
+    ],
+    [
+      "Akte",
+      "Artefakte"
+    ],
+    [
+      "Akte",
+      "Charakterwechsel"
+    ],
+    [
+      "Akte",
+      "Charakterschwäche"
+    ],
+    [
+      "Alle",
+      "Alles"
+    ],
+    [
+      "Alle",
+      "AUSGEFALLEN"
+    ],
+    [
+      "Atem",
+      "Atemzählung"
+    ],
+    [
+      "Beat",
+      "Beats"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Buch",
+      "Buchung"
+    ],
+    [
+      "Buch",
+      "Buchungs"
+    ],
+    [
+      "Buch",
+      "Buchführung"
+    ],
+    [
+      "Buch",
+      "Buchführungs"
+    ],
+    [
+      "Buch",
+      "Buchungsproblem"
+    ],
+    [
+      "Buch",
+      "Gegenbuchhaltung"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Kleinen"
+    ],
+    [
+      "Ende",
+      "Render"
+    ],
+    [
+      "Ende",
+      "Absender"
+    ],
+    [
+      "Ende",
+      "Rendering"
+    ]
+  ]
+}

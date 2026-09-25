@@ -1,0 +1,14 @@
+# kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md
+  lines                292  (frontmatter ends at 9)
+  body words           5928
+  headings             27   bold-only lines 3
+  table rows           85   code fences 0
+  question marks       4
+  backslash escapes    583
+  typographic marks    214   ascii quotes 47
+  invisible characters none
+  math symbol lines    9
+  glued ref numbers    58
+  repeated labels      Kanon-Prüfung x13, Kapitel-Anker x13, Löst x13, Was geschieht x13
+  longest line         10329 chars
+
