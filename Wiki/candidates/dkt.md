@@ -35,6 +35,6 @@ Alter: from Kael's „Hubble-Volumen / Big Rip." ^[kohaerenz-protokoll-anteile-p
 ## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 
 A hard rule for the prose: „Erste 50 Seiten: null DKT-Terminologie — nur Phänomenologie." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L21]
-In Kael's Akt I, no DKT terms (L69). [[mnemosyne|Mnemosyne]] may use its status lines:
+In [[kael|Kael]]'s Akt I, no DKT terms (L69). [[mnemosyne|Mnemosyne]] may use its status lines:
 „DKT-Statuszeilen erlaubt, aber sparsam und in poetischer Einbettung." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45]
 The theory itself is not spelled out; `DKT` stands only in compounds.

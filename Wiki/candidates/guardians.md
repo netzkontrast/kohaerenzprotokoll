@@ -330,5 +330,5 @@ Two figures carry the label: „Mnemosyne (Guardian / Erinnerungs-Wächterin)" ^
 „Erasure-Pol (Guardian / Löschungs-Exekutive)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L51], the second with its name open —
 „Kalter Gegen-Pol zu Mnemosyne. (Name offen — OQ.)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L53] No number is stated (C6).
 Mnemosyne „operiert in AEGIS' Architektur, weil sie keine andere Sprache hat" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45] (Q1).
-[[logos|LogOS]] and [[cerberus|Cerberus]] stand only in world names (L213, L221, J49); Kairos and Sophia
+[[logos|LogOS]] and [[cerberus|Cerberus]] stand only in world names (L213, L221, J49); [[kairos|Kairos]] and [[sophia|Sophia]]
 do not occur. The author's five stand.

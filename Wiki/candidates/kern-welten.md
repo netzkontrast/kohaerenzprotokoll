@@ -343,5 +343,5 @@ And a style per world, „horizontale Achse durch die Akte" ^[koharenz-protokoll
 | KW3 | „KW3 — Cerberus-Labyrinth. NP-Hard." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L221] | „Nyx und Alex dominieren in EP-Modus." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L221] |
 | KW4 | „KW4 — Möglichkeits-Garten. Generativ." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] | „Selene dominiert in ANP-Modus; Wir-Stimme tritt erstmals ganz auf." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] |
 
-Two worlds are dominated by Alters, one by a Guardian, one by an Alter and the Wir (Q3, Q5).
+Two worlds are dominated by [[alters|Alters]], one by a Guardian, one by an Alter and the Wir (Q3, Q5).
 KW3 has chapters here: Kernwelten 2–3 are Akt II, Kap 14–26.

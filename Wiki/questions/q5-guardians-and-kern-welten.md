@@ -125,5 +125,5 @@ Mnemosyne-Archipel, the climax (L1000).
 **A Guardian dominant in the world named for her; the other names on worlds only.**
 „KW2 — Mnemosyne-Archipel. Parakonsistent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] „Mnemosyne dominiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217]
 KW1 is `Konstrukt-Stadt / Logos-Prime` (L213) and KW3 `Cerberus-Labyrinth` (L221), and neither
-bearer is profiled; Kairos and Sophia do not occur. The Erasure-Pol's name is open:
+bearer is profiled; [[kairos|Kairos]] and [[sophia|Sophia]] do not occur. The Erasure-Pol's name is open:
 „Kalter Gegen-Pol zu Mnemosyne. (Name offen — OQ.)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L53]

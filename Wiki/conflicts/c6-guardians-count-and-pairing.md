@@ -171,5 +171,5 @@ the other is the „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-prof
 
 **Two figures labelled Guardian, and no number.** „Mnemosyne (Guardian / Erinnerungs-Wächterin)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L43]
 and „Erasure-Pol (Guardian / Löschungs-Exekutive)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L51], its name open (L53).
-[[logos|LogOS]] and [[cerberus|Cerberus]] stand only in world names (L213, L221); Kairos and Sophia
+[[logos|LogOS]] and [[cerberus|Cerberus]] stand only in world names (L213, L221); [[kairos|Kairos]] and [[sophia|Sophia]]
 do not occur. Recorded after the author's decision for five; it changes nothing in that decision.

@@ -171,7 +171,7 @@ Konzept of the same day.
 „Silas und Oblivion stehen im physikalischen Konflikt — jeder Wechsel zwischen ihren Stimmen erzeugt Landauer-Wärme im Text, spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233]
 Akt II's style level is „Heiß, fragmentiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L185], with `Hitze` and `Ozon` in one
 vocabulary list (L185). Warmth is [[juna|Juna]]'s too — „plötzliche somatische Wärme" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] —
-and Silas' (L157). No signature is named, no chapter and no lock. The document is dated
+and [[silas|Silas]]' (L157). No signature is named, no chapter and no lock. The document is dated
 seventeen days before the lock of 2026-05-30 and names the character bible as a source (L13),
 whose sentence on the same conflict gives `Landauer-Hitze` (the entry above, found by a second
 reading).
