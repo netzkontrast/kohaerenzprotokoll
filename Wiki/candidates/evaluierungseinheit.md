@@ -1,10 +1,10 @@
 ---
 term: Evaluierungseinheit
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -20,3 +20,7 @@ through it, by way of KW3: „Wechsel über *Evaluierungseinheit*" ^[kohaerenz-p
 
 Whose Personae collapse the sentence does not say (J67). The konsolidiertes
 Konzept lists it among KW3's sub-locations with „(Ch13)" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L513], not attached.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A KW3 sub-location marked `[V]`: „offizielle Verhandlung der Identität; Setting möglich Kap 13" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L219].
