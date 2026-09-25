@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -96,3 +96,9 @@ In the growing cluster: „Eine solche Vorhersage ist fehleranfällig. Sie ist a
 „Lex-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: hypotaktisch, verschachtelt, Bedingungslogik, Qualifikatoren (*sofern*, *nicht prinzipiell ausgeschlossen*)." ^[kap0-v1-annotiert-md.md:L293]
 Again when bonds are shed: „Dies ist nicht Verlust, sondern Strukturoptimierung. Es ist nicht Verlust. Es ist nicht. Verlust." ^[kap0-v1-annotiert-md.md:L337]
 „Lex-Vorform wieder; Beginn der Selbsttäuschung" ^[kap0-v1-annotiert-md.md:L345].
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+An ANP of Storyform A: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135].
+His style code: „Stilcodes pro Alter (Lex hypotaktisch, Nyx fragmentiert-bildhaft, Selene kühl-präzise) sind ab Kap 2–3 erste schwache Einbrüche; voll ausgeprägt ab Kap 8–10." ^[three-mode-architecture-39-chapters-md.md:L198]
+By chapter: Kap 2 „Kael, mit Lex-Einbruch" ^[three-mode-architecture-39-chapters-md.md:L179]; Kap 3 „Kael (Lex-dominant)" ^[three-mode-architecture-39-chapters-md.md:L180]; Kap 16 „Kael (Lex+Selene-Dominanz)" ^[three-mode-architecture-39-chapters-md.md:L260].
