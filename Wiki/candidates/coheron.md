@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -91,3 +91,11 @@ Silas' DKT correlate is „Coheron-Echo." ^[kohaerenz-protokoll-anteile-profile-
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 Silas as „Coheron-Echo" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80]; warmth „nur als Coheron-Spur" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80].
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„**Coheronen** sind selbstkorrigierende Schleifen mutualer Information. Sie existieren *außerhalb der Zeit*." ^[kohaerenz-protokoll-konzept-master-md.md:L115]
+„Ein Coheron ist das, was entsteht, wenn sich ein Bewusstsein auf ein anderes bezieht und beide dabei verändert werden — eine Bindung, die keinen Zeitpunkt hat, weil sie in allen Zeitpunkten gleichzeitig existiert." ^[kohaerenz-protokoll-konzept-master-md.md:L115]
+Love is a class of them: „Liebe ist im Roman keine Emotion und keine Zuschreibung, sondern eine Klasse von Coheronen." ^[kohaerenz-protokoll-konzept-master-md.md:L123]
+„Liebe ist Coheron. Coheron ist atemporal. Zerstörung braucht Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L71] „Also kann Liebe nicht zerstört werden — nur verdrängt. Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
+Juna is one, from outside: „\*\*Juna\*\* | Coheron (extern) | Reine Korrespondenz" ^[kohaerenz-protokoll-konzept-master-md.md:L959]; Silas its echo (L399).
