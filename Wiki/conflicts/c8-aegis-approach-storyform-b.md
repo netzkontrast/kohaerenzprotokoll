@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["aegis"]
 ---
 
@@ -93,3 +93,9 @@ The Storyform-B table assigns „Do-er“ to MC Approach
 the outward mode of the operational half ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L186].
 This supports the Do-er position, while the character bible's Be-er entry
 remains part of the record.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Do-er, and the correction named.** „MC Approach | Be-er | Do-er" ^[kohaerenz-protokoll-konzept-master-md.md:L809] — storyform A's Kael a Be-er, B's AEGIS a Do-er;
+„Do-er-Modus: AEGIS' Antworten sind Aktionen" ^[kohaerenz-protokoll-konzept-master-md.md:L841]. Its status line dates it to a canon sync of 2026-05-07
+that includes an `Approach-Korrektur` (L21). The same date as the character bible, which gives Be-er.
