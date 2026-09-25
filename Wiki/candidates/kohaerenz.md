@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere"]
 gathered: "2026-09-17"
 ---
 
@@ -85,3 +85,10 @@ regulation of the passage from order to disorder, „um die Kohärenz und strukt
 definition — that is the reading above from `kohaerenzprotokoll-aegis-und-systementropie` —
 but the earliest source to set the two against each other. Found by the sweep
 (decision 012).
+
+## Reading — `aegis-emergenz-aus-der-leere`, 2025-04-19
+
+In the postulate this source examines, Kohärenz is what [[aegis|AEGIS]] balances against
+entropy, by itself: „Systemstabilität ausschließlich durch interne Balancierung von Entropie bzw. Kohärenz ohne externe Steuerung" ^[aegis-emergenz-aus-der-leere.md:L19]
+— one of the postulate's radical claims, which the source reports in order to
+test them, not its own. Found by the sweep (decision 012).
