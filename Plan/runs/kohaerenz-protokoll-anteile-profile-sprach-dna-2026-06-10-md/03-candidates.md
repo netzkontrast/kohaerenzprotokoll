@@ -283,13 +283,13 @@ written_by: Claude session, during the numbered reading, 2026-09-25, by the list
 - Foreshadowing-Programm
 - Log-Format
 - AEGIS v{X.X}
-- SYSTEM_KAEL
+- SYSTEM\_KAEL
 - KOHÄRENZ
-- EP_AKTIVITÄT
-- EXTERNE_AUFMERKSAMKEITS_METRIK
-- JUNA_VEKTOR
+- EP\_AKTIVITÄT
+- EXTERNE\_AUFMERKSAMKEITS\_METRIK
+- JUNA\_VEKTOR
 - AXIOMVERLETZUNG
-- PARADOX_INDEX
+- PARADOX\_INDEX
 - Slot-16-Lock
 - UI-Direktiven
 - Konsolen-Zeilen
@@ -359,3 +359,6 @@ Observed while reading (prose, filtered out):
 * L1028 Juna: Abwesenheits-Phase → Präsenz-Phase → "direkte Stille-Erscheinung Kap 38" (C7).
 * L1079 four Genesis beats per the Kompendium, and the Alex conflict (C12).
 * L149 Kael "Be-er-Modus" — Storyform A's MC, not AEGIS (not C8).
+
+Corrected after the count: five log-field names written without the export escaping
+(`SYSTEM\_KAEL` etc.), as the file writes them.
