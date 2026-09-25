@@ -1,0 +1,572 @@
+written_by: Claude session, during the numbered reading, 2026-09-25
+
+Open while reading (prose, filtered out): the document names itself the fourth of a
+"Repo-Quartett" (L13) and labels passages [K]/[V]/[S]/[L]. L42 "dekanonisiert"
+Guardian-assigned worlds (KW1=LogOS, KW4=Kairos/Sophia). L90 knuckles: Kap-0 lock,
+Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
+
+- Welt-Bibel
+- Sensorik
+- Sensorik-Bibliothek
+- Drafting-Disziplin
+- Foreshadowing-Tracker
+- Foreshadowing-Programm
+- Genesis-Motive-Choreografie
+- Reveal-Disziplin
+- Ouroboros-Spiegelung
+- Kapitel-Briefing-Vorlage
+- Self-Review-Regelwerk
+- Master-Index
+- Lock
+- Repo-Architektur
+- Repo-Quartett
+- Provenienz
+- kanonisch
+- Vorschlag
+- Steinbruch
+- Lücke
+- KW1
+- KW2
+- KW3
+- KW4
+- Überwelt
+- Externe Ebene
+- Stilebene
+- Risse
+- Risse-Phänomenologie
+- Bewusstseins-Schichten
+- Mnemosynes Versuchung
+- Anti-Heilung
+- Hard-Rules
+- Genre-Modus
+- Rauschen
+- Klick
+- Phantom
+- Resonanz
+- Realitätsebenen
+- Logikregime
+- psychologische Landschaften
+- Akt-Marker
+- Guardian-Reich
+- Konstrukt-Stadt
+- Logos-Prime
+- K₁
+- K₀
+- K₀-Erosion
+- ANP-Vermeidung
+- Phaenomena
+- AEGIS
+- Multiplizitäts-Schleier
+- Architektur als Kontrolle
+- Ozon
+- Polaritätsregel
+- Landauer-Signatur
+- Bilanzgrenze
+- Computational Class
+- Computational Class P
+- Metaphernverbot
+- AEGIS-Logs
+- Somatik-Default
+- Kael-Host
+- Atem-Zählung
+- Lex
+- Hypoventilation
+- Escher-Geometrien
+- Kausalitätsschleifen
+- Blutende Knöchel
+- Kap-0-Lock
+- Sub-Lokalitäten
+- Wohneinheit 734
+- Einheit 734
+- Datenverarbeitungsknoten Epsilon
+- Transitkorridor Delta-7
+- Sektor 04
+- Archivar-Klasse-II-Arbeitsraum
+- Komponente 734
+- Archivar Klasse II
+- Mnemosyne-Archipel
+- Resonanzlandschaft
+- Klimax-Setting
+- Erasure
+- Vortex 1
+- Vortex-1-Setting
+- Architektonische Palimpseste
+- Echos
+- Nicht-lineare Zeit
+- Parakonsistent
+- Tarski-Hierarchie
+- Trigger
+- Temporale Risse
+- Spatiale Risse
+- Kiko
+- Lia
+- Isabelle
+- Archiv der Grenzen
+- Wald des Flüsterns
+- Ozean-Becken
+- Mnemosyne-Server-Architektur
+- Mnemosynes Audienz-Raum
+- Mnemosyne
+- Cerberus-Labyrinth
+- Grenzfeste
+- EP-Protektoren
+- Erasure-Pol
+- Überwelt-Nexus
+- Approach-Inmost-Cave-Beat
+- Hyperalert
+- NP-Hard
+- Gravitationale Risse
+- Kinetische Risse
+- Zitadelle
+- Inneres Bollwerk
+- Wartungsschächte
+- Die unbewachten Tore
+- Evaluierungseinheit
+- Kairos-Potentialis
+- Resonanz-Kontinuum
+- Möglichkeits-Garten
+- Coheronen
+- Emergenz
+- Ruinengarten der Möglichkeit
+- Funktionale Multiplizität
+- Synästhesie
+- Generativ
+- Wir-Pronomen
+- Generative Risse
+- Nexus
+- Mosaik-Herz
+- Selbst-Schöpfung
+- Maschinenraum
+- Datenstrom-Kathedrale
+- Guardians
+- Erasure-Sweeps
+- Wächter-Konsolen
+- Schnittstelle zu den Kernwelten
+- Wächter-Registry
+- Jenseits-des-Ereignishorizonts-Bereich
+- Verschränkungs-Insel
+- Köln 2026
+- Substrat-Durchbruch
+- Junas Ankerpunkt
+- Juna
+- Garten der stillen Präsenz
+- Juna-Wirkung
+- Quelle des Flüsterns
+- Unkartiertes Territorium
+- Hitze-Polaritätsregel
+- Kaltes Ozon
+- Wärme
+- AEGIS-Unterdrückung
+- Coheron-Verdrängung
+- Heat Spike
+- Vortex 1 Beat 4
+- MI
+- Sensorik-Lookup
+- Juna-Stil
+- EP-Domäne
+- Form-die-atmet
+- Diegetische Wiederkehr-Sensorik
+- 21°C-Schwelle
+- Telefon-Rauschen
+- Telefon-Stille
+- Knöchel-Blutung
+- Quellenloses Licht
+- Phantom-Bilanz
+- Zahl 734
+- Inversion
+- Suppression-Versagen
+- EP-Trigger
+- Riss-Typ
+- Anteils-Risse
+- Nyx
+- Moros
+- Silas
+- Coheron-Echo
+- Oblivion
+- Erason-Operator
+- Welt-Risse
+- Kompositions-Regel
+- Storyform-Pull
+- Stränge
+- Landauer
+- Gödel
+- Gödel-Gambit
+- Bekenstein
+- Pixelierung
+- Architektur-Kollaps
+- Dasein
+- Euler
+- Cache-Konflikt
+- Hartes Problem
+- Ordinary World
+- Show-don't-Tell
+- Sprachliche Spuren
+- Strukturelle Markierungen
+- Akkumulations-Regel
+- Schleier-Fall
+- Twist-Anforderung
+- DID-Architektur
+- Cosmic Horror
+- DID
+- Anker-Tracker
+- Telefon-Stille-Anker
+- Die Stimme im Rauschen
+- K-J-Verbindung
+- A-Prerequisite
+- Komponente-734-Anker
+- Reader-only-Echo
+- Silas-Halbsatz-Anker
+- Schicht-2
+- Echo-Prosa
+- Transmitter
+- OQ-E
+- Wärme-Debüt-Anker
+- Polaritäts-Lock
+- Genesis-Motive
+- Erstereignisse
+- Nichts-Rauschen
+- K₁-Reinform
+- Cluster-Bildung
+- Form
+- Trennungs-Klick
+- Korrelat-Achse
+- Coheron
+- Wegmarken
+- Reinform-Stille
+- Anti-Form
+- Echos im Fundament
+- Kohärenz-Mantra
+- falsche Form
+- Orkan
+- Sphäre
+- Wir
+- Schwellen-Bruch
+- Vortex 1 Beat 2
+- Pivot
+- Sehnen-ohne-Adresse
+- Pforten
+- Komp-734
+- Trennungsprotokoll
+- Moonshine-Resonanz
+- Vortex 2
+- Motiv-Echo
+- Genesis-Echo
+- Tragische Ironie
+- Lesersteuerung
+- Schleier-Lüftung
+- Spiegel-Konflikt
+- Lesart-Dualität
+- Reset
+- Transfiguration
+- Atmosphären-Drift
+- Stilcode-Einbrüche
+- Phantom-Resonanz
+- Multiplizität
+- η-Werte
+- Erasure-Bilanzen
+- uncorrelated noise
+- Genesis
+- Reveal-Timeline
+- Slot-16-Lock
+- Innensicht
+- Anteile
+- Modi
+- Stimmungs-Drifts
+- Phase-Wechsel
+- Eskalation
+- Erasure-Welle
+- AEGIS-Dossiers
+- Lernarchiv Theta-9
+- Erasure-Phase 2
+- Genesis-Flashbacks
+- Bridge
+- Countdown
+- Moonshine-Bewusstsein
+- K-J-Kanal
+- Mandat-Krise
+- FM-Achievement
+- parakonsistente Logik
+- Truth-Rotation
+- Beat 5
+- algorithmische Melancholie
+- plurale Apotheose
+- Wir-AEGIS-plural
+- Erzähl-Stimme
+- Iser-Layer-Disziplin
+- Uncanny Valley
+- Leerstellen
+- Fußnoten
+- Wir-Geflecht
+- Iser-Position
+- Reader-Funktion
+- Genesis-Klammer
+- Vorwort
+- Echo des Vorworts
+- Genesis-Bewegungen
+- Krise
+- Stille Wacht
+- Perturbation
+- Algorithmischer Schrecken
+- Resonanzkaskade
+- Systemischer Kollaps
+- Scherben
+- Mosaik
+- Letztes Bild
+- Erstsatz-Lock
+- Ouroboros
+- Lexem-Echo
+- Welt-Subjekt
+- Junas Grammatik
+- Erst-Read
+- Zweit-Read
+- Spiegelbild-Mikroverzögerung
+- Stille
+- Anker-Wort
+- Memory-Anker
+- Inversions-Mechanik
+- Telefon
+- OQ-Knöchel
+- Zähl-Manie
+- Kacheln
+- Wir-Pluralität
+- Heilung durch Auslöschung
+- AEGIS-System
+- Charakter-Bibel-Anker
+- Guardian-Stimme
+- Antagonistin
+- Konflikt-Anker
+- Kapitel-Briefing
+- CH-01_Erwachen-Zyklus_Briefing
+- Storyform-Encoding
+- Telling
+- Block
+- HR
+- Modus
+- Zyklus-Position
+- Block-Sequenz-Position
+- Dramatica-Encoding
+- Throughline
+- Storyform A
+- Storyform B
+- MC
+- IC
+- OS
+- RS
+- Dynamics-Check
+- Approach
+- Driver
+- Limit
+- Resolve
+- Style
+- POV
+- Pronomenpraxis
+- Syntax-Signatur
+- Sprach-DNA
+- Sprach-DNA-Anker
+- Multiplizitäts-Tarnung
+- Schleier-Pegel
+- Prosa-Stil
+- Tonale Achse
+- Schmerz-Liebe-Substrat
+- Anteils-Somatik
+- Anteile-Profile
+- Hitze-Polaritäts-Check
+- 734-Anker
+- Silas-Anker
+- Wärme-Spur
+- Vortex-Vorbereitungen
+- Genesis-Krise-Splitter
+- Reader-Architektur
+- Iser-3-Layer
+- POV-Träger
+- Konflikt-Topologie
+- Rhys
+- Selene
+- ANP-EP-Phobie
+- ANP
+- EP
+- Block-4-Anker-Check
+- Risiko-/Adversarial-Check
+- R-Regel
+- Soft-Drift
+- Stapelungs-Risiken
+- Storypoints
+- OQ
+- Genesis-Echo-Limit
+- Reveal-Schicht
+- Ouroboros-Pflicht
+- Kap-0-Annotation
+- Hard Rules
+- R-1
+- R-2
+- R-3
+- R-4
+- R-5
+- R-6
+- R-7
+- R-8
+- R-9
+- R-10
+- Alter
+- Fragment
+- TSDP
+- Syntax-Bruch
+- Stimmen-Mikrocues
+- Bridge-Szene
+- Genesis-Stil-Marker
+- AEGIS ist, was AEGIS verhindert
+- Defekt-Kategorien
+- Schweregrad
+- Self-Review-Checkliste
+- Tonale-Achse-Check
+- POV-Konsistenz-Check
+- Genre-Modus
+- Hard-SF
+- Philosophical Horror
+- Psychological Thriller
+- Literary SF
+- Technothriller-Kippe
+- chorisches Drama
+- metaphysischer Klimax
+- Soft-Layering
+- Dialetheia
+- trügerischer Pastoralismus
+- Reward-Beat
+- spirituelle Apotheose
+- ketsu
+- Kawabata-Erzähllogik
+- Coda
+- geheilte Genesis
+- Genre-Disziplin
+- Storyform-Locks
+- Lock-In 2026-05-07
+- Dual-Storyform
+- Heuristics of Integration
+- Phoenix Collapse
+- MC-Throughlines
+- IC-Throughlines
+- POV-Architektur
+- Hybrid Option 3
+- Hard-Routing-Default
+- Bridge-Soft-Layering
+- Genesis-Iteration-Locks
+- Cost
+- Dividend
+- Plurale Apotheose
+- Synthese (c)
+- Genesis-4-Beat
+- Einheit
+- Cluster
+- Drei ontologische Schichten
+- K₀-Existenz
+- Zeit-Prinzip
+- Reset-Locks
+- Architektur-Reduktion
+- Zwei Guardians
+- Drei Protokolle
+- Suppression
+- Kohärenz
+- Re-Containment
+- 13 Alter
+- Anteile-Profil
+- Final Fusion
+- Verschmelzung
+- Race-Condition-Ende
+- Michael
+- Kael
+- Entscheidungs-Logs
+- OQ-B
+- Juna-Modi
+- gestaffelte Grammatik
+- Abwesenheits-Phase
+- Präsenz-Phase
+- Slot-16
+- Hard-A-Default
+- Hard-B-Kapitel
+- AEGIS-Stimme
+- UI-Direktiven
+- Systemlog-Stimme
+- Schicht-1
+- Schicht-2
+- Kap-1-Erstsatz
+- Doppellesbares Finale
+- Konflikt-Leser
+- Ketsu-Leser
+- Kompendium
+- Blutungs-Faden
+- Akt-II-Titel-Schichten
+- Turing-Mechanik
+- Zyklus-Funktion
+- Genesis-Beat-Anzahl
+- Hard-Constraints
+- Projekt-Anleitung
+- Liebes-Interesse
+- Alex
+- Datei-Struktur
+- canon
+- Source-of-Truth
+- locks
+- archive
+- briefings
+- drafts
+- reviews
+- encoding
+- NCP
+- ncp-author
+- Phoenix-Mode
+- oq-tracker
+- Naming-Konventionen
+- Sessions-Bootstrap-Reihenfolge
+- master-index
+- Hard-Stops
+- Canon-Mutationen
+- Entscheidungs-Log
+- kanonisieren
+- Wirklich-offene Punkte
+- Encoding-blockierend
+- KW2-Klimax-Setting
+- Vortex-1-Encoding
+- Spiegel-Alter
+- OQ-F
+- Moonshine-Boundary
+- Moonshine-Link
+- OQ-G
+- Post-Vortex-AEGIS-Status
+- lebende Reliquie
+- Oblivion-Übernahme
+- Storyweaving
+- MC Symptom & Response
+- 14-Frage-Sequenz
+- OQ-D
+- P5
+- Temporal Scrambling
+- Sich-ausschließende Epiloge
+- Genesis-Konflikt
+- Alex-vor-Trennungsprotokoll-Konflikt
+- Fragmentierung
+- Alex-Vorform
+- Bewegung 4
+- Proto-Cluster
+- Stimmen-Vorformen
+- 13 Meta-Stadien
+- Heilungs-Bogen
+- Heldinnenreise
+- ontologische Heilungs-Schleife
+- tragische Unschuldsstruktur
+
+Observed while reading (prose, filtered out):
+- L42 decanonises Guardian-assigned worlds (KW1=LogOS, KW4=Kairos/Sophia); KW1-4 are
+  Akt-Marker. L282 two Guardians in the Überwelt; L1183 "Zwei Guardians | Mnemosyne +
+  Erasure-Pol (frühere fünf sind dekanonisiert)".
+- L346/L1067/L1196 cold ozone = AEGIS, warmth = Juna, debut Kap 3, exception Vortex 1
+  Beat 4. But L445 strand 1 "Landauer": "Hitze als Symptom der Wahrheitsvertuschung",
+  accumulating in Kap 6 — while L346 files Landauer-Signatur under Kaltes Ozon. L418 a
+  thermal Riss at the KW1->KW2 transition: "Hitze-Spitzen, Ozon-Konzentration".
+- L1174 Genesis-4-Beat: Einheit -> Cluster -> Trennungsprotokoll -> Wir-AEGIS-plural
+  (attributed to Konzept konsolidiert); L1212 four beats, Beat 4 = Wir-AEGIS-plural.
+  L627 the Kap-0 crisis chain ends in Trennungsprotokoll. No 734-before-separation here.
+- L327 Garten der stillen Präsenz = Setting der Juna-Wirkung (Kap 33), Externe Ebene;
+  L593 Kap 38 Juna erscheint direkt.
+- L175 KW3 carries Kap 23-28, and Überwelt-Nexus in Kap 33.
+- L1456-1466 the document's own Genesis conflict: Alex before or in the separation.
+- L1410-1411 it claims Source-of-Truth for the four canon files; "Canon gewinnt".
