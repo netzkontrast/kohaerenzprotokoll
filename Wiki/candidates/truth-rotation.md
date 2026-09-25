@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-25"
 ---
 
@@ -62,3 +62,8 @@ At the Vortex: „Hier schließt sich die Truth-Rotation: AEGIS = K₀ wird sich
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Once, in the Vortex chapters' cast: „Oblivion (Innen-Spiegelung der Truth-Rotation)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1091].
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The inversion under its own name: „**Die große Inversion (Skelett der zwei Storyforms).** AEGIS *glaubt* K₁ (Kohärenz) zu sein, *ist* aber K₀ (Entropie)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L25] — „Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kapitel-kompendium-gather-2026-05-31-md.md:L25]
+The rotation is the turn: „**Truth-Rotation:** AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die *Lesart* kippt." ^[kapitel-kompendium-gather-2026-05-31-md.md:L232]
