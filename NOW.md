@@ -286,6 +286,24 @@ German compounds that nothing has tested. The fixture is nearly free: every
 `Wiki/questions/` page and conflict record already says „a search finds this in
 `<slug>`". Plan: `Plan/concept/skills_2026-09-17.md`.
 
+**The first inline RLM retrieval trial did not return an answer (2026-09-25).**
+With the author's explicit consent, `scripts/rlm_retrieval.py` sent only the
+`C10` and `Q2` questions and any requested wiki titles/verified quotations to
+OpenRouter's free Nemotron model. Both cases had baseline recall 0 because
+they found no seed. Both RLM calls reached `max_iters=5` without submitting;
+DSPy forced final extraction, returned no page IDs, and the runner recorded
+each as *unscored*, not recall 0. The Deno sandbox and an independent offline
+RLM probe did run. The current search tool finds no page for the literal
+English queries `bleeding knuckles` or `protocol`; whether translation,
+broader browsing, or a different model fixes this is unmeasured. No result
+supports claiming RLM beats the search baseline.
+The first tool iteration also hid the relevant Kael quotations: `inspect_page`
+returned only its first six verified citations, while the knuckle passages
+are later. `rlm_retrieval.py` now offers `search_quotes(page_id, words)` over
+all verified citations on a page, capped at eight matches. Its selftest
+reproduces the miss and verifies the new tool finds those passages. This is a
+tool-access correction; it has not been re-run against a real model.
+
 **The plural rule exists, and `fold()` has not adopted it.** `fold()` removes
 the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
@@ -470,10 +488,11 @@ source's was corrected; that check is not a standing one, because the nine
 clones it reads are not in a fresh container. Open, none of it needing a
 model:
 
-- **`rlm_ingest.py` has no offline run of its RLM loop.** Its selftest covers
-  the tools and the reach. `dspy[deno]` now installs the sandbox, and
-  `check_dspy_skill.py`'s `rlm-runs-offline` probe is the shape one would take
-  (P5).
+- **`rlm_ingest.py` has an offline RLM loop check.** `--loop-selftest` drives
+  the real DSPy action and extract loop through a scripted interpreter and
+  fixture LM, verifying submission and forced output without network or corpus.
+  It does not exercise the Deno sandbox; `check_dspy_skill.py`'s
+  `rlm-runs-offline` probe covers that only when its runtime cache is present.
 - **Folds move as the ledger grows.** `folds()` deals round-robin over hash
   order, and one appended judgement moved 15 of 57 rows to another fold
   (measured). Whether a stable assignment is worth less balanced folds is open.
