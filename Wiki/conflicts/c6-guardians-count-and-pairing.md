@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -138,3 +138,11 @@ Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810
 „Die zwei Guardians (auf 2 reduziert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L158] — a 2026 source for two, recorded
 after the author's decision for five; it changes nothing in that decision. What it
 says of the other three and [[sophia|Sophia]] is in Q5.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Two, as a reset lock with no source named**: „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183].
+It de-canonises the pairing by name — „Die alten Drafts sprechen teils von „6 Realitätsebenen", teils von Guardian-zugeordneten Welten (KW1=LogOS, KW4=Kairos/Sophia)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
+— and says „KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
+Recorded after the author's decision for five; it changes nothing in that decision.
+It says nothing of where the other three and [[sophia|Sophia]] went (Q5).
