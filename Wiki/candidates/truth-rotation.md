@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: C2
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
 gathered: "2026-09-25"
 ---
 
@@ -53,3 +53,8 @@ Gathered when the page opened: the census had listed the term (L71, L149, L260).
 „Die Phänomenologie der Risse ändert sich nicht; die Lesart ändert sich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L138]
 At the pivot „Hier schließt sich die Truth-Rotation" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1321], and in Beat 5 „Truth-Rotation komplett." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1336]
 Gathered when the page opened: the census had listed the term.
+
+## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
+
+In Kap 35, Vortex 1 Beats 1–3, among the chapter's figures: „Oblivion (Innen-Spiegelung der Truth-Rotation)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1091].
+[[oblivion|Oblivion]] as its mirror inside the system. Gathered when the page opened: the census had listed the term.
