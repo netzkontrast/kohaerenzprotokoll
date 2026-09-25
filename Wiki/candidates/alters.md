@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 16
-readings: 15
+sources: 17
+readings: 16
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-16"
 ---
 
@@ -214,3 +214,8 @@ The healed form holds them apart: „Sie sind verbunden, aber unterscheidbar —
 The rule: „In Kap 0 sind die späteren Alter nur als Cluster-Funken-Echos präsent, nicht als Personen." ^[kap0-v1-annotiert-md.md:L51] „Sie haben keine Namen, keine Etiketten, keine Header." ^[kap0-v1-annotiert-md.md:L51] „Der Leser darf nicht in "13-Personen-Lesart" versetzt werden." ^[kap0-v1-annotiert-md.md:L51]
 So the prose names none. The annotations name each passage's voice as a Vorform, and the writer sums up: „Die Choreographie der Vor-Stimmen (Moros → Kiko → Lia → Rhys → Lex → Alex → Argus → Nyx → Selene → Silas → Oblivion)" ^[kap0-v1-annotiert-md.md:L1101]. Eleven, before any of them is a person.
 The writer doubts one: „Charakter-Bibel sagt, Alex *entstand in der Sekunde der Fragmentierung* — also strenggenommen kann Alex in der Genesis vor dem Trennungsprotokoll nicht präsent sein. Konzept-Konflikt?" ^[kap0-v1-annotiert-md.md:L1205]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+Sorted by the storyform each carries: „ANP-K1-Träger (Kael, Lex, Alex, Rhys, Selene) und EPs (Nyx, Kiko, Lia, Isabelle, Moros) → Storyform A dominant" ^[three-mode-architecture-39-chapters-md.md:L135], „Spiegel-Alters (Silas = Coheron-Echo, Oblivion = Erason-Operator) → Bridge-natürlich, beide Storyforms simultan" ^[three-mode-architecture-39-chapters-md.md:L137], „Argus (Meta-Kognition) → A, mit Kommentar-Überlagerung" ^[three-mode-architecture-39-chapters-md.md:L138]. Thirteen with Kael.
+The word waits: „aber das Wort "Alters" oder "DID" fällt nicht." ^[three-mode-architecture-39-chapters-md.md:L171] An anti-pattern: „Kap 4 oder 5 benennt schon klar, dass Kael "Alters" hat, oder verwendet das Wort DID." ^[three-mode-architecture-39-chapters-md.md:L590]
