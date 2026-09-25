@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -65,3 +65,9 @@ Substanz." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L813] Ka
 A recurring perception: „Telefon-Rauschen / -Stille:" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L384] „Junas Anker. Verschoben durch alle Akte." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L384]
 The anchor tracker: first explicit at Kap 7, at Kap 39 „eingelöst. Telefon-Stille als Anker des Buchs." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L477], and
 „Kap 1: KEIN Telefon-Anker." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L478] In the Euler strand, „Telefon-Stille als MI ohne Datenträger" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L449].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+One of [[juna|Juna]]'s two anchors: „Anker: Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029]
+A check before any Alter is written: „Block-4-Anker-Test (Telefon-Stille): Trägt die Szene den Anker oder bricht sie ihn?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1094]
+On the first foreshadowing level „Stille (Telefon-Anker)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042]; on the third, „Telefon-Stille als Ruheanker bis Vortex." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1063]
