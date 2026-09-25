@@ -23,8 +23,8 @@
 - „warmes, dynamisches Licht" ^[L83] — KW4 is illuminated by warm dynamic light
 
 ### Q3 — Do Kern-Welten correspond to Alters
-- Kernwelt 1 is the „domain of Kael's" Apparently Normal Parts ^[L17] — KW1 maps to ANP system
-- Kernwelt 2 is the „domain of Kael's" Emotional Parts, the Resonanz-Landschaft ^[L37] — KW2 maps to EP system
+- „Kernwelt 1" is domain of Apparently Normal Parts system ^[L17] — KW1 maps to ANP system
+- „Kernwelt 2" is domain of Emotional Parts system, the Resonanz-Landschaft ^[L37] — KW2 maps to EP system
 - „protector alters, like Nyx and Alex" ^[L57] — KW3 maps to Protector alters
 - „psycho-architectural space of Juna/V's influence" ^[L77] — KW4 maps to Impact Character Juna/V
 
