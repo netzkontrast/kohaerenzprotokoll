@@ -97,6 +97,18 @@ Spur (Coheron-Verdrängung)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-0
 2026-05-30 lock; it names the konsolidiertes Konzept as the source that wins a
 conflict (L1393).
 
+## 2026-09-24 — correction: `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` does name the file
+
+The first entry says the later source quotes *an outline of 2026-05-08* and
+*does not name the file*. True of its §7.1, which says only „Der Outline
+2026-05-08 nennt für Kap 6" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458]. But its own Quellen-Register names it: the row
+for „koharenz-protokoll-konzept-konsolidiert-2026-05-08.md" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L520] lists, among
+what that file supplies, „IX (Kapitel-Outline 0–40 inkl. HR-Stufen)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L520],
+and §7.3 calls the same outline „Teil IX (2026-05-08)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]. So the document
+names the konsolidiertes Konzept as the outline it overrides — the source of
+position 1's rows 972 and 1032. Found by the record audit of 2026-09-24
+(`Plan/runs/record-audit-2026-09-24/`); it changes no position.
+
 ## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 A separate iteration gives Kap 6 „Hitzeschlieren, verzerrte Physik

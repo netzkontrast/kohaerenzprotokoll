@@ -138,3 +138,13 @@ Erasure-Pol)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L810
 „Die zwei Guardians (auf 2 reduziert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L158] — a 2026 source for two, recorded
 after the author's decision for five; it changes nothing in that decision. What it
 says of the other three and [[sophia|Sophia]] is in Q5.
+
+## 2026-09-24 — correction: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md` places two Guardians in worlds
+
+The entry for this document says it *places no Guardian over a world*. It
+denies a realm per world, and the same line then places both: „Mnemosyne
+dominiert klar in KW2; der Erasure-Pol durchwirkt KW1 und KW3." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] What it
+removes is the pairing — the domains are „entkoppelt von 1:1-Guardian-Zuweisung"
+^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L462] — not the presence. Q5 already holds this qualifier; this record now
+does too. Found by the record audit of 2026-09-24
+(`Plan/runs/record-audit-2026-09-24/`, 9-A22).

@@ -211,9 +211,12 @@ Guardian-Prinzipien gesund; Guardians als Sub-Antagonisten" ^[kohaerenz-protokol
 [[mnemosyne|Mnemosyne]] is the first one hit in Vortex 1 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381]. They speak like AEGIS,
 in logs: „AEGIS und die zwei Guardians sprechen in 3. Person" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
 
-**On the word:** `Guardian` only; `Wächter` never occurs. `Wächterin` does, as the
-title of Kap 8 and a function in the Z1 cycle (L313, L333) — see
-`q4-waechter-four-bearers`.
+**On the word:** both. Kap 31's line has „Guardians als Sub-Antagonisten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] and ends
+„Leitmotiv: Wächter, die in Lichtstaub aufgehen." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] — one line, one
+referent. `Wächterin` occurs four times, as the title of Kap 8 and a Z1 function
+(L313, L333, L342, L460) — see `q4-waechter-four-bearers`. *(Corrected
+2026-09-24: this line said `Guardian` only and `Wächter` never; the record audit
+of that day found L363, `Plan/runs/record-audit-2026-09-24/`.)*
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 

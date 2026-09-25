@@ -172,3 +172,14 @@ are parts of it.
 
 Antagonists beneath [[aegis|AEGIS]]: „Guardians als Sub-Antagonisten (Mnemosyne,
 Erasure-Pol)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005]. Whether they are its components is not stated.
+
+## 2026-09-24 — correction: `dramatica-dual-storyform-status-2026-05-07-md`, one storyform's objective story
+
+The entry for this document calls „die Manipulation der simulierten Welt durch
+AEGIS+Guardians" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L206] *the overall story*. The document says it of Storyform A: „Die
+objektive Story-Ebene in A ist die Manipulation der simulierten Welt durch
+AEGIS+Guardians" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L206]. Storyform B's is another, and the Guardians act in
+it too: „Die objektive Story-Ebene in B ist operativ: Erasure-Sweeps,
+Guardian-Operationen" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L230]. So the reading — something AEGIS deploys —
+stands in both. Found by the record audit of 2026-09-24
+(`Plan/runs/record-audit-2026-09-24/`, 12-A23).

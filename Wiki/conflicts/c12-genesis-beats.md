@@ -86,6 +86,31 @@ calls the distribution open: „Kap 18, 21, 22 als Flashback-Träger gesetzt; ex
 Beat-Verteilung offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371]. The Kapitel-Kompendium gives the same two orders
 and the same fourth beat.
 
+## 2026-09-24 — audit: `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, its order
+
+Row 3 records only this document's fourth beat. The record audit of 2026-09-24
+(`Plan/runs/record-audit-2026-09-24/`) read it again against this record. Its Kap 0
+runs „Komponente 734 → Innere Weite" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] and then a crisis ending
+„Systemischer Kollaps → Trennungsprotokoll" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] — 734 before. Its OQ-C sets
+the flashbacks „Kap 18 (Cluster-Bildung) · Kap 21 (Trennungsprotokoll) · Kap 22
+(Komp 734)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L477]: the layout the strukturierter Outline's entry above reads
+as 734 after, and the entry of 2026-09-25 below reads as the order in which the
+flashbacks recall the beats, which need not be the order of events. On the first
+reading this document holds both orders; on the second, one.
+
+## 2026-09-24 — audit: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, its flashbacks
+
+Row 2 gives this document's four beats with 734 before the [[trennungsprotokoll|Trennungsprotokoll]]
+(L72, then L73). Its chapter outline recalls them the other way round: „Kael
+bekommt fragmentierte Genesis-Erinnerungen: das Cluster, das Trennungsprotokoll,
+Komp 734." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L878] — then Kap 18 „Genesis-Flashback: Cluster-Bildung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L996],
+Kap 21 „Genesis-Flashback: Trennungsprotokoll" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1002], Kap 22 „Genesis-Flashback:
+Komp 734" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1004]. The same layout as the strukturierter Outline's and document
+7's flashbacks, and the document calls them memories — so the caution of the
+entry of 2026-09-25 below applies: the order of recollection need not be the
+order of events. Found by the record audit of 2026-09-24
+(`Plan/runs/record-audit-2026-09-24/`, 9-M12).
+
 ## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 **Four explicitly numbered beats.** The source places „Cluster und Funktionalisierung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L205]

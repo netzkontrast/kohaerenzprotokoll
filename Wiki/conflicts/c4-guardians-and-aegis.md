@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 6
+sources: 7
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -179,3 +179,12 @@ konzeptueller Ort" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.m
 AEGIS' blindness, as a law: „AEGIS ist strukturell blind für sie." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L49] — for
 what is atemporal. And why: autopoiesis, „Das erklärt, warum es Juna semantisch
 nicht erfassen kann" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L729]. The Guardians get no blind spot.
+
+## 2026-09-24 — audit: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+Position 1's bearer, as a law, a month before the glossary above says it in the
+same words: „AEGIS ist strukturell blind für sie." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L151] — for what is
+atemporal. And why: autopoiesis, „Das erklärt, warum es Juna semantisch nicht
+erfassen kann" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1369], because „Juna existiert außerhalb der axiomatischen Basis
+von AEGIS." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1369] This record held nothing from this document. Found by the
+record audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M1).

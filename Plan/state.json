@@ -35,11 +35,11 @@
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 1436,
+      "value": 1438,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 1436,
+      "value": 1438,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
@@ -99,7 +99,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 2677,
+      "value": 2718,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
