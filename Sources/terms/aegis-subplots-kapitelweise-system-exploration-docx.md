@@ -52,7 +52,7 @@ five fields each:
 | field | what it is | how to read it |
 |---|---|---|
 | `AEGIS-Fokus` | one line naming the chapter's system question | often literally a question |
-| `Analyse des AEGIS-Fokus` | the closest thing here to assertion | still hedged — „vermutlich", „könnte", „wahrscheinlich" |
+| `Analyse des AEGIS-Fokus` | the closest thing here to assertion | still hedged — „vermutlich" ^[L35], „könnte", `wahrscheinlich` |
 | `Konzept/Trope` | **external theory imported as a lens** | never canon |
 | `Recherchethemen` | two research prompts | questions by construction |
 | `Subplot-Idee` (+ `Entwicklung`, `Diskussion`) | explicit invention | never canon |
@@ -95,7 +95,7 @@ including compounds.
 and 1–2 as a substring: the document only ever uses them inflected —
 `Guardian-Subroutinen`, `Kerndirektiven`, `Kernsystems`. Proposed in the singular
 while reading, which is the German inflection problem doing exactly what the
-briefing predicts. **A zero here meant „written differently", not „absent", and
+briefing predicts. **A zero here meant `written differently`, not „absent", and
 nothing in the count said so** — so `capture.py` now lists the surfaces it did
 find under each candidate, and the same pass surfaced one candidate the reading
 had missed entirely: `Kernsystemprotokoll` ^[L293].
@@ -161,7 +161,7 @@ Both part boundaries are stated and hold: Kapitel 1–13, 14–26, 27–39.
 passage that appears to settle whether the Guardians sit inside AEGIS. Chapter 20
 is entirely about that question — and its title is
 **„Die Natur eines Guardians - Autonomer Agent oder bloßes Werkzeug?
-(Konfrontation)"** (L272).
+(Konfrontation)" ^[L272]** (L272).
 
 The structural language does place them inside, consistently: „AEGIS und seinen
 Guardians" ^[L274], „Führt er lediglich AEGIS' Code aus" ^[L273], „eine reine

@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 12
-readings: 13
+sources: 13
+readings: 14
 conflict: C1, C8
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -35,7 +35,7 @@ verifizierte Signale" ^[entropie-aegis.md:L21].
 ## Readings — `aegis-emergenz-aus-der-leere`, 2025-04-19
 
 Two more expansions, in one document, and **neither is this source's own claim**:
-both are restatements of an „AEGIS-Postulat" it analyses and largely rejects.
+both are restatements of an „AEGIS-Postulat" ^[aegis-emergenz-aus-der-leere.md:L11] it analyses and largely rejects.
 
 | line | expansion | the source's label |
 |---|---|---|
@@ -93,7 +93,7 @@ designer would have given it that sense ^[kohaerenzprotokoll-aegis-und-systement
 | **`Entropic Gatekeeper`** | 7 | **four occurrences carry no `AEGIS` in the sentence** — the role travels on its own |
 | `Kontrollinstanz` | 3 | never without AEGIS beside it; recorded as a descriptor, not a surface |
 | „Wächter der systemischen Stabilität" | 1 | **the same role, in German, sharing no characters with `Entropic Gatekeeper`** ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15] |
-| „blinder Hausmeister" | 1 | the source's summary image, marked `[User Query]` ^[kohaerenzprotokoll-aegis-und-systementropie.md:L207] |
+| `blinder Hausmeister` | 1 | the source's summary image, marked `[User Query]` at L207; the bare phrase recurs at L221 ^[kohaerenzprotokoll-aegis-und-systementropie.md:L207,L221] |
 
 `Entropic Gatekeeper` is the one to watch: a role name built from the acronym's
 own words that is used independently of it. Nothing guarantees a later source
@@ -269,3 +269,9 @@ The formula turns: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist." ^[koha
 That form's name `Wir-AEGIS-plural` „ist Arbeitsbegriff; in Kap 39 zu finalisieren"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1369] (J47). Kap 40: „und Kael ist als das erkannt, was AEGIS einmal war"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- operational remainder after the separation: „das, was nach der Trennung funktional übrig blieb“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L80]
+- tragic preservation, not villainy: „das Sein zu halten“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L84]
+- the two storyforms require a plural third form: „Die Inversion auf jedem Pol ist die Form der Trennung selbst“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L196]

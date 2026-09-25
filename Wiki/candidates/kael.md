@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-16"
 ---
 
@@ -79,7 +79,7 @@ beeinflusst" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L37].
 Three of the four `Plot Teil 1` locations in KW1 are his: a dwelling
 ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L187], a workplace ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L188], a therapy interface ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L190] — „Ausgangspunkt, Ort
 des Alltags und erster Zweifel", „Kaels Arbeitsplatz, Ort der Routine und erster
-Anomalien", „Ort der (manipulierten) Selbstreflexion". See [[kaels-wohneinheit]],
+Anomalien" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L188], „Ort der (manipulierten) Selbstreflexion" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L190]. See [[kaels-wohneinheit]],
 [[datenverarbeitungsknoten-7g]], [[therapie-schnittstelle-alpha]].
 
 ### He is an anomaly to the system
@@ -89,7 +89,7 @@ and he cannot see it: „Kael selbst hat hier normalerweise keinen Zugang."
 ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L472] See [[system-monitor]].
 
 **Everything above about what the worlds do is design instruction** („zu
-konzipieren", „sollte"). The location assignments are not.
+konzipieren" ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L35], „sollte"). The location assignments are not.
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
@@ -170,8 +170,8 @@ kann."" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L226]
 
 In the glossary's Alter table: role „amnestische Oberfläche" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L195], correlate „Hubble-Volumen / Big Rip" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L196], somatics „Zeitverlust + Zittern" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L197], arc „Funktionale Multiplizität" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L198].
 
-„Kael ist nicht „von AEGIS erschaffen", sondern die fühlende Hälfte, die AEGIS
-sich abgeschnitten hat." — the Identitäts-Architektur (L136). The knuckles: „Lock
+Kael ist nicht „von AEGIS erschaffen" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L136], sondern die fühlende Hälfte, die AEGIS
+sich abgeschnitten hat ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L136]. The knuckles: „Lock
 Kompendium 2026-05-31: der Faden lebt in Kap 0 allein — Kap 1 bleibt spurlos."
 ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L638] Conflict C10.
 
@@ -195,3 +195,8 @@ Kap 1: „Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime), fragmentiert ohne
 Erinnerung." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257] Kap 39: „Kael-als-Wir wird neue AEGIS, aber wesensanders."
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1206] Kap 40: „Das Cluster, das Komp 734 wurde, ist als das erkannt, was Kael
 wurde" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- the subjective remainder of the separation: „das, was nach der Trennung subjektiv übrig blieb“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L72]
+- recognises Juna through the echoes: „Kael Juna *wiedererkennt*“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L76]

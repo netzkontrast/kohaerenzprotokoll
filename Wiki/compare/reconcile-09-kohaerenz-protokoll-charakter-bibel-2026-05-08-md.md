@@ -19,10 +19,10 @@ the second canon-era document, dated a month before document 7.
 
 ## What kind of document this is
 
-A workbench of profiles — „keine Datenbank … eine Werkbank" (L21). One
+A workbench of profiles — „keine Datenbank … eine Werkbank" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L21] (L21). One
 eleven-field template instantiated for twelve Alters, and profiles of their own
 shape for AEGIS, Mnemosyne, Juna and Kael. It asserts flat and marks its gaps in
-words: „(Lücke — bewusst offen)", „Vorschlag", „Offene Frage Reset-Doc Appendix C".
+words: „(Lücke — bewusst offen)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L510], `Vorschlag`, „Offene Frage Reset-Doc Appendix C" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L123].
 
 ## Sixteen pages, and why these
 
@@ -44,7 +44,7 @@ kaels-wohneinheit.
 ## C6 is explained by a source, and stays open
 
 „Frühere Drafts hatten fünf Guardians (LogOS, Mnemosyne, Cerberus, Kairos,
-Sophia). Aktueller Kanon: zwei" (L58), and the others „absorbiert". The record
+Sophia). Aktueller Kanon: zwei" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58] (L58), and the others „absorbiert" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L58]. The record
 said a source relating the two versions would settle it; one has. Whether that
 retires the 2025 readings is the author's decision.
 

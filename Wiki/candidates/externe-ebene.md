@@ -21,7 +21,7 @@ anchored in:
 > der Simulation unterscheidet" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L58] `[User Query]`
 
 Its function: it „kanalisiert […] eine Form fundamentaler Stabilität oder
-Realität in die Simulation" and grounds the simulation's fragile constructed
+Realität in die Simulation" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L124] and grounds the simulation's fragile constructed
 nature ^[kohaerenzprotokoll-aegis-und-systementropie.md:L124].
 
 **Premise, not finding.** The source takes the layer as given and reasons about

@@ -1,0 +1,14 @@
+# koharenz-protokoll-konzept-iteration-genesis-md
+  lines                870  (frontmatter ends at 9)
+  body words           8435
+  headings             75   bold-only lines 10
+  table rows           70   code fences 0
+  question marks       16
+  backslash escapes    166
+  typographic marks    290   ascii quotes 104
+  invisible characters none
+  math symbol lines    10
+  glued ref numbers    107
+  repeated labels      Sensorik x39, Genesis-Echo x25
+  longest line         664 chars
+

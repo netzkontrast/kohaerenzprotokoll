@@ -21,4 +21,4 @@ invisible rather than hidden, [[silas|Silas]] was never in the time that defines
 and erasure does not apply to what is atemporal (L49).
 
 The konsolidiertes Konzept gives the same chain as „II.4 Atemporalität als
-Generalschlüssel" (L147 of that document), not attached.
+Generalschlüssel" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L147] (L147 of that document), not attached.

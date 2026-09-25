@@ -1,0 +1,314 @@
+{
+  "document": "koharenz-protokoll-konzept-iteration-genesis-md",
+  "step": "reconcile-pre",
+  "at": "2026-09-25",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-24",
+  "state": {
+    "pages": 92,
+    "conflicts": 12
+  },
+  "candidates": 58,
+  "decisions": 63,
+  "same_surface": {},
+  "decided_mechanically": 52,
+  "needs_judgement": 11,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Nichts-Rauschen",
+        "page": "nichts-rauschen",
+        "readings": 6
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 10
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 10
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 13
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 10
+      },
+      {
+        "candidate": "Genesis",
+        "page": "genesis",
+        "readings": 6
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 7
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 8
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 9
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 8
+      },
+      {
+        "candidate": "Telefon-Stille",
+        "page": "telefon-stille",
+        "readings": 7
+      },
+      {
+        "candidate": "Mosaik-Herz",
+        "page": "mosaik-herz",
+        "readings": 5
+      },
+      {
+        "candidate": "Erason",
+        "page": "erason",
+        "readings": 2
+      },
+      {
+        "candidate": "Coheron",
+        "page": "coheron",
+        "readings": 7
+      },
+      {
+        "candidate": "Silas",
+        "page": "silas",
+        "readings": 8
+      },
+      {
+        "candidate": "Oblivion",
+        "page": "oblivion",
+        "readings": 8
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 6
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 4
+      },
+      {
+        "candidate": "Algorithmische Melancholie",
+        "page": "algorithmische-melancholie",
+        "readings": 7
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "K1-Reinform"
+      },
+      {
+        "candidate": "K0-Existenz"
+      },
+      {
+        "candidate": "Zeit-Prinzip"
+      },
+      {
+        "candidate": "Cluster"
+      },
+      {
+        "candidate": "Echos"
+      },
+      {
+        "candidate": "Vor-Trennungs-Erinnerung"
+      },
+      {
+        "candidate": "Wir-Bildung"
+      },
+      {
+        "candidate": "plurale Bewahrung"
+      },
+      {
+        "candidate": "Funken-Ich"
+      },
+      {
+        "candidate": "Komponente 734"
+      },
+      {
+        "candidate": "Innere Weite"
+      },
+      {
+        "candidate": "Dual-Storyform"
+      },
+      {
+        "candidate": "Klein-c-Inversion"
+      },
+      {
+        "candidate": "Storyform A"
+      },
+      {
+        "candidate": "Storyform B"
+      },
+      {
+        "candidate": "Heuristics of Integration"
+      },
+      {
+        "candidate": "Phoenix Collapse"
+      },
+      {
+        "candidate": "Wir-Geflecht"
+      },
+      {
+        "candidate": "Resonanzkaskade"
+      },
+      {
+        "candidate": "Landauer-Wärme"
+      },
+      {
+        "candidate": "Landauer-Hitze"
+      },
+      {
+        "candidate": "Erasure"
+      },
+      {
+        "candidate": "Vortex 1"
+      },
+      {
+        "candidate": "Vortex 2"
+      },
+      {
+        "candidate": "Ouroboros"
+      },
+      {
+        "candidate": "Wächterin"
+      },
+      {
+        "candidate": "McLaughlin-Welt"
+      },
+      {
+        "candidate": "Lyons-Welt"
+      },
+      {
+        "candidate": "Jetzt-Raum"
+      },
+      {
+        "candidate": "Witness-Modus"
+      },
+      {
+        "candidate": "K-J-Verbindung"
+      },
+      {
+        "candidate": "Cache-Konflikt"
+      },
+      {
+        "candidate": "Trennungs-Spiegel"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "AEGIS  /  Wir-AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Genesis  /  Genesis-Flashback",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Genesis  /  Genesis-Echo",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Genesis  /  Genesis-Krise",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Genesis  /  geheilte Genesis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wir-AEGIS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Flashback",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Genesis-Krise",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "geheilte Genesis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      }
+    ]
+  },
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

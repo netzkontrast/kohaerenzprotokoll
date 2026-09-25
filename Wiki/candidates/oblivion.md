@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -67,3 +67,7 @@ In the glossary's Alter table: role „AEGIS-Echo" ^[kohaerenz-protokoll-begriff
 Function „Internalisierte Erasure-Funktion" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L156], correlate „Erason-Operator" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L156], position „Spiegel-Alter (weder ANP noch EP)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L156].
 
 Kap 32: „Oblivion tritt als POV-Träger auf" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1009] — a proposal (OQ-E, L1373) — where the correlate is written the other way: „Oblivion = Erasure-Operator als interne Spiegelung von AEGIS' Erasure-Funktion" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1017]. After Vortex 1: „Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1124].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- mirror alter called an Erason operator, with details open: „Oblivion (Erason-Operator)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]

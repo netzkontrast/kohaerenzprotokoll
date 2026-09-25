@@ -10,7 +10,7 @@ not repeated.
 ## In this repository
 
 **The judgement ledger is the trainset, and it was not built to be one.**
-`Plan/runs/judgements.jsonl` holds 75 <!--state:judgements.total--> records,
+`Plan/runs/judgements.jsonl` holds 79 <!--state:judgements.total--> records,
 written "to keep mechanised rules checkable"
 (`scripts/judgements.py`). Each record already carries the two surfaces,
 a decision, and — the part that makes it a dataset — `rule`, the person's own
@@ -34,7 +34,7 @@ already written that way, for a different reason." (`scripts/trainset.py`).
 **`trainset.py --export` writes a file, and `pairs.py` does not read it.**
 `Plan/trainsets/surface-pairs.jsonl` is a snapshot of the ledger from the last
 time the export ran: the committed one holds 36 rows while the ledger yields
-63 <!--state:pairs.labelled-->. `pairs.py rows()` calls `trainset.surface_pairs()` directly
+67 <!--state:pairs.labelled-->. `pairs.py rows()` calls `trainset.surface_pairs()` directly
 (`scripts/pairs.py`), never the export. This is deliberate, and it is a
 correction of a real defect: "The design says job 1 has 'n = 26' … The exported
 file had gone stale because nothing compared it to the ledger; `pairs.py` now
@@ -99,46 +99,36 @@ before opening the source document. This matches the shape of the task itself �
 
 ## Splits and folds
 
-**Stratified, seeded by id, never shuffled.**
+**Stratified by decision and grouped by surface pair.** `pairs.py pair_key()`
+sorts the two `wiki_index.fold()` keys so reversed pairs and spelling variants
+have one identity. `folds()` hashes each group key with `baseline.digest()`
+and assigns the entire group to a fold with the fewest rows of that decision;
+a contradictory label within a group raises before any compile. Ledger order
+does not change the partition. Seven pairs repeat among the 66 current model
+rows, and the older row-by-id split exposed ten held-out rows alongside
+their duplicate in training. Each fold is compiled against
+`program.deepcopy()`, trained on every *other* fold's rows, and scored only
+on its held-out rows (`scripts/pairs.py`). Decision-specific row counts guide
+the assignment; the fold need not contain both classes on a small dataset.
 
-```python
-def folds(labelled: list[dict], k: int) -> list[list[dict]]:
-    """Stratified by decision, deterministic by id: the same rows, the same folds."""
-    out: list[list[dict]] = [[] for _ in range(k)]
-    for decision in trainset.DECIDED:
-        group = sorted((r for r in labelled if r["decision"] == decision),
-                       key=lambda r: baseline.digest(r["id"]))
-        for i, r in enumerate(group):
-            out[i % k].append(r)
-    return [f for f in out if f]
-```
-
-(`scripts/pairs.py`). `baseline.digest()` is `sha256(json.dumps(parts,
-sort_keys=True))[:12]` (`scripts/baseline.py`) — a stable hash of the id,
-not a shuffle a person could game by reordering the ledger, and "the same rows,
-the same folds" on every run (`scripts/pairs.py`). Each fold is compiled
-against `program.deepcopy()`, trained on every *other* fold's rows, and scored
-only on its own held-out rows (`scripts/pairs.py`). Grouping by
-`decision` before hashing means a small fold still holds both `one-term` and
-`two-terms` rows, never all of one class.
-
-**Canaries are pinned to evaluation by never being in the pool at all.**
+**Canaries are pinned to evaluation by being removed from the model pool.**
 `selftest.MUST_NOT_MERGE`'s six pairs — four since the start, and two since
 decision 010 put `Spiel`/`Spieler` and `Logo`/`LogOS` one step past the plural
-rule's reach — are not `judgements.jsonl` records — they
-are hard-coded in `scripts/selftest.py`, so `surface_pairs()` never returns them
-and `folds()` never places one in any fold. They are checked once, after every
-fold is scored, against the program compiled on the *full* 63
-<!--state:pairs.labelled--> rows (`scripts/pairs.py`). This is stronger
-than "held out of training" — a book-style seeded split can still put a canary
-in the training set by chance; here it is structurally impossible.
+rule's reach — are hard-coded in `scripts/selftest.py`. **One also occurs in the
+ledger:** J5 is `Negentropie` / `Entropie`. Previously `pairs.py` trained on J5
+while describing every canary as held out. `model_rows()` now removes every
+canary pair by its unordered, folded key, including spelling variants, before
+splitting or training. The program is checked on all six after every fold and
+after the final compile.
+`score --rule` still scores the complete ledger, so its denominator differs
+from the model run's. The local dry run reports the model pool size explicitly.
 
 **The sizes the book assumes, and why 57 does not fit them.**
 "20–50 examples is enough for GEPA's reflective loop; 100–500 for MIPROv2-style
 bootstrapping." "Representativeness beats size. Include edge cases, ambiguity,
 adversarial inputs."
 (`dspy-agent-skills:skills/dspy-evaluation-harness/SKILL.md:74-77`).
-This repository's largest trainset is 63 <!--state:pairs.labelled--> labelled
+This repository's largest trainset is 67 <!--state:pairs.labelled--> labelled
 pairs — inside the GEPA floor, barely, and well under MIPROv2's. `pairs.py`'s
 five-fold default leaves 45–47 rows to train each fold and 10–12 to score it
 (measured 2026-09-24) — thin by the book's own numbers, which is exactly why `SIMBA`'s
@@ -177,8 +167,10 @@ rows that fold never trained on.
 
 ## Difficulty tiers and hard negatives
 
-**The canary set doubles as this repository's hard-negative set** — see
-*Splits and folds*, above; not repeated here (P6).
+**Canaries stay outside training; labelled hard negatives remain inside.**
+The canaries are separately tested after every compile. `labeled_demos()`
+reserves two of eight slots for different-term lookalikes drawn from the
+training fold (see the tiering policy below).
 
 **`fold()`'s own boundary is discovered, not designed.** `trainset.py`'s
 docstring names the three actual misses precisely: `J4`, `Kern-Welten` /
@@ -188,8 +180,8 @@ enough to merge a plural also merges `Negentropie` with `Entropie`"; `J6`,
 (`scripts/trainset.py`). "So the 18% gap is the boundary of what a safe
 deterministic rule can claim, not a defect in it." **That sentence is stale as
 a number, current as a shape.** It was written when the ledger held 17 rows
-(14/17 = 82%); `fold()` now decides 36 <!--state:pairs.fold_correct--> of
-63 <!--state:pairs.labelled-->, and the docstring dates its first number and
+(14/17 = 82%); `fold()` now decides 40 <!--state:pairs.fold_correct--> of
+67 <!--state:pairs.labelled-->, and the docstring dates its first number and
 points at the live one. The one growth step measured at the time, 17 rows to
 26, kept the *shape* of every new miss the same: "Every new miss is a plural or
 an inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
@@ -214,16 +206,21 @@ document that adds no wiki pages on purpose: a brief with "163 hedging words in
 something" (`CLAUDE.md`, *State*). An ambiguous case here becomes a recorded
 non-decision, never a forced row in a trainset.
 
-**A tiering recipe to avoid, if demo selection is ever built for `pairs.py`.**
+**The tiering policy now used for the `labeled` rung.**
 `dspy-advanced-prompting`'s few-shot tiers (GOLD/SILVER/BRONZE/CHALLENGING)
 select up to `max_examples` by a fixed priority order and never read the actual
 input: two different `input_text` values select the identical demo list,
 `['challenging', 'challenging', 'gold', 'gold', 'gold']`
 (`dspy-advanced-prompting:src/techniques/few_shot.py:16-20,42-47,78-107`,
 verified: probe S3 — demos land in an *input field*, not `predictor.demos`,
-so no DSPy optimizer can see, select or replace them either). The part worth
-taking is the tiering *policy*, not this implementation: choose demos by the
-input, and put them in `predictor.demos`, not in prompt text.
+so no DSPy optimizer can see, select or replace them either). `pairs.py` takes
+the policy into the training fold: two slots go to ledger-labelled lookalikes
+that are different terms, then a positive and other stable-ID examples fill
+the eight slots. The code passes only those examples to `LabeledFewShot` with
+`sample=False`, checks the compiled predictor's demos, and records their IDs
+per fold. It selects from the fold, not from a current input pair: this is a
+small fixed context for one signature, not a retrieval policy. It does not
+apply to the other optimizers.
 
 **Hard negatives by design, catalogued, not built.** `dspy-agent-skills`'
 tetraframe pattern includes seeds whose answer is genuinely *neither*, "so the
@@ -339,11 +336,11 @@ behaviour, verified above: `valset = trainset[cutoff:]` takes the *last* 80% of
 whatever order the caller handed it, keeping only the first 20% to train on
 (`dspy:teleprompt/mipro_optimizer_v2.py:326`). A dataset that grows by
 appending silently reshapes its own valset. `pairs.py folds()` refuses that
-part: the hash key is the row's own `id`, not its position, so appended
-judgements are dealt across every fold instead of piling into one. It does not
-keep folds stable as the ledger grows. `folds()` deals round-robin over hash
-order, so a new row shifts every row that sorts after it: one appended
-judgement moved 15 of 57 rows to another fold (measured 2026-09-24). Two runs
+part: the hash key is the unordered, folded pair, not its position, so appended
+judgements are dealt across folds instead of piling into one. It does not
+keep folds stable as the ledger grows: the row-count balancing can shift
+existing groups when a new group enters the sorted order. The earlier
+row-by-id version moved 15 of 57 rows on one append (measured 2026-09-24). Two runs
 at different ledger sizes trained on different partitions, which is one more
 reason `baseline.compare` will not compare across a changed trainset hash
 until the floor is re-scored.
@@ -359,7 +356,7 @@ past leakage specifically: an invariant that is re-verified on every run rather
 than asserted once and trusted (`scripts/judgements.py`).
 
 **What this repository's own construction already prevents, by mechanism
-rather than by rule.** Fold membership by id-hash, so a judgement's position in
+rather than by rule.** Fold membership by pair-key hash, so a judgement's position in
 the file never decides its fold; canaries excluded from the labelled pool
 entirely, not merely held out of a split; `pairs.py` reading the ledger live so
 a cached export can never silently diverge from what a judgement replay checks
@@ -372,7 +369,7 @@ a leak one of the nine had.
 ## Not taken
 
 - **`MIPROv2`, `BootstrapFewShotWithRandomSearch`** — refused. They want
-  100+ and 50+ examples; this repository's largest trainset is 63
+  100+ and 50+ examples; this repository's largest trainset is 67
   <!--state:pairs.labelled--> pairs. `dspy-agents` ran MIPROv2 on 50 examples
   while its own documentation said about 28
   (`Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken*).

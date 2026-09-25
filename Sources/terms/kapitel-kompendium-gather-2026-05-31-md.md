@@ -44,17 +44,17 @@ numbers are chapter numbers run into their words.
 ## Stance — a gather that names itself the source of truth, and labels every passage
 
 „Sammel-Extraktion (Gather), Quelle-der-Wahrheit für die zwei abgeleiteten
-Ziel-Dokumente" (L13). The same line defines four labels: `[K]` kanonisch, `[S]`
-from the „Steinbruch" filtered to canon, `[L]` Lücke, `[V]` Vorschlag. Counted:
+Ziel-Dokumente" ^[L13] (L13). The same line defines four labels: `[K]` kanonisch, `[S]`
+from the `Steinbruch` filtered to canon, `[L]` Lücke, `[V]` Vorschlag. Counted:
 **43 `[K]`, 10 `[S]`, 8 `[L]`, 4 `[V]`.** The labels say how to read a passage,
 not what a field is called. No hedging word (`vielleicht`, `könnte`, `wohl`)
 occurs; uncertainty is carried by `[L]` and `[V]` and by one direct question to
-its reader, „→ Klärung nötig" (L260).
+its reader, „→ Klärung nötig" ^[L260] (L260).
 
 **It names its own filter.** L13 lists what was replaced on the way from the
-„Steinbruch" to canon: „Michael→**Kael** · Julia→**Juna** · 20 Kernwelten / 5
+`Steinbruch` to canon: „Michael→**Kael** · Julia→**Juna** · 20 Kernwelten / 5
 Guardians / 41-mit-Reset → **4 KW als Akt-Marker, 2 Guardians (Mnemosyne +
-Erasure-Pol) …**".
+Erasure-Pol) …**" ^[L13].
 
 ## Candidates
 
@@ -346,20 +346,20 @@ frontmatter ends at L9.
 
 | term | word | incl. compounds | what it means |
 |---|--:|--:|---|
-| `mutuale Information` | 0 | 0 | only inflected, „aller mutualen Information" (L25) |
-| `plurale Re-Integration` | 0 | 0 | only „zur pluralen Re-Integration" (L52) |
+| `mutuale Information` | 0 | 0 | only inflected, „aller mutualen Information" ^[L25] (L25) |
+| `plurale Re-Integration` | 0 | 0 | only „zur pluralen Re-Integration" ^[L52] (L52) |
 | `Lesart-Dualität` | 0 | 0 | written `Lesart-Dualitaet`, inside a file name (L56) |
-| `Genesis-Klammer`, `Vortex-Klammer` | 0 | 0 | my labels; the document writes „Zwei Klammern: Genesis (…) · Vortex (…)" (L92) |
+| `Genesis-Klammer`, `Vortex-Klammer` | 0 | 0 | my labels; the document writes „Zwei Klammern: Genesis (…) · Vortex (…)" ^[L92] (L92) |
 | `Genesis-Cluster` | 0 | 2 | only in compounds, `Genesis-Cluster-Andeutung` (L151, L215) |
 | `Revisionsplan`, `Mikrocue` | 0 | 1 | only as `C.3-Revisionsplan` (L182), `Mikrocue-Punkte` (L215) |
 
 ## Surfaces — one thing wearing several names
 
 - **KW3 carries a second name that is another level's**: „KW3 Cerberus-Labyrinth /
-  Überwelt-Nexus" (L165), glossed „Maschinenraum hinter dem Rendering" — while
+  Überwelt-Nexus" ^[L165] (L165), glossed „Maschinenraum hinter dem Rendering" ^[L165] — while
   L170 places the Überwelt outside the Kern-Welten.
-- **KW4 is „Resonanz-Kontinuum / Möglichkeits-Garten"** (L166); KW1 „Konstrukt-Stadt
-  (Logos-Prime)" (L163); KW2 „Mnemosyne-Archipel" (L164).
+- **KW4 is „Resonanz-Kontinuum / Möglichkeits-Garten" ^[L166]** (L166); KW1 „Konstrukt-Stadt
+  (Logos-Prime)" ^[L163] (L163); KW2 „Mnemosyne-Archipel" ^[L164] (L164).
 - **`Persistenz-Gleichung`** is hyphenated (L190).
 - **`Knöckel`** (L182), not `Knöchel` — the document's own spelling, once.
 - **`Phoenix Collapse` and `Phoenix-Collapse`** (L106, L135).
@@ -368,22 +368,22 @@ frontmatter ends at L9.
 ## Boundaries — one name wearing several things
 
 - **The Genesis is given in two orders.** Kap 0: „Funken-Ich → Cluster/Komp 734 →
-  Funktionalisierung (…) → Innere Weite → Krise (…) → Trennungsprotokoll" (L182).
-  The flashback cluster: „Einheit → Trennungsprotokoll → Kael = Komp 734" (L215).
-  L240 then counts a „Genesis-Beat 4".
-- **`Reset`** is both what the Steinbruch had („41-mit-Reset", L13) and a reader's
+  Funktionalisierung (…) → Innere Weite → Krise (…) → Trennungsprotokoll" ^[L182] (L182).
+  The flashback cluster: „Einheit → Trennungsprotokoll → Kael = Komp 734" ^[L215] (L215).
+  L240 then counts a „Genesis-Beat 4" ^[L240].
+- **`Reset`** is both what the Steinbruch had („41-mit-Reset" ^[L13], L13) and a reader's
   projection the text must never confirm (L56).
 
 ## Gaps — used as known, defined nowhere here
 
 `PAL` (L300), `P1–P5` (L13, L280), `R-1/R-2-Defekte` (L40), `McL` (L199), `OQ-D` to
 `OQ-G` by code only (L281), and the documents it cites by name: „Konzept
-2026-05-08 / Storyweaving-Start / Drei-Modi-Spec / Charakter-Bibel" (L13),
-`kap0-v1-annotiert` (L182), „Konzept\_Kapitel-40\_Lesart-Dualitaet" (L56).
+2026-05-08 / Storyweaving-Start / Drei-Modi-Spec / Charakter-Bibel" ^[L13] (L13),
+`kap0-v1-annotiert` (L182), „Konzept\_Kapitel-40\_Lesart-Dualitaet" ^[L56] (L56).
 
 ## Self-consistency
 
 - The KW3/Überwelt double naming above (L165 against L170).
 - The two Genesis orders above (L182 against L215).
-- §5.3 says „13 Meta-Stadien" were „NICHT im Projektwissen gefunden" (L260) and
+- §5.3 says „13 Meta-Stadien" ^[L260] were „NICHT im Projektwissen gefunden" ^[L260] (L260) and
   asks whether to derive them — a gap the document reports rather than fills.

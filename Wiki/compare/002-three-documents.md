@@ -54,7 +54,7 @@ each carry a conflict, and the two it borrowed carry none.**
 | term in all three | d1 | d2 | d3 | |
 |---|--:|--:|--:|---|
 | **AEGIS** | 19 | 50 | 123 | three incompatible expansions and one deliberate non-expansion |
-| **Entropie** | 53 | 30 | 60 | disorder to be fought · „schöpferische Matrix" · Shannon uncertainty |
+| **Entropie** | 53 | 30 | 60 | disorder to be fought · „schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126] · Shannon uncertainty |
 | **Kohärenz** | 1 | 48 | 25 | see below |
 | Selbstorganisation | 1 | 10 | 2 | borrowed from systems theory, same sense throughout |
 | Kybernetik | 1 | 3 | 6 | a field name, not a claim |
@@ -74,8 +74,7 @@ is too thin to compare.
 
 Across three, two incompatible senses appear:
 
-- **System stability.** „niedrige Entropie, hohe Vorhersagbarkeit, logische
-  Konsistenz […] messbar über die *Redundanz*"
+- **System stability.** „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27] und „über die *Redundanz*"
   ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27] — a measurable property
   of a running system.
 - **Truth by self-consistency.** In document 2's ZTV protocol, coherence *is* the

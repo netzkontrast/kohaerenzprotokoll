@@ -16,7 +16,7 @@ reads_as: an adversarial analysis of a postulate it does not author
 **This document labels its own stance, 38 times.** Eight passages
 *beschreiben* the AEGIS-Postulat it did not write, eight *kritisieren den
 Formalismus*, eight *vergleichen*, six *bewerten*, and four each carry
-„Plausibilität" and „Probleme".
+`Plausibilität` and `Probleme`.
 
 So it is not one thing. Its **Bewertung** passages are verdicts and belong on the
 terms they judge — „ECR scheint im Widerspruch zu etablierten Prinzipien der
@@ -70,7 +70,7 @@ the document's judgement on it is unusually blunt:
 > „vage, idiosynkratisch und entbehren einer klaren Definition oder Verankerung
 > in etablierten physikalischen oder mathematischen Theorien" ^[L130]
 
-**Entropie as „schöpferische Matrix"** — a maximal possibility space from which
+**Entropie as „schöpferische Matrix" ^[L126]** — a maximal possibility space from which
 coherent sequences stabilise ^[L126]. This is a *different sense* of entropy
 from the one in `entropie-aegis.md`, where it is disorder to be resisted. Two
 senses of the root term, and the document itself notices:
@@ -106,5 +106,5 @@ itself informative: `theorie-physik` at this date is *upstream* of the story.
   work.
 - The open questions ^[L189–194] are the sharpest `MISSING` candidates in the
   corpus so far — including „Was ist die genaue physikalische oder mathematische
-  Natur von \"Entropie-Resonanz\"?", which is the mechanism the whole ontological
+  Natur von \"Entropie-Resonanz\"?" ^[L194], which is the mechanism the whole ontological
   layer rests on.

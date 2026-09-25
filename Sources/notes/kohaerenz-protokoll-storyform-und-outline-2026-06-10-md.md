@@ -53,7 +53,7 @@ Readings below are `[K]` unless marked.
 
 ## Kohärenz and Entropie — K₁ and K₀
 
-- The labels pair them: „K₁ (Kohärenz)" and „K₀ (Entropie)" ^[L25]; storyform A
+- The labels pair them: „K₁ (Kohärenz)" ^[L25] and „K₀ (Entropie)" ^[L25]; storyform A
   is Kael's, K₁, and B is AEGIS', K₀ ^[L151].
 - The reveal: „Truth-Rotation: AEGIS = K₀ / Kael = K₁ wird sichtbar; die
   Phänomenologie der Risse bleibt, die Lesart kippt" ^[L370].
@@ -85,7 +85,7 @@ Readings below are `[K]` unless marked.
   Nova, Sentinel" ^[L278].
 - The goal is plurality, not merger: „Funktionale Multiplizität, niemals Fusion.
   Kein Alter wird eliminiert, keines wird zu einem Ich" ^[L276].
-- Two layers of trauma: „Schicht 1 = Bindungstrauma Basisrealität Köln" and
+- Two layers of trauma: „Schicht 1 = Bindungstrauma Basisrealität Köln" ^[L277] and
   „Schicht 2 = Fragmentierungsnacht/Trennungsprotokoll" ^[L277].
 - The veil: „Multiplizität wird im Roman nicht ausgesprochen bis ~Kap 10; vor Kap
   13 keine Klartext-Diagnose (kein „Alters", kein „DID")" ^[L46].
@@ -154,5 +154,5 @@ kanonisch allein für Vortex-1-Beat-4" ^[L458]. The other two are the Blutungs-F
 ## Open, in the document's own words
 
 The OQ table at L475–L481; `[V]` signpost sequences (L191); the Kap-39 writing
-moment and „OQ-Knöchel" (L491–L492); the „13 Meta-Stadien", explicitly „nicht
-autorbestätigt" (L494).
+moment and „OQ-Knöchel" ^[L492] (L491–L492); the `13 Meta-Stadien`, explicitly „nicht
+autorbestätigt" ^[L494] (L494).

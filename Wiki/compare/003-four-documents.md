@@ -28,9 +28,9 @@ same day**, defines all three:
 
 | term | document 1 | document 4 |
 |---|---|---|
-| `Guardians` | 3 occurrences, all in dependent clauses; „spezialisierte Agenten dieses Entropie-Managements" and nothing else | **five named Guardians**, each with nine filled fields — domain, mandate, epistemology, strengths, blind spot |
+| `Guardians` | 3 occurrences, all in dependent clauses; „spezialisierte Agenten dieses Entropie-Managements" ^[entropie-aegis.md:L93] and nothing else | **five named Guardians**, each with nine filled fields — domain, mandate, epistemology, strengths, blind spot |
 | `Kern-Welten` | 1 occurrence, in a parenthesis, as known | **four named worlds**, each with eight filled fields, each paired to a Guardian |
-| `Risse` | 3 occurrences; „Manifestationen einer Zunahme von Entropie" | 10 occurrences, **manifesting differently in each of the four worlds** |
+| `Risse` | 3 occurrences; „Manifestationen einer Zunahme von Entropie" ^[entropie-aegis.md:L94] | 10 occurrences, **manifesting differently in each of the four worlds** |
 
 Three `readings: 0` pages become answerable. This is what the step is for.
 
@@ -67,8 +67,7 @@ comparison does not rediscover it.
 
 ## `Kohärenz` is the only term in all four, and it now has three contexts
 
-- **system stability**, measurable — „niedrige Entropie, hohe Vorhersagbarkeit,
-  logische Konsistenz […] messbar über die *Redundanz*" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27]
+- **system stability**, measurable — „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27] und „über die *Redundanz*" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27]
 - **truth by self-consistency** — the ZTV validity criterion, criticised as
   „extreme Form des epistemischen Kohärentismus" ^[aegis-emergenz-aus-der-leere.md:L67]
 - **the name of the system itself** — „Kohärenz-Programm", six times
@@ -111,18 +110,18 @@ needs a separate check against all 346, and the two must not be confused.
 | Überwelt | 1, 3 | 10, 3 |
 | Simulation | 3 | 44 |
 | Kohärenz-Programm | 4 | 6 |
-| „Das Seelen-Kohärenz-Protokoll" | 4 | 3 |
+| „Das Seelen-Kohärenz-Protokoll" ^[guardians-und-kern-welten-konzept.md:L11] | 4 | 3 |
 
 And the meta-space has two **within document 4 alone**: `Nexus` (11) and
 `Überraum` (5), in the same sentences — the field is called „Repräsentation im
-Nexus" and every filled instance opens „Im Überraum…".
+Nexus" ^[guardians-und-kern-welten-konzept.md:L29] and every filled instance opens „Im Überraum…" ^[guardians-und-kern-welten-konzept.md:L29].
 
 ## `Blinder Fleck` is the same idea under two owners
 
 | document | whose | what |
 |---|---|---|
-| 3 | AEGIS' | „ontologischer blinder Fleck" — „keine fehlender Sensor, sondern eine kategoriale Unfähigkeit" ^[…:L61] |
-| 4 | each Guardian's | „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians logisch aus dessen Domäne und Funktion erwächst" ^[…:L137] |
+| 3 | AEGIS' | `ontologischer blinder Fleck` — „nicht um einen fehlenden Sensor, sondern um eine kategoriale Unfähigkeit" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L61] |
+| 4 | each Guardian's | „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians logisch aus dessen Domäne und Funktion erwächst" ^[guardians-und-kern-welten-konzept.md:L137] ^[…:L137] |
 
 Same structure — a controller constitutionally unable to perceive the external
 connection — attached to different entities. **Neither document mentions the

@@ -110,8 +110,8 @@ as a place inside KW4, one as both.
 
 **Both scales, and both labelled canonical.** A name of KW4: „KW4 —
 Kairos-Potentialis / Möglichkeits-Garten / Resonanz-Kontinuum" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L26], „Andere
-kanonische Namen: „Möglichkeits-Garten", „Resonanz-Kontinuum"." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404] And a
-place in KW4, marked `[K]`: „Der Möglichkeits-Garten", „überwucherte
+kanonische Namen: „Möglichkeits-Garten" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404], „Resonanz-Kontinuum"." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L404] And a
+place in KW4, marked `[K]`: `Der Möglichkeits-Garten`, „überwucherte
 Ruinenarchitektur; Funktionale Multiplizität als Erlebnis" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L461]. The second
 source, after the konsolidiertes Konzept, to hold the world and the place at once.
 

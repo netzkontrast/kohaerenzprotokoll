@@ -36,7 +36,7 @@ and defined none of them. **This document, dated the same day, defines all three
 
 ### `guardians` — from role to five named bearers
 
-Was: „spezialisierte Agenten dieses Entropie-Managements", three occurrences in
+Was: „spezialisierte Agenten dieses Entropie-Managements" ^[entropie-aegis.md:L93], three occurrences in
 dependent clauses.
 
 Now: **LogOS, Mnemosyne, Cerberus, Kairos, Sophia**, each with nine filled fields
@@ -49,7 +49,7 @@ representation, relations, themes. And a structural claim about all of them:
 
 ### `kern-welten` — from one parenthesis to four specified worlds
 
-Was: one occurrence, „simulierte Kern-Welten", used as known.
+Was: one occurrence, „simulierte Kern-Welten" ^[entropie-aegis.md:L93], used as known.
 
 Now: **Konstrukt-Stadt · Resonanz-Landschaft · Grenzfeste · Möglichkeits-Garten**,
 each paired to a Guardian, each with eight filled fields including its own physics
@@ -57,7 +57,7 @@ and its own way of breaking.
 
 ### `risse` — from one mechanism to four manifestations
 
-Was: „direkte Manifestationen einer Zunahme von Entropie".
+Was: „direkte Manifestationen einer Zunahme von Entropie" ^[entropie-aegis.md:L94].
 
 Now: a different manifestation per world — logical paradoxes made tangible in the
 Konstrukt-Stadt ^[L39], emotional storms in the Resonanz-Landschaft ^[L64],
@@ -65,7 +65,7 @@ inexplicable security gaps in the Grenzfeste ^[L89], destructive transformation 
 the Möglichkeits-Garten ^[L128].
 
 **And `Glitch` is used interchangeably with `Risse`** — nine occurrences, in the
-field name „Manifestation von Rissen/**Glitches**". Recorded as a surface, below.
+field name „Manifestation von Rissen/**Glitches**" ^[guardians-und-kern-welten-konzept.md:L39]. Recorded as a surface, below.
 
 ## New terms — thirteen pages to create
 
@@ -84,7 +84,7 @@ field name „Manifestation von Rissen/**Glitches**". Recorded as a surface, bel
 |---|---|---|
 | **`Partnerin`** (30) | `juna` | The page is titled by a name **no read source uses**; this is a third surface, and the four read documents never link it to `Julia`. A corpus check found 17 documents that carry both — **so the link exists, outside what has been read.** Open, not resolved. |
 | **`Glitch`** (9) | `risse` | Used interchangeably in this document, including inside a field name. Likely an alias; nothing states it. |
-| **`Nexus`** (11) / **`Überraum`** (5) | each other | **Two names in the same sentences** — the field reads „Repräsentation im Nexus" and every filled instance opens „Im Überraum…". One document, two surfaces, no statement that they are one. |
+| **`Nexus`** (11) / **`Überraum`** (5) | each other | **Two names in the same sentences** — the field reads „Repräsentation im Nexus" ^[guardians-und-kern-welten-konzept.md:L29] and every filled instance opens „Im Überraum…" ^[guardians-und-kern-welten-konzept.md:L29]. One document, two surfaces, no statement that they are one. |
 
 `Kern-Welten` (9) and `Kern-Welt` (9) are singular and plural of one term and are
 folded, not recorded as a surface.
@@ -95,7 +95,7 @@ folded, not recorded as a surface.
 
 | source | whose | what it is |
 |---|---|---|
-| `kohaerenzprotokoll-aegis-und-systementropie` ^[L61] | **AEGIS'** | „nicht um einen fehlenden Sensor, sondern um eine kategoriale Unfähigkeit", argued from Ashby's Law, the qualia problem and Bohm |
+| `kohaerenzprotokoll-aegis-und-systementropie` ^[L61] | **AEGIS'** | „nicht um einen fehlenden Sensor, sondern um eine kategoriale Unfähigkeit" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L61], argued from Ashby's Law, the qualia problem and Bohm |
 | `guardians-und-kern-welten-konzept` ^[L137] | **each Guardian's** | derived from that Guardian's own domain and function |
 
 The same structure — a controller constitutionally unable to perceive the

@@ -47,6 +47,8 @@ SUITES = [
     ("rlm_ingest tools, reach", "std", ["scripts/rlm_ingest.py", "--selftest"]),
     ("gold lists", "std", ["scripts/gold.py", "selftest"]),
     ("prose numbers", "std", ["scripts/state.py", "--prose"]),
+    ("qmd coverage patterns", "std", ["scripts/qmd_coverage.py", "--selftest"]),
+    ("qmd coverage, live", "std", ["scripts/qmd_coverage.py"]),
     ("route: price, consent, record", "typesafe", ["scripts/route.py", "selftest"]),
     ("templates: checks fail", "he", ["scripts/templates.py", "selftest"]),
     ("templates, live", "he", ["scripts/templates.py", "check"]),

@@ -12,7 +12,7 @@ breaks `dspy.Evaluate` — are `metrics.md`; trainsets, splits and `fold()` are
 ## In this repository
 
 `scripts/pairs.py` is the one ladder built here, for the one task with usable
-gold labels: **one term or two**, **63 <!--state:pairs.labelled--> labelled
+gold labels: **one term or two**, **67 <!--state:pairs.labelled--> labelled
 pairs** in `Plan/runs/judgements.jsonl`, each with `first`, `second`, a gold
 `decision` and a `rule` — the person's own words for why, which is the GEPA
 feedback string with no extra work. `scripts/trainset.py`'s `surface_pairs()`
@@ -25,7 +25,7 @@ first. The code is `scripts/pairs.py`, `scripts/baseline.py`,
 
 `wiki_index.fold()` is a deterministic surface-normalisation rule, not a
 model. `trainset.fold_baseline()` and `pairs.score_rule("fold")` both score it
-the same way: **36 <!--state:pairs.fold_correct--> of 63 <!--state:pairs.labelled-->
+the same way: **40 <!--state:pairs.fold_correct--> of 67 <!--state:pairs.labelled-->
 labelled pairs**, run live 2026-09-24 (`python3 scripts/pairs.py score` prints
 `rule:fold: 36/63 = 57.1% on 63 labelled pairs`). All 27 misses have the same
 shape — gold `one-term`, `fold()` says `two-terms` — so on this ledger `fold()`
@@ -40,7 +40,7 @@ missed, never given the chance to *undo* one `fold()` made correctly
 author's delegation, the reach of `pairs.RULES["plural"]`: `fold()`, plus a
 plural ending — `-s` `-es` `-e` `-en`, `-n` only after `-e` — on a stem of four
 letters or more, written in lower case. It decides
-**44 <!--state:pairs.plural_correct--> of 63 <!--state:pairs.labelled-->**,
+**48 <!--state:pairs.plural_correct--> of 67 <!--state:pairs.labelled-->**,
 with no false merge and no canary merged. It is a row on the ledger and not part
 of `fold()`: reconciliation still merges by `fold()` alone.
 `pairs.py run --rule plural` asks it before the model, which then sees 51 pairs,
@@ -76,13 +76,22 @@ That is not stylistic — see BootstrapFewShot below for the trap this avoids,
 which `InferRules` inherits and `SIMBA` mostly does not.
 
 **Pinned, stratified folds; canaries never trained on.** `folds(labelled, k)`
-sorts each decision class by `baseline.digest(id)` and deals round-robin into
-`k` buckets (`scripts/pairs.py`), so the same 57 rows always land in the
-same folds regardless of run order. `canaries()` returns
-`selftest.MUST_NOT_MERGE` (`Negentropie`/`Entropie` first) — these never enter
-`labelled`, so they never enter a fold or a trainset; they are asked, once per
+groups repeated unordered, spelling-folded pairs and balances decision counts
+across `k` folds (`scripts/pairs.py`), so ledger order does not change the
+partition and no pair occurs in training and holdout. `model_rows()` excludes
+the folded canary pairs first, including J5, which is present in the judgement
+ledger. `canaries()`
+returns `selftest.MUST_NOT_MERGE`; they are asked once per
 compiled program, after every fold and again after the final full compile
 (`scripts/pairs.py`, `canaries()` and the loop after the final compile).
+
+**The labeled rung uses explicit demos.** DSPy 3.3.1 samples `k` rows with a
+fixed seed by default; `pairs.py` instead reserves two of eight slots for
+ledger-labelled lookalikes that are distinct terms, then adds a positive and
+stable-ID examples from that fold's training rows. It compiles with
+`sample=False`, asserts that the predictor received those IDs, and records
+them in the baseline note. This selection applies only to `labeled`; the
+other optimizers retain their own training behavior.
 
 **A canary merge vetoes the run, whatever its score.** If the rule named by
 `--rule` already says `one-term` for a canary pair the veto fires without a call

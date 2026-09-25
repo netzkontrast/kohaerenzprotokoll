@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 9
-readings: 8
+sources: 10
+readings: 9
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-16"
 ---
 
@@ -16,7 +16,7 @@ gathered: "2026-09-16"
 > DID" ^[entropie-aegis.md:L69]
 
 Quoted, once, inside a question about [[entropie-signatur|Entropie-Signatur]]. The gloss
-„Bewusstseinszustände" is the only thing this source says they are, and it is
+`Bewusstseinszustände` is the only thing this source says they are, and it is
 offered as an approximation rather than a definition.
 
 ## Why a page for one quoted word
@@ -125,7 +125,7 @@ source's ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1180].
 Each of the twelve beside [[kael|Kael]] now has a page from this document's profile:
 [[lex]], [[alex]], [[rhys]], [[selene]], [[argus]], [[nyx]], [[kiko]], [[lia]],
 [[isabelle]], [[moros]], [[silas]], [[oblivion]]. Five somatic fields are open by
-the document's own mark, „(Lücke — bewusst offen)" — [[argus|Argus]], [[silas|Silas]], [[oblivion|Oblivion]] among
+the document's own mark, „(Lücke — bewusst offen)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L510] — [[argus|Argus]], [[silas|Silas]], [[oblivion|Oblivion]] among
 them (L510, L730, L766).
 
 Its frame is TSDP: „Tertiäre Strukturelle Dissoziation: mehrere ANPs und mehrere
@@ -168,3 +168,7 @@ and three Sonderfiguren, in three tables (L127–L156). The word is withheld in 
 prose: Kap 8 „Das Wort Alters fällt nicht." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425]; Kap 11 „Die
 Multiplizitäts-Schleier-Disziplin hält." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L497] All thirteen act together in Kap
 33: „alle 13 Alters in Kooperation" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1037]. Q3.
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- each alter as a facet of the pre-separation togetherness: „jedes Alter ist eine Facette dessen, was im ewigen Miteinander zusammen war“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L72]

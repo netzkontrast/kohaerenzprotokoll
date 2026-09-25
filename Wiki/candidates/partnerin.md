@@ -22,10 +22,10 @@ absence shows in that world's own terms:
 
 | world | how the echoes appear | line |
 |---|---|---|
-| [[konstrukt-stadt|Konstrukt-Stadt]] | „unerklärliche Abweichungen von der Logik, die sich jedoch qualitativ anders" | 40 |
-| [[resonanz-landschaft|Resonanz-Landschaft]] | „die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels" | 65 |
-| [[grenzfeste|Grenzfeste]] | „Anomalien, die sich den Sicherheitsprotokollen widersetzen, aber keine offensichtliche feindliche Absicht zeigen" | 90 |
-| [[moeglichkeits-garten|Möglichkeits-Garten]] | „mit außergewöhnlicher Klarheit und Kraft" | 129 |
+| [[konstrukt-stadt|Konstrukt-Stadt]] | „unerklärliche Abweichungen von der Logik, die sich jedoch qualitativ anders" ^[guardians-und-kern-welten-konzept.md:L40] | 40 |
+| [[resonanz-landschaft|Resonanz-Landschaft]] | „die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels" ^[guardians-und-kern-welten-konzept.md:L65] | 65 |
+| [[grenzfeste|Grenzfeste]] | „Anomalien, die sich den Sicherheitsprotokollen widersetzen, aber keine offensichtliche feindliche Absicht zeigen" ^[guardians-und-kern-welten-konzept.md:L90] | 90 |
+| [[moeglichkeits-garten|Möglichkeits-Garten]] | „mit außergewöhnlicher Klarheit und Kraft" ^[guardians-und-kern-welten-konzept.md:L129] | 129 |
 
 ### The one ontological statement
 

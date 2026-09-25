@@ -22,8 +22,8 @@ Lichtlinien und Datenströmen" ^[guardians-und-kern-welten-konzept.md:L29], Soph
 Präsenz" ^[guardians-und-kern-welten-konzept.md:L118].
 
 The `Möglichkeits-Garten` is called its `Vorstufe` ^[guardians-und-kern-welten-konzept.md:L122] and may act as
-„Übergangszone […] zwischen den Kern-Welten und dem übergeordneten Nexus"
-^[guardians-und-kern-welten-konzept.md:L131] — so the Nexus sits **above** the Kern-Welten.
+„als Übergangszone, als Verbindungspunkt oder als Kommunikationskanal zwischen den Kern-Welten und dem übergeordneten Nexus"
+^[guardians-und-kern-welten-konzept.md:L130] — so the Nexus sits **above** the Kern-Welten.
 
 ## The unresolved surface — `Überraum`
 
@@ -37,7 +37,7 @@ pages and cross-referenced rather than merged: J18.
 ## Open
 
 Whether `Nexus` and `Überraum` are one space. What else is in the Nexus. Whether
-it is the „nächsthöhere Ebene der Simulation" the [[moeglichkeits-garten|Möglichkeits-Garten]]'s field
+it is the `nächsthöhere Ebene der Simulation` the [[moeglichkeits-garten|Möglichkeits-Garten]]'s field
 calls „dem Nexus oder der Meta-Realität" ^[guardians-und-kern-welten-konzept.md:L124] — the document offers those as
 alternatives and does not choose.
 
@@ -85,7 +85,7 @@ Only in a compound, as KW3's second name — „Cerberus-Labyrinth / Überwelt-N
 
 **A place between two levels**: „Übergangsort zwischen KW4 und Externer Ebene; reine
 Information als Aufenthaltsraum" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L462], labelled `[K]`. The Überwelt has an
-„AEGIS-Kern-Nexus" (L588, `[S]`) — a compound, two terms (J63's rule).
+„AEGIS-Kern-Nexus" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L588] (L588, `[S]`) — a compound, two terms (J63's rule).
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 

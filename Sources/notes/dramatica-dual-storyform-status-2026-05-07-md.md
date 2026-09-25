@@ -15,8 +15,8 @@ reads_as: a session report that audits the dual storyform against Dramatica, dat
 
 ## How to read it
 
-A report of one session, dated „**Datum:** 2026-05-07" (L13). It changes values
-and says from what to what; every changed value is marked „⚠ korr 2026-05-07" in
+A report of one session, dated „**Datum:** 2026-05-07" ^[L13] (L13). It changes values
+and says from what to what; every changed value is marked „⚠ korr 2026-05-07" ^[L174] in
 its full table (L174, L176, L188).
 
 ## The Approach — the lock-in the storyform-und-outline cites

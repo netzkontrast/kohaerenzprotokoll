@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["trennungsprotokoll"]
 ---
 
@@ -16,7 +16,7 @@ pages: ["trennungsprotokoll"]
 |--:|---|---|--:|
 | 1 | three: Einheit · [[trennungsprotokoll|Trennungsprotokoll]] · [[kael|Kael]] = Komponente 734 | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 115–123 |
 | 2 | four: Einheit · Cluster-Bildung and Komp-734 · [[trennungsprotokoll|Trennungsprotokoll]] · Wir = AEGIS-plural | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 67–74 |
-| 3 | names a „Genesis-Beat 4 (Wir-AEGIS-plural)", done in Kap 39 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 390 |
+| 3 | names a „Genesis-Beat 4 (Wir-AEGIS-plural)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L390], done in Kap 39 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 390 |
 
 > „### 2.4 Die Genesis-Krise (3 Beats)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L115]
 
@@ -37,8 +37,10 @@ concept answers it with a fourth beat. Document 7, a month later, counts four.
 
 ## 2026-09-24 — the author: every draft is back in question
 
-„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
-sources wird die neue Ausgangslage." (decision 006)
+> Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+> sources wird die neue Ausgangslage.
+
+[Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
 
 No position above is retired by its date or by a source's claim to be canon.
 This record is an **item for discussion** with the author; it closes when the
@@ -61,7 +63,7 @@ Four: Kap 0 is „Vier-Beat-Genesis" ^[kohaerenz-protokoll-kernwelten-vollstaend
 
 **Three, with the question open, the day before.** „Aktuell 3 Beats: Einheit →
 Trennungsprotokoll → Kael=Komp 734. Braucht es einen vierten?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L408] — one of four
-points carried from a „Reset-Doc 2026-04-30" (L401). The next day the character
+points carried from a „Reset-Doc 2026-04-30" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L401] (L401). The next day the character
 bible answered it no and the konsolidiertes Konzept answered it with a fourth beat.
 
 ## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
@@ -83,3 +85,19 @@ flashbacks: Cluster-Bildung in Kap 18 (L669), the [[trennungsprotokoll|Trennungs
 calls the distribution open: „Kap 18, 21, 22 als Flashback-Träger gesetzt; exakte
 Beat-Verteilung offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371]. The Kapitel-Kompendium gives the same two orders
 and the same fourth beat.
+
+## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+**Four explicitly numbered beats.** The source places „Cluster und Funktionalisierung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L205]
+with „Komp 734“ in beat 2 ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L205],
+„Trennungsprotokoll (Krise)“ in beat 3 ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L206],
+and the plural fourth beat in Kap 39 ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L207].
+Its Kap-0 outline also puts „Komponente 734 → Die Innere Weite“ before the crisis
+^[koharenz-protokoll-konzept-iteration-genesis-md.md:L295] ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L297].
+The flashback proposal puts the *recollection* of the separation in Kap 21
+^[koharenz-protokoll-konzept-iteration-genesis-md.md:L588] and the awareness of
+734 in Kap 22 ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L592].
+It explicitly calls this chapter allocation a proposal ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790].
+A later memory need not reproduce event order. This source therefore supports
+734-before-separation in the event sequence; it does not decide which of the
+other sources' alternative sequences the author chooses.
