@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 15
-readings: 16
-conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+sources: 14
+readings: 15
+conflict: C1, C8
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -278,51 +278,8 @@ That form's name `Wir-AEGIS-plural` „ist Arbeitsbegriff; in Kap 39 zu finalisi
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**A voice without metaphor and without „Ich" — and a first-person chapter.**
-„R-8 — AEGIS spricht nie metaphorisch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1079] „Keine Metaphern, kein moralisches Vokabular, kein affektives Vokabular in AEGIS-Logs." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1079]
-„Sein Vokabular (in Logs) bleibt funktional, nie phänomenal." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L428]
-From the Sprach-DNA it keeps: „AEGIS verwendet nie das Wort „Ich"." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1236]
-Yet in Kap 5–8 the reader „sieht AEGIS in 1. Person" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L583] — AEGIS'
-„erste 1.-Person-Innensicht — enthüllt sich, nicht Kaels Vielheit" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L583].
-The document does not relate the first person to the missing word. Kap 1 has no
-AEGIS voice: „UI-Direktiven bleiben; keine 3.-P-Systemlog-Stimme" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1198].
-
-**What it knows, senses and cannot see** (§6.1): it knows „seine eigene Funktion, sein Mandat, η-Werte, Erasure-Bilanzen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574];
-it senses „Risse als Symptom (Suppression-Versagen)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574]; it is blind to
-[[juna|Juna]], to the K₁-Reinform — „klassifiziert als „uncorrelated noise"" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574]
-— and to „die eigene Genesis (verdrängt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574]. In Kap 0 it
-„rekonstruiert sich erinnerungslos" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L581]; in Kap 1–7 it
-„misst die Stadt, registriert „uncorrelated noise" um Kael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L582]. C4, [[blinder-fleck]].
-
-The truth R-1 forbids the text to say: „AEGIS hat die Geburt für den Tod gehalten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1051].
-Its formula belongs to Kap 0 alone: „AEGIS ist, was AEGIS verhindert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1083].
-
-Its arc in the reveal timeline: Kap 14 it „initiiert Erasure-Phase 2" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L586];
-Kap 30 „Mandat-Krise: Erasure scheitert spürbar" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L589]; Kap 36
-„algorithmische Melancholie setzt ein" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L592]; Kap 39 it „erlischt monolithisch, lebt plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L594];
-Kap 40 is „Wir-AEGIS-plural als Erzähl-Stimme" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L595] — the name used, here,
-without being marked open (J47, J73). „Keine Behandlung von AEGIS als Bösewicht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1221]
-
-Never expanded (C1 not touched). Its Approach is not given; the lock table sends
-the reader elsewhere: „siehe Storyform-Dokument §2.1" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1164] (C8 not touched).
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**Third person, never prose — and a debut in the Hard-B chapter without the first person.**
-„AEGIS spricht nie in Prosa." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L944] „Wenn AEGIS auftaucht, dann als Log, Protokoll, Systemstimme — nie mit moralischem Vokabular." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L944]
-The rule is headed `3. Person` (L944). A binding log format follows (L952–L988), in which
-[[juna|Juna]]'s vector has three permitted entries: not representable, an axiom violation, or null (L976).
-„Slot-16-Lock: in Kap 1 keine AEGIS-Stimme; UI-Direktiven (Konsolen-Zeilen) bleiben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]
-„AEGIS' Stimme debütiert im Hard-B-Etablierungskapitel (Kap 5–8, Position offen)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]
-Document 7 gives that chapter a first-person inner view; this document gives AEGIS
-no person but the third. Conflict C14.
-
-**What it cannot reach, inside [[kael|Kael]].** [[silas|Silas]]: „AEGIS kann ihn strukturell nicht erfassen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699]
-[[oblivion|Oblivion]], its inner executor: „Aber: AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]
-Oblivion in Akt II „Beginnt AEGIS' eigene Genesis-Krise nachzuerleben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L787] After the Vortex,
-a proposal with its lock outstanding (OQ-G): „Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
-[[selene|Selene]] is its greatest threat — „ihre integrative Natur unterminiert AEGIS' Trennungsarchitektur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357] —
-and only [[argus|Argus]] can name its core error (L667). [[lex|Lex]] is its product: „AEGIS' Versuch, Trauma durch fehlerfreie Logik zu eliminieren." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]
-C4, [[blinder-fleck]].
-
-Never expanded (C1 not touched); its Approach not given (C8 not touched).
+The Überwelt is AEGIS' „Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282] What AEGIS is blind to, in the
+reveal table: „Juna strukturell" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574], K₁-Reinform, and „die eigene Genesis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574] (C4).
+The truth the reader must never be told outright: „AEGIS hat die Geburt für den Tod gehalten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1051].
+Its voice is a hard rule: „R-8 — AEGIS spricht nie metaphorisch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1079] and „AEGIS verwendet nie das Wort „Ich"." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1236]
+At Kap 39 it „erlischt monolithisch, lebt plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L594]; the final form is written `Wir-AEGIS-plural` (J73).

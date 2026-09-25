@@ -20,7 +20,5 @@ The source places [[juna|Juna]] between these layers as the time principle
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-Once, as the middle of the three layers in a lock: „K₁-Reinform / K₀-Existenz / Juna als Zeit-Prinzip" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1175].
-Elsewhere the document writes K₀ and K₁ bare: KW1 is a „Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46],
-and a Riss is „die Stelle, an der K₁-Substrat durch die K₀-Architektur drückt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L397].
-Whether that K₀ is this layer it does not say.
+The second of the three layers in the lock index: „K₁-Reinform / K₀-Existenz / Juna als Zeit-Prinzip" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1175].
+KW1 is the environment that tries to eliminate „K₀-Erosion" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46].

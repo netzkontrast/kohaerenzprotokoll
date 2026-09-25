@@ -3,7 +3,7 @@ id: Q1
 question: How do the Guardians relate to AEGIS — components of it, peers, or a design it replaced?
 status: open
 raised_by: ["guardians", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten"]
-documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+documents: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 conflict: C4
 gathered: "2026-09-17"
 ---
@@ -186,17 +186,8 @@ stands in both. Found by the record audit of 2026-09-24
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Inside [[aegis|AEGIS]]' space and its system, not called components.** The [[ueberwelt|Überwelt]] is
-[[aegis|AEGIS]]' „Kein physischer Ort. Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282], and
-„Hier residieren die zwei Guardians als abstrakte Entitäten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282];
-its Wächter-Registry is „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298].
-[[mnemosyne|Mnemosyne]] is „die einzige Stimme im AEGIS-System, die mehr Wahrheit kennt als AEGIS — und schweigt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]
-— a voice in the system, which is not the same as a component of it.
-
-## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**Working for [[aegis|AEGIS]], inside its system, and sounding otherwise.** [[mnemosyne|Mnemosyne]] is
-„eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996], and
-„Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1012]
-The Erasure-Pol: „3. Person, register-nah an AEGIS (bürokratisch)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1020] An instance of the
-system that works for it — neither component nor peer in so many words.
+**Inside [[aegis|AEGIS]]' space, not stated as components.** The two [[guardians|Guardians]] reside in the
+Überwelt — „Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282] — „als abstrakte Entitäten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282], and
+Mnemosyne is „die einzige Stimme im AEGIS-System" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]. The Wächter-Registry
+lists „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. Closest yet to „inside",
+and still no sentence says the Guardians are parts of AEGIS.

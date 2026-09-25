@@ -101,8 +101,5 @@ went: latent, here.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Named once, in the assignment it de-canonises**: „Die alten Drafts sprechen teils von „6 Realitätsebenen", teils von Guardian-zugeordneten Welten (KW1=LogOS, KW4=Kairos/Sophia)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
-„Beides ist dekanonisiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] No world keeps her name. The reset locks keep two
-Guardians, „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183],
-and say nothing of what became of Sophia — no absorption here. The author's C6
-decision, five [[guardians|Guardians]], stands; this document is the two-Guardian side (C6, Q5).
+The document's one mention retires her world: „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] —
+„Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42].

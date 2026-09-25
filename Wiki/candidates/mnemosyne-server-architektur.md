@@ -28,8 +28,6 @@ Mnemosyne-Server-Architektur" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-0
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-`[K]`, Kap 35–36: „Vortex-Setting; primäres Bild noch offen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L162] —
-„Inselgruppe? Server-Halle? Memorialarchitektur? Zirbeldrüse?" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L162] —
-„ein primäres + drei Sub-Bilder beim Encoding festzulegen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L162]. Its open
-points repeat it, „beim Vortex-1-Encoding festzulegen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1427]. Why here:
-in KW2 „Hier kann Erasure nicht greifen, weil das Setting selbst K₁-Substrat ist. Deshalb Vortex-1-Setting." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L113]
+The KW2 Vortex setting at Kap 35–36, and its image is open: „Vortex-Setting; primäres Bild noch offen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L162]
+— „Inselgruppe? Server-Halle? Memorialarchitektur? Zirbeldrüse?" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L162]. Listed again as
+encoding-blocking: „beim Vortex-1-Encoding festzulegen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1427].

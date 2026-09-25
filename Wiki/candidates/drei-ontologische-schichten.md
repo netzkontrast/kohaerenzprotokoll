@@ -28,7 +28,4 @@ also called „Schicht" in both documents.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-The three as a lock of the [[genesis|Genesis]] iteration, attributed to the konsolidiertes
-Konzept: „K₁-Reinform / K₀-Existenz / Juna als Zeit-Prinzip" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1175].
-Not to be confused with its „drei Bewusstseins-Schichten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L563] — reader,
-[[kael|Kael]] and [[aegis|AEGIS]] — or with the `Schicht-1` and `Schicht-2` of Kap 1 (L1199).
+Restated as a Genesis-iteration lock of 2026-05-08: „K₁-Reinform / K₀-Existenz / Juna als Zeit-Prinzip" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1175].

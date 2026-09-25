@@ -45,7 +45,4 @@ cross-reference back to the KW4 [[nexus|Nexus]] (L665). **Wirkung, not appearanc
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Under the [[externe-ebene|Externe Ebene]] only**, `[K]`: „Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327].
-Wirkung, and in Kap 33; the reveal timeline has [[juna|Juna]] appear in Kap 38:
-„Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]. Conflict C7, the side of the Kernwelten
-document of the same date.
+Placed in the Externe Ebene, Köln 2026: „Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327] (C7).

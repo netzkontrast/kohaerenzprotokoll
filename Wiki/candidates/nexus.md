@@ -94,8 +94,4 @@ Only as KW3's second name: „KW3 — Cerberus-Labyrinth / Überwelt-Nexus." ^[k
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**A place in KW4**, the second of its sub-locations: „Knotenpunkt mehrerer Realitätsstränge" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L273].
-Not between KW4 and the [[externe-ebene|Externe Ebene]], as the Kernwelten
-document of the same date has it (its reading above), but inside KW4. And a
-compound in KW3's section, as the setting of Kap 33: „Auch: Überwelt-Nexus im Approach-Inmost-Cave-Beat (Kap 33)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175]
-Two terms (J63).
+A KW4 sub-location: „Knotenpunkt mehrerer Realitätsstränge" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L273].

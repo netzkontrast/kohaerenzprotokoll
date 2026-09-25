@@ -45,6 +45,7 @@ documents read without any instance answers it for the family.
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-None of the seven occurs. It names the canon's protocols as three — „Suppression / Kohärenz / Re-Containment (frühere zwölf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1184]
-— and lists none of the twelve, so whether the seven were among them it does not
-say. Another document read without an instance.
+**None of the eight occurs.** The document counts the novel's protocols:
+„Suppression / Kohärenz / Re-Containment (frühere zwölf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1184]. None
+of ANI, ARS, ECR, PMS, RSA, SNK, ZTV or [[nullpunkt-protokoll|Nullpunkt-Protokoll]] is among the three; whether
+any was among the retired twelve it does not say.

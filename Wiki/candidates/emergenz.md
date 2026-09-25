@@ -78,7 +78,7 @@ Kernwelt die mit-denkt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-m
 
 ## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
 
-**Emergence in a Guardian's domain, not in [[aegis|AEGIS]]' origin.** [[kairos|Kairos]]' domain is
+**Emergence in a Guardian's domain, not in AEGIS' origin.** [[kairos|Kairos]]' domain is
 „Potenzial, Kreativität, Transformation, Emergenz, das Unvorhersehbare" ^[guardians-und-kern-welten-konzept.md:L100], and his
 mandate the „Förderung des kreativen Potenzials, der transformativen Möglichkeiten und emergenter Phänomene innerhalb des Systems" ^[guardians-und-kern-welten-konzept.md:L101].
 Emergence as something inside the system to be fostered, the sense the 2026
@@ -98,7 +98,6 @@ Found by the sweep (decision 012).
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-KW4, in the words of the konsolidiertes Konzept and the Kernwelten document: „Einzige Zone, in der neue Coheronen entstehen können — Emergenz statt Erhaltung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227]
-Found by the sweep (decision 012). This document's reconciliation had left it
-unplaced as another sense than the page's (its `reconcile.json`); the page has
-since taken the same sentence from two documents, so it is a reading here too.
+A different sense from the page's first readings: here emergence is what KW4 alone
+allows. „Einzige Zone, in der" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] „neue Coheronen entstehen können — Emergenz statt
+Erhaltung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227].

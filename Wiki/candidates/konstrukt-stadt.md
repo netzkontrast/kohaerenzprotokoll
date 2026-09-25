@@ -125,24 +125,8 @@ weißes Licht, 21°C" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-„KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44], labelled `[K]` — consistent
-with the author's C9 decision. „Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46]
-„Domäne der ANP-Vermeidung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46] Kant's phenomena: „Welt der gefilterten Erscheinungen, durch AEGIS' kognitiven Apparat normalisiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46]
-„Akt I (Kap 1–13). Multiplizitäts-Schleier hält bis Kap 13." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L50]
-
-„Steril, geometrisch, minimalistisch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L54] „Architektur als Kontrolle." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L54]
-Its smell: „Geruch von Ozon und Desinfektionsmittel (Polaritätsregel: Ozon = kalt/scharf, Landauer-Signatur)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L63]
-Its temperature: „Temperatur: konstant 21°C — bis sie es nicht mehr ist." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67]
-„(Diese Zahl ist diegetische Bilanzgrenze; jede Abweichung ist Signal.)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67]
-„Streng kausal, deterministisch, regelbasiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L71] „Computational Class P" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L71],
-style level 1 with a ban on metaphor (L75).
-
-Its Risse: „Die schmerzhaftesten Risse, weil die Umgebung keine Sprache für sie hat." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L83]
-— logic paradoxes made physical, causal loops, inconsistent rules, and the
-bleeding knuckles, locked to Kap 0 (L87–L90; C10).
-
-Five canonical sub-locations, each with a chapter anchor (L101–L105):
-[[kaels-wohneinheit|Wohneinheit 734]], Datenverarbeitungsknoten Epsilon
-([[datenverarbeitungsknoten-7g]], J65), Transitkorridor Delta-7, [[sektor-04|Sektor 04]]
-and the Archivar-Klasse-II-Arbeitsraum. In the Form motif, as a proposal:
-„Konstrukt-Stadt als hyper-strukturierte Anti-Form" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L539].
+„KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44], labelled `[K]`. „Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46]
+„Akt-Dominanz. Akt I (Kap 1–13)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L50] „Architektur als Kontrolle." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L54]
+Its temperature is „konstant 21°C" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] — „bis sie es nicht mehr ist" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] — and the number is
+„diegetische Bilanzgrenze; jede Abweichung ist Signal." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] Its logic: „Computational Class P" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L71].
+The Konstrukt-Stadt *is* KW1 here, as the author decided for C9.

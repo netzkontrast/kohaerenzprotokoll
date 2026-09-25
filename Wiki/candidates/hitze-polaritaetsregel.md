@@ -1,11 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 5
-readings: 5
+sources: 4
+readings: 4
 conflict: C11
-aliases: ["Polaritätsregel"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -43,30 +42,12 @@ reading; C11 has the record.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**The rule, locked, in four places — and a Landauer strand that is heat.**
-„Hitze-Polaritätsregel (gelockt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L337], `[K]`: „Zwei thermische Signaturen, sensorisch strikt zu trennen:" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L339]
-cold ozone, „AEGIS-Unterdrückung / Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346]; warmth,
-„Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347], „Debüt Kap 3." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347]
-„Nach Kap 1 die beiden Hitzen nie wieder vermischen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]
-„Einzige kanonische Ausnahme: Vortex 1 Beat 4" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]
+§2.1, labelled locked: „Zwei thermische Signaturen, sensorisch strikt zu trennen:" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L339]
+cold ozone, „AEGIS-Unterdrückung / Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346], „Überall, von Kap 1 an. Default-Signatur der Erasure-Aktivität." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346];
+warmth, „Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347], debuting in Kap 3, „Selten, wächst über das Buch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347]
+„Nach Kap 1 die beiden Hitzen nie wieder vermischen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351] „Einzige kanonische Ausnahme: Vortex 1 Beat 4" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351].
+Restated as a hard rule, „Kaltes Ozon (AEGIS) ≠ Wärme (Juna)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1067], and in the lock index with its date:
+„kaltes Ozon = AEGIS; Wärme = Juna; nach Kap 1 nie mischen; Wärme-Debüt Kap 3" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1196].
 
-Again as hard rule R-5 (L1067), as a check in the chapter briefing — „Hitze-Polaritäts-Check: wo Ozon, wo Wärme — getrennt halten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L859]
-— and in the lock index, with its source, the log of 2026-05-30: „kaltes Ozon = AEGIS; Wärme = Juna; nach Kap 1 nie mischen; Wärme-Debüt Kap 3" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1196].
-KW1's sensory default names it by its head alone: „Polaritätsregel: Ozon = kalt/scharf, Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L63]
-— a short form of this rule, as document 7's OQ-B row writes it too (J80).
-
-**Where the document itself pulls the other way.** Its first foreshadowing strand,
-„1. Landauer" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445], is „Hitze als Symptom der Wahrheitsvertuschung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445],
-accumulating in „Kap 6 (Cache-Konflikt), Kap 19 (AEGIS-Eskalation)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445];
-and the world riss of the transition out of KW1 is thermal, „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418].
-It calls both signatures „die beiden Hitzen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]. Conflict C11.
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**The rule as a lock in [[silas|Silas]]' riss field.** „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
-„Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703] [[nyx|Nyx]]'s chest heat is set apart by it: „diese Hitze ist innere Aktivierung, nicht Junas Coheron-Spur — Polaritäts-Disziplin beachten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395].
-The thermal world riss carries its name: „KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890]
-
-**Two heats it leaves as they are**: [[rhys|Rhys]]' riss, „Wärme-Akkumulation, fiebrige Hände." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L286], and the
-„Landauer-Hitze" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] of Silas' struggle with [[oblivion|Oblivion]]. The warmth that debuts in Kap 3 is Silas' in his field
-and „Junas Coheron-Spur ab Kap 3" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] in the foreshadowing — one, if Silas is [[juna|Juna]]'s echo.
+The same document names its first foreshadowing strand `Landauer`, with the theme
+„Hitze als Symptom der Wahrheitsvertuschung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445] — see [[landauer-signatur]] and C11.

@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 8
-readings: 8
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -53,15 +53,5 @@ Function „Absolute Resignation, Katatonie-Tendenz" ^[koharenz-protokoll-strukt
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-As a riss trigger, Collapse: gravitational — „Schwere, Sinken, Kompression, Atmosphäre wird dichter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L407].
-„Kiko ist nicht niedlich, Lia ist nicht launisch, Isabelle wird nicht gerettet, Moros ist nicht depressiv." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235]
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-First trauma layer (L85). „Nicht Tod als Wunsch — Tod als Erschöpfung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L582]
-„Moros ist der Zustand, vor dem alle anderen Phobie haben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L586]
-Correlate „Big Freeze. Universum-Hitzetod." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L590]; riss gravitational (L594).
-„Moros ist nicht depressiv im klinischen Sinne. Er ist katatonisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L621]
-„Wenn Moros lange genug präsent ist, schreibt der Roman selbst langsamer." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L621]
-Only [[selene|Selene]] bears him without fighting (L613); [[rhys|Rhys]] tries to rescue him and fails,
-„zentrale Akt-II-Szene" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L613].
+The gravitative Riss (Collapse): „Schwere, Sinken, Kompression, Atmosphäre wird dichter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L407].
+Sprach-DNA: „Moros ist nicht depressiv" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235].

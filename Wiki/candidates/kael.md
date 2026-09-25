@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 13
-readings: 13
+sources: 12
+readings: 12
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -203,39 +203,7 @@ wurde" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241].
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-„Kaels formelle Rolle: Komponente 734, Archivar Klasse II" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L105]. The reader
-knows from Kap 0 „dass Kael Komp 734 ist" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L572]; the number is an anchor —
-„Zahl 734: strukturelle Markierung (Kap 2, 10, 25)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L389] — set in Kap 0
-without the number and in Kap 1 as a console line he does not react to (L486–L487).
-
-**What he knows when**: „bis Kap 13: nichts strukturell; nur Symptome" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L573];
-Kap 13, „weiß: ich bin nicht allein in mir" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L585]; Kap 18–22, he
-„erlebt Flashbacks als fremde Daten — erinnert sich nicht, dass er das war" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L587];
-Kap 36, „„Wer spricht?" — offen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L592]; Kap 39, „Wir-AEGIS-plural als bewusste Form" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L594];
-Kap 40, „retrospektive Position, bezeugend" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L595].
-
-**The Ouroboros**: „Erster Satz von Kap 1 = letzter Satz, den Kael in Kap 39 schreibt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L633]
-„Das Licht ist schon da, als ich erwache." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L633] His console name in Kap 1
-turns in Kap 39 into „Wir-AEGIS-plural als bewusste Selbst-Bezeichnung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L661].
-His counting mania is „Tic, Vermeidungs-Stütze" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L679]; whether it stays is left open.
-
-In KW1: „Atem-Zählung. Regulation durch Disziplin." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L79] The bleeding knuckles
-are a KW1 riss locked to Kap 0, „Kap 1 bleibt spurlos" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L90] — conflict C10.
-And a lock against the page's old name: „Kein Michael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1188] — „Hauptfigur ist Kael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1188].
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**The Host, and one of the thirteen**, in the second trauma layer (L86).
-„Innerhalb der Simulation: Komponente 734, Archivar Klasse II, Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]
-— the character bible's address ([[kaels-wohneinheit]]).
-
-**The knuckles: the character bible's trait, with the lock written into it.** „Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125]
-— „Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125]. Conflict C10.
-
-„1. Person, Präsens dominiert (Lock)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L133] A self-command in [[aegis|AEGIS]]' register is the
-„frühester, unbenannter Hinweis auf System-Verstrickung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L140]. Arc: „Resolve = Change (adoptiert Pursuit am Klimax Kap 35)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149]
-„Be-er-Modus: löst nicht durch externe Handlung, sondern durch internen Zustandswechsel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149]
-
-„Kael darf in Akt I nicht wissen, dass er ein System ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157] „Kael darf Juna spüren, ohne sie zu erkennen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L159]
-„Spätestens ab Kap 1: Phantom-Resonanz, ein Wort ohne Referent." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L159]
-„Kael flieht vor allen EPs gleichermaßen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L813] „Kael spürt Oblivion nie direkt — nur die Lücken, die Oblivion hinterlässt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L145]
+A reset lock: „Hauptfigur ist Kael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1188] — „Kein Michael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1188]. In KW1,
+„Kaels formelle Rolle: Komponente 734, Archivar Klasse II" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L105]. The reader knows from Kap 0
+„dass Kael Komp 734 ist" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L572]. The Kap-1 opening sentence is his last in Kap 39:
+„Das Licht ist schon da, als ich erwache." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L633].

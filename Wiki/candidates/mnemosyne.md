@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 11
-readings: 11
+sources: 10
+readings: 10
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -155,50 +155,9 @@ agiert subtil, manipulativ" ^[koharenz-protokoll-strukturierter-outline-2026-05-
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Her temptation, as a section of its own (§8, `[K]`).** „Mnemosyne kann Kael „den Schmerz löschen"." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692]
-„Das ist ihr zentrales Angebot in KW2." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692] „Eine perfide Versuchung: Heilung durch Auslöschung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692]
-„Aber: das ist exakt AEGIS' Methode — und sie produziert mehr Trauma, nicht weniger." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692]
-„Kanonisch gespiegelt in Kap 10 (Charakter-Bibel-Anker)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L700] — where
-else is open: „Kap 10 + wo sonst?" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1440] So is what [[kael|Kael]] would
-lose: „Schmerz allein oder Schmerz+Liebe?" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1442]
-
-„Mnemosyne ist nicht bösartig, sondern *überfordert*." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]
-„Sie ist die einzige Stimme im AEGIS-System, die mehr Wahrheit kennt als AEGIS — und schweigt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]
-„Im Subtext ihrer Auftritte schwingt mit: sie weiß, was sie verschweigt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]
-
-Her voice: „Mnemosyne arbeitet mit Wasser-, Strom-, und Resonanzbildern." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704]
-„Sie ist die einzige Guardian-Stimme, in der Stilebene 2 (heiß, fragmentiert) bereits leicht aufscheint." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704]
-As a hard rule: „Mnemosyne darf metaphorisch sprechen — AEGIS nicht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1079]
-
-The drafting rules: „Mnemosyne wird *nie* als Antagonistin geschrieben." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L712]
-„Ihre Versuchung muss als *Geschenk* erscheinen — und Kael (und der Leser) muss spüren, warum sie tödlich wäre." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L713]
-„Erst nachträglich erkennt der Leser: das *ist* AEGIS' Logik, höflicher verpackt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L715]
-
-**Her double in the system**: „Mnemosynes Funktion ist die *parallele* Version von Oblivion auf System-Ebene." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L719]
-„Mnemosyne verwaltet, Oblivion löscht — funktionell verwandt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L719]
-„Wenn Kael Mnemosynes Versuchung annähme, hätte Oblivion intern dasselbe getan." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L719]
-See [[oblivion]].
-
-One of two [[guardians|Guardians]]: „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183];
-the Wächter-Registry is „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298] (Q4).
-KW2 bears her name (J49), and a proposed place, Mnemosynes Audienz-Raum (L163).
-
-**A portrayal rule beside a structural role.** The strukturierter Outline has
-„Guardians als Sub-Antagonisten (Mnemosyne, Erasure-Pol)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005]
-and has her act „subtil, manipulativ" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573];
-this document forbids writing her as an antagonist. Whether the two disagree or
-describe a role and a manner, neither says.
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-„3. Person personal, flüssig-poetisch (eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996]
-„Verwaltet die Datenströme der Erinnerung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] „Setting des Klimax: der Mnemosyne-Archipel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000]
-
-**Her tragedy is a lack.** „Sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
-„Sie könnte befreien und tut es nicht, weil ihr die Sprache dafür fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
-„Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
-
-„Mnemosyne ist die einzige Instanz im AEGIS-System, die metaphorisch sprechen darf." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1012] — an instance in
-the AEGIS system (Q1). With [[oblivion|Oblivion]]: „Mnemosyne verwaltet, Oblivion löscht — funktionell verwandt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1008]
-Her offer to erase [[kael|Kael]]'s pain, which the drafting manual makes her centre, does not occur here;
-nor does the word antagonist.
+One of two Guardians — „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183] — and
+entered in the Überwelt's `Wächter-Registry` ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. §8 is hers.
+„Mnemosyne kann Kael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692] „den Schmerz löschen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692]: „Heilung durch Auslöschung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692]
+„Mnemosyne ist nicht bösartig, sondern überfordert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696] „Sie ist die einzige Stimme im AEGIS-System, die mehr Wahrheit kennt als AEGIS — und schweigt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]
+She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704] in which Stilebene 2 shows, and
+„Sie darf metaphorisch sprechen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704]. Setting: „Kanonisch gespiegelt in Kap 10" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L700].

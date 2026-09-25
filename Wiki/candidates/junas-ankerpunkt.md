@@ -68,10 +68,5 @@ Telefonzelle?)." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-`[L]`, a gap it names: „Ort, an dem Juna in Köln verortet ist (Naming/Lock offen)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L326].
-Its open points: „Junas Erscheinungsmodus in der externen Ebene (Köln 2026)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1441],
-an anchor-point lock still to set.
-
-Not the same as `Junas Anker`, which in this document is a recurring perception —
-„Telefon-Rauschen / -Stille: Junas Anker. Verschoben durch alle Akte." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L384]
-— and not a place.
+An Externe-Ebene sub-location marked `[L]`: „Ort, an dem Juna in Köln verortet ist (Naming/Lock offen)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L326].
+Listed again as open: „Junas Erscheinungsmodus in der externen Ebene (Köln 2026):" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1441] „Ankerpunkt-Lock" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1441].

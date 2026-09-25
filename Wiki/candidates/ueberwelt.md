@@ -151,15 +151,11 @@ wieder; Kael nicht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-„Überwelt — AEGIS' Maschinenraum" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L280], labelled `[K]`. „Kein physischer Ort. Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282]
+Named „Überwelt — AEGIS' Maschinenraum" in the heading ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L280]. „Kein physischer Ort. Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282]
 „Datenstrom-Kathedrale." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282] „Hier residieren die zwei Guardians als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282]
-Its look: „Abstrakt-architektonisch. Datenströme als Lichtbahnen. Wächter-Konsolen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L286]
+Its sub-locations are the „Schnittstelle zu den Kernwelten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L297], the `Wächter-Registry`,
+„wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298], and a
+„Jenseits-des-Ereignishorizonts-Bereich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299], the „Verschränkungs-Insel (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299].
 
-Sub-locations: the Schnittstelle zu den Kernwelten, „wo AEGIS' Logik in die KWs einsickert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L297];
-the Wächter-Registry, „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298] (Q4);
-and the Jenseits-des-Ereignishorizonts-Bereich, „Verschränkungs-Insel (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299].
-
-**`Überwelt-Nexus` stands in KW3's section, as a Kap-33 setting, not as KW3's
-name**: „Auch: Überwelt-Nexus im Approach-Inmost-Cave-Beat (Kap 33)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175]
-KW3's heading gives `Grenzfeste` as its second name (L169). A compound naming a
-place is neither of the places it is built from (J63).
+It is one of six levels of „eine Realität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] beside the four Kern-Welten (L42), and KW3
+also carries an „Überwelt-Nexus im Approach-Inmost-Cave-Beat (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175] (J63).

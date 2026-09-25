@@ -27,6 +27,5 @@ The konsolidiertes Konzept names it the same way (L538), not attached.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-In the [[ueberwelt|Überwelt]]: „Jenseits-des-Ereignishorizonts-Bereich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299] —
-„Verschränkungs-Insel (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299]. In the reveal timeline Kap 33 is
-where the reader gets „direkte Berührung K₁" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L590].
+In the Überwelt: the „Jenseits-des-Ereignishorizonts-Bereich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299] is the
+„Verschränkungs-Insel (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299].

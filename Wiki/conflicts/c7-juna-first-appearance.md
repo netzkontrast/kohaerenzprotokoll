@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 10
 pages: ["juna"]
 ---
 
@@ -124,15 +124,9 @@ document. Found by the record audit of 2026-09-24
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Effect in Kap 33, appearance in Kap 38 — the Kernwelten document's arrangement,
-of the same date.** The Garten der stillen Präsenz is „Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327];
-the reveal timeline has Kap 38 as „Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]; her first
-explicit manifestation is Kap 7, „Die Stimme im Rauschen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L474]. Her modes,
-as the resolution of OQ-B in the log of 2026-05-30: „gestaffelte Grammatik; Abwesenheits-Phase Akt I → Präsenz-Phase Akt II+; zwei Anker (Telefon-Stille, Silas)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1195].
-Whether Kap 33 is an appearance or an effect stays the author's question.
-
-## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**Kap 38, as the third of her modes, locked 2026-05-30.**
-„Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]
-Nothing on Kap 33. Its rule for every scene of hers: „Grammatik-Regel: nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024]
+**Effect in Kap 33, appearance in Kap 38 — the reading `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` gave.**
+The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]], in the [[externe-ebene|Externe Ebene]], is the
+„Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327]; in the reveal timeline, Kap 38:
+„Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]. And a rule that makes the distinction grammatical:
+„R-10 — Juna ist nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087] Another source for Kap 38; like
+`kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, it gives Kap 33 an effect rather than an appearance.

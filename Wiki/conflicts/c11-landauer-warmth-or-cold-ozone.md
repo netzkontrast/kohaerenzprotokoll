@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 10
+sources: 9
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -121,30 +121,19 @@ source for the warm position in Kap 6 and 36, not a resolution of C11.
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Cold ozone as the signature, heat as the strand — a fourth arrangement, of
-document 7's date.** The rule: cold ozone, „AEGIS-Unterdrückung / Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346],
-„Überall, von Kap 1 an." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346]; warmth [[juna|Juna]]'s from Kap 3; „Nach Kap 1 die beiden Hitzen nie wieder vermischen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]
-„Einzige kanonische Ausnahme: Vortex 1 Beat 4" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351] Its source, in the
-lock index: the log of 2026-05-30 (L1195–L1196).
+**The cold-ozone side, locked — and a heat strand named Landauer beside it.**
+§2.1 files the Landauer-Signatur under cold ozone: „AEGIS-Unterdrückung / Landauer-Signatur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346],
+„Überall, von Kap 1 an. Default-Signatur der Erasure-Aktivität." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L346] Warmth is
+„Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347]. „Nach Kap 1 die beiden Hitzen nie wieder vermischen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]
+„Einzige kanonische Ausnahme: Vortex 1 Beat 4" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]. The lock index dates it to the
+decision log: „kaltes Ozon = AEGIS; Wärme = Juna; nach Kap 1 nie mischen; Wärme-Debüt Kap 3" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1196],
+source „Log 2026-05-30" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1195] — „dito" in the next row ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1196].
 
-But its first foreshadowing strand, „1. Landauer" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445], is
+**Inside the same document**, foreshadowing strand 1 is named `Landauer` with the theme
 „Hitze als Symptom der Wahrheitsvertuschung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445], accumulating in
-„Kap 6 (Cache-Konflikt), Kap 19 (AEGIS-Eskalation)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445]; and the world riss
-of the transition out of KW1 is thermal, „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418].
-What Kap 6 smells or feels like it does not say. So one document holds the lock
-and a heat strand through Kap 6 — the arrangement neither of the lock's source
-nor of the konsolidiertes Konzept.
-
-## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**The Landauer signal as heat, beside ozone as the signature — in a document filtered on the lock's iterations.**
-[[silas|Silas]] and [[oblivion|Oblivion]]: „jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
-That heat is „das Landauer-Signal, das der Leser (ohne es zu benennen) als Zeichen der Wahrheitsvertuschung zu lesen lernt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
-Its sensory foreshadowing opens „Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042].
-And the lock stands in Silas' field: „Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
-Nothing on Kap 6 or Kap 36. It says it is filtered on the iterations of 2026-05-30/31 (L13).
-
-**Found while reconciling it: the character bible holds the same sentence** —
-„Jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L753]
-— a reading on [[silas]] since document 8, and not in this record. So the warm side
-has a second source of 2026-05-08, and this document carries it past the lock.
+„Kap 6 (Cache-Konflikt), Kap 19 (AEGIS-Eskalation)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445] — Kap 6 again, the chapter the
+warm position places its Landauer-Wärme in, though without the word. And the KW1→KW2
+transition has a thermal Riss, „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418]. The document
+does not relate the strand to the lock. The strand and the signature are two terms (J81);
+whether the strand's *heat* is the lock's cold ozone is this record's question, asked
+again by one document of itself.

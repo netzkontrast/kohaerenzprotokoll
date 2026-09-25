@@ -23,6 +23,5 @@ document), not attached as a reading.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-The same words, `[K]`: „Grenzbereich; erste Risse als geometrische Inkonsistenzen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104],
-anchored „Kap 2 ff. (erster Riss)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104] — the chapter of the first Riss,
-without the Kap-1 setting the reading above gives it.
+A KW1 sub-location: „Grenzbereich; erste Risse als geometrische Inkonsistenzen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104], anchored at
+„Kap 2 ff. (erster Riss)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104].

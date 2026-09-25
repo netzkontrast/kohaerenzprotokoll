@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 8
-readings: 8
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -51,26 +51,8 @@ Function „Externer Schutz, Risiko-Antizipation" ^[koharenz-protokoll-strukturi
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-From the Sprach-DNA it keeps: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1234]
-Its example: `Kopf runter` instead of `Ich liebe dich` (L1234).
-
-**It names a conflict of its sources about his origin (§14.4)** and leaves it open.
-The character bible: „Alex entstand" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1460] „in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1460]
-— in that document's own words, „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L398].
-The Kap-0 annotation: „Alex-Vorform wird in Bewegung 4 *vor* dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461]
-„Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462], with
-two ways out: „Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1464]
-or „Alex' Genesis-Geschichte anpassen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1465] The annotation is landed and
-unread here (`kap0-v1-annotiert-md`); until it is read the wiki holds one side
-directly and the other as this document reports it.
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**The character bible's side, stated directly, with a reservation on the same line.**
-„Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219] — „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein — offen, siehe §11." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219]
-§11 keeps it open beside the Genesis count: „also strenggenommen kann Alex in Kap 0 vor dem Trennungsprotokoll nicht aktiv präsent sein." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079]
-„Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] The Kap-0 annotation's side is still only reported (above).
-
-Second trauma layer (L86). „Wenn Alex flutet, wird die Welt zur Gefahrenkarte." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L235]
-„Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L262] Its examples are `Kopf runter` and
-`Bleib hinter mir`, never `Ich liebe dich` (L262). „Alex muss lernen, dass Schutz manchmal heißt, nicht zu schützen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L258]
+Sprach-DNA: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1234]
+The document names his origin as open. The character bible's version — „Alex entstand" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1460]
+„in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1460] — against the Kap-0 annotation's:
+„Alex-Vorform wird in Bewegung 4 vor dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461]
+„Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462].

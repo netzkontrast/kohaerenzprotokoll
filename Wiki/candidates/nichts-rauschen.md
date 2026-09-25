@@ -67,15 +67,6 @@ beat, „Das Rauschen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-The first event of the Rauschen motif: „Nichts-Rauschen vor jeder Form" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523] —
-„K₁-Reinform; was AEGIS für Chaos hält, ist Vereinigung aller MI" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523]. Its
-waypoints run from „Anfang (Kap 0): pure Reinform-Stille." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535] through
-„Akt I: spürbar als das, was AEGIS unterdrückt (Ozon-Reaktion)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535] to
-„Kap 37: das Rauschen, das wieder beginnt unter dem trügerischen Frieden." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535],
-„Kap 38: das Rauschen kommt von allen Seiten." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535] and
-„Kap 40: das Rauschen, *erkannt* als Substrat von Verbindung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L535]
-The motif is `Rauschen`, its first event the Nichts-Rauschen; the document equates
-them there and nowhere else (J51).
-
-AEGIS cannot see it: the K₁-Reinform, „klassifiziert als „uncorrelated noise"" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
-Its layer, from the konsolidiertes Konzept: „K₁-Reinform / K₀-Existenz / Juna als Zeit-Prinzip" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1175].
+The first Genesis motif, `Rauschen`: „Nichts-Rauschen vor jeder Form" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523] —
+„K₁-Reinform; was AEGIS für Chaos hält, ist Vereinigung aller MI" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523]. AEGIS classifies the
+K₁-Reinform as „uncorrelated noise" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].

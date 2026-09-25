@@ -55,6 +55,5 @@ konsolidiertes Konzept holds both. A question for the author (`NOW.md`).
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**The Kap-34 place only**: a sub-location of KW4, „Kap 34, vor Vortex — Setting der finalen Selbst-Schöpfung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L274].
-No Kap-11 beat. Kap 40's last image, „das Mosaik, das die Welt hält" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L629],
-is the mosaic of the shards, not this place; the document does not relate them.
+A KW4 sub-location: „Kap 34, vor Vortex — Setting der finalen Selbst-Schöpfung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L274].
+Only the Kap-34 place; no Kap-11 beat is named in this document.

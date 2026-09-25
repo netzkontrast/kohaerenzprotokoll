@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 10
 pages: ["trennungsprotokoll"]
 ---
 
@@ -129,18 +129,17 @@ other sources' alternative sequences the author chooses.
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Four beats, from two of its sources, and no Komponente 734 among them.** As a
-lock attributed to the konsolidiertes Konzept: „Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174];
-as a lock of 2026-05-31 from the Kompendium: „vier Beats (mit Wir-AEGIS-plural als Beat 4)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1212].
-The second beat is `Cluster`, not 734. Kap 0's crisis ends in the
-[[trennungsprotokoll|Trennungsprotokoll]] (L627). It also reports, from the Kap-0 annotation, an
-Alex-Vorform choreographed before the [[trennungsprotokoll|Trennungsprotokoll]] (L1461) — a voice before
-the separation, which it leaves open as its own §14.4. It does not place 734
-before or after.
+**Four beats restated, without Komponente 734 as a beat.** The lock index restates,
+citing the konsolidiertes Konzept, a „Genesis-4-Beat" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174]:
+„Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174]; and citing the
+Kompendium, „vier Beats (mit Wir-AEGIS-plural als Beat 4)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1212]. Neither restatement
+places 734. The Kap-0 crisis ends in the separation —
+„Stille Wacht → Perturbation → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L627] —
+and 734 appears only as what Kael is: in Kap 0 „n/a (existiert als Komp 734)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L581].
 
-## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**Four beats as the current lock, and a voice before the separation left open.**
-„Aktueller Lock-In: vier Beats (Kompendium 2026-05-31)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] In the same row, of [[alex|Alex]]:
-„also strenggenommen kann Alex in Kap 0 vor dem Trennungsprotokoll nicht aktiv präsent sein." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079]
-It names no beat and does not place Komponente 734.
+It adds a conflict of its own inside the [[genesis|Genesis]]: whether [[alex|Alex]] arose in the separation
+(the `Charakter-Bibel`, L1460) or before it — „Alex-Vorform wird in Bewegung 4 vor dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461] —
+„Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462]. It proposes
+„Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1464]
+Recorded here because it is a question of order in the Genesis; it is not the 734
+question.

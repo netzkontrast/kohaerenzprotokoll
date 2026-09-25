@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 9
-readings: 9
+sources: 8
+readings: 8
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -83,27 +83,8 @@ document).
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Four beats, five motifs, a crisis in six steps — three counts on three axes.**
-The beats, attributed to the konsolidiertes Konzept: „Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174];
-and again as a lock of 2026-05-31 from the Kapitel-Kompendium: „vier Beats (mit Wir-AEGIS-plural als Beat 4)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1212].
-The motifs: „Fünf Motive werden in Kap 0 als Erstereignisse etabliert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L516]
-— Rauschen, Form, Klick, Phantom, Resonanz (L523–L527), each echoed later and
-never quoted: „Wörtliche Wiederholung wäre didaktisch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L516]
-The crisis: „Stille Wacht → Perturbation → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L627].
-
-**Kap 0 and Kap 40 as one bracket**: „dieselben Ereignisse, aus der Position der vollzogenen pluralen Heilung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L618]
-„Echo der Genesis (Werdung, mit Verständnis ihrer Notwendigkeit)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L626]; Kap 40
-is „Coda / geheilte Genesis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1142] (J79). The reader has it whole in Kap 0,
-„Genesis vollständig" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L581]; in the flashbacks of Kap 18–22
-„beide Lesarten simultan wahr (Bridge)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L587]; AEGIS has it only as
-„die eigene Genesis (verdrängt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
-
-Komponente 734 is not among the beats; the second is „Cluster", and the Form motif's
-first event „Erste Cluster-Bildung; innere Struktur" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L524]. Conflict C12.
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**The count, and a voice before the separation**, in one row of its open points:
-„Aktueller Lock-In: vier Beats (Kompendium 2026-05-31)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] [[alex|Alex]] arose at the moment of the fragmentation,
-„also strenggenommen kann Alex in Kap 0 vor dem Trennungsprotokoll nicht aktiv präsent sein." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] „Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079]
-C12. And [[oblivion|Oblivion]] in Akt II „Beginnt AEGIS' eigene Genesis-Krise nachzuerleben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L787]
+The lock index restates, citing the konsolidiertes Konzept, a „Genesis-4-Beat" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174]:
+„Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174]; and citing the Kompendium,
+„vier Beats (mit Wir-AEGIS-plural als Beat 4)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1212]. Komponente 734 is no beat in either (C12).
+Five motifs are „Erstereignisse" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L516] of Kap 0 — Rauschen, Form, Klick, Phantom, Resonanz (§5).
+It names a Genesis conflict of its own: „Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462].

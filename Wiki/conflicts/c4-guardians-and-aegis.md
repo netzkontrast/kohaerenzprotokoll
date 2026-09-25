@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 9
+sources: 8
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -137,7 +137,7 @@ shortcut.
 
 A document that states the relation outside a question: an architecture
 description, an origin account, or any passage where a Guardian acts against
-[[aegis|AEGIS]] or is described as predating it. `KW2` and `KW4` appearing anywhere would
+AEGIS or is described as predating it. `KW2` and `KW4` appearing anywhere would
 also help, since the numbering is the one place the two documents nearly touch.
 
 ## 2026-09-17 — document 6 supplies the numbering this record asked for
@@ -191,12 +191,9 @@ record audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M1).
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**AEGIS' side, named three ways.** What AEGIS is blind to: „Juna strukturell (atemporal, nicht messbar), K₁-Reinform (klassifiziert als „uncorrelated noise"), die eigene Genesis (verdrängt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
-In Kap 38 it stays „strukturell blind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]. The Guardians get no blind spot.
-
-## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**[[aegis|AEGIS]] blind inward, and a Guardian lacking — neither called a blind spot.**
-[[silas|Silas]]: „AEGIS kann ihn strukturell nicht erfassen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L699] [[oblivion|Oblivion]]: „Aber: AEGIS weiß nichts von Oblivion." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]
-[[mnemosyne|Mnemosyne]]: „Sie bewahrt Trauma als Daten, weil ihr der emotionale Kontext fehlt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004]
-Both of the record's bearers in one document, and a limit for each.
+**AEGIS' blindness, and none named for a Guardian.** In the reveal table AEGIS is
+blind to „Juna strukturell" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574], to the K₁-Reinform, and to „die eigene Genesis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
+No Guardian is given a blind spot. The two [[guardians|Guardians]] it names sit in the [[ueberwelt|Überwelt]],
+„Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282], and Mnemosyne is
+„die einzige Stimme im AEGIS-System" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696] who knows more than AEGIS. Nearest to
+the first position: a blindness of AEGIS', not one per Guardian.

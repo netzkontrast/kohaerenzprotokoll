@@ -4,7 +4,7 @@ subject: Möglichkeits-Garten / Garten der Möglichkeiten
 kind: one thing at two scales — a Kern-Welt in one source, a region inside one in the other
 status: open
 first_seen: "2026-09-17"
-sources: 10
+sources: 9
 pages: ["moeglichkeits-garten", "kern-welten", "kairos", "sophia", "realitaetsebenen"]
 ---
 
@@ -136,12 +136,9 @@ Found by the record audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`,
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Both scales in one document**, as in the Kernwelten document of the same date:
-the world — „KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L225]
-— and, first of its sub-locations, the place: „überwucherter Ruinengarten; Setting der inneren Praxis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L272].
-No `Garten der Möglichkeiten`.
-
-## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**One mention, the scale in a parenthesis.** „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
-Whether `(KW4)` names the garden or where it lies, the sentence does not say.
+**Both scales, one document.** KW4's heading gives the garden as the world's third
+name — „KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L225] — and
+KW4's sub-location table has a `Möglichkeits-Garten` inside it,
+„überwucherter Ruinengarten; Setting der inneren Praxis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L272]. The same shape as the
+konsolidiertes Konzept's, with the world called `Kairos-Potentialis` again (J61). It
+does not write `Garten der Möglichkeiten`.

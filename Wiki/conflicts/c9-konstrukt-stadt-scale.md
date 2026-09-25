@@ -92,4 +92,5 @@ and its first beat „Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime)" ^[kohare
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-Consistent with the decision: „KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44].
+**KW1, as decided.** „KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44]. Agrees with the
+author's decision; nothing to change.

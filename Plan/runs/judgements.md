@@ -1110,30 +1110,72 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 
 **Result.** TWO terms as referents; no new page from a chapter device or undetermined name in this concept iteration.
 
-## J80 — Polaritätsregel / Hitze-Polaritätsregel
+## J80 — Wohneinheit 734 / Einheit 734
 
-**one-term** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+**judgement** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
 
-- **rule:** a head a document writes in place of its own compound, stating the compound's content or pointing at the same decision, is that compound's short form — decided by the passage; a head alone decides nothing (J28)
+- **rule:** a number shared by a dwelling and a designation does not identify either; the referent of a bare numbered label is decided by the passage, and a document that places it both ways leaves it open
 - **mechanised by:** `nothing`
-- **features:** compound-head, same-document-short-form
+- **features:** near-match:intra-list, numbered-designation, shared-number
 
-**Question.** is the bare head the rule the compound names, or a term of its own?
+**Question.** one term or two?
 
-**What was done.** L63 of this document gives KW1's smell „(Polaritätsregel: Ozon = kalt/scharf, Landauer-Signatur)“ — the content of its §2.1 „Hitze-Polaritätsregel (gelockt)“ (L337, L346). Document 7 does the same: „Hitze-Polaritätsregel (Lock 2026-05-30, OQ-B)“ at its L64 and „gestaffelte Grammatik + Polaritätsregel + zwei Anker“ for the same OQ-B at its L476. No read document uses the bare head for anything else.
+**What was done.** read the three passages that place the Kap-1 console line: L101 puts „Einheit 734" in the chapter-anchor cell of the Wohneinheit 734 row; L487 lists it under the Komponente-734-Anker; L661 calls the same console line „Komponente 734 als Konsolen-Zeile"
 
-**Result.** ONE term: the head is the rule's short form in both documents that use it. Added as an alias of hitze-polaritaetsregel.
+**Result.** not settled by the surface — the document ties one console line to the dwelling once and to Kael's designation twice
 
-## J81 — Simulation / Überwelt
+## J81 — Landauer / Landauer-Signatur
 
 **two-terms** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
 
-- **rule:** an alias a page carries does not decide a passage; the passage decides (J20, J62)
+- **rule:** a foreshadowing strand named after a person is not the phenomenon named after that person (J53, J62)
 - **mechanised by:** `nothing`
-- **features:** page-is-elsewhere, alias-misleads-lookup, third-document
+- **features:** near-match:intra-list, eponym, narrative-device
 
-**Question.** the index maps Simulation to ueberwelt by alias — does this document mean the Überwelt by it?
+**Question.** one term or two?
 
-**What was done.** One occurrence, L307, of the Externe Ebene: „Kein „außerhalb der Simulation“, sondern die andere Seite des Spiegels.“ The Überwelt is its own level in the same section list (L280) — „AEGIS' Maschinenraum“ — and the sentence is about whether Köln 2026 lies outside the whole construct.
+**What was done.** L445 names foreshadowing strand 1 „Landauer" with the theme „Hitze als Symptom der Wahrheitsvertuschung"; L63 and L346 file the Landauer-Signatur under cold ozone
 
-**Result.** TWO terms here, as in J39: Simulation is the construct that contains the levels. The reading was placed on externe-ebene, not on ueberwelt. The alias Simulation on the ueberwelt page is left as it is and its misfire recorded (J30, J39, J81).
+**Result.** two terms — a strand of the plot named after a physicist is not the in-world signature named after the same physicist; the difference in their temperature is a reading for C11
+
+## J82 — Zwei Guardians / Guardians
+
+**one-term** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a leading numeral counting a term is a reading on that term, never a new term
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, leading-numeral
+
+**Question.** one term or two?
+
+**What was done.** L1183 is a lock row named „Zwei Guardians" whose content is „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)"
+
+**Result.** one term — the numeral states how many; it is a reading on the Guardians page, and its count is what C6 records
+
+## J83 — Polaritätsregel / Hitze-Polaritätsregel
+
+**one-term** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a compound's head used alone, stating the same content the document gives the full compound, is a short form of that compound; the content decides, not the head (J28)
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, short-form
+
+**Question.** one term or two?
+
+**What was done.** L63 writes „Polaritätsregel: Ozon = kalt/scharf, Landauer-Signatur" inside the KW1 sensory list; §2.1 (L337) and R-5 (L1067) name the Hitze-Polaritätsregel with the same content
+
+**Result.** one term — the short form names the same rule with the same content in the same document
+
+## J84 — 13 Alter / Alter
+
+**one-term** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a leading numeral counting a term is a reading on that term, never a new term (J82)
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, leading-numeral
+
+**Question.** one term or two?
+
+**What was done.** L1185 is a lock row „13 Alter" whose content is „exakter Roster (siehe Anteile-Profil)"
+
+**Result.** one term — the numeral counts the Alters; a reading for Q3

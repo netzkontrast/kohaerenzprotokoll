@@ -24,8 +24,5 @@ attached as readings.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-`[K]`: „zerfallende Bibliothek mit unendlichen Regalen; Ort, an dem Kael AEGIS' technische Dossiers findet" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L159],
-anchored „Kap 14 (Mnemosyne-Archipel betreten)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L159]. In the reveal
-timeline, Kap 14 is where [[kael|Kael]] „bekommt Zugang zu AEGIS-Dossiers (Lernarchiv Theta-9)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L586];
-whether the Lernarchiv is this archive the document does not say. The name is also
-one of the act-II titles it keeps from the Kapitel-Kompendium: „Kompendium-Theorie-Titel primär (Das Archiv der Grenzen, Turing-Mechanik, etc.), Zyklus-Funktion als zweite Schicht" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1211].
+A KW2 sub-location: „zerfallende Bibliothek mit unendlichen Regalen; Ort, an dem Kael AEGIS' technische Dossiers findet" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L159],
+at „Kap 14 (Mnemosyne-Archipel betreten)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L159]. Also an Akt-II title, „Kompendium-Theorie-Titel primär (Das Archiv der Grenzen, Turing-Mechanik, etc.)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1211].

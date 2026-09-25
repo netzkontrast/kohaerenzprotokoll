@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 14
-readings: 13
+sources: 13
+readings: 12
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -317,32 +317,7 @@ The base reality lies outside: „Existiert jenseits der Simulation." ^[koharenz
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-„eine Realität mit vier Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus Überwelt und Externe Ebene." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
-„KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] **It names both
-older readings and de-canonises them**: „Die alten Drafts sprechen teils von „6 Realitätsebenen", teils von Guardian-zugeordneten Welten (KW1=LogOS, KW4=Kairos/Sophia)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
-„Beides ist dekanonisiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] (C6, [[realitaetsebenen]].)
-
-Names, the konsolidiertes Konzept's headings with KW4's three names:
-„KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44],
-„KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Klimax-Setting)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L111],
-„KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L169],
-„KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L225].
-
-**Each world is an act, a computational class and a style level**: KW1 Akt I
-(Kap 1–13), class P, style level 1; KW2 the middle of Akt II (Kap 14–22) and
-Vortex 1 (Kap 35–36), paraconsistent, level 2; KW3 late Akt II (Kap 23–28) and
-the Überwelt-Nexus of Kap 33, NP-hard, level 2+; KW4 Akt III (Kap 29–34, 37–39),
-generative, level 3 (L50, L71, L75, L117, L136, L140, L175, L193, L197, L231,
-L249, L253). **KW3 gets its chapters here**: „Späte Akt II (Kap 23–28)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175]
-The strukturierter Outline names KW3 only in its world table (its reading above).
-
-Worlds answer to classes of [[alters|Alters]] (Q3): KW1 is the „Domäne der ANP-Vermeidung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46],
-and in KW3 „Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171]
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-**Where the first trauma layer becomes readable, and rifts by act.** [[kiko|Kiko]], [[lia|Lia]], [[isabelle|Isabelle]] and
-[[moros|Moros]] „sind in Akt I aktiv (als Hintergrund-Druck), werden in KW2/KW3 (Akt II) erst voll lesbar." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85]
-The world rifts are „Akt-spezifisch, nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886]: KW1 → KW2 thermal, KW2 water, KW3 paranoid,
-KW4 generative (L890–L893). [[selene|Selene]] waits in KW4 (L361); the climax is set in KW2's archipelago:
-„Setting des Klimax: der Mnemosyne-Archipel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] No world is given an Alter or a Guardian (Q3).
+Four worlds of one reality: „eine Realität mit vier Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus Überwelt und Externe Ebene" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42].
+„KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]. Each has an act, a Stilebene and a
+computational class: KW1 Akt I, Class P; KW2 „Mittlere Akt II (Kap 14–22). Vortex 1 (Kap 35–36)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L117];
+KW3 „Späte Akt II (Kap 23–28)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175]; KW4 „Akt III (Kap 29–34, 37–39 in modifizierter Form)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L231]

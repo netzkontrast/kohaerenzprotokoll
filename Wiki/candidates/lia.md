@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 8
-readings: 8
-conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+sources: 7
+readings: 7
+conflict: none
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -53,16 +53,5 @@ Function „Approach-Avoidance, ewige Superposition" ^[koharenz-protokoll-strukt
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-A spatial riss trigger twice, with different partners: with [[kiko|Kiko]] in the trigger table, „Kiko/Lia (Flight)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L406], and with [[isabelle|Isabelle]] in KW2, „Temporale Risse (Kiko-Trigger), spatiale Risse (Lia/Isabelle-Trigger)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]
-„Kiko ist nicht niedlich, Lia ist nicht launisch, Isabelle wird nicht gerettet, Moros ist nicht depressiv." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235]
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-First trauma layer (L85). **Her own riss is relational** — „Relational-Drift — Beziehungen verschieben sich, ohne dass jemand sich bewegt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L492]
-— in the character bible's words; in the mandate table she carries Flight, spatial, with [[kiko|Kiko]] (L878). Conflict C15.
-
-**Her somatics stand in the profile without a label** — „Sprunghafter Puls. Ruhelosigkeit." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L496] —
-and count as a gap in §11: „Lia (Vorschlag im Profil), Isabelle (Vorschlag im Profil), Argus, Silas, Oblivion — alle vorgeschlagen, nicht verbindlich gesetzt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1074]
-The konsolidiertes Konzept and the glossary list them as open (above).
-
-„Beginnt Sätze, gibt sie auf." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L504] „Ihre Sätze müssen brechen, damit sie ehrlich sind." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L519]
+In KW2 „spatiale Risse (Lia/Isabelle-Trigger)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]; with Kiko, the spatial Riss (Flight) ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L406].
+Sprach-DNA: „Lia ist nicht launisch" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235].

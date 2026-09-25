@@ -1,10 +1,10 @@
 ---
 term: Möglichkeits-Garten
 status: candidate
-sources: 11
-readings: 11
+sources: 10
+readings: 10
 conflict: C5
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Der Möglichkeits-Garten", "Nexus-Vorstufe"]
 gathered: "2026-09-17"
 ---
@@ -161,19 +161,8 @@ document has no `Garten der Möglichkeiten`.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Both scales in one document, as in the Kernwelten document of the same date.**
-The world: „KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L225], `[K]`,
-„Der überwucherte Ruinengarten der Möglichkeit." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227]
-„Einzige Zone, in der neue Coheronen entstehen können" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] —
-„Hier wird Funktionale Multiplizität eingeübt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227]
-„Akt III (Kap 29–34, 37–39 in modifizierter Form)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L231]
-„Computational Class: Generativ." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L249] Style level 3, where
-„Wir-Pronomen tritt auf." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L253]
-
-And the place inside it, first of its three sub-locations:
-„überwucherter Ruinengarten; Setting der inneren Praxis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L272]. Conflict C5.
-
-## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
-
-One sentence, with a parenthesis: „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
-Whether `(KW4)` names the garden or where it lies, the sentence does not say — C5.
+Both scales in one document. The world's heading gives it as a name of KW4 —
+„KW4 — Kairos-Potentialis / Resonanz-Kontinuum / Möglichkeits-Garten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L225] — and KW4's
+sub-location table lists a `Möglichkeits-Garten` inside it:
+„überwucherter Ruinengarten; Setting der inneren Praxis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L272]. The world is
+„Der überwucherte Ruinengarten der Möglichkeit." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] (C5, J61).

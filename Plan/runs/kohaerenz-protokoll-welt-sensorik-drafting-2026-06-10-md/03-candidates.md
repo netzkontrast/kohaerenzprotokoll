@@ -1,46 +1,29 @@
----
-written_by: hand, while reading (Claude, in session)
-document: kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md
----
+written_by: Claude session, during the numbered reading, 2026-09-25
 
-# Candidates — written while reading
+Open while reading (prose, filtered out): the document names itself the fourth of a
+"Repo-Quartett" (L13) and labels passages [K]/[V]/[S]/[L]. L42 "dekanonisiert"
+Guardian-assigned worlds (KW1=LogOS, KW4=Kairos/Sophia). L90 knuckles: Kap-0 lock,
+Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
 
-Written by hand while reading, **before any counting**. One line per
-candidate. This is the only artifact of the run a program cannot produce, and
-the baseline any model gets scored against.
-
-- Kohärenz Protokoll
 - Welt-Bibel
 - Sensorik
+- Sensorik-Bibliothek
 - Drafting-Disziplin
-- Outline
-- Glossar
-- Anteile-Profil
-- Claude Code
 - Foreshadowing-Tracker
-- Stränge
-- Anker
-- Genesis-Motive
+- Foreshadowing-Programm
 - Genesis-Motive-Choreografie
 - Reveal-Disziplin
-- Ouroboros-Spiegelungen
-- Ouroboros-Spiegelungs-Tabellen
+- Ouroboros-Spiegelung
 - Kapitel-Briefing-Vorlage
 - Self-Review-Regelwerk
-- Master-Index aller Locks
-- Repo-Architektur-Empfehlung
+- Master-Index
+- Lock
+- Repo-Architektur
 - Repo-Quartett
-- storyform-und-outline_2026-06-10.md
-- begriffe-und-konzepte_2026-06-10.md
-- anteile-profile-sprach-dna_2026-06-10.md
 - Provenienz
-- [K]
-- [V]
-- [S]
-- [L]
 - kanonisch
 - Vorschlag
-- Steinbruch-gefiltert
+- Steinbruch
 - Lücke
 - KW1
 - KW2
@@ -48,165 +31,90 @@ the baseline any model gets scored against.
 - KW4
 - Überwelt
 - Externe Ebene
-- Sensorik-Bibliothek
 - Stilebene
+- Risse
 - Risse-Phänomenologie
-- Foreshadowing-Programm
-- Rauschen
-- Form
-- Klick
-- Phantom
-- Resonanz
 - Bewusstseins-Schichten
 - Mnemosynes Versuchung
 - Anti-Heilung
 - Hard-Rules
-- R-1
 - Genre-Modus
-- Locks
-- Wirklich-offene Punkte
-- Sechs Ebenen einer Realität
+- Rauschen
+- Klick
+- Phantom
+- Resonanz
 - Realitätsebenen
-- Steinbruch
-- Guardian-zugeordnete Welten
-- LogOS
-- Kairos
-- Sophia
-- dekanonisiert
 - Logikregime
 - psychologische Landschaften
 - Akt-Marker
 - Guardian-Reich
 - Konstrukt-Stadt
 - Logos-Prime
-- K₁-Umgebung
 - K₁
-- K₀-Erosion
 - K₀
+- K₀-Erosion
 - ANP-Vermeidung
-- ANP
 - Phaenomena
-- Kant
 - AEGIS
-- kognitiver Apparat
-- Akt-Dominanz
-- Akt I
 - Multiplizitäts-Schleier
 - Architektur als Kontrolle
-- Summen
 - Ozon
-- Desinfektionsmittel
 - Polaritätsregel
 - Landauer-Signatur
-- Recycelte Luft
-- Systemhum
-- 21°C
 - Bilanzgrenze
-- diegetische Bilanzgrenze
+- Computational Class
 - Computational Class P
-- Polynomial
-- Ebene 1
 - Metaphernverbot
 - AEGIS-Logs
 - Somatik-Default
 - Kael-Host
-- Kael
 - Atem-Zählung
 - Lex
 - Hypoventilation
-- Risse
-- Riss
-- Logikparadoxien
 - Escher-Geometrien
 - Kausalitätsschleifen
-- Inkonsistente Regelanwendung
 - Blutende Knöchel
 - Kap-0-Lock
-- Kap 0
-- Kap 1
 - Sub-Lokalitäten
 - Wohneinheit 734
 - Einheit 734
-- Konsolen-Zeile
 - Datenverarbeitungsknoten Epsilon
 - Transitkorridor Delta-7
 - Sektor 04
 - Archivar-Klasse-II-Arbeitsraum
 - Komponente 734
 - Archivar Klasse II
-- Foreshadowing-Anker
-- Kapitel-Anker
-- erster Riss
 - Mnemosyne-Archipel
 - Resonanzlandschaft
 - Klimax-Setting
-- Mnemosyne
-- Erinnerung als Schauplatz
-- gespeicherte K₁
 - Erasure
-- K₁-Substrat
-- Vortex-1-Setting
 - Vortex 1
-- Akt II
-- Wälder des Flüsterns
-- Ozeane der Trauer
-- Lichtkegel
+- Vortex-1-Setting
 - Architektonische Palimpseste
 - Echos
-- feuchte Erde
-- verblassendes Parfum
 - Nicht-lineare Zeit
 - Parakonsistent
-- Trivialismus
 - Tarski-Hierarchie
-- Ebene 2
-- Bauchreaktionen
-- Viszerales Erinnern
+- Trigger
 - Temporale Risse
+- Spatiale Risse
 - Kiko
-- Kiko-Trigger
-- spatiale Risse
 - Lia
 - Isabelle
-- Das Archiv der Grenzen
+- Archiv der Grenzen
 - Wald des Flüsterns
-- Erinnerungslandschaft
 - Ozean-Becken
 - Mnemosyne-Server-Architektur
-- Vortex-Setting
-- Inselgruppe
-- Server-Halle
-- Memorialarchitektur
-- Zirbeldrüse
-- Encoding
 - Mnemosynes Audienz-Raum
-- Mnemosynen-Versuchung
+- Mnemosyne
 - Cerberus-Labyrinth
 - Grenzfeste
-- Cerberus
-- Schutzraum
-- Quarantäne
-- Kontrollzentrum
 - EP-Protektoren
-- EP
 - Erasure-Pol
-- Erasure-Pol-Logik
 - Überwelt-Nexus
 - Approach-Inmost-Cave-Beat
-- Kap 33
-- Ewiges Dämmerlicht
-- Niemandsland
-- Schießpulver-Geruch
-- Hyperalert-Gefühl
-- Bedrohungsanalyse
-- Verteidigungsprotokolle
-- Mustererkennung
+- Hyperalert
 - NP-Hard
-- Ebene 2+
-- Stakkato
-- Brace for Impact
-- Bruxismus
-- Hypertonus
 - gravitationale Risse
 - kinetische Risse
 - Zitadelle
@@ -214,63 +122,31 @@ the baseline any model gets scored against.
 - Wartungsschächte
 - Die unbewachten Tore
 - Evaluierungseinheit
-- Kap 13
 - Kairos-Potentialis
 - Resonanz-Kontinuum
 - Möglichkeits-Garten
 - Coheronen
-- Coheron
-- Emergenz statt Erhaltung
+- Emergenz
 - Ruinengarten der Möglichkeit
 - Funktionale Multiplizität
-- Akt III
 - Synästhesie
-- Vermischung der Sinnesfelder
-- Warmes Licht
 - Generativ
-- Computational Class
-- Ebene 3
 - Wir-Pronomen
-- Stilles Wachsen
 - Generative Risse
-- innere Praxis
 - Nexus
-- Realitätsstränge
 - Mosaik-Herz
-- Kap 34
-- vor Vortex
-- finale Selbst-Schöpfung
-- AEGIS' Maschinenraum
-- Operationsraum
+- Selbst-Schöpfung
+- Maschinenraum
 - Datenstrom-Kathedrale
 - Guardians
-- zwei Guardians
-- abstrakte Entitäten
-- Logs
 - Erasure-Sweeps
-- Datenströme
-- Lichtbahnen
 - Wächter-Konsolen
 - Schnittstelle zu den Kernwelten
-- Kernwelten
-- KWs
 - Wächter-Registry
-- Wächter
 - Jenseits-des-Ereignishorizonts-Bereich
 - Verschränkungs-Insel
 - Köln 2026
-- Köln
-- außerhalb der Simulation
-- Simulation
-- die andere Seite des Spiegels
 - Substrat-Durchbruch
-- Kap 36
-- Plattenbauten
-- S-Bahn-Geräusche
-- Telefon
-- Bühne
-- Erinnerungsfragment
-- Telefonton
 - Junas Ankerpunkt
 - Juna
 - Garten der stillen Präsenz
@@ -278,656 +154,301 @@ the baseline any model gets scored against.
 - Quelle des Flüsterns
 - Unkartiertes Territorium
 - Hitze-Polaritätsregel
-- gelockt
-- thermische Signaturen
-- Signatur
-- Ontologie
-- Akt-Aktivität
 - Kaltes Ozon
-- AEGIS-Unterdrückung
-- Erasure-Aktivität
-- Default-Signatur
 - Wärme
-- Junas ununterdrückbare Spur
+- AEGIS-Unterdrückung
 - Coheron-Verdrängung
-- Hauttemperatur ohne Wärmequelle
-- Tiefenempfindung
-- Geruchserinnerungen ohne Geruchsquelle
-- Debüt Kap 3
-- Kap 3
-- Hitzen
-- Vortex 1 Beat 4
 - Heat Spike
-- Suppression
-- MI-dichtes Ziel
+- Vortex 1 Beat 4
 - MI
 - Sensorik-Lookup
-- grüne Erde
-- Stille mit innerem Klang
-- Musik aus Form
-- Stil 1
-- Stil 2
-- Stil 3
-- EP-Domäne
 - Juna-Stil
-- klassische Logik
-- Beispiel-Vokabular
-- Triggerbrüche
-- NP-hart
-- chorisch
+- EP-Domäne
 - Form-die-atmet
 - Diegetische Wiederkehr-Sensorik
-- Foreshadowing-Default
-- Ozon-Geruch
 - 21°C-Schwelle
-- thermisches Versagen
-- Riss-Vorzeichen
 - Telefon-Rauschen
 - Telefon-Stille
-- Junas Anker
-- Staub-Bewegung in Lichtkegeln
-- KW2-Erinnerungs-Markierung
 - Knöchel-Blutung
-- Quellenloses Licht beim Erwachen
-- Kap 39
-- Ouroboros
-- Komponente
+- Quellenloses Licht
 - Phantom-Bilanz
-- System-Verstrickung
 - Zahl 734
-- Kap 2
-- Kap 10
-- Kap 25
 - Inversion
 - Suppression-Versagen
-- Atmen der Realität
-- K₀-Architektur
 - EP-Trigger
 - Riss-Typ
 - Anteils-Risse
-- Sensorische Signatur
 - Nyx
-- Fight
-- Freeze
-- Flight
 - Moros
-- Collapse
-- kinetisch
-- temporal
-- spatial
-- gravitativ
-- sensorisch
 - Silas
 - Coheron-Echo
-- relational/warm
 - Oblivion
 - Erason-Operator
-- Erason
 - Welt-Risse
-- Akt-Default-Risse
-- Welt-Riss-Typ
-- logisch
-- KW1→KW2-Übergang
-- thermisch
-- wässrig / mnemonisch
-- paranoid
-- Kompositions-Regel für Riss-Szenen
-- Riss-Szenen
+- Kompositions-Regel
 - Storyform-Pull
-- Sensorische Verzerrung
-- Foreshadowing-Stränge
-- erste Spur
-- Akkumulation
-- Erntung
-- Strang
+- Stränge
 - Landauer
-- Wahrheitsvertuschung
-- Ozon-Atmosphäre
-- Kap 6
-- Cache-Konflikt
-- Kap 19
-- AEGIS-Eskalation
-- Heat Spike → ∞
 - Gödel
-- Lex-Kap-Momente
-- widersprüchliche Klassifikationen
-- Kap 18
-- Hartes Problem
 - Gödel-Gambit
-- Kap 30
 - Bekenstein
 - Pixelierung
-- Detailrand
-- Kap 22
-- Phase A
 - Architektur-Kollaps
 - Dasein
-- Existentielle Unverankerung
-- Kael-Reflexionen
-- Sartre
-- Heidegger
-- Kap 27
-- Ordinary World
 - Euler
-- Mathematische Schönheit
-- verlorene Sprache
-- Junas Erscheinungen
-- MI ohne Datenträger
-- Vortex 1 Beat 3
+- Cache-Konflikt
+- Hartes Problem
+- Ordinary World
 - Show-don't-Tell
-- Drei Ebenen des Show-don't-Tell
 - Sprachliche Spuren
 - Strukturelle Markierungen
-- Verlorene Sekunden
-- Antwortlatenzen
-- Stilbrüche
-- AEGIS-Log-Format
-- Stilbruch-Choreografie
-- Genesis-Motive-Wiederkehr
 - Akkumulations-Regel
 - Schleier-Fall
 - Twist-Anforderung
 - DID-Architektur
-- DID
 - Cosmic Horror
-- Reread
-- DID-Symptome
+- DID
 - Anker-Tracker
 - Telefon-Stille-Anker
-- Kap 7
 - Die Stimme im Rauschen
 - K-J-Verbindung
-- Kap 24
 - A-Prerequisite
-- Telefon-Anker
 - Komponente-734-Anker
-- Komp-734-Bezeichnung
-- Komp 734
 - Reader-only-Echo
 - Silas-Halbsatz-Anker
-- Frequenz der Lüftung
-- Schicht-2-gekoppelt
+- Schicht-2
 - Echo-Prosa
-- aktiver Transmitter
-- Kap 31
-- Kap 32
+- Transmitter
 - OQ-E
 - Wärme-Debüt-Anker
-- Coheron-Spur
-- Polaritäts-Lock 2026-05-30
 - Polaritäts-Lock
+- Genesis-Motive
 - Erstereignisse
-- Erstereignis
-- Motiv
 - Nichts-Rauschen
 - K₁-Reinform
-- Chaos
 - Cluster-Bildung
-- Auflösung
-- Schwelle
-- Schalter
-- Trauma als Resonanz ohne Quelle
-- Junas Spur
-- Liebe als Coheron
+- Form
+- Trennungs-Klick
 - Korrelat-Achse
+- Coheron
 - Wegmarken
-- Wiederkehrmuster
 - Reinform-Stille
-- Ozon-Reaktion
-- Kap 37
-- Kap 38
-- Kap 40
 - Anti-Form
 - Echos im Fundament
-- Form-Motiv
 - Kohärenz-Mantra
-- Umgebungs-Logik
 - falsche Form
-- zwei Arten von Form
 - Orkan
 - Sphäre
-- das Wir
-- plurale Form
-- Trennungs-Klick
+- Wir
 - Schwellen-Bruch
-- Klick-Motiv
 - Vortex 1 Beat 2
 - Pivot
-- Trennung
 - Sehnen-ohne-Adresse
-- Kap 4
 - Pforten
-- Phantom-Motiv
-- Hintergrundrauschen
-- Komp-734-Hintergrundrauschen
+- Komp-734
 - Trennungsprotokoll
-- Resonanz-Motiv
 - Moonshine-Resonanz
 - Vortex 2
 - Motiv-Echo
-- Allegorie
 - Genesis-Echo
-- Kernfrage
+- Tragische Ironie
 - Lesersteuerung
-- tragische Ironie
-- Drei Schichten
-- Schicht
-- Bewusst
-- Spürt
-- Blind
-- Resonanz-Quelle
 - Schleier-Lüftung
 - Spiegel-Konflikt
+- Lesart-Dualität
 - Reset
 - Transfiguration
-- Lesart-Dualität
 - Atmosphären-Drift
 - Stilcode-Einbrüche
-- Stilcode
 - Phantom-Resonanz
 - Multiplizität
-- Junas Identität
-- Mandat
 - η-Werte
 - Erasure-Bilanzen
-- Juna strukturell
-- atemporal
 - uncorrelated noise
-- die eigene Genesis
 - Genesis
 - Reveal-Timeline
-- Kapitel-Range
 - Slot-16-Lock
-- Kap 5
-- Kap 8
-- 1.-Person-Innensicht
+- Innensicht
+- Anteile
 - Modi
 - Stimmungs-Drifts
-- Anteile
 - Phase-Wechsel
 - Eskalation
-- Kap 14
 - Erasure-Welle
 - AEGIS-Dossiers
 - Lernarchiv Theta-9
 - Erasure-Phase 2
 - Genesis-Flashbacks
 - Bridge
-- Kap 26
 - Countdown
 - Moonshine-Bewusstsein
 - K-J-Kanal
 - Mandat-Krise
-- direkte Berührung K₁
 - FM-Achievement
-- funktionale Multiplizität
 - parakonsistente Logik
-- Kap 35
 - Truth-Rotation
-- Trauma ohne Dissoziation
 - Beat 5
-- Rotation
-- Wer spricht?
 - algorithmische Melancholie
 - plurale Apotheose
 - Wir-AEGIS-plural
 - Erzähl-Stimme
 - Iser-Layer-Disziplin
-- Iser
-- Narratologisch
-- Leser-Bedeutungs-Montage
-- Phänomenologisch
-- Leser-Erleben
-- Operativ
-- kognitiver Aufwand
-- monophone Kael-Erzählung
 - Uncanny Valley
 - Leerstellen
-- Zeitverlust
 - Fußnoten
-- polyphon
-- Bridges
-- Doppellesarten
-- Desorientierung
-- Glitches
-- widersprüchliche Fußnoten
-- temporales Scrambling
 - Wir-Geflecht
-- Leerstellen-Dichte
-- Sog
-- Hard-Rule
-- 5. Iser-Position
-- Canon
+- Iser-Position
 - Reader-Funktion
-- Bedingung der Möglichkeit
-- Storyform-Position
 - Genesis-Klammer
-- plurale Heilung
-- Kap-0-Bewegung
-- Kap-40-Echo
 - Vorwort
-- Lesehaltungs-Anleitung
-- Leser-Adressierung
 - Echo des Vorworts
-- Erzähler
-- Frage → Zeugnis
 - Genesis-Bewegungen
-- Echo der Genesis
-- Werdung
 - Krise
 - Stille Wacht
 - Perturbation
 - Algorithmischer Schrecken
 - Resonanzkaskade
 - Systemischer Kollaps
-- Echo der Krise
-- Echo des Trennungsprotokolls
 - Scherben
-- Scherben-Fall
-- Letztes Bild
 - Mosaik
-- Resolution-ohne-Erklärung
-- innere Ouroboros-Klammer
-- Erstsatz-Lock 2026-05-30
+- Letztes Bild
 - Erstsatz-Lock
-- Erstsatz
-- Das Licht ist schon da, als ich erwache.
+- Ouroboros
 - Lexem-Echo
-- da
 - Welt-Subjekt
-- Das Licht
 - Junas Grammatik
-- Drei Tests
 - Erst-Read
-- schleier-sicher
 - Zweit-Read
-- Schreibbar
-- indirektes quellenloses Licht
-- Sensorium
 - Spiegelbild-Mikroverzögerung
-- Anker-Wort
 - Stille
-- Selbst-Bezeichnung
-- Phantom-Spur
-- Resonanz mit Adresse
+- Anker-Wort
 - Memory-Anker
-- reversed roles, phone call, silence
-- Stille-Anker
 - Inversions-Mechanik
-- zentrale Bilder
-- Coda
-- Quellenloses Licht
-- Stille-mit-Substanz
+- Telefon
 - OQ-Knöchel
 - Zähl-Manie
 - Kacheln
-- Vermeidungs-Stütze
 - Wir-Pluralität
-- den Schmerz löschen
 - Heilung durch Auslöschung
-- AEGIS' Methode
-- Trauma
-- überfordert
 - AEGIS-System
-- Subtext
-- Setting der Versuchung
 - Charakter-Bibel-Anker
-- Charakter-Bibel
-- Wasser-, Strom-, und Resonanzbilder
 - Guardian-Stimme
-- Stilebene 2
 - Antagonistin
-- Geschenk
-- AEGIS' Logik
 - Konflikt-Anker
-- System-Ebene
 - Kapitel-Briefing
-- Sektionen
-- Format-Quelle
-- CH-01_Erwachen-Zyklus_Briefing.md
-- Template
-- Briefings
+- CH-01\_Erwachen-Zyklus\_Briefing
 - Storyform-Encoding
 - Telling
-- Strukturelle Position
 - Block
-- HR innen
-- zyklisch
-- HR außen
-- Vortex
-- Reward
-- Apotheose
-- Modus
-- linear-introspektiv
-- zyklisch-rekursiv
-- linear-aufsteigend
-- vortex-still
-- HR-Stufe
-- HR-Bogen
 - HR
+- Modus
 - Zyklus-Position
-- Z1-Trigger
-- Z1-Reaktion
-- Z1-Korrektur
 - Block-Sequenz-Position
-- Eröffnung
-- Schwellpunkt
 - Dramatica-Encoding
-- Dramatica
 - Throughline
-- Storyform-Status
-- A‖B
-- A-Storypoint
-- B-Storypoint
-- Storypoint
-- Aktivität
-- latent
-- aktiv
-- dominant
-- Szenen-Keim
 - MC
 - IC
 - OS
 - RS
-- Psychology
-- Physics
 - Dynamics-Check
-- Storyform
 - Approach
 - Driver
 - Limit
 - Resolve
 - Style
-- POV & Stimme
 - POV
 - Pronomenpraxis
-- Tempus
 - Syntax-Signatur
-- POV-Träger
-- Sprach-DNA-Anker
 - Sprach-DNA
-- dominanter Anteil
-- Anteil
+- Sprach-DNA-Anker
 - Multiplizitäts-Tarnung
 - Schleier-Pegel
-- vollständig intakt
-- erste interne Lüftung
-- partiell offen
-- offen benannt
 - Prosa-Stil
-- Stilebene-Default
-- Kompositionsregel pro Szene
 - Tonale Achse
 - Schmerz-Liebe-Substrat
-- KW-Default-Sensorik
 - Anteils-Somatik
 - Anteile-Profile
 - Hitze-Polaritäts-Check
-- Aktive Spuren
-- Genesis-Motiv-Echo
-- Anker-Verwendung
 - 734-Anker
 - Silas-Anker
 - Wärme-Spur
 - Vortex-Vorbereitungen
 - Genesis-Krise-Splitter
-- Schicht-2-Spuren
-- Algorithmische-Melancholie-Vorausschau
-- Ouroboros-Spiegelung
 - Reader-Architektur
 - Iser-3-Layer
+- POV-Träger
 - Konflikt-Topologie
-- Anteil-Konflikt
 - Rhys
 - Selene
-- ANP-EP-Phobie-Pegel
 - ANP-EP-Phobie
+- ANP
+- EP
 - Block-4-Anker-Check
-- Block 4
 - Risiko-/Adversarial-Check
 - R-Regel
-- Soft-Drift-Risiken
+- Soft-Drift
 - Stapelungs-Risiken
-- Stimmen-Brüche
-- Cross-References
-- Vorgänger-Kapitel
-- Offene Fragen
+- Storypoints
 - OQ
-- Checkliste
 - Genesis-Echo-Limit
 - Reveal-Schicht
 - Ouroboros-Pflicht
-- R-Regel-Vorab-Check
 - Kap-0-Annotation
-- Defekt
-- Globale Hard Rules
-- R-1 — Tragische Ironie nicht auflösen
-- AEGIS hat die Geburt für den Tod gehalten
-- Erzähler-Hinweis
-- R-2 — Show, don't tell
-- Klammer-Kommentare
-- meta-narrative Einschübe
-- R-3 — Multiplizitäts-Schleier intakt halten
+- Hard Rules
+- R-1
+- R-2
+- R-3
+- R-4
+- R-5
+- R-6
+- R-7
+- R-8
+- R-9
+- R-10
 - Alter
 - Fragment
 - TSDP
 - Syntax-Bruch
-- R-4 — Maximal drei Stimmen-Mikrocues pro Bridge-Szene
 - Stimmen-Mikrocues
 - Bridge-Szene
-- Stimmen-Einbrüche
-- R-5 — Hitze-Polaritätsregel
-- R-6 — Maximal 1 Konzept pro Szene
-- R-7 — Maximal 1 Genesis-Echo pro Szene
-- R-8 — AEGIS spricht nie metaphorisch
-- R-9 — Genesis-Stil-Marker werden nie wörtlich wiederholt
 - Genesis-Stil-Marker
 - AEGIS ist, was AEGIS verhindert
-- R-10 — Juna ist nie Subjekt, nur Wirkung
 - Defekt-Kategorien
 - Schweregrad
-- Kritisch
-- M-1
-- M-2
-- M-3
-- M-4
-- M-5
-- Mittel
-- Niedrig
-- N-1
-- N-2
-- N-3
-- Erzähler-Wertung
-- Reviewer
 - Self-Review-Checkliste
-- R-1-Check
-- R-10-Check
 - Tonale-Achse-Check
 - POV-Konsistenz-Check
-- Grundlinie
 - Hard-SF
 - Philosophical Horror
 - Psychological Thriller
-- Egan
-- Chiang
-- Lem
-- Tarkowski
-- Kawabata
-- VanderMeer
-- Watts
-- PKD
-- Physik-Rigor
-- KI-Tragödie
-- Bildhaftigkeit
-- japanische Erzähllogik
-- kognitive Härte
-- Realitätsbruch
-- Genre-Akzent
-- ontologische Grundlegung
-- kosmische Schauder
-- SF-Mechanik
 - Literary SF
-- Horror-Anflug
-- Lem-Tonalität
-- Thriller-Pacing
 - Technothriller-Kippe
-- algorithmisches Gefängnis
-- Watts-Härte
-- Sentimentalität
 - chorisches Drama
-- kosmische Konfrontation
-- Vor-Vortex-Spannung
-- Egan-Rigor
-- Tarkowski-Bildhaftigkeit
-- Akt-II-Eskalation
 - metaphysischer Klimax
-- stille Mechanik
 - Soft-Layering
 - Dialetheia
 - trügerischer Pastoralismus
 - Reward-Beat
-- kristallisierte Ruhe
 - spirituelle Apotheose
-- Kawabata-Erzähllogik
 - ketsu
-- Theorie-Predigt
+- Kawabata-Erzähllogik
+- Coda
 - geheilte Genesis
-- Erläuterungs-Modus
 - Genre-Disziplin
-- Akt-Modus
-- Erzählformen
-- Lock
 - Storyform-Locks
 - Lock-In 2026-05-07
 - Dual-Storyform
 - Heuristics of Integration
 - Phoenix Collapse
-- Storyforming Lock-In 2026-05-07
 - MC-Throughlines
-- Mind/Memory
-- Universe/Progress
 - IC-Throughlines
-- Universe/Past
-- Mind/Conscious
-- Growth
-- Outcome
-- Judgment
-- Storyform-Dokument
 - POV-Architektur
 - Hybrid Option 3
 - Hard-Routing-Default
 - Bridge-Soft-Layering
 - Genesis-Iteration-Locks
-- Cost/Dividend
-- A-Cost
-- A-Dividend
-- B-Cost
-- B-Dividend
-- Verlust der Privatheit des Wir
-- Liebe bleibt
-- AEGIS-monolithisch
-- plurale Übernahme
-- Konzept konsolidiert 2026-05-08
+- Cost
+- Dividend
 - Plurale Apotheose
 - Synthese (c)
 - Genesis-4-Beat
@@ -935,144 +456,84 @@ the baseline any model gets scored against.
 - Cluster
 - Drei ontologische Schichten
 - K₀-Existenz
-- Juna als Zeit-Prinzip
+- Zeit-Prinzip
 - Reset-Locks
 - Architektur-Reduktion
 - Zwei Guardians
 - Drei Protokolle
-- Suppression-Protokoll
+- Suppression
 - Kohärenz
 - Re-Containment
 - 13 Alter
-- Roster
-- dekanonisierte Namen
-- Kein Final Fusion
+- Anteile-Profil
 - Final Fusion
 - Verschmelzung
-- Kein Reset/Race-Condition-Ende
-- Race-Condition
-- Liebe bleibt, wie der Schmerz
-- Kein Michael
+- Race-Condition-Ende
 - Michael
-- Hauptfigur
-- 2026-05-30-Locks
+- Kael
 - Entscheidungs-Logs
 - OQ-B
 - Juna-Modi
 - gestaffelte Grammatik
 - Abwesenheits-Phase
 - Präsenz-Phase
-- Log 2026-05-30
-- Wärme-Debüt
 - Slot-16
 - Hard-A-Default
 - Hard-B-Kapitel
 - AEGIS-Stimme
 - UI-Direktiven
-- 3.-P-Systemlog-Stimme
-- 80/20 Schicht-1/Schicht-2
+- Systemlog-Stimme
 - Schicht-1
-- Schicht-2
-- Schicht-2-dominant
-- Silas-Halbsatz
 - Kap-1-Erstsatz
-- Ouroboros-Lock
-- Doppellesbares Finale Kap 40
+- Doppellesbares Finale
 - Konflikt-Leser
 - Ketsu-Leser
-- Konzept Kap 40 Lesart-Dualität
-- 2026-05-31-Locks
 - Kompendium
 - Blutungs-Faden
 - Akt-II-Titel-Schichten
-- Kompendium-Theorie-Titel
 - Turing-Mechanik
 - Zyklus-Funktion
 - Genesis-Beat-Anzahl
-- Beat 4
 - Hard-Constraints
 - Projekt-Anleitung
-- didaktischer Tonfall
-- Bösewicht
 - Liebes-Interesse
-- Bridge-Szenen-Stapelung
-- Kap 9
-- Wir-Geflecht-Etablierung
-- Resolution-Glättung
-- Hard-Rules der Sprach-DNA
 - Alex
-- Kopf runter
-- Stimmen werden nie gelabelt
-- Lexikon
-- Somatik
-- Repo-Architektur
 - Datei-Struktur
-- User-Entscheidung
-- canon/
+- canon
 - Source-of-Truth
-- locks/
-- kap-1-locks_2026-05-30.md
-- kap-40-lesart-dualitaet.md
-- master-index_2026-06-10.md
-- archive/
-- steinbruch/
-- briefings/
-- CH-00_Genesis-Prolog.md
-- CH-01_Erwachen-Zyklus.md
-- CH-40_Geheilte-Genesis.md
-- Genesis-Prolog
-- Erwachen-Zyklus
-- Geheilte Genesis
-- drafts/
-- kap-00_v1-annotiert.md
-- kap-00_v2.md
-- kap-01_v0-3.md
-- kap-39_v1.md
-- kap-40_v1.md
-- reviews/
-- Self-Reviews
-- encoding/
-- NCP-Schicht
+- locks
+- archive
+- briefings
+- drafts
+- reviews
+- encoding
 - NCP
-- Storyform-JSON
-- ncp.json
 - ncp-author
-- ncp-author-Skill
-- snapshots/
-- notes/
 - Phoenix-Mode
-- Phoenix-Mode-Diskussionen
-- oq-tracker.md
-- learnings.md
+- oq-tracker
 - Naming-Konventionen
 - Sessions-Bootstrap-Reihenfolge
+- master-index
 - Hard-Stops
-- Canon-Dateien
 - Canon-Mutationen
 - Entscheidungs-Log
+- kanonisieren
+- Wirklich-offene Punkte
 - Encoding-blockierend
 - KW2-Klimax-Setting
 - Vortex-1-Encoding
 - Spiegel-Alter
-- Spiegel-Alter-POV-Anteile
 - OQ-F
 - Moonshine-Boundary
 - OQ-G
 - Post-Vortex-AEGIS-Status
 - lebende Reliquie
 - Oblivion-Übernahme
-- Hard-B-Kapitel-Position
-- Slot 16
 - Storyweaving
 - MC Symptom & Response
-- TBD-Slots
 - 14-Frage-Sequenz
 - OQ-D
 - P5
-- Blutungs-Wiederkehr
-- Junas Erscheinungsmodus
-- Ankerpunkt-Lock
-- Bekenstein-Strang
 - Temporal Scrambling
 - Sich-ausschließende Epiloge
 - Genesis-Konflikt
@@ -1080,47 +541,32 @@ the baseline any model gets scored against.
 - Fragmentierung
 - Alex-Vorform
 - Bewegung 4
-- Konzept-Konflikt
-- Kap-0-Pass
-- Funktion vor Person
-- Stimmen-Vorformen
 - Proto-Cluster
+- Stimmen-Vorformen
 - 13 Meta-Stadien
-- Meta-Stadien
-- ontologischer Heilungs-Bogen
+- Heilungs-Bogen
 - Heldinnenreise
-- Lock-Entscheidung
-- Hintergrund-Konzept
-- Beat-Mapping
-- Schluss-Notiz
-- KI-System
-- OQ-Entscheidung
-- ontologische Tiefe
-- tragische Unschuldsstruktur
-- schmerzhaft-liebevolle Tonalität
 - ontologische Heilungs-Schleife
-- Form der Trennung
-- Wiederzusammenfinden
+- tragische Unschuldsstruktur
 
-## Open while reading
+Observed while reading (prose, filtered out):
+* L42 decanonises Guardian-assigned worlds (KW1=LogOS, KW4=Kairos/Sophia); KW1-4 are
+  Akt-Marker. L282 two Guardians in the Überwelt; L1183 "Zwei Guardians | Mnemosyne +
+  Erasure-Pol (frühere fünf sind dekanonisiert)".
+* L346/L1067/L1196 cold ozone = AEGIS, warmth = Juna, debut Kap 3, exception Vortex 1
+  Beat 4. But L445 strand 1 "Landauer": "Hitze als Symptom der Wahrheitsvertuschung",
+  accumulating in Kap 6 — while L346 files Landauer-Signatur under Kaltes Ozon. L418 a
+  thermal Riss at the KW1->KW2 transition: "Hitze-Spitzen, Ozon-Konzentration".
+* L1174 Genesis-4-Beat: Einheit -> Cluster -> Trennungsprotokoll -> Wir-AEGIS-plural
+  (attributed to Konzept konsolidiert); L1212 four beats, Beat 4 = Wir-AEGIS-plural.
+  L627 the Kap-0 crisis chain ends in Trennungsprotokoll. No 734-before-separation here.
+* L327 Garten der stillen Präsenz = Setting der Juna-Wirkung (Kap 33), Externe Ebene;
+  L593 Kap 38 Juna erscheint direkt.
+* L175 KW3 carries Kap 23-28, and Überwelt-Nexus in Kap 33.
+* L1456-1466 the document's own Genesis conflict: Alex before or in the separation.
+* L1410-1411 it claims Source-of-Truth for the four canon files; "Canon gewinnt".
 
-Not candidates — what the read ran into, for the census. Only `- ` lines above
-are read as candidates.
 
-1. Passage labels in the header of nearly every §1 subsection (`[K]`) and inline
-   in tables (`[V]`, `[L]`, triple-escaped as `\\\[L\\\]`). §13 is labelled
-   „Vorschlag, kein Lock. User-Entscheidung." in prose, not by a label.
-2. §1 opens by de-canonising „6 Realitätsebenen" and the Guardian-assigned worlds
-   (KW1=LogOS, KW4=Kairos/Sophia), and its own heading is „Sechs Ebenen einer
-   Realität". The worlds keep the Guardian names in their titles.
-3. It calls both thermal signatures „die beiden Hitzen" while one of them is
-   „Kaltes Ozon". The KW1→KW2 world riss is „thermisch" with „Hitze-Spitzen,
-   Ozon-Konzentration" beside a rule that the two are never mixed after Kap 1.
-4. It names its own conflict (§14.4): the Charakter-Bibel against the
-   Kap-0-Annotation on when Alex arises.
-5. It names three sibling documents by file name and itself as the fourth of a
-   „Repo-Quartett"; it cites a Charakter-Bibel anchor, a Kompendium, an
-   Entscheidungs-Log of 2026-05-30, a Lock-In of 2026-05-07 and a konsolidiertes
-   Konzept of 2026-05-08 as sources of its locks.
-6. 52 question marks: most in the §9 briefing template and the §14 open points;
-   the Mnemosyne-Server image is four options in parentheses.
+Corrected after the count (the count's zeros): three surfaces were written as the
+document does not write them (case, export escaping); Storyform A/B and Moonshine-Link
+were names the document does not use at all and are removed; two repeats removed.

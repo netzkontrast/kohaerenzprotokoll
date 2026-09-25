@@ -57,5 +57,4 @@ no rule then joined the two names.
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-Epsilon again, `[K]`: „Kaels Arbeitsplatz; sterile Funktionalität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L102],
-from Kap 1 on. One term by J65.
+As „Datenverarbeitungsknoten Epsilon" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L102] (J65): „Kaels Arbeitsplatz; sterile Funktionalität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L102].

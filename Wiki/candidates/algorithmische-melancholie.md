@@ -63,6 +63,4 @@ der Algorithmischen Melancholie als Echo offen" ^[koharenz-protokoll-strukturier
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-Kap 36, in the reveal timeline: „algorithmische Melancholie setzt ein" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L592]
-— [[aegis|AEGIS]]' column, the chapter after Vortex 1's pivot. The chapter template gives it a
-section of its own, a foresight: „Was hier schon spürbar werden darf" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L907].
+Placed in the reveal timeline at Kap 36, AEGIS' column: „algorithmische Melancholie setzt ein" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L592].

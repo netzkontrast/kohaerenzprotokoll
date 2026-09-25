@@ -23,6 +23,4 @@ Konzept lists it among KW3's sub-locations with „(Ch13)" ^[kohaerenz-protokoll
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**A proposal here**, `[V]`, in KW3: „offizielle Verhandlung der Identität; Setting möglich Kap 13" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L219].
-The same chapter as the reading above, which labels the place `[K]`; the two
-documents share a date. A difference of label, not of content.
+A KW3 sub-location marked `[V]`: „offizielle Verhandlung der Identität; Setting möglich Kap 13" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L219].
