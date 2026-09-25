@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C2
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-25"
 ---
 
@@ -58,3 +58,9 @@ Gathered when the page opened: the census had listed the term.
 
 In Kap 35, Vortex 1 Beats 1–3, among the chapter's figures: „Oblivion (Innen-Spiegelung der Truth-Rotation)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1091].
 [[oblivion|Oblivion]] as its mirror inside the system. Gathered when the page opened: the census had listed the term.
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+The great inversion, labelled `[K]`: „Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kapitel-kompendium-gather-2026-05-31-md.md:L25]
+In Vortex 1, the real storyform turn: „AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die Lesart kippt." ^[kapitel-kompendium-gather-2026-05-31-md.md:L232]
+Gathered when the page opened: the census had listed the term.
