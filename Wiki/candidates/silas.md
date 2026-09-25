@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -101,3 +101,9 @@ First the locked half-sentence in Kap 1, then a commuter in Transitkorridor Delt
 With [[oblivion|Oblivion]]:
 „Silas und Oblivion stehen im physikalischen Konflikt — jeder Wechsel zwischen ihren Stimmen erzeugt Landauer-Wärme im Text, spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233]
 Warmth and ozone, both, as one conflict's mark — C11.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+On the atemporal side: „Juna ◄──Moonshine-Link──► Silas" ^[kohaerenz-protokoll-konzept-master-md.md:L182]. The „Coheron-Echo" ^[kohaerenz-protokoll-konzept-master-md.md:L307], the
+„Resonanzkörper der Korrespondenz-Wahrheit" ^[kohaerenz-protokoll-konzept-master-md.md:L307]. „Silas (Juna-Echo)" ^[kohaerenz-protokoll-konzept-master-md.md:L399], with an arc
+„bewusste Resonanz (I unbewusst → II wachsend → III offen)" ^[kohaerenz-protokoll-konzept-master-md.md:L399]. „Silas spürt es; AEGIS sieht es nicht." ^[kohaerenz-protokoll-konzept-master-md.md:L599]
