@@ -121,4 +121,4 @@ Absorbed: „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert."
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
 „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)." ^[kohaerenz-protokoll-konzept-master-md.md:L504] Absorbed in
-[[mnemosyne|Mnemosyne]] and the Erasure-Pol (L513). KW4 is the Möglichkeits-Garten (L661) (Q5).
+[[mnemosyne|Mnemosyne]] and the Erasure-Pol (L513). KW4 is the [[moeglichkeits-garten|Möglichkeits-Garten]] (L661) (Q5).

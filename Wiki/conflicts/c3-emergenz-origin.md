@@ -84,19 +84,19 @@ An origin inside the [[genesis|Genesis]]. [[aegis|AEGIS]] is Kap 0's first self 
 Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237] — and afterwards „die operative Hälfte, die nach dem
 Trennungsprotokoll übrig blieb" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L117]. Kap 40 closes it on Kael: „und Kael ist als
 das erkannt, was AEGIS einmal war" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241]. Nearest the konsolidiertes Konzept's
-position, which this outline integrates (L1393); it does not make AEGIS
+position, which this outline integrates (L1393); it does not make [[aegis|AEGIS]]
 [[kael|Kael]]'s defence.
 
 ## 2026-09-24 — audit: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, its locked identity section
 
-The entry for this document above holds its origin *from Kael* (L208). It left
+The entry for this document above holds its origin *from [[kael|Kael]]* (L208). It left
 out the section the document marks as locked, „I.2 Identitäts-Architektur
 (gelockt)" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L62], whose first line is the wording this record later
 gives only to the glossary and the strukturierter Outline: „AEGIS ist nicht
 Antagonist, sondern die operative Hälfte, die nach dem Trennungsprotokoll übrig
 blieb." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L63] Its next line makes [[kael|Kael]] the other half, „die fühlende
 Hälfte, die AEGIS sich abgeschnitten hat" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L64] — held on the [[kael]] page. So
-the document gives both, a split in the Trennungsprotokoll and „entstand aus
+the document gives both, a split in the [[trennungsprotokoll|Trennungsprotokoll]] and „entstand aus
 Kael" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208], 145 lines apart. Recorded, not reconciled. Found by the record audit of
 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M5).
 

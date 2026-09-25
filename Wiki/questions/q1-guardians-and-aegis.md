@@ -207,6 +207,6 @@ the architecture — neither a component nor an ally in so many words.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**Sub-operators of AEGIS' kernel.** In the consistency matrix both [[mnemosyne|Mnemosyne]] and the Erasure-Pol are
+**Sub-operators of [[aegis|AEGIS]]' kernel.** In the consistency matrix both [[mnemosyne|Mnemosyne]] and the Erasure-Pol are
 „K₀-Sub-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L961], „Kohärenz-Exekutiv" ^[kohaerenz-protokoll-konzept-master-md.md:L961], working for storyform B's overall story (L961–L962).
 Components, in the document's own word for it.

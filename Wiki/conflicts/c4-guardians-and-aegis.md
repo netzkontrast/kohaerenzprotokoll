@@ -169,7 +169,7 @@ those are one term is `q4-waechter-four-bearers`, not this record.
 
 ## 2026-09-24 — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
-Position 1's bearer: AEGIS' blindness, stated as places and timing, not as the
+Position 1's bearer: [[aegis|AEGIS]]' blindness, stated as places and timing, not as the
 [[guardians|Guardians]]'. The [[externe-ebene|Externe Ebene]] holds „das, was AEGIS nicht erfassen kann;
 konzeptueller Ort" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L667], and AEGIS registers transitions late because
 „Coheron-Übergänge sind atemporal" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L736] (L736). The Guardians get no blind spot here.

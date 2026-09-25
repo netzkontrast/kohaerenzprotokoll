@@ -47,7 +47,7 @@ den Effizienzgrad der Verdrängung." ^[kohaerenz-protokoll-begriffe-und-konzepte
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
 „η = α · MI(S) · e^(−δ/β)" ^[kohaerenz-protokoll-konzept-master-md.md:L127] — „AEGIS berechnet diese Gleichung buchstäblich, um die Stabilität des Systems zu messen." ^[kohaerenz-protokoll-konzept-master-md.md:L131]
-Its variables are η, α, MI(S), δ and β (L135–L139). What AEGIS does not grasp:
+Its variables are η, α, MI(S), δ and β (L135–L139). What [[aegis|AEGIS]] does not grasp:
 „Die Gleichung misst nicht Kohärenz, sondern den Grad der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
 „Wenn η sinkt, heißt das nicht Systemversagen — es heißt, die Wahrheit kommt durch." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
 The misreading is „das messbare Symptom der Truth-Rotation" ^[kohaerenz-protokoll-konzept-master-md.md:L147] ([[truth-rotation]]).

@@ -19,7 +19,7 @@ Defined in the section the document calls the literal law of the novel's world, 
 [[dkt|DKT]] (its §II): „Die Truth-Rotation — Warum AEGIS = K₀ und Kael = K₁" ^[kohaerenz-protokoll-konzept-master-md.md:L212]
 „Dies ist der zentrale, bewusst gegen die Genre-Konvention gerichtete Move des Romans." ^[kohaerenz-protokoll-konzept-master-md.md:L214]
 
-What AEGIS believes against what holds, in its table (L220–L226):
+What [[aegis|AEGIS]] believes against what holds, in its table (L220–L226):
 „AEGIS = K₀ (Entropie-Architektur)" ^[kohaerenz-protokoll-konzept-master-md.md:L221];
 „Nichts-Rauschen = atemporale MI-Vereinigung" ^[kohaerenz-protokoll-konzept-master-md.md:L222];
 „Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223];

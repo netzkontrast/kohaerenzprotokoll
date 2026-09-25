@@ -131,4 +131,4 @@ Only in KW1's name, „KW1 — Konstrukt-Stadt / Logos-Prime." ^[koharenz-protok
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
 „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)." ^[kohaerenz-protokoll-konzept-master-md.md:L504] Absorbed in
-[[mnemosyne|Mnemosyne]] and the Erasure-Pol (L513). KW1 is the Konstrukt-Stadt, without Logos in its name (L658) (Q5).
+[[mnemosyne|Mnemosyne]] and the Erasure-Pol (L513). KW1 is the [[konstrukt-stadt|Konstrukt-Stadt]], without Logos in its name (L658) (Q5).

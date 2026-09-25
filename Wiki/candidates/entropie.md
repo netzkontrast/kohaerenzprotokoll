@@ -180,5 +180,5 @@ things come from, but what makes time and learning possible.
 „Tatsächlich ist AEGIS die Entropie." ^[kohaerenz-protokoll-konzept-master-md.md:L63] K₀ is „Irreversibilität, Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L99] — and
 „K₀ ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107] Control makes more of it: „Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223].
 „Das System produziert die Entropie, die zu bekämpfen es behauptet." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
-Two senses of C2 in one document: AEGIS as the entropy it fights, and K₀ as the condition for events. The
+Two senses of C2 in one document: [[aegis|AEGIS]] as the entropy it fights, and K₀ as the condition for events. The
 [[truth-rotation|Truth-Rotation]] is the first.

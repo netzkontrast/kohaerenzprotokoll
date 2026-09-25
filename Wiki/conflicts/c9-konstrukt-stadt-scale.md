@@ -104,4 +104,4 @@ decision; nothing to change.
 
 **KW1, as decided.** „KW1 — Konstrukt-Stadt" ^[kohaerenz-protokoll-konzept-master-md.md:L658], Akt I, Kap 1–13. Agrees with the author's decision; nothing
 to change. Its premise calls the city a simulation — „Die Stadt ist eine Simulation, gesteuert von AEGIS" ^[kohaerenz-protokoll-konzept-master-md.md:L55] —
-and does not say whether that is the Konstrukt-Stadt or the whole.
+and does not say whether that is the [[konstrukt-stadt|Konstrukt-Stadt]] or the whole.

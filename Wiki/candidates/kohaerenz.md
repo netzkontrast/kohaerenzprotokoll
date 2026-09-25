@@ -81,7 +81,7 @@ aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv defin
 
 What [[aegis|AEGIS]]' regulation of entropy is for. Its core function is the
 regulation of the passage from order to disorder, „um die Kohärenz und strukturelle Integrität des Gesamtsystems" ^[entropie-aegis.md:L21]
-… zu wahren. Kohärenz is what AEGIS keeps, entropy what threatens it. Not yet a
+… zu wahren. Kohärenz is what [[aegis|AEGIS]] keeps, entropy what threatens it. Not yet a
 definition — that is the reading above from `kohaerenzprotokoll-aegis-und-systementropie` —
 but the earliest source to set the two against each other. Found by the sweep
 (decision 012).

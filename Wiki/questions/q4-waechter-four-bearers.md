@@ -207,4 +207,4 @@ Alter. Mnemosyne is titled „Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-pr
 
 **The word three ways.** [[aegis|AEGIS]] sees itself as „Hüterin der Ordnung" ^[kohaerenz-protokoll-konzept-master-md.md:L55]; [[mnemosyne|Mnemosyne]] is
 „Erinnerungs-Wächter" ^[kohaerenz-protokoll-konzept-master-md.md:L508]; and an open point asks about the „Wächter-Zwiespalt-Soziopolitik" ^[kohaerenz-protokoll-konzept-master-md.md:L1002] between
-Mnemosyne and the Erasure-Pol. J20 holds.
+[[mnemosyne|Mnemosyne]] and the Erasure-Pol. J20 holds.
