@@ -4,7 +4,7 @@ subject: the Externe Ebene — beyond the simulation, or not outside it
 kind: one level, placed beyond the simulation by two canon-era sources and denied to be outside it by four, two of them of one date
 status: open
 first_seen: "2026-09-25"
-sources: 6
+sources: 7
 pages: ["externe-ebene"]
 ---
 
@@ -54,3 +54,10 @@ Decision 006 (2026-09-24) applies to this record as to C1–C12: no position abo
 is retired by its date or by a source's claim to be canon. It is an **item for
 discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**The `Basisrealität` name, without a position.** „Schicht 1 (Bindungstrauma Basisrealität Köln)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85]
+— Köln as the ground of the first trauma layer, under the name rows 1 and 3 use, and nothing
+on where it lies. [[kael|Kael]]'s role is held „Innerhalb der Simulation" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]. The document names
+row 1's source as its authority (L13).
