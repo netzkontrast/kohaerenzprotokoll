@@ -1109,3 +1109,31 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** Kap 40 at L455–476 names a second telling or reinterpretation of the Kap-0 event; a later narrative form is not the same surface as the event.
 
 **Result.** TWO terms as referents; no new page from a chapter device or undetermined name in this concept iteration.
+
+## J80 — Polaritätsregel / Hitze-Polaritätsregel
+
+**one-term** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a head a document writes in place of its own compound, stating the compound's content or pointing at the same decision, is that compound's short form — decided by the passage; a head alone decides nothing (J28)
+- **mechanised by:** `nothing`
+- **features:** compound-head, same-document-short-form
+
+**Question.** is the bare head the rule the compound names, or a term of its own?
+
+**What was done.** L63 of this document gives KW1's smell „(Polaritätsregel: Ozon = kalt/scharf, Landauer-Signatur)“ — the content of its §2.1 „Hitze-Polaritätsregel (gelockt)“ (L337, L346). Document 7 does the same: „Hitze-Polaritätsregel (Lock 2026-05-30, OQ-B)“ at its L64 and „gestaffelte Grammatik + Polaritätsregel + zwei Anker“ for the same OQ-B at its L476. No read document uses the bare head for anything else.
+
+**Result.** ONE term: the head is the rule's short form in both documents that use it. Added as an alias of hitze-polaritaetsregel.
+
+## J81 — Simulation / Überwelt
+
+**two-terms** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** an alias a page carries does not decide a passage; the passage decides (J20, J62)
+- **mechanised by:** `nothing`
+- **features:** page-is-elsewhere, alias-misleads-lookup, third-document
+
+**Question.** the index maps Simulation to ueberwelt by alias — does this document mean the Überwelt by it?
+
+**What was done.** One occurrence, L307, of the Externe Ebene: „Kein „außerhalb der Simulation“, sondern die andere Seite des Spiegels.“ The Überwelt is its own level in the same section list (L280) — „AEGIS' Maschinenraum“ — and the sentence is about whether Köln 2026 lies outside the whole construct.
+
+**Result.** TWO terms here, as in J39: Simulation is the construct that contains the levels. The reading was placed on externe-ebene, not on ueberwelt. The alias Simulation on the ueberwelt page is left as it is and its misfire recorded (J30, J39, J81).
