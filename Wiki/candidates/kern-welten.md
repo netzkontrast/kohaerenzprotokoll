@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 19
-readings: 18
+sources: 20
+readings: 19
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md", "three-mode-architecture-39-chapters-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -372,3 +372,7 @@ No count and no names.
 
 Not in the prose. Two annotations on the Innere Weite name them: „Bühne für Kap 1 wird strukturell vorbereitet (Überwelt = Kernwelten-Substrat)." ^[kap0-v1-annotiert-md.md:L457] „Konzept-Anker für die KW-Architektur." ^[kap0-v1-annotiert-md.md:L465]
 The prose it glosses: „In diesen Simulationen entstehen die ersten rudimentären Konzepte von stabilem Raum, von gerichteter Zeit, von konsistenten physikalischen Gesetzen" ^[kap0-v1-annotiert-md.md:L461]
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+No count and no names. Cycle 1: „Trigger in Kernwelt (B-Welt) reaktiviert Trauma-Angst" ^[three-mode-architecture-39-chapters-md.md:L245]. The Genesis flashbacks: „Die ersten gehäuften Genesis-Flashbacks (zentraler Bridge-Cluster) liegen in der KW2-KW3-Phase" ^[three-mode-architecture-39-chapters-md.md:L151].
