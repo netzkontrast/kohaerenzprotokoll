@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 10
+sources: 11
 pages: ["kael", "nyx"]
 ---
 
@@ -105,3 +105,9 @@ Her sample: „Die Luft ist heiß. Knöchel bluten. Ich sehe den Riss." ^[kohare
 [[kael|Kael]]'s own field, the Host's, has no knuckles (L69). Neither Kap 0 nor Kap 1 is named.
 Row 2 puts Nyx beside the knuckles in Kap 0 (its L459); here they are hers without a chapter.
 The document names row 1's source as one it consolidates (L13).
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**In the premise, in no chapter.**
+„Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[kohaerenz-protokoll-konzept-master-md.md:L51]
+The only occurrence. It stands with the twenty-one degrees and the ozone, as the novel's opening image, as in the konsolidiertes Konzept of the same date.
