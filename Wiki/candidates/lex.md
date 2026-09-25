@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -58,3 +58,8 @@ Logik-Ansatz scheitert an einem komplexen Problem." ^[koharenz-protokoll-struktu
 
 KW1's somatic default names him: „Lex' Hypoventilation als unterschwelliger Default-Modus." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L79]
 A hard rule of the Sprach-DNA: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1233]
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168] DKT correlate: „Gödel + Halteproblem." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L180]. Riss: „Endlosschleifen, fraktale Selbst-Widerlegung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L184].
+Consistency anchor: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211]
