@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-17"
 ---
 
@@ -100,3 +100,9 @@ of the flow and integrity of memories, „innerhalb des Kohärenz-Programms und 
 The 2025 readings above give coherence to [[aegis|AEGIS]] and make it logical or
 structural; here it is emotional and one [[guardians|Guardian]]'s domain. Attributed, not merged.
 Found by the sweep (decision 012).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„AEGIS glaubt, die Kohärenz zu sein." ^[kohaerenz-protokoll-konzept-master-md.md:L63] — the belief the [[truth-rotation|Truth-Rotation]] reverses.
+The kernel of coherence is „K₁ (Kohärenz-Kernel)" ^[kohaerenz-protokoll-konzept-master-md.md:L98]. As a truth theory: „Wahrheit ist die widerspruchsfreie Eingliederung einer Aussage in ein konsistentes System anderer Aussagen." ^[kohaerenz-protokoll-konzept-master-md.md:L262]
+„AEGIS ist die radikalste Kohärenz-Verkörperung." ^[kohaerenz-protokoll-konzept-master-md.md:L270] And: „Die echte Kohärenz-Arbeit leistet Kael" ^[kohaerenz-protokoll-konzept-master-md.md:L230].
