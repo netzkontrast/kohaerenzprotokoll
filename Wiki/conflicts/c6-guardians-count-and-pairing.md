@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 10
+sources: 11
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -159,3 +159,12 @@ The pairing goes with them: the old drafts' „KW1=LogOS, KW4=Kairos/Sophia" ^[k
 A source of 2026-06-10 for the two-Guardian side. The author decided the count for
 five on 2026-09-24 (decision 006 puts every draft back in question); this entry records
 what the document says and changes neither the decision nor the status.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Two, as voices outside the thirteen.** [[mnemosyne|Mnemosyne]]:
+„3. Person personal, flüssig-poetisch (eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996]
+The other is the Erasure-Pol, its name open (L1014), with the old functions of [[cerberus|Cerberus]],
+[[logos|LogOS]] and [[kairos|Kairos]] absorbed (L1016). It pairs no Guardian with a world; the climax's
+setting carries Mnemosyne's name (L1000). Recorded after the author's decision for five;
+it changes nothing in that decision.
