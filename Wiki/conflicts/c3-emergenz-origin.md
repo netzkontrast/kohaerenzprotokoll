@@ -105,4 +105,5 @@ Kael" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L208], 145 line
 **AEGIS comes out of the Genesis crisis, and Kael out of AEGIS' act.** „Die ursprüngliche Trauma-Episode in AEGIS' Entstehung." ^[kohaerenz-protokoll-konzept-master-md.md:L459]
 In its second beat AEGIS initiates the separation (L464), and „der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
 So AEGIS precedes [[kael|Kael]] here; nothing has AEGIS arise from Kael's defence. In the matrix it is
-„Spiegel-Doppel von Kael auf System-Ebene" ^[kohaerenz-protokoll-konzept-master-md.md:L960]. Nearest to the third position, and not the same.
+„Spiegel-Doppel von Kael auf System-Ebene" ^[kohaerenz-protokoll-konzept-master-md.md:L960]. Like the konsolidiertes Konzept's third origin it lies inside the [[genesis|Genesis]], with the direction
+reversed: [[kael|Kael]] is left over from AEGIS' act, and AEGIS does not arise from Kael.
