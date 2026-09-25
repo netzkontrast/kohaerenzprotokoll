@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-16"
 ---
 
@@ -182,3 +182,8 @@ In the kernel table Entropie is K₀'s principle: „| \*\*K₀ (Kollaps-Kernel)
 Control makes more of it: „Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223]. „Das System produziert die Entropie, die zu bekämpfen es behauptet." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
 Storyform B's premise: „Wer Kontradiktionen löscht statt integriert, generiert die Entropie, die er bekämpft." ^[kohaerenz-protokoll-konzept-master-md.md:L837]
 Three senses in one document — [[aegis|AEGIS]] itself, K₀'s principle, and what AEGIS produces — and it relates them through the [[truth-rotation|Truth-Rotation]]. Conflict C2.
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+One line, found by the sweep: 734's work at the border includes „gezielter Export von Entropie — das ist ihre Seinsweise." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L315]
+Entropy as what the system expels to stay ordered — the sense in which AEGIS fights it. No other line names it. C2.
