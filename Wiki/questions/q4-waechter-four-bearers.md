@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -145,3 +145,10 @@ Two bearers in one document. [[aegis|AEGIS]] in Kap 0: „AEGIS (Ursprungs-Ich �
 Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237]. [[selene|Selene]]'s function: „Selene (Wächterin-Funktion klar)"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L649], in chapters titled „Die Wächterin" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L415] (Kap 8) and „Z1-Korrektur:
 Wächterin" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635] (Kap 17). J20 holds: the sentence decides.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**The word in two compounds of the Überwelt, and the registry's are the
+Guardians.** „Wächter-Konsolen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L286] in its look; and the Wächter-Registry,
+„wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. J20 holds: the
+sentence decides, and this one lists the two [[guardians|Guardians]].
