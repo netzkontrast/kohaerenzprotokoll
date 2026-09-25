@@ -179,7 +179,7 @@ the two: „Wächter-Zwiespalt-Soziopolitik.** Slot 16 Punkt: Wie ist die intern
 When: „**Revelation-Timing:** KW2/KW3 (Akt II), nicht früher." ^[L571]
 How, still open: „**Junas Erscheinungs-Modi.** Telefon-Stille ist *ein* Anker." ^[L994]
 „Andere Modi (Erscheinungen in der Stadt, im Traum, im Spiegel) müssen festgelegt werden, bevor Encoding-Phase startet" ^[L994]
-No chapter is named for her appearance.
+No chapter is named for Juna's appearance.
 
 The anchor: „Vor zwanzig Jahren ein Telefonat. Beide wussten, dass sie zusammen sein könnten. Keiner sprach es aus. Nichts ging verloren." ^[L607]
 „Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[L623]

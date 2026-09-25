@@ -1235,3 +1235,45 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L13 names what the document profiles as „Stimmen, Anteile, Stilebenen und Akt-Modi“; L21 and L125 use `Anteil` for the voice a switch arrives at; the thirteen voices L67–L165 are the alters page's referent; L69 names `Alter` only as a word Kael's Akt I may not use
 
 **Result.** judgement — here `Anteil` names the system's parts, the referent of the alters page, and `Alter` is only mentioned as a word; a reading on alters. But `Anteil` is also an ordinary German noun, a share, and as a surface it would claim every share in the corpus
+
+## J89 — Flight (implizit Lia/Isabelle) / Isabelle
+
+**two-terms** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a type with its bearers in a parenthesis is the type; the bearers are a claim about it, and an inferred one says so (J70 is the reverse shape: a name with its role)
+- **mechanised by:** `nothing`
+- **features:** joined-form, parenthetical-bearers, inferred
+
+**Question.** one term or two?
+
+**What was done.** L1049, in the riss table: „Flight (implizit Lia/Isabelle)“ — a riss type with the bearers it is assigned to in a parenthesis, marked as inferred; the roster L393–L397 gives no alter Flight, and Isabelle also stands under `Sex (Isabelle)` at L1051. The lookup offered the isabelle page
+
+**Result.** two terms — the joined form is the riss type Flight; its parenthesis is a claim about who carries it, a reading on risse and on each bearer's page, never an alias of either bearer
+
+## J90 — Rotation / Truth-Rotation
+
+**two-terms** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a beat named for what happens in it is the beat, not the thing; the content is a reading on the thing's page (J76 for a device)
+- **mechanised by:** `nothing`
+- **features:** shared-head, vortex-beat
+
+**Question.** one term or two?
+
+**What was done.** L856 names the Vortex's fifth beat „5 Rotation (Algorithmische Melancholie)“; L845 makes the Klein-c-Symmetrie „die formale Basis der Truth-Rotation auf Plot-Ebene“. Other read sources write „Truth-Rotation komplett“ into Beat 5
+
+**Result.** two terms — `Rotation` is the beat, named for what completes in it; what the beat carries is a reading on the Truth-Rotation's page, the beat itself belongs to the chapter and plot pages
+
+## J91 — Große Inversion / Truth-Rotation
+
+**two-terms** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a name a source calls the source of another is not that other's alias, even where a second source uses one name for both
+- **mechanised by:** `nothing`
+- **features:** gathered-page, source-of-relation
+
+**Question.** when the truth-rotation page gathered earlier readings: is `Große Inversion` another name for it?
+
+**What was done.** The glossary gives the two separate entries (kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L82, L85); it, the konsolidiertes Konzept (L138), the Kapitel-Kompendium (L25) and the storyform outline (L25) call the inversion „die mechanische Quelle der Truth-Rotation“, which is the moment the reading turns. The master report heads the inversion itself with `Truth-Rotation` (L212–L226)
+
+**Result.** two terms in the four sources that use both — one names the source of the other. No alias; the page records that the master report uses the one name for both
