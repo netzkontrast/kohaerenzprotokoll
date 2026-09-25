@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -148,3 +148,18 @@ wieder; Kael nicht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - the Inner Expanse and establishment of the Overworld before the crisis: „Die Innere Weite (Überwelt-Etablierung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L295]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+„Überwelt — AEGIS' Maschinenraum" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L280], labelled `[K]`. „Kein physischer Ort. Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282]
+„Datenstrom-Kathedrale." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282] „Hier residieren die zwei Guardians als abstrakte Entitäten, hier fließen die Logs, hier erfolgen die Erasure-Sweeps." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282]
+Its look: „Abstrakt-architektonisch. Datenströme als Lichtbahnen. Wächter-Konsolen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L286]
+
+Sub-locations: the Schnittstelle zu den Kernwelten, „wo AEGIS' Logik in die KWs einsickert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L297];
+the Wächter-Registry, „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298] (Q4);
+and the Jenseits-des-Ereignishorizonts-Bereich, „Verschränkungs-Insel (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299].
+
+**`Überwelt-Nexus` stands in KW3's section, as a Kap-33 setting, not as KW3's
+name**: „Auch: Überwelt-Nexus im Approach-Inmost-Cave-Beat (Kap 33)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L175]
+KW3's heading gives `Grenzfeste` as its second name (L169). A compound naming a
+place is neither of the places it is built from (J63).
