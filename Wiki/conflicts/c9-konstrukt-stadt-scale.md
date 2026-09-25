@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -94,3 +94,8 @@ and its first beat „Kael erwacht in Kernwelt 1 (KW1 — Logos-Prime)" ^[kohare
 
 **KW1, as decided.** „KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44]. Agrees with the
 author's decision; nothing to change.
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**KW1, as decided.** „KW1 — Konstrukt-Stadt / Logos-Prime." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] Agrees with the author's
+decision; nothing to change.

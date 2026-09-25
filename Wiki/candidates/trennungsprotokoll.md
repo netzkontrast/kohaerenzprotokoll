@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -115,3 +115,8 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 Kael's job is „dieselbe Funktion wie das Trennungsprotokoll, skaliert auf Dezimalstellen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L116]; „die Trennung wird täglich als Verwaltungsakt re-inszeniert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L116].
 Every confirmation ends in a click, „das Geräusch des Trennungsprotokolls als Alltagsgeräusch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129]. Flashback in Kap 21 ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]; Kap 40 echoes it as „Bewegung 4" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+[[juna|Juna]]: „Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] Its one mention; nothing on
+its beats or on Komponente 734 (C12).

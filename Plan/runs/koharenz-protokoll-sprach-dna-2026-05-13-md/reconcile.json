@@ -1,0 +1,423 @@
+{
+  "document": "koharenz-protokoll-sprach-dna-2026-05-13-md",
+  "drive_id": "1Ptl3FXkpW1y4ydgmgqaJyim7SXAxmpQOCSzK0FKX0xQ",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 93,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 93,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 194,
+    "decisions": 199,
+    "decided_by_lookup": 135,
+    "needs_judgement": 64
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A voice catalogue of figures the wiki already has pages for — AEGIS, Mnemosyne, Juna and the thirteen voices of the system — plus the Erasure-Pol, whose name it marks open (L53, J59), and the Wir-Stimme, the novel's form. Its other candidates are its five profile fields, craft (style levels, Echo- and Lösch-Prosa, status lines, Metaphernverbot), the voices' labels, AEGIS' and the Erasure-Pol's vocabulary listed as diction, chapters and acts, and borrowed theory in its home sense (ANP/EP, ISH, MC/IC, complexity classes). Its claims about the world stand inside a function line, a vocabulary list or a sample sentence; none defines a thing the wiki lacks.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        35,
+        37,
+        93,
+        109,
+        163,
+        193,
+        197
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        43,
+        45,
+        53,
+        217
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        59,
+        61,
+        101,
+        157,
+        201,
+        225
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kael",
+      "lines": [
+        67,
+        69,
+        117,
+        213
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lex",
+      "lines": [
+        75,
+        77,
+        173,
+        213,
+        233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alex",
+      "lines": [
+        83,
+        85,
+        221
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        91,
+        93,
+        233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "selene",
+      "lines": [
+        99,
+        101,
+        225,
+        233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "argus",
+      "lines": [
+        107,
+        109
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        115,
+        117,
+        221
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        123,
+        125
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        131,
+        133
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        139,
+        141,
+        233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moros",
+      "lines": [
+        147,
+        149
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        155,
+        157,
+        233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        163,
+        165,
+        233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        181,
+        185,
+        189,
+        211,
+        213,
+        217,
+        221,
+        225
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        181,
+        213
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        189,
+        225
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        157
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        61
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        61
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        21,
+        45,
+        69
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        37,
+        193
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        43,
+        45,
+        51,
+        53,
+        213,
+        221
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        21,
+        67,
+        69,
+        165,
+        173
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        29,
+        61
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        69,
+        173,
+        241
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        61,
+        157,
+        185,
+        233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        213
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        221
+      ],
+      "attribution": "premise",
+      "note": ""
+    }
+  ],
+  "reached_by_existing_rule": [
+    "guardians (J23: Guardian)",
+    "alters (J25, J46: Alter; J88: Anteil)",
+    "kern-welten (J37: KW1–KW4)",
+    "genesis (J76: Genesis-Prolog names the device, its content a reading)",
+    "multiplizitaet (J28: Multiplizitäts-Schleier, named after it)",
+    "hitze-polaritaetsregel (J62: placed by what it states)",
+    "landauer-signatur (J62: placed by what it states)",
+    "logos (J49: Logos-Prime)",
+    "cerberus (J49: Cerberus-Labyrinth)",
+    "kael (J70: Kael-Host)"
+  ],
+  "not_read_although_looked_up": {
+    "risse": "Riss at L117 and L185 stands only in two vocabulary lists (Nyx's, Akt II's) and one sample sentence — diction; nothing on what a Riss is or who carries one",
+    "erason": "Erason-Bilanz at L61 is one item of Juna's vocabulary, the sign of her effect; nothing on what an Erason is (J32)"
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C9",
+    "C10",
+    "C11",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "no expansion of AEGIS",
+    "C2": "Entropie does not occur",
+    "C3": "AEGIS' origin is not stated; it is „operative Hälfte“ (L35), and what it cut Rhys holds together (L93)",
+    "C8": "AEGIS is MC in Storyform B (L35); its Approach is not given",
+    "C12": "no Genesis beat and no Komponente 734; the Genesis stands once, as the Genesis-Prolog (L29), and Juna's resonance „das Trennungsprotokoll auslöste“ (L61)",
+    "C13": "Basisrealität, Externe Ebene and Köln do not occur",
+    "C15": "Flight does not occur; the EP labels are Fight, Freeze, Ambivalent, Fight-via-Control and Kollaps (L115–L147)",
+    "Q2": "none of the eight protocols occurs"
+  },
+  "judgements": [
+    "J88"
+  ],
+  "decided_by_existing_rules": "plurals (J4, J23, J24, J25, J46): Kernwelt/Kernwelten, Hard Rules/Hard Rule, Stimme/Stimmen, Anteile/Anteil, Guardian, Alter; compounds placed by what they name (J8, J28, J32): Mikro-Profile/Mikro, the Stimme-, AEGIS-, Echo-, Resonanz-, Stille-, Log- and Kernwelt- compounds, Funktion/Bewahrung-Funktion, Fight/Fight-via-Control, Juna/JUNA_VEKTOR, Landauer-Wärme/Wärme, Ozon-Geruch/Ozon, Hitzeschlieren/Hitze, Hitze/Hitze-Polaritätsregel, Erason-Bilanz/Erason; a qualifying prefix (J27): Stilebenen/Akt-Stilebenen, Containment/Re-Containment; a short form stating the same content (J83): Vortex-Beat 5/Beat 5; a bearer's role (J70): Kael-Host, Host; the echoes (J74): Juna-Echo, AEGIS-Echo; a slash in a heading (J14) and a world name that is not its bearer (J49): Konstrukt-Stadt / Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth; a numbered instance (J37): KW1–KW4; a state whose name is open (J47, J73): Wir-AEGIS-plural; a narrative device (J76): Genesis-Prolog; a shared head (J10): Resonanz against Entropie-Resonanz and Resonanz-Landschaft; one equation is not a merge (J51): Rauschen/Nichts-Rauschen; matches only after folding cuts words (J69): Akt I/Akt II/Akt III, Funktion, Anomalie, Fragment, Kollaps/Kollaps-Kernel.",
+  "not_promoted": [
+    "the Erasure-Pol and its epithets Löschungs-Exekutive and Gegen-Pol: its name marked open (L53, J59)",
+    "the Wir-Stimme, chorische Polyphonie, Wir, Bewahrungsform and Wir-AEGIS-plural: the novel's form, and a name the corpus marks open (J47, J73)",
+    "the style levels (Stilebene 1–3, Akt-Stilebenen, Kernwelt-Stile) and the voices' craft (Echo-Prosa, Lösch-Prosa, Klammer-Statuszeilen, AEGIS-Log-Format, Makro-Log, Metaphernverbot, Atemzählung, Bauch- and Muskel-Somatik, Stilbruch, Triggerbrüche, Bruch-Wirkung, Textur-Signatur): how the prose is written — each on the page of the voice or world it belongs to",
+    "the five profile fields (Funktion, POV / Syntax, Vokabular, Konsistenz-Anker, Mikro) and the document's headings (Hard Rules, Sprach-DNA, Mikro-Profile, Akt-Modi, Beziehungs-Kollisionsmatrix, Anwendungs-Reflex)",
+    "the voices' labels (Host, Rationalist, Protektor, Caregiver, Integrator, Meta-Kognitiv, Sonder-Kategorie, Fight, Freeze, Kind, Ambivalent, Sexualisiert, Fight-via-Control, Kollaps, Spiegel, Witness, kosmologische Konstante, Erinnerungs-Wächterin): on each voice's page",
+    "AEGIS' and the Erasure-Pol's vocabulary, listed as diction (Anomalie, Komponente, Subjekt, Persistenz-Score, Paradox-Index, η-Bewegung, Sweep, Containment, Re-Containment, Quarantäne, Patch, JUNA_VEKTOR, AXIOMVERLETZUNG, Hex-IDs, Log-Fragmente): L37, L53, L197",
+    "words that stand only in a vocabulary list or a sample sentence (Kacheln, Splitter, Anruf, Substrat, Resonanz, Stille, Echo, Rauschen, Ozon, Hitze, Wärme, Sektor 7, fraktale Korridore, Phantom-Resonanz, Resonanzkörper): diction, not readings; where one bears on a record, it is on the record",
+    "the document's words for a voice's function (Operative Interiorität, operative Hälfte, Bewahrung-Funktion, Funkens-Sicht, Kernfehler, Zähl-Manie, Vermeidungs-Protokoll, Alltagsbewusstsein-Träger, Heilungs-Marker, Heilungsweg, Amnesie-Terror, Crew-Menü, Trauma-Schichten, Bauplan der Zeit): on that voice's page",
+    "DKT-Terminologie, DKT-Statuszeilen, DKT-Begriffe: rules for the theory's words, on dkt",
+    "chapters, acts, Vortex 1 and 2 and their beats, Trügerischer Sieg, Coda, Genesis-Prolog, Storyform A and B: the novel's structure",
+    "borrowed theory in its home sense (ANP, EP, ISH, Internal Self-Helper, MC, IC, Going on with Normal Life, Hypervigilanz, Approach-Avoidance, Final Fusion, Dissoziation, Computational Class P, NP-Hard, Halteproblem, Loops): lens"
+  ],
+  "sweep": {
+    "hits": 1,
+    "readings": 0,
+    "occurrences": 1,
+    "note": "Kohärenz at L11, the document's title (J9)"
+  },
+  "found_by_rule_not_by_census": [
+    "hitze-polaritaetsregel (J62)",
+    "landauer-signatur (J62)",
+    "genesis (J76)",
+    "multiplizitaet (J28)"
+  ],
+  "internal_tension": "none found: AEGIS' one break is stated twice and agrees (L37, L193). Heat stands in five places and the document does not relate them (L61, L117, L157, L185, L233); recorded in C11",
+  "baseline_moved": false
+}

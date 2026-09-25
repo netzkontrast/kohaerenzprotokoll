@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -66,3 +66,11 @@ function, Flight, shared with Lia. „Hauptziel von AEGIS' Erasure-Versuchen." ^
 Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
 A Fundsache from Köln triggers her Riss type: „das Ticket trägt ein Datum, das nicht vergeht (Kiko → temporal)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Kiko (EP / Freeze / Kind)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L123].
+„Erstarrung, Sich-klein-machen. Trägt den reinen Terror der frühen Vernachlässigung." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L125]
+„Kiko ist traumatisiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L125]
+„Wenn die Sprache komplexer wird, ist das ein anderer Anteil oder ein Heilungs-Marker." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L125]
+Her label is `Freeze`; no voice in the document carries `Flight` (C15).

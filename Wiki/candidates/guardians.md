@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 16
-readings: 16
+sources: 17
+readings: 17
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-16"
 ---
 
@@ -331,3 +331,12 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 „Die Guardian-Auflösung (Kap 31 [K]) nicht als Kampf, sondern als doppeltes Angebot" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]: Mnemosyne and the Erasure-Pol.
 „die Guardians wollen helfen, in der einzigen Sprache, die sie haben" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]. „Zwei-Guardian-Kanon exakt bedient" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] (C6, Q5).
 Names from older documents are filtered out: „LogOS/Limina-Vokabular (dekanonisierte Namen)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L255].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+Two figures carry the label: „Mnemosyne (Guardian / Erinnerungs-Wächterin)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L43] and
+„Erasure-Pol (Guardian / Löschungs-Exekutive)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L51], the second with its name open —
+„Kalter Gegen-Pol zu Mnemosyne. (Name offen — OQ.)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L53] No number is stated (C6).
+Mnemosyne „operiert in AEGIS' Architektur, weil sie keine andere Sprache hat" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45] (Q1).
+[[logos|LogOS]] and [[cerberus|Cerberus]] stand only in world names (L213, L221, J49); [[kairos|Kairos]] and [[sophia|Sophia]]
+do not occur. The author's five stand.

@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -117,3 +117,9 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 „Landauer-Signatur = kaltes Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133], cited as `[K, Polaritäts-Lock]`; the job produces it „im Kleinsten" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]:
 „eine Spur kalten Ozons, kaum wahrnehmbar, von Kael nie hinterfragt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133] Kap 40: „Genau ein Klick, ohne Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (C11).
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Silas und Oblivion stehen im physikalischen Konflikt — jeder Wechsel zwischen ihren Stimmen erzeugt Landauer-Wärme im Text, spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233]
+The warmth is the cause; ozone smell and heat shimmer are both its rendering, in one sentence (J62).
+`Landauer-Signatur` does not occur. C11.

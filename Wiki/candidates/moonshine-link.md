@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -92,3 +92,8 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 „Ab Kap 10 (Moonshine-Bewusstsein [K]) kartiert Kael die Wärmestellen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]. The idea's aim: „Moonshine-Link als Werkzeug mit Arbeitsschritten" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84].
 Kap 10 at the workplace: „Kael hält einen Datensatz, ohne zu klicken" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], and somewhere in the city it grows warmer. Its open point: „OQ-F (Moonshine-Boundary)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L264].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Resonanzkörper des Moonshine-Links im System. Trägt einen Splitter von Juna in Kael." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L157] — [[silas|Silas]]'
+function. The link itself is used as known and not described.

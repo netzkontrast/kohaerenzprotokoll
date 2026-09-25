@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 12
-readings: 12
-conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+sources: 13
+readings: 13
+conflict: C11
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -92,3 +92,12 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 First the locked half-sentence in Kap 1, then a commuter in Transitkorridor Delta-7 who always comes towards Kael ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80].
 „Wo er stand, ist es minimal wärmer" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80] — „Silas = interner Resonanz-Körper, Coheron-Echo" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80]; the warmth debut stays in Kap 3.
 „Polaritätsregel exakt (Wärme nur als Coheron-Spur)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80] (C11). In Akt III „geht er zum ersten Mal neben Kael." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Silas (Spiegel / Juna-Echo)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L155] (J74).
+„Resonanzkörper des Moonshine-Links im System. Trägt einen Splitter von Juna in Kael." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L157]
+„Silas ist nicht Juna — er ist ihr Echo." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L157] His vocabulary begins „Warm, weich, zeitlos" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L157].
+With [[oblivion|Oblivion]]:
+„Silas und Oblivion stehen im physikalischen Konflikt — jeder Wechsel zwischen ihren Stimmen erzeugt Landauer-Wärme im Text, spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233]
+Warmth and ozone, both, as one conflict's mark — C11.

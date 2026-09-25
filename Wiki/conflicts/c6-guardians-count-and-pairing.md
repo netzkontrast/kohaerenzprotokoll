@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 12
+sources: 13
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -172,3 +172,10 @@ the other is the „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-prof
 **Two, and older names filtered.** „Zwei-Guardian-Kanon exakt bedient" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]: [[mnemosyne|Mnemosyne]] and the Erasure-Pol, as two offers in Kap 31.
 Steinbruch material is used only as anonymous functions because of its „LogOS/Limina-Vokabular (dekanonisierte Namen)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L255]. No world is paired with a Guardian.
 The author's decision for five stands; the document is a proposal of 2026-06-10.
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**Two figures labelled Guardian, and no number.** „Mnemosyne (Guardian / Erinnerungs-Wächterin)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L43]
+and „Erasure-Pol (Guardian / Löschungs-Exekutive)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L51], its name open (L53).
+[[logos|LogOS]] and [[cerberus|Cerberus]] stand only in world names (L213, L221); [[kairos|Kairos]] and [[sophia|Sophia]]
+do not occur. Recorded after the author's decision for five; it changes nothing in that decision.

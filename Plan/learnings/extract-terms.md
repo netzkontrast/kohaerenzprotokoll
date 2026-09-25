@@ -771,3 +771,37 @@ is one line of 10,329 characters (L229), so a citation into it says little about
 - **The escaping zeros again**: `[K]`, `[V]`, `[S]`, `[L]`, `[DATENTYP_FEHLT]`
   and three file names in the source register count 0, because the file writes
   them with backslashes.
+
+## Document 19 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-09-25
+
+A voice catalogue: nineteen voices, five fields each, 194 candidates in 250 lines.
+Three findings, all about the tools around the list rather than the reading. **Two
+of them the other session found the same day, reading document 18 above, neither
+session knowing of the other**: a prose bullet counted as a term, and a quotation
+that begins with a number after a word.
+
+- **The list cannot hold the document's most exact vocabulary.** Every voice's
+  point of view is `1. Person` or `3. Person`, and `capture.candidate_terms` reads
+  a `- ` line containing a period and a space as prose. So the one pair of terms
+  the document is most careful with — the axis C14 turns on — could only be
+  counted by hand (`05-verify.txt`: 16 and 4). The filter's signal is right for
+  sentences and wrong for any term with an ordinal in it.
+- **A wrapped prose bullet is judged by its first line alone.** The first count
+  read „Four works are named as what the document consolidates (L13): a
+  character" as a term, because that line carried neither of the filter's marks
+  and its continuation lines are skipped. It counted 0 and would have entered the
+  census. Reworded, re-counted, no term changed; the first count is recorded in
+  `05-verify.txt`, not kept.
+- **A quotation that starts with a number after a word fails against its own
+  line.** The footnote rule drops such a number on both sides, but a quotation that
+  begins with it has no word before it to trigger the rule: `3. Person
+  AEGIS-Beschreibung` does not resolve at L29, `und 3. Person AEGIS-Beschreibung`
+  does. It fails safe — unresolved, never falsely verified — and `read.py --find`
+  shows it before anything is written.
+
+And one about reading: **a vocabulary list is diction, not a reading.** Most of
+the document's world stands inside a voice's `Vokabular` or `Mikro` — Nyx's
+„Knöchel bluten" is a sample sentence, `Riss` and `Ozon` are items in a list. The
+wiki records such a sentence where it bears on a record (C10, C11), and declines a
+page reading where the word is only listed (`risse`, `erason`), as it declines a
+term that stands only inside a question.

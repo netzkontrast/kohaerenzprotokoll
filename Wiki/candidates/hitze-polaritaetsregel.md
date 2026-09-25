@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -66,3 +66,11 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 „Polaritätsregel unberührt (Stille, nicht Wärme)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]; for Silas „Polaritätsregel exakt (Wärme nur als Coheron-Spur)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80].
 Kap 6 is cold: „Sensorik kalt/Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], citing „§7-Konflikt 1 des Source-of-Truth" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]. Kap 36 Beat 4:
 „Heat Spike [K, einziger kanonischer Landauer-Wärme-Ort]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]. The lock table: „Landauer-Wärme ausschließlich Beat 4" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239] (C11).
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+No rule is stated. Warmth stands for [[juna|Juna]] — „plötzliche somatische Wärme" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] — and for
+[[silas|Silas]], „Warm, weich, zeitlos" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L157]. Heat and ozone stand in one list, Akt II's vocabulary:
+„Vokabular: Riss, Hitze, Ozon, Schweiß, Echo, Verfall, Schatten." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L185] And the collision of Silas and
+Oblivion is felt as either: „spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233] Seventeen days before the
+lock of 2026-05-30; placed here by what it states (J62). C11.
