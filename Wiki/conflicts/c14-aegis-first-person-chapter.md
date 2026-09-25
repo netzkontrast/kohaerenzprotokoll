@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 7
+sources: 8
 pages: ["aegis"]
 ---
 
@@ -62,3 +62,15 @@ Decision 006 (2026-09-24) applies to this record as to C1–C13: no position abo
 is retired by its date or by a source's claim to be canon. It is an **item for
 discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**The third person, never `ich` — and an inside that only operates.** Five days after rows 1
+and 2, whose sources it names as what it consolidates (L13), and seventeen days before the
+lock of rows 3 and 4:
+„Operative Interiorität — der Leser ist im Prozess, aber der Prozess kennt nur Klassifikation, Messung, Maßnahme." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L37]
+The same field opens `3. Person personal` and rules out `ich` (L37). So the reader is inside
+[[aegis|AEGIS]]' process, in the third person — not row 2's logs without a subjective inner
+view, not row 5's no inside at all, and not the first person of rows 3 and 4.
+„Bricht nur einmal, im Vortex-Beat 5." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L37] — in Vortex 1, „Beat 5: AEGIS' Stimme erlischt" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L193].
+No chapter in Kap 5–8 is named.
