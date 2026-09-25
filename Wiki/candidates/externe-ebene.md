@@ -3,7 +3,7 @@ term: Externe Ebene
 status: candidate
 sources: 11
 readings: 11
-conflict: none yet
+conflict: C13
 ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
@@ -130,7 +130,12 @@ Its sub-locations: [[junas-ankerpunkt|Junas Ankerpunkt]] (`[L]`), the
 [[garten-der-stillen-praesenz|Garten der stillen Präsenz]], the „Quelle des Flüsterns" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L328] and an
 „Unkartiertes Territorium" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L329].
 
+## Where the readings disagree — conflict C13
+
+Two sources describe Köln 2026 as beyond the simulation; four sources say it is not outside it. The positions and their cited lines are recorded in C13. Whether the two names `Basisrealität` and `Externe Ebene` mark different conceptions remains open for the author.
+
 ## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
 As the ground of the first trauma layer (J54): „Schicht 1 (Bindungstrauma Basisrealität Köln):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85] Kiko, Lia,
-[[isabelle|Isabelle]], [[moros|Moros]].
+[[isabelle|Isabelle]], [[moros|Moros]]. It writes `Basisrealität` and does not place Köln inside or outside the
+simulation, so it takes no side in C13.

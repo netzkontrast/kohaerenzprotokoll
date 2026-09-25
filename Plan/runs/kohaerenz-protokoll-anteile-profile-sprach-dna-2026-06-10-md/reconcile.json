@@ -6,11 +6,11 @@
   "by": "hand, after scripts/reconcile.py pre-classification",
   "state_before": {
     "pages": 93,
-    "conflicts": 12
+    "conflicts": 13
   },
   "state_after": {
     "pages": 93,
-    "conflicts": 12
+    "conflicts": 13
   },
   "pre_classification": {
     "candidates": 334,
@@ -449,7 +449,8 @@
     "C5": "the Möglichkeits-Garten only as where Selene waits, KW4 (L361); Garten der Möglichkeiten does not occur",
     "C8": "Be-er at L149 is Kael's, Storyform A; AEGIS' approach is not given",
     "C9": "Konstrukt-Stadt does not occur",
-    "Q2": "none of the eight protocols occurs"
+    "Q2": "none of the eight protocols occurs",
+    "C13": "writes Basisrealität Köln as the ground of the first trauma layer (L85) and does not place Köln inside or outside the simulation"
   },
   "judgements": [
     "J85",

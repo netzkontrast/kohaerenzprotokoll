@@ -113,6 +113,11 @@ before this list.
 - **`Einheit 734` (J80).** The Kap-1 console line is placed under Kael's dwelling
   once (L101) and as Komponente 734 twice (L487, L661) in one document. Which is
   it — or is the ambiguity the point?
+- **C13 — Köln 2026 beyond the simulation?** Two sources place the `Basisrealität`
+  beyond it, while four describe the `Externe Ebene` as not outside it. J54
+  equates those names by their shared attributes, so the author's decision is
+  whether they name one level with conflicting placement or two conceptions.
+  The six cited positions are in `Wiki/conflicts/c13-externe-ebene-beyond-the-simulation.md`.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
@@ -357,7 +362,7 @@ was worth porting from the tools is decided — the review's closing section.
 In order, and none of it needs a model:
 
 1. **More retrieval cases.** `graphrag.py bench` has
-   17 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   18 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
    pages. The `## Open` sections (`relations.py --open`) are a second source;
    write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
    has why and the next four steps after it.
@@ -617,6 +622,8 @@ Next, by the open records: `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10
 - **C6/Q5**: two Guardians, and the 2025 Guardian–world pairing named and retired. The author's five stand.
 - **C10**: Kap 0 alone, dated to the Kompendium. **C12**: four beats restated with no 734 beat, and the document's own Alex conflict (above).
 - **KW3** has chapters here (Kap 23–28); the strukturierter Outline's gap is its own.
+- **C13** surfaced while comparing this reading with five earlier readings of
+  Köln 2026; its positions remain open for the author.
 - **The pair ledger grew by four labelled rows**: J81 is a two-terms pair both rules get right; J82–J84 are one-term pairs neither sees — a leading numeral (`Zwei Guardians`, `13 Alter`) and a short form decided by content (`Polaritätsregel`). All three are rules a program could state.
 
 Next, by the open records: `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md` (1129 lines), the quartet's third file — this document sends its reader there for the Alex conflict (its §11) and for the exact roster of the 13 Alters (Q3). For C11 and C12, `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` (291 lines; 8 lines with `Ozon`, 8 with `734`, `grep -c`, orientation only).

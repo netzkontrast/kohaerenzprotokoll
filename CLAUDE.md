@@ -120,7 +120,7 @@ four `worldbuilding`, one `aegis`, two `storyform`, two `charaktere`, two
 from the canon era.
 
 `Wiki/candidates/` holds **93 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
-holds **12 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
+holds **13 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 **5 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
 the pages rather than preceding them, so `Wiki/terms/` does not exist and nothing
@@ -475,8 +475,8 @@ in a commit that names its source.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **127 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1535 <!--state:graph.edges--> edges** (`links`,
+citations and builds **128 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1536 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
@@ -502,11 +502,11 @@ python3 scripts/graphrag.py ask "Wie hängen die Guardians mit AEGIS zusammen?"
 python3 scripts/graphrag.py bench              # recall against the wiki's own labels
 ```
 
-`bench` scores retrieval on the 17 <!--state:graphrag.cases--> cases the wiki
+`bench` scores retrieval on the 18 <!--state:graphrag.cases--> cases the wiki
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
-**42 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-63 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+**45 <!--state:graphrag.recall_seeds-->% from the seeds alone and
+65 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
 step, on seventeen cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12) and the author's C6
 decision an eighth (Q5); on the original nine the numbers were 40 and 58.

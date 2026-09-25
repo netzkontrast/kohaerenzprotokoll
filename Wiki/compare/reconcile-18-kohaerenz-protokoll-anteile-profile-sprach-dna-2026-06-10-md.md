@@ -1,6 +1,6 @@
 ---
 document: kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md
-against: 93 pages, 12 conflicts
+against: 93 pages, 13 conflicts
 ran: "2026-09-25"
 candidates: 334
 decisions: 343
@@ -56,7 +56,10 @@ census missed as a surface, `risse` at L890, and it is a reading.
 - **Q1, Q3, Q4** — Mnemosyne works for AEGIS, inside its system; thirteen Alters, none
   bound to a world; Selene is a „Starre Wächterin" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361].
 
-Read and unchanged: C1, C2, C3, C5, C8, C9, Q2 — `reconcile.json` says why each.
+Read and unchanged: C1, C2, C3, C5, C8, C9, C13, Q2 — `reconcile.json` says why each.
+C13 was recorded on main while this document was being read. It gets no entry here:
+the document names `Basisrealität Köln` and takes no side on whether it lies beyond
+the simulation.
 
 ## Judgements
 
