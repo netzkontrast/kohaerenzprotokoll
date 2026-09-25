@@ -40,6 +40,6 @@ close, and nothing yet watches for it.
 ## Note on the quotation marks
 
 They mark **invention**, not attribution. This document coins the term inside
-quotes, as it does with „Daten-Verwitterung" and „Reinigungswellen". A checker
+quotes, as it does with „Daten-Verwitterung" ^[entropie-aegis.md:L57] and „Reinigungswellen" ^[entropie-aegis.md:L59]. A checker
 that reads quotation marks as a promise about a source has the meaning exactly
 backwards here.

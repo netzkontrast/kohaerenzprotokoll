@@ -38,7 +38,7 @@ The page records the expansions as this source reports them, with that attached.
 
 ### `entropie` — a sense the first source does not have
 
-> Entropie as „schöpferische Matrix" — a maximal possibility space from which
+> Entropie as „schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126] — a maximal possibility space from which
 > coherent sequences stabilise ^[aegis-emergenz-aus-der-leere.md:L126]
 
 and a verdict on that usage:
@@ -54,7 +54,7 @@ and a verdict on that usage:
 | source | expansion | what it does |
 |---|---|---|
 | `entropie-aegis` ^[L19] | Autonomous Entropic **Gatekeeper** for Integrity Systems | regulates the order→disorder transition *inside* a system |
-| `aegis-emergenz-aus-der-leere` ^[L126] | Autonomous Entropic Generative Integrity **Substrate** | „nicht innerhalb einer bestehenden Realität operiert, sondern diese […] emergent formt" |
+| `aegis-emergenz-aus-der-leere` ^[L126] | Autonomous Entropic Generative Integrity **Substrate** | „nicht innerhalb einer bestehenden Realität operiert, sondern diese […] emergent formt" ^[aegis-emergenz-aus-der-leere.md:L126] |
 
 A guardian that regulates a system it sits inside, and a substrate that reality
 emerges from. **Not resolvable by wording**, and the second document's own third
@@ -66,8 +66,8 @@ expansion ^[L17] agrees with neither.
 
 | source | sense |
 |---|---|
-| `entropie-aegis` | „ständiger Kampf gegen die systemimmanente Tendenz zur Unordnung" ^[L21] |
-| `aegis-emergenz-aus-der-leere` | „schöpferische Matrix (maximaler Möglichkeitsraum)" ^[L126] |
+| `entropie-aegis` | „ständigen Kampf gegen die systemimmanente Tendenz zur Unordnung" ^[entropie-aegis.md:L21] |
+| `aegis-emergenz-aus-der-leere` | „schöpferische Matrix" (maximaler Möglichkeitsraum) ^[aegis-emergenz-aus-der-leere.md:L126] |
 
 Two days apart. The second document notices the deviation without knowing about
 the first.

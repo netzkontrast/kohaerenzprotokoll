@@ -81,8 +81,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, eight of them
-read (documents 7 to 14).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, nine of them
+read (documents 7 to 15).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -112,13 +112,13 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**14 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **14
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **14
+**15 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **15
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **15
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-three `worldbuilding`, one `aegis`, two `storyform`, one `charaktere`, two
-`kernkonzept` and two `plot-outline` — the last eight from the canon era.
+three `worldbuilding`, one `aegis`, two `storyform`, two `charaktere`, two
+`kernkonzept` and two `plot-outline` — the last nine from the canon era.
 
-`Wiki/candidates/` holds **92 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
+`Wiki/candidates/` holds **93 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
 holds **12 <!--state:wiki.conflicts-->**, `Wiki/questions/` holds
 **5 <!--state:wiki.questions-->**, and
 `Wiki/compare/` holds the reconciliation record per document. The schema follows
@@ -141,6 +141,7 @@ has been promoted.
 | `dramatica-dual-storyform-status-2026-05-07-md` | 0 | 16 | 0 |
 | `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md` | 7 | 43 | 0 |
 | `koharenz-protokoll-strukturierter-outline-2026-05-18-md` | 0 | 43 | 0 |
+| `koharenz-protokoll-konzept-iteration-genesis-md` | 1 | 22 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -231,7 +232,7 @@ found the quotation check blind to its numbers**: every „Kap 38" was compared 
 „Kap", so `quotes.py` now compares numbers on their own (*A quotation is checked
 against its line*, below).
 
-`Plan/runs/judgements.jsonl` holds **75 <!--state:judgements.total--> judgements**
+`Plan/runs/judgements.jsonl` holds **79 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -410,8 +411,8 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**334 <!--state:wiki.relations--> links across
-92 <!--state:wiki.pages--> pages, 27 <!--state:wiki.orphans--> of them with
+**337 <!--state:wiki.relations--> links across
+93 <!--state:wiki.pages--> pages, 28 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
 mistaken for a statement about linking. 48 links existed, written in backticks,
@@ -429,7 +430,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 151 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+The 153 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
 occurrence sits inside a quotation, a citation line or a heading — places the
 pass may not touch, so that part is a measurement and not a backlog. The rest,
 `link.py` would mark on pages no reading has touched since the page was last
@@ -440,14 +441,14 @@ in a commit that names its source.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **123 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1258 <!--state:graph.edges--> edges** (`links`,
+citations and builds **125 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1312 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1420 <!--state:graph.evidence-->
-of them, **1305 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1436 <!--state:graph.evidence-->
+of them, **1436 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -824,7 +825,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 334 <!--state:wiki.relations-->.
+links. It has 337 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"
@@ -962,24 +963,30 @@ every piece is a pattern of tens of lines, ported with its source named.
 
 | script | what it guarantees |
 |---|---|
-| `lmrun.py` | how `pairs.py` and `graphrag.py` call a model: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision |
+| `lmrun.py` | how `pairs.py` and `graphrag.py` call a model: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision. `make_lm()` builds three kinds of name (decision 011): `claude-cli/…`, `route/…` — one free OpenRouter model through `route.py`, pinned — or a LiteLLM string |
+| `claude_lm.py` | Claude as a DSPy model through `claude -p`, first party (decision 011): no tools, no MCP, no settings, no session written, an empty working directory so no `CLAUDE.md` is loaded, thinking off unless asked, and cost and failures recorded the way `lmrun` reads them |
 | `lm_fixture.py` | an offline `dspy.BaseLM`; `offline()` hides every `*_API_KEY` and replaces `litellm.completion` with a refusal, because a scanned repository's unmocked test made a live call from this container |
 | `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor** — the floor candidate's newest row on the same trainset — not only one that fell since the last row, and a `vetoed` row fails whatever its score |
-| `pairs.py` | one-term-or-two: a rule first (`fold()`, or the plural rule of decision 010), a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries |
+| `pairs.py` | one-term-or-two: a rule first (`fold()`, or the plural rule of decision 010), a model only on the residual, folds that keep a repeated surface pair together, repeats, and every compiled program asked the never-merge canaries as often as a held-out pair; J5 is excluded from model training, and the `labeled` rung reserves two demo slots for other hard negatives. `report` splits every ledger row into merges found and **false merges**, by judgement id; `--evidence` adds the document lines code places (never to a free model); `final` compiles once and saves the program |
 | `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**63 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
-36 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
-decides 44 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
+**67 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+40 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
+decides 48 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —
 `labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
-`--dry-run`. **None has run against a real model**: that sends corpus words to
-a third party, and the author has not said yes to it. `scripts/rlm_ingest.py`
-now requires `--approval` for the same reason, turns its cache off, sets a call
-budget, hands the model `find_line` and `count` as tools, and measures how far
-into the document its verified citations reach.
+`--dry-run`. **On 2026-09-25 it ran on real models for the first time**, under
+decision 011 — the author's „Use dspy Optimierung on the Scripts" and „Add
+openrouter free Models in the mix": Claude through `claude -p`, and OpenRouter's
+free models through `route.py`. `python3 scripts/pairs.py report` prints every
+row; `Plan/concept/dspy-optimization_2026-09-25.md` reads them. **No model's
+decision has entered `judgements.jsonl`**: a row on the ledger is a measurement,
+and a merge a model proposes is still a person's call. `scripts/rlm_ingest.py`
+requires `--approval`, turns its cache off, sets a call budget, hands the model
+`find_line` and `count` as tools, and measures how far into the document its
+verified citations reach.
 
 **Not every model call goes through `lmrun.py`.** `rlm_ingest.py` builds its own
 `dspy.LM` with the same two refusals — cache off, `--approval` required.
@@ -990,7 +997,11 @@ for direct calls under decision 007: free models only, the consent file where
 repeat made fresh by `attempt > 0` rather than by turning the record off (P18).
 One rule — no corpus text leaves without the author's decision — now has three
 encodings, which is the drift P6 names. Decision 008 keeps all three as they are
-until one changes its rule and the others do not.
+until one changes its rule and the others do not. **For a DSPy program on a free
+model they now compose rather than repeat**: `lmrun.make_lm("route/…")` sends the
+program's calls through `route.py`'s proxy, so `lmrun` holds the approval and the
+per-call record and `route.py` the price, the data policy, the twelve-word guard
+and a pin to the one model the run measures.
 
 **`.agents/skills/dspy` is where the knowledge behind these scripts lives**,
 sorted by the job at hand: API, optimizers, metrics, data, testing, RLM,

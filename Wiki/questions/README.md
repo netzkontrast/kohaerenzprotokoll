@@ -3,8 +3,10 @@
 **This page type was deferred on purpose and has now earned its existence.**
 `Plan/concept/wiki-system-plan_2026-09-16.md` wrote it down as a condition:
 
-> „No synthesis or question pages yet. Both were near-unused. **They earn their
-> existence when a real need appears**, not before."
+> No synthesis or question pages yet. Both were near-unused. **They earn their
+> existence when a real need appears**, not before.
+
+Source: [the earlier wiki plan](../../Plan/concept/wiki-system-plan_2026-09-16.md).
 
 The need is measured rather than argued. `python3 scripts/relations.py --open`
 harvests the `## Open` section of every term page; on 2026-09-17, when this type
@@ -15,7 +17,7 @@ was created, it found:
 | open statements across the wiki | **70** |
 | distinct after folding repeats | **46** |
 | statements that repeat another | **24** |
-| pages carrying „`AEGIS` does not occur here" | **11** |
+| pages carrying *`AEGIS` does not occur here* | **11** |
 
 Eleven pages ask one question. Answering it would mean editing eleven pages, and
 nothing would say they were the same question. That is the need.
@@ -51,7 +53,7 @@ question appears twice.
 ## Promotion
 
 A harvested statement is a **candidate**, the way a term is. Most are not
-questions — „Everything except the role." is prose, not something a document
+questions — `Everything except the role.` is prose, not something a document
 could answer. Promotion is a person's call and the bar is:
 
 1. it recurs on **two or more** pages, or a source names it as needing definition;

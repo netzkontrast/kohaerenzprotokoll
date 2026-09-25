@@ -1053,3 +1053,59 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L237, Kap 0's characters: „AEGIS (Ursprungs-Ich → Wächter)“. The glossary glosses the Ursprungs-Ich as Juna (J68).
 
 **Result.** TWO terms. A reading on aegis and a third position for the author's J68 question: Juna, what Juna resonated with, or AEGIS.
+
+## J76 — Genesis / Genesis-Flashback
+
+**two-terms** · koharenz-protokoll-konzept-iteration-genesis-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** A modifier that names a narrative device, a subevent or a later retelling does not become an alias of the underlying event.
+- **mechanised by:** `nothing`
+- **features:** narrative-compound, referent-distinction
+
+**Question.** Does the modified Genesis phrase refer to the same term?
+
+**What was done.** An event and a chapter device that retrospectively shows it are different referents; L389 and L790 explicitly describe a chapter proposal.
+
+**Result.** TWO terms as referents; no new page from a chapter device or undetermined name in this concept iteration.
+
+## J77 — Genesis / Genesis-Echo
+
+**two-terms** · koharenz-protokoll-konzept-iteration-genesis-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** A modifier that names a narrative device, a subevent or a later retelling does not become an alias of the underlying event.
+- **mechanised by:** `nothing`
+- **features:** narrative-compound, referent-distinction
+
+**Question.** Does the modified Genesis phrase refer to the same term?
+
+**What was done.** The Genesis is the event; Genesis-Echo at L353, L500 and L765 names its distributed literary recurrence, not a new event.
+
+**Result.** TWO terms as referents; no new page from a chapter device or undetermined name in this concept iteration.
+
+## J78 — Genesis / Genesis-Krise
+
+**two-terms** · koharenz-protokoll-konzept-iteration-genesis-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** A modifier that names a narrative device, a subevent or a later retelling does not become an alias of the underlying event.
+- **mechanised by:** `nothing`
+- **features:** narrative-compound, referent-distinction
+
+**Question.** Does the modified Genesis phrase refer to the same term?
+
+**What was done.** Genesis-Krise at L54 names the crisis of resonance and separation within the larger Genesis sequence of L200–207.
+
+**Result.** TWO terms as referents; no new page from a chapter device or undetermined name in this concept iteration.
+
+## J79 — Genesis / geheilte Genesis
+
+**two-terms** · koharenz-protokoll-konzept-iteration-genesis-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** A modifier that names a narrative device, a subevent or a later retelling does not become an alias of the underlying event.
+- **mechanised by:** `nothing`
+- **features:** narrative-compound, referent-distinction
+
+**Question.** Does the modified Genesis phrase refer to the same term?
+
+**What was done.** Kap 40 at L455–476 names a second telling or reinterpretation of the Kap-0 event; a later narrative form is not the same surface as the event.
+
+**Result.** TWO terms as referents; no new page from a chapter device or undetermined name in this concept iteration.

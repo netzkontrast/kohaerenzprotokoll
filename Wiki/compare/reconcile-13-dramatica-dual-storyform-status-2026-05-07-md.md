@@ -16,12 +16,12 @@ new_readings: 16
 
 204 candidates, 201 decisions — **161 by lookup, 40 to judgement.** Document 12,
 the Dramatica status and lock-in report of 2026-05-07 — the lock-in the
-storyform-und-outline cites as the source of its „Approach-Spiegelung".
+storyform-und-outline cites as the source of its „Approach-Spiegelung" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L135].
 
 ## What kind of document this is
 
 A session report. It audits the dual storyform against Dramatica, changes three
-values and says from what to what, marks each changed value „⚠ korr 2026-05-07",
+values and says from what to what, marks each changed value „⚠ korr 2026-05-07" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L174],
 and asks for the documents outside the session to be updated. No hedging; its
 open points are a section (L385).
 
@@ -47,7 +47,7 @@ novel uses is the author's call.
 
 | | this document | line |
 |---|---|--:|
-| C2 | B's premise: erasing contradictions „generiert die Entropie, die er bekämpft" | 218 |
+| C2 | B's premise: erasing contradictions „generiert die Entropie, die er bekämpft" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L218] | 218 |
 | C8 | the lock-in: Approach mirrored, B = Do-er; older texts not yet updated | 29, 416 |
 | C11 | Beat-4 heat spike; warm Kael, cool AEGIS — before the lock, in line with it | 278, 344 |
 | C12 | three beats and the question of a fourth, the day before two answers | 408 |

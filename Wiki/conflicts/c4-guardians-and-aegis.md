@@ -16,7 +16,7 @@ pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus",
 
 | # | whose blind spot | what kind of failure it is | source | line |
 |--:|---|---|---|--:|
-| 1 | **[[aegis|AEGIS]]'** | „nicht um einen fehlenden Sensor, sondern um eine kategoriale Unfähigkeit", argued from Ashby's Law, the qualia problem and Bohm | `kohaerenzprotokoll-aegis-und-systementropie` | 61 |
+| 1 | **[[aegis|AEGIS]]'** | „nicht um einen fehlenden Sensor, sondern um eine kategoriale Unfähigkeit" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L61], argued from Ashby's Law, the qualia problem and Bohm | `kohaerenzprotokoll-aegis-und-systementropie` | 61 |
 | 2 | **each Guardian's** | derived from that Guardian's own domain and function, five times, three different kinds | `guardians-und-kern-welten-konzept` | 137 |
 
 > „wie die spezifische Natur des \"Blinden Flecks\" jedes Guardians logisch aus
@@ -95,7 +95,7 @@ both bearers, attributed and unmerged, until a read document relates them.
 
 > „eine reine AEGIS-Erweiterung" ^[aegis-subplots-kapitelweise-system-exploration-docx.md:L280]
 
-**But the passage this record quoted as „appearing to settle it" is the opening
+**But the passage this record quoted as `appearing to settle it` is the opening
 of a chapter whose entire subject is that it is not settled.** Chapter 20:
 
 > „Die Natur eines Guardians - Autonomer Agent oder bloßes Werkzeug?
@@ -142,8 +142,8 @@ also help, since the numbering is the one place the two documents nearly touch.
 
 ## 2026-09-17 — document 6 supplies the numbering this record asked for
 
-The section above ended: „`KW2` and `KW4` appearing anywhere would
-also help, since the numbering is the one place the two documents nearly touch."
+The section above ended: *`KW2` and `KW4` appearing anywhere would
+also help, since the numbering is the one place the two documents nearly touch.*
 
 `roman-lokalitaeten-konzept-und-ausarbeitung` supplies all four. `KW2` occurs 28
 times and `KW4` 18, each with a domain bearer
@@ -172,7 +172,7 @@ those are one term is `q4-waechter-four-bearers`, not this record.
 Position 1's bearer: AEGIS' blindness, stated as places and timing, not as the
 [[guardians|Guardians]]'. The [[externe-ebene|Externe Ebene]] holds „das, was AEGIS nicht erfassen kann;
 konzeptueller Ort" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L667], and AEGIS registers transitions late because
-„Coheron-Übergänge sind atemporal" (L736). The Guardians get no blind spot here.
+„Coheron-Übergänge sind atemporal" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L736] (L736). The Guardians get no blind spot here.
 
 ## 2026-09-24 — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 

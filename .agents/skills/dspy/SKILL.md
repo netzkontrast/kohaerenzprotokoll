@@ -15,6 +15,13 @@ what an agent here is about to do. Every claim about DSPy itself was checked
 against the installed package, DSPy 3.3.1 in `.venv-dspy`, and
 `scripts/check_dspy_skill.py` keeps checking it.
 
+On 2026-09-24/25 DSPy itself was read the same way: nine readers over the
+installed 3.3.1 package, its tests and its documentation, GEPA 0.1.4, and the
+papers behind both. Their notes, one per slice, are in
+`Plan/concept/dspy-source_2026-09-24/`; where a note contradicts this skill, the
+skill was corrected and a probe added (the `rollout_id` cache claim was
+backwards).
+
 **The skill this project needed was never a DSPy tutorial.** Every failure here
 with a model has been a failure of method, not of the API. One model tied the
 baseline while merging `Negentropie` with `Entropie`. An RLM reproduced the
@@ -39,7 +46,11 @@ one guarantees. What to run:
 - **a DSPy model call** goes through `lmrun.call` inside
   `dspy.context(lm=lmrun.make_lm(...))`. It refuses a cached LM and a real LM
   without `approval=`, and records one line per call under
-  `Plan/runs/<subject>/lm/` with a status, never a score;
+  `Plan/runs/<subject>/lm/` with a status, never a score. Decision 011 names
+  two models a DSPy program may use: `make_lm("claude-cli/haiku")` — Claude
+  through `claude -p`, first party, no tools (`scripts/claude_lm.py`) — and
+  `make_lm("route/<free model>")`, one free OpenRouter model through
+  `route.py`, pinned, which never takes a line of a document;
 - **a third-party tool, or a call outside DSPy**, goes through
   `scripts/route.py`: free models only, the consent file of decision 007, and
   every call recorded so it replays offline;
@@ -50,12 +61,16 @@ one guarantees. What to run:
 - **`python3 scripts/selftests.py`** runs every check, one line each, and a
   suite that could not run says `not run`, never `held`.
 
-**Nothing leaves the container without the author's yes for that run.** Three
-DSPy runs are built and waiting on one: `pairs.py run --optimizer labeled
---rule plural`, `graphrag.py ask --answer`, and `rlm_ingest.py`. `NOW.md` says what each would
-send. Decision 007 lets documents 5 and 6 go to free models and Jev through
-`route.py`, to test the tools installed that day; it says nothing about these
-three. The rule has three encodings — `lmrun.py`, `rlm_ingest.py`, `route.py` —
+**Nothing leaves the container without the author's yes for that run.**
+Decision 011 is that yes for DSPy runs: Claude, which this repository already
+treats as keeping corpus text inside its boundary, and free OpenRouter models
+for what `pairs.py` sends — surfaces and recorded rules, never a passage. The
+`pairs.py` ladder has run under it; `python3 scripts/pairs.py report` reads
+every row by direction, and `Plan/concept/dspy-optimization_2026-09-25.md` reads
+the results. `graphrag.py ask --answer` and `rlm_ingest.py` send quotations and
+documents, so under decision 011 they may run on Claude only. Decision 007 lets
+documents 5 and 6 go to free models and Jev through `route.py`, to test the
+tools installed that day. The rule has three encodings — `lmrun.py`, `rlm_ingest.py`, `route.py` —
 and which one the others should call is open (`NOW.md`). The dry run of each
 DSPy run is free:
 
@@ -90,6 +105,8 @@ scripts/install.sh dspy            # build it
 | record cost, trace, save, cache, handle errors | `references/operations.md` | `lmrun.py` |
 | borrow a pattern: review, critique→repair, sessions, planning graphs, prompting techniques | `references/patterns.md` | — |
 | weigh one of the nine repositories, or one of its ideas | `references/repos.md` | — |
+| know what DSPy or GEPA itself does, beyond what a reference holds | `Plan/concept/dspy-source_2026-09-24/` — one note per slice of the package, its tests and docs, and the papers | the probes each note ran |
+| run the ladder on a real model | `references/optimizers.md`, *In this repository* | `pairs.py run --model claude-cli/haiku --approval "decision 011"`, then `pairs.py report` |
 
 ## The facts that bite
 
@@ -141,6 +158,20 @@ Each is checked against DSPy 3.3.1 or cited to its source, in the file named.
 13. **`gepa.optimize_anything` hands the evaluator its example by keyword,
     `example`.** An evaluator whose parameter has another name never receives
     it. [checked: example-reaches-evaluator-by-name] → `text-artifacts.md`
+14. **`rollout_id` changes the cache key at every temperature, 0 included** —
+    DSPy's own warning says otherwise, and this skill repeated it until
+    2026-09-25. → `api.md`, `operations.md`
+15. **GEPA does not know what its reflection costs**: its tracking wrapper
+    reports 0.0 for any callable, and a bad `gepa_kwargs` key raises only at
+    `.compile()`. A run's cost is what DSPy's LM history records, which is what
+    `pairs.py` sums. → `optimizers.md`
+16. **`claude -p` thinks unless told not to**: over 18 calls Haiku with
+    `--effort low` spent 590–3,282 output tokens on a one-sentence answer,
+    8–35 s and $0.005–0.018 a call; with thinking off, 153 calls took 42–131
+    tokens, 2.4–3.9 s and $0.0024 on average
+    (`Plan/runs/surface-pairs/lm/`). `ClaudeCLI` sets `MAX_THINKING_TOKENS=0`
+    unless asked, and a reflection model is built with its thinking left on.
+    → `operations.md`
 
 ## The finding that repeats across the nine repositories
 

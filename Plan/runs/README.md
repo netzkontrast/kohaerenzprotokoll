@@ -66,7 +66,7 @@ to be for.
 
 **Which lists are gold is decided by `scripts/gold.py`** (decision 009): a
 list written while reading, counted, unchanged since its count, and of its
-document. 10 <!--state:trainset.gold_candidate_lists--> are gold today,
+document. 11 <!--state:trainset.gold_candidate_lists--> are gold today,
 documents 5 to 14. Documents 5 and 6 say a reader wrote them; from document 7
 on, the session reading the document wrote the list before any count, and its
 `written_by:` line says so. `python3 scripts/gold.py` prints every verdict and

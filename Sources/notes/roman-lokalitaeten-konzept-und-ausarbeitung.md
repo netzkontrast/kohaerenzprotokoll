@@ -166,7 +166,7 @@ Entropielevel und potenzieller Anomalien (wie Kael oder Juna)" ^[L464], an
 ## `Entropie` is treated as a managed quantity and never defined
 
 39 occurrences standing alone. The system „managt" it ^[L77]; there is an
-„Entropiegrad" that rises ^[L37], an „Entropielevel" ^[L464], „Entropie-Hotspots"
+„Entropiegrad" ^[L37] that rises ^[L37], an „Entropielevel" ^[L464], „Entropie-Hotspots"
 ^[L465] and „Entropie-Indikatoren" ^[L470] on the monitor. The verb is always
 management and the noun is never explained.
 

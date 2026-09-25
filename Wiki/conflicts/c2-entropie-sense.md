@@ -17,7 +17,7 @@ pages: ["entropie"]
 | # | sense | source | line | date |
 |--:|---|---|--:|---|
 | 1 | **disorder to be resisted** — what [[aegis|AEGIS]] exists to fight | `entropie-aegis` | 21 | 2025-04-17 |
-| 2 | **„schöpferische Matrix"** — the possibility space things stabilise out of | `aegis-emergenz-aus-der-leere` | 126 | 2025-04-19 |
+| 2 | **„schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126]** — the possibility space things stabilise out of | `aegis-emergenz-aus-der-leere` | 126 | 2025-04-19 |
 
 > „Seine Existenzberechtigung leitet sich aus seiner Funktion in diesem
 > **ständigen Kampf gegen die systemimmanente Tendenz zur Unordnung** ab."
@@ -64,7 +64,7 @@ what [[aegis|AEGIS]] fights — and [[aegis|AEGIS]] is it:
 
 „AEGIS kämpft gegen die Entropie, die es selbst erzeugt." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L135] What AEGIS
 takes for the hostile chaos, the [[nichts-rauschen|Nichts-Rauschen]], is instead „die atemporale
-Vereinigung aller mutualen Information" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32] — so the „schöpferische Matrix" of
+Vereinigung aller mutualen Information" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L32] — so the „schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126] of
 sense 2 has a counterpart here, under another name and not called entropy.
 
 This is the first read source that states the project's own sense flatly, in a

@@ -1,0 +1,114 @@
+{
+ "step": "pairs-bootstrap-claude-cli-haiku",
+ "rule_first": "plural",
+ "canaries_merged": [],
+ "at": "2026-09-25T08:27:20+00:00",
+ "instructions": "Sind die beiden Oberflächenformen derselbe Begriff im Korpus (one-term)\noder zwei verschiedene Begriffe (two-terms)? Ein bestimmter Artikel ist nie\neine Begriffsgrenze. Ein Kompositum wird nach dem eingeordnet, was es\nbenennt, nie nach seinem Kopf. Gegensätze wie Negentropie/Entropie sind nie\nein Begriff. Nenne die Regel, nach der du entscheidest.",
+ "demos": 8,
+ "state": {
+  "traces": [],
+  "train": [],
+  "demos": [
+   {
+    "augmented": true,
+    "first": "Die Konstrukt-Stadt",
+    "second": "Konstrukt-Stadt",
+    "decision": "one-term",
+    "rule": "a leading German definite article is never a term boundary"
+   },
+   {
+    "augmented": true,
+    "first": "Die Resonanz-Landschaft",
+    "second": "Resonanz-Landschaft",
+    "decision": "one-term",
+    "rule": "a leading German definite article is never a term boundary"
+   },
+   {
+    "augmented": true,
+    "first": "Die Grenzfeste",
+    "second": "Grenzfeste",
+    "decision": "one-term",
+    "rule": "a leading German definite article is never a term boundary"
+   },
+   {
+    "augmented": true,
+    "first": "Kern-Welten",
+    "second": "Kern-Welt",
+    "decision": "one-term",
+    "rule": "singular and plural of the same concept are the same term in the corpus"
+   },
+   {
+    "id": "J7",
+    "first": "Nexus-Vorstufe",
+    "second": "Nexus",
+    "document": "guardians-und-kern-welten-konzept",
+    "decision": "two-terms",
+    "rule": "containment where the longer form names a stage or part of the shorter is two terms",
+    "features": [
+     "substring",
+     "qualifier-contains-head"
+    ]
+   },
+   {
+    "id": "J29",
+    "first": "AEGIS",
+    "second": "Rest-AEGIS",
+    "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+    "decision": "one-term",
+    "rule": "a prefix naming a later state of the same bearer does not make a new term",
+    "features": [
+     "prefix",
+     "state-of-a-thing"
+    ]
+   },
+   {
+    "id": "J44",
+    "first": "Anomalie",
+    "second": "Anomalien",
+    "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+    "decision": "one-term",
+    "rule": "a German plural is not a term boundary",
+    "features": [
+     "german-plural",
+     "zero-as-a-word"
+    ]
+   },
+   {
+    "id": "J63",
+    "first": "Überwelt-Nexus",
+    "second": "Überwelt",
+    "document": "kapitel-kompendium-gather-2026-05-31-md",
+    "decision": "two-terms",
+    "rule": "a compound naming a place is not either of the places it is built from (J8, J49); where one document gives both, it is a reading, not a merge",
+    "features": [
+     "compound",
+     "second-name",
+     "two-levels"
+    ]
+   }
+  ],
+  "signature": {
+   "instructions": "Sind die beiden Oberflächenformen derselbe Begriff im Korpus (one-term)\noder zwei verschiedene Begriffe (two-terms)? Ein bestimmter Artikel ist nie\neine Begriffsgrenze. Ein Kompositum wird nach dem eingeordnet, was es\nbenennt, nie nach seinem Kopf. Gegensätze wie Negentropie/Entropie sind nie\nein Begriff. Nenne die Regel, nach der du entscheidest.",
+   "fields": [
+    {
+     "prefix": "First:",
+     "description": "${first}"
+    },
+    {
+     "prefix": "Second:",
+     "description": "${second}"
+    },
+    {
+     "prefix": "Decision:",
+     "description": "${decision}"
+    },
+    {
+     "prefix": "Rule:",
+     "description": "die Regel, in einem Satz"
+    }
+   ]
+  },
+  "lm": null
+ },
+ "folds": []
+}

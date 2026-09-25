@@ -35,7 +35,9 @@ or truncated answer is a defect that moves on to the next model (P19).
 **The proxy.** A tool that takes an OpenAI base URL is pointed at
 `http://127.0.0.1:<port>/v1` and names itself in the API key it sends —
 `route:<purpose>:<doc>` — so it never holds a real key. Whatever model it asks for,
-it gets a free one; `/v1/embeddings` is answered locally by a multilingual
+it gets a free one — unless the key ends `:<attempt>:pin`: then only the free model
+it names answers, or none, because a run that measures one model must not be
+answered by another (P16); `/v1/embeddings` is answered locally by a multilingual
 sentence-transformers model when the proxy runs under an interpreter that has one
 (`.venv-grawiki/bin/python`), because no free embedding model on OpenRouter
 accepts the data policy. `serve --replay` answers only from the recording.
@@ -85,6 +87,10 @@ TIMEOUT = 180         # seconds per model attempt; free endpoints answer in 2-12
 DEADLINE = 600        # seconds for one call across all its attempts
 _POOL = ThreadPoolExecutor(32)
 COOL = 60             # seconds a rate-limited model is skipped while others remain
+PIN_WAIT = 10         # seconds a pinned call waits before asking its rate-limited model again
+PIN_DEADLINE = 240    # seconds for one pinned call: a free model's shared upstream pool can stay
+                      # exhausted however long it is tried (gemma-4-31b, every attempt for two
+                      # minutes, 2026-09-25), and waiting is not answering
 PROBE = "Antworte nur mit dem Wort: Kohärenz"
 REPLAY = False
 LOCK = threading.Lock()
@@ -312,18 +318,31 @@ def lang(text: str) -> str | None:
     return "de" if de > en else "en"
 
 
+def pinnable(model: str | None) -> bool:
+    """Whether a run may pin `model`: a free model that accepted the data policy when probed."""
+    return model in rotation()
+
+
 def chat(request: dict, *, purpose: str, doc: str | None = None, prefer: str | None = None,
-         expect: str | None = None, attempt: int = 0, deadline: int = DEADLINE) -> dict:
+         expect: str | None = None, attempt: int = 0, deadline: int = DEADLINE, pin: bool = False) -> dict:
     """One chat completion from a free model, or {"unreached": why}.
 
     `request` is an OpenAI chat body without `model`. Raises Refused only for a
-    consent breach or a charged call; a model's failure is never raised."""
+    consent breach or a charged call; a model's failure is never raised.
+
+    `pin=True` is for a run that measures one model (P16): only `prefer` answers,
+    never another free model in its place. A pinned model that is rate-limited is
+    waited for, `PIN_WAIT` seconds at a time, until the deadline; a daily limit is
+    not waited for, since it will not lift within one call."""
     doc = check_doc(doc)
     request = {k: v for k, v in request.items()
                if k not in ("model", "models", "stream", "stream_options", "provider", "route", "user")}
     screen(json.dumps(request.get("messages", []), ensure_ascii=False), purpose, doc)
     # attempt > 0 is a deliberate repeat (P18): a fresh call, never the first one replayed
-    key = digest({**request, "attempt": attempt} if attempt else request)
+    keyed = {**request, "attempt": attempt} if attempt else dict(request)
+    if pin:
+        keyed["pinned"] = prefer      # a pinned model's recording is its own, never another model's
+    key = digest(keyed)
     rec = recall("chat", key)
     if rec is not None:
         ledger(kind="chat", purpose=purpose, doc=doc, key=key, cached=True, outcome="ok",
@@ -334,13 +353,23 @@ def chat(request: dict, *, purpose: str, doc: str | None = None, prefer: str | N
                why="not in the recording")
         return {"unreached": "not in the recording"}
     models = rotation(prefer)
+    if pin:
+        deadline = min(deadline, PIN_DEADLINE)
+        if prefer not in models:
+            why = f"{prefer!r} is not a free model under the data policy ({rel(paths()['catalogue'])})"
+            ledger(kind="chat", purpose=purpose, doc=doc, key=key, cached=False, outcome="unreached", why=why)
+            return {"unreached": why}
+        models = [prefer]
     tried: list[dict] = []
     started = time.time()
-    for model in models + models:            # each model twice, in order, before giving up
+    queue = models + models                  # each model twice, in order, before giving up
+    while queue:
+        model = queue[0]
         left = deadline - (time.time() - started)
-        if len(tried) >= 2 * len(models) or left < 5:
+        if left < 5:
             break
-        if _COOLING.get(model, 0) > time.time() and any(_COOLING.get(m, 0) <= time.time() for m in models):
+        if not pin and _COOLING.get(model, 0) > time.time() and any(_COOLING.get(m, 0) <= time.time() for m in models):
+            queue.pop(0)
             continue
         body = {**request, "model": model, "provider": {"data_collection": "deny"}, "usage": {"include": True}}
         t = time.time()
@@ -350,9 +379,17 @@ def chat(request: dict, *, purpose: str, doc: str | None = None, prefer: str | N
             why = _classify(status, resp) if status else "unreached"
             if why == "rate-limited":
                 _COOLING[model] = time.time() + COOL
+            if why == "rate-limited" and "per-day" in json.dumps(resp).lower():
+                why = "daily-limit"
             tried.append({"model": model, "status": status, "why": why, "seconds": took})
             # one row per failed attempt, written as it fails: a stuck run is visible
             ledger(kind="attempt", purpose=purpose, doc=doc, key=key, model=model, outcome=why, seconds=took)
+            if pin and why == "rate-limited":
+                time.sleep(max(0.0, min(PIN_WAIT, left - 5)))
+                continue                     # the same model again: a pinned run never changes model
+            if pin and why == "daily-limit":
+                break
+            queue.pop(0)
             time.sleep(1 if why == "rate-limited" else 0)
             continue
         usage = resp.get("usage") or {}
@@ -374,6 +411,7 @@ def chat(request: dict, *, purpose: str, doc: str | None = None, prefer: str | N
         if defect:
             tried.append({"model": model, "status": status, "why": defect, "seconds": took})
             ledger(kind="attempt", purpose=purpose, doc=doc, key=key, model=model, outcome=defect, seconds=took)
+            queue.pop(0)
             continue
         rec = {"model": resp.get("model", model), "provider": resp.get("provider"), "seconds": took,
                "content": content, "response": resp, "tried": tried}
@@ -503,14 +541,16 @@ class Proxy(BaseHTTPRequestHandler):
     def _error(self, code: int, message: str, kind: str) -> None:
         self._send(code, {"error": {"message": message, "type": kind, "code": code}})
 
-    def _who(self) -> tuple[str, str | None, int]:
+    def _who(self) -> tuple[str, str | None, int, bool]:
         token = (self.headers.get("Authorization") or "").removeprefix("Bearer ").strip()
         if not token.startswith("route:"):
-            raise PermissionError("name the caller in the API key: route:<purpose>:<document slug or ->[:<attempt>]")
+            raise PermissionError("name the caller in the API key: "
+                                  "route:<purpose>:<document slug or ->[:<attempt>[:pin]]")
         parts = token.split(":")
         purpose = parts[1] if len(parts) > 1 and parts[1] else "unnamed"
         attempt = int(parts[3]) if len(parts) > 3 and parts[3].isdigit() else 0
-        return purpose, check_doc(parts[2] if len(parts) > 2 else None), attempt
+        pin = len(parts) > 4 and parts[4] == "pin"
+        return purpose, check_doc(parts[2] if len(parts) > 2 else None), attempt, pin
 
     def do_GET(self):  # noqa: N802
         if self.path.rstrip("/").endswith("/health"):  # cgr's litellm_proxy provider asks this first
@@ -527,7 +567,7 @@ class Proxy(BaseHTTPRequestHandler):
         except ValueError:
             return self._error(400, "the body is not JSON", "invalid_request")
         try:
-            purpose, doc, attempt = self._who()
+            purpose, doc, attempt, pin = self._who()
         except PermissionError as e:
             return self._error(401, str(e), "unnamed_caller")
         except Refused as e:
@@ -535,17 +575,17 @@ class Proxy(BaseHTTPRequestHandler):
         path = self.path.split("?")[0].rstrip("/")
         try:
             if path.endswith("/chat/completions"):
-                return self._chat(body, purpose, doc, attempt)
+                return self._chat(body, purpose, doc, attempt, pin)
             if path.endswith("/embeddings"):
                 return self._embed(body, purpose, doc)
         except Refused as e:
             return self._error(403, str(e), "refused")
         return self._error(404, f"no route for POST {self.path}", "not_found")
 
-    def _chat(self, body: dict, purpose: str, doc: str | None, attempt: int = 0) -> None:
+    def _chat(self, body: dict, purpose: str, doc: str | None, attempt: int = 0, pin: bool = False) -> None:
         stream = bool(body.get("stream"))
         usage_chunk = bool((body.get("stream_options") or {}).get("include_usage"))
-        rec = chat(body, purpose=purpose, doc=doc, prefer=body.get("model"), attempt=attempt)
+        rec = chat(body, purpose=purpose, doc=doc, prefer=body.get("model"), attempt=attempt, pin=pin)
         if "unreached" in rec:
             return self._error(502, f"no free model answered: {rec['unreached']}", "route_unreached")
         resp = dict(rec["response"])
@@ -697,7 +737,7 @@ def cmd_guard(slug: str) -> int:
 def cmd_selftest() -> int:
     """Offline, no key, no network: every guard is shown to hold and to fail."""
     import tempfile
-    global OUT, REPLAY, _post, TIMEOUT
+    global OUT, REPLAY, _post, TIMEOUT, PIN_WAIT
     real_consent = json.loads((OUT / "consent.json").read_text(encoding="utf-8"))
     allowed = real_consent["documents"]
     outsider = next(d.slug for d in subject.documents() if d.slug not in allowed and len(d.body) > 2000)
@@ -779,6 +819,31 @@ def cmd_selftest() -> int:
             script[:] = [answer("The answer is that this is in English and not German."), answer("Die Antwort ist das.")]
             check("a wrong-language answer moves on", complete("vier", purpose="selftest", expect="de")
                   .get("content") == "Die Antwort ist das.")
+            print("pinned runs (one model per measurement, P16)")
+            saved_wait, PIN_WAIT = PIN_WAIT, 0
+            saved_cooling = dict(_COOLING)
+            script[:] = [(429, {"error": {"message": "rate"}}), answer("gepinnt")]
+            n = len(calls)
+            r = chat({"messages": [{"role": "user", "content": "acht"}]}, purpose="selftest", prefer="b:free", pin=True)
+            check("a pinned call waits for its rate-limited model and never asks another",
+                  r.get("content") == "gepinnt" and calls[n:] == ["b:free", "b:free"])
+            n = len(calls)
+            r = chat({"messages": [{"role": "user", "content": "neun"}]}, purpose="selftest", prefer="d:free", pin=True)
+            check("a pinned model outside the free rotation is unreached and never sent",
+                  "unreached" in r and len(calls) == n)
+            script[:] = [(429, {"error": {"message": "Rate limit exceeded: free-models-per-day"}})]
+            n = len(calls)
+            r = chat({"messages": [{"role": "user", "content": "zehn"}]}, purpose="selftest", prefer="a:free", pin=True)
+            check("a daily limit ends a pinned call at once", "unreached" in r and len(calls) == n + 1)
+            script[:] = [answer("von a"), answer("von b")]
+            chat({"messages": [{"role": "user", "content": "dreizehn"}]}, purpose="selftest", prefer="a:free", pin=True)
+            n = len(calls)
+            r = chat({"messages": [{"role": "user", "content": "dreizehn"}]}, purpose="selftest", prefer="b:free", pin=True)
+            check("a pinned model is never answered from another model's recording",
+                  r.get("content") == "von b" and len(calls) == n + 1)
+            PIN_WAIT = saved_wait
+            _COOLING.clear()
+            _COOLING.update(saved_cooling)       # the pinned cases' rate limits must not steer later ones
             print("deadlines and the record of attempts")
             saved_timeout, TIMEOUT = TIMEOUT, 1
             slow_calls: list[str] = []
@@ -833,6 +898,14 @@ def cmd_selftest() -> int:
             events = [l[6:] for l in text.splitlines() if l.startswith("data: ")]
             check("a stream request gets server-sent events ending in [DONE]",
                   s == 200 and events[-1] == "[DONE]" and json.loads(events[0])["choices"][0]["delta"]["content"] == "sieben")
+            script[:] = [answer("elf")]
+            s, text = post("/chat/completions", {"messages": [{"role": "user", "content": "elf"}], "model": "a:free"},
+                           f"route:selftest:{allowed[0]}:0:pin")
+            check("a key ending :pin gets the model it names", s == 200 and calls[-1] == "a:free")
+            n = len(calls)
+            s, text = post("/chat/completions", {"messages": [{"role": "user", "content": "zwölf"}],
+                                                 "model": "openai/gpt-5.6-sol"}, f"route:selftest:{allowed[0]}:0:pin")
+            check("a pinned paid model is not answered by a free one", s == 502 and len(calls) == n)
             check("a caller that does not name itself is refused", post("/chat/completions", msgs, "sk-real")[0] == 401)
             with urllib.request.urlopen(f"http://127.0.0.1:{srv.server_address[1]}/health", timeout=10) as r:
                 check("GET /health answers 200 (cgr's litellm_proxy checks it)", r.status == 200)

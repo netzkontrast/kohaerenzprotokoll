@@ -1,0 +1,61 @@
+{
+ "model": "nex-agi/nex-n2.5-mini:free",
+ "provider": "Nex AGI",
+ "seconds": 2.0,
+ "content": "[[ ## rule ## ]]\nA term is one term when both surface forms denote the same target; a term is two terms when they denote distinct concepts, even if one is a subtype or specialization of the other; an article such as “the” does not separate terms; and hyphenated or joined compounds are treated as one term when they function as a single named concept.\n\n[[ ## decision ## ]]\ntwo-terms\n\n[[ ## completed ## ]]",
+ "response": {
+  "id": "gen-1790323325-M8E1DlAGM2icWtpoQ44w",
+  "object": "chat.completion",
+  "created": 1790323325,
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "provider": "Nex AGI",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "[[ ## rule ## ]]\nA term is one term when both surface forms denote the same target; a term is two terms when they denote distinct concepts, even if one is a subtype or specialization of the other; an article such as “the” does not separate terms; and hyphenated or joined compounds are treated as one term when they function as a single named concept.\n\n[[ ## decision ## ]]\ntwo-terms\n\n[[ ## completed ## ]]",
+     "refusal": null,
+     "reasoning": "\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "\n\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 923,
+   "completion_tokens": 96,
+   "total_tokens": 1019,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 896,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

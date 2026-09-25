@@ -37,7 +37,7 @@ candidates: 446
 **1,396 lines and no structure the profile can see**: 0 headings, 0 table rows,
 0 bold lines. The export flattened everything. The document's parts survive as
 plain lines — a table of contents (L8–L22), part labels („Teil III — AEGIS: Der
-tragische Gott"), section numbers („III.2") — and its tables arrive **one cell per
+tragische Gott" ^[L12]), section numbers („III.2") — and its tables arrive **one cell per
 line, tab-indented**: the paradox table (L121–L132), the Alter roster (L353–L422),
 the storyform slots (L590–L661), the block table (L724–L747). **130 glued
 reference numbers** are mostly section numbers and chapter ranges run into
@@ -45,14 +45,14 @@ their words. A matcher that expects a table row finds none.
 
 ## Stance — a synthesis that declares itself authoritative
 
-„Konsolidierte Synthese aller Iterationen Stand: 8. Mai 2026" (L2). It closes:
+„Konsolidierte Synthese aller Iterationen Stand: 8. Mai 2026" ^[L2] (L2). It closes:
 „Diese Datei ist autoritative Spec. Bei Diskrepanz mit älteren Notizen oder
-Steinbruch-Material gewinnt diese Synthese." (L1395) One section heading carries
-„(gelockt)" (I.2, L62), two others „kanonisch" (III.2 L209, V.2 L352).
+Steinbruch-Material gewinnt diese Synthese." ^[L1395] (L1395) One section heading carries
+„(gelockt)" ^[L62] (I.2, L62), two others `kanonisch` (III.2 L209, V.2 L352).
 
 Hedging is rare: `vielleicht` 3 (all in the Kap-40 length estimate and the
 style-anchor section), `könnte` 2. Its open points are a table, „XI.2 Open
-Questions (Stand 2026-05-08)" (L1194), seven OQs with an „Encoding-blockierend?"
+Questions (Stand 2026-05-08)" ^[L1194] (L1194), seven OQs with an „Encoding-blockierend?" ^[L1197]
 column.
 
 ## Candidates
@@ -514,17 +514,17 @@ has no frontmatter, so file line = document line.
 
 | term | word | incl. compounds | what it means |
 |---|--:|--:|---|
-| `ontologisches Fundament` | 0 | 0 | only „Das ontologische Fundament" (L10, L50) — the article inflects the adjective |
+| `ontologisches Fundament` | 0 | 0 | only „Das ontologische Fundament" ^[L10] (L10, L50) — the article inflects the adjective |
 
 ## Surfaces — one thing wearing several names
 
 - **Each Kern-Welt has two names in one heading**: „KW1 — Die Konstrukt-Stadt
-  (Logos-Prime)" (L463), „KW2 — Mnemosyne-Archipel (Resonanzlandschaft,
-  Klimax-Setting)" (L483), „KW3 — Cerberus-Labyrinth (Grenzfeste)" (L500), „KW4 —
-  Kairos-Potentialis (Garten der Möglichkeiten)" (L517).
+  (Logos-Prime)" ^[L463] (L463), „KW2 — Mnemosyne-Archipel (Resonanzlandschaft,
+  Klimax-Setting)" ^[L483] (L483), „KW3 — Cerberus-Labyrinth (Grenzfeste)" ^[L500] (L500), „KW4 —
+  Kairos-Potentialis (Garten der Möglichkeiten)" ^[L517] (L517).
 - **Möglichkeits-Garten and Garten der Möglichkeiten both occur**, and not as one
-  thing: KW4's heading glosses it „Garten der Möglichkeiten" (L517), and its
-  sub-locations list „Möglichkeits-Garten, Nexus, Mosaik-Herz" (L530).
+  thing: KW4's heading glosses it „Garten der Möglichkeiten" ^[L517] (L517), and its
+  sub-locations list „Möglichkeits-Garten, Nexus, Mosaik-Herz" ^[L530] (L530).
 - **`Schicht 1/2/3` names two different triads**: the ontological layers of Teil I
   (L55–L61) and the trauma layers of Teil V (L436–L439).
 - **`K₁`/`K1` and `K₀`/`K0`** alternate, subscript and plain.
@@ -534,16 +534,16 @@ has no frontmatter, so file line = document line.
 
 `Murdock/Schmidt` (L804), `Lyons-Welt` (L869), `IFS` (expanded, not explained,
 L348), `Phoenix-Mode` (defined only by its three words, L1192), the NCP and
-„Begleit-Kanon" (L1221).
+„Begleit-Kanon" ^[L1221] (L1221).
 
 ## Self-consistency
 
-- **Kap 40 length**: „deutlich kürzer … Vielleicht halb so lang" and
-  „Vielleicht 3–5 Bewegungen", then five are listed (L945–L952). Consistent,
+- **Kap 40 length**: „deutlich kürzer … Vielleicht halb so lang" ^[L945] and
+  „Vielleicht 3–5 Bewegungen" ^[L945], then five are listed (L945–L952). Consistent,
   hedged.
-- **„sieben OQs"** (L1389): the table lists OQ-A to OQ-G, seven.
-- **Juna's appearances**: „38 Kapitel lang ohne direkte Erscheinung" (L327) and
-  „Junas Witness-Modus von Kap 3 bis Kap 38" (L1060) — consistent.
+- **„sieben OQs" ^[L1389]** (L1389): the table lists OQ-A to OQ-G, seven.
+- **Juna's appearances**: `38 Kapitel lang ohne direkte Erscheinung` (L327) and
+  „Junas Witness-Modus von Kap 3 bis Kap 38" ^[L1060] (L1060) — consistent.
 
 ## What the extraction ran into
 

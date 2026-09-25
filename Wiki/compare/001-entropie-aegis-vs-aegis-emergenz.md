@@ -48,7 +48,7 @@ And every real conflict sits on a string the two documents **share**:
 | shared string | doc 1 | doc 2 | relation |
 |---|---|---|---|
 | `AEGIS` | Autonomous Entropic Gatekeeper for Integrity Systems ^[entropie-aegis.md:L19] | Autogenic Emergent General Intelligence System ^[…leere.md:L17] **and** Autonomous Entropic Generative Integrity Substrate ^[…leere.md:L126] | **conflict** |
-| `Entropie` | used 53×, undefined; three external senses commissioned ^[entropie-aegis.md:L29-33] | „schöpferische Matrix" ^[…leere.md:L126], and the postulate's usage judged to „weicht signifikant von der Standarddefinition ab" ^[…leere.md:L130] | **conflict** |
+| `Entropie` | used 53×, undefined; three external senses commissioned ^[entropie-aegis.md:L29-33] | „schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126], and the postulate's usage judged to „weicht signifikant von der Standarddefinition" ^[aegis-emergenz-aus-der-leere.md:L130] | **conflict** |
 | `Zero-Trust` | an AEGIS **sub-function** ^[entropie-aegis.md:L65] | **Zero-Trust-Architektur (ZTA)**, an external cybersecurity architecture used as a comparison point for ZTV ^[…leere.md:L67] | **not a conflict** |
 
 **So string identity is anti-correlated with semantic identity here.** Where the
@@ -63,7 +63,7 @@ cybersecurity architecture ZTA in document 2, where it is a *yardstick* the
 postulate is measured against and explicitly distinguished from:
 
 > „ZTA verifiziert jedoch Zugriffsanfragen anhand von Identitäten, Gerätehygiene
-> und vordefinierten Policies, **nicht allein durch interne Selbstkonsistenz**"
+> und vordefinierten Policies, **nicht allein durch interne Selbstkonsistenz**" ^[aegis-emergenz-aus-der-leere.md:L67]
 > ^[…leere.md:L67]
 
 The true relation is not disagreement: **the project named a sub-function after
@@ -76,8 +76,8 @@ now had no supporting evidence. It has one.
 
 | | what quotation marks mark | examples |
 |---|---|---|
-| doc 1 | **invention** — the document is coining vocabulary | „Daten-Verwitterung", „Reinigungswellen", „Entropie-Signatur", „Überwelt" |
-| doc 2 | **citation** — the document is quoting the postulate it attacks | „Entropie-Resonanz-Protokolle", „Realitätsurgrund", „schöpferische Matrix" |
+| doc 1 | **invention** — the document is coining vocabulary | „Daten-Verwitterung" ^[entropie-aegis.md:L57], „Reinigungswellen" ^[entropie-aegis.md:L59], „Entropie-Signatur" ^[entropie-aegis.md:L69], `Überwelt` |
+| doc 2 | **citation** — the document is quoting the postulate it attacks | „Entropie-Resonanz-Protokolle" ^[aegis-emergenz-aus-der-leere.md:L17], „Realitätsurgrund" ^[aegis-emergenz-aus-der-leere.md:L126], „schöpferische Matrix" ^[aegis-emergenz-aus-der-leere.md:L126] |
 
 Nothing in either document marks which convention is in force. The punctuation is
 identical; the meaning is inverted.

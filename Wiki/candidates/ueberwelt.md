@@ -1,10 +1,10 @@
 ---
 term: Überwelt
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 aliases: ["Simulation"]
 gathered: "2026-09-16"
 ---
@@ -30,7 +30,7 @@ fact this source gives.
 ## What is definitional and what is proposal
 
 The sentence above is written as a *suggestion for how to visualise it*
-(„könnte […] visualisiert werden"), not as a statement about what the Überwelt
+(„könnte […] visualisiert werden" ^[entropie-aegis.md:L97]), not as a statement about what the Überwelt
 is. This document is a brief: it proposes.
 
 **Recorded as a reading anyway**, because the proposal presupposes the
@@ -40,7 +40,7 @@ where the struggle happens.
 ## Open
 
 What the Überwelt is *made of*, who else is in it, and how it relates to the
-non-digital „externe Ebene" the brief asks about ^[entropie-aegis.md:L71]. None
+„externen, nicht-digitalen Ebene" the brief asks about ^[entropie-aegis.md:L71]. None
 of it is here.
 
 ## Reading — `kohaerenzprotokoll-aegis-und-systementropie`, 2025-04-19
@@ -120,7 +120,7 @@ is not a surface of its head (J28).
 ## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
 
 Outside the worlds: „Überwelt (Operationsraum von AEGIS)" ^[kapitel-kompendium-gather-2026-05-31-md.md:L170]. **And inside
-one, as a name**: KW3 is „Cerberus-Labyrinth / Überwelt-Nexus", „Maschinenraum
+one, as a name**: KW3 is `Cerberus-Labyrinth / Überwelt-Nexus`, „Maschinenraum
 hinter dem Rendering" ^[kapitel-kompendium-gather-2026-05-31-md.md:L165]. The document gives both and relates neither (J63).
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
@@ -135,7 +135,7 @@ setting only in Kap 33 (L805).
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 „AEGIS' Operationsraum / Maschinenraum hinter dem Rendering." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L416] — the gloss
-the Kapitel-Kompendium gave to KW3's „Überwelt-Nexus", given here to the Überwelt
+the Kapitel-Kompendium gave to KW3's `Überwelt-Nexus`, given here to the Überwelt
 itself, while KW3 carries the name again (L410; J63).
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
@@ -144,3 +144,7 @@ Established in the [[genesis|Genesis]] — Kap 0's sequence ends „Komponente 7
 Weite (Überwelt-Etablierung)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] — and Kap 1's setting is it: „das sterile
 Setting ist die Innere Weite (Überwelt) aus Kap 0" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265], „der Leser erkennt das
 wieder; Kael nicht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]. The establishment and the place are two terms (J52).
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- the Inner Expanse and establishment of the Overworld before the crisis: „Die Innere Weite (Überwelt-Etablierung)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L295]

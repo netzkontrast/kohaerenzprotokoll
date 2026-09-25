@@ -40,7 +40,7 @@ line.
 
 ## Stance — this document marks none
 
-`grep` finds no stance label anywhere: no „Beschreibung", „Bewertung",
+`grep` finds no stance label anywhere: no `Beschreibung`, `Bewertung`,
 `[User Query]` or equivalent. Whatever is said below about how to read it is
 **inference from the text**, not something the document declares.
 
@@ -62,7 +62,7 @@ a consequence of it being a commission.*
 | AEGIS | 19 | 17,19,21,59,63,65,69,71,81,89,93–99 | defined | „Autonomous Entropic Gatekeeper for Integrity Systems" ^[L19]; regulates the order→disorder transition to preserve coherence and integrity ^[L21] |
 | Entropic Gatekeeper | 7 | 13,19,59,65,89,94,97 | role | AEGIS' role; **four occurrences carry no `AEGIS` in the sentence** |
 | Überwelt | 10 | 13,17,57,80,89,93,94,97,99 | role | the digital world AEGIS governs; „Domäne des Entropic Gatekeepers" ^[L97] |
-| Kern-Welten | 1 | 93 | known | „simulierte Kern-Welten", inside the same system as the Überwelt |
+| Kern-Welten | 1 | 93 | known | „simulierte Kern-Welten" ^[L93], inside the same system as the Überwelt |
 | Risse | 3 | 93,94 | defined | „direkte Manifestationen einer Zunahme von Entropie" beyond AEGIS' capacity ^[L94] |
 | Guardians | 3 | 93,96 | role | „spezialisierte Agenten dieses Entropie-Managements" ^[L93] |
 | Integrity Guardian | 1 | 65 | known | one of four named sub-functions — **a different term from `Guardians`** |
@@ -75,7 +75,7 @@ a consequence of it being a commission.*
 | Alters | 1 | 69 | asked | „die verschiedenen Bewusstseinszustände oder \"Alters\"" ^[L69] |
 | Entropie-Signatur | 1 | 69 | asked | a proposed per-alter metric; the only content is the example „Angst als hohe Entropie" ^[L69] |
 | Negentropie | 2 | 71,96 | asked | a possible order AEGIS cannot parse ^[L71]; „lebensfördernde Struktur" ^[L96] |
-| Multiplizität | 1 | 95 | known | „gesunde Komplexität/Multiplizität" as against „destruktive Entropie/Chaos" |
+| Multiplizität | 1 | 95 | known | „gesunde Komplexität/Multiplizität" ^[L95] as against `destruktive Entropie/Chaos` |
 | Kontrollinstanz | 3 | 13,17,89 | descriptor | „nicht-anthropomorphe Kontrollinstanz namens AEGIS" ^[L17] — never appears without AEGIS beside it |
 
 ## The root term is used as known and commissioned at once
@@ -91,9 +91,9 @@ as external:
 
 | sense | asked at |
 |---|---|
-| thermodynamic — „Maß für Unordnung/Zustandsvielfalt", Zweiter Hauptsatz | 29 |
-| information-theoretic — Shannon, „Maß für Unsicherheit, Informationsgehalt, Rauschen, Redundanz" | 31 |
-| metaphorical — „psychische Entropie", entropy in social systems | 33 |
+| thermodynamic — „Maß für Unordnung/Zustandsvielfalt" ^[L29], Zweiter Hauptsatz | 29 |
+| information-theoretic — Shannon, „Maß für Unsicherheit, Informationsgehalt, Rauschen, Redundanz" ^[L31] | 31 |
+| metaphorical — „psychische Entropie" ^[L33], entropy in social systems | 33 |
 
 So the document supports four things called entropy and defines none: three it
 names as external and asks about, and a fourth — its own working sense — that
@@ -120,11 +120,11 @@ information-theory terms.
 
 | term | line | what it is |
 |---|---|---|
-| „Daten-Verwitterung" | 57 | a proposed visual metaphor for entropy in a digital world |
-| „Reinigungswellen" | 59 | a proposed visible AEGIS intervention |
-| „Entropie-Signatur" | 69 | a proposed per-alter metric |
+| „Daten-Verwitterung" ^[L57] | 57 | a proposed visual metaphor for entropy in a digital world |
+| „Reinigungswellen" ^[L59] | 59 | a proposed visible AEGIS intervention |
+| „Entropie-Signatur" ^[L69] | 69 | a proposed per-alter metric |
 | Quarantänezonen | 59 | a proposed containment mechanism |
-| „Überwelt" | 13,57 | the world's name, introduced in quotes |
+| `Überwelt` | 13,57 | the world's name, introduced in quotes |
 
 **In this document, quotation marks mark invention.** The document is proposing
 vocabulary, not quoting a source.
@@ -140,7 +140,7 @@ that line is the document guessing at its own vocabulary.
 ## What the extraction ran into
 
 **1. The frontmatter is inside the file.** Lines 1–9 carry `title` and `slug`, so
-„Entropie aegis" ^[L3] and `entropie-aegis` ^[L4] both answer a search for the
+the frontmatter title `Entropie aegis` ^[L3] and `entropie-aegis` ^[L4] both answer a search for the
 term. `Entropie` occurs 53 times in the body and 54 in the file, and a
 case-insensitive search adds the slug on top.
 
@@ -149,7 +149,7 @@ Line numbers count from line 1, which is decided (`Sources/README.md`), so
 file, by design.
 
 **2. Substrings are not terms.** `Guardians` ⊄ `Integrity Guardian`;
-`Negentropie` contains `entropie` and means its opposite. A count of „Guardian"
+`Negentropie` contains `entropie` and means its opposite. A count of `Guardian`
 returns 4 and merges two different things.
 
 **3. The converter's escaping sits inside the terms.** `\"Julia\"` at L71 is a

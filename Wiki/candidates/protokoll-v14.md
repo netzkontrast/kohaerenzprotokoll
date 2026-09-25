@@ -17,7 +17,7 @@ worse. Because [[aegis|AEGIS]] misdiagnoses the cause — see [[blinder-fleck|On
 against the symptom:
 
 1. isolate [[kael|Kael]]'s [[kern-welten|Kern-Welten]] further
-2. flood his sector with corrective data or „Kohärenzfeldern"
+2. flood his sector with corrective data or „Kohärenzfeldern" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L182]
 3. force-reintegrate or shut down his fragmented identities ^[kohaerenzprotokoll-aegis-und-systementropie.md:L181-183]
 
 Each fails, because none addresses the severed bond. Failure is then read as

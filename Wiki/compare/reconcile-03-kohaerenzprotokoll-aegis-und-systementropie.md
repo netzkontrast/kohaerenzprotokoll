@@ -36,9 +36,8 @@ as a high-entropy state; this one says yes, and containable.
 The word appears in **both** earlier sources — once in one, 48 times in the other
 — and neither defines it. It got no page, correctly.
 
-This source gives the first operational definition: „niedrige Entropie, hohe
-Vorhersagbarkeit, logische Konsistenz […] messbar über die *Redundanz*"
-^[…:L27].
+This source gives the first operational definition: „niedrige Entropie, hohe Vorhersagbarkeit, logische Konsistenz" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L27] und „über die *Redundanz*"
+^[kohaerenzprotokoll-aegis-und-systementropie.md:L27].
 
 **A term can be everywhere and mean nothing yet**, and the page is created at the
 moment that stops being true rather than at first occurrence.

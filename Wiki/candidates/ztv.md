@@ -10,7 +10,7 @@ gathered: "2026-09-16"
 
 # ZTV — Vertrauenlose Validierung
 
-One of eight protocols of an „AEGIS-Postulat" that the only source **analyses
+One of eight protocols of an „AEGIS-Postulat" ^[L11] that the only source **analyses
 rather than authors**. So every reading is doubly attributed: what the postulate
 claims, and what this source says about the claim.
 

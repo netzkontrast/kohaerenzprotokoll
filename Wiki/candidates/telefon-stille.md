@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -20,7 +20,7 @@ gathered: "2026-09-24"
 > „Diese Telefon-Stille = Mutual Information ohne Datenträger = K1-Substrat =
 > Vortex-Quelle." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L268]
 
-It is the drift test for every scene — „Block-4-Anker (Telefon-Stille)" (L1200) —
+It is the drift test for every scene — „Block-4-Anker (Telefon-Stille)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1200] (L1200) —
 and the source of Vortex beat 3 (L1144).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
@@ -55,3 +55,7 @@ atemporal, unauslöschlich, ewig." ^[kohaerenz-protokoll-begriffe-und-konzepte-2
 expliziter Anker." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L401] Kap 24, titled for it (L803): „Telefon-Stille als hörbare
 Substanz." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L813] Kap 30: „nur die Telefon-Stille wird zur klingenden Substanz"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961]. Its OQ-B: „Telefon-Stille gesetzt, weitere Modi offen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1370].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- main anchor of Juna’s modes before direct appearance: „Telefon-Stille ist der Hauptanker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L744]

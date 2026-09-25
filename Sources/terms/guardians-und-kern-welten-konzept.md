@@ -97,10 +97,10 @@ What it is, stated only by its effect:
 
 | world | how the echoes appear | line |
 |---|---|---|
-| Konstrukt-Stadt | „unerklärliche Abweichungen von der Logik, die sich jedoch qualitativ anders *anfühlen* als reine Systemfehler" | 40 |
-| Resonanz-Landschaft | „die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels" | 65 |
-| Grenzfeste | „Anomalien, die sich den Sicherheitsprotokollen widersetzen, aber keine offensichtliche feindliche Absicht zeigen" | 90 |
-| Möglichkeits-Garten | „mit außergewöhnlicher Klarheit und Kraft" | 129 |
+| Konstrukt-Stadt | „unerklärliche Abweichungen von der Logik, die sich jedoch qualitativ anders *anfühlen* als reine Systemfehler" ^[L40] | 40 |
+| Resonanz-Landschaft | „die stärksten und klarsten Ankerpunkte inmitten des emotionalen Nebels" ^[L65] | 65 |
+| Grenzfeste | „Anomalien, die sich den Sicherheitsprotokollen widersetzen, aber keine offensichtliche feindliche Absicht zeigen" ^[L90] | 90 |
+| Möglichkeits-Garten | „mit außergewöhnlicher Klarheit und Kraft" ^[L129] | 129 |
 
 **And the Partnerin is what every Guardian is blind to.** This is stated as the
 document's purpose ^[L17] and its closing claim ^[L137].
@@ -114,7 +114,7 @@ document's purpose ^[L17] and its closing claim ^[L137].
 | Nexus | 11 | 29,54,79,106,118,122 | the meta-space where Guardians appear |
 | Überraum | 5 | 29,54,79,106,118 | **the same space, second name, same sentences** |
 | Kohärenz-Programm | 6 | 24,36,49,74 | the system as a whole |
-| „Das Seelen-Kohärenz-Protokoll" | 3 | 11,15 | the project's name, as this document gives it |
+| „Das Seelen-Kohärenz-Protokoll" ^[L11] | 3 | 11,15 | the project's name, as this document gives it |
 | Persona(s) | 18 | 74, … | the consciousness instances the Guardians watch over |
 | Bewusstseinsinstanzen | 1 | 74 | glossed beside `Personas` in the same clause |
 | Philosophen-Modus · Forscher-Modus · Magier-Modus | 7 | 26,51,103,115 | an external framework, referenced as known |
@@ -132,7 +132,7 @@ worlds. `profile.py` counts them correctly and calling them stance markers would
 be wrong — **the same probe finds two unrelated things.**
 
 **2. Two `### A.` headings in one section.** ^[L98] „A. Guardian Kairos" and
-^[L110] „A. Guardian Sophia" both sit under ^[L94] section IV. Heading-based
+^[L110] `A. Guardian Sophia` both sit under ^[L94] section IV. Heading-based
 addressing collides here, and the duplicate is in the source.
 
 **3. The document's own count does not match its own content.** „die vier
@@ -145,8 +145,8 @@ So *four pairs, five Guardians* is correct and the count is not an error — but
 any tally taken from the prose without reading that parenthesis is off by one.
 
 **4. Two names for one space, in the same sentences.** `Nexus` (11) and
-`Überraum` (5); the field is called „Repräsentation im **Nexus**" while every
-filled instance begins „Im **Überraum**…". One document, two surfaces, no
+`Überraum` (5); the field is called „Repräsentation im **Nexus**" ^[L29] while every
+filled instance begins „Im **Überraum**…" ^[L29]. One document, two surfaces, no
 statement that they are the same.
 
 **5. Singular and plural of the central term split the count.** `Kern-Welten` 9,

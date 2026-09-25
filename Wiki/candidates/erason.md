@@ -1,10 +1,10 @@
 ---
 term: Erason
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -36,3 +36,7 @@ physikalische Gesetz der Romanwelt" ^[koharenz-protokoll-konzept-konsolidiert-20
 „Erasonen erzeugen den Zeitpfeil, weil jede Löschung ein Vorher/Nachher
 etabliert." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L43] And in the novel: „Im Roman die operative Sprache von AEGIS'
 Aktivität (Erasure-Sweeps, Erasure-Logs)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L43]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- named as the domain of Oblivion, without further definition: „Oblivion (Erason-Operator)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]

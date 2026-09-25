@@ -41,7 +41,7 @@ of them.** Recorded here so the split is a decision rather than a discovery.
 It is **not expanded anywhere in this document**. If a later source writes out
 what it stands for, the expansion and this acronym share no characters, and
 nothing will connect them — the same failure mode as `Entropic Gatekeeper`
-against „Wächter der systemischen Stabilität".
+against „Wächter der systemischen Stabilität" ^[kohaerenzprotokoll-aegis-und-systementropie.md:L15].
 
 Three plausible readings exist and this page picks none: *Security Information
 System*, *System Integrity Service*, *Simulated Identity Substrate*. **All three
@@ -54,5 +54,5 @@ recognised when it arrives.
 „Ist Zero-Trust eine Methode, um die Ausbreitung von „entropischen" Fehlern zu
 verhindern?" ^[entropie-aegis.md:L65]. This document, in a background question it labels `[V]`, has AEGIS
 enforce separation between the worlds by „Zero-Trust-Boundary-Protocols"
-^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L702], to stop „Cross-Contamination". A compound, two terms (J66); placed here
+^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L702], to stop „Cross-Contamination" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L702]. A compound, two terms (J66); placed here
 because it states a use of the Zero-Trust function.

@@ -1,0 +1,61 @@
+{
+ "model": "nex-agi/nex-n2.5-mini:free",
+ "provider": "Nex AGI",
+ "seconds": 2.6,
+ "content": "[[ ## decision ## ]]\ntwo-terms\n\n[[ ## rule ## ]]\n„Die Große Mauer“ bezeichnet ein konkretes Bauwerk, während „Grenzfeste“ eine allgemeine Bezeichnung für eine Grenzfestung ist.\n\n[[ ## completed ## ]]",
+ "response": {
+  "id": "gen-1790322560-VWZltUt3TUraOZxwYBWs",
+  "object": "chat.completion",
+  "created": 1790322560,
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "provider": "Nex AGI",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "[[ ## decision ## ]]\ntwo-terms\n\n[[ ## rule ## ]]\n„Die Große Mauer“ bezeichnet ein konkretes Bauwerk, während „Grenzfeste“ eine allgemeine Bezeichnung für eine Grenzfestung ist.\n\n[[ ## completed ## ]]",
+     "refusal": null,
+     "reasoning": "\nWe need answer to user. Need infer task from conversation? We have examples? User provides first/second and asks \"Respond with corresponding output fields, starting...\" It seems task: decide if two surface forms same concept in corpus? Need output exact fields. Need classify \"Die Große Mauer\" vs \"Grenzfeste\". German. Need decide one-term or two-terms? Need understand \"Oberflächenformen derselbe Begriff im Korpus\" maybe entity/concept equivalence? \"Die Große Mauer\" (The Great Wall) vs \"Grenzfeste\" (border fortification/frontier fortress). Are they same concept? likely no. Need output two-terms. Rule in German? Need \"Ein Kompositum...\" etc. Need concise. Must follow exact structure. Need no extra.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "\nWe need answer to user. Need infer task from conversation? We have examples? User provides first/second and asks \"Respond with corresponding output fields, starting...\" It seems task: decide if two surface forms same concept in corpus? Need output exact fields. Need classify \"Die Große Mauer\" vs \"Grenzfeste\". German. Need decide one-term or two-terms? Need understand \"Oberflächenformen derselbe Begriff im Korpus\" maybe entity/concept equivalence? \"Die Große Mauer\" (The Great Wall) vs \"Grenzfeste\" (border fortification/frontier fortress). Are they same concept? likely no. Need output two-terms. Rule in German? Need \"Ein Kompositum...\" etc. Need concise. Must follow exact structure. Need no extra.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 900,
+   "completion_tokens": 220,
+   "total_tokens": 1120,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 896,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 179,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

@@ -112,7 +112,7 @@ metaphernreich, oft poetisch ohne dies zu wissen." ^[kohaerenz-protokoll-charakt
 „Mnemosyne kann Kael „den Schmerz löschen"." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L202]
 
 This is the first source that makes her the Erinnerungs-Wächterin by title
-(„Mnemosyne (Erinnerungs-Wächterin)", L182) — see `q4-waechter-four-bearers`.
+(„Mnemosyne (Erinnerungs-Wächterin)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L182], L182) — see `q4-waechter-four-bearers`.
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
 

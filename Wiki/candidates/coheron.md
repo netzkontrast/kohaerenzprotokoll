@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -35,7 +35,7 @@ What a Coheron is in the physics proper. The document excludes that on purpose:
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
-**What [[aegis|AEGIS]] takes for an error.** „Juna = Systemfehler" is [[aegis|AEGIS]]' belief; „Juna
+**What [[aegis|AEGIS]] takes for an error.** `Juna = Systemfehler` is [[aegis|AEGIS]]' belief; „Juna
 = echtes Coheron (Verbindung, die nie zerstört werden kann)" is what holds
 ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L108]. Why AEGIS cannot see them: „weil AEGIS' Sensorik strukturell temporal
 arbeitet und Coheronen atemporal sind" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L256]. The closing formula is the one
@@ -70,3 +70,7 @@ Zerstörung ein Vorher/Nachher voraussetzt." ^[kohaerenz-protokoll-begriffe-und-
 [[juna|Juna]] in Kap 0: „Juna (als unbenannte Resonanz, atemporales Coheron)"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237]. [[silas|Silas]]'s correlate: „Coheron-Echo, Tunneling" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L155], and in Kap
 31 „Silas (Coheron-Echo)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L989].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- named as the domain of Silas, without further definition: „Silas (Coheron-Echo)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]

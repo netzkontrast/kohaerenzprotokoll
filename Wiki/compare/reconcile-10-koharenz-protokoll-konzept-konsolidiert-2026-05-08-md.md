@@ -20,7 +20,7 @@ the third canon-era document, dated the same day as the character bible.
 ## What kind of document this is
 
 A synthesis — „Konsolidierte Synthese aller Iterationen" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L2] — that asserts
-flat, marks passages „(gelockt)", keeps its open points in a seven-row OQ table
+flat, marks passages `(gelockt)`, keeps its open points in a seven-row OQ table
 (L1198–L1218), and ends by claiming authority: „Diese Datei ist autoritative Spec."
 ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1395] **Recorded, not applied** (decision 006).
 
@@ -48,7 +48,7 @@ placed by what it states (J62).
 | C11 | the Landauer trace | warmth in Kap 6 and Kap 36 | document 7: cold ozone, warmth only at Vortex 1 Beat 4 |
 | C12 | the Genesis | four beats, Komp 734 before the Trennungsprotokoll | document 8: three, Komp 734 its result |
 
-Document 7 records C11 itself, against „an outline of 2026-05-08" in this
+Document 7 records C11 itself, against `an outline of 2026-05-08` in this
 document's exact words, and resolves it by date. C12 has no date to order it:
 both sides are 2026-05-08.
 

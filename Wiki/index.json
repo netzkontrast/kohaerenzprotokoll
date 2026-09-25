@@ -1,7 +1,7 @@
 {
-  "built": "2026-09-24",
+  "built": "2026-09-25",
   "by": "scripts/wiki_index.py",
-  "pages": 92,
+  "pages": 93,
   "conflicts": 12,
   "terms": {
     "aegis-metriken": {
@@ -62,10 +62,12 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 11,
-      "readings": 12,
+      "sources": 13,
+      "readings": 14,
       "conflict": "C1, C8"
     },
     "alex": {
@@ -79,10 +81,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "algorithmische-melancholie": {
@@ -97,10 +100,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "alters": {
@@ -117,10 +122,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 8,
-      "readings": 7,
+      "sources": 10,
+      "readings": 9,
       "conflict": "none here — known elsewhere"
     },
     "ani": {
@@ -174,10 +181,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "ars": {
@@ -245,10 +253,11 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "C4, C6"
     },
     "coheron": {
@@ -263,10 +272,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "datenverarbeitungsknoten-7g": {
@@ -352,10 +363,11 @@
       "ingested": [
         "aegis-emergenz-aus-der-leere",
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 4,
+      "readings": 4,
       "conflict": "C3"
     },
     "entropie-katastrophe": {
@@ -429,10 +441,11 @@
       ],
       "ingested": [
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none"
     },
     "evaluierungseinheit": {
@@ -462,10 +475,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none yet"
     },
     "garten-der-stillen-praesenz": {
@@ -495,10 +509,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 7,
+      "readings": 7,
       "conflict": "C12"
     },
     "grenzfeste": {
@@ -549,10 +565,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 11,
-      "readings": 11,
+      "sources": 12,
+      "readings": 12,
       "conflict": "C4, C6"
     },
     "hitze-polaritaetsregel": {
@@ -563,10 +580,11 @@
       ],
       "ingested": [
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "C11"
     },
     "isabelle": {
@@ -580,10 +598,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "juna": {
@@ -602,10 +621,12 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 11,
+      "readings": 11,
       "conflict": "C7"
     },
     "junas-ankerpunkt": {
@@ -623,6 +644,19 @@
       "readings": 3,
       "conflict": "none"
     },
+    "k0-existenz": {
+      "title": "K0-Existenz",
+      "surfaces": [
+        "K0-Existenz",
+        "k0-existenz"
+      ],
+      "ingested": [
+        "koharenz-protokoll-konzept-iteration-genesis-md"
+      ],
+      "sources": 1,
+      "readings": 1,
+      "conflict": ""
+    },
     "kael-julia-bindung": {
       "title": "Kael-Julia-Bindung",
       "surfaces": [
@@ -632,10 +666,11 @@
       ],
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
-        "kapitel-kompendium-gather-2026-05-31-md"
+        "kapitel-kompendium-gather-2026-05-31-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 2,
-      "readings": 2,
+      "sources": 3,
+      "readings": 3,
       "conflict": "none yet"
     },
     "kael": {
@@ -654,10 +689,12 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 9,
-      "readings": 9,
+      "sources": 11,
+      "readings": 11,
       "conflict": "C10"
     },
     "kaels-wohneinheit": {
@@ -673,10 +710,11 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "kairos": {
@@ -691,10 +729,11 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "C4, C6"
     },
     "kern-welten": {
@@ -715,10 +754,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 10,
-      "readings": 9,
+      "sources": 12,
+      "readings": 11,
       "conflict": "C6, C9"
     },
     "kiko": {
@@ -732,10 +773,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "kohaerenz-kernel": {
@@ -775,10 +817,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kapitel-kompendium-gather-2026-05-31-md"
+        "kapitel-kompendium-gather-2026-05-31-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none yet"
     },
     "kollaps-kernel": {
@@ -808,10 +851,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C9"
     },
     "landauer-signatur": {
@@ -826,10 +870,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "C11"
     },
     "lex": {
@@ -843,10 +888,12 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "lia": {
@@ -860,10 +907,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "logos": {
@@ -878,10 +926,11 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "C4, C6"
     },
     "mnemosyne-server-architektur": {
@@ -912,10 +961,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "C4, C6"
     },
     "moeglichkeits-garten": {
@@ -934,10 +984,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "C5"
     },
     "moonshine-link": {
@@ -953,10 +1004,12 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "moros": {
@@ -970,10 +1023,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "mosaik-herz": {
@@ -986,10 +1040,12 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "multiplizitaet": {
@@ -1007,10 +1063,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none yet"
     },
     "negentropie": {
@@ -1048,6 +1105,7 @@
     "nichts-rauschen": {
       "title": "Nichts-Rauschen",
       "surfaces": [
+        "K1-Reinform",
         "Nichts-Rauschen",
         "nichts-rauschen"
       ],
@@ -1056,10 +1114,12 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "nullpunkt-protokoll": {
@@ -1087,10 +1147,11 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 7,
+      "readings": 7,
       "conflict": "none"
     },
     "oblivion": {
@@ -1106,10 +1167,12 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "partnerin": {
@@ -1178,10 +1241,12 @@
       "ingested": [
         "kohaerenzprotokoll-aegis-und-systementropie",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 3,
-      "readings": 3,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none yet"
     },
     "protokoll-v14": {
@@ -1239,10 +1304,11 @@
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 4,
-      "readings": 4,
+      "sources": 5,
+      "readings": 5,
       "conflict": "none"
     },
     "risse": {
@@ -1263,10 +1329,11 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 10,
-      "readings": 10,
+      "sources": 11,
+      "readings": 11,
       "conflict": "none yet"
     },
     "rsa": {
@@ -1320,10 +1387,11 @@
         "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "none"
     },
     "silas": {
@@ -1339,10 +1407,12 @@
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 7,
-      "readings": 7,
+      "sources": 9,
+      "readings": 9,
       "conflict": "none"
     },
     "snk": {
@@ -1369,10 +1439,11 @@
         "roman-lokalitaeten-konzept-und-ausarbeitung",
         "kohaerenz-protokoll-charakter-bibel-2026-05-08-md",
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
-        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"
+        "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md"
       ],
-      "sources": 5,
-      "readings": 5,
+      "sources": 6,
+      "readings": 6,
       "conflict": "C4, C6"
     },
     "system-monitor": {
@@ -1402,10 +1473,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 8,
+      "readings": 8,
       "conflict": "none"
     },
     "therapie-schnittstelle-alpha": {
@@ -1434,10 +1507,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "dramatica-dual-storyform-status-2026-05-07-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 6,
-      "readings": 6,
+      "sources": 8,
+      "readings": 8,
       "conflict": "C12"
     },
     "ueberraum": {
@@ -1468,10 +1543,12 @@
         "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md",
         "kapitel-kompendium-gather-2026-05-31-md",
         "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md",
-        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"
+        "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md",
+        "koharenz-protokoll-strukturierter-outline-2026-05-18-md",
+        "koharenz-protokoll-konzept-iteration-genesis-md"
       ],
-      "sources": 8,
-      "readings": 8,
+      "sources": 10,
+      "readings": 10,
       "conflict": "none yet"
     },
     "vergessener-schrein": {
@@ -1593,6 +1670,7 @@
     "julia": "juna",
     "juna": "juna",
     "junasankerpunkt": "junas-ankerpunkt",
+    "k0existenz": "k0-existenz",
     "kjbindung": "kael-julia-bindung",
     "kaeljuliabindung": "kael-julia-bindung",
     "kael": "kael",
@@ -1629,6 +1707,7 @@
     "multiplizitaet": "multiplizitaet",
     "negentropie": "negentropie",
     "nexus": "nexus",
+    "k1reinform": "nichts-rauschen",
     "nichtsrauschen": "nichts-rauschen",
     "nullpunktprotokoll": "nullpunkt-protokoll",
     "nyx": "nyx",

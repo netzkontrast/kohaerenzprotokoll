@@ -1,0 +1,61 @@
+{
+ "model": "nex-agi/nex-n2.5-mini:free",
+ "provider": "Nex AGI",
+ "seconds": 1.4,
+ "content": "[[ ## decision ## ]]\none-term\n\n[[ ## rule ## ]]\nEin expliziter Plural-Suffix wie „-plural“ bezeichnet dieselbe Oberfläche und ist keine Begriffsgrenze.\n\n[[ ## completed ## ]]",
+ "response": {
+  "id": "gen-1790323234-PVmqgr9RFyYCqLY1O4c6",
+  "object": "chat.completion",
+  "created": 1790323234,
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "provider": "Nex AGI",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "[[ ## decision ## ]]\none-term\n\n[[ ## rule ## ]]\nEin expliziter Plural-Suffix wie „-plural“ bezeichnet dieselbe Oberfläche und ist keine Begriffsgrenze.\n\n[[ ## completed ## ]]",
+     "refusal": null,
+     "reasoning": "\nWe need answer according to exact structure likely decision one-term, normalize plural Wir-AEGIS-plural -> Wir-AEGIS. Need infer rule German \"plural -plural\" suffix, same term. Must output fields beginning decision, rule, completed. In German? Rule perhaps \"Ein expliziter englischer Plural-Suffix wie -plural ist keine Begriffsgrenze.\" Need no extra. Ensure first field valid.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "\nWe need answer according to exact structure likely decision one-term, normalize plural Wir-AEGIS-plural -> Wir-AEGIS. Need infer rule German \"plural -plural\" suffix, same term. Must output fields beginning decision, rule, completed. In German? Rule perhaps \"Ein expliziter englischer Plural-Suffix wie -plural ist keine Begriffsgrenze.\" Need no extra. Ensure first field valid.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 922,
+   "completion_tokens": 137,
+   "total_tokens": 1059,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 96,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

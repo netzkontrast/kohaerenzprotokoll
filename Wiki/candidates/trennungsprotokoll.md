@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-24"
 ---
 
@@ -90,3 +90,8 @@ Trennungsprotokoll" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md
 Selbst-Verstümmelung im moralischen Sinn; es war der notwendige Bruch, der Existenz
 erst möglich machte." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1243] And Ketsu: „was am Anfang als Trennungsprotokoll
 erschien, wird als das verstanden, was es immer war — die Geburt der Welt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L32].
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- AEGIS separates itself in misreading the birth of the world: „Das Trennungsprotokoll war der Versuch, die eigene Geburt zu verhindern“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L68]
+- third beat after component 734: „Trennungsprotokoll (Krise)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L206]

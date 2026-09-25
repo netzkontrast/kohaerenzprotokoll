@@ -96,9 +96,32 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
-- **Model runs.** Three runs are one command each and wait on a yes, because
-  each sends corpus words to OpenRouter: `pairs.py run --optimizer labeled
-  --rule plural`, `graphrag.py ask --answer`, `rlm_ingest.py`.
+- **Decision 011 — confirm or narrow.** On „Use dspy Optimierung on the
+  Scripts" and „Add openrouter free Models in the mix" the session let DSPy
+  runs use Claude through `claude -p` — treated as first party, the precedent of
+  document 14's second readers — and free OpenRouter models through `route.py`,
+  pinned, for surfaces and rules only. The `pairs.py` ladder ran under it
+  (`Plan/concept/dspy-optimization_2026-09-25.md`). Claude calls draw on your
+  usage.
+- **A model's merges as a review queue?** Bootstrap on Haiku found 12.7 of the
+  19 merges the plural rule misses, with one false merge (J74). Nothing turns a
+  model's merge into a ledger entry; listing them for you to judge is one small
+  step, and yours to allow.
+- **J68 again.** With the document's lines as evidence, Haiku merged
+  `Ursprungs-Ich` and `Juna` in every repeat, from the glossary's own „das
+  Ursprungs-Ich (Juna)". The ledger says two terms; the question below asks which.
+- **SIMBA** — the one rung not run: about $8 of Claude usage, no published
+  evidence for it. Run it?
+- **`graphrag.py ask --answer` and `rlm_ingest.py`** may now run on Claude under
+  decision 011 (never on a free model: they send quotations and documents).
+  Neither has.
+- **DSPy labeled demo selection, 2026-09-24.** The offline `pairs.py` run now
+  excludes every exact never-merge canary from model training, including J5
+  (`Negentropie`/`Entropie`) which the ledger also contains. Its labeled rung
+  puts two other documented hard negatives in each fold's eight demos and
+  records the chosen IDs. This repairs the claimed holdout and makes the
+  selection inspectable. The ladder's model runs of 2026-09-25 (above) were
+  measured before it merged; their rows name the older harness.
 - **TypeSafe/Jev beyond the two uses already approved.**
 - **How far `ask` may go** — chosen quotations only, or also a framing sentence
   marked as the model's.
@@ -189,15 +212,12 @@ disagree. There is no such rule.
 **`juna.md` is titled by a name none of the read sources uses**, and `partnerin`
 may be a third surface for the same entity. Nothing read links them.
 
-**Whether the quote convention or the quote checker changes.**
-489 <!--state:quotes.unchecked--> quotations cannot be checked at all, because
-they carry no citation on their own line — usually a table cell whose line number
-sits in another column. One of the two has to give.
-
-Document 6 made this worse in a useful way: writing the citation *into* the table
-cell fixes it, and doing that for nine new pages was the difference between 0 and
-9 unchecked on them. The convention that would close this is „a quotation carries
-its reference in the same cell", and nothing has decided it.
+**The quote convention is in use.** A research-source quotation carries its
+citation on the same line and inside its table cell. Source labels and the
+wiki's own working sentences use code or emphasis; recorded author decisions
+link to their decision record. The checker reports 0
+<!--state:quotes.unchecked--> quotations without a resolvable source citation.
+`python3 scripts/quotes.py --unchecked` lists any new gaps with file and line.
 
 **Eight pages carry five identical sentences each — measured, not yet decided.**
 `ani` `ars` `ecr` `pms` `rsa` `snk` `ztv` `nullpunkt-protokoll` are the eight
@@ -224,9 +244,9 @@ German compounds that nothing has tested. The fixture is nearly free: every
 the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
-`pairs.RULES["plural"]` decides 44 <!--state:pairs.plural_correct--> of
-63 <!--state:pairs.labelled--> pairs where `fold()` decides
-36 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
+`pairs.RULES["plural"]` decides 48 <!--state:pairs.plural_correct--> of
+67 <!--state:pairs.labelled--> pairs where `fold()` decides
+40 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
 pages joined and 28 new merges across all 14 candidate lists, each a singular and
 its plural. It is a ledger row and the rule a model run asks first;
 reconciliation still uses `fold()` alone. Whether `fold()` adopts it is the
@@ -243,20 +263,20 @@ lines each judgement cites into the input
 (`Plan/concept/continuous-improvement_2026-09-17.md`, step 1) comes before any
 model run can learn them — and it widens what that run would send.
 
-**Which model runs are allowed — the toolchain is built and has called no
-model.** On 2026-09-23 the author asked for the wiki to become a knowledge base
-and a knowledge graph for GraphRAG, and for everything usable from the nine DSPy
-repositories to be ported. It is (`CLAUDE.md`, *The knowledge graph* and
-*Calling a model*). Three runs are now one command each, and each sends corpus
-words to OpenRouter, so each waits on its own yes — `--approval` is required
-and refused when empty:
+**Which model runs are allowed — decision 011, 2026-09-25.** On the author's
+„Use dspy Optimierung on the Scripts" and „Add openrouter free Models in the mix":
+Claude through `claude -p` for any DSPy program, and one free OpenRouter model
+through `route.py`, pinned, for what `pairs.py` sends. The ladder ran —
+LabeledFewShot, Bootstrap, InferRules and GEPA on Haiku, LabeledFewShot with
+document lines as evidence, and LabeledFewShot on the free models that answered;
+`python3 scripts/pairs.py report` reads every row, and
+`Plan/concept/dspy-optimization_2026-09-25.md` reads the results. Still one
+command each, and not run:
 
-- `pairs.py run --optimizer labeled --rule plural` — the cheapest rung, asked
-  only about the pairs the plural rule leaves; its floor is `rule:plural`, not
-  `rule:fold`. Cost: the surface pairs and their rules, a few thousand tokens.
-- `graphrag.py ask "…" --answer` — a model picks evidence numbers. Cost: the
-  question and eight quotations per call.
-- `rlm_ingest.py <slug>` — a whole document. Needs Deno as well.
+- `pairs.py run --optimizer simba …` — about $8 of Claude usage (above).
+- `graphrag.py ask "…" --answer` — a model picks evidence numbers; on Claude only.
+- `rlm_ingest.py <slug>` — a whole document, on Claude only; its own `dspy.LM`
+  would need `lmrun.make_lm` to reach Claude. Needs Deno as well.
 
 **How far `ask` may go.** `graphrag.py` returns verified quotations and never
 prose, because prose over two sources is a merge (P13). Whether an answer should
@@ -374,6 +394,14 @@ read document 14 **after** its candidate list was committed, as second readers.
 
 ## The `dspy` skill — landed, and what checking it against the code left open
 
+**DSPy itself was read on 2026-09-24/25**: nine readers over the installed 3.3.1
+package, its tests and docs, GEPA 0.1.4 and the papers
+(`Plan/concept/dspy-source_2026-09-24/`). Three claims of the skill were wrong and
+are corrected with probes; `lmrun.call` re-raised an unparseable answer that DSPy's
+JSON fallback lets escape, and records it now. The folder's `README.md` lists what
+they found that nothing here acts on yet — start there before changing anything
+that imports `dspy` or `gepa`.
+
 `.agents/skills/dspy` (netzkontrast/kohaerenzprotokoll#60) holds what the nine
 DSPy repositories contain, re-read in full on 2026-09-24 and sorted by the job
 at hand; `scripts/check_dspy_skill.py` holds it to the installed DSPy 3.3.1.
@@ -404,7 +432,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 10 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 11 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -543,7 +571,13 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — not yet chosen
+## Next document — Genesis iteration reconciled
+
+**The fifteenth document is done: `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-09-25.** Its 58 selected candidates yielded one new layer page (`k0-existenz`), a `K1-Reinform` alias on `nichts-rauschen`, readings on 22 pages, and new evidence on C7, C8, C11 and C12. `Wiki/compare/reconcile-16-koharenz-protokoll-konzept-iteration-genesis-md.md` records the work.
+
+Its explicit four-beat event sequence puts Komponente 734 before the separation; its chapter 21–22 flashbacks recall the separation before 734, a different narrative order that the source itself calls a proposal. C12 remains open. The source never writes `Ursprungs-Ich`: its division of subjective Kael and functional AEGIS refines the J68/J75 question but cannot settle the incompatible glosses. A strong next source is `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md` for C11; choose by the remaining conflicts rather than date.
+
+### Previous document — structured outline
 
 **The fourteenth is done: `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-09-24.** 576 candidates,
 no pages (an outline places; it defines little it does not also name as known),
@@ -563,7 +597,7 @@ spoke to more open records than any other unread canon-era document.
 - **The tools installed on 2026-09-24 read it too**, as second readers after the
   candidate list was committed — see *The new tools as second readers* below.
 
-What it leaves: 25 canon-era rows landed and unread. By the open records, the
+At that point it left 25 canon-era rows landed and unread. By the open records, the
 strongest next candidates are `koharenz-protokoll-konzept-iteration-genesis-md`
 (C12 and J75: 79 lines on the Genesis) and
 `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md` (C11: 14 lines with
@@ -729,36 +763,20 @@ and cannot go stale in a list.
 
 ## Known failing
 
-**`scripts/qmd_coverage.py` cannot fail while a collection is rooted at `.`.**
-It counts a file as covered when the file lies under any collection's root
-path, and the `decisions` and `all` collections are rooted at `.`, narrowed
-only by their patterns. So every markdown file passes, including `scripts/`
-and `.agents/skills/`, which no pattern indexes. Found by reading the script
-and `.qmd/index.yml` on 2026-09-24, and not run: that container had no qmd
-binary. The fix is to test a file against each collection's pattern, not its
-root.
+**The qmd coverage check reads collection patterns.** The previous version
+treated a collection rooted at `.` as covering all descendants, even when its
+pattern excluded them. It now checks `.qmd/index.yml`'s path and glob for each
+collection, with an offline test that exposes this exact defect. Tool and agent
+instructions under `scripts/`, `.agents/skills/` and `.claude/skills/` are
+explicit exclusions: qmd searches the novel corpus and process records, while
+those files are read directly when working on code. The check needs no qmd
+binary; it checks configured coverage, not the contents of an installed index.
 
-**17 <!--state:quotes.unresolved--> quotations do not resolve to the line they
-cite.** All predate `scripts/quotes.py`; every page written since is clean. An
-independent design (`dspy-wiki-compile`) weights this axis heaviest of six, at
-0.30 — so on that reading these are the highest-value open item here, not
-cleanup.
-
-`scripts/read.py --find` splits them into two piles that need different work:
-
-- **6 carry the document's own words and point at the wrong place.** Five cite a
-  line the phrase is not on; one is a table column holding a bare `128` where a
-  `^[L128]` belongs, so the checker paired the quote with the row above.
-- **11 quote words the document does not contain on any line.** The nearest line
-  is usually the cited one, at 37–79% in common — German declension bent to fit
-  an English sentence, inside quotation marks.
-
-**Neither pile is mechanical, and the tempting one is the trap.** „blinder
-Hausmeister" on `Wiki/candidates/aegis.md` cites L207 and those exact words are
-at L221 — but L207 carries the metaphor the page is actually reading, in the
-genitive. Repointing the number would make the citation resolve and the page
-wrong. Each correction is a reading decision, one commit per page naming its
-source document.
+**Citation resolution is complete:** 0 <!--state:quotes.unresolved-->
+quotations fail `scripts/quotes.py`, and 0 <!--state:quotes.unchecked-->
+research-source quotations lack a resolvable citation. The checker audits
+research-source wording; an author's recorded decision links to its decision
+record and is not treated as a quotation from a research document.
 
 ## Landed
 

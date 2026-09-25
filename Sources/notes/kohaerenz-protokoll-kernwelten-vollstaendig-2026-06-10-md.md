@@ -34,12 +34,12 @@ Figur" ^[L13].
 ## KW4 — three names, and one of them is also a place inside it
 
 - „KW4 — Kairos-Potentialis / Möglichkeits-Garten / Resonanz-Kontinuum" ^[L26];
-  „Andere kanonische Namen: „Möglichkeits-Garten", „Resonanz-Kontinuum"." ^[L404]
-- Among its canonical sub-locations, „Der Möglichkeits-Garten": „überwucherte
+  „Andere kanonische Namen: „Möglichkeits-Garten" ^[L404], „Resonanz-Kontinuum"." ^[L404]
+- Among its canonical sub-locations, „Der Möglichkeits-Garten" ^[L461]: „überwucherte
   Ruinenarchitektur; Funktionale Multiplizität als Erlebnis" ^[L461].
-- „Der Nexus": „Übergangsort zwischen KW4 und Externer Ebene; reine Information
+- „Der Nexus" ^[L462]: „Übergangsort zwischen KW4 und Externer Ebene; reine Information
   als Aufenthaltsraum" ^[L462].
-- „Mosaik-Herz": „Ort, an dem Kael Juna als Teil seiner selbst akzeptiert" ^[L463].
+- „Mosaik-Herz" ^[L463]: „Ort, an dem Kael Juna als Teil seiner selbst akzeptiert" ^[L463].
 - „Kairos und Sophia** als Guardians sind dekanonisiert" ^[L404].
 
 ## The Überwelt

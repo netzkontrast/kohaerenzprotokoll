@@ -4,7 +4,7 @@ subject: AEGIS' Approach in Storyform B
 kind: one Dramatica slot, two values in two canon-era sources
 status: open
 first_seen: "2026-09-24"
-sources: 7
+sources: 8
 pages: ["aegis"]
 ---
 
@@ -24,14 +24,16 @@ pages: ["aegis"]
 
 The second table's columns are A ([[kael|Kael]]) and B ([[aegis|AEGIS]]), so it gives Be-er to [[kael|Kael]]
 and Do-er to [[aegis|AEGIS]]. The first gives Be-er to both. The later document lists an
-„Approach-Spiegelung" among the results of the 2026-05-07 lock-in (L135) — a
+„Approach-Spiegelung" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L135] among the results of the 2026-05-07 lock-in (L135) — a
 mirrored approach — which the earlier one, dated a day after that lock-in, does
 not reflect. **That is an observation about the two texts, not a resolution.**
 
 ## 2026-09-24 — the author: every draft is back in question
 
-„Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
-sources wird die neue Ausgangslage." (decision 006)
+> Alle alten Entwürfe kommen wieder in Frage und müssen diskutiert werden —
+> sources wird die neue Ausgangslage.
+
+[Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
 
 No position above is retired by its date or by a source's claim to be canon.
 This record is now an **item for discussion** with the author; it closes when the
@@ -83,3 +85,11 @@ The lock-in's values, eleven days after it: B „Resolve: Steadfast · Growth: S
 Approach: Do-er · Style: Linear" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L59], A „Resolve: Change · Growth: Start ·
 Approach: Be-er · Style: Holistic" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L48]. It names the lock-in as its storyform
 source (L13, L1393).
+
+## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+The Storyform-B table assigns „Do-er“ to MC Approach
+^[koharenz-protokoll-konzept-iteration-genesis-md.md:L152], and explains it as
+the outward mode of the operational half ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L186].
+This supports the Do-er position, while the character bible's Be-er entry
+remains part of the record.

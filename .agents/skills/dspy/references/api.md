@@ -133,9 +133,17 @@ dspy.Signature("question: str, context: list[str] -> answer: str")   # string fo
   `append` / `prepend` / `insert` / `delete` / `with_updated_fields` edit the
   rest.
 - **A `Literal` output is enforced at parse time.** A value outside the set is
-  not a wrong answer, it is an unparseable one: both adapters refuse it and the
+  not a wrong answer, it is an unparseable one: `ChatAdapter` refuses it and the
   call raises `AdapterParseError`, which `lmrun.call` records as `unparsed`.
-  [checked: literal-out-of-set-unparsed] That is why `pairs.py`'s decision is a
+  [checked: literal-out-of-set-unparsed] **The JSON fallback does not**: when the
+  reply is valid JSON holding a value outside the set, `JSONAdapter.parse()`
+  lets a bare `ValueError` escape unwrapped — its text pydantic's validation
+  message or „'maybe' is not one of …", depending on the path.
+  [checked: json-fallback-literal-is-valueerror] `lmrun.call` records that as
+  `unparsed` too since 2026-09-25, by the frame it was raised in; before, it
+  re-raised it and one such answer would have ended a run
+  (`Plan/concept/dspy-source_2026-09-24/adapters-and-types.md`; this line said
+  „both adapters" until then). That is why `pairs.py`'s decision is a
   `Literal` and never free text: `Agentic-Dspy-Rag` routes on
   `"Comparative" in user_intent`, a substring test on whatever the model wrote
   (`Plan/concept/dspy-toolchain_2026-09-23.md`, job 1).
@@ -315,9 +323,14 @@ lm = dspy.LM("openrouter/<provider>/<model>", cache=True, num_retries=3, tempera
   construction: `temperature` must be 1.0 or None and `max_tokens` at least
   16,000, or `LMConfigurationError`. The test is `if temperature and …`, so
   `temperature=0.0` slips through (`dspy:clients/lm.py:48-53,125-133`).
-- `lm.copy(rollout_id=n)` gives calls their own cache key — only when
-  `temperature > 0`; at 0 DSPy warns that it has no effect. The copy starts
-  with an empty history (`dspy:clients/lm.py:98-102,165-170`).
+- `lm.copy(rollout_id=n)` gives calls their own cache key — at any
+  temperature, 0 included. [checked: rollout-id-busts-cache-at-zero-temperature]
+  At 0 DSPy still warns „rollout_id has no effect when temperature=0; set
+  temperature>0 to bypass the cache", and the warning is wrong about the cache:
+  two ids are two real calls. What temperature 0 leaves unchanged is the
+  provider's answer. The copy starts with an empty history
+  (`dspy:clients/lm.py:98-102,165-170`). This line said the opposite until
+  2026-09-25, taken from the warning (`Plan/concept/dspy-source_2026-09-24/lm-and-retrieval.md`).
 - With no LM configured, a call raises „No LM is loaded. Please configure the
   LM using `dspy.configure(lm=dspy.LM(...))`" (`dspy:predict/predict.py:154`).
 - `model_type` is `"chat"`, `"text"` or `"responses"`; extra keyword arguments

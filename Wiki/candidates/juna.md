@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
 gathered: "2026-09-16"
 ---
 
@@ -185,7 +185,7 @@ Juna auf?" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L407]
 
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
-**Two uses of „erscheinen" in one glossary.** The grammar rule: „Juna „erscheint"
+**Two uses of `erscheinen` in one glossary.** The grammar rule: „Juna „erscheint"
 nicht; ihre Wirkung wird wahrnehmbar" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L363]. The chapter plan: „direkt in Kap 38
 (Stille-Beat als erste direkte Erscheinung)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L370], „Stille-Beat: Junas erste
 direkte Erscheinung — sie ist einfach da, ohne Worte" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L611]. Conflict C7, on
@@ -218,3 +218,10 @@ side.
 „Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht."
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1385] In Kap 39: „Junas Stimme erscheint als Teil des Geflechts oder als Raum,
 in dem das Geflecht klingt." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1208]
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+- time principle and external anchor: „Juna als Zeit-Prinzip“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L52]
+- resonance as world birth: „Junas Resonanz brachte die Zeit“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L56]
+- hologram or echo in chapter 3: „als Hologramm/Echo, das verschwindet“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L516]
+- first direct appearance in chapter 38: „Junas erste direkte Erscheinung“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L656]

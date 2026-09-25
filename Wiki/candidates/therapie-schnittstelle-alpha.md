@@ -49,7 +49,7 @@ What „Alpha" enumerates. No second Schnittstelle is named.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
-**Gamma, not Alpha**, and from the quarry: „Therapie-Schnittstelle Gamma", „Raum
+**Gamma, not Alpha**, and from the quarry: „Therapie-Schnittstelle Gamma" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L167], „Raum
 für simulierte Therapiesitzungen mit AEGIS-Avatar/NPC" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L167], labelled `[S]` —
 compatible, with „AEGIS als Avatar statt LogOS" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L167]. The document names its
 quarry as the old location concepts, among them this page's first source (L13).

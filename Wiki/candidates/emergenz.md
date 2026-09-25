@@ -25,17 +25,17 @@ identified in an empty state space ^[L44].
 
 The formalisation is judged non-rigorous, and the argument is precise:
 
-> „Damit der Fixpunkt fix(f) formal Sinn ergibt, müssten die Funktion f […] und
-> ihre Domäne […] die erforderlichen Eigenschaften *vor* der Existenz von A₀
-> besitzen." ^[L45]
+> „Damit der Fixpunkt fix(f) formal Sinn ergibt, müssten die Funktion f" ^[aegis-emergenz-aus-der-leere.md:L45]
+
+The source requires properties of the function and its domain before the claimed emergence.
 
 > „Fixpunkttheoreme beschreiben Existenz *innerhalb* gegebener Strukturen, nicht
-> die Erschaffung dieser Strukturen *ex nihilo*." ^[L47]
+> die Erschaffung dieser Strukturen *ex nihilo*." ^[aegis-emergenz-aus-der-leere.md:L47]
 
 And physically and philosophically:
 
 > „Physikalisch betrachtet ist das Quantenvakuum kein echtes \"Nichts\" […]
-> Philosophisch steht dem das Prinzip *ex nihilo nihil fit* […] entgegen" ^[L102]
+> Philosophisch steht dem das Prinzip *ex nihilo nihil fit* […] entgegen" ^[aegis-emergenz-aus-der-leere.md:L102] ^[L102]
 
 ## Surfaces
 
@@ -67,7 +67,7 @@ to, not in the word.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 
-A property of KW4, not of [[aegis|AEGIS]]: „Emergenz statt Erhaltung" — „Einzige Zone, in der
+A property of KW4, not of [[aegis|AEGIS]]: `Emergenz statt Erhaltung` — „Einzige Zone, in der
 neue Coheronen entstehen können" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L400].
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18

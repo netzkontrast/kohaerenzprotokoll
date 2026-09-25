@@ -84,7 +84,7 @@ scale disagreement like `C5`.
 
 ## Decided by the author, 2026-09-24 — the Konstrukt-Stadt is KW1
 
-„Ne stop - es ist nur kw1" (conflict `C9`, corrected the same day after a first
+*Ne stop - es ist nur kw1* ([conflict C9](../conflicts/c9-konstrukt-stadt-scale.md), corrected the same day after a first
 answer recorded it as the whole simulation). The Konstrukt-Stadt is **KW1**, one
 of the four [[kern-welten|Kern-Welten]]. The Charakter-Bibel's reading of it as the whole
 simulation stays above as what that document said.

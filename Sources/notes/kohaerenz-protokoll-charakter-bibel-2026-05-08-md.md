@@ -16,8 +16,8 @@ reads_as: a workbench of character profiles — one template, twelve Alters — 
 ## How to read it
 
 „Dieses Dokument ist keine Datenbank. Es ist eine Werkbank." ^[L21] It asserts
-without hedging and marks what it leaves open: „(Lücke — bewusst offen)" in five
-profiles, a „Vorschlag" beside each, and „Offene Frage Reset-Doc Appendix C"
+without hedging and marks what it leaves open: „(Lücke — bewusst offen)" ^[L510] in five
+profiles, a `Vorschlag` beside each, and „Offene Frage Reset-Doc Appendix C" ^[L123]
 where a decision is deferred.
 
 **It says what is current against what came before**, twice. That is a claim
@@ -57,7 +57,7 @@ latent)" ^[L54].
 - „AEGIS ist kein Bösewicht. AEGIS ist eine Tragödie." ^[L76]
 - The Primal Directive: „AEGIS ist, was AEGIS verhindert, dass es nicht ist."
   ^[L80]
-- The paradox, as a table: „AEGIS = Kohärenz-Kernel (K1)" against „AEGIS =
+- The paradox, as a table: „AEGIS = Kohärenz-Kernel (K1)" ^[L105] against „AEGIS =
   Entropie-Architektur (K0)" ^[L105].
 - The title as a misnomer: „Der Romantitel Kohärenz Protokoll ist eine tragische
   Fehlbezeichnung — benannt nach AEGIS' Selbstmissverständnis." ^[L113]
@@ -67,7 +67,7 @@ latent)" ^[L54].
 - Voice: „AEGIS spricht in 3. Person, personal. Nie „ich"." ^[L137]
 - **In Storyform B, Be-er**: „Resolve = Steadfast (bleibt klassisch logisch, bis
   zum Ende). Approach = Be-er" ^[L156].
-- Its end: „Algorithmische Melancholie" — „ein parakonsistent gewordenes System,
+- Its end: „Algorithmische Melancholie" ^[L158] — „ein parakonsistent gewordenes System,
   das Widersprüche prozessieren kann, aber keine Bedeutung mehr daraus ziehen"
   ^[L164].
 
