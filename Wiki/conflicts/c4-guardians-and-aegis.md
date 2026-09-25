@@ -4,7 +4,7 @@ subject: Guardians
 kind: one structure, two bearers — and a gap the read sample cannot close
 status: open
 first_seen: "2026-09-17"
-sources: 9
+sources: 10
 pages: ["guardians", "blinder-fleck", "aegis", "logos", "mnemosyne", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -206,3 +206,9 @@ the first position: a blindness of AEGIS', not one per Guardian.
 „Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L667] No blind spot is named for
 [[mnemosyne|Mnemosyne]] or the Erasure-Pol. On the first position's side — AEGIS' blindness — with the system's parts as
 what it cannot see.
+
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+**AEGIS' blindness, made mechanical; the Guardians' is not named.** AEGIS reads Kael's intrusion as „Selbstdiagnose des Systems" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72] —
+„es kann einen Innentäter nicht denken, weil es kein Innen kennt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]. Juna's record is „die Lücke, die AEGIS nicht sehen kann" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206].
+The two Guardians offer gifts in good faith (^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]); no Guardian is given a blind spot.
