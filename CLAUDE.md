@@ -81,8 +81,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, eleven of them
-read (documents 7 to 17).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, twelve of them
+read (documents 7 to 18).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -112,11 +112,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**17 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **17
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **17
+**18 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **18
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **18
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
-four `worldbuilding`, one `aegis`, two `storyform`, two `charaktere`, two
-`kernkonzept`, two `plot-outline` and one `theorie-psychologie` — the last eleven
+four `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, two
+`kernkonzept`, two `plot-outline` and one `theorie-psychologie` — the last twelve
 from the canon era.
 
 `Wiki/candidates/` holds **93 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
@@ -145,6 +145,7 @@ has been promoted.
 | `koharenz-protokoll-konzept-iteration-genesis-md` | 1 | 22 | 0 |
 | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md` | 0 | 53 | 0 |
 | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md` | 0 | 38 | 0 |
+| `koharenz-protokoll-sprach-dna-2026-05-13-md` | 0 | 32 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -259,7 +260,19 @@ Kap 5–8, and this document gives AEGIS the third person and never prose (C14) 
 who carries Flight, Kiko and Lia or Lia and Isabelle (C15). It also gave C11 the
 character bible's entry, which the record had never held.
 
-`Plan/runs/judgements.jsonl` holds **86 <!--state:judgements.total--> judgements**
+**The eighteenth is the Sprach-DNA of 2026-05-13, and it gives AEGIS an inside in the
+third person.** A voice catalogue — nineteen voices in five fixed fields — that says it
+consolidates the character bible and the konsolidiertes Konzept; recorded, not applied.
+AEGIS never says `ich`, and still the reader is in its process, an „Operative
+Interiorität" — neither the older sources' logs without an inner view nor the first
+person the lock of 2026-05-30 gives one chapter (C14). Its Landauer warmth is „spürbar
+als Ozon-Geruch oder Hitzeschlieren": both sides of C11 as one thing's two renderings,
+seventeen days before the lock. It puts Juna's appearance in Kap 38 (C7) and the bleeding
+knuckles in Nyx's voice, in no chapter (C10). **No pages, readings on 32.** It was read
+out of order on purpose: another session's handover named the next document, and the
+two sessions had already read documents 16 and 17 twice each.
+
+`Plan/runs/judgements.jsonl` holds **87 <!--state:judgements.total--> judgements**
 about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
@@ -380,7 +393,7 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 28 <!--state:sweep.decided--> so far,
+is recorded in `Plan/runs/sweep.jsonl`: 29 <!--state:sweep.decided--> so far,
 14 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
@@ -450,7 +463,7 @@ python3 scripts/relations.py --unmarked   # links the prose makes and the markup
 python3 scripts/link.py [--apply]         # mark them; dry run by default
 ```
 
-**348 <!--state:wiki.relations--> links across
+**361 <!--state:wiki.relations--> links across
 93 <!--state:wiki.pages--> pages, 28 <!--state:wiki.orphans--> of them with
 nothing pointing in.** Decision 005 has why, and what it corrects: the wiki was
 described here as having no links, which was a statement about `[[…]]` syntax
@@ -469,7 +482,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 184 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+The 186 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
 occurrence sits inside a quotation, a citation line or a heading — places the
 pass may not touch, so that part is a measurement and not a backlog. The rest,
 `link.py` would mark on pages no reading has touched since the page was last
@@ -480,14 +493,14 @@ in a commit that names its source.
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
-citations and builds **130 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1541 <!--state:graph.edges--> edges** (`links`,
+citations and builds **131 <!--state:graph.nodes--> nodes** (terms, documents,
+conflicts, questions) and **1626 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1806 <!--state:graph.evidence-->
-of them, **1806 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1942 <!--state:graph.evidence-->
+of them, **1942 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -510,12 +523,16 @@ python3 scripts/graphrag.py bench              # recall against the wiki's own l
 `bench` scores retrieval on the 20 <!--state:graphrag.cases--> cases the wiki
 already labels (each question's `raised_by`, each conflict's `pages`), with the
 case's own node removed first. Recall@8 is
-**48 <!--state:graphrag.recall_seeds-->% from the seeds alone and
-67 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
+**47 <!--state:graphrag.recall_seeds-->% from the seeds alone and
+66 <!--state:graphrag.recall_ppr-->% with PageRank** — the graph earns its
 step, on twenty cases whose labels were written by the same hand as the
 pages. Documents 7–9 added seven of them (C6–C12), the author's C6
 decision an eighth (Q5), document 16 a ninth (C13) and document 17 two
 more (C14, C15); on the original nine the numbers were 40 and 58.
+Document 18 moved them from 48 and 67 by giving C11 three more pages: its
+gold set grew from two pages to five, and the case fell from 1.0 to 0.6 with
+PageRank. The fall is that label growing; on the labels that did not change,
+retrieval rose — C6 from 0.29 to 0.43.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`
@@ -865,7 +882,7 @@ A third, `drg-kg`, is installed for one module only — its evaluation scorer,
 whose `_prf` returns **0.0** where the retired pipeline's `coverage()` returned
 1.0. Its extraction and graph layers stay unused, because a canon link is
 written by a person and never inferred by a model — not because the wiki has no
-links. It has 348 <!--state:wiki.relations-->.
+links. It has 361 <!--state:wiki.relations-->.
 
 ```bash
 uv pip install --python .venv-dspy/bin/python "drg-kg[extract] @ git+https://github.com/netzkontrast/drg-kg"

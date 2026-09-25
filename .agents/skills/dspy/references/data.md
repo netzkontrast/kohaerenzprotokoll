@@ -10,7 +10,7 @@ not repeated.
 ## In this repository
 
 **The judgement ledger is the trainset, and it was not built to be one.**
-`Plan/runs/judgements.jsonl` holds 86 <!--state:judgements.total--> records,
+`Plan/runs/judgements.jsonl` holds 87 <!--state:judgements.total--> records,
 written "to keep mechanised rules checkable"
 (`scripts/judgements.py`). Each record already carries the two surfaces,
 a decision, and — the part that makes it a dataset — `rule`, the person's own

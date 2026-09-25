@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 7
-covers_documents: 4
-new_findings_last_document: 2
+version: 8
+covers_documents: 5
+new_findings_last_document: 3
 ---
 
 # Briefing — before extracting a document
@@ -72,6 +72,12 @@ selection is where they differ, so it follows a rule:
 - **Write each surface as the document writes it.** Where the document joins two
   names, `A/B` or `A (B)`, list the joined form and each name.
 
+**The list is read line by line, and punctuation decides what is a term.** A `- `
+line with a period and a space, or a comma and a space, is prose — so a term with
+an ordinal (`1. Person`) cannot be listed: count it by hand in `05-verify.txt`. A
+prose bullet that wraps is judged by its first line alone, so give that line a
+comma.
+
 Do not open the wiki to decide what to list; the census describes this document
 and nothing else. After it is frozen, `reconcile.py` sweeps the text for every
 surface of every page. So a term you judged ordinary is still found if the wiki
@@ -105,6 +111,9 @@ has a page for it, and nothing the wiki knows depends on this list.
   citation of something else. Both occur; nothing announces which.
 - Which candidates appear **only inside a question**? Those have no reading.
 - Which appear only as something the document restates before rejecting?
+- Does the document write samples in a voice, or lists of words a voice uses? A
+  term that stands only there is diction — a reading needs a sentence about the
+  thing, the same way a term inside a question has none.
 - Does the document restate *other* documents — an index of locks, a list of
   sources with dates? That is this document's claim about them, not their text.
 
