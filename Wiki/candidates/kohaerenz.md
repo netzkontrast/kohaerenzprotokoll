@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -100,3 +100,10 @@ of the flow and integrity of memories, „innerhalb des Kohärenz-Programms und 
 The 2025 readings above give coherence to [[aegis|AEGIS]] and make it logical or
 structural; here it is emotional and one [[guardians|Guardian]]'s domain. Attributed, not merged.
 Found by the sweep (decision 012).
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**A percentage in [[aegis|AEGIS]]' log, and what erasing keeps.** The binding log format measures [[kael|Kael]]'s system
+in a line that begins `SYSTEM_KAEL: ALTER={aktiv} | KOHÄRENZ={%}` (L968). [[oblivion|Oblivion]]'s choice in Akt III:
+„Weiterlöschen (Kohärenz bewahren) oder Stehenlassen (Wahrheit zulassen)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L788] — coherence on the side of
+erasure, truth on the other. The title's `Kohärenz Protokoll` stays its own term (J57).
