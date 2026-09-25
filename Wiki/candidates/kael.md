@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -200,3 +200,25 @@ wurde" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241].
 
 - the subjective remainder of the separation: „das, was nach der Trennung subjektiv übrig blieb“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L72]
 - recognises Juna through the echoes: „Kael Juna *wiedererkennt*“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L76]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+„Kaels formelle Rolle: Komponente 734, Archivar Klasse II" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L105]. The reader
+knows from Kap 0 „dass Kael Komp 734 ist" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L572]; the number is an anchor —
+„Zahl 734: strukturelle Markierung (Kap 2, 10, 25)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L389] — set in Kap 0
+without the number and in Kap 1 as a console line he does not react to (L486–L487).
+
+**What he knows when**: „bis Kap 13: nichts strukturell; nur Symptome" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L573];
+Kap 13, „weiß: ich bin nicht allein in mir" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L585]; Kap 18–22, he
+„erlebt Flashbacks als fremde Daten — erinnert sich nicht, dass er das war" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L587];
+Kap 36, „„Wer spricht?" — offen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L592]; Kap 39, „Wir-AEGIS-plural als bewusste Form" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L594];
+Kap 40, „retrospektive Position, bezeugend" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L595].
+
+**The Ouroboros**: „Erster Satz von Kap 1 = letzter Satz, den Kael in Kap 39 schreibt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L633]
+„Das Licht ist schon da, als ich erwache." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L633] His console name in Kap 1
+turns in Kap 39 into „Wir-AEGIS-plural als bewusste Selbst-Bezeichnung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L661].
+His counting mania is „Tic, Vermeidungs-Stütze" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L679]; whether it stays is left open.
+
+In KW1: „Atem-Zählung. Regulation durch Disziplin." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L79] The bleeding knuckles
+are a KW1 riss locked to Kap 0, „Kap 1 bleibt spurlos" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L90] — conflict C10.
+And a lock against the page's old name: „Kein Michael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1188] — „Hauptfigur ist Kael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1188].
