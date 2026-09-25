@@ -1,10 +1,10 @@
 ---
 term: Externe Ebene
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -120,3 +120,12 @@ As „Basisrealität — Köln 2026." ^[koharenz-protokoll-strukturierter-outlin
 Kommt nie als Bühne in Erscheinung — nur als Erinnerungsfragment, Telefonton,
 Geruch." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L179] [[kael|Kael]]'s first trauma layer lies there, „Bindungstrauma in
 der Basisrealität Köln" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L125].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+„Externe Ebene — Köln 2026" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L305]. Not outside the simulation but „die andere Seite des Spiegels" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L307];
+„Die Realität, die der Roman selbst ist." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L307] Its aesthetic is „Profan, banal, präzise." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L311]
+„Köln 2026 ist nie Bühne im normalen Sinn." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L315] „Erscheint nur als Erinnerungsfragment, Telefonton, Geruch." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L315]
+Its sub-locations: [[junas-ankerpunkt|Junas Ankerpunkt]] (`[L]`), the
+[[garten-der-stillen-praesenz|Garten der stillen Präsenz]], the „Quelle des Flüsterns" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L328] and an
+„Unkartiertes Territorium" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L329].
