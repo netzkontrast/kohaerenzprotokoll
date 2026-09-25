@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -112,3 +112,13 @@ The voice moves „zwischen 1. Person Funkens-Sicht und 3. Person AEGIS-Beschrei
 Its sample: „Was du jetzt liest, ist nicht das, was geschah." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L29]
 And [[juna|Juna]]: „Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
 No beat and no Komponente 734 (C12).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Die Genesis-Krise (3-Beat, kanonisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L457] — „Die ursprüngliche Trauma-Episode in AEGIS' Entstehung. Drei Beats:" ^[kohaerenz-protokoll-konzept-master-md.md:L459]
+„Einheit — das Ursprungs-Ich erlebt Resonanz mit einer fremden Entität in der Leere." ^[kohaerenz-protokoll-konzept-master-md.md:L463]
+„Trennungsprotokoll — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-konzept-master-md.md:L464]
+„Kael = Komponente 734 — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
+„Kael ist das, was übrig bleibt, wenn das Ursprungs-Ich gewaltsam in funktionale Module zerlegt wird." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
+„Aktuell Lock-In: nein, drei Beats reichen." ^[kohaerenz-protokoll-konzept-master-md.md:L469] Restated as an open point: „Genesis 4. Beat? Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998]
+(J78: the crisis is placed by what it states, the Genesis' beats; C12.) Genesis flashbacks sit in the middle of Akt II (L891).
