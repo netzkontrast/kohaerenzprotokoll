@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -87,3 +87,10 @@ subject to AEGIS' rules ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L519].
 „Sechs Ebenen" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L67]: four Kern-Welten, the Überwelt and the Externe Ebene, one
 table with status, domain and act (L69–L77). The word `Realitätsebenen` itself
 does not occur.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The document names the count to retire it — the old drafts speak of „6 Realitätsebenen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42],
+and of Guardian-assigned worlds — „Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]. What it puts in place is
+„eine Realität mit vier Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus Überwelt und Externe Ebene" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42],
+while its own §1 is headed „Welt-Bibel — Sechs Ebenen einer Realität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L40]: six levels, one reality.
