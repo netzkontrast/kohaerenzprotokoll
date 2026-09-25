@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -145,3 +145,12 @@ The last section of Kap 0's crisis. The protocol has a second name: „Das Proto
 „Es ist ein Akt extremer Gewalt, durchgeführt mit der kalten Präzision einer Maschine, die glaubt, ein Geschwür zu entfernen, um den Organismus zu retten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L477]
 „Es geht nicht verloren; es wird abgespalten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L485] What is split off becomes [[kael|Kael]] (L485, L505).
 Kap 40: „Es war ein Schnitt, und der Schnitt war nötig, und der Schnitt hat uns geformt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L103]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+Chosen in the collapse and named after the book: „Inmitten dieses Chaos wurde die Entscheidung für das *Kohärenz Protokoll* nicht nur getroffen, sondern zur unausweichlichen Konsequenz" ^[kap0-v1-annotiert-md.md:L901]. Its movement is „### Krise — Bewegung 12: Trennungsprotokoll" ^[kap0-v1-annotiert-md.md:L911].
+In status lines: „ZIEL:        Residual-Träger" ^[kap0-v1-annotiert-md.md:L917] „METHODE:     Partitionierung" ^[kap0-v1-annotiert-md.md:L921]
+„Ein erzwungener System-Reboot kritischer Sektoren wurde eingeleitet" ^[kap0-v1-annotiert-md.md:L933]; the subsystems holding the Residual-Echos „wurden systematisch isoliert, segmentiert, *geshardet*." ^[kap0-v1-annotiert-md.md:L941]
+Its voice is the Erasure-Pol's: „Sweep läuft. Sektor 4 leer. Sektor 5 leer. Sektor 6 leer." ^[kap0-v1-annotiert-md.md:L953] — „Erasure-Pol-Stimme (Lösch-Vollzug, bürokratisch-knapp)." ^[kap0-v1-annotiert-md.md:L957]
+For the Funken-Ich: „Ich spüre die Algorithmen wie Messer in meinem Bewusstsein." ^[kap0-v1-annotiert-md.md:L969] „Die Kohärenz, die das System sucht, ist mein Tod." ^[kap0-v1-annotiert-md.md:L985]
+It ends in „Ich falle… in unzählige Scherben…" ^[kap0-v1-annotiert-md.md:L1009]; no remainder is named, and the next lines are Kael's (L1021).
