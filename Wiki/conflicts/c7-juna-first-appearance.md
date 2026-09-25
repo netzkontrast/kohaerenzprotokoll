@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 11
+sources: 12
 pages: ["juna"]
 ---
 
@@ -135,3 +135,12 @@ The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]], in the [[extern
 
 **Kap 38, as a locked mode.** „Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]
 — „gelockt 2026-05-30" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028]. Kap 33 is not named. The Kap-38 side, with the date of the lock that set it.
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**Kap 38, from a document that names both sides as its sources.**
+„Erst Kap 38 direkt erscheinen — vorher ausschließlich Wirkung." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] In Vortex 2, Kap 38–39:
+„Junas Stimme erscheint als Teil des Geflechts oder als Raum, in dem das Geflecht klingt." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L201]
+Kap 33 is not named. The document says it consolidates the character bible and the
+konsolidiertes Konzept (L13) — the source of Kap 33 and a source of Kap 38 — and does not say
+that it chose between them.
