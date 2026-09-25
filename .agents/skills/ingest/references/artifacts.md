@@ -92,6 +92,23 @@ row, so the evidence of every judgement is prose in a note. This is what blocks
 training a model on the ledger, because an optimizer learns from what is in the
 input.
 
+## A sweep row — `Plan/runs/sweep.jsonl`
+
+One line per page the sweep found in a document's text that the census did not
+list (decision 012). `reconcile.py --sweep-open` counts a hit as open until the
+page reads the document or a row here says why it does not.
+
+```json
+{"document": "<slug>", "page": "emergenz", "surface": "Emergenz", "line": 100,
+ "decision": "reading",
+ "why": "Kairos' domain — the page keeps Emergenz on a world as well as on AEGIS",
+ "at": "YYYY-MM-DD"}
+```
+
+`decision` is `reading` (the page now carries it, committed naming the document)
+or `occurrence` (a title, a reference, the word in another sense, a term the
+document's own rule keeps out). `why` says which, in words.
+
 ## `Sources/terms/<slug>.md` — the census
 
 Frontmatter from `profile.py --frontmatter`, never typed:

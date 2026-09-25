@@ -161,6 +161,16 @@ python3 scripts/wiki_index.py                     # derive Wiki/index.json
 python3 scripts/reconcile.py <slug>               # pre-classify: lookup vs judgement
 ```
 
+**The last section of its output is the sweep** (decision 012): every page
+whose surface stands alone in the document while no candidate matches it. The
+census is selective by rule, so this is how nothing the wiki already knows
+depends on what the reader chose to list. Each hit is a reading or an
+occurrence — a title, a reference, the word in another sense, a term the
+document's own rule keeps out. A reading goes on the page; either way the call
+goes into `Plan/runs/sweep.jsonl`, one row per page, with why.
+`reconcile.py --sweep-open` must print nothing before the reconciliation is
+done. The sweep asks the index, not the pages, so what reaches you is the hits.
+
 **Reconciliation never reads the wiki.** It answers by lookup against
 `Wiki/index.json`, so cost per document is `O(census) + O(judgement)` and not
 `O(wiki)`. Never route this through qmd, and never let it grow into a comparison

@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 6
-readings: 6
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis", "aegis-emergenz-aus-der-leere", "guardians-und-kern-welten-konzept"]
 gathered: "2026-09-17"
 ---
 
@@ -76,3 +76,27 @@ What AEGIS believes itself to be: „AEGIS *glaubt* K₁ (Kohärenz) zu sein" ^[
 Kap 34, titled „Zwei Arten der Kohärenz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1047]: „Zwei Arten der Kohärenz prallen
 aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte
 (bezeugende)." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057]
+
+## Reading — `entropie-aegis`, 2025-04-17
+
+What [[aegis|AEGIS]]' regulation of entropy is for. Its core function is the
+regulation of the passage from order to disorder, „um die Kohärenz und strukturelle Integrität des Gesamtsystems" ^[entropie-aegis.md:L21]
+… zu wahren. Kohärenz is what AEGIS keeps, entropy what threatens it. Not yet a
+definition — that is the reading above from `kohaerenzprotokoll-aegis-und-systementropie` —
+but the earliest source to set the two against each other. Found by the sweep
+(decision 012).
+
+## Reading — `aegis-emergenz-aus-der-leere`, 2025-04-19
+
+In the postulate this source examines, Kohärenz is what [[aegis|AEGIS]] balances against
+entropy, by itself: „Systemstabilität ausschließlich durch interne Balancierung von Entropie bzw. Kohärenz ohne externe Steuerung" ^[aegis-emergenz-aus-der-leere.md:L19]
+— one of the postulate's radical claims, which the source reports in order to
+test them, not its own. Found by the sweep (decision 012).
+
+## Reading — `guardians-und-kern-welten-konzept`, 2025-04-17
+
+**Kohärenz of feeling, and a Guardian's charge.** [[mnemosyne|Mnemosyne]]'s mandate is „die Überwachung der emotionalen Kohärenz" ^[guardians-und-kern-welten-konzept.md:L49],
+of the flow and integrity of memories, „innerhalb des Kohärenz-Programms und seiner Instanzen" ^[guardians-und-kern-welten-konzept.md:L49].
+The 2025 readings above give coherence to [[aegis|AEGIS]] and make it logical or
+structural; here it is emotional and one [[guardians|Guardian]]'s domain. Attributed, not merged.
+Found by the sweep (decision 012).

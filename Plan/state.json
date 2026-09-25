@@ -31,15 +31,15 @@
       "how": "entity rows whose cited file line contains the entity"
     },
     "graph.edges": {
-      "value": 1312,
+      "value": 1337,
       "how": "typed edges in scripts/graph.py, each carrying the file line that states it"
     },
     "graph.evidence": {
-      "value": 1438,
+      "value": 1461,
       "how": "quotations on term pages, the unit scripts/graphrag.py serves"
     },
     "graph.evidence_verified": {
-      "value": 1438,
+      "value": 1461,
       "how": "of those, verified against their line by quotes.verdict"
     },
     "graph.nodes": {
@@ -99,7 +99,7 @@
       "how": "stated `A (B)` glosses in 2+ documents routing to exactly one page"
     },
     "quotes.checked": {
-      "value": 2718,
+      "value": 2743,
       "how": "cited quotations verified against their line"
     },
     "quotes.unchecked": {
@@ -166,6 +166,18 @@
       "value": 23,
       "how": "landed files that do not open with the eight lines of provenance"
     },
+    "sweep.decided": {
+      "value": 24,
+      "how": "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence"
+    },
+    "sweep.open": {
+      "value": 0,
+      "how": "sweep hits in read documents that no reading and no ledger row settles \u2014 decision 012"
+    },
+    "sweep.readings": {
+      "value": 10,
+      "how": "of those, readings the lookup had missed, now on their pages"
+    },
     "trainset.fold_baseline_pct": {
       "value": 60,
       "how": "what fold() scores on them \u2014 beat this or do not call an LM"
@@ -199,11 +211,11 @@
       "how": "question pages in Wiki/questions/, excluding the README"
     },
     "wiki.relations": {
-      "value": 337,
+      "value": 341,
       "how": "a page naming another page as `slug`, scripts/relations.py"
     },
     "wiki.unmarked": {
-      "value": 153,
+      "value": 156,
       "how": "a page's term written in another page's prose without being marked a link"
     },
     "wiki.zero_readings": {

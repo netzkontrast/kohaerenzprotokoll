@@ -54,6 +54,17 @@ def frontmatter(text: str) -> dict:
 
 
 ARTICLE = re.compile(r"^(der|die|das|den|dem|des)\s+", re.IGNORECASE)
+CONFLICT_ID = re.compile(r"\bC\d+\b")
+
+
+def conflict_ids(value) -> list[str]:
+    """The conflict ids a `conflict:` field names — `C4, C6` is two, `none yet` none.
+
+    One reading of the field for every script: `graph.py` learned it when a
+    question's `C6, C9` kept one edge of three, and `check()` below still read the
+    whole value as one id and reported five pages' `C4, C6` as a missing record.
+    """
+    return CONFLICT_ID.findall(str(value or ""))
 
 
 def fold(surface: str) -> str:
@@ -151,9 +162,9 @@ def check(index: dict) -> int:
             if page not in index["terms"]:
                 gaps.append(f"{cid}: points at {page!r}, which is not a page")
     for slug, term in index["terms"].items():
-        cid = term["conflict"]
-        if cid and cid.startswith("C") and cid not in index["conflict_records"]:
-            gaps.append(f"{slug}: carries conflict {cid}, which has no record")
+        for cid in conflict_ids(term["conflict"]):
+            if cid not in index["conflict_records"]:
+                gaps.append(f"{slug}: carries conflict {cid}, which has no record")
     print(f"{index['pages']} pages, {index['conflicts']} conflicts, "
           f"{len(index['surface_to_page'])} known surfaces")
     print(f"{len(gaps)} gaps the index cannot see past:\n")

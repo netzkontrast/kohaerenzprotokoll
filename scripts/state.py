@@ -339,6 +339,24 @@ def _verdicts() -> list[str]:
     return [replay(r)[0] for r in records()]
 
 
+@measure("sweep.decided", "sweep hits recorded in Plan/runs/sweep.jsonl as a reading or an occurrence")
+def _sweep_decided() -> int:
+    import reconcile
+    return len(reconcile.sweep_ledger())
+
+
+@measure("sweep.readings", "of those, readings the lookup had missed, now on their pages")
+def _sweep_readings() -> int:
+    import reconcile
+    return sum(1 for r in reconcile.sweep_ledger().values() if r["decision"] == "reading")
+
+
+@measure("sweep.open", "sweep hits in read documents that no reading and no ledger row settles — decision 012")
+def _sweep_open() -> int:
+    import reconcile
+    return len(reconcile.sweep_open())
+
+
 @measure("judgements.total", "records in Plan/runs/judgements.jsonl")
 def _j_total() -> int:
     return len(_verdicts())

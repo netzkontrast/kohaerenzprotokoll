@@ -186,7 +186,7 @@ def build() -> dict:
             edge(key, "asks", doc_node(doc), f"{_rel(path)}:{_line_of(text, 'documents:')}")
         # A question may name several conflicts (Q5: `C6, C9`); it concerns each.
         # Matching the whole value as one id kept one edge of three.
-        for conflict in re.findall(r"\bC\d+\b", str(meta.get("conflict", ""))):
+        for conflict in wiki_index.conflict_ids(meta.get("conflict", "")):
             edge(key, "concerns", f"conflict:{conflict}", f"{_rel(path)}:{_line_of(text, 'conflict:')}")
 
     return {"nodes": nodes, "edges": edges, "evidence": evidence}
@@ -313,6 +313,8 @@ def selftest() -> list[str]:
     concerns = sum(1 for e in build()["edges"] if e["type"] == "concerns")
     if concerns != named:
         failures.append(f"questions name {named} conflicts, graph.py holds {concerns} concerns edges")
+    if wiki_index.conflict_ids("C4, C6") != ["C4", "C6"] or wiki_index.conflict_ids("none yet"):
+        failures.append("conflict_ids does not read a field naming two conflicts, or reads one that names none")
     links = sum(1 for e in build()["edges"] if e["type"] == "links")
     import relations
     if links != len(relations.graph()["edges"]):
@@ -386,8 +388,9 @@ def main(argv: list[str]) -> int:
         problems = selftest()
         for p in problems:
             print(f"  FAIL  {p}")
-        print(f"graph: {6 - len(problems)} of 6 cases hold (clean, broken edge, unlanded doc, "
-              "no proposal in the core, every conflict a question names, agrees with relations.py)")
+        print(f"graph: {7 - len(problems)} of 7 cases hold (clean, broken edge, unlanded doc, "
+              "no proposal in the core, every conflict a question names, a field naming two conflicts, "
+              "agrees with relations.py)")
         return 1 if problems else 0
     graph = build()
     if "--json" in argv:
