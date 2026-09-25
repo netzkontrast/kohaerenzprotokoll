@@ -95,7 +95,7 @@ And the end does not return to it: „Die plurale Einheit ist *nicht* die Reinfo
 
 ## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
 
-Written  (J83) in Kap 40: „Wir sind nicht die Reinform. Wir können sie nicht sein. Die Reinform liegt vor jeder Werdung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L67]
+Written `Reinform` (J83) in Kap 40: „Wir sind nicht die Reinform. Wir können sie nicht sein. Die Reinform liegt vor jeder Werdung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L67]
 „Aber wir sind die Form, die die Reinform tragen kann, ohne sie zu sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L67]
 „Jede Berührung der Reinform ist Liebe. Es gibt keine andere Substanz dort." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L83]
 In Kap 0 the Funken-Ich lives the void as threat — „Ich *bin* dieses Rauschen, oder es droht mich zu verschlingen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L199] — and Kap 40 reads it again: „Die Leere war nicht leer. Sie war eine Berührung ohne Ende" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L55]
