@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 10
-readings: 9
+sources: 11
+readings: 10
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -172,3 +172,17 @@ Multiplizitäts-Schleier-Disziplin hält." ^[koharenz-protokoll-strukturierter-o
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - each alter as a facet of the pre-separation togetherness: „jedes Alter ist eine Facette dessen, was im ewigen Miteinander zusammen war“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L72]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A reset lock: „exakter Roster (siehe Anteile-Profil); dekanonisierte Namen *nie* verwenden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1185].
+The veil keeps the word out of Akt I: „Begriffe *Alter, Fragment, ANP, EP, TSDP, DID* fallen nicht in Akt I." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1059]
+And no name marks a voice: „Stimmen werden nie gelabelt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1237] —
+„Erkennung nur durch Syntax + Lexikon + Somatik." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1237]
+
+Each EP and each mirror Alter triggers its own kind of riss (§3.1, L404–L410;
+[[risse]]); the chapter template's example conflict pairs are
+„(Lex↔Nyx? Rhys↔Selene? Silas↔Oblivion?)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L951]. The Sprach-DNA rules it
+repeats are a denial list: „Kiko ist nicht niedlich, Lia ist nicht launisch, Isabelle wird nicht gerettet, Moros ist nicht depressiv." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235]
+The worlds answer to classes of Alters, not to one each (Q3). Profiles are in its
+sibling `anteile-profile-sprach-dna`, which it names and does not contain.
