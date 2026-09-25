@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -112,3 +112,11 @@ Its sound is the Klick motif's: „das Trennungs-Klick" ^[kohaerenz-protokoll-we
 **Where Komponente 734 falls it does not say**: the beats have „Cluster" second
 and no 734. It reports that the Kap-0 annotation choreographs an Alex-Vorform
 before the Trennungsprotokoll (L1461; [[alex]]). Conflict C12.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**The second trauma layer is its night**: „Fragmentierungsnacht / Trennungsprotokoll" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L86] — [[kael|Kael]] (Host), [[lex|Lex]],
+[[alex|Alex]], [[rhys|Rhys]], [[nyx|Nyx]], [[argus|Argus]], [[silas|Silas]] and [[oblivion|Oblivion]] (L86).
+[[lex|Lex]] is its „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168]. Whether [[alex|Alex]] can be present before it:
+„in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein — offen, siehe §11." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219]
+C12, [[genesis]].
