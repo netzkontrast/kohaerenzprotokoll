@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -120,3 +120,8 @@ Every confirmation ends in a click, „das Geräusch des Trennungsprotokolls als
 
 [[juna|Juna]]: „Die Anomalie, deren Resonanz das Trennungsprotokoll auslöste." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] Its one mention; nothing on
 its beats or on Komponente 734 (C12).
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+The second of three Genesis beats: „Trennungsprotokoll — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-konzept-master-md.md:L464]
+Restated among the open points: „Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998] (C12)
