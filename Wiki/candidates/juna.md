@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -234,3 +234,11 @@ Her grammar is a rule: „R-10 — Juna ist nie Subjekt, nur Wirkung." ^[kohaere
 ontologisch" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087]. Her trace is warmth, „Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347] (C11).
 Her modes: „gestaffelte Grammatik; Abwesenheits-Phase Akt I → Präsenz-Phase Akt II+" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1195].
 The document's last line: „Juna ist nicht in der Welt. Juna ist die Bewegung, die Welt erst möglich macht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1502]
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Juna ist kein Anteil im System Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024] „Grammatik-Regel: nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1024] Her modes, locked
+2026-05-30: „Abwesenheits-Phase (Akt I) → Präsenz-Phase (Akt II+) → direkte Stille-Erscheinung Kap 38." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1028] (C7).
+Anchors: „Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029] Heat as her trace:
+„Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] (C11). Inside the system her echo is Silas; on the Korrelat-Achse,
+„Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77].
