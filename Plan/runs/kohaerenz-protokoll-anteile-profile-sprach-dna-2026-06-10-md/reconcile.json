@@ -18,7 +18,7 @@
     "decided_by_lookup": 508,
     "needs_judgement": 345
   },
-  "pre_classification_note": "reconcile-pre.json was re-run after main was merged, to add the sweep (decision 012); its state field therefore counts the two conflicts this document added. The first run, before C14 and C15, printed 93 pages and 13 conflicts and the same 847 / 853 / 508 / 345.",
+  "pre_classification_note": "reconcile-pre.json was re-run against main's wiki after the merge of 2026-09-25 that took main's reading of document 16; its state field counts C14 and C15, which this document added. The first run, on this branch's own reading of document 16, printed 93 pages and 13 conflicts and the same 847 / 853 / 508 / 345, and so did this one.",
   "new_terms": [],
   "why_no_new_terms": "A catalogue of the thirteen Alters, each of which already has a page, with the voices outside them — AEGIS, Mnemosyne, Juna — which have pages too. Document 7's rule applies: a page needs a [K] reading of something in the world, and every [K] figure here has one. The fourth voice, the Erasure-Pol, carries its name as open, 'Erasure-Pol (Name offen)' (L1014), so it gets no page (J47). The rest is the profile template and its craft — the Sprach-DNA, the riss mandates, the switching rules, the log format, the checks — borrowed theory in its home sense (TSDP, IFS, ISH, Compassion Fatigue, and the eleven physics correlates from Hubble-Volumen to Fraktale), or names used as known (Gödel-Gambit, Slot 16, Moonshine-Link).",
   "not_promoted": [
@@ -725,9 +725,9 @@
     "Q2": "none of the seven protocol terms occurs"
   },
   "judgements": [],
-  "decided_by_existing_rules": "Titles and table-row labels containing terms by J9 (the document's title, 'Alex-Präsenz', 'Argus typografisch', 'Genesis-Beat-Anzahl', 'Spiegel-Alter-Auftrittskapitel'). Compounds placed by what they name by J16 and J28 — AEGIS-* (AEGIS-Stimme, -Register, -Echo, -konform, the log header), Juna-*/Junas * (Coheron-Spur, Stilebene 3, -Echo, -POV, JUNA_VEKTOR), Silas-*, Oblivion-*, Coheron-Echo, Spiegel-Coheron, Erason-Operator, Spiegel-Erason, Welt-/thermische/Wasser-/paranoide/generative Risse, Multiplizitäts-Schleier. Kael (Host), ANP-Host and System Kael by J70. Plurals by J23–J25, J44–J46 (Alter, Anteile, Hard-Rules, Phobien). zwei Guardians by J21. Mnemosyne-Archipel by J49. Genesis-Sequenz, -Krise and -Beat-Anzahl by J76–J79, the passages placed by what they state (J62). Basisrealität Köln on externe-ebene by J54. Wohneinheit 14/Sektor 7/Wohneinheit 734-K on kaels-wohneinheit by J50. Protokoll, Signatur, Sektor, Kollaps and Fragment(ierung) against pages whose head they share by J10, J52 and J53. Labels that partition — Akt I–III, Kap N, Schicht 1/2, Stilebene N, OQ-E/F/G, R-4, Slot 16, Block-4 — by J31. Four same-surface groups folded mechanically before any lookup.",
+  "decided_by_existing_rules": "Titles and table-row labels containing terms by J9 (the document's title, 'Alex-Präsenz', 'Argus typografisch', 'Genesis-Beat-Anzahl', 'Spiegel-Alter-Auftrittskapitel'). Compounds placed by what they name by J16 and J28 — AEGIS-* (AEGIS-Stimme, -Register, -Echo, -konform, the log header), Juna-*/Junas * (Coheron-Spur, Stilebene 3, -Echo, -POV, JUNA_VEKTOR), Silas-*, Oblivion-*, Coheron-Echo, Spiegel-Coheron, Erason-Operator, Spiegel-Erason, Welt-/thermische/Wasser-/paranoide/generative Risse, Multiplizitäts-Schleier. Kael (Host), ANP-Host and System Kael by J70. 13 Alter and Alter by J84; zwei Guardians by J82. Plurals by J23–J25, J44–J46 (Anteile, Hard-Rules, Phobien). Mnemosyne-Archipel by J49. Genesis-Sequenz, -Krise and -Beat-Anzahl by J76–J79, the passages placed by what they state (J62). Basisrealität Köln on externe-ebene by J54. Wohneinheit 14/Sektor 7/Wohneinheit 734-K on kaels-wohneinheit by J50. Protokoll, Signatur, Sektor, Kollaps and Fragment(ierung) against pages whose head they share by J10, J52 and J53. Labels that partition — Akt I–III, Kap N, Schicht 1/2, Stilebene N, OQ-E/F/G, R-4, Slot 16, Block-4 — by J31. Four same-surface groups folded mechanically before any lookup.",
   "lookup_hits_not_placed": {
-    "ueberwelt (via its alias Simulation)": "'Innerhalb der Simulation' (L105) is where Kael's role is held, not AEGIS' Überwelt — J81, J39, a fourth time"
+    "ueberwelt (via its alias Simulation)": "'Innerhalb der Simulation' (L105) is where Kael's role is held, not AEGIS' Überwelt — J30, J39, again"
   },
   "near_matches_not_placed": {
     "kael-julia-bindung (via Bindung)": "Silas is the afterimage of 'der Bindung' (L687) without the sentence saying whose; the character bible's same sentence is not on the page either (J13)",
@@ -756,11 +756,11 @@
         "page": "risse",
         "surface": "Risse",
         "line": 890,
-        "already_read": true
+        "already_read": false
       }
     ],
-    "note": "one hit, on a page this document already reads; nothing to record in Plan/runs/sweep.jsonl"
+    "note": "one hit, the world rifts at L890, which this document's reading of risse covers; settled by that reading, nothing to record in Plan/runs/sweep.jsonl"
   },
   "baseline_moved": false,
-  "baseline_note": "no new judgement; fold() stays at 41/69 and the plural rule at 49/69"
+  "baseline_note": "no new judgement; fold() stays at 41 and the plural rule at 49 of 71 labelled pairs"
 }

@@ -31,173 +31,172 @@
   "decided_mechanically": 508,
   "needs_judgement": 345,
   "buckets": {
-    "already_there": [
+    "already_there": [],
+    "new_reading": [
       {
         "candidate": "AEGIS",
         "page": "aegis",
-        "readings": 16
+        "readings": 15
       },
       {
         "candidate": "Mnemosyne",
         "page": "mnemosyne",
-        "readings": 11
+        "readings": 10
       },
       {
         "candidate": "DKT",
         "page": "dkt",
-        "readings": 3
+        "readings": 2
       },
       {
         "candidate": "Kael",
         "page": "kael",
-        "readings": 13
+        "readings": 12
       },
       {
         "candidate": "Lex",
         "page": "lex",
-        "readings": 9
+        "readings": 8
       },
       {
         "candidate": "Alex",
         "page": "alex",
-        "readings": 8
+        "readings": 7
       },
       {
         "candidate": "Rhys",
         "page": "rhys",
-        "readings": 6
+        "readings": 5
       },
       {
         "candidate": "Selene",
         "page": "selene",
-        "readings": 7
+        "readings": 6
       },
       {
         "candidate": "Nyx",
         "page": "nyx",
-        "readings": 9
+        "readings": 8
       },
       {
         "candidate": "Kiko",
         "page": "kiko",
-        "readings": 8
+        "readings": 7
       },
       {
         "candidate": "Lia",
         "page": "lia",
-        "readings": 8
+        "readings": 7
       },
       {
         "candidate": "Isabelle",
         "page": "isabelle",
-        "readings": 8
+        "readings": 7
       },
       {
         "candidate": "Moros",
         "page": "moros",
-        "readings": 8
+        "readings": 7
       },
       {
         "candidate": "Argus",
         "page": "argus",
-        "readings": 7
+        "readings": 6
       },
       {
         "candidate": "Juna",
         "page": "juna",
-        "readings": 13
+        "readings": 12
       },
       {
         "candidate": "Silas",
         "page": "silas",
-        "readings": 11
+        "readings": 10
       },
       {
         "candidate": "Oblivion",
         "page": "oblivion",
-        "readings": 11
+        "readings": 10
       },
       {
         "candidate": "Coheron",
         "page": "coheron",
-        "readings": 10
+        "readings": 9
       },
       {
         "candidate": "Erason",
         "page": "erason",
-        "readings": 5
+        "readings": 3
       },
       {
         "candidate": "Trennungsprotokoll",
         "page": "trennungsprotokoll",
-        "readings": 10
+        "readings": 9
       },
       {
         "candidate": "Funktionale Multiplizität",
         "page": "multiplizitaet",
-        "readings": 12
-      },
-      {
-        "candidate": "Möglichkeits-Garten",
-        "page": "moeglichkeits-garten",
         "readings": 11
       },
-      {
-        "candidate": "Moonshine-Link",
-        "page": "moonshine-link",
-        "readings": 11
-      },
-      {
-        "candidate": "DID",
-        "page": "did",
-        "readings": 7
-      },
-      {
-        "candidate": "Alters",
-        "page": "alters",
-        "readings": 11
-      },
-      {
-        "candidate": "KOHÄRENZ",
-        "page": "kohaerenz",
-        "readings": 10
-      },
-      {
-        "candidate": "Guardians",
-        "page": "guardians",
-        "readings": 15
-      },
-      {
-        "candidate": "Cerberus",
-        "page": "cerberus",
-        "readings": 9
-      },
-      {
-        "candidate": "LogOS",
-        "page": "logos",
-        "readings": 9
-      },
-      {
-        "candidate": "Kairos",
-        "page": "kairos",
-        "readings": 9
-      },
-      {
-        "candidate": "Telefon-Stille",
-        "page": "telefon-stille",
-        "readings": 10
-      },
-      {
-        "candidate": "Landauer-Signatur",
-        "page": "landauer-signatur",
-        "readings": 9
-      }
-    ],
-    "new_reading": [
       {
         "candidate": "Simulation",
         "page": "ueberwelt",
         "readings": 11
+      },
+      {
+        "candidate": "Möglichkeits-Garten",
+        "page": "moeglichkeits-garten",
+        "readings": 10
+      },
+      {
+        "candidate": "Moonshine-Link",
+        "page": "moonshine-link",
+        "readings": 10
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 6
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 10
+      },
+      {
+        "candidate": "KOHÄRENZ",
+        "page": "kohaerenz",
+        "readings": 9
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 14
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 8
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 8
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 8
+      },
+      {
+        "candidate": "Telefon-Stille",
+        "page": "telefon-stille",
+        "readings": 9
+      },
+      {
+        "candidate": "Landauer-Signatur",
+        "page": "landauer-signatur",
+        "readings": 8
       }
     ],
     "new_term": [
@@ -3703,7 +3702,7 @@
       "page": "risse",
       "surface": "Risse",
       "line": 890,
-      "already_read": true
+      "already_read": false
     }
   ],
   "index_gaps_may_hide_matches": true,

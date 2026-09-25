@@ -51,7 +51,7 @@ was not promoted, with lines.
 [[externe-ebene]] (J54), and [[hitze-polaritaetsregel]], [[risse]], [[genesis]],
 [[kern-welten]], [[blinder-fleck]] and [[atemporalitaet]], each placed by what a
 passage states (J62). One lookup hit was read and not placed: [[ueberwelt]]
-through its alias `Simulation`, a fourth time (J81).
+through its alias `Simulation`, again (J30, J39).
 
 ## Two new conflicts — C14 and C15
 
@@ -98,17 +98,18 @@ occur, AEGIS' origin is not stated, and the only Approach it gives is Kael's.
 - **Mnemosyne**: „arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996] — a tragedy of lack, not
   called an antagonist.
 - **The final form's name**: `Wir-AEGIS-plural`, used and not marked open (L91, L934).
-- **The alias `Simulation`**: a fourth misfire (J81).
+- **The alias `Simulation`**: another misfire (J30, J39).
 
 ## Judgements
 
-None new. Everything was decided by J1–J81; `reconcile.json` names the rule for
-each group. The `fold()` baseline stays at 41/69.
+None new. Everything was decided by J1–J84 — `13 Alter` by J84 and `zwei Guardians`
+by J82, both from main's reading of document 16; `reconcile.json` names the rule
+for each group. The `fold()` baseline stays at 41 of 71.
 
 ## The sweep
 
-One hit, `Risse` at L890, on a page this document already reads — nothing to
-record in `Plan/runs/sweep.jsonl`.
+One hit, `Risse` at L890 — the world rifts, which this document's reading of
+[[risse]] covers. Nothing to record in `Plan/runs/sweep.jsonl`.
 
 ## Found while reconciling, not caused by it
 
