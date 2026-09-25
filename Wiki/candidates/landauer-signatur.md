@@ -1,10 +1,10 @@
 ---
 term: Landauer-Signatur
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -123,3 +123,16 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 „Silas und Oblivion stehen im physikalischen Konflikt — jeder Wechsel zwischen ihren Stimmen erzeugt Landauer-Wärme im Text, spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233]
 The warmth is the cause; ozone smell and heat shimmer are both its rendering, in one sentence (J62).
 `Landauer-Signatur` does not occur. C11.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+The principle, taken literally: „Das Prinzip ist real (CERN-Experimente 2012, 2018) und gilt im Roman buchstäblich." ^[kohaerenz-protokoll-konzept-master-md.md:L151]
+Its consequences for the world:
+„AEGIS' Erasure-Sweeps erzeugen Wärme. Diese Wärme ist nicht metaphorisch." ^[kohaerenz-protokoll-konzept-master-md.md:L159]
+„Die "Risse" in der Simulation sind thermodynamische Manifestationen der eigenen Löschungsprotokolle." ^[kohaerenz-protokoll-konzept-master-md.md:L160]
+„Der Ozon-Geruch in den ANP-Szenen ist die olfaktorische Signatur der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L161]
+„Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure (Vortex Beat 4: Heat-Spike → ∞)." ^[kohaerenz-protokoll-konzept-master-md.md:L162]
+„Der somatische Filter im Encoding ist verbindlich: keine Gleichungen, sondern Hitze, Ozon, Schweiß, Übelkeit, Migränegefühl." ^[kohaerenz-protokoll-konzept-master-md.md:L166]
+And the prose rule: „**Somatischer Filter:** Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
+
+Here the signature is heat **and** ozone, both from AEGIS' erasure, and no line sets a warm trace against a cold one. Heat is displacement: „Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71] Conflict C11.
