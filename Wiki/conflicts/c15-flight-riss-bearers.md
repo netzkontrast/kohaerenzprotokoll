@@ -17,10 +17,10 @@ pages: ["risse", "kiko", "lia", "isabelle"]
 | 1 | [[kiko|Kiko]], as her second function, and Lia | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 1006 |
 | 2 | Lia and [[isabelle|Isabelle]] | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 560 |
 | 3 | Lia and [[isabelle|Isabelle]] | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 239 |
-| 4 | Lia and Isabelle, as KW2's spatial [[risse|Risse]] | `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10 | 236 |
+| 4 | Lia and [[isabelle|Isabelle]], as KW2's spatial [[risse|Risse]] | `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10 | 236 |
 | 5 | Lia and Isabelle, citing document 7's table | `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10 | 422 |
 | 6 | [[kiko|Kiko]] and Lia in its trigger table; Lia and Isabelle in KW2 | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10 | 406, 148 |
-| 7 | Kiko, as her second function, and Lia | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10 | 441, 878 |
+| 7 | [[kiko|Kiko]], as her second function, and Lia | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10 | 441, 878 |
 
 > „Kiko (zweite Funktion), Lia" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1006]
 

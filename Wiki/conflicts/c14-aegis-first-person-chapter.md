@@ -40,7 +40,7 @@ The glossary says the same in the same words (L533). Both date the exception
 person: „AEGIS-Kapitel arbeiten mit:" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L137]
 
 **Two sources of the lock's own date keep the rule without the exception.** The
-Kernwelten document gives AEGIS no inside at all (row 5). This document says it
+Kernwelten document gives [[aegis|AEGIS]] no inside at all (row 5). This document says it
 is „gefiltert auf Storyform-Lock-In 2026-05-07 und Iterationen 2026-05-30/31" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L13],
 places AEGIS' debut in the Hard-B chapter — „AEGIS' Stimme debütiert im Hard-B-Etablierungskapitel (Kap 5–8, Position offen)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]
 — and gives it the third person. The drafting manual holds the first-person view
