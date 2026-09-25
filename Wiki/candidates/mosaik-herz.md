@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "three-mode-architecture-39-chapters-md"]
 gathered: "2026-09-24"
 ---
 
@@ -57,3 +57,9 @@ konsolidiertes Konzept holds both. A question for the author (`NOW.md`).
 
 A KW4 sub-location: „Kap 34, vor Vortex — Setting der finalen Selbst-Schöpfung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L274].
 Only the Kap-34 place; no Kap-11 beat is named in this document.
+
+## Reading — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec — Kap 11, and Kap 23's resource
+
+Kap 11: „Akzeptanz der Komplexität — Mosaik-Herz" ^[three-mode-architecture-39-chapters-md.md:L188], its leitmotif „Mosaik, Scherben als Muster" ^[three-mode-architecture-39-chapters-md.md:L188].
+Cycle 3's correction, Kap 21–23: „Selbst-Schöpfung / Mosaik-Herz als innere Ressource" ^[three-mode-architecture-39-chapters-md.md:L247]; Kap 23 „Z3-Korrektur — Mosaik als Schöpfung" ^[three-mode-architecture-39-chapters-md.md:L267].
+At the end, one reading of the ending is „ein Triumph des Mosaik-Herzens" ^[three-mode-architecture-39-chapters-md.md:L315]. No place is named for it, and no Kap 34.
