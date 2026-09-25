@@ -1,10 +1,10 @@
 ---
 term: Lex
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -78,3 +78,8 @@ The warm-place map: „Akt-II-Schatzsuche mit Lex als Kartograph" ^[kp-plot-konk
 „Wenn Lex' Sprache bricht, ist das ein massives narratives Ereignis." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L77]
 Dominant in KW1 with the Host (L213); hypotactic even inside the Wir (L173); in the sharpest collision with
 [[nyx|Nyx]]: „Maximaler Konflikt zwischen Lex und Nyx" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233].
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Lex (Rationalist)" ^[kohaerenz-protokoll-konzept-master-md.md:L389]: correlate „Gödel + Halteproblem" ^[kohaerenz-protokoll-konzept-master-md.md:L389], somatics „Hypoventilation, kalt" ^[kohaerenz-protokoll-konzept-master-md.md:L389],
+arc toward intuition. In the matrix, „K₁-Buffer (logisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L953]. An inner advocate of coherence, like every ANP (L274).
