@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -79,3 +79,9 @@ open here too: „Moonshine-Boundary" ^[koharenz-protokoll-strukturierter-outlin
 
 Named only as an open point: „OQ-F (Moonshine-Boundary):" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1429] „wer kann den Link spüren, mit
 welcher Reichweite" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1429]. At Kap 30, „Moonshine-Bewusstsein" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L589].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+Silas is its „Resonanzkörper des Moonshine-Links innerhalb des Systems Kael." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L687] In Akt III he
+„Entscheidet sich, den Moonshine-Link vollständig zu öffnen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] The boundary is OQ-F:
+„Vorschlag: Silas zuerst, andere Alter im Verlauf von Akt II; räumlich global, phänomenal nur an Knotenpunkten." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1077]
