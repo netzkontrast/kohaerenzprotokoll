@@ -2,7 +2,7 @@
   "built": "2026-09-25",
   "by": "scripts/wiki_index.py",
   "pages": 93,
-  "conflicts": 12,
+  "conflicts": 13,
   "terms": {
     "aegis-metriken": {
       "title": "AEGIS' operative Metriken",
@@ -496,7 +496,7 @@
       ],
       "sources": 10,
       "readings": 10,
-      "conflict": "none yet"
+      "conflict": "C13"
     },
     "garten-der-stillen-praesenz": {
       "title": "Garten der stillen Präsenz",
@@ -1851,6 +1851,13 @@
       "subject": "the Genesis — three beats or four",
       "pages": [
         "trennungsprotokoll"
+      ],
+      "status": "open"
+    },
+    "C13": {
+      "subject": "the Externe Ebene — beyond the simulation, or not outside it",
+      "pages": [
+        "externe-ebene"
       ],
       "status": "open"
     },
