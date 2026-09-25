@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -70,3 +70,9 @@ The anchor tracker: first explicit at Kap 7, at Kap 39 „eingelöst. Telefon-St
 
 Juna's anchor: „Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1029] A check before any Alter scene:
 „Block-4-Anker-Test (Telefon-Stille):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1094] „Trägt die Szene den Anker oder bricht sie ihn?" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1094]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+In [[juna|Juna]]'s vocabulary, which is how she appears — only through effect:
+„Anomale Erason-Bilanz, Phantom-Resonanz, Telefon-Stille, plötzliche somatische Wärme, Wörter ohne Referent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
+Her sample: „Der Anruf klingelte nicht. Die Hand am Hörer wartete trotzdem." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61]
