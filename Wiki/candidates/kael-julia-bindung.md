@@ -1,11 +1,11 @@
 ---
 term: Kael-Julia-Bindung
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none yet
 aliases: ["K-J-Bindung"]
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -52,3 +52,10 @@ The bond as `K-J-Verbindung`: Kap 7 „K-J-Verbindung wird stärker
 beat: „Die Verbindung zu Juna wird zum stabilen, bewussten Kanal." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961] And the
 distribution: „Juna-Verbindung wird zum Werkzeug" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1353]. One more document that
 does not write `Kael-Julia-Bindung` (J13).
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+As `K-J-Verbindung` and `K-J-Kanal`: Kap 7, „K-J-Verbindung wird stärker; Telefon-Stille als Anker." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L474];
+Kap 30, „K-J-Verbindung als stabiler bewusster Kanal (A-Prerequisite)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L476];
+and in the reveal timeline, Kap 30: „K-J-Kanal stabil, bewusst" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L589].
+One more document that does not write `Kael-Julia-Bindung` (J13).
