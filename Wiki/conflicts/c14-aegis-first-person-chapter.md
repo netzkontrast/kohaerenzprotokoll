@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 13
+sources: 14
 pages: ["aegis"]
 ---
 
@@ -111,3 +111,9 @@ Not a chapter for AEGIS in Kap 5–8; an inside, in Kap 0, for what AEGIS was ma
 From the crisis AEGIS is a system voice: „Erster Auftritt der AEGIS-System-Stimme (Klammer-Statuszeile, operative Bürokratie)." ^[kap0-v1-annotiert-md.md:L549] „AEGIS bekommt Stilebene 1 mit operativ- bürokratischer Modifikation." ^[kap0-v1-annotiert-md.md:L1181]
 The writer flags every metaphor in its passages as a break of the Sprach-DNA, which „trennt diese strikt — Erzähler darf Metaphern, AEGIS nicht." ^[kap0-v1-annotiert-md.md:L1109]
 Like the draft of 2026-05-08: an inside in Kap 0 for what AEGIS is made of, no chapter in Kap 5–8.
+
+## 2026-09-25 — `three-mode-architecture-39-chapters-md`, 2026-05-08, the 39-chapter spec
+
+**AEGIS-POV scenes from Kap 14 on — the person not stated.**
+„Keine eigene POV-Szene aus AEGIS-Sicht in Teil 1." ^[three-mode-architecture-39-chapters-md.md:L202] Then Kap 14 „Kael, kurzer AEGIS-POV möglich" ^[three-mode-architecture-39-chapters-md.md:L258], Kap 22 „Kael, AEGIS dominant" ^[three-mode-architecture-39-chapters-md.md:L266], and Kap 34 „Kael (Wir) vs. AEGIS (Makro-Log)" ^[three-mode-architecture-39-chapters-md.md:L339].
+A POV of its own, and no Kap 5–8 slot. Whether `ich` or the third person, the spec does not say.
