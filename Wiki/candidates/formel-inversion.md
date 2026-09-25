@@ -72,3 +72,33 @@ Everything here is the document's `[V]` unless it cites `[K]`. It chose its plot
 „Kap 1: Kael *bestätigt*, dass die Welt stimmt. (Glätten als Dienst — negativ definierte Arbeit: verhindern, dass Abweichung ist.)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L124]
 „Kap 39: Kael *bezeugt*, dass die Welt ist. (Halten als Dienst — positiv definierte Arbeit: bewahren, dass es ist.) Dieselbe Geste (der Bericht), kippende Polarität." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L125]
 The sentences are not written; [[kael|Kael]]'s report carries their shape, from Kap 1 to Kap 39.
+
+## Where the sources differ
+
+**Where the second sentence falls.** At the turn from Kap 39 to Kap 40:
+„**Ende (Kap 39 → Kap 40):** *Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.*" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L111] (Konzept-Iteration Genesis), and so the
+konsolidiertes Konzept (L82), the glossary (L92) and the storyform outline (L34). Carried out
+in Vortex 2 or in Kap 39: „**Die zentrale Formel-Inversion vollzieht sich:** *„Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist."*" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1212]
+(strukturierter Outline, Kap 39), „**Formel-Inversion vollzogen.**" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L390]
+(storyform outline, Vortex 2), and so the Kapitel-Kompendium (L240) and the glossary's
+`Plurale Apotheose` (L615). In Kap 40, at its Klick: „Kap 40: *Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.*" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L344]
+(Doppel-Klammer Abhandlung). Two sources give it both a place in the Vortex and the turn
+from 39 to 40.
+
+**What turns.** From preventing to preserving, „Verhindern → Bewahren, Negation → Affirmation, Singular → Plural" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L348]
+(Abhandlung); „von Verhindern zu Bezeugen, von Abwehr zu Liebe" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L85]
+(konsolidiertes Konzept). The Abhandlung also names `Verhindern/Bezeugen` as the inversion
+„in Funktion" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L201]. The glossary calls the first sentence „tautologisch-suizidal" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L91];
+no other source does.
+
+**Not named, and stated otherwise.** The konzept master report, of the same date, writes
+AEGIS' directive in other words and with no inversion: „AEGIS' Primärdirektive ist negativ definiert: *"AEGIS ist, was AEGIS sich selbst hindert, nicht zu sein."*" ^[kohaerenz-protokoll-konzept-master-md.md:L473]
+It is on [[aegis]], not here: the report neither names the Formel-Inversion nor gives
+the second sentence.
+
+## Open
+
+- **Which of the three places the second sentence has** — the end of Kap 39, Kap 40, or
+  the turn between them — is the author's call, and it moves with C12's fourth beat.
+- The page was gathered from the eight read sources that name it (`corpus.py count
+  Formel-Inversion`: 8 documents, 13 occurrences, all eight read).
