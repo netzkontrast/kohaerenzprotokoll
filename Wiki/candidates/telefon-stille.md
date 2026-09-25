@@ -1,10 +1,10 @@
 ---
 term: Telefon-Stille
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -59,3 +59,9 @@ Substanz." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L813] Ka
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - main anchor of Juna’s modes before direct appearance: „Telefon-Stille ist der Hauptanker“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L744]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A recurring perception: „Telefon-Rauschen / -Stille:" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L384] „Junas Anker. Verschoben durch alle Akte." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L384]
+The anchor tracker: first explicit at Kap 7, at Kap 39 „eingelöst. Telefon-Stille als Anker des Buchs." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L477], and
+„Kap 1: KEIN Telefon-Anker." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L478] In the Euler strand, „Telefon-Stille als MI ohne Datenträger" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L449].
