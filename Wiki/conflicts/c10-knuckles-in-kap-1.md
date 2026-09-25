@@ -4,8 +4,8 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 9
-pages: ["kael"]
+sources: 10
+pages: ["kael", "nyx"]
 ---
 
 # C10 — do the knuckles bleed in Kap 1?
@@ -96,3 +96,12 @@ storyform document and the glossary, with the same named source.
 **Kap 0 only — in the Host's profile.** „Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125], „er weiß nicht, warum" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125],
 „Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125]. The profile trait of the
 strukturierter Outline and the Kap-0 lock of the Kompendium, in one line.
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**The bleeding knuckles in [[nyx|Nyx]]'s voice, in no chapter.** Her vocabulary:
+„Viszeral-kinetisch — Knöchel, bluten, Hitze, Brust, Splitter, Riss, Schlag, lauf." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L117]
+Her sample: „Die Luft ist heiß. Knöchel bluten. Ich sehe den Riss." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L117]
+[[kael|Kael]]'s own field, the Host's, has no knuckles (L69). Neither Kap 0 nor Kap 1 is named.
+Row 2 puts Nyx beside the knuckles in Kap 0 (its L459); here they are hers without a chapter.
+The document names row 1's source as one it consolidates (L13).
