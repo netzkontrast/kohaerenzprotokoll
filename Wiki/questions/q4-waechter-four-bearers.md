@@ -214,4 +214,4 @@ AEGIS is the `Hüterin der Ordnung` (L55), not `Wächter`. J20 holds.
 
 **A Wächterin, unnamed, in Kap 8 and Kap 17.**
 Kap 8: „Kael, Wächterin" ^[three-mode-architecture-39-chapters-md.md:L185]. Kap 17: „Z1-Korrektur — Wächterin" ^[three-mode-architecture-39-chapters-md.md:L261]. Cycle 1's correction: „Wächterin/Beobachter-Blick fängt Rückfall ab" ^[three-mode-architecture-39-chapters-md.md:L245].
-An inner function inside Kael's system, not a Guardian; the strukturierter Outline, ten days later, gives the Kap-8 Wächterin to Selene.
+She stands beside Kael as a bearer and as a way of looking, and the document does not say who she is. The strukturierter Outline, ten days later, gives the Kap-8 Wächterin to Selene.
