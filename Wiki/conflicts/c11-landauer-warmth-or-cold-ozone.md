@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 15
+sources: 16
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -205,3 +205,11 @@ And Kap 40 must echo the same words: „Wenn in Kap 0 "Wärme, die es nicht gebe
 It is a proposal, Setzung 2, whose origin the document names as a chat turn (L315, L554–L564). Cold is AEGIS' filter, not a sensation: „Diese Asymmetrie — AEGIS als kalte Filterung, Funken-Ich als für einen Moment offenes Erleben — ist die Konfliktsituation der Krise-Sequenz." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L442]
 No ozone and no Landauer stand in it, and Kap 6 and Kap 36 are not named (`Plan/runs/kap0-kap40-doppelklammer-abhandlung-2026-05-08-md/05-verify.txt`).
 On the date the konsolidiertes Konzept gives Landauer warmth to Kap 6 and Kap 36 and the master report makes heat and ozone one signature of AEGIS, this gives warmth to Juna alone — the warm half of the lock of 2026-05-30, three weeks before it, in the [[genesis|Genesis]].
+
+## 2026-09-25 — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text
+
+**Warmth as Juna's frequency in Kap 0, cold as the separation's, ozone in the city unexplained.**
+„Eine Wärme, die es nicht geben kann, weil hier keine Wärme existiert." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L401]
+„Die Kälte einer Trennung, die war, lange bevor *ich* war." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L425]
+Kap 0's last lines give the Konstrukt-Stadt its ozone, as something nobody can explain: „wo die Temperatur immer einundzwanzig Grad ist und manchmal die Luft nach Ozon riecht, ohne dass jemand weiß warum" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501]
+No Landauer and no heat stand in it (`Plan/runs/kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md/05-verify.txt`). The warm half the Doppel-Klammer Abhandlung of its date proposes, written; and ozone before Kap 1, three weeks before the lock of 2026-05-30.
