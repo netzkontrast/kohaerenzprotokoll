@@ -1,10 +1,10 @@
 ---
 term: Selene
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -62,3 +62,12 @@ her arc.
 DKT correlate: „Wormholes + Entanglement Islands." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L334] Arc: „Starre Wächterin → Architektin innerer Harmonie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361]
 „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361] For AEGIS she is „die größte Bedrohung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357].
 „Selene ist auch nicht Juna" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Selene (ANP / Integrator / ISH)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L99].
+„Vermittlung, Systemübersicht, Internal Self-Helper. Trägt den Bauplan der Zeit vor beiden Trauma-Schichten." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L101]
+„Nicht mit Juna zu verwechseln — Selene ist im System, Juna ist außerhalb." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L101]
+„Selene drängt nie. Wenn sie auftaucht, ist es spät." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L101]
+In KW4: „Selene dominiert in ANP-Modus; Wir-Stimme tritt erstmals ganz auf." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L225] The EPs read her as a threat,
+„Identitätsverlust durch Integration" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233].
