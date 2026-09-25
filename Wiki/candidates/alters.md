@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 11
-readings: 10
+sources: 12
+readings: 11
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -177,3 +177,9 @@ Multiplizitäts-Schleier-Disziplin hält." ^[koharenz-protokoll-strukturierter-o
 
 A reset lock counts them: „13 Alter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1185] — „exakter Roster (siehe Anteile-Profil); dekanonisierte Namen *nie* verwenden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1185] (J84, Q3).
 Hard rule R-3 keeps the word out of Akt I: „Alter, Fragment, ANP, EP, TSDP, DID" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1059].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+Thirteen, listed by category (L53–L56): five ANPs, five EPs, Argus, and the two mirrors. Fifteen names are
+excluded outright: „Dekanonisiert (NIE als aktive Charaktere):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95] „Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95]
+(Q3). „Die Spiegel-Alter sind das narrative Herz der 13er-Architektur." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L683]
