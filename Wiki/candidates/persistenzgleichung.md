@@ -1,10 +1,10 @@
 ---
 term: Persistenzgleichung
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: none
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-24"
 ---
 
@@ -43,3 +43,11 @@ The Überwelt's logic: „Visualisierung der Persistenzgleichung in Echtzeit." ^
 
 „AEGIS' tragischer Lesefehler: liest hohes η als Stabilität; tatsächlich misst η
 den Effizienzgrad der Verdrängung." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L55]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„η = α · MI(S) · e^(−δ/β)" ^[kohaerenz-protokoll-konzept-master-md.md:L127] — „AEGIS berechnet diese Gleichung buchstäblich, um die Stabilität des Systems zu messen." ^[kohaerenz-protokoll-konzept-master-md.md:L131]
+Its variables are η, α, MI(S), δ and β (L135–L139). What AEGIS does not grasp:
+„Die Gleichung misst nicht Kohärenz, sondern den Grad der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
+„Wenn η sinkt, heißt das nicht Systemversagen — es heißt, die Wahrheit kommt durch." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
+The misreading is „das messbare Symptom der Truth-Rotation" ^[kohaerenz-protokoll-konzept-master-md.md:L147] ([[truth-rotation]]).
