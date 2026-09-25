@@ -116,8 +116,9 @@ skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 | file | does | writes |
 |---|---|---|
 | `route.py` | One door for a third-party tool's model calls and for direct ones: free OpenRouter models only, the consent file naming which documents may be sent, every call recorded and replayable offline. `serve` is an OpenAI-compatible proxy a tool is pointed at; `guard <slug>` says whether a document's text would be refused. Jev calls need `.venv-typesafe`. | `Plan/runs/route/` — `ledger.jsonl`, `calls/`, `models.json` |
-| `lmrun.py` | How `pairs.py` and `graphrag.py` call a model through DSPy: cache off, one record per call, a real model refused without `approval=`. Needs `.venv-dspy`. | `Plan/runs/<subject>/lm/<step>.jsonl` |
+| `lmrun.py` | How `pairs.py` and `graphrag.py` call a model through DSPy: cache off, one record per call, a real model refused without `approval=`; `make_lm` builds `claude-cli/…`, `route/…` (a free model through `route.py`, pinned) or a LiteLLM string. Needs `.venv-dspy`. | `Plan/runs/<subject>/lm/<step>.jsonl` |
 | `lm_fixture.py` | An offline `dspy.BaseLM`, and `offline()`, which also hides every API key and makes `litellm` refuse. Needs `.venv-dspy`. | — |
+| `claude_lm.py` | Claude as a `dspy.BaseLM` through `claude -p`: no tools, no settings, no session, an empty working directory, thinking off unless asked; `lmrun.make_lm("claude-cli/haiku")` builds it (decision 011). Needs `.venv-dspy`. | — (the calls are recorded by `lmrun.py`) |
 | `check_dspy_skill.py` | Asserts what the `dspy` skill teaches against the DSPy installed here: every parameter and default it writes down, one offline probe per behaviour it marks checked, every path it names. Needs `.venv-dspy`. | — |
 | `check_dspy_surface.py` | Asserts each DSPy parameter this repository passes, by `inspect.signature`. Needs `.venv-dspy`. | — |
 | `trainset.py` | The judgement ledger as labelled pairs, and the `fold()` baseline any model has to beat. | `--export`: `Plan/trainsets/` |
