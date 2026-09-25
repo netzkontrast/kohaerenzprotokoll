@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["landauer-signatur", "risse"]
 ---
 
@@ -122,3 +122,17 @@ of the transition out of KW1 is thermal, „Hitze-Spitzen, Ozon-Konzentration" ^
 What Kap 6 smells or feels like it does not say. So one document holds the lock
 and a heat strand through Kap 6 — the arrangement neither of the lock's source
 nor of the konsolidiertes Konzept.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**The Landauer signal as heat, beside ozone as the signature — in a document filtered on the lock's iterations.**
+[[silas|Silas]] and [[oblivion|Oblivion]]: „jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
+That heat is „das Landauer-Signal, das der Leser (ohne es zu benennen) als Zeichen der Wahrheitsvertuschung zu lesen lernt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]
+Its sensory foreshadowing opens „Ozon (Landauer-Signatur), Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042].
+And the lock stands in Silas' field: „Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
+Nothing on Kap 6 or Kap 36. It says it is filtered on the iterations of 2026-05-30/31 (L13).
+
+**Found while reconciling it: the character bible holds the same sentence** —
+„Jedes Mal, wenn Oblivion etwas erasiert, das Silas gerade empfangen hat, entsteht Landauer-Hitze." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L753]
+— a reading on [[silas]] since document 8, and not in this record. So the warm side
+has a second source of 2026-05-08, and this document carries it past the lock.
