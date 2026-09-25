@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["kael"]
 ---
 
@@ -90,3 +90,10 @@ inversion table, „Kap 0 allein; Kap 1 spurlos" ^[kohaerenz-protokoll-welt-sens
 „2026-05-31-Locks (Kompendium)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1205]: „lebt in Kap 0 allein; Kap 1 bleibt spurlos; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1210].
 The return is open as „Wiederkehr-Form offen (OQ-Knöchel)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L678]. The same side as the
 storyform document and the glossary, with the same named source.
+
+## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**The character bible's trait, with the lock written into it.** In the Host's somatics:
+„Knöchel, die manchmal bluten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125] — „Blutungs-Faden, kanonisch nur in Kap 0 aktiv; Wiederkehr am Ende offen" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L125].
+The trait is row 1's source's and the strukturierter Outline's; the chapter is row 2's.
+The knuckles are not among its foreshadowing anchors (L1042–L1063).
