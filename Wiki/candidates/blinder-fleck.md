@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-17"
 ---
 
@@ -73,3 +73,10 @@ these are one system at two scales is not answerable from what has been read.
 
 `Wiki/conflicts/c4-guardians-and-aegis.md` holds both positions and decides
 nothing.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Ontologische Blindheit: AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
+„Es kann Qualia, Emotion, Resonanz nicht wahrnehmen, weil es keinen Begriff dafür hat." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
+In time: „AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[kohaerenz-protokoll-konzept-master-md.md:L206] „Wäre AEGIS in der Lage, atemporale Phänomene zu sehen, wäre Juna detektierbar" ^[kohaerenz-protokoll-konzept-master-md.md:L210].
+No blind spot is named for a Guardian. Placed here by what it states (J62). C4.
