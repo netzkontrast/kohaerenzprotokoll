@@ -1,0 +1,434 @@
+{
+  "document": "three-mode-architecture-39-chapters-md",
+  "drive_id": "1Jor2IW3lMrd1VOLSis1Wx2v3b4i9OZFhNT2jwCXaXJc",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "pre_classification": {
+    "candidates": 333,
+    "decisions": 341,
+    "decided_by_lookup": 179,
+    "needs_judgement": 162
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A workflow spec: what it names that no page holds is its own encoding apparatus (modes, bridge share, P1–P7, Riss-Szenen, Mikrocues, anti-patterns) and the stage names of two borrowed journeys, each a chapter title that belongs on the chapter pages. It defines nothing of the novel's world that a page lacks",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        23,
+        96,
+        202,
+        258,
+        266,
+        338,
+        339,
+        341,
+        380
+      ],
+      "attribution": "spec",
+      "note": "B's MC; no POV in Part 1, a POV from Kap 14, silent after Kap 36"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        96,
+        139,
+        265,
+        268,
+        333,
+        335,
+        494,
+        506
+      ],
+      "attribution": "spec",
+      "note": "A's IC; echo, witness, in danger; nature left open"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        23,
+        96,
+        167,
+        178,
+        278,
+        344
+      ],
+      "attribution": "spec",
+      "note": "A's MC, B's IC, the Host through 39 stages"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        98,
+        184,
+        187,
+        265,
+        335
+      ],
+      "attribution": "spec",
+      "note": "A's relationship story, Kap 7 to Kap 30"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        171,
+        212,
+        295,
+        343
+      ],
+      "attribution": "spec",
+      "note": "the veil until Kap 10–13, named by the end of Part 2"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        135,
+        137,
+        138,
+        171,
+        590
+      ],
+      "attribution": "spec",
+      "note": "thirteen by storyform; the word withheld in Part 1"
+    },
+    {
+      "page": "did",
+      "lines": [
+        171,
+        598
+      ],
+      "attribution": "spec",
+      "note": "a word Part 1 may not use"
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        188,
+        247,
+        267,
+        315
+      ],
+      "attribution": "spec",
+      "note": "Kap 11's stage, Cycle 3's resource"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        151,
+        245
+      ],
+      "attribution": "spec",
+      "note": "B-worlds and a KW2–KW3 phase, no count"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        268
+      ],
+      "attribution": "spec",
+      "note": "Kap 24's anchor"
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        278
+      ],
+      "attribution": "spec",
+      "note": "the middle step of the Genesis flashbacks"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        337
+      ],
+      "attribution": "spec",
+      "note": "sub-antagonists in Kap 32, unnamed"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        341,
+        440
+      ],
+      "attribution": "spec",
+      "note": "what B ends in"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        122,
+        171,
+        179,
+        202
+      ],
+      "attribution": "spec",
+      "note": "AEGIS' cracks, riss scenes as bridges, glitches (sweep)"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        278,
+        504
+      ],
+      "attribution": "spec",
+      "note": "three steps as flashbacks in Kap 18–22"
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        167,
+        183,
+        341,
+        359
+      ],
+      "attribution": "spec",
+      "note": "warmth in Kap 6 and Kap 36 Beat 4; ozone as Part 1's air"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        265
+      ],
+      "attribution": "spec",
+      "note": "felt through the Moonshine link, Kap 21"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        135,
+        179,
+        180,
+        198,
+        260
+      ],
+      "attribution": "spec",
+      "note": "ANP, hypotactic"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        135,
+        185,
+        198,
+        230,
+        260,
+        261
+      ],
+      "attribution": "spec",
+      "note": "ANP, cool and precise; a Wächterin unnamed"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        135,
+        198,
+        230
+      ],
+      "attribution": "spec",
+      "note": "EP, fragmented"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        135
+      ],
+      "attribution": "spec",
+      "note": "ANP, roster line"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        135
+      ],
+      "attribution": "spec",
+      "note": "ANP, roster line"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        135
+      ],
+      "attribution": "spec",
+      "note": "EP, roster line"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        135
+      ],
+      "attribution": "spec",
+      "note": "EP, roster line"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        135
+      ],
+      "attribution": "spec",
+      "note": "EP, roster line"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        135
+      ],
+      "attribution": "spec",
+      "note": "EP, roster line"
+    },
+    {
+      "page": "silas",
+      "lines": [
+        137,
+        372
+      ],
+      "attribution": "spec",
+      "note": "mirror alter, Coheron-Echo"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        137,
+        372
+      ],
+      "attribution": "spec",
+      "note": "mirror alter, Erason-Operator"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        138
+      ],
+      "attribution": "spec",
+      "note": "meta-cognition"
+    }
+  ],
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [
+    "C7",
+    "C11",
+    "C12",
+    "C14"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q3",
+    "Q4"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "AEGIS not expanded",
+    "C2": "no Entropie",
+    "C3": "`Emergenz-Texturen` only, a leitmotif",
+    "C4": "no blind spot",
+    "C5": "„Tanz im Garten — neue innere Welt“ (L190), no Möglichkeits-Garten named",
+    "C6": "no Guardian named or counted",
+    "C8": "no Approach",
+    "C9": "no Konstrukt-Stadt",
+    "C10": "no knuckles",
+    "C13": "no Basisrealität or Externe Ebene",
+    "C15": "no Flight",
+    "Q2": "no protocol term",
+    "Q5": "no pairing, no Erasure-Pol"
+  },
+  "judgements": [],
+  "decided_by_existing_rules": "Kael (Host) the Host's role gloss (proposal layer, not merged); Spiegel-Alters / Alters plural and shared head (J46, J53); Coheron-Echo, Erason-Operator on silas and oblivion by what they state (J53, J62); Moonshine the link's head used alone (J83); AEGIS-POV, AEGIS-Log, Juna-Witness, Juna-Echo and the like placed by what they state (J62); Genesis-Flashbacks, Vortex-Beats on genesis and vortex (J62); Einheit not a Wohneinheit or Evaluierungseinheit (substring); Stille not Telefon-Stille (J53); Zwei Arten der Kohärenz a title (J9)",
+  "not_read_although_looked_up": {
+    "coheron": "`Coheron-Echo` is Silas (J53)",
+    "erason": "`Erason-Operator` is Oblivion (J53)",
+    "emergenz": "`Emergenz-Texturen`, a leitmotif",
+    "evaluierungseinheit": "`Einheit` — substring",
+    "kaels-wohneinheit": "`Einheit` — substring",
+    "garten-der-stillen-praesenz": "`Stille` — shared head",
+    "nichts-rauschen": "`Reinform` is the storyforms in pure form (L61), not K₁'s",
+    "ueberwelt": "`Simulation` in general (J39; sweep occurrence)"
+  },
+  "not_promoted": [
+    "the encoding apparatus — Drei-Modi-Architektur, narrative Modi, Bridge-Frequenz, Bridge-Anteil, Soft-Layering, Default-Hard-Routing, Riss-Szenen as a technique, Mikrocues, Encoding-Disziplin, Exit-Bedingung, P1–P7, Anti-Patterns: this document's",
+    "the storyform names Heuristics of Integration and Phoenix Collapse: named, not defined here; on the plot overview",
+    "the stage names of both journeys (Illusion der perfekten Welt … Return with Elixir): chapter titles, on the chapter pages",
+    "Zyklus 1–3 and Z1–Z3: the cycles, on the chapter pages and the plot overview",
+    "Wächterin: unnamed, in Q4",
+    "Lyons-Welt, Babymonster-Welt: once each, undefined (L246, L259)",
+    "Murdock/Schmidt, Campbell/Vogler: the borrowed journeys; Kishōtenketsu already carries the document"
+  ],
+  "sweep": {
+    "hits": 3,
+    "readings": 1,
+    "occurrences": 2,
+    "note": "Glitches L171 (reading on risse); Kohärenz L339 (a chapter title, J9); Simulation L97 (the simulated world, J39)"
+  },
+  "found_by_rule_not_by_census": [
+    "risse (sweep: Glitches; AEGIS-Risse by J62)",
+    "genesis (J62)",
+    "landauer-signatur (J62: Landauer-Wärme)",
+    "potentialmeer (J62)",
+    "algorithmische-melancholie (lookup)"
+  ],
+  "already_there_from_the_scan": {
+    "vortex": "checked, stands",
+    "kishotenketsu": "checked, stands",
+    "goedel-gambit": "checked, stands",
+    "residual-echos": "checked, stands (another sense, as the page says)",
+    "komponente-734": "checked, stands"
+  },
+  "internal_tension": "The storyform boundary stands twice: „Kap 34 → 35 ist die eigentliche Storyform-Wendung“ (L83) and „Die Storyform-Grenze liegt bei 36/37“ (L634); L84 calls 36 → 37 the consolidation, so the two may be a turn's start and end",
+  "identity": "The Konzept-Iteration Genesis names „Das Spec-Dokument vom 2026-05-08 (drei Modi, 39 Kapitel)“ as the one to extend with Kap 0 and Kap 40 (its L818). This document is a spec of three modes and 39 chapters, dated 2026-05-08 by the manifest, and its Kap-6 and Kap-36 cells stand word for word in the Konzept-Iteration Genesis. Very likely that spec; the document names no date of its own",
+  "chapters": {
+    "readings_on": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "left_off": {
+      "0": "not named",
+      "40": "not named"
+    }
+  },
+  "plot_overview": "a reading; „every plan but one“ corrected to two — the master report and this spec have one Vortex",
+  "baseline_moved": false
+}
