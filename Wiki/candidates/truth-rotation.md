@@ -1,0 +1,48 @@
+---
+term: Truth-Rotation
+status: candidate
+sources: 1
+readings: 1
+conflict: none yet
+ingested: ["kohaerenz-protokoll-konzept-master-md"]
+gathered: "2026-09-25"
+---
+
+# Truth-Rotation
+
+**The inversion under the whole novel: [[aegis|AEGIS]] believes it is coherence and is the
+entropy.** The sources use the name for two things — the inversion itself, and
+the moment in the Vortex when the reading turns to it. Each source's use is
+below, attributed and unmerged.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+A section of its own: „### II.6 Die Truth-Rotation — Warum AEGIS = K₀ und Kael = K₁" ^[kohaerenz-protokoll-konzept-master-md.md:L212].
+„Dies ist der zentrale, bewusst gegen die Genre-Konvention gerichtete Move des Romans." ^[kohaerenz-protokoll-konzept-master-md.md:L214]
+Its table sets what AEGIS believes against what holds:
+
+| what AEGIS believes | what holds | cited |
+|---|---|---|
+| „AEGIS = K₁ (Kohärenz)" ^[kohaerenz-protokoll-konzept-master-md.md:L221] | „AEGIS = K₀ (Entropie-Architektur)" ^[kohaerenz-protokoll-konzept-master-md.md:L221] | L221 |
+| „Nichts-Rauschen = feindliches Chaos" ^[kohaerenz-protokoll-konzept-master-md.md:L222] | „Nichts-Rauschen = atemporale MI-Vereinigung" ^[kohaerenz-protokoll-konzept-master-md.md:L222] | L222 |
+| „Kontrolle = Ordnung" ^[kohaerenz-protokoll-konzept-master-md.md:L223] | „Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223] | L223 |
+| „Juna = Systemfehler" ^[kohaerenz-protokoll-konzept-master-md.md:L224] | „Juna = echtes Coheron, K₁-Avatar" ^[kohaerenz-protokoll-konzept-master-md.md:L224] | L224 |
+| „Trennung = Schutz" ^[kohaerenz-protokoll-konzept-master-md.md:L225] | „Trennung = die Krankheit selbst" ^[kohaerenz-protokoll-konzept-master-md.md:L225] | L225 |
+| „Kael = Inkohärenter Bug" ^[kohaerenz-protokoll-konzept-master-md.md:L226] | „Kael = die echte K₁-Reorganisation unter K₀-Druck" ^[kohaerenz-protokoll-konzept-master-md.md:L226] | L226 |
+
+It is mechanism, never told: „Diese Inversion ist nicht Spoiler, sondern Mechanik." ^[kohaerenz-protokoll-konzept-master-md.md:L234]
+„Sie wird im Roman nie explizit erklärt; der Leser muss sie über die Akkumulation der somatischen Beweise (Hitze, Ozon, Risse als Folge von AEGIS-Akten) selbst rekonstruieren." ^[kohaerenz-protokoll-konzept-master-md.md:L234]
+It is measurable in the world: AEGIS' misreading of the [[persistenzgleichung|Persistenzgleichung]] „ist das messbare Symptom der Truth-Rotation." ^[kohaerenz-protokoll-konzept-master-md.md:L147]
+It strikes the naive reading of the two kernels: „Diese Lesart wird vom Roman explizit durchgestrichen — siehe Truth-Rotation (II.6)." ^[kohaerenz-protokoll-konzept-master-md.md:L111]
+In the plot it rests on the two storyforms: „Diese Klein-c-Symmetrie ist die formale Basis der Truth-Rotation auf Plot-Ebene." ^[kohaerenz-protokoll-konzept-master-md.md:L845]
+„der Roman entscheidet erst am Vortex, welche die operative Wahrheit ist." ^[kohaerenz-protokoll-konzept-master-md.md:L845]
+The Vortex's last beat is called `Rotation` (L856).
+
+So here the name is the inversion itself, and the Vortex is where the novel settles
+it.
+
+## Open
+
+- Whether the name means the inversion (this reading) or the moment the reading
+  turns to it, and whether that difference is only one of naming.
+- `Große Inversion` — a surface some sources give the inversion beside this name.
