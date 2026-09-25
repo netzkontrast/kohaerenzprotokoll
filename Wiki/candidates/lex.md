@@ -64,6 +64,9 @@ A hard rule of the Sprach-DNA: „Lex flucht nie. Lex weint nie." ^[kohaerenz-pr
 „Direktes Produkt des Trennungsprotokolls" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L168] DKT correlate: „Gödel + Halteproblem." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L180]. Riss: „Endlosschleifen, fraktale Selbst-Widerlegung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L184].
 Consistency anchor: „Lex flucht nie. Lex weint nie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L211]
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the best clerk of the node
 
-**Proposal `[V]`.** F1 proposes Lex as the worker who enjoys precise classification, later mapping and comparing data. In the Kap-2 beat a notation with alien syntax is the proposed first sign of his work (L229). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L214]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„liebt die Arbeit — der beste Sachbearbeiter des Knotens, tragisch; später Kartograph und Vergleicher" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L214].
+The warm-place map: „Akt-II-Schatzsuche mit Lex als Kartograph" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]. His first intrusion is a note in Kael's drafts, „erster Lex-Einbruch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 2.

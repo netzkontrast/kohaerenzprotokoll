@@ -63,6 +63,8 @@ DKT correlate: „Wormholes + Entanglement Islands." ^[kohaerenz-protokoll-antei
 „Selene wartet im Möglichkeits-Garten (KW4), bis das System bereit ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L361] For AEGIS she is „die größte Bedrohung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L357].
 „Selene ist auch nicht Juna" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L365].
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — coordination from Kap 9
 
-**Proposal `[V]`.** F1 proposes coordinated work at the console starting in Kap 9, while Kael experiences it as an ordinary good day rather than a conscious plural self (L229). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L217]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„ab Kap 9: Arbeitsteilung an der Konsole wird koordiniert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L217]; signature „vermittelnde Übergänge zwischen Stilcodes" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L217].

@@ -97,8 +97,9 @@ Its chapter anchor carries the Kap-1 console line — „Kap 1 (einmal als Konso
 
 As „Wohneinheit 734-K" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105] (J58), with two more numbers in one line: „Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — Wohneinheit 734, and its number
 
-> „Die Kennung ist die seiner Wohneinheit“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
-**Proposal `[V]`.** The Kap-22 archival discovery would give `Komponente 734` the same number as Kael’s dwelling. A shared number in this scene is a proposed reveal, not proof that the component and dwelling are the same object (C12). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+„In Wohneinheit 734 existiert ein Anschluss, den kein Bauplan führt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64] The Kap-22 find makes the number the component's:
+„Die Kennung ist die seiner Wohneinheit" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]; „Er wohnt in der Akte seiner eigenen Quarantäne." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (J80)

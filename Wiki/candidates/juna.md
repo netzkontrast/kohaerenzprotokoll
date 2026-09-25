@@ -243,8 +243,10 @@ Anchors: „Telefon-Stille + Silas als interner Resonanzkörper." ^[kohaerenz-pr
 „Hitze (Junas Coheron-Spur ab Kap 3)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] (C11). Inside the system her echo is Silas; on the Korrelat-Achse,
 „Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L77].
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — an effect until Kap 38
 
-> „Datentyp-Feld ist leer“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
-**Proposal `[V]`.** F1 proposes a data record with an empty type field as Juna’s administrative trace from Kap 18; the source explicitly requires checking this against OQ-F and OQ-G before canonisation (L264). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206]
+Never the subject of a sentence: not that she calls, but „die Stille steht im Raum" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]. In the thread she is a record with an empty type field,
+„die Lücke, die AEGIS nicht sehen kann" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206], and otherwise not in it: „Juna im Faden ausschließlich als unbedienbares leeres Feld" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L242].
+Kap 30 has „Junas Kanal" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]. Her appearance is Kap 38 Beat 3: „Ab Beat 3 (Junas Erscheinung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (C7).

@@ -1,10 +1,10 @@
 ---
 term: Therapie-Schnittstelle Alpha
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -54,3 +54,9 @@ für simulierte Therapiesitzungen mit AEGIS-Avatar/NPC" ^[kohaerenz-protokoll-ke
 compatible, with „AEGIS als Avatar statt LogOS" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L167]. The document names its
 quarry as the old location concepts, among them this page's first source (L13).
 One term by J64.
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — filtered out
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Regel-Exekutor, Arbeiter-NPCs, Therapie-Schnittstelle stammen aus Steinbruch-Dokumenten" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L255]; they are taken over „nur als anonyme Funktionen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L255].

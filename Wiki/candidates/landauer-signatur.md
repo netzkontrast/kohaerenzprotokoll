@@ -111,8 +111,9 @@ Three placements of heat in one document. In the foreshadowing layer, ozone is t
 „Diese Hitze ist der somatische Fingerabdruck ihres Kampfes" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837]. And Silas' warmth is
 „die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]. The document does not relate them (C11).
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — cold ozone after every Ausgleich
 
-> „eine Spur kalten Ozons“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
-**Proposal `[V]`.** F1 proposes cold ozone after each adjustment at Kael’s workplace; its lock table reserves Landauer warmth for Vortex 1 Beat 4 (L239). Silas’ warmth appears elsewhere (L80). The document is itself `[V]` except for quoted anchors (L17), so C11 stays open. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
+„Landauer-Signatur = kaltes Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133], cited as `[K, Polaritäts-Lock]`; the job produces it „im Kleinsten" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]:
+„eine Spur kalten Ozons, kaum wahrnehmbar, von Kael nie hinterfragt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133] Kap 40: „Genau ein Klick, ohne Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (C11).

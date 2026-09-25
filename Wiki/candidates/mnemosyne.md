@@ -168,6 +168,8 @@ She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-draft
 „Verwaltet die Datenströme der Erinnerung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] „Setting des Klimax:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] the Mnemosyne-Archipel (L1000).
 „Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004] „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778].
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the complete archive as a gift
 
-**Proposal `[V]`.** Idea 11 proposes a double offer in Kap 31: Mnemosyne grants a complete archive while the Erasure-Pol offers deletion. The source calls this a two-Guardian design, which does not revise the author’s five-Guardian decision (C6). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Mnemosyne öffnet das vollständige Archiv — jede Erinnerung, lückenlos, sofort, als Flut" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]. In Kap 31, administratively: „Mnemosyne bietet Vollarchiv-Rechte" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229].

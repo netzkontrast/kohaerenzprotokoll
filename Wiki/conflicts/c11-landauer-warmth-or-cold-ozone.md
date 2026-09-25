@@ -164,6 +164,12 @@ C10's row 1 and the second a reading on [[silas]] since document 8; this record
 held neither. Three weeks before the 2026-05-30 lock, like the konsolidiertes
 Konzept of the same day.
 
-## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 
-**A proposed plot mechanism applying the cold-ozone split.** Each administrative adjustment would leave „eine Spur kalten Ozons“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]. The proposed F1 chapter table has a `Heat Spike` at Kap 36, Beat 4 (L229); its lock table reserves Landauer warmth for that beat (L239). Silas leaves slight warmth at other locations (L80). The document labels its additions `[V]` (L17, L108, L291); it does not decide the conflicting readings of Kap 6 or the source of Silas–Oblivion heat.
+**The cold side, with one place for Landauer warmth — and Kap 6 filtered cold on purpose.**
+The document is `[V]` throughout; each `[K]` below is its citation of a lock.
+Cold ozone after every Ausgleich: „Landauer-Signatur = kaltes Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133], and „der Arbeitsplatz ist die kälteste Zone der Stadt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
+Kap 6: „Sensorik kalt/Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], marked as a filter against „§7-Konflikt 1 des Source-of-Truth" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] — so it knows Kap 6's heat as a conflict and applies the cold side.
+Kap 36 Beat 4: „Heat Spike [K, einziger kanonischer Landauer-Wärme-Ort]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]; the lock table: „Landauer-Wärme ausschließlich Beat 4" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239].
+[[silas|Silas]] carries warmth as the Coheron-Echo: „Polaritätsregel exakt (Wärme nur als Coheron-Spur)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80], debut in Kap 3.
+Heat as the [[silas|Silas]]–[[oblivion|Oblivion]] conflict does not occur. Of the three ways the Anteile-Profile place heat, this document holds two — the lock and Silas — and relates them.

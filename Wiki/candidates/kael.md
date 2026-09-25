@@ -216,6 +216,13 @@ The Host, profiled as one of thirteen: „Komponente 734, Archivar Klasse II, Wo
 „Resolve = Change (adoptiert Pursuit am Klimax Kap 35)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] „Be-er-Modus:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L149] — Storyform A's main character.
 „Kael darf in Akt I nicht wissen, dass er ein System ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157]
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — his job, as the plot's motor
 
-**Proposal `[V]`.** F1 proposes that Kael’s daily sequence checks smooth the very deviations he will later investigate; the job becomes an administrative version of Erasure. The proposal says Kap 1 stays unchanged, while Kap 2–5 would extend the routine (L229). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Kaels Beruf wird zum Plot-Motor." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52] He confirms data streams and marks deviations —
+„und das System nimmt die Markierung und gleicht sie aus" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52], cited as `[K, v0.3]`. The proposal's
+turn: „Sein Beruf ist die zivile, höfliche, verwaltete Form der Erasure" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52]. A career ladder in three
+Stufen: Sequenz-Prüfung, Bestandspflege (Kap 5), Konsolidierungs-Freigabe ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L198].
+In the cast table: „Kael (Host)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L213], signature „Atemzählung, Zählen der Sequenzen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L213].
+Its Kap-1 locks: „Kap-1-Locks (Erstsatz, 80/20, Einheit 734, Silas-Halbsatz, kaltes Ozon, keine AEGIS-Stimme)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L236] — no knuckles among them (C10).

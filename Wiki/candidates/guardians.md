@@ -324,8 +324,10 @@ Two: Mnemosyne is „eine der zwei Guardians; arbeitet für AEGIS, klingt aber a
 Erasure-Pol, „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1014], into which „Die alten Cerberus-/LogOS-/Kairos-Funktionen sind hier absorbiert." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1016]
 The author decided C6 for five on 2026-09-24; recorded, not reopened.
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — two, as two offers
 
-> „Zwei-Guardian-Kanon exakt bedient“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
-**Proposal `[V]`.** The Kap-31 scene is framed around two offers, from Mnemosyne and the Erasure-Pol. The document explicitly claims a two-Guardian arrangement; it is a dated proposal alongside, not a replacement for, the author’s five (C6). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]
+„Die Guardian-Auflösung (Kap 31 [K]) nicht als Kampf, sondern als doppeltes Angebot" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]: Mnemosyne and the Erasure-Pol.
+„die Guardians wollen helfen, in der einzigen Sprache, die sie haben" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]. „Zwei-Guardian-Kanon exakt bedient" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] (C6, Q5).
+Names from older documents are filtered out: „LogOS/Limina-Vokabular (dekanonisierte Namen)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L255].

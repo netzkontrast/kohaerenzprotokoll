@@ -66,6 +66,8 @@ the chapter template asks after: „Lex↔Nyx?" ^[kohaerenz-protokoll-welt-senso
 „Nyx (Fight) — Schicht 2" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L373]. DKT correlate: „CPT-Verletzung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L387]. Riss: „Kinetisch — Geschwindigkeit, Stoß, Beschleunigung, Splitter, Vibration." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L391]
 Her „Hitze im Brustkorb" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] is set apart from Juna's trace, „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395] (C11).
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the hand that stops
 
-**Proposal `[V]`.** F1 proposes Nyx’s first refusal as a hand that stops before confirming a contradictory assignment in Kap 6 (L229). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„der erste nicht ausgeführte Ausgleich (Kap 6): die Hand stoppt vor dem Klick" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216]; signature „Verben der Verweigerung, Stakkato" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216].

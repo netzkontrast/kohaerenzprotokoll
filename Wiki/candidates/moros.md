@@ -61,6 +61,8 @@ Sprach-DNA: „Moros ist nicht depressiv" ^[kohaerenz-protokoll-welt-sensorik-dr
 „Moros (Kollaps) — Schicht 1" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L576]. DKT correlate: „Big Freeze. Universum-Hitzetod." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L590] Riss: „Gravitativ — Schwere, Sinken, Kompression" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L594].
 „Moros ist der Zustand, vor dem alle anderen Phobie haben." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L586] Anchor: „Moros ist nicht depressiv im klinischen Sinne." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L621]
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — one object, one Riss type
 
-**Proposal `[V]`.** A proposed hair clip makes the ground heavy, linking Moros to a gravitational Riss in the collection of lost objects. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„die Haarspange macht den Boden schwer (Moros → gravitational)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60].

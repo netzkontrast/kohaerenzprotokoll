@@ -95,8 +95,12 @@ The open point on the Genesis: „Aktueller Lock-In: vier Beats (Kompendium 2026
 „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219], so „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219].
 „Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] (C12). Oblivion in Akt II re-lives „AEGIS' eigene Genesis-Krise" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L787].
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — Kap 0 and three flashbacks
 
-> „Genesis-Flashback Komp 734“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
-**Proposal `[V]`.** The F1 chapter table places proposed flashback scenes at Kap 18, 21 and 22 and a single click in Kap 40. Those positions are an order of telling, not evidence of the original Genesis event order (C12). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+Kap 0: „Komponente 734 wird konsolidiert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164]. The flashbacks, as chapter beats:
+„Genesis-Flashback Cluster-Bildung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 18, „Genesis-Flashback Trennungsprotokoll" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 21,
+and in Kap 22 „Genesis-Flashback Komp 734" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]. Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] —
+a movement numbered in a series the document does not lay out: it uses the same word for its 41 chapter units ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L159] (C12).
+The Genesis motif „Klick" gets a body in Akt I: „das Geräusch des Trennungsprotokolls als Alltagsgeräusch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129].

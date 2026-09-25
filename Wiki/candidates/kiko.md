@@ -61,6 +61,8 @@ Riss (Freeze) and, with Lia, the spatial one (Flight) ^[kohaerenz-protokoll-welt
 „Kiko (Freeze / Kind) — Schicht 1" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L423]. DKT correlate: „Planck-Skala." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L437] Riss: „Temporal-Stutter" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L441], and a second
 function, Flight, shared with Lia. „Hauptziel von AEGIS' Erasure-Versuchen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L460] Anchor: „Kiko ist nicht „niedlich"." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L468]
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — one object, one Riss type
 
-**Proposal `[V]`.** A proposed ticket that carries an impossible date is tied to Kiko’s temporal Riss in the collection of lost objects. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+A Fundsache from Köln triggers her Riss type: „das Ticket trägt ein Datum, das nicht vergeht (Kiko → temporal)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60].

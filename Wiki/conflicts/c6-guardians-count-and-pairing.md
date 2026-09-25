@@ -167,6 +167,8 @@ the other is the „Erasure-Pol (Name offen)" ^[kohaerenz-protokoll-anteile-prof
 [[sophia|Sophia]] is not named. A source of 2026-06-10 for the two-Guardian side, filtered from the character bible
 (L13); the author's decision for five stands.
 
-## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 
-The proposed Kap-31 double offer names Mnemosyne and the Erasure-Pol and calls this „Zwei-Guardian-Kanon“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]. It repeats a two-Guardian claim already present in sources above. The author's five-Guardian count remains the recorded decision; this scene needs revision if it is used.
+**Two, and older names filtered.** „Zwei-Guardian-Kanon exakt bedient" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]: [[mnemosyne|Mnemosyne]] and the Erasure-Pol, as two offers in Kap 31.
+Steinbruch material is used only as anonymous functions because of its „LogOS/Limina-Vokabular (dekanonisierte Namen)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L255]. No world is paired with a Guardian.
+The author's decision for five stands; the document is a proposal of 2026-06-10.

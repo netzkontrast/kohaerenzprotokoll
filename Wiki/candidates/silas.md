@@ -85,6 +85,10 @@ Kap 1 — „Etwas in der Frequenz der Lüftung schien zu—" ^[kohaerenz-protok
 In Akt III „Wird zum aktiven Transmitter für das Gödel-Gambit." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] Anchor: „Silas ist nicht Juna." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L735]
 His conflict with Oblivion makes heat: „entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] (C11).
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the man walking the other way
 
-**Proposal `[V]`.** Idea 8 proposes a commuter who always walks against Kael’s direction and leaves slight warmth, while preserving the proposed Kap-3 warmth debut. It is a scene mechanism, not a resolution of the Landauer heat dispute (C11). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+First the locked half-sentence in Kap 1, then a commuter in Transitkorridor Delta-7 who always comes towards Kael ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80].
+„Wo er stand, ist es minimal wärmer" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80] — „Silas = interner Resonanz-Körper, Coheron-Echo" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80]; the warmth debut stays in Kap 3.
+„Polaritätsregel exakt (Wärme nur als Coheron-Spur)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80] (C11). In Akt III „geht er zum ersten Mal neben Kael." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80]

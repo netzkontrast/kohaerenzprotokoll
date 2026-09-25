@@ -215,8 +215,11 @@ Each Alter has a Riss type (§7): „Wenn ein Alter flutet, verändert sich nich
 Beside them, „Plus Welt-Risse (Akt-spezifisch, nicht alter-getrieben):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886] KW1 → KW2 thermal,
 „KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890] Found by the sweep (decision 012).
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the deviations Kael smooths
 
-> „Abweichungen = K₁-Spuren“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L251]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
-**Proposal `[V]`.** F1 proposes that the deviations Kael marks at work are small K₁ traces of Risse. Its own risk section says the equation requires an author decision before use (L251, L262). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52]
+„Was Kael täglich glättet, sind die Risse im Kleinsten — K₁-Spuren, die durch die K₀-Architektur drücken." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52]
+In prose the word is forbidden: „Riss, K₁-Spur" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L145] becomes „Abweichung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L145].
+Each Fundsache from Köln „löst dessen Riss-Typ aus" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60], citing `[K, EP-Riss-Tabelle]`: Kiko temporal, Moros gravitational.
+The document names its own premise as open and blocking: F1-1, the thread's „ontologischer Unterbau des Fadens" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L262], marked blocking before P1.

@@ -71,6 +71,8 @@ The first Genesis motif, `Rauschen`: „Nichts-Rauschen vor jeder Form" ^[kohaer
 „K₁-Reinform; was AEGIS für Chaos hält, ist Vereinigung aller MI" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523]. AEGIS classifies the
 K₁-Reinform as „uncorrelated noise" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — K₁-Reinform, Kap 33
 
-**Proposal `[V]`.** The proposed Kap-37 queue gains entries whose sender is the Rauschen; at Kap 38 the Rauschen arrives as an unbounded assignment. The source does not equate that short form with Nichts-Rauschen here. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Kap 33, at the core, the first assignment of the universe: „Berührung der K₁-Reinform" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229].

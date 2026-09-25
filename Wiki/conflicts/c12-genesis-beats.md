@@ -151,6 +151,9 @@ Alex „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteil
 „Reviewer-Frage offen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1079] Komponente 734 is Kael's designation (L105), not placed in the Genesis. The same
 [[alex|Alex]] conflict the drafting manual names (its §14.4), here from the profile's side.
 
-## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 
-**The proposal relates two uses of 734 without ordering the Genesis events.** Kap 22 would show the specification of `Komponente 734` as a file found in Theta-9; the proposal says the number is also Kael's dwelling designation (L88). The F1 table locates flashbacks at Kap 18, 21 and 22 (L229), an order of revelation rather than an explicit order of formation. A Kap-0 `Konsolidierung` of 734 is proposed in the thread table (L164). This source does not settle whether the component formed before or after the `Trennungsprotokoll`.
+**734 consolidated in Kap 0; the flashbacks in the order Cluster → [[trennungsprotokoll|Trennungsprotokoll]] → 734.**
+Kap 0: „Komponente 734 wird konsolidiert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164]. The three flashbacks as chapter beats: „Genesis-Flashback Cluster-Bildung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 18,
+„Genesis-Flashback Trennungsprotokoll" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 21, and in Kap 22 „Genesis-Flashback Komp 734" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] — the narrative order in which 734 comes last.
+It counts no beats. Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], the numbering the drafting manual uses for a movement of Kap 0; this document uses the same word for its 41 chapter units (^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L159]) and lists no movements.

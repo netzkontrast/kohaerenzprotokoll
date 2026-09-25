@@ -65,6 +65,8 @@ der Algorithmischen Melancholie als Echo offen" ^[koharenz-protokoll-strukturier
 
 Placed in the reveal timeline at Kap 36, AEGIS' column: „algorithmische Melancholie setzt ein" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L592].
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — a booking problem
 
-**Proposal `[V]`.** In the proposed Hard-B scene, AEGIS books a remainder as a rounding error and creates an exception; the text calls this the debut of algorithmic melancholy as an accounting problem. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+In AEGIS' first-person chapter a residual value no category takes: „Debüt der Algorithmischen Melancholie als Buchungsproblem — gezeigt, nie benannt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96]

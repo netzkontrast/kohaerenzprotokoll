@@ -55,6 +55,8 @@ Function „konstruktive Selbst-Kritik, Meta-Beobachter" ^[koharenz-protokoll-st
 Riss: „Zeno-Effekt." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L647] „Argus ist die einzige Stimme im System, die AEGIS' Kernfehler benennen kann." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L667]
 His somatics are `[L]`, a proposal from the character bible (L651).
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — patterns in the assignments
 
-**Proposal `[V]`.** F1 proposes Argus as the first to notice repeated patterns in assignments, conveyed through questions that need no question mark. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L215]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„bemerkt zuerst Muster in den Zuweisungen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L215]; signature „Meta-Fragen ohne Fragezeichen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L215].

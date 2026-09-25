@@ -92,6 +92,8 @@ MUST_NOT_MERGE = [
     # a visual logo on the Guardian page fold() spells `logos`.
     ("Spiel", "Spieler"),
     ("Logo", "LogOS"),
+    # Storyform notation: a throughline, not the protocol its letters spell (J87).
+    ("A:RS", "ARS"),
 ]
 
 # fold() must merge these. Each is a rule the ledger records.

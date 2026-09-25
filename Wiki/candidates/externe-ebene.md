@@ -140,6 +140,9 @@ As the ground of the first trauma layer (J54): „Schicht 1 (Bindungstrauma Basi
 [[isabelle|Isabelle]], [[moros|Moros]]. It writes `Basisrealität` and does not place Köln inside or outside the
 simulation, so it takes no side in C13.
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — present only as objects
 
-**Proposal `[V]`.** Idea 3 proposes objects and smells from the external layer reaching Kael without staging Köln itself; these are plot devices, not evidence that the location is outside the simulation (C13). ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Schicht 1 (Köln) betritt nie die Bühne" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60] — it leaves objects instead. Its Kanon-Prüfung: „Externe Ebene nur als Fragment/Geruch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60].
+Of the warm places mapped in Akt II: „der Leser, der die Externe Ebene kennt, fällt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84] It does not say where the Externe Ebene lies (C13).

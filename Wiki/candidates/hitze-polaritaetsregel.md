@@ -59,8 +59,10 @@ Named as the Polaritäts-Lock of 2026-05-30 (J83), with the warmth given to [[si
 And as a discipline Nyx's heat must keep: „nicht Junas Coheron-Spur" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395]. Beside it, heat as the Silas–Oblivion
 conflict, „entsteht Landauer-Hitze." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] — see [[landauer-signatur]] and C11.
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — one place of Landauer warmth
 
-> „Landauer-Signatur = kaltes Ozon“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
-**Proposal `[V]`.** F1 places cold ozone after administrative adjustments and excludes warmth from the data node before Act II. Its lock table reserves Landauer warmth for Vortex 1 Beat 4 (L239); the rule is attributed to earlier sources, and C11 remains open. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133]
+„Polaritätsregel unberührt (Stille, nicht Wärme)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]; for Silas „Polaritätsregel exakt (Wärme nur als Coheron-Spur)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80].
+Kap 6 is cold: „Sensorik kalt/Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], citing „§7-Konflikt 1 des Source-of-Truth" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]. Kap 36 Beat 4:
+„Heat Spike [K, einziger kanonischer Landauer-Wärme-Ort]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]. The lock table: „Landauer-Wärme ausschließlich Beat 4" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239] (C11).

@@ -13,48 +13,76 @@
     "conflicts": 15
   },
   "pre_classification": {
-    "candidates": 90,
-    "decisions": 92,
-    "decided_by_lookup": 76,
-    "needs_judgement": 16
+    "candidates": 571,
+    "decisions": 575,
+    "decided_by_lookup": 309,
+    "needs_judgement": 266
   },
   "new_terms": [],
-  "why_no_new_terms": "Every unmatched surface names a plot device, a chapter action, a lens or an unsettled proposed name in a document that explicitly marks its additions [V]. No independently defined novel-world term is promoted from an occurrence. The full unmatched list and line locations are retained below.",
+  "why_no_new_terms": "A proposal: „Alles in diesem Dokument ist [V], sofern nicht explizit [K]-Anker zitiert wird\" (L17), and „Nichts hieraus gilt als Kanon\" (L291). Its own terms are the thread's machinery — the counter-register, the Wartungsfenster, the Stufen, the Warteschlange, the Klick — proposed, not asserted. Its [K] places (Lernarchiv Theta-9, Transitkorridor Delta-7, Komponente 734) are citations of another document's locks, each named once in a chapter line, and earlier readings of those documents left them without pages. A page created from a proposal would say nothing and look like it says something.",
   "new_readings": [
     {
       "page": "kael",
       "lines": [
         52,
-        229
+        198,
+        213,
+        236
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
-    },
-    {
-      "page": "aegis",
-      "lines": [
-        96,
-        220
-      ],
-      "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "risse",
       "lines": [
         52,
-        251
+        60,
+        145,
+        262
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
-      "page": "externe-ebene",
+      "page": "aegis",
       "lines": [
-        60
+        52,
+        72,
+        96,
+        220,
+        241
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        88,
+        129,
+        159,
+        164,
+        229
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        76,
+        218
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        56
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "kiko",
@@ -62,7 +90,7 @@
         60
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "moros",
@@ -70,7 +98,16 @@
         60
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        60,
+        84
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "telefon-stille",
@@ -78,15 +115,18 @@
         64
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
-      "page": "oblivion",
+      "page": "juna",
       "lines": [
-        76
+        64,
+        206,
+        229,
+        242
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "silas",
@@ -94,31 +134,53 @@
         80
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        80
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        84,
+        214,
+        229
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "moonshine-link",
       "lines": [
-        84
+        84,
+        229,
+        264
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
-    },
-    {
-      "page": "mnemosyne",
-      "lines": [
-        92
-      ],
-      "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "guardians",
       "lines": [
-        92
+        92,
+        255
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        92,
+        229
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "algorithmische-melancholie",
@@ -126,42 +188,26 @@
         96
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "trennungsprotokoll",
       "lines": [
-        116
-      ],
-      "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
-    },
-    {
-      "page": "genesis",
-      "lines": [
+        116,
+        129,
         229
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "landauer-signatur",
       "lines": [
         133,
-        229,
-        239
-      ],
-      "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
-    },
-    {
-      "page": "lex",
-      "lines": [
-        214,
         229
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "argus",
@@ -169,7 +215,7 @@
         215
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "nyx",
@@ -177,7 +223,7 @@
         216
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "selene",
@@ -185,23 +231,7 @@
         217
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
-    },
-    {
-      "page": "juna",
-      "lines": [
-        206
-      ],
-      "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
-    },
-    {
-      "page": "mosaik-herz",
-      "lines": [
-        229
-      ],
-      "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "nichts-rauschen",
@@ -209,497 +239,129 @@
         229
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
-      "page": "hitze-polaritaetsregel",
+      "page": "logos",
       "lines": [
-        133,
-        239
+        255
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        262
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     },
     {
       "page": "kaels-wohneinheit",
       "lines": [
+        64,
         88
       ],
       "attribution": "proposal",
-      "note": "The source labels additions [V]; the page distinguishes its proposal from prior readings."
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "datenverarbeitungsknoten-7g",
+      "lines": [
+        133,
+        192,
+        287
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        64,
+        80,
+        229,
+        239
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        153
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
+    },
+    {
+      "page": "therapie-schnittstelle-alpha",
+      "lines": [
+        255
+      ],
+      "attribution": "proposal",
+      "note": "the document's [V]; a [K] in it is its citation of a lock"
     }
   ],
+  "reached_by_existing_rule": [
+    "kaels-wohneinheit (J58, J80)",
+    "datenverarbeitungsknoten-7g (J65: Datenknoten Epsilon)",
+    "hitze-polaritaetsregel (J83: Polaritätsregel)",
+    "kern-welten (J37: KW1)",
+    "therapie-schnittstelle-alpha (J64/J65: a Steinbruch facility with no letter)",
+    "moonshine-link (J71: Moonshine by the sentence, Kap 10's tool)"
+  ],
+  "not_read_although_looked_up": {
+    "ars": "A:RS at L41 is Storyform A's Relationship Story; fold() made it ARS — J87, fold now keeps the colon",
+    "kohaerenz": "only in the title (L11); sweep row"
+  },
   "new_surfaces": [],
   "new_conflicts": [],
   "conflicts_changed": [
+    "C4",
     "C6",
+    "C7",
     "C11",
     "C12",
     "C14"
   ],
-  "questions_changed": [],
+  "questions_changed": [
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "no expansion of AEGIS",
+    "C2": "Entropie does not occur",
+    "C3": "AEGIS' origin is not stated",
+    "C5": "no Garten, no KW4",
+    "C8": "no Approach for AEGIS; Avoidance/Pursuit is Storyform A's MC (L181–L182)",
+    "C9": "Konstrukt-Stadt does not occur; KW1 only as a vocabulary rule (L153)",
+    "C10": "no knuckles: the Kap-1 locks it lists (L236) do not include them — silence, not a position",
+    "C13": "Schicht 1 (Köln) never on stage, the Externe Ebene only as fragment or smell (L60); not placed inside or outside the simulation",
+    "C15": "Flight, Lia and Isabelle do not occur",
+    "Q1": "the two Guardians offer gifts (L92); not said to be inside AEGIS",
+    "Q2": "none of the eight protocols occurs; A:RS is not ARS (J87)",
+    "Q3": "no world tied to an Alter; only KW1 named"
+  },
   "judgements": [
-    "J47",
-    "J51",
-    "J76",
-    "J83"
+    "J87"
   ],
+  "decided_by_existing_rules": "compounds placed by what they name (J8, J28, J32): the Juna-, AEGIS-, Genesis-, Coheron-, Silas-, Oblivion-, Klick-, Erasure-, Wärme- and Landauer- compounds; Genesis-Flashback/-Echo/-Prolog as narrative devices (J76, J77); Erasure-Pol/Erasure (J59); temporal/Atemporalität by the negation prefix (J5); Landauer-Wärme and Landauer-Signatur kept apart (J62, J81); Rauschen/Nichts-Rauschen (J51); Logos-Prime/LogOS (J49); Kael (Host) as a role (J70); Einheit 734 decided by the passage (J80); matches only after folding cuts words (J69): Kennung, Abweichung, Anomalie, Architektur, Die andere Seite des Schalters, Signatur, Kern, Stille.",
   "not_promoted": [
-    {
-      "surface": "Plot-Faden F1",
-      "lines": [
-        11,
-        106
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Apparat-Zopf",
-      "lines": [
-        40
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Verlust/Beweis-Zopf",
-      "lines": [
-        42
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "K₀-Architektur",
-      "lines": [
-        52
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "K₁-Spuren",
-      "lines": [
-        52,
-        116,
-        251,
-        262
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Sequenz-Prüfung",
-      "lines": [
-        52,
-        198,
-        283
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Ausgleich",
-      "lines": [
-        133,
-        144,
-        192,
-        216,
-        283
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Bestandspflege",
-      "lines": [
-        52,
-        148,
-        198,
-        229,
-        265
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Konsolidierungs-Freigabe",
-      "lines": [
-        52,
-        198
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Gegenregister",
-      "lines": [
-        54,
-        72,
-        76,
-        165,
-        183,
-        188,
-        229,
-        237
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Bunker",
-      "lines": [
-        56,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Fundsachen",
-      "lines": [
-        58,
-        60
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Schicht 1",
-      "lines": [
-        60
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "EP-Riss-Tabelle",
-      "lines": [
-        60
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Leitung",
-      "lines": [
-        62,
-        64,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Wohneinheit 734",
-      "lines": [
-        64
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Wartungsfenster",
-      "lines": [
-        60,
-        66,
-        146,
-        185,
-        220,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Z1",
-      "lines": [
-        68,
-        72,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Z2",
-      "lines": [
-        68,
-        72
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Z3",
-      "lines": [
-        68,
-        72,
-        84,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Wartungs-Ticket",
-      "lines": [
-        72
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Lernarchiv Theta-9",
-      "lines": [
-        72
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Halteproblem-Dossier",
-      "lines": [
-        72,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Komplexitäts-Budget",
-      "lines": [
-        72,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Rendering",
-      "lines": [
-        72,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Prozess-Kern",
-      "lines": [
-        72,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Wärme-Kartographie",
-      "lines": [
-        82
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Komponente 734",
-      "lines": [
-        88,
-        164
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Hard-B-Kapitel",
-      "lines": [
-        96,
-        166,
-        220,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Restwert",
-      "lines": [
-        96,
-        149,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Ausnahme",
-      "lines": [
-        96,
-        149,
-        218,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Ouroboros",
-      "lines": [
-        100
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Autoren-Feder",
-      "lines": [
-        100,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Klick",
-      "lines": [
-        52,
-        129,
-        167,
-        174,
-        182,
-        197,
-        216,
-        229,
-        240,
-        246,
-        252,
-        267
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Ozon-Kopplung",
-      "lines": [
-        133
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Datenknoten Epsilon",
-      "lines": [
-        52,
-        192,
-        287
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Bestände",
-      "lines": [
-        72,
-        184,
-        198,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Zuweisung",
-      "lines": [
-        196,
-        206,
-        215,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Warteschlange",
-      "lines": [
-        186,
-        196,
-        253
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "DATENTYP_FEHLT",
-      "lines": [],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Optionlock",
-      "lines": [
-        187,
-        229,
-        254
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Timelock",
-      "lines": [
-        68,
-        186
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Avoidance",
-      "lines": [
-        56,
-        181,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Pursuit",
-      "lines": [
-        56,
-        182,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Memory",
-      "lines": [
-        42,
-        184
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Voll-Konsolidierung",
-      "lines": [
-        68
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Vortex 1",
-      "lines": [
-        171
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Vortex 2",
-      "lines": [
-        173
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Schicht 2",
-      "lines": [],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Lichtstaub",
-      "lines": [
-        92,
-        229
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Regel-Exekutor",
-      "lines": [
-        202,
-        255,
-        287
-      ],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Phoenix-Mode (lens)",
-      "lines": [],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    },
-    {
-      "surface": "Kant (lens)",
-      "lines": [],
-      "why": "A plot-thread device, chapter mechanism, borrowed lens or proposed name; this source does not independently establish a stable term page."
-    }
+    "the thirteen plot ideas and the thread's machinery: Gegenregister, Fundsachen, Wartungsfenster, Stufen 1–3, Warteschlange/Zuweisung, Klick, Restwert/Ausnahme, Options-Pool — [V]",
+    "places cited as [K] and named once: Lernarchiv Theta-9, Transitkorridor Delta-7, Wohneinheit 734 (on kaels-wohneinheit)",
+    "Dramatica slot vocabulary (A:RS, A:IC, B:OS, Optionlock, Avoidance vs. Pursuit …): lens",
+    "process vocabulary: [K]/[V]/[S]/[L], NCP, ncp-author, P1–P5, Phoenix-Mode, Hard-Constraint N, Slot 16",
+    "two lines of the reader's observations counted as candidates (census)"
   ],
-  "found_by_rule_not_by_census": [
-    "hitze-polaritaetsregel",
-    "kaels-wohneinheit"
-  ],
-  "baseline_moved": false,
   "sweep": {
+    "hits": 1,
     "readings": 0,
-    "occurrences": 3,
-    "open": 0
-  }
+    "occurrences": 1,
+    "note": "Kohärenz at L11 — the document's title"
+  },
+  "found_by_rule_not_by_census": [],
+  "internal_tension": "„Bewegung\" numbers two series: the 41 chapter units (L159) and „Bewegung 4\" of the Trennungsprotokoll echo (L229), a series it does not lay out",
+  "baseline_moved": true
 }

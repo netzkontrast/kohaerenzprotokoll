@@ -85,6 +85,10 @@ After Vortex 1, an open point: „lebende Reliquie + Oblivion-Übernahme intern"
 „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778]. Post-Vortex, OQ-G: „Oblivion übernimmt AEGIS' Funktion intern, aber bewusst und wählend statt automatisch." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L789]
 Anchor: „Oblivion ist nicht böse — er ist eine Funktion, die zur Frage geworden ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L793]
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — Oblivions Hand
 
-**Proposal `[V]`.** Idea 7 proposes a repeated signature of flawless work completed without Kael’s awareness; later Oblivion empties the counter-register, and an untouched entry becomes the Act-III choice. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L76]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Kael findet morgens Dinge erledigt, die er nicht getan hat" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L76] — flawlessly. Akt I comfort, Akt II „Sabotage von innen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L76],
+Akt III the decision, cited as „Oblivion-Arc: Automat → Bewusstsein → Entscheidung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L76].
+Cast table: „Perfektion ohne Erleben; Einträge ohne Zeitstempel" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L218].

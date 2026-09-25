@@ -745,3 +745,29 @@ a phrase (document 17's count had six zeros from the one and three from the
 other), a conflict a document reports among its own sources, and one word
 numbering several series.
 
+
+## Document 18 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-09-25
+
+A proposal of 292 lines, 581 candidates. The whole chapter plan, Kap 0 to Kap 40,
+is one line of 10,329 characters (L229), so a citation into it says little about
+*where*.
+
+- **Observations written as `- ` bullets were counted.** Two of the reader's
+  observation lines had no comma and `capture.PROSE` took them for terms; twelve
+  real candidates with a comma (idea titles, `Bestandspflege, Stufe 2`) were left
+  out and named in the header. The skill said a prose section „is filtered out";
+  it is filtered by punctuation. Skill, artifacts reference and briefing now say
+  to write observations as paragraphs.
+- **One word numbered two series.** „41 Bewegungen" are the chapter units (L159),
+  and „Bewegung 4" (L229) cannot be one of them. The briefing already asks this
+  question („Does one word number more than one series") and it was asked
+  only after the note had overstated it. The first draft of the note called
+  „Bewegung 4" a fourth movement of the Genesis; corrected before reconciliation.
+- **A quotation that begins with a number standing after a word on its line
+  fails `quotes.py`.** „41 Bewegungen" against „die 41 Bewegungen": the footnote
+  rule drops the number from the line and not from the quote. Worked around by
+  quoting the word before. Not fixed; recorded in `NOW.md`.
+- **The lookup was wrong once, by `fold()`**: `A:RS` → `ars`. J87.
+- **The escaping zeros again**: `[K]`, `[V]`, `[S]`, `[L]`, `[DATENTYP_FEHLT]`
+  and three file names in the source register count 0, because the file writes
+  them with backslashes.

@@ -5,7 +5,7 @@ title: "KP_Plot-Konkretisierung_13-Ideen_F1-Faden_2026-06-10.md"
 category: plot-outline
 index_date: "2026-06-10"
 extracted: "2026-09-25"
-candidates: 90
+candidates: 581  # two of them are lines of the reader's observations, not terms (below)
 ---
 
 # Term census — KP_Plot-Konkretisierung_13-Ideen_F1-Faden_2026-06-10.md
@@ -34,172 +34,762 @@ candidates: 90
   longest line         10329 chars
 ```
 
-# Term census — Plot-Konkretisierung F1
-
-This record describes this source only. The repeated `Was geschieht`, `Kapitel-Anker`, `Löst` and `Kanon-Prüfung` labels structure thirteen proposals. `[K]` labels what it cites as a lock; `[V]` labels the proposals; `[S]` marks filtered quarry and `[L]` a gap. The text says explicitly that its own additions remain proposals.
-
-## Structural profile
-
-```text
-# kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md
-  lines                292  (frontmatter ends at 9)
-  body words           5928
-  headings             27   bold-only lines 3
-  table rows           85   code fences 0
-  question marks       4
-  backslash escapes    583
-  typographic marks    214   ascii quotes 47
-  invisible characters none
-  math symbol lines    9
-  glued ref numbers    58
-  repeated labels      Kanon-Prüfung x13, Kapitel-Anker x13, Löst x13, Was geschieht x13
-  longest line         10329 chars
-
-
-```
-
 ## Candidates and measured surfaces
 
 ```text
-# counts for 90 candidates
+# counts for 581 candidates
 # line numbers are FILE lines, as a citation writes them
-# 2 `- ` line(s) read as prose and not counted: Falsehood vs. Truth · P vs. NP (lens)
 
 #   word = the term standing alone; in = anywhere, compounds included
 
-  Kohärenz Protokoll                1 word     1 in   [11]
-  Plot-Faden F1                     2 word     2 in   [11, 106]
-  Sachbearbeiter der Abweichung     2 word     2 in   [50, 106]
+  Plot-Konkretisierung              1 word     1 in   [11]
+  Plot-Faden                        2 word     2 in   [11, 106]
+  F1                                5 word    13 in   [11, 13, 52, 106, 261, 262]  <-- substring
+  Source-of-Truth-Outline           3 word     3 in   [13, 225, 282]
+  Handlungs-Generatoren             1 word     1 in   [13]
+  Provenienz-Konvention             1 word     1 in   [17]
+  [K]                               0 word     0 in   []
+  [V]                               0 word     0 in   []
+  [S]                               0 word     0 in   []
+  [L]                               0 word     0 in   []
+  NCP-Mutation                      2 word     2 in   [17, 271]
+  NCP                               1 word     4 in   [17, 254, 271, 284]  <-- substring
+  Story-First                       1 word     2 in   [17, 283]
+                                    1      as Story-First-Basis
+  Kap-1-Draft v0.3                  1 word     1 in   [17]
+  v0.3                             14 word    18 in   [17, 21, 52, 56, 108, 116]
+                                    1      as v0.3-Material
+                                    1      as v0.3-Souveränität
+                                    1      as v0.3-Arbeit
+                                    1      as v0.3-Arbeitsszene
+  Quellen-Hierarchie                1 word     1 in   [21]
+  Kap 16 — Die Diktatur der Komplexität    1 word     1 in   [29]
+  Detail-Opferung                   1 word     1 in   [29]
+  Zopf                              1 word     4 in   [39, 40, 41, 42]  <-- substring
   Apparat-Zopf                      1 word     1 in   [40]
   Juna-Zopf                         1 word     1 in   [41]
   Verlust/Beweis-Zopf               1 word     1 in   [42]
+  OS                                2 word     4 in   [40, 52, 185, 255]
+  MC                                1 word    10 in   [40, 42, 68, 181, 182, 183]  <-- substring
+  IC                                1 word     1 in   [41]
+  RS                                1 word     3 in   [41, 220, 264]  <-- substring
+  A:RS                              1 word     1 in   [41]
+  A:IC                              1 word     1 in   [41]
+  B:MC-Progress                     2 word     2 in   [40, 68]
+  A:MC-Problem→Solution             1 word     1 in   [40]
+  A:MC-Concern Memory               1 word     1 in   [42]
+  Polaritätsregel                   4 word     4 in   [41, 64, 80, 239]
+  Moonshine                         2 word     5 in   [41, 84, 229, 264]  <-- substring
+                                    1      as Moonshine-Bewusstsein
+                                    1      as Moonshine-Link
+                                    1      as Moonshine-Boundary
+  Schichten-Architektur             1 word     1 in   [42]
+  Genesis-Cluster                   1 word     1 in   [42]
+  Der Sachbearbeiter der Abweichung    2 word     2 in   [50, 106]
   Kael                             51 word    65 in   [29, 52, 56, 60, 64, 68]
                                    14      as Kaels
-  AEGIS                            21 word    25 in   [52, 56, 68, 72, 96, 100]
-                                    1      as AEGIS-Sweeps
-                                    1      as AEGIS-1
-                                    1      as AEGIS-Stimmen-Lock
-                                    1      as AEGIS-Stimme
+  Sequenz-Prüfen                    1 word     1 in   [52]
+  Sequenz-Prüfung                   3 word     3 in   [52, 198, 283]
+  Datenströme                       1 word     1 in   [52]
+  Abweichungen                      7 word     7 in   [52, 116, 215, 251, 262, 271]
+  Risse                             1 word     2 in   [52, 116]
+  K₁-Spuren                         4 word     4 in   [52, 116, 251, 262]
+  K₁                                0 word     6 in   [52, 116, 145, 229, 251, 262]  <-- substring
+  K₀-Architektur                    1 word     1 in   [52]
+  K₀                                0 word     1 in   [52]
   Erasure                           4 word    13 in   [52, 68, 92, 116, 144, 146]  <-- substring
                                     2      as Erasure-Welle
                                     2      as Erasure-Pol
                                     2      as Erasure-Logik
                                     1      as Erasure-Sweeps
-  K₀-Architektur                    1 word     1 in   [52]
-  K₁-Spuren                         4 word     4 in   [52, 116, 251, 262]
-  Risse                             1 word     2 in   [52, 116]
-  Sequenz-Prüfung                   3 word     3 in   [52, 198, 283]
-  Abweichung                        7 word    14 in   [50, 52, 106, 116, 124, 133]
-                                    7      as Abweichungen
-  Ausgleich                         5 word     5 in   [133, 144, 192, 216, 283]
-                                    1      as ausgleicht
-                                    1      as ausgleichen
+  Akt II                           14 word    18 in   [52, 60, 72, 76, 80, 100]
+  Akt I                            12 word    30 in   [52, 60, 68, 72, 76, 80]  <-- substring
+  Kap 0                             3 word     3 in   [52, 223, 229]
+  Karriere-Leiter                   1 word     1 in   [52]
   Bestandspflege                    5 word     5 in   [52, 148, 198, 229, 265]
+  Beförderung Kap 5                 1 word     1 in   [52]
   Konsolidierungs-Freigabe          2 word     2 in   [52, 198]
-  Gegenregister                     8 word     9 in   [54, 72, 76, 165, 183, 188]
-                                    1      as Gegenregister-Einträge
-  Bunker                            1 word     4 in   [56, 229]  <-- substring
-                                    2      as Bunker-Bau
-  Fundsachen                        2 word     2 in   [58, 60]
-  Schicht 1                         1 word     1 in   [60]
-  Externe Ebene                     2 word     2 in   [60, 84]
-  Kiko                              1 word     1 in   [60]
-  Moros                             1 word     1 in   [60]
-  EP-Riss-Tabelle                   1 word     1 in   [60]
-  Leitung                           4 word     4 in   [62, 64, 229]
-  Telefon-Stille                    2 word     3 in   [64, 229]
-                                    1      as Telefon-Stille-Anker
-  Wohneinheit 734                   1 word     1 in   [64]
-  Wartungsfenster                   6 word     7 in   [60, 66, 146, 185, 220, 229]
-                                    1      as Wartungsfensters
-  Erasure-Sweeps                    1 word     1 in   [68]
-  Z1                                2 word     4 in   [68, 72, 229]
-  Z2                                2 word     2 in   [68, 72]
-  Z3                                3 word     4 in   [68, 72, 84, 229]
-  Wartungs-Ticket                   1 word     1 in   [72]
-  Lernarchiv Theta-9                1 word     1 in   [72]
-  Halteproblem-Dossier              2 word     2 in   [72, 229]
-  Komplexitäts-Budget               2 word     2 in   [72, 229]
-  Rendering                         2 word     2 in   [72, 229]
-  Prozess-Kern                      2 word     2 in   [72, 229]
-  Oblivion                          5 word     8 in   [56, 74, 76, 218, 229]
-                                    2      as Oblivions
-                                    1      as Oblivion-Arc
-  Silas                             4 word     5 in   [80, 219, 236]
-                                    1      as Silas-Halbsatz
-  Coheron-Echo                      1 word     1 in   [80]
-  Wärme-Kartographie                1 word     1 in   [82]
-  Moonshine-Link                    1 word     1 in   [84]
-  Logos-Prime                       1 word     1 in   [84]
-  Komponente 734                    2 word     2 in   [88, 164]
-  Mnemosyne                         2 word     3 in   [92, 229]
-                                    1      as Mnemosyne-Dossiers
-  Erasure-Pol                       2 word     2 in   [92, 229]
-  Guardians                         2 word     2 in   [92]
-  Hard-B-Kapitel                    6 word     6 in   [96, 166, 220, 229]
-  Algorithmische Melancholie        0 word     0 in   []
-  Restwert                          3 word     3 in   [96, 149, 229]
-  Ausnahme                          6 word     6 in   [96, 149, 218, 229]
-  Ouroboros                         0 word     1 in   [100]
-                                    1      as Ouroboros-Vorbereitung
-  Autoren-Feder                     2 word     2 in   [100, 229]
-  Trennungsprotokoll                2 word     4 in   [116, 129, 229]
-                                    2      as Trennungsprotokolls
-  Genesis                           1 word    16 in   [42, 52, 60, 84, 88, 96]  <-- substring
-                                    5      as Genesis-Flashback
-                                    4      as Genesis-Echo
-                                    3      as Genesis-Motiv
-                                    1      as Genesis-Cluster
+  AEGIS                            21 word    25 in   [52, 56, 68, 72, 96, 100]
+                                    1      as AEGIS-Sweeps
+                                    1      as AEGIS-1
+                                    1      as AEGIS-Stimmen-Lock
+                                    1      as AEGIS-Stimme
+  Datenknoten Epsilon               3 word     3 in   [52, 192, 287]
+  Genesis-Motiv „Klick"             2 word     2 in   [52, 129]
   Klick                            13 word    21 in   [52, 129, 167, 174, 182, 197]
                                     2      as klicken
                                     1      as Klick-Disziplin
                                     1      as Klick-Szene
                                     1      as Klicken
-  Landauer-Signatur                 1 word     1 in   [133]
-  Ozon-Kopplung                     1 word     1 in   [133]
-  Polaritätsregel                   4 word     4 in   [41, 64, 80, 239]
-  Datenknoten Epsilon               3 word     3 in   [52, 192, 287]
-  Bestände                          7 word     8 in   [72, 184, 198, 229]
-  Zuweisung                         7 word    12 in   [196, 206, 215, 229]
-                                    4      as Zuweisungen
-  Warteschlange                     2 word     3 in   [186, 196, 253]
-                                    1      as Warteschlangen-Zahl
-  Lex                               2 word     4 in   [84, 214, 229]
-  Argus                             1 word     1 in   [215]
-  Nyx                               2 word     2 in   [216, 229]
-  Selene                            1 word     1 in   [217]
+  Genesis                           1 word    16 in   [42, 52, 60, 84, 88, 96]  <-- substring
+                                    5      as Genesis-Flashback
+                                    4      as Genesis-Echo
+                                    3      as Genesis-Motiv
+                                    1      as Genesis-Cluster
+  Das Gegenregister                 4 word     4 in   [54, 188, 229, 237]
+  Gegenregister                     8 word     9 in   [54, 72, 76, 165, 183, 188]
+                                    1      as Gegenregister-Einträge
+  Sequenz 114                       1 word     1 in   [56]
+  Sequenz 251                       0 word     0 in   []
+  Amnesie                           2 word     2 in   [56, 237]
+  Gegenbuchhaltung                  1 word     1 in   [56]
+  Konsole                          11 word    15 in   [56, 60, 88, 171, 183, 192]
+                                    2      as Konsolen-Direktiven
+                                    1      as Konsolen
+  Bunker-Bau                        2 word     2 in   [56]
+  Bunker                            1 word     4 in   [56, 229]  <-- substring
+                                    2      as Bunker-Bau
+  Festung                           1 word     1 in   [56]
+  Register                          6 word     8 in   [56, 76, 188, 229, 277]
+                                    1      as Registers
+  Oblivion                          5 word     8 in   [56, 74, 76, 218, 229]
+                                    2      as Oblivions
+                                    1      as Oblivion-Arc
+  AEGIS-Sweeps                      1 word     1 in   [56]
+  plurale Verteilung                1 word     1 in   [56]
+  MacGuffin (lens)                  0 word     0 in   []
+  schleier-konform                  4 word     4 in   [56, 60, 68, 216]
+  Schleier                          0 word     2 in   [238, 286]
+                                    4      as schleier-konform
+                                    2      as Schleier-Disziplin
+  Multiplizität                     1 word     1 in   [56]
+  KW1-Metaphernverbot               2 word     2 in   [56, 245]
+  KW1                               0 word     3 in   [56, 153, 245]  <-- substring
+  Fundsachen aus einer Stadt ohne Namen    1 word     1 in   [58]
+  Fundsachen                        2 word     2 in   [58, 60]
+  Schicht 1                         1 word     1 in   [60]
+  Köln                              1 word     3 in   [60, 84]  <-- substring
+                                    2      as Köln-Bühne
+  Bahn-Ticket                       1 word     1 in   [60]
+  Kinderhaarspange                  1 word     1 in   [60]
+  Haarspange                        1 word     1 in   [60]
+  EP                                1 word     3 in   [60]  <-- substring
+  Riss-Typ                          1 word     1 in   [60]
+  EP-Riss-Tabelle                   1 word     1 in   [60]
+  Kiko                              1 word     1 in   [60]
+  temporal                          1 word     1 in   [60]
+  Moros                             1 word     1 in   [60]
+  gravitational                     1 word     1 in   [60]
+  Kiste                             5 word     5 in   [60, 76, 229]
+  Wartungsfenster                   6 word     7 in   [60, 66, 146, 185, 220, 229]
+                                    1      as Wartungsfensters
+  Mosaik-Ordnung                    1 word     1 in   [60]
+  Externe Ebene                     2 word     2 in   [60, 84]
+  Genesis-Echo                      4 word     5 in   [60, 84, 129, 229, 240]
+                                    1      as Genesis-Echo-Disziplin
+  Telefon-Stille                    2 word     3 in   [64, 229]
+                                    1      as Telefon-Stille-Anker
+  Telefon-Stille-Anker              1 word     1 in   [64]
+  Wohneinheit 734                   1 word     1 in   [64]
+  Anschluss                         1 word     1 in   [64]
+  Leitung                           4 word     4 in   [62, 64, 229]
   Juna                              3 word    12 in   [41, 64, 80, 206, 221, 229]  <-- substring
                                     5      as Junas
                                     1      as Juna-Zopf
                                     1      as Juna-Grammatik
                                     1      as Juna-Spur
-  DATENTYP_FEHLT                    0 word     0 in   []
-  Optionlock                        1 word     3 in   [187, 229, 254]  <-- substring
-                                    2      as Optionlock-Diegese
+  Abwesenheits-Phase                1 word     1 in   [64]
+  Junas Abwesenheits-Phase          1 word     1 in   [64]
+  Einlösung                         1 word     2 in   [64, 229]
+  Juna-Grammatik                    1 word     1 in   [64]
+  Stille                            7 word    10 in   [41, 64, 221, 229]
+  Wärme                             6 word    12 in   [41, 64, 80, 82, 84, 133]
+                                    3      as wärmer
+                                    1      as Wärme-
+                                    1      as Wärme-Kartographie
+                                    1      as Wärmestellen
+  Erasure-Sweeps                    1 word     1 in   [68]
+  Sweep                             0 word     6 in   [56, 68, 146, 186, 229]  <-- substring
+                                    2      as Sweep-Takt
+                                    1      as Sweep-Frequenz
+  Stadtereignis                     1 word     1 in   [68]
+  Quartier                          1 word     1 in   [68]
+  Anteil                            1 word     3 in   [68, 76, 229]  <-- substring
+  Zyklen                            2 word     2 in   [68, 72]
+  Z-Mechanik                        1 word     1 in   [68]
+  Z1                                2 word     4 in   [68, 72, 229]
+  Z2                                2 word     2 in   [68, 72]
+  Z3                                3 word     4 in   [68, 72, 84, 229]
+  erste Erasure-Welle               1 word     1 in   [68]
+  Zyklus-Takt                       1 word     1 in   [68]
+  Voll-Konsolidierungs-Drohung      1 word     1 in   [68]
+  Purge                             1 word     2 in   [68, 229]
+                                    1      as Purge-Drohung
+  Sweep-Frequenz                    1 word     1 in   [68]
+  duale Timelock-Uhr                1 word     1 in   [68]
   Timelock                          1 word     2 in   [68, 186]
                                     1      as Timelock-Uhr
-  Avoidance                         4 word     4 in   [56, 181, 229]
-  Pursuit                           2 word     4 in   [56, 182, 229]
-                                    1      as Pursuit-Vorform
-                                    1      as Pursuit-Bewegung
-  Memory                            2 word     2 in   [42, 184]
-  Voll-Konsolidierung               0 word     1 in   [68]
-                                    1      as Voll-Konsolidierungs-Drohung
-  Vortex 1                          1 word     1 in   [171]
-  Vortex 2                          1 word     1 in   [173]
-  Wir-AEGIS-plural                  0 word     0 in   []
-  Mosaik-Herz                       0 word     0 in   []
-  Schicht 2                         0 word     0 in   []
+  Wartung                           2 word    11 in   [60, 66, 68, 72, 88, 146]  <-- substring
+                                    6      as Wartungsfenster
+                                    1      as Wartungsfensters
+                                    1      as Wartungs-Ticket
+                                    1      as Wartungshistorie
+  Hard-Constraint 2                 2 word     2 in   [68, 92]
+  Hard-Constraint                   4 word     5 in   [68, 88, 92, 235, 282]
+                                    1      as Hard-Constraints
+  Das fehlgeleitete Ticket          2 word     2 in   [70, 229]
+  Technothriller-Kipp               1 word     1 in   [72]
+  Wartungs-Ticket                   1 word     1 in   [72]
+  Kennung                           4 word     4 in   [72, 88, 229]
+  Lernarchiv Theta-9                1 word     1 in   [72]
+  Theta-9                           3 word     5 in   [72, 88, 229]
+                                    2      as Theta-9-Zugang
+  Unterlassung                      1 word     1 in   [72]
+  Halteproblem-Dossier              2 word     2 in   [72, 229]
+  Halteproblem (lens)               0 word     0 in   []
+  Komplexitäts-Budget               2 word     2 in   [72, 229]
+  Rendering                         2 word     2 in   [72, 229]
+  Prozess-Kern                      2 word     2 in   [72, 229]
+  Selbstdiagnose des Systems        1 word     1 in   [72]
+  Innentäter                        2 word     2 in   [72, 168]
+  tragische Unschuld                3 word     3 in   [72, 92, 241]
+  Wahrheits-Test                    2 word     2 in   [72, 229]
+  Theta-9-Zugang                    2 word     2 in   [72, 229]
+  Routing-Fehler                    1 word     1 in   [72]
+  Oblivions Hand                    1 word     1 in   [74]
+  Oblivion-Arc                      1 word     1 in   [76]
+  Spiegel-Alter                     2 word     2 in   [76, 80]
+  Charakterwechsel                  1 word     1 in   [76]
+  Tat-Signatur                      1 word     1 in   [76]
+  OQ-E                              1 word     2 in   [76, 80]
+                                    1      as OQ-E-kompatibel
+  POV-Anteile                       1 word     1 in   [76]
+  Silas                             4 word     5 in   [80, 219, 236]
+                                    1      as Silas-Halbsatz
+  Halbsatz                          3 word     4 in   [80, 219, 236]
+  Lüftungsrauschen                  1 word     1 in   [80]
+  Transitkorridor Delta-7           1 word     1 in   [80]
+  interner Resonanz-Körper          1 word     1 in   [80]
+  Coheron-Echo                      1 word     1 in   [80]
+  Coheron                           0 word     2 in   [80]
+                                    1      as Coheron-Echo
+                                    1      as Coheron-Spur
+  Wärme-Debüt                       1 word     1 in   [229]
+  POV-Richtwert                     1 word     1 in   [80]
+  Juna-Spur                         1 word     1 in   [80]
+  Juna-Auftritt                     1 word     1 in   [80]
+  Coheron-Spur                      1 word     1 in   [80]
+  Richtungs-Choreographie           1 word     1 in   [80]
+  Die Wärme-Kartographie            1 word     1 in   [82]
+  Wärme-Kartographie                1 word     1 in   [82]
+  Moonshine-Bewusstsein             1 word     1 in   [84]
+  Wärmestellen                      1 word     1 in   [84]
+  Lex                               2 word     4 in   [84, 214, 229]
+  Kartograph                        2 word     3 in   [82, 84, 214]
+  Stadtplan                         1 word     1 in   [84]
+  Grundriss                         1 word     2 in   [84]
+                                    1      as Grundriss-Erkenntnis
+  Logos-Prime                       1 word     1 in   [84]
+  Kanal                             3 word     3 in   [84, 229]
+  Moonshine-Link                    1 word     1 in   [84]
+  Schicht-1-Brücke                  1 word     1 in   [84]
+  Genesis-Echo-Disziplin            1 word     1 in   [84]
+  OQ-F                              3 word     5 in   [84, 206, 261, 264]
+                                    1      as OQ-F-Berührung
+                                    1      as OQ-F1
+  Seriennummer 734                  2 word     2 in   [86, 229]
+  Kap-22-Reveal                     1 word     1 in   [88]
   Genesis-Flashback                 5 word     5 in   [88, 229]
-  K₁-Reinform                       1 word     1 in   [229]
+  Komp 734                          2 word     2 in   [88, 229]
+  Komponente 734                    2 word     2 in   [88, 164]
+  Wartungshistorie                  1 word     1 in   [88]
+  Fehlerklasse                      1 word     1 in   [88]
+  Quarantäne-Vermerk                1 word     1 in   [88]
+  Einheit 734                       2 word     2 in   [88, 236]
+  Dossier                           1 word     5 in   [72, 88, 92, 229, 265]  <-- substring
+  Reader-only-Echo-Mechanik         1 word     1 in   [88]
+  Kap-1-Konsolen-Zeile              1 word     1 in   [88]
+  Hard-Constraint 10                1 word     1 in   [88]
+  Zwei Geschenke                    2 word     2 in   [90, 229]
+  Guardian-Auflösung                1 word     1 in   [92]
+  Guardians                         2 word     2 in   [92]
+  Mnemosyne                         2 word     3 in   [92, 229]
+                                    1      as Mnemosyne-Dossiers
+  Archiv                            1 word     1 in   [92]
+  Erasure-Pol                       2 word     2 in   [92, 229]
+  Erasure-Logik                     2 word     2 in   [92, 229]
+  Mnemosyne-Dossiers                1 word     1 in   [92]
+  Auflösung der Guardians           1 word     1 in   [92]
+  Versuchungs-Dramaturgie           1 word     1 in   [92]
+  Zwei-Guardian-Kanon               1 word     1 in   [92]
+  Lichtstaub-Leitmotiv              1 word     1 in   [92]
+  Lichtstaub                        1 word     2 in   [92, 229]
+                                    1      as Lichtstaub-Leitmotiv
+  Hard-B-Kapitel                    6 word     6 in   [96, 166, 220, 229]
+  Slot 16                           1 word     1 in   [96]
+  Routine-Konsolidierung            1 word     1 in   [96]
+  Protokollform                     1 word     1 in   [96]
+  Restwert                          3 word     3 in   [96, 149, 229]
+  Rundungsfehler                    1 word     1 in   [96]
+  Ausnahme                          6 word     6 in   [96, 149, 218, 229]
+  Algorithmische Melancholie        0 word     0 in   []
+  Buchungsproblem                   1 word     1 in   [96]
+  Pinnung                           2 word     2 in   [96, 229]
+  Weaving                           2 word     2 in   [96, 229]
+  Slot-16-Lock                      1 word     1 in   [96]
+  AEGIS-1.-Person                   1 word     1 in   [96]
+  Formel-Grammatik                  1 word     1 in   [96]
+  Ich-Formel                        1 word     1 in   [96]
+  Der korrupte Bericht              1 word     1 in   [98]
+  Ouroboros-Vorbereitung            1 word     1 in   [100]
+  Ouroboros                         0 word     1 in   [100]
+                                    1      as Ouroboros-Vorbereitung
+  Berufs-Delikt                     1 word     1 in   [100]
+  Pflichtberichte                   1 word     1 in   [100]
+  Validatoren                       3 word     3 in   [100, 170, 185]
+  Log-Format                        3 word     3 in   [100, 229]
+  Erstsatz                          3 word     3 in   [100, 229, 236]
+  Kap-39-Schreib-Moment             2 word     2 in   [100]
+  Autoren-Feder                     2 word     2 in   [100, 229]
+  Log-Modus                         1 word     1 in   [100]
+  Kishōtenketsu (lens)              0 word     0 in   []
+  Ketsu                             1 word     1 in   [100]
+  Plot-Faden F1                     2 word     2 in   [11, 106]
+  Andockstellen                     1 word     1 in   [108]
+  Formel-Inversion                  2 word     2 in   [108, 120]
+  Gesamtstatus                      1 word     1 in   [108]
+  P1–P5                             1 word     1 in   [108]
+  Autor-Bestätigung                 1 word     1 in   [108]
+  Querschnitt-Kanon                 1 word     1 in   [110]
+  Prämisse                          1 word     1 in   [112]
+  Sachbearbeiter                    6 word     6 in   [50, 106, 112, 172, 214, 229]
+  Zeuge                             1 word     1 in   [112]
+  Faden-These                       1 word     1 in   [116]
+  Reader-only                       1 word     2 in   [88, 116]
+                                    1      as Reader-only-Echo-Mechanik
+  Mikro-Risse                       1 word     1 in   [116]
+  Substrat                          1 word     2 in   [116, 251]
+                                    1      as Substrat-Bezug
+  Architektur                       2 word     5 in   [29, 42, 52, 116, 186]  <-- substring
+  Trennungsprotokoll                2 word     4 in   [116, 129, 229]
+                                    2      as Trennungsprotokolls
+  fühlende Hälfte                   1 word     1 in   [116]
+  operative Hälfte                  0 word     0 in   []
+  Unterdrückungs-Apparat            1 word     1 in   [116]
+  Trennung                          1 word     5 in   [116, 129, 229]  <-- substring
+                                    2      as Trennungsprotokoll
+                                    2      as Trennungsprotokolls
+  Verwaltungsakt                    1 word     1 in   [116]
+  Kanon-Lehre                       1 word     1 in   [116]
+  Mikro-Inversion                   2 word     2 in   [120, 229]
+  Berufsbiographie                  1 word     1 in   [125]
+  Roman-These                       1 word     1 in   [125]
+  Klick-Disziplin                   1 word     1 in   [129]
+  Kap-0-Erstereignis                1 word     1 in   [129]
+  Klick-Szene                       1 word     1 in   [129]
+  Echo-Disziplin                    2 word     3 in   [84, 129, 229]
+  Kap 36 (Beat 5)                   1 word     1 in   [129]
+  Kap 40                            3 word     3 in   [129, 229, 252]
+  Ozon                              9 word    11 in   [129, 133, 174, 229, 236, 239]
+                                    1      as Ozon-Kopplung
+                                    1      as Ozons
+  Ozon-Kopplung                     1 word     1 in   [133]
+  kaltes Ozon                       3 word     3 in   [133, 236, 239]
+  Landauer-Signatur                 1 word     1 in   [133]
+  Polaritäts-Lock                   1 word     1 in   [133]
+  Schicht-2-Beat                    1 word     1 in   [133]
+  80/20-Lock                        1 word     1 in   [133]
+  Datenknoten                       4 word     4 in   [52, 133, 192, 287]
+  Diegetisches Vokabular            1 word     1 in   [137]
+  Diegetischer Begriff              1 word     1 in   [143]
+  Konsolidierung                    7 word    12 in   [52, 68, 96, 144, 164, 166]
+                                    2      as Konsolidierungs-Freigabe
+  Ausgleich                         5 word     5 in   [133, 144, 192, 216, 283]
+                                    1      as ausgleicht
+                                    1      as ausgleichen
+  Abweichung                        7 word    14 in   [50, 52, 106, 116, 124, 133]
+                                    7      as Abweichungen
+  Erinnerungs-Datensatz             1 word     1 in   [147]
+  Bestand                           7 word    14 in   [52, 147, 148, 168, 182, 198]
+                                    5      as Bestandspflege
+                                    1      as Bestandsführung
+  Apparat                          17 word    22 in   [40, 116, 148, 157, 169, 171]
+                                    2      as Apparats
+                                    1      as Apparat-Zopf
+                                    1      as Apparat-Sprache
+  Anomalie                          2 word     4 in   [72, 149, 229, 238]
+  KW1-konform                       1 word     1 in   [153]
+  Metaphernverbot                   1 word     3 in   [56, 153, 245]  <-- substring
+  assertorisch                      1 word     1 in   [153]
+  Computational Class P             1 word     1 in   [153]
+  Tonale Prüfung                    1 word     1 in   [157]
+  Fehlstelle                        1 word     1 in   [157]
+  Reibungslosigkeit                 1 word     1 in   [157]
+  Faden-Achse                       1 word     1 in   [159]
+  41 Bewegungen                     1 word     1 in   [159]
+  Block                             1 word     2 in   [163, 261]
+                                    1      as Blockierend
+  Faden-Phase                       1 word     1 in   [163]
+  Ereignis-Klasse                   1 word     1 in   [163]
+  Kopplung                          3 word     4 in   [133, 163, 229, 261]
+  Genesis-Prolog                    1 word     1 in   [164]
+  Latenz                            1 word     1 in   [164]
+  Begriffs-Saat                     2 word     3 in   [164, 229, 266]
+  Der gute Angestellte              1 word     1 in   [165]
+  Audit                             3 word     3 in   [165, 202, 229]
+  Die andere Seite des Schalters    1 word     1 in   [166]
+  Der zögernde Angestellte          1 word     1 in   [167]
+  Doppel-Antrag                     2 word     2 in   [167, 229]
+  Der Innentäter                    1 word     1 in   [168]
+  Die Niederlegung                  2 word     2 in   [169, 229]
+  Verteilte Sicherung               1 word     1 in   [169]
+  Bestätigungs-Stopp                1 word     1 in   [169]
+  Akt III-A                         1 word     1 in   [170]
+  Der Deserteur                     1 word     1 in   [170]
+  Rechte-Krieg                      1 word     1 in   [170]
+  Vortex 1                          1 word     1 in   [171]
+  Der Apparat kollabiert auf sein Ziel    1 word     1 in   [171]
+  duale Uhren                       1 word     1 in   [171]
+  Kap 37                            3 word     3 in   [172, 229, 244]
+  Der Gärtner als Sachbearbeiter    2 word     2 in   [172, 229]
+  Gärtner                           2 word     2 in   [172, 229]
+  Schlange                         11 word    11 in   [172, 206, 229, 253]
   Rauschen                          3 word     5 in   [172, 229, 244]
                                     1      as Rauschen-Vorzeichen
                                     1      as Rauschen-Absender
-  Lichtstaub                        1 word     2 in   [92, 229]
-                                    1      as Lichtstaub-Leitmotiv
-  Therapie-Schnittstelle            1 word     1 in   [255]
+  Vortex 2                          1 word     1 in   [173]
+  Die Übernahme der Funktion        2 word     2 in   [173, 229]
+  Coda                              1 word     1 in   [174]
+  Bezeugung statt Buchung           1 word     1 in   [174]
+  Storyform-Anbindung               1 word     1 in   [176]
+  Storypoint                        1 word     2 in   [176, 180]
+                                    1      as Storypoints
+  Faden-Konkretion                  1 word     1 in   [180]
+  A:MC-Problem Avoidance            0 word     0 in   []
+  Avoidance                         4 word     4 in   [56, 181, 229]
+  A:MC-Solution Pursuit             0 word     0 in   []
+  Pursuit                           2 word     4 in   [56, 182, 229]
+                                    1      as Pursuit-Vorform
+                                    1      as Pursuit-Bewegung
+  A:MC-Concern Memory               1 word     1 in   [42]
+  Memory                            2 word     2 in   [42, 184]
+  Goal                              1 word     1 in   [184]
+  Erinnerung als bewusster Besitz    1 word     1 in   [184]
+  B:OS Physics / kybernetischer Krieg    0 word     0 in   []
+  kybernetischer Krieg              1 word     1 in   [185]
+  Rechte-System                     1 word     1 in   [185]
+  Routing                           1 word     2 in   [72, 185]
+                                    1      as Routing-Fehler
+  Administrations-Konflikt          1 word     1 in   [185]
+  B:MC Progress / Timelock          0 word     0 in   []
+  Sweep-Takt                        2 word     2 in   [186, 229]
+  Warteschlange                     2 word     3 in   [186, 196, 253]
+                                    1      as Warteschlangen-Zahl
+  Verwaltungsstau                   1 word     1 in   [186]
+  Optionlock                        1 word     3 in   [187, 229, 254]  <-- substring
+                                    2      as Optionlock-Diegese
+  Diegetische Lösung                1 word     1 in   [187]
+  Options-Pool                      2 word     2 in   [187, 229]
+  Restbestand                       1 word     1 in   [187]
+  Anhang-B                          1 word     1 in   [187]
+  B-Cost / A-Cost                   1 word     1 in   [188]
+  B-Cost                            1 word     1 in   [188]
+  A-Cost                            2 word     2 in   [188, 229]
+  Wir                               7 word    11 in   [188, 206, 217, 229, 242, 243]
+  Verlust der Privatheit des Wir    1 word     1 in   [188]
+  privates Register                 0 word     0 in   []
+  Schauplatz- und Mechanik-Spec     1 word     1 in   [190]
+  Konsolen                          1 word     4 in   [88, 192, 220, 265]  <-- substring
+                                    2      as Konsolen-Direktiven
+  Zuweisung                         7 word    12 in   [196, 206, 215, 229]
+                                    4      as Zuweisungen
+  Restzahl                          1 word     1 in   [196]
+  Bestätigungsgeräusch              1 word     1 in   [197]
+  Stufen                            1 word     3 in   [198, 253, 265]  <-- substring
+                                    1      as Stufen-Begriff
+                                    1      as Stufen-Terminologie
+  Stufe 1                           1 word     1 in   [198]
+  Stufe 2                           3 word     3 in   [148, 198, 229]
+  Stufe 3                           1 word     1 in   [198]
+  Knoten                            4 word     6 in   [202, 214, 219, 229, 239]
+                                    2      as Knotens
+  Steinbruch                        3 word     6 in   [17, 202, 255, 287]
+                                    1      as Steinbruch-Filter
+                                    1      as Steinbruch-Dokumenten
+                                    1      as Steinbruch-Name
+  Arbeiter                          1 word     3 in   [202, 255, 287]  <-- substring
+                                    2      as Arbeiter-NPCs
+  NPCs                              0 word     3 in   [202, 255, 287]  <-- substring
   Regel-Exekutor                    3 word     3 in   [202, 255, 287]
-  Phoenix-Mode (lens)               0 word     0 in   []
+  AEGIS-Stimmen-Lock                1 word     1 in   [202]
+  Direktiven-Sprache                1 word     1 in   [202]
+  Direktive                         2 word     5 in   [202, 220, 229, 265]  <-- substring
+                                    1      as Direktiven-Sprache
+  Junas einzige Berührung des Fadens    1 word     1 in   [206]
+  Datentyp-Feld                     1 word     1 in   [206]
+  Kap-0-Statuszeile                 1 word     1 in   [206]
+  [DATENTYP_FEHLT]                  0 word     0 in   []
+  DATENTYP_FEHLT                    0 word     0 in   []
+  Lücke                             2 word     2 in   [17, 206]
+                                    1      as lückenlos
+  Antrag                            5 word     7 in   [60, 167, 170, 182, 206, 229]
+  Grammatik-Regel                   1 word     1 in   [206]
+  OQ-G                              3 word     3 in   [206, 264]
+  Abstimmungspflicht                1 word     1 in   [206]
+  Figuren im Faden                  1 word     1 in   [208]
+  Faden-Funktion                    1 word     1 in   [212]
+  Signatur                          2 word     4 in   [76, 133, 212, 229]
+  Kael (Host)                       1 word     1 in   [213]
+  Host                              1 word     1 in   [213]
+  Atemzählung                       1 word     1 in   [213]
+  Argus                             1 word     1 in   [215]
+  Nyx                               2 word     2 in   [216, 229]
+  Selene                            1 word     1 in   [217]
+  Stilcodes                         1 word     1 in   [217]
+  Über-Erfüllung                    1 word     1 in   [218]
+  Beweis-Löschung                   1 word     1 in   [218]
+  Korridor                          2 word     2 in   [219, 229]
+  Rechteverwaltung                  1 word     1 in   [220]
+  Validator                         2 word     5 in   [100, 170, 185, 220, 229]  <-- substring
+                                    3      as Validatoren
+  Konsolen-Direktiven               2 word     2 in   [220, 265]
+  Kap-1-Lock                        1 word     2 in   [220, 236]
+                                    1      as Kap-1-Locks
+  VERSALIEN-Zeilen                  1 word     1 in   [220]
+  Bilanz-Syntax                     1 word     1 in   [220]
+  unbedienbarer Datensatz           0 word     0 in   []
+  gerichtete Stille                 1 word     1 in   [221]
+  Kapitel-Beats                     1 word     1 in   [223]
+  Faden ruht                        3 word     3 in   [225, 229]
+  eine Szene = ein Konzept          1 word     1 in   [225]
+  Protokollteil                     2 word     2 in   [164, 229]
+  kap0-v1-Revisionsplan             1 word     1 in   [229]
+  Abweichung 114                    1 word     1 in   [229]
+  EINHEIT 734 ENTLASTET             1 word     1 in   [229]
+  Rücklauf                          2 word     2 in   [165, 229]
+  Entwurfsordner                    2 word     2 in   [229, 238]
+  Lex-Einbruch                      1 word     1 in   [229]
+  Doppel-Buchführung                1 word     1 in   [229]
+  Heimweg                           1 word     1 in   [229]
+  Bestätigungslatenz                1 word     1 in   [229]
+  Prüf-Dialog                       1 word     1 in   [229]
+  Leitmotiv-Einlösung               1 word     1 in   [229]
+  korrumpierte Textdateien          1 word     1 in   [229]
+  falscher Erfolg                   1 word     1 in   [229]
+  Sensorisch flach                  1 word     1 in   [229]
+  Stufe-2-Zuweisung                 1 word     1 in   [229]
+  Spiegelszene                      1 word     1 in   [229]
+  Cache-Konflikt                    1 word     1 in   [229]
+  Arbeitsunfall                     1 word     1 in   [229]
+  Polaritäts-Filter                 1 word     1 in   [229]
+  §7-Konflikt 1                     1 word     1 in   [229]
+  Dienstschluss                     1 word     1 in   [229]
+  Pursuit-Vorform                   1 word     1 in   [229]
+  Mitgefühl mit dem Apparat         1 word     1 in   [229]
+  Wächterin-Stufe                   1 word     1 in   [229]
+  Werkzeug-Debüt                    1 word     1 in   [229]
+  Die Ordnung des Verworfenen       1 word     1 in   [229]
+  Mosaik                            2 word     4 in   [60, 229]
+                                    1      as Mosaik-Ordnung
+                                    1      as Mosaik-Akzeptanz
+  Mosaik-Akzeptanz                  1 word     1 in   [229]
+  Stille der Mitte                  1 word     1 in   [229]
+  VERWEILEN ZULÄSSIG                1 word     1 in   [229]
+  Lebendige Ordnung                 1 word     1 in   [229]
+  Teil-1-Schluss                    1 word     1 in   [229]
+  Lektüre I                         1 word     3 in   [229]  <-- substring
+  Z1-Trigger                        1 word     1 in   [229]
+  Lektüre II                        1 word     2 in   [229]
+  Posten-Liste                      1 word     1 in   [229]
+  Budget-Instrument                 1 word     1 in   [229]
+  Z1-Bunker                         1 word     1 in   [229]
+  Fremderledigung                   2 word     2 in   [229, 238]
+  Lektüre III                       1 word     1 in   [229]
   Kant (lens)                       0 word     0 in   []
-
+  Genesis-Flashback Cluster-Bildung    1 word     1 in   [229]
+  Cluster-Bildung                   1 word     1 in   [229]
+  Selbst-Bestand                    1 word     1 in   [229]
+  Pursuit-Bewegung                  1 word     1 in   [229]
+  Bestandsführung                   1 word     1 in   [229]
+  Genesis-Flashback Trennungsprotokoll    1 word     1 in   [229]
+  Z3-Ontologie-Riss                 1 word     1 in   [229]
+  Verwaltungs-Paradox               1 word     1 in   [229]
+  Mosaik als Schöpfung              1 word     1 in   [229]
+  plurale Bewahrung                 1 word     1 in   [229]
+  Foreshadowing-Programm            1 word     1 in   [229]
+  EINHEIT 734: AUSGEFALLEN          1 word     1 in   [229]
+  DIREKT-KONSOLIDIERUNG             1 word     1 in   [229]
+  Direkt-Konsolidierung             1 word     1 in   [229]
+  Erasure-Vorbereitung              1 word     1 in   [229]
+  neue Linearität                   1 word     1 in   [229]
+  Format-Anomalie                   1 word     1 in   [229]
+  Purge-Drohung                     1 word     1 in   [229]
+  A-Consequence                     1 word     1 in   [229]
+  Degradation                       1 word     1 in   [229]
+  Kind-Anteil                       1 word     1 in   [229]
+  Junas Kanal                       1 word     1 in   [229]
+  Vollarchiv-Rechte                 1 word     1 in   [229]
+  Formulare                         1 word     1 in   [229]
+  Wahrheits-Test                    2 word     2 in   [72, 229]
+  Am Kern                           1 word     1 in   [229]
+  Kern                              2 word     4 in   [72, 88, 229]
+  Wurzel der Schlange               1 word     1 in   [229]
+  K₁-Reinform                       1 word     1 in   [229]
+  Konfrontation                     2 word     2 in   [229]
+  Makro-Log                         1 word     1 in   [229]
+  offener Posten                    0 word     0 in   []
+  Datenlast                         1 word     1 in   [229]
+  Kap 35 (Beats 1–3)                1 word     1 in   [229]
+  Pivot                             1 word     3 in   [229, 263]  <-- substring
+                                    2      as Pivot-Marker
+  Pivot-Marker                      2 word     2 in   [229, 263]
+  Vortex-Encoding                   3 word     3 in   [229, 263]
+  dialetheische Wahl                1 word     1 in   [229]
+  Nicht-Bedienung                   1 word     1 in   [229]
+  Kap 36 (Beats 4–5)                1 word     1 in   [229]
+  Heat Spike                        1 word     1 in   [229]
+  Landauer-Wärme-Ort                1 word     1 in   [229]
+  Landauer-Wärme                    1 word     2 in   [229, 239]
+                                    1      as Landauer-Wärme-Ort
+  Landauer                          0 word     3 in   [133, 229, 239]  <-- substring
+                                    1      as Landauer-Signatur
+                                    1      as Landauer-Wärme-Ort
+                                    1      as Landauer-Wärme
+  MI-dicht                          0 word     1 in   [229]
+                                    1      as MI-dichten
+  Rotation                          1 word     1 in   [229]
+  Alter                             1 word     3 in   [76, 80, 229]  <-- substring
+  sanfter Apparat                   0 word     0 in   []
+  Rauschen-Vorzeichen               1 word     1 in   [229]
+  Resolution-Glättung               2 word     2 in   [229, 244]
+  Junas Erscheinung                 1 word     1 in   [229]
+  Bewegung 4                        1 word     1 in   [229]
+  doppellesbar                      1 word     1 in   [229]
+                                    1      as Doppellesbares
+  Lock-Konformitäts-Prüfung         1 word     1 in   [231]
+  Kap-1-Locks                       1 word     1 in   [236]
+  Silas-Halbsatz                    1 word     1 in   [236]
+  Schleier-Disziplin                2 word     2 in   [238, 286]
+  Mehrstimmigkeit                   0 word     1 in   [238]
+  Arbeits-Anomalie                  1 word     1 in   [238]
+  Klick-Regel                       1 word     1 in   [240]
+  Selbstdiagnose                    2 word     2 in   [72, 241]
+  Fehlklassifikation                0 word     1 in   [241]
+  Liebes-Interesse                  1 word     1 in   [242]
+  Wir-Etablierung                   1 word     1 in   [243]
+  Bridge                            1 word     3 in   [243, 284]  <-- substring
+                                    1      as Bridge-Szenen
+  Vokabular-Tabelle                 1 word     1 in   [245]
+  Doppellesbares Finale             1 word     1 in   [246]
+  Kap-40-Klick                      1 word     1 in   [246]
+  Reset-Bestätigung                 1 word     1 in   [246]
+  Transfigurations-Erklärung        1 word     1 in   [246]
+  Slot-16                           1 word     2 in   [96, 247]
+                                    1      as Slot-16-Lock
+  Hard-B                            1 word     7 in   [96, 166, 220, 229, 247]  <-- substring
+                                    6      as Hard-B-Kapitel
+  Vielheit                          2 word     2 in   [96, 247]
+  Reader-Inferenz                   1 word     1 in   [247]
+  Quellen-Konflikte & Risiken       1 word     1 in   [249]
+  v0.3-Souveränität                 1 word     1 in   [251]
+  ontologische Festlegung           1 word     1 in   [251]
+  Render-Fehler                     1 word     1 in   [251]
+  Klick-Motiv-Inflation             1 word     1 in   [252]
+  Kap-1-Dichte                      1 word     1 in   [253]
+  Optionlock-Diegese                2 word     2 in   [229, 254]
+  Pool-Zählung                      1 word     1 in   [254]
+  Encoding-Entscheidung             1 word     1 in   [254]
+  A-Limit                           1 word     1 in   [254]
+  P5 (Dynamics)                     1 word     1 in   [254]
+  ncp-author                        3 word     3 in   [254, 271, 291]
+  Steinbruch-Filter                 1 word     1 in   [255]
+  Therapie-Schnittstelle            1 word     1 in   [255]
+  LogOS                             1 word     1 in   [255]
+                                    1      as Logos-Prime
+  Limina                            0 word     1 in   [255]
+                                    1      as Limina-Vokabular
+  dekanonisierte Namen              1 word     1 in   [255]
+  Offene Punkte des Fadens          1 word     1 in   [257]
+  OQ-F1                             1 word     1 in   [261]
+  F1-1                              2 word     2 in   [262, 271]
+  F1-2                              1 word     1 in   [263]
+  F1-3                              1 word     1 in   [264]
+  F1-4                              1 word     1 in   [265]
+  F1-5                              1 word     1 in   [266]
+  F1-6                              1 word     1 in   [267]
+  DKT-Kanon                         1 word     1 in   [262]
+  DKT                               0 word     1 in   [262]
+  Junas Verwaltungs-Spur            1 word     1 in   [264]
+  Moonshine-Boundary                1 word     1 in   [264]
+  Post-Vortex-Status                1 word     1 in   [264]
+  Stufen-Terminologie               1 word     1 in   [265]
+  Sprach-DNA                        1 word     2 in   [265]
+                                    1      as Sprach-DNA-Dossier
+  Sprach-DNA-Dossier                1 word     1 in   [265]
+  C.3-Revisionsplan                 1 word     1 in   [266]
+  kap0-v1-annotiert                 2 word     2 in   [266, 285]
+  Phoenix-Mode                      1 word     1 in   [271]
+  Steelman                          1 word     1 in   [271]
+  Inversion                         1 word     5 in   [108, 120, 229, 271]  <-- substring
+  First-Principles                  1 word     1 in   [271]
+  Render-Artefakte                  1 word     1 in   [271]
+  Phase-1-Encoding-Sitzung          1 word     1 in   [271]
+  A-MC-Throughline                  1 word     1 in   [271]
+  Szenen-Keime                      1 word     1 in   [271]
+  Skill-Kette                       1 word     1 in   [271]
+  Quellen-Register                  1 word     1 in   [277]
+  Source-of-Truth-Outline 2026-06-10    1 word     1 in   [282]
+  CH-01_Erwachen-Zyklus_Draft-v0_3.md    0 word     0 in   []
+  Erwachen-Zyklus                   0 word     2 in   [283, 284]
+  CH-01_Erwachen-Zyklus_Briefing.md    0 word     0 in   []
+  0 %-Bridge-Status                 1 word     1 in   [284]
+  Komp-734-Setzung                  1 word     1 in   [285]
+  Motiv-Erstereignisse              1 word     1 in   [285]
+  Kapitel-Kompendium_Gather_2026-05-31.md    0 word     0 in   []
+  Kapitel-Kompendium                1 word     1 in   [286]
+  KW-Matrix                         1 word     1 in   [286]
+  Orte-Konzepte                     1 word     1 in   [287]
+  Vorschlags-Ebene                  1 word     1 in   [291]
+  Juna: Kap 38 Beat 3 `Junas Erscheinung [K]` (L229); Kap 30 Junas Kanal.    0 word     0 in   []
+  Quotation marks mark console/diegetic text and cited locks; VERSALIEN lines are console output.    0 word     0 in   []
 ```
+
+## Stance and extraction limits
+
+A proposal document in three parts: a diagnosis (Teil I), thirteen plot ideas
+with the same four fields each — Was geschieht, Kapitel-Anker, Löst,
+Kanon-Prüfung (Teil II) — and one of them, F1 „Der Sachbearbeiter der
+Abweichung" ^[L106], worked out as a chapter-by-chapter thread (Teil III, §0–§8), then a
+source register.
+
+It labels passages `[K]` / `[V]` / `[S]` / `[L]` and says what the labels do:
+„Alles in diesem Dokument ist [V], sofern nicht explizit [K]-Anker zitiert wird." ^[L17]
+Its closing line repeats it: „Nichts hieraus gilt als Kanon, bevor es bestätigt und (wo strukturell) via ncp-author encodet ist." ^[L291]
+So a `[K]` here is this document's claim about what a lock says, not the lock's
+text. Its precedence rule is borrowed from the outline it names: „neuere Quelle gewinnt; v0.3 schlägt Theorie" ^[L21].
+
+The whole of §5, the chapter beats Kap 0 to Kap 40, is one line — L229, 10,329
+characters. Every citation into the chapter plan names that line, and a citation
+there says less about *where* than anywhere else in the file.
+
+The document numbers its chapters 0 to 40 (L223) and calls them „die 41 Bewegungen" ^[L159]; Kap 40 is a Coda (L174). **One word numbers two series**: Kap 40 echoes
+the Trennungsprotokoll as „Bewegung 4" ^[L229], which cannot be the fifth chapter
+unit, and no list of those movements appears in the document.
+
+What the extraction ran into (in the counts above, the quotation marks of the one observation line are changed to backticks, so that it is not read as a quotation):
+
+- **Two lines of the reader's observations were counted as candidates** —
+  the ones without a comma, `Juna: Kap 38 Beat 3 …` and `Quotation marks …`.
+  `capture.py` reads a `- ` line with a comma as prose and one without as a term.
+  They are not terms; the list is left as counted, so the 581 includes them.
+- **Twelve candidates with a comma were read as prose and not counted**, among
+  them the idea titles „Die Leitung, die in keinem Plan steht" ^[L62] and „Eine Löschung,
+  von innen" ^[L94], and `Bestandspflege, Stufe 2`.
+- **The export escaping defeats the count on the labels**: `[K]`, `[V]`, `[S]`,
+  `[L]` and `[DATENTYP_FEHLT]` count 0 because the file writes `\[K\]` and
+  `\[DATENTYP\_FEHLT\]`, and the three source file names in the register count 0
+  for the same reason.
+- **Inflection**: `Algorithmische Melancholie`, `unbedienbarer Datensatz`,
+  `privates Register`, `offener Posten` and `sanfter Apparat` were listed in the
+  nominative and stand in the text only inflected; `Sequenz 251` is written
+  „114 auf 251" ^[L56].
+- **Subscripts survived**: `K₀` and `K₁` are written with the Unicode subscripts,
+  and count only inside compounds (`K₁-Spuren`, `K₀-Architektur`).
+- Borrowed lenses (`P vs. NP`, `Halteproblem`, `Kant`, `Kishōtenketsu`,
+  `MacGuffin`, `Avoidance vs. Pursuit`) are marked `(lens)`, so the counter reads
+  some of them as prose and counts the others at 0.
+
+Heat is placed three ways, and the document relates them: the Landauer-Signatur
+is cold ozone and follows every Ausgleich (L133); Silas leaves warmth where he
+stood, as the Coheron-Echo (L80); and Kap 36 Beat 4 is the „einziger kanonischer
+Landauer-Wärme-Ort" ^[L229] (L229), restated as „Landauer-Wärme ausschließlich Beat 4" ^[L239].

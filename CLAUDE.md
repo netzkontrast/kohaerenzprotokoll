@@ -145,6 +145,7 @@ has been promoted.
 | `koharenz-protokoll-konzept-iteration-genesis-md` | 1 | 22 | 0 |
 | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md` | 0 | 53 | 0 |
 | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md` | 0 | 38 | 0 |
+| `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` | 0 | 31 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -259,16 +260,18 @@ Kap 5–8, and this document gives AEGIS the third person and never prose (C14) 
 who carries Flight, Kiko and Lia or Lia and Isabelle (C15). It also gave C11 the
 character bible's entry, which the record had never held.
 
-**The eighteenth is the F1 plot proposal.** Its thirteen ideas and the
-Kap-0–40 thread are labelled `[V]` by the source itself. Twenty-five existing
-pages record its proposals; C6, C11, C12 and C14 gain positions without being
-resolved. A read-only Kap-2 pilot compares the source with the existing draft,
-chapter plan and NCP. The draft already shows F1's returning value and foreign
-syntax, while the proposed equation between work deviations and K₁ traces
-remains F1-1, an author decision (`Plan/concept/chapter-evidence-pilot_2026-09-25.md`).
+**The eighteenth is the Plot-Konkretisierung, and it is a proposal about the locks.**
+Thirteen plot generators and one, F1 „Der Sachbearbeiter der Abweichung“, worked out
+from Kap 0 to a Kap 40 coda. Everything in it is `[V]` unless it cites a `[K]` lock, so
+every reading from it opens by saying so. It works out the cold side of C11: cold ozone
+after every Ausgleich, Kap 6 cold, and Kap 36 Beat 4 the „einziger kanonischer
+Landauer-Wärme-Ort“. Silas' warmth is the Coheron-Echo. **No pages, readings on 31.**
+**Its lookup found a defect in `fold()`**: `A:RS`, Storyform A's Relationship Story, folded
+to `ars` and was filed as a reading on the ARS protocol's page. `fold()` now keeps the
+colon (J87). No page surface contains one, and the self-test fails on the old code.
 
-`Plan/runs/judgements.jsonl` holds **86 <!--state:judgements.total--> judgements**
-about near matches, **7 <!--state:judgements.mechanised-->** mechanised and
+`Plan/runs/judgements.jsonl` holds **87 <!--state:judgements.total--> judgements**
+about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
 
 **`python3 scripts/account.py order` holds** — `true`
@@ -388,7 +391,7 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 31 <!--state:sweep.decided--> so far,
+is recorded in `Plan/runs/sweep.jsonl`: 29 <!--state:sweep.decided--> so far,
 14 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
@@ -477,7 +480,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 184 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
+The 186 <!--state:wiki.unmarked--> mentions still unmarked are ones whose first
 occurrence sits inside a quotation, a citation line or a heading — places the
 pass may not touch, so that part is a measurement and not a backlog. The rest,
 `link.py` would mark on pages no reading has touched since the page was last
@@ -489,13 +492,13 @@ in a commit that names its source.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **131 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1591 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **1605 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 1814 <!--state:graph.evidence-->
-of them, **1814 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 1903 <!--state:graph.evidence-->
+of them, **1903 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -1020,9 +1023,9 @@ every piece is a pattern of tens of lines, ported with its source named.
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
 
-**73 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
-42 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
-decides 50 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
+**74 <!--state:pairs.labelled--> labelled pairs; `fold()` decides
+43 <!--state:pairs.fold_correct--> of them, and the plural rule of decision 010
+decides 51 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —
 `labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
 `--dry-run`. **On 2026-09-25 it ran on real models for the first time**, under

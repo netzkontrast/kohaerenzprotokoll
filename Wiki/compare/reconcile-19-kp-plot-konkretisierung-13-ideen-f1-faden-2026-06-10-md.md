@@ -2,49 +2,79 @@
 document: kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md
 against: 93 pages, 15 conflicts
 ran: "2026-09-25"
-candidates: 90
-decisions: 92
-by_lookup: 76
-judgements: 16
+candidates: 571
+decisions: 575
+by_lookup: 309
+judgements: 266
 new_pages: 0
-new_readings: 25
+new_readings: 31
 ---
 
-# Reconciliation 19 — the F1 plot proposal
+# Reconciliation 19 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md` against the wiki
 
 `python3 scripts/reconcile.py kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`
-preclassified 90 candidates: 76 decisions by lookup and 16 near matches to
-review. The source labels all its own additions `[V]` unless it quotes an `[K]`
-anchor (L17, L108, L291). Its thirteen ideas and 41-movement F1 table are
-proposals, not a new canon layer.
 
-## What entered the wiki
+571 candidates after folding, 575 decisions — **309 by lookup, 266 to judgement**,
+and one sweep hit. Document 18, the „Plot-Konkretisierung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L11] of 2026-06-10: thirteen
+plot generators, and one of them — F1, „Der Sachbearbeiter der Abweichung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L106] —
+worked out chapter by chapter from Kap 0 to Kap 40. **It is a proposal and says so**:
+„Alles in diesem Dokument ist [V], sofern nicht explizit [K]-Anker zitiert wird." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L17]
+Each `[K]` in it is its citation of a lock, attributed to the Source-of-Truth outline
+of 2026-06-10. Its precedence rule, „neuere Quelle gewinnt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L21], is recorded,
+not applied (decision 006).
 
-Twenty-five existing pages gained attributed proposal readings. Among them:
+Chosen because `NOW.md` named it for C11 and C12.
 
-- [[landauer-signatur]] and [[hitze-polaritaetsregel]] record cold ozone at the
-  workplace (L133) and the proposed Kap-36 exception (L229, L239). C11 stays open.
-- [[kaels-wohneinheit]], [[genesis]] and [[trennungsprotokoll]] record the proposed
-  734 archival reveal (L88) and distinguish chapter-reveal order from Genesis
-  event order. C12 stays open.
-- [[aegis]] records the proposed first-person Hard-B operation (L96), alongside
-  the contrary source positions in C14.
-- [[guardians]] and [[mnemosyne]] record a two-offer Kap-31 scene (L92); the
-  author's five-Guardian decision in C6 remains in force.
+## No new pages
 
-No new page was earned. The 53 unmatched surfaces are plot devices, chapter
-actions, lenses or names left open by this source. Each is retained with its
-first counted line in `reconcile.json` rather than being made into a term page.
-Previously recorded judgements J47 (final form against AEGIS), J51 (Rauschen),
-J76 (Genesis versus flashback) and J83 (Polaritätsregel) apply; this reading
-introduces no new one-term decision. Three wiki surfaces found by the sweep
-were occurrences, each explained in `Plan/runs/sweep.jsonl`; no hit stays open.
+A proposal supplies events, not definitions. Its own vocabulary — the counter-register,
+the Wartungsfenster, the three Stufen, the Warteschlange, the Klick — is the thread's
+machinery, all `[V]`. The places it cites as `[K]` (Lernarchiv Theta-9, Transitkorridor
+Delta-7) are named once in a chapter line, like the readings of the documents it cites,
+which left them without pages. `reconcile.json` lists each under `not_promoted`.
 
-## Chapter check following the reading
+## Readings — 31 pages
 
-[`Plan/concept/chapter-evidence-pilot_2026-09-25.md`](../../Plan/concept/chapter-evidence-pilot_2026-09-25.md)
-compares F1's Kap-2 beat with the existing draft, its plan and the NCP. The
-returning value, spatial contradiction and foreign syntax already appear in
-prose. F1-1, the proposed ontological equation between work deviations and K₁
-traces (L251, L262), remains an author decision. Nothing was written to the
-manuscript or NCP.
+25 the lookup reached. `ars` it reached wrongly (J87, below), and `kohaerenz` appears
+only in the title. Six more by recorded rules: `kaels-wohneinheit` (J58, J80),
+`datenverarbeitungsknoten-7g` (J65, as Datenknoten Epsilon), `hitze-polaritaetsregel`
+(J83), `kern-welten` (J37), `therapie-schnittstelle-alpha` (J65) and `moonshine-link`
+(J71). Every section opens by saying the reading is a proposal's.
+
+## What moved
+
+- **C11** — the cold side, worked out as a plot: cold ozone after every Ausgleich ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133],
+  Kap 6 „Sensorik kalt/Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], and Kap 36 Beat 4 the
+  „einziger kanonischer Landauer-Wärme-Ort" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]. Silas' warmth is the Coheron-Echo.
+  Of the Anteile-Profile's three heats it holds two, and relates them.
+- **C12** — 734 consolidated in Kap 0 ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164], and the flashbacks in the order Cluster →
+  Trennungsprotokoll → 734 (Kap 18, 21, 22). It counts no beats.
+- **C7** — Kap 38 Beat 3, and before it only effects: the line, the channel, a record with no type.
+- **C14** — one first-person chapter in Kap 5–8, „erste Person, Protokollform" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96].
+- **C6, Q5** — two Guardians as two gifts in Kap 31; LogOS only as a decanonised name.
+- **C4** — AEGIS „kann einen Innentäter nicht denken, weil es kein Innen kennt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72].
+- **Q4** — „Wächterin-Stufe" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], a stage of Kael's arc.
+
+Read and unchanged: C1, C2, C3, C5, C8, C9, C10, C13, C15, Q1, Q2, Q3 —
+`reconcile.json` says why each. **C10**: the Kap-1 locks it lists name no knuckles.
+That is silence, not a position.
+
+## Judgements
+
+**J87 — `A:RS` is not `ARS`.** The Juna braid carries „A:RS, A:IC, Polaritätsregel,
+Moonshine" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L41]. `fold()` removed the colon and the lookup filed Storyform A's
+Relationship Story as a new reading on the page of the ARS protocol. **`fold()` now keeps
+the colon.** No page surface contains one, so no earlier lookup moves, and the self-test
+carries the pair as a must-not-merge case that fails on the old code. It is the eighth
+mechanised judgement, and the pair ledger grows to 74 rows.
+Everything else near was decided by recorded rules, named in `reconcile.json`.
+
+## What the document leaves open
+
+- **Kap 40.** It chapters the novel Kap 0–40, „die 41 Bewegungen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L159], with Kap 40 a
+  Coda: „Genau ein Klick, ohne Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]. Marked `[V]`. A question for the author,
+  not a conflict: no source is contradicted, only extended.
+- **Einheit 734 (J80)** — it makes the number the dwelling's and the component's on
+  purpose: „Die Kennung ist die seiner Wohneinheit" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]; „Er wohnt in der Akte
+  seiner eigenen Quarantäne." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] One answer to J80's question, proposed.
+- **Its own blocking question**, F1-1: whether the Abweichungen Kael smooths are K₁-Spuren ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L262].

@@ -290,8 +290,11 @@ Outside the thirteen: „AEGIS spricht nie in Prosa." ^[kohaerenz-protokoll-ante
 (L952–L988). In Kap 1 „keine AEGIS-Stimme" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L992]; its voice debuts in the Hard-B chapter, Kap 5–8 (L992).
 Its echo inside the system is [[oblivion|Oblivion]]; its greatest threat, [[selene|Selene]] (L853).
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — administration, never threat
 
-> „erste Person, Protokollform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
 
-**Proposal `[V]`.** Idea 12 proposes an AEGIS operation in first person for the Hard-B slot, with a residual exception in its accounting. This is a proposed scene even where the document labels the format `[K]`; C14 remains open. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96]
+„AEGIS bleibt Verwaltung, nie Bedrohung." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52] Its blindness, made mechanical: „es kann einen Innentäter nicht denken, weil es kein Innen kennt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72] (C4).
+The Hard-B-Kapitel, „Slot 16, Position Kap 5–8 [K]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96]: „AEGIS führt eine Routine-Konsolidierung durch — erste Person, Protokollform" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96],
+and „AEGIS-1.-Person nur hier in Akt I" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96] (C14). In Akt I otherwise „ausschließlich Konsolen-Direktiven" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L220].
+Lock row: „AEGIS nie Bösewitz; tragische Unschuld" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L241].

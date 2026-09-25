@@ -86,6 +86,9 @@ Silas is its „Resonanzkörper des Moonshine-Links innerhalb des Systems Kael."
 „Entscheidet sich, den Moonshine-Link vollständig zu öffnen." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L731] The boundary is OQ-F:
 „Vorschlag: Silas zuerst, andere Alter im Verlauf von Akt II; räumlich global, phänomenal nur an Knotenpunkten." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1077]
 
-## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — a tool with steps
 
-**Proposal `[V]`.** Idea 9 proposes mapping warm spots as a practical use of the link; their pattern would form the floor plan of an apartment in the external layer. ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Ab Kap 10 (Moonshine-Bewusstsein [K]) kartiert Kael die Wärmestellen" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]. The idea's aim: „Moonshine-Link als Werkzeug mit Arbeitsschritten" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84].
+Kap 10 at the workplace: „Kael hält einen Datensatz, ohne zu klicken" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], and somewhere in the city it grows warmer. Its open point: „OQ-F (Moonshine-Boundary)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L264].

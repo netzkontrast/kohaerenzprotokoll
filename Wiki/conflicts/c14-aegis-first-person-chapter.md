@@ -63,6 +63,8 @@ is retired by its date or by a source's claim to be canon. It is an **item for
 discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
 
-## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10
+## 2026-09-25 — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 
-**The first-person side, as a scene proposal.** Idea 12 specifies „erste Person, Protokollform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96] for one Hard-B chapter in Kap 5–8. F1 then says Act-I AEGIS otherwise appears through console directives, with a voice debut in that chapter (L220). The source labels all its additions `[V]` (L17) even when it reports the first-person rule as `[K]`; its proposal does not retire the third-person positions above.
+**One chapter in Kap 5–8, in the first person — the lock's side, worked out as a plot.** „Das Hard-B-Kapitel (Slot 16, Position Kap 5–8 [K])" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96]:
+„AEGIS führt eine Routine-Konsolidierung durch — erste Person, Protokollform" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96], and „AEGIS-1.-Person nur hier in Akt I" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96].
+In the cast table AEGIS' „Stimme debütiert im Hard-B-Kapitel" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L220]. „Formel-Grammatik gewahrt" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96], „keine Ich-Formel" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96] — a first person that does not say „ich" as a formula.
