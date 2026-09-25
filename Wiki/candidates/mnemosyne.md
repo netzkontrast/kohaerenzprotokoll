@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-17"
 ---
 
@@ -167,3 +167,14 @@ She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-draft
 „Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L994]: „eine der zwei Guardians; arbeitet für AEGIS, klingt aber anders" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L996] (C6).
 „Verwaltet die Datenströme der Erinnerung." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] „Setting des Klimax:" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] the Mnemosyne-Archipel (L1000).
 „Erste Guardian, die im Vortex 1 Beat 4 betroffen ist." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1004] „Mnemosyne verwaltet, Oblivion löscht" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L778].
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+„Mnemosyne (Guardian / Erinnerungs-Wächterin)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L43] — `Wächterin` beside `Guardian` (J20, Q4).
+„Bewahrung und Umverwaltung von Trauma-Erinnerungen. Klimax-Setting des Vortex 1." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45] The third person,
+in long flowing sentences, with water, current and sediment for vocabulary (L45).
+
+„Mnemosyne weiß mehr, als sie sagt — aber sie ist nicht heimlich Verbündete; sie operiert in AEGIS' Architektur, weil sie keine andere Sprache hat." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45]
+(Q1.) Her temptation, to erase the pain, „klingt sanft und ist die perfideste Falle" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L45].
+Her world: „KW2 — Mnemosyne-Archipel. Parakonsistent." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] „Mnemosyne dominiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L217] (J49, Q5.)
+Her counter-pole is the Erasure-Pol, „Kalter Gegen-Pol zu Mnemosyne." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L53]
