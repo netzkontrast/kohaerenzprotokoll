@@ -15,7 +15,7 @@ corrections left beside what the build proved wrong.*
 | 0.4 a failing case per metric | each script's `selftest`; `scripts/selftests.py` runs all 14 suites | built |
 | 1.1 run record | `scripts/lmrun.py` | built — 10 offline cases; the tenth (2026-09-24) raises DSPy 3.3's own `LMTransportError`, which the first nine never did, and `call()` re-raised it instead of recording `unreachable` |
 | 1.2 baseline ledger | `scripts/baseline.py`, `Plan/runs/baselines.jsonl` | built — floor rows recorded for both tasks |
-| job 1 harness | `scripts/pairs.py` | built — all five optimizers dry-run; **no real-model run** |
+| job 1 harness | `scripts/pairs.py` | built — all five optimizers dry-run; **real-model runs since 2026-09-25** under decision 011, every rung but SIMBA (`dspy-optimization_2026-09-25.md`) |
 | job 3 changes | `scripts/rlm_ingest.py` | built — cache off, budget, tools, reach, `--approval`; **not run live** (needs Deno and a yes) |
 | job 2 structural fix | — | not built: revision 3 of the entity workflow waits on the author's definition of an entity |
 | job 4 skill descriptions | `example_param_ok()` in the surface check | guard only — no routing failures recorded, so no dataset (P4) |

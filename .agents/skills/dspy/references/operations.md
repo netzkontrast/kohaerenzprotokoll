@@ -72,7 +72,13 @@ mean. With `scripts/route.py` — the door for third-party tools and direct
 calls under decision 007, which records every call for offline replay — the
 rule „no corpus text leaves without the author's decision" has **three**
 encodings, with three record formats; which one the others should call is open
-(`NOW.md`, *Three encodings of one rule*).
+(`NOW.md`, *Three encodings of one rule*). For a DSPy program on a free model
+two of them now compose: `route_lm()` points a `dspy.LM` at `route.py`'s proxy
+with the caller key `route:<purpose>:-:<attempt>:pin`, so `lmrun.call` keeps the
+approval and its per-call record, and `route.py` keeps the price check, the
+data policy, the twelve-word guard, its own record — keyed by the pinned model
+since 2026-09-25, when a pinned run could otherwise have been answered from
+another model's recording — and the pin itself.
 
 **What `unreachable` covers, since the 2026-09-24 fix.** `_unreachable(error)`
 walks the exception's `__cause__`/`__context__` chain and matches it against
@@ -89,7 +95,7 @@ exactly this shape when nothing came back at all.
 [checked: refused-connection-is-transport-error] **Until 2026-09-24 the
 `_NO_ANSWER` tuple did not include DSPy's own types**, because the first nine
 offline selftest cases only ever raised the fixture's own `NetworkRefused`. A
-probe against a closed local port — no model has ever been called here — raised
+probe against a closed local port — before any model had been called here — raised
 `dspy.LMTransportError`, and `call()` **re-raised it instead of recording
 `unreachable`**. The tenth selftest case,
 added the same day, constructs `dspy.LMTransportError` directly and asserts
@@ -97,14 +103,17 @@ the classification now holds (`scripts/lmrun.py`). `LMConfigurationError`
 and `LMUnsupportedFeatureError` are deliberately **not** in either set — those
 are this repository's own mistakes, and `call()` still lets them propagate.
 
-`lmrun.py`'s own selftest is ten offline cases —
-`.venv-dspy/bin/python scripts/lmrun.py` prints "`lmrun: 10 of 10 cases hold
-(4 statuses, DSPy's own transport error, empty field, English caught, cache
-refused, approval refused, short text unmeasured)`"
-(`scripts/lmrun.py`). Three real runs are one command away and each
-waits on the author's yes for that specific run: `pairs.py run --optimizer
-labeled`, `graphrag.py ask "…" --answer`, and `rlm_ingest.py <slug>`. `NOW.md`
-names what each would send.
+`lmrun.py`'s own selftest is thirteen offline cases —
+`.venv-dspy/bin/python scripts/lmrun.py` prints what each is — the last of
+which sends a DSPy call through `route_lm()` and `route.py`'s real proxy to a
+faked upstream, so the `api_base`, the caller key and the pin are proved end to
+end with no key and no network (`scripts/lmrun.py`). **Decision 011 is the yes
+for DSPy runs**: Claude through `make_lm("claude-cli/…")`, and one free
+OpenRouter model through `make_lm("route/…")` for what `pairs.py` sends —
+surfaces and recorded rules, never a line of a document; `pairs.py --evidence`
+refuses a `route/` model in code. `graphrag.py ask "…" --answer` and
+`rlm_ingest.py <slug>` send quotations and documents, so they may run on Claude
+only. Runs under it pass `approval="decision 011"`.
 
 ## Cost and usage
 
@@ -257,11 +266,17 @@ hooks` (see *Not taken*).
 matter for a live run are `restrict_pickle` (the disk cache deserialises with
 pickle unless this is set) and the fact that the per-LM `cache=` flag, not the
 process cache's on/off state, decides whether a given LM consults it.
-`rollout_id` bypasses the cache for an otherwise-identical request, but
-**only when `temperature > 0`** — at `temperature=0` DSPy itself warns
-`"rollout_id has no effect when temperature=0; set temperature>0 to bypass the
-cache"` (`dspy:clients/lm.py:98-102,165-170`), and `BestOfN`/`Refine` rely on
-exactly this mechanism internally.
+`rollout_id` bypasses the cache for an otherwise-identical request **at any
+temperature**: two ids at `temperature=0` are two real calls
+(`api.md`, [checked: rollout-id-busts-cache-at-zero-temperature]). DSPy's own
+warning at 0, `"rollout_id has no effect when temperature=0; set temperature>0 to
+bypass the cache"` (`dspy:clients/lm.py:98-102,165-170`), is about the provider's
+answer, not the cache — this paragraph repeated the warning as fact until
+2026-09-25. `BestOfN`/`Refine` rely on this mechanism internally. **A cache hit
+also replays the first call's `cost`** while its `usage` is emptied
+(`Plan/concept/dspy-source_2026-09-24/lm-and-retrieval.md`, probe
+`cache-hit-keeps-cost`), so a cost summed over `lm.history` counts every hit as
+paid; every LM this repository builds has the cache off.
 
 **Measure cost at least once with the cache off, because a warm cache does not
 only hide cost — it hides correctness.** `braid-dspy`'s generator retries a
@@ -488,6 +503,23 @@ guidance, in calls rather than tokens**: one `Predict` costs roughly 5–10s;
 contend for the same session"); `GEPA(auto="light")` on 20 train / 10 val
 costs "a few hundred calls"
 (`dspy-agent-skills:skills/dspy-local-runtime/SKILL.md:80-110`).
+
+**This repository has its own since 2026-09-25: `scripts/claude_lm.py`.**
+The same shape, with what this repository needed and the pattern above does not
+do: `--tools ""` (no tool at all, not `--permission-mode plan`),
+`--setting-sources ""`, `--strict-mcp-config` and `--disable-slash-commands`; an
+empty temporary working directory, so the project's `CLAUDE.md` is never loaded
+into a prompt; `CLAUDE_CODE_ADDITIONAL_DIRECTORIES_CLAUDE_MD` and the session id
+removed from the child's environment; the conversation on stdin, with few-shot
+demos written out as numbered examples, because the CLI takes no assistant
+turn; `MAX_THINKING_TOKENS=0` unless asked (SKILL.md, fact 16); `n>1` made as
+`n` calls rather than refused; and every failure one of DSPy's own error types,
+so `lmrun.call` records it `unreachable`. Four calls in parallel ran without
+contention (`--no-session-persistence`, no shared session). With
+`--system-prompt` replacing Claude Code's own, a call on the ladder's prompt
+cost $0.0024 on average, against the $0.078 the retired bridge paid below.
+GEPA's documented „Claude CLI as proposer" is prose only in GEPA 0.1.4, with no
+isolated working directory (`Plan/concept/dspy-source_2026-09-24/gepa-anything.md`).
 
 **This repository built and used the same pattern once, against a real
 measurement.** The retired pipeline's own keyless `claude -p` bridge (the

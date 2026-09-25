@@ -157,12 +157,36 @@ rollouts`** — exactly `auto_budget(1, 6, 57) = 608` (see GEPA below).
 `run(dry_run=False, ...)` requires **both** `--model` and `--approval "<the
 author's decision>"` or refuses (`scripts/pairs.py`); `lmrun.make_lm`
 builds the LM with `cache=False`, and `lmrun.call` separately refuses a cached
-LM and refuses a real LM with no `approval=`. Exactly one such run is
-catalogued and waiting: `pairs.py run --optimizer labeled --rule plural` — the
-cheapest rung, on the residual after the plural rule — named in `NOW.md` as one of three
-model calls the author has not yet said yes to (`NOW.md`, *Which model runs
-are allowed*). **None of the five rungs has run against
-a real model as of 2026-09-24.**
+LM and refuses a real LM with no `approval=`. **Decision 011 is that decision
+for this ladder**: `--model claude-cli/haiku` (Claude through `claude -p`) or
+`--model route/<free model>` (one free OpenRouter model through `route.py`,
+pinned), `--approval "decision 011"`.
+
+### The ladder on real models, 2026-09-25
+
+LabeledFewShot, BootstrapFewShot, InferRules and GEPA (`--gepa-calls 200`,
+Sonnet reflecting) ran on Haiku; LabeledFewShot also with `--evidence` and on
+the free models that answered. `python3 scripts/pairs.py report` prints every
+row split by direction — merges found among the pairs the rule leaves, pairs
+kept apart, and each **false merge** by judgement id — and
+`Plan/concept/dspy-optimization_2026-09-25.md` reads them. What held, in words:
+
+- **Every Claude rung beat the plural rule, by recall, at almost no loss of
+  precision**; Bootstrap was the best row, and its one false merge,
+  `AEGIS-Echo`/`Echo-AEGIS`, is two compounds of the same parts.
+- **InferRules cost the most and did not beat Bootstrap** — the same null result
+  the one published measurement near this scale reports
+  (`Plan/concept/dspy-source_2026-09-24/research.md`). Its induced rules, kept by
+  `pairs.py final` in `Plan/runs/surface-pairs/programs/`, restate the ledger's.
+- **Document lines as evidence raised recall and cost precision**: a line where
+  two surfaces stand together reads as identity to a model.
+- **A free model's score can hide a false merge on every other pair**, the
+  founding canary among them. The veto asked each canary once, so it did not
+  fire; it now asks as often as a held-out pair, and a held-out canary row vetoes.
+- **Measured per call** (`Plan/runs/surface-pairs/lm/`): Haiku with thinking off
+  answers in 2.4–3.9 s for about $0.0024; InferRules' candidate evaluation and
+  rule-induction prompts make it the most expensive rung per run.
+- **SIMBA was not run** — about $8 of Claude usage, and no published evidence.
 
 ### What `baseline.py compare` says
 
@@ -768,6 +792,33 @@ unchanged, and a math example with two strong models (baseline 83.33% and
 saturated baseline is not a broken run: "Baseline >0.95 means GEPA correctly
 no-ops" (`dspy-agent-skills:skills/dspy-advanced-workflow/reference.md:120-128`,
 `[claim]`).
+
+### Cost, reflection and keyword traps — read from GEPA itself
+
+Read from DSPy 3.3.1 and GEPA 0.1.4 themselves on 2026-09-25
+(`Plan/concept/dspy-source_2026-09-24/gepa-core.md`):
+
+- **GEPA cannot see what its reflection costs.** `dspy.GEPA` hands
+  `gepa.optimize()` a plain callable, which GEPA wraps in `TrackingLM`; that
+  wrapper counts estimated tokens and reports a cost of 0.0 forever.
+  [checked: gepa-tracking-lm-cost-inert] `dspy.GEPA` refuses
+  `max_reflection_cost` for that reason. A run's cost is what DSPy's own LM
+  history records — `pairs.py` sums `GLOBAL_HISTORY` over the run, compile and
+  reflection included.
+- **`gepa_kwargs` is checked at `.compile()`, not at construction.** A key
+  `gepa.optimize()` does not take — `enable_tool_optimization` belongs only to
+  GEPA's own vendored adapter — constructs `dspy.GEPA` without complaint and
+  raises `TypeError` when the run starts. [checked: gepa-kwargs-fail-at-compile]
+- **`stop_callbacks` in `gepa_kwargs` do not replace the metric-call budget**,
+  whatever `dspy.GEPA`'s docstring says: both stoppers run, and the first to
+  fire ends the run (`gepa:src/gepa/api.py:252-295`).
+- **The reflection model is stronger than the task model** in every production
+  use the research reader found (task GPT-4.1-mini with GPT-5.1 reflecting;
+  task gpt-5-mini with gpt-5.2-pro), and a task model that never fails gives
+  reflection nothing to work on (`Plan/concept/dspy-source_2026-09-24/research.md`).
+  `pairs.py run --optimizer gepa --reflection-model claude-cli/sonnet` with
+  `--model claude-cli/haiku` is that shape; `--gepa-calls N` sets
+  `max_metric_calls` instead of `auto="light"`.
 
 ### seed, log_dir, track_stats, Flex
 
