@@ -1,10 +1,10 @@
 ---
 term: Vermittler-Stimme
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none yet
-ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kap0-v1-annotiert-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
@@ -105,6 +105,14 @@ in Kap 40: „Echo des Vorworts — der Erzähler kehrt zurück, jetzt bezeugend
 
 As the narrator, in the mirror table of Kap 0 and Kap 40: „Erzähler kehrt zurück, jetzt bezeugend statt fragend“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L625] —
 „Modus: Frage → Zeugnis“ ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L625].
+
+## Reading — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text of Kap 0 and Kap 40
+
+The voice as written. Kap 0's Vorwort addresses the reader: „Es gibt Worte, die sich sträuben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L165] „Sehen Sie? Schon scheitern wir." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L169]
+„Hören Sie genau hin. Vielleicht können Sie das Rauschen spüren." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L189] Its „wir" is general — „Unser Geist, geeicht auf Muster und Sein" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L169].
+Kap 40's „Echo des Vorworts" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L25] says who it was: „Es gibt Worte, von denen wir am Anfang sagten, sie würden sich sträuben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L27] „Das waren wir." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L31]
+„Wir waren die Stimme, die Sie zum Fühlen einlud, und wir waren das Fühlen selbst, das in Ihnen geschah." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L35]
+The `Dazwischen` between Genesis and crisis (L357) keeps the reader-address: „Was, wenn die Basis unserer Realität einer anderen Wahrheit begegnet?" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L359]
 
 ## Where the sources differ
 
