@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -48,3 +48,18 @@ In the glossary's Alter table: role „Protector" ^[kohaerenz-protokoll-begriffe
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Function „Externer Schutz, Risiko-Antizipation" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L134], correlate „Asymptotische Freiheit" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L134], arc „defensive Kontrolle → Wachstum zulassen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L134]. First in Kap 6's polyphonic break-in: „Rhys-Wärme, Alex-Imperativ, Nyx-Stakkato." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L377]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+From the Sprach-DNA it keeps: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1234]
+Its example: `Kopf runter` instead of `Ich liebe dich` (L1234).
+
+**It names a conflict of its sources about his origin (§14.4)** and leaves it open.
+The character bible: „Alex entstand" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1460] „in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1460]
+— in that document's own words, „Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L398].
+The Kap-0 annotation: „Alex-Vorform wird in Bewegung 4 *vor* dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461]
+„Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462], with
+two ways out: „Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1464]
+or „Alex' Genesis-Geschichte anpassen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1465] The annotation is landed and
+unread here (`kap0-v1-annotiert-md`); until it is read the wiki holds one side
+directly and the other as this document reports it.
