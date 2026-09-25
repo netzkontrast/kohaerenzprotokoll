@@ -65,7 +65,7 @@ source; not in `Sources/`)*. **That was wrong when this document landed with the
 canon era on 2026-09-24**: it is `kapitel-kompendium-gather-2026-05-31-md`, and it is now read.
 
 It does not settle C7. No chapter line gives [[juna|Juna]] a direct appearance, and its
-Vortex 2 (L240) does not mention one. What it says of her in the novel's run is
+[[vortex|Vortex]] 2 (L240) does not mention one. What it says of her in the novel's run is
 the rule „nie Subjekt, nur Wirkung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] and a forewarning, „Junas zunehmende
 Stille" ^[kapitel-kompendium-gather-2026-05-31-md.md:L152]. The question stays with the author.
 

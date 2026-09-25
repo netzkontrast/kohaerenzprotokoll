@@ -262,7 +262,7 @@ Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237]. H
 MC of Storyform B: „Resolve: Steadfast · Growth: Stop · Approach: Do-er · Style:
 Linear" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L59] — C8, the Do-er side (J70).
 
-In Vortex 1 it shows its own origin — „AEGIS muss die Genesis zeigen, weil ihm die
+In [[vortex|Vortex]] 1 it shows its own origin — „AEGIS muss die Genesis zeigen, weil ihm die
 Lösch-Kapazität ausgeht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1087] — and in Kap 39 „AEGIS-monolithisch erlischt;
 AEGIS-plural entsteht. Kael-als-Wir wird neue AEGIS, aber wesensanders." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1206]
 The formula turns: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1212]

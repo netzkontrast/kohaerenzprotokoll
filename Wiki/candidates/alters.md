@@ -128,7 +128,7 @@ Each of the twelve beside [[kael|Kael]] now has a page from this document's prof
 the document's own mark, „(Lücke — bewusst offen)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L510] — [[argus|Argus]], [[silas|Silas]], [[oblivion|Oblivion]] among
 them (L510, L730, L766).
 
-Its frame is TSDP: „Tertiäre Strukturelle Dissoziation: mehrere ANPs und mehrere
+Its frame is [[tsdp|TSDP]]: „Tertiäre Strukturelle Dissoziation: mehrere ANPs und mehrere
 EPs. Genau Kaels Fall." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L818]
 
 ## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08

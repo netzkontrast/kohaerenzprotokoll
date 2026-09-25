@@ -161,7 +161,7 @@ the one name replaced the other; it is one source.
 „Junas zunehmende Stille" ^[kapitel-kompendium-gather-2026-05-31-md.md:L152].
 
 **No direct appearance is placed.** No chapter line here gives Juna one, and
-Vortex 2 (L240) does not mention it — nothing for conflict C7, from the document
+[[vortex|Vortex]] 2 (L240) does not mention it — nothing for conflict C7, from the document
 C7's record named as what would settle it.
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10

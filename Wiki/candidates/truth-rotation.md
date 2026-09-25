@@ -12,7 +12,7 @@ gathered: "2026-09-25"
 
 **The inversion under the whole novel: [[aegis|AEGIS]] believes it is coherence and is the
 entropy.** The sources use the name for two things — the inversion itself, and
-the moment in the Vortex when the reading turns to it. Each source's use is
+the moment in the [[vortex|Vortex]] when the reading turns to it. Each source's use is
 below, attributed and unmerged.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08

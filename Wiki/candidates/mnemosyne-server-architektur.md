@@ -10,7 +10,7 @@ gathered: "2026-09-24"
 
 # Mnemosyne-Server-Architektur
 
-**The setting of Vortex 1 (Kap 35–36), in KW2 — and its image is not decided.**
+**The setting of [[vortex|Vortex]] 1 (Kap 35–36), in KW2 — and its image is not decided.**
 
 ## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
 

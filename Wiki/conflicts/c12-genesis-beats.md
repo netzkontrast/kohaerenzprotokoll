@@ -14,7 +14,7 @@ pages: ["trennungsprotokoll"]
 
 | # | beats | source | line |
 |--:|---|---|--:|
-| 1 | three: Einheit · [[trennungsprotokoll|Trennungsprotokoll]] · [[kael|Kael]] = Komponente 734 | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 115–123 |
+| 1 | three: Einheit · [[trennungsprotokoll|Trennungsprotokoll]] · [[kael|Kael]] = [[komponente-734|Komponente 734]] | `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08 | 115–123 |
 | 2 | four: Einheit · Cluster-Bildung and Komp-734 · [[trennungsprotokoll|Trennungsprotokoll]] · Wir = AEGIS-plural | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 67–74 |
 | 3 | names a „Genesis-Beat 4 (Wir-AEGIS-plural)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L390], done in Kap 39 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 390 |
 

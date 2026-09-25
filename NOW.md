@@ -159,6 +159,29 @@ before this list.
   equates those names by their shared attributes, so the author's decision is
   whether they name one level with conflicting placement or two conceptions.
   The six cited positions are in `Wiki/conflicts/c13-externe-ebene-beyond-the-simulation.md`.
+- **Found by the 2026-09-25 scan's page writers, not yet a record.** Ten documents
+  were scanned (`Plan/runs/haiku-scan-2026-09-25/`), and new pages quote them
+  beside the read ones. Where those pages found the sources parting and no
+  conflict or question holds it:
+  - **One Vortex or two.** The Dramatica lock-in, the character bible, the
+    master report, the 39-chapter spec and the Worldbuilding-Konzept count one.
+    The konsolidiertes Konzept and everything later count two. The two lists for
+    Vortex 1's five beats also differ, and so does which beats fall in Kap 35 and
+    which in Kap 36. The 39-chapter spec adds a third storyform boundary,
+    „bei 36/37", beside its own 34/35. See `vortex`, *Where the sources differ*.
+  - **Eleven alters or thirteen.** The Inquiry (2025-10-15) and the plan of
+    2026-02-26 count eleven, and the Charakter-Kompilation reports a status that
+    strikes Silas and Oblivion. Every source from 2026-05-08 on counts thirteen.
+    See `tsdp`.
+  - **Who is the living Gödel statement?** Kael in five documents, Juna in five,
+    Juna alone in the master report, and the Moonshine-Link in the Inquiry.
+    See `goedel-gambit`.
+  - **Does AEGIS have qualia?** AEGIS erases the pain before it becomes qualia
+    (the Hard-Problem analysis). It is a pure functionalist without qualia
+    (Philosophie im Detail). It misread its own emerging qualia as an error
+    (Charakter-Kompilation). See `thermodynamischer-phaenomenalismus`.
+  - **The Ouroboros — an image or a sentence, Kap 1↔39 or Kap 0↔40?** See
+    `ouroboros-struktur`.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
@@ -454,6 +477,15 @@ Kap-0/Kap-40 documents of 2026-05-08; then chapters in `graph.py` and `ui.py` if
 the author wants them (*Questions for the author*).
 
 ## Handover — the next session starts here
+
+**Ten unread documents have a triage scan** (`Plan/runs/haiku-scan-2026-09-25/`,
+chosen by qmd searches over the open records). A scan is not a reading. Its
+verdict column says nothing either, since nine of ten said READ NEXT. Each scan
+does name the records its document speaks to, with lines. The pages
+`vortex`, `goedel-gambit`, `ouroboros-struktur`, `chaitin-konstante`,
+`kishotenketsu`, `tsdp`, `thermodynamischer-phaenomenalismus`, `komponente-734`
+and `vermittler-stimme` already quote these ten documents. Reading one of them in
+full, by `ingest`, would give it the census and reconciliation it lacks.
 
 Run `python3 scripts/selftests.py` first; it builds nothing and says in one line
 per suite what holds. In a fresh container the DSPy suites report `not run`
@@ -971,6 +1003,14 @@ premise is that a task is derived from measured state, so it cannot be forgotten
 and cannot go stale in a list.
 
 ## Known failing
+
+**`account.py order` is red, correctly.** The eleven pages of the 2026-09-25
+scan were written outside a reconciliation. The wiki holds 105 pages, and the
+newest reconciliation, the konzept master report, recorded leaving 94. The check
+was left as it is. The next document reconciled through `ingest` starts from
+105 pages and records the state it leaves, and then the chain holds again. If
+that document is one of the ten scanned, its reconciliation also gives the pages
+that quote it the census they now lack.
 
 **The qmd coverage check reads collection patterns.** The previous version
 treated a collection rooted at `.` as covering all descendants, even when its

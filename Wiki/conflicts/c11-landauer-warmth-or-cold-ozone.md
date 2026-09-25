@@ -15,7 +15,7 @@ pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivi
 | # | the Landauer trace | source | line |
 |--:|---|---|--:|
 | 1 | warmth — „Hitzeschlieren, Landauer-Wärme" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972] in Kap 6, „Landauer-Wärme als Schluss-Markierung" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1032] in Kap 36 | `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08 | 972, 1032 |
-| 2 | cold ozone everywhere; warmth is [[juna|Juna]]'s alone, the spike kept for Vortex 1, Beat 4 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 64, 458 |
+| 2 | cold ozone everywhere; warmth is [[juna|Juna]]'s alone, the spike kept for [[vortex|Vortex]] 1, Beat 4 | `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10 | 64, 458 |
 
 > „Sensorik: Hitzeschlieren, Landauer-Wärme." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L972]
 

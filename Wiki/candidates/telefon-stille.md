@@ -21,7 +21,7 @@ gathered: "2026-09-24"
 > Vortex-Quelle." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L268]
 
 It is the drift test for every scene — „Block-4-Anker (Telefon-Stille)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1200] (L1200) —
-and the source of Vortex beat 3 (L1144).
+and the source of [[vortex|Vortex]] beat 3 (L1144).
 
 ## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
 
