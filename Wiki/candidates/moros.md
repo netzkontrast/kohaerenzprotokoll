@@ -1,10 +1,10 @@
 ---
 term: Moros
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -50,3 +50,8 @@ In the glossary's Alter table: role „Kollaps" ^[kohaerenz-protokoll-begriffe-u
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Function „Absolute Resignation, Katatonie-Tendenz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L147], correlate „Big Freeze" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L147], arc „Aufgeben → Drachenkampf" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L147]. Kap 16: „Moros' Schwere zieht im Hintergrund alles herunter." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L621]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The gravitative Riss (Collapse): „Schwere, Sinken, Kompression, Atmosphäre wird dichter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L407].
+Sprach-DNA: „Moros ist nicht depressiv" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235].
