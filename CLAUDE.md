@@ -365,7 +365,7 @@ the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
 is recorded in `Plan/runs/sweep.jsonl`: 27 <!--state:sweep.decided--> so far,
-10 <!--state:sweep.readings--> of them readings the lookup had missed, and
+13 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -465,7 +465,7 @@ in a commit that names its source.
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **127 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **1446 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **1451 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.

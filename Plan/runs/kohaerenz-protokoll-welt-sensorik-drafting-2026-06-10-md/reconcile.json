@@ -613,5 +613,11 @@
   ],
   "internal_tension": "strand 1 'Landauer' is themed „Hitze als Symptom der Wahrheitsvertuschung\" (L445) while §2.1 files the Landauer-Signatur under cold ozone (L346); recorded in C11",
   "baseline_moved": true,
-  "baseline_note": "fold() equality 60% → 58% (trainset.fold_baseline_pct); labelled pairs 67 → 71. J81 is a two-terms pair fold() and the plural rule both get right (40 → 41, 48 → 49); J82–J84 are one-term pairs neither sees — a leading numeral and a short form decided by content. No false merge by either rule. J80 is judgement and not labelled."
+  "baseline_note": "fold() equality 60% → 58% (trainset.fold_baseline_pct); labelled pairs 67 → 71. J81 is a two-terms pair fold() and the plural rule both get right (40 → 41, 48 → 49); J82–J84 are one-term pairs neither sees — a leading numeral and a short form decided by content. No false merge by either rule. J80 is judgement and not labelled.",
+  "sweep": {
+    "hits": 3,
+    "readings": 3,
+    "occurrences": 0,
+    "note": "Kairos, LogOS, Sophia at L42 — all three already read by rule (J49) during reconciliation; the sweep of decision 012 ran after the merge of main and found nothing the census and the rules had missed"
+  }
 }

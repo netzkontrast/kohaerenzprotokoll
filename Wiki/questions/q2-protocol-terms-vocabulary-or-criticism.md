@@ -3,7 +3,7 @@ id: Q2
 question: Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?
 status: open
 raised_by: ["ani", "ars", "ecr", "nullpunkt-protokoll", "pms", "rsa", "snk"]
-documents: ["aegis-emergenz-aus-der-leere"]
+documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 

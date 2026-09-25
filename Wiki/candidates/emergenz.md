@@ -1,8 +1,8 @@
 ---
 term: Emergenz
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C3
 ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
