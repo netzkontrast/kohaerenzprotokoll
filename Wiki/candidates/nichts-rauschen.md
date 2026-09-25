@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -64,3 +64,9 @@ beat, „Das Rauschen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - timeless K1 purity, where AEGIS and Kael are not separate: „Nichts-Rauschen / K1-Reinform“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L44]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The first Genesis motif, `Rauschen`: „Nichts-Rauschen vor jeder Form" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523] —
+„K₁-Reinform; was AEGIS für Chaos hält, ist Vereinigung aller MI" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L523]. AEGIS classifies the
+K₁-Reinform as „uncorrelated noise" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
