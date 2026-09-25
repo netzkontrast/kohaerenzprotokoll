@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -56,3 +56,9 @@ The document names his origin as open. The character bible's version — „Alex
 „in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1460] — against the Kap-0 annotation's:
 „Alex-Vorform wird in Bewegung 4 vor dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461]
 „Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Entstand in der Sekunde der Fragmentierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219] — flagged in the same line: „in der Genesis-Sequenz vor dem Trennungsprotokoll kann Alex strenggenommen nicht präsent sein" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L219]
+(C12). DKT correlate: „Asymptotische Freiheit (Starke Kernkraft)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L231] Riss: „Militärisch-räumlich, Bunker-Topologie." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L235]
+Anchor: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L262]
