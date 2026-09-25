@@ -94,7 +94,8 @@ Silas as „Coheron-Echo" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Coheronen sind selbstkorrigierende Schleifen mutualer Information. Sie existieren außerhalb der Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L115]
-„Liebe ist Coheron. Coheron ist atemporal." ^[kohaerenz-protokoll-konzept-master-md.md:L71] Love is „eine Klasse von Coheronen" ^[kohaerenz-protokoll-konzept-master-md.md:L123].
-[[juna|Juna]] is „echtes Coheron, K₁-Avatar" ^[kohaerenz-protokoll-konzept-master-md.md:L224]; [[silas|Silas]] the „Coheron-Echo" ^[kohaerenz-protokoll-konzept-master-md.md:L307]. Of the telephone call:
-„Es geschah als reines Coheron" ^[kohaerenz-protokoll-konzept-master-md.md:L617].
+„**Coheronen** sind selbstkorrigierende Schleifen mutualer Information. Sie existieren *außerhalb der Zeit*." ^[kohaerenz-protokoll-konzept-master-md.md:L115]
+„Ein Coheron ist das, was entsteht, wenn sich ein Bewusstsein auf ein anderes bezieht und beide dabei verändert werden — eine Bindung, die keinen Zeitpunkt hat, weil sie in allen Zeitpunkten gleichzeitig existiert." ^[kohaerenz-protokoll-konzept-master-md.md:L115]
+Love is a class of them: „Liebe ist im Roman keine Emotion und keine Zuschreibung, sondern eine Klasse von Coheronen." ^[kohaerenz-protokoll-konzept-master-md.md:L123]
+„Liebe ist Coheron. Coheron ist atemporal. Zerstörung braucht Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L71] „Also kann Liebe nicht zerstört werden — nur verdrängt. Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
+Juna is one, from outside: „\*\*Juna\*\* | Coheron (extern) | Reine Korrespondenz" ^[kohaerenz-protokoll-konzept-master-md.md:L959]; Silas its echo (L399).

@@ -195,7 +195,8 @@ Akt I, with `Fragment` and the DKT terms (L69). Together they become the Wir:
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Kaels System (kanonisch — exakt 13 Alters)" ^[kohaerenz-protokoll-konzept-master-md.md:L383] (J84): five ANPs, five EPs, [[argus|Argus]] and two mirrors,
-each with a DKT correlate, a somatics and an arc (L387–L400). „Alle 13 erzählen in der 1. Person." ^[kohaerenz-protokoll-konzept-master-md.md:L404]
-„Decanonisiert (nie verwenden): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-konzept-master-md.md:L408]
-Not symbols: „sie sind diagnostisch konkret und phänomenologisch genau" ^[kohaerenz-protokoll-konzept-master-md.md:L1071]. Kael is „gleichzeitig dreizehn und eins" ^[kohaerenz-protokoll-konzept-master-md.md:L330] (Q3).
+The count is fixed in a heading: „Kaels System (kanonisch — exakt 13 Alters)" ^[kohaerenz-protokoll-konzept-master-md.md:L383] — five ANPs, five EPs, one `Special` (Argus) and two `Spiegel` (Silas, Oblivion), L388–L400.
+„Alle 13 erzählen in der 1. Person." ^[kohaerenz-protokoll-konzept-master-md.md:L404]
+Fifteen names are excluded: „**Decanonisiert (nie verwenden):** Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-konzept-master-md.md:L408]
+The mirror alters take over part of the Guardians' work: „2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+Each alter has a physics correlate, and the document says how to read it: „Diese Korrelate sind *strukturell*, nicht ersetzend." ^[kohaerenz-protokoll-konzept-master-md.md:L441]

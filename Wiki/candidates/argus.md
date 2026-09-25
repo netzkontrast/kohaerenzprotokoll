@@ -70,5 +70,7 @@ the document does not say (C4). The first person, distanced like a third (L109).
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Argus (Meta-Kognitor)" ^[kohaerenz-protokoll-konzept-master-md.md:L309]: „Beobachtet beide Theorien und macht ihre Unvereinbarkeit explizit" ^[kohaerenz-protokoll-konzept-master-md.md:L309].
-„Argus (Meta-Kognition)" ^[kohaerenz-protokoll-konzept-master-md.md:L398], correlate fractals, arc „konstruktive Kritik" ^[kohaerenz-protokoll-konzept-master-md.md:L398]; in the matrix, „Fraktale Selbstreferenz" ^[kohaerenz-protokoll-konzept-master-md.md:L437].
+„Special | Argus (Meta-Kognition) | Fraktale | offen | → konstruktive Kritik" ^[kohaerenz-protokoll-konzept-master-md.md:L398]
+„\*\*Argus (Meta-Kognitor)\*\* | Wahrheits-Kommentar | Beobachtet beide Theorien und macht ihre Unvereinbarkeit explizit" ^[kohaerenz-protokoll-konzept-master-md.md:L309].
+„Argus | Meta-Beobachter | Fraktale Selbstreferenz" ^[kohaerenz-protokoll-konzept-master-md.md:L437]. In the routing table: „Argus | A mit Kommentar-Überlagerung" ^[kohaerenz-protokoll-konzept-master-md.md:L878].
+The somatic filter is open (L1006).

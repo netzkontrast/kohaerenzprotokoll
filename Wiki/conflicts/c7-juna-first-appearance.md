@@ -153,7 +153,9 @@ that it chose between them.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**No chapter: a revelation in Akt II, and her modes of appearance left open.**
-„Revelation-Timing: KW2/KW3 (Akt II), nicht früher." ^[kohaerenz-protokoll-konzept-master-md.md:L571] Among its open points:
-„Andere Modi (Erscheinungen in der Stadt, im Traum, im Spiegel) müssen festgelegt werden" ^[kohaerenz-protokoll-konzept-master-md.md:L994]. Kap 33 and
-Kap 38 are not named. The same date as the character bible (Kap 33) and the konsolidiertes Konzept (Kap 38).
+**No chapter — a revelation in Akt II, and the modes of appearance still open.**
+„**Revelation-Timing:** KW2/KW3 (Akt II), nicht früher." ^[kohaerenz-protokoll-konzept-master-md.md:L571]
+„**Niemals physisch beschrieben.** Juna wird nur durch Wirkung wahrnehmbar:" ^[kohaerenz-protokoll-konzept-master-md.md:L556]
+Its open points: „**Junas Erscheinungs-Modi.** Telefon-Stille ist *ein* Anker." ^[kohaerenz-protokoll-konzept-master-md.md:L994] „Andere Modi (Erscheinungen in der Stadt, im Traum, im Spiegel) müssen festgelegt werden, bevor Encoding-Phase startet" ^[kohaerenz-protokoll-konzept-master-md.md:L994]
+And a point of view it both leaves open and routes: „Junas POV ist offen (Reset-Doc Appendix C)." ^[kohaerenz-protokoll-konzept-master-md.md:L404], „Juna-POV (selten)" ^[kohaerenz-protokoll-konzept-master-md.md:L879].
+Neither Kap 33 nor Kap 38 is named. Whether its Akt-II revelation is an appearance, an effect or the reader's discovery, it does not say — a position this record has not held, earlier than both chapters.

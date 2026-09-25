@@ -80,5 +80,5 @@ In KW4: „Selene dominiert in ANP-Modus; Wir-Stimme tritt erstmals ganz auf." ^
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Selene (ISH)" ^[kohaerenz-protokoll-konzept-master-md.md:L392]: correlate „Wurmlöcher" ^[kohaerenz-protokoll-konzept-master-md.md:L392], somatics „Hände entspannen" ^[kohaerenz-protokoll-konzept-master-md.md:L392], arc „Mediator" ^[kohaerenz-protokoll-konzept-master-md.md:L392].
-The integrator in this document is [[kael|Kael]] — „Kael (Integrator)" ^[kohaerenz-protokoll-konzept-master-md.md:L306].
+„ANP | Selene (ISH) | Wurmlöcher | Hände entspannen | → Mediator" ^[kohaerenz-protokoll-konzept-master-md.md:L392]
+One of the ANPs, the „interne Verfechter der Kohärenztheorie" ^[kohaerenz-protokoll-konzept-master-md.md:L274]; in the consistency matrix with Alex and Rhys: „K₁-Buffer (somatisch/relational)" ^[kohaerenz-protokoll-konzept-master-md.md:L954].

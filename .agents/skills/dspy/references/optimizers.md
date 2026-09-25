@@ -12,7 +12,7 @@ breaks `dspy.Evaluate` — are `metrics.md`; trainsets, splits and `fold()` are
 ## In this repository
 
 `scripts/pairs.py` is the one ladder built here, for the one task with usable
-gold labels: **one term or two**, **77 <!--state:pairs.labelled--> labelled
+gold labels: **one term or two**, **79 <!--state:pairs.labelled--> labelled
 pairs** in `Plan/runs/judgements.jsonl`, each with `first`, `second`, a gold
 `decision` and a `rule` — the person's own words for why, which is the GEPA
 feedback string with no extra work. `scripts/trainset.py`'s `surface_pairs()`
@@ -25,7 +25,7 @@ first. The code is `scripts/pairs.py`, `scripts/baseline.py`,
 
 `wiki_index.fold()` is a deterministic surface-normalisation rule, not a
 model. `trainset.fold_baseline()` and `pairs.score_rule("fold")` both score it
-the same way: **43 <!--state:pairs.fold_correct--> of 77 <!--state:pairs.labelled-->
+the same way: **46 <!--state:pairs.fold_correct--> of 79 <!--state:pairs.labelled-->
 labelled pairs**, run live 2026-09-24 (`python3 scripts/pairs.py score` prints
 `rule:fold: 36/63 = 57.1% on 63 labelled pairs`). All 27 misses have the same
 shape — gold `one-term`, `fold()` says `two-terms` — so on this ledger `fold()`
@@ -40,7 +40,7 @@ missed, never given the chance to *undo* one `fold()` made correctly
 author's delegation, the reach of `pairs.RULES["plural"]`: `fold()`, plus a
 plural ending — `-s` `-es` `-e` `-en`, `-n` only after `-e` — on a stem of four
 letters or more, written in lower case. It decides
-**51 <!--state:pairs.plural_correct--> of 77 <!--state:pairs.labelled-->**,
+**54 <!--state:pairs.plural_correct--> of 79 <!--state:pairs.labelled-->**,
 with no false merge and no canary merged. It is a row on the ledger and not part
 of `fold()`: reconciliation still merges by `fold()` alone.
 `pairs.py run --rule plural` asks it before the model, which then sees 51 pairs,

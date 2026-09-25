@@ -343,8 +343,12 @@ do not occur. The author's five stand.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
-„Begründung der Reduktion: 5 Guardians lasten den 39-Kapitel-Plan zu sehr" ^[kohaerenz-protokoll-konzept-master-md.md:L513].
+Two, and the five named as the past: „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
+„**Mnemosyne** — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[kohaerenz-protokoll-konzept-master-md.md:L508]
+„**Ein Erasure-Pol** — Funktion klar (Löschungs-Exekutive), Name offen." ^[kohaerenz-protokoll-konzept-master-md.md:L509]
+Why: „Begründung der Reduktion: 5 Guardians lasten den 39-Kapitel-Plan zu sehr; 2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
 „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
-Both are „K₀-Sub-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L961] (Q1), and the worlds are not theirs: „Wichtig: Die Kernwelten sind Akt-Marker, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
-The author's five stand (C6).
+They are not tied to worlds: „**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
+In the consistency matrix both are `K₀-Sub-Operator`, „Kohärenz-Exekutiv" ^[kohaerenz-protokoll-konzept-master-md.md:L961], in Storyform B's OS (L961–L962). Told in the third person (L404).
+One open point asks how the two relate: „**Wächter-Zwiespalt-Soziopolitik.** Slot 16 Punkt: Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[kohaerenz-protokoll-konzept-master-md.md:L1002]
+The author's decision for five (C6) stands; this is one more source for two.

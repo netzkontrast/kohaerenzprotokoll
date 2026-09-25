@@ -75,5 +75,5 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Moros (Collapse)" ^[kohaerenz-protokoll-konzept-master-md.md:L397]: correlate Big Freeze, somatics „Katatonie" ^[kohaerenz-protokoll-konzept-master-md.md:L397], arc „Drachenkampf" ^[kohaerenz-protokoll-konzept-master-md.md:L397].
-Riss type „Collapse (Moros)" ^[kohaerenz-protokoll-konzept-master-md.md:L1050], gravitational.
+„EP | Moros (Collapse) | Big Freeze | Katatonie | → Drachenkampf" ^[kohaerenz-protokoll-konzept-master-md.md:L397]
+The riss: „Collapse (Moros) | gravitational" ^[kohaerenz-protokoll-konzept-master-md.md:L1050]. `Drachenkampf` is named and not explained.

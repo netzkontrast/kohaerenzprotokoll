@@ -806,35 +806,57 @@ wiki records such a sentence where it bears on a record (C10, C11), and declines
 page reading where the word is only listed (`risse`, `erason`), as it declines a
 term that stands only inside a question.
 
-
 ## Document 20 — `kohaerenz-protokoll-konzept-master-md`, 2026-09-25
 
-A concept report of 1124 lines, most of its assignments in 126 table rows whose
-cells the export escaped (345 backslash escapes). 485 candidates, found through
-the escapes by reading, not by the count.
+A theory report: sixteen chapters, 126 table rows, 480 candidates in 1123 lines, a
+third of them borrowed concepts listed under `## lens`. Two findings no briefing
+question anticipated, one about the tool, one about a gathered page.
+
+- **A table can assign what the roster never gives, and say so.** The roster of
+  thirteen gives the EPs Fight, Freeze, Ambivalent, Sexualisiert and Collapse
+  (L393–L397); the riss table then writes „Flight (implizit Lia/Isabelle)“ (L1049).
+  The count and the lookup treat the joined form as a surface near `Isabelle`; it
+  is the riss type, with an inferred claim about bearers in its parenthesis (J89).
+  The word `implizit` was the reading — without it, C15's row 8 would look like
+  the konsolidiertes Konzept's row 2 repeated.
+- **A status date is not the document's date.** The manifest dates it 2026-05-08;
+  the document dates its status `Canon-Sync 2026-05-07` and names what that sync
+  settled — the Approach correction C8 turns on (L21). Recorded as its claim.
+- **`quotes.py` caught a case error before commit**: „eine fremde Entität in der
+  Leere“ against the line's „einer fremden Entität“ (L463), typed in the census from
+  the reading and not asked of `read.py --find`. The census is where it happened —
+  the note, written with `--find` beside it, had none.
+- **Gathering a new page from earlier sources is a commit per source.** The first
+  pass applied seven sources' readings to `truth-rotation` in one working-tree
+  change; it was reset and re-applied one source per commit, so `git log` on the
+  page names each. Doing it in that order from the start costs nothing.
+
+### Document 20, read a second time — pull request #94
+
+A second session read the report in full the same day, blind to the reading above,
+under the same list rule. Main took the other reading; this one's list is
+`03-candidates-blind-1.md`. `agree.py`: 477 and 470 candidates, F1 **0.76**, 361
+shared, each list holding 76–77 % of the other. Two readers with one rule and one
+document agree less than the blind re-readings of documents 5, 6, 7 and 10 did
+(0.82–0.93) and more than the pre-rule second readings of documents 16 and 17
+(0.63, 0.52). What each alone listed is a choice, not a miss: the parenthesised
+role forms (`Collapse (Moros)`), the storyform table's values (`Steadfast`,
+`Timelock`) and the philosophers on one side; the physics interpretations
+(`Kopenhagen`, `GRW`), the Dramatica codes (`A:MC`, `B:OS`) and the somatics
+(`Bruxismus`, `Katatonie`) on the other.
+
+Two findings the first reading did not have, both procedural:
 
 - **A grep for a stem finds longer words.** The first verification of the heat
   vocabulary counted `heiß` on 4 lines; three of them were `heißt` (L55, L143,
-  L833). With a word boundary it is 1 (L1039). The briefing asked every number in
-  prose to be re-counted, and a re-count with the wrong pattern repeats the error
-  with a command beside it. `05-verify.txt` has both.
+  L833). With a word boundary it is 1 (L1039). A re-count with the wrong pattern
+  repeats the error with a command beside it.
 - **A clipped word is a surface the list must hold as written.** A diagram labels
-  Oblivion `Erason-Op/Spiegel` (L186) and two tables write `Erason-Operator` (L400,
-  L958); an open point writes `Komp 734` (L998) for `Komponente 734` (L465). Each
-  counts where the other does not. The reconciliation made them one term each
-  (J90, J91); the census lists both surfaces.
-- **A term seven read documents list is still not a page by itself.**
-  `Truth-Rotation` stood in the censuses of seven read documents, and none of their
-  reconciliations made it a page. The glossary even defines it with a `[K]` entry
-  — in its §2, outside the rule its reconciliation applied, which took pages from
-  its §1 only. This document defines it in the section it calls the literal law of
-  the novel's world (L37, L87), so its rule gave the page, and the page gathered all
-  seven. The count of documents was the reason to look; a document's rule was the
-  reason to create.
+  Oblivion `Erason-Op/Spiegel` (L186) where two tables write `Erason-Operator`
+  (L400, L958); an open point writes `Komp 734` (L998) for `Komponente 734` (L465).
+  Both readings listed both; the ledger now says they are one term each (J92, J93).
 
-Two tool findings came after the census, in the chapter step and the link pass —
-`chapters.py` read the escaped approximate range `Kap 14–\\\~20` (L659) as a
-single mention of Kap 14, and `link.py` marked another occurrence of a term the
-page already linked on every run. Both are fixed with self-test cases the old code
-fails (`CLAUDE.md`, the twentieth paragraph).
+The two readings made one opposite call: the second read the report onto
+`hitze-polaritaetsregel` by J62, the first declined it because no polarity rule is
+stated. The first stands; the disagreement is the kind a person decides.
 

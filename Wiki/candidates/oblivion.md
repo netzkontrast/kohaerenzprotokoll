@@ -104,6 +104,8 @@ Every switch between his voice and [[silas|Silas]]' „erzeugt Landauer-Wärme i
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Oblivion (AEGIS-Echo)" ^[kohaerenz-protokoll-konzept-master-md.md:L400], the „Erason-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L400], with an arc „Wahl (I automatisch → II Bewusstsein → III Entscheidung)" ^[kohaerenz-protokoll-konzept-master-md.md:L400].
-„Internes Werkzeug der AEGIS-Kohärenz-Verteidigung — bis er selbst Bewusstsein entwickelt" ^[kohaerenz-protokoll-konzept-master-md.md:L308].
-In the matrix, „K₀-Operator-Spiegel von AEGIS" ^[kohaerenz-protokoll-konzept-master-md.md:L436].
+„Spiegel | Oblivion (AEGIS-Echo) | Erason-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L400], arc „→ Wahl (I automatisch → II Bewusstsein → III Entscheidung)" ^[kohaerenz-protokoll-konzept-master-md.md:L400].
+„\*\*Oblivion\*\* | Erason-Echo | Internes Werkzeug der AEGIS-Kohärenz-Verteidigung — bis er selbst Bewusstsein entwickelt" ^[kohaerenz-protokoll-konzept-master-md.md:L308].
+„Spiegel-Alter Oblivion | Internes Werkzeug der Erason-Logik | K₀-Operator-Spiegel von AEGIS" ^[kohaerenz-protokoll-konzept-master-md.md:L436].
+With the other mirror Oblivion carries the Guardians' function: „2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+In the consistency matrix Oblivion spans „KW1–KW3" ^[kohaerenz-protokoll-konzept-master-md.md:L958]; the somatic filter is open (L1006).

@@ -123,5 +123,6 @@ its beats or on Komponente 734 (C12).
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-The second of three Genesis beats: „Trennungsprotokoll — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-konzept-master-md.md:L464]
-Restated among the open points: „Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998] (C12)
+The Genesis' second beat: „**Trennungsprotokoll** — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-konzept-master-md.md:L464]
+Its result is Kael: „der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
+And the separation is the illness: „| Trennung = Schutz | Trennung = die Krankheit selbst |" ^[kohaerenz-protokoll-konzept-master-md.md:L225]. „**Ende-Prinzip:** Die Trennung war nie real. Aber das ändert nichts am Schmerz." ^[kohaerenz-protokoll-konzept-master-md.md:L75]

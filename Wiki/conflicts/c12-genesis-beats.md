@@ -160,7 +160,8 @@ It counts no beats. Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**Three beats, called canonical, and Komponente 734 the third.** „Die Genesis-Krise (3-Beat, kanonisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L457]:
-unity, the Trennungsprotokoll, and „Kael = Komponente 734 — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
-„Aktuell Lock-In: nein, drei Beats reichen." ^[kohaerenz-protokoll-konzept-master-md.md:L469] Restated among the open points with the verification still
-outstanding (L998). The character bible's order, on its date.
+**Three beats, locked, 734 the result of the separation.**
+„Die Genesis-Krise (3-Beat, kanonisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L457]: `Einheit`, `Trennungsprotokoll`, `Kael = Komponente 734` (L463–L465).
+„(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktuell Lock-In: nein, drei Beats reichen.)" ^[kohaerenz-protokoll-konzept-master-md.md:L469]
+Restated: „Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998] „Aber: Verifikation gegen Encoding-Praxis steht aus." ^[kohaerenz-protokoll-konzept-master-md.md:L998]
+The character bible's count and order, on the same date as the konsolidiertes Konzept's four beats with 734 before the separation. The document names the fourth beat as the open question and answers it no.

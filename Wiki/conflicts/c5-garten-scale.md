@@ -151,5 +151,6 @@ Nearest to the first position.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**KW4 is the garden.** „KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-konzept-master-md.md:L661], Akt III, Kap 27–34, one of four worlds that are
-„nicht Orte, sondern logische Regime" ^[kohaerenz-protokoll-konzept-master-md.md:L651]. No place inside it is named. Nearest to the first position.
+**KW4 is the Möglichkeits-Garten, the whole world.**
+„\*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorbereitung Vortex)" ^[kohaerenz-protokoll-konzept-master-md.md:L661]
+No place inside it is named, and the Kern-Welten „sind nicht Orte, sondern *logische Regime*." ^[kohaerenz-protokoll-konzept-master-md.md:L651] The same side as the Sprach-DNA (2026-05-13).

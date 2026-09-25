@@ -86,6 +86,9 @@ Her sample: „Der Anruf klingelte nicht. Die Hand am Hörer wartete trotzdem." 
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Telefon-Stille als Anker — die Wahrnehmung einer Verbindung, die nicht nicht-existiert" ^[kohaerenz-protokoll-konzept-master-md.md:L562].
 „Vor zwanzig Jahren ein Telefonat. Beide wussten, dass sie zusammen sein könnten. Keiner sprach es aus. Nichts ging verloren." ^[kohaerenz-protokoll-konzept-master-md.md:L607]
-„Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[kohaerenz-protokoll-konzept-master-md.md:L623] Open: „Telefon-Stille ist ein Anker." ^[kohaerenz-protokoll-konzept-master-md.md:L994] — other modes of [[juna|Juna]] are to be set.
+„Das ist der zentrale narrative Anker des Romans und gleichzeitig die Stelle, an der DKT, Wahrheitstheorie und Witness-Funktion zusammenfallen:" ^[kohaerenz-protokoll-konzept-master-md.md:L611]
+„Es geschah (Korrespondenz)." ^[kohaerenz-protokoll-konzept-master-md.md:L615] „Es geschah, ohne dass etwas geschah (Schweigen)." ^[kohaerenz-protokoll-konzept-master-md.md:L616] „Es ist die K₁-Substrat-Quelle des Vortex." ^[kohaerenz-protokoll-konzept-master-md.md:L619]
+„Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[kohaerenz-protokoll-konzept-master-md.md:L623]
+As Juna's one mode so far: „**Junas Erscheinungs-Modi.** Telefon-Stille ist *ein* Anker." ^[kohaerenz-protokoll-konzept-master-md.md:L994]
+The Vortex is its dialetheia: „Der Vortex selbst ist die zentrale Dialetheia: das Telefongespräch, das gleichzeitig stattfand (Korrespondenz) und nie stattfand (Kohärenz innerhalb der AEGIS-Welt)." ^[kohaerenz-protokoll-konzept-master-md.md:L332]

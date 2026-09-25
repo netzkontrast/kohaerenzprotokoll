@@ -64,6 +64,7 @@ The name is KW2's second: „KW2 — Mnemosyne-Archipel (Resonanzlandschaft, Kli
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
+„\*\*KW2 — Resonanz-Landschaft\*\* | Akt II (Kap 14–" ^[kohaerenz-protokoll-konzept-master-md.md:L659] — its end at `~20` — „Parakonsistent | LP-ähnlich, Dialetheien zugelassen | Bauch | Fluide, ambivalent, intensive, paradoxe Regeln" ^[kohaerenz-protokoll-konzept-master-md.md:L659].
 „KW2 (Resonanz-Landschaft) ist ontologisch parakonsistent — Widersprüche koexistieren, ohne dass die Welt in Unsinn zerfällt." ^[kohaerenz-protokoll-konzept-master-md.md:L331]
-In the world table, „KW2 — Resonanz-Landschaft" ^[kohaerenz-protokoll-konzept-master-md.md:L659]: Akt II, paraconsistent logic, the belly's somatics (L659).
-Not named for a Guardian: the worlds are act markers (L665).
+„KW2: der Leser muss Widersprüche aushalten, ohne sie aufzulösen." ^[kohaerenz-protokoll-konzept-master-md.md:L670]
+Its rifts come from AEGIS' endless repairs: „Diese strukturelle Unvorhersagbarkeit ist die Quelle der KW2-Risse (Kap 4 / Kap 13 entsprechend)." ^[kohaerenz-protokoll-konzept-master-md.md:L714]

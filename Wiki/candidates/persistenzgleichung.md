@@ -46,8 +46,9 @@ den Effizienzgrad der Verdrängung." ^[kohaerenz-protokoll-begriffe-und-konzepte
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„η = α · MI(S) · e^(−δ/β)" ^[kohaerenz-protokoll-konzept-master-md.md:L127] — „AEGIS berechnet diese Gleichung buchstäblich, um die Stabilität des Systems zu messen." ^[kohaerenz-protokoll-konzept-master-md.md:L131]
-Its variables are η, α, MI(S), δ and β (L135–L139). What [[aegis|AEGIS]] does not grasp:
-„Die Gleichung misst nicht Kohärenz, sondern den Grad der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
+„η = α · MI(S) · e^(−δ/β)" ^[kohaerenz-protokoll-konzept-master-md.md:L127]
+„AEGIS berechnet diese Gleichung buchstäblich, um die Stabilität des Systems zu messen." ^[kohaerenz-protokoll-konzept-master-md.md:L131]
+Its variables: „η: gemessene "Kohärenz-Effizienz"" ^[kohaerenz-protokoll-konzept-master-md.md:L135], „α: Suppressions-Konstante (System-spezifisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L136], „MI(S): Mutual Information des betrachteten Subsystems" ^[kohaerenz-protokoll-konzept-master-md.md:L137], „δ: lokaler Erason-Druck" ^[kohaerenz-protokoll-konzept-master-md.md:L138], „β: Suppressions-Bandbreite" ^[kohaerenz-protokoll-konzept-master-md.md:L139].
+What AEGIS misreads: „**Was AEGIS nicht begreift:** Die Gleichung misst nicht Kohärenz, sondern den Grad der *Verdrängung*." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
 „Wenn η sinkt, heißt das nicht Systemversagen — es heißt, die Wahrheit kommt durch." ^[kohaerenz-protokoll-konzept-master-md.md:L143]
-The misreading is „das messbare Symptom der Truth-Rotation" ^[kohaerenz-protokoll-konzept-master-md.md:L147] ([[truth-rotation]]).
+„Diese Fehlinterpretation ist das messbare Symptom der Truth-Rotation." ^[kohaerenz-protokoll-konzept-master-md.md:L147]

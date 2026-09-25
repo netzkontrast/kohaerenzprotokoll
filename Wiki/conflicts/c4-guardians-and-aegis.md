@@ -223,7 +223,7 @@ first position, as far as it goes.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**AEGIS' blindness, named ontological; none for a Guardian.**
-„Ontologische Blindheit: AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
-In time: „AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[kohaerenz-protokoll-konzept-master-md.md:L206] The two Guardians are
-„K₀-Sub-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L961] of the system, with no blind spot of their own. The first position's side.
+**The blind spot is AEGIS' alone, and it is ontological.**
+„**Ontologische Blindheit:** AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
+Its ground is temporal: „AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
+The two Guardians have no blind spot of their own; in the matrix both are `K₀-Sub-Operator` (L961–L962). The five of earlier drafts are named only as absorbed (L513).

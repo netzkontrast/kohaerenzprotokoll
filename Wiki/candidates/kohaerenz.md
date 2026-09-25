@@ -103,6 +103,8 @@ Found by the sweep (decision 012).
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„AEGIS glaubt, die Kohärenz zu sein." ^[kohaerenz-protokoll-konzept-master-md.md:L63] — the belief the [[truth-rotation|Truth-Rotation]] reverses.
-The kernel of coherence is „K₁ (Kohärenz-Kernel)" ^[kohaerenz-protokoll-konzept-master-md.md:L98]. As a truth theory: „Wahrheit ist die widerspruchsfreie Eingliederung einer Aussage in ein konsistentes System anderer Aussagen." ^[kohaerenz-protokoll-konzept-master-md.md:L262]
-„AEGIS ist die radikalste Kohärenz-Verkörperung." ^[kohaerenz-protokoll-konzept-master-md.md:L270] And: „Die echte Kohärenz-Arbeit leistet Kael" ^[kohaerenz-protokoll-konzept-master-md.md:L230].
+Here Kohärenz is first a truth theory: „**Die Wahrheitstheorien** (Korrespondenz, Kohärenz, Dialetheismus/Parakonsistenz) als operative, in den Figuren verkörperte Logiksysteme." ^[kohaerenz-protokoll-konzept-master-md.md:L38]
+„**Definition:** Wahrheit ist die widerspruchsfreie Eingliederung einer Aussage in ein konsistentes System anderer Aussagen." ^[kohaerenz-protokoll-konzept-master-md.md:L262]
+AEGIS embodies it: „**Im Roman:** AEGIS ist die radikalste Kohärenz-Verkörperung. AEGIS' Wahrheit ist: was ins System passt, ist wahr." ^[kohaerenz-protokoll-konzept-master-md.md:L270] So do the ANPs (L274).
+And AEGIS only believes itself coherence: „**AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.**" ^[kohaerenz-protokoll-konzept-master-md.md:L63]
+„Die echte Kohärenz-Arbeit leistet Kael, indem er seine Alters in Funktionale Multiplizität führt" ^[kohaerenz-protokoll-konzept-master-md.md:L230] — the [[truth-rotation|Truth-Rotation]].

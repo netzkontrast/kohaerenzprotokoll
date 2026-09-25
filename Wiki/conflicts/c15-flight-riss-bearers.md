@@ -21,6 +21,7 @@ pages: ["risse", "kiko", "lia", "isabelle"]
 | 5 | Lia and [[isabelle|Isabelle]], citing document 7's table | `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10 | 422 |
 | 6 | [[kiko|Kiko]] and Lia in its trigger table; Lia and Isabelle in KW2 | `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10 | 406, 148 |
 | 7 | [[kiko|Kiko]], as her second function, and Lia | `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10 | 441, 878 |
+| 8 | Lia and [[isabelle|Isabelle]], as an inference (`implizit`); no alter in the roster is Flight | `kohaerenz-protokoll-konzept-master-md`, 2026-05-08 | 1049 |
 
 > „Kiko (zweite Funktion), Lia" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L1006]
 
@@ -59,6 +60,7 @@ discussion** with the author, and closes when the author decides it.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**Lia and Isabelle, marked implicit.** „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049], spatial. In its Alter table no one
-carries Flight: „Lia (Ambivalent)" ^[kohaerenz-protokoll-konzept-master-md.md:L395]. The same date as the character bible (Kiko and Lia) and the
-konsolidiertes Konzept (Lia and Isabelle), on the second's side and saying it is implicit.
+**Row 8: Lia and Isabelle, marked as inferred — and no alter in its roster carries Flight.**
+„Die fünf Riss-Typen (Fight/Freeze/Flight/Collapse/Sex = kinetisch/temporal/spatial/gravitational/sensorisch) bleiben als interne Reaktionsmuster aktiv" ^[kohaerenz-protokoll-konzept-master-md.md:L422]
+The roster's EP labels are Fight, Freeze, Ambivalent, Sexualisiert and Collapse (L393–L397). The riss table then assigns Flight by inference: „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049], and gives [[isabelle|Isabelle]] Sex as well: „Sex (Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1051]. [[kiko|Kiko]] is Freeze only (L394, L1048).
+The konsolidiertes Konzept's pair, on its date, with the word `implizit` the other sources do not write (J89).

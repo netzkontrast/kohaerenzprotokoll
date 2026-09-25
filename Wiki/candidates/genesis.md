@@ -115,10 +115,10 @@ No beat and no Komponente 734 (C12).
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Die Genesis-Krise (3-Beat, kanonisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L457] — „Die ursprüngliche Trauma-Episode in AEGIS' Entstehung. Drei Beats:" ^[kohaerenz-protokoll-konzept-master-md.md:L459]
-„Einheit — das Ursprungs-Ich erlebt Resonanz mit einer fremden Entität in der Leere." ^[kohaerenz-protokoll-konzept-master-md.md:L463]
-„Trennungsprotokoll — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-konzept-master-md.md:L464]
-„Kael = Komponente 734 — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
-„Kael ist das, was übrig bleibt, wenn das Ursprungs-Ich gewaltsam in funktionale Module zerlegt wird." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
-„Aktuell Lock-In: nein, drei Beats reichen." ^[kohaerenz-protokoll-konzept-master-md.md:L469] Restated as an open point: „Genesis 4. Beat? Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998]
-(J78: the crisis is placed by what it states, the Genesis' beats; C12.) Genesis flashbacks sit in the middle of Akt II (L891).
+Three beats, locked: „Die Genesis-Krise (3-Beat, kanonisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L457] — „Die ursprüngliche Trauma-Episode in AEGIS' Entstehung." ^[kohaerenz-protokoll-konzept-master-md.md:L459]
+„**Einheit** — das Ursprungs-Ich erlebt Resonanz mit einer fremden Entität in der Leere." ^[kohaerenz-protokoll-konzept-master-md.md:L463]
+„**Trennungsprotokoll** — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[kohaerenz-protokoll-konzept-master-md.md:L464]
+„**Kael = Komponente 734** — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[kohaerenz-protokoll-konzept-master-md.md:L465]
+„(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktuell Lock-In: nein, drei Beats reichen.)" ^[kohaerenz-protokoll-konzept-master-md.md:L469]
+Restated in the open points: „Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[kohaerenz-protokoll-konzept-master-md.md:L998] „Aber: Verifikation gegen Encoding-Praxis steht aus." ^[kohaerenz-protokoll-konzept-master-md.md:L998]
+Three beats, 734 the Trennungsprotokoll's result, and the other party of the first beat unnamed (J68). In the storyform the Genesis-Krise is Juna's concern in A: „IC Concern | Past (Genesis-Krise)" ^[kohaerenz-protokoll-konzept-master-md.md:L822]. Its flashbacks fall in „Genesis-Flashbacks (Akt II Mitte)." ^[kohaerenz-protokoll-konzept-master-md.md:L891] Conflict C12.

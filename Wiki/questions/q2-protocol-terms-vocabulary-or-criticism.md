@@ -52,6 +52,5 @@ any was among the retired twelve it does not say.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**None of the eight occurs.** „Frühere Drafts hatten 12 Protokolle. Aktuell kanonisch 3" ^[kohaerenz-protokoll-konzept-master-md.md:L517]: the
-Suppressionsprotokoll, the Kohärenzprotokoll and the Re-Containment-Protokoll (L521–L523). Whether any of the eight
-was among the twelve, it does not say.
+**None of the eight occurs; twelve earlier protocols became three.**
+„Frühere Drafts hatten 12 Protokolle. Aktuell kanonisch 3 — die genaue Spezifikation ist offene Forschungsfrage." ^[kohaerenz-protokoll-konzept-master-md.md:L517] The three are the Suppressionsprotokoll, the Kohärenzprotokoll and the Re-Containment-Protokoll (L521–L523). None of ANI, ARS, ECR, PMS, RSA, SNK, ZTV or the Nullpunkt-Protokoll is named, and the twelve are not listed.

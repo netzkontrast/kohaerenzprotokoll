@@ -207,6 +207,7 @@ the architecture — neither a component nor an ally in so many words.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**Sub-operators of [[aegis|AEGIS]]' kernel.** In the consistency matrix both [[mnemosyne|Mnemosyne]] and the Erasure-Pol are
-„K₀-Sub-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L961], „Kohärenz-Exekutiv" ^[kohaerenz-protokoll-konzept-master-md.md:L961], working for storyform B's overall story (L961–L962).
-Components, in the document's own word for it.
+**Two sub-operators of K₀ — in Storyform B's overall story, not named as components.**
+„\*\*Mnemosyne\*\* | K₀-Sub-Operator | Kohärenz-Exekutiv | — | B:OS | Klassisch | Physics/Erinnerung" ^[kohaerenz-protokoll-konzept-master-md.md:L961]
+„\*\*Erasure-Pol\*\* | K₀-Sub-Operator | Kohärenz-Exekutiv | — | B:OS | Klassisch | Physics/Löschung" ^[kohaerenz-protokoll-konzept-master-md.md:L962]
+The Erasure-Pol is the `Löschungs-Exekutive` (L509). Whether the two are whole algorithms or divided is open: „Sind sie vollständige Algorithmen oder gibt es Anzeichen interner Spaltung? Open." ^[kohaerenz-protokoll-konzept-master-md.md:L1002]

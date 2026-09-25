@@ -83,6 +83,7 @@ No chapter in Kap 5–8 is named.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**The third person, on the date of rows 1 and 2.** „Alle 13 erzählen in der 1. Person. AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-konzept-master-md.md:L404]
-Its per-chapter POV table routes „AEGIS — 3. Person | B" ^[kohaerenz-protokoll-konzept-master-md.md:L877] under a Hybrid Option 3 of hard routing by POV (L866–L868).
-No chapter gives [[aegis|AEGIS]] the first person.
+**Third person for AEGIS, with no exception.**
+„Alle 13 erzählen in der 1. Person. AEGIS und Guardians in der 3. Person." ^[kohaerenz-protokoll-konzept-master-md.md:L404]
+In the routing table: „AEGIS — 3. Person | B" ^[kohaerenz-protokoll-konzept-master-md.md:L877].
+No first-person chapter and no inner view is named. The side of the character bible and the konsolidiertes Konzept, its date.

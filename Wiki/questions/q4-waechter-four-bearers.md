@@ -205,6 +205,7 @@ Alter. Mnemosyne is titled „Mnemosyne — Erinnerungs-Hüterin" ^[kohaerenz-pr
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**The word three ways.** [[aegis|AEGIS]] sees itself as „Hüterin der Ordnung" ^[kohaerenz-protokoll-konzept-master-md.md:L55]; [[mnemosyne|Mnemosyne]] is
-„Erinnerungs-Wächter" ^[kohaerenz-protokoll-konzept-master-md.md:L508]; and an open point asks about the „Wächter-Zwiespalt-Soziopolitik" ^[kohaerenz-protokoll-konzept-master-md.md:L1002] between
-[[mnemosyne|Mnemosyne]] and the Erasure-Pol. J20 holds.
+**`Wächter` twice: Mnemosyne's epithet, and an open point about the two Guardians.**
+„**Mnemosyne** — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[kohaerenz-protokoll-konzept-master-md.md:L508]
+„**Wächter-Zwiespalt-Soziopolitik.** Slot 16 Punkt: Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[kohaerenz-protokoll-konzept-master-md.md:L1002]
+AEGIS is the `Hüterin der Ordnung` (L55), not `Wächter`. J20 holds.

@@ -126,7 +126,13 @@ The warmth is the cause; ozone smell and heat shimmer are both its rendering, in
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Der Ozon-Geruch in den ANP-Szenen ist die olfaktorische Signatur der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L161]
+The principle, taken literally: „Das Prinzip ist real (CERN-Experimente 2012, 2018) und gilt im Roman buchstäblich." ^[kohaerenz-protokoll-konzept-master-md.md:L151]
+Its consequences for the world:
 „AEGIS' Erasure-Sweeps erzeugen Wärme. Diese Wärme ist nicht metaphorisch." ^[kohaerenz-protokoll-konzept-master-md.md:L159]
-„Jeder Akt der Erhaltung (Erasure, Suppression, Kontrollprotokoll) erzeugt Landauer-Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
-Vortex Beat 4: „4 Heat-Spike (Landauer→∞)" ^[kohaerenz-protokoll-konzept-master-md.md:L855]. `Landauer-Signatur` does not occur; placed by what it states (J62). C11.
+„Die "Risse" in der Simulation sind thermodynamische Manifestationen der eigenen Löschungsprotokolle." ^[kohaerenz-protokoll-konzept-master-md.md:L160]
+„Der Ozon-Geruch in den ANP-Szenen ist die olfaktorische Signatur der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L161]
+„Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure (Vortex Beat 4: Heat-Spike → ∞)." ^[kohaerenz-protokoll-konzept-master-md.md:L162]
+„Der somatische Filter im Encoding ist verbindlich: keine Gleichungen, sondern Hitze, Ozon, Schweiß, Übelkeit, Migränegefühl." ^[kohaerenz-protokoll-konzept-master-md.md:L166]
+And the prose rule: „**Somatischer Filter:** Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
+
+Here the signature is heat **and** ozone, both from AEGIS' erasure, and no line sets a warm trace against a cold one. Heat is displacement: „Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71] Conflict C11.

@@ -70,5 +70,6 @@ Her label is `Ambivalent`; no voice in the document carries `Flight` (C15).
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Lia (Ambivalent)" ^[kohaerenz-protokoll-konzept-master-md.md:L395]: correlate superposition, arc „Verlassen der Superposition" ^[kohaerenz-protokoll-konzept-master-md.md:L395].
-In the riss typology: „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] — spatial, with [[isabelle|Isabelle]], marked implicit (C15).
+„EP | Lia (Ambivalent) | Superposition | offen | → Verlassen der Superposition" ^[kohaerenz-protokoll-konzept-master-md.md:L395]
+In the riss table Lia shares Flight, marked as inferred: „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] (C15).
+The somatic filter is still open: „**Somatik-Lücken.** Lia, Isabelle, Argus, Silas, Oblivion: somatische Filter noch nicht spezifiziert." ^[kohaerenz-protokoll-konzept-master-md.md:L1006]

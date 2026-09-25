@@ -29,7 +29,7 @@ Found by the sweep (decision 012).
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„K₁ (Kohärenz-Kernel)" ^[kohaerenz-protokoll-konzept-master-md.md:L98] — the page's name with symbol and name the other way round (J89):
-„Reversibilität, Informationserhaltung" ^[kohaerenz-protokoll-konzept-master-md.md:L98]. „K₁ ist nicht identisch mit Ordnung im trivialen Sinn." ^[kohaerenz-protokoll-konzept-master-md.md:L103]
-It is „die atemporale Vereinigung von mutualer Information" ^[kohaerenz-protokoll-konzept-master-md.md:L103]. After the [[truth-rotation|Truth-Rotation]],
-„Kael = die echte K₁-Reorganisation unter K₀-Druck" ^[kohaerenz-protokoll-konzept-master-md.md:L226].
+„| \*\*K₁ (Kohärenz-Kernel)\*\* | Reversibilität, Informationserhaltung | Selbstkorrigierende MI-Schleifen | Bewahrung von Struktur gegen den Zeitpfeil |" ^[kohaerenz-protokoll-konzept-master-md.md:L98]
+„K₁ ist *nicht* identisch mit Ordnung im trivialen Sinn." ^[kohaerenz-protokoll-konzept-master-md.md:L103]
+„K₁ ist die Domäne dessen, was zwischen Bewusstseinen entstehen kann, ohne dass es einen Zeitpunkt seines Entstehens gibt — die atemporale Vereinigung von mutualer Information." ^[kohaerenz-protokoll-konzept-master-md.md:L103]
+Under the [[truth-rotation|Truth-Rotation]], AEGIS only believes itself K₁: „AEGIS = K₁ (Kohärenz)" ^[kohaerenz-protokoll-konzept-master-md.md:L221], in the column of what AEGIS believes.

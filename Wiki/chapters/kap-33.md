@@ -52,10 +52,11 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-Position: „Akt III | 27–34“ ^[kohaerenz-protokoll-konzept-master-md.md:L905] · „KW4 — Möglichkeits-Garten | Akt III (Kap 27–34, Vorbereitung Vortex)“ ^[kohaerenz-protokoll-konzept-master-md.md:L661]
+Position: „| \*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorbereitung Vortex)" ^[kohaerenz-protokoll-konzept-master-md.md:L661]
 
-- Story: „Funktionale Multiplizität wird Kapitel 33 erreicht (Outline-Rev 2026-05-01).“ ^[kohaerenz-protokoll-konzept-master-md.md:L426] · „Kael erreicht Funktionale Multiplizität (Kap 33), nicht Final Fusion.“ ^[kohaerenz-protokoll-konzept-master-md.md:L829]
-- Vortex: „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die Folge der Integration auf das System AEGIS.“ ^[kohaerenz-protokoll-konzept-master-md.md:L426]
+- Kael: „Funktionale Multiplizität wird **Kapitel 33** erreicht (Outline-Rev 2026-05-01)." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
+- Storyform A: „Kael erreicht Funktionale Multiplizität (Kap 33), nicht Final Fusion." ^[kohaerenz-protokoll-konzept-master-md.md:L829]
+- The Vortex after it: „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

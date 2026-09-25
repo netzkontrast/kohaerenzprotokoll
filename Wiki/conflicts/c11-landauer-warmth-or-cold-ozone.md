@@ -188,9 +188,11 @@ in this record, found by a second reading of the Anteile-Profile).
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**Heat and ozone, both, as marks of one displacement.** „Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
+**Heat and ozone together, both from AEGIS' erasure — no warm trace set against a cold one.**
+„Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
+„AEGIS' Erasure-Sweeps erzeugen Wärme. Diese Wärme ist nicht metaphorisch." ^[kohaerenz-protokoll-konzept-master-md.md:L159]
 „Der Ozon-Geruch in den ANP-Szenen ist die olfaktorische Signatur der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L161]
-„Jeder Akt der Erhaltung (Erasure, Suppression, Kontrollprotokoll) erzeugt Landauer-Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
-The prose rule holds both: „Somatischer Filter: Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
-Vortex Beat 4 is the heat spike (L162, L855). Warmth is not given to [[juna|Juna]]; nothing is locked. Three weeks before
-the lock of 2026-05-30.
+„Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure (Vortex Beat 4: Heat-Spike → ∞)." ^[kohaerenz-protokoll-konzept-master-md.md:L162]
+„**Somatischer Filter:** Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
+Akt II's style level: „**Ebene 2 (KW2–KW3):** heiß, fragmentiert, Trigger kollidieren." ^[kohaerenz-protokoll-konzept-master-md.md:L1039]
+Warmth is AEGIS' here, not Juna's: no heat is given to [[juna|Juna]] or [[silas|Silas]], and Kap 6 is not named. Beside the konsolidiertes Konzept's warmth of the same date, it makes ozone and heat one signature — three weeks before the lock of 2026-05-30.

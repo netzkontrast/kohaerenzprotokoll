@@ -226,8 +226,8 @@ The document names its own premise as open and blocking: F1-1, the thread's „o
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Die "Risse" in der Simulation sind thermodynamische Manifestationen der eigenen Löschungsprotokolle." ^[kohaerenz-protokoll-konzept-master-md.md:L160]
-Their source in KW2: „Diese strukturelle Unvorhersagbarkeit ist die Quelle der KW2-Risse (Kap 4 / Kap 13 entsprechend)." ^[kohaerenz-protokoll-konzept-master-md.md:L714]
-„Die fünf Riss-Typen (Fight/Freeze/Flight/Collapse/Sex = kinetisch/temporal/spatial/gravitational/sensorisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L422],
-and the bearers in the last table, among them „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] (C15).
-In the form: „Widersprüchliche Fußnoten als systemische Risse" ^[kohaerenz-protokoll-konzept-master-md.md:L744], and Riss scenes as bridge scenes (L889).
+From AEGIS' own erasure: „Die "Risse" in der Simulation sind thermodynamische Manifestationen der eigenen Löschungsprotokolle." ^[kohaerenz-protokoll-konzept-master-md.md:L160]
+Five types, one per defence: „Die fünf Riss-Typen (Fight/Freeze/Flight/Collapse/Sex = kinetisch/temporal/spatial/gravitational/sensorisch) bleiben als interne Reaktionsmuster aktiv, werden aber zu konstruktiven Werkzeugen statt zu Notfallreaktionen." ^[kohaerenz-protokoll-konzept-master-md.md:L422]
+The riss table: „Fight (Nyx)" ^[kohaerenz-protokoll-konzept-master-md.md:L1047] kinetisch, „Freeze (Kiko)" ^[kohaerenz-protokoll-konzept-master-md.md:L1048] temporal, „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] spatial, „Collapse (Moros)" ^[kohaerenz-protokoll-konzept-master-md.md:L1050] gravitational, „Sex (Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1051] sensorisch (C15).
+Riss scenes are bridge scenes: „Riss-Szenen (ontologische K₀-in-K₁-Einbrüche)." ^[kohaerenz-protokoll-konzept-master-md.md:L889] The reader meets them as footnotes: „Widersprüchliche Fußnoten als systemische Risse" ^[kohaerenz-protokoll-konzept-master-md.md:L744].
+And one of the three protocols answers them: „**Re-Containment-Protokoll** — Reaktion auf Rissen, dynamisches Patching." ^[kohaerenz-protokoll-konzept-master-md.md:L523]

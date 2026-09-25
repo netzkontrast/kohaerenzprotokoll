@@ -48,7 +48,7 @@ Oblivion's DKT correlate: „Erason-Operator." ^[kohaerenz-protokoll-anteile-pro
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Erasonen sind irreversible Löschungsereignisse. Sie erzeugen den Zeitpfeil." ^[kohaerenz-protokoll-konzept-master-md.md:L119] (J24, a plural)
+„**Erasonen** sind irreversible Löschungsereignisse. Sie *erzeugen* den Zeitpfeil." ^[kohaerenz-protokoll-konzept-master-md.md:L119]
 „Jede Erasion ist ein Vorher/Nachher — die Information existierte, dann existiert sie nicht mehr." ^[kohaerenz-protokoll-konzept-master-md.md:L119]
-„Ohne Erasonen gibt es keine Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L107] [[oblivion|Oblivion]] is the „Erason-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L400].
-A final fusion would make heat: „Erason-Hitze erzeugen würde" ^[kohaerenz-protokoll-konzept-master-md.md:L420].
+In the kernel table they are K₀'s operation: „Erasonen (Löschungsereignisse)" ^[kohaerenz-protokoll-konzept-master-md.md:L99].
+AEGIS keeps its coherence only „durch immer mehr Erasonen" ^[kohaerenz-protokoll-konzept-master-md.md:L313]. The Persistenzgleichung carries „δ: lokaler Erason-Druck" ^[kohaerenz-protokoll-konzept-master-md.md:L138]; Juna shows as „Anomale Erason-Bilanz (lokal weniger Löschung als statistisch erwartet)" ^[kohaerenz-protokoll-konzept-master-md.md:L560]; Oblivion is the „Erason-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L400].

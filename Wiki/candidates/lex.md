@@ -81,5 +81,6 @@ Dominant in KW1 with the Host (L213); hypotactic even inside the Wir (L173); in 
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Lex (Rationalist)" ^[kohaerenz-protokoll-konzept-master-md.md:L389]: correlate „Gödel + Halteproblem" ^[kohaerenz-protokoll-konzept-master-md.md:L389], somatics „Hypoventilation, kalt" ^[kohaerenz-protokoll-konzept-master-md.md:L389],
-arc toward intuition. In the matrix, „K₁-Buffer (logisch)" ^[kohaerenz-protokoll-konzept-master-md.md:L953]. An inner advocate of coherence, like every ANP (L274).
+„ANP | Lex (Rationalist) | Gödel + Halteproblem | Hypoventilation, kalt | → Intuition" ^[kohaerenz-protokoll-konzept-master-md.md:L389]
+One of the ANPs, „interne Verfechter der Kohärenztheorie" ^[kohaerenz-protokoll-konzept-master-md.md:L274]. In the consistency matrix: „\*\*Lex\*\* | K₁-Buffer (logisch) | Kohärenz | ANP | A:Sub-MC | P (KW1)" ^[kohaerenz-protokoll-konzept-master-md.md:L953].
+The voice in Akt I: „Lex hypotaktisch, Nyx staccato, Kiko kindlich." ^[kohaerenz-protokoll-konzept-master-md.md:L1032]

@@ -71,5 +71,6 @@ Anchor: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-pr
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Alex (Beschützer)" ^[kohaerenz-protokoll-konzept-master-md.md:L390]: correlate „Asymptotische Freiheit" ^[kohaerenz-protokoll-konzept-master-md.md:L390], somatics „Hypertonus, Bruxismus" ^[kohaerenz-protokoll-konzept-master-md.md:L390],
-arc „Wachstum" ^[kohaerenz-protokoll-konzept-master-md.md:L390]. Nothing on when he arose (C12).
+„ANP | Alex (Beschützer) | Asymptotische Freiheit | Hypertonus, Bruxismus | → Wachstum" ^[kohaerenz-protokoll-konzept-master-md.md:L390]
+One of the ANPs that „kämpfen darum, eine widerspruchsfreie Alltagserzählung aufrechtzuerhalten" ^[kohaerenz-protokoll-konzept-master-md.md:L274]. In the consistency matrix with Rhys and Selene: „K₁-Buffer (somatisch/relational)" ^[kohaerenz-protokoll-konzept-master-md.md:L954], across „KW1–KW2" ^[kohaerenz-protokoll-konzept-master-md.md:L954].
+Nothing here says when or how Alex arises.

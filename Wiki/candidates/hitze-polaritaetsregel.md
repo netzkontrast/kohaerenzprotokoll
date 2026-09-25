@@ -1,10 +1,10 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 8
-readings: 8
+sources: 7
+readings: 7
 conflict: C11
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,10 +74,3 @@ No rule is stated. Warmth stands for [[juna|Juna]] — „plötzliche somatische
 „Vokabular: Riss, Hitze, Ozon, Schweiß, Echo, Verfall, Schatten." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L185] And the collision of Silas and
 Oblivion is felt as either: „spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233] Seventeen days before the
 lock of 2026-05-30; placed here by what it states (J62). C11.
-
-## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
-
-No rule is stated; heat and ozone stand together. „Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
-„Der Ozon-Geruch in den ANP-Szenen ist die olfaktorische Signatur der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L161]
-„Somatischer Filter: Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
-The second style level is „heiß, fragmentiert, Trigger kollidieren" ^[kohaerenz-protokoll-konzept-master-md.md:L1039]. Placed here by what it states (J62). C11.

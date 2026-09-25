@@ -108,5 +108,6 @@ The document names row 1's source as one it consolidates (L13).
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**In the premise, in no chapter.** „Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[kohaerenz-protokoll-konzept-master-md.md:L51]
-The opening image of its premise, like the konsolidiertes Konzept's of the same date; neither Kap 0 nor Kap 1 is named.
+**In the premise, in no chapter.**
+„Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[kohaerenz-protokoll-konzept-master-md.md:L51]
+The only occurrence. It stands with the twenty-one degrees and the ozone, as the novel's opening image, as in the konsolidiertes Konzept of the same date.

@@ -172,6 +172,7 @@ document states no number.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**Thirteen, exactly; four worlds, by act.** „Kaels System (kanonisch — exakt 13 Alters)" ^[kohaerenz-protokoll-konzept-master-md.md:L383].
-„Pro Akt dominiert ein Regime" ^[kohaerenz-protokoll-konzept-master-md.md:L651], and „Wichtig: Die Kernwelten sind Akt-Marker, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
-Its Alter table assigns no world. At the end: „Kael bleibt am Ende dreizehn" ^[kohaerenz-protokoll-konzept-master-md.md:L1074].
+**Exactly thirteen, four act markers — and a matrix that still gives the alters world ranges.**
+„Kaels System (kanonisch — exakt 13 Alters)" ^[kohaerenz-protokoll-konzept-master-md.md:L383]
+„**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
+The consistency matrix gives Lex `P (KW1)`, Alex, Rhys and Selene `KW1–KW2`, the five EPs `Parakonsistent (KW2)`, Silas `KW3–KW4`, Oblivion `KW1–KW3`, Argus `Universal`, and Kael „Spannt KW1→KW4" ^[kohaerenz-protokoll-konzept-master-md.md:L952] (L952–L958). Ranges, not one world per alter; and a world is not a Guardian's.

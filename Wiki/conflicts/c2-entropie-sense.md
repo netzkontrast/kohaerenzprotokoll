@@ -107,9 +107,8 @@ open.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**Two senses in one document, and the table the character bible also has.**
-„AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[kohaerenz-protokoll-konzept-master-md.md:L63] Its table of what AEGIS
-believes against what holds (L220–L226) has „AEGIS = K₀ (Entropie-Architektur)" ^[kohaerenz-protokoll-konzept-master-md.md:L221] and
-„Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223]; the section names it the
-[[truth-rotation|Truth-Rotation]] (L212). Beside it, the kernel's own sense: „K₀ ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107]
-The same date as the character bible and the konsolidiertes Konzept, whose entries above hold the same table.
+**AEGIS is the entropy, and K₀ is what makes a universe habitable — two senses, related by the inversion.**
+„**AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie.**" ^[kohaerenz-protokoll-konzept-master-md.md:L63]
+In the kernel table Entropie is K₀'s principle: „| \*\*K₀ (Kollaps-Kernel)\*\* | Irreversibilität, Entropie |" ^[kohaerenz-protokoll-konzept-master-md.md:L99]; and „K₀ ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107] „K₀ ist das, was ein Universum bewohnbar macht." ^[kohaerenz-protokoll-konzept-master-md.md:L107]
+And what AEGIS produces by fighting it: „Das System produziert die Entropie, die zu bekämpfen es behauptet." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
+The same side as the konsolidiertes Konzept (AEGIS *is* the entropy it fights), with the glossary's fourth sense (the condition of events) beside it, and the document relates the two as the [[truth-rotation|Truth-Rotation]] (L212–L226).

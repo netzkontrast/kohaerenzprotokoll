@@ -96,7 +96,7 @@ The model is „TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-Its frame is TSDP: „Die Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP, van der Hart, Nijenhuis, Steele 2006)" ^[kohaerenz-protokoll-konzept-master-md.md:L365].
-„Tertiäre Strukturelle Dissoziation: Mehrere ANPs und mehrere EPs. Typisch für DIS / komplexes Trauma." ^[kohaerenz-protokoll-konzept-master-md.md:L381]
-„Die ältere DIS-Therapie-Tradition (Putnam u. a.) zielte auf Final Fusion" ^[kohaerenz-protokoll-konzept-master-md.md:L412] — refused (L416).
-„Keine DID-Allegorie." ^[kohaerenz-protokoll-konzept-master-md.md:L1071] „sie sind diagnostisch konkret und phänomenologisch genau" ^[kohaerenz-protokoll-konzept-master-md.md:L1071]. Placed by what it states (J62).
+The clinical model is TSDP: „Die Theorie der Strukturellen Dissoziation der Persönlichkeit (TSDP, van der Hart, Nijenhuis, Steele 2006) postuliert, dass Trauma die Persönlichkeit in Subsysteme spaltet" ^[kohaerenz-protokoll-konzept-master-md.md:L365].
+„**Tertiäre Strukturelle Dissoziation:** Mehrere ANPs *und* mehrere EPs. Typisch für DIS / komplexes Trauma." ^[kohaerenz-protokoll-konzept-master-md.md:L381]
+It is meant clinically, not as an allegory: „**Keine DID-Allegorie.** Kaels Alters sind nicht Symbole für "Persönlichkeitsanteile, die wir alle haben" — sie sind diagnostisch konkret und phänomenologisch genau." ^[kohaerenz-protokoll-konzept-master-md.md:L1071]
+And its aim is not fusion: „**Im Roman: zwingend Funktionale Multiplizität, niemals Final Fusion.**" ^[kohaerenz-protokoll-konzept-master-md.md:L416]

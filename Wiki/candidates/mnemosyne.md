@@ -187,6 +187,8 @@ Her counter-pole is the Erasure-Pol, „Kalter Gegen-Pol zu Mnemosyne." ^[kohare
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Mnemosyne — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[kohaerenz-protokoll-konzept-master-md.md:L508] (Q4)
-The Vortex opens there: Beat 1, Convergence, in the Mnemosyne-Archipel (L852).
-In the matrix, „K₀-Sub-Operator" ^[kohaerenz-protokoll-konzept-master-md.md:L961] and „Kohärenz-Exekutiv" ^[kohaerenz-protokoll-konzept-master-md.md:L961] (Q1). Open: „Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[kohaerenz-protokoll-konzept-master-md.md:L1002]
+„**Mnemosyne** — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[kohaerenz-protokoll-konzept-master-md.md:L508]
+With the Erasure-Pol, Mnemosyne absorbs the others: „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+In the consistency matrix: „\*\*Mnemosyne\*\* | K₀-Sub-Operator | Kohärenz-Exekutiv | — | B:OS | Klassisch | Physics/Erinnerung" ^[kohaerenz-protokoll-konzept-master-md.md:L961].
+The Vortex's first beat is set there: „| \*\*1 Convergence\*\* (Mnemosyne-Archipel) |" ^[kohaerenz-protokoll-konzept-master-md.md:L852].
+And an open point: „Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[kohaerenz-protokoll-konzept-master-md.md:L1002]

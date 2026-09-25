@@ -198,8 +198,8 @@ SPEC.md               # Phase 0
 > |---|---|---|
 > | `kg/sources/manifest.jsonl`, `kg/raw/` | `Sources/manifest.jsonl`, `Sources/drive/*.md`, `Sources/duplicates.jsonl` | Katalog, Checksummen, Dedupe. Legacy-Kanon und Manuskript fehlen. |
 > | `claims.jsonl` | `Sources/terms/*.md` (Census), `Sources/notes/*.md` (Notes mit `^[Lnn]`-Zitaten) für 20 <!--state:documents.with_census--> Dokumente | Aussagen mit Zitat und Zeile. Noch ohne Prädikat-Vokabular. |
-> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 134 <!--state:graph.nodes--> Knoten, 1829 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
-> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 300 <!--state:proposals.entities--> Entitäten aus Leselisten; 91 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
+> | `entities.jsonl`, `edges.jsonl` | abgeleitet von `scripts/graph.py`: 134 <!--state:graph.nodes--> Knoten, 1814 <!--state:graph.edges--> Kanten, jede mit Datei:Zeile | Begriffe, Dokumente, Konflikte, Fragen. Noch ohne Kapitel, Locks, Figuren-Typen. |
+> | Entitäts-Kandidaten, `aliases.yaml` | `Plan/entities/` (Modell nennt, Code platziert), `Plan/runs/bilingual/stated.jsonl`, `Plan/runs/judgements.jsonl` | 300 <!--state:proposals.entities--> Entitäten aus Leselisten; 93 <!--state:judgements.total--> Entscheidungen „ein Begriff oder zwei“, jede mit Regel in Worten. |
 > | `conflicts.jsonl` | `Wiki/conflicts/c1…c5` (Entscheidung 003: ein Record pro Streitfall, append-only) | 15 <!--state:wiki.conflicts--> Records. Kein Detektor, bisher jeder von einer Person gelesen. |
 > | `questions.jsonl` | `Wiki/questions/q1…q4`, dazu jede `## Open`-Sektion einer Seite | 5 <!--state:wiki.questions--> Fragen-Seiten und die offenen Aussagen, die `relations.py --open` erntet. |
 > | `wiki/konzepte/` | `Wiki/candidates/*.md` | 94 <!--state:wiki.pages--> Seiten, noch keine promoviert (`Wiki/terms/` existiert nicht). |
@@ -575,7 +575,7 @@ Nach jeder Phase: Commit, kurzer Statusbericht an den Autor, ein Eintrag in `lea
 > | 4 · Plot-Modell | Nicht begonnen. Die Kapitel-Köpfe im Manuskript (`Outline`, `Beats`, `Locks`) sind der naheliegende erste Datensatz. |
 > | 5 · Selbstfragen | Fragen-Seiten und `## Open`-Sektionen existieren, kein Loop. |
 > | 6 · Wiki und CLI | Begriffs-Wiki existiert. Kapitel-Dossiers und `kp` existieren nicht, `graphrag.py ask` deckt einen Teil von `kp ask` ab. |
-> | 7 · Evaluation | `graphrag.py bench`: 20 <!--state:graphrag.cases--> Fälle, Recall@8 67 <!--state:graphrag.recall_ppr-->%. Keine Gold-Q&A. |
+> | 7 · Evaluation | `graphrag.py bench`: 20 <!--state:graphrag.cases--> Fälle, Recall@8 66 <!--state:graphrag.recall_ppr-->%. Keine Gold-Q&A. |
 >
 > Die „learnings.md“ aus §6 gibt es als `Plan/learnings/`, eine Datei pro Schritt. `NOW.md` ist die Übergabe zwischen Sitzungen.
 
@@ -774,7 +774,7 @@ python3 scripts/pairs.py score                    # „ein Begriff oder zwei“ 
 - Kontext-Builder mit Token-Budget ↔ `kp context <kap> --budget`
 - Dramatica-Anbindung (Spec §8.5) ↔ §5.2
 
-Ihr Hinweis zur deutschen Flexion beim Alias-Matching trifft genau die Lücke, die hier `fold()` und `pairs.py` messen: 43 <!--state:pairs.fold_correct--> von 77 <!--state:pairs.labelled--> Paaren.
+Ihr Hinweis zur deutschen Flexion beim Alias-Matching trifft genau die Lücke, die hier `fold()` und `pairs.py` messen: 46 <!--state:pairs.fold_correct--> von 79 <!--state:pairs.labelled--> Paaren.
 
 `CLAUDE.md` beschreibt jedes Werkzeug. Den Katalog der guten, noch nicht gebauten Ideen führt `PRINCIPLES.md`. Die neun DSPy-Repositories, aus denen die Werkzeugkette portiert ist, sind in `Plan/concept/dspy-toolchain_2026-09-23.md` ausgewertet.
 

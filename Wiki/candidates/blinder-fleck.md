@@ -76,7 +76,8 @@ nothing.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Ontologische Blindheit: AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
+AEGIS' blindness is ontological and total: „**Ontologische Blindheit:** AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
 „Es kann Qualia, Emotion, Resonanz nicht wahrnehmen, weil es keinen Begriff dafür hat." ^[kohaerenz-protokoll-konzept-master-md.md:L477]
-In time: „AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[kohaerenz-protokoll-konzept-master-md.md:L206] „Wäre AEGIS in der Lage, atemporale Phänomene zu sehen, wäre Juna detektierbar" ^[kohaerenz-protokoll-konzept-master-md.md:L210].
-No blind spot is named for a Guardian. Placed here by what it states (J62). C4.
+Its cause is temporal: „AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
+„AEGIS' Versagen ist nicht moralisch, sondern ontologisch: es kann nicht einsehen, was es ist, weil seine Selbstbeobachtungsfunktion auf demselben falschen Modell basiert wie seine Außenbeobachtungsfunktion." ^[kohaerenz-protokoll-konzept-master-md.md:L482]
+It is AEGIS' alone; the two [[guardians|Guardians]] are given no blind spot (C4).

@@ -180,5 +180,7 @@ Akt III, is „Kernwelt 4 + Juna" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„KW4 — Möglichkeits-Garten" ^[kohaerenz-protokoll-konzept-master-md.md:L661]: Akt III, Kap 27–34, the preparation of the Vortex, generative (L661) — the
-whole Kern-Welt, no place inside it (C5). „KW4 (Möglichkeits-Garten) und der Vortex selbst operieren auf aletheia-Ebene." ^[kohaerenz-protokoll-konzept-master-md.md:L722]
+The whole fourth world: „\*\*KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorbereitung Vortex)" ^[kohaerenz-protokoll-konzept-master-md.md:L661], „Generativ | Hegel-inspiriert, synthetisch | Hände | Dynamisch, explorativ, kreativ; experimentelle Regeln" ^[kohaerenz-protokoll-konzept-master-md.md:L661].
+„Im Roman: KW4 (Möglichkeits-Garten) und der Vortex selbst operieren auf aletheia-Ebene." ^[kohaerenz-protokoll-konzept-master-md.md:L722]
+„KW4: der Leser muss generativ mitarbeiten — Bedeutung wird nicht gefunden, sondern erzeugt." ^[kohaerenz-protokoll-konzept-master-md.md:L672]
+No place inside it is named (C5).

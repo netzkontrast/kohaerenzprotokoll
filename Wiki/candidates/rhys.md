@@ -56,5 +56,5 @@ Selene: „Zentraler ANP-ANP-Konflikt des Buchs." ^[kohaerenz-protokoll-anteile-
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Rhys (Caregiver)" ^[kohaerenz-protokoll-konzept-master-md.md:L391]: correlate „Maxwells Dämon" ^[kohaerenz-protokoll-konzept-master-md.md:L391], somatics „Schweiß, fiebrige Hände" ^[kohaerenz-protokoll-konzept-master-md.md:L391],
-arc „Akzeptanz (Akt-II-Anker → Kudzu)" ^[kohaerenz-protokoll-konzept-master-md.md:L391].
+„ANP | Rhys (Caregiver) | Maxwells Dämon | Schweiß, fiebrige Hände | → Akzeptanz (Akt-II-Anker → Kudzu)" ^[kohaerenz-protokoll-konzept-master-md.md:L391]
+One of the ANPs, the „interne Verfechter der Kohärenztheorie" ^[kohaerenz-protokoll-konzept-master-md.md:L274]. In the consistency matrix, with Alex and Selene: „K₁-Buffer (somatisch/relational)" ^[kohaerenz-protokoll-konzept-master-md.md:L954]. `Kudzu` is named and not explained.

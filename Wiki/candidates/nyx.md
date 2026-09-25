@@ -83,6 +83,7 @@ them on [[kael|Kael]] in Kap 1 or Kap 0.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Nyx (Fight)" ^[kohaerenz-protokoll-konzept-master-md.md:L393]: correlate „CPT-Verletzung" ^[kohaerenz-protokoll-konzept-master-md.md:L393], somatics „Adrenalin, Tunnelblick" ^[kohaerenz-protokoll-konzept-master-md.md:L393], arc
-„konstruktive Schutzhaltung" ^[kohaerenz-protokoll-konzept-master-md.md:L393]. Riss type „Fight (Nyx)" ^[kohaerenz-protokoll-konzept-master-md.md:L1047], kinetic. One of the EPs who carry
-the truth of correspondence (L254).
+„EP | Nyx (Fight) | CPT-Verletzung | Adrenalin, Tunnelblick | → konstruktive Schutzhaltung" ^[kohaerenz-protokoll-konzept-master-md.md:L393]
+The riss: „Fight (Nyx) | kinetisch" ^[kohaerenz-protokoll-konzept-master-md.md:L1047]. The voice in Akt I is staccato (L1032).
+With the other EPs, Nyx holds the facts: „Die EPs (Nyx, Kiko, Lia, Isabelle, Moros) sind Träger dieser Korrespondenz-Wahrheit." ^[kohaerenz-protokoll-konzept-master-md.md:L254]
+The knuckles in this document are [[kael|Kael]]'s, in the premise (L51), not Nyx's.

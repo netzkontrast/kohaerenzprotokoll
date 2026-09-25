@@ -104,6 +104,9 @@ Warmth and ozone, both, as one conflict's mark — C11.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-On the atemporal side: „Juna ◄──Moonshine-Link──► Silas" ^[kohaerenz-protokoll-konzept-master-md.md:L182]. The „Coheron-Echo" ^[kohaerenz-protokoll-konzept-master-md.md:L307], the
-„Resonanzkörper der Korrespondenz-Wahrheit" ^[kohaerenz-protokoll-konzept-master-md.md:L307]. „Silas (Juna-Echo)" ^[kohaerenz-protokoll-konzept-master-md.md:L399], with an arc
-„bewusste Resonanz (I unbewusst → II wachsend → III offen)" ^[kohaerenz-protokoll-konzept-master-md.md:L399]. „Silas spürt es; AEGIS sieht es nicht." ^[kohaerenz-protokoll-konzept-master-md.md:L599]
+„Spiegel | Silas (Juna-Echo) | Coheron-Echo" ^[kohaerenz-protokoll-konzept-master-md.md:L399], arc „→ bewusste Resonanz (I unbewusst → II wachsend → III offen)" ^[kohaerenz-protokoll-konzept-master-md.md:L399].
+„\*\*Silas\*\* | Coheron-Echo | Resonanzkörper der Korrespondenz-Wahrheit \*innerhalb\* des Systems" ^[kohaerenz-protokoll-konzept-master-md.md:L307].
+„Spiegel-Alter Silas | Resonanzkörper für externes Coheron | K₁-Echo der Juna-Verbindung" ^[kohaerenz-protokoll-konzept-master-md.md:L435].
+Silas senses what AEGIS cannot: „Beobachtbar nur durch K₀-blinde Seiten: Silas spürt es; AEGIS sieht es nicht." ^[kohaerenz-protokoll-konzept-master-md.md:L599]
+In the consistency matrix Silas spans „KW3–KW4" ^[kohaerenz-protokoll-konzept-master-md.md:L957]. The somatic filter is not yet written: „**Somatik-Lücken.** Lia, Isabelle, Argus, Silas, Oblivion: somatische Filter noch nicht spezifiziert." ^[kohaerenz-protokoll-konzept-master-md.md:L1006]
+No warmth is given to Silas in this document (C11).

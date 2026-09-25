@@ -47,10 +47,8 @@ The theory itself is not spelled out; `DKT` stands only in compounds.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Die Dual-Kernel-Theorie (DKT) als literales Naturgesetz der Romanwelt — keine Metapher." ^[kohaerenz-protokoll-konzept-master-md.md:L37]
-„Die DKT ist im Roman keine Theorie über die Welt, sondern das, was die Welt ist." ^[kohaerenz-protokoll-konzept-master-md.md:L87]
-„Jedes narrative Ereignis muss mit ihr konsistent sein." ^[kohaerenz-protokoll-konzept-master-md.md:L87] Its section defines the two kernels,
-[[coheron|Coheronen]] and [[erason|Erasonen]], the [[persistenzgleichung|Persistenzgleichung]], Landauer as a
-law of the narration, the atemporal axis and the [[truth-rotation|Truth-Rotation]] (§II). Every Alter has a
-DKT correlate (L387–L400), and „Eine Szene encoded gleichzeitig die TSDP-Funktion und das DKT-Korrelat" ^[kohaerenz-protokoll-konzept-master-md.md:L441].
-For the prose: „Erste 50 Seiten: Null DKT-Terminologie." ^[kohaerenz-protokoll-konzept-master-md.md:L1025]
+The first of the report's three axes: „**Die Dual-Kernel-Theorie (DKT)** als literales Naturgesetz der Romanwelt — keine Metapher." ^[kohaerenz-protokoll-konzept-master-md.md:L37]
+„Die DKT ist im Roman keine Theorie *über* die Welt, sondern das, *was die Welt ist*." ^[kohaerenz-protokoll-konzept-master-md.md:L87] „Sie ist literales Naturgesetz, keine Metapher und kein Thema." ^[kohaerenz-protokoll-konzept-master-md.md:L87]
+„Die Realität entsteht aus der Spannung zweier rechnerischer Kernels:" ^[kohaerenz-protokoll-konzept-master-md.md:L91] — [[kohaerenz-kernel|K₁]] and [[kollaps-kernel|K₀]] (L95–L99).
+It is shown, never named, early on: „**Erste 50 Seiten: Null DKT-Terminologie.**" ^[kohaerenz-protokoll-konzept-master-md.md:L1025]
+Every scene carries it as its fourth level: „**DKT-Ebene** — der Coheron/Erason-Status, die η-Bewegung, die Hitze-Bilanz." ^[kohaerenz-protokoll-konzept-master-md.md:L974]

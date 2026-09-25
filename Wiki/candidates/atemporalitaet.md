@@ -30,6 +30,8 @@ As the adjective (J85): „Atemporal/Coheron (Silas ↔ Juna)" ^[kohaerenz-proto
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Liebe ist Coheron. Coheron ist atemporal. Zerstörung braucht Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L71] (J85)
-The axis: „ATEMPORAL (Coheron-Domäne)" ^[kohaerenz-protokoll-konzept-master-md.md:L174] against the temporal domain of erasons. „AEGIS' gesamte Sensorik ist temporal" ^[kohaerenz-protokoll-konzept-master-md.md:L206],
-so „AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[kohaerenz-protokoll-konzept-master-md.md:L206] The telephone call: „Es ist atemporal — der Moment ist in allen Zeitpunkten gleichzeitig." ^[kohaerenz-protokoll-konzept-master-md.md:L618]
+„Die DKT-Architektur spiegelt sich in den Figuren als Achse, nicht als Lager:" ^[kohaerenz-protokoll-konzept-master-md.md:L170] — `ATEMPORAL (Coheron-Domäne)` against `TEMPORAL (Erason-Domäne)`, Juna and Silas on one side, Oblivion and AEGIS on the other (L174–L202).
+„**Warum AEGIS Juna/Silas nicht sehen kann:** AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
+„Coheronen existieren außerhalb der Zeit. Sie fallen durch AEGIS' Raster wie Neutrinos durch Materie." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
+„Das ist die ontologische Asymmetrie, die den Plot überhaupt ermöglicht." ^[kohaerenz-protokoll-konzept-master-md.md:L210]
+„Wäre AEGIS in der Lage, atemporale Phänomene zu sehen, wäre Juna detektierbar und der Roman wäre eine Polizeijagd, kein Trauma-Drama." ^[kohaerenz-protokoll-konzept-master-md.md:L210]

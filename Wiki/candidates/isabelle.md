@@ -72,5 +72,6 @@ Her label is `Fight-via-Control`; no voice in the document carries `Flight` (C15
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Isabelle (Sexualisiert)" ^[kohaerenz-protokoll-konzept-master-md.md:L396]: correlate „Pauli-Ausschluss" ^[kohaerenz-protokoll-konzept-master-md.md:L396], arc „Verletzlichkeit" ^[kohaerenz-protokoll-konzept-master-md.md:L396].
-Riss types: „Sex (Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1051], sensory, and „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] with [[lia|Lia]] (C15).
+„EP | Isabelle (Sexualisiert) | Pauli-Ausschluss | offen | → Verletzlichkeit" ^[kohaerenz-protokoll-konzept-master-md.md:L396]
+In the riss table Isabelle stands twice: „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] and „Sex (Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1051] (C15).
+The somatic filter is open (L1006).

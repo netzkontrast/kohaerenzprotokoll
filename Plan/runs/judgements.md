@@ -1236,44 +1236,72 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 
 **Result.** judgement — here `Anteil` names the system's parts, the referent of the alters page, and `Alter` is only mentioned as a word; a reading on alters. But `Anteil` is also an ordinary German noun, a share, and as a surface it would claim every share in the corpus
 
-## J89 — K₁ (Kohärenz-Kernel) / Kohärenz-Kernel (K₁)
+## J89 — Flight (implizit Lia/Isabelle) / Isabelle
 
-**one-term** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+**two-terms** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
 
-- **rule:** a symbol and the name a parenthesis gives it are one term in either order (J60 for an acronym and its expansion)
+- **rule:** a type with its bearers in a parenthesis is the type; the bearers are a claim about it, and an inferred one says so (J70 is the reverse shape: a name with its role)
 - **mechanised by:** `nothing`
-- **features:** symbol-and-name, parenthesis-order, near-match:intra-list
+- **features:** joined-form, parenthetical-bearers, inferred
 
 **Question.** one term or two?
 
-**What was done.** L98 and L99 head the kernel table's rows „K₁ (Kohärenz-Kernel)" and „K₀ (Kollaps-Kernel)", symbol first; the pages are titled with the name first, `Kohärenz-Kernel (K₁)` and `Kollaps-Kernel (K₀)`; each row states the page's content — reversibility and information preservation, irreversibility and entropy
+**What was done.** L1049, in the riss table: „Flight (implizit Lia/Isabelle)“ — a riss type with the bearers it is assigned to in a parenthesis, marked as inferred; the roster L393–L397 gives no alter Flight, and Isabelle also stands under `Sex (Isabelle)` at L1051. The lookup offered the isabelle page
 
-**Result.** one term each — a reading on kohaerenz-kernel and on kollaps-kernel; no new surface
+**Result.** two terms — the joined form is the riss type Flight; its parenthesis is a claim about who carries it, a reading on risse and on each bearer's page, never an alias of either bearer
 
-## J90 — Komp 734 / Komponente 734
+## J90 — Rotation / Truth-Rotation
+
+**two-terms** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a beat named for what happens in it is the beat, not the thing; the content is a reading on the thing's page (J76 for a device)
+- **mechanised by:** `nothing`
+- **features:** shared-head, vortex-beat
+
+**Question.** one term or two?
+
+**What was done.** L856 names the Vortex's fifth beat „5 Rotation (Algorithmische Melancholie)“; L845 makes the Klein-c-Symmetrie „die formale Basis der Truth-Rotation auf Plot-Ebene“. Other read sources write „Truth-Rotation komplett“ into Beat 5
+
+**Result.** two terms — `Rotation` is the beat, named for what completes in it; what the beat carries is a reading on the Truth-Rotation's page, the beat itself belongs to the chapter and plot pages
+
+## J91 — Große Inversion / Truth-Rotation
+
+**two-terms** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a name a source calls the source of another is not that other's alias, even where a second source uses one name for both
+- **mechanised by:** `nothing`
+- **features:** gathered-page, source-of-relation
+
+**Question.** when the truth-rotation page gathered earlier readings: is `Große Inversion` another name for it?
+
+**What was done.** The glossary gives the two separate entries (kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md L82, L85); it, the konsolidiertes Konzept (L138), the Kapitel-Kompendium (L25) and the storyform outline (L25) call the inversion „die mechanische Quelle der Truth-Rotation“, which is the moment the reading turns. The master report heads the inversion itself with `Truth-Rotation` (L212–L226)
+
+**Result.** two terms in the four sources that use both — one names the source of the other. No alias; the page records that the master report uses the one name for both
+
+## J92 — Komp 734 / Komponente 734
 
 **one-term** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
 
 - **rule:** a clipped word (Komp for Komponente, Op for Operator) that names what the full form names in the same document is one term with it; the referent decides, not the letters (J83 for a compound's head used alone)
 - **mechanised by:** `nothing`
-- **features:** clipped-word, near-match:intra-list
+- **features:** clipped-word, second-reading
 
 **Question.** one term or two?
 
-**What was done.** L465 names Kael „Komponente 734" as the Genesis' third beat; L998 restates the same three beats as „Einheit → Trennungsprotokoll → Kael=Komp 734"
+**What was done.** L465 names Kael „Komponente 734“ as the Genesis' third beat; L998 restates the same three beats as „Einheit → Trennungsprotokoll → Kael=Komp 734“. Recorded by a second, independent reading of the document (pull request #94); the wiki's reading lists both surfaces and made no judgement on the pair
 
-**Result.** one term — the clipped word names the same designation in a restatement of the same sequence; both are Kael's, placed on kael and genesis
+**Result.** one term — the clipped word names the same designation in a restatement of the same sequence
 
-## J91 — Erason-Op / Erason-Operator
+## J93 — Erason-Op / Erason-Operator
 
 **one-term** · kohaerenz-protokoll-konzept-master-md · 2026-09-25 · replay: `judgement`
 
-- **rule:** the rule of J90: a clipped word naming what the full form names in the same document is one term with it
+- **rule:** the rule of J92: a clipped word naming what the full form names in the same document is one term with it
 - **mechanised by:** `nothing`
-- **features:** clipped-word, diagram-label, near-match:intra-list
+- **features:** clipped-word, diagram-label, second-reading
 
 **Question.** one term or two?
 
-**What was done.** the diagram at L182–L186 labels Oblivion „(Erason-Op/Spiegel)" under its name, and the Alter table (L400) and the consistency matrix (L958) give Oblivion the function `Erason-Operator`
+**What was done.** the diagram at L182–L186 labels Oblivion „(Erason-Op/Spiegel)“ under its name; the Alter table (L400) and the consistency matrix (L958) give Oblivion the function `Erason-Operator`. Recorded by a second, independent reading (pull request #94)
 
-**Result.** one term — Oblivion's role, clipped in a diagram label; a reading on oblivion, not on erason (J32: a compound is placed by what it names)
+**Result.** one term — Oblivion's role, clipped in a diagram label; a reading on oblivion, not on erason (J32)

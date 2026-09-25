@@ -127,5 +127,6 @@ Only in KW3's name, „KW3 — Cerberus-Labyrinth. NP-Hard." ^[koharenz-protokol
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia)." ^[kohaerenz-protokoll-konzept-master-md.md:L504] Absorbed (L513).
-KW3 keeps the name: „KW3 — Cerberus-Labyrinth" ^[kohaerenz-protokoll-konzept-master-md.md:L660] (J49); no Cerberus as a figure (Q5).
+Named among the five of earlier drafts: „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
+„Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+The name stays on the third world: „\*\*KW3 — Cerberus-Labyrinth\*\* | Akt II (Kap" ^[kohaerenz-protokoll-konzept-master-md.md:L660] — „Bedrohungs-fokussiert, heuristisch" ^[kohaerenz-protokoll-konzept-master-md.md:L660] (J49).

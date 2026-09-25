@@ -102,6 +102,4 @@ decision; nothing to change.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**KW1, as decided.** „KW1 — Konstrukt-Stadt" ^[kohaerenz-protokoll-konzept-master-md.md:L658], Akt I, Kap 1–13. Agrees with the author's decision; nothing
-to change. Its premise calls the city a simulation — „Die Stadt ist eine Simulation, gesteuert von AEGIS" ^[kohaerenz-protokoll-konzept-master-md.md:L55] —
-and does not say whether that is the [[konstrukt-stadt|Konstrukt-Stadt]] or the whole.
+**KW1, as decided.** „\*\*KW1 — Konstrukt-Stadt\*\* | Akt I (Kap 1–13) | P (Polynomialzeit)" ^[kohaerenz-protokoll-konzept-master-md.md:L658]. The premise's city is the same: „Ein Mann erwacht in einer sterilen Stadt und kann sich an nichts erinnern." ^[kohaerenz-protokoll-konzept-master-md.md:L51]

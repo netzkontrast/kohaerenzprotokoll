@@ -141,5 +141,9 @@ The Konstrukt-Stadt *is* KW1 here, as the author decided for C9.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**KW1** — „KW1 — Konstrukt-Stadt" ^[kohaerenz-protokoll-konzept-master-md.md:L658]: Akt I, Kap 1–13, „Steril, geometrisch, kalt; Kantsche Phänomena; Metaphernverbot, assertorische Sätze" ^[kohaerenz-protokoll-konzept-master-md.md:L658].
-Consistent with the author's decision on C9. The premise's city: „Ein Mann erwacht in einer sterilen Stadt und kann sich an nichts erinnern." ^[kohaerenz-protokoll-konzept-master-md.md:L51]
+„\*\*KW1 — Konstrukt-Stadt\*\* | Akt I (Kap 1–13) | P (Polynomialzeit)" ^[kohaerenz-protokoll-konzept-master-md.md:L658], „Klassisch (LEM, ECQ)" ^[kohaerenz-protokoll-konzept-master-md.md:L658], somatics `Atem`, atmosphere „Steril, geometrisch, kalt; Kantsche Phänomena; Metaphernverbot, assertorische Sätze" ^[kohaerenz-protokoll-konzept-master-md.md:L658].
+The premise's city: „Ein Mann erwacht in einer sterilen Stadt und kann sich an nichts erinnern. Die Stadt ist perfekt. Die Temperatur beträgt immer einundzwanzig Grad." ^[kohaerenz-protokoll-konzept-master-md.md:L51]
+Its language: „prägt den Stil von KW1 (Konstatierungs-Sprache: kurze, atomare, assertorische Sätze)." ^[kohaerenz-protokoll-konzept-master-md.md:L295]
+„KW1 ist die Domäne der Phänomena: das, was AEGIS' "kognitiver Apparat" durchlässt." ^[kohaerenz-protokoll-konzept-master-md.md:L690]
+„**Ebene 1 (KW1):** kalt, steril, assertorisch, Metaphernverbot." ^[kohaerenz-protokoll-konzept-master-md.md:L1038]
+KW1 is the whole Akt I here (C9).

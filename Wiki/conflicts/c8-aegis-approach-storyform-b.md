@@ -96,6 +96,7 @@ remains part of the record.
 
 ## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-**Do-er, and the correction named.** „MC Approach | Be-er | Do-er" ^[kohaerenz-protokoll-konzept-master-md.md:L809] — storyform A's Kael a Be-er, B's AEGIS a Do-er;
-„Do-er-Modus: AEGIS' Antworten sind Aktionen" ^[kohaerenz-protokoll-konzept-master-md.md:L841]. Its status line dates it to a canon sync of 2026-05-07
-that includes an `Approach-Korrektur` (L21). The same date as the character bible, which gives Be-er.
+**Do-er in B, Be-er in A, under the lock-in of 2026-05-07 — which its status line calls an Approach correction.**
+„| MC Approach | \*\*Be-er\*\* | \*\*Do-er\*\* |" ^[kohaerenz-protokoll-konzept-master-md.md:L809], MC of B being AEGIS (L820).
+„Do-er-Modus: AEGIS' Antworten sind Aktionen — Erasure-Sweeps, Protokoll-Deployments, Guardian-Aktivierungen." ^[kohaerenz-protokoll-konzept-master-md.md:L841]
+Its status: `Canon-Sync 2026-05-07`, listing „Storyform Lock-In, Approach-Korrektur" ^[kohaerenz-protokoll-konzept-master-md.md:L21]. The same value and the same date as the Dramatica lock-in's mirrored Approach; one more source of 2026-05-08 carrying the new value where the character bible of that day carries the old.

@@ -79,7 +79,6 @@ Kap 33, at the core, the first assignment of the universe: „Berührung der K�
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-The chaos AEGIS protects the system from, „die formlose Leere — ist in Wahrheit die Vereinigung aller mutualen Information" ^[kohaerenz-protokoll-konzept-master-md.md:L63].
-„Es ist Liebe als Naturgesetz." ^[kohaerenz-protokoll-konzept-master-md.md:L63] In the rotation's table, what AEGIS believes against what holds:
-„Nichts-Rauschen = feindliches Chaos" ^[kohaerenz-protokoll-konzept-master-md.md:L222] and „Nichts-Rauschen = atemporale MI-Vereinigung" ^[kohaerenz-protokoll-konzept-master-md.md:L222].
-For the reader: „Erleben der Desorientierung und des Nichts-Rauschens" ^[kohaerenz-protokoll-konzept-master-md.md:L924].
+„Und das Chaos, vor dem AEGIS das System zu schützen versucht — das „Nichts-Rauschen", die formlose Leere — ist in Wahrheit die Vereinigung aller mutualen Information." ^[kohaerenz-protokoll-konzept-master-md.md:L63] „Es ist Liebe als Naturgesetz." ^[kohaerenz-protokoll-konzept-master-md.md:L63]
+In the [[truth-rotation|Truth-Rotation]] table: „| Nichts-Rauschen = feindliches Chaos | Nichts-Rauschen = atemporale MI-Vereinigung |" ^[kohaerenz-protokoll-konzept-master-md.md:L222].
+The reader lives it: „**Phänomenologisch:** Desorientierung, Nichts-Rauschen, K₀-Trauma als Leseerfahrung erleben." ^[kohaerenz-protokoll-konzept-master-md.md:L759]

@@ -133,7 +133,9 @@ The counter-register is „schleier-konform (ein Register gegen sich selbst spri
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Im Roman: zwingend Funktionale Multiplizität, niemals Final Fusion." ^[kohaerenz-protokoll-konzept-master-md.md:L416]
-„Funktionale Multiplizität erhält die mutuale Information zwischen den Alters und ist der echte K₁-Zustand." ^[kohaerenz-protokoll-konzept-master-md.md:L421]
-„Funktionale Multiplizität wird Kapitel 33 erreicht (Outline-Rev 2026-05-01)." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
-The veil, in the act table: „Multiplizitäts-Schleier hält bis Kap 13" ^[kohaerenz-protokoll-konzept-master-md.md:L903] (J28).
+„**Im Roman: zwingend Funktionale Multiplizität, niemals Final Fusion.**" ^[kohaerenz-protokoll-konzept-master-md.md:L416]
+The clinical frame: „Neuere, patientenzentrierte Ansätze (Plural-Bewegung) favorisieren Funktionale Multiplizität: kooperative Koexistenz ohne Verschmelzung." ^[kohaerenz-protokoll-konzept-master-md.md:L412]
+In the physics: „Funktionale Multiplizität erhält die mutuale Information *zwischen* den Alters und ist der echte K₁-Zustand." ^[kohaerenz-protokoll-konzept-master-md.md:L421]
+Its chapter: „Funktionale Multiplizität wird **Kapitel 33** erreicht (Outline-Rev 2026-05-01)." ^[kohaerenz-protokoll-konzept-master-md.md:L426] „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
+What it is not: „**Keine Erlösungsgeschichte.** Funktionale Multiplizität ist kein "Heilwerden"." ^[kohaerenz-protokoll-konzept-master-md.md:L1074]
+The veil before it: „Multiplizitäts-Schleier hält bis Kap 13" ^[kohaerenz-protokoll-konzept-master-md.md:L903].

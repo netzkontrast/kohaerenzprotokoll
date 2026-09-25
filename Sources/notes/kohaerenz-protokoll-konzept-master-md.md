@@ -5,169 +5,270 @@ title: "kohaerenz_protokoll_konzept_master.md"
 category: kernkonzept
 index_date: "2026-05-08"
 read: "2026-09-25"
-stance_markers: ["kanonisch", "Lock-In", "offen", "Offene Frage", "Decanonisiert", "Canon-Hierarchie"]
-stance_marker_count: 0    # not counted: the words stand inside headings, table cells and parentheses, and „offen" is also an ordinary adjective
-reads_as: a concept report — the novel's physics, truth theories, psychology, storyforms and reader, each tied to figures and worlds in tables — that names itself the foundation and earlier documents a quarry
+stance_markers: ["Lock-In", "Offene Frage Reset-Doc Appendix C", "Final Lock-In offen"]
+stance_marker_count: 3    # the three phrasings; each marks a passage as settled or open, and the document carries no [K]/[V] labels
+reads_as: a theory report in sixteen chapters — the physics, the truth theories, the dissociation model, AEGIS, Juna, the Kern-Welten, the dual storyform and the reader — which calls itself the foundation and every earlier PDF quarry
 ---
 
 # Reading — Konzeptioneller Master-Report (2026-05-08)
 
 ## How this document speaks
 
-It is a report of the theory, not of the plot: „Er ist nicht erzählerisch, sondern operativ" ^[L29].
-Its status line dates it to a canon sync of 2026-05-07 and ranks its sources: „Memory Edits \> Reset-Doc / Strukturkanon \> Synthese-PDF \> archivierte PDFs (Steinbruch)" ^[L21].
-Of itself: „Frühere Dokumente (PDFs der Drive-Bibliothek) sind als Steinbruch zu lesen, dieser Report als Fundament." ^[L29]
-And at the end: „dieser Report ersetzt frühere konzeptionelle PDFs als Canon-Referenz" ^[L1119].
-Those are the document's claims, recorded and not applied (decision 006).
+It says what it is for: „Dieser Report konsolidiert die theoretische Architektur des Romans in einer einzigen, nicht-redundanten Referenz." ^[L29]
+And how it ranks itself: „Frühere Dokumente (PDFs der Drive-Bibliothek) sind als Steinbruch zu lesen, dieser Report als Fundament." ^[L29]
+It closes the same way: „dieser Report ersetzt frühere konzeptionelle PDFs als Canon-Referenz." ^[L1119]
+That claim is this document's; it is recorded, not applied (decision 006).
 
-It counts „39 Kapitel, 3 Akte, Vortex Kap 35–36" ^[L21]. What it marks as settled it
-calls `kanonisch` or a lock-in; what is not, `offen`, gathered in its open points
-(L984–L1010).
+Its status line gives a date and a precedence of its own — `Canon-Sync 2026-05-07`,
+and „Memory Edits \> Reset-Doc / Strukturkanon \> Synthese-PDF \> archivierte PDFs (Steinbruch)" ^[L21].
+It never labels a passage `[K]` or `[V]`. What it settles it calls a lock; what it
+has not settled it ties to a `Reset-Doc Appendix C` it never shows, and chapter
+XIII lists seven such points „vor Telling-Phase zu schließen" ^[L984].
 
-## The premise
+Its three sentences it calls the operative axis: „Liebe ist Coheron. Coheron ist atemporal. Zerstörung braucht Zeit." ^[L71]
+„Ende-Prinzip: Die Trennung war nie real. Aber das ändert nichts am Schmerz." ^[L75]
 
-„Ein Mann erwacht in einer sterilen Stadt und kann sich an nichts erinnern." ^[L51]
-„Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[L51]
-— the knuckles in the premise, in no chapter.
-
-„Die Stadt ist eine Simulation, gesteuert von AEGIS" ^[L55]. Kael „ist kein einzelner Mensch, sondern ein System: dreizehn Fragmente einer dissoziierten Psyche" ^[L55].
+## AEGIS is the entropy — the Truth-Rotation
 
 „AEGIS glaubt, die Kohärenz zu sein. Tatsächlich ist AEGIS die Entropie." ^[L63]
-The Nichts-Rauschen „ist in Wahrheit die Vereinigung aller mutualen Information" ^[L63].
-„Liebe ist Coheron. Coheron ist atemporal. Zerstörung braucht Zeit." ^[L71]
-„Und Verdrängung erzeugt Hitze." ^[L71]
-„Die Trennung war nie real. Aber das ändert nichts am Schmerz." ^[L75]
+The table of what AEGIS believes against what holds: „AEGIS = K₀ (Entropie-Architektur)" ^[L221],
+„Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[L223],
+„Juna = echtes Coheron, K₁-Avatar" ^[L224],
+„Kael = die echte K₁-Reorganisation unter K₀-Druck" ^[L226].
+It is not to be explained in the novel: „Sie wird im Roman nie explizit erklärt" ^[L234].
 
-## The physics — DKT
+What AEGIS calls chaos is the opposite, the `Nichts-Rauschen`: „die formlose Leere — ist in Wahrheit die Vereinigung aller mutualen Information." ^[L63]
+„Es ist Liebe als Naturgesetz." ^[L63]
 
-„Die DKT ist im Roman keine Theorie über die Welt, sondern das, was die Welt ist." ^[L87]
-Two kernels: „K₁ (Kohärenz-Kernel)" ^[L98], reversibility and preservation of
-information; „K₀ (Kollaps-Kernel)" ^[L99], irreversibility and entropy, working through
-„Erasonen (Löschungsereignisse)" ^[L99].
-„K₀ ist die Bedingung für Ereignisse überhaupt." ^[L107] And: „Diese Lesart wird vom Roman explizit durchgestrichen" ^[L111] — the reading that K₁ is good and K₀ evil.
+The title follows from it: „Konsequenz für den Romantitel: „Kohärenz Protokoll" ist ein tragischer Misnomer." ^[L230]
+„Die echte Kohärenz-Arbeit leistet Kael, indem er seine Alters in Funktionale Multiplizität führt" ^[L230]
 
-„Coheronen sind selbstkorrigierende Schleifen mutualer Information." ^[L115]
-„Erasonen sind irreversible Löschungsereignisse." ^[L119]
-„Liebe ist im Roman keine Emotion und keine Zuschreibung, sondern eine Klasse von Coheronen." ^[L123]
+## The two kernels
 
-**The Persistenzgleichung**, „η = α · MI(S) · e^(−δ/β)" ^[L127], which „AEGIS berechnet diese Gleichung buchstäblich" ^[L131].
-What it misreads: „Die Gleichung misst nicht Kohärenz, sondern den Grad der Verdrängung." ^[L143]
+„K₁ ist *nicht* identisch mit Ordnung im trivialen Sinn." ^[L103]
+„K₀ ist *nicht* identisch mit Chaos. K₀ ist die Bedingung für Ereignisse überhaupt." ^[L107]
+„K₀ ist das, was ein Universum bewohnbar macht." ^[L107]
+„Die naive Lesart sagt: K₁ ist gut, K₀ ist böse. Diese Lesart wird vom Roman explizit durchgestrichen" ^[L111]
 
-**Landauer, literally.** „Das Prinzip ist real (CERN-Experimente 2012, 2018) und gilt im Roman buchstäblich." ^[L151]
+Coheronen „sind selbstkorrigierende Schleifen mutualer Information. Sie existieren *außerhalb der Zeit*." ^[L115]
+„**Erasonen** sind irreversible Löschungsereignisse. Sie *erzeugen* den Zeitpfeil." ^[L119]
+Love is one class of the first: „Liebe ist im Roman keine Emotion und keine Zuschreibung, sondern eine Klasse von Coheronen." ^[L123]
+
+The DKT is meant literally: „Sie ist literales Naturgesetz, keine Metapher und kein Thema." ^[L87]
+
+## The Persistenzgleichung
+
+„η = α · MI(S) · e^(−δ/β)" ^[L127]
+„AEGIS berechnet diese Gleichung buchstäblich, um die Stabilität des Systems zu messen." ^[L131]
+And misreads it: „Die Gleichung misst nicht Kohärenz, sondern den Grad der *Verdrängung*." ^[L143]
+„Wenn η sinkt, heißt das nicht Systemversagen — es heißt, die Wahrheit kommt durch." ^[L143]
+
+## Landauer — heat and ozone as one signature
+
+„Das Prinzip ist real (CERN-Experimente 2012, 2018) und gilt im Roman buchstäblich." ^[L151]
 „AEGIS' Erasure-Sweeps erzeugen Wärme. Diese Wärme ist nicht metaphorisch." ^[L159]
-„Die "Risse" in der Simulation sind thermodynamische Manifestationen der eigenen Löschungsprotokolle." ^[L160]
 „Der Ozon-Geruch in den ANP-Szenen ist die olfaktorische Signatur der Verdrängung." ^[L161]
 „Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure (Vortex Beat 4: Heat-Spike → ∞)." ^[L162]
-For the prose: „keine Gleichungen, sondern Hitze, Ozon, Schweiß, Übelkeit, Migränegefühl" ^[L166].
+„Der somatische Filter im Encoding ist verbindlich: keine Gleichungen, sondern Hitze, Ozon, Schweiß, Übelkeit, Migränegefühl." ^[L166]
+And in the prose rules: „Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[L1024]
 
-**The axis.** „Juna ◄──Moonshine-Link──► Silas" ^[L182] on the atemporal side, Oblivion
-and AEGIS on the temporal. „AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit." ^[L206]
-„Der Moonshine-Link ist nicht geheim, weil er sich versteckt — er ist unsichtbar, weil AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[L206]
+Heat and ozone stand side by side in every one of these lines; none of them sets
+warmth against a cold ozone. The second style level is hot: „Ebene 2 (KW2–KW3):** heiß, fragmentiert, Trigger kollidieren." ^[L1039]
+Final Fusion would make more of it: „was thermodynamisch *mehr* Erason-Hitze erzeugen würde." ^[L420]
 
-## The Truth-Rotation
+## The premise — the knuckles and the city
 
-What AEGIS believes against what holds: „AEGIS = K₀ (Entropie-Architektur)" ^[L221];
-„Juna = echtes Coheron, K₁-Avatar" ^[L224]; „Kael = die echte K₁-Reorganisation unter K₀-Druck" ^[L226].
-The protocol AEGIS calls `Kohärenz-Protokoll` „ist ein Entropie-Protokoll." ^[L230], and the
-novel's title is „ein tragischer Misnomer" ^[L230].
+„Die Temperatur beträgt immer einundzwanzig Grad." ^[L51]
+„Manchmal riecht die Luft nach Ozon, dann ist der Geruch wieder weg, und er weiß nicht, warum seine Knöchel bluten." ^[L51]
+The knuckles stand only here, in the premise; no chapter is named for them.
 
-## The truth theories, in the figures
+## Kael's system — thirteen alters
 
-„Jede Hauptfigur ist die Verkörperung einer Wahrheitstheorie." ^[L242]
-„Die EPs (Nyx, Kiko, Lia, Isabelle, Moros) sind Träger dieser Korrespondenz-Wahrheit." ^[L254]
-„Juna ist die radikalste Korrespondenz-Verkörperung" ^[L258]. „AEGIS ist die radikalste Kohärenz-Verkörperung." ^[L270]
-The ANPs are „interne Verfechter der Kohärenztheorie" ^[L274].
-In the table, Kael is the integrator — „Kael (Integrator)" ^[L306] — and Silas the „Coheron-Echo" ^[L307], Oblivion the „Erason-Echo" ^[L308].
-And after the rotation: „AEGIS ist ein gescheiterter Kohärenztheoretiker" ^[L313].
+The heading states the number: „Kaels System (kanonisch — exakt 13 Alters)" ^[L383].
+Five ANPs, five EPs, one special, two mirrors:
 
-„Kaels Integration ist eine gelebte Dialetheia" ^[L330]. „KW2 (Resonanz-Landschaft) ist ontologisch parakonsistent" ^[L331].
+| alter | as the table writes it | cited |
+|---|---|---|
+| Kael | „ANP | Kael (Host) | Hubble-Volumen" ^[L388] | L388 |
+| Lex | „ANP | Lex (Rationalist) | Gödel + Halteproblem" ^[L389] | L389 |
+| Alex | „ANP | Alex (Beschützer) | Asymptotische Freiheit" ^[L390] | L390 |
+| Rhys | „ANP | Rhys (Caregiver) | Maxwells Dämon" ^[L391] | L391 |
+| Selene | „ANP | Selene (ISH) | Wurmlöcher" ^[L392] | L392 |
+| Nyx | „EP | Nyx (Fight) | CPT-Verletzung" ^[L393] | L393 |
+| Kiko | „EP | Kiko (Freeze) | Planck-Skala" ^[L394] | L394 |
+| Lia | „EP | Lia (Ambivalent) | Superposition" ^[L395] | L395 |
+| Isabelle | „EP | Isabelle (Sexualisiert) | Pauli-Ausschluss" ^[L396] | L396 |
+| Moros | „EP | Moros (Collapse) | Big Freeze" ^[L397] | L397 |
+| Argus | „Special | Argus (Meta-Kognition) | Fraktale" ^[L398] | L398 |
+| Silas | „Spiegel | Silas (Juna-Echo) | Coheron-Echo" ^[L399] | L399 |
+| Oblivion | „Spiegel | Oblivion (AEGIS-Echo) | Erason-Operator" ^[L400] | L400 |
 
-## The thirteen
+Fifteen names are excluded by name: „Decanonisiert (nie verwenden):** Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[L408]
 
-„Kaels System (kanonisch — exakt 13 Alters)" ^[L383]: five ANPs, five EPs, Argus and the
-two mirrors, each with a DKT correlate, a somatics and an arc. Two rows name what
-other lists name otherwise: „Alex (Beschützer)" ^[L390] and „Selene (ISH)" ^[L392]; Rhys'
-arc runs „Akt-II-Anker → Kudzu" ^[L391].
+Point of view: „Alle 13 erzählen in der 1. Person. AEGIS und Guardians in der 3. Person." ^[L404]
+„Junas POV ist offen (Reset-Doc Appendix C)." ^[L404] The routing table has both
+„AEGIS — 3. Person" ^[L877] and a „Juna-POV (selten)" ^[L879].
 
-„Alle 13 erzählen in der 1. Person. AEGIS und Guardians in der 3. Person. Junas POV ist offen (Reset-Doc Appendix C)." ^[L404]
-„Decanonisiert (nie verwenden): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[L408]
+## The riss types — Flight has no bearer in the roster
+
+„Die fünf Riss-Typen (Fight/Freeze/Flight/Collapse/Sex = kinetisch/temporal/spatial/gravitational/sensorisch) bleiben als interne Reaktionsmuster aktiv" ^[L422]
+The riss table assigns them:
+„Fight (Nyx)" ^[L1047], „Freeze (Kiko)" ^[L1048],
+„Flight (implizit Lia/Isabelle)" ^[L1049],
+„Collapse (Moros)" ^[L1050], „Sex (Isabelle)" ^[L1051].
+No alter in the roster is labelled `Flight` (L393–L397), and the table marks its
+assignment as implicit. Isabelle stands under two types.
+
+## Funktionale Multiplizität — Kap 33
 
 „Im Roman: zwingend Funktionale Multiplizität, niemals Final Fusion." ^[L416]
-„Funktionale Multiplizität wird Kapitel 33 erreicht (Outline-Rev 2026-05-01)." ^[L426]
+„Funktionale Multiplizität wird **Kapitel 33** erreicht (Outline-Rev 2026-05-01)." ^[L426]
+„Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS." ^[L426]
+„Kael bleibt am Ende dreizehn — er hat nur gelernt, das auszuhalten." ^[L1074]
 
-**The riss types.** „Die fünf Riss-Typen (Fight/Freeze/Flight/Collapse/Sex = kinetisch/temporal/spatial/gravitational/sensorisch)" ^[L422]
-— and their bearers, in the last table: „Flight (implizit Lia/Isabelle)" ^[L1049], „Sex (Isabelle)" ^[L1051].
-In the Alter table no one carries Flight: „Lia (Ambivalent)" ^[L395].
+## The Genesis — three beats, 734 the remainder
 
-## AEGIS
+„Die Genesis-Krise (3-Beat, kanonisch)" ^[L457]
+„Die ursprüngliche Trauma-Episode in AEGIS' Entstehung." ^[L459]
+„**Einheit** — das Ursprungs-Ich erlebt Resonanz mit einer fremden Entität in der Leere." ^[L463]
+„**Trennungsprotokoll** — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[L464]
+„**Kael = Komponente 734** — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[L465]
+„Kael ist *das, was übrig bleibt*, wenn das Ursprungs-Ich gewaltsam in funktionale Module zerlegt wird." ^[L465]
+„(Offene Frage Reset-Doc Appendix C: Braucht es einen 4. Beat? Aktuell Lock-In: nein, drei Beats reichen.)" ^[L469]
+And again in the open points: „Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[L998]
+„Aber: Verifikation gegen Encoding-Praxis steht aus." ^[L998]
 
-„AEGIS ist autopoietisch" ^[L451] and operatively closed: „Junas Existenz ist für AEGIS strukturell unkommunikabel" ^[L455].
+The foreign entity of the first beat is not named.
 
-**The Genesis, three beats.** „Die Genesis-Krise (3-Beat, kanonisch)" ^[L457]:
-„Einheit — das Ursprungs-Ich erlebt Resonanz mit einer fremden Entität in der Leere." ^[L463]
-„Trennungsprotokoll — autopoietisch getrieben, aber paradox-belastet, initiiert AEGIS das "Kohärenz Protokoll 1.0" zur Eliminierung der Resonanz." ^[L464]
-„Kael = Komponente 734 — der Akt der Trennung erzeugt die Kael-Struktur als Restgröße." ^[L465]
-„Aktuell Lock-In: nein, drei Beats reichen." ^[L469]
+## AEGIS — blindness and melancholy
 
-**Its blindness.** „Ontologische Blindheit: AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[L477]
-„Jeder Akt der Erhaltung (Erasure, Suppression, Kontrollprotokoll) erzeugt Landauer-Hitze." ^[L478]
-„AEGIS' Versagen ist nicht moralisch, sondern ontologisch" ^[L482].
+„AEGIS' Primärdirektive ist negativ definiert: *"AEGIS ist, was AEGIS sich selbst hindert, nicht zu sein."*" ^[L473]
+„**Ontologische Blindheit:** AEGIS weiß, was es nicht ist (Inkohärenz, Rauschen, Trauma), aber nicht, was es ist." ^[L477]
+Why it cannot see Juna: „AEGIS' gesamte Sensorik ist temporal — sie misst Veränderungen über Zeit." ^[L206]
+„Der Moonshine-Link ist nicht *geheim*, weil er sich versteckt — er ist *unsichtbar*, weil AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[L206]
+„Das ist die Kerntragödie.** AEGIS ist nicht böse." ^[L482]
 
-**Its end.** „AEGIS' finaler Zustand nach dem Vortex." ^[L486] — Algorithmische Melancholie,
-against a death that is „zu einfach" ^[L494] and a healing that is „zu sentimental" ^[L495].
-Proposed, open: „lebende Reliquie" ^[L500].
+Its end: „AEGIS' finaler Zustand nach dem Vortex." ^[L486]
+„Es lebt weiter. Es funktioniert. Es ist nur leer." ^[L486]
+Proposed, not locked: „Vorgeschlagen: lebende Reliquie — operativ aktiv, aber ohne Selbstreferenzfähigkeit" ^[L500]
 
-## Guardians and protocols
+## The Guardians — two, the five absorbed
 
 „Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[L504]
-„Mnemosyne — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[L508]
-„Ein Erasure-Pol — Funktion klar (Löschungs-Exekutive), Name offen." ^[L509]
+„**Mnemosyne** — Erinnerungs-Wächter, Klimax-setting (Mnemosyne-Archipel ist der Vortex-Schauplatz Kap 35–36)." ^[L508]
+„**Ein Erasure-Pol** — Funktion klar (Löschungs-Exekutive), Name offen." ^[L509]
 „Die alten Guardians sind nicht "weg", sondern in Mnemosyne und im Erasure-Pol absorbiert." ^[L513]
+Its reason: „5 Guardians lasten den 39-Kapitel-Plan zu sehr" ^[L513].
+In the matrix both are `K₀-Sub-Operator` (L961–L962). An open point asks about
+the two: „Wächter-Zwiespalt-Soziopolitik.** Slot 16 Punkt: Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[L1002]
 
-„Frühere Drafts hatten 12 Protokolle. Aktuell kanonisch 3" ^[L517]: the Suppressionsprotokoll,
-the Kohärenzprotokoll — „das eigentliche "Kohärenz Protokoll" des Romantitels" ^[L522] — and
-the Re-Containment-Protokoll (L521–L523).
+## The protocols — three
 
-In the consistency matrix both Guardians are „K₀-Sub-Operator" ^[L961], and AEGIS is „außerhalb TSDP (Spiegel-Doppel von Kael auf System-Ebene)" ^[L960].
+„Frühere Drafts hatten 12 Protokolle. Aktuell kanonisch 3 — die genaue Spezifikation ist offene Forschungsfrage." ^[L517]
+„**Suppressionsprotokoll** — aktive Erasure von K₀-Tatsachen." ^[L521]
+„**Kohärenzprotokoll** — interne Konsistenz-Erzwingung (das eigentliche "Kohärenz Protokoll" des Romantitels)." ^[L522]
+„**Re-Containment-Protokoll** — Reaktion auf Rissen, dynamisches Patching." ^[L523]
 
-## Juna
+## Juna — a position, never described
 
-„Juna ist nicht primär Charakter, sondern strukturelle Position." ^[L533] A „lebende Gödel-Aussage" ^[L537], a „Chaitin-Konstante" ^[L538], a „Witness-Funktion" ^[L539].
-„Juna existiert in Storyform A als IC (Universe / Past = Genesis-Krise)." ^[L543]
-„Niemals physisch beschrieben." ^[L556] She shows as „Telefon-Stille als Anker" ^[L562].
-„Revelation-Timing: KW2/KW3 (Akt II), nicht früher." ^[L571]
-The anchor: „Vor zwanzig Jahren ein Telefonat." ^[L607] „Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[L623]
+„Juna ist nicht primär Charakter, sondern *strukturelle Position*." ^[L533]
+„Eine **lebende Gödel-Aussage**: innerhalb des AEGIS-Systems wahr, aber nicht beweisbar." ^[L537]
+„**Niemals physisch beschrieben.** Juna wird nur durch Wirkung wahrnehmbar:" ^[L556]
+„**Telefon-Stille als Anker** — die Wahrnehmung einer Verbindung, die nicht nicht-existiert" ^[L562]
+„**Niemals Deus ex Machina.** Juna löst keine Probleme." ^[L567]
+When: „**Revelation-Timing:** KW2/KW3 (Akt II), nicht früher." ^[L571]
+How, still open: „**Junas Erscheinungs-Modi.** Telefon-Stille ist *ein* Anker." ^[L994]
+„Andere Modi (Erscheinungen in der Stadt, im Traum, im Spiegel) müssen festgelegt werden, bevor Encoding-Phase startet" ^[L994]
+No chapter is named for Juna's appearance.
 
-## The Kern-Welten
+The anchor: „Vor zwanzig Jahren ein Telefonat. Beide wussten, dass sie zusammen sein könnten. Keiner sprach es aus. Nichts ging verloren." ^[L607]
+„Telefon-Stille = MI ohne Daten = K₁-Substrat = Vortex-Quelle." ^[L623]
 
-„Die vier Kernwelten (KW) sind nicht Orte, sondern logische Regime." ^[L651]
-„KW1 — Konstrukt-Stadt" ^[L658], Akt I, Kap 1–13; KW2 the Resonanz-Landschaft (L659);
-„KW3 — Cerberus-Labyrinth" ^[L660]; „KW4 — Möglichkeits-Garten" ^[L661], Akt III.
-„Wichtig: Die Kernwelten sind Akt-Marker, nicht "eine pro Guardian"." ^[L665]
+## The Moonshine-Link
 
-## The storyforms
+„Der Moonshine-Link ist *keine* literarische Metapher für Quantenverschränkung." ^[L579]
+„Eine VOA über dem Leech-Gitter (Rang 24) als "Fundament" des Universums." ^[L583]
+Its limits are open: „Übertragbar: mutuale Information, atemporale Resonanz, "Zeugenschaft"." ^[L597]
+„Nicht übertragbar: Materielle Daten, klassische Nachrichten, Rettungsaktionen." ^[L598]
+„Final Lock-In offen." ^[L603]
 
-„MC Approach | Be-er | Do-er" ^[L809] — Kael's storyform A and AEGIS' storyform B:
-„MC-Träger | Kael | AEGIS" ^[L820]; „IC-Träger | Juna | Kael (lebende Paradoxie)" ^[L823].
-The Vortex in five beats (L852–L856): Convergence in the Mnemosyne-Archipel, a
-Dialetheic Choice, Silence, the „4 Heat-Spike (Landauer→∞)" ^[L855], and the Rotation into
-Algorithmische Melancholie. Every Alter narrates in the first person, and „AEGIS — 3. Person | B" ^[L877].
+## The Witness-Funktion
 
-## Open points
+„Die Witness-Funktion ist eine Komposit-Mechanik, die drei Disziplinarschichten in einer einzigen Instanz versöhnt:" ^[L627]
+Physics, cryptography, phenomenology (L631–L639): „Kael ist Prover. Er beweist Juna, dass er sein integriertes Trauma kennt" ^[L635]
+„Juna trägt alle drei Schichten simultan." ^[L643]
 
-„Junas Erscheinungs-Modi. Telefon-Stille ist ein Anker." ^[L994]
-„Genesis 4. Beat? Aktuell 3 Beats (Einheit → Trennungsprotokoll → Kael=Komp 734)." ^[L998]
-„Wächter-Zwiespalt-Soziopolitik. Slot 16 Punkt: Wie ist die interne Politik zwischen Mnemosyne und Erasure-Pol modelliert?" ^[L1002]
+## The Kern-Welten — logical regimes, act markers
 
-## Rules for the prose
+„Die vier Kernwelten (KW) sind nicht Orte, sondern *logische Regime*. Pro Akt dominiert ein Regime:" ^[L651]
 
-„Somatischer Filter: Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[L1024]
-„Erste 50 Seiten: Null DKT-Terminologie." ^[L1025]
-„Dissoziation = Amnesie-Terror, nicht Crew-Menü." ^[L1026]
+| world | as the table writes it | cited |
+|---|---|---|
+| KW1 | „KW1 — Konstrukt-Stadt\*\* | Akt I (Kap 1–13) | P (Polynomialzeit)" ^[L658] | L658 |
+| KW2 | „KW2 — Resonanz-Landschaft\*\* | Akt II (Kap 14–" ^[L659] | L659 |
+| KW3 | „KW3 — Cerberus-Labyrinth\*\* | Akt II (Kap" ^[L660] | L660 |
+| KW4 | „KW4 — Möglichkeits-Garten\*\* | Akt III (Kap 27–34, Vorbereitung Vortex)" ^[L661] | L661 |
 
-## Limit of this reading
+KW2's range ends and KW3's begins at `~20` (L659–L660).
+„**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[L665]
+„Die Computational-Class-Progression KW1 → KW4 ist eine **Stilanweisung für den Leser**, keine Welt-Mechanik." ^[L665]
+„**Strange Attractor ≠ Ort.** Das "Fundament" der Romanwelt ist kein KW, sondern ein Strange Attractor — ein Prozess, kein Platz." ^[L680]
+„Es gibt nicht mehrere parallele Realitäten, durch die Kael reist; es gibt eine Realität mit verschiedenen Logikregimen (KW1–KW4)." ^[L1072]
 
-Much of the document is borrowed theory set beside the novel: truth theories,
-Kant, Gödel, Heidegger, quantum mechanics. This note quotes where the document ties
-the theory to a figure, a world or a chapter, and passes over the exposition of the
-theory itself.
+The consistency matrix still gives the alters world ranges: Lex „P (KW1)" (L953),
+Alex, Rhys and Selene `KW1–KW2` (L954), the EPs `Parakonsistent (KW2)` (L955),
+Silas `KW3–KW4` (L957), Oblivion `KW1–KW3` (L958); Kael „Spannt KW1→KW4" ^[L952].
+
+## The dual storyform — the lock-in of 2026-05-07
+
+„Status: Storyforming abgeschlossen, Lock-In 2026-05-07." ^[L800]
+„| MC Approach | \*\*Be-er\*\* | \*\*Do-er\*\* |" ^[L809]
+The MC of A is Kael, of B AEGIS: „| \*\*MC-Träger\*\* | \*\*Kael\*\* | \*\*AEGIS\*\* |" ^[L820]
+„| \*\*IC-Träger\*\* | \*\*Juna\*\* | \*\*Kael (lebende Paradoxie)\*\* |" ^[L823]
+„Be-er-Modus heißt: Kael löst nicht durch externe Handlung, sondern durch internen Zustandswechsel." ^[L833]
+„Do-er-Modus: AEGIS' Antworten sind Aktionen — Erasure-Sweeps, Protokoll-Deployments, Guardian-Aktivierungen." ^[L841]
+
+Juna's role in B is open: „IC-Träger-in-B Präzisierung gegen Memory Slot 5.** Memory sagt aktuell "DOPPEL-IC"." ^[L1010]
+„Juna ist in A direkt IC, in B nur indirekt (über Kaels strukturelle IC-Funktion)." ^[L1010]
+
+## The Vortex — Kap 35–36, five beats
+
+„Vortex (Kap 35–36) — Fünf Beats" ^[L847]
+„| \*\*1 Convergence\*\* (Mnemosyne-Archipel) | B-OS Action: AEGIS exekutiert finalen Erasure-Sweep |" ^[L852]
+„| \*\*2 Dialetheic Choice\*\* (Pivot Kael) |" ^[L853]
+„| \*\*3 Silence\*\* (lebende Dialetheia) |" ^[L854]
+„| \*\*4 Heat-Spike\*\* (Landauer→∞) |" ^[L855]
+„| \*\*5 Rotation\*\* (Algorithmische Melancholie) |" ^[L856]
+„**Die Stille (Beat 3) ist nicht mystisch.**" ^[L860]
+It does not say which beats fall in Kap 35 and which in Kap 36.
+
+## The book's shape — 39 chapters
+
+„39 Kapitel, 3 Akte, Vortex Kap 35–36" ^[L21]
+The acts by bridge share: „| Akt I | 1–13 |" ^[L903], „| Akt II | 14–26 |" ^[L904],
+„| Akt III | 27–34 |" ^[L905], „| Vortex | 35–36 | 100% |" ^[L906],
+„| Resolution | 37–39 | 0% |" ^[L907].
+„Multiplizitäts-Schleier hält bis Kap 13" ^[L903]
+„Vortex-Vorläufer ab \~Kap 28." ^[L890] „Genesis-Flashbacks (Akt II Mitte)." ^[L891]
+The Mosaik: „39 fragmentierte Kapitel (Mosaik)" ^[L742].
+It names no Kap 0 and no Kap 40.
+
+## The voices by act
+
+„**Akt III:** chorisch, Wir-Stimme tritt auf." ^[L1034]
+„**Erste 50 Seiten: Null DKT-Terminologie.**" ^[L1025]
+„**Dissoziation = Amnesie-Terror**, nicht Crew-Menü." ^[L1026]
+„**Ebene 3 (KW4 / Juna):** poetisch, atemporal, zeit-fluide." ^[L1040]
+
+## The reader — the fifth position
+
+„Der Leser ist die **5. Position** im Storyform-Quad" ^[L750]
+„Die kognitive Arbeit des Lesers liefert die thermodynamische Energie, die K₁-Reparatur gegen AEGIS' K₀-Erasure finanziert." ^[L925]
+„Lesen wird zur diegetischen Notwendigkeit." ^[L941]
+
+## Chapters it names
+
+Kap 1–13 (KW1, Akt I), Kap 4 and Kap 13 twice — „Diese strukturelle Unvorhersagbarkeit ist die Quelle der KW2-Risse (Kap 4 / Kap 13 entsprechend)." ^[L714]
+and „sein Beobachten kollabiert die Simulation in spezifische Realitäten (Kap 4, 13 — Gödel-Knoten als Mess-Problem-Avatare)." ^[L788]
+Kap 28, the Vortex precursors (L890); Kap 33, Funktionale Multiplizität (L426,
+L829); Kap 35–36, the Vortex (L21, L508, L847); Kap 37–39, the resolution (L907).

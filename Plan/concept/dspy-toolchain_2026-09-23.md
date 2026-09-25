@@ -26,8 +26,8 @@ corrections left beside what the build proved wrong.*
 `Plan/trainsets/surface-pairs.jsonl` as last exported, which held 17 rows; the
 judgement ledger itself had grown. Re-exported when this was written, it held
 36 pairs and `fold()` decided 21 — 58%, which `NOW.md` had already measured. The
-ledger now yields 77 <!--state:pairs.labelled--> pairs and `fold()` decides
-43 <!--state:pairs.fold_correct-->, 57%; the judgements of documents 7–9 and 14
+ledger now yields 79 <!--state:pairs.labelled--> pairs and `fold()` decides
+46 <!--state:pairs.fold_correct-->, 57%; the judgements of documents 7–9 and 14
 added the rest, and the committed export still holds 36 (corrected 2026-09-24:
 this sentence had put the ledger's live count on the export).
 The exported file had gone stale because nothing compared it to the ledger;

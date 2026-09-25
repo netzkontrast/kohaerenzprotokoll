@@ -100,8 +100,10 @@ function. The link itself is used as known and not described.
 
 ## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
 
-„Der Moonshine-Link ist keine literarische Metapher für Quantenverschränkung." ^[kohaerenz-protokoll-konzept-master-md.md:L579]
-„Er ist ein rigoroser strukturmathematischer Mechanismus" ^[kohaerenz-protokoll-konzept-master-md.md:L579], founded on a VOA over the Leech lattice (L583).
-It is invisible to [[aegis|AEGIS]], „weil AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
-Open: „Was kann der Moonshine-Link übertragen, was nicht?" ^[kohaerenz-protokoll-konzept-master-md.md:L593] — proposed, mutual information, atemporal
-resonance and witness; no data (L597–L598).
+On the axis it joins Juna and Silas: „Juna ◄──Moonshine-Link──► Silas" ^[kohaerenz-protokoll-konzept-master-md.md:L182].
+„Der Moonshine-Link ist nicht *geheim*, weil er sich versteckt — er ist *unsichtbar*, weil AEGIS strukturell keine atemporalen Phänomene wahrnehmen kann." ^[kohaerenz-protokoll-konzept-master-md.md:L206]
+„**Im Roman:** Der Moonshine-Link ist *keine* literarische Metapher für Quantenverschränkung." ^[kohaerenz-protokoll-konzept-master-md.md:L579]
+Its mathematics: „Eine VOA über dem Leech-Gitter (Rang 24) als "Fundament" des Universums." ^[kohaerenz-protokoll-konzept-master-md.md:L583] „Z₂-Involution durch Orbifold-Konstruktion → Zugang zu "Twisted Modules"." ^[kohaerenz-protokoll-konzept-master-md.md:L584] „Diese Twisted Modules erlauben Beobachtung von Information, die aus der klassischen K₁-Zeitlinie gelöscht wurde." ^[kohaerenz-protokoll-konzept-master-md.md:L585]
+„Das ist Egan-Standard, nicht Magie." ^[kohaerenz-protokoll-konzept-master-md.md:L589]
+What it carries is open: „Übertragbar: mutuale Information, atemporale Resonanz, "Zeugenschaft"." ^[kohaerenz-protokoll-konzept-master-md.md:L597] „Nicht übertragbar: Materielle Daten, klassische Nachrichten, Rettungsaktionen." ^[kohaerenz-protokoll-konzept-master-md.md:L598] „Final Lock-In offen." ^[kohaerenz-protokoll-konzept-master-md.md:L603]
+It is Storyform A's RS domain: „| RS Domain | Physics (Moonshine-Link) |" ^[kohaerenz-protokoll-konzept-master-md.md:L825].

@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 9
+version: 10
 covers_documents: 7
-new_findings_last_document: 2
+new_findings_last_document: 4
 ---
 
 # Briefing — before extracting a document
@@ -120,6 +120,9 @@ wraps is judged by its first line alone.
 - Does the document write samples in a voice, or lists of words a voice uses? A
   term that stands only there is diction — a reading needs a sentence about the
   thing, the same way a term inside a question has none.
+- Does it date its status apart from itself — a sync, a lock-in — and name
+  what that status settled? That is a second date, and it is the document's
+  claim about what came before it.
 - Does the document restate *other* documents — an index of locks, a list of
   sources with dates? That is this document's claim about them, not their text.
 
@@ -134,6 +137,10 @@ wraps is judged by its first line alone.
 
 - Does a stated count match the content? Does the document flag it?
 - Are heading labels unique? Do any collide?
+- Does a table assign something a list elsewhere in the document never gives —
+  a type no member of the roster carries, a bearer marked as inferred? The
+  assignment is the document's claim, and its own word for the inference
+  (`implizit`) is part of the reading.
 - Does it name a conflict among its own sources? A conflict it reports has two
   sides, and only one of them may be in front of you.
 - Does one word number more than one series — levels, layers, stages — so that

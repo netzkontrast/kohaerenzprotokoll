@@ -2,219 +2,283 @@ written_by: a reader (a Claude session), while reading, before any count — und
 
 # Candidates — kohaerenz-protokoll-konzept-master-md
 
-Written while reading, chunk by chunk, with file line numbers from `read.py`. One
-`- term` per line. Observations are paragraphs at the end, never bullets.
+Written while reading the document once through, top to bottom, with file line
+numbers from `read.py`. One `- term` per line; the prose sections are filtered out.
 
-## L11–L107
+The document calls itself a „Konzeptioneller Master-Report" and „Fundament", with
+earlier PDFs as „Steinbruch" (L29). It carries a status line, „Canon-Sync
+2026-05-07", and a canon hierarchy of its own (L21). Both are recorded as its
+claims about itself. It has no passage labels of the `[K]`/`[V]` kind; it marks
+its open points by name — „Offene Frage Reset-Doc Appendix C", „Final Lock-In
+offen", „Name offen".
 
-- Master-Report
-- Dual-Kernel-Theorie (DKT)
-- Dual-Kernel-Theorie
-- DKT
-- Wahrheitstheorien
-- Canon-Sync
-- Storyform Lock-In
-- Canon-Hierarchie
-- Strukturkanon
-- Steinbruch
-- Vortex
-- Konsistenz-Matrix
-- Ozon
-- Knöchel
-- AEGIS
-- Hüterin der Ordnung
-- Simulation
+## the world — figures
+
 - Kael
-- Fragmente
-- Kohärenz
-- Entropie
-- Nichts-Rauschen
-- mutualen Information
-- MI
-- Liebe
-- Kernfrage
-- Ende-Prinzip
-- Coheron
-- atemporal
-- Verdrängung
+- Kael (Host)
+- Kael-Host
+- Host
+- Kael (Integrator)
+- AEGIS
+- Juna
+- Silas
+- Silas (Juna-Echo)
+- Oblivion
+- Oblivion (AEGIS-Echo)
+- Lex
+- Lex (Rationalist)
+- Alex
+- Alex (Beschützer)
+- Rhys
+- Rhys (Caregiver)
+- Selene
+- Selene (ISH)
+- Nyx
+- Nyx (Fight)
+- Kiko
+- Kiko (Freeze)
+- Lia
+- Lia (Ambivalent)
+- Isabelle
+- Isabelle (Sexualisiert)
+- Moros
+- Moros (Collapse)
+- Argus
+- Argus (Meta-Kognition)
+- Argus (Meta-Kognitor)
+- Guardians
+- Mnemosyne
+- Erasure-Pol
+- LogOS
+- Cerberus
+- Kairos
+- Sophia
+- Alters
+- Spiegel-Alters
+- Spiegel-Alter
+- Ursprungs-Ich
+- Komponente 734
+- Komp 734
+- Kael-Struktur
+- Leser (5. Position)
+- 5. Position
+
+## the world — places and regimes
+
+- Kernwelten
+- KW
+- KW1
+- KW2
+- KW3
+- KW4
+- KW1 — Konstrukt-Stadt
+- Konstrukt-Stadt
+- KW2 — Resonanz-Landschaft
+- Resonanz-Landschaft
+- KW3 — Cerberus-Labyrinth
+- Cerberus-Labyrinth
+- KW4 — Möglichkeits-Garten
+- Möglichkeits-Garten
+- Mnemosyne-Archipel
+- Stadt
+- Simulation
+- Strange Attractor
+- Fundament
+- Leere
+
+## the world — events and objects
+
+- Genesis-Krise
+- Einheit
+- Trennungsprotokoll
+- Kohärenz Protokoll 1.0
+- Telefongespräch
+- Telefonat
+- Telefon-Stille
+- Vortex
+- Vortex Beat 4
+- Convergence
+- Dialetheic Choice
+- Silence
+- Heat-Spike
+- Rotation
+- Risse
+- Riss-Szenen
+- Erasure-Sweeps
+- Erasure-Sweep
+- Erasure
+- Hochlast-Erasure
+- Ozon
+- Ozon-Geruch
+- Knöchel
 - Hitze
-- Trennung
+- Landauer-Wärme
+- Landauer-Hitze
+- Erason-Hitze
+- Wir-Stimme
+- Algorithmische Melancholie
+- lebende Reliquie
+- Phoenix Collapse
+- Phoenix-Collapse
+- Genesis-Flashbacks
+- Vortex-Vorläufer
+- Gödel-Knoten
+
+## the physics — DKT
+
+- Dual-Kernel-Theorie
+- Dual-Kernel-Theorie (DKT)
+- DKT
 - DKT-Operator
-- somatischer Filter
+- DKT-Korrelat
+- DKT-Struktur
+- DKT-Architektur
+- DKT-Ebene
+- DKT-Terminologie
 - Primäre Dualität
-- K₁ / K₀
 - K₁
 - K₀
-- Kernel
-- Prinzip
-- Operation
-- Funktion
 - K₁ (Kohärenz-Kernel)
-- Kohärenz-Kernel
 - K₀ (Kollaps-Kernel)
+- Kohärenz-Kernel
 - Kollaps-Kernel
-- Reversibilität
-- Irreversibilität
-- Informationserhaltung
-- MI-Schleifen
-- Erasonen (Löschungsereignisse)
-- Erasonen
-- Löschungsereignisse
-- Zeitpfeil
-
-## L111–L214
-
-- Truth-Rotation
+- Kernel
+- Kernels
+- Coheron
 - Coheronen
+- Erason
+- Erasonen
 - Erasion
-- Konsequenz
-- Landauer
+- Erason-Domäne
+- Coheron-Domäne
+- Erason-Druck
+- Erason-Bilanz
+- Erason-Operator
+- Erason-Op
+- Erason-Arch
+- Erason-Echo
+- Coheron-Echo
+- Erason-Logik
+- MI
+- Mutual Information
+- mutuale Information
+- MI-Schleifen
+- MI-Vereinigung
 - Persistenzgleichung
 - η
 - Kohärenz-Effizienz
 - Suppressions-Konstante
-- MI(S)
-- Mutual Information
-- Erason-Druck
 - Suppressions-Bandbreite
 - Landauer-Prinzip
-- Erasure-Sweeps
-- Wärme
-- Risse
-- Löschungsprotokolle
-- Ozon-Geruch
-- olfaktorische Signatur
-- Vortex Beat 4
-- Heat-Spike
+- Landauer
 - Atemporal/Temporal-Achse
 - ATEMPORAL
 - TEMPORAL
-- Coheron-Domäne
-- Erason-Domäne
-- Juna
+- atemporal
 - Moonshine-Link
-- Silas
-- Oblivion
-- Echo/Spiegel
-- Echo
-- Spiegel
-- Erason-Op/Spiegel
-- Erason-Op
-- Erason-Arch
-- Zeitlosigkeit
-- Juna/Silas
-- ontologische Asymmetrie
-
-## L218–L330
-
-- Entropie-Architektur
-- MI-Vereinigung
-- Landauer-Wärme
-- Systemfehler
+- Nichts-Rauschen
+- Truth-Rotation
 - K₁-Avatar
-- K₁-Reorganisation
-- Kohärenz-Protokoll
-- Entropie-Protokoll
-- Alters
-- Funktionale Multiplizität
-- Fragmentierung
-- Korrespondenz-Wahrheit
-- Korrespondenzwahrheit
-- Korrespondenz-Verkörperung
-- Kohärenz-Verkörperung
-- EPs
-- Nyx
-- Kiko
-- Lia
-- Isabelle
-- Moros
-- Telefongespräch
-- Telefonat
-- ANPs
-- Lex
-- Alex
-- Rhys
-- Selene
-- Kael-Host
-- Schweigen-Müssen
-- Akt I
-- System-Tatsache
-- KW1
-- Konstatierungs-Sprache
-- Wahrheits-Rolle
-- Korrespondenz-Tyrannei
-- Doppelbegehren
-- Kael (Integrator)
-- Integrator
-- Coheron-Echo
-- Resonanzkörper
-- Erason-Echo
-- Argus (Meta-Kognitor)
-- Argus
-- Meta-Kognitor
 - K₀-Avatar
-- gelebte Dialetheia
-- Wahrheits-Glut
+- K₁-Reorganisation
+- K₁-Buffer
+- K₀-Träger
+- K₁-Echo
+- K₀-Operator-Spiegel
+- K₀-Architektur
+- K₀-Sub-Operator
+- K₁-Substrat
+- K₁-Substrat-Quelle
+- K₁-Substrat-Funktion
+- K₁-Reparatur
+- K₀-Erasure
+- K₀-Erasure-Felder
+- Entropie-Architektur
+- Entropie-Protokoll
+- Twisted Modules
 
-## L331–L437
+## the system — AEGIS and its protocols
 
-- KW2 (Resonanz-Landschaft)
-- KW2
-- Resonanz-Landschaft
-- Inversionstest
-- Schicht-System
-- Schicht 1
-- Schicht 2
-- Schicht 3
-- Trauma-Tatsache
-- Akt II
-- Akt III
-- Witness-Funktion
-- Mosaikbau
+- Kohärenz Protokoll
+- Kohärenz-Protokoll
+- Protokolle
+- Suppressionsprotokoll
+- Kohärenzprotokoll
+- Re-Containment-Protokoll
+- Löschungsprotokolle
+- Kontrollprotokoll
+- Reparaturprotokolle
+- Überwachungsprotokolle
+- Primärdirektive
+- Ontologische Blindheit
+- Paradoxon der Fehlausgerichteten Kohärenz
+- Selbst-Zerstörung durch Selbst-Erhaltung
+- Kerntragödie
+- Guardian-Aktivierungen
+- Protokoll-Deployments
+- Löschungs-Exekutive
+- Erinnerungs-Wächter
+- Wächter-Zwiespalt-Soziopolitik
+- Gescheiterter Kohärentist
+- Hüterin der Ordnung
+
+## the psychology — TSDP and Kael's system
+
+- TSDP
 - TSDP-Architektur
+- TSDP-Klassifikation
+- Strukturelle Dissoziation
+- Tertiäre Strukturelle Dissoziation
 - Survival Architecture
-- Kaels System
-- 13 Alters
-- Kategorie
-- Alter
-- DKT-Korrelat
-- Somatik
-- Arc
-- Kael (Host)
-- Host
-- Lex (Rationalist)
-- Rationalist
-- Alex (Beschützer)
-- Beschützer
-- Rhys (Caregiver)
-- Caregiver
-- Akt-II-Anker
-- Kudzu
-- Selene (ISH)
-- Mediator
-- Nyx (Fight)
+- ANP
+- ANPs
+- EP
+- EPs
+- Apparently Normal Parts
+- Emotional Parts
+- Phobien
+- Funktionale Multiplizität
+- Final Fusion
+- Riss-Typen
+- Riss-Typ
+- Riss-Typologie
+- Alter-Typ
 - Fight
-- Kiko (Freeze)
 - Freeze
-- Lia (Ambivalent)
-- Ambivalent
-- Isabelle (Sexualisiert)
-- Sexualisiert
-- Moros (Collapse)
+- Flight
 - Collapse
-- Drachenkampf
+- Sex
+- kinetisch
+- temporal
+- spatial
+- gravitational
+- sensorisch
+- Flight (implizit Lia/Isabelle)
+- Fight/Freeze/Flight/Collapse/Sex
+- Somatik
+- Somatik-Lücken
+- somatischer Filter
+- Somatischer Filter
+- Multiplizitäts-Schleier
+- Amnesie-Terror
+- Crew-Menü
 - Special
-- Argus (Meta-Kognition)
-- Meta-Kognition
-- Silas (Juna-Echo)
-- Juna-Echo
-- Oblivion (AEGIS-Echo)
-- AEGIS-Echo
-- Erason-Operator
-- Guardians
+- Spiegel
+- Integrator
+- Trauma-Stratum
+- Time-loss
+- Bruxismus
+- Hypertonus
+- Hypoventilation
+- Katatonie
+- Drachenkampf
+- Kudzu
+- Akt-II-Anker
+- Fraktalität
 - Decanonisiert
 - Index
 - Nox
+- Echo
 - Flicker
 - Limina
 - Praetor
@@ -227,349 +291,233 @@ Written while reading, chunk by chunk, with file line numbers from `read.py`. On
 - Tariq
 - Nova
 - Sentinel
-- Erason-Hitze
-- K₁-Punkt
-- K₁-Zustand
-- Riss-Typen
-- Fight/Freeze/Flight/Collapse/Sex
-- Flight
-- Sex
-- Kapitel 33
-- TSDP-Klassifikation
-- K₁-Buffer
-- K₀-Träger
-- Spiegel-Alter
-- K₁-Echo
-- Juna-Verbindung
-- Erason-Logik
-- K₀-Operator-Spiegel
-- Meta-Beobachter
-- Fraktale Selbstreferenz
 
-## L441–L560
+## Juna
 
-- Genesis-Krise
-- Einheit
-- Ursprungs-Ich
-- Leere
-- Trennungsprotokoll
-- Kohärenz Protokoll 1.0
-- Komponente 734
-- Kael-Struktur
-- Restgröße
-- Paradoxon der Fehlausgerichteten Kohärenz
-- Primärdirektive
-- Ontologische Blindheit
-- Selbst-Zerstörung durch Selbst-Erhaltung
-- Erasure
-- Suppression
-- Kontrollprotokoll
-- Landauer-Hitze
-- Kerntragödie
-- Algorithmische Melancholie
-- AEGIS-Tod
-- AEGIS-Heilung
-- lebende Reliquie
-- LogOS
-- Mnemosyne
-- Cerberus
-- Kairos
-- Sophia
-- Erinnerungs-Wächter
-- Mnemosyne-Archipel
-- Erasure-Pol
-- Löschungs-Exekutive
-- 39-Kapitel-Plan
-- Spiegel-Alters
-- Protokolle
-- Suppressionsprotokoll
-- Kohärenzprotokoll
-- Re-Containment-Protokoll
+- Witness-Funktion
+- Witness-Funktion (3-Layer)
+- Witness-Quelle
+- Zeugenschaft
+- lebende Gödel-Aussage
 - Gödel-Aussage
 - Chaitin-Konstante
-- Storyform A
-- Storyform B
-- lebende Paradoxie
-- Vortex-Inversion
-- Doppelrolle
-- Witness-Quelle
-- Domain-Inversion
-- Klein-c-Symmetrie
-- Erason-Bilanz
-
-## L560–L680
-
+- strukturelle Position
 - Phantom-Resonanz
-- Host-Feld
-- Systemfeld
-- Telefon-Stille
+- Telefon-Stille als Anker
 - Revelation-Timing
-- KW2/KW3
-- KW3
-- K₁-Zeitlinie
-- Boundary Conditions
-- Zeugenschaft
-- K₁-Substrat
-- Vortex-Quelle
+- Erscheinungs-Modi
+- Junas Erscheinungs-Modi
+- Doppelrolle
 - Quanten-Verschränkungs-Witness
 - Zero-Knowledge-Verifier
-- Kernwelten
-- KW
-- logische Regime
-- Computational Class
-- Logik
-- Atmosphäre
-- Konstrukt-Stadt
-- Metaphernverbot
-- Atem
-- Bauch
-- Muskel
-- Hände
-- Cerberus-Labyrinth
-- KW4
-- Möglichkeits-Garten
-- Akt-Marker
-- Stilanweisung
-- Lesersteuerung
-- Strange Attractor
-- Fundament
-- Gardner's Axiom
+- uninteressiertes Schauen
+- Husserlsches uninteressiertes Schauen
+- Boundary Conditions
+- K₀-blinde Seiten
 
-## L680–L800
+## storyform — the document's Dramatica vocabulary
 
-- Mosaikstruktur
-- Reparaturprotokolle
-- KW2-Risse
-- Mosaik
-- Fußnoten
-- Storyform-Quad
-- K₁-Reparatur
-- Lese-Schichten
-- Gödel-Knoten
+- Dramatica Dual-Storyform
 - Dual-Storyform
-- Lock-In
-
-## lens — L1–L800
-
-- Korrespondenztheorie
-- Kohärenztheorie
-- Dialetheismus
-- Parakonsistenz
-- Dialetheien
-- Dialetheia
-- Trivialismus
-- Tarski-Hierarchie
-- Objektsprache
-- Metasprache
-- Meta-Metasprache
-- Zugangsproblem
-- Isolationsproblem
-- Konsensustheorie
-- Deflationismus
-- Protokollsatzdebatte
-- Konstatierungen
-- LEM
-- Tertium non datur
-- ECQ
-- TSDP
-- Apparently Normal Parts
-- Emotional Parts
-- Phobien
-- Tertiäre Strukturelle Dissoziation
-- DIS
-- Final Fusion
-- Autopoiesis
-- operative Geschlossenheit
-- Qualia
-- Monstrous Moonshine
-- Monstergruppe
-- Leech-Gitter
-- Twisted Modules
-- IC
-- Hubble-Volumen
-- Halteproblem
-- Maxwells Dämon
-- Superposition
-- Planck-Skala
-- Big Freeze
-- Phänomena
-- Noumenon
-- Antinomien
-- aletheia
-- Epoché
-- Leerstellen
-- Beobachterproblem
-- Mess-Problem
-- It from Bit
-- Gödel
-- Kant
-- Husserl
-- Wittgenstein
-- Heidegger
-- Iser
-
-## L800–L913
-
-- Storypoint
+- Storyform A
+- Storyform B
+- Storyform-Quad
 - Heuristics of Integration
-- Phoenix Collapse
-- Phoenix-Collapse
+- Heuristics of Integration (K₁-Reading)
+- Phoenix Collapse (K₀-Reading)
 - K₁-Reading
 - K₀-Reading
+- Klein-c-Symmetrie
+- Domain-Inversion
+- Vortex-Inversion
+- MC
+- IC
+- OS
+- RS
 - MC-Träger
 - IC-Träger
-- Kael (lebende Paradoxie)
-- Be-er-Modus
-- Do-er-Modus
-- A-Decision
-- Guardian-Aktivierungen
-- Convergence
-- Dialetheic Choice
-- Silence
-- Rotation
-- Driver-Mechanik
-- Storyform-Status
-- Beat
-- Pivot
-- Stille
-- Dual-POV-Architektur
-- Hybrid Option 3
-- Hard-Routing
-- Juna-POV
-- Bridge-Szenen
-- Soft-Layering
-- Riss-Szenen
-- Vortex-Vorläufer
-- Genesis-Flashbacks
-- Bridge-Anteil
-- Multiplizitäts-Schleier
-- Resolution
-- Reader as Substrate
-
-## lens — L800–L913
-
-- MC Resolve
-- MC Approach
-- Story Driver
+- IC-Träger-B-Klärung
+- DOPPEL-IC
+- lebende Paradoxie
 - Be-er
 - Do-er
-- Steadfast
-- Change
-- Decision
-- Action
-- Optionlock
-- Timelock
+- Be-er-Modus
+- Do-er-Modus
+- Approach-Korrektur
+- Driver-Architektur
+- Driver-Flip
+- Driver-Treue
+- Storyform Lock-In
+- Lock-In
+- Final Lock-In
+- A-Decision
+- interior pivot
+- Pivot
+- Hybrid Option 3
+- Per-Chapter Dual-POV-Architektur
+- Hard-Routing
+- Soft-Layering
+- Bridge-Szenen
+- Bridge-Frequenz
+- Bridge-Anteil
+- Resolution
+- Akt I
+- Akt II
+- Akt III
+- A:MC
+- B:IC
+- A:IC
+- B:MC
+- B:OS
+- A:Sub-MC
+- A:Innenwelt
+- A:Kommentar
+- B:Witness-Quelle
+- Bridge
 
-## L913–L1030
+## the writing — the document's rules for the prose
 
-- K₁-Substrat-Funktion
-- Wahrheits-Theorie
-- Komplexitätsklasse
-- Domäne
-- Trauma-Stratum
-- Meta-Wahrheit
-- K₀-Architektur
-- Gescheiterter Kohärentist
-- Spiegel-Doppel
-- K₀-Sub-Operator
-- Kohärenz-Exekutiv
+- Lesersteuerung
+- Lesersteuerung = supreme principle
+- Reader as Substrate
+- Mosaikstruktur
+- Mosaikbau
+- Mosaik
+- Fußnoten
+- Leerstellen
+- Lese-Schichten
 - Ebenen-Komplementarität
 - Narrative Ebene
 - Systemische Ebene
 - Wissenschaftliche Ebene
-- DKT-Ebene
-- η-Bewegung
-- Hitze-Bilanz
-- Post-Vortex-AEGIS-Status
-- Erscheinungs-Modi
-- Komp 734
-- Wächter-Zwiespalt-Soziopolitik
-- Slot 16
-- Somatik-Lücken
-- DOPPEL-IC
-- Prosa-Prinzipien
-- Somatischer Filter
-- DKT-Terminologie
-- Amnesie-Terror
-- Crew-Menü
-- Egan-Falle
-- Chiang-Standard
-
-## lens — L913–L1030
-
-- Dissoziation
-
-## L1030–L1124
-
-- Wir-Stimme
+- Konsistenz-Matrix
 - Stil-Ebenen
 - Ebene 1
 - Ebene 2
 - Ebene 3
-- Riss-Typologie
-- Alter-Typ
-- Riss-Typ
-- Fight (Nyx)
-- Freeze (Kiko)
-- Flight (implizit Lia/Isabelle)
-- Lia/Isabelle
-- Collapse (Moros)
-- Sex (Isabelle)
-- kinetisch
-- temporal
-- spatial
-- gravitational
-- sensorisch
+- Polyphonie
+- Polyphonie nach Akt
+- Computational Class
+- Computational Classes
+- Computational-Class-Progression
+- Computational-Class als Stil-Marker
+- Akt-Marker
+- Stilanweisung
+- Konstatierungs-Sprache
+- Metaphernverbot
+- Egan-Falle
+- Chiang-Standard
+- Egan-Standard
+- Prosa-Prinzipien
+- Encoding
+- Encoding-Phase
+- Weaving
+- Telling-Phase
+- Schicht 1
+- Schicht 2
+- Schicht 3
+- Schicht-System
+- Atem
+- Bauch
+- Muskel
+- Hände
 - Atem-Somatik
 - Bauch-Somatik
 - Muskel-Somatik
 - Hand-Somatik
+- NP-Hard-Stilistik
+- Ende-Prinzip
+- Kernfrage
 - Negativ-Definition
-- Wahrheitstheorie-Inversion
-- operative Mitte
-- Canon-Referenz
+- Canon-Sync
+- Canon-Hierarchie
+- Steinbruch
+- Reset-Doc
+- Reset-Doc Appendix C
+- Memory Edits
+- Memory Slot 5
+- Slot 16
+- Strukturkanon
+- Synthese-PDF
+- Outline-Rev 2026-05-01
+- Master-Report
 
-## Open while reading
+## lens
 
-What follows is observation, in paragraphs, and not candidates.
-
-The document dates itself by its status line — a canon sync of 2026-05-07 naming a
-storyform lock-in, an Approach correction, a driver architecture and a clarification
-of the IC bearer in B (L21) — and states a canon hierarchy there. It calls itself
-the foundation and earlier documents a quarry (L29), and it closes by replacing
-earlier conceptual PDFs as canon reference (L1119). Those are this document's claims.
-
-It counts 39 chapters (L21, L513, L742, L933), with a Resolution of Kap 37 to 39
-(L907). The Genesis is three beats, called canonical; a fourth is asked and answered
-no (L457 to L469, L998).
-
-One word numbers several series. Schicht names the two layers of the trauma (L55), the
-three layers of the narration (L336), the three layers of reading (L754) and the four
-layers of every scene (L965). Ebene numbers the three style levels (L1038 to L1040)
-and names the four levels of a scene (L971 to L974).
-
-Kael is labelled Integrator in two tables (L306, L952); Selene is ISH (L392). Juna's
-point of view is open (L404) and a rare Juna-POV is routed to storyform A (L879), in
-one document. AEGIS and the Guardians are in the third person (L404, L877), which the
-list cannot hold (a period and a space); counted by hand in 05-verify.txt.
-
-The novel's title and AEGIS' protocol share a name in four spellings: the title
-(L230), AEGIS' protocol which is really an entropy protocol (L230), a version 1.0
-that the Trennungsprotokoll initiates (L464), and one of three canonical protocols,
-called the title's real one (L522).
-
-Echo is Silas' role (L186) and a decanonised name (L408). Fundament is the VOA over
-the Leech lattice (L583) and the strange attractor that is no Kern-Welt (L680).
-
-Heat stands with ozone throughout: displacement produces heat (L71, L123), the ozone
-smell is the olfactory signature of displacement (L161), control produces Landauer
-warmth (L223), every act of preservation Landauer heat (L478), and the somatic filter
-turns Landauer into heat and ozone (L1024). Vortex Beat 4 is the heat spike (L162,
-L855).
-
-Flight has no bearer in the Alter table — Lia is Ambivalent there (L395) — and in the
-riss typology it is Lia and Isabelle, marked implicit (L1049), with Isabelle also
-carrying Sex (L1051).
-
-Only rejected: AEGIS-Tod and AEGIS-Heilung (L494, L495), trivialism (L336), Final
-Fusion (L410 to L420).
+- Wahrheitstheorien
+- Korrespondenztheorie
+- Kohärenztheorie
+- Konsensustheorie
+- Deflationismus
+- Dialetheismus
+- Dialetheismus/Parakonsistenz
+- Dialetheia
+- Dialetheien
+- gelebte Dialetheia
+- lebende Dialetheia
+- parakonsistente Logik
+- Parakonsistent
+- Trivialismus
+- Inversionstest
+- LEM
+- ECQ
+- Tertium non datur
+- Tarski-Hierarchie
+- Objektsprache
+- Metasprache
+- Meta-Metasprache
+- Isolationsproblem
+- Zugangsproblem
+- Protokollsatzdebatte
+- Wiener-Kreis-Debatte
+- Konstatierungen
+- Autopoiesis
+- autopoietisch
+- operative Geschlossenheit
+- operativ geschlossen
+- Irritationen
+- Gödel
+- Halteproblem
+- Unvollständigkeitssatz
+- Monstrous Moonshine
+- Monstergruppe
+- j-Funktion
+- Vertex-Operator-Algebren
+- VOA
+- Leech-Gitter
+- Orbifold-Konstruktion
+- Z₂-Involution
+- Phänomena
+- Noumena
+- Noumenon
+- Antinomien
+- Tractatus
+- aletheia
+- adaequatio
+- Epoché
+- Mess-Problem
+- Kopenhagen
+- Many-Worlds
+- De Broglie-Bohm
+- GRW
+- Relationale QM
+- It from Bit
+- Hubble-Volumen
+- Asymptotische Freiheit
+- Maxwells Dämon
+- Wurmlöcher
+- CPT-Verletzung
+- Planck-Skala
+- Superposition
+- Pauli-Ausschluss
+- Big Freeze
+- Fraktale
+- Komplexitätsklassen
+- Komplexitätsklasse
+- P (Polynomialzeit)
+- NP-Hard
+- Generativ
+- Gardner's Axiom
+- DIS
+- Plural-Bewegung
+- ISH
