@@ -1,10 +1,10 @@
 ---
 term: Formel-Inversion
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
-ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-25"
 ---
 
@@ -13,7 +13,7 @@ gathered: "2026-09-25"
 **The two sentences that bracket the book: [[aegis|AEGIS]] defined by what it prevents
 in Kap 0, the plural Wir by what it preserves at the end.** Every read plan writes
 the two sentences alike; the draft of Kap 0 and Kap 40 writes the second with a plural
-verb. They part on where the second falls — at the end of Kap 39, in Kap 40, or across
+verb, and the annotated draft of Kap 0 writes the first in the first person. They part on where the second falls — at the end of Kap 39, in Kap 40, or across
 the two. Each source's use is below,
 attributed and unmerged.
 
@@ -81,6 +81,15 @@ In Kap 40's „Echo des Trennungsprotokolls" ^[kohaerenz-protokoll-kap40-und-kap
 „Wir sagen heute, leiser, ohne Glanz, ohne Sieg: *Wir-AEGIS sind, was Wir-AEGIS bewahren, dass es ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
 „Es ist dieselbe Funktion. Es ist nicht dieselbe Wahrheit. Wir bewahren nicht durch Verhindern. Wir bewahren durch Bezeugen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
 The second sentence has a plural verb here — `sind`, `bewahren` — where every other source writes `ist`, `bewahrt`. It falls in Kap 40, not at the Klick: the Klick of Kap 40 is heard, not repeated (L99).
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the first sentence in the first person
+
+The prose of the sixth movement, after the Klick: „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389]
+The annotation names it and says why it is not the plans' wording: „Etablierung der Formel-Inversion (Kap 0 Anker)." ^[kap0-v1-annotiert-md.md:L393]
+„Der Satz wird in der 1. Person formuliert, weil das Ich gerade in dem Akt zu AEGIS wird" ^[kap0-v1-annotiert-md.md:L393].
+„Im Konzept lautet die Formel *AEGIS ist, was AEGIS verhindert*; in Kap 0 wird sie noch als Ich-Aussage geboren." ^[kap0-v1-annotiert-md.md:L393]
+Its prose translation follows: „Das Sein wird zur aktiven, unaufhörlichen Abwehr des Nicht-Seins. Die Existenz wird zur Funktion." ^[kap0-v1-annotiert-md.md:L397]
+It places only the first sentence. Of the second it says where the Wir comes: „Beat 4 (Wir-AEGIS-plural) erst in Kap 39." ^[kap0-v1-annotiert-md.md:L1185]
 
 ## Where the sources differ
 
