@@ -473,16 +473,16 @@ A profile catalogue. After a reading guide (§0) and an architecture overview
 (§1), each of the thirteen Alters has the same ten fields in fixed order —
 Kategorie & Funktion, Kernmotivation, Kernphobien, DKT-Korrelat, Riss-Typ,
 Somatik, Sprach-DNA, Beziehungsmuster, Arc, Konsistenz-Anker. The profile's own
-heading says „neun Felder" and lists ten (L21–L34). The repeated labels the
+heading says „neun Felder" ^[L21] and lists ten (L25–L34). The repeated labels the
 profile measures (`Syntax` ×11, `Vokabular` ×11, `Energie` ×8) are those field
 names, not terms. Then come the conflict matrix (§6), the Riss mandates (§7),
 the switching rules (§8), the voices outside the thirteen — AEGIS, Mnemosyne,
 the Erasure-Pol, Juna (§9) — foreshadowing anchors (§10) and open points (§11).
 
 It labels passages `[K]` / `[V]` / `[L]` (L13). It names its source:
-„Charakter-Bibel 2026-05-08 (autoritativ)" (L13), filtered on the 2026-05-07
+„Charakter-Bibel 2026-05-08 (autoritativ)" ^[L13], filtered on the 2026-05-07
 lock-in and the 2026-05-30/31 iterations. Several `[L]` fields say they are a
-proposal from that source, „Vor Verwendung verbindlich setzen".
+proposal from that source, „Vor Verwendung verbindlich setzen" ^[L651].
 
 The list follows the rule of decision 012. Fifteen decanonised names (L95) are
 listed because the document names them, and it names them only to exclude them.
@@ -491,4 +491,4 @@ escaping and corrected after the count.
 
 The document places heat three ways: `Landauer-Hitze` as the somatic mark of
 the Silas–Oblivion conflict (L837), `Silas-Wärme` as the only diegetic warmth
-(L703), and heat as „Junas Coheron-Spur" (L1042). It does not relate the three.
+(L703), and heat as „Junas Coheron-Spur" ^[L1042]. It does not relate the three.
