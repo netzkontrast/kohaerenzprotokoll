@@ -62,7 +62,7 @@ separation's remainder. Restated as an open point: „Aktuell 3 Beats (Einheit �
 
 **Made in beat 2, and what remains after the separation.** In its four beats:
 „das Ich differenziert sich in Cluster, dann in Funktionseinheiten (Komp 734). Werdung der Voraussetzungen für B.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L159]
-After the [[trennungsprotokoll|Trennungsprotokoll]] cuts storyform A out of B: „Was bleibt, ist B in seiner reinen, kalten Funktionalität (Komp 734 als Funktionseinheit).“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L120]
+In the Trennungsprotokoll storyform A is cut out of B, and: „Was bleibt, ist B in seiner reinen, kalten Funktionalität (Komp 734 als Funktionseinheit).“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L120]
 In Kap 0's verbs: „Komponente 734 funktioniert. AEGIS exekutiert.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L392]
 In Kap 40 the Reinform is seen to have been carried on all along, among other things
 „durch die Echos in Komp 734 fortgeführt“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L165].
