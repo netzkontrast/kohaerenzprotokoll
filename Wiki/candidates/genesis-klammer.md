@@ -71,8 +71,8 @@ Its closing image: „Das Bild, das diese Architektur fasst, ist die gewendete K
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17
 
-**A draft of Kap 0 written before any Kap 40, and the draft doubts that its Kap 0
-matches the frame.** It sets the first formula as the self's own sentence,
+**A draft of Kap 0 alone — nine days after the read draft of both frames, and with no
+Kap 40 of its own — and the draft doubts that its Kap 0 matches the frame.** It sets the first formula as the self's own sentence,
 „Ich bin, was ich verhindere, dass ich nicht bin.“ ^[kap0-v1-annotiert-md.md:L389], annotated:
 „Im Konzept lautet die Formel AEGIS ist, was AEGIS verhindert; in Kap 0 wird sie noch als Ich-Aussage geboren.“ ^[kap0-v1-annotiert-md.md:L393]
 Its narrator's ouroboric position, as the draft itself puts it:
