@@ -1109,3 +1109,73 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** Kap 40 at L455–476 names a second telling or reinterpretation of the Kap-0 event; a later narrative form is not the same surface as the event.
 
 **Result.** TWO terms as referents; no new page from a chapter device or undetermined name in this concept iteration.
+
+## J80 — Wohneinheit 734 / Einheit 734
+
+**judgement** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a number shared by a dwelling and a designation does not identify either; the referent of a bare numbered label is decided by the passage, and a document that places it both ways leaves it open
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, numbered-designation, shared-number
+
+**Question.** one term or two?
+
+**What was done.** read the three passages that place the Kap-1 console line: L101 puts „Einheit 734" in the chapter-anchor cell of the Wohneinheit 734 row; L487 lists it under the Komponente-734-Anker; L661 calls the same console line „Komponente 734 als Konsolen-Zeile"
+
+**Result.** not settled by the surface — the document ties one console line to the dwelling once and to Kael's designation twice
+
+## J81 — Landauer / Landauer-Signatur
+
+**two-terms** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a foreshadowing strand named after a person is not the phenomenon named after that person (J53, J62)
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, eponym, narrative-device
+
+**Question.** one term or two?
+
+**What was done.** L445 names foreshadowing strand 1 „Landauer" with the theme „Hitze als Symptom der Wahrheitsvertuschung"; L63 and L346 file the Landauer-Signatur under cold ozone
+
+**Result.** two terms — a strand of the plot named after a physicist is not the in-world signature named after the same physicist; the difference in their temperature is a reading for C11
+
+## J82 — Zwei Guardians / Guardians
+
+**one-term** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a leading numeral counting a term is a reading on that term, never a new term
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, leading-numeral
+
+**Question.** one term or two?
+
+**What was done.** L1183 is a lock row named „Zwei Guardians" whose content is „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)"
+
+**Result.** one term — the numeral states how many; it is a reading on the Guardians page, and its count is what C6 records
+
+## J83 — Polaritätsregel / Hitze-Polaritätsregel
+
+**one-term** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a compound's head used alone, stating the same content the document gives the full compound, is a short form of that compound; the content decides, not the head (J28)
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, short-form
+
+**Question.** one term or two?
+
+**What was done.** L63 writes „Polaritätsregel: Ozon = kalt/scharf, Landauer-Signatur" inside the KW1 sensory list; §2.1 (L337) and R-5 (L1067) name the Hitze-Polaritätsregel with the same content
+
+**Result.** one term — the short form names the same rule with the same content in the same document
+
+## J84 — 13 Alter / Alter
+
+**one-term** · kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a leading numeral counting a term is a reading on that term, never a new term (J82)
+- **mechanised by:** `nothing`
+- **features:** near-match:intra-list, leading-numeral
+
+**Question.** one term or two?
+
+**What was done.** L1185 is a lock row „13 Alter" whose content is „exakter Roster (siehe Anteile-Profil)"
+
+**Result.** one term — the numeral counts the Alters; a reading for Q3
