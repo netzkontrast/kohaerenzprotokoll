@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,15 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - Note: „Stilebene 3 erstmals voll“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L855]
 - Transition: „Übergang ist Phase-Shift, nicht Ortwechsel“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L724]
 - Place: „sinnvoll als Kap-29-Setting“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L474] (Werkstatt der Schöpfung, marked `[V]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Angst des Kindes“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L361]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (marked `[K]` Struktur / `[S]`/`[L]` Detail)
+
+- Stage: „(HR 3: Refusal)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L361]
+- Story: „Kind-Anteil sichtbar; A:MC-Problem Avoidance letztes Aufflammen; B:RS-Verstrickung tief“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L361]
+- Leitmotiv: „Engerwerden“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L361]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

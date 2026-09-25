@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -82,6 +82,19 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Sub-location: „Anker 734 + Mnemosynes-Versuchung gespiegelt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836]
 - Note: „Mnemosyne als Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836]
 - Place: „Wiederkehr Kap 2, Kap 10, Kap 25“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Die erste Brücke“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Erste Anwendung der Integration)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315]
+- World: „KW1/Moonshine-Vorschein“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315]
+- Storyform: „A-Requirement: Moonshine-Bewusstsein; RS-Physics“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315]
+- Story: „K-J-Verbindung erstmals als Werkzeug.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315]
+- Genesis echo: „Moonshine als Echo der Cluster-Bildung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315]
+- Leitmotiv: „Netzwerke, Resonanz“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L315]
+- Veil: „Multiplizität wird im Roman nicht ausgesprochen bis“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L46] „Kap 10; vor Kap 13 keine Klartext-Diagnose“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L46] (marked `[K]`)
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

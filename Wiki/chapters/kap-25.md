@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,15 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - World: „KW3 (Anker 734 dritte Wiederkehr)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L851]
 - Sub-location: „Wartungsschächte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L851]
 - Place: „Wiederkehr Kap 2, Kap 10, Kap 25“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Wegkreuzung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L350]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Story: „Stehen an der Schwelle — Vorbereitung/Entschluss, NICHT Konfrontations-Beginn. AEGIS bemerkt Kaels neue Klarheit.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L350]
+- Leitmotiv: „Wegkreuzung, Schwellen-Bilder“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L350]
+- Veil: „in Kap 25–26 offen benannt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L46] (marked `[K]`)
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

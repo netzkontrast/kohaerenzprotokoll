@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -75,6 +75,17 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - Note: „Übergang“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L854]
 - Transition: „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
 - Transition: „Kael lässt KW3 nicht hinter sich; er nimmt es mit.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L724]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „AEGIS' Eskalation“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (marked `[K]` Struktur / `[S]`/`[L]` Detail)
+
+- Stage: „(HR 2: Call to Adventure)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360]
+- Story: „Purge-Drohung, Juna in Gefahr; A-Consequence akut (ewige Fragmentierung droht)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360] (marked `[S]`)
+- Storyform: „akut Akt II Z3 / ab Kap 28“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L184] (marked `[K]`)
+- Leitmotiv: „drohende Spannung, Countdown-Marker“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L360]
+- Open point: „verdichten (insb. Kap 4, 5, 23, 24, 28)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L493]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

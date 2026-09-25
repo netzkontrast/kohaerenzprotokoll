@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -66,6 +66,16 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - World: „Kap 32 | KW4“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L858]
 - Note: „Oblivion erstmals POV-fähig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L858] (marked `[V]`)
 - Place: „Kap-31/32-Setting möglich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L478] (Forum des Dialogs, marked `[V]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Logische Labyrinthe“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (marked `[K]` Struktur / `[S]`/`[L]` Detail)
+
+- Stage: „(HR 6: Tests, Allies, Enemies)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364]
+- Story: „polyphoner Kael, Spiegel-Alter aktiv (Silas, Oblivion); Wahrheits-Test; kybernetische Manöver“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364]
+- Leitmotiv: „logische Labyrinthe, Echo-Räume“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L364]
+- POV: „POV-Anteile ab“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L355] „Kap 31/32 bzw. 32/33, Detail = OQ-E“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L355] · „Richtwerte: Silas-POV ab“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L479] „Kap 31/32, Oblivion ab“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L479] „32/33; vor Akt-III-Encoding klären“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L479]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

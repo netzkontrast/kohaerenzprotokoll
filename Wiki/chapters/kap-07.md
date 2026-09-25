@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -81,6 +81,18 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Sub-location: „erste explizite Resonanz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
 - Note: „K-J-Telefon-Stille-Anker etabliert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
 - Transition: „Aktiviert ab Kap 7 (erste explizite Resonanz-Manifestation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L714] (Modus C, marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Die Stimme im Rauschen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Sehnsucht nach dem Weiblichen)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Storyform: „A:RS-S1 (Learning — Junas Präsenz spüren; Moonshine-Bewusstwerdung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Story: „K-J-Verbindung wird stärker; erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was es ist; Telefon-Stille als Anker“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Genesis echo: „Junas Resonanz — jetzt nicht Angriff, sondern Sehnsucht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Characters: „Juna-Regel: nie Subjekt, nur Wirkung.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
+- Leitmotiv: „warme Resonanz (Juna-Polarität), Stille als Klang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L312]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

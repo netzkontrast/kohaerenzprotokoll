@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 6
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -78,6 +78,19 @@ Position: „Genesis-Prolog | 0 | philosophisch-essayist. + Funken-Ich + AEGIS�
 - Note: „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] · „Ich falle… in unzählige Scherben…“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826]
 - Lock: „Blutende Knöchel ohne Erinnerung an die Verletzung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] · „Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141]
 - Transition: „Kael erwacht in KW1 ohne Erinnerung; die Fragmentierung ist gerade vollzogen.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L721]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Genesis-Prolog“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L296]
+Position: „Genesis-Klammer: Kap 0 ↔ Kap 40“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125] (marked `[K]`)
+
+- Story: „AEGIS' Werdung & Trennungsprotokoll als ontologische Grundlegung.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] (marked `[K]`)
+- Plot beats: „Krise (Stille Wacht → Perturbation → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] (marked `[K]`)
+- Lock: „Naht-Lock: harter Schnitt auf den gelockten Kap-1-Erstsatz“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] · „Faden (Knöchel-Eruption, Nyx) lebt nur hier — Kap 1 bleibt spurlos“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] (marked `[K]`)
+- Storyform: „Storyform: nur B (MC-S1 Past); A als Phantomgefühl.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] (marked `[K]`)
+- Leitmotiv: „Motive (Erstereignisse): Rauschen, Form, Klick, Phantom, Resonanz.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] (marked `[K]`)
+- Formula: „AEGIS ist, was AEGIS verhindert, dass es nicht ist.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L33] (marked `[K]`)
+- Drafting status: „Kap 0: annotierte v1 (kap0-v1-annotiert, inkl. C.3-Revisionsplan).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L504]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

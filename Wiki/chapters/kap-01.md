@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -86,6 +86,20 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Place: „Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
 - Place: „Kap 1 (Setting), Kap 2 (erster Riss)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L155] (Sektor 04, marked `[K]`)
 - Lock: „Kap 1 bleibt spurlos.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Erwachen in der Konstrukt-Stadt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Story: „Ein Mensch, ein steril perfekt geordneter Alltag (Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7); Ordnung als Käfig“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306]
+- Storyform: „KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306]
+- Genesis echo: „das sterile Setting ist die Innere Weite aus Kap 0 (Leser erkennt, Kael nicht)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306]
+- Leitmotiv: „quellenloses Licht, Ozon, Stille; Atem“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306]
+- Lock: „Kap-1-Locks (2026-05-30)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306] · „Das Licht ist schon da, als ich erwache.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306] · „erster Satz = letzter Satz, den Kael schreibt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L127] (marked `[K]`)
+- Lock: „Schicht-1/Schicht-2-Anteil 80/20“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306] · „einmal als Konsolen-Zeile, ohne Betonung, Kael reagiert nicht (Reader-only-Echo)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306] · „Etwas in der Frequenz der Lüftung schien zu—“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306] · „Ozon kalt/scharf/elektrisch, keine Wärme in Kap 1“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L306]
+- Lock: „AEGIS-Stimme in Kap 1 (Lock 2026-05-30): keine.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L208] (marked `[K]`) · „Kap 1 bleibt spurlos“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L298] (marked `[K]`)
+- Lock: „Prosa-Regel Kap 1 (gelockt 2026-05-31)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L54] · „Die Amnesie wird nie erwähnt.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L58] (marked `[K]`)
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

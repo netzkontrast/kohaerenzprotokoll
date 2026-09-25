@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -75,6 +75,17 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „KW1 / Übergangs-Zone“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838]
 - Sub-location: „Riss-Eskalation“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838]
 - Note: „thermische Risse häufen sich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L838]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Stille der Mitte“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L317]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Jetzt-Raum)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L317]
+- Storyform: „A:MC-Concern, B:OS latent (AEGIS scannt diesen Zustand)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L317]
+- Story: „Innere Stabilität als Präsenz; ein gehaltener Moment.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L317]
+- Genesis echo: „kleine Wieder-Berührung der K₁-Reinform“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L317]
+- Leitmotiv: „Stille, Atem, Herzschlag“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L317]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

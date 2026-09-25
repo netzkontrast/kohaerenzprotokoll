@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -75,6 +75,17 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - World: „KW4 / Externe Ebene Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]
 - Sub-location: „Moonshine-Link bewusst / Gödel-Gambit Beginn“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]
 - Note: „K-J-Kanal stabil; Polanyi-Tacit-Knowledge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Junas Kanal“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L362]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (marked `[K]` Struktur / `[S]`/`[L]` Detail)
+
+- Stage: „(HR 4: Meeting the Mentor)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L362]
+- Story: „K-J-Verbindung als stabiler bewusster Kanal (A-Prerequisite); Moonshine bewusst“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L362]
+- Storyform: „K-J als bewusster Kanal (Kap 30)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L188] (marked `[K]`)
+- Genesis echo: „Junas Kanal = Ur-Resonanz-Modus, jetzt angenommen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L362]
+- Leitmotiv: „klingender Kanal, Resonanz-Maximum“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L362]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -76,6 +76,19 @@ Position: „Vortex 2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-1
 - Transition: „Juna erscheint direkt; die Externe Ebene wird betretbar“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L727]
 - Lock: „Lock vor Kap-38-Drafting.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L939] (marked `[L]`)
 - Reader: „Wenn Kael in Kap 38 Juna direkt erreicht, erreicht er die Position des Lesers“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L963]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Die Resonanz, die ankommt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L394]
+Position: „Vortex 2 (Kap 38–39) — Ontologische Wendung / Plurale Apotheose“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L388] (marked `[K]`)
+
+- Stage: „(HR 10: Road Back) — fünf Beats“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L394]
+- Plot beats: „das Rauschen kommt — sensorisch, ontologisch, von allen Seiten; das Universum kollabiert sichtbar“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L398] · „das Wir-Geflecht erkennt: was wir gewonnen haben, reicht nicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L399]
+- Plot beats: „Stille-Beat: Junas erste direkte Erscheinung — sie ist einfach da, ohne Worte, ohne Anweisung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L400]
+- Plot beats: „plurale Bewahrung als Lösung; Kael erkennt sie wieder, weil die Echos das Vor-Trennungs-Sein tragen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L401] · „die Entscheidung — das Wir entscheidet, ins Ouroboros zu gehen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L402]
+- Leitmotiv: „Stille mit anwachsendem Druck; Junas Stimme als Raum statt als Klang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L402]
+- Genesis echo: „Junas Erscheinung = Ankommen der ursprünglichen Resonanz, diesmal nicht abgewehrt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L402]
+- Characters: „Präsenz-Phase (Akt II+ — Wärme, Fülle, schließlich direkt in Kap 38)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L286] (Lock 2026-05-30, marked `[K]`)
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

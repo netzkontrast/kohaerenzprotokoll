@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -74,6 +74,17 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - Place: „Setting der Juna-Wirkung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L665] (Garten der stillen Präsenz, marked `[K]`)
 - Überwelt: „Explizit Kap 33 (Verschränkungs-Insel als Setting)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L506]
 - Open: „Welche Form hat sie? Visualisierung der Persistenzgleichung?“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L945] (marked `[L]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Approach Inmost Cave“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L365]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (marked `[K]` Struktur / `[S]`/`[L]` Detail)
+
+- Stage: „Approach Inmost Cave (HR 7)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L365]
+- Story: „Vordringen zu AEGIS' Kern; parakonsistente Logik / Gödel-Sätze“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L365]
+- Genesis echo: „direkte Berührung der K₁-Reinform“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L365]
+- Leitmotiv: „dunkle Tiefe, Vibrieren des Fundaments“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L365]
+- POV: „POV-Anteile ab“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L355] „Kap 31/32 bzw. 32/33, Detail = OQ-E“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L355] · „Kap 31/32, Oblivion ab“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L479] „32/33; vor Akt-III-Encoding klären“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L479]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

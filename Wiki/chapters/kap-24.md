@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -73,6 +73,17 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - World: „KW3 Gänge der Paranoia“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L850]
 - Sub-location: „AEGIS stört zyklisch Telefon-Stille“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L850]
 - Place: „enge, schlecht beleuchtete, sich verändernde Korridore; Überwachungs-Dichte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L373] (Gänge der Paranoia, marked `[S]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Telefon-Stille“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L349]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Function: „(wiederkehrendes K-J-Thema)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L349]
+- Story: „K-J-Verbindung wird zyklisch von AEGIS gestört; A:RS dominant, B:OS-Psychology (Verstrickung komplex)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L349] (marked `[S]`)
+- Genesis echo: „Junas Witness-Modus = ursprüngliche Form ihrer Anwesenheit“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L349]
+- Leitmotiv: „Telefon-Stille als Anker“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L349] (marked `[S]`)
+- Open point: „verdichten (insb. Kap 4, 5, 23, 24, 28)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L493]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -70,6 +70,17 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - Sub-location: „Schwellen-Bruch / Klick-Motiv“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857]
 - Note: „Silas erstmals POV-fähig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857] (marked `[V]`)
 - Place: „Kap-31/32-Setting möglich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L478] (Forum des Dialogs, marked `[V]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Auflösung der Guardians“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (marked `[K]` Struktur / `[S]`/`[L]` Detail)
+
+- Stage: „(HR 5: Crossing the First Threshold)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]
+- Story: „Kael absorbiert Guardian-Prinzipien gesund; Guardians als Sub-Antagonisten“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]
+- Genesis echo: „proleptische Vorform der Wir-AEGIS-plural“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]
+- Leitmotiv: „Wächter, die in Lichtstaub aufgehen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]
+- POV: „POV-Anteile ab“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L355] „Kap 31/32 bzw. 32/33, Detail = OQ-E“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L355] · „Richtwerte: Silas-POV ab“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L479] „Kap 31/32, Oblivion ab“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L479]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

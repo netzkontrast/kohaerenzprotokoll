@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,15 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „Kap 19 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]
 - Sub-location: „AEGIS-Eskalation“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]
 - Note: „Landauer-Strang spike“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Z2-AEGIS-Intervention“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L344]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Story: „Systemlüge wird klarer; Erasure-Logik tritt offen auf.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L344]
+- Cycle (Z2, reaction column): „AEGIS-Intervention (gezielte Störung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L334]
+- Leitmotiv: „kalte Stimme, Ethik-Kalkül“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L344]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

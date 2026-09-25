@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -73,6 +73,17 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 
 - World: „KW1 (justierte Pseudo-Stabilität)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831]
 - Note: „A dominant, B latent; Slot-16-Kandidat für Hard-B-Kapitel“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Auge des Sturms“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L310]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(falscher Erfolg)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L310]
+- Storyform: „A:MC-Concern“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L310]
+- Story: „Trügerische Stabilität; ein Scheinerfolg auf nicht-integrierter Basis.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L310] (scene detail marked `[S]`)
+- Leitmotiv: „spiegelglatter Erfolg, sensorisch flach“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L310]
+- Open point: „verdichten (insb. Kap 4, 5, 23, 24, 28)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L493]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

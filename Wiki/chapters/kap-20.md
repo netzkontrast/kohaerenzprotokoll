@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,15 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]
 - Sub-location: „Genesis-Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]
 - Note: „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Z2-Lyons-Kreativität“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L345]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Story: „erste bewusste Pursuit-Bewegung; A:MC-Solution“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L345]
+- Cycle (Z2, correction column): „Lyons-Welt-Kreativität, fluide Regelnutzung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L334]
+- Leitmotiv: „fluide Regeln, Emergenz“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L345]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

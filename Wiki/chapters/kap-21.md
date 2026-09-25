@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -66,6 +66,16 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „KW2 Wald des Flüsterns“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L847]
 - Note: „Stimmen vergangener Versionen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L847]
 - Place: „semipermeable Erinnerungslandschaft; Stimmen vergangener Versionen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L248] (Wald des Flüsterns, marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Z3-Simulationsgrenze“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L346]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Genesis echo: „Genesis-Flashback: Trennungsprotokoll.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L346]
+- Story: „Ontologie-Tiefe; A:MC-Concern (Juna-Echo), B:RS (Moonshine-Spüren)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L346]
+- Cycle (Z3, destabilisation column): „Konfrontation mit Simulationsgrenzen; Ontologie-Riss“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L335]
+- Leitmotiv: „Membran-Wahrnehmung, Vibrieren“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L346]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

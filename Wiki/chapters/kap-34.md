@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -68,6 +68,15 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - Note: „Kael akzeptiert Juna als Teil seiner selbst“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L860]
 - Place: „Ort, an dem Kael Juna als Teil seiner selbst akzeptiert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L463] (Mosaik-Herz, marked `[K]`)
 - Transition: „AEGIS treibt Kael ins K₁-Substrat; Kael hat keine Wahl, KW2 nicht zu betreten“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L725]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Konfrontation: Zwei Arten der Kohärenz“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L366]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (marked `[K]` Struktur / `[S]`/`[L]` Detail)
+
+- Stage: „(HR 8: Ordeal-Annäherung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L366]
+- Story: „Kael (Wir) vs. AEGIS (Makro-Log); Pursuit als Stand; AEGIS-Datenlast“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L366]
+- Leitmotiv: „Orkan vs. Sphäre“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L366]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

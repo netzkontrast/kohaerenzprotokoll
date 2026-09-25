@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -77,6 +77,17 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „KW1 verstecktes Archiv“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]
 - Sub-location: „Gödels Architekt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]
 - Note: „Lex-dominant“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Pforten“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L309]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Prüfungen)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L309]
+- Storyform: „A:MC-Issue, B:IC latent“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L309]
+- Story: „Tests der einseitig-logischen Identität; Zweifel, Scham, logische Grenzen (Gödel-Vorschein).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L309] (scene detail marked `[S]`)
+- Leitmotiv: „korrumpierte Textdateien“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L309]
+- Open point: „verdichten (insb. Kap 4, 5, 23, 24, 28)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L493]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

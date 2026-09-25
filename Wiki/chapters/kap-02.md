@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -81,6 +81,17 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Note: „Foreshadowing-Anker 734“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L828]
 - Place: „Kap 1 (Setting), Kap 2 (erster Riss)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L155] (Sektor 04, marked `[K]`)
 - Place: „Wiederkehr Kap 2, Kap 10, Kap 25“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Der erste Riss“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Verrat/Desillusionierung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]
+- Storyform: „A:MC-Issue (erste Begegnung mit der Systemlüge), B:OS (Controlled-Fragmentation-Protokoll initialisiert)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]
+- Story: „Glitch reaktiviert ein Echo; Lex-Einbruch beginnt; erste leise Stilcode-Verschiebung.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]
+- Theory: „Riss = Landauer-Signatur (kaltes Ozon — Verdrängung wird sichtbar)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]
+- Leitmotiv: „flackernde Geometrien, unscharfe Kanten“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L307]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

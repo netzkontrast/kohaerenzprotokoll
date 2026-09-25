@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -75,6 +75,17 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - Sub-location: „Eintritt KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L849]
 - Note: „Protektoren-Dominanz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L849]
 - Transition: „Übergang KW2 → KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Z3-Mosaik als Schöpfung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L348]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Story: „Selbst-Schöpfung als innere Ressource.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L348] (scene detail marked `[L]`)
+- Storyform: „Mosaik als Schöpfung (Kap 23)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L187] (marked `[K]`)
+- Genesis echo: „innere Schöpfung als Vorform kosmischer Schöpfung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L348]
+- Cycle (Z3, correction column): „Selbst-Schöpfung / Mosaik-Herz“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L335]
+- Open point: „verdichten (insb. Kap 4, 5, 23, 24, 28)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L493]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

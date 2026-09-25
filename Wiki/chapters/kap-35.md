@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -81,6 +81,18 @@ Position: „Vortex 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-1
 - Note: „Klimax-Setting; Gödel-Gambit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861]
 - Place: „Das primäre Bild ist beim Vortex-1-Encoding festzulegen.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L254] (marked `[L]`)
 - Lock: „Lock vor Kap-35-Drafting.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L938] (marked `[L]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Position: „Vortex 1 (Kap 35–36) — Operative Wendung (HR 9: Ordeal)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L368] (marked `[K]`)
+
+- Chapter cut: „Kapitel-Schnitt: Kap 35 = Beats 1–3, Kap 36 = Beats 4–5.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (marked `[K]`)
+- Plot beats: „Beat 1 — Convergence: AEGIS isoliert Kaels Fragmente; Erasure-Sweep konvergiert auf das Cluster“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L378] · „Atmosphäre: Ozon-Spike, Temperatur-Anomalie.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L378]
+- Plot beats: „Beat 2 — Pivot (dialetheische Wahl): Kael wechselt B-Linear → A-Holistic“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L379] · „eine einzige körperliche Geste markiert die Wahl (eine, nicht zehn)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L379]
+- Plot beats: „Beat 3 — The Silence: alle Kinetik endet; Nichts-Rauschen wird absolute Stille“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L380] · „Strukturell notwendige Pause — nicht mit Inhalt füllen.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L380]
+- Storyform: „A:Resolve=Change vollzogen (Pursuit-Adoption Kap 35)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (marked `[K]`)
+- World: „Setting: Mnemosyne-Server-Architektur (KW2).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (marked `[K]`)
+- Witness: „Witness-Layer 3 (Husserlian Spectator) aktiv.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L380]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

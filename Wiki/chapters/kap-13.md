@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -83,6 +83,19 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Place: „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] · „Kap 13 (Schleier-Fall)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Evaluierungseinheit, marked `[K]`)
 - Act: „Multiplizitäts-Schleier hält bis Kap 13.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L91]
 - Transition: „Multiplizitäts-Schleier fällt intern; Kael sieht das System“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L722]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Tanz im Garten“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(neue innere Welt)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318]
+- World: „KW1→Übergang“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318]
+- Storyform: „A:MC-Concern, B:OS (AEGIS bereitet Phase-2-Stress-Tests vor)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318]
+- Story: „Innere Praxis etabliert; Teil-1-Abschluss.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318]
+- Genesis echo: „die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318]
+- Veil: „Schleier: ab hier offen benennbar.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318]
+- Leitmotiv: „Garten, Pflege, lebendige Ordnung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L318]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

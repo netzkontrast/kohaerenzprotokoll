@@ -1,7 +1,7 @@
 ---
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -105,6 +105,21 @@ several of these documents call themselves canon, and none retires another
 - One world per chapter: „Pro Kapitel eine dominante Welt (außer Kap 38–40, wo Synthese geschieht).“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L926]
 - Überwelt and Externe Ebene: „Indirekt in jedem Kapitel als Hintergrund-Architektur.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L506] · „Bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630]
 - Reader escalation: „Die KW-Sequenz ist Stildirektive, nicht Welt-Mechanik.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L874] · „(P → Parakonsistent → NP-Hard → Generativ)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L53] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+- Chapter count: „Kapitel-Outline (Kap 0–40)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L292] · „Strukturelle Achsen (41 Bewegungen, drei simultane Ebenen)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L91] (marked `[K]`)
+- Acts: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] · „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] · „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (each marked `[K]`)
+- Vortices and coda: „Vortex 1 (Kap 35–36) — Operative Wendung (HR 9: Ordeal)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L368] · „Kap 37 — Der Gärtner / Trügerischer Sieg“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L384] · „Vortex 2 (Kap 38–39) — Ontologische Wendung / Plurale Apotheose“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L388] · „Kap 40 — Geheilte Genesis (Coda)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L416] (each marked `[K]`)
+- Narrative modes: „Modus: linear-introspektiv (Murdock/Schmidt-Adaption)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L302] · „Modus: rekursiv, drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur), eskalierend“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L322] · „Modus: linear-aufsteigend.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L355]
+- Cycles: „Die Z-Mechanik-Tabelle (Z1 = 15–17 · Z2 = 18–20 · Z3 = 21–23) bleibt unberührt kanonisch.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]
+- Transitions: „13/14 und 26/27 = Modus-Wechsel“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L115] · „34/35 = die echte Storyform-Wendung (B beginnt zu erlöschen; Vortex)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L116] · „36/37 = Storyform-Konsolidierung (nur noch A aktiv; Resolution)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L117] (marked `[K]`)
+- Storyforms A and B: „B endet, A übernimmt (Vortex 1, Kap 35–36); ab Vortex 2 entsteht Synthese (c)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L145] (marked `[K]`) · „S4 (Vortex, 35–39)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L197] (marked `[V]`)
+- Brackets: „Genesis-Klammer: Kap 0 ↔ Kap 40“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125] · „Innere Ouroboros-Klammer Kap 1 ↔ Kap 39 (Erstsatz-Lock 2026-05-30)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L127] (marked `[K]`)
+- Hero's journeys: „Heldinnenreise innen (13 Stufen, Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L434] · „Heldenreise außen (Campbell/Vogler, Kap 27–39)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L438] · „Kap 40 steht außerhalb der HR-Zählung (Coda).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L438] (marked `[K]`)
+- Kishōtenketsu: „Ki (Einführung) = Kap 0 + früher Akt I · Shō (Entwicklung) = Akt I/II · Ten (Wendung) = Vortex 1+2 · Ketsu (Synthese, nicht Showdown) = Kap 39/40“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L442] (marked `[K]` Konzept / `[S]` Mapping) · „Sauberes Kap-für-Kap-Mapping: teils noch zu setzen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L442] (marked `[L]`)
+- POV (Slot-16-Lock 2026-05-30): „ein Kapitel Kap 5–8 ist Hard-B mit AEGIS-1.-Person-Innensicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L207] (marked `[K]`)
+- Therapy phases: „Phase 1 Stabilisierung (Akt I) · Phase 2 Traumabearbeitung (Akt II–III-A) · Phase 3 Integration/Funktionale Multiplizität (Vortex/Resolution)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L446]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

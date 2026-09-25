@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -82,6 +82,17 @@ Position: „Vortex 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-1
 - Externe Ebene: „Der Substrat-Durchbruch (referenziert Kap 36 / Vortex 1 Beat 4)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L622]
 - Transition: „Substrat-Berührung Beat 4 (Externe Ebene blitzt durch)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L798]
 - Open: „Wie genau bricht die Externe Ebene durch? Was sieht/spürt Kael?“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L941] (marked `[L]`)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Position: „Vortex 1 (Kap 35–36) — Operative Wendung (HR 9: Ordeal)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L368] (marked `[K]`)
+
+- Chapter cut: „Kapitel-Schnitt: Kap 35 = Beats 1–3, Kap 36 = Beats 4–5.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (marked `[K]`)
+- Plot beats: „Beat 4 — Heat Spike: Erasure trifft integriertes, MI-dichtes Ziel; Landauer-Wärme spiked unmöglich“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381] · „Mnemosyne als erste betroffene Guardian.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381]
+- Plot beats: „Beat 5 — Rotation: AEGIS' operative Closure bricht; Algorithmische Melancholie setzt ein; Truth-Rotation komplett.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L382] · „Letzter Satz des Klimax-Kapitels: welcher Alter spricht?“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L382]
+- Storyform: „B-Cost: AEGIS-monolithisch erlischt (Kap 36)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (marked `[K]`)
+- World: „Setting: Mnemosyne-Server-Architektur (KW2).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370] (marked `[K]`)
+- Source conflict: „für Kap 36“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] „Landauer-Wärme als Schluss-Markierung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] · „Der Landauer-Wärme-Spike bleibt kanonisch allein für Vortex-1-Beat-4“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

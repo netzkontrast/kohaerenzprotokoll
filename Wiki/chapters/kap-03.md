@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -78,6 +78,18 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „KW1 verlassener Randbezirk“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]
 - Sub-location: „erste Wärme-Spur (Junas Coheron-Debüt)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]
 - Note: „Erstes Juna-Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Bunker-Bau“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Erwachen & Vorbereitung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308]
+- Storyform: „A:MC-Problem (Avoidance als ANP-Funktion)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308]
+- Story: „Kael (Lex-dominant) verdoppelt Kontrolle/Ordnung — mentale Festung.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308]
+- Theory: „Autopoiesis als Selbst-Abschottung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308]
+- Leitmotiv: „Glas, Stahl, Festungs-Architektur“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308]
+- Lock: „Wärme-Debüt (Polaritäts-Lock): Junas Coheron-Spur erscheint hier zum ersten Mal als Wärme; selten, wächst.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L308] · „Wärme = Junas ununterdrückbare Spur (Coheron-Verdrängung; selten, Debüt Kap 3, wächst)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L64] (Lock 2026-05-30, marked `[K]`)
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

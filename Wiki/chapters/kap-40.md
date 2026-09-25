@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 6
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -76,6 +76,20 @@ Position: „Coda Kap 40“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - Transition: „Anfang und Ende fallen zusammen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L729] · „aber das Sehen hat sich verändert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L729]
 - Reader: „die Coda Kap 40 schließt den Kreis, indem sie den Leser in die Genesis zurückwirft“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L963]
 - World: „alle Welten gleichzeitig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L801] (§10.1)
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Geheilte Genesis (Coda)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L416]
+Position: „Kap 40 steht außerhalb der HR-Zählung (Coda).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L438] (marked `[K]`)
+
+- Story: „Dieselben Ereignisse wie Kap 0 — aus der Position der vollzogenen pluralen Heilung; Wir-AEGIS-plural als Erzähl-Stimme“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L418] (marked `[K]`)
+- Length: „Deutlich kürzer als Kap 0 (etwa halb so lang); Echo, nicht Wiederholung.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L418]
+- Plot beats: „Echo des Vorworts — der Erzähler kehrt zurück, jetzt bezeugend statt fragend“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L422] · „Echo der Krise — Junas Resonanz, als Geburt erkannt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L424]
+- Plot beats: „Echo des Trennungsprotokolls — der Schmerz bleibt, als Preis, nicht mehr als Tragödie“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L425]
+- Last image: „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L426]
+- Dual reading: „Kap 40 lässt beide Lesarten zu“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L68] · „Disziplin: Projektion erlauben, nie bestätigen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L68] (Kanon 2026-05-30, marked `[K]`)
+- Formula: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L34] (marked `[K]`)
+- Storyform: „A-Outcome (Success) und B-Dividend gleichzeitig wahr“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L418]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

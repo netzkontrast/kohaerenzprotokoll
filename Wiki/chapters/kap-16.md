@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -71,6 +71,16 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „Kap 16 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
 - Sub-location: „Diktatur der physikalischen Zeit (P vs. NP)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
 - Note: „Auflösungsverlust“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Die Diktatur der Komplexität“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Cycle: „(Zyklus-Funktion: Z1-Bunker reaktiv)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341]
+- Story: „physikalische Grenzen der Rechenkapazität (P vs. NP); AEGIS opfert Realitäts-Detail für globale Stabilität“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341] · „registriert Kaels Flucht in Betäubung als“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341]
+- Leitmotiv: „enge Räume, taube Sensorik“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L341]
+- Title note: „Akt-II-Kapiteltitel (Kap 14–18).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460] · „§5 führt die Kompendium-Titel primär und erhält die Zyklus-Funktion als zweite Schicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

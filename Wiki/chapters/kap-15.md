@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,17 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „KW2 (innere Welten)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L841]
 - Sub-location: „Turing-Mechanik“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L841]
 - Note: „Stadt als universelle Turingmaschine“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L841]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Turing-Mechanik“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Cycle: „(Zyklus-Funktion: Z1-Trigger)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340]
+- Story: „die Stadt als universelle Turingmaschine; Kael versteht das Halteproblem (prinzipielle Unvorhersehbarkeit)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340]
+- Storyform: „Trauma-Angst reaktiviert, A:MC-Problem Avoidance reaktiviert“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340]
+- Leitmotiv: „Schattenwurf“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L340]
+- Title note: „Akt-II-Kapiteltitel (Kap 14–18).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460] · „§5 führt die Kompendium-Titel primär und erhält die Zyklus-Funktion als zweite Schicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

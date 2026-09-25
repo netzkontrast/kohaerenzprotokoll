@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -64,6 +64,15 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - World: „KW3 → KW4 Schwelle“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]
 - Sub-location: „Ordinary World / Dasein-Strang Erntung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]
 - Note: „klare Absicht“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Autoren-Feder“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L359]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L353] (marked `[K]` Struktur / `[S]`/`[L]` Detail)
+
+- Stage: „(HR 1: Ordinary World)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L359]
+- Story: „klare Absicht, bereit zur Konfrontation; AEGIS spürt neue Linearität“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L359]
+- Leitmotiv: „Autoren-Feder, klare Linien“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L359]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

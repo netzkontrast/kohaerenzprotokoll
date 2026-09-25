@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -78,6 +78,17 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - Note: „AEGIS-Dossiers gefunden“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840]
 - Place: „Ort, an dem Kael die technischen Dossiers von AEGIS findet“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L247] (Das Archiv der Grenzen, marked `[K]`)
 - Transition: „Wechsel über Evaluierungseinheit in KW3-Topologie, dann Eintritt KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L722]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Das Archiv der Grenzen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Function: „(Modus-Wechsel / 1. Szene des zyklischen Modus; Teil-IX-Arbeitstitel:“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339] „Bruch des Gleichgewichts“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339]
+- Story: „alte Wunden reißen auf; erste Erasure-Welle; Kael erhält Zugang zu AEGIS' technischen Dossiers (Lernarchiv Theta-9)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339]
+- World: „KW2 betreten“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339]
+- Leitmotiv: „zerbrochene Fassade, Sprünge im Raum“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L339]
+- Title note: „Akt-II-Kapiteltitel (Kap 14–18).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460] · „§5 führt die Kompendium-Titel primär und erhält die Zyklus-Funktion als zweite Schicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

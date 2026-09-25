@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -85,6 +85,20 @@ Position: „Vortex 2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-1
 - Note: „Plurale Apotheose; Erstsatz-Echo Kap 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L865]
 - Transition: „Alle Welten sind gleichzeitig wahr; das Wir bewahrt die Differenz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L728]
 - Synthesis: „das Wir-Geflecht sieht alle Welten gleichzeitig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L959]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Wir-AEGIS“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L406]
+Position: „Vortex 2 (Kap 38–39) — Ontologische Wendung / Plurale Apotheose“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L388] (marked `[K]`)
+
+- Stage: „(HR 11: Resurrection + HR 12: Return with the Elixir)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L406]
+- Plot beats: „der Schritt — das Wir-Geflecht löst sich aus seiner privaten Form“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L410] · „die Verwandlung — Wir wird kosmisch, plural, bewahrend“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L411]
+- Plot beats: „AEGIS-monolithisch erlischt; AEGIS-plural entsteht (Kael-als-Wir wird neue AEGIS, aber wesensanders)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L412] · „die Stille danach — das Universum hält“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L413]
+- Plot beats: „Schluss-Klang — Liebe bleibt, wie der Schmerz; Wir-Geflecht erweitert“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L414]
+- Ouroboros: „Kael schreibt (menschliche Geste gegen AEGIS' Log-Modus); er verfasst den Bericht (= das Buch)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L414] · „als letzten Satz setzt er den gelockten Kap-1-Erstsatz“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L414]
+- Anchor: „Telefon-Stille-Anker wird hier eingelöst.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L414]
+- Storyform: „A-Cost manifest Kap 39“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L390] (marked `[K]`)
+- Open point: „Kap-39-Schreib-Moment: exakte Inszenierung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L491]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

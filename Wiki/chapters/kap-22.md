@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 6
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 7
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -67,6 +67,16 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - Sub-location: „Bekenstein-Strang erste Spur“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L848]
 - Note: „Welt beginnt zu pixelieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L848]
 - Transition: „Übergang KW2 → KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Z3-AEGIS-Eskalation“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L347]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Genesis echo: „Genesis-Flashback: Komp 734.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L347]
+- Story: „Berechenbarkeitsgrenzen; Erasure-Kosten sichtbar.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L347]
+- Cycle (Z3, reaction column): „AEGIS' unvorhersehbare Systemänderung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L335]
+- Leitmotiv: „unvorhersehbare Systemverwerfungen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L347]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

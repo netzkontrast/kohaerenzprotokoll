@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -76,6 +76,18 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „Kap 18 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]
 - Sub-location: „Qualia-Informationsparadox“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]
 - Note: „Hartes Problem“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Qualia-Informationsparadox“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Cycle: „(Zyklus-Funktion: Z2-Cache-Konflikt)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343]
+- Story: „PSM-Territorium (Metzinger); Multi-Welten-Aufgabe scheitert; B:OS — Topologie-Manipulation sichtbar“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343]
+- Genesis echo: „Genesis-Flashback: Cluster-Bildung.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343] · „Beginn Genesis-Flashback-Cluster (Kap 18–22): Bridge-Szenen, beide Lesarten simultan wahr“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343]
+- POV: „Kael erlebt die Flashbacks als fremde Daten, die durch ihn hindurchziehen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343]
+- Leitmotiv: „asynchrone Sensorik, Glitch-Texturen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L343]
+- Title note: „Akt-II-Kapiteltitel (Kap 14–18).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460] · „§5 führt die Kompendium-Titel primär und erhält die Zyklus-Funktion als zweite Schicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

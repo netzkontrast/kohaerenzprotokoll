@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -72,6 +72,18 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „Kap 17 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]
 - Sub-location: „Phaenomena vs. Noumena“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]
 - Note: „Kael sieht die“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843] · „Drähte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Phaenomena vs. Noumena“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L320] (marked `[K]` Struktur / `[S]` Szenen-Detail)
+
+- Cycle: „(Zyklus-Funktion: Z1-Wächterin)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342]
+- Story: „der Simulation (Rendering-Ebene vs. Prozess-Kern); aktiv anschauen statt fliehen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342]
+- Storyform: „A:MC-Solution Pursuit-Andeutung“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342]
+- Philosophy: „Kant, transzendentaler Idealismus“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342]
+- Leitmotiv: „Licht durch enge Architektur“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342]
+- Title note: „Akt-II-Kapiteltitel (Kap 14–18).“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460] · „§5 führt die Kompendium-Titel primär und erhält die Zyklus-Funktion als zweite Schicht“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

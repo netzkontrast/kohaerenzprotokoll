@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -82,6 +82,18 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „Kap 9 | KW1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]
 - Sub-location: „foreshadowing plurale Bewahrung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]
 - Note: „Wir-Stimme im frühen Aufbau“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Wir“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Integration beginnt)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314]
+- Storyform: „A-Requirement: Wir-Bildung beginnt“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314]
+- Story: „Erste bewusste innere Kooperation“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314]
+- Foreshadowing: „(jede Wir-Stimme-Szene ab hier zielt auf Kap 39)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314]
+- Genesis echo: „Wir-Bildung = strukturelle Wieder-Annäherung an die K₁-Reinform über plurale Form“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314]
+- Constraint: „Constraint: keine Wir-Geflecht-Etablierung vor Kap 9.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L314]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

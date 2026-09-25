@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -81,6 +81,17 @@ Position: „Reward / Pastorale“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Transition: „Übergang als Reward-Beat; Welt-Wechsel ohne Bewegung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L726]
 - Act: „der trügerischen Pastorale Kap 37, die anders verortet ist“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L408]
 - Transition: „Substrat-Bruch Kap 38“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L799]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Der Gärtner / Trügerischer Sieg“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L384]
+Position: „37 Reward (= trügerischer Sieg)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L438] (marked `[K]`)
+
+- Story: „Klassischer Reward-Beat als falscher Frieden.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386] · „kristallisierte Ruhe mit feinem Unterton; am Rand der Wahrnehmung beginnt etwas zu zerfasern“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386] (marked `[K]`)
+- Storyform: „~15 % Bridge, nur A scheinbar, feine B-Echos als Rauschen-Vorzeichen“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386]
+- Genesis echo: „das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386]
+- Constraint: „Hard-Constraint: keine Resolution-Glättung.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386] · „Keine Resolution-Glättung in Kap 37.“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L84]
+- Leitmotiv: „kristallisiertes Gewebe, feine Sprünge am Rand“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L386]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 

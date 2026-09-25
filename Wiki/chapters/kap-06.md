@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 7
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
+sources: 8
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -79,6 +79,19 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Sub-location: „erste polyphone Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L832]
 - Note: „Lex-hypotaktisch + Nyx-stakkato“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L832]
 - Style: „Erste Stilbruch-Spuren in Kap 6“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L927]
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+Title: „Echos im Fundament“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L300] (marked `[K]`)
+
+- Stage: „(Tod einer Einstellung)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311]
+- World: „KW1→KW2-Vorschein“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311]
+- Storyform: „A:MC-Solution (Pursuit erste Andeutung), B:OS (AEGIS' Logik zeigt Schwächen)“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311]
+- Story: „die einseitige Logik scheitert an einem komplexen Problem; erste polyphone Einbrüche“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311]
+- Genesis echo: „Echo der ursprünglichen Resonanz-Kaskade“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311]
+- Sensorik: „Sensorik der Landauer-Signatur nach Polaritäts-Lock: kalt/Ozon“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L311]
+- Source conflict: „Der Outline 2026-05-08 nennt für Kap 6“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] „Hitzeschlieren, Landauer-Wärme“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458] · „-Sensorik in Akt-I-Kapitelzeilen (insb. Kap 6) ist auf den Lock zu filtern“ ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458]
 
 ## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
 
