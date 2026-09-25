@@ -1,0 +1,897 @@
+{
+  "document": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md",
+  "drive_id": "1qD41Bh12bM9tbu_v2IauIE3ngq5_H5PIGXbhsO8CVbg",
+  "step": "reconcile",
+  "at": "2026-09-25",
+  "by": "hand, after scripts/reconcile.py pre-classification",
+  "state_before": {
+    "pages": 93,
+    "conflicts": 12
+  },
+  "state_after": {
+    "pages": 93,
+    "conflicts": 13
+  },
+  "pre_classification": {
+    "candidates": 1072,
+    "decisions": 1275,
+    "decided_by_lookup": 517,
+    "needs_judgement": 758
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A drafting manual, and most of what it labels [K] is craft. The rule for a place is document 11's and the rule for anything else document 7's — both the documents' own sharpest statements, and this document's tables have the same shape. A place gets a page when a [K] sub-location row names specific chapters: every row that does (Wohneinheit 734, Sektor 04, Archiv der Grenzen, Mnemosyne-Server-Architektur, Mosaik-Herz, Verschränkungs-Insel, Garten der stillen Präsenz) already has one; the rest are anchored to „Kap 1 ff.“, to an act or to nothing, or are [V] or [L]. Anything else gets a page when a [K] passage says what a thing in the world is, and what it canonises of that kind — the six levels, the thermal rule, the Risse, the Genesis and its motifs, Mnemosyne's temptation — is a reading on a page the wiki has. The rest is craft (the briefing template, R-1 to R-10, the style levels, the foreshadowing strands, the anchor trackers, genre per act, a repository layout), borrowed theory in its home sense (Kant, Tarski, Iser, the genre benchmarks), or names used as known (Multiplizitäts-Schleier, Lernarchiv Theta-9, Gödel-Gambit, Slot-16). Wir-AEGIS-plural is used here as a name without being marked open; the page still waits for the author (J47, J73).",
+  "not_promoted": [
+    {
+      "term": "Transitkorridor Delta-7",
+      "lines": [
+        103
+      ],
+      "why": "[K] row anchored „Kap 1 ff.“"
+    },
+    {
+      "term": "Archivar-Klasse-II-Arbeitsraum",
+      "lines": [
+        105
+      ],
+      "why": "[K] row anchored „Kap 1 ff.“; a role's workplace (Komponente 734 stays on kael)"
+    },
+    {
+      "term": "Wald des Flüsterns",
+      "lines": [
+        160
+      ],
+      "why": "anchored to the middle of Akt II"
+    },
+    {
+      "term": "Ozean-Becken",
+      "lines": [
+        161
+      ],
+      "why": "anchored to the middle of Akt II"
+    },
+    {
+      "term": "Mnemosynes Audienz-Raum",
+      "lines": [
+        163
+      ],
+      "why": "[V]"
+    },
+    {
+      "term": "Zitadelle / Inneres Bollwerk",
+      "lines": [
+        216
+      ],
+      "why": "no chapter"
+    },
+    {
+      "term": "Wartungsschächte",
+      "lines": [
+        217
+      ],
+      "why": "no chapter"
+    },
+    {
+      "term": "Die unbewachten Tore",
+      "lines": [
+        218
+      ],
+      "why": "no chapter"
+    },
+    {
+      "term": "Schnittstelle zu den Kernwelten",
+      "lines": [
+        297
+      ],
+      "why": "no chapter"
+    },
+    {
+      "term": "Wächter-Registry",
+      "lines": [
+        298
+      ],
+      "why": "no chapter; a reading on ueberwelt, guardians and Q4"
+    },
+    {
+      "term": "Quelle des Flüsterns",
+      "lines": [
+        328
+      ],
+      "why": "no chapter"
+    },
+    {
+      "term": "Unkartiertes Territorium",
+      "lines": [
+        329
+      ],
+      "why": "no chapter"
+    },
+    {
+      "term": "Mnemosynes Versuchung",
+      "lines": [
+        686,
+        692,
+        696,
+        700,
+        704,
+        712,
+        713,
+        715,
+        719
+      ],
+      "why": "a plot mechanism of one figure; a reading on mnemosyne"
+    },
+    {
+      "term": "Genesis-Motive (Rauschen, Form, Klick, Phantom, Resonanz)",
+      "lines": [
+        514,
+        516,
+        523,
+        524,
+        525,
+        526,
+        527
+      ],
+      "why": "motifs, echoed and never quoted — craft; a reading on genesis"
+    },
+    {
+      "term": "Computational Class",
+      "lines": [
+        71,
+        136,
+        193,
+        249
+      ],
+      "why": "a field of each world; readings on the world pages"
+    },
+    {
+      "term": "Multiplizitäts-Schleier",
+      "lines": [
+        50,
+        1059,
+        1225
+      ],
+      "why": "used as known; J28 keeps it off multiplizitaet as a surface"
+    },
+    {
+      "term": "Lernarchiv Theta-9",
+      "lines": [
+        586
+      ],
+      "why": "named once; whether it is the Archiv der Grenzen the document does not say"
+    },
+    {
+      "term": "13 Meta-Stadien",
+      "lines": [
+        1469
+      ],
+      "why": "[V], „Nicht autor-bestätigt.“"
+    }
+  ],
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        428,
+        574,
+        581,
+        582,
+        583,
+        586,
+        589,
+        592,
+        594,
+        595,
+        1051,
+        1079,
+        1083,
+        1164,
+        1198,
+        1221,
+        1236
+      ],
+      "attribution": "premise",
+      "note": "its voice — no metaphor, no „Ich“, yet a first-person chapter; what it cannot see (C4)"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        1234,
+        1460,
+        1461,
+        1462,
+        1464,
+        1465
+      ],
+      "attribution": "premise",
+      "note": "a conflict of its sources about his origin, which it names and leaves open (§14.4)"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        592,
+        907
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "alters",
+      "lines": [
+        951,
+        1059,
+        1185,
+        1235,
+        1237
+      ],
+      "attribution": "premise",
+      "note": "the roster lock and the veil; by J25/J46"
+    },
+    {
+      "page": "archiv-der-grenzen",
+      "lines": [
+        159,
+        586,
+        1211
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "blinder-fleck",
+      "lines": [
+        574,
+        593
+      ],
+      "attribution": "premise",
+      "note": "AEGIS' blindness named three ways; no Guardian's (C4); by rule, J62"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        169,
+        1183
+      ],
+      "attribution": "premise",
+      "note": "only inside KW3's name (J49)"
+    },
+    {
+      "page": "coheron",
+      "lines": [
+        227,
+        347,
+        409,
+        506,
+        527
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "datenverarbeitungsknoten-7g",
+      "lines": [
+        102
+      ],
+      "attribution": "premise",
+      "note": "Epsilon, by J65"
+    },
+    {
+      "page": "did",
+      "lines": [
+        466,
+        1059
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "drei-ontologische-schichten",
+      "lines": [
+        563,
+        1175,
+        1199
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "erason",
+      "lines": [
+        410
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "evaluierungseinheit",
+      "lines": [
+        219
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        305,
+        307,
+        311,
+        315,
+        327,
+        328,
+        329
+      ],
+      "attribution": "premise",
+      "note": "not outside the simulation; the disagreement named (C13, new)"
+    },
+    {
+      "page": "garten-der-stillen-praesenz",
+      "lines": [
+        327,
+        593
+      ],
+      "attribution": "premise",
+      "note": "Juna's effect in Kap 33 (C7)"
+    },
+    {
+      "page": "genesis",
+      "lines": [
+        516,
+        523,
+        524,
+        574,
+        581,
+        587,
+        618,
+        626,
+        627,
+        1142,
+        1174,
+        1212
+      ],
+      "attribution": "premise",
+      "note": "four beats, five motifs, six crisis steps; no Komponente 734 among the beats (C12)"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        169,
+        171,
+        175,
+        179,
+        193,
+        205,
+        216
+      ],
+      "attribution": "premise",
+      "note": "KW3 and its chapters"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        42,
+        171,
+        282,
+        298,
+        704,
+        1183
+      ],
+      "attribution": "premise",
+      "note": "two, as an unsourced reset lock (C6, decided five)"
+    },
+    {
+      "page": "hitze-polaritaetsregel",
+      "lines": [
+        63,
+        337,
+        339,
+        346,
+        347,
+        351,
+        418,
+        445,
+        859,
+        1067,
+        1196
+      ],
+      "attribution": "premise",
+      "note": "the rule in four places; Polaritätsregel as its short form (J80); a Landauer strand that is heat (C11)"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        148,
+        408,
+        1235
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "juna",
+      "lines": [
+        327,
+        347,
+        474,
+        526,
+        572,
+        574,
+        593,
+        641,
+        1087,
+        1175,
+        1195,
+        1222,
+        1502
+      ],
+      "attribution": "premise",
+      "note": "Kap 33 effect, Kap 38 appearance (C7); her grammar, R-10"
+    },
+    {
+      "page": "junas-ankerpunkt",
+      "lines": [
+        326,
+        384,
+        1441
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "k0-existenz",
+      "lines": [
+        46,
+        397,
+        1175
+      ],
+      "attribution": "premise",
+      "note": "a lock; K₀ used bare elsewhere without saying whether it is this layer"
+    },
+    {
+      "page": "kael-julia-bindung",
+      "lines": [
+        474,
+        476,
+        589
+      ],
+      "attribution": "premise",
+      "note": "as K-J-Verbindung, by J13"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        79,
+        90,
+        105,
+        389,
+        486,
+        572,
+        573,
+        585,
+        587,
+        592,
+        594,
+        595,
+        633,
+        661,
+        679,
+        1188
+      ],
+      "attribution": "premise",
+      "note": "what he knows when; the Ouroboros; the knuckles locked to Kap 0 (C10)"
+    },
+    {
+      "page": "kaels-wohneinheit",
+      "lines": [
+        101
+      ],
+      "attribution": "premise",
+      "note": "by J50"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        42,
+        225,
+        1183
+      ],
+      "attribution": "premise",
+      "note": "only in the de-canonised world assignment (C6, Q5)"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        42,
+        44,
+        46,
+        111,
+        169,
+        171,
+        175,
+        225
+      ],
+      "attribution": "premise",
+      "note": "act, class and style level per world; KW3's chapters, Kap 23–28"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        148,
+        405,
+        406,
+        1235
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        44,
+        46,
+        50,
+        54,
+        63,
+        67,
+        71,
+        75,
+        83,
+        101,
+        539
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "landauer-signatur",
+      "lines": [
+        63,
+        346,
+        382,
+        418,
+        445
+      ],
+      "attribution": "premise",
+      "note": "cold as signature, heat as strand, in one document (C11)"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        79,
+        446,
+        1233
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "lia",
+      "lines": [
+        148,
+        406,
+        1235
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "logos",
+      "lines": [
+        42,
+        44,
+        1183
+      ],
+      "attribution": "premise",
+      "note": "only in the de-canonised world assignment (C6, Q5)"
+    },
+    {
+      "page": "mnemosyne-server-architektur",
+      "lines": [
+        113,
+        162,
+        1427
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        163,
+        298,
+        692,
+        696,
+        700,
+        704,
+        712,
+        713,
+        715,
+        719,
+        1079,
+        1183,
+        1440,
+        1442
+      ],
+      "attribution": "premise",
+      "note": "the temptation (§8), her voice, Oblivion as her double; a portrayal rule beside the outline's structural role"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        225,
+        227,
+        231,
+        249,
+        253,
+        272
+      ],
+      "attribution": "premise",
+      "note": "world and place in one document (C5)"
+    },
+    {
+      "page": "moonshine-link",
+      "lines": [
+        551,
+        589,
+        1429
+      ],
+      "attribution": "premise",
+      "note": "OQ-F, the link's reach, by J71"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        407,
+        1235
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "mosaik-herz",
+      "lines": [
+        274,
+        629
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        50,
+        227,
+        573,
+        588,
+        590,
+        1059,
+        1186,
+        1225
+      ],
+      "attribution": "premise",
+      "note": "no fusion; the veil has two dates in one document"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        175,
+        273
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nichts-rauschen",
+      "lines": [
+        523,
+        535,
+        574,
+        1175
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        404,
+        951
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "oblivion",
+      "lines": [
+        410,
+        719,
+        1428,
+        1430
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "realitaetsebenen",
+      "lines": [
+        40,
+        42
+      ],
+      "attribution": "premise",
+      "note": "the word de-canonised, the six kept as levels of one reality"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        111,
+        113,
+        117,
+        121,
+        136,
+        148,
+        159
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "risse",
+      "lines": [
+        261,
+        383,
+        397,
+        404,
+        417,
+        425,
+        426,
+        427,
+        428,
+        603
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "sektor-04",
+      "lines": [
+        104
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "silas",
+      "lines": [
+        409,
+        496,
+        497,
+        498,
+        951,
+        1195,
+        1428
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        42,
+        1183
+      ],
+      "attribution": "premise",
+      "note": "only in the de-canonised world assignment (C6, Q5)"
+    },
+    {
+      "page": "telefon-stille",
+      "lines": [
+        449,
+        474,
+        475,
+        476,
+        477,
+        478,
+        677,
+        967,
+        1195
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "trennungsprotokoll",
+      "lines": [
+        543,
+        551,
+        627,
+        628,
+        1174
+      ],
+      "attribution": "premise",
+      "note": "the third beat, the end of Kap 0's crisis (C12)"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        169,
+        175,
+        280,
+        282,
+        286,
+        297,
+        298,
+        299
+      ],
+      "attribution": "premise",
+      "note": ""
+    },
+    {
+      "page": "verschraenkungs-insel",
+      "lines": [
+        299,
+        590
+      ],
+      "attribution": "premise",
+      "note": ""
+    }
+  ],
+  "new_surfaces": [
+    {
+      "page": "hitze-polaritaetsregel",
+      "surface": "Polaritätsregel",
+      "evidence": "L63 here and L476 of document 7; J80"
+    }
+  ],
+  "new_conflicts": [
+    "C13"
+  ],
+  "new_conflict_note": "C13 — whether Köln 2026 lies beyond the simulation. Five of its six rows were already readings on externe-ebene from earlier documents; no record held the disagreement until this document added the sixth.",
+  "conflicts_changed": [
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C9",
+    "C10",
+    "C11",
+    "C12"
+  ],
+  "questions_changed": [
+    "Q1",
+    "Q2",
+    "Q3",
+    "Q4",
+    "Q5"
+  ],
+  "records_read_and_not_changed": {
+    "C1": "AEGIS is never expanded",
+    "C2": "Entropie does not occur",
+    "C3": "no origin of AEGIS: it has a Genesis it represses (L574) and reconstructs itself without memory in Kap 0 (L581); neither says what it emerged from",
+    "C8": "no Approach value; the lock table sends the reader to the storyform document (L1164)"
+  },
+  "judgements": [
+    "J80",
+    "J81"
+  ],
+  "decided_by_existing_rules": "Labels that partition the document by J31 — Kap N, Akt I–III, Stil 1–3, Ebene 1, 2, 2+ and 3, Schicht-1/-2, R-1 to R-10, M-1 to N-3, Z1-*, the Block and Modus values, the OQ letters, Slot 16, Beat N. Titles containing terms by J9 — section and rule titles (R-8 — AEGIS spricht nie metaphorisch …), chapter titles (Die Stimme im Rauschen, Echos im Fundament), the sibling and briefing file names. Compounds placed by what they name by J16 and J28 — AEGIS-*, Juna-*/Junas *, Kael-*, Coheron-*, Silas-*, Mnemosyne-*/Mnemosynes *, Telefon-*, Resonanz-*, Phantom-*, Form-*, Klick-*, Stille-*, Anker-*, Sensorik-*, Riss-*/Risse-*, Multiplizitäts-*, Schleier-*, Wärme-*, Ozon-*, Hitze-*, Stil-*, Lock-*; Genesis-* by J76–J79 (Genesis-Motive, -Echo, -Klammer, -Flashbacks, -Bewegungen, -Krise-Splitter, -4-Beat, -Beat-Anzahl, -Prolog, geheilte Genesis). World names built from a bearer's by J49 — Logos-Prime, Mnemosyne-Archipel, Cerberus-Labyrinth, Kairos-Potentialis. Erasure-Pol / Erasure by J59; Überwelt-Nexus by J63; Nichts-Rauschen / Rauschen by J51; Trennung / Trennungsprotokoll by J52; Wir-AEGIS-plural by J47 and J73; Kael-Host as a role compound on kael by J70; Junas Anker / Junas Ankerpunkt by J28. Plurals and articles by J1, J4, J23–J25, J44–J46, J56 (Riss/Risse, Coheron/Coheronen, Alter, Guardians). Matches made only by folding by J69 (Akt I / Bauchreaktionen, Akt-Aktivität / Erasure-Aktivität, Akt I / aktiver Transmitter). The dwelling and the facility by J50 and J65; K-J-Verbindung by J13; Moonshine by J71; the Wächter compounds by J20. Twelve same-surface groups folded mechanically before any lookup.",
+  "lookup_hits_not_placed": {
+    "ueberwelt (via its alias Simulation)": "L307 means the construct the Externe Ebene is not outside of (J81, J39); placed on externe-ebene",
+    "kohaerenz": "L1184 names a protocol „Kohärenz“ (J57); „Kohärenz-Mantra“ (L539) and the title (L11) are a compound and a title (J16, J9)",
+    "rhys": "only in the §9 template's example pairs (L951); recorded on alters",
+    "selene": "only in the §9 template's example pairs (L951); recorded on alters"
+  },
+  "near_matches_not_placed": {
+    "emergenz": "„Emergenz statt Erhaltung“ (L227) is KW4's emergence of new Coherons, not the page's emergence of AEGIS (J62)",
+    "entropie-resonanz, resonanz-landschaft (via Resonanz)": "the Genesis motif is neither (J28); Resonanzlandschaft itself was placed by lookup",
+    "atemporalitaet (via temporal, atemporal)": "a riss type and an adjective of Juna's, not the page's term (J62)"
+  },
+  "found_by_rule_not_by_census": [
+    "kaels-wohneinheit",
+    "datenverarbeitungsknoten-7g",
+    "kael-julia-bindung",
+    "moonshine-link",
+    "blinder-fleck",
+    "alters"
+  ],
+  "baseline_moved": true,
+  "baseline_note": "fold() equality 40/67 → 41/69 (60% → 59%); the plural rule 48/67 → 49/69. J81 is a two-terms pair both get right; J80 a one-term pair neither can see — a head used as its compound's short form."
+}
