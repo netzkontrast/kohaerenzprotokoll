@@ -94,8 +94,10 @@ after the frontmatter; citations count from line 1. Two line bases over one file
 on purpose.
 
 **Write every candidate into `Plan/runs/<slug>/03-candidates.md` as you read**,
-one `- term` per line. A prose section for open observations is fine and is
-filtered out — only `- term` lines are read as candidates.
+one `- term` per line. **Write open observations as paragraphs, never as `- `
+bullets.** `capture.py` tells a term from a sentence by its punctuation: a bulleted
+sentence with no comma is counted as a candidate (document 18, twice), and a term
+with a comma is left out (twelve there, each named in the count's header).
 
 Counting first anchors the list to whatever a regex proposes, and **roughly half
 of what has been found so far is invisible to one**: German capitalises every

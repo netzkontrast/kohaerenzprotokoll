@@ -20,8 +20,10 @@ is read by something later, which is why the shape matters.
 model's list is a **different file**, `03-candidates-rlm.md`, and says so on its
 own first line — `state.py` reads that line, because the test it replaced („does
 the head contain 'reconstruct'") passed a model's list and failed a list whose
-prose denied being a reconstruction. A prose section is allowed and is
-filtered out — only `- term` lines count, which was learned when nine sentences
+prose denied being a reconstruction. A prose section is allowed; write it as
+paragraphs, because `- ` lines are told apart by punctuation (`capture.PROSE`) and
+a bulleted sentence without a comma counts as a candidate — twice in document 18.
+The filter was built when nine sentences
 from an „open while reading" section were counted as candidates and reported at
 0 occurrences, a shape indistinguishable from a term the document turned out not
 to contain.
