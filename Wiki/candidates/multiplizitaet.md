@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-16"
 ---
 
@@ -130,3 +130,10 @@ The counter-register is „schleier-konform (ein Register gegen sich selbst spri
 „ohne den Multiplizitäts-Schleier zu lüften (vor Kap 13)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L241] (J28). The Wir:
 „Komposition statt Verschmelzung." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L173] „Niemals Final Fusion. Das Wir ist Mosaik, nicht Monolith." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L173]
 „In Kap 39 wird das Wir zur pluralen Bewahrungsform (Wir-AEGIS-plural), aber die Vielstimmigkeit bleibt." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L173]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Im Roman: zwingend Funktionale Multiplizität, niemals Final Fusion." ^[kohaerenz-protokoll-konzept-master-md.md:L416]
+„Funktionale Multiplizität erhält die mutuale Information zwischen den Alters und ist der echte K₁-Zustand." ^[kohaerenz-protokoll-konzept-master-md.md:L421]
+„Funktionale Multiplizität wird Kapitel 33 erreicht (Outline-Rev 2026-05-01)." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
+The veil, in the act table: „Multiplizitäts-Schleier hält bis Kap 13" ^[kohaerenz-protokoll-konzept-master-md.md:L903] (J28).
