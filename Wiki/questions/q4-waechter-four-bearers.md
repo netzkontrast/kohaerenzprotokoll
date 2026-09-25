@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -145,6 +145,43 @@ Two bearers in one document. [[aegis|AEGIS]] in Kap 0: „AEGIS (Ursprungs-Ich �
 Wächter)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L237]. [[selene|Selene]]'s function: „Selene (Wächterin-Funktion klar)"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L649], in chapters titled „Die Wächterin" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L415] (Kap 8) and „Z1-Korrektur:
 Wächterin" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L635] (Kap 17). J20 holds: the sentence decides.
+
+## 2026-09-24 — correction: `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md` does write `Wächter`
+
+The entry above headed *a canon-era document uses `Guardian` only* is wrong on
+two counts. Found by the record audit of 2026-09-24, which read the document
+against every record (`Plan/runs/record-audit-2026-09-24/`), and checked here
+line by line.
+
+**It writes `Wächter`, for the Guardians, in the same line as `Guardian`.** Kap
+31 is „Auflösung der Guardians" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363], and that line ends
+„Leitmotiv: Wächter, die in Lichtstaub aufgehen." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] Its analytic clause
+says „Guardians als Sub-Antagonisten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]; the leitmotif names the same
+beings `Wächter`. Both words in one passage, for one bearer — the passage *What
+would answer it now* asks for — and the passage does not distinguish them.
+
+**`Wächterin` four times, not twice.** Besides Kap 8's title (L313) and the Z1
+row (L333), Kap 17 carries „Zyklus-Funktion: Z1-Wächterin" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L342], and
+the working titles of Teil IX list „Z1-Bunker, Z1-Wächterin" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L460]. The same
+function as L333, so no new bearer.
+
+## 2026-09-24 — audit: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, Kap 31
+
+The entry for this document above gives [[aegis|AEGIS]] as Wächter, the Registry and
+Kap 8. It left out the Guardians: Kap 31, „Auflösung der Guardians" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1021], has
+„Guardians als Sub-Antagonisten" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022] and „Sensorik: Wächter, die in
+Lichtstaub aufgehen." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1022] — the line document 7 later carries as its
+leitmotif. Both words, one referent, not distinguished. Found by the record
+audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 9-M16).
+
+## 2026-09-25 — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+**Kap 31 again, and further.** „Guardians als Sub-Antagonisten" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628] and
+„Wächter, die in Lichtstaub aufgehen und in Kael fließen" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628], in one
+line for one bearer, not distinguished — the line documents 7 and 9 carry, with
+the Wächter now flowing into [[kael|Kael]]. Found by the sweep of decision 012 on the
+[[guardians]] page; recorded here by its rule 3, since the document takes a
+position on this question and the record held nothing from it.
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 

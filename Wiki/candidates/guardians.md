@@ -1,10 +1,10 @@
 ---
 term: Guardians
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C4, C6
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -211,9 +211,12 @@ Guardian-Prinzipien gesund; Guardians als Sub-Antagonisten" ^[kohaerenz-protokol
 [[mnemosyne|Mnemosyne]] is the first one hit in Vortex 1 ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L381]. They speak like AEGIS,
 in logs: „AEGIS und die zwei Guardians sprechen in 3. Person" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L206].
 
-**On the word:** `Guardian` only; `Wächter` never occurs. `Wächterin` does, as the
-title of Kap 8 and a function in the Z1 cycle (L313, L333) — see
-`q4-waechter-four-bearers`.
+**On the word:** both. Kap 31's line has „Guardians als Sub-Antagonisten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] and ends
+„Leitmotiv: Wächter, die in Lichtstaub aufgehen." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] — one line, one
+referent. `Wächterin` occurs four times, as the title of Kap 8 and a Z1 function
+(L313, L333, L342, L460) — see `q4-waechter-four-bearers`. *(Corrected
+2026-09-24: this line said `Guardian` only and `Wächter` never; the record audit
+of that day found L363, `Plan/runs/record-audit-2026-09-24/`.)*
 
 ## Reading — `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
 
@@ -295,6 +298,15 @@ Erasure-Pol — while the world table gives „(LogOS, in Mnemosyne absorbiert)"
 Sub-Antagonisten (Mnemosyne, Erasure-Pol)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005]. The word also names a stage
 of [[selene|Selene]]'s arc, „Guardian → Mediator" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L136]. C6 (decided: five), Q1,
 Q5.
+
+## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
+
+Kap 31, „Auflösung der Guardians" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L626], with what [[kael|Kael]] takes from them: „Kael absorbiert Guardian-Prinzipien gesund: Logik ohne Kälte, Schutz ohne Paranoia." ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
+Beside it, „Guardians als Sub-Antagonisten" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628], and the sensory line „Wächter, die in Lichtstaub aufgehen und in Kael fließen" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
+— the line documents 7 and 9 end at *aufgehen*; here they flow into Kael. Its
+Genesis echo: „Kael nimmt schon AEGIS-Funktionen pluralisiert an" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]. The census listed
+`Guardian` and the page's surface is `Guardians`, so the lookup did not reach this
+page. Found by the sweep (decision 012).
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 

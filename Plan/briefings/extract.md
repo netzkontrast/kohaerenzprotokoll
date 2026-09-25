@@ -1,6 +1,6 @@
 ---
 step: extract
-version: 6
+version: 7
 covers_documents: 5
 new_findings_last_document: 3
 ---
@@ -55,6 +55,27 @@ invisible to one.
 
 Extraction starts at the first line after the frontmatter. Citations count from
 line 1. Two line bases over one file, by design.
+
+### What goes on the list (decision 012)
+
+Two readers see the same things and list different amounts of them. The
+selection is where they differ, so it follows a rule:
+
+- **List** what the document names in the novel's world: a figure, a place, an
+  object, an event, a law of its physics.
+- **List** a word the document uses as its own term: it defines it, marks it
+  (`[K]`, `[V]` …), sets it in bold, or heads a section or a table column with it.
+- **List** a borrowed concept the document applies to the world, and mark it as
+  lens: under a `## lens` heading, or with `(lens)` after it.
+- **Leave out** a noun in its ordinary sense, a phrase of the argument, and the
+  title of a cited work.
+- **Write each surface as the document writes it.** Where the document joins two
+  names, `A/B` or `A (B)`, list the joined form and each name.
+
+Do not open the wiki to decide what to list; the census describes this document
+and nothing else. After it is frozen, `reconcile.py` sweeps the text for every
+surface of every page. So a term you judged ordinary is still found if the wiki
+has a page for it, and nothing the wiki knows depends on this list.
 
 ## 2 · Questions to carry while reading
 

@@ -335,9 +335,11 @@ Drive ──fetch──→ Sources/drive/*.md ──┬──extract──→ So
 ```
 
 Written out in full in `Plan/concept/wiki-process_2026-09-16.md`. The short
-version: **a census lists every candidate term in one document, exhaustively.**
-A note harvests what that document says about the terms that matter, quoting with
-line numbers.
+version: **a census lists the candidate terms of one document by a written rule**
+— what it names in the novel's world, the words it uses as its own terms, the
+borrowed concepts it applies (decision 012; the rule is in the briefing). A note
+harvests what that document says about the terms that matter, quoting with line
+numbers.
 
 **A census describes one document and nothing else** — no count, comparison or
 expectation from another source. `scripts/profile.py` makes that identical
@@ -364,6 +366,16 @@ decided mechanically, 4 to judgement.** Document 6 is the scale test: 109
 candidates against 46 pages, **68 decided by lookup and 55 sent to judgement**,
 and the wiki's size entered none of it. Reasoning:
 `Plan/concept/reconciliation-by-lookup_2026-09-17.md`.
+
+**And it sweeps the text for everything the wiki already knows** (decision 012).
+A lookup matches only what the census listed, so `reconcile.py` also searches
+the document for every surface of every page, standing alone. Each page the text
+names without a matching candidate is decided: a reading, which goes on the
+page, or an occurrence, such as a title, a reference or another sense. The call
+is recorded in `Plan/runs/sweep.jsonl`: 24 <!--state:sweep.decided--> so far,
+10 <!--state:sweep.readings--> of them readings the lookup had missed, and
+0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
+asks the index, never the pages, so its cost is code's.
 
 **A reference on a wiki page names its document.** A bare `^[Lnn]` resolves
 against the page's single `ingested:` entry and stops being checked the moment a
@@ -1158,6 +1170,22 @@ reconstructions and **cannot serve as a gold set.** `Plan/runs/README.md` says s
 plainly rather than papering over it. **Which lists are gold is decided by rule**
 in `scripts/gold.py` (decision 009): written while reading, counted, unchanged
 since the count, and of its document — whoever wrote it.
+
+**Every reader so far has been Claude**, the gold lists and P27's two readers
+included; no reading by the author is recorded. Two saved workflows measure the
+reading itself, and both ran once on 2026-09-24:
+
+- **`.claude/workflows/blind-rereading.js`** has a document read again, blind.
+  `python3 scripts/agree.py <slug>` compares the lists by F1, and by how much of
+  each the other holds, because F1 falls with a longer list however well both
+  read. Two blind readers agreed at 0.82–0.93 on documents 5, 6, 7 and 10, and
+  each held 97–100 % of the committed list. Readers differ in what they select,
+  not in what they see (`Plan/learnings/extract-terms.md`, *Blind re-readings*).
+- **`.claude/workflows/record-audit.js`** checks what the conflict and question
+  records attribute to a document, and what they miss. On documents 7–13, 274
+  of 289 attributions were faithful. Of 83 findings, both skeptics upheld 9.
+  Those nine, and five misstatements the text skeptic confirmed, are now in the
+  records (`Plan/runs/record-audit-2026-09-24/`).
 
 ## Learnings
 

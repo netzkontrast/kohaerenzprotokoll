@@ -32,12 +32,14 @@ folder (`scripts/lmrun.py`, one line per call).
 | path | what | written by |
 |---|---|---|
 | `judgements.jsonl` | every judgement about a near match, with its rule; `judgements.md` is its rendering | a person; `scripts/judgements.py` replays and renders |
+| `sweep.jsonl` | every page the sweep found in a read document's text that its census did not list: a reading or an occurrence, and why (decision 012) | a person; `scripts/reconcile.py --sweep-open` counts what no row settles |
 | `baselines.jsonl` | every scored program on every task, append-only | `scripts/baseline.py`, through `pairs.py` and `graphrag.py bench --record` |
 | `dedupe.json` | the decision per group of near-identical exports | `scripts/dedupe.py` |
 | `bilingual/` | every stage of the German–English mapping, cached so `--replay` needs no key | `scripts/bilingual.py` |
 | `jev/` | requests and responses of the Jev entity test, for `--replay` | `scripts/jev_entities.py` |
 | `route/` | the consent file of decision 007, the call ledger and the recorded calls | `scripts/route.py` |
 | `tooltest/` | outputs of the tool review under decision 007 | the tools under review, through `route.py` |
+| `record-audit-2026-09-24/` | every attribution the conflict and question records make to documents 7–13, checked against the lines, the findings and two skeptics' verdicts, and which were written | `.claude/workflows/record-audit.js`; the README's rule decided the writing |
 | `CONVENTIONS.md` | what every run's JSON must carry | a person |
 
 ## Why `03` matters more than the rest

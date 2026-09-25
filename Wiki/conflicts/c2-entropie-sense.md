@@ -4,7 +4,7 @@ subject: Entropie
 kind: incompatible senses of one term
 status: open
 first_seen: "2026-09-16"
-sources: 6
+sources: 7
 pages: ["entropie"]
 ---
 
@@ -90,3 +90,17 @@ bewohnbar macht." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L
 matrix things come from (position 2): what makes time, learning and experience
 possible. The glossary also keeps the third: [[aegis|AEGIS]] believes itself K₁ and is K₀
 (L82).
+
+## 2026-09-24 — audit: `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`, 2026-05-08
+
+**The third sense, from the source read before the konsolidiertes Konzept.** The
+character bible was reconciled first (reconciliation 09, then 10) and says it
+three times: „AEGIS *ist* die Entropie, die es zu verhindern vorgibt" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L89]; „Das
+System produziert die Entropie, die zu bekämpfen es behauptet." ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L98]; and a table
+headed „Was tatsächlich gilt" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L104] with the row „AEGIS = Entropie-Architektur (K0)" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L105]
+and „Nichts-Rauschen = atemporale Vereinigung aller MI" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L106]. So the entry above is
+wrong to call the konsolidiertes Konzept *the first read source that states the
+project's own sense flatly, in a table*: the bible, of the same date, has
+nearly the same table, and it was read first. Found by the record audit of
+2026-09-24 (`Plan/runs/record-audit-2026-09-24/`, 8-M2); the conflict stays
+open.

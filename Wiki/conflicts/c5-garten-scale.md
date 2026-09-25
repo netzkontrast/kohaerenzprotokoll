@@ -126,6 +126,14 @@ The world side, and a practice before the world: „KW4 — Möglichkeits-Garten
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175], and in Kap 13 „Möglichkeits-Garten (KW4-Vorgriff) als innere Praxis"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L545]. No place of that name inside KW4, and no `Garten der Möglichkeiten`.
 
+## 2026-09-24 — correction: `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, a distance
+
+The entry for this document says the Sub-Lokalitäten line comes *eleven lines
+later* than the KW4 heading. It is thirteen: the heading is at L517, the line at
+L530. The quotation, its line and the reading — a place inside KW4 — stand.
+Found by the record audit of 2026-09-24 (`Plan/runs/record-audit-2026-09-24/`,
+9-A15).
+
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
 **Both scales in one document**, as in the Kernwelten document of the same date:

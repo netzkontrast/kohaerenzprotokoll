@@ -23,7 +23,8 @@ any document is half-processed.
 | `capture.py <slug> --count` | `04-counts.txt`, `counts.json` — refuses without `03-candidates.md` |
 | `profile.py <slug>` | structural facts to stdout |
 | `profile.py --frontmatter <slug>` | the census header, drawn from the manifest so no identifier is ever typed |
-| `reconcile.py <slug>` | `Plan/runs/<slug>/reconcile-pre.json` and a printed classification |
+| `reconcile.py <slug>` | `Plan/runs/<slug>/reconcile-pre.json` and a printed classification, ending with the sweep: pages the text names that the census does not list |
+| `reconcile.py --sweep-open` | nothing — the sweep hits in every read document that no reading and no row in `Plan/runs/sweep.jsonl` settles; exit 1 while any is open |
 | `agree.py <slug> [<a.md> <b.md>] [--names]` | nothing — every `03-candidates*.md` in the run, or two lists, compared pairwise: F1, containment both ways, surfaces held only inside a longer one, forms the document does not write |
 
 `read.py` serves the same text in both directions and neither stores anything:
