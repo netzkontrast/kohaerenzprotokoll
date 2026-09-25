@@ -228,7 +228,7 @@ in dem das Geflecht klingt." ^[koharenz-protokoll-strukturierter-outline-2026-05
 
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-Kap 33 holds her effect and Kap 38 her appearance: the Garten der stillen Präsenz is the
+Kap 33 holds her effect and Kap 38 her appearance: the [[garten-der-stillen-praesenz|Garten der stillen Präsenz]] is the
 „Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327], and at Kap 38 „Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593] (C7).
 Her grammar is a rule: „R-10 — Juna ist nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087] — „Grammatisch und
 ontologisch" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087]. Her trace is warmth, „Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347] (C11).

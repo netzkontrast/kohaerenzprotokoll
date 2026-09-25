@@ -153,7 +153,7 @@ two counts. Found by the record audit of 2026-09-24, which read the document
 against every record (`Plan/runs/record-audit-2026-09-24/`), and checked here
 line by line.
 
-**It writes `Wächter`, for the Guardians, in the same line as `Guardian`.** Kap
+**It writes `Wächter`, for the [[guardians|Guardians]], in the same line as `Guardian`.** Kap
 31 is „Auflösung der Guardians" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363], and that line ends
 „Leitmotiv: Wächter, die in Lichtstaub aufgehen." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] Its analytic clause
 says „Guardians als Sub-Antagonisten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]; the leitmotif names the same

@@ -113,7 +113,7 @@ needs to decide whether Kap 33 is an appearance or an effect.
 
 **A POV row for [[juna|Juna]], the day before the character bible.** The lock-in's
 routing table lists „Juna-POV (selten, Erscheinungsmodi offen)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L319] as a
-POV instance of its own, dominated by Storyform A: rare scenes with Juna as
+POV instance of its own, dominated by Storyform A: rare scenes with [[juna|Juna]] as
 their subject, while how she appears stays open — „Wie taucht Juna auf?"
 ^[dramatica-dual-storyform-status-2026-05-07-md.md:L407], which the [[juna]] page holds. It places no chapter, so it speaks
 less to Kap 33 against Kap 38 than to the rule this record holds from the
@@ -125,7 +125,7 @@ document. Found by the record audit of 2026-09-24
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
 **Effect in Kap 33, appearance in Kap 38 — the reading `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md` gave.**
-The Garten der stillen Präsenz, in the Externe Ebene, is the
+The [[garten-der-stillen-praesenz|Garten der stillen Präsenz]], in the [[externe-ebene|Externe Ebene]], is the
 „Setting der Juna-Wirkung (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L327]; in the reveal timeline, Kap 38:
 „Juna erscheint direkt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593]. And a rule that makes the distinction grammatical:
 „R-10 — Juna ist nie Subjekt, nur Wirkung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1087] Another source for Kap 38; like

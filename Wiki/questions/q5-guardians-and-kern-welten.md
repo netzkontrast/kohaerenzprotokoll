@@ -108,7 +108,7 @@ went.
 
 **The pairing retired, by name.** „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] —
 „Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] — „KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42].
-Where the two Guardians act: KW2 is the Mnemosyne-Archipel; KW3 is where
+Where the two [[guardians|Guardians]] act: KW2 is the Mnemosyne-Archipel; KW3 is where
 „Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171] The Erasure-Pol
 has no other name here and none is marked open. [[sophia|Sophia]] appears only in the
 retired pairing; no absorption is described.

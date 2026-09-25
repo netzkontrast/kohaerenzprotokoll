@@ -137,7 +137,7 @@ places 734. The Kap-0 crisis ends in the separation —
 „Stille Wacht → Perturbation → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L627] —
 and 734 appears only as what Kael is: in Kap 0 „n/a (existiert als Komp 734)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L581].
 
-It adds a conflict of its own inside the Genesis: whether Alex arose in the separation
+It adds a conflict of its own inside the [[genesis|Genesis]]: whether [[alex|Alex]] arose in the separation
 (the `Charakter-Bibel`, L1460) or before it — „Alex-Vorform wird in Bewegung 4 vor dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461] —
 „Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462]. It proposes
 „Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1464]

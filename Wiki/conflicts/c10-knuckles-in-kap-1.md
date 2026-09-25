@@ -82,7 +82,7 @@ Kapitel-Kompendium's Kap-0 lock; the image belongs to [[kael|Kael]], not to a ch
 
 ## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
-**Kap 0 alone, stated four times, and dated to the Kompendium.** KW1's Risse:
+**Kap 0 alone, stated four times, and dated to the Kompendium.** KW1's [[risse|Risse]]:
 „Blutende Knöchel ohne Erinnerung an die Verletzung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L90], annotated
 „Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos. Wiederkehr am Ende offen." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L90]
 The Landauer strand repeats it, „Knöchel-Blutung *in Kap 0*, in Kap 1 spurlos" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445]; the

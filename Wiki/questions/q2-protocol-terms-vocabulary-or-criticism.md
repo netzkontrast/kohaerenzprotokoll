@@ -47,5 +47,5 @@ documents read without any instance answers it for the family.
 
 **None of the eight occurs.** The document counts the novel's protocols:
 „Suppression / Kohärenz / Re-Containment (frühere zwölf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1184]. None
-of ANI, ARS, ECR, PMS, RSA, SNK, ZTV or Nullpunkt-Protokoll is among the three; whether
+of ANI, ARS, ECR, PMS, RSA, SNK, ZTV or [[nullpunkt-protokoll|Nullpunkt-Protokoll]] is among the three; whether
 any was among the retired twelve it does not say.
