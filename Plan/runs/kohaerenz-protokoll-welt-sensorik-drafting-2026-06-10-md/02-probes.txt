@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      48
+  backslash escapes      1172
+  typographic marks      167
+  ascii quotes           50
+
+# inflection families -- one term, several surfaces
+  erinn    Erinnern, Erinnerung, Erinnerungen, Erinnerungs, Erinnerungsfragment, Erinnerungslandschaft
+  erzäh    Erzähl, Erzähler, Erzählform, Erzählformen, Erzähllogik, Erzählung
+  schwe    Schweiß, Schwelle, Schwellen, Schwellpunkt, Schwere, Schweregrad
+  spieg    Spiegel, Spiegelbild, Spiegels, Spiegelung, Spiegelungen, Spiegelungs
+  story    Storyform, Storyforming, Storyforms, Storypoint, Storypoints, Storyweaving
+  archi    Archipel, Architektonische, Architektur, Archiv, Archivar
+  daten    Daten, Datenstrom, Datenströme, Datenträger, Datenverarbeitungsknoten
+  struk    Struktur, Strukturell, Strukturelle, Strukturen, Strukturfragen
+  entsc    Entscheid, Entscheidung, Entscheidungen, Entscheidungs
+  erste    Erste, Erster, Erstereignis, Erstereignisse
+  gesch    Geschenk, Geschichte, Geschmack, Geschwindigkeit
+  licht    Licht, Lichtbahnen, Lichtkegel, Lichtkegeln
+  reali    Realität, Realitätsbruch, Realitätsebenen, Realitätsstränge
+  reson    Resonanz, Resonanzbildern, Resonanzkaskade, Resonanzlandschaft
+  stimm    Stimme, Stimmen, Stimmungen, Stimmungs
+  syste    System, Systemhum, Systemischer, Systemlog
+  trenn    Trennung, Trennungs, Trennungsprotokoll, Trennungsprotokolls
+  wiede    Wiederholung, Wiederkehr, Wiederkehrmuster, Wiederzusammenfinden
+  antei    Anteil, Anteile, Anteils
+  arbei    Arbeitsbereich, Arbeitsplatz, Arbeitsraum
+  bewus    Bewusst, Bewusstsein, Bewusstseins
+  bilan    Bilanz, Bilanzen, Bilanzgrenze
+  doppe    Doppeldeutigkeit, Doppellesarten, Doppellesbares
+  draft    Draft, Drafting, Drafts
+  ersch    Erscheint, Erscheinungen, Erscheinungsmodus
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Charakter
+  Alle < Alles
+  Alle < Halle
+  Alle < Valley
+  Alle < Allegorie
+  Auch < Bauchreaktionen
+  Bahn < Lichtbahnen
+  Beat < Beats
+  Bild < Bilder
+  Bild < Bildung
+  Bild < Spiegelbild
+  Bild < Bildhaftigkeit
+  Bild < Resonanzbildern
+  Buch < Buchs
+  Code < Stilcode
+  Dual < Dualität
+  Echo < Echos
+  Ecke < Becken
+  Ecke < Schrecken
+  Eine < KEINE

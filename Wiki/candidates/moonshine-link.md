@@ -1,10 +1,10 @@
 ---
 term: Moonshine-Link
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,3 +74,8 @@ open here too: „Moonshine-Boundary" ^[koharenz-protokoll-strukturierter-outlin
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - the source proposes resonance and recognition rather than information transfer as a boundary: „er überträgt Resonanz, nicht Information“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L802]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+Named only as an open point: „OQ-F (Moonshine-Boundary):" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1429] „wer kann den Link spüren, mit
+welcher Reichweite" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1429]. At Kap 30, „Moonshine-Bewusstsein" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L589].

@@ -3,7 +3,7 @@ id: Q3
 question: How many Kern-Welten exist, how many alters, and does one Kern-Welt correspond to one alter?
 status: open
 raised_by: ["kern-welten", "alters", "did", "konstrukt-stadt", "resonanz-landschaft", "grenzfeste", "moeglichkeits-garten", "realitaetsebenen"]
-documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+documents: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -144,3 +144,11 @@ table (L184). No correspondence stated.
 „Welt-Architektur (die vier Kernwelten)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L167]. The correspondence it does state
 runs to classes of Alters: KW1 „Rationalisierung, ANP-Domäne" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172], KW2
 „Trauma-Erinnerung, EP-Domäne" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L173] — not one world per Alter.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Four worlds as act markers, thirteen Alters.** „KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42],
+one reality of six levels (L40, L42). The Alters: „13 Alter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1185],
+„exakter Roster (siehe Anteile-Profil); dekanonisierte Namen *nie* verwenden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1185] (J84).
+Correspondence is by trigger, not by world: each EP-Alter drives a Riss type (§3.1,
+L404–L410), and each world has its own (§3.2, L417–L421). No world belongs to an Alter.

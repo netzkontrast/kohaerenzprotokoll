@@ -1,10 +1,10 @@
 ---
 term: Trennungsprotokoll
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C12
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -95,3 +95,10 @@ erschien, wird als das verstanden, was es immer war — die Geburt der Welt" ^[k
 
 - AEGIS separates itself in misreading the birth of the world: „Das Trennungsprotokoll war der Versuch, die eigene Geburt zu verhindern“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L68]
 - third beat after component 734: „Trennungsprotokoll (Krise)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L206]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The end of the Kap-0 crisis: „Stille Wacht → Perturbation → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L627],
+echoed in Kap 40 „Schmerz bleibt, als Preis, nicht mehr als Tragödie" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L628]. In the restated
+Genesis-4-Beat it is the third beat (L1174). The document's own open conflict:
+„Alex-Vorform wird in Bewegung 4 vor dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461]

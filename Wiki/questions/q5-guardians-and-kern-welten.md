@@ -3,7 +3,7 @@ id: Q5
 question: Five Guardians, four Kern-Welten — is each Guardian paired with a world, and what is the Erasure-Pol?
 status: open
 raised_by: ["guardians", "kern-welten", "logos", "mnemosyne", "cerberus", "kairos", "sophia"]
-documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+documents: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 conflict: C6, C9
 gathered: "2026-09-24"
 ---
@@ -103,3 +103,12 @@ absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172],
 
 **[[sophia|Sophia]] is placed**: latent, in KW4 — the first read 2026 source to say where she
 went.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**The pairing retired, by name.** „KW1=LogOS, KW4=Kairos/Sophia" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] —
+„Beides ist dekanonisiert" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] — „KW1–4 sind Akt-Marker, nicht je ein Guardian-Reich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42].
+Where the two [[guardians|Guardians]] act: KW2 is the Mnemosyne-Archipel; KW3 is where
+„Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171] The Erasure-Pol
+has no other name here and none is marked open. [[sophia|Sophia]] appears only in the
+retired pairing; no absorption is described.

@@ -1,10 +1,10 @@
 ---
 term: Verschränkungs-Insel
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -24,3 +24,8 @@ The konsolidiertes Konzept names it the same way (L538), not attached.
 ## Reading — `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, 2026-06-10
 
 „Verschränkungs-Insel im Approach Inmost Cave (Kap 33)." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L416]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+In the Überwelt: the „Jenseits-des-Ereignishorizonts-Bereich" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299] is the
+„Verschränkungs-Insel (Kap 33)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L299].

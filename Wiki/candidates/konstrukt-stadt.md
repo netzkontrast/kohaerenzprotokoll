@@ -1,10 +1,10 @@
 ---
 term: Konstrukt-Stadt
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: C9
-ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["guardians-und-kern-welten-konzept", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Die Konstrukt-Stadt"]
 gathered: "2026-09-17"
 ---
@@ -122,3 +122,11 @@ Logos-Prime), fragmentiert ohne Erinnerung." ^[koharenz-protokoll-strukturierter
 of the beat, as the author decided C9. Its sensory line: „sterile Leere, Ozon,
 weißes Licht, 21°C" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265], and „das sterile Setting ist die Innere Weite
 (Überwelt) aus Kap 0" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+„KW1 — Konstrukt-Stadt (Logos-Prime)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L44], labelled `[K]`. „Hyper-strukturierte K₁-Umgebung, die jegliche K₀-Erosion zu eliminieren versucht." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46]
+„Akt-Dominanz. Akt I (Kap 1–13)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L50] „Architektur als Kontrolle." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L54]
+Its temperature is „konstant 21°C" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] — „bis sie es nicht mehr ist" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] — and the number is
+„diegetische Bilanzgrenze; jede Abweichung ist Signal." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L67] Its logic: „Computational Class P" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L71].
+The Konstrukt-Stadt *is* KW1 here, as the author decided for C9.

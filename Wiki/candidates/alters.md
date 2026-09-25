@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 10
-readings: 9
+sources: 11
+readings: 10
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -172,3 +172,8 @@ Multiplizitäts-Schleier-Disziplin hält." ^[koharenz-protokoll-strukturierter-o
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - each alter as a facet of the pre-separation togetherness: „jedes Alter ist eine Facette dessen, was im ewigen Miteinander zusammen war“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L72]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A reset lock counts them: „13 Alter" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1185] — „exakter Roster (siehe Anteile-Profil); dekanonisierte Namen *nie* verwenden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1185] (J84, Q3).
+Hard rule R-3 keeps the word out of Akt I: „Alter, Fragment, ANP, EP, TSDP, DID" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1059].

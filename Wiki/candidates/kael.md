@@ -1,11 +1,11 @@
 ---
 term: Kael
 status: candidate
-sources: 11
-readings: 11
+sources: 12
+readings: 12
 conflict: C10
 aliases: ["Michael"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -200,3 +200,10 @@ wurde" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1241].
 
 - the subjective remainder of the separation: „das, was nach der Trennung subjektiv übrig blieb“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L72]
 - recognises Juna through the echoes: „Kael Juna *wiedererkennt*“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L76]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A reset lock: „Hauptfigur ist Kael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1188] — „Kein Michael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1188]. In KW1,
+„Kaels formelle Rolle: Komponente 734, Archivar Klasse II" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L105]. The reader knows from Kap 0
+„dass Kael Komp 734 ist" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L572]. The Kap-1 opening sentence is his last in Kap 39:
+„Das Licht ist schon da, als ich erwache." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L633].

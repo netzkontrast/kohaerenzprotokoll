@@ -3,7 +3,7 @@ id: Q4
 question: Which of the four things the corpus calls Wächter is the term, and how do the pages avoid claiming the word?
 status: open
 raised_by: ["aegis", "guardians", "personas", "grenzfeste", "kael"]
-documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+documents: ["guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 conflict: none — nothing contradicts anything; one word is simply doing four jobs
 gathered: "2026-09-17"
 ---
@@ -153,7 +153,7 @@ two counts. Found by the record audit of 2026-09-24, which read the document
 against every record (`Plan/runs/record-audit-2026-09-24/`), and checked here
 line by line.
 
-**It writes `Wächter`, for the Guardians, in the same line as `Guardian`.** Kap
+**It writes `Wächter`, for the [[guardians|Guardians]], in the same line as `Guardian`.** Kap
 31 is „Auflösung der Guardians" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363], and that line ends
 „Leitmotiv: Wächter, die in Lichtstaub aufgehen." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363] Its analytic clause
 says „Guardians als Sub-Antagonisten" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L363]; the leitmotif names the same
@@ -182,3 +182,9 @@ line for one bearer, not distinguished — the line documents 7 and 9 carry, wit
 the Wächter now flowing into [[kael|Kael]]. Found by the sweep of decision 012 on the
 [[guardians]] page; recorded here by its rule 3, since the document takes a
 position on this question and the record held nothing from it.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Two compounds, no bare Wächter.** The Überwelt has „Wächter-Konsolen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L286] and a
+`Wächter-Registry`, „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. The word
+is not used on its own; the registry's entries are the two Guardians.

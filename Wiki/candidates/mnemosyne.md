@@ -1,10 +1,10 @@
 ---
 term: Mnemosyne
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -152,3 +152,12 @@ absorbiert)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L172] 
 First clearly in Kap 14: „Mnemosyne tritt erstmals deutlich auf" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573] — „sie
 agiert subtil, manipulativ" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573]. In Akt III: „Guardians als Sub-Antagonisten
 (Mnemosyne, Erasure-Pol)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1005].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+One of two Guardians — „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183] — and
+entered in the Überwelt's `Wächter-Registry` ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. §8 is hers.
+„Mnemosyne kann Kael" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692] „den Schmerz löschen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692]: „Heilung durch Auslöschung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L692]
+„Mnemosyne ist nicht bösartig, sondern überfordert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696] „Sie ist die einzige Stimme im AEGIS-System, die mehr Wahrheit kennt als AEGIS — und schweigt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]
+She is „die einzige Guardian-Stimme" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704] in which Stilebene 2 shows, and
+„Sie darf metaphorisch sprechen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L704]. Setting: „Kanonisch gespiegelt in Kap 10" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L700].

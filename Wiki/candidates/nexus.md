@@ -1,10 +1,10 @@
 ---
 term: Nexus
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -91,3 +91,7 @@ Information als Aufenthaltsraum" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2
 
 Only as KW3's second name: „KW3 — Cerberus-Labyrinth / Überwelt-Nexus." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L410]
 (J63)
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A KW4 sub-location: „Knotenpunkt mehrerer Realitätsstränge" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L273].

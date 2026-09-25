@@ -1,10 +1,10 @@
 ---
 term: Sektor 04
 status: candidate
-sources: 1
-readings: 1
+sources: 2
+readings: 2
 conflict: none
-ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -20,3 +20,8 @@ Wohneinheit 734 / Transitkorridor Delta-7" ^[kohaerenz-protokoll-kernwelten-voll
 
 The konsolidiertes Konzept lists it among KW1's sub-locations too (L479 of that
 document), not attached as a reading.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A KW1 sub-location: „Grenzbereich; erste Risse als geometrische Inkonsistenzen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104], anchored at
+„Kap 2 ff. (erster Riss)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L104].

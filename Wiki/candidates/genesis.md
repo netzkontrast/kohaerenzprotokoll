@@ -1,10 +1,10 @@
 ---
 term: Genesis
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: C12
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -80,3 +80,11 @@ document).
 - the separation as beat 3: „Trennungsprotokoll (Krise)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L206]
 - the fourth beat in Kap 39: „Wir-AEGIS-plural (in Kap 39 vollzogen)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L207]
 - flashback allocation is explicitly provisional: „Aber das sind Vorschläge“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L790]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+The lock index restates, citing the konsolidiertes Konzept, a „Genesis-4-Beat" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174]:
+„Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174]; and citing the Kompendium,
+„vier Beats (mit Wir-AEGIS-plural als Beat 4)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1212]. Komponente 734 is no beat in either (C12).
+Five motifs are „Erstereignisse" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L516] of Kap 0 — Rauschen, Form, Klick, Phantom, Resonanz (§5).
+It names a Genesis conflict of its own: „Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462].
