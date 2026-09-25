@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -41,3 +41,9 @@ In the glossary's Alter table: role „Caregiver" ^[kohaerenz-protokoll-begriffe
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Function „Bindung, Fürsorge, soziale Harmonie" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L135], correlate „Maxwells Dämon" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L135], arc „Anker (Akt I) → Kudzu (Akt II) → Akzeptanz (Akt III)" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L135]. First in Kap 5, as „erste Schatten von Rhys (Caregiver) als Wärme die er nicht versteht" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L357].
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+„Rhys (Caregiver)" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L268]. DKT correlate: „Maxwellscher Dämon / Wärmesenke." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L282] Riss: „Wärme-Akkumulation, fiebrige Hände." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L286]
+Arc: „Kudzu-Eskalation in Akt II" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L310] — his care becomes smothering. The central ANP conflict is his with
+Selene: „Zentraler ANP-ANP-Konflikt des Buchs." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L822]
