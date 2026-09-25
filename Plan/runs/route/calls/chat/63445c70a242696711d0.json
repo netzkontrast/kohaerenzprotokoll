@@ -1,0 +1,61 @@
+{
+ "model": "nex-agi/nex-n2.5-mini:free",
+ "provider": "Nex AGI",
+ "seconds": 1.5,
+ "content": "[[ ## decision ## ]]\none-term\n\n[[ ## rule ## ]]\nLimina and Liminale Räume both refer to liminal spaces or threshold spaces, so they represent the same concept.\n\n[[ ## completed ## ]]",
+ "response": {
+  "id": "gen-1790323693-uAFZ8Nt0ZvzHZGRvizDW",
+  "object": "chat.completion",
+  "created": 1790323693,
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "provider": "Nex AGI",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "[[ ## decision ## ]]\none-term\n\n[[ ## rule ## ]]\nLimina and Liminale Räume both refer to liminal spaces or threshold spaces, so they represent the same concept.\n\n[[ ## completed ## ]]",
+     "refusal": null,
+     "reasoning": "\nWe need answer only structured fields. Need decide same concept? \"Limina\" Latin plural? \"Liminal spaces\" in English. Limina is plural of limen, threshold/liminal places? \"Liminale Räume\" German = liminal spaces. Same concept likely. Need output exact fields and completed. Rule German? Need concise.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "\nWe need answer only structured fields. Need decide same concept? \"Limina\" Latin plural? \"Liminal spaces\" in English. Limina is plural of limen, threshold/liminal places? \"Liminale Räume\" German = liminal spaces. Same concept likely. Need output exact fields and completed. Rule German? Need concise.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 944,
+   "completion_tokens": 118,
+   "total_tokens": 1062,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 896,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 77,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

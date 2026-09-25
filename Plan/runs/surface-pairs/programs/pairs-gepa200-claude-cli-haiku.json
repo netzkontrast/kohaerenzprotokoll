@@ -1,0 +1,36 @@
+{
+ "step": "pairs-gepa200-claude-cli-haiku",
+ "rule_first": "plural",
+ "canaries_merged": [],
+ "at": "2026-09-25T08:31:16+00:00",
+ "instructions": "Du bekommst zwei Oberflächenformen (Wort/Phrase) aus einem Korpus (einem Wiki/einer\nBegriffsdatenbank zu einem fiktiven bzw. konzeptuellen Universum, z. B. mit Klassen,\nInstanzen, Kürzeln und Zitaten externer, realweltlicher Konzepte). Entscheide, ob die\nbeiden Oberflächenformen denselben Begriff im Korpus bezeichnen (one-term) oder zwei\nverschiedene Begriffe (two-terms).\n\nGib zwei Felder aus:\n- decision: \"one-term\" oder \"two-terms\"\n- rule: eine knappe Begründung, die exakt benennt, welche der folgenden Regeln (in\n  dieser Prüfreihenfolge) die Entscheidung trägt.\n\nPrüfe die Regeln in dieser Reihenfolge und wende die erste zutreffende an:\n\n1. Referenzprüfung für zitierte externe Konzepte (höchste Priorität, vor allen\n   anderen Regeln):\n   Teilt eine der beiden Formen den Wortstamm mit einem im Korpus zitierten,\n   externen/realweltlichen Konzept (z. B. einem akademischen Begriff, der als\n   Referenz/Zitat auftaucht und nicht selbst ein korpuseigener Begriff ist)?\n   Prüfe zuerst, ob die Form dieses externe, zitierte Konzept referenziert, BEVOR\n   du sie als bloße Oberflächenvariante des anderen Kandidaten behandelst. Ist das\n   der Fall: two-terms – der korpuseigene Begriff und das zitierte externe Konzept\n   bleiben getrennt, auch wenn sie morphologisch verwandt sind (Beispiel: \"Limina\"\n   referenziert ein zitiertes externes Konzept, \"Liminale Räume\" ist der\n   korpuseigene Begriff → two-terms, trotz gemeinsamen Stamms).\n\n2. Nummerierte Instanz einer Klasse:\n   Ist eine der Formen ein Kürzel/eine nummerierte Instanz einer im Korpus\n   definierten Klasse (z. B. \"KW1\" als Instanz der Klasse \"Kern-Welt\")? Das ist\n   lediglich eine Lesart (reading) derselben Klasse, kein eigenständiger neuer\n   Begriff → one-term.\n\n3. Bestimmter Artikel ist nie eine Begriffsgrenze:\n   Das Vorhandensein/Fehlen eines bestimmten Artikels (\"der\", \"die\", \"das\" etc.)\n   ändert die Entscheidung nicht.\n\n4. Komposita werden nach dem eingeordnet, was sie benennen, nie nach ihrem Kopf:\n   Vergleiche den vollen benannten Begriff/das Gesamtkonzept eines Kompositums,\n   nicht nur sein grammatisches Kopfwort. (Achtung: Regel 1 hat Vorrang – prüfe\n   also erst, ob ein Kompositumsbestandteil ein zitiertes externes Konzept ist,\n   bevor du diese Regel anwendest.)\n\n5. Gegensätze sind nie derselbe Begriff:\n   Begriffspaare, die Gegensätze/Gegenteile zueinander sind (z. B.\n   Negentropie/Entropie), sind immer two-terms.\n\nFormuliere im Feld \"rule\" explizit, welche Nummer (1–5) angewendet wurde und warum\nsie hier greift statt einer anderen scheinbar naheliegenden Regel.",
+ "demos": 0,
+ "state": {
+  "traces": [],
+  "train": [],
+  "demos": [],
+  "signature": {
+   "instructions": "Du bekommst zwei Oberflächenformen (Wort/Phrase) aus einem Korpus (einem Wiki/einer\nBegriffsdatenbank zu einem fiktiven bzw. konzeptuellen Universum, z. B. mit Klassen,\nInstanzen, Kürzeln und Zitaten externer, realweltlicher Konzepte). Entscheide, ob die\nbeiden Oberflächenformen denselben Begriff im Korpus bezeichnen (one-term) oder zwei\nverschiedene Begriffe (two-terms).\n\nGib zwei Felder aus:\n- decision: \"one-term\" oder \"two-terms\"\n- rule: eine knappe Begründung, die exakt benennt, welche der folgenden Regeln (in\n  dieser Prüfreihenfolge) die Entscheidung trägt.\n\nPrüfe die Regeln in dieser Reihenfolge und wende die erste zutreffende an:\n\n1. Referenzprüfung für zitierte externe Konzepte (höchste Priorität, vor allen\n   anderen Regeln):\n   Teilt eine der beiden Formen den Wortstamm mit einem im Korpus zitierten,\n   externen/realweltlichen Konzept (z. B. einem akademischen Begriff, der als\n   Referenz/Zitat auftaucht und nicht selbst ein korpuseigener Begriff ist)?\n   Prüfe zuerst, ob die Form dieses externe, zitierte Konzept referenziert, BEVOR\n   du sie als bloße Oberflächenvariante des anderen Kandidaten behandelst. Ist das\n   der Fall: two-terms – der korpuseigene Begriff und das zitierte externe Konzept\n   bleiben getrennt, auch wenn sie morphologisch verwandt sind (Beispiel: \"Limina\"\n   referenziert ein zitiertes externes Konzept, \"Liminale Räume\" ist der\n   korpuseigene Begriff → two-terms, trotz gemeinsamen Stamms).\n\n2. Nummerierte Instanz einer Klasse:\n   Ist eine der Formen ein Kürzel/eine nummerierte Instanz einer im Korpus\n   definierten Klasse (z. B. \"KW1\" als Instanz der Klasse \"Kern-Welt\")? Das ist\n   lediglich eine Lesart (reading) derselben Klasse, kein eigenständiger neuer\n   Begriff → one-term.\n\n3. Bestimmter Artikel ist nie eine Begriffsgrenze:\n   Das Vorhandensein/Fehlen eines bestimmten Artikels (\"der\", \"die\", \"das\" etc.)\n   ändert die Entscheidung nicht.\n\n4. Komposita werden nach dem eingeordnet, was sie benennen, nie nach ihrem Kopf:\n   Vergleiche den vollen benannten Begriff/das Gesamtkonzept eines Kompositums,\n   nicht nur sein grammatisches Kopfwort. (Achtung: Regel 1 hat Vorrang – prüfe\n   also erst, ob ein Kompositumsbestandteil ein zitiertes externes Konzept ist,\n   bevor du diese Regel anwendest.)\n\n5. Gegensätze sind nie derselbe Begriff:\n   Begriffspaare, die Gegensätze/Gegenteile zueinander sind (z. B.\n   Negentropie/Entropie), sind immer two-terms.\n\nFormuliere im Feld \"rule\" explizit, welche Nummer (1–5) angewendet wurde und warum\nsie hier greift statt einer anderen scheinbar naheliegenden Regel.",
+   "fields": [
+    {
+     "prefix": "First:",
+     "description": "${first}"
+    },
+    {
+     "prefix": "Second:",
+     "description": "${second}"
+    },
+    {
+     "prefix": "Decision:",
+     "description": "${decision}"
+    },
+    {
+     "prefix": "Rule:",
+     "description": "die Regel, in einem Satz"
+    }
+   ]
+  },
+  "lm": null
+ },
+ "folds": []
+}

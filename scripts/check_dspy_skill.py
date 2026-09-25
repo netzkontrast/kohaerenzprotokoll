@@ -492,6 +492,76 @@ def p_lm_has_no_temperature_attribute():
     return None if lm.kwargs.get("temperature") == 0.3 else f"temperature is not in lm.kwargs: {lm.kwargs}"
 
 
+def p_json_fallback_literal_is_valueerror():
+    """ChatAdapter fails, JSONAdapter parses valid JSON whose value is outside the Literal,
+    and a bare ValueError escapes — the case lmrun._raised_in_adapter exists for."""
+    from typing import Literal
+
+    class Decide(dspy.Signature):
+        """Decide."""
+        q: str = dspy.InputField()
+        decision: Literal["one-term", "two-terms"] = dspy.OutputField()
+
+    with offline(FixtureLM(["kein format", '{"decision": "maybe"}'])):
+        try:
+            dspy.Predict(Decide)(q="?")
+        except dspy.AdapterParseError:
+            return "the JSON fallback now raises AdapterParseError: lmrun's frame test may be unneeded"
+        except ValueError:   # its wording varies — pydantic's validation text, or „… is not one of …"
+            return None
+    return "a value outside the Literal was accepted through the JSON fallback"
+
+
+def p_rollout_id_busts_cache_at_zero_temperature():
+    """Two rollout ids at temperature 0 are two real calls; the same id again is a hit —
+    whatever DSPy's own warning says. The completion is faked, the cache a temp dir."""
+    import litellm
+    from litellm.utils import Choices, Message, ModelResponse
+    calls = []
+
+    def fake(*, cache, num_retries, retry_strategy, **request):
+        calls.append(1)
+        return ModelResponse(choices=[Choices(message=Message(role="assistant", content="ja"))],
+                             usage={"prompt_tokens": 1, "completion_tokens": 1, "total_tokens": 2}, model="probe")
+    saved = litellm.completion
+    litellm.completion = fake
+    try:
+        with tempfile.TemporaryDirectory() as tmp:
+            dspy.configure_cache(enable_disk_cache=True, enable_memory_cache=True, disk_cache_dir=tmp)
+            lm = dspy.LM("openai/probe", temperature=0)          # cache on, the default
+            for rollout in (1, 2, 1):
+                lm("frage", rollout_id=rollout)
+    finally:
+        litellm.completion = saved
+        dspy.configure_cache()
+    return None if len(calls) == 2 else f"rollout ids 1, 2, 1 at temperature 0 made {len(calls)} real calls, not 2"
+
+
+def p_gepa_kwargs_fail_at_compile():
+    """A key gepa.optimize() does not take constructs dspy.GEPA and raises only at .compile()."""
+    lm = FixtureLM(fill(a="x"))
+    with offline(lm):
+        optimizer = dspy.GEPA(metric=lambda gold, pred, trace=None, pred_name=None, pred_trace=None: 0.0,
+                              reflection_lm=lm, max_metric_calls=5,
+                              gepa_kwargs={"enable_tool_optimization": True})
+        try:
+            optimizer.compile(dspy.Predict("q -> a"), trainset=[dspy.Example(q="hi", a="hi").with_inputs("q")])
+        except TypeError as error:
+            return None if "enable_tool_optimization" in str(error) else f"a different TypeError: {error}"
+    return "compile() accepted a keyword gepa.optimize() does not take"
+
+
+def p_gepa_tracking_lm_cost_inert():
+    """GEPA's own TrackingLM counts tokens around a plain callable and never a cost."""
+    from gepa.lm import TrackingLM
+    lm = TrackingLM(lambda prompt: "x" * 400)
+    for _ in range(5):
+        lm("y" * 800)
+    if lm.total_cost != 0.0:
+        return f"TrackingLM reports a cost now: {lm.total_cost}"
+    return None if lm.total_tokens_in and lm.total_tokens_out else "TrackingLM counted no tokens"
+
+
 def p_react_async_tool_swallowed():
     import warnings
 
@@ -561,6 +631,10 @@ PROBES = {
     "lm-has-no-temperature-attribute": p_lm_has_no_temperature_attribute,
     "react-async-tool-swallowed": p_react_async_tool_swallowed,
     "image-refuses-local-path": p_image_refuses_local_path,
+    "rollout-id-busts-cache-at-zero-temperature": p_rollout_id_busts_cache_at_zero_temperature,
+    "json-fallback-literal-is-valueerror": p_json_fallback_literal_is_valueerror,
+    "gepa-kwargs-fail-at-compile": p_gepa_kwargs_fail_at_compile,
+    "gepa-tracking-lm-cost-inert": p_gepa_tracking_lm_cost_inert,
 }
 
 

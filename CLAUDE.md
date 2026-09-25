@@ -963,10 +963,11 @@ every piece is a pattern of tens of lines, ported with its source named.
 
 | script | what it guarantees |
 |---|---|
-| `lmrun.py` | how `pairs.py` and `graphrag.py` call a model: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision |
+| `lmrun.py` | how `pairs.py` and `graphrag.py` call a model: `cache=False`, one record per call in `Plan/runs/<subject>/lm/`, status `answered` / `refused` / `unparsed` / `unreachable` — never a score — and **a real model refused without `approval=`** naming the author's decision. `make_lm()` builds three kinds of name (decision 011): `claude-cli/…`, `route/…` — one free OpenRouter model through `route.py`, pinned — or a LiteLLM string |
+| `claude_lm.py` | Claude as a DSPy model through `claude -p`, first party (decision 011): no tools, no MCP, no settings, no session written, an empty working directory so no `CLAUDE.md` is loaded, thinking off unless asked, and cost and failures recorded the way `lmrun` reads them |
 | `lm_fixture.py` | an offline `dspy.BaseLM`; `offline()` hides every `*_API_KEY` and replaces `litellm.completion` with a refusal, because a scanned repository's unmocked test made a live call from this container |
 | `baseline.py` | `Plan/runs/baselines.jsonl`, append-only; `compare` fails a candidate that does not beat the **floor** — the floor candidate's newest row on the same trainset — not only one that fell since the last row, and a `vetoed` row fails whatever its score |
-| `pairs.py` | one-term-or-two: a rule first (`fold()`, or the plural rule of decision 010), a model only on the residual, stratified folds, repeats, and every candidate asked the never-merge canaries; J5 is excluded from model training, and the `labeled` rung reserves two demo slots for other hard negatives |
+| `pairs.py` | one-term-or-two: a rule first (`fold()`, or the plural rule of decision 010), a model only on the residual, folds that keep a repeated surface pair together, repeats, and every compiled program asked the never-merge canaries as often as a held-out pair; J5 is excluded from model training, and the `labeled` rung reserves two demo slots for other hard negatives. `report` splits every ledger row into merges found and **false merges**, by judgement id; `--evidence` adds the document lines code places (never to a free model); `final` compiles once and saves the program |
 | `check_dspy_surface.py` | asserts, by `inspect.signature`, each DSPy parameter this repository passes |
 | `check_dspy_skill.py` | asserts what the `dspy` skill teaches: every parameter and default in its `surface` blocks, one offline probe per `[checked: …]` mark, every repository path it names |
 | `check_skills.py` | the skill spec, and P6: `.claude/skills/<name>` is a symlink into `.agents/skills/` |
@@ -976,11 +977,16 @@ every piece is a pattern of tens of lines, ported with its source named.
 decides 48 <!--state:pairs.plural_correct-->** — a row on the ledger, not part of
 `fold()`, so reconciliation is unchanged. Every optimizer on the ladder —
 `labeled`, `bootstrap`, `inferrules`, `simba`, `gepa` — runs end to end with
-`--dry-run`. **None has run against a real model**: that sends corpus words to
-a third party, and the author has not said yes to it. `scripts/rlm_ingest.py`
-now requires `--approval` for the same reason, turns its cache off, sets a call
-budget, hands the model `find_line` and `count` as tools, and measures how far
-into the document its verified citations reach.
+`--dry-run`. **On 2026-09-25 it ran on real models for the first time**, under
+decision 011 — the author's „Use dspy Optimierung on the Scripts" and „Add
+openrouter free Models in the mix": Claude through `claude -p`, and OpenRouter's
+free models through `route.py`. `python3 scripts/pairs.py report` prints every
+row; `Plan/concept/dspy-optimization_2026-09-25.md` reads them. **No model's
+decision has entered `judgements.jsonl`**: a row on the ledger is a measurement,
+and a merge a model proposes is still a person's call. `scripts/rlm_ingest.py`
+requires `--approval`, turns its cache off, sets a call budget, hands the model
+`find_line` and `count` as tools, and measures how far into the document its
+verified citations reach.
 
 **Not every model call goes through `lmrun.py`.** `rlm_ingest.py` builds its own
 `dspy.LM` with the same two refusals — cache off, `--approval` required.
@@ -991,7 +997,11 @@ for direct calls under decision 007: free models only, the consent file where
 repeat made fresh by `attempt > 0` rather than by turning the record off (P18).
 One rule — no corpus text leaves without the author's decision — now has three
 encodings, which is the drift P6 names. Decision 008 keeps all three as they are
-until one changes its rule and the others do not.
+until one changes its rule and the others do not. **For a DSPy program on a free
+model they now compose rather than repeat**: `lmrun.make_lm("route/…")` sends the
+program's calls through `route.py`'s proxy, so `lmrun` holds the approval and the
+per-call record and `route.py` the price, the data policy, the twelve-word guard
+and a pin to the one model the run measures.
 
 **`.agents/skills/dspy` is where the knowledge behind these scripts lives**,
 sorted by the job at hand: API, optimizers, metrics, data, testing, RLM,

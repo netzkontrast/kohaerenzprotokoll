@@ -1,54 +1,54 @@
 {
- "probed": "2026-09-24T18:30:45+00:00",
+ "probed": "2026-09-25T07:43:10+00:00",
  "policy": {
   "data_collection": "deny"
  },
- "listed": 458,
+ "listed": 460,
  "free": 20,
  "chat": {
   "nex-agi/nex-n2.5-mini:free": {
    "context": 262144,
-   "seconds": 3.8,
+   "seconds": 2.2,
    "status": "ok",
    "provider": "Nex AGI"
   },
   "nex-agi/nex-n2.5-pro:free": {
    "context": 262144,
-   "seconds": 58.8,
+   "seconds": 5.8,
    "status": "ok",
    "provider": "Nex AGI"
   },
   "inclusionai/ling-3.0-flash-sante:free": {
    "context": 262144,
-   "seconds": 1.5,
+   "seconds": 1.8,
    "status": "ok",
    "provider": "Novita"
   },
   "inclusionai/ling-3.0-flash-fin:free": {
    "context": 262144,
-   "seconds": 2.6,
+   "seconds": 2.1,
    "status": "ok",
    "provider": "Novita"
   },
   "qwen/qwen3.8-27b:free": {
    "context": 262144,
-   "seconds": 1.1,
+   "seconds": 0.9,
    "status": "rate-limited"
   },
   "dots-studio/dots-3-note-preview:free": {
    "context": 512000,
-   "seconds": 2.6,
+   "seconds": 3.9,
    "status": "ok",
    "provider": "AtlasCloud"
   },
   "liquid/lfm-2.5-2.6b:free": {
    "context": 65536,
-   "seconds": 1.0,
+   "seconds": 0.8,
    "status": "data-policy"
   },
   "nvidia/nemotron-3.5-lightning:free": {
    "context": 1000000,
-   "seconds": 0.9,
+   "seconds": 0.8,
    "status": "data-policy"
   },
   "thinkingmachines/inkling-small:free": {
@@ -58,12 +58,12 @@
   },
   "poolside/laguna-s-2.1:free": {
    "context": 262144,
-   "seconds": 0.9,
+   "seconds": 0.8,
    "status": "data-policy"
   },
   "thinkingmachines/inkling:free": {
    "context": 1048576,
-   "seconds": 0.9,
+   "seconds": 1.0,
    "status": "forbidden"
   },
   "poolside/laguna-xs-2.1:free": {
@@ -84,32 +84,33 @@
   },
   "nvidia/nemotron-3.5-content-safety:free": {
    "context": 128000,
-   "seconds": 0.3,
+   "seconds": 0.2,
    "status": "data-policy"
   },
   "nvidia/nemotron-3-ultra-550b-a55b:free": {
    "context": 1000000,
-   "seconds": 0.4,
+   "seconds": 0.3,
    "status": "data-policy"
   },
   "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free": {
    "context": 256000,
-   "seconds": 0.4,
+   "seconds": 0.3,
    "status": "data-policy"
   },
   "google/gemma-4-26b-a4b-it:free": {
    "context": 262144,
-   "seconds": 0.4,
+   "seconds": 0.3,
    "status": "rate-limited"
   },
   "google/gemma-4-31b-it:free": {
    "context": 262144,
-   "seconds": 0.4,
-   "status": "rate-limited"
+   "seconds": 1.1,
+   "status": "ok",
+   "provider": "Google AI Studio"
   },
   "nvidia/nemotron-3-super-120b-a12b:free": {
    "context": 262144,
-   "seconds": 0.2,
+   "seconds": 0.3,
    "status": "data-policy"
   }
  },

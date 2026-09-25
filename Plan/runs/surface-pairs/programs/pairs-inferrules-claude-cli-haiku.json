@@ -1,0 +1,214 @@
+{
+ "step": "pairs-inferrules-claude-cli-haiku",
+ "rule_first": "plural",
+ "canaries_merged": [],
+ "at": "2026-09-25T08:10:36+00:00",
+ "instructions": "Sind die beiden Oberflächenformen derselbe Begriff im Korpus (one-term)\noder zwei verschiedene Begriffe (two-terms)? Ein bestimmter Artikel ist nie\neine Begriffsgrenze. Ein Kompositum wird nach dem eingeordnet, was es\nbenennt, nie nach seinem Kopf. Gegensätze wie Negentropie/Entropie sind nie\nein Begriff. Nenne die Regel, nach der du entscheidest.\n\nPlease adhere to the following rules when making your prediction:\n1. **Morphological markers are transparent**: German articles (der/die/das), plural endings (-s, -e for English, -e for German), and scope-qualifying adjectives do not create term boundaries—they are inflectional or adjectival modifiers of the base term.\n\n2. **Compounds are atomic units**: A hyphenated or closed compound is its own distinct token; when a longer form is a compound containing a shorter form as one element, they represent different terms (the compound names an entity, the component names a property or concept).\n\n3. **Semantic affixes create new terms selectively**: Prefixes indicating negation (Negentropie), temporal precedence (Prä-), or ontological stages (Vorstufe) create new terms; prefixes indicating later states or qualifications of the same bearer do not.\n\n4. **Aliases and contextual variants don't split terms**: A slash between two names already established in the wiki, or within a heading indicating an apposition or role, marks an alias or variant reading, not a term boundary; similarly, leading qualifiers in titles don't split.\n\n5. **Instances and inflections index their class**: Numbered instances (KW1, Kernwelt 1), plural forms, and enumerated readings belong to their base class term and are not independent terms.\n\n6. **Contextual frames override structural containment**: A term cited in a title, within a compound project name, or as part of an external standard reference maintains its own identity even when structurally nested; structural containment alone does not make a form a surface variant of its component.",
+ "demos": 16,
+ "state": {
+  "traces": [],
+  "train": [],
+  "demos": [
+   {
+    "augmented": true,
+    "first": "Die Konstrukt-Stadt",
+    "second": "Konstrukt-Stadt",
+    "decision": "one-term",
+    "rule": "a leading German definite article is never a term boundary"
+   },
+   {
+    "augmented": true,
+    "first": "Die Resonanz-Landschaft",
+    "second": "Resonanz-Landschaft",
+    "decision": "one-term",
+    "rule": "a leading German definite article is never a term boundary"
+   },
+   {
+    "augmented": true,
+    "first": "Die Grenzfeste",
+    "second": "Grenzfeste",
+    "decision": "one-term",
+    "rule": "a leading German definite article is never a term boundary"
+   },
+   {
+    "augmented": true,
+    "first": "Kern-Welten",
+    "second": "Kern-Welt",
+    "decision": "one-term",
+    "rule": "plural and singular of the same concept are surface variants of one term"
+   },
+   {
+    "id": "J9",
+    "first": "Das Seelen-Kohärenz-Protokoll",
+    "second": "Kohärenz",
+    "document": "guardians-und-kern-welten-konzept",
+    "decision": "two-terms",
+    "rule": "a title containing a term is never a surface of that term",
+    "features": [
+     "near-match:index",
+     "compound",
+     "names-the-project",
+     "quoted"
+    ]
+   },
+   {
+    "id": "J21",
+    "first": "Entropie-Score",
+    "second": "globaler Entropie-Score",
+    "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+    "decision": "one-term",
+    "rule": "a leading adjective that names scope does not split a term",
+    "features": [
+     "adjective-qualifier",
+     "known-alias"
+    ]
+   },
+   {
+    "id": "J7",
+    "first": "Nexus-Vorstufe",
+    "second": "Nexus",
+    "document": "guardians-und-kern-welten-konzept",
+    "decision": "two-terms",
+    "rule": "containment where the longer form names a stage or part of the shorter is two terms",
+    "features": [
+     "substring",
+     "qualifier-contains-head"
+    ]
+   },
+   {
+    "id": "J22",
+    "first": "Guardian",
+    "second": "IntegrityGuardian",
+    "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+    "decision": "two-terms",
+    "rule": "containment across a class name and a proper name is not evidence — an instance is a reading on the class, a namesake is not",
+    "features": [
+     "compound",
+     "camelcase-name"
+    ]
+   },
+   {
+    "id": "J27",
+    "first": "Entropie",
+    "second": "Prä-Entropie",
+    "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+    "decision": "two-terms",
+    "rule": "a prefix that negates or precedes makes a new term; a prefix that qualifies does not",
+    "features": [
+     "prefix",
+     "classification-stage"
+    ]
+   },
+   {
+    "id": "J17",
+    "first": "Das Seelen-Kohärenz-Protokoll",
+    "second": "Kohärenz",
+    "document": "guardians-und-kern-welten-konzept",
+    "decision": "two-terms",
+    "rule": "a quoted work title beside `Romanprojekt`/`Projekt` names the work, not a concept inside it",
+    "features": [
+     "work-title",
+     "compound",
+     "quoted"
+    ]
+   },
+   {
+    "id": "J11",
+    "first": "Zero-Trust",
+    "second": "Zero-Trust-Architektur",
+    "document": "aegis-emergenz-aus-der-leere",
+    "decision": "two-terms",
+    "rule": "a project term named after an external standard is not that standard",
+    "features": [
+     "substring",
+     "project-named-after-external"
+    ]
+   },
+   {
+    "id": "J19",
+    "first": "Die Konstrukt-Stadt",
+    "second": "Konstrukt-Stadt",
+    "document": "guardians-und-kern-welten-konzept",
+    "decision": "one-term",
+    "rule": "a leading German definite article is never a term boundary",
+    "features": [
+     "article",
+     "exact-fold-match"
+    ]
+   },
+   {
+    "id": "J26",
+    "first": "Kernwelt 1",
+    "second": "Kern-Welt",
+    "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+    "decision": "one-term",
+    "rule": "a hyphen inside a compound is never a term boundary, and a numbered instance is a reading on its class",
+    "features": [
+     "numbered-instance",
+     "hyphenation",
+     "abbreviation"
+    ]
+   },
+   {
+    "id": "J23",
+    "first": "Guardian",
+    "second": "Guardians",
+    "document": "aegis-subplots-kapitelweise-system-exploration-docx",
+    "decision": "one-term",
+    "rule": "an English plural -s is never a term boundary, the same way a German article is not",
+    "features": [
+     "plural",
+     "english-loanword"
+    ]
+   },
+   {
+    "id": "J38",
+    "first": "Limina",
+    "second": "Liminale Räume",
+    "document": "roman-lokalitaeten-konzept-und-ausarbeitung",
+    "decision": "two-terms",
+    "rule": "a candidate that shares a stem with a cited external concept is checked against the reference list before it is a surface",
+    "features": [
+     "shared-stem",
+     "imported-theory",
+     "substring-trap"
+    ]
+   },
+   {
+    "id": "J12",
+    "first": "Kael",
+    "second": "Kael-Julia-Bindung",
+    "document": "corpus-wide",
+    "decision": "two-terms",
+    "rule": "a compound is its own token; corpus.py family <head> makes the difference visible",
+    "features": [
+     "compound",
+     "index-token-semantics",
+     "corpus-wide"
+    ]
+   }
+  ],
+  "signature": {
+   "instructions": "Sind die beiden Oberflächenformen derselbe Begriff im Korpus (one-term)\noder zwei verschiedene Begriffe (two-terms)? Ein bestimmter Artikel ist nie\neine Begriffsgrenze. Ein Kompositum wird nach dem eingeordnet, was es\nbenennt, nie nach seinem Kopf. Gegensätze wie Negentropie/Entropie sind nie\nein Begriff. Nenne die Regel, nach der du entscheidest.\n\nPlease adhere to the following rules when making your prediction:\n1. **Morphological markers are transparent**: German articles (der/die/das), plural endings (-s, -e for English, -e for German), and scope-qualifying adjectives do not create term boundaries—they are inflectional or adjectival modifiers of the base term.\n\n2. **Compounds are atomic units**: A hyphenated or closed compound is its own distinct token; when a longer form is a compound containing a shorter form as one element, they represent different terms (the compound names an entity, the component names a property or concept).\n\n3. **Semantic affixes create new terms selectively**: Prefixes indicating negation (Negentropie), temporal precedence (Prä-), or ontological stages (Vorstufe) create new terms; prefixes indicating later states or qualifications of the same bearer do not.\n\n4. **Aliases and contextual variants don't split terms**: A slash between two names already established in the wiki, or within a heading indicating an apposition or role, marks an alias or variant reading, not a term boundary; similarly, leading qualifiers in titles don't split.\n\n5. **Instances and inflections index their class**: Numbered instances (KW1, Kernwelt 1), plural forms, and enumerated readings belong to their base class term and are not independent terms.\n\n6. **Contextual frames override structural containment**: A term cited in a title, within a compound project name, or as part of an external standard reference maintains its own identity even when structurally nested; structural containment alone does not make a form a surface variant of its component.",
+   "fields": [
+    {
+     "prefix": "First:",
+     "description": "${first}"
+    },
+    {
+     "prefix": "Second:",
+     "description": "${second}"
+    },
+    {
+     "prefix": "Decision:",
+     "description": "${decision}"
+    },
+    {
+     "prefix": "Rule:",
+     "description": "die Regel, in einem Satz"
+    }
+   ]
+  },
+  "lm": null
+ }
+}

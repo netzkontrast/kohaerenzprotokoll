@@ -96,16 +96,32 @@ before this list.
 
 ### The process — the author's call, with the detail under *Open decisions*
 
-- **Model runs.** Three runs are one command each and wait on a yes, because
-  each sends corpus words to OpenRouter: `pairs.py run --optimizer labeled
-  --rule plural`, `graphrag.py ask --answer`, `rlm_ingest.py`.
+- **Decision 011 — confirm or narrow.** On „Use dspy Optimierung on the
+  Scripts" and „Add openrouter free Models in the mix" the session let DSPy
+  runs use Claude through `claude -p` — treated as first party, the precedent of
+  document 14's second readers — and free OpenRouter models through `route.py`,
+  pinned, for surfaces and rules only. The `pairs.py` ladder ran under it
+  (`Plan/concept/dspy-optimization_2026-09-25.md`). Claude calls draw on your
+  usage.
+- **A model's merges as a review queue?** Bootstrap on Haiku found 12.7 of the
+  19 merges the plural rule misses, with one false merge (J74). Nothing turns a
+  model's merge into a ledger entry; listing them for you to judge is one small
+  step, and yours to allow.
+- **J68 again.** With the document's lines as evidence, Haiku merged
+  `Ursprungs-Ich` and `Juna` in every repeat, from the glossary's own „das
+  Ursprungs-Ich (Juna)". The ledger says two terms; the question below asks which.
+- **SIMBA** — the one rung not run: about $8 of Claude usage, no published
+  evidence for it. Run it?
+- **`graphrag.py ask --answer` and `rlm_ingest.py`** may now run on Claude under
+  decision 011 (never on a free model: they send quotations and documents).
+  Neither has.
 - **DSPy labeled demo selection, 2026-09-24.** The offline `pairs.py` run now
   excludes every exact never-merge canary from model training, including J5
   (`Negentropie`/`Entropie`) which the ledger also contains. Its labeled rung
   puts two other documented hard negatives in each fold's eight demos and
   records the chosen IDs. This repairs the claimed holdout and makes the
-  selection inspectable; it does not establish a quality gain without a
-  separately approved model run.
+  selection inspectable. The ladder's model runs of 2026-09-25 (above) were
+  measured before it merged; their rows name the older harness.
 - **TypeSafe/Jev beyond the two uses already approved.**
 - **How far `ask` may go** — chosen quotations only, or also a framing sentence
   marked as the model's.
@@ -247,20 +263,20 @@ lines each judgement cites into the input
 (`Plan/concept/continuous-improvement_2026-09-17.md`, step 1) comes before any
 model run can learn them — and it widens what that run would send.
 
-**Which model runs are allowed — the toolchain is built and has called no
-model.** On 2026-09-23 the author asked for the wiki to become a knowledge base
-and a knowledge graph for GraphRAG, and for everything usable from the nine DSPy
-repositories to be ported. It is (`CLAUDE.md`, *The knowledge graph* and
-*Calling a model*). Three runs are now one command each, and each sends corpus
-words to OpenRouter, so each waits on its own yes — `--approval` is required
-and refused when empty:
+**Which model runs are allowed — decision 011, 2026-09-25.** On the author's
+„Use dspy Optimierung on the Scripts" and „Add openrouter free Models in the mix":
+Claude through `claude -p` for any DSPy program, and one free OpenRouter model
+through `route.py`, pinned, for what `pairs.py` sends. The ladder ran —
+LabeledFewShot, Bootstrap, InferRules and GEPA on Haiku, LabeledFewShot with
+document lines as evidence, and LabeledFewShot on the free models that answered;
+`python3 scripts/pairs.py report` reads every row, and
+`Plan/concept/dspy-optimization_2026-09-25.md` reads the results. Still one
+command each, and not run:
 
-- `pairs.py run --optimizer labeled --rule plural` — the cheapest rung, asked
-  only about the pairs the plural rule leaves; its floor is `rule:plural`, not
-  `rule:fold`. Cost: the surface pairs and their rules, a few thousand tokens.
-- `graphrag.py ask "…" --answer` — a model picks evidence numbers. Cost: the
-  question and eight quotations per call.
-- `rlm_ingest.py <slug>` — a whole document. Needs Deno as well.
+- `pairs.py run --optimizer simba …` — about $8 of Claude usage (above).
+- `graphrag.py ask "…" --answer` — a model picks evidence numbers; on Claude only.
+- `rlm_ingest.py <slug>` — a whole document, on Claude only; its own `dspy.LM`
+  would need `lmrun.make_lm` to reach Claude. Needs Deno as well.
 
 **How far `ask` may go.** `graphrag.py` returns verified quotations and never
 prose, because prose over two sources is a merge (P13). Whether an answer should
@@ -377,6 +393,14 @@ read document 14 **after** its candidate list was committed, as second readers.
 - Nothing any of them produced entered a page, link, count or judgement.
 
 ## The `dspy` skill — landed, and what checking it against the code left open
+
+**DSPy itself was read on 2026-09-24/25**: nine readers over the installed 3.3.1
+package, its tests and docs, GEPA 0.1.4 and the papers
+(`Plan/concept/dspy-source_2026-09-24/`). Three claims of the skill were wrong and
+are corrected with probes; `lmrun.call` re-raised an unparseable answer that DSPy's
+JSON fallback lets escape, and records it now. The folder's `README.md` lists what
+they found that nothing here acts on yet — start there before changing anything
+that imports `dspy` or `gepa`.
 
 `.agents/skills/dspy` (netzkontrast/kohaerenzprotokoll#60) holds what the nine
 DSPy repositories contain, re-read in full on 2026-09-24 and sorted by the job

@@ -1,0 +1,61 @@
+{
+ "model": "nex-agi/nex-n2.5-mini:free",
+ "provider": "Nex AGI",
+ "seconds": 2.2,
+ "content": "[[ ## decision ## ]]\ntwo-terms\n\n[[ ## rule ## ]]\nDifferent concepts such as an act and a gut reaction are two terms\n\n[[ ## completed ## ]]",
+ "response": {
+  "id": "gen-1790322546-JH5ESnLbcQCJ4M7NLQ2g",
+  "object": "chat.completion",
+  "created": 1790322546,
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "provider": "Nex AGI",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "[[ ## decision ## ]]\ntwo-terms\n\n[[ ## rule ## ]]\nDifferent concepts such as an act and a gut reaction are two terms\n\n[[ ## completed ## ]]",
+     "refusal": null,
+     "reasoning": "\nWe need answer exact structure. Need decide Akt I vs Bauchreaktion. Clearly different German terms, two-terms. Rule sentence German perhaps concise. Need output fields starting decision. Ensure completed marker. \"Akt I\" Act I vs Bauchreaktion gut reaction. Rule: \"Different concepts—Act I and a gut reaction—are two terms.\" Could be German? They request rule, examples English. Use English. Must exact.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "\nWe need answer exact structure. Need decide Akt I vs Bauchreaktion. Clearly different German terms, two-terms. Rule sentence German perhaps concise. Need output fields starting decision. Ensure completed marker. \"Akt I\" Act I vs Bauchreaktion gut reaction. Rule: \"Different concepts—Act I and a gut reaction—are two terms.\" Could be German? They request rule, examples English. Use English. Must exact.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 898,
+   "completion_tokens": 126,
+   "total_tokens": 1024,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 768,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 103,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}

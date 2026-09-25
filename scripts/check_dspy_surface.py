@@ -42,10 +42,14 @@ USED = [
      {"metric", "max_bootstrapped_demos", "max_labeled_demos"}, "pairs.py ladder"),
     ("dspy.InferRules", dspy.InferRules, {"num_candidates", "num_rules"}, "pairs.py ladder"),
     ("dspy.SIMBA", dspy.SIMBA, {"metric", "bsize", "num_candidates", "max_steps"}, "pairs.py ladder"),
-    ("dspy.GEPA", dspy.GEPA, {"metric", "auto", "reflection_lm", "seed", "track_stats", "log_dir"},
-     "pairs.py ladder"),
+    ("dspy.GEPA", dspy.GEPA, {"metric", "auto", "max_metric_calls", "reflection_lm", "seed", "track_stats",
+                              "log_dir"}, "pairs.py ladder, --gepa-calls"),
+    ("dspy.Signature.append", dspy.Signature.append, {"name", "field", "type_"}, "pairs.py --evidence"),
     ("dspy.Evaluate", dspy.Evaluate, {"devset", "metric", "num_threads", "failure_score"}, "pairs.py"),
-    ("dspy.BaseLM", dspy.BaseLM.__init__, {"model", "cache"}, "lm_fixture.py"),
+    ("dspy.BaseLM", dspy.BaseLM.__init__, {"model", "cache"}, "lm_fixture.py, claude_lm.py"),
+    # route_lm() also passes api_base, api_key and timeout; dspy.LM hands those to LiteLLM
+    # through **kwargs, so no signature holds them — lmrun.py's selftest sends a call
+    # through route_lm() and the proxy to a faked upstream instead
 ]
 
 

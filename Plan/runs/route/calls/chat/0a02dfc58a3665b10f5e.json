@@ -1,0 +1,61 @@
+{
+ "model": "nex-agi/nex-n2.5-mini:free",
+ "provider": "Nex AGI",
+ "seconds": 2.1,
+ "content": "[[ ## decision ## ]]\none-term\n\n[[ ## rule ## ]]\nKlammerzusätze wie „(c)“ sind Zusatzkennzeichnungen und begründen keine neue Begriffsgrenze.\n\n[[ ## completed ## ]]",
+ "response": {
+  "id": "gen-1790323273-7FfPhn8bjxhAwsVemoqk",
+  "object": "chat.completion",
+  "created": 1790323273,
+  "model": "nex-agi/nex-n2.5-mini:free",
+  "provider": "Nex AGI",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "[[ ## decision ## ]]\none-term\n\n[[ ## rule ## ]]\nKlammerzusätze wie „(c)“ sind Zusatzkennzeichnungen und begründen keine neue Begriffsgrenze.\n\n[[ ## completed ## ]]",
+     "refusal": null,
+     "reasoning": "\nWe need answer to user. Need follow developer: respond with corresponding output fields, starting decision literal, rule sentence, completed. Need decide if two surface forms same concept in corpus. Input first \"Synthese (c)\" second \"Synthese\". Need output decision one-term/two-terms, rule in German likely. Need consider \"Synthese (c)\" maybe \"(c)\" copyright? It is same term with parenthetical copyright marker. Examples show parenthetical index document attaches to term's name is part of label, not new term. But \"(c)\" maybe copyright symbol? It says \"Synthese (c)\" and \"Synthese\"; likely same concept, one-term. Need rule in German. Need exact structure.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "\nWe need answer to user. Need follow developer: respond with corresponding output fields, starting decision literal, rule sentence, completed. Need decide if two surface forms same concept in corpus. Input first \"Synthese (c)\" second \"Synthese\". Need output decision one-term/two-terms, rule in German likely. Need consider \"Synthese (c)\" maybe \"(c)\" copyright? It is same term with parenthetical copyright marker. Examples show parenthetical index document attaches to term's name is part of label, not new term. But \"(c)\" maybe copyright symbol? It says \"Synthese (c)\" and \"Synthese\"; likely same concept, one-term. Need rule in German. Need exact structure.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 925,
+   "completion_tokens": 199,
+   "total_tokens": 1124,
+   "cost": 0,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 896,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 166,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ },
+ "tried": []
+}
