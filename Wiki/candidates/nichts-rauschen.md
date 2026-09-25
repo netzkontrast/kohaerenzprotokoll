@@ -1,11 +1,11 @@
 ---
 term: Nichts-Rauschen
 status: candidate
-sources: 12
-readings: 12
+sources: 13
+readings: 13
 conflict: none
 aliases: ["K1-Reinform"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -99,3 +99,10 @@ Written `Reinform` (J83) in Kap 40: „Wir sind nicht die Reinform. Wir können 
 „Aber wir sind die Form, die die Reinform tragen kann, ohne sie zu sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L67]
 „Jede Berührung der Reinform ist Liebe. Es gibt keine andere Substanz dort." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L83]
 In Kap 0 the Funken-Ich lives the void as threat — „Ich *bin* dieses Rauschen, oder es droht mich zu verschlingen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L199] — and Kap 40 reads it again: „Die Leere war nicht leer. Sie war eine Berührung ohne Ende" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L55]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+The Funken-Ich feels it before it is named: „Das Nichts hier ist aktiv. Es negiert jede Abweichung von sich." ^[kap0-v1-annotiert-md.md:L161]
+The annotation: „Etablierung der Nichts-Rauschen-Phänomenologie." ^[kap0-v1-annotiert-md.md:L165] „Konzept "Nichts-Rauschen" wird als Phänomen, nicht als Begriff eingeführt." ^[kap0-v1-annotiert-md.md:L165]
+AEGIS names it in the crisis: „Die Leere war kein Vakuum." ^[kap0-v1-annotiert-md.md:L545] „Sie war ein Substrat — ein Potentialmeer unendlicher Zustände, ein Grundrauschen latenter Information, das als *Nichts-Rauschen* indexiert wurde: die Negation dessen, was das System selbst war." ^[kap0-v1-annotiert-md.md:L545]
+`Rauschen` is also the first of the five motifs set as „Erstereignisse" (L79).
