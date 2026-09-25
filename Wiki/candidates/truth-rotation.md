@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C2
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md"]
 gathered: "2026-09-25"
 ---
 
@@ -44,3 +44,12 @@ Its ground is the inversion of the two storyforms: „Diese Inversion ist die me
 „Diese Klein-c-Symmetrie ist die formale Basis der Truth-Rotation" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L260] — both readings of one plot
 are legal, and „der Roman entscheidet erst am Vortex, welche die operative Wahrheit ist." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L260]
 Gathered when the page opened: the census had listed the term (L71, L149, L260).
+
+## Reading — `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, 2026-05-08
+
+„Diese Inversion ist die mechanische Quelle der Truth-Rotation am Vortex (Kap. 35–36)." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L138]
+„Bis dahin liest der Roman in B-Logik (AEGIS = Ordnung, Kael = Chaos)." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L138]
+„Nach dem Pivot rotiert das Vorzeichen: AEGIS = K₀ wird sichtbar, Kael = K₁-Substrat wird sichtbar." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L138]
+„Die Phänomenologie der Risse ändert sich nicht; die Lesart ändert sich." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L138]
+At the pivot „Hier schließt sich die Truth-Rotation" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1321], and in Beat 5 „Truth-Rotation komplett." ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1336]
+Gathered when the page opened: the census had listed the term.
