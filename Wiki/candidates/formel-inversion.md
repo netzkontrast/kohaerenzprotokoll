@@ -94,7 +94,7 @@ in Vortex 2 or in Kap 39: „**Die zentrale Formel-Inversion vollzieht sich:** *
 (Doppel-Klammer Abhandlung). Two sources give it both a place in the Vortex and the turn
 from 39 to 40.
 
-**How the second sentence is written.** „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist" in
+**How the second sentence is written.** „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L82] in
 every plan read; in the draft text of Kap 40, „*Wir-AEGIS sind, was Wir-AEGIS bewahren, dass es ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
 — the Wir speaking of itself as many. The draft is the one source here that is the novel's
 text rather than a plan for it.
