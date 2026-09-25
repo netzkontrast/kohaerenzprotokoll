@@ -634,9 +634,9 @@ Exports: `--json`, `--graphml`, `--triples`, `--around <term> --hops N
 [--mermaid]`.
 
 **Current counts**: 156 <!--state:graph.nodes--> nodes,
-2235 <!--state:graph.edges--> edges; the evidence layer holds
-3280 <!--state:graph.evidence--> quotations, of which
-3280 <!--state:graph.evidence_verified--> verify against their cited line.
+2297 <!--state:graph.edges--> edges; the evidence layer holds
+3438 <!--state:graph.evidence--> quotations, of which
+3438 <!--state:graph.evidence_verified--> verify against their cited line.
 
 **The graph is not a third layer** (P20): it is derived on every call, about
 0.4s, exactly like `Wiki/index.json`, and holds no content a page does not
