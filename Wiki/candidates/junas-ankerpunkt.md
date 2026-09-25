@@ -1,10 +1,10 @@
 ---
 term: Junas Ankerpunkt
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -65,3 +65,13 @@ One occurrence, the first sub-location of the Externe Ebene — Köln 2026: „J
 „spezifischer Ort/Zustand in Köln, an dem Junas Verbindung manifest wird" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L664],
 Kap 38, with the lock open: „Konkreter Ort (Plattenbau? S-Bahn-Station?
 Telefonzelle?)." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L939]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+`[L]`, a gap it names: „Ort, an dem Juna in Köln verortet ist (Naming/Lock offen)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L326].
+Its open points: „Junas Erscheinungsmodus in der externen Ebene (Köln 2026)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1441],
+an anchor-point lock still to set.
+
+Not the same as `Junas Anker`, which in this document is a recurring perception —
+„Telefon-Rauschen / -Stille: Junas Anker. Verschoben durch alle Akte." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L384]
+— and not a place.
