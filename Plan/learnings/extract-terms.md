@@ -643,3 +643,29 @@ should say it. And `capture.candidate_terms` drops a candidate holding `, ` or
 `. ` as prose: 2–11 per blind list (`Falsehood vs. Truth`, `Show, don't
 tell`). The rule is right for the prose bullets it was built for, and every
 list here passes through it alike.
+
+## Document 16 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-09-25
+
+A drafting manual of 1503 lines, mostly tables. **1092 candidates written while
+reading, 1084 counted** — `capture.py` read eight as prose, each holding `, ` or
+`. ` — about 73 per 100 body lines, the density of the committed lists of
+documents 7 to 13. `gold.py` rules it gold; 96.7 % of its terms occur in the
+document.
+
+- **The count found 36 zeros and none was an absence.** Ten file names and the
+  four labels are escaped (`\_`, `\[K\]`); eleven are the reader's nominative
+  for a declined form (`kognitiver Apparat` for „kognitiven Apparat"); four stand
+  only in a range or a compound (`Kap 26` in „Kap 25–26"); one is lower case; one
+  is the reader's own name for an item of a list (`Suppression-Protokoll`).
+  Twenty-one more stand only inside compounds — `Cerberus` only in
+  `Cerberus-Labyrinth`.
+- **A craft-heavy document makes an exhaustive list expensive downstream.**
+  Listing the briefing template's fields and the hard rules' titles gave
+  reconciliation 758 pairs to judge, 633 of them inside the list itself, nearly
+  all decided by J9, J16, J28 and J31. The list is the reading and stays as it is;
+  the cost is recorded so the next reader of a template-heavy document expects it.
+- **Three questions the briefing did not carry** — a lock table restated from
+  other documents, a conflict the document reports among its own sources, and one
+  word numbering several series (`Ebene` for levels, style levels and the three
+  levels of show-don't-tell). Added to `Plan/briefings/extract.md` (version 6).
+

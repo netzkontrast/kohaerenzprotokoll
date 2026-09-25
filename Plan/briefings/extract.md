@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 5
-covers_documents: 4
-new_findings_last_document: 5
+version: 6
+covers_documents: 5
+new_findings_last_document: 3
 ---
 
 # Briefing — before extracting a document
@@ -81,6 +81,9 @@ line 1. Two line bases over one file, by design.
   citation of something else. Both occur; nothing announces which.
 - Which candidates appear **only inside a question**? Those have no reading.
 - Which appear only as something the document restates before rejecting?
+- Does it restate other documents' decisions — a table of locks, a rule it
+  attributes? A restated decision is its source's claim, relayed; read the
+  attribution before the content.
 
 **Gaps — what is assumed?**
 
@@ -93,6 +96,10 @@ line 1. Two line bases over one file, by design.
 
 - Does a stated count match the content? Does the document flag it?
 - Are heading labels unique? Do any collide?
+- Does it name a conflict among its own sources? A conflict it reports has two
+  sides, and only one of them may be in front of you.
+- Does one word number more than one series — levels, layers, stages — so that
+  „2" means two different things in two tables?
 
 **Export damage — what did the conversion do?**
 
@@ -100,6 +107,8 @@ line 1. Two line bases over one file, by design.
 - Reference numbers glued to the words they annotate, from dropped superscripts?
 - Backslash escaping inside terms and quotation marks?
 - Typographic and ASCII quote glyphs mixed in one file?
+- A template or a file tree embedded as text? Its headings and list markers
+  arrive escaped, and the structural profile does not count them.
 
 Each of these defeats exact matching and quote verification **silently**.
 

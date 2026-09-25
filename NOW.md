@@ -37,6 +37,7 @@ Each is a conflict record in `Wiki/conflicts/`, append-only, with the quotations
 | **C10** | Do Kael's knuckles bleed in Kap 1? | yes, the first Landauer trace (Charakter-Bibel) · no, Kap 0 alone (storyform-und-outline; Kapitel-Kompendium 2026-05-31, in the wording document 7 follows) · in the novel's opening image, not in its Kap 1 line (konsolidiertes Konzept) · **a trait, in no chapter**: the Host's bleeding knuckles stand in his profile, in neither Kap 0 nor Kap 1 (strukturierter Outline 2026-05-18) |
 | **C11** | Is the Landauer trace warm (Kap 6, Kap 36) or cold ozone? | warmth (konsolidiertes Konzept) · „Landauer-Hitze/Ozon", a day after the lock (Kapitel-Kompendium) · cold ozone everywhere, warmth only Juna's and at Vortex 1 Beat 4 (storyform-und-outline, citing its lock of 2026-05-30) · warmth in Kap 6 and Kap 36, in the konsolidiertes Konzept's words (strukturierter Outline 2026-05-18) |
 | **C12** | Three Genesis beats or four — and does Komponente 734 come before the Trennungsprotokoll or out of it? | three, 734 its result (Charakter-Bibel) · four, 734 before it (konsolidiertes Konzept; storyform-und-outline counts a fourth) · both orders and a fourth beat (Kapitel-Kompendium, and already the strukturierter Outline of 2026-05-18) |
+| **C13** | Is Köln 2026 beyond the simulation, or not outside it? | „jenseits der Simulation", named `Basisrealität` (Charakter-Bibel 2026-05-08; strukturierter Outline 2026-05-18) · „Kein „außerhalb der Simulation"", named `Externe Ebene` (konsolidiertes Konzept 2026-05-08; Kernwelten vollständig, begriffe-und-konzepte, welt-sensorik, all 2026-06-10). **The positions split along the two names J54 made one term** — are they one level? |
 
 C1–C5 come from the 2025 research documents and have not been put to the author
 before this list.
@@ -67,7 +68,8 @@ before this list.
   Kapitel-Kompendium, konsolidiertes Konzept) and a Kap-34 place where Kael accepts
   Juna (konsolidiertes Konzept, „Kernwelten vollständig"). The strukturierter
   Outline has both chapters too — Kap 11's stage and „Mosaik-Herz vor Vortex" in
-  Kap 34 — and does not say whether they are one.
+  Kap 34 — and does not say whether they are one. The welt-sensorik document has
+  only the Kap-34 place.
 - **The world names after C6.** With five Guardians restored, do Cerberus-Labyrinth
   and Kairos-Potentialis name their Guardians again, or stay „mythologisch"
   as „Kernwelten vollständig" proposes (its L946–L947)?
@@ -81,18 +83,31 @@ before this list.
 - **The final form's name.** Wir-AEGIS / Mosaik-AEGIS / Plurale Kohärenz / Das Wir
   / namenlos — the konsolidiertes Konzept's own OQ-A (L1199). No page until it is
   named. The strukturierter Outline's OQ-A says the same: `Wir-AEGIS-plural` is a
-  working term, to be settled in Kap 39 (L1369; J73).
-- **KW3 has no chapter.** In the strukturierter Outline every other world is a
+  working term, to be settled in Kap 39 (L1369; J73). The welt-sensorik document
+  uses `Wir-AEGIS-plural` throughout and does not mark it open.
+- **KW3 has no chapter in the strukturierter Outline.** Every other world is a
   setting somewhere (KW1 in Kap 1 and 4, KW2 at Kap 5 and 15 and as the climax
   archipelago, KW4 anticipated in Kap 13 and 20); the Cerberus-Labyrinth stands
   only in the world table (L174). A gap in that plan, or deliberate? Found by the
-  graphify reader, checked against the lines.
+  graphify reader, checked against the lines. **The welt-sensorik document of
+  2026-06-10 gives KW3 „Späte Akt II (Kap 23–28)" (its L175)** — so the gap is
+  that outline's alone.
 - **`kael-julia-bindung` (J13).** One document says `Kael-Julia-Bindung`, nine say
   `Kael-Juna-Verbindung`. The Kapitel-Kompendium now states „Julia→Juna" as a rename
   it applied to its quarry (L13). Should the page be renamed, and is the older
   `Kael-Julia-Bindung` a term of its own or only the old name?
 - **Juna's names.** `juna.md` is titled by a name the first read sources do not
   use, and `Partnerin` may be a third surface for her.
+- **When does Alex arise?** The welt-sensorik document names a conflict of its own
+  sources and leaves it open (its §14.4): the Charakter-Bibel has him arise „in der
+  Sekunde der Fragmentierung", the Kap-0 annotation choreographs an Alex-Vorform
+  before the Trennungsprotokoll. Its two ways out: voices before the separation are
+  proto-clusters, not parts — or Alex's genesis changes. `kap0-v1-annotiert-md`
+  (landed, unread) would put the annotation's side on the wiki directly.
+- **Mnemosyne — antagonist or not?** The strukturierter Outline has „Guardians als
+  Sub-Antagonisten (Mnemosyne, Erasure-Pol)" and her acting „subtil, manipulativ";
+  the welt-sensorik document rules „Mnemosyne wird *nie* als Antagonistin
+  geschrieben" — a structural role and a rule of portrayal, or a disagreement?
 
 ### The process — the author's call, with the detail under *Open decisions*
 
@@ -132,6 +147,9 @@ before this list.
   first promotion.
 - **The quote convention** — a quotation carries its reference in the same table
   cell, or the checker learns tables. Until then those quotations stay unchecked.
+- **The alias `Simulation` on `ueberwelt`.** Three reconciliations found that a
+  document means the whole construct by it, not the Überwelt (J30, J39, J81), and
+  the lookup keeps sending it to the page. Demote it, or keep it with a note?
 - **Whether `fold()` adopts the plural rule** — decision 010 set its reach on
   your delegation, as a scored rule in `pairs.py` that the pipeline does not use.
   Adopting it changes what every reconciliation merges by lookup; widening it to
@@ -244,9 +262,9 @@ German compounds that nothing has tested. The fixture is nearly free: every
 the article, case, diacritics and punctuation and nothing morphological, and
 every pair it misses is one a person called one term. Decision 010, taken on the
 author's delegation, set the reach of a rule that also passes a plural ending:
-`pairs.RULES["plural"]` decides 48 <!--state:pairs.plural_correct--> of
-67 <!--state:pairs.labelled--> pairs where `fold()` decides
-40 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
+`pairs.RULES["plural"]` decides 49 <!--state:pairs.plural_correct--> of
+69 <!--state:pairs.labelled--> pairs where `fold()` decides
+41 <!--state:pairs.fold_correct-->, with no false merge, no canary merged, no two
 pages joined and 28 new merges across all 14 candidate lists, each a singular and
 its plural. It is a ledger row and the rule a model run asks first;
 reconciliation still uses `fold()` alone. Whether `fold()` adopts it is the
@@ -306,7 +324,7 @@ written:
   catalogues every Drive document, the canon-era ones included, so they land
   through `sources.py` like any other. 33 <!--state:sources.canon_era--> rows date
   from May 2026 on and 33 <!--state:sources.canon_era_landed--> are landed, since
-  2026-09-24 (see *Landed* below); eight are read — documents 7 to 14, below. Still open: the
+  2026-09-24 (see *Landed* below); ten are read — documents 7 to 16, below. Still open: the
   manuscript and the NCP files, which are not Drive documents and sit only under
   `Legacy/`, and the claude.ai exports the goal names, which are in no catalogue.
 - **Conflict detection.** The goal wants a detector: deterministic comparison per
@@ -337,7 +355,7 @@ was worth porting from the tools is decided — the review's closing section.
 In order, and none of it needs a model:
 
 1. **More retrieval cases.** `graphrag.py bench` has
-   17 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
+   18 <!--state:graphrag.cases--> cases, all written by the hand that wrote the
    pages. The `## Open` sections (`relations.py --open`) are a second source;
    write `(question, gold pages)` by hand first. `Plan/concept/graphrag_2026-09-23.md`
    has why and the next four steps after it.
@@ -432,7 +450,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 11 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 12 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -571,7 +589,34 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — Genesis iteration reconciled
+## Next document — welt-sensorik reconciled
+
+**The sixteenth document is done: `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-09-25.** A
+drafting manual, the fourth of a „Repo-Quartett", labelled per section. 1092
+candidates, 1084 counted; readings on 55 pages and no new page — its tables have
+the Kernwelten document's shape, and every place that document's rule would
+promote already has a page. `Wiki/compare/reconcile-17-kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md` has the record.
+
+- **C13, new**: Köln 2026 beyond the simulation, or not outside it. Five of its six
+  rows were already readings on `externe-ebene`, with no record; the two sides
+  split along the names J54 joined.
+- **C11 — a fourth arrangement**: the lock (cold ozone, warmth Juna's from Kap 3,
+  attributed to the log of 2026-05-30) and a Landauer strand that is heat,
+  accumulating in Kap 6 and Kap 19 — the character bible's strand, in its words,
+  with the knuckles moved to Kap 0 (C10).
+- **KW3 has its chapters** (Kap 23–28), and the Überwelt-Nexus is Kap 33's setting.
+- **C7**: Kap 33 her effect, Kap 38 her appearance, as in the Kernwelten document.
+- **Alex's origin** is a conflict it names in its own sources and leaves open.
+- J80: `Polaritätsregel` is the rule's short form, now its alias. J81: the alias
+  `Simulation` on `ueberwelt` misled the lookup a third time.
+
+**Next, by the open records**: `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, the sibling this
+document names for every Alter and whose §11 carries the Alex conflict (the Alters,
+Q3, and Q5's Erasure-Pol and Mnemosyne in its §9); or `kap0-v1-annotiert-md`, the
+Kap-0 annotation, the other side of Alex's origin and the source of the defect codes
+(C12). A grep over the unread canon era, orientation only.
+
+### Previous document — Genesis iteration
 
 **The fifteenth document is done: `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-09-25.** Its 58 selected candidates yielded one new layer page (`k0-existenz`), a `K1-Reinform` alias on `nichts-rauschen`, readings on 22 pages, and new evidence on C7, C8, C11 and C12. `Wiki/compare/reconcile-16-koharenz-protokoll-konzept-iteration-genesis-md.md` records the work.
 
@@ -786,11 +831,12 @@ later, none failing. 26 were `md`, which `fetch` skipped before: the two new fla
 are opt-in, and `md` takes the same text route that landed the four `md` rows on
 2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
-in another escaping — so 37 canon-era rows became 33, all landed. **Eight are read**,
+in another escaping — so 37 canon-era rows became 33, all landed. **Ten are read**,
 `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`,
 `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, `dramatica-dual-storyform-status-2026-05-07-md`,
-`kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md` and `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, as documents 7 to 14 — see *Next document*.
-(This line said „Five are read" over a list of seven until 2026-09-24.) The copy under `Legacy/Canon/` (six of the 2026-06-10
+`kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md`, `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, `koharenz-protokoll-konzept-iteration-genesis-md` and
+`kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, as documents 7 to 16 — see *Next document*.
+(This line said „Five are read" over a list of seven until 2026-09-24, and „Eight" over documents 7 to 14 until 2026-09-25.) The copy under `Legacy/Canon/` (six of the 2026-06-10
 documents) has not been compared against the landed files.
 
 Pull request netzkontrast/kohaerenzprotokoll#52 merged on 2026-09-23: the TypeSafe

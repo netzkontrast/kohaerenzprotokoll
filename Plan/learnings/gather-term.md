@@ -163,3 +163,20 @@ scored on before anything else.
   surface candidates for it and must never settle them.
 - **Whether a term deserves to exist as a concept at all**, or is just a phrase
   the author used twice.
+
+## Adding a reading is a moment to compare — document 16, 2026-09-25
+
+`externe-ebene` held five readings from five documents, each attributed, two
+saying Köln 2026 lies „jenseits der Simulation" and three „Kein „außerhalb der
+Simulation"". No conflict record held it; the page's own frontmatter said
+`conflict: none yet`. It surfaced only because document 16 added a sixth reading
+and its words were read against the page's earlier ones — now C13.
+
+**Reconciliation walks from a census to pages; nothing walks a page against
+itself.** A disagreement between two readings that arrived months apart on one
+page is invisible to every check here, and the step that adds a reading is the
+only one that reads the others. What would make it visible without mechanising
+the judgement (P1, `CLAUDE.md` *Conflict detection is never mechanised*): list,
+per page, the readings no conflict record cites, so a person reads them against
+each other. Not built.
+
