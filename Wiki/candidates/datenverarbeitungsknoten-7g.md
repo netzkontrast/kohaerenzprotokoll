@@ -1,10 +1,10 @@
 ---
 term: Datenverarbeitungsknoten 7G
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 aliases: []
 gathered: "2026-09-17"
 ---
@@ -58,3 +58,10 @@ no rule then joined the two names.
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
 As „Datenverarbeitungsknoten Epsilon" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L102] (J65): „Kaels Arbeitsplatz; sterile Funktionalität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L102].
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — Datenknoten Epsilon, the coldest zone
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Named Datenknoten Epsilon, marked `[K/S]` and „präzisiert [V]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L192]: „Reihen identischer Konsolen [S]; Kaels Platz ohne Merkmal" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L192].
+„der Arbeitsplatz ist die kälteste Zone der Stadt." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133] Its source, per the register: „Orte-Konzepte (Steinbruch)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L287] (J65).

@@ -77,6 +77,11 @@ and nothing else. After it is frozen, `reconcile.py` sweeps the text for every
 surface of every page. So a term you judged ordinary is still found if the wiki
 has a page for it, and nothing the wiki knows depends on this list.
 
+**Write observations as paragraphs, never as `- ` bullets.** The count tells a
+term from a sentence by punctuation, so a bulleted sentence without a comma is
+counted as a candidate. A term that carries a comma — a title, `A, B` — is left
+out of the count, and the count's header names it.
+
 ## 2 · Questions to carry while reading
 
 **Surfaces — is one thing wearing several names?**

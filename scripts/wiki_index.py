@@ -84,11 +84,17 @@ def fold(surface: str) -> str:
     one document -- Die Konstrukt-Stadt, Die Resonanz-Landschaft, Die Grenzfeste
     -- before being written down here, and Plan/runs/judgements.jsonl holds the
     three records that produced it.
+
+    **A colon survives.** Storyform notation writes `A:RS` for Storyform A's
+    Relationship Story, and with the colon removed it folded to `ars`, the key of
+    the ARS protocol's page — the first document that wrote it had the lookup file
+    a throughline as a reading on a protocol (J87). No page surface contains a
+    colon, so no earlier lookup moves.
     """
     plain = ARTICLE.sub("", surface.strip())
     plain = unicodedata.normalize("NFKD", plain.lower())
     plain = "".join(c for c in plain if not unicodedata.combining(c))
-    return re.sub(r"[^a-z0-9]+", "", plain)
+    return re.sub(r"[^a-z0-9:]+", "", plain)
 
 
 @lru_cache(maxsize=None)
