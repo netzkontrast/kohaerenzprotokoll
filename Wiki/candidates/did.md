@@ -1,11 +1,11 @@
 ---
 term: DID — dissoziative Identitätsstruktur
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
 aliases: ["DID", "dissoziative Identitätsstruktur", "psychische Fragmentierung"]
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -90,3 +90,11 @@ And it is what the first reading must not see: „Die DID-Architektur muss im er
 „Beim Reread müssen alle Foreshadowing-Spuren als DID-Symptome erkennbar werden." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L466]
 The glossary's reading above names TSDP, not DID, as the model; this document
 uses both words and relates neither to the other.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**The model is named TSDP.** „TSDP — Tertiäre Strukturelle Dissoziation der Persönlichkeit (van der Hart, Nijenhuis, Steele 2006)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42]
+„Heilungsmodell: IFS (Internal Family Systems)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42] „Diagnose-Form, nicht Spiel-Inszenierung" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42]:
+„Dissoziation = Amnesie-Terror, niemals Crew-Menü." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L42]
+The word itself waits: Kap 8–10, where [[kael|Kael]] first senses the others as modes, allows no `DID` and no
+`Alters` yet (L928), and Alter, Fragment, ANP, EP and TSDP „fallen nicht in Akt I" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L157].
