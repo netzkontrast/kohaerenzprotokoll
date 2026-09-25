@@ -1319,3 +1319,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** L11 heads the document „Die Doppel-Klammer Kap 0 / Kap 40“ and L25 defines it as the two chapters, „ein einziger Atem in zwei Richtungen“; the genesis-klammer page, written by the 2026-09-25 scan, already reads this document as its own and names `Doppel-Klammer` as its name for the frame. Every other read source that names the frame of Kap 0 and Kap 40 calls it `Genesis-Klammer`; the strukturierter Outline gives that name to Kap 0 alone
 
 **Result.** one term — the same two chapters as one frame, under two names; `Doppel-Klammer` becomes an alias of genesis-klammer. `Klammer` alone (18 times standing alone here, 04-counts.txt) stays a common noun and gets no alias
+
+## J95 — Innere Weite / Überwelt
+
+**one-term** · kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a name that read sources gloss with a page's surface, A (B), for the same described thing, and that no read source separates from it, is an alias of that page; a gloss in one source alone stays unjudged (the proposal layer)
+- **mechanised by:** `nothing`
+- **features:** gloss, page-exists, draft-text
+
+**Question.** a page for the Innere Weite, or a reading on ueberwelt?
+
+**What was done.** The Kap-0 draft of 2026-05-08 heads a section „Die Innere Weite: Simulation als Optimierung“ (L321) and defines it: „Eine virtuelle Umgebung innerhalb der eigenen Geschlossenheit: die Innere Weite.“ (L327), where AEGIS builds „die Bausteine einer eigenen Realität“ (L343) and where Kael's remainder is left (L485). It never writes Überwelt. Three read sources gloss one with the other — „Die Innere Weite (Überwelt-Etablierung)“ (konsolidiertes Konzept L787, strukturierter Outline L230, Konzept-Iteration Genesis L295), „die Innere Weite (Überwelt) aus Kap 0“ (konsolidiertes Konzept L837) — and the ueberwelt page already carries those lines as readings. No read source separates them
+
+**Result.** one term — the Innere Weite is Kap 0's name for the Überwelt as it is established; `Innere Weite` becomes an alias of ueberwelt, and the draft's section is a reading there. `Simulation` stays apart (J39)

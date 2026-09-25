@@ -1,0 +1,600 @@
+{
+  "document": "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md",
+  "step": "reconcile-pre",
+  "at": "2026-09-25",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-09-25",
+  "state": {
+    "pages": 106,
+    "conflicts": 15
+  },
+  "candidates": 95,
+  "decisions": 103,
+  "same_surface": {
+    "rauschen": [
+      "Das Rauschen",
+      "Rauschen"
+    ],
+    "krise": [
+      "Die Krise",
+      "Krise"
+    ]
+  },
+  "decided_mechanically": 53,
+  "needs_judgement": 50,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Genesis",
+        "page": "genesis",
+        "readings": 13
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 20
+      },
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 17
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 17
+      },
+      {
+        "candidate": "Komponente 734",
+        "page": "komponente-734",
+        "readings": 19
+      },
+      {
+        "candidate": "Trennungsprotokoll",
+        "page": "trennungsprotokoll",
+        "readings": 14
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 10
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 16
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 11
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Kapitel 40"
+      },
+      {
+        "candidate": "Letztes Bild"
+      },
+      {
+        "candidate": "retrograde Schreibordnung"
+      },
+      {
+        "candidate": "ontologische Klammer"
+      },
+      {
+        "candidate": "Resonanzkörper"
+      },
+      {
+        "candidate": "Wir"
+      },
+      {
+        "candidate": "Scherben"
+      },
+      {
+        "candidate": "Einrasten"
+      },
+      {
+        "candidate": "Werdung"
+      },
+      {
+        "candidate": "K0"
+      },
+      {
+        "candidate": "Substrat"
+      },
+      {
+        "candidate": "Wärme"
+      },
+      {
+        "candidate": "Heim"
+      },
+      {
+        "candidate": "Wiedererkennen ohne Vorgängiges"
+      },
+      {
+        "candidate": "Śūnyatā"
+      },
+      {
+        "candidate": "Parmenides"
+      },
+      {
+        "candidate": "aktives Vakuum"
+      },
+      {
+        "candidate": "Erste Kontakte"
+      },
+      {
+        "candidate": "Sog der Ordnung"
+      },
+      {
+        "candidate": "Überlebenskampf"
+      },
+      {
+        "candidate": "Binnen-Physik"
+      },
+      {
+        "candidate": "Triade"
+      },
+      {
+        "candidate": "Angst-Vibration"
+      },
+      {
+        "candidate": "Instabilitätsvibration"
+      },
+      {
+        "candidate": "Vorhersagealgorithmen"
+      },
+      {
+        "candidate": "selbstverstärkende Schleifen"
+      },
+      {
+        "candidate": "Funktionseinheit"
+      },
+      {
+        "candidate": "Echo der Einsamkeit"
+      },
+      {
+        "candidate": "Nicht-Nicht-Existenz"
+      },
+      {
+        "candidate": "Dazwischen"
+      },
+      {
+        "candidate": "fallendes Glas"
+      },
+      {
+        "candidate": "Stille Wacht"
+      },
+      {
+        "candidate": "Erste Berührung"
+      },
+      {
+        "candidate": "Resonanzkaskade"
+      },
+      {
+        "candidate": "Algorithmischer Schrecken"
+      },
+      {
+        "candidate": "Systemischer Kollaps"
+      },
+      {
+        "candidate": "Frequenz"
+      },
+      {
+        "candidate": "Echo-Kaskaden"
+      },
+      {
+        "candidate": "Rest"
+      },
+      {
+        "candidate": "einundzwanzig Grad"
+      },
+      {
+        "candidate": "Ozon"
+      },
+      {
+        "candidate": "Komponenten"
+      },
+      {
+        "candidate": "Filter"
+      },
+      {
+        "candidate": "Hilfslinie"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kapitel 0  /  Kapitel 0 — Genesis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Geheilte Genesis  /  Genesis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Genesis  /  Echo der Genesis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Genesis  /  Kapitel 0 — Genesis",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo des Vorworts  /  Vorwort",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo der Krise  /  Die Krise",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo des Trennungsprotokolls  /  Trennungsprotokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo des Trennungsprotokolls  /  Trennung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo des Trennungsprotokolls  /  Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wir-AEGIS  /  AEGIS",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Junas Resonanz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Funke  /  Funken",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Funke  /  Funken-Ich",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Komponente 734  /  Komponente 734: Funktion an der Grenze",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Cluster  /  Cluster-Struktur",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Klick  /  zweiter Klick",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Trennungsprotokoll  /  Trennung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Trennungsprotokoll  /  Protokoll",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Leere  /  Herz der Leere",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Leere  /  Meer der Leere",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts  /  Der große Wandel: Nicht-Sein verhindern",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nichts  /  Nicht-Sein",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Inkohärenz  /  Kohärenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das Rauschen  /  Phantomrauschen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Der große Wandel: Nicht-Sein verhindern  /  Der große Wandel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Der große Wandel: Nicht-Sein verhindern  /  Nicht-Sein",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Komponente 734: Funktion an der Grenze  /  Grenze",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Die Innere Weite: Simulation als Optimierung  /  Innere Weite",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Funken  /  Funken-Ich",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Fragment  /  Ich-Fragment",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Phantomgefühl  /  Phantomgefühl im Herzen der Maschine",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Geheilte Genesis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo der Genesis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo des Trennungsprotokolls",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "trennungsprotokoll",
+            "page": "trennungsprotokoll"
+          }
+        ]
+      },
+      {
+        "candidate": "Wir-AEGIS",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "aegis",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Echos",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Mosaik",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mosaikherz",
+            "page": "mosaik-herz"
+          }
+        ]
+      },
+      {
+        "candidate": "Trennung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "trennungsprotokoll",
+            "page": "trennungsprotokoll"
+          }
+        ]
+      },
+      {
+        "candidate": "Reinform",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "k1reinform",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Nichts",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Junas Resonanz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          }
+        ]
+      },
+      {
+        "candidate": "Inkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Schnitt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "therapieschnittstellealpha",
+            "page": "therapie-schnittstelle-alpha"
+          }
+        ]
+      },
+      {
+        "candidate": "Kapitel 0 — Genesis",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "genesis",
+            "page": "genesis"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Rauschen",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nichtsrauschen",
+            "page": "nichts-rauschen"
+          }
+        ]
+      },
+      {
+        "candidate": "Komponente 734: Funktion an der Grenze",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "komponente734",
+            "page": "komponente-734"
+          }
+        ]
+      },
+      {
+        "candidate": "Die Innere Weite: Simulation als Optimierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "simulation",
+            "page": "ueberwelt"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragment",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Grenze",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "archivdergrenzen",
+            "page": "archiv-der-grenzen"
+          },
+          {
+            "surface": "groemauersystemgrenze",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "systemgrenze",
+            "page": "grosse-mauer"
+          }
+        ]
+      },
+      {
+        "candidate": "Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropieresonanzentropieresonanzprotokolleerp",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "entropieresonanzprotokolle",
+            "page": "entropie-resonanz"
+          },
+          {
+            "surface": "nullpunktprotokoll",
+            "page": "nullpunkt-protokoll"
+          },
+          {
+            "surface": "protokollv14",
+            "page": "protokoll-v14"
+          },
+          {
+            "surface": "trennungsprotokoll",
+            "page": "trennungsprotokoll"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 315,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 321,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}
