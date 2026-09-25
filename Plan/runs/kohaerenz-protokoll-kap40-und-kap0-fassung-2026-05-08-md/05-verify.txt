@@ -1,0 +1,76 @@
+# 05-verify — numbers in prose, re-counted with their commands
+
+$ grep -nwF 'retrograder Schreibordnung' $F
+  lines: 13   count(lines): 1
+$ grep -nwF 'ontologischen Klammer' $F
+  lines: 17   count(lines): 1
+$ grep -nwF 'aktiven Vakuum' $F
+  lines: 173   count(lines): 1
+$ grep -nwF 'selbstverstärkenden Schleifen' $F
+  lines: 255 287   count(lines): 2
+$ grep -nwF 'zweite Klick' $F
+  lines: 469   count(lines): 1
+$ grep -nwF 'Kael' $F
+  lines: 35 63 505   count(lines): 3
+$ grep -nwF 'Juna' $F
+  lines: 87 131   count(lines): 2
+$ grep -nwF 'Komponente 734' $F
+  lines: 59 63 297 299 303 319 335 347 373 389 437   count(lines): 11
+$ grep -nwF 'Ozon' $F
+  lines: 501   count(lines): 1
+$ grep -nwF 'einundzwanzig Grad' $F
+  lines: 501   count(lines): 1
+$ grep -nwF 'Wärme' $F
+  lines: 75 83 401 421 429 433 445 485   count(lines): 8
+$ grep -nwF 'Heim' $F
+  lines: 75 83 405 485   count(lines): 4
+$ grep -nwF 'Scherben' $F
+  lines: 115 123 513   count(lines): 3
+$ grep -nwF 'Klick' $F
+  lines: 59 99 267 469   count(lines): 4
+$ grep -nwF 'Kernwelten' $F
+  lines: 493   count(lines): 1
+$ grep -nwF 'Konstrukt-Stadt' $F
+  lines: 501   count(lines): 1
+$ grep -nwF 'Landauer' $F
+  lines:   count(lines): 0
+$ grep -nwF 'Guardian' $F
+  lines:   count(lines): 0
+$ grep -nwF 'Knöchel' $F
+  lines:   count(lines): 0
+$ grep -nwF 'Sophia' $F
+  lines:   count(lines): 0
+$ grep -nwF 'Mnemosyne' $F
+  lines:   count(lines): 0
+$ grep -nwF 'Mira' $F
+  lines:   count(lines): 0
+$ grep -nwF 'Innere Weite' $F
+  lines: 321 327 339 343 373 457   count(lines): 6
+$ grep -nwF 'Inneren Weite' $F
+  lines: 335 343 485 497   count(lines): 4
+$ grep -nwF 'kalt' $F
+  lines: 335 421   count(lines): 2
+$ grep -nwF 'kalte' $F
+  lines: 307 319   count(lines): 2
+$ grep -nwF 'kalten' $F
+  lines: 351 477   count(lines): 2
+$ grep -nwF 'Kälte' $F
+  lines: 425   count(lines): 1
+$ grep -nwF 'dreizehn' $F
+  lines: 63   count(lines): 1
+
+$ grep -ow "Kap [0-9]*\|Kapitel [0-9]*" $F | sort | uniq -c
+      3 Kapitel 0
+      3 Kapitel 40
+
+# What the count's zeros mean
+
+Five candidates count 0 word 0 in, all phrases the list wrote in the nominative:
+  retrograde Schreibordnung   -> „in retrograder Schreibordnung" L13
+  ontologische Klammer        -> „der ontologischen Klammer" L17
+  aktives Vakuum              -> „in ihrem aktiven Vakuum" L173
+  selbstverstärkende Schleifen -> „Die selbstverstärkenden Schleifen" L255, L287
+  zweiter Klick               -> „Der zweite Klick." L469
+This is the defect briefing v11's new question names, written one document after
+the question was added. The list was committed before the count and is left as
+written.
