@@ -280,8 +280,8 @@ person the lock of 2026-05-30 gives one chapter (C14). Its Landauer warmth is â€
 als Ozon-Geruch oder Hitzeschlieren": both sides of C11 as one thing's two renderings,
 seventeen days before the lock. It puts Juna's appearance in Kap 38 (C7) and the bleeding
 knuckles in Nyx's voice, in no chapter (C10). **No pages, readings on 32.** It was read
-out of order on purpose: another session's handover named the next document, and the
-two sessions had already read documents 16 and 17 twice each.
+beside the eighteenth on purpose: the other session's handover had named that one, and
+the two sessions had already read documents 16 and 17 twice each.
 
 `Plan/runs/judgements.jsonl` holds **88 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
