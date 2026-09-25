@@ -67,7 +67,7 @@ Only [[logos|LogOS]]' is the *categorical* kind that document 3 argues for [[aeg
 
 ### Unmerged — see C4
 
-Document 3 argues the categorical blind spot for **AEGIS**; this one argues five
+Document 3 argues the categorical blind spot for **[[aegis|AEGIS]]**; this one argues five
 for **the [[guardians|Guardians]]**, and neither document mentions the other's bearer. Whether
 these are one system at two scales is not answerable from what has been read.
 

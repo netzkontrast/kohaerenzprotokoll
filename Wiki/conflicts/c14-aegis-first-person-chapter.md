@@ -36,7 +36,7 @@ The glossary says the same in the same words (L533). Both date the exception
 2026-05-30.
 
 **The older sources state the rule with none** — three weeks before the lock
-(rows 1 and 2). The character bible already has AEGIS chapters, in the third
+(rows 1 and 2). The character bible already has [[aegis|AEGIS]] chapters, in the third
 person: „AEGIS-Kapitel arbeiten mit:" ^[kohaerenz-protokoll-charakter-bibel-2026-05-08-md.md:L137]
 
 **Two sources of the lock's own date keep the rule without the exception.** The

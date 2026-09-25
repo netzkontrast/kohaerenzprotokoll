@@ -303,7 +303,7 @@ Q5.
 
 Kap 31, „Auflösung der Guardians" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L626], with what [[kael|Kael]] takes from them: „Kael absorbiert Guardian-Prinzipien gesund: Logik ohne Kälte, Schutz ohne Paranoia." ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
 Beside it, „Guardians als Sub-Antagonisten" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628], and the sensory line „Wächter, die in Lichtstaub aufgehen und in Kael fließen" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]
-— the line documents 7 and 9 end at *aufgehen*; here they flow into Kael. Its
+— the line documents 7 and 9 end at *aufgehen*; here they flow into [[kael|Kael]]. Its
 Genesis echo: „Kael nimmt schon AEGIS-Funktionen pluralisiert an" ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L628]. The census listed
 `Guardian` and the page's surface is `Guardians`, so the lookup did not reach this
 page. Found by the sweep (decision 012).

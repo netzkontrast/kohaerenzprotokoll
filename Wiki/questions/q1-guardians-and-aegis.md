@@ -190,7 +190,7 @@ stands in both. Found by the record audit of 2026-09-24
 Überwelt — „Operationsraum von AEGIS." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282] — „als abstrakte Entitäten" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L282], and
 Mnemosyne is „die einzige Stimme im AEGIS-System" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L696]. The Wächter-Registry
 lists „wo Mnemosyne und der Erasure-Pol verzeichnet sind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L298]. Closest yet to „inside",
-and still no sentence says the Guardians are parts of AEGIS.
+and still no sentence says the [[guardians|Guardians]] are parts of [[aegis|AEGIS]].
 
 ## 2026-09-25 — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
 
