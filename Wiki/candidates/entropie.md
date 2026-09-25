@@ -1,10 +1,10 @@
 ---
 term: Entropie
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C2
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-16"
 ---
 
@@ -174,3 +174,11 @@ Berechnung und Entropie." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10
 Ereignisse überhaupt" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] — „K₀ ist das, was ein Universum bewohnbar macht."
 ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L37] Conflict C2: a fourth sense, neither disorder to fight nor the matrix
 things come from, but what makes time and learning possible.
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Tatsächlich ist AEGIS die Entropie." ^[kohaerenz-protokoll-konzept-master-md.md:L63] K₀ is „Irreversibilität, Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L99] — and
+„K₀ ist die Bedingung für Ereignisse überhaupt." ^[kohaerenz-protokoll-konzept-master-md.md:L107] Control makes more of it: „Kontrolle erzeugt Landauer-Wärme = MEHR Entropie" ^[kohaerenz-protokoll-konzept-master-md.md:L223].
+„Das System produziert die Entropie, die zu bekämpfen es behauptet." ^[kohaerenz-protokoll-konzept-master-md.md:L478]
+Two senses of C2 in one document: AEGIS as the entropy it fights, and K₀ as the condition for events. The
+[[truth-rotation|Truth-Rotation]] is the first.
