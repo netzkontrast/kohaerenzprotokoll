@@ -4,7 +4,7 @@ subject: Guardians and Kern-Welten
 kind: one arrangement, two versions a year apart — five Guardians paired with worlds, against two Guardians and no pairing
 status: decided — the count, by the author, 2026-09-24; the pairing is Q5
 first_seen: "2026-09-24"
-sources: 13
+sources: 14
 pages: ["guardians", "mnemosyne", "logos", "cerberus", "kairos", "sophia", "kern-welten"]
 ---
 
@@ -179,3 +179,12 @@ The author's decision for five stands; the document is a proposal of 2026-06-10.
 and „Erasure-Pol (Guardian / Löschungs-Exekutive)" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L51], its name open (L53).
 [[logos|LogOS]] and [[cerberus|Cerberus]] stand only in world names (L213, L221); [[kairos|Kairos]] and [[sophia|Sophia]]
 do not occur. Recorded after the author's decision for five; it changes nothing in that decision.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Two, with the five named as earlier drafts and absorbed.**
+„Frühere Drafts hatten 5 Guardians (LogOS, Mnemosyne, Cerberus, Kairos, Sophia). Aktuell kanonisch nur 2:" ^[kohaerenz-protokoll-konzept-master-md.md:L504]
+„**Ein Erasure-Pol** — Funktion klar (Löschungs-Exekutive), Name offen." ^[kohaerenz-protokoll-konzept-master-md.md:L509]
+„Begründung der Reduktion: 5 Guardians lasten den 39-Kapitel-Plan zu sehr; 2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
+No pairing: „**Wichtig:** Die Kernwelten sind *Akt-Marker*, nicht "eine pro Guardian"." ^[kohaerenz-protokoll-konzept-master-md.md:L665]
+The author's decision for five (2026-09-24) stands; this is one more source for two, dated the same day as the character bible and the konsolidiertes Konzept, and it gives a reason the others do not: the weight on a 39-chapter plan.
