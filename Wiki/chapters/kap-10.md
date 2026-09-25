@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,14 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Foreshadowing: „Die Zahl 734 taucht zum zweiten Mal auf — somatisch verankert, ohne erklärt zu werden.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L473]
 - Characters: „Juna (durch Wirkung), Silas (latente Resonanz)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L477]
 - Sensorik: „Netzwerke, Graphen, Resonanz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L481]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Erste Anwendung der Integration“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- World: „KW1/McL-Vorschein“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (marked `[K]`)
+- Storyform: „A-Requirement: Moonshine-Bewusstsein“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (marked `[K]`) · „Moonshine-Bewusstsein (Kap 10)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L150]
+- Story: „K-J-Verbindung erstmals als Werkzeug“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (marked `[K]`)
+- Theory: „Quanten-Nichtlokalität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (marked `[K]`)
+- Veil: „Multiplizität wird im Roman nicht ausgesprochen bis \~Kap 10“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L44] (marked `[K]`)

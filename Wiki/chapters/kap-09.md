@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,14 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Scene: „Erste explizite Wir-Stimme-Szene“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L449]
 - Characters: „Kael, Lex, Rhys, Selene, Alex (alle in inner-dialogischer Polyphonie)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L453]
 - Sensorik: „inneres Geflecht, Wir-Stimme“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L457]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Rückkehr mit neuer Sichtweise“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- Stage: „Rückkehr mit neuer Sichtweise (Integration beginnt) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (marked `[K]`)
+- Storyform: „A-Requirement: Wir-Bildung beginnt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (marked `[K]`) · „Wir-Bildung (Kap 9 →eskalierend)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L150]
+- Story: „erste bewusste innere Kooperation; Foreshadowing-Programm „plurale Bewahrung" startet“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (marked `[K]`) · „jede Wir-Stimme-Szene ab hier zielt auf Kap 39“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198]
+- Genesis echo: „Wir-Bildung = strukturelle Wieder-Annäherung an die K₁-Reinform über plurale Form“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (marked `[K]`)
+- Lock: „keine Wir-Geflecht-Etablierung vor Kap 9“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (marked `[K]`)

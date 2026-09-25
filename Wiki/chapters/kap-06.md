@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,13 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Storyform: „OS-Physics — AEGIS' Logik zeigt Schwächen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L373]
 - Sensorik: „Hitzeschlieren, verzerrte Physik (Landauer-Wärme)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L385]
 - Genesis echo: „der Cache-Konflikt ist das Echo der ursprünglichen Resonanz-Kaskade aus Kap 0“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L385]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Tod einer Einstellung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- World: „KW1→KW2-Vorschein“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (marked `[K]`)
+- Story: „„Cache-Konflikt" — die einseitige Logik scheitert an einem komplexen Problem; Erkenntnis der Begrenztheit“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (marked `[K]`)
+- Theory: „parakonsistente Logik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (marked `[K]`)
+- Genesis echo: „Echo der ursprünglichen Resonanz-Kaskade“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (marked `[K]`)

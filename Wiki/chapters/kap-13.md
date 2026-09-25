@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,14 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Storyform: „OS-Physics — AEGIS bereitet Phase-2-Stress-Tests vor (Forewarning B aktiviert)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L541]
 - Sensorik: „Garten, Pflege, lebendige Ordnung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L553]
 - Transition: „Modus-Wechsel (linear → zyklisch), kein Storyform-Wechsel.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L557]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Tanz im Garten“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- Stage: „Tanz im Garten (neue innere Welt) · KW1→Übergang“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (marked `[K]`)
+- Story: „Praxis etabliert; Teil-1-Abschluss“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (marked `[K]`)
+- Genesis echo: „die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (marked `[K]`)
+- Veil: „ab hier offen benennbar“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (marked `[K]`) · „vor Kap 13 keine Klartext-Diagnose (kein „Alters", kein „DID")“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L44] (marked `[K]`)
+- Transition: „13/14 und 26/27 = Modus-Wechsel“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L86]

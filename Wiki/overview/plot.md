@@ -1,7 +1,7 @@
 ---
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 gathered: "2026-09-25"
 ---
 
@@ -45,3 +45,18 @@ several of these documents call themselves canon, and none retires another
 - Storyform turn: „Die Modus-Grenzen (13/14, 26/27) sind keine Storyform-Grenzen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L103] · „Die echte Storyform-Wendung (B → A) liegt bei 35/36 — also mitten in Modus 3.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L103]
 - Transitions: „Kap 34 → 35 | Storyform-Wendung (in Modus 3) | B beginnt zu erlöschen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1333] · „Kap 39 → 40 | Coda (Synthese-Sicht zurück) | Genesis-Schleife schließt sich rekursiv“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1336]
 - Frame: „Der Roman ist eine ontologische Heilungs-Schleife.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1383] · „Bei Konflikt zwischen Quellen gewinnt das Konzept-Dokument 2026-05-08.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1393]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+- Count: „39 Kapitel + Kap 0 + Kap 40, plurale Apotheose statt Reset“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L13]
+- Blocks and modes: „Genesis-Prolog | 0“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L71] · „Heldinnenreise innen | 1–13 | linear-introspektiv, Stufen-Folge“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L72] · „Zyklischer Modus | 14–26 | rekursiv, 3 Spiral-Zyklen + Wendepunkt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L73] · „Heldenreise außen (Phase A) | 27–34 | linear-aufsteigend, Akt-Architektur“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L74]
+- Blocks, end: „Vortex 1 | 35–36 | vortex-still, Soft-Layering“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L75] · „Trügerischer Sieg | 37 | Reward-Beat“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L76] · „Vortex 2 / Plurale Apotheose | 38–39 | chorisch, Synthese“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L77] · „Geheilte Genesis (Coda) | 40 | rückblickend, ruhig“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L78]
+- Storyforms across the book: „A dominant, B latent“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L72] · „A‖B echte Polyphonie“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L73] · „100 %; B→A, dann B erlischt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L75]
+- Transitions: „13/14 und 26/27 = Modus-Wechsel“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L86] · „34/35 = die echte Storyform-Wendung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L87] · „36/37 = Storyform-Konsolidierung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L88]
+- Frames: „Genesis (Kap 0 ↔ Kap 40, Erzähler/ontologische Außen-Klammer) · Vortex (Vortex 1 orthodoxer Klimax ↔ Vortex 2 post-orthodoxe Synthese)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92]
+- Signposts: „S1 (Akt I, 1–13) | S2 (Akt II, 14–26) | S3 (Akt III-A, 27–34) | S4 (Vortex, 35–39)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L131] (marked `[V]`)
+- Akt II: „Drei Spiral-Zyklen (Destabilisierung → Reaktion → Korrektur), eskalierend“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L206] (marked `[K]`) · „Kap 18–22 — Genesis-Flashback-Cluster“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] (marked `[K]`) · „Beide Storyforms simultan wahr; max. 3 Mikrocue-Punkte/Szene“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215]
+- Akt III: „Heldenreise-Außenstufen 27–34“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L228] (marked `[L]`) · „Mapping dieser \~13 Stufen auf 27–39 mit Vortex-1 (35–36) / trügerischer Sieg (37) / Vortex-2 (38–39) als Fixpunkte“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L256] (marked `[L]`)
+- Vortex 1: „Fünf Beats (Phillips/Huntley-Mechanik)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`) · „bis B in Beat 5 erlischt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] · „Beat 3 = strukturell notwendige Pause — nicht mit Inhalt füllen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232]
+- Vortex 2: „Synthese (c) entsteht (verlässt das Klein-c-Schema)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240] (marked `[K]`) · „Genesis-Beat 4 (Wir-AEGIS-plural) vollzogen.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240] · „Schluss-Klang „Liebe bleibt, wie der Schmerz"“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]
+- Kishōtenketsu: „Ki (Einführung) = Kap 0 + früher Akt I · Shō (Entwicklung) = Akt I/II · Ten (Wendung) = Vortex 1+2 · Ketsu (Synthese, nicht Showdown) = Kap 39/40“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L264] (marked `[S]`)

@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Characters: „erste Schatten von Rhys (Caregiver) als Wärme die er nicht versteht“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L357]
 - Storyform: „MC-Concern Memory — trügerische Stabilität als Erinnerungs-Substitut“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L349]
 - Sensorik: „spiegelglatter Erfolg, sensorisch flach“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L361]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Auge des Sturms“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L194]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- Stage: „Auge des Sturms (falscher Erfolg) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L194] (marked `[S]`)
+- Story: „trügerische Stabilität; ein Scheinerfolg, dessen Basis nicht integriert ist“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L194] (marked `[S]`)

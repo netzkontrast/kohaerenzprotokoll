@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,3 +39,13 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Characters: „alle ANPs (Lex, Alex, Rhys, Selene), erste vorsichtige Spuren von EPs (Kiko sehr leise)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L501]
 - Sensorik: „Mosaik, Scherben als Muster“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L505]
 - Genesis echo: „Mosaik-Herz als Vorgriff auf plurale Bewahrung in Kap 39.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L505]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Akzeptanz der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- World: „Akzeptanz der Komplexität · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (marked `[K]`)
+- Storyform: „A-Requirement: Mosaik-Akzeptanz“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (marked `[K]`) · „Mosaik-Akzeptanz (Kap 11)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L150]
+- Story: „„Mosaik-Herz"“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (marked `[K]`)
+- Genesis echo: „Vorgriff auf plurale Bewahrung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (marked `[K]`)

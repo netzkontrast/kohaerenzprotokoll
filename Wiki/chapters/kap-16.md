@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,3 +36,11 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Characters: „Moros' Schwere zieht im Hintergrund alles herunter.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L621]
 - AEGIS: „AEGIS interpretiert den Rückfall fälschlich als Stabilisierung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L621]
 - Sensorik: „enge Räume, taube Sensorik“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L629]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Die Diktatur der Komplexität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Story: „physikalische Grenzen der Rechenkapazität (P vs. NP); AEGIS opfert Realitäts-Detail für globale Stabilität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (marked `[K]`)
+- Theory: „Komplexitätstheorie / „Diktatur der physikalischen Zeit"“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (marked `[K]`)

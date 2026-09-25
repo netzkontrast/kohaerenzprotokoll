@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Foreshadowing: „Die Zahl 734 erscheint zum dritten Mal — Kael ahnt jetzt, dass das eine Adresse oder ein Name ist.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L837]
 - Storyform: „Erasure-Drohung intensiviert (Forewarning B Maximum)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L833]
 - Sensorik: „Wegkreuzung, Schwellen-Bilder, ein Atemzug vor dem Schritt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L845]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Range entry: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (marked `[K]`)
+- Story: „Kap 25 = Stehen an der Schwelle (Vorbereitung/Entschluss, NICHT Konfrontations-Beginn)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (marked `[K]`)

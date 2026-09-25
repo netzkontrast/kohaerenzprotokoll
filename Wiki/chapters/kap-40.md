@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 1
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 2
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -28,3 +28,15 @@ Position: „Geheilte Genesis (Coda) | Ketsu | 40“ ^[koharenz-protokoll-strukt
 - Crisis echo: „Junas Resonanz, jetzt als Geburt erkannt, nicht als Angriff.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1242]
 - Last image: „Wir tragen die Scherben — und sie sind das Mosaik, das die Welt hält. Liebe bleibt. Wie der Schmerz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1244]
 - Length: „Deutlich kürzer als Kap 0 — vielleicht halb so lang. Echo, nicht Wiederholung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1256]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Geheilte Genesis (Coda)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L242]
+Position: „Geheilte Genesis (Coda) | 40 | rückblickend, ruhig“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L78]
+
+- Story / POV: „Die Genesis-Ereignisse aus der Sicht der vollzogenen pluralen Heilung; Wir-AEGIS-plural als Erzähl-Stimme“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L244] (marked `[K]`)
+- Storyform: „A-Outcome (Success) und B-Dividend gleichzeitig wahr“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L244] (marked `[K]`) · „retroaktiv erkannt Kap 40“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L149]
+- Lock (dual reading): „Kap 40 lässt beide Lesarten zu — Konflikt-Leser sehen im Flip einen Reset; Kishōtenketsu-Leser lesen Transfiguration“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L56] (marked `[K]`) · „Projektion erlauben, nie bestätigen.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L56]
+- Tone: „Tonal: ruhig, akzeptierend, ohne Didaktik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L244] (marked `[K]`) · „„Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert."“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L244]
+- Frame: „Genesis (Kap 0 ↔ Kap 40, Erzähler/ontologische Außen-Klammer)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92]
+- Kishōtenketsu: „Ketsu (Synthese, nicht Showdown) = Kap 39/40, ambivalent, ohne Erklärung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L264] (marked `[S]`)

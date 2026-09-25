@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,3 +39,12 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Storyform: „IC-Mind/Conscious latent — erste … Spur in B's Logik“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L325]
 - Sensorik: „korrumpierte Textdateien, veraltete Interfaces“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L337]
 - Genesis echo: „Klick-Motiv — die kalten Logik-Klicks von AEGIS' System wirken wie Echos des Trennungsprotokolls“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L337]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Pforten der Verurteilung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L193]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- Stage: „Pforten der Verurteilung (Prüfungen) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L193] (marked `[S]`)
+- Story: „Tests der neuen, einseitig-logischen Identität; Zweifel, Scham, logische Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L193] (marked `[S]`)
+- Philosophy: „Gödel-Vorschein (Grenzen des Regelsystems)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L193] (marked `[S]`)

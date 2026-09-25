@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,12 @@ Position: „Vortex 1 (operativ) | Ten (Höhepunkt 1) | 35–36“ ^[koharenz-pr
 - Plot: „Die operative Wendung ist nicht das Ende.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1120]
 - Characters: „Oblivion (übernimmt AEGIS' Funktion in Kaels Innensystem — als Wachheit, die entscheidet statt automatisch löscht)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1124]
 - Sensorik: „Landauer-Wärme als Schluss-Markierung, Stille danach, kein Triumph“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1128]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Position: „Vortex 1 (Kap 35–36) — Operative Wendung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L230] (marked `[K]`)
+
+- Storyform: „B:Failure manifest“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`) · „AEGIS-monolithisch erlischt (Kap 36)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`)
+- Cost (B): „AEGIS-monolithisch erlischt — manifest Kap 36“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L148]
+- World: „Setting: Mnemosyne-Server-Architektur (KW2)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`)
+- Transition: „36/37 = Storyform-Konsolidierung (nur noch A aktiv; Resolution)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L88]

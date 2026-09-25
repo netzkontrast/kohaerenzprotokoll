@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Storyform: „Erste bewusste Pursuit-Bewegung. Driver-Anker A: Decision, aktiv hinschauen statt wegsehen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L645]
 - Characters: „Kael, Selene (Wächterin-Funktion klar), Rhys, Lex“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L649]
 - Sensorik: „Licht durch enge Architektur, Wärme durch Betäubung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L653]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Phaenomena vs. Noumena“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Story: „Kael sieht die „Drähte" der Simulation (Rendering-Ebene vs. Prozess-Kern)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213] (marked `[K]`)
+- Philosophy: „Kant, transzendentaler Idealismus“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213] (marked `[K]`)

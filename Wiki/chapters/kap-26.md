@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,13 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Storyform: „Erasure-Vorbereitung eskaliert; AEGIS antizipiert die Linearisierung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L857]
 - Genesis echo: „die Decision rastet ein, wie das Trennungsprotokoll einrastete, aber in umgekehrter Richtung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L869]
 - Transition: „Modus-Wechsel (zyklisch → linear-aufsteigend), kein Storyform-Wechsel.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L873] · „Kap 26 nicht Kampfbeginn — Schwellen-Tritt.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L873]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Range entry: „Kap 25–26 — Wendepunkt zur Befreiung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (marked `[K]`)
+- Story: „Kap 26 = der Tritt darüber“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (marked `[K]`)
+- Veil: „jetzt offen benannt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (marked `[K]`)
+- Transition: „13/14 und 26/27 = Modus-Wechsel“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L86]

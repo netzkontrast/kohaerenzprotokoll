@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,3 +39,14 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Juna: „Junas Existenz bleibt nicht-beschrieben — nur die Telefon-Stille, nur die Phantom-Resonanz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L401]
 - Sensorik: „warmer Windstoß in eisiger Welt, Melodie, Telefon-Stille“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L409]
 - Open question: „Kap 7, 24, 30 betroffen — Telefon-Stille gesetzt, weitere Modi offen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1370]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Unterstützung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- Stage: „Unterstützung (Sehnsucht nach dem Weiblichen) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
+- Storyform: „A:RS-S1 (Learning — Junas Präsenz spüren)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
+- Story: „die K-J-Verbindung wird stärker; erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was es ist“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`) · „Moonshine als Verlernen der Trennung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196]
+- Genesis echo: „Junas Resonanz — jetzt nicht Angriff, sondern Sehnsucht“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
+- Characters (Juna rule): „nie Subjekt, nur Wirkung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)

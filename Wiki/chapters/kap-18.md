@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,12 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Genesis flashback: „Erster Genesis-Flashback (Bridge): Cluster-Bildung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L669] · „er erlebt sie als fremde Daten, nicht als seine eigene Erinnerung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L669]
 - Sensorik: „asynchrone Sensorik, Glitch-Texturen, Räume die nicht zueinander passen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L677]
 - Open question: „Kap 18, 21, 22 als Flashback-Träger gesetzt; exakte Beat-Verteilung offen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1371]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Qualia-Informationsparadox“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Theme: „das „Harte Problem"; PSM-Territorium (Metzinger)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (marked `[K]`)
+- Genesis echo: „Beginn Genesis-Flashback-Cluster.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (marked `[K]`)
+- Cluster: „Kap 18–22 — Genesis-Flashback-Cluster“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] (marked `[K]`) · „Einheit → Trennungsprotokoll → Kael = Komp 734“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215]

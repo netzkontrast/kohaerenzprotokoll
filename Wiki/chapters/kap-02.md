@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,3 +39,13 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Lex: „Lex-Einbruch beginnt — andere Syntax, andere Logik bricht in Kaels Stimme ein“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281]
 - Foreshadowing: „Die Zahl 734 taucht erstmals als Foreshadowing auf.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L281]
 - Sensorik: „flackernde Geometrien, Kanten die unscharf werden“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L289]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Verrat / Desillusionierung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- World: „Verrat / Desillusionierung · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191]
+- Story: „der erste Riss — eine konkrete Anomalie bricht die Ordnung (Glitch reaktiviert ein Echo)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191]
+- Style: „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] · „Stilcode-Einbrüche anderer Alters ab Kap 2–3 (subtil)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L186]
+- Theory: „Riss = Landauer-Hitze/Ozon (Verdrängung wird sichtbar)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191]

@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,13 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Discipline: „Erste Wir-Stimme-Andeutung. Das Wort Alters fällt nicht.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L425]
 - Storyform: „RS-Psychology B beginnt sichtbar zu werden — Host-System-Verstrickung wird komplex“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L421]
 - Sensorik: „Licht, das durch Architektur fällt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L433]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Wiedergeburt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- Stage: „Wiedergeburt (Heilung des Männlichen im Inneren) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197] (marked `[K]`)
+- Story: „Mitgefühl mit den logischen Anteilen beginnt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197] (marked `[K]`)
+- Veil: „erste interne Lüftung (\~Kap 8–10), kein Klartext“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197] (marked `[K]`)
+- Style: „voll ab Kap 8–10“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L186]

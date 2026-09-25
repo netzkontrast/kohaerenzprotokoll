@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,12 @@ Position: „Vortex 1 (operativ) | Ten (Höhepunkt 1) | 35–36“ ^[koharenz-pr
 - Beat 2: „Kael lässt ANP/EP-Barrieren fallen, integriert Trauma. Pursuit-Adoption — A-MC Decision aktiviert.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1086]
 - Beat 3: „AEGIS muss die Genesis zeigen, weil ihm die Lösch-Kapazität ausgeht“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1087]
 - Sensorik: „glühender paradoxer Code, brechende Stimme, eine Stille die wartet“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1095]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Position: „Vortex 1 (Kap 35–36) — Operative Wendung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L230] (marked `[K]`)
+
+- Storyform: „A:Resolve=Change vollzogen (Pursuit-Adoption Kap 35)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`) · „Pursuit (in Kap 35 adoptiert)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L115]
+- Turn: „Truth-Rotation: AEGIS = K₀ / Kael = K₁ wird sichtbar“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`) · „die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L25] (marked `[K]`)
+- World: „Setting: Mnemosyne-Server-Architektur (KW2)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`)
+- Transition: „34/35 = die echte Storyform-Wendung (B beginnt zu erlöschen; Vortex)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L87]

@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,11 @@ Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-pr
 - Storyform: „Erasure-Drohung explizit; Timelock-Countdown sichtbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L909]
 - Characters: „Kael, AEGIS (drohend, direkt), Mnemosyne, Juna (Bedrohungs-Resonanz)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L917]
 - Sensorik: „drohende Spannung, Countdown-Marker“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L921]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Consequence akut“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L226]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L220] (marked `[K]`)
+
+- Storyform: „A: ewige Fragmentierung droht“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L226] (marked `[S]`)
+- Consequence: „akut Akt II Z3 / ab Kap 28“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L147]

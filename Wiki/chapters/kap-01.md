@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,16 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - Juna: „Phantom-Resonanz, ein Wort ohne Referent (Juna).“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L257]
 - Sensorik: „sterile Leere, Ozon, weißes Licht, 21°C“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]
 - Genesis echo: „das sterile Setting ist die Innere Weite (Überwelt) aus Kap 0“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L265]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Illusion der perfekten Welt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- World / Storyform: „KW1 · A:MC-S1 (Memory latent), B:IC-S1 (Kael = unfixbarer Bug)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]
+- Story: „ein Mensch, ein steril, perfekt geordneter Alltag (Wohneinheit 734 → Datenknoten Epsilon → Transitkorridor Delta-7)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190] · „Ordnung als Käfig. Eine einzige konkrete Falschheit.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]
+- Genesis echo: „das sterile Setting ist die Innere Weite aus Kap 0 — der Leser erkennt es, Kael nicht“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]
+- Leitmotiv: „quellenloses Licht, Ozon, Stille; Atem“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L190]
+- Lock (prose): „PROSA-REGEL KAP 1 (gelockt 2026-05-31, aus User-Feedback)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L33] · „Die Amnesie wird nie erwähnt.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L37] · „Der Leser dockt an einem Menschen an, nicht an einer These.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L39]
+- Lock (first sentence): „Kap 1 ↔ Kap 39 (erster Satz = letzter Satz, den Kael schreibt; gelockt: „Das Licht ist schon da, als ich erwache")“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92]
+- Somatics: „Kap 1 bleibt spurlos“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]

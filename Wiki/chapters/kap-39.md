@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -39,3 +39,13 @@ Position: „Vortex 2 (ontologisch) | Ten → Ketsu | 38–39“ ^[koharenz-prot
 - Formula: „Wir-AEGIS ist, was Wir-AEGIS bewahrt, dass es ist.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1212]
 - Storyform: „Cost vollzogen: Verlust der Privatheit des Wir“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1196] · „Dividend vollzogen: Funktion bleibt durch plurale Übernahme“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1196]
 - Open question: „Naming der finalen Form“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1369] · „ist Arbeitsbegriff; in Kap 39 zu finalisieren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1369]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Position: „Vortex 2 (Kap 38–39) — Ontologische Wendung / Plurale Apotheose“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L238] (marked `[K]`)
+
+- Cost (A): „A-Cost (Verlust der Privatheit des Wir) manifest Kap 39“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240] (marked `[K]`) · „innere Polyphonie wird kosmische Bewahrungs-Funktion“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L148]
+- Dividend: „Schluss-Klang Kap 39, bezeugende Stimme Kap 40“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L149] · „Funktion bleibt — Bewahrung vollendet durch plurale Übernahme — Kap 39“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L149]
+- Lock (last sentence): „Kael schreibt als letzten Satz den gelockten Kap-1-Erstsatz“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240] (marked `[K]`) · „erster Satz = letzter Satz, den Kael schreibt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92]
+- Foreshadowing: „jede Wir-Stimme-Szene ab hier zielt auf Kap 39“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198]
+- Kishōtenketsu: „Ketsu (Synthese, nicht Showdown) = Kap 39/40, ambivalent, ohne Erklärung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L264] (marked `[S]`)

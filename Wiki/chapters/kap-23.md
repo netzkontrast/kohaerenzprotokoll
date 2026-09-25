@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -36,3 +36,11 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Characters: „alle ANPs + EPs in beginnender Kooperation“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L793]
 - Sensorik: „Mosaik in Bewegung, Scherben die sich zueinander finden, ohne Plan“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L797]
 - Genesis echo: „innere Schöpfung als Vorform der kosmischen Schöpfung von Kap 39.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L797]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Mosaik als Schöpfung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L216]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Storyform: „Mosaik als Schöpfung (A-Requirement)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L216] · „Mosaik als Schöpfung (Kap 23)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L150]
+- Detail: „Szenen-Detail“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L216] (marked `[L]`)

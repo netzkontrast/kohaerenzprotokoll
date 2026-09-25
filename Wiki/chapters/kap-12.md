@@ -1,8 +1,8 @@
 ---
 chapter: 12
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Heldinnenreise innen | Ki (Vertiefung) | 1–13“ ^[koharenz-proto
 - AEGIS: „AEGIS scannt — und scheitert. Der Reader spürt: AEGIS hat ein Problem.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L521]
 - Storyform: „OS-Physics latent — AEGIS scannt diesen Zustand und kann ihn nicht klassifizieren“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L517]
 - Sensorik: „Stille, Atem, Herzschlag“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L529]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Stille der Mitte“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201]
+Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L184] (marked `[K]`)
+
+- Stage: „Stille der Mitte (Jetzt-Raum) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (marked `[K]`)
+- Story: „innere Stabilität gefunden; ein gehaltener Moment“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L201] (marked `[K]`)

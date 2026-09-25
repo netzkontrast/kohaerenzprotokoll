@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Characters: „Kiko als kindliche Angst-Reaktion im Hintergrund.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L597]
 - Storyform: „MC-Problem Avoidance reaktiviert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L593]
 - Sensorik: „Schattenwurf, Babymonster-Welt-Resonanz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L605]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Turing-Mechanik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Story: „die Stadt als universelle Turingmaschine; Kael versteht das Halteproblem (prinzipielle Unvorhersehbarkeit)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (marked `[K]`)
+- Philosophy / Theory: „Turing, Halteproblem“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (marked `[K]`)

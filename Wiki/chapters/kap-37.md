@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,13 @@ Position: „Trügerischer Sieg | Ten (Pause) | 37“ ^[koharenz-protokoll-struk
 - Plot beats: „Am Rand der Wahrnehmung beginnt etwas zu zerfasern.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1144]
 - Sensorik: „kristallisiertes Gewebe, neue Architektur, feine Sprünge am Rand“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1152]
 - Genesis echo: „das Rauschen, das hier beginnt, ist das Nichts-Rauschen aus Kap 0.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1152]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Trügerischer Sieg“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L234]
+Position: „Trügerischer Sieg | 37 | Reward-Beat“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L76]
+
+- Beat: „Trügerischer Sieg (Kap 37) — Reward-Beat“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L234] (marked `[K]`)
+- Storyform: „nur A scheinbar, mit feinen B-Echos als Rauschen-Vorzeichen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L236] (marked `[K]`)
+- Lock: „Hard-Constraint: keine Resolution-Glättung in Kap 37.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L236] (marked `[K]`)
+- Transition: „36/37 = Storyform-Konsolidierung (nur noch A aktiv; Resolution)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L88]

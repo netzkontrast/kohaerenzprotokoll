@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,12 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Plot beats: „AEGIS initiiert Phase 2: Stress-Test Delta-7 (moralisches Dilemma). Kaels neu gefundene Balance wird getestet.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573]
 - Mnemosyne: „Mnemosyne tritt erstmals deutlich auf — sie agiert subtil, manipulativ“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L573]
 - Sensorik: „zerbrochene Fassade, Sprünge im Raum“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L581]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „Das Archiv der Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Position in mode: „Bruch / 1. Szene des zyklischen Modus“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (marked `[K]`)
+- Story / World: „Kael erhält Zugang zu AEGIS' technischen Dossiers (Lernarchiv Theta-9). KW2 betritt.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (marked `[K]`)
+- Transition: „13/14 und 26/27 = Modus-Wechsel“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L86]

@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,10 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Storyform: „AEGIS erkennt den Kanal als feindlich“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L809]
 - Characters: „Kael, Juna (Witness-Modus), Silas (Resonanzkörper), AEGIS (Kanal-Stören)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L817]
 - Sensorik: „Telefon-Stille als Anker, Witness-Modus, eine Stille die hörbar wird“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L821]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „wiederkehrendes K-J-Thema“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L217]
+Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
+
+- Story: „Moonshine als Werkzeug, KW2/KW3-Kreativität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L217] (marked `[S]`)

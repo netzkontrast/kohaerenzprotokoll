@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,10 @@ Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-pr
 - Plot beats: „Die Verbindung zu Juna wird zum stabilen, bewussten Kanal.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961] · „Resonanz-Maximum vor dem Vortex.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961]
 - Juna: „Juna bleibt nicht-beschrieben — nur die Telefon-Stille wird zur klingenden Substanz.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L961]
 - Sensorik: „klingender Kanal, Resonanz-Maximum“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L969]
+
+## Reading — `kapitel-kompendium-gather-2026-05-31-md`, 2026-05-30
+
+Title: „K-J-Verbindung als bewusster Kanal“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L227]
+Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L220] (marked `[K]`)
+
+- Storyform: „K-J-Verbindung als bewusster Kanal (A-Prerequisite)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L227] (marked `[K]`) · „K-J als bewusster Kanal (Kap 30)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L151]
