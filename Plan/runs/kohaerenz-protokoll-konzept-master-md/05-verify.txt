@@ -1,0 +1,56 @@
+# 05-verify.txt — commands and their output, for every number the prose uses
+
+$ grep -n '1\. Person' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+404 875 876   (lines: 3)
+$ grep -n '3\. Person' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+404 877   (lines: 2)
+$ grep -n '39' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+21 513 742 907 933   (lines: 5)
+$ grep -n 'Flight' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+422 1049   (lines: 2)
+$ grep -n 'Landauer' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+123 149 151 223 478 855 1024   (lines: 7)
+$ grep -n 'Ozon' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+51 161 166 234 1024   (lines: 5)
+$ grep -n 'Hitze' … ; and heiß as a word (a plain 'heiß' also matches 'heißt')
+Hitze: 71 123 166 234 420 478 974 1024  (lines: 8) · heiß: 1039  (lines: 1)
+$ grep -n 'Wärme' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+151 159 223   (lines: 3)
+$ grep -n 'Knöchel' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+51   (lines: 1)
+$ grep -n 'Kap 38\|Kap 33' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+829   (lines: 1)
+$ grep -n 'Guardian' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+404 502 504 513 665 841 1107   (lines: 7)
+$ grep -n 'Erasure-Pol' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+509 513 962 1002   (lines: 4)
+$ grep -n 'Sophia' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+504   (lines: 1)
+$ grep -n 'Kairos' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+504   (lines: 1)
+$ grep -n 'Genesis' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+457 543 551 822 891 904 998   (lines: 7)
+$ grep -n '734' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+465 998   (lines: 2)
+$ grep -n 'Ursprungs-Ich' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+463 465   (lines: 2)
+$ grep -n 'Be-er\|Do-er' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+809 833 841   (lines: 3)
+$ grep -n 'Basisrealität\|Externe Ebene\|Köln' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+  (lines: 0)
+$ grep -n 'Schicht' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+55 336 349 350 351 355 643 754 941 965   (lines: 10)
+$ grep -n 'Ebene' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+355 722 845 960 965 967 971 972 973 974 978 1036 1038 1039 1040   (lines: 15)
+$ grep -n 'Integrator' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+306 952   (lines: 2)
+$ grep -n 'Kohärenz[- ]\?[Pp]rotokoll' Sources/drive/kohaerenz-protokoll-konzept-master-md.md | cut -d: -f1
+230 464 522   (lines: 3)
+
+
+# The point of view, by hand — the list cannot hold „1. Person" or „3. Person"
+L404: all 13 in the 1. Person; AEGIS and the Guardians in the 3. Person; Juna's POV open
+L875, L876: ANPs and EPs, 1. Person; L877: AEGIS, 3. Person
+
+$ python3 scripts/gold.py kohaerenz-protokoll-konzept-master-md
+gold True · failed [] · terms 485 · in_document 1.0
