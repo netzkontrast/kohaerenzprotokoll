@@ -1,10 +1,10 @@
 ---
 term: Alex
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,3 +74,10 @@ Anchor: „Alex spricht nie über Gefühle in der ersten Person." ^[kohaerenz-pr
 „ANP | Alex (Beschützer) | Asymptotische Freiheit | Hypertonus, Bruxismus | → Wachstum" ^[kohaerenz-protokoll-konzept-master-md.md:L390]
 One of the ANPs that „kämpfen darum, eine widerspruchsfreie Alltagserzählung aufrechtzuerhalten" ^[kohaerenz-protokoll-konzept-master-md.md:L274]. In the consistency matrix with Rhys and Selene: „K₁-Buffer (somatisch/relational)" ^[kohaerenz-protokoll-konzept-master-md.md:L954], across „KW1–KW2" ^[kohaerenz-protokoll-konzept-master-md.md:L954].
 Nothing here says when or how Alex arises.
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform the writer doubts
+
+„Position halten. Drei Triaden links sind exponiert. Schlag erwartet aus zwei-acht-null. Geht zurück." ^[kap0-v1-annotiert-md.md:L297]
+„Alex-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: Verb-Erststellung, kurze Sätze, räumliche Awareness, Tactical." ^[kap0-v1-annotiert-md.md:L301]
+The writer doubts he belongs here, by the character bible's account of his origin: „Charakter-Bibel sagt, Alex *entstand in der Sekunde der Fragmentierung* — also strenggenommen kann Alex in der Genesis vor dem Trennungsprotokoll nicht präsent sein. Konzept-Konflikt?" ^[kap0-v1-annotiert-md.md:L1205]
+The deeper revision would take him out: „Alex tritt im Roman ohnehin erst nach dem Trennungsprotokoll auf, gemäß Charakter-Bibel: *Entstand in der Sekunde der Fragmentierung*" ^[kap0-v1-annotiert-md.md:L1134].

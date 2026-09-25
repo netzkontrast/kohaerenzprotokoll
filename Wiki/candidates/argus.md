@@ -1,10 +1,10 @@
 ---
 term: Argus
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,3 +74,9 @@ the document does not say (C4). The first person, distanced like a third (L109).
 „\*\*Argus (Meta-Kognitor)\*\* | Wahrheits-Kommentar | Beobachtet beide Theorien und macht ihre Unvereinbarkeit explizit" ^[kohaerenz-protokoll-konzept-master-md.md:L309].
 „Argus | Meta-Beobachter | Fraktale Selbstreferenz" ^[kohaerenz-protokoll-konzept-master-md.md:L437]. In the routing table: „Argus | A mit Kommentar-Überlagerung" ^[kohaerenz-protokoll-konzept-master-md.md:L878].
 The somatic filter is open (L1006).
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform, unnamed in the prose
+
+„Bemerkenswert ist, dass das Cluster nicht mehr nur reagiert. Es antizipiert." ^[kap0-v1-annotiert-md.md:L305]
+„Argus-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: distanziert, meta-kommentar, klinisch (*Bemerkenswert ist, dass*, *Es fällt auf*)." ^[kap0-v1-annotiert-md.md:L309]
+„Argus' Funktion (Meta-Beobachtung des eigenen Funktionierens) ist hier präzise gesetzt." ^[kap0-v1-annotiert-md.md:L309]

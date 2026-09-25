@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      49
+  backslash escapes      191
+  typographic marks      237
+  ascii quotes           20
+
+# inflection families -- one term, several surfaces
+  selbs    SELBSTORGANISATION, Selbst, Selbstbeschreibung, Selbstdefinition, Selbstkritik, Selbstnegation, Selbstorganisation, Selbstreferenz, Selbsttäuschung, Selbstverstärkung, Selbstverteidigung
+  daten    DATENTYP, Daten, Datenflüssen, Datenkorruption, Datenpakete, Datenpunkte, Datenpunkten, Datenströme, Datenverarbeitungszentren
+  funkt    Funktion, Funktionalisierung, Funktionalität, Funktionen, Funktionieren, Funktionierens, Funktioniert, Funktionseinheit, Funktionsfähigkeit
+  syste    SYSTEM, System, Systematisiert, Systemfehler, Systemischer, Systemrauschen, Systems, Systemwarnungen
+  wiede    Wieder, Wiedererkennen, Wiedererkennens, Wiedererleben, Wiederherstellung, Wiederholung, Wiederholungs
+  reson    RESONANZ, Resonanz, Resonanzeigenschaften, Resonanzen, Resonanzkaskade, Resonanzmuster
+  erzäh    Erzähl, Erzähler, Erzählers, Erzählerstimme, Erzählstimme
+  fragm    Fragment, Fragmente, Fragmenten, Fragmentierung, Fragments
+  grenz    GRENZE, Grenze, Grenzen, Grenzfall, Grenzwacht
+  kontr    Kontrast, Kontrolle, Kontrollmaßnahmen, Kontrollmechanismen, Kontrollverlust
+  regel    REGELVERLETZUNG, Regel, Regeln, Regelverletzung, Regelverletzungen
+  senso    Sensoren, Sensorik, Sensorisch, Sensorische, Sensorphalanx
+  struk    Struktur, Strukturanpassung, Strukturelle, Strukturinformation, Strukturoptimierung
+  energ    Energie, Energieprofil, Energieprofile, Energiequelle
+  erste    Erste, Erster, Erstereignis, Erstereignisse
+  infor    Information, Informationen, Informationsdichte, Informationsmuster
+  inner    Innere, Inneren, Innerhalb, Innersten
+  metho    METHODE, Methoden, Methodik, Methodische
+  risik    RISIKO, Risiken, Risiko, Risikobewertungen
+  signa    SIGNATUR, Signal, Signatur, Signaturen
+  subst    Substanz, Substrat, Substratfunktion, Substrats
+  vorhe    Vorhersagbarkeit, Vorhersage, Vorhersagealgorithmen, Vorhersagemodelle
+  absch    Abschluss, Abschnitt, Abschnitts
+  abweh    Abwehr, Abwehrreaktion, Abwehrversuche
+  adres    Adressat, Adresse, Adressierung
+
+# substring pairs -- never one term, often merged by accident
+  Atem < Atempause
+  Auch < Hauch
+  Bild < Bilder
+  Bild < Schlussbild
+  Code < Codes
+  Code < Stilcode
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Diesmal
+  Drei < Zweitausenddreihundertvier
+  Echo < Echos
+  Echo < Echoschrei
+  Eine < Einen
+  Eine < Keine
+  Eine < Meine
+  Eine < Seine
+  Eine < Kleine
+  Ende < Enden
+  Ende < Endes

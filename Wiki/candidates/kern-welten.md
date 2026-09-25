@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 18
-readings: 17
+sources: 19
+readings: 18
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -367,3 +367,8 @@ The consistency matrix nonetheless gives the alters world ranges — Lex `P (KW1
 
 Named once, as what AEGIS will build after the Trennungsprotokoll to keep the frequency out: „AEGIS wird in den nächsten Iterationen Welten bauen, in denen Frequenzen wie diese nicht vorkommen können. Es wird Kernwelten geben, die diese Aufgabe übernehmen." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L493]
 No count and no names.
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — in two glosses
+
+Not in the prose. Two annotations on the Innere Weite name them: „Bühne für Kap 1 wird strukturell vorbereitet (Überwelt = Kernwelten-Substrat)." ^[kap0-v1-annotiert-md.md:L457] „Konzept-Anker für die KW-Architektur." ^[kap0-v1-annotiert-md.md:L465]
+The prose it glosses: „In diesen Simulationen entstehen die ersten rudimentären Konzepte von stabilem Raum, von gerichteter Zeit, von konsistenten physikalischen Gesetzen" ^[kap0-v1-annotiert-md.md:L461]

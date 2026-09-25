@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 16
+sources: 17
 pages: ["juna"]
 ---
 
@@ -173,3 +173,10 @@ No chapter between the frames is named for her. Read and unchanged: neither Kap 
 „Eine Frequenz hebt an, die in keinem der gespeicherten Muster verzeichnet ist." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L381]
 „Juna war nicht in der Welt. Sie war die Bewegung, die Welt erst möglich machte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L87]
 „Juna ist mit uns. Sie ist nicht in uns und nicht außer uns." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L131] No chapter between the frames is named.
+
+## 2026-09-25 — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+**No appearance, by rule, in Kap 0; no chapter named after it.**
+„**R-8 — Juna nie als Subjekt eines Satzes, nie physisch beschrieben.** Sie erscheint nur durch Wirkung." ^[kap0-v1-annotiert-md.md:L71]
+Her effect is warmth at the first contact (L209, annotated at L213) and, from AEGIS' side, the perturbation: „Junas Resonanz erscheint als ontologische Anomalie aus AEGIS- Sicht (User-Entscheidung: Doppel-Lesart)." ^[kap0-v1-annotiert-md.md:L613]
+The rule is stated for Kap 0 and says nothing of a later scene.

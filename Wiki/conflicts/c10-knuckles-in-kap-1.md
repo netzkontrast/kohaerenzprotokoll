@@ -4,7 +4,7 @@ subject: the bleeding knuckles
 kind: a symptom placed in Kap 1 by one canon-era source and locked out of it by the other
 status: open
 first_seen: "2026-09-24"
-sources: 12
+sources: 13
 pages: ["kael", "nyx"]
 ---
 
@@ -117,3 +117,12 @@ The only occurrence. It stands with the twenty-one degrees and the ozone, as the
 **Kap 0 as written has no knuckles and no Nyx.**
 Row 2's thread „lebt in Kap 0 allein (Knöchel-Eruption, Nyx)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459]; this draft of Kap 0 — Vorwort, Genesis, Dazwischen, crisis — contains neither word (`Plan/runs/kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md/05-verify.txt`). Its only somatic line before Kap 1 is the city's ozone and twenty-one degrees (L501).
 A first draft, three weeks and more before the sources that put the thread in Kap 0 (the Kapitel-Kompendium of 2026-05-30, the storyform outline of 2026-06-10); they may describe a later version. It places the knuckles nowhere.
+
+## 2026-09-25 — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+**Kap 0 has the knuckles — the knuckle eruption row 2 names, written.**
+As the Trennungsprotokoll runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten. Sie bluten trotzdem." ^[kap0-v1-annotiert-md.md:L977]
+The annotation names the voice and where it points: „Nyx-Vorform-Eruption (User-Choreographie)." ^[kap0-v1-annotiert-md.md:L981]
+„Die Knöchel-Referenz ist ein direktes Foreshadow des Kael-Akt-I-Anfangs aus dem Konzept-Dokument (*er weiß nicht, warum seine Knöchel bluten*)." ^[kap0-v1-annotiert-md.md:L981]
+So both sides in one draft: the knuckles in Kap 0, in [[nyx|Nyx]]'s voice (row 2), and a Kap-1 opening with bleeding knuckles, which the writer attributes to the concept (row 1's place). The Kap-1 lines the draft itself ends on carry none: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[kap0-v1-annotiert-md.md:L1021]
+Nine days after the draft of 2026-05-08, whose Kap 0 has no knuckles (the entry above); thirteen days before the Kapitel-Kompendium's lock.

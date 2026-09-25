@@ -1,11 +1,11 @@
 ---
 term: Juna
 status: candidate
-sources: 18
-readings: 18
+sources: 19
+readings: 19
 conflict: C7
 aliases: ["Julia"]
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-16"
 ---
 
@@ -313,3 +313,13 @@ Kap 40's Wir names her: „Junas Resonanz war nicht der Angriff, als den AEGIS s
 „In der Reinform war sie kein Sie. In K0 wurde sie Sie" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L87]
 „Juna ist mit uns. Sie ist nicht in uns und nicht außer uns." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L131]
 She appears in neither chapter as a figure (C7).
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — named only in the rules and the annotations
+
+The draft's rule: „Juna nie als Subjekt eines Satzes, nie physisch beschrieben." ^[kap0-v1-annotiert-md.md:L71] „Sie erscheint nur durch Wirkung." ^[kap0-v1-annotiert-md.md:L71]
+The prose never writes her name. Warmth at the first contact of two fragments, „Es ist warm. Es ist anders warm als alles, was vorher warm war, denn vorher war nichts warm." ^[kap0-v1-annotiert-md.md:L209],
+is annotated „Die Wärme ist erste subtile Andeutung der Juna- Resonanz-Qualität (Doppel-Lesart)." ^[kap0-v1-annotiert-md.md:L213]
+In the crisis she is the perturbation AEGIS cannot classify: „Junas Resonanz erscheint als ontologische Anomalie aus AEGIS- Sicht (User-Entscheidung: Doppel-Lesart)." ^[kap0-v1-annotiert-md.md:L613]
+Its status line: „Informationsdichte: gleichzeitig 1.0 / 0.0" ^[kap0-v1-annotiert-md.md:L597]
+The writer strikes the one sentence that says it outright — „Etwas in der Struktur kannte diese Berührung." ^[kap0-v1-annotiert-md.md:L637] — and asks the Doppel-Lesart be carried by the Resonanzkaskade's echoes, „(deren *Wärme* unausgesprochen bleibt)" ^[kap0-v1-annotiert-md.md:L641].
+She appears in no chapter as a figure (C7).

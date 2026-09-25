@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 9
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+sources: 10
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -55,6 +55,10 @@ Position: „VIII.6 Teil 3 (Kap 27–39) — Heldenreise außen mit Doppel-Vorte
 ## Reading — `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, 2026-05-08, a proposal
 
 - Genesis: „**Wir = AEGIS-plural** — in Kap 39 vollzogen." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L161] · „Beat 4 ist Kap 39." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — one line
+
+- Genesis beat 4: „Beat 4 (Wir-AEGIS-plural) erst in Kap 39." ^[kap0-v1-annotiert-md.md:L1185]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

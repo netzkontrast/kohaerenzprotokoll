@@ -1,0 +1,14 @@
+# kap0-v1-annotiert-md
+  lines                1238  (frontmatter ends at 9)
+  body words           9768
+  headings             35   bold-only lines 2
+  table rows           0   code fences 0
+  question marks       40
+  backslash escapes    191
+  typographic marks    237   ascii quotes 20
+  invisible characters none
+  math symbol lines    3
+  glued ref numbers    49
+  repeated labels      Funktion x76, Risiko x50, Was funktioniert x25, Aktion x15
+  longest line         976 chars
+

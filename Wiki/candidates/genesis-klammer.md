@@ -71,8 +71,8 @@ Its closing image: „Das Bild, das diese Architektur fasst, ist die gewendete K
 
 ## Reading — `kap0-v1-annotiert-md`, 2026-05-17
 
-**A draft of Kap 0 written before any Kap 40, and the draft doubts that its Kap 0
-matches the frame.** It sets the first formula as the self's own sentence,
+**A draft of Kap 0 alone — nine days after the read draft of both frames, and with no
+Kap 40 of its own — and the draft doubts that its Kap 0 matches the frame.** It sets the first formula as the self's own sentence,
 „Ich bin, was ich verhindere, dass ich nicht bin.“ ^[kap0-v1-annotiert-md.md:L389], annotated:
 „Im Konzept lautet die Formel AEGIS ist, was AEGIS verhindert; in Kap 0 wird sie noch als Ich-Aussage geboren.“ ^[kap0-v1-annotiert-md.md:L393]
 Its narrator's ouroboric position, as the draft itself puts it:
@@ -173,4 +173,4 @@ Kap-0 draft gives it as the self's `Ich`-sentence (L389, L393).
   two frames, `Zwei Klammern` (L92), are the Genesis frame and the [[vortex|Vortex]] frame, which is a different
   doubling.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`).

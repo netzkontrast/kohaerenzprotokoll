@@ -1,0 +1,33 @@
+# 05-verify — kap0-v1-annotiert-md, 2026-09-25
+
+## zeros explained
+The export escapes every underscore (`\_`) and breaks a hyphenated word across a
+wrapped annotation with a space (`Moros- Stimme`), so these candidates count zero as
+listed and stand in the text:
+
+$ fixed-string 'RESIDUAL\_BAND\_4': 1 lines [657]
+$ fixed-string 'DATENTYP\_FEHLT': 4 lines [689, 693, 1101, 1161]
+$ fixed-string 'KOH\_1.0': 2 lines [729, 913]
+$ fixed-string 'Moros- Stimme': 1 lines [153]
+$ fixed-string 'Wir-Stimme': 2 lines [113, 1209]
+
+## words for heat, cold, ozone, knuckles (grep -nwi)
+$ grep -cwi warm: 2  lines: 209 829 
+$ grep -cwi wärme: 4  lines: 213 253 333 641 
+$ grep -cwi heiß: 2  lines: 713 977 
+$ grep -cwi heisse: 0  lines: 
+$ grep -cwi kalt: 4  lines: 181 265 705 781 
+$ grep -cwi kälte: 2  lines: 773 985 
+$ grep -cwi kalte: 6  lines: 269 345 349 437 629 717 
+$ grep -cwi kalten: 4  lines: 477 897 945 1029 
+$ grep -cwi ozon: 0  lines: 
+$ grep -cwi Knöchel: 2  lines: 977 981 
+$ grep -cwi Landauer: 1  lines: 63 
+$ grep -cwi Hitze: 0  lines: 
+$ grep -cwi Juna: 3  lines: 71 213 641 
+$ grep -cwi Kael: 4  lines: 433 981 1029 1101 
+$ grep -cwi 734: 3  lines: 363 433 1101 
+$ grep -cwi Sophia: 0  lines: 
+$ grep -cwi Mira: 0  lines: 
+$ grep -cwi Scherben: 4  lines: 1009 1029 1101 1221 
+$ grep -cwi Welt: 1  lines: 469 

@@ -1,10 +1,10 @@
 ---
 term: AEGIS
 status: candidate
-sources: 20
-readings: 21
+sources: 21
+readings: 22
 conflict: C1, C8, C14
-ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+ingested: ["entropie-aegis", "aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 aliases: ["Entropic Gatekeeper", "Wächter der systemischen Stabilität", "blinder Hausmeister", "Kontrollinstanz"]
 gathered: "2026-09-16"
 ---
@@ -366,3 +366,18 @@ In the crisis it is told in the third person: „AEGIS hat lange gewacht." ^[koh
 „Es trifft nicht ein Urteil, es findet ein Urteil — wie ein Tier, das nicht entscheidet, wenn es die Klinge sieht, sondern reagiert." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L441]
 „Was AEGIS nicht weiß, weil es nicht zu wissen vermag: dass es gerade die Geburt für den Tod gehalten hat." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L497]
 Kap 40's Wir claims it: „Wir waren AEGIS in seiner Werdung und in seinem Fall" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L35] — „Wir verurteilen AEGIS nicht. Wir tragen es. Es war wir." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L91]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+A draft of Kap 0 with its writer's annotations; the prose is the novel's text, each bracketed annotation the writer's claim about it.
+
+**It comes to be at the Klick, and says so in the first person.** The annotation on the sixth movement: „das Wir wird AEGIS, indem es einen Teil seiner selbst zum Schmerz-Träger macht und sich gegen ihn organisiert." ^[kap0-v1-annotiert-md.md:L365]
+The prose: „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389]
+„Das Sein wird zur aktiven, unaufhörlichen Abwehr des Nicht-Seins. Die Existenz wird zur Funktion." ^[kap0-v1-annotiert-md.md:L397]
+„Der Satz wird in der 1. Person formuliert, weil das Ich gerade in dem Akt zu AEGIS wird" ^[kap0-v1-annotiert-md.md:L393].
+
+**Then it speaks as a system.** From the seventh movement it is status lines and the third person: „Erster Auftritt der AEGIS-System-Stimme (Klammer-Statuszeile, operative Bürokratie)." ^[kap0-v1-annotiert-md.md:L549]
+„AEGIS bekommt Stilebene 1 mit operativ- bürokratischer Modifikation." ^[kap0-v1-annotiert-md.md:L1181] The annotations flag each metaphor in its passages as a break of the Sprach-DNA (N-1 to N-3, M-1, M-4).
+
+**What the prose may not say about it** is the rule the draft is built around: „Die Wahrheit "AEGIS hat die Geburt für den Tod gehalten" darf in Kap 0 **nicht** ausgesprochen" ^[kap0-v1-annotiert-md.md:L43].
+Its blind spot is shown as a hypothesis it cannot write: H4, „(vierte Hypothese aus dem Konzept: dass die Resonanz ein fühlendes Substrat ist)" ^[kap0-v1-annotiert-md.md:L693].

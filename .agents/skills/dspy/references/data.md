@@ -10,7 +10,7 @@ not repeated.
 ## In this repository
 
 **The judgement ledger is the trainset, and it was not built to be one.**
-`Plan/runs/judgements.jsonl` holds 95 <!--state:judgements.total--> records,
+`Plan/runs/judgements.jsonl` holds 96 <!--state:judgements.total--> records,
 written "to keep mechanised rules checkable"
 (`scripts/judgements.py`). Each record already carries the two surfaces,
 a decision, and — the part that makes it a dataset — `rule`, the person's own
@@ -34,7 +34,7 @@ already written that way, for a different reason." (`scripts/trainset.py`).
 **`trainset.py --export` writes a file, and `pairs.py` does not read it.**
 `Plan/trainsets/surface-pairs.jsonl` is a snapshot of the ledger from the last
 time the export ran: the committed one holds 36 rows while the ledger yields
-81 <!--state:pairs.labelled-->. `pairs.py rows()` calls `trainset.surface_pairs()` directly
+82 <!--state:pairs.labelled-->. `pairs.py rows()` calls `trainset.surface_pairs()` directly
 (`scripts/pairs.py`), never the export. This is deliberate, and it is a
 correction of a real defect: "The design says job 1 has 'n = 26' … The exported
 file had gone stale because nothing compared it to the ledger; `pairs.py` now
@@ -128,7 +128,7 @@ from the model run's. The local dry run reports the model pool size explicitly.
 bootstrapping." "Representativeness beats size. Include edge cases, ambiguity,
 adversarial inputs."
 (`dspy-agent-skills:skills/dspy-evaluation-harness/SKILL.md:74-77`).
-This repository's largest trainset is 81 <!--state:pairs.labelled--> labelled
+This repository's largest trainset is 82 <!--state:pairs.labelled--> labelled
 pairs — inside the GEPA floor, barely, and well under MIPROv2's. `pairs.py`'s
 five-fold default leaves 45–47 rows to train each fold and 10–12 to score it
 (measured 2026-09-24) — thin by the book's own numbers, which is exactly why `SIMBA`'s
@@ -180,8 +180,8 @@ enough to merge a plural also merges `Negentropie` with `Entropie`"; `J6`,
 (`scripts/trainset.py`). "So the 18% gap is the boundary of what a safe
 deterministic rule can claim, not a defect in it." **That sentence is stale as
 a number, current as a shape.** It was written when the ledger held 17 rows
-(14/17 = 82%); `fold()` now decides 46 <!--state:pairs.fold_correct--> of
-81 <!--state:pairs.labelled-->, and the docstring dates its first number and
+(14/17 = 82%); `fold()` now decides 47 <!--state:pairs.fold_correct--> of
+82 <!--state:pairs.labelled-->, and the docstring dates its first number and
 points at the live one. The one growth step measured at the time, 17 rows to
 26, kept the *shape* of every new miss the same: "Every new miss is a plural or
 an inflection — `Guardian`/`Guardians`, `Riss`/`Risse`, `Alter`/`Alters`,
@@ -369,7 +369,7 @@ a leak one of the nine had.
 ## Not taken
 
 - **`MIPROv2`, `BootstrapFewShotWithRandomSearch`** — refused. They want
-  100+ and 50+ examples; this repository's largest trainset is 81
+  100+ and 50+ examples; this repository's largest trainset is 82
   <!--state:pairs.labelled--> pairs. `dspy-agents` ran MIPROv2 on 50 examples
   while its own documentation said about 28
   (`Plan/concept/dspy-toolchain_2026-09-23.md`, *Deliberately not taken*).

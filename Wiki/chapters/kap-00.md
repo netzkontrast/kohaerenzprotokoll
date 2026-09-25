@@ -1,9 +1,9 @@
 ---
 chapter: 0
 status: candidate
-sources: 9
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
-records: ["C3", "C10", "C12"]
+sources: 10
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
+records: ["C3", "C10", "C12", "C7", "C11", "C14"]
 gathered: "2026-09-25"
 ---
 
@@ -71,6 +71,23 @@ Title: „Kapitel 0 — Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-20
 - Seam to Kap 1: „der sich gleich in eine Konstrukt-Stadt erwachen wird, wo die Temperatur immer einundzwanzig Grad ist und manchmal die Luft nach Ozon riecht" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L501] · „Sein Name wird Kael sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505]
 - Ending: „Ich falle." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L509] „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513]
 
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft
+
+Title: „Einleitung: Genesis der Existenz" ^[kap0-v1-annotiert-md.md:L29]
+
+- Form: „Annotierter Erst-Entwurf des Genesis-Prologs." ^[kap0-v1-annotiert-md.md:L23] — the prose, and after each passage its writer's annotation
+- Rules: „**R-1 — Tragische Ironie nicht auflösen.**" ^[kap0-v1-annotiert-md.md:L43] · „**R-3 — Multiplizitäts-Schleier hält bis Kap 13.**" ^[kap0-v1-annotiert-md.md:L51] · „**R-8 — Juna nie als Subjekt eines Satzes, nie physisch beschrieben.**" ^[kap0-v1-annotiert-md.md:L71]
+- Sections: Vorwort · Genesis, „### Genesis — Bewegung 1: Das Rauschen" ^[kap0-v1-annotiert-md.md:L143] to „### Genesis — Bewegung 6: Der große Wandel (verschmolzen mit Komp 734 + Innere Weite)" ^[kap0-v1-annotiert-md.md:L363] · „### Dazwischen" ^[kap0-v1-annotiert-md.md:L491] · Krise, „### Krise — Bewegung 7: Die Stille Wacht" ^[kap0-v1-annotiert-md.md:L527] to „### Krise — Bewegung 12: Trennungsprotokoll" ^[kap0-v1-annotiert-md.md:L911] · „### Schluss / Übergang zu Kap 1" ^[kap0-v1-annotiert-md.md:L1019]
+- Stage: „Kap 0 ist nicht der "Auftakt zum Konflikt", sondern eine ontologische Etablierung." ^[kap0-v1-annotiert-md.md:L1177]
+- Genesis beats: „Die Genesis-4-Beat-Sequenz ist umgesetzt mit Beat 1–3 in diesem Prolog, Beat 4 (Wir-AEGIS-plural) erst in Kap 39." ^[kap0-v1-annotiert-md.md:L1185]
+- POV: the Vermittler, the Funken-Ich, then AEGIS — „Erzählerstimme verschwindet ab hier (User-Entscheidung Runde 4)." ^[kap0-v1-annotiert-md.md:L549]
+- Voices: „Die Choreographie der Vor-Stimmen (Moros → Kiko → Lia → Rhys → Lex → Alex → Argus → Nyx → Selene → Silas → Oblivion)" ^[kap0-v1-annotiert-md.md:L1101]
+- Formula: „*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389]
+- Juna: „Junas Resonanz erscheint als ontologische Anomalie aus AEGIS- Sicht (User-Entscheidung: Doppel-Lesart)." ^[kap0-v1-annotiert-md.md:L613]
+- Crisis: „H4 \[DATENTYP\_FEHLT\]    —" ^[kap0-v1-annotiert-md.md:L689] · „METHODE:     Partitionierung" ^[kap0-v1-annotiert-md.md:L921]
+- Knuckles: „Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten." ^[kap0-v1-annotiert-md.md:L977] — „Nyx-Vorform-Eruption (User-Choreographie)." ^[kap0-v1-annotiert-md.md:L981]
+- Ending: „Ich falle… in unzählige Scherben…" ^[kap0-v1-annotiert-md.md:L1009] · then Kael: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad." ^[kap0-v1-annotiert-md.md:L1021]
+
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Title: „Genesis-Prolog“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L211]
@@ -133,6 +150,7 @@ Position: „Genesis-Prolog | 0 | Latenz“ ^[kp-plot-konkretisierung-13-ideen-f
 
 ## Where the sources differ
 
-- **Genesis beats.** „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L787] (konsolidiertes Konzept) · „Genesis-Sequenz: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] (strukturierter Outline) · „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (Kernwelten vollständig) · „Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] (Doppel-Klammer Abhandlung) — five named stages, six, four beats, or two of four. The draft text writes eight sections, the last two „Komponente 734: Funktion an der Grenze" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L297] and „Die Innere Weite: Simulation als Optimierung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L321], and counts no beats. (C12)
+- **Genesis beats.** „Genesis-Sequenz in voller Form: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L787] (konsolidiertes Konzept) · „Genesis-Sequenz: Das Rauschen → Herz der Leere → Erste Kontakte → Sog der Ordnung → Überlebenskampf → Der große Wandel“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L230] (strukturierter Outline) · „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] (Kernwelten vollständig) · „Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] (Doppel-Klammer Abhandlung) — five named stages, six, four beats, or two of four. The draft text writes eight sections, the last two „Komponente 734: Funktion an der Grenze" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L297] and „Die Innere Weite: Simulation als Optimierung" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L321], and counts no beats. The annotated draft of 2026-05-17 writes six movements and six more of crisis, and counts four beats with „Beat 1–3 in diesem Prolog" ^[kap0-v1-annotiert-md.md:L1185]. (C12)
 - **Storyform A.** „nur B aktiv, A als Phantom-Latenz“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L213] (strukturierter Outline) · „nur B (MC-S1 Past); A als Phantomgefühl“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L182] (Kapitel-Kompendium) — A named a latency or a phantom feeling. The Doppel-Klammer Abhandlung, citing a `Storyweaving-Dokument` for the phantom reading, says B is not active either until the Klick: „Das ist nicht falsch, aber es verdeckt eine subtilere Wahrheit: Vor Kap 0 gibt es noch *keine* B-Storyform im aktiven Sinn." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L112]
-- **The knuckles.** The thread „lebt in Kap 0 allein (Knöchel-Eruption, Nyx)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459] (storyform outline); the draft text of Kap 0, three weeks and more earlier, has neither knuckles nor Nyx, and ends on „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513] (C10)
+- **The knuckles.** The thread „lebt in Kap 0 allein (Knöchel-Eruption, Nyx)" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459] (storyform outline); the draft text of Kap 0, three weeks and more earlier, has neither knuckles nor Nyx, and ends on „In unzählige Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L513]; the annotated draft nine days later has them, in Nyx's voice as the separation runs — „Knöchel — gibt es keine. Aber sie bluten." ^[kap0-v1-annotiert-md.md:L977] (C10)
+- **Kael and the component.** In the draft text Kael is what the protocol cuts away: „Sein Name wird Kael sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505] In the annotated draft he is the component itself, before the crisis: „gerade diese Komponente wird Kael." ^[kap0-v1-annotiert-md.md:L433] (C12)

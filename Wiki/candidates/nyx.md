@@ -1,10 +1,10 @@
 ---
 term: Nyx
 status: candidate
-sources: 13
-readings: 13
+sources: 14
+readings: 14
 conflict: C10
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -92,3 +92,10 @@ The knuckles in this document are [[kael|Kael]]'s, in the premise (L51), not Nyx
 
 Named, not profiled: „In Kap 40 sind diese Echos die Stimmen des Wir — Lex, Nyx, Kiko, Mira, alle." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327] — the echoes AEGIS filed as noise in Kap 0 ([[residual-echos]]).
 Kap 40's voice lets each be heard without a label: „ein Atemzug klingt nach Lex, einer nach Nyx, einer nach Kiko —, ohne dass es als Polyphonie markiert wird." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L335]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform, and the knuckles
+
+„Welle. Schlag. Riss links. Triade Sieben. Weg. Nicht stehenbleiben." ^[kap0-v1-annotiert-md.md:L329] — „Nyx-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: Stakkato, Verb-Erststellung, keine Konnektoren, Imperativ." ^[kap0-v1-annotiert-md.md:L333]
+As the separation runs: „Nicht. Nicht jetzt. Nicht so. Die Luft ist heiß. Knöchel — gibt es keine. Aber sie bluten. Sie bluten trotzdem." ^[kap0-v1-annotiert-md.md:L977]
+„Nyx-Vorform-Eruption (User-Choreographie). Syntax-Signatur: Stakkato, Verb-Erststellung, Negation, kinetisches Vokabular (*Knöchel bluten*)." ^[kap0-v1-annotiert-md.md:L981]
+„Die Knöchel-Referenz ist ein direktes Foreshadow des Kael-Akt-I-Anfangs aus dem Konzept-Dokument" ^[kap0-v1-annotiert-md.md:L981]. The knuckle eruption, in Kap 0, in her voice.

@@ -148,4 +148,4 @@ the Abhandlung calls such an outside commentator in the crisis a defect (L422).
   character bible, the Sprach-DNA and the Alter profiles. That is another referent
   and is not gathered here.
 
-Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md`, reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`).
+Gathered 2026-09-25 from the ten-document scan (`Plan/runs/haiku-scan-2026-09-25/`) and the read documents; the scanned documents have no census and no reconciliation yet, but for `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` and `kap0-v1-annotiert-md`, both reconciled on 2026-09-25 (`Wiki/compare/reconcile-22-kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md`, `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md`).

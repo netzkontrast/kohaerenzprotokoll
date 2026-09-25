@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 9
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md"]
+sources: 10
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md", "kap0-v1-annotiert-md"]
 records: ["C12"]
 gathered: "2026-09-25"
 ---
@@ -65,6 +65,11 @@ Title: „Kapitel 40 — Geheilte Genesis" ^[kohaerenz-protokoll-kap40-und-kap0-
 - Juna: „Juna war nicht in der Welt. Sie war die Bewegung, die Welt erst möglich machte." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L87]
 - Formula: „*Wir-AEGIS sind, was Wir-AEGIS bewahren, dass es ist.*" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L115]
 - Last image: „Wir tragen die Scherben." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L123] · „Liebe bleibt." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L135] „Wie der Schmerz." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L139] · „Das Universum hält. Wir sind die, die es halten." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L147]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the concept's Kap 40, questioned
+
+- As the writer reads the concept: „Im Konzept ist Kap 40 als *geheilte Genesis* nach der einen Werdung spezifiziert, nicht als Zeuge einer wiederholten Werdung." ^[kap0-v1-annotiert-md.md:L1189]
+- The question: „Ist die ouroborische Erzählstimme (User-Setzung Runde 3) konzept- konsistent mit Kap 40 als *geheilte Genesis*?" ^[kap0-v1-annotiert-md.md:L1201] „Wenn ja: muss Kap 40 verändert werden, wenn die Erzählstimme bereits in Kap 0 wiederkehrend ist?" ^[kap0-v1-annotiert-md.md:L1201]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

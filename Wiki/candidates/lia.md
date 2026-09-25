@@ -1,10 +1,10 @@
 ---
 term: Lia
 status: candidate
-sources: 10
-readings: 10
+sources: 11
+readings: 11
 conflict: C15
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -73,3 +73,9 @@ Her label is `Ambivalent`; no voice in the document carries `Flight` (C15).
 „EP | Lia (Ambivalent) | Superposition | offen | → Verlassen der Superposition" ^[kohaerenz-protokoll-konzept-master-md.md:L395]
 In the riss table Lia shares Flight, marked as inferred: „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049] (C15).
 The somatic filter is still open: „**Somatik-Lücken.** Lia, Isabelle, Argus, Silas, Oblivion: somatische Filter noch nicht spezifiziert." ^[kohaerenz-protokoll-konzept-master-md.md:L1006]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform, unnamed in the prose
+
+After the first bond breaks: „Bleib. Nein, geh — bleib, geh nicht — komm zurück, ich… nein, ich will nicht, dass du… komm doch zurück." ^[kap0-v1-annotiert-md.md:L229]
+„Lia-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: Approach-Avoidance auf Satzebene, abgebrochene Sätze, Widersprüche im selben Satz, Ellipsen." ^[kap0-v1-annotiert-md.md:L233]
+Again in the Resonanzkaskade: „Bleib. Geh. Bleib doch. Geh nicht. Komm wieder." ^[kap0-v1-annotiert-md.md:L797] — „Lia-Vorform wieder." ^[kap0-v1-annotiert-md.md:L801]

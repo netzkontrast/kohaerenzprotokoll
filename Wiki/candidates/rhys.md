@@ -1,10 +1,10 @@
 ---
 term: Rhys
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -58,3 +58,9 @@ Selene: „Zentraler ANP-ANP-Konflikt des Buchs." ^[kohaerenz-protokoll-anteile-
 
 „ANP | Rhys (Caregiver) | Maxwells Dämon | Schweiß, fiebrige Hände | → Akzeptanz (Akt-II-Anker → Kudzu)" ^[kohaerenz-protokoll-konzept-master-md.md:L391]
 One of the ANPs, the „interne Verfechter der Kohärenztheorie" ^[kohaerenz-protokoll-konzept-master-md.md:L274]. In the consistency matrix, with Alex and Selene: „K₁-Buffer (somatisch/relational)" ^[kohaerenz-protokoll-konzept-master-md.md:L954]. `Kudzu` is named and not explained.
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform, unnamed in the prose
+
+In the first cluster: „Wenn du möchtest — könnten wir kurz halten. Nur einen Moment. Es muss nichts geschehen. Wir bleiben einfach." ^[kap0-v1-annotiert-md.md:L249]
+„Rhys-Vorform-Einbruch (User-Choreographie). Syntax-Signatur: weiche Eröffnung (*Wenn du möchtest*), Wir-vor-Ich, sanfte Negation (*es muss nichts geschehen*), körperbewusst (*halten, tragen*)." ^[kap0-v1-annotiert-md.md:L253]
+„Rhys ist die einzige Vor- form, die das tut." ^[kap0-v1-annotiert-md.md:L253] — address someone, the reader or another fragment.

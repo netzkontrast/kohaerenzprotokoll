@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 15
+sources: 16
 pages: ["trennungsprotokoll"]
 ---
 
@@ -182,3 +182,11 @@ The draft of Kap 0 runs clusters → Klick and formula → „Komponente 734: Fu
 What the protocol severs becomes Kael: „Ein Rest." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L485] „Sein Name wird Kael sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505]
 Kap 40: „Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63]
 The konsolidiertes Konzept's order, as text, on its date — against the character bible's and the master report's `Kael = Komponente 734` as the separation's result.
+
+## 2026-09-25 — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+**Four beats, three in the prologue — and the component becomes Kael.**
+„Die Genesis-4-Beat-Sequenz ist umgesetzt mit Beat 1–3 in diesem Prolog, Beat 4 (Wir-AEGIS-plural) erst in Kap 39." ^[kap0-v1-annotiert-md.md:L1185] Row 2's count and row 3's placing of Beat 4.
+The component comes before the crisis, in the sixth movement, „verschmolzen mit Komp 734 + Innere Weite" ^[kap0-v1-annotiert-md.md:L363]; its number is withheld, and „gerade diese Komponente wird Kael." ^[kap0-v1-annotiert-md.md:L433]
+No remainder is cut away and named: the separation ends in „Ich falle… in unzählige Scherben…" ^[kap0-v1-annotiert-md.md:L1009] and Kael's first lines follow (L1021).
+So between the two drafts of Kap 0 the order changed: on 2026-05-08 Kael is what the protocol cuts out of 734 (the entry above), on 2026-05-17 he is the component itself — the character bible's `Kael = Komponente 734`, with the konsolidiertes Konzept's four beats.

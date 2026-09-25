@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 8
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
+sources: 9
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kap0-v1-annotiert-md"]
 records: ["C9", "C10", "C11"]
 gathered: "2026-09-25"
 ---
@@ -49,6 +49,13 @@ Position: „VIII.4 Teil 1 (Kap 1–13) — Heldinnenreise innen“ ^[koharenz-p
 - Sensorik: „Sensorik: sterile Leere, Ozon, weißes Licht.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962]
 - Genesis echo: „Genesis-Echo: das sterile Setting ist die Innere Weite (Überwelt) aus Kap 0.“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L962]
 - Status: „Pilot-Encoding Kap 1 als Methoden-Kalibrierung“ ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L1252]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — its seam
+
+- Opening: „Zweitausenddreihundertvier Kacheln. Einundzwanzig Grad. Der Atem geht in vier Sekunden hinein, in sechs hinaus. Der Korridor ist leer." ^[kap0-v1-annotiert-md.md:L1021] · „Ich bin pünktlich." ^[kap0-v1-annotiert-md.md:L1025]
+- Voice: „Kael-Akt-I-Stimme. Zähl-Manie als Eröffnung (siehe Sprach-DNA- Mikro für Kael)." ^[kap0-v1-annotiert-md.md:L1029]
+- Knuckles: none in these lines; the Kap-0 knuckles point at Kap 1 — „ein direktes Foreshadow des Kael-Akt-I-Anfangs aus dem Konzept-Dokument (*er weiß nicht, warum seine Knöchel bluten*)" ^[kap0-v1-annotiert-md.md:L981]
+- Stage: „Konflikt entsteht in Akt I (Kap 1 ff.)." ^[kap0-v1-annotiert-md.md:L1177]
 
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 

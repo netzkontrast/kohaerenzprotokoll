@@ -4,7 +4,7 @@ subject: AEGIS' voice — one chapter in the first person, or never an inside
 kind: one narrative rule, stated without exception by the older sources and given one by a lock of 2026-05-30, which three sources of 2026-06-10 carry and two do not
 status: open
 first_seen: "2026-09-25"
-sources: 12
+sources: 13
 pages: ["aegis"]
 ---
 
@@ -102,3 +102,12 @@ The Genesis is told in the first person by the fragment that becomes AEGIS' comp
 „Ich gehe auf in dieser neuen, systemweiten Erkenntnis." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L295] In the crisis the Resonanzkaskade is again „ich" (L393–L429), while „AEGIS hat lange gewacht." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L369] is told from outside.
 Kap 40's Wir claims both: „Wir waren AEGIS in seiner Werdung und in seinem Fall" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L35].
 Not a chapter for AEGIS in Kap 5–8; an inside, in Kap 0, for what AEGIS was made of.
+
+## 2026-09-25 — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0
+
+**A first person at the moment of becoming AEGIS; after it, status lines.**
+„*Ich bin, was ich verhindere, dass ich nicht bin.*" ^[kap0-v1-annotiert-md.md:L389]
+„Der Satz wird in der 1. Person formuliert, weil das Ich gerade in dem Akt zu AEGIS wird" ^[kap0-v1-annotiert-md.md:L393].
+From the crisis AEGIS is a system voice: „Erster Auftritt der AEGIS-System-Stimme (Klammer-Statuszeile, operative Bürokratie)." ^[kap0-v1-annotiert-md.md:L549] „AEGIS bekommt Stilebene 1 mit operativ- bürokratischer Modifikation." ^[kap0-v1-annotiert-md.md:L1181]
+The writer flags every metaphor in its passages as a break of the Sprach-DNA, which „trennt diese strikt — Erzähler darf Metaphern, AEGIS nicht." ^[kap0-v1-annotiert-md.md:L1109]
+Like the draft of 2026-05-08: an inside in Kap 0 for what AEGIS is made of, no chapter in Kap 5–8.

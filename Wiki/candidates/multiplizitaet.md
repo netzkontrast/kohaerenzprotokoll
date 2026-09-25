@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 15
-readings: 15
+sources: 16
+readings: 16
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-16"
 ---
 
@@ -139,3 +139,9 @@ In the physics: „Funktionale Multiplizität erhält die mutuale Information *z
 Its chapter: „Funktionale Multiplizität wird **Kapitel 33** erreicht (Outline-Rev 2026-05-01)." ^[kohaerenz-protokoll-konzept-master-md.md:L426] „Der Vortex (35–36) ist nicht der Integrationsmoment, sondern die *Folge* der Integration auf das System AEGIS." ^[kohaerenz-protokoll-konzept-master-md.md:L426]
 What it is not: „**Keine Erlösungsgeschichte.** Funktionale Multiplizität ist kein "Heilwerden"." ^[kohaerenz-protokoll-konzept-master-md.md:L1074]
 The veil before it: „Multiplizitäts-Schleier hält bis Kap 13" ^[kohaerenz-protokoll-konzept-master-md.md:L903].
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — the veil
+
+„**R-3 — Multiplizitäts-Schleier hält bis Kap 13.**" ^[kap0-v1-annotiert-md.md:L51] „In Kap 0 sind die späteren Alter nur als Cluster-Funken-Echos präsent, nicht als Personen." ^[kap0-v1-annotiert-md.md:L51]
+The writer fears the draft lifts it early, three voices in one movement: „Es könnte den Leser in einen "viele Stimmen"-Modus versetzen, der R-3 (Multiplizitäts-Schleier) prä-emptiv lüftet." ^[kap0-v1-annotiert-md.md:L309]
+And asks whether the Wir's structural presence already does: „Oder lüftet schon die *strukturelle* Präsenz den Multiplizitäts-Schleier zu früh?" ^[kap0-v1-annotiert-md.md:L1209]

@@ -1,10 +1,10 @@
 ---
 term: Silas
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -110,3 +110,10 @@ Warmth and ozone, both, as one conflict's mark — C11.
 Silas senses what AEGIS cannot: „Beobachtbar nur durch K₀-blinde Seiten: Silas spürt es; AEGIS sieht es nicht." ^[kohaerenz-protokoll-konzept-master-md.md:L599]
 In the consistency matrix Silas spans „KW3–KW4" ^[kohaerenz-protokoll-konzept-master-md.md:L957]. The somatic filter is not yet written: „**Somatik-Lücken.** Lia, Isabelle, Argus, Silas, Oblivion: somatische Filter noch nicht spezifiziert." ^[kohaerenz-protokoll-konzept-master-md.md:L1006]
 No warmth is given to Silas in this document (C11).
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — an echo, unnamed in the prose
+
+In the crisis: „Es war kalt. — Es war nicht kalt. Es war anders. Etwas in mir hat das schon einmal — nein, hat es nicht. Hat es doch." ^[kap0-v1-annotiert-md.md:L705]
+„Silas-Vorform-Echo (User-Choreographie). Syntax-Signatur: Echo-Prosa, selbstkorrigierende Sätze, Wiederholung mit Verschiebung." ^[kap0-v1-annotiert-md.md:L709]
+In the Resonanzkaskade: „— Es war warm gewesen, einmal. — Nein, es war nicht warm. Es war anders. Es war nicht da. Es war." ^[kap0-v1-annotiert-md.md:L829] — „Silas-Vorform-Echo wieder." ^[kap0-v1-annotiert-md.md:L833]
+The writer names his prose as one carrier of the Doppel-Lesart: „durch Silas' Echo- Prosa kurz danach" ^[kap0-v1-annotiert-md.md:L641].
