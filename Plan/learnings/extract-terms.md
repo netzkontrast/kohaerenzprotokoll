@@ -908,3 +908,34 @@ it counts nothing, so the list stays ahead of the count.
 Abhandlung's three Setzungen are all in the draft of the same date. Whether the draft
 followed the decision or the decision described the draft, no source read says. The
 readings say what each document does, and the question stays the author's.
+
+## Document 23 — `kap0-v1-annotiert-md`, 2026-09-25
+
+An annotated first draft of Kap 0: ten rules, the prose, and under every passage its
+writer's note on what the passage is for and which rule it breaks. 353 candidates, no
+page, readings on 29 pages, one judgement (J96: an alter's Vorform is not the alter,
+and its passage is a reading on the alter's page).
+
+**Briefing v12's step held.** Every phrase went on the list after `read.py --find`
+answered for it, and none of the five zeros is an inflection. All five are the export's:
+three escaped underscores (`RESIDUAL\_BAND\_4`, `DATENTYP\_FEHLT`, `KOH\_1.0`) and
+a hyphenated word split by a space where an annotation wrapped (`Moros- Stimme`). The
+reader wrote `AEGIS- System-Stimme` and `Juna- Resonanz-Qualität` as the text has them,
+and both count. Briefing v13 asks about both kinds of damage.
+
+**A document with its own review has two voices in every passage.** The prose is the
+novel's text; the note under it is its writer's claim about it. The census, the note
+and every reading name which one they quote. The briefing asks this now.
+
+**A long list from annotations.** 353 candidates from 9,768 words, because nearly every
+note names something of its own. Of the 190 pairs sent to judgement, most were substrings
+inside the list (`Form` against eleven `…-Vorform-…` compounds). Recorded rules settled
+all but one. The list rule of decision 012 made the list long, and the reconciliation's
+cost stayed in judgement, not in the wiki's size.
+
+**A scan's reading can be wrong about the date and right about everything else.** Six
+pages quoted this document before it was read. Five of those readings stand; one sentence
+called it earlier than any Kap 40, and the read draft of Kap 40 is nine days older. A
+claim about order needs the dates of every read source, and the scan's writers had them
+only for the documents read then.
+

@@ -1,8 +1,8 @@
 ---
 step: extract
-version: 12
+version: 13
 covers_documents: 7
-new_findings_last_document: 1
+new_findings_last_document: 2
 ---
 
 # Briefing — before extracting a document
@@ -129,6 +129,11 @@ wraps is judged by its first line alone.
 - Does the document write samples in a voice, or lists of words a voice uses? A
   term that stands only there is diction — a reading needs a sentence about the
   thing, the same way a term inside a question has none.
+- Does the document review itself — a note under every passage saying what the
+  passage is for and which rule it breaks? Then each passage has two voices, the
+  text and the note about it, and a reading names which one it quotes. A field
+  label that repeats under every note (`Funktion`, `Risiko`) is the template, not
+  a term.
 - Does it date its status apart from itself — a sync, a lock-in — and name
   what that status settled? That is a second date, and it is the document's
   claim about what came before it.
@@ -167,7 +172,10 @@ wraps is judged by its first line alone.
 
 - Invisible characters inside formulas, from flattened subscripts?
 - Reference numbers glued to the words they annotate, from dropped superscripts?
-- Backslash escaping inside terms and quotation marks?
+- Backslash escaping inside terms and quotation marks? An escaped underscore
+  (`DATENTYP\_FEHLT`) counts zero when the list writes it plain.
+- A hyphenated word split by a space where the source wrapped a line — `Moros-
+  Stimme`? List it as written; the whole form counts zero.
 - Typographic and ASCII quote glyphs mixed in one file?
 - Emphasis inside a phrase — `*funktional* wütend`? The count reads the marked
   line, so the phrase counts zero; the quotation check reads it unmarked.
