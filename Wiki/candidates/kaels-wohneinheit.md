@@ -1,10 +1,10 @@
 ---
 term: Kaels Wohneinheit 1.0
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 aliases: ["Kaels Wohneinheit"]
 gathered: "2026-09-17"
 ---
@@ -91,3 +91,8 @@ for the dwelling; one term by J50.
 `Wohneinheit 734`, `[K]`: „Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L101].
 Its anchor: Kap 1, once as the console line `Einheit 734`, and „Wiederkehr Kap 10, Kap 25 (Foreshadowing-Anker)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L101].
 One term by J50.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+The character bible's address, in its words: „Innerhalb der Simulation: Komponente 734, Archivar Klasse II, Wohneinheit 14/Sektor 7/Wohneinheit 734-K." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L105]
+One term with the other numbers (J50).
