@@ -1,10 +1,10 @@
 ---
 term: Mosaik-Herz
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -52,3 +52,9 @@ konsolidiertes Konzept holds both. A question for the author (`NOW.md`).
 
 - chapter 11 as a stage of inner integration: „Akzeptanz der Komplexität — Mosaik-Herz“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L347]
 - chapter 23 as an inner resource: „Mosaik-Herz als innere Ressource“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L596]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**The Kap-34 place only**: a sub-location of KW4, „Kap 34, vor Vortex — Setting der finalen Selbst-Schöpfung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L274].
+No Kap-11 beat. Kap 40's last image, „das Mosaik, das die Welt hält" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L629],
+is the mosaic of the shards, not this place; the document does not relate them.
