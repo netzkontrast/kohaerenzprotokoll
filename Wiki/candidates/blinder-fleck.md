@@ -1,10 +1,10 @@
 ---
 term: Ontologischer blinder Fleck
 status: candidate
-sources: 2
-readings: 2
+sources: 3
+readings: 3
 conflict: C4
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -73,3 +73,13 @@ these are one system at two scales is not answerable from what has been read.
 
 `Wiki/conflicts/c4-guardians-and-aegis.md` holds both positions and decides
 nothing.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**AEGIS' blindness, named three ways — and no Guardian's.** §6.1 gives each of
+three layers — reader, Kael, AEGIS — a column for what it is blind to. AEGIS':
+„Juna strukturell (atemporal, nicht messbar), K₁-Reinform (klassifiziert als „uncorrelated noise"), die eigene Genesis (verdrängt)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L574].
+In Kap 38, when [[juna|Juna]] appears, it is „strukturell blind" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L593].
+A blindness of kind, then, to what cannot be measured, and a blindness it made:
+its own origin, repressed. No Guardian's blind spot is named. Conflict C4, the
+first reading's side.
