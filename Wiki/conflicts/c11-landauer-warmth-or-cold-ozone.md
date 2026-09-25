@@ -4,7 +4,7 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 13
+sources: 14
 pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
@@ -172,7 +172,7 @@ Cold ozone after every Ausgleich: „Landauer-Signatur = kaltes Ozon" ^[kp-plot-
 Kap 6: „Sensorik kalt/Ozon" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229], marked as a filter against „§7-Konflikt 1 des Source-of-Truth" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] — so it knows Kap 6's heat as a conflict and applies the cold side.
 Kap 36 Beat 4: „Heat Spike [K, einziger kanonischer Landauer-Wärme-Ort]" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]; the lock table: „Landauer-Wärme ausschließlich Beat 4" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239].
 [[silas|Silas]] carries warmth as the Coheron-Echo: „Polaritätsregel exakt (Wärme nur als Coheron-Spur)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80], debut in Kap 3.
-Heat as the [[silas|Silas]]–[[oblivion|Oblivion]] conflict does not occur. Of the three ways the Anteile-Profile place heat, this document holds two — the lock and Silas — and relates them.
+Heat as the [[silas|Silas]]–[[oblivion|Oblivion]] conflict does not occur. Of the three ways the Anteile-Profile place heat, this document holds two — the lock and [[silas|Silas]] — and relates them.
 
 ## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
 
@@ -185,3 +185,14 @@ and [[silas|Silas]]' (L157). No signature is named, no chapter and no lock. The 
 seventeen days before the lock of 2026-05-30 and names the character bible as a source (L13),
 whose sentence on the same conflict gives `Landauer-Hitze` (the character bible's own entry
 in this record, found by a second reading of the Anteile-Profile).
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Heat and ozone together, both from AEGIS' erasure — no warm trace set against a cold one.**
+„Und Verdrängung erzeugt Hitze." ^[kohaerenz-protokoll-konzept-master-md.md:L71]
+„AEGIS' Erasure-Sweeps erzeugen Wärme. Diese Wärme ist nicht metaphorisch." ^[kohaerenz-protokoll-konzept-master-md.md:L159]
+„Der Ozon-Geruch in den ANP-Szenen ist die olfaktorische Signatur der Verdrängung." ^[kohaerenz-protokoll-konzept-master-md.md:L161]
+„Temperaturspitzen in Klimax-Szenen sind die direkte Folge von Hochlast-Erasure (Vortex Beat 4: Heat-Spike → ∞)." ^[kohaerenz-protokoll-konzept-master-md.md:L162]
+„**Somatischer Filter:** Landauer wird zu Hitze und Ozon, nicht zu Gleichungen." ^[kohaerenz-protokoll-konzept-master-md.md:L1024]
+Akt II's style level: „**Ebene 2 (KW2–KW3):** heiß, fragmentiert, Trigger kollidieren." ^[kohaerenz-protokoll-konzept-master-md.md:L1039]
+Warmth is AEGIS' here, not Juna's: no heat is given to [[juna|Juna]] or [[silas|Silas]], and Kap 6 is not named. Beside the konsolidiertes Konzept's warmth of the same date, it makes ozone and heat one signature — three weeks before the lock of 2026-05-30.
