@@ -1,10 +1,10 @@
 ---
 term: Oblivion
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C11
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-24"
 ---
 
@@ -109,3 +109,9 @@ Every switch between his voice and [[silas|Silas]]' „erzeugt Landauer-Wärme i
 „Spiegel-Alter Oblivion | Internes Werkzeug der Erason-Logik | K₀-Operator-Spiegel von AEGIS" ^[kohaerenz-protokoll-konzept-master-md.md:L436].
 With the other mirror Oblivion carries the Guardians' function: „2 Guardians + Spiegel-Alters (Silas, Oblivion) tragen die Funktion eleganter." ^[kohaerenz-protokoll-konzept-master-md.md:L513]
 In the consistency matrix Oblivion spans „KW1–KW3" ^[kohaerenz-protokoll-konzept-master-md.md:L958]; the somatic filter is open (L1006).
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — a Vorform, unnamed in the prose
+
+At the end of the separation: „Ich habe… — — — Was wollte ich" ^[kap0-v1-annotiert-md.md:L993] „— — — sagen." ^[kap0-v1-annotiert-md.md:L997] „— — was — —" ^[kap0-v1-annotiert-md.md:L1001]
+„Oblivion-Vorform-Stimme (User-Choreographie). Syntax-Signatur: Lösch-Prosa, sich auflösende Sätze, Leerzeilen." ^[kap0-v1-annotiert-md.md:L1005]
+The next line is the prologue's last: „Ich falle… in unzählige Scherben…" ^[kap0-v1-annotiert-md.md:L1009]
