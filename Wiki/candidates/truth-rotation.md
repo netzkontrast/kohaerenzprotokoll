@@ -41,12 +41,6 @@ The Vortex's last beat is called `Rotation` (L856).
 So here the name is the inversion itself, and the Vortex is where the novel settles
 it.
 
-## Open
-
-- Whether the name means the inversion (this reading) or the moment the reading
-  turns to it, and whether that difference is only one of naming.
-- `Große Inversion` — a surface some sources give the inversion beside this name.
-
 ## Reading — `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
 
 Here the name is for what the storyforms' inversion will ground. „Die **Klein-c-Inversion** zwischen A und B (MC↔IC-Klassen tauschen, OS↔RS-Klassen tauschen) ist strukturell sauber" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L71] — „Diese Inversion ist die mechanische Grundlage der späteren Truth-Rotation." ^[dramatica-dual-storyform-status-2026-05-07-md.md:L71]
@@ -83,3 +77,27 @@ The glossary gives the two their own entries. „Die Große Inversion. [K] Das S
 ## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
 
 One table row places it: „| \*\*Kap 35\*\* (Vortex 1) | Truth-Rotation sichtbar |" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L591].
+
+## Where the sources differ
+
+**What the name names.** The master report heads its section on the inversion
+with it and writes the inversion's table under it (L212–L226); for it the Vortex
+is where the novel decides (L845). The konsolidiertes Konzept, the
+Kapitel-Kompendium, the storyform outline and the glossary call the inversion the
+`Große Inversion` and make it the mechanical source of the Truth-Rotation, which
+is the moment in the Vortex when the reading turns. The glossary gives the two
+separate entries (its L82, L85). The Dramatica lock-in has the storyforms'
+Klein-c-Inversion as its mechanical ground (its L71).
+
+**What holds, they agree on**: AEGIS = K₀, Kael = K₁, in every reading. And the
+three that say so agree the phenomenology of the rifts stays and only the reading
+turns. So the difference is in what the name points at, the fact or the moment. It
+is recorded here and not as a conflict record.
+
+## Open
+
+- Whether the name means the inversion or the turn to it, and whether the
+  difference is only one of naming.
+- `Große Inversion`: a surface four sources give the inversion. It is not an
+  alias here, because in them it names the source of the Truth-Rotation, not the
+  rotation.
