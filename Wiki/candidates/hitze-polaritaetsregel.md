@@ -1,11 +1,11 @@
 ---
 term: Hitze-Polaritätsregel
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C11
 aliases: ["Polaritätsregel"]
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -60,3 +60,13 @@ KW1's sensory default names it by its head alone: „Polaritätsregel: Ozon = ka
 accumulating in „Kap 6 (Cache-Konflikt), Kap 19 (AEGIS-Eskalation)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L445];
 and the world riss of the transition out of KW1 is thermal, „Hitze-Spitzen, Ozon-Konzentration" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L418].
 It calls both signatures „die beiden Hitzen" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L351]. Conflict C11.
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**The rule as a lock in [[silas|Silas]]' riss field.** „Polaritäts-Lock 2026-05-30: Silas-Wärme ist die einzige diegetische Wärme im KP außerhalb des Vortex-Beat-4-Heat-Spike." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703]
+„Debüt Kap 3." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L703] [[nyx|Nyx]]'s chest heat is set apart by it: „diese Hitze ist innere Aktivierung, nicht Junas Coheron-Spur — Polaritäts-Disziplin beachten" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L395].
+The thermal world riss carries its name: „KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890]
+
+**Two heats it leaves as they are**: [[rhys|Rhys]]' riss, „Wärme-Akkumulation, fiebrige Hände." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L286], and the
+„Landauer-Hitze" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L837] of Silas' struggle with [[oblivion|Oblivion]]. The warmth that debuts in Kap 3 is Silas' in his field
+and „Junas Coheron-Spur ab Kap 3" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1042] in the foreshadowing — one, if Silas is [[juna|Juna]]'s echo.
