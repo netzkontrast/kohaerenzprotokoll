@@ -1,10 +1,10 @@
 ---
 term: Risse
 status: candidate
-sources: 14
-readings: 14
+sources: 15
+readings: 15
 conflict: C11, C15
-ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 aliases: ["Glitch", "Glitches"]
 gathered: "2026-09-16"
 ---
@@ -214,3 +214,12 @@ A composition rule: „Ein Riss-Typ pro Szene." ^[kohaerenz-protokoll-welt-senso
 Each Alter has a Riss type (§7): „Wenn ein Alter flutet, verändert sich nicht nur die Stimme, sondern die Welt des Texts." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L869]
 Beside them, „Plus Welt-Risse (Akt-spezifisch, nicht alter-getrieben):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886] KW1 → KW2 thermal,
 „KW1 → KW2: thermische Risse (Hitze-Spitzen, Ozon — Polaritäts-Disziplin)." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L890] Found by the sweep (decision 012).
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal — the deviations Kael smooths
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+„Was Kael täglich glättet, sind die Risse im Kleinsten — K₁-Spuren, die durch die K₀-Architektur drücken." ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52]
+In prose the word is forbidden: „Riss, K₁-Spur" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L145] becomes „Abweichung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L145].
+Each Fundsache from Köln „löst dessen Riss-Typ aus" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60], citing `[K, EP-Riss-Tabelle]`: Kiko temporal, Moros gravitational.
+The document names its own premise as open and blocking: F1-1, the thread's „ontologischer Unterbau des Fadens" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L262], marked blocking before P1.
