@@ -1,10 +1,10 @@
 ---
 term: Realitätsebenen
 status: candidate
-sources: 3
-readings: 3
+sources: 4
+readings: 4
 conflict: none
-ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+ingested: ["roman-lokalitaeten-konzept-und-ausarbeitung", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 aliases: ["Realitätsebene", "die sechs Realitätsebenen"]
 gathered: "2026-09-17"
 ---
@@ -87,3 +87,15 @@ subject to AEGIS' rules ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L519].
 „Sechs Ebenen" ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L67]: four Kern-Welten, the Überwelt and the Externe Ebene, one
 table with status, domain and act (L69–L77). The word `Realitätsebenen` itself
 does not occur.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**The word is de-canonised and the six are kept, as levels of one reality.**
+§1's heading is „Sechs Ebenen einer Realität" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L40], and its first
+paragraph retires the older phrasing: „Die alten Drafts sprechen teils von „6 Realitätsebenen", teils von Guardian-zugeordneten Welten (KW1=LogOS, KW4=Kairos/Sophia)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
+„Beides ist dekanonisiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] What it puts in their place:
+„eine Realität mit vier Logikregimen (KW1–KW4), die psychologische Landschaften sind, plus Überwelt und Externe Ebene." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
+
+So the six members are the same as in every reading above; what is retired is six
+*realities*. The konsolidiertes Konzept's „ontologisch geschichtet, nicht topologisch" ^[koharenz-protokoll-konzept-konsolidiert-2026-05-08-md.md:L459]
+says the same of the world without retiring the word. Whether the two disagree about anything but the name, neither says.
