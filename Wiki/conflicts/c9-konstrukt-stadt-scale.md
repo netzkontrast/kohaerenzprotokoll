@@ -4,7 +4,7 @@ subject: Konstrukt-Stadt
 kind: one name at two scales — the whole simulation, or its first world
 status: decided — by the author, 2026-09-24: KW1 only (corrected the same day)
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["konstrukt-stadt", "kern-welten"]
 ---
 
@@ -99,3 +99,9 @@ author's decision; nothing to change.
 
 **KW1, as decided.** „KW1 — Konstrukt-Stadt / Logos-Prime." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L213] Agrees with the author's
 decision; nothing to change.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**KW1, as decided.** „KW1 — Konstrukt-Stadt" ^[kohaerenz-protokoll-konzept-master-md.md:L658], Akt I, Kap 1–13. Agrees with the author's decision; nothing
+to change. Its premise calls the city a simulation — „Die Stadt ist eine Simulation, gesteuert von AEGIS" ^[kohaerenz-protokoll-konzept-master-md.md:L55] —
+and does not say whether that is the Konstrukt-Stadt or the whole.
