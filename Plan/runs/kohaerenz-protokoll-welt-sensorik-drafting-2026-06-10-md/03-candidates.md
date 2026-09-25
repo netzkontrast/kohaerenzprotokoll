@@ -115,8 +115,8 @@ Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
 - Approach-Inmost-Cave-Beat
 - Hyperalert
 - NP-Hard
-- Gravitationale Risse
-- Kinetische Risse
+- gravitationale Risse
+- kinetische Risse
 - Zitadelle
 - Inneres Bollwerk
 - Wartungsschächte
@@ -336,7 +336,7 @@ Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
 - Antagonistin
 - Konflikt-Anker
 - Kapitel-Briefing
-- CH-01_Erwachen-Zyklus_Briefing
+- CH-01\_Erwachen-Zyklus\_Briefing
 - Storyform-Encoding
 - Telling
 - Block
@@ -346,8 +346,6 @@ Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
 - Block-Sequenz-Position
 - Dramatica-Encoding
 - Throughline
-- Storyform A
-- Storyform B
 - MC
 - IC
 - OS
@@ -420,7 +418,6 @@ Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
 - Self-Review-Checkliste
 - Tonale-Achse-Check
 - POV-Konsistenz-Check
-- Genre-Modus
 - Hard-SF
 - Philosophical Horror
 - Psychological Thriller
@@ -487,7 +484,6 @@ Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
 - UI-Direktiven
 - Systemlog-Stimme
 - Schicht-1
-- Schicht-2
 - Kap-1-Erstsatz
 - Doppellesbares Finale
 - Konflikt-Leser
@@ -529,7 +525,6 @@ Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
 - Spiegel-Alter
 - OQ-F
 - Moonshine-Boundary
-- Moonshine-Link
 - OQ-G
 - Post-Vortex-AEGIS-Status
 - lebende Reliquie
@@ -555,18 +550,23 @@ Kap 1 "spurlos". L63 Ozon = kalt/scharf, Landauer-Signatur.
 - tragische Unschuldsstruktur
 
 Observed while reading (prose, filtered out):
-- L42 decanonises Guardian-assigned worlds (KW1=LogOS, KW4=Kairos/Sophia); KW1-4 are
+* L42 decanonises Guardian-assigned worlds (KW1=LogOS, KW4=Kairos/Sophia); KW1-4 are
   Akt-Marker. L282 two Guardians in the Überwelt; L1183 "Zwei Guardians | Mnemosyne +
   Erasure-Pol (frühere fünf sind dekanonisiert)".
-- L346/L1067/L1196 cold ozone = AEGIS, warmth = Juna, debut Kap 3, exception Vortex 1
+* L346/L1067/L1196 cold ozone = AEGIS, warmth = Juna, debut Kap 3, exception Vortex 1
   Beat 4. But L445 strand 1 "Landauer": "Hitze als Symptom der Wahrheitsvertuschung",
   accumulating in Kap 6 — while L346 files Landauer-Signatur under Kaltes Ozon. L418 a
   thermal Riss at the KW1->KW2 transition: "Hitze-Spitzen, Ozon-Konzentration".
-- L1174 Genesis-4-Beat: Einheit -> Cluster -> Trennungsprotokoll -> Wir-AEGIS-plural
+* L1174 Genesis-4-Beat: Einheit -> Cluster -> Trennungsprotokoll -> Wir-AEGIS-plural
   (attributed to Konzept konsolidiert); L1212 four beats, Beat 4 = Wir-AEGIS-plural.
   L627 the Kap-0 crisis chain ends in Trennungsprotokoll. No 734-before-separation here.
-- L327 Garten der stillen Präsenz = Setting der Juna-Wirkung (Kap 33), Externe Ebene;
+* L327 Garten der stillen Präsenz = Setting der Juna-Wirkung (Kap 33), Externe Ebene;
   L593 Kap 38 Juna erscheint direkt.
-- L175 KW3 carries Kap 23-28, and Überwelt-Nexus in Kap 33.
-- L1456-1466 the document's own Genesis conflict: Alex before or in the separation.
-- L1410-1411 it claims Source-of-Truth for the four canon files; "Canon gewinnt".
+* L175 KW3 carries Kap 23-28, and Überwelt-Nexus in Kap 33.
+* L1456-1466 the document's own Genesis conflict: Alex before or in the separation.
+* L1410-1411 it claims Source-of-Truth for the four canon files; "Canon gewinnt".
+
+
+Corrected after the count (the count's zeros): three surfaces were written as the
+document does not write them (case, export escaping); Storyform A/B and Moonshine-Link
+were names the document does not use at all and are removed; two repeats removed.
