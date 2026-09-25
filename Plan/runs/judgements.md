@@ -1333,3 +1333,17 @@ It exists so the decisions are searchable: qmd indexes markdown only, so the led
 **What was done.** The Kap-0 draft of 2026-05-08 heads a section „Die Innere Weite: Simulation als Optimierung“ (L321) and defines it: „Eine virtuelle Umgebung innerhalb der eigenen Geschlossenheit: die Innere Weite.“ (L327), where AEGIS builds „die Bausteine einer eigenen Realität“ (L343) and where Kael's remainder is left (L485). It never writes Überwelt. Three read sources gloss one with the other — „Die Innere Weite (Überwelt-Etablierung)“ (konsolidiertes Konzept L787, strukturierter Outline L230, Konzept-Iteration Genesis L295), „die Innere Weite (Überwelt) aus Kap 0“ (konsolidiertes Konzept L837) — and the ueberwelt page already carries those lines as readings. No read source separates them
 
 **Result.** one term — the Innere Weite is Kap 0's name for the Überwelt as it is established; `Innere Weite` becomes an alias of ueberwelt, and the draft's section is a reading there. `Simulation` stays apart (J39)
+
+## J96 — Kiko-Vorform-Einbruch / Kiko
+
+**two-terms** · kap0-v1-annotiert-md · 2026-09-25 · replay: `judgement`
+
+- **rule:** a precursor form of a figure is not the figure (J15); a passage that states the figure's own traits through its precursor is a reading on the figure's page, placed by what it states (J62), and the precursor gets no page
+- **mechanised by:** `nothing`
+- **features:** precursor, annotation, draft-text, eleven-figures
+
+**Question.** is an alter's Vorform the alter — and where does its passage go?
+
+**What was done.** The annotated Kap-0 draft names eleven passages of its prose by an alter's Vorform — „Kiko-Vorform-Einbruch (User-Choreographie: leiser Kiko-Einbruch der kindlichen Sensorik des Druck-Spürens)“ (L185), and Moros, Lia, Rhys, Lex, Alex, Argus, Nyx, Selene, Silas and Oblivion the same way (L153–L1005). Its own rule says the alters are in Kap 0 „nur als Cluster-Funken-Echos präsent, nicht als Personen“ (L51), and each annotation states the alter's own „Syntax-Signatur“. J15 holds that X-Vorstufe is not X
+
+**Result.** two terms, and no page for any Vorform: the Vorform is not the alter (J15), and the prose never names it. But each annotation states the alter's own traits — its syntax signature, and that it is present in Kap 0 as a voice — so the passage is a reading on the alter's page, placed by what it states (J62). Eleven readings, on moros, kiko, lia, rhys, lex, alex, argus, nyx, selene, silas and oblivion
