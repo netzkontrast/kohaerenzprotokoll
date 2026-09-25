@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 15
-readings: 14
+sources: 16
+readings: 15
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md", "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md", "kap0-v1-annotiert-md"]
 gathered: "2026-09-16"
 ---
 
@@ -208,3 +208,9 @@ In Kap 0 they are what AEGIS files as noise, and in Kap 40 the Wir: „In Kap 40
 `Mira` stands in no other landed document (`corpus.py count Mira`: 1 document, 1 occurrence).
 Kap 40's voice carries them unmarked: „ein Atemzug klingt nach Lex, einer nach Nyx, einer nach Kiko —, ohne dass es als Polyphonie markiert wird." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L335]
 The healed form holds them apart: „Sie sind verbunden, aber unterscheidbar — wie Kael und seine Alters in der gehealten Form." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L197]
+
+## Reading — `kap0-v1-annotiert-md`, 2026-05-17, the annotated draft of Kap 0 — voices, never names
+
+The rule: „In Kap 0 sind die späteren Alter nur als Cluster-Funken-Echos präsent, nicht als Personen." ^[kap0-v1-annotiert-md.md:L51] „Sie haben keine Namen, keine Etiketten, keine Header." ^[kap0-v1-annotiert-md.md:L51] „Der Leser darf nicht in "13-Personen-Lesart" versetzt werden." ^[kap0-v1-annotiert-md.md:L51]
+So the prose names none. The annotations name each passage's voice as a Vorform, and the writer sums up: „Die Choreographie der Vor-Stimmen (Moros → Kiko → Lia → Rhys → Lex → Alex → Argus → Nyx → Selene → Silas → Oblivion)" ^[kap0-v1-annotiert-md.md:L1101]. Eleven, before any of them is a person.
+The writer doubts one: „Charakter-Bibel sagt, Alex *entstand in der Sekunde der Fragmentierung* — also strenggenommen kann Alex in der Genesis vor dem Trennungsprotokoll nicht präsent sein. Konzept-Konflikt?" ^[kap0-v1-annotiert-md.md:L1205]
