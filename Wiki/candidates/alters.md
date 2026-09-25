@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 12
-readings: 11
+sources: 13
+readings: 12
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
 gathered: "2026-09-16"
 ---
 
@@ -183,3 +183,12 @@ Hard rule R-3 keeps the word out of Akt I: „Alter, Fragment, ANP, EP, TSDP, DI
 Thirteen, listed by category (L53–L56): five ANPs, five EPs, [[argus|Argus]], and the two mirrors. Fifteen names are
 excluded outright: „Dekanonisiert (NIE als aktive Charaktere):" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95] „Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L95]
 (Q3). „Die Spiegel-Alter sind das narrative Herz der 13er-Architektur." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L683]
+
+## Reading — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+Thirteen voices inside the system, [[kael|Kael]] to [[oblivion|Oblivion]] (L67–L165), each with its ANP or EP
+label, and the document's word for them is `Anteil` (J87):
+„Der Leser erkennt den neuen Anteil ausschließlich an Syntax und Vokabular." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L21]
+„Dissoziation ist Amnesie-Terror, niemals Crew-Menü." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L21] The word `Alter` stays out of Kael's
+Akt I, with `Fragment` and the DKT terms (L69). Together they become the Wir:
+„Das Wir ist Mosaik, nicht Monolith." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L173]
