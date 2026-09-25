@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 7
-readings: 7
+sources: 8
+readings: 8
 conflict: none yet
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -79,3 +79,7 @@ In Kap 40 the flip reads two ways: „Kap 40 lässt beide Lesarten zu — Konfli
 The glossary gives the two their own entries. „Die Große Inversion. [K] Das Skelett der zwei Storyforms in einem Satz: AEGIS glaubt K₁ (Kohärenz) zu sein, ist aber K₀ (Entropie)" ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L82] — „Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L82]
 „Truth-Rotation. [K] Der Moment im Vortex 1 (Kap 35–36), in dem die Lesart kippt: AEGIS = K₀ / Kael = K₁ wird sichtbar." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L85]
 „Die Phänomenologie der Risse bleibt unverändert — dieselben Risse, dieselbe Sensorik, dieselbe Mechanik —, aber ihre ontologische Bedeutung dreht sich." ^[kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L85]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+One table row places it: „| \*\*Kap 35\*\* (Vortex 1) | Truth-Rotation sichtbar |" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L591].
