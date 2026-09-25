@@ -4,8 +4,8 @@ subject: the Landauer heat, warm or cold
 kind: one sensory rule, stated by an older source and overridden by a newer one that names it
 status: open
 first_seen: "2026-09-24"
-sources: 11
-pages: ["landauer-signatur", "risse"]
+sources: 12
+pages: ["landauer-signatur", "risse", "hitze-polaritaetsregel", "silas", "oblivion"]
 ---
 
 # C11 — Landauer warmth in Kap 6 and Kap 36, or cold ozone
@@ -163,3 +163,15 @@ And its Silas–Oblivion conflict makes the heat Landauer's: „Jedes Mal, wenn 
 C10's row 1 and the second a reading on [[silas]] since document 8; this record
 held neither. Three weeks before the 2026-05-30 lock, like the konsolidiertes
 Konzept of the same day.
+
+## 2026-09-25 — `koharenz-protokoll-sprach-dna-2026-05-13-md`, 2026-05-13
+
+**Landauer warmth, felt as ozone or as heat shimmer — both, in one sentence.**
+[[silas|Silas]] and [[oblivion|Oblivion]]:
+„Silas und Oblivion stehen im physikalischen Konflikt — jeder Wechsel zwischen ihren Stimmen erzeugt Landauer-Wärme im Text, spürbar als Ozon-Geruch oder Hitzeschlieren." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L233]
+Akt II's style level is „Heiß, fragmentiert." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L185], with `Hitze` and `Ozon` in one
+vocabulary list (L185). Warmth is [[juna|Juna]]'s too — „plötzliche somatische Wärme" ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L61] —
+and Silas' (L157). No signature is named, no chapter and no lock. The document is dated
+seventeen days before the lock of 2026-05-30 and names the character bible as a source (L13),
+whose sentence on the same conflict gives `Landauer-Hitze` (the entry above, found by a second
+reading).
