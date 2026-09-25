@@ -1,10 +1,10 @@
 ---
 term: Truth-Rotation
 status: candidate
-sources: 5
-readings: 5
+sources: 6
+readings: 6
 conflict: C2
-ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+ingested: ["kohaerenz-protokoll-konzept-master-md", "dramatica-dual-storyform-status-2026-05-07-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -63,4 +63,12 @@ In Kap 35, Vortex 1 Beats 1–3, among the chapter's figures: „Oblivion (Innen
 
 The great inversion, labelled `[K]`: „Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kapitel-kompendium-gather-2026-05-31-md.md:L25]
 In Vortex 1, the real storyform turn: „AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die Lesart kippt." ^[kapitel-kompendium-gather-2026-05-31-md.md:L232]
+Gathered when the page opened: the census had listed the term.
+
+## Reading — `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, 2026-06-10
+
+The same sentence as the Kapitel-Kompendium: „Diese Verwechslung ist die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L25]
+In Vortex 1: „AEGIS = K₀ / Kael = K₁ wird sichtbar; die Phänomenologie der Risse bleibt, die Lesart kippt." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L370]
+Beat 5: „Truth-Rotation komplett." ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L382]
+And Kap 40 reads both ways: „Konflikt-Leser sehen im Flip (Truth-Rotation) einen Reset" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L68] — „Der Text adjudiziert nie" ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L68].
 Gathered when the page opened: the census had listed the term.
