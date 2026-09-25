@@ -1,10 +1,10 @@
 ---
 term: Sophia
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: C4, C6
-ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["guardians-und-kern-welten-konzept", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -98,3 +98,11 @@ Figuren." ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L61] �
 Once, in the world table's Guardian column for KW4: „(Kairos/Sophia, latent)"
 ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L175]. Not among the functions the Erasure-Pol absorbs (L161). Q5 — where Sophia
 went: latent, here.
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Named once, in the assignment it de-canonises**: „Die alten Drafts sprechen teils von „6 Realitätsebenen", teils von Guardian-zugeordneten Welten (KW1=LogOS, KW4=Kairos/Sophia)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42]
+„Beides ist dekanonisiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L42] No world keeps her name. The reset locks keep two
+Guardians, „Mnemosyne + Erasure-Pol (frühere fünf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1183],
+and say nothing of what became of Sophia — no absorption here. The author's C6
+decision, five Guardians, stands; this document is the two-Guardian side (C6, Q5).
