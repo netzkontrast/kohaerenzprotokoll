@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,3 +46,13 @@ Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kapitel-k
 
 - Storyform: „A: ewige Fragmentierung droht“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L226] (marked `[S]`)
 - Consequence: „akut Akt II Z3 / ab Kap 28“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L147]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
+
+- World: „KW3 / KW4 Phase-Shift“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L854]
+- Sub-location: „unbewachte Tore“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L854]
+- Note: „Übergang“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L854]
+- Transition: „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
+- Transition: „Kael lässt KW3 nicht hinter sich; er nimmt es mit.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L724]

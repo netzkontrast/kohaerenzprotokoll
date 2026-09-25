@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -47,3 +47,11 @@ Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-g
 - Story: „Kap 26 = der Tritt darüber“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (marked `[K]`)
 - Veil: „jetzt offen benannt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L218] (marked `[K]`)
 - Transition: „13/14 und 26/27 = Modus-Wechsel“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L86]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
+
+- World: „KW3 Zitadelle“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L852]
+- Note: „Akt-II-Ende; Schleier offen benannt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L852]
+- Place: „paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L358] (Zitadelle / Inneres Bollwerk, marked `[K]`)

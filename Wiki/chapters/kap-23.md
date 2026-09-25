@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -44,3 +44,12 @@ Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-g
 
 - Storyform: „Mosaik als Schöpfung (A-Requirement)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L216] · „Mosaik als Schöpfung (Kap 23)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L150]
 - Detail: „Szenen-Detail“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L216] (marked `[L]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
+
+- World: „KW3 Schleusen / Wachtürme“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L849]
+- Sub-location: „Eintritt KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L849]
+- Note: „Protektoren-Dominanz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L849]
+- Transition: „Übergang KW2 → KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]

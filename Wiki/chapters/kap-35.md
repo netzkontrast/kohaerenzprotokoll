@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -47,3 +47,13 @@ Position: „Vortex 1 (Kap 35–36) — Operative Wendung“ ^[kapitel-kompendiu
 - Turn: „Truth-Rotation: AEGIS = K₀ / Kael = K₁ wird sichtbar“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`) · „die mechanische Quelle der Truth-Rotation am Vortex (Kap 35–36)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L25] (marked `[K]`)
 - World: „Setting: Mnemosyne-Server-Architektur (KW2)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`)
 - Transition: „34/35 = die echte Storyform-Wendung (B beginnt zu erlöschen; Vortex)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L87]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Vortex 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L798]
+
+- World: „KW2 Mnemosyne-Server-Architektur“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861]
+- Sub-location: „Vortex 1 Beat 1–2 (Convergence + Dialetheic Choice)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861]
+- Note: „Klimax-Setting; Gödel-Gambit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861]
+- Place: „Das primäre Bild ist beim Vortex-1-Encoding festzulegen.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L254] (marked `[L]`)
+- Lock: „Lock vor Kap-35-Drafting.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L938] (marked `[L]`)

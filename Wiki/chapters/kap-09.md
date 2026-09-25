@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,3 +49,11 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Story: „erste bewusste innere Kooperation; Foreshadowing-Programm „plurale Bewahrung" startet“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (marked `[K]`) · „jede Wir-Stimme-Szene ab hier zielt auf Kap 39“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198]
 - Genesis echo: „Wir-Bildung = strukturelle Wieder-Annäherung an die K₁-Reinform über plurale Form“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (marked `[K]`)
 - Lock: „keine Wir-Geflecht-Etablierung vor Kap 9“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „Kap 9 | KW1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]
+- Sub-location: „foreshadowing plurale Bewahrung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]
+- Note: „Wir-Stimme im frühen Aufbau“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]

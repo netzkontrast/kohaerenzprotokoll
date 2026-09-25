@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,3 +49,11 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Storyform: „A-Requirement: Mosaik-Akzeptanz“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (marked `[K]`) · „Mosaik-Akzeptanz (Kap 11)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L150]
 - Story: „„Mosaik-Herz"“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (marked `[K]`)
 - Genesis echo: „Vorgriff auf plurale Bewahrung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L200] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 / KW3 Übergangs-Schwelle“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L837]
+- Sub-location: „Mosaik des Selbst / Akzeptanz der Komplexität“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L837]
+- Note: „Jaspers' Grenzsituation; Übergang KW1 → KW2/3 vorbereitet“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L837]

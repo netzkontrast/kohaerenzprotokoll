@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,12 @@ Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-pr
 - World: „Mnemosyne-Archipel beginnt sich am Horizont zu zeigen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L985]
 - Sensorik: „Schwellen-Bruch, Eintritt, Architektur die nicht für Eintretende gebaut ist“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L993]
 - Open question: „Kap 31 (Silas-POV), Kap 32 (Oblivion-POV) sind Vorschläge“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1373]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L797]
+
+- World: „Kap 31 | KW4“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857]
+- Sub-location: „Schwellen-Bruch / Klick-Motiv“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857]
+- Note: „Silas erstmals POV-fähig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857] (marked `[V]`)
+- Place: „Kap-31/32-Setting möglich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L478] (Forum des Dialogs, marked `[V]`)

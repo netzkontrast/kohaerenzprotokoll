@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -44,3 +44,11 @@ Title: „K-J-Verbindung als bewusster Kanal“ ^[kapitel-kompendium-gather-2026
 Position: „Akt III Phase A — Heldenreise außen (Kap 27–34)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L220] (marked `[K]`)
 
 - Storyform: „K-J-Verbindung als bewusster Kanal (A-Prerequisite)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L227] (marked `[K]`) · „K-J als bewusster Kanal (Kap 30)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L151]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L797]
+
+- World: „KW4 / Externe Ebene Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]
+- Sub-location: „Moonshine-Link bewusst / Gödel-Gambit Beginn“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]
+- Note: „K-J-Kanal stabil; Polanyi-Tacit-Knowledge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]

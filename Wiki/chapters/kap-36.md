@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -47,3 +47,14 @@ Position: „Vortex 1 (Kap 35–36) — Operative Wendung“ ^[kapitel-kompendiu
 - Cost (B): „AEGIS-monolithisch erlischt — manifest Kap 36“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L148]
 - World: „Setting: Mnemosyne-Server-Architektur (KW2)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`)
 - Transition: „36/37 = Storyform-Konsolidierung (nur noch A aktiv; Resolution)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L88]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Vortex 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L798]
+
+- World: „KW2 Mnemosyne-Server-Architektur“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L862]
+- Sub-location: „Vortex 1 Beat 3–5 (Silence, Heat Spike, Rotation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L862]
+- Note: „Algorithmische Melancholie“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L862]
+- Externe Ebene: „Der Substrat-Durchbruch (referenziert Kap 36 / Vortex 1 Beat 4)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L622]
+- Transition: „Substrat-Berührung Beat 4 (Externe Ebene blitzt durch)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L798]
+- Open: „Wie genau bricht die Externe Ebene durch? Was sieht/spürt Kael?“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L941] (marked `[L]`)

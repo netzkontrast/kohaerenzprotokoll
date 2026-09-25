@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,3 +46,11 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Stage: „Erwachen & Vorbereitung (Identifikation mit dem Männlichen) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L192]
 - Story: „Kael verdoppelt Kontrolle/Ordnung als Bewältigung — „Bunker-Bau" (Avoidance, A-Problem)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L192]
 - Theory: „Autopoiesis als Selbst-Abschottung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L192]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 verlassener Randbezirk“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]
+- Sub-location: „erste Wärme-Spur (Junas Coheron-Debüt)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]
+- Note: „Erstes Juna-Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]

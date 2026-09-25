@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,3 +48,11 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Stage: „Pforten der Verurteilung (Prüfungen) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L193] (marked `[S]`)
 - Story: „Tests der neuen, einseitig-logischen Identität; Zweifel, Scham, logische Grenzen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L193] (marked `[S]`)
 - Philosophy: „Gödel-Vorschein (Grenzen des Regelsystems)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L193] (marked `[S]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 verstecktes Archiv“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]
+- Sub-location: „Gödels Architekt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]
+- Note: „Lex-dominant“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]

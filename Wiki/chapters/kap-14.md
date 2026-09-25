@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,3 +46,13 @@ Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-g
 - Position in mode: „Bruch / 1. Szene des zyklischen Modus“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (marked `[K]`)
 - Story / World: „Kael erhält Zugang zu AEGIS' technischen Dossiers (Lernarchiv Theta-9). KW2 betritt.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L210] (marked `[K]`)
 - Transition: „13/14 und 26/27 = Modus-Wechsel“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L86]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „KW2 Archiv der Grenzen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840]
+- Sub-location: „Eintritt KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840]
+- Note: „AEGIS-Dossiers gefunden“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840]
+- Place: „Ort, an dem Kael die technischen Dossiers von AEGIS findet“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L247] (Das Archiv der Grenzen, marked `[K]`)
+- Transition: „Wechsel über Evaluierungseinheit in KW3-Topologie, dann Eintritt KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L722]

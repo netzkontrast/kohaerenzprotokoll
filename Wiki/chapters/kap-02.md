@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,3 +49,13 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Story: „der erste Riss — eine konkrete Anomalie bricht die Ordnung (Glitch reaktiviert ein Echo)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191]
 - Style: „Erste leise Stilcode-Verschiebung.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191] · „Stilcode-Einbrüche anderer Alters ab Kap 2–3 (subtil)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L186]
 - Theory: „Riss = Landauer-Hitze/Ozon (Verdrängung wird sichtbar)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L191]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 Datenverarbeitungs-Zentrum / Sektor 04“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L828]
+- Sub-location: „erster Riss (geometrische Inkonsistenz)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L828]
+- Note: „Foreshadowing-Anker 734“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L828]
+- Place: „Kap 1 (Setting), Kap 2 (erster Riss)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L155] (Sektor 04, marked `[K]`)
+- Place: „Wiederkehr Kap 2, Kap 10, Kap 25“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)

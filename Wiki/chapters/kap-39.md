@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,3 +49,13 @@ Position: „Vortex 2 (Kap 38–39) — Ontologische Wendung / Plurale Apotheose
 - Lock (last sentence): „Kael schreibt als letzten Satz den gelockten Kap-1-Erstsatz“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240] (marked `[K]`) · „erster Satz = letzter Satz, den Kael schreibt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92]
 - Foreshadowing: „jede Wir-Stimme-Szene ab hier zielt auf Kap 39“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L198]
 - Kishōtenketsu: „Ketsu (Synthese, nicht Showdown) = Kap 39/40, ambivalent, ohne Erklärung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L264] (marked `[S]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Vortex 2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L800]
+
+- World: „alle Welten simultan“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L865]
+- Sub-location: „Wir-AEGIS-plural als Ouroboros-Form“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L865]
+- Note: „Plurale Apotheose; Erstsatz-Echo Kap 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L865]
+- Transition: „Alle Welten sind gleichzeitig wahr; das Wir bewahrt die Differenz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L728]
+- Synthesis: „das Wir-Geflecht sieht alle Welten gleichzeitig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L959]

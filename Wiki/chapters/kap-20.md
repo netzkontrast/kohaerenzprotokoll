@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Storyform: „MC-Solution Pursuit — erste bewusste Bewegung, aktiv neue Wege suchen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L713]
 - Sensorik: „fluide Regeln, Emergenz-Texturen, eine Kernwelt die mit-denkt“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L725]
 - Genesis echo: „Lyons-Welt = Echo der vor-Trennungs-Schöpferkraft.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L725]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]
+- Sub-location: „Genesis-Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]
+- Note: „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]

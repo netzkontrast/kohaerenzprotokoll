@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -51,3 +51,14 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Lock (prose): „PROSA-REGEL KAP 1 (gelockt 2026-05-31, aus User-Feedback)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L33] · „Die Amnesie wird nie erwähnt.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L37] · „Der Leser dockt an einem Menschen an, nicht an einer These.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L39]
 - Lock (first sentence): „Kap 1 ↔ Kap 39 (erster Satz = letzter Satz, den Kael schreibt; gelockt: „Das Licht ist schon da, als ich erwache")“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92]
 - Somatics: „Kap 1 bleibt spurlos“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L182]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 Sektor 04 / Wohneinheit 734 / Transitkorridor Delta-7“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L827]
+- Sub-location: „Erwachen-Zyklus“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L827]
+- Note: „LogOS dekanonisiert → AEGIS als ferne Umgebungsbedingung; Stilebene 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L827]
+- Place: „Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
+- Place: „Kap 1 (Setting), Kap 2 (erster Riss)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L155] (Sektor 04, marked `[K]`)
+- Lock: „Kap 1 bleibt spurlos.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141]

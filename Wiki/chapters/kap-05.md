@@ -1,8 +1,8 @@
 ---
 chapter: 5
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -45,3 +45,10 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 
 - Stage: „Auge des Sturms (falscher Erfolg) · KW1“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L194] (marked `[S]`)
 - Story: „trügerische Stabilität; ein Scheinerfolg, dessen Basis nicht integriert ist“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L194] (marked `[S]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 (justierte Pseudo-Stabilität)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831]
+- Note: „A dominant, B latent; Slot-16-Kandidat für Hard-B-Kapitel“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L831]

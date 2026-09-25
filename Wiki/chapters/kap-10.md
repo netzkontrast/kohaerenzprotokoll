@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,3 +49,12 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Story: „K-J-Verbindung erstmals als Werkzeug“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (marked `[K]`)
 - Theory: „Quanten-Nichtlokalität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L199] (marked `[K]`)
 - Veil: „Multiplizität wird im Roman nicht ausgesprochen bis \~Kap 10“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L44] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „Kap 10 | KW1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836]
+- Sub-location: „Anker 734 + Mnemosynes-Versuchung gespiegelt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836]
+- Note: „Mnemosyne als Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836]
+- Place: „Wiederkehr Kap 2, Kap 10, Kap 25“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)

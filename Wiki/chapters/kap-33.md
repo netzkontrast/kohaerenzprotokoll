@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,15 @@ Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-pr
 - Storyform: „OS-S3 (B) — parakonsistente Logik als Architektur; Gödel-Sätze als Verteidigungswaffe“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1029]
 - Characters: „alle 13 Alters in Kooperation, AEGIS (am Limit)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1037]
 - Sensorik: „dunkle Tiefe, Vibrieren des Fundaments, eine Stille die voller ist als Klang“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1041]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L797]
+
+- World: „Überwelt / Verschränkungs-Insel + Garten der stillen Präsenz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L859]
+- Sub-location: „Approach the Inmost Cave / aletheia“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L859]
+- Note: „Direkte Berührung K₁-Reinform“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L859]
+- Place: „Setting der direkten Berührung der K₁-Reinform“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L577] (Verschränkungs-Insel, marked `[K]`)
+- Place: „Setting der Juna-Wirkung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L665] (Garten der stillen Präsenz, marked `[K]`)
+- Überwelt: „Explizit Kap 33 (Verschränkungs-Insel als Setting)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L506]
+- Open: „Welche Form hat sie? Visualisierung der Persistenzgleichung?“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L945] (marked `[L]`)

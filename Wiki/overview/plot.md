@@ -1,7 +1,7 @@
 ---
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -60,3 +60,18 @@ several of these documents call themselves canon, and none retires another
 - Vortex 1: „Fünf Beats (Phillips/Huntley-Mechanik)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] (marked `[K]`) · „bis B in Beat 5 erlischt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232] · „Beat 3 = strukturell notwendige Pause — nicht mit Inhalt füllen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L232]
 - Vortex 2: „Synthese (c) entsteht (verlässt das Klein-c-Schema)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240] (marked `[K]`) · „Genesis-Beat 4 (Wir-AEGIS-plural) vollzogen.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240] · „Schluss-Klang „Liebe bleibt, wie der Schmerz"“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L240]
 - Kishōtenketsu: „Ki (Einführung) = Kap 0 + früher Akt I · Shō (Entwicklung) = Akt I/II · Ten (Wendung) = Vortex 1+2 · Ketsu (Synthese, nicht Showdown) = Kap 39/40“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L264] (marked `[S]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+- Count: „Kapitel-Welt-Mapping (Kap 0 bis 40)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L817]
+- Stance of the mapping: „Bei Konflikten gelten kanonische Ankerpunkte; sonstige Verortungen sind [V].“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L819] — rows marked `[V]`: Kap 31, Kap 32
+- Prologue: „Genesis (vor allen Welten)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L793] · „Erwachen in KW1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L793]
+- Act I: „Akt-Dominanz. Akt I (Kap 1–13).“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L91] · „KW1 Konstrukt-Stadt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L794]
+- Act II middle: „Mittlere Akt II (Kap 14–22). Plus: Vortex-1-Setting (Kap 35–36).“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L197]
+- Act II end: „Späte Akt II (Kap 23–28).“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L305] · „KW3 Cerberus-Labyrinth“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
+- Act III: „Akt III (Kap 29–34, 37–39). Außer Vortex 1 (KW2) und der trügerischen Pastorale Kap 37, die anders verortet ist.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L408]
+- Vortex 1: „KW2 Mnemosyne-Server-Architektur“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L798] · „Substrat-Berührung Beat 4 (Externe Ebene blitzt durch)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L798]
+- Vortex 2 and Coda: „Externe Ebene + KW4 simultan“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L800] · „alle Welten gleichzeitig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L801]
+- One world per chapter: „Pro Kapitel eine dominante Welt (außer Kap 38–40, wo Synthese geschieht).“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L926]
+- Überwelt and Externe Ebene: „Indirekt in jedem Kapitel als Hintergrund-Architektur.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L506] · „Bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630]
+- Reader escalation: „Die KW-Sequenz ist Stildirektive, nicht Welt-Mechanik.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L874] · „(P → Parakonsistent → NP-Hard → Generativ)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L53] (marked `[K]`)

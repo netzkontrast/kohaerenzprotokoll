@@ -1,8 +1,8 @@
 ---
 chapter: 29
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,12 @@ Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-pr
 - Characters: „Kiko ist deutlich sichtbar — die kindliche Angst kommt zurück. Moros zieht im Hintergrund.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L937]
 - Storyform: „RS-Psychology B — Verstrickung tief; Host-System-Symbiose zeigt sich“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L933]
 - Sensorik: „Angst des Kindes, Engerwerden“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L945]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L797]
+
+- World: „KW4 Möglichkeits-Garten Eintritt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L855]
+- Note: „Stilebene 3 erstmals voll“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L855]
+- Transition: „Übergang ist Phase-Shift, nicht Ortwechsel“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L724]
+- Place: „sinnvoll als Kap-29-Setting“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L474] (Werkstatt der Schöpfung, marked `[V]`)

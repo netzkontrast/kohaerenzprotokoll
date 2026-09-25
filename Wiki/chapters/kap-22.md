@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,12 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Plot beats: „AEGIS reagiert auf Kaels Grenzüberschreitungen mit unvorhersehbaren Systemänderungen.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765]
 - Genesis flashback: „Dritter Genesis-Flashback (Bridge): Komp 734 / Funktionalisierung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765] · „er erlebt sich als Werkzeug, ohne zu wissen, wessen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L765]
 - Sensorik: „unvorhersehbare Systemverwerfungen, Wärme-Schlieren, eine Pause die zu lang ist“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L773]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „KW2 / KW3 Übergangs-Zone“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L848]
+- Sub-location: „Bekenstein-Strang erste Spur“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L848]
+- Note: „Welt beginnt zu pixelieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L848]
+- Transition: „Übergang KW2 → KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]

@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -49,3 +49,14 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Genesis echo: „die Stille der Mitte = Echo der Vor-Trennungs-Stille der Reinform“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (marked `[K]`)
 - Veil: „ab hier offen benennbar“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L202] (marked `[K]`) · „vor Kap 13 keine Klartext-Diagnose (kein „Alters", kein „DID")“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L44] (marked `[K]`)
 - Transition: „13/14 und 26/27 = Modus-Wechsel“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L86]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW3 Evaluierungseinheit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839]
+- Sub-location: „Messer im Bewusstsein / Schleier-Fall“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839]
+- Note: „Multiplizitäts-Schleier fällt intern“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L839]
+- Place: „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] · „Kap 13 (Schleier-Fall)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Evaluierungseinheit, marked `[K]`)
+- Act: „Multiplizitäts-Schleier hält bis Kap 13.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L91]
+- Transition: „Multiplizitäts-Schleier fällt intern; Kael sieht das System“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L722]

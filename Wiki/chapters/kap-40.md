@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 2
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 3
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -40,3 +40,13 @@ Position: „Geheilte Genesis (Coda) | 40 | rückblickend, ruhig“ ^[kapitel-ko
 - Tone: „Tonal: ruhig, akzeptierend, ohne Didaktik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L244] (marked `[K]`) · „„Anfang und Ende fallen zusammen, aber das Sehen hat sich verändert."“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L244]
 - Frame: „Genesis (Kap 0 ↔ Kap 40, Erzähler/ontologische Außen-Klammer)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L92]
 - Kishōtenketsu: „Ketsu (Synthese, nicht Showdown) = Kap 39/40, ambivalent, ohne Erklärung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L264] (marked `[S]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Coda Kap 40“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L729]
+
+- World: „(alle / keine — Coda-Position)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L866]
+- Note: „Ouroboros-Schluss; Genesis-Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L866]
+- Transition: „Anfang und Ende fallen zusammen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L729] · „aber das Sehen hat sich verändert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L729]
+- Reader: „die Coda Kap 40 schließt den Kreis, indem sie den Leser in die Genesis zurückwirft“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L963]
+- World: „alle Welten gleichzeitig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L801] (§10.1)

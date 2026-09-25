@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,3 +48,11 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Story: „Mitgefühl mit den logischen Anteilen beginnt“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197] (marked `[K]`)
 - Veil: „erste interne Lüftung (\~Kap 8–10), kein Klartext“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L197] (marked `[K]`)
 - Style: „voll ab Kap 8–10“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L186]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 (anti-mimetische Räume)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834]
+- Sub-location: „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834]
+- Note: „Akt-I-Mitte; Schleier wird porös“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834]

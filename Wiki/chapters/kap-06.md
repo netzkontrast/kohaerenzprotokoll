@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,3 +48,12 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Story: „„Cache-Konflikt" — die einseitige Logik scheitert an einem komplexen Problem; Erkenntnis der Begrenztheit“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (marked `[K]`)
 - Theory: „parakonsistente Logik“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (marked `[K]`)
 - Genesis echo: „Echo der ursprünglichen Resonanz-Kaskade“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L195] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 Cache-Konflikt-Zone“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L832]
+- Sub-location: „erste polyphone Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L832]
+- Note: „Lex-hypotaktisch + Nyx-stakkato“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L832]
+- Style: „Erste Stilbruch-Spuren in Kap 6“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L927]

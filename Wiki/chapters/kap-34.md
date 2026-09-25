@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -38,3 +38,13 @@ Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-pr
 - Storyform: „A‖B in maximaler Vor-Vortex-Spannung“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1049]
 - Characters: „Mnemosyne (am Setting)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1061]
 - Tonale Achse: „auch AEGIS leidet, ohne es zu wissen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1065]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L797]
+
+- World: „KW4 Mosaik-Herz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L860]
+- Sub-location: „Vor Vortex; Form-Motiv“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L860]
+- Note: „Kael akzeptiert Juna als Teil seiner selbst“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L860]
+- Place: „Ort, an dem Kael Juna als Teil seiner selbst akzeptiert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L463] (Mosaik-Herz, marked `[K]`)
+- Transition: „AEGIS treibt Kael ins K₁-Substrat; Kael hat keine Wahl, KW2 nicht zu betreten“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L725]

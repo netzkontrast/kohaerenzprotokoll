@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,3 +50,12 @@ Position: „Akt I — Heldinnenreise innen (Kap 1–13)“ ^[kapitel-kompendium
 - Story: „die K-J-Verbindung wird stärker; erstes Wieder-Erkennen der Resonanz, ohne zu wissen, was es ist“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`) · „Moonshine als Verlernen der Trennung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196]
 - Genesis echo: „Junas Resonanz — jetzt nicht Angriff, sondern Sehnsucht“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
 - Characters (Juna rule): „nie Subjekt, nur Wirkung“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L196] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L72]
+
+- World: „KW1 (Telefon-Stille-Lokus)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
+- Sub-location: „erste explizite Resonanz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
+- Note: „K-J-Telefon-Stille-Anker etabliert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
+- Transition: „Aktiviert ab Kap 7 (erste explizite Resonanz-Manifestation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L714] (Modus C, marked `[K]`)

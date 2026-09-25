@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Genesis flashback: „Zweiter Genesis-Flashback (Bridge): Trennungsprotokoll.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L741] · „Er fühlt den Schmerz, ohne den Kontext zu haben.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L741]
 - Storyform: „RS-S2 (B) Conceiving — AEGIS reformuliert Kael als unkontrollierbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L737]
 - Sensorik: „Membran-Wahrnehmung, Vibrieren, eine Grenze die nicht aus Material ist“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L749]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „KW2 Wald des Flüsterns“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L847]
+- Note: „Stimmen vergangener Versionen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L847]
+- Place: „semipermeable Erinnerungslandschaft; Stimmen vergangener Versionen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L248] (Wald des Flüsterns, marked `[K]`)

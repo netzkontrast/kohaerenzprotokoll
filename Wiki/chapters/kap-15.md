@@ -1,8 +1,8 @@
 ---
 chapter: 15
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -45,3 +45,11 @@ Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-g
 
 - Story: „die Stadt als universelle Turingmaschine; Kael versteht das Halteproblem (prinzipielle Unvorhersehbarkeit)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (marked `[K]`)
 - Philosophy / Theory: „Turing, Halteproblem“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L211] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „KW2 (innere Welten)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L841]
+- Sub-location: „Turing-Mechanik“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L841]
+- Note: „Stadt als universelle Turingmaschine“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L841]

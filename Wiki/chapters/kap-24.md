@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -44,3 +44,11 @@ Title: „wiederkehrendes K-J-Thema“ ^[kapitel-kompendium-gather-2026-05-31-md
 Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L204] (marked `[K]`)
 
 - Story: „Moonshine als Werkzeug, KW2/KW3-Kreativität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L217] (marked `[S]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
+
+- World: „KW3 Gänge der Paranoia“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L850]
+- Sub-location: „AEGIS stört zyklisch Telefon-Stille“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L850]
+- Place: „enge, schlecht beleuchtete, sich verändernde Korridore; Überwachungs-Dichte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L373] (Gänge der Paranoia, marked `[S]`)

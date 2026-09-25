@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Heldenreise außen Phase A | Ten beginnt | 27–34“ ^[koharenz-pr
 - Storyform: „OS-S3 (B) Progress — AEGIS spürt Kaels neue Linearität; Architektur degradiert sichtbar“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L885]
 - Characters: „Wir-Geflecht (alle Alters in funktionaler Multiplizität), AEGIS (countdown-bewusst)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L893]
 - Sensorik: „Autoren-Feder, klare Linien“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L897]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
+
+- World: „KW3 → KW4 Schwelle“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]
+- Sub-location: „Ordinary World / Dasein-Strang Erntung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]
+- Note: „klare Absicht“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]

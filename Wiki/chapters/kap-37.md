@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,3 +48,13 @@ Position: „Trügerischer Sieg | 37 | Reward-Beat“ ^[kapitel-kompendium-gathe
 - Storyform: „nur A scheinbar, mit feinen B-Echos als Rauschen-Vorzeichen“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L236] (marked `[K]`)
 - Lock: „Hard-Constraint: keine Resolution-Glättung in Kap 37.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L236] (marked `[K]`)
 - Transition: „36/37 = Storyform-Konsolidierung (nur noch A aktiv; Resolution)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L88]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Reward / Pastorale“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L799]
+
+- World: „KW4 (trügerische Pastorale)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L863]
+- Note: „Reward-Beat; kristallisierte Ruhe“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L863]
+- Transition: „Übergang als Reward-Beat; Welt-Wechsel ohne Bewegung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L726]
+- Act: „der trügerischen Pastorale Kap 37, die anders verortet ist“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L408]
+- Transition: „Substrat-Bruch Kap 38“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L799]

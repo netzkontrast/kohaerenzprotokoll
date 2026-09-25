@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,16 @@ Position: „Vortex 2 (ontologisch) | Ten → Ketsu | 38–39“ ^[koharenz-prot
 - Beat 3: „Beat 3 — Junas erste direkte Erscheinung: sie ist einfach da, ohne Worte, ohne Anweisung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1174]
 - Beat 4–5: „Plurale Bewahrung als Lösung.“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1175] · „das Wir entscheidet, ins Ouroboros zu gehen“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1176]
 - Genesis echo: „die Resonanz aus Kap 0 ist hier in geheilter Form“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1184]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Vortex 2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L800]
+
+- World: „Externe Ebene + KW4 simultan“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L864]
+- Sub-location: „Junas Ankerpunkt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L864]
+- Note: „Vortex 2 Beat 1; Substrat-Berührung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L864]
+- Place: „spezifischer Ort/Zustand in Köln, an dem Junas Verbindung manifest wird; Lock-Detail offen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L664] (Junas Ankerpunkt, marked `[K]`/`[L]`)
+- Juna: „Direkt erst ab Vortex 1 Beat 4 und in Kap 38 (Juna erscheint).“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630]
+- Transition: „Juna erscheint direkt; die Externe Ebene wird betretbar“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L727]
+- Lock: „Lock vor Kap-38-Drafting.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L939] (marked `[L]`)
+- Reader: „Wenn Kael in Kap 38 Juna direkt erreicht, erreicht er die Position des Lesers“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L963]

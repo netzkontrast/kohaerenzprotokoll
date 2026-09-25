@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,3 +46,11 @@ Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-g
 - Theme: „das „Harte Problem"; PSM-Territorium (Metzinger)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (marked `[K]`)
 - Genesis echo: „Beginn Genesis-Flashback-Cluster.“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L214] (marked `[K]`)
 - Cluster: „Kap 18–22 — Genesis-Flashback-Cluster“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215] (marked `[K]`) · „Einheit → Trennungsprotokoll → Kael = Komp 734“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L215]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „Kap 18 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]
+- Sub-location: „Qualia-Informationsparadox“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]
+- Note: „Hartes Problem“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]

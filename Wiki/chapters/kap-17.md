@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -45,3 +45,11 @@ Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-g
 
 - Story: „Kael sieht die „Drähte" der Simulation (Rendering-Ebene vs. Prozess-Kern)“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213] (marked `[K]`)
 - Philosophy: „Kant, transzendentaler Idealismus“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L213] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „Kap 17 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]
+- Sub-location: „Phaenomena vs. Noumena“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]
+- Note: „Kael sieht die“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843] · „Drähte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]

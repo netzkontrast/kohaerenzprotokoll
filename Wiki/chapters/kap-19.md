@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 2
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+sources: 3
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -37,3 +37,11 @@ Position: „Zyklischer Modus | Shō | 14–26“ ^[koharenz-protokoll-strukturi
 - Storyform: „OS-S2 (B) Learning — AEGIS' Erasure-Logik tritt offen auf; Action-Driver greift härter“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L689]
 - Bridge: „Bridge (AEGIS-POV-Mikroszene)“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L685]
 - Sensorik: „KI-Ethik-Kalkül, kalte Stimme, Logik die wie Schnitt funktioniert“ ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L701]
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „Kap 19 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]
+- Sub-location: „AEGIS-Eskalation“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]
+- Note: „Landauer-Strang spike“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]

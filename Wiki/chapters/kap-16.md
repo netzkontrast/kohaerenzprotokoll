@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -44,3 +44,11 @@ Position: „Akt II — Zyklischer Modus (Kap 14–26)“ ^[kapitel-kompendium-g
 
 - Story: „physikalische Grenzen der Rechenkapazität (P vs. NP); AEGIS opfert Realitäts-Detail für globale Stabilität“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (marked `[K]`)
 - Theory: „Komplexitätstheorie / „Diktatur der physikalischen Zeit"“ ^[kapitel-kompendium-gather-2026-05-31-md.md:L212] (marked `[K]`)
+
+## Reading — `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, 2026-06-10
+
+Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+- World: „Kap 16 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
+- Sub-location: „Diktatur der physikalischen Zeit (P vs. NP)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
+- Note: „Auflösungsverlust“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
