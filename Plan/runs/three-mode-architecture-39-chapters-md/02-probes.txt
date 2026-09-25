@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      99
+  backslash escapes      164
+  typographic marks      185
+  ascii quotes           48
+
+# inflection families -- one term, several surfaces
+  erzäh    Erzähler, Erzählerischer, Erzählhaltung, Erzählhaltungs, Erzählmodus, Erzähltonalität
+  wiede    Wiederbegegnung, Wiedergeburt, Wiederholung, Wiederholungen, Wiederkehrendes, Wiederverbindung
+  story    Storyform, Storyforms, Storypoint, Storypoints, Storyweaving
+  syste    System, Systemkampf, Systemlüge, Systemverwerfungen, Systemänderung
+  entsc    Entscheidung, Entschlossenheit, Entschluss, Entschlussfassung
+  erinn    Erinnerung, Erinnerungs, Erinnerungslosigkeit
+  multi    Multi, Multiplizität, Multiplizitäts
+  phase    Phase, Phasen, Phasenübergang
+  sicht    Sicht, Sichtbarmachens, Sichtweise
+  simul    Simulation, Simulationsgrenze, Simulationsgrenzen
+  stimm    Stimme, Stimmen, Stimmverschiebungen
+  tonal    Tonalität, Tonalitäten, Tonalitäts
+  wahrh    Wahrheit, Wahrheiten, Wahrheits
+  algor    Algorithmische, Algorithmischer
+  alter    Alter, Alters
+  antei    Anteil, Anteilen
+  auffl    Aufflackern, Aufflammen
+  auflö    Auflösung, Auflösungs
+  bedeu    Bedeutung, Bedeutungs
+  beoba    Beobachter, Beobachtung
+  bridg    Bridge, Bridges
+  dialo    Dialog, Dialoge
+  dokum    Dokument, Dokuments
+  ebene    Ebene, Ebenen
+  einbr    Einbruch, Einbrüche
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Falle
+  Alle < Fallen
+  Anti < Quantitäts
+  Atem < Atemraum
+  Beat < Beats
+  Code < Stilcode
+  Code < Stilcodes
+  Eine < Keine
+  Ende < Pendel
+  Ende < Wendepunkt
+  Ende < Wiederkehrendes
+  Exit < Komplexität
+  Form < Reinform
+  Form < Storyform
+  Form < Storyforms
+  Herz < Herzens
+  Herz < Herzschlag
+  Jede < Jeder
+  Juna < Junas
+  Kael < Kaels

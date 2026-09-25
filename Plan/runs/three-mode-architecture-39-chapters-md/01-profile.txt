@@ -1,0 +1,14 @@
+# three-mode-architecture-39-chapters-md
+  lines                647  (frontmatter ends at 9)
+  body words           5353
+  headings             40   bold-only lines 5
+  table rows           91   code fences 0
+  question marks       10
+  backslash escapes    164
+  typographic marks    185   ascii quotes 48
+  invisible characters none
+  math symbol lines    26
+  glued ref numbers    99
+  repeated labels      Encoding-Disziplin x3, Mechanik x3, Reader-Wirkung x3, Was wechselt x3
+  longest line         451 chars
+
