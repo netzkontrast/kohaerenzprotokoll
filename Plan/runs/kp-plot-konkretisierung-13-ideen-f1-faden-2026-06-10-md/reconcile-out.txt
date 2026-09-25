@@ -8,8 +8,7 @@
 
 ## already_there (0) — already recorded from this document — nothing to do
 
-## new_reading (27) — page exists, this document is not on it yet — a reading
-  A:RS                                 ars
+## new_reading (26) — page exists, this document is not on it yet — a reading
   Kael                                 kael
   Risse                                risse
   AEGIS                                aegis
@@ -37,7 +36,7 @@
   LogOS                                logos
   DKT                                  dkt
 
-## new_term (282) — no page, no near match — a new page
+## new_term (283) — no page, no near match — a new page
   Plot-Konkretisierung                 
   F1                                   
   Handlungs-Generatoren                
@@ -58,6 +57,7 @@
   MC                                   
   IC                                   
   RS                                   
+  A:RS                                 
   A:IC                                 
   A:MC-Problem→Solution                
   Sequenz-Prüfen                       

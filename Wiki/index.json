@@ -70,7 +70,7 @@
       ],
       "sources": 15,
       "readings": 16,
-      "conflict": "C1, C8"
+      "conflict": "C1, C8, C14"
     },
     "alex": {
       "title": "Alex",
@@ -641,7 +641,7 @@
       ],
       "sources": 8,
       "readings": 8,
-      "conflict": "none"
+      "conflict": "C15"
     },
     "juna": {
       "title": "Juna",
@@ -830,7 +830,7 @@
       ],
       "sources": 8,
       "readings": 8,
-      "conflict": "none"
+      "conflict": "C15"
     },
     "kohaerenz-kernel": {
       "title": "Kohärenz-Kernel (K₁)",
@@ -976,7 +976,7 @@
       ],
       "sources": 8,
       "readings": 8,
-      "conflict": "none"
+      "conflict": "C15"
     },
     "logos": {
       "title": "LogOS",
@@ -1425,7 +1425,7 @@
       ],
       "sources": 14,
       "readings": 14,
-      "conflict": "none yet"
+      "conflict": "C11, C15"
     },
     "rsa": {
       "title": "RSA — Rekursive semantische Autogenese",
