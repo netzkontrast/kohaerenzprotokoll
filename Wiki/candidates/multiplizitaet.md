@@ -1,11 +1,11 @@
 ---
 term: Multiplizität
 status: candidate
-sources: 9
-readings: 9
+sources: 10
+readings: 10
 conflict: none yet
 aliases: ["funktionale Multiplizität"]
-ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["entropie-aegis", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -99,3 +99,15 @@ operativer Zustand." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.m
 held in Kap 37: „Funktionale Multiplizität gefestigt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1140]. Before it, a
 discipline of the prose: „Die Multiplizitäts-Schleier-Disziplin hält." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L497]
 (J28 — named after multiplicity, not it).
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+„Funktionale Multiplizität, niemals Verschmelzung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1186] — the reset lock
+`Kein Final Fusion`. Practised in KW4: „Hier wird Funktionale Multiplizität eingeübt." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227]
+Named in Kap 25–26: „Multiplizität als gegebene Tatsache" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L588]. Reached in
+Kap 33: „FM-Achievement: funktionale Multiplizität als Zustand" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L590].
+
+**The veil over it has two dates in one document.** „Akt I (Kap 1–13). Multiplizitäts-Schleier hält bis Kap 13." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L50],
+and R-3 holds it „bis Kap 13" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1059]; a hard constraint reads „Keine Abkürzung des Multiplizitäts-Schleiers vor" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1225]
+~Kap 10, and Kael is blind to „Multiplizität, AEGIS, Junas Identität (alles bis" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L573]
+~Kap 10/13. The veil is named after multiplicity, not it (J28).
