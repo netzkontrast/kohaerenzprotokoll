@@ -81,8 +81,8 @@ that „not in the manifest" never has to mean „nobody knows".
 2026: 231 `plot-outline` rows, deferred with the novel, 10 `md` in `storyform`
 and `kernkonzept`, and one `mp3`. Every category the wiki needs is complete, and
 so, since 2026-09-24, is the canon era: all 33 <!--state:sources.canon_era--> rows
-dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, seventeen of them
-read (documents 7 to 23).
+dated May 2026 or later, 33 <!--state:sources.canon_era_landed--> landed, eighteen of them
+read (documents 7 to 24).
 
 **Those files are 371 <!--state:sources.distinct--> distinct documents, and
 that took work.** Drive holds up to five exports of the same document — a gdoc
@@ -112,11 +112,11 @@ A count over files is now a count over documents — AEGIS is in 269 of the 346 
 but the distinction was real while it lasted and the script that measures it
 stays.
 
-**23 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **23
-<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **23
+**24 <!--state:documents.with_census--> have a term census** in `Sources/terms/`, **24
+<!--state:documents.with_note--> have a note** in `Sources/notes/`, and **24
 <!--state:documents.reconciled--> are reconciled**. Three are `theorie-physik`,
 four `worldbuilding`, one `aegis`, two `storyform`, three `charaktere`, three
-`kernkonzept`, six `plot-outline` and one `theorie-psychologie` — the last seventeen
+`kernkonzept`, seven `plot-outline` and one `theorie-psychologie` — the last eighteen
 from the canon era.
 
 `Wiki/candidates/` holds **106 <!--state:wiki.pages--> pages**, `Wiki/conflicts/`
@@ -128,7 +128,7 @@ has been promoted.
 
 **Beside the terms, the chapters (decision 013).** `Wiki/chapters/` holds
 **41 <!--state:wiki.chapters--> chapter pages**, Kap 0 to Kap 40, with
-**331 <!--state:chapters.readings--> readings** from the eight read documents
+**370 <!--state:chapters.readings--> readings** from the nine read documents
 that go chapter by chapter, one that names six chapters, one that names three, the draft text of two, and an annotated draft of Kap 0 that names five; `Wiki/overview/` lays the chapters and the plot's
 shape side by side. See *Chapters and the plot*, below.
 
@@ -157,6 +157,7 @@ shape side by side. See *Chapters and the plot*, below.
 | `kap0-kap40-doppelklammer-abhandlung-2026-05-08-md` | 1 | 14 | 0 |
 | `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md` | 0 | 17 | 0 |
 | `kap0-v1-annotiert-md` | 0 | 29 | 0 |
+| `three-mode-architecture-39-chapters-md` | 0 | 29 | 0 |
 
 The fifth added no pages on purpose. It is a brief — 163 hedging words in 13,947,
 and 32 of its 91 question marks in the field closest to assertion — so sixteen
@@ -361,6 +362,19 @@ documents; of the six pages that quoted it, one sentence was false — this draf
 after the first Kap 40, not before. Its five zeros were all the export's escaping, none
 the nominative defect: briefing v12's step held.
 
+**The twenty-fourth is the 39-chapter spec, and it is very likely the spec another plan
+extends.** „Drei-Modi-Architektur", a workflow spec of 2026-05-08 by the manifest: three
+narrative modes of thirteen chapters — heroine's journey, cycles, hero's journey — laid
+across the dual storyform, one Vortex in Kap 35–36, a resolution in Kap 37–39, and a table
+row for every chapter. The Konzept-Iteration Genesis names „Das Spec-Dokument vom
+2026-05-08 (drei Modi, 39 Kapitel)" as what it extends with Kap 0 and Kap 40, and this
+document's Kap-6 and Kap-36 cells stand in it word for word. It has no Kap 0 and no Kap
+40, and it made `plot.md` wrong once more: the master report is not the only plan with one
+Vortex. It puts Landauer warmth in Kap 6 and Kap 36 (C11), tells the Genesis as the
+character bible's three steps in flashbacks in Kap 18–22 (C12), and names the Guardians
+once, as sub-antagonists (Q1). **No pages, readings on 29 and on every chapter from 1 to
+39**, built from its table rows, which `chapters.py missing` cannot see.
+
 `Plan/runs/judgements.jsonl` holds **96 <!--state:judgements.total--> judgements**
 about near matches, **8 <!--state:judgements.mechanised-->** mechanised and
 replaying green, **0 <!--state:judgements.disagree-->** disagreeing.
@@ -499,8 +513,8 @@ A lookup matches only what the census listed, so `reconcile.py` also searches
 the document for every surface of every page, standing alone. Each page the text
 names without a matching candidate is decided: a reading, which goes on the
 page, or an occurrence, such as a title, a reference or another sense. The call
-is recorded in `Plan/runs/sweep.jsonl`: 37 <!--state:sweep.decided--> so far,
-20 <!--state:sweep.readings--> of them readings the lookup had missed, and
+is recorded in `Plan/runs/sweep.jsonl`: 40 <!--state:sweep.decided--> so far,
+21 <!--state:sweep.readings--> of them readings the lookup had missed, and
 0 <!--state:sweep.open--> undecided (`reconcile.py --sweep-open`). The sweep
 asks the index, never the pages, so its cost is code's.
 
@@ -588,7 +602,7 @@ quotations wrap. The check went 17 → 19 and named both. After the fix the pass
 was redone from a clean tree and the count was unchanged — which is the proof,
 and the only kind worth having.
 
-The 267 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
+The 300 <!--state:wiki.unmarked--> mentions still unmarked are ones where every
 mention sits inside a quotation, a citation line or a heading — places the pass
 may not touch, so they are a measurement and not a backlog: `link.py` proposes
 none. **A page links a term once.** Until 2026-09-25 every run of `link.py`
@@ -631,19 +645,21 @@ where it names chapters, with its readings on those pages.
 every read source but one ended at Kap 39; seven of the eight count a Kap 40.
 The konzept master report, read after, counts 39 chapters with no frame and one
 Vortex — two of `plot.md`'s claims about every 2026 plan, corrected there.
+The 39-chapter spec, read after that, is a second plan with 39 chapters and one Vortex,
+so `plot.md`'s „every plan but one" became „every plan but two".
 
 ### The knowledge graph, and retrieval over it
 
 The wiki is also a typed knowledge graph, derived and never stored:
 `scripts/graph.py` reads frontmatter, `[[links]]` and `^[slug.md:Lnn]`
 citations and builds **156 <!--state:graph.nodes--> nodes** (terms, documents,
-conflicts, questions) and **2297 <!--state:graph.edges--> edges** (`links`,
+conflicts, questions) and **2358 <!--state:graph.edges--> edges** (`links`,
 `reads`, `cites`, `contests`, `raised_by`, `asks`, `concerns`). **Every edge
 carries the file line that states it**, and none is inferred — the same rule as
 the links, for the same reason.
 
-Its evidence is every quotation on a term page: 3438 <!--state:graph.evidence-->
-of them, **3438 <!--state:graph.evidence_verified--> verified** against their
+Its evidence is every quotation on a term page: 3532 <!--state:graph.evidence-->
+of them, **3532 <!--state:graph.evidence_verified--> verified** against their
 line by `quotes.verdict` — the checker's own code, since `quotes.pairs` and
 `quotes.verdict` became the one implementation both use. Building the graph
 first with a pairing of its own found 14 unresolved where the checker found 4;
@@ -683,7 +699,7 @@ rank in its top eight, and neither is in its record's `pages`. That is the label
 lagging the graph. It is not retrieval getting worse.
 Document 21 moved it back to 0.659, and again only C11 moved, from 0.4 to 0.6:
 its reading went onto `hitze-polaritaetsregel`, which is in C11's `pages`.
-Document 23, the annotated Kap 0, left it at 0.659: its 29 readings moved no case.
+Documents 23 and 24 left it at 0.659: their 29 readings each moved no case.
 `bench --record` appends both to `Plan/runs/baselines.jsonl`.
 
 **Beside the graph, never in it: the proposal layer.** `graph.proposals()`

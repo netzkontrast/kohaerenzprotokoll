@@ -156,7 +156,7 @@ before this list.
   Vortex 2 (L907). So on 2026-05-08 two plans stand side by side, 39 and 41. The
   Konzept-Iteration Genesis names „Das Spec-Dokument vom 2026-05-08 (drei Modi, 39
   Kapitel)“ as the one to extend (its L818); `three-mode-architecture-39-chapters-md`,
-  landed and unread, may be it. `Wiki/overview/plot.md` has the positions. What is still
+  read as document 24, very likely is: 39 chapters, one Vortex, no frame. `Wiki/overview/plot.md` has the positions. What is still
   open is the coda's content, not its existence: the Plot-Konkretisierung's single
   click „ohne Ozon" is `[V]`. The „Kap0-Kap40-Doppelklammer" and the „Kap40 und
   Kap0 Fassung" (both 2026-05-08), unread when this was written, are documents 21
@@ -511,7 +511,7 @@ the author wants them (*Questions for the author*).
 
 ## Handover — the next session starts here
 
-**Ten documents have a triage scan, and two of them are now read** (`Plan/runs/haiku-scan-2026-09-25/`,
+**Ten documents have a triage scan, and three of them are now read** (`Plan/runs/haiku-scan-2026-09-25/`,
 chosen by qmd searches over the open records). A scan is not a reading. Its
 verdict column says nothing either, since nine of ten said READ NEXT. Each scan
 does name the records its document speaks to, with lines. The pages
@@ -565,7 +565,7 @@ In order, and none of it needs a model:
    `Plan/runs/record-audit-2026-09-24/README.md`.
 8. **Every reconciliation ends with `reconcile.py --sweep-open` printing
    nothing** (decision 012, rule 2). Every read document is settled:
-   37 <!--state:sweep.decided--> hits, 20 <!--state:sweep.readings--> of them
+   40 <!--state:sweep.decided--> hits, 21 <!--state:sweep.readings--> of them
    readings, in `Plan/runs/sweep.jsonl`.
 
 Two things the build found, fixed in place:
@@ -641,7 +641,7 @@ model:
   convention first: `ingest` and `tools` name `Wiki/contradictions/` and
   `Wiki/terms/`, which do not exist, on purpose.
 - **Gold is decided by rule, and the rule rests on one untested assumption.**
-  `scripts/gold.py` (decision 009) rules 19 <!--state:trainset.gold_candidate_lists-->
+  `scripts/gold.py` (decision 009) rules 20 <!--state:trainset.gold_candidate_lists-->
   candidate lists gold. On 2026-09-24, eight of them were written by the session
   that read the document, and none of those eight has a second reading of the
   same kind — document 14's three second readers were models asked for 50 to 200
@@ -780,7 +780,20 @@ is a guardian named for its domain. Below 0.8 the list is noisy, with
 `Signposts`/`Transits` 0.63. No pair has entered `judgements.jsonl`. Reviewing the
 high tier into it is the next step, and it is a person's.
 
-## Next document — the annotated Kap 0 reconciled
+## Next document — the 39-chapter spec reconciled
+
+**The twenty-fourth document is done: `three-mode-architecture-39-chapters-md`, 2026-09-25.** 338 candidates, **no page**, readings on 29 pages and on every chapter from Kap 1 to Kap 39, four conflicts and three questions moved (C7, C11, C12, C14, Q1, Q3, Q4), no new judgement, three sweep hits (one reading). `Wiki/compare/reconcile-25-three-mode-architecture-39-chapters-md.md` has the record. Chosen because the annotated Kap 0's handover named it.
+
+- **Very likely the spec the Konzept-Iteration Genesis extends.** A spec of three modes and 39 chapters, 2026-05-08 by the manifest, whose Kap-6 and Kap-36 cells stand in that document word for word. It names no date of its own, so this is the reconciliation's identification, not the document's.
+- **39 chapters, one Vortex, no Kap 0, no Kap 40.** `plot.md` said only the master report had one Vortex; corrected to two plans.
+- **Its storyform boundary stands twice**: 34/35 as the turn (L83), 36/37 in the closing notes (L634).
+- **C11**: warmth in Kap 6 and Kap 36 Beat 4, in nearly the konsolidiertes Konzept's words. **C12**: „Einheit → Trennungsprotokoll → Kael=Komp 734" as flashbacks in Kap 18–22. **C14**: AEGIS-POV scenes from Kap 14, the person unsaid. **Q1**: Guardians as sub-antagonists in Kap 32. **Q4**: an unnamed Wächterin in Kap 8 and 17.
+- **Chapter readings from table rows.** The rows are numbered without `Kap`, so `chapters.py missing` cannot see them; all 39 were read from the tables.
+- **The five scan readings of it stand** (`vortex`, `kishotenketsu`, `goedel-gambit`, `residual-echos`, `komponente-734`).
+
+Next, by the open records: the `Ursprungs-Ich` question above, for the reading that defines it; and the seven unread scanned documents, of which `kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md` (canon era) and `worldbuilding-konzept-kohaerenzprotokoll-md` (the one-Vortex plan) speak to open records. `chapters.py missing` still lists 91 <!--state:chapters.missing--> single-`Kap` mentions.
+
+### Previous document — the annotated Kap 0 reconciled
 
 **The twenty-third document is done: `kap0-v1-annotiert-md`, 2026-09-25.** 353 candidates, **no page**, readings on 29 pages, six conflicts and two questions moved (C3, C7, C10, C11, C12, C14, Q3, Q5), J96, one sweep hit (a reading). `Wiki/compare/reconcile-24-kap0-v1-annotiert-md.md` has the record. Chosen because the draft of Kap 40 and Kap 0's handover named it.
 
@@ -1108,7 +1121,7 @@ later, none failing. 26 were `md`, which `fetch` skipped before: the two new fla
 are opt-in, and `md` takes the same text route that landed the four `md` rows on
 2026-09-16. `dedupe.py --apply` then folded four copies — three `-2` exports two
 bytes apart, and `25-wegkreuzung-md`, the chapter-25 text of `kp-kap25-2026-09-14-md`
-in another escaping — so 37 canon-era rows became 33, all landed. **Seventeen are read**, documents 7 to 23; the first eight were
+in another escaping — so 37 canon-era rows became 33, all landed. **Eighteen are read**, documents 7 to 24; the first eight were
 `kohaerenz-protokoll-storyform-und-outline-2026-06-10-md`, `kohaerenz-protokoll-charakter-bibel-2026-05-08-md`,
 `koharenz-protokoll-konzept-konsolidiert-2026-05-08-md`, `kapitel-kompendium-gather-2026-05-31-md`, `kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md`, `dramatica-dual-storyform-status-2026-05-07-md`,
 `kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md` and `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, as documents 7 to 14 — see *Next document* for the rest.
