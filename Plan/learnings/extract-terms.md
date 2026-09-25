@@ -643,3 +643,29 @@ should say it. And `capture.candidate_terms` drops a candidate holding `, ` or
 `. ` as prose: 2–11 per blind list (`Falsehood vs. Truth`, `Show, don't
 tell`). The rule is right for the prose bullets it was built for, and every
 list here passes through it alike.
+
+## Document 16 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-09-25
+
+A drafting manual of 1503 lines, read in one pass by the session; 542 candidates.
+
+- **The count's zeros caught names from outside the document.** Six candidates
+  counted `0 word 0 in`. Three were the document's words written differently —
+  case (`gravitationale Risse`) and export escaping (`CH-01\_…`). Three were names
+  the document never writes: `Storyform A`, `Storyform B` and `Moonshine-Link`.
+  It writes `A‖B`, `MC (A: Kael / B: AEGIS)` and „den Link". The reader had
+  supplied them from earlier reading, which is exactly the contamination the
+  briefing warns about, and nothing but the count would have shown it. They
+  were removed and the removal is noted in the candidate list.
+- **Observation lines written as `- ` were counted as candidates.** An „observed
+  while reading" section with `- L42 …` bullets put five sentences into the count
+  until they were rewritten as `* `. `capture.py` filters prose only when it
+  holds `, ` or `. `. A bullet that happens to hold neither is a candidate.
+- **A lock index is the document's statement about other documents.** §12
+  restates, per lock, what another file set and on what date. Each restatement
+  was recorded as this document's claim, never as the other file's text. That
+  is a stance the briefing did not name.
+- **The document contradicts itself on a subject the wiki already contests.** Its
+  cold-ozone lock files the Landauer-Signatur as cold (L346). Its first
+  foreshadowing strand, named `Landauer`, is themed as heat (L445). A reading
+  that meets an open conflict inside one source records both lines and the
+  tension, not a side (C11, J81).
