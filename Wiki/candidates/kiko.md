@@ -1,10 +1,10 @@
 ---
 term: Kiko
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -49,3 +49,9 @@ In the glossary's Alter table: role „Freeze" ^[kohaerenz-protokoll-begriffe-un
 ## Reading — `koharenz-protokoll-strukturierter-outline-2026-05-18-md`, 2026-05-18
 
 Function „Erstarrung, klein-werden, kindliche Angst" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L144], correlate „Planck-Skala" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L144], arc „Misstrauen → systemisches Vertrauen" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L144]. Kap 29: „Kiko ist deutlich sichtbar — die kindliche Angst kommt zurück." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L937]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+As a riss trigger, Freeze: temporal — „Dehnung, Wiederholung, Stillstand, Echo, Déjà-vu" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L405]; and Flight, with [[lia|Lia]]: spatial — „Raumbruch, plötzlicher Ortwechsel, Fluchtlinien, Geometrie warpt" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L406].
+In KW2: „Temporale Risse (Kiko-Trigger), spatiale Risse (Lia/Isabelle-Trigger)." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L148]
+„Kiko ist nicht niedlich, Lia ist nicht launisch, Isabelle wird nicht gerettet, Moros ist nicht depressiv." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1235]
