@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 9
+sources: 10
 pages: ["trennungsprotokoll"]
 ---
 
@@ -126,3 +126,20 @@ It explicitly calls this chapter allocation a proposal ^[koharenz-protokoll-konz
 A later memory need not reproduce event order. This source therefore supports
 734-before-separation in the event sequence; it does not decide which of the
 other sources' alternative sequences the author chooses.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Four beats restated, without Komponente 734 as a beat.** The lock index restates,
+citing the konsolidiertes Konzept, a „Genesis-4-Beat" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174]:
+„Einheit → Cluster → Trennungsprotokoll → Wir-AEGIS-plural" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1174]; and citing the
+Kompendium, „vier Beats (mit Wir-AEGIS-plural als Beat 4)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1212]. Neither restatement
+places 734. The Kap-0 crisis ends in the separation —
+„Stille Wacht → Perturbation → Algorithmischer Schrecken → Resonanzkaskade → Systemischer Kollaps → Trennungsprotokoll" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L627] —
+and 734 appears only as what Kael is: in Kap 0 „n/a (existiert als Komp 734)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L581].
+
+It adds a conflict of its own inside the Genesis: whether Alex arose in the separation
+(the `Charakter-Bibel`, L1460) or before it — „Alex-Vorform wird in Bewegung 4 vor dem Trennungsprotokoll choreografiert." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1461] —
+„Konzept-Konflikt offen — beim nächsten Kap-0-Pass zu entscheiden" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1462]. It proposes
+„Funktion vor Person: Stimmen-Vorformen sind Proto-Cluster, nicht voll konstituierte Anteile." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1464]
+Recorded here because it is a question of order in the Genesis; it is not the 734
+question.
