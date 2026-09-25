@@ -3,7 +3,7 @@ id: Q2
 question: Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?
 status: open
 raised_by: ["ani", "ars", "ecr", "nullpunkt-protokoll", "pms", "rsa", "snk"]
-documents: ["aegis-emergenz-aus-der-leere"]
+documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-17"
 ---
 
@@ -42,3 +42,9 @@ only inside a critique.** Nothing in the page schema says how to mark that.
 Any later source using one of the seven as its own vocabulary — asserting with it
 rather than about it. One instance answers it for that term; a category of
 documents read without any instance answers it for the family.
+
+## 2026-09-25 — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+None of the seven occurs. It names the canon's protocols as three — „Suppression / Kohärenz / Re-Containment (frühere zwölf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1184]
+— and lists none of the twelve, so whether the seven were among them it does not
+say. Another document read without an instance.
