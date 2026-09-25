@@ -1,10 +1,10 @@
 ---
 term: Kohärenz
 status: candidate
-sources: 6
-readings: 6
+sources: 7
+readings: 7
 conflict: none yet
-ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "entropie-aegis"]
 gathered: "2026-09-17"
 ---
 
@@ -76,3 +76,12 @@ What AEGIS believes itself to be: „AEGIS *glaubt* K₁ (Kohärenz) zu sein" ^[
 Kap 34, titled „Zwei Arten der Kohärenz" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1047]: „Zwei Arten der Kohärenz prallen
 aufeinander — AEGIS' negativ definierte (verhindernde) und Kaels positiv definierte
 (bezeugende)." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L1057]
+
+## Reading — `entropie-aegis`, 2025-04-17
+
+What [[aegis|AEGIS]]' regulation of entropy is for. Its core function is the
+regulation of the passage from order to disorder, „um die Kohärenz und strukturelle Integrität des Gesamtsystems" ^[entropie-aegis.md:L21]
+… zu wahren. Kohärenz is what AEGIS keeps, entropy what threatens it. Not yet a
+definition — that is the reading above from `kohaerenzprotokoll-aegis-und-systementropie` —
+but the earliest source to set the two against each other. Found by the sweep
+(decision 012).
