@@ -42,7 +42,7 @@ The question is „Wer spricht hier?“ ^[kap0-kap40-doppelklammer-abhandlung-20
 That is why it cannot come from either storyform: „warum die Vermittler-Stimme im Vorwort nicht aus einer der Storyforms kommen kann — sie spricht von vor der Trennung.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L124]
 
 It rejects three alternatives: „Alternative 1: Ein neutraler Autor.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L235], which it
-says breaks the [[doppelklammer|Klammer]]; „Alternative 2: Kael nach der Heilung.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L239], who
+says breaks the [[genesis-klammer|Klammer]]; „Alternative 2: Kael nach der Heilung.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L239], who
 is no longer [[kael|Kael]] alone; and „Alternative 3: Juna.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L243] — for [[juna|Juna]] „ist die Resonanz, die die Trennung auslöste — sie ist Auslöserin, nicht Bezeugerin.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L243]
 
 What follows for the texts: „Für Kap 0: Die Vermittler-Stimme darf nicht eindeutig identifizierbar sein.“ ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L255]
