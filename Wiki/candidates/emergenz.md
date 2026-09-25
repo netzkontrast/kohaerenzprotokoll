@@ -1,10 +1,10 @@
 ---
 term: Emergenz
 status: candidate
-sources: 4
-readings: 4
+sources: 5
+readings: 5
 conflict: C3
-ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md"]
+ingested: ["aegis-emergenz-aus-der-leere", "kohaerenzprotokoll-aegis-und-systementropie", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-16"
 ---
 
@@ -75,3 +75,9 @@ neue Coheronen entstehen können" ^[kohaerenz-protokoll-kernwelten-vollstaendig-
 Kap 20: „Emergenz als Mechanik." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] „Kreatives Wir-Handeln statt reflexhaftes
 Reagieren." ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L717] Its sensory line: „fluide Regeln, Emergenz-Texturen, eine
 Kernwelt die mit-denkt" ^[koharenz-protokoll-strukturierter-outline-2026-05-18-md.md:L725].
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+A different sense from the page's first readings: here emergence is what KW4 alone
+allows. „Einzige Zone, in der" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] „neue Coheronen entstehen können — Emergenz statt
+Erhaltung" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227].
