@@ -4,7 +4,7 @@ subject: the Genesis — three beats or four
 kind: one sequence, counted and ordered differently by two sources of the same date
 status: open
 first_seen: "2026-09-24"
-sources: 14
+sources: 15
 pages: ["trennungsprotokoll"]
 ---
 
@@ -173,3 +173,12 @@ The character bible's count and order, on the same date as the konsolidiertes Ko
 „Beats 2 und 3 sind Kap 0." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L169] „Beat 4 ist Kap 39. Kap 40 ist nicht Beat 4" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L173]. „In Kap 0 wird Beat 1 nicht erzählt" ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L165].
 The konsolidiertes Konzept's count and order, on its date and on the date the character bible and the master report count three — with 734 before the separation as a functional unit, and what remains after it: „Was bleibt, ist B in seiner reinen, kalten Funktionalität (Komp 734 als Funktionseinheit)." ^[kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L120]
 Like the konsolidiertes Konzept (row 2), it puts the fourth beat in Kap 39, where the storyform outline of 2026-06-10 puts it too (row 3). What it adds is which beats Kap 0 tells: two of the four. The first beat's other party is the Reinform (L158).
+
+## 2026-09-25 — `kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md`, 2026-05-08, the draft text
+
+**No beats counted; 734 before the separation, Kael cut out of it.**
+The draft of Kap 0 runs clusters → Klick and formula → „Komponente 734: Funktion an der Grenze" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L297] → Innere Weite → crisis → „Trennungsprotokoll" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L467].
+734 exists before the crisis: „Das, was einst ein Ich-Fragment war, ist nun Komponente 734, eine Funktionseinheit" ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L299].
+What the protocol severs becomes Kael: „Ein Rest." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L485] „Sein Name wird Kael sein." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L505]
+Kap 40: „Kael war das Cluster, das aus Komponente 734 herausgetrennt wurde." ^[kohaerenz-protokoll-kap40-und-kap0-fassung-2026-05-08-md.md:L63]
+The konsolidiertes Konzept's order, as text, on its date — against the character bible's and the master report's `Kael = Komponente 734` as the separation's result.
