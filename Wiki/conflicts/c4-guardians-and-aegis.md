@@ -152,7 +152,7 @@ join [[kern-welten]] had recorded as an inference over two numbers.
 
 **That makes the two documents describe one arrangement, and it does not settle
 whose blind spot it is.** Document 4 still contains zero occurrences of `AEGIS`.
-What document 6 adds is placement — the Wächter are seated in AEGIS' [[ueberwelt|Überwelt]]
+What document 6 adds is placement — the Wächter are seated in [[aegis|AEGIS]]' [[ueberwelt|Überwelt]]
 ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L176] and AEGIS' level holds a
 registry of their parameters
 ^[roman-lokalitaeten-konzept-und-ausarbeitung.md:L233] — asserted as facts about
