@@ -3,7 +3,7 @@ id: Q2
 question: Do the seven protocol terms ever appear as project vocabulary, or do they only ever appear as objects of criticism?
 status: open
 raised_by: ["ani", "ars", "ecr", "nullpunkt-protokoll", "pms", "rsa", "snk"]
-documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+documents: ["aegis-emergenz-aus-der-leere", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-17"
 ---
 
@@ -49,3 +49,8 @@ documents read without any instance answers it for the family.
 „Suppression / Kohärenz / Re-Containment (frühere zwölf sind dekanonisiert)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L1184]. None
 of ANI, ARS, ECR, PMS, RSA, SNK, ZTV or [[nullpunkt-protokoll|Nullpunkt-Protokoll]] is among the three; whether
 any was among the retired twelve it does not say.
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**None of the eight occurs; twelve earlier protocols became three.**
+„Frühere Drafts hatten 12 Protokolle. Aktuell kanonisch 3 — die genaue Spezifikation ist offene Forschungsfrage." ^[kohaerenz-protokoll-konzept-master-md.md:L517] The three are the Suppressionsprotokoll, the Kohärenzprotokoll and the Re-Containment-Protokoll (L521–L523). None of ANI, ARS, ECR, PMS, RSA, SNK, ZTV or the Nullpunkt-Protokoll is named, and the twelve are not listed.
