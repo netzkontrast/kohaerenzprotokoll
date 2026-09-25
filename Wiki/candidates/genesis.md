@@ -102,5 +102,5 @@ Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is it
 Kap 0: „Komponente 734 wird konsolidiert" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164]. The flashbacks, as chapter beats:
 „Genesis-Flashback Cluster-Bildung" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 18, „Genesis-Flashback Trennungsprotokoll" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] in Kap 21,
 and in Kap 22 „Genesis-Flashback Komp 734" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]. Kap 40 is „im Echo des Trennungsprotokolls (Bewegung 4)" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] —
-the document numbers the Trennungsprotokoll the fourth movement and does not list the others (C12).
+a movement numbered in a series the document does not lay out: it uses the same word for its 41 chapter units ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L159] (C12).
 The Genesis motif „Klick" gets a body in Akt I: „das Geräusch des Trennungsprotokolls als Alltagsgeräusch" ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129].
