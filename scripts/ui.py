@@ -689,12 +689,18 @@ def export(checks: bool = True) -> dict:
 
     # graph nodes and edges, laid out
     gnodes, gid = [], {}
+    # A page may cite a document no reconciliation has read (the 2026-09-25 scan's
+    # pages do). The app lists only reconciled documents, so such a node is left
+    # out -- and named, with its edges, so `check` can still account for every
+    # node and edge `state.py` measures instead of the counts quietly parting.
+    unread = []
     for nid, n in g["nodes"].items():
         kind = n["type"]
         if kind == "term":
             ref, label = pidx[n["slug"]], pages[pidx[n["slug"]]]["t"]
         elif kind == "doc":
             if n["slug"] not in read:
+                unread.append(nid)
                 continue
             ref, label = read.index(n["slug"]), f"D{read.index(n['slug']) + 1}"
         elif kind == "conflict":
@@ -744,7 +750,10 @@ def export(checks: bool = True) -> dict:
         "invariants": table_after("## 0 · Invariants"), "commands": table_after("## The commands, as combinations"),
         "phases": phases, "missing": missing,
         "checks": run_invariants(measured) if checks else [], "selftests": run_selftests() if checks else [],
-        "graph": {"nodes": gnodes, "edges": gedges, "types": types, "w": GRAPH_W, "h": GRAPH_H},
+        "graph": {"nodes": gnodes, "edges": gedges, "types": types, "w": GRAPH_W, "h": GRAPH_H,
+                  "unread": {"docs": sorted(n.split(":", 1)[1] for n in unread),
+                             "edges": sum(1 for e in g["edges"]
+                                          if e["source"] in unread or e["target"] in unread)}},
         "catdesc": {r["category"]: r.get("index_section", "") for r in manifest},
         "corpus": {"cats": cats, "tiers": tiers, "fmts": fmts, "sections": sections, "rows": rows, "folded": folded},
     }
@@ -988,12 +997,14 @@ def check_data(data: dict) -> list[str]:
             if bad:
                 problems.append(f"page {p['s']}: {key} points at nothing — {bad}")
     measured = {k: v[0] for k, v in data["state"].items()}
+    unread = data["graph"].get("unread") or {"docs": [], "edges": 0}
     for key, have in (("wiki.pages", n_pages), ("wiki.conflicts", len(data["conflicts"])),
                       ("wiki.questions", len(data["questions"])), ("documents.reconciled", n_docs),
                       ("sources.total", len(data["corpus"]["rows"])),
                       ("sources.landed", sum(r[6] for r in data["corpus"]["rows"])),
-                      ("sources.folded", data["corpus"]["folded"]), ("graph.nodes", len(data["graph"]["nodes"])),
-                      ("graph.edges", len(data["graph"]["edges"]))):
+                      ("sources.folded", data["corpus"]["folded"]),
+                      ("graph.nodes", len(data["graph"]["nodes"]) + len(unread["docs"])),
+                      ("graph.edges", len(data["graph"]["edges"]) + unread["edges"])):
         if measured.get(key) != have:
             problems.append(f"{key}: the app holds {have}, scripts/state.py measures {measured.get(key)}")
     links = sum(len(p["out"]) for p in data["pages"])
