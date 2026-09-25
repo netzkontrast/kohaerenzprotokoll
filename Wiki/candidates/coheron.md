@@ -1,10 +1,10 @@
 ---
 term: Coheron
 status: candidate
-sources: 8
-readings: 8
+sources: 9
+readings: 9
 conflict: none
-ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md"]
+ingested: ["kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
 gathered: "2026-09-24"
 ---
 
@@ -74,3 +74,11 @@ Zerstörung ein Vorher/Nachher voraussetzt." ^[kohaerenz-protokoll-begriffe-und-
 ## Reading — `koharenz-protokoll-konzept-iteration-genesis-md`, 2026-05-08
 
 - named as the domain of Silas, without further definition: „Silas (Coheron-Echo)“ ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L798]
+
+## Reading — `kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md`, 2026-06-10
+
+**Where new ones arise**: KW4 is the „Einzige Zone, in der neue Coheronen entstehen können" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] —
+„Emergenz statt Erhaltung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L227] Warmth is [[juna|Juna]]'s „Junas ununterdrückbare Spur (Coheron-Verdrängung)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L347],
+debuting in Kap 3 as „erste Wärme als Junas Coheron-Spur (Polaritäts-Lock 2026-05-30)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L506].
+The Resonanz motif means „Liebe als Coheron; Korrelat-Achse" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L527]. And [[silas|Silas]]'
+riss: „Silas (Coheron-Echo)" ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L409].
