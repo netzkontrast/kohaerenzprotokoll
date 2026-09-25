@@ -1,10 +1,10 @@
 ---
 term: Kern-Welten
 status: candidate
-sources: 13
-readings: 12
+sources: 14
+readings: 13
 conflict: C6, C9
-ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md"]
+ingested: ["entropie-aegis", "kohaerenzprotokoll-aegis-und-systementropie", "guardians-und-kern-welten-konzept", "aegis-subplots-kapitelweise-system-exploration-docx", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md"]
 aliases: ["Kern-Welt"]
 gathered: "2026-09-16"
 ---
@@ -338,3 +338,11 @@ The strukturierter Outline names KW3 only in its world table (its reading above)
 
 Worlds answer to classes of [[alters|Alters]] (Q3): KW1 is the „Domäne der ANP-Vermeidung." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L46],
 and in KW3 „Hier dominieren die EP-Protektoren und die Erasure-Pol-Logik." ^[kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L171]
+
+## Reading — `kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md`, 2026-06-10
+
+**Where the first trauma layer becomes readable, and rifts by act.** [[kiko|Kiko]], [[lia|Lia]], [[isabelle|Isabelle]] and
+[[moros|Moros]] „sind in Akt I aktiv (als Hintergrund-Druck), werden in KW2/KW3 (Akt II) erst voll lesbar." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L85]
+The world rifts are „Akt-spezifisch, nicht alter-getrieben" ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L886]: KW1 → KW2 thermal, KW2 water, KW3 paranoid,
+KW4 generative (L890–L893). [[selene|Selene]] waits in KW4 (L361); the climax is set in KW2's archipelago:
+„Setting des Klimax: der Mnemosyne-Archipel." ^[kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md.md:L1000] No world is given an Alter or a Guardian (Q3).
