@@ -4,7 +4,7 @@ subject: the Flight riss — Lia with Isabelle, or with Kiko
 kind: one row of the riss table, two pairs of bearers in canon-era sources, two of them of one date and five of another
 status: open
 first_seen: "2026-09-25"
-sources: 7
+sources: 8
 pages: ["risse", "kiko", "lia", "isabelle"]
 ---
 
@@ -56,3 +56,9 @@ Decision 006 (2026-09-24) applies to this record as to C1–C14: no position abo
 is retired by its date or by a source's claim to be canon. It is an **item for
 discussion** with the author, and closes when the author decides it.
 [Wortlaut und Entscheidung 006](../../Plan/decisions/006-every-draft-is-back-in-question.md) (decision 006)
+
+## 2026-09-25 — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+**Lia and Isabelle, marked implicit.** „Flight (implizit Lia/Isabelle)" ^[kohaerenz-protokoll-konzept-master-md.md:L1049], spatial. In its Alter table no one
+carries Flight: „Lia (Ambivalent)" ^[kohaerenz-protokoll-konzept-master-md.md:L395]. The same date as the character bible (Kiko and Lia) and the
+konsolidiertes Konzept (Lia and Isabelle), on the second's side and saying it is implicit.
