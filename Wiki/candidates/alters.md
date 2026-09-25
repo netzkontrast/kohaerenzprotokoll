@@ -1,10 +1,10 @@
 ---
 term: Alters
 status: candidate
-sources: 13
-readings: 12
+sources: 14
+readings: 13
 conflict: none here — known elsewhere
-ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md"]
+ingested: ["entropie-aegis", "roman-lokalitaeten-konzept-und-ausarbeitung", "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md", "kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "koharenz-protokoll-konzept-konsolidiert-2026-05-08-md", "kapitel-kompendium-gather-2026-05-31-md", "dramatica-dual-storyform-status-2026-05-07-md", "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "koharenz-protokoll-konzept-iteration-genesis-md", "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md", "kohaerenz-protokoll-anteile-profile-sprach-dna-2026-06-10-md", "koharenz-protokoll-sprach-dna-2026-05-13-md", "kohaerenz-protokoll-konzept-master-md"]
 gathered: "2026-09-16"
 ---
 
@@ -192,3 +192,10 @@ label, and the document's word for them is `Anteil` (J88):
 „Dissoziation ist Amnesie-Terror, niemals Crew-Menü." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L21] The word `Alter` stays out of Kael's
 Akt I, with `Fragment` and the DKT terms (L69). Together they become the Wir:
 „Das Wir ist Mosaik, nicht Monolith." ^[koharenz-protokoll-sprach-dna-2026-05-13-md.md:L173]
+
+## Reading — `kohaerenz-protokoll-konzept-master-md`, 2026-05-08
+
+„Kaels System (kanonisch — exakt 13 Alters)" ^[kohaerenz-protokoll-konzept-master-md.md:L383] (J84): five ANPs, five EPs, [[argus|Argus]] and two mirrors,
+each with a DKT correlate, a somatics and an arc (L387–L400). „Alle 13 erzählen in der 1. Person." ^[kohaerenz-protokoll-konzept-master-md.md:L404]
+„Decanonisiert (nie verwenden): Index, Nox, Echo, Flicker, Limina, Praetor, Eos, Elara, Aris, Mina, Lyra, Soren, Tariq, Nova, Sentinel." ^[kohaerenz-protokoll-konzept-master-md.md:L408]
+Not symbols: „sie sind diagnostisch konkret und phänomenologisch genau" ^[kohaerenz-protokoll-konzept-master-md.md:L1071]. Kael is „gleichzeitig dreizehn und eins" ^[kohaerenz-protokoll-konzept-master-md.md:L330] (Q3).
