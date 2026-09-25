@@ -1,8 +1,8 @@
 ---
 chapter: 3
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -54,3 +54,15 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „KW1 verlassener Randbezirk“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]
 - Sub-location: „erste Wärme-Spur (Junas Coheron-Debüt)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]
 - Note: „Erstes Juna-Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L829]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L165]
+
+- Plot beats: „Das Gegenregister beginnt (Idee 2): Lex-dominante Doppel-Buchführung, Orte, Zahlen, Differenzen — der Bunker als Notizsystem.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 2: „Der Bunker-Bau (Kap 3) ist damit keine Metapher, sondern ein Notizsystem; die Festung ist aus Einträgen gebaut.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L56]
+- Sensorik: „Das Wärme-Debüt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „geschieht außerhalb des Knotens, auf dem Heimweg im Transitkorridor; der Arbeitsplatz bleibt kalt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Silas: „das Wärme-Debüt bleibt unangetastet bei Kap 3“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80] (marked `[K]`)
+- Characters: „erster Lex-Einbruch“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, ab Kap 2–3]`)

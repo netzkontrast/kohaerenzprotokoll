@@ -1,8 +1,8 @@
 ---
 chapter: 27
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -45,3 +45,13 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - World: „KW3 → KW4 Schwelle“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]
 - Sub-location: „Ordinary World / Dasein-Strang Erntung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]
 - Note: „klare Absicht“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L853]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170]
+
+- Plot beats: „Die Autoren-Feder“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „das Delikt wird Absicht: Kael schreibt seinen ersten Bericht, den niemand angefordert hat (Idee 13).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- AEGIS: „AEGIS spürt die neue Linearität“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Format-Anomalie“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 13: „27 (Autoren-Feder“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L100] (marked `[K]`) · „der Moment, in dem das Delikt Absicht wird“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L100]

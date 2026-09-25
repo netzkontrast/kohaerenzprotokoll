@@ -1,8 +1,8 @@
 ---
 chapter: 10
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -58,3 +58,13 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Sub-location: „Anker 734 + Mnemosynes-Versuchung gespiegelt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836]
 - Note: „Mnemosyne als Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L836]
 - Place: „Wiederkehr Kap 2, Kap 10, Kap 25“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+
+- Plot beats: „Moonshine am Arbeitsplatz: Kael hält einen Datensatz, ohne zu klicken — und an einem Ort der Stadt, den er später kartieren wird, wird es wärmer“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- World: „Werkzeug-Debüt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „eine Wirkung, keine Erklärung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 9: „Ab Kap 10 (Moonshine-Bewusstsein“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84] (marked `[K]`) · „kartiert Kael die Wärmestellen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]

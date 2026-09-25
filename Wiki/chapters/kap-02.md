@@ -1,8 +1,8 @@
 ---
 chapter: 2
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -59,3 +59,13 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Note: „Foreshadowing-Anker 734“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L828]
 - Place: „Kap 1 (Setting), Kap 2 (erster Riss)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L155] (Sektor 04, marked `[K]`)
 - Place: „Wiederkehr Kap 2, Kap 10, Kap 25“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L165]
+
+- Plot beats: „Der Rücklauf — eine in Kap 1 ausgeglichene Abweichung kehrt wieder: derselbe Wert, dieselbe Stelle hinter dem Komma.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Das System nimmt die zweite Markierung kommentarlos. Kael auch.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Characters: „Aber abends findet er den Wert in seinem Entwurfsordner notiert — in einer Syntax, die nicht seine ist“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „erster Lex-Einbruch“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, ab Kap 2–3]`)

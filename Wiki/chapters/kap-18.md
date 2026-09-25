@@ -1,8 +1,8 @@
 ---
 chapter: 18
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -54,3 +54,15 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „Kap 18 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]
 - Sub-location: „Qualia-Informationsparadox“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]
 - Note: „Hartes Problem“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L844]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Plot beats: „Der unbedienbare Datensatz erscheint (§3, Datentyp leer).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Genesis echo: „Separat davon: Genesis-Flashback Cluster-Bildung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Echo-Disziplin: zwei Szenen, nie eine.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Juna trace: „In der Zuweisung erscheint ab Kap 18 wiederkehrend ein Datensatz, der sich weder bestätigen noch ausgleichen lässt: Das Datentyp-Feld ist leer.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206] (marked `[V]`)
+- Juna trace: „Kael beginnt, ihn zu grüßen — die einzige nicht-funktionale Geste des Arbeitsplatzes.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206]
+- Lock conformity: „Kap 18/21/22 trennen Flashback und Faden-Ereignis in separate Szenen.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L240]

@@ -1,8 +1,8 @@
 ---
 chapter: 13
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -60,3 +60,13 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Place: „wo Personae kollabieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] · „Kap 13 (Schleier-Fall)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L361] (Evaluierungseinheit, marked `[K]`)
 - Act: „Multiplizitäts-Schleier hält bis Kap 13.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L91]
 - Transition: „Multiplizitäts-Schleier fällt intern; Kael sieht das System“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L722]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+
+- Plot beats: „Kael dreht die Konsole um drei Grad. Die Welt lässt es zu.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Leitmotiv: „Lebendige Ordnung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Teil-1-Schluss; kleinste mögliche Schöpfung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Lock: „kein Klartext vor 13“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L238] (marked `[K]`)

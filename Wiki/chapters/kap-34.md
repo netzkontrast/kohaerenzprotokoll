@@ -1,8 +1,8 @@
 ---
 chapter: 34
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -48,3 +48,12 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - Note: „Kael akzeptiert Juna als Teil seiner selbst“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L860]
 - Place: „Ort, an dem Kael Juna als Teil seiner selbst akzeptiert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L463] (Mosaik-Herz, marked `[K]`)
 - Transition: „AEGIS treibt Kael ins K₁-Substrat; Kael hat keine Wahl, KW2 nicht zu betreten“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L725]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170]
+
+- Plot beats: „Konfrontation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „AEGIS' Makro-Log listet Kael als offenen Posten; das Wir antwortet nicht im Log-Format.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- AEGIS: „Datenlast“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Bilanz, die nicht schließt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]

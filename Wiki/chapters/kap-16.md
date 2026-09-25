@@ -1,8 +1,8 @@
 ---
 chapter: 16
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -52,3 +52,15 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „Kap 16 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
 - Sub-location: „Diktatur der physikalischen Zeit (P vs. NP)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
 - Note: „Auflösungsverlust“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L842]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Cites the Source-of-Truth outline's title for this chapter: „Die Diktatur der Komplexität“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L29]
+- Diagnosis: „weiß, was es bedeutet (P vs. NP, Detail-Opferung), aber nicht, was Kael an diesem Tag tut, verliert, riskiert“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L29]
+- Plot beats: „Lektüre II — das Komplexitäts-Budget“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, P vs. NP]`) · „Er findet die Posten-Liste, was die Stadt an Detail opfert — und seine eigene Abteilung als Budget-Instrument.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Characters: „Oblivion reicht in dieser Nacht drei Berichte ein, die Kael nie geschrieben hat (Idee 7; Z1-Bunker“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Fremderledigung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 6: „Kap 15–17 werden Lektüre-Kapitel mit Risiko statt Essay-Kapitel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]

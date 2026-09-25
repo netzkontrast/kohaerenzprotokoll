@@ -1,8 +1,8 @@
 ---
 chapter: 28
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -56,3 +56,13 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - Note: „Übergang“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L854]
 - Transition: „Phase-Shift Kap 28→29“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L796]
 - Transition: „Kael lässt KW3 nicht hinter sich; er nimmt es mit.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L724]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170]
+
+- Plot beats: „VOLL-KONSOLIDIERUNG, STADTGEBIET“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „die Purge-Drohung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „in Apparat-Sprache; A-Consequence akut“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Plot beats: „Die Wartungsfenster verlieren ihren Takt (das erste Mal, dass der Apparat unordentlich wirkt — Degradation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „sichtbar als Stilbruch des Systems“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 5: „28 (Voll-Konsolidierungs-Drohung = Purge“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L68] (marked `[K]`)

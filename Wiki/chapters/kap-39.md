@@ -1,8 +1,8 @@
 ---
 chapter: 39
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -59,3 +59,17 @@ Position: „Vortex 2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-1
 - Note: „Plurale Apotheose; Erstsatz-Echo Kap 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L865]
 - Transition: „Alle Welten sind gleichzeitig wahr; das Wir bewahrt die Differenz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L728]
 - Synthesis: „das Wir-Geflecht sieht alle Welten gleichzeitig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L959]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Vortex 2 | 38–39 | Die Übernahme der Funktion“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L173]
+
+- Plot beats: „Die Übernahme der Funktion — der Beruf transfiguriert: nicht mehr entscheiden, was bleiben darf, sondern halten, dass ist“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Der letzte Bericht (Idee 13): von Hand, gegen das Log-Format“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „letzter Satz = Erstsatz“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Plot beats: „Die Telefon-Stille wird eingelöst“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „das private Register ist Kosmos geworden (A-Cost“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Mikro-Inversion: „Kap 39: Kael bezeugt, dass die Welt ist.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L125]
+- Idea 4: „In Kap 39 kommt durch sie die Einlösung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64] (marked `[K]`)
+- Idea 13: „bis Kap 39: Kael schreibt den letzten Bericht von Hand zu Ende — das Buch; letzter Satz = Erstsatz“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L100] (marked `[K]`)
+- Storyform: „A: Das Gegenregister — die private Buchführung des Wir — wird kosmische Funktion (Kap 39)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L188]

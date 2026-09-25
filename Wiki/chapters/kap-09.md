@@ -1,8 +1,8 @@
 ---
 chapter: 9
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -57,3 +57,14 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „Kap 9 | KW1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]
 - Sub-location: „foreshadowing plurale Bewahrung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]
 - Note: „Wir-Stimme im frühen Aufbau“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L835]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+
+- Plot beats: „Arbeitsteilung an der Konsole — einer sortiert, einer hält inne, einer liest; für Kael fühlt es sich an wie ein guter Tag, nicht wie ein Wir“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Lock: „kein bewusstes Wir vor Kap 9 endet hier exakt an der Kante“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Characters: „ab Kap 9: Arbeitsteilung an der Konsole wird koordiniert“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L217] (Selene)
+- Lock conformity: „Kap 9 = Arbeitsteilung ohne Benennung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L243]

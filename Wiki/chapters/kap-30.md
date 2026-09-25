@@ -1,8 +1,8 @@
 ---
 chapter: 30
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -52,3 +52,13 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - World: „KW4 / Externe Ebene Echo“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]
 - Sub-location: „Moonshine-Link bewusst / Gödel-Gambit Beginn“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]
 - Note: „K-J-Kanal stabil; Polanyi-Tacit-Knowledge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L856]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170]
+
+- Plot beats: „Junas Kanal“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „außerhalb des Apparats etabliert; der Faden notiert nur: Der Kanal hat keine Kennung, der Apparat kann ihn nicht zuweisen, also existiert er für ihn nicht.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Lock: „Nie Subjekt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Idea 9: „30 (der Kanal folgt der Karte)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]

@@ -1,8 +1,8 @@
 ---
 chapter: 19
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -45,3 +45,14 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „Kap 19 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]
 - Sub-location: „AEGIS-Eskalation“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]
 - Note: „Landauer-Strang spike“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L845]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Plot beats: „Kaels Rechte; die Schlange priorisiert plötzlich Bestände, die ihn betreffen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „der Apparat beginnt, ihm seine eigene Vergangenheit zur Konsolidierung vorzulegen (Erasure-Logik offen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Storyform: „der Options-Pool wird sichtbar und zählbar: §2 Optionlock-Diegese“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 11: „Vorklang 19 (Erasure-Logik offen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] (marked `[K]`)

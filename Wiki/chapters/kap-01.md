@@ -1,8 +1,8 @@
 ---
 chapter: 1
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -62,3 +62,18 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Place: „Kaels Wohnung; minimalistisch, AEGIS-überwacht; erste Anomalien beginnen hier“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
 - Place: „Kap 1 (Setting), Kap 2 (erster Riss)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L155] (Sektor 04, marked `[K]`)
 - Lock: „Kap 1 bleibt spurlos.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L165]
+
+- Plot beats: „Routine vollständig etabliert — Sequenzen, Bestätigung, Abweichung 114, der Sprung auf 251“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, v0.3 unverändert]`) · „EINHEIT 734 ENTLASTET“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Thread: „Der Faden fügt Kap 1 nichts hinzu; er deutet rückwärts.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Mikro-Inversion: „Kap 1: Kael bestätigt, dass die Welt stimmt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L124]
+- Work: „Stufe 1 Sequenz-Prüfung (Kap 1, v0.3)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L198]
+- Sensorik: „Dosierung: in Kap 1 nur in Szene 3“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133] · „Schicht-2-Beat“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L133] (marked `[K, 80/20-Lock]`)
+- Lock: „Kap-1-Locks (Erstsatz, 80/20, Einheit 734, Silas-Halbsatz, kaltes Ozon, keine AEGIS-Stimme)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L236] (column marked `[K]`) · „Kap 1 wird nicht angefasst“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L236]
+- Seeds: „1 (nur Existenz, unbetont)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64] (the Leitung, Idee 4) · „zuerst der gelockte Halbsatz im Lüftungsrauschen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L80] (marked `[K, Kap 1]`) · „Die Kennung ist die seiner Wohneinheit“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (marked `[K]`)
+- Risk: „Kap 1 bleibt, wie v0.3 es gelockt hat; die Schlange darf dort implizit bleiben.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L253]

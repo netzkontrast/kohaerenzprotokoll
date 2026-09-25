@@ -1,8 +1,8 @@
 ---
 chapter: 25
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -53,3 +53,12 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - World: „KW3 (Anker 734 dritte Wiederkehr)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L851]
 - Sub-location: „Wartungsschächte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L851]
 - Place: „Wiederkehr Kap 2, Kap 10, Kap 25“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L152] (Wohneinheit 734, marked `[K]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L169]
+
+- Plot beats: „Die Niederlegung — Kael bestätigt nichts mehr. Kein Wort, keine Geste; die Schlange wächst einfach.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Schwelle, nicht Konfrontation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)

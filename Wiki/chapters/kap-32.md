@@ -1,8 +1,8 @@
 ---
 chapter: 32
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,3 +46,13 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - World: „Kap 32 | KW4“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L858]
 - Note: „Oblivion erstmals POV-fähig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L858] (marked `[V]`)
 - Place: „Kap-31/32-Setting möglich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L478] (Forum des Dialogs, marked `[V]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170]
+
+- Plot beats: „Der Wahrheits-Test“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „in der Schlange erscheinen Bestände mit Kaels Signatur, die er nie angelegt hat: Fälschungen seiner Fälschungen, in Oblivions makelloser Hand.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Er muss die eigene Unordnung von der perfekten Kopie seiner Unordnung unterscheiden — und erkennt seine an den Fehlern.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 6: „32 (der Wahrheits-Test prüft genau diese Rechte)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]

@@ -1,8 +1,8 @@
 ---
 chapter: 14
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -56,3 +56,15 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - Note: „AEGIS-Dossiers gefunden“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L840]
 - Place: „Ort, an dem Kael die technischen Dossiers von AEGIS findet“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L247] (Das Archiv der Grenzen, marked `[K]`)
 - Transition: „Wechsel über Evaluierungseinheit in KW3-Topologie, dann Eintritt KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L722]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Plot beats: „Das fehlgeleitete Ticket (Idee 6) — Theta-9-Zugang“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Kael meldet den Fehler nicht.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Erste Erasure-Welle“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als erstes erlebtes Wartungsfenster (Idee 5): Danach fehlt die Abkürzung im Korridor, und nur Kael zählt die Platten neu.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 6: „Lese-Rechte auf das Lernarchiv Theta-9“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72] (marked `[K, Kap 14]`) · „Er meldet den Fehler nicht — die erste aktive Unterlassung des Romans.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]
+- World: „Ab Kap 14 sinkt sie nicht mehr auf null.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)
+- Idea 11: „und 14 (Mnemosyne-Dossiers)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]

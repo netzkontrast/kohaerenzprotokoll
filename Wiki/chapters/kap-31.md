@@ -1,8 +1,8 @@
 ---
 chapter: 31
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -47,3 +47,14 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - Sub-location: „Schwellen-Bruch / Klick-Motiv“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857]
 - Note: „Silas erstmals POV-fähig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L857] (marked `[V]`)
 - Place: „Kap-31/32-Setting möglich“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L478] (Forum des Dialogs, marked `[V]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170]
+
+- Plot beats: „Zwei Geschenke (Idee 11) — verwaltungsförmig: Mnemosyne bietet Vollarchiv-Rechte, der Erasure-Pol bietet die Löschung der eigenen Akte.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Zwei ehrliche Formulare. Kael unterschreibt keines und verlässt den Raum mit beiden Prinzipien (Lichtstaub“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Idea 11: „Die Guardian-Auflösung (Kap 31“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92] (marked `[K]`) · „nicht als Kampf, sondern als doppeltes Angebot“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]
+- Idea 11: „Kael absorbiert beide Prinzipien, indem er beide ablehnt und beide behält“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L92]

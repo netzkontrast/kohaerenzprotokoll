@@ -1,7 +1,7 @@
 ---
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 gathered: "2026-09-25"
 ---
 
@@ -75,3 +75,20 @@ several of these documents call themselves canon, and none retires another
 - One world per chapter: „Pro Kapitel eine dominante Welt (außer Kap 38–40, wo Synthese geschieht).“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L926]
 - Überwelt and Externe Ebene: „Indirekt in jedem Kapitel als Hintergrund-Architektur.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L506] · „Bis Kap 38 nur als Echo / Resonanz / Telefon-Stille spürbar.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L630]
 - Reader escalation: „Die KW-Sequenz ist Stildirektive, nicht Welt-Mechanik.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L874] · „(P → Parakonsistent → NP-Hard → Generativ)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L53] (marked `[K]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+- Count: „Faden-Achse über die 41 Bewegungen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L159] · „Kapitel-Beats des Fadens (Kap 0–40)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L223]
+- Blocks, Kap 0–13: „Genesis-Prolog | 0 | Latenz“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164] · „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L165] · „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L166] · „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+- Blocks, Kap 14–40: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168] · „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L169] · „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170] · „Vortex 1 | 35–36 | Der Apparat kollabiert auf sein Ziel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L171] · „Kap 37 | 37 | Der Gärtner als Sachbearbeiter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L172] · „Vortex 2 | 38–39 | Die Übernahme der Funktion“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L173] · „Coda | 40 | Bezeugung statt Buchung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L174]
+- Hard-B chapter: „Das Hard-B-Kapitel (Slot 16, Position Kap 5–8“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96] (marked `[K]`) · „ein Kapitel in 5–8 (Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L96] (marked `[K]`) · „Hard-B-Kapitel (Position in 5–8, Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Part boundary: „Lebendige Ordnung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Teil-1-Schluss; kleinste mögliche Schöpfung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (the Kap 13 entry)
+- Vortex beats: „Kap 35 (Beats 1–3)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „Kap 36 (Beats 4–5)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Cycles: „Eskalation entlang der drei Zyklen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L68] (marked `[K, Z-Mechanik]`) · „15–23 (Zyklus-Takt)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L68] · „In Z3 (Kap 21–23) die Erkenntnis: Das Muster ist ein Grundriss.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L84]
+- Veil: „Schleier-Disziplin (keine Aussprache vor“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L238] · „kein Klartext vor 13“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L238] (marked `[K]`)
+- Storyform A: „Die Akte aktiv aufsuchen: erst lesen ohne Auftrag (Kap 8), dann kopieren vor dem Klick (Kap 20), dann den eigenen Bestand anlegen (Kap 23)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182]
+- Clocks: „aus demselben Apparat ablesbar: AEGIS sieht den Takt, Kael den Pool, der Leser beide.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L187] · „Der Sweep-Takt und der wachsende Rückstau der Warteschlange“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L186] (Storyform B, MC)
+- Kishōtenketsu: „Kishōtenketsu-konform (Ketsu = der Bericht, der bezeugt statt bucht)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L100]
+- Thread span: „die meisten Kapitel berührt (1–5, 14–26, 31–39)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L108] · „Kapitel-Anker: 1–5, 14–26, 31–36, 39.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L52] · „validierungspflichtig in P1–P5, kanonisierbar erst nach Autor-Bestätigung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L108]

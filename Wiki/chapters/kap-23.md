@@ -1,8 +1,8 @@
 ---
 chapter: 23
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -53,3 +53,13 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - Sub-location: „Eintritt KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L849]
 - Note: „Protektoren-Dominanz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L849]
 - Transition: „Übergang KW2 → KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Plot beats: „Der eigene Bestand — Kael legt den ersten Datensatz an, den die Welt nicht zugewiesen hat (Mosaik als Schöpfung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Plot beats: „das Gegenregister, übertragen in die Form des Systems, unter eigener Kennung. Schöpfung in der Sprache des Apparats.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Storyform: „dann den eigenen Bestand anlegen (Kap 23)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182]

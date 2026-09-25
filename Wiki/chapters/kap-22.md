@@ -1,8 +1,8 @@
 ---
 chapter: 22
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -46,3 +46,15 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - Sub-location: „Bekenstein-Strang erste Spur“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L848]
 - Note: „Welt beginnt zu pixelieren“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L848]
 - Transition: „Übergang KW2 → KW3“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L795]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Plot beats: „Seriennummer 734 (Idee 10)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „Genesis-Flashback Komp 734“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „der Aktenfund im Theta-9; lesen, zurücklegen, nicht schlafen.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 10: „Kap-22-Reveal“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88] (marked `[K, Genesis-Flashback Komp 734]`) · „Er wohnt in der Akte seiner eigenen Quarantäne.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+- Idea 10: „Kael liest nur eine Nummer, legt das Dossier zurück und kann nicht mehr schlafen; der Leser trägt die volle Last.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+- Genesis echo: „den Genesis-Flashback Kap 22 als Szene mit Handlung (finden, lesen, zurücklegen) statt als Vision“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]
+- Lock conformity: „Kap 18/21/22 trennen Flashback und Faden-Ereignis in separate Szenen.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L240]

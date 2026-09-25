@@ -1,8 +1,8 @@
 ---
 chapter: 17
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -53,3 +53,14 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „Kap 17 | KW2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]
 - Sub-location: „Phaenomena vs. Noumena“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]
 - Note: „Kael sieht die“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843] · „Drähte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L843]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Plot beats: „Lektüre III — Rendering vs. Prozess-Kern“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Kant]`) · „Er sieht erstmals, wohin Bestätigtes geht. Nicht weg. Runter.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Im Pflichtbericht dieses Tages steht zum ersten Mal ein erzählter Satz (Idee 13, versehentlich); der Validator lässt ihn passieren — knapp.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 13: „17 (erster erzählter Satz in einem Bericht, versehentlich)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L100]
+- Idea 6: „Kap 15–17 werden Lektüre-Kapitel mit Risiko statt Essay-Kapitel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L72]

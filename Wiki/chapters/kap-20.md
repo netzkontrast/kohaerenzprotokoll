@@ -1,8 +1,8 @@
 ---
 chapter: 20
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -45,3 +45,14 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „KW2 / Genesis-Flashback“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]
 - Sub-location: „Genesis-Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]
 - Note: „Genesis-Flashbacks beginnen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L846]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Plot beats: „Die erste Fälschung — Kael bestätigt einen Selbst-Bestand, nachdem er ihn kopiert hat.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Storyform: „Erste bewusste Pursuit-Bewegung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Er gleicht aus und behält. Der Klick klingt zum ersten Mal anders.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Storyform: „dann kopieren vor dem Klick (Kap 20)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182]
+- Leitmotiv: „Kap 20: anders“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L252]

@@ -1,8 +1,8 @@
 ---
 chapter: 24
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -52,3 +52,15 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - World: „KW3 Gänge der Paranoia“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L850]
 - Sub-location: „AEGIS stört zyklisch Telefon-Stille“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L850]
 - Place: „enge, schlecht beleuchtete, sich verändernde Korridore; Überwachungs-Dichte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L373] (Gänge der Paranoia, marked `[S]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L169]
+
+- Plot beats: „Wartung der Leitung (Idee 4) und Angriff auf den Bestand: Kael verteilt das Register auf die inneren Stimmen — jede trägt einen Teil durch das Fenster.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Erste plurale Bewahrung als Technik (Foreshadowing-Programm“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, ab Kap 9]`)
+- Genesis echo: „genau ein Genesis-Echo“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 4: „In Kap 24 wird die Leitung zyklisch“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]
+- Idea 2: „die plurale Verteilung rettet es (Kap 24)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L56]

@@ -1,8 +1,8 @@
 ---
 chapter: 11
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -57,3 +57,13 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „KW1 / KW3 Übergangs-Schwelle“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L837]
 - Sub-location: „Mosaik des Selbst / Akzeptanz der Komplexität“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L837]
 - Note: „Jaspers' Grenzsituation; Übergang KW1 → KW2/3 vorbereitet“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L837]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+
+- Plot beats: „Die Ordnung des Verworfenen — Kael ordnet seine gelesenen Bestände neu: nicht chronologisch, als Muster.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Leitmotiv: „Mosaik als Tätigkeit, nicht als Wort“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Mosaik-Akzeptanz]`)
+- Idea 3: „11 (Mosaik-Ordnung der Kiste)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]

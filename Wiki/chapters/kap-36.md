@@ -1,8 +1,8 @@
 ---
 chapter: 36
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -58,3 +58,16 @@ Position: „Vortex 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-1
 - Externe Ebene: „Der Substrat-Durchbruch (referenziert Kap 36 / Vortex 1 Beat 4)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L622]
 - Transition: „Substrat-Berührung Beat 4 (Externe Ebene blitzt durch)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L798]
 - Open: „Wie genau bricht die Externe Ebene durch? Was sieht/spürt Kael?“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L941] (marked `[L]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Vortex 1 | 35–36 | Der Apparat kollabiert auf sein Ziel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L171]
+
+- Plot beats: „Beat 4 — Heat Spike“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, einziger kanonischer Landauer-Wärme-Ort]`) · „Die Direkt-Konsolidierung trifft den verteilten, MI-dichten Bestand — und der Apparat erhitzt sich an dem, was er nicht glätten kann.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Beat 5 — Rotation“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Die Bilanz bricht; die Ausnahme (Hard-B-Kapitel) erweist sich als die einzige Buchung, die hält. Der Klick verstummt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- POV: „Letzter Satz: welcher Alter spricht“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Leitmotiv: „in Kap 36 (Beat 5) verstummt er“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129]
+- Storyform: „B: Der Apparat verliert sein Zentrum (Kap 36).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L188]
+- Lock conformity: „Landauer-Wärme ausschließlich Beat 4“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L239] (marked `[K]`)

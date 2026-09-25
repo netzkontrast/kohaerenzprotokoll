@@ -1,8 +1,8 @@
 ---
 chapter: 8
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -56,3 +56,14 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „KW1 (anti-mimetische Räume)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834]
 - Sub-location: „erste Stilcode-Verschiebungen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834]
 - Note: „Akt-I-Mitte; Schleier wird porös“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L834]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L166] · „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+
+- Plot beats: „Nach Dienstschluss bleibt Kael und liest ausgeglichene Bestände — nicht um zu retten, um anzusehen.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Storyform: „Erste Pursuit-Vorform; Mitgefühl mit dem Apparat (Wächterin-Stufe“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Auch die Konsole gleicht nur aus, was ihr zugewiesen wird.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Storyform: „erst lesen ohne Auftrag (Kap 8)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182] (A:MC-Solution Pursuit)
+- Hard-B: „Hard-B-Kapitel (Position in 5–8, Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)

@@ -1,8 +1,8 @@
 ---
 chapter: 4
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -56,3 +56,15 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - World: „KW1 verstecktes Archiv“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]
 - Sub-location: „Gödels Architekt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]
 - Note: „Lex-dominant“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L830]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 1–5 | Der gute Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L165]
+
+- Plot beats: „Das Audit — Kaels Bestätigungslatenz ist um Millisekunden gestiegen (er zögert, seit es das Register gibt).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Prüf-Dialog per Direktive: Fragen, die seine Funktion testen, nicht seine Person, weil das System keine Person kennt.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Leitmotiv: „Leitmotiv-Einlösung: korrumpierte Textdateien“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Zuweisungen, deren Inhalt beim Öffnen zerfällt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Characters: „Ein Regel-Exekutor“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L202] (marked `[S]`) · „taucht erst im Audit (Kap 4) auf, als Stimme der Konsole, nicht als Person“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L202]
+- Lock: „auch in Kap 4 bleibt es bei Direktiven-Sprache“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L202]

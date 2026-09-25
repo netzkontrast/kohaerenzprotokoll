@@ -1,8 +1,8 @@
 ---
 chapter: 38
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,3 +50,13 @@ Position: „Vortex 2“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-1
 - Transition: „Juna erscheint direkt; die Externe Ebene wird betretbar“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L727]
 - Lock: „Lock vor Kap-38-Drafting.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L939] (marked `[L]`)
 - Reader: „Wenn Kael in Kap 38 Juna direkt erreicht, erreicht er die Position des Lesers“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L963]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Vortex 2 | 38–39 | Die Übernahme der Funktion“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L173]
+
+- Plot beats: „Das Rauschen kommt als unendliche Zuweisung — alles beantragt zugleich seine Bewahrung; das Wir erkennt: Kein Apparat reicht“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Beat 2]`)
+- Thread: „Ab Beat 3 (Junas Erscheinung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „ruht der Faden vollständig.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- World: „In Kap 38 ist sie ohne Zahl.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)

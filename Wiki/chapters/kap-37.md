@@ -1,8 +1,8 @@
 ---
 chapter: 37
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -58,3 +58,14 @@ Position: „Reward / Pastorale“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Transition: „Übergang als Reward-Beat; Welt-Wechsel ohne Bewegung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L726]
 - Act: „der trügerischen Pastorale Kap 37, die anders verortet ist“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L408]
 - Transition: „Substrat-Bruch Kap 38“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L799]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Kap 37 | 37 | Der Gärtner als Sachbearbeiter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L172]
+
+- Plot beats: „Kael baut einen sanften Apparat: Zuweisungen werden beantwortet statt bestätigt; jede Antwort ein kleiner Bericht.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Am Rand: Die Schlange füllt sich mit Einträgen, deren Absender das Rauschen ist“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Rauschen-Vorzeichen; keine Resolution-Glättung]`)
+- Lock conformity: „Keine Resolution-Glättung Kap 37“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L244] · „Der sanfte Apparat zerfasert sichtbar (Rauschen-Absender).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L244]
+- Open point: „vor RS-/Kap-37-Encoding“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L264]

@@ -1,8 +1,8 @@
 ---
 chapter: 35
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -57,3 +57,17 @@ Position: „Vortex 1“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-1
 - Note: „Klimax-Setting; Gödel-Gambit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L861]
 - Place: „Das primäre Bild ist beim Vortex-1-Encoding festzulegen.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L254] (marked `[L]`)
 - Lock: „Lock vor Kap-35-Drafting.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L938] (marked `[L]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Vortex 1 | 35–36 | Der Apparat kollabiert auf sein Ziel“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L171]
+
+- Storyform: „Duale Uhren diegetisch“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, Anhang B]`) · „die Schlange konvergiert: nur noch Selbst-Bestände, der Pool zählt rückwärts; Sweep-Takt im kritischen Bereich.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Beat 1)
+- Plot beats: „der Pivot: Die letzte Zuweisung ist der Antrag auf das Ganze“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (Beat 2) · „die eine körperliche Geste“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Plot beats: „Kael nimmt die Hand von der Konsole“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[V]`) · „Vorschlag für den Pivot-Marker; beim Vortex-Encoding bestätigen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Plot beats: „Nicht bestätigen, nicht verwerfen — die dialetheische Wahl als Nicht-Bedienung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Sensorik: „Beat 3 — Stille“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „Die Schlange steht. Sensorischer Anker: das Fehlen des Klicks.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Juna trace: „In Kap 35 ist er der letzte verbleibende Eintrag.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206]
+- Storyform: „schließlich den Antrag auf sich selbst halten statt bedienen (Kap 35)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L182] · open point „Kap 35, Beat 2“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L263]

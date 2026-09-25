@@ -1,8 +1,8 @@
 ---
 chapter: 33
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,3 +50,13 @@ Position: „Akt III Phase A“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-20
 - Place: „Setting der Juna-Wirkung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L665] (Garten der stillen Präsenz, marked `[K]`)
 - Überwelt: „Explizit Kap 33 (Verschränkungs-Insel als Setting)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L506]
 - Open: „Welche Form hat sie? Visualisierung der Persistenzgleichung?“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L945] (marked `[L]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt III-A | 27–34 | Der Deserteur“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L170]
+
+- Plot beats: „Am Kern: die Wurzel der Schlange — die erste Zuweisung des Universums, das Original (Berührung der K₁-Reinform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Juna trace: „Daneben, unangetastet seit Kap 18: der Datensatz ohne Datentyp.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 10: „33 (am Kern: das Original-Dokument)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L88]

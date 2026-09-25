@@ -1,8 +1,8 @@
 ---
 chapter: 0
 status: candidate
-sources: 3
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,3 +50,15 @@ Position: „Genesis-Prolog | 0 | philosophisch-essayist. + Funken-Ich + AEGIS�
 - Note: „Vier-Beat-Genesis; endet mit“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826] · „Ich falle… in unzählige Scherben…“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L826]
 - Lock: „Blutende Knöchel ohne Erinnerung an die Verletzung“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141] · „Kap-0-Lock: dieser Faden lebt in Kap 0; Kap 1 bleibt spurlos.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L141]
 - Transition: „Kael erwacht in KW1 ohne Erinnerung; die Fragmentierung ist gerade vollzogen.“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L721]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Genesis-Prolog | 0 | Latenz“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164]
+
+- Plot beats: „Im Protokollteil fällt einmal das Wort“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[V]`) · „Begriffs-Saat; prüfen gegen kap0-v1-Revisionsplan, keine Neueinfügung erzwingen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Thread event: „Komponente 734 wird konsolidiert“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L164]
+- Leitmotiv: „Kap-0-Erstereignis“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129] (marked `[K]`, the Genesis motif of the click)
+- Juna trace: „Echo der kanonischen Kap-0-Statuszeile“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L206] (marked `[K]`)
+- Open point: „Kap-0-Begriffs-Saat“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L266] · „nur falls der C.3-Revisionsplan ohnehin an der Stelle arbeitet; keine Neueinfügung erzwingen“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L266]

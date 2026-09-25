@@ -1,8 +1,8 @@
 ---
 chapter: 7
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -59,3 +59,14 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Sub-location: „erste explizite Resonanz“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
 - Note: „K-J-Telefon-Stille-Anker etabliert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L833]
 - Transition: „Aktiviert ab Kap 7 (erste explizite Resonanz-Manifestation)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L714] (Modus C, marked `[K]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L166] · „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+
+- Thread: „Faden ruht. (Die Leitung, Idee 4 — eine Szene, ein Konzept.)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „ist eine bewusste Setzung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L225]
+- Idea 4: „In Kap 7 spricht er zum ersten Mal hinein.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L64]
+- Idea 2: „7 (Pause)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L56]
+- Hard-B: „Hard-B-Kapitel (Position in 5–8, Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)

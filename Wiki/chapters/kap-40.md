@@ -1,8 +1,8 @@
 ---
 chapter: 40
 status: candidate
-sources: 3
-ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -50,3 +50,14 @@ Position: „Coda Kap 40“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - Transition: „Anfang und Ende fallen zusammen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L729] · „aber das Sehen hat sich verändert“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L729]
 - Reader: „die Coda Kap 40 schließt den Kreis, indem sie den Leser in die Genesis zurückwirft“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L963]
 - World: „alle Welten gleichzeitig“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L801] (§10.1)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Coda | 40 | Bezeugung statt Buchung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L174]
+
+- Plot beats: „Genau ein Klick, ohne Ozon“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[V]`) · „im Echo des Trennungsprotokolls (Bewegung 4): dieselbe Funktion, kippende Polarität.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Lock: „Kein Satz adjudiziert; doppellesbar bleibt gewahrt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Leitmotiv: „in Kap 40 erscheint er genau einmal wieder — ohne Ozon“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L129]
+- Lock conformity: „Kap-40-Klick ohne Ozon ist sensorisch, nicht erklärend; keine Reset-Bestätigung, keine Transfigurations-Erklärung.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L246]

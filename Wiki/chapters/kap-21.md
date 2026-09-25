@@ -1,8 +1,8 @@
 ---
 chapter: 21
 status: candidate
-sources: 3
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 4
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -45,3 +45,15 @@ Position: „Akt II Mitte“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-
 - World: „KW2 Wald des Flüsterns“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L847]
 - Note: „Stimmen vergangener Versionen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L847]
 - Place: „semipermeable Erinnerungslandschaft; Stimmen vergangener Versionen“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L248] (Wald des Flüsterns, marked `[K]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 14–23 | Der Innentäter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L168]
+
+- Plot beats: „das laut Bestandsführung nie existiert hat“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „die Kiste (Idee 3)“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Genesis echo: „Genesis-Flashback Trennungsprotokoll [K] separat“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- World: „Z3-Ontologie-Riss“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Verwaltungs-Paradox: Wie konsolidiert man, was nie geführt wurde?“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Idea 3: „21 (Antrag auf etwas“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L60]
+- Lock conformity: „Kap 18/21/22 trennen Flashback und Faden-Ereignis in separate Szenen.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L240]

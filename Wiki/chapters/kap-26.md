@@ -1,8 +1,8 @@
 ---
 chapter: 26
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -55,3 +55,14 @@ Position: „Akt II Ende“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-0
 - World: „KW3 Zitadelle“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L852]
 - Note: „Akt-II-Ende; Schleier offen benannt“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L852]
 - Place: „paradoxerweise gefährlichster Ort, weil dort am wenigsten Bedrohung erwartet wird“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L358] (Zitadelle / Inneres Bollwerk, marked `[K]`)
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt II | 24–26 | Die Niederlegung“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L169]
+
+- Plot beats: „Der Apparat reklassifiziert“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „EINHEIT 734: AUSGEFALLEN. DIREKT-KONSOLIDIERUNG VORBEREITET.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- World: „Erasure-Vorbereitung eskaliert“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
+- Plot beats: „Kael verlässt den Knoten; die Tür registriert ihn nicht mehr.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- World: „Ab Kap 26 steigt sie.“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L196] (the Warteschlange)

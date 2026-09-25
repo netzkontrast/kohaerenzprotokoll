@@ -1,8 +1,8 @@
 ---
 chapter: 6
 status: candidate
-sources: 4
-ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md"]
+sources: 5
+ingested: ["aegis-subplots-kapitelweise-system-exploration-docx", "koharenz-protokoll-strukturierter-outline-2026-05-18-md", "kapitel-kompendium-gather-2026-05-31-md", "kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md", "kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md"]
 records: []
 gathered: "2026-09-25"
 ---
@@ -57,3 +57,15 @@ Position: „Akt I (Kap 1–13)“ ^[kohaerenz-protokoll-kernwelten-vollstaendig
 - Sub-location: „erste polyphone Bridge“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L832]
 - Note: „Lex-hypotaktisch + Nyx-stakkato“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L832]
 - Style: „Erste Stilbruch-Spuren in Kap 6“ ^[kohaerenz-protokoll-kernwelten-vollstaendig-2026-06-10-md.md:L927]
+
+## Reading — `kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md`, 2026-06-10, a proposal
+
+Everything here is the document's `[V]` unless it cites `[K]`, and a `[K]` is its claim about a lock it attributes to the Source-of-Truth outline of 2026-06-10.
+
+Position: „Akt I | 5–8 | Die andere Seite des Schalters“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L166] · „Akt I | 6–13 | Der zögernde Angestellte“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L167]
+
+- Plot beats: „Der Doppel-Antrag — zwei Zuweisungen widersprechen sich“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] · „das System verlangt beide Ausführungen. Kael kann nicht beide klicken. Die Hand stoppt (Nyx, ungewollt).“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- World: „Cache-Konflikt“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`) · „als Arbeitsunfall“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229]
+- Sensorik: „Sensorik kalt/Ozon (Polaritäts-Filter“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K, §7-Konflikt 1 des Source-of-Truth]`)
+- Characters: „der erste nicht ausgeführte Ausgleich (Kap 6): die Hand stoppt vor dem Klick — ungewollte Handlung, schleier-konform“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L216] (marked `[K]`)
+- Hard-B: „Hard-B-Kapitel (Position in 5–8, Pinnung beim Weaving“ ^[kp-plot-konkretisierung-13-ideen-f1-faden-2026-06-10-md.md:L229] (marked `[K]`)
