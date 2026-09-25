@@ -4,7 +4,7 @@ subject: Juna's direct appearance
 kind: two canon-era sources place it in different chapters
 status: open
 first_seen: "2026-09-24"
-sources: 8
+sources: 9
 pages: ["juna"]
 ---
 
@@ -108,3 +108,16 @@ explicitly distinguishes prior echoes and effects from direct appearance
 ^[koharenz-protokoll-konzept-iteration-genesis-md.md:L743]. This adds an early
 *visual echo* to the question of what “appearance” means; the author still
 needs to decide whether Kap 33 is an appearance or an effect.
+
+## 2026-09-24 — audit: `dramatica-dual-storyform-status-2026-05-07-md`, 2026-05-07
+
+**A POV row for [[juna|Juna]], the day before the character bible.** The lock-in's
+routing table lists „Juna-POV (selten, Erscheinungsmodi offen)" ^[dramatica-dual-storyform-status-2026-05-07-md.md:L319] as a
+POV instance of its own, dominated by Storyform A: rare scenes with Juna as
+their subject, while how she appears stays open — „Wie taucht Juna auf?"
+^[dramatica-dual-storyform-status-2026-05-07-md.md:L407], which the [[juna]] page holds. It places no chapter, so it speaks
+less to Kap 33 against Kap 38 than to the rule this record holds from the
+Kapitel-Kompendium, „nie Subjekt, nur Wirkung" ^[kapitel-kompendium-gather-2026-05-31-md.md:L196]: three weeks
+earlier, a plan gave her a point of view. This record held nothing from this
+document. Found by the record audit of 2026-09-24
+(`Plan/runs/record-audit-2026-09-24/`, 12-M2).
